@@ -9,3 +9,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - tables
+
+nav:
+  - Guide: 'index.md'
+  - Story:
+      - Act 1 - Beginning Abyss: './story/1-beginning-abyss/main-story.md'
+      - Act 2 - Port Town Grand Legion: './story/2-port-torn-grand-legion/main-story.md'
