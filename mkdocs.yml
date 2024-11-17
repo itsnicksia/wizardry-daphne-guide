@@ -11,7 +11,20 @@ markdown_extensions:
   - tables
 
 nav:
-  - Guide: 'index.md'
+  - Guide: './index.md'
   - Story:
       - Act 1 - Beginning Abyss: './story/1-beginning-abyss/main-story.md'
       - Act 2 - Port Town Grand Legion: './story/2-port-torn-grand-legion/main-story.md'
+
+  - Basics (Coming Soon...): '#'
+  - Classes: './classes/index.md'
+  - Skills: './skills/index.md'
+  - Affinity: './affinity/index.md'
+  - Equipment: './equipment/index.md'
+  - Bondmates: './bondmates/index.md'
+  - Guiding Light: './guiding-light.md'
+  - Well of the Mind: './well-of-the-mind.md'
+  - Frequently Asked Questions: './faq.md'
+  - Maps (Coming Soon...): '#'
+  - Reference:
+    - How much experience do I need to level up?
