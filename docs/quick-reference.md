@@ -2,5 +2,3 @@
 
 ## Element Chart
 ![Element Chart](./img/element-chart.png)
-
-## About
