@@ -28,7 +28,7 @@ Nishi6990 (French)
 - Nanashii
 - Poopenheimer
 
-# Additional Resources
+## Resources
 
 [Official Wizardry Portal](https://wizardry.info/en)  
 [Wizardry Subreddit](https://www.reddit.com/r/wizardry/)  
