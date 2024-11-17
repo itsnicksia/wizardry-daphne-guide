@@ -12,11 +12,15 @@ markdown_extensions:
 
 nav:
   - Guide: './index.md'
+  - Quick Reference: './quick-reference.md'
   - Story:
-      - Act 1 - Beginning Abyss: './story/1-beginning-abyss/main-story.md'
-      - Act 2 - Port Town Grand Legion: './story/2-port-torn-grand-legion/main-story.md'
-
-  - Basics (Coming Soon...): '#'
+      - Act 1 - Beginning Abyss:
+        - Main Story: './story/1-beginning-abyss/main-story.md'
+        - Requests: './story/1-beginning-abyss/requests.md'
+      - Act 2 - Port Town Grand Legion:
+        - Main Story: './story/2-port-town-grand-legion/main-story.md'
+        - Requests: './story/2-port-town-grand-legion/requests.md'
+  - Beginners Guide: './beginners-guide/index.md'
   - Classes: './classes/index.md'
   - Skills: './skills/index.md'
   - Affinity: './affinity/index.md'
