@@ -11,7 +11,7 @@ markdown_extensions:
   - tables
 
 nav:
-  - Guide: './index.md'
+
   - Quick Reference: './quick-reference.md'
   - Story:
       - Act 1 - Beginning Abyss:
@@ -31,3 +31,4 @@ nav:
   - Frequently Asked Questions: './faq.md'
   - Reference:
     - How much experience do I need to level up?
+  -  About The Guide: './index.md'
