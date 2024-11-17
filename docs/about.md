@@ -11,6 +11,8 @@ We welcome contributions and corrections by the community so don’t hesitate to
 
 Source: [Wizardry Variants Daphne Community Guide](https://docs.google.com/document/d/1WoSPMuZe_IOuk9I_qDidcFARhGWorHO9YLONp2dxm70/edit?tab=t.0#heading=h.kf5m90lrs4ob)
 
+### [Quick Reference](./quick-reference.md)
+
 ## Maintainers
 
  - Proto
