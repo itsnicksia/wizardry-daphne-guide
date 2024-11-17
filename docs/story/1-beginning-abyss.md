@@ -1,4 +1,4 @@
-# Abyss 1 - The Beginning Abyss
+# Abyss 1: The Beginning Abyss
 
 ## Saving the King and Not Losing Your Head
 

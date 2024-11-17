@@ -1,4 +1,8 @@
-# Wizardry Variants Daphne Community Guide (Under Migration)
+# Wizardry Variants Daphne Community Guide
+
+!!! Under Migration
+
+    Please note that this site is in the process of being migrated.
 
 
 This guide is maintained by the community of the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) and is a collaborative, ongoing work in progress. 

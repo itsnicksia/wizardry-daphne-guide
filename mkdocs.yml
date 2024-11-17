@@ -1,1 +1,10 @@
 site_name: Wizardry Variants Daphne - Community Guide
+site_url: https://wizardry.fasterthoughts.io
+theme:
+  name: material
+  palette:
+    scheme: slate
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
