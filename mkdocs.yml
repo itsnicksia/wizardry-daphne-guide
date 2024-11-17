@@ -12,6 +12,7 @@ markdown_extensions:
 
 nav:
   - Guide: './index.md'
+  - Beginners Guide: './beginners-guide/index.md'
   - Quick Reference: './quick-reference.md'
   - Story:
       - Act 1 - Beginning Abyss:
@@ -20,7 +21,7 @@ nav:
       - Act 2 - Port Town Grand Legion:
         - Main Story: './story/2-port-town-grand-legion/main-story.md'
         - Requests: './story/2-port-town-grand-legion/requests.md'
-  - Beginners Guide: './beginners-guide/index.md'
+
   - Classes: './classes/index.md'
   - Skills: './skills/index.md'
   - Affinity: './affinity/index.md'

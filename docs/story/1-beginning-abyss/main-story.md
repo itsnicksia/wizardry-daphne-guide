@@ -34,8 +34,7 @@
 
    1. Complete the Rhodium Delivery Request  
    2. When approaching Helmut on B8, choose the dialogue option to stop the debris  
+
 ### Labyrinth Cleared
 
    1. Complete the Cazula Root Delivery quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
-
-# 
