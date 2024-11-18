@@ -16,7 +16,7 @@ nav:
   - Story:
       - Act 1 - Beginning Abyss:
         - Main Story: './story/1-beginning-abyss/main-story.md'
-        - Requests: './story/1-beginning-abyss/requests-bondmates.md'
+        - Requests/Bondmates: './story/1-beginning-abyss/requests-bondmates.md'
       - Act 2 - Port Town Grand Legion:
         - Main Story: './story/2-port-town-grand-legion/main-story.md'
         - Requests: './story/2-port-town-grand-legion/requests.md'
