@@ -9,7 +9,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - tables
-
+extra_css:
+  - stylesheets/table.css
 
 nav:
   - Quick Reference: './quick-reference.md'
