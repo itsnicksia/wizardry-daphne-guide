@@ -1,11 +1,22 @@
 # Quick Reference
 
+## Character Stats
+
+| Stat      | Effect                                                      |
+|-----------|-------------------------------------------------------------|
+| Strength  | Affects Attack Power and SP                                 |
+| I.Q.      | Affects Magic Power, MP and Detect                          |
+| Piety     | Affects Divine Power, Resistance, Magic Defense and MP      |
+| Vitality  | Affects Resistance, Physical Defence, HP and SP             |
+| Speed     | Affects Evasion, Evade Trap, Sure Evasion, and Action Speed |
+| Dexterity | Affects Accuracy, Surety, and Disarm Trap                   |
+| Luck      | Affects the outcome of various actions.                     |
+
+
 ## Element Chart
 ![Element Chart](./img/element-chart.png)
 
 ## Experience Table
-
-Source: https://gamerch.com/wizardry-daphne/877807
 
 | Level  | Next Level Exp | Cumulative Exp |
 |:------:|:--------------:|:--------------:|
@@ -60,3 +71,6 @@ Source: https://gamerch.com/wizardry-daphne/877807
 |   49   |     155000     |    1985712     |
 | **50** |  **LEVELCAP**  |  **2140712**   |
 
+## Credits
+
+[gamerch.com - Experience Table (Japanese)](https://gamerch.com/wizardry-daphne/877807)
