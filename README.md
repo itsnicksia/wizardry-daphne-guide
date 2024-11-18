@@ -19,6 +19,7 @@ Source: [Wizardry Variants Daphne Community Guide](https://docs.google.com/docum
 - TheAxolotl
 - Dune
 - Baldcat
+- Lynd
 
 ## Translators
 
