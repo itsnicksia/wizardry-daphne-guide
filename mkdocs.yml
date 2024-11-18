@@ -23,7 +23,12 @@ nav:
       - Act 2 - Port Town Grand Legion:
         - Main Story: './story/2-port-town-grand-legion/main-story.md'
         - Requests: './story/2-port-town-grand-legion/requests.md'
-  - Skills: './skills/index.md'
+  - Skills:
+      - Passive Skills: './skills/passive-skills.md'
+      - Active Skills: './skills/active-skills.md'
+      - Offensive Spells: './skills/offensive-spells.md'
+      - Debuff Spells: './skills/debuff-spells.md'
+      - Support Spells: './skills/support-spells.md'
   - Grade Up: './grade-up/grade-up.md'
   - Equipment:
       - Blacksmith: './equipment/blacksmith.md'
