@@ -1,5 +1,7 @@
 # Legendary Character Review
 
+# Adam
+
 **Type**: Light  
 **Personality**: Evil  
 **Starting Class**: Mage  
