@@ -510,7 +510,7 @@ Holly Location:
 - Read all mermaid statues and choose the secret text for each   
 - Go back to one-eyed Sahuagin wheel time and speak to the red sahuagin destroying the statue, tell him “Don’t you want to save Melgina” for the dialogue choice  
 - Go back to Flooded Town wheel time and speak with Melgina using the “Do you want to be free from Octonarus” dialogue choice  
-- Complete the Rustproof Knight Delivery request that Melgina gives you instead of getting her the mackerel sandwich  
+- Complete the Rustproof Knife Delivery request that Melgina gives you instead of getting her the mackerel sandwich  
 - Complete the Obtaining Titanium Ore delivery request to have the blacksmith make it and give it to Melgina  
 - Wheel time back to One-eyed sahuagin and respond with “Dont you want to save Melgina” then “I understand, Gessi”  
 - Complete “Obtaining Titanium Ore request”  
