@@ -15,7 +15,9 @@ extra_css:
 nav:
   - Quick Reference: './quick-reference.md'
   - Maps:
-      - Den of Earth: './maps/den-of-earth/index.md'
+      - Beginning Abyss: './maps/beginning-abyss.md'
+      - Trade Waterways: './maps/trade-waterways.md'
+      - Den of Earth: './maps/den-of-earth.md'
   - Story:
       - Act 1 - Beginning Abyss:
         - Main Story: './story/1-beginning-abyss/main-story.md'
@@ -29,9 +31,8 @@ nav:
       - Offensive Spells: './skills/offensive-spells.md'
       - Debuff Spells: './skills/debuff-spells.md'
       - Support Spells: './skills/support-spells.md'
+  - Blacksmithing: './blacksmithing.md'
   - Grade Up: './grade-up/grade-up.md'
-  - Equipment:
-      - Blacksmith: './equipment/blacksmith.md'
   - Affinity: './affinity/index.md'
   - Bondmates: './bondmates/index.md'
   - Guiding Light: './guiding-light.md'
