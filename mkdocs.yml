@@ -25,6 +25,9 @@ nav:
       - Act 2 - Port Town Grand Legion:
         - Main Story: './story/2-port-town-grand-legion/main-story.md'
         - Requests: './story/2-port-town-grand-legion/requests.md'
+  - Strategies:
+      - Combat Strategies: './strategies/combat-strategies.md'
+      - Party Construction: './strategies/party-construction.md'
   - Skills:
       - Passive Skills: './skills/passive-skills.md'
       - Active Skills: './skills/active-skills.md'
