@@ -32,8 +32,6 @@ nav:
       - Debuff Spells: './skills/debuff-spells.md'
       - Support Spells: './skills/support-spells.md'
   - Grade Up: './grade-up/grade-up.md'
-  - Equipment:
-      - Blacksmith: './equipment/blacksmith.md'
   - Affinity: './affinity/index.md'
   - Bondmates: './bondmates/index.md'
   - Guiding Light: './guiding-light.md'

@@ -10,41 +10,6 @@ For an optimal result from Blacksmithing, apply improvements in the following or
 2. Enhancement  
 3. Refinement (use the highest stat stone available)
 
-## Reference
-
-### Extraction Values
-
-**These values are inaccurate, and should be treated as estimates.**
-
-|                                               | 1★  | 2 ★ | 3 ★ | 4 ★ | 5 ★ |
-|:----------------------------------------------|:---:|:---:|:---:|:---:|:---:|
-| **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**        | 1~3 | 2~4 | 3~5 | 4~6 | 5~7 |
-| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
-| **ASPD, SUR**                                 | 1~2 | 2~3 | 3~4 | 4~5 | 5~6 |
-| **ASPD%**                                     | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
-
-### Enhancement Values
-
-**These values are inaccurate, and should be treated as estimates.**
-
-|                                               | 1★  | 2 ★ | 3 ★ | 4 ★  | 5 ★  |
-|:----------------------------------------------|:---:|:---:|:---:|:----:|:----:|
-| **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**        | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
-| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
-| **ASPD, SUR**                                 | 1~3 | 1~5 | 1~7 | 2~9  | 2~11 |
-| **ASPD%**                                     | 1~3 | 1~5 | 1~7 | 2~9  | 2~11 |
-
-### Enhancement Cost
-
-**These values are inaccurate, and should be treated as estimates.**
-
-|  | 1★ | 1★ Total  | 2★   |   2★  Total   | 3★   | 3★ Total  | 4★ | 4★ Total  | 5★ | 5★ Total  |
-| :---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1** |  |  |  |  |  |  |  |  |  |  |
-| **2** |  |  |  |  |  |  |  |  |  |  |
-| **3** |  |  |  |  |  |  |  |  |  |  |
-| **4** |  |  |  |  |  |  |  |  |  |  |
-
 ## Basics of Blacksmithing
 
 ### Extraction
