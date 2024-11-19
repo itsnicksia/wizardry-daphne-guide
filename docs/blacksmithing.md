@@ -1,16 +1,6 @@
 # Blacksmithing
 
-Thanks to everyone in [\#blacksmithing](https://discord.com/channels/1296602475918524507/1306818982078054400)\!
-
-## Quick Start
-
-For an optimal result from Blacksmithing, apply improvements in the following order:
-
-1. Alteration (if applicable)  
-2. Enhancement  
-3. Refinement (use the highest stat stone available)
-
-## Basics of Blacksmithing
+## Basic Blacksmithing
 
 ### Extraction
 
@@ -30,7 +20,7 @@ Refinement bonuses are lost when the substat is upgraded via Enchanting.
 
 Refining an item modifies a substat, and requires an Alteration Stone.
 
-After enhancement to \+5, you can only **Alter** the substat that was last upgraded.
+After enhancement to +5, you can only **Alter** the substat that was last upgraded.
 
 ### Enhancement Inheritance
 
@@ -55,4 +45,3 @@ Full Alteration
 A **Full Alteration Stone** allows you to reroll all unlocked substats on an item.
 
 It is a very rare outcome from **Extraction**.
-
