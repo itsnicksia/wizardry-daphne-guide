@@ -6,7 +6,7 @@
 
 * Princess Pulgritte  
 * Pontiff Leaufonde  
-* \<exact wording to be added\>
+* Admiral Avare
 
 # Merfolk Myth
 
@@ -382,8 +382,11 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 
 # Pair Met at the Pier
 
+* Gave chamomile bouquet
 * Encouraged Bonnie  
 * Gave weapon to Clyde
+* Gave Battle Item Set to the pair
+* Never met them
 
 # 
 
@@ -398,6 +401,10 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 
 * Prepared the forged mandate  
 * Didn’t strategize
+
+# Dealing with Vernant
+* Switched the herbs
+* Didn't strategize
 
 # Requests
 
