@@ -15,7 +15,9 @@ extra_css:
 nav:
   - Quick Reference: './quick-reference.md'
   - Maps:
-      - Den of Earth: './maps/den-of-earth/index.md'
+      - Beginning Abyss: './maps/beginning-abyss.md'
+      - Trade Waterways: './maps/trade-waterways.md'
+      - Den of Earth: './maps/den-of-earth.md'
   - Story:
       - Act 1 - Beginning Abyss:
         - Main Story: './story/1-beginning-abyss/main-story.md'
