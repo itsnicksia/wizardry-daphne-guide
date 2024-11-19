@@ -1,7 +1,7 @@
 # Combat Strategies and Combinations
 ## Openings
 ### What Are Openings?
-In combat, openings are critical opportunities to deal massive damage to enemies. Here’s how they work and when to use them effectively:
+In combat, openings are critical opportunities to deal massive damage to enemies. Here’s how they work and when to use them effectively.
 
 * Openings occur when an enemy is forced into a vulnerable state, marked by a gold circle icon above their head.
 * During this state, they take increased damage from attacks.
@@ -21,12 +21,12 @@ In combat, openings are critical opportunities to deal massive damage to enemies
 * Pair counterattacks with your heaviest hitters for optimal burst damage.
 
 ### Using Openings in Gimmick Fights:
-Some battles rely heavily on exploiting openings for victory:
+Some battles rely heavily on exploiting openings for victory.
 
-* Mimic Chest Fight (Floors 5, 7):
+* Mimic Chest Fight (Floors 5, 7)
     * Strategy: Have your frontline enter Defensive Stance to block attacks and trigger openings. Counterattack immediately with high-damage skills.
     * Why: The mimic deals significant burst damage, so it’s crucial to take it down quickly while minimizing risk.
-* Arena Bosses (Reprobus Brothers, Shagtis, Gessi):
+* Arena Bosses (Reprobus Brothers, Shagtis, Gessi)
     * Strategy: Similar to the mimic fight, use openings to deal burst damage while mitigating incoming attacks.
     * Why: These bosses have high damage output, requiring you to balance survival and offense effectively.
 
