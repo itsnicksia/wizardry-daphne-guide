@@ -6,7 +6,7 @@ theme:
     scheme: slate
 markdown_extensions:
   - toc:
-      toc_depth: 3
+      toc_depth: 4
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -30,7 +30,7 @@ nav:
         - Requests/Bondmates: './story/1-beginning-abyss/requests-bondmates.md'
       - Act 2 - Port Town Grand Legion:
         - Main Story: './story/2-port-town-grand-legion/main-story.md'
-        - Requests: './story/2-port-town-grand-legion/requests.md'
+        - Requests/Bondmates: './story/2-port-town-grand-legion/requests.md'
   - Strategies:
       - Combat Strategies: './strategies/combat-strategies.md'
       - Party Construction: './strategies/party-construction.md'
