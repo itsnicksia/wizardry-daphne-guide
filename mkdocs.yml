@@ -8,12 +8,16 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed
   - tables
+plugins:
+  - glightbox
 extra_css:
   - stylesheets/table.css
 
 nav:
   - Quick Reference: './quick-reference.md'
+  - FAQ: './frequently-asked-questions.md'
   - Maps:
       - Beginning Abyss: './maps/beginning-abyss.md'
       - Trade Waterways: './maps/trade-waterways.md'
@@ -45,5 +49,4 @@ nav:
       - Gerulf: './character-review/Gerulf.md'
       - Lanavaille: './character-review/Lanavaille.md'
       - Yekaterina: './character-review/Yekaterina.md'
-  - Frequently Asked Questions: './frequently-asked-questions.md'
   - About The Guide: './index.md'

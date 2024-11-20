@@ -1,13 +1,13 @@
 # Abyss 2: Port Town Grand Legion
 
-# Saving the Missing Person and Not Being Murdered
+## Saving the Missing Person and Not Being Murdered
 
 1. After winning your second arena battle and watching your missing person get blown up, use the wheel to go back in time to before fighting the second battle.
 2. Find Butch and complete the [Obtaining KnightQuil](./requests.md#obtaining-knightquil) request
 3. After completing the quest, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time\!
 4. Proceed ahead with the remaining arena battles. After you beat Melgina, watch the scenes. Congratulations \- you lived, completed your request, and more importantly, received the lexicon that allows you to read the 7 mermaid statues you encountered\!
 
-## Decision Point
+### Decision Point
 
 From here, you have two options.
 
@@ -16,7 +16,7 @@ From here, you have two options.
 
 The path you choose is ultimately yours, and the only difference is with option 1, you will have to fight Melgina again before you are really able to fight Octonarus. Note that if you are trying to get the IQ Guiding Light, you’ll need to fight Melgina (not Octonarus) a second time anyway, so I personally took the first option because it made sense to me to just collect the mermaid statue knowledge as I went through the maps again. If you do take option 1, this same decision point applies at the end where you can either repeat option 1 for the third faction or move on to option 2\.
 
-# Octonarus
+## Octonarus
 
 Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](./requests.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
 
