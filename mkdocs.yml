@@ -56,4 +56,5 @@ nav:
       - Gerulf: './character-review/Gerulf.md'
       - Lanavaille: './character-review/Lanavaille.md'
       - Yekaterina: './character-review/Yekaterina.md'
+  - Jeweler Package Evaluation: './jeweler-package-evaluation.md'
   - About The Guide: './index.md'
