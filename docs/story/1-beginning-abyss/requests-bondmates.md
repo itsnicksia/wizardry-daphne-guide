@@ -4,9 +4,9 @@
 # Fresh Start
 <br>
 
-# Requests
+## Requests
 
-## Sweet Walnut Delivery
+### Sweet Walnut Delivery
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_1.png width="480" height="270"><br>
 
@@ -17,7 +17,7 @@ Location:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_2.png width="310" height="450">
 
-## Light Shield Material Collection
+### Light Shield Material Collection
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_3.png width="480" height="270"><br>
 
@@ -27,7 +27,7 @@ Location:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_4.png width="310" height="450">
 
-## Fragrant Plant Seed Delivery
+### Fragrant Plant Seed Delivery
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_5.png width="480" height="270"><br>
 
@@ -38,7 +38,7 @@ Location:(Could be random but will be small room)
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_6.png width="310" height="450">
 
-## Scrap Sabaton Collection
+### Scrap Sabaton Collection
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_7.png width="480" height="270"><br>
 
@@ -47,7 +47,7 @@ Location:(Could be random but will be small room)
 - In B1 gather junk and turn in the request  
 - Go back to the item shop to receive item<br><br>
 
-## Rhodium Delivery
+### Rhodium Delivery
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_8.png width="480" height="270"><br>
 
@@ -62,9 +62,9 @@ Locations: (Follow Green for one and Blue for the other)
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_9.png width="310" height="450">
 <br><br>
 
-# Bondmates
+## Bondmates
 
-## Chris the Considerate
+### Chris the Considerate
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_10.png width="300" height="400"><br>
 
@@ -78,7 +78,7 @@ Location of guild tags:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_81.png width="310" height="450">
 
-## Mudd, the Eternal Novice
+### Mudd, the Eternal Novice
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_18.png width="300" height="400"><br>
 
@@ -102,9 +102,9 @@ B4 location:
 # Minor Harken Unlocked
 <br>
 
-# Requests
+## Requests
 
-## Death Stench Investigation
+### Death Stench Investigation
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_19.png width="480" height="270"><br>
 
@@ -115,17 +115,17 @@ Location:
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_20.png width="310" height="450">
 <br><br>
 
-# Bondmates
+## Bondmates
 
-## Sir Maurice, the Live Bait
+### Sir Maurice, the Live Bait
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_21.png width="300" height="400">
 
 # Warped One Vanquished
 
-# Bondmates
+## Bondmates
 
-## Albano
+### Albano
 
 - Do the Fragrant Plant Seed quest to get Dana’s Custom Sachet  
 - After defeating the boss before the first Major Harken, choose the dialogue  
@@ -140,9 +140,9 @@ Location:
 
 # Major Harken Unlocked
 
-# Requests
+## Requests
 
-## Donato’s Redemption
+### Donato’s Redemption
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_24.png width="480" height="270"><br>
 
@@ -153,9 +153,9 @@ Location:
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_25.png width="310" height="450">
 <br><br>
 
-# Bondmates
+## Bondmates
 
-## Donato, the King of Debt
+### Donato, the King of Debt
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_27.png width="300" height="400"><br>
 
@@ -173,9 +173,9 @@ Location:
 # Despicable Trap
 <br>
 
-# Requests
+## Requests
 
-## Abyssal Steel Delivery
+### Abyssal Steel Delivery
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_29.png width="480" height="270"><br>
 
@@ -186,7 +186,7 @@ Location:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_30.png width="310" height="450">
 
-## Knight-Butcher Ent Proliferation
+### Knight-Butcher Ent Proliferation
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_31.png width="480" height="270"><br>
 
@@ -196,7 +196,7 @@ Location:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_32.png width="310" height="450">
 
-## Fluorescent Flower Delivery
+### Fluorescent Flower Delivery
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_33.png width="480" height="270"><br>
 
@@ -217,9 +217,9 @@ B3 Flower Locations:
 # Survivors Found
 <br>
 
-# Bondmates
+## Bondmates
 
-## Ira of the Vanished Village
+### Ira of the Vanished Village
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_37.png width="300" height="400"><br>
 
@@ -232,7 +232,7 @@ Location:(she bugged off the tile for me but it’s in this area)
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_38.png width="310" height="450">
 
-## Harry the Wandering Adventurer
+### Harry the Wandering Adventurer
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_43.png width="300" height="400"><br>
 
@@ -256,9 +256,9 @@ B7 Location:
 # Treacherous Floor Traversal
 <br>
 
-# Requests
+## Requests
 
-## Relentless Massacre Rabbit
+### Relentless Massacre Rabbit
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_44.png width="480" height="270"><br>
 
@@ -268,7 +268,7 @@ Locations:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_45.png width="310" height="450">
 
-## Grandchild Party Rescue
+### Grandchild Party Rescue
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_46.png width="480" height="270"><br>
 
@@ -279,15 +279,15 @@ Location:
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_47.png width="310" height="450">
 <br><br>
 
-# Bondmates
+## Bondmates
 
-## Beheading Bunny
+### Beheading Bunny
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_48.png width="300" height="400"><br>
 
 - Complete the Relentless Massacre Rabbit quest doing all 4 fights
 
-## Mel the Sniveling Thief
+### Mel the Sniveling Thief
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_50.png width="300" height="400"><br>
 
@@ -298,9 +298,9 @@ Location:
 # Second Major Harken
 <br>
 
-# Requests
+## Requests
 
-## Search for Lambert
+### Search for Lambert
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_52.png width="480" height="270"><br>
 
@@ -311,7 +311,7 @@ B7 Location:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_53.png width="310" height="450">
 
-## Abyss Heretics
+### Abyss Heretics
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_55.png width="480" height="270"><br>
 
@@ -321,7 +321,7 @@ Locations:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_82.png width="310" height="450">
 
-## March of the Undead
+### March of the Undead
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_57.png width="480" height="270"><br>
 
@@ -333,9 +333,9 @@ Location:
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_58.png width="310" height="450">
 <br><br>
 
-# Bondmates
+## Bondmates
 
-## Gary the Brave
+### Gary the Brave
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_59.png width="300" height="400"><br>
 
@@ -350,7 +350,7 @@ B7 Location:
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_60.png width="310" height="450">
 
-## Sir Jack, Undead Smiter
+### Sir Jack, Undead Smiter
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_62.png width="300" height="400"><br>
 
@@ -360,9 +360,9 @@ B7 Location:
 # Labyrinth Cleared
 <br>
 
-# Requests
+## Requests
 
-## Cazula Root Delivery
+### Cazula Root Delivery
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_64.png width="480" height="270"><br>
 
@@ -381,9 +381,9 @@ Location:
 # The King’s Rescue
 <br>
 
-# Requests
+## Requests
 
-## The Lingering Scent of the Greater Warped One
+### The Lingering Scent of the Greater Warped One
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_66.png width="480" height="270"><br>
 
@@ -395,9 +395,11 @@ Location:
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_67.png width="310" height="450">
 <br><br>
 
-# Wandering Bondmate
+# Miscellaneous
 
-## Green Jelly
+## Wandering Bondmate
+
+### Green Jelly
 
 <img src=https://wizardrycompanion.s3.us-east-2.amazonaws.com/Part1/image_68.png width="300" height="400"><br>
 

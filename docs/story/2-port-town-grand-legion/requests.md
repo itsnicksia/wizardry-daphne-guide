@@ -2,21 +2,19 @@
 
 # Trade Waterway Arrival
 
-# Client
+## Client
 
 * Princess Pulgritte  
 * Pontiff Leaufonde  
 * Admiral Avare
 
-# Merfolk Myth
-
-# 
+# Merfolk Myth 
 
 # Watery Obstacle
 
-# Requests
+## Requests
 
-## Defend My Shop from Goblins
+### Defend My Shop from Goblins
 
 ![][image1]
 
@@ -24,32 +22,26 @@
 
 Location:
 
-# 
-
-## Water God Statue Restoration Materials
+### Water God Statue Restoration Materials
 
 ![][image2]
 
 - Head to 2nd District \-Black Market- and defeat the 6 bands of fragment thieves  
   - ***Note: If you want to be able to defeat all 6 bands you have to unlock the       power to turn off the statues by progressing the story into the drowning section of Flooded Town wheel warp.***
 
-Locations:
+Locations: 
 
-# 
+## Bondmates
 
-# Bondmates
-
-## Donald
+### Donald
 
 - Complete all waves of the Defend My Shop from Goblins quest 
 
-# 
-
 # Flooded Town
 
-# Requests
+## Requests
 
-## Lizardman Raid
+### Lizardman Raid
 
 ![][image3]
 
@@ -65,16 +57,14 @@ Location:
 - Head back into x for a scene with the harassers and teach them a lesson  
 - Head back to the 4th District \-Boulevard- and give Melgina the sandwich
 
-# 
-
-## Rustproof Knife Delivery
+### Rustproof Knife Delivery
 
 ![][image5]
 
 - Go to Randolf (blacksmith) in the Royal Capital Luknalia   
 - Complete Titanium Ore Delivery Request
 
-## Titanium Ore Delivery
+### Titanium Ore Delivery
 
 ![][image6]
 
@@ -85,22 +75,18 @@ Goblin Nest Location: (In case you forgot)
 
   Titanium Ore Locations:
 
-## 
-
 # Warding Against Water
 
-# Melgina the Bitter
+## Melgina the Bitter
 
 * Gave Fate-Resisting Knife  
 * Gave Mackerel Sandwich
 
-# 
-
 # Sunken City Arrival
 
-# Requests
+## Requests
 
-## Fisherman Rescue
+### Fisherman Rescue
 
 ![][image7]
 
@@ -109,19 +95,17 @@ Goblin Nest Location: (In case you forgot)
 
 Location:
 
-# Bondmates
+## Bondmates
 
-## Bergier the Fisherman
+### Bergier the Fisherman
 
-\- Complete the Fisherman Rescue quest battle within the limited turn count to avoid any of them dying.
-
-# 
+\- Complete the Fisherman Rescue quest battle within the limited turn count to avoid any of them dying. 
 
 # One-Eyed Sahuagin
 
-# Requests
+## Requests
 
-## Retake Stolen Belongings from Robbers
+### Retake Stolen Belongings from Robbers
 
 ![][image8]
 
@@ -130,7 +114,7 @@ Location:
 Location  
 :
 
-## Obtaining Titanium Ore
+### Obtaining Titanium Ore
 
 ![][image9]
 
@@ -141,19 +125,17 @@ Location
 
 Location:
 
-# Bondmates
+## Bondmates
 
-## Pirate Captain Valo
+### Pirate Captain Valo
 
 - Complete Retake Stolen Belongings from Robbers selecting the “Pirates?” dialogue choice when prompted at quest start
 
-# 
-
 # Colossal Galleon
 
-# Requests
+## Requests
 
-## Unnamed Request
+### Unnamed Request
 
 **WIP** *(Not sure what relevance completing or not completing this has as of yet)*
 
@@ -168,7 +150,7 @@ Npc’s location:
 Sahagins General Location:   
 ![][image11]
 
-## Pirate’s Cutlass Delivery
+### Pirate’s Cutlass Delivery
 
 ![][image12]
 
@@ -177,9 +159,9 @@ Sahagins General Location:
 
 # All Aboard
 
-# Requests
+## Requests
 
-## Delivering Chamomile for the Dead
+### Delivering Chamomile for the Dead
 
 ![][image13]
 
@@ -191,7 +173,7 @@ Sahagins General Location:
 
 Location:
 
-## Two-Headed Serpents
+### Two-Headed Serpents
 
 Note: This request can be a bit funky as your locations for the bodies and the mermaid’s secret can be different on repeat attempts. Some folks have also reported being unable to find the secret on subsequent attempts of the request even after checking every locked door multiple times.
 
@@ -203,25 +185,12 @@ Note: This request can be a bit funky as your locations for the bodies and the m
   Quest Npc Location:  
     
   Lower Deck 1   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-  
-
-
-
-
+   
 1st District \-Back Alley- Friend Locations:               2nd District \-Black Market- M.Secret Location                                                
 (The npc icon was in the circle but the   
 body was bugged where the arrow points)
 
-## Servant and Cargo Recovery
+### Servant and Cargo Recovery
 
 ![][image15]
 
@@ -231,7 +200,7 @@ body was bugged where the arrow points)
 
 Location:
 
-## Repel Enemy Forces
+### Repel Enemy Forces
 
 ![][image16]
 
@@ -240,25 +209,21 @@ Location:
 
 Location:
 
-# Bondmates
+## Bondmates
 
-## Doris, the Frightened Maid
+### Doris, the Frightened Maid
 
 - Complete the Servant and Cargo Recovery Request and choose to let the maids go.
 
-# 
-
-## Caterwaul Crew
+### Caterwaul Crew
 
 - Complete the Repel Enemy Forces Request and defeat all waves.
 
-## 
-
 # Rickert’s Shop
 
-# Requests
+## Requests
 
-## Oar Collector Extermination
+### Oar Collector Extermination
 
 Note: This request appears to be bugged and does not spawn oar collectors on subsequent repeats after completing it once  
 ![][image17]
@@ -268,9 +233,7 @@ Note: This request appears to be bugged and does not spawn oar collectors on sub
 
 Locations:
 
-# 
-
-## Scorpion Woman Legs and Herb Procurement
+### Scorpion Woman Legs and Herb Procurement
 
 ![][image18]
 
@@ -278,11 +241,9 @@ Locations:
 
 
 Scorpion Woman Locations:  
-    Herb Locations:
+    Herb Locations: 
 
-## 
-
-## Giant Insect Procurement
+### Giant Insect Procurement
 
 ![][image19]
 
@@ -291,7 +252,7 @@ Scorpion Woman Locations:
 Location:  
 ![][image20]
 
-## Minotaur Spare Rib Procurement
+### Minotaur Spare Rib Procurement
 
 ![][image21]
 
@@ -300,9 +261,7 @@ Location:
 
 Locations: (Not sure if this will be the case for everyone but the south mark gave me Minotaur head every battle and the north mark gave me Spare Leg every battle, I reset encounters by going back to town and went back in to respawn them and such was the case until I turned in the quest. The mobs move as well so marks an approximation and not exact location.)
 
-# 
-
-## Hydra Plant Procurement
+### Hydra Plant Procurement
 
 ![][image22]
 
@@ -313,7 +272,7 @@ Locations: (Not sure if this will be the case for everyone but the south mark ga
 
 ![][image23]
 
-## Obtaining KnightQuil
+### Obtaining KnightQuil
 
 ![][image24]  
 Note: The easiest time to complete this is after Arena Round 1 and before Arena Round 2
@@ -329,9 +288,9 @@ Note: The easiest time to complete this is after Arena Round 1 and before Arena 
 
 Activation Location: (Talk to Butch)
 
-# Bondmates
+## Bondmates
 
-## Head Cook
+### Head Cook
 
 Complete the four Procurement requests but turn them in directly to the head cook and not to the guild.
 
@@ -339,26 +298,26 @@ Note: Missing pictures
 
 # Arena Round 1
 
-# Dealing with Cursed Weapon
+## Dealing with Cursed Weapon
 
 * Strategized  
 * Didn’t strategize
 
-# Dealing with Bad Breath
+## Dealing with Bad Breath
 
 * Strategized  
 * Didn’t strategize
 
-# Requests
+## Requests
 
-## Eradicate Warped Ones Belowdecks
+### Eradicate Warped Ones Belowdecks
 
 ![][image25]
 
 - Defeat 5 warped one enemies in the ship.   
   Note: There is no specific area on the map, just defeat overworld enemies.
 
-## Purple Garlic Delivery
+### Purple Garlic Delivery
 
 ![][image26]
 
@@ -370,45 +329,41 @@ Note: Missing pictures
 
 Note: For the last 2 thieves you’ll need to go between 2 trees and click the rubble. If it won’t let you interact with it then try circling around till you can. Then head west for the peddler’s goods.
 
-## Exterminate Farm Monsters
+### Exterminate Farm Monsters
 
 ![][image27]
 
 - Defeat the warped ones
 
-# 
-
 # Arena Round 2
 
-# Pair Met at the Pier
+## Pair Met at the Pier
 
 * Gave chamomile bouquet
 * Encouraged Bonnie  
 * Gave weapon to Clyde
 * Gave Battle Item Set to the pair
-* Never met them
-
-# 
+* Never met them 
 
 # Arena Round 3
 
-# Missing Person Appearing in the Arena
+## Missing Person Appearing in the Arena
 
 * Defeated Butch  
 * Caught in Butch’s explosion
 
-# Dealing with Shagtis
+## Dealing with Shagtis
 
 * Prepared the forged mandate  
 * Didn’t strategize
 
-# Dealing with Vernant
+## Dealing with Vernant
 * Switched the herbs
 * Didn't strategize
 
-# Requests
+## Requests
 
-## Pickerel’s Report
+### Pickerel’s Report
 
 ![][image28]
 
@@ -416,7 +371,7 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 - Complete Temple Food Assistance Request.  
 - Speak to Pickerel at Upper Deck \-Arena-.
 
-## Temple Food Assistance
+### Temple Food Assistance
 
 ![][image29]
 
@@ -425,11 +380,9 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 - Go to Valeon Grasslands and gather 1 Wild Carrot, they grow near white flowers.  
 - Turn in quest at the Temple in Royal Capital Luknalia.
 
-Location: (Walk around this large patch of white flowers)
+Location: (Walk around this large patch of white flowers) 
 
-# 
-
-## Monster Bird Soup
+### Monster Bird Soup
 
 ![][image30]  
 Church Route Exclusive  
@@ -445,39 +398,35 @@ Church Route Exclusive
     
     
     
-  Pickerel Location:
-
-# 
+Pickerel Location: 
 
 # Arena Round 4
 
-# Purple Garlic
+## Purple Garlic
 
 * Gave to Head Cook  
 * Didn’t give
 
-# Requested Titanium Ore
+## Requested Titanium Ore
 
 * Gave  
 * Didn’t give
 
-# 
-
 # Arena Round 5
 
-# Dealing with the Mermaid’s Song
+## Dealing with the Mermaid’s Song
 
 * Strategized  
 * Didn’t strategize
 
-# Dealing with Infinite Magic Beasts
+## Dealing with Infinite Magic Beasts
 
 * Strategized  
 * Didn’t strategize
 
-# Requests
+## Requests
 
-## Murder Investigation
+### Murder Investigation
 
 ![][image31]
 
@@ -491,24 +440,22 @@ Holly Location:
 2nd Marin Location if voice healed:  
 ![][image32]
 
-## Gathering Sahuagin Scales
+### Gathering Sahuagin Scales
 
 ![][image33]
 
 - Defeat Sahuagin in Port Town Grand Legion Abyss to collect scales.
 
-# Bondmates
+## Bondmates
 
-## Gigi
+### Gigi
 
 - After witnessing his death to Melgina on the 1st run, warn him of his impending demise the second time so that he lives.  
 - Find him in the same spot he was in on the boat and speak to him after defeating Melgina and successfully completing your objective.
 
 ![][image34]
 
-# 
-
-## Melgina
+### Melgina
 
 (This one is a bit messy because there was quite a lot of back and forward but this hits the main points)
 
@@ -524,7 +471,7 @@ Holly Location:
 - Wheel time back to Arena Round 5 and after defeating Geuzan, choose “Melgina's liberation” as the dialogue  
 - Defeat the boss and examine what’s in his hands after getting the relic when prompted
 
-## Marin
+### Marin
 
 - Honestly not too sure what the requirements are but she has 4 different locations she can spawn during this quest  
 - The location you WANT her to spawn is in is the one listed and I had to keep redoing the quest until she finally spawned here so that she drops the hairband  
@@ -534,21 +481,19 @@ Holly Location:
 Marin Location:  
         Marin and Rickert Location:
 
-# 
-
 # Return to the Capital
 
-# Requests
+## Requests
 
-## Arena Tourney Hosted by Avare\!
+### Arena Tourney Hosted by Avare\!
 
 ![][image35]
 
 - Go to Upper Deck \-Arena- where the goblin that started the arena fights was and there should be a new NPC there now.  
 - Complete the fights
 
-# Bondmates
+## Bondmates
 
-## Reprobus
+### Reprobus
 
 - Complete the Arena Tourney Hosted by Avere request to completion
