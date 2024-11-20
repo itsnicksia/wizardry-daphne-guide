@@ -57,9 +57,31 @@ These strategies are effective in both early-game when your resources are low an
         * Defense increases survivability by boosting stats and reducing damage taken.
         * Counterattacks exploit openings to deal significant damage, turning the tide of battle.
 
+### Delay Attack
+A useful tactic for dealing with stronger enemies and bosses is leveraging the Thief’s skill, Delay Attack. This ability can be particularly effective in controlling the flow of battle.
+
+#### How Delay Attack Works:
+* Purpose: Delay Attack pushes back an enemy’s turn, potentially giving your party additional actions before the enemy can strike.
+* Chaining: In some cases, you can chain Delay Attack, allowing your Thief’s turn to come up again before the enemy gets a chance to act.
+* Boss Resistance: Be aware that bosses typically have high resistance to this skill. While the first use may succeed, subsequent attempts have a significantly reduced chance of working.
+
+#### Strategy Example:
+* Start with Delay Attack:
+    * Use the Thief to push back the enemy’s turn, disrupting their action sequence.
+* Follow Up with Crowd Control:
+    * Have your Knight or Mage use abilities like Sleep or Stun to further delay the enemy’s turn and waste their action.
+* Capitalize on the Advantage:
+    * While the enemy is incapacitated, focus your party’s attacks to deal as much damage as possible.
+* Repeat if Possible:
+    * If Delay Attack is successful again, continue the cycle to prevent the enemy from attacking.
+    * Aim to burn down the enemy quickly before they can retaliate.
+
+This tactic is highly effective against stronger enemies that rely on heavy, infrequent attacks. However, for bosses with resistance to crowd-control effects, this approach may require adjustments to avoid relying solely on chaining Delay Attack.
+
 ## Key Takeaways
 * Openings are essential for both regular encounters and boss fights. Use them strategically for maximum effectiveness.
 * Sleep is invaluable from early to mid-game for controlling crowds and disrupting enemy actions, requiring minimal investment.
+* Controlling turn order with Delay Attack can be extremely beneficial in making sure you get necessary damage, heals, or other crowd control in before enemies attack.
 * Adapt your strategies to available resources:
     * Use counterattacks and defense when overwhelmed.
     * Focus on action economy to increase survivability in challenging encounters.
