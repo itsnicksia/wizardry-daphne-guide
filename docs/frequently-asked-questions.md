@@ -3,7 +3,12 @@
 ## General Questions
 
 ### Are there different tiers of adventurers that we can get?
-Yes! This can be seen if you look at the Drop Rates for Adventurer’s Remains. The different tiers are: **Anonymous Adventurer** (example: Human-Fig) **General Adventurer** (example: Marianne) **Legendary Adventurer** (example: Lanavaille) Interestingly, there doesn’t seem to be anything on an adventurer’s stats page that indicates what tier they are in.
+Yes! This can be seen if you look at the Drop Rates for Adventurer’s Remains. The different tiers are: 
+* **Anonymous Adventurer** (example: Human-Fig)
+* **General Adventurer** (example: Marianne)
+* **Legendary Adventurer** (example: Lanavaille)
+
+Interestingly, there doesn’t seem to be anything on an adventurer’s stats page that indicates what tier they are in.
 
 ### Is there permadeath in this game?
 There is, however it is very difficult to trigger. First, you need to have an adventurer with lower than 50 Fortitude. Second, you need to fail in resurrecting that adventurer at the Temple, causing them to turn to ash. Third, you need to fail at resurrecting the adventurer from ash. At that point, they are gone for good. Fortitude continues to regenerate while a character is dead, so when in doubt, just wait for adventurer’s Fortitude to be above 50 before you try resurrecting from the Temple.
