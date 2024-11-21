@@ -78,6 +78,20 @@ A useful tactic for dealing with stronger enemies and bosses is leveraging the T
 
 This tactic is highly effective against stronger enemies that rely on heavy, infrequent attacks. However, for bosses with resistance to crowd-control effects, this approach may require adjustments to avoid relying solely on chaining Delay Attack.
 
+### Revival
+
+When a party member dies, you get an opportunity to revive them, but the
+animation to hit the circle on first attempt is very fast and difficult to
+hit.
+
+There is a trick to doing it consistently: Press the revive as soon as the
+circle animation starts. This is most consistent, if you set your game to run
+at 30fps. If running at 60fps, then the correct timing is to press just a
+little bit after the animation starts, maybe 300-500ms later.
+
+Do note that the target circle gets smaller according to dead character's
+fortitude, and so this trick also becomes less useful.
+
 ## Key Takeaways
 * Openings are essential for both regular encounters and boss fights. Use them strategically for maximum effectiveness.
 * Sleep is invaluable from early to mid-game for controlling crowds and disrupting enemy actions, requiring minimal investment.
