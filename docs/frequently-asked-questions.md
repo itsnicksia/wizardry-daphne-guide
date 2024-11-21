@@ -43,13 +43,13 @@ The current exams are Lead, Bronze, and Iron. All exams require a tag of your cu
 The TL;DR is that to grade up, each adventurer needs a grade tag of their current grade, and they need to have been a part of the exam where you obtained the next grade marker.
 
 ### How do I get grade tags?
-Dismiss adventurers and combine lower grade tags into higher grade tags. In addition, you get a few from the weekly request.
+Dismiss adventurers and combine lower grade tags into higher grade tags. In addition, you get a few from the weekly request. When dismissed, all adventurers will give you a grade tag that corresponds to their current grade. General and Legendary adventurers will give an additional grade tag as well.
 
-* Anonymous Adventurers (Human-Pri, etc) give 1 No Grade Tag when dismissed.
-* General Adventurers (Chloe, Clarissa, Flut, etc) give 2 No Grade Tags when dismissed.
-* Legendary Adventurers (Lanavaille, Adam, etc) give 1 No Grade Tag and 1 Iron Tag when dismissed.
+* Anonymous Adventurers (Human-Pri, etc) give 1 grade tag that corresponds to their current grade.
+* General Adventurers (Chloe, Clarissa, Flut, etc) give 1 grade tag that corresponds to their current grade, plus an additional 1 no-grade tag when dismissed.
+* Legendary Adventurers (Lanavaille, Adam, etc) give 1 grade tag that corresponds to their current grade, plus an additional 1 iron grade tag when dismissed.
 
-These above tags assume you dismiss without leveling and grading up your adventurers. Dismissing higher grade adventurers results in a slight increase in the quality of grade tags you receive, however because it costs a grade tag to grade up an adventurer, the result works out to be identical.
+Due to the fact that it costs grade tags to increase an adventurer's grade, the increased value of tags you get is offset by the cost to grade up.
 
 **There is no benefit in grading up an adventurer before dismissing them**. The weekly requests starts with a 3 tag reward and increases to 4 tags at a certain point. This isn’t confirmed, but it seems to be when your MC is level 40 in any class, possibly also requiring the MC having changed to another class.
 
