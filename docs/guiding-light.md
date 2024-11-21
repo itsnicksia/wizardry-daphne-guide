@@ -2,7 +2,7 @@
 
 | Guiding Light | Method to Obtain |
 |:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| STR           | Obtained shortly after unlocking Well of the Mind                                                                                                    |
+| STR           | Obtained after unlocking the Cursed Wheel                                                                                                            |
 | VIT           | Complete the Beginning Abyss and save the king                                                                                                       |
 | PIE           | Beat Melgina for the first time, regardless of missing person request taken                                                                          |
 | IQ            | Save the missing person, including speaking to him on deck, prior to killing Melgina any time after the first kill                                   |
@@ -14,4 +14,3 @@
 | LUCK 4        | Defeat Octanarus                                                                                                                                     |
 | LUCK 5        | Clear all 3 main Port Town requests                                                                                                                  |
 | LUCK 6        | Clear the Monster Soup quest for Pickerel                                                                                                            |
-
