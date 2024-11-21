@@ -22,8 +22,11 @@ experience starts dropping. There are a few ways to achieve this:
 
 [^1]: A good opportunity for also building trust with party members.
 
+> :warning: Doing a grade up will *slow down* your leveling. Don't do it unless
+> you really need to!
 
-## Undead March
+## Farms
+### Undead March
 
 After reaching B8F, a request "Undead March" becomes available, consisting of
 four waves of almost exclusively undead enemies. This request gives 13,058 EXP
@@ -45,7 +48,7 @@ Experience gains per character level:
 This means, the farm is only really good for ungraded characters, capped at
 Lv.20.
 
-### Strategy
+#### Strategy
 
 Place MC in front row, rest don't matter as long as you can cast nuke(s).
 Ensure your spellcaster(s) always go before MC, to deal with the rare occasion
@@ -65,13 +68,59 @@ Turning the mission in after completion yields some gold, but also takes ~30s
 and is entirely optional.
 
 
-## Repel Enemy Forces
+### Repel Enemy Forces
 
-This mission becomes available after reaching 7th District in Port Town. Benefits
-are much higher threshold (Lv.40) for maximum gains and ability to bail out of
-the mission and immediately start over, without any additional hassle.
-Typically first two waves are defeated, then bail out and repeat.
+This request becomes available after reaching the Ship in Port Town, from 7th
+District. Benefits are higher threshold (Lv.30) for maximum gains, higher
+overall gains and involves much less traveling. Request is immediately
+repeatable; optimal farming strategy is bailing out after two waves.
 
-### Strategy
+For a party with two to three mages able to cast four nukes each, two waves can
+be defeated twice for a total maximum gain of 20,646 EXP.
 
-TBD
+Experience gains per character level:
+
+* Lv.30: Full
+* Lv.40: 66%
+
+For a Lv.40 party, the gains are similar to Lv.20 doing Undead March, in the
+ballpark of 200,000 EXP per hour. The time is a rough estimate, and also
+depends on if you need a third mage nuke or not.
+
+#### Strategy
+
+Grab the request from Guild after visiting Ship 1. This only needs to be done
+once, and the request should *not* be turned in. If you're taking the Cursed
+Wheel, go to "All Aboard" (or later) for the request.
+
+Main enemies in both waves are Plague Crewmen, with over 900 HP. They are
+vulnerable to earth element, so having an earth nuke will help. It is possible
+to dispatch both waves with only two Lv.40 mages (Yekaterina and Adam tested),
+but this requires stacking Magic Power up to around 200 for each.
+
+
+---
+
+**NOTE**
+
+This farm can be dangerous, if not paying attention to which wave you're on.
+The third enemy wave contains an Ore Collector, which is difficult and time
+consuming to kill. If you accidentally challenge the third wave instead of
+bailing out, quickest way out is intentionally getting your MC killed and using
+a flame to revive the party. There is no way to tell at the dialog screen,
+which wave is next, and the fight cannot be flee'd from.
+
+---
+
+## Tips
+
+If you're planning on farming a lot of EXP, it is worthwhile to optimise your
+approach beforehand. Focus on consistency and efficiency, so you can do it
+paying as little attention as possible. Timing the process can also be helpful,
+for example if you need a second or third nuke for every wave, the time it
+takes to perform can add a lot to the grand total.
+
+The Adventurer's Passport and Elite Passport from Jeweler contain EXP gain
+boosts. These are normally paid upgrades, but have been made available also for
+free a few times already. These can be very useful to shave off time from a
+longer haul.
