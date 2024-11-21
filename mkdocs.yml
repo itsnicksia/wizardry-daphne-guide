@@ -4,10 +4,13 @@ theme:
   name: material
   palette:
     scheme: slate
+  features:
+    - content.footnote.tooltips
 markdown_extensions:
   - toc:
       toc_depth: 4
   - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed
