@@ -84,13 +84,12 @@ When a party member dies, you get an opportunity to revive them, but the
 animation to hit the circle on first attempt is very fast and difficult to
 hit.
 
-There is a trick to doing it consistently: Press the revive as soon as the
-circle animation starts. This is most consistent, if you set your game to run
-at 30fps. If running at 60fps, then the correct timing is to press just a
-little bit after the animation starts, maybe 300-500ms later.
-
-Do note that the target circle gets smaller according to dead character's
-fortitude, and so this trick also becomes less useful.
+There are two tricks to doing it consistently that people have had luck with:
+* Press the revive as soon as the circle animation starts.
+   * This is most consistent, if you set your game to run at 30fps.
+   * If running at 60fps, then the correct timing is to press just a little bit after the animation starts, maybe 300-500ms later.
+   * Do note that the target circle gets smaller according to dead character's fortitude, and so this trick also becomes less useful.
+* Tap on the screen immediately as (or slightly after) your MC touches the dead adventurer's back.
 
 ## Key Takeaways
 * Openings are essential for both regular encounters and boss fights. Use them strategically for maximum effectiveness.
