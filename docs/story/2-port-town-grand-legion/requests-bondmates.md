@@ -1,5 +1,5 @@
 # Port Town Grand Legion
-
+ width=.*
 ## Search Request
 
 ## Trade Waterway Arrival
@@ -18,32 +18,32 @@
 
 #### Defend My Shop from Goblins
 
-<img src=img/image_1.png width="480" height="270">
+![](img/image_1.png)
 
 - Exterminate the goblins attacking the shop in Trading Waterway \-Entrance-
 
 Location:
 
-<img src=img/image_2.png width="400" height="400">
+![](img/image_2.png)
 
 #### Water God Statue Restoration Materials
 
-<img src=img/image_3.png width="480" height="270">
+![](img/image_3.png)
 
 - Head to 2nd District \-Black Market- and defeat the 6 bands of fragment thieves  
   - ***Note: If you want to be able to defeat all 6 bands you have to unlock the       power to turn off the statues by progressing the story into the drowning section of Flooded Town wheel warp.***
 
 Locations: 
 
-<img src=img/image_4.png width="400" height="400">
+![](img/image_4.png)
 
 ### Bondmates
 
 #### Donald
 
-<img src=img/image_5.png width="300" height="400">
+![](img/image_5.png)
 
-<img src=img/image_6.png width="300" height="100">
+![](img/image_6.png)
 
 - Complete all waves of the Defend My Shop from Goblins quest 
 
@@ -53,45 +53,45 @@ Locations:
 
 #### Lizardman Raid
 
-<img src=img/image_7.png width="480" height="270">
+![](img/image_7.png)
 
 - Head to 3rd District \-Iron Gate Street- and defeat the Sahagin/Lizardmen assault
 
 Location:
 
-<img src=img/image_8.png width="400" height="400">
+![](img/image_8.png)
 
 ### Mackerel Sandwich Delivery
 
-<img src=img/image_9.png width="480" height="270">
+![](img/image_9.png)
 
 - Go back to the Port Town and speak with Tessa the Baker  
 - Head back into x for a scene with the harassers and teach them a lesson  
 - Head back to the 4th District \-Boulevard- and give Melgina the sandwich
 
-<img src=img/image_10.png width="200" height="400">
+![](img/image_10.png)
 
 #### Rustproof Knife Delivery
 
-<img src=img/image_11.png width="480" height="270">
+![](img/image_11.png)
 
 - Go to Randolf (blacksmith) in the Royal Capital Luknalia   
 - Complete Titanium Ore Delivery Request
 
 #### Titanium Ore Delivery
 
-<img src=img/image_12.png width="480" height="270">
+![](img/image_12.png)
 
 - Go to the goblin nest on B3 of Beginning Abyss and collect 3 Titanium ore  
 - Turn the ore into Randolf
 
 Goblin Nest Location: (In case you forgot)
 
-<img src=img/image_13.png width="400" height="400">
+![](img/image_13.png)
 
   Titanium Ore Locations:
   
-<img src=img/image_14.png width="400" height="400">
+![](img/image_14.png)
 
 ## Warding Against Water
 
@@ -106,22 +106,22 @@ Goblin Nest Location: (In case you forgot)
 
 #### Fisherman Rescue
 
-<img src=img/image_15.png width="480" height="270">
+![](img/image_15.png)
 
 - Go to 4th District \-Boulevard- and meet the fisherman at the location marked by green  
 - Go to the other marked location and begin a turn limited battle against enemies to save his friends 
 
 Location:
 
-<img src=img/image_16.png width="400" height="400">
+![](img/image_16.png)
 
 ### Bondmates
 
 #### Bergier the Fisherman
 
-<img src=img/image_17.png width="300" height="400">
+![](img/image_17.png)
 
-<img src=img/image_18.png width="300" height="100">
+![](img/image_18.png)
 
 \- Complete the Fisherman Rescue quest battle within the limited turn count to avoid any of them dying. 
 
@@ -131,17 +131,17 @@ Location:
 
 #### Retake Stolen Belongings from Robbers
 
-<img src=img/image_19.png width="480" height="270">
+![](img/image_19.png)
 
 - Go to 5th District \-Sunken City- and defeat the waves of ruffians
 
 Location:
 
-<img src=img/image_20.png width="400" height="400">
+![](img/image_20.png)
 
 #### Obtaining Titanium Ore
 
-<img src=img/image_21.png width="480" height="270">
+![](img/image_21.png)
 
 - Go to B3 of Beginning Abyss and head to the Goblin Nest (Refer to Titanium Ore Delivery Request under Flooded Town Requests for location)  
 - Not sure if needed but after checking all the locations for the ore that were marked in Titanium Delivery Request it started a dialogue to look for the Ore guy that was seen blocking the way earlier  
@@ -150,15 +150,15 @@ Location:
 
 Location:
 
-<img src=img/image_22.png width="400" height="400">
+![](img/image_22.png)
 
 ### Bondmates
 
 #### Pirate Captain Valo
 
-<img src=img/image_23.png width="300" height="400">
+![](img/image_23.png)
 
-<img src=img/image_24.png width="300" height="100">
+![](img/image_24.png)
 
 - Complete Retake Stolen Belongings from Robbers selecting the “Pirates?” dialogue choice when prompted at quest start
 
@@ -177,15 +177,15 @@ Location:
 
 Npc’s location:
 
-<img src=img/image_25.png width="400" height="400">
+![](img/image_25.png)
 
 Sahagins General Location:
 
-<img src=img/image_26.png width="400" height="200">
+![](img/image_26.png)
 
 #### Pirate’s Cutlass Delivery
 
-<img src=img/image_27.png width="480" height="270">
+![](img/image_27.png)
 
 - Go to the item shop in Royal Capital Luknalia and talk to Walter to buy the Cutlass  
 - Turn it in to Clyde
@@ -196,30 +196,30 @@ Sahagins General Location:
 
 #### Delivering Chamomile for the Dead
 
-<img src=img/image_28.png width="480" height="270">
+![](img/image_28.png)
 
 - Once you speak to Bonnie and Clyde after getting each one killed (lol), you’ll active this request in the Royal Capital Luknalia on your 3rd time interacting with them  
 - After accepting the request go speak to Dana, the innkeeper  
 - Go to Port Town Grand Legion and speak with Hille  
 
-<img src=img/image_29.png width="200" height="400">
+![](img/image_29.png)
 
 - Go to the world map and head to Rain Shelter Cave  
 - Beat the boss and take the exit in front of you
 
 Location:
 
-<img src=img/image_30.png width="400" height="400">
+![](img/image_30.png)
 
 #### Two-Headed Serpents
 
-<img src=img/image_31.png width="480" height="270">
+![](img/image_31.png)
 
 Note: This request can be a bit funky as your locations for the bodies and the mermaid’s secret can be different on repeat attempts. Some folks have also reported being unable to find the secret on subsequent attempts of the request even after checking every locked door multiple times.
 
 - Go to x and speak to the thief
 
-<img src=img/image_32.png width="400" height="400">
+![](img/image_32.png)
 
 - Find his two friends  
 - Find the Mermaid’s Secret  
@@ -229,17 +229,17 @@ Note: This request can be a bit funky as your locations for the bodies and the m
 
 2nd District \-Black Market- M.Secret Location:
 
-<img src=img/image_33.png width="400" height="400">
+![](img/image_33.png)
 
 1st District \-Back Alley- Friend Locations: 
 
-<img src=img/image_34.png width="400" height="400">
+![](img/image_34.png)
 
 (The npc icon was in the circle but the body was bugged where the arrow points)
 
 #### Servant and Cargo Recovery
 
-<img src=img/image_35.png width="480" height="270">
+![](img/image_35.png)
 
 - Go to 6th District \-Warehouse District- and speak to the maid.(She’s green marked)  
 - Defeat the enemies attacking the maids. (Turn limited)  
@@ -247,34 +247,34 @@ Note: This request can be a bit funky as your locations for the bodies and the m
 
 Location:
 
-<img src=img/image_36.png width="400" height="400">
+![](img/image_36.png)
 
 #### Repel Enemy Forces
 
-<img src=img/image_37.png width="480" height="270">
+![](img/image_37.png)
 
 - Go to 7th District \-Pier-  
 - Defeat waves of Warped Ones
 
 Location:
 
-<img src=img/image_38.png width="400" height="400">
+![](img/image_38.png)
 
 ### Bondmates
 
 #### Doris, the Frightened Maid
 
-<img src=img/image_39.png width="300" height="400">
+![](img/image_39.png)
 
-<img src=img/image_40.png width="300" height="100">
+![](img/image_40.png)
 
 - Complete the Servant and Cargo Recovery Request and choose to let the maids go.
 
 #### Caterwaul Crew
 
-<img src=img/image_42.png width="300" height="400">
+![](img/image_42.png)
 
-<img src=img/image_41.png width="300" height="100">
+![](img/image_41.png)
 
 - Complete the Repel Enemy Forces Request and defeat all waves.
 
@@ -286,67 +286,67 @@ Location:
 
 Note: This request appears to be bugged and does not spawn oar collectors on subsequent repeats after completing it once
 
-<img src=img/image_43.png width="480" height="270">
+![](img/image_43.png)
 
 - Go to Lower Deck 1 \-Ship’s Hold-   
 - Defeat the Oar Collectors
 
 Locations:
 
-<img src=img/image_44.png width="400" height="400">
+![](img/image_44.png)
 
 #### Scorpion Woman Legs and Herb Procurement
 
-<img src=img/image_45.png width="480" height="270">
+![](img/image_45.png)
 
 - Go to Beginning Abyss B3
 
 Scorpion Woman Locations:  
 
-<img src=img/image_46.png width="400" height="400">
+![](img/image_46.png)
 
 Herb Locations:
 
-<img src=img/image_47.png width="400" height="400">
+![](img/image_47.png)
 
 #### Giant Insect Procurement
 
-<img src=img/image_48.png width="480" height="270">
+![](img/image_48.png)
 
 - Head to Den of Earth and fight some Desert Flies
 
 Location:
 
-<img src=img/image_49.png width="400" height="400">
+![](img/image_49.png)
 
 #### Minotaur Spare Rib Procurement
 
-<img src=img/image_50.png width="480" height="270">
+![](img/image_50.png)
 
 - Go to Lower Deck 2 \-Lounge-  
 - Slay some minotaurs and collect 1 Minotaur Head and 4 Minotaur Spare Leg
 
 Locations: (Not sure if this will be the case for everyone but the south mark gave me Minotaur head every battle and the north mark gave me Spare Leg every battle, I reset encounters by going back to town and went back in to respawn them and such was the case until I turned in the quest. The mobs move as well so marks an approximation and not exact location.)
 
-<img src=img/image_51.png width="400" height="400">
+![](img/image_51.png)
 
 #### Hydra Plant Procurement
 
-<img src=img/image_52.png width="480" height="270">
+![](img/image_52.png)
 
 - Head to Valeon Grasslands on the world map  
 - Defeat 4 Hydra Plants around the area  
   Note: There is no map in this area so be careful walking around  
   Note2: To avoid as many battles as possible, the icon on the overworld for the plants is a slime. Credit to Proto.
 
-<img src=img/image_53.png width="300" height="200">
+![](img/image_53.png)
 
 
-<img src=img/image_54.png width="300" height="200">
+![](img/image_54.png)
 
 #### Obtaining KnightQuil
 
-<img src=img/image_55.png width="480" height="270">
+![](img/image_55.png)
 
 Note: The easiest time to complete this is after Arena Round 1 and before Arena Round 2
 
@@ -361,7 +361,7 @@ Note: The easiest time to complete this is after Arena Round 1 and before Arena 
 
 Activation Location: (Talk to Butch)
 
-<img src=img/image_56.png width="400" height="400">
+![](img/image_56.png)
 
 ### Bondmates
 
@@ -387,14 +387,14 @@ Note: Missing pictures
 
 #### Eradicate Warped Ones Belowdecks
 
-<img src=img/image_57.png width="480" height="270">
+![](img/image_57.png)
 
 - Defeat 5 warped one enemies in the ship.   
   Note: There is no specific area on the map, just defeat overworld enemies.
 
 #### Purple Garlic Delivery
 
-<img src=img/image_58.png width="480" height="270">
+![](img/image_58.png)
 
 - Go to the Tavern and speak with Migrant Man to learn location of Purple Garlic  
 - Head to the Valeon Grasslands on the world map  
@@ -402,15 +402,15 @@ Note: Missing pictures
 - Get his goods back from the thieves that escaped to the north  
   Note: There is no map in the grasslands but this is what the thieves look like on the overworld.
   
-<img src=img/image_59.png width="300" height="400">
+![](img/image_59.png)
 
 Note: For the last 2 thieves you’ll need to go between 2 trees and click the rubble. If it won’t let you interact with it then try circling around till you can. Then head west for the peddler’s goods.
 
-<img src=img/image_60.png width="300" height="400">
+![](img/image_60.png)
 
 #### Exterminate Farm Monsters
 
-<img src=img/image_61.png width="480" height="270">
+![](img/image_61.png)
 
 - Defeat the warped ones
 
@@ -444,7 +444,7 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 
 #### Pickerel’s Report
 
-<img src=img/image_62.png width="480" height="270">
+![](img/image_62.png)
 
 - Go to Adventurer’s guild in the Royal City Capital.  
 - Complete Temple Food Assistance Request.  
@@ -452,7 +452,7 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 
 #### Temple Food Assistance
 
-<img src=img/image_63.png width="480" height="270">
+![](img/image_63.png)
 
 - Go to Beginning Abyss B4 and gather 5 Vorpal Bunny Meat from Vorpal Bunny enemies  
   Note: If you still have an incomplete Relentless Massacre Rabbit quest, you can repeatedly interact with the same body and fight the rabbit until you collect all the mats without needing to look for them.  
@@ -461,11 +461,11 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 
 Location: (Walk around this large patch of white flowers) 
 
-<img src=img/image_64.png width="400" height="400">
+![](img/image_64.png)
 
 #### Monster Bird Soup
 
-<img src=img/image_65.png width="480" height="270">
+![](img/image_65.png)
 
 Church Route Exclusive  
 **Note: So I found a bug while doing this quest where if you start with the Princess Route, Pickerel will not appear in the location he should. If so, you’ll have to do the Admiral Route and then switch from the Admiral Route to the Church Route to get him to appear.**
@@ -480,7 +480,7 @@ Church Route Exclusive
     
 Pickerel Location: 
 
-<img src=img/image_66.png width="400" height="400">
+![](img/image_66.png)
 
 ## Arena Round 4
 
@@ -510,7 +510,7 @@ Pickerel Location:
 
 #### Murder Investigation
 
-<img src=img/image_67.png width="480" height="270">
+![](img/image_67.png)
 
 - Go speak to Head Cook at Lower Deck 2 \-Lounge-  
 - Collect the Holly  
@@ -519,19 +519,19 @@ Pickerel Location:
 
 Holly Location:
 
-<img src=img/image_68.png width="400" height="400">
+![](img/image_68.png)
 
 Warped Marin Location:
 
-<img src=img/image_69.png width="400" height="400">
+![](img/image_69.png)
 
 2nd Marin Location if voice healed:
 
-<img src=img/image_70.png width="400" height="400">
+![](img/image_70.png)
 
 #### Gathering Sahuagin Scales
 
-<img src=img/image_71.png width="480" height="270">
+![](img/image_71.png)
 
 - Defeat Sahuagin in Port Town Grand Legion Abyss to collect scales.
 
@@ -539,18 +539,18 @@ Warped Marin Location:
 
 #### Gigi
 
-<img src=img/image_72.png width="300" height="400">
+![](img/image_72.png)
 
-<img src=img/image_73.png width="300" height="100">
+![](img/image_73.png)
 
 - After witnessing his death to Melgina on the 1st run, warn him of his impending demise the second time so that he lives.  
 - Find him in the same spot he was in on the boat and speak to him after defeating Melgina and successfully completing your objective.
 
 #### Melgina
 
-<img src=img/image_74.png width="300" height="400">
+![](img/image_74.png)
 
-<img src=img/image_75.png width="300" height="100">
+![](img/image_75.png)
 
 (This one is a bit messy because there was quite a lot of back and forward but this hits the main points)
 
@@ -568,9 +568,9 @@ Warped Marin Location:
 
 #### Marin
 
-<img src=img/image_101.png width="300" height="400">
+![](img/image_101.png)
 
-<img src=img/image_102.png width="300" height="100">
+![](img/image_102.png)
 
 - Honestly not too sure what the requirements are but she has 4 different locations she can spawn during this quest  
 - The location you WANT her to spawn is in is the one listed and I had to keep redoing the quest until she finally spawned here so that she drops the hairband  
@@ -579,11 +579,11 @@ Warped Marin Location:
 
 Marin Location:
 
-<img src=img/image_76.png width="400" height="400">
+![](img/image_76.png)
 
 Marin and Rickert Location:
 
-<img src=img/image_77.png width="400" height="400">
+![](img/image_77.png)
 
 ## Return to the Capital
 
@@ -591,7 +591,7 @@ Marin and Rickert Location:
 
 #### Arena Tourney Hosted by Avare\!
 
-<img src=img/image_78.png width="480" height="270">
+![](img/image_78.png)
 
 - Go to Upper Deck \-Arena- where the goblin that started the arena fights was and there should be a new NPC there now.  
 - Complete the fights
@@ -600,8 +600,8 @@ Marin and Rickert Location:
 
 #### Reprobus
 
-<img src=img/image_79.png width="300" height="400">
+![](img/image_79.png)
 
-<img src=img/image_80.png width="300" height="100">
+![](img/image_80.png)
 
 - Complete the Arena Tourney Hosted by Avere request to completion
