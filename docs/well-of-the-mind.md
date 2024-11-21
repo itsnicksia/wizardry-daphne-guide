@@ -1,5 +1,5 @@
 [Work In Progress](https://docs.google.com/drawings/d/1UHwGEu8l-zUiRK5n927STzAbRQGQOG6ZA4tIo7SCPKo/edit)  
-![][image1]
+![Well of the Mind](./img/well-of-the-mind.png)
 
 | Acronym            | DESCRIPTION                                                                                                     |  |  |  |  |  |  |  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------|--|--|--|--|--|--|--|
