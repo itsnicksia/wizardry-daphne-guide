@@ -19,6 +19,7 @@ plugins:
   - glightbox
 extra_css:
   - stylesheets/table.css
+  - stylesheets/style.css
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.number.js

@@ -1,6 +1,6 @@
 # Data (Sortable)
 | Name                                | Limit                   | Gems | Bones | USD   | Bonuses                                             | Total Number of Pulls | Pulls per $1 | Probability of At Least One Legendary<br>from Gems + Bones (Excluding Legendary Bone) | Probability of At Least One Featured Legendary<br>from Gems + Bones (Excluding Legendary Bone) |
-| ----------------------------------- | ----------------------- | ---- | ----- | ----- | --------------------------------------------------- | --------------------- | ------------ | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+|-------------------------------------|-------------------------|------|-------|-------|-----------------------------------------------------|-----------------------|--------------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Adventurer Exprience Set (Sale)     | Weekly                  | 300  |       | 01.59 | 1500 adventurer experience                          | 01.5                  | 0.94         | 0.07                                                                                  | 0.03                                                                                           |
 | Adventurer's Remains Set            | Monthly                 | 2500 | 10    | 44.99 | 10 Ungraded Tags                                    | 23.5                  | 0.52         | 0.7                                                                                   | 0.38                                                                                           |
 | Gem of Erin x1200                   | No Limit                | 1200 |       | 23.99 |                                                     | 06                    | 0.25         | 0.26                                                                                  | 0.11                                                                                           |
@@ -25,7 +25,7 @@
 | Priest Clergy Remains Set           | Weekly                  | 2400 | 3     | 44.99 | 3 Raw Crystal                                       | 16                    | 0.36         | 0.56                                                                                  | 0.28                                                                                           |
 | Thief's Remains Set                 | Weekly                  | 800  | 1     | 07.69 | 1 Azure Lustrous Ore                                | 05                    | 0.65         | 0.23                                                                                  | 0.1                                                                                            |
 
-# Summary
+## Summary
 * The best purchase with respect to getting legendaries is the one-time `Guild Curated Selection`, which gives you one guaranteed legendary plus a 91% probability of getting a second legendary (62% probability of that being the featured legendary)
 * The best monthly purchase for getting legendaries is the `Legendary Adventurer Remains Set`, which gives you one guaranteed legendary plus a 85% probability of getting a second legendary (53% probability of that being the featured legendary)
 * The best purchases from a pulls-per-USD are the weekly `Adventurer's Experience Set (Sale)`, `Thief's Remains Set`, and `Knight's Remains Set`, however these both have low probabilities of pulling a legendary when you look at the package contents alone.
@@ -34,4 +34,4 @@
 * Gems of Erin under a 2000 count are very bad value, as is the `Legendary Adventurer Experience Set`
 * The regular Mission Pass is a pretty low value when looking at gems alone, but the guild points you earn equate to roughly 5 additional bones per month (or one legendary bone every 2 months). If you think of the guild points as 5 monthly bones, that effectively takes the pull per dollar up to 0.67, which is higher than the other packages out there.
 
-# [Source](https://docs.google.com/spreadsheets/d/12hBa-YCU2bYeoOoqlctb6-G4nRiY9VvvWSYv0-xWft0)
+## [Source](https://docs.google.com/spreadsheets/d/12hBa-YCU2bYeoOoqlctb6-G4nRiY9VvvWSYv0-xWft0)
