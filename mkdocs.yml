@@ -6,6 +6,7 @@ theme:
     scheme: slate
   features:
     - content.footnote.tooltips
+    - search.suggest
 markdown_extensions:
   - toc:
       toc_depth: 4
@@ -17,6 +18,7 @@ markdown_extensions:
   - tables
 plugins:
   - glightbox
+  - search
 extra_css:
   - stylesheets/table.css
   - stylesheets/style.css
