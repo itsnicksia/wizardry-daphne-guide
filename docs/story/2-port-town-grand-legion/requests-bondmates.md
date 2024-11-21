@@ -1,5 +1,5 @@
 # Port Town Grand Legion
- width=.*
+
 ## Search Request
 
 ## Trade Waterway Arrival
