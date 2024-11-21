@@ -85,6 +85,7 @@ animation to hit the circle on first attempt is very fast and difficult to
 hit.
 
 There are two tricks to doing it consistently that people have had luck with:
+
 * Press the revive as soon as the circle animation starts.
    * This is most consistent, if you set your game to run at 30fps.
    * If running at 60fps, then the correct timing is to press just a little bit after the animation starts, maybe 300-500ms later.
