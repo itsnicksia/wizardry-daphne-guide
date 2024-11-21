@@ -16,6 +16,8 @@ In combat, openings are critical opportunities to deal massive damage to enemies
     * This makes it a versatile strategy for both regular encounters and challenging battles.
     * This is extremely useful when you're under-leveled with your MC due to class switching, as the MC can defend when they won't be able to deal significant damage themselves.
 
+**Note:** Opening can only be triggered on every other turn. You cannot get two consecutive turns of Opening being triggered.
+
 ### Maximizing Damage from Openings:
 * Use high-damage attacks, such as a two-handed weapon strike (e.g., axe or sword), or skills like `Heavy Attack` and `Precision Strike` to take full advantage of the multiplier. The latter is exceptionally helpful due to its defense piercing nature.
 * Pair counterattacks with your heaviest hitters for optimal burst damage.
