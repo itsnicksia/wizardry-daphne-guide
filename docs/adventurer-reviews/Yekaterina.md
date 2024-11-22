@@ -6,21 +6,21 @@
 **Class Change**: Priest
 **Role**: Damage, Support
 
-### Skills
+## Skills
 
-#### Unique Skill (Inheritable): Eye of Kalshum
+### Unique Skill (Inheritable): Eye of Kalshum
 
 Continuously increases Detect with a chance to nullify an enemy's ambush. Detect increase amount and chance of ambush nullification are reduced if learned by someone other than Yekaterina.
 
-#### Unique Skill (Not Inheritable): Advice of the Skull
+### Unique Skill (Not Inheritable): Advice of the Skull
 
 Increases damage against undead and decreases damage from undead.
 
-#### Discipline Skill: Future Dreamt with the Skull
+### Discipline Skill: Future Dreamt with the Skull
 
 Continuously increases each stat, MP and Skill-Bind/Spell-Bind Tolerance increased further.
 
-### TheAxolotl's Analysis:
+## TheAxolotl's Analysis:
 
 Yeka, like Adam, is one of our powerhouse damage dealers. While she will be impacted by unfavorable type matchups, she innately provides both Earth and Water damage. In addition, she can learn Fire and Wind damage through inheriting spells. This, along with her bonus damage to undead, makes her a very heavy hitting for the first and second areas. Her MP reservoir is not as deep as Adam's, but she trades the longevity for hitting harder.
 

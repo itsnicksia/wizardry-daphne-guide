@@ -1,6 +1,7 @@
 # Lanavaille
 
-## Style - Original
+<details>
+<summary>Style - Original</summary>
 
 **Type**: Fire  
 **Personality**: Good  
@@ -8,21 +9,21 @@
 **Class Change**: Fighter
 **Role**: Support, Damage
 
-### Skills
+## Skills
 
-#### Unique Skill (Inheritable): Queen of War and Love
+### Unique Skill (Inheritable): Queen of War and Love
 
 Restores minor HP to all allies upon winning a battle. Recovery amount is reduced if learned by someone other than Lanavaille.
 
-#### Unique Skill (Not Inheritable): Stirring Righteousness
+### Unique Skill (Not Inheritable): Stirring Righteousness
 
 Increases damage to enemies for everyone in a row if it has only good or neutral allies.
 
-#### Discipline Skill: Warrior Princess of Resolution and Love
+### Discipline Skill: Warrior Princess of Resolution and Love
 
 Continuously increases each stat, Defense Power and Confusion/Charm Tolerance increased further.
 
-### TheAxolotl's Analysis:
+## TheAxolotl's Analysis:
 
 Lanavaille is our first Legendary Knight, and she's pretty great at it! Not only does she provide defensive capabilities, her ability to buff a Good/Neutral row can be very powerful, particularly if you have a Good/Neutral MC. A front row of Lanavaille - MC - Debra is very common at the moment, and all three units would benefit from the increased damage.
 
@@ -32,39 +33,42 @@ Lanavaille has quite a few options for duplicate use, and it's arguable which is
 
 If you get her now, absolutely put her in her party, however she is likely going to be powercrept by other units going forward, particularly if more come along that provide personality-oriented buffs.
 
-### Duplicate Usage:
+## Duplicate Usage:
 
 1. If you use her Wandering Princess style, inherit her standard style to her own skill to increase its healing power.
 2. If you use her standard style and not her Wandering Princess style, Discipline is always a good choice.
 3. Inherit her skill to the MC.
 4. Save for future use. It's possible that she'll end up becoming a good candidate in the future to dismiss for Grade tags.
 
-## Style - Wandering Princess
+</details>
+
+<details>
+<summary>Style - Wandering Princess</summary>
 
 **Type**: Fire  
 **Personality**: Good  
 **Starting Class**: Knight  
 **Role**: Support, Damage
 
-### Skills
+## Skills
 
 **Note: If standard Lanavaille and Wandering Princess Lanavaille are mreged, changing styles will swap each skill.**
 
-#### Unique Skill (Inheritable): Queen of War and Love
+### Unique Skill (Inheritable): Queen of War and Love
 
 Restores minor HP to all allies upon winning a battle. Recovery amount is reduced if learned by someone other than Lanavaille.
 
-#### Unique Skill (Not Inheritable): Valiant Righteousness
+### Unique Skill (Not Inheritable): Valiant Righteousness
 
 **Own Action Speed increased based on the number of one-handed swords and light armor equipped to self.**
 
 Increases damage to enemies for everyone in a row if it has only good or neutral allies.
 
-#### Discipline Skill: Flawlessly Composed Warrior Princess
+### Discipline Skill: Flawlessly Composed Warrior Princess
 
 Continuously increases each stat, **HP**, Defense Power, Confusion/Charm Tolerance, and **Critical Tolerance** increased further.
 
-### TheAxolotl's Analysis:
+## TheAxolotl's Analysis:
 
 The newly fixed skills for Wandering Lanavaille are quite interesting, as they provide some nice minor buffs without fundamentally changing the character itself. We'll have to see how much of a boost it is when the skill changes are actually released, but Valiant Righteousness in particular has the potential to make Lana faster than most MC builds. This will improve her support capabilities by potentially allowing her to get in a Stun Bash or Armor Break before the MC attacks. To maximize on this, you will absolutely want to make sure she's using a 1h sword and light armor.
 
@@ -76,11 +80,11 @@ Based on what we've been told about the merge behavior, whether or not you pull 
 
 I'll also add a note about Blade Cuisinart. This is currently the single best weapon you can get in the game due to the fact that multiple hits currently scale the best in terms of damage. This is the only 3-hit sword for the time, and if you're pulling on the paid banner, you have a 30% chance when getting a Wandering Princess Lanavaille copy to get it. Keep in mind that this could be fairly costly due to the gacha nature of the game.
 
-### Duplicate Usage:
+## Duplicate Usage:
 
 1. If you use her, you should absolutely prioritize Wandering Princess copies towards her Discipline. Let her standard form duplicates go towards skill inheritance.
 
-### Pulling Suggestions:
+## Pulling Suggestions:
 * Pull if:
     * You like Lanavaille as an adventurer and you like the aesthetic of the Wandering Princess style
     * You want to try and min-max Lanavaille as an adventurer in your party
@@ -89,3 +93,5 @@ I'll also add a note about Blade Cuisinart. This is currently the single best we
     * You do not like Lanavaille as an adventurer
     * You do not like the Wandering Princess aesthetic
     * You want to save for future, more impactful adventurers
+
+</details>

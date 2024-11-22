@@ -6,21 +6,21 @@
 **Class Change**: Currently None  
 **Role**: Damage, Support
 
-### Skills
+## Skills
 
 #### Unique Skill (Inheritable): Thunderstrike
 
 Moderate wind type physical attack on 1 enemy. Low chance of inflicting Paralysis on target. Damage is reduced if learned by someone other than Gerard.
 
-#### Unique Skill (Not Inheritable): Lightning Celerity
+### Unique Skill (Not Inheritable): Lightning Celerity
 
 Increases Evasion when equipped with a one-handed sword.
 
-#### Discipline Skill: Thundersmiter's Protection
+### Discipline Skill: Thundersmiter's Protection
 
 Continuously increases each stat, Evasion and Action Speed increased further.
 
-### TheAxolotl's Analysis:
+## TheAxolotl's Analysis:
 
 I'll preface this with the fact that I did not pull on Gerard, so these are my thoughts on his kit as opposed to his performance. By all means, I welcome the analysis of someone who has him and has used him.
 
@@ -30,13 +30,13 @@ Since he has a Good personality, he would fit well on the front line with Lana a
 
 I don't believe Gerard is bad by any means, but I think he's a bit less compelling to use than a front-line Debra, despite the fact that he'd likely live longer if hit and deal more overall damage.
 
-### Duplicate Usage:
+## Duplicate Usage:
 
 1. If you use him, Discipline will increase his damage.
 2. Inherit on his own skill will increase the damage and cost of his Thunderstrike.
 3. Save for future use. He is also a current candidate to dismiss for Grade tags, although if you're going to dismiss him, why spend the resources to pull on him to begin with?
 
-### Pulling Suggestions:
+## Pulling Suggestions:
 * Pull if:
     * You like Gerard as an adventurer
 * Do not pull if:
