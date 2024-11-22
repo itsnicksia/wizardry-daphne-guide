@@ -1,5 +1,5 @@
 # Lanavaille
 
-## [Style - Standard](Lanavaille-Standard.md)
+## [Style - Standard](Lanavaille/Lanavaille-Standard.md)
 
-## [Style - Wandering Princess](Lanavaille-Wandering-Princess.md)
+## [Style - Wandering Princess](Lanavaille/Lanavaille-Wandering-Princess.md)
