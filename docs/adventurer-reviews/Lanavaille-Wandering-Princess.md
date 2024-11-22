@@ -3,6 +3,7 @@
 **Type**: Fire  
 **Personality**: Good  
 **Starting Class**: Knight  
+**Class Change**: Fighter
 **Role**: Support, Damage
 
 ## Skills
