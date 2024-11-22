@@ -209,13 +209,15 @@ B5 Mimic Location:(Chest doesn’t appear on minimap)
 
 ![](img/image_34.png)
 
-B3 Flower Locations:
+B3 Flower Locations
 
 ![](img/image_35.png)
 
 Alternate Locations:
 
 ![](img/fluorescent_flowers_alt_location.png)
+
+**Note:** It is possible that there are other locations than the above two specified, so if neither of those maps work for you, you can check the bottom-right side or just explore everywhere!
 
 ## Survivors Found
 
