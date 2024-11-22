@@ -17,7 +17,6 @@ markdown_extensions:
   - pymdownx.tabbed
   - tables
   - attr_list
-  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -74,7 +73,8 @@ nav:
       - Debra: './adventurer-reviews/Debra.md'
       - Gerard: './adventurer-reviews/Gerard.md'
       - Gerulf: './adventurer-reviews/Gerulf.md'
-      - Lanavaille: './adventurer-reviews/Lanavaille.md'
+      - Lanavaille (Standard): './adventurer-reviews/Lanavaille.md'
+      - Lanavaille (Wandering Princess): './adventurer-reviews/Lanavaille-Wandering-Princess.md'
       - Yekaterina: './adventurer-reviews/Yekaterina.md'
   - Jeweler Package Evaluation: './jeweler-package-evaluation.md'
   - About The Guide: './index.md'
