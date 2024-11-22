@@ -74,7 +74,7 @@ nav:
       - Gerard: './adventurer-reviews/Gerard.md'
       - Gerulf: './adventurer-reviews/Gerulf.md'
       - Lanavaille:
-          - Index: './adventurer-reviews/Lanavaille/Lanavaille.md'
+          - Lanavaille: './adventurer-reviews/Lanavaille/Lanavaille.md'
           - Standard: './adventurer-reviews/Lanavaille/Lanavaille-Standard.md'
           - Wandering Princess: './adventurer-reviews/Lanavaille/Lanavaille-Wandering-Princess.md'
       - Yekaterina: './adventurer-reviews/Yekaterina.md'
