@@ -49,7 +49,7 @@ nav:
         - Requests/Bondmates: './story/2-port-town-grand-legion/requests-bondmates.md'
   - Events:
       - Lamp of Malice:
-        - Speedrunning Video Guide: './events/lamp-of-malice/-speedrunning-video-guide.md'
+        - Speedrunning Video Guide: './events/lamp-of-malice/speedrunning-video-guide.md'
   - Strategies:
       - Combat Strategies: './strategies/combat-strategies.md'
       - Party Construction: './strategies/party-construction.md'
@@ -73,8 +73,9 @@ nav:
       - Debra: './adventurer-reviews/Debra.md'
       - Gerard: './adventurer-reviews/Gerard.md'
       - Gerulf: './adventurer-reviews/Gerulf.md'
-      - Lanavaille (Standard): './adventurer-reviews/Lanavaille.md'
-      - Lanavaille (Wandering Princess): './adventurer-reviews/Lanavaille-Wandering-Princess.md'
+      - Lanavaille: './adventurer-reviews/Lanavaille.md'
+          - Standard: './adventurer-reviews/Lanavaille-Standard.md'
+          - Wandering Princess: './adventurer-reviews/Lanavaille-Wandering-Princess.md'
       - Yekaterina: './adventurer-reviews/Yekaterina.md'
   - Jeweler Package Evaluation: './jeweler-package-evaluation.md'
   - About The Guide: './index.md'
