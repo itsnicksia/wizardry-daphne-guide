@@ -62,6 +62,7 @@ Nishi6990 (French)
 - Millaren
 - Nanashii
 - Poopenheimer
+- Adventurer
 
 ## Resources
 

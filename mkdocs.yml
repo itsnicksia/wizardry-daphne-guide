@@ -38,6 +38,8 @@ nav:
       - Beginning Abyss: './maps/beginning-abyss.md'
       - Trade Waterways: './maps/trade-waterways.md'
       - Den of Earth: './maps/den-of-earth.md'
+      - Den of Fire: './maps/den-of-fire.md'
+      - Den of Wind: './maps/den-of-wind.md'
   - Story:
       - Act 1 - Beginning Abyss:
         - Main Story: './story/1-beginning-abyss/main-story.md'
@@ -45,6 +47,9 @@ nav:
       - Act 2 - Port Town Grand Legion:
         - Main Story: './story/2-port-town-grand-legion/main-story.md'
         - Requests/Bondmates: './story/2-port-town-grand-legion/requests-bondmates.md'
+  - Events:
+      - Lamp of Malice:
+        - Speedrunning Video Guide: './events/lamp-of-malice/-speedrunning-video-guide.md'
   - Strategies:
       - Combat Strategies: './strategies/combat-strategies.md'
       - Party Construction: './strategies/party-construction.md'
@@ -62,13 +67,13 @@ nav:
   - Bondmates: './bondmates/index.md'
   - Guiding Light: './guiding-light.md'
   - Well of the Mind: './well-of-the-mind.md'
-  - Character Reviews:
-      - Adam: './character-review/Adam.md'
-      - Alice: './character-review/Alice.md'
-      - Debra: './character-review/Debra.md'
-      - Gerard: './character-review/Gerard.md'
-      - Gerulf: './character-review/Gerulf.md'
-      - Lanavaille: './character-review/Lanavaille.md'
-      - Yekaterina: './character-review/Yekaterina.md'
+  - Adventurer Reviews:
+      - Adam: './adventurer-reviews/Adam.md'
+      - Alice: './adventurer-reviews/Alice.md'
+      - Debra: './adventurer-reviews/Debra.md'
+      - Gerard: './adventurer-reviews/Gerard.md'
+      - Gerulf: './adventurer-reviews/Gerulf.md'
+      - Lanavaille: './adventurer-reviews/Lanavaille.md'
+      - Yekaterina: './adventurer-reviews/Yekaterina.md'
   - Jeweler Package Evaluation: './jeweler-package-evaluation.md'
   - About The Guide: './index.md'

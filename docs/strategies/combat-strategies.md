@@ -4,7 +4,7 @@
 In combat, openings are critical opportunities to deal massive damage to enemies. Here’s how they work and when to use them effectively.
 
 * Openings occur when an enemy is forced into a vulnerable state, marked by a gold circle icon above their head.
-* During this state, they take increased damage from attacks.
+* During this state, they take increased damage from the next non-spell attack they receive.
 
 ### How to Trigger Openings:
 * Defensive Blocking:
