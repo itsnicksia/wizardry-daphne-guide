@@ -29,5 +29,5 @@ That being said, it's very likely that other thieves might be released in the fu
 ## Duplicate Usage:
 
 1. If you use her, increasing her Discipline will increase her damage.
-2. Save for future use. It's possible that she'll end up becoming a good candidate in the future to dismiss for Grade tags.
-3. Inheriting her skill on your MC (or other physical damage dealers) can help them out a bit. At skill level 1, the SP restore is minimal (2 sp per kill) but the inheritance value will go up as that inherited skill level increases.
+2. Inheriting her skill on your MC (or other physical damage dealers) can help them out a bit. At skill level 1, the SP restore is minimal (2 sp per kill) but the inheritance value will go up as that inherited skill level increases.
+3. Save for future use. It's possible that she'll end up becoming a good candidate in the future to dismiss for Grade tags.

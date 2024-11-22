@@ -34,6 +34,6 @@ You absolutely want to get Alice on your team\!
 
 ## Duplicate Usage:
 
-1. If you plan to use Alice (you should), increasing her Discipline will increase her damage and healing.
-2. Inherit her skill on other buffers/debuffers you use. Note that this should include any damage dealers that have self-buffing or boss-debuffing capabilities. See note above for potential bug.
+1. Inherit her skill on other buffers/debuffers you use. Note that this should include any damage dealers that have self-buffing or boss-debuffing capabilities. See note above for potential bug.
+2. If you plan to use Alice (you should), increasing her Discipline will increase her damage and healing.
 3. Save for future use.

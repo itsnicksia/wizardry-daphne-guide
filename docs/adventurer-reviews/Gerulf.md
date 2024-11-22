@@ -30,6 +30,6 @@ If you like him, by all means use him. He has great future potential, however at
 
 ## Duplicate Usage:
 
-1.  If you use him, Discipline will increase his damage.
-2. Save for future use. He is also a current candidate to dismiss for Grade tags.
-3. Inherit on his own skill will increase the damage and cost of his Eruption Strike.
+1. If you use him, Discipline will increase his damage.
+2. Inherit on his own skill will increase the damage and cost of his Eruption Strike.
+3. Save for future use. He is also a current candidate to dismiss for Grade tags.
