@@ -9,6 +9,7 @@
 - Boss is undead. Bring undead slayer weapons if possible, or a lot of magic scrolls.  
 - Boss sometimes skips turn.  
 - Boss only has 2 moves, both attack 1 unit on the front row. 1 is a multihit, 1 is a normal hit. Not really threatening, just heal up after.
+- Running away from the fight will reset the adds he spawns with. You can use this to your advantage and keep running away until he spawns with only Vorpal Bunnies, as they can be killed very quickly and easily.
 
 #### 
 
