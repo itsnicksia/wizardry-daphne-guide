@@ -2,3 +2,5 @@
 .idea/
 
 site/
+
+node_modules/
