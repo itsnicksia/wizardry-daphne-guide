@@ -3,7 +3,7 @@
 ## Saving the Missing Person and Not Being Murdered
 
 1. After winning your second arena battle and watching your missing person get blown up, use the wheel to go back in time to before fighting the second battle.
-2. Find Butch and complete the [Obtaining KnightQuil](./requests.md#obtaining-knightquil) request
+2. Find Butch and complete the [Obtaining KnightQuil](./requests-bondmates.md#obtaining-knightquil) request
 3. After completing the quest, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time\!
 4. Proceed ahead with the remaining arena battles. After you beat Melgina, watch the scenes. Congratulations \- you lived, completed your request, and more importantly, received the lexicon that allows you to read the 7 mermaid statues you encountered\!
 
@@ -18,14 +18,14 @@ The path you choose is ultimately yours, and the only difference is with option 
 
 ## Octonarus
 
-Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](./requests.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
+Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](./requests-bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
 
 1. Use the wheel to travel back to **One-Eyed Sahuagin** and speak to the Gessi destroying the statue using the “**Don’t you want to save Melgina**” option
 2. Use the wheel to travel back to **Flooded Town** and speak with Melgina using the “**Do you want to be free from Octonarus**” option
-3. Complete the [Rustproof Knife Delivery](./requests.md#rustproof-knife-delivery) request that Melgina gives you instead of getting her the mackerel sandwich
-4. Complete the [Titanium Ore Delivery](./requests.md#titanium-ore-delivery) request to \`have the blacksmith make it and give it to Melgina
+3. Complete the [Rustproof Knife Delivery](./requests-bondmates.md#rustproof-knife-delivery) request that Melgina gives you instead of getting her the mackerel sandwich
+4. Complete the [Titanium Ore Delivery](./requests-bondmates.md#titanium-ore-delivery) request to \`have the blacksmith make it and give it to Melgina
 5. Use the wheel to travel back to **One-Eyed Sahuagin** and talk to Gessi again, using the “**Dont you want to save Melgina**” and “**I understand, Gessi**” options
-6. Complete the [Obtaining Titanium Ore](./requests.md#obtaining-titanium-ore) request
+6. Complete the [Obtaining Titanium Ore](./requests-bondmates.md#obtaining-titanium-ore) request
     1. Note that if you want Gessi’s help against Octo, when you do the next step, make sure you configure the wheel so that you did not give the Purple Garlic to the head cook
 7. Use the wheel to travel back to **Arena Round 5** and after defeating Geuzan, engage Melgina with the “**Melgina's liberation**” option
 8. You now get to fight Octonarus
