@@ -2,7 +2,7 @@
 
 This guide is maintained by the community of the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) and is a collaborative, ongoing work in progress.
 
-We welcome contributions and corrections by the community so don’t hesitate to reach out to any of us if you have something to add\!
+We welcome contributions and corrections by the community so don’t hesitate to add your suggestions to the **#guide-contributions** Discord channel\!
 
 **This guide does contain spoilers, so read at your own risk**
 
