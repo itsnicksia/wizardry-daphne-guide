@@ -2,6 +2,9 @@
 
 ## General Questions
 
+### How do I access detailed in-game information about races, stats, classes, types, etc?
+Go to the game Settings (gear icon) and click on `Help`. The Help section has a ton of information for you to absorb!
+
 ### Are there different tiers of adventurers that we can get?
 Yes! This can be seen if you look at the Drop Rates for Adventurer’s Remains. The different tiers are: 
 * **Anonymous Adventurer** (example: Human-Fig)
