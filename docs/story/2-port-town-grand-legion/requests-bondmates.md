@@ -309,6 +309,12 @@ Herb Locations:
 
 ![](img/image_47.png)
 
+Alternate Herb Locations:
+
+![](img/herbs-alternate-location.png)
+
+**Note:** It is possible that there are other locations than the above two specified, so if neither of those maps work for you, you can check the bottom-right side or just explore everywhere!
+
 #### Giant Insect Procurement
 
 ![](img/image_48.png)

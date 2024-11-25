@@ -70,6 +70,7 @@ Locations: (Follow Green for one and Blue for the other)
 
 **B1**:
 
+- Find his corpse in order to gain the  **Adventurers' Demise** knowledge.
 - Talk to him at the location below  
 - Fetch his friends guild tags  
 - Battle the scavengers  

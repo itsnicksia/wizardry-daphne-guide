@@ -30,6 +30,8 @@ This helps save gold when changing to higher quality equipment when you have alr
 
 ### Unification
 
+![](img/unifying-equipment.jpg)
+
 ## Advanced Blacksmithing
 
 ### Advanced Extraction

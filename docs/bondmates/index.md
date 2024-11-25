@@ -36,7 +36,7 @@
 |  |  |  |  |  |
 | Gessi | Arena Deck | Defeat him without strategizing (Water and Garlic) and probably needs to give him the Ore as well. Hard fight, recommend taking Scroll of gravel and a tough frontline. | Accuracy and Bind Tolerance | Water |
 | Head Cook | Ship Lounge | Complete all the four ingredient quests and deliver them directly to the head cook. After beating the boss, talk to the head cook before going back to town | Paralysis Resistence |  |
-| Water God's Ritual Regia | Trade Channel 3 | Complete the quest "Materials to Repair the Water God Statue" ┗He will appear randomly in the trade channel 2\. Talk to him when you meet him and he will heal you (5 times in total) | MP |  |
+| Water God's Ritual Regia | Trade Channel 3 | Complete the quest "Materials to Repair the Water God Statue" ┗Regia will appear randomly in the trade channel 2\. Talk to her when you meet her and she will heal you (5 times in total) | MP |  |
 | Ugo | Ship deck | The oar quest that is necessary is bugged and can apparently only be finished on the first run |  |  |
 
 # 
