@@ -37,4 +37,5 @@
 ![](img/iron-grade-map.png)
 
 **Special Notes**:
+
 - Boss is a Hydraplant and is weak to wind and can cause critical poison
