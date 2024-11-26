@@ -75,7 +75,7 @@ It's also possible that bonus points are truly that - extra bonus points, and th
 **This is currently a subject of testing and debate among the community, and this will be updated once we know more.**
 
 ### How should I spend my bonus points on X character?
-In the long run, this really doesn't matter. There is also no true community consensus. Some people recommend putting all the bonus points towards the character's primary stat. Other people recommend putting all of the bonus points towards speed. Some people recommend splitting them between the character's primary stat, speed, and vitality. There is no wrong way to do this, and when you get to level 30+, it's very easy to have a character's points in a stat be in the 30s and 40s, so a few more points here and there won't make or break a character. There is no way for you to "brick" a character by choosing a specific point distribution.
+In the long run, this really doesn't matter. Stats will ultimately "level out" as you get higher in levels, so the bonus points only make an impact in the very early game. Most people tend to recommend some combination of an adventurer's primary stat, speed, and vitality. Ultimately, though, there is no "best option" and there is no way to ruin an adventurer with your bonus point distribution.
 
 ### What should I do with my duplicicates of X character?
 There's no hard or fast rule on this either. I put some of my personal thoughts and suggestions in the Character Analysis tab, so feel free to follow those if you'd like. You can never go wrong by saving a duplicate for future use, though.
