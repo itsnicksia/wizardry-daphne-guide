@@ -5,7 +5,7 @@
 | STR           | Obtained after unlocking the Cursed Wheel                                                                                                            |
 | VIT           | Complete the Beginning Abyss and save the king                                                                                                       |
 | PIE           | Beat Melgina for the first time, regardless of missing person request taken                                                                          |
-| IQ            | Save the missing person, including speaking to him on deck, prior to killing Melgina any time after the first kill                                   |
+| IQ            | Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time                              |
 | SPEED         | 3rd District \- Iron Gate Street. Complete the inspection on Guane territory (first time on any path?)                                               |
 | DEX           | 4th District \- Boulevard. After solving the drowning water god statue trap, go back to town and something will have changed in the Well of the Mind |
 | LUCK 1        | Get the perfect ending (+Albano quest) on Beginning Abyss                                                                                            |
