@@ -73,7 +73,8 @@ Locations: (Follow Green for one and Blue for the other)
 - Find his corpse in order to gain the  **Adventurers' Demise** knowledge.
 - Talk to him at the location below  
 - Fetch his friends guild tags  
-- Battle the scavengers  
+- Battle the scavengers
+- If Chris doesn't show up automatically, walk back to where you picked up the request to complete it
   
 Location of guild tags:
 
@@ -400,6 +401,17 @@ Location:
 
 ![](img/image_67.png)
 
+### Bondmates
+
+#### The Pleading Boss Goblin
+
+1. Defeat the goblin boss on the top right of the map.
+2. Return in time to the 2nd floor harken.
+3. Meet him again and select “Slash” and then “Forgive”
+3. Talk to the elf at the tavern.
+4. Collect transparent stones on the south side until you find the goblin boss.
+
+Note: Missing pictures
 
 ## Miscellaneous
 

@@ -49,7 +49,8 @@ nav:
         - Requests/Bondmates: './story/2-port-town-grand-legion/requests-bondmates.md'
   - Events:
       - Lamp of Malice:
-        - Video Guide: './events/lamp-of-malice/video-guide.md'
+        - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'
+        - Video Guide: './events/lamp-of-malice/lamp-of-malice-video-guide.md'
   - Strategies:
       - Combat Strategies: './strategies/combat-strategies.md'
       - Party Construction: './strategies/party-construction.md'
