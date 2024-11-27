@@ -211,6 +211,10 @@ Location:
 
 ![](img/image_30.png)
 
+Alternate Map:
+
+![](img/chamomile-alternate-map.jpg)
+
 #### Two-Headed Serpents
 
 ![](img/image_31.png)
