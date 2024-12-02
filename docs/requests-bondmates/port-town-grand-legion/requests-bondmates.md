@@ -466,6 +466,8 @@ Pickerel Location:
 
 #### Prevent Vernant from Entering the Arena
 
+![](img/lock-vernant-up.jpg)
+
 - After you've faced Vernant twice, once where he has his herbs and once where you've swapped them out, wheel back and complete [Pickerel's Report](requests-bondmates.md#pickerels-report) again
 - Once you report back to Pickerel, you will have a new dialog option to trick Vernant and lock him away
 - (Optional) Find the first merchant in the 2nd District (room immediately north of the mermaid statue you see when you enter). You will have to disable the current to get there
