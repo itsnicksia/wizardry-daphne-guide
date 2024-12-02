@@ -4,12 +4,6 @@
 
 ## Trade Waterway Arrival
 
-### Client
-
-* Princess Pulgritte  
-* Pontiff Leaufonde  
-* Admiral Avare
-
 ## Merfolk Myth 
 
 ## Watery Obstacle
@@ -61,7 +55,7 @@ Location:
 
 ![](img/image_8.png)
 
-### Mackerel Sandwich Delivery
+#### Mackerel Sandwich Delivery
 
 ![](img/image_9.png)
 
@@ -94,11 +88,6 @@ Goblin Nest Location: (In case you forgot)
 ![](img/image_14.png)
 
 ## Warding Against Water
-
-### Melgina the Bitter
-
-* Gave Fate-Resisting Knife  
-* Gave Mackerel Sandwich
 
 ## Sunken City Arrival
 
@@ -398,16 +387,6 @@ Note: Due to the bugs relating to this quest, it’s currently unclear if Ugo is
 
 ## Arena Round 1
 
-### Dealing with Cursed Weapon
-
-* Strategized  
-* Didn’t strategize
-
-### Dealing with Bad Breath
-
-* Strategized  
-* Didn’t strategize
-
 ### Requests
 
 #### Eradicate Warped Ones Belowdecks
@@ -441,29 +420,7 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 
 ## Arena Round 2
 
-### Pair Met at the Pier
-
-* Gave chamomile bouquet
-* Encouraged Bonnie  
-* Gave weapon to Clyde
-* Gave Battle Item Set to the pair
-* Never met them 
-
 ## Arena Round 3
-
-### Missing Person Appearing in the Arena
-
-* Defeated Butch  
-* Caught in Butch’s explosion
-
-### Dealing with Shagtis
-
-* Prepared the forged mandate  
-* Didn’t strategize
-
-### Dealing with Vernant
-* Switched the herbs
-* Didn't strategize
 
 ### Requests
 
@@ -509,27 +466,7 @@ Pickerel Location:
 
 ## Arena Round 4
 
-### Purple Garlic
-
-* Gave to Head Cook  
-* Didn’t give
-
-### Requested Titanium Ore
-
-* Gave  
-* Didn’t give
-
 ## Arena Round 5
-
-### Dealing with the Mermaid’s Song
-
-* Strategized  
-* Didn’t strategize
-
-### Dealing with Infinite Magic Beasts
-
-* Strategized  
-* Didn’t strategize
 
 ### Requests
 

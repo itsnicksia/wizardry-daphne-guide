@@ -40,13 +40,18 @@ nav:
       - Den of Earth: './maps/den-of-earth.md'
       - Den of Fire: './maps/den-of-fire.md'
       - Den of Wind: './maps/den-of-wind.md'
-  - Story:
-      - Act 1 - Beginning Abyss:
-        - Main Story: './story/1-beginning-abyss/main-story.md'
-        - Requests/Bondmates: './story/1-beginning-abyss/requests-bondmates.md'
-      - Act 2 - Port Town Grand Legion:
-        - Main Story: './story/2-port-town-grand-legion/main-story.md'
-        - Requests/Bondmates: './story/2-port-town-grand-legion/requests-bondmates.md'
+  - Cursed Wheel:
+    - Wheel Causality:
+      - Beginning Abyss: './cursed-wheel/wheel-causality/beginning-abyss.md'
+      - Port Town Grand Legion: './cursed-wheel/wheel-causality/port-town-grand-legion.md'
+    - Important Requests and Greater Warped Ones:
+      - Beginning Abyss: './cursed-wheel/important-requests-greater-warped-ones/beginning-abyss.md'
+      - Port Town Grand Legion: './cursed-wheel/important-requests-greater-warped-ones/port-town-grand-legion.md'
+  - Requests and Bondmates:
+      - Beginning Abyss: './requests-bondmates/beginning-abyss/requests-bondmates.md'
+      - Port Town Grand Legion: './requests-bondmates/port-town-grand-legion/requests-bondmates.md'
+      - Legendary Requests:
+        - Broken Pact: './requests-bondmates/legendary-requests/broken-pact/broken-pact.md'
   - Events:
       - Lamp of Malice:
         - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'

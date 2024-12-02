@@ -1,4 +1,4 @@
-# Act 1 - Beginning Abyss
+# The Beginning Abyss
 
 ## Saving the King and Not Losing Your Head
 
@@ -38,3 +38,21 @@
 ### Labyrinth Cleared
 
    1. Complete the Cazula Root Delivery quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
+
+## Greater Warped One
+
+### Helmut
+
+#### Battle Tips
+
+* Weak to wind, so `FERU` from mages (can be inherited from `Jarmil`) and the Sword of the Breeze will be very helpful
+* Give the `Digging Mattock` to a front-liner that is not the MC so they can help clear the debris piles he creates
+* `MASOLOTU` and `MAKALTU` can increase your front line's evasion and Defense Power respectively, lowering the incoming damage
+* `PORTO` can be used to increase one adventurer's action speed while `BATILGREF` can reduce his Evasion and Action Speed
+* `BALAFEOS` and `DILTO` can reduce his Attack Power and Accuracy respectively, lowering the incoming damage
+* `MORLIS` can decrease his Defense Power, increasing the non-spell damage your party deals
+* Mages should keep `Mental Unity` up so they can quickly clear any adds he spawns with a line spell
+
+#### Right Arm of Reversal Usage
+
+* Use it on one (or more in subsequent turns) of the debris piles he creates to clear them so your front line can hit him again.
