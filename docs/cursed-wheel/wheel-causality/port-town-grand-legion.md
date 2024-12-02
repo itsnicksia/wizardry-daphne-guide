@@ -81,6 +81,11 @@
 
 ## Arena Round 4
 
+### Dealing with the Water Stage
+
+* Strategized
+* Didn't strategize
+
 ### Purple Garlic
 
 * Gave to Head Cook  

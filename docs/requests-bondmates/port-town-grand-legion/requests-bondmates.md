@@ -466,6 +466,21 @@ Pickerel Location:
 
 ## Arena Round 4
 
+### Bondmates
+
+#### Gessi
+
+- Make sure you do not give him Garlic
+- Make sure you flip the lever to the Right
+- Make sure you give him Titanium Ore
+- Fight him under water and win!
+- Tips:
+  - Go solo as a Thief
+  - Equip Mask of the Water God
+  - Hiding + Sneak Attack your way to victory
+
+Note: Missing pictures
+
 ## Arena Round 5
 
 ### Requests
