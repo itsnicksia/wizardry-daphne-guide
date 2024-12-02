@@ -3,7 +3,7 @@
 **Type**: Light  
 **Personality**: Evil  
 **Starting Class**: Mage  
-**Class Change**: Priest
+**Class Change**: Priest  
 **Role**: Damage, Support
 
 ## Skills

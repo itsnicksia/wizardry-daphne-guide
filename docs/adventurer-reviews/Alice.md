@@ -3,7 +3,7 @@
 **Type**: Water  
 **Personality**: Evil  
 **Starting Class**: Priest  
-**Class Change**: Mage
+**Class Change**: Mage  
 **Role**: Healing, Support, Damage
 
 ## Skills

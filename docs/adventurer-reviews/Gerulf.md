@@ -3,7 +3,7 @@
 **Type**: Fire  
 **Personality**: Evil  
 **Starting Class**: Fighter  
-**Class Change**: Priest
+**Class Change**: Priest  
 **Role**: Damage
 
 ## Skills

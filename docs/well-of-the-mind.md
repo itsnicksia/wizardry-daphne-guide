@@ -1,6 +1,8 @@
 [Work In Progress](https://docs.google.com/drawings/d/1UHwGEu8l-zUiRK5n927STzAbRQGQOG6ZA4tIo7SCPKo/edit)  
 ![Well of the Mind](./img/well-of-the-mind.png)
 
+Note: Some nodes might shift around after each reset and game updates often change skills names.
+
 | Acronym            | DESCRIPTION                                                                                                     |  |  |  |  |  |  |  |
 |:-------------------|:----------------------------------------------------------------------------------------------------------------|--|--|--|--|--|--|--|
 | STR                | Strength                                                                                                        |  |  |  |  |  |  |  |
@@ -34,6 +36,7 @@
 | STOL               | Sleep Tolerance                                                                                                 |  |  |  |  |  |  |  |
 | BITO               | Bind Tolerance                                                                                                  |  |  |  |  |  |  |  |
 | FTO                | Fear Tolerance                                                                                                  |  |  |  |  |  |  |  |
+| **PARALLEL BREAK** | Chance to inflict multiple status afflictions (Sleep, Stun, Fear. Confusion) on 1 enemy row                     |  |  |  |  |  |  |  |
 | **CHRONOSTASIS**   | Minor physical attack that always hits 1 enemy. High chance of greatly slowing target's Action Order            |  |  |  |  |  |  |  |
 | BWP                | Blunt Weapon Proficiency                                                                                        |  |  |  |  |  |  |  |
 | STP                | Staff Proficiency                                                                                               |  |  |  |  |  |  |  |

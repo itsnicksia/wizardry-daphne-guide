@@ -3,7 +3,7 @@
 **Type**: Earth  
 **Personality**: Neutral  
 **Starting Class**: Mage  
-**Class Change**: Priest
+**Class Change**: Priest  
 **Role**: Damage, Support
 
 ## Skills

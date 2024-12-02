@@ -4,12 +4,6 @@
 
 ## Trade Waterway Arrival
 
-### Client
-
-* Princess Pulgritte  
-* Pontiff Leaufonde  
-* Admiral Avare
-
 ## Merfolk Myth 
 
 ## Watery Obstacle
@@ -61,7 +55,7 @@ Location:
 
 ![](img/image_8.png)
 
-### Mackerel Sandwich Delivery
+#### Mackerel Sandwich Delivery
 
 ![](img/image_9.png)
 
@@ -94,11 +88,6 @@ Goblin Nest Location: (In case you forgot)
 ![](img/image_14.png)
 
 ## Warding Against Water
-
-### Melgina the Bitter
-
-* Gave Fate-Resisting Knife  
-* Gave Mackerel Sandwich
 
 ## Sunken City Arrival
 
@@ -210,6 +199,10 @@ Sahagins General Location:
 Location:
 
 ![](img/image_30.png)
+
+Alternate Map:
+
+![](img/chamomile-alternate-map.jpg)
 
 #### Two-Headed Serpents
 
@@ -377,17 +370,22 @@ Complete the four Procurement requests but turn them in directly to the head coo
 
 Note: Missing pictures
 
+#### Ugo in the Ship's Hold
+
+Complete the Oar Collector Extermination request.
+
+- After defeating the final Oar Collector, you must suggest Ugo becomes an apprentice to Rickard.
+- Ugo will then randomly appear in the ship offering a variety of items for sale (It’s currently bugged and will crash the game if you choose to buy nothing).
+- You must buy something before he leaves. If you decide to buy everything, he gives you one extra Health Potion as a bonus.
+- After you defeat either of the Greater Warped Ones, return to Rickard shop and Ugo will be there. 
+
+Note: Due to the bugs relating to this quest, it’s currently unclear if Ugo is the same child who appears looking for his mother in the earlier maps (B1F and Ship’s Hold) and if interacting with him is needed for acquiring the bondmate. There's also no confirmation that buying anything from him is necessary.
+
+![](img/ugo.png)
+
+![](img/ugo-skill.png)
+
 ## Arena Round 1
-
-### Dealing with Cursed Weapon
-
-* Strategized  
-* Didn’t strategize
-
-### Dealing with Bad Breath
-
-* Strategized  
-* Didn’t strategize
 
 ### Requests
 
@@ -422,29 +420,7 @@ Note: For the last 2 thieves you’ll need to go between 2 trees and click the r
 
 ## Arena Round 2
 
-### Pair Met at the Pier
-
-* Gave chamomile bouquet
-* Encouraged Bonnie  
-* Gave weapon to Clyde
-* Gave Battle Item Set to the pair
-* Never met them 
-
 ## Arena Round 3
-
-### Missing Person Appearing in the Arena
-
-* Defeated Butch  
-* Caught in Butch’s explosion
-
-### Dealing with Shagtis
-
-* Prepared the forged mandate  
-* Didn’t strategize
-
-### Dealing with Vernant
-* Switched the herbs
-* Didn't strategize
 
 ### Requests
 
@@ -488,29 +464,39 @@ Pickerel Location:
 
 ![](img/image_66.png)
 
+#### Prevent Vernant from Entering the Arena
+
+![](img/lock-vernant-up.jpg)
+
+- After you've faced Vernant twice, once where he has his herbs and once where you've swapped them out, wheel back and complete [Pickerel's Report](requests-bondmates.md#pickerels-report) again
+- Once you report back to Pickerel, you will have a new dialog option to trick Vernant and lock him away
+- (Optional) Find the first merchant in the 2nd District (room immediately north of the mermaid statue you see when you enter). You will have to disable the current to get there
+- Find the second merchant at the Pier
+- Find the pale elf at the Pier
+- Pay him for the Ipiamarum. It's possible killing him works, but I haven't gotten confirmation on that yet
+- Take the Ipiamarum back to Pickerel
+- Go to the mysterious door that seemed to have absolutely no purpose prior to now
+- Wait and see has no negative implications here, but you need to lock the door to proceed
+- I wonder if Pickerel is a ninja...
+
 ## Arena Round 4
 
-### Purple Garlic
+### Bondmates
 
-* Gave to Head Cook  
-* Didn’t give
+#### Gessi
 
-### Requested Titanium Ore
+- Make sure you do not give him Garlic
+- Make sure you flip the lever to the Right
+- Make sure you give him Titanium Ore
+- Fight him under water and win!
+- Tips:
+  - Go solo as a Thief
+  - Equip Mask of the Water God
+  - Hiding + Sneak Attack your way to victory
 
-* Gave  
-* Didn’t give
+Note: Missing pictures
 
 ## Arena Round 5
-
-### Dealing with the Mermaid’s Song
-
-* Strategized  
-* Didn’t strategize
-
-### Dealing with Infinite Magic Beasts
-
-* Strategized  
-* Didn’t strategize
 
 ### Requests
 

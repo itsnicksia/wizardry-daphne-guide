@@ -2,7 +2,7 @@
 
 **Type**: Wind  
 **Personality**: Good  
-**Starting Class**: Knight
+**Starting Class**: Knight  
 **Class Change**: Currently None  
 **Role**: Damage, Support
 
