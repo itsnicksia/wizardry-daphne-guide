@@ -51,6 +51,7 @@ nav:
       - Lamp of Malice:
         - Video Guide: './events/lamp-of-malice/video-guide.md'
   - Strategies:
+      - Boss Guide: './strategies/Boss-guide.md'
       - Combat Strategies: './strategies/combat-strategies.md'
       - Party Construction: './strategies/party-construction.md'
       - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
