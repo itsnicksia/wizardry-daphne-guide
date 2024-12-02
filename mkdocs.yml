@@ -51,13 +51,11 @@ nav:
       - Beginning Abyss: './requests-bondmates/beginning-abyss/requests-bondmates.md'
       - Port Town Grand Legion: './requests-bondmates/port-town-grand-legion/requests-bondmates.md'
       - Legendary Requests:
-        - Broken Pact: './requests-bondmates/legendary-requests/broken-pact/broken-pact.md'
+        - Gerulf: Collect on a Broken Pact: './requests-bondmates/legendary-requests/broken-pact/broken-pact.md'
   - Events:
       - Lamp of Malice:
         - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'
         - Video Guide: './events/lamp-of-malice/lamp-of-malice-video-guide.md'
-  - Legendary Character Requests:
-      - Gerulf - Collect on a Broken Pact: './legendary-requests/broken-pact/broken-pact.md'
   - Strategies:
       - Combat Strategies: './strategies/combat-strategies.md'
       - Party Construction: './strategies/party-construction.md'

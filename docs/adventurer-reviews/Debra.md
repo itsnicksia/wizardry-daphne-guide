@@ -3,7 +3,7 @@
 **Type**: Light  
 **Personality**: Neutral  
 **Starting Class**: Thief  
-**Class Change**: Knight
+**Class Change**: Knight  
 **Role**: Support, Damage
 
 ## Skills
