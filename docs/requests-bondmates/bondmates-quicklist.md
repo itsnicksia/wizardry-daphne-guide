@@ -41,9 +41,9 @@
 
 # 
 
-# Affinity Bondmates
+# Adventurer Bondmates
 
-- All adventurers can be bondmates if you dismiss them once they reach max affinity
+- All adventurers can be bondmates if you dismiss them once they reach max [trust](../trust/trust.md)
 
 ![][image1]
 

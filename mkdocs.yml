@@ -70,7 +70,9 @@ nav:
     - Support Spells: './skills/support-spells.md'
   - Blacksmithing: './blacksmithing.md'
   - Grade Up: './grade-up/grade-up.md'
-  - Affinity: './affinity/index.md'
+  - Trust:
+    - Trust Guide: './trust/trust.md'
+    - Dialogue Chart: './trust/chart.md'
   - Guiding Light: './guiding-light.md'
   - Well of the Mind: './well-of-the-mind.md'
   - Adventurer Reviews:
