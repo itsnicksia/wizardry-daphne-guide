@@ -471,9 +471,11 @@ Pickerel Location:
 - (Optional) Find the first merchant in the 2nd District (room immediately north of the mermaid statue you see when you enter). You will have to disable the current to get there
 - Find the second merchant at the Pier
 - Find the pale elf at the Pier
-- Pay him for the Ipiamarum. It's possible killing him works, but I haven't gotten confirmation on that yet.
+- Pay him for the Ipiamarum. It's possible killing him works, but I haven't gotten confirmation on that yet
 - Take the Ipiamarum back to Pickerel
 - Go to the mysterious door that seemed to have absolutely no purpose prior to now
+- Wait and see has no negative implications here, but you need to lock the door to proceed
+- I wonder if Pickerel is a ninja...
 
 ## Arena Round 4
 
