@@ -58,10 +58,11 @@ nav:
       - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'
       - Video Guide: './events/lamp-of-malice/lamp-of-malice-video-guide.md'
   - Strategies:
-    - Combat Strategies: './strategies/combat-strategies.md'
-    - Party Construction: './strategies/party-construction.md'
-    - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
-    - Powerleveling: './strategies/powerleveling.md'
+      - Boss Guide: './strategies/Boss-guide.md'
+      - Combat Strategies: './strategies/combat-strategies.md'
+      - Party Construction: './strategies/party-construction.md'
+      - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
+      - Powerleveling: './strategies/powerleveling.md'
   - Skills:
     - Passive Skills: './skills/passive-skills.md'
     - Active Skills: './skills/active-skills.md'
