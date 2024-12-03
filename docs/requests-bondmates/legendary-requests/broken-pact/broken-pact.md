@@ -26,6 +26,20 @@ with focus on exploration; mobs also don't seem to respawn.
 Bossfight at the end is on the tougher side, but straightforward with no
 gimmicks or special requirements.
 
+### Notes
+- All enemies are fire element and weak to water
+- Can find at least 5 hard and light ore and 5 heavy and tenacious ore spread throughout cavern 
+- Must cross some poison to get ore, but some can be avoided 
+- Cavern consists of 2 levels. 1st level is your standard dungeon crawl. 2nd level only has Agna. 
+
+### Fighting Agna:
+- Agna only uses physical attacks but hits very hard
+- Agna spawns with 2 higher level fire entities
+- Agna isn’t weak to water, fire entities are
+- Use the defend and create opening strategy. Front row defend every round, back row to attack. Priest to heal/buff, mage to Mamigal, thief to precision strike/sneak attack 
+- Eliminate fire entities first and then only have to worry about Agna’s physical attacks 
+- Agna can deal 400+ damage if not defending. Front row defend every round or risk getting one shot
+
 ### Map
 
 Below is a map of the dungeon, but I lacked the foresight to mark Ore pieces on
