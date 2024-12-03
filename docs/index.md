@@ -8,27 +8,28 @@ We welcome contributions and corrections by the community so don’t hesitate to
 
 ## Maintainers
 
-- Proto
-- Ogarith
-- RavenArc
-- TheAxolotl
-- Dune
 - Baldcat
 - Lynd
-
-## Translators
-
-Nishi6990 (French)
+- TheAxolotl
 
 ## Contributors
 
+- Adventurer
 - CMRIDQ
+- Drane
+- Dune
 - Koston
 - Maohime
 - Millaren
 - Nanashii
+- Ogarith
 - Poopenheimer
-- Adventurer
+- Proto
+- RavenArc
+
+## Translators
+
+Nishi6990 (French)
 
 ## Resources
 
