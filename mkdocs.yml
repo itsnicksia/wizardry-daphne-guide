@@ -52,6 +52,10 @@ nav:
         - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'
         - Video Guide: './events/lamp-of-malice/lamp-of-malice-video-guide.md'
   - Strategies:
+<<<<<<< HEAD
+=======
+      - Boss Guide: './strategies/Boss-guide.md'
+>>>>>>> f1aeb034ac87a183d3610a202a055021d476d0ec
       - Combat Strategies: './strategies/combat-strategies.md'
       - Party Construction: './strategies/party-construction.md'
       - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
@@ -64,8 +68,14 @@ nav:
       - Support Spells: './skills/support-spells.md'
   - Blacksmithing: './blacksmithing.md'
   - Grade Up: './grade-up/grade-up.md'
+<<<<<<< HEAD
   - Affinity: './affinity/index.md'
   - Bondmates: './bondmates/index.md'
+=======
+  - Trust:
+    - Trust Guide: './trust/trust.md'
+    - Dialogue Chart: './trust/chart.md'
+>>>>>>> f1aeb034ac87a183d3610a202a055021d476d0ec
   - Guiding Light: './guiding-light.md'
   - Well of the Mind: './well-of-the-mind.md'
   - Adventurer's Life Stories:
