@@ -4,9 +4,16 @@ theme:
   name: material
   palette:
     scheme: slate
+    primary: black
+  font:
+    text: Zen Old Mincho
+  logo: img/logo_red.webp
+  favicon: img/favicon.ico
   features:
     - content.footnote.tooltips
     - search.suggest
+extra:
+  generator: false
 markdown_extensions:
   - toc:
       toc_depth: 4
@@ -26,6 +33,7 @@ plugins:
 extra_css:
   - stylesheets/table.css
   - stylesheets/style.css
+  - stylesheets/scheme.css
 extra_javascript:
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   - https://unpkg.com/tablesort@5.3.0/dist/tablesort.number.js
