@@ -1,4 +1,6 @@
-# Lead Exam
+# Grade Exams
+
+## Lead Exam
 
 ![](img/lead-grade-exam.png)
 
@@ -12,9 +14,7 @@
 - Boss only has 2 moves, both attack 1 unit on the front row. 1 is a multihit, 1 is a normal hit. Not really threatening, just heal up after.
 - Running away from the fight will reset the adds he spawns with. You can use this to your advantage and keep running away until he spawns with only Vorpal Bunnies, as they can be killed very quickly and easily.
 
-#### 
-
-# Bronze Exam
+## Bronze Exam
 
 ![](img/bronze-grade-exam.png)
 
@@ -32,7 +32,7 @@
 - Doesn’t seem to show Opening after being blocked (Need verification?)  
 - As usual, stock inventory full of healing potions to save on MP on the way to boss.
 
-# Iron Exam
+## Iron Exam
 
 ![](img/iron-grade-map.png)
 

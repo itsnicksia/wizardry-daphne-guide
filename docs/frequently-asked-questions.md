@@ -7,6 +7,7 @@ Go to the game Settings (gear icon) and click on `Help`. The Help section has a 
 
 ### Are there different tiers of adventurers that we can get?
 Yes! This can be seen if you look at the Drop Rates for Adventurer’s Remains. The different tiers are: 
+
 * **Anonymous Adventurer** (example: Human-Fig)
 * **General Adventurer** (example: Marianne)
 * **Legendary Adventurer** (example: Lanavaille)
@@ -38,6 +39,7 @@ No! There are 4 stone piles that you can reverse on B8F. Two of these create sho
 At specific levels (20, 30, and 40), you need to grade up to increase the level cap.
 
 Grading up requires two items:
+
 * One grade tag for each adventurer taking the grade exam (note that this does not count adventurers in the party that have already graded up).
 * A grade marker that is obtained by taking the appropriate grade exam The specific grade tag required depends on the exam you’re taking.
 
@@ -64,6 +66,7 @@ You need to attempt to leave the area through both the upper left and upper righ
 Maybe.
 
 I've encountered three Benjamin with the following stat breakdowns:
+
 * +6 bonus points, stats (16, 9, 12, 18, 17, 7, 8)
 * +5 bonus points, stats (16, 9, 12, 18, 17, 7, 9)
 * +5 bonus points, stats (16, 9, 12, 18, 17, 7, 8)
