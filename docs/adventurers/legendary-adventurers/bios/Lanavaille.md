@@ -8,7 +8,8 @@
 
 ## Skills
 
-**Note: If standard Lanavaille and Wandering Princess Lanavaille are mreged, changing styles will swap each skill.**
+!!! note
+    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each skill.
 
 ### Unique Skill (Inheritable): Queen of War and Love
 

@@ -12,7 +12,8 @@
 
 Adds 1 consecutive turn to buffs and debuffs applied by the user and increases MP. MP increase amount and growth amount of consecutive turns are reduced if learned by someone other than Alice.
 
-**NOTE: There is potentially a bug with this skill. It currently boosts the turn duration for buffs and debuffs that cost MP, however it does not boost the duration of buffs/debuffs that cost SP**
+!!! note
+    There is potentially a bug with this skill. It currently boosts the turn duration for buffs and debuffs that cost MP, however it does not boost the duration of buffs/debuffs that cost SP
 
 ### Unique Skill (Not Inheritable): Agent of Heresy
 
