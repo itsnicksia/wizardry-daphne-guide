@@ -22,8 +22,9 @@ experience starts dropping. There are a few ways to achieve this:
 
 [^1]: A good opportunity for also building trust with party members.
 
-> :warning: Doing a grade up will *slow down* your leveling. Don't do it unless
-> you really need to!
+!!! warning
+    Doing a grade up will *slow down* your leveling. Don't do it unless
+    you really need to!
 
 ## Farms
 ### Undead March
@@ -98,19 +99,13 @@ vulnerable to earth element, so having an earth nuke will help. It is possible
 to dispatch both waves with only two Lv.40 mages (Yekaterina and Adam tested),
 but this requires stacking Magic Power up to around 200 for each.
 
-
----
-
-**NOTE**
-
-This farm can be dangerous, if not paying attention to which wave you're on.
-The third enemy wave contains an Ore Collector, which is difficult and time
-consuming to kill. If you accidentally challenge the third wave instead of
-bailing out, quickest way out is intentionally getting your MC killed and using
-a flame to revive the party. There is no way to tell at the dialog screen,
-which wave is next, and the fight cannot be flee'd from.
-
----
+!!! note
+    This farm can be dangerous, if not paying attention to which wave you're on.
+    The third enemy wave contains an Ore Collector, which is difficult and time
+    consuming to kill. If you accidentally challenge the third wave instead of
+    bailing out, quickest way out is intentionally getting your MC killed and using
+    a flame to revive the party. There is no way to tell at the dialog screen,
+    which wave is next, and the fight cannot be flee'd from.
 
 ## Tips
 
