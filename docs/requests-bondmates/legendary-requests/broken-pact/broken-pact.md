@@ -8,10 +8,9 @@
 Once the requirements are met, the request will be available at the
 Adventurer's Guild at the Royal Capital Lukmalia.
 
-### Important Notice
-
-This request can only be finished **once**. If you missed something, you won't
-be able to go back for it. So don't rush it!
+!!! warning Important Notice
+    This request can only be finished **once**. If you missed something, you
+    won't be able to go back for it. So don't rush it!
 
 ## Request Mission
 
@@ -47,7 +46,8 @@ it while collecting so you will need to find them yourself. Pay special
 attention, there was at least one piece behind several unavoidable poison
 tiles, in a corner of a room on the west side of the map.
 
-![](img/map.png)
+??? note "The Demon Swamp"
+    ![](img/map.png)
 
 ## Rewards
 
@@ -59,4 +59,6 @@ find all the pieces, Lulunarde will lament this fact in an ending cutscene.
 
 For reference, below is the mace I got from it - YMMV. After enhancing to +5,
 the weapon has base Attack Power 92x1, other stats unchanged.
-![](img/mace.png)
+
+??? example "Firesmith's Mace"
+    ![](img/mace.png)
