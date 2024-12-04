@@ -9,6 +9,7 @@ We welcome contributions and corrections by the community so don’t hesitate to
 ## Maintainers
 
 - Baldcat
+- Koston
 - Lynd
 - TheAxolotl
 
@@ -18,7 +19,6 @@ We welcome contributions and corrections by the community so don’t hesitate to
 - CMRIDQ
 - Drane
 - Dune
-- Koston
 - Maohime
 - Millaren
 - Nanashii

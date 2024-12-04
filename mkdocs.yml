@@ -45,6 +45,7 @@ nav:
   - FAQ: './frequently-asked-questions.md'
   - Adventurers:
     - Legendary Adventurers:
+      - Adventurer Review Disclaimer: './adventurers/legendary-adventurers/reviews/_adventurer-review-disclaimer.md'
       - Adam:
         - Details: './adventurers/legendary-adventurers/details/Adam.md'
         - Review: './adventurers/legendary-adventurers/reviews/Adam.md'
@@ -168,6 +169,7 @@ nav:
   - Maps:
     - Beginning Abyss: './maps/beginning-abyss.md'
     - Trade Waterways: './maps/trade-waterways.md'
+    - Ancient Mausoleum: './maps/ancient-mausoleum.md'
     - Den of Earth: './maps/den-of-earth.md'
     - Den of Fire: './maps/den-of-fire.md'
     - Den of Wind: './maps/den-of-wind.md'
