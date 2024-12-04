@@ -42,7 +42,9 @@
 
 ## Duplicate Usage:
 
-1. If you use her Wandering Princess style, inherit her standard style to her own skill to increase its healing power.
+1. If you use her Wandering Princess style:
+    * Inherit her standard style dupes to her own skill to increase its healing power.
+    * Discipline her Wandering Princess style dupes.
 2. If you use her standard style and not her Wandering Princess style, Discipline is always a good choice.
 3. Inherit her skill to the MC.
 4. Save for future use. It's possible that she'll end up becoming a good candidate in the future to dismiss for Grade tags.
