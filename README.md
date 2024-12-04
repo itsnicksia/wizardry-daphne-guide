@@ -37,3 +37,16 @@ docker run --rm -it -p 8000:8000 -v "%cd%":/docs squidfunk/mkdocs-material
 ```
 docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 ```
+
+### Local install (POSIX)
+
+Create and activate a Python [virtual environment](https://docs.python.org/3/library/venv.html):
+```
+python -m venv .venv/
+source .venv/bin/activate
+```
+
+Install MkDocs and project dependencies:
+```
+pip install mkdocs-material mkdocs-glightbox
+```
