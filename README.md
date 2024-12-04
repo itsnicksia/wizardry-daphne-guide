@@ -18,6 +18,7 @@ Wait for a maintainer to review and apply your changes - that's it!
    - If you haven't used Git before, you might find the [Github Desktop](https://github.com/apps/desktop) client easier to use.
  - [MkDocs](https://www.mkdocs.org/user-guide/installation/) OR [Docker](https://docs.docker.com/engine/)
    - If you haven't used Docker before, you'll probably find it easier to install MkDocs directly on your machine.
+   - If installing locally, make sure to also install `mkdocs-glightbox` and `mkdocs-material`
 
 ### How to host locally
 

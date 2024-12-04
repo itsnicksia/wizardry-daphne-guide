@@ -21,7 +21,8 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - tables
   - attr_list
   - pymdownx.emoji:
@@ -42,77 +43,35 @@ extra_javascript:
 nav:
   - Quick Reference: './quick-reference.md'
   - FAQ: './frequently-asked-questions.md'
-  - Maps:
-    - Beginning Abyss: './maps/beginning-abyss.md'
-    - Trade Waterways: './maps/trade-waterways.md'
-    - Den of Earth: './maps/den-of-earth.md'
-    - Den of Fire: './maps/den-of-fire.md'
-    - Den of Wind: './maps/den-of-wind.md'
-  - Cursed Wheel:
-    - Wheel Causality:
-      - Beginning Abyss: './cursed-wheel/wheel-causality/beginning-abyss.md'
-      - Port Town Grand Legion: './cursed-wheel/wheel-causality/port-town-grand-legion.md'
-    - Important Requests and Greater Warped Ones:
-      - Beginning Abyss: './cursed-wheel/important-requests-greater-warped-ones/beginning-abyss.md'
-      - Port Town Grand Legion: './cursed-wheel/important-requests-greater-warped-ones/port-town-grand-legion.md'
-  - Requests and Bondmates:
-    - Bondmates Quicklist: './requests-bondmates/bondmates-quicklist.md'
-    - Beginning Abyss: './requests-bondmates/beginning-abyss/requests-bondmates.md'
-    - Port Town Grand Legion: './requests-bondmates/port-town-grand-legion/requests-bondmates.md'
-    - Legendary Requests:
-      - Gerulf - Collect on a Broken Pact: './requests-bondmates/legendary-requests/broken-pact/broken-pact.md'
-  - Events:
-    - Lamp of Malice:
-      - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'
-      - Video Guide: './events/lamp-of-malice/lamp-of-malice-video-guide.md'
-  - Strategies:
-      - Boss Guide: './strategies/Boss-guide.md'
-      - Combat Strategies: './strategies/combat-strategies.md'
-      - Party Construction: './strategies/party-construction.md'
-      - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
-      - Powerleveling: './strategies/powerleveling.md'
-  - Skills:
-    - Passive Skills: './skills/passive-skills.md'
-    - Active Skills: './skills/active-skills.md'
-    - Offensive Spells: './skills/offensive-spells.md'
-    - Debuff Spells: './skills/debuff-spells.md'
-    - Support Spells: './skills/support-spells.md'
-  - Blacksmithing: './blacksmithing.md'
-  - Grade Up: './grade-up/grade-up.md'
-  - Trust:
-    - Trust Guide: './trust/trust.md'
-    - Dialogue Chart: './trust/chart.md'
-  - Guiding Light: './guiding-light.md'
-  - Well of the Mind: './well-of-the-mind.md'
   - Adventurers:
     - Legendary Adventurers:
       - Adam:
-        - Bio: './adventurers/legendary-adventurers/bios/Adam.md'
+        - Details: './adventurers/legendary-adventurers/details/Adam.md'
         - Review: './adventurers/legendary-adventurers/reviews/Adam.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Adam.md'
       - Alice:
-        - Bio: './adventurers/legendary-adventurers/bios/Alice.md'
+        - Details: './adventurers/legendary-adventurers/details/Alice.md'
         - Review: './adventurers/legendary-adventurers/reviews/Alice.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Alice.md'
       - Debra:
-        - Bio: './adventurers/legendary-adventurers/bios/Debra.md'
+        - Details: './adventurers/legendary-adventurers/details/Debra.md'
         - Review: './adventurers/legendary-adventurers/reviews/Debra.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Debra.md'
       - Gerard:
-        - Bio: './adventurers/legendary-adventurers/bios/Gerard.md'
+        - Details: './adventurers/legendary-adventurers/details/Gerard.md'
         - Review: './adventurers/legendary-adventurers/reviews/Gerard.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Gerard.md'
       - Gerulf:
-        - Bio: './adventurers/legendary-adventurers/bios/Gerulf.md'
+        - Details: './adventurers/legendary-adventurers/details/Gerulf.md'
         - Review: './adventurers/legendary-adventurers/reviews/Gerulf.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Gerulf.md'
       - Lanavaille:
-        - Bio: './adventurers/legendary-adventurers/bios/Lanavaille.md'
+        - Details: './adventurers/legendary-adventurers/details/Lanavaille.md'
         - Standard Review: './adventurers/legendary-adventurers/reviews/Lanavaille-Standard.md'
         - Wandering Princess Review: './adventurers/legendary-adventurers/reviews/Lanavaille-Wandering-Princess.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Lanavaille.md'
       - Yekaterina:
-        - Bio: './adventurers/legendary-adventurers/bios/Yekaterina.md'
+        - Details: './adventurers/legendary-adventurers/details/Yekaterina.md'
         - Review: './adventurers/legendary-adventurers/reviews/Yekaterina.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Lanavaille.md'
     - General Adventurers:
@@ -174,6 +133,48 @@ nav:
         - Life Story: './adventurers/general-adventurers/life-stories/Valdor.md'
       - Viviana:
         - Life Story: './adventurers/general-adventurers/life-stories/Viviana.md'
+  - Cursed Wheel:
+    - Wheel Causality:
+      - Beginning Abyss: './cursed-wheel/wheel-causality/beginning-abyss.md'
+      - Port Town Grand Legion: './cursed-wheel/wheel-causality/port-town-grand-legion.md'
+    - Important Requests and Greater Warped Ones:
+      - Beginning Abyss: './cursed-wheel/important-requests-greater-warped-ones/beginning-abyss.md'
+      - Port Town Grand Legion: './cursed-wheel/important-requests-greater-warped-ones/port-town-grand-legion.md'
+  - Requests and Bondmates:
+    - Bondmates Quicklist: './requests-bondmates/bondmates-quicklist.md'
+    - Beginning Abyss: './requests-bondmates/beginning-abyss/requests-bondmates.md'
+    - Port Town Grand Legion: './requests-bondmates/port-town-grand-legion/requests-bondmates.md'
+    - Legendary Requests:
+      - Gerulf - Collect on a Broken Pact: './requests-bondmates/legendary-requests/broken-pact/broken-pact.md'
+  - Guiding Light: './guiding-light.md'
+  - Well of the Mind: './well-of-the-mind.md'
+  - Skills:
+    - Passive Skills: './skills/passive-skills.md'
+    - Active Skills: './skills/active-skills.md'
+    - Offensive Spells: './skills/offensive-spells.md'
+    - Debuff Spells: './skills/debuff-spells.md'
+    - Support Spells: './skills/support-spells.md'
+  - Strategies:
+      - Boss Guide: './strategies/Boss-guide.md'
+      - Combat Strategies: './strategies/combat-strategies.md'
+      - Party Construction: './strategies/party-construction.md'
+      - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
+      - Powerleveling: './strategies/powerleveling.md'
+  - Trust:
+    - Trust Guide: './trust/trust.md'
+    - Dialogue Chart: './trust/chart.md'
+  - Blacksmithing: './blacksmithing.md'
+  - Grade Exams: './grade-up/grade-up.md'
+  - Maps:
+    - Beginning Abyss: './maps/beginning-abyss.md'
+    - Trade Waterways: './maps/trade-waterways.md'
+    - Den of Earth: './maps/den-of-earth.md'
+    - Den of Fire: './maps/den-of-fire.md'
+    - Den of Wind: './maps/den-of-wind.md'
+  - Events:
+    - Lamp of Malice:
+      - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'
+      - Video Guide: './events/lamp-of-malice/lamp-of-malice-video-guide.md'
   - Jeweler Package Evaluation: './jeweler-package-evaluation.md'
   - Enemy Compendium: './enemy-compendium.md'
   - About The Guide: './index.md'

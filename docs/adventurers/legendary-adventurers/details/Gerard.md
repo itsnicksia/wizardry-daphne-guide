@@ -8,17 +8,17 @@
 
 ## Skills
 
-#### Unique Skill (Inheritable): Thunderstrike
+!!! info "Unique Skill (Inheritable)"
+    === "Thunderstrike"
+        Moderate wind type physical attack on 1 enemy. Low chance of inflicting Paralysis on target. Damage is reduced if learned by someone other than Gerard.
 
-Moderate wind type physical attack on 1 enemy. Low chance of inflicting Paralysis on target. Damage is reduced if learned by someone other than Gerard.
+!!! info "Unique Skill (Not Inheritable)"
+    === "Lightning Celerity"
+        Increases Evasion when equipped with a one-handed sword.
 
-### Unique Skill (Not Inheritable): Lightning Celerity
-
-Increases Evasion when equipped with a one-handed sword.
-
-### Discipline Skill: Thundersmiter's Protection
-
-Continuously increases each stat, Evasion and Action Speed increased further.
+!!! info "Discipline Skill"
+    === "Thundersmiter's Protection"
+    Continuously increases each stat, Evasion and Action Speed increased further.
 
 ## Duplicate Usage:
 

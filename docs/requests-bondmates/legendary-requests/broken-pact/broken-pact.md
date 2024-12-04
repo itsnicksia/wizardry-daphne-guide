@@ -62,3 +62,6 @@ the weapon has base Attack Power 92x1, other stats unchanged.
 
 ??? example "Firesmith's Mace"
     ![](img/mace.png)
+
+??? example "Firesmith's Gauntlets"
+    ![](img/firesmiths-gauntlets.png)

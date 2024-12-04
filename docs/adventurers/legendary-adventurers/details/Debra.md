@@ -8,17 +8,17 @@
 
 ## Skills
 
-### Unique Skill (Inheritable): Blessing of the Beastfolk Goddess
+!!! info "Unique Skill (Inheritable)"
+    === "Blessing of the Beastfolk Goddess"
+        Defeating an enemy restores minor SP to self. Recovery amount is reduced if learned by someone other than Debra.
 
-Defeating an enemy restores minor SP to self. Recovery amount is reduced if learned by someone other than Debra.
+!!! info "Unique Skill (Not Inheritable)"
+    === "Skull Study"
+        Continuously reduces the SP cost of Thief skills that cost 6 SP or less.
 
-### Unique Skill (Not Inheritable): Skull Study
-
-Continuously reduces the SP cost of Thief skills that cost 6 SP or less.
-
-### Discipline Skill: Blessing of the Beast God
-
-Continuously increases each stat, Attack Power and Paralysis tolerance increased further.
+!!! info "Discipline Skill"
+    === "Blessing of the Beast God"
+        Continuously increases each stat, Attack Power and Paralysis tolerance increased further.
 
 ## Duplicate Usage:
 
