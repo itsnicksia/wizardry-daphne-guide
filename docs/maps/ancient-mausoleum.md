@@ -2,6 +2,6 @@
 
 ![Ancient Mausoleum](img/ancient-mausoleum.jpg)
 
-# Credits
+## Credits
 
 Ancient Mausoleum map provided by Ogarith

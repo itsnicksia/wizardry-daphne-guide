@@ -4,6 +4,8 @@
 
 ![Den of Earth](img/den-of-earth/den-of-earth-alternate.png)
 
-# Credits
+![Den of Earth](img/den-of-earth/den-of-earth-alternate-2.png)
 
-Den of Earth Map kindly provided by Pookie.
+## Credits
+
+Den of Earth Maps kindly provided by Pookie and Theom1st.

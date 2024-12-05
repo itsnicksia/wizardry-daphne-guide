@@ -8,6 +8,6 @@
 
 ![Den of Fire](img/den-of-fire/den-of-fire-4.jpg)
 
-# Credits
+## Credits
 
 Den of Fire Map kindly provided by GrandAccelerator.

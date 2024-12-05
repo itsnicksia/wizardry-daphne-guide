@@ -6,6 +6,6 @@
 
 ![Den of Wind](img/den-of-wind/den-of-wind-3.jpg)
 
-# Credits
+## Credits
 
 Den of Wind Maps kindly provided by GrandAccelerator.

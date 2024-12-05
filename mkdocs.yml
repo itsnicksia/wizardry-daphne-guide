@@ -165,8 +165,9 @@ nav:
     - Trust Guide: './trust/trust.md'
     - Dialogue Chart: './trust/chart.md'
   - Blacksmithing: './blacksmithing.md'
-  - Grade Exams: './grade-up/grade-up.md'
+  - Grade Exams: './grade-exams/grade-up.md'
   - Maps:
+    - World Map: './maps/world-map.md'
     - Beginning Abyss: './maps/beginning-abyss.md'
     - Trade Waterways: './maps/trade-waterways.md'
     - Ancient Mausoleum: './maps/ancient-mausoleum.md'

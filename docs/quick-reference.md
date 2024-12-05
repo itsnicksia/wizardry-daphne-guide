@@ -82,6 +82,6 @@
 |   49   |     155000     |    1985712     |
 | **50** |  **LEVELCAP**  |  **2140712**   |
 
-## Credits
+### Credits
 
 [gamerch.com - Experience Table (Japanese)](https://gamerch.com/wizardry-daphne/877807)

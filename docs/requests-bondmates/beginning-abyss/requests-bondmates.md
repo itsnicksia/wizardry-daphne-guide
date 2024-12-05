@@ -275,6 +275,10 @@ Locations:
 
 ![](img/image_45.png)
 
+Alternate Locations:
+
+![](img/rabbits-alternate-locations.jpg)
+
 #### Grandchild Party Rescue
 
 ![](img/image_46.png)
