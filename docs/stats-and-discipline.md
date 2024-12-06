@@ -7,10 +7,10 @@
 
 ![](img/stats-chart.png)
 
-Looking at the above chart, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not completely linear due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be $70*1.2=84$, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of $60*1.2=72$, or a difference of $12$. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
+Looking at the above chart, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not completely linear due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be `70*1.2=84`, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of `60*1.2=72`, or a difference of `12`. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
 
 ## Stat Variance
-Stats can vary across two copies of the same Adventurer, and this is due to a combination of level growth, which have an element of randomness, and bonus points. For example, one level 50 Adam could end up with 59 IQ, while another could end up with 73 IQ. We don't have a full understanding of the degree of variance, but when looking at those two Adams, using the chart above, you can see that there's only a difference in Magic Power of $(73-59)*1.2=16.8$. That is not a large difference, especially as our Magic Power increases through equipment.
+Stats can vary across two copies of the same Adventurer, and this is due to a combination of level growth, which have an element of randomness, and bonus points. For example, one level 50 Adam could end up with 59 IQ, while another could end up with 73 IQ. We don't have a full understanding of the degree of variance, but when looking at those two Adams, using the chart above, you can see that there's only a difference in Magic Power of `(73-59)*1.2=16.8`. That is not a large difference, especially as our Magic Power increases through equipment.
 
 What does that mean? Ultimately, the impact of primary stats on substats is significantly smaller than the impact of equipment on substats.
 
