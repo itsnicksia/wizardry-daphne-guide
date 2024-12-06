@@ -46,7 +46,7 @@ it while collecting so you will need to find them yourself. Pay special
 attention, there was at least one piece behind several unavoidable poison
 tiles, in a corner of a room on the west side of the map.
 
-??? note "The Demon Swamp"
+??? map "The Demon Swamp"
     ![](img/map.png)
 
 ## Rewards
@@ -60,8 +60,8 @@ find all the pieces, Lulunarde will lament this fact in an ending cutscene.
 For reference, below is the mace I got from it - YMMV. After enhancing to +5,
 the weapon has base Attack Power 92x1, other stats unchanged.
 
-??? example "Firesmith's Mace"
-    ![](img/mace.png)
-
-??? example "Firesmith's Gauntlets"
-    ![](img/firesmiths-gauntlets.png)
+??? item "Rewards"
+    === ":wiz-sword:  Firesmith's Mace"
+        ![](img/mace.png)
+    === ":wiz-shield:  Firesmith's Gauntlets"
+        ![](img/firesmiths-gauntlets.png)
