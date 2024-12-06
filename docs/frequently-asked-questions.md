@@ -62,23 +62,6 @@ Due to the fact that it costs grade tags to increase an adventurer's grade, the 
 You need to attempt to leave the area through both the upper left and upper right sections of the room you’re in, as well as attempt to go back into the current before you’re able to activate the statue to drain the water. Heal with items as needed and take as few steps as possible!
 
 ## Character Questions
-### Do bonus points actually give more points?
-Maybe.
-
-I've encountered three Benjamin with the following stat breakdowns:
-
-* +6 bonus points, stats (16, 9, 12, 18, 17, 7, 8)
-* +5 bonus points, stats (16, 9, 12, 18, 17, 7, 9)
-* +5 bonus points, stats (16, 9, 12, 18, 17, 7, 8)
-
-Between the first and second, there was a change in the bonus points but no change in the total stats of the character. In this case, the bonus points were effectively "assignable" points and not bonus points. However the first has 1 true bonus point over the 3rd. If this is accurate, it means that higher bonus points does not necessarily guarantee higher total points. It could just be a higher number of assignable points resulting in the same total number of points.
-
-It's also possible that bonus points are truly that - extra bonus points, and that each character has a base set of level 1 stats with the possibility of having an extra 1 hidden bonus point applied to one stat. If this is accurate, the second Benjamin has a +1 hidden bonus point in Luck.
-
-**This is currently a subject of testing and debate among the community, and this will be updated once we know more.**
-
-### How should I spend my bonus points on X character?
-In the long run, this really doesn't matter. Stats will ultimately "level out" as you get higher in levels, so the bonus points only make an impact in the very early game. Most people tend to recommend some combination of an adventurer's primary stat, speed, and vitality. Ultimately, though, there is no "best option" and there is no way to ruin an adventurer with your bonus point distribution.
 
 ### What should I do with my duplicicates of X character?
 There's no hard or fast rule on this either. I put some of my personal thoughts and suggestions in the Character Analysis tab, so feel free to follow those if you'd like. You can never go wrong by saving a duplicate for future use, though.

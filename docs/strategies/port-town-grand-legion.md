@@ -43,6 +43,3 @@ A good target is to be around level 30, as enemy levels are comparable, but many
 * Locked Doors:
     * Red-marked doors on the minimap are inaccessible until the end of the dungeon.
     * Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock these doors, just before the arena segment.
-
-## Money and Junk Farming
-![](img/port-town-money-junk-farming.jpg)

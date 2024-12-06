@@ -55,36 +55,28 @@ nav:
   - FAQ: './frequently-asked-questions.md'
   - Adventurers:
     - Legendary Adventurers:
-      - Adventurer Review Disclaimer: './adventurers/legendary-adventurers/reviews/_adventurer-review-disclaimer.md'
+      - Adventurer Review Disclaimer: './adventurers/legendary-adventurers/details/_adventurer-review-disclaimer.md'
       - Adam:
         - Details: './adventurers/legendary-adventurers/details/Adam.md'
-        - Review: './adventurers/legendary-adventurers/reviews/Adam.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Adam.md'
       - Alice:
         - Details: './adventurers/legendary-adventurers/details/Alice.md'
-        - Review: './adventurers/legendary-adventurers/reviews/Alice.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Alice.md'
       - Debra:
         - Details: './adventurers/legendary-adventurers/details/Debra.md'
-        - Review: './adventurers/legendary-adventurers/reviews/Debra.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Debra.md'
       - Gerard:
         - Details: './adventurers/legendary-adventurers/details/Gerard.md'
-        - Review: './adventurers/legendary-adventurers/reviews/Gerard.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Gerard.md'
       - Gerulf:
         - Details: './adventurers/legendary-adventurers/details/Gerulf.md'
-        - Review: './adventurers/legendary-adventurers/reviews/Gerulf.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Gerulf.md'
       - Lanavaille:
         - Details: './adventurers/legendary-adventurers/details/Lanavaille.md'
-        - Standard Review: './adventurers/legendary-adventurers/reviews/Lanavaille-Standard.md'
-        - Wandering Princess Review: './adventurers/legendary-adventurers/reviews/Lanavaille-Wandering-Princess.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Lanavaille.md'
       - Yekaterina:
         - Details: './adventurers/legendary-adventurers/details/Yekaterina.md'
-        - Review: './adventurers/legendary-adventurers/reviews/Yekaterina.md'
-        - Life Story: './adventurers/legendary-adventurers/life-stories/Lanavaille.md'
+        - Life Story: './adventurers/legendary-adventurers/life-stories/Yekaterina.md'
     - General Adventurers:
       - Alex:
         - Life Story: './adventurers/general-adventurers/life-stories/Alex.md'
@@ -159,6 +151,7 @@ nav:
       - Gerulf - Collect on a Broken Pact: './requests-bondmates/legendary-requests/broken-pact/broken-pact.md'
   - Guiding Light: './guiding-light.md'
   - Well of the Mind: './well-of-the-mind.md'
+  - Stats, Bonus Points, and Discipline: './stats-and-discipline.md'
   - Skills:
     - Passive Skills: './skills/passive-skills.md'
     - Active Skills: './skills/active-skills.md'
@@ -171,11 +164,12 @@ nav:
       - Party Construction: './strategies/party-construction.md'
       - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
       - Powerleveling: './strategies/powerleveling.md'
+      - Farming: './strategies/farming.md'
   - Trust:
     - Trust Guide: './trust/trust.md'
     - Dialogue Chart: './trust/chart.md'
   - Blacksmithing: './blacksmithing.md'
-  - Grade Exams: './grade-exams/grade-up.md'
+  - Grade Exams: './grade-exams/grade-exams.md'
   - Maps:
     - World Map: './maps/world-map.md'
     - Beginning Abyss: './maps/beginning-abyss.md'
