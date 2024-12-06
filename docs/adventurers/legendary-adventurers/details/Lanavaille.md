@@ -75,9 +75,9 @@
 
 ## Duplicate Usage:
 
-1. If you use her Wandering Princess style
+* If you use her Wandering Princess style
     * Inherit her standard style dupes to her own skill to increase its healing power.
     * Wandering Princess dupes can either go towards Discipline or inherit. While Discipline boosts are minimal, you'll likely reach inheritance cap eventually from standard Lana pulls over time.
-2. If you use her standard style and not her Wandering Princess style, Discipline and skill inherit are both good options, although I'd probably slightly favor skill inherits.
-3. Inherit her skill to the MC.
-4. Save for future use or dismiss for Grade tags.
+* If you use her standard style and not her Wandering Princess style, Discipline and skill inherit are both good options, although I'd probably slightly favor skill inherits.
+* Inherit her skill to the MC.
+* Save for future use or dismiss for Grade tags.
