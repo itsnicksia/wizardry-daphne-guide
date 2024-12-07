@@ -11,6 +11,7 @@ theme:
   favicon: img/favicon.ico
   features:
     - content.footnote.tooltips
+    - content.tooltips
     - search.suggest
 extra:
   generator: false
@@ -31,6 +32,12 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - abbr
+  - pymdownx.snippets:
+      base_path: docs
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 plugins:
   - glightbox
   - search
@@ -82,11 +89,11 @@ nav:
         - Life Story: './adventurers/general-adventurers/life-stories/Alex.md'
       - Amelia:
         - Life Story: './adventurers/general-adventurers/life-stories/Amelia.md'
-      - Asha: 
+      - Asha:
         - Life Story: './adventurers/general-adventurers/life-stories/Asha.md'
       - Bakesh:
         - Life Story: './adventurers/general-adventurers/life-stories/Bakesh.md'
-      - Barbara: 
+      - Barbara:
         - Life Story: './adventurers/general-adventurers/life-stories/Barbara.md'
       - Benjamin:
         - Life Story: './adventurers/general-adventurers/life-stories/Benjamin.md'
