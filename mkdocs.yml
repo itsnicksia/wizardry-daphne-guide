@@ -35,6 +35,9 @@ markdown_extensions:
   - abbr
   - pymdownx.snippets:
       base_path: docs
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 plugins:
   - glightbox
   - search

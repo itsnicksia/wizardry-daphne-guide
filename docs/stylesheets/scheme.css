@@ -3,3 +3,10 @@
   --md-default-fg-color--light: #d4ad7a;
   --md-primary-bg-color: #ddd1b7;
 }
+
+.red        { color: rgb(215, 25, 15);  }
+.green      { color: rgb(16, 112, 41);  }
+.blue       { color: rgb(51, 107, 204); }
+.purple     { color: rgb(124, 77, 255); }
+.cyan       { color: rgb(39, 113, 132); }
+.orange     { color: rgb(212, 128, 17); }
