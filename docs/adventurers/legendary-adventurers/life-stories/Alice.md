@@ -39,3 +39,15 @@ And, with that, she muttered a polite apology, she put the core into her mouth a
 After enduring a wave of surging emotions, as if her blood were boiling, Alice let out a rapturous sigh. "I am overjoyed. Agora's presence is so strong within me..."
 
 And thus, Alice took Agora within her.
+
+### Page 5
+
+Agora's original plan was to devour Alice's mind and take over her body, but Alice's training had made her into an iron-willed mage and she overpowered Agora instead.
+
+"Now we can be together forever, Agora. Let us find a more suitable land for you and build a vast kingdom!"
+
+Thus Alice left the temple with her three disciples in tow.
+
+They would travel to many lands and attack many towns and villages in order to amplify Agora's powers by sacrificing the residents' souls to him.
+
+Each time, Alice was hunted as a heretic, but she used her beautiful appearance as a weapon, positioning herself as a victim, and always disappeared before she could be caught.

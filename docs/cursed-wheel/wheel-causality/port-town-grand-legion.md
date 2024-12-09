@@ -63,6 +63,7 @@
 
 * Defeated Butch  
 * Caught in Butch’s explosion
+* Ended in a draw
 
 ### Dealing with Shagtis
 
