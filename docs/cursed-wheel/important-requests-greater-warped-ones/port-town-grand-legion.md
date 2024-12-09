@@ -1,7 +1,7 @@
 # Port Town Grand Legion
 
 !!! warning "Arena Warning"
-    Most of the arena fights follow the same pattern of attempt it and die, Lulu asks you what happened then tells you to talk to Rickett (by the Lounge harken), you get one or more requests, you complete them, then you try the fight again and win.
+    Most of the arena fights follow the same pattern of attempt it and die, Lulu asks you what happened then tells you to talk to Rickett (by the Ship's Hold harken), you get one or more requests, you complete them, then you try the fight again and win.
 
     In order to save on resurrection costs on your first time through the arena, it's a good idea to send the MC alone to Arena 1, Arena 3 (Princess and Admiral routes), Arena 4, and Arena 5. You can alternatively send the MC alone the first time on every fight, but if you die against Arena 2 or Arena 3 Pontiff route, Lulu will pretty much tell you that it's a skill issue and there's no reason you should have died.
 
