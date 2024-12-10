@@ -1,5 +1,7 @@
 # Adam
 
+**Race**: Elf  
+**Gender**: Male  
 **Type**: Light  
 **Personality**: Evil  
 **Starting Class**: Mage  

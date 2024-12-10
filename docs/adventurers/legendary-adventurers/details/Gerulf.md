@@ -1,5 +1,7 @@
 # Gerulf
 
+**Race**: Dwarf  
+**Gender**: Male  
 **Type**: Fire  
 **Personality**: Evil  
 **Starting Class**: Fighter  

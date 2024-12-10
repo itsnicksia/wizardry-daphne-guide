@@ -1,5 +1,7 @@
 # Gerard
 
+**Race**: Human  
+**Gender**: Male  
 **Type**: Dark  
 **Personality**: Good  
 **Starting Class**: Knight  

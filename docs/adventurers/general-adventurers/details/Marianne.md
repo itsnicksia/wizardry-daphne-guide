@@ -1,5 +1,7 @@
 # Marianne
 
+**Race**: Human  
+**Gender**: Female  
 **Type**: Air  
 **Personality**: Good  
 **Starting Class**: Priest  

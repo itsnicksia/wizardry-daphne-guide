@@ -1,5 +1,7 @@
 # Eulalia
 
+**Race**: Elf  
+**Gender**: Female  
 **Type**: Water  
 **Personality**: Good  
 **Starting Class**: Knight  

@@ -1,5 +1,7 @@
 # Flut
 
+**Race**: Elf  
+**Gender**: Female  
 **Type**: Water  
 **Personality**: Neutral  
 **Starting Class**: Mage  

@@ -1,5 +1,7 @@
 # Yekaterina
 
+**Race**: Human  
+**Gender**: Female  
 **Type**: Earth  
 **Personality**: Neutral  
 **Starting Class**: Mage  

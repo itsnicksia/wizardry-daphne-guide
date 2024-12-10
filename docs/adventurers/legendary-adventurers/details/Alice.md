@@ -1,5 +1,7 @@
 # Alice
 
+**Race**: Elf  
+**Gender**: Female  
 **Type**: Water  
 **Personality**: Evil  
 **Starting Class**: Priest  

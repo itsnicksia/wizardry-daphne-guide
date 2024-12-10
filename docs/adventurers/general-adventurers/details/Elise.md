@@ -1,5 +1,7 @@
 # Elise
 
+**Race**: Elf  
+**Gender**: Female  
 **Type**: Earth  
 **Personality**: Neutral  
 **Starting Class**: Fighter  

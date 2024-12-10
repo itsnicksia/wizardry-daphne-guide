@@ -1,5 +1,7 @@
 # Lanavaille
 
+**Race**: Human  
+**Gender**: Female  
 **Type**: Fire  
 **Personality**: Good  
 **Starting Class**: Knight  

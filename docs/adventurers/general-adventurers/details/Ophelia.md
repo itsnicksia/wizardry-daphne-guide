@@ -1,5 +1,7 @@
 # Ophelia
 
+**Race**: Human  
+**Gender**: Female  
 **Type**: Air  
 **Personality**: Neutral  
 **Starting Class**: Fighter  

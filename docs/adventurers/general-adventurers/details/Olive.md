@@ -1,5 +1,7 @@
 # Olive
 
+**Race**: Elf  
+**Gender**: Female  
 **Type**: Air  
 **Personality**: Neutral  
 **Starting Class**: Fighter  

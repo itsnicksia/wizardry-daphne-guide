@@ -1,5 +1,7 @@
 # Debra
 
+**Race**: Beastfolk  
+**Gender**: Female  
 **Type**: Light  
 **Personality**: Neutral  
 **Starting Class**: Thief  
