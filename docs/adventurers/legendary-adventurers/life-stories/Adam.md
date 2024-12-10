@@ -33,3 +33,25 @@ Saying this, Adam then slew his stunned companions. As if in response, greenery 
 This mage of calamity created fertile lands by exchanging the life forces of living creatures. By the time the Millennial Lord's true self became clear, it was already too late. There was no one who could stop the Millennial Lord who had stolen Adam's body.
 
 "Yes, here is your reward. Do take it."
+
+### Page 4
+
+Having become the Millennial Lord, Adam returned to his homeland and slaughtered his clan.
+
+Noticing something odd, neighboring elves journeyed to the highlands and discovered piles of elven corpses and a land overwhelmed by lush greenery. Adam alone stood in the midst of the carnage, looking quite pleased with himself.  When the neighboring elves called out to him, he slew and left. He was then hunted as a murderer.
+
+Now that Adam’s innately talented body was host to an unimaginable amount of knowledge and spells that even the longest-lived elves could not hope to achieve, there was no one who could stop the Millennial Lord who had taken his body.
+
+Adam slew all the elves pursuing him, and anyone he met along the way, and continued to revitalize the barren land into lush green places.
+
+### Page 5
+
+Time passed, long enough for a new generation of elves to emerge.
+
+Deep in the woods, where there were neither the song of birds to the footsteps of animals, they discovered Adam’s desiccated remains, seated upon a throne. However, none would touch the body, for an inscription on the side of the throne read “None soever may touch of this body.”
+
+– The one who touches this body will have their body stolen by the Millennial Lord and become a murderer. The Millennial Lord is a guardian deity of greenery, inflicting disaster upon mortals. I defied the will of the Millennium Lord, reached these lands, and ended my life. But my sins shall never disappear. –
+
+The people agreed to seal Adam within all the lands and burying him away from the world along with the record of his existence.
+
+Ironically, the realm that had once been a wasteland had become a llush, verdant land by the passage of Millennial Lord Adam, to the realm’s prosperity. 
