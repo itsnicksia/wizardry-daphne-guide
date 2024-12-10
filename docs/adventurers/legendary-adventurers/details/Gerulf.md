@@ -10,7 +10,7 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Eruption Strike"
-        Moderate fire type physical attack on 1 enemy. Increases Accuracy when equipped with a two-handed blunt weapon and boosts damage. Damage is reduced if learned by someone other than Gerulf. \<Close/mid-range weapon-specific\>
+        Moderate fire type physical attack on 1 enemy. Increases Accuracy when equipped with a two-handed blunt weapon and boosts damage. Damage is reduced if learned by someone other than Gerulf. <Close/mid-range weapon-specific\>
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Branded Hands"
