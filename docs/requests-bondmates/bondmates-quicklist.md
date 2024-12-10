@@ -35,8 +35,8 @@
 | Pirate Captain Valo | Side quest | Retake Stolen Belongings from Robbers side quest. Need to choose “Pirates?” option, that probably only comes up after you did the first run or read something, not sure. | Evade Trap | Water |
 | Gessi | Arena Deck | Defeat him without strategizing (Water and Garlic) and probably needs to give him the Ore as well. Hard fight, recommend taking Scroll of gravel and a tough frontline. | Accuracy and Bind Tolerance | Water |
 | Head Cook | Ship Lounge | Complete all the four ingredient quests and deliver them directly to the head cook. After beating the boss, talk to the head cook before going back to town | Paralysis Resistence |  |
-| Water God's Ritual Regia | Trade Channel 3 | Complete the quest "Materials to Repair the Water God Statue" ┗Regia will appear randomly in the trade channel 2\. Talk to her when you meet her and she will heal you (5 times in total) | MP |  |
-| Ugo | Ship deck | The oar quest that is necessary is bugged and can apparently only be finished on the first run |  |  |
+| Water God's Ritual Regia | Trade Waterways District 2 | Found after completing Water God Statue Resetoration Materials. [Details here](./port-town-grand-legion/requests-bondmates.md#water-god-priestess-regia) | MP | Water |
+| Ugo | Ship deck | Complete the Oar Collector Extermination request. [Details here](./port-town-grand-legion/requests-bondmates.md/#ugo-in-the-ships-hold) | ASPD | Wind |
 
 # 
 

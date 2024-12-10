@@ -41,6 +41,22 @@ Locations:
 
 - Complete all waves of the Defend My Shop from Goblins quest 
 
+#### Water God Priestess Regia
+
+!!! note
+    Missing pictures
+
+!!! note
+    It's easiest to wait to get her bondmate until after you have reached `7th District -Pier-`
+
+- Complete the Water God Statue Restoration Materials request
+- Find Regia 5 times throughout Districts 2-7 in the Trade Waterways
+  - The easiest way to do this is to teleport into the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. On the 5th time, she will mention that this was the final time she will heal you.
+- Go to the marked spot in the 2nd District to receive the bondmate
+
+!!! map
+    ![](img/regia-final-location.png)
+
 ## Flooded Town
 
 ### Requests
@@ -368,7 +384,8 @@ Activation Location: (Talk to Butch)
 
 Complete the four Procurement requests but turn them in directly to the head cook and not to the guild.
 
-Note: Missing pictures
+!!! note
+    Missing pictures
 
 #### Ugo in the Ship's Hold
 
@@ -377,9 +394,11 @@ Complete the Oar Collector Extermination request.
 - After defeating the final Oar Collector, you must suggest Ugo becomes an apprentice to Rickard.
 - Ugo will then randomly appear in the ship offering a variety of items for sale (It’s currently bugged and will crash the game if you choose to buy nothing).
 - You must buy something before he leaves. If you decide to buy everything, he gives you one extra Health Potion as a bonus.
-- After you defeat either of the Greater Warped Ones, return to Rickard shop and Ugo will be there. 
+- After you defeat either of the Greater Warped Ones, return to Rickard shop and Ugo will be there.
+  - It is possible to wheel forward to after defeating the Greater Warped Ones. You do not need to manually fight them. 
 
-Note: Due to the bugs relating to this quest, it’s currently unclear if Ugo is the same child who appears looking for his mother in the earlier maps (B1F and Ship’s Hold) and if interacting with him is needed for acquiring the bondmate. There's also no confirmation that buying anything from him is necessary.
+!!! note
+    Due to the bugs relating to this quest, it’s currently unclear if Ugo is the same child who appears looking for his mother in the earlier maps (B1F and Ship’s Hold) and if interacting with him is needed for acquiring the bondmate. There's also no confirmation that buying anything from him is necessary.
 
 ![](img/ugo.png)
 
@@ -498,7 +517,8 @@ Pickerel Location:
   - Equip Mask of the Water God
   - Hiding + Sneak Attack your way to victory
 
-Note: Missing pictures
+!!! note
+    Missing pictures
 
 ## Arena Round 5
 
