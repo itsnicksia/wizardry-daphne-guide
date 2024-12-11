@@ -16,6 +16,6 @@ changes to the sources are merged.
 ## Prerequisites
 
 If you don't yet have one, create yourself a [GitHub](https://github.com)
-account and fork the Guide repository: <https://github.com/itsnicksia/wizardry-daphne-guide>
+account and fork[^fork] the Guide repository: <https://github.com/itsnicksia/wizardry-daphne-guide>
 
-*[fork]: Create a clone of the repository
+[^fork]: Create a clone of the repository.
