@@ -58,6 +58,12 @@ Due to the fact that it costs grade tags to increase an adventurer's grade, the 
 
 **There is no benefit in grading up an adventurer before dismissing them**. The weekly requests starts with a 3 tag reward and increases to 4 tags at a certain point. This isn’t confirmed, but it seems to be when your MC is level 40 in any class, possibly also requiring the MC having changed to another class.
 
+### How do I swap lower grade tags for a higher grade?
+
+!!! info
+    ![](./img/swap-guild-tags-1.png)
+    ![](./img/swap-guild-tags-2.png)
+
 ### Help! I’m drowning! What do I do?
 You need to attempt to leave the area through both the upper left and upper right sections of the room you’re in, as well as attempt to go back into the current before you’re able to activate the statue to drain the water. Heal with items as needed and take as few steps as possible!
 

@@ -25,3 +25,13 @@ Having grown larger than most of the men around him, people had come to respect 
 Taunted by claims that it was a woman's ploy for sympathy, flew into a rage.
 
 After starting a brawl, Gandolfo fled the bar, leaving the man bloodied and broken.
+
+### Page 4
+
+Upon returning home, Gandolfo confronted his mother. Now old and too infirm to work, she just kept recounting her recollections of his father, full of contradictions, like the bell of a broken clock. It was then that he realized that it had all been lies.
+
+He thought of how he'd given up the dreams of his future for his mother. But the very existence of the father he'd looked up to had been a lie. In despair, Gandolfo abandoned his mother and left his hometown behind.
+
+And thus, entering the guild, Gandolfo became and adventurer.
+
+However, from that moment on, made up his mind that he'd live only for himself, and no one else.

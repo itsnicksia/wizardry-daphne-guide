@@ -86,16 +86,20 @@ nav:
         - Life Story: './adventurers/legendary-adventurers/life-stories/Yekaterina.md'
     - General Adventurers:
       - Alex:
+        - Details: './adventurers/general-adventurers/details/Alex.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Alex.md'
       - Amelia:
+        - Details: './adventurers/general-adventurers/details/Amelia.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Amelia.md'
       - Asha:
+        - Details: './adventurers/general-adventurers/details/Asha.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Asha.md'
       - Bakesh:
         - Life Story: './adventurers/general-adventurers/life-stories/Bakesh.md'
       - Barbara:
         - Life Story: './adventurers/general-adventurers/life-stories/Barbara.md'
       - Benjamin:
+        - Details: './adventurers/general-adventurers/details/Benjamin.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Benjamin.md'
       - Chloe:
         - Life Story: './adventurers/general-adventurers/life-stories/Chloe.md'
@@ -104,8 +108,10 @@ nav:
       - Daniel:
         - Life Story: './adventurers/general-adventurers/life-stories/Daniel.md'
       - Dino:
+        - Details: './adventurers/general-adventurers/details/Dino.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Dino.md'
       - Eckart:
+        - Details: './adventurers/general-adventurers/details/Eckart.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Eckart.md'
       - Elda:
         - Life Story: './adventurers/general-adventurers/life-stories/Elda.md'
@@ -123,6 +129,7 @@ nav:
         - Details: './adventurers/general-adventurers/details/Flut.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Flut.md'
       - Galina:
+        - Details: './adventurers/general-adventurers/details/Galina.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Galina.md'
       - Gandolfo:
         - Life Story: './adventurers/general-adventurers/life-stories/Gandolfo.md'
@@ -136,6 +143,7 @@ nav:
         - Details: './adventurers/general-adventurers/details/Marianne.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Marianne.md'
       - Milana:
+        - Details: './adventurers/general-adventurers/details/Milana.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Milana.md'
       - Olive:
         - Details: './adventurers/general-adventurers/details/Olive.md'
@@ -144,10 +152,13 @@ nav:
         - Details: './adventurers/general-adventurers/details/Ophelia.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Ophelia.md'
       - Phillip:
+        - Details: './adventurers/general-adventurers/details/Philip.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Phillip.md'
       - Valdor:
+        - Details: './adventurers/general-adventurers/details/Valdor.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Valdor.md'
       - Viviana:
+        - Details: './adventurers/general-adventurers/details/Viviana.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Viviana.md'
   - Cursed Wheel:
     - Wheel Causality:

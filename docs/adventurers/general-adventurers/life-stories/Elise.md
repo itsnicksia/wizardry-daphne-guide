@@ -19,3 +19,21 @@ One time, a village child was kidnapped when they went into the forest. Ignoring
 Catching up to the kidnapper's wagon, Elise doggedly challenged the men aboard, though there were several of them and they were much larger than she.
 
 The next thing Elise knew, she had the crying child in her arms. Realizing for the first time that she was capable of protecting the village, she felt confident in her own abilities.
+
+### Page 3
+
+Years after the tragic event that took the lives of the village men, the elder decided to merge with the village across the river.
+
+Their population grew to 50 residents, 10 of whom were young men.
+
+The women passed on the grueling physical labor and were relieved to be able to live their lives in safety.
+
+And Elise's coveted role of warrior was taken from her.
+
+### Page 4
+
+She visited her mentor, the old warrior, and pleaded desperately with him to convince the adults of the village to allow her to live as a warrior.
+
+But the old warrior simply shook his head, saying that it was because Elise had worked so hard to protect the village that she should enjoy the life of a normal girl now. The old knight sincerely wished her happiness.
+
+That very night, Elise left the village in silence. She was already a warrior and was could not return to a life of weakness, only being protected. She set off on a journey to find a place where she was needed.

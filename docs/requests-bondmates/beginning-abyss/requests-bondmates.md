@@ -409,13 +409,22 @@ Location:
 
 #### The Pleading Boss Goblin
 
+![](img/boss-goblin.jpg)
+
 1. Defeat the goblin boss on the top right of the map.
 2. Return in time to the 2nd floor harken.
-3. Meet him again and select “Slash” and then “Forgive”
-3. Talk to the elf at the tavern.
-4. Collect transparent stones on the south side until you find the goblin boss.
+3. Meet him again and select “Slash” and then “Let it go”
+4. Go back to town and talk to the elf at the tavern.
+5. Go back to the goblin's den and be sure to collect the translucent stones on the south side until you find the goblin boss or else the goblin boss won't appear.
 
-Note: Missing pictures
+!!! warning
+    Be careful as this fight will be an "AMBUSH"
+
+6. After the fight, the goblin boss will plead again, choose "Let it go" again.
+7. Go out of the goblin's den. Then, go back in.
+8. Then, go to the next room or the room just outside where you fought the goblin boss, you'll find the boss standing in the middle of the room. After the dialogue, choose "Let it go" again, then you'll get the bondmate.
+
+![](img/boss-goblin-final-spot.jpg)
 
 ## Miscellaneous
 
