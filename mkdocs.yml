@@ -184,6 +184,7 @@ nav:
     - Offensive Spells: './skills/offensive-spells.md'
     - Debuff Spells: './skills/debuff-spells.md'
     - Support Spells: './skills/support-spells.md'
+  - Harken's Blessings: './harkens-blessings.md'
   - Strategies:
       - Boss Guide: './strategies/Boss-guide.md'
       - Combat Strategies: './strategies/combat-strategies.md'
