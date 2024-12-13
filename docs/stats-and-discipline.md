@@ -20,19 +20,44 @@ We've often found ourselves saying bonus points don't matter. This is both true 
 ### How Should You Assign Bonus Points?
 There aren't really any bad options here, but the community tends to recommend either the Adventurer's main stat (for example, a Fighter's main stat would be STR), Speed, or some combination of the two. You cannot break a character with your bonus point allocation.
 
+## Power Formula
+
+!!! warning "Warning: Contains math"
+
+!!! info "Power Formula"
+    `StatsPagePowerValue = SpecialRound(MainStat * ClassMod * %EquipmentValuesMultiplicatively) + Sum(ScalarEquipmentValues) + Sum(ScalarStatValues) + Sum(ScalarSkillValues) + Sum(ScalarTraitMods)`
+
+??? info "Variable Definitions"
+    * `StatsPagePowerValue` is the final power value you see displayed on the stats page.
+    * `MainStat` is `Strength`, `IQ`, `Piety`, or `Vitality`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, `Divine Power`, or `Defense Power` respectively.
+    * `ClassMod` is based on the stats chart above. As an example, Fighters have a `ClassMod` for `Strength` of `1.2`.
+    * `%EquipmentValuesMultiplicatively` is the combination of all percentage modifiers from your equipment. What's unique about this is that percentage values are multiplicative with each other.
+        * For example, if you have equipment modifiers of `ATK+16%` and `ATK+5%`, instead of being a `21% (*1.21)` attack increase, this is instead a `*1.16*1.05` attack increase.
+    * `SpecialRound` is...unique. Instead of multiplying these values together and rounding the final result like you'd normally expect to happen with, well, math, the game instead **rounds after each multiplication**. This leads to some slightly unexpected behavior with the formula.
+        * For example, if you have a Fighter with `58` Strength, the naked, skill-less attack power is `70` instead of the expected `69.6`. This is the same value you get if you completely unequip a character, then subtract the parenthesized value on the stats page.
+            * Continuing the example above, if I completely unequip my Fighter MC, his Strength shows `58(+0)` on the stats page, while his Attack Power shows `101(+31)` on the stats page. Subtracting the `31` from the `101` gives us the `70` that matches `Round(58*1.2)`.
+            * This does mean that when reading your stats page, a value of `101(+31)` simply says that `31` points of those `101` total points came from skills. It does not mean that you add the `31` to the `101`. Weird, right?
+    * `Sum(ScalarEquipmentValues)` is the summation of the baseline power value of all your equpiment. For example, this value is `118` for a `+15 Steel Two-Handed Spear`.
+    * `Sum(ScalarStatValues)` is self-explanatory, but it's the addition of all scalar (example `ATK+11`) stat values from your equipment.
+    * `Sum(ScalarSkillValues)` is the sum of all stat values from skills. This ultimately just that parenthesized value on your stats page, and it does adjust automatically to factor in conditional skills such as `2h Weapon Proficiency`.
+        * `Priest Weapon Mastery` falls under this category and is already calculated and displayed for you in the parenthesized value.
+    * `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `Strength+` and `I.Q. Conversion`.
+        * `Strength+` is calculated as `STR * ClassMod * 0.75`.
+        * `I.Q. Conversion` appears to be around `I.Q. * 0.2` but we haven't fully confirmed this yet.
+
 ## Discipline
 Discipline boosts all of your secondary stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. It also seems to be a bigger boost for Legendary Adventurers than General or Anonymous Adventurers. The numbers below reflect the Discipline gains for Legendary Adventurers.
 
 Substats seem to be broken up into four main categories:
 
 * General Stats (most stats)
-  * General stats see a boost of +2 per dupe (increased at each Discipline skill level) for Discipline levels 1-6 and an average of +1.5 per dupe for Discipline levels 7-9.
+    * General stats see a boost of +2 per dupe (increased at each Discipline skill level) for Discipline levels 1-6 and an average of +1.5 per dupe for Discipline levels 7-9.
 * Featured Stat (Adam's is Magic Power, for example)
-  * The Featured stat sees a higher than +2 per dupe increase, but it's less uniform. The increases are always the same across Adventurers at a given Discipline level, but the individual amounts vary between +1 and +3 per dupe on top of the General stat boost.
+    * The Featured stat sees a higher than +2 per dupe increase, but it's less uniform. The increases are always the same across Adventurers at a given Discipline level, but the individual amounts vary between +1 and +3 per dupe on top of the General stat boost.
 * HP
-  * HP is similar to the Featured stat, however its individual amounts vary between +8 and +19 per dupe (or between +10 and +22 per dupe if HP is the Featured stat), ignoring the General stat boost
+    * HP is similar to the Featured stat, however its individual amounts vary between +8 and +19 per dupe (or between +10 and +22 per dupe if HP is the Featured stat), ignoring the General stat boost
 * ASPD
-  * ASPD sees a smaller than +2 per dupe increase, varying between +1 and +3 per dupe, ignoring the General stat boost
+    * ASPD sees a smaller than +2 per dupe increase, varying between +1 and +3 per dupe, ignoring the General stat boost
 
 As you can see, this means that while Discipline can add up at higher skill levels, ultimately results in a relatively low boost to performance.
 
