@@ -29,7 +29,7 @@ There aren't really any bad options here, but the community tends to recommend e
 
 ??? info "Variable Definitions"
     * `StatsPagePowerValue` is the final power value you see displayed on the stats page.
-    * `MainStat` is `Strength`, `IQ`, `Piety`, or `Vitality`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, `Divine Power`, or `Defense Power` respectively.
+    * `MainStat` is `Strength`, `IQ`, or `Piety`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, or `Divine Power` respectively.
     * `ClassMod` is based on the stats chart above. As an example, Fighters have a `ClassMod` for `Strength` of `1.2`.
     * `%EquipmentValuesMultiplicatively` is the combination of all percentage modifiers from your equipment. What's unique about this is that percentage values are multiplicative with each other.
         * For example, if you have equipment modifiers of `ATK+16%` and `ATK+5%`, instead of being a `21% (*1.21)` attack increase, this is instead a `*1.16*1.05` attack increase.
