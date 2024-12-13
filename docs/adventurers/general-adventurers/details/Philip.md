@@ -5,7 +5,7 @@
 **Type**: Water  
 **Personality**: Neutral  
 **Starting Class**: Thief  
-**Class Change**:   
+**Class Change**: Fighter  
 **Role**: Damage, Support
 
 ## Skills

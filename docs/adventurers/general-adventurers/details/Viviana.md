@@ -5,7 +5,7 @@
 **Type**: Water  
 **Personality**: Evil  
 **Starting Class**: Thief  
-**Class Change**:   
+**Class Change**: Priest  
 **Role**: Damage, Support
 
 ## Skills

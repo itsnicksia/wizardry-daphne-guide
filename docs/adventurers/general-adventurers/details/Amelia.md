@@ -5,7 +5,7 @@
 **Type**: Fire  
 **Personality**: Evil  
 **Starting Class**: Thief  
-**Class Change**:   
+**Class Change**: Fighter  
 **Role**: Damage, Support
 
 ## Skills
