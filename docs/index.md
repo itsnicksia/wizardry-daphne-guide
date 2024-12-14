@@ -17,6 +17,7 @@ We welcome contributions and corrections by the community so don’t hesitate to
 
 - Adventurer
 - CMRIDQ
+- DonPeter
 - Drane
 - Dune
 - Maohime
@@ -26,6 +27,7 @@ We welcome contributions and corrections by the community so don’t hesitate to
 - Poopenheimer
 - Proto
 - RavenArc
+- tomato
 
 ## Translators
 
