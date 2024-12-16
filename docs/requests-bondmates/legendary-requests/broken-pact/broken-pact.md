@@ -44,7 +44,7 @@ gimmicks or special requirements.
 Below is a map of the dungeon, with the 10 ore locations marked
 
 ??? map "The Demon Swamp"
-    ![](img/demon-swamp-ore-locations.jpg.png)
+    ![](img/demon-swamp-ore-locations.jpg)
 
 ## Rewards
 
