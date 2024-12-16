@@ -41,13 +41,10 @@ gimmicks or special requirements.
 
 ### Map
 
-Below is a map of the dungeon, but I lacked the foresight to mark Ore pieces on
-it while collecting so you will need to find them yourself. Pay special
-attention, there was at least one piece behind several unavoidable poison
-tiles, in a corner of a room on the west side of the map.
+Below is a map of the dungeon, with the 10 ore locations marked
 
 ??? map "The Demon Swamp"
-    ![](img/map.png)
+    ![](img/demon-swamp-ore-locations.jpg.png)
 
 ## Rewards
 

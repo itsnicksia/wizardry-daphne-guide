@@ -12,6 +12,7 @@
 | <span style="color: Green">Blessing of Mana</span>                | Harken's Blessing has increased your Magic Power and Divine Power.                                                                           |
 | <span style="color: Green">Blessing of Od</span>                  | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span style="color: Green">Blessing of Poison Paralysis</span>    | Harken's Blessing has increased your Poison Tolerance and Paralysis Tolerance.                                                               |
+| <span style="color: Green">Blessing of Quarantine</span>          | Harken's Blessing has increased your Resistance and Evasion.                                                                                 |
 | <span style="color: Green">Hammer of Magical Beasts</span>        | Harken's Blessing has increased the damage you do to magic beasts.                                                                           |
 | <span style="color: SlateBlue">Blessing of Mana II</span>         | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |
 | <span style="color: SlateBlue">Honed Tactics</span>               | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
