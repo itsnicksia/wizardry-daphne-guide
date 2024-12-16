@@ -12,8 +12,7 @@
 
 !!! info "Inheritable Skill"
     === "Treasure Trap Disarm Skill"
-        Moderate physical attack on 1 enemy. Chance to stun based on Defense Power. Efficacy and probability increased based on skill level.
-        <Close/mid-range weapon-specific/>
+        Continuously increases Disarm Trap. Disarm Trap increased further based on skill level.
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Earth Formation"
