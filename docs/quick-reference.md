@@ -27,6 +27,44 @@
 | **ASPD, SUR**                                 | 1~3 | 1~5 | 1~7 | 2~9  | 2~11 |
 | **ASPD%**                                     | 1~3 | 1~5 | 1~7 | 2~9  | 2~11 |
 
+## Gear Drop Blessings
+
+**These values are only estimates, and should be used as reference only.**
+
+###### O : Confirmed
+###### ? : Unconfirmed
+###### Empty : None
+
+| Type  | Small Shield  | Light Shield  | Heavy Shield  | Hat  | Light Helm  | Heavy Helm  | Cloth  | Light Armor  | Heavy Armor  | Gloves  | Light Gauntlets  | Heavy Gauntlets  | Shoes  | Light Foot Armor  | Heavy Foot Armor   | Accessory  |
+|:---   |:---:          |:---:          |:---:          |:---  |:---:        |:---:        |:---:   |:---:         |:---:         |:---:    |:---:             |:---:             |:---:   |:---:              |:---:               |:---:       |
+| ATK%  |               |               |               |  O   |     O       |     O       |        |              |              |         |                  |                  |        |                   |                    |     O      |
+| MAG%  |               |               |               |  O   |     O       |     ?       |        |              |              |         |                  |                  |        |                   |                    |            |
+| DIV%  |               |               |               |  O   |     O       |     ?       |        |              |              |    O    |       O          |       ?          |        |                   |                    |     O      |
+| ACC%  |               |               |               |  O   |     O       |     ?       |        |              |              |    O    |       O          |       ?          |   O    |       ?           |         ?          |     O      |
+| EVA%  |      O        |      O        |      O        |      |             |             |   O    |      O       |     O        |         |                  |                  |   O    |       O           |         ?          |     ?      |
+| RES%  |      O        |      O        |      O        |  O   |     ?       |     ?       |   O    |      O       |     ?        |         |                  |                  |        |                   |                    |            |
+| DEF%  |      O        |      O        |      O        |  O   |     O       |     O       |   O    |      O       |     O        |         |                  |                  |        |                   |                    |     O      |
+| MDEF% |      O        |      O        |      O        |  O   |     ?       |     ?       |        |              |              |         |                  |                  |        |                   |                    |            |
+| SUR%  |               |               |               |      |             |             |        |              |              |         |                  |                  |        |                   |                    |            |
+| SUR EVA%  |           |               |               |      |             |             |        |              |              |         |                  |                  |        |                   |                    |            |
+| ASPD% |      O        |      ?        |      ?        |      |             |             |   O    |      O       |     ?        |         |                  |                  |   O    |       ?           |         ?          |     O      |
+| ATK   |               |               |               |  O   |     O       |     O       |        |              |              |    O    |       O          |       O          |        |                   |                    |     O      |
+| MAG   |               |               |               |  O   |     O       |     O       |        |              |              |    O    |       ?          |       ?          |        |                   |                    |     O      |
+| DIV   |               |               |               |  O   |     O       |     O       |        |              |              |    O    |       O          |       O          |        |                   |                    |     O      |
+| ACC   |               |               |               |  O   |     O       |     O       |        |              |              |    O    |       O          |       O          |   O    |       O           |         O          |     O      |
+| EVA   |      O        |      O        |      O        |      |             |             |   O    |      O       |     O        |         |                  |                  |   O    |       O           |         ?          |     O      |
+| RES   |      O        |      O        |      O        |  O   |     O       |     O       |   O    |      O       |     ?        |         |                  |                  |   O    |       O           |         O          |            |
+| DEF   |      O        |      O        |      O        |  O   |     O       |     O       |   O    |      O       |     O        |    O    |       O          |       O          |   O    |       O           |         O          |     O      |
+| MDEF  |      O        |      O        |      O        |  O   |     O       |     O       |   O    |      O       |     O        |    O    |       O          |       O          |   O    |       O           |         O          |     O      |
+| SUR   |      O        |      O        |      O        |      |             |             |   O    |      O       |     ?        |         |                  |                  |        |                   |                    |     O      |
+| SUR EVA  |            |               |               |      |             |             |        |              |              |         |                  |                  |        |                   |                    |            |
+| ASPD  |      O        |      O        |      O        |      |             |             |   O    |      O       |     ?        |         |                  |                  |   O    |       O           |         ?          |     O      |
+
+### Credits
+
+[gamerch.com - Gear Drop Blessings Table (Japanese)](https://gamerch.com/wizardry-daphne/877484) <br>
+[gamer.com.tw - Gear Drop Blessings Table (Traditional Chinese)](https://forum.gamer.com.tw/C.php?bsn=70180&snA=384&tnum=7https://forum.gamer.com.tw/C.php?bsn=70180&snA=384&tnum=7)
+
 ## Experience Table
 
 | Level  | Next Level Exp | Cumulative Exp |
