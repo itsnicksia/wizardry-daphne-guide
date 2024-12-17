@@ -10,6 +10,7 @@
 | Blessing of Magic Protection                                      | Harken's Blessing has increased your Magic Defense.                                                                                          |
 | Blessing of Power                                                 | Harken's Blessing has increased your Attack Power.                                                                                           |
 | Blessing of Protection                                            | Harken's Blessing has increased your Defense Power.                                                                                          |
+| <span style="color: Green">Humanoid Rejection</span>              | Harken's Blessing has reduced the damage you take from humans.                                                                               |
 | <span style="color: Green">Blessing of Mana</span>                | Harken's Blessing has increased your Magic Power and Divine Power.                                                                           |
 | <span style="color: Green">Blessing of Od</span>                  | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span style="color: Green">Blessing of Poison Paralysis</span>    | Harken's Blessing has increased your Poison Tolerance and Paralysis Tolerance.                                                               |
