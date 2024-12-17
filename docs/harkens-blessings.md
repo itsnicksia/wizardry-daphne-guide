@@ -7,6 +7,7 @@
 | Blessing of Bullseye                                              | Harken's Blessing has increased your Accuracy.                                                                                               |
 | Blessing of Immunity                                              | Harken's Blessing has increased your Resistance.                                                                                             |
 | Blessing of Magic                                                 | Harken's Blessing has increased your Magic Power.                                                                                            |
+| Blessing of Magic Protection                                      | Harken's Blessing has increased your Magic Defense.                                                                                          |
 | Blessing of Power                                                 | Harken's Blessing has increased your Attack Power.                                                                                           |
 | Blessing of Protection                                            | Harken's Blessing has increased your Defense Power.                                                                                          |
 | <span style="color: Green">Blessing of Mana</span>                | Harken's Blessing has increased your Magic Power and Divine Power.                                                                           |
@@ -15,6 +16,7 @@
 | <span style="color: Green">Blessing of Quarantine</span>          | Harken's Blessing has increased your Resistance and Evasion.                                                                                 |
 | <span style="color: Green">Hammer of Magical Beasts</span>        | Harken's Blessing has increased the damage you do to magic beasts.                                                                           |
 | <span style="color: SlateBlue">Blessing of Mana II</span>         | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |
+| <span style="color: SlateBlue">Blessing of Od II</span>           | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span style="color: SlateBlue">Honed Tactics</span>               | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
 | <span style="color: SlateBlue">Mind That Fights with Guile</span> | Harken's Blessing has increased your Magic Power, Divine Power, and Action Speed.                                                            |
 | <span style="color: BlueViolet">Abductor of Kings</span>          | Harken's Blessing has increased your Evade Trap, Disarm Trap, Poison Tolerance, Paralysis Tolerance, Fear Tolerance, and Critical Tolerance. |
