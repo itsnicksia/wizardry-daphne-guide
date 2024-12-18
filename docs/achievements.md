@@ -155,12 +155,13 @@
 
 === "Other"
 
-    | Name               | Description                                  |
-    | ------------------ | -------------------------------------------- |
-    | Thief              | Have your money stolen at an inn.            |
-    | Living Large       | Stay in a royal suite.                       |
-    | Full Belly         | Eat all dishes other than the daily special. |
-    | 100th Login        | Log in for a total of 100 days.              |
-    | Achievement Rank C | Earn 20 achievements.                        |
-    | Achievement Rank B | Earn 50 achievements.                        |
-    | Achievement Rank A | Earn 100 achievements.                       |
+    | Name               | Description                                                   |
+    | ------------------ | ------------------------------------------------------------- |
+    | Thief              | Have your money stolen at an inn.                             |
+    | Living Large       | Stay in a royal suite.                                        |
+    | A Secret Kept      | Go through your adventure without revealing the Cursed Wheel. |
+    | Full Belly         | Eat all dishes other than the daily special.                  |
+    | 100th Login        | Log in for a total of 100 days.                               |
+    | Achievement Rank C | Earn 20 achievements.                                         |
+    | Achievement Rank B | Earn 50 achievements.                                         |
+    | Achievement Rank A | Earn 100 achievements.                                        |
