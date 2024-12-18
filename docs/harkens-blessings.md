@@ -15,10 +15,12 @@
 | <span style="color: Green">Blessing of Od</span>                  | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span style="color: Green">Blessing of Poison Paralysis</span>    | Harken's Blessing has increased your Poison Tolerance and Paralysis Tolerance.                                                               |
 | <span style="color: Green">Blessing of Quarantine</span>          | Harken's Blessing has increased your Resistance and Evasion.                                                                                 |
+| <span style="color: Green">Hammer Demi-Humans</span>              | Harken's Blessing has increased the damage you do to demi-humans.                                                                            |
 | <span style="color: Green">Hammer of Magical Beasts</span>        | Harken's Blessing has increased the damage you do to magic beasts.                                                                           |
 | <span style="color: SlateBlue">Blessing of Mana II</span>         | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |
 | <span style="color: SlateBlue">Blessing of Od II</span>           | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span style="color: SlateBlue">Honed Tactics</span>               | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
 | <span style="color: SlateBlue">Mind That Fights with Guile</span> | Harken's Blessing has increased your Magic Power, Divine Power, and Action Speed.                                                            |
+| <span style="color: SlateBlue">Undead Rebuff</span>               | Harken's Blessing has reduced the damage you take from undead.                                                                               |
 | <span style="color: BlueViolet">Abductor of Kings</span>          | Harken's Blessing has increased your Evade Trap, Disarm Trap, Poison Tolerance, Paralysis Tolerance, Fear Tolerance, and Critical Tolerance. |
 | <span style="color: BlueViolet">Mermaid Aboard the Ship</span>    | Harken's Blessing has increased your Water Type Resistance, Sleep Tolerance, Magic Power, Divine Power, and Resistance.                      |
