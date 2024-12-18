@@ -17,6 +17,7 @@
 | <span style="color: Green">Blessing of Quarantine</span>          | Harken's Blessing has increased your Resistance and Evasion.                                                                                 |
 | <span style="color: Green">Hammer Demi-Humans</span>              | Harken's Blessing has increased the damage you do to demi-humans.                                                                            |
 | <span style="color: Green">Hammer of Magical Beasts</span>        | Harken's Blessing has increased the damage you do to magic beasts.                                                                           |
+| <span style="color: Green">Protection of Water Barrier</span>     | Harken's Blessing has increased the damage your Water Type Resistance.                                                                           |
 | <span style="color: SlateBlue">Blessing of Mana II</span>         | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |
 | <span style="color: SlateBlue">Blessing of Od II</span>           | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span style="color: SlateBlue">Honed Tactics</span>               | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
