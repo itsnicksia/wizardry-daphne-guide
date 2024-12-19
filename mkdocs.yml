@@ -97,17 +97,21 @@ nav:
         - Details: './adventurers/general-adventurers/details/Asha.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Asha.md'
       - Bakesh:
+        - Details: './adventurers/general-adventurers/details/Bakesh.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Bakesh.md'
       - Barbara:
+        - Details: './adventurers/general-adventurers/details/Barbara.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Barbara.md'
       - Benjamin:
         - Details: './adventurers/general-adventurers/details/Benjamin.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Benjamin.md'
       - Chloe:
+        - Details: './adventurers/general-adventurers/details/Chloe.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Chloe.md'
       - Clarissa:
         - Life Story: './adventurers/general-adventurers/life-stories/Clarissa.md'
       - Daniel:
+        - Details: './adventurers/general-adventurers/details/Daniel.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Daniel.md'
       - Dino:
         - Details: './adventurers/general-adventurers/details/Dino.md'
@@ -116,13 +120,16 @@ nav:
         - Details: './adventurers/general-adventurers/details/Eckart.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Eckart.md'
       - Elda:
+        - Details: './adventurers/general-adventurers/details/Elda.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Elda.md'
       - Eldorado:
+        - Details: './adventurers/general-adventurers/details/Eldorado.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Eldorado.md'
       - Elise:
         - Details: './adventurers/general-adventurers/details/Elise.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Elise.md'
       - Emil:
+        - Details: './adventurers/general-adventurers/details/Emil.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Emil.md'
       - Eulalia:
         - Details: './adventurers/general-adventurers/details/Eulalia.md'
@@ -136,8 +143,10 @@ nav:
       - Gandolfo:
         - Life Story: './adventurers/general-adventurers/life-stories/Gandolfo.md'
       - Gaston:
+        - Details: './adventurers/general-adventurers/details/Gaston.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Gaston.md'
       - Jarmil:
+        - Details: './adventurers/general-adventurers/details/Jarmil.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Jarmil.md'
       - Jean:
         - Details: './adventurers/general-adventurers/details/Jean.md'
