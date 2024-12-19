@@ -46,36 +46,43 @@
 
 === "Adventurer"
 
-    | Name                                | Description                                                       |
-    | ----------------------------------- | ----------------------------------------------------------------- |
-    | Quivering Slime                     | Ghreen Jelly becomes a Bondmate.                                  |
-    | Water Got Priestess Regia           | Priestess Regia becomes a Bondmate.                               |
-    | First Grade Up                      | The Masked Adventurer was promoted to Lead Grade.                 |
-    | Bronze Graded Adventurer            | The Masked Adventurer was promoted to Bronze Grade.               |
-    | Iron Graded Adventurer              | The Masked Adventurer was promoted to Iron Grade.                 |
-    | Lead Grade Party                    | 5 allies promoted to Lead Grade.                                  |
-    | Lead Grade 2nd Party                | 11 allies promoted to Lead Grade.                                 |
-    | Bronze Grade Party                  | 5 allies promoted to Bronze Grade.                                |
-    | Bronze Grade 2nd Party              | 11 allies promoted to Bronze Grade.                               |
-    | Iron Grade Party                    | 5 allies promoted to Iron Grade.                                  |
-    | Iron Grade 2nd Party                | 11 allies promoted to Iron Grade.                                 |
-    | First Discipline                    | Attain Discipline Level 1.                                        |
-    | Awakening to Talent                 | Attain Discipline Level 3.                                        |
-    | Those Who Attain Self-Discipline    | 5 allies have attained Discipline Level 1.                        |
-    | Those Who Attain Self-Discipline II | 5 allies have attained Discipline Level 3.                        |
-    | Into the Well of the Mind           | Unlock a Domain in the Well of the Mind.                          |
-    | Seeker of the Mind                  | Unlock Domains in the Well of the Mind 5 times.                   |
-    | Mind that Transcends All Deaths     | Unlock Domains in the Well of the Mind 12 times.                  |
-    | Meeting a BOndmate                  | Someone you meet on your adventure becomes a Bondmate.            |
-    | Meeting a Bondmate II               | 10 people you meet on your adventure become Bondmates.            |
-    | Meeting a Bondmate III              | 20 people you meet on your adventure become Bondmates.            |
-    | Deepending Bond                     | A Bondmate you made on your adventure becomes Bond Level 5.       |
-    | First Camp                          | Camp in a dungeon 1 time.                                         |
-    | Intermediate Camper                 | Camp in a dungeon 30 times.                                       |
-    | Cheers!                             | Drink at the tavern with allies 1 time.                           |
-    | Bonding over a Drink                | Drink at the tavern with allies 30 times.                         |
-    | It's on Me Today!                   | Drink at the tavern with allies 100 times.                        |
-    | Flames of the Demon                 | Accompany your ally to make good on the fire demon's broken pact. |
+    | Name                                           | Description                                                        |
+    | ---------------------------------------------- | ------------------------------------------------------------------ |
+    | Quivering Slime                                | Ghreen Jelly becomes a Bondmate.                                   |
+    | Water Got Priestess Regia                      | Priestess Regia becomes a Bondmate.                                |
+    | First Grade Up                                 | The Masked Adventurer was promoted to Lead Grade.                  |
+    | Bronze Graded Adventurer                       | The Masked Adventurer was promoted to Bronze Grade.                |
+    | Iron Graded Adventurer                         | The Masked Adventurer was promoted to Iron Grade.                  |
+    | Lead Grade Party                               | 5 allies promoted to Lead Grade.                                   |
+    | Lead Grade 2nd Party                           | 11 allies promoted to Lead Grade.                                  |
+    | Lead Grade 3rd Party                           | 17 allies promoted to Lead Grade.                                  |
+    | Lead Grade 4th Party                           | 23 allies promoted to Lead Grade.                                  |
+    | Bronze Grade Party                             | 5 allies promoted to Bronze Grade.                                 |
+    | Bronze Grade 2nd Party                         | 11 allies promoted to Bronze Grade.                                |
+    | Bronze Grade 3rd Party                         | 17 allies promoted to Bronze Grade.                                |
+    | Bronze Grade 4th Party                         | 23 allies promoted to Bronze Grade.                                |
+    | Iron Grade Party                               | 5 allies promoted to Iron Grade.                                   |
+    | Iron Grade 2nd Party                           | 11 allies promoted to Iron Grade.                                  |
+    | Iron Grade 3rd Party                           | 17 allies promoted to Iron Grade.                                  |
+    | Iron Grade 4th Party                           | 23 allies promoted to Iron Grade.                                  |
+    | First Discipline                               | Attain Discipline Level 1.                                         |
+    | Awakening to Talent                            | Attain Discipline Level 3.                                         |
+    | Those Who Attain Self-Discipline               | 5 allies have attained Discipline Level 1.                         |
+    | Those Who Attain Self-Discipline II            | 5 allies have attained Discipline Level 3.                         |
+    | Into the Well of the Mind                      | Unlock a Domain in the Well of the Mind.                           |
+    | Seeker of the Mind                             | Unlock Domains in the Well of the Mind 5 times.                    |
+    | Mind that Transcends All Deaths                | Unlock Domains in the Well of the Mind 12 times.                   |
+    | Meeting a BOndmate                             | Someone you meet on your adventure becomes a Bondmate.             |
+    | Meeting a Bondmate II                          | 10 people you meet on your adventure become Bondmates.             |
+    | Meeting a Bondmate III                         | 20 people you meet on your adventure become Bondmates.             |
+    | Deepending Bond                                | A Bondmate you made on your adventure becomes Bond Level 5.        |
+    | First Camp                                     | Camp in a dungeon 1 time.                                          |
+    | Intermediate Camper                            | Camp in a dungeon 30 times.                                        |
+    | Cheers!                                        | Drink at the tavern with allies 1 time.                            |
+    | Bonding over a Drink                           | Drink at the tavern with allies 30 times.                          |
+    | It's on Me Today!                              | Drink at the tavern with allies 100 times.                         |
+    | Flames of the Demon                            | Accompany your ally to make good on the fire demon's broken pact.  |
+    | Golden-Haired Goddess Who Destroyed Everything | Complete the investigation of the island of ghosts with your ally. |
 
 === "Equipment"
 
