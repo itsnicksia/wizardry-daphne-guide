@@ -76,6 +76,17 @@ You need to attempt to leave the area through both the upper left and upper righ
 
 ## Character Questions
 
+### What is Merging and should I do it?
+Merging is a unique option that appears when an adventurer has two different styles. At the time of writing this, Merging is only available to Lanavaille and Flut. When you merge the two styles, you get a single adventurer that has the option to swap styles. In addition, that adventurer gets a new passive skill called `Contiguous States of Mind` that results in a minor 1 point increase to a few substats.
+
+When a unit is merged, there are some things that carry over and some things that do not. All inherited skills learned by one style are shared with the other style, so you do not lose any skill inherits by swapping styles. For example, if your Standard Lanavaille has `Queen of War and Love` at level 3, and Wandering Princess Lanavaille has `Queen of War and Love` at level 1, the merged adventurer will retain the level 3 version. I do not know what happens if you merge an adventurer that has a level 3 version of the skill with an adventurer that has a level 2 version of the skill. I suspect the higher value would override the lower value instead of adding them together, but I have not confirmed this.
+
+Each style, however, has its own Discipline skill and non-inheritable Unique skill. Any Discipline levels that have been given to one style do not carry over to the other style. For example, if you have Standard Lanavaille at Discipline 3, then you switch to Wandering Princess Lanavaille at Discipline 1, the Standard Lanavaille Discipline 3 skills are not also given to Wandering Princess Lanavaille.
+
+According to in-game text, the merged adventurer also has the maximum number of bonus points across both styles. I haven't tested this, but in theory that means if you had 10 bonus points on Standard Lanavaille that you applied to Vitality and 6 bonus points for Wandering Princess Lanavaille that you applied to Strength, the merged adventurer would have 10 bonus points. I assume these 10 would remain applied to Vitality, but I have not confirmed this.
+
+Ultimately, there is no reason not to merge an adventurer when you have the opportunity, regardless of who the adventurer is. You'll have to make a decision at that point which style you prefer to use. A minor stat gain with either style is better than no stat gain with neither style.
+
 ### What should I do with my duplicicates of X character?
 There's no hard or fast rule on this either. I put some of my personal thoughts and suggestions in the Character Analysis tab, so feel free to follow those if you'd like. You can never go wrong by saving a duplicate for future use, though.
 
@@ -84,9 +95,6 @@ They can be used to: 1\. Increase a character's Discipline level 2\. Increase a 
 
 ### Should I pull on X character?
 This will always come down to personal preference, and whales, dolphins, and F2P players will all have different thoughts. Nobody can tell you how you should spend your money or your pulls. The Character Analysis tab will have some thoughts on different characters that you can use to hopefully make informed decisions that you are happy with.
-
-### If I have both regular and Wanderer Lana, should I merge them?
-Yes. Note that Wanderer Lana currently has the wrong skills, so we're not completely sure what the merge behavior is supposed to be. We will find out once skills get adjusted.
 
 ### Is there a limit to the number of skills I can inherit on a character?
 No! At least not that we’re aware of at this time!
