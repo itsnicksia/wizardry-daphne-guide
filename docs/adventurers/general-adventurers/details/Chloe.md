@@ -1,7 +1,7 @@
 # Chloe
 
 **Race**: Beastfolk  
-**Gender**: Human  
+**Gender**: Female  
 **Type**: Fire  
 **Personality**: Good  
 **Starting Class**: Fighter  

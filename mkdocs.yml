@@ -109,6 +109,7 @@ nav:
         - Details: './adventurers/general-adventurers/details/Chloe.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Chloe.md'
       - Clarissa:
+        - Details: './adventurers/general-adventurers/details/Clarissa.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Clarissa.md'
       - Daniel:
         - Details: './adventurers/general-adventurers/details/Daniel.md'
@@ -141,6 +142,7 @@ nav:
         - Details: './adventurers/general-adventurers/details/Galina.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Galina.md'
       - Gandolfo:
+        - Details: './adventurers/general-adventurers/details/Gandolfo.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Gandolfo.md'
       - Gaston:
         - Details: './adventurers/general-adventurers/details/Gaston.md'
