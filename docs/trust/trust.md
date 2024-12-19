@@ -57,3 +57,12 @@ Most prevalent theory is using more expensive rooms at the Inn to increase
 trust. No conclusive evidence exists of its efficacy, but based on testing and
 player reports, using the expensive rooms seems like a waste of gold. It does
 help keeping your adventurers clean though.
+
+## Legendary Requests
+
+The following conditions must be met to unlock an adventurer's legendary request:
+
+- Trust Level 3
+- At least 3 pages of unlocked life story
+
+Note that the flaming heart is *NOT* required.
