@@ -27,6 +27,7 @@
     | Reconciled with His Uncle                  | Albano and his uncle reconcile.                                                    |
     | Leave It to Me                             | Take on and slay two Knight-Butcher Ents.                                          |
     | I Knew It Was a Traaa--!                   | Everyone was caught by the trap with live bait and all were killed.                |
+    | Strategy Failed                            | Everyone was buried in the cave-in and all were killed.                            |
     | True Freedom                               | Free Melgina and slay the greater warped one Octonarus.                            |
     | Pirate's Hideout                           | Discover the forgotten pirate port.                                                |
     | Rigged Match                               | Pickerel survives the Trade Waterway arena.                                        |
@@ -67,15 +68,18 @@
     | Iron Grade 4th Party                           | 23 allies promoted to Iron Grade.                                  |
     | First Discipline                               | Attain Discipline Level 1.                                         |
     | Awakening to Talent                            | Attain Discipline Level 3.                                         |
+    | State of Enlightenment                         | Attain Discipline Level 6.                                         |
     | Those Who Attain Self-Discipline               | 5 allies have attained Discipline Level 1.                         |
     | Those Who Attain Self-Discipline II            | 5 allies have attained Discipline Level 3.                         |
+    | Those Who Attain Self-Discipline III           | 5 allies have attained Discipline Level 6.                         |
     | Into the Well of the Mind                      | Unlock a Domain in the Well of the Mind.                           |
     | Seeker of the Mind                             | Unlock Domains in the Well of the Mind 5 times.                    |
     | Mind that Transcends All Deaths                | Unlock Domains in the Well of the Mind 12 times.                   |
-    | Meeting a BOndmate                             | Someone you meet on your adventure becomes a Bondmate.             |
+    | Meeting a Bondmate                             | Someone you meet on your adventure becomes a Bondmate.             |
     | Meeting a Bondmate II                          | 10 people you meet on your adventure become Bondmates.             |
     | Meeting a Bondmate III                         | 20 people you meet on your adventure become Bondmates.             |
     | Deepending Bond                                | A Bondmate you made on your adventure becomes Bond Level 5.        |
+    | In Traveling, a Companion, in Life, Compassion | 10 Bondmates you made on your adventure become Bond Level 5.       |
     | First Camp                                     | Camp in a dungeon 1 time.                                          |
     | Intermediate Camper                            | Camp in a dungeon 30 times.                                        |
     | Cheers!                                        | Drink at the tavern with allies 1 time.                            |
@@ -88,13 +92,13 @@
 
     | Name                                    | Description                                  |
     | --------------------------------------- | -------------------------------------------- |
-    | Equipment Collector *                   | Acquire 30 types of equipment.               |
-    | Equipment Collector **                  | Acquire 50 types of equipment.               |
-    | Equipment Collector ***                 | Acquire 100 types of equipment.              |
-    | Equipment Collector ****                | Acquire 200 types of equipment.              |
+    | Equipment Collector ★                   | Acquire 30 types of equipment.               |
+    | Equipment Collector ★★                  | Acquire 50 types of equipment.               |
+    | Equipment Collector ★★★                 | Acquire 100 types of equipment.              |
+    | Equipment Collector ★★★★                | Acquire 200 types of equipment.              |
     | Excavator                               | Acquire a digging mattock.                   |
     | Mermaid's Necklace                      | Acquire Melgina's Choker.                    |
-    | Priates We Be                           | Acquire the Cutlass of Tyranny.              |
+    | Pirates We Be                           | Acquire the Cutlass of Tyranny.              |
     | Preference for Daggers                  | Acquire 5 types of daggers.                  |
     | Preference for One-Handed Swords        | Acquire 5 types of one-handed swords.        |
     | Preference for One-Handed Axes          | Acquire 5 types of one-handed axes.          |
@@ -126,6 +130,7 @@
     | Blacksmith Acquaintance                 | Enhance equipment up to +10.                 |
     | Blacksmith Regular                      | Enhance equipment up to +15.                 |
     | Forge Seeker                            | Enhance equipment up to +20.                 |
+    | Ultimate Equipment Enhancement          | Enhance 10 pieces of equipment up to +20.    |
 
 === "Battle"
 
@@ -137,9 +142,9 @@
     | Honor of Valor                      | Slay 200 enemies.                  |
     | Blood-Spattered Mask                | Slay 2,000 enemies.                |
     | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.               |
-    | Warped One-Hunter *                 | Slay 100 warped ones.              |
-    | Warped One-Hunter **                | Slay 300 warped ones.              |
-    | Warped One-Hunter ***               | Slay 500 warped ones.              |
+    | Warped One-Hunter ★                 | Slay 100 warped ones.              |
+    | Warped One-Hunter ★★                | Slay 300 warped ones.              |
+    | Warped One-Hunter ★★★               | Slay 500 warped ones.              |
     | Boss of the Poison Swamp            | Slay a giant monster bird.         |
     | The Rare One Quick to Run           | Slay a cursed sack doll.           |
     | Inescapable Consequences            | Slay a red spinner woman.          |
