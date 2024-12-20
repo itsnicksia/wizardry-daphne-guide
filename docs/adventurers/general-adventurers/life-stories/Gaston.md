@@ -25,3 +25,13 @@ Arranging a short holiday, he traveled to the village and watched the adventurer
 The adventurers herded the goblins like sheep and surrounded them. Just then, Gaston noticed several goblins emerge from bushes behind the adventurers.
 
 Quickly turning to the adventurers, he yelled "Watch out! Behind you!"
+
+### Page 4
+
+Gaston's warning was just in time and the adventurers were able to defeat all of the goblins unscathed, earning Gaston their praise.
+
+This was the first time he hadn't been compared to his brothers, and their words greatly moved him.
+
+"I'll get the respect I deserve once I become and adventurer!" Immediately upon returning home, he told his family of his plans to become an adventurer. His grandfather was the only one to disapprove, citing the dangers, but the rest of the family laughed, saying that someone who was all talk would never get by.
+
+His face beet red, Gaston ran out of the house. "I'm not coming back until I'm famous! You'll all see!" he raged as he headed for the guild.
