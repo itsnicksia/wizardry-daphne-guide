@@ -518,9 +518,7 @@ Complete the Oar Collector Extermination request.
     This request is exclusive to the Pontiff route
 
 !!! danger
-    This request leads to a boss that is arguably harder than the true greater warped one of this abyss. In addition, there seem to be a fair number of bugs when starting this request, particularly around Pickerel spawning.
-
-    It is highly recommended to wait to do this request until after all three routes have been cleared.
+    This request leads to a boss that is arguably harder than the true greater warped one of this abyss.
 
     ??? info "Read if you have trouble with Pickerel spawning"
         The easiest way to get him to spawn seems to be to do the following:
@@ -528,7 +526,8 @@ Complete the Oar Collector Extermination request.
         - Wheel to Arena 3 of the Pontiff route
         - Find Pickerel at the marked location
 
-- Once you get to Round 3 and see that Pickerel is your next opponent, don’t head out to fight him.  
+- Complete all three important request routes (Princess, Pontiff, and Admiral)
+- Wheel back to Round 3 Pontiff and talk to the goblin so you can see that you're fighting Pickerel.  
 - Go to x and find him at the location in the image to overhear him talking to the head chef  
 - Speak with the head chef and he’ll tell you where to pick up the ingredients to make the soup  
 - Head to Valeon Grasslands and you’ll see a slave that runs away, just run a bit forward and you’ll see him on a hill then talk to him  
