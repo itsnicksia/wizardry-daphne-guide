@@ -27,6 +27,7 @@ We welcome contributions and corrections by the community so don’t hesitate to
 - Poopenheimer
 - Proto
 - RavenArc
+- SocialX
 - tomato
 
 ## Translators
