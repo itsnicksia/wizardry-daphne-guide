@@ -1,4 +1,4 @@
-# Den of Earth
+# Den of Fire
 
 ![Den of Fire](img/den-of-fire/den-of-fire-1.jpg)
 
