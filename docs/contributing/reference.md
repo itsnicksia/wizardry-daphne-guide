@@ -68,7 +68,7 @@ practice.
 :wiz-skull:{ .blue }
 :wiz-skull:{ .purple }
 :wiz-skull:{ .cyan }
-:wiz-skull:{ .orange }
+<span class="orange">:wiz-skull:</span> <!-- Alternative method -->
 
 ## Highlighting
 
@@ -90,4 +90,3 @@ Try ^^highlighting^^ instead, to bring attention to ==important== parts.
     |`:wiz-skull:` |:wiz-skull:|
     |`:wiz-sword:` |:wiz-sword:|
     |`:wiz-wheat:` |:wiz-wheat:|
-
