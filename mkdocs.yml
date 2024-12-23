@@ -63,6 +63,7 @@ nav:
   - Quick Reference: './quick-reference.md'
   - FAQ: './frequently-asked-questions.md'
   - Adventurers:
+    - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
       - Adventurer Review Disclaimer: './adventurers/legendary-adventurers/details/_adventurer-review-disclaimer.md'
       - Adam:
