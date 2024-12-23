@@ -27,3 +27,11 @@ Head hung low, Gerulf heard an inhuman voice whispering in his ear. The voice sp
 The voice further whispered sweetly to him that if he offered his soul and made a pact, he would share the fire with Gerulf's furnace. Gerulf, despondent at not being recognized by his master, absently nodded at the devil's voice.
 
 At that moment, his hands were enveloped in unquenchable flames.
+
+### Page 4
+
+Both of Gerulf's hands were now marked with the fire Devil's brand. They blazed with the incessant flames and burned any who came too close. The brand was a sign that he had disobeyed the Dwarves' belief in the god of fire and made a pact with the devil. Gerulf was expelled from the village. Since then, he was shunned by the villagers, and lived alone in a small hut on the outskirts of the village.
+
+Then one day, a problem occurred that shook the Dwarven Forge to its foundations. The fire within the Devil's Mountain, used for the forge's furnace, had suddenly cooled and hardened. And to make matters worse, the king at that time had ordered a new set of ceremonial weapons.
+
+The king was known as a tyrant who had burned several villages and towns that disobeyed him and killed all the inhabitants. If they could not provide him with suitable weapons, their village would be destroyed. Gathered before the furnace, no longer heated by the mountain's fire, the villagers despaired.
