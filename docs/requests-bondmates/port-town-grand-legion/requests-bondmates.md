@@ -112,6 +112,120 @@
 ??? map "Titanium Ore Locations"
     ![](img/image_14.png)
 
+### Viscount Guane
+After returning from the Flooded Town you will be approached by a representative of the faction you have chosen. If you already cleared each route, or want to redo the ending to the Viscounty Guane mission then you will have to curse wheel to before Flooded Town and then curse wheel to Flooded Town and immediately return to town. If you want to change faction you have to curse wheel to Search Request.
+
+Aegon -> Princess Route
+
+Egolion -> Pope Route
+
+Goetia -> Admiral Route
+
+![](img/viscount_post_flooded_town.png)
+
+1. Go to the Royal Capital's Adventurers Guild to attend the mission.
+    
+    ![](img/viscount_go_to_guild.png)
+
+2. "I'll go now." -> Cutscene (Choices in this Cutscene don't affect the ending)
+3. Head to Viscount Guane's lands from the World Map
+
+    ![](img/viscount_world_map_location.png)
+
+- You will encounter guards wanting a toll.
+
+    ![](img/viscount_toll.png)
+    
+    You can either:
+    
+    a. Pay up (3000 gold)
+    
+    b. Force Your Way Through (Easy Fight)
+
+    c. Turn back (You Leave the Quest Area)
+
+    - However you get additional options when turning back. If you have a mage in your party you can select "Let's just bulldoze our way through" 
+    
+    This will cause the mage in your party to cause a distraction so you can bypass the encounter without paying and there is no mana cost. If you don't have a mage, you just enter the same route as "Force your way through"
+
+    ![](img/viscount_turn_back.png)
+
+    ![](img/viscount_toll_turnback_bulldoze_mage.png)
+
+    ![](img/viscount_distraction.png)
+
+4. Now talk to all the NPCs.
+    
+    ![](img/viscount_town_npcs.png)
+
+#### Princess Route
+1. "I don't think so"
+
+    ![](img/viscount_princess_i_dont_think_so.png)
+
+
+2. < Block the sword > (Easy battle)
+
+    ![](img/viscount_princess_block_sword.png)
+
+3. "The commoner was not resisting"
+
+    ![](img/viscount_princess_commoner.png)
+
+4. "What Guane is doing is wrong" 
+
+    ![](img/viscount_princess_guane_wrong.png)
+
+#### Pope Route
+1. < Put your hand on Tenet's shoulder >
+
+    ![](img/viscount_pope_put_hand_on_shoulder.png)
+
+2. "This warrants further investigation"
+
+    ![](img/viscount_pope_further_investigation.png)
+
+3. < Do not accept payment>
+
+    ![](img/viscount_pope_dont_take_money.png)
+
+#### Admiral Route
+1. < Block the sword > (Easy battle)
+
+    ![](img/viscount_princess_block_sword.png)
+
+2. Catch the beastmen trafficking (it will be rejected)
+
+    ![](img/viscount_admiral_catch_1st_attempt.png)
+
+3. Make Sagini a product
+
+    ![](img/viscount_admiral_product.png)
+
+4. Catch the beastmen trafficking (it will be rejected)
+
+    ![](img/viscount_admiral_catch_1st_attempt.png)
+
+5. Make Garo a product
+
+    ![](img/viscount_admiral_product.png)
+
+6. Catch the beastmen trafficking (they will relent and accept) 
+
+    ![](img/viscount_admiral_catch_3rd_attempt.png)
+
+    - If you have beastfolk in your party they will join in
+
+    ![](img/viscount_admiral_beastfolk.png)
+
+    ![](img/viscount_debra.png)
+
+7. Win the battle that comes after the cutscene. 
+
+    ![](img/viscount_admiral_battle.png)
+
+
+
 ## Warding Against Water
 
 ## Sunken City Arrival
