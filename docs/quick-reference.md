@@ -117,7 +117,7 @@
 
 ## Experience Gain Percentage Table
 
-| Enemy Lv - Adventurer Lv | Effective Exp. Gain % |
+| Adventurer Lv - Enemy Lv | Effective Exp. Gain % |
 |:------------------------:|:---------------------:|
 |         -∞ ~ -10         |         150%          |
 |         -9 ~ -5          |         125%          |
