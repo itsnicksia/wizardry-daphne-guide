@@ -8,6 +8,12 @@
 **Class Change**: Fighter  
 **Role**: Support, Damage
 
+!!! info "Portraits"
+    === "Knight"
+        ![](../img/eulalia-knight.jpg)
+
+    === "Fighter"
+
 ## Skills
 
 !!! info "Inheritable Skill"

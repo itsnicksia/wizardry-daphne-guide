@@ -8,6 +8,12 @@
 **Class Change**: Priest  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Mage"
+        ![](../img/adam-mage.jpg)
+
+    === "Priest"
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"

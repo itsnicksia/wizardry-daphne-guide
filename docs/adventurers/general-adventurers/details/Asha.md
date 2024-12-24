@@ -8,6 +8,12 @@
 **Class Change**: Priest  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Mage"
+        ![](../img/asha-mage.jpg)
+
+    === "Priest"
+
 ## Skills
 
 !!! info "Inheritable Skill"

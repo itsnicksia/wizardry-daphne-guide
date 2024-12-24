@@ -8,6 +8,12 @@
 **Class Change**: Thief  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Fighter"
+        ![](../img/olive-fighter.jpg)
+
+    === "Thief"
+
 ## Skills
 
 !!! info "Inheritable Skill"

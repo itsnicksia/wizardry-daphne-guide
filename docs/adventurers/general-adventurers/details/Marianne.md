@@ -8,6 +8,12 @@
 **Class Change**: Mage  
 **Role**: Healing, Support, Damage
 
+!!! info "Portraits"
+    === "Priest"
+        ![](../img/marianne-priest.jpg)
+
+    === "Mage"
+
 ## Skills
 
 !!! info "Inheritable Skill"

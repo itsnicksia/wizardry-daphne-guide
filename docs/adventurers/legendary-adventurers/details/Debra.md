@@ -8,6 +8,16 @@
 **Class Change**: Knight  
 **Role**: Support, Damage
 
+!!! info "Portraits"
+    === "Thief"
+
+    === "Thief Unmasked"
+        ![](../img/debra-thief-unmasked.jpg)
+
+    === "Knight"
+
+    === "Knight Unmasked"
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"

@@ -8,6 +8,12 @@
 **Class Change**: Knight  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Fighter"
+        ![](../img/ophelia-fighter.jpg)
+
+    === "Knight"
+
 ## Skills
 
 !!! info "Inheritable Skill"

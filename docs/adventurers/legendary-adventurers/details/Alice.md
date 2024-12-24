@@ -8,6 +8,12 @@
 **Class Change**: Mage  
 **Role**: Healing, Support, Damage
 
+!!! info "Portraits"
+    === "Priest"
+
+    === "Mage"
+        ![](../img/alice-mage.jpg)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"

@@ -8,6 +8,15 @@
 **Class Change**: Fighter  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Mage"
+        ![](../img/flut-mage.jpg)
+
+    === "Fighter"
+
+    === "Holiday"
+        ![](../img/flut-holiday.jpg)
+
 ## Skills
 
 !!! info "Inheritable Skill"

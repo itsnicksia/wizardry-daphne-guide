@@ -8,6 +8,15 @@
 **Class Change**: Fighter  
 **Role**: Support, Damage
 
+!!! info "Portraits"
+    === "Knight"
+        ![](../img/lanavaille-knight.jpg)
+
+    === "Fighter"
+
+    === "Wandering Princess"
+        ![](../img/lanavaille-wandering.jpg)
+
 ## Skills
 
 !!! note

@@ -8,6 +8,12 @@
 **Class Change**: Priest  
 **Role**: Damage, Support, Healing
 
+!!! info "Portraits"
+    === "Fighter"
+        ![](../img/gandolfo-fighter.jpg)
+
+    === "Priest"
+
 ## Skills
 
 !!! info "Inheritable Skill"

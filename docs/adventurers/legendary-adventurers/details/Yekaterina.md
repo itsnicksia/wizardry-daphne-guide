@@ -8,6 +8,12 @@
 **Class Change**: Priest  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Mage"
+
+    === "Priest"
+        ![](../img/yekaterina-priest.jpg)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
