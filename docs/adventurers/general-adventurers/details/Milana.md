@@ -8,6 +8,12 @@
 **Class Change**: Mage  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Thief"
+
+    === "Mage"
+        ![](../img/milana-mage.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"
