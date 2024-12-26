@@ -18,6 +18,7 @@
 | <span class="green">Blessing of the Iron Wall</span>    | Harken's Blessing has increased your Defense Power and Magic Defense.                                                                        |
 | <span class="green">Demi-Human Rebuffs</span>           | Harken's Blessing has reduced the damage you take from demi-humans.                                                                          |
 | <span class="green">Hammer Demi-Humans</span>           | Harken's Blessing has increased the damage you do to demi-humans.                                                                            |
+| <span class="green">Hammer Humanoidss</span>            | Harken's Blessing has increased the damage you do to humanoids.                                                                              |
 | <span class="green">Hammer of Magical Beasts</span>     | Harken's Blessing has increased the damage you do to magic beasts.                                                                           |
 | <span class="green">Protection of Water Barrier</span>  | Harken's Blessing has increased the damage your Water Type Resistance.                                                                       |
 | <span class="blue">Blessing of Mana II</span>           | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |

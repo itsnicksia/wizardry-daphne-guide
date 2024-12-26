@@ -1,0 +1,48 @@
+# Abenius
+
+**Race**: Human  
+**Gender**: Female  
+**Type**: Light  
+**Personality**: Good  
+**Starting Class**: Fighter  
+**Class Change**: Currently None  
+**Role**: Damage, Support
+
+## Skills
+
+!!! info "Unique Skill (Inheritable)"
+    === "Flutterdream Flash"
+        Minor physical attack on 1 enemy at the start of battle. Low chance decreasing Accuracy Rate. Activation rate reduction, and the amount damage and Accuracy Rate decrease, are reduced if learned by someone other than Abenius.
+
+!!! info "Unique Skill (Not Inheritable)"
+    === "Flickering Fang"
+        Increases damage against magical beasts and decreases damage from magical beasts.
+
+!!! info "Discipline Skill"
+    === "Blessing of Owen"
+    Continuously increases each stat, Attack Power and Confusion/Charm Tolerance increased further.
+
+## Adventurer Reviews
+
+!!! info "TheAxolotl's Analysis"
+
+    Abenius has a few things going for her, but some things are unfortunately holding her back from being great. As far as positives, she's a Fighter, which automatically gives the highest Strength -> Attack Power conversion at the time of her release (1 STR = 1.2 Attack Power). Furthermore, she gains Attack Power with her Discipline levels, which is great.
+
+    The passive damage boost from her Flickering Fang skill should be roughly 10%, which has the potential to be solid for her damage, particularly if we see more and more magical beasts as additional content gets released.
+    
+    Her Flutterdream Flash skill is extremely unique and fun, but it's overall, quite limited. It's a "Minor physical attack" which means its damage will not compete with a Moderate attack like Gerulf's Eruption Strike or Gerard's Thunderstrike. In addition, it only activates one time per battle, targeting what appears to be the lowest-HP enemy. Abenius will always trigger this skill at the start of the battle unless the battle starts with an ambush, however when inherited to another adventurer, the activation rate drops significantly (somewhere in the 5-20% range, to still be determined). To make this worse, skill inheritance increases the damage of the skill, as well as the amount of accuracy reduced, but it does not increase activation rate or the chance to trigger the accuracy reduction.
+
+    Like Gerard, Abenius does not currently have a class change, and we don't know what it'll be when she gets one, assuming she will get one.
+
+    Comparing her to Gerard, she has a better Attack Power modifier through her Fighter class, gains Attack Power with her Discipline, and she gains a fun mechanic, however her damage potential, particularly for whales with multiple skill inherits, is likely going to be lower than Gerard's due to Abenius needing to rely on a high skill level Heavy Strike as her active damage source.
+
+    * Pull if:
+        * You like Abenius as an adventurer
+    * Do not pull if:
+        * You do not like Abenius as an adventurer
+        * You want to save for future, more impactful adventurers
+    
+## Duplicate Usage
+
+* Inherit on her own skill will increase the damage and accuracy reduction amount of her Flutterdream Flash.
+* Increasing her Discipline to increase her Attack Power.

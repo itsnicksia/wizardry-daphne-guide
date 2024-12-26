@@ -66,6 +66,8 @@ nav:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
       - Adventurer Review Disclaimer: './adventurers/legendary-adventurers/details/_adventurer-review-disclaimer.md'
+      - Abenius:
+        - Details: './adventurers/legendary-adventurers/details/Abenius.md'
       - Adam:
         - Details: './adventurers/legendary-adventurers/details/Adam.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Adam.md'
