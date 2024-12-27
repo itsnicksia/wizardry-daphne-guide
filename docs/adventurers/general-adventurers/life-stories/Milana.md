@@ -32,3 +32,11 @@ Although hesitant, Milana nodded, and the old man gave her a change of clothes a
 But that night the guards left, Milana fled from the old man. Experience had taught her that no matter how much trust you built, people would betray you.
 
 Though she herself was betraying the old man's kindness, there was no hesitation on her part.
+
+### Page 4
+
+Decades later, Milana was now a member of the Adventurer's Guild and was able to eke out a living for herself.
+
+While she would occasionally team up with others for requests, she never saw them as friends. Only together as long as their interests aligned, she was ever ready to abandon them at the first sign of danger.
+
+Now and forver, Milana would never open herself to another person.
