@@ -10,6 +10,7 @@
 | Blessing of Magic Protection                            | Harken's Blessing has increased your Magic Defense.                                                                                          |
 | Blessing of Power                                       | Harken's Blessing has increased your Attack Power.                                                                                           |
 | Blessing of Protection                                  | Harken's Blessing has increased your Defense Power.                                                                                          |
+| Blessing of the Old Castle Ruins                        | Harken's Blessing has increased your Disarm Trap.                                                                                            |
 | <span class="green">Humanoid Rejection</span>           | Harken's Blessing has reduced the damage you take from humans.                                                                               |
 | <span class="green">Blessing of Mana</span>             | Harken's Blessing has increased your Magic Power and Divine Power.                                                                           |
 | <span class="green">Blessing of Od</span>               | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
@@ -25,8 +26,8 @@
 | <span class="blue">Blessing of Od II</span>             | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span class="blue">Demi-Human Hunter</span>             | Harken's Blessing has increased the damage you do to demi-humans and reduced the damage you take.                                            |
 | <span class="blue">Honed Tactics</span>                 | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
+| <span class="blue">Honed Tactics II</span>              | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
 | <span class="blue">Mind That Fights with Guile</span>   | Harken's Blessing has increased your Magic Power, Divine Power, and Action Speed.                                                            |
 | <span class="blue">Undead Rebuff</span>                 | Harken's Blessing has reduced the damage you take from undead.                                                                               |
 | <span class="purple">Abductor of Kings</span>           | Harken's Blessing has increased your Evade Trap, Disarm Trap, Poison Tolerance, Paralysis Tolerance, Fear Tolerance, and Critical Tolerance. |
 | <span class="purple">Mermaid Aboard the Ship</span>     | Harken's Blessing has increased your Water Type Resistance, Sleep Tolerance, Magic Power, Divine Power, and Resistance.                      |
-
