@@ -115,6 +115,17 @@
 |   49   |     155000     |    1985712     |
 | **50** |  **LEVELCAP**  |  **2140712**   |
 
+## Experience Gain Percentage Table
+
+| Adventurer Lv - Enemy Lv | Effective Exp. Gain % |
+|:------------------------:|:---------------------:|
+|         -∞ ~ -10         |         150%          |
+|         -9 ~ -5          |         125%          |
+|              ±4          |         100%          |
+|          5 ~ 9           |          50%          |
+|         10 ~ 14          |          25%          |
+|         15 ~ ∞           |         LOW%          |
+
 ## Credits
 
 [gamerch.com - Experience Table (Japanese)](https://gamerch.com/wizardry-daphne/877807)  
