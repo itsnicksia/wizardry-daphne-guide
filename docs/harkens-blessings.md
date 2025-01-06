@@ -12,11 +12,14 @@
 | Blessing of Protection                                  | Harken's Blessing has increased your Defense Power.                                                                                          |
 | Blessing of the Old Castle Ruins                        | Harken's Blessing has increased your Disarm Trap.                                                                                            |
 | <span class="green">Humanoid Rejection</span>           | Harken's Blessing has reduced the damage you take from humans.                                                                               |
+| <span class="green">Blessing of Agility</span>          | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
 | <span class="green">Blessing of Mana</span>             | Harken's Blessing has increased your Magic Power and Divine Power.                                                                           |
 | <span class="green">Blessing of Od</span>               | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span class="green">Blessing of Poison Paralysis</span> | Harken's Blessing has increased your Poison Tolerance and Paralysis Tolerance.                                                               |
 | <span class="green">Blessing of Quarantine</span>       | Harken's Blessing has increased your Resistance and Evasion.                                                                                 |
 | <span class="green">Blessing of the Iron Wall</span>    | Harken's Blessing has increased your Defense Power and Magic Defense.                                                                        |
+| <span class="green">Blessing of Traps</span>            | Harken's Blessing has increased your Disarm Trap and Evade Trap.                                                                             |
+| <span class="green">Blessing of Unsleeping Will</span>  | Harken's Blessing has increased your Sleep Tolerance and Fear Tolerance.                                                                     |
 | <span class="green">Demi-Human Rebuffs</span>           | Harken's Blessing has reduced the damage you take from demi-humans.                                                                          |
 | <span class="green">Hammer Demi-Humans</span>           | Harken's Blessing has increased the damage you do to demi-humans.                                                                            |
 | <span class="green">Hammer Humanoidss</span>            | Harken's Blessing has increased the damage you do to humanoids.                                                                              |
@@ -28,6 +31,7 @@
 | <span class="blue">Honed Tactics</span>                 | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
 | <span class="blue">Honed Tactics II</span>              | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
 | <span class="blue">Mind That Fights with Guile</span>   | Harken's Blessing has increased your Magic Power, Divine Power, and Action Speed.                                                            |
+| <span class="blue">Repel Binding</span>                 | Harken's Blessing has increased your Bind Tolerance.                                                                                         |
 | <span class="blue">Undead Rebuff</span>                 | Harken's Blessing has reduced the damage you take from undead.                                                                               |
 | <span class="purple">Abductor of Kings</span>           | Harken's Blessing has increased your Evade Trap, Disarm Trap, Poison Tolerance, Paralysis Tolerance, Fear Tolerance, and Critical Tolerance. |
 | <span class="purple">Mermaid Aboard the Ship</span>     | Harken's Blessing has increased your Water Type Resistance, Sleep Tolerance, Magic Power, Divine Power, and Resistance.                      |
