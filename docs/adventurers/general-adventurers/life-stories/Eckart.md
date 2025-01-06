@@ -27,3 +27,13 @@ Ready to face punishment, some citizens rushed to the lord's manor to try to cha
 After listening to their please, Lord Fritz gave an order to his knights. "Behead these people." Eckart, who was closest by, was completely taken aback and refused. But Fritz shouted that a knight must obey their liege.
 
 Hearing these words, Eckart lunged forward to strike Lord Fritz down.
+
+### Page 4
+
+But Eckart failed to bring down Lord Fritz, as his companions swiftly stopped the attack. Unable to eliminate Fritz's faction, Eckert fled the territory.
+
+The day he was knighted, Eckert swore to protect the land. That is when the former lord, Barnabas, said to him, "Lords and knights are there to protect the land and the people." Eckart could not serve a lord who harmed his subjects.
+
+He earned a living by escorting traveling merchants, and lived off what he made working at the Adventurer's Guild in the royal capital. He surmised that since the royal capital saw so many people coming and going, he'd eventually come across information on his homeland.
+
+Eckert never abandoned his pride as a knight. He dreamed of the day when the lord was replaced and he could return to his homeland.

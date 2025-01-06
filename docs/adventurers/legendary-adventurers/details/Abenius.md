@@ -30,7 +30,9 @@
 
     The passive damage boost from her Flickering Fang skill should be roughly 10%, which has the potential to be solid for her damage, particularly if we see more and more magical beasts as additional content gets released.
     
-    Her Flutterdream Flash skill is extremely unique and fun, but it's overall, quite limited. It's a "Minor physical attack" which means its damage will not compete with a Moderate attack like Gerulf's Eruption Strike or Gerard's Thunderstrike. In addition, it only activates one time per battle, targeting what appears to be the lowest-HP enemy. Abenius will always trigger this skill at the start of the battle unless the battle starts with an ambush, however when inherited to another adventurer, the activation rate drops significantly (somewhere in the 5-20% range, to still be determined). To make this worse, skill inheritance increases the damage of the skill, as well as the amount of accuracy reduced, but it does not increase activation rate or the chance to trigger the accuracy reduction.
+    Her Flutterdream Flash skill is extremely unique and fun, but it's overall, quite limited. It's a "Minor physical attack" which means its damage will not compete with a Moderate attack like Gerulf's Eruption Strike or Gerard's Thunderstrike. In fact, the damage at skill level 1 is a bit over half of the damage dealt by a normal attack. In addition, it only activates one time per battle, targeting what appears to be the lowest-HP enemy. Abenius will always trigger this skill at the start of the battle unless the battle starts with an ambush, however when inherited to another adventurer, the activation rate drops significantly (somewhere in the 5-20% range, to still be determined). To make this worse, skill inheritance increases the damage of the skill, as well as the amount of accuracy reduced, but it does not increase activation rate or the chance to trigger the accuracy reduction.
+
+    One additional thing to note about Flutterdream Flash is that it can trigger the stun effect from maces and debuffs from things like the Dagger of Corrosion. This could provide some initial start-of-battle utility, albeit unreliably.
 
     Like Gerard, Abenius does not currently have a class change, and we don't know what it'll be when she gets one, assuming she will get one.
 
@@ -44,5 +46,5 @@
     
 ## Duplicate Usage
 
-* Inherit on her own skill will increase the damage and accuracy reduction amount of her Flutterdream Flash.
 * Increasing her Discipline to increase her Attack Power.
+* Inherit on her own skill will increase the damage and accuracy reduction amount of her Flutterdream Flash.

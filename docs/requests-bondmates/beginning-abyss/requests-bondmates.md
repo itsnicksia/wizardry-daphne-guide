@@ -349,6 +349,11 @@
 ??? map "Location"
     ![](img/image_53.png)
 
+- Wheel back to Treacherous Floor Traversal and find Lambert on B5F.
+
+??? map "Final Location"
+    ![](img/lambert-b5f-location.png)
+
 #### Abyss Heretics
 
 ??? info "Request"
@@ -392,13 +397,23 @@
 
 #### Sir Jack, Undead Smiter
 
-??? info "Sir Jack, Undead Smither"
+??? info "Sir Jack, Undead Smiter"
     ![](img/image_62.png)
 
 ??? info "Skill"
     ![](img/sir-jack-skill.jpg)
 
 - Complete the March of the Undead quest doing all 4 waves
+
+#### Sophie the Caring
+
+??? info "Sophie the Caring"
+    ![](img/sophie.png)
+
+??? info "Skill"
+    ![](img/sophie-skill.png)
+
+- Complete the Search for Lambert request
 
 ## Labyrinth Cleared
 

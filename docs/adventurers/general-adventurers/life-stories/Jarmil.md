@@ -23,3 +23,9 @@ One thing for sure about Jarmil, was that he liked to drink. And when drunk at t
 "Once I nearly lost my entire party to a ferocious dragon guarding its treasure hoard!" "The bottom of the Abyss? No treasures to be had down there. The only thing you'll find is the truth."
 
 Though even the tragedies of his tales had long since gone stale, somehow hearing Jarmil tell them made them all the more compelling.
+
+### Page 4
+
+As an adventurer, Jarmil avoided the more laborious jobs such as carrying anything heavy or securing routes, claiming he was too old for such things. However, he was still in high demand by adventurers because of his vast knowledge and wide array of wind spells could be just what the party needed to get out of a sticky situation.
+
+There are some who say that Jarmil himself started all the false rumors, and that he is, in fact, still in his 60s and a charlatan. But ultimately, even those who speak of him being a fraud are simply dancing in the palm of his hand, keeping his name alive.

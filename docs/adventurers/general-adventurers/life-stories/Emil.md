@@ -27,3 +27,11 @@ According to the teachings, God's majesty is supposed to reach through out the w
 Emil had never left his town, and never thought about anything outside of the town, let alone the Abyss. He realized how content he had been with merely praying and not trying to know more.
 
 He concluded that the doubts he had regarding the Abyss meant that he needed to verify things with his own eyes.
+
+### Page 4
+
+And so, Emil set out on his journey.
+
+His childhood friend said they wanted to know more about the Abyss. As a traveling priest, Emil wanted to deliver God's majesty by praying in the depths of that place where God's presence was absent.
+
+Descending the Abyss was a daunting task for anyone. But if one were to consider the act a test from God, they would feel no fear. Emil decided that he had to pass this test, and left the town he had been so accustomed to in the hopes of elevating his priesthood.
