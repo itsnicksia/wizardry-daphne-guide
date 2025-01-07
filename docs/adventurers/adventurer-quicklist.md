@@ -2,6 +2,7 @@
 
 | Name       | Race      | Gender | Primary Class | Secondary Class | Type  | Personality | Classification |
 | ---------- | --------- | ------ | ------------- | --------------- | ----- | ----------- | -------------- |
+| Abenius    | Human     | Female | Fighter       |                 | Light | Good        | Legendary      |
 | Adam       | Elf       | Male   | Mage          | Priest          | Light | Evil        | Legendary      |
 | Alex       | Human     | Male   | Knight        | Fighter         | Fire  | Good        | General        |
 | Alice      | Elf       | Female | Priest        | Mage            | Water | Evil        | Legendary      |
