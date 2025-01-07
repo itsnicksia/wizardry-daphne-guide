@@ -27,6 +27,16 @@
         !!! note
             The restored amount at skill level 1 is 4 SP.
 
+        | Level | SP recovery amount (self) | SP recovery amount (inherited) |
+        |:-----:|:-------------------------:|:------------------------------:|
+        |   1   |             4             |                2               |
+        |   2   |             6             |                3               |
+        |   3   |                           |                                |
+        |   4   |                           |                                |
+        |   5   |                           |                                |
+        |   6   |                           |                                |
+        |   7   |                           |                                |
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Skull Study"
         Continuously reduces the SP cost of Thief skills that cost 6 SP or less.

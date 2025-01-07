@@ -26,15 +26,15 @@
     === "Queen of War and Love"
         Restores minor HP to all allies upon winning a battle. Recovery amount is reduced if learned by someone other than Lanavaille.
 
-        |Level| HP recovery amount (self)| HP recovery amount (inherited) |
-        |-----|--------------------------|--------------------------------|
-        |  1  |            12            |               6                |
-        |  2  |            22            |               11               |
-        |  3  |            34            |                                |
-        |  4  |            44            |                                |
-        |  5  |            58            |                                |
-        |  6  |            68            |                                |
-        |  7  |            85            |                                |
+        | Level | HP recovery amount (self) | HP recovery amount (inherited) |
+        |:-----:|:-------------------------:|:------------------------------:|
+        |   1   |             12            |                6               |
+        |   2   |             22            |               11               |
+        |   3   |             34            |               17               |
+        |   4   |             44            |               23               |
+        |   5   |             58            |                                |
+        |   6   |             68            |                                |
+        |   7   |             85            |                                |
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Stirring Righteousness (Standard)"
