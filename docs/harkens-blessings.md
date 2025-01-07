@@ -26,6 +26,7 @@
 | <span class="green">Hammer of Magical Beasts</span>     | Harken's Blessing has increased the damage you do to magic beasts.                                                                           |
 | <span class="green">Magical Beast Rejection</span>      | Harken's Blessing has reduced the damage you take from magical beasts.                                                                       |
 | <span class="green">Protection of Water Barrier</span>  | Harken's Blessing has increased the damage your Water Type Resistance.                                                                       |
+| <span class="blue">Bind Rejecting Immunity</span>       | Harken's Blessing has increased your Bind Tolerance, Sleep Tolerance, and Charm Tolerance.                                                   |
 | <span class="blue">Blessing of Mana II</span>           | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |
 | <span class="blue">Blessing of Od II</span>             | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span class="blue">Demi-Human Hunter</span>             | Harken's Blessing has increased the damage you do to demi-humans and reduced the damage you take.                                            |
