@@ -9,7 +9,7 @@ Once the requirements are met, meet Adam in the tavern and he will start the req
 
 ## Request Mission
 
-Request is a dive into Adam's backstory, consisting of a single explorable map with no items to find.
+Request is a dive into Adam's backstory, consisting of three explorable maps. If you fully explore the first map, you can find two Gleaming Crystals.
 
 * Visit Adam's Hometown, where you have to pick up a stone that protects you from curse poison
     * Regardless of what Adam says, you can only get one. The other locations will have Gleaming Crystals
