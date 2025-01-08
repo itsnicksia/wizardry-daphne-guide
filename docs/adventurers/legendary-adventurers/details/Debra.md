@@ -17,6 +17,7 @@
     === "Knight"
 
     === "Knight Unmasked"
+        ![](../img/debra-knight-unmasked.jpg)
 
 ## Skills
 
