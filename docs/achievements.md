@@ -172,6 +172,7 @@
     | ------------------ | ------------------------------------------------------------- |
     | Thief              | Have your money stolen at an inn.                             |
     | Living Large       | Stay in a royal suite.                                        |
+    | Royal Suite Life   | Stay in a royal suite 50 times.                               |
     | A Secret Kept      | Go through your adventure without revealing the Cursed Wheel. |
     | Full Belly         | Eat all dishes other than the daily special.                  |
     | 100th Login        | Log in for a total of 100 days.                               |
