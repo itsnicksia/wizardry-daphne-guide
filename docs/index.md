@@ -11,15 +11,18 @@ We welcome contributions and corrections by the community so don’t hesitate to
 - Baldcat
 - Koston
 - Lynd
+- SocialX
 - TheAxolotl
 
 ## Contributors
 
 - Adventurer
+- Aradace
 - CMRIDQ
 - DonPeter
 - Drane
 - Dune
+- L'Montes
 - Maohime
 - Millaren
 - Nanashii
@@ -27,7 +30,7 @@ We welcome contributions and corrections by the community so don’t hesitate to
 - Poopenheimer
 - Proto
 - RavenArc
-- SocialX
+- Salomae
 - tomato
 
 ## Translators
