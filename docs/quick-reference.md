@@ -40,8 +40,8 @@
 |   ATK%   |              |              |              |  O  |      O     |      O     |       |             |             |        |                 |                 |       |                  |                  |     O     |
 |   MAG%   |              |              |              |  O  |      O     |      ?     |       |             |             |        |                 |                 |       |                  |                  |           |
 |   DIV%   |              |              |              |  O  |      O     |      ?     |       |             |             |    O   |        O        |        ?        |       |                  |                  |     O     |
-|   ACC%   |              |              |              |  O  |      O     |      ?     |       |             |             |    O   |        O        |        ?        |   O   |         ?        |         ?        |     O     |
-|   EVA%   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         ?        |     ?     |
+|   ACC%   |              |              |              |  O  |      O     |      ?     |       |             |             |    O   |        O        |        ?        |   O   |         ?        |         O        |     O     |
+|   EVA%   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     ?     |
 |   RES%   |       O      |       O      |       O      |  O  |      ?     |      ?     |   O   |      O      |      ?      |        |                 |                 |       |                  |                  |           |
 |   DEF%   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |        |                 |                 |       |                  |                  |     O     |
 |   MDEF%  |       O      |       O      |       O      |  O  |      ?     |      ?     |       |             |             |        |                 |                 |       |                  |                  |           |
@@ -52,13 +52,13 @@
 |    MAG   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        ?        |        ?        |       |                  |                  |     O     |
 |    DIV   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |       |                  |                  |     O     |
 |    ACC   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
-|    EVA   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         ?        |     O     |
+|    EVA   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     O     |
 |    RES   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      ?      |        |                 |                 |   O   |         O        |         O        |           |
 |    DEF   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
 |   MDEF   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
 |    SUR   |       O      |       O      |       O      |     |            |            |   O   |      O      |      ?      |        |                 |                 |       |                  |                  |     O     |
 |  SUR EVA |              |              |              |     |            |            |       |             |             |        |                 |                 |       |                  |                  |           |
-|   ASPD   |       O      |       O      |       O      |     |            |            |   O   |      O      |      ?      |        |                 |                 |   O   |         O        |         ?        |     O     |
+|   ASPD   |       O      |       O      |       O      |     |            |            |   O   |      O      |      ?      |        |                 |                 |   O   |         O        |         O        |     O     |
 
 ## Experience Table
 
