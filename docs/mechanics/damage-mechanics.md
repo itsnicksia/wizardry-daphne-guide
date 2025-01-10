@@ -77,8 +77,8 @@ For example, if you deal `200` damage against a neutral enemy with an Earth weap
 ## Status Affliction Modifiers
 There are two status afflictions that currently allow you to deal increased damage.
 
-`KATINO` causes the first hit to deal 100% more damage (a modifier of 2).
-`Opening` is even more unique. It causes you to deal over 100% damage, but we're not entirely sure what the number is yet, as there are some nuances to it. For example, if you miss while attacking an enemy with the `Opening` affliction, the enemy will still take a large amount of damage. It's possible that a component of this damage is tied to the enemy's maximum or current HP.
+* `KATINO` causes the first hit to deal 100% more damage (a modifier of 2).
+* `Opening` is even more unique. It causes you to deal over 100% damage, but we're not entirely sure what the number is yet, as there are some nuances to it. For example, if you miss while attacking an enemy with the `Opening` affliction, the enemy will still take a large amount of damage. It's possible that a component of this damage is tied to the enemy's maximum or current HP.
 
 ## Calculating Damage
 
