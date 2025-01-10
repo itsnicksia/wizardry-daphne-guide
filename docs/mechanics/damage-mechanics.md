@@ -1,15 +1,14 @@
 # Damage Mechanics
 
-## Power Formula
-
+## Calculating Power
 Your stats page power is caluclated through the following formula, which factors in your primary stats, class multiplier, equipment, and passive skills.
 
 !!! warning "Warning: Contains math"
 
-!!! info "Power Formula"
+### Power Formula
 `StatsPagePowerValue = SpecialRound(MainStat * ClassMod * %EquipmentValuesMultiplicatively) + Sum(ScalarEquipmentValues) + Sum(ScalarStatValues) + Sum(ScalarSkillValues) + Sum(ScalarTraitMods)`
 
-??? info "Variable Definitions"
+### Power Formula Variable Definitions
 * `StatsPagePowerValue` is the final power value you see displayed on the stats page.
 * `MainStat` is `Strength`, `IQ`, or `Piety`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, or `Divine Power` respectively.
 * `ClassMod` is based on the stats chart above. As an example, Fighters have a `ClassMod` for `Strength` of `1.2`.
@@ -81,14 +80,14 @@ There are two status afflictions that currently allow you to deal increased dama
 `KATINO` causes the first hit to deal 100% more damage (a modifier of 2).
 `Opening` is even more unique. It causes you to deal over 100% damage, but we're not entirely sure what the number is yet, as there are some nuances to it. For example, if you miss while attacking an enemy with the `Opening` affliction, the enemy will still take a large amount of damage. It's possible that a component of this damage is tied to the enemy's maximum or current HP.
 
-## Damage Formula
+## Calculating Damage
 
 !!! warning "Warning: Contains math"
 
-!!! info "Partial Damage Formula"
+### Partial Damage Formula
 `FinalDamage = BaseDamageFromPowerDefenseAndActiveSkills * PassiveDamageModifiersMultiplicatively * TypeAdvantageModifier * SameTypeAdvantageModifier * SureHitModifier * StatusAfflicitionModifier`
 
-??? info "Formula Explanation"
+### Damage Formula Explanation
 This looks like a relatively simple formula, but there are some nuances that make it surprisingly complex and hard to fully figure out. We'll start with the easy things that we know.
 
     * `PassiveDamageModifiersMultiplicatively` is the combination of your passive damage modifiers multiplied together
@@ -98,7 +97,7 @@ This looks like a relatively simple formula, but there are some nuances that mak
     * `StatusAfflicitionModifier` is factored in if you're hitting a sleeping enemy or an Opening
     * `BaseDamageFromPowerDefenseAndActiveSkills` is currently the big unknown. We're not entirely sure how the power listed on the stats page translates to the damage that you deal. We also don't entirely know how the active skills fit into the equation. We're still trying to determine if they're a damage multiplier, a multiplier on attack power, or something else. We do know that some component of this is involves taking your attack power, adding attack power boosts from `Warrior's Battle Cry`, subtracting your enemy's defense, subtracting (or adding) any additional defense values from spells and skills like `MORLIS`, `Armor Break`, `MAKALTU`, and factoring in the defense penetration on axes, `Precision Strike`, and `Sneak Attack`. This is the black box that we hope to decipher as we gather more data.
 
-??? info "Damage Example"
+### Example Damage Calculation
 As an example, suppose you meet the following criteria:
 
     * You deal `200` damage on a regular attack without factoring in `Way of the Warrior`
