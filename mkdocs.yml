@@ -194,7 +194,9 @@ nav:
       - Gerulf - Collect on a Broken Pact: './requests-bondmates/legendary-requests/gerulf/gerulf-request.md'
   - Guiding Light: './guiding-light.md'
   - Well of the Mind: './well-of-the-mind.md'
-  - Stats and Damage Mechanics: './stats-and-mechanics.md'
+  - Mechanics:
+      - Character Stats and Discipline: './mechanics/stats-and-discipline.md'
+      - Damage Mechanics: './mechanics/damage-mechanics.md'
   - Skills:
     - Passive Skills: './skills/passive-skills.md'
     - Active Skills: './skills/active-skills.md'
