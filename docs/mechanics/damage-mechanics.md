@@ -32,9 +32,44 @@ There has been a lot of confusion around Surety and what exactly it does. Surety
 By default, a sure hit acts as an 80% damage increase to the final damage you deal.
 
 !!! note
-Increasing your surety value does NOT increase the sure hit damage.
+    Increasing your surety value does NOT increase the sure hit damage.
 
 The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.8` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
+
+## Openings
+
+### What Are Openings?
+In combat, openings are critical opportunities to deal massive damage to enemies. Here’s how they work and when to use them effectively.
+
+* Openings occur when an enemy is forced into a vulnerable state, marked by a gold circle icon above their head.
+* During this state, they take increased damage from the next non-spell attack they receive.
+
+### How to Trigger Openings:
+* When a character successfully blocks or evades an attack while using `Defend`, an opening is created. Magic attacks cannot create openings, but both single-target and multi-target physical attacks can, as long as everyone that got attacked was defending.
+* The Opening is available to hit any time between when it pops up and the enemy's next turn. If you do not hit the Opening before the enemy moves next, the Opening disappears.
+* Note that the Knight class skills Cover and Cover All do not create openings.
+
+Openings work on all types of enemies, from basic mobs to bosses, although bosses that regularly use multi-target attacks are harder to create openings against, particularly when they mostly cast spells or multi-target attacks that hit both of your rows.
+
+!!! note
+    Opening can only be triggered on every other turn. You cannot get two consecutive turns of Opening being triggered.
+
+### Opening Damage Multiplier
+We're still in the process of figuring out exactly what this is, but our initial data collection seems to indicate that for basic attacks, Openings have, on average, a ~4x multiplier with the chance to hit with a ~7x multiplier. This has not been 100% confirmed, as there is some very unique behavior to Openings. See the disclaimer below.
+
+It's currently unclear exactly how this fits in with skill usage, but it's either not linear or skill damage is factored into the formula in a unique way. For example, if you hit an Opening with a skill, you won't see 4x the damage of your skill damage - it will be less than that, however it will still be more than if you hit an Opening with your basic attack.
+
+The Opening damage multiplier does stack multiplicatively with a sure hit. For example, if you would normally hit an enemy for ~250 with a basic attack, you would hit an Opening for `250 * 4 = 1000` damage. If that basic attack happened to be a sure hit, you'd be hitting closer to `250 * 2 * 4 = 2000` damage. If you happened to get what I'm calling an Extreme Opening hit, you'd be looking at `250 * 7 = 1750` damage for a non-sure hit, and `250 * 2 * 7 = 3500` damage for a sure hit.
+
+From what I can tell, this Extreme Opening is random - I suspect an `x`% chance to get a regular Opening and a `1-x`% chance to get an Extreme Opening.
+
+### Maximizing Damage from Openings:
+* Use high-damage attacks, such as a two-handed weapon strike (e.g., axe or sword), or skills like `Heavy Attack` and `Precision Strike` to take full advantage of the multiplier. The latter is exceptionally helpful due to its defense piercing nature.
+* Pair counterattacks with your heaviest hitters for optimal burst damage.
+* Do not let an Opening disappear. If your ideal adventurer is stunned or otherwise unable to hit, you can still hit it with someone else and see increased damage.
+
+!!! note "Disclaimer"
+    One additional interesting point about Openings is that if you attack an enemy with Opening but miss, you still deal increased damage. I haven't tested this enough to see how much damage you deal, so it's possible that there's an additive element of the Opening damage instead of pure multipliers.
 
 ### Way of the Thief Modifier
 
