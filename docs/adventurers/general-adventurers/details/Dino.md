@@ -8,6 +8,12 @@
 **Class Change**: Thief  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Mage"
+        ![](../img/dino-mage.png)
+
+    === "Thief"
+
 ## Skills
 
 !!! info "Inheritable Skill"

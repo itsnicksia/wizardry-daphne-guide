@@ -14,6 +14,12 @@
 
     === "Priest"
 
+    === "Mage After Personal Request"
+        ![](../img/adam-mage-personal-request.png)
+
+    === "Priest After Personal Request"
+        ![](../img/adam-priest-personal-request.png)
+        
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"

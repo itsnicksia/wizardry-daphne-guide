@@ -8,6 +8,16 @@
 **Class Change**: Priest  
 **Role**: Damage
 
+!!! info "Portraits"
+    === "Fighter"
+
+    === "Priest"
+
+    === "Fighter After Personal Request"
+        ![](../img/gerulf-fighter-personal-request.png)
+
+    === "Priest After Personal Request"
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
