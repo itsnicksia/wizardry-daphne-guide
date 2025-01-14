@@ -19,7 +19,7 @@ What does that mean? Ultimately, the impact of primary stats on substats is sign
 We've often found ourselves saying bonus points don't matter. This is both true and not true. In one sense, it's not true because there can be a large visible difference between primary stats across Adventurers, however in another sense, it is true because the overall in-battle impact of bonus points is small.
 
 #### How Should You Assign Bonus Points?
-There aren't really any bad options here, but the community tends to recommend either the Adventurer's main stat (for example, a Fighter's main stat would be STR), Speed, or some combination of the two. You cannot break a character with your bonus point allocation.
+There aren't really any bad options here, but the community tends to recommend either the Adventurer's main stat (for example, a Fighter's main stat would be STR), Luck, Speed, or some combination of the three. You cannot break a character with your bonus point allocation. TheAxolotl's personal opinion is STR/IQ/Luck > Speed > Others, but this is subject to change as the game evolves.
 
 ## Discipline
 Discipline boosts all of your secondary stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. It also seems to be a bigger boost for Legendary Adventurers than General or Anonymous Adventurers. The numbers below reflect the Discipline gains for Legendary Adventurers.
