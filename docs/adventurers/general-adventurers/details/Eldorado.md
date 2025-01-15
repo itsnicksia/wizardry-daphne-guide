@@ -8,6 +8,12 @@
 **Class Change**: Mage  
 **Role**: Support, Damage
 
+!!! info "Portraits"
+    === "Knight"
+
+    === "Mage"
+        ![](../img/eldorado-mage.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"
