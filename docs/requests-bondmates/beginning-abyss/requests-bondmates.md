@@ -80,7 +80,11 @@
 
 **B1**:
 
-- Find his corpse in order to gain the  **Adventurers' Demise** knowledge.
+- Find his corpse in order to gain the **Adventurers' Demise** knowledge. In order for the corpse to appear, the player needs to talk to Chris, complete the floor, enter B2F and go back to town. After entering B1F again the corpse will appear. 
+
+??? map "Chris Starting Point"
+    ![](img/chris-starting-point.jpg)
+
 - Talk to him at the location below  
 - Fetch his friends guild tags  
 - Battle the scavengers
