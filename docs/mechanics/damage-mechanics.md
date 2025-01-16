@@ -151,7 +151,7 @@ Warrior's Battle Cry is an incredibly powerful damage buff. Due to the way damag
 
 We've done some data collection and testing around this, and we've settled on a best fit formula that seems to be mostly accurate (tested with WBC levels 1-4). This is not 100% guaranteed to be correct, but it should be a close approximation:
 
-`FinalAttackPower = (Power + 20 + SkillLevel) * (1.2 + (SkillLevel / 50))`
+`BuffedAttackPower = (AttackPower + 20 + SkillLevel) * (1.2 + (SkillLevel / 50))`
 
 ## Credits
 Image source unknown, but shared by Nitsu and GrandAccelerator
