@@ -146,5 +146,12 @@ As an example, suppose you meet the following criteria:
 
     This will increase even further as you factor in the damage from skills, attack power buffs, defense debuffs, and defense penetration/ignore.
 
+## Warrior's Battle Cry
+Warrior's Battle Cry is an incredibly powerful damage buff. Due to the way damage mechanics work in this game, optimal damage comes from maximizing your attack power, minimizing enemy defense, subtracting the latter from the former, then multiplying the resulting value by your damage modifiers. Warrior's Battle Cry helps us achieve the first part of that by increasing your attack power before damage multipliers take effect.
+
+We've done some data collection and testing around this, and we've settled on a best fit formula that seems to be mostly accurate (tested with WBC levels 1-4). This is not 100% guaranteed to be correct, but it should be a close approximation:
+
+`FinalAttackPower = (Power + 20 + SkillLevel) * (1.2 + (SkillLevel / 50))`
+
 ## Credits
 Image source unknown, but shared by Nitsu and GrandAccelerator
