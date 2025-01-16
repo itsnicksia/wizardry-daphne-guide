@@ -36,6 +36,21 @@ By default, a sure hit acts as an 80% damage increase to the final damage you de
 
 The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.8` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
 
+## Buffs and Debuffs
+Buffs and Debuffs are extremely powerful ways to turn a fight in your favor. Some of the most common and impactful buffs and debuffs are:
+
+* Warrior's Battle Cry - boosts your Attack Power
+* (MA)CALDIA - boosts your Surety and Accuracy
+* PORTO - boosts your Action Speed
+* MORLIS - reduces enemy Defense
+* BATILGREF - reduces enemy Evasion and Action Speed
+
+Note that these are not comprehensive lists, and other buffs and debuffs are situationally useful to apply.
+
+One important thing to note is that there is a limit of 3 buffs and a limit of 3 debuffs that can be applied to a target. Applying more buffs/debuffs will cause earlier-applied ones to drop off. This means that you can accidentally remove an important buff or debuff if you're not paying too much attention to what you're applying.
+
+I need to confirm this for sure, but from what I remember, afflictions (sleep, confuse, taunt, etc) do not count towards the debuff limit.
+
 ## Openings
 
 ### What Are Openings?
