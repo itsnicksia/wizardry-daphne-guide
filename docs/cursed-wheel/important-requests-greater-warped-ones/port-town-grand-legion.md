@@ -10,7 +10,68 @@
 1. After winning your second arena battle and watching your missing person get blown up, use the wheel to go back in time to before fighting the second battle.
 2. Find Butch and complete the [Obtaining KnightQuil](../../requests-bondmates/port-town-grand-legion/requests-bondmates.md#obtaining-knightquil) request
 3. After completing the quest, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time\!
-4. Proceed ahead with the remaining arena battles. After you beat Melgina, watch the scenes. Congratulations \- you lived, completed your request, and more importantly, received the lexicon that allows you to read the 7 mermaid statues you encountered\!
+4. Proceed ahead with the remaining arena battles. 
+5. You won - time to claim your reward!
+
+![Melgina's Arena Reward](./img/melgina-reward.png)
+
+### Arena Reward (First Victory)
+
+#### Recovery items
+
+Prerequisite: Gave Mackarel Sandwich to Melgina (there will be no reward if you gave her the knife)
+
+Reward: Recover HP/MP/SP to full before fighting Octonarus.
+
+Which side to reverse: Right
+
+#### Rich treasures
+
+Prerequisite: None
+
+Reward: Treasury chest key (access via trapdoor on the ship‘s deck)
+
+#### Battle with the Greater Warped One
+
+Prerequisite: None
+
+Reward: 
+ - Melgina’s Choker (if you gave Melgina the sandwich)
+ - Octonarus' necklace (if you gave her the knife)
+
+Which side to reverse: Right
+
+### Arena Reward (2nd Loop after Defeating Octonarus)
+
+#### Melgina’s liberation
+
+Prerequisite: Gave Titanium knife to Melgina, Gave Titanium Ore to Gessi
+
+Reward: Melgina Bondmate
+
+Which side to reverse: Right, check Octonarus’s hand
+
+#### Octonarus‘s cherished sword
+
+Prerequisite: Gave Titanium knife to Melgina
+
+Reward: Cutlass of Tyranny
+
+Which side to reverse: Left
+
+#### Octonarus‘s secret room
+
+Prerequisite: Gave Titanium knife to Melgina
+
+Reward: Access to Forgotten Pirate Harbor (via the underwater grate in the underwater section of the pier area, only accessible directly after the battle)
+
+Which side to reverse: Left, go to grate
+
+## Epilogue
+
+After you beat Melgina, watch the scenes. 
+
+Congratulations \- you lived, completed your request, and more importantly, received the lexicon that allows you to read the 7 mermaid statues you encountered\!
 
 ### Decision Point
 
