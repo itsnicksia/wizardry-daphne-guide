@@ -68,6 +68,7 @@ nav:
       - Adventurer Review Disclaimer: './adventurers/legendary-adventurers/details/_adventurer-review-disclaimer.md'
       - Abenius:
         - Details: './adventurers/legendary-adventurers/details/Abenius.md'
+        - Life Story: './adventurers/legendary-adventurers/life-stories/Abenius.md'
       - Adam:
         - Details: './adventurers/legendary-adventurers/details/Adam.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Adam.md'
@@ -86,6 +87,8 @@ nav:
       - Lanavaille:
         - Details: './adventurers/legendary-adventurers/details/Lanavaille.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Lanavaille.md'
+      - Red Beard:
+        - Details: './adventurers/legendary-adventurers/details/Red-Beard.md'
       - Yekaterina:
         - Details: './adventurers/legendary-adventurers/details/Yekaterina.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Yekaterina.md'
@@ -194,7 +197,9 @@ nav:
       - Gerulf - Collect on a Broken Pact: './requests-bondmates/legendary-requests/gerulf/gerulf-request.md'
   - Guiding Light: './guiding-light.md'
   - Well of the Mind: './well-of-the-mind.md'
-  - Stats and Damage Mechanics: './stats-and-mechanics.md'
+  - Mechanics:
+      - Character Stats and Discipline: './mechanics/stats-and-discipline.md'
+      - Damage Mechanics: './mechanics/damage-mechanics.md'
   - Skills:
     - Passive Skills: './skills/passive-skills.md'
     - Active Skills: './skills/active-skills.md'

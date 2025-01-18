@@ -8,6 +8,13 @@
 **Class Change**: Knight  
 **Role**: Support
 
+!!! info "Portraits"
+    === "Priest"
+        ![](../img/valdor-priest.png)
+
+    === "Knight"
+        ![](../img/valdor-knight.jpg)
+
 ## Skills
 
 !!! info "Inheritable Skill"
