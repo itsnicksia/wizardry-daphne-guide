@@ -29,12 +29,12 @@ Your stats page power is caluclated through the following formula, which factors
 ## Surety
 There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit.
 
-By default, a sure hit acts as an 80% damage increase to the final damage you deal.
+By default, a sure hit acts as a 75% damage increase to the final damage you deal.
 
 !!! note
     Increasing your surety value does NOT increase the sure hit damage.
 
-The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.8` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
+The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.75` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
 
 ## Buffs and Debuffs
 Buffs and Debuffs are extremely powerful ways to turn a fight in your favor. Some of the most common and impactful buffs and debuffs are:
@@ -168,5 +168,21 @@ We've done some data collection and testing around this, and we've settled on a 
 
 `BuffedAttackPower = (AttackPower + 20 + SkillLevel) * (1.2 + (SkillLevel / 50))`
 
+## Defense Reduction and Penetration
+There are two different types of modifiers that reduce defense. These are Defense Reduction and Defense Penetration. We're still working to confirm this, but from what we can tell, Defense Reduction stacks multiplicatively with Defense Penetration, but two spells or abilities from the same category do not stack with each other. This means that you can stack an axe or Precision Strike with MORLIS and get both the reduction and penetration applied, but you cannot stack an axe with Precision Strike and get penetration from both.
+
+### MORLIS
+MORLIS is an extremely handy spell that reduces an enemy's defense. This defense reduction is applied before subtracting the defense component in the damage formula. We don't have a great sense of the scale yet, but MORLIS at skill level 1 is roughly a 20% reduction in an enemy's defense.
+
+### Defense Penetration
+Defense Penetration properties, such as the innate properties of axes seems to be pretty steady at 30%. Essentially, attacking with an axe effectively reduces an enemy's defense by 30% in the calculation. One key thing to note here is that this seems to stack multiplicatively with a defense reduction spell or ability.
+
+### Example Defense Calculation
+
+!!! warning "Warning: Contains math"
+
+Suppose you have `300` attack power and are fighting an enemy with `100` defense. You have two damage modifiers of `1.1` each. In this scenario, your normal final basic attack damage would be roughtly `(300 - 100) * 1.1 * 1.1 = 242`. If you cast MORLIS first, your final basic attack damage would be roughly `(300 - 100 * 0.8) * 1.1 * 1.1 = 266`. If you also happened to be using an axe, your final basic attack damage would be `(300 - 100 * 0.8 * 0.7) * 1.1 * 1.1 = 295`. For comparision, if you didn't have any form of defense reduction or penetration but instead added two more `1.1` modifiers, you would only be looking at `(300 - 100) * 1.1 * 1.1 * 1.1 * 1.1 = 293`, which is lower than if you were able to take advantage of both defense reduction and defense penetration. 
+
 ## Credits
-Image source unknown, but shared by Nitsu and GrandAccelerator
+Image source unknown, but shared by Nitsu and GrandAccelerator.
+Damage formula has been reverse engineered and tested through a collaborative data collection and analysis effort by TheAxolotl, Salomae, L'Montes, and Aradace.
