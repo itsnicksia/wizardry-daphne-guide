@@ -8,6 +8,12 @@
 **Class Change**: Priest  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Thief"
+        ![](../img/viviana-thief.png)
+
+    === "Priest"
+
 ## Skills
 
 !!! info "Inheritable Skill"

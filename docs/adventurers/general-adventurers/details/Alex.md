@@ -8,6 +8,12 @@
 **Class Change**: Fighter  
 **Role**: Support, Damage
 
+!!! info "Portraits"
+    === "Knight"
+        ![](../img/alex-knight.png)
+
+    === "Fighter"
+
 ## Skills
 
 !!! info "Inheritable Skill"

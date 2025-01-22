@@ -10,6 +10,7 @@
 
 !!! info "Portraits"
     === "Fighter"
+        ![](../img/gerulf-fighter.png)
 
     === "Priest"
 

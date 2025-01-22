@@ -8,6 +8,10 @@
 **Class Change**: Currently None  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Fighter"
+        ![](../img/abenius-fighter.png)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"

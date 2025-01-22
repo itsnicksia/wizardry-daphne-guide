@@ -10,6 +10,7 @@
 
 !!! info "Portraits"
     === "Thief"
+        ![](../img/debra-thief.png)
 
     === "Thief Unmasked"
         ![](../img/debra-thief-unmasked.jpg)

@@ -8,6 +8,12 @@
 **Class Change**: Fighter  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Thief"
+        ![](../img/amelia-thief.png)
+
+    === "Fighter"
+
 ## Skills
 
 !!! info "Inheritable Skill"

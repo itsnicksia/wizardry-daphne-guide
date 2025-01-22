@@ -8,6 +8,12 @@
 **Class Change**: Fighter  
 **Role**: Support, Damage
 
+!!! info "Portraits"
+    === "Priest"
+        ![](../img/galina-priest.png)
+
+    === "Fighter"
+
 ## Skills
 
 !!! info "Inheritable Skill"

@@ -8,6 +8,12 @@
 **Class Change**: Thief  
 **Role**: Support, Damage
 
+!!! info "Portraits"
+    === "Knight"
+        ![](../img/barbara-knight.png)
+
+    === "Thief"
+
 ## Skills
 
 !!! info "Inheritable Skill"
