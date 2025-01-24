@@ -42,6 +42,7 @@
 | Olive      | Elf       | Female | Fighter       | Thief           | Air   | Neutral     | General        |
 | Ophelia    | Human     | Female | Fighter       | Knight          | Air   | Neutral     | General        |
 | Philip     | Elf       | Male   | Thief         | Fighter         | Water | Neutral     | General        |
+| Red Beard  | Dwarf     | Male   | Priest        |                 | Dark  | Neutral     | Legendary      |
 | Valdor     | Dwarf     | Male   | Priest        | Knight          | Light | Good        | General        |
 | Viviana    | Human     | Female | Thief         | Priest          | Water | Evil        | General        |
 | Yekaterina | Human     | Female | Mage          | Priest          | Earth | Neutral     | Legendary      |

@@ -39,7 +39,7 @@
 
 ## Adventurer Bondmates
 
-- All adventurers can be bondmates if you dismiss them once they reach max [trust](../trust/trust.md)
+- All adventurers can be bondmates if you dismiss them once they reach max [trust](../mechanics/trust/trust.md)
 
 ![][image1]
 

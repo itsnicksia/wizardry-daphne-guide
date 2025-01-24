@@ -1,4 +1,4 @@
-# [Enemy Compendium](https://docs.google.com/spreadsheets/d/1dl9zCVGzkMV6XrE_bLVdb75szUMf7ND1_TlTmzXmCI4/)
+# [Enemy Compendium (Click Here to Edit)](https://docs.google.com/spreadsheets/d/1dl9zCVGzkMV6XrE_bLVdb75szUMf7ND1_TlTmzXmCI4/)
 
 **Note:** The compendium is publically editable and is an ongoing work in progress. Please feel free to add and update as needed to fill it out!
 
