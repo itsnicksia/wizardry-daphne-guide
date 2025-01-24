@@ -172,15 +172,15 @@ Note that this is our best guess as of now and appears accurate, but due to the 
 
 Here are a few expected follow-up rates at different skill and luck levels.
 
-| SkillLevel | Luck |         Calculation        | Expected |
-|:----------:|:----:|:--------------------------:|:--------:|
-|      1     |  37  | (SkillLevel+1)/1000 * Luck |   .074   |
-|      1     |  41  | (SkillLevel+1)/1000 * Luck |   .082   |
-|      2     |  42  | (SkillLevel+1)/1000 * Luck |   .126   |
-|      3     |  43  | (SkillLevel+1)/1000 * Luck |   .172   |
-|      4     |  43  | (SkillLevel+1)/1000 * Luck |   .215   |
-|      5     |  44  | (SkillLevel+1)/1000 * Luck |   .264   |
-|      7     |  44  | (SkillLevel+1)/1000 * Luck |   .352   |
+| SkillLevel | Luck | Expected |
+|:----------:|:----:|:--------:|
+|      1     |  37  |   .074   |
+|      1     |  41  |   .082   |
+|      2     |  42  |   .126   |
+|      3     |  43  |   .172   |
+|      4     |  43  |   .215   |
+|      5     |  44  |   .264   |
+|      7     |  44  |   .352   |
 
 What this means is that if you have 43 Luck and Follow-Up Attack 4, you can expect to see roughly a 22% chance to trigger Follow-Up Attack on any basic attack. If you have 44 Luck and Follow-Up Attack 7, you can expect that to jump up to roughly a 35% chance. This is very significant since as our level caps increase, so will our Luck values, thus our Follow-Up Attack rates will coninue to climb.
 
