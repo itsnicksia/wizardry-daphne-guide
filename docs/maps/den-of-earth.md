@@ -1,10 +1,13 @@
 # Den of Earth
 
-![Den of Earth](img/den-of-earth/b1f.png)
+??? map "Den of Earth"
+    ![](img/den-of-earth/b1f.png)
 
-![Den of Earth](img/den-of-earth/den-of-earth-alternate.png)
+??? map "Den of Earth Alternate 1"
+    ![](img/den-of-earth/den-of-earth-alternate.png)
 
-![Den of Earth](img/den-of-earth/den-of-earth-alternate-2.png)
+??? map "Den of Earth Alternate 2"
+    ![](img/den-of-earth/den-of-earth-alternate-2.png)
 
 ## Credits
 

@@ -1,6 +1,7 @@
 # Ancient Mausoleum
 
-![Ancient Mausoleum](img/ancient-mausoleum.jpg)
+!!! map "Ancient Mausoleum"
+    ![](img/ancient-mausoleum.jpg)
 
 ## Credits
 

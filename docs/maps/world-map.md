@@ -1,6 +1,7 @@
 # World Map
 
-![World Map](img/world-map.png)
+!!! map "World Map"
+    ![](img/world-map.png)
 
 ## Credits
 
