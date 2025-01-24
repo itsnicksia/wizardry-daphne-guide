@@ -183,6 +183,36 @@ Defense Penetration properties, such as the innate properties of axes seems to b
 
 Suppose you have `300` attack power and are fighting an enemy with `100` defense. You have two damage modifiers of `1.1` each. In this scenario, your normal final basic attack damage would be roughtly `(300 - 100) * 1.1 * 1.1 = 242`. If you cast MORLIS first, your final basic attack damage would be roughly `(300 - 100 * 0.8) * 1.1 * 1.1 = 266`. If you also happened to be using an axe, your final basic attack damage would be `(300 - 100 * 0.8 * 0.7) * 1.1 * 1.1 = 295`. For comparision, if you didn't have any form of defense reduction or penetration but instead added two more `1.1` modifiers, you would only be looking at `(300 - 100) * 1.1 * 1.1 * 1.1 * 1.1 = 293`, which is lower than if you were able to take advantage of both defense reduction and defense penetration. 
 
+## Follow-Up Attack
+Follow-Up Attack is a powerful passive skill when invested in. When it triggers with a multi-hit weapon, it adds a single basic attack hit, effectively acting as +50% damage for 2-hit weapons and +33% damage for 3-hit weapons. With single-hit weapons, however, this effectively gives you +100% more basic attack damage. The higher the difference between your attack and an enemy's defense, the more valuable this is.
+
+The formula for Follow-Up Attack appears to be:
+
+`FollowUpChance = (SkillLevel + 1) / 1000 * Luck`
+
+Note that this is our best guess as of now and appears accurate, but due to the nature of percentage activation rates, your mileage may vary.
+
+### Example Follow-Up Attack Calculation
+
+!!! warning "Warning: Contains math"
+
+Here are a few expected follow-up rates at different skill and luck levels.
+
+| SkillLevel | Luck |         Calculation        | Expected |
+|:----------:|:----:|:--------------------------:|:--------:|
+|      1     |  37  | (SkillLevel+1)/1000 * Luck |   .074   |
+|      1     |  41  | (SkillLevel+1)/1000 * Luck |   .082   |
+|      2     |  42  | (SkillLevel+1)/1000 * Luck |   .126   |
+|      3     |  43  | (SkillLevel+1)/1000 * Luck |   .172   |
+|      4     |  43  | (SkillLevel+1)/1000 * Luck |   .215   |
+|      5     |  44  | (SkillLevel+1)/1000 * Luck |   .264   |
+|      7     |  44  | (SkillLevel+1)/1000 * Luck |   .352   |
+
+What this means is that if you have 43 Luck and Follow-Up Attack 4, you can expect to see roughly a 22% chance to trigger Follow-Up Attack on any basic attack. If you have 44 Luck and Follow-Up Attack 7, you can expect that to jump up to roughly a 35% chance. This is very significant since as our level caps increase, so will our Luck values, thus our Follow-Up Attack rates will coninue to climb.
+
+### Practical Applications of Follow-Up Attack
+The absolute best application of Follow-Up Attack is with 2-handed weapons. If you have a 25% chance to trigger Follow-Up Attack with a single hit, 2-handed weapon (which will give you the biggest gap between your attack and an enemy's defense), you will on average be dealing `AverageDamage = ProbabilityNormalDamage + ProbabilityDoubleDamage = (100 * 0.75) + (200 * 0.25) = 75% + 50% = 125%`. In otherwwords, you would on average be dealing 25% more basic attack damage across the board with a 2h weapon. This is pretty significant.
+
 ## Credits
 Image source unknown, but shared by Nitsu and GrandAccelerator.
 Damage formula has been reverse engineered and tested through a collaborative data collection and analysis effort by TheAxolotl, Salomae, L'Montes, and Aradace.
