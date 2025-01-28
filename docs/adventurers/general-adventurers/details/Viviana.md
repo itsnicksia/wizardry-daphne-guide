@@ -13,6 +13,7 @@
         ![](../img/viviana-thief.png)
 
     === "Priest"
+        ![](../img//viviana-priest.png)
 
 ## Skills
 
