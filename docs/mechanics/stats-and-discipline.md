@@ -65,3 +65,4 @@ Your stats page power is caluclated through the following formula, which factors
 * `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `Strength+` and `I.Q. Conversion`.
     * `Strength+` is calculated as `STR * 0.75 * ClassMod`.
     * `I.Q. Conversion` appears to be around `I.Q. * 0.2` but we haven't fully confirmed this yet.
+    * `Nimble Strike` appears to be `DEX * 0.1` rounded down.
