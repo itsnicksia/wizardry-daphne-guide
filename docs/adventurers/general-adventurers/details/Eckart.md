@@ -8,6 +8,12 @@
 **Class Change**: Priest  
 **Role**: Support
 
+!!! info "Portraits"
+    === "Knight"
+
+    === "Priest"
+        ![](../img/eckart-priest.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"
