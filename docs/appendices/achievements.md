@@ -176,6 +176,7 @@
     | A Secret Kept      | Go through your adventure without revealing the Cursed Wheel. |
     | Full Belly         | Eat all dishes other than the daily special.                  |
     | 100th Login        | Log in for a total of 100 days.                               |
+    | 300th Login        | Log in for a total of 300 days.                               |
     | Achievement Rank C | Earn 20 achievements.                                         |
     | Achievement Rank B | Earn 50 achievements.                                         |
     | Achievement Rank A | Earn 100 achievements.                                        |
