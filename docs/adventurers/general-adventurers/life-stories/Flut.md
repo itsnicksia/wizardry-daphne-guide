@@ -7,3 +7,13 @@ One day, trying to help her father in the vegetable garden, young Flut cast a sp
 Flut tearfully apologized for ruining the vegetables, but rather being angry, her father picked her up and praised her for using a spell without anyone teaching her, saying "my child is a genius."
 
 Since then, Flut has been devoted to spellcraft.
+
+### Page 2
+
+Initially, Flut was taught by  her parentss and learned simple spells. While being praised for her natural talent, she soon mastered all the basics.
+
+The village elder, once the top mage of a large town in his youth, continued her training after that. Flut learned more spells designed to make life easier, but she soon realized that with a bit of tweaking, the spells could also be used to eradicate harmful pests or protect oneself. With this knowledge in mind, she begain to seek out more advanced spells.
+
+The village's vegetable fields were often ravaged by wild beasts. Emboldened by the praise she kept receiving, Flut was inspired to protect her father's farm, as well as the rest of the village, from these beasts.
+
+And, when she was 16, at the urging of the elder who recognized the talent of the still young Flut, she was sent to study in a town to the south where mages gathered.
