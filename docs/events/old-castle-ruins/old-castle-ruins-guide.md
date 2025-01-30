@@ -85,6 +85,8 @@ This is the checkpoint floor. The light just before the portal tells you the gim
 
 ![](img/old-gimmick16-p1.png)
 
+![](img/old-gimmick16-p2.png)
+
 There are going to be a lot of charm mechanics as well so bring scrolls of sedation. 
 
 ## Floor 17
