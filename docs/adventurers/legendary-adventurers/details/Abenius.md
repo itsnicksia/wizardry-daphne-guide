@@ -24,7 +24,7 @@
 
 !!! info "Discipline Skill"
     === "Blessing of Owen"
-    Continuously increases each stat, Attack Power and Confusion/Charm Tolerance increased further.
+        Continuously increases each stat, Attack Power and Confusion/Charm Tolerance increased further.
 
 ## Adventurer Reviews
 
