@@ -39,7 +39,7 @@
 
     Rinne's Inheritor of the Secret Arts Discipline skill is also pretty solid in that it boosts her Surety, which is always welcome.
 
-    In addition to the all-Evil party I mentioned above, Rinne can fit in a variety of teams, and she can function well in either the front row with Daggers or in the back row with Throwing Ninja Tools. She likely can also use Ninja Katanas effectively, however those don't seem to activate her Ninja Dual Wield skill. She can provide damage, support, and all around general utility with the other great Ninja active and passive skills.
+    In addition to the all-Evil party I mentioned above, Rinne can fit in a variety of teams, and she can function well in either the front row with Daggers or in the back row with Throwing Ninja Tools. She can also use Ninja Katanas effectively, as those are treated as Daggers for the purpose of the Ninja Dual Wield skill. She can provide damage, support, and all around general utility with the other great Ninja active and passive skills.
 
     * Pull if:
         * You like Rinne as an adventurer
