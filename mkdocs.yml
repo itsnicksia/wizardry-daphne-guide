@@ -162,6 +162,9 @@ nav:
       - Jean:
         - Details: './adventurers/general-adventurers/details/Jean.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Jean.md'
+      - Kiriha:
+        - Details: './adventurers/general-adventurers/details/Kiriha.md'
+        - Life Story: './adventurers/general-adventurers/life-stories/Kiriha.md'
       - Marianne:
         - Details: './adventurers/general-adventurers/details/Marianne.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Marianne.md'
