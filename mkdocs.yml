@@ -233,10 +233,9 @@ nav:
       - Maps and Text Guide: './events/old-castle-ruins/old-castle-ruins-guide.md'
     - Labyrinth of Fordraig:
       - Maps and Text Guide: './events/labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
-  - Emulators: './emulators/emulators.md'
   - Appendices:
     - Achievements: './appendices/achievements.md'
-    - Enemy Compendium: './appendices/enemy-compendium.md'
+    - Enemies: './appendices/enemy-compendium.md'
     - Guiding Light: './appendices/guiding-light.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'
     - Jeweler Package Evaluation: './appendices/jeweler-package-evaluation.md'
@@ -246,5 +245,7 @@ nav:
       - Offensive Spells: './appendices/skills/offensive-spells.md'
       - Debuff Spells: './appendices/skills/debuff-spells.md'
       - Support Spells: './appendices/skills/support-spells.md'
+    - Unique Equipment: './appendices/unique-equipment.md'
     - Well of the Mind: './appendices/well-of-the-mind.md'
+  - How to Play on PC: './emulators/emulators.md'
   - About The Guide: './index.md'
