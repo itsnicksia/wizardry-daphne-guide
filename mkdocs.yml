@@ -45,6 +45,7 @@ plugins:
   - search
 extra_css:
   - stylesheets/table.css
+  - stylesheets/tooltip.css
   - stylesheets/style.css
   - stylesheets/scheme.css
   - stylesheets/admonition-bug.css
