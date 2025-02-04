@@ -31,3 +31,15 @@ A warrior; unspoken; playing a role without asserting himself and not interactin
 And yet, if he stayed in one place for too long, word would spread of his usefulness. Before that, he moved to other lands. And in any land he left behind, yet another shinobi would come to take up the assignment.
 
 Kiriha melded into the kingdom's shadows, reporting to his village local information as well as the affairs of the kingdom, fulfilling his duty as an undercover agent.
+
+### Page 4
+
+The noteworthy blade leaves behind tales. But a mere sword that cuts well, is used in war, and is broken has no story to tell.
+
+There was a wife; a shinobi of the same village. A child was born; to be a new shinobi. This was but one more duty, for the continuation of the village.
+
+Just when he learned his wife was with child, Kiriha set out from his village on the next mission, never knowing the face of his offspring. So too, the face of his wife, only ever acquainted in the darkness of the evening. Accordingly, there is no personal story for him either.
+
+How and when did this shinobi die? There are none who know.
+
+His entire life, he was but a blade to be wielded.
