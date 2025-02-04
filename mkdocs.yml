@@ -209,6 +209,8 @@ nav:
     - Trust:
       - Trust Guide: './mechanics/trust/trust.md'
       - Dialogue Chart: './mechanics/trust/chart.md'
+  - Equipment:
+    - Unique Equipment: './equipment/unique-equipment.md'
   - Strategies:
     - Boss Guide: './strategies/Boss-guide.md'
     - Combat Strategies: './strategies/combat-strategies.md'
@@ -247,7 +249,7 @@ nav:
       - Offensive Spells: './appendices/skills/offensive-spells.md'
       - Debuff Spells: './appendices/skills/debuff-spells.md'
       - Support Spells: './appendices/skills/support-spells.md'
-    - Unique Equipment: './equipment/unique-equipment.md'
+
     - Well of the Mind: './appendices/well-of-the-mind.md'
-  - How to Play on PC: './emulators/emulators.md'
+  - Playing on PC: './emulators/emulators.md'
   - About The Guide: './index.md'
