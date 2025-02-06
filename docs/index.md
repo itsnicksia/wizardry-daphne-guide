@@ -25,6 +25,7 @@ We welcome contributions and corrections by the community so don’t hesitate to
 - L'Montes
 - Maohime
 - Millaren
+- NRJank
 - Nanashii
 - Ogarith
 - Poopenheimer
