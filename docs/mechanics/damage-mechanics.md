@@ -21,9 +21,7 @@ Buffs and Debuffs are extremely powerful ways to turn a fight in your favor. Som
 
 Note that these are not comprehensive lists, and other buffs and debuffs are situationally useful to apply.
 
-One important thing to note is that there is a limit of 3 buffs and a limit of 3 debuffs that can be applied to a target. Applying more buffs/debuffs will cause earlier-applied ones to drop off. This means that you can accidentally remove an important buff or debuff if you're not paying too much attention to what you're applying.
-
-I need to confirm this for sure, but from what I remember, afflictions (sleep, confuse, taunt, etc) do not count towards the debuff limit.
+One important thing to note is that there is a limit of 3 buffs and a limit of 3 debuffs that can be applied to a target. Applying more buffs/debuffs will cause earlier-applied ones to drop off. This means that you can accidentally remove an important buff or debuff if you're not paying too much attention to what you're applying. Afflictions (sleep, confuse, taunt, etc) do not count towards the debuff limit.
 
 ## Openings
 
@@ -109,7 +107,7 @@ There are two status afflictions that currently allow you to deal increased dama
 !!! warning "Warning: Contains math"
 
 ### Partial Damage Formula
-`FinalDamage = BaseDamageFromPowerDefenseAndActiveSkills * PassiveDamageModifiersMultiplicatively * TypeAdvantageModifier * SameTypeAdvantageModifier * SureHitModifier * StatusAfflicitionModifier`
+`FinalDamage = BaseDamageFromPowerDefenseAndActiveSkills * PassiveDamageModifiersMultiplicatively * TypeAdvantageModifier * SameTypeAdvantageModifier * SureHitModifier * StatusAfflicitionModifier * OffHandDamageReduction`
 
 ### Damage Formula Explanation
 This looks like a relatively simple formula, but there are some nuances that make it surprisingly complex and hard to fully figure out. We'll start with the easy things that we know.
@@ -119,6 +117,7 @@ This looks like a relatively simple formula, but there are some nuances that mak
     * `SameTypeAdvantageModifier` is factored in if you are hitting a type weakness with an adventurer that shares type with the attack
     * `SureHitModifier` is factored in if you land a sure hit
     * `StatusAfflicitionModifier` is factored in if you're hitting a sleeping enemy or an Opening
+    * `OffHandDamageReduction` appears to start out at a `0.5` multiplier when hitting with the off-hand weapon while Dual Wielding. This multiplier increases as the Dual Wield skill level increases
     * `BaseDamageFromPowerDefenseAndActiveSkills` is currently the big unknown. We're not entirely sure how the power listed on the stats page translates to the damage that you deal. We also don't entirely know how the active skills fit into the equation. We're still trying to determine if they're a damage multiplier, a multiplier on attack power, or something else. We do know that some component of this is involves taking your attack power, adding attack power boosts from `Warrior's Battle Cry`, subtracting your enemy's defense, subtracting (or adding) any additional defense values from spells and skills like `MORLIS`, `Armor Break`, `MAKALTU`, and factoring in the defense penetration on axes, `Precision Strike`, and `Sneak Attack`. This is the black box that we hope to decipher as we gather more data.
 
 ### Example Damage Calculation
@@ -185,7 +184,7 @@ Here are a few expected follow-up rates at different skill and luck levels.
 What this means is that if you have 43 Luck and Follow-Up Attack 4, you can expect to see roughly a 22% chance to trigger Follow-Up Attack on any basic attack. If you have 44 Luck and Follow-Up Attack 7, you can expect that to jump up to roughly a 35% chance. This is very significant since as our level caps increase, so will our Luck values, thus our Follow-Up Attack rates will coninue to climb.
 
 ### Practical Applications of Follow-Up Attack
-The absolute best application of Follow-Up Attack is with 2-handed weapons. If you have a 25% chance to trigger Follow-Up Attack with a single hit, 2-handed weapon (which will give you the biggest gap between your attack and an enemy's defense), you will on average be dealing `AverageDamage = ProbabilityNormalDamage + ProbabilityDoubleDamage = (100 * 0.75) + (200 * 0.25) = 75% + 50% = 125%`. In otherwwords, you would on average be dealing 25% more basic attack damage across the board with a 2h weapon. This is pretty significant.
+The absolute best application of Follow-Up Attack is with 2-handed weapons. If you have a 25% chance to trigger Follow-Up Attack with a single hit, 2-handed weapon (which will give you the biggest gap between your attack and an enemy's defense), you will on average be dealing `AverageDamage = ProbabilityNormalDamage + ProbabilityDoubleDamage = (100 * 0.75) + (200 * 0.25) = 75% + 50% = 125%`. In other words, you would on average be dealing 25% more basic attack damage across the board with a 2h weapon. This is pretty significant.
 
 ## Credits
 Image source unknown, but shared by Nitsu and GrandAccelerator.
