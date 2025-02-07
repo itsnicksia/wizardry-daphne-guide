@@ -26,6 +26,7 @@ We welcome contributions and corrections by the community so don’t hesitate to
 - Maohime
 - Millaren
 - Nanashii
+- NRJank
 - Ogarith
 - Poopenheimer
 - Proto
