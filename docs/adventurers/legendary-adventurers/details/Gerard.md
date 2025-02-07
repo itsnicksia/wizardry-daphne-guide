@@ -5,7 +5,7 @@
 **Type**: Dark  
 **Personality**: Good  
 **Starting Class**: Knight  
-**Class Change**: Currently None  
+**Class Change**: Fighter 
 **Role**: Damage, Support
 
 ## Skills
@@ -29,8 +29,6 @@
     I'll preface this with the fact that I did not pull on Gerard, so these are my thoughts on his kit as opposed to his performance. By all means, I welcome the analysis of someone who has him and has used him.
 
     At the time of release, Gerard is the biggest damage dealing Adventurer we have. His Thunderstrike skill is extremely potent, hitting for (I believe) harder than Gerulf's Eruption Strike, while also having the chance to paralyze your foes. If you're interested in having an Adventurer that deals damage, he is a great addition. One thing worth calling out is that he is a Dark unit, but he deals Wind damage with his skill, which is an interesting combination.
-
-    Gerard also does not currently have a class change. We don't know why yet, but many speculate that his class change will be Ninja when that gets released.
 
     The thing that I personally don't like about Gerard is that outside of dealing damage, he doesn't really bring anything unique or interesting to a party. His job is to deal damage, and he does it well, but I personally like my Adventurers to provide utility and versatility, rather than being single-purpose.
 
