@@ -43,6 +43,8 @@
 
     One other thing going against him is that the Port Town Grand Legion is full of water enemies, including the bosses, which will increase the damage he takes and reduce his Eruption Strike damage unless you inherit Adam to him.
 
+    With the release of Rinne, Gerulf finally gets some solid Evil support from her Surety buff, which is a welcome addition to Evil teams!
+
 ## Duplicate Usage
 
 * Inherit on his own skill will increase the damage and cost of his Eruption Strike.
