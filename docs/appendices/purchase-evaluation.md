@@ -29,7 +29,7 @@
 Currently, buying gems directly has a Bonus associated with them. In many gachas, this is a first-time purchase bonus, howoever we're not entirely sure if that's the case here, as people have reported the bonus staying after a purchase. It's possible that the bonus is permanent or that it's tied to an event, but we're not completely sure at this time.
 
 ## Wizardry Variants Store
-Now that an official Wizardry Variants webstore has been launched, we have some additional options for buying Gems of Erin. In general, these are fairly consistently a better value than their appstore counterparts, however depending on your region, you might get taxed a bit differently. In addition, many of the Gems of Org packages that you can only get through the appstore remain better overall deals than the Gems of Erin webstore packages.
+Now that an official [Wizardry Variants webstore](https://store.wizardry.info) has been launched, we have some additional options for buying Gems of Erin. In general, these are fairly consistently a better value than their appstore counterparts, however depending on your region, you might get taxed a bit differently. In addition, many of the Gems of Org packages that you can only get through the appstore remain better overall deals than the Gems of Erin webstore packages.
 
 ## Summary
 * The best purchase with respect to getting legendaries is the one-time `Guild Curated Selection`, which gives you one guaranteed legendary plus a 91% probability of getting a second legendary (43% probability of that being the featured legendary)
