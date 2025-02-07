@@ -2,7 +2,7 @@
 
 | Name       | Race      | Gender | Primary Class | Secondary Class | Type  | Personality | Classification |
 | ---------- | --------- | ------ | ------------- | --------------- | ----- | ----------- | -------------- |
-| Abenius    | Human     | Female | Fighter       |                 | Light | Good        | Legendary      |
+| Abenius    | Human     | Female | Fighter       | Priest          | Light | Good        | Legendary      |
 | Adam       | Elf       | Male   | Mage          | Priest          | Light | Evil        | Legendary      |
 | Alex       | Human     | Male   | Knight        | Fighter         | Fire  | Good        | General        |
 | Alice      | Elf       | Female | Priest        | Mage            | Water | Evil        | Legendary      |
@@ -30,7 +30,7 @@
 | Galina     | Elf       | Female | Priest        | Fighter         | Earth | Evil        | General        |
 | Gandolfo   | Human     | Male   | Fighter       | Priest          | Dark  | Evil        | General        |
 | Gaston     | Human     | Male   | Fighter       | Thief           | Earth | Evil        | General        |
-| Gerard     | Human     | Male   | Knight        |                 | Dark  | Good        | Legendary      |
+| Gerard     | Human     | Male   | Knight        | Fighter         | Dark  | Good        | Legendary      |
 | Gerulf     | Dwarf     | Male   | Fighter       | Priest          | Fire  | Evil        | Legendary      |
 | Human-Fig  | Human     | Male   | Fighter       |                 | Water | Neutral     | Anonymous      |
 | Human-Pri  | Human     | Female | Priest        |                 | Fire  | Good        | Anonymous      |

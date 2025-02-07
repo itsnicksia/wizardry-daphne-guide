@@ -5,7 +5,7 @@
 **Type**: Light  
 **Personality**: Good  
 **Starting Class**: Fighter  
-**Class Change**: Currently None  
+**Class Change**: Priest 
 **Role**: Damage, Support
 
 !!! info "Portraits"
