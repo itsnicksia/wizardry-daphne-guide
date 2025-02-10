@@ -8,6 +8,12 @@
 **Class Change**: Fighter  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Thief"
+        ![](../img/bakesh-thief.jpg)
+
+    === "Fighter"
+
 ## Skills
 
 !!! info "Inheritable Skill"

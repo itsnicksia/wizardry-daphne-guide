@@ -10,6 +10,7 @@
 
 !!! info "Portraits"
     === "Knight"
+        ![](../img/eldorado-knight.jpg)
 
     === "Mage"
         ![](../img/eldorado-mage.png)
