@@ -13,6 +13,7 @@
         ![](../img/asha-mage.jpg)
 
     === "Priest"
+        ![](../img/asha-priest.jpg)
 
 ## Skills
 

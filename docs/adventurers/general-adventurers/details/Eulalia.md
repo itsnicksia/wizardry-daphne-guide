@@ -13,6 +13,7 @@
         ![](../img/eulalia-knight.jpg)
 
     === "Fighter"
+        ![](../img/eulalia-fighter.jpg)
 
 ## Skills
 

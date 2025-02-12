@@ -210,8 +210,6 @@ nav:
     - Trust:
       - Trust Guide: './mechanics/trust/trust.md'
       - Dialogue Chart: './mechanics/trust/chart.md'
-  - Equipment List:
-    - Unique Equipment: './equipment/unique-equipment.md'
   - Strategies:
     - Boss Guide: './strategies/Boss-guide.md'
     - Combat Strategies: './strategies/combat-strategies.md'
@@ -240,6 +238,8 @@ nav:
       - Maps and Text Guide: './events/labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
   - Appendices:
     - Achievements: './appendices/achievements.md'
+    - Equipment:
+        - Unique Equipment: './equipment/unique-equipment.md'
     - Enemies: './appendices/enemy-compendium.md'
     - Guiding Light: './appendices/guiding-light.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'

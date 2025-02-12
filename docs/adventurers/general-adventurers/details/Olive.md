@@ -13,6 +13,7 @@
         ![](../img/olive-fighter.jpg)
 
     === "Thief"
+        ![](../img/olive-thief.jpg)
 
 ## Skills
 
