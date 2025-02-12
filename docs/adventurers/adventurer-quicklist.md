@@ -1,50 +1,50 @@
 # Consolidated Adventurer List
 
-| Name       | Race      | Gender | Primary Class | Secondary Class | Type  | Personality | Classification | Unique Bone Name                                  |
-| ---------- | --------- | ------ | ------------- | --------------- | ----- | ----------- | -------------- | ------------------------------------------------- |
-| Abenius    | Human     | Female | Fighter       | Priest          | Light | Good        | Legendary      | Fighter Called the Glintblade                     |
-| Adam       | Elf       | Male   | Mage          | Priest          | Light | Evil        | Legendary      | Mage Called the Millenial Lord                    |
-| Alex       | Human     | Male   | Knight        | Fighter         | Fire  | Good        | General        | Smoldering Knight                                 |
-| Alice      | Elf       | Female | Priest        | Mage            | Water | Evil        | Legendary      | Girl Called the Dark One's Maiden                 |
-| Amelia     | Beastfolk | Female | Thief         | Fighter         | Fire  | Evil        | General        | Cunning Thief                                     |
-| Asha       | Human     | Female | Mage          | Priest          | Fire  | Good        | General        | Single-Minded Mage                                |
-| Bakesh     | Dwarf     | Male   | Thief         | Fighter         | Air   | Evil        | General        | Unleashed Thief                                   |
-| Barbara    | Beastfolk | Female | Knight        | Thief           | Air   | Neutral     | General        | Duty-Bound Knight                                 |
-| Beast-Thi  | Beastfolk | Female | Thief         |                 | Light | Evil        | Anonymous      |                                                   |
-| Benjamin   | Dwarf     | Male   | Fighter       | Thief           | Earth | Neutral     | General        | Rousing Warrior                                   |
-| Chloe      | Beastfolk | Female | Fighter       | Knight          | Fire  | Good        | General        | Brave Warrior                                     |
-| Clarissa   | Human     | Female | Knight        | Fighter         | Light | Neutral     | General        | Faithful Knight                                   |
-| Daniel     | Human     | Male   | Priest        | Knight          | Earth | Good        | General        | Brawny Priest                                     |
-| Debra      | Beastfolk | Female | Thief         | Knight          | Light | Neutral     | Legendary      | Heroic Outlaw Called the Beastfolk Wraith         |
-| Dino       | Elf       | Male   | Mage          | Thief           | Air   | Neutral     | General        | Capricious Mage                                   |
-| Dwarf-Kni  | Dwarf     | Male   | Knight        |                 | Earth | Neutral     | Anonymous      |                                                   |
-| Eckart     | Dwarf     | Male   | Knight        | Priest          | Fire  | Good        | General        | Proud Knight                                      |
-| Elda       | Elf       | Male   | Fighter       | Mage            | Dark  | Evil        | General        | Wild Warrior                                      |
-| Eldorado   | Elf       | Male   | Knight        | Mage            | Dark  | Good        | General        | Loyal Knight                                      |
-| Elf-Mag    | Elf       | Female | Mage          |                 | Dark  | Neutral     | Anonymous      |                                                   |
-| Elf-Pri    | Elf       | Male   | Priest        |                 | Dark  | Evil        | Anonymous      |                                                   |
-| Elise      | Elf       | Female | Fighter       | Knight          | Earth | Neutral     | General        | Valiant Warrior                                   |
-| Emil       | Elf       | Male   | Priest        | Mage            | Light | Good        | General        | Unwavering Priest                                 |
-| Eulalia    | Elf       | Female | Knight        | Fighter         | Water | Good        | General        | Devoted Knight                                    |
-| Flut       | Elf       | Female | Mage          | Fighter         | Water | Neutral     | General        | Ardent Mage                                       |
-| Galina     | Elf       | Female | Priest        | Fighter         | Earth | Evil        | General        | Puritan Priest                                    |
-| Gandolfo   | Human     | Male   | Fighter       | Priest          | Dark  | Evil        | General        | Savage Warrior                                    |
-| Gaston     | Human     | Male   | Fighter       | Thief           | Earth | Evil        | General        | Raging Warrior                                    |
-| Gerard     | Human     | Male   | Knight        | Fighter         | Dark  | Good        | Legendary      | Knight Called Thundersmiter's Protection          |
-| Gerulf     | Dwarf     | Male   | Fighter       | Priest          | Fire  | Evil        | Legendary      | Miner Who Awakened a Volcano                      |
-| Human-Fig  | Human     | Male   | Fighter       |                 | Water | Neutral     | Anonymous      |                                                   |
-| Human-Pri  | Human     | Female | Priest        |                 | Fire  | Good        | Anonymous      |                                                   |
-| Jarmil     | Human     | Male   | Mage          | Thief           | Air   | Evil        | General        | Sketchy Mage                                      |
-| Jean       | Human     | Male   | Thief         | Mage            | Earth | Neutral     | General        | Sooth Thief                                       |
-| Kiriha     | Human     | Male   | Ninja         |                 | Dark  | Evil        | General        |                                                   |
-| Lanavaille | Human     | Female | Knight        | Fighter         | Fire  | Good        | Legendary      | Kingdom's Blademaster Princess Savior             |
-| Marianne   | Human     | Female | Priest        | Mage            | Air   | Good        | General        | Covetous Priest                                   |
-| Milana     | Elf       | Female | Thief         | Mage            | Dark  | Evil        | General        | Lone Thief                                        |
-| Olive      | Elf       | Female | Fighter       | Thief           | Air   | Neutral     | General        | Stalwart Warrior                                  |
-| Ophelia    | Human     | Female | Fighter       | Knight          | Air   | Neutral     | General        | Deft Thief                                        |
-| Philip     | Elf       | Male   | Thief         | Fighter         | Water | Neutral     | General        | Cunning Thief                                     |
-| Red Beard  | Dwarf     | Male   | Priest        |                 | Dark  | Neutral     | Legendary      | Priest Who Rebelled Against the Gods              |
-| Rinne      | Elf       | Female | Ninja         |                 | Dark  | Evil        | Legendary      | Shinobi Whispered to be the Decapitating Camellia |
-| Valdor     | Dwarf     | Male   | Priest        | Knight          | Light | Good        | General        | Devout Priest                                     |
-| Viviana    | Human     | Female | Thief         | Priest          | Water | Evil        | General        | Errant Thief                                      |
-| Yekaterina | Human     | Female | Mage          | Priest          | Earth | Neutral     | Legendary      | Mage Possessed by the Skull                       |
+| Name       | Race      | Gender | Primary Class | Secondary Class | Type  | Personality | Classification | Unique Bone Name                                  | Original Release Date | Alternate Form Release Date |
+| ---------- | --------- | ------ | ------------- | --------------- | ----- | ----------- | -------------- | ------------------------------------------------- | --------------------- | --------------------------- |
+| Abenius    | Human     | Female | Fighter       | Priest          | Light | Good        | Legendary      | Fighter Called the Glintblade                     | 2024-12-06            |                             |
+| Adam       | Elf       | Male   | Mage          | Priest          | Light | Evil        | Legendary      | Mage Called the Millenial Lord                    | 2024-10-15            |                             |
+| Alex       | Human     | Male   | Knight        | Fighter         | Fire  | Good        | General        | Smoldering Knight                                 | 2024-10-15            |                             |
+| Alice      | Elf       | Female | Priest        | Mage            | Water | Evil        | Legendary      | Girl Called the Dark One's Maiden                 | 2024-10-15            |                             |
+| Amelia     | Beastfolk | Female | Thief         | Fighter         | Fire  | Evil        | General        | Cunning Thief                                     | 2024-10-15            |                             |
+| Asha       | Human     | Female | Mage          | Priest          | Fire  | Good        | General        | Single-Minded Mage                                | 2024-10-15            |                             |
+| Bakesh     | Dwarf     | Male   | Thief         | Fighter         | Air   | Evil        | General        | Unleashed Thief                                   | 2024-10-15            |                             |
+| Barbara    | Beastfolk | Female | Knight        | Thief           | Air   | Neutral     | General        | Duty-Bound Knight                                 | 2024-10-15            |                             |
+| Beast-Thi  | Beastfolk | Female | Thief         |                 | Light | Evil        | Anonymous      |                                                   | 2024-10-15            |                             |
+| Benjamin   | Dwarf     | Male   | Fighter       | Thief           | Earth | Neutral     | General        | Rousing Warrior                                   | 2024-10-15            |                             |
+| Chloe      | Beastfolk | Female | Fighter       | Knight          | Fire  | Good        | General        | Brave Warrior                                     | 2024-10-15            |                             |
+| Clarissa   | Human     | Female | Knight        | Fighter         | Light | Neutral     | General        | Faithful Knight                                   | 2024-10-15            |                             |
+| Daniel     | Human     | Male   | Priest        | Knight          | Earth | Good        | General        | Brawny Priest                                     | 2024-10-15            |                             |
+| Debra      | Beastfolk | Female | Thief         | Knight          | Light | Neutral     | Legendary      | Heroic Outlaw Called the Beastfolk Wraith         | 2024-10-15            |                             |
+| Dino       | Elf       | Male   | Mage          | Thief           | Air   | Neutral     | General        | Capricious Mage                                   | 2024-10-15            |                             |
+| Dwarf-Kni  | Dwarf     | Male   | Knight        |                 | Earth | Neutral     | Anonymous      |                                                   | 2024-10-15            |                             |
+| Eckart     | Dwarf     | Male   | Knight        | Priest          | Fire  | Good        | General        | Proud Knight                                      | 2024-10-15            |                             |
+| Elda       | Elf       | Male   | Fighter       | Mage            | Dark  | Evil        | General        | Wild Warrior                                      | 2024-10-15            |                             |
+| Eldorado   | Elf       | Male   | Knight        | Mage            | Dark  | Good        | General        | Loyal Knight                                      | 2024-10-15            |                             |
+| Elf-Mag    | Elf       | Female | Mage          |                 | Dark  | Neutral     | Anonymous      |                                                   | 2024-10-15            |                             |
+| Elf-Pri    | Elf       | Male   | Priest        |                 | Dark  | Evil        | Anonymous      |                                                   | 2024-10-15            |                             |
+| Elise      | Elf       | Female | Fighter       | Knight          | Earth | Neutral     | General        | Valiant Warrior                                   | 2024-10-15            |                             |
+| Emil       | Elf       | Male   | Priest        | Mage            | Light | Good        | General        | Unwavering Priest                                 | 2024-10-15            |                             |
+| Eulalia    | Elf       | Female | Knight        | Fighter         | Water | Good        | General        | Devoted Knight                                    | 2024-10-15            |                             |
+| Flut       | Elf       | Female | Mage          | Fighter         | Water | Neutral     | General        | Ardent Mage                                       | 2024-10-15            | 2024-12-19                  |
+| Galina     | Elf       | Female | Priest        | Fighter         | Earth | Evil        | General        | Puritan Priest                                    | 2024-10-15            |                             |
+| Gandolfo   | Human     | Male   | Fighter       | Priest          | Dark  | Evil        | General        | Savage Warrior                                    | 2024-10-15            |                             |
+| Gaston     | Human     | Male   | Fighter       | Thief           | Earth | Evil        | General        | Raging Warrior                                    | 2024-10-15            |                             |
+| Gerard     | Human     | Male   | Knight        | Fighter         | Dark  | Good        | Legendary      | Knight Called Thundersmiter's Protection          | 2024-10-22            |                             |
+| Gerulf     | Dwarf     | Male   | Fighter       | Priest          | Fire  | Evil        | Legendary      | Miner Who Awakened a Volcano                      | 2024-10-15            |                             |
+| Human-Fig  | Human     | Male   | Fighter       |                 | Water | Neutral     | Anonymous      |                                                   | 2024-10-15            |                             |
+| Human-Pri  | Human     | Female | Priest        |                 | Fire  | Good        | Anonymous      |                                                   | 2024-10-15            |                             |
+| Jarmil     | Human     | Male   | Mage          | Thief           | Air   | Evil        | General        | Sketchy Mage                                      | 2024-10-15            |                             |
+| Jean       | Human     | Male   | Thief         | Mage            | Earth | Neutral     | General        | Sooth Thief                                       | 2024-10-15            |                             |
+| Kiriha     | Human     | Male   | Ninja         |                 | Dark  | Evil        | General        |                                                   | 2025-01-30            |                             |
+| Lanavaille | Human     | Female | Knight        | Fighter         | Fire  | Good        | Legendary      | Kingdom's Blademaster Princess Savior             | 2024-10-15            | 2024-10-15                  |
+| Marianne   | Human     | Female | Priest        | Mage            | Air   | Good        | General        | Covetous Priest                                   | 2024-10-15            |                             |
+| Milana     | Elf       | Female | Thief         | Mage            | Dark  | Evil        | General        | Lone Thief                                        | 2024-10-15            |                             |
+| Olive      | Elf       | Female | Fighter       | Thief           | Air   | Neutral     | General        | Stalwart Warrior                                  | 2024-10-15            |                             |
+| Ophelia    | Human     | Female | Fighter       | Knight          | Air   | Neutral     | General        | Deft Thief                                        | 2024-10-15            |                             |
+| Philip     | Elf       | Male   | Thief         | Fighter         | Water | Neutral     | General        | Cunning Thief                                     | 2024-10-15            |                             |
+| Red Beard  | Dwarf     | Male   | Priest        |                 | Dark  | Neutral     | Legendary      | Priest Who Rebelled Against the Gods              | 2025-01-16            |                             |
+| Rinne      | Elf       | Female | Ninja         |                 | Dark  | Evil        | Legendary      | Shinobi Whispered to be the Decapitating Camellia | 2025-01-30            |                             |
+| Valdor     | Dwarf     | Male   | Priest        | Knight          | Light | Good        | General        | Devout Priest                                     | 2024-10-15            |                             |
+| Viviana    | Human     | Female | Thief         | Priest          | Water | Evil        | General        | Errant Thief                                      | 2024-10-15            |                             |
+| Yekaterina | Human     | Female | Mage          | Priest          | Earth | Neutral     | Legendary      | Mage Possessed by the Skull                       | 2024-10-15            |                             |
