@@ -6,7 +6,7 @@
 | Adam       | Elf       | Male   | Mage          | Priest          | Light | Evil        | Legendary      | Mage Called the Millenial Lord                    |
 | Alex       | Human     | Male   | Knight        | Fighter         | Fire  | Good        | General        | Smoldering Knight                                 |
 | Alice      | Elf       | Female | Priest        | Mage            | Water | Evil        | Legendary      | Girl Called the Dark One's Maiden                 |
-| Amelia     | Beastfolk | Female | Thief         | Fighter         | Fire  | Evil        | General        |                                                   |
+| Amelia     | Beastfolk | Female | Thief         | Fighter         | Fire  | Evil        | General        | Cunning Thief                                     |
 | Asha       | Human     | Female | Mage          | Priest          | Fire  | Good        | General        | Single-Minded Mage                                |
 | Bakesh     | Dwarf     | Male   | Thief         | Fighter         | Air   | Evil        | General        | Unleashed Thief                                   |
 | Barbara    | Beastfolk | Female | Knight        | Thief           | Air   | Neutral     | General        | Duty-Bound Knight                                 |
@@ -30,7 +30,7 @@
 | Galina     | Elf       | Female | Priest        | Fighter         | Earth | Evil        | General        | Puritan Priest                                    |
 | Gandolfo   | Human     | Male   | Fighter       | Priest          | Dark  | Evil        | General        | Savage Warrior                                    |
 | Gaston     | Human     | Male   | Fighter       | Thief           | Earth | Evil        | General        | Raging Warrior                                    |
-| Gerard     | Human     | Male   | Knight        | Fighter         | Dark  | Good        | Legendary      |                                                   |
+| Gerard     | Human     | Male   | Knight        | Fighter         | Dark  | Good        | Legendary      | Knight Called Thundersmiter's Protection          |
 | Gerulf     | Dwarf     | Male   | Fighter       | Priest          | Fire  | Evil        | Legendary      | Miner Who Awakened a Volcano                      |
 | Human-Fig  | Human     | Male   | Fighter       |                 | Water | Neutral     | Anonymous      |                                                   |
 | Human-Pri  | Human     | Female | Priest        |                 | Fire  | Good        | Anonymous      |                                                   |
