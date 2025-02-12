@@ -239,7 +239,7 @@ nav:
   - Appendices:
     - Achievements: './appendices/achievements.md'
     - Equipment:
-        - Unique Equipment: './equipment/unique-equipment.md'
+        - Unique Equipment: './appendices/equipment/unique-equipment.md'
     - Enemies: './appendices/enemy-compendium.md'
     - Guiding Light: './appendices/guiding-light.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'
