@@ -13,6 +13,7 @@
         ![](../img/galina-priest.png)
 
     === "Fighter"
+        ![](../img/galina-fighter.png)
 
 ## Skills
 

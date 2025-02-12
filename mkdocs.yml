@@ -91,6 +91,7 @@ nav:
         - Life Story: './adventurers/legendary-adventurers/life-stories/Lanavaille.md'
       - Red Beard:
         - Details: './adventurers/legendary-adventurers/details/Red-Beard.md'
+        - Life Story: './adventurers/legendary-adventurers/life-stories/Red-Beard.md'
       - Rinne:
         - Details: './adventurers/legendary-adventurers/details/Rinne.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Rinne.md'
@@ -242,7 +243,7 @@ nav:
     - Enemies: './appendices/enemy-compendium.md'
     - Guiding Light: './appendices/guiding-light.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'
-    - Jeweler Package Evaluation: './appendices/jeweler-package-evaluation.md'
+    - Purchase Evaluation: './appendices/purchase-evaluation.md'
     - Respawning Bone Locations: './appendices/respawning-bone-locations.md'
     - Skills:
       - Passive Skills: './appendices/skills/passive-skills.md'

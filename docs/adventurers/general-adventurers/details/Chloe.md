@@ -13,6 +13,7 @@
         ![](../img/chloe-fighter.jpg)
 
     === "Knight"
+        ![](../img/chloe-knight.jpg)
 
 ## Skills
 

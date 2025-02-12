@@ -17,3 +17,13 @@ One day, as he was moving some materials to the storehouse out back, he came upo
 They berated Heath for teaching a human lockcraft, for even taking in one such as Jean, while he desperately tried to defend his foster son.
 
 Seeing his father persecuted for his son being human, Jean decided then and there that he had to leave the dwarven village.
+
+### Page 3
+
+So that was exactly what Jean did, despite Heath's protests. Ten years soon passed, and he has made his living through the Adventurer's Guild, never once returning to the village.
+
+His skill as a locksmith helped with dismantling traps, making him highly-sought-after by many. There, Jean did not stand out because he was human, and it was not uncommon for some of them to have grown up without knowing their parents. For the first time Jean felt like he was allowed to be human.
+
+Everyone in the guild knew of Jean's hatred for dwarves, as he refused to team up with any regardless of how handsomely the job paid.
+
+Yet if he were drunk enough, he was known to start bragging about a certain dwarf, saying with a nostalgic look that, one day, he would get a rare ore that no one had ever seen before and take it back to them as a gift.
