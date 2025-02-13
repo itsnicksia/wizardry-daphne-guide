@@ -12,6 +12,9 @@
     === "Fighter"
         ![](../img/abenius-fighter.png)
 
+    === "Priest"
+        ![](../img/abenius-priest.png)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"

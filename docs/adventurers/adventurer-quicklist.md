@@ -45,6 +45,7 @@
 | Philip     | Elf       | Male   | Thief         | Fighter         | Water | Neutral     | General        | Cunning Thief                                     | 2024-10-15            |                             |
 | Red Beard  | Dwarf     | Male   | Priest        |                 | Dark  | Neutral     | Legendary      | Priest Who Rebelled Against the Gods              | 2025-01-16            |                             |
 | Rinne      | Elf       | Female | Ninja         |                 | Dark  | Evil        | Legendary      | Shinobi Whispered to be the Decapitating Camellia | 2025-01-30            |                             |
+| Savia      | Beastfolk | Female | Knight        |                 | Dark  | Evil        | Legendary      | Soaring Blackstar                                 | 2025-02-13            |                             |
 | Valdor     | Dwarf     | Male   | Priest        | Knight          | Light | Good        | General        | Devout Priest                                     | 2024-10-15            |                             |
 | Viviana    | Human     | Female | Thief         | Priest          | Water | Evil        | General        | Errant Thief                                      | 2024-10-15            |                             |
 | Yekaterina | Human     | Female | Mage          | Priest          | Earth | Neutral     | Legendary      | Mage Possessed by the Skull                       | 2024-10-15            |                             |

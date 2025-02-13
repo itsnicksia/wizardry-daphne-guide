@@ -13,6 +13,7 @@
         ![](../img/adam-mage.jpg)
 
     === "Priest"
+        ![](../img/adam-priest.jpg)
 
     === "Mage After Personal Request"
         ![](../img/adam-mage-personal-request.png)
