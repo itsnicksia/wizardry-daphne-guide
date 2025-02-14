@@ -54,4 +54,5 @@
 ## Duplicate Usage
 
 * Inherit on her own skill will increase the damage and Magic Defense bypass of her Moment of Finality skill. Note that as with all increased skill levels, the SP cost will increase, so inheriting a few Debra's to her can help offset this.
+* Inherit on the MC. Even with the damage reduction, this skill is very viable on the MC due to the uniqueness of its mechanic.
 * Increasing her Discipline to increase her Surety.
