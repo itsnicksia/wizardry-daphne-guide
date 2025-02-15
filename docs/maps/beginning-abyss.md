@@ -41,7 +41,7 @@
 ??? map "B6F -Map Killer-"
 
     !!! note
-        The beginning fork may varied. Don't bother opening the wrong door where the corpse tells you. It's just spikes. The corpses will give you hints to get through the level. I believe the correct warp order is right, up, then right or left depending on the previous corpse warning. (The light/sun rises in the east and sets in the west.) Statue room puzzle answer is on Discord FAQs. Saint shield quest is also completed here; do the second warp wrong and fight the mob.
+        The beginning fork may vary. Don't bother opening the wrong door where the corpse tells you. It's just spikes. The corpses will give you hints to get through the level. I believe the correct warp order is right, up, then right or left depending on the previous corpse warning. (The light/sun rises in the east and sets in the west.) Statue room puzzle requires you to restore the statue heads that match your party members according to the clue on the nearby dead body. This clue can change every time you enter this level. [See answers in the FAQ](../frequently-asked-questions.md#how-do-i-solve-the-statue-puzzle-on-b6f-of-the-beginning-abyss). Saint shield quest is also completed here; do the second warp wrong and fight the mob.
 
     ![](img/beginning-abyss/beginning-abyss-b6f.png)
 

@@ -30,14 +30,16 @@ Yes! Although this isn’t something we recommend doing as the bonuses are very 
 Look around for the corpses near each teleporter room. They’ll give you a clue about which teleporter to take. Think about the position of the sun in the sky to help guide you. The first body flat out tells you to ignore one room. The second body mentions something about the light ahead. Think North. The third body mentions following the dying light. Think about a setting sun.
 
 ### How do I solve the statue puzzle on B6F of the Beginning Abyss
-This depends on the clue you get. Each statue corresponds to a member of your party when facing the teleporter. In general, you want to only repair the statue at the position that corresponds with the member that fits the clue. The answer could be that no statue gets restored.
+This depends on the clue you get, which can change everytime you enter the level. Each statue corresponds to a member of your party when facing the teleporter. In general, you want to only repair the statue at the position that corresponds with the member or members that fits the clue. The answer could be that no statue gets restored.  The elf in the Tavern will tell you about Races and Classes using the same language used in the clues.
 
-* "Ubiquitous race" = Humans
+* "Ubiquitous race" = Humans (including main character)
 * "Wise and long-lives race" = Elves
-* "Brave Fighters" = Fighter
+* "Brave Fighters" = Fighter (not Wanderer)
 * "Skillfull" = Thief
 * "Weakest" = Lowest Strength
 * "Wise" = Highest I.Q.
+
+If you get the answer right the teleporter will take you to a room with the exit stairs.  From there you will have to proceed down to B7F.
 
 ### Do I have to walk past the poison on B7F of the Beginning Abyss every time?
 No! There are 4 stone piles that you can reverse on B8F. Two of these create shortcuts to bypass the poison. Two create pathways to treasure.
