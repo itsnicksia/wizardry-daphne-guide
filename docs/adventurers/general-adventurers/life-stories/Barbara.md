@@ -19,3 +19,13 @@ And then, three years after King Leo was crowned, a large group of soldiers sudd
 Elissa ordered Barbara to take the king's inner circle and escape. "I will speak with the enemy while you flee with the king." Queen Mother Elissa order that she be left behind that the king might live.
 
 With the young king on her back, Barbara followed the grave command and fled the burning castle with a few of the king's retainers. And, fighting back tears, she made her way to the port without looking back.
+
+### Page 3
+
+Unfortunately, their ship met with rough seas and capsized. When Barbara came to, she was alone on a beach of the admiralty.
+
+Neither the retainers who had escaped with her nor the young king, who Elissa had entrusted to her with her own life, were anywhere to be seen.
+
+Barbara walked the beach towns searching for the king. Whenever she saw a child that was of the same age she would run up to them, and so caught the notice of many a town guard.
+
+Eventually Barbara decided to join the guild in the admiralty to earn money while searching for clues to the king. A king with the blood of a beastfolk should not disappear so easily. She firmly believed she would find him one day and that they would return to their kingdom and crush the rebellion. Barbara continues to seek clues to the king's whereabouts that they might reclaim their once-peaceful kingdom.

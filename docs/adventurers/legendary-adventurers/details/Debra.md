@@ -12,10 +12,11 @@
     === "Thief"
         ![](../img/debra-thief.png)
 
+    === "Knight"
+        ![](../img/debra-knight.jpg)
+
     === "Thief Unmasked"
         ![](../img/debra-thief-unmasked.jpg)
-
-    === "Knight"
 
     === "Knight Unmasked"
         ![](../img/debra-knight-unmasked.jpg)

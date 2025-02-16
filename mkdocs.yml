@@ -95,6 +95,8 @@ nav:
       - Rinne:
         - Details: './adventurers/legendary-adventurers/details/Rinne.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Rinne.md'
+      - Savia:
+        - Details: './adventurers/legendary-adventurers/details/Savia.md'
       - Yekaterina:
         - Details: './adventurers/legendary-adventurers/details/Yekaterina.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Yekaterina.md'
@@ -210,8 +212,6 @@ nav:
     - Trust:
       - Trust Guide: './mechanics/trust/trust.md'
       - Dialogue Chart: './mechanics/trust/chart.md'
-  - Equipment List:
-    - Unique Equipment: './equipment/unique-equipment.md'
   - Strategies:
     - Boss Guide: './strategies/Boss-guide.md'
     - Combat Strategies: './strategies/combat-strategies.md'
@@ -240,6 +240,8 @@ nav:
       - Maps and Text Guide: './events/labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
   - Appendices:
     - Achievements: './appendices/achievements.md'
+    - Equipment:
+        - Unique Equipment: './appendices/equipment/unique-equipment.md'
     - Enemies: './appendices/enemy-compendium.md'
     - Guiding Light: './appendices/guiding-light.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'
