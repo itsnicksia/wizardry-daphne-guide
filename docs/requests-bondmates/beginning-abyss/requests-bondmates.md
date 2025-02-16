@@ -285,8 +285,11 @@
 
 - Witness his final moments on B7
 
-??? map "B7F Location"
+??? map "B7F Location1 "
     ![](img/image_42.png)
+
+??? map "B7F Location 2"
+    ![harry-b7f-2.png](img/harry-b7f-2.png)
 
 ## Treacherous Floor Traversal
 
