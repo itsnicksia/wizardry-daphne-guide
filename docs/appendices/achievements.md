@@ -78,7 +78,7 @@
     | Meeting a Bondmate                             | Someone you meet on your adventure becomes a Bondmate.             |
     | Meeting a Bondmate II                          | 10 people you meet on your adventure become Bondmates.             |
     | Meeting a Bondmate III                         | 20 people you meet on your adventure become Bondmates.             |
-    | Deepending Bond                                | A Bondmate you made on your adventure becomes Bond Level 5.        |
+    | Deepening Bond                                | A Bondmate you made on your adventure becomes Bond Level 5.        |
     | In Traveling, a Companion, in Life, Compassion | 10 Bondmates you made on your adventure become Bond Level 5.       |
     | Fate-Bonding Journey                           | 30 Bondmates you made on your adventure become Bond Level 5.       |
     | First Camp                                     | Camp in a dungeon 1 time.                                          |
