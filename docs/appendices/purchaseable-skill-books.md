@@ -3,14 +3,14 @@
 === "Daily Jeweler"
     |         Skill Book Name         |       Cost       |
     |:-------------------------------:|:----------------:|
-    |              Erlik              | 240 Gems of Erin |
-    |              Halito             | 240 Gems of Erin |
-    |              Dilto              | 240 Gems of Erin |
-    |              Morlis             | 240 Gems of Erin |
-    |              Cortu              | 240 Gems of Erin |
-    |             Masolotu            | 240 Gems of Erin |
-    |              Badios             | 240 Gems of Erin |
-    |              Marein             | 240 Gems of Erin |
+    |              ERLIK              | 240 Gems of Erin |
+    |              HALITO             | 240 Gems of Erin |
+    |              DILTO              | 240 Gems of Erin |
+    |              MORLIS             | 240 Gems of Erin |
+    |              CORTU              | 240 Gems of Erin |
+    |             MASOLOTU            | 240 Gems of Erin |
+    |              BADIOS             | 240 Gems of Erin |
+    |              MAREIN             | 240 Gems of Erin |
     |             Blinding            | 240 Gems of Erin |
     |         Precision Strike        | 240 Gems of Erin |
     | Passive Magic Defense Up (Mage) | 240 Gems of Erin |
