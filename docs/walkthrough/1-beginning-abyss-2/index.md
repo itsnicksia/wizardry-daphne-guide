@@ -1,6 +1,6 @@
-# The Beginning Abyss
+# The Beginning Abyss - Part Two
 
-## Saving the King and Not Losing Your Head
+## Saving the King And Not Losing Your Head
 
 ### Fresh Start
 
