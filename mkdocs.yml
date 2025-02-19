@@ -65,8 +65,9 @@ nav:
   - Quick Reference: './quick-reference.md'
   - FAQ: './frequently-asked-questions.md'
   - Walkthrough:
-    - Beginning Abyss: './walkthrough/1-beginning-abyss/beginning-abyss.md'
-    - Port Town Grand Legion: './walkthrough/2-port-town-grand-legion/port-town-grand-legion.md'
+    - Introduction: './walkthrough/0-introduction'
+    - Beginning Abyss: './walkthrough/1-beginning-abyss'
+    - Port Town Grand Legion: './walkthrough/2-port-town-grand-legion'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
@@ -205,8 +206,8 @@ nav:
       - Debra - Investigate the Island of Ghosts: './requests-bondmates/legendary-requests/debra/debra-request.md'
       - Gerulf - Collect on a Broken Pact: './requests-bondmates/legendary-requests/gerulf/gerulf-request.md'
   - Cursed Wheel:
-      - Beginning Abyss: './cursed-wheel/wheel-causality/beginning-abyss.md'
-      - Port Town Grand Legion: './cursed-wheel/wheel-causality/port-town-grand-legion.md'
+      - Beginning Abyss: './cursed-wheel/beginning-abyss.md'
+      - Port Town Grand Legion: './cursed-wheel/port-town-grand-legion.md'
   - Mechanics:
     - Character Stats and Discipline: './mechanics/stats-and-discipline.md'
     - Damage Mechanics: './mechanics/damage-mechanics.md'
