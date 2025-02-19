@@ -64,6 +64,9 @@ extra_javascript:
 nav:
   - Quick Reference: './quick-reference.md'
   - FAQ: './frequently-asked-questions.md'
+  - Walkthrough:
+    - Beginning Abyss: './walkthrough/1-beginning-abyss/beginning-abyss.md'
+    - Port Town Grand Legion: './walkthrough/2-port-town-grand-legion/port-town-grand-legion.md'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
@@ -193,12 +196,8 @@ nav:
         - Details: './adventurers/general-adventurers/details/Viviana.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Viviana.md'
   - Cursed Wheel:
-    - Wheel Causality:
       - Beginning Abyss: './cursed-wheel/wheel-causality/beginning-abyss.md'
       - Port Town Grand Legion: './cursed-wheel/wheel-causality/port-town-grand-legion.md'
-    - Important Requests and Greater Warped Ones:
-      - Beginning Abyss: './cursed-wheel/important-requests-greater-warped-ones/beginning-abyss.md'
-      - Port Town Grand Legion: './cursed-wheel/important-requests-greater-warped-ones/port-town-grand-legion.md'
   - Requests and Bondmates:
     - Bondmates Quicklist: './requests-bondmates/bondmates-quicklist.md'
     - Beginning Abyss: './requests-bondmates/beginning-abyss/requests-bondmates.md'

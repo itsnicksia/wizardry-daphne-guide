@@ -1,7 +1,7 @@
-# Consolidated Adventurer List
+# List of Adventurers
 
 | Name       | Race      | Gender | Primary Class | Secondary Class | Type  | Personality | Classification | Unique Bone Name                                  | Original Release Date | Alternate Form Release Date |
-| ---------- | --------- | ------ | ------------- | --------------- | ----- | ----------- | -------------- | ------------------------------------------------- | --------------------- | --------------------------- |
+|------------|-----------|--------|---------------|-----------------|-------|-------------|----------------|---------------------------------------------------|-----------------------|-----------------------------|
 | Abenius    | Human     | Female | Fighter       | Priest          | Light | Good        | Legendary      | Fighter Called the Glintblade                     | 2024-12-06            |                             |
 | Adam       | Elf       | Male   | Mage          | Priest          | Light | Evil        | Legendary      | Mage Called the Millenial Lord                    | 2024-10-15            |                             |
 | Alex       | Human     | Male   | Knight        | Fighter         | Fire  | Good        | General        | Smoldering Knight                                 | 2024-10-15            |                             |
