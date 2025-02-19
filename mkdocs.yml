@@ -221,7 +221,7 @@ nav:
     - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
     - Powerleveling: './strategies/powerleveling.md'
     - Weapon Types: './strategies/weapon-types.md'
-  - Blacksmithing: './blacksmithing/blacksmithing.md'
+  - Blacksmithing: './blacksmithing'
   - Grade Exams: './grade-exams/grade-exams.md'
   - Maps:
     - World Map: './maps/world-map.md'
