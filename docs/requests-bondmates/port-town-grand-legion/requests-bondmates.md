@@ -58,7 +58,7 @@
 
 - Complete the Water God Statue Restoration Materials request
 - Find Regia 5 times throughout Districts 2-7 in the Trade Waterways
-  - The easiest way to do this is to teleport into the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. On the 5th time, she will mention that this was the final time she will heal you.
+    - The easiest way to do this is to teleport into the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. On the 5th time, she will mention that this was the final time she will heal you.
 - Go to the marked spot in the 2nd District to receive the bondmate
 
 ??? map "Final Location"
