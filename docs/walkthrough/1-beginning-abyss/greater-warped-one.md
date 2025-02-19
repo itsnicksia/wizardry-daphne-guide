@@ -1,4 +1,4 @@
-# The Beginning Abyss - Part Two
+# The Beginning Abyss - Greater Warped One
 
 ## Saving the King And Not Losing Your Head
 

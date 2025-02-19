@@ -1,76 +1,8 @@
 # The Beginning Abyss
 
-## Awakening
-
 ## Fresh Start
 
-### Requests
-
-#### Sweet Walnut Delivery
-
-??? info "Request"
-    ![](img/image_1.png)
-
-- Talk to the Smirking Adventurer in the tavern  
-- Go to Beginning Abyss -Entrance- and gather the Walnuts
-
-??? map "Location"
-    ![](img/image_2.png)
-
-#### Light Shield Material Collection
-
-??? info "Request"
-    ![](img/image_3.png)
-
-- Go to B1 of Beginning Abyss
-
-??? map "Location"
-    ![](img/image_4.png)
-
-#### Fragrant Plant Seed Delivery
-
-??? info "Request"
-    ![](img/image_5.png)
-
-- Go to Inn  
-- Go to B1 and find the herbs
-
-??? map "Location"
-    ![](img/image_6.png)
-    
-    !!! note
-        It's possible this is randomly in any small room
-
-#### Scrap Sabaton Collection
-
-??? info "Request"
-    ![](img/image_7.png)
-
-- Go to the Item shop to activate the request  
-- Go to the guild and accept the quest  
-- In B1 gather junk and turn in the request  
-- Go back to the item shop to receive item
-
-#### Rhodium Delivery
-
-??? info "Request"
-    ![](img/image_8.png)
-
-- Go to the blacksmith to activate this quest  
-- Go to the guild and accept the request   
-- Continue on until B6 then collect the 2 Rhodium  
-- Turn in the request  
-- Go back to the blacksmith
-
-??? map "Locations"
-    ![](img/image_9.png)
-
-    ??? info
-        Follow Green for one and Blue for the other
-
-### Bondmates
-
-#### Chris the Considerate
+### Chris the Considerate
 
 ??? info "Chris the Considerate"
     ![](img/image_10.png)
@@ -93,7 +25,7 @@
 ??? map "Guild tag locations"
     ![](img/image_81.png)
 
-#### Mudd, the Eternal Novice
+### Mudd, the Eternal Novice
 
 ??? info "Mudd, the Eternal Novice"
     ![](img/image_18.png)
@@ -117,21 +49,7 @@
 
 ## Minor Harken Unlocked
 
-### Requests
-
-#### Death Stench Investigation
-
-??? info "Request"
-    ![](img/image_19.png)
-
-- Go to B1 and defeat the Ambush
-
-??? map "Location"
-    ![](img/image_20.png)
-
-### Bondmates
-
-#### Sir Maurice, the Live Bait
+### Sir Maurice, the Live Bait
 
 ??? info "Sir Maurice, the Live Bait"
     ![](img/image_21.png)
@@ -141,9 +59,7 @@
 
 ## Warped One Vanquished
 
-### Bondmates
-
-#### Royal Knight Albano
+### Royal Knight Albano
 
 ??? info "Royal Knight Albano"
     ![](img/albano.jpg)
@@ -164,21 +80,7 @@
 
 ## Major Harken Unlocked
 
-### Requests
-
-#### Donato’s Redemption
-
-??? info "Request"
-    ![](img/image_24.png)
-
-- Defeat the 6 goblin packs in B1
-
-??? map "Location"
-    ![](img/image_25.png)
-
-### Bondmates
-
-#### Donato, the King of Debt
+### Donato, the King of Debt
 
 ??? info "Donato, the King of Debt"
     ![](img/image_27.png)
@@ -192,64 +94,9 @@
 ??? map "Location"
     ![](img/image_26.png)
 
-## Cave-In Crisis Escape
-
-## Despicable Trap
-
-### Requests
-
-#### Abyssal Steel Delivery
-
-??? info "Request"
-    ![](img/image_29.png)
-
-- Fight the enemies blocking the Ebonsteel on B4  
-- Pick up the Ebonsteel from the sparkle on the ground
-
-??? map "Location"
-    ![](img/image_30.png)
-
-#### Knight-Butcher Ent Proliferation
-
-??? info "Request"
-    ![](img/image_31.png)
-
-- Defeat the 3 enemies on B3
-
-??? map "Location"
-    ![](img/image_32.png)
-
-#### Fluorescent Flower Delivery
-
-??? info "Request"
-    ![](img/image_33.png)
-
-- You will activate this request as part of the Albano Bondmate line  
-- Go to the inn upon accepting the request  
-- Go to B5 and kill the mimic to get the glowstone  
-
-??? map "B5F Mimic Location"
-    ![](img/image_34.png)
-
-    !!! note
-        The chest does not appear on the map
-
-- Go to B3 and find the 2 flowers
-
-??? map "B3F Flower Locations"
-    ![](img/image_35.png)
-
-??? map "Alternate Locations"
-    ![](img/fluorescent_flowers_alt_location.png)
-
-    !!! note
-        It is possible that there are other locations than the above two specified, so if neither of those maps work for you, you can check the bottom-right side or just explore everywhere!
-
 ## Survivors Found
 
-### Bondmates
-
-#### Ira of the Vanished Village
+### Ira of the Vanished Village
 
 ??? info "Ira of the Vanished Village"
     ![](img/image_37.png)
@@ -265,7 +112,7 @@
 ??? map "Location"
     ![](img/image_38.png)
 
-#### Harry the Wandering Adventurer
+### Harry the Wandering Adventurer
 
 ??? info "Harry the Wandering Adventurer"
     ![](img/image_43.png)
@@ -293,34 +140,7 @@
 
 ## Treacherous Floor Traversal
 
-### Requests
-
-#### Relentless Massacre Rabbit
-
-??? info "Request"
-    ![](img/image_44.png)
-
-- Go to B4 and fight the vorpal bunny 4 times
-
-??? map "Locations"
-    ![](img/image_45.png)
-
-??? Map "Alternate Locations"
-    ![](img/rabbits-alternate-locations.jpg)
-
-#### Grandchild Party Rescue
-
-??? info "Request"
-    ![](img/image_46.png)
-
-- Save Mel and her party on B5
-
-??? map "Location"
-    ![](img/image_47.png)
-
-### Bondmates
-
-#### Beheading Bunny
+### Beheading Bunny
 
 ??? info "Beheading Bunny"
     ![](img/image_48.png)
@@ -330,7 +150,7 @@
 
 - Complete the Relentless Massacre Rabbit quest doing all 4 fights
 
-#### Mel the Sniveling Thief
+### Mel the Sniveling Thief
 
 ??? info "Mel the Sniveling Thief"
     ![](img/image_50.png)
@@ -343,48 +163,7 @@
 
 ## Second Major Harken
 
-### Requests
-
-#### Search for Lambert
-
-??? info "Request"
-    ![](img/image_52.png)
-
-- Talk to Sophia in the tavern  
-- Find Lambert on B7 and watch as he dies  
-
-??? map "Location"
-    ![](img/image_53.png)
-
-- Wheel back to Treacherous Floor Traversal and find Lambert on B5F.
-
-??? map "Final Location"
-    ![](img/lambert-b5f-location.png)
-
-#### Abyss Heretics
-
-??? info "Request"
-    ![](img/image_55.png)
-
-- Defeat the 3 groups of zealots
-
-??? map "Locations"
-    ![](img/image_82.png)
-
-#### March of the Undead
-
-??? info "Request"
-    ![](img/image_57.png)
-
-- Take the Harken to B7  
-- Step out and defeat the enemies
-
-??? map "Location"
-    ![](img/image_58.png)
-
-### Bondmates
-
-#### Gary the Brave
+### Gary the Brave
 
 ??? info "Gary tthe Brave"
     ![](img/image_59.png)
@@ -402,7 +181,7 @@
 ??? map "Location"
     ![](img/image_60.png)
 
-#### Sir Jack, Undead Smiter
+### Sir Jack, Undead Smiter
 
 ??? info "Sir Jack, Undead Smiter"
     ![](img/image_62.png)
@@ -412,7 +191,7 @@
 
 - Complete the March of the Undead quest doing all 4 waves
 
-#### Sophie the Caring
+### Sophie the Caring
 
 ??? info "Sophie the Caring"
     ![](img/sophie.png)
@@ -422,42 +201,9 @@
 
 - Complete the Search for Lambert request
 
-## Labyrinth Cleared
-
-### Requests
-
-#### Cazula Root Delivery
-
-??? info "Request"
-    ![](img/image_64.png)
-
-- Go to the tavern and talk to the Gloomy Adventurer  
-- Go to B7 and get the Bladeless Dagger  
-- Return to the tavern and give it to him
-
-??? map "Location"
-    ![](img/image_65.png)
-
-## Warped Scene
-
 ## The King’s Rescue
 
-### Requests
-
-#### The Lingering Scent of the Greater Warped One
-
-??? info "Request"
-    ![](img/image_66.png)
-
-- Take the Harken to B8  
-- Fight the waves of enemies
-
-??? map "Location"
-    ![](img/image_67.png)
-
-### Bondmates
-
-#### The Pleading Boss Goblin
+### The Pleading Boss Goblin
 
 ??? info "The Pleading Boss Goblin"
     ![](img/boss-goblin.jpg)
@@ -482,8 +228,6 @@
     ![](img/boss-goblin-final-spot.jpg)
 
 ## Miscellaneous
-
-### Wandering Bondmate
 
 #### Green Jelly
 

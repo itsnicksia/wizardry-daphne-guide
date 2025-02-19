@@ -66,9 +66,12 @@ nav:
   - FAQ: './frequently-asked-questions.md'
   - Walkthrough:
     - Introduction: './walkthrough/0-introduction/index.md'
-    - Beginning Abyss - Part 1: './walkthrough/1-beginning-abyss-1/index.md'
-    - Beginning Abyss - Part 2: './walkthrough/1-beginning-abyss-2/index.md'
-    - Port Town Grand Legion: './walkthrough/2-port-town-grand-legion/index.md'
+    - Beginning Abyss:
+      - Requests: './walkthrough/1-beginning-abyss/requests.md'
+      - Greater Warped One: './walkthrough/1-beginning-abyss/greater-warped-one.md'
+    - Port Town Grand Legion:
+      - Requests: './walkthrough/2-port-town-grand-legion/requests.md'
+      - Greater Warped One: './walkthrough/2-port-town-grand-legion/greater-warped-one.md'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
@@ -106,6 +109,10 @@ nav:
       - Yekaterina:
         - Details: './adventurers/legendary-adventurers/details/Yekaterina.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Yekaterina.md'
+    - Legendary Requests:
+      - Adam - Unnamed Request: './adventurers/legendary-adventurers/legendary-requests/adam/adam-request.md'
+      - Debra - Investigate the Island of Ghosts: './adventurers/legendary-adventurers/legendary-requests/debra/debra-request.md'
+      - Gerulf - Collect on a Broken Pact: './adventurers/legendary-adventurers/legendary-requests/gerulf/gerulf-request.md'
     - General Adventurers:
       - Alex:
         - Details: './adventurers/general-adventurers/details/Alex.md'
@@ -198,14 +205,6 @@ nav:
         - Details: './adventurers/general-adventurers/details/Viviana.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Viviana.md'
   - Blacksmithing: './blacksmithing/index.md'
-  - Requests and Bondmates:
-    - Bondmates Quicklist: './requests-bondmates/bondmates-quicklist.md'
-    - Beginning Abyss: './requests-bondmates/beginning-abyss/requests-bondmates.md'
-    - Port Town Grand Legion: './requests-bondmates/port-town-grand-legion/requests-bondmates.md'
-    - Legendary Requests:
-      - Adam - Unnamed Request: './requests-bondmates/legendary-requests/adam/adam-request.md'
-      - Debra - Investigate the Island of Ghosts: './requests-bondmates/legendary-requests/debra/debra-request.md'
-      - Gerulf - Collect on a Broken Pact: './requests-bondmates/legendary-requests/gerulf/gerulf-request.md'
   - Mechanics:
     - Character Stats and Discipline: './mechanics/stats-and-discipline.md'
     - Damage Mechanics: './mechanics/damage-mechanics.md'
@@ -239,6 +238,10 @@ nav:
       - Maps and Text Guide: './events/labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
   - Appendices:
     - Achievements: './appendices/achievements.md'
+    - Bondmates:
+      - Bondmates Quicklist: './appendices/bondmates/bondmates-quicklist.md'
+      - Beginning Abyss: './appendices/bondmates/beginning-abyss/bondmates.md'
+      - Port Town Grand Legion: './appendices/bondmates/port-town-grand-legion/bondmates.md'
     - Cursed Wheel Causality:
         - Beginning Abyss: './appendices/wheel-causality/beginning-abyss.md'
         - Port Town Grand Legion: './appendices/wheel-causality/port-town-grand-legion.md'

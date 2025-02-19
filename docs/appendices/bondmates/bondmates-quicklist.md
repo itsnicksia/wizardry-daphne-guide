@@ -16,8 +16,8 @@
 | Mudd, the Eternal Novice        | B3F / B4F        | Mudd is an adventurer. Meet him on B1F, just to the right of the entry hallway. Then rescue him on B3F (6,7 or 24,16) and again on B4F (11,8). (X,Y) coordinates.                                                                               | Detect up                       | Air     | 5         |
 | Sir Maurice                     | Dialog option    | See chapter 1 true ending. Once rescued on B4F he will show up later in the tavern and you'll get his bond.                                                                              | Resistance up                   | Earth   | 1         |
 | Albano the unlikable            | Hidden quest     | See Side quest and Perfect Ending to save Albano                                                                                          | Defense up and Paralysis resist | Fire    | 5         |
-| The Pleading Boss Goblin        | B3F Goblin Den   | After saving the king, find him and fight him several times in the den. [Details here](../requests-bondmates/beginning-abyss/requests-bondmates.md#the-pleading-boss-goblin) | Surety Rate up                  | Void    | 5         |
-| Sophie the Caring               | B5F              | Save Lambert. [Details here](../requests-bondmates/beginning-abyss/requests-bondmates.md#sophie-the-caring)                                                                  | Magic Power up                  | Light   | 1         |
+| The Pleading Boss Goblin        | B3F Goblin Den   | After saving the king, find him and fight him several times in the den. [Details here](../bondmates/beginning-abyss/bondmates.md#the-pleading-boss-goblin) | Surety Rate up                  | Void    | 5         |
+| Sophie the Caring               | B5F              | Save Lambert. [Details here](../bondmates/beginning-abyss/bondmates.md#sophie-the-caring)                                                                  | Magic Power up                  | Light   | 1         |
 
 ### Farming strategy:
 Using the Cursed Wheel, Leaping back to Fresh Start will reset most bondmate locations, and then immediately Leaping forward to Warped Scene will make most bondmate Requests available.  To hit most of the bondmates, after leaping to Warped Scene:  
@@ -59,15 +59,47 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 | Pirate Captain Valo        | Side quest                 | Retake Stolen Belongings from Robbers side quest. Need to choose “Pirates?” option, that probably only comes up after you did the first run or read something, not sure.                      | Evade Trap                    | Water   | 5         |
 | Gessi                      | Arena Deck                 | Defeat him without strategizing (Water and Garlic) and probably needs to give him the Ore as well. Hard fight, recommend taking Scroll of gravel and a tough frontline.                       | Accuracy and Bind Tolerance   | Water   | 5         |
 | Head Cook                  | Ship Lounge                | Complete all the four ingredient quests and deliver them directly to the head cook. After beating the boss, talk to the head cook before going back to town                                   | Paralysis Resistence          | Fire    | 1         |
-| Water God's Ritual Regia   | Trade Waterways District 2 | Found after completing Water God Statue Resetoration Materials. [Details here](./port-town-grand-legion/requests-bondmates.md#water-god-priestess-regia)                                      | MP                            | Water   | 1         |
-| Ugo                        | Ship deck                  | Complete the Oar Collector Extermination request. [Details here](./port-town-grand-legion/requests-bondmates.md/#ugo-in-the-ships-hold)                                                       | ASPD                          | Wind    | 1         |
+| Water God's Ritual Regia   | Trade Waterways District 2 | Found after completing Water God Statue Resetoration Materials. [Details here](../bondmates/port-town-grand-legion/bondmates.md#water-god-priestess-regia)                                      | MP                            | Water   | 1         |
+| Ugo                        | Ship deck                  | Complete the Oar Collector Extermination request. [Details here](../bondmates/port-town-grand-legion/bondmates.md/#ugo-in-the-ships-hold)                                                       | ASPD                          | Wind    | 1         |
 
 ## Adventurer Bondmates
 
-- All adventurers can be bondmates if you dismiss them once they reach max [trust](../mechanics/trust/trust.md)
+- All adventurers can be bondmates if you dismiss them once they reach max [trust](../../mechanics/trust/trust.md)
 
-!!! note "Adventurer Trust Icon"
+??? note "Adventurer Trust Icon"
     ![](img/adventurer-trust-icon.png)
 
-!!! note "Adventurer Bondmate Example"
+??? note "Adventurer Bondmate Example"
     ![](img/adventurer-bondmate-example.png)
+
+* Dismissed heroes with the flaming heart icon become bondmates that give a bonus to a certain base attribute (+1..+5, depending on bondmate level).
+* The bondmate level of a dismissed adventurer seems to depend on the bondmates attached to it on dismissal. If the adventurer has two level 5 bondmates, the resulting bondmate will in most cases (but not always) be level 5 too. Attached bondmates are returned to the pool on dismissal and can be attached to someone else afterwards.
+    * It's possible that this is a bug, as it doesn't make a whole lot of sense to have an adventurer bondmate level depend on it having bondmates when dismissed, but stranger things have happened.
+* The quickest way to obtain a level 5 adventurer bondmate is to get them to level 30 (see xp farming) and bronze grade (see grade up exams), take them to beat Helmut and Octonarus, and if necessary finish with the well-known trust-farming methods (see affinity). When they have the flaming heart icon, attach two level 5 bondmates, then dismiss the hero.
+    * This process is much faster when using adventurers that match the main character‘s alignment. Often, just beating both greater warped ones and bronze grade will be enough for the flaming heart for matching alignments.
+    * There seems to be another factor, possibly a random element to this. Sometimes the resulting bondmate will be level 4 only. It is currently not known why.
+* Bonuses from two adventurer bondmates with the same attribute do not stack.
+    * This means that at most, you can only get up to +5 on a attribute from an adventurer bondmate. This severely limits the appeal of dismissing adventurers for bondmates, with the most common practical application of it being for speed tuning purposes.
+* Contrary to regular bondmates, there is no additional bonus when attaching an adventurer bondmate to a hero of the same element.
+
+| Bondmate   | Increased Attribute |
+| ---------- | ------------------- |
+| Alex       | VIT                 |
+| Asha       | IQ                  |
+| Barbara    | STR                 |
+| Benjamin   | STR                 |
+| Beast-Thi  | DEX                 |
+| Chloe      | STR                 |
+| Clarissa   | STR                 |
+| Debra      | SPD                 |
+| Dino       | IQ                  |
+| Dwarf-Kni  | VIT                 |
+| Elda       | STR                 |
+| Elf-Mag    | IQ                  |
+| Human-Fig  | STR                 |
+| Lanaville  | VIT                 |
+| Milana     | DEX                 |
+| Phillip    | SPD                 |
+| Viviana    | SPD                 |
+| Valdor     | IQ                  |
+| Yekatarina | IQ                  |
