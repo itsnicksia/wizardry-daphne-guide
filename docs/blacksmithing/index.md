@@ -1,20 +1,43 @@
-# Blacksmithing
+# Blacksmithing Basics
 
-## Basic Blacksmithing
+Blacksmithing offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 
-### Extraction
+![Image of an item highlighting innate attributes and Blessings](img/equipment.png)
+
+## Enhance
+ - Increases Enchantment Value up to a maximum of +20.
+ - Increases Innate Attributes
+ - At Enchantment Value +5, +10, +15 and +20, unlocks a new Blessing or improves an existing Blessing if one already exists in that slot.
+
+Requires **Gold** and **Iron Ore**.
+
+### Enchantment Inheritance
+
+An alternate method of enhancing equipment by sacrificing existing equipment.
+
+## Refine
+
+Refining an item increases the value of a substat and requires a Refinement Stone for that attribute.
+
+Refinement bonuses are lost if used before enhancing to +5, +10, +15, or +20.
+
+For example, you can safely (without losing the refinement):
+- Refine substat 1 after upgrading an item to +5.
+- Refine substat 1 or 2 after upgrading an item to +10.
+- Refine substat 1, 2 or 3 after upgrading an item to +15.
+- Refine any substat after upgrading an item to +20.
+
+Requires a matching Refinement Stone of the **Blessing** to improve.
+
+Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.
+
+## Extraction
 
 Extracting destroys an item, with a small chance of producing an Alteration Stone or Refinement Stone that can be used to modify or increase substats on items.
 
 The type of stone produced will be randomly selected from one of the substats on the item under extraction.
 
 Only weapons, armor and accessories can be extracted.
-
-### Refinement
-
-Refining an item increases the value of a substat, and requires a Refinement Stone.
-
-Refinement bonuses are lost when the substat is upgraded via Enchanting.
 
 ### Alteration
 
