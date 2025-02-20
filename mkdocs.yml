@@ -72,6 +72,8 @@ nav:
     - Port Town Grand Legion:
       - Requests: './walkthrough/2-port-town-grand-legion/requests.md'
       - Greater Warped One: './walkthrough/2-port-town-grand-legion/greater-warped-one.md'
+    - Garuda Fortress:
+        - Greater Warped One (WIP): './walkthrough/3-garuda-fortress/greater-warped-one.md'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
