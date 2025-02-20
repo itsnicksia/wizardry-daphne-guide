@@ -13,6 +13,7 @@
         ![](../img/flut-mage.jpg)
 
     === "Fighter"
+        ![](../img/flut-fighter.jpg)
 
     === "Holiday"
         ![](../img/flut-holiday.jpg)

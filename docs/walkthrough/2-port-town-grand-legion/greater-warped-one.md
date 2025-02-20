@@ -84,7 +84,7 @@ The path you choose is ultimately yours, and the only difference is with option 
 
 ## Octonarus
 
-Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../appendices/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where she will resurrect Melgina indefinitely. Not fun\!
+Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where she will resurrect Melgina indefinitely. Not fun\!
 
 1. Use the wheel to travel back to **One-Eyed Sahuagin** and speak to the Gessi destroying the statue using the “**Don’t you want to save Melgina**” option
 2. Use the wheel to travel back to **Flooded Town** and speak with Melgina using the “**Do you want to be free from Octonarus**” option

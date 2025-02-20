@@ -54,6 +54,7 @@
     | First Grade Up                                 | The Masked Adventurer was promoted to Lead Grade.                  |
     | Bronze Graded Adventurer                       | The Masked Adventurer was promoted to Bronze Grade.                |
     | Iron Graded Adventurer                         | The Masked Adventurer was promoted to Iron Grade.                  |
+    | Steel Graded Adventurer                        | The Masked Adventurer was promoted to Steel Grade.                 |
     | Lead Grade Party                               | 5 allies promoted to Lead Grade.                                   |
     | Lead Grade 2nd Party                           | 11 allies promoted to Lead Grade.                                  |
     | Lead Grade 3rd Party                           | 17 allies promoted to Lead Grade.                                  |
@@ -66,6 +67,10 @@
     | Iron Grade 2nd Party                           | 11 allies promoted to Iron Grade.                                  |
     | Iron Grade 3rd Party                           | 17 allies promoted to Iron Grade.                                  |
     | Iron Grade 4th Party                           | 23 allies promoted to Iron Grade.                                  |
+    | Steel Grade Party                              | 5 allies promoted to Steel Grade.                                  |
+    | Steel Grade 2nd Party                          | 11 allies promoted to Steel Grade.                                 |
+    | Steel Grade 3rd Party                          | 17 allies promoted to Steel Grade.                                 |
+    | Steel Grade 4th Party                          | 23 allies promoted to Steel Grade.                                 |
     | First Discipline                               | Attain Discipline Level 1.                                         |
     | Awakening to Talent                            | Attain Discipline Level 3.                                         |
     | State of Enlightenment                         | Attain Discipline Level 6.                                         |
@@ -78,7 +83,7 @@
     | Meeting a Bondmate                             | Someone you meet on your adventure becomes a Bondmate.             |
     | Meeting a Bondmate II                          | 10 people you meet on your adventure become Bondmates.             |
     | Meeting a Bondmate III                         | 20 people you meet on your adventure become Bondmates.             |
-    | Deepening Bond                                | A Bondmate you made on your adventure becomes Bond Level 5.        |
+    | Deepening Bond                                 | A Bondmate you made on your adventure becomes Bond Level 5.        |
     | In Traveling, a Companion, in Life, Compassion | 10 Bondmates you made on your adventure become Bond Level 5.       |
     | Fate-Bonding Journey                           | 30 Bondmates you made on your adventure become Bond Level 5.       |
     | First Camp                                     | Camp in a dungeon 1 time.                                          |

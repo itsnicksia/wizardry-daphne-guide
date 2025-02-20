@@ -74,6 +74,7 @@ nav:
       - Greater Warped One: './walkthrough/2-port-town-grand-legion/greater-warped-one.md'
     - Garuda Fortress:
         - Greater Warped One (WIP): './walkthrough/3-garuda-fortress/greater-warped-one.md'
+    - Grade Exams: './walkthrough/grade-exams/grade-exams.md'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
@@ -206,7 +207,14 @@ nav:
       - Viviana:
         - Details: './adventurers/general-adventurers/details/Viviana.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Viviana.md'
-  - Blacksmithing: './blacksmithing/index.md'
+  - Adventurer Customization:
+    - Blacksmithing: './adventurer-customization/blacksmithing/index.md'
+    - Bondmates:
+      - Bondmates Quicklist: './adventurer-customization/bondmates/bondmates-quicklist.md'
+      - Beginning Abyss: './adventurer-customization/bondmates/beginning-abyss/bondmates.md'
+      - Port Town Grand Legion: './adventurer-customization/bondmates/port-town-grand-legion/bondmates.md'
+    - Party Construction: './adventurer-customization/party-construction.md'
+    - Well of the Mind: './adventurer-customization/well-of-the-mind.md'
   - Mechanics:
     - Character Stats and Discipline: './mechanics/stats-and-discipline.md'
     - Damage Mechanics: './mechanics/damage-mechanics.md'
@@ -217,11 +225,9 @@ nav:
     - Boss Guide: './strategies/Boss-guide.md'
     - Combat Strategies: './strategies/combat-strategies.md'
     - Farming: './strategies/farming.md'
-    - Party Construction: './strategies/party-construction.md'
     - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
     - Powerleveling: './strategies/powerleveling.md'
     - Weapon Types: './strategies/weapon-types.md'
-  - Grade Exams: './grade-exams/grade-exams.md'
   - Maps:
     - World Map: './maps/world-map.md'
     - Beginning Abyss: './maps/beginning-abyss.md'
@@ -240,27 +246,16 @@ nav:
       - Maps and Text Guide: './events/labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
   - Appendices:
     - Achievements: './appendices/achievements.md'
-    - Bondmates:
-      - Bondmates Quicklist: './appendices/bondmates/bondmates-quicklist.md'
-      - Beginning Abyss: './appendices/bondmates/beginning-abyss/bondmates.md'
-      - Port Town Grand Legion: './appendices/bondmates/port-town-grand-legion/bondmates.md'
     - Cursed Wheel Causality:
         - Beginning Abyss: './appendices/wheel-causality/beginning-abyss.md'
         - Port Town Grand Legion: './appendices/wheel-causality/port-town-grand-legion.md'
     - Equipment:
         - Unique Equipment: './appendices/equipment/unique-equipment.md'
     - Enemies: './appendices/enemy-compendium.md'
-    - Guiding Light: './appendices/guiding-light.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'
     - Purchase Evaluation: './appendices/purchase-evaluation.md'
     - Purchaseable Skill Books: './appendices/purchaseable-skill-books.md'
     - Respawning Bone Locations: './appendices/respawning-bone-locations.md'
-    - Skills:
-      - Passive Skills: './appendices/skills/passive-skills.md'
-      - Active Skills: './appendices/skills/active-skills.md'
-      - Offensive Spells: './appendices/skills/offensive-spells.md'
-      - Debuff Spells: './appendices/skills/debuff-spells.md'
-      - Support Spells: './appendices/skills/support-spells.md'
-    - Well of the Mind: './appendices/well-of-the-mind.md'
+    - Skills and Spells: './appendices/skills-and-spells.md'
   - Playing on PC: './emulators/emulators.md'
   - About The Guide: './index.md'

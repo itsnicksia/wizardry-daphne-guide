@@ -25,7 +25,7 @@ When upgrading gear, keep the following in mind:
     * Higher-grade items receive greater stat increases at milestone upgrades.
         * To maximize your investment, avoid upgrading items that are below a +3 grade.
 
-Please see [the blacksmithing section](../blacksmithing/index.md) for more information about what you can do with your equipment.
+Please see [the blacksmithing section](../adventurer-customization/blacksmithing/index.md) for more information about what you can do with your equipment.
 
 ## Alternative Strategies:
 * If Earth gear isn’t available, upgrade your existing equipment to +4, +5, or higher to unlock or enhance weapon stats (e.g., from white-tier to green-tier gear).
