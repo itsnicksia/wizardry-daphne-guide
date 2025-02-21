@@ -1,6 +1,6 @@
 # Greater Warped One (WIP)
 
-This part of the guide is very much under construction - thank you your patience!
+!!! warning "Under Construction - thank you for your patience"
 
 ## Impregnable Fortress
 

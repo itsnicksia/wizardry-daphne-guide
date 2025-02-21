@@ -67,14 +67,23 @@ nav:
   - Walkthrough:
     - Introduction: './walkthrough/0-introduction/index.md'
     - Beginning Abyss:
+      - Maps: './walkthrough/1-beginning-abyss/maps.md'
       - Requests: './walkthrough/1-beginning-abyss/requests.md'
       - Greater Warped One: './walkthrough/1-beginning-abyss/greater-warped-one.md'
     - Port Town Grand Legion:
+      - Maps: './walkthrough/2-port-town-grand-legion/maps.md'
       - Requests: './walkthrough/2-port-town-grand-legion/requests.md'
       - Greater Warped One: './walkthrough/2-port-town-grand-legion/greater-warped-one.md'
     - Garuda Fortress:
-        - Greater Warped One (WIP): './walkthrough/3-garuda-fortress/greater-warped-one.md'
-    - Grade Exams: './walkthrough/grade-exams/grade-exams.md'
+      - Maps: './walkthrough/3-garuda-fortress/maps.md'
+      - Requests: './walkthrough/3-garuda-fortress/requests.md'
+      - Greater Warped One (WIP): './walkthrough/3-garuda-fortress/greater-warped-one.md'
+    - Ancient Mausoleum: './walkthrough/ancient-mausoleum/maps.md'
+    - Dens:
+      - Den of Earth: './walkthrough/dens/den-of-earth.md'
+      - Den of Fire: './walkthrough/dens/den-of-fire.md'
+      - Den of Wind: './walkthrough/dens/den-of-wind.md'
+    - Grade Exams: './walkthrough/grade-exams/maps.md'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:
@@ -228,14 +237,6 @@ nav:
     - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
     - Powerleveling: './strategies/powerleveling.md'
     - Weapon Types: './strategies/weapon-types.md'
-  - Maps:
-    - World Map: './maps/world-map.md'
-    - Beginning Abyss: './maps/beginning-abyss.md'
-    - Trade Waterways: './maps/trade-waterways.md'
-    - Ancient Mausoleum: './maps/ancient-mausoleum.md'
-    - Den of Earth: './maps/den-of-earth.md'
-    - Den of Fire: './maps/den-of-fire.md'
-    - Den of Wind: './maps/den-of-wind.md'
   - Events:
     - Lamp of Malice:
       - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'

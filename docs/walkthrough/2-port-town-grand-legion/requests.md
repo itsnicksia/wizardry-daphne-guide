@@ -1,7 +1,5 @@
 # Port Town Grand Legion - Requests
 
-!!! warning "Under Construction"
-
 ## Watery Obstacle
 
 ### Defend My Shop from Goblins
