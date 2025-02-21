@@ -1,15 +1,66 @@
 # Party Construction
 
-When organizing your party in _Wizardry_, proper formation plays a crucial role in survival and efficiency during combat. Below are examples of party formations, each with its strengths and ideal scenarios for use.
+When organizing your party in _Wizardry_, proper formation plays a crucial role in survival and efficiency during combat.
+
+## Synergies
+
+Synergy skills are passive bonuses that apply while in combat, and are generally focused on providing boosts to adventurers of a particular personality or type in a specific position within your party.
+
+=== "Personality Damage Buffs"
+
+    | Adventurer | Condition                                                        |
+    | ---------- | ---------------------------------------------------------------- |
+    | Alice      | All Evil/Neutral in same row, regardless of position             |
+    | Elise      | Self and Neutral ally if the Neutral ally is in front/behind her |
+    | Lanavaille | All Good/Neutral in same row, regardless of position             |
+    | Milana     | Self and Evil ally if the Evil Ally is in front/behind her       |
+
+=== "Type Damage Buffs"
+    | Adventurer | Condition                                                                      |
+    | ---------- | ------------------------------------------------------------------------------ |
+    | Jean       | If between 2 Earth, boost damage to Water enemies for Self and Adjacent Allies |
+    | Alex       | If between 2 Fire, boost damage to Wind enemies for Self and Adjacent Allies   |
+    | Flut       | If between 2 Water, boost damage to Fire enemies for Self and Adjacent Allies  |
+    | Jarmil     | If between 2 Wind, boost damage to Earth enemies for Self and Adjacent Allies  |
+	
+=== "Stat Buffs"
+
+    | Adventurer | Condition                                              |
+    | ---------- | ------------------------------------------------------ |
+    | Rinne      | Increases Surety for Self and all Adjacent Evil Allies |
+
+=== "Resistance Buffs"	
+
+    | Adventurer | Condition                                                                                            |
+    | ---------- | ---------------------------------------------------------------------------------------------------- |
+    | Red Beard  | Increases Tolerance of Insta-Kill, Skill-Binding and Spell-binding for Self and Adjacent Dark Allies |
+    | Asha       | Increases Tolerance of Poison, Paralysis and Stone for Self and Adjacent Good Allies                 |
+    | Galina     | Increases Tolerance of Critical, and Insta-Kill for Self and Adjacent Evil Allies                    |
+    | Olive      | Increases Tolerance of Curse, Skill-Binding and Fear for Self and Adjacent Good Allies               |
+    | Eldorado   | Increases Tolerance of Sleep and Stun for Self and Adjacent Good Allies                              |
+    | Clarissa   | Increases Tolerance of Confusion, Charm and Fear for Self and Adjacent Neutral Allies                |
+
+=== "Type Resistance Buffs"
+
+    | Adventurer | Condition                                        |
+    | ---------- | ------------------------------------------------ |
+    | Elda       | Reduces Dark-type Damage to Elves in same row    |
+    | Bakesh     | Reduces Earth-type Damage to Dwarves in same row |
+    | Eulalia    | Reduces Fire-type Damage to Elves in same row    |
+    | Emil       | Reduces Light-type Damage to Elves in same row   |
+    | Amelia     | Reduces Air-Type Damage to Beastfolk in same row |
+
+## Examples
+Below are examples of party formations, each with its strengths and ideal scenarios for use.
 
 Note that these are just suggestions—feel free to experiment and adapt to find strategies that suit your team!
 
-## Formation 1: Balanced Setup
+### Formation 1: Balanced Setup
 
 **Front Row:** Main Character, Knight, Fighter  
 **Back Row:** Priest, Thief, Mage
 
-### Overview:
+#### Overview:
 
 This formation offers a balanced approach, suitable for early to mid-game. The front row absorbs damage, while the back row provides support and deals consistent but manageable damage.
 
@@ -26,12 +77,12 @@ This formation offers a balanced approach, suitable for early to mid-game. The f
 
 Ideal for early-game content or when you need a reliable and straightforward approach to combat. This setup focuses on sustainability rather than overwhelming damage output.
 
-## Formation 2: Offensive Nuking Strategy
+### Formation 2: Offensive Nuking Strategy
 
 **Front Row:** Thief, Main Character, Fighter or Knight  
 **Back Row:** Priest, Mage, Mage
 
-### Overview:
+#### Overview:
 
 This formation prioritizes offensive capabilities and is most effective in late-game scenarios when resources, like mana, are abundant. The Thief in the frontline doubles as an evasive off-tank, enabling an aggressive backline setup.
 
@@ -62,12 +113,12 @@ This setup shines in late-game scenarios where mana is plentiful, allowing Mages
   - Use Formation 1 for prolonged battles where endurance matters.
   - Opt for Formation 2 when quick eliminations are needed.
 
-## Formation 3: Snooze Grind Setup for Farming (Den of Earth/Fire)
+### Formation 3: Snooze Grind Setup for Farming (Den of Earth/Fire)
 
 **Front Row:** Fighter, Knight, Thief  
 **Back Row:** Thief, Fighter, Priest or Mage
 
-### Overview:
+#### Overview:
 
 This composition emphasizes auto-attacks for efficient grinding, minimizing reliance on spells or resources.
 
@@ -97,14 +148,14 @@ This composition emphasizes auto-attacks for efficient grinding, minimizing reli
 
 Ideal for grinding in zones like the **Den of Earth** or **Den of Fire** at levels 40-50, where efficient resource use is critical.
 
-## Formation 4: Defensive Knight Strategy - Revolving Around Openings
+### Formation 4: Defensive Knight Strategy - Revolving Around Openings
 
 **Front Row:** Knight, Fighter, Fighter  
 **Back Row:** Priest, Mage, Thief
 
 **Alternative Setup:** Replace one Fighter with a Thief in the front row, and run two Mages in the back row.
 
-### Overview:
+#### Overview:
 
 This formation revolves around the Knight drawing enemy aggression and creating openings while the rest of the party exploits these opportunities for high damage.
 

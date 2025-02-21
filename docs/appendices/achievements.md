@@ -2,48 +2,51 @@
 
 === "Abyss"
 
-    | Name                                       | Description                                                                        |
-    | ------------------------------------------ | ---------------------------------------------------------------------------------- |
-    | Beginning Abyss B1F Clear                  | Make it all the way through B1F of the Beginning Abyss.                            |
-    | Beginning Abyss B2F Clear                  | Make it all the way through B2F of the Beginning Abyss.                            |
-    | Beginning Abyss B3F Clear                  | Make it all the way through B3F of the Beginning Abyss.                            |
-    | Beginning Abyss B4F Clear                  | Make it all the way through B4F of the Beginning Abyss.                            |
-    | Beginning Abyss B5F Clear                  | Make it all the way through B5F of the Beginning Abyss.                            |
-    | Beginning Abyss B6F Clear                  | Make it all the way through B6F of the Beginning Abyss.                            |
-    | Beginning Abyss B7F Clear                  | Make it all the way through B7F of the Beginning Abyss.                            |
-    | Beginning Abyss Greater Warped One Slain   | Slay the greater warped one of the Beginning Abyss.                                |
-    | Beginning Abyss, The King Rescued          | Slay the greater warped one of the Beginning Abyss and rescue King Iver.           |
-    | Trade Waterway 1st District Cleared        | Make it all the way through 1st district of the Trade Waterway.                    |
-    | Trade Waterway 2nd District Cleared        | Make it all the way through 2nd district of the Trade Waterway.                    |
-    | Trade Waterway 3rd District Cleared        | Make it all the way through 3rd district of the Trade Waterway.                    |
-    | Trade Waterway 4th District Cleared        | Make it all the way through 4th district of the Trade Waterway.                    |
-    | Trade Waterway 5th District Cleared        | Make it all the way through 5th district of the Trade Waterway.                    |
-    | Trade Waterway 6th District Cleared        | Make it all the way through 6th district of the Trade Waterway.                    |
-    | Trade Waterway 7th District Cleared        | Make it all the way through 7th district of the Trade Waterway.                    |
-    | Trade Waterway Shipboard 1st Level Cleared | Make it all the way through the first level of the galleon in the Trade Waterway.  |
-    | Trade Waterway Shipboard 2nd Level Cleared | Make it all the way through the second level of the galleon in the Trade Waterway. |
-    | Trade Waterway Greater Warped One Slain    | Slay the greater warped one of the Trade Waterway.                                 |
-    | They All Made it Out Alive                 | Successfully complete the mission without any of the knights dying.                |
-    | Reconciled with His Uncle                  | Albano and his uncle reconcile.                                                    |
-    | Leave It to Me                             | Take on and slay two Knight-Butcher Ents.                                          |
-    | I Knew It Was a Traaa--!                   | Everyone was caught by the trap with live bait and all were killed.                |
-    | Strategy Failed                            | Everyone was buried in the cave-in and all were killed.                            |
-    | True Freedom                               | Free Melgina and slay the greater warped one Octonarus.                            |
-    | Pirate's Hideout                           | Discover the forgotten pirate port.                                                |
-    | Rigged Match                               | Pickerel survives the Trade Waterway arena.                                        |
-    | Hey! Let me out!                           | Vernant survives the Trade Waterway arena.                                         |
-    | The Duo's Denouement                       | Bonnie and Clyde escape from the Trade Waterway.                                   |
-    | Match Crashing                             | Ruin someone else's match.                                                         |
-    | Sahuagin Curse                             | Win the match against Gessi by poisoning him.                                      |
-    | Carry the Underwater Battle                | Win the match against Gessi in an underwater battle.                               |
-    | Glug Glug Glug...                          | Win the match against Vernant in an underwater battle.                             |
-    | No Ruses                                   | Win the match against Vernant without using any tricks.                            |
-    | The Search for Aegon the Wise Complete     | Escort Aegon the Wise to the Royal Family.                                         |
-    | The Search for Egolion Complete            | Deliver Egolion to the Cathedral Church.                                           |
-    | The Search for Goetia the Mage Complete    | Deliver Goetia the Mage to the Admiral.                                            |
-    | Accompanying the Inspection                | Conduct an inspection of Guane's lands with Princess Pulgritte.                    |
-    | First Inquisition                          | Conduct an Inquisition in Guane's lands with Tenet.                                |
-    | Beastfolk Rescue Plan                      | Recover theee beastfolk from Guane's lands with Sagini.                            |
+    | Name                                                | Description                                                                        |
+    | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
+    | Beginning Abyss B1F Clear                           | Make it all the way through B1F of the Beginning Abyss.                            |
+    | Beginning Abyss B2F Clear                           | Make it all the way through B2F of the Beginning Abyss.                            |
+    | Beginning Abyss B3F Clear                           | Make it all the way through B3F of the Beginning Abyss.                            |
+    | Beginning Abyss B4F Clear                           | Make it all the way through B4F of the Beginning Abyss.                            |
+    | Beginning Abyss B5F Clear                           | Make it all the way through B5F of the Beginning Abyss.                            |
+    | Beginning Abyss B6F Clear                           | Make it all the way through B6F of the Beginning Abyss.                            |
+    | Beginning Abyss B7F Clear                           | Make it all the way through B7F of the Beginning Abyss.                            |
+    | Beginning Abyss Greater Warped One Slain            | Slay the greater warped one of the Beginning Abyss.                                |
+    | Beginning Abyss, The King Rescued                   | Slay the greater warped one of the Beginning Abyss and rescue King Iver.           |
+    | Trade Waterway 1st District Cleared                 | Make it all the way through 1st district of the Trade Waterway.                    |
+    | Trade Waterway 2nd District Cleared                 | Make it all the way through 2nd district of the Trade Waterway.                    |
+    | Trade Waterway 3rd District Cleared                 | Make it all the way through 3rd district of the Trade Waterway.                    |
+    | Trade Waterway 4th District Cleared                 | Make it all the way through 4th district of the Trade Waterway.                    |
+    | Trade Waterway 5th District Cleared                 | Make it all the way through 5th district of the Trade Waterway.                    |
+    | Trade Waterway 6th District Cleared                 | Make it all the way through 6th district of the Trade Waterway.                    |
+    | Trade Waterway 7th District Cleared                 | Make it all the way through 7th district of the Trade Waterway.                    |
+    | Trade Waterway Shipboard 1st Level Cleared          | Make it all the way through the first level of the galleon in the Trade Waterway.  |
+    | Trade Waterway Shipboard 2nd Level Cleared          | Make it all the way through the second level of the galleon in the Trade Waterway. |
+    | Trade Waterway Greater Warped One Slain             | Slay the greater warped one of the Trade Waterway.                                 |
+    | Impregnable Fortress -Old Secret Passage- Cleared   | Make it all the way through the Impregnable Fortress -Old Secret Passage-.         |
+    | Impregnable Fortress -Prehistoric Corridor- Cleared | Make it all the way through the Impregnable Fortress -Prehistoric Corridor-.       |
+    | They All Made it Out Alive                          | Successfully complete the mission without any of the knights dying.                |
+    | Reconciled with His Uncle                           | Albano and his uncle reconcile.                                                    |
+    | Leave It to Me                                      | Take on and slay two Knight-Butcher Ents.                                          |
+    | I Knew It Was a Traaa--!                            | Everyone was caught by the trap with live bait and all were killed.                |
+    | Strategy Failed                                     | Everyone was buried in the cave-in and all were killed.                            |
+    | True Freedom                                        | Free Melgina and slay the greater warped one Octonarus.                            |
+    | Pirate's Hideout                                    | Discover the forgotten pirate port.                                                |
+    | Rigged Match                                        | Pickerel survives the Trade Waterway arena.                                        |
+    | Hey! Let me out!                                    | Vernant survives the Trade Waterway arena.                                         |
+    | The Duo's Denouement                                | Bonnie and Clyde escape from the Trade Waterway.                                   |
+    | Match Crashing                                      | Ruin someone else's match.                                                         |
+    | Sahuagin Curse                                      | Win the match against Gessi by poisoning him.                                      |
+    | Carry the Underwater Battle                         | Win the match against Gessi in an underwater battle.                               |
+    | Glug Glug Glug...                                   | Win the match against Vernant in an underwater battle.                             |
+    | No Ruses                                            | Win the match against Vernant without using any tricks.                            |
+    | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
+    | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
+    | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
+    | Accompanying the Inspection                         | Conduct an inspection of Guane's lands with Princess Pulgritte.                    |
+    | First Inquisition                                   | Conduct an Inquisition in Guane's lands with Tenet.                                |
+    | Beastfolk Rescue Plan                               | Recover theee beastfolk from Guane's lands with Sagini.                            |
+    | To Know Poverty                                     | Princess Pulgritte learns the meaning of poverty.                                  |
 
 === "Adventurer"
 
