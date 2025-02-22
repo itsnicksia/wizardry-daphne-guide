@@ -37,6 +37,8 @@
 
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
     ![](./img/zone-7-prehistoric-corridor-b1f.jpg)
+![img.png](img.png)
+
 
 ??? map "Zone 8 -Fortress 1F Entrance-"
     ![](./img/zone-8-fortress-1f-entrance.jpg)
