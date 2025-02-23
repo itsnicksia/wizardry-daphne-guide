@@ -45,9 +45,7 @@ Refining an item modifies a substat, and requires an Alteration Stone.
 
 Alteration has some nuanced behavior to it.
 
-* If you didn’t alter a slot, after +5 the game locks you to only being able to alter a random slot that already passed its checkpoint (so at +5 you get locked to slot 1), and then may switch to a different slot when you pass that next slot’s checkpoint (at +10 it’s 50/50 for slots 1/2 and at +15 it’s 33/33/33 for 1/2/3 etc)
-* If you altered a slot before +5, you get locked to that slot until you enhance to its checkpoint +1… and then the game will roll an equal chance to switch you to one of the other checkpointed slots (it may just leave you on the same slot you already altered)
-* Altering a slot After it reached its checkpoint will remove both initial and checkpoint boosts
+* Altering a slot after it reached its checkpoint will remove both the initial Blessing and any enhancements and refinements, leaving the slot with just the value provided by the Alteration Stone.
 
 ### Enhancement Inheritance
 
