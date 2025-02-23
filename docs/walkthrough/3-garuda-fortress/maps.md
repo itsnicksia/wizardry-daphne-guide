@@ -36,8 +36,17 @@
     ![](./img/zone-6-prehistoric-corridor-b2f.jpg)
 
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
-    ![](./img/zone-7-prehistoric-corridor-b1f.jpg)
-![img.png](img.png)
+
+### Variation 1
+
+![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-1.jpg)
+
+### Variation 2 (Princess Route)
+
+![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-2.png)
+
+### Variation 3 (Princess Route)
+![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-3.png)
 
 
 ??? map "Zone 8 -Fortress 1F Entrance-"
