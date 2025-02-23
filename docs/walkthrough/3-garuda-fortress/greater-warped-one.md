@@ -4,9 +4,29 @@
 
 ## Snippets
 
-### Golem Doll Chain
-If it hasn't been posted here yet, in abyss 3 in zone 4 tunnel when you talk to the skellybro in 2nd run for a golem doll, you can trade it to dr. raimi at the tent for a mysterious root. Then apparently you can go to the royal capital and someone will trade it for a shiny rock (im not sure when this prompt comes up). You go back to guarda and trade it to the blacksmith who crafts a dagger with it. give the dagger to graham at the tent and he gives u a book
-go to tavern to trade for seeds
+### Corruption
 
-### Discarded Painting
-![img_1.png](img_1.png)
+Corruption is calculated from the number of times you're spotted by "alarm" sentries, not the ones you engage in combat.
+
+#### High Corruption
+
+Killed by Female Servant after defeating Greater Warped One
+
+#### Low or Medium Corruption:
+
+- Girl not saved: Killed by Alan (Male Servant) after defeating Greater Warped One
+- Girl saved: Betrayed by Dalian.
+
+Warning: Greater Warped One becomes very powerful at Low Corruption.
+
+### Golem Doll Chain
+
+Only available after defeating Abyss 3's Greater Warped One at least once. 
+
+1. In Zone 4 Tunnel, talk to a skeleton to receive a **Golem Doll**.
+2. Trade the **Golem Doll** to Dr Raimi at the tent in Zone 1 for a **Mysterious Root**.
+3. Go to the Royal Capital and trade it for a **Shiny Rock**. 
+4. Return to Guarda and trade the **Shiny Rock** to the blacksmith for a dagger with it. 
+5. Trade the dagger to Graham at the tent and you will receive a book.
+6. Go to Guarda Tavern to trade for Mysterious Seeds.
+7. After receiving the True (?) Ending, you can plant the Mysterious Seeds behind the tent to receive a Flower.

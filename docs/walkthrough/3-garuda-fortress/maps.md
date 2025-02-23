@@ -38,11 +38,9 @@
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
 
 ### Variation 1
-
 ![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-1.jpg)
 
 ### Variation 2 (Princess Route)
-
 ![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-2.png)
 
 ### Variation 3 (Princess Route)
