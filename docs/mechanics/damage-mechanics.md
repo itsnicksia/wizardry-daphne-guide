@@ -142,7 +142,7 @@ We've done some data collection and testing around this, and we've settled on a 
 `BuffedAttackPower = (AttackPower + 20 + SkillLevel) * (1.2 + (SkillLevel / 50))`
 
 ## Defense Reduction and Penetration
-There are two different types of modifiers that reduce defense. These are Defense Reduction and Defense Penetration. We're still working to confirm this, but from what we can tell, Defense Reduction stacks multiplicatively with Defense Penetration, but two spells or abilities from the same category do not stack with each other. This means that you can stack an axe or Precision Strike with MORLIS and get both the reduction and penetration applied, but you cannot stack an axe with Precision Strike and get penetration from both.
+There are two different types of modifiers that reduce defense. These are Defense Reduction and Defense Penetration. One key thing to note is that two sources of Defense Penetration do not stack (for example, Axes and Precision Strike do not stack together) but multiple sources of Defense Reduction do stack. This means it is possible to apply MORLIS, Armor Break, and Corrosion Dagger simultaneously.
 
 ### MORLIS
 MORLIS is an extremely handy spell that reduces an enemy's defense. This defense reduction is applied before subtracting the defense component in the damage formula. We don't have a great sense of the scale yet, but MORLIS at skill level 1 is roughly a 20% reduction in an enemy's defense.
