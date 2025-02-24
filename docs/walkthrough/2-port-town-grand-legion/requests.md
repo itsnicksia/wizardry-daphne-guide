@@ -20,7 +20,7 @@
 - Head to 2nd District \-Black Market- and defeat the 6 bands of fragment thieves  
 
 !!! note
-    If you want to be able to defeat all 6 bands you have to unlock the       power to turn off the statues by progressing the story into the drowning section of Flooded Town wheel warp.
+    If you want to be able to defeat all 6 bands you have to unlock the power to turn off the statues by progressing the story into the drowning section of Flooded Town wheel warp.
 
 ??? map "Locations"
     ![](img/image_4.png)

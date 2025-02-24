@@ -102,13 +102,11 @@
 Complete the Oar Collector Extermination request.
 
 - After defeating the final Oar Collector, you must suggest Ugo becomes an apprentice to Rickard.
-- Ugo will then randomly appear in the ship offering a variety of items for sale (It’s currently bugged and will crash the game if you choose to buy nothing).
-- You must buy something before he leaves. If you decide to buy everything, he gives you one extra Health Potion as a bonus.
+- Ugo will then randomly appear in the ship offering a variety of items for sale.
+    - You must meet him once in order to be able to get him as a bondmate.
+    - It is unknown whether it is necessary to buy something before he leaves. If you decide to buy everything, he gives you one extra Health Potion as a bonus.
 - After you defeat either of the Greater Warped Ones, return to Rickard shop and Ugo will be there.
   - It is possible to wheel forward to after defeating the Greater Warped Ones. You do not need to manually fight them. 
-
-!!! note
-    Due to the bugs relating to this quest, it’s currently unclear if Ugo is the same child who appears looking for his mother in the earlier maps (B1F and Ship’s Hold) and if interacting with him is needed for acquiring the bondmate. There's also no confirmation that buying anything from him is necessary.
 
 ## Arena Round 4
 

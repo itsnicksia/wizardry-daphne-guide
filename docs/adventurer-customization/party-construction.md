@@ -18,10 +18,10 @@ Synergy skills are passive bonuses that apply while in combat, and are generally
 === "Type Damage Buffs"
     | Adventurer | Condition                                                                      |
     | ---------- | ------------------------------------------------------------------------------ |
-    | Jean       | If between 2 Earth, boost damage to Water enemies for Self and Adjacent Allies |
     | Alex       | If between 2 Fire, boost damage to Wind enemies for Self and Adjacent Allies   |
     | Flut       | If between 2 Water, boost damage to Fire enemies for Self and Adjacent Allies  |
     | Jarmil     | If between 2 Wind, boost damage to Earth enemies for Self and Adjacent Allies  |
+    | Jean       | If between 2 Earth, boost damage to Water enemies for Self and Adjacent Allies |
 	
 === "Stat Buffs"
 
@@ -33,22 +33,23 @@ Synergy skills are passive bonuses that apply while in combat, and are generally
 
     | Adventurer | Condition                                                                                            |
     | ---------- | ---------------------------------------------------------------------------------------------------- |
-    | Red Beard  | Increases Tolerance of Insta-Kill, Skill-Binding and Spell-binding for Self and Adjacent Dark Allies |
     | Asha       | Increases Tolerance of Poison, Paralysis and Stone for Self and Adjacent Good Allies                 |
+    | Clarissa   | Increases Tolerance of Confusion, Charm and Fear for Self and Adjacent Neutral Allies                |
+    | Eldorado   | Increases Tolerance of Sleep and Stun for Self and Adjacent Good Allies                              |
     | Galina     | Increases Tolerance of Critical, and Insta-Kill for Self and Adjacent Evil Allies                    |
     | Olive      | Increases Tolerance of Curse, Skill-Binding and Fear for Self and Adjacent Good Allies               |
-    | Eldorado   | Increases Tolerance of Sleep and Stun for Self and Adjacent Good Allies                              |
-    | Clarissa   | Increases Tolerance of Confusion, Charm and Fear for Self and Adjacent Neutral Allies                |
+    | Red Beard  | Increases Tolerance of Insta-Kill, Skill-Binding and Spell-binding for Self and Adjacent Dark Allies |
 
 === "Type Resistance Buffs"
 
-    | Adventurer | Condition                                        |
-    | ---------- | ------------------------------------------------ |
-    | Elda       | Reduces Dark-type Damage to Elves in same row    |
-    | Bakesh     | Reduces Earth-type Damage to Dwarves in same row |
-    | Eulalia    | Reduces Fire-type Damage to Elves in same row    |
-    | Emil       | Reduces Light-type Damage to Elves in same row   |
-    | Amelia     | Reduces Air-Type Damage to Beastfolk in same row |
+    | Adventurer | Condition                                           |
+    | ---------- | --------------------------------------------------- |
+    | Amelia     | Reduces Air-Type damage to Beastfolk in same row    |
+    | Bakesh     | Reduces Earth-Type damage to Dwarves in same row    |
+    | Daniel     | Reduces Water-Type damage to Humans in the same row |
+    | Elda       | Reduces Dark-Type damage to Elves in same row       |
+    | Emil       | Reduces Light-Type damage to Elves in same row      |
+    | Eulalia    | Reduces Fire-Type damage to Elves in same row       |
 
 ## Examples
 Below are examples of party formations, each with its strengths and ideal scenarios for use.
