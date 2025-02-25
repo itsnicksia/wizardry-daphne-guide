@@ -84,22 +84,50 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 
 | Bondmate   | Increased Attribute |
 | ---------- | ------------------- |
+| Abenius    |                     |
+| Adam       |                     |
 | Alex       | VIT                 |
+| Alice      |                     |
+| Amelia     | SPD                 |
 | Asha       | IQ                  |
+| Bakesh     |                     |
 | Barbara    | STR                 |
 | Benjamin   | STR                 |
 | Beast-Thi  | DEX                 |
 | Chloe      | STR                 |
 | Clarissa   | STR                 |
+| Daniel     | STR                 |
 | Debra      | SPD                 |
 | Dino       | IQ                  |
 | Dwarf-Kni  | VIT                 |
+| Eckhart    | VIT                 |
 | Elda       | STR                 |
+| Eldorado   | VIT                 |
 | Elf-Mag    | IQ                  |
+| Elf-Pri    | PIE                 |
+| Elise      |                     |
+| Emil       |                     |
+| Eulalia    |                     |
+| Flut       |                     |
+| Galina     |                     |
+| Gandolfo   |                     |
+| Gaston     |                     |
+| Gerard     |                     |
+| Gerulf     |                     |
 | Human-Fig  | STR                 |
+| Human-Pri  |                     |
+| Jarmil     | IQ                  |
+| Jean       | DEX                 |
+| Kiriha     |                     |
 | Lanaville  | VIT                 |
+| Marianne   | PIE                 |
 | Milana     | DEX                 |
+| Olive      |                     |
+| Ophelia    | STR                 |
 | Phillip    | SPD                 |
+| Red Beard  |                     |
+| Rinne      |                     |
+| Savia      |                     |
 | Viviana    | SPD                 |
 | Valdor     | IQ                  |
 | Yekatarina | IQ                  |
