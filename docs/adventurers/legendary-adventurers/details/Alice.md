@@ -21,8 +21,8 @@
     === "Blessing of Agora"
         Adds 1 consecutive turn to buffs and debuffs applied by the user and increases MP. MP increase amount and growth amount of consecutive turns are reduced if learned by someone other than Alice.
         
-        !!! bug
-            There is potentially a bug with this skill. It currently boosts the turn duration for buffs and debuffs that cost MP, however it does not boost the duration of buffs/debuffs that cost SP
+        !!! warning
+            I have received confirmation from the support team that this skill is only intended to increase the duration of buff/debuff **spells**. By design, it does not increase the duration of buff/debuff **skills**.
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Agent of Heresy"
@@ -51,6 +51,6 @@
 
 ## Duplicate Usage
 
-* Inherit her skill on other buffers/debuffers you use. Note that this should include any damage dealers that have self-buffing or boss-debuffing capabilities.
+* Inherit her skill on other buffers/debuffers you use. As a reminder, this will only increase the duration of spells. It will not increase the duration of skills.
 * If you plan to use Alice, increasing her Discipline will increase her damage and healing.
 * Save for future use.
