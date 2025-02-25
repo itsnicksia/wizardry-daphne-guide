@@ -27,3 +27,9 @@ The villagers praised Chloe's prowess and she came to have pride in herself.
 Two years after that, she decided to leave the village despite her grandparents' protests.
 
 "I must find those beastfolk that are being abused by horrible humans, and this time I will help them!"
+
+### Page 4
+
+Upon arrival at the imperial capital, Chloe joined the Adventurer's Guild to earn money for her journey. Through her work, she met many different people. Each time, she was deeply hurt and cried like a little girl to the point of tears by them. And there were those who mocked and insulted her for being beastfolk.
+
+Whenever she got tired of that sort of life, she would return to her hometown, heal her mind and body, and then set off on another journey, for that was how Chloe had chosen to live.
