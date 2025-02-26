@@ -90,7 +90,7 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 | Alice      |                     |
 | Amelia     | SPD                 |
 | Asha       | IQ                  |
-| Bakesh     |                     |
+| Bakesh     | DEX                 |
 | Barbara    | STR                 |
 | Benjamin   | STR                 |
 | Beast-Thi  | DEX                 |
@@ -106,10 +106,10 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 | Elf-Mag    | IQ                  |
 | Elf-Pri    | PIE                 |
 | Elise      |                     |
-| Emil       |                     |
+| Emil       | PIE                 |
 | Eulalia    |                     |
-| Flut       |                     |
-| Galina     |                     |
+| Flut       | IQ                  |
+| Galina     | PIE                 |
 | Gandolfo   |                     |
 | Gaston     |                     |
 | Gerard     |                     |

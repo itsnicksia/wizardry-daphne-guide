@@ -9,34 +9,11 @@ We welcome contributions and corrections by the community so don’t hesitate to
 ## Maintainers
 
 - Baldcat
-- Koston
-- Lynd
-- SocialX
 - TheAxolotl
 
-## Contributors
+## Contributing
 
-- Adventurer
-- Aradace
-- CMRIDQ
-- DonPeter
-- Drane
-- Dune
-- L'Montes
-- Maohime
-- Millaren
-- Nanashii
-- NRJank
-- Ogarith
-- Poopenheimer
-- Proto
-- RavenArc
-- Salomae
-- tomato
-
-## Translators
-
-Nishi6990 (French)
+Do you want to contribute? If so, please follow these [environment setup steps](./contributing/setup-win32.md) and if you feel ambitious, you can check out our [style/syntax reference](./contributing/reference.md) to add some stylistic flair to your contributions.
 
 ## Resources
 
