@@ -10,21 +10,6 @@
 
 ??? map "Zone 3 -Old Secret Passage B3F-"
     ![](./img/zone-3-old-secret-passage-b3f.jpg)
-   
-??? note "Navigating Zones 2 and 3"
-    Zones 2 and 3 form an interconnected maze where you drop down holes and climb up ladders. In order to navigate to the exit, follow the paths marked on these maps:
-
-    1. Red
-    2. Orange
-    3. Drop down the north-west most pitfall trap and follow the Light Blue line to a lever. Hit the Lever to open the Red door that blocks the Light Orange path.
-    4. Light Orange
-    5. Green
-
-    ??? map "Zone 2 -Old Secret Passage B2F-"
-        ![](./img/zone-2-old-secret-passage-b2f-path.png)
-
-    ??? map "Zone 3 -Old Secret Passage B3F-"
-        ![](./img/zone-3-old-secret-passage-b3f-path.png)
 
 ??? map "Zone 4 -Tunnel-"
     ![](./img/zone-4-tunnel.jpg)
