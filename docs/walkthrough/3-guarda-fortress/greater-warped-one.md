@@ -145,7 +145,7 @@ Speak to the skeletons to acquire key Knowledge.
 #### Enemies
 - **NEW - Combat Sentry: Cyclops**
 - **NEW - Combat Sentry: Scorpion Queen**
-- ?
+- Corruption Sentry
 
 ### Zone 6 - Prehistoric Corridor B2F
 
@@ -209,7 +209,8 @@ Killed by the Duke's servant, Lily.
 
 #### Rewards
 
-- Well of the Mind Lantern (LUK)
+- Well of the Mind Lantern (VIT)
+  - The lantern is given when reversing the Golem, just before the fight against the Greater Warped One.
 
 ### Mandatory - Bad Ending 2
 

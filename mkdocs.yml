@@ -17,7 +17,7 @@ theme:
 extra:
   generator: false
 markdown_extensions:
-  - toc:
+  - toc(permalink=Link):
       toc_depth: 4
   - admonition
   - footnotes
