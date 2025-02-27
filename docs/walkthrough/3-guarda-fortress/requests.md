@@ -37,3 +37,7 @@ If you choose to save both the dog and adventurers at the same time, you will ne
 ##### Notes
 
 - If you only save the dog, you get nothing but the stated gold in the request. 
+
+## Special Thanks
+
+- Gagging
