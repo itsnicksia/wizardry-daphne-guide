@@ -105,20 +105,20 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 | Eldorado   | VIT                 |
 | Elf-Mag    | IQ                  |
 | Elf-Pri    | PIE                 |
-| Elise      |                     |
+| Elise      | STR                 |
 | Emil       | PIE                 |
-| Eulalia    |                     |
+| Eulalia    | VIT                 |
 | Flut       | IQ                  |
 | Galina     | PIE                 |
 | Gandolfo   |                     |
-| Gaston     |                     |
+| Gaston     | STR                 |
 | Gerard     |                     |
 | Gerulf     |                     |
 | Human-Fig  | STR                 |
 | Human-Pri  |                     |
 | Jarmil     | IQ                  |
 | Jean       | DEX                 |
-| Kiriha     |                     |
+| Kiriha     | DEX                 |
 | Lanaville  | VIT                 |
 | Marianne   | PIE                 |
 | Milana     | DEX                 |
