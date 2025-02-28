@@ -62,6 +62,12 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 | [Ugo in the Ship's Hold](./port-town-grand-legion/bondmates.md#ugo-in-the-ships-hold)         | Ship deck                  | Complete the Oar Collector Extermination request.                                                                                                                                             | ASPD                          | Wind    | 5         |
 | [Water God Priestess Regia](./port-town-grand-legion/bondmates.md#water-god-priestess-regia)  | Trade Waterways District 2 | Found after completing Water God Statue Restoration Materials                                                                                                                                 | MP                            | Water   | 1         |
 
+## Chapter 33 Bondmates
+
+| Bondmate                                                      | Location   | Details                              | Effect  | Element | Max Level |
+|:------------------------------------------------------------- |:---------- |:------------------------------------ |:------- |:------- |:--------- |
+| [Endy the Mage](./guarda-fortress/bondmates.md#endy-the-mage) | Side quest | Forbidden Area Search Escort request | Evasion | Fire    | 5         |
+
 ## Adventurer Bondmates
 
 - All adventurers can be bondmates if you dismiss them once they reach max [trust](../../mechanics/trust/trust.md)
