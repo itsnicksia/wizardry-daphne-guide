@@ -11,10 +11,6 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 
 Requires **Gold** and **Iron Ore**.
 
-### Enchantment Inheritance
-
-An alternate method of enhancing equipment by sacrificing existing equipment.
-
 ## Refine
 
 Refining an item increases the value of a substat and requires a Refinement Stone for that attribute.
@@ -41,7 +37,7 @@ Only weapons, armor and accessories can be extracted.
 
 ### Alteration
 
-Refining an item modifies a substat, and requires an Alteration Stone.
+Altering an item modifies a substat, and requires an Alteration Stone.
 
 Alteration has some nuanced behavior to it.
 

@@ -40,3 +40,18 @@
 
 - Boss is a Hydraplant and is weak to wind and can cause critical poison
 - Spawns with additional enemies but does not summon more
+
+## Steel Exam
+
+![](img/steel-grade-map.jpg)
+
+**Special Notes**
+
+- There is a single boss room and two paths to get there.
+    - The left path favors physical damage. All enemies have extremely high magic defense.
+    - The right path favors magic damage. All enemies have extremely high physical defense.
+- All enemies are stationary and you cannot avoid getting into fights.
+- The mage at the start tells you explicitly that you `won't be able to find any gaps to exploit`. This means that you are unable to rely on Openings as a strategy.
+- The boss encounter consists of a Minotaur and a Succubus together
+    - Kill the succubus first, then the Minotaur.
+    - Leverage DILTO, MORLIS, MACALDIA, and any other buff/debuff spells at your disposal.

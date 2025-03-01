@@ -1,8 +1,69 @@
-# Guarda Fortress
+# Impregnable Fortress
 
 !!! warning "Under Construction - thank you for your patience"
 
-### Man in Black
+## Request to Rescue the Duke
+
+## Infiltrating the Fortress
+
+## Hidden Passage
+
+## Secret Passage Minor Harken
+
+### Putting Evil Spirits to Rest
+
+- Go to Zone 1 and kill the 6 Poltergeist encounters.
+    - Encounters have 2 to 5 poltergeists
+    - After the 3rd and 4th encounters, your entire party will be paralyzed
+    - After the 5th encounter, your entire party will be critical poisoned
+    - After defeating the 6th encounter you receive a Lily of Eternity (sells for 92,000 gold)
+
+??? note "Tips"
+
+    - Bring Scrolls of Purification. All poltergeist encounters are in a single line and can be instakilled with MAREIN.
+    - Use CORTU to survive the MA- spells they throw out.
+
+??? map "Locations"
+    ![](./img/putting-evil-spirits-to-rest-locations.jpg)
+
+??? note "Reward"
+    ![](./img/putting-evil-spirits-to-rest-reward.jpg)
+
+## Enshadowed Well of Life
+
+## Secret Path Keeper Vanquished
+
+## Fortress Basement Arrival
+
+### Forbidden Area Search Escort
+
+You have to find an old mage three times, answer a trivia question and fight a battle each time. When you return to the guild (which happens automatically after the third encounter) Endy asks you a final question. The answer determines whether you get the bond or not. 
+
+??? map "Locations"
+    ![](./img/forbidden-search-area-escort-locations.png)
+
+??? note "Answers to the Old Man's questions"
+
+    - MAERLIK
+    - Guarda
+    - Luknalia
+    - Confusion
+    - Bugs
+    - MORLIS
+    - Level drain
+    - Opening the gate
+
+    !!! note
+        If you answer one of the old mage’s trivia questions wrong, the summoned opponents are much tougher than if you answer correctly. You can still get the bond with a wrong answer.
+        You can also restart the quest without wheeling around by returning to the adventurer’s guild, abandoning the request and then taking it again. 
+
+The correct answer to Endy's final question is "Nothing is more precious than life".
+
+## Fortress Lower Floors Cleared
+
+## Portrait Gallery Minor Harken
+
+## Man in Black
 
 ### Missing Companion
 
