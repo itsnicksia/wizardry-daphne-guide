@@ -18,6 +18,7 @@
 ### Warped One Vanquished
 
    1. Give the Defenders the shields when given the option.
+   2. Select party formation.
 
 ### Despicable Trap
 
