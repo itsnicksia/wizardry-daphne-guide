@@ -75,9 +75,7 @@
 
 ??? map "Location"
     ![](img/image_20.png)
-
-## Major Harken Unlocked
-
+ 
 ### Donato’s Redemption
 
 ??? info "Request"
