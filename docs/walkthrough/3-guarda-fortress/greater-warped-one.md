@@ -267,10 +267,25 @@ Saved the Duke, but did not find the culprit behind the sinister events in Guard
 
 #### Outcome
 
-???
+Saved the Duke and apprehended the culprit.
 
 #### Requirements
-???
+1. Meet the Duke's party.
+2. Save Liam and notify Alan when meeting the Duke's party.
+3. Give Guardian Knight Dalian evidence of the Duke's betrayal.
+4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+
+#### Walkthrough
+• Warp to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon.
+• Warp to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
+• Enter room and interact with all the items in the room. Make sure to pick up the Master Key.
+• Warp to Zone 8 and loot Elequon's room.
+• Warp to Zone 9 but do not enter the blackmail evidence room, as it will trigger Corruption.
+• Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
+• Travel to Royal Capital Luknalia and gamble with the swindlers.
+• Head back to the culprit's room and solve the Statue Puzzle from the hints on the floor.
+• Head to the culprit's room and give the evidence to old man.
+• Defeat the Greater Warped One.
 
 #### Rewards
 
