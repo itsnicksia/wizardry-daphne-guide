@@ -222,7 +222,7 @@ Executed in town due to accusations by Guardian Knight Dalian.
 
 1. Meet the Duke's party.
 2. Save a young girl named Liam (Alan and Lily's daughter) and notify Alan when meeting the Duke's party.
-3. Fail to give Guardian Knight Dalian evidence of the Duke's betrayal.
+3. Fail to give "Blackmail Evidence" to Guardian Knight Dalian.
 4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
 
 #### Rewards
