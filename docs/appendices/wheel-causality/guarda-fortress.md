@@ -32,3 +32,7 @@
 ## Fortress Lower Floors Cleared
 
 ## Portrait Gallery Minor Harken
+
+## Ghosts of Yore Vanquished
+
+## Fortress 2F Minor Harken
