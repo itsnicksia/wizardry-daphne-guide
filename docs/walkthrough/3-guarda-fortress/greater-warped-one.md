@@ -7,7 +7,7 @@
 There are three routes to choose for the Gaurda Fortress Abyss:
 
 1. Princess Pulgritte
-2. Pontiff Pontiffman
+2. Pontiff Dua Lipa
 3. Admiral Avare
 
 ## Key Mechanics
@@ -259,6 +259,21 @@ Saved the Duke, but did not find the culprit behind the sinister events in Guard
 3. Give Guardian Knight Dalian evidence of the Duke's betrayal.
 4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
 
+##### Saving Liam
+
+You can save Liam once you receive "Lily and Alan's Guild Request".
+
+I recommend completing all steps without spending time elsewhere, as it may result in Liam dying after the ending.
+
+1. Post the request to the Guild.
+2. Choose to use a dog when given the option.
+3. Tell the Houndmaster: "I love dogs".
+4. Ask the Houndmaster what to get for the dog.
+5. Buy 10 Meat from the Merchant in Town.
+6. Travel to Zone 8 to retrieve wheat.
+7. Return to Town.
+8. Kill the kidnappers.
+
 #### Rewards
 
 - Well of the Mind Lantern (DEX)
@@ -267,29 +282,31 @@ Saved the Duke, but did not find the culprit behind the sinister events in Guard
 
 #### Outcome
 
-Saved the Duke and apprehended the culprit.
+Saved the Duke and apprehended the mastermind.
 
 #### Requirements
 1. Meet the Duke's party.
 2. Save Liam and notify Alan when meeting the Duke's party.
-3. Give Guardian Knight Dalian evidence of the Duke's betrayal.
-4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+3. Give "Blackmail Evidence" to Guardian Knight Dalian.
+4. Give "Mastermind Evidence" to Clementine.
+5. Defeat the Greater Warped One of the Guarda Fortress Abyss.
 
 #### Walkthrough
-• Warp to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon.
-• Warp to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
-• Enter room and interact with all the items in the room. Make sure to pick up the Master Key.
-• Warp to Zone 8 and loot Elequon's room.
-• Warp to Zone 9 but do not enter the blackmail evidence room, as it will trigger Corruption.
-• Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
-• Travel to Royal Capital Luknalia and gamble with the swindlers.
-• Head back to the culprit's room and solve the Statue Puzzle from the hints on the floor.
-• Head to the culprit's room and give the evidence to old man.
-• Defeat the Greater Warped One.
+
+1. Warp to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon.
+2. Warp to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
+3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key.
+4. Warp to Zone 8 and loot Elequon's room.
+5. Warp to Zone 9 but do not enter the blackmail evidence room, as it will trigger Corruption.
+6. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
+7. Travel to Royal Capital Luknalia and gamble with the swindlers.
+8. Head back to the culprit's room and solve the Statue Puzzle from the hints on the floor.
+9. Head to the culprit's room and give the evidence to Clementine.
+10. Defeat the Greater Warped One.
 
 #### Rewards
 
-???
+- Well of the Mind Lantern (LUC)
 
 ## Special Thanks
 
