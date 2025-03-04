@@ -73,7 +73,7 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 - Liam (Alan and Lily's daughter) survives the ending.
 - Hound companion survives.
 
-!!! danger This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss.
+!!! danger "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
 
 #### Walkthrough
 
