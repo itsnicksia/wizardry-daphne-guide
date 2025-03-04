@@ -16,7 +16,7 @@ These strategies are effective in both early-game when your resources are low an
         * Defense increases survivability by boosting stats and reducing damage taken.
         * Exploiting Openings to deal significant damage, turning the tide of battle.
 
-## Sleep Tactics (Katino):
+## Sleep Tactics (KATINO):
 * Why Use Sleep?
     * Sleep is a cheap and effective crowd-control spell that targets a row of enemies.
     * It reduces enemy actions by forcing them to "skip" their turn while trying to wake up.
@@ -28,6 +28,17 @@ These strategies are effective in both early-game when your resources are low an
     * Key Tips:
         * Even at Rank 1, Sleep remains effective up to level 50.
         * If available, use characters who can inherit Asha’s Sleep skill for added versatility.
+
+## Spell Bind (MONTINO)
+* Against most enemies that use spells, the spell MONTINO will be able to inflict Spell Bind with a high success rate. Spell Bind counts as an affliction, not a debuff, and does not have a limited turn duration - once applied, it remains applied for the duration of the battle.
+
+## Confusion (KANTIOS)
+* At level 40, Mages will learn KANTIOS, which inflicts Confusion.
+* A Confused enemy will target a random character or enemy with a basic physical attack.
+    * This can be extremely helpful if you're wanting to disrupt an enemy's ability to use skills or spells.
+        * If you're fighting an enemy with a powerful special attack, such as Scurvy Breath or Seduction, and Sleep isn't working, you can try inflicting Confusion instead.
+        * Another noteworthy use of this is confusing a Scorpion Lady after she uses her Build-Up charge attack. You can confuse her after she uses build-up, and as long as the confusion isn't broken, the next attack will be a basic one.
+* Confusion has a chance to break when you attack an enemy, so be mindful of when you apply it and what you have your other adventurers do with their turns after applying it.
 
 ## Delay Attack
 A useful tactic for dealing with stronger enemies and bosses is leveraging the Thief’s skill, Delay Attack. This ability can be particularly effective in controlling the flow of battle.
