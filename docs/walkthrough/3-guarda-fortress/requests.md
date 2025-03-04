@@ -84,11 +84,11 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 
 **Boss: Offensive Golem**
 
-Will buff itself with an attack + accuracy buff for 4 turns, and it will have the capacity to one shot even tanks that are defending. It will generally spam an AOE frontline attack, but can sometimes do a column attack. Very rarely, it will decide to basic attack. Every 4 turns, it will rebuff itself for another 4 turns.
+Will buff itself with an attack + accuracy buff for 4 turns, and it will have the capacity to one shot even tanks that are defending. It will generally spam an AOE frontline attack, but can sometimes do a column attack. Very rarely, it will decide to basic attack. Every 4 turns, it will rebuff itself for another 4 turns. When it's about to die, it will buff itself with an accuracy buff and damage buff for 4 turns that isn't as strong as its usual buff. However, the attack buff does not stack with the other attack buff, but the accuracy buffs stack.
 
 **Boss: Defensive Golem**
 
-It will buff itself on turn 1 with invulnerability (it will take 0 damage permanently). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the invulnerability (despite it having no duration).
+It will buff itself on turn 1 with invulnerability (it will take 0 damage permanently). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the invulnerability (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns.
 
 ##### Saving the Dog and Adventurers
 
@@ -96,20 +96,22 @@ If you choose to save both the dog and adventurers at the same time, you will ne
 
 ##### Strategy
 
-Frontline:
+^^Frontline:^^
 Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing preferably at lvl 3, but no higher. It's also preferable to have entire inventories of Ultra Healing.
 
-Backline:
-Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing as well at lvl 1, any higher isnt necessary but lvl 3 is the highest you need.
+^^Backline:^^
+Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing as well at lvl 1, any higher isnt necessary but lvl 3 is the highest you need. Bring as many SP and MP pots as possible. This can be a long battle.
 
-Strategy:
+^^Strategy:^^
 If your team is fast enough, you have 1 turn to burn the defense golem for as much HP as possible in 1 turn. You need to use defense penetration skills or extremely high level skills, otherwise you will do nothing substantial. 
 
-Once the golems buff, you must have the ninja use dissipation on the offensive golem. All units should defend at this point and wait for one of the golems to cause an opening. On average, the offensive golem hits for 200-250 to defending frontline without his damage buff.
+Once the golems buff, ==you must have the ninja use dissipation on the offensive golem==. All units should defend at this point and wait for one of the golems to cause an opening. On average, the offensive golem hits for 200-250 to defending frontline without his damage buff.
 
-Once an opening is created, have your backline opening-hitter do their strongest move against the golem. Every 4 turns, the golems will rebuff. You can tell when they are about to rebuff when the offensive golem has 1 turn of accuracy buff left. At this time it is safe to not defend with frontline and use Self-healing or Potions. This will keep MP costs down, but if you don't have a lot of MP, then it's okay to run another priest/mage with heals.
+Once an opening is created, have your backline opening-hitter do their strongest move against the golem. Every 4 turns, the golems will rebuff. You can tell when they are about to rebuff when the offensive golem has 1 turn of accuracy buff left. At this time it is safe to not defend with frontline and use Self-healing or Potions. This will keep MP costs down, but if you don't have a lot of MP, then it's okay to run another priest/mage with heals. 
 
-Repeat until both are dead. Use heals as often as possible. Makaltu might be worth using at low levels to reduce ur overall mp cost in the fight by a bit but it's not necessary, and you will die regardless if the offensive golem moves to the frontline and attacks with the damage buff up.
+Repeat until both are dead. Use heals as often as possible. Makaltu might be worth using at low levels to reduce ur overall mp cost in the fight by a bit but it's not necessary, and you will die regardless if the offensive golem moves to the frontline and attacks with the damage buff up. 
+
+The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reache's near death. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left.
 
 ##### Notes
 
@@ -141,19 +143,20 @@ This boss will always act three times at the start of the fight. It will cast "S
 
 ##### Strategy
 
-Frontline:
+^^Frontline:^^
 Preferably very tanky damage dealers Fighters are preferred (as they have Full Power Strike), but Knights can be used too for DPS purposes if they have high level damage skills. Try not to use Light element adventurers, as all the damage done by the enemies are Dark. It's almost MANDATORY to have Assault guard level 1 on all the frontline (Not necessary if you have Undead Resistance and/or Dark Element).
 
-Backline:
+^^Backline:^^
 Two priests are preferred, especially if at least one of them can cast mage skills (Kantios). They ideally should both have Madios LvL 3+ and Makaltu Lvl 3+. If you do not have a Knight in the frontline OR are using the Knight for DPS purposes only, you ==WILL need a knight SPECIFICALLY to cast Knight's Defense.== Assault Guard is preferred on all the backline as well.
 
-The Knight casting Knight's Defense needs to be slower than all other party members, but still be around ~70 ASPD give or take a few to not be outsped later in the fight by the Necrocore.
+==The Knight casting Knight's Defense needs to be slower than all other party members==, but still be around ~70 ASPD give or take a few to not be outsped later in the fight by the Necrocore.
 
-Strategy:
+^^Strategy:^^
 Essentially, this fight is a DPS race to see whether your team can kill the Necrocore before it wipes your team. The fight will ALWAYS start out as an Ambush, and as such, the Necrocore always gets a free hit on your party. He hits EXTREMELY hard and easily deals 500+ damage on an assault guarded frontline with 300+ defense. It's acceptable to restart if he does Spear Thrust instead of Zelos or Mazelos, as those are not affected by the attack buff he casts. Essentially you will be spamming Full Power Strike on Fighters OR Heavy Attack/Precision Strike/Armor Pierce LVL 3+ every turn on ONLY the Necrocore, as the fight will end once the Necrocore dies. Makaltu will help a lot with surviving the onslaught of damage every turn, as it's quite a lot EVEN with Knight's Defense. Two priests are preferred, as you often will need to cast Madios Lvl 3+ on both rows. When you do not need to heal, attempt to cast Kantios on the back row and then the front row. This will reduce the amount of damage you may take, as most of the basic enemies have Instant Kill moves or skills that deal a lot of AOE damage. It's also preferrable for the support adventurers to carry nourishing draught if you need more turns to deal with the Necrocore.
 
 ##### Notes
 - If you die, you don't need to use any Flame of Resurrection as there is a Harken nearby, but you will still lose 5 fortitude on all allies.
+- Dissipation does not work here very well, as the Necrocore can rebuff at any time. In addition, the attack buff is dispelled after the accuracy buff, and the defense buff is not dispellable despite being multi-turn.
 
 ##### Rewards
 - You will obtain "Graham, Knight Commander of Guarda" as a bondmate, who is a fire element bondmate with Attack Power and Stone Resistance.
