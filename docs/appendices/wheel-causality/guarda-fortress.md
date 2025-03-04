@@ -10,22 +10,22 @@
 
 ## Enshadowed Well of Life
 
-### TBD
+### Corrosion Sentry
 
-* TBD
-* TBD
+* Spotted
+* Not spotted
 
 ## Secret Path Keeper Vanquished
 
-### TBD
+### South Corrosion Sentry
 
-* TBD
-* TBD
+* Spotted
+* Not spotted
 
-### TBD
+### Central Corrosion Sentry
 
-* TBD
-* TBD
+* Spotted
+* Not spotted
 
 ## Fortress Basement Arrival
 
@@ -36,3 +36,10 @@
 ## Ghosts of Yore Vanquished
 
 ## Fortress 2F Minor Harken
+
+## Fortress 3rd Floor Arrival
+
+### 1F Southwest Corrosion Sentry
+
+* Spotted
+* Not spotted
