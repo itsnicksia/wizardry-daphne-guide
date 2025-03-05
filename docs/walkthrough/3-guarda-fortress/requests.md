@@ -142,6 +142,21 @@
 
 ## Fortress 2F Minor Harken
 
+### Water Hauling
+
+##### Walkthrough
+- Harken to Zone 9 and walk all the way to the indicated location (maps may be different due to Abyss 3 variation, so look for similar room formats).
+- You will need to fetch water from the Zone 10 fountain. Head over there, but make sure you know the path back and forth very well.
+- Restore the fountain, but ==DO NOT CAMP== at the fountain as it will drain all the water, thus cancelling the request. You must bring the water back to the pot in Zone 9.
+- In every room on the way back to Zone 9, there will be several encounters with common Zone 9 monsters. There may be 1-3 encounters per room. Engaging in a fight accidentally will make you spill your water.
+- In order to get the true reward for this, you must not engage in combat at all, and thus filling the pot completely in one run.
+
+??? map "Locations"
+    ![](./img/water_hauling_request_location.png)
+
+##### Rewards
+- If you don't spill any water on the way back, you will obtain "Brita the Lazy Handmaiden" as a bondmate, who is a ???? element bondmate that grants Charm Tolerance.
+
 ## Fortress 3rd Floor Arrival
 
 ## Triumphant Return
