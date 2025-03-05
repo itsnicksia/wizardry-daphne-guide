@@ -38,14 +38,24 @@
 ##### Walkthrough
 
 - Pick up the brick connoisseur at the tavern upon taking the request.
-- Go to **Zone 2 -Old Secret Passage B2F-** to begin.
+- Go to **Zone 2 -Old Secret Passage B2F-** to begin. It is faster to take the Zone 3 Harken and take the stairs up to Zone 2.
 - There will be 4 locations where you need to fight varying amounts of Sand Apparitions. The brick you need to interact with will be right next to the fights.
 - Return to tavern and watch him get arrested for trespassing if you have discovered all 4 brick types.
 
 ??? map "Locations"
+    ![](./img/bodyguard_brick_request.jpg)
+
+##### Enemies
+- Middle Left marker - 4 total Sand Apparitions. 2 front, 2 back
+- Bottom Middle marker - 8 total Sand Apparitions. 3 front, 3 middle, 2 back
+- Middle Middle marker - 1 total Sand Apparition. (This is the inaccessible brick on 1st run of Abyss 3)
+- Top Left marker - 2 total Sand Apparitions.
+
+##### Note
+- If you rerun this request, Lulu will give you the option of telling him he is going to get arrested at the tavern. Doing so will not grant the bondmate, but Hans will give you a Crimson Lustrous Ore (9000g) for your troubles.
 
 ##### Rewards
-- If obtaining all 4 brick types, obtain "Enthusiastic Carpenter Hans" as a bondmate, who is an earth element bondmate that gives Resistance.
+- If obtaining all 4 brick types + returning to tavern, obtain "Enthusiastic Carpenter Hans" as a bondmate, who is an earth element bondmate that gives Resistance.
 
 ## Secret Path Keeper Vanquished
 
