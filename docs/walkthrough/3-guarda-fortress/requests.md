@@ -131,7 +131,7 @@
 
 ##### Requirements
 
-- Attained [Guarda Fortress Abyss Good](./greater-warped-one.md#good-ending)
+- Attained [Guarda Fortress Abyss Good Ending](./greater-warped-one.md#good-ending)
 
 ##### Walkthrough
 
