@@ -73,7 +73,7 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 - Liam (Alan and Lily's daughter) survives the ending.
 - Hound companion survives.
 
-!!! danger "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
+!!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
 
 #### Walkthrough
 
@@ -81,6 +81,9 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 2. Head to **Zone 5 -Prehistoric Corridor B3F-** and seek out the dog and adventurers.
 
 ##### Enemies
+
+!!! danger "Enemies"
+    ![](./img/golem_request_fight.png)
 
 **Boss: Offensive Golem**
 
@@ -128,7 +131,7 @@ The defensive golem will likely die first, and the offensive golem will actually
 
 - Attained [Guarda Fortress Abyss True Ending](./greater-warped-one.md#true-ending)
 
-!!! danger "This request leads to a boss fight that is arguably more difficult than that of the average fight with the GWO of this abyss."
+!!! warning "This request leads to a boss fight that is arguably more difficult than that of the average fight with the GWO of this abyss."
 
 #### Walkthrough
 
@@ -136,6 +139,9 @@ The defensive golem will likely die first, and the offensive golem will actually
 2. Head to **Zone 3 -Old Secret Passage B3F-** and walk slightly north of the Harken.
 
 ##### Enemies
+
+!!! danger "Enemies"
+    ![](./img/necrocore_request_fight.png)
 
 **Boss: Necrocore**
 
