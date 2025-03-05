@@ -95,6 +95,7 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 - Return to Zone 4 and talk to the Singing Skeleton for the reward.
 
 ??? map "Locations"
+    ![](./img/missing_person_location.png)
 
 ##### Note
 - The map location shown is what the hallway looks like. It can be in different locations depending on the map variation. If the quest does not trigger at that spot, it will trigger in topmost room across from the hallway.
