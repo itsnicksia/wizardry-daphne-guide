@@ -31,6 +31,22 @@
 
 ## Enshadowed Well of Life
 
+### Bodyguard for Ruins Exploration
+
+!!! warning "This request cannot be fully completed until the second run of Abyss 3, after the main character learns the right hand technique for this abyss."
+
+##### Walkthrough
+
+- Pick up the brick connoisseur at the tavern upon taking the request.
+- Go to **Zone 2 -Old Secret Passage B2F-** to begin.
+- There will be 4 locations where you need to fight varying amounts of Sand Apparitions. The brick you need to interact with will be right next to the fights.
+- Return to tavern and watch him get arrested for trespassing if you have discovered all 4 brick types.
+
+??? map "Locations"
+
+##### Rewards
+- If obtaining all 4 brick types, obtain "brick guy" as a bondmate, who is an earth element bondmate that gives Resistance.
+
 ## Secret Path Keeper Vanquished
 
 ## Fortress Basement Arrival
@@ -59,9 +75,29 @@ You have to find an old mage three times, answer a trivia question and fight a b
 
 The correct answer to Endy's final question is "Nothing is more precious than life".
 
+##### Rewards
+- If Endy's final question is answered correctly, obtain "Endy" as a bondmate, who is a fire element bondmate that gives Evasion.
+
 ## Fortress Lower Floors Cleared
 
 ## Portrait Gallery Minor Harken
+
+### Search for Missing Person
+
+!!! warning "As of version 1.4.0, this quest is bugged sometimes. The trigger for the quest does not activate properly, and is instead in a different room"
+
+##### Walkthrough
+- Go to **Zone 4 -Underground Tunnel-** to talk to the Singing Skeleton right next to the Harken to accept the request.
+- Go to **Zone 5 -Prehistoric Corridor B3F-** via stairs from Zone 4, as this is usually closer to quest location.
+- Look for the specific dead end corridor that has the encounter.
+- You will enter a fight similar to the necromancer sentry battles in Zone 1 to Zone 3. However, the Mage Skeleton in this fight can cast CC outside of its turn.
+- Win the fight within a certain number of turns.
+- Return to Zone 4 and talk to the Singing Skeleton for the reward.
+
+??? map "Locations"
+
+##### Rewards
+- Returning the skeleton's friend will grant 2 random Abyss 3 junks and the bondmate "Singing Skeleton in the Tunnel, who is a dark element bondmate that gives defense power.
 
 ## Ghosts of Yore Vanquished
 
@@ -75,7 +111,7 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 
 ##### Requirements
 
-- Attained [Guarda Fortress Abyss Good/True Ending](./greater-warped-one.md#good-ending)
+- Attained [Guarda Fortress Abyss Good](./greater-warped-one.md#good-ending)
 
 ##### Walkthrough
 
