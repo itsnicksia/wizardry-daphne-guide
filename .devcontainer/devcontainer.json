@@ -1,0 +1,22 @@
+{
+  "name": "WizDaphne Guide",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
+  // Use 'postCreateCommand' to run commands after the container is created.
+  "postCreateCommand": "pip3 install --user -r requirements.txt && mkdocs serve",
+  "portsAttributes": {
+    "8000": {
+      "label": "WizDaphne Guide",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "extensions": [
+          "GitHub.vscode-pull-request-github"
+        ]
+      }
+    }
+  }
+}
