@@ -63,11 +63,41 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 
 ## Portrait Gallery Minor Harken
 
-## Man in Black
+## Ghosts of Yore Vanquished
 
-## Missing Companion
+## Fortress 2F Minor Harken
 
-#### Requirements
+## Fortress 3rd Floor Arrival
+
+## Triumphant Return
+
+### Expedition to Clear the Fortress Lower Levels
+
+##### Requirements
+
+- Attained [Guarda Fortress Abyss Good/True Ending](./greater-warped-one.md#good-ending)
+
+##### Walkthrough
+
+- Go to **Zone 6 -Prehistoric Corridor B2F-** and walk a few steps out of the Harken room
+- Engage in 3 back-to-back fights and win.
+- Return to Tavern for reward.
+
+##### Enemies
+
+- 1st Battle: 1 Necrocore + 1 Poltergeist in the front row. 1 Giant Skeleton + 1 Poltergeist in the back row.
+- 2nd Battle: 1 Minotaur + 1 Gorgon in the front row. 1 Chimera in the back row.
+- 3rd Battle: 2 Greater Demons in the front row. When one dies, the other enters a rage mode.
+
+##### Rewards
+
+- "Duke Ixion" as a bondmate, who is a light element bondmate that gives Magic Power + MP
+- Handkerchief Embroidered with Gold Thread (can sell for 100k)
+- Knight's Cloak (White 1* trinket with "Way of the Knight")
+
+### Missing Companion
+
+##### Requirements
 
 - Attained [Guarda Fortress Abyss Good/True Ending](./greater-warped-one.md#good-ending) (needs confirmation).
 - Liam (Alan and Lily's daughter) survives the ending.
@@ -75,7 +105,7 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
 
-#### Walkthrough
+##### Walkthrough
 
 1. After accepting the quest, head to Edge of Town to receive more information.
 2. Head to **Zone 5 -Prehistoric Corridor B3F-** and seek out the dog and adventurers.
@@ -123,17 +153,17 @@ The defensive golem will likely die first, and the offensive golem will actually
 
 ##### Rewards
 
-- If you save both the dog and the adventurers, you will receive the bondmate "Eugen and Bibi" which is a void-type bondmate with confusion tolerance.
+- If you save both the dog and the adventurers, you will receive the bondmate "Eugen and Bibi" which is a void element bondmate with confusion tolerance.
 
-## Emergency Occurrence
+### Emergency Occurrence
 
-#### Requirements
+##### Requirements
 
 - Attained [Guarda Fortress Abyss True Ending](./greater-warped-one.md#true-ending)
 
 !!! warning "This request leads to a boss fight that is arguably more difficult than that of the average fight with the GWO of this abyss."
 
-#### Walkthrough
+##### Walkthrough
 
 1. After accepting the quest, head to Edge of Town to receive more information.
 2. Head to **Zone 3 -Old Secret Passage B3F-** and walk slightly north of the Harken.
