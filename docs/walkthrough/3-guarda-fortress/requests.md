@@ -121,6 +121,25 @@
 
 ## Ghosts of Yore Vanquished
 
+### Antique Scarlet Doll
+
+!!! warning "As of version 1.4.0, this quest is bugged sometimes. The spot with the Grey Doll spawn is inaccessible if cursed wheeling from Ghosts Of Yore Vanquished or beyond. One must Cursed wheel to Portait Gallery Minor Harken, clear the floor boss, then attempt the request."
+
+##### Walkthrough
+- Teleport to Zone 6 Harken and walk up the stairs to Zone 7.
+- Go to each location indicated (maps might be different due to Abyss 3 variation, so look for similar room formats). Each location is not indicated on the map, but will be shown as stationary monster encounters on the minimap.
+- Each fight will be against a much weaker version of the Zone 7 Floor Boss. They may or may not be accompanied by other weak enemies.
+- Upon collecting all 4 dolls, Lulu will note that there is no Scarlet Doll. This is true, so head back to the tavern
+- You have the choice of handing a singular doll, handing all the dolls, or handing no dolls. Pick an option.
+
+??? map "Locations"
+    ![](./img/antique_scarlet_doll_request_location.png)
+
+##### Rewards
+- Select handing a singular doll will grant a measly crimson ore
+- Select handing all the dolls in will grant a Crimson Lustrous Ore (9k gold) and a Goatskin Cloak (White 1* trinket with petrification resistance)
+- Select handing no dolls, will present the true ending, in which an Antique Ring (100k gold) drops from the grey doll.
+
 ## Fortress 2F Minor Harken
 
 ## Fortress 3rd Floor Arrival
