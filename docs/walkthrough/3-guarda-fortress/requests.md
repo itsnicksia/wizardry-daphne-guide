@@ -92,6 +92,7 @@
         You can also restart the quest without wheeling around by returning to the adventurer’s guild, abandoning the request and then taking it again. 
 
 ##### Rewards
+- Finishing all 3 encounters will grant 2 random Abyss 3 junk.
 - If Endy's final question is answered correctly, obtain "Endy the Mage" as a bondmate, who is a fire element bondmate that gives Evasion.
 
 ## Fortress Lower Floors Cleared
