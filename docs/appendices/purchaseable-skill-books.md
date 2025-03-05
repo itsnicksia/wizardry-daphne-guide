@@ -13,10 +13,11 @@
     |               MAREIN              | 240 Gems of Erin |
     |              Blinding             | 240 Gems of Erin |
     |          Precision Strike         | 240 Gems of Erin |
+    |    Passive Detection Up (Mage)    | 240 Gems of Erin |
+    |     Passive Evade Trap (Thief)    | 240 Gems of Erin |
+    |     Passive Evasion Up (Thief)    | 240 Gems of Erin |
     |  Passive Magic Defense Up (Mage)  | 240 Gems of Erin |
     | Passive Magic Defense Up (Priest) | 240 Gems of Erin |
-    |    Passive Detection Up (Mage)    | 240 Gems of Erin |
     |   Passive Resistance Up (Knight)  | 240 Gems of Erin |
     |    Passive Resistance Up (Mage)   | 240 Gems of Erin |
     |   Passive Resistance Up (Priest)  | 240 Gems of Erin |
-    |     Passive Evasion Up (Thief)    | 240 Gems of Erin |
