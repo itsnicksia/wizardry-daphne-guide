@@ -45,7 +45,7 @@
 ??? map "Locations"
 
 ##### Rewards
-- If obtaining all 4 brick types, obtain "brick guy" as a bondmate, who is an earth element bondmate that gives Resistance.
+- If obtaining all 4 brick types, obtain "Enthusiastic Carpenter Hans" as a bondmate, who is an earth element bondmate that gives Resistance.
 
 ## Secret Path Keeper Vanquished
 
@@ -76,7 +76,7 @@ You have to find an old mage three times, answer a trivia question and fight a b
 The correct answer to Endy's final question is "Nothing is more precious than life".
 
 ##### Rewards
-- If Endy's final question is answered correctly, obtain "Endy" as a bondmate, who is a fire element bondmate that gives Evasion.
+- If Endy's final question is answered correctly, obtain "Endy the Mage" as a bondmate, who is a fire element bondmate that gives Evasion.
 
 ## Fortress Lower Floors Cleared
 
@@ -96,8 +96,11 @@ The correct answer to Endy's final question is "Nothing is more precious than li
 
 ??? map "Locations"
 
+##### Note
+- The map location shown is what the hallway looks like. It can be in different locations depending on the map variation. If the quest does not trigger at that spot, it will trigger in topmost room across from the hallway.
+
 ##### Rewards
-- Returning the skeleton's friend will grant 2 random Abyss 3 junks and the bondmate "Singing Skeleton in the Tunnel, who is a dark element bondmate that gives defense power.
+- Returning the skeleton's friend will grant 2 random Abyss 3 junks and the bondmate "Singing Skeleton in the Tunnel", who is a dark element bondmate that gives defense power.
 
 ## Ghosts of Yore Vanquished
 
