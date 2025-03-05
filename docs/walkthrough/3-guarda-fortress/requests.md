@@ -148,7 +148,7 @@
     ![](./img/water_hauling_request_location.png)
 
 ??? note "Rewards"
-    - If you don't spill any water on the way back, you will obtain "Brita the Lazy Handmaiden" as a bondmate, who is a ???? element bondmate that grants Charm Tolerance.
+    - If you don't spill any water on the way back, you will obtain "Brita the Lazy Handmaiden" as a bondmate, who is a water element bondmate that grants Charm Tolerance.
 
 ## Fortress 3rd Floor Arrival
 
