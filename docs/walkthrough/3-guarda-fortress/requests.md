@@ -12,11 +12,13 @@
 
 ### Putting Evil Spirits to Rest
 
-- Go to Zone 1 and kill the 6 Poltergeist encounters.
-    - Encounters have 2 to 5 poltergeists
-    - After the 3rd and 4th encounters, your entire party will be paralyzed
-    - After the 5th encounter, your entire party will be critical poisoned
-    - After defeating the 6th encounter you receive a Lily of Eternity (sells for 92,000 gold)
+##### Walkthrough
+
+- Go to Zone 1, preferably via Harken as it's faster. 
+- The encounters will not be marked on the map, but can be seen on the minimap as stationary enemies. Encounters have 2 to 5 poltergeists
+- After the 3rd and 4th encounters, your entire party will be paralyzed
+- After the 5th encounter, your entire party will be critical poisoned
+- After defeating the 6th encounter you receive a Lily of Eternity (sells for 92,000 gold)
 
 ??? note "Tips"
 
@@ -63,7 +65,13 @@
 
 ### Forbidden Area Search Escort
 
-You have to find an old mage three times, answer a trivia question and fight a battle each time. When you return to the guild (which happens automatically after the third encounter) Endy asks you a final question. The answer determines whether you get the bond or not. 
+##### Walkthrough
+
+- Pick up Endy at the Tavern upon taking their request
+- Head to **Zone 3 -Old Secret Passage B3F-** via Zone 3 Harken and take the stairs up and then the stairs nearby down for ideal pathing.
+- Encounters are already marked on the map as "people" to talk to. You will be asked a trivia question and then be sent into an easy fight if the question is answered correctly.
+- Upon finishing the third encounter, you may choose to listen in or not on the conversation. Your choice here does not matter with regards to the reward.
+- You will automatically be sent back to town and will be asked a question by Endy. The correct answer to Endy's final question is "Nothing is more precious than life".
 
 ??? map "Locations"
     ![](./img/forbidden-search-area-escort-locations.png)
@@ -82,8 +90,6 @@ You have to find an old mage three times, answer a trivia question and fight a b
     !!! note
         If you answer one of the old mage’s trivia questions wrong, the summoned opponents are much tougher than if you answer correctly. You can still get the bond with a wrong answer.
         You can also restart the quest without wheeling around by returning to the adventurer’s guild, abandoning the request and then taking it again. 
-
-The correct answer to Endy's final question is "Nothing is more precious than life".
 
 ##### Rewards
 - If Endy's final question is answered correctly, obtain "Endy the Mage" as a bondmate, who is a fire element bondmate that gives Evasion.
