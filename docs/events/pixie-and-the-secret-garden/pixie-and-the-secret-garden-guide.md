@@ -7,7 +7,7 @@ You need to reach a certain point in the Beginner's Dungeon, and then you will b
 ## Guide:
 !!! note "There is no difficulty mode for this Event Dungeon. The mobs will scale automatically to your level."
 
-There are multiple endings for this event, but overall the event is very quick to complete. It does require at least two Cursed Wheel resets to complete entirely though, 4 if you want all endings.
+There are multiple endings for this event, but overall the event is very quick to complete. It does require at least two Cursed Wheel resets to complete entirely though, 5 if you want all endings.
 
 ??? note "1st Run"
     1. Go to Event tab and watch cutscene.
