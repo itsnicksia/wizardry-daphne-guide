@@ -89,11 +89,16 @@ According to in-game text, the merged adventurer also has the maximum number of 
 
 Ultimately, there is no reason not to merge an adventurer when you have the opportunity, regardless of who the adventurer is. You'll have to make a decision at that point which style you prefer to use. A minor stat gain with either style is better than no stat gain with neither style.
 
-### What should I do with my duplicicates of X character?
+### What should I do with my duplicates of X character?
 There's no hard or fast rule on this either. I put some of my personal thoughts and suggestions in the Character Analysis tab, so feel free to follow those if you'd like. You can never go wrong by saving a duplicate for future use, though.
 
 ### What are character duplicates used for?
-They can be used to: 1\. Increase a character's Discipline level 2\. Increase a character's unique skill level 3\. Inherit a character's inheritable unique skill to another character (or your MC) 4\. Dismiss for Grade Tags While dismissing a Legendardy character seems scary, it's possible that for some characters, that will be the absolute best value of their duplicates due to the fact that dismissing a level 1 Legendary character that has not completed a grade-up exam will give you 1 No Grade Tag and 1 Iron Grade Tag. Grade tags could easily be a bottleneck as we get to higher levels.
+They can be used to:
+
+1. Increase a character's Discipline level
+2. Increase a character's unique skill level 
+3. Inherit a character's inheritable unique skill to another character (or your MC) 
+4. Dismiss for Grade Tags While dismissing a Legendardy character seems scary, it's possible that for some characters, that will be the absolute best value of their duplicates due to the fact that dismissing a level 1 Legendary character that has not completed a grade-up exam will give you 1 No Grade Tag and 1 Iron Grade Tag. Grade tags could easily be a bottleneck as we get to higher levels.
 
 ### Should I pull on X character?
 This will always come down to personal preference, and whales, dolphins, and F2P players will all have different thoughts. Nobody can tell you how you should spend your money or your pulls. The Character Analysis tab will have some thoughts on different characters that you can use to hopefully make informed decisions that you are happy with.
