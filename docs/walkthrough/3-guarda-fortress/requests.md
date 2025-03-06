@@ -61,8 +61,7 @@
 
 ### Forbidden Area Search Escort
 
-- Pick up 
- at the Tavern upon taking their request
+- Pick up Endy at the Tavern upon taking their request
 - Head to **Zone 3 -Old Secret Passage B3F-** via Zone 3 Harken and take the stairs up and then the stairs nearby down for ideal pathing.
 - Encounters are already marked on the map as "people" to talk to. You will be asked a trivia question and then be sent into an easy fight if the question is answered correctly.
 - Upon finishing the third encounter, you may choose to listen in or not on the conversation. Your choice here does not matter with regards to the reward.
@@ -89,6 +88,45 @@
 ??? note "Rewards"
     - Finishing all 3 encounters will grant 2 random Abyss 3 junk.
     - If Endy's final question is answered correctly, obtain "Endy the Mage" as a bondmate, who is a fire element bondmate that gives Evasion.
+
+### Old District (Slum) Faction Quests
+
+Upon reaching Zone 4's Harken and returning, you will receive a message from the respective faction to return to the Royal Capital to receive a request, all of which take part in a slum and then immediately a cave. Normally, the reward for all of them are just gold, but upon doing them all correctly, not only do you receive more gold in general but also receive a LUK lantern if all are done perfectly.
+
+##### Royal Family Route (Perfect Run)
+- Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
+- Go to the slums and talk to everyone.
+- Do not eradicate the slums, and clean up the little girl. Disagree with Princess Pulgritte.
+- Leave to West Cave to gather food for the slums.
+- It does not matter where you get the meat or if you go over the necessary meat, but if the head Gorgon is too difficult, you may kill the random Gorgon around the cave or walk around the head Gorgon and farm meat from the dead ones through a crack in the wall.
+- Return to the slums to receive your gold reward after the cutscene.
+
+??? map "Locations"
+
+##### Pontiff Route
+- Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
+- Go to the slums and talk to everyone.
+- Head to the Cursed Cave and make your way around talking to NPCs that show up on the map. There are only 2 Heretics in the entire cave.
+- The two people that lured people in with spike traps are Heretics, you must select the option that they are. Win the fight against them.
+- The next Heretic is the Carpenter-looking NPC who killed someone at the start of the cave. Look for them and they will automatically be declared a heretic since they turn into a warped one. Win the battle.
+- Choose to "Investigate Ted" after the battle and head back to the Slums. It is advised to heal before going to this fight. This fight will also be signfiicantly easier with a Ninja with lvl 2 Dissipation.
+- Upon confronting the one-legged NPC named Ted and declaring him a Heretic, you will go into a fight with Ted in the backline and several random NPCs in the frontline. They all hit relatively hard, especially Ted himself casting AOE magic. The main gimmick of the fight though is that he casts defense magic on everyone that make physical damage useless for 12 turns. If you do not have a ninja, it will be a battle of attrition where it's preferred to bring 1-2 healers, 1 mage, and have frontline defend.
+- Leave the slums to receive your gold reward after the cutscene.
+
+!!! note "If you do not have a mage, you can also farm LA- level spell scrolls from the Greater Demon that spawns in Abyss 1 after completing the B8F request"
+
+??? map "Locations"
+
+##### Admiral Route
+
+- Get briefed on the mission at the Royal Capital by accepting the request at the Tavern. You will need to collect 3 orphans for the Admiral.
+- Go to the slums and talk to everyone. Do not take the little girl.
+- Leave the slums and head to the Southern Cave and talk to the NPCs around the map. You are looking for Colette.
+- There will be orphans that randomly spawn after a fight as well, and here you are looking for Hugo and Leo in that order. Leo will only come with you if you took Colette AND Hugo first.
+- After taking all 3 orphans, you will automatically finish the request, and talk to the Admiral in the cutscene. You must tell him to accept Leo's offer despite the financial loss.
+- You will receive your gold reward after the cutscene.
+
+??? map "Locations"
 
 ## Fortress Lower Floors Cleared
 
