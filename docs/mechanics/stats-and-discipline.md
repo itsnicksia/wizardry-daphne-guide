@@ -46,6 +46,10 @@ Your stats page power is caluclated through the following formula, which factors
 !!! warning "Warning: Contains math"
 
 ### Power Formula
+
+!!! warning
+    With the latest Ebonsteel gear, this formula is proving to be incorrect. It is currently calculating power lower than the stats page shows. I believe it is currently undervaluing both Strength+ and %Blessings, but I'm not sure how yet. Please be patient while I work to determine an updated formula.
+
 `StatsPagePowerValue = SpecialRound(MainStat * %BlessingsMultiplicatively * ClassMod) + Sum(ScalarEquipmentValues) + Sum(ScalarBlessingValues) + Sum(ScalarSkillValues) + Sum(ScalarTraitMods)`
 
 ### Power Formula Variable Definitions
