@@ -34,7 +34,7 @@
 
 ##### Rescuing the little girl safely
 
-!!! warning "As of patch 1.4.0, there is a bug where saving the little girl does not unlock her bondmate if done on True or Good ending on low corruption because the parents are missing"
+!!! warning "As of patch 1.4.0, there is a bug where saving the little girl does not unlock her bondmate if done on True ending because the parents are missing"
 
 1. You must have rescued the girl before in critical condition with the dog.
 2. On the second option, tell him you already know what you need for the dog, "Got it"
@@ -48,6 +48,18 @@
 ### Blackmail Resolution
 
 !!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 9 is reached."
+
+??? note "Requirements"
+    - Defeating the Gatekeeper after rescuing the child in any condition
+    - Tale of Bordaon 1 and Tale of Bordaon 2 knowledge from talking to the skeletons in Zone 4.
+
+- Talk to the maid at the Entrance to the Abyss
+- Follow her to the temple and answer her questions correctly with the knowledge you have.
+- Accept the request made by Dalian's wife. The conversation options with her are not important.
+- Get more information at the Tavern, which leads you to the Royal Capital outskirts again. The Boss will be near the entrance. You must NOT take the harken around or the conversation will not trigger properly. You can choose to pay the adventurers off or fight them (They are somewhat annoying as the thief can apply critical poison)
+- Win or Lose the gambling event (it is rigged). You will engage in a fight afterwards. Obtain a mask and key.
+- Turn in the request and then with the key, head to the room next to Floor 9 Harken. Explore the room for evidence
+- Talk to Dalian in the Duke's Room (don't forget Alan and Lily), and proceed to defeat the GWO for the good ending.
 
 ## Infiltrating the Fortress
 
