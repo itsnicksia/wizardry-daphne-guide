@@ -341,7 +341,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
     **Boss: Necrocore**
 
-    This boss will always act three times at the start of the fight. It will cast "Summon Undead", which summons a Sand Apparition + Skeleton Giant to the same row and a Skeleton Mage, Gluttonous Maw, and Red Spinner Woman to the back row. It will then cast "March of the Undead" which will grant a 10 turn Attack, Accuracy and Defense buff to all enemies. Finally, it will randomly use a skill from a standard Necrocore. Most of the time afterwards, it will act like a typical Necrocore, but randomly can recast "Summon Undead" and/or "March of the Undead".
+    This boss will always act three times at the start of the fight. It will cast "Summon Undead", which summons a Sand Apparition + Skeleton Giant to the same row and a Skeleton Mage, Gluttonous Maw, and Red Spinner Woman to the back row. It will then cast "March of the Undead" which will grant a 10 turn Attack, Accuracy and Defense buff to all enemies. Finally, it will randomly use a skill from a standard Necrocore. Most of the time afterwards, it will act like a typical Necrocore, but can recast "Summon Undead" and/or "March of the Undead" typically at turn 5+.
 
 ##### Strategy
 
@@ -351,7 +351,9 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ^^Backline:^^
     Two priests are preferred, especially if at least one of them can cast mage skills (Kantios). They ideally should both have Madios LvL 3+ and Makaltu Lvl 3+. If you do not have a Knight in the frontline OR are using the Knight for DPS purposes only, you ==WILL need a knight SPECIFICALLY to cast Knight's Defense.== Assault Guard is preferred on all the backline as well.
 
-==The Knight casting Knight's Defense needs to be slower than all other party members==, but still be around ~70 ASPD give or take a few to not be outsped later in the fight by the Necrocore.
+==The Knight casting Knight's Defense needs to be slower than all other party members==, but still be around ~70 ASPD give or take a few to not be outsped later in the fight by the Necrocore. 
+
+Generally speaking, you should try to have Undead Slayer gear for the boss if normal gear isn't doing enough damage.
 
 ^^Strategy:^^
     Essentially, this fight is a DPS race to see whether your team can kill the Necrocore before it wipes your team. The fight will ALWAYS start out as an Ambush, and as such, the Necrocore always gets a free hit on your party. He hits EXTREMELY hard and easily deals 500+ damage on an assault guarded frontline with 300+ defense. It's acceptable to restart if he does Spear Thrust instead of Zelos or Mazelos, as those are not affected by the attack buff he casts. Essentially you will be spamming Full Power Strike on Fighters OR Heavy Attack/Precision Strike/Armor Pierce LVL 3+ every turn on ONLY the Necrocore, as the fight will end once the Necrocore dies. Makaltu will help a lot with surviving the onslaught of damage every turn, as it's quite a lot EVEN with Knight's Defense. Two priests are preferred, as you often will need to cast Madios Lvl 3+ on both rows. When you do not need to heal, attempt to cast Kantios on the back row and then the front row. This will reduce the amount of damage you may take, as most of the basic enemies have Instant Kill moves or skills that deal a lot of AOE damage. It's also preferrable for the support adventurers to carry nourishing draught if you need more turns to deal with the Necrocore.
