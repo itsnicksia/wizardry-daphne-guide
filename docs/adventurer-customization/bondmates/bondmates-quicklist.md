@@ -1,6 +1,6 @@
 # Bondmates
 
-## Chapter 1 Bondmates
+## The Beginning Abyss Bondmates
 
 | Bondmate                                                                                         | Location         | Details                                                                                                                                                                                                                                           | Effect                          | Element | Max Level |
 |:------------------------------------------------------------------------------------------------ |:---------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------- |:------- |:--------- |
@@ -44,7 +44,7 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 !!! note "Albano"
     It's potentially possible to wheel ahead to The King's Rescue after step 15 then go to the edge of town to get Albano. This was possible, then it was not possible, then it was possible again, so we're not completely sure which is the intended behavior.
 
-## Chapter 2 Bondmates
+## Port Town Grand Legion Bondmates
 
 | Bondmate                                                                                      | Location                   | Details                                                                                                                                                                                       | Effect                        | Element | Max Level |
 |:--------------------------------------------------------------------------------------------- |:-------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:----------------------------- |:------- |:--------- |
@@ -62,11 +62,17 @@ Optional - Add Goblin Den to B3F part of cycle if you can avoid most fights and 
 | [Ugo in the Ship's Hold](./port-town-grand-legion/bondmates.md#ugo-in-the-ships-hold)         | Ship deck                  | Complete the Oar Collector Extermination request.                                                                                                                                             | ASPD                          | Wind    | 5         |
 | [Water God Priestess Regia](./port-town-grand-legion/bondmates.md#water-god-priestess-regia)  | Trade Waterways District 2 | Found after completing Water God Statue Restoration Materials                                                                                                                                 | MP                            | Water   | 1         |
 
-## Chapter 33 Bondmates
+## Guarda Fortress Bondmates
 
-| Bondmate                                                      | Location   | Details                              | Effect  | Element | Max Level |
-|:------------------------------------------------------------- |:---------- |:------------------------------------ |:------- |:------- |:--------- |
-| [Endy the Mage](./guarda-fortress/bondmates.md#endy-the-mage) | Side quest | Forbidden Area Search Escort request | Evasion | Fire    | 5         |
+| Bondmate                                                                                               | Location   | Details                                       | Effect  | Element | Max Level |
+|:------------------------------------------------------------------------------------------------------ |:---------- |:--------------------------------------------- |:------- |:------- |:--------- |
+| [Brita the Lazy Handmaiden](./guarda-fortress/bondmates.md#brita-the-lazy-handmaiden)                  | Side quest | Water Hauling                                 |         |         |           |
+| [Duke Ixion](./guarda-fortress/bondmates.md#duke-ixion)                                                | Side quest | Expedition to Clear the Fortress Lower Levels |         |         |           |
+| [Enthusiastic Carpenter Hans](./guarda-fortress/bondmates.md#endy-the-mage)                            | Side quest | Bodyguard for Ruins Exploration               |         |         |           |
+| [Endy the Mage](./guarda-fortress/bondmates.md#endy-the-mage)                                          | Side quest | Forbidden Area Search Escort request          | Evasion | Fire    | 5         |
+| [Eugen and Bibi](./guarda-fortress/bondmates.md#eugen-and-bibi)                                        | Side quest | Missing Companion                             |         |         |           |
+| [Graham, Knight Commander of Guarda](./guarda-fortress/bondmates.md#graham-knight-commander-of-guarda) | Side quest | Emergency Occurrence                          |         |         |           |
+| [Singing Skeleton in the Tunnel](./guarda-fortress/bondmates.md#singing-skeleton-in-the-tunnel)        | Side quest | Search for Missing Person                     |         |         |           |
 
 ## Adventurer Bondmates
 

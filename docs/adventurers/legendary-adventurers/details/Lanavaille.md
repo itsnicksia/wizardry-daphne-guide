@@ -71,14 +71,13 @@
 
         Neither of these skill changes are game-breaking by any means, so if you don't like Lanavaille as an adventurer or you prefer her standard style, you won't really be missing out on anything by skipping her. If you like her, though, her Wandering Princess form is all around better than her standard form and going for a couple copies wouldn't be a bad idea at all.
 
-        One key thing to note is that Discipline is tied to the particular style, so standard Lana dupes cannot be used to increase the Discipline of Wandering Princess Lana. This actually makes it an easy choice for standard dupe usage if you use Wandering Princess Lana, as inheriting standard Lana dupes to the merged Wandering Princess Lana will give the best value.
+        Wandering Lanavaille is the first adventurer that enables the [merge](../../../frequently-asked-questions.md#what-is-merging-and-should-i-do-it) option in the training room. This combines the two styles into a single adventurer and adds another passive skill that provides a very minor boost to a few stats. There is no real reason not to merge the two styles together. From there, you can choose which style you want to use.
 
-        I'll also add a note about Blade Cuisinart. This is currently the single best weapon you can get in the game due to the fact that multiple hits currently scale the best in terms of damage. This is the only 3-hit sword for the time, and if you're pulling on the paid banner, you have a 30% chance when getting a Wandering Princess Lanavaille copy to get it. Keep in mind that this could be fairly costly due to the gacha nature of the game.
+        One key thing to note is that Discipline is tied to the particular style, so standard Lana dupes cannot be used to increase the Discipline of Wandering Princess Lana. This actually makes it an easy choice for standard dupe usage if you use Wandering Princess Lana, as inheriting standard Lana dupes to the merged Wandering Princess Lana will give the best value.
 
         * Pull if:
             * You like Lanavaille as an adventurer and you like the aesthetic of the Wandering Princess style
-            * You want to try and min-max Lanavaille as an adventurer in your party
-            * You're a big spender and you want one or more copies Blade Cuisinart
+            * You want to use a version of Lanavaille that has a slight upgrade in stats/mechanics and is significantly less whiny
         * Do not pull if:
             * You do not like Lanavaille as an adventurer
             * You do not like the Wandering Princess aesthetic
