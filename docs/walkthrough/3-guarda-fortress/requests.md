@@ -239,14 +239,14 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - Harken to Zone 9 and walk all the way to the indicated location (maps may be different due to Abyss 3 variation, so look for similar room formats).
 - You will need to fetch water from the Zone 10 fountain. Head over there, but make sure you know the path back and forth very well.
 - Restore the fountain, but ==DO NOT CAMP== at the fountain as it will drain all the water, thus cancelling the request. You must bring the water back to the pot in Zone 9.
-- In every room on the way back to Zone 9, there will be several encounters with common Zone 9 monsters. There may be 1-3 encounters per room. Engaging in a fight accidentally will make you spill your water.
-- In order to get the true reward for this, you must not engage in combat at all, and thus filling the pot completely in one run.
+- In every room on the way back to Zone 9, there will be several encounters with common Zone 9 monsters. There are 2 encounters per room. Engaging in a fight accidentally will make you spill your water. It is recommended to kill all invisible encounters before getting water in order to only have to deal with visible encounters.
+- In order to get the true reward for this, you must select the second option in her dialogue, where you say everyone is angry at her for shirking her duties.
 
 ??? map "Locations"
     ![](./img/water_hauling_request_location.png)
 
 ??? note "Rewards"
-    - If you don't spill any water on the way back, you will obtain "Brita the Lazy Handmaiden" as a bondmate, who is a water element bondmate that grants Charm Tolerance.
+    - If you select the correct option, you will obtain "Brita the Lazy Handmaiden" as a bondmate, who is a water element bondmate that grants Charm Tolerance.
 
 ## Fortress 3rd Floor Arrival
 
