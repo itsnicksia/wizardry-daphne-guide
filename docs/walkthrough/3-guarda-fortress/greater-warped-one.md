@@ -133,6 +133,11 @@ Saved the Duke and apprehended the mastermind.
 
 #### Battle Tips
 
+##### Recommended Party Comp
+
+- At least 2 Fighters, 1 Priest, 1 Knight, and 1 Ninja.
+- Give Nourishing Draughts + Elixirs to the backline.
+
 !!! note "For sake of clarity, tips will be separated into his three phases"
 
 ##### Phase 1
@@ -144,6 +149,7 @@ Saved the Duke and apprehended the mastermind.
 * It's generally advised to kill the tentacles first, as having they contribute to doing a lot of single target damage. Keep in mind though, randomly, he may be capable of resurrecting one of them albeit at lower HP.
 * After dealing enough damage, he will throw a golem at a random target, but it's recommended to keep this for the next phase.
 * It's advised to burn through this phase ASAP due to it's randomness and potential to waste a lot of resources and/or wipe the team entirely.
+* The best way to deal with Phase 1 in a consistent manner is to use Full Power Strike on both tentacles, then finishing it up with some high level skills. Make sure the Knight goes last and uses Knight's Defense to mitigate damage from any skills. Makaltu is very useful here to surviving the initial couple of rounds. Once the tentacles are down, keep using Full Power Strike on the body.
 
 ##### Phase 2
 
@@ -151,14 +157,21 @@ Saved the Duke and apprehended the mastermind.
 * The main body will fall down and possibly get up several times during this phase. It's advised to slow your damage down but keep the damage consistent, as you will need to conserve your resources for the next phase. This phase has the largest HP pool of all three phases.
 * When the body is on the floor, use Right Hand of Reversal on the golem, as it will deal a lot more damage. The damage will scale with any damage buffs the MC has on.
 * The weakpoint in this phase can only be hit by ranged weapons and not spears, though Sneak Attack from a thief will reach it. The weak point can possibly die before the Gatekeeper moves on to the next phase, as it's just there to help speed up your damage.
+* Fighters should continue using Full Power Strike.
 * If on a harder difficulty, it's recommended to use support characters to start handing out nourishing draught to your damage dealers to prepare for the next phase.
 
 ##### Phase 3
 
-* He enters this phase typically when he gets a free roar off when it's not his turn. It usually is quickly followed up by him attempting to close the door (he will), and "Gathering his last strength". In doing so he will gain some undispellable damage, CT, and damage reduction buffs.
-* You must essentially also "gather your last strength" and throw all the damage you can onto him at this point.
+* He enters this phase typically when he gets a free roar off when it's not his turn and "Gathering his last strength". In doing so he will gain some undispellable damage, CT, and damage reduction buffs. You will get 2 free turns as he will be attempting to close the door. Attacks from him at this point deal fatal levels of damage.
+* You must essentially also "gather your last strength" and throw all the damage you can onto him at this point. Continue using Full Power Strike, but switch to your strongest moves if possible.
 * Depending on the difficulty based on route and corruption, he may also respawn both tentacles.
 * If you do not do enough damage in time, he will inevitably spam Deep Roar, which will switch rows and stun most of your team, effectively ending your run.
+
+??? note "Note about no Corruption Runs" 
+
+    ![](./img/no_corruption_true_ending_achievement.png)
+
+    It is extremely difficult to attempt a no corruption run, especially on the true ending. There is nothing to gain from this except 50 gems and an achievement to flex.
 
 ## Special Thanks
 
