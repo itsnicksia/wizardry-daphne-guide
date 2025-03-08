@@ -77,7 +77,7 @@ nav:
     - Guarda Fortress:
       - Maps: './walkthrough/3-guarda-fortress/maps.md'
       - Requests: './walkthrough/3-guarda-fortress/requests.md'
-      - Greater Warped One (WIP): './walkthrough/3-guarda-fortress/greater-warped-one.md'
+      - Greater Warped One: './walkthrough/3-guarda-fortress/greater-warped-one.md'
     - Ancient Mausoleum: './walkthrough/ancient-mausoleum/maps.md'
     - Dens:
       - Den of Earth: './walkthrough/dens/den-of-earth.md'
