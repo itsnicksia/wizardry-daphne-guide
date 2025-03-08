@@ -220,6 +220,8 @@ nav:
     - Blacksmithing: './adventurer-customization/blacksmithing/index.md'
     - Bondmates:
       - Bondmates Quicklist: './adventurer-customization/bondmates/bondmates-quicklist.md'
+      - Adventurer Bondmates: './adventurer-customization/bondmates/adventurer-bondmates.md'
+      - Bondmates Farming: './adventurer-customization/bondmates/bondmates-farming.md'
       - Beginning Abyss: './adventurer-customization/bondmates/beginning-abyss/bondmates.md'
       - Port Town Grand Legion: './adventurer-customization/bondmates/port-town-grand-legion/bondmates.md'
       - Guarda Fortress: './adventurer-customization/bondmates/guarda-fortress/bondmates.md'
