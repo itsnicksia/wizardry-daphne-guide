@@ -141,7 +141,7 @@ Saved the Duke and apprehended the mastermind.
 * He has 2 tentacles that spawn with his main body. Tentacles in general will just grab a character for the main body to punch for a large amount of damage. These are dodgeable on lower difficulties.
 * He may cast Wrath randomly, which provides him with 8 turns of damage buff, but 8 turns of defense reduction and anccuracy reduction. Alternatively, he may also cast Unyielding Will, which removes all debuffs and buffs on himself and gives himself 8 turns of resistance.
 * He may also roar with or without warning during this phase, which will shuffle the rows of the team. It's advised to take this time to heal up if necessary and swap rows back. If extremely unlucky, he may also take a deep breath followed by Great Roar, which will shuffle rows and stun the team.
-* It's generally advised to kill the tentacles first, as having at least one alive may allow the GWO to cast Pummel, which deals damage to the entire team, usually killing at least 1 adventurer. Keep in mind though, randomly, he may be capable of resurrecting one of them albeit at lower HP.
+* It's generally advised to kill the tentacles first, as having they contribute to doing a lot of single target damage. Keep in mind though, randomly, he may be capable of resurrecting one of them albeit at lower HP.
 * After dealing enough damage, he will throw a golem at a random target, but it's recommended to keep this for the next phase.
 * It's advised to burn through this phase ASAP due to it's randomness and potential to waste a lot of resources and/or wipe the team entirely.
 
