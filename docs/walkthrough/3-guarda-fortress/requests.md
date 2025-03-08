@@ -32,7 +32,7 @@
 6. Thrown into the fight again with various thieves and 2 mages. Dog dies from getting kicked and little girl is not doing so well.
 7. Talk to Raimi at the tent. Once again, remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (this is a lie again).
 
-!!! map "Location of Wheat Room"
+??? map "Location of Wheat Room"
     ![](./img/wheat_room.png)
 
 ##### Rescuing the little girl safely
