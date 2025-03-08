@@ -46,7 +46,7 @@
 5. Thrown into fight yet again with the thieves and 2 mages.
 6. This time however, the dog and little girl are safe.
 7. Talk to Knight Commander at the tent this time. Remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (true this time).
-8. Talk to the couple after defeating the GWO to obtain "Kidnapped Girl Liam" as a bondmate who is a water element bondmate that gives Stun Tolerance.
+8. Talk to the couple after defeating the GWO to obtain "Kidnapped Girl Liam" as a bondmate, who is a water element bondmate that gives Stun Tolerance.
 
 ### Blackmail Resolution
 
@@ -63,6 +63,7 @@
 - Win or Lose the gambling event (it is rigged). You will engage in a fight afterwards. Obtain a mask and key.
 - Turn in the request and then with the key, head to the room next to Floor 9 Harken. Explore the room for evidence
 - Talk to Dalian in the Duke's Room (don't forget Alan and Lily), and proceed to defeat the GWO for the good ending.
+- Head to the Tavern afterwards to obtain "Guardian Knight Dalian" as a bondmate, who is a earth element bondmate that gives Defense Power.
 
 ## Infiltrating the Fortress
 
