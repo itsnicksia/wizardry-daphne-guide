@@ -4,6 +4,51 @@
 
 ## Request to Rescue the Duke
 
+### Search for the Missing Girl
+
+!!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 8 is reached."
+
+??? note "Requirements"
+    - Finish first run of Abyss 3 (you get stabbed)
+    - Obtain knowledge of Lily and Alan (Talk to them after defeating the GWO in 1st run, when you can limp around talking to people) OR talk to NPC on Zone 9 on low corruption.
+    - Subsequently enter servant's room on low corruption, which is located right after you drop down at the end of the hallway from the Zone 9 Harken. Get the information on the table, and optionally the tattered rag (you may cursed wheel the corruption away if you'd like)
+
+##### Rescuing the little girl in Critical Condition (No dog)
+
+1. Select the 55 gold option when posting the request, or select the 1550 gold option but not having the tattered rag on you.
+2. Talk to everyone in Guarda for information. It is crucial to talk to the innkeeper.
+3. You will be led to the Royal Capital, namely the outskirts. Only the NPCs with bags are necessary to interact with.
+4. You will be led back to Guarda, where you need to find the individual with a crate outside the Well entrance to the Abyss.
+5. Returning to town will give a cutscene of the innkeeper telling you where the kidnappers are. You will immediately be thrown into a fight after with various thieves and 2 mages.
+6. Talk to Raimi at the tent. You will need to remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (this is a lie).
+
+##### Rescuing the little girl in Critical Condition (Dog)
+
+1. Select the 1550 gold option when posting the request and having the tattered rag.
+2. The 1st option when talking to the dogkeeper is not important, but the second option is. Ask him what you need to get for the dog.
+3. Get 10 meat directly from an NPC in Guarda.
+4. Get to the wheat room in Zone 8. You need low corruption for the door to not be blocked. There will be a battle with Succubi.
+5. Obtain the rights to the dog on return to Guarda. Remember that the innkeeper was the one who told you about the kidnappers, so head there.
+6. Thrown into the fight again with various thieves and 2 mages. Dog dies from getting kicked and little girl is not doing so well.
+7. Talk to Raimi at the tent. Once again, remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (this is a lie again).
+
+##### Rescuing the little girl safely
+
+!!! warning "As of patch 1.4.0, there is a bug where saving the little girl does not unlock her bondmate if done on True or Good ending on low corruption because the parents are missing"
+
+1. You must have rescued the girl before in critical condition with the dog.
+2. On the second option, tell him you already know what you need for the dog, "Got it"
+3. Get 10 meat directly from an NPC in Guarda. Obtain wheat from the room in Zone 8. Battle with Succubi.
+4. Return to town, get the dog, and head to the inn.
+5. Thrown into fight yet again with the thieves and 2 mages.
+6. This time however, the dog and little girl are safe.
+7. Talk to Knight Commander at the tent this time. Remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (true this time).
+8. Talk to the couple after defeating the GWO to obtain "Kidnapped Girl Liam" as a bondmate who is a .... bondmate that gives Stun Tolerance.
+
+### Blackmail Resolution
+
+!!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 9 is reached."
+
 ## Infiltrating the Fortress
 
 ## Hidden Passage
