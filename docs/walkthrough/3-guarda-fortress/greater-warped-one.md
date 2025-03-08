@@ -146,7 +146,7 @@ Saved the Duke and apprehended the mastermind.
 * He has 2 tentacles that spawn with his main body. Tentacles in general will just grab a character for the main body to punch for a large amount of damage. These are dodgeable on lower difficulties.
 * He may cast Wrath randomly, which provides him with 8 turns of damage buff, but 8 turns of defense reduction and accuracy reduction. If you take too long, he will cast Unyielding Will, which removes all debuffs and buffs on himself and gives himself 8 turns of resistance. Ninjas can dissipate the damage buff, which is highly recommended as the damage buff is quite huge.
 * He may also roar with or without warning during this phase, which will shuffle the rows of the team. It's advised to take this time to heal up if necessary and swap rows back. If extremely unlucky, he may also take a deep breath followed by Great Roar, which will shuffle rows and stun the team.
-* It's generally advised to kill the tentacles first, as having they contribute to doing a lot of single target damage. Keep in mind though, randomly, he may be capable of resurrecting one of them albeit at lower HP.
+* It's generally advised to kill the tentacles first, as they contribute to doing a lot of single target damage. Keep in mind though, at random, he may be capable of resurrecting one of them albeit at lower HP.
 * After dealing enough damage, he will throw a golem at a random target, but it's recommended to keep this for the next phase.
 * It's advised to burn through this phase ASAP due to it's randomness and potential to waste a lot of resources and/or wipe the team entirely.
 * The best way to deal with Phase 1 in a consistent manner is to use Full Power Strike on both tentacles, then finishing it up with some high level skills. Make sure the Knight goes last and uses Knight's Defense to mitigate damage from any skills. Makaltu is very useful here to surviving the initial couple of rounds. Once the tentacles are down, keep using Full Power Strike on the body.
@@ -163,6 +163,7 @@ Saved the Duke and apprehended the mastermind.
 ##### Phase 3
 
 * He enters this phase typically when he gets a free roar off when it's not his turn and "Gathering his last strength". In doing so he will gain some undispellable damage, CT, and damage reduction buffs. You will get 2 free turns as he will be attempting to close the door. Attacks from him at this point deal fatal levels of damage.
+* There is another golem throw around this time.
 * You must essentially also "gather your last strength" and throw all the damage you can onto him at this point. Continue using Full Power Strike, but switch to your strongest moves if possible.
 * Depending on the difficulty based on route and corruption, he may also respawn both tentacles.
 * If you do not do enough damage in time, he will inevitably spam Deep Roar, which will switch rows and stun most of your team, effectively ending your run.
