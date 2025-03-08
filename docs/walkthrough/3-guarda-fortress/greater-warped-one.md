@@ -135,7 +135,7 @@ Saved the Duke and apprehended the mastermind.
 
 ##### Recommended Party Composition
 
-- At least 2 Fighters, 1 Priest, 1 Knight, and 1 Ninja. 3 Fighters is ideal, as they have the most efficient damage for SP cost. Ninja for dissipation. Knight for Knight's Defense for more consistent runs through phase 1. Priests because obviously.
+- At least 2 Fighters, 1 Priest, 1 Knight, and 1 Ninja. 3 Fighters is ideal, as they have the most efficient damage for SP cost (Full Power Strike). Ninja for dissipation. Knight for Knight's Defense for more consistent runs through phase 1. Priest because obviously.
 - Give Nourishing Draughts + Elixirs to the backline.
 
 !!! note "For sake of clarity, tips will be separated into his three phases"
