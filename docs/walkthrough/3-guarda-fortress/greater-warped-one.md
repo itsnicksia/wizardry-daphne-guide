@@ -163,6 +163,7 @@ Saved the Duke and apprehended the mastermind.
 ##### Phase 3
 
 * He enters this phase typically when he gets a free roar off when it's not his turn and "Gathering his last strength". In doing so he will gain some undispellable damage, CT, and damage reduction buffs. You will get 2 free turns as he will be attempting to close the door. Attacks from him at this point deal fatal levels of damage.
+* If you have more than 4 Corruption, he will not get a free roar, but rather just "ROAR" in text.
 * There is another golem throw around this time.
 * You must essentially also "gather your last strength" and throw all the damage you can onto him at this point. Continue using Full Power Strike, but switch to your strongest moves if possible.
 * Depending on the difficulty based on route and corruption, he may also respawn both tentacles.
