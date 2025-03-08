@@ -41,11 +41,14 @@
 | Bondmate                                                                                               | Location   | Details                                       | Effect                         | Element | Max Level |
 |:-------------------------------------------------------------------------------------------------------|:-----------|:----------------------------------------------|:-------------------------------|:--------|:----------|
 | [Brita the Lazy Handmaiden](./guarda-fortress/bondmates.md#brita-the-lazy-handmaiden)                  | Side quest | Water Hauling                                 | Charm Resistance               | Water   | 5         |
+| [Concerned Brother Elequon](./guarda-fortress/bondmates.md#concerned-brother-elequon)                  | Side quest | Item Trade Quest                              | Insta-kill Tolerance           | Dark    | 1         |
 | [Duke Ixion](./guarda-fortress/bondmates.md#duke-ixion)                                                | Side quest | Expedition to Clear the Fortress Lower Levels | Magic Power                    | Wind    | 5         |
 | [Enthusiastic Carpenter Hans](./guarda-fortress/bondmates.md#endy-the-mage)                            | Side quest | Bodyguard for Ruins Exploration               | Resistance                     | Fire    | 5         |
 | [Endy the Mage](./guarda-fortress/bondmates.md#endy-the-mage)                                          | Side quest | Forbidden Area Search Escort request          | Evasion                        | Fire    | 5         |
-| [Eugen and Bibi](./guarda-fortress/bondmates.md#eugen-and-bibi)                                        | Side quest | Missing Companion                             | Confusion Tolerance            | Void    | 5         |
+| [Eugen and Bibi](./guarda-fortress/bondmates.md#eugen-and-bibi)                                        | Side quest | Missing Companion                             | Confusion Tolerance            | Void    | 1         |
 | [Graham, Knight Commander of Guarda](./guarda-fortress/bondmates.md#graham-knight-commander-of-guarda) | Side quest | Emergency Occurrence                          | Attack Power, Stone Resistance | Fire    | 5         |
+| [Guardian Knight Dalian](./guarda-fortress/bondmates.md#guardian-knight-dalian)                        | Main quest | Blackmail Resoultion                          | Defense Power                  | Earth   | 1         |
+| [Kidnapped Girl Liam](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                              | Main quest | Search for the Missing Girl                   | Stun Tolerance                 | Water   | 5         |
 | [Singing Skeleton in the Tunnel](./guarda-fortress/bondmates.md#singing-skeleton-in-the-tunnel)        | Side quest | Search for Missing Person                     | Defense Power                  | Dark    | 5         |
 
 ## Event Bondmates
