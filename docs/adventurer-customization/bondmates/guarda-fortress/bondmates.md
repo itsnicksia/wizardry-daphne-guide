@@ -10,7 +10,7 @@
 ??? info "Skill"
     ![](img/kidnapped-girl-liam-skill.png)
 
-- Complete the [Missing Companion](../../../walkthrough/3-guarda-fortress/requests.md#search-for-the-missing-girl) request perfectly.
+- Complete the [Search for the Missing Girl](../../../walkthrough/3-guarda-fortress/requests.md#search-for-the-missing-girl) request perfectly.
 
 ### Guardian Knight Dalian
 
@@ -20,7 +20,7 @@
 ??? info "Skill"
     ![](img/guardian-knight-dalian-skill.png)
 
-- Complete the [Missing Companion](../../../walkthrough/3-guarda-fortress/requests.md#blackmail-resolution) request.
+- Complete the [Blackmail Resolution](../../../walkthrough/3-guarda-fortress/requests.md#blackmail-resolution) request.
 
 ## Infiltrating the Fortress
 
