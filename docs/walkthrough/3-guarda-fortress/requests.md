@@ -275,9 +275,8 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Missing Companion
 
 ??? note "Requirements"
-    - Attained [Guarda Fortress Abyss Good/True Ending](./greater-warped-one.md#good-ending) (needs confirmation).
-    - Liam (Alan and Lily's daughter) survives the ending.
-    - Hound companion survives.
+    - Attained [Guarda Fortress Abyss Good Ending](./greater-warped-one.md#good-ending)
+    - Attained [Rescuing Liam Safely](./requests.md#rescuing-the-little-girl-safely)
 
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
 
