@@ -12,9 +12,47 @@ This quiz determines:
  - Your alignment - Good, Neutral, or Evil.
  - Your starting attributes (i.e. STR, DEX, etc.)
 
-You'll be shown the result and prompted for confirmation after answering the questions.
+You'll be shown the result and prompted for confirmation after answering the questions. Below are a few answers you can select to get the alignment of your choice:
 
-Once you've accepted the result, you'll regain control of your character.
+??? info "Alignment Selection"
+
+    === "Good"
+        - Distribute what money I have - GOOD 
+        - My family - EVIL 
+        - A farewell drink - GOOD 
+        - Keep it for Myself - EVIL 
+        - A beached whale - NEUTRAL 
+        - A girl I saved a long time ago - GOOD 
+        - Demand monetary compensation - NEUTRAL 
+        - Pirate's treasure - EVIL 
+        - Evacuate the citizens - GOOD
+        - Go over and help her cross voluntarily - GOOD
+
+    === "Neutral"
+        - Distribute what money I have - GOOD 
+        - My family - EVIL 
+        - A treasure map - NEUTRAL
+        - Keep it for myself - EVIL 
+        - A beached whale - NEUTRAL 
+        - A girl I saved a long time ago - GOOD 
+        - Demand monetary compensation - NEUTRAL 
+        - Pirate's treasure - EVIL 
+        - Evacuate the citizens - GOOD
+        - Go over and help her cross voluntarily - GOOD
+
+    === "Evil"
+        - Distribute what money I have - GOOD 
+        - My family - EVIL 
+        - A farewell drink - GOOD 
+        - Keep it for myself - EVIL 
+        - A beached whale - NEUTRAL 
+        - A girl I saved a long time ago - GOOD 
+        - Demand monetary compensation - NEUTRAL 
+        - Pirate's treasure - EVIL 
+        - Loot and flee - EVIL
+        - Help her across but ask for a reward - EVIL
+
+If you made a mistake or decide you want a different alignment, just retake the quiz at the end. You can do this as many times as you want, but once you've chosen your alignment, it can't be changed and you'll regain control of your character.
 
 Explore the dungeon until you meet a ghostly Girl - have a chat with her and follow her instructions. 
 

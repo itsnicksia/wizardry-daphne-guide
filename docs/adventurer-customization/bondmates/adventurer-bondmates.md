@@ -19,7 +19,7 @@
 * Contrary to regular bondmates, there is no additional bonus when attaching an adventurer bondmate to a hero of the same element.
 
 | Bondmate   | Increased Attribute |
-|------------|---------------------|
+| ---------- | ------------------- |
 | Abenius    |                     |
 | Adam       |                     |
 | Alex       | VIT                 |
@@ -49,16 +49,16 @@
 | Gandolfo   |                     |
 | Gaston     | STR                 |
 | Gerard     |                     |
-| Gerulf     |                     |
+| Gerulf     | STR                 |
 | Human-Fig  | STR                 |
-| Human-Pri  |                     |
+| Human-Pri  | PIE                 |
 | Jarmil     | IQ                  |
 | Jean       | DEX                 |
 | Kiriha     | DEX                 |
 | Lanaville  | VIT                 |
 | Marianne   | PIE                 |
 | Milana     | DEX                 |
-| Olive      |                     |
+| Olive      | VIT                 |
 | Ophelia    | STR                 |
 | Phillip    | SPD                 |
 | Red Beard  |                     |

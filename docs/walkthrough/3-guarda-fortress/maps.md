@@ -48,7 +48,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
     ??? note "Corruption Sentry"
         - Entering the sight area of a Corruption Sentry will trigger a short cutscene and increase Corruption.
-        - See [[Corruption]](#corruption) for more information about Corruption Sentries.
+        - See [Corruption](#key-mechanics) for more information about Corruption Sentries.
 
     ??? note "Walkthrough"
         1. Fight your way through B1F until you pass a Sentry to reach the **Minor Harken**.

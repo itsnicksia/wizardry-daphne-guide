@@ -1,14 +1,21 @@
-# Wizardry Variants Daphne Community Guide
+# Wizardry Variants Daphne Community Docsite
 
-This guide is maintained by the community of the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) and is a collaborative, ongoing work in progress.
+This docsite is maintained by the community of the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) and is a collaborative, ongoing work in progress.
 
 We welcome contributions and corrections by the community so don’t hesitate to add your suggestions to the **#guide-contributions** Discord channel or contribute [on GitHub](https://github.com/itsnicksia/wizardry-daphne-guide)\!
 
 **This guide does contain spoilers, so read at your own risk**
 
+## How to use this site
+
+Navigate to your desired page using the sidebar on the left side of your screen or search for content using the `Search` dialog in the upper right.
+
+For new players, you can start [with the introduction walkthrough](./walkthrough/0-introduction/index.md) or our [frequently asked questions](./frequently-asked-questions.md).
+
 ## Maintainers
 
 - Baldcat
+- Gagging
 - TheAxolotl
 
 ## Contributing

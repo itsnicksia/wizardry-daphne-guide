@@ -1,5 +1,54 @@
 # Frequently Asked Questions
 
+## Gacha Questions
+
+### How do I get more bones for pulls?
+As you play that game, you'll collect occasional bones from NPCs, enemy drops, chests, log-in rewards, and the mausoleum. Some of these are on monthly and weekly timers.
+
+### What bones should I buy for my pulls?
+Generally, you want to buy the green or purple bones for the featured banner or various packages that are offered as one-time, monthly, or weekly purchases. Buying `Adventurer's Remains` is not recommended.
+
+### Will limited adventurers be added to the standard banner?
+Supposedly yes, although this has not happened yet and we don't know when it will.
+
+### Should I only pull on limited banners?
+While limited banners are the best banners to pull on, the `Adventurer Bones` and `Legendary Bones` you accrue will pull from the standard banner.
+
+### If I have all the general pool legendary adventurers, should I save my `Adventurer Bones` and `Legendary Bones` or use them?
+This is ultimately up to you. By saving, you can use them once limited adventurers are added to the general pool. We don't know when this will happen or if all limited adventurers will be added at some point. There is definitely value to using them, as this game has some of the best overall uses of duplicates, since skill inheritance (and to an arguably lesser degree, Discipline) are extremely valuable for improving the strength and effectiveness of your party.
+
+### Is there a Pity System?
+No, there is not a pity system.
+
+### Is there a Spark System?
+Yes, there is a Spark System. Every pull on a limited banner gives you 1 currency token for that limited banner's exchange. These tokens can be used to purchase skill books, adventurer and legendary bones, featured bones, and gacha equipment.
+
+### Do my currency tokens carry over to other banners?
+Potentially. Currency tokens are specific to that banner, so if you accrue 60 tokens for Limited Adventurer X, those 60 tokens cannot be used on Limited Adventurer Y's upcoming banner. That being said, it's very likely that those 60 tokens for Limited Adventurer X will be usable months in the future if and when Limited Adventurer X's banner reruns. As of March 10, 2025, only one banner has seen a rerun.
+
+### Since 100 tokens are needed to Spark a featured Legendary, how many gems will that cost?
+Assuming you're only buying the 11-count of featured legendary bones with your gems, it'll take 18000 gems to reach 99 tokens, or 18200 to reach 100 tokens.
+
+### I got two copies of an adventurer and they have different stats. Is that normal?
+Characters do have variations in base stats, their bonus points (up to 10) and their Fortitude (80, 90, 100). If you intend on doing a lot of summons, don't feel like you have to invest in the first version you get. That being said, the variations in stats, bonus points, and Fortitude are all extremely minor.
+
+### What is the difference between Gems of Org and Gems of Erin?
+Gems of Org (Green) are your commonly-earned (green) gems, while Gems of Erin (Purple) are only purchased with real money.
+
+### Why does a featured legendary have two banners?
+The first banner can only be pulled on using bones purchased with Gems of Erin. This banner has a guaranteed chance to get 1 of 3 random gacha equipment pieces with every copy of the featured legendary you get.
+
+The second banner can be pulled in with Gems of Org and does not include the gacha equipment.
+
+### Is the gacha equipment worth it?
+For the majority of the player base, no. There is a lot of randomness to the gacha equipment. First, there's no guarantee you'll get the equipment piece that you want. Second, if you get the equipment piece you want, it can vary drastically in quality. Third, in order to fully maximize a single piece of gacha equipment, you need 9 copies of that specific item.
+
+### Are adventurer banners the only things I should spend my gems on?
+No! There are other things you might want to spend your gems on, including weekly class change scrolls and skill books for inheritance.
+
+### I'm looking to spend some money. Are there any good packs I should buy?
+This ultimately comes down to personal preference, but feel free to check out our [Purchase Evaluation page](./appendices/purchase-evaluation.md) to help make an informed decision!
+
 ## General Questions
 
 ### How do I access detailed in-game information about races, stats, classes, types, etc?
@@ -17,8 +66,14 @@ Interestingly, there doesn’t seem to be anything on an adventurer’s stats pa
 ### Is there permadeath in this game?
 There is, however it is very difficult to trigger. First, you need to have an adventurer with lower than 50 Fortitude. Second, you need to fail in resurrecting that adventurer at the Temple, causing them to turn to ash. Third, you need to fail at resurrecting the adventurer from ash. At that point, they are gone for good. Fortitude continues to regenerate while a character is dead, so when in doubt, just wait for adventurer’s Fortitude to be above 50 before you try resurrecting from the Temple.
 
-### If an adventurer is dead, does it still regain fortitude?
+### How often does Fortitude regenerate?
+An adventurer restores 1 Fortitude every 6 minutes.
+
+### If an adventurer is dead, does it still regain Fortitude?
 Yes!
+
+### I changed my adventurer's class with a scroll? Can I change it again?
+You can, but you need another scroll to do so. Each scroll is a one-time use consumable.
 
 ### Why does my map look different than the ones in the guide?
 For each floor, there are generally a few main rooms but the pathways to get between the main rooms can differ from player to player. While it’s possible to have a map that looks identical to someone else, it’s also possible to have your map be slightly different. This means not every spawn point for a particular request you encounter matches the spawn point someone else encounters. From what we can tell, every floor has a defined number of possible layouts that get loaded in for a player. We’re not sure how many possible layouts there are, though, so take any image you see of a map with a grain of salt, as yours could have differences.
