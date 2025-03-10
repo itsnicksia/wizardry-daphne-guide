@@ -27,3 +27,5 @@ The den drops Mid, High, and Fine grade ore randomly.
 
 ??? map "Den of Light Variant 5"
       ![](img/den-of-light/den-of-light-6.jpg)
+
+You can find which map variant it is by running across the top of the map to the top left.
