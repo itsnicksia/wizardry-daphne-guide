@@ -15,5 +15,5 @@ The den drops Mid, High, and Fine grade ore randomly.
 ??? map "Den of Light Fog of War"
       ![](img/den-of-light/den-of-light-fog.jpg)
 
-??? map "Den of Light Fog of War Variant 1"
+??? map "Den of Light Variant 1"
       ![](img/den-of-light/den-of-light-1.jpg)
