@@ -10,14 +10,28 @@ Note: Only Curse Wheel to "Awakening" when searching for the "Old Remains"
 
 Most bones will respawn after roughly one month.
 
-| Location                                                                      | Reward                                            |
-|:------------------------------------------------------------------------------|:--------------------------------------------------|
-| Curse Wheel to the Awakening (Tutorial)                                       | Old Remains                                       |
-| Tavern → Stench Investigation Request → B1F                                   | Choose between Priest/Mage/Fighter/Knight Remains |
-| B3F Goblin Nest – Lower Left Garbage Dump; Top Right Goblin Interaction       | Adventurer's Remains x2                           |
-| B4F - Choose the left treasure chest                                          | Adventurer's Remains                              |
-| B5F - Beyond the poison passage                                               | Adventurer's Remains                              |
-| B6F                                                                           | Adventurer's Remains                              |
-| B7F                                                                           | Adventurer's Remains                              |
-| B8F                                                                           | Adventurer's Remains                              |
-| Waterway 2nd Abyss → 7th District Pier → Top right corner → Shore of the Dead | Adventurer's Remains                              |
+??? map "Old Remains - Curse Wheel to Awakening"
+
+??? map "Priest/Mage/Fighter/Knight Remains - Beginning Abyss B1F Death Stench Investigation"
+    ![](img/respawning-bone-death-stench.jpg)
+
+??? map "Adventurer's Remains - Beginning Abyss Goblin Nest"
+    ![](img/respawning-bone-goblin-den.jpg)
+
+??? map "Adventurer's Remains - Beginning Abyss B4F"
+    ![](img/respawning-bone-b4f.jpg)
+
+??? map "Adventurer's Remains - Beginning Abyss B5F"
+    ![](img/respawning-bone-b5f.jpg)
+
+??? map "Adventurer's Remains - Beginning Abyss B6F"
+    ![](img/respawning-bone-b6f.jpg)
+    
+??? map "Adventurer's Remains - Beginning Abyss B7F"
+     ![](img/respawning-bone-b7f.jpg)
+
+??? map "Adventurer's Remains - Beginning Abyss B8F"
+    ![](img/respawning-bone-b8f.jpg)
+
+??? map "Adventurer's Remains - Trade Waterway 7th District Pier Shore of the Dead"
+    ![](img/respawning-bone-pier.jpg)
