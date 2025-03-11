@@ -37,6 +37,21 @@ Substats seem to be broken up into four main categories:
 
 As you can see, this means that while Discipline can add up at higher skill levels, ultimately results in a relatively low boost to performance.
 
+### Copies Per Legendary Discipline Level
+
+| Discipline Level | Number of Copies | Number of Cumulative Copies |
+| ---------------- | ---------------- | --------------------------- |
+| 0                | 1                | 1                           |
+| 1                | 1                | 2                           |
+| 2                | 1                | 3                           |
+| 3                | 2                | 5                           |
+| 4                | 1                | 6                           |
+| 5                | 1                | 7                           |
+| 6                | 2                | 9                           |
+| 7                | 2                | 11                          |
+| 8                | 2                | 13                          |
+| 9                | 3                | 16                          |
+
 ### How Should You Use Your Dupes?
 This is going to vary a lot by the Adventurer, but in general, if the Adventurer is a damage dealer with their inheritance skill being an attack (such as Gerard and Gerulf), you will see significantly more damage coming from skill inheritance than from Discipline. However, if your Adventurer is someone like Yekaterina who doesn't have an inheritance skill that deals damage, it's less clear as to where you'll see the bigger gains with dupes.
 
