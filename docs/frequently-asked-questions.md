@@ -161,6 +161,7 @@ This is an extremely frequently asked and hotly debated question, and there is n
 To be blunt, I am not a big fan of Discipline in general. It's fine - more stats are always good, and if you go as far as getting up to Discipline 9, you can get a hefty ~28 added to most stats (and potentially more to the featured stats). The problem I have is that the value per dupe spent on Discipline is relatively low. You can read more about it [here](./mechanics/stats-and-discipline.md#discipline) but up to Discipline 6, it's roughly +2 stats per dupe (not skill level). Between 7 and 9, it's roughly +1.5 stats per dupe.
 
 I consider there being three main breakpoints for Discipline:
+
 1. Discipline 1: This unlocks the passive skill, and while it doesn't make a massive tangible impact on performance, I personally hate having locked skills on adventurers I use
 2. Discipline 6: This maximizes the +2 stats per level rate and gives us roughly +16 stats for 8 dupes (9 copies total)
 3. Discipline 9: Might as well go all out
