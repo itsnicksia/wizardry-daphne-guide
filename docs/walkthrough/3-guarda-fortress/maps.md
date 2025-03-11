@@ -29,6 +29,8 @@ There are three routes to choose for the Gaurda Fortress Abyss:
 
 You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" request from the **Royal Capital Luknalia** Adventurer's Guild.
 
+!!! note "There may be variations in maps for every zone. General chunks will be the same but may be rotated or located in a different spot"
+
 ??? map "Zone 1 -Old Secret Passage B1F-"
     ![](./img/zone-1-old-secret-passage-b1f.jpg)
 
@@ -55,7 +57,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         2. Travel south from the Harken and descend the stairs to B2F.
 
 ??? map "Zone 2 -Old Secret Passage B2F-"
-    ![](./img/zone-2-old-secret-passage-b2f.jpg)
+    ![](./img/zone-2-complete.jpg)
 
     ??? note "Enemies"
         - Skeleton Warrior
@@ -85,7 +87,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
             ![](./img/zone-3-old-secret-passage-b3f-path.png)
 
 ??? map "Zone 3 -Old Secret Passage B3F-"
-    ![](./img/zone-3-old-secret-passage-b3f.jpg)
+    ![](./img/zone-3-complete.jpg)
 
     ??? note "Enemies"
         - Skeleton Warrior
@@ -110,7 +112,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Speak to the skeletons to acquire key Knowledge.
 
 ??? map "Zone 5 -Prehistoric Corridor B3F-"
-    ![](./img/zone-5-prehistoric-corridor-b3f.jpg)
+    ![](./img/zone-5-complete.jpg)
 
     ??? note "Enemies"
         - **NEW - Combat Sentry: Cyclops**
@@ -118,7 +120,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Corruption Sentry
 
 ??? map "Zone 6 -Prehistoric Corridor B2F-"
-    ![](./img/zone-6-prehistoric-corridor-b2f.jpg)
+    ![](./img/zone-6-complete.jpg)
 
     ??? note "Enemies"
         - Combat Sentry: Cyclops
@@ -126,15 +128,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - ?
 
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
-
-    ??? map "Variation 1"
-        ![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-1.jpg)
-
-    ??? map "Variation 2 (Princess Route)"
-        ![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-2.png)
-
-    ??? map "Variation 3 (Princess Route)"
-        ![Zone 7 Prehistoric Corridor B1F - Variation 1](./img/zone-7-prehistoric-corridor-b1f-3.png)
+    ![](./img/zone-7-complete.jpg)
 
     ??? note "Enemies"
         - Combat Sentry: Cyclops
@@ -154,7 +148,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
             - Remove confusion and charm with your damage dealers via scrolls so your healers can focus on that
 
 ??? map "Zone 8 -Fortress 1F Entrance-"
-    ![](./img/zone-8-fortress-1f-entrance.jpg)
+    ![](./img/zone-8-complete.jpg)
 
     ??? note "Enemies"
         - Combat Sentry: Cyclops
@@ -162,7 +156,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - ?
 
 ??? map "Zone 9 -Fortress 2F Entrance-"
-    ![](./img/zone-9-fortress-2f-office.jpg)
+    ![](./img/zone-9-complete.jpg)
 
     ??? note "Enemies"
         - Combat Sentry: Cyclops
@@ -170,7 +164,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - ?
 
 ??? map "Zone 10 -Fortress 3F Lord's Room-"
-    ![](./img/zone-10-fortress-3f-lords-room.jpg)
+    ![](./img/zone-10-complete.jpg)
     
     If your corruption level is not too high, you will find the Duke's party on this floor.
 
