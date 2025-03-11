@@ -1,7 +1,5 @@
 # Impregnable Fortress
 
-!!! warning "Under Construction - thank you for your patience"
-
 ## Request to Rescue the Duke
 
 ### Search for the Missing Girl
