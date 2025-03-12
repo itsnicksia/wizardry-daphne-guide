@@ -107,7 +107,7 @@ Saved the Duke and apprehended the mastermind.
 1. Warp to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon.
 2. Warp to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
 3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key.
-4. Warp to Zone 8 and loot Elequon's room.
+4. Warp to Zone 10 and loot Elequon's room (Located next to the library before dropping down to Zone 9 Harken).
 5. Warp to Zone 9 but do not enter the blackmail evidence room, as it will trigger Corruption.
 6. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
 7. Travel to Royal Capital Luknalia and gamble with the swindlers.
