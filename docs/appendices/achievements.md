@@ -25,6 +25,9 @@
     | Trade Waterway Greater Warped One Slain             | Slay the greater warped one of the Trade Waterway.                                 |
     | Impregnable Fortress -Old Secret Passage- Cleared   | Make it all the way through the Impregnable Fortress -Old Secret Passage-.         |
     | Impregnable Fortress -Prehistoric Corridor- Cleared | Make it all the way through the Impregnable Fortress -Prehistoric Corridor-.       |
+    | Impregnable Fortress -Fortress- Cleared             | Make it all the way through the Impregnable Fortress -Fortress-.                   |
+    | Impregnable Fortress Greater Warped One Slain       | Slay the Greater Warped One of the Impregnable Fortress.                           |
+    | Impregnable Fortress, The Duke Rescued              | Slay the Greater Warped One of the Impregnable Fortress and rescue Duke Ixion.     |
     | They All Made it Out Alive                          | Successfully complete the mission without any of the knights dying.                |
     | Reconciled with His Uncle                           | Albano and his uncle reconcile.                                                    |
     | Leave It to Me                                      | Take on and slay two Knight-Butcher Ents.                                          |
@@ -45,8 +48,12 @@
     | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
     | Accompanying the Inspection                         | Conduct an inspection of Guane's lands with Princess Pulgritte.                    |
     | First Inquisition                                   | Conduct an Inquisition in Guane's lands with Tenet.                                |
-    | Beastfolk Rescue Plan                               | Recover theee beastfolk from Guane's lands with Sagini.                            |
+    | Beastfolk Rescue Plan                               | Recover the beastfolk from Guane's lands with Sagini.                              |
+    | [Royal Family] Duke Ixion's Rescue Complete         | Complete the Royal Family's request and rescue Duke Ixion.                         |
+    | [Pontiff] Duke Ixion's Rescue Complete              | Complete the Pontiff's request and rescue Duke Ixion.                              |
+    | [Admiral] Duke Ixion's Rescue Complete              | Complete the Admiral's request and rescue Duke Ixion.                              |
     | To Know Poverty                                     | Princess Pulgritte learns the meaning of poverty.                                  |
+    | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
 
 === "Adventurer"
 

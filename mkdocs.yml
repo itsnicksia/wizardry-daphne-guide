@@ -239,8 +239,6 @@ nav:
     - Combat Strategies: './strategies/combat-strategies.md'
     - Farming: './strategies/farming.md'
     - Port Town Grand Legion: './strategies/port-town-grand-legion.md'
-    - Powerleveling: './strategies/powerleveling.md'
-    - Weapon Types: './strategies/weapon-types.md'
   - Events:
     - Lamp of Malice:
       - Text Guide: './events/lamp-of-malice/lamp-of-malice-text-guide.md'
@@ -258,6 +256,7 @@ nav:
         - Port Town Grand Legion: './appendices/wheel-causality/port-town-grand-legion.md'
         - Guarda Fortress: './appendices/wheel-causality/guarda-fortress.md'
     - Equipment:
+        - Weapon Types: './appendices/equipment/weapon-types.md'
         - Unique Equipment: './appendices/equipment/unique-equipment.md'
     - Enemies: './appendices/enemy-compendium.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'
