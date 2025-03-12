@@ -44,3 +44,4 @@ Most non-event equipment can be obtained once a month.
 | Umbral Mail                    | Light Armor      | Chest in Zone 9 -Fortress 2F Office- After dropping down from Zone 10  | Light Type Reduction                | Drops as 1/3 Strength                                   |
 | Sword of Eternal Darkness      | Sword            | Chest in Zone 10 -Fortress 3F Lords Room- Library                      | Dark Type                           | Drops as 1/3 Strength                                   |
 | Greatsword of Eternal Darkness | Two-Handed Sword | Chest in ?                                                             | Dark Type                           | Drops as 1/3 Strength                                   |
+| Mauve Shield           | Light Shield     | Obtained from "Pixie and the Secret Garden" Event Junk                 | Confusion Tolerance                         | Ebonsteel > Mauve Shield > Steel                        |
