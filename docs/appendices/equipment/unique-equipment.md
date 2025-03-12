@@ -45,3 +45,4 @@ Most non-event equipment can be obtained once a month.
 | Sword of Eternal Darkness      | Sword            | Chest in Zone 10 -Fortress 3F Lords Room- Library                      | Dark Type                           | Drops as 1/3 Strength                                   |
 | Greatsword of Eternal Darkness | Two-Handed Sword | Chest in ?                                                             | Dark Type                           | Drops as 1/3 Strength                                   |
 | Mauve Shield           | Light Shield     | Obtained from "Pixie and the Secret Garden" Event Junk                 | Confusion Tolerance                         | Ebonsteel > Mauve Shield > Steel                        |
+| Elegant Dancer         | Boots            | Request Reward for completing Abyss 3 on Pontiff Route                 | Charm Tolerance                             | ASPD +5, EVA +5                                         |
