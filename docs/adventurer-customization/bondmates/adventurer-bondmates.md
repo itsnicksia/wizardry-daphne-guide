@@ -48,7 +48,7 @@
 | Galina     | PIE                 |
 | Gandolfo   |                     |
 | Gaston     | STR                 |
-| Gerard     |                     |
+| Gerard     | VIT                 |
 | Gerulf     | STR                 |
 | Human-Fig  | STR                 |
 | Human-Pri  | PIE                 |
