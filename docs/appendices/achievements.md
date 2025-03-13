@@ -53,6 +53,7 @@
     | [Pontiff] Duke Ixion's Rescue Complete              | Complete the Pontiff's request and rescue Duke Ixion.                              |
     | [Admiral] Duke Ixion's Rescue Complete              | Complete the Admiral's request and rescue Duke Ixion.                              |
     | To Know Poverty                                     | Princess Pulgritte learns the meaning of poverty.                                  |
+    | Fighter Sent by the Gods                            | Conduct and Inquisition on One-Legged Ted                                          |
     | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
 
 === "Adventurer"
