@@ -99,7 +99,7 @@
     ![](img/donato-skill.jpg)
 
 1. Find Donato’s letter on B4.  
-2. Accept [Donato’s Redemption Request](./././walkthrough/1-beginning-abyss/requests.md#donatos-redemption)
+2. Accept [Donato’s Redemption Request](../../../walkthrough/1-beginning-abyss/requests.md#donatos-redemption)
 3. Turning in the request will give him as a bondmate.
 
 ??? map "Location"
