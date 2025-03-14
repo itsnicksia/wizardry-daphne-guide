@@ -167,16 +167,22 @@
 ??? info "Request"
     ![](img/image_52.png)
 
-- Talk to Sophia in the tavern  
-- Find Lambert on B7 and watch as he dies  
+1. Talk to Sophia in the tavern  
+2. Find Lambert on B7. Engage in a fight with 3 Gluttonous Maws.
+3. Return to Sophia in the tavern to obtain a Digging Mattock as a reward.
 
 ??? map "Location"
     ![](img/image_53.png)
 
-- Wheel back to Treacherous Floor Traversal and find Lambert on B5F.
+Alternate Ending:
+
+4. Wheel back to Treacherous Floor Traversal and find Lambert on B5F. Tell him that Sophia is looking for him.
+5. Cursed Wheel to Warped Scene and accept the request. Obtain Sophia as a bondmate
 
 ??? map "Final Location"
     ![](img/lambert-b5f-location.png)
+
+!!! warning "If you save Lambert, any further instances of the quest will not give the Digging Mattock as the reward. To reset this, repeat step 4 but pick the 2nd option instead. All further instances of the quest will now result in a Digging Mattock."
 
 ### Abyss Heretics
 
