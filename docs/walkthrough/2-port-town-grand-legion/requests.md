@@ -253,7 +253,12 @@ Goetia -> Admiral Route
 ??? info "Request"
     ![](img/image_28.png)
 
-- Once you speak to Bonnie and Clyde after getting each one killed (lol), you’ll active this request in the Royal Capital Luknalia on your 3rd time interacting with them  
+??? info "Requirements"
+    - Defeat Bonnie and Clyde after defeating them each once per cursed wheel return.
+
+- Warp to Grand Galleon (or anytime  between that and before Round 2) and talk to Bonnie and Clyde.
+- Select the options: "You can start over now" → "You can run outside now".
+- You will now receive a request from the Adventurer's Guild in the Royal Capital after heading there.
 - After accepting the request go speak to Dana, the innkeeper  
 - Go to Port Town Grand Legion and speak with Hille  
 
