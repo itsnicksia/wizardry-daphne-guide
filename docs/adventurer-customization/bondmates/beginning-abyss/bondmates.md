@@ -75,7 +75,7 @@
 ??? info "Skill"
     ![](img/albano-skill.jpg)
 
-1. Do the [Fragrant Plant Seed](./././walkthrough/1-beginning-abyss/requests.md#fragrant-plant-seed-delivery) quest to get Dana’s Custom Sachet  
+1. Do the [Fragrant Plant Seed](../../../walkthrough/1-beginning-abyss/requests.md#fragrant-plant-seed-delivery) quest to get Dana’s Custom Sachet  
 2. After defeating the boss before the first Major Harken, choose the dialogue  
     - Negotiate (when he picks up the orb)  
 3. Do the [Abyssal Steel Delivery Request](./././walkthrough/1-beginning-abyss/requests.md#abyssal-steel-delivery)  
