@@ -170,15 +170,15 @@ Complete the Oar Collector Extermination request.
 ??? info "Skill"
     ![](img/image_102.png)
 
-- Complete the Murder Investigation request from Rickett
-- Marin has 4 different locations she can spawn during this quest  
-- The location you WANT her to spawn is in is the one listed and I had to keep redoing the quest until she finally spawned here so that she drops the hairband  
+- Complete the Murder Investigation request from Rickert.
+- Marin has various locations that she can spawn on the map. However, only one location will drop her hairpin. If she doesn't spawn in the correct location, you need to cursed wheel. 
+- She will only drop the Hairpin in the checked location below (lower middle room).
 
 ??? map "Marin's Location"
     ![](img/image_76.png)
 
-- After getting the hairband, you’ll need to redo the quest again but this time when speaking to Rickert to get the Murder Investigation request you’ll need to show her the hairband  
-- Once you show Rickert the hairband she’ll leave, if you head to Lower Deck 2 \-Lounge-, you’ll find her speaking with Marin  
+- After getting the hairpin, Cursed Wheel back and show the hairpin to Rickert once accepting the Murder Investigation request.  
+- Once you show Rickert the hairband she’ll leave, if you head to Lower Deck 2 -Lounge-, you’ll find her speaking with Marin. Go there to receive the bondmate.  
 
 ??? map "Final Location"
     ![](img/image_77.png)
