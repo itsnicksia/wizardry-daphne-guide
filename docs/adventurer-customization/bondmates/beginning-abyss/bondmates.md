@@ -17,13 +17,15 @@
 ??? map "Chris Starting Point"
     ![](img/chris-starting-point.jpg)
 
-- Talk to him at the location below  
-- Fetch his friends guild tags  
-- Battle the scavengers
-- If Chris doesn't show up automatically, walk back to where you picked up the request to complete it
+1. Talk to him at the location below  
+2. Fetch his friends guild tags.
+3. Battle the scavengers that show up.
+4. Chris will usually show up automatically after you walk a bit away from the location. Receive the bondmate.
   
 ??? map "Guild tag locations"
     ![](img/image_81.png)
+
+!!! note "To farm, Cursed Wheel to Fresh Start and repeat from Step 1"
 
 ### Mudd, the Eternal Novice
 
@@ -33,19 +35,21 @@
 ??? info "Skill"
     ![](img/mudd-skill.jpg)
 
-- Meet Mudd on B1 and tell him to leave the dungeon  
+1. Meet Mudd on B1 and tell him to leave the dungeon  
 
 ??? map "B1F location"
     ![](img/image_14.png)
 
-- Rescue him on B3  
+2. Rescue him on B3  
 
 ??? map "B3F location"
     ![](img/image_15.png)
-- Rescue him on B4
+3. Rescue him on B4
 
 ??? map "B4F location"
     ![](img/image_16.png)
+
+!!! note "To farm, Cursed Wheel to Fresh Start and repeat from Step 1"
 
 ## Minor Harken Unlocked
 
@@ -57,6 +61,10 @@
 ??? info "Skill"
     ![](img/maurice-skill.jpg)
 
+- After saving him, head to the Tavern in Royal Capital. He will yap to you and become a bondmate.
+
+!!! warning "Sir Maurice is permanently at level 1"
+
 ## Warped One Vanquished
 
 ### Royal Knight Albano
@@ -67,16 +75,18 @@
 ??? info "Skill"
     ![](img/albano-skill.jpg)
 
-- Do the Fragrant Plant Seed quest to get Dana’s Custom Sachet  
-- After defeating the boss before the first Major Harken, choose the dialogue  
+1. Do the [Fragrant Plant Seed](./requests.md#fragrant-plant-seed-delivery) quest to get Dana’s Custom Sachet  
+2. After defeating the boss before the first Major Harken, choose the dialogue  
     - Negotiate (when he picks up the orb)  
-- Do the Abyssal Steel Delivery Request  
+3. Do the [Abyssal Steel Delivery Request](./requests.md#abyssal-steel-delivery)  
     - Tell Marquis that Albano is in the King’s party and get the letter  
-- Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave the dungeon  
-- Leave the dungeon and go back to town for a scene with the Marquis, telling him how much Albano hates him and unlock a new request  
-- Do the Fluorescent Flower Delivery quest  
-- Reconcile Albano and the Marquis back in town  
-- Head back to the Edge of Town after saving the King
+4. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave the dungeon  
+5. Leave the dungeon and go back to town for a scene with the Marquis, telling him how much Albano hates him and unlock a new request  
+6. Do the [Fluorescent Flower Delivery Request](./requests.md#fluorescent-flower-delivery)  
+7. Reconcile Albano and the Marquis back in town  
+8. Head back to the Edge of Town after saving the King
+
+!!! note "To farm, Cursed Wheel to First Minor Harken and then to King Saved and head to Edge of Town. It unsure if this is a bug, but it works."
 
 ## Major Harken Unlocked
 
@@ -88,11 +98,14 @@
 ??? info "Skill"
     ![](img/donato-skill.jpg)
 
-- Find Donato’s letter on B4  
-- Complete the quest Donato’s Redemption  
+1. Find Donato’s letter on B4.  
+2. Accept [Donato’s Redemption Request](./requests.md#donatos-redemption)
+3. Turning in the request will give him as a bondmate.
 
 ??? map "Location"
     ![](img/image_26.png)
+
+!!! note "To farm, Cursed Wheel to Fresh Start and then Treacherous Floor Traversal then start from Step 2."
 
 ## Survivors Found
 
@@ -104,13 +117,17 @@
 ??? info "Skill"
     ![](img/ira-skill.jpg)
 
-- Revive her on B5  
-- Take her back to the church  
-- Visit the church and Donate when prompted (I donated 500 twice)  
-- Visit again to prompt her farewell scene
+- Revive her on B5 at the location below.  
+- Take her back to the church and donate 500g.
+- Cursed Wheel to Warped Scene.
+- Visit the church and donate another 500g.
+- Cursed Wheel again to Warped Scene. 
+- Visit the church again to prompt her farewell scene.
 
 ??? map "Location"
     ![](img/image_38.png)
+
+!!! note "To farm, Cursed Wheel to Treacherous Floor Traversal and then Cursed Wheel to Second Major Harken and repeat from Step 1"
 
 ### Harry the Wandering Adventurer
 
@@ -120,23 +137,25 @@
 ??? info "Skill"
     ![](img/harry-skill.jpg)
 
-- Revive him on B5
+1. Revive him on B5
 
 ??? map "B5F Location"
     ![](img/image_39.png)
 
-- Find him again on B6 and give him a potion  
+2. Find him again on B6 and give him a Potion  
 
 ??? map "B6F Location"
     ![](img/image_40.png)
 
-- Witness his final moments on B7
+3. Witness his final moments on B7
 
-??? map "B7F Location1 "
+??? map "B7F Location 1"
     ![](img/image_42.png)
 
 ??? map "B7F Location 2"
     ![harry-b7f-2.png](img/harry-b7f-2.png)
+
+!!! note "To farm, Cursed Wheel to Second Major Harken and then start from Step 1."
 
 ## Treacherous Floor Traversal
 
@@ -148,7 +167,9 @@
 ??? info "Skill"
     ![](img/bunny-skill.jpg)
 
-- Complete the Relentless Massacre Rabbit quest doing all 4 fights
+- Complete the [Relentless Massacre Rabbit Request](./requests.md#relentless-massacre-rabbit) quest doing all 4 fights.
+
+!!! note "To farm, Cursed Wheel to Treacherous Floor Traversal and complete the request again."
 
 ### Mel the Sniveling Thief
 
@@ -158,8 +179,10 @@
 ??? info "Skill"
     ![](img/mel-skill.jpg)
 
-- Complete the quest Grandchild Party Rescue  
-    - There is a turn limit for the battle, attempt to clear it in under 2 to be safe
+- Complete the [Grandchild Party Rescue Request](./requests.md#grandchild-party-rescue)  
+    - There is a turn limit for the battle, attempt to clear it in under 2 to be safe.
+ 
+!!! note "To farm, Cursed Wheel to Second Major Harken and complete the request again."
 
 ## Second Major Harken
 
@@ -181,6 +204,8 @@
 ??? map "Location"
     ![](img/image_60.png)
 
+!!! warning "Gary the Brave is permanently at level 1"
+
 ### Sir Jack, Undead Smiter
 
 ??? info "Sir Jack, Undead Smiter"
@@ -189,7 +214,9 @@
 ??? info "Skill"
     ![](img/sir-jack-skill.jpg)
 
-- Complete the March of the Undead quest doing all 4 waves
+- Complete the [March of the Undead](./requests.md#march-of-the-undead) doing all 4 waves.
+
+!!! note "To farm, Cursed Wheel to Warped Scene and complete the request again."
 
 ### Sophie the Caring
 
@@ -199,7 +226,9 @@
 ??? info "Skill"
     ![](img/sophie-skill.png)
 
-- Complete the Search for Lambert request
+- Complete the [Search for Lambert Request](./requests.md#search-for-lambert)
+
+!!! note "To farm, Cursed Wheel to Warped Scene and complete the request again."
 
 ## The King’s Rescue
 
@@ -211,8 +240,8 @@
 ??? info "Skill"
     ![](img/boss-goblin-skill.jpg)
 
-1. Defeat the goblin boss on the top right of the map.
-2. Return in time to the 2nd floor harken.
+1. Defeat the goblin boss on the top right of the map before the Greater Warped One is defeated.
+2. Return in time to the Second Major Harken.
 3. Meet him again and select “Slash” and then “Let it go”
 4. Go back to town and talk to the elf at the tavern.
 5. Go back to the goblin's den and be sure to collect the translucent stones on the south side until you find the goblin boss or else the goblin boss won't appear.
@@ -227,9 +256,11 @@
 ??? map "Location"
     ![](img/boss-goblin-final-spot.jpg)
 
+!!! note "To farm, Cursed Wheel to Second Major Harken and repeat from Step 3."
+
 ## Miscellaneous
 
-#### Green Jelly
+#### Ghreen Jelly
 
 ??? info "Ghreen Jelly"
     ![](img/image_68.png)
@@ -238,7 +269,9 @@
     ![](img/jelly-skill.jpg)
 
 - Can be randomly found in the Beginning Abyss (does not show on the map)  
-- Feed it
+- Feed it. The higher the tier of chunk given, the faster it becomes a bondmate.
+
+!!! warning "Ghreen Jelly is permanently at level 1" 
 
 ??? info "Appearance"
     ![](img/image_69.png)
