@@ -546,8 +546,8 @@ Goetia -> Admiral Route
 ??? info "Holly Location"
     ![](img/image_68.png)
 
-- Expose Marin as the warped one and defeat her   
-- Marin can at any location with a persion silhouette. If you talk to people, they will point you to where she went.
+- Expose Marin as the warped one and defeat her.   
+- Marin can at any location with an NPC icon on the minimap. If you talk to people, they will point you to where she went.
 
 ### Gathering Sahuagin Scales
 
