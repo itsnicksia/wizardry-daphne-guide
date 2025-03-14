@@ -148,7 +148,7 @@
 4. Trade the Glowing Ore for Dagger of Honor at the blacksmith in Guarda.
 5. Trade the Dagger of Honor to Graham at Guarda Fortress Entrance for Enchiridion of the Knights of Guarda
 6. Trade the Enchiridion of the Knightss of Guarda for Mysterious Seeds at the tavern in Guarda.
-7. Give the Mysterious Seeds to the Workman at (X:8, Y:2) at Guarda Fortress Entrance during [True Ending Run](./greater-warped-one.md#true-ending)
+7. Give the Mysterious Seeds to the Workman at (X:8, Y:2) at Guarda Fortress Entrance during [True Ending Run](../../../walkthrough/3-guarda-fortress/greater-warped-one.md#true-ending)
 8. Kill the Gatekeeper and return to the Workman to receive Mysterious Flower.
 9. Head to Zone 4 and give the Mysterious Flower to Elequon and receive him as a Bondmate.
 
