@@ -551,10 +551,13 @@ Goetia -> Admiral Route
 
 ### Gathering Sahuagin Scales
 
+- Talk to the chef, not the head chef, in the dining hall about Comadora Peppers.
+- Go to the Royal Capital to receive the request.
+
 ??? info "Request"
     ![](img/image_71.png)
 
-- Defeat Sahuagin in Port Town Grand Legion Abyss to collect scales.
+- Defeat any Sahuagin in Port Town Grand Legion Abyss to collect scales.
 
 ## Return to the Capital
 
