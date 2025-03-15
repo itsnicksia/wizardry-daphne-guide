@@ -484,7 +484,7 @@ Goetia -> Admiral Route
     !!! warning
         You need to walk around this patch until you get 3 dialog prompts. If get frozen in dialog, toggling the "Auto" switch will unlock you.
 
-- Turn in quest at the Temple in Royal Capital Luknalia.
+- Turn in the materials at the Temple in Port Town Grand Legion. You can then complete the request back at the Royal Capital, then head back to Pickerel on the ship.
 
 ### Monster Bird Soup
 
