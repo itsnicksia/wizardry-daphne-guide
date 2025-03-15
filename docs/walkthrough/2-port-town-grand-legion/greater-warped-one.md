@@ -5,6 +5,41 @@
 
     In order to save on resurrection costs on your first time through the arena, it's a good idea to send the MC alone to Arena 1, Arena 3 (Princess and Admiral routes), Arena 4, and Arena 5. You can alternatively send the MC alone the first time on every fight, but if you die against Arena 2 or Arena 3 Pontiff route, Lulu will pretty much tell you that it's a skill issue and there's no reason you should have died.
 
+## Arena Fights in a nutshell
+
+### Arena Round 1
+
+1. You will die due to being stunlocked and instant killed. Only go in with the main character.
+2. Pay some gold or complete [Eradicate Warped Ones Request](./requests.md#eradicate-warped-ones-belowdecks) to remove the instant kill.
+3. Return to town and complete [Exterminate Farm Monsters Request](./requests.md#exterminate-farm-monsters) to give the Mimint to the head chef. Consume Mimint Potage to remove the stun lock.
+4. Beat up stinky boi.
+   
+### Arena Round 2
+
+1. This is a normal fight that depends on talking to Bonnie and Clyde in 7th District - Pier.
+2. After the fight though, the missing person you are looking for is blown up.
+3. See below for additional steps (Saving the Missing Person and Not Being Murdered)
+
+### Arena Round 3
+
+1. You may die depending on who it is. Shagtis is a scripted death, whereas Vernant is extremely difficult but killable (not recommended at this point). Pickerel is relatively straightforward. Go in with the main character only if you're sure you're going to lose.
+2. If Vernant or Shagtis, talk to Pickerel and complete [Temple Food Assistance Request](./requests.md#temple-food-assistance) for Pickerel's help in the fight. If Pickerel, then just kill him and move on, unless you would like a relatively difficult boss fight (probably more difficult than the GWO of this abyss) which requires you to complete [Monster Bird Soup Request](./requests.md#monster-bird-soup).
+3. Win the fight and continue.
+
+### Arena Round 4
+
+1. This fight is winnable, but like Vernant, extremely difficult to do so (Basically a big stat check fight). If you are not confident in your team or are already struggling a bit in general, only go in with the main character.
+2. Head to Lower Deck 1, and head to the switch. Either fight the guard or give him a food voucher. Flip the switch to lower the water.
+3. There will be a new request at the Royal Capital, which is the [Purple Garlic Delivery Request](./requests.md#purple-garlic-delivery). Complete it and give the Garlic to the head chef and eat the garlic dish.
+4. Win the fight. You will get a bondmate if you did not do Step 2 and 3.
+
+### Arena Round 5
+
+1. You will die, so go in with the main character only.
+2. Go to Rickert and complete [Murder Investigation Request](./requests.md#murder-investigation) to turn off the infinite magical beasts.
+3. Talk to the Under Cook in the food hall to obtain [Gathering Sahuagin Scales Request](./requests.md#gathering-sahuagin-scales) at the Royal Capital. Give the peppers to the Under Cook to turn off Geuzen's singing.
+4. Win the fight.
+
 ## Saving the Missing Person and Not Being Murdered
 
 1. After winning your second arena battle and watching your missing person get blown up, use the wheel to go back in time to before fighting the second battle.
