@@ -1,11 +1,5 @@
 # Port Town Grand Legion - Requests
 
-??? note "Some tips for this Abyss before starting"
-    - To make the run easier, one can grind out Undead March Request from the Beginning Abyss to get to level 40 and complete the Grade Up exam.
-    - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from Earth Den BF1.
-    - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for the next Abyss.
-    - ==Do not sell any Sahuagin Scales== when obtaining them as you begin this Abyss, as they are needed for a mandatory main story request.
-
 ## Watery Obstacle
 
 ### Defend My Shop from Goblins
