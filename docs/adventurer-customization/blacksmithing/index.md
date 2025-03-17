@@ -4,12 +4,56 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 
 ![Image of an item highlighting innate attributes and Blessings](img/equipment.png)
 
+## Default Equipment Blessings
+
+**These values are only estimates, and should be used as reference only.**
+
+* `O`: Confirmed
+* `?`: Unconfirmed
+* `Empty`: None
+
+|   Type   | Small Shield | Light Shield | Heavy Shield | Hat | Light Helm | Heavy Helm | Cloth | Light Armor | Heavy Armor | Gloves | Light Gauntlets | Heavy Gauntlets | Shoes | Light Foot Armor | Heavy Foot Armor | Accessory |
+|:--------:|:------------:|:------------:|:------------:|:---:|:----------:|:----------:|:-----:|:-----------:|:-----------:|:------:|:---------------:|:---------------:|:-----:|:----------------:|:----------------:|:---------:|
+|   ATK%   |              |              |              |  O  |      O     |      O     |       |             |             |    0   |        0        |        0        |       |                  |                  |     O     |
+|   MAG%   |              |              |              |  O  |      O     |      ?     |       |             |             |    0   |        0        |        0        |       |                  |                  |           |
+|   DIV%   |              |              |              |  O  |      O     |      ?     |       |             |             |    O   |        O        |        ?        |       |                  |                  |     O     |
+|   ACC%   |              |              |              |  O  |      O     |      ?     |       |             |             |    O   |        O        |        ?        |   O   |         ?        |         O        |     O     |
+|   EVA%   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     ?     |
+|   RES%   |       O      |       O      |       O      |  O  |      ?     |      ?     |   O   |      O      |      ?      |        |                 |                 |       |                  |                  |           |
+|   DEF%   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    0   |        0        |        0        |       |                  |                  |     O     |
+|   MDEF%  |       O      |       O      |       O      |  O  |      ?     |      ?     |       |             |             |        |                 |                 |       |                  |                  |           |
+|   SUR%   |              |              |              |     |            |            |       |             |             |        |                 |                 |       |                  |                  |           |
+| SUR EVA% |              |              |              |     |            |            |       |             |             |        |                 |                 |       |                  |                  |           |
+|   ASPD%  |       O      |       ?      |       ?      |     |            |            |   O   |      O      |      ?      |        |                 |                 |   O   |         ?        |         ?        |     O     |
+|    ATK   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |       |                  |                  |     O     |
+|    MAG   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        ?        |        ?        |       |                  |                  |     O     |
+|    DIV   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |       |                  |                  |     O     |
+|    ACC   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
+|    EVA   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     O     |
+|    RES   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      ?      |        |                 |                 |   O   |         O        |         O        |           |
+|    DEF   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
+|   MDEF   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
+|    SUR   |       O      |       O      |       O      |     |            |            |   O   |      O      |      ?      |        |                 |                 |       |                  |                  |     O     |
+|  SUR EVA |              |              |              |     |            |            |       |             |             |        |                 |                 |       |                  |                  |           |
+|   ASPD   |       O      |       O      |       O      |     |            |            |   O   |      O      |      ?      |        |                 |                 |   O   |         O        |         O        |     O     |
+
 ## Enhance
  - Increases Enchantment Value up to a maximum of +20.
  - Increases Innate Attributes
  - At Enchantment Value +5, +10, +15 and +20, unlocks a new Blessing or improves an existing Blessing if one already exists in that slot.
 
 Requires **Gold** and **Iron Ore**.
+
+### Enhancement Values
+
+**These values are inaccurate, and should be treated as estimates.**
+
+|                                               |  1★ | 2 ★ | 3 ★ |  4 ★ |  5 ★ |
+|:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
+|     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
+| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
+|                 **ASPD, SUR**                 | 1~3 | 1~5 | 1~7 |  2~9 | 2~11 |
+|                   **ASPD%**                   | 1~3 | 1~5 | 1~7 |  2~9 | 2~11 |
 
 ## Refine
 
@@ -34,6 +78,17 @@ Extracting destroys an item, with a small chance of producing an Alteration Ston
 The type of stone produced will be randomly selected from one of the substats on the item under extraction.
 
 Only weapons, armor and accessories can be extracted.
+
+### Extraction Values
+
+**These values are inaccurate, and should be treated as estimates.**
+
+|                                               |  1★ | 2 ★ | 3 ★ | 4 ★ | 5 ★ |
+|:---------------------------------------------:|:---:|:---:|:---:|:---:|:---:|
+|     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~4 | 3~5 | 4~6 | 5~7 |
+| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
+|                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 4~5 | 5~6 |
+|                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
 
 ### Alteration
 

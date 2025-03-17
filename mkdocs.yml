@@ -62,29 +62,28 @@ extra_javascript:
   - javascripts/tablesort.js
 
 nav:
-  - Quick Reference: './quick-reference.md'
   - FAQ: './frequently-asked-questions.md'
-  - Walkthrough:
-    - Introduction: './walkthrough/0-introduction/index.md'
+  - Abyss Guides:
+    - Introduction: './abyss-guides/0-introduction/index.md'
     - Beginning Abyss:
-      - Maps: './walkthrough/1-beginning-abyss/maps.md'
-      - Requests: './walkthrough/1-beginning-abyss/requests.md'
-      - Greater Warped One: './walkthrough/1-beginning-abyss/greater-warped-one.md'
+      - Maps: './abyss-guides/1-beginning-abyss/maps.md'
+      - Requests: './abyss-guides/1-beginning-abyss/requests.md'
+      - Greater Warped One: './abyss-guides/1-beginning-abyss/greater-warped-one.md'
     - Port Town Grand Legion:
-      - Maps: './walkthrough/2-port-town-grand-legion/maps.md'
-      - Requests: './walkthrough/2-port-town-grand-legion/requests.md'
-      - Greater Warped One: './walkthrough/2-port-town-grand-legion/greater-warped-one.md'
+      - Maps: './abyss-guides/2-port-town-grand-legion/maps.md'
+      - Requests: './abyss-guides/2-port-town-grand-legion/requests.md'
+      - Greater Warped One: './abyss-guides/2-port-town-grand-legion/greater-warped-one.md'
     - Guarda Fortress:
-      - Maps: './walkthrough/3-guarda-fortress/maps.md'
-      - Requests: './walkthrough/3-guarda-fortress/requests.md'
-      - Greater Warped One: './walkthrough/3-guarda-fortress/greater-warped-one.md'
-    - Ancient Mausoleum: './walkthrough/ancient-mausoleum/maps.md'
+      - Maps: './abyss-guides/3-guarda-fortress/maps.md'
+      - Requests: './abyss-guides/3-guarda-fortress/requests.md'
+      - Greater Warped One: './abyss-guides/3-guarda-fortress/greater-warped-one.md'
+    - Ancient Mausoleum: './abyss-guides/ancient-mausoleum/maps.md'
     - Dens:
-      - Den of Earth: './walkthrough/dens/den-of-earth.md'
-      - Den of Fire: './walkthrough/dens/den-of-fire.md'
-      - Den of Wind: './walkthrough/dens/den-of-wind.md'
-      - Den of Light: './walkthrough/dens/den-of-light.md'
-    - Grade Exams: './walkthrough/grade-exams/maps.md'
+      - Den of Earth: './abyss-guides/dens/den-of-earth.md'
+      - Den of Fire: './abyss-guides/dens/den-of-fire.md'
+      - Den of Wind: './abyss-guides/dens/den-of-wind.md'
+      - Den of Light: './abyss-guides/dens/den-of-light.md'
+    - Grade Exams: './abyss-guides/grade-exams/maps.md'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Legendary Adventurers:

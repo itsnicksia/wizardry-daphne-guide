@@ -10,7 +10,7 @@
 ??? info "Skill"
     ![](img/image_6.png)
 
-- Complete all waves of the [Defend My Shop from Goblins Request](../../../walkthrough/2-port-town-grand-legion/requests.md#defend-my-shop-from-goblins)
+- Complete all waves of the [Defend My Shop from Goblins Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#defend-my-shop-from-goblins)
 
 !!! note "To farm, Cursed Wheel to Merfolk Myth and repeat the request."
 
@@ -25,7 +25,7 @@
 !!! note
     It's easiest to wait to get her bondmate until after you have reached `7th District -Pier-`
 
-1. Complete the [Water God Statue Restoration Materials Request](../../../walkthrough/2-port-town-grand-legion/requests.md#water-god-statue-restoration-materials)
+1. Complete the [Water God Statue Restoration Materials Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#water-god-statue-restoration-materials)
 2. Find Regia 5 times throughout Districts 2-7 in the Trade Waterways
     - The easiest way to do this is to teleport into the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. On the 5th time, she will mention that this was the final time she will heal you.
 3. Go to the marked spot in the 2nd District to receive the bondmate
@@ -46,7 +46,7 @@
 ??? info "Skill"
     ![](img/image_18.png)
 
-- Complete the [Fisherman Rescue Request](../../../walkthrough/2-port-town-grand-legion/requests.md#fisherman-rescue) battle within the limited turn count to avoid any of them dying. 
+- Complete the [Fisherman Rescue Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#fisherman-rescue) battle within the limited turn count to avoid any of them dying. 
 
 !!! note "To farm, Cursed Wheel to Colossal Galleon, enter the ship and leave, and repeat the request."
 
@@ -60,7 +60,7 @@
 ??? info "Skill"
     ![](img/image_24.png)
     
-1. Complete [Retake Stolen Belongings from Robbers Request](../../../walkthrough/2-port-town-grand-legion/requests.md#retake-stolen-belongings-from-robbers).
+1. Complete [Retake Stolen Belongings from Robbers Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#retake-stolen-belongings-from-robbers).
 2. Cursed Wheel to One-Eyed Sahuagin and take the request, but this time selecting the “Pirates?” dialogue choice when prompted at quest start.
 
 !!! note "To farm, Cursed Wheel to One-Eyed Sahuagin, and repeat the request."
@@ -75,7 +75,7 @@
 ??? info "Skill"
     ![](img/image_40.png)
 
-- Complete the [Servant and Cargo Recovery Request](../../../walkthrough/2-port-town-grand-legion/requests.md#servant-and-cargo-recovery) within the time limit and choose to let the maids go.
+- Complete the [Servant and Cargo Recovery Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#servant-and-cargo-recovery) within the time limit and choose to let the maids go.
 
 !!! note "To farm, Cursed Wheel to Colossal Galleon, and repeat the request."
 
@@ -87,7 +87,7 @@
 ??? info "Skill"
     ![](img/image_41.png)
 
-- Complete the [Repel Enemy Forces Request](../../../walkthrough/2-port-town-grand-legion/requests.md#repel-enemy-forces) and defeat all waves.
+- Complete the [Repel Enemy Forces Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#repel-enemy-forces) and defeat all waves.
 
 !!! note "To farm, Cursed Wheel to All Aboard, and repeat the request."
 
@@ -104,10 +104,10 @@
 1. Complete the four Procurement requests and turn each in to the Head Cook directly. Do not turn them into the guild.
 
 ??? note "Procurement Quest Links"
-    - [Scorpion Woman Legs and Herb Procurement Request](../../../walkthrough/2-port-town-grand-legion/requests.md#scorpion-woman-legs-and-herb-procurement)
-    - [Giant Insect Procurement Request](../../../walkthrough/2-port-town-grand-legion/requests.md#giant-insect-procurement)
-    - [Minotaur Spare Rib Procurement Request](../../../walkthrough/2-port-town-grand-legion/requests.md#minotaur-spare-rib-procurement)
-    - [Hydra Plant Procurement Request](../../../walkthrough/2-port-town-grand-legion/requests.md#hydra-plant-procurement)
+    - [Scorpion Woman Legs and Herb Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#scorpion-woman-legs-and-herb-procurement)
+    - [Giant Insect Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#giant-insect-procurement)
+    - [Minotaur Spare Rib Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#minotaur-spare-rib-procurement)
+    - [Hydra Plant Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#hydra-plant-procurement)
 
 3. Wheel ahead (if you're not already there) to Arena 5 and beat either Melgina or Octonarus.
 4. After the battle, do not return to town. Instead, take the harken at the pier over to the Lower Deck 2 \-Lounge- and Head Cook.
@@ -122,7 +122,7 @@
 ??? info "Skill"
     ![](img/ugo-skill.png)
 
-- Complete the [Oar Collector Extermination Request](../../../walkthrough/2-port-town-grand-legion/requests.md#oar-collector-extermination)
+- Complete the [Oar Collector Extermination Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#oar-collector-extermination)
 
 - After defeating the final Oar Collector, you must suggest Ugo becomes an apprentice to Rickard.
 - Ugo will then randomly appear in the ship offering a variety of items for sale.
@@ -184,10 +184,10 @@
 3. Read all mermaid statues and choose the secret text for each   
 4. Cursed Wheel to One-Eyed Sahuagin and speak to the red sahuagin destroying the statue, tell him “Don’t you want to save Melgina” for the dialogue choice  
 5. Cursed Wheel to Flooded Town and speak with Melgina using the “Do you want to be free from Octonarus” dialogue choice  
-6. Complete the [Rustproof Knife Delivery Request](../../../walkthrough/2-port-town-grand-legion/requests.md#rustproof-knife-delivery) that Melgina gives you instead of getting her the mackerel sandwich  
-7. Complete the [Titanium Ore Delivery Request](../../../walkthrough/2-port-town-grand-legion/requests.md#titanium-ore-delivery) to have the blacksmith make it and give it to Melgina  
+6. Complete the [Rustproof Knife Delivery Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#rustproof-knife-delivery) that Melgina gives you instead of getting her the mackerel sandwich  
+7. Complete the [Titanium Ore Delivery Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#titanium-ore-delivery) to have the blacksmith make it and give it to Melgina  
 8. Wheel time back to One-eyed Sahuagin and respond with “Dont you want to save Melgina” then “I understand, Gessi”  
-9. Complete [Obtaining Titanium Ore Request](../../../walkthrough/2-port-town-grand-legion/requests.md#obtaining-titanium-ore) 
+9. Complete [Obtaining Titanium Ore Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#obtaining-titanium-ore) 
 10. Wheel time back to Arena Round 5 and after defeating Geuzan, choose “Melgina's liberation” as the dialogue.
 11. Beat up the Greater Warped One, and receive Melgina as a bondmate. 
 
@@ -201,7 +201,7 @@
 ??? info "Skill"
     ![](img/image_102.png)
 
-- Complete the [Murder Investigation Request](../../../walkthrough/2-port-town-grand-legion/requests.md#murder-investigation) from Rickert.
+- Complete the [Murder Investigation Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#murder-investigation) from Rickert.
 - Marin has various locations that she can spawn on the map. However, only one location will drop her hairpin. If she doesn't spawn in the correct location, you need to cursed wheel. 
 - She will only drop the Hairpin in the checked location below (lower middle room).
 
@@ -226,6 +226,6 @@
 ??? info "Skill"
     ![](img/image_80.png)
 
-- Complete the [Arena Tourney Hosted by Avare! Request](../../../walkthrough/2-port-town-grand-legion/requests.md#arena-tourney-hosted-by-avare) to completion
+- Complete the [Arena Tourney Hosted by Avare! Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#arena-tourney-hosted-by-avare) to completion
 
 !!! note "To farm, Cursed Wheel to Return to Capital and repeat the request"

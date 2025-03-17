@@ -10,7 +10,7 @@
 ??? info "Skill"
     ![](img/kidnapped-girl-liam-skill.png)
 
-- Complete the [Search for the Missing Girl](../../../walkthrough/3-guarda-fortress/requests.md#search-for-the-missing-girl) request perfectly.
+- Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-the-missing-girl) request perfectly.
 
 !!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
 
@@ -22,7 +22,7 @@
 ??? info "Skill"
     ![](img/guardian-knight-dalian-skill.png)
 
-- Complete the [Blackmail Resolution](../../../walkthrough/3-guarda-fortress/requests.md#blackmail-resolution) request.
+- Complete the [Blackmail Resolution](../../../abyss-guides/3-guarda-fortress/requests.md#blackmail-resolution) request.
 
 !!! warning "Guardian Knight Dalian is permanently lvl 1."
 
@@ -42,7 +42,7 @@
 ??? info "Skill"
     ![](img/enthusiastic-carpenter-hans-skill.png)
 
-- Complete the [Bodyguard for Ruins Exploration](../../../walkthrough/3-guarda-fortress/requests.md#bodyguard-for-ruins-exploration) request.
+- Complete the [Bodyguard for Ruins Exploration](../../../abyss-guides/3-guarda-fortress/requests.md#bodyguard-for-ruins-exploration) request.
 
 !!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
 
@@ -58,7 +58,7 @@
 ??? info "Skill"
     ![](img/endy-the-mage-skill.png)
 
-- Complete the [Forbidden Area Search Escort](../../../walkthrough/3-guarda-fortress/requests.md#forbidden-area-search-escort) request.
+- Complete the [Forbidden Area Search Escort](../../../abyss-guides/3-guarda-fortress/requests.md#forbidden-area-search-escort) request.
 
 !!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
 
@@ -74,7 +74,7 @@
 ??? info "Skill"
     ![](img/singing-skeleton-in-the-tunnel-skill.png)
 
-- Complete the [Search for Missing Person](../../../walkthrough/3-guarda-fortress/requests.md#search-for-missing-person) request.
+- Complete the [Search for Missing Person](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-missing-person) request.
 
 !!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
 
@@ -90,7 +90,7 @@
 ??? info "Skill"
     ![](img/brita-the-lazy-handmaiden-skill.png)
 
-- Complete the [Water Hauling](../../../walkthrough/3-guarda-fortress/requests.md#water-hauling) request.
+- Complete the [Water Hauling](../../../abyss-guides/3-guarda-fortress/requests.md#water-hauling) request.
 
 !!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
 
@@ -106,7 +106,7 @@
 ??? info "Skill"
     ![](img/duke-ixion-skill.png)
 
-- Complete the [Expedition to Clear the Fortress Lower Levels](../../../walkthrough/3-guarda-fortress/requests.md#expedition-to-clear-the-fortress-lower-levels) request.
+- Complete the [Expedition to Clear the Fortress Lower Levels](../../../abyss-guides/3-guarda-fortress/requests.md#expedition-to-clear-the-fortress-lower-levels) request.
 
 !!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Triumphant Return and complete the request again"
 
@@ -118,7 +118,7 @@
 ??? info "Skill"
     ![](img/eugen-and-bibi-skill.png)
 
-- Complete the [Missing Companion](../../../walkthrough/3-guarda-fortress/requests.md#missing-companion) request.
+- Complete the [Missing Companion](../../../abyss-guides/3-guarda-fortress/requests.md#missing-companion) request.
 
 !!! warning "Eugen and Bibi is permanently lvl 1."
 
@@ -130,7 +130,7 @@
 ??? info "Skill"
     ![](img/graham-knight-commander-of-guarda-skill.png)
 
-- Complete the [Emergency Occurrence](../../../walkthrough/3-guarda-fortress/requests.md#emergency-occurrence) request.
+- Complete the [Emergency Occurrence](../../../abyss-guides/3-guarda-fortress/requests.md#emergency-occurrence) request.
 
 !!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Triumphant Return and complete the request again"
 
@@ -148,7 +148,7 @@
 4. Trade the Glowing Ore for Dagger of Honor at the blacksmith in Guarda.
 5. Trade the Dagger of Honor to Graham at Guarda Fortress Entrance for Enchiridion of the Knights of Guarda
 6. Trade the Enchiridion of the Knightss of Guarda for Mysterious Seeds at the tavern in Guarda.
-7. Give the Mysterious Seeds to the Workman at (X:8, Y:2) at Guarda Fortress Entrance during [True Ending Run](../../../walkthrough/3-guarda-fortress/greater-warped-one.md#true-ending)
+7. Give the Mysterious Seeds to the Workman at (X:8, Y:2) at Guarda Fortress Entrance during [True Ending Run](../../../abyss-guides/3-guarda-fortress/greater-warped-one.md#true-ending)
 8. Kill the Gatekeeper and return to the Workman to receive Mysterious Flower.
 9. Head to Zone 4 and give the Mysterious Flower to Elequon and receive him as a Bondmate.
 

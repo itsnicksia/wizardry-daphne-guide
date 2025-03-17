@@ -75,14 +75,14 @@
 ??? info "Skill"
     ![](img/albano-skill.jpg)
 
-1. Do the [Fragrant Plant Seed](../../../walkthrough/1-beginning-abyss/requests.md#fragrant-plant-seed-delivery) quest to get Dana’s Custom Sachet  
+1. Do the [Fragrant Plant Seed](../../../abyss-guides/1-beginning-abyss/requests.md#fragrant-plant-seed-delivery) quest to get Dana’s Custom Sachet  
 2. After defeating the boss before the first Major Harken, choose the dialogue  
     - Negotiate (when he picks up the orb)  
-3. Do the [Abyssal Steel Delivery Request](../../../walkthrough/1-beginning-abyss/requests.md#abyssal-steel-delivery)  
+3. Do the [Abyssal Steel Delivery Request](../../../abyss-guides/1-beginning-abyss/requests.md#abyssal-steel-delivery)  
     - Tell Marquis that Albano is in the King’s party and get the letter  
 4. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave the dungeon  
 5. Leave the dungeon and go back to town for a scene with the Marquis, telling him how much Albano hates him and unlock a new request  
-6. Do the [Fluorescent Flower Delivery Request](../../../walkthrough/1-beginning-abyss/requests.md#fluorescent-flower-delivery)  
+6. Do the [Fluorescent Flower Delivery Request](../../../abyss-guides/1-beginning-abyss/requests.md#fluorescent-flower-delivery)  
 7. Reconcile Albano and the Marquis back in town  
 8. Head back to the Edge of Town after saving the King
 
@@ -99,7 +99,7 @@
     ![](img/donato-skill.jpg)
 
 1. Find Donato’s letter on B4.  
-2. Accept [Donato’s Redemption Request](../../../walkthrough/1-beginning-abyss/requests.md#donatos-redemption)
+2. Accept [Donato’s Redemption Request](../../../abyss-guides/1-beginning-abyss/requests.md#donatos-redemption)
 3. Turning in the request will give him as a bondmate.
 
 ??? map "Location"
@@ -167,7 +167,7 @@
 ??? info "Skill"
     ![](img/bunny-skill.jpg)
 
-- Complete the [Relentless Massacre Rabbit Request](../../../walkthrough/1-beginning-abyss/requests.md#relentless-massacre-rabbit) quest doing all 4 fights.
+- Complete the [Relentless Massacre Rabbit Request](../../../abyss-guides/1-beginning-abyss/requests.md#relentless-massacre-rabbit) quest doing all 4 fights.
 
 !!! note "To farm, Cursed Wheel to Treacherous Floor Traversal and complete the request again."
 
@@ -179,7 +179,7 @@
 ??? info "Skill"
     ![](img/mel-skill.jpg)
 
-- Complete the [Grandchild Party Rescue Request](../../../walkthrough/1-beginning-abyss/requests.md#grandchild-party-rescue)  
+- Complete the [Grandchild Party Rescue Request](../../../abyss-guides/1-beginning-abyss/requests.md#grandchild-party-rescue)  
     - There is a turn limit for the battle, attempt to clear it in under 2 to be safe.
  
 !!! note "To farm, Cursed Wheel to Second Major Harken and complete the request again."
@@ -214,7 +214,7 @@
 ??? info "Skill"
     ![](img/sir-jack-skill.jpg)
 
-- Complete the [March of the Undead](../../../walkthrough/1-beginning-abyss/requests.md#march-of-the-undead) doing all 4 waves.
+- Complete the [March of the Undead](../../../abyss-guides/1-beginning-abyss/requests.md#march-of-the-undead) doing all 4 waves.
 
 !!! note "To farm, Cursed Wheel to Warped Scene and complete the request again."
 
@@ -226,7 +226,7 @@
 ??? info "Skill"
     ![](img/sophie-skill.png)
 
-- Complete the [Search for Lambert Request](../../../walkthrough/1-beginning-abyss/requests.md#search-for-lambert)
+- Complete the [Search for Lambert Request](../../../abyss-guides/1-beginning-abyss/requests.md#search-for-lambert)
 
 !!! note "To farm, Cursed Wheel to Warped Scene and complete the request again."
 

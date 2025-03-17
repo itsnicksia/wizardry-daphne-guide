@@ -96,6 +96,10 @@ When you hit a type advantage on an enemy, you deal roughly 30% more damage (a m
 
 For example, if you deal `200` damage against a neutral enemy with an Earth weapon, if that same enemy were Water type, you would be dealing `200 * 1.3 = 260` damage instead. If the adventurer that was hitting the weakness happened to also be an Earth type, you would instead be dealing `200 * 1.3 * 1.25 = 325` damage.
 
+### Element Type Chart
+
+![Element Chart](./img/element-chart.png)
+
 ## Status Affliction Modifiers
 There are two status afflictions that currently allow you to deal increased damage.
 
