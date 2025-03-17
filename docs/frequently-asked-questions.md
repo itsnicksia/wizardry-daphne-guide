@@ -17,6 +17,12 @@ While limited banners are the best banners to pull on, the `Adventurer Bones` an
 ### If I have all the general pool legendary adventurers, should I save my `Adventurer Bones` and `Legendary Bones` or use them?
 This is ultimately up to you. By saving, you can use them once limited adventurers are added to the general pool. We don't know when this will happen or if all limited adventurers will be added at some point. There is definitely value to using them, as this game has some of the best overall uses of duplicates, since skill inheritance (and to an arguably lesser degree, Discipline) are extremely valuable for improving the strength and effectiveness of your party.
 
+### What is the Exchange?
+The Exchange is a method with the Jeweler to exchange banner tokens, event tokens, and guild points for valuable items such as bones, skill books, ore, and other items. Currency for each of the Exchange tabs can only be used on that particular Exchange tab. If not all event currency is used by the time an event ends, that currency cannot be used again until the event returns. Note that guild points carry over from month to month, so you never have to worry about losing those.
+
+### What should I get with my Guild Points?
+There's no wrong answer here, and generally it depends on what you need. Gems, Adventurer Bones, the Legendary Bone, and Ore are all solid options when you need them. Most Class Remains bones should probably be avoided due to not being able to pull a Legendary with them, with the exception of the Fighter's Remains. There are multiple incredible inheritable skills that you can get from fighters.
+
 ### Is there a Pity System?
 No, there is not a pity system.
 
