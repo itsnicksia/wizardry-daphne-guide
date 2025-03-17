@@ -28,10 +28,10 @@
 
 ## Guarda Fortress
 
-| Dispatch Name                              | Reward       | Stars | Level | Duration | Dispatch Conditions  | Wheel Availability |
-| ------------------------------------------ | ------------ | ----- | ----- | -------- | -------------------- | ------------------ |
-| Martial Training in the Secret Depths      | Exp          | 2     | 27    | 12 hours | 2 people             |                    |
-| Big Cleanup Job                            | Gold         | 4     | 30    | 12 hours | 3 dwarves, 3 people  |                    |
-| Monster Eradication at the Garrison        | Junk         | 2     | 33    | 12 hours | None                 |                    |
-| Top-Secret Exploration Escort              | Junk and Exp | 3     | 36    | 20 hours | None                 |                    |
-| Operation to Reclaim the Fortress Basement | Junk and Exp | 4     | 40    | 20 hours | Evil or neutral only |                    |
+| Dispatch Name                              | Reward       | Stars | Level | Duration | Dispatch Conditions  | Wheel Availability          |
+| ------------------------------------------ | ------------ | ----- | ----- | -------- | -------------------- | --------------------------- |
+| Martial Training in the Secret Depths      | Exp          | 2     | 27    | 12 hours | 2 people             |                             |
+| Big Cleanup Job                            | Gold         | 4     | 30    | 12 hours | 3 dwarves, 3 people  |                             |
+| Monster Eradication at the Garrison        | Junk         | 2     | 33    | 12 hours | None                 | Secret Passage Minor Harken |
+| Top-Secret Exploration Escort              | Junk and Exp | 3     | 36    | 20 hours | None                 |                             |
+| Operation to Reclaim the Fortress Basement | Junk and Exp | 4     | 40    | 20 hours | Evil or neutral only |                             |

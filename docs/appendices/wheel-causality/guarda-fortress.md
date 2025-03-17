@@ -10,7 +10,17 @@
 
 ## Secret Passage Minor Harken
 
+### Corrosion Sentry
+
+* Spotted
+* Not spotted
+
 ## Enshadowed Well of Life
+
+### Corrosion Sentry
+
+* Spotted
+* Not spotted
 
 ### Corrosion Sentry
 
