@@ -39,7 +39,7 @@ There is only one ending for this event, and is relatively quick to complete (if
 10. Dragon is successfully killed this time, but Berkanan is burned to death again.
 11. Head back to town to turn in the request, and rewind time.
 
-??? Note "Ore Locations for 2nd Run"
+??? note "Ore Locations for 2nd Run"
 ![](img/sahuagin-cave-ore-locations.png)
 
 ??? note "3nd Run"
@@ -50,5 +50,10 @@ There is only one ending for this event, and is relatively quick to complete (if
 5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
 6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
-??? Note "Ore Locations for 3nd Run"
+??? note "Ore Locations for 3nd Run"
 ![](img/sahuagin-cave-ore-locations-2.png)
+
+??? note "Unique Event Rewards"
+![](img/dragon-slayer.jpg)
+![](img/trollkin-ring.jpg)
+![](img/katana.jpg)
