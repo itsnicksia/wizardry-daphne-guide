@@ -74,16 +74,7 @@ Saved the Duke, but did not find the culprit behind the sinister events in Guard
 
 You can save Liam once you receive "Lily and Alan's Guild Request".
 
-I recommend completing all steps without spending time elsewhere, as it may result in Liam dying after the ending.
-
-1. Post the request to the Guild.
-2. Choose to use a dog when given the option.
-3. Tell the Houndmaster: "I love dogs".
-4. Ask the Houndmaster what to get for the dog.
-5. Buy 10 Meat from the Merchant in Town.
-6. Travel to Zone 8 to retrieve wheat.
-7. Return to Town.
-8. Kill the kidnappers.
+See [Search for the Missing Girl Request](./requests.md#search-for-the-missing-girl)
 
 #### Rewards
 
@@ -131,6 +122,10 @@ Saved the Duke and apprehended the mastermind.
 * Has a very large array of skills that he can use, and as such battles can vary quite drastically.
 * Fight is somewhat long, has around ~3 main discernable phases.
 
+??? note "Approximate HP Thresholds for certain corruption levels"
+  - 6 Corruption: Phase 1: 5k HP | Phase 2: 19k HP | Phase 3: 3.5k HP
+  - 0 Corruption: Phase 1: 8k HP | Phase 2: 34k HP | Phase 3: 8k HP
+
 #### Battle Tips
 
 ##### Recommended Party Composition
@@ -174,8 +169,3 @@ Saved the Duke and apprehended the mastermind.
     ![](./img/no_corruption_true_ending_achievement.png)
 
     It is extremely difficult to attempt a no corruption run, especially on the true ending. There is nothing to gain from this except 50 gems and an achievement to flex.
-
-## Special Thanks
-
-- Gagging
-- Hammy
