@@ -25,9 +25,6 @@
     === "Advice of the Skull"
         Increases damage against undead and decreases damage from undead.
 
-        !!! bug
-            There is currently a bug with this skill where the damage is displayed as if the damage were being increased, but the damage value itself does not get increased as it should.
-
 !!! info "Discipline Skill"
     === "Future Dreamt with the Skull"
         Continuously increases each stat, MP and Skill-Bind/Spell-Bind Tolerance increased further.

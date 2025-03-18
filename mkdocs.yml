@@ -97,6 +97,8 @@ nav:
       - Alice:
         - Details: './adventurers/legendary-adventurers/details/Alice.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Alice.md'
+      - Berkanan:
+        - Details: './adventurers/legendary-adventurers/details/Berkanan.md'
       - Debra:
         - Details: './adventurers/legendary-adventurers/details/Debra.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Debra.md'
@@ -106,6 +108,8 @@ nav:
       - Gerulf:
         - Details: './adventurers/legendary-adventurers/details/Gerulf.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Gerulf.md'
+      - Iarumas:
+        - Details: './adventurers/legendary-adventurers/details/Iarumas.md'
       - Lanavaille:
         - Details: './adventurers/legendary-adventurers/details/Lanavaille.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Lanavaille.md'
