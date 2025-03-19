@@ -5,9 +5,13 @@
 
 There is only one ending for this event, and is relatively quick to complete (if you are strong). It takes a minimum of three cursed wheel resets to complete entirely however.
 
-??? note "Maps"
+??? note "Map BF1"
     ![](img/sahuagin-cave-1.jpg)
+    
+??? note "Map BF2"
     ![](img/sahuagin-cave-2.jpg)
+    
+??? note "Map BF3"
     ![](img/sahuagin-cave-3.jpg)
 
 ??? note "1st Run"
@@ -25,6 +29,16 @@ There is only one ending for this event, and is relatively quick to complete (if
     12. You can now open previously locked doors. Move ahead to the side of the Dragon.
     13. Have Iarumas distract the dragon and fight the dragon. However, it rages at the end and melts in the Magma.
     14. Turn in the request and get basically nothing. Rewind time with Cursed Wheel.
+
+??? danger "Dragon Boss Fight Tips"
+    - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Bronze Grade is maybe around 3k HP.
+    - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
+    - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
+    - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
+    - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
+    - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
+    - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
+    - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
 
 ??? note "2nd Run"
     1. Watch cutscene of Lulu looking for info. Select all the options.
