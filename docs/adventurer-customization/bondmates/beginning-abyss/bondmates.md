@@ -241,7 +241,7 @@
     ![](img/boss-goblin-skill.jpg)
 
 1. Defeat the goblin boss on the top right of the map before the Greater Warped One is defeated.
-2. Return in time to the Second Major Harken.
+2. Wheel to `Major Harken Unlocked` then back to `The King’s Rescue`.
 3. Meet him again and select “Slash” and then “Let it go”
 4. Go back to town and talk to the elf at the tavern.
 5. Go back to the goblin's den and be sure to collect the translucent stones on the south side until you find the goblin boss or else the goblin boss won't appear.
