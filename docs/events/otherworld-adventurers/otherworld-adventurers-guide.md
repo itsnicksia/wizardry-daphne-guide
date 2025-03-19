@@ -31,7 +31,8 @@ There is only one ending for this event, and is relatively quick to complete (if
     14. Turn in the request and get basically nothing. Rewind time with Cursed Wheel.
 
 ??? danger "Dragon Boss Fight Tips"
-    - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Bronze Grade is maybe around 3k HP.
+    - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 3k HP. Bronze Grade is around 7k HP.
+    - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
     - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
     - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
     - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
