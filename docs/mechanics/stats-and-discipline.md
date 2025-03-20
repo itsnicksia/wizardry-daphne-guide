@@ -4,9 +4,24 @@
 
 ## Character Stats
 
-### How Primary Stats, Substats, and Classes Interact
+### Class Multipliers
 
-![](../img/stats-chart.png)
+!!! warning "These are approximate baseline multipliers. There is a strong chance that class levels and/or grade gets factored in as well."
+
+| Stat          | Formula                       | Wanderer | Knight | Fighter | Priest | Thief | Mage | Ninja | Black Rod | Tall Mage | Notes                                                                                            |
+| ------------- | ----------------------------- | -------- | ------ | ------- | ------ | ----- | ---- | ----- | --------- | --------- | ------------------------------------------------------------------------------------------------ |
+| Attack Power  | X * STR                       | 1.1      | 1.1    | 1.2     | 0.9    | 1     | 0.5  | 1     | 1.05      | 1         |                                                                                                  |
+| Magic Power   | X * IQ                        | 0.7      | 0.5    | 0.5     | 0.9    | 0.6   | 1.2  | 0.75  | 1         | 1         |                                                                                                  |
+| Divine Power  | X * PIE                       | 0.7      | 1      | 0.6     | 1.2    | 0.5   | 1    | 0.3   | 0.6       | 0.8       |                                                                                                  |
+| Defense       | X * VIT                       | 1.05     | 1.15   | 1.05    | 1      | 0.95  | 0.9  | 0.95  | 1         | 1         |                                                                                                  |
+| Magic Defense | X * PIE                       | 0.9      | 1.15   | 0.9     | 1.1    | 0.95  | 1.1  | 1     | 0.9       | 0.95      |                                                                                                  |
+| Detect        | X * (IQ * 0.7 + LUK * 0.3)    | 1        | 0.8    | 0.9     | 1      | 0.95  | 1.15 | 0.95  | 0.9       | 0.8       | Formula is correct, but multipliers might be off                                                 |
+| Disarm Trap   | X * (DEX * 0.7 + LUK * 0.3)   | 1        | 0.8    | 0.9     | 0.9    | 1.1   | 0.85 | 1     | 0.9       | 0.85      | Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm                                           |
+| Evade Trap    | X * (SPD * 0.7 + LUK * 0.3)   | 1        | 0.8    | 0.9     | 0.9    | 1.15  | 0.85 | 1     | 0.9       | 0.8       |                                                                                                  |
+| Action Speed  | X * SPD                       | 0.9      | 0.75   | 0.9     | 0.9    | 1     | 0.85 | 1     | 0.85      | 0.85      |                                                                                                  |
+| Accuracy      | X * (DEX * 0.7 + LUK * 0.3)   | 1        | 1      | 1       | 0.9    | 1.1   | 0.7  | 1.15  | 1         | 1.1       |                                                                                                  |
+| Evasion       | X * (SPD * 0.7 + LUK * 0.3)   | 0.9      | 0.7    | 0.9     | 0.8    | 1.1   | 0.7  | 1.15  | 0.85      | 0.7       |                                                                                                  |
+| Resistance    | X * (PIE * 0.65 + VIT * 0.35) | 0.9      | 1.05   | 0.9     | 1      | 0.89  | 0.9  | 0.89  | 0.89      | 0.85      | There is almost definitely a rounding bug of some kind here but these are the numbers that work. |
 
 Looking at the above chart, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not completely linear due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be `70*1.2=84`, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of `60*1.2=72`, or a difference of `12`. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
 
@@ -82,6 +97,15 @@ Your stats page power is caluclated through the following formula, which factors
 * `Sum(ScalarSkillValues)` is the sum of all stat values from skills. This ultimately just that parenthesized value on your stats page, and it does adjust automatically to factor in conditional skills such as `2h Weapon Proficiency`.
     * `Priest Weapon Mastery` falls under this category and is already calculated and displayed for you in the parenthesized value.
 * `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `Strength+` and `I.Q. Conversion`.
-    * `Strength+` is calculated as `STR * 0.75 * ClassMod`.
+    * `Strength+` - see below.
     * `I.Q. Conversion` appears to be around `I.Q. * 0.2` but we haven't fully confirmed this yet.
     * `Nimble Strike` appears to be `DEX * 0.1` rounded down.
+
+### Strength+
+
+Strength+ is a unique property that appears on 2h weapons that adds a portion of the adventurer's STR value to the attack power. This value appears to be different for Ebonsteel than for anything earlier. In addition, it appears to be different for staves.
+
+| Weapon Category | Steel or Lower Multiplier | Ebonsteel Multiplier |
+| --------------- | ------------------------- | -------------------- |
+| Non-staff       | STR * 0.75                | STR * 1              |
+| Staff           | STR * 0.5                 | STR * 0.75           |
