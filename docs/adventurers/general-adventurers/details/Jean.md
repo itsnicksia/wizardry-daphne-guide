@@ -10,6 +10,7 @@
 
 !!! info "Portraits"
     === "Thief"
+        ![](../img/jean-thief.png)
 
     === "Mage"
         ![](../img/jean-mage.png)

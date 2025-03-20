@@ -8,6 +8,10 @@
 **Class Change**: Thief   
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Mage"
+        ![](../img/jarmil-mage.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"

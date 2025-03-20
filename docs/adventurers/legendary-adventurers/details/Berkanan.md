@@ -10,6 +10,7 @@
 
 !!! info "Portraits"
     === "Tall Mage"
+        ![](../img/berkanan-tall-mage.png)
 
 ## Skills
 
@@ -33,7 +34,7 @@
 
     Coin of Power allows her to equip one-handed and two-handed swords, which pretty much cements her as a front line adventurer. In addition, it increases physical-oriented stats.
 
-    True Words of Fire is a very unique spell. At a glance, it's HALITO that can apply two debuffs. Both of these debuffs will stack with other sources of the same debuff, but you'll want to keep in mind the debuff limit. This spell is going to take two of the three spots. One big unknown at this time is how exactly the level-based damage of this spell works. It will presumably hit harder than HALITO, but it's too soon to say how much harder, and will be something to keep an eye on. I'm also not clear if it factors level into the formula instead of Magic Power or in addition to Magic Power.
+    True Words of Fire is a very unique spell. At a glance, it's HALITO that can apply two debuffs. Both of these debuffs will stack with other sources of the same debuff, but you'll want to keep in mind the debuff limit. This spell is going to take two of the three spots. One big unknown at this time is how exactly the level-based damage of this spell works. It will presumably hit harder than HALITO, but it's too soon to say how much harder, and will be something to keep an eye on. The formula for it appears to consider both Magic Power and Class Level when calculating its damage, but it's unclear if that class level component will continue to grow as levels increase past 60, or if that portion is based on a percentage of the current maximum level. One important thing to note is that True Words of Fire, like TZALIK, can be a sure hit, but it is unclear if this is intended or not.
 
     Comparing her to Iarumas, I personally think her kit is all around better. Iarumas has a better single target nuke, but Berkanan won't suffer from the same longevity issues and the fact that she gets access to Immortal Strike gives her a self-healing ability that deals damage, which is something mages lack. One thing that will need testing is if True Words of Fire is boosted by Way of the Warrior. Depending on how Way of the Warrior wording is interpreted, it could either boost the spell damage if she casts it on an enemy one row ahead, or it also might not boost it at all of spell damage is not considered close range damage. I'll update this once we're able to verify!
     
@@ -52,4 +53,4 @@
 
 * Inherit her spell to herself for increased damage
 * Discipline for small gains to important stats
-* Inherit her spell to the MC or other spellcasters. Having an attack spell that applies two debuffs might situationally be beneficial, especially if you don't want to run multiple mages (excluding Berkanan)
+* Inherit her spell to the MC or other spellcasters. Having an attack spell that applies two debuffs might situationally be beneficial, especially if you don't want to run multiple mages

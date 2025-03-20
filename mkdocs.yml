@@ -221,6 +221,7 @@ nav:
         - Details: './adventurers/general-adventurers/details/Viviana.md'
         - Life Story: './adventurers/general-adventurers/life-stories/Viviana.md'
   - Adventurer Customization:
+    - Adventurer Experience: './adventurer-customization/adventurer-experience.md'
     - Blacksmithing: './adventurer-customization/blacksmithing/index.md'
     - Bondmates:
       - Bondmates Quicklist: './adventurer-customization/bondmates/bondmates-quicklist.md'

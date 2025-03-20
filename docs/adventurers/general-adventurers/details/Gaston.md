@@ -8,6 +8,10 @@
 **Class Change**: Thief  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Fighter"
+        ![](../img/gaston-fighter.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"

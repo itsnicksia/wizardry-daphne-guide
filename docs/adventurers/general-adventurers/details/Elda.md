@@ -8,6 +8,10 @@
 **Class Change**: Mage  
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Fighter"
+        ![](../img/elda-fighter.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"
