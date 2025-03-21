@@ -8,6 +8,12 @@
 **Class Change**: Knight  
 **Role**: Healing, Support
 
+!!! info "Portraits"
+    === "Priest"
+        ![](../img/daniel-priest.png)
+
+    === "Knight"
+
 ## Skills
 
 !!! info "Inheritable Skill"

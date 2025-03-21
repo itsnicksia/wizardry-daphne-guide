@@ -30,6 +30,7 @@
 | Barbara    | STR                 |
 | Benjamin   | STR                 |
 | Beast-Thi  | DEX                 |
+| Berkanan   | STR                 |
 | Chloe      | STR                 |
 | Clarissa   | STR                 |
 | Daniel     | STR                 |
@@ -52,6 +53,7 @@
 | Gerulf     | STR                 |
 | Human-Fig  | STR                 |
 | Human-Pri  | PIE                 |
+| Iarumas    |                     |
 | Jarmil     | IQ                  |
 | Jean       | DEX                 |
 | Kiriha     | DEX                 |
