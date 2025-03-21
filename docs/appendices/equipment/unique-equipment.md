@@ -47,6 +47,6 @@ Most non-event equipment can be obtained once a month.
 | Mauve Shield                   | Light Shield     | Obtained from "Pixie and the Secret Garden" Event Junk                 | Confusion Tolerance                         | Ebonsteel > Mauve Shield > Steel                        |
 | Elegant Dancer                 | Boots            | Request Reward for completing Abyss 3 on Pontiff Route                 | Charm Tolerance                             | ASPD +5, EVA +5                                         |
 | Dragon Slayer                  | Two-Handed Sword | Obtained from "Otherworld Adventurers" Exchange Shop                   | Dragon Slayer + Dragon Tolerance            | ATK = Ebonsteel Grade                                   |
-| Trollkin Ring                  | Trinket          | Obtained from "Otherworld Adventurers" Exchange Shop                   | Continuing Healing + DMG+ with Dragonslayer | Heals for 5 HP after every turn                         |
+| Trollkin Ring                  | Trinket          | Obtained from "Otherworld Adventurers" Exchange Shop                   | Continuing Healing + DMG+ with Dragonslayer | Heals for 5 HP after every turn. Boosts Dmg vs dragons ONLY |
 | Saber                          | Katana           | Obtained from "Otherworld Adventurers" Exchange Shop and Event Junk    | One Sword Style                             | Magic Power +30, ATK = Ebonsteel Grade                  |
 
