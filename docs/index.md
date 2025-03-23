@@ -4,7 +4,7 @@ This docsite is maintained by the community of the [Wizardry Variants Daphne Dis
 
 We welcome contributions and corrections by the community so don’t hesitate to add your suggestions to the **#guide-contributions** Discord channel or contribute [on GitHub](https://github.com/itsnicksia/wizardry-daphne-guide)\!
 
-**This guide does contain spoilers, so read at your own risk**
+**This guide does contain spoilers, so read at your own risk!**
 
 ## What is this site?
 
