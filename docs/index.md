@@ -1,22 +1,35 @@
-# Wizardry Variants Daphne Community Docsite
+# Wizardry Variants Daphne Community Guide
 
-This docsite is maintained by the community of the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) and is a collaborative, ongoing work in progress.
+This is a collaborative guide maintained by the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) community.
 
-We welcome contributions and corrections by the community so don’t hesitate to add your suggestions to the **#guide-contributions** Discord channel or contribute [on GitHub](https://github.com/itsnicksia/wizardry-daphne-guide)\!
+We welcome contributions and corrections by the community so please don’t hesitate to add suggestions to the **#guide-contributions** Discord channel or contribute on [GitHub](https://github.com/itsnicksia/wizardry-daphne-guide).
 
-**This guide does contain spoilers, so read at your own risk!**
+For new players, start with the [Introduction Guide](./abyss-guides/0-introduction/index.md) or [FAQ](./frequently-asked-questions.md).
 
-## What is this site?
+**Warning: This guide contains spoilers!**
 
-This is a consolidated collection of information about Wizardry Variants Daphne that includes, but is not limited to details about the Abysses, maps, Greater Warped Ones, requests, adventurers, bondmates, and various game mechanics. Some of this information includes step-by-step processes for completing a task, however this is not a comprehensive step by step walkthrough in its entirety.
+## About the Guide
 
-This site will not hand hold you for all content - we as a community assume part of the fun in a game like this is the challenge of figuring out where you need to go and what you need to do. For particularly crucial elements, we might have those steps listed, but we do not assume that you need to be told the exact path to follow on a particular abyss floor to go from the entry point to the exit point. We also will not always tell you what to expect along the way. We expect you to be able to leverage the maps and information provided to overcome hurdles, but we do not plan to walk you through square by square.
+Our guide has consolidated information about Wizard Variants Daphne, including:
+ - Abyss Walkthroughs and Maps
+ - Greater Warped Ones
+ - Requests
+ - Adventurers
+ - Bondmates
+ - Mechanics, and more!
 
-## How to use this site
+### We Will
+ - Provide the key information and guides that will allow you to complete game content.
+ - Strive to update the guide with new content as quickly as we can.
 
-Navigate to your desired page using the sidebar on the left side of your screen or search for content using the `Search` dialog in the upper right.
+### We Will Not
+ - Provide exhaustive hand-holding through all content.
+ - Warn you of all traps or hidden dangers.
+ - Tolerate any abuse or trolling of maintainers, contributors or community members.
 
-For new players, you can start [with the introduction guide](./abyss-guides/0-introduction/index.md) or our [frequently asked questions](./frequently-asked-questions.md).
+## Navigating the Guide
+
+Find what you're looking for using the **Sidebar** on the left or using **Search** on the **top-right**.
 
 ## Maintainers
 
@@ -26,7 +39,13 @@ For new players, you can start [with the introduction guide](./abyss-guides/0-in
 
 ## Contributing
 
-Do you want to contribute? If so, please follow these [environment setup steps](./contributing/setup-win32.md) and if you feel ambitious, you can check out our [style/syntax reference](./contributing/reference.md) to add some stylistic flair to your contributions.
+Do you want to contribute? 
+
+We welcome community contributions! 
+
+If you'd like to add to our guide, please read [Environment Setup](./contributing/setup-win32.md) to get started.
+
+You can also check out our [Style Guide](./contributing/reference.md) to add stylistic flair to your contributions!
 
 ## Resources
 
