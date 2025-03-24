@@ -33,7 +33,7 @@
 ??? map "Final Location"
     ![](img/regia-final-location.png)
 
-!!! note "To farm, Cursed Wheel to Colossal Galleon and repeat the request."
+!!! note "To farm, Cursed Wheel to The King's Rescue in the previous abyss and then to Colossal Galleon and repeat the request."
 !!! warning "This bondmate is very tedious to farm"
 
 ## Sunken City Arrival
