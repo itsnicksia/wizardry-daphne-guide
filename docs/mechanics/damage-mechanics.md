@@ -10,6 +10,9 @@ By default, a sure hit acts as a 75% damage increase to the final damage you dea
 
 The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.75` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
 
+!!! note
+    Despite what was previously assumed, spells can deal Sure Hits. Most spells seem to have a very large innate negative surety value, which makes this hard to achieve. We're currently assuming it's something like -100 surety, however some spells like `TZALIK` and `True Words of Fire` appear to have a higher (possibly 0 or positive) innate surety value. We have been able to confirm that an MC Mage casting CONES is still able to land a sure hit, though, so spell surety is NOT specific to just `TZALIK` and `True Words`.
+
 ## Buffs and Debuffs
 Buffs and Debuffs are extremely powerful ways to turn a fight in your favor. Some of the most common and impactful buffs and debuffs are:
 
