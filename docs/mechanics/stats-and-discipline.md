@@ -8,22 +8,39 @@
 
 !!! warning "These are approximate baseline multipliers. There is a strong chance that class levels and/or grade gets factored in as well."
 
-| Stat          | Formula                       | Wanderer | Knight | Fighter | Thief | Ninja | Priest | Mage | Black Rod | Tall Mage | Notes                                                                                            |
-| ------------- | ----------------------------- | -------- | ------ | ------- | ----- | ----- | ------ | ---- | --------- | --------- | ------------------------------------------------------------------------------------------------ |
-| Attack Power  | X * STR                       | 1.1      | 1.1    | 1.2     | 1     | 1     | 0.9    | 0.5  | 1.05      | 1         |                                                                                                  |
-| Magic Power   | X * IQ                        | 0.7      | 0.5    | 0.5     | 0.6   | 0.75  | 0.9    | 1.2  | 1         | 1         |                                                                                                  |
-| Divine Power  | X * PIE                       | 0.7      | 1      | 0.6     | 0.5   | 0.3   | 1.2    | 1    | 0.6       | 0.8       |                                                                                                  |
-| Defense       | X * VIT                       | 1.05     | 1.15   | 1.05    | 0.95  | 0.95  | 1      | 0.9  | 1         | 1         |                                                                                                  |
-| Magic Defense | X * PIE                       | 0.9      | 1.15   | 0.9     | 0.95  | 1     | 1.1    | 1.1  | 0.9       | 0.95      |                                                                                                  |
-| Detect        | X * (IQ * 0.7 + LUK * 0.3)    | 1        | 0.8    | 0.9     | 0.95  | 0.95  | 1      | 1.15 | 0.9       | 0.8       | Formula is correct, but multipliers might be off                                                 |
-| Disarm Trap   | X * (DEX * 0.7 + LUK * 0.3)   | 1        | 0.8    | 0.9     | 1.1   | 1     | 0.9    | 0.85 | 0.9       | 0.85      | Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm                                           |
-| Evade Trap    | X * (SPD * 0.7 + LUK * 0.3)   | 1        | 0.8    | 0.9     | 1.15  | 1     | 0.9    | 0.85 | 0.9       | 0.8       |                                                                                                  |
-| Action Speed  | X * SPD                       | 0.9      | 0.75   | 0.9     | 1     | 1     | 0.9    | 0.85 | 0.85      | 0.85      |                                                                                                  |
-| Accuracy      | X * (DEX * 0.7 + LUK * 0.3)   | 1        | 1      | 1       | 1.1   | 1.15  | 0.9    | 0.7  | 1         | 1.1       |                                                                                                  |
-| Evasion       | X * (SPD * 0.7 + LUK * 0.3)   | 0.9      | 0.7    | 0.9     | 1.1   | 1.15  | 0.8    | 0.7  | 0.85      | 0.7       |                                                                                                  |
-| Resistance    | X * (PIE * 0.65 + VIT * 0.35) | 0.9      | 1.05   | 0.9     | 0.89  | 0.89  | 1      | 0.9  | 0.89      | 0.85      | There is almost definitely a rounding bug of some kind here but these are the numbers that work. |
+| Class     | ATK  | MAG  | DIV | DEF  | MDEF | DET  | DIS  | EVA  | SPD  | ACC  | EVA  | RES  |
+|-----------|------|------|-----|------|------|------|------|------|------|------|------|------|
+| Wanderer  | 1.1  | 0.7  | 0.7 | 1.05 | 0.9  | 1    | 1    | 1    | 0.9  | 1    | 0.9  | 0.9  |
+| Knight    | 1.1  | 0.5  | 1   | 1.15 | 1.15 | 0.8  | 0.8  | 0.8  | 0.75 | 1    | 0.7  | 1.05 |
+| Fighter   | 1.2  | 0.5  | 0.6 | 1.05 | 0.9  | 0.9  | 0.9  | 0.9  | 0.9  | 1    | 0.9  | 0.9  |
+| Thief     | 1    | 0.6  | 0.5 | 0.95 | 0.95 | 0.95 | 1.1  | 1.15 | 1    | 1.1  | 1.1  | 0.89 |
+| Ninja     | 1    | 0.75 | 0.3 | 0.95 | 1    | 0.95 | 1    | 1    | 1    | 1.15 | 1.15 | 0.89 |
+| Priest    | 0.9  | 0.9  | 1.2 | 1    | 1.1  | 1    | 0.9  | 0.9  | 0.9  | 0.9  | 0.8  | 1    |
+| Mage      | 0.5  | 1.2  | 1   | 0.9  | 1.1  | 1.15 | 0.85 | 0.85 | 0.85 | 0.7  | 0.7  | 0.9  |
+| Black Rod | 1.05 | 1    | 0.6 | 1    | 0.9  | 0.9  | 0.9  | 0.9  | 0.85 | 1    | 0.85 | 0.89 |
+| Tall Mage | 1    | 1    | 0.8 | 1    | 0.95 | 0.8  | 0.85 | 0.8  | 0.85 | 1.1  | 0.7  | 0.85 |
+
+### Abbreviations and Formula
+- **ATK**: Attack Power (X * STR)
+- **MAG**: Magic Power (X * IQ)
+- **DIV**: Divine Power (X * PIE)
+- **DEF**: Defense (X * VIT)
+- **MDEF**: Magic Defense (X * PIE)
+- **DET**: Detect (X * (IQ * 0.7 + LUK * 0.3))
+- **DIS**: Disarm Trap (X * (DEX * 0.7 + LUK * 0.3))
+- **EVA**: Evade Trap (X * (SPD * 0.7 + LUK * 0.3))
+- **SPD**: Action Speed (X * SPD)
+- **ACC**: Accuracy (X * (DEX * 0.7 + LUK * 0.3))
+- **EVA**: Evasion (X * (SPD * 0.7 + LUK * 0.3))
+- **RES**: Resistance (X * (PIE * 0.65 + VIT * 0.35))
 
 Looking at the above chart, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not a direct 1:1 relationship due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be `70*1.2=84`, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of `60*1.2=72`, or a difference of `12`. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
+
+### Errata
+
+**Detect:** Formula is correct, but multipliers might be off
+**Disarm Trap:** Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm
+**Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work. |
 
 ### Stat Variance
 Stats can vary across two copies of the same Adventurer, and this is due to a combination of level growth, which have an element of randomness, and bonus points. For example, one level 50 Adam could end up with 59 IQ, while another could end up with 73 IQ. We don't have a full understanding of the degree of variance, but when looking at those two Adams, using the chart above, you can see that there's only a difference in Magic Power of `(73-59)*1.2=16.8`. That is not a large difference, especially as our Magic Power increases through equipment.
