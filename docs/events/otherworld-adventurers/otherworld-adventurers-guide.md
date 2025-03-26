@@ -21,7 +21,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     4. Find 3 people on B1F to save. Move to the next floor.
     5. Find 2 people on B2F to save. They are dead already.
     6. Find an extra burned body on the way to the next floor. It's Iarumas.
-    7. Go to B3F, Fire Dragon will show up and start throwing fire everywhere (You may lag quite a bit at this part)
+    7. Go to the large, southern section of B3F, Fire Dragon will show up and start throwing fire everywhere (You may lag quite a bit at this part)
     8. Move to the non-red tiles on the minimap asap or get killed instantly (do this 3 times).
     9. Return to capital, watch cutscene, and then accept the Fire Dragon request at adventurer's guild, head to tavern to talk to Iarumas.
     10. Head back to dungeon B3F, try to fight the dragon again, but you are unable to (this part is important)
