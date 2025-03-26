@@ -234,7 +234,8 @@ nav:
     - Party Construction: './adventurer-customization/party-construction.md'
     - Well of the Mind: './adventurer-customization/well-of-the-mind.md'
   - Mechanics:
-    - Character Stats and Discipline: './mechanics/stats-and-discipline.md'
+    - Character Traits and Stats: './mechanics/traits-and-stats.md'
+    - Discipline and Inheritance: './mechanics/discipline-and-inheritance.md'
     - Damage Mechanics: './mechanics/damage-mechanics.md'
     - Trust:
       - Trust Guide: './mechanics/trust/trust.md'

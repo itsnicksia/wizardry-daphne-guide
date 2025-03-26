@@ -122,9 +122,6 @@ According to in-game text, the merged adventurer also has the maximum number of 
 
 Ultimately, there is no reason not to merge an adventurer when you have the opportunity, regardless of who the adventurer is. You'll have to make a decision at that point which style you prefer to use. A minor stat gain with either style is better than no stat gain with neither style.
 
-### What should I do with my duplicates of X character?
-There's no hard or fast rule on this either. I put some of my personal thoughts and suggestions in the Character Analysis tab, so feel free to follow those if you'd like. You can never go wrong by saving a duplicate for future use, though.
-
 ### What are character duplicates used for?
 They can be used to:
 
@@ -132,29 +129,6 @@ They can be used to:
 2. Increase a character's unique skill level 
 3. Inherit a character's inheritable unique skill to another character (or your MC) 
 4. Dismiss for Grade Tags While dismissing a Legendary character seems scary, it's possible that for some characters, that will be the absolute best value of their duplicates due to the fact that dismissing a level 1 Legendary character that has not completed a grade-up exam will give you 1 No Grade Tag and 1 Iron Grade Tag. Grade tags could easily be a bottleneck as we get to higher levels.
-
-### Should I use my duplicates for Discipline or Inheritance?
-This is an extremely frequently asked and hotly debated question, and there is no general, community-wide consensus. Both are potentially solid options. The following is TheAxolotl's opinion - feel free to consider it, but I encourage you to form your own opinion, as well.
-
-To be blunt, I am not a big fan of Discipline in general. It's fine - more stats are always good, and if you go as far as getting up to Discipline 9, you can get a hefty ~28 added to most stats (and potentially more to the featured stats). The problem I have is that the value per dupe spent on Discipline is relatively low. You can read more about it [here](./mechanics/stats-and-discipline.md#discipline) but up to Discipline 6, it's roughly +2 stats per dupe (not skill level). Between 7 and 9, it's roughly +1.5 stats per dupe.
-
-I consider there being three main breakpoints for Discipline:
-
-1. Discipline 1: This unlocks the passive skill, and while it doesn't make a massive tangible impact on performance, I personally hate having locked skills on adventurers I use
-2. Discipline 6: This maximizes the +2 stats per level rate and gives us roughly +16 stats for 8 dupes (9 copies total)
-3. Discipline 9: Might as well go all out
-
-An honorable mention goes to Disciplines 2 and 5, which are the last of the Disc levels where 1 Dupe = 1 Disc (albeit to get to 5, you do have to use 2 dupes for Disc 3).
-
-Alternatively, Skill Inheritance can have equivalent or better impact on overall party performance for a similar or lesser dupe cost, particularly when you consider that skills generally see a jump in effectiveness on odd levels. Discipline 3 takes 4 dupes to achieve. With those 4 dupes, you could increase a Legendary Adventurer's skill level to level 3 (costing you 3 dupes) and still have a single dupe left over to either get to Disc 1 or inherit that skill on another adventurer, like your MC.
-
-Is Discipline bad? Not at all - stat increases are always good. Is Discipline better than Skill Inherit? This is very debatable, but my opinion is very rarely.
-
-What do I do with my dupes? I have a general process of:
-
-1. First dupe - Discipline 1, strictly for my OCD. I don't like locked skills.
-2. Additional duplicates - inherit to the MC or other adventurers OR get the featured Legendary's skill to an odd level (3 is a great target, 5 or 7 are good if you have a lot of dupes) for a noticeable damage boost
-3. Once I hit the skill levels I want on whatever adventurers I want to give it to, only then will I consider going for more Discipline levels
 
 ### Should I pull on X character?
 This will always come down to personal preference, and whales, dolphins, and F2P players will all have different thoughts. Nobody can tell you how you should spend your money or your pulls. The Character Analysis tab will have some thoughts on different characters that you can use to hopefully make informed decisions that you are happy with.
