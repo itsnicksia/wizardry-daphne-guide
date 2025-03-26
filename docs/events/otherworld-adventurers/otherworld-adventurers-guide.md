@@ -72,3 +72,14 @@ There is only one ending for this event, and is relatively quick to complete (if
     ![](img/dragon-slayer.jpg)
     ![](img/trollkin-ring.jpg)
     ![](img/katana.jpg)
+
+## Farming The Event
+
+There are three major ways to farm the event, each with their own pros and cons. Use your own judgement to determine which gives you the highest currency over time ratio.
+
+* Map Reentry
+    * Farming the event in this manner simply involves entering the map, moving to all the chests you see, then harkening out. This has the least amount of dialogue and loading screens but also the least amount of chests.
+* Event Cursed Wheel
+    * This has you using the event cursed wheel to reset the map. This resets both static chests on the first two floors as well as the stationary enemy encounters that have a high likelihood of dropping chests. This option has the most amount of dialogue and loading screens but also gives the highest number of chests.
+* Main Cursed Wheel
+    * This route involves you taking the cursed wheel back to either `The King's Rescue` or `Return to the Capital` and reentering the event dungeon. This is a bit of a middle ground between the above two options, as it respawns the static chests but not the stationary enemy encounters. It has fewer loading screens than the Event Cursed Wheel route, but more than the Map Reentry.
