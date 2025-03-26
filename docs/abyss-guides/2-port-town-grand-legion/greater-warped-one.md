@@ -1,5 +1,27 @@
 # Port Town Grand Legion - Arena and Greater Warped One
 
+## Mechanics
+
+- Recommended Level: 30
+- Recommended Element: Earth
+
+### Water Statues
+
+These statues create rivers that control movement throughout the map, often forcing you into specific locations.
+
+Bring a Hook of Harken to retreat if your party is too injured to proceed.
+
+Later in the dungeon, on Trade Channel 4th Street, you’ll encounter an event that allows you to disable these statues.
+
+
+### Locked Doors
+
+Red-marked doors on the minimap are inaccessible until the end of the dungeon. 
+
+Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock these doors, just before the arena segment.
+
+## Arena
+
 !!! warning "Arena Warning"
     Most of the arena fights follow the same pattern of attempt it and die, Lulu asks you what happened then tells you to talk to Rickett (by the Ship's Hold harken), you get one or more requests, you complete them, then you try the fight again and win.
 
