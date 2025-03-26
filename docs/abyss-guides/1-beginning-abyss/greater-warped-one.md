@@ -25,6 +25,67 @@
    1. Choose the dialogue “They’re already dead” when checking on the rooted knights  
    2. Choose the dialogue “Leave it to Elmon” when checking on the second rooted knights  
 
+??? warning "BOSS - Scorpion Lady"
+
+    ### Scorpion Lady
+
+    #### HP: 1000 (?)
+    
+    #### Element: Earth
+
+    <hr/>
+
+    ### Abilities
+
+    #### Corrosive Liquid
+    
+    - Effects: Physical DEF Down
+      - Targets: Front Row
+    
+    Deals high damage, prepare to heal.
+    
+    #### Sweeping Tail Strike
+    
+    - Effects: Stun
+      - Targets: One Row
+    
+    #### Giant Scorpion's Sting
+    
+    - Effects: Fear
+      - Targets: One Column
+    
+    #### Giant Chelicerae
+    
+    - Effects: Row Swap
+      - Targets: One Column
+    
+    Pay close attention when this attack is used and quickly reposition your party members back to their normal formation.
+    
+    #### Build Up
+    
+    - Effects: Fear
+    - Targets: One Column
+    
+    Takes a turn to charge and aims at a specific character in the front row.
+    
+    The next turn, deals a very high damage attack at the targeted character and the ally behind.
+    
+    Defend with the targeted character and the ally behind.
+
+    ### Tips
+    
+    #### Watch for Stuns
+    
+    Since **Sweeping Tail Strike** can stun your healer, ensure you have potions ready to sustain the party if healing is delayed.
+
+    #### Exploit Vulnerabilities
+      - Equip **Wind-elemental weapons** like the **Sword of Breeze** to maximize damage output.
+      - If you have a Mage specializing in Wind magic, use their abilities. If not, consider using **Jarmil** and his inherent Wind spell, **FERU**, for single-target damage.
+    
+    #### Manage Debuffs
+      - Be prepared for **Corrosive Liquid**, which lowers armor on your frontline, making physical attacks more dangerous.
+
+
 ### Survivors Found
 
    1. Complete Abyssal Steel Delivery Request  

@@ -9,6 +9,7 @@ Follow the on-screen instructions and after some spooky scenes, you'll be prompt
 ### Creating Your Character
 
 This quiz determines:
+
  - Your alignment - Good, Neutral, or Evil.
  - Your starting attributes (i.e. STR, DEX, etc.)
 
