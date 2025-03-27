@@ -6,9 +6,9 @@ The Ancient Mausoleum is a source of guaranteed general/nameless adventurers. Yo
 
 Usually the battles in the Mausoleum are mandatory as the enemies block the way to the chests. They might drop a low to high grade chest. These can drop:
 
-Low Grade chests : Azureous Ore, Minor potions
-Medium Grade chests : Class Equipment Junk from what Class Mausoleum selected
-High Grade chests : Adventurer's bones 
+- Low Grade chests : Azureous Ore, Minor potions
+- Medium Grade chests : Class Equipment Junk from what Class Mausoleum selected
+- High Grade chests : Adventurer's bones 
 
 Once more and more bones are found, the mausoleum will increasingly drop class specific junk. However, it's not recommended to farm the junk here.
 
