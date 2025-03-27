@@ -40,6 +40,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
     - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
     - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+    - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
 ??? note "2nd Run"
     1. Watch cutscene of Lulu looking for info. Select all the options.
