@@ -44,7 +44,7 @@ This is the symbolic link. Any data sent there actually ends up in your alternat
 [Steam Guide for Migrating Install Directory from C:](https://steamcommunity.com/sharedfiles/filedetails/?id=3442910407)
 
 ## Credits
-Thanks to _.byakko_ on Discord. 
+Thanks to \_.byakko_ on Discord. 
 
 # Emulators
 ## Video Guide For Bluestacks and LDPlayer
