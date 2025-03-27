@@ -12,6 +12,10 @@ Usually the battles in the Mausoleum are mandatory as the enemies block the way 
 
 Once more and more bones are found, the mausoleum will increasingly drop class specific junk. However, it's not recommended to farm the junk here.
 
+#### Crucible Mausoleum
+
+This part of the Mausoleum resets every 2 weeks and provides 5 random adventurer bones guaranteed. It's highly suggested to clear this out whenever you can.
+
 ??? note "Tips for Ancient Mausoleum"
     - It's recommended to bring undead-bane weapons. Evasion is also a very good stat to have to deal with dodging instant-kill skills.
     - Marein for priests can instant kill most of the enemies (who also all try to stand in the rows)
