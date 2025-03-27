@@ -1,3 +1,49 @@
+# Steam
+
+This one is self explanatory.
+
+## Steam Install to another Gaming Drive
+
+If you have C:\ space issues, or want to keep big installs off of your nice SSD, here's how to symb link.
+
+Navigate to:
+
+C:\Users\
+%username%\AppData\LocalLow\drecom
+
+Cut the drecom folder and paste it on another drive, I moved it to F:\Games\Wizardry
+
+The full path looks like this:
+
+ F:\Games\Wizardry\drecom
+
+Launch cmd, navigate to
+
+C:\Users%username\AppData\LocalLow
+
+Using the cd (change directory) command type:
+
+cd AppData\LocalLow
+
+If you aren't by default in your user section, you can
+
+cd..  cd.. 
+
+cd C:\users%username%\AppData\LocalLow
+
+Type this command (please ensure the drive and path are what YOU setup, not me lol)
+
+mklink /j drecom F:\Games\Wizardry\drecom
+
+You'll get an error saying it exists if you haven't moved (cut/paste) the folder to the new location
+
+If it succeeds, you'll see a shortcut-looking folder link in AppData\LocalLow for drecom
+
+This is the symbolic link. Any data sent there actually ends up in your alternate location specified in the command line
+
+[Steam Guide for Migrating Install Directory from C:](https://steamcommunity.com/sharedfiles/filedetails/?id=3442910407)
+
+
 # Emulators
 ## Video Guide For Bluestacks and LDPlayer
 [![Video For Bluestacks and LDPlayer Guides](img/Wizardry%20Emulator.png "How to Download Wizardry Variants Daphne on Bluestacks and LDPlayer")](https://www.youtube.com/watch?v=ZQayUMXtN0U)
