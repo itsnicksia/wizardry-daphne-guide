@@ -62,7 +62,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     1. Repeat everything from before up to the Blacksmith. This time you will ask for a shield as well.
     2. Head to the 3 locations on the map to pick up the ore, along with the one extra location for the shield.
     3. Return to blacksmith for the sword and shield to give to Berkanan.
-    4. Defeat the Dragon again, who is a little bit harder this time, and successfully kill without Berkanan dying.
+    4. Defeat the Dragon again and successfully kill without Berkanan dying.
     5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
     6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
