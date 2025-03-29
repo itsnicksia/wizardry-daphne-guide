@@ -520,7 +520,7 @@ Goetia -> Admiral Route
 ??? info "Request"
     ![](img/lock-vernant-up.jpg)
 
-- Face Vernant twice, once where he has his herbs and once where you've swapped them out
+- Beat Vernant twice, once where he has his herbs and once where you've swapped them out
 - Complete the Monster Bird Soup request
 - Wheel back and complete [Pickerel's Report](requests.md#pickerels-report) again
 - Once you report back to Pickerel, you will have a new dialog option to trick Vernant and lock him away
