@@ -47,7 +47,7 @@
 | Eulalia    | VIT                 |
 | Flut       | IQ                  |
 | Galina     | PIE                 |
-| Gandolfo   |                     |
+| Gandolfo   | STR                 |
 | Gaston     | STR                 |
 | Gerard     | VIT                 |
 | Gerulf     | STR                 |
