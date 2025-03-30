@@ -155,8 +155,8 @@ but this requires stacking Magic Power up to around 200 for each.
 
     ??? note "Some Notes"
 
-        For Zone 1: There will be no patrolling sentries with this configuration so it will be easy to grab the chests that spawn in that room formation. 
-        For Zone 8: Some normal enemies include Vampires, Lesser Demons, Chimeras, and possibly even Cyclops. Be prepared to fight these.
+        - For Zone 1: There will be no patrolling sentries with this configuration so it will be easy to grab the chests that spawn in that room formation. 
+        - For Zone 8: Some normal enemies include Vampires, Lesser Demons, Chimeras, and possibly even Cyclops. Be prepared to fight these.
 
 ### Zone 10 Shinobi Junk + General Junk Farming
 
