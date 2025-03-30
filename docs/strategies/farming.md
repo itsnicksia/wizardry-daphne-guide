@@ -137,7 +137,7 @@ but this requires stacking Magic Power up to around 200 for each.
 
     ??? note "Strategy"
 
-        1. Visit the circled routes for guaranteed enemies
+        1. Visit the circled routes for guaranteed enemies. The Alarm trap room also has many enemy spawns.
         2. Pick up any chests you see
         3. Heal at the fountain as needed
 
@@ -146,3 +146,38 @@ but this requires stacking Magic Power up to around 200 for each.
         1. Bring bonus magic beast damage (weapons, Abenius, etc)
         2. Nuke undead with MA/LA spells
         3. Run away from the horse. He's tedious and gives low experience
+        4. Sentries in this floor minus the Cyclops have very low accuracy. You can evade most attacks just by having around 110-120 evasion. Having much more may guarantee not being hit at all entirely.
+
+### Zone 1 + Zone 8 Junk Farm (Needs specific map variants)
+
+!!! map
+    ![](img/zone-1-and-8-farm.png)
+
+    ??? note "Some Notes"
+
+        For Zone 1: There will be no patrolling sentries with this configuration so it will be easy to grab the chests that spawn in that room formation. 
+        For Zone 8: Some normal enemies include Vampires, Lesser Demons, Chimeras, and possibly even Cyclops. Be prepared to fight these.
+
+### Zone 10 Shinobi Junk + General Junk Farming
+
+!!! map
+    ![](img/zone-10-farm.png)
+
+    ??? note "Strategy"
+
+        1. Complete Good Ending Run for Abyss 3 and unlock the Greater Harken on Floor 10
+        2. Wait at the door for the Sentry to pass by, exit and head to the three adjacent rooms to kill the enemies + collect chests
+        3. Return to Harken avoiding the Sentry by the door
+
+    ??? note "Battle Tips"
+
+        1. The possible sentry fights are: 
+            - 1 Cyclops + 1 Frontline Succubus + 1 Backline Vampire + 1 Backline Succubus
+            - 1 Minotaur + 1 Greater Demon
+            - 1 Backline Vampire + Succubus + 1 frontline Vapire + Succubus
+        2. You cannot run away from these, so make sure you can deal with these types of battles.
+        3. The normal enemies on this floor also include vampires/succubi/minotaurs so be prepared to deal with them (Resistance, ASPD, Light Damage for vampires)
+
+    ??? note "About this floor"
+
+        - If you can reasonably kill the sentries, it is recommended to kill them in order to get more chances at Shinobi Junk, as they have a higher chance of dropping it compared to the normal monsters.
