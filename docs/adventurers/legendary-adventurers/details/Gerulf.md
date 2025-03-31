@@ -13,11 +13,13 @@
         ![](../img/gerulf-fighter.png)
 
     === "Priest"
+        ![](../img/gerulf-priest.png)
 
     === "Fighter After Personal Request"
         ![](../img/gerulf-fighter-personal-request.png)
 
     === "Priest After Personal Request"
+        ![](../img/gerulf-priest-personal-request.png
 
 ## Skills
 

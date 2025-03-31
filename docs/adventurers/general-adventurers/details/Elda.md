@@ -12,6 +12,9 @@
     === "Fighter"
         ![](../img/elda-fighter.png)
 
+    === "Mage"
+        ![](../img/elda-mage.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"
