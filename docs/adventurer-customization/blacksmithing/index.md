@@ -48,11 +48,11 @@ Requires **Gold** and **Iron Ore**.
 
 **These values are inaccurate, and should be treated as estimates.**
 
-|                                               |  1★ | 2 ★ | 3 ★ |  4 ★ |  5 ★ |
+|                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
-|                 **ASPD, SUR**                 | 1~3 | 1~5 | 1~7 |  2~9 | 2~11 |
+|                 **ASPD, SUR**                 | 1~3 | 1~5 | 1~7 |  1~9 | 2~11 |
 |                   **ASPD%**                   | 1~3 | 1~5 | 1~7 |  2~9 | 2~11 |
 
 ## Refine
