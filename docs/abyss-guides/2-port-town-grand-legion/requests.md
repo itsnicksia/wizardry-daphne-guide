@@ -274,6 +274,23 @@ Goetia -> Admiral Route
 ??? map "Alternate Map"
     ![](img/chamomile-alternate-map.jpg)
 
+### Battle Item Set Delivery
+
+??? info "Request"
+    ![](img/battle-set-item-delivery-request.png)
+
+??? info "Requirements"
+    - Defeat Bonnie and Clyde after defeating them each once per cursed wheel return
+
+1. Select options "You can start over now" and "If you go to the arena, you will die".
+2. Head to Royal Capital Item Shop.
+3. Head to Edge of Town and to Abyss entrance. Talk to suspicious man.
+4. Talk to the human knight, the suspicious man again, and then the human knight again.
+5. Defeat the enemy at the end of the road.
+6. Return to the Item Shop and obtain combat tools.
+7. Give them to Bonnie and Clyde.
+8. Fight them in the Arena.
+
 ### Two-Headed Serpents
 
 ??? info "Request"
