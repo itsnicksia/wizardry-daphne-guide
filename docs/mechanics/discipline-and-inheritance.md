@@ -102,6 +102,8 @@ This is an extremely frequently asked and hotly debated question, and there is n
 ### Discipline Pros and Cons
 * Pro: Stat gains are never a bad thing
 * Pro: Stat gains will always be relevant no matter what active skills you use
+* Pro: HP gains are pretty standout, as are stats to things like Disarm Trap where a small number of static points go a long way
+* Con: Attack and Magic power gains in particular are small. At max Discipline, you're generally looking at 28-40ish points more (the higher end if it's a featured stat), which ultimately amounts to less than that in more damage per basic attack
 * Con: Discipline is a very low impact per duplicate
 * Con: It takes a very high Discipline level to have a very noticeable stat gain, with low Discipline levels resulting in largely negligible changes
 * Con: Discipline is a static value and will become less impactful as base stats increase due to level increases
