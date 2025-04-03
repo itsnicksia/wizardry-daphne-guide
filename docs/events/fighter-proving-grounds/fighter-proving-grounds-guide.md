@@ -18,18 +18,18 @@ There are several map variations, and are random upon entering. It is not necess
     ![](img/fighter-map-3.png)
 
 ??? note "Tips"
-  - Remember to carry potions on all three characters.
-  - Carry a healing staff switch so you can use healing spells from the MC and/or other characters who have access to dios/madios. Consider using Self-Healing as well with a divine staff.
-  - The enemies on the advanced floor consist of Minotaurs, Lesser Demons, and Chimeras.
+    - Remember to carry potions on all three characters.
+    - Carry a healing staff switch so you can use healing spells from the MC and/or other characters who have access to dios/madios. Consider using Self-Healing as well with a divine staff.
+    - The enemies on the advanced floor consist of Minotaurs, Lesser Demons, and Chimeras.
     
 ??? danger "Advanced Difficulty Fight Tips"
-  - The final enemy is always a Vampire. He has around 9k HP.
-  - He will generally just basic attack that can be consistently dodged with 150~ evasion. Alternatively he may cast Zelos
-  - He is susceptible to openings, which will inflict around 1k damage
-  - He will cast Kaltu on himself when he is about to die. Then he will do a 1 time Vampire Bats skill that inflicts very high damage.
+    - The final enemy is always a Vampire. He has around 9k HP.
+    - He will generally just basic attack that can be consistently dodged with 150~ evasion. Alternatively he may cast Zelos
+    - He is susceptible to openings, which will inflict around 1k damage
+    - He will cast Kaltu on himself when he is about to die. Then he will do a 1 time Vampire Bats skill that inflicts very high damage.
 
 ??? note "Master Fighter Ring"
     ![](img/fighter-ring.png)
-  - The Fighter ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.
+    - The Fighter ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.
 
 
