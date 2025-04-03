@@ -97,6 +97,8 @@ nav:
       - Alice:
         - Details: './adventurers/legendary-adventurers/details/Alice.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Alice.md'
+      - Arboris:
+        - Details: './adventurers/legendary-adventurers/details/Arboris.md'
       - Berkanan:
         - Details: './adventurers/legendary-adventurers/details/Berkanan.md'
       - Debra:
