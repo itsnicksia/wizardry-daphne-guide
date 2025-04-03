@@ -49,4 +49,5 @@ Most non-event equipment can be obtained once a month.
 | Dragon Slayer                  | Two-Handed Sword | Obtained from "Otherworld Adventurers" Exchange Shop                   | Dragon Slayer + Dragon Tolerance            | ATK = Ebonsteel Grade                                   |
 | Trollkin Ring                  | Trinket          | Obtained from "Otherworld Adventurers" Exchange Shop                   | Continuing Healing + DMG+ with Dragonslayer | Heals for 5 HP after every turn. Boosts Dmg vs dragons ONLY |
 | Saber                          | Katana           | Obtained from "Otherworld Adventurers" Exchange Shop and Event Junk    | One Sword Style                             | Magic Power +30, ATK = Ebonsteel Grade                  |
+| Master Fighter's Ring          | Trinket          | Obtained from "Fighter Proving Ground" Exchange Shop                   | Passive Strength Up                         | Ebonsteel Grade + always 4* Red + Fighters only + 3/3   |
 
