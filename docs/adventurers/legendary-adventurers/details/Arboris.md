@@ -42,7 +42,20 @@
 
     I'm generally not a big fan of Discipline skills to begin with, so this will be short - in general, `King's Disposition` is absolute garbage as far as Discipline goes.
 
-    Assuming they fix his bugs, I'm still not very impressed with `Lord of the Deep Forest's`. My big issue with it is that I find the buffs it provides to be contradictory. The evasion boost will be appreciated most by the front row, yet you generally don't want your front row to outspeed your back row, since optimal speed tuning has your buffers and debuffers going before your damage dealers. Similarly, your mages and priests will benefit most from the action speed boost, however they'll benefit least from the evasion boost. In general, having conditional in-battle action speed adjustments can really mess with optimized speed tuning in your equipment. If you want to really mess with speed turning during a battle, just use `BATILGREF` and `PORTO`.
+    Assuming they fix his bugs, I'm still not very impressed with `Lord of the Deep Forest's`. My big issue with it is that I don't see the passive buff being large enough to make a massive impact. The main scenarios I can picture are:
+    
+    - You are perfectly speed-tuned to go ahead of most enemies you face and your buffers/debuffers always go before your damage dealers
+        - In this scenario, gaining some passive ASPD won't do much for you since it won't change your turn order and it won't make you outspeed enemies more than you're already outspeeding them
+    - You have not spent much if any effort on speed tuning your party but you have made it so your party always goes before most enemies
+        - In this scenario, the ASPD could be nice, but you probably won't notice much of an impact since you aren't too worried about your party's turn order
+    - You have speed tuned your party to go in the order you want but some of your party is still being outsped by enemies
+        - In this scenario, you might see some benefit, as the ASPD gains could be enough to finish getting your party going before the enemy, however it'll be variable based on the enemies you face
+
+    In addition, the passive gains are likely not going to be enough to help most players outspeed dangerous enemies such as Vampries.
+
+    There is the possibility that his active skill is supposed to behave like `PORTO` on himself and the adventurer in front or behind him. In this case, there can certainly be some conditional uses for it, however you'd have to be very aware of your party formation and the implications of making just two of your party move faster than the rest.
+
+    In general, having conditional in-battle action speed adjustments can really mess with optimized speed tuning in your equipment if you're not very sure of what you're doing. If you want to really mess with speed turning during a battle, using `BATILGREF` and `PORTO` will likely be both sufficient and a bit more consistent for most players.
 
     * Pull if:
         * You like Arboris as an adventurer
