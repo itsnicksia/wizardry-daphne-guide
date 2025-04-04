@@ -15,7 +15,10 @@ There are several map variations, and are random upon entering. It is not necess
     ![](img/fighter-map-2.png)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-3.png)
+    ![](img/fighter-map-4.png)
+
+??? note "Map Variation 4"
+    ![](img/fighter-map-5.png)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
