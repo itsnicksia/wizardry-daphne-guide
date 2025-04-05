@@ -11,30 +11,27 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 * `O`: Confirmed
 * `Empty`: None
 
-|   Type   | Small Shield | Light Shield | Heavy Shield | Hat | Light Helm | Heavy Helm | Cloth | Light Armor | Heavy Armor | Gloves | Light Gauntlets | Heavy Gauntlets | Shoes | Light Foot Armor | Heavy Foot Armor | Accessory |
-|:--------:|:------------:|:------------:|:------------:|:---:|:----------:|:----------:|:-----:|:-----------:|:-----------:|:------:|:---------------:|:---------------:|:-----:|:----------------:|:----------------:|:---------:|
-|   ATK%   |              |              |              |  O  |      O     |      O     |       |             |             |    0   |        0        |        0        |       |                  |                  |     O     |
-|   MAG%   |              |              |              |  O  |      O     |      O     |       |             |             |    0   |        0        |        0        |       |                  |                  |           |
-|   DIV%   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |       |                  |                  |     O     |
-|   ACC%   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
-|   EVA%   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     O     |
-|   RES%   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |        |                 |                 |       |                  |                  |           |
-|   DEF%   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    0   |        0        |        0        |       |                  |                  |     O     |
-|   MDEF%  |       O      |       O      |       O      |  O  |      O     |      O     |       |             |             |        |                 |                 |       |                  |                  |           |
-|   SUR%   |              |              |              |     |            |            |       |             |             |        |                 |                 |       |                  |                  |           |
-| SUR EVA% |              |              |              |     |            |            |       |             |             |        |                 |                 |       |                  |                  |           |
-|   ASPD%  |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     O     |
-|    ATK   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |       |                  |                  |     O     |
-|    MAG   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |       |                  |                  |     O     |
-|    DIV   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |       |                  |                  |     O     |
-|    ACC   |              |              |              |  O  |      O     |      O     |       |             |             |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
-|    EVA   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     O     |
-|    RES   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |           |
-|    DEF   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
-|   MDEF   |       O      |       O      |       O      |  O  |      O     |      O     |   O   |      O      |      O      |    O   |        O        |        O        |   O   |         O        |         O        |     O     |
-|    SUR   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |       |                  |                  |     O     |
-|  SUR EVA |              |              |              |     |            |            |       |             |             |        |                 |                 |       |                  |                  |           |
-|   ASPD   |       O      |       O      |       O      |     |            |            |   O   |      O      |      O      |        |                 |                 |   O   |         O        |         O        |     O     |
+|   Type   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon|
+|:--------:|:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
+|   ATK%   |         |   O   |         |    O    |       |     O     |   O   |
+|   MAG%   |         |   O   |         |    O    |       |     O     |   O   |
+|   DIV%   |         |   O   |         |    O    |       |     O     |   O   |
+|   ACC%   |         |   O   |         |    O    |   O   |     O     |   O   |
+|   EVA%   |    O    |       |    O    |         |   O   |     O     |   O   |
+|   RES%   |    O    |   O   |    O    |         |   O   |     O     |       |
+|   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
+|    ATK   |         |   O   |         |    O    |       |     O     |   O   |
+|    MAG   |         |   O   |         |    O    |       |     O     |   O   |
+|    DIV   |         |   O   |         |    O    |       |     O     |   O   |
+|    ACC   |         |   O   |         |    O    |   O   |     O     |   O   |
+|    EVA   |    O    |       |    O    |         |   O   |     O     |   O   |
+|    RES   |    O    |   O   |    O    |         |   O   |     O     |       |
+|    DEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|    SUR   |    O    |       |    O    |         |       |     O     |   O   |
+|   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
 
 ## Enhance
  - Increases Enchantment Value up to a maximum of +20.
