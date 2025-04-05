@@ -83,7 +83,7 @@ Only weapons, armor and accessories can be extracted.
 |:---------------------------------------------:|:---:|:---:|:---:|:---:|:---:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~4 | 3~5 | 4~6 | 5~7 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
-|                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 4~5 | 4~6 |
+|                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 3~5 | 4~6 |
 |                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
 
 ### Alteration
