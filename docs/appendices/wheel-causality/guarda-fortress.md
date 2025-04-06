@@ -22,11 +22,6 @@
 * Spotted
 * Not spotted
 
-### Corrosion Sentry
-
-* Spotted
-* Not spotted
-
 ## Secret Path Keeper Vanquished
 
 ### South Corrosion Sentry
