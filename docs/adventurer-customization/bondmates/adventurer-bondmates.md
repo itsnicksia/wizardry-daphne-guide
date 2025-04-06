@@ -53,7 +53,7 @@
 | Gerulf     | STR                 |
 | Human-Fig  | STR                 |
 | Human-Pri  | PIE                 |
-| Iarumas    |                     |
+| Iarumas    | IQ                  |
 | Jarmil     | IQ                  |
 | Jean       | DEX                 |
 | Kiriha     | DEX                 |
