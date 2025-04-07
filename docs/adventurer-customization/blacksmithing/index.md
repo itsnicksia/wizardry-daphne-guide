@@ -94,7 +94,7 @@ Only weapons, armor and accessories can be extracted.
 |                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 3~5 | 4~6 |
 |                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
 
-### Alteration
+## Alteration
 
 Altering an item modifies a substat, and requires an Alteration Stone.
 
@@ -102,13 +102,13 @@ Alteration has some nuanced behavior to it.
 
 * Altering a slot after it reached its checkpoint will remove both the initial Blessing and any enhancements and refinements, leaving the slot with just the value provided by the Alteration Stone.
 
-### Enhancement Inheritance
+## Enhancement Inheritance
 
 Enhancement Inheritance sacrifices an existing enchanted item to increase the enchantment value of another item.
 
 This helps save gold when changing to higher quality equipment when you have already enchanted your existing equipment.
 
-### Unification
+## Unification
 
 ![](img/unifying-equipment.jpg)
 
