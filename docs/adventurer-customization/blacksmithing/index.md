@@ -4,6 +4,10 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 
 ![Image of an item highlighting innate attributes and Blessings](img/equipment.png)
 
+## Video Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Default Equipment Blessings
 
 **These values are only estimates, and should be used as reference only.**
