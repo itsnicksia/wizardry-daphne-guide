@@ -34,9 +34,9 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 |   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
 
 ## Enhance
- - Increases Enchantment Value up to a maximum of +20.
+ - Increases Enhancement Value up to a maximum of +20.
  - Increases Innate Attributes
- - At Enchantment Value +5, +10, +15 and +20, unlocks a new Blessing or improves an existing Blessing if one already exists in that slot.
+ - At Enhancement Value +5, +10, +15 and +20, unlocks a new Blessing or improves an existing Blessing if one already exists in that slot.
 
 Requires **Gold** and **Iron Ore**.
 
@@ -104,9 +104,11 @@ Alteration has some nuanced behavior to it.
 
 ## Enhancement Inheritance
 
-Enhancement Inheritance sacrifices an existing enchanted item to increase the enchantment value of another item.
+Enhancement Inheritance sacrifices an existing enhanced item to increase the enhancement value of another item.
 
-This helps save gold when changing to higher quality equipment when you have already enchanted your existing equipment.
+This only works for items of the same type (one-handed weapons to one-handed weapons, shoes to shoes, etc).
+
+This helps save gold + ore when changing to higher quality equipment when you have already enhanced your existing equipment.
 
 ## Unification
 
