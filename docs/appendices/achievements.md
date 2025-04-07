@@ -43,6 +43,12 @@
     | Carry the Underwater Battle                         | Win the match against Gessi in an underwater battle.                               |
     | Glug Glug Glug...                                   | Win the match against Vernant in an underwater battle.                             |
     | No Ruses                                            | Win the match against Vernant without using any tricks.                            |
+    | You Mustn't Touch! Mustn't Ever Touch!              | Take on all of Belkadia's curses.                                                  |
+    | The Tea Party is Over                               | Win by ramming a golem into Our Heirlooms.                                         |
+    | Who's the Mastermind?                               | Get framed by Dalian and be executed.                                              |
+    | Missing Handmaiden and Servant                      | Upon reaching the great hall, only a few captives are still alive.                 |
+    | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
+    | Everyone Survived                                   | Upon reaching the great hall, all of the captives are still alive.                 |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
     | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
@@ -172,22 +178,24 @@
 
 === "Explore"
 
-    | Name                                     | Description                                    |
-    | ---------------------------------------- | ---------------------------------------------- |
-    | All Harkens Unlocked - Beginning Abyss   | Unlock all the Harkens in the Beginning Abyss. |
-    | All Harkens Unlocked - Trade Waterway    | Unlock all the Harkens in the Trade Waterway.  |
-    | Leave Treasure Chest Locks to Me         | Unlock treasure chests 100 times.              |
-    | Treasure Chest Unlocking Veteran         | Unlock treasure chests 1,000 times.            |
-    | Treasure Hunter                          | Unlock treasure chests 3,000 times.            |
-    | Dungeon Crawler                          | Move 10,000 steps in dungeons.                 |
-    | The Dungeon Is My Playground             | Move 50,000 steps in dungeons.                 |
-    | Know Dungeons Like the Back of Your Hand | Move 100,000 steps in dungeons.                |
+    | Name                                        | Description                                         |
+    | ------------------------------------------- | --------------------------------------------------- |
+    | All Harkens Unlocked - Beginning Abyss      | Unlock all the Harkens in the Beginning Abyss.      |
+    | All Harkens Unlocked - Trade Waterway       | Unlock all the Harkens in the Trade Waterway.       |
+    | All Harkens Unlocked - Impregnable Fortress | Unlock all the Harkens in the Impregnable Fortress. |
+    | Leave Treasure Chest Locks to Me            | Unlock treasure chests 100 times.                   |
+    | Treasure Chest Unlocking Veteran            | Unlock treasure chests 1,000 times.                 |
+    | Treasure Hunter                             | Unlock treasure chests 3,000 times.                 |
+    | Dungeon Crawler                             | Move 10,000 steps in dungeons.                      |
+    | The Dungeon Is My Playground                | Move 50,000 steps in dungeons.                      |
+    | Know Dungeons Like the Back of Your Hand    | Move 100,000 steps in dungeons.                     |
 
 === "Other"
 
     | Name               | Description                                                   |
     | ------------------ | ------------------------------------------------------------- |
     | Thief              | Have your money stolen at an inn.                             |
+    | It Itches!         | Get an itch at an inn.                                        |
     | Living Large       | Stay in a royal suite.                                        |
     | Royal Suite Life   | Stay in a royal suite 50 times.                               |
     | A Secret Kept      | Go through your adventure without revealing the Cursed Wheel. |
