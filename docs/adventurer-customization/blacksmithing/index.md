@@ -143,7 +143,7 @@ Using a SECOND FAS on the same item repeats the process - it will again re-roll 
 !!! note "Example 1: Using Two Full Alter Stones"
     ![](img/fas-subject-2.png)
 
-It is highly suggested that a FAS should be saved and used on your highest rarity items - 4* purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4* Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20.
+It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20.
 
 Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
 
