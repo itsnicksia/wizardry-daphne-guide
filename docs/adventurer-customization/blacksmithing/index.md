@@ -124,6 +124,27 @@ Extracting higher quality items results in a larger bonus granted by the stones.
 
 ### Full Alteration
 
+![](img/samurai-meme.png)
+
 A **Full Alteration Stone** allows you to reroll all unlocked substats on an item.
 
-It is a very rare outcome from **Extraction**.
+!!! note "Known Ways to Obtain"
+  - Very VERY rare chance from extracting ANY grade/quality gear.
+  - As of April 1st, 2025, can be purchased from the monthly pack: "Jeweler Curated Collection Set" for 74.99 USD.
+  - From Old Castle Ruins Event Shop for 10000 event tokens.
+
+It re-rolls all blessings currently on an item. This process is subject to the same RNG that all items are subject to when generating stats on Reversal from junk. It also applies a bonus amount to each blessing; similar to the same check point that you would normally receive when enhancing an item to +5/10/15/20. This allows you to "double-dip" on stats when enhancing a piece of gear altered with FAS if it hasn't been enhanced already. Using this method will allow gear to receive stats significantly higher than naturally possible, even in ideal circumstances.
+
+Using a SECOND FAS on the same item repeats the process - it will again re-roll all blessings while unlocking an alteration slot, even if you had altered previously.
+
+!!! note "Example 1: Using One Full Alter Stone"
+   ![](img/fas-subject-1.png)
+
+!!! note "Example 1: Using Two Full Alter Stones"
+   ![](img/fas-subject-2.png)
+
+It is highly suggested that a FAS should be saved and used on your highest rarity items - 4* purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4* Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20.
+
+Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
+
+
