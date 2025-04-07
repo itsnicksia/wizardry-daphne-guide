@@ -256,7 +256,7 @@
 ??? map "Location"
     ![](img/boss-goblin-final-spot.jpg)
 
-!!! note "To farm, Cursed Wheel to Second Major Harken and repeat from Step 3."
+!!! note "To farm, repeat from step 2"
 
 ## Miscellaneous
 

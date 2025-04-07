@@ -51,5 +51,6 @@ You can also check out our [Style Guide](./contributing/reference.md) to add sty
 
 [Official Wizardry Portal](https://wizardry.info/en)  
 [Wizardry Subreddit](https://www.reddit.com/r/wizardry/)  
+[Wizardry Daphne Subreddit](https://www.reddit.com/r/WizardryDaphne/)  
 [Wizardry Wiki](https://wizardry.wiki.gg/wiki/Wizardry_Wiki)  
 [Wizardry Subreddit and Wiki Discord](https://discord.gg/cknNfGG7YC)

@@ -80,7 +80,7 @@ The most common of these are personality-oriented damage modifiers such Lanavail
 
 Skills like `Wind Formation` and `Fire Formation` will also fall into this category. I suspect they're similar 10% increases, but I haven't tested them out personally.
 
-The final current skill that falls into this category is `Way of the Warrior`. Like `Way of the Thief`, this skill can be leveled up and appears to have an initial increase of 10%. One unique component of this skill is that it appears to only care about the enemy row, and will activate the multiplier if you're hitting something with a close or mid-range weapon regardless of the position the adventurer is in your party. For example, my Elise was hitting the enemy front row with a spear for the same damage when she was in my front row as when she was in my back row.
+The final current skill that falls into this category is `Way of the Warrior`. Like `Way of the Thief`, this skill can be leveled up and appears to have an initial increase of 10%. One unique component of this skill is that it appears to only care about the enemy row, and will activate the multiplier if you're hitting something with a close or mid-range weapon regardless of the position the adventurer is in your party. For example, my Elise was hitting the enemy front row with a spear for the same damage when she was in my front row as when she was in my back row. One key thing to note is that `Way of the Warrior` does not increase damage done by spells, but `Way of the Thief` does increase the sure hit damage from spells.
 
 ### Way of the Warrior Modifier
 
@@ -109,6 +109,11 @@ There are two status afflictions that currently allow you to deal increased dama
 * `KATINO` causes the first hit to deal 100% more damage (a modifier of 2).
 * `Opening` is even more unique. It causes you to deal over 100% damage, but we're not entirely sure what the number is yet, as there are some nuances to it. For example, if you miss while attacking an enemy with the `Opening` affliction, the enemy will still take a large amount of damage. It's possible that a component of this damage is tied to the enemy's maximum or current HP.
 
+## Active Skill and Spell Damage
+Active skills are a very unique bunch. It's hard to figure out the exact formula for them, however we have been able to figure out that they are logarithmic in nature. That means that their damage is on a curve rather than being linear. The higher an adventurer's attack power goes, the lower an overall active skill's damage increase is. It is even possible for basic attacks to deal more damage than active skills at certain power levels. This is most easily seen with `Heavy Attack` where a basic attack will start to deal more damage than `Heavy Attack 1` when an adventurer has over 350 attack power. Each active skill has its own inflection point, so while 350 power seems to be the point for `Heavy Attack 1`, skills such as `Heavy Attack 2` or `Full Power Strike 1` would have different power values where they get surpassed by basic attacks.
+
+Spells are also on a logarithmic curve, however there is no "basic spell attack" that can surpass level 1 of a spell.
+
 ## Calculating Damage
 
 !!! warning "Warning: Contains math"
@@ -119,27 +124,27 @@ There are two status afflictions that currently allow you to deal increased dama
 ### Damage Formula Explanation
 This looks like a relatively simple formula, but there are some nuances that make it surprisingly complex and hard to fully figure out. We'll start with the easy things that we know.
 
-    * `PassiveDamageModifiersMultiplicatively` is the combination of your passive damage modifiers multiplied together
-    * `TypeAdvantageModifier` is factored in if you are hitting a type weakness, such as using an Earth weapon against a Water enemy
-    * `SameTypeAdvantageModifier` is factored in if you are hitting a type weakness with an adventurer that shares type with the attack
-    * `SureHitModifier` is factored in if you land a sure hit
-    * `StatusAfflicitionModifier` is factored in if you're hitting a sleeping enemy or an Opening
-    * `OffHandDamageReduction` appears to start out at a `0.5` multiplier when hitting with the off-hand weapon while Dual Wielding. This multiplier increases as the Dual Wield skill level increases
-    * `BaseDamageFromPowerDefenseAndActiveSkills` is currently the big unknown. We're not entirely sure how the power listed on the stats page translates to the damage that you deal. We also don't entirely know how the active skills fit into the equation. We're still trying to determine if they're a damage multiplier, a multiplier on attack power, or something else. We do know that some component of this is involves taking your attack power, adding attack power boosts from `Warrior's Battle Cry`, subtracting your enemy's defense, subtracting (or adding) any additional defense values from spells and skills like `MORLIS`, `Armor Break`, `MAKALTU`, and factoring in the defense penetration on axes, `Precision Strike`, and `Sneak Attack`. This is the black box that we hope to decipher as we gather more data.
+* `PassiveDamageModifiersMultiplicatively` is the combination of your passive damage modifiers multiplied together
+* `TypeAdvantageModifier` is factored in if you are hitting a type weakness, such as using an Earth weapon against a Water enemy
+* `SameTypeAdvantageModifier` is factored in if you are hitting a type weakness with an adventurer that shares type with the attack
+* `SureHitModifier` is factored in if you land a sure hit
+* `StatusAfflicitionModifier` is factored in if you're hitting a sleeping enemy or an Opening
+* `OffHandDamageReduction` appears to start out at a `0.5` multiplier when hitting with the off-hand weapon while Dual Wielding. This multiplier increases as the Dual Wield skill level increases
+* `BaseDamageFromPowerDefenseAndActiveSkills` is currently the big unknown. We're not entirely sure how the power listed on the stats page translates to the damage that you deal. We also don't entirely know how the active skills fit into the equation. We're still trying to determine if they're a damage multiplier, a multiplier on attack power, or something else. We do know that some component of this is involves taking your attack power, adding attack power boosts from `Warrior's Battle Cry`, subtracting your enemy's defense, subtracting (or adding) any additional defense values from spells and skills like `MORLIS`, `Armor Break`, `MAKALTU`, and factoring in the defense penetration on axes, `Precision Strike`, and `Sneak Attack`. This is the black box that we hope to decipher as we gather more data.
 
 ### Example Damage Calculation
 As an example, suppose you meet the following criteria:
 
-    * You deal `200` damage on a regular attack without factoring in `Way of the Warrior`
-    * You have `Way of the Warrior` and `Way of the Thief` at level 1 each
-    * You have a party that consists of a Neutral MC, Lanavaille in the same row as your MC, Elise behind your MC
-    * You have an Earth elemental weapon
-    * You have changed your MC's type to Earth
-    * You are attacking a Water enemy
+* You deal `200` damage on a regular attack without factoring in `Way of the Warrior`
+* You have `Way of the Warrior` and `Way of the Thief` at level 1 each
+* You have a party that consists of a Neutral MC, Lanavaille in the same row as your MC, Elise behind your MC
+* You have an Earth elemental weapon
+* You have changed your MC's type to Earth
+* You are attacking a Water enemy
 
-    In this scenario, your `200` damage would become `200 * 1.1 * 1.1 * 1.1 * 1.3 * 1.25 ~= 436`. If you went on to land a sure hit, that damage would instead become `872`. Lastly, if you happened to land that sure hit on a sleeping enemy, you would be looking at `1744` damage with a simple basic attack.
+In this scenario, your `200` damage would become `200 * 1.1 * 1.1 * 1.1 * 1.3 * 1.25 ~= 436`. If you went on to land a sure hit, that damage would instead become `872`. Lastly, if you happened to land that sure hit on a sleeping enemy, you would be looking at `1744` damage with a simple basic attack.
 
-    This will increase even further as you factor in the damage from skills, attack power buffs, defense debuffs, and defense penetration/ignore.
+This will increase even further as you factor in the damage from skills, attack power buffs, defense debuffs, and defense penetration/ignore.
 
 ## Warrior's Battle Cry
 Warrior's Battle Cry is an incredibly powerful damage buff. Due to the way damage mechanics work in this game, optimal damage comes from maximizing your attack power, minimizing enemy defense, subtracting the latter from the former, then multiplying the resulting value by your damage modifiers. Warrior's Battle Cry helps us achieve the first part of that by increasing your attack power before damage multipliers take effect.
@@ -192,7 +197,3 @@ What this means is that if you have 43 Luck and Follow-Up Attack 4, you can expe
 
 ### Practical Applications of Follow-Up Attack
 The absolute best application of Follow-Up Attack is with 2-handed weapons. If you have a 25% chance to trigger Follow-Up Attack with a single hit, 2-handed weapon (which will give you the biggest gap between your attack and an enemy's defense), you will on average be dealing `AverageDamage = ProbabilityNormalDamage + ProbabilityDoubleDamage = (100 * 0.75) + (200 * 0.25) = 75% + 50% = 125%`. In other words, you would on average be dealing 25% more basic attack damage across the board with a 2h weapon. This is pretty significant.
-
-## Credits
-Image source unknown, but shared by Nitsu and GrandAccelerator.
-Damage formula has been reverse engineered and tested through a collaborative data collection and analysis effort by TheAxolotl, Salomae, L'Montes, and Aradace.

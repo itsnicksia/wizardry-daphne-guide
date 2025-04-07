@@ -14,7 +14,7 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
     For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on another reset.
 
 | Acronym            | DESCRIPTION                                                                                                     |
-|:-------------------|:----------------------------------------------------------------------------------------------------------------|
+|:------------------ |:--------------------------------------------------------------------------------------------------------------- |
 | STR                | Strength                                                                                                        |
 | IQ                 | IQ                                                                                                              |
 | PIE                | Piety                                                                                                           |
@@ -22,7 +22,7 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 | DEX                | Dexterity                                                                                                       |
 | SPD                | Speed                                                                                                           |
 | LUC                | Luck                                                                                                            |
-| OHWP               | Luck                                                                                                            |
+| OHWP               | One-Handed Weapon Proficiency                                                                                   |
 | THWP               | Two-Handed Weapon Proficiency                                                                                   |
 | CP                 | Cloth Proficiency                                                                                               |
 | LAP                | Light Armor Proficiency                                                                                         |

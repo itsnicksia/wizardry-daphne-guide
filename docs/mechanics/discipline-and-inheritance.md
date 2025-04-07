@@ -95,7 +95,29 @@ Inheritance allows you to give skills from one adventurer to another or increase
     | 14                |                  |                             |
 
 ## Should I use my duplicates for Discipline or Inheritance?
-This is an extremely frequently asked and hotly debated question, and there is no general, community-wide consensus. Both are potentially solid options. The following is TheAxolotl's opinion - feel free to consider it, but I encourage you to form your own opinion, as well.
+This is an extremely frequently asked and hotly debated question, and there is no general, community-wide consensus. Both are potentially solid options, and here are some pros and cons of each.
+
+!!! note "Some of these pros and cons are only applicable to Legendary duplicate usage"
+
+### Discipline Pros and Cons
+* Pro: Stat gains are never a bad thing
+* Pro: Stat gains will always be relevant no matter what active skills you use
+* Pro: HP gains are pretty standout, as are stats to things like Disarm Trap where a small number of static points go a long way
+* Con: Attack and Magic power gains in particular are small. At max Discipline, you're generally looking at 28-40ish points more (the higher end if it's a featured stat), which ultimately amounts to less than that in more damage per basic attack
+* Con: Discipline is a very low impact per duplicate
+* Con: It takes a very high Discipline level to have a very noticeable stat gain, with low Discipline levels resulting in largely negligible changes
+* Con: Discipline is a static value and will become less impactful as base stats increase due to level increases
+
+### Inheritance Pros and Cons
+* Pro: Skill inheritance to the source adventurer can make a very noticeable immediate impact
+* Pro: Inheriting a skill to another adventurer can provide more overall team versatility and utility than increasing one adventurer's Discipline
+* Pro: The logarithmic nature of damage skills means inheritance is necessary for them to stay relevant as attack power grows
+* Pro: The overall duplicate cost of maximum skill inheritance is lower than the duplicate cost of maximum Discipline
+* Con: Primarily with active skills, inheriting can greatly increase the SP/MP costs, making it less likely that you'll be able to use a skill frequently
+* Con: Primarily with active skills, inheriting to a skill could result in "wasted" dupes long-term if new active skills get released that are notably stronger than an adventurer's signature skill
+* Con: Some inheritable skills have very little value after an initial inherit, while it's hard to measure the value of other skill inherits
+
+The following is TheAxolotl's opinion - feel free to consider it, but I encourage you to form your own opinion, as well.
 
 To be blunt, I am not a big fan of Discipline in general. It's fine - more stats are always good, and if you go as far as getting up to Discipline 9, you can get a hefty ~28 added to most stats (and potentially more to the featured stats). The problem I have is that the value per dupe spent on Discipline is relatively low.
 

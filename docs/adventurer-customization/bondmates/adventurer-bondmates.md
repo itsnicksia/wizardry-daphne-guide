@@ -47,13 +47,13 @@
 | Eulalia    | VIT                 |
 | Flut       | IQ                  |
 | Galina     | PIE                 |
-| Gandolfo   |                     |
+| Gandolfo   | STR                 |
 | Gaston     | STR                 |
 | Gerard     | VIT                 |
 | Gerulf     | STR                 |
 | Human-Fig  | STR                 |
 | Human-Pri  | PIE                 |
-| Iarumas    |                     |
+| Iarumas    | IQ                  |
 | Jarmil     | IQ                  |
 | Jean       | DEX                 |
 | Kiriha     | DEX                 |

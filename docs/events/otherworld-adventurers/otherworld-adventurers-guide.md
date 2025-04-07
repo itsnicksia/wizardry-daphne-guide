@@ -21,7 +21,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     4. Find 3 people on B1F to save. Move to the next floor.
     5. Find 2 people on B2F to save. They are dead already.
     6. Find an extra burned body on the way to the next floor. It's Iarumas.
-    7. Go to B3F, Fire Dragon will show up and start throwing fire everywhere (You may lag quite a bit at this part)
+    7. Go to the large, southern section of B3F, Fire Dragon will show up and start throwing fire everywhere (You may lag quite a bit at this part)
     8. Move to the non-red tiles on the minimap asap or get killed instantly (do this 3 times).
     9. Return to capital, watch cutscene, and then accept the Fire Dragon request at adventurer's guild, head to tavern to talk to Iarumas.
     10. Head back to dungeon B3F, try to fight the dragon again, but you are unable to (this part is important)
@@ -40,6 +40,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
     - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
     - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+    - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
 ??? note "2nd Run"
     1. Watch cutscene of Lulu looking for info. Select all the options.
@@ -61,7 +62,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     1. Repeat everything from before up to the Blacksmith. This time you will ask for a shield as well.
     2. Head to the 3 locations on the map to pick up the ore, along with the one extra location for the shield.
     3. Return to blacksmith for the sword and shield to give to Berkanan.
-    4. Defeat the Dragon again, who is a little bit harder this time, and successfully kill without Berkanan dying.
+    4. Defeat the Dragon again and successfully kill without Berkanan dying.
     5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
     6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
@@ -72,3 +73,14 @@ There is only one ending for this event, and is relatively quick to complete (if
     ![](img/dragon-slayer.jpg)
     ![](img/trollkin-ring.jpg)
     ![](img/katana.jpg)
+
+## Farming The Event
+
+There are three major ways to farm the event, each with their own pros and cons. Use your own judgement to determine which gives you the highest currency over time ratio.
+
+* Map Reentry
+    * Farming the event in this manner simply involves entering the map, moving to all the chests you see, then harkening out. This has the least amount of dialogue and loading screens but also the least amount of chests.
+* Event Cursed Wheel
+    * This has you using the event cursed wheel to reset the map. This resets both static chests on the first two floors as well as the stationary enemy encounters that have a high likelihood of dropping chests. This option has the most amount of dialogue and loading screens but also gives the highest number of chests.
+* Main Cursed Wheel
+    * This route involves you taking the cursed wheel back to either `The King's Rescue` or `Return to the Capital` and reentering the event dungeon. This is a bit of a middle ground between the above two options, as it respawns the static chests but not the stationary enemy encounters. It has fewer loading screens than the Event Cursed Wheel route, but more than the Map Reentry.

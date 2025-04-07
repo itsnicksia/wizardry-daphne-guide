@@ -299,10 +299,10 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ??? note "Strategy"
     ^^Frontline:^^
-    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing preferably at lvl 3, but no higher. It's also preferable to have entire inventories of Ultra Healing.
+    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing with a Divine Power Staff switch for bonus healing. It's also preferable to have entire inventories of Ultra Healing.
 
     ^^Backline:^^
-    Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing as well at lvl 1, any higher isnt necessary but lvl 3 is the highest you need. Bring as many SP and MP pots as possible. This can be a long battle.
+    Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing with a Divine Power switch if they're not healers. Bring as many SP and MP pots as possible. This can be a long battle.
 
     ^^Strategy:^^
     If your team is fast enough, you have 1 turn to burn the defense golem for as much HP as possible in 1 turn. You need to use defense penetration skills or extremely high level skills, otherwise you will do nothing substantial. 
