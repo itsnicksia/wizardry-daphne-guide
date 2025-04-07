@@ -67,6 +67,14 @@ Requires a matching Refinement Stone of the **Blessing** to improve.
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.
 
+### Gold Cost for Enhancing
+
+| Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
+|:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:|
+|   Iron    |  350 |  500 |  750 | 1100 | 1550 | 2100 | 2850 | 3750 | 4800 |  6050 |  7500 |  9350 | 11500 | 13950 | 16700 | 19750 | 23400 | 27350 | 39200 | 76200 |  268700 |
+|   Steel   |  500 |  700 | 1100 | 1700 | 2500 | 3500 | 4900 | 6650 | 8750 | 11200 | 14000 | 17400 | 21250 | 25550 | 30300 | 35550 | 41500 | 48050 | 67700 | 126650|  469400 | 
+| Ebonsteel |  650 |  900 | 1500 | 2450 | 3750 | 5400 | 7650 | 10500| 13950| 18000 | 22650 | 28100 | 34750 | 42600 | 51650 | 61900 | 74150 | 87800 | 128750| 251600|  848700 |
+
 ## Extraction
 
 Extracting destroys an item, with a small chance of producing an Alteration Stone or Refinement Stone that can be used to modify or increase substats on items.
@@ -110,11 +118,11 @@ This helps save gold when changing to higher quality equipment when you have alr
 
 The star quality of an item being extracted determines the magnitude of the stones produced. 
 
-Extracting higher quality items results in larger boni granted by the stones.
+Extracting higher quality items results in a larger bonus granted by the stones.
 
 **Tip:** Altering a high quality item with a low-grade Stone and then extracting the resulting item will result in a higher quality Stone, as the game only considers **item quality** and **type of available substats** when generating a Stone, not the magnitude of the substats.
 
-Full Alteration
+### Full Alteration
 
 A **Full Alteration Stone** allows you to reroll all unlocked substats on an item.
 
