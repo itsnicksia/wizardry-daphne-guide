@@ -24,18 +24,22 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |           | Strength |  IQ | Piety | Vitality | Speed | Dexterity | Luck |
 |:------:|:---------:|:--------:|:---:|:-----:|:--------:|:-----:|:---------:|:----:|
 |  Base  |           |    10    |  10 |   10  |    10    |   10  |     10    |  10  |
+|        |           |          |     |       |          |       |           |      |
 | Gender |    Male   |    +1    |     |       |    +1    |       |     +1    |      |
 |        |   Female  |          |  +1 |   +1  |          |   +1  |           |      |
+|        |           |          |     |       |          |       |           |      |
 |  Race  |   Human   |          |     |       |          |       |           |      |
 |        |    Elf    |    -2    |  +3 |   -1  |    -2    |   +1  |     +2    |  -1  |
 |        |   Dwarf   |    +2    |  -2 |   +1  |    +3    |   -4  |     +3    |  -3  |
 |        | Beastfolk |    -1    |  +1 |   -4  |    +2    |   +3  |     +2    |  -3  |
+|        |           |          |     |       |          |       |           |      |
 |  Type  |    Fire   |    +2    |     |       |    +1    |       |           |      |
 |        |    Wind   |          |     |       |          |   +2  |     +1    |      |
 |        |   Earth   |          |     |       |    +2    |       |     +1    |      |
 |        |   Water   |          |  +2 |   +1  |          |       |           |      |
 |        |   Light   |          |     |   +2  |          |       |           |  +1  |
 |        |    Dark   |          |  +2 |       |          |       |           |  +1  |
+|        |           |          |     |       |          |       |           |      |
 |  Class |  Fighter  |    +3    |  +1 |   +1  |    +2    |   +1  |     +2    |  +1  |
 |        |   Knight  |    +3    |  +1 |   +2  |    +3    |   +1  |     +1    |  +1  |
 |        |   Thief   |    +1    |  +1 |   +1  |    +1    |   +3  |     +2    |  +2  |
