@@ -22,7 +22,7 @@
 | <span class="green">Blessing of the Iron Wall</span>               | Harken's Blessing has increased your Defense Power and Magic Defense.                                                                        |
 | <span class="green">Blessing of Traps</span>                       | Harken's Blessing has increased your Disarm Trap and Evade Trap.                                                                             |
 | <span class="green">Blessing of Unsleeping Will</span>             | Harken's Blessing has increased your Sleep Tolerance and Fear Tolerance.                                                                     |
-| <span class="green">Demi-Human Rebuffs</span>                      | Harken's Blessing has reduced the damage you take from demi-humans.                                                                          |
+| <span class="green">Demi-Human Rejection</span>                    | Harken's Blessing has reduced the damage you take from demi-humans.                                                                          |
 | <span class="green">Demon Rejection</span>                         | Harken's Blessing has reduced the damage you take from Demons.                                                                               |
 | <span class="green">Hammer Demi-Humans</span>                      | Harken's Blessing has increased the damage you do to demi-humans.                                                                            |
 | <span class="green">Hammer Humanoidss</span>                       | Harken's Blessing has increased the damage you do to humanoids.                                                                              |
