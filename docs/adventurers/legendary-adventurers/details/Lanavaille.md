@@ -13,6 +13,7 @@
         ![](../img/lanavaille-knight.jpg)
 
     === "Fighter"
+        ![](../img/lanavaille-fighter.png)
 
     === "Wandering Princess"
         ![](../img/lanavaille-wandering.jpg)
