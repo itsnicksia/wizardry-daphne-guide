@@ -17,6 +17,32 @@ Trait Points are the core seven attributes that influence an adventurer's stats.
 !!! note
     The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, it's not entirely clear how `Dexterity` affects `Surety`, but the increase does appear to be very small.
 
+### Base Trait Points
+
+The base trait points an adventurer starts with considers multiple factors, including gender, race, class, and element type. Using this table, we can calculate the base traits for an given adventurer.
+
+|        |           | Strength |  IQ | Piety | Vitality | Speed | Dexterity | Luck |
+|:------:|:---------:|:--------:|:---:|:-----:|:--------:|:-----:|:---------:|:----:|
+|  Base  |           |    10    |  10 |   10  |    10    |   10  |     10    |  10  |
+| Gender |    Male   |    +1    |     |       |    +1    |       |     +1    |      |
+|        |   Female  |          |  +1 |   +1  |          |   +1  |           |      |
+|  Race  |   Human   |          |     |       |          |       |           |      |
+|        |    Elf    |    -2    |  +3 |   -1  |    -2    |   +1  |     +2    |  -1  |
+|        |   Dwarf   |    +2    |  -2 |   +1  |    +3    |   -4  |     +3    |  -3  |
+|        | Beastfolk |    -1    |  +1 |   -4  |    +2    |   +3  |     +2    |  -3  |
+|  Type  |    Fire   |    +2    |     |       |    +1    |       |           |      |
+|        |    Wind   |          |     |       |          |   +2  |     +1    |      |
+|        |   Earth   |          |     |       |    +2    |       |     +1    |      |
+|        |   Water   |          |  +2 |   +1  |          |       |           |      |
+|        |   Light   |          |     |   +2  |          |       |           |  +1  |
+|        |    Dark   |          |  +2 |       |          |       |           |  +1  |
+|  Class |  Fighter  |    +3    |  +1 |   +1  |    +2    |   +1  |     +2    |  +1  |
+|        |   Knight  |    +3    |  +1 |   +2  |    +3    |   +1  |     +1    |  +1  |
+|        |   Thief   |    +1    |  +1 |   +1  |    +1    |   +3  |     +2    |  +2  |
+|        |   Priest  |    +1    |  +2 |   +3  |    +1    |   +1  |     +1    |  +2  |
+|        |    Mage   |    +1    |  +3 |   +1  |    +1    |   +2  |     +2    |  +1  |
+|        |   Ninja   |    +2    |  +1 |   +1  |    +1    |   +3  |     +2    |  +2  |
+
 ## Stats
 
 ### Class Multipliers
