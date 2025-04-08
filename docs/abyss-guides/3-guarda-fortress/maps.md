@@ -173,5 +173,10 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Combat Sentry: Scorpion Queen
         - ?
 
+    ??? map "Path to boss"
+        In order to reach the boss, you must circle around to the other side of the stone pillar and interact with it. Along the way, you will encounter one mandatory sentry battle and on your first run, you will encounter a second mandatory sentry battle during the dialog prompts.
+        
+        ![](./img/zone-10-path-to-boss.png)
+
     !!! danger
         [Greater Warped One](greater-warped-one.md)
