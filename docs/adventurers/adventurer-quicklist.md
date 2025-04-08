@@ -57,56 +57,56 @@
 === "Adventurer Base Traits"
     | Name                                                        | Strength |  IQ | Piety | Vitality | Speed | Dexterity | Luck |
     | ----------------------------------------------------------- |:--------:|:---:|:-----:|:--------:|:-----:|:---------:|:----:|
-    | [Abenius](./legendary-adventurers/details/Abenius.md)       |          |     |       |          |       |           |      |
-    | [Adam](./legendary-adventurers/details/Adam.md)             |          |     |       |          |       |           |      |
-    | [Alex](./general-adventurers/details/Alex.md)               |          |     |       |          |       |           |      |
-    | [Alice](./legendary-adventurers/details/Alice.md)           |          |     |       |          |       |           |      |
-    | [Amelia](./general-adventurers/details/Amelia.md)           |          |     |       |          |       |           |      |
-    | [Arboris](./legendary-adventurers/details/Arboris.md)       |          |     |       |          |       |           |      |
-    | [Asha](./general-adventurers/details/Asha.md)               |          |     |       |          |       |           |      |
-    | [Bakesh](./general-adventurers/details/Bakesh.md)           |          |     |       |          |       |           |      |
-    | [Barbara](./general-adventurers/details/Barbara.md)         |          |     |       |          |       |           |      |
-    | Beast-Thi                                                   |          |     |       |          |       |           |      |
-    | [Benjamin](./general-adventurers/details/Benjamin.md)       |          |     |       |          |       |           |      |
-    | [Berkanan](./legendary-adventurers/details/Berkanan.md)     |          |     |       |          |       |           |      |
-    | [Chloe](./general-adventurers/details/Chloe.md)             |          |     |       |          |       |           |      |
-    | [Clarissa](./general-adventurers/details/Clarissa.md)       |          |     |       |          |       |           |      |
-    | [Daniel](./general-adventurers/details/Daniel.md)           |          |     |       |          |       |           |      |
-    | [Debra](./legendary-adventurers/details/Debra.md)           |          |     |       |          |       |           |      |
-    | [Dino](./general-adventurers/details/Dino.md)               |          |     |       |          |       |           |      |
-    | Dwarf-Kni                                                   |          |     |       |          |       |           |      |
-    | [Eckart](./general-adventurers/details/Eckart.md)           |          |     |       |          |       |           |      |
-    | [Elda](./general-adventurers/details/Elda.md)               |          |     |       |          |       |           |      |
-    | [Eldorado](./general-adventurers/details/Eldorado.md)       |          |     |       |          |       |           |      |
-    | Elf-Mag                                                     |          |     |       |          |       |           |      |
-    | Elf-Pri                                                     |          |     |       |          |       |           |      |
-    | [Elise](./general-adventurers/details/Elise.md)             |          |     |       |          |       |           |      |
-    | [Emil](./general-adventurers/details/Emil.md)               |          |     |       |          |       |           |      |
-    | [Eulalia](./general-adventurers/details/Eulalia.md)         |          |     |       |          |       |           |      |
-    | [Flut](./general-adventurers/details/Flut.md)               |          |     |       |          |       |           |      |
-    | [Galina](./general-adventurers/details/Galina.md)           |          |     |       |          |       |           |      |
-    | [Gandolfo](./general-adventurers/details/Gandolfo.md)       |          |     |       |          |       |           |      |
-    | [Gaston](./general-adventurers/details/Gaston.md)           |          |     |       |          |       |           |      |
-    | [Gerard](./legendary-adventurers/details/Gerard.md)         |          |     |       |          |       |           |      |
-    | [Gerulf](./legendary-adventurers/details/Gerulf.md)         |          |     |       |          |       |           |      |
-    | Human-Fig                                                   |          |     |       |          |       |           |      |
-    | Human-Pri                                                   |          |     |       |          |       |           |      |
-    | [Iarumas](./legendary-adventurers/details/Iarumas.md)       |          |     |       |          |       |           |      |
-    | [Jarmil](./general-adventurers/details/Jarmil.md)           |          |     |       |          |       |           |      |
-    | [Jean](./general-adventurers/details/Jean.md)               |          |     |       |          |       |           |      |
-    | [Kiriha](./general-adventurers/details/Kiriha.md)           |          |     |       |          |       |           |      |
-    | [Lanavaille](./legendary-adventurers/details/Lanavaille.md) |          |     |       |          |       |           |      |
-    | [Marianne](./general-adventurers/details/Marianne.md)       |          |     |       |          |       |           |      |
-    | [Milana](./general-adventurers/details/Milana.md)           |          |     |       |          |       |           |      |
-    | [Olive](./general-adventurers/details/Olive.md)             |          |     |       |          |       |           |      |
-    | [Ophelia](./general-adventurers/details/Ophelia.md)         |          |     |       |          |       |           |      |
-    | [Philip](./general-adventurers/details/Philip.md)           |          |     |       |          |       |           |      |
-    | [Red Beard](./legendary-adventurers/details/Red-Beard.md)   |          |     |       |          |       |           |      |
-    | [Rinne](./legendary-adventurers/details/Rinne.md)           |          |     |       |          |       |           |      |
-    | [Savia](./legendary-adventurers/details/Savia.md)           |          |     |       |          |       |           |      |
-    | [Valdor](./general-adventurers/details/Valdor.md)           |          |     |       |          |       |           |      |
-    | [Viviana](./general-adventurers/details/Viviana.md)         |          |     |       |          |       |           |      |
-    | [Yekaterina](./legendary-adventurers/details/Yekaterina.md) |          |     |       |          |       |           |      |
+    | [Abenius](./legendary-adventurers/details/Abenius.md)       |    13    | 12  |  14   |    12    |  12   |     12    |  12  |
+    | [Adam](./legendary-adventurers/details/Adam.md)             |    10    | 16  |  12   |    10    |  13   |     15    |  11  |
+    | [Alex](./general-adventurers/details/Alex.md)               |    16    | 11  |  12   |    15    |  11   |     12    |  11  |
+    | [Alice](./legendary-adventurers/details/Alice.md)           |     9    | 18  |  14   |     9    |  13   |     13    |  11  |
+    | [Amelia](./general-adventurers/details/Amelia.md)           |    12    | 13  |   8   |    14    |  17   |     14    |   9  |
+    | [Arboris](./legendary-adventurers/details/Arboris.md)       |    10    | 14  |  10   |    12    |  14   |     16    |  11  |
+    | [Asha](./general-adventurers/details/Asha.md)               |    13    | 14  |  12   |    12    |  13   |     12    |  11  |
+    | [Bakesh](./general-adventurers/details/Bakesh.md)           |    14    |  9  |  12   |    15    |  11   |     17    |   9  |
+    | [Barbara](./general-adventurers/details/Barbara.md)         |    12    | 13  |   9   |    15    |  17   |     14    |   8  |
+    | Beast-Thi                                                   |    10    | 13  |  10   |    13    |  17   |     14    |  10  |
+    | [Benjamin](./general-adventurers/details/Benjamin.md)       |    16    |  9  |  12   |    18    |   7   |     17    |   8  |
+    | [Berkanan](./legendary-adventurers/details/Berkanan.md)     |    14    | 13  |  12   |    12    |  12   |     12    |  11  |
+    | [Chloe](./general-adventurers/details/Chloe.md)             |    14    | 13  |   8   |    15    |  15   |     14    |   8  |
+    | [Clarissa](./general-adventurers/details/Clarissa.md)       |    13    | 12  |  15   |    13    |  12   |     11    |  12  |
+    | [Daniel](./general-adventurers/details/Daniel.md)           |    12    | 12  |  13   |    14    |  11   |     13    |  12  |
+    | [Debra](./legendary-adventurers/details/Debra.md)           |    10    | 13  |  10   |    13    |  17   |     14    |  10  |
+    | [Dino](./general-adventurers/details/Dino.md)               |    10    | 16  |  10   |    10    |  15   |     16    |  10  |
+    | Dwarf-Kni                                                   |    16    |  9  |  13   |    19    |   7   |     16    |   8  |
+    | [Eckart](./general-adventurers/details/Eckart.md)           |    18    |  9  |  13   |    18    |   7   |     15    |   8  |
+    | [Elda](./general-adventurers/details/Elda.md)               |    12    | 16  |  10   |    11    |  12   |     15    |  11  |
+    | [Eldorado](./general-adventurers/details/Eldorado.md)       |    12    | 16  |  11   |    12    |  12   |     14    |  11  |
+    | Elf-Mag                                                     |     9    | 19  |  11   |     9    |  14   |     14    |  11  |
+    | Elf-Pri                                                     |    10    | 17  |  12   |    10    |  12   |     14    |  12  |
+    | [Elise](./general-adventurers/details/Elise.md)             |    11    | 15  |  11   |    12    |  13   |     15    |  10  |
+    | [Emil](./general-adventurers/details/Emil.md)               |    10    | 15  |  14   |    10    |  12   |     14    |  12  |
+    | [Eulalia](./general-adventurers/details/Eulalia.md)         |    11    | 17  |  13   |    11    |  13   |     13    |  10  |
+    | [Flut](./general-adventurers/details/Flut.md)               |     9    | 19  |  12   |     9    |  14   |     14    |  10  |
+    | [Galina](./general-adventurers/details/Galina.md)           |     9    | 16  |  13   |    11    |  13   |     14    |  11  |
+    | [Gandolfo](./general-adventurers/details/Gandolfo.md)       |    14    | 13  |  11   |    13    |  11   |     13    |  12  |
+    | [Gaston](./general-adventurers/details/Gaston.md)           |    14    | 11  |  11   |    15    |  11   |     14    |  11  |
+    | [Gerard](./legendary-adventurers/details/Gerard.md)         |    14    | 13  |  12   |    14    |  11   |     12    |  12  |
+    | [Gerulf](./legendary-adventurers/details/Gerulf.md)         |    18    |  9  |  12   |    17    |   7   |     16    |   8  |
+    | Human-Fig                                                   |    14    | 13  |  12   |    13    |  11   |     13    |  11  |
+    | Human-Pri                                                   |    13    | 13  |  14   |    12    |  12   |     11    |  12  |
+    | [Iarumas](./legendary-adventurers/details/Iarumas.md)       |    15    | 13  |  12   |    14    |  12   |     14    |  13  |
+    | [Jarmil](./general-adventurers/details/Jarmil.md)           |    12    | 13  |  11   |    12    |  14   |     14    |  11  |
+    | [Jean](./general-adventurers/details/Jean.md)               |    12    | 11  |  11   |    14    |  13   |     14    |  12  |
+    | [Kiriha](./general-adventurers/details/Kiriha.md)           |    13    | 13  |  11   |    12    |  13   |     13    |  13  |
+    | [Lanavaille](./legendary-adventurers/details/Lanavaille.md) |    15    | 12  |  13   |    14    |  12   |     11    |  11  |
+    | [Marianne](./general-adventurers/details/Marianne.md)       |    11    | 13  |  14   |    11    |  14   |     12    |  12  |
+    | [Milana](./general-adventurers/details/Milana.md)           |     9    | 17  |  11   |     9    |  15   |     14    |  12  |
+    | [Olive](./general-adventurers/details/Olive.md)             |    11    | 15  |  11   |    10    |  15   |     15    |  10  |
+    | [Ophelia](./general-adventurers/details/Ophelia.md)         |    13    | 12  |  12   |    12    |  14   |     13    |  11  |
+    | [Philip](./general-adventurers/details/Philip.md)           |    10    | 16  |  11   |    10    |  14   |     15    |  11  |
+    | [Red Beard](./legendary-adventurers/details/Red-Beard.md)   |    14    | 12  |  14   |    15    |   7   |     15    |  10  |
+    | [Rinne](./legendary-adventurers/details/Rinne.md)           |    10    | 17  |  11   |     9    |  15   |     14    |  12  |
+    | [Savia](./legendary-adventurers/details/Savia.md)           |    12    | 15  |   9   |    15    |  15   |     13    |   9  |
+    | [Valdor](./general-adventurers/details/Valdor.md)           |    14    | 10  |  16   |    15    |   7   |     15    |  10  |
+    | [Viviana](./general-adventurers/details/Viviana.md)         |    11    | 14  |  13   |    11    |  14   |     12    |  12  |
+    | [Yekaterina](./legendary-adventurers/details/Yekaterina.md) |    11    | 14  |  12   |    13    |  13   |     13    |  11  |
 
 === "Adventurer Ruins"
     | Name                                                        | Unique Bone Name                                          | Original Release Date | Alternate Form Release Date |
