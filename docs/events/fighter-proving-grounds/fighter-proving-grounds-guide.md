@@ -26,10 +26,10 @@ There are several map variations, and are random upon entering. It is not necess
     - The enemies on the advanced floor consist of Minotaurs, Lesser Demons, and Chimeras.
     
 ??? danger "Advanced Difficulty Fight Tips"
-    - The final enemy is always a Vampire. He has around 7k HP.
+    - The final enemy is always a Vampire. He has around ~7k HP.
     - He will generally just basic attack that can be consistently dodged with 150~ evasion. Alternatively he may cast Zelos
     - He is susceptible to openings, which will inflict around 1k damage
-    - He will cast Kaltu on himself at around half HP. When he is at low HP he will do a 1 time Vampire Bats skill that inflicts very high damage. He will heal for about 10x of what the vampire bats hit on you.
+    - He will cast Kaltu on himself at around half HP (~3.5k HP). When he is at low HP (~1k HP) he will do a 1 time Vampire Bats skill that inflicts very high damage. He will heal for about 10x of what the vampire bats hit on you.
     - It's recommended to try to chip him down to a point where you can finish him off in one turn with Full Power Strike from all 3 fighters.
 
     ??? note "Efficient Strategy for Vampire Slaying"
