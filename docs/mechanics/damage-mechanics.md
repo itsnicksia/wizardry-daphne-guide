@@ -3,12 +3,12 @@
 ## Surety
 There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit.
 
-By default, a sure hit acts as a 75% damage increase to the final damage you deal.
+By default, a sure hit acts as a 80% damage increase to the final damage you deal.
 
 !!! note
     Increasing your surety value does NOT increase the sure hit damage.
 
-The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.75` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
+The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.8` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
 
 !!! note
     Despite what was previously assumed, spells can deal Sure Hits. Most spells seem to have a very large innate negative surety value, which makes this hard to achieve. We're currently assuming it's something like -100 surety, however some spells like `TZALIK` and `True Words of Fire` appear to have a higher (possibly 0 or positive) innate surety value. We have been able to confirm that an MC Mage casting CONES is still able to land a sure hit, though, so spell surety is NOT specific to just `TZALIK` and `True Words`.
@@ -166,7 +166,7 @@ Defense Penetration properties, such as the innate properties of axes seems to b
 
 !!! warning "Warning: Contains math"
 
-Suppose you have `300` attack power and are fighting an enemy with `100` defense. You have two damage modifiers of `1.1` each. In this scenario, your normal final basic attack damage would be roughtly `(300 - 100) * 1.1 * 1.1 = 242`. If you cast MORLIS first, your final basic attack damage would be roughly `(300 - 100 * 0.8) * 1.1 * 1.1 = 266`. If you also happened to be using an axe, your final basic attack damage would be `(300 - 100 * 0.8 * 0.7) * 1.1 * 1.1 = 295`. For comparision, if you didn't have any form of defense reduction or penetration but instead added two more `1.1` modifiers, you would only be looking at `(300 - 100) * 1.1 * 1.1 * 1.1 * 1.1 = 293`, which is lower than if you were able to take advantage of both defense reduction and defense penetration. 
+Suppose you have `300` attack power and are fighting an enemy with `100` defense. You have two damage modifiers of `1.1` each. In this scenario, your normal final basic attack damage would be roughly `(300 - 100) * 1.1 * 1.1 = 242`. If you cast MORLIS first, your final basic attack damage would be roughly `(300 - 100 * 0.8) * 1.1 * 1.1 = 266`. If you also happened to be using an axe, your final basic attack damage would be `(300 - 100 * 0.8 * 0.7) * 1.1 * 1.1 = 295`. For comparision, if you didn't have any form of defense reduction or penetration but instead added two more `1.1` modifiers, you would only be looking at `(300 - 100) * 1.1 * 1.1 * 1.1 * 1.1 = 293`, which is lower than if you were able to take advantage of both defense reduction and defense penetration. 
 
 ## Follow-Up Attack
 Follow-Up Attack is a powerful passive skill when invested in. When it triggers with a multi-hit weapon, it adds a single basic attack hit, effectively acting as +50% damage for 2-hit weapons and +33% damage for 3-hit weapons. With single-hit weapons, however, this effectively gives you +100% more basic attack damage. The higher the difference between your attack and an enemy's defense, the more valuable this is.
