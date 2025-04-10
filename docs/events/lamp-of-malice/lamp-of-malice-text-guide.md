@@ -30,7 +30,7 @@ After accepting the quest, a new location will be accessible on the “Edge of t
 
 4. After gathering all materials, interact again with the altars on B4F. You’ll be able to progress to the fight with Isabella, the Seal. 
 
-5. After defeating Isabella, you can progress to B5F only to get some lore, then return,  get her hammer on the room to the left and exit via the portal tile. A cinematic will ensue and you’ll be prompted to return with the event's own cursed wheel.
+5. After defeating Isabella, you can progress to B5F only to get some lore, then return by using harken after fighting newly spawned undead on the way. A cinematic will ensue and you’ll be prompted to return with the event's own cursed wheel
 
 6. Now you start the second run through the event. There’ll be two new dialogue options on the guide in the beginning of the cave and now you can interact with the crystals, which require a new pickaxe (not the same from the main story).
 

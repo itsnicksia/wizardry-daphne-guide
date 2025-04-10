@@ -8,6 +8,12 @@
 **Class Change**: Mage  
 **Role**: Healing, Support, Damage
 
+!!! info "Portraits"
+    === "PPriest"
+        ![](../img/emil-priest.png)
+
+    === "Mage"
+
 ## Skills
 
 !!! info "Inheritable Skill"
