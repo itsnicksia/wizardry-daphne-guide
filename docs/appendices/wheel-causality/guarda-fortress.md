@@ -38,17 +38,57 @@
 
 ## Fortress Lower Floors Cleared
 
+### Corrosion Sentry
+
+* Spotted
+* Not spotted
+
 ## Portrait Gallery Minor Harken
+
+### Corrosion Sentry
+
+* Spotted
+* Not spotted
 
 ## Ghosts of Yore Vanquished
 
+### Corrosion Sentry
+
+* Spotted
+* Not spotted
+
 ## Fortress 2F Minor Harken
 
+### 2F North Corrosion Sentry
+
+* Spotted
+* Not spotted
+
+### 3F West Corrosion Sentry
+
+* Spotted
+* Not spotted
+
 ## Fortress 3rd Floor Arrival
+
+### 1F Servant's Quarters Corrosion Sentry
+
+* Spotted
+* Not spotted
 
 ### 1F Southwest Corrosion Sentry
 
 * Spotted
 * Not spotted
+
+### 2F Imprisoning Trap Corrosion Sentry
+
+* Spotted
+* Not spotted
+
+### Abducted Child
+
+* Didn't rescue
+* Rescued in critical condition
 
 ## Triumphant Return
