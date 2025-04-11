@@ -30,11 +30,14 @@ After accepting the quest, a new location will be accessible on the “Edge of t
 
 4. After gathering all materials, interact again with the altars on B4F. You’ll be able to progress to the fight with Isabella, the Seal. 
 
-5. After defeating Isabella, you can progress to B5F only to get some lore, then return by using harken after fighting newly spawned undead on the way. A cinematic will ensue and you’ll be prompted to return with the event's own cursed wheel
+5. After defeating Isabella, progress to B5F to get some lore, then return by using harken after fighting newly spawned undead on the way. A cinematic will ensue and you’ll be prompted to return with the event's own cursed wheel.
 
 6. Now you start the second run through the event. There’ll be two new dialogue options on the guide in the beginning of the cave and now you can interact with the crystals, which require a new pickaxe (not the same from the main story).
 
 7. Speak with the blacksmith. You can choose to either do a quest to acquire ore from the goblin cave or pay 3000G for the hammer. The quest is very hard, so you’re advised to pay for the hammer.
+
+??? map "Ore Locations from Goblin Cave"
+    ![](img/goblin-cave-malice-locations.png)
 
 8. Gather Crystals: you need 4 purification crystals, but some of the crystals you mine will only cause cave-ins and unlock new areas. After interacting with the 4 altars again, you’ll be prompted to gather 4 materials from the earth elementals. Rather than farming those, it’s easier to go to the top-mid of the B1F map and fight the elemental there, leave the map and fight him again, 4 times in total.
 

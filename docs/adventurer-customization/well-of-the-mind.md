@@ -61,7 +61,7 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 ## Guiding Lights
 
 | Guiding Light | Method to Obtain                                                                                                                                                                                                                            |
-|:--------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | STR           | Obtained after unlocking the Cursed Wheel                                                                                                                                                                                                   |
 | VIT 1         | Complete the Beginning Abyss and save the king                                                                                                                                                                                              |
 | VIT 2         | Activate the Golem before the boss fight in Guarda Fortress Abyss                                                                                                                                                                           |
@@ -72,9 +72,12 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 | DEX 2         | Get the "Good" Ending in Guarda Fortress Abyss.                                                                                                                                                                                             |
 | LUCK 1        | Get the perfect ending (+Albano quest) in Beginning Abyss                                                                                                                                                                                   |
 | LUCK 2        | Save Bonnie and Clyde                                                                                                                                                                                                                       |
-| LUCK 3        | Get all three best endings on [Viscount Guane request](../abyss-guides/2-port-town-grand-legion/requests.md#viscount-guane).                                                                                                                 |
+| LUCK 3        | Get all three best endings on [Viscount Guane request](../abyss-guides/2-port-town-grand-legion/requests.md#viscount-guane).                                                                                                                |
 | LUCK 4        | Defeat Octanarus                                                                                                                                                                                                                            |
 | LUCK 5        | Clear all 3 main Port Town requests                                                                                                                                                                                                         |
 | LUCK 6        | Clear the Monster Soup quest for Pickerel                                                                                                                                                                                                   |
 | LUCK 7        | Get the perfect ending in Guarda Fortress Abyss                                                                                                                                                                                             |
 | LUCK 8        | Get the perfect ending for all three route subplots in Guarda Fortress Abyss (Princess, Admiral, Pontiff)                                                                                                                                   |
+
+??? warning "Missing Guiding Lights"
+    If you met the requirements to obtain a guiding light but don't have it actually available in the Well for use, try exiting and restarting the game. Some of them seem to need a reboot to show up properly.
