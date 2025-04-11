@@ -36,6 +36,9 @@ After accepting the quest, a new location will be accessible on the “Edge of t
 
 7. Speak with the blacksmith. You can choose to either do a quest to acquire ore from the goblin cave or pay 3000G for the hammer. The quest is very hard, so you’re advised to pay for the hammer.
 
+??? map "Ore Locations from Goblin Cave"
+    ![](img/goblin-cave-malice-locations.png)
+
 8. Gather Crystals: you need 4 purification crystals, but some of the crystals you mine will only cause cave-ins and unlock new areas. After interacting with the 4 altars again, you’ll be prompted to gather 4 materials from the earth elementals. Rather than farming those, it’s easier to go to the top-mid of the B1F map and fight the elemental there, leave the map and fight him again, 4 times in total.
 
 9. Interact with the 4 altars on B4F. Now, when the doors unlock, you can talk with Isabella and face the true boss.
