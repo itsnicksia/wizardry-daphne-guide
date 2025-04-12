@@ -9,7 +9,7 @@ Once the requirements are met, the request will be available at the
 Adventurer's Guild at the Royal Capital Lukmalia.
 
 !!! warning Important Notice
-    This request can only be finished **once**. If you missed something, you
+    This request can only be finished **once** per character copy. If you missed something, you
     won't be able to go back for it. So don't rush it!
 
 ## Request Mission
