@@ -139,6 +139,7 @@
     - MORLIS
     - Level drain
     - Opening the gate
+    - Spells become stronger
 
     !!! note
         If you answer one of the old mage’s trivia questions wrong, the summoned opponents are much tougher than if you answer correctly. You can still get the bond with a wrong answer.
