@@ -61,6 +61,14 @@ A useful tactic for dealing with stronger enemies and bosses is leveraging the T
 
 This tactic is highly effective against stronger enemies that rely on heavy, infrequent attacks. However, for bosses with resistance to crowd-control effects, this approach may require adjustments to avoid relying solely on chaining Delay Attack.
 
+## Fleeing
+
+It isn't known the specific requirements for successfully fleeing, but if there are any, it isn't very difficult to do so if possible. Each adventurer has the option to flee during their turn, so in essence you have a maximum of 6 chances to flee per combat turn. Fleeing is a great way to conserve resources as some fights are tedious if not sufficiently geared. Upon successfully fleeing, you will be placed on the tile where you initially started combat, and the enemy will be placed somewhat randomly around you. If lucky, you may be able to bypass enemies even in a one tile wide corridor.
+
+## Knight's Defense
+
+This is a skill learned by Knights at Lvl 51. It will effectively reduce all damage received by your team by ~50%, and is one of the few ways to survive encounters that are normally not (for example, certain enemies have full team AOE skills that hit multiple times for damage past your HP limit). The best way to utilize this is having your team all have relatively the same ASPD and being much higher than the enemy, but having the knight be the slowest of the team. This way, since the buff lasts one turn, everyone will have the buff active during the enemy's turn.
+
 ## Revival
 When a party member dies, you get an opportunity to revive them, but the
 animation to hit the circle on first attempt is very fast and difficult to
