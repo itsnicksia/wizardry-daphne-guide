@@ -44,9 +44,9 @@ As you can see, this means that while Discipline can add up at higher skill leve
     | 4                | 3                | 9                           |
     | 5                | 3                | 12                          |
     | 6                | 6                | 18                          |
-    | 7                |                  |                             |
-    | 8                |                  |                             |
-    | 9                |                  |                             |
+    | 7                | 5                | 23                          |
+    | 8                | 5                | 28                          |
+    | 9                | 8                | 36                          |
 
 ## Inheritance
 Inheritance allows you to give skills from one adventurer to another or increase the level of inherited skills on an adventurer. Skills have different maximum levels. For example, Legendary and General Adventurer skills have a maximum inheritance count of 6, so depending on if an adventurer comes with that skill by default, they can get it to either level 6 or level 7. Anonymous adventurer skills have a maximum inheritance count of 14, which leads to a maximum level of either 14 or 15, again depending on if an adventurer comes with that skill by default.
@@ -62,7 +62,7 @@ Inheritance allows you to give skills from one adventurer to another or increase
     | 3                 | 2                | 4                           |
     | 4                 | 2                | 6                           |
     | 5                 | 3                | 9                           |
-    | 6                 |                  |                             |
+    | 6                 | 3                | 12                          |
 
 === "General"
 
@@ -73,7 +73,7 @@ Inheritance allows you to give skills from one adventurer to another or increase
     | 3                 | 5                | 9                           |
     | 4                 | 5                | 14                          |
     | 5                 | 9                | 23                          |
-    | 6                 |                  |                             |
+    | 6                 | 9                | 32                          |
 
 === "Anonymous"
 
@@ -88,11 +88,11 @@ Inheritance allows you to give skills from one adventurer to another or increase
     | 7                 | 10               | 34                          |
     | 8                 | 12               | 46                          |
     | 9                 | 14               | 60                          |
-    | 10                |                  |                             |
-    | 11                |                  |                             |
-    | 12                |                  |                             |
-    | 13                |                  |                             |
-    | 14                |                  |                             |
+    | 10                | 18               | 78                          |
+    | 11                | 20               | 98                          |
+    | 12                | 22               | 120                         |
+    | 13                | 24               | 144                         |
+    | 14                | 26               | 170                         |
 
 ## Should I use my duplicates for Discipline or Inheritance?
 This is an extremely frequently asked and hotly debated question, and there is no general, community-wide consensus. Both are potentially solid options, and here are some pros and cons of each.
