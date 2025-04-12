@@ -25,9 +25,10 @@ Synergy skills are passive bonuses that apply while in combat, and are generally
 	
 === "Stat Buffs"
 
-    | Adventurer | Condition                                              |
-    | ---------- | ------------------------------------------------------ |
-    | Rinne      | Increases Surety for Self and all Adjacent Evil Allies |
+    | Adventurer | Condition                                                                            |
+    | ---------- | ------------------------------------------------------------------------------------ |
+    | Rinne      | Increases Surety for Self and all Adjacent Evil Allies                               |
+    | Arboris    | Increases Evasion and Action Speed for user and all adjacent evil and neutral allies |
 
 === "Resistance Buffs"	
 
