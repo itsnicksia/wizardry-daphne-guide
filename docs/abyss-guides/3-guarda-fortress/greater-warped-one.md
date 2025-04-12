@@ -1,7 +1,5 @@
 # Guarda Fortress - Greater Warped One
 
-!!! warning "Under Construction - thank you for your patience"
-
 ## Endings
 
 ### Mandatory - Bad Ending 1
@@ -69,6 +67,7 @@ Saved the Duke, but did not find the culprit behind the sinister events in Guard
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give Guardian Knight Dalian evidence of the Duke's betrayal.
 4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+5. Have a Maximum of 8 Corruption Levels (Spotted 8 Times)
 
 ##### Saving Liam
 
@@ -91,6 +90,7 @@ Saved the Duke and apprehended the mastermind.
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give "Mastermind Evidence" to Clemente.
 4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+5. Have a Maximum of 8 Corruption Levels (Spotted 8 Times) 
 
 #### Walkthrough
 
