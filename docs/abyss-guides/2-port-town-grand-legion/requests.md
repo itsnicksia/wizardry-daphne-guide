@@ -570,6 +570,7 @@ Goetia -> Admiral Route
 
 ### Gathering Sahuagin Scales
 
+- You may talk to Rickert to get an idea of how to deal with Geuzen's singing. She will suggest Comadora Peppers.
 - Talk to the chef, not the head chef, in the dining hall about Comadora Peppers.
 - Go to the Royal Capital to receive the request.
 
