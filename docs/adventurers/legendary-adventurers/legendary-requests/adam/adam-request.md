@@ -7,6 +7,10 @@
 
 Once the requirements are met, meet Adam in the tavern and he will start the request.
 
+!!! warning Important Notice
+    This request can only be finished **once** per character copy. If you missed something, you
+    won't be able to go back for it. So don't rush it!
+
 ## Request Mission
 
 Request is a dive into Adam's backstory, consisting of three explorable maps. If you fully explore the first map, you can find two Gleaming Crystals.
