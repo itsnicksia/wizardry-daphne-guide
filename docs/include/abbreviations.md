@@ -5,6 +5,7 @@
 *[FAS]: Full Alteration Stone
 *[FPS]: Full Power Strike
 *[MC]: Main Character, you
+*[RNG]: Random Number Generator, usually referring to random chance.
 
 <!--Attributes-->
 *[ASPD]: Attack Speed: Increases the turn order of a character.
