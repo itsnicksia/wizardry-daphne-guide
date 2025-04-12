@@ -122,8 +122,8 @@ Saved the Duke and apprehended the mastermind.
 * Fight is somewhat long, has around ~3 main discernable phases.
 
 ??? note "Approximate HP Thresholds for certain corruption levels"
-  - 6 Corruption: Phase 1: 5k HP | Phase 2: 19k HP | Phase 3: 3.5k HP
-  - 0 Corruption: Phase 1: 8k HP | Phase 2: 34k HP | Phase 3: 8k HP
+    - 6 Corruption: Phase 1: 5k HP | Phase 2: 19k HP | Phase 3: 3.5k HP
+    - 0 Corruption: Phase 1: 8k HP | Phase 2: 34k HP | Phase 3: 8k HP
 
 #### Battle Tips
 
