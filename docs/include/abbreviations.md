@@ -1,7 +1,7 @@
 *[AoE]: Area of Effect; something with multiple targets.
 *[Nuke]: All-rows AoE attack.
 
-*[ASPD]: Attack Speed:
+*[ASPD]: Attack Speed: Increases the turn order priority of a character.
 *[DEF]: Defense Power: Reduces damage taken from physical attacks.
 *[EVA]: Evasion: Increases chance of avoiding physical attacks.
 *[MAG]: Magic Power: Increases damage dealt by magical attacks.
