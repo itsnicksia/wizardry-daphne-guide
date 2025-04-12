@@ -2,7 +2,7 @@
 
 These strategies are effective in both early-game when your resources are low and late game when select fights are extremely difficult.
 
-## Defense and Counterattack Strategy (Openings):
+## ^^Defense and Counterattack Strategy (Openings)^^
 * Defend with one or more front-row adventurers to reliably trigger Openings for increased damage.
     * Mimics, Arena Bosses (Reprobus Brothers, Shagtis, Gessi), Oar Collectors, Minotaurs, and Old Castle Ruins bosses all enemies that can reliably have Opening applied to them.
     * Details of how Openings work can be found in [the mechanics section](../mechanics/damage-mechanics.md#openings)
@@ -16,7 +16,7 @@ These strategies are effective in both early-game when your resources are low an
         * Defense increases survivability by boosting stats and reducing damage taken.
         * Exploiting Openings to deal significant damage, turning the tide of battle.
 
-## Sleep Tactics (KATINO):
+## ^^Sleep Tactics (KATINO)^^
 * Why Use Sleep?
     * Sleep is a cheap and effective crowd-control spell that targets a row of enemies.
     * It reduces enemy actions by forcing them to "skip" their turn while trying to wake up.
@@ -29,10 +29,10 @@ These strategies are effective in both early-game when your resources are low an
         * Even at Rank 1, Sleep remains effective up to level 50.
         * If available, use characters who can inherit Asha’s Sleep skill for added versatility.
 
-## Spell Bind (MONTINO)
+## ^^Spell Bind (MONTINO)^^
 * Against most enemies that use spells, the spell MONTINO will be able to inflict Spell Bind with a high success rate. Spell Bind counts as an affliction, not a debuff, and does not have a limited turn duration - once applied, it remains applied for the duration of the battle.
 
-## Confusion (KANTIOS)
+## ^^Confusion (KANTIOS)^^
 * At level 40, Mages will learn KANTIOS, which inflicts Confusion.
 * A Confused enemy will target a random character or enemy with a basic physical attack.
     * This can be extremely helpful if you're wanting to disrupt an enemy's ability to use skills or spells.
@@ -40,7 +40,10 @@ These strategies are effective in both early-game when your resources are low an
         * Another noteworthy use of this is confusing a Scorpion Lady after she uses her Build-Up charge attack. You can confuse her after she uses build-up, and as long as the confusion isn't broken, the next attack will be a basic one.
 * Confusion has a chance to break when you attack an enemy, so be mindful of when you apply it and what you have your other adventurers do with their turns after applying it.
 
-## Delay Attack
+## ^^Dodging everything (MASOLOTU + DILTO)^^
+Some enemies, especially non-boss enemies are extremely susceptible to being evaded. It's worth investing into evasion substats on gear and then even casting Masolotu + Dilto on enemies to make them incapable of even touching your characters. This will not work on enemies with extremely high accuracy/accuracy self-buffs/magic casters, so plan accordingly!
+
+## ^^Delay Attack^^
 A useful tactic for dealing with stronger enemies and bosses is leveraging the Thief’s skill, Delay Attack. This ability can be particularly effective in controlling the flow of battle.
 
 ### How Delay Attack Works:
@@ -61,15 +64,15 @@ A useful tactic for dealing with stronger enemies and bosses is leveraging the T
 
 This tactic is highly effective against stronger enemies that rely on heavy, infrequent attacks. However, for bosses with resistance to crowd-control effects, this approach may require adjustments to avoid relying solely on chaining Delay Attack.
 
-## Fleeing
+## ^^Fleeing^^
 
 It isn't known the specific requirements for successfully fleeing, but if there are any, it isn't very difficult to do so if possible. Each adventurer has the option to flee during their turn, so in essence you have a maximum of 6 chances to flee per combat turn. Fleeing is a great way to conserve resources as some fights are tedious if not sufficiently geared. Upon successfully fleeing, you will be placed on the tile where you initially started combat, and the enemy will be placed somewhat randomly around you. If lucky, you may be able to bypass enemies even in a one tile wide corridor.
 
-## Knight's Defense
+## ^^Knight's Defense^^
 
 This is a skill learned by Knights at Lvl 51. It will effectively reduce all damage received by your team by ~50%, and is one of the few ways to survive encounters that are normally not (for example, certain enemies have full team AOE skills that hit multiple times for damage past your HP limit). The best way to utilize this is having your team all have relatively the same ASPD and being much higher than the enemy, but having the knight be the slowest of the team. This way, since the buff lasts one turn, everyone will have the buff active during the enemy's turn.
 
-## Revival
+## ^^Revival^^
 When a party member dies, you get an opportunity to revive them, but the
 animation to hit the circle on first attempt is very fast and difficult to
 hit.
@@ -82,7 +85,7 @@ There are two tricks to doing it consistently that people have had luck with:
    * Do note that the target circle gets smaller according to dead character's fortitude, and so this trick also becomes less useful.
 * Tap on the screen immediately as (or slightly after) your MC touches the dead adventurer's back.
 
-## Key Takeaways
+## ^^Key Takeaways^^
 * Openings are essential for both regular encounters and boss fights. Use them strategically for maximum effectiveness.
 * Sleep is invaluable from early to mid-game for controlling crowds and disrupting enemy actions, requiring minimal investment.
 * Controlling turn order with Delay Attack can be extremely beneficial in making sure you get necessary damage, heals, or other crowd control in before enemies attack.
