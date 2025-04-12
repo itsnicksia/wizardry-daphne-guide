@@ -2,7 +2,9 @@
 
 Grade exams are necessary for an adventurer to grade up (Increase max level limit). They only count for characters within the party that pass the exam without dying. Adventurers cannot grade up before the MC. It is possible to skip the grade exam by purchasing the grade exam item from the Jeweler's Shop (After beating the exam once), but this method is inefficient and overpriced. 
 
-Tags are also required for a grade up alongside passing the exam. [How To obtain more tags](../../../stylesheets/frequently-asked-questions.md#how-do-i-get-grade-tags)
+Tags are also required for a grade up alongside passing the exam. 
+
+[How to obtain more tags](../../../frequently-asked-questions.md#how-do-i-get-grade-tags)
 
 !!! note "If you'd like, you can do the latest Grade exam to skip having to do all previous exams."
 
