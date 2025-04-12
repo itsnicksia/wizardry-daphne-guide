@@ -1,6 +1,6 @@
 # List of Skills per Class
 
-[List of Skill Descriptions](../../appendices/skills-and-spells.md)
+[List of Skill Descriptions](../../appendices/skills-and-spells/)
 
 === "Fighter Skills"
     | Skill Name                        | Active/Passive | Lvl Learned |
