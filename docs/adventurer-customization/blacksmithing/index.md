@@ -4,11 +4,11 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 
 ![Image of an item highlighting innate attributes and Blessings](img/equipment.png)
 
-## Video Guide
+## ^^Video Guide^^
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Default Equipment Blessings
+## ^^Default Equipment Blessings^^
 
 **These values are only estimates, and should be used as reference only.**
 
@@ -37,14 +37,14 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 |    SUR   |    O    |       |    O    |         |       |     O     |   O   |
 |   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
 
-## Enhance
+## ^^Enhance^^
  - Increases Enhancement Value up to a maximum of +20.
  - Increases Innate Attributes
  - At Enhancement Value +5, +10, +15 and +20, unlocks a new Blessing or improves an existing Blessing if one already exists in that slot.
 
 Requires **Gold** and **Iron Ore**.
 
-### Gold Cost for Enhancing
+### ^^Gold Cost for Enhancing^^
 
 | Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:|
@@ -53,7 +53,7 @@ Requires **Gold** and **Iron Ore**.
 | Ebonsteel |  550 |  770 | 1210 | 1870 | 2750 | 3850 | 5390 | 7315 | 9625 | 12320 | 15400 | 19140 | 23375 | 28105 | 33330 | 39050 | 45650 | 52855 | 74470 | 139315|  516340 |
 |  Special  |  650 |  900 | 1500 | 2450 | 3750 | 5400 | 7650 | 10500| 13950| 18000 | 22650 | 28100 | 34750 | 42600 | 51650 | 61900 | 74150 | 87800 | 128750| 251600|  848700 |
 
-### Enhancement Values
+### ^^Enhancement Values^^
 
 **These values are inaccurate, and should be treated as estimates.**
 
@@ -64,7 +64,7 @@ Requires **Gold** and **Iron Ore**.
 |                 **ASPD, SUR**                 | 1~3 | 1~5 | 1~7 |  1~9 | 2~11 |
 |                   **ASPD%**                   | 1~3 | 1~5 | 1~7 |  2~9 | 2~11 |
 
-## Refine
+## ^^Refine^^
 
 Refining an item increases the value of a substat and requires a Refinement Stone for that attribute.
 
@@ -80,7 +80,7 @@ Requires a matching Refinement Stone of the **Blessing** to improve.
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.
 
-## Extraction
+## ^^Extraction^^
 
 Extracting destroys an item, with a small chance of producing an Alteration Stone or Refinement Stone that can be used to modify or increase substats on items.
 
@@ -88,7 +88,7 @@ The type of stone produced will be randomly selected from one of the substats on
 
 Only weapons, armor and accessories can be extracted.
 
-### Extraction Values
+### ^^Extraction Values^^
 
 **These values are inaccurate, and should be treated as estimates.**
 
@@ -99,7 +99,7 @@ Only weapons, armor and accessories can be extracted.
 |                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 3~5 | 4~6 |
 |                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
 
-## Alteration
+## ^^Alteration^^
 
 Altering an item modifies a substat, and requires an Alteration Stone.
 
@@ -107,7 +107,7 @@ Alteration has some nuanced behavior to it.
 
 * Altering a slot after it reached its checkpoint will remove both the initial Blessing and any enhancements and refinements, leaving the slot with just the value provided by the Alteration Stone.
 
-## Enhancement Inheritance
+## ^^Enhancement Inheritance^^
 
 Enhancement Inheritance sacrifices an existing enhanced item to increase the enhancement value of another item.
 
@@ -115,13 +115,13 @@ This only works for items of the same type (one-handed weapons to one-handed wea
 
 This helps save gold + ore when changing to higher quality equipment when you have already enhanced your existing equipment.
 
-## Unification
+## ^^Unification^^
 
 ![](img/unifying-equipment.jpg)
 
-## Advanced Blacksmithing
+## ^^Advanced Blacksmithing^^
 
-### Advanced Extraction
+### ^^Advanced Extraction^^
 
 The star quality of an item being extracted determines the magnitude of the stones produced. 
 
@@ -129,7 +129,7 @@ Extracting higher quality items results in a larger bonus granted by the stones.
 
 **Tip:** Altering a high quality item with a low-grade Stone and then extracting the resulting item will result in a higher quality Stone, as the game only considers **item quality** and **type of available substats** when generating a Stone, not the magnitude of the substats.
 
-### Full Alteration
+### ^^Full Alteration^^
 
 ![](img/samurai-meme.png)
 
