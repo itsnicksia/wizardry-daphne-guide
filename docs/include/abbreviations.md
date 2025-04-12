@@ -4,6 +4,7 @@
 *[ASPD]: Attack Speed: Increases the turn order priority of a character.
 *[DEF]: Defense Power: Reduces damage taken from physical attacks.
 *[EVA]: Evasion: Increases chance of avoiding physical attacks.
+*[ATK]: Attack Power: Increases damage dealt by physical attacks.
 *[MAG]: Magic Power: Increases damage dealt by magical attacks.
 *[MDEF]: Magic Defense: Reduces damage taken from magical attacks.
 *[SUR]: Surety: Increases chance of dealing a sure hit, increasing physical damage dealt.
