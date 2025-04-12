@@ -4,7 +4,7 @@ Grade exams are necessary for an adventurer to grade up (Increase max level limi
 
 Tags are also required for a grade up alongside passing the exam. 
 
-[How to obtain more tags](../../../frequently-asked-questions.md#how-do-i-get-grade-tags)
+[How to obtain more tags](../../../frequently-asked-questions.md)
 
 !!! note "If you'd like, you can do the latest Grade exam to skip having to do all previous exams."
 
