@@ -89,9 +89,8 @@ Saved the Duke and apprehended the mastermind.
 #### Requirements
 1. Meet the Duke's party.
 2. Save Liam and notify Alan when meeting the Duke's party.
-3. Give "Blackmail Evidence" to Guardian Knight Dalian.
-4. Give "Mastermind Evidence" to Clementine.
-5. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+3. Give "Mastermind Evidence" to Clemente.
+4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
 
 #### Walkthrough
 
@@ -101,9 +100,9 @@ Saved the Duke and apprehended the mastermind.
 4. Warp to Zone 10 and loot Elequon's room (Located next to the library before dropping down to Zone 9 Harken).
 5. Warp to Zone 9 but do not enter the blackmail evidence room, as it will trigger Corruption.
 6. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
-7. Travel to Royal Capital Luknalia and gamble with the swindlers.
+7. Travel to Royal Capital Luknalia and gamble with the swindlers. If you win, you gain mastermind items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You will use Lulu's recommended strategy of letting them go first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
 8. Head back to the culprit's room and solve the Statue Puzzle from the hints on the floor.
-9. Head to the culprit's room and give the evidence to Clementine.
+9. Head to the culprit's room and give the evidence to Clemente.
 10. Defeat the Greater Warped One.
 
 #### Rewards
