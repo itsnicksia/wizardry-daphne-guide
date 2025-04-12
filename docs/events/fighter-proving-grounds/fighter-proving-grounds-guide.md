@@ -24,9 +24,14 @@ There are several map variations, and are random upon entering. It is not necess
     - Remember to carry potions on all three characters.
     - Carry a healing staff switch so you can use healing spells from the MC and/or other characters who have access to dios/madios. Consider using Self-Healing as well with a divine staff.
     - The enemies on the advanced floor consist of Minotaurs, Lesser Demons, and Chimeras.
+
+??? danger "Intermediate Difficulty Fight Tips"
+    - The final enemy is always a Minotaur. It has around ~7.5k HP. It has no element, and is affected by Magical Beast Slayer,
+    - The Minotaur has a set order of actions. It will do nothing on Turn 1, 2 turn Defense buff on Turn 2, 10 turn Accuracy buff on Turn 3, 10 turn Attack buff on Turn 4, then begin attacking on turn 5 onwards with a CT down skill and Row-switching skill.
+    - Katino and Kantios are effective but not guaranteed on the Minotaur.
     
 ??? danger "Advanced Difficulty Fight Tips"
-    - The final enemy is always a Vampire. He has around ~7k HP.
+    - The final enemy is always a Vampire. He has around ~7k HP. Vampires are dark element, and is affected by Vampire Slayer.
     - He will generally just basic attack that can be consistently dodged with 150~ evasion. Alternatively he may cast Zelos
     - He is susceptible to openings, which will inflict around 1k damage
     - He will cast Kaltu on himself at around half HP (~3.5k HP). When he is at low HP (~1k HP) he will do a 1 time Vampire Bats skill that inflicts very high damage. He will heal for about 10x of what the vampire bats hit on you.
