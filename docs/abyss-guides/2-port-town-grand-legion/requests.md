@@ -470,7 +470,9 @@ Goetia -> Admiral Route
 ??? info "Request"
     ![](img/image_61.png)
 
-- Defeat the warped ones
+- To obtain this request, talk to the chef across from Reprobus on Lower Deck 1 after losing to him. It will show up in the Royal Capital
+- Selecting the option to wait will cause you to be ambushed, while the other option will give you iniative.
+- Defeat the Warped One, and turn in the request to receive Mimint. You may now give this ingredient to the Head Chef on Lower Deck 2 for Mimint Potage.
 
 ## Arena Round 3
 
