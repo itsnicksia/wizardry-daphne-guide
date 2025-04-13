@@ -4,7 +4,8 @@
 
 There is no introduction to this event. Simply start the event by entering the event tab and selecting the Fighter Proving Grounds event. There are three difficulties. You can only enter with up to 3 fighters.
 
-You can obtain up to 200 tokens from clearing the event itself. You will obtain 200 from advanced, 100 from intermediate, and 50 from beginner. After reaching 200 tokens, you are capped. You can gain an additional 400 tokens from missions.
+You can obtain up to 200 tokens from clearing the event itself. However, the tokens from clearing the event are capped to the difficulty cleared. You can only get a maximum of 50 tokens in Beginner, 100 in Intermediate, and 200 in Advanced. So there is no need to clear each difficulty more than once and no need to do lower difficulties if you can do Advanced, as it will just give the max possible value per difficulty level.
+
 
 There are several map variations, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end and defeat the floor boss. Keep in mind, it only counts as a clear upon talking to the old man with the mask beside the portal. There is a fountain that is guarded by a Benjamin-NPC on each side.
 
