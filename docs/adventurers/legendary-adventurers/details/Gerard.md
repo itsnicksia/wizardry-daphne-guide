@@ -8,6 +8,13 @@
 **Class Change**: Fighter 
 **Role**: Damage, Support
 
+!!! info "Portraits"
+    === "Knight"
+        ![](../img/gerard-knight.png)
+
+    === "Fighter"
+        ![](../img/gerard-fighter.png)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
