@@ -182,7 +182,7 @@ Alternate Ending:
 ??? map "Final Location"
     ![](img/lambert-b5f-location.png)
 
-!!! warning "If you save Lambert, any further instances of the quest will not give the Digging Mattock as the reward. To reset this, repeat step 4 but pick the 2nd option instead. All further instances of the quest will now result in a Digging Mattock."
+!!! warning "If you save Lambert, any further instances of the quest will not give the Digging Mattock as the reward. To reset this, pick Do Nothing when speaking to Lambert."
 
 ### Abyss Heretics
 
