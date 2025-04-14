@@ -14,6 +14,7 @@
 | <span class="green">Humanoid Rejection</span>                      | Harken's Blessing has reduced the damage you take from humans.                                                                               |
 | <span class="green">Blessing of Agility</span>                     | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
 | <span class="green">Blessing of Confusion/Charm Tolerance </span>  | Harken's Blessing has increased your Confusion Tolerance and Charm Tolerance.                                                                |
+| <span class="green">Blessing of Earthguard </span>                 | Harken's Blessing has increased your Earth Type-Resistance.                                                                                  |
 | <span class="green">Blessing of Insta-Kill/Stone Tolerance </span> | Harken's Blessing has increased your Insta-Kill Tolerance and Stone Tolerance.                                                               |
 | <span class="green">Blessing of Mana</span>                        | Harken's Blessing has increased your Magic Power and Divine Power.                                                                           |
 | <span class="green">Blessing of Od</span>                          | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |

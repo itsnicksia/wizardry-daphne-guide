@@ -114,48 +114,60 @@
 
 === "Equipment"
 
-    | Name                                    | Description                                  |
-    | --------------------------------------- | -------------------------------------------- |
-    | Equipment Collector ★                   | Acquire 30 types of equipment.               |
-    | Equipment Collector ★★                  | Acquire 50 types of equipment.               |
-    | Equipment Collector ★★★                 | Acquire 100 types of equipment.              |
-    | Equipment Collector ★★★★                | Acquire 200 types of equipment.              |
-    | Excavator                               | Acquire a digging mattock.                   |
-    | Mermaid's Necklace                      | Acquire Melgina's Choker.                    |
-    | Pirates We Be                           | Acquire the Cutlass of Tyranny.              |
-    | Preference for Daggers                  | Acquire 5 types of daggers.                  |
-    | Preference for One-Handed Swords        | Acquire 5 types of one-handed swords.        |
-    | Preference for One-Handed Axes          | Acquire 5 types of one-handed axes.          |
-    | Preference for One-Handed Staves        | Acquire 5 types of one-handed staves.        |
-    | Preference for One-Handed Blunt Weapons | Acquire 5 types of one-handed blunt weapons. |
-    | Preference for Two-Handed Swords        | Acquire 5 types of two-handed swords.        |
-    | Preference for Two-Handed Spears        | Acquire 5 types of two-handed spears.        |
-    | Preference for Two-Handed Axes          | Acquire 5 types of two-handed axes.          |
-    | Preference for Two-Handed Staves        | Acquire 5 types of two-handed staves.        |
-    | Preference for Two-Handed Blunt Weapons | Acquire 5 types of two-handed blunt weapons. |
-    | Preference for Bows                     | Acquire 5 types of bows.                     |
-    | Preference for Small Shields            | Acquire 3 types of small shields.            |
-    | Preference for Light Shields            | Acquire 3 types of light shields.            |
-    | Preference for Heavy Shields            | Acquire 3 types of heavy shields.            |
-    | Preference for Hats                     | Acquire 3 types of hats.                     |
-    | Preference for Light Helmets            | Acquire 3 types of light helmets.            |
-    | Preference for Heavy Helmets            | Acquire 3 types of heavy helmets.            |
-    | Preference for Clothes                  | Acquire 3 types of clothes.                  |
-    | Preference for Light Armor              | Acquire 3 types of light armor.              |
-    | Preference for Heavy Armor              | Acquire 3 types of heavy armor.              |
-    | Preference for Gloves                   | Acquire 3 types of gloves.                   |
-    | Preference for Light Gauntlets          | Acquire 3 types of light gauntlets.          |
-    | Preference for Heavy Gauntlets          | Acquire 3 types of heavy gauntlets.          |
-    | Preference for Shoes                    | Acquire 3 types of shoes.                    |
-    | Preference for Light Armor Boots        | Acquire 3 types of light armor boots.        |
-    | Preference for Heavy Armor Boots        | Acquire 3 types of heavy armor boots.        |
-    | Preference for Accessories              | Acquire 3 types of accessories.              |
-    | Blacksmith Novice                       | Enhance equipment up to +5.                  |
-    | Blacksmith Acquaintance                 | Enhance equipment up to +10.                 |
-    | Blacksmith Regular                      | Enhance equipment up to +15.                 |
-    | Forge Seeker                            | Enhance equipment up to +20.                 |
-    | Ultimate Equipment Enhancement          | Enhance 10 pieces of equipment up to +20.    |
-    | Ultimate Equipment Enhancement II       | Enhance 30 pieces of equipment up to +20.    |
+    | Name                                    | Description                                   |
+    | --------------------------------------- | --------------------------------------------- |
+    | Equipment Collector ★                   | Acquire 30 types of equipment.                |
+    | Equipment Collector ★★                  | Acquire 50 types of equipment.                |
+    | Equipment Collector ★★★                 | Acquire 100 types of equipment.               |
+    | Equipment Collector ★★★★                | Acquire 200 types of equipment.               |
+    | Equipment Collector ★★★★★               | Acquire 200 types of equipment.               |
+    | Excavator                               | Acquire a digging mattock.                    |
+    | Mermaid's Necklace                      | Acquire Melgina's Choker.                     |
+    | Pirates We Be                           | Acquire the Cutlass of Tyranny.               |
+    | Preference for Daggers                  | Acquire 5 types of daggers.                   |
+    | Dagger Collector                        | Acquire 10 types of daggers.                  |
+    | Preference for One-Handed Swords        | Acquire 5 types of one-handed swords.         |
+    | One-Handed Sword Collector              | Acquire 10 types of one-handed swords.        |
+    | Preference for One-Handed Axes          | Acquire 5 types of one-handed axes.           |
+    | One-Handed Axe Collector                | Acquire 10 types of one-handed axes.          |
+    | Preference for One-Handed Staves        | Acquire 5 types of one-handed staves.         |
+    | One-Handed Staff Collector              | Acquire 10 types of one-handed staves.        |
+    | Preference for One-Handed Blunt Weapons | Acquire 5 types of one-handed blunt weapons.  |
+    | One-Handed Blunt Weapon Collector       | Acquire 10 types of one-handed blunt weapons. |
+    | Preference for Two-Handed Swords        | Acquire 5 types of two-handed swords.         |
+    | Two-Handed Sword Collector              | Acquire 10 types of two-handed swords.        |
+    | Preference for Two-Handed Spears        | Acquire 5 types of two-handed spears.         |
+    | Two-Handed Spear Collector              | Acquire 10 types of two-handed spears.        |
+    | Preference for Two-Handed Axes          | Acquire 5 types of two-handed axes.           |
+    | Two-Handed Axe Collector                | Acquire 10 types of two-handed axes.          |
+    | Preference for Two-Handed Staves        | Acquire 5 types of two-handed staves.         |
+    | Two-Handed Staff Collector              | Acquire 10 types of two-handed staves.        |
+    | Preference for Two-Handed Blunt Weapons | Acquire 5 types of two-handed blunt weapons.  |
+    | Two-Handed Blunt Weapon Collector       | Acquire 10 types of two-handed blunt weapons. |
+    | Preference for Bows                     | Acquire 5 types of bows.                      |
+    | Bow Collector                           | Acquire 10 types of bows.                     |
+    | Preference for Small Shields            | Acquire 3 types of small shields.             |
+    | Preference for Light Shields            | Acquire 3 types of light shields.             |
+    | Preference for Heavy Shields            | Acquire 3 types of heavy shields.             |
+    | Preference for Hats                     | Acquire 3 types of hats.                      |
+    | Preference for Light Helmets            | Acquire 3 types of light helmets.             |
+    | Preference for Heavy Helmets            | Acquire 3 types of heavy helmets.             |
+    | Preference for Clothes                  | Acquire 3 types of clothes.                   |
+    | Preference for Light Armor              | Acquire 3 types of light armor.               |
+    | Preference for Heavy Armor              | Acquire 3 types of heavy armor.               |
+    | Preference for Gloves                   | Acquire 3 types of gloves.                    |
+    | Preference for Light Gauntlets          | Acquire 3 types of light gauntlets.           |
+    | Preference for Heavy Gauntlets          | Acquire 3 types of heavy gauntlets.           |
+    | Preference for Shoes                    | Acquire 3 types of shoes.                     |
+    | Preference for Light Armor Boots        | Acquire 3 types of light armor boots.         |
+    | Preference for Heavy Armor Boots        | Acquire 3 types of heavy armor boots.         |
+    | Preference for Accessories              | Acquire 3 types of accessories.               |
+    | Blacksmith Novice                       | Enhance equipment up to +5.                   |
+    | Blacksmith Acquaintance                 | Enhance equipment up to +10.                  |
+    | Blacksmith Regular                      | Enhance equipment up to +15.                  |
+    | Forge Seeker                            | Enhance equipment up to +20.                  |
+    | Ultimate Equipment Enhancement          | Enhance 10 pieces of equipment up to +20.     |
+    | Ultimate Equipment Enhancement II       | Enhance 30 pieces of equipment up to +20.     |
 
 === "Battle"
 
