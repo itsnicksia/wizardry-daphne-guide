@@ -39,7 +39,7 @@
 
 1. You must have rescued the girl before in critical condition with the dog.
 2. On the second option, tell him you already know what you need for the dog, "Got it"
-3. Get 10 meat directly from an NPC in Guarda. Obtain wheat from the room in Zone 8. Battle with Succubi.
+3. Get 5 meat directly from an NPC in Guarda. Obtain wheat from the room in Zone 8. Battle with Succubi.
 4. Return to town, get the dog, and head to the inn.
 5. This time however, the dog and little girl are safe.
 6. Talk to Knight Commander at the tent this time. Remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (true this time).

@@ -48,6 +48,7 @@
     | Who's the Mastermind?                               | Get framed by Dalian and be executed.                                              |
     | Missing Handmaiden and Servant                      | Upon reaching the great hall, only a few captives are still alive.                 |
     | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
+    | So Close, Yet So Far                                | Upon reaching the great hall, most of the captives are still alive.                |
     | Everyone Survived                                   | Upon reaching the great hall, all of the captives are still alive.                 |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |

@@ -6,6 +6,12 @@
 
 ## Infiltrating the Fortress
 
+### Client
+
+* Princess Pulgritte
+* Pontiff Leaufonde
+* Admiral Avare
+
 ## Hidden Passage
 
 ## Secret Passage Minor Harken
