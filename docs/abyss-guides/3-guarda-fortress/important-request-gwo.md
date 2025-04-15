@@ -1,4 +1,4 @@
-# Guarda Fortress - Greater Warped One
+# Guarda Fortress - Important Request and Greater Warped One
 
 ## Endings
 

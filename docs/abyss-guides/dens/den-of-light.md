@@ -4,7 +4,7 @@ This den is different from the other dens in that there are green and yellow swi
 
 ??? note "Requirements"
 
-      This den is only unlocked after [Guarda Fortress Abyss Good Ending](../3-guarda-fortress/greater-warped-one.md) has been obtained.
+      This den is only unlocked after [Guarda Fortress Abyss Good Ending](../3-guarda-fortress/important-request-gwo.md) has been obtained.
 
 The den drops Mid, High, and Fine grade ore randomly.
 

@@ -179,4 +179,4 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         ![](./img/zone-10-path-to-boss.png)
 
     !!! danger
-        [Greater Warped One](greater-warped-one.md)
+        [Greater Warped One](important-request-gwo.md)

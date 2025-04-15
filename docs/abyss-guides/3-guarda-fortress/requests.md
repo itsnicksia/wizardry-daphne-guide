@@ -253,7 +253,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Expedition to Clear the Fortress Lower Levels
 
 ??? note "Requirements"
-    Attained [Guarda Fortress Abyss Good Ending](./greater-warped-one.md#good-ending)
+    Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#good-ending)
 
 - Go to **Zone 6 -Prehistoric Corridor B2F-** and walk a few steps out of the Harken room
 - Engage in 3 back-to-back fights and win.
@@ -272,7 +272,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Missing Companion
 
 ??? note "Requirements"
-    - Attained [Guarda Fortress Abyss Good Ending](./greater-warped-one.md#good-ending)
+    - Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#good-ending)
     - Attained [Rescuing Liam Safely](./requests.md#rescuing-the-little-girl-safely)
 
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
@@ -324,7 +324,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Emergency Occurrence
 
 ??? note "Requirements"
-    Attained [Guarda Fortress Abyss True Ending](./greater-warped-one.md#true-ending)
+    Attained [Guarda Fortress Abyss True Ending](./important-request-gwo.md#true-ending)
 
 !!! warning "This request leads to a boss fight that is arguably more difficult than that of the average fight with the GWO of this abyss."
 

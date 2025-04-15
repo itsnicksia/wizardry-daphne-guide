@@ -1,4 +1,4 @@
-# Port Town Grand Legion - Arena and Greater Warped One
+# Port Town Grand Legion - Important Request and Greater Warped One
 
 ## Mechanics
 
