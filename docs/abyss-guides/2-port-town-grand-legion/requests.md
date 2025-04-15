@@ -324,6 +324,8 @@ Goetia -> Admiral Route
 - Go to 6th District \-Warehouse District- and speak to the maid.(She’s green marked)  
 - Defeat the enemies attacking the maids. (Turn limited)  
   - You end up having to choose between saying the maids died or turning them into the merchant.
+  - Selecting "Look the other way and let them go" rewards you with a bondmate "Doris the Frightened Maid" which is a Wind-element bondmate that gives Sleep Tolerance.
+  - Selecting "Turn them all over to the merchant" rewards you with "Bloodstained Gloves" which give Humanoid Resistance.
 
 ??? map "Location"
     ![](img/image_36.png)
