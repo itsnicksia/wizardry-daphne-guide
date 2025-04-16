@@ -26,6 +26,9 @@ This part of the Mausoleum resets every 2 weeks and provides 5 random adventurer
 !!! map "Ancient Mausoleum"
     ![](img/ancient-mausoleum.jpg)
 
+??? map "Shortest Path to a Chest"
+    ![](img/shortest-path.png)
+
 ## Credits
 
 Ancient Mausoleum map provided by Ogarith
