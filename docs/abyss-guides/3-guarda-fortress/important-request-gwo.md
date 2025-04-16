@@ -90,7 +90,7 @@ Saved the Duke and apprehended the mastermind.
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give "Mastermind Evidence" to Clemente.
 4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
-5. Have a Maximum of 8 Corruption Levels (Spotted 8 Times) 
+5. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
 
 #### Walkthrough
 
