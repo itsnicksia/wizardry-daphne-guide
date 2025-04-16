@@ -96,14 +96,13 @@ Saved the Duke and apprehended the mastermind.
 
 1. Warp to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon.
 2. Warp to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
-3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key.
-4. Warp to Zone 10 and loot Elequon's room (Located next to the library before dropping down to Zone 9 Harken).
-5. Warp to Zone 9 but do not enter the blackmail evidence room, as it will trigger Corruption.
-6. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
-7. Travel to Royal Capital Luknalia and gamble with the swindlers. If you win, you gain mastermind items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You will use Lulu's recommended strategy of letting them go first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
-8. Head back to the culprit's room and solve the Statue Puzzle from the hints on the floor.
-9. Head to the culprit's room and give the evidence to Clemente.
-10. Defeat the Greater Warped One.
+3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key. (It is not necessary to enter Elequon's room)
+4. Head to Zone 9 but do not enter the blackmail evidence room, as it will trigger a corruption sentry.
+5. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
+6. Travel to Royal Capital Luknalia and gamble with the swindlers. If you win, you gain mastermind items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You will use Lulu's recommended strategy of letting them go first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
+7. Head back to the culprit's room and solve the Statue Puzzle from the hints on the floor.
+8. Head to the culprit's room and give the evidence to Clemente.
+9. Defeat the Greater Warped One.
 
 #### Rewards
 
