@@ -253,7 +253,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Ominous Shadow Investigation
 
 ??? note "Requirements"
-    Attained [Guarda Fortress Abyss True Ending](./important-request-gwo.md#true-ending)
+    Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#good-ending)
 
 - Accept the request at the Tavern and head to **Zone 10 -Fortress 3F Lord's Room-**. Talk to the NPC on the map nearby the Greater Harken.
 - Warp to the Zone 7 Harken and walk upwards to Zone 10's Library and talk to the NPC. Choose the Investigate option.
