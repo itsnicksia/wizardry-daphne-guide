@@ -12,7 +12,7 @@
 
 - Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-the-missing-girl) request perfectly.
 
-!!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
+!!! note "Kidnapped Girl Liam is permanently lvl 1."
 
 ### Guardian Knight Dalian
 
