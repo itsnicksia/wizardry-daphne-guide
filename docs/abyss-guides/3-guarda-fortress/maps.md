@@ -182,4 +182,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         [Greater Warped One](important-request-gwo.md)
 
 ??? map "Catacomb"
-    ![](./img/catacomb.jpg)
+    ![](./img/catacombs.jpg)
+
+    ??? note "Solution to Candle Puzzle Door"
+        ![](./img/catacombs-order.jpg)
