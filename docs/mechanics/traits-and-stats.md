@@ -136,7 +136,16 @@ What does that mean? Ultimately, the impact of trait points on stats is signific
 We've often found ourselves saying bonus points don't matter. This is both true and not true. In one sense, it's not true because there can be a large visible difference between primary stats across Adventurers, however in another sense, it is true because the overall in-battle impact of bonus points is small.
 
 ### How Should You Assign Bonus Points?
-There aren't really any bad options here, but the community tends to recommend either the Adventurer's main stat (for example, a Fighter's main stat would be STR), Luck, Speed, or some combination of the three. You cannot break a character with your bonus point allocation. TheAxolotl's personal opinion is STR/IQ/Luck > Speed > Others, but this is subject to change as the game evolves.
+There aren't really any bad options here, but the community tends to recommend either the Adventurer's main stat (for example, a Fighter's main stat would be STR), Luck, Speed, or some combination of the three. You cannot break a character with your bonus point allocation.
+
+TheAxolotl's generally (but not always) does the following for his bonus points:
+
+* Fighter: Strength or Luck
+* Knight: Luck
+* Thief: Strength, Dexterity, Speed, or Luck
+* Mage: IQ or Speed
+* Priest: Speed, but it largely depends on what its second class is, if one exists
+* Ninja: Strength
 
 !!! note "You will never ruin an adventurer with your bonus point assignment."
 
