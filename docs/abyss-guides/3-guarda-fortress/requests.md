@@ -250,6 +250,17 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ## Triumphant Return
 
+### Ominous Shadow Investigation
+
+??? note "Requirements"
+    Attained [Guarda Fortress Abyss True Ending](./important-request-gwo.md#true-ending)
+
+- Accept the request at the Tavern and head to **Zone 10 -Fortress 3F Lord's Room-**. Talk to the NPC on the map nearby the Greater Harken.
+- Warp to the Zone 7 Harken and walk upwards to Zone 10's Library and talk to the NPC. Choose the Investigate option.
+- Head to Zone 4 Tunnel to find the mysterious man attacked by enemies after he opens the manhole cover at the middle.
+- You will have to fight 2 Skeleton Giants (front row) and 2 Vampires (back row). They are about the same strength as normal versions in Abyss 3.
+- Return to tavern to turn in the request. You now have access to a new area **Catacomb** from Zone 4.
+
 ### Expedition to Clear the Fortress Lower Levels
 
 ??? note "Requirements"
