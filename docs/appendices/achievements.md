@@ -180,6 +180,7 @@
     | Honor of Valor                      | Slay 200 enemies.                  |
     | Blood-Spattered Mask                | Slay 2,000 enemies.                |
     | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.               |
+    | Endless Trail of Blood              | Slay 100,000 enemies.              |
     | Warped One-Hunter ★                 | Slay 100 warped ones.              |
     | Warped One-Hunter ★★                | Slay 300 warped ones.              |
     | Warped One-Hunter ★★★               | Slay 500 warped ones.              |
@@ -200,22 +201,48 @@
     | Leave Treasure Chest Locks to Me            | Unlock treasure chests 100 times.                   |
     | Treasure Chest Unlocking Veteran            | Unlock treasure chests 1,000 times.                 |
     | Treasure Hunter                             | Unlock treasure chests 3,000 times.                 |
+    | Abyss Master of Unlocking                   | Unlock treasure chests 30,000 times.                |
     | Dungeon Crawler                             | Move 10,000 steps in dungeons.                      |
     | The Dungeon Is My Playground                | Move 50,000 steps in dungeons.                      |
     | Know Dungeons Like the Back of Your Hand    | Move 100,000 steps in dungeons.                     |
+    | Dungeon Tour Guide                          | Move 1,000,000 steps in dungeons.                   |
 
 === "Other"
 
-    | Name               | Description                                                   |
-    | ------------------ | ------------------------------------------------------------- |
-    | Thief              | Have your money stolen at an inn.                             |
-    | It Itches!         | Get an itch at an inn.                                        |
-    | Living Large       | Stay in a royal suite.                                        |
-    | Royal Suite Life   | Stay in a royal suite 50 times.                               |
-    | A Secret Kept      | Go through your adventure without revealing the Cursed Wheel. |
-    | Full Belly         | Eat all dishes other than the daily special.                  |
-    | 100th Login        | Log in for a total of 100 days.                               |
-    | 300th Login        | Log in for a total of 300 days.                               |
-    | Achievement Rank C | Earn 20 achievements.                                         |
-    | Achievement Rank B | Earn 50 achievements.                                         |
-    | Achievement Rank A | Earn 100 achievements.                                        |
+    | Name                     | Description                                                        |
+    | ------------------------ | ------------------------------------------------------------------ |
+    | Thief                    | Have your money stolen at an inn.                                  |
+    | It Itches!               | Get an itch at an inn.                                             |
+    | Living Large             | Stay in a royal suite.                                             |
+    | Royal Suite Life         | Stay in a royal suite 50 times.                                    |
+    | A Secret Kept            | Go through your adventure without revealing the Cursed Wheel.      |
+    | Full Belly               | Eat all dishes other than the daily special.                       |
+    | 100th Login              | Log in for a total of 100 days.                                    |
+    | 300th Login              | Log in for a total of 300 days.                                    |
+    | Character Aficionado     | Record 10 characters in the Characters category of the Compendium. |
+    | Character Aficionado II  | Record 30 characters in the Characters category of the Compendium. |
+    | Character Aficionado III | Record 50 characters in the Characters category of the Compendium. |
+    | Character Aficionado IV  | Record 70 characters in the Characters category of the Compendium. |
+    | Item Aficionado          | Record 10 items in the Items category of the Compendium.           |
+    | Item Aficionado II       | Record 50 items in the Items category of the Compendium.           |
+    | Item Aficionado III      | Record 100 items in the Items category of the Compendium.          |
+    | Item Aficionado IV       | Record 150 items in the Items category of the Compendium.          |
+    | Monster Aficionado       | Record 30 monsters in the Monsters category of the Compendium.     |
+    | Monster Aficionado II    | Record 60 monsters in the Monsters category of the Compendium.     |
+    | Monster Aficionado III   | Record 90 monsters in the Monsters category of the Compendium.     |
+    | Monster Aficionado IV    | Record 120 monsters in the Monsters category of the Compendium.    |
+    | Character Aficionado     | Record 10 characters in the Characters category of the Compendium. |
+    | Character Aficionado II  | Record 30 characters in the Characters category of the Compendium. |
+    | Character Aficionado III | Record 50 characters in the Characters category of the Compendium. |
+    | Character Aficionado IV  | Record 70 characters in the Characters category of the Compendium. |
+    | Weapon Aficionado        | Record 10 bronze/hardwood type weapons.                            |
+    | Armor Aficionado         | Record 15 bronze/leather type armor.                               |
+    | Weapon Aficionado II     | Record 10 iron/old wood type weapons.                              |
+    | Armor Aficionado II      | Record 15 iron/beastskin type armor.                               |
+    | Weapon Aficionado III    | Record 10 steel/sacred wood type weapons.                          |
+    | Armor Aficionado III     | Record 15 steel/scaly leather type armor.                          |
+    | Weapon Aficionado IV     | Record 10 ebonsteel/arcane type weapons.                           |
+    | Armor Aficionado IV      | Record 15 ebonsteel/veil type armor.                               |
+    | Achievement Rank C       | Earn 20 achievements.                                              |
+    | Achievement Rank B       | Earn 50 achievements.                                              |
+    | Achievement Rank A       | Earn 100 achievements.                                             |
