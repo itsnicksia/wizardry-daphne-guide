@@ -13,6 +13,7 @@
         ![](../img/dino-mage.png)
 
     === "Thief"
+        ![](../img/dino-thief.png)
 
 ## Skills
 
