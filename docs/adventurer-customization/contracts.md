@@ -8,13 +8,13 @@ These contracts generally give a sizeable buff at a cost of a very drastic penal
     ![](./img/contract-2.png)
     ![](./img/contract-3.png)
 
-    !!! caution "Extra Conditions"
+    !!! warning "Extra Conditions"
         ![](./img/contract-penalty.png)
 
 ??? note "List of MC-Exclusive Contract(s)"
     ![](./img/contract-4.png)
 
-    !!! caution "Extra Conditions"
+    !!! warning "Extra Conditions"
         ![](./img/contract-penalty-mc.png)
     
 
