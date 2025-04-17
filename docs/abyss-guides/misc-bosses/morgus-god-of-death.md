@@ -1,7 +1,7 @@
 # Morgus, God of Death
 
 ??? note "Requirements"
-    - Clear [Ominous Shadow Investigation Request](../3-guarda-fortress/3-guarda-fortress/requests.md#ominous-shadow-investigation)
+    - Clear [Ominous Shadow Investigation Request](../3-guarda-fortress/requests.md#ominous-shadow-investigation)
 
 !!! danger "Morgus, God of Death"
     ![](./img/morgus.png)
