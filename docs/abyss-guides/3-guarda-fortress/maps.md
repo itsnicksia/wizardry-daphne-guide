@@ -180,3 +180,6 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
     !!! danger
         [Greater Warped One](important-request-gwo.md)
+
+??? map "Catacomb"
+    ![](./img/catacomb.jpg)
