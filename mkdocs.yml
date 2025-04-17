@@ -84,6 +84,8 @@ nav:
       - Den of Wind: './abyss-guides/dens/den-of-wind.md'
       - Den of Light: './abyss-guides/dens/den-of-light.md'
     - Grade Exams: './abyss-guides/grade-exams/maps.md'
+    - Misc Bosses:
+      - Morgus, God of Death: './abyss-guides/misc-bosses/morgus-god-of-death.md'
   - Adventurers:
     - Adventurer Quicklist: './adventurers/adventurer-quicklist.md'
     - Class Skill Quicklist: './adventurers/class-skill-quicklist.md'
