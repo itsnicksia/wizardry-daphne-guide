@@ -48,7 +48,7 @@
 | [Eugen and Bibi](./guarda-fortress/bondmates.md#eugen-and-bibi)                                        | Side quest | Missing Companion                             | Confusion Tolerance            | Void    | 1         |
 | [Graham, Knight Commander of Guarda](./guarda-fortress/bondmates.md#graham-knight-commander-of-guarda) | Side quest | Emergency Occurrence                          | Attack Power, Stone Resistance | Fire    | 5         |
 | [Guardian Knight Dalian](./guarda-fortress/bondmates.md#guardian-knight-dalian)                        | Main quest | Blackmail Resolution                          | Defense Power                  | Earth   | 1         |
-| [Kidnapped Girl Liam](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                              | Main quest | Search for the Missing Girl                   | Stun Tolerance                 | Water   | 5         |
+| [Kidnapped Girl Liam](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                              | Main quest | Search for the Missing Girl                   | Stun Tolerance                 | Water   | 1         |
 | [Singing Skeleton in the Tunnel](./guarda-fortress/bondmates.md#singing-skeleton-in-the-tunnel)        | Side quest | Search for Missing Person                     | Defense Power                  | Dark    | 5         |
 
 ## Event Bondmates
