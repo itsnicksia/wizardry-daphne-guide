@@ -13,6 +13,7 @@
         ![](../img/daniel-priest.png)
 
     === "Knight"
+        ![](../img/daniel-knight.png)
 
 ## Skills
 
