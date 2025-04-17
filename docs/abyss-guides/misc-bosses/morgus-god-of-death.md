@@ -1,7 +1,10 @@
 # Morgus, God of Death
 
 ??? note "Requirements"
-    - Clear Ominous Shadow Investigation.
+    - Clear [Ominous Shadow Investigation Request](../3-guarda-fortress/3-guarda-fortress/requests.md#ominous-shadow-investigation)
+
+!!! danger "Morgus, God of Death"
+    ![](./img/morgus.png)
 
 ## ^^Boss Characteristics^^
 - He is Dark Element and No Race.
@@ -46,3 +49,7 @@
 
 ## Reward
     
+??? note "Rewards for beating Morgus"
+    ![](./img/morgus-salty.png)
+    ![](./img/morgus-reward.png)
+    ![](./img/morgus-achievement.png)
