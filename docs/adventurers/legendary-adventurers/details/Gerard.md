@@ -33,16 +33,17 @@
 
 !!! info "TheAxolotl's Analysis"
 
-    I'll preface this with the fact that I did not pull on Gerard, so these are my thoughts on his kit as opposed to his performance. By all means, I welcome the analysis of someone who has him and has used him.
+    Poor Gerard has not aged that well. He's not a bad legendary by any means, but many of his initial advantages have been relegated to less impactful now that we have new adventurers and skills available to us. I wouldn't go as far as saying he's been powercrept, but he's definitely lost a bit of his luster in comparison to when he was initially released.
 
-    At the time of release, Gerard is the biggest damage dealing Adventurer we have. His Thunderstrike skill is extremely potent, hitting for (I believe) harder than Gerulf's Eruption Strike, while also having the chance to paralyze your foes. If you're interested in having an Adventurer that deals damage, he is a great addition. One thing worth calling out is that he is a Dark unit, but he deals Wind damage with his skill, which is an interesting combination.
+    His Thunderstrike skill is very potent when hitting weaknesses, and having the chance to paralyze your foes can be a nice added bonus. Unfortunately, with the addition of Full Power Strike to the Fighter arsenal, even if class changing Gerard to Fighter, his signature skill becomes a conditional attack at best. Full Power Strike will be both more efficient and overall higher consistent damage than Thunderstrike. Another key thing to note is that he is a Dark type adventurer with a Wind type skill, which means he misses out on a same-type damage multiplier when hitting weaknesses, which is unfortunate.
 
-    The thing that I personally don't like about Gerard is that outside of dealing damage, he doesn't really bring anything unique or interesting to a party. His job is to deal damage, and he does it well, but I personally like my Adventurers to provide utility and versatility, rather than being single-purpose.
+    Lightning Celerity is fine - it's a passive personal evasion increase, however it's a static increase and not a percentage, so it will lose value as stats increase.
 
-    Don't let that stop you from pulling on him if you like him, though - when properly built, he can be a beast!
+    Gerard's biggest disadvantage is that he is designed to do damage, but his signature skills don't contribute much in the way towards dealing most of his damage. He has a small niche in that as of his first rerun, he's still our highest damaging Knight adventurer, but his access to a Fighter class change largely renders his Thunderstrike skill obsolete in a large majority of current content.
 
     * Pull if:
         * You like Gerard as an adventurer
+        * You want a knight that can deal solid damage
     * Do not pull if:
         * You do not like Gerard as an adventurer
         * You want to save for future, more impactful adventurers

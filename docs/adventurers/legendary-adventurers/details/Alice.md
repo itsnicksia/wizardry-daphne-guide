@@ -22,7 +22,7 @@
         Adds 1 consecutive turn to buffs and debuffs applied by the user and increases MP. MP increase amount and growth amount of consecutive turns are reduced if learned by someone other than Alice.
         
         !!! warning
-            I have received confirmation from the support team that this skill is only intended to increase the duration of buff/debuff **spells**. By design, it does not increase the duration of buff/debuff **skills**.
+            The latest updates have greatly improved this skill, allowing it to increase the duration  off every buff and debuff except Knight's Defense. This single-handedly makes Alice one of the, if not the absolute best legendary inherit available for turn economy.
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Agent of Heresy"
@@ -45,7 +45,7 @@
 
     To make things even better, many other characters will benefit from Alice duplicates. Inheriting her skill on your other favorite buffers/debuffers will allow them to each provide an extra turn for their buffs/debuffs!
 
-    It has been reported that the turn duration increase from her Blessing of Agora skill adds one to the counter at rank three, so it's possible to get at least a 5-turn duration on buffs and debuffs, which adds to the strength increasing her skill through inheritence.
+    The turn duration increase from her Blessing of Agora skill adds one to the counter at rank three (on Alice, rank 5 on non-Alice), so it's possible to get at least a 5-turn duration on buffs and debuffs, which adds to the strength increasing her skill through inheritence.
 
     If you pull Alice, she will be a fantastic addition to your team!
 
