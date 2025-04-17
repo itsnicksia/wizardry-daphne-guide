@@ -138,7 +138,7 @@ We've often found ourselves saying bonus points don't matter. This is both true 
 ### How Should You Assign Bonus Points?
 There aren't really any bad options here, but the community tends to recommend either the Adventurer's main stat (for example, a Fighter's main stat would be STR), Luck, Speed, or some combination of the three. You cannot break a character with your bonus point allocation.
 
-TheAxolotl's generally (but not always) does the following for his bonus points:
+TheAxolotl generally (but not always) does the following for his bonus points:
 
 * Fighter: Strength or Luck
 * Knight: Luck
