@@ -38,7 +38,7 @@
 !!! warning "As of patch 1.4.0, there is a bug where saving the little girl does not unlock her bondmate if done on True ending because the parents are missing"
 
 1. You must have rescued the girl before in critical condition with the dog.
-2. On the second option, tell him you already know what you need for the dog, "Got it"
+2. On the second option, tell him you already know what you need for the dog, "All Right"
 3. Get 5 meat directly from an NPC in Guarda. Obtain wheat from the room in Zone 8. Battle with Succubi.
 4. Return to town, get the dog, and head to the inn.
 5. This time however, the dog and little girl are safe.
