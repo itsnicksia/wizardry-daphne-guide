@@ -31,34 +31,33 @@
 
 !!! info "TheAxolotl's Analysis"
 
-    Savia, our first evil knight, is...well, to be blunt, pretty lackluster in my opinion.
+    Savia gets a nice boost due to the change to Alice's Blessing of Agora skill and the availability of Way of the Warrior through a skill inherit, but I'll touch on that in a bit.
 
-    First, to dig into her skills, Black Beast Feint is a very interesting mechanic. It's an evasion self-buff that also acts as a "taunt" with a counter-attack. While at first glance, this seems interesting, there are a few big caveats. First, when I say taunt, I mean the affliction that skills like Attract Hit and Defensive Provike apply, which makes it more likely for an enemy to target a specific adventurer. These afflictions are not a guarantee - they just increase the likelihood of single target attacks going to a specific adventurer.
-    
-    Second, there is no listed duration for the affliction, so I'm not entirely sure how long it lasts. Attract Hit and Defensive Provoke both last for 3 turns, so I suspect it aligns with that. Regardless of how long that lasts, early reports indicate that the counter attack only happens once per attack received, and only on the turn this is cast. I haven't confirmed this myself, but if that is the case, this would be a very costly skill to maintain, as regardless of how long the affliction lasts, you'll need to use the skill multiple turns in a row to get a single counterattack, and if she happens to get attacked multiple times in one turn, only the first attack receives the counterattack.
-    
-    In addition, as a Knight, she won't have any innate damage multipliers, such as Way of the Warrior, so even though the counterattack portion has a defense penetration component to it, it's very likely not going to be nearly as powerful as her simply defending and someone else hitting an Opening. It's a very unique skill in general, but I frankly don't see a reason to want to use the skill at all, since that time could be spent performing one of multiple other actions that would overall be more beneficial.
+    First, to dig into her skills, Black Beast Feint is a very interesting mechanic. It's an evasion self-buff that also acts as a "taunt" with a counterattack. Unlike Attract Hit and Defensive Provoke, this appears to be a guarantee that she gets attacked if a single target physical attack would be used. This is pretty great, but there are two main limitations.
+    First, this is a skill and is not treated as a basic attack, which means it is going to be subject to the logarithmic nature of active skill damage and cannot trigger Follow-Up Attack. Second, it will only work for single target, physical attacks. It will not protect at all against `MA` or `LA` level attacks, and it will not protect at all against spells.
 
-    One thing I'm unclear on is if her Black Beast Feint counter attack counts as a basic attack or a skill. If it is treated as a basic attack, it could have some potential when combined with Follow-Up Attack or if inherited to a Ninja, as it could potentially both help trigger the Ninja attack power boost on evade and critical hits. It could potentially also stack with the Counterattack skill, ultimately resulting in more hits, but this would need to be tested. If the skill is treated as an attack skill, similar to how Abenius' skill is treated, then there is absolutely no value to inheriting it to another adventurer, in my opinion. Some early reports indicate that inheriting Counterattack to Savia conflicts with her skill to the point of neither working as expected, but this behavior will likely get fixed at some point.
+    By default, the "taunt" portion of Black Beast Feint lasts for 2 turns (the turn you cast it and the following turn), while the counterattack portion lasts for one turn.  If you combine Black Beast Feint and Blessing of Agora, however, both see a single turn increase, leading the "taunt" to last for 3 turns and the counterattack to last for two. This puts Savia in a very unique position of being able to use Black Beast Feint on the first turn, then defend on the second turn. Her Defending will activate the Opening status, while her counterattack will cause Opening damage from her skill. This combination makes her extremely potent for dealing with heavy single target attackers like Cyclopses, as well as groups of single target attackers like Chimera.
+
+    An added benefit is that this skill can act as a one point wonder inherit for any adventurer you want to put in the position of being an Opening activator, as there is no reduction in counterattack chance when inherited to someone other than Savia.
 
     Her Soaring Beast Knight skill likely is similar to Wandering Lana's skill in that the buff is relatively minor at just a few points, and only considers the weapon slot and the chest armor slot.
 
-    Her Discipline skill is also pretty weak - while Evasion is a solid defensive stat, not having any extra offensive boost is less than ideal.
+    Her Discipline skill is a decent defensive boost, but not having any extra offensive boost is less than ideal.
 
-    The timing of her release is also pretty unfortunate - with the Blade and Bastard collaboration coming shortly after, Savia's banner screams "bait banner" to me and should really only be considered by whales.
+    Overall, she's received quite a bit of indirect love since she was released, and she's certainly more viable now. Her longevity will depend quite a bit on how many future encounters rely on single target physical attacks and how many incorporate regular spell damage and MA/LA targeting physical attacks. In addition, she's still a Knight and will be fairly SP-starved.
 
     * Pull if:
         * You like Savia as an adventurer
-        * You want an Evil Beastfolk Knight
-        * You are a whale or you want to collect one of every adventurer
+        * You want to have a very powerful Opening damage source without forcing a full front row Defend strategy
     * Do not pull if:
-        * You want an adventurer that provides significant value to the party
         * You do not like Savia as an adventurer
-        * You want to save for future adventurers or the Blade and Bastard collaboration
+        * You want an adventurer that is less conditional on knowing what the enemies will attack you with
+        * You want to save for future adventurers
 
     Savia looks cool, but that's really it. While her skill is unique, she doesn't bring anything strong to the party. She's not bad, but there really isn't any compelling reason to use her over other adventurers. She's an easy skip in my opinion.
     
 ## Duplicate Usage
 
-* Don't pull for duplicates
-* If you insist on pulling for duplicates, take your pick between Discipline and skill inheritance. Neither are very compelling.
+* Inherit to MC if you want him to abuse the Opening strategy
+* Inherit to Savia if you want to increase her counterattack damage
+* Discipline if you want to boost her evasion
