@@ -264,7 +264,13 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Obtain Research Materials
 
 ??? note "Requirements"
-    Completed Ominous Shadow Investigation (See above)
+    - Completed Ominous Shadow Investigation (See above)
+    - Completed the door puzzle in Catacomb.
+
+??? map "Candle Locations for Door Puzzle"
+    ![](./img/catacombs-order.jpg)
+
+    - Note: Light the candlesticks in order listed for the door to open.
 
 - Accept request at the Tavern and head to **Catacomb** from Zone 4. There will be 4 Ebongold coin locations. They are indicated below as red stars.
 - After collecting a coin, a monster will spawn nearby. You don't need to fight them but they typically block the way.
@@ -273,13 +279,6 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
     ![](./img/catacomb-coin.jpg)
 
     - Note: The location at the bottom left is located on the wall, you will need to look up.
-
-- The final location for one of the Ebongold coins is behind a door puzzle. You will need to light up candles in a specific order to open the door.
-
-??? map "Candle Locations"
-    ![](./img/catacombs-order.jpg)
-
-    - Note: Light the candlesticks in order listed for the door to open.
 
 - Upon collecting the final coin, there will be one more monster spawn. This fight is voluntary but actually gives an extra Ebongold coin.
 - You will be teleported back to town. Turn in the request and receive a Fey Catacomb Junk and 10k extra gold from Dr. Raimi.
