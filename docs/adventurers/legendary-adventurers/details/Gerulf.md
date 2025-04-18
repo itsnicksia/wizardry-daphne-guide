@@ -19,7 +19,7 @@
         ![](../img/gerulf-fighter-personal-request.png)
 
     === "Priest After Personal Request"
-        ![](../img/gerulf-priest-personal-request.png
+        ![](../img/gerulf-priest-personal-request.png)
 
 ## Skills
 

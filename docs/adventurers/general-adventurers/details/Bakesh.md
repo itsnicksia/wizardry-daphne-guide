@@ -13,6 +13,7 @@
         ![](../img/bakesh-thief.jpg)
 
     === "Fighter"
+        ![](../img/bakesh-fighter.jpg)
 
 ## Skills
 
