@@ -49,6 +49,9 @@
 
 !!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 9 is reached."
 
+??? note "Tip on dealing with Poison"
+    - There are several fights here with Critical Poison. At the moment, the best method of countering it is using an Anti-Venom Shield. It gives very high resistance to Poison.
+
 ??? note "Requirements"
     - Defeating the Gatekeeper after rescuing the child in any condition
     - Tale of Bordaon 1 and Tale of Bordaon 2 knowledge from talking to the skeletons in Zone 4.
