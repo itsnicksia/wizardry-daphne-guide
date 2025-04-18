@@ -59,6 +59,9 @@ After accepting the quest, a new location will be accessible on the “Edge of t
 ![](img/b4f-full-map.png)
 
 ### Suggested No-Combat Chest Farming Route on B4F:
+- NOTE:  THIS PROCESS APPEARS TO NO LONGER BE VALID
+  - As of the 2025 rollout of this event as a 'permanent' event, main quest Cursed Wheel resets no longer seem to reset event fixed chests in the dungeon.
+  
 - Once the B4F Harken has been restored, a monster-free path exists that allows Crystal shard chests to be farmed.  During the 2024 event, using the Cursed Wheel in the Ruins to reset the main quest to "Fresh Start" would also restore all fixed chests in the Cave of Malice.  Thus, Crystal shard speed-run farming could be performed with the following procedure:
 
   1. Cursed Wheel reset to Fresh Start.
