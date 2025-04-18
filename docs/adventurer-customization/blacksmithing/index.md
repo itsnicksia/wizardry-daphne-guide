@@ -53,16 +53,20 @@ Requires **Gold** and **Iron Ore**.
 | Ebonsteel |  550 |  770 | 1210 | 1870 | 2750 | 3850 | 5390 | 7315 | 9625 | 12320 | 15400 | 19140 | 23375 | 28105 | 33330 | 39050 | 45650 | 52855 | 74470 | 139315|  516340 |
 |  Special  |  650 |  900 | 1500 | 2450 | 3750 | 5400 | 7650 | 10500| 13950| 18000 | 22650 | 28100 | 34750 | 42600 | 51650 | 61900 | 74150 | 87800 | 128750| 251600|  848700 |
 
-### ^^Enhancement Values^^
+<!--
 
-**These values are inaccurate, and should be treated as estimates.**
+commenting this shit out until we have data lol this is so sad
+
+### ^^Enhancement Values^^
 
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
-|                 **ASPD, SUR**                 | 1~3 | 1~5 | 1~7 |  1~9 | 2~11 |
-|                   **ASPD%**                   | 1~3 | 1~5 | 1~7 |  2~9 | 2~11 |
+|                 **ASPD, SUR**                 | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
+|                   **ASPD%**                   | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
+
+-->
 
 ## ^^Refine^^
 
@@ -90,7 +94,7 @@ Only weapons, armor and accessories can be extracted.
 
 ### ^^Extraction Values^^
 
-**These values are inaccurate, and should be treated as estimates.**
+**These values may be inaccurate, and should be treated as estimates.**
 
 |                                               |  1★ | 2 ★ | 3 ★ | 4 ★ | 5 ★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:---:|:---:|
