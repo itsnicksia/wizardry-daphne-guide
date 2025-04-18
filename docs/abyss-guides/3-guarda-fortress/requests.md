@@ -250,7 +250,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ## Triumphant Return
 
-### Ominous Shadow Investigation
+### Expose the Intruder
 
 ??? note "Requirements"
     Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#good-ending)
@@ -264,7 +264,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Obtain Research Materials
 
 ??? note "Requirements"
-    - Completed Ominous Shadow Investigation (See above)
+    - Completed Expose the Intruder (See above)
     - Completed the door puzzle in Catacomb.
 
 ??? map "Candle Locations for Door Puzzle"
