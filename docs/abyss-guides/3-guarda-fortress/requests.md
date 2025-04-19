@@ -309,7 +309,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Missing Companion
 
 ??? note "Requirements"
-    - Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#good-ending)
+    - Attained [Guarda Fortress Abyss True Ending](./important-request-gwo.md#true-ending)
     - Attained [Rescuing Liam Safely](./requests.md#rescuing-the-little-girl-safely)
 
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
