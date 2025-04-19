@@ -108,6 +108,16 @@
 
 ## Triumphant Return
 
+### Prophetic Scarlet Bisque Doll
+
+??? info "Prophetic Scarlet Bisque Doll"
+    ![](img/prophetic-scarlet-bisque-doll.png)
+
+??? info "Skill"
+    ![](img/prophetic-scarlet-bisque-doll-skill.png)
+
+- Complete the [Doll of Fortune](../../../abyss-guides/3-guarda-fortress/requests.md#doll-of-fortune) request.
+
 ### Duke Ixion
 
 ??? info "Duke Ixion"
