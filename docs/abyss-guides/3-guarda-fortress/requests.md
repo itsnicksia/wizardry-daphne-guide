@@ -253,6 +253,18 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ## Triumphant Return
 
+### Doll of Fortune
+
+??? note "Requirements"
+    - Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#good-ending)
+    - Completed Antique Scarlet Doll Request in this "run" (You may complete the request, then wheel forward to after beating the GWO)
+
+- Accept the request at the Tavern and head to Zone 9 from Guarda Fortress Entrance
+- Head to the end of Zone 9. Right before the stairs (and revolving sentry), the doll will inform you that the room is ahead
+- Enter the room. There will be 2 Cyclops enemies that spawn in the corners of the room + 1 usual wandering enemy. It is optional to fight them.
+- Click at the pots around the room. Three of the pots will contain red dye. Upon getting all 3 red dye, you will be teleported back to town.
+- Turn in the request and receive an additional 5000 gold.
+
 ### Expose the Intruder
 
 ??? note "Requirements"
