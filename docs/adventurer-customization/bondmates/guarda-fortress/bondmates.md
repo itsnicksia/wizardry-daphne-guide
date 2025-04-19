@@ -14,6 +14,16 @@
 
 !!! note "Kidnapped Girl Liam is permanently lvl 1."
 
+??? info "Sam the Rascally Dog"
+    ![](img/sam-the-rascally-dog.png)
+    
+??? info "Skill"
+    ![](img/sam-the-rascally-dog-skill.png)
+
+- Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-the-missing-girl) request incorrectly.
+
+!!! note "Sam the Rascally Dog is permanently lvl 1."
+
 ### Guardian Knight Dalian
 
 ??? info "Guardian Knight Dalian"
