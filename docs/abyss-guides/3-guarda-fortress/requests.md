@@ -261,9 +261,10 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 - Accept the request at the Tavern and head to Zone 9 from Guarda Fortress Entrance
 - Head to the end of Zone 9. Right before the stairs (and revolving sentry), the doll will inform you that the room is ahead
-- Enter the room. There will be 2 Cyclops enemies that spawn in the corners of the room + 1 usual wandering enemy. It is optional to fight them.
-- Click at the pots around the room. Three of the pots will contain red dye. Upon getting all 3 red dye, you will be teleported back to town.
-- Turn in the request and receive an additional 5000 gold.
+- Enter the room. There will be 2 Cyclops enemies that spawn in the corners of the room + 1 usual wandering enemy. Leave the room immediately.
+- Return into the room and interact with the blood puddles. Dip the doll into the blood.
+- Leave the room and you'll teleport back to town. Turn in the request. You'll be told to sleep in the Royal Suite. You're given 10k Gold.
+- Head to the Royal Suite and sleep. You will be rewarded with "Prophetic Scarlet Bisque Doll"  as a bondmate, who is a fire element bondmate that increases Magic Power.
 
 ### Expose the Intruder
 
