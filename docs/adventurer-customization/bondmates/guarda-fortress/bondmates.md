@@ -118,6 +118,8 @@
 
 - Complete the [Doll of Fortune](../../../abyss-guides/3-guarda-fortress/requests.md#doll-of-fortune) request.
 
+!!! note "To farm, Cursed Wheel before Triumphant Return and back and complete the request again"
+
 ### Duke Ixion
 
 ??? info "Duke Ixion"
