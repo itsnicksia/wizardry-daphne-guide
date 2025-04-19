@@ -38,6 +38,7 @@
 - If possible, put as much Instant Kill Resistance on the MC + key units on your team. However, even with high Instant Kill Resistance, he still can proc it quite frequently.
 - Try not to bring Light Units, as all his attacks are Dark element and do heavy damage.
 - Make MC Dark element + give him a lot of Instant Kill Resistance + Get Deep Look Back and Reversal Resonance.
+- Try to have over 500 total ASPD on the team to prevent him from going twice every turn.
 
 ## ^^Strategy (Assuming Level 60 Cap)^^
 - Pray you only have a maximum of 1-2 characters that die at the start.
