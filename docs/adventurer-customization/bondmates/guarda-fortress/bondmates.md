@@ -15,7 +15,7 @@
 !!! note "Kidnapped Girl Liam is permanently lvl 1."
 
 ??? info "Sam the Rascally Dog"
-    ![](img/sam-the-rascally-dog.png)
+    ![](img/sam-the-rascally-dog-1.png)
     
 ??? info "Skill"
     ![](img/sam-the-rascally-dog-skill.png)
