@@ -191,7 +191,7 @@ but this requires stacking Magic Power up to around 200 for each.
 
         1. Complete Good Ending Run for Abyss 3 and Unlock the Catacombs by completing the Expose the Intruder Request
         2. Clear out the Catacombs and interact with the door puzzle on the top left of the map. Click on the light to activate the ability to interact with the candles.
-        3. Interact with any candle that isn't the 1st candle. Lighting the wrong candle initiates a fight that is always the same. It is recommended to do the 3rd candle as it is the easiest fight to auto (2 Big Dark Slimes in front, 2 Dark Pixies in back)
+        3. Interact with any candle that isn't the 1st candle. Lighting the wrong candle initiates a fight that is always the same. It is recommended to find the candle with the 2 Big Dark Slimes in front, 2 Dark Pixies in back. 
         4. The fight will always drop a chest that has no unlock puzzle. In addition, this is the fastest way to farm junk from this map.
         5. Repeatedly light the candle and farm the chest drop.
 
