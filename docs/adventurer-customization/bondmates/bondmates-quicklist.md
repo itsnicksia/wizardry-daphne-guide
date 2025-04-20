@@ -50,7 +50,7 @@
 | [Guardian Knight Dalian](./guarda-fortress/bondmates.md#guardian-knight-dalian)                        | Main quest | Blackmail Resolution                          | Defense Power                  | Earth   | 1         |
 | [Kidnapped Girl Liam](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                              | Main quest | Search for the Missing Girl                   | Stun Tolerance                 | Water   | 1         |
 | [Singing Skeleton in the Tunnel](./guarda-fortress/bondmates.md#singing-skeleton-in-the-tunnel)        | Side quest | Search for Missing Person                     | Defense Power                  | Dark    | 5         |
-| [Sam the Rascally Dog](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                             | Main quest | Search for the Missing Girl                   | Sleep Tolerance                | ?       | 1         |
+| [Sam the Rascally Dog](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                             | Main quest | Search for the Missing Girl                   | Sleep Tolerance                | Wind    | 1         |
 | [Prophetic Scarlet Bisque Doll](./guarda-fortress/bondmates.md#prophetic-scarlet-bisque-doll)          | Side quest | Doll of Fortune                               | Magic Power                    | Fire    | 5         |
 
 ## Event Bondmates
