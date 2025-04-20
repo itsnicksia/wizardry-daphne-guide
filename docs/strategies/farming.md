@@ -195,4 +195,6 @@ but this requires stacking Magic Power up to around 200 for each.
         4. The fight will always drop a chest that has no unlock puzzle. In addition, this is the fastest way to farm junk from this map.
         5. Repeatedly light the candle and farm the chest drop.
 
+        !!! note "Lulu will berate you for failing the puzzle, and has unique dialogue up to 3 times. On the 3rd time she will just sigh at you"
+
         ![](img/catacombs-candle.png)
