@@ -43,6 +43,8 @@
 6. Talk to Knight Commander at the tent this time. Remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (true this time).
 7. Talk to the couple after defeating the GWO to obtain "Kidnapped Girl Liam" as a bondmate, who is a water element bondmate that gives Stun Tolerance.
 
+!!! note "If you have already completed this in one play through, you may skip the entirety of this with the same result by just posting the request at 55 gold and you'll go directly to saving the girl in good condition"
+
 ### Blackmail Resolution
 
 !!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 9 is reached."
