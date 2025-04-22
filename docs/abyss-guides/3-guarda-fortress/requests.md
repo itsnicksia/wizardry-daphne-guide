@@ -162,7 +162,8 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - It does not matter where you get the meat or if you go over the necessary meat (3, Lulu will inform you when you have enough), but if the head Gorgon is too difficult, you may kill the random Gorgon around the cave or walk around the head Gorgon and farm meat from the dead ones through a crack in the wall.
 - Return to the slums to receive your gold reward after the cutscene.
 
-??? map "Locations"
+??? map "Western Cave Map"
+    ![](./img/western-cave.png)
 
 ##### Pontiff Route
 - Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
@@ -176,7 +177,8 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 !!! note "If you do not have a mage, you can also farm LA- level spell scrolls from the Greater Demon that spawns in Abyss 1 after completing the B8F request"
 
-??? map "Locations"
+??? map "Cursed Cave Map"
+    ![](./img/cursed-cave.png)
 
 ##### Admiral Route
 
@@ -187,7 +189,8 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - After taking all 3 orphans, you will automatically finish the request, and talk to the Admiral in the cutscene. You must tell him to accept Leo's offer despite the financial loss.
 - You will receive your gold reward after the cutscene.
 
-??? map "Locations"
+??? map "Southern Cave Map"
+    ![](./img/southern-cave.png)
 
 ## Fortress Lower Floors Cleared
 
