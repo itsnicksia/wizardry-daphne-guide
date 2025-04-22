@@ -218,7 +218,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ### Antique Scarlet Doll
 
-!!! warning "As of version 1.4.0, this quest is bugged sometimes. The spot with the Grey Doll spawn is inaccessible if cursed wheeling from Ghosts Of Yore Vanquished or beyond. One must Cursed wheel to Portait Gallery Minor Harken, clear the floor boss, then attempt the request."
+!!! warning "As of version 1.4.0, this quest is bugged sometimes. The spot with the Grey Doll spawn is inaccessible if cursed wheeling from Ghosts Of Yore Vanquished or beyond. One must Cursed wheel to Portait Gallery Minor Harken, clear the floor boss, then attempt the request. Alternatively, you can just set corrosion to being spotted for that floor to prevent overlapping of the golem with the mob."
 
 - Teleport to Zone 6 Harken and walk up the stairs to Zone 7.
 - Go to each location indicated (maps might be different due to Abyss 3 variation, so look for similar room formats). Each location is not indicated on the map, but will be shown as stationary monster encounters on the minimap.
