@@ -29,7 +29,7 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Knowledge of the Millennial Lord"
-        Continuously reduces the MP cost of Mage spells that cost 6 MP or less.
+        Continuously reduces the MP/SP cost of Mage spells/skills that cost 3-10 MP/SP.
 
 !!! info "Discipline Skill"
     === "Will of the Millennial Lord"
