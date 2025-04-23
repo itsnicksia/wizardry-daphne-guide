@@ -420,7 +420,7 @@
     | Wisdom of Truth                                 | Adam       |                   |
     | Young Spell Prodigy                             |            |                   |
 
-### Damage Spells
+## Damage Spells
 
 === "Spell Description"
 
@@ -486,7 +486,7 @@
     | TZALIK                   | Iarumas                  |                  |
     | ZELOS                    |                          |                  |
 
-### Heal and Buff Spells
+## Heal and Buff Spells
 
 === "Spell Description"
 
@@ -534,7 +534,7 @@
     | REINIKUS  |          |                  |
     | ZILFIS    |          |                  |
 
-### Debuff Spells
+## Debuff Spells
 
 === "Spell Description"
 

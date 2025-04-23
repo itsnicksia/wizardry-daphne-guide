@@ -2,11 +2,11 @@
 
 ## Endings
 
-### Mandatory - Bad Ending 1
+### Mandatory - Getting Murdered
 
 This mandatory ending is triggered when killing the Greater Warped One for the first time.
 
-You don't have the ability to activate **Golems**, nor the requisite **Knowledge** to complete requests required for the [[Good Ending]](#good-ending).
+You don't have the ability to activate **Golems**, nor the requisite **Knowledge** to complete requests required for [[Stopping the Blackmailer]](#stop-the-blackmailer-and-save-the-duke).
 
 #### Outcome
 
@@ -21,7 +21,23 @@ Killed by the Duke's servant, Lily.
 - Well of the Mind Lantern (VIT)
   - The lantern is given when reversing the Golem, just before the fight against the Greater Warped One.
 
-### Mandatory - Bad Ending 2
+### Alternate - Getting Murdered
+
+#### Outcome
+
+Killed by the Duke's servant, Alan.
+
+#### Requirements
+
+1. Meet the Duke's party.
+2. Fail to save Liam or fail to notify Alan that she was saved.
+3. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+
+#### Rewards
+
+- None
+
+### Mandatory - Getting Executed
 
 #### Outcome
 
@@ -38,23 +54,7 @@ Executed in town due to accusations by Guardian Knight Dalian.
 
 - None
 
-### Alternate Bad Ending 1
-
-#### Outcome
-
-Killed by the Duke's servant, Alan.
-
-#### Requirements
-
-1. Meet the Duke's party.
-2. Fail to save Liam or fail to notify Alan that she was saved.
-3. Defeat the Greater Warped One of the Guarda Fortress Abyss.
-
-#### Rewards
-
-- None
-
-### Good Ending
+### Stop the Blackmailer and Save the Duke
 
 This is the first ending you will obtain that successfully completes the "Duke Ixion" request.
 
@@ -79,7 +79,7 @@ See [Search for the Missing Girl Request](./requests.md#search-for-the-missing-g
 
 - Well of the Mind Lantern (DEX)
 
-### True Ending
+### Stop the Mastermind and Save the Duke
 
 #### Outcome
 

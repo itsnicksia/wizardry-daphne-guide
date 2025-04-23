@@ -1,6 +1,6 @@
 # Contracts
 
-Upon completing [Ominous Shadow Investigation](../abyss-guides/3-guarda-fortress/requests.md#ominous-shadow-investigation), you will unlock the ability to make contracts on specific characters by talking to Morgus, God of Death.
+Upon completing [Expose the Intruder](../abyss-guides/3-guarda-fortress/requests.md#expose-the-intruder), you will unlock the ability to make contracts on specific characters by talking to Morgus, God of Death.
 These contracts generally give a sizeable buff at a cost of a very drastic penalty.
 
 ??? note "List of Adventurer Contracts"
