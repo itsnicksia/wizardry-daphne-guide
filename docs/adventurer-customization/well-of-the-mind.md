@@ -77,7 +77,7 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 | LUCK 5        | Clear all 3 main Port Town requests                                                                                                                                                                                                         |
 | LUCK 6        | Clear the Monster Soup quest for Pickerel                                                                                                                                                                                                   |
 | LUCK 7        | Get the perfect ending in Guarda Fortress Abyss                                                                                                                                                                                             |
-| LUCK 8        | Get the perfect ending for [Slum Faction Requests](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests)        |
+| LUCK 8        | Get the perfect ending for all three [Slum Faction Requests](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests)        |
 
 ??? warning "Missing Guiding Lights"
     If you met the requirements to obtain a guiding light but don't have it actually available in the Well for use, try exiting and restarting the game. Some of them seem to need a reboot to show up properly.
