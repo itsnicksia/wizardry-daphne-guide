@@ -52,7 +52,7 @@
 | [Singing Skeleton in the Tunnel](./guarda-fortress/bondmates.md#singing-skeleton-in-the-tunnel)        | Side quest | Search for Missing Person                     | Defense Power                  | Dark    | 5         |
 | [Sam the Rascally Dog](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                             | Main quest | Search for the Missing Girl                   | Sleep Tolerance                | Wind    | 1         |
 | [Prophetic Scarlet Bisque Doll](./guarda-fortress/bondmates.md#prophetic-scarlet-bisque-doll)          | Side quest | Doll of Fortune                               | Magic Power                    | Fire    | 5         |
-
+| [Old Mage's Lingering Fixation](./guarda-fortress/bondmates.md#old-mages-lingering-fixation)           | Random     | Randomly around Abyss 3                       | HP                             | Void    | ?         |
 ## Event Bondmates
 
 | Bondmate | Event                       | Details       | Effect            | Element | Max Level |
