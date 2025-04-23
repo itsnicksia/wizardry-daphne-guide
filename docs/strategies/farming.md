@@ -165,7 +165,7 @@ but this requires stacking Magic Power up to around 200 for each.
 
     ??? note "Strategy"
 
-        1. Complete Good Ending Run for Abyss 3 and unlock the Greater Harken on Floor 10
+        1. Obtain the Triumphant Return wheel step for Abyss 3 and unlock the Greater Harken on Floor 10
         2. Wait at the door for the Sentry to pass by, exit and head to the three adjacent rooms to kill the enemies + collect chests
         3. Return to Harken avoiding the Sentry by the door
 
@@ -189,7 +189,7 @@ but this requires stacking Magic Power up to around 200 for each.
 
     ??? note "Strategy"
 
-        1. Complete Good Ending Run for Abyss 3 and Unlock the Catacombs by completing the Expose the Intruder Request
+        1. Obtain the Triumphant Return wheel step for Abyss 3 and Unlock the Catacombs by completing the Expose the Intruder Request
         2. Clear out the Catacombs and interact with the door puzzle on the top left of the map. Click on the light to activate the ability to interact with the candles.
         3. Interact with any candle that isn't the 1st candle. Lighting the wrong candle initiates a fight that is always the same. It is recommended to find the candle with the 2 Big Dark Slimes in front, 2 Dark Pixies in back (Should be the 4th candle on the map provided)
         4. The fight will always drop a chest that has no unlock puzzle. In addition, this is the fastest way to farm junk from this map.
