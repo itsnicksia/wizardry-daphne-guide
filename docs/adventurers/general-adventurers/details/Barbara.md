@@ -22,7 +22,7 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Wild Knight"
-        Continuously reduces the SP cost of Knight skills that cost 6 SP or less.
+        Continuously reduces the MP/SP cost of Knight spells/skills that cost 3-10 MP/SP.
 
 !!! info "Discipline Skill"
     === "Defense of House Zart"
