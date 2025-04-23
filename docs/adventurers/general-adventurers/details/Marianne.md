@@ -23,7 +23,7 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Frugal Faith"
-        Continuously reduces the MP cost of Priest spells that cost 6 SP or less.
+        Continuously reduces the MP/SP cost of Priest spells/skills that cost 3-10 MP/SP.
 
 !!! info "Discipline Skill"
     === "Salvation through Wealth"
