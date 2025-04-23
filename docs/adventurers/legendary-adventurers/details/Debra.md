@@ -42,7 +42,7 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Skull Study"
-        Continuously reduces the SP cost of Thief skills that cost 6 SP or less.
+        Continuously reduces the MP/SP cost of Thief spells/skills that cost 3-10 MP/SP.
 
 !!! info "Discipline Skill"
     === "Blessing of the Beast God"
