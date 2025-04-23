@@ -175,3 +175,16 @@
 9. Head to Zone 4 and give the Mysterious Flower to Elequon and receive him as a Bondmate.
 
 !!! warning "Concerned Brother Elequon is permanently lvl 1."
+
+### Old Mage's Lingering Fixation
+
+??? info "Old Mage's Lingering Fixation"
+    ![](img/old-mages-lingering-fixation.png)
+
+??? info "Skill"
+    ![](img/old-mages-lingering-fixation-skill.png)
+
+- He will randomly spawn throughout Abyss 3.
+- Help him with his spell (battle him) a few times and he will eventually become a bondmate
+
+!!! warning "Not sure if this bondmate is levelable."
