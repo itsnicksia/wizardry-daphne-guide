@@ -23,7 +23,7 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Guard Experience"
-        Continuously reduces the SP cost of Fighter skills that cost 6 SP or less.
+        Continuously reduces the MP/SP cost of Fighter spells/skills that cost 3-10 MP/SP.
 
 !!! info "Discipline Skill"
     === "Weaponmaster"
