@@ -5,8 +5,11 @@ These contracts generally give a sizeable buff at a cost of a very drastic penal
 
 ??? note "List of Adventurer Contracts"
     ![](./img/contract-1.png)
+        - Boosts contracted user's damage by ~50%. User takes ~100% more damage and row takes ~50% more damage.
     ![](./img/contract-2.png)
+        - Boosts contracted user's MP by user's Base Value. Row loses ~30% base HP.
     ![](./img/contract-3.png)
+        - Boosts contracted user's SP by user's Base Value. Row loses ~30% base HP.
 
     !!! warning "Extra Conditions"
         ![](./img/contract-penalty.png)
