@@ -209,4 +209,5 @@ If you have already stopped the Mastermind of Abyss 3, then follow these steps t
 8. If you lose completely (you get a few retries if you drop to 0), simply pay the gold (other option engages in a fight and messes up the reset). Cursed Wheel to Triumphant return to reset.
 9. If you win, you will face Thatcher, who is a Pirate Berserker that either basic attacks or uses stun bash. This does 1100+ damage on 300 defense adventurers with Makaltu 7. The strategy is rather to defend and abuse openings. He is vulnerable to sleep and is EXTREMELY fast, so you may lose someone if you they don't have over ~95 action speed. He has around 15k HP or so.
 11. Upon winning, protect the gambler from being attacked by Thatcher. He will become reformed and you will gain his bondmate.
+12. To farm, simply cursed wheel back to Triumphant Return, and head to Guarda Entrance.
     
