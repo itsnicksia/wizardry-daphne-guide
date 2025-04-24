@@ -22,7 +22,7 @@ Upon completing [Expose the Intruder](../abyss-guides/3-guarda-fortress/requests
         - Boosts contracted user's SP by user's Base Value. Row loses ~30% base HP.
         - If user dies, and MC fails to resurrect user, MC dies. Reawakening isn't possible, and Harken doesn't prevent death. User's fortitude is reduced to 0 and cannot recover.
 
-### List of MC-Exclusive Contracts
+## List of MC-Exclusive Contracts
 
 !!! note "Contract of Avarice"
     ![](./img/contract-4.png)
