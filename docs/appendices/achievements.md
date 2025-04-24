@@ -110,6 +110,7 @@
     | Cheers!                                        | Drink at the tavern with allies 1 time.                            |
     | Bonding over a Drink                           | Drink at the tavern with allies 30 times.                          |
     | It's on Me Today!                              | Drink at the tavern with allies 100 times.                         |
+    | Drunken Party                                  | Drink at the tavern with allies 500 times.                         |
     | Flames of the Demon                            | Accompany your ally to make good on the fire demon's broken pact.  |
     | Millennial Lord Adam                           | Vanquish Millennial Lord Adam with your ally.                      |
     | Golden-Haired Goddess Who Destroyed Everything | Complete the investigation of the island of ghosts with your ally. |
