@@ -96,5 +96,6 @@
 
 * Didn't rescue
 * Rescued in critical condition
+* Rescued safely
 
 ## Triumphant Return
