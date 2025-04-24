@@ -259,7 +259,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Doll of Fortune
 
 ??? note "Requirements"
-    - [Stop the Blackmailer](#stop-the-blackmailer-and-save-the-duke)
+    - [Stop the Blackmailer](important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
     - Completed Antique Scarlet Doll Request in this "run" (You may complete the request, then wheel forward to after beating the GWO)
 
 - Accept the request at the Tavern and head to Zone 9 from Guarda Fortress Entrance
@@ -272,7 +272,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Expose the Intruder
 
 ??? note "Requirements"
-    [Stop the Blackmailer](#stop-the-blackmailer-and-save-the-duke)
+    [Stop the Blackmailer](important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
 
 - Accept the request at the Tavern and head to **Zone 10 -Fortress 3F Lord's Room-**. Talk to the NPC on the map nearby the Greater Harken.
 - Warp to the Zone 7 Harken and walk upwards to Zone 10's Library and talk to the NPC. Choose the Investigate option.
@@ -306,7 +306,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Expedition to Clear the Fortress Lower Levels
 
 ??? note "Requirements"
-    [Stop the Blackmailer](#stop-the-blackmailer-and-save-the-duke)
+    [Stop the Blackmailer](important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
 
 - Go to **Zone 6 -Prehistoric Corridor B2F-** and walk a few steps out of the Harken room
 - Engage in 3 back-to-back fights and win.
