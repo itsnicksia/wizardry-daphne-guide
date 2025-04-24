@@ -18,7 +18,7 @@ Note: There are areas where you are carried by a strong current. You must unlock
     ![](./img/trade-waterways-2.jpg)
 
     ??? note "About this floor"
-         - The mermaid statue on this and subsequent floors give important lore both contextually and are significant for the true ending run. Make sure to get their knowledge.
+         - The mermaid statue on this and subsequent floors give important lore both contextually and are significant for being able to fight Octonarus. Make sure to get their knowledge.
 
 ??? map "3rd District - Iron Gate Street"
     ![](./img/trade-waterways-3.jpg)

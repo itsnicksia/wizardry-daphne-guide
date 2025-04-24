@@ -6,7 +6,7 @@
 
 This mandatory ending is triggered when killing the Greater Warped One for the first time.
 
-You don't have the ability to activate **Golems**, nor the requisite **Knowledge** to complete requests required for [[Stopping the Blackmailer]](#stop-the-blackmailer-and-save-the-duke).
+You don't have the ability to activate **Golems**, nor the requisite **Knowledge** to complete requests required for [Stopping the Blackmailer](#stop-the-blackmailer-and-save-the-duke).
 
 #### Outcome
 
@@ -166,4 +166,4 @@ Saved the Duke and apprehended the mastermind.
 
     ![](./img/no_corruption_true_ending_achievement.png)
 
-    It is extremely difficult to attempt a no corruption run, especially on the true ending. There is nothing to gain from this except 50 gems and an achievement to flex.
+    It is extremely difficult to attempt a no corruption run. There is nothing to gain from this except 50 gems and an achievement to flex.

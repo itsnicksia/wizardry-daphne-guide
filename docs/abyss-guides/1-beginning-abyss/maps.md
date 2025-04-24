@@ -27,7 +27,7 @@
 ??? map "B4F -Labyrinth"
 
     !!! note
-        First time here? You get to watch your friends die. Second time here? Read the true ending guide\! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it.
+        First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it.
 
     ![](./img/beginning-abyss-b4f.png)
 

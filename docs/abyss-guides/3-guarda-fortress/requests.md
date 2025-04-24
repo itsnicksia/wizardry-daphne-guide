@@ -62,7 +62,7 @@
 - Get more information at the Tavern, which leads you to the Royal Capital outskirts again. The Boss will be near the entrance. You must NOT take the harken around or the conversation will not trigger properly. You can choose to pay the adventurers off or fight them (They are somewhat annoying as the thief can apply critical poison)
 - Win or Lose the gambling event (it is rigged). You will engage in a fight afterwards. Obtain a mask and key.
 - Turn in the request and then with the key, head to the room next to Floor 9 Harken. Explore the room for evidence
-- Talk to Dalian in the Duke's Room (don't forget Alan and Lily), and proceed to defeat the GWO for the good ending.
+- Talk to Dalian in the Duke's Room (don't forget Alan and Lily), and proceed to defeat the GWO.
 - Head to the Tavern afterwards to obtain "Guardian Knight Dalian" as a bondmate, who is a earth element bondmate that gives Defense Power.
 
 ## Infiltrating the Fortress
@@ -259,7 +259,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Doll of Fortune
 
 ??? note "Requirements"
-    - Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
+    - [Stop the Blackmailer](#stop-the-blackmailer-and-save-the-duke)
     - Completed Antique Scarlet Doll Request in this "run" (You may complete the request, then wheel forward to after beating the GWO)
 
 - Accept the request at the Tavern and head to Zone 9 from Guarda Fortress Entrance
@@ -272,7 +272,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Expose the Intruder
 
 ??? note "Requirements"
-    Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
+    [Stop the Blackmailer](#stop-the-blackmailer-and-save-the-duke)
 
 - Accept the request at the Tavern and head to **Zone 10 -Fortress 3F Lord's Room-**. Talk to the NPC on the map nearby the Greater Harken.
 - Warp to the Zone 7 Harken and walk upwards to Zone 10's Library and talk to the NPC. Choose the Investigate option.
@@ -306,7 +306,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Expedition to Clear the Fortress Lower Levels
 
 ??? note "Requirements"
-    Attained [Guarda Fortress Abyss Good Ending](./important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
+    [Stop the Blackmailer](#stop-the-blackmailer-and-save-the-duke)
 
 - Go to **Zone 6 -Prehistoric Corridor B2F-** and walk a few steps out of the Harken room
 - Engage in 3 back-to-back fights and win.
