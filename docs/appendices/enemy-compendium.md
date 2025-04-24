@@ -14,4 +14,4 @@
 
 -->
 
-<iframe style="width: 100rem; height: 30rem;" src="https://docs.google.com/spreadsheets/d/1PInwKaicXTZVvbG3RSA3YPPgbPDwlL99eJKRrAgjXzU/edit?usp=sharing"></iframe>
+<iframe style="width: 100rem; height: 30rem;" src="https://docs.google.com/spreadsheets/d/1PInwKaicXTZVvbG3RSA3YPPgbPDwlL99eJKRrAgjXzU/edit?usp=sharing;headers=false"></iframe>
