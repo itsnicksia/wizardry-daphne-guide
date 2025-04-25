@@ -1,20 +1,7 @@
 # Discipline and Inheritance
 
 ## Discipline
-Discipline boosts all of your stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. It also seems to be a bigger boost for Legendary Adventurers than General or Anonymous Adventurers. The numbers below reflect the Discipline gains for Adventurers.
-
-Stats seem to be broken up into four main categories:
-
-* General Stats (most stats)
-    * General stats see a boost of +2 per dupe (increased at each Discipline skill level) for Discipline levels 1-6 and an average of +1.5 per dupe for Discipline levels 7-9.
-* Featured Stat (Adam's is Magic Power, for example)
-    * The Featured stat sees a higher than +2 per dupe increase, but it's less uniform. The increases are always the same across Adventurers at a given Discipline level, but the individual amounts vary between +1 and +3 per dupe on top of the General stat boost.
-* HP
-    * HP is similar to the Featured stat, however its individual amounts vary between +8 and +19 per dupe (or between +10 and +22 per dupe if HP is the Featured stat), ignoring the General stat boost
-* ASPD
-    * ASPD sees a smaller than +2 per dupe increase, varying between +1 and +3 per dupe, ignoring the General stat boost
-
-As you can see, this means that while Discipline can add up at higher skill levels, the actual performance impact you see will be variable. A key exception here is the increase to HP can add up to be fairly significant.
+Discipline boosts all of your stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. The below tables highlight the increase in stats at a particular Discipline level. The key thing to note is that most stats follow the same scaling, with `HP`, `Surety`, and `ASPD` being different. Also at most, a featured non-HP stat will only increase the total value by `36`, while a non-featured non-HP stat will only increase the value by `28`. The lower level you are, the more impactful it is, but since these are static increases, they will significantly lose their value as our overall stats increase due to higher levels and grades in the future.
 
 ### Discipline Stat Gains
 
