@@ -16,6 +16,96 @@ Stats seem to be broken up into four main categories:
 
 As you can see, this means that while Discipline can add up at higher skill levels, the actual performance impact you see will be variable. A key exception here is the increase to HP can add up to be fairly significant.
 
+### Discipline Stat Gains
+
+=== "Legendary Adventurer Stats"
+
+    |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
+    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |       HP      |     |     |     |     |     |     |     |     |     |
+    |       MP      |     |     |     |     |     |     |     |     |     |
+    |       SP      |     |     |     |     |     |     |     |     |     |
+    |  Attack Power |     |     |     |     |     |     |     |     |     |
+    |  Magic Power  |     |     |     |     |     |     |     |     |     |
+    |  Divine Power |     |     |     |     |     |     |     |     |     |
+    |    Defense    |     |     |     |     |     |     |     |     |     |
+    | Magic Defense |     |     |     |     |     |     |     |     |     |
+    |     Surety    |     |     |     |     |     |     |     |     |     |
+    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Detect    |     |     |     |     |     |     |     |     |     |
+    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
+    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
+    |  Action Speed |     |     |     |     |     |     |     |     |     |
+    |    Accuracy   |     |     |     |     |     |     |     |     |     |
+    |    Evasion    |     |     |     |     |     |     |     |     |     |
+    |   Resistance  |     |     |     |     |     |     |     |     |     |
+
+=== "Legendary Adventurer Featured Stats"
+
+    |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
+    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |       HP      |     |     |     |     |     |     |     |     |     |
+    |       MP      |     |     |     |     |     |     |     |     |     |
+    |       SP      |     |     |     |     |     |     |     |     |     |
+    |  Attack Power |     |     |     |     |     |     |     |     |     |
+    |  Magic Power  |     |     |     |     |     |     |     |     |     |
+    |  Divine Power |     |     |     |     |     |     |     |     |     |
+    |    Defense    |     |     |     |     |     |     |     |     |     |
+    | Magic Defense |     |     |     |     |     |     |     |     |     |
+    |     Surety    |     |     |     |     |     |     |     |     |     |
+    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Detect    |     |     |     |     |     |     |     |     |     |
+    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
+    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
+    |  Action Speed |     |     |     |     |     |     |     |     |     |
+    |    Accuracy   |     |     |     |     |     |     |     |     |     |
+    |    Evasion    |     |     |     |     |     |     |     |     |     |
+    |   Resistance  |     |     |     |     |     |     |     |     |     |
+
+=== "General Adventurer Stats"
+
+    |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
+    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |       HP      |     |     |     |     |     |     |     |     |     |
+    |       MP      |     |     |     |     |     |     |     |     |     |
+    |       SP      |     |     |     |     |     |     |     |     |     |
+    |  Attack Power |     |     |     |     |     |     |     |     |     |
+    |  Magic Power  |     |     |     |     |     |     |     |     |     |
+    |  Divine Power |     |     |     |     |     |     |     |     |     |
+    |    Defense    |     |     |     |     |     |     |     |     |     |
+    | Magic Defense |     |     |     |     |     |     |     |     |     |
+    |     Surety    |     |     |     |     |     |     |     |     |     |
+    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Detect    |     |     |     |     |     |     |     |     |     |
+    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
+    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
+    |  Action Speed |     |     |     |     |     |     |     |     |     |
+    |    Accuracy   |     |     |     |     |     |     |     |     |     |
+    |    Evasion    |     |     |     |     |     |     |     |     |     |
+    |   Resistance  |     |     |     |     |     |     |     |     |     |
+
+=== "General Adventurer Featured Stats"
+
+    |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
+    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |       HP      |     |     |     |     |     |     |     |     |     |
+    |       MP      |     |     |     |     |     |     |     |     |     |
+    |       SP      |     |     |     |     |     |     |     |     |     |
+    |  Attack Power |     |     |     |     |     |     |     |     |     |
+    |  Magic Power  |     |     |     |     |     |     |     |     |     |
+    |  Divine Power |     |     |     |     |     |     |     |     |     |
+    |    Defense    |     |     |     |     |     |     |     |     |     |
+    | Magic Defense |     |     |     |     |     |     |     |     |     |
+    |     Surety    |     |     |     |     |     |     |     |     |     |
+    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Detect    |     |     |     |     |     |     |     |     |     |
+    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
+    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
+    |  Action Speed |     |     |     |     |     |     |     |     |     |
+    |    Accuracy   |     |     |     |     |     |     |     |     |     |
+    |    Evasion    |     |     |     |     |     |     |     |     |     |
+    |   Resistance  |     |     |     |     |     |     |     |     |     |
+    
 ### Copies Per Discipline Level
 
 === "Legendary"
