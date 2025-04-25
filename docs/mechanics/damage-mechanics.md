@@ -44,22 +44,10 @@ Openings work on all types of enemies, from basic mobs to bosses, although bosse
 !!! note
     Opening can only be triggered on every other turn. You cannot get two consecutive turns of Opening being triggered.
 
-### Opening Damage Multiplier
-We're still in the process of figuring out exactly what this is, but our initial data collection seems to indicate that for basic attacks, Openings have, on average, a ~4x multiplier with the chance to hit with a ~7x multiplier. This has not been 100% confirmed, as there is some very unique behavior to Openings. See the disclaimer below.
+### Opening Damage
+We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers, however there is a chance that it can be a sure hit. This is something that we're currently trying to test out.
 
-It's currently unclear exactly how this fits in with skill usage, but it's either not linear or skill damage is factored into the formula in a unique way. For example, if you hit an Opening with a skill, you won't see 4x the damage of your skill damage - it will be less than that, however it will still be more than if you hit an Opening with your basic attack.
-
-The Opening damage multiplier does stack multiplicatively with a sure hit. For example, if you would normally hit an enemy for ~250 with a basic attack, you would hit an Opening for `250 * 4 = 1000` damage. If that basic attack happened to be a sure hit, you'd be hitting closer to `250 * 2 * 4 = 2000` damage. If you happened to get what I'm calling an Extreme Opening hit, you'd be looking at `250 * 7 = 1750` damage for a non-sure hit, and `250 * 2 * 7 = 3500` damage for a sure hit.
-
-From what I can tell, this Extreme Opening is random - I suspect an `x`% chance to get a regular Opening and a `1-x`% chance to get an Extreme Opening.
-
-### Maximizing Damage from Openings:
-* Use high-damage attacks, such as a two-handed weapon strike (e.g., axe or sword), or skills like `Heavy Attack` and `Precision Strike` to take full advantage of the multiplier. The latter is exceptionally helpful due to its defense piercing nature.
-* Pair counterattacks with your heaviest hitters for optimal burst damage.
-* Do not let an Opening disappear. If your ideal adventurer is stunned or otherwise unable to hit, you can still hit it with someone else and see increased damage.
-
-!!! note "Disclaimer"
-    One additional interesting point about Openings is that if you attack an enemy with Opening but miss, you still deal increased damage. I haven't tested this enough to see how much damage you deal, so it's possible that there's an additive element of the Opening damage instead of pure multipliers.
+Assuming this formula is correct, it explains some interesting behavior we've seen in the past, such as an attack missing but still dealing some amount of Opening damage. In addition, assuming the `HP%Damage` portion can be a sure hit, it also explains why sometimes an Opening attack just seems to deal a larger than normal amount of damage against an enemy. More to come here as we test it and determine the actual behavior.
 
 ### Way of the Thief Modifier
 
