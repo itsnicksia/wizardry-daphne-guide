@@ -22,89 +22,89 @@ As you can see, this means that while Discipline can add up at higher skill leve
 
     |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
     |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-    |       HP      |     |     |     |     |     |     |     |     |     |
-    |       MP      |     |     |     |     |     |     |     |     |     |
-    |       SP      |     |     |     |     |     |     |     |     |     |
-    |  Attack Power |     |     |     |     |     |     |     |     |     |
-    |  Magic Power  |     |     |     |     |     |     |     |     |     |
-    |  Divine Power |     |     |     |     |     |     |     |     |     |
-    |    Defense    |     |     |     |     |     |     |     |     |     |
-    | Magic Defense |     |     |     |     |     |     |     |     |     |
-    |     Surety    |     |     |     |     |     |     |     |     |     |
-    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
-    |     Detect    |     |     |     |     |     |     |     |     |     |
-    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
-    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
-    |  Action Speed |     |     |     |     |     |     |     |     |     |
-    |    Accuracy   |     |     |     |     |     |     |     |     |     |
-    |    Evasion    |     |     |     |     |     |     |     |     |     |
-    |   Resistance  |     |     |     |     |     |     |     |     |     |
+    |       HP      |  10 |     |     |     |     |     |     |     | 120 |
+    |       MP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |       SP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Attack Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Magic Power  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Divine Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |    Defense    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    | Magic Defense |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |     Surety    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |  Sure Evasion |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |     Detect    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Disarm Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |   Evade Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Action Speed |   2 |   3 |   6 |   7 |   8 |  11 |  13 |  15 |  18 |
+    |    Accuracy   |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |    Evasion    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |   Resistance  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
 
 === "Legendary Adventurer Featured Stats"
 
     |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
     |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-    |       HP      |     |     |     |     |     |     |     |     |     |
-    |       MP      |     |     |     |     |     |     |     |     |     |
-    |       SP      |     |     |     |     |     |     |     |     |     |
-    |  Attack Power |     |     |     |     |     |     |     |     |     |
-    |  Magic Power  |     |     |     |     |     |     |     |     |     |
-    |  Divine Power |     |     |     |     |     |     |     |     |     |
-    |    Defense    |     |     |     |     |     |     |     |     |     |
-    | Magic Defense |     |     |     |     |     |     |     |     |     |
-    |     Surety    |     |     |     |     |     |     |     |     |     |
+    |       HP      |  12 |  22 |  36 |  52 |  68 |  90 | 106 | 122 | 144 |
+    |       MP      |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |       SP      |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |  Attack Power |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |  Magic Power  |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |  Divine Power |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |    Defense    |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    | Magic Defense |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |     Surety    |     |     |     |     |     |     |     |     |  20 |
     |  Sure Evasion |     |     |     |     |     |     |     |     |     |
-    |     Detect    |     |     |     |     |     |     |     |     |     |
-    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
-    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
-    |  Action Speed |     |     |     |     |     |     |     |     |     |
-    |    Accuracy   |     |     |     |     |     |     |     |     |     |
-    |    Evasion    |     |     |     |     |     |     |     |     |     |
-    |   Resistance  |     |     |     |     |     |     |     |     |     |
+    |     Detect    |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |  Disarm Trap  |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |   Evade Trap  |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |  Action Speed |     |     |     |     |     |     |     |     |  20 |
+    |    Accuracy   |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |    Evasion    |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
+    |   Resistance  |   4 |   6 |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
 
 === "General Adventurer Stats"
 
     |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
     |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-    |       HP      |     |     |     |     |     |     |     |     |     |
-    |       MP      |     |     |     |     |     |     |     |     |     |
-    |       SP      |     |     |     |     |     |     |     |     |     |
-    |  Attack Power |     |     |     |     |     |     |     |     |     |
-    |  Magic Power  |     |     |     |     |     |     |     |     |     |
-    |  Divine Power |     |     |     |     |     |     |     |     |     |
-    |    Defense    |     |     |     |     |     |     |     |     |     |
-    | Magic Defense |     |     |     |     |     |     |     |     |     |
-    |     Surety    |     |     |     |     |     |     |     |     |     |
-    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
-    |     Detect    |     |     |     |     |     |     |     |     |     |
-    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
-    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
-    |  Action Speed |     |     |     |     |     |     |     |     |     |
-    |    Accuracy   |     |     |     |     |     |     |     |     |     |
-    |    Evasion    |     |     |     |     |     |     |     |     |     |
-    |   Resistance  |     |     |     |     |     |     |     |     |     |
+    |       HP      |   6 |  12 |  20 |  28 |  36 |  50 |  64 |  78 | 100 |
+    |       MP      |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |       SP      |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Attack Power |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Magic Power  |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Divine Power |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |    Defense    |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    | Magic Defense |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |     Surety    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |  Sure Evasion |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |     Detect    |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Disarm Trap  |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |   Evade Trap  |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Action Speed |   1 |   2 |   4 |   5 |   6 |   9 |  10 |  11 |  15 |
+    |    Accuracy   |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |    Evasion    |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |   Resistance  |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
 
 === "General Adventurer Featured Stats"
 
     |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
     |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-    |       HP      |     |     |     |     |     |     |     |     |     |
-    |       MP      |     |     |     |     |     |     |     |     |     |
-    |       SP      |     |     |     |     |     |     |     |     |     |
-    |  Attack Power |     |     |     |     |     |     |     |     |     |
-    |  Magic Power  |     |     |     |     |     |     |     |     |     |
-    |  Divine Power |     |     |     |     |     |     |     |     |     |
-    |    Defense    |     |     |     |     |     |     |     |     |     |
-    | Magic Defense |     |     |     |     |     |     |     |     |     |
+    |       HP      |     |     |     |     |     |     |     |     | 120 |
+    |       MP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |       SP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Attack Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Magic Power  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Divine Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |    Defense    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    | Magic Defense |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |     Surety    |     |     |     |     |     |     |     |     |     |
     |  Sure Evasion |     |     |     |     |     |     |     |     |     |
-    |     Detect    |     |     |     |     |     |     |     |     |     |
-    |  Disarm Trap  |     |     |     |     |     |     |     |     |     |
-    |   Evade Trap  |     |     |     |     |     |     |     |     |     |
-    |  Action Speed |     |     |     |     |     |     |     |     |     |
-    |    Accuracy   |     |     |     |     |     |     |     |     |     |
-    |    Evasion    |     |     |     |     |     |     |     |     |     |
-    |   Resistance  |     |     |     |     |     |     |     |     |     |
+    |     Detect    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Disarm Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |   Evade Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Action Speed |   2 |   3 |   6 |   7 |   8 |  11 |  13 |  15 |  18 |
+    |    Accuracy   |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |    Evasion    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |   Resistance  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     
 ### Copies Per Discipline Level
 
