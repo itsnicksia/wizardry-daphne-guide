@@ -25,7 +25,7 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 |   RES%   |    O    |   O   |    O    |         |   O   |     O     |       |
 |   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
 |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
-|   ASPD%  |    O    |       |    O    |         |   O   |     O     |   O   |
+|   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
 |    ATK   |         |   O   |         |    O    |       |     O     |   O   |
 |    MAG   |         |   O   |         |    O    |       |     O     |   O   |
 |    DIV   |         |   O   |         |    O    |       |     O     |   O   |
@@ -35,7 +35,9 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
 |    DEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
 |   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
 |    SUR   |    O    |       |    O    |         |       |     O     |   O   |
-|   ASPD   |    O    |       |    O    |         |   O   |     O     |   O   |
+|   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
+
+!!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
 
 ## ^^Enhance^^
  - Increases Enhancement Value up to a maximum of +20.
