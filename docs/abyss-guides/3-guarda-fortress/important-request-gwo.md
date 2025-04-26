@@ -86,11 +86,12 @@ See [Search for the Missing Girl Request](./requests.md#search-for-the-missing-g
 Saved the Duke and apprehended the mastermind.
 
 #### Requirements
-1. Meet the Duke's party.
-2. Save Liam and notify Alan when meeting the Duke's party.
-3. Give "Mastermind Evidence" to Clemente.
-4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
-5. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
+1. Successfully saved Duke Ixion in a previous run.
+2. Meet the Duke's party.
+3. Save Liam and notify Alan when meeting the Duke's party.
+4. Give "Mastermind Evidence" to Clemente.
+5. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+6. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
 
 #### Walkthrough
 
