@@ -244,11 +244,7 @@
 2. Wheel to `Major Harken Unlocked` then back to `The King’s Rescue`.
 3. Meet him again and select “Slash” and then “Let it go”
 4. Go back to town and talk to the elf at the tavern.
-5. Go back to the goblin's den and be sure to collect the translucent stones on the south side until you find the goblin boss or else the goblin boss won't appear.
-
-!!! warning
-    Be careful as this fight will be an "AMBUSH"
-
+5. Go back to the goblin's den and be sure to collect the translucent stones on the south side until you find the goblin boss or else the goblin boss won't appear. The goblin will ambush you.
 6. After the fight, the goblin boss will plead again, choose "Let it go" again.
 7. Go out of the goblin's den. Then, go back in.
 8. Then, go to the next room or the room just outside where you fought the goblin boss, you'll find the boss standing in the middle of the room. After the dialogue, choose "Let it go" again, then you'll get the bondmate.
