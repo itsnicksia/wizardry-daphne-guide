@@ -142,7 +142,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
         !!! note "Tips"
             - If you've been keeping yourself low level to maximize experience gains, you might consider leveling up to at least 55
-            - Buy some scrolls in town for your damage dealers to cast KINAPIC and remove confusion
+            - Buy some Scrolls of Sedation in town for your damage dealers to cast REILIS and remove confusion
             - Cast BATILGREF on the doll to lower her evasion and slow her down
             - Stack KINAPIC from scrolls and your priest(s) to give both rows enhanced resistance
             - Remove confusion and charm with your damage dealers via scrolls so your healers can focus on that
