@@ -240,7 +240,7 @@
 ??? info "Skill"
     ![](img/boss-goblin-skill.jpg)
 
-1. Defeat the goblin boss on the top right of the map before the Greater Warped One is defeated.
+1. Defeat the goblin boss on the top right of the Goblin Den before the Greater Warped One is defeated.
 2. Wheel to `Major Harken Unlocked` then back to `The King’s Rescue`.
 3. Meet him again and select “Slash” and then “Let it go”
 4. Go back to town and talk to the elf at the tavern.
