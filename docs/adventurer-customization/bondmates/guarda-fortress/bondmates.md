@@ -142,8 +142,6 @@
 
 - Complete the [Missing Companion](../../../abyss-guides/3-guarda-fortress/requests.md#missing-companion) request.
 
-!!! warning "Eugen and Bibi is permanently lvl 1."
-
 ### Graham, Knight Commander of Guarda
 
 ??? info "Graham, Knight Commander of Guarda"
