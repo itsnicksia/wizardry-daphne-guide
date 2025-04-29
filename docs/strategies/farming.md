@@ -160,7 +160,7 @@ but this requires stacking Magic Power up to around 200 for each.
 
     ??? note "Tips"
 
-        1. Keep in mind you cannot auto-path over the alarm trap on (X:4, Y:15)
+        1. Keep in mind you cannot auto-path over the alarm trap on (X:4, Y:15). You need to first step on it manually, and then you can continue auto-pathing.
         2. See above Zone 6 Farming Battle Tips in case you enter into a fight.
 
 ### Zone 1 + Zone 8 Junk Farm (Needs specific map variants)
