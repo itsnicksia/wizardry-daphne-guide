@@ -149,7 +149,7 @@ but this requires stacking Magic Power up to around 200 for each.
         4. Sentries in this floor minus the Cyclops have very low accuracy. You can evade most attacks just by having around 110-120 evasion. Having much more may guarantee not being hit at all entirely.
 
 !!! map "Alternate Farming Method - Zero to Minimum Fighting"
-    ![](img/zone-6-farm.ping)
+    ![](img/zone-6-farm.png)
         - Blue Circles indicate chest spawn areas. Red Areas indicate possible enemy spawns
 
     ??? note "Strategy"
