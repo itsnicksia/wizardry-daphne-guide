@@ -1,6 +1,9 @@
 # Lamp of Malice
+
+!!! item "This event is now permanently available!"
+
 ## How to participate:
-You need to have progressed in the story until the unlocking of the Cursed Wheel and accept the quest on the Capital Adventurers Guild.
+You need to have progressed in the story until the unlocking of the Cursed Wheel and accept the quest in the Royal Capital's Adventurers Guild.
 After accepting the quest, a new location will be accessible on the “Edge of town”.
 
 ## Guide:
