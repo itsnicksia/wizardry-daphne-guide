@@ -132,7 +132,7 @@ but this requires stacking Magic Power up to around 200 for each.
 
 ### Zone 6 Experience and Junk Farming
 
-!!! map
+!!! map "Main Fighting Routes"
     ![](img/guarda-fortress-experience-junk-farming.png)
 
     ??? note "Strategy"
@@ -147,6 +147,21 @@ but this requires stacking Magic Power up to around 200 for each.
         2. Nuke undead with MA/LA spells
         3. Run away from the horse. He's tedious and gives low experience
         4. Sentries in this floor minus the Cyclops have very low accuracy. You can evade most attacks just by having around 110-120 evasion. Having much more may guarantee not being hit at all entirely.
+
+!!! map "Alternate Farming Method - Zero to Minimum Fighting"
+    ![](img/zone-6-farm.ping)
+        - Blue Circles indicate chest spawn areas. Red Areas indicate possible enemy spawns
+
+    ??? note "Strategy"
+
+        1. Harken to Zone 6 and check if there are any chests nearby to grab.
+        2. If you see any chests near the Zone 5 to Zone 6 Staircase, Harken to Zone 5 to pick them up
+        3. If not grabbage chests, leave and return.
+
+    ??? note "Tips"
+
+        1. Keep in mind you cannot auto-path over the alarm trap on (X:4, Y:15)
+        2. See above Zone 6 Farming Battle Tips in case you enter into a fight.
 
 ### Zone 1 + Zone 8 Junk Farm (Needs specific map variants)
 
