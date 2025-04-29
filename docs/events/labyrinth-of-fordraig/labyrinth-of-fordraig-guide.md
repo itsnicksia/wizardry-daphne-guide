@@ -1,5 +1,7 @@
 # Labyrinth Of Fordraig Guide
 
+!!! item "This event is now permanently available!"
+
 ## Notes about This Event
 There are two endings to this event:
 
@@ -83,7 +85,7 @@ The Second Run AKA Disarm the Traps Route AKA True Ending Route
 
 ![](img/labyrinthB1.png)
 
-1. Red X is the location of the Altar where you can change the difficulty level of the event. The difficulty level determines mob enemy level in exchange for more event currency drops from the enemy chests drops. It also affects drop rate of the higher end junk.
+1. ~~Red X is the location of the Altar where you can change the difficulty level of the event. The difficulty level determines mob enemy level in exchange for more event currency drops from the enemy chests drops. It also affects drop rate of the higher end junk.~~ This Event no longer has a difficulty setting and scales to your team.
 2. First time around you will be forced through a Portal trap. The portal above the yellow highlighter. It teleports you to a separate zone on the second floor. 
 3. Yellow Highlight is Where you Disarm the Portal Trap on the Subsequent Playthroughs. Click on the East Wall for dialogue option.
 
