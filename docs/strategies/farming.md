@@ -207,9 +207,10 @@ but this requires stacking Magic Power up to around 200 for each.
         1. Obtain the Triumphant Return wheel step for Abyss 3 and Unlock the Catacombs by completing the Expose the Intruder Request
         2. Clear out the Catacombs and interact with the door puzzle on the top left of the map. Click on the light to activate the ability to interact with the candles.
         3. Interact with any candle that isn't the 1st candle. Lighting the wrong candle initiates a fight that is always the same. It is recommended to find the candle with the 2 Big Dark Slimes in front, 2 Dark Pixies in back (Should be the 4th candle on the map provided)
-        4. ~~The fight will always drop a chest that has no unlock puzzle. In addition, this is the fastest way to farm junk from this map.~~ This got patched in 1.8.0. It's no longer a guaranteed drop.
-        5. Repeatedly light the candle and farm the chest drop.
+        4. Repeatedly light the candle and farm the chest drop.
 
         !!! note "Lulu will berate you for failing the puzzle, and has unique dialogue up to 3 times. On the 3rd time she will just sigh at you"
+
+        !!! caution "As of 1.8.0, this fight no longer guarantees chest drop."
 
         ![](img/catacombs-candle.png)
