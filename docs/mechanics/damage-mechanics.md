@@ -66,7 +66,7 @@ There are multiple passive damage multipliers that can increase the damage you d
 
 The most common of these are personality-oriented damage modifiers such Lanavaille's `Stirring Righteousness`, Wandering Princess Lanavaille's `Valiant Righteousness`, Alice's `Agent of Heresy`, Elise's `Impartial Collaborator`, and Milana's `Mutual Interests`. Each of these increase damage by 10%, stacking multiplicatively. For example, if you have a neutral MC that deals 200 damage against an enemy, adding Lana to your MC's row and Elise behind your MC will result in that MC dealing `200 * 1.1 * 1.1 = 242` damage.
 
-Skills like `Wind Formation` and `Fire Formation` will also fall into this category. I suspect they're similar 10% increases, but I haven't tested them out personally.
+Skills like `Air Formation` and `Fire Formation` will also fall into this category. I suspect they're similar 10% increases, but I haven't tested them out personally.
 
 The final current skill that falls into this category is `Way of the Warrior`. Like `Way of the Thief`, this skill can be leveled up and appears to have an initial increase of 8%. One unique component of this skill is that it appears to only care about the enemy row, and will activate the multiplier if you're hitting something with a close or mid-range weapon regardless of the position the adventurer is in your party. For example, my Elise was hitting the enemy front row with a spear for the same damage when she was in my front row as when she was in my back row. One key thing to note is that `Way of the Warrior` does not increase damage done by spells, but `Way of the Thief` does increase the sure hit damage from spells.
 

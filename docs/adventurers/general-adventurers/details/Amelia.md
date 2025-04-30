@@ -22,7 +22,7 @@
         Continuously increases Initiative rate. Initiative rate increased futher based on skill level.
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Wind-Kin Blessing"
+    === "Air-Kin Blessing"
         Reduces air type damage for beastfolk in the same row.
 
 !!! info "Discipline Skill"

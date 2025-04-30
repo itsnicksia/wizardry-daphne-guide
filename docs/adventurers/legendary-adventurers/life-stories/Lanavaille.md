@@ -25,7 +25,7 @@ When the kings of Magill and Sui saw Lanavaille in the distance, they immediatel
 
 The two countries are evenly matched. The armies fought fiercely, with even their kings drawing their blades and joining the fray. As the fought, a storm of arrows suddenly rained down on both armies.
 
-The soldiers of the Magill and Sui kingdoms had come to find themselves surrounded by Chloroa's forces, which was believed to have been scattered. Standing at the forefront, sword held high and clad in armor, was the princess general, her golden hair whipping in the wind. It was the true Princess Lanavaille, who until then, had disguised herself as an attendant as her double stood in her place.
+The soldiers of the Magill and Sui kingdoms had come to find themselves surrounded by Chloroa's forces, which was believed to have been scattered. Standing at the forefront, sword held high and clad in armor, was the princess general, her golden hair whipping in the air. It was the true Princess Lanavaille, who until then, had disguised herself as an attendant as her double stood in her place.
 
 The soldiers, having already slain each other in great numbers, fell to arrows one-by-one. Staggered by their predicament, the two kings were cornered by Lanavaille who took both their heads.
 

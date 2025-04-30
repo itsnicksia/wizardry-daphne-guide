@@ -34,7 +34,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |       Beastfolk       |    -1    |  +1 |   -4  |    +2    |     +2    |   +3  |  -3  |
 |        |                       |          |     |       |          |           |       |      |
 |  Type  |          Fire         |    +2    |     |       |    +1    |           |       |      |
-|        |          Wind         |          |     |       |          |     +1    |   +2  |      |
+|        |          Air         |          |     |       |          |     +1    |   +2  |      |
 |        |         Earth         |          |     |       |    +2    |     +1    |       |      |
 |        |         Water         |          |  +2 |   +1  |          |           |       |      |
 |        |         Light         |          |     |   +2  |          |           |       |  +1  |

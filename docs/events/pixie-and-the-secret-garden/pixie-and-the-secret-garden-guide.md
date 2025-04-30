@@ -40,7 +40,7 @@ There are multiple endings for this event, but overall the event is very quick t
     4. Upon finishing the fight, receive a bag of seeds and a key for the door on B1F.
     5. Talk to Pan afterwards and hand them the Medicinal Herb. They will thank you and tell you to thank Theo.
     6. Return to Royal Capital and give the seeds to the father, and Theo will be cured and talk to you afterwards.
-    7. You will gain both Theo and Pan as a bondmate (Ending 4), who are a earth element bondmate with Poison Tolerance and a wind element bondmate with Magic Power respectively.
+    7. You will gain both Theo and Pan as a bondmate (Ending 4), who are a earth element bondmate with Poison Tolerance and a air element bondmate with Magic Power respectively.
 
 ??? note "Endings"
     - Ending 1 : Obtained when Pan dies and Theo is partially cured

@@ -33,7 +33,7 @@
 
 !!! info "TheAxolotl's Analysis"
 
-    Yeka, like Adam, is one of our initial mages. While she will be impacted by unfavorable type matchups, she innately provides both Earth and Water damage. In addition, she can learn Fire and Wind damage through inheriting spells. This, along with her bonus damage to undead, makes her a very heavy hitting for the beginning abyss and the trade waterways. Her MP reservoir is not as deep as Adam's, but she trades the longevity for hitting harder.
+    Yeka, like Adam, is one of our initial mages. While she will be impacted by unfavorable type matchups, she innately provides both Earth and Water damage. In addition, she can learn Fire and Air damage through inheriting spells. This, along with her bonus damage to undead, makes her a very heavy hitting for the beginning abyss and the trade waterways. Her MP reservoir is not as deep as Adam's, but she trades the longevity for hitting harder.
 
     Her ambush prevention skill is also nothing to shrug off. Some people report that they don't get much value out of it, however I've personally seen roughly half of the ambushes I've had pop up be prevented, and that's pretty great. To make things even better for Yeka, she's a Neutral alignment which has the potential to make her a bit more future-proof than Adam when it comes to team formation. Lastly, if you inherit Adam's skill on her, she'll be able to get the have damage dampening, which will likely be useful, particularly when you're not sure what an enemy's weakness is. In addition that, her Neutral personality has the potential to make her more flexible for team compositions, but this may or may not be the case long-term, since we don't know what future releases will look like.
 

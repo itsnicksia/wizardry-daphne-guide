@@ -26,6 +26,6 @@ Though even the tragedies of his tales had long since gone stale, somehow hearin
 
 ### Page 4
 
-As an adventurer, Jarmil avoided the more laborious jobs such as carrying anything heavy or securing routes, claiming he was too old for such things. However, he was still in high demand by adventurers because of his vast knowledge and wide array of wind spells could be just what the party needed to get out of a sticky situation.
+As an adventurer, Jarmil avoided the more laborious jobs such as carrying anything heavy or securing routes, claiming he was too old for such things. However, he was still in high demand by adventurers because of his vast knowledge and wide array of air spells could be just what the party needed to get out of a sticky situation.
 
 There are some who say that Jarmil himself started all the false rumors, and that he is, in fact, still in his 60s and a charlatan. But ultimately, even those who speak of him being a fraud are simply dancing in the palm of his hand, keeping his name alive.

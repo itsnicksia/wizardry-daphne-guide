@@ -16,11 +16,11 @@
 
 !!! info "Inheritable Skill"
     === "FERU"
-        Launches an orb of wind that deals minor air spell damage to 1 enemy. Efficacy increased based on skill level.
+        Launches an orb of air that deals minor air spell damage to 1 enemy. Efficacy increased based on skill level.
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Wind Formation"
-        Boost damage dealt to earth type enemies to self and adjacent wind type allies when there are at least 2 wind type allies adjacent to the user.
+    === "Air Formation"
+        Boost damage dealt to earth type enemies to self and adjacent air type allies when there are at least 2 air type allies adjacent to the user.
 
 !!! info "Discipline Skill"
     === "Crafty Old Mage"

@@ -19,7 +19,7 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Thunderstrike"
-        Moderate wind type physical attack on 1 enemy. Low chance of inflicting Paralysis on target. Damage is reduced if learned by someone other than Gerard.
+        Moderate air type physical attack on 1 enemy. Low chance of inflicting Paralysis on target. Damage is reduced if learned by someone other than Gerard.
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Lightning Celerity"
@@ -35,7 +35,7 @@
 
     Poor Gerard has not aged that well. He's not a bad legendary by any means, but many of his initial advantages have been relegated to less impactful now that we have new adventurers and skills available to us. I wouldn't go as far as saying he's been powercrept, but he's definitely lost a bit of his luster in comparison to when he was initially released.
 
-    His Thunderstrike skill is very potent when hitting weaknesses, and having the chance to paralyze your foes can be a nice added bonus. Unfortunately, with the addition of Full Power Strike to the Fighter arsenal, even if class changing Gerard to Fighter, his signature skill becomes a conditional attack at best. Full Power Strike will be both more efficient and overall higher consistent damage than Thunderstrike. Another key thing to note is that he is a Dark type adventurer with a Wind type skill, which means he misses out on a same-type damage multiplier when hitting weaknesses, which is unfortunate.
+    His Thunderstrike skill is very potent when hitting weaknesses, and having the chance to paralyze your foes can be a nice added bonus. Unfortunately, with the addition of Full Power Strike to the Fighter arsenal, even if class changing Gerard to Fighter, his signature skill becomes a conditional attack at best. Full Power Strike will be both more efficient and overall higher consistent damage than Thunderstrike. Another key thing to note is that he is a Dark type adventurer with a Air type skill, which means he misses out on a same-type damage multiplier when hitting weaknesses, which is unfortunate.
 
     Lightning Celerity is fine - it's a passive personal evasion increase, however it's a static increase and not a percentage, so it will lose value as stats increase.
 

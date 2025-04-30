@@ -18,9 +18,9 @@ Synergy skills are passive bonuses that apply while in combat, and are generally
 === "Type Damage Buffs"
     | Adventurer | Condition                                                                      |
     | ---------- | ------------------------------------------------------------------------------ |
-    | Alex       | If between 2 Fire, boost damage to Wind enemies for Self and Adjacent Allies   |
+    | Alex       | If between 2 Fire, boost damage to Air enemies for Self and Adjacent Allies   |
     | Flut       | If between 2 Water, boost damage to Fire enemies for Self and Adjacent Allies  |
-    | Jarmil     | If between 2 Wind, boost damage to Earth enemies for Self and Adjacent Allies  |
+    | Jarmil     | If between 2 Air, boost damage to Earth enemies for Self and Adjacent Allies  |
     | Jean       | If between 2 Earth, boost damage to Water enemies for Self and Adjacent Allies |
 	
 === "Stat Buffs"

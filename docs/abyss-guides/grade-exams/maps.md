@@ -29,7 +29,7 @@ Grade exams are necessary for an adventurer to grade up (Increase max level limi
 **Special Notes**:
 
 - Boss doesn’t summon any adds  
-- Boss is weak to wind  
+- Boss is weak to air  
 - Boss is susceptible to Opening
 - Mobs on the way to boss can mostly be dealt with Scroll of Rockfall, except Air Entities. Those need Fire.  
 - Boss hits like a truck.  
@@ -44,7 +44,7 @@ Grade exams are necessary for an adventurer to grade up (Increase max level limi
 
 **Special Notes**:
 
-- Boss is a Hydraplant and is weak to wind and can cause critical poison
+- Boss is a Hydraplant and is weak to air and can cause critical poison
 - Spawns with additional enemies but does not summon more
 
 ## Steel Exam

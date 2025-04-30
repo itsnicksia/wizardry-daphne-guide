@@ -24,7 +24,7 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Fire Formation"
-        Increases damage to wind type enemies for user and adjacent fire type allies if there are at least 2 fire type allies adjacent to the user.
+        Increases damage to air type enemies for user and adjacent fire type allies if there are at least 2 fire type allies adjacent to the user.
 
 !!! info "Discipline Skill"
     === "Royal Knight Aspirant"

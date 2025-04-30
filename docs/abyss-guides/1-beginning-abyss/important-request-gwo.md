@@ -79,8 +79,8 @@
     Since **Sweeping Tail Strike** can stun your healer, ensure you have potions ready to sustain the party if healing is delayed.
 
     #### Exploit Vulnerabilities
-      - Equip **Wind-elemental weapons** like the **Sword of Breeze** to maximize damage output.
-      - If you have a Mage specializing in Wind magic, use their abilities. If not, consider using **Jarmil** and his inherent Wind spell, **FERU**, for single-target damage.
+      - Equip **Air-elemental weapons** like the **Sword of Breeze** to maximize damage output.
+      - If you have a Mage specializing in Air magic, use their abilities. If not, consider using **Jarmil** and his inherent Air spell, **FERU**, for single-target damage.
     
     #### Manage Debuffs
       - Be prepared for **Corrosive Liquid**, which lowers armor on your frontline, making physical attacks more dangerous.
@@ -107,7 +107,7 @@
 
 #### Battle Tips
 
-* Weak to wind, so `FERU` from mages (can be inherited from `Jarmil`) and the Sword of the Breeze will be very helpful
+* Weak to air, so `FERU` from mages (can be inherited from `Jarmil`) and the Sword of the Breeze will be very helpful
 * Give the `Digging Mattock` to a front-liner that is not the MC so they can help clear the debris piles he creates
 * `MASOLOTU` and `MAKALTU` can increase your front line's evasion and Defense Power respectively, lowering the incoming damage
 * `PORTO` can be used to increase one adventurer's action speed while `BATILGREF` can reduce his Evasion and Action Speed
