@@ -42,9 +42,11 @@
 
     1. If Sheli is asleep, perform her sleepy nuke.
     2. If Sheli is awake, take an action like normal.
-    3. If Sheli is asleep, there's a chance for her to wake up.
-    4. If Sheli is awake and meets the MP threshold criteria, she goes to sleep.
-    5. If Sheli is asleep, she restores 8 MP.
+    3. If Sheli is awake and meets the MP threshold criteria, she goes to sleep.
+    4. If Sheli is asleep, she restores 8 MP.
+    5. If Sheli is asleep, there's a chance for her to wake up.
+
+    One important thing to note about this sequence is that early testing shows that if she puts herself to sleep, she's guaranteed to stay asleep that first turn, so you are guaranteed to get 8 MP back. If a fight lasts 2 turns and she puts herself to sleep on turn 1, she is guaranteed to restore 16 MP as long as she's not woken up before her second turn comes.
 
     In addition to the MP restore and damage boost, she will not take double damage from attacks made against her while she's asleep. This is quite significant and will go a long way to helping a squishy elf mage stay alive.
 
