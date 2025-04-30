@@ -103,6 +103,7 @@
     | Blessing of the Beast God                       | Continuously increases each stat, Attack Power and Paralysis Tolerance increased further.                                                                                                                                                                                                                                                                   | Attack Power and Paralysis Tolerance increased further based on skill level.                                                                                                                         |
     | Blessing of the Beastfolk Goddess               | Defeating an enemy restores minor SP to self. Recovery amount is reduced if learned by someone other than Debra.                                                                                                                                                                                                                                            | Incrementally adds Attack Power Up based on skill level. Attack further increased and recovery amount augmented.                                                                                     |
     | Branded Hands                                   | Increases Accuracy when equipped with a two-handed weapon.                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                      |
+    | Child of the Sacred Tree                        | Continuously increases each stat, with Magic Power and Action Speed increased even further.                                                                                                                                                                                                                                                                 | Magic Power and Action Speed increased further based on skill level.                                                                                                                                 |
     | Chris's Friendship                              | Continuously increases MP.                                                                                                                                                                                                                                                                                                                                  | MP increased further based on skill level.                                                                                                                                                           |
     | Coin of Power                                   | Allows one-handed swords and two-handed swords to be equipped. Continuously increases own Attack Power, Defense Power, Accuracy, Evasion, HP, and SP.                                                                                                                                                                                                       |                                                                                                                                                                                                      |
     | Cold-blooded Elf                                | Continuously increases each stat, Surety and Sleep Tolerance increased further..                                                                                                                                                                                                                                                                            | Surety and Sleep Tolerance increased further based on skill level.                                                                                                                                   |
@@ -114,28 +115,30 @@
     | Dark-Kin Blessing                               | Reduces dark type damage for elves in the same row.                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                      |
     | Defense of House Zart                           | Continuously increases each stat, HP and Evade Trap increased further.                                                                                                                                                                                                                                                                                      | HP and Evade Trap Tolerance increased further based on skill level.                                                                                                                                  |
     | Donato's Recalcitrance                          | Continuously increases Accuracy.                                                                                                                                                                                                                                                                                                                            | Accuracy increased further based on skill level.                                                                                                                                                     |
+    | Dream of the Sleeping Witch                     | Due to the strain of shared perception with the Sacred Tree, at turn end, if MP is 25% or lower, the user falls Asleep during battle for 1 ime only. While Asleep, damage taken is not increased, and MP is recovered at turn end. While Asleep, the user automatically uses a dark-type spell attack on one enemy.                                         |                                                                                                                                                                                                      |
     | Dwarf Knight Discipline                         | Continuously increases each stat, HP increased further.                                                                                                                                                                                                                                                                                                     | HP increased further based on skill level.                                                                                                                                                           |
     | Earth Formation                                 | Increases damage to water type enemies for user and adjacent earth type allies if there are at least 2 earth type allies adjacent to the user.                                                                                                                                                                                                              |                                                                                                                                                                                                      |
     | Earth-Kin Blessing                              | Reduces earth type damage for dwarves in the same row.                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                      |
     | Elf Mage Discipline                             | Continuously increases each stat, Magic Power increased further.                                                                                                                                                                                                                                                                                            | Magic Power increased further based on skill level.                                                                                                                                                  |
     | Elf Priest Discipline                           | Continuously increases each stat, Divine Power increased further.                                                                                                                                                                                                                                                                                           | Divine Power increased further based on skill level.                                                                                                                                                 |
-    | Empty Husk                                      | Fixed chnce of evading an enemy attack, apart from the enemy attack's standard hit determination. Evasion occurrence rate increased when wearing no armor.                                                                                                                                                                                                  | Evasion occurrence rate increased based on skill level.                                                                                                                                              |
+    | Empty Husk                                      | Fixed chance of evading an enemy attack, apart from the enemy attack's standard hit determination. Evasion occurrence rate increased when wearing no armor.                                                                                                                                                                                                 | Evasion occurrence rate increased based on skill level.                                                                                                                                              |
     | Enlightenment of the Brink of Death             | Increases Surety for user and all adjacent evil allies.                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                      |
     | Eye of Kalshum                                  | Continuously increases Detect with a chance to nullify an enemy's ambush. Detect increase amount and chance of ambush nullification are reduced if learned by someone other than Yekaterina.                                                                                                                                                                | Increases chance based on skill level.                                                                                                                                                               |
     | Eye of the Hunter                               | Increases damage and Accuracy against flying enemies.                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                      |
     | Eyes of a Hero                                  | Increases Accuracy when equipped with a one-handed or two-handed sword.                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                      |
+    | Eyes That Know the Future                       | By glimpsing the future, the user can act against a dangerous situation. Chance to evade or reduce the first received damage higher than 50% of own max HP. Activation rate greatly reduced if learned by anyone other than Shelirionach.                                                                                                                   | Activation rate increased based on skill level.                                                                                                                                                      |
     | Faith in the God of the Forge                   | Continuously increases each stat, HP and Disarm Trap increased further.                                                                                                                                                                                                                                                                                     | HP and Disarm Trap increased further based on skill level.                                                                                                                                           |
     | Faith of the Wicked                             | Increases Critical Tolerance and Insta-Kill Tolerance for user and all adjacent evil allies.                                                                                                                                                                                                                                                                |                                                                                                                                                                                                      |
     | Fire Demon's brand                              | Continuously increases each stat and Surety while Attack Power is increased further.                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                      |
-    | Fire Formation                                  | Increases damage to air type enemies for user and adjacent fire type allies if there are at least 2 fire type allies adjacent to the user.                                                                                                                                                                                                                 |                                                                                                                                                                                                      |
+    | Fire Formation                                  | Increases damage to air type enemies for user and adjacent fire type allies if there are at least 2 fire type allies adjacent to the user.                                                                                                                                                                                                                  |                                                                                                                                                                                                      |
     | Fire-Kin Blessing                               | Reduces fire type damage for elves in the same row.                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                      |
     | Follow-Up Attack                                | Chance to increase Attack Rate during normal attacks (affected by luck).                                                                                                                                                                                                                                                                                    | Probability increased based on skill level.                                                                                                                                                          |
-    | Frugal Faith                                    | Continuously reduces the MP/SP cost of Priest spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                      |
+    | Frugal Faith                                    | Continuously reduces the MP/SP cost of Priest spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                      |
     | Future Dreamt with the Skull                    | Continuously increases each stat, MP and Skill-bind/Spell-Bind Tolerance increased further.                                                                                                                                                                                                                                                                 | MP and Skill/Spell-Binding Tolerance increased further based on skill level.                                                                                                                         |
     | Gale                                            | Increases own Attack Power and for 2 turns when evading an enemy attack.                                                                                                                                                                                                                                                                                    | Attack Power increased further based on skill level.                                                                                                                                                 |
     | Gary the Brave's Charge                         | Continuously increases Evasion.                                                                                                                                                                                                                                                                                                                             | Evasion increased further based on skill level.                                                                                                                                                      |
     | Gnawing Doubt                                   | Increases damage against demi-humans and decreases damage from demi-humans.                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                      |
-    | Guard Experience                                | Continuously reduces the MP/SP cost of Fighter spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                      |
+    | Guard Experience                                | Continuously reduces the MP/SP cost of Fighter spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                      |
     | Honest Living                                   | Increases Tolerance of Curse, Skill-binding, and Fear for user and all adjacent good allies.                                                                                                                                                                                                                                                                |                                                                                                                                                                                                      |
     | Hot-blooded Adventurer                          | Continuously increases each stat. Attack Power increased further.                                                                                                                                                                                                                                                                                           | Evasion and Poison Tolerance increased further based on skill level.                                                                                                                                 |
     | Human Fighter Discipline                        | Continuously increases each stat. Attack Power increased further.                                                                                                                                                                                                                                                                                           | Attack Power increased further based on skill level.                                                                                                                                                 |
@@ -147,7 +150,7 @@
     | Knight's Creed                                  | Continuously increases each stat, Attack Power and Stun Tolerance increased further.                                                                                                                                                                                                                                                                        | Attack Power and Stun Tolerance increased further based on skill level.                                                                                                                              |
     | Knight's Oath                                   | Continuously increases each stat, SP and Resistance increased further.                                                                                                                                                                                                                                                                                      | SP and Resistance increased further based on skill level.                                                                                                                                            |
     | Knowledge of Adventurers                        | Continuously increases each stat, Attack Power and Detect increased further.                                                                                                                                                                                                                                                                                | Attack Power and Detect increased further based on skill level.                                                                                                                                      |
-    | Knowledge of the Millennial Lord                | Continuously reduces the MP/SP cost of Mage spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                      |
+    | Knowledge of the Millennial Lord                | Continuously reduces the MP/SP cost of Mage spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                      |
     | Light-Kin Blessing                              | Reduces light type damage for elves in the same row.                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                      |
     | Lightning Celerity                              | Increases Evasion when equipped with a one-handed sword.                                                                                                                                                                                                                                                                                                    | Attack Power increased further based on skill level.                                                                                                                                                 |
     | Lord of the Deep Forest's Leadership            | Increases Evasion and Action Speed for user and all adjacent evil and neutral allies.                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                      |
@@ -216,7 +219,7 @@
     | Salvation through Wealth                        | Continuously increases each stat. MP and Curse Tolerance Trap increased further.                                                                                                                                                                                                                                                                            | MP and Curse Tolerance increased further based on skill level.                                                                                                                                       |
     | Sidestep                                        | Increases Evasion when equipped with cloth.                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                      |
     | Sir Jack's Mettle                               | Continuously increases HP.                                                                                                                                                                                                                                                                                                                                  | HP increased further based on skill level.                                                                                                                                                           |
-    | Skull study                                     | Continuously reduces the MP/SP cost of Thief spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                      |
+    | Skull study                                     | Continuously reduces the MP/SP cost of Thief spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                      |
     | Solid Devotion                                  | Continuously increases each stat, Magic Defense and Stun Tolerance increased further.                                                                                                                                                                                                                                                                       | Magic Defense and Stun Tolerance increased further based on skill level.                                                                                                                             |
     | Stealth                                         | Continuously increases Initiative rate.                                                                                                                                                                                                                                                                                                                     | Initiative rate increased further based on skill level.                                                                                                                                              |
     | Stirring Righteousness                          | Increases damage to enemies for everyone in a row if it has only good or neutral allies.                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                      |
@@ -245,180 +248,183 @@
     | Way of the Thief                                | Increases decisive damage during a decisive hit.                                                                                                                                                                                                                                                                                                            | Decisive damage increased further based on skill level.                                                                                                                                              |
     | Way of the Warrior                              | Increases close-range damage when equipped with close or mid-range weapon.                                                                                                                                                                                                                                                                                  | Damage increased further based on skill level.                                                                                                                                                       |
     | Weaponmaster                                    | Continuously increases each stat. Accuracy and Surety increased further.                                                                                                                                                                                                                                                                                    | Accuracy and Surety increased further based on skill level.                                                                                                                                          |
-    | Wild Knight                                     | Continuously reduces the MP/SP cost of Knight spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                      |
+    | Wild Knight                                     | Continuously reduces the MP/SP cost of Knight spells/skills that cost 3-10 MP/SP.                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                      |
     | Will of the Millennial Lord                     | Continuously increases each stat. Magic Power and Action Speed increased further.                                                                                                                                                                                                                                                                           | Magic Power and Action Speed increased further based on skill level.                                                                                                                                 |
     | Will to Fight                                   | Increases Accuracy, Evasion, and Surety when HP is below a certain level.                                                                                                                                                                                                                                                                                   | Adds more affected stats based on skill level and Effects increased further.                                                                                                                         |
-    | Air Formation                                  | Increases damage to earth type enemies for user and adjacent air type allies if there are at least 2 air type allies adjacent to the user.                                                                                                                                                                                                                |                                                                                                                                                                                                      |
-    | Air-Kin Blessing                               | Reduces air type damage for beastfolk in the same row.                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                      |
+    | Air Formation                                   | Increases damage to earth type enemies for user and adjacent air type allies if there are at least 2 air type allies adjacent to the user.                                                                                                                                                                                                                  |                                                                                                                                                                                                      |
+    | Air-Kin Blessing                                | Reduces air type damage for beastfolk in the same row.                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                      |
     | Wisdom of Truth                                 | Eliminates dampening of damage from types the user is at a disadvantage with a chance to reduce damage when user is attacked (affected by Luck). Damage reduction amount/rate are reduced if learned by someone other than Adam.                                                                                                                            | Incrementally adds MP up, with a chance to reduce damage when attacked, based on skill level. Probability increased and damage further reduced.                                                      |
     | Young Spell Prodigy                             | Continuously increases each stat, MP and Magic Power increased further.                                                                                                                                                                                                                                                                                     | MP and Magic Power increased further based on skill level.                                                                                                                                           |
 
 === "Skill Source"
 
-    | Skill                                           | Source     | Potential Source  |
-    | ----------------------------------------------- | ---------- | ----------------- |
-    | Advice of the Skull                             |            |                   |
-    | Agent of Heresy                                 |            |                   |
-    | Albano's Revulsion                              | Bondmate   |                   |
-    | Amnesiac Corpse Retriever                       | Iarumas    |                   |
-    | Apothecary's Knowledge                          |            |                   |
-    | Art of Assassination (Ninja-specific)           |            |                   |
-    | Assault Guard                                   | Barbara    |                   |
-    | Beastfolk Thief Discipline                      |            |                   |
-    | Behind Cover (Knight-specific)                  | Eulalia    |                   |
-    | Blessing of Agora                               | Alice      |                   |
-    | Blessing of the Beast God                       |            |                   |
-    | Blessing of the Beastfolk Goddess               | Debra      |                   |
-    | Branded Hands                                   |            |                   |
-    | Chris's Friendship                              | Bondmate   |                   |
-    | Coin of Power                                   | Berkanan   |                   |
-    | Cold-blooded Elf                                |            |                   |
-    | Compassionate Apothecary                        |            |                   |
-    | Contiguous States of Mind                       |            |                   |
-    | Counterattack (Close/mid-range weapon-specific) | Ophelia    |                   |
-    | Crafty Old Mage                                 |            |                   |
-    | Cunning Pursuit                                 |            | Philip            |
-    | Dark-Kin Blessing                               |            |                   |
-    | Defense of House Zart                           |            |                   |
-    | Donato's Recalcitrance                          | Bondmate   |                   |
-    | Dwarf Knight Discipline                         |            |                   |
-    | Earth Formation                                 |            |                   |
-    | Earth-Kin Blessing                              |            |                   |
-    | Elf Mage Discipline                             |            |                   |
-    | Elf Priest Discipline                           |            |                   |
-    | Empty Husk                                      |            |                   |
-    | Enlightenment of the Brink of Death             |            |                   |
-    | Eye of Kalshum                                  | Yekaterina |                   |
-    | Eye of the Hunter                               |            |                   |
-    | Eyes of a Hero                                  |            |                   |
-    | Faith in the God of the Forge                   |            |                   |
-    | Faith of the Wicked                             |            |                   |
-    | Fire Demon's brand                              |            |                   |
-    | Fire Formation                                  |            |                   |
-    | Fire-Kin Blessing                               |            |                   |
-    | Follow-Up Attack                                | Elda       |                   |
-    | Frugal Faith                                    |            |                   |
-    | Future Dreamt with the Skull                    |            |                   |
-    | Gale                                            |            |                   |
-    | Gary the Brave's Charge                         | Bondmate   |                   |
-    | Gnawing Doubt                                   |            |                   |
-    | Guard Experience                                |            |                   |
-    | Honest Living                                   |            |                   |
-    | Hot-blooded Adventurer                          |            |                   |
-    | Human Fighter Discipline                        |            |                   |
-    | Human Priest Discipline                         |            |                   |
-    | Impartial Collaborator                          |            |                   |
-    | Interpersonal Combat Technique                  |            |                   |
-    | Ira's Divine Protection                         |            |                   |
-    | King's Disposition                              | Arboris    |                   |
-    | Knight's Creed                                  |            |                   |
-    | Knight's Oath                                   |            |                   |
-    | Knowledge of Adventurers                        |            |                   |
-    | Knowledge of the Millennial Lord                |            |                   |
-    | Light-Kin Blessing                              |            |                   |
-    | Lightning Celerity                              |            |                   |
-    | Lord of the Deep Forest's Leadership            | Arboris    |                   |
-    | Mage of the Black Rod                           | Iarumas    |                   |
-    | Magic of The Dark One                           |            |                   |
-    | Magical Being Knowledge                         |            |                   |
-    | Master of the Hunt                              |            |                   |
-    | Mel the Thief's Trap Decipher                   | Bondmate   |                   |
-    | Miracle of Faith                                |            |                   |
-    | Mudd's Caution                                  | Bondmate   |                   |
-    | Mutual Interests                                |            |                   |
-    | Nameless Loyalty                                |            |                   |
-    | Ninja Dual Wield (Ninja-specific)               |            |                   |
-    | Nose for Treasure                               |            |                   |
-    | Oath of Fortitude                               |            |                   |
-    | Old Warrior's Teachings                         |            |                   |
-    | One-Handed Weapon Proficiency                   |            |                   |
-    | Passive Accuracy Up                             | Beast-Thi  |                   |
-    | Passive Accuracy Up (Fighter)                   |            | Chloe             |
-    | Passive Action Speed Up (Mind)                  |            |                   |
-    | Passive Action Speed Up (Thief)                 |            | Bakesh            |
-    | Passive Attack Power Up                         | Human-Fig  |                   |
-    | Passive Attack Power Up (Fighter)               | Gaston     |                   |
-    | Passive Attack Power Up (Innate)                |            |                   |
-    | Passive Attack Power Up (Mind)                  |            |                   |
-    | Passive Defense Power Up (Knight)               |            |                   |
-    | Passive Detection Up (Mage)                     |            |                   |
-    | Passive Detection Up (Thief)                    |            |                   |
-    | Passive Divine Power Up                         | Elf-Pri    |                   |
-    | Passive Divine Power Up (Priest)                |            |                   |
-    | Passive Evade Trap Up (Thief)                   |            |                   |
-    | Passive Evasion Up (Mind)                       |            |                   |
-    | Passive Evasion Up (Ninja)                      |            |                   |
-    | Passive Evasion Up (Thief)                      |            | Jean              |
-    | Passive HP Up                                   | Dwarf-Kni  |                   |
-    | Passive HP Up (Fighter)                         | Benjamin   |                   |
-    | Passive HP Up (Innate)                          |            |                   |
-    | Passive HP Up (Innate)                          |            |                   |
-    | Passive HP Up (Knight)                          |            |                   |
-    | Passive HP Up (Mind)                            |            |                   |
-    | Passive Magic Defense Up (Knight)               |            | Barbara           |
-    | Passive Magic Defense Up (Priest)               |            |                   |
-    | Passive Magic Power Up                          | Elf-Mag    |                   |
-    | Passive Magic Power Up (Mage)                   |            |                   |
-    | Passive MP Up                                   | Human-Pri  |                   |
-    | Passive MP Up (Innate)                          |            |                   |
-    | Passive MP Up (Mage)                            |            |                   |
-    | Passive MP Up (Mind)                            |            |                   |
-    | Passive Resistance Up (Knight)                  |            |                   |
-    | Passive Resistance Up (Priest)                  |            |                   |
-    | Passive SP Up (Mind)                            |            |                   |
-    | Passive SP Up (Ninja)                           |            |                   |
-    | Passive Surety Rate Up (Mind)                   |            |                   |
-    | Passive Surety Up (Ninja)                       |            |                   |
-    | Passive Surety Up (Thief)                       |            | Viviana           |
-    | Planned Hunting                                 |            |                   |
-    | Practical Self-Defense                          |            |                   |
-    | Presence of Mind                                |            |                   |
-    | Priest Weapon Mastery                           |            |                   |
-    | Protector of the Kingdom                        |            |                   |
-    | Pursuit of Prayer                               |            |                   |
-    | Queen of War and Love                           | Lanavaille |                   |
-    | Recovery                                        |            |                   |
-    | Royal Knight Aspirant                           |            |                   |
-    | Sacred Blessing (Priest-specific)               |            |                   |
-    | Salvation through Wealth                        |            |                   |
-    | Sidestep                                        |            |                   |
-    | Sir Jack's Mettle                               | Bondmate   |                   |
-    | Skull study                                     |            |                   |
-    | Solid Devotion                                  |            |                   |
-    | Stealth                                         | Amelia     |                   |
-    | Stirring Righteousness                          |            |                   |
-    | Strong and Gentle Priest                        |            |                   |
-    | Strongest in the Village                        |            |                   |
-    | Strongly Suspicious                             |            |                   |
-    | Talented Trapsmith                              |            |                   |
-    | Tall Mage                                       | Berkanan   |                   |
-    | Thief's Guild Trainee                           |            |                   |
-    | Thievery Proficiency                            |            |                   |
-    | Thundersmiter's Protection                      |            |                   |
-    | Trap Disarm Master's Resolve (Thief-specific)   |            |                   |
-    | Treasure Trap Detection Skill                   | Bakesh     |                   |
-    | Treasure Trap Disarm Skill                      | Jean       |                   |
-    | <Type> Type Thaumaturgy                         |            |                   |
-    | Unstoppable Curiosity                           |            |                   |
-    | Unwavering Faith                                |            |                   |
-    | Unyielding Will to Fight                        |            | Eulalia           |
-    | Warrior Princess of Resolution and Love         |            |                   |
-    | Water Formation                                 |            |                   |
-    | Water-Kin Blessing                              |            |                   |
-    | Way of the Field of Battle                      |            |                   |
-    | Way of the Knight                               |            | Alex              |
-    | Way of the Mage                                 |            |                   |
-    | Way of the Priest                               |            | Marianne          |
-    | Way of the Thief                                |            |                   |
-    | Way of the Warrior                              |            | Gandolfo, Ophelia |
-    | Weaponmaster                                    |            |                   |
-    | Wild Knight                                     |            |                   |
-    | Will of the Millennial Lord                     |            |                   |
-    | Will to Fight                                   | Olive      |                   |
-    | Air Formation                                  |            |                   |
-    | Air-Kin Blessing                               |            |                   |
-    | Wisdom of Truth                                 | Adam       |                   |
-    | Young Spell Prodigy                             |            |                   |
+    | Skill                                           | Source       | Potential Source  |
+    | ----------------------------------------------- | ------------ | ----------------- |
+    | Advice of the Skull                             |              |                   |
+    | Agent of Heresy                                 |              |                   |
+    | Albano's Revulsion                              | Bondmate     |                   |
+    | Amnesiac Corpse Retriever                       | Iarumas      |                   |
+    | Apothecary's Knowledge                          |              |                   |
+    | Art of Assassination (Ninja-specific)           |              |                   |
+    | Assault Guard                                   | Barbara      |                   |
+    | Beastfolk Thief Discipline                      |              |                   |
+    | Behind Cover (Knight-specific)                  | Eulalia      |                   |
+    | Blessing of Agora                               | Alice        |                   |
+    | Blessing of the Beast God                       |              |                   |
+    | Blessing of the Beastfolk Goddess               | Debra        |                   |
+    | Branded Hands                                   |              |                   |
+    | Child of the Sacred Tree                        | Shelirionach |                   |
+    | Chris's Friendship                              | Bondmate     |                   |
+    | Coin of Power                                   | Berkanan     |                   |
+    | Cold-blooded Elf                                |              |                   |
+    | Compassionate Apothecary                        |              |                   |
+    | Contiguous States of Mind                       |              |                   |
+    | Counterattack (Close/mid-range weapon-specific) | Ophelia      |                   |
+    | Crafty Old Mage                                 |              |                   |
+    | Cunning Pursuit                                 |              | Philip            |
+    | Dark-Kin Blessing                               |              |                   |
+    | Defense of House Zart                           |              |                   |
+    | Donato's Recalcitrance                          | Bondmate     |                   |
+    | Dream of the Sleeping Witch                     | Shelirionach |                   |
+    | Dwarf Knight Discipline                         |              |                   |
+    | Earth Formation                                 |              |                   |
+    | Earth-Kin Blessing                              |              |                   |
+    | Elf Mage Discipline                             |              |                   |
+    | Elf Priest Discipline                           |              |                   |
+    | Empty Husk                                      |              |                   |
+    | Enlightenment of the Brink of Death             |              |                   |
+    | Eye of Kalshum                                  | Yekaterina   |                   |
+    | Eye of the Hunter                               |              |                   |
+    | Eyes of a Hero                                  |              |                   |
+    | Eyes That Know the Future                       | Shelirionach |                   |
+    | Faith in the God of the Forge                   |              |                   |
+    | Faith of the Wicked                             |              |                   |
+    | Fire Demon's brand                              |              |                   |
+    | Fire Formation                                  |              |                   |
+    | Fire-Kin Blessing                               |              |                   |
+    | Follow-Up Attack                                | Elda         |                   |
+    | Frugal Faith                                    |              |                   |
+    | Future Dreamt with the Skull                    |              |                   |
+    | Gale                                            |              |                   |
+    | Gary the Brave's Charge                         | Bondmate     |                   |
+    | Gnawing Doubt                                   |              |                   |
+    | Guard Experience                                |              |                   |
+    | Honest Living                                   |              |                   |
+    | Hot-blooded Adventurer                          |              |                   |
+    | Human Fighter Discipline                        |              |                   |
+    | Human Priest Discipline                         |              |                   |
+    | Impartial Collaborator                          |              |                   |
+    | Interpersonal Combat Technique                  |              |                   |
+    | Ira's Divine Protection                         |              |                   |
+    | King's Disposition                              | Arboris      |                   |
+    | Knight's Creed                                  |              |                   |
+    | Knight's Oath                                   |              |                   |
+    | Knowledge of Adventurers                        |              |                   |
+    | Knowledge of the Millennial Lord                |              |                   |
+    | Light-Kin Blessing                              |              |                   |
+    | Lightning Celerity                              |              |                   |
+    | Lord of the Deep Forest's Leadership            | Arboris      |                   |
+    | Mage of the Black Rod                           | Iarumas      |                   |
+    | Magic of The Dark One                           |              |                   |
+    | Magical Being Knowledge                         |              |                   |
+    | Master of the Hunt                              |              |                   |
+    | Mel the Thief's Trap Decipher                   | Bondmate     |                   |
+    | Miracle of Faith                                |              |                   |
+    | Mudd's Caution                                  | Bondmate     |                   |
+    | Mutual Interests                                |              |                   |
+    | Nameless Loyalty                                |              |                   |
+    | Ninja Dual Wield (Ninja-specific)               |              |                   |
+    | Nose for Treasure                               |              |                   |
+    | Oath of Fortitude                               |              |                   |
+    | Old Warrior's Teachings                         |              |                   |
+    | One-Handed Weapon Proficiency                   |              |                   |
+    | Passive Accuracy Up                             | Beast-Thi    |                   |
+    | Passive Accuracy Up (Fighter)                   |              | Chloe             |
+    | Passive Action Speed Up (Mind)                  |              |                   |
+    | Passive Action Speed Up (Thief)                 |              | Bakesh            |
+    | Passive Attack Power Up                         | Human-Fig    |                   |
+    | Passive Attack Power Up (Fighter)               | Gaston       |                   |
+    | Passive Attack Power Up (Innate)                |              |                   |
+    | Passive Attack Power Up (Mind)                  |              |                   |
+    | Passive Defense Power Up (Knight)               |              |                   |
+    | Passive Detection Up (Mage)                     |              |                   |
+    | Passive Detection Up (Thief)                    |              |                   |
+    | Passive Divine Power Up                         | Elf-Pri      |                   |
+    | Passive Divine Power Up (Priest)                |              |                   |
+    | Passive Evade Trap Up (Thief)                   |              |                   |
+    | Passive Evasion Up (Mind)                       |              |                   |
+    | Passive Evasion Up (Ninja)                      |              |                   |
+    | Passive Evasion Up (Thief)                      |              | Jean              |
+    | Passive HP Up                                   | Dwarf-Kni    |                   |
+    | Passive HP Up (Fighter)                         | Benjamin     |                   |
+    | Passive HP Up (Innate)                          |              |                   |
+    | Passive HP Up (Innate)                          |              |                   |
+    | Passive HP Up (Knight)                          |              |                   |
+    | Passive HP Up (Mind)                            |              |                   |
+    | Passive Magic Defense Up (Knight)               |              | Barbara           |
+    | Passive Magic Defense Up (Priest)               |              |                   |
+    | Passive Magic Power Up                          | Elf-Mag      |                   |
+    | Passive Magic Power Up (Mage)                   |              |                   |
+    | Passive MP Up                                   | Human-Pri    |                   |
+    | Passive MP Up (Innate)                          |              |                   |
+    | Passive MP Up (Mage)                            |              |                   |
+    | Passive MP Up (Mind)                            |              |                   |
+    | Passive Resistance Up (Knight)                  |              |                   |
+    | Passive Resistance Up (Priest)                  |              |                   |
+    | Passive SP Up (Mind)                            |              |                   |
+    | Passive SP Up (Ninja)                           |              |                   |
+    | Passive Surety Rate Up (Mind)                   |              |                   |
+    | Passive Surety Up (Ninja)                       |              |                   |
+    | Passive Surety Up (Thief)                       |              | Viviana           |
+    | Planned Hunting                                 |              |                   |
+    | Practical Self-Defense                          |              |                   |
+    | Presence of Mind                                |              |                   |
+    | Priest Weapon Mastery                           |              |                   |
+    | Protector of the Kingdom                        |              |                   |
+    | Pursuit of Prayer                               |              |                   |
+    | Queen of War and Love                           | Lanavaille   |                   |
+    | Recovery                                        |              |                   |
+    | Royal Knight Aspirant                           |              |                   |
+    | Sacred Blessing (Priest-specific)               |              |                   |
+    | Salvation through Wealth                        |              |                   |
+    | Sidestep                                        |              |                   |
+    | Sir Jack's Mettle                               | Bondmate     |                   |
+    | Skull study                                     |              |                   |
+    | Solid Devotion                                  |              |                   |
+    | Stealth                                         | Amelia       |                   |
+    | Stirring Righteousness                          |              |                   |
+    | Strong and Gentle Priest                        |              |                   |
+    | Strongest in the Village                        |              |                   |
+    | Strongly Suspicious                             |              |                   |
+    | Talented Trapsmith                              |              |                   |
+    | Tall Mage                                       | Berkanan     |                   |
+    | Thief's Guild Trainee                           |              |                   |
+    | Thievery Proficiency                            |              |                   |
+    | Thundersmiter's Protection                      |              |                   |
+    | Trap Disarm Master's Resolve (Thief-specific)   |              |                   |
+    | Treasure Trap Detection Skill                   | Bakesh       |                   |
+    | Treasure Trap Disarm Skill                      | Jean         |                   |
+    | <Type> Type Thaumaturgy                         |              |                   |
+    | Unstoppable Curiosity                           |              |                   |
+    | Unwavering Faith                                |              |                   |
+    | Unyielding Will to Fight                        |              | Eulalia           |
+    | Warrior Princess of Resolution and Love         |              |                   |
+    | Water Formation                                 |              |                   |
+    | Water-Kin Blessing                              |              |                   |
+    | Way of the Field of Battle                      |              |                   |
+    | Way of the Knight                               |              | Alex              |
+    | Way of the Mage                                 |              |                   |
+    | Way of the Priest                               |              | Marianne          |
+    | Way of the Thief                                |              |                   |
+    | Way of the Warrior                              |              | Gandolfo, Ophelia |
+    | Weaponmaster                                    |              |                   |
+    | Wild Knight                                     |              |                   |
+    | Will of the Millennial Lord                     |              |                   |
+    | Will to Fight                                   | Olive        |                   |
+    | Air Formation                                   |              |                   |
+    | Air-Kin Blessing                                |              |                   |
+    | Wisdom of Truth                                 | Adam         |                   |
+    | Young Spell Prodigy                             |              |                   |
 
 ## Damage Spells
 
