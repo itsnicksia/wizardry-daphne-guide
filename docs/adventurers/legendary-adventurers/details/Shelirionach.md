@@ -32,7 +32,7 @@
 
     Shelirionach is our latest mage, and she has a very interesting and unique kit.
 
-    `Eyes That Know The Future` gives a nice defensive boost to mages and helps her avoid extremely strong one-shotting attacks, but aside from that it's nothing too outstanding. When inherited, there is a significant reduction in the activation rate, so it's likely not going to be too helpful when given to other adventurers.
+    `Eyes That Know The Future` gives a nice defensive boost to mages and helps her avoid extremely strong one-shotting attacks, which at a glance seems just okay, but there's an interesting nuance to this. This skill can trigger multiple times within a turn. During testing we saw sequences of her evading an attack followed by her receiving reduced damage from an attack within the same turn. This is quite noteworthy, as in theory, she could evade multiple times in a row, really adding to her defensive protections. When inherited, there is a significant reduction in the activation rate, so it's likely not going to be too helpful when given to other adventurers.
 
     This is fine since her Discipline is one of the stronger ones. While I'm not a big fan of Disciplines in general, `Child of the Sacred Tree` works great for Sheli since it boosts her two most important stats - Magic Power for more damage and Action Speed for maintaining optimal turn order.
 
