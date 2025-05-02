@@ -275,6 +275,7 @@ nav:
     - Equipment:
         - Weapon Types: './appendices/equipment/weapon-types.md'
         - Unique Equipment: './appendices/equipment/unique-equipment.md'
+        - Equipment Tables: './appendices/equipment/equipment-tables.md'
     - Enemies: './appendices/enemy-compendium.md'
     - Harken's Blessings: './appendices/harkens-blessings.md'
     - Purchase Evaluation: './appendices/purchase-evaluation.md'
