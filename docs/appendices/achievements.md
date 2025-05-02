@@ -63,6 +63,7 @@
     | To Know Poverty                                     | Princess Pulgritte learns the meaning of poverty.                                  |
     | Fighter Sent by the Gods                            | Conduct and Inquisition on One-Legged Ted                                          |
     | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
+    | Boss Hunter                                         | Slay the boss of the gorgon herd.                                                  |
 
 === "Adventurer"
 
