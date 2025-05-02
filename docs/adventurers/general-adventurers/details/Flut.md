@@ -56,11 +56,8 @@
 
         Ultimately, this is the first banner the game has introduced that I recommend completely ignoring, as there is essentially zero incentive to use her over standard Flut.
 
-        * Pull if:
-            * You really want to have more than a single copy of Mage of the Silent Night.
-        * Do not pull if:
-            * You're okay waiting for your free bone on Day 6.
-            * You're 99+% of the player base.
+        ??? note "TheAxolotl's Pull Plan"
+            I got a free copy and that was it. I wouldn't touch this banner.
 
 ## Duplicate Usage:
 

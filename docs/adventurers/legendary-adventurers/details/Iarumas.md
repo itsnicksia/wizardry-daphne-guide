@@ -49,12 +49,8 @@
 
     Iarumas is a very strong multi-purpose damage dealer with excellent Neutral and Void typing, and his kit is quite unique. You'll want to decide if his uniqueness and versatility is worth including in a party, though, as he faces some strong competition from more specialized adventurers.
 
-    * Pull if:
-        * You like Iarumas as an adventurer
-        * You want a versatile and overall solid damage dealer
-    * Do not pull if:
-        * You do not like Iarumas as an adventurer
-        * You want to save for a more specialized damage dealer
+    ??? note "TheAxolotl's Pull Plan"
+        I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
 
 ## Duplicate Usage:
 

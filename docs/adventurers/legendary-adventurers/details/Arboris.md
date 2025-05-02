@@ -49,14 +49,8 @@
 
     Overall, having a conditional passive speed adjustment for a row and having access to a two-person `PORTO` could be situationally useful, but for most players, if you want to really mess with speed turning during a battle, using `BATILGREF` and `PORTO` will likely be both sufficient and a bit more consistent.
 
-    * Pull if:
-        * You like Arboris as an adventurer
-        * You want a thief to be able to hit water content hard
-        * You want to leverage a two-person `PORTO` buff
-    * Do not pull if:
-        * You do not like Arboris as an adventurer
-        * You don't want to mess with conditional in-battle speed tuning or you don't like `PORTO` as a buff that much
-        * You want to save for future, more impactful adventurers
+    ??? note "TheAxolotl's Pull Plan"
+        Arboris was a pass for me. I personally felt the columnar PORTO was too situational for me to get a lot of value out of. I still managed to get a copy with a free bone, though. I don't know what I'll do with it, but he'll likely get inherited to someone in the future.
     
 ## Duplicate Usage
 

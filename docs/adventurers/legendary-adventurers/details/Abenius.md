@@ -43,12 +43,8 @@
 
     One of the things I really like about Abenius is that her signature skill does not lose value as additional skills get released in the future due to its nature of being an automatic trigger at the start of battle and not an active skill that could become easily powercrept by future active skills (I'm looking at you, Gerard).
 
-    * Pull if:
-        * You like Abenius as an adventurer
-        * You want a strong damage dealer that can provide some additional buff and cleansing support
-    * Do not pull if:
-        * You do not like Abenius as an adventurer
-        * You want to save for future, more impactful adventurers
+    ??? note "TheAxolotl's Pull Plan"
+        I like Abenius' kit so I pulled three copies - one for the base, one for the OCD Discipline, and one to inherit to MC.
     
 ## Duplicate Usage
 

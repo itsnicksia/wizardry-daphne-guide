@@ -194,6 +194,8 @@ This is an extremely frequently asked and hotly debated question, and there is n
 * Con: Primarily with active skills, inheriting to a skill could result in "wasted" dupes long-term if new active skills get released that are notably stronger than an adventurer's signature skill
 * Con: Some inheritable skills have very little value after an initial inherit, while it's hard to measure the value of other skill inherits
 
+### TheAxolotl's Opinion
+
 The following is TheAxolotl's opinion - feel free to consider it, but I encourage you to form your own opinion, as well.
 
 To be blunt, I am not a big fan of Discipline in general. It's fine - more stats are always good, and if you go as far as getting up to Discipline 9, you can get a hefty ~28 added to most stats (and potentially more to the featured stats). The problem I have is that the value per dupe spent on Discipline is relatively low.

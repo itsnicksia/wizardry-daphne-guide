@@ -42,12 +42,8 @@
 
     Like Iarumas, gearing her might be a bit funky as she might want Magic Power if you want to keep True Words of Fire as a potential damage source (assuming it considers class level and Magic Power, not just the former), but she'll also want Attack Power for other skills and basic attacks in her physical kit. Unlike Iarumas, there's no question of how to fit her in on your team. Stick her in front and give her a sword.
 
-    * Pull if:
-        * You like Berkanan as an adventurer
-        * You want a versatile and overall solid damage dealer
-    * Do not pull if:
-        * You do not like Berkanan as an adventurer
-        * You want to save for future adventurers
+    ??? note "TheAxolotl's Pull Plan"
+        I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
 
 ## Duplicate Usage:
 

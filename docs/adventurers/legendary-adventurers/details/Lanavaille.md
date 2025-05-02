@@ -76,13 +76,8 @@
 
         One key thing to note is that Discipline is tied to the particular style, so standard Lana dupes cannot be used to increase the Discipline of Wandering Princess Lana. This actually makes it an easy choice for standard dupe usage if you use Wandering Princess Lana, as inheriting standard Lana dupes to the merged Wandering Princess Lana will give the best value.
 
-        * Pull if:
-            * You like Lanavaille as an adventurer and you like the aesthetic of the Wandering Princess style
-            * You want to use a version of Lanavaille that has a slight upgrade in stats/mechanics and is significantly less whiny
-        * Do not pull if:
-            * You do not like Lanavaille as an adventurer
-            * You do not like the Wandering Princess aesthetic
-            * You want to save for future, more impactful adventurers
+        ??? note "TheAxolotl's Pull Plan"
+            I pulled for a couple copies of Wandering Lana. My main goal was a base copy plus a single copy for the OCD Discipline. Getting rid fo the OG Lana's voice was a big enough reason for me to pull.
 
 ## Duplicate Usage:
 

@@ -41,12 +41,8 @@
 
     Gerard's biggest disadvantage is that he is designed to do damage, but his signature skills don't contribute much in the way towards dealing most of his damage. He has a small niche in that as of his first rerun, he's still our highest damaging Knight adventurer, but his access to a Fighter class change largely renders his Thunderstrike skill obsolete in a large majority of current content.
 
-    * Pull if:
-        * You like Gerard as an adventurer
-        * You want a knight that can deal solid damage
-    * Do not pull if:
-        * You do not like Gerard as an adventurer
-        * You want to save for future, more impactful adventurers
+    ??? note "TheAxolotl's Pull Plan"
+        Gerard was a solid pass for me. Nothing about his kit was interesting enough for me to pull for.
     
 ## Duplicate Usage
 

@@ -46,15 +46,8 @@
 
     He's a solid pass for me, personally. I think his buff, while nice, is limited from its full potential by core game mechanics and he won't provide anything overly unique to my party that can't already be achieved, with potentially better and easier-to-work-with results, with other party members like Alice.
 
-    * Pull if:
-        * You like Red Beard as an adventurer
-        * You don't have Alice and want a legendary priest
-        * You want to run a full Good/Neutral or Evil/Neutral party
-        * You want to stack Warrior's Battle Cry with Prayer of Rebellion and don't need to utilize MACALDIA
-    * Do not pull if:
-        * You do not like Red Beard as an adventurer
-        * You do not want to deal with micromanaging your buff order and durations
-        * You want to save for future, more impactful adventurers
+    ??? note "TheAxolotl's Pull Plan"
+        Red Beard was a skip for me. His buff is strong, but I didn't want to have to fight the 3 buff limit and buying Scrolls of Shared Power from the shop could cover any same-turn attack power buffing I wanted.
 
 ## Duplicate Usage
 
