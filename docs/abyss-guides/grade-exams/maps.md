@@ -4,7 +4,7 @@ Grade exams are necessary for an adventurer to grade up (Increase max level limi
 
 [How to obtain more tags](../../frequently-asked-questions.md#how-do-i-get-grade-tags)
 
-!!! note "If you'd like, you can do the latest Grade exam to skip having to do all previous exams. This may done for adventurers as early as level 1."
+!!! note "If you'd like, you can do the latest Grade exam to skip having to do all previous exams. This may done for adventurers as early as level 1. For example, doing the Steel Grade Exam at level 10 will allow you to skip doing all the previous exams (bronze, iron, etc). However, you will still need the appropriate number of tags per grade advancement, as well as manually grading up per 10 levels after level 20."
 
 ## Lead Exam
 
