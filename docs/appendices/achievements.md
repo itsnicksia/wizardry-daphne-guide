@@ -234,10 +234,6 @@
     | Monster Aficionado II    | Record 60 monsters in the Monsters category of the Compendium.     |
     | Monster Aficionado III   | Record 90 monsters in the Monsters category of the Compendium.     |
     | Monster Aficionado IV    | Record 120 monsters in the Monsters category of the Compendium.    |
-    | Character Aficionado     | Record 10 characters in the Characters category of the Compendium. |
-    | Character Aficionado II  | Record 30 characters in the Characters category of the Compendium. |
-    | Character Aficionado III | Record 50 characters in the Characters category of the Compendium. |
-    | Character Aficionado IV  | Record 70 characters in the Characters category of the Compendium. |
     | Weapon Aficionado        | Record 10 bronze/hardwood type weapons.                            |
     | Armor Aficionado         | Record 15 bronze/leather type armor.                               |
     | Weapon Aficionado II     | Record 10 iron/old wood type weapons.                              |
