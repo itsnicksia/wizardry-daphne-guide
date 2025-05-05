@@ -1,10 +1,10 @@
 # Grade Exams
 
-Grade exams are necessary for an adventurer to grade up (Increase max level limit). They only count for characters within the party that pass the exam without dying. Adventurers cannot grade up before the MC. It is possible to skip the grade exam by purchasing the grade exam item from the Jeweler's Shop (After beating the exam once), but this method is inefficient and overpriced. 
+Grade exams are necessary for an adventurer to increase their level limits by 10 for each subsequent grade exam completed. This feature is unlocked at level 20, and a new one is available every 10 levels up to level 60 currently. Upon passing the exam without dying, an adventurer may increase their level limit with the corresponding grade tag item. Grade tag items may [be obtained in various ways](../../frequently-asked-questions.md#how-do-i-get-grade-tags). 
 
-[How to obtain more tags](../../frequently-asked-questions.md#how-do-i-get-grade-tags)
+In addition, adventurers may not grade up past the highest grade the MC is currently at. However, unlike the MC, they do not need to complete every grade exam in order and may simply complete the latest grade exam available (e.g., If the MC is level 60 already, and a fresh level 1 adventurer on the team completes the level 60 exam with the help of other team members, that level 1 adventurer will receive permission to grade up at every level 10 interval starting at lvl 20 without having to complete the previous exams.) If exams are skipped this way, the adventurer will still need the corresponding grade tags every 10 levels along with the corresponding level requirement to grade up.
 
-!!! note "If you'd like, you can do the latest Grade exam to skip having to do all previous exams."
+It is possible to skip the exam by purchasing grade exam pass items from the Jeweler's Shop (After completing the equivalent grade exam once), but this method is overpriced and inefficient.
 
 ## Lead Exam
 
