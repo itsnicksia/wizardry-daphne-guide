@@ -1,5 +1,17 @@
 # Bondmate Levelling
 
+## Bondmate Levels
+
+The number of times you need to get a bond to reach a particular bond level:
+
+| Level | Bonds for Level | Total number of Bonds |
+| :---: | :-------------: | :-------------------: |
+|  1    |  1              | 1                     |
+|  2    |  1              | 2                     |
+|  3    |  2              | 4                     |
+|  4    |  3              | 7                     |
+|  5    |  4              | 11                    |
+
 ## Beginning Abyss Bondmates
 
 Using the Cursed Wheel, Leaping back to Fresh Start will reset most bondmate locations, and then immediately Leaping forward to Warped Scene will make most bondmate Requests available.  To hit most of the bondmates, after leaping to Warped Scene:
