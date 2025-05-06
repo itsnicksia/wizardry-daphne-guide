@@ -35,3 +35,13 @@
 | Martial Training in the Secret Depths      | Exp          | 2     | 27    | 12 hours | 2 people             | Fortress Basement Arrival     |
 | Big Cleanup Job                            | Gold         | 4     | 30    | 12 hours | 3 dwarves, 3 people  | Fortress Lower Floors Cleared |
 | Operation to Reclaim the Fortress Basement | Junk and Exp | 4     | 40    | 20 hours | Evil or neutral only | Ghosts of Yore Vanquished     |
+
+## Event Specific Dispatches
+
+| Dispatch Name                              | Reward         | Stars | Level | Duration | Dispatch Conditions | Conditions                                           |
+| ------------------------------------------ | -------------- | ----- | ----- | -------- | --------------------| ---------------------------------------------------- |
+| Den of Earth B1F Exploration               | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once during event period |
+| Den of Fire B1F Exploration                | Ore            |       |       |          |                     | Must complete Fire Den B1F once during event period  |
+| Den of Wind B1F Exploration                | Ore            |       |       |          |                     | Must complete Wind Den B1F once during event period  |
+| Den of Light B1F Exploration               | Ore            |       |       |          |                     | Must complete Light Den B1F once during event period |
+| Securing the Cave of Malice Entrance       | Event Currency | 3     | 30    | 20 hours | 6 people            |                                                      |
