@@ -104,6 +104,7 @@ nav:
         - Details: './adventurers/legendary-adventurers/details/Arboris.md'
       - Berkanan:
         - Details: './adventurers/legendary-adventurers/details/Berkanan.md'
+        - Life Story: './adventurers/legendary-adventurers/life-stories/Berkanan.md'
       - Debra:
         - Details: './adventurers/legendary-adventurers/details/Debra.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Debra.md'
@@ -130,6 +131,7 @@ nav:
         - Life Story: './adventurers/legendary-adventurers/life-stories/Savia.md'
       - Shelirionach:
         - Details: './adventurers/legendary-adventurers/details/Shelirionach.md'
+        - Life Story: './adventurers/legendary-adventurers/life-stories/Shelirionach.md'
       - Yekaterina:
         - Details: './adventurers/legendary-adventurers/details/Yekaterina.md'
         - Life Story: './adventurers/legendary-adventurers/life-stories/Yekaterina.md'
