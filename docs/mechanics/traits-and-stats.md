@@ -181,9 +181,9 @@ Your stats page power is calculated through the following formula, which factors
 
 ### Strength+
 
-Strength+ is a unique property that appears on 2h weapons that adds a portion of the adventurer's STR value to the attack power. This value appears to be different for Ebonsteel than for anything earlier. In addition, it appears to be different for staves.
+Strength+ is a unique property that appears on 2h weapons that adds a portion of the adventurer's STR value to the attack power. This value factors in the Strength trait, the class multiplier, and a scalar value that changes based on the "tier" of the weapon.
 
-| Weapon Category | Steel or Lower Multiplier | Ebonsteel Multiplier |
-| --------------- | ------------------------- | -------------------- |
-| Non-staff       | STR * 0.75                | STR * 1              |
-| Staff           | STR * 0.5                 | STR * 0.75           |
+| Weapon Tier    | Attack Power from Strength+ |
+| -------------- | --------------------------- |
+| Steel or Lower | STR * ClassMod * 0.75       |
+| Ebonsteel      | STR * ClassMod * 1          |
