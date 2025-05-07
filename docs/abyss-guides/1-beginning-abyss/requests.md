@@ -2,8 +2,8 @@
 
 ## Fresh Start
 
-### Sweet Walnut Delivery { #sweet-walnut }
-
+### Sweet Walnut Delivery
+<!-- --8<-- [start:sweet-walnut-delivery] -->
 ??? info "Request"
     ![](img/image_1.png)
 
@@ -12,9 +12,10 @@
 
 ??? map "Location"
     ![](img/image_2.png)
+<!-- --8<-- [end:sweet-walnut-delivery] -->
 
-### Light Shield Material Collection { #light-shield-material }
-
+### Light Shield Material Collection
+<!-- --8<-- [start:light-shield-material-collection] -->
 ??? info "Request"
     ![](img/image_3.png)
 
@@ -22,9 +23,10 @@
 
 ??? map "Location"
     ![](img/image_4.png)
+<!-- --8<-- [end:light-shield-material-collection] -->
 
-### Fragrant Plant Seed Delivery { #fragrant-plant-seed-delivery }
-
+### Fragrant Plant Seed Delivery
+<!-- --8<-- [start:fragrant-plant-seed-delivery] -->
 ??? info "Request"
     ![](img/image_5.png)
 
@@ -36,9 +38,10 @@
     
     !!! note
         It's possible this is randomly in any small room
+<!-- --8<-- [end:fragrant-plant-seed-delivery] -->
 
-### Scrap Sabaton Collection { #scrap-sabaton-collection }
-
+### Scrap Sabaton Collection
+<!-- --8<-- [start:scrap-sabaton-collection] -->
 ??? info "Request"
     ![](img/image_7.png)
 
@@ -46,9 +49,10 @@
 - Go to the guild and accept the quest  
 - In B1 gather junk and turn in the request  
 - Go back to the item shop to receive item
+<!-- --8<-- [end:scrap-sabaton-collection] -->
 
-### Rhodium Delivery { #rhodium-delivery }
-
+### Rhodium Delivery
+<!-- --8<-- [start:rhodium-delivery] -->
 ??? info "Request"
     ![](img/image_8.png)
 
@@ -63,6 +67,7 @@
 
     ??? info
         Follow Green for one and Blue for the other
+<!-- --8<-- [end:rhodium-delivery] -->
 
 ## Minor Harken Unlocked
 
@@ -88,8 +93,8 @@
 
 ## Despicable Trap
 
-### Abyssal Steel Delivery { abyssal-steel-delivery }
-
+### Abyssal Steel Delivery
+<!-- --8<-- [start:abyssal-steel-delivery] -->
 ??? info "Request"
     ![](img/image_29.png)
 
@@ -98,6 +103,7 @@
 
 ??? map "Location"
     ![](img/image_30.png)
+<!-- --8<-- [end:abyssal-steel-delivery] -->
 
 ### Knight-Butcher Ent Proliferation
 
@@ -109,8 +115,8 @@
 ??? map "Location"
     ![](img/image_32.png)
 
-### Fluorescent Flower Delivery { fluorescent-flower-delivery }
-
+### Fluorescent Flower Delivery
+<!-- --8<-- [start:fluorescent-flower-delivery] -->
 ??? info "Request"
     ![](img/image_33.png)
 
@@ -134,6 +140,7 @@
 
     !!! note
         It is possible that there are other locations than the above two specified, so if neither of those maps work for you, you can check the bottom-right side or just explore everywhere!
+<!-- --8<-- [end:fluorescent-flower-delivery] -->
 
 ## Treacherous Floor Traversal
 
@@ -207,8 +214,8 @@ Alternate Ending:
 
 ## Labyrinth Cleared
 
-### Cazula Root Delivery { cazula-root-delivery }
-
+### Cazula Root Delivery
+<!-- --8<-- [start:cazula-root-delivery] -->
 ??? info "Request"
     ![](img/image_64.png)
 
@@ -218,6 +225,7 @@ Alternate Ending:
 
 ??? map "Location"
     ![](img/image_65.png)
+<!-- --8<-- [end:cazula-root-delivery] -->
 
 ## The King’s Rescue
 
