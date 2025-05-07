@@ -94,8 +94,8 @@
 
 ### Despicable Trap
 
-   1. Choose the dialogue “They’re already dead” when checking on the rooted knights  
-   2. Choose the dialogue “Leave it to Elmon” when checking on the second rooted knights  
+   1. Choose the dialogue “They’re already dead.” when checking on the rooted knights  
+   2. Choose the dialogue “Leave it to Elmon.” when checking on the second rooted knights  
 
 ??? warning "BOSS - Scorpion Lady"
 
@@ -180,8 +180,8 @@
             ![](img/image_33.png)
 
             - You will activate this request as part of the Albano Bondmate line  
-            - Go to the inn upon accepting the request  
-            - Go to B5 and kill the mimic to get the glowstone  
+            - Go to the Inn upon accepting the request  
+            - Go to B5 and kill the Mimic to get the Glowstone  
 
         ??? map "B5F Mimic Location"
             ![](img/image_34.png)
@@ -200,11 +200,11 @@
         ??? info "Request"
             ![](img/image_8.png)
 
-            - Go to the blacksmith to activate this quest  
-            - Go to the guild and accept the request  
+            - Go to the Blacksmith to activate this quest  
+            - Go to the Guild and accept the request  
             - Continue on until B6, then collect the 2 Rhodium  
             - Turn in the request  
-            - Go back to the blacksmith
+            - Go back to the Blacksmith
 
         ??? map "Locations"
             ![](img/image_9.png)
@@ -219,14 +219,14 @@
 
 1. Complete the Cazula Root Delivery quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
 
-    ???+ "Cazula Root Delivery"
+    ??? "Cazula Root Delivery"
 
         ??? info "Request"
             ![](img/image_64.png)
 
-            - Go to the tavern and talk to the Gloomy Adventurer  
+            - Go to the Tavern and talk to the Gloomy Adventurer  
             - Go to B7 and get the Bladeless Dagger  
-            - Return to the tavern and give it to him
+            - Return to the Tavern and give it to him
 
         ??? map "Location"
             ![](img/image_65.png)
