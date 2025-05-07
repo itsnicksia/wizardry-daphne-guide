@@ -4,11 +4,23 @@
 
 ### Fresh Start
 
-   1. Complete the Sweet Walnut Delivery Request before getting to the first minor harken so you can send Elmon away.
-   2. Complete the Light Shield Material Collection Request so you can give the shields to the Defenders  
-   3. Complete the Fragrant Plant Seed quest for the dialogue with Albano later  
-   4. Go to the item shop and complete the Scrap Sabaton quest to give Sabatons to Vernant  
-   5. Go to the blacksmith and start the Rhodium Delivery quest
+1. Complete the Sweet Walnut Delivery Request before getting to the first minor harken so you can send Elmon away.
+
+    ???+ Sweet Walnut Delivery
+
+        ??? info "Request"
+            ![](img/image_1.png)
+
+            - Talk to the Smirking Adventurer in the tavern  
+            - Go to Beginning Abyss -Entrance- and gather the Walnuts
+
+        ??? map "Location"
+            ![](img/image_2.png)
+
+   3. Complete the Light Shield Material Collection Request so you can give the shields to the Defenders  
+   4. Complete the Fragrant Plant Seed quest for the dialogue with Albano later  
+   5. Go to the item shop and complete the Scrap Sabaton quest to give Sabatons to Vernant  
+   6. Go to the blacksmith and start the Rhodium Delivery quest
 
 ### Minor Harken Unlocked
 
