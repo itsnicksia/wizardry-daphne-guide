@@ -4,77 +4,11 @@
 
 ### Fresh Start
 
-1. Complete the Sweet Walnut Delivery Request before getting to the first minor harken so you can send Elmon away.
-
-    ??? "Sweet Walnut Delivery"
-
-        ??? info "Request"
-            ![](img/image_1.png)
-
-            - Talk to the Smirking Adventurer in the Tavern  
-            - Go to Beginning Abyss -Entrance- and gather the Walnuts
-
-        ??? map "Location"
-            ![](img/image_2.png)
-
-2. Complete the Light Shield Material Collection Request so you can give the shields to the Defenders  
-
-    ??? "Light Shield Material Collection"
-
-        ??? info "Request"
-            ![](img/image_3.png)
-
-            - Go to B1 of Beginning Abyss
-
-        ??? map "Location"
-            ![](img/image_4.png)
-
-3. Complete the Fragrant Plant Seed quest for the dialogue with Albano later  
-
-    ??? "Fragrant Plant Seed Delivery"
-
-        ??? info "Request"
-            ![](img/image_5.png)
-
-            - Go to the Inn  
-            - Go to B1 and find the herbs
-
-        ??? map "Location"
-            ![](img/image_6.png)
-
-            !!! note
-                It's possible this is randomly placed in any small room
-
-4. Complete the Scrap Sabaton quest to give Sabatons to Vernant  
-
-    ??? "Scrap Sabaton Collection"
-
-        ??? info "Request"
-            ![](img/image_7.png)
-
-            - Go to the Item Shop to activate the request  
-            - Go to the Guild and accept the quest  
-            - Go to B1, gather junk, and turn in the request  
-            - Go back to the Item Shop to receive the item
-
-5. Start the Rhodium Delivery quest at the blacksmith  
-
-    ??? "Rhodium Delivery"
-
-        ??? info "Request"
-            ![](img/image_8.png)
-
-            - Go to the Blacksmith to activate this quest  
-            - Go to the Guild and accept the request  
-            - Continue on until B6, then collect the 2 Rhodium  
-            - Turn in the request  
-            - Go back to the Blacksmith
-
-        ??? map "Location"
-            ![](img/image_9.png)
-
-            ??? info
-                Follow Green for one and Blue for the other
+1. Complete the [Sweet Walnut Delivery](requests.md#sweet-walnut) before getting to the first minor harken so you can send Elmon away.
+2. Complete the [Light Shield Material](requests.md#light-shield-material) Collection Request so you can give the shields to the Defenders  
+3. Complete the [Fragrant Plant Seed Delivery](requests.md#fragrant-plant-seed-delivery) quest for the dialogue with Albano later  
+4. Complete the [Scrap Sabaton Collection](requests.md#scrap-sabaton-collection) quest to give Sabatons to Vernant  
+5. Start the [Rhodium Delivery](requests.md#rhodium-delivery) quest at the Blacksmith
 
 ### Minor Harken Unlocked
 
@@ -158,78 +92,20 @@
 
 ### Survivors Found
 
-1. Complete Abyssal Steel Delivery Request  
-
-    ??? "Abyssal Steel Delivery"
-
-        ??? info "Request"
-            ![](img/image_29.png)
-
-            - Fight the enemies blocking the Ebonsteel on B4  
-            - Pick up the Ebonsteel from the sparkle on the ground
-
-        ??? map "Location"
-            ![](img/image_30.png)
-
+1. Complete [Abyssal Steel Delivery](requests.md#abyssal-steel-delivery) Request  
 2. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave dungeon  
-3. Complete the Fluorescent Flower Delivery Request  
-
-    ??? "Fluorescent Flower Delivery"
-
-        ??? info "Request"
-            ![](img/image_33.png)
-
-            - You will activate this request as part of the Albano Bondmate line  
-            - Go to the Inn upon accepting the request  
-            - Go to B5 and kill the Mimic to get the Glowstone  
-
-        ??? map "B5F Mimic Location"
-            ![](img/image_34.png)
-
-            !!! note
-                The chest does not appear on the map
-
+3. Complete the [Fluorescent Flower Delivery](requests.md#fluorescent-flower-delivery) Request  
 
 
 ### Second Major Harken
 
-1. Complete the Rhodium Delivery Request  
-
-    ??? "Rhodium Delivery"
-
-        ??? info "Request"
-            ![](img/image_8.png)
-
-            - Go to the Blacksmith to activate this quest  
-            - Go to the Guild and accept the request  
-            - Continue on until B6, then collect the 2 Rhodium  
-            - Turn in the request  
-            - Go back to the Blacksmith
-
-        ??? map "Locations"
-            ![](img/image_9.png)
-
-            !!! info
-                
-                Follow Green for one and Blue for the other   
-                
+1. Complete the [Rhodium Delivery](requests.md#rhodium-delivery) Request  
 2. When approaching Helmut on B8, Choose the dialogue “Let's prevent cave-ins.”  
 
 ### Labyrinth Cleared
 
-1. Complete the Cazula Root Delivery quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
+1. Complete the [Cazula Root Delivery](requests.md#cazula-root-delivery) quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
 
-    ??? "Cazula Root Delivery"
-
-        ??? info "Request"
-            ![](img/image_64.png)
-
-            - Go to the Tavern and talk to the Gloomy Adventurer  
-            - Go to B7 and get the Bladeless Dagger  
-            - Return to the Tavern and give it to him
-
-        ??? map "Location"
-            ![](img/image_65.png)
 
 ## Greater Warped One
 
