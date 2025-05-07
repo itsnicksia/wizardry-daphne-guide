@@ -6,26 +6,86 @@
 
 1. Complete the Sweet Walnut Delivery Request before getting to the first minor harken so you can send Elmon away.
 
-    ???+ Sweet Walnut Delivery
+    ??? "Sweet Walnut Delivery"
 
         ??? info "Request"
             ![](img/image_1.png)
 
-            - Talk to the Smirking Adventurer in the tavern  
+            - Talk to the Smirking Adventurer in the Tavern  
             - Go to Beginning Abyss -Entrance- and gather the Walnuts
 
         ??? map "Location"
             ![](img/image_2.png)
 
-   3. Complete the Light Shield Material Collection Request so you can give the shields to the Defenders  
-   4. Complete the Fragrant Plant Seed quest for the dialogue with Albano later  
-   5. Go to the item shop and complete the Scrap Sabaton quest to give Sabatons to Vernant  
-   6. Go to the blacksmith and start the Rhodium Delivery quest
+2. Complete the Light Shield Material Collection Request so you can give the shields to the Defenders  
+
+    ??? "Light Shield Material Collection"
+
+        ??? info "Request"
+            ![](img/image_3.png)
+
+            - Go to B1 of Beginning Abyss
+
+        ??? map "Location"
+            ![](img/image_4.png)
+
+3. Complete the Fragrant Plant Seed quest for the dialogue with Albano later  
+
+    ??? "Fragrant Plant Seed Delivery"
+
+        ??? info "Request"
+            ![](img/image_5.png)
+
+            - Go to the Inn  
+            - Go to B1 and find the herbs
+
+        ??? map "Location"
+            ![](img/image_6.png)
+
+            !!! note
+                It's possible this is randomly placed in any small room
+
+4. Complete the Scrap Sabaton quest to give Sabatons to Vernant  
+
+    ??? "Scrap Sabaton Collection"
+
+        ??? info "Request"
+            ![](img/image_7.png)
+
+            - Go to the Item Shop to activate the request  
+            - Go to the Guild and accept the quest  
+            - Go to B1, gather junk, and turn in the request  
+            - Go back to the Item Shop to receive the item
+
+5. Start the Rhodium Delivery quest at the blacksmith  
+
+    ??? "Rhodium Delivery"
+
+        ??? info "Request"
+            ![](img/image_8.png)
+
+            - Go to the Blacksmith to activate this quest  
+            - Go to the Guild and accept the request  
+            - Continue on until B6, then collect the 2 Rhodium  
+            - Turn in the request  
+            - Go back to the Blacksmith
+
+        ??? map "Location"
+            ![](img/image_9.png)
+
+            ??? info
+                Follow Green for one and Blue for the other
 
 ### Minor Harken Unlocked
 
-   1. Send in the Defenders to check the Warped One’s body after defeating the Warped One boss in B1  
-   2. Choose the negotiate option to learn about Albano and the sachet  
+1. Send in the Defenders to check the Warped One’s body after defeating the Warped One boss in B1  
+
+    ??? "Unlock Conditions"
+        Dialogue is hidden until the knights die and Elmon has been sent off by the princess.  
+        Use the Cursed Wheel to go back in time before defeating the Warped One.  
+        With this newfound knowledge, choose the dialogue option to send the Defenders to check on the Warped One.
+
+2. Choose the negotiate option to learn about Albano and the sachet  
 
 ### Warped One Vanquished
 
