@@ -4,16 +4,22 @@
 
 ### Fresh Start
 
-   1. Complete the Sweet Walnut Delivery Request before getting to the first minor harken so you can send Elmon away.
-   2. Complete the Light Shield Material Collection Request so you can give the shields to the Defenders  
-   3. Complete the Fragrant Plant Seed quest for the dialogue with Albano later  
-   4. Go to the item shop and complete the Scrap Sabaton quest to give Sabatons to Vernant  
-   5. Go to the blacksmith and start the Rhodium Delivery quest
+1. Complete the [Sweet Walnut Delivery](requests.md#sweet-walnut) before getting to the first minor harken so you can send Elmon away.
+2. Complete the [Light Shield Material](requests.md#light-shield-material) Collection Request so you can give the shields to the Defenders  
+3. Complete the [Fragrant Plant Seed Delivery](requests.md#fragrant-plant-seed-delivery) quest for the dialogue with Albano later  
+4. Complete the [Scrap Sabaton Collection](requests.md#scrap-sabaton-collection) quest to give Sabatons to Vernant  
+5. Start the [Rhodium Delivery](requests.md#rhodium-delivery) quest at the Blacksmith
 
 ### Minor Harken Unlocked
 
-   1. Send in the Defenders to check the Warped One’s body after defeating the Warped One boss in B1  
-   2. Choose the negotiate option to learn about Albano and the sachet  
+1. Send in the Defenders to check the Warped One’s body after defeating the Warped One boss in B1  
+
+    ??? "Dialogue Conditions"
+        Dialogue is hidden until the knights die for the first time after Elmon has been called back by the princess.  
+        Use the Cursed Wheel after, to go back in time before defeating the Warped One.  
+        With this newfound knowledge, choose the dialogue option to send the Defenders to check on the Warped One.
+
+2. Choose the negotiate option to learn about Albano and the sachet  
 
 ### Warped One Vanquished
 
@@ -22,15 +28,12 @@
 
 ### Despicable Trap
 
-   1. Choose the dialogue “They’re already dead” when checking on the rooted knights  
-   2. Choose the dialogue “Leave it to Elmon” when checking on the second rooted knights  
+   1. Choose the dialogue “They’re already dead.” when checking on the rooted knights  
+   2. Choose the dialogue “Leave it to Elmon.” when checking on the second rooted knights  
 
 ??? warning "BOSS - Scorpion Lady"
 
-    ### Scorpion Lady
-
-    #### HP: 1000 (?)
-    
+    ### Scorpion Lady 
     #### Element: Earth
 
     <hr/>
@@ -84,22 +87,25 @@
     
     #### Manage Debuffs
       - Be prepared for **Corrosive Liquid**, which lowers armor on your frontline, making physical attacks more dangerous.
+   
 
 
 ### Survivors Found
 
-   1. Complete Abyssal Steel Delivery Request  
-   2. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave dungeon  
-   3. Complete the Fluorescent Flower Delivery Request  
+1. Complete [Abyssal Steel Delivery](requests.md#abyssal-steel-delivery) Request  
+2. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave dungeon  
+3. Complete the [Fluorescent Flower Delivery](requests.md#fluorescent-flower-delivery) Request  
+
 
 ### Second Major Harken
 
-   1. Complete the Rhodium Delivery Request  
-   2. When approaching Helmut on B8, choose the dialogue option to stop the debris  
+1. Complete the [Rhodium Delivery](requests.md#rhodium-delivery) Request  
+2. When approaching Helmut on B8, Choose the dialogue “Let's prevent cave-ins.”  
 
 ### Labyrinth Cleared
 
-   1. Complete the Cazula Root Delivery quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
+1. Complete the [Cazula Root Delivery](requests.md#cazula-root-delivery) quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
+
 
 ## Greater Warped One
 
