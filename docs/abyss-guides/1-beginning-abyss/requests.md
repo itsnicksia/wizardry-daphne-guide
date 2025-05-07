@@ -2,7 +2,7 @@
 
 ## Fresh Start
 
-### Sweet Walnut Delivery
+### Sweet Walnut Delivery { #sweet-walnut }
 
 ??? info "Request"
     ![](img/image_1.png)
@@ -13,7 +13,7 @@
 ??? map "Location"
     ![](img/image_2.png)
 
-### Light Shield Material Collection
+### Light Shield Material Collection { #light-shield-material }
 
 ??? info "Request"
     ![](img/image_3.png)
@@ -23,7 +23,7 @@
 ??? map "Location"
     ![](img/image_4.png)
 
-### Fragrant Plant Seed Delivery
+### Fragrant Plant Seed Delivery { #fragrant-plant-seed-delivery }
 
 ??? info "Request"
     ![](img/image_5.png)
@@ -37,7 +37,7 @@
     !!! note
         It's possible this is randomly in any small room
 
-### Scrap Sabaton Collection
+### Scrap Sabaton Collection { #scrap-sabaton-collection }
 
 ??? info "Request"
     ![](img/image_7.png)
@@ -47,7 +47,7 @@
 - In B1 gather junk and turn in the request  
 - Go back to the item shop to receive item
 
-### Rhodium Delivery
+### Rhodium Delivery { #rhodium-delivery }
 
 ??? info "Request"
     ![](img/image_8.png)
@@ -88,7 +88,7 @@
 
 ## Despicable Trap
 
-### Abyssal Steel Delivery
+### Abyssal Steel Delivery { abyssal-steel-delivery }
 
 ??? info "Request"
     ![](img/image_29.png)
@@ -109,7 +109,7 @@
 ??? map "Location"
     ![](img/image_32.png)
 
-### Fluorescent Flower Delivery
+### Fluorescent Flower Delivery { fluorescent-flower-delivery }
 
 ??? info "Request"
     ![](img/image_33.png)
@@ -207,7 +207,7 @@ Alternate Ending:
 
 ## Labyrinth Cleared
 
-### Cazula Root Delivery
+### Cazula Root Delivery { cazula-root-delivery }
 
 ??? info "Request"
     ![](img/image_64.png)
