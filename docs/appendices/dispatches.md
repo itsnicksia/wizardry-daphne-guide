@@ -38,7 +38,7 @@
 
 ## Event Specific Dispatches
 
-| Dispatch Name                              | Reward         | Stars | Level | Duration | Dispatch Conditions | Conditions                                           |
+| Dispatch Name                              | Reward         | Stars | Level | Duration | Dispatch Conditions | Availability                                         |
 | ------------------------------------------ | -------------- | ----- | ----- | -------- | --------------------| ---------------------------------------------------- |
 | Den of Earth B1F Exploration               | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once during event period |
 | Den of Fire B1F Exploration                | Ore            |       |       |          |                     | Must complete Fire Den B1F once during event period  |
