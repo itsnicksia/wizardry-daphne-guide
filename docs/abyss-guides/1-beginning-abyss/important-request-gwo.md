@@ -80,9 +80,9 @@
 
 1. Send in the Defenders to check the Warped One’s body after defeating the Warped One boss in B1  
 
-    ??? "Unlock Conditions"
-        Dialogue is hidden until the knights die and Elmon has been sent off by the princess.  
-        Use the Cursed Wheel to go back in time before defeating the Warped One.  
+    ??? "Dialogue Conditions"
+        Dialogue is hidden until the knights die for the first time after Elmon has been called back by the princess.  
+        Use the Cursed Wheel after, to go back in time before defeating the Warped One.  
         With this newfound knowledge, choose the dialogue option to send the Defenders to check on the Warped One.
 
 2. Choose the negotiate option to learn about Albano and the sachet  
@@ -99,10 +99,7 @@
 
 ??? warning "BOSS - Scorpion Lady"
 
-    ### Scorpion Lady
-
-    #### HP: 1000 (?)
-    
+    ### Scorpion Lady 
     #### Element: Earth
 
     <hr/>
@@ -156,22 +153,83 @@
     
     #### Manage Debuffs
       - Be prepared for **Corrosive Liquid**, which lowers armor on your frontline, making physical attacks more dangerous.
+   
 
 
 ### Survivors Found
 
-   1. Complete Abyssal Steel Delivery Request  
-   2. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave dungeon  
-   3. Complete the Fluorescent Flower Delivery Request  
+1. Complete Abyssal Steel Delivery Request  
+
+    ??? "Abyssal Steel Delivery"
+
+        ??? info "Request"
+            ![](img/image_29.png)
+
+            - Fight the enemies blocking the Ebonsteel on B4  
+            - Pick up the Ebonsteel from the sparkle on the ground
+
+        ??? map "Location"
+            ![](img/image_30.png)
+
+2. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave dungeon  
+3. Complete the Fluorescent Flower Delivery Request  
+
+    ??? "Fluorescent Flower Delivery"
+
+        ??? info "Request"
+            ![](img/image_33.png)
+
+            - You will activate this request as part of the Albano Bondmate line  
+            - Go to the inn upon accepting the request  
+            - Go to B5 and kill the mimic to get the glowstone  
+
+        ??? map "B5F Mimic Location"
+            ![](img/image_34.png)
+
+            !!! note
+                The chest does not appear on the map
+
+
 
 ### Second Major Harken
 
-   1. Complete the Rhodium Delivery Request  
-   2. When approaching Helmut on B8, choose the dialogue option to stop the debris  
+1. Complete the Rhodium Delivery Request  
+
+    ??? "Rhodium Delivery"
+
+        ??? info "Request"
+            ![](img/image_8.png)
+
+            - Go to the blacksmith to activate this quest  
+            - Go to the guild and accept the request  
+            - Continue on until B6, then collect the 2 Rhodium  
+            - Turn in the request  
+            - Go back to the blacksmith
+
+        ??? map "Locations"
+            ![](img/image_9.png)
+
+            !!! info
+                
+                Follow Green for one and Blue for the other   
+                
+2. When approaching Helmut on B8, Choose the dialogue “Let's prevent cave-ins.”  
 
 ### Labyrinth Cleared
 
-   1. Complete the Cazula Root Delivery quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
+1. Complete the Cazula Root Delivery quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
+
+    ???+ "Cazula Root Delivery"
+
+        ??? info "Request"
+            ![](img/image_64.png)
+
+            - Go to the tavern and talk to the Gloomy Adventurer  
+            - Go to B7 and get the Bladeless Dagger  
+            - Return to the tavern and give it to him
+
+        ??? map "Location"
+            ![](img/image_65.png)
 
 ## Greater Warped One
 
