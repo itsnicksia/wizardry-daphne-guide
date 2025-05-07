@@ -4,11 +4,20 @@
 
 ### Fresh Start
 
-1. Complete the [Sweet Walnut Delivery](requests.md#sweet-walnut) before getting to the first minor harken so you can send Elmon away.
-2. Complete the [Light Shield Material](requests.md#light-shield-material) Collection Request so you can give the shields to the Defenders  
-3. Complete the [Fragrant Plant Seed Delivery](requests.md#fragrant-plant-seed-delivery) quest for the dialogue with Albano later  
-4. Complete the [Scrap Sabaton Collection](requests.md#scrap-sabaton-collection) quest to give Sabatons to Vernant  
-5. Start the [Rhodium Delivery](requests.md#rhodium-delivery) quest at the Blacksmith
+??? note "1. Complete the Sweet Walnut Delivery request before getting to the first minor harken so you can send Elmon away."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:sweet-walnut-delivery"
+
+??? note "2. Complete the Light Shield Material Collection request so you can give the shields to the Defenders."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:light-shield-material-collection"
+
+??? note "3. Complete the Fragrant Plant Seed Delivery request to gain access to an important dialogue with Albano later."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:fragrant-plant-seed-delivery"
+
+??? note "4. Complete the Scrap Sabaton Collection request so you can give the sabatons to Vernant."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:scrap-sabaton-collection"
+
+??? note "5. Start the Rhodium Delivery request at the Blacksmith."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:rhodium-delivery"
 
 ### Minor Harken Unlocked
 
@@ -88,24 +97,26 @@
     #### Manage Debuffs
       - Be prepared for **Corrosive Liquid**, which lowers armor on your frontline, making physical attacks more dangerous.
    
-
-
 ### Survivors Found
 
-1. Complete [Abyssal Steel Delivery](requests.md#abyssal-steel-delivery) Request  
-2. Go back to the dungeon and choose “Keep trying to talk to Albano” when trying to get him to leave dungeon  
-3. Complete the [Fluorescent Flower Delivery](requests.md#fluorescent-flower-delivery) Request  
+??? note "1. Complete the Abyssal Steel Delivery request."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:abyssal-steel-delivery"
 
+??? note "2. Go back to the dungeon and choose `Keep trying to talk to Albano` when attempting to get him to leave the dungeon."
+
+??? note "3. Complete the Fluorescent Flower Delivery request."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:fluorescent-flower-delivery"
 
 ### Second Major Harken
 
-1. Complete the [Rhodium Delivery](requests.md#rhodium-delivery) Request  
-2. When approaching Helmut on B8, Choose the dialogue “Let's prevent cave-ins.”  
+??? note "1. Complete the Rhodium Delivery request."
+    --8<-- "abyss-guides/1-beginning-abyss/requests.md:rhodium-delivery"
+
+??? note "2. When approaching Helmut on B8, Choose the dialogue `Let's prevent cave-ins.`"
 
 ### Labyrinth Cleared
 
 1. Complete the [Cazula Root Delivery](requests.md#cazula-root-delivery) quest so you can give it to Vernant to use on the Craftsmen before the Helmut fight
-
 
 ## Greater Warped One
 
