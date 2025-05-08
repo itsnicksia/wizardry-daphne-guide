@@ -2,34 +2,51 @@
 
 !!! item "This event is now permanently available!"
 
+??? note "Video Tutorial"
+    <div align="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4u6ZLLGSGf0?si=MH9-7KHUASNoN83h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 ## How to participate:
-You need to have progressed in the story until the unlocking of the Cursed Wheel and accept the quest in the Royal Capital's Adventurers Guild.
-After accepting the quest, a new location will be accessible on the “Edge of town”.
+You need to have progressed in the story until the unlocking of the Cursed Wheel and accept the quest in the Royal Capital's Adventurers Guild. After accepting the quest, a new location will be accessible on the “Edge of Town”.
 
 ## Guide:
-1. On the entrance to the cave there’s an altar in which you can select 3 difficulty modes: Trial of Simplicity, Moderation and Impossible. Each difficulty increases the monster levels and rewards.
+1. On the entrance to the cave there’s an altar in which you can select 3 difficulty modes: Trial of Simplicity, Moderation and Impossible. Each difficulty increases the monster levels and rewards.   
+*The default difficulty without interacting with the altar is Moderation.*  
 
 2. Like the main story, you will need to do more than one run to get the real ending to the event quest. You can quickly progress to the 4th floor by following the maps below:
 
-### B1F:
-![](img/b1f.png)
+???+ map "B1F Map"
+    <div align="center">
+        ![](img/b1f.png)
+    </div>
 
-### B2F:
-![](img/b2f.png)
+???+ map "B2F Map"
+    <div align="center">
+        ![](img/b2f.png)
+    </div>
 
-### B3F:
-![](img/b3f.png)
+???+ map "B3F Map"
+    <div align="center">
+        ![](img/b3f.png)
+    </div>
 
-### B4F:
-![](img/b4f.png)
+???+ map "B4F Map"
+    <div align="center">
+        ![](img/b4f.png)
+    </div>
 
-3. After reaching the locked doors on B4F and interacting with the 4 altars, you’ll receive 4 quests to gather materials. Bat wings and Frog tongues can be obtained in B2F. Rat teeth and Lizard Tails can be obtained on B3F.
+3. After reaching the locked doors on B4F and interacting with the 4 altars, you’ll receive 4 quests to gather materials. Bat Wings and Frog Tongues can be obtained in B2F. Rat Teeth and Lizard Tails can be obtained on B3F.
 
-### B2F Materials:
-![](img/b2f-materials.png)
+???+ map "B2F Materials"
+    <div align="center">
+        ![](img/b2f-materials.png)
+    </div>
 
-### B3F Materials:
-![](img/b3f-materials.png)
+???+ map "B3F Materials"
+    <div align="center">
+        ![](img/b3f-materials.png)
+    </div>
 
 4. After gathering all materials, interact again with the altars on B4F. You’ll be able to progress to the fight with Isabella, the Seal. 
 
@@ -42,24 +59,42 @@ After accepting the quest, a new location will be accessible on the “Edge of t
 ??? map "Ore Locations from Goblin Cave"
     ![](img/goblin-cave-malice-locations.png)
 
-8. Gather Crystals: you need 4 purification crystals, but some of the crystals you mine will only cause cave-ins and unlock new areas. After interacting with the 4 altars again, you’ll be prompted to gather 4 materials from the earth elementals. Rather than farming those, it’s easier to go to the top-mid of the B1F map and fight the elemental there, leave the map and fight him again, 4 times in total.
+8. Gather Crystals: you need 4 Purification Crystals, but some of the crystals you mine will only cause cave-ins and unlock new areas. After interacting with the 4 altars again, you’ll be prompted to gather 4 Entity Shards from the earth elementals. 
+
+!!! note 
+    Rather than farming those, it’s easier to go to the east-mid of the B2F map (7:38 Video Guide) and fight the elemental there, win and grab the entity shard, leave the dungeon, reenter the dungeon, fight and repeat.
 
 9. Interact with the 4 altars on B4F. Now, when the doors unlock, you can talk with Isabella and face the true boss.
 
-### B1F Crystals:
-![](img/b1f-crystals.png)
+???+ map "B1F Crystals"
+    <div align="center">
+        ![](img/b1f-crystals.png)
+    </div>
 
-### B2F Crystals:
-![](img/b2f-crystals.png)
+???+ map "B2F Crystals"
+    <div align="center">
+        ![](img/b2f-crystals.png)
+    </div>
 
-### Suggested Farming Route on B3F:
-![](img/b3f-farming-route.png)
+???+ map "B3F Full Map"
+    <div align="center">
+        ![](img/b3f-full-map.png)
+    </div>
 
-### B3F Full map:
-![](img/b3f-full-map.png)
+???+ map "Suggested Farming Route on B3F"
+    <div align="center">
+        ![](img/b3f-farming-route.png)
+    </div>
 
-### B4F Full Map:
-![](img/b4f-full-map.png)
+???+ map "B4F Full Map"
+    <div align="center">
+        ![](img/b4f-full-map.png)
+    </div>
+
+???+ map "B5F Full Map"
+    <div align="center">
+        ![](img/b5f-full-map.png)
+    </div>
 
 ### Suggested No-Combat Chest Farming Route on B4F:
 - NOTE:  THIS PROCESS APPEARS TO NO LONGER BE VALID
@@ -78,9 +113,9 @@ After accepting the quest, a new location will be accessible on the “Edge of t
   
 - A single run should net 3 chests with 35-40 shards each, and the full loop could be completed in about 3 minutes.
 
-![](img/b4f-no-combat-farming-route.png)
-
-### B5 Map:
-![](img/b5f-full-map.png)
+???+ map "B5F Full Map"
+    <div align="center">
+        ![](img/b4f-no-combat-farming-route.png)
+    </div>
 
 Credits for maps: Gamerch
