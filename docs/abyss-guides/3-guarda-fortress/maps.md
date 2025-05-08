@@ -34,13 +34,8 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 ??? map "Zone 1 -Old Secret Passage B1F-"
     ![](./img/zone-1-old-secret-passage-b1f.jpg)
 
-    ??? note "Enemies"
-        - Skeleton Warrior
-        - Skeleton Mage
-        - Poltergeist
-        - Sandman
-        - **NEW - Combat Sentry**
-        - **NEW - Corruption Sentry**
+    ??? note "Sentry Types"
+        - Combat Sentry: Necromancer and Skeletons
 
     ??? note "Combat Sentry"
         - Combat Sentries are dangerous enemy spawns that patrol around the map in short fixed routes.
@@ -52,21 +47,17 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Entering the sight area of a Corruption Sentry will trigger a short cutscene and increase Corruption.
         - See [Corruption](#key-mechanics) for more information about Corruption Sentries.
 
-    ??? note "Walkthrough"
-        1. Fight your way through B1F until you pass a Sentry to reach the **Minor Harken**.
+    ??? note "Walkthrough 1st Run"
+        1. Fight your way through B1F until you pass a Sentry to reach the **Minor Harken**. 
         2. Travel south from the Harken and descend the stairs to B2F.
 
 ??? map "Zone 2 -Old Secret Passage B2F-"
     ![](./img/zone-2-complete.jpg)
 
-    ??? note "Enemies"
-        - Skeleton Warrior
-        - Skeleton Mage
+    ??? note "Sentry Types"
         - Combat Sentry: Necromancer and Skeletons
-        - Corruption Sentry
-        - ?
 
-    ??? note "Walkthrough"
+    ??? note "Walkthrough 1st Run"
         Navigate your way through the Pit Trap Puzzle to the final area of B3F.
 
         - This floor is full of hidden pit traps which will drop you into the floor below, B3F.
@@ -76,25 +67,23 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
             1. Red
             2. Orange
-            3. Drop down the north-west most pitfall trap and follow the Light Blue line to a lever. Hit the Lever to open the Red door that blocks the Light Orange path.
-            4. Light Orange
-            5. Green
+            3. Blue
+            4. Green
+
+        - The lever must be activated at the end of the Orange route to continue on the blue path.
+        - The Harken is after the boss at the end of the Green route.
 
         !!! map "Zone 2 -Old Secret Passage B2F-"
-            ![](./img/zone-2-old-secret-passage-b2f-path.png)
+            ![](./img/zone-2-path.png)
 
         !!! map "Zone 3 -Old Secret Passage B3F-"
-            ![](./img/zone-3-old-secret-passage-b3f-path.png)
+            ![](./img/zone-3-path.png)
 
 ??? map "Zone 3 -Old Secret Passage B3F-"
     ![](./img/zone-3-complete.jpg)
 
-    ??? note "Enemies"
-        - Skeleton Warrior
-        - Skeleton Mage
+    ??? note "Sentry Types"
         - Combat Sentry: Necromancer and Skeletons
-        - Corruption Sentry
-        - ?
 
     ??? danger "Boss: Necrocore"
         After falling through B2F's final Pit Trap, you will land in the final area of B3F. Take a few steps north and you will encounter the first Boss Encounter of Guarda Fortress Abyss.
@@ -104,36 +93,50 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
         This undead horse is a more powerful version of the enemy found in Crucible Mausoleum, carrying a similar array of instant-death skills like "Spear of Doom".
 
+    ??? note "Walkthrough 1st Run"
+        - See Zone 2 Walkthrough 1st Run.
+
 ??? map "Zone 4 -Tunnel-"
     ![](./img/zone-4-tunnel.jpg)
 
-    !!! note
+    ??? note "Walkthrough"
         - The Tunnel is inhabited by (mostly) friendly undead NPCs.
         - Speak to the skeletons to acquire key Knowledge.
 
 ??? map "Zone 5 -Prehistoric Corridor B3F-"
     ![](./img/zone-5-complete.jpg)
 
-    ??? note "Enemies"
-        - **NEW - Combat Sentry: Cyclops**
-        - **NEW - Combat Sentry: Scorpion Queen**
-        - Corruption Sentry
+    ??? note "Sentry Types"
+        - Combat Sentry: Cyclops + 2-3 Banshees
+        - Combat Sentry: Scorpion Queen + (3 Chimeras or 2 Banshees)
+        - Combat Sentry: 2x Minotaurs + 1 Chimera
+
+    ??? note "Walkthrough 1st Run"
+        - Upon returning from this floor to town, the slum faction request will become available.
+        - It should be a straight shot to the end of this floor. There is no need to enter through any one-way doors past the first room of this floor. There will be a lot of sentry patrols around the end of the floor, so be cautious about maneuvering as you get closer to the end.
 
 ??? map "Zone 6 -Prehistoric Corridor B2F-"
     ![](./img/zone-6-complete.jpg)
 
     ??? note "Enemies"
-        - Combat Sentry: Cyclops
-        - Combat Sentry: Scorpion Queen
-        - ?
+        - Combat Sentry: Cyclops + 2-3 Banshees
+        - Combat Sentry: Scorpion Queen + (3 Chimeras or 2 Banshees)
+        - Combat Sentry: 2x Minotaurs + 1 Chimera
+
+    ??? note "Walkthrough 1st Run"
+        - There are three paintings on this floor that give key knowledge. The painting at the very end will not be available to view until the second run onwards. 
+        - Alarm traps are introduced on this floor. Generally, they just spawn 1 or 2 hostile enemies nearby, but they can be easily avoided. The very last alarm trap on the floor before the Cross Intersection will spawn a Corruption Sentry that is unavoidable without the Right Hand power of this abyss.
 
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
     ![](./img/zone-7-complete.jpg)
 
     ??? note "Enemies"
-        - Combat Sentry: Cyclops
-        - Combat Sentry: Scorpion Queen
-        - ?
+        - Combat Sentry: Cyclops + 2-3 Banshees
+        - Combat Sentry: Scorpion Queen + (3 Chimeras or 2 Banshees)
+        - Combat Sentry: 2x Minotaurs + 1 Chimera
+
+    ??? note "Walkthrough 1st Run"
+        - A somewhat difficult floor due to being a battle of attrition in saving resources to fight the floor boss. There is no need to enter any one-way doors and it's not necessary to step on any poison tiles on the first run through.
 
     ??? danger "Boss: Doll"
         - Abilities: Charm, Confuse, MP Drain
@@ -145,23 +148,31 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
             - Buy some Scrolls of Sedation in town for your damage dealers to cast REILIS and remove confusion
             - Cast BATILGREF on the doll to lower her evasion and slow her down
             - Stack KINAPIC from scrolls and your priest(s) to give both rows enhanced resistance
-            - Remove confusion and charm with your damage dealers via scrolls so your healers can focus on that
+            - Remove confusion and charm with your damage dealers via scrolls so your healers can focus on that.
+            - One viable strategy is to un-equip weapons from any physical DPS and have your main DPS be the slowest so that any faster teammates can cleanse their charm.
 
 ??? map "Zone 8 -Fortress 1F Entrance-"
     ![](./img/zone-8-complete.jpg)
 
-    ??? note "Enemies"
-        - Combat Sentry: Cyclops
-        - Combat Sentry: Scorpion Queen
-        - ?
+    ??? note "Sentry Types"
+        - Combat Sentry: Cyclops + (2 Succubus + 1 Vampire or 1 Minotaur + 1 Succubus)
+        - Combat Sentry: 2 Vampires + 2 Succubus
+        - Combat Sentry: 1 Greater Demon + 1 Minotaur
+
+    ??? note "Walkthrough 1st Run (Upwards)"
+        - From this point onwards, there are no rest points until the Zone 9 Harken is reached. However, it is not as simple as walking from Zone 8 to Zone 9. It will be a walk from Zone 8 to Zone 10 and then falling down to the Zone 9 Harken. There is no need to walk through one-way doors.
+        - Luckily, you won't need to explore a whole floor each time but rather just small portions of each floor. It is recommended however to carry a lot of consumables before continuing, as the Sentries on this floor are a lot stronger than previous floors.
 
 ??? map "Zone 9 -Fortress 2F Entrance-"
     ![](./img/zone-9-complete.jpg)
 
     ??? note "Enemies"
-        - Combat Sentry: Cyclops
-        - Combat Sentry: Scorpion Queen
-        - ?
+        - Combat Sentry: Cyclops + (2 Succubus + 1 Vampire or 1 Minotaur + 1 Succubus)
+        - Combat Sentry: 2 Vampires + 2 Succubus
+        - Combat Sentry: 1 Greater Demon + 1 Minotaur'
+
+    ??? note "Walkthrough 1st Run 1st Half (Upwards)"
+        - There may be a room that will lock behind you on this floor. There is a rotating sentry and corruption sentry inside. You will need to get seen by the corruption sentry to access the door with the switch that opens the door out of this room.
 
 ??? map "Zone 10 -Fortress 3F Lord's Room-"
     ![](./img/zone-10-complete.jpg)
@@ -169,9 +180,12 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     If your corruption level is not too high, you will find the Duke's party on this floor.
 
     ??? note "Enemies"
-        - Combat Sentry: Cyclops
-        - Combat Sentry: Scorpion Queen
-        - ?
+        - Combat Sentry: Cyclops + (2 Succubus + 1 Vampire or 1 Minotaur + 1 Succubus)
+        - Combat Sentry: 2 Vampires + 2 Succubus
+        - Combat Sentry: 1 Greater Demon + 1 Minotaur
+
+    ??? note "Walkthrough 1st Run 1st Half (Upwards)"
+        - It's a relatively chill walk to the top middle room. You are forced to trigger a corruption sentry while passing by. Upon reaching the top middle room, you'll need to drop down via a hole on the bottom left of the room. This drop you into the sight of the corruption sentry, but right outside of the Zone 9 Harken.
 
     ??? map "Path to boss"
         In order to reach the boss, you must circle around to the other side of the stone pillar and interact with it. Along the way, you will encounter one mandatory sentry battle and on your first run, you will encounter a second mandatory sentry battle during the dialog prompts.
