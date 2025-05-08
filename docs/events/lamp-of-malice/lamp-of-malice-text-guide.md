@@ -59,7 +59,7 @@ You need to have progressed in the story until the unlocking of the Cursed Wheel
 ??? map "Ore Locations from Goblin Cave"
     ![](img/goblin-cave-malice-locations.png)
 
-8. Gather Crystals: you need 4 Purification Crystals, but some of the crystals you mine will only cause cave-ins and unlock new areas. After interacting with the 4 altars again, you’ll be prompted to gather 4 Entity Shards from the earth elementals. 
+8. Gather Crystals: you need 4 Purification Crystals, but some of the crystals you mine will only cause cave-ins and unlock new areas. After interacting with the 4 altars again, you’ll be prompted to gather 4 Entity Shards from the Earth Elementals. 
 
 !!! note 
     Rather than farming those, it’s easier to go to the east-mid of the B2F map (7:38 Video Guide) and fight the elemental there, win and grab the entity shard, leave the dungeon, reenter the dungeon, fight and repeat.
@@ -85,6 +85,8 @@ You need to have progressed in the story until the unlocking of the Cursed Wheel
     <div align="center">
         ![](img/b3f-farming-route.png)
     </div>
+    !!! note 
+         This farming route in B3F is an EXP / Currency farming route with 4-6 guaranteed combats adjacent to harken for ~fastest combats or chests per minute farming rate.
 
 ???+ map "B4F Full Map"
     <div align="center">
@@ -95,23 +97,6 @@ You need to have progressed in the story until the unlocking of the Cursed Wheel
     <div align="center">
         ![](img/b5f-full-map.png)
     </div>
-
-### Suggested No-Combat Chest Farming Route on B4F:
-- NOTE:  THIS PROCESS APPEARS TO NO LONGER BE VALID
-  - As of the 2025 rollout of this event as a 'permanent' event, main quest Cursed Wheel resets no longer seem to reset event fixed chests in the dungeon.
-  
-- Once the B4F Harken has been restored, a monster-free path exists that allows Crystal shard chests to be farmed.  During the 2024 event, using the Cursed Wheel in the Ruins to reset the main quest to "Fresh Start" would also restore all fixed chests in the Cave of Malice.  Thus, Crystal shard speed-run farming could be performed with the following procedure:
-
-  1. Cursed Wheel reset to Fresh Start.
-  2. Speed through the opening dialog.
-  3. 'Do Nothing' to skip Princess dialog.
-  4. Speed through Edge of Town dialog.
-  5. Go to Cave of Malice B4F
-  6. Auto move to three chests in order shown on the map below, and then back to Harken
-  7. Return to town.
-  8. Repeat.
-  
-- A single run should net 3 chests with 35-40 shards each, and the full loop could be completed in about 3 minutes.
 
 ???+ map "B5F Full Map"
     <div align="center">
