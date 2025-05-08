@@ -53,6 +53,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 **Special Notes**
 
+- This exam unlocks shortly after you start the request to save Duke Ixion in Guarda Fortress.
 - There is a single boss room and two paths to get there.
     - The left path favors physical damage. All enemies have extremely high magic defense.
     - The right path favors magic damage. All enemies have extremely high physical defense.
