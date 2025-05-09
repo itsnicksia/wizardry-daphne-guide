@@ -99,3 +99,8 @@
 * Rescued safely
 
 ## Triumphant Return
+
+### Spiraling Conspiracy in the Fortress
+
+* Identified the mastermind
+* Left fortress without resolution

@@ -172,6 +172,7 @@
     | Forge Seeker                            | Enhance equipment up to +20.                  |
     | Ultimate Equipment Enhancement          | Enhance 10 pieces of equipment up to +20.     |
     | Ultimate Equipment Enhancement II       | Enhance 30 pieces of equipment up to +20.     |
+    | Ultimate Equipment Enhancement III      | Enhance 50 pieces of equipment up to +20.     |
 
 === "Battle"
 
