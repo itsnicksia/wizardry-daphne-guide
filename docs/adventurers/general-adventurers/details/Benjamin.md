@@ -12,6 +12,9 @@
     === "Fighter"
         ![](../img/benjamin-fighter.png)
 
+    === "Thief"
+        ![](../img/benjamin-thief.png)
+
 ## Skills
 
 !!! info "Inheritable Skill"

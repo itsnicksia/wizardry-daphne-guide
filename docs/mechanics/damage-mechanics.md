@@ -1,4 +1,4 @@
-# Damage Mechanics
+# Damage and Skill Mechanics
 
 ## Surety
 There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit.
@@ -98,9 +98,9 @@ There are two status afflictions that currently allow you to deal increased dama
 * `Opening` is even more unique. It causes you to deal over 100% damage, but we're not entirely sure what the number is yet, as there are some nuances to it. For example, if you miss while attacking an enemy with the `Opening` affliction, the enemy will still take a large amount of damage. It's possible that a component of this damage is tied to the enemy's maximum or current HP.
 
 ## Active Skill and Spell Damage
-Active skills are a very unique bunch. It's hard to figure out the exact formula for them, however we have been able to figure out that they are logarithmic in nature. That means that their damage is on a curve rather than being linear. The higher an adventurer's attack power goes, the lower an overall active skill's damage increase is. It is even possible for basic attacks to deal more damage than active skills at certain power levels. This is most easily seen with `Heavy Attack` where a basic attack will start to deal more damage than `Heavy Attack 1` when an adventurer has over 350 attack power. Each active skill has its own inflection point, so while 350 power seems to be the point for `Heavy Attack 1`, skills such as `Heavy Attack 2` or `Full Power Strike 1` would have different power values where they get surpassed by basic attacks.
+Active skills and spells are a very unique bunch. It's hard to figure out the exact formula for them, but latest testing shows some interesting behavior. It currently seems that rather than being perfectly linear or on a damage curve, the damage is linear up until a certain inflection point of attack or magic power, then there is a shift and the skill or spell remains linear but the slope of that line changes. This behavior is very bizarre, but it ultimately means that at a certain point, a skill or spell at a particular level stops increasing at the rate it used to increase at and tapers off to increase at a significantly slower rate.
 
-Spells are also on a logarithmic curve, however there is no "basic spell attack" that can surpass level 1 of a spell.
+For active skills, this has a very unique side effect. After that skill level's inflection point (or soft cap if you want to think of it that way), a basic attack starts to deal more damage than the skill at that level.
 
 ## Calculating Damage
 
@@ -118,7 +118,7 @@ This looks like a relatively simple formula, but there are some nuances that mak
 * `SureHitModifier` is factored in if you land a sure hit
 * `StatusAfflicitionModifier` is factored in if you're hitting a sleeping enemy or an Opening
 * `OffHandDamageReduction` appears to start out at a `0.5` multiplier when hitting with the off-hand weapon while Dual Wielding. This multiplier increases as the Dual Wield skill level increases
-* `BaseDamageFromPowerDefenseAndActiveSkills` is currently the big unknown. We're not entirely sure how the power listed on the stats page translates to the damage that you deal. We also don't entirely know how the active skills fit into the equation. We're still trying to determine if they're a damage multiplier, a multiplier on attack power, or something else. We do know that some component of this is involves taking your attack power, adding attack power boosts from `Warrior's Battle Cry`, subtracting your enemy's defense, subtracting (or adding) any additional defense values from spells and skills like `MORLIS`, `Armor Break`, `MAKALTU`, and factoring in the defense penetration on axes, `Precision Strike`, and `Sneak Attack`. This is the black box that we hope to decipher as we gather more data.
+* `BaseDamageFromPowerDefenseAndActiveSkills` is currently the big unknown. We're not entirely sure how the power listed on the stats page translates to the damage that you deal. We also don't entirely know how the active skills fit into the equation. We're still trying to determine if they're a damage multiplier, a multiplier on attack power, or something else. We do know that some component of this is involves taking your attack power, adding attack power boosts from `Warrior's Battle Cry`, subtracting half of your enemy's defense, subtracting (or adding) any additional defense values from spells and skills like `MORLIS`, `Armor Break`, `MAKALTU`, and factoring in the defense penetration on axes, `Precision Strike`, and `Sneak Attack`. This is the black box that we hope to decipher as we gather more data.
 
 ### Example Damage Calculation
 As an example, suppose you meet the following criteria:
@@ -154,7 +154,7 @@ Defense Penetration properties, such as the innate properties of axes seems to b
 
 !!! warning "Warning: Contains math"
 
-Suppose you have `300` attack power and are fighting an enemy with `100` defense. You have two damage modifiers of `1.1` each. In this scenario, your normal final basic attack damage would be roughly `(300 - 100) * 1.1 * 1.1 = 242`. If you cast MORLIS first, your final basic attack damage would be roughly `(300 - 100 * 0.8) * 1.1 * 1.1 = 266`. If you also happened to be using an axe, your final basic attack damage would be `(300 - 100 * 0.8 * 0.7) * 1.1 * 1.1 = 295`. For comparision, if you didn't have any form of defense reduction or penetration but instead added two more `1.1` modifiers, you would only be looking at `(300 - 100) * 1.1 * 1.1 * 1.1 * 1.1 = 293`, which is lower than if you were able to take advantage of both defense reduction and defense penetration. 
+Suppose you have `300` attack power and are fighting an enemy with `200` defense. You have two damage modifiers of `1.1` each. In this scenario, your normal final basic attack damage would be roughly `(300 - 200 / 2) * 1.1 * 1.1 = 242`. If you cast MORLIS first, your final basic attack damage would be roughly `(300 - 200 / 2 * 0.8) * 1.1 * 1.1 = 266`. If you also happened to be using an axe, your final basic attack damage would be `(300 - 200 / 2 * 0.8 * 0.7) * 1.1 * 1.1 = 295`. For comparision, if you didn't have any form of defense reduction or penetration but instead added two more `1.1` modifiers, you would only be looking at `(300 - 200 / 2) * 1.1 * 1.1 * 1.1 * 1.1 = 293`, which is lower than if you were able to take advantage of both defense reduction and defense penetration. 
 
 ## Follow-Up Attack
 Follow-Up Attack is a powerful passive skill when invested in. When it triggers with a multi-hit weapon, it adds a single basic attack hit, effectively acting as +50% damage for 2-hit weapons and +33% damage for 3-hit weapons. With single-hit weapons, however, this effectively gives you +100% more basic attack damage. The higher the difference between your attack and an enemy's defense, the more valuable this is.
