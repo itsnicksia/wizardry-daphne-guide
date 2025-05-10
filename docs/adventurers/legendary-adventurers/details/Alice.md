@@ -39,7 +39,7 @@
 
 !!! info "TheAxolotl's Analysis"
     
-    Alice is a fantastic unit to pull, and will likely be a staple in most folks' parties for a long while. Not only is she our first Legendary priest, but both of her skills are fantastic. Increasing her buff/debuff turn count by 1 means she gets an extra turn to heal, deal damage, or apply another buff/debuff before needing to reapply the initial. Furthermore, her damage increase to a row can apply to our current best damage dealers (Adam, Yeka, Gerulf, and a Neutral or Evil MC). Alice is no slouch in the damage department herself, either, being able to hit hard with single target Light damage that is based on her Divine Power and also deals increased damage to undead.
+    Alice is a fantastic unit to pull, and will likely be a staple in most folks' parties for a long while. Not only is she our first Legendary priest, but both of her skills are fantastic. Increasing her buff/debuff turn count by 1 means she gets an extra turn to heal, deal damage, or apply another buff/debuff before needing to reapply the initial. Furthermore, her damage increase to a row can apply to many af our strongest damage dealers.
 
     Changing her class to Mage will give her a wider selection of spells, as well, making her a very well-rounded Adventurer for support or damage purposes.
 
@@ -51,6 +51,6 @@
 
 ## Duplicate Usage
 
-* Inherit her skill on other buffers/debuffers you use. As a reminder, this will only increase the duration of spells. It will not increase the duration of skills.
+* Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills.
 * If you plan to use Alice, increasing her Discipline will increase her damage and healing.
 * Save for future use.
