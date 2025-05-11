@@ -34,4 +34,6 @@ Most bones will respawn after roughly one month.
     ![](img/respawning-bone-b8f.jpg)
 
 ??? map "Adventurer's Remains - Trade Waterway 7th District Pier Shore of the Dead"
-    ![](img/respawning-bone-pier.jpg)
+    ![](img/respawning-bone-pier-location.png)
+
+    !!! note "Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then."
