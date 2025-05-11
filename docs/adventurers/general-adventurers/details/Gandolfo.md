@@ -19,7 +19,7 @@
 
 !!! info "Inheritable Skill"
     === "Heavy Attack"
-        Moderate physical attack with high Accuracy on 1 enemy. Efficacy increased based on skill level. Probability and Defense Power increased further.
+        Moderate physical attack with high Accuracy on 1 enemy. Efficacy increased based on skill level.
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Guard Experience"
