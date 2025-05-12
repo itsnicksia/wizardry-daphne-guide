@@ -15,6 +15,8 @@ Most bones will respawn after roughly one month.
 ??? map "Priest/Mage/Fighter/Knight Remains - Beginning Abyss B1F Death Stench Investigation"
     ![](img/respawning-bone-death-stench.jpg)
 
+    !!! note "To reset the related request for the monthly bone, you'll need to walk to the B1F harken from the Cursed Wheel point Fresh Start"
+
 ??? map "Adventurer's Remains - Beginning Abyss Goblin Nest"
     ![](img/respawning-bone-goblin-den.jpg)
 
