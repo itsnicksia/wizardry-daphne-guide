@@ -60,4 +60,6 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/tablesort@5.6.0/dist/tablesort.min.js
   - https://unpkg.com/tablesort@5.6.0/dist/sorts/tablesort.number.min.js
-  - javascripts/tablesort.js
+  - https://unpkg.com/papaparse@5.4.0/papaparse.min.js
+  - js/tablesort.js
+  - js/render-sheet.js
