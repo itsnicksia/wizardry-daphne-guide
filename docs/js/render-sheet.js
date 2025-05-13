@@ -11,6 +11,10 @@ document$.subscribe(() => {
 function buildTableFromSheet({containerElementId, url, columnRange}) {
     const container = document.getElementById(containerElementId);
 
+    if (!container) {
+        return;
+    }
+
     Papa.parse(
         url,
         {
