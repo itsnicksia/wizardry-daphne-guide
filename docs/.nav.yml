@@ -1,0 +1,11 @@
+nav:
+  - FAQ: './frequently-asked-questions.md'
+  - Abyss Guides: abyss-guides
+  - Adventurers: adventurers
+  - Adventurer Customization: adventurer-customization
+  - Mechanics: mechanics
+  - Strategies: strategies
+  - Events: events
+  - Appendices: appendices
+  - Playing on PC: './emulators/emulators.md'
+  - About The Guide: './index.md'

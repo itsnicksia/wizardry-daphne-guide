@@ -1,0 +1,23 @@
+nav:
+  - Introduction: './0-introduction/index.md'
+  - Beginning Abyss:
+      - Maps: './1-beginning-abyss/maps.md'
+      - Requests: './1-beginning-abyss/requests.md'
+      - Important Request / Greater Warped One: './1-beginning-abyss/important-request-gwo.md'
+  - Port Town Grand Legion:
+      - Maps: './2-port-town-grand-legion/maps.md'
+      - Requests: './2-port-town-grand-legion/requests.md'
+      - Important Request / Greater Warped One: './2-port-town-grand-legion/important-request-gwo.md'
+  - Guarda Fortress:
+      - Maps: './3-guarda-fortress/maps.md'
+      - Requests: './3-guarda-fortress/requests.md'
+      - Important Request / Greater Warped One: './3-guarda-fortress/important-request-gwo.md'
+  - Ancient Mausoleum: './ancient-mausoleum/maps.md'
+  - Dens:
+      - Den of Earth: './dens/den-of-earth.md'
+      - Den of Fire: './dens/den-of-fire.md'
+      - Den of Wind: './dens/den-of-wind.md'
+      - Den of Light: './dens/den-of-light.md'
+  - Grade Exams: './grade-exams/maps.md'
+  - Misc Bosses:
+      - Morgus, God of Death: './misc-bosses/morgus-god-of-death.md'

@@ -1,0 +1,13 @@
+nav:
+  - Adventurer Experience: './adventurer-experience.md'
+  - Blacksmithing: './blacksmithing/index.md'
+  - Bondmates:
+      - Bondmates Quicklist: './bondmates/bondmates-quicklist.md'
+      - Adventurer Bondmates: './bondmates/adventurer-bondmates.md'
+      - Bondmates Farming: './bondmates/bondmates-farming.md'
+      - Beginning Abyss: './bondmates/beginning-abyss/bondmates.md'
+      - Port Town Grand Legion: './bondmates/port-town-grand-legion/bondmates.md'
+      - Guarda Fortress: './bondmates/guarda-fortress/bondmates.md'
+  - Contracts: './contracts.md'
+  - Party Construction: './party-construction.md'
+  - Well of the Mind: './well-of-the-mind.md'

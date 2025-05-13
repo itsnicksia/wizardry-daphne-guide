@@ -1,4 +1,4 @@
-# Combat Strategies and Combinations
+# Combat Strategies
 
 These strategies are effective in both early-game when your resources are low and late game when select fights are extremely difficult.
 

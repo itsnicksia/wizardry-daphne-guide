@@ -22,7 +22,7 @@ You should only try adding the Goblin Den to this cycle if you can survive the A
 !!! note "Albano"
 After earning the Albano bondmate by [completing the Beginning Abyss "Perfect Ending"](./beginning-abyss/bondmates.md#royal-knight-albano), repeat bonds are obtainable simply by Leaping forward each time to "The King's Rescue" or later and going to the Royal Capital Edge of Town screen in the Royal Capital where the Albano Bondmate interaction should begin automatically. (Confirmed as of version 1.8.0.  This did intermittantly stop working in prior versions, but currently appears to be expected behavior.)
 
-To get all [Beginning Abyss bondmates](./beginning-abyss/bondmates-quicklist.md) that can be leveled, after leaping to Warped Scene:
+To get all [Beginning Abyss bondmates](./beginning-abyss/bondmates.md) that can be leveled, after leaping to Warped Scene:
 
 1. Step right back up stairs to B7F, step into teleporter, return to Harken
 2. Leap to B5F - revive Harry and Ira.
