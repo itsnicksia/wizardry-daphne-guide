@@ -3,13 +3,7 @@ nav:
   - Abyss Guides: abyss-guides
   - Adventurers
   - Adventurer Customization: adventurer-customization
-  - Mechanics:
-      - Character Traits and Stats: './mechanics/traits-and-stats.md'
-      - Discipline and Inheritance: './mechanics/discipline-and-inheritance.md'
-      - Damage Mechanics: './mechanics/damage-mechanics.md'
-      - Trust:
-          - Trust Guide: './mechanics/trust/trust.md'
-          - Dialogue Chart: './mechanics/trust/chart.md'
+  - Mechanics
   - Strategies:
       - Combat Strategies: './strategies/combat-strategies.md'
       - Farming: './strategies/farming.md'
