@@ -11,6 +11,7 @@ For new players, start with the [Introduction Guide](./abyss-guides/0-introducti
 ## About the Guide
 
 Our guide has consolidated information about Wizard Variants Daphne, including:
+
  - Abyss Walkthroughs and Maps
  - Greater Warped Ones
  - Requests

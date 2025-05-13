@@ -1,0 +1,144 @@
+nav:
+  - Adventurer Quicklist: './adventurer-quicklist.md'
+  - Class Skill Quicklist: './class-skill-quicklist.md'
+  - Legendary Adventurers:
+    - Adventurer Review Disclaimer: './legendary-adventurers/details/_adventurer-review-disclaimer.md'
+    - Abenius:
+        - Details: './legendary-adventurers/details/Abenius.md'
+        - Life Story: './legendary-adventurers/life-stories/Abenius.md'
+    - Adam:
+        - Details: './legendary-adventurers/details/Adam.md'
+        - Life Story: './legendary-adventurers/life-stories/Adam.md'
+    - Alice:
+        - Details: './legendary-adventurers/details/Alice.md'
+        - Life Story: './legendary-adventurers/life-stories/Alice.md'
+    - Arboris:
+        - Details: './legendary-adventurers/details/Arboris.md'
+    - Berkanan:
+        - Details: './legendary-adventurers/details/Berkanan.md'
+        - Life Story: './legendary-adventurers/life-stories/Berkanan.md'
+    - Debra:
+        - Details: './legendary-adventurers/details/Debra.md'
+        - Life Story: './legendary-adventurers/life-stories/Debra.md'
+    - Gerard:
+        - Details: './legendary-adventurers/details/Gerard.md'
+        - Life Story: './legendary-adventurers/life-stories/Gerard.md'
+    - Gerulf:
+        - Details: './legendary-adventurers/details/Gerulf.md'
+        - Life Story: './legendary-adventurers/life-stories/Gerulf.md'
+    - Iarumas:
+        - Details: './legendary-adventurers/details/Iarumas.md'
+        - Life Story: './legendary-adventurers/life-stories/Iarumas.md'
+    - Lanavaille:
+        - Details: './legendary-adventurers/details/Lanavaille.md'
+        - Life Story: './legendary-adventurers/life-stories/Lanavaille.md'
+    - Red Beard:
+        - Details: './legendary-adventurers/details/Red-Beard.md'
+        - Life Story: './legendary-adventurers/life-stories/Red-Beard.md'
+    - Rinne:
+        - Details: './legendary-adventurers/details/Rinne.md'
+        - Life Story: './legendary-adventurers/life-stories/Rinne.md'
+    - Savia:
+        - Details: './legendary-adventurers/details/Savia.md'
+        - Life Story: './legendary-adventurers/life-stories/Savia.md'
+    - Shelirionach:
+        - Details: './legendary-adventurers/details/Shelirionach.md'
+        - Life Story: './legendary-adventurers/life-stories/Shelirionach.md'
+    - Yekaterina:
+        - Details: './legendary-adventurers/details/Yekaterina.md'
+        - Life Story: './legendary-adventurers/life-stories/Yekaterina.md'
+  - Legendary Requests:
+    - Adam - Unnamed Request: './legendary-adventurers/legendary-requests/adam/adam-request.md'
+    - Debra - Investigate the Island of Ghosts: './legendary-adventurers/legendary-requests/debra/debra-request.md'
+    - Gerulf - Collect on a Broken Pact: './legendary-adventurers/legendary-requests/gerulf/gerulf-request.md'
+  - General Adventurers:
+    - Alex:
+        - Details: './general-adventurers/details/Alex.md'
+        - Life Story: './general-adventurers/life-stories/Alex.md'
+    - Amelia:
+        - Details: './general-adventurers/details/Amelia.md'
+        - Life Story: './general-adventurers/life-stories/Amelia.md'
+    - Asha:
+        - Details: './general-adventurers/details/Asha.md'
+        - Life Story: './general-adventurers/life-stories/Asha.md'
+    - Bakesh:
+        - Details: './general-adventurers/details/Bakesh.md'
+        - Life Story: './general-adventurers/life-stories/Bakesh.md'
+    - Barbara:
+        - Details: './general-adventurers/details/Barbara.md'
+        - Life Story: './general-adventurers/life-stories/Barbara.md'
+    - Benjamin:
+        - Details: './general-adventurers/details/Benjamin.md'
+        - Life Story: './general-adventurers/life-stories/Benjamin.md'
+    - Chloe:
+        - Details: './general-adventurers/details/Chloe.md'
+        - Life Story: './general-adventurers/life-stories/Chloe.md'
+    - Clarissa:
+        - Details: './general-adventurers/details/Clarissa.md'
+        - Life Story: './general-adventurers/life-stories/Clarissa.md'
+    - Daniel:
+        - Details: './general-adventurers/details/Daniel.md'
+        - Life Story: './general-adventurers/life-stories/Daniel.md'
+    - Dino:
+        - Details: './general-adventurers/details/Dino.md'
+        - Life Story: './general-adventurers/life-stories/Dino.md'
+    - Eckart:
+        - Details: './general-adventurers/details/Eckart.md'
+        - Life Story: './general-adventurers/life-stories/Eckart.md'
+    - Elda:
+        - Details: './general-adventurers/details/Elda.md'
+        - Life Story: './general-adventurers/life-stories/Elda.md'
+    - Eldorado:
+        - Details: './general-adventurers/details/Eldorado.md'
+        - Life Story: './general-adventurers/life-stories/Eldorado.md'
+    - Elise:
+        - Details: './general-adventurers/details/Elise.md'
+        - Life Story: './general-adventurers/life-stories/Elise.md'
+    - Emil:
+        - Details: './general-adventurers/details/Emil.md'
+        - Life Story: './general-adventurers/life-stories/Emil.md'
+    - Eulalia:
+        - Details: './general-adventurers/details/Eulalia.md'
+        - Life Story: './general-adventurers/life-stories/Eulalia.md'
+    - Flut:
+        - Details: './general-adventurers/details/Flut.md'
+        - Life Story: './general-adventurers/life-stories/Flut.md'
+    - Galina:
+        - Details: './general-adventurers/details/Galina.md'
+        - Life Story: './general-adventurers/life-stories/Galina.md'
+    - Gandolfo:
+        - Details: './general-adventurers/details/Gandolfo.md'
+        - Life Story: './general-adventurers/life-stories/Gandolfo.md'
+    - Gaston:
+        - Details: './general-adventurers/details/Gaston.md'
+        - Life Story: './general-adventurers/life-stories/Gaston.md'
+    - Jarmil:
+        - Details: './general-adventurers/details/Jarmil.md'
+        - Life Story: './general-adventurers/life-stories/Jarmil.md'
+    - Jean:
+        - Details: './general-adventurers/details/Jean.md'
+        - Life Story: './general-adventurers/life-stories/Jean.md'
+    - Kiriha:
+        - Details: './general-adventurers/details/Kiriha.md'
+        - Life Story: './general-adventurers/life-stories/Kiriha.md'
+    - Marianne:
+        - Details: './general-adventurers/details/Marianne.md'
+        - Life Story: './general-adventurers/life-stories/Marianne.md'
+    - Milana:
+        - Details: './general-adventurers/details/Milana.md'
+        - Life Story: './general-adventurers/life-stories/Milana.md'
+    - Olive:
+        - Details: './general-adventurers/details/Olive.md'
+        - Life Story: './general-adventurers/life-stories/Olive.md'
+    - Ophelia:
+        - Details: './general-adventurers/details/Ophelia.md'
+        - Life Story: './general-adventurers/life-stories/Ophelia.md'
+    - Phillip:
+        - Details: './general-adventurers/details/Philip.md'
+        - Life Story: './general-adventurers/life-stories/Phillip.md'
+    - Valdor:
+        - Details: './general-adventurers/details/Valdor.md'
+        - Life Story: './general-adventurers/life-stories/Valdor.md'
+    - Viviana:
+        - Details: './general-adventurers/details/Viviana.md'
+        - Life Story: './general-adventurers/life-stories/Viviana.md'
