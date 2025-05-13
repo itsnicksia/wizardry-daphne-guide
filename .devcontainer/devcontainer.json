@@ -1,25 +1,47 @@
 {
-  "name": "WizDaphne Guide",
+  "name": "WizDaphne Guide – MkDocs Editor",
   "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
-  "postCreateCommand": "pip3 install mkdocs-material --user -r requirements.txt",
+  "containerUser": "vscode",
+  "postCreateCommand": "pip install --user -r requirements.txt",
   "postStartCommand": "mkdocs serve --dev-addr=0.0.0.0:8000",
   "customizations": {
     "vscode": {
       "settings": {
-        "workbench.startupEditor": "none",
-        "workbench.activityBar.visible": false,
-        "workbench.statusBar.visible": false,
+        // Show the built-in README view on open
+        "workbench.startupEditor": "readme",
+        // Friendly light theme + icons
+        "workbench.colorTheme": "GitHub Light",
+        "workbench.iconTheme": "material-icon-theme",
+        // Keep explorer visible so non-devs can browse docs/
+        "workbench.activityBar.visible": true,
+        // Simplify editor UI
         "editor.minimap.enabled": false,
-        "explorer.openEditors.visible": 0,
-        "terminal.integrated.defaultProfile.linux": "bash",
-        "extensions": [
-          "GitHub.vscode-pull-request-github"
-        ]
+        "explorer.compactFolders": false,
+        // Markdown preview: auto-open to side, scroll sync, follow links
+        "markdown.preview.autoShowPreviewToSide": true,
+        "markdown.preview.scrollEditorWithPreview": "gutter",
+        "markdown.preview.openMarkdownLinks": "inPreview",
+        // Table of contents & table-formatter updates on save
+        "markdown.extension.toc.updateOnSave": true,
+        "markdown.extension.tableFormatter.enabled": true,
+        // Use bash in terminal
+        "terminal.integrated.defaultProfile.linux": "bash"
       },
       "extensions": [
+        // All-in-one markdown shortcuts (heading, TOC, etc.)
         "yzhang.markdown-all-in-one",
-        "bierner.markdown-preview-github-styles"
+        // GitHub-style markdown preview
+        "bierner.markdown-preview-github-styles",
+        // Lint markdown for style & consistency
+        "DavidAnson.vscode-markdownlint",
+        // Catch typos for non-coders
+        "streetsidesoftware.code-spell-checker",
+        // Nice file icons
+        "PKief.material-icon-theme",
+        // Handy light theme that matches GitHub
+        "GitHub.github-vscode-theme"
       ],
+      // Open the home page of your MkDocs site immediately
       "openFiles": [
         "docs/index.md"
       ]
@@ -27,7 +49,7 @@
   },
   "portsAttributes": {
     "8000": {
-      "label": "MkDocs Preview",
+      "label": "MkDocs Live Preview",
       "onAutoForward": "openPreview"
     }
   }
