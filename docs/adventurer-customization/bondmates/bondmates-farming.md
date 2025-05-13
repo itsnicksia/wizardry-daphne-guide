@@ -12,6 +12,10 @@ The number of times you need to get a bond to reach a particular bond level:
 |  4    |  3              | 7                     |
 |  5    |  4              | 11                    |
 
+!!! note "Most bondmates that are dismissed can be reacquired, and start levelling again at Level 1."
+
+!!! warning "Bondmates that are permatently capped at level 1 cannot be reacquired after being dismissed. Further attempts to acquire the bond will just produce the 'will be missed' message."
+
 ## Beginning Abyss Bondmates
 
 Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate locations, and then immediately "Leaping" forward to Warped Scene or later will make most bondmate requests available again. 
@@ -22,7 +26,9 @@ You should only try adding the Goblin Den to this cycle if you can survive the A
 !!! note "Albano"
 After earning the Albano bondmate by [completing the Beginning Abyss "Perfect Ending"](./beginning-abyss/bondmates.md#royal-knight-albano), repeat bonds are obtainable simply by Leaping forward each time to "The King's Rescue" or later and going to the Royal Capital Edge of Town screen in the Royal Capital where the Albano Bondmate interaction should begin automatically. (Confirmed as of version 1.8.0.  This did intermittantly stop working in prior versions, but currently appears to be expected behavior.)
 
-To get all [Beginning Abyss bondmates](./beginning-abyss/bondmates.md) that can be leveled, after leaping to Warped Scene:
+!!! note "Several bondmates require gaining specific Knowledge before the bondmate paths can be followed. See individual bondmate pages for [Chris](./beginning-abyss/bondmates.md#chris-the-considerate), [Mudd](./beginning-abyss/bondmates.md#mudd-the-eternal-novice), and [Donato](./beginning-abyss/bondmates.md#donato-the-king-of-debt) for steps to follow before farming."
+
+To level all [Beginning Abyss bondmates](./beginning-abyss/bondmates.md) that can be leveled, after leaping to Warped Scene:
 
 1. Step right back up stairs to B7F, step into teleporter, return to Harken
 2. Leap to B5F - revive Harry and Ira.
