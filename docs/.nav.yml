@@ -4,9 +4,7 @@ nav:
   - Adventurers
   - Adventurer Customization: adventurer-customization
   - Mechanics
-  - Strategies:
-      - Combat Strategies: './strategies/combat-strategies.md'
-      - Farming: './strategies/farming.md'
+  - Strategies
   - Events
   - Appendices
   - Playing on PC: './emulators/emulators.md'
