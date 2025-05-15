@@ -22,3 +22,7 @@
 
 !!! note "About the Reward"
     This item is farmable with no CD and can spawn up to 4* Purple?. It increases Def, Mdef, and Evasion on enhancement.
+
+## Farming
+
+The cave remains on the world map after completion of the event. You can just go in and out to collect the chests for junk. To reset the quest though, simply go to the Cursed Wheel and select any option on or past "Hidden Passage" in Abyss 3. The option to reset this request is on the bottom left in green.
