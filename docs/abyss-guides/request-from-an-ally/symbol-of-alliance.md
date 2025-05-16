@@ -2,7 +2,8 @@
 
 ??? note "Requirements"
     - Complete Abyss 3 up to the Cursed Wheel Point "Hidden Passage"
-    - Elmon must be alive
+    - Elmon must be alive.
+    - Maurice in Abyss 1 needs to be alive.
 
 ## Map
 
