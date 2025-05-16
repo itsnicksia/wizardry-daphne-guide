@@ -15,33 +15,33 @@
     | --------------------------------- | --------------------- | ---------------------------------- | ---------------------------------- |
     | Alex                              | Knight                | Stun Bash                          | Way of the Knight                  |
     | Amelia                            | Thief                 | Stealth                            | Blinding                           |
-    | Asha                              | Mage                  | Katino                             | BATILGREF                          |
+    | Asha                              | Mage                  | KATINO                             | BATILGREF                          |
     | Bakesh                            | Thief                 | Treasure Trap Detection Skill      | Passive Action Spd Up (Thief)      |
     | Barbara                           | Knight                | Assault Guard                      | Passive MDef Up (Knight)           |
     | Benjamin                          | Fighter               | Passive HP Up (Fighter)            | Wild Strike                        |
     | Chloe                             | Fighter               | Warrior's Battle Cry               | Passive Accuracy Up (Fighter)      |
     | Clarissa                          | Knight                | Self-Healing                       | Self-Defense                       |
-    | Daniel                            | Priest                | Macaldia                           | ABIT                               |
-    | Dino                              | Mage                  | Montino                            | BALAFEOS                           |
+    | Daniel                            | Priest                | MACALDIA                           | ABIT                               |
+    | Dino                              | Mage                  | MONTINO                            | BALAFEOS                           |
     | Eckart                            | Knight                | Attract Hit                        | Defensive Provoke                  |
     | Elda                              | Fighter               | Follow-Up Attack                   | Full Power Strike                  |
     | Eldorado                          | Knight                | Cover                              | All Cover                          |
     | Elise                             | Fighter               | Armor Break                        | Wild Strike                        |
-    | Emil                              | Priest                | Madios                             | DIALKO                             |
+    | Emil                              | Priest                | MADIOS                             | DIALKO                             |
     | Eulalia                           | Knight                | Behind Cover                       | Unyielding Will to Fight           |
-    | Flut                              | Mage                  | Migal                              | MAMIGAL                            |
-    | Galina                            | Priest                | Dios                               | KUSFIS                             |
+    | Flut                              | Mage                  | MIGAL                              | MAMIGAL                            |
+    | Galina                            | Priest                | DIOS                               | KUSFIS                             |
     | Gandolfo                          | Fighter               | Heavy Attack                       | Way of the Warrior                 |
     | Gaston                            | Fighter               | Passive Attack Up (Fighter)        | Immortal Strike                    |
-    | Jarmil                            | Mage                  | Feru                               | MAFERU                             |
+    | Jarmil                            | Mage                  | FERU                               | MAFERU                             |
     | Jean                              | Thief                 | Treasure Trap Disarm Skill         | Passive Evasion Up (Thief)         |
     | Kiriha                            | Ninja                 | Armor Pierce                       | Wild Throw                         |
-    | Marianne                          | Priest                | Latumofis                          | Way of the Priest                  |
+    | Marianne                          | Priest                | LATUMOFIS                          | Way of the Priest                  |
     | Milana                            | Thief                 | Poison Attack                      | Sneak Attack                       |
     | Olive                             | Fighter               | Will to Fight                      | Immortal Strike                    |
     | Ophelia                           | Fighter               | Counterattack                      | Way of the Warrior                 |
     | Philip                            | Thief                 | Delay Attack                       | Cunning Pursuit                    |
-    | Valdor                            | Priest                | Makaltu                            | KINAPIC                            |
+    | Valdor                            | Priest                | MAKALTU                            | KINAPIC                            |
     | Viviana                           | Thief                 | Hiding                             | Passive Surety Up (Thief)          |
 
 === "Legendary Adventurers"
@@ -55,7 +55,7 @@
     | Debra                             | Thief                 | Blessing of the Beastfolk Goddess  | N/A                                |
     | Gerard                            | Knight                | Flutterdream Flash                 | N/A                                |
     | Gerulf                            | Fighter               | Flutterdream Flash                 | N/A                                |
-    | Iarumas                           | Mage of the Black Rod | Tzalik                             | N/A                                |
+    | Iarumas                           | Mage of the Black Rod | TZALIK                             | N/A                                |
     | Lanavaille                        | Knight                | Queen of War and Love              | N/A                                |
     | Red Beard                         | Priest                | Prayer of Rebellion                | N/A                                |
     | Rinne                             | Ninja                 | Moment of Finality                 | N/A                                |
