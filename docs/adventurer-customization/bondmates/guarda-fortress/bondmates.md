@@ -182,10 +182,10 @@
 ??? info "Skill"
     ![](img/old-mages-lingering-fixation-skill.png)
 
-- He will randomly spawn throughout Abyss 3.
-- Help him with his spell (battle him) a few times and he will eventually become a bondmate
+- He will randomly spawn throughout Abyss 3 from Zone 1 - 6 (with the exception of 4)
+- Help him with his spell (battle him) 3 times and he will eventually become a bondmate.
 
-!!! warning "Not sure if this bondmate is levelable."
+!!! warning "This bondmate is very tedious to farm."
 
 ### Cheating Gambler Faile
 
