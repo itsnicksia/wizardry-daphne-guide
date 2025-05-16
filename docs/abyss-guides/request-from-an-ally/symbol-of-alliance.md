@@ -21,7 +21,7 @@
   ![](./img/symbol-of-alliance-reward.png)
 
 !!! note "About the Reward"
-    This item is farmable with no CD and can spawn up to 4* Purple?. It increases Def, Mdef, and Evasion on enhancement.
+    This item is farmable with no CD and can spawn up to 4* Purple?. It increases Def, Mdef, and Evasion on enhancement. The grade, quality, and substats are random.
 
 ## Farming
 
