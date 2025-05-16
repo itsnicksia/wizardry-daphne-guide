@@ -2,7 +2,8 @@
 
 ??? note "Requirements"
     - Complete Abyss 3 up to the Cursed Wheel Point "Hidden Passage"
-    - Elmon must be alive
+    - Elmon must be alive.
+    - Everyone needs to be saved in Treacherous Trap Traversal in Abyss 1.
 
 ## Map
 
@@ -25,4 +26,4 @@
 
 ## Farming
 
-The cave remains on the world map after completion of the event. You can just go in and out to collect the chests for junk. To reset the quest though, simply go to the Cursed Wheel and select any option on or past "Hidden Passage" in Abyss 3. The option to reset this request is on the bottom left in green.
+The cave remains on the world map after completion of the event. You can just go in and out to collect the chests for junk. The Gorgons also guarantee chest drops but only respawn when the request is Cursed Wheeled. To reset the quest though, simply go to the Cursed Wheel and select any option on or past "Hidden Passage" in Abyss 3. The option to reset this request is on the bottom left in green.
