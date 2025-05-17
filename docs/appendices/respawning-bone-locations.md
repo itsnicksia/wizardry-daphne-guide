@@ -42,3 +42,5 @@ Most bones will respawn after roughly one month.
 
 ??? map "Adventurer's Remains - Catacombs"
     ![](img/respawning-bone-catacomb.jpg)
+
+    !!! note "Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location."
