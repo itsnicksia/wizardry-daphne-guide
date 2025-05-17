@@ -45,44 +45,44 @@
 
 === "Skill Source"
 
-    | Skill                                              | Source   | Potential Source | Class/Level Learned |
-    | -------------------------------------------------- | -------- | ---------------- | ------------------- |
-    | All Cover (Knight-specific)                        |          | Eldorado         |                     |
-    | Armor Break                                        | Elise    |                  |                     |
-    | Armor Pierce                                       | Kiriha   |                  |                     |
-    | Astral Break                                       | Arboris  |                  |                     |
-    | Attract Hit                                        | Eckart   |                  |                     |
-    | Blinding                                           |          | Amelia           | Thief Lvl 20        |
-    | Blood Edge                                         |          |                  | Thief Lvl 51        |
-    | Concealment (Ninja-specific)                       |          |                  |                     |
-    | Cover (Knight-specific)                            | Eldorado |                  |                     |
-    | Covert Strike (Close-range weapon-specific)        |          |                  |                     |
-    | Defensive Provoke (Close/Midrange)                 |          | Eckart           |                     |
-    | Delay Attack                                       | Philip   |                  | Thief Lvl 06        |
-    | Dissipation                                        |          |                  |                     |
-    | Eruption Strike (Close/Midrange)                   | Gerulf   |                  |                     |
-    | Fortified Strike (Melee/mid-range weapon-specific) |          |                  |                     |
-    | Full Power Strike (Fighter-specific)               |          | Elda             |                     |
-    | Glue Bomb                                          |          |                  | Thief Lvl 27        |
-    | Heavy Attack                                       | Gandolfo |                  |                     |
-    | Hiding (Thief Only)                                | Viviana  |                  | Thief Lvl 09        |
-    | Illusory Mist                                      |          |                  |                     |
-    | Immortal Strike                                    |          | Gaston, Olive    |                     |
-    | Knight's Defense (Knight-specific)                 |          |                  |                     |
-    | Line Cover (Knight-specific)                       |          |                  |                     |
-    | Mental Unity                                       |          |                  |                     |
-    | Moment of Finality                                 | Rinne    |                  |                     |
-    | Poison Attack                                      | Milana   |                  | Thief Lvl 23        |
-    | Precision Strike                                   |          |                  | Thief Lvl 03        |
-    | Self-Defense                                       |          | Clarissa         |                     |
-    | Self-Healing                                       | Clarissa |                  |                     |
-    | Sneak Attack (Thief Only)                          |          | Milana           | Thief Lvl 30        |
-    | Stun Bash (Close/Midrange)                         | Alex     |                  |                     |
-    | Thunderstrike                                      | Gerard   |                  |                     |
-    | Voice Theft                                        |          |                  |                     |
-    | Warrior's Battle Cry                               | Chloe    |                  |                     |
-    | Wild Strike (Close/Midrange)                       |          | Benjamin, Elise  |                     |
-    | Wild Throw (Long-range weapon-specific)            |          | Kiriha           |                     |
+    | Skill                                              | Source   | Potential Source |
+    | -------------------------------------------------- | -------- | ---------------- |
+    | All Cover (Knight-specific)                        |          | Eldorado         |
+    | Armor Break                                        | Elise    |                  |
+    | Armor Pierce                                       | Kiriha   |                  |
+    | Astral Break                                       | Arboris  |                  |
+    | Attract Hit                                        | Eckart   |                  |
+    | Blinding                                           |          | Amelia           |
+    | Blood Edge                                         |          |                  |
+    | Concealment (Ninja-specific)                       |          |                  |
+    | Cover (Knight-specific)                            | Eldorado |                  |
+    | Covert Strike (Close-range weapon-specific)        |          |                  |
+    | Defensive Provoke (Close/Midrange)                 |          | Eckart           |
+    | Delay Attack                                       | Philip   |                  |
+    | Dissipation                                        |          |                  |
+    | Eruption Strike (Close/Midrange)                   | Gerulf   |                  |
+    | Fortified Strike (Melee/mid-range weapon-specific) |          |                  |
+    | Full Power Strike (Fighter-specific)               |          | Elda             |
+    | Glue Bomb                                          |          |                  |
+    | Heavy Attack                                       | Gandolfo |                  |
+    | Hiding (Thief Only)                                | Viviana  |                  |
+    | Illusory Mist                                      |          |                  |
+    | Immortal Strike                                    |          | Gaston, Olive    |
+    | Knight's Defense (Knight-specific)                 |          |                  |
+    | Line Cover (Knight-specific)                       |          |                  |
+    | Mental Unity                                       |          |                  |
+    | Moment of Finality                                 | Rinne    |                  |
+    | Poison Attack                                      | Milana   |                  |
+    | Precision Strike                                   |          |                  |
+    | Self-Defense                                       |          | Clarissa         |
+    | Self-Healing                                       | Clarissa |                  |
+    | Sneak Attack (Thief Only)                          |          | Milana           |
+    | Stun Bash (Close/Midrange)                         | Alex     |                  |
+    | Thunderstrike                                      | Gerard   |                  |
+    | Voice Theft                                        |          |                  |
+    | Warrior's Battle Cry                               | Chloe    |                  |
+    | Wild Strike (Close/Midrange)                       |          | Benjamin, Elise  |
+    | Wild Throw (Long-range weapon-specific)            |          | Kiriha           |
 
 ## Passive Skills    
 

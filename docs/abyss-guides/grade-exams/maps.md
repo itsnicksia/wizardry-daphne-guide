@@ -49,7 +49,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 ## Steel Exam
 
-![](img/steel-grade-map.jpg)
+![](img/steel-grade-map.png)
 
 **Special Notes**
 

@@ -24,7 +24,7 @@
 There are three routes to choose for the Gaurda Fortress Abyss:
 
 1. Princess Pulgritte
-2. Pontiff Dua Lipa
+2. Pontiff Leaufonde
 3. Admiral Avare
 
 You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" request from the **Royal Capital Luknalia** Adventurer's Guild.
@@ -51,6 +51,10 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         1. Fight your way through B1F until you pass a Sentry to reach the **Minor Harken**. 
         2. Travel south from the Harken and descend the stairs to B2F.
 
+    ??? note "Walkthrough 2nd Run and onwards"
+        1. You can use the golem nearby to block the view of the Sentry.
+        2. Continue as usual.
+
 ??? map "Zone 2 -Old Secret Passage B2F-"
     ![](./img/zone-2-complete.jpg)
 
@@ -72,6 +76,10 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
         - The lever must be activated at the end of the Orange route to continue on the blue path.
         - The Harken is after the boss at the end of the Green route.
+
+    ??? note "Walkthrough 2nd Run and onwards"
+        1. This will be about the same, except the golems can be used to block the Corruption Sentry's line of view. The top golem is optional but the bottom golem is necessary to block the view of the sentry in the way.
+        2. Continue as usual.
 
         !!! map "Zone 2 -Old Secret Passage B2F-"
             ![](./img/zone-2-path.png)
@@ -115,6 +123,10 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Upon returning from this floor to town, the slum faction request will become available.
         - It should be a straight shot to the end of this floor. There is no need to enter through any one-way doors past the first room of this floor. There will be a lot of sentry patrols around the end of the floor, so be cautious about maneuvering as you get closer to the end.
 
+    ??? note "Walkthrough 2nd Run and onwards"
+        1. There is only 1 golem that is needed to be pushed in this map, and it's the bottom one of the two at the bottom of the map.
+        2. Continue on as usual.
+
 ??? map "Zone 6 -Prehistoric Corridor B2F-"
     ![](./img/zone-6-complete.jpg)
 
@@ -126,6 +138,12 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     ??? note "Walkthrough 1st Run"
         - There are three paintings on this floor that give key knowledge. The painting at the very end will not be available to view until the second run onwards. 
         - Alarm traps are introduced on this floor. Generally, they just spawn 1 or 2 hostile enemies nearby, but they can be easily avoided. The very last alarm trap on the floor before the Cross Intersection will spawn a Corruption Sentry that is unavoidable without the Right Hand power of this abyss.
+        
+    ??? note "Walkthrough 2nd Run and onwards"
+        1. The concept of crushing alarm traps is introduced in this map. You need to crush the alarm trap near the end to prevent it from spawning the Corruption Sentry.
+        2. Remember to view the painting near the end of the map.
+
+        ![](./img/golem-answer-6.png)
 
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
     ![](./img/zone-7-complete.jpg)
@@ -137,6 +155,13 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
     ??? note "Walkthrough 1st Run"
         - A somewhat difficult floor due to being a battle of attrition in saving resources to fight the floor boss. There is no need to enter any one-way doors and it's not necessary to step on any poison tiles on the first run through.
+
+    ??? note "Walkthrough 2nd Run and onwards"
+        1. The concept of crushing sentries is introduced on this map. You will need to do so to pass by the Corruption Sentry in the room with 6 Golems in two parallel lines.
+        2. Near the end, you can skip the Doll boss entirely by crushing them with a Golem.
+
+        ![](./img/golem-answer-7.png)
+        ![](./img/golem-kill-boss.png)
 
     ??? danger "Boss: Doll"
         - Abilities: Charm, Confuse, MP Drain
@@ -159,9 +184,12 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Combat Sentry: 2 Vampires + 2 Succubus
         - Combat Sentry: 1 Greater Demon + 1 Minotaur
 
-    ??? note "Walkthrough 1st Run (Upwards)"
-        - From this point onwards, there are no rest points until the Zone 9 Harken is reached. However, it is not as simple as walking from Zone 8 to Zone 9. It will be a walk from Zone 8 to Zone 10 and then falling down to the Zone 9 Harken. There is no need to walk through one-way doors.
-        - Luckily, you won't need to explore a whole floor each time but rather just small portions of each floor. It is recommended however to carry a lot of consumables before continuing, as the Sentries on this floor are a lot stronger than previous floors.
+    ??? note "Walkthrough 1st Run (1st Half from Zone 8 to 9)"
+        1. From this point onwards, there are no rest points until the Zone 9 Harken is reached. However, it is not as simple as walking from Zone 8 to Zone 9. It will be a walk from Zone 8 to Zone 10 and then falling down to the Zone 9 Harken. There is no need to walk through one-way doors.
+        2. Luckily, you won't need to explore a whole floor each time but rather just small portions of each floor. It is recommended however to carry a lot of consumables before continuing, as the Sentries on this floor are a lot stronger than previous floors.
+
+    ??? note "Walkthrough 1st Run (2nd Half from Zone 9 to Zone 8 back to Zone 9)"
+        - You will drop down and the nearby door is blocked by corruption. Ignore this for now and continue onwards. You're forced to pass by a Corruption Sentry in the bottom left of the map.
 
 ??? map "Zone 9 -Fortress 2F Entrance-"
     ![](./img/zone-9-complete.jpg)
@@ -171,8 +199,11 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Combat Sentry: 2 Vampires + 2 Succubus
         - Combat Sentry: 1 Greater Demon + 1 Minotaur'
 
-    ??? note "Walkthrough 1st Run 1st Half (Upwards)"
-        - There may be a room that will lock behind you on this floor. There is a rotating sentry and corruption sentry inside. You will need to get seen by the corruption sentry to access the door with the switch that opens the door out of this room.
+    ??? note "Walkthrough 1st Run (1st Half from Zone 9 to Zone 10)"
+        - There may be a room that will lock behind you on this floor. There is a rotating sentry and corruption sentry inside. You will need to get seen by the corruption sentry to access the door with the switch that opens the door out of this room. Otherwise it will be straightforward.
+
+    ??? note "Walkthrough 1st Run (2nd Half from Zone 8 to Zone 10)
+        - Similar to the 1st Half depending on map generation.
 
 ??? map "Zone 10 -Fortress 3F Lord's Room-"
     ![](./img/zone-10-complete.jpg)
