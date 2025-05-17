@@ -39,3 +39,6 @@ Most bones will respawn after roughly one month.
     ![](img/respawning-bone-pier-location.png)
 
     !!! note "Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then."
+
+??? map "Adventurer's Remains - Catacombs"
+    ![](img/respawning-bone-catacombs.jpg)
