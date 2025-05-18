@@ -12,6 +12,8 @@ nav:
       - Maps: './3-guarda-fortress/maps.md'
       - Requests: './3-guarda-fortress/requests.md'
       - Important Request / Greater Warped One: './3-guarda-fortress/important-request-gwo.md'
+      - Misc Bosses:
+          - Morgus, God of Death: './3-guarda-fortress/misc-bosses/morgus-god-of-death.md'
   - Ancient Mausoleum: './ancient-mausoleum/maps.md'
   - Dens:
       - Den of Earth: './dens/den-of-earth.md'
@@ -19,5 +21,5 @@ nav:
       - Den of Wind: './dens/den-of-wind.md'
       - Den of Light: './dens/den-of-light.md'
   - Grade Exams: './grade-exams/maps.md'
-  - Misc Bosses:
-      - Morgus, God of Death: './misc-bosses/morgus-god-of-death.md'
+  - Request from an Ally:
+      - Symbol of Alliance: './request-from-an-ally/symbol-of-alliance.md'

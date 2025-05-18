@@ -1,7 +1,7 @@
 # Morgus, God of Death
 
 ??? note "Requirements"
-    - Clear [Expose the Intruder Request](../3-guarda-fortress/requests.md#expose-the-intruder)
+    - Clear [Expose the Intruder Request](../requests.md#expose-the-intruder)
 
 !!! danger "Morgus, God of Death"
     ![](./img/morgus.png)
@@ -54,3 +54,5 @@
     ![](./img/morgus-salty.png)
     ![](./img/morgus-reward.png)
     ![](./img/morgus-achievement.png)
+
+    !!! note "As of now, it seems the ring can possibly spawn up to 4* and purple"

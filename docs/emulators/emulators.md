@@ -1,8 +1,10 @@
-# Steam
+# Playing on PC
+
+## Steam
 
 This one is self explanatory.
 
-## Steam Install to another Gaming Drive
+### Steam Install to another Gaming Drive
 
 If you have C:\ space issues, or want to keep big installs off of your nice SSD, here's how to symb link.
 
@@ -43,21 +45,19 @@ This is the symbolic link. Any data sent there actually ends up in your alternat
 
 [Steam Guide for Migrating Install Directory from C:](https://steamcommunity.com/sharedfiles/filedetails/?id=3442910407)
 
-## Credits
+### Credits
 Thanks to \_.byakko_ on Discord. 
 
-# Emulators
-## Video Guide For Bluestacks and LDPlayer
+## Emulators
+### Video Guide For Bluestacks and LDPlayer
 [![Video For Bluestacks and LDPlayer Guides](img/Wizardry%20Emulator.png "How to Download Wizardry Variants Daphne on Bluestacks and LDPlayer")](https://www.youtube.com/watch?v=ZQayUMXtN0U)
 
-
-## Bluestacks
+### Bluestacks
 1. Download the Latest Version of [Bluestacks 5 Android 11 64-bit](https://www.bluestacks.com/download.html)
     ![](img/bluestacks-download.png)
     ![](img/bluestacks-android11.png)
 
     **Make sure your installed instance is Android 11**
-
 
 2. Change Graphics Renderer to Vulkan
     ![](img/bluestacks-vulkan.png)
@@ -88,17 +88,17 @@ Go to Settings->Apps->Wiz Daphne->Storage & Cache->**CLEAR CACHE** and **NOT CLE
     ![](img/bluestacks-wiz-storagecache.png)
     ![](img/bluestacks-wiz-clearcache.png)
 
-    
 **IF YOU CLEAR STORAGE YOU DELETE YOUR ACCOUNT. THE ONLY WAY TO RECOVER THE ACCOUNT IS IF YOU ALREADY LINKED IT**
 
-## LDPlayer
+### LDPlayer
+
+!!! warning
+    As of version 1.9, there are reported issues with the game not being playable with LDPlayer. If you experience any issues, try Bluestacks or the Steam version
 
 1. Download the Lastest Version of [LDPlayer9](https://www.ldplayer.net/other/version-history-and-release-notes.html)
     ![](img/ldplayer-download.png)
     
-
     **Make sure your installed version is at least 9.1.26.3 or up**
-
     
 2. You won't be able to download through the Google Playstore so you will have to download a Third Party Downloader like [APKPure](https://apkpure.com/apkpure/com.apkpure.aegon/download/) or downloading the latest APKs Online
     
