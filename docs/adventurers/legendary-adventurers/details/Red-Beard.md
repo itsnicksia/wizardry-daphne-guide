@@ -32,7 +32,7 @@
 
     Red Beard has an interesting and somewhat contradictory skill set that make him simultaneously unique and difficult to optimally use.
 
-    First, in his favor, is his Neutral personality. This lets him fit well in the front row with Lana or in the back row with Alice and not mess up their row buffs. He also brings us one step closer to easily being able to run a full Good/Neutral or a full Evil/Neutral party while enabling Lana's or Alice's buffs for both rows.
+    First, in his favor, is his Neutral personality. This lets him fit well in the front row with Lana or in the back row with Alice and not mess up their row buffs.
 
     His Apostle of Breaking skill provides some nice resistances for himself and any adjacent dark allies. The weird thing about this is that as a priest, he's usually going to be in the back row, which can force you to decide between placing him in the middle to allow him to buff three dark allies, which prevents you from placing a mage in the middle to leverage their secret art. If you place him on an edge, he can only buff two allies. You can also place him in the front row, but the limitation there is that Priests have limited equipment options compared to other physical damage dealers and they have a reduced Strength to Attack Power modifier, which means he'll have overall lower attack and not be able to take full advantage of his own unique spell.
 

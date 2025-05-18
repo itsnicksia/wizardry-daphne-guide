@@ -14,4 +14,7 @@ nav:
   - Purchase Evaluation: './purchase-evaluation.md'
   - Purchaseable Skill Books: './purchaseable-skill-books.md'
   - Respawning Bone Locations: './respawning-bone-locations.md'
-  - Skills and Spells: './skills-and-spells.md'
+  - Skills And Spells:
+      - Class Skill Quicklist: './skills-and-spells/class-skill-quicklist.md'
+      - Inherit Skill Quicklist: './skills-and-spells/inherit-skill-quicklist.md'
+      - Full Skills and Spells List: './skills-and-spells/skills-and-spells.md'
