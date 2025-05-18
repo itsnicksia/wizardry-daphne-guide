@@ -209,8 +209,21 @@ but this requires stacking Magic Power up to around 200 for each.
         3. Interact with any candle besides the one near the entrance.
         4. Repeatedly light the candle and farm the chest drop.
 
-        !!! note "Lulu will berate you for failing the puzzle, and has unique dialogue up to 3 times. On the 3rd time she will just sigh at you"
+        !!! note "Lulu will berate you for failing the puzzle, and has unique dialogue up to 3 times. On the 3rd time onwards she will just sigh at you"
 
-        !!! caution "As of 1.8.0, this fight no longer guarantees chest drop. Also, the candles spawn random enemies from a set batch."
+        !!! caution "As of 1.8.0, this fight no longer guarantees chest drop (drops at normal rate). Also, the candles spawn random enemies from a set batch."
 
         ![](img/catacombs-candle.png)
+
+### Elmon Farm (Le Bicken Cave Farm)
+
+!!! map
+    ![](img/le-bicken-cave.jpg)
+
+    ??? note "Strategy"
+
+        1. Complete Symbol of Alliance request from an ally to familiarize yourself with the map.
+        2. Cursed Wheel to reset the request. To expedite farming, set the Inventory Refill (next to settings button) to automatically fill your team's inventory with the quest items you can afford when resting at an Inn. You can manually refill with this setting if don't need to rest between resets.
+        3. Complete the request again while grabbing all the chests (The Gorgons only respawn on request reset and are guaranteed chest drops).
+
+        !!! note "If you're not strong enough to fight the Gorgons easily, feel free to just go in and out of the map to collect chests with minimal battles, as chests respawn when you leave the map"
