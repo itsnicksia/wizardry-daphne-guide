@@ -213,7 +213,7 @@ Goetia -> Admiral Route
     ![](img/image_21.png)
 
 - Go to B3 of Beginning Abyss and head to the Goblin Nest (Refer to Titanium Ore Delivery Request under Flooded Town Requests for location)  
-- Not sure if needed but after checking all the locations for the ore that were marked in Titanium Delivery Request it started a dialogue to look for the Ore guy that was seen blocking the way earlier  
+- Check all the locations for the ore that were marked in Titanium Delivery Request and then look for the Ore guy that was seen blocking the way earlier  
 - After finding his body, fight the ambushing goblins off  
 - Return that ore to Gessi
 
