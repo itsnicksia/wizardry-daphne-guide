@@ -4,6 +4,7 @@ nav:
       - Beginning Abyss: './wheel-causality/beginning-abyss.md'
       - Port Town Grand Legion: './wheel-causality/port-town-grand-legion.md'
       - Guarda Fortress: './wheel-causality/guarda-fortress.md'
+      - Ally Requests: './wheel-causality/ally-requests.md'
   - Dispatches: './dispatches.md'
   - Equipment:
       - Weapon Types: './equipment/weapon-types.md'
@@ -11,7 +12,7 @@ nav:
       - Equipment Enhancement Tables: './equipment/equipment-tables.md'
   - Enemies: './enemy-compendium.md'
   - Harken's Blessings: './harkens-blessings.md'
-  - Purchase Evaluation: './purchase-evaluation.md'
+  - Purchase Evaluation: './purchase-evaluations.md'
   - Purchaseable Skill Books: './purchaseable-skill-books.md'
   - Respawning Bone Locations: './respawning-bone-locations.md'
   - Skills And Spells:
