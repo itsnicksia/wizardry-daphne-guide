@@ -58,7 +58,7 @@
 
 - Go to the blacksmith to activate this quest  
 - Go to the guild and accept the request   
-- Continue on until B6 then collect the 2 Rhodium  
+- Continue on until B6F then collect the 2 Rhodium  
 - Turn in the request  
 - Go back to the blacksmith
 
@@ -76,7 +76,7 @@
 ??? info "Request"
     ![](img/image_19.png)
 
-- Go to B1 and defeat the Ambush
+- Go to B1F and defeat the Ambush
 
 ??? map "Location"
     ![](img/image_20.png)
@@ -88,10 +88,12 @@
 ??? info "Request"
     ![](img/image_24.png)
 
-- Defeat the 6 goblin packs in B1
+- Defeat the 6 goblin packs in B1F
 
 ??? map "Location"
     ![](img/image_25.png)
+
+!!! note "There is a letter for Donato on a corpse on floor B4F.  Once this letter is found, subsequent completions of this request will give Donato as a bondmate."
 
 ## Despicable Trap
 
@@ -100,7 +102,7 @@
 ??? info "Request"
     ![](img/image_29.png)
 
-- Fight the enemies blocking the Ebonsteel on B4  
+- Fight the enemies blocking the Ebonsteel on B4F
 - Pick up the Ebonsteel from the sparkle on the ground
 
 ??? map "Location"
@@ -112,7 +114,7 @@
 ??? info "Request"
     ![](img/image_31.png)
 
-- Defeat the 3 enemies on B3
+- Defeat the 3 enemies on B3F
 
 ??? map "Location"
     ![](img/image_32.png)
@@ -124,7 +126,7 @@
 
 - You will activate this request as part of the Albano Bondmate line  
 - Go to the inn upon accepting the request  
-- Go to B5 and kill the mimic to get the glowstone  
+- Go to B5F and kill the mimic to get the glowstone  
 
 ??? map "B5F Mimic Location"
     ![](img/image_34.png)
@@ -132,7 +134,7 @@
     !!! note
         The chest does not appear on the map
 
-- Go to B3 and find the 2 flowers
+- Go to B3F and find the 2 flowers
 
 ??? map "B3F Flower Locations"
     ![](img/image_35.png)
@@ -151,7 +153,7 @@
 ??? info "Request"
     ![](img/image_44.png)
 
-- Go to B4 and fight the vorpal bunny 4 times
+- Go to B4F and fight the vorpal bunny 4 times
 
 ??? map "Locations"
     ![](img/image_45.png)
@@ -164,7 +166,7 @@
 ??? info "Request"
     ![](img/image_46.png)
 
-- Save Mel and her party on B5
+- Save Mel and her party on B5F
 
 ??? map "Location"
     ![](img/image_47.png)
@@ -177,7 +179,7 @@
     ![](img/image_52.png)
 
 1. Talk to Sophia in the tavern  
-2. Find Lambert on B7. Engage in a fight with 3 Gluttonous Maws.
+2. Find Lambert on B7F. Engage in a fight with 3 Gluttonous Maws.
 3. Return to Sophia in the tavern to obtain a Digging Mattock as a reward.
 
 ??? map "Location"
@@ -185,7 +187,7 @@
 
 Alternate Ending:
 
-4. Wheel back to Treacherous Floor Traversal and find Lambert on B5F. Tell him that Sophia is looking for him.
+4. After having accepted Sophia's request once, wheel back to Treacherous Floor Traversal and find Lambert on B5F. Tell him that Sophia is looking for him.
 5. Cursed Wheel to Warped Scene and accept the request. Obtain Sophia as a bondmate
 
 ??? map "Final Location"
@@ -208,7 +210,7 @@ Alternate Ending:
 ??? info "Request"
     ![](img/image_57.png)
 
-- Take the Harken to B7  
+- Take the Harken to B7F
 - Step out and defeat the enemies
 
 ??? map "Location"
@@ -222,7 +224,7 @@ Alternate Ending:
     ![](img/image_64.png)
 
 - Go to the tavern and talk to the Gloomy Adventurer  
-- Go to B7 and get the Bladeless Dagger  
+- Go to B7F and get the Bladeless Dagger  
 - Return to the tavern and give it to him
 
 ??? map "Location"
@@ -236,7 +238,7 @@ Alternate Ending:
 ??? info "Request"
     ![](img/image_66.png)
 
-- Take the Harken to B8  
+- Take the Harken to B8F
 - Fight the waves of enemies
 
 ??? map "Location"

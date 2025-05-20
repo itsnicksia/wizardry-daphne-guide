@@ -10,14 +10,14 @@
 ??? info "Skill"
     ![](img/chris-skill.jpg)
 
-**B1**:
+**B1F**:
 
-- Find his corpse in order to gain the **Adventurers' Demise** knowledge. In order for the corpse to appear, the player needs to talk to Chris, complete the floor, enter B2F and go back to town. After entering B1F again the corpse will appear. 
+- Find his corpse in order to gain the **Adventurers' Demise** knowledge. In order for the corpse to appear, the player needs to talk to Chris on B1F, complete the floor, enter B2F and go back to town. After entering B1F again the corpse will appear. 
 
 ??? map "Chris Starting Point"
     ![](img/chris-starting-point.jpg)
 
-1. Talk to him at the location below  
+1. After having found his corpse, talk to him again at the location below and offer to collect the guild tags for him.
 2. Fetch his friends guild tags.
 3. Battle the scavengers that show up.
 4. Chris will usually show up automatically after you walk a bit away from the location. Receive the bondmate.
@@ -35,16 +35,22 @@
 ??? info "Skill"
     ![](img/mudd-skill.jpg)
 
-1. Meet Mudd on B1 and tell him to leave the dungeon  
+- Find his corpse in order to gain the **Rookie Adventurer's Demise** knowledge. In order for his corpse to appear, the player needs to talk to Mudd on B1F, then on B2F his corpse will be in the Spinner Woman room.
+
+??? map "Mudd Corpse Location"
+    ![] (img/mudd-corpse-location.jpg)
+
+1. After having found Mudd's corpse, talk to him again on B1F and tell him to leave the dungeon.
 
 ??? map "B1F location"
     ![](img/image_14.png)
 
-2. Rescue him on B3  
+2. Rescue him on B3F.
 
 ??? map "B3F location"
     ![](img/image_15.png)
-3. Rescue him on B4
+
+3. Rescue him again on B4F. Receive the bondmate.
 
 ??? map "B4F location"
     ![](img/image_16.png)
@@ -63,7 +69,7 @@
 
 - After saving him, head to the Tavern in Royal Capital. He will yap to you and become a bondmate.
 
-!!! warning "Sir Maurice is permanently at level 1"
+!!! warning "Sir Maurice is permanently at level 1 and if dismissed cannot be reacquired."
 
 ## Warped One Vanquished
 
@@ -86,7 +92,7 @@
 7. Reconcile Albano and the Marquis back in town  
 8. Head back to the Edge of Town after saving the King
 
-!!! note "To farm, you can simply switch the options from recounciled to do nothing and back, and repeat Step 8."
+!!! note "To farm, you can simply switch the options from recounciled to do nothing and back, and repeat Step 8.  Alternatively, Cursed Wheel to Fresh Start and then back to The King's Rescue and repeat Step 8."
 
 ## Major Harken Unlocked
 
@@ -98,7 +104,7 @@
 ??? info "Skill"
     ![](img/donato-skill.jpg)
 
-1. Find Donato’s letter on B4.  
+1. Find Donato’s letter on B4F.
 2. Accept [Donato’s Redemption Request](../../../abyss-guides/1-beginning-abyss/requests.md#donatos-redemption)
 3. Turning in the request will give him as a bondmate.
 
@@ -117,12 +123,12 @@
 ??? info "Skill"
     ![](img/ira-skill.jpg)
 
-- Revive her on B5 at the location below.  
-- Take her back to the church and donate 500g.
-- Cursed Wheel to Warped Scene.
-- Visit the church and donate another 500g.
-- Cursed Wheel again to Warped Scene. 
-- Visit the church again to prompt her farewell scene.
+1. Revive her on B5F at the location below.
+2. Take her back to the church and donate 500g.
+3. Cursed Wheel to Warped Scene (or go to any floor B6F or lower).
+4. Visit the church and donate another 500g.
+5. Cursed Wheel again to Warped Scene (or go to any floor B7F or lower).
+6. Visit the church again to prompt her farewell scene.
 
 ??? map "Location"
     ![](img/image_38.png)
@@ -137,17 +143,17 @@
 ??? info "Skill"
     ![](img/harry-skill.jpg)
 
-1. Revive him on B5
+1. Revive him on B5F.
 
 ??? map "B5F Location"
     ![](img/image_39.png)
 
-2. Find him again on B6 and give him a Potion  
+2. Find him again on B6F and give him any Healing Potion or Medicinal Herb.
 
 ??? map "B6F Location"
     ![](img/image_40.png)
 
-3. Witness his final moments on B7
+3. Witness his final moments on B7F.
 
 ??? map "B7F Location 1"
     ![](img/image_42.png)
@@ -188,7 +194,7 @@
 
 ### Gary the Brave
 
-??? info "Gary tthe Brave"
+??? info "Gary the Brave"
     ![](img/image_59.png)
 
 ??? info "Skill"
@@ -204,7 +210,7 @@
 ??? map "Location"
     ![](img/image_60.png)
 
-!!! warning "Gary the Brave is permanently at level 1"
+!!! warning "Gary the Brave is permanently at level 1 and if dismissed cannot be reacquired."
 
 ### Sir Jack, Undead Smiter
 
@@ -228,7 +234,9 @@
 
 - Complete the [Search for Lambert Request](../../../abyss-guides/1-beginning-abyss/requests.md#search-for-lambert)
 
-!!! note "To farm, Cursed Wheel to Warped Scene and complete the request again."
+!!! note "To farm reward items, Cursed Wheel to Warped Scene and complete the request again."
+
+!!! warning "Sophie as a bondmate is permanently at level 1 and if dismissed cannot be reacquired.""
 
 ## The King’s Rescue
 
@@ -241,13 +249,13 @@
     ![](img/boss-goblin-skill.jpg)
 
 1. Defeat the goblin boss on the top right of the Goblin's Nest before the Greater Warped One is defeated.
-2. Wheel to `Major Harken Unlocked` then back to `The King’s Rescue`.
-3. Meet him again and select “Slash” and then “Let it go”
+2. Wheel to `Major Harken Unlocked` then back to `Warped Scene` or `The King’s Rescue`.
+3. Meet him again,  select “Slash”, defeat them, and then select “Let it go”.
 4. Go back to town and talk to the elf at the tavern.
-5. Go back to the goblin's den and be sure to collect the translucent stones on the south side until you find the goblin boss or else the goblin boss won't appear. The goblin will ambush you.
-6. After the fight, the goblin boss will plead again, choose "Let it go" again.
-7. Go out of the goblin's den. Then, go back in.
-8. Then, go to the next room or the room just outside where you fought the goblin boss, you'll find the boss standing in the middle of the room. After the dialogue, choose "Let it go" again, then you'll get the bondmate.
+5. Go back to the goblin's den. Collect all translucent stones in the hallway approaching and in the southeast room until you find the goblin boss or else the goblin boss won't appear. The goblin will ambush you. (Warning, this can be a difficult fight.)
+6. After the fight the goblin boss will plead again. Choose "Let it go" again.
+7. Go out of the goblin's den. Then, go right back in.
+8. Go back to the room just outside where you last fought the goblin boss. You'll find the boss standing in the middle of the room. After the dialogue, choose "Let it go" again, then you'll get the bondmate.
 
 ??? map "Location"
     ![](img/boss-goblin-final-spot.jpg)
@@ -264,10 +272,10 @@
 ??? info "Skill"
     ![](img/jelly-skill.jpg)
 
-- Can be randomly found in the Beginning Abyss (does not show on the map)  
-- Feed it. The higher the tier of chunk given, the faster it becomes a bondmate.
+- Can be randomly found in the Beginning Abyss (does not show on the map).
+- Feed it translucent stones or azure ore. The higher the value of ore given, the faster it will become a bondmate.
 
-!!! warning "Ghreen Jelly is permanently at level 1" 
+!!! warning "Ghreen Jelly is permanently at level 1 and if dismissed cannot be reacquired."
 
 ??? info "Appearance"
     ![](img/image_69.png)
