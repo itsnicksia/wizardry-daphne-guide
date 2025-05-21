@@ -1,3 +1,4 @@
+name,type,effect,level_effect
 ABIT,damage,Words of prayer that remove 1 debuff from 1 ally row.,Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.
 Advice of the Skull,passive,Increases damage against undead and decreases damage from undead.,
 Agent of Heresy,passive,Increases damage to enemies for everyone in a row if it has only evil or neutral allies.,
@@ -140,7 +141,6 @@ MONTINO,damage,Silence over a wide area envelopes 1 enemy row with a chance of S
 MORLIS,damage,Generates an acidic mist over a wide area with a chance of reducing the Defense Power of 1 enemy row for 3 turns.,Probability increased while Defense Power decreased incrementally based on skill level. More turns added.
 Mudd's Caution,passive,Continuously increases Detect.,Detect increased further based on skill level.
 Mutual Interests,passive,Increases damage to enemies for user and allies in front of or behind them if the ally is evil.,
-name,type,effect,level_effect
 Nameless Loyalty,passive,Increases Tolerance of Sleep and Stun for user and all adjacent good allies.,
 Ninja Dual Wield (Ninja-specific),passive,"When equipped with a dagger, a dagger can be equipped in the left hand. When equipped with a throwing weapon, a throwing weapon can be equipped in the left hand. When using Ninja Dual Wield, Evasion and Action Speed are reduced.","Damage reduction rate is reduced when attacking with the left hand, based on skill level. The rate of left-hand Attack Power added to right-hand Attack Power when using attack skills is increased."
 NOFIS,damage,Calls forth a calamity over a wide area with a chance of reducing the Magic Defense of 1 enemy row for 3 turns.,Probability increased while Magic Defense further decreased based on skill level.
