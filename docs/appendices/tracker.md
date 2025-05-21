@@ -1,16 +1,14 @@
 <style>
-  /* give some breathing room under the sync UI */
+
   #sync-container {
     margin-bottom: 1.5rem;
   }
 
-  /* allow horizontal scroll on narrow screens */
   #tracker-container {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
 
-  /* table reset & fixed layout so columns respect our widths */
   #tracker-container table {
     border: 1px solid rgba(221, 209, 183, 0.3);
     width: 100%;
@@ -18,7 +16,6 @@
     border-collapse: collapse;
   }
 
-  /* assign column widths: 60% title, 20% date, 20% action */
   #tracker-container th:nth-child(1),
   #tracker-container td:nth-child(1) {
     width: 60%;
@@ -30,10 +27,9 @@
   #tracker-container th:nth-child(3),
   #tracker-container td:nth-child(3) {
     width: 20%;
-    white-space: nowrap; /* keep button on one line */
+    white-space: nowrap; 
   }
 
-  /* ensure long text wraps in the first two columns */
   #tracker-container th,
   #tracker-container td {
     border: 1px solid var(--md-typeset-fg-color--light);
@@ -118,7 +114,6 @@
     outline-offset: 2px;
   }
 
-  /* modal overlay + content */
   #modal {
     display: none;
     position: fixed;
@@ -151,7 +146,6 @@
     margin: 0 auto;
   }
 
-  /* responsive tweaks */
   @media (max-width: 600px) {
     #tracker-container p {
       font-size: 0.85rem;
@@ -172,7 +166,7 @@
     #tracker-container .entry-link {
       font-size: 0.75rem;
     }
-    /* switch to auto layout on very small screens */
+    
     #tracker-container table {
       table-layout: auto;
     }
