@@ -134,7 +134,6 @@
     <tbody></tbody>
   </table>
 </div>
-f
 <div id="modal">
   <div class="modal-content">
     <span class="modal-close">×</span>
