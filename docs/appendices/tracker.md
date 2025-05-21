@@ -166,7 +166,7 @@
     #tracker-container .entry-link {
       font-size: 0.75rem;
     }
-    
+
     #tracker-container table {
       table-layout: auto;
     }
