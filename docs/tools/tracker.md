@@ -264,49 +264,49 @@
         id: 'b1f_stench_quest',
         title: 'Class Remains: B1F (Death Stench Investigation Request)',
         details: 'Wheel to Fresh Start and get to the first harken then return and accept the Request',
-        image: '../img/respawning-bone-death-stench.jpg',
+        image: '/appendices/img/respawning-bone-death-stench.jpg',
         clickable: true
       },
       {
         id: 'b3f_goblin_south',
         title: 'Adventurers Remains: B3F (Goblin’s Nest)',
         details: 'Wheel to Kings Rescue and head to the location',
-        image: '../img/respawning-bone-goblin-den.jpg',
+        image: '/appendices/img/respawning-bone-goblin-den.jpg',
         clickable: true
       },
       {
         id: 'b4f_rubble',
         title: 'Adventurers Remains: B4F',
         details: 'Assuming you wheeled to Kings Rescue already, head to the location',
-        image: '../img/respawning-bone-b4f.jpg',
+        image: '/appendices/img/respawning-bone-b4f.jpg',
         clickable: true
       },
       {
         id: 'b5f_toxin_swamps',
         title: 'Adventurers Remains: B5F',
         details: 'Assuming you wheeled to Kings Rescue already, head to the location',
-        image: '../img/respawning-bone-b5f.jpg',
+        image: '/appendices/img/respawning-bone-b5f.jpg',
         clickable: true
       },
       {
         id: 'b6f_before_statue',
         title: 'Adventurers Remains: B6F',
         details: 'Same as above, you need to come in from B5F to take the portals',
-        image: '../img/respawning-bone-b6f.jpg',
+        image: '/appendices/img/respawning-bone-b6f.jpg',
         clickable: true
       },
       {
         id: 'b7f_rubble_reverse',
         title: 'Adventurers Remains: B7F',
         details: 'Same as below, you need to first drop the rocks on B8F',
-        image: '../img/respawning-bone-b7f.jpg',
+        image: '/appendices/img/respawning-bone-b7f.jpg',
         clickable: true
       },
       {
         id: 'b8f_nutrient',
         title: 'Adventurers Remains: B8F',
         details: 'Assuming you wheeled to Kings Rescue already, head to the location',
-        image: '../img/respawning-bone-b8f.jpg',
+        image: '/appendices/img/respawning-bone-b8f.jpg',
         clickable: true
       },
       { subheader: 'Trade Waterway' },
@@ -314,7 +314,7 @@
         id: 'trade_waterway_pier',
         title: 'Adventurers Remains: 7th District (Shore of the Dead)',
         details: 'Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then.',
-        image: '../img/respawning-bone-pier-location.png',
+        image: '/appendices/img/respawning-bone-pier-location.png',
         clickable: true
       },
       { subheader: 'Impregnable Fortress' },
@@ -322,7 +322,7 @@
         id: 'fortress_catacombs',
         title: 'Adventurers Remains: Catacombs',
         details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location.',
-        image: '../img/respawning-bone-catacomb.jpg',
+        image: '/appendices/img/respawning-bone-catacomb.jpg',
         clickable: true
       }
     ]
