@@ -1,7 +1,13 @@
 <style>
 
+  #sync-container {
+  margin-bottom: 1.5rem; /* or whatever spacing you like */
+}
+
   #tracker-container table {
+    border: 1px solid rgba(221, 209, 183, 0.3);
     width: 100%;
+    table-layout: fixed;  
     border-collapse: collapse;
   }
   #tracker-container th,
@@ -11,6 +17,8 @@
     vertical-align: top;
     font-size: 0.9rem;
     text-align: left;
+    word-wrap: break-word;
+  white-space: normal;
   }
   
   #tracker-container thead th {
@@ -19,7 +27,7 @@
     font-weight: 600;
   }
 
-  #tracker-container .section-header td {
+  #tracker-container .section-header td {f
     background-color: rgba(51,51,51,0.8);
     color: var(--md-default-fg-color--light);
     font-weight: bold;
@@ -114,14 +122,18 @@
   </p>
   <div id="sync-container"></div>
 
-  <table id="tracker">
+  <table id="tracker" class="no-sort">
+  <colgroup>
+    <col style="width: 70%;">
+    <col style="width: 18%;">
+    <col style="width: 12%;">
+  </colgroup>
     <thead>
       <tr><th>Entry</th><th>Last Collected</th><th>Action</th></tr>
     </thead>
     <tbody></tbody>
   </table>
 </div>
-
 <div id="modal">
   <div class="modal-content">
     <span class="modal-close">×</span>
