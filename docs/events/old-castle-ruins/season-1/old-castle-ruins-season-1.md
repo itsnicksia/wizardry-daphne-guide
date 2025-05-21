@@ -1,4 +1,4 @@
-# Old Castle Ruins
+# Old Castle Ruins - Season 1
 
 ## Notes about maps
 1. The maps don't seem to reset.
