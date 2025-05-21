@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <title>Reader</title>
+  <style>
+    #repl {
+      height: 50vh;
+      display: block;
+      font-size: 2rem;
+    }
+  </style>
+</head>
+<body>
+<script
+  src="https://cdn.jsdelivr.net/npm/@electric-sql/pglite-repl/dist-webcomponent/Repl.js"
+  type="module"
+></script>
+
+
+<!-- Include the Repl web component in your page -->
+<pglite-repl id="repl"></pglite-repl>
+
+<script type="module">
+  import { PGlite } from 'https://cdn.jsdelivr.net/npm/@electric-sql/pglite/dist/index.js'
+
+  // Create a PGlite instance
+  const pg = new PGlite()
+
+  // Retrieve the Repl element
+  const repl = document.getElementById('repl')
+
+  // REPL to your PGlite instance
+  repl.pg = pg
+
+  // Fetch the CSV text
+  const response = await fetch("../skills.csv");
+  if (!response.ok) {
+    throw new Error(`Failed to fetch CSV: ${response.status} ${response.statusText}`);
+  }
+  const csvText = await response.text();
+
+  const blob = new Blob([csvText], { type: 'text/csv'});
+
+  // import the data from the file:
+  pg.exec(`
+    CREATE TABLE skills (
+      name          TEXT,
+      type          TEXT,
+      effect        TEXT,
+      level_effect  TEXT
+    );
+  `)
+  const ret2 = await pg.query("COPY skills FROM '/dev/blob' WITH CSV;", [], {
+    blob
+  });
+</script>
+</body>
+</html>
