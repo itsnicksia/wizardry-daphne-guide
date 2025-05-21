@@ -1,6 +1,6 @@
 # List of Adventurers
 
-=== "Adventurer Basics"
+=== "Basics"
     | Name                                                            | Race      | Gender | Primary Class         | Secondary Class | Type  | Personality | Classification |
     | --------------------------------------------------------------- | --------- | ------ | --------------------- | --------------- | ----- | ----------- | -------------- |
     | [Abenius](./legendary-adventurers/details/Abenius.md)           | Human     | Female | Fighter               | Priest          | Light | Good        | Legendary      |
@@ -55,7 +55,7 @@
     | [Viviana](./general-adventurers/details/Viviana.md)             | Human     | Female | Thief                 | Priest          | Water | Evil        | General        |
     | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     | Human     | Female | Mage                  | Priest          | Earth | Neutral     | Legendary      |
 
-=== "Adventurer Base Traits"
+=== "Base Traits"
     | Name                                                            | Strength |  IQ | Piety | Vitality | Dexterity | Speed | Luck |
     | --------------------------------------------------------------- |:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
     | [Abenius](./legendary-adventurers/details/Abenius.md)           |    13    |  12 |   14  |    12    |     12    |   12  |  12  |
@@ -110,7 +110,62 @@
     | [Viviana](./general-adventurers/details/Viviana.md)             |    11    |  14 |   13  |    11    |     12    |   14  |  12  |
     | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     |    11    |  14 |   12  |    13    |     13    |   13  |  11  |
 
-=== "Adventurer Ruins"
+=== "Skill Inherits" 
+    | Name                                                            | Skill Inherit                     | Potential Skill Inherit       |
+    | --------------------------------------------------------------- | --------------------------------- | ----------------------------- |
+    | [Abenius](./legendary-adventurers/details/Abenius.md)           | Flutterdream Flash                |                               |
+    | [Adam](./legendary-adventurers/details/Adam.md)                 | Wisdom Of Truth                   |                               |
+    | [Alex](./general-adventurers/details/Alex.md)                   | Stun Bash                         | Way of the Knight             |
+    | [Alice](./legendary-adventurers/details/Alice.md)               | Blessing of Agora                 |                               |
+    | [Amelia](./general-adventurers/details/Amelia.md)               | Stealth                           | Blinding                      |
+    | [Arboris](./legendary-adventurers/details/Arboris.md)           | Astral Break                      |                               |
+    | [Asha](./general-adventurers/details/Asha.md)                   | KATINO                            | BATILGREF                     |
+    | [Bakesh](./general-adventurers/details/Bakesh.md)               | Treasure Trap Detection Skill     | Passive Action Spd Up (Thief) |
+    | [Barbara](./general-adventurers/details/Barbara.md)             | Assault Guard                     | Passive MDef Up (Knight)      |
+    | Beast-Thi                                                       | Passive Accuracy Up               |                               |
+    | [Benjamin](./general-adventurers/details/Benjamin.md)           | Passive HP Up (Fighter)           | Wild Strike                   |
+    | [Berkanan](./legendary-adventurers/details/Berkanan.md)         | True Words of Fire                |                               |
+    | [Chloe](./general-adventurers/details/Chloe.md)                 | Warrior's Battle Cry              | Passive Accuracy Up (Fighter) |
+    | [Clarissa](./general-adventurers/details/Clarissa.md)           | Self-Healing                      | Self-Defense                  |
+    | [Daniel](./general-adventurers/details/Daniel.md)               | MACALDIA                          | ABIT                          |
+    | [Debra](./legendary-adventurers/details/Debra.md)               | Blessing of the Beastfolk Goddess |                               |
+    | [Dino](./general-adventurers/details/Dino.md)                   | MONTINO                           | BALAFEOS                      |
+    | Dwarf-Kni                                                       | Passive HP Up                     |                               |
+    | [Eckart](./general-adventurers/details/Eckart.md)               | Attract Hit                       | Defensive Provoke             |
+    | [Elda](./general-adventurers/details/Elda.md)                   | Follow-Up Attack                  | Full Power Strike             |
+    | [Eldorado](./general-adventurers/details/Eldorado.md)           | Cover                             | All Cover                     |
+    | Elf-Mag                                                         | Passive Magic Power Up            |                               |
+    | Elf-Pri                                                         | Passive MP Up                     |                               |
+    | [Elise](./general-adventurers/details/Elise.md)                 | Armor Break                       | Wild Strike                   |
+    | [Emil](./general-adventurers/details/Emil.md)                   | MADIOS                            | DIALKO                        |
+    | [Eulalia](./general-adventurers/details/Eulalia.md)             | Behind Cover                      | Unyielding Will to Fight      |
+    | [Flut](./general-adventurers/details/Flut.md)                   | MIGAL                             | MAMIGAL                       |
+    | [Galina](./general-adventurers/details/Galina.md)               | DIOS                              | KUSFIS                        |
+    | [Gandolfo](./general-adventurers/details/Gandolfo.md)           | Heavy Attack                      | Way of the Warrior            |
+    | [Gaston](./general-adventurers/details/Gaston.md)               | Passive Attack Up (Fighter)       | Immortal Strike               |
+    | [Gerard](./legendary-adventurers/details/Gerard.md)             | Thunderstrike                     |                               |
+    | [Gerulf](./legendary-adventurers/details/Gerulf.md)             | Eruption Strike                   |                               |
+    | Human-Fig                                                       | Passive Attack Power Up           |                               |
+    | Human-Pri                                                       | Passive Divine Power Up           |                               |
+    | [Iarumas](./legendary-adventurers/details/Iarumas.md)           | TZALIK                            |                               |
+    | [Jarmil](./general-adventurers/details/Jarmil.md)               | FERU                              | MAFERU                        |
+    | [Jean](./general-adventurers/details/Jean.md)                   | Treasure Trap Disarm Skill        | Passive Evasion Up (Thief)    |
+    | [Kiriha](./general-adventurers/details/Kiriha.md)               | Armor Pierce                      | Wild Throw                    |
+    | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Queen of War and Love             |                               |
+    | [Marianne](./general-adventurers/details/Marianne.md)           | LATUMOFIS                         | Way of the Priest             |
+    | [Milana](./general-adventurers/details/Milana.md)               | Poison Attack                     | Sneak Attack                  |
+    | [Olive](./general-adventurers/details/Olive.md)                 | Will to Fight                     | Immortal Strike               |
+    | [Ophelia](./general-adventurers/details/Ophelia.md)             | Counterattack                     | Way of the Warrior            |
+    | [Philip](./general-adventurers/details/Philip.md)               | Delay Attack                      | Cunning Pursuit               |
+    | [Red Beard](./legendary-adventurers/details/Red-Beard.md)       | Prayer of Rebellion               |                               |
+    | [Rinne](./legendary-adventurers/details/Rinne.md)               | Moment of Finality                |                               |
+    | [Savia](./legendary-adventurers/details/Savia.md)               | Black Beast Feint                 |                               |
+    | [Shelirionach](./legendary-adventurers/details/Shelirionach.md) | Eyes That Know the Future         |                               |
+    | [Valdor](./general-adventurers/details/Valdor.md)               | MAKALTU                           | KINAPIC                       |
+    | [Viviana](./general-adventurers/details/Viviana.md)             | Hiding                            | Passive Surety Up (Thief)     |
+    | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     | Eye of Kalshum                    |                               |
+
+=== "Ruins"
     | Name                                                            | Unique Bone Name                                          | Original Release Date | Alternate Form Release Date |
     | --------------------------------------------------------------- | --------------------------------------------------------- |:---------------------:|:---------------------------:|
     | [Abenius](./legendary-adventurers/details/Abenius.md)           | Fighter Called the Glintblade                             |       2024-12-06      |                             |

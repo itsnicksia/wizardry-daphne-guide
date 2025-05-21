@@ -23,8 +23,8 @@
     **Adventurer Customization**
 
     - [Building Your Party](./adventurer-customization/party-construction.md)
-    - [Blacksmithing](./adventurer-customization/blacksmithing)
-    - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist)
+    - [Blacksmithing](./adventurer-customization/blacksmithing/index.md)
+    - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)
 
 -   __Raising Trust__
