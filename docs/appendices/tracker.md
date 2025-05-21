@@ -1,15 +1,39 @@
 <style>
-
+  /* give some breathing room under the sync UI */
   #sync-container {
-  margin-bottom: 1.5rem; /* or whatever spacing you like */
-}
+    margin-bottom: 1.5rem;
+  }
 
+  /* allow horizontal scroll on narrow screens */
+  #tracker-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* table reset & fixed layout so columns respect our widths */
   #tracker-container table {
     border: 1px solid rgba(221, 209, 183, 0.3);
     width: 100%;
-    table-layout: fixed;  
+    table-layout: fixed;
     border-collapse: collapse;
   }
+
+  /* assign column widths: 60% title, 20% date, 20% action */
+  #tracker-container th:nth-child(1),
+  #tracker-container td:nth-child(1) {
+    width: 60%;
+  }
+  #tracker-container th:nth-child(2),
+  #tracker-container td:nth-child(2) {
+    width: 20%;
+  }
+  #tracker-container th:nth-child(3),
+  #tracker-container td:nth-child(3) {
+    width: 20%;
+    white-space: nowrap; /* keep button on one line */
+  }
+
+  /* ensure long text wraps in the first two columns */
   #tracker-container th,
   #tracker-container td {
     border: 1px solid var(--md-typeset-fg-color--light);
@@ -18,16 +42,16 @@
     font-size: 0.9rem;
     text-align: left;
     word-wrap: break-word;
-  white-space: normal;
+    white-space: normal;
   }
-  
+
   #tracker-container thead th {
     background-color: rgba(51,51,51,0.15);
     color: var(--md-default-fg-color--light);
     font-weight: 600;
   }
 
-  #tracker-container .section-header td {f
+  #tracker-container .section-header td {
     background-color: rgba(51,51,51,0.8);
     color: var(--md-default-fg-color--light);
     font-weight: bold;
@@ -53,9 +77,13 @@
   #tracker-container .entry-link {
     color: var(--md-typeset-a-color);
     text-decoration: none;
+    transition: color 0.2s ease;
   }
-  #tracker-container .entry-link:hover {
+  #tracker-container .entry-link:hover,
+  #tracker-container .entry-link:focus {
     text-decoration: underline;
+    outline: 2px solid var(--md-typeset-a-color);
+    outline-offset: 2px;
   }
 
   #tracker-container .checkmark {
@@ -77,12 +105,20 @@
     background: transparent;
     color: var(--md-default-fg-color--light);
     cursor: pointer;
+    transition: background-color 0.2s ease;
   }
-  #tracker-container button:hover {
+  #tracker-container button:hover,
+  #tracker-container button:focus {
     background: var(--md-typeset-a-color);
     color: var(--md-default-fg-color--light);
+    outline: none;
+  }
+  #tracker-container button:focus {
+    outline: 2px solid var(--md-typeset-a-color);
+    outline-offset: 2px;
   }
 
+  /* modal overlay + content */
   #modal {
     display: none;
     position: fixed;
@@ -99,10 +135,12 @@
     max-width: 90%;
     max-height: 80vh;
     overflow: auto;
+    position: relative;
   }
   #modal .modal-close {
     position: absolute;
-    float: right;
+    top: 0.5rem;
+    right: 0.5rem;
     cursor: pointer;
     font-size: 1.2rem;
   }
@@ -112,7 +150,43 @@
     display: block;
     margin: 0 auto;
   }
+
+  /* responsive tweaks */
+  @media (max-width: 600px) {
+    #tracker-container p {
+      font-size: 0.85rem;
+    }
+    #tracker-container th,
+    #tracker-container td {
+      font-size: 0.75rem;
+      padding: 0.2rem 0.4rem;
+    }
+    #tracker-container .section-header td {
+      font-size: 0.9rem;
+      padding: 0.4rem;
+    }
+    #tracker-container .details {
+      font-size: 0.7rem;
+    }
+    #tracker-container button,
+    #tracker-container .entry-link {
+      font-size: 0.75rem;
+    }
+    /* switch to auto layout on very small screens */
+    #tracker-container table {
+      table-layout: auto;
+    }
+    #tracker-container th:nth-child(1),
+    #tracker-container td:nth-child(1),
+    #tracker-container th:nth-child(2),
+    #tracker-container td:nth-child(2),
+    #tracker-container th:nth-child(3),
+    #tracker-container td:nth-child(3) {
+      width: auto;
+    }
+  }
 </style>
+
 
 <div id="tracker-container">
   <p>
