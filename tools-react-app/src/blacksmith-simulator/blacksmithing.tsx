@@ -8,7 +8,6 @@ export const Blacksmithing: React.FC = () => {
 
     return (
         <div className={'h-full flex flex-col text-center gap-4'}>
-            <h1 className={'text-gray-400 text-xl'}>Blacksmith Simulator</h1>
             {item ? (
                 <div className={'h-full flex flex-col items-center justify-between gap-4'}>
                     <ModifyItem item={item} onModify={(item) => setItem({ ...item })} />
