@@ -374,21 +374,21 @@
         clickable: false
       },
       {
-        id: 'abyss_b8f_nutrient',
+        id: 'bracelet_of_impurity',
         title: 'Bracelet of Impurity',
         details: 'Chest in B8F (x:0, y:22)',
         image: 'images/abyss_b8f_nutrient.png',
         clickable: false
       },
       {
-        id: 'digger_pickaxe',
+        id: 'bracelet_of_urgency',
         title: 'Bracelet of Urgency',
         details: 'Quest Reward from "Knight-Butcher Ent Proliferation"',
         image: 'images/digger_pickaxe.png',
         clickable: false
       },
       {
-        id: 'digger_pickaxe',
+        id: 'plague_mask',
         title: 'Plague Mask',
         details: 'Clear all waves in "March of the Undead" request',
         image: 'images/digger_pickaxe.png',
@@ -402,14 +402,14 @@
         clickable: false
       },
       {
-        id: 'digger_pickaxe',
+        id: 'royal_amulet',
         title: 'Royal Herald Amulet',
         details: 'Quest Reward from "Save the King"',
         image: 'images/digger_pickaxe.png',
         clickable: false
       },
       {
-        id: 'digger_pickaxe',
+        id: 'bracelet_of_battle',
         title: 'Bracelet of Battle',
         details: 'Chance to drop from "The Greater Demon"',
         image: 'images/digger_pickaxe.png',
@@ -424,14 +424,14 @@
         clickable: false
       },
       {
-        id: 'oktonaras_hidden',
+        id: 'thieves_gloves',
         title: 'Thieves Gloves',
         details: 'Chest in 4th District',
         image: 'images/oktonaras_hidden.png',
         clickable: false
       },
       {
-        id: 'oktonaras_hidden',
+        id: 'man_eater',
         title: 'Man-Eater',
         details: 'Chest in 5th District',
         image: 'images/oktonaras_hidden.png',
@@ -445,49 +445,49 @@
         clickable: false
       },
       {
-        id: 'lightfoot_sandals',
+        id: 'bird_dropper',
         title: 'Bird Dropper',
         details: 'Quest Reward from "Hydra Plant Procurement"',
         image: 'images/lightfoot_sandals.png',
         clickable: false
       },
       {
-        id: 'oktonaras_hidden',
+        id: 'bloodstained_gloves',
         title: 'Bloodstained Gloves',
         details: 'Quest Reward from "Servant and Cargo Recovery"',
         image: 'images/oktonaras_hidden.png',
         clickable: false
       },
       {
-        id: 'sacred_grimoire',
+        id: 'melgina_choker',
         title: 'Melgina’s Choker',
         details: 'Defeat Octonarus after giving Melgina the Mackerel Sandwich',
         image: 'images/sacred_grimoire.png',
         clickable: false
       },
       {
-        id: 'oktonaras_hidden',
+        id: 'shield_of_honor',
         title: 'Shield of Honor',
         details: 'Quest Reward from "Missing Person (Princess Route)"',
         image: 'images/oktonaras_hidden.png',
         clickable: false
       },
       {
-        id: 'oktonaras_hidden',
+        id: 'oktonaras_necklace',
         title: 'Octonarus’s Necklace',
         details: 'Defeat Octonarus after giving Melgina the Titanium Knife',
         image: 'images/oktonaras_hidden.png',
         clickable: false
       },
       {
-        id: 'brutal_cutlass',
+        id: 'tyranny_cutlass',
         title: 'Cutlass of Tyranny',
         details: 'Choose "Octonarus‘s Cherished Sword" after defeating Octonarus',
         image: 'images/brutal_cutlass.png',
         clickable: false
       },
       {
-        id: 'fortune_potion',
+        id: 'sea_god_pearl',
         title: 'Pearl of the Sea God',
         details: 'Quest Reward from "Arena Tournament by Avare"',
         image: 'images/fortune_potion.png',
@@ -495,7 +495,7 @@
       },
       { subheader: 'Impregnable Fortress' },
       {
-        id: 'oktonaras_hidden',
+        id: 'undead_ward',
         title: 'Undead Ward',
         details: 'Quest Reward from "Abyssal Heretic"',
         image: 'images/oktonaras_hidden.png',
