@@ -44,6 +44,9 @@
     ??? note "TheAxolotl's Pull Plan"
         While I'm not a whale, Rinne has easily been my biggest banner investment. I pulled enough to get a base copy, an OCD inherit, as well as level 3 Moment of Finality on both Rinne and my MC. In the process, I managed to get one extra copy to take her Discipline up to D2 since I didn't have anything else to really use it on.
 
+    ??? note "Lynd's Pull Plan"
+        Would've pulled if I was around. I miss her and I've never even met her. Come back soon please.
+
     While Rinne herself may not be a meta-defining adventurer, the Ninja class initially seems extremely strong and Rinne provides enough uniqueness with her kit to make me highly recommend her as a pull target for those that have been saving their gems for a while.
     
 ## Duplicate Usage

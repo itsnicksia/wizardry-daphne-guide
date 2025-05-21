@@ -52,6 +52,9 @@
     ??? note "TheAxolotl's Pull Plan"
         I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
 
+    ??? note "Lynd's Pull Plan"
+        Mostly Tzalik bait but he looked cool too so I threw some to get a meager maxed discipline because I'm inefficient.
+
 ## Duplicate Usage:
 
 * Inherit his spell to himself for increased damage on his heavy hitting single target spell

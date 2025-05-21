@@ -58,6 +58,9 @@
 
     ??? note "TheAxolotl's Pull Plan"
         I really like Sheli, so I pulled for a couple copies with the goal being a base copy and an OCD Discipline copy. I managed to get an additional copy that I gave to my MC, and if I happen to get another copy with the free bones, I'll likely take her up to D2.
+
+    ??? note "Lynd's Pull Plan"
+        Despite her name, I still pulled because she's cool. Should I have pulled more? Maybe, maybe. Did I? Nope.
     
 ## Duplicate Usage
 

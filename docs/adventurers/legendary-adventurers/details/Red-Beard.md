@@ -49,6 +49,9 @@
     ??? note "TheAxolotl's Pull Plan"
         Red Beard was a skip for me. His buff is strong, but I didn't want to have to fight the 3 buff limit and buying Scrolls of Shared Power from the shop could cover any same-turn attack power buffing I wanted.
 
+    ??? note "Lynd's Pull Plan"
+        Now I have nothing against dwarves, I was a Gerulf truther and still use him ocassionally to this day. Redbeard though? One copy for collection because Alice looks better in my backline.
+
 ## Duplicate Usage
 
 * Inherit on his own skill will increase the magnitude of his buff. If you're using him in your party, this should absolutely be your top priority.

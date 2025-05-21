@@ -43,6 +43,9 @@
 
     ??? note "TheAxolotl's Pull Plan"
         Gerard was a solid pass for me. Nothing about his kit was interesting enough for me to pull for.
+
+    ??? note "Lynd's Pull Plan"
+        Gerard is my boy. So I maxed his discipline because every adventurer needs a fully obedient dog. Side note: he was my mvp for killing the dragon during the collab.
     
 ## Duplicate Usage
 

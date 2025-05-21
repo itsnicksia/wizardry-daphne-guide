@@ -45,6 +45,9 @@
     ??? note "TheAxolotl's Pull Plan"
         I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
 
+    ??? note "Lynd's Pull Plan"
+        Massive. Deserving of massive pulls. Massive inheriting. Massive usage. Quote me on that.
+
 ## Duplicate Usage:
 
 * Inherit her spell to herself for increased damage

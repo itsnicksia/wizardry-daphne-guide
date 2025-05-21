@@ -45,6 +45,9 @@
 
     ??? note "TheAxolotl's Pull Plan"
         I like Abenius' kit so I pulled three copies - one for the base, one for the OCD Discipline, and one to inherit to MC.
+
+    ??? note "Lynd's Pull Plan"
+        She's hot so I pulled immediately. At some point I blanked out and she had some discipline levels and Inherit leveled. I'll max her when she rolls around again.
     
 ## Duplicate Usage
 
