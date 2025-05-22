@@ -47,13 +47,13 @@
 
     Overall, she's received quite a bit of indirect love since she was released, and she's certainly more viable now. Her longevity will depend quite a bit on how many future encounters rely on single target physical attacks and how many incorporate regular spell damage and MA/LA targeting physical attacks. In addition, she's still a Knight and will be fairly SP-starved.
 
-    ??? note "TheAxolotl's Pull Plan"
-        Savia was a pass for me on release. The broken kit didn't help things, but her signature skill, while occasionally powerful, was a bit too situational for my tastes. If I were to run her, most of the time I would probably end up using a skill other than her signature, and that's not enough incentive for me to want to pull on her.
+??? note "TheAxolotl's Pull Plan"
+    Savia was a pass for me on release. The broken kit didn't help things, but her signature skill, while occasionally powerful, was a bit too situational for my tastes. If I were to run her, most of the time I would probably end up using a skill other than her signature, and that's not enough incentive for me to want to pull on her.
 
-        I've contemplated giving her a chance when her banner reruns, but I'm not sure yet. To me, Savia looks cool, but that's really it. While her skill is unique, she doesn't bring anything universally strong to the party.
+    I've contemplated giving her a chance when her banner reruns, but I'm not sure yet. To me, Savia looks cool, but that's really it. While her skill is unique, she doesn't bring anything universally strong to the party.
 
-    ??? note "Lynd's Pull Plan"
-        I pulled for collection because she looked cool but tbh honest, she worked pretty well in the backline enough for me to bring her in occasionally so maybe I should've thrown a couple more for discipline.
+??? note "Lynd's Pull Plan"
+    I pulled for collection because she looked cool but tbh honest, she worked pretty well in the backline enough for me to bring her in occasionally so maybe I should've thrown a couple more for discipline.
     
 ## Duplicate Usage
 

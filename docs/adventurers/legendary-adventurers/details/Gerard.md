@@ -41,11 +41,11 @@
 
     Gerard's biggest disadvantage is that he is designed to do damage, but his signature skills don't contribute much in the way towards dealing most of his damage. He has a small niche in that as of his first rerun, he's still our highest damaging Knight adventurer, but his access to a Fighter class change largely renders his Thunderstrike skill obsolete in a large majority of current content.
 
-    ??? note "TheAxolotl's Pull Plan"
-        Gerard was a solid pass for me. Nothing about his kit was interesting enough for me to pull for.
+??? note "TheAxolotl's Pull Plan"
+    Gerard was a solid pass for me. Nothing about his kit was interesting enough for me to pull for.
 
-    ??? note "Lynd's Pull Plan"
-        Gerard is my boy. So I maxed his discipline because every adventurer needs a fully obedient dog. Side note: he was my mvp for killing the dragon during the collab.
+??? note "Lynd's Pull Plan"
+    Gerard is my boy. So I maxed his discipline because every adventurer needs a fully obedient dog. Side note: he was my mvp for killing the dragon during the collab.
     
 ## Duplicate Usage
 

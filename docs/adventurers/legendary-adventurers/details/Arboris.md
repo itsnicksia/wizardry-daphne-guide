@@ -49,11 +49,11 @@
 
     Overall, having a conditional passive speed adjustment for a row and having access to a two-person `PORTO` could be situationally useful, but for most players, if you want to really mess with speed turning during a battle, using `BATILGREF` and `PORTO` will likely be both sufficient and a bit more consistent.
 
-    ??? note "TheAxolotl's Pull Plan"
-        Arboris was a pass for me. I personally felt the columnar PORTO was too situational for me to get a lot of value out of. I still managed to get a copy with a free bone, though. I don't know what I'll do with it, but he'll likely get inherited to someone in the future.
+??? note "TheAxolotl's Pull Plan"
+    Arboris was a pass for me. I personally felt the columnar PORTO was too situational for me to get a lot of value out of. I still managed to get a copy with a free bone, though. I don't know what I'll do with it, but he'll likely get inherited to someone in the future.
 
-    ??? note "Lynd's Pull Plan"
-        I pulled to get a single copy for collection reasons. If I didn't get him, I wouldn't have cared.
+??? note "Lynd's Pull Plan"
+    I pulled to get a single copy for collection reasons. If I didn't get him, I wouldn't have cared.
     
 ## Duplicate Usage
 

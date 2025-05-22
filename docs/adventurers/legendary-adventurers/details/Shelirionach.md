@@ -56,11 +56,11 @@
 
     Shelirionach's kit is extremely interesting and nuanced. While it won't help a ton during the course of a boss fight, the MP restore can be quite impactful while progressing through a new map. In addition, her race, element, and Discipline are all very favorable towards her role as a damage dealing mage. Also note that while she does have access to `LAZELOS`, Sheli is the first legendary mage that does not have a `Secret Art` spell, so you won't get a boosted `LAZELOS`. I certainly don't consider her a must-pull, but I do personally think she has the strongest kit of any damage-oriented mage released thus far. If you have any spare Iarumas' around, Shelirionach makes an excellent recipient of a `TZALIK` inherit.
 
-    ??? note "TheAxolotl's Pull Plan"
-        I really like Sheli, so I pulled for a couple copies with the goal being a base copy and an OCD Discipline copy. I managed to get an additional copy that I gave to my MC, and if I happen to get another copy with the free bones, I'll likely take her up to D2.
+??? note "TheAxolotl's Pull Plan"
+    I really like Sheli, so I pulled for a couple copies with the goal being a base copy and an OCD Discipline copy. I managed to get an additional copy that I gave to my MC, and if I happen to get another copy with the free bones, I'll likely take her up to D2.
 
-    ??? note "Lynd's Pull Plan"
-        Despite her name, I still pulled because she's cool. Should I have pulled more? Maybe, maybe. Did I? Nope.
+??? note "Lynd's Pull Plan"
+    Despite her name, I still pulled because she's cool. Should I have pulled more? Maybe, maybe. Did I? Nope.
     
 ## Duplicate Usage
 

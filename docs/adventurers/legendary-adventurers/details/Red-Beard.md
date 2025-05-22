@@ -46,11 +46,11 @@
 
     He's a solid pass for me, personally. I think his buff, while nice, is limited from its full potential by core game mechanics and he won't provide anything overly unique to my party that can't already be achieved, with potentially better and easier-to-work-with results, with other party members like Alice.
 
-    ??? note "TheAxolotl's Pull Plan"
-        Red Beard was a skip for me. His buff is strong, but I didn't want to have to fight the 3 buff limit and buying Scrolls of Shared Power from the shop could cover any same-turn attack power buffing I wanted.
+??? note "TheAxolotl's Pull Plan"
+    Red Beard was a skip for me. His buff is strong, but I didn't want to have to fight the 3 buff limit and buying Scrolls of Shared Power from the shop could cover any same-turn attack power buffing I wanted.
 
-    ??? note "Lynd's Pull Plan"
-        Now I have nothing against dwarves, I was a Gerulf truther and still use him ocassionally to this day. Redbeard though? One copy for collection because Alice looks better in my backline.
+??? note "Lynd's Pull Plan"
+    Now I have nothing against dwarves, I was a Gerulf truther and still use him ocassionally to this day. Redbeard though? One copy for collection because Alice looks better in my backline.
 
 ## Duplicate Usage
 

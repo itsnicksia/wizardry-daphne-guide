@@ -41,14 +41,14 @@
 
     In addition to the all-Evil party I mentioned above, Rinne can fit in a variety of teams, and she can function well in either the front row with Daggers or in the back row with Throwing Ninja Tools. She can also use Ninja Katanas effectively, as of release, we don't know if the Katanas are treated as Daggers for the Ninja Dual Wield skill or not. She can provide damage, support, and all around general utility with the other great Ninja active and passive skills.
 
-    ??? note "TheAxolotl's Pull Plan"
-        While I'm not a whale, Rinne has easily been my biggest banner investment. I pulled enough to get a base copy, an OCD inherit, as well as level 3 Moment of Finality on both Rinne and my MC. In the process, I managed to get one extra copy to take her Discipline up to D2 since I didn't have anything else to really use it on.
-
-    ??? note "Lynd's Pull Plan"
-        Would've pulled if I was around. I miss her and I've never even met her. Come back soon please.
-
     While Rinne herself may not be a meta-defining adventurer, the Ninja class initially seems extremely strong and Rinne provides enough uniqueness with her kit to make me highly recommend her as a pull target for those that have been saving their gems for a while.
-    
+
+??? note "TheAxolotl's Pull Plan"
+    While I'm not a whale, Rinne has easily been my biggest banner investment. I pulled enough to get a base copy, an OCD inherit, as well as level 3 Moment of Finality on both Rinne and my MC. In the process, I managed to get one extra copy to take her Discipline up to D2 since I didn't have anything else to really use it on.
+
+??? note "Lynd's Pull Plan"
+    Would've pulled if I was around. I miss her and I've never even met her. Come back soon please.
+
 ## Duplicate Usage
 
 * Inherit on her own skill will increase the damage and Magic Defense bypass of her Moment of Finality skill. Note that as with all increased skill levels, the SP cost will increase, so inheriting a few Debra's to her can help offset this.

@@ -46,10 +46,10 @@
 
     She is in no way a must-pull and for many people, she is an easy skip in order to save for our first Samurai in the near future. If you do pull, I would try not to pull more than 1-2 copies unless you really like her design.
 
-    ??? note "TheAxolotl's Pull Plan"
-        Her kit is just interesting enough to me that I might pull a bit in anticipation of having to worry about long range damage in the future. If I snag a copy with the free bones, I'll likely pull another for the OCD Discipline. If I don't, I'll wait and decide for sure later.
+??? note "TheAxolotl's Pull Plan"
+    Her kit is just interesting enough to me that I might pull a bit in anticipation of having to worry about long range damage in the future. If I snag a copy with the free bones, I'll likely pull another for the OCD Discipline. If I don't, I'll wait and decide for sure later.
 
-    ??? note "Lynd's Pull Plan"
+??? note "Lynd's Pull Plan"
     
 ## Duplicate Usage
 
