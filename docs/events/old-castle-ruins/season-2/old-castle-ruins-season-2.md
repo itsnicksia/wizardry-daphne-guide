@@ -12,10 +12,14 @@ Optimal paths are shown here.
 
 ## Floor 2-4
 ![](img/floor2.png)
+
 ![](img/floor3.png)
+
 ![](img/floor4.png)
 
 ## Floor 7-9
 ![](img/floor7.png)
+
 ![](img/floor8.png)
+
 ![](img/floor9.png)
