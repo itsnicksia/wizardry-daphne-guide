@@ -30,3 +30,11 @@ Optimal paths are shown here.
 ![](img/floor13.png)
 
 ![](img/floor14.png)
+
+## Floor 17-19
+
+![](img/floor17.png)
+
+![](img/floor18.png)
+
+![](img/floor19.png)
