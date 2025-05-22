@@ -28,7 +28,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Like Iarumas, Berkanan is a bit of an interesting adventure. She is also a hybrid between a Fighter and a Mage, and compared to Iarumas, she actually has a better all around passive set. Having both Way of the Warrior and Way of the Mage means she has both a solid scaling damage multiplier, as well as a solid MP passive MP reduction for some of her spells. While Iarumas primarily focuses on being a versatile damage dealer, Berkanan's ideal role is, in my opinion, as a weaker fighter with debuff versatility.
 

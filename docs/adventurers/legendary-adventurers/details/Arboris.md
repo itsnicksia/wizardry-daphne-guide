@@ -28,7 +28,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Arboris is our very first limited legendary thief and he is, in my opinion, situationally useful at best.
 

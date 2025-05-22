@@ -50,7 +50,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
     
     Debra is our first Legendary thief, and she is great at it. She can deal strong damage for a thief, particularly later on when you have both Hiding and Sneak Attack unlocked. Her skills also allow her to regularly use Precision Strike to kill enemies for a net 0 SP use. When fighting bosses, her debuffs can be very helpful, with an extra nod to Delay Attack.
 

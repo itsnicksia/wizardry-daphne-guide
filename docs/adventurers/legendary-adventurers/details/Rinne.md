@@ -29,7 +29,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Rinne is our first legendary ninja, and she's an incredible way to introduce the class. In addition to the ninja skill kit, which is already strong, Rinne has a few really big standouts.
 

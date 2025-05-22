@@ -28,7 +28,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Red Beard has an interesting and somewhat contradictory skill set that make him simultaneously unique and difficult to optimally use.
 

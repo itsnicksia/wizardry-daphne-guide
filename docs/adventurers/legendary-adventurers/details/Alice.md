@@ -37,7 +37,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
     
     Alice is a fantastic unit to pull, and will likely be a staple in most folks' parties for a long while. Not only is she our first Legendary priest, but both of her skills are fantastic. Increasing her buff/debuff turn count by 1 means she gets an extra turn to heal, deal damage, or apply another buff/debuff before needing to reapply the initial. Furthermore, her damage increase to a row can apply to many af our strongest damage dealers.
 

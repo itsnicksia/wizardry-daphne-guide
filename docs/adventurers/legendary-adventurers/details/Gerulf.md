@@ -37,7 +37,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Gerulf does one thing and one thing well. He hits hard with a 2h mace. If you're not using him with a 2h mace, he's not living up to his full potential. Unfortunately, there are some things that work against him right now. Since he's evil, he will actually hinder a party that uses Lanavaille, as both of them want to be in the front row and having them both there will negate Lanavaille's row buff. This likely won't be a permanent limitation, though, since in the future we should be able to build a strong Neutral/Evil front row.
 

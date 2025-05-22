@@ -31,7 +31,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Yeka, like Adam, is one of our initial mages. While she will be impacted by unfavorable type matchups, she innately provides both Earth and Water damage. In addition, she can learn Fire and Air damage through inheriting spells. This, along with her bonus damage to undead, makes her a very heavy hitting for the beginning abyss and the trade waterways. Her MP reservoir is not as deep as Adam's, but she trades the longevity for hitting harder.
 

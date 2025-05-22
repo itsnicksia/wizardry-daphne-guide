@@ -29,7 +29,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Savia gets a nice boost due to the change to Alice's Blessing of Agora skill and the availability of Way of the Warrior through a skill inherit, but I'll touch on that in a bit.
 

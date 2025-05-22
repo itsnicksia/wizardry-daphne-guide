@@ -31,7 +31,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Abenius is a strong damage dealer with the potential to provide some buff support, which is very welcome. Being a Fighter, she gains access to the highest Strength -> Attack Power conversion, on top of some solid damage multipliers and Full-Power Strike. Furthermore, she gains Attack Power with her Discipline levels, which is great.
 

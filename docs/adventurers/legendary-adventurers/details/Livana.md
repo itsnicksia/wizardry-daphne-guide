@@ -28,7 +28,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Oh Livana, we had high hopes for you. As a big fan of 2h weapons in general, I've been exited about the idea of a 2h-focused Fighter since the game came out, and...this one is not what I had in mind at all.
 

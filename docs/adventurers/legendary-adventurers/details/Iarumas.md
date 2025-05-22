@@ -28,7 +28,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Iarumas is a bit of an interesting adventure. First, to mention the elephant in the room, he is not an actual Samurai despite the belief many folks had that the Samurai class would release with him. Instead, a new precedent was set where the collab adventurers were released with their own unique classes. In this case, The `Mage of the Black Rod` class is a mix between a Fighter and a Mage, gaining some interesting versatility while losing some key passive skills. Notably, Iarumas does not naturally have access to the damage multiplier provided by `Way of the Warrior`, nor does he naturally have access to the MP cost reduction provided by `Way of the Mage`. He also does not have access to the new `Full Power Strike` skill, which means he's missing the Fighter's most efficient physical damage attack. Iarumas' assortment of skills and spells makes him a unique and versatile damage dealer that can provide some additional support.
 

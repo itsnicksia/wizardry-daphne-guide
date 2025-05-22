@@ -37,7 +37,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Adam provides very consistent damage and longevity for a mage due to his two unique skills. Reducing the dampening of damage means he's not as impacted when fighting enemies that are strong against Light damage. His main downside is that he innately only can deal Light damage. This can be offset by inheriting some single target spells that deal other elements of damage, however without the inheritance, he will only have an elemental advantage against enemies weak to light.
 
