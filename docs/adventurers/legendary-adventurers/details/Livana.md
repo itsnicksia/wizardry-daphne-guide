@@ -50,7 +50,7 @@
     Her kit is just interesting enough to me that I might pull a bit in anticipation of having to worry about long range damage in the future. If I snag a copy with the free bones, I'll likely pull another for the OCD Discipline. If I don't, I'll wait and decide for sure later.
 
 ??? note "Lynd's Pull Plan"
-    I wasn't totally convinced to pull but I showed my friend her art and he responded with "Step on me, dommy mommy." So I pulled out respect for his lack of shame until I got a copy.
+    I wasn't totally convinced to pull but I showed my friend her art and he responded with "Step on me, dommy mommy." So I pulled out of respect for his lack of shame until I got a copy.
     
 ## Duplicate Usage
 
