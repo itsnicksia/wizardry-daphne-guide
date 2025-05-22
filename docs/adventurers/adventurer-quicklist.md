@@ -42,6 +42,7 @@
     | [Jean](./general-adventurers/details/Jean.md)                   | Human     | Male   | Thief                 | Mage            | Earth | Neutral     | General        |
     | [Kiriha](./general-adventurers/details/Kiriha.md)               | Human     | Male   | Ninja                 |                 | Dark  | Evil        | General        |
     | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Human     | Female | Knight                | Fighter         | Fire  | Good        | Legendary      |
+    | [Livana](./legendary-adventurers/details/Livana.md)             | Human     | Female | Fighter               |                 | Water | Good        | Legendary      |
     | [Marianne](./general-adventurers/details/Marianne.md)           | Human     | Female | Priest                | Mage            | Air   | Good        | General        |
     | [Milana](./general-adventurers/details/Milana.md)               | Elf       | Female | Thief                 | Mage            | Dark  | Evil        | General        |
     | [Olive](./general-adventurers/details/Olive.md)                 | Elf       | Female | Fighter               | Thief           | Air   | Neutral     | General        |
@@ -97,6 +98,7 @@
     | [Jean](./general-adventurers/details/Jean.md)                   |    12    |  11 |   11  |    14    |     14    |   13  |  12  |
     | [Kiriha](./general-adventurers/details/Kiriha.md)               |    13    |  13 |   11  |    12    |     13    |   13  |  13  |
     | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     |    15    |  12 |   13  |    14    |     11    |   12  |  11  |
+    | [Livana](./legendary-adventurers/details/Livana.md)             |    13    |  14 |   13  |    12    |     12    |   12  |  11  |
     | [Marianne](./general-adventurers/details/Marianne.md)           |    11    |  13 |   14  |    11    |     12    |   14  |  12  |
     | [Milana](./general-adventurers/details/Milana.md)               |    09    |  17 |   11  |    09    |     14    |   15  |  12  |
     | [Olive](./general-adventurers/details/Olive.md)                 |    11    |  15 |   11  |    10    |     15    |   15  |  10  |
@@ -152,6 +154,7 @@
     | [Jean](./general-adventurers/details/Jean.md)                   | Treasure Trap Disarm Skill        | Passive Evasion Up (Thief)    |
     | [Kiriha](./general-adventurers/details/Kiriha.md)               | Armor Pierce                      | Wild Throw                    |
     | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Queen of War and Love             |                               |
+    | [Livana](./legendary-adventurers/details/Livana.md)             | Moonlit Pool of the White Daemon  |                               |
     | [Marianne](./general-adventurers/details/Marianne.md)           | LATUMOFIS                         | Way of the Priest             |
     | [Milana](./general-adventurers/details/Milana.md)               | Poison Attack                     | Sneak Attack                  |
     | [Olive](./general-adventurers/details/Olive.md)                 | Will to Fight                     | Immortal Strike               |
@@ -205,8 +208,9 @@
     | [Iarumas](./legendary-adventurers/details/Iarumas.md)           | Remains of the Corpse Hauling Adventurer with a Black Rod |       2025-03-18      |                             |
     | [Jarmil](./general-adventurers/details/Jarmil.md)               | Sketchy Mage                                              |       2024-10-15      |                             |
     | [Jean](./general-adventurers/details/Jean.md)                   | Sooth Thief                                               |       2024-10-15      |                             |
-    | [Kiriha](./general-adventurers/details/Kiriha.md)               |                                                           |       2025-01-30      |                             |
+    | [Kiriha](./general-adventurers/details/Kiriha.md)               | Remains of the Ninja Without a Self                       |       2025-01-30      |                             |
     | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Kingdom's Blademaster Princess Savior                     |       2024-10-15      |          2024-10-15         |
+    | [Livana](./legendary-adventurers/details/Livana.md)             | Remains of the Justice Guardian Mirror-Mere Successor     |       2025-05-22      |                             |
     | [Marianne](./general-adventurers/details/Marianne.md)           | Covetous Priest                                           |       2024-10-15      |                             |
     | [Milana](./general-adventurers/details/Milana.md)               | Lone Thief                                                |       2024-10-15      |                             |
     | [Olive](./general-adventurers/details/Olive.md)                 | Stalwart Warrior                                          |       2024-10-15      |                             |

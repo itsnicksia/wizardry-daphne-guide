@@ -53,7 +53,7 @@
         I've contemplated giving her a chance when her banner reruns, but I'm not sure yet. To me, Savia looks cool, but that's really it. While her skill is unique, she doesn't bring anything universally strong to the party.
 
     ??? note "Lynd's Pull Plan"
-        I pulled for collection because she looked cool but tbh honest, she worked pretty well in the backline enough for me to bring her in ocassionally so maybe I should've thrown a couple more for discipline.
+        I pulled for collection because she looked cool but tbh honest, she worked pretty well in the backline enough for me to bring her in occasionally so maybe I should've thrown a couple more for discipline.
     
 ## Duplicate Usage
 

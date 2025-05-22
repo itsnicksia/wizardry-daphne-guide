@@ -5,7 +5,7 @@
  */
 
 // Define CSV headers, including future columns
-const headers = ['name', 'effect', 'level_effect'];
+const headers = ['name', 'effect', 'details'];
 
 function main() {
 // Split lines, trim, and keep only those starting with '|'
@@ -18,12 +18,12 @@ function main() {
   const rows = lines.map(line => {
     const match = line.match(/^\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|/);
     if (!match) {
-      return { name: '', effect: '', level_effect: '' };
+      return { name: '', effect: '', details: '' };
     }
     return {
       name: match[1].trim(),
       effect: match[2].trim(),
-      level_effect: match[3].trim()
+      details: match[3].trim()
     };
   });
 

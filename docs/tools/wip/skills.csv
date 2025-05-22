@@ -1,4 +1,4 @@
-name,type,effect,level_effect
+name,type,effect,details
 ABIT,damage,Words of prayer that remove 1 debuff from 1 ally row.,Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.
 Advice of the Skull,passive,Increases damage against undead and decreases damage from undead.,
 Agent of Heresy,passive,Increases damage to enemies for everyone in a row if it has only evil or neutral allies.,
@@ -25,6 +25,7 @@ Blessing of the Beast God,passive,"Continuously increases each stat, Attack Powe
 Blessing of the Beastfolk Goddess,passive,Defeating an enemy restores minor SP to self. Recovery amount is reduced if learned by someone other than Debra.,Incrementally adds Attack Power Up based on skill level. Attack further increased and recovery amount augmented.
 Blinding,active,Minor physical attack on 1 enemy based on the user's Dexterity. Chance to decrease Accuracy.,Efficacy and probability increased while Accuracy further decreased based on skill level.
 Blood Edge,active,Launches a minor physical attack on 1 enemy dealing continuous damage to HP for a set number of turns.,Damage amount and number of turns increased further based on skill level.
+Bloodline of the Mirror-Mere,passive,"Continuously increases each stat, with Accuracy and Magic Defense increased even further.","Accuracy and Magic Defense increased further based on skill level."
 Branded Hands,passive,Increases Accuracy when equipped with a two-handed weapon.,
 CALDIA,damage,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.
 Child of the Sacred Tree,passive,"Continuously increases each stat, with Magic Power and Action Speed increased even further.",Magic Power and Action Speed increased further based on skill level.
@@ -138,6 +139,7 @@ MIGAL,damage,Launches an orb of water that deals minor water spell damage to 1 e
 Miracle of Faith,passive,Increases Magic Defense when equipped with light armor.,
 Moment of Finality,active,"Unleashes the blasting spell contained with a charm, launching an untyped spell attack on 1 enemy row that bypasses Magic Defense. Damage based on Attack Power. Damage is reduced if learned by someone other than Rinne.",Efficacy and Magic Defense bypass rate increased based on skill level.
 MONTINO,damage,Silence over a wide area envelopes 1 enemy row with a chance of Spell-binding them.,Probability increased based on skill level.
+Moonlit Pool of the White Daemon,active,"Moderate water-type physical attack on 1 enemy. Ignores distance modifiers. Damage, probability of Spell-Binding, and the rate of Magic Power reduction are reduced if learned by someone other than Livana.","Efficacy increased, with probability further increased and Magic Power further decreased based on skill level."
 MORLIS,damage,Generates an acidic mist over a wide area with a chance of reducing the Defense Power of 1 enemy row for 3 turns.,Probability increased while Defense Power decreased incrementally based on skill level. More turns added.
 Mudd's Caution,passive,Continuously increases Detect.,Detect increased further based on skill level.
 Mutual Interests,passive,Increases damage to enemies for user and allies in front of or behind them if the ally is evil.,
@@ -220,6 +222,7 @@ Strongly Suspicious,passive,"Continuously increases each stat, Magic Defense and
 Stun Bash (Close/Midrange),active,Moderate physical attack on 1 enemy. Chance to stun based on Defense Power.,Efficacy and probability increased based on skill level.
 Talented Trapsmith,passive,"Continuously increases each stat, Disarm Trap and Evade Trap increased further.",Disarm Trap and Evade Trap increased further based on skill level.
 Tall Mage,passive,"Continuously increases each stat, with Attack Power, SP, Defense Power, and Magic Defense increased further.","Attack Power, SP, Defense Power, and Magic Defense further increased based on skill level."
+The One Who Enforces,passive,Increases Surety and Accuracy when equipped with a two-handed axe.,
 Thief's Guild Trainee,passive,Continuously increases each stat. SP and Disarm Trap increased further.,SP and Disarm Trap increased further based on skill level.
 Thievery Proficiency,passive,Continuously reduces the SP cost of Thief skills.,SP cost reduced further based on skill level.
 Thundersmiter's Protection,passive,Continuously increases each stat. Evasion and Action Speed increased further.,Evasion and Action Speed increased further based on skill level.
