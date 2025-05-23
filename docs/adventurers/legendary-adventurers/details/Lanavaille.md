@@ -33,9 +33,9 @@
         |   2   |             22            |               11               |
         |   3   |             34            |               17               |
         |   4   |             44            |               23               |
-        |   5   |             58            |                                |
+        |   5   |             58            |               30?              |
         |   6   |             68            |               38               |
-        |   7   |             85            |                                |
+        |   7   |             85            |                -               |
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Stirring Righteousness (Standard)"

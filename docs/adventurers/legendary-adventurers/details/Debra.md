@@ -38,7 +38,7 @@
         |   4   |             8             |                5               |
         |   5   |                           |                6               |
         |   6   |                           |                7               |
-        |   7   |             13            |                                |
+        |   7   |             13            |                -               |
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Skull Study"
