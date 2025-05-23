@@ -56,6 +56,22 @@
 
     Shelirionach's kit is extremely interesting and nuanced. While it won't help a ton during the course of a boss fight, the MP restore can be quite impactful while progressing through a new map. In addition, her race, element, and Discipline are all very favorable towards her role as a damage dealing mage. Also note that while she does have access to `LAZELOS`, Sheli is the first legendary mage that does not have a `Secret Art` spell, so you won't get a boosted `LAZELOS`. I certainly don't consider her a must-pull, but I do personally think she has the strongest kit of any damage-oriented mage released thus far. If you have any spare Iarumas' around, Shelirionach makes an excellent recipient of a `TZALIK` inherit.
 
+??? info "Frobro's Review"
+
+    I will not mince words here; nor will I exaggerate. Shelirionach is the strongest mage in the game by a large margin. Shelirionach would occupy an S tier by herself if a tier list were constructed for units by class. Fundamentally, she plays an entirely different game than the rest of the field, and the game she plays is much more effective than what other mages have access to. Shelirionach was created by scientists in a lab to be as optimized as possible.
+
+    Let’s start from the top. Dark/Evil/Mage/Elf/Female gives her a min-maxed stat line and access to synergy buffs from units like Milana, Alice, Arboris, Rinne, Elda, Emil and Red Beard. At the current end-game, (Post Abyss 3) Dark resist is the best resist to have and no boss attacks with the Light element. Her discipline focus stats are Magic Power and Action Speed; the ideal set.
+
+    Onto the secret sauces. Dream of the Sleeping Witch is a perpetual motion engine; it constantly and reliably fuels Shelirionach’s MP. Unlike other mages who have to pick their shots and use cheaper forms of CC like the AOE debuffs (Dilto/Morlis/Balfeos) or statuses like Sleep to make large groups of enemies more manageable, Shelirionach is free to cast higher levels and therefore more expensive damaging spells, recklessly. Death; the best kind of CC! Shelirionach is allowed to deal, frankly, unreasonable amounts of damage in the long run compared to every other mage in the game while also being just as good at playing the “debuffing mage” role as her peers. The particulars of how this passive works include some extra bonuses for no reason! Shelirionach will regain MP, cast Slumbering Darkness and won’t take double damage while asleep no matter how she got put to sleep, meaning she is functionally immune to this status condition. While asleep, her Eyes That Know the Future skill can still proc, allowing her to mitigate or outright dodge mortal wounds. WHILE ASLEEP. As if that wasn’t enough, this passive dodges spells just cuz’, making it even less likely that an enemy can interrupt her sleep. Assuming the hit meets the “<50% of Max HP” pre-requisite, it will activate something around 70% of the time!
+
+    Also, Also; the spell she casts while asleep, Slumbering Darkness, is equivalent to Zelos 6 and costs 0MP. Actually, it’s more like it costs negative 16MP since you gain that much anytime you cast it…at minimum. Oh, did I mention she casts this every turn for however long she stays asleep? At that point, you’re practically encouraged to upcast spells at higher levels just to deplete your MP to oscillate around 20%-30% of your max MP and access this move every battle. 
+
+    My favorite fun fact is that the reworded Mental Unity description specifies that it increases the “Damage of attack spells that consume MP”, but for some reason still applies to Slumbering Darkness. Imagine this; Begin fight with >25%MP. Sheli’s turn, cast Mental Unity, fall asleep +8MP. Sheli’s turn comes back around, still asleep, boosted slumbering darkness for 1300dmg, +8MP…
+
+    In conclusion, Drecom realized that legendaries need to be compelling and finally made something worth investing in. Do not listen to the downplay. What other mage can do even half of this nonsense?
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     I really like Sheli, so I pulled for a couple copies with the goal being a base copy and an OCD Discipline copy. I managed to get an additional copy that I gave to my MC, and if I happen to get another copy with the free bones, I'll likely take her up to D2.
 

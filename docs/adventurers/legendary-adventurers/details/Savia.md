@@ -47,6 +47,18 @@
 
     Overall, she's received quite a bit of indirect love since she was released, and she's certainly more viable now. Her longevity will depend quite a bit on how many future encounters rely on single target physical attacks and how many incorporate regular spell damage and MA/LA targeting physical attacks. In addition, she's still a Knight and will be fairly SP-starved.
 
+??? info "Frobro's Analysis"
+
+    What a sick-looking unit, right? Is she a cat; a wolf…who knows? Well, that’s almost it for the pros, now to the cons. Knight isn’t in a great place as I write this. Their 1 claim to fame is Knight Defense and she’s not much better at using that than any other knight. She can still be salvaged with a solid secondary class, probably fighter, but that doesn’t exist yet.
+
+    Black Beast Feint is like a better Defensive Provoke. Better in that the evasion buff is better than a defense buff, and the counter-hit has def-penetration, but it's still whack because the aggro effect doesn’t feel particularly potent and a good chunk of named enemy attacks can’t be countered at all.
+
+    The Soaring Beast Knight passive feels like a waste. Incentivized to use a spear for an evasion boost when you could run a 1-hand sword + shield and get that same evasion bonus from 1 solid Eva blessing and still have an extra 3 blessing slots left over. You either stick her in the back row with a spear or walk around with 1 less passive than every other character. Her discipline focus is interesting. That “greatly” increased evasion is no joke; I forget the exact numbers, but it’s something absurd at the high end.
+
+    This chick is an easy skip right up until they give her fighter or something like it. Then she’ll be able to put up big numbers while getting Dark/Evil synergies from units like Alice, Rinne and Milana. Just wait til they put def-penetration or nimble-strike on a spear.
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     Savia was a pass for me on release. The broken kit didn't help things, but her signature skill, while occasionally powerful, was a bit too situational for my tastes. If I were to run her, most of the time I would probably end up using a skill other than her signature, and that's not enough incentive for me to want to pull on her.
 

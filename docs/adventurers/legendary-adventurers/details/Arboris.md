@@ -49,6 +49,16 @@
 
     Overall, having a conditional passive speed adjustment for a row and having access to a two-person `PORTO` could be situationally useful, but for most players, if you want to really mess with speed turning during a battle, using `BATILGREF` and `PORTO` will likely be both sufficient and a bit more consistent.
 
+??? info "Frobro's Analysis"
+
+    I feel like people see something that I just don’t with this one. Let’s start with the good. Astral break is a Major tier damage skill that doesn’t require setup like Sneak Attack, and since thieves are unimpressive in fights, this seems like a way to alleviate that. The cost of 20SP is way too high and the ASPD buff is generally unimpactful and cumbersome when trying to maintain more relevant buffs against the 3 buff limit. As an inherit to others, they’re better off using other damaging skills. It being earth element is lame too.
+
+    Evil wins again with his passive Evasion and ASPD buff. I thought Wizardy “evil” was supposed to mean more self-centered! On the flipside, this discipline focus is a joke! Accuracy and Stun Tolerance…what?
+
+    In closing, he’s a thief alright. A skill he can only use a handful of times, anti-synergy between his race/class, one of the worst disciplines in the game and limited availability. There are better general adventurers than this. Mid.
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     Arboris was a pass for me. I personally felt the columnar PORTO was too situational for me to get a lot of value out of. I still managed to get a copy with a free bone, though. I don't know what I'll do with it, but he'll likely get inherited to someone in the future.
 

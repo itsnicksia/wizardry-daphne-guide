@@ -41,6 +41,14 @@
 
     Gerard's biggest disadvantage is that he is designed to do damage, but his signature skills don't contribute much in the way towards dealing most of his damage. He has a small niche in that as of his first rerun, he's still our highest damaging Knight adventurer, but his access to a Fighter class change largely renders his Thunderstrike skill obsolete in a large majority of current content.
 
+??? info "Frobro's Analysis"
+
+    This game’s poster boy for “Mid. A good aligned, front-row knight with a Heavy Attack but green skill that doesn’t even match his element. What is there to say? At least his 2nd class is fighter, so he isn’t truly bottom tier. His passive and discipline aren’t bad, but they’re not impressive enough to salvage this guy.
+
+    This guy’s job is to be the resident low-value buzzkill, when pulling for some other legendary once limited legends get added to the pool. Outclassed by general adventurers, what a life.
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     Gerard was a solid pass for me. Nothing about his kit was interesting enough for me to pull for.
 

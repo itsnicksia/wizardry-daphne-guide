@@ -58,6 +58,14 @@
 
     If you inherit her skill to other Adventurers, the restore amount will be cut in half, with skill level 1 returning 2 SP instead of 4.
 
+??? info "Frobro's Analysis"
+
+    Talk about suffering from success. An inherit so desirable that people prefer to give it to other units rather than build it up on the unit who gets the most potency out of it. Debra is a more damage-oriented thief than her peers not unlike how Adam is with mages. Her Skull Study reduces, the cost of “thief spells/skills that cost 3-10 MP/SP” and when coupled with Blessing of the Beastfolk God, she can use Precision Strike as a replacement for her basic attack extremely early in the game. At those early sections of the game, that +30 surety from Precision Strike is outrageous. 
+
+    As a side note, Precision Strike is in the daily shop rotation, which makes it a surprisingly easy skill to level up for being a premium skill with no inheritor. Another idea is to inherit heavy attack instead as she can still more freely use it with her high SP pool and SP regen. While on the subject, her high dexterity makes her a good candidate for inheriting high levels of Armor Break which will also synergize with Cunning Pursuit for even more damage. Who cares about the discipline, when you can level up the inherit on anyone?
+
+    Plus she’s neutral aligned which lets her be compatible in the front row with Lana as a dodge tank with her high evasion, or as a bow user in the back with Alice. She is held back by her 2nd class being knight. I wonder what the people would think about her if it were fighter instead…
+
 ## Duplicate Usage
 
 * If you use her, increasing her Discipline will increase her damage, while inheriting her skill to herself will increase the SP restore amount

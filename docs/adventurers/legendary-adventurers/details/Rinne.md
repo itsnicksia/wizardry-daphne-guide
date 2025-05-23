@@ -43,6 +43,18 @@
 
     While Rinne herself may not be a meta-defining adventurer, the Ninja class initially seems extremely strong and Rinne provides enough uniqueness with her kit to make me highly recommend her as a pull target for those that have been saving their gems for a while.
 
+??? info "Frobro's Analysis"
+
+    Warning to newer players, ninjas are cool but are not for you. Their high EXP requirements will keep them under-leveled relative to the rest of your party. You will have no access to Kunai, making it so hiding them in the back row is unviable. Veteran players have access to potent exp dispatches that can get one from level 0 to 60 in ~11 days.
+
+    Now to Rinne specifically. Because of the potency drop when inherited, Moment of Finality is really only useful when used by her, which gives her a niche as the only non-mage multitarget attacker at present. However, the skill is kinda costly at 15SP which means it isn’t the kind of skill you can use very often. Can be offset somewhat with Debra’s SP regen skill. Rinne only gets 1 recovery event if multiple units die to Moment of Finality, but will get 2 if she kills an enemy while Dual Wielding with basic attacks. Rinne also has a relatively deep pool of MP with nothing to use it on naturally. I suppose you could use her in a buffer/debuffer role by using premium scrolls like Batilgref/Dilto/Marein/Masolotu/Cortu from the daily shop on her, but her 2nd class may be mage so it’s worth holding off on that for now.
+
+    Her Enlightenment at the Brink of Death passive gives her and adjacent Evil units free surety. Stuff like this is why Evil is drowning and Good is starving. The surety + accuracy discipline is potent for Dual Wielding Daggers or Kunai; no complaints.
+
+    Right now, ninjas are flashy but not extremely effective or even on par with fighters. Once MC gets access to Ninja, things get even worse for Rinne as we won’t need her for Dissipation and her use case shrinks even more. An inspired voice performance and a top 5 character model on a middling unit.
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     While I'm not a whale, Rinne has easily been my biggest banner investment. I pulled enough to get a base copy, an OCD inherit, as well as level 3 Moment of Finality on both Rinne and my MC. In the process, I managed to get one extra copy to take her Discipline up to D2 since I didn't have anything else to really use it on.
 

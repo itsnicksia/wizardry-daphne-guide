@@ -49,6 +49,14 @@
 
     Iarumas is a very strong multi-purpose damage dealer with excellent Neutral and Void typing, and his kit is quite unique. You'll want to decide if his uniqueness and versatility is worth including in a party, though, as he faces some strong competition from more specialized adventurers.
 
+??? info "Frobro's Analysis"
+
+    At present, I’m not a fan of these phys/mag hybrid units. In practice, they are middling fighters who lack Full Power Strike, have gear restrictions and effectively learn their mage spell tree without needing to class change. I think it’s pretty telling that the unit that’d be the best at this kind of setup, MC, doesn’t get built like this because (unless your name is TheAxolotl) there are better ways to build him. Iarumas is getting access to samurai proper at a later date, so my mind may change.
+
+    Judging him as he is, not bad. Drecom loaded his passives and gear with stats to ensure he could at least keep up with mages as a caster and fighters as a basic physical attacker. They did everything in their power to make him interesting. Tzalik is extremely strong and stat-creep-proof with the magic defense penetration effect and I guess the ability for it to surety is intended since they never patched it out. Being void is…different, and being neutral aligned makes him splashable with most team comps.
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
 

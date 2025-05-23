@@ -56,6 +56,16 @@
 
     If you pull Alice, she will be a fantastic addition to your team!
 
+??? info "Frobro's Analysis"
+
+    Simple but effective. It didn’t take much to be the best in slot at what she does. Optimized stat line from Water/Elf/Female and has the ideal double caster class set. The best buffer/debuffer in the game; being able to reach a turn cap that other characters cannot. A rock-solid unit when used and desirable inherit when not. 
+
+    A passive 10% damage increase with an easily met condition for the whole row. Has access to an, as of now unreleased spell with her Secrets of Labadios just ‘cuz. An alright discipline focus with Divine Power and Magic Def; not good, not bad. The MP gains from leveling up Blessing of Agora feels like she has 3rd discipline anyway.
+
+    You can change her into a mage (after learning all priest spells first) and sacrifice some HP/armor and gain some MP and the entire suite of mage spells, with practically no loss of healing potency.
+
+    There isn’t much to say; this chick excels in the roles that units like her were designed to play and has some staying power with her inherit should the game ever shift to being more buff/debuff-centric.
+
 ## Duplicate Usage
 
 * Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills.

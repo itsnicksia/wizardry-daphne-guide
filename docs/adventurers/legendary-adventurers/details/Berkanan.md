@@ -42,6 +42,14 @@
 
     Like Iarumas, gearing her might be a bit funky as she might want Magic Power if you want to keep True Words of Fire as a potential damage source (assuming it considers class level and Magic Power, not just the former), but she'll also want Attack Power for other skills and basic attacks in her physical kit. Unlike Iarumas, there's no question of how to fit her in on your team. Stick her in front and give her a sword.
 
+??? info "Frobro's Analysis"
+
+    At present, I’m not a fan of these phys/mag hybrid units. In practice, they are middling fighters who lack Full Power Strike, have gear restrictions and effectively learn their mage spell tree without needing to class change. I think it’s pretty telling that the unit that’d be the best at this kind of setup, MC, doesn’t get built like this because there are better ways to build him. I do not expect this unit to ever get a 2nd class.
+
+    Onto the specifics. Coin of Power solidifies her as a front liner, which is for the best since she is incompatible with all the evil back liners who want to spread their alignment buffs. Her discipline skill is proof that there is no justice in this world. Drecom knows what it takes to make a good focus and chooses not to for many units. True Words of Fire is Halito but cooler; gets much stronger when cast at higher levels. Not a bad use for Codexes.
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
 

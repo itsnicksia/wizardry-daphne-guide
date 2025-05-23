@@ -47,6 +47,12 @@
 
     With the release of Rinne, Gerulf finally gets some solid Evil support from her Surety buff, which is a welcome addition to Evil teams!
 
+??? info "Frobro's Analysis"
+
+    This guy is a Min/Max stat gremlin with an uninspired kit. Aside from his discipline (Attack + Surety), there isn’t anything worth writing home about. That accuracy boost when using a 2 handed weapon is a joke. Why not accuracy, surety and attack; at least something comparable to the blessings he can get from a shield! Might as well pretend he doesn't have a unique passive.
+
+    As for Eruption Strike, it’s basically Heavy Attack 3 but red and you gotta use a 2-handed hammer. Even if you use Gerulf in your party, you’re still gonna use Full Power Strike over this. An inherit skill so bad that even the owner doesn’t use it, wow. Beyond that, an evil front liner ruins the feng shui for many players, which makes his whole thing a no-go. Honestly, is this guy really any better than Benjamin?
+
 ## Duplicate Usage
 
 * Inherit on his own skill will increase the damage and cost of his Eruption Strike.

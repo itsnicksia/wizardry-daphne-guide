@@ -46,6 +46,20 @@
 
     She is in no way a must-pull and for many people, she is an easy skip in order to save for our first Samurai in the near future. If you do pull, I would try not to pull more than 1-2 copies unless you really like her design.
 
+??? info "Frobro's Analysis"
+
+    Full Disclosure: This unit’s release prompted me to begin articulating my thoughts on how Drecom designs units with these reviews. Honestly, they released a mid-unit on purpose and we should be upset! What am I even looking at?
+
+    Problem 1: Limited availability and an awful discipline focus. Accuracy and Mag Def…Hum-Fig has a better focus than this! Not Attack or Surety, even Action Speed would have been fine. Something unusual like Luck could have been strong to pair with Follow-up Attack, to try and compensate for the 4 blessing slots you miss out on when using 2-handed weapons with the occasional 2x damage multiplier you’d get with a 2nd hit. What a joke!
+
+    Problem 2: That active skill, Moonlit Pool of the White Daemon. Fighters want to use Full Power Strike when sustained damage is needed and Heavy Attack 3 when they need damage quickly. With all the data the devs have showing that skills like Thunder/Eruption Strike aren’t used by players, why did they create a skill in the same vein but blue? It does have some utility by ignoring the distance penalty, and the Magic Power debuff seems consistent even when inherited, but what enemy is this even for? Maybe the Red Dragon? But you can FPS with a water element weapon for a better outcome. Maybe some future mob enemy class of tanky casters that can’t be burst quickly and need to be whittled down over multiple turns…that she is built to neuter?
+
+    Problem 3: That Passive skill. +7 Accuracy and Surety when using a 2-handed axe is a joke. You can easily double that bonus by using a 1-handed weapon + shield and still have 2 blessing slots left over. How did they release something like this when they already got it right with Iarumas’s & Berkanan’s version of this? Their passives gives them a boost to more than 2 stats at a potency comparable to decent blessings as if it were a shield or 2nd accessory. Even Savia’s passive works better than this as it’s something you were likely to do with her anyway.(Backrow Knight with Spear and Light Armor)
+
+    I anticipate this banner will be one of the worst-performing banners yet for Drecom. This is unadulterated “Mid”; general adventurers like Elise and Benjamin are better than this. I have no idea what the devs were thinking when they came up with this; I guess they weren’t. My best guess is that they are thinking ahead to what the legendary pool will look like when previous legends get mass demoted to the general pool and felt the need to dilute it with a new stinker.
+
+## Adventurer Pull Plans
+
 ??? note "TheAxolotl's Pull Plan"
     Her kit is just interesting enough to me that I might pull a bit in anticipation of having to worry about long range damage in the future. If I snag a copy with the free bones, I'll likely pull another for the OCD Discipline. If I don't, I'll wait and decide for sure later.
 
