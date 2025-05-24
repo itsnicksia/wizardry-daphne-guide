@@ -10,7 +10,45 @@ export async function generateSkillsView() {
     level_effect: "Details"
   };
 
-  const skillsData = fs.readFileSync('../data/skills.csv', 'utf8');
+  await loadSkillsData('../data/skills.csv');
+
+  const headers = Object.keys(headerMap);
+  const formattedHeader = Object.values(headerMap).join('|');
+
+  const formattedSplitter = createSplitterString(headers.length + 1);
+
+  const columns = headers.join(',');
+
+  let output = "";
+  const skillTypes = ["Passive", "Damage", "Active", "Recovery", "Support", "Debuff"];
+  for (let index = 0; index < skillTypes.length; index++) {
+    const skillType = skillTypes[index];
+
+    const rawData = await pg.query(`
+      SELECT
+      ${columns}
+      FROM skills
+      WHERE type = LOWER('${skillType}')
+    `);
+
+
+    const formattedData = rawData.rows.map(row => Object.values(row).join("|")).join("|\n|");
+    const skillTypeHeader = `# ${skillType} `;
+
+    output = output.concat(`
+${skillTypeHeader}
+|${formattedHeader}|
+${formattedSplitter}
+|${formattedData}|
+
+    `);
+  }
+
+  return output;
+}
+
+async function loadSkillsData(path: string) {
+  const skillsData = fs.readFileSync(path, 'utf8');
 
   const blob = new Blob([skillsData], { type: 'text/csv' });
 
@@ -26,24 +64,6 @@ export async function generateSkillsView() {
   await pg.query("COPY skills FROM '/dev/blob' WITH CSV;", [], { blob });
   await pg.exec("DELETE FROM skills WHERE name = 'name';");
 
-  const headers = Object.keys(headerMap);
-  const formattedHeader = Object.values(headerMap).join('|');
-
-  const formattedSplitter = createSplitterString(headers.length + 1);
-
-  const columns = headers.join(',');
-  const rawData = await pg.query(`
-      SELECT
-      ${columns}
-      FROM skills
-    `);
-
-  const formattedData = rawData.rows.map(row => Object.values(row).join("|")).join("|\n|");
-
-  return `
-|${formattedHeader}|
-${formattedSplitter}
-|${formattedData}|`
 }
 
 function createSplitterString(numHeaders: number): String {

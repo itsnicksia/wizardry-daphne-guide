@@ -49,7 +49,7 @@ Delay Attack,active,Minor physical attack on 1 enemy. Chance to decrease Action 
 DIADOR,support,Words of prayer that cure 1 ally of Paralysis.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
 DIALKO,support,Words of prayer that cure 1 ally of Sleep or Stun.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
 DILTO,debuff,Inky blackness steals sight over a wide area with a chance of reducing the Accuracy of 1 enemy row for 3 turns.,Probability increased while Accuracy decreased incrementally based on skill level. More turns added.
-DIOS,heal,Words of blessing that restore minor HP to 1 ally.,Recovery amount increased based on skill level.
+DIOS,recovery,Words of blessing that restore minor HP to 1 ally.,Recovery amount increased based on skill level.
 Dissipation,active,Making the hand sign to dispel mist negates 1 multi-turn buff from 1 enemy.,Area of effect varies incrementally based on level. Increases the number of buffs negated.
 Donato's Recalcitrance,passive,Continuously increases Accuracy.,Accuracy increased further based on skill level.
 Dream of the Sleeping Witch,passive,"Due to the strain of shared perception with the Sacred Tree, at turn end, if MP is 25% or lower, the user falls Asleep during battle for 1 ime only. While Asleep, damage taken is not increased, and MP is recovered at turn end. While Asleep, the user automatically uses a dark-type spell attack on one enemy.",
@@ -118,7 +118,7 @@ Line Cover (Knight-specific),active,Chance to bear single-target attacks in plac
 Lord of the Deep Forest's Leadership,passive,Increases Evasion and Action Speed for user and all adjacent evil and neutral allies.,
 MACALDIA,support,Expanded visibility of the area increases the Accuracy and Surety Rate of 1 ally row for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.
 MADI,support,"Enveloped in blessed light, 1 ally is cured of Poison, Sleep, Stun, or Paralysis, and major HP is restored.",Target types and recovery amount increased based on skill level.
-MADIOS,heal,Words of great blessing that restore minor HP to 1 ally row.,Recovery amount increased based on skill level.
+MADIOS,recovery,Words of great blessing that restore minor HP to 1 ally row.,Recovery amount increased based on skill level.
 MAERLIK,damage,Flings a stone that deals minor earth spell damage to 1 enemy row.,Efficacy increased based on skill level.
 MAFERU,damage,Launches a massive blade of air that deals minor air spell damage to 1 enemy row.,Efficacy increased based on skill level.
 MAFOROS,damage,Launches scattered orbs of light that deal minor light spell damage to 1 enemy row.,Efficacy increased based on skill level.
