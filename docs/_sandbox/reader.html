@@ -59,6 +59,56 @@
 
   // Delete header
   await pg.exec("DELETE FROM skills WHERE name = 'name';");
+
+  const config = {};
+  config.name = {
+    label: "Skill"
+  }
+
+  const rawData = await pg.query(
+    `
+      SELECT
+      name as Skill
+      effect as Effects
+      level_effect as Details
+      FROM skills
+    `
+  )
+
+  const rawHeaders = await pg.query(
+    `
+      SELECT
+        string_agg(quote_ident(column_name), ',') AS headers
+        FROM information_schema.columns
+        WHERE table_name = 'skills';
+    `);
+  console.log(rawHeaders);
+
+  const headers = rawHeaders.rows[0].headers.split(',');
+  const formattedHeader = headers.join('|');
+
+  const formattedSplitter = Array(headers.length + 1).values()
+    .map(a => "|")
+    .toArray().join('--');
+
+
+  console.log(rawData);
+  const formattedData = rawData.rows.map(row => Object.values(row).join("|")).join("|\n|");
+
+
+  const content = `
+|${formattedHeader}|
+${formattedSplitter}
+|${formattedData}`
+
+  const downloadBlob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+
+  const link = document.getElementById("download-csv");
+  link.href = URL.createObjectURL(downloadBlob);
+  link.download = "skills.md";
 </script>
+<ul>
+  <a id="download-csv">Download skills.md</a>
+</ul>
 </body>
 </html>

@@ -1,0 +1,19 @@
+{
+  "name": "view-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @github/local-action .github/workflows/run-view-generator.yml src/view-generator/main.ts src/view-generator/.env",
+    "generate": "npx tsx ./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@electric-sql/pglite": "^0.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21"
+  }
+}

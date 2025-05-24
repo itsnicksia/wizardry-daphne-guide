@@ -13,7 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master
+        id: checkout
         uses: actions/checkout@v4
+
+      - name: Run Generator Workflow
+        id: run-generator
+        uses: run-generator.yml
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy Generated files to /docs
+        id: copy-generated
+        run: cp -r view-generator/generated/views docs/_generated/
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
