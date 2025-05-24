@@ -1,5 +1,5 @@
 name,type,effect,details
-ABIT,damage,Words of prayer that remove 1 debuff from 1 ally row.,Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.
+ABIT,support,Words of prayer that remove 1 debuff from 1 ally row.,Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.
 Advice of the Skull,passive,Increases damage against undead and decreases damage from undead.,
 Agent of Heresy,passive,Increases damage to enemies for everyone in a row if it has only evil or neutral allies.,
 Air Formation,passive,Increases damage to earth type enemies for user and adjacent air type allies if there are at least 2 air type allies adjacent to the user.,
@@ -16,8 +16,8 @@ Astral Break,active,"Major earth type physical attack on 1 enemy. Bypasses Defen
 Attract Hit,active,Minor physical attack on 1 enemy. User becomes more easily targeted by the affected enemy for 3 turns,"Efficacy increased and user becomes more easily targeted by enemies, based on skill level."
 BADI,damage,Chance of dealing HP-scaled damage to 1 enemy of a race that bleeds.,Probability and damage scaling increased based on skill level.
 BADIOS,damage,A light attack spell cast by a sacred prayer. Deals minor damage to 1 enemy based on the user's Divine Power. Damage is increased against undead.,Efficacy increased based on skill level.
-BALAFEOS,damage,Intrudes on psyches over a wide area with a chance to reduce the Attack Power of 1 enemy row for 3 turns.,Probability increased while Attack Power decreased incrementally based on skill level. More turns added.
-BATILGREF,damage,Generates a bog underfoot over a wide area with a high chance of reducing the Evasion and Action Speed of 1 enemy row for 3 turns.,Probability increased while Evasion and Action Speed decreased incrementally based on skill level. More turns added.
+BALAFEOS,debuff,Intrudes on psyches over a wide area with a chance to reduce the Attack Power of 1 enemy row for 3 turns.,Probability increased while Attack Power decreased incrementally based on skill level. More turns added.
+BATILGREF,debuff,Generates a bog underfoot over a wide area with a high chance of reducing the Evasion and Action Speed of 1 enemy row for 3 turns.,Probability increased while Evasion and Action Speed decreased incrementally based on skill level. More turns added.
 Beastfolk Thief Discipline,passive,Continuously increases each stat. Accuracy increased further.,Accuracy increased further based on skill level.
 Behind Cover (Knight-specific),passive,Chance to bear single-target attacks in place of allies in the back.,Physical damage reduction incrementally added based on skill level. Chance increased further and damage decreased further.
 Blessing of Agora,passive,Adds 1 consecutive turn to buffs and debuffs applied by the user and increases MP. MP increase amount and growth amount of consecutive turns are reduced if learned by someone other than Alice.,Incrementally adds MP Up based on skill level. MP increased further and number of continuous turns augmented.
@@ -27,7 +27,7 @@ Blinding,active,Minor physical attack on 1 enemy based on the user's Dexterity. 
 Blood Edge,active,Launches a minor physical attack on 1 enemy dealing continuous damage to HP for a set number of turns.,Damage amount and number of turns increased further based on skill level.
 Bloodline of the Mirror-Mere,passive,"Continuously increases each stat, with Accuracy and Magic Defense increased even further.","Accuracy and Magic Defense increased further based on skill level."
 Branded Hands,passive,Increases Accuracy when equipped with a two-handed weapon.,
-CALDIA,damage,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.
+CALDIA,support,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.
 Child of the Sacred Tree,passive,"Continuously increases each stat, with Magic Power and Action Speed increased even further.",Magic Power and Action Speed increased further based on skill level.
 Chris's Friendship,passive,Continuously increases MP.,MP increased further based on skill level.
 Coin of Power,passive,"Allows one-handed swords and two-handed swords to be equipped. Continuously increases own Attack Power, Defense Power, Accuracy, Evasion, HP, and SP.",
@@ -35,7 +35,7 @@ Cold-blooded Elf,passive,"Continuously increases each stat, Surety and Sleep Tol
 Compassionate Apothecary,passive,"Increases Tolerance of Poison, Paralysis, and Stone for user and all adjacent good allies.",
 Concealment (Ninja-specific),active,"Conceals the user, providing a high chance of evading an enemy attack, apart from an enemy attack's standard hit determination. Evasion occurrence rate further increased while wearing no armor.",Evasion rate increased based on skill level.
 Contiguous States of Mind,passive,Continuously increases some stats.,Adds more affected stats based on skill level and Effects increased further.
-CORTU,damage,Raises a barrier that reduces spell damage received by all allies for 2 turns.,Spell damage incrementally decreased further based on skill level. More turns added.
+CORTU,support,Raises a barrier that reduces spell damage received by all allies for 2 turns.,Spell damage incrementally decreased further based on skill level. More turns added.
 Counterattack (Close/mid-range weapon-specific),passive,Chance to counter attack when evading a close-range attack (affected by luck).,Probability increased based on skill level.
 Cover (Knight-specific),active,Chance to intercept single-target attacks directed at 1 designated ally for 2 turns.,Defense Power Up incrementally added based on skill level. Probability and Defense Power increased further. More turns added.
 Covert Strike (Close-range weapon-specific),active,"A series of moderate physical attacks with double the Attack Rate on 1 enemy, that can only be used while in Concealment.",Efficacy increased based on skill level.
@@ -46,10 +46,10 @@ Dark-Type Thaumaturgy,passive,Reduces <type> type damage to self.,Damage decreas
 Defense of House Zart,passive,"Continuously increases each stat, HP and Evade Trap increased further.",HP and Evade Trap Tolerance increased further based on skill level.
 Defensive Provoke (Close/Midrange),active,"Continuously restores own minor HP, increases Defense Power, and makes 1 row enemies easier to target.","Recovery amount augmented, Defense Power increased, and user becomes more easily targeted by enemies, based on skill level."
 Delay Attack,active,Minor physical attack on 1 enemy. Chance to decrease Action Speed based on the user's Dexterity.,Efficacy and probability increased while Action Speed further decreased based on skill level.
-DIADOR,damage,Words of prayer that cure 1 ally of Paralysis.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
-DIALKO,damage,Words of prayer that cure 1 ally of Sleep or Stun.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
-DILTO,damage,Inky blackness steals sight over a wide area with a chance of reducing the Accuracy of 1 enemy row for 3 turns.,Probability increased while Accuracy decreased incrementally based on skill level. More turns added.
-DIOS,damage,Words of blessing that restore minor HP to 1 ally.,Recovery amount increased based on skill level.
+DIADOR,support,Words of prayer that cure 1 ally of Paralysis.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
+DIALKO,support,Words of prayer that cure 1 ally of Sleep or Stun.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
+DILTO,debuff,Inky blackness steals sight over a wide area with a chance of reducing the Accuracy of 1 enemy row for 3 turns.,Probability increased while Accuracy decreased incrementally based on skill level. More turns added.
+DIOS,heal,Words of blessing that restore minor HP to 1 ally.,Recovery amount increased based on skill level.
 Dissipation,active,Making the hand sign to dispel mist negates 1 multi-turn buff from 1 enemy.,Area of effect varies incrementally based on level. Increases the number of buffs negated.
 Donato's Recalcitrance,passive,Continuously increases Accuracy.,Accuracy increased further based on skill level.
 Dream of the Sleeping Witch,passive,"Due to the strain of shared perception with the Sacred Tree, at turn end, if MP is 25% or lower, the user falls Asleep during battle for 1 ime only. While Asleep, damage taken is not increased, and MP is recovered at turn end. While Asleep, the user automatically uses a dark-type spell attack on one enemy.",
@@ -95,30 +95,30 @@ Immortal Strike,active,Deals a minor physical attack on 1 enemy and restores min
 Impartial Collaborator,passive,Increases damage to enemies for user and allies in front of or behind them if the ally is neutral.,
 Interpersonal Combat Technique,passive,Increases damage against adventurers and decreases damage from adventurers.,
 Ira's Divine Protection,passive,Continuously increases Divine Power.,Divine Power increased further based on skill level.
-KANTIOS,damage,Chaotic energy over a wide area strips away the self-awareness of 1 enemy row with a chance of Confusing them.,Probability increased while Confusion becomes harder to remove based on skill level.
-KATINO,damage,Generates sleep-inducing fumes over a wide area which have a chance of putting 1 enemy row to Sleep.,Probability increased while Sleep becomes harder to remove based on skill level.
-KINAPIC,damage,Receiving divine power to increase the Resistance of 1 ally row for 3 turns.,Resistance incrementally increased further based on skill level. More turns added.
+KANTIOS,debuff,Chaotic energy over a wide area strips away the self-awareness of 1 enemy row with a chance of Confusing them.,Probability increased while Confusion becomes harder to remove based on skill level.
+KATINO,debuff,Generates sleep-inducing fumes over a wide area which have a chance of putting 1 enemy row to Sleep.,Probability increased while Sleep becomes harder to remove based on skill level.
+KINAPIC,support,Receiving divine power to increase the Resistance of 1 ally row for 3 turns.,Resistance incrementally increased further based on skill level. More turns added.
 King's Disposition,passive,"Continuously increases each stat, Accuracy and Stun Tolerance increased further.",Accuracy and Stun Tolerance increased further based on skill level.
 Knight's Creed,passive,"Continuously increases each stat, Attack Power and Stun Tolerance increased further.",Attack Power and Stun Tolerance increased further based on skill level.
 Knight's Defense (Knight-specific),active,Reduces all damage taken by all allies for 1 turn.,Damage decreased further based on skill level.
 Knight's Oath,passive,"Continuously increases each stat, SP and Resistance increased further.",SP and Resistance increased further based on skill level.
 Knowledge of Adventurers,passive,"Continuously increases each stat, Attack Power and Detect increased further.",Attack Power and Detect increased further based on skill level.
 Knowledge of the Millennial Lord,passive,Continuously reduces the MP/SP cost of Mage spells/skills that cost 3-10 MP/SP.,
-KUSFIS,damage,Words of prayer that cure 1 ally of Skill-binding or Spell-binding.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
+KUSFIS,support,Words of prayer that cure 1 ally of Skill-binding or Spell-binding.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
 LAERLIK,damage,"Upheaves the ground, loosing a massive boulder which deals moderate earth spell damage to all enemies.",Efficacy increased based on skill level.
 LAFERU,damage,"Generates a massive tornado that shears all, dealing moderate air spell damage to all enemies.",Efficacy increased based on skill level.
 LAFOROS (Mage-specific),damage,Generates a shower of countless lights that deal moderate light spell damage to all enemies.,Efficacy increased based on skill level.
 LAHALITO (Mage-specific),damage,"Generates a massive pillar of flame that consumes all, dealing moderate fire spell damage to all enemies.",Efficacy increased based on skill level.
 LAMIGAL (Mage-specific),damage,Generates a massive torrent of water that swallows all. dealing moderate water spell damage to all enemies.,Efficacy increased based on skill level.
-LATUMOFIS,damage,Words of prayer that cure 1 ally of Poison.,"Resistance up, Critical Poison recovery, and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects, and recovery amount."
+LATUMOFIS,support,Words of prayer that cure 1 ally of Poison.,"Resistance up, Critical Poison recovery, and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects, and recovery amount."
 LAZELOS (Mage-specific),damage,Generates a powerful mass of hatred that deals moderate dark spell damage to all enemies.,Efficacy increased based on skill level.
 Light-Kin Blessing,passive,Reduces light type damage for elves in the same row.,
 Lightning Celerity,passive,Increases Evasion when equipped with a one-handed sword.,Attack Power increased further based on skill level.
 Line Cover (Knight-specific),active,Chance to bear single-target attacks in place of allies in 1 ally row for 1 turn.,Defense Power Up incrementally added based on skill level.
 Lord of the Deep Forest's Leadership,passive,Increases Evasion and Action Speed for user and all adjacent evil and neutral allies.,
-MACALDIA,damage,Expanded visibility of the area increases the Accuracy and Surety Rate of 1 ally row for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.
-MADI,damage,"Enveloped in blessed light, 1 ally is cured of Poison, Sleep, Stun, or Paralysis, and major HP is restored.",Target types and recovery amount increased based on skill level.
-MADIOS,damage,Words of great blessing that restore minor HP to 1 ally row.,Recovery amount increased based on skill level.
+MACALDIA,support,Expanded visibility of the area increases the Accuracy and Surety Rate of 1 ally row for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.
+MADI,support,"Enveloped in blessed light, 1 ally is cured of Poison, Sleep, Stun, or Paralysis, and major HP is restored.",Target types and recovery amount increased based on skill level.
+MADIOS,heal,Words of great blessing that restore minor HP to 1 ally row.,Recovery amount increased based on skill level.
 MAERLIK,damage,Flings a stone that deals minor earth spell damage to 1 enemy row.,Efficacy increased based on skill level.
 MAFERU,damage,Launches a massive blade of air that deals minor air spell damage to 1 enemy row.,Efficacy increased based on skill level.
 MAFOROS,damage,Launches scattered orbs of light that deal minor light spell damage to 1 enemy row.,Efficacy increased based on skill level.
@@ -126,11 +126,11 @@ Mage of the Black Rod,passive,"At the start of own turn, when user is in the fro
 Magic of The Dark One,passive,Continuously increases each stat. Divine Power and Magic Defense increased further..,Divine Power and Magic Defense increased further based on skill level.
 Magical Being Knowledge,passive,Increases damage against magical beings and decreases damage from magical beings.,
 MAHALITO,damage,Launches a blazing fireball that deals minor fire spell damage to 1 enemy row.,Efficacy increased based on skill level.
-MAKALTU,damage,Generates an encompassing wall of Magic Power that increases the Defense Power of 1 row of allies for 3 turns.,Defense Power incrementally increased further based on skill level. More turns added.
+MAKALTU,support,Generates an encompassing wall of Magic Power that increases the Defense Power of 1 row of allies for 3 turns.,Defense Power incrementally increased further based on skill level. More turns added.
 MAKANITO,damage,Fouls the air with a chance of suffocating 1 enemy row. More effective against low-level targets.,Probability increased based on skill level.
 MAMIGAL,damage,Launches a torrent of water that deals minor water spell damage to 1 enemy row.,Efficacy increased based on skill level.
 MAREIN,damage,A radiance of mourning for the dead shines down on the undead in 1 enemy row with a chance to obliterate them based on the user's Divine Power.,Probability increased based on skill level.
-MASOLOTU,damage,Conjures an apparition that increases the Evasion and of 1 ally row for 3 turns.,Evasion incrementally increased further based on skill level. More turns added.
+MASOLOTU,support,Conjures an apparition that increases the Evasion and of 1 ally row for 3 turns.,Evasion incrementally increased further based on skill level. More turns added.
 Master of the Hunt,passive,"Continuously increases each stat, Attack Power and Action Speed increased further.",Attack Power and Action Speed increased further based on skill level.
 MAZELOS,damage,Launches an orb of immense spite that deals minor dark spell damage to 1 enemy row.,Efficacy increased based on skill level.
 Mel the Thief's Trap Decipher,passive,Continuously increases Disarm Trap.,Disarm Trap increased further based on skill level.
@@ -138,14 +138,14 @@ Mental Unity,active,Increases Spell Attack damage for 4 turns.,Spell attack dama
 MIGAL,damage,Launches an orb of water that deals minor water spell damage to 1 enemy.,Efficacy increased based on skill level.
 Miracle of Faith,passive,Increases Magic Defense when equipped with light armor.,
 Moment of Finality,active,"Unleashes the blasting spell contained with a charm, launching an untyped spell attack on 1 enemy row that bypasses Magic Defense. Damage based on Attack Power. Damage is reduced if learned by someone other than Rinne.",Efficacy and Magic Defense bypass rate increased based on skill level.
-MONTINO,damage,Silence over a wide area envelopes 1 enemy row with a chance of Spell-binding them.,Probability increased based on skill level.
+MONTINO,debuff,Silence over a wide area envelopes 1 enemy row with a chance of Spell-binding them.,Probability increased based on skill level.
 Moonlit Pool of the White Daemon,active,"Moderate water-type physical attack on 1 enemy. Ignores distance modifiers. Damage, probability of Spell-Binding, and the rate of Magic Power reduction are reduced if learned by someone other than Livana.","Efficacy increased, with probability further increased and Magic Power further decreased based on skill level."
-MORLIS,damage,Generates an acidic mist over a wide area with a chance of reducing the Defense Power of 1 enemy row for 3 turns.,Probability increased while Defense Power decreased incrementally based on skill level. More turns added.
+MORLIS,debuff,Generates an acidic mist over a wide area with a chance of reducing the Defense Power of 1 enemy row for 3 turns.,Probability increased while Defense Power decreased incrementally based on skill level. More turns added.
 Mudd's Caution,passive,Continuously increases Detect.,Detect increased further based on skill level.
 Mutual Interests,passive,Increases damage to enemies for user and allies in front of or behind them if the ally is evil.,
 Nameless Loyalty,passive,Increases Tolerance of Sleep and Stun for user and all adjacent good allies.,
 Ninja Dual Wield (Ninja-specific),passive,"When equipped with a dagger, a dagger can be equipped in the left hand. When equipped with a throwing weapon, a throwing weapon can be equipped in the left hand. When using Ninja Dual Wield, Evasion and Action Speed are reduced.","Damage reduction rate is reduced when attacking with the left hand, based on skill level. The rate of left-hand Attack Power added to right-hand Attack Power when using attack skills is increased."
-NOFIS,damage,Calls forth a calamity over a wide area with a chance of reducing the Magic Defense of 1 enemy row for 3 turns.,Probability increased while Magic Defense further decreased based on skill level.
+NOFIS,debuff,Calls forth a calamity over a wide area with a chance of reducing the Magic Defense of 1 enemy row for 3 turns.,Probability increased while Magic Defense further decreased based on skill level.
 Nose for Treasure,passive,"Continuously increases each stat, Disarm Trap and Detect increased further..",Disarm Trap and Detect increased further based on skill level.
 Oath of Fortitude,passive,"Increases Tolerance of Confusion, Charm, and Fear for user and all adjacent neutral allies.",
 Old Warrior's Teachings,passive,Continuously increases each stat. Accuracy and Defense Power increased further.,Accuracy and Defense Power increased further based on skill level.
@@ -190,7 +190,7 @@ Passive Surety Up (Ninja),passive,Continuously increases Surety.,Surety increase
 Passive Surety Up (Thief),passive,Continuously increases Surety.,Surety increased further based on skill level.
 Planned Hunting,passive,Increases damage against magical beasts and decreases damage from magical beasts.,
 Poison Attack,active,Minor physical attack on 1 enemy. Chance to poison based on the user's Dexterity.,Efficacy and probability increased and poison damage augmented based on skill level.
-PORTO,damage,Blows a tailwind that increases the Action Speed of 1 ally for 3 turns.,Action Speed incrementally increased further based on skill level. More turns added.
+PORTO,support,Blows a tailwind that increases the Action Speed of 1 ally for 3 turns.,Action Speed incrementally increased further based on skill level. More turns added.
 Practical Self-Defense,passive,"Continuously increases each stat, SP and Resistance increased further.",SP and Resistance increased further based on skill level.
 Precision Strike,active,Minor physical attack with high Accuracy on 1 enemy. bypasses Defense Power and guarantees a decisive hit on enemies in preparation.,Efficacy increased while Defense Power further bypassed based on skill level.
 Presence of Mind,passive,"Attacks become more likely to hit, even enemies that are out of range.",
@@ -199,8 +199,8 @@ Protector of the Kingdom,passive,"Continuously increases each stat, HP and Defen
 Pursuit of Prayer,passive,"Continuously increases each stat, HP and Divine Power increased further.",HP and Divine Power increased further based on skill level.
 Queen of War and Love,passive,Restores minor HP to all allies upon winning a battle. Recovery amount is reduced if learned by someone other than Lanavaille.,Recovery amount increased based on skill level.
 Recovery,passive,Chance to remove 1 naturally-recoverable status affliction at the start of own turn (affected by luck).,Probability increased based on skill level.
-REILIS,damage,"Words of prayer that cure 1 ally of Fear, Confusion, or Charm.","Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
-REINIKUS,damage,Words of prayer that cure 1 ally of Stone.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
+REILIS,support,"Words of prayer that cure 1 ally of Fear, Confusion, or Charm.","Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
+REINIKUS,support,Words of prayer that cure 1 ally of Stone.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
 Royal Knight Aspirant,passive,"Continuously increases each stat, SP and Accuracy increased further.",SP and Accuracy increased further based on skill level.
 Sacred Blessing (Priest-specific),passive,Reduces own damage taken from undead.,Damage decreased further based on skill level.
 Salvation through Wealth,passive,Continuously increases each stat. MP and Curse Tolerance Trap increased further.,MP and Curse Tolerance increased further based on skill level.
@@ -255,4 +255,4 @@ Will to Fight,passive,"Increases Accuracy, Evasion, and Surety when HP is below 
 Wisdom of Truth,passive,Eliminates dampening of damage from types the user is at a disadvantage with a chance to reduce damage when user is attacked (affected by Luck). Damage reduction amount/rate are reduced if learned by someone other than Adam.,"Incrementally adds MP up, with a chance to reduce damage when attacked, based on skill level. Probability increased and damage further reduced."
 Young Spell Prodigy,passive,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.
 ZELOS,damage,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.
-ZILFIS,damage,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
+ZILFIS,support,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount."
