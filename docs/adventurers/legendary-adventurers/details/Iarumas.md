@@ -28,7 +28,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Iarumas is a bit of an interesting adventure. First, to mention the elephant in the room, he is not an actual Samurai despite the belief many folks had that the Samurai class would release with him. Instead, a new precedent was set where the collab adventurers were released with their own unique classes. In this case, The `Mage of the Black Rod` class is a mix between a Fighter and a Mage, gaining some interesting versatility while losing some key passive skills. Notably, Iarumas does not naturally have access to the damage multiplier provided by `Way of the Warrior`, nor does he naturally have access to the MP cost reduction provided by `Way of the Mage`. He also does not have access to the new `Full Power Strike` skill, which means he's missing the Fighter's most efficient physical damage attack. Iarumas' assortment of skills and spells makes him a unique and versatile damage dealer that can provide some additional support.
 
@@ -49,8 +49,19 @@
 
     Iarumas is a very strong multi-purpose damage dealer with excellent Neutral and Void typing, and his kit is quite unique. You'll want to decide if his uniqueness and versatility is worth including in a party, though, as he faces some strong competition from more specialized adventurers.
 
-    ??? note "TheAxolotl's Pull Plan"
-        I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
+??? info "Frobro's Analysis"
+
+    At present, I’m not a fan of these phys/mag hybrid units. In practice, they are middling fighters who lack Full Power Strike, have gear restrictions and effectively learn their mage spell tree without needing to class change. I think it’s pretty telling that the unit that’d be the best at this kind of setup, MC, doesn’t get built like this because (unless your name is TheAxolotl) there are better ways to build him. Iarumas is getting access to samurai proper at a later date, so my mind may change.
+
+    Judging him as he is, not bad. Drecom loaded his passives and gear with stats to ensure he could at least keep up with mages as a caster and fighters as a basic physical attacker. They did everything in their power to make him interesting. Tzalik is extremely strong and stat-creep-proof with the magic defense penetration effect and I guess the ability for it to surety is intended since they never patched it out. Being void is…different, and being neutral aligned makes him splashable with most team comps.
+
+## Adventurer Pull Plans
+
+??? note "TheAxolotl's Pull Plan"
+    I like the Iarumas/Berkanan banner, so I pulled a decent amount on this one. I ultimately wanted to get multiple levels to TZALIK to the MC and I wanted to build Berk as an adventurer for occasional use.
+
+??? note "Lynd's Pull Plan"
+    Mostly Tzalik bait but he looked cool too so I threw some to get a meager maxed discipline because I'm inefficient.
 
 ## Duplicate Usage:
 

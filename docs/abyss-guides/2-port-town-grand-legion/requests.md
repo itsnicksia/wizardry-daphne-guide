@@ -524,7 +524,7 @@ Goetia -> Admiral Route
         - Wheel to Arena 3 of the Pontiff route
         - Find Pickerel at the marked location
 
-- Complete all three important request routes (Princess, Pontiff, and Admiral)
+- Complete all three important request routes (Princess, Pontiff, and Admiral). You will also need to have to sabotaged the Vernant fight via Pickerel replacing his potion with onion soup in a different route.
 - Wheel back to Round 3 Pontiff and talk to the goblin so you can see that you're fighting Pickerel.  
 - Go to x and find him at the location in the image to overhear him talking to the head chef  
 - Speak with the head chef and he’ll tell you where to pick up the ingredients to make the soup  

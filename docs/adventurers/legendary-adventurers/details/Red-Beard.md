@@ -28,7 +28,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Red Beard has an interesting and somewhat contradictory skill set that make him simultaneously unique and difficult to optimally use.
 
@@ -46,8 +46,23 @@
 
     He's a solid pass for me, personally. I think his buff, while nice, is limited from its full potential by core game mechanics and he won't provide anything overly unique to my party that can't already be achieved, with potentially better and easier-to-work-with results, with other party members like Alice.
 
-    ??? note "TheAxolotl's Pull Plan"
-        Red Beard was a skip for me. His buff is strong, but I didn't want to have to fight the 3 buff limit and buying Scrolls of Shared Power from the shop could cover any same-turn attack power buffing I wanted.
+??? info "Frobro's Analysis"
+
+    I like the idea of something unorthodox, but it just isn’t as effective here. Red Beard is kind of a front-line back-up priest. Male/Dwarf + that Divine Power and Attack discipline point to him being a strong attacker, but when stuck with the weapon restrictions Priests have, he kinda has to be in the front. Fortunately, as a neutral unit, he doesn’t break one of the few well-aligned front-row buffs.
+
+    He has relatively low MP for a priest and low SP compared to other physically inclined units, meaning you can’t rely on him being your only healing source in extended runs and he doesn’t have the resources to use high-level inherited skills like Heavy Attack to make up for priest’s lack of offense phys damage.
+
+    The Prayer of Rebellion buff sounds cool, but in reality, it is okay at best. Attack buff feels unimpactful and it takes up 2 buff slots with the Res add-on. Macaldia is preferable unironically. The Dark Adjacent Instakill + Omnibind resist is cool, but not enough to make him an appealing bring.
+
+    Priests are better in the back with tons of MP, and the front line is reserved for units that can put up big physical damage and Red is neither of those. Wouldn’t suggest using unless you’re dead set on having a mono-dwarf team.
+
+## Adventurer Pull Plans
+
+??? note "TheAxolotl's Pull Plan"
+    Red Beard was a skip for me. His buff is strong, but I didn't want to have to fight the 3 buff limit and buying Scrolls of Shared Power from the shop could cover any same-turn attack power buffing I wanted.
+
+??? note "Lynd's Pull Plan"
+    Now I have nothing against dwarves, I was a Gerulf truther and still use him ocassionally to this day. Redbeard though? One copy for collection because Alice looks better in my backline.
 
 ## Duplicate Usage
 
