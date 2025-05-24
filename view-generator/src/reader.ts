@@ -1,5 +1,6 @@
 import { PGlite } from '@electric-sql/pglite';
 import * as fs from 'fs';
+import { createSplitterString } from './markdown';
 
 const pg = new PGlite()
 
@@ -15,7 +16,7 @@ export async function generateSkillsView() {
   const headers = Object.keys(headerMap);
   const formattedHeader = Object.values(headerMap).join('|');
 
-  const formattedSplitter = createSplitterString(headers.length + 1);
+  const splitter = createSplitterString(headers.length + 1);
 
   const columns = headers.join(',');
 
@@ -33,12 +34,12 @@ export async function generateSkillsView() {
 
 
     const formattedData = rawData.rows.map(row => Object.values(row).join("|")).join("|\n|");
-    const skillTypeHeader = `# ${skillType} `;
+    const skillTypeHeader = `## ${skillType} `;
 
     output = output.concat(`
 ${skillTypeHeader}
 |${formattedHeader}|
-${formattedSplitter}
+${splitter}
 |${formattedData}|
 
     `);
@@ -63,11 +64,4 @@ async function loadSkillsData(path: string) {
 
   await pg.query("COPY skills FROM '/dev/blob' WITH CSV;", [], { blob });
   await pg.exec("DELETE FROM skills WHERE name = 'name';");
-
-}
-
-function createSplitterString(numHeaders: number): String {
-  return new Array(numHeaders)
-    .fill('|')
-    .join('--');
 }
