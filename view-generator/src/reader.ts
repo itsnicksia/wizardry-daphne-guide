@@ -20,7 +20,7 @@ export async function generateSkillsView() {
   const columns = headers.join(',');
 
   let output = "";
-  const skillTypes = ["Passive", "Damage", "Active", "Recovery", "Support", "Debuff"];
+  const skillTypes = ["Active", "Passive", "Damage", "Recovery", "Support", "Debuff"];
   for (let index = 0; index < skillTypes.length; index++) {
     const skillType = skillTypes[index];
 
