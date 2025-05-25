@@ -19,7 +19,7 @@ function buildTableFromSheet({containerElementId, url, columnRange}) {
         url,
         {
             download: true,
-            header: false,
+            header: true,
             complete: ({ data, meta }) => {
                 let html = [
                     "<div class='md-typeset__scrollwrap'>",
