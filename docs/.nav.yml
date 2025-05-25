@@ -7,5 +7,6 @@ nav:
   - Strategies: strategies
   - Events: events
   - Appendices: appendices
+  - Tools: tools
   - Playing on PC: './emulators/emulators.md'
   - About The Guide: './index.md'

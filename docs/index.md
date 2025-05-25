@@ -1,12 +1,7 @@
-# Wizardry Variants Daphne Community Guide
+# Wizardry Variants: Daphne Community Guide
 
-**Warning: This site contains spoilers!**
+!!! warning "**Warning: This guide contains spoilers.**"
 
-This is a collaborative guide maintained by the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) community.
-
-We welcome contributions and corrections by the community so please don’t hesitate to add suggestions to the **#guide-contributions** Discord channel or contribute on [GitHub](https://github.com/itsnicksia/wizardry-daphne-guide).
-
-<br/>
 <div class="grid cards" markdown>
 
 -   __New to Wizardry Variants: Daphne?__
@@ -28,8 +23,8 @@ We welcome contributions and corrections by the community so please don’t hesi
     **Adventurer Customization**
 
     - [Building Your Party](./adventurer-customization/party-construction.md)
-    - [Blacksmithing](./adventurer-customization/blacksmithing)
-    - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist)
+    - [Blacksmithing](./adventurer-customization/blacksmithing/index.md)
+    - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)
 
 -   __Raising Trust__
@@ -39,54 +34,57 @@ We welcome contributions and corrections by the community so please don’t hesi
     - [Trust Guide](./mechanics/trust/trust.md)
     - [Trust Dialogue](./mechanics/trust/table.md)
 
--   __Questions?__
+-   __Tools__
 
     ---
 
-    - [FAQ](frequently-asked-questions.md)
+    - [Respawn Tracker](./tools/tracker.md)
+    - [Blacksmithing Simulator (preview)](./tools/blacksmith-simulator.md)
+
+-   __Game Download__
+
+    ---
+
+    - [Steam](https://store.steampowered.com/app/2379740/Wizardry_Variants_Daphne/)
+    - [Google Play Store](https://play.google.com/store/apps/details?id=jp.co.drecom.wizardry.daphne&hl=en_AU&pli=1)
+    - [Apple App Store](https://apps.apple.com/au/app/wizardry-variants-daphne/id1663423521)
+
+-   __More Questions?__
+
+    ---
+
+    - [Frequently Asked Questions](frequently-asked-questions.md)
 
 </div>
-<br/>
 
 ## About the Guide
 
-Our guide has consolidated information about Wizard Variants Daphne, including:
+Welcome to the Community Guide maintained by members of the [Wizardry Variants: Daphne Discord Server](https://discord.gg/YjYmUCkBXK)!
 
- - Abyss Walkthroughs and Maps
- - Greater Warped Ones
- - Requests
- - Adventurers
- - Bondmates
- - Mechanics, and more!
+Find out more about:
 
-### We Will
- - Provide the key information and guides that will allow you to complete game content.
- - Strive to update the guide with new content as quickly as we can.
+- The Abyss and its fearsome Greater Warped Ones
+- Requests, Adventurers, Bondmates
+- Gameplay Mechanics and more!
 
-### We Will Not
- - Provide exhaustive hand-holding through all content.
- - Warn you of all traps or hidden dangers.
- - Tolerate any abuse or trolling of maintainers, contributors or community members.
+Good Luck, and **Savor the Risk!**
 
-## Navigating the Guide
+!!! tip "Can't find what you need? Try **Search** at the **top** of the page!"
 
-Find what you're looking for using the **Sidebar** on the left or using **Search** on the **top-right**.
+!!! warning "We do not tolerate any abuse of maintainers, contributors or community members."
+
+## Contributing
+
+- [Feedback and Suggestions (Discord: #guide-contributions)](https://discord.com/channels/1296602475918524507/1310256313720377364)
+- [GitHub Contributions](./CONTRIBUTING.md)
+
 
 ## Maintainers
 
 - Baldcat
 - Gagging
+- Lynd
 - TheAxolotl
-
-## Contributing
-
-Do you want to contribute? 
-
-We welcome community contributions! 
-
-If you'd like to add to our guide, please read [Environment Setup](./contributing/setup-win32.md) to get started.
-
-You can also check out our [Style Guide](./contributing/reference.md) to add stylistic flair to your contributions!
 
 ## Resources
 

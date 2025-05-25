@@ -3,11 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "private": true,
-  "dependencies": {
-    "@svgdotjs/svg.js": "^3.2.4"
-  }
+  "dependencies": {}
 }

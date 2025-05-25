@@ -33,13 +33,16 @@
         |   2   |             22            |               11               |
         |   3   |             34            |               17               |
         |   4   |             44            |               23               |
-        |   5   |             58            |                                |
+        |   5   |             58            |               30?              |
         |   6   |             68            |               38               |
-        |   7   |             85            |                                |
+        |   7   |             85            |                -               |
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Stirring Righteousness (Standard)"
         Increases damage to enemies for everyone in a row if it has only good or neutral allies.
+        
+        !!! note
+            This damage increase is approximately 8%.
 
     === "Valiant Righteousness (Wandering Princess)"
         <span style="color: yellow">Own Action Speed increased based on the number of one-handed swords and light armor equipped to self.</span>
@@ -54,7 +57,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     === "Standard"
 
@@ -76,8 +79,16 @@
 
         One key thing to note is that Discipline is tied to the particular style, so standard Lana dupes cannot be used to increase the Discipline of Wandering Princess Lana. This actually makes it an easy choice for standard dupe usage if you use Wandering Princess Lana, as inheriting standard Lana dupes to the merged Wandering Princess Lana will give the best value.
 
-        ??? note "TheAxolotl's Pull Plan"
-            I pulled for a couple copies of Wandering Lana. My main goal was a base copy plus a single copy for the OCD Discipline. Getting rid fo the OG Lana's voice was a big enough reason for me to pull.
+??? info "Frobro's Analysis"
+
+    Do I even need to explain this one? One of the few well-aligned party buffs in the game. That post-battle healing is incredibly strong. At level 1 it falls off after the early game which makes people think lowly of it, but it is great even at level 60 with just a few more levels. Assuming you use Lana, this isn’t the worst use of Codexs around. I don’t even bring a healer when auto-farming events anymore.
+
+    The real kicker here is that to reach her full potential, you gotta switch Lana to fighter. (After learning all the knight stuff first) The downside is having to look at dork fighter Lana. The upside is that Wana exists. Besides looking better as a fighter, Wana also gets an ASPD boost with a gear-based conditional and turns Lana’s “whatever” discipline focus into “whatever…but better”. When merged, you only need to level the Queen of War and Love skill on one unit to apply it to both styles.
+
+## Adventurer Pull Plans
+
+??? note "TheAxolotl's Pull Plan"
+    I pulled for a couple copies of Wandering Lana. My main goal was a base copy plus a single copy for the OCD Discipline. Getting rid fo the OG Lana's voice was a big enough reason for me to pull.
 
 ## Duplicate Usage:
 

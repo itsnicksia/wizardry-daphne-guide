@@ -13,7 +13,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master
+        id: checkout
         uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        id: setup-node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.18.1
+          cache: npm
+
+      - name: Install Dependencies
+        id: npm-ci
+        run: npm ci
+        working-directory: view-generator
+
+      - name: Generate
+        id: generate
+        run: npm run generate
+        working-directory: view-generator
+
+      - name: Copy Generated files to /docs
+        id: copy-generated
+        run: cp -r view-generator/generated/views docs/_generated/
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master

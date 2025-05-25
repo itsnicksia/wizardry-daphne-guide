@@ -40,7 +40,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     === "Mage of the Silent Night"
 

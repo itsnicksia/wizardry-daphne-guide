@@ -202,7 +202,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     ??? note "Walkthrough 1st Run (1st Half from Zone 9 to Zone 10)"
         - There may be a room that will lock behind you on this floor. There is a rotating sentry and corruption sentry inside. You will need to get seen by the corruption sentry to access the door with the switch that opens the door out of this room. Otherwise it will be straightforward.
 
-    ??? note "Walkthrough 1st Run (2nd Half from Zone 8 to Zone 10)
+    ??? note "Walkthrough 1st Run (2nd Half from Zone 8 to Zone 10)"
         - Similar to the 1st Half depending on map generation.
 
 ??? map "Zone 10 -Fortress 3F Lord's Room-"

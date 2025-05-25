@@ -1,6 +1,6 @@
 # List of Adventurers
 
-=== "Adventurer Basics"
+=== "Basics"
     | Name                                                            | Race      | Gender | Primary Class         | Secondary Class | Type  | Personality | Classification |
     | --------------------------------------------------------------- | --------- | ------ | --------------------- | --------------- | ----- | ----------- | -------------- |
     | [Abenius](./legendary-adventurers/details/Abenius.md)           | Human     | Female | Fighter               | Priest          | Light | Good        | Legendary      |
@@ -42,6 +42,7 @@
     | [Jean](./general-adventurers/details/Jean.md)                   | Human     | Male   | Thief                 | Mage            | Earth | Neutral     | General        |
     | [Kiriha](./general-adventurers/details/Kiriha.md)               | Human     | Male   | Ninja                 |                 | Dark  | Evil        | General        |
     | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Human     | Female | Knight                | Fighter         | Fire  | Good        | Legendary      |
+    | [Livana](./legendary-adventurers/details/Livana.md)             | Human     | Female | Fighter               |                 | Water | Good        | Legendary      |
     | [Marianne](./general-adventurers/details/Marianne.md)           | Human     | Female | Priest                | Mage            | Air   | Good        | General        |
     | [Milana](./general-adventurers/details/Milana.md)               | Elf       | Female | Thief                 | Mage            | Dark  | Evil        | General        |
     | [Olive](./general-adventurers/details/Olive.md)                 | Elf       | Female | Fighter               | Thief           | Air   | Neutral     | General        |
@@ -55,7 +56,7 @@
     | [Viviana](./general-adventurers/details/Viviana.md)             | Human     | Female | Thief                 | Priest          | Water | Evil        | General        |
     | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     | Human     | Female | Mage                  | Priest          | Earth | Neutral     | Legendary      |
 
-=== "Adventurer Base Traits"
+=== "Base Traits"
     | Name                                                            | Strength |  IQ | Piety | Vitality | Dexterity | Speed | Luck |
     | --------------------------------------------------------------- |:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
     | [Abenius](./legendary-adventurers/details/Abenius.md)           |    13    |  12 |   14  |    12    |     12    |   12  |  12  |
@@ -97,6 +98,7 @@
     | [Jean](./general-adventurers/details/Jean.md)                   |    12    |  11 |   11  |    14    |     14    |   13  |  12  |
     | [Kiriha](./general-adventurers/details/Kiriha.md)               |    13    |  13 |   11  |    12    |     13    |   13  |  13  |
     | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     |    15    |  12 |   13  |    14    |     11    |   12  |  11  |
+    | [Livana](./legendary-adventurers/details/Livana.md)             |    13    |  14 |   13  |    12    |     12    |   12  |  11  |
     | [Marianne](./general-adventurers/details/Marianne.md)           |    11    |  13 |   14  |    11    |     12    |   14  |  12  |
     | [Milana](./general-adventurers/details/Milana.md)               |    09    |  17 |   11  |    09    |     14    |   15  |  12  |
     | [Olive](./general-adventurers/details/Olive.md)                 |    11    |  15 |   11  |    10    |     15    |   15  |  10  |
@@ -110,57 +112,114 @@
     | [Viviana](./general-adventurers/details/Viviana.md)             |    11    |  14 |   13  |    11    |     12    |   14  |  12  |
     | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     |    11    |  14 |   12  |    13    |     13    |   13  |  11  |
 
-=== "Adventurer Ruins"
-    | Name                                                            | Unique Bone Name                                          | Original Release Date | Alternate Form Release Date |
-    | --------------------------------------------------------------- | --------------------------------------------------------- |:---------------------:|:---------------------------:|
-    | [Abenius](./legendary-adventurers/details/Abenius.md)           | Fighter Called the Glintblade                             |       2024-12-06      |                             |
-    | [Adam](./legendary-adventurers/details/Adam.md)                 | Mage Called the Millenial Lord                            |       2024-10-15      |                             |
-    | [Alex](./general-adventurers/details/Alex.md)                   | Smoldering Knight                                         |       2024-10-15      |                             |
-    | [Alice](./legendary-adventurers/details/Alice.md)               | Girl Called the Dark One's Maiden                         |       2024-10-15      |                             |
-    | [Amelia](./general-adventurers/details/Amelia.md)               | Cunning Thief                                             |       2024-10-15      |                             |
-    | [Arboris](./legendary-adventurers/details/Arboris.md)           | Lord of the Deep Forest                                   |       2025-04-03      |                             |
-    | [Asha](./general-adventurers/details/Asha.md)                   | Single-Minded Mage                                        |       2024-10-15      |                             |
-    | [Bakesh](./general-adventurers/details/Bakesh.md)               | Unleashed Thief                                           |       2024-10-15      |                             |
-    | [Barbara](./general-adventurers/details/Barbara.md)             | Duty-Bound Knight                                         |       2024-10-15      |                             |
-    | Beast-Thi                                                       |                                                           |       2024-10-15      |                             |
-    | [Benjamin](./general-adventurers/details/Benjamin.md)           | Rousing Warrior                                           |       2024-10-15      |                             |
-    | [Berkanan](./legendary-adventurers/details/Berkanan.md)         | Remains of the Tall, Novice Mage                          |       2025-03-18      |                             |
-    | [Chloe](./general-adventurers/details/Chloe.md)                 | Brave Warrior                                             |       2024-10-15      |                             |
-    | [Clarissa](./general-adventurers/details/Clarissa.md)           | Faithful Knight                                           |       2024-10-15      |                             |
-    | [Daniel](./general-adventurers/details/Daniel.md)               | Brawny Priest                                             |       2024-10-15      |                             |
-    | [Debra](./legendary-adventurers/details/Debra.md)               | Heroic Outlaw Called the Beastfolk Wraith                 |       2024-10-15      |                             |
-    | [Dino](./general-adventurers/details/Dino.md)                   | Capricious Mage                                           |       2024-10-15      |                             |
-    | Dwarf-Kni                                                       |                                                           |       2024-10-15      |                             |
-    | [Eckart](./general-adventurers/details/Eckart.md)               | Proud Knight                                              |       2024-10-15      |                             |
-    | [Elda](./general-adventurers/details/Elda.md)                   | Wild Warrior                                              |       2024-10-15      |                             |
-    | [Eldorado](./general-adventurers/details/Eldorado.md)           | Loyal Knight                                              |       2024-10-15      |                             |
-    | Elf-Mag                                                         |                                                           |       2024-10-15      |                             |
-    | Elf-Pri                                                         |                                                           |       2024-10-15      |                             |
-    | [Elise](./general-adventurers/details/Elise.md)                 | Valiant Warrior                                           |       2024-10-15      |                             |
-    | [Emil](./general-adventurers/details/Emil.md)                   | Unwavering Priest                                         |       2024-10-15      |                             |
-    | [Eulalia](./general-adventurers/details/Eulalia.md)             | Devoted Knight                                            |       2024-10-15      |                             |
-    | [Flut](./general-adventurers/details/Flut.md)                   | Ardent Mage                                               |       2024-10-15      |          2024-12-19         |
-    | [Galina](./general-adventurers/details/Galina.md)               | Puritan Priest                                            |       2024-10-15      |                             |
-    | [Gandolfo](./general-adventurers/details/Gandolfo.md)           | Savage Warrior                                            |       2024-10-15      |                             |
-    | [Gaston](./general-adventurers/details/Gaston.md)               | Raging Warrior                                            |       2024-10-15      |                             |
-    | [Gerard](./legendary-adventurers/details/Gerard.md)             | Knight Called Thundersmiter's Protection                  |       2024-10-22      |                             |
-    | [Gerulf](./legendary-adventurers/details/Gerulf.md)             | Miner Who Awakened a Volcano                              |       2024-10-15      |                             |
-    | Human-Fig                                                       |                                                           |       2024-10-15      |                             |
-    | Human-Pri                                                       |                                                           |       2024-10-15      |                             |
-    | [Iarumas](./legendary-adventurers/details/Iarumas.md)           | Remains of the Corpse Hauling Adventurer with a Black Rod |       2025-03-18      |                             |
-    | [Jarmil](./general-adventurers/details/Jarmil.md)               | Sketchy Mage                                              |       2024-10-15      |                             |
-    | [Jean](./general-adventurers/details/Jean.md)                   | Sooth Thief                                               |       2024-10-15      |                             |
-    | [Kiriha](./general-adventurers/details/Kiriha.md)               |                                                           |       2025-01-30      |                             |
-    | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Kingdom's Blademaster Princess Savior                     |       2024-10-15      |          2024-10-15         |
-    | [Marianne](./general-adventurers/details/Marianne.md)           | Covetous Priest                                           |       2024-10-15      |                             |
-    | [Milana](./general-adventurers/details/Milana.md)               | Lone Thief                                                |       2024-10-15      |                             |
-    | [Olive](./general-adventurers/details/Olive.md)                 | Stalwart Warrior                                          |       2024-10-15      |                             |
-    | [Ophelia](./general-adventurers/details/Ophelia.md)             | Deft Thief                                                |       2024-10-15      |                             |
-    | [Philip](./general-adventurers/details/Philip.md)               | Cunning Thief                                             |       2024-10-15      |                             |
-    | [Red Beard](./legendary-adventurers/details/Red-Beard.md)       | Priest Who Rebelled Against the Gods                      |       2025-01-16      |                             |
-    | [Rinne](./legendary-adventurers/details/Rinne.md)               | Shinobi Whispered to be the Decapitating Camellia         |       2025-01-30      |                             |
-    | [Savia](./legendary-adventurers/details/Savia.md)               | Soaring Blackstar                                         |       2025-02-13      |                             |
-    | [Shelirionach](./legendary-adventurers/details/Shelirionach.md) | Remans of the Lazy Doomsayer Witch                        |       2025-04-30      |                             |
-    | [Valdor](./general-adventurers/details/Valdor.md)               | Devout Priest                                             |       2024-10-15      |                             |
-    | [Viviana](./general-adventurers/details/Viviana.md)             | Errant Thief                                              |       2024-10-15      |                             |
-    | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     | Mage Possessed by the Skull                               |       2024-10-15      |                             |
+=== "Skill Inherits" 
+    | Name                                                            | Skill Inherit                     | Potential Skill Inherit       |
+    | --------------------------------------------------------------- | --------------------------------- | ----------------------------- |
+    | [Abenius](./legendary-adventurers/details/Abenius.md)           | Flutterdream Flash                |                               |
+    | [Adam](./legendary-adventurers/details/Adam.md)                 | Wisdom Of Truth                   |                               |
+    | [Alex](./general-adventurers/details/Alex.md)                   | Stun Bash                         | Way of the Knight             |
+    | [Alice](./legendary-adventurers/details/Alice.md)               | Blessing of Agora                 |                               |
+    | [Amelia](./general-adventurers/details/Amelia.md)               | Stealth                           | Blinding                      |
+    | [Arboris](./legendary-adventurers/details/Arboris.md)           | Astral Break                      |                               |
+    | [Asha](./general-adventurers/details/Asha.md)                   | KATINO                            | BATILGREF                     |
+    | [Bakesh](./general-adventurers/details/Bakesh.md)               | Treasure Trap Detection Skill     | Passive Action Spd Up (Thief) |
+    | [Barbara](./general-adventurers/details/Barbara.md)             | Assault Guard                     | Passive MDef Up (Knight)      |
+    | Beast-Thi                                                       | Passive Accuracy Up               |                               |
+    | [Benjamin](./general-adventurers/details/Benjamin.md)           | Passive HP Up (Fighter)           | Wild Strike                   |
+    | [Berkanan](./legendary-adventurers/details/Berkanan.md)         | True Words of Fire                |                               |
+    | [Chloe](./general-adventurers/details/Chloe.md)                 | Warrior's Battle Cry              | Passive Accuracy Up (Fighter) |
+    | [Clarissa](./general-adventurers/details/Clarissa.md)           | Self-Healing                      | Self-Defense                  |
+    | [Daniel](./general-adventurers/details/Daniel.md)               | MACALDIA                          | ABIT                          |
+    | [Debra](./legendary-adventurers/details/Debra.md)               | Blessing of the Beastfolk Goddess |                               |
+    | [Dino](./general-adventurers/details/Dino.md)                   | MONTINO                           | BALAFEOS                      |
+    | Dwarf-Kni                                                       | Passive HP Up                     |                               |
+    | [Eckart](./general-adventurers/details/Eckart.md)               | Attract Hit                       | Defensive Provoke             |
+    | [Elda](./general-adventurers/details/Elda.md)                   | Follow-Up Attack                  | Full Power Strike             |
+    | [Eldorado](./general-adventurers/details/Eldorado.md)           | Cover                             | All Cover                     |
+    | Elf-Mag                                                         | Passive Magic Power Up            |                               |
+    | Elf-Pri                                                         | Passive MP Up                     |                               |
+    | [Elise](./general-adventurers/details/Elise.md)                 | Armor Break                       | Wild Strike                   |
+    | [Emil](./general-adventurers/details/Emil.md)                   | MADIOS                            | DIALKO                        |
+    | [Eulalia](./general-adventurers/details/Eulalia.md)             | Behind Cover                      | Unyielding Will to Fight      |
+    | [Flut](./general-adventurers/details/Flut.md)                   | MIGAL                             | MAMIGAL                       |
+    | [Galina](./general-adventurers/details/Galina.md)               | DIOS                              | KUSFIS                        |
+    | [Gandolfo](./general-adventurers/details/Gandolfo.md)           | Heavy Attack                      | Way of the Warrior            |
+    | [Gaston](./general-adventurers/details/Gaston.md)               | Passive Attack Up (Fighter)       | Immortal Strike               |
+    | [Gerard](./legendary-adventurers/details/Gerard.md)             | Thunderstrike                     |                               |
+    | [Gerulf](./legendary-adventurers/details/Gerulf.md)             | Eruption Strike                   |                               |
+    | Human-Fig                                                       | Passive Attack Power Up           |                               |
+    | Human-Pri                                                       | Passive Divine Power Up           |                               |
+    | [Iarumas](./legendary-adventurers/details/Iarumas.md)           | TZALIK                            |                               |
+    | [Jarmil](./general-adventurers/details/Jarmil.md)               | FERU                              | MAFERU                        |
+    | [Jean](./general-adventurers/details/Jean.md)                   | Treasure Trap Disarm Skill        | Passive Evasion Up (Thief)    |
+    | [Kiriha](./general-adventurers/details/Kiriha.md)               | Armor Pierce                      | Wild Throw                    |
+    | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Queen of War and Love             |                               |
+    | [Livana](./legendary-adventurers/details/Livana.md)             | Moonlit Pool of the White Daemon  |                               |
+    | [Marianne](./general-adventurers/details/Marianne.md)           | LATUMOFIS                         | Way of the Priest             |
+    | [Milana](./general-adventurers/details/Milana.md)               | Poison Attack                     | Sneak Attack                  |
+    | [Olive](./general-adventurers/details/Olive.md)                 | Will to Fight                     | Immortal Strike               |
+    | [Ophelia](./general-adventurers/details/Ophelia.md)             | Counterattack                     | Way of the Warrior            |
+    | [Philip](./general-adventurers/details/Philip.md)               | Delay Attack                      | Cunning Pursuit               |
+    | [Red Beard](./legendary-adventurers/details/Red-Beard.md)       | Prayer of Rebellion               |                               |
+    | [Rinne](./legendary-adventurers/details/Rinne.md)               | Moment of Finality                |                               |
+    | [Savia](./legendary-adventurers/details/Savia.md)               | Black Beast Feint                 |                               |
+    | [Shelirionach](./legendary-adventurers/details/Shelirionach.md) | Eyes That Know the Future         |                               |
+    | [Valdor](./general-adventurers/details/Valdor.md)               | MAKALTU                           | KINAPIC                       |
+    | [Viviana](./general-adventurers/details/Viviana.md)             | Hiding                            | Passive Surety Up (Thief)     |
+    | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     | Eye of Kalshum                    |                               |
+
+=== "Ruins"
+    | Name                                                            | Unique Bone Name                                  | Original Release Date | Alternate Form Release Date |
+    | --------------------------------------------------------------- | ------------------------------------------------- |:---------------------:|:---------------------------:|
+    | [Abenius](./legendary-adventurers/details/Abenius.md)           | Fighter Called the Glintblade                     |       2024-12-06      |                             |
+    | [Adam](./legendary-adventurers/details/Adam.md)                 | Mage Called the Millenial Lord                    |       2024-10-15      |                             |
+    | [Alex](./general-adventurers/details/Alex.md)                   | Smoldering Knight                                 |       2024-10-15      |                             |
+    | [Alice](./legendary-adventurers/details/Alice.md)               | Girl Called the Dark One's Maiden                 |       2024-10-15      |                             |
+    | [Amelia](./general-adventurers/details/Amelia.md)               | Cunning Thief                                     |       2024-10-15      |                             |
+    | [Arboris](./legendary-adventurers/details/Arboris.md)           | Lord of the Deep Forest                           |       2025-04-03      |                             |
+    | [Asha](./general-adventurers/details/Asha.md)                   | Single-Minded Mage                                |       2024-10-15      |                             |
+    | [Bakesh](./general-adventurers/details/Bakesh.md)               | Unleashed Thief                                   |       2024-10-15      |                             |
+    | [Barbara](./general-adventurers/details/Barbara.md)             | Duty-Bound Knight                                 |       2024-10-15      |                             |
+    | Beast-Thi                                                       |                                                   |       2024-10-15      |                             |
+    | [Benjamin](./general-adventurers/details/Benjamin.md)           | Rousing Warrior                                   |       2024-10-15      |                             |
+    | [Berkanan](./legendary-adventurers/details/Berkanan.md)         | Tall, Novice Mage                                 |       2025-03-18      |                             |
+    | [Chloe](./general-adventurers/details/Chloe.md)                 | Brave Warrior                                     |       2024-10-15      |                             |
+    | [Clarissa](./general-adventurers/details/Clarissa.md)           | Faithful Knight                                   |       2024-10-15      |                             |
+    | [Daniel](./general-adventurers/details/Daniel.md)               | Brawny Priest                                     |       2024-10-15      |                             |
+    | [Debra](./legendary-adventurers/details/Debra.md)               | Heroic Outlaw Called the Beastfolk Wraith         |       2024-10-15      |                             |
+    | [Dino](./general-adventurers/details/Dino.md)                   | Capricious Mage                                   |       2024-10-15      |                             |
+    | Dwarf-Kni                                                       |                                                   |       2024-10-15      |                             |
+    | [Eckart](./general-adventurers/details/Eckart.md)               | Proud Knight                                      |       2024-10-15      |                             |
+    | [Elda](./general-adventurers/details/Elda.md)                   | Wild Warrior                                      |       2024-10-15      |                             |
+    | [Eldorado](./general-adventurers/details/Eldorado.md)           | Loyal Knight                                      |       2024-10-15      |                             |
+    | Elf-Mag                                                         |                                                   |       2024-10-15      |                             |
+    | Elf-Pri                                                         |                                                   |       2024-10-15      |                             |
+    | [Elise](./general-adventurers/details/Elise.md)                 | Valiant Warrior                                   |       2024-10-15      |                             |
+    | [Emil](./general-adventurers/details/Emil.md)                   | Unwavering Priest                                 |       2024-10-15      |                             |
+    | [Eulalia](./general-adventurers/details/Eulalia.md)             | Devoted Knight                                    |       2024-10-15      |                             |
+    | [Flut](./general-adventurers/details/Flut.md)                   | Ardent Mage                                       |       2024-10-15      |          2024-12-19         |
+    | [Galina](./general-adventurers/details/Galina.md)               | Puritan Priest                                    |       2024-10-15      |                             |
+    | [Gandolfo](./general-adventurers/details/Gandolfo.md)           | Savage Warrior                                    |       2024-10-15      |                             |
+    | [Gaston](./general-adventurers/details/Gaston.md)               | Raging Warrior                                    |       2024-10-15      |                             |
+    | [Gerard](./legendary-adventurers/details/Gerard.md)             | Knight Called Thundersmiter's Protection          |       2024-10-22      |                             |
+    | [Gerulf](./legendary-adventurers/details/Gerulf.md)             | Miner Who Awakened a Volcano                      |       2024-10-15      |                             |
+    | Human-Fig                                                       |                                                   |       2024-10-15      |                             |
+    | Human-Pri                                                       |                                                   |       2024-10-15      |                             |
+    | [Iarumas](./legendary-adventurers/details/Iarumas.md)           | Corpse Hauling Adventurer with a Black Rod        |       2025-03-18      |                             |
+    | [Jarmil](./general-adventurers/details/Jarmil.md)               | Sketchy Mage                                      |       2024-10-15      |                             |
+    | [Jean](./general-adventurers/details/Jean.md)                   | Sooth Thief                                       |       2024-10-15      |                             |
+    | [Kiriha](./general-adventurers/details/Kiriha.md)               | Ninja Without a Self                              |       2025-01-30      |                             |
+    | [Lanavaille](./legendary-adventurers/details/Lanavaille.md)     | Kingdom's Blademaster Princess Savior             |       2024-10-15      |          2024-10-15         |
+    | [Livana](./legendary-adventurers/details/Livana.md)             | Justice Guardian Mirror-Mere Successor            |       2025-05-22      |                             |
+    | [Marianne](./general-adventurers/details/Marianne.md)           | Covetous Priest                                   |       2024-10-15      |                             |
+    | [Milana](./general-adventurers/details/Milana.md)               | Lone Thief                                        |       2024-10-15      |                             |
+    | [Olive](./general-adventurers/details/Olive.md)                 | Stalwart Warrior                                  |       2024-10-15      |                             |
+    | [Ophelia](./general-adventurers/details/Ophelia.md)             | Deft Thief                                        |       2024-10-15      |                             |
+    | [Philip](./general-adventurers/details/Philip.md)               | Cunning Thief                                     |       2024-10-15      |                             |
+    | [Red Beard](./legendary-adventurers/details/Red-Beard.md)       | Priest Who Rebelled Against the Gods              |       2025-01-16      |                             |
+    | [Rinne](./legendary-adventurers/details/Rinne.md)               | Shinobi Whispered to be the Decapitating Camellia |       2025-01-30      |                             |
+    | [Savia](./legendary-adventurers/details/Savia.md)               | Soaring Blackstar                                 |       2025-02-13      |                             |
+    | [Shelirionach](./legendary-adventurers/details/Shelirionach.md) | Remans of the Lazy Doomsayer Witch                |       2025-04-30      |                             |
+    | [Valdor](./general-adventurers/details/Valdor.md)               | Devout Priest                                     |       2024-10-15      |                             |
+    | [Viviana](./general-adventurers/details/Viviana.md)             | Errant Thief                                      |       2024-10-15      |                             |
+    | [Yekaterina](./legendary-adventurers/details/Yekaterina.md)     | Mage Possessed by the Skull                       |       2024-10-15      |                             |

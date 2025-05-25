@@ -31,7 +31,7 @@
 
 ## Adventurer Reviews
 
-!!! info "TheAxolotl's Analysis"
+??? info "TheAxolotl's Analysis"
 
     Abenius is a strong damage dealer with the potential to provide some buff support, which is very welcome. Being a Fighter, she gains access to the highest Strength -> Attack Power conversion, on top of some solid damage multipliers and Full-Power Strike. Furthermore, she gains Attack Power with her Discipline levels, which is great.
 
@@ -43,8 +43,23 @@
 
     One of the things I really like about Abenius is that her signature skill does not lose value as additional skills get released in the future due to its nature of being an automatic trigger at the start of battle and not an active skill that could become easily powercrept by future active skills (I'm looking at you, Gerard).
 
-    ??? note "TheAxolotl's Pull Plan"
-        I like Abenius' kit so I pulled three copies - one for the base, one for the OCD Discipline, and one to inherit to MC.
+??? info "Frobro's Analysis"
+    
+    Certainly more interesting than most other figures. For starters, Like Yekaterina, Abenius has been extremely lucky with the kinds of enemies and events that have been common in the game from Abyss 2 to 3. Abenius does extra damage and receives reduced damage from solid chunk of common enemies thanks to her, Magical Beast-slayer passive. This feels even stronger with the ease of farming and crafting the perfect Horned Eagle Sword from Fordraig.
+
+    Flutterdream Flash may seem low impact in a vacuum, but if you stop and realize that it is a guaranteed turn 0 hit in every single non-ambush battle, you notice that Abenius likely has done more lifetime damage of most units in the game. I understand the hesitation, but this is a solid use for Codexes assuming you use Abenius often. You’ll get your money’s worth from it so to speak.
+
+    The discipline is cool, it seems like with the release of abyss 3, going forward we can expect to see more enemies use status ailments against us. Being resistant to 2 of the more debilitating statuses for physical attackers (Charm/Confuse) while getting more attack comes off as better than most. 
+
+    Simple but effective. Not exactly flashy, but still one of the best fighters in the game.
+
+## Adventurer Pull Plans
+
+??? note "TheAxolotl's Pull Plan"
+    I like Abenius' kit so I pulled three copies - one for the base, one for the OCD Discipline, and one to inherit to MC.
+
+??? note "Lynd's Pull Plan"
+    She's hot so I pulled immediately. At some point I blanked out and she had some discipline levels and Inherit leveled. I'll max her when she rolls around again.
     
 ## Duplicate Usage
 
