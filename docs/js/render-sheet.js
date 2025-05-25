@@ -31,7 +31,7 @@ function buildTableFromSheet({containerElementId, url, columnRange}) {
                 // rows
                 data.forEach(row => {
                     html.push("<tr>");
-                    meta.fields.slice(...columnRange).forEach(f => html.push(`<td>${row[f-1]||""}</td>`));
+                    meta.fields.slice(...columnRange).forEach(f => html.push(`<td>${row[f]||""}</td>`));
                     html.push("</tr>");
                 });
                 html.push("</tbody></table></div></div>");
