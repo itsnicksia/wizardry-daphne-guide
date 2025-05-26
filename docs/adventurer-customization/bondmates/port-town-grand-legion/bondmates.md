@@ -27,13 +27,13 @@
 
 1. Complete the [Water God Statue Restoration Materials Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#water-god-statue-restoration-materials)
 2. Find Regia 5 times throughout Districts 2-7 in the Trade Waterways
-    - The easiest way to do this is to teleport into the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. On the 5th time, she will mention that this was the final time she will heal you.
-3. Go to the marked spot in the 2nd District to receive the bondmate
+    - The easiest way to do this is to Harken to the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. On the 5th time, she will mention that this was the final time she will heal you. Alternatively you can Harken to the 6th District and walk to the Pier's Harken to cover more of the map while walking in one direction.
+3. Go to the marked spot in the 2nd District to receive the bondmate.
 
 ??? map "Final Location"
     ![](img/regia-final-location.png)
 
-!!! note "To farm, Cursed Wheel to The King's Rescue in the previous abyss and then to Colossal Galleon and repeat the request."
+!!! note "To farm, Cursed Wheel to The King's Rescue in the previous abyss and then to Colossal Galleon and repeat the request. It is also possible to Cursed Wheel to Arena Round 5 to have less NPCs spawn in the pier besides Regia."
 !!! warning "This bondmate is very tedious to farm"
 
 ## Sunken City Arrival
