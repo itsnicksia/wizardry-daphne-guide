@@ -346,14 +346,14 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
     **Boss: Defensive Golem**
 
-    It will buff itself on turn 1 with invulnerability (it will take 0 damage permanently). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the invulnerability (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns.
+    It will buff itself on turn 1 with extremely high defense/magic defense (it will take 0 damage in almost all cases). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the def/mdef buff (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns.
 
 ??? note "Saving the Dog and Adventurers"
-    If you choose to save both the dog and adventurers at the same time, you will need to fight BOTH, and the invulnerability buff of the defensive golem applies to the offensive golem (but not the other way around for the offensive buff). If you choose to save only either one, you will still need to fight both golems, but one at a time instead.
+    If you choose to save both the dog and adventurers at the same time, you will need to fight BOTH, and the def/mdef buff of the defensive golem applies to the offensive golem (but not the other way around for the offensive buff). If you choose to save only either one, you will still need to fight both golems, but one at a time instead.
 
 ??? note "Strategy"
     ^^Frontline:^^
-    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing with a Divine Power Staff switch for bonus healing. It's also preferable to have entire inventories of Ultra Healing.
+    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing with a Divine Power Staff switch for bonus healing. It's also preferable to have entire inventories of Ultra Healing. If possible, 180 evasion or higher is helpful for dodging attacks.
 
     ^^Backline:^^
     Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing with a Divine Power switch if they're not healers. Bring as many SP and MP pots as possible. This can be a long battle.
@@ -368,6 +368,8 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
     Repeat until both are dead. Use heals as often as possible. Makaltu might be worth using at low levels to reduce ur overall mp cost in the fight by a bit but it's not necessary, and you will die regardless if the offensive golem moves to the frontline and attacks with the damage buff up. 
 
     The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reache's near death. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left.
+
+    It is possible to speed up this fight by using Morlis, as that enables physical damage dealers to hit on the golems, but is generally not recommended unless your characters have a lot of evasion to avoid getting hit (180+). Defense penetration weapons or skills do not work, only Morlis appears to do so.
 
 ??? note "Additional Notes"
     - If you only save the dog, you get nothing but the stated gold in the request.
