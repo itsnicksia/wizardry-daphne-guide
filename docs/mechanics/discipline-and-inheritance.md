@@ -39,7 +39,7 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     |  Divine Power |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |    Defense    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     | Magic Defense |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
-    |     Surety    |     |     |     |     |     |     |     |     |  20 |
+    |     Surety    |     |     |     |     |     |     |     |  17 |  20 |
     |  Sure Evasion |     |     |     |     |     |     |     |     |     |
     |     Detect    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |  Disarm Trap  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
