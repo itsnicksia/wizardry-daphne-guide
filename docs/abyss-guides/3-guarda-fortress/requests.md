@@ -25,7 +25,7 @@
 1. Select the 1550 gold option when posting the request and having the tattered rag.
 2. The 1st option when talking to the dogkeeper is not important, but the second option is. Ask him what you need to get for the dog.
 3. Get 10 meat directly from an NPC in Guarda.
-4. Get to the wheat room in Zone 8. You need low corruption for the door to not be blocked. There will be a battle with Succubi.
+4. Get to the wheat room in Zone 8. You need low corruption for the door to not be blocked. There will be a battle with 3 Succubi and 2 Minotaur. The Succubi can drain mana to 0.
 5. Obtain the rights to the dog on return to Guarda. Remember that the innkeeper was the one who told you about the kidnappers, so head there.
 6. Thrown into the fight again with various thieves and 2 mages. Dog dies from getting kicked and little girl is not doing so well.
 7. Talk to Raimi at the tent. Once again, remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (this is a lie again).
@@ -56,14 +56,14 @@
     - Defeating the Gatekeeper after rescuing the child in any condition
     - Tale of Bordaon 1 and Tale of Bordaon 2 knowledge from talking to the skeletons in Zone 4.
 
-- Talk to the maid at the Entrance to the Abyss
-- Follow her to the temple and answer her questions correctly with the knowledge you have.
-- Accept the request made by Dalian's wife. The conversation options with her are not important.
-- Get more information at the Tavern, which leads you to the Royal Capital outskirts again. The Boss will be near the entrance. You must NOT take the harken around or the conversation will not trigger properly. You can choose to pay the adventurers off or fight them (They are somewhat annoying as the thief can apply critical poison)
-- Win or Lose the gambling event (it is rigged). You will engage in a fight afterwards. Obtain a mask and key.
-- Turn in the request and then with the key, head to the room next to Floor 9 Harken. Explore the room for evidence
-- Talk to Dalian in the Duke's Room (don't forget Alan and Lily), and proceed to defeat the GWO.
-- Head to the Tavern afterwards to obtain "Guardian Knight Dalian" as a bondmate, who is a earth element bondmate that gives Defense Power.
+1. Talk to the maid at the Entrance to the Abyss
+2. Follow her to the temple and answer her questions correctly with the knowledge you have.
+3. Accept the request made by Dalian's wife. The conversation options with her are not important.
+4. Get more information at the Tavern, which leads you to the Royal Capital outskirts again. The Boss will be near the entrance. You must NOT take the harken around or the conversation will not trigger properly. You can choose to pay the adventurers off for 5k Gold or fight them (They are somewhat annoying as the thief can apply critical poison)
+5. Win or Lose the gambling event (it is rigged). You will engage in a fight afterwards. It is recommended to have Anti-Venom shields for this fight. If you lose the fight, you can resurrect and Lulunarde will tell you the trick to winning the gambling session. Obtain a mask and key.
+6. Turn in the request and then with the key, head to the room next to Floor 9 Harken. Explore the room for evidence
+7. Talk to Dalian in the Duke's Room (don't forget Alan and Lily), and proceed to defeat the GWO.
+8. Head to the Tavern afterwards to obtain "Guardian Knight Dalian" as a bondmate, who is a earth element bondmate that gives Defense Power.
 
 ## Infiltrating the Fortress
 
@@ -346,14 +346,14 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
     **Boss: Defensive Golem**
 
-    It will buff itself on turn 1 with invulnerability (it will take 0 damage permanently). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the invulnerability (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns.
+    It will buff itself on turn 1 with extremely high defense/magic defense (it will take 0 damage in almost all cases). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the def/mdef buff (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns.
 
 ??? note "Saving the Dog and Adventurers"
-    If you choose to save both the dog and adventurers at the same time, you will need to fight BOTH, and the invulnerability buff of the defensive golem applies to the offensive golem (but not the other way around for the offensive buff). If you choose to save only either one, you will still need to fight both golems, but one at a time instead.
+    If you choose to save both the dog and adventurers at the same time, you will need to fight BOTH, and the def/mdef buff of the defensive golem applies to the offensive golem (but not the other way around for the offensive buff). If you choose to save only either one, you will still need to fight both golems, but one at a time instead.
 
 ??? note "Strategy"
     ^^Frontline:^^
-    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing with a Divine Power Staff switch for bonus healing. It's also preferable to have entire inventories of Ultra Healing.
+    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing with a Divine Power Staff switch for bonus healing. It's also preferable to have entire inventories of Ultra Healing. If possible, 180 evasion or higher is helpful for dodging attacks.
 
     ^^Backline:^^
     Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing with a Divine Power switch if they're not healers. Bring as many SP and MP pots as possible. This can be a long battle.
@@ -368,6 +368,8 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
     Repeat until both are dead. Use heals as often as possible. Makaltu might be worth using at low levels to reduce ur overall mp cost in the fight by a bit but it's not necessary, and you will die regardless if the offensive golem moves to the frontline and attacks with the damage buff up. 
 
     The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reache's near death. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left.
+
+    It is possible to speed up this fight by using Morlis, as that enables physical damage dealers to hit on the golems, but is generally not recommended unless your characters have a lot of evasion to avoid getting hit (180+). Defense penetration weapons or skills do not work, only Morlis appears to do so.
 
 ??? note "Additional Notes"
     - If you only save the dog, you get nothing but the stated gold in the request.
