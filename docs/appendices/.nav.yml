@@ -9,6 +9,7 @@ nav:
   - Equipment:
       - Weapon Types: './equipment/weapon-types.md'
       - Unique Equipment: './equipment/unique-equipment.md'
+      - Equipment Attributes: './equipment/equipment-attributes.md'
   - Enemies: './enemy-compendium.md'
   - Harken's Blessings: './harkens-blessings.md'
   - Purchase Evaluation: './purchase-evaluation.md'
