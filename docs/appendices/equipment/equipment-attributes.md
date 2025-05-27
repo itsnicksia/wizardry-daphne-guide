@@ -7,7 +7,9 @@ comments: true
 ## I.Q. Conversion
 A certain amount of the character's I.Q. is added to their Attack Power.
 
-| IQ     | +ATK       ]
+e.g., Mage Knife
+
+| IQ     | +ATK       |
 |:------:|:----------:|
 | 0-4    | 0          |
 | 5-9    | 1          |
@@ -30,7 +32,7 @@ A certain amount of the character's I.Q / Piety is added to their Defense Power.
 ### Shields:
 e.g., Mage Shield, Defender of Faith
 
-| IQ/PIE  | +DEF        ]
+| IQ/PIE  | +DEF        |
 |:-------:|:-----------:|
 | 0-9     | 0           |
 | 10-19   | 1           |
@@ -49,8 +51,8 @@ e.g., Mage Shield, Defender of Faith
 ### Weapons:
 e.g., Two-Handed Wreath Saff
 
-| IQ/PIE | +DEF            ]
-|:-----: |:----:           |
+| IQ/PIE | +DEF            |
+|:-----: |:---------------:|
 | 0-6    | 0               |
 | 7-13   | 1               |
 | 14-19  | 2               |
