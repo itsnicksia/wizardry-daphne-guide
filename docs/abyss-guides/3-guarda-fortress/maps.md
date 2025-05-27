@@ -191,6 +191,14 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     ??? note "Walkthrough 1st Run (2nd Half from Zone 9 to Zone 8 back to Zone 9)"
         - You will drop down and the nearby door is blocked by corruption. Ignore this for now and continue onwards. You're forced to pass by a Corruption Sentry in the bottom left of the map.
 
+    ??? note "Walkthrough 2nd Run and onwards (1st Half from Zone 8 to 9)"
+        - There is not much difference from the 1st run, you simply walk through as usual. There will be a demonstration of using the Right Hand Reversal mechanic to use Golems to step on buttons near the end of this half.
+
+    ??? note "Walkthrough 2nd Run and onwards (2nd Half from Zone 9 to Zone 8 back to Zone 9)"
+        1. When dropping down this time, the room that was previously blocked by corruption is now open. You must go into this room to obtain the request for saving Liam. There is also a rag in this room that triggers a Corruption Sentry if obtained, but is necessary for saving Liam unharmed. You can Cursed Wheel away the corruption stack from this encounter.          2. In addition, you can use the Right Hand Reversal mechanic to bypass the Corruption Sentry in the bottom left of the map.
+
+        ![](./img/golem-answer-8.png)
+
 ??? map "Zone 9 -Fortress 2F Entrance-"
     ![](./img/zone-9-complete.jpg)
 
@@ -205,6 +213,11 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     ??? note "Walkthrough 1st Run (2nd Half from Zone 8 to Zone 10)"
         - Similar to the 1st Half depending on map generation.
 
+    ??? note "Walkthrough 2nd Run and onwards (Both Halves)"
+        - The trap room that previously locked you in with a corruption sentry can be solved now. This room may show up on either half of this floor.
+
+        ![](./img/golem-answer-9.png)
+
 ??? map "Zone 10 -Fortress 3F Lord's Room-"
     ![](./img/zone-10-complete.jpg)
     
@@ -215,9 +228,23 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Combat Sentry: 2 Vampires + 2 Succubus
         - Combat Sentry: 1 Greater Demon + 1 Minotaur
 
-    ??? note "Walkthrough 1st Run 1st Half (Upwards)"
-        - It's a relatively chill walk to the top middle room. You are forced to trigger a corruption sentry while passing by. Upon reaching the top middle room, you'll need to drop down via a hole on the bottom left of the room. This drop you into the sight of the corruption sentry, but right outside of the Zone 9 Harken.
+    ??? note "Walkthrough 1st Run (1st Half Zone 9 to Zone 10 to Zone 9)"
+        - It's a relatively chill walk to the top middle room. You are forced to trigger a Corruption Sentry while passing by. Upon reaching the top middle room, you'll need to drop down via a hole on the bottom left of the room. This drop you into the sight of the Corruption Sentry, but right outside of the Zone 9 Harken.
 
+    ??? note "Walkthrough 1st Run (2nd Half Straight to the Duke)"
+        - There is a fountain to heal up at before heading to the final room. There are a lot of sentry patrols on this floor, but they can all be avoided by carefully tailing behind them. The statue rooms are not relevant on the 1st run but can be used to hide from the sentries if you get seen. After arriving at the final room, you can begin the GWO fight by interacting with the lever further down from the room.
+
+    ??? note "Walkthrough 2nd Run and onwards (1st Half Zone 9 to Zone 10 to Zone 9)"
+        1. The Corruption Sentry in this path can be avoided now. You will need to do the puzzle that is initiated by pushing the golem in the room nearby through the wall. There will be a skeleton on the floor that needs to be interacted with, which will then spawn a doll and map on the floor nearby. The map will mark 3 locations on the previous two floors that you will need to backtrack to in order to pick up wind-up keys for the doll automaton. The 3 locations will always be the same regardless of map configuration. After obtaining 3 wind-up keys, return to the doll in the Zone 10 room and interact with it. Afterwards, walk to the tile right outside of the Corruption Sentry's sight.
+            - Zone 9: X:7, Y:12
+            - Zone 8: X:4, Y:9 | X:7, Y:19
+        2. In the room before dropping down to the Corruption Sentry, you can open a different hole with a Golem so you don't get seen. 
+
+            ![](./img/golem-answer-10-2.png)
+
+    ??? note "Walkthrough 2nd Run and onwards (2nd Half straight to the Duke)"
+        - It's generally the same this time. Depending on which ending run you are there may be different things to do though. You don't need to interact with the Lever this time and can just walk directly to the ramparts of the castle.
+        
     ??? map "Path to boss"
         In order to reach the boss, you must circle around to the other side of the stone pillar and interact with it. Along the way, you will encounter one mandatory sentry battle and on your first run, you will encounter a second mandatory sentry battle during the dialog prompts.
         

@@ -92,7 +92,7 @@
 7. Reconcile Albano and the Marquis back in town  
 8. Head back to the Edge of Town after saving the King
 
-!!! note "To farm, you can simply switch the options from recounciled to do nothing and back, and repeat Step 8.  Alternatively, Cursed Wheel to Fresh Start and then back to The King's Rescue and repeat Step 8."
+!!! note "To farm, you can simply switch the options from recounciled to do nothing and back, and repeat Step 8.  Alternatively, Cursed Wheel to Second Major Harken and then back to The King's Rescue and repeat Step 8."
 
 ## Major Harken Unlocked
 

@@ -19,21 +19,22 @@ function buildTableFromSheet({containerElementId, url, columnRange}) {
         url,
         {
             download: true,
-            header: true,
+            header: false,
             complete: ({ data, meta }) => {
                 let html = [
                     "<div class='md-typeset__scrollwrap'>",
                     "<div class='md-typeset__table'>",
                     "<table><thead><tr>"];
-                // headers
-                meta.fields.slice(...columnRange).forEach(h => html.push(`<th>${h}</th>`));
+                data.shift().slice(...columnRange).forEach(h => html.push(`<th>${h}</th>`));
                 html.push("</tr></thead><tbody>");
+
                 // rows
-                data.forEach(row => {
-                    html.push("<tr>");
-                    meta.fields.slice(...columnRange).forEach(f => html.push(`<td>${row[f]||""}</td>`));
-                    html.push("</tr>");
+                data.forEach((row, index) => {
+                    html.push('<tr>');
+                    row.slice(...columnRange).forEach(columnValue => html.push(`<td>${columnValue}</td>`));
+                    html.push('</tr>');
                 });
+
                 html.push("</tbody></table></div></div>");
                 container.innerHTML = html.join("");
             }
