@@ -4,7 +4,7 @@ export const skills: ViewConfig = {
   columns: {
     name: "Skill",
     effect: "Effects",
-    level_effect: "Details"
+    details: "Details"
   },
   itemTypes: ["Active", "Passive", "Damage", "Recovery", "Support", "Debuff"],
   tableName: "skills"
