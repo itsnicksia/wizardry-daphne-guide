@@ -77,15 +77,15 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - The lever must be activated at the end of the Orange route to continue on the blue path.
         - The Harken is after the boss at the end of the Green route.
 
-    ??? note "Walkthrough 2nd Run and onwards"
-        1. This will be about the same, except the golems can be used to block the Corruption Sentry's line of view. The top golem is optional but the bottom golem is necessary to block the view of the sentry in the way.
-        2. Continue as usual.
-
         !!! map "Zone 2 -Old Secret Passage B2F-"
             ![](./img/zone-2-path.png)
 
         !!! map "Zone 3 -Old Secret Passage B3F-"
             ![](./img/zone-3-path.png)
+
+    ??? note "Walkthrough 2nd Run and onwards"
+        1. This will be about the same, except the golems can be used to block the Corruption Sentry's line of view. The top golem is optional but the bottom golem is necessary to block the view of the sentry in the way.
+        2. Continue as usual.
 
 ??? map "Zone 3 -Old Secret Passage B3F-"
     ![](./img/zone-3-complete.jpg)
