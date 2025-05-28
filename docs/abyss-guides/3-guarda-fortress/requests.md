@@ -45,6 +45,16 @@
 
 !!! note "If you have already completed this in one play through, you may skip the entirety of this with the same result by just posting the request at 55 gold and you'll go directly to saving the girl in good condition"
 
+##### Obtaining Sam the Rascally Dog
+
+1. You will need to select the 1550 gold option when posting the request and have the tattered rag. You must not have correctly done this request before.
+2. Go to dog keeper then pick all right > leave it to Lulunarde.
+3. Move to grasslands and go north to the second zone. Once there, look for 3 pickable millet in small clusters of white flowers near entrance. Kill 3 rabbits on the way for the meat.
+4. Go back to Guarda and get the Sam from dog keeper then move around city to trigger 2 fights, both of which will be ambushes. After that the 3rd location will take you to kidnapper fight where you will rescue the girl.
+5. Go back to dog keeper to get the bond and a funny achievement.
+
+![](./img/lulunarde-special.png)
+
 ### Blackmail Resolution
 
 !!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 9 is reached."
