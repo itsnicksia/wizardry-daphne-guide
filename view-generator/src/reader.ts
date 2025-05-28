@@ -8,7 +8,10 @@ export async function generateSkillsView() {
   const headerMap: Record<string, string> = {
     name: "Skill",
     effect: "Effects",
-    level_effect: "Details"
+    details: "Details",
+    level: "Level",
+    class: "Class",
+    is_class_restricted: "Is Class Restricted"
   };
 
   await loadSkillsData('../data/skills.csv');
@@ -55,10 +58,13 @@ async function loadSkillsData(path: string) {
 
   await pg.exec(`
     CREATE TABLE skills (
-      name          TEXT,
-      type          TEXT,
-      effect        TEXT,
-      level_effect  TEXT
+      name    TEXT,
+      type    TEXT,
+      effect  TEXT,
+      details TEXT,
+      level   TEXT,
+      class   TEXT,
+      is_class_restricted TEXT
     );
   `)
 

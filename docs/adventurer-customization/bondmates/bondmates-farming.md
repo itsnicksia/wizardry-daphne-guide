@@ -28,7 +28,7 @@ After earning the Albano bondmate by [completing the Beginning Abyss "Perfect En
 
 !!! note "Several bondmates require gaining specific Knowledge before the bondmate paths can be followed. See individual bondmate pages for [Chris](./beginning-abyss/bondmates.md#chris-the-considerate), [Mudd](./beginning-abyss/bondmates.md#mudd-the-eternal-novice), and [Donato](./beginning-abyss/bondmates.md#donato-the-king-of-debt) for steps to follow before farming."
 
-To level all [Beginning Abyss bondmates](./beginning-abyss/bondmates.md) that can be leveled, after leaping to Warped Scene:
+To level all [Beginning Abyss bondmates](./beginning-abyss/bondmates.md) that can be leveled, after leaping back to Fresh start and then forward to Warped Scene:
 
 1. Step right back up stairs to B7F, step into teleporter, return to Harken
 2. Leap to B5F - revive Harry and Ira.
