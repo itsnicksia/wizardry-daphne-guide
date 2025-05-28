@@ -31,7 +31,7 @@ Shortest, but not most optimal paths for Foray Speed and posted.
 
 ![](img/floor8.png)
 
-![](img/floor9.png)
+![](img/floor9-1.png)
 
 ## Floor 12-14
 ![](img/floor12.png)
