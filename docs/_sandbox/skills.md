@@ -1,5 +1,5 @@
 
-|name|type|effect|level_effect|
+|name|type|effect|details|
 |--|--|--|--|
 |ABIT|damage|Words of prayer that remove 1 debuff from 1 ally row.|Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.|
 |Advice of the Skull|passive|Increases damage against undead and decreases damage from undead.||

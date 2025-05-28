@@ -1,21 +1,18 @@
 # Old Castle Ruins - Season 2
 
-!!! warning "This event currently has a bug that certain players may intentionally or unintentionally abuse to lower their Foray Speed into unrealistic scores"
-
-All floors are static. Efficiency is measured in number of actions taken and steps taken.
+All floors are static. Efficiency is measured by how fast you complete the floor
 
 Boss Rush floors always have the same order of bosses.
 
-Shortest, but not most optimal paths for Foray Speed are posted.
+Optimal paths for Foray Speed are listed below.
 
 ## How to participate:
 The main character needs to reach Bronze Grade. After advancing to Bronze Grade, visiting the Adventurers Guild will trigger a dialog for the quest after which a new location will be available on the World Map.
 
 ## Tips
 
-- It is ideal for Foray Speed to not walk through poison if possible. It is much better to walk around if possible. Spike Traps also penalize your score but not as much.
-- It is ideal to not engage in combat if possible and flee.
-- It is ideal to use low cost/no cost moves in combat such as basic attacking and defending when possible.
+- It is ideal for Foray Speed to walk through poison and not cleanse it if possible.
+- It is ideal to fight through mobs and not flee from combat.
 - Flutterdream Flash increases your Foray Speed, so it is recommended not to use characters with this skill if possible.
 
 ## Boss Rush Floors (5,10,15,20)
@@ -34,7 +31,7 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 
 ![](img/floor8.png)
 
-![](img/floor9.png)
+![](img/floor9-1.png)
 
 ## Floor 12-14
 ![](img/floor12.png)
@@ -45,8 +42,8 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 
 ## Floor 17-19
 
-![](img/floor17.png)
+![](img/floor17-1.png)
 
 ![](img/floor18.png)
 
-![](img/floor19.png)
+![](img/floor19-1.png)

@@ -2,6 +2,9 @@
 
 !!! item "This event is now permanently available!"
 
+## How to participate:
+You need to have progressed in the story until the unlocking a new Right Hand of Reversal ability on the fourth level of the Second Abyss and then accept the quest in the Royal Capital's Adventurers Guild. After accepting the quest, a new location will be available on the World Map.
+
 ## Notes about This Event
 There are two endings to this event:
 
