@@ -6,7 +6,10 @@ All floors are static. Efficiency is measured in number of actions taken and ste
 
 Boss Rush floors always have the same order of bosses.
 
-Shortest, but not most optimal paths for Foray Speed and posted.
+Shortest, but not most optimal paths for Foray Speed are posted.
+
+## How to participate:
+The main character needs to reach Bronze Grade. After advancing to Bronze Grade, visiting the Adventurers Guild will trigger a dialog for the quest after which a new location will be available on the World Map.
 
 ## Tips
 
