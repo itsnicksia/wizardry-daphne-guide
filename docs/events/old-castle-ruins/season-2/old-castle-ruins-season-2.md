@@ -47,3 +47,10 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 ![](img/floor18.png)
 
 ![](img/floor19-1.png)
+
+### Floor 20 Bosses
+1. Mimic + Succubus
+2. 1 Earth Big Slime (Frontline) + 2 Succubi (Backline)
+3. Mimic
+4. 2 Earth Big Slimes (Frontline) + 1 Hydra Plant (Backline)
+5. 1 Scorpion Lady (Frontline) + 1 Earth Cloud (Frontline) + 1 Succubus (Backline) + 1 Earth Cloud (Backline)
