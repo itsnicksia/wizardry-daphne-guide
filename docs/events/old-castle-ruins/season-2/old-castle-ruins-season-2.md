@@ -6,6 +6,9 @@ Boss Rush floors always have the same order of bosses.
 
 Optimal paths for Foray Speed are listed below.
 
+## How to participate:
+The main character needs to reach Bronze Grade. After advancing to Bronze Grade, visiting the Adventurers Guild will trigger a dialog for the quest after which a new location will be available on the World Map.
+
 ## Tips
 
 - It is ideal for Foray Speed to walk through poison and not cleanse it if possible.
