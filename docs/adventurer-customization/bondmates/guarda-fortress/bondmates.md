@@ -20,7 +20,7 @@
 ??? info "Skill"
     ![](img/sam-the-rascally-dog-skill.png)
 
-- Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-the-missing-girl) request incorrectly.
+- Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#obtaining-sam-the-rascally-dog) request incorrectly.
 
 !!! note "Sam the Rascally Dog is permanently lvl 1."
 
