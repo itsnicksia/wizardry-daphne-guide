@@ -1,4 +1,4 @@
-name,type,effect,details,level,class,restricted
+name,type,effect,details,level,class,is_class_restricted
 ABIT,support,Words of prayer that remove 1 debuff from 1 ally row.,Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.,40,Priest,
 Advice of the Skull,passive,Increases damage against undead and decreases damage from undead.,,,,
 Agent of Heresy,passive,Increases damage to enemies for everyone in a row if it has only evil or neutral allies.,,,,

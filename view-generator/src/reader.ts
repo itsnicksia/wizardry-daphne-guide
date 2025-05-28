@@ -11,7 +11,7 @@ export async function generateSkillsView() {
     details: "Details",
     level: "Level",
     class: "Class",
-    restricted: "Restricted"
+    is_class_restricted: "Is Class Restricted"
   };
 
   await loadSkillsData('../data/skills.csv');
@@ -64,7 +64,7 @@ async function loadSkillsData(path: string) {
       details TEXT,
       level   TEXT,
       class   TEXT,
-      restricted TEXT
+      is_class_restricted TEXT
     );
   `)
 
