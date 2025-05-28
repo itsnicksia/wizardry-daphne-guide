@@ -32,6 +32,7 @@ jobs:
         id: generate
         run: npm run generate
         working-directory: view-generator
+        continue-on-error: true
 
       - name: Copy Generated files to /docs
         id: copy-generated
