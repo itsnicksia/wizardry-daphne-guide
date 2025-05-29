@@ -130,7 +130,7 @@ MAERLIK,damage,Flings a stone that deals minor earth spell damage to 1 enemy row
 MAFERU,damage,Launches a massive blade of air that deals minor air spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,
 MAFOROS,damage,Launches scattered orbs of light that deal minor light spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,
 Mage of the Black Rod,passive,"At the start of own turn, when user is in the front row, increases Attack Power, Defense Power, Accuracy, and Evasion, and when user is the back row, increases Magic Power, Magic Defense, and Resistance. Additionally, increases own Attack Power, Defense Power, Magic Defense, and Accuracy when equipped with a one-handed staff or one-handed sword.",,,,
-Magic of The Dark One,passive,"Continuously increases each stat, Divine Power and Magic Defense increased further.",Divine Power and Magic Defense increased further based on skill level.,,,
+Magic of the Dark One,passive,"Continuously increases each stat, Divine Power and Magic Defense increased further.",Divine Power and Magic Defense increased further based on skill level.,,,
 Magical Being Knowledge,passive,Increases damage against magical beings and decreases damage from magical beings.,,,,
 MAHALITO,damage,Launches a blazing fireball that deals minor fire spell damage to 1 enemy row.,Efficacy increased based on skill level.,,Mage,
 MAKALTU,support,Generates an encompassing wall of Magic Power that increases the Defense Power of 1 row of allies for 3 turns.,Defense Power incrementally increased further based on skill level. More turns added.,22,Priest,
