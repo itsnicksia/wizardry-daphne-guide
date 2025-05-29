@@ -4,7 +4,7 @@
 
 ### Search for the Missing Girl
 
-!!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 8 is reached."
+!!! note "This request is integral to the main story, and is available at the very start of Abyss 3 once the knowledge is obtained, but cannot be completed until Zone 8 is reached. The exception is if you're doing the Sam the Rascally Dog route, in which the Wheat room is avoided completely to save the girl in critical condition. Thank you Lulunarde."
 
 ??? note "Requirements"
     - Finish first run of Abyss 3 (you get stabbed)
