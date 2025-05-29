@@ -1,5 +1,7 @@
 # Old Castle Ruins - Season 2
 
+!!! danger "There is yet another possible bug with Foray Speed on the Steam Client only on Boss Floors. Take caution as it's rather easy to do by accident."
+
 All floors are static. Efficiency is measured by how fast you complete the floor
 
 Boss Rush floors always have the same order of bosses.
