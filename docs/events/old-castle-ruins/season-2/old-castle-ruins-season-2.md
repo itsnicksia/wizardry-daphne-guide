@@ -1,5 +1,7 @@
 # Old Castle Ruins - Season 2
 
+!!! danger "There is yet another possible bug with Foray Speed on the Steam Client only on Boss Floors. Take caution as it's rather easy to do by accident."
+
 All floors are static. Efficiency is measured by how fast you complete the floor
 
 Boss Rush floors always have the same order of bosses.
@@ -11,9 +13,11 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 
 ## Tips
 
-- It is ideal for Foray Speed to walk through poison and not cleanse it if possible.
-- It is ideal to fight through mobs and not flee from combat.
-- Flutterdream Flash increases your Foray Speed, so it is recommended not to use characters with this skill if possible.
+- It is ideal for Foray Speed to walk through poison and not cleanse it if possible. However, the penalty for doing so is very small.
+- It is ideal to avoid mob battles, but not if it increases the number of steps needed on an optimal route. Fleeing to phase through mob battles is not recommended.
+- It is ideal to finish battles as quickly as possible, as more actions taken per fight increases foray score.
+- You are not penalized for taking time to think either in or out of combat. Only actions and steps are really taken into account for scoring.
+- Flutterdream Flash increases your Foray Speed, so it is recommended not to use characters with this skill if possible on easier floors. The penalty is minimal however.
 
 ## Boss Rush Floors (5,10,15,20)
 
