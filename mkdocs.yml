@@ -46,6 +46,8 @@ plugins:
   - glightbox
   - search
   - awesome-nav
+  - macros
+  - table-reader
 extra_css:
   - stylesheets/table.css
   - stylesheets/tooltip.css

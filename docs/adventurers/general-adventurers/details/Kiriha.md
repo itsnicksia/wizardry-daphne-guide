@@ -8,7 +8,7 @@
 **Class Change**:   
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Ninja"
         ![](../img/kiriha-ninja.jpg)
 

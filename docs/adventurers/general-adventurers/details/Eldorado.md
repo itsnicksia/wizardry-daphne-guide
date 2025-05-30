@@ -8,7 +8,7 @@
 **Class Change**: Mage  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Knight"
         ![](../img/eldorado-knight.jpg)
 

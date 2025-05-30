@@ -8,7 +8,7 @@
 **Class Change**: Mage  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Fighter"
         ![](../img/elda-fighter.png)
 

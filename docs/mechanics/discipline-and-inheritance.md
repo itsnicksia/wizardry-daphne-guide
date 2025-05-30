@@ -44,7 +44,7 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     |     Detect    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |  Disarm Trap  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |   Evade Trap  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
-    |  Action Speed |  4  |  5  |  8  |     |     |     |     |     |  20 |
+    |  Action Speed |  4  |  5  |  8  |  9  |  10 |  13 |  15 |  17 |  20 |
     |    Accuracy   |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |    Evasion    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |   Resistance  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |

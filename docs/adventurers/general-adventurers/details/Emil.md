@@ -8,7 +8,7 @@
 **Class Change**: Mage  
 **Role**: Healing, Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "PPriest"
         ![](../img/emil-priest.png)
 

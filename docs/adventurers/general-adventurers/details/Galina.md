@@ -8,7 +8,7 @@
 **Class Change**: Fighter  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Priest"
         ![](../img/galina-priest.png)
 

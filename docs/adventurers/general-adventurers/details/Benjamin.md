@@ -8,7 +8,7 @@
 **Class Change**: Thief  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Fighter"
         ![](../img/benjamin-fighter.png)
 

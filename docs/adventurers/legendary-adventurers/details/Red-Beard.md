@@ -8,7 +8,7 @@
 **Class Change**:   
 **Role**: Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Priest"
         ![](../img/red-beard-priest.png)
 
@@ -16,15 +16,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Prayer of Rebellion"
-        Generates flames of rebellion that increase the Attack Power and Resistance of 1 row of allies for 3 turns. Attack Power and Resistance increase amount and number of turns are reduced if learned by someone other than Red Beard.
+        {{ get_skill_description('Prayer of Rebellion') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Apostle of Breaking"
-        Increases Tolerance of Insta-Kill, Skill-Binding, and Spell-Binding for user and all adjacent dark type allies.
+        {{ get_skill_description('Apostle of Breaking') }}
 
 !!! info "Discipline Skill"
     === "Traitor to Gods"
-        Continuously increases each stat, Divine Power and Attack Power increased further.
+        {{ get_skill_description('Traitor to Gods') }}
 
 ## Adventurer Reviews
 

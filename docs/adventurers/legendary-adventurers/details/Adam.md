@@ -8,7 +8,7 @@
 **Class Change**: Priest  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Mage"
         ![](../img/adam-mage.jpg)
 
@@ -25,15 +25,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Wisdom of Truth"
-        Eliminates dampening of damage from types the user is at a disadvantage with a chance to reduce damage when user is attacked (affected by Luck). Damage reduction amount/rate are reduced if learned by someone other than Adam.
+        {{ get_skill_description('Wisdom of Truth') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Knowledge of the Millennial Lord"
-        Continuously reduces the MP/SP cost of Mage spells/skills that cost 3-10 MP/SP.
+        {{ get_skill_description('Knowledge of the Millennial Lord') }}
 
 !!! info "Discipline Skill"
     === "Will of the Millennial Lord"
-        Continuously increases each stat, Magic Power and Action Speed increased further.
+        {{ get_skill_description('Will of the Millennial Lord') }}
 
 ## Adventurer Reviews
 

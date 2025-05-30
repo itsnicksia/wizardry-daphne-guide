@@ -8,7 +8,7 @@
 **Class Change**:  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Mage of the Black Rod"
         ![](../img/iarumas-mage-of-the-black-rod.png)
 
@@ -16,15 +16,15 @@
 
 !!! info "Unique Spell (Inheritable)"
     === "TZALIK"
-        Deals major untyped spell damage to 1 enemy. Greatly bypasses Magic Defense with a chance to inflict Paralysis on target. Damage and Paralysis rate are reduced if learned by someone other than Iarumas.
+        {{ get_skill_description('TZALIK') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Mage of the Black Rod"
-        At the start of own turn, when user is in the front row, increases Attack Power, Defense Power, Accuracy, and Evasion, and when user is the back row, increases Magic Power, Magic Defense, and Resistance. Additionally, increases own Attack Power, Defense Power, Magic Defense, and Accuracy when equipped with a one-handed staff or one-handed sword.
+        {{ get_skill_description('Mage of the Black Rod') }}
 
 !!! info "Discipline Skill"
     === "Amnesiac Corpse Retriever"
-        Continuously increases each stat, with Attack Power, Magic Power, SP, and MP increased further.
+        {{ get_skill_description('Amnesiac Corpse Retriever') }}
 
 ## Adventurer Reviews
 
