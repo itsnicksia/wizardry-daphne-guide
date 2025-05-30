@@ -38,7 +38,7 @@
 - Find his corpse in order to gain the **Rookie Adventurer's Demise** knowledge. In order for his corpse to appear, the player needs to talk to Mudd on B1F, then on B2F his corpse will be in the Spinner Woman room.
 
 ??? map "Mudd Corpse Location"
-    ![] (img/mudd-corpse-location.jpg)
+    ![](img/mudd-corpse-location.jpg)
 
 1. After having found Mudd's corpse, talk to him again on B1F and tell him to leave the dungeon.
 
