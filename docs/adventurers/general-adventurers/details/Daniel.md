@@ -8,7 +8,7 @@
 **Class Change**: Knight  
 **Role**: Healing, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Priest"
         ![](../img/daniel-priest.png)
 

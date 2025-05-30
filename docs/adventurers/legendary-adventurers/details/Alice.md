@@ -8,7 +8,7 @@
 **Class Change**: Mage  
 **Role**: Healing, Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Priest"
         ![](../img/alice-priest.png)
 
@@ -19,7 +19,7 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Blessing of Agora"
-        Adds 1 consecutive turn to buffs and debuffs applied by the user and increases MP. MP increase amount and growth amount of consecutive turns are reduced if learned by someone other than Alice.
+        {{ get_skill_description('Blessing of Agora') }}
         
         | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |
         |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|
@@ -33,14 +33,14 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Agent of Heresy"
-        Increases damage to enemies for everyone in a row if it has only evil or neutral allies.
+        {{ get_skill_description('Agent of Heresy') }}
 
         !!! note
             This damage increase is approximately 10%.
 
 !!! info "Discipline Skill"
     === "Magic of the Dark One"
-        Continuously increases each stat, Divine Power and Magic Defense increased further.
+        {{ get_skill_description('Magic of the Dark One') }}
 
 ## Adventurer Reviews
 

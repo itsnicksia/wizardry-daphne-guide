@@ -8,7 +8,7 @@
 **Class Change**: Priest  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Thief"
         ![](../img/viviana-thief.png)
 

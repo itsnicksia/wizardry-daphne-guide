@@ -8,7 +8,7 @@
 **Class Change**:  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Tall Mage"
         ![](../img/berkanan-tall-mage.png)
 
@@ -16,15 +16,15 @@
 
 !!! info "Unique Spell (Inheritable)"
     === "True Words of Fire"
-        Deals minor fire spell damage to 1 enemy. Chance to decrease the enemy's Accuracy and Defense Power for 3 turns. Damage increased based on the mage or Tall Mage's class level. Damage reduced, and Accuracy and Defense Power decrease chance and number of turns are reduced if learned by someone other than Berkanan.
+        {{ get_skill_description('True Words of Fire') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Coin of Power"
-        Allows one-handed swords and two-handed swords to be equipped. Continuously increases own Attack Power, Defense Power, Accuracy, Evasion, HP, and SP.
+        {{ get_skill_description('Coin of Power') }}
 
 !!! info "Discipline Skill"
     === "Tall Mage"
-        Continuously increases each stat, with Attack Power, SP, Defense Power, and Magic Defense increased further.
+        {{ get_skill_description('Tall Mage') }}
 
 ## Adventurer Reviews
 

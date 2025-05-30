@@ -8,7 +8,7 @@
 **Class Change**: Fighter 
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Knight"
         ![](../img/gerard-knight.png)
 
@@ -19,15 +19,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Thunderstrike"
-        Moderate air type physical attack on 1 enemy. Low chance of inflicting Paralysis on target. Damage is reduced if learned by someone other than Gerard.
+        {{ get_skill_description('Thunderstrike') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Lightning Celerity"
-        Increases Evasion when equipped with a one-handed sword.
+        {{ get_skill_description('Lightning Celerity') }}
 
 !!! info "Discipline Skill"
     === "Thundersmiter's Protection"
-    Continuously increases each stat, Evasion and Action Speed increased further.
+        {{ get_skill_description("Thundersmiter's Protection") }}
 
 ## Adventurer Reviews
 

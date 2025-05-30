@@ -8,7 +8,7 @@
 **Class Change**: Fighter  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Knight"
         ![](../img/lanavaille-knight.jpg)
 
@@ -25,7 +25,7 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Queen of War and Love"
-        Restores minor HP to all allies upon winning a battle. Recovery amount is reduced if learned by someone other than Lanavaille.
+        {{ get_skill_description('Queen of War and Love') }}
 
         | Level | HP recovery amount (self) | HP recovery amount (inherited) |
         |:-----:|:-------------------------:|:------------------------------:|
@@ -39,22 +39,20 @@
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Stirring Righteousness (Standard)"
-        Increases damage to enemies for everyone in a row if it has only good or neutral allies.
+        {{ get_skill_description('Stirring Righteousness') }}
         
         !!! note
             This damage increase is approximately 8%.
 
     === "Valiant Righteousness (Wandering Princess)"
-        <span style="color: yellow">Own Action Speed increased based on the number of one-handed swords and light armor equipped to self.</span>
-        Increases damage to enemies for everyone in a row if it has only good or neutral allies.
+        {{ get_skill_description('Valiant Righteousness') }}
 
 !!! info "Discipline Skill"
     === "Warrior Princess of Resolution and Love (Standard)"
-        Continuously increases each stat, Defense Power and Confusion/Charm Tolerance increased further.
+        {{ get_skill_description('Warrior Princess of Resolution and Love') }}
 
     === "Flawlessly Composed Warrior Princess (Wandering Princess)"
-        Continuously increases each stat, <span style="color: yellow">HP</span>, Defense Power, Confusion/Charm Tolerance, and <span style="color:yellow">Critical Tolerance</span> increased further.
-
+        {{ get_skill_description('Flawlessly Composed Warrior Princess') }}
 ## Adventurer Reviews
 
 ??? info "TheAxolotl's Analysis"

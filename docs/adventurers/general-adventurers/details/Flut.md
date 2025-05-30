@@ -8,7 +8,7 @@
 **Class Change**: Fighter  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Mage"
         ![](../img/flut-mage.jpg)
 

@@ -8,7 +8,7 @@
 **Class Change**: Priest 
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Fighter"
         ![](../img/abenius-fighter.png)
 
@@ -19,15 +19,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Flutterdream Flash"
-        Minor physical attack on 1 enemy at the start of battle. Low chance decreasing Accuracy Rate. Activation rate reduction, and the amount damage and Accuracy Rate decrease, are reduced if learned by someone other than Abenius.
+        {{ get_skill_description('Flutterdream Flash') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Flickering Fang"
-        Increases damage against magical beasts and decreases damage from magical beasts.
+        {{ get_skill_description('Flickering Fang') }}
 
 !!! info "Discipline Skill"
     === "Blessing of Owen"
-        Continuously increases each stat, Attack Power and Confusion/Charm Tolerance increased further.
+        {{ get_skill_description('Blessing of Owen') }}
 
 ## Adventurer Reviews
 

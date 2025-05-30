@@ -8,7 +8,7 @@
 **Class Change**: Currently None  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Knight"
         ![](../img/savia-knight.jpg)
 
@@ -17,15 +17,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Black Beast Feint"
-        Increases own Evasion and makes 1 row of enemies easier to target. Counter attack that penetrates Defense Power when evading an attack. Evasion increases amount and Defense Power penetration rate are reduced if learned by someone other than Savia.
+        {{ get_skill_description('Black Beast Feint') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Soaring Beast Knight"
-        Increases Evasion when equipped with a two-handed spear and light armor.
+        {{ get_skill_description('Soaring Beast Knight') }}
 
 !!! info "Discipline Skill"
     === "Natural Combatant"
-        Continuously increases each stat, Evasion greatly increased in particular.
+        {{ get_skill_description('Natural Combatant') }}
 
 ## Adventurer Reviews
 

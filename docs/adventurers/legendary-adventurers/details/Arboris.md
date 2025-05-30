@@ -8,7 +8,7 @@
 **Class Change**:  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Thief"
         ![](../img/arboris-thief.png)
 
@@ -16,15 +16,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Astral Break"
-        Major earth type physical attack on 1 enemy. Bypasses Defense Power and increases Action Speed of user and allies in front of or behind for 3 turns. Efficacy, Defense Power bypass rate, and Action Speed effect turns are reduced if learned by someone other than Arboris.
+        {{ get_skill_description('Astral Break') }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Lord of the Deep Forest's"
-        Increases Evasion and Action Speed for user and all adjacent evil and neutral allies.
+    === "Lord of the Deep Forest's Leadership"
+        {{ get_skill_description("Lord of the Deep Forest's Leadership") }}
 
 !!! info "Discipline Skill"
     === "King's Disposition"
-        Continuously increases each stat, Accuracy and Stun Tolerance increased further.
+        {{ get_skill_description("King's Disposition") }}
 
 ## Adventurer Reviews
 

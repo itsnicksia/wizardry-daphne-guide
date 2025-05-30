@@ -8,7 +8,7 @@
 **Class Change**: Knight  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Thief"
         ![](../img/debra-thief.png)
 
@@ -25,7 +25,7 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Blessing of the Beastfolk Goddess"
-        Defeating an enemy restores minor SP to self. Recovery amount is reduced if learned by someone other than Debra.
+        {{ get_skill_description('Blessing of the Beastfolk Goddess') }}
 
         !!! note
             The restored amount at skill level 1 is 4 SP.
@@ -42,11 +42,11 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Skull Study"
-        Continuously reduces the MP/SP cost of Thief spells/skills that cost 3-10 MP/SP.
+        {{ get_skill_description('Skull Study') }}
 
 !!! info "Discipline Skill"
     === "Blessing of the Beast God"
-        Continuously increases each stat, Attack Power and Paralysis tolerance increased further.
+        {{ get_skill_description('Blessing of the Beast God') }}
 
 ## Adventurer Reviews
 
