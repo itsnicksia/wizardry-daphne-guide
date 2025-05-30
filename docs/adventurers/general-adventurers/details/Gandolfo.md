@@ -8,7 +8,7 @@
 **Class Change**: Priest  
 **Role**: Damage, Support, Healing
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Fighter"
         ![](../img/gandolfo-fighter.jpg)
 

@@ -8,7 +8,7 @@
 **Class Change**:  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Mage"
         ![](../img/shelirionach-mage.png)
 
@@ -16,15 +16,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Eyes That Know the Future"
-        By glimpsing the future, the user can act against a dangerous situation. Chance to evade or reduce the first received damage higher than 50% of own max HP. Activation rate greatly reduced if learned by anyone other than Shelirionach.
+        {{ get_skill_description('Eyes That Know the Future') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Dream of the Sleeping Witch"
-        Due to the strain of shared perception with the Sacred Tree, at turn end, if MP is 25% or lower, the user falls Asleep during battle for 1 ime only. While Asleep, damage taken is not increased, and MP is recovered at turn end. While Asleep, the user automatically uses a dark-type spell attack on one enemy.
+        {{ get_skill_description('Dream of the Sleeping Witch') }}
 
 !!! info "Discipline Skill"
     === "Child of the Sacred Tree"
-        Continuously increases each stat, with Magic Power and Action Speed increased even further.
+        {{ get_skill_description('Child of the Sacred Tree') }}
 
 ## Adventurer Reviews
 

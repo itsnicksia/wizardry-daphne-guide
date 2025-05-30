@@ -8,7 +8,7 @@
 **Class Change**: Priest  
 **Role**: Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Fighter"
         ![](../img/gerulf-fighter.png)
 
@@ -25,15 +25,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Eruption Strike"
-        Moderate fire type physical attack on 1 enemy. Increases Accuracy when equipped with a two-handed blunt weapon and boosts damage. Damage is reduced if learned by someone other than Gerulf. <Close/mid-range weapon-specific\>
+        {{ get_skill_description('Eruption Strike') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Branded Hands"
-        Increases Accuracy when equipped with a two-handed weapon.
+        {{ get_skill_description('Branded Hands') }}
 
 !!! info "Discipline Skill"
     === "Fire Demon’s Brand"
-        Continuously increases each stat and Surety while Attack Power is increased further.
+        {{ get_skill_description("Fire Demon's Brand") }}
 
 ## Adventurer Reviews
 

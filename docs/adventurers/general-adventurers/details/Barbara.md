@@ -8,7 +8,7 @@
 **Class Change**: Thief  
 **Role**: Support, Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Knight"
         ![](../img/barbara-knight.png)
 

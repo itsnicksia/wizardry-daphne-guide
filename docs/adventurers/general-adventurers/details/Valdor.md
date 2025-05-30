@@ -8,7 +8,7 @@
 **Class Change**: Knight  
 **Role**: Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Priest"
         ![](../img/valdor-priest.png)
 

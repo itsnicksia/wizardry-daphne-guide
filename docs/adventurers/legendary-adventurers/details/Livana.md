@@ -8,7 +8,7 @@
 **Class Change**:  
 **Role**: Damage
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Fighter"
         ![](../img/livana-fighter.png)
 
@@ -16,15 +16,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Moonlit Pool of the White Daemon"
-        Moderate water-type physical attack on 1 enemy. Ignores distance modifiers. Damage, probability of Spell-Binding, and the rate of Magic Power reduction are reduced if learned by someone other than Livana.
+        {{ get_skill_description('Moonlit Pool of the White Daemon') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "The One Who Enforces"
-        Increases Surety and Accuracy when equipped with a two-handed axe.
+        {{ get_skill_description('The One Who Enforces') }}
 
 !!! info "Discipline Skill"
     === "Bloodline of the Mirror-Mere"
-        Continuously increases each stat, with Accuracy and Magic Defense increased even further.
+        {{ get_skill_description('Bloodline of the Mirror-Mere') }}
 
 ## Adventurer Reviews
 

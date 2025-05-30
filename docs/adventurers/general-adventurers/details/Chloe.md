@@ -8,7 +8,7 @@
 **Class Change**: Knight  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Fighter"
         ![](../img/chloe-fighter.jpg)
 

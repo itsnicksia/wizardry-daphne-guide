@@ -8,7 +8,7 @@
 **Class Change**: Currently None  
 **Role**: Damage, Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Ninja"
         ![](../img/rinne-ninja.png)
 
@@ -17,15 +17,15 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Moment of Finality"
-        Unleashes the blasting spell contained with a charm, launching an untyped spell attack on 1 enemy row that bypasses Magic Defense. Damage based on Attack Power. Damage is reduced if learned by someone other than Rinne.
+        {{ get_skill_description('Moment of Finality') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Enlightenment of the Brink of Death"
-        Increases Surety for user and all adjacent evil allies.
+        {{ get_skill_description('Enlightenment of the Brink of Death') }}
 
 !!! info "Discipline Skill"
     === "Inheritor of the Secret Arts"
-        Continuously increases each stat, Surety and Accuracy increased further.
+        {{ get_skill_description('Inheritor of the Secret Arts') }}
 
 ## Adventurer Reviews
 

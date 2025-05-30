@@ -8,7 +8,7 @@
 **Class Change**: Priest  
 **Role**: Support
 
-!!! info "Portraits"
+??? info "Portraits"
     === "Knight"
         ![](../img/eckart-knight.png)
 
