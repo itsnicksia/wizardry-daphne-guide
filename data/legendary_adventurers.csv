@@ -1,4 +1,4 @@
-name,race,gender,type,personality,starting class,class change,unique skill (inheritable),unique skill (not inheritable),discipline
+name,race,gender,type,personality,starting class,class change,inheritable skill,unique skill (not inheritable),discipline
 Abenius,Human,Female,Light,Good,Fighter,Priest ,Flutterdream Flash,Flickering Fang,Blessing of Owen
 Adam,Elf,Male,Light,Evil,Mage,Priest,Wisdom of Truth,Knowledge of the Millennial Lord,Will of the Millennial Lord
 Alice,Elf,Female,Water,Evil,Priest,Mage,Blessing of Agora,Agent of Heresy,Magic of the Dark One
