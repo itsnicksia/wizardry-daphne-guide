@@ -50,7 +50,7 @@
     | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
     | So Close, Yet So Far                                | Upon reaching the great hall, most of the captives are still alive.                |
     | Everyone Survived                                   | Upon reaching the great hall, all of the captives are still alive.                 |
-    | The Old Master and His Dog                          | Rescue the adventurers and reunite Bibi with Eugen.                               |
+    | The Old Master and His Dog                          | Rescue the adventurers and reunite Bibi with Eugen.                                |
     | Thaaank...youuu...                                  | Becooome a Bondmmatatete with theeti scarlet Bisque Doll.                          |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
