@@ -19,8 +19,8 @@
         {{ get_skill_description('Prayer of Rebellion') }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Apostle of Breaking"
-        {{ get_skill_description('Apostle of Breaking') }}
+    === "Apostle of Breaking Commandments"
+        {{ get_skill_description('Apostle of Breaking Commandments') }}
 
 !!! info "Discipline Skill"
     === "Traitor to Gods"
@@ -34,7 +34,7 @@
 
     First, in his favor, is his Neutral personality. This lets him fit well in the front row with Lana or in the back row with Alice and not mess up their row buffs.
 
-    His Apostle of Breaking skill provides some nice resistances for himself and any adjacent dark allies. The weird thing about this is that as a priest, he's usually going to be in the back row, which can force you to decide between placing him in the middle to allow him to buff three dark allies, which prevents you from placing a mage in the middle to leverage their secret art. If you place him on an edge, he can only buff two allies. You can also place him in the front row, but the limitation there is that Priests have limited equipment options compared to other physical damage dealers and they have a reduced Strength to Attack Power modifier, which means he'll have overall lower attack and not be able to take full advantage of his own unique spell.
+    His Apostle of Breaking Commandments skill provides some nice resistances for himself and any adjacent dark allies. The weird thing about this is that as a priest, he's usually going to be in the back row, which can force you to decide between placing him in the middle to allow him to buff three dark allies, which prevents you from placing a mage in the middle to leverage their secret art. If you place him on an edge, he can only buff two allies. You can also place him in the front row, but the limitation there is that Priests have limited equipment options compared to other physical damage dealers and they have a reduced Strength to Attack Power modifier, which means he'll have overall lower attack and not be able to take full advantage of his own unique spell.
 
     His Prayer of Rebellion spell, in a vacuum, is very powerful since it provides both a powerful offensive buff and a conditionally useful defensive buff for three turns. As a row-wide attack power boost that can be targeted, it allows you to cast this on your front line in turn 1 and have that line start attacking on turn 1 with boosted attack power. No need to spend a turn casting Warrior's Battle Cry first.
     

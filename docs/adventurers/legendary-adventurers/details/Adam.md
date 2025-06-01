@@ -27,6 +27,8 @@
     === "Wisdom of Truth"
         {{ get_skill_description('Wisdom of Truth') }}
 
+    ??? note "This skill removes the dampening from spells that deal element type damage as well as the damage caused by element type skills and when using elemental weapons."
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Knowledge of the Millennial Lord"
         {{ get_skill_description('Knowledge of the Millennial Lord') }}

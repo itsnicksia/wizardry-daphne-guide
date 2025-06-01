@@ -1,6 +1,6 @@
 # Old Castle Ruins - Season 2
 
-!!! danger "There is yet another possible bug with Foray Speed on the Steam Client only on Boss Floors. Take caution as it's rather easy to do by accident."
+!!! bug "Due to the overwhelming amount of bugs for season 2, the leaderboards have been wiped and everyone will be receiving rank 1 rewards. Thank you Drecom"
 
 All floors are static. Efficiency is measured by how fast you complete the floor
 
