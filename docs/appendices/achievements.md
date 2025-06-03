@@ -45,6 +45,7 @@
     | No Ruses                                            | Win the match against Vernant without using any tricks.                            |
     | You Mustn't Touch! Mustn't Ever Touch!              | Take on all of Belkadia's curses.                                                  |
     | The Tea Party is Over                               | Win by ramming a golem into Our Heirlooms.                                         |
+    | Heads Aligned, Fates Sealed                         | Hand over the evidence to Alberio and be executed.                                 |
     | Who's the Mastermind?                               | Get framed by Dalian and be executed.                                              |
     | Missing Handmaiden and Servant                      | Upon reaching the great hall, only a few captives are still alive.                 |
     | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
