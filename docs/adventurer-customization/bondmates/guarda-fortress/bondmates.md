@@ -22,8 +22,6 @@
 
 - Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#obtaining-sam-the-rascally-dog) request incorrectly.
 
-!!! note "Sam the Rascally Dog is permanently lvl 1."
-
 ### Guardian Knight Dalian
 
 ??? info "Guardian Knight Dalian"
