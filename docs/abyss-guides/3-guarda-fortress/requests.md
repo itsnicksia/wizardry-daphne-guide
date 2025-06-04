@@ -385,7 +385,6 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ??? note "Additional Notes"
     - If you only save the dog, you get nothing but the stated gold in the request.
-    - The quest is not repeatable once the bondmate has been obtained (Unsure if this is intended or not)
 
 ??? note "Rewards"
     If you save both the dog and the adventurers, you will receive the bondmate "Eugen and Bibi" which is a void element bondmate with confusion tolerance.
