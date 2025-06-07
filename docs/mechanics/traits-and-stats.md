@@ -15,7 +15,7 @@ Trait Points are the core seven attributes that influence an adventurer's stats.
 * **Luck**: Affects the outcome of various actions.
 
 !!! note
-    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, it's not entirely clear how `Dexterity` affects `Surety`, but the increase does appear to be very small.
+    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, it's not entirely clear how `Dexterity` affects `Surety`, but the increase does appear to be very small. In addition, despite the game telling us that HP, MP, and SP are influenced by some traits, the actual amounts appear to be too small to be easily noticeable.
 
 ### Base Trait Points
 
