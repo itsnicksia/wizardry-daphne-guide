@@ -35,7 +35,7 @@ In combat, openings are critical opportunities to deal massive damage to enemies
 * During this state, they take increased damage from the next non-spell attack they receive.
 
 ### How to Trigger Openings:
-* When a character successfully blocks or evades an attack while using `Defend`, or receives reduced damage through a passive skill like `Sanctuary's Blessing` or `Way of the Knight`, an opening is created. Magic attacks cannot create openings, but both single-target and multi-target physical attacks can, as long as everyone that got attacked was defending or had a passive skill trigger.
+* When a character successfully blocks or evades an attack while using `Defend`, or receives reduced damage through a passive skill like `Sanctuary's Blessing` or `Way of the Knight`, an opening is created. Magic attacks cannot create openings, but both single-target and multi-target physical attacks can. There is still a bit of uncertainty around when Openings become available with multi-target attacks, but generally it takes 2 or 3 in a row Defending to enable it. For example, some enemies seem to get put in Opening state if two people Defend, even if the third takes full, unprotected damage from an attack.
 * The Opening is available to hit any time between when it pops up and the enemy's next turn. If you do not hit the Opening before the enemy moves next, the Opening disappears.
 * Note that the Knight class skills Cover and Cover All do not create openings.
 
