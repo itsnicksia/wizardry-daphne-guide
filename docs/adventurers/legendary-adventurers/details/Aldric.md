@@ -2,7 +2,7 @@
 
 **Race**: Dwarf  
 **Gender**: Male  
-**Type**: Wind  
+**Type**: Air  
 **Personality**: Neutral  
 **Starting Class**: Thief  
 **Class Change**:  
