@@ -196,13 +196,14 @@
 If you have already stopped the Mastermind of Abyss 3, then follow these steps to reset:
 
 1. Successfully rescue the Duke in Abyss 3 at least once.
-2. Cursed Wheel to Infiltrating the Fortress and talk to the maid in Zone 1 to begin the Blackmail ending chain. Proceed to the point where you will need to head to the Royal Capital to find the gamblers.
-3. Cursed Wheel back to Fresh Start (this resets the beginning abyss area). Cursed Wheel to Return to Capital. Accept any faction quest to unlock Guarda Fortress. Head to Guarda Fortress entrance (this resets the entrance zone). Cursed Wheel to Fortress Basement Arrival.
-4. Head to Beginning Abyss Entrance. Make your way to the Gamblers near the cave entrance. Talk to them and lose. When prompted, select the option "They are blowing on the dice", then accuse them of cheating. This will begin a fight against them. After winning, select the option that says cheating is not good.
-5. Cursed Wheel to Triumphant Return. Head to Guarda Entrance. There are two gamblers. Talk to them and accept the gambling minigame
-6. This time, you have to WIN the gambling minigame. It is highly recommended to simply bet it all on odd/even until you win. If you get to 200 coins, just bet 100 at a time to minimize losses.
-7. If you lose completely (you get a few retries if you drop to 0), simply pay the gold (other option engages in a fight and messes up the reset). Cursed Wheel to Triumphant return to reset.
-8. If you win, you will face Thatcher, who is a Pirate Berserker that either basic attacks or uses stun bash. He will never attack the backrow and only gets one action per turn. This does 1100+ damage on 300 defense adventurers with Makaltu 7. The strategy is rather to defend and abuse openings. He is vulnerable to sleep and is EXTREMELY fast, so you may lose someone if you they don't have over ~95 action speed. He has around 15k HP or so. He can still easily hit ~550 against a blocking unit, so be careful. He can also self buff with an ATK Up buff, which will allow him to do enough damage to kill units that are defending, so bring a ninja with dissipation if possible. He also has very little to no surety evasion.
-9. Upon winning, protect the gambler from being attacked by Thatcher. He will become reformed and you will gain his bondmate.
-10. To farm, simply cursed wheel back to Triumphant Return, and head to Guarda Entrance.
+2. Cursed Wheel back and defeat the Greater Warped One at 7-8 corruption level. Do not hand evidence to Dalian or Clemente. Talk to Alan after saving Liam.
+3. Get the execution ending. Upon reviving, chase Dalian's maid to the Temple. Answer all questions correctly and accept the blackmail request.
+4. Cursed Wheel back to Fresh Start (this resets the beginning abyss area). Cursed Wheel to Return to Capital. Accept any faction quest to unlock Guarda Fortress. Head to Guarda Fortress entrance (this resets the entrance zone). Cursed Wheel to Fortress Basement Arrival.
+5. Head to Beginning Abyss Entrance. Make your way to the Gamblers near the cave entrance. Talk to them and lose. When prompted, select the option "They are blowing on the dice", then accuse them of cheating. This will begin a fight against them. After winning, select the option that says cheating is not good.
+6. Cursed Wheel to Triumphant Return. Head to Guarda Entrance. There are two gamblers. Talk to them and accept the gambling minigame
+7. This time, you have to WIN the gambling minigame. It is highly recommended to simply bet it all on odd/even until you win. If you get to 200 coins, just bet 100 at a time to minimize losses.
+8. If you lose completely (you get a few retries if you drop to 0), simply pay the gold (other option engages in a fight and messes up the reset). Cursed Wheel to Triumphant return to reset.
+9. If you win, you will face Thatcher, who is a Pirate Berserker that either basic attacks or uses stun bash. He will never attack the backrow and only gets one action per turn. This does 1100+ damage on 300 defense adventurers with Makaltu 7. The strategy is rather to defend and abuse openings. He is vulnerable to sleep and is EXTREMELY fast, so you may lose someone if you they don't have over ~95 action speed. He has around 15k HP or so. He can still easily hit ~550 against a blocking unit, so be careful. He can also self buff with an ATK Up buff, which will allow him to do enough damage to kill units that are defending, so bring a ninja with dissipation if possible. He also has very little to no surety evasion.
+10. Upon winning, protect the gambler from being attacked by Thatcher. He will become reformed and you will gain his bondmate.
+11. To farm, simply cursed wheel back to Triumphant Return, and head to Guarda Entrance.
     
