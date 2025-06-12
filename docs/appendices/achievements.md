@@ -117,6 +117,7 @@
     | Flames of the Demon                            | Accompany your ally to make good on the fire demon's broken pact.  |
     | Millennial Lord Adam                           | Vanquish Millennial Lord Adam with your ally.                      |
     | Golden-Haired Goddess Who Destroyed Everything | Complete the investigation of the island of ghosts with your ally. |
+    | True-Form Skull                                | Recover Kalshum's bones with your ally.                            |
 
 === "Equipment"
 
