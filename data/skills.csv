@@ -1,5 +1,6 @@
 name,type,effect,details,level,class,is_class_restricted
 ABIT,support,Words of prayer that remove 1 debuff from 1 ally row.,Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.,40,Priest,
+Adept's Rule of Thumb,passive,"Continuously increases each stat, with Detect and Disarm Trap increased even further.",Detect and Disarm Trap increased further based on skill level.,,,
 Advice of the Skull,passive,Increases damage against undead and decreases damage from undead.,,,,
 Agent of Heresy,passive,Increases damage to enemies for everyone in a row if it has only evil or neutral allies.,,,,
 Air Formation,passive,Increases damage to earth type enemies for user and adjacent air type allies if there are at least 2 air type allies adjacent to the user.,,,,
@@ -30,6 +31,7 @@ Blessing of the Beastfolk Goddess,passive,Defeating an enemy restores minor SP t
 Blinding,active,Minor physical attack on 1 enemy based on the user's Dexterity. Chance to decrease Accuracy.,Efficacy and probability increased while Accuracy further decreased based on skill level.,20,Thief,
 Blood Edge,active,Launches a minor physical attack on 1 enemy dealing continuous damage to HP for a set number of turns.,Damage amount and number of turns increased further based on skill level.,51,Thief,
 Bloodline of the Mirror-Mere,passive,"Continuously increases each stat, with Accuracy and Magic Defense increased even further.",Accuracy and Magic Defense increased further based on skill level.,,,
+Blunt Combo Strike,active,"Minor physical attack with high Accuracy on 1 enemy. When attacking, companion crows perform an attack that penetrates Defense based on Dexterity. Increases own Evasion for 1 turn, and when evading an attack, the companion crow counterattacks.","Efficacy increased, damage dealt by companion crows increased, and Evasion rate increased based on skill level.",,,
 Branded Hands,passive,Increases Accuracy when equipped with a two-handed weapon.,,,,
 CALDIA,support,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.,17,Priest,
 Child of the Sacred Tree,passive,"Continuously increases each stat, with Magic Power and Action Speed increased even further.",Magic Power and Action Speed increased further based on skill level.,,,
@@ -273,6 +275,7 @@ Wild Strike,active,"Major physical attack on 1 enemy. Afterward, own Action Spee
 Wild Throw,active,Minor physical attack on 3 random enemies.,Efficacy increased based on skill level.,10,Ninja,X
 Will of the Millennial Lord,passive,Continuously increases each stat. Magic Power and Action Speed increased further.,Magic Power and Action Speed increased further based on skill level.,,,
 Will to Fight,passive,"Increases Accuracy, Evasion, and Surety when HP is below a certain level.",Adds more affected stats based on skill level and Effects increased further.,36,Fighter,
+Wisdom of the Crafty Old Dwarf,passive,"Coninuously increases Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance. Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance increase amounts are reduced if learned by someone other than Aldric.","Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance increased further based on skill level.",,,
 Wisdom of Truth,passive,Eliminates dampening of damage from types the user is at a disadvantage with a chance to reduce damage when user is attacked (affected by Luck). Damage reduction amount/rate are reduced if learned by someone other than Adam.,"Incrementally adds MP up, with a chance to reduce damage when attacked, based on skill level. Probability increased and damage further reduced.",,,
 Young Spell Prodigy,passive,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,
 ZELOS,damage,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,0,Mage,

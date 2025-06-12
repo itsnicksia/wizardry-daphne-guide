@@ -27,9 +27,6 @@
     === "Blessing of the Beastfolk Goddess"
         {{ get_skill_description('Blessing of the Beastfolk Goddess') }}
 
-        !!! note
-            The restored amount at skill level 1 is 4 SP.
-
         | Level | SP recovery amount (self) | SP recovery amount (inherited) |
         |:-----:|:-------------------------:|:------------------------------:|
         |   1   |             4             |                2               |
