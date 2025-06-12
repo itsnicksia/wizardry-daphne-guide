@@ -22,7 +22,9 @@ Request has you go to the Tavern which triggers a conversation about Yekaterina 
 
 ### Map:
 
-Under Construction
+![](img/old-royal-sepulcher.png)
+
+    - Checkmark indicates the correct tomb.
 
 ## Rewards:
 
