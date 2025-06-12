@@ -7,9 +7,19 @@ def define_env(env):
     @env.macro
     def get_skill_description(skill_name):
         
-        skill = pd.DataFrame(pd_read_csv('data/skills.csv').query(f'name == "{skill_name}"'))
+        skill = pd.DataFrame(pd_read_csv('data/skills.csv').query(f'Name == "{skill_name}"'))
         
-        effect = skill['effect'].iloc[0]
-        details = skill['details'].fillna('').iloc[0]
+        effect = skill['Effects'].iloc[0]
+        details = skill['Detail'].fillna('').iloc[0]
         
         return f"{effect} {details}"
+    
+    @env.macro
+    def populate_quicklist(file,return_columns,filter_column=None,filter_value=None):
+
+        results = pd_read_csv(f'./data/{file}')
+        if filter_column != None and filter_value != None:
+            results = results.query(f'`{filter_column}` == "{filter_value}"')
+        results = results.fillna('')
+
+        return results[return_columns]
