@@ -21,11 +21,11 @@
         | Level | Detect/Disarm Trap/Evade Trap (self) | Detect/Disarm Trap/Evade Trap (inherited) |
         |:-----:|:------------------------------------:|:-----------------------------------------:|
         |   1   |                 2/5/2                |                   1/3/1                   |
-        |   2   |                                      |                                           |
-        |   3   |                                      |                                           |
-        |   4   |                                      |                                           |
-        |   5   |                                      |                                           |
-        |   6   |                                      |                                           |
+        |   2   |                                      |                   2/5/2                   |
+        |   3   |                                      |                   4/9/4                   |
+        |   4   |                                      |                   6/11/6                  |
+        |   5   |                                      |                   8/15/8                  |
+        |   6   |                                      |                  10/17/10                 |
         |   7   |                                      |                     -                     |
 
 !!! info "Unique Skill (Not Inheritable)"
@@ -44,7 +44,8 @@
 
     His damage skill, Blunt Combo Strike, is very unique, but it is also what we're currently least clear on. First, what we do know:
     
-    * Both the initial minor attack and the crow attack are impacted by weapon range and surety, as well as Slayer buffs. This likely means they also carry over procs like Corrosion Dagger, Mace of Tumult, and Staff of Weakness.
+    * Both the initial minor attack and the crow attack are impacted by weapon range and surety, as well as Slayer buffs.
+    * The initial minor attack can trigger procs like Corrosion Dagger, Mace of Tumult, and Staff of Weakness, but the crow attack cannot.
     * The initial minor attack is not forced to a single hit and instead uses the number of hits provided by the weapon, plus an additional hit for the crow. For example, using a 2-hit weapon, his skill hits a total of 3 times and using a 3-hit weapon, his skill hits a total of 4 times
     * Despite the `Details` page of this skill indicating that there are efficacy increases with higher skill levels, since this is his non-inheritable skill, it is currently locked at level 1, so we can't actually increase its skill level.
 
