@@ -51,8 +51,12 @@
     | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
     | So Close, Yet So Far                                | Upon reaching the great hall, most of the captives are still alive.                |
     | Everyone Survived                                   | Upon reaching the great hall, all of the captives are still alive.                 |
+    | Guardian of Guarda                                  | Expose all evil deeds and slay the Greater Warped One without any corrosion present.|
+    | Master Bouncer! Yer up!                             | Return to the gambling den and defeat the master bouncer.                          |
     | The Old Master and His Dog                          | Rescue the adventurers and reunite Bibi with Eugen.                                |
+    | Ivo's Maliciousness                                 | Complete the Emergency Occurrence request.                                         |
     | Thaaank...youuu...                                  | Becooome a Bondmmatatete with theeti scarlet Bisque Doll.                          |
+    | Godslayer                                           | Win a battle against Morgus, God of Death                                          |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
     | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
@@ -66,6 +70,7 @@
     | Fighter Sent by the Gods                            | Conduct and Inquisition on One-Legged Ted                                          |
     | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
     | Boss Hunter                                         | Slay the boss of the gorgon herd.                                                  |
+    
 
 === "Adventurer"
 
