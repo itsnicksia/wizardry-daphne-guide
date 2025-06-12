@@ -59,6 +59,16 @@
 
     The biggest hurdles that Aldric needs to overcome are the fact that he's a thief and the fact that there's already a lot of competition for both rows within a party. Many veteran players stopped using thieves quite a long time ago and have instead made MC or a ninja their disarmer. As such, his value is going to be relatively low for parties with established disarmers. Given the uncertainty at this point around his damage longevity, it's hard to immediately recommend him as a long-term member in a party since thief damage drops off pretty significantly in the later content. That being said, if you want to run a thief, he's going to be the best thief in the game right now at doing a thief's job of disarming traps. If you use a ninja like Rinne as your disarmer instead, inheriting him to her definitely couldn't hurt, but he's also a fairly easy skip.
 
+??? info "Frobro's Analysis"
+
+    Well, well well; he’s a thief alright. If opening chests is what you need, this guy has the capacity to be the best in the game at it. Both a chest opening-based discipline focus and inherit; all function, no flash. It's not a particularly tempting offer given the alternative of “git gud” costs $0, but maybe future chests will be difficult for non-chest specialized thieves to open? Is this what the streets wanted; A chest opening legendary?
+
+    Now that unique is something; it’s kinda like Sheli’s if you squint. It's a decently strong attack that kinda costs 0sp to use but has a prerequisite attached to it and you can’t cast it directly…mostly. I am of course referring to the Bird-counter part of the attack specifically. After the turn you use the skill, you need to be targeted by an attack that can be evaded & counter-attacked and you must evade the attack. A few things need to go your way to get more than 1 bird hit, but it is possible and you are guaranteed 1 on the turn you use the skill so it can seem like an equivalent to Sheli’s at a glance. Defense penetration can be incredibly strong. The Bird’s damage is subject to the range penalty if you don’t have a bow equipped and its damage doesn’t seem tied to ATK power. Exactly how good this skill is, and by extension how good Aldric’s damage is relative to the field, depends heavily on how much damage Bird does at higher levels as some part of it scales with DEX. 
+
+    Beyond that, as a standalone skill…yikes. It’s Black Beast Feint that replaces the row aggro ailment with a minor attack + 1 bird hit for 5 more SP. You’d have to use high-leveled Attract Hit or Defensive Provoke separately to expect to get max value from this skill. So now you need to inherit an Alice to extend the buffs for maximum effect. Also, this skill cannot be leveled up with codexes so it really relies on how Bird scales with DEX. Compared to Slumbering Darkness’s easy prerequisite, direct MAG power scaling and negative MP cost, it really feels like the devs dropped some hot “mid” again.
+
+    Despite the rant, Aldric is probably the best thief in the game, but not so much so that many veteran players are replacing their invested thief over.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
