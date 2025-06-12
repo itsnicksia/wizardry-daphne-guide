@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Thief"
-        ![](../img/abenius-fighter.png)
+        ![](../img/aldric-thief.png)
 
 ## Skills
 
