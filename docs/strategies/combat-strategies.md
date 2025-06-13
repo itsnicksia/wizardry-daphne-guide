@@ -80,9 +80,9 @@ hit.
 There are two tricks to doing it consistently that people have had luck with:
 
 * Press the revive as soon as the circle animation starts.
-   * This is most consistent, if you set your game to run at 30fps.
-   * If running at 60fps, then the correct timing is to press just a little bit after the animation starts, maybe 300-500ms later.
-   * Do note that the target circle gets smaller according to dead character's fortitude, and so this trick also becomes less useful.
+    * This is most consistent, if you set your game to run at 30fps.
+    * If running at 60fps, then the correct timing is to press just a little bit after the animation starts, maybe 300-500ms later.
+    * Do note that the target circle gets smaller according to dead character's fortitude, and so this trick also becomes less useful.
 * Tap on the screen immediately as (or slightly after) your MC touches the dead adventurer's back.
 
 ## ^^Key Takeaways^^
