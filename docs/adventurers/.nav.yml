@@ -8,6 +8,8 @@ nav:
     - Adam:
         - Details: './legendary-adventurers/details/Adam.md'
         - Life Story: './legendary-adventurers/life-stories/Adam.md'
+    - Aldric:
+        - Details: './legendary-adventurers/details/Aldric.md'
     - Alice:
         - Details: './legendary-adventurers/details/Alice.md'
         - Life Story: './legendary-adventurers/life-stories/Alice.md'
@@ -54,6 +56,7 @@ nav:
     - Adam - Unnamed Request: './legendary-adventurers/legendary-requests/adam/adam-request.md'
     - Debra - Investigate the Island of Ghosts: './legendary-adventurers/legendary-requests/debra/debra-request.md'
     - Gerulf - Collect on a Broken Pact: './legendary-adventurers/legendary-requests/gerulf/gerulf-request.md'
+    - Yekaterina - Unnamed Request: './legendary-adventurers/legendary-requests/yekaterina/yekaterina-request.md'
   - General Adventurers:
     - Alex:
         - Details: './general-adventurers/details/Alex.md'

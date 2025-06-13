@@ -487,6 +487,9 @@ Goetia -> Admiral Route
 - Complete Temple Food Assistance Request.  
 - Speak to Pickerel at Upper Deck \-Arena-.
 
+!!! info "Tip"
+    - An easy way to find rabbits is to enter the B4F Harken in Abyss 1. A group of 3 bunnies is guaranteed to spawn on the room next to it, which is a very fast way to fulfill the requirement.
+
 ### Temple Food Assistance
 
 ??? info "Request"

@@ -14,7 +14,7 @@ The number of times you need to get a bond to reach a particular bond level:
 
 !!! note "Most bondmates that are dismissed can be reacquired, and start levelling again at Level 1."
 
-!!! warning "Bondmates that are permatently capped at level 1 cannot be reacquired after being dismissed. Further attempts to acquire the bond will just produce the 'will be missed' message."
+!!! warning "Bondmates that are permanently capped at level 1 cannot be reacquired after being dismissed. Further attempts to acquire the bond will just produce the 'will be missed' message."
 
 ## Beginning Abyss Bondmates
 

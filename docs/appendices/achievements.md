@@ -45,13 +45,18 @@
     | No Ruses                                            | Win the match against Vernant without using any tricks.                            |
     | You Mustn't Touch! Mustn't Ever Touch!              | Take on all of Belkadia's curses.                                                  |
     | The Tea Party is Over                               | Win by ramming a golem into Our Heirlooms.                                         |
+    | Heads Aligned, Fates Sealed                         | Hand over the evidence to Alberio and be executed.                                 |
     | Who's the Mastermind?                               | Get framed by Dalian and be executed.                                              |
     | Missing Handmaiden and Servant                      | Upon reaching the great hall, only a few captives are still alive.                 |
     | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
     | So Close, Yet So Far                                | Upon reaching the great hall, most of the captives are still alive.                |
     | Everyone Survived                                   | Upon reaching the great hall, all of the captives are still alive.                 |
+    | Guardian of Guarda                                  | Expose all evil deeds and slay the Greater Warped One without any corrosion present.|
+    | Master Bouncer! Yer up!                             | Return to the gambling den and defeat the master bouncer.                          |
     | The Old Master and His Dog                          | Rescue the adventurers and reunite Bibi with Eugen.                                |
+    | Ivo's Maliciousness                                 | Complete the Emergency Occurrence request.                                         |
     | Thaaank...youuu...                                  | Becooome a Bondmmatatete with theeti scarlet Bisque Doll.                          |
+    | Godslayer                                           | Win a battle against Morgus, God of Death                                          |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
     | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
@@ -65,6 +70,7 @@
     | Fighter Sent by the Gods                            | Conduct and Inquisition on One-Legged Ted                                          |
     | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
     | Boss Hunter                                         | Slay the boss of the gorgon herd.                                                  |
+    
 
 === "Adventurer"
 
@@ -116,6 +122,7 @@
     | Flames of the Demon                            | Accompany your ally to make good on the fire demon's broken pact.  |
     | Millennial Lord Adam                           | Vanquish Millennial Lord Adam with your ally.                      |
     | Golden-Haired Goddess Who Destroyed Everything | Complete the investigation of the island of ghosts with your ally. |
+    | True-Form Skull                                | Recover Kalshum's bones with your ally.                            |
 
 === "Equipment"
 

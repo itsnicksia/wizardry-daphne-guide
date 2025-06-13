@@ -103,14 +103,14 @@
 
 1. Complete the four Procurement requests and turn each in to the Head Cook directly. Do not turn them into the guild.
 
-??? note "Procurement Quest Links"
-    - [Scorpion Woman Legs and Herb Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#scorpion-woman-legs-and-herb-procurement)
-    - [Giant Insect Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#giant-insect-procurement)
-    - [Minotaur Spare Rib Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#minotaur-spare-rib-procurement)
-    - [Hydra Plant Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#hydra-plant-procurement)
+    ??? note "Procurement Quest Links"
+        - [Scorpion Woman Legs and Herb Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#scorpion-woman-legs-and-herb-procurement)
+        - [Giant Insect Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#giant-insect-procurement)
+        - [Minotaur Spare Rib Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#minotaur-spare-rib-procurement)
+        - [Hydra Plant Procurement Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#hydra-plant-procurement)
 
-3. Wheel ahead (if you're not already there) to Arena 5 and beat either Melgina or Octonarus.
-4. After the battle, do not return to town. Instead, take the harken at the pier over to the Lower Deck 2 \-Lounge- and Head Cook.
+2. Wheel ahead (if you're not already there) to Arena 5 and beat either Melgina or Octonarus.
+3. After the battle, do not return to town. Instead, take the harken at the pier over to the Lower Deck 2 \-Lounge- and Head Cook.
 
 !!! note "To farm, Cursed Wheel to Rickert's Shop, and repeat the requests."
 

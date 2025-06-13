@@ -15,7 +15,7 @@ Trait Points are the core seven attributes that influence an adventurer's stats.
 * **Luck**: Affects the outcome of various actions.
 
 !!! note
-    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, it's not entirely clear how `Dexterity` affects `Surety`, but the increase does appear to be very small.
+    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, it's not entirely clear how `Dexterity` affects `Surety`, but the increase does appear to be very small. In addition, despite the game telling us that HP, MP, and SP are influenced by some traits, the actual amounts appear to be too small to be easily noticeable.
 
 ### Base Trait Points
 
@@ -118,7 +118,7 @@ Looking at the above charts, we can see that while primary stats (STR, IQ, etc) 
 
 **Detect:** Formula is correct, but multipliers might be off
 **Disarm Trap:** Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm
-**Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work. |
+**Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work. 
 
 ### IVs
 An IV is an extra bonus Trait Point that exists on an adventurer when you create them, and it shows up as something we previously termed a "hidden bonus point." There is some evidence that this impacts Trait Point growth, with an IV in a Trait Point leading towards an adventurer having a higher value for that Trait Point than a copy of that adventurer without the IV. The biggest unknown around IVs, though, is exactly what the IV means for long-term adventurer development. Assuming we will eventually be at a maximum level of 130, it's possible that the IV means a particular Trait Point will get to a "maximum value" faster but by level 130, all copies of an adventurer will have the same Trait Point values.

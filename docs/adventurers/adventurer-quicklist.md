@@ -5,6 +5,7 @@
     | --------------------------------------------------------------- | --------- | ------ | --------------------- | --------------- | ----- | ----------- | -------------- |
     | [Abenius](./legendary-adventurers/details/Abenius.md)           | Human     | Female | Fighter               | Priest          | Light | Good        | Legendary      |
     | [Adam](./legendary-adventurers/details/Adam.md)                 | Elf       | Male   | Mage                  | Priest          | Light | Evil        | Legendary      |
+    | [Aldric](./legendary-adventurers/details/Aldric.md)             | Dwarf     | Male   | Thief                 |                 | Air   | Neutral     | Legendary      |
     | [Alex](./general-adventurers/details/Alex.md)                   | Human     | Male   | Knight                | Fighter         | Fire  | Good        | General        |
     | [Alice](./legendary-adventurers/details/Alice.md)               | Elf       | Female | Priest                | Mage            | Water | Evil        | Legendary      |
     | [Amelia](./general-adventurers/details/Amelia.md)               | Beastfolk | Female | Thief                 | Fighter         | Fire  | Evil        | General        |
@@ -61,6 +62,7 @@
     | --------------------------------------------------------------- |:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
     | [Abenius](./legendary-adventurers/details/Abenius.md)           |    13    |  12 |   14  |    12    |     12    |   12  |  12  |
     | [Adam](./legendary-adventurers/details/Adam.md)                 |    10    |  16 |   12  |    10    |     15    |   13  |  11  |
+    | [Aldric](./legendary-adventurers/details/Aldric.md)             |    14    |  9  |   12  |    15    |     17    |   11  |   9  |
     | [Alex](./general-adventurers/details/Alex.md)                   |    16    |  11 |   12  |    15    |     12    |   11  |  11  |
     | [Alice](./legendary-adventurers/details/Alice.md)               |    09    |  18 |   14  |    09    |     13    |   13  |  11  |
     | [Amelia](./general-adventurers/details/Amelia.md)               |    12    |  13 |   08  |    14    |     14    |   17  |  09  |
@@ -117,6 +119,7 @@
     | --------------------------------------------------------------- | --------------------------------- | ----------------------------- |
     | [Abenius](./legendary-adventurers/details/Abenius.md)           | Flutterdream Flash                |                               |
     | [Adam](./legendary-adventurers/details/Adam.md)                 | Wisdom Of Truth                   |                               |
+    | [Aldric](./legendary-adventurers/details/Aldric.md)             | Wisdom of the Crafty Old Dwarf    |                               |
     | [Alex](./general-adventurers/details/Alex.md)                   | Stun Bash                         | Way of the Knight             |
     | [Alice](./legendary-adventurers/details/Alice.md)               | Blessing of Agora                 |                               |
     | [Amelia](./general-adventurers/details/Amelia.md)               | Stealth                           | Blinding                      |
@@ -173,6 +176,7 @@
     | --------------------------------------------------------------- | ------------------------------------------------- |:---------------------:|:---------------------------:|
     | [Abenius](./legendary-adventurers/details/Abenius.md)           | Fighter Called the Glintblade                     |       2024-12-06      |                             |
     | [Adam](./legendary-adventurers/details/Adam.md)                 | Mage Called the Millenial Lord                    |       2024-10-15      |                             |
+    | [Aldric](./legendary-adventurers/details/Aldric.md)             | Crow Handler Who Took Revenge on a Cult           |       2025-06-12      |                             |
     | [Alex](./general-adventurers/details/Alex.md)                   | Smoldering Knight                                 |       2024-10-15      |                             |
     | [Alice](./legendary-adventurers/details/Alice.md)               | Girl Called the Dark One's Maiden                 |       2024-10-15      |                             |
     | [Amelia](./general-adventurers/details/Amelia.md)               | Cunning Thief                                     |       2024-10-15      |                             |

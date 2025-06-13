@@ -1,5 +1,7 @@
 # Pixie and the Secret Garden
 
+!!! item "This event is now permanently available!"
+
 ## How to participate:
 
 You need to reach a certain point in the Beginner's Dungeon, and then you will be able to access the Event Dungeon
