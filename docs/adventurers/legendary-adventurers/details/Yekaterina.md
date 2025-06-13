@@ -15,6 +15,12 @@
     === "Priest"
         ![](../img/yekaterina-priest.jpg)
 
+    === "Mage After Personal Request"
+        ![](../img/yekaterina-mage-personal-request.jpg)
+
+    === "Priest After Personal Request"
+        ![](../img/yekaterina-priest-personal-request.jpg)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
