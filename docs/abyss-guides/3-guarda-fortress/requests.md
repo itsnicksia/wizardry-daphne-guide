@@ -340,8 +340,6 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
     - [Stopped the Mastermind](./important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
     - Attained [Rescuing Liam Safely](./requests.md#rescuing-the-little-girl-safely)
 
-!!! note "If you Cursed Wheeled to a previous Abyss, or wish to reset this request, you will need to do the pre-requisite request again which is Search for the Missing Girl, more specifically you will need the ending where both Liam is rescued in good condition with the dog."
-
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
 
 1. After accepting the quest, head to Edge of Town to receive more information.
