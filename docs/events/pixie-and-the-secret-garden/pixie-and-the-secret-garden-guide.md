@@ -4,7 +4,7 @@
 
 ## How to participate:
 
-You need to reach a certain point in the Beginner's Dungeon, and then you will be able to access the Event Dungeon
+You need to reach a certain point in the Third Abyss, Impregnable Fortress and view the Prologue story of the quest.
 
 ## Guide:
 !!! note "There is no difficulty mode for this Event Dungeon. The mobs will scale automatically to your level."
