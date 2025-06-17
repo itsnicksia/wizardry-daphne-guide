@@ -60,6 +60,6 @@ function updateRowVisibility(query, rows) {
       }
     }
 
-    row.style.display = hasMatchingCell ? row.style.display : 'none';
+    row.style.display = hasMatchingCell ? '' : 'none';
   });
 }
