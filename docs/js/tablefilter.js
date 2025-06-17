@@ -1,5 +1,4 @@
 function addFilterDecorator(table) {
-  console.log("foo");
   const thead = table.tHead;
   if (!thead) {
     return;
@@ -50,7 +49,17 @@ function createFilterInput() {
 
 function updateRowVisibility(query, rows) {
   rows.forEach(row => {
-    const text = row.textContent.toLowerCase();
-    row.style.display = text.indexOf(query) > -1 ? '' : 'none';
+    const cells = row.cells;
+    let hasMatchingCell = false;
+    for (let cellIndex = 0; cellIndex < row.cells.length; cellIndex++) {
+
+      const cell = cells[cellIndex];
+      if (cell.innerText.toLowerCase().indexOf(query) === 0) {
+        hasMatchingCell = true;
+        break;
+      }
+    }
+
+    row.style.display = hasMatchingCell ? row.style.display : 'none';
   });
 }
