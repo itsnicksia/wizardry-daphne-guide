@@ -254,6 +254,8 @@ Goetia -> Admiral Route
 
 - Unlocks after Cutlass Delivery.
 
+**Reward**: 50 Gems
+
 ## All Aboard
 
 ### Delivering Chamomile for the Dead
