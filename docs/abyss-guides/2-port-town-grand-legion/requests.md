@@ -246,6 +246,14 @@ Goetia -> Admiral Route
 - Go to the item shop in Royal Capital Luknalia and talk to Walter to buy the Cutlass  
 - Turn it in to Clyde
 
+### Steel Wire Delivery
+
+??? info "Request"
+    ![](img/steel-wire-delivery.png)
+    ![](img/steel-wire-delivery-reward.png)
+
+- Unlocks after Cutlass Delivery.
+
 ## All Aboard
 
 ### Delivering Chamomile for the Dead
