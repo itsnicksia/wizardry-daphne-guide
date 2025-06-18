@@ -66,4 +66,5 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.6.0/dist/tablesort.min.js
   - https://unpkg.com/tablesort@5.6.0/dist/sorts/tablesort.number.min.js
   - https://unpkg.com/papaparse@5.4.0/papaparse.min.js
-  - js/render-sheet.js
+  - js/render-trust-sheet.js
+  - js/render-equipment-drop-rates.js

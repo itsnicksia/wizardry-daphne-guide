@@ -1,7 +1,7 @@
 const trustSheet = {
     url: "https://docs.google.com/spreadsheets/d/1yZmJFzlspu45kUQmqfb-mBzlomwRYlaWUn_8ACECok8/gviz/tq?tqx=out:csv&sheet=Affinity%20Chart",
     containerElementId: "trust-chart",
-    columnRange: [1, 12]
+    columnRange: [1, 14]
 }
 
 document$.subscribe(() => {
