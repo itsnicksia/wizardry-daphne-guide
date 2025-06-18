@@ -5,10 +5,13 @@ const trustSheet = {
 }
 
 document$.subscribe(() => {
-    buildTableFromSheet(trustSheet);
+    buildTableFromSheet(trustSheet, (table) => {
+        new Tablesort(table);
+        addFilterDecorator(table);
+    });
 });
 
-function buildTableFromSheet({containerElementId, url, columnRange}) {
+function buildTableFromSheet({containerElementId, url, columnRange}, onPostBuild) {
     const container = document.getElementById(containerElementId);
 
     if (!container) {
@@ -37,6 +40,9 @@ function buildTableFromSheet({containerElementId, url, columnRange}) {
 
                 html.push("</tbody></table></div></div>");
                 container.innerHTML = html.join("");
+
+                const table = container.querySelector("table");
+                onPostBuild(table);
             }
         }
     );
