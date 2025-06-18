@@ -21,10 +21,21 @@ function addFilterDecorator(table) {
 
   thead.insertBefore(filterRow, thead.firstElementChild);
 
-  filterInput.addEventListener('input', function() {
-    const query = this.value.trim().toLowerCase();
-    updateRowVisibility(query, rows)
-  })
+  // Debounced version of updateRowVisibility
+  const debouncedFilter = debounce(function () {
+    const query = filterInput.value.trim().toLowerCase();
+    updateRowVisibility(query, rows);
+  }, 300); // 300ms debounce delay
+
+  filterInput.addEventListener('input', debouncedFilter);
+}
+
+function debounce(fn, delay) {
+  let timeoutId;
+  return function (...args) {
+    clearTimeout(timeoutId);
+    timeoutId = setTimeout(() => fn.apply(this, args), delay);
+  };
 }
 
 function createFilterInputContainer(colSpan) {
