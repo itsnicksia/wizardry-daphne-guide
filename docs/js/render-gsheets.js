@@ -4,16 +4,24 @@ const trustSheet = {
     columnRange: [1, 14]
 }
 
+const equipmentSheet = {
+    url: "https://docs.google.com/spreadsheets/d/1XzlwOeuDjlFJ86zUrFtE2sO6J5AIdis0PM-nC7O0MQw/gviz/tq?tqx=out:csv&sheet=Drop%20Data",
+    containerElementId: "equipment-drop-rates",
+    columnRange: [0, 9]
+}
+
+const decorators = (table) => {
+    new Tablesort(table);
+    addFilterDecorator(table);
+};
+
 document$.subscribe(() => {
-    buildTableFromSheet(trustSheet, (table) => {
-        new Tablesort(table);
-        addFilterDecorator(table);
-    });
+    buildTableFromSheet(trustSheet, decorators);
+    buildTableFromSheet(equipmentSheet, decorators);
 });
 
 function buildTableFromSheet({containerElementId, url, columnRange}, onPostBuild) {
     const container = document.getElementById(containerElementId);
-
     if (!container) {
         return;
     }
@@ -37,9 +45,9 @@ function buildTableFromSheet({containerElementId, url, columnRange}, onPostBuild
                     row.slice(...columnRange).forEach(columnValue => html.push(`<td>${columnValue}</td>`));
                     html.push('</tr>');
                 });
-
                 html.push("</tbody></table></div></div>");
                 container.innerHTML = html.join("");
+
 
                 const table = container.querySelector("table");
                 onPostBuild(table);
