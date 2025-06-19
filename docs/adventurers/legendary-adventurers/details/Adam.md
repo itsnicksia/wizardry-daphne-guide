@@ -86,10 +86,25 @@
 
     Now, do you know who else is damage spell spamming, RNG damage mitigating, Mag Power + ASPD focused demon from hell? It doesn’t help that she uses Adam’s Wisdom of truth better than he does. Adam could just cast other elemental spells when needed, but Shelirionach’s Slumbering Darkness is always dark. In the end, there are worse things to be than the 2nd best at a particular role.
 
+??? info "Karkarov's Analysis"
+
+    === "Millennial Lord"
+
+        "So the new alt skin character is revealed and it is ... MADAM!  For some this may be bad news, but Adam as a character has always been underrated in my view.
+
+        Only two things have changed (outside aesthetics) for Madam, the discipline is now MP and Resistance boosted, and the unique skill gives a column damage buff if both members of the column are Light Element.  Compare this to original Adam whose discipline is argueably the best a Mage can get Magic Power and Action Speed boosted, and a unique skill that reduces MP cost on spells that are 3-10 MP.
+
+        As a result, it is clear that Madam on paper is not a straight upgrade to Adam unlike Wana and Lana.  The discipline is simply worse than normal Adam, but Madam has a superior unique skill with damage buff potential, even more so when fighting Dark Element enemies.  It is situational however and relies on your party comp using a strong front line Light character such as Abenius.  If you do have the party make up to support it, there is more long term value there than the normal Adam's MP reduction skill.  Also who knows what characters will be introduced long term and how this will impact future value.
+
+        Ultimately I think Madam is a better character than Adam, and I would rate him from a ""just the character"" evaluation as the second best Mage in the game at this time (6/19/25).  He is still not up to par with our Sleepy Queen Sheli, but he is closer than other Mages.  Madam is a character that will show their true value months after their release, it will depend on what Drecom releases and if more strong Light front liners are imminent."									
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
     While I like the changes to Adam's kit here, he's likely a pass for me just because I'd be hard-pressed to fit him in my party most of the time. There's a chance I'll decide to try to pull just for the situational use in the future, but it's fairly unlikely.
+
+??? note "Karkarov's Pull Plan"
+    Do you love goth boys with a strong boot game and cape?  Is Abenius a mainstay in your parties front line?  Do you actually need a strong Mage and have not fully invested in one yet, and this banner is running?  Then Madam is the man for you!  However if none of that applies... then you should give this banner a pass in my opinion. Madam on his own is not strong enough to be a recommended pull, but if your party comp synergies with his unique skill you should definitely consider pulling for this fine gentleman.									
 
 ## Duplicate Usage
 
