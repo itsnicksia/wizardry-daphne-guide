@@ -14,7 +14,7 @@ function addFilterDecorator(table) {
 
   const filterRow = document.createElement('tr');
   const filterContainer = createFilterInputContainer(numCols);
-  const filterInput = createFilterInput()
+  const filterInput = createFilterInput();
 
   filterRow.appendChild(filterContainer);
   filterContainer.appendChild(filterInput);
@@ -59,13 +59,19 @@ function createFilterInput() {
 }
 
 function updateRowVisibility(query, rows) {
+  // Ensure query is trimmed and case-insensitive
+  const regex = new RegExp(`\\b${query}\\b`, 'i'); // Matches whole words only, case-insensitive
+
   rows.forEach(row => {
     const cells = row.cells;
     let hasMatchingCell = false;
-    for (let cellIndex = 0; cellIndex < row.cells.length; cellIndex++) {
 
+    for (let cellIndex = 0; cellIndex < cells.length; cellIndex++) {
       const cell = cells[cellIndex];
-      if (cell.innerText.toLowerCase().indexOf(query) === 0) {
+      const textContent = cell.textContent;
+
+      // Test the regex pattern on the cell text content
+      if (regex.test(textContent)) {
         hasMatchingCell = true;
         break;
       }
