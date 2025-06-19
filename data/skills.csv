@@ -127,6 +127,7 @@ LACONES,damage,Launches countless orbs of magic power that deal moderate untyped
 LATUMOFIS,support,Words of prayer that cure 1 ally of Poison.,"Resistance up, Critical Poison recovery, and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects, and recovery amount.",6,Priest
 LAZELOS,damage,Generates a powerful mass of hatred that deals moderate dark spell damage to all enemies.,Efficacy increased based on skill level.,40,Mage,Mage-specific
 Light-Kin Blessing,passive,Reduces light type damage for elves in the same row.
+Light Shaft's Radiance,passive,"Increases damage to enemies for user and an ally in front of or behind them if the ally is light-type, with damage to dark-type enemies increased even further."
 Light Type Thaumaturgy,passive,Reduces light-type damage to self.,Damage decreased further based on skill level.,55,Mage
 Lightning Celerity,passive,Increases Evasion when equipped with a one-handed sword.,Attack Power increased further based on skill level.
 Line Cover,active,Chance to bear single-target attacks in place of allies in 1 ally row for 1 turn.,Defense Power Up incrementally added based on skill level.,20,Knight,Knight-specific
@@ -251,6 +252,7 @@ Trap Disarm Master's Resolve,passive,Low chance of curing own Trapophobia when a
 Treasure Trap Detection Skill,passive,Continuously increases Trap Detection rate.,Trap detection rate increased further based on skill level.,0,Thief,,Bakesh
 Treasure Trap Disarm Skill,passive,Continuously increases Disarm Trap.,Disarm Trap increased further based on skill level.,3,Thief,,Jean
 True Words of Fire,damage,"Deals minor fire spell damage to 1 enemy. Chance to decrease the enemy's Accuracy and Defense Power for 3 turns. Damage increased based on the mage or Tall Mage's class level. Damage reduced, and Accuracy and Defense Power decrease chance and number of turns are reduced if learned by someone other than Berkanan.","Chance increased further, Accuracy/Defense Power decreased further, and number of continuous turns increased based on skill level.",,,,Berkanan
+Twilight of the Long-Lived Race,passive,"Continuously increases each stat, with MP and Resistance increased even further.",MP and Resistance increased further based on skill level.
 TZALIK,damage,Deals major untyped spell damage to 1 enemy. Greatly bypasses Magic Defense with a chance to inflict Paralysis on target. Damage and Paralysis rate are reduced if learned by someone other than Iarumas.,Efficacy and Paralysis probability increased further based on skill level.,,,,Iarumas
 Unstoppable Curiosity,passive,Continuously increases each stat. Detect and Fear Tolerance increased further.,Detect and Fear Tolerance increased further based on skill level.
 Untyped Thaumaturgy,passive,Reduces untyped damage to self.,Damage decreased further based on skill level.,55,Mage
