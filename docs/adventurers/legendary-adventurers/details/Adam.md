@@ -78,13 +78,21 @@
 
 ??? info "Frobro's Analysis"
 
-    Seriously, how is this guy evil-aligned again? Whatever, I’ll try to make this one short, Shelirionach took his job!
+    === "Standard"
 
-    Adam is positioned as this sorta damage-focused Mage compared to others. As a light element mage, his spells tend to hit most things for neutral, but in the rare occasion that it is resisted, his Wisdom of Truth overrides it. Because his Knowledge of the Millennial Lord passive gives him a cost reduction in the narrow band of 3-10MP cost spells, he is allowed to use single-target and row-target damaging spells a little more carelessly than other mages even when the type matchups are out of his favor. With the stacked MP savings, he is also slightly more enabled to use his “delete all” button, Secrets of Laforos which he has just ‘cuz.
+        Seriously, how is this guy evil-aligned again? Whatever, I’ll try to make this one short, Shelirionach took his job!
 
-    To offset his fragility as a elf mage he has an RNG-based damage mitigation skill baked into his inherit skill. This means he can feel that much tankier than other mages when using a 2-hand staff instead of a 1-hander and shield. Adam also has a strong discipline focus of Magic Power and Action Speed. Hit harder and faster, no complaints.
+        Adam is positioned as this sorta damage-focused Mage compared to others. As a light element mage, his spells tend to hit most things for neutral, but in the rare occasion that it is resisted, his Wisdom of Truth overrides it. Because his Knowledge of the Millennial Lord passive gives him a cost reduction in the narrow band of 3-10MP cost spells, he is allowed to use single-target and row-target damaging spells a little more carelessly than other mages even when the type matchups are out of his favor. With the stacked MP savings, he is also slightly more enabled to use his “delete all” button, Secrets of Laforos which he has just ‘cuz.
 
-    Now, do you know who else is damage spell spamming, RNG damage mitigating, Mag Power + ASPD focused demon from hell? It doesn’t help that she uses Adam’s Wisdom of truth better than he does. Adam could just cast other elemental spells when needed, but Shelirionach’s Slumbering Darkness is always dark. In the end, there are worse things to be than the 2nd best at a particular role.
+        To offset his fragility as a elf mage he has an RNG-based damage mitigation skill baked into his inherit skill. This means he can feel that much tankier than other mages when using a 2-hand staff instead of a 1-hander and shield. Adam also has a strong discipline focus of Magic Power and Action Speed. Hit harder and faster, no complaints.
+
+        Now, do you know who else is damage spell spamming, RNG damage mitigating, Mag Power + ASPD focused demon from hell? It doesn’t help that she uses Adam’s Wisdom of truth better than he does. Adam could just cast other elemental spells when needed, but Shelirionach’s Slumbering Darkness is always dark. In the end, there are worse things to be than the 2nd best at a particular role.
+
+    === "Millennial Lord"
+
+        I figured Legendary alts would be straight upgrades after Wandering Princess Lanavaille, but this is a sidegrade at best and a downgrade if you already have high discipline on Adam. This new discipline focus is worse; MP & ASPD would have suited him better if they wanted to go for something that’s good for both Priest & Mage. The column buff is cool, but it really only has 3 good targets for it right now and light in particular feels like the worst elemental type to be.
+
+        If you want to switch MC to light and pretend you and your husbando are righting wrongs, holding hands and spreading light throughout the world of Wizardy; this is the unit for you! Otherwise, a mage who isn’t Shelirionach? SKIP!
 
 ??? info "Karkarov's Analysis"
 
