@@ -56,7 +56,7 @@
 
     Shelirionach's kit is extremely interesting and nuanced. While it won't help a ton during the course of a boss fight, the MP restore can be quite impactful while progressing through a new map. In addition, her race, element, and Discipline are all very favorable towards her role as a damage dealing mage. Also note that while she does have access to `LAZELOS`, Sheli is the first legendary mage that does not have a `Secret Art` spell, so you won't get a boosted `LAZELOS`. I certainly don't consider her a must-pull, but I do personally think she has the strongest kit of any damage-oriented mage released thus far. If you have any spare Iarumas' around, Shelirionach makes an excellent recipient of a `TZALIK` inherit.
 
-??? info "Frobro's Review"
+??? info "Frobro's Analysis"
 
     I will not mince words here; nor will I exaggerate. Shelirionach is the strongest mage in the game by a large margin. Shelirionach would occupy an S tier by herself if a tier list were constructed for units by class. Fundamentally, she plays an entirely different game than the rest of the field, and the game she plays is much more effective than what other mages have access to. Shelirionach was created by scientists in a lab to be as optimized as possible.
 
