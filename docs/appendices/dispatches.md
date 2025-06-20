@@ -42,7 +42,7 @@
 | Dispatch Name                        | Reward         | Stars | Level | Duration | Dispatch Conditions | Availability                                         |
 | ------------------------------------ | -------------- | ----- | ----- | -------- | ------------------- | ---------------------------------------------------- |
 | Den of Earth B1F Exploration         | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once during event period |
-| Den of Fire B1F Exploration          | Ore            |       |       |          |                     | Must complete Fire Den B1F once during event period  |
-| Den of Wind B1F Exploration          | Ore            |       |       |          |                     | Must complete Wind Den B1F once during event period  |
-| Den of Light B1F Exploration         | Ore            |       |       |          |                     | Must complete Light Den B1F once during event period |
+| Den of Fire B1F Exploration          | Ore            | 2     | 28    | 12 hours | 6 people            | Must complete Fire Den B1F once during event period  |
+| Den of Wind B1F Exploration          | Ore            | 3     | 36    | 16 hours | 6 people            | Must complete Wind Den B1F once during event period  |
+| Den of Light B1F Exploration         | Ore            | 4     | 50    | 16 hours | 6 people            | Must complete Light Den B1F once during event period |
 | Securing the Cave of Malice Entrance | Event Currency | 3     | 30    | 20 hours | 6 people            | Complete the Cave of Malice Event                    |
