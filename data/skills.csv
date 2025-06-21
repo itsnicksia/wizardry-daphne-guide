@@ -258,7 +258,7 @@ Unstoppable Curiosity,passive,Continuously increases each stat. Detect and Fear 
 Untyped Thaumaturgy,passive,Reduces untyped damage to self.,Damage decreased further based on skill level.,55,Mage
 Unwavering Faith,passive,Continuously increases each stat. Divine Power and Critical Evasion increased further.,Divine Power and Critical Tolerance increased further based on skill level.
 Unyielding Will to Fight,passive,Chance to cheat death with 1 HP when taking fatal damage (affected by luck).,Probability increased based on skill level.,35,Knight,,Eulalia
-Valiant Righteousness,passive,<span style="color: yellow">Own Action Speed increased based on the number of one-handed swords and light armor equipped to self.</span> Increases damage to enemies for everyone in a row if it has only good or neutral allies.
+Valiant Righteousness,passive,Own Action Speed increased based on the number of one-handed swords and light armor equipped to self. Increases damage to enemies for everyone in a row if it has only good or neutral allies.
 Voice Theft,active,"Marks an opponent, sealing away their voice, with a high chance of Spell-Binding 1 enemy for 2 turns.",Probability incrementally increased further based on skill level. More turns added.,22,Ninja
 Warrior Princess of Resolution and Love,passive,Continuously increases each stat. Defense Power and Confusion/Charm Tolerance increased further.,Defense Power and Confusion/Charm Tolerance increased further based on skill level.
 Warrior's Battle Cry,active,Increases own Attack Power and decreases Defense Power for 4 turns.,Attack Power increased further based on skill level.,8,Fighter,,Chloe
