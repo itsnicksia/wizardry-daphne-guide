@@ -19,7 +19,7 @@ def define_env(env):
 
         results = pd_read_csv(f'./data/{file}')
         if filter_column != None and not filter_values:
-            results = results.query(f'`{filter_column}` in "{filter_values}"')
+            results = results.query(f'`{filter_column}` in {filter_values}')
         results = results.fillna('')
 
         return results[return_columns]
