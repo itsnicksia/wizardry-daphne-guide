@@ -18,7 +18,7 @@ def define_env(env):
     def populate_quicklist(file,return_columns,filter_column=None,filter_values=[]):
 
         results = pd_read_csv(f'./data/{file}')
-        if filter_column != None and not filter_values:
+        if filter_column != None and filter_values:
             results = results.query(f'`{filter_column}` in {filter_values}')
         results = results.fillna('')
 
