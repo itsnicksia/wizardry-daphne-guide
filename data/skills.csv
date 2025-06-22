@@ -2,7 +2,7 @@ Name,Type,Effects,Detail,Level,Class,Restriction,Source,Potential Source
 ABIT,support,Words of prayer that remove 1 debuff from 1 ally row.,Resistance up incrementally added based on skill level and increased number of debuffs removed. Increased Resistance and area of Effects.,40,Priest,,,Daniel
 Adept's Rule of Thumb,Discipline,"Continuously increases each stat, with Detect and Disarm Trap increased even further.",Detect and Disarm Trap increased further based on skill level.,,,,Aldric,
 Advice of the Skull,Non-Inheritable,Increases damage against undead and decreases damage from undead.,,,,,Yekaterina,
-Agent of Heresy,Non-Inheritable,Increases damage to enemies for everyone in a row if it has only evil or neutral allies.,,,,,Alice,
+Agent of Heresy,Non-Inheritable,Increases damage to enemies for everyone in the user's row if it has only evil or neutral allies.,,,,,Alice,
 Air Formation,Non-Inheritable,Increases damage to earth type enemies for user and adjacent air type allies if there are at least 2 air type allies adjacent to the user.,,,,,Jarmil,
 Air-Kin Blessing,Non-Inheritable,Reduces air type damage for beastfolk in the same row.,,,,,Amelia,
 Air Type Thaumaturgy,Non-Inheritable,Reduces air-type damage to self.,Damage decreased further based on skill level.,55,Mage,,,
@@ -235,7 +235,7 @@ Sneak Attack,active,Major physical attack on 1 enemy. Bypasses Defense Power and
 Soaring Beast Knight,Non-Inheritable,Increases Evasion when equipped with a two-handed spear and light armor.,,,,,Savia,
 Solid Devotion,Discipline,"Continuously increases each stat, Magic Defense and Stun Tolerance increased further.",Magic Defense and Stun Tolerance increased further based on skill level.,,,,Eldorado,
 Stealth,Inheritable,Continuously increases Initiative rate.,Initiative rate increased further based on skill level.,15,Thief,,Amelia,
-Stirring Righteousness,Non-Inheritable,Increases damage to enemies for everyone in a row if it has only good or neutral allies.,,,,,Lanavaille,
+Stirring Righteousness,Non-Inheritable,Increases damage to enemies for everyone in the user's row if it has only good or neutral allies.,,,,,Lanavaille,
 Strong and Gentle Priest,Discipline,"Continuously increases each stat, Defense Power and Resistance increased further.",Defense Power and Resistance increased further based on skill level.,,,,Daniel,
 Strongest in the Village,Discipline,"Continuously increases each stat, Attack Power and Defense Power increased further.",Attack Power and Defense Power increased further based on skill level.,,,,Benjamin,
 Strongly Suspicious,Discipline,"Continuously increases each stat, Magic Defense and Action Speed increased further.",Magic Defense and Action Speed increased further based on skill level.,,,,Milana,
@@ -258,7 +258,7 @@ Unstoppable Curiosity,Discipline,Continuously increases each stat. Detect and Fe
 Untyped Thaumaturgy,Non-Inheritable,Reduces untyped damage to self.,Damage decreased further based on skill level.,55,Mage,,,
 Unwavering Faith,Discipline,Continuously increases each stat. Divine Power and Critical Evasion increased further.,Divine Power and Critical Tolerance increased further based on skill level.,,,,Galina,
 Unyielding Will to Fight,Inheritable,Chance to cheat death with 1 HP when taking fatal damage (affected by luck).,Probability increased based on skill level.,35,Knight,,,Eulalia
-Valiant Righteousness,Non-Inheritable,"<span style=""color: yellow"">Own Action Speed increased based on the number of one-handed swords and light armor equipped to self.</span> Increases damage to enemies for everyone in a row if it has only good or neutral allies.",,,,,Lanavaille,
+Valiant Righteousness,Non-Inheritable,"<span style=""color: yellow"">Own Action Speed increased based on the number of one-handed swords and light armor equipped to self.</span> Increases damage to enemies for everyone in the user's row if it has only good or neutral allies.",,,,,Lanavaille,
 Voice Theft,active,"Marks an opponent, sealing away their voice, with a high chance of Spell-Binding 1 enemy for 2 turns.",Probability incrementally increased further based on skill level. More turns added.,22,Ninja,,,
 Warrior Princess of Resolution and Love,Discipline,Continuously increases each stat. Defense Power and Confusion/Charm Tolerance increased further.,Defense Power and Confusion/Charm Tolerance increased further based on skill level.,,,,Lanavaille,
 Warrior's Battle Cry,active,Increases own Attack Power and decreases Defense Power for 4 turns.,Attack Power increased further based on skill level.,8,Fighter,,Chloe,
