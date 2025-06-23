@@ -15,11 +15,11 @@ def define_env(env):
         return f"{effect} {details}"
     
     @env.macro
-    def populate_quicklist(file,return_columns,filter_column=None,filter_value=None):
+    def populate_quicklist(file,return_columns,filter_column=None,filter_values=[]):
 
         results = pd_read_csv(f'./data/{file}')
-        if filter_column != None and filter_value != None:
-            results = results.query(f'`{filter_column}` == "{filter_value}"')
+        if filter_column != None and filter_values:
+            results = results.query(f'`{filter_column}` in {filter_values}')
         results = results.fillna('')
 
         return results[return_columns]
