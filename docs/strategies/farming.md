@@ -176,7 +176,21 @@ but this requires stacking Magic Power up to around 200 for each.
 ### Zone 10 Shinobi Junk + General Junk Farming
 
 !!! map
-    ![](img/zone-10-farm.png)
+    ![](img/zone-10-farm-full.png)
+
+    ??? note "Strategy"
+
+        1. Obtain the Triumphant Return wheel step for Abyss 3 and unlock the Greater Harken on Zone 10
+        2. Follow the green and red arrows
+            - Green arrows can be be traversed with autopathing. Due to how the sentries reset positions after each encounter, the autopathing avoids the sentries as long as you move immediately after claiming a chest (or finishing an encounter if no chest drops)
+            - Red arrows, wait for the sentry to pass then autopath
+        3. Return via the Harken on Zone 9
+
+    ??? note "Alternative Start"
+        This same path can roughly be followed prior to obtaining the Triumphant Return step, however it is a bit more manual as it involves wheeling to the Zone 10 arrival, manually moving down past the sentries, then autopathing back up after clearing the bottom three encounters. It takes longer this way, but can be useful for folks that want to start this farm prior to saving the Duke.
+
+!!! map
+    ![](img/zone-10-farm-partial.png)
 
     ??? note "Strategy"
 

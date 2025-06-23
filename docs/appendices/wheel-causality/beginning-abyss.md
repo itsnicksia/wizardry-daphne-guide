@@ -50,6 +50,7 @@
 * Didn't rescue the knights
 * Vernant died
 * Elmon died
+* The Skirmishers died
 * The Craftsmen died
 
 ## Second Major Harken

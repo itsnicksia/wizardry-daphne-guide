@@ -14,17 +14,28 @@ function addFilterDecorator(table) {
 
   const filterRow = document.createElement('tr');
   const filterContainer = createFilterInputContainer(numCols);
-  const filterInput = createFilterInput()
+  const filterInput = createFilterInput();
 
   filterRow.appendChild(filterContainer);
   filterContainer.appendChild(filterInput);
 
   thead.insertBefore(filterRow, thead.firstElementChild);
 
-  filterInput.addEventListener('input', function() {
-    const query = this.value.trim().toLowerCase();
-    updateRowVisibility(query, rows)
-  })
+  // Debounced version of updateRowVisibility
+  const debouncedFilter = debounce(function () {
+    const query = filterInput.value.trim().toLowerCase();
+    updateRowVisibility(query, rows);
+  }, 300); // 300ms debounce delay
+
+  filterInput.addEventListener('input', debouncedFilter);
+}
+
+function debounce(fn, delay) {
+  let timeoutId;
+  return function (...args) {
+    clearTimeout(timeoutId);
+    timeoutId = setTimeout(() => fn.apply(this, args), delay);
+  };
 }
 
 function createFilterInputContainer(colSpan) {
@@ -48,13 +59,19 @@ function createFilterInput() {
 }
 
 function updateRowVisibility(query, rows) {
+  // Ensure query is trimmed and case-insensitive
+  const regex = new RegExp(`(?<![\\w-])${query}(?![\\w-])`, 'i'); // Matches whole words only, case-insensitive
+
   rows.forEach(row => {
     const cells = row.cells;
     let hasMatchingCell = false;
-    for (let cellIndex = 0; cellIndex < row.cells.length; cellIndex++) {
 
+    for (let cellIndex = 0; cellIndex < cells.length; cellIndex++) {
       const cell = cells[cellIndex];
-      if (cell.innerText.toLowerCase().indexOf(query) === 0) {
+      const textContent = cell.textContent;
+
+      // Test the regex pattern on the cell text content
+      if (regex.test(textContent)) {
         hasMatchingCell = true;
         break;
       }
