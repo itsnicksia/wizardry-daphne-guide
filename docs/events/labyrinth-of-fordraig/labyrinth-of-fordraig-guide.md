@@ -78,7 +78,7 @@ The Second Run AKA Disarm the Traps Route AKA True Ending Route
 ![](img/labyrinth-of-fordraig-event-shop-3.png)
 
 #### Note about Event Shop
-1. You can only redeem the gold exchange one at a time
+1. You can only redeem the gold exchange 99 (9900 gold) at a time
 2. The Featherbronze Gauntlet Exchange gives you a Random Grade And Star Level
 3. Priortize the Skill EXP books 25exp per book sounds very little but it adds up over time and the only way to get these as F2P is through events.
 
