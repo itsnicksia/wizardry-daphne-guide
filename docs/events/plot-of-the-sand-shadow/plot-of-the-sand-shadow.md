@@ -18,11 +18,12 @@ You need to reach a certain point in the Third Abyss, Impregnable Fortress and v
 7. You will need to commit to an optimal route in order to reach the boss room in time. See path listed. You must ambush the ninja on the way to the boss room.
 8. You will obtain an item that will be used for the Ninja Trial after this request is turned in. After turning the request, leave the adventurer's guild and return. Arna will give you some mail that tells you to head the Ninja Trial.
 
-## Map:
+## Maps:
 
-![](img/sand-shadow-cave-b1f.jpg)
-![](img/sand-shadow-cave-b2f.jpg)
-![](img/sand-shadow-cave-b3f.jpg)
+??? note "Maps:"
+    ![](img/sand-shadow-cave-b1f.jpg)
+    ![](img/sand-shadow-cave-b2f.jpg)
+    ![](img/sand-shadow-cave-b3f.jpg)
 
 ## Route for Correct Ending:
 
@@ -42,10 +43,11 @@ The 1st part is just a standard walk through a dungeon with some sentries. There
 
 The 2nd part requires you to select only 1 adventurer to bring with you and walk through another dungeon with significantly easier enemies (singlar ninja). Upon reaching the end you MUST sacrifice the adventurer you bring with you (You will have to fight them. Select stand your ground.) They will be PERMANENTLY deleted if you confirm to do so. You will be warned multiple times before fully committing, so feel free to back out of this and bring a more disposable adventurer if possible. 
 
-## Map:
+## Maps:
 
-![](img/trial-of-heat-haze-b1f.jpg)
-![](img/trial-of-heat-haze-b2f.jpg)
+??? note "Maps:"
+    ![](img/trial-of-heat-haze-b1f.jpg)
+    ![](img/trial-of-heat-haze-b2f.jpg)
 
 ## Reward:
 
