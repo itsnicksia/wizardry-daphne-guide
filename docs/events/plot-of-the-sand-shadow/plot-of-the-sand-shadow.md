@@ -17,6 +17,15 @@ You need to reach a certain point in the Third Abyss, Impregnable Fortress and v
 7. You will need to commit to an optimal route in order to reach the boss room in time. See path listed. You must ambush the ninja on the way to the boss room.
 8. You will obtain an item that will be used for the Ninja Trial after this request is turned in. After turning the request, leave the adventurer's guild and return. Arna will give you some mail that tells you to head the Ninja Trial.
 
+## Boss Fight Info:
+
+- There are 5 ninja, 3 in the front, 2 in the back.
+- The ninja in the middle will cast Kantios. The red ninjas on the sides generally armor pierce or attempt to instant-kill. The blue ninjas in the back generally only attempt to instant-kill.
+- All the ninjas are susceptible to confusion.
+- The ninjas all have several thousand HP.
+- The red ninjas in the front will cast concealment when reaching a certain amount of remaining HP.
+- It's advised to attempt this fight after restoring fortitude, as the ninjas are very accurate in instant-killing.
+
 ## Maps:
 
 ??? note "Maps:"
