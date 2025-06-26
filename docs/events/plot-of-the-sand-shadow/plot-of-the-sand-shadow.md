@@ -4,7 +4,7 @@
 
 ## How to participate:
 
-You need to reach a certain point in the Third Abyss, Impregnable Fortress and view the Prologue story of the quest.
+- Complete Abyss 3 up to the Cursed Wheel Point "Hidden Passage"
 
 ## Guide for 1st Part:
 
@@ -20,11 +20,11 @@ You need to reach a certain point in the Third Abyss, Impregnable Fortress and v
 ## Boss Fight Info:
 
 - There are 5 ninja, 3 in the front, 2 in the back.
-- The ninja in the middle will cast Kantios. The red ninjas on the sides generally armor pierce or attempt to instant-kill. The blue ninjas in the back generally only attempt to instant-kill.
+- The ninja in the middle will cast Kantios. The red ninjas on the sides generally armor pierce or attempt to crit (Sever Jugular). The blue ninjas in the back generally only attempt to instant-kill.
 - All the ninjas are susceptible to confusion.
 - The ninjas all have several thousand HP.
 - The red ninjas in the front will cast concealment when reaching a certain amount of remaining HP, they can also cast wild throw immediately after being hit.
-- It's advised to attempt this fight after restoring fortitude, as the ninjas are very accurate in instant-killing.
+- It's advised to attempt this fight after restoring fortitude, as the ninjas are very accurate in critting.
 
 ## Maps:
 
