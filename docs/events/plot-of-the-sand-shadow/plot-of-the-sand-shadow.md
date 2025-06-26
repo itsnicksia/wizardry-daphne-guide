@@ -33,3 +33,16 @@ Red -> Blue -> Green
 ![](img/route3.png)
 
 ## Guide for 2nd Part:
+
+!!! Danger "There is a part in this where you will need to permanently delete an adventurer."
+
+There are two parts for the Trial of the Heat Haze. The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs and aren't very strong. The 2nd part requires you to select only 1 adventurer to bring with you and walk through another dungeon with significantly easier enemies (singlar ninja). Upon reaching the end you MUST sacrifice the adventurer you bring with you. They will be PERMANENTLY deleted if you confirm to do so. You will be warned multiple times before fully committing, so feel free to back out of this and bring a more disposable adventurer if possible.
+
+## Map:
+
+![](img/trial-of-heat-haze-b1f.jpg)
+![](img/trial-of-heat-haze-b2f.jpg)
+
+## Reward:
+
+![](img/ninja-guiding-light.png)
