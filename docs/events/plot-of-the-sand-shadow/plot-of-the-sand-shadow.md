@@ -23,7 +23,7 @@ You need to reach a certain point in the Third Abyss, Impregnable Fortress and v
 - The ninja in the middle will cast Kantios. The red ninjas on the sides generally armor pierce or attempt to instant-kill. The blue ninjas in the back generally only attempt to instant-kill.
 - All the ninjas are susceptible to confusion.
 - The ninjas all have several thousand HP.
-- The red ninjas in the front will cast concealment when reaching a certain amount of remaining HP.
+- The red ninjas in the front will cast concealment when reaching a certain amount of remaining HP, they can also cast wild throw immediately after being hit.
 - It's advised to attempt this fight after restoring fortitude, as the ninjas are very accurate in instant-killing.
 
 ## Maps:
