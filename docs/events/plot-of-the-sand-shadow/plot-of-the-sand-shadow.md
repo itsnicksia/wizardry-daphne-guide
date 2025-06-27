@@ -4,7 +4,8 @@
 
 ## How to participate:
 
-- Complete Abyss 3 up to the Cursed Wheel Point "Hidden Passage"
+- Part 1: Complete Abyss 3 up to the Cursed Wheel Point "Hidden Passage"
+- Part 2: Achieve any ending for Abyss 3
 
 ## Guide for 1st Part:
 
