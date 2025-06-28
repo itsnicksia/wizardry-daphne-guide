@@ -18,7 +18,7 @@
 7. You will need to commit to an optimal route in order to reach the boss room in time. See path listed. You must ambush the ninja on the way to the boss room.
 8. You will obtain an item that will be used for the Ninja Trial after this request is turned in. After turning the request, leave the adventurer's guild and return. Arna will give you some mail that tells you to head the Ninja Trial.
 
-## Boss Fight Info:
+### Boss Fight Info:
 
 - There are 5 ninja, 3 in the front, 2 in the back.
 - The ninja in the middle will cast Kantios. The red ninjas on the sides generally armor pierce or attempt to crit (Sever Jugular). The blue ninjas in the back generally only attempt to instant-kill.
@@ -27,14 +27,14 @@
 - The red ninjas in the front will cast concealment when reaching a certain amount of remaining HP, they can also cast wild throw immediately after being hit.
 - It's advised to attempt this fight after restoring fortitude, as the ninjas are very accurate in critting.
 
-## Maps:
+### Maps:
 
 ??? note "Maps:"
     ![](img/sand-shadow-cave-b1f.jpg)
     ![](img/sand-shadow-cave-b2f.jpg)
     ![](img/sand-shadow-cave-b3f.jpg)
 
-## Route for Correct Ending:
+### Route for Correct Ending:
 
 Red -> Blue -> Green
 
@@ -44,22 +44,20 @@ Red -> Blue -> Green
 
 ## Guide for 2nd Part:
 
-!!! Danger "There is a part in this where you will need to permanently delete an adventurer."
-
-!!! note "It is unclear, but there is a requirement for the Trial of the Heat Haze to appear after obtaining the key item. It may require defeating the Gatekeeper of Abyss 3 at least once."
+!!! Danger "There is a part in this where you will need to permanently delete an adventurer if your main character isn't EVIL alignment."
 
 There are two parts for the Trial of the Heat Haze. 
 
-The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs and aren't very strong. 
+The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs and aren't very strong. If you are Evil Alignment, you will receive the guiding light at this point. However, if you are not, there will be a 2nd part to the trial.
 
 The 2nd part requires you to select only 1 adventurer to bring with you and walk through another dungeon with significantly easier enemies (singlar ninja). Upon reaching the end you MUST sacrifice the adventurer you bring with you (You will have to fight them. Select stand your ground.) They will be PERMANENTLY deleted if you confirm to do so. You will be warned multiple times before fully committing, so feel free to back out of this and bring a more disposable adventurer if possible. 
 
-## Maps:
+### Maps:
 
 ??? note "Maps:"
     ![](img/trial-of-heat-haze-b1f.jpg)
     ![](img/trial-of-heat-haze-b2f.jpg)
 
-## Reward:
+### Reward:
 
 ![](img/ninja-guiding-light.png)
