@@ -48,6 +48,9 @@ plugins:
   - awesome-nav
   - macros
   - table-reader
+  - redirects:
+      redirect_maps:
+        'appendices/respawning-bone-locations.md': 'tools/tracker.md'
 extra_css:
   - stylesheets/table.css
   - stylesheets/tooltip.css

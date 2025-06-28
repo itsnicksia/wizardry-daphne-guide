@@ -131,7 +131,7 @@
 - After you defeat either of the Greater Warped Ones, return to Rickard shop and Ugo will be there.
   - It is possible to wheel forward to after defeating the Greater Warped Ones (Return to the Capital). You do not need to manually fight them. 
 
-!!! note "To farm, Cursed Wheel to Rickert's Shop, go up Lower Deck 2 and back down, and repeat the request. In addition, you only need to find him once at the beginning of every farming run and buy something. Any subsequent runs will have him already be at Rickert's shop location once Cursed Wheeling to Return to the Capital"
+!!! note "To farm, Cursed Wheel to Rickert's Shop, go up Lower Deck 2 and back down, and repeat the request. In addition, you only need to find him once at the beginning of every farming run and buy something. Any subsequent runs will have him already be at Rickert's shop location once Cursed Wheeling to Return to the Capital."
 
 ## Arena Round 4
 
