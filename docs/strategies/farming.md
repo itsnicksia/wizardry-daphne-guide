@@ -254,6 +254,6 @@ but this requires stacking Magic Power up to around 200 for each.
         3. Alternatively if you do not want to lose any fortitude, consider staying only on B1F using the route below. Simply auto-path to the red star and then the blue star, and then autopath out of the dungeon and repeat.
 
 !!! map
-    1[](img/b1f-ninja-farm.png)
+    ![](img/b1f-ninja-farm.png)
 
     
