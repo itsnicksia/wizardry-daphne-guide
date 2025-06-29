@@ -70,11 +70,4 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
     ![](img/farming/merc.png)
 
 === "SocialX's Route"
-    === "Sand Shadow Cave B1F"
-        ![](img/farming/socialx1.jpg)
-
-    === "Sand Shadow Cave B2F"
-        ![](img/farming/socialx2.jpg)
-
-    === "Sand Shadow Cave B3F"
-        ![](img/farming/socialx3.jpg)
+    ![](img/farming/social-farm.jpg)
