@@ -241,3 +241,19 @@ but this requires stacking Magic Power up to around 200 for each.
         3. Complete the request again while grabbing all the chests (The Gorgons only respawn on request reset and are guaranteed chest drops).
 
         !!! note "If you're not strong enough to fight the Gorgons easily, feel free to just go in and out of the map to collect chests with minimal battles, as chests respawn when you leave the map"
+
+### Ninja Stuff Farm (Sand Shadow Cave Farm)
+
+!!! map
+    ![](img/merc.png)
+
+    ??? note "Strategy"
+
+        1. Complete Paulownia Box Recovery request from the Royal Capital in its entirety to reveal the whole map and familiarize yourself with the route.
+        2. You do not need to Cursed Wheel to reset the request. The route shown requires moving through one trap on the way back. Blue -> Green -> Red. Purple indicates possible mob encounters.
+        3. Alternatively if you do not want to lose any fortitude, consider staying only on B1F using the route below. Simply auto-path to the red star and then the blue star, and then autopath out of the dungeon and repeat.
+
+!!! map
+    1[](img/b1f-ninja-farm.png)
+
+    
