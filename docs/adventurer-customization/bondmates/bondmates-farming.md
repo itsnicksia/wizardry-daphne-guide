@@ -12,9 +12,11 @@ The number of times you need to get a bond to reach a particular bond level:
 |  4    |  3              | 7                     |
 |  5    |  4              | 11                    |
 
-!!! note "Most bondmates that are dismissed can be reacquired, and start levelling again at Level 1."
+!!! note "Reacquiring a bondmate that has already reached level 5 will instead result in being given an Amnesia Incense, used for severing all bondmates from one character so that they can be bonded to someone else.  One Amnesia Incense can be farmed weekly from each bondmate by following the same procedure as for obtaining the bondmates."
 
-!!! warning "Bondmates that are permanently capped at level 1 cannot be reacquired after being dismissed. Further attempts to acquire the bond will just produce the 'will be missed' message."
+!!! note "Certain bondmates are permanently capped at level 1 and further attempts to acquire the bond will just produce a 'will be missed' message."
+
+!!! note "As of the June 2025 update, bondmates obtained through story progression can no longer be 'dismissed'."
 
 ## Beginning Abyss Bondmates
 

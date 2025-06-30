@@ -69,7 +69,7 @@
 
 - After saving him, head to the Tavern in Royal Capital. He will yap to you and become a bondmate.
 
-!!! warning "Sir Maurice is permanently at level 1 and if dismissed cannot be reacquired."
+!!! note "Sir Maurice is permanently at level 1."
 
 ## Warped One Vanquished
 
@@ -210,7 +210,7 @@
 ??? map "Location"
     ![](img/image_60.png)
 
-!!! warning "Gary the Brave is permanently at level 1 and if dismissed cannot be reacquired."
+!!! note "Gary the Brave is permanently at level 1."
 
 ### Sir Jack, Undead Smiter
 
@@ -236,7 +236,7 @@
 
 !!! note "To farm reward items, Cursed Wheel to Warped Scene and complete the request again."
 
-!!! warning "Sophie as a bondmate is permanently at level 1 and if dismissed cannot be reacquired.""
+!!! warning "Sophie as a bondmate is permanently at level 1."
 
 ## The King’s Rescue
 
@@ -275,7 +275,7 @@
 - Can be randomly found in the Beginning Abyss (does not show on the map).
 - Feed it translucent stones or azure ore. The higher the value of ore given, the faster it will become a bondmate.
 
-!!! warning "Ghreen Jelly is permanently at level 1 and if dismissed cannot be reacquired."
+!!! note "Ghreen Jelly is permanently at level 1."
 
 ??? info "Appearance"
     ![](img/image_69.png)
