@@ -176,7 +176,7 @@ Your stats page power is calculated through the following formula, which factors
     * `Priest Weapon Mastery` falls under this category and is already calculated and displayed for you in the parenthesized value. This calculation adds `PIE * 0.2` to Attack Power
 * `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `Strength+` and `I.Q. Conversion`. Note that due to these factoring in the class multiplier, these are also subject to the `SpecialCeiling` rounding.
     * `Strength+` - see table below.
-    * `I.Q. Conversion` appears to be around `I.Q. * 0.2`.
+    * `I.Q. Conversion` adds `I.Q. * 0.2` rounded down.
     * `Nimble Strike` appears to be `DEX * 0.1` rounded down.
 
 ### Strength+
