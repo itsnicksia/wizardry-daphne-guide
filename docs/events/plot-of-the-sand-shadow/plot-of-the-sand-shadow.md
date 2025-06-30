@@ -61,3 +61,13 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 ### Reward:
 
 ![](img/ninja-guiding-light.png)
+
+### Farming Routes
+
+
+
+=== "Merc's Route"
+    ![](img/farming/merc.png)
+
+=== "SocialX's Route"
+    ![](img/farming/social-farm.jpg)
