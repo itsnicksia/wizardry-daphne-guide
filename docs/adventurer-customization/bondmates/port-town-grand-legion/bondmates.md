@@ -169,7 +169,7 @@
 - After witnessing his death to Melgina on the 1st run, warn him of his impending demise the second time so that he lives.  
 - Find him in the same spot he was in on the boat and speak to him after defeating Melgina and successfully completing your objective.
 
-!!! warning "Gigi is permanently at lvl 1."
+!!! note "Gigi is permanently at lvl 1."
 
 ### Melgina
 
