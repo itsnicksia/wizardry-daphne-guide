@@ -32,7 +32,7 @@
 
 - Complete the [Blackmail Resolution](../../../abyss-guides/3-guarda-fortress/requests.md#blackmail-resolution) request.
 
-!!! warning "Guardian Knight Dalian is permanently lvl 1."
+!!! note "Guardian Knight Dalian is permanently lvl 1."
 
 ## Infiltrating the Fortress
 
@@ -170,7 +170,7 @@
 8. Kill the Gatekeeper and return to the Workman to receive Mysterious Flower.
 9. Head to Zone 4 and give the Mysterious Flower to Elequon and receive him as a Bondmate.
 
-!!! warning "Concerned Brother Elequon is permanently lvl 1."
+!!! note "Concerned Brother Elequon is permanently lvl 1."
 
 ### Old Mage's Lingering Fixation
 
