@@ -175,7 +175,7 @@
     | Name                                                            | Unique Bone Name                                  | Original Release Date | Alternate Form Release Date |
     | --------------------------------------------------------------- | ------------------------------------------------- |:---------------------:|:---------------------------:|
     | [Abenius](./legendary-adventurers/details/Abenius.md)           | Fighter Called the Glintblade                     |       2024-12-06      |                             |
-    | [Adam](./legendary-adventurers/details/Adam.md)                 | Mage Called the Millenial Lord                    |       2024-10-15      |                             |
+    | [Adam](./legendary-adventurers/details/Adam.md)                 | Mage Called the Millenial Lord                    |       2024-10-15      |        2025-6-18            |
     | [Aldric](./legendary-adventurers/details/Aldric.md)             | Crow Handler Who Took Revenge on a Cult           |       2025-06-12      |                             |
     | [Alex](./general-adventurers/details/Alex.md)                   | Smoldering Knight                                 |       2024-10-15      |                             |
     | [Alice](./legendary-adventurers/details/Alice.md)               | Girl Called the Dark One's Maiden                 |       2024-10-15      |                             |
