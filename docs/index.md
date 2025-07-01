@@ -85,6 +85,8 @@ Good Luck, and **Savor the Risk!**
 - Gagging
 - Lynd
 - TheAxolotl
+- SocialX
+- nrjank
 
 ## Resources
 
