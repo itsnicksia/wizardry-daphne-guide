@@ -44,7 +44,7 @@ Red -> Blue -> Green
 
 ## Guide for 2nd Part:
 
-!!! Danger "There is a part in this where you will need to permanently delete an adventurer if your main character isn't EVIL alignment."
+!!! Danger "There is a part in this where you will need to permanently delete an adventurer if your main character isn't EVIL alignment. In addition, if the selected adventurer has too high of a bond with your main character, you will be unable to dump their body and will need to redo this trial with a different adventurer."
 
 There are two parts for the Trial of the Heat Haze. 
 
