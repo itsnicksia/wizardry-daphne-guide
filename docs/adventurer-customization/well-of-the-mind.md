@@ -22,11 +22,11 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 | DEX | Dexterity |
 | SPD | Speed |
 | LUC | Luck |
-|  |  |
+| | |
 | HP | Increases Hit Points |
 | MP | Increases Magic Points |
 | SP | Increases Skill Points |
-|  |  |
+| | |
 | ACC | Increases Accuracy |
 | ASPD | Increases Action Speed |
 | ATK | Increases Attack Power |
@@ -40,55 +40,56 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 | MDEF | Increases Magic Defense |
 | RES | Increases Resistance |
 | SUR | Increases Surety |
-|  |  |
-| FIGHTER | Enables Class Change to Fighter. |
-| KNIGHT | Enables Class Change to Knight. |
-| MAGE | Enables Class Change to Mage. |
-| NINJA | Enables Class Change to Ninja. |
-| PRIEST | Enables Class Change to Priest. |
-| THIEF | Enables Class Change to Thief. |
-|  |  |
+| | |
+| FIGHTER | Enables Class Change to Fighter |
+| KNIGHT | Enables Class Change to Knight |
+| MAGE | Enables Class Change to Mage |
+| NINJA | Enables Class Change to Ninja |
+| PRIEST | Enables Class Change to Priest |
+| THIEF | Enables Class Change to Thief |
+| | |
 | FIGHTER SKILL PROF | Reduces SP cost of Fighter Skills |
 | KNIGHT SKILL PROF | Reduces SP cost of Knight Skills |
 | MAGE SPELL PROF | Reduces the MP cost of mage spells |
 | NINJA SKILL PROF | Reduces SP cost of Ninja Skills |
 | PRIEST SPELL PROF | Reduces the MP cost of priest spells |
 | THIEF SKILL PROF | Reduces SP cost of Thief Skills |
-|  |  |
-| OHWP | One-Handed Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a dagger, one-handed sword, or one-handed axe. |
-| THWP | Two-Handed Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a two-handed sword, two-handed spear, or two-handed axe. |
-| STP | Staff Proficiency - Increases Magic Power and Divine Power when equipped with a one-handed or two-handed staff. |
-| BWP | Blunt Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a one-handed or two-handed blunt weapon. |
-| RWP | Ranged Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a bow. |
-| NWP | Ninja Weapon Proficiency - Increases Attack Power and Surety when equipped with a dagger, kunai, or ninja katana. |
-|  |  |
-| CP | Cloth Proficiency - Increases Defense Power and Magic Defense when equipped with cloth. |
-| LAP | Light Armor Proficiency - Increases Defense Power and Magic Defense when equipped with light armor. |
-| HAP | Heavy Armor Proficiency - Increases Defense Power and Magic Defense when equipped with heavy armor. |
-|  |  |
-| RACE CHANGE | Changes the MC's Race to one of the types listed. |
-| TYPE CHANGE | Changes MC's Type (Element) to one of the types listed. |
-|  |  |
-| FTO | Fear Tolerance |
-| IDTO | Instant-Death Tolerance |
-| IKTO | Insta-Kill Tolerance |
-| SLTO | Sleep Tolerance |
-| STTO | Stun Tolerance |
-| CHTO | Charm Tolerance |
-| COTO | Confusion Tolerance |
-| POTO | Poison Tolerance |
-| BITO | Bind Tolerance |
-|  |  |
-| ASR | Adventurer-Slayer Resistance |
-| DHSR | Demihuman-Slayer Resistsnfe |
-| ESR | Entity-Slayer Resistance |
-| GSR | Giant-Slayer Resistance |
-|  |  |
-| EMBERS | Embers of Resurgence (+1) |
+| | |
+| OHWP | One-Handed Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a dagger, one-handed sword, or one-handed axe |
+| THWP | Two-Handed Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a two-handed sword, two-handed spear, or two-handed axe |
+| STP | Staff Proficiency - Increases Magic Power and Divine Power when equipped with a one-handed or two-handed staff |
+| BWP | Blunt Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a one-handed or two-handed blunt weapon |
+| RWP | Ranged Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a bow |
+| NWP | Ninja Weapon Proficiency - Increases Attack Power and Surety when equipped with a dagger, kunai, or ninja katana |
+| | |
+| CP | Cloth Proficiency - Increases Defense Power and Magic Defense when equipped with cloth |
+| LAP | Light Armor Proficiency - Increases Defense Power and Magic Defense when equipped with light armor |
+| HAP | Heavy Armor Proficiency - Increases Defense Power and Magic Defense when equipped with heavy armor |
+| | |
+| RACE CHANGE | Changes the MC's Race to one of the types listed |
+| TYPE CHANGE | Changes MC's Type (Element) to one of the types listed |
+| | |
+| FTO | Increases Fear Tolerance |
+| IDTO | Increases Instant-Death Tolerance |
+| IKTO | Increases Insta-Kill Tolerance |
+| SLTO | Increases Sleep Tolerance |
+| STTO | Increases Stun Tolerance |
+| CHTO | Increases Charm Tolerance |
+| COTO | Increases Confusion Tolerance |
+| POTO | Increases Poison Tolerance |
+| BITO | Increases Bind Tolerance |
+| | |
+| ASR | MC gains Adventurer-Slayer Resistance |
+| DHSR | MC gains Demihuman-Slayer Resistsnfe |
+| ESR | MC gains Entity-Slayer Resistance |
+| GSR | MC gains Giant-Slayer Resistance |
+| | |
+| EMBERS | Embers of Resurgence increased by 1 |
 | PARALLEL BREAK | Chance to inflict multiple status afflictions (Sleep, Stun, Fear. Confusion) on 1 enemy row |
-| REVERSAL RESONANCE | Chance to resurrect an additional ally when using right hand of reversal on an alky who died in battle. |
+| REVERSAL RESONANCE | Chance to resurrect an additional ally when using right hand of reversal on an ally who died in battle. |
 | DEEP LOOK BACK | Chance that time will feel slower when using the Right hand of reversal to resurrect an ally who died in battle |
 | CHRONOSTASIS | Minor physical attack that always hits 1 enemy. High chance of greatly slowing target's Action Order |
+
 
 ## Guiding Lights
 
