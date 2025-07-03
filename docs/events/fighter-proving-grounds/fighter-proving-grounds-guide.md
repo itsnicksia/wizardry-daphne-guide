@@ -4,7 +4,7 @@
 
 ## Guide:
 
-There is no introduction to this event. Simply start the event by entering the event tab and selecting the Fighter Proving Grounds event. There are three difficulties. You can only enter with up to 3 fighters.
+There is no introduction to this event. Simply start the event by heading to the Royal Capital and accepting Beginner Fighter Trial in the Featured tab. This will mark the location on your map.
 
 You can obtain up to 200 tokens from clearing the event itself. However, the tokens from clearing the event are capped to the difficulty cleared. You can only get a maximum of 50 tokens in Beginner, 100 in Intermediate, and 200 in Advanced. So there is no need to clear each difficulty more than once and no need to do lower difficulties if you can do Advanced, as it will just give the max possible value per difficulty level.
 
