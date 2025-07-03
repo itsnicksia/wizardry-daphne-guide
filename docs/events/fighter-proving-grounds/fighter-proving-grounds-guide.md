@@ -1,5 +1,7 @@
 # Fighter Proving Grounds
 
+!!! item "This event is now permanently available!"
+
 ## Guide:
 
 There is no introduction to this event. Simply start the event by entering the event tab and selecting the Fighter Proving Grounds event. There are three difficulties. You can only enter with up to 3 fighters.
