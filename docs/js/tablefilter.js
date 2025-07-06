@@ -77,6 +77,7 @@ function updateRowVisibility(query, rows) {
       }
     }
 
-    row.style.display = hasMatchingCell ? '' : 'none';
+    const hasQuery = query.length > 0;
+    row.style.display = hasQuery && !hasMatchingCell ? 'none' : '';
   });
 }
