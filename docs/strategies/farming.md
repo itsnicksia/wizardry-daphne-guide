@@ -256,4 +256,15 @@ but this requires stacking Magic Power up to around 200 for each.
 !!! map
     ![](img/b1f-ninja-farm.png)
 
+### Experience Farming - Trial of the Heat-Haze B1F
+
+!!! map
+    ![](img/ninja-exp-farm.png)
+
+    ??? note "Strategy"
+
+        1. Complete Paulownia Box Recovery request from the Royal Capital in its entirety and unlock this trial by clearing Abyss 3 at least once. If you have already completed this trial, you can reset it by simply cursed wheeling the Paulownia Box Recovery request and unlocking the trial again.
+        2. The ideal way to farm exp is simply going to the first star indicated on the map closest to the entrance (guaranteed fight with 3 ninjas) and then leaving + re-entering. You could technically fight every sentry on the floor up to the teleporter, but they will be slightly more difficult than the non-sentry fight near the entrance and give the same EXP.
+        3. It's recommended not to go past level 50 to maximize EXP gains for this farm.
+
     
