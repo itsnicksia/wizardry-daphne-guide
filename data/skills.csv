@@ -17,7 +17,7 @@ Art of Assassination,Passive,,Chance of Critical occurring during normal attacks
 Assault Guard,Passive,True,Greatly increases Defense Power during ambushes for 2 turns.,Defense Power incrementally increased further based on skill level. More turns added.,12,Knight,,Barbara,
 Astral Break,Active,True,"Major earth type physical attack on 1 enemy. Bypasses Defense Power and increases Action Speed of user and allies in front or behind of 3 turns. Efficacy, Defense Power bypass rate, and Action Speed effect turns are reduced if learned by someone other than Arboris.",Efficacy increase and Action Speed increase effect turns incrementally increased based on skill level.,,,,Arboris,
 Attract Hit,Active,True,Minor physical attack on 1 enemy. User becomes more easily targeted by the affected enemy for 3 turns,"Efficacy increased and user becomes more easily targeted by enemies, based on skill level.",14,Knight,,Eckart,
-Back-against-the-Water Formation,Passive,,Attack Power and Magic Power increase when HP drops below 50%.,Attack Power/Magic Power increased further based on skill level.,50,Samura,,,
+Back-against-the-Water Formation,Passive,,Attack Power and Magic Power increase when HP drops below 50%.,Attack Power/Magic Power increased further based on skill level.,50,Samurai,,,Bugen
 BADI,Damage,,Chance of dealing HP-scaled damage to 1 enemy of a race that bleeds.,Probability and damage scaling increased based on skill level.,51,Priest,,,
 BADIOS,Damage,,A light attack spell cast by a sacred prayer. Deals minor damage to 1 enemy based on the user's Divine Power. Damage is increased against undead.,Efficacy increased based on skill level.,9,Priest,,,
 BALAFEOS,Debuff,True,Intrudes on psyches over a wide area with a chance to reduce the Attack Power of 1 enemy row for 3 turns.,Probability increased while Attack Power decreased incrementally based on skill level. More turns added.,17,Mage,,,Dino
@@ -54,7 +54,7 @@ Cresting Wave Stance,Active,,"Performs a normal attack in the current stance, th
 Cunning Pursuit,Passive,True,Increases Surety when attacking opponents affected by status afflictions or debuffs.,Surety increased further based on skill level.,32,Thief,,,Philip
 Dark-Kin Blessing,Passive,,Reduces dark type damage for elves in the same row.,,,,,Elda,
 Dark Type Thaumaturgy,Passive,,Reduces dark-type damage to self.,Damage decreased further based on skill level.,55,Mage,,,
-Decisive Torso Strike,Active,,Moderate physical attack with very high Accuracy on 1 enemy.,Efficacy increased based on skill level.,5,Samurai,,,
+Decisive Torso Strike,Active,,Moderate physical attack with very high Accuracy on 1 enemy.,Efficacy increased based on skill level.,5,Samurai,,Bugen,
 Defense of House Zart,Discipline,,"Continuously increases each stat, HP and Evade Trap increased further.",HP and Evade Trap Tolerance increased further based on skill level.,,,,Barbara,
 Defensive Provoke,Active,True,"Continuously restores own minor HP, increases Defense Power, and makes 1 row enemies easier to target.","Recovery amount augmented, Defense Power increased, and user becomes more easily targeted by enemies, based on skill level.",38,Knight,Close/mid-range weapon-specific,,Eckart
 Delay Attack,Active,True,Minor physical attack on 1 enemy. Chance to decrease Action Speed based on the user's Dexterity.,Efficacy and probability increased while Action Speed further decreased based on skill level.,6,Thief,,Philip,
