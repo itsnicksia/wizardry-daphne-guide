@@ -1,4 +1,4 @@
-# Rinne
+# Shiou
 
 **Race**: Beastfolk  
 **Gender**: Female  
