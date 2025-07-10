@@ -66,6 +66,9 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 
 ### Farming Routes
 
+!!! note "After Ver 1.12.0, you can now remove all the traps in the cave for easier farming by going to the boss room on B3F and flipping a switch on the wall left of the final chest"
+
+    ![](img/ninja-knowledge.png)
 
 
 === "Merc's Route"
