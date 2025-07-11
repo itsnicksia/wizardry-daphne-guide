@@ -16,7 +16,7 @@
     | Beast-Thi                                                       | Beastfolk | Female | Thief                 |                 | Light | Evil        | Anonymous      |
     | [Benjamin](./general-adventurers/details/Benjamin.md)           | Dwarf     | Male   | Fighter               | Thief           | Earth | Neutral     | General        |
     | [Berkanan](./legendary-adventurers/details/Berkanan.md)         | Human     | Female | Tall Mage             |                 | Fire  | Good        | Legendary      |
-    | [Bugen])(./general-adventurers/details/Bugen.md)                 | Dwarf     | Male   | Samurai               |                 | Earth | Good        | General        |
+    | [Bugen](./general-adventurers/details/Bugen.md)                 | Dwarf     | Male   | Samurai               |                 | Earth | Good        | General        |
     | [Chloe](./general-adventurers/details/Chloe.md)                 | Beastfolk | Female | Fighter               | Knight          | Fire  | Good        | General        |
     | [Clarissa](./general-adventurers/details/Clarissa.md)           | Human     | Female | Knight                | Fighter         | Light | Neutral     | General        |
     | [Daniel](./general-adventurers/details/Daniel.md)               | Human     | Male   | Priest                | Knight          | Earth | Good        | General        |
