@@ -96,6 +96,7 @@ Follow-Up Attack,Passive,True,Chance to increase Attack Rate during normal attac
 FOROS,Damage,,Launches an orb of light that deals minor light spell damage to 1 enemy.,Efficacy increased based on skill level.,0,Mage,,,
 Fortified Strike,Active,,Launches 2 minor physical attacks on 1 enemy. Efficacy increases with Defense Power and Magic Defense.,Efficacy increased based on skill level.,54,Knight,Melee/mid-range weapon-specific,,
 Frugal Faith,Passive,,Continuously reduces the MP/SP cost of Priest spells/skills that cost 3-10 MP/SP.,,,,,Marianne,
+Fulfillment of Loyalty,Discipline,,"Continuously increases each stat, with HP and Attack Power increased even further.",HP and Attack Power increased further based on skill level.,,,,Bugen,
 Full Power Strike,Active,True,Gathers strength to launch a major physical attack with high Accuracy on 1 enemy.,Efficacy increased based on skill level.,54,Fighter,Fighter-specific,Elda,
 Future Dreamt with the Skull,Discipline,,"Continuously increases each stat, MP and Skill-bind/Spell-Bind Tolerance increased further.",MP and Skill/Spell-Binding Tolerance increased further based on skill level.,,,,Yekaterina,
 Gale,Passive,,Increases own Attack Power and for 2 turns when evading an enemy attack.,Attack Power increased further based on skill level.,20,Ninja,,,
@@ -182,6 +183,7 @@ Old Warrior's Teachings,Discipline,,Continuously increases each stat. Accuracy a
 One-Handed Weapon Proficiency,Passive,,"Increases Attack Power and Accuracy when equipped with a dagger, one-handed sword, or one-handed axe.",Attack Power and Accuracy increased further based on skill level.,,,,,
 Passive Accuracy Up,Passive,True,Continuously increases Accuracy.,Accuracy increased further based on skill level.,,,,Beast-Thi,
 Passive Accuracy Up (Fighter),Passive,True,Continuously increases Accuracy.,Accuracy increased further based on skill level.,16,Fighter,,,Chloe
+Passive Action Speed Up,Passive,True,Continuously increases Action Speed.,Action Speed increased further based on skill level.,,,,Human-Nin,
 Passive Action Speed Up (Mind),Passive,,Continuously increases Action Speed.,Action Speed increased further based on skill level.,,,,,
 Passive Action Speed Up (Thief),Passive,True,Continuously increases Action Speed.,Action Speed increased further based on skill level.,17,Thief,,,Bakesh
 Passive Attack Power Up,Passive,True,Continuously increases Attack Power.,Attack Power increased further based on skill level.,,,,Human-Fig,
