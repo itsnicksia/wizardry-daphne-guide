@@ -2,7 +2,7 @@
 
 ## Experience Chart
 
-|  Level | Next Level Exp | Cumulative Exp | Ninja Next Level Exp | Ninja Cumulative Exp |
+|  Level | Next Level Exp | Cumulative Exp | Advanced Next Level Exp | Advanced Cumulative Exp |
 |:------:|:--------------:|:--------------:|:--------------------:|:--------------------:|
 |    1   |       56       |        0       |          140         |           0          |
 |    2   |       135      |       56       |          338         |          140         |

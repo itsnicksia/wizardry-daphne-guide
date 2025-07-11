@@ -5,12 +5,15 @@
 **Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Ninja  
-**Class Change**: Currently None  
+**Class Change**: Thief
 **Role**: Damage, Support
 
 ??? info "Portraits"
     === "Ninja"
         ![](../img/rinne-ninja.png)
+
+    === "Thief"
+        ![](../img/rinne-thief.jpg)
 
 
 ## Skills

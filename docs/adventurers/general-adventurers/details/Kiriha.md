@@ -5,12 +5,15 @@
 **Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Ninja  
-**Class Change**:   
+**Class Change**: Fighter  
 **Role**: Damage, Support
 
 ??? info "Portraits"
     === "Ninja"
         ![](../img/kiriha-ninja.jpg)
+
+    === "Fighter"
+        ![](../img/kiriha-fighter.png)
 
 ## Skills
 
