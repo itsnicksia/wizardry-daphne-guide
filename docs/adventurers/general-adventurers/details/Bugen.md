@@ -23,5 +23,5 @@
         Further increases damage dealt when attacking with an element type that the target is weak against.
 
 !!! info "Discipline Skill"
-    === ""
-        .
+    === "Fulfillment of Loyalty"
+        Continuously increases each stat, with HP and Attack Power increased even further.
