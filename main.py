@@ -22,4 +22,16 @@ def define_env(env):
             results = results.query(f'`{filter_column}` in {filter_values}')
         results = results.fillna('')
 
+        # Only linkify names if file is adventurers.csv and required fields exist
+        if file == 'adventurers.csv' and 'Name' in return_columns and 'Rarity' in results.columns:
+            def linkify(row):
+                name = row['Name']
+                rarity = row['Rarity'].strip().lower()
+                if rarity == "anonymous":
+                    return name  # Don't linkify anonymous
+                name_slug = name.replace(' ', '-')
+                return f"[{name}](./{rarity}-adventurers/details/{name_slug}.md)"
+
+            results['Name'] = results.apply(linkify, axis=1)
+
         return results[return_columns]
