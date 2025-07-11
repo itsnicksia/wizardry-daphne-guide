@@ -51,7 +51,7 @@
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
-    I pulled 4 copies so far. One copy went to the OCD Discipline, and I'm not entirely sure if I'm going to throw the other copies towards Discipline for the Surety, or if I'll take her Lingering Blossom up to level 3 for more active Surety. I'm leaning towards the latter, but we'll see. I also might pull more, but I'm unsure.
+    I pulled 4 copies so far. One copy went to the OCD Discipline, and the others took her Lingering Blossom up to level 3. I might pull more later, too, but we'll see!
 
 ## Duplicate Usage
 
