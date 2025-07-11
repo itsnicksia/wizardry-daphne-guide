@@ -39,7 +39,7 @@
     | [Gerulf](./legendary-adventurers/details/Gerulf.md)             | Dwarf     | Male   | Fighter               | Priest          | Fire  | Evil        | Legendary      |
     | Human-Fig                                                       | Human     | Male   | Fighter               |                 | Water | Neutral     | Anonymous      |
     | Human-Pri                                                       | Human     | Female | Priest                |                 | Fire  | Good        | Anonymous      |
-    | Human-Nin                                                       | Human     | Female | Ninja                 |                 |       | Evil        | Anonymous      |    
+    | Human-Nin                                                       | Human     | Female | Ninja                 |                 | Air   | Evil        | Anonymous      |    
     | [Iarumas](./legendary-adventurers/details/Iarumas.md)           | Human     | Male   | Mage of the Black Rod |                 | Void  | Neutral     | Legendary      |
     | [Jarmil](./general-adventurers/details/Jarmil.md)               | Human     | Male   | Mage                  | Thief           | Air   | Evil        | General        |
     | [Jean](./general-adventurers/details/Jean.md)                   | Human     | Male   | Thief                 | Mage            | Earth | Neutral     | General        |
