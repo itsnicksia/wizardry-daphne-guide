@@ -149,7 +149,8 @@ TheAxolotl generally (but not always) does the following for his bonus points:
 * Thief: Strength, Dexterity, Speed, or Luck
 * Mage: IQ or Speed
 * Priest: Speed, but it largely depends on what its second class is, if one exists
-* Ninja: Strength
+* Ninja: Strength, Dexterity, or Luck if planning on inheriting Follow Up Attack and Counterattack
+* Samurai: Strength or IQ, with more emphasis on Strength, Luck if planning on inheriting Follow Up Attack and Counterattack
 
 !!! note "You will never ruin an adventurer with your bonus point assignment."
 
