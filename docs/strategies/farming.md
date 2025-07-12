@@ -258,6 +258,10 @@ but this requires stacking Magic Power up to around 200 for each.
 
 ### Experience Farming - Trial of the Heat-Haze B1F
 
+!!! note "After Ver 1.12.0, you can now remove all the traps in the cave for easier farming by going to the boss room on B3F and flipping a switch on the wall left of the final chest"
+
+    ![](img/ninja-knowledge.png)
+
 !!! map
     ![](img/ninja-exp-farm.png)
 
