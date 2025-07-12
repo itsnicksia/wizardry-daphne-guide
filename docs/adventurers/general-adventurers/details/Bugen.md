@@ -1,12 +1,12 @@
 # Bugen
 
-**Race**: Dwarf
+**Race**: Dwarf  
 **Gender**: Male  
-**Type**: Earth
+**Type**: Earth  
 **Personality**: Good  
-**Starting Class**: Samurai
-**Class Change**:   
-**Role**: Damage
+**Starting Class**: Samurai  
+**Class Change**:    
+**Role**: Damage 
 
 ??? info "Portraits"
     === "Samurai"
