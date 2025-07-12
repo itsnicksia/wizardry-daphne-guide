@@ -48,10 +48,35 @@
 
     All in all, this is probably my favorite kit for a single purpose damage dealer. In many cases, Ephemeral Illusion Stance skill will not be seeing use, but the synergy she has in her kit as a whole is really exciting to me, and I'm looking forward to experimenting with her over the next couple weeks. Keep in mind that many people will not like the high risk nature of her kit, so before pulling, consider what you want from a physical damage dealer.
 
+??? info "Frobro's Analysis"
+
+??? info "Karkarov's Analysis"
+
+    "At long last the Samurai Class is revealed with a new Legendary to boot!  But does it suck?  No.  However if there are two words to sum up this character and maybe the Samurai class on the whole they would be ""It's complicated"".
+
+    Shiou though her unique skill Lingering Blossom gains an attack power and surety buff for 3 rounds, with 1 round of inceased aggro.  If in that round she is attacked, and dropped to 0 HP, she may ""persevere"" and tank the hit gaining a stronger attack, surety, and now evasion buff as well for 4 rounds not 3.  The surety buff after persevering is also so strong it all but guarantees every hit while the buff is up will proc surety.  Combine this with her once per combat unique uninheritable skill Ephemeral Illusion Stance that can only be used when below 30% HP and well... You get a character that can do damage on par with Full Power Strike level 3 from a well geared fighter with strong stats and some reasonable skill inherits.  Except she herself can get to that damage while wearing ""ok but not great"" gear, has decent but not impressive stats, and has no skill inheritance or discipline levels at all.
+
+    TIME TO OPEN OUR WALLETS BOYS!  Hey, hold up now, I said ""It's complicated"" right?
+
+    Samurai as a class has a stance dancing system that requires different stance moves to be performed to really get her set with her best possible attack buffs.  This is beyond needing to prep with her inherit skill Lingering Blossom AND be below 30% HP to use Ephemeral Illusion.  This of course assumes you do Lingering Blossom, do get hit, do get knocked to what would be zero HP, and persevere it to get the max buff too.  There is a lot that can just not work out in the process of setting up ""the moment"" to unload with some insane 4-5k+ damage bomb (or maybe even 9k plus if you are a whale).  Fortunately even if it does go wrong you can also just Bamboo Splitter to win (a default Samurai Skill) that already does near Full Power Strike damage, but does not need a ""charge"" round, only a round to set up a stance first.  
+
+    You also need to consider that Samurai gains extra damage from their Magic Attack Power stat as well thanks to the Divine Path default skill, which sounds great, except they also gain less damage from normal Attack Power than say a Fighter.  In fact on many attacks without special set up or prep Shiou with a similar Attack Power to a Fighter, despite also having Magic Attack Power support, will probably do slightly less damage.  Again, without some stance work and proper set up.  This means gearing a Samurai has more options (both plus Attack AND Magic Attack are viable) but it also means they get less bang for buck from those stats.  For Shiou at least this is offset by her Lingering Blossom skill which enables her to worry a little less about Surety than someone without this skill would.
+
+    Ok great but what else is there to consider? Well Samurai by default have skills to let them buff their weapon with different elements, enabling them to target all elemental weaknesses except Light and Dark. Her Discipline greatly boosted traits are Attack Power and Surety, can't beat that.  She by default has fantastic traits for the class especially if you pull a copy with a Strength boosted to 13 due to high default IQ, Dex, and Speed.  Her Neutral alignment gives her access to the most alignment based buffs. Her Wind element (at least at the time of writing) is not often exploited by enemies in the current high level content, outside of a few easy to kill normal mobs.  The only glaring disadvantages are the class and skill set up complexity, needing a Katana which is very limited on her release (7/10/25), and being an advanced class that needs over 10mil exp to reach 60.
+
+    TLDR?  Shiou (and Samurai as a class) has a very real learning curve, needs a lot of set up, but when set up correctly has the potential to be the best DPS in the game.  So again, ""it's complicated"", but also very worth it."									
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
     I pulled 4 copies so far. One copy went to the OCD Discipline, and the others took her Lingering Blossom up to level 3. I might pull more later, too, but we'll see!
+
+??? note "Karkarov's Pull Plan"
+    "This one is tough.  Shiou has an extremely high potential value ceiling, but is very complicated to use correctly, and has a lot of risk required to activate her true damage potential.  If the game slogan ""Savor the Risk"" where a character, it would be Shiou.  This may be a little too high effort for some, and is certainly harder to impliment in your team than a Fighter or Ninja.  So, here is what I think:
+
+    If you are at a point where you just dont want another melee DPS, or you are just starting out and can't support the EXP / Katana investment the character needs, or maybe you just don't want to think a ton while playing.... You should probably pass on Shiou.
+
+    If you are a person that doesn't really do much auto farming, likes more engagement with their characters and party strat, loves risk based classes and gameplay in RPG's, and just want an absolute DPS beast on your team extra effort be damned.... Shiou is a highly reccomended pull for you.  Very highly recommended."									
 
 ## Duplicate Usage
 
