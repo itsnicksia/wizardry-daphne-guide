@@ -40,7 +40,7 @@
 
     Samurai in general appear to be at their best when actively using skills, so they might potentially be weaker than Fighters if you're just doing auto-attack farming, however there are some reports of Shiou (or Samurai in general) being able to put out FPS levels of damage every turn, which is quite substantial.
 
-    One thing that we still need to determine is if the normal attack that comes with Cresting Wave Stance triggers Follow-Up Attack. The wording implies that it would, but that's still to be determined.
+    One thing that we still need to determine is if the normal attack that comes with Cresting Wave Stance triggers Follow-Up Attack. The wording implies that it would, but early testing indicates that it doesn't. I have reported this as a bug, but we'll see what is really intended.
 
     Regarding her Discipline, you can't do any better than Attack Power + Surety for a physical damage dealer. That being said, I personally think saving any dupes for inheriting to her own Lingering Blossom is likely going to be the stronger option overall, just due to the high value prop of her self buff. We can't see the magnitude of the increases, but it should be much more substantial than the paltry increase to Attack Power and Surety that Discipline provides.
 
@@ -48,7 +48,7 @@
 
     All in all, this is probably my favorite kit for a single purpose damage dealer. In many cases, Ephemeral Illusion Stance skill will not be seeing use, but the synergy she has in her kit as a whole is really exciting to me, and I'm looking forward to experimenting with her over the next couple weeks. Keep in mind that many people will not like the high risk nature of her kit, so before pulling, consider what you want from a physical damage dealer.
 
-??? info "Frobro's Analysis"
+??? info "Frobro's Analysis (to be added)"
 
 ??? info "Karkarov's Analysis"
 
