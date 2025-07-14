@@ -7,6 +7,10 @@
   "customizations": {
     "vscode": {
       "settings": {
+        "workspaceMount": "source=${localWorkspaceFolder}/docs,target=/docs,type=bind"],
+        "workspaceFolder": [
+          { "name": "workspace",    "path": "/docs" },
+        ],
         "workbench.startupEditor": "readme",
         "workbench.iconTheme": "material-icon-theme",
         "workbench.activityBar.visible": true,

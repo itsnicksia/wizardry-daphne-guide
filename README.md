@@ -6,6 +6,8 @@ We welcome contributions and corrections by the community\!
 
 ## How to Contribute
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/itsnicksia/wizardry-daphne-guide/tree/main?quickstart=1)
+
 1. [Fork the repository on Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 1. [Make your changes in Markdown format](https://www.markdownguide.org/basic-syntax/)
 1. [Push your changes to your Github fork](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
