@@ -7,22 +7,20 @@
   "customizations": {
     "vscode": {
       "settings": {
-        "workspaceMount": "source=${localWorkspaceFolder}/docs,target=/docs,type=bind"],
-        "workspaceFolder": [
-          { "name": "workspace",    "path": "/docs" },
-        ],
+        "git.autofetch": true,
         "workbench.startupEditor": "readme",
         "workbench.iconTheme": "material-icon-theme",
-        "workbench.activityBar.visible": true,
-        "editor.fontSize": 18,
+        "workbench.activityBar.visible": false,
+        "editor.fontSize": 20,
+        "workbench.statusBar.visible": false,
         "editor.minimap.enabled": false,
         "explorer.compactFolders": false,
-        "markdown.preview.autoShowPreviewToSide": true,
         "markdown.preview.scrollEditorWithPreview": true,
         "markdown.preview.openMarkdownLinks": "inPreview",
         "markdown.extension.toc.updateOnSave": true,
         "markdown.extension.tableFormatter.enabled": true,
         "terminal.integrated.defaultProfile.linux": "bash",
+        "terminal.integrated.hideOnStartup": "always"
       },
       "extensions": [
         "yzhang.markdown-all-in-one",
