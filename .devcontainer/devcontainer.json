@@ -10,6 +10,7 @@
         "workbench.startupEditor": "readme",
         "workbench.iconTheme": "material-icon-theme",
         "workbench.activityBar.visible": true,
+        "editor.fontSize": 18,
         "editor.minimap.enabled": false,
         "explorer.compactFolders": false,
         "markdown.preview.autoShowPreviewToSide": true,
@@ -17,7 +18,7 @@
         "markdown.preview.openMarkdownLinks": "inPreview",
         "markdown.extension.toc.updateOnSave": true,
         "markdown.extension.tableFormatter.enabled": true,
-        "terminal.integrated.defaultProfile.linux": "bash"
+        "terminal.integrated.defaultProfile.linux": "bash",
       },
       "extensions": [
         "yzhang.markdown-all-in-one",
