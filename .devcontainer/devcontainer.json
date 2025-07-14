@@ -7,38 +7,23 @@
   "customizations": {
     "vscode": {
       "settings": {
-        // Show the built-in README view on open
         "workbench.startupEditor": "readme",
-        // Friendly light theme + icons
-        "workbench.colorTheme": "GitHub Light",
         "workbench.iconTheme": "material-icon-theme",
-        // Keep explorer visible so non-devs can browse docs/
         "workbench.activityBar.visible": true,
-        // Simplify editor UI
         "editor.minimap.enabled": false,
         "explorer.compactFolders": false,
-        // Markdown preview: auto-open to side, scroll sync, follow links
         "markdown.preview.autoShowPreviewToSide": true,
-        "markdown.preview.scrollEditorWithPreview": "gutter",
+        "markdown.preview.scrollEditorWithPreview": true,
         "markdown.preview.openMarkdownLinks": "inPreview",
-        // Table of contents & table-formatter updates on save
         "markdown.extension.toc.updateOnSave": true,
         "markdown.extension.tableFormatter.enabled": true,
-        // Use bash in terminal
         "terminal.integrated.defaultProfile.linux": "bash"
       },
       "extensions": [
-        // All-in-one markdown shortcuts (heading, TOC, etc.)
         "yzhang.markdown-all-in-one",
-        // GitHub-style markdown preview
-        "bierner.markdown-preview-github-styles",
-        // Lint markdown for style & consistency
         "DavidAnson.vscode-markdownlint",
-        // Catch typos for non-coders
         "streetsidesoftware.code-spell-checker",
-        // Nice file icons
         "PKief.material-icon-theme",
-        // Handy light theme that matches GitHub
         "GitHub.github-vscode-theme"
       ],
       // Open the home page of your MkDocs site immediately
