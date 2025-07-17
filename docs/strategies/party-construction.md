@@ -142,7 +142,7 @@ These are some parties I have personally and successfully used to clear progress
             - Abenius (Fighter/Priest)
         - Back Row
             - Alice (Priest/Mage)
-            - Yekat (Fighter)
+            - Yekaterina (Priest/Mage)
             - Rinne (Ninja)
 
     - Party 3
