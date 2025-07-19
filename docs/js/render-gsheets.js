@@ -15,14 +15,24 @@ const equipmentSheet = {
     plugins: [Sort, Filter]
 }
 
-const decorators = (table) => {
-    new Tablesort(table);
-    addFilterDecorator(table);
-};
+const equipTableWeaponsSheet = {
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1651673786&single=true&output=csv",
+    containerElementId: "weapons-table-container",
+    columnRange: [2, 59]
+}
+
+const equipTableArmorSheet = {
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=139619551&single=true&output=csv",
+    containerElementId: "armor-table-container",
+    columnRange: [2, 59]
+}
+
 
 document$.subscribe(() => {
     buildTableFromSheet(trustSheet);
     buildTableFromSheet(equipmentSheet);
+    buildTableFromSheet(equipTableWeaponsSheet);
+    buildTableFromSheet(equipTableArmorSheet);
 });
 
 function buildTableFromSheet({containerElementId, url, columnRange, plugins = []}) {
