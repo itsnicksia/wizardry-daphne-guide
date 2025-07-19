@@ -1,4 +1,4 @@
-function addFilterDecorator(table) {
+function addFilterPlugin(table) {
   const thead = table.tHead;
   if (!thead) {
     return;

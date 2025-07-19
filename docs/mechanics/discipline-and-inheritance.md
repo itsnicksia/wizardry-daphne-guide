@@ -217,3 +217,21 @@ What do I do with my dupes? I have a general process of:
 1. First dupe - Discipline 1, strictly for my OCD. I don't like locked skills.
 2. Additional duplicates - inherit to the MC or other adventurers OR get the featured Legendary's skill to an odd level (3 is a great target, 5 or 7 are good if you have a lot of dupes) for a noticeable damage boost
 3. Once I hit the skill levels I want on whatever adventurers I want to give it to, only then will I consider going for more Discipline levels
+
+## Should I pull for duplicates?
+
+This is a much harder question to answer, as it will depend on what you plan to use those duplicates for and what your budget is. To help you make this decision, let's look at some probabilities, courtesy of Memento in the Wizardry Variants Discord.
+
+The rate up for the featured legendary adventurer is 2% with no pity system or 50/50 system. The probabilities below rely on the assumption that at 100 pulls, you spend your tokens on a duplicate. If you spend them on equipment instead, you can assume you will have different numbers here. Below is a look at how many pulls you need for a specific percentage chance of getting the number of copies you want.
+
+![](./img/gacha-probability.png)
+
+For those that like to see this information graphed, here's the cumulative pull probability distributions that correspond with the data above.
+
+![](./img/discipline-probability-distribution.png)
+
+Regarding Discipline in particular, many people consider the HP you get with Discipline as one of the main reasons to increase the Discipline levels. Here's a look at the average HP gained per pull at different Discipline levels. We're also including MP per pull for funzies and because Memento did this analysis when Sheli was released. It's...not great. That's not to say that the HP at those Discipline levels isn't great, rather the gain per pull is extremely small.
+
+![](./img/hp-mp-averages-per-pull.png)
+
+So what does this all mean in summary? Well, chasing duplicates is very expensive and chasing Discipline for HP is only really advisable for whales as the value you get for the cost you incur is extremely small.

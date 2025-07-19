@@ -5,5 +5,7 @@
   "main": "index.js",
   "scripts": {},
   "private": true,
-  "dependencies": {}
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
 }

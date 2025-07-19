@@ -28,16 +28,6 @@ jobs:
         run: npm ci
         working-directory: view-generator
 
-      - name: Generate
-        id: generate
-        run: npm run generate
-        working-directory: view-generator
-        continue-on-error: true
-
-      - name: Copy Generated files to /docs
-        id: copy-generated
-        run: cp -r view-generator/generated/views docs/_generated/
-
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
