@@ -44,7 +44,6 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
  - Increases Innate Attributes
  - At Enhancement Value +5, +10, +15 and +20, unlocks a new Blessing or improves an existing Blessing if one already exists in that slot.
  - Enhancing beyond  +5, +10, and +15 requires unification (see below) to increase Strength of the item.
- - All enhanements come with a small chance of producing and excellent or poor outcome resulting in one extra or one less level of enhancement.
 
 Requires **Gold** and **Iron Ore**.
 
@@ -78,7 +77,7 @@ commenting this out until we have data lol this is so sad
 
 Refining an item increases the value of a substat **Blessing** and requires a matching Refinement Stone of the same blessing to improve. Every blessing on an item can be refined, but only one refinement stone can be applied to each blessing.  Subsequent refinements replace previous refinements. Potential refinement range is shown prior to using the stone.
 
-As of version 1.12.0, refinement bonuses are retained if you enhance to a level that also enhances that atteibute. Previously, if refined before enhancing to +5, +10, +15, or +20, the enhancement would clear any refinement on the assocated substat, which depending on the values rolled could make attribute value appear to get worse on enhancement.
+As of version 1.12.1, refinement bonuses are retained if you enhance to a level that also enhances that atteibute. Previously, if refined before enhancing to +5, +10, +15, or +20, the enhancement would clear any refinement on the assocated substat, which depending on the values rolled could make attribute value appear to get worse on enhancement.
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.
 
@@ -119,7 +118,11 @@ This only works for items of the same type (one-handed weapons to one-handed wea
 
 This helps save gold + ore when changing to higher quality equipment when you have already enhanced your existing equipment.
 
-All enhancement comes with a small chance of and excellent or poor outcome that will result in one extra or one less level of enhancement.
+The resulting enhancement level will depend on the material and enhancement level of the sacrificed item relative to the item being enhanced. The expected outcome is shown after selecting thecsacrifice item before enhancing.  
+
+Enhancement inheritance comes with a small chance of an excellent or poor outcome that will result in one extra or one less level of enhancement.
+
+You can inherit an enhancement level higher than an item can reach if its Strength or unification level is not high enough (see Unification below). If that is the expected level, the value will be shown as something like `5 (7!)`.  Upon increasing the item's unification strength to accommodate the higher level, the item's enhancement will automatically be increased. 
 
 ## ^^Unification^^
 
