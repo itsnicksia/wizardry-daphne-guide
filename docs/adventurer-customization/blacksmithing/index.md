@@ -43,6 +43,8 @@ Blacksmithing offers several methods for improving your weapons, armor and acces
  - Increases Enhancement Value up to a maximum of +20.
  - Increases Innate Attributes
  - At Enhancement Value +5, +10, +15 and +20, unlocks a new Blessing or improves an existing Blessing if one already exists in that slot.
+ - Enhancing beyond  +5, +10, and +15 requires unification (see below) to increase Strength of the item.
+ - All enhanements come with a small chance of producing and excellent or poor outcome resulting in one extra or one less level of enhancement.
 
 Requires **Gold** and **Iron Ore**.
 
@@ -59,7 +61,7 @@ Requires **Gold** and **Iron Ore**.
 
 <!--
 
-commenting this shit out until we have data lol this is so sad
+commenting this out until we have data lol this is so sad
 
 ### ^^Enhancement Values^^
 
@@ -74,17 +76,9 @@ commenting this shit out until we have data lol this is so sad
 
 ## ^^Refine^^
 
-Refining an item increases the value of a substat and requires a Refinement Stone for that attribute.
+Refining an item increases the value of a substat **Blessing** and requires a matching Refinement Stone of the same blessing to improve. Every blessing on an item can be refined, but only one refinement stone can be applied to each blessing.  Subsequent refinements replace previous refinements. Potential refinement range is shown prior to using the stone.
 
-Refinement bonuses are lost if used before enhancing to +5, +10, +15, or +20.
-
-For example, you can safely (without losing the refinement):
-- Refine substat 1 after upgrading an item to +5.
-- Refine substat 1 or 2 after upgrading an item to +10.
-- Refine substat 1, 2 or 3 after upgrading an item to +15.
-- Refine any substat after upgrading an item to +20.
-
-Requires a matching Refinement Stone of the **Blessing** to improve.
+As of version 1.12.0, refinement bonuses are retained if you enhance to a level that also enhances that atteibute. Previously, if refined before enhancing to +5, +10, +15, or +20, the enhancement would clear any refinement on the assocated substat, which depending on the values rolled could make attribute value appear to get worse on enhancement.
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.
 
@@ -92,7 +86,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 
 Extracting destroys an item, with a small chance of producing an Alteration Stone or Refinement Stone that can be used to modify or increase substats on items.
 
-The type of stone produced will be randomly selected from one of the substats on the item under extraction.
+The type of stone produced will be randomly selected from one of the substats on the item under extraction. The refinement/alteration values of the stones will be higher when produced from higher star-value items.
 
 Only weapons, armor and accessories can be extracted.
 
@@ -115,6 +109,8 @@ Alteration has some nuanced behavior to it.
 
 * Altering a slot after it reached its checkpoint will remove both the initial Blessing and any enhancements and refinements, leaving the slot with just the value provided by the Alteration Stone.
 
+* Any enhancement performed after alteration will improve belessing values a usual.
+
 ## ^^Enhancement Inheritance^^
 
 Enhancement Inheritance sacrifices an existing enhanced item to increase the enhancement value of another item.
@@ -122,6 +118,8 @@ Enhancement Inheritance sacrifices an existing enhanced item to increase the enh
 This only works for items of the same type (one-handed weapons to one-handed weapons, shoes to shoes, etc).
 
 This helps save gold + ore when changing to higher quality equipment when you have already enhanced your existing equipment.
+
+All enhancement comes with a small chance of and excellent or poor outcome that will result in one extra or one less level of enhancement.
 
 ## ^^Unification^^
 
