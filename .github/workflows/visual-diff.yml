@@ -29,7 +29,10 @@ jobs:
           python -m http.server 8000 --directory site &
           echo $! > server_pid.txt
 
-      - uses: microsoft/playwright-github-action@v1
+      - uses: actions/setup-node@v3
+        
+      - name: Install playwright browsers
+        run: npx playwright install --with-deps
 
       - name: Run visual tests
         run: npx playwright test
