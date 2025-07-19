@@ -24,9 +24,6 @@ jobs:
       - name: Build docs
         run: mkdocs build --site-dir site
 
-      - name: List published pages
-        run: mkdocs list --format json > pages.json
-
       - name: Serve docs
         run: |
           python -m http.server 8000 --directory site &
