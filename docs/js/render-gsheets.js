@@ -1,13 +1,18 @@
+const Sort = (table) => new TableSort(table);
+const Filter = (table) => addFilterPlugin(table);
+
 const trustSheet = {
     url: "https://docs.google.com/spreadsheets/d/1yZmJFzlspu45kUQmqfb-mBzlomwRYlaWUn_8ACECok8/gviz/tq?tqx=out:csv&sheet=Affinity%20Chart",
     containerElementId: "trust-chart",
-    columnRange: [1, 14]
+    columnRange: [1, 14],
+    plugins: [Sort, Filter]
 }
 
 const equipmentSheet = {
     url: "https://docs.google.com/spreadsheets/d/1XzlwOeuDjlFJ86zUrFtE2sO6J5AIdis0PM-nC7O0MQw/gviz/tq?tqx=out:csv&sheet=Drop%20Data",
     containerElementId: "equipment-drop-rates",
-    columnRange: [0, 9]
+    columnRange: [0, 9],
+    plugins: [Sort, Filter]
 }
 
 const decorators = (table) => {
@@ -16,11 +21,11 @@ const decorators = (table) => {
 };
 
 document$.subscribe(() => {
-    buildTableFromSheet(trustSheet, decorators);
-    buildTableFromSheet(equipmentSheet, decorators);
+    buildTableFromSheet(trustSheet);
+    buildTableFromSheet(equipmentSheet);
 });
 
-function buildTableFromSheet({containerElementId, url, columnRange}, onPostBuild) {
+function buildTableFromSheet({containerElementId, url, columnRange, plugins = []}) {
     const container = document.getElementById(containerElementId);
     if (!container) {
         return;
@@ -50,7 +55,8 @@ function buildTableFromSheet({containerElementId, url, columnRange}, onPostBuild
 
 
                 const table = container.querySelector("table");
-                onPostBuild(table);
+
+                plugins.forEach(plugin => plugin(table));
             }
         }
     );
