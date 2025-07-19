@@ -1,0 +1,47 @@
+name: Visual Diff
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    paths:
+      - "docs/**"
+      - "mkdocs.yml"
+      - "tests/**"
+      - ".github/workflows/visual.yml"
+
+jobs:
+  screenshots:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+      - name: Install MkDocs + theme
+        run: pip install -r requirements.txt
+
+      - name: Build docs
+        run: mkdocs build --site-dir site
+
+      - name: List published pages
+        run: mkdocs list --format json > pages.json
+
+      - name: Serve docs
+        run: |
+          python -m http.server 8000 --directory site &
+          echo $! > server_pid.txt
+
+      - uses: microsoft/playwright-github-action@v1
+
+      - name: Run visual tests
+        run: npx playwright test
+
+      - uses: reg-viz/reg-actions@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          image-directory-path: tests
+          disable-branch: true
+
+      - name: Stop web server
+        if: always()
+        run: kill $(cat server_pid.txt)
