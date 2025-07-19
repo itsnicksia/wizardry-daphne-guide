@@ -10,6 +10,7 @@ nav:
       - Weapon Types: './equipment/weapon-types.md'
       - Unique Equipment: './equipment/unique-equipment.md'
       - Equipment Drop Rates: './equipment/equipment-drop-rates.md'
+      - Equipment Attributes: './equipment/equipment-attributes.md'
   - Enemies: './enemy-compendium.md'
   - Harken's Blessings: './harkens-blessings.md'
   - Purchase Evaluation: './purchase-evaluation.md'
