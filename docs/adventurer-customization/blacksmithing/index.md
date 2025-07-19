@@ -118,7 +118,7 @@ This only works for items of the same type (one-handed weapons to one-handed wea
 
 This helps save gold + ore when changing to higher quality equipment when you have already enhanced your existing equipment.
 
-The resulting enhancement level will depend on the material and enhancement level of the sacrificed item relative to the item being enhanced. The expected outcome is shown after selecting thecsacrifice item before enhancing.  
+The resulting enhancement level will depend on the material and enhancement level of the sacrificed item relative to the item being enhanced. The expected outcome is shown after selecting the item to be sacrificed.
 
 Enhancement inheritance comes with a small chance of an excellent or poor outcome that will result in one extra or one less level of enhancement.
 
