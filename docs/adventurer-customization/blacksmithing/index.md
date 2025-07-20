@@ -2,7 +2,11 @@
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 
-![Image of an item highlighting innate attributes and Blessings](img/equipment.png)
+![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.png)
+
+## ^^Video Guide^^
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Nomenclature
 
@@ -12,10 +16,6 @@ Blacksmithing becomes available early in the game after your party enters the fi
 - Blessings - Item characteristic that provids an additional increase to to a single attribute. An item may have up to four blessings. Also referred to as sub-stats.
 - Grade - Item "color" which represents the number of Blessings a material has. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.  
 - Quality - "star" value of an item, which indicates how powerful Blessings on an item can be, ranging from 1 to 5 stars.
-
-## ^^Video Guide^^
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## ^^Enhance^^
  - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item.
