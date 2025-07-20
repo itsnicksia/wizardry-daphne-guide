@@ -64,7 +64,7 @@ The resulting enhancement level will depend on the material and enhancement leve
 
 Enhancement inheritance comes with a small chance of an excellent or poor outcome that will result in one extra or one less level of enhancement.
 
-You can inherit an enhancement level higher than an item can reach if its Strength (Unification level) is not high enough (see Unification below). When that is the expected level, the value will be shown as something like `+5 (+7!)`.  Upon increasing the item's unification Strength to accommodate the higher level, the item's enhancement level will automatically be increased. 
+You can inherit an enhancement level higher than an item can reach if its Strength (Unification level) is not high enough (see Unification below). When that is the expected level, the value will be shown as something like `+5 (+7)!`.  Upon increasing the item's unification Strength to accommodate the higher level, the item's enhancement level will automatically be increased. 
 
 ## ^^Default Equipment Blessings^^
 
