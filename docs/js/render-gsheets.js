@@ -83,7 +83,7 @@ function buildTableFromSheet_equip({containerElementId, url, columnRange, plugin
         {
             download: true,
             header: false,
-            preview = 100,
+            preview: 100,
             complete: ({ data, meta }) => {
                 let html = [
                     "<div class='md-typeset__scrollwrap'>",
