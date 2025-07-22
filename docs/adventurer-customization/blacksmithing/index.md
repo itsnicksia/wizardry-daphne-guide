@@ -16,6 +16,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 - Blessings - Item characteristic that provids an additional increase to to a single attribute. An item may have up to four blessings. Also referred to as sub-stats.
 - Grade - Item "color" which represents the number of Blessings a material has. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.  
 - Quality - "star" value of an item, which indicates how powerful Blessings on an item can be, ranging from 1 to 5 stars.
+- Traits - Additional characteristics or abilities of an item, that are often specific to item type (e.g., most Daggers have the "Nimble Strike" trait) or subgroup (e.g., Undead Bane weapons all have "Vs. Undead" traits).
 
 ## ^^Enhance^^
  - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item.
