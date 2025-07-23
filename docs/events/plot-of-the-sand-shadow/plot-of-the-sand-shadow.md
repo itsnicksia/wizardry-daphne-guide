@@ -48,7 +48,7 @@ Red -> Blue -> Green
 
 There are two parts for the Trial of the Heat Haze. 
 
-The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs and aren't very strong. If you are Evil Alignment, you will receive the guiding light at this point. However, if you are not, there will be a 2nd part to the trial.
+The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs. If you are Evil Alignment, you will receive the guiding light at this point. However, if you are not, there will be a 2nd part to the trial.
 
 !!! note "If you plan to bring a low level adventurer in here, keep in mind there is a mandatory spike trap at the end that will deal around 60-70 HP. It is recommended to accomodate for such."
 

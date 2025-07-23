@@ -36,6 +36,7 @@
 | <span class="blue">Blessing of Agility II</span>                   | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
 | <span class="blue">Blessing of Mana II</span>                      | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |
 | <span class="blue">Blessing of Od II</span>                        | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
+| <span class="blue">Blessing of Quarantine II</span>                | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
 | <span class="blue">Blessing of Rear Combat II</span>               | Harken's Blessing has increased your Surety, Magic Power, Divine Power, Magic Defense, and Action Speed.                                     |
 | <span class="blue">Demi-Human Hunter</span>                        | Harken's Blessing has increased the damage you do to demi-humans and reduced the damage you take.                                            |
 | <span class="blue">Demon Hunter</span>                             | Harken's Blessing has increased the damage you do to demons and, reduced the damage you take from them.                                      |

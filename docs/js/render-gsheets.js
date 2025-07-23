@@ -1,4 +1,4 @@
-const Sort = (table) => new TableSort(table);
+const Sort = (table) => new Tablesort(table);
 const Filter = (table) => addFilterPlugin(table);
 
 const trustSheet = {
@@ -27,12 +27,11 @@ const equipTableArmorSheet = {
     columnRange: [2, 59]
 }
 
-
 document$.subscribe(() => {
     buildTableFromSheet(trustSheet);
     buildTableFromSheet(equipmentSheet);
-    buildTableFromSheet(equipTableWeaponsSheet);
-    buildTableFromSheet(equipTableArmorSheet);
+    buildTableFromSheet_equip(equipTableWeaponsSheet);
+    buildTableFromSheet_equip(equipTableArmorSheet);
 });
 
 function buildTableFromSheet({containerElementId, url, columnRange, plugins = []}) {
@@ -59,6 +58,46 @@ function buildTableFromSheet({containerElementId, url, columnRange, plugins = []
                     html.push('<tr>');
                     row.slice(...columnRange).forEach(columnValue => html.push(`<td>${columnValue}</td>`));
                     html.push('</tr>');
+                });
+                html.push("</tbody></table></div></div>");
+                container.innerHTML = html.join("");
+
+
+                const table = container.querySelector("table");
+
+                plugins.forEach(plugin => plugin(table));
+            }
+        }
+    );
+}
+
+function buildTableFromSheet_equip({containerElementId, url, columnRange, plugins = []}) {
+    const container = document.getElementById(containerElementId);
+    if (!container) {
+        return;
+    }
+
+    Papa.parse(
+        url,
+        {
+            download: true,
+            header: false,
+            preview: 100,
+            complete: ({ data, meta }) => {
+                let html = [
+                    "<div class='md-typeset__scrollwrap'>",
+                    "<div class='md-typeset__table'>",
+                    "<table><thead><tr>"];
+                data.shift().slice(...columnRange).forEach(h => html.push(`<th>${h}</th>`));
+                html.push("</tr></thead><tbody>");
+
+                // rows
+                data.forEach((row, index) => {
+                    if (`${row[4]}`) {
+                        html.push('<tr>');
+                        row.slice(...columnRange).forEach(columnValue => html.push(`<td>${columnValue}</td>`));
+                        html.push('</tr>');
+                    }
                 });
                 html.push("</tbody></table></div></div>");
                 container.innerHTML = html.join("");
