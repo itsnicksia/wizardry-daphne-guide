@@ -110,7 +110,7 @@ HALITO,Damage,,Launches a fireball that deals minor fire spell damage to 1 enemy
 Heavy Attack,Active,True,Moderate physical attack with high Accuracy on 1 enemy.,Efficacy increased based on skill level. Probability and Defense Power increased further.,4,Fighter,,Gandolfo,
 Hiding,Active,True,Makes the user hidden and increases multiple abilities.,Multiple abilities increased further while Hidden cancellation rate decreased based on skill level.,9,Thief,Thief-specific,Viviana,
 Honest Living,Passive,,"Increases Tolerance of Curse, Skill-binding, and Fear for user and all adjacent good allies.",,,,,Olive,
-Hot-blooded Adventurer,Discipline,,Continuously increases each stat. Attack Power increased further.,Evasion and Poison Tolerance increased further based on skill level.,,,,Gaston,
+Hot-Blooded Adventurer,Discipline,,Continuously increases each stat. Attack Power increased further.,Evasion and Poison Tolerance increased further based on skill level.,,,,Gaston,
 Human Fighter Discipline,Discipline,,Continuously increases each stat. Attack Power increased further.,Attack Power increased further based on skill level.,,,,Human-Fig,
 Human Priest Discipline,Discipline,,"Continuously increases each stat, MP increased further.",MP increased further based on skill level.,,,,Human-Pri,
 Illusory Mist,Active,,"A misty vapor obscures enemy sight, with a high chance of reducing the Accuracy of all enemies for 2 turns.",Probability and Accuracy Rate decrease amount increased based on skill level.,9,Ninja,,,
