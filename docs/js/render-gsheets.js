@@ -1,34 +1,33 @@
-const Sort = (table) => new TableSort(table);
-const Filter = (table) => addFilterPlugin(table);
-
-const trustSheet = {
-    url: "https://docs.google.com/spreadsheets/d/1yZmJFzlspu45kUQmqfb-mBzlomwRYlaWUn_8ACECok8/gviz/tq?tqx=out:csv&sheet=Affinity%20Chart",
-    containerElementId: "trust-chart",
-    columnRange: [1, 14],
-    plugins: [Sort, Filter]
-}
-
-const equipmentSheet = {
-    url: "https://docs.google.com/spreadsheets/d/1XzlwOeuDjlFJ86zUrFtE2sO6J5AIdis0PM-nC7O0MQw/gviz/tq?tqx=out:csv&sheet=Drop%20Data",
-    containerElementId: "equipment-drop-rates",
-    columnRange: [0, 9],
-    plugins: [Sort, Filter]
-}
-
-const equipTableWeaponsSheet = {
-    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1651673786&single=true&output=csv",
-    containerElementId: "weapons-table-container",
-    columnRange: [2, 59]
-}
-
-const equipTableArmorSheet = {
-    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=139619551&single=true&output=csv",
-    containerElementId: "armor-table-container",
-    columnRange: [2, 59]
-}
-
-
 document$.subscribe(() => {
+    const Sort = (table) => new Tablesort(table);
+    const Filter = (table) => addFilterPlugin(table);
+
+    const trustSheet = {
+        url: "https://docs.google.com/spreadsheets/d/1yZmJFzlspu45kUQmqfb-mBzlomwRYlaWUn_8ACECok8/gviz/tq?tqx=out:csv&sheet=Affinity%20Chart",
+        containerElementId: "trust-chart",
+        columnRange: [1, 14],
+        plugins: [Sort, Filter]
+    }
+
+    const equipmentSheet = {
+        url: "https://docs.google.com/spreadsheets/d/1XzlwOeuDjlFJ86zUrFtE2sO6J5AIdis0PM-nC7O0MQw/gviz/tq?tqx=out:csv&sheet=Drop%20Data",
+        containerElementId: "equipment-drop-rates",
+        columnRange: [0, 9],
+        plugins: [Sort, Filter]
+    }
+
+    const equipTableWeaponsSheet = {
+        url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1651673786&single=true&output=csv",
+        containerElementId: "weapons-table-container",
+        columnRange: [2, 59]
+    }
+
+    const equipTableArmorSheet = {
+        url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=139619551&single=true&output=csv",
+        containerElementId: "armor-table-container",
+        columnRange: [2, 59]
+    }
+
     buildTableFromSheet(trustSheet);
     buildTableFromSheet(equipmentSheet);
     buildTableFromSheet(equipTableWeaponsSheet);
