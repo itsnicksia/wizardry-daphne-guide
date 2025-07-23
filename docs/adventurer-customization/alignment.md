@@ -40,4 +40,4 @@ Dishonourable, selfish, or unethical acts will shift your alignment towards **Ev
 
 ## How Long does it take to change Alignment?
 
-Alignment appears to exist on a continuum you can treat as being like a gauge or a point value.  In terms of Ambushes/Healing-items, you can treat each alignment block as about "15 points wide". If starting at 0 being the evilest that could ever be eviled, Neutral would be at around 15-16 "actions", and Good would be another 15-16 "actions" to be the goodest of goodies. This is the understanding of alignment as of now.
+Alignment appears to exist on a continuum you can treat as being like a gauge or a point value.  In terms of Ambushes/Healing-items, you can treat each alignment block as about "15 points wide". If starting at 0 being the evilest that could ever be eviled, Neutral would be at around 15-16 "actions", and Good would start at another 15-16 "actions", with being the goodest of goodies at ~45 "actions". This is the understanding of alignment as of now.
