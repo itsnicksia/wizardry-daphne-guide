@@ -19,12 +19,13 @@
 
 !!! info "Inheritable Skill"
     === "MAKALTU"
-        Generates an encompassing wall of Magic Power that increases the Defense Power of 1 row of allies for 3 turns. Defense Power incrementally increased further based on skill level. More turns added.
+        {{ get_skill_description('MAKALTU') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Miracle of Faith"
-        Increases Magic Defense when equipped with light armor.
+            {{ get_skill_description('Miracle of Faith') }}
 
 !!! info "Discipline Skill"
     === "Faith in the God of the Forge"
-        Continuously increases each stat, HP and Disarm Trap increased further.
+        {{ get_skill_description('Faith in the God of the Forge') }}
+

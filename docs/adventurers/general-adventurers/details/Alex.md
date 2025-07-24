@@ -19,13 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Stun Bash"
-        Moderate physical attack on 1 enemy. Chance to stun based on Defense Power. Efficacy and probability increased based on skill level.
-        <Close/mid-range weapon-specific/>
+        {{ get_skill_description("Stun Bash") }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Fire Formation"
-        Increases damage to air type enemies for user and adjacent fire type allies if there are at least 2 fire type allies adjacent to the user.
-
+        {{ get_skill_description("Fire Formation") }}
+        
 !!! info "Discipline Skill"
     === "Royal Knight Aspirant"
-        Continuously increases each stat, SP and Accuracy increased further.
+        {{ get_skill_description("Royal Knight Aspirant") }}

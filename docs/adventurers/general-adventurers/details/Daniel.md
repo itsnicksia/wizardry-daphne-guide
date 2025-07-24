@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "MACALDIA"
-        Expanded visibility of the area increases the Accuracy and Surety Rate of 1 ally row for 3 turns. Accuracy and Surety rate incrementally increased further based on skill level. More turns added.
-
+        {{ get_skill_description('MACALDIA') }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Water-Kin Blessing"
-        Reduces water type damage for humans in the same row.
-
+        {{ get_skill_description('Water-Kin Blessing') }}
+        
 !!! info "Discipline Skill"
     === "Strong and Gentle Priest"
-        Continuously increases each stat, Defense Power and Resistance increased further.
+        {{ get_skill_description('Strong and Gentle Priest') }}

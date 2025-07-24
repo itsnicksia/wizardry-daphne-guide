@@ -18,12 +18,12 @@
 
 !!! info "Inheritable Skill"
     === "Assault Guard"
-        Greatly increases Defense Power during ambushes for 2 turns. Defense Power incrementallly increased further based on skill level. More turns added.
-
+        {{ get_skill_description("Assault Guard") }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Wild Knight"
-        Continuously reduces the MP/SP cost of Knight spells/skills that cost 3-10 MP/SP.
-
+        {{ get_skill_description("Wild Knight") }}
+        
 !!! info "Discipline Skill"
     === "Defense of House Zart"
-        Continuously increases each stat, HP and Evade Trap increased further.
+        {{ get_skill_description("Defense of House Zart") }}

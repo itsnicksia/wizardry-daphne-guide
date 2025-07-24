@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Self-Healing"
-        Continuously restores own minor HP for 3 turns. Recovery amount increased based on skill level.
-
+        {{ get_skill_description('Self-Healing') }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Oath of Fortitude"
-        Increases Tolerance of Confusion, Charm, and Fear for user and all adjacent neutral allies.
-
+        {{ get_skill_description('Oath of Fortitude') }}
+        
 !!! info "Discipline Skill"
     === "Knight's Oath"
-        Continuously increases each stat, SP and Resistance increased further.
+        {{ get_skill_description("Knight's Oath") }}

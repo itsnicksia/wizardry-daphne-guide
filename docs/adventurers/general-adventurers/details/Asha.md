@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "KATINO"
-        Generates sleep-inducing fumes over a wide area which have a chance of putting 1 enemy row to Sleep. Probability increased while Sleep becomes harder to remove based on skill level.
-
+        {{ get_skill_description("KATINO") }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Compassionate Apothecary"
-        Increases Tolerance of Poison, Paralysis, and Stone for user and all adjacent good allies.
-
+        {{ get_skill_description("Compassionate Apothecary") }}
+        
 !!! info "Discipline Skill"
     === "Apothecary's Knowledge"
-        Continuously increases each stat, HP and Poison Tolerance increased further.
+        {{ get_skill_description("Apothecary's Knowledge") }}
