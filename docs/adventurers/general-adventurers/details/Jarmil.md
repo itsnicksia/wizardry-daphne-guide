@@ -16,12 +16,12 @@
 
 !!! info "Inheritable Skill"
     === "FERU"
-        Launches an orb of air that deals minor air spell damage to 1 enemy. Efficacy increased based on skill level.
+        {{ get_skill_description('FERU') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Air Formation"
-        Boost damage dealt to earth type enemies to self and adjacent air type allies when there are at least 2 air type allies adjacent to the user.
+        {{ get_skill_description('Air Formation') }}
 
 !!! info "Discipline Skill"
     === "Crafty Old Mage"
-        Continuously increases each stat. Magic Defense and Magic Power increased further.
+        {{ get_skill_description('Crafty Old Mage') }}

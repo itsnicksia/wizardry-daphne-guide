@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Passive Attack Power Up (Fighter)"
-        Continuously increases Attack Power. Attack Power increased further based on skill level.
+        {{ get_skill_description("Passive Attack Power Up (Fighter)") }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Gnawing Doubt"
-        Increases damage against demi-humans and decreases damage from demi-humans.
-
+        {{ get_skill_description('Gnawing Doubt') }}
+        
 !!! info "Discipline Skill"
     === "Hot-Blooded Adventurer"
-        Continuously increases each stat, Evasion and Poison Tolerance increased further.
+        {{ get_skill_description('Hot-Blooded Adventurer') }}

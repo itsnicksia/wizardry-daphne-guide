@@ -19,12 +19,13 @@
 
 !!! info "Inheritable Skill"
     === "Counterattack"
-        Chance to counter attack when evading a close-range attack (affected by Luck). <Close/mid-range weapon-specific\>. Probability increased based on skill level.
+        {{ get_skill_description('Counterattack') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Eye of the Hunter"
-        Increases damage and Accuracy against flying enemies.
+        {{ get_skill_description('Eye of the Hunter') }}
 
 !!! info "Discipline Skill"
     === "Way of the Field of Battle"
-        Continuously increases each stat, Evasion and Action Speed increased further.
+        {{ get_skill_description('Way of the Field of Battle') }}
+

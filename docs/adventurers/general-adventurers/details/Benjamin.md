@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Passive HP Up (Fighter)"
-        Continuously increases HP. HP increased further based on skill level.
-
+        {{ get_skill_description("Passive HP Up (Fighter)") }}
+        
 !!! info "Unique Skill (Not Inheritable)"
-    === "Planed Hunting"
-        Increases damage dealt to magical beast enemies and takes less damage from them.
-
+    === "Planned Hunting"
+        {{ get_skill_description("Planned Hunting") }}
+        
 !!! info "Discipline Skill"
     === "Strongest in the Village"
-        Continuously increases each stat, Attack Power and Defense increased further.
+        {{ get_skill_description("Strongest in the Village") }}
