@@ -19,12 +19,13 @@
 
 !!! info "Inheritable Skill"
     === "Will to Fight"
-        Increases Accuracy, Evasion, and Surety when HP is below a certain level. Accuracy, Evasion, and Surety increased further based on skill level.
+        {{ get_skill_description('Will to Fight') }}
+
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Honest Living"
-        Increases Tolerance of Curse, Skill-Binding, and Fear for user and all adjacent good allies.
-
+        {{ get_skill_description('Honest Living') }}
+        
 !!! info "Discipline Skill"
     === "Knowledge of Adventurers"
-        Continuously increases each stat, Attack Power and Detect increased further.
+        {{ get_skill_description('Knowledge of Adventurers') }}

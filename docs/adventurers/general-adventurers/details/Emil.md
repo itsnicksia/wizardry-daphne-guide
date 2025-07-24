@@ -9,7 +9,7 @@
 **Role**: Healing, Support, Damage
 
 ??? info "Portraits"
-    === "PPriest"
+    === "Priest"
         ![](../img/emil-priest.png)
 
     === "Mage"
@@ -18,12 +18,12 @@
 
 !!! info "Inheritable Skill"
     === "MADIOS"
-        Words of great blessing that restore minor HP to 1 ally row. Recovery amount increased based on skill level.
-
+        {{ get_skill_description('MADIOS') }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Light-Kin Blessing"
-        Reduces light type damage for elves in the same row.
-
+        {{ get_skill_description('Light-Kin Blessing') }}
+        
 !!! info "Discipline Skill"
     === "Pursuit of Prayer"
-        Continuously increases each stat, HP and Divine Power increased further.
+        {{ get_skill_description('Pursuit of Prayer') }}

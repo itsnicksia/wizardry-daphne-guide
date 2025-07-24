@@ -18,13 +18,13 @@
 ## Skills
 
 !!! info "Inheritable Skill"
-    === "Treasure Trp Detection Skill"
-        Continuously increases Trap Detection rate. Trap detection rate increased further based on skill level.
-
+    === "Treasure Trap Detection Skill"
+        {{ get_skill_description("Treasure Trap Detection Skill") }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Earth-Kin Blessing"
-        Reduces earth type damage for dwarves in the same row.
-
+        {{ get_skill_description("Earth-Kin Blessing") }}
+        
 !!! info "Discipline Skill"
     === "Talented Trapsmith"
-        Continuously increases each stat, Disarm Trap and Evade Trap increased further.
+        {{ get_skill_description("Talented Trapsmith") }}

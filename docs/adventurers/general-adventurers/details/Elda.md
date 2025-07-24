@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Follow-Up Attack"
-        Chance to increase Attack Rate during normal attacks (affected by luck). Probability increased based on skill level.
+        {{ get_skill_description('Follow-Up Attack') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Dark-Kin Blessing"
-        Reduces dark type damage for elves in the same row.
-
+        {{ get_skill_description('Dark-Kin Blessing') }}
+        
 !!! info "Discipline Skill"
     === "Cold-Blooded Elf"
-        Continuously increases each stat, Surety and Sleep Tolerance increased further.
+        {{ get_skill_description('Cold-Blooded Elf') }}

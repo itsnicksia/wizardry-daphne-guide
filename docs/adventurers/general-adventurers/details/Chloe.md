@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Warrior's Battle Cry"
-        Increases own Attack Power and decreases Defense Power for 4 turns. Attack Power increased further based on skill level.
+        {{ get_skill_description("Warrior's Battle Cry") }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Interpersonal Combat Technique"
-        Increases damage against adventurers and decreases damage from adventurers.
-
+        {{ get_skill_description("Interpersonal Combat Technique") }}
+        
 !!! info "Discipline Skill"
     === "Practical Self-Defense"
-        Continuously increases each stat, SP and Resistance increased further.
+        {{ get_skill_description("Practical Self-Defense") }}

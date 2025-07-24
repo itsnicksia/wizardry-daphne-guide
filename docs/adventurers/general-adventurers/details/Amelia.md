@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Stealth"
-        Continuously increases Initiative rate. Initiative rate increased futher based on skill level.
-
+        {{ get_skill_description("Stealth") }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Air-Kin Blessing"
-        Reduces air type damage for beastfolk in the same row.
-
+        {{ get_skill_description("Air-Kin Blessing") }}
+        
 !!! info "Discipline Skill"
     === "Nose for Treasure"
-        Continuously increases each stat, Disarm Trap and Detect increased further.
+        {{ get_skill_description("Nose for Treasure") }}

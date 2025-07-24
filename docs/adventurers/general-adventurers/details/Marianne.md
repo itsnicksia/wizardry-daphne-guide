@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "LATUMOFIS"
-        Words of prayer that cure 1 ally of Poison. Resistance Up, Critical Poison recovery, and HP recovery incrementally added based on skill level. Increased Resistance, area of effect, and recovery amount.
-
+        {{ get_skill_description('LATUMOFIS') }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Frugal Faith"
-        Continuously reduces the MP/SP cost of Priest spells/skills that cost 3-10 MP/SP.
-
+        {{ get_skill_description('Frugal Faith') }}
+        
 !!! info "Discipline Skill"
     === "Salvation through Wealth"
-        Continuously increases each stat, MP and Curse Tolerance increased further.
+        {{ get_skill_description('Salvation through Wealth') }}

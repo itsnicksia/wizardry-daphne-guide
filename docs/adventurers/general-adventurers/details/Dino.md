@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "MONTINO"
-        Silence over a wide area envelopes 1 enemy row with a chance of Spell-binding them. Probability increased based on skill level.
+        {{ get_skill_description('MONTINO') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Magical Being Knowledge"
-        Increases damage against magical beings and decreases damage from magical beings.
-
+        {{ get_skill_description('Magical Being Knowledge') }}
+        
 !!! info "Discipline Skill"
     === "Unstoppable Curiosity"
-        Continuously increases each stat, Detect and Fear Tolerance increased further.
+        {{ get_skill_description('Unstoppable Curiosity') }}

@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Armor Pierce"
-        Minor physical attack on 1 enemy. Greatly penetrates Defense Power. Efficacy increased while Defense Power further bypassed based on skill level.
-
+        {{ get_skill_description('Armor Pierce') }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Shadowy Alignment"
-        Increases Evasion when equipped with a dagger or throwing weapon.
-
+        {{ get_skill_description('Shadowy Alignment') }}
+        
 !!! info "Discipline Skill"
     === "Tradition in Shadows"
-        Continuously increases each stat, Accuracy and Evasion increased further.
+        {{ get_skill_description('Tradition in Shadows') }}

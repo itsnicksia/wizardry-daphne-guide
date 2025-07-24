@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Cover"
-        Chance to intercept single-target attacks directed at 1 designated ally for 2 turns. Defense Power Up incrementally added based on skill level. Probability and Defense Power increased further. More turns added.
-
+        {{ get_skill_description('Cover') }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Nameless Loyalty"
-        Increases Tolerance of Sleep and Stun for user and all adjacent good allies.
-
+        {{ get_skill_description('Nameless Loyalty') }}
+        
 !!! info "Discipline Skill"
     === "Solid Devotion"
-        Continuously increases each stat, Magic Defense and Stun Tolerance increased further.
+        {{ get_skill_description('Solid Devotion') }}

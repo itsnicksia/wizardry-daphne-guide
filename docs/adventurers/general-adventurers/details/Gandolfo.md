@@ -19,12 +19,12 @@
 
 !!! info "Inheritable Skill"
     === "Heavy Attack"
-        Moderate physical attack with high Accuracy on 1 enemy. Efficacy increased based on skill level.
-
+        {{ get_skill_description('Heavy Attack') }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Guard Experience"
-        Continuously reduces the MP/SP cost of Fighter spells/skills that cost 3-10 MP/SP.
-
+        {{ get_skill_description('Guard Experience') }}
+        
 !!! info "Discipline Skill"
     === "Weaponmaster"
-        Continuously increases each stat, Accuracy and Surety increased further.
+        {{ get_skill_description('Weaponmaster') }}

@@ -22,21 +22,21 @@
 
 !!! info "Inheritable Skill"
     === "MIGAL"
-        Launches an orb of water that deals minor water spell damage to 1 enemy. Efficacy increased based on skill level.
+        {{ get_skill_description('MIGAL') }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Water Formation (Standard)"
-        Increases damage to fire type enemies for user and adjacent water type allies if there are at least 2 water type allies adjacent to the user.
+        {{ get_skill_description('Water Formation') }}
 
     === "Grace of the Great Tree (Mage of the Silent Night)"
-        Increases Magic Power and Magic Defense when equipped with a two-handed staff.
-
+        {{ get_skill_description('Grace of the Great Tree') }}
+        
 !!! info "Discipline Skill"
     === "Young Spell Prodigy (Standard)"
-        Continuously increases each stat, MP and Magic Power increased further.
+        {{ get_skill_description('Young Spell Prodigy') }}
 
     === "Gift of Spell Genius (Mage of the Silent Night)"
-        Continuously increases each stat, MP greatly increased in particular.
+        {{ get_skill_description('Gift of Spell Genius') }}
 
 ## Adventurer Reviews
 

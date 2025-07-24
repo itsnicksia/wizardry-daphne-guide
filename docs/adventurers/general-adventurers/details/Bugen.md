@@ -16,12 +16,12 @@
 
 !!! info "Inheritable Skill"
     === "Decisive Torso Strike"
-        Moderate physical attack with very high Accuracy on 1 enemy.
-
+        {{ get_skill_description("Decisive Torso Strike") }}
+        
 !!! info "Unique Skill (Not Inheritable)"
     === "Superior Principles"
-        Further increases damage dealt when attacking with an element type that the target is weak against.
-
+        {{ get_skill_description("Superior Principles") }}
+        
 !!! info "Discipline Skill"
     === "Fulfillment of Loyalty"
-        Continuously increases each stat, with HP and Attack Power increased even further.
+        {{ get_skill_description("Fulfillment of Loyalty") }}
