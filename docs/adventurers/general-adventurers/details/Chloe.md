@@ -21,6 +21,10 @@
     === "Warrior's Battle Cry"
         {{ get_skill_description("Warrior's Battle Cry") }}
 
+!!! info "Potential Inherit"
+    === "Passive Accuracy Up (Fighter)"
+        {{ get_skill_description("Passive Accuracy Up (Fighter)") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Interpersonal Combat Technique"
         {{ get_skill_description("Interpersonal Combat Technique") }}
