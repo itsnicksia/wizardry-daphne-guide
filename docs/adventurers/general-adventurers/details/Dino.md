@@ -21,6 +21,10 @@
     === "MONTINO"
         {{ get_skill_description('MONTINO') }}
 
+!!! info "Potential Inherit"
+    === "BALAFEOS"
+        {{ get_skill_description("BALAFEOS") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Magical Being Knowledge"
         {{ get_skill_description('Magical Being Knowledge') }}
