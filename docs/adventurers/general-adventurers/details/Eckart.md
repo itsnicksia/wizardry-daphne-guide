@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Attract Hit"
         {{ get_skill_description('Attract Hit') }}
-        
+
+!!! info "Potential Inherit"
+    === "Defensive Provoke"
+        {{ get_skill_description("Defensive Provoke") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Eyes of a Hero"
         {{ get_skill_description('Eyes of a Hero') }}
