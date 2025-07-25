@@ -41,7 +41,7 @@ Keep in mind unique adventurer classes that are "mages" can enter such as Iaruma
     - The Scorpion Lady herself has around 2-3k HP. When she reaches a certain HP Threshold, she will instantly cast her charge skill, which can be evaded.
 
 ??? danger "Advanced Boss Fight Tips"
-    - This fight consists of a Pixie and a Chimera. The Pixie has 2-3k HP. The Chimera has 5-6k HP. When the Pixie dies, the Chimera gains a permanent ATK UP and ACC Up buff.
+    - This fight consists of a Pixie and a Chimera. The Pixie has 2-3k HP. The Chimera has 5-6k HP. When the Pixie dies, the Chimera gains a permanent ATK UP and ACC Up buff. If the Chimera is killed first, the Pixie will spam Charm on your team.
     - At a certain HP threshold, the Chimera will cast an attack that hits extremely hard (over 700) when it has the ATK UP buff.
     - At a certain HP threshold, the Chimera will buff again?
 
