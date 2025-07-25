@@ -20,6 +20,10 @@
 !!! info "Inheritable Skill"
     === "Self-Healing"
         {{ get_skill_description('Self-Healing') }}
+
+!!! info "Potential Inherit"
+    === "Self-Defense"
+        {{ get_skill_description("Self-Defense") }}
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Oath of Fortitude"

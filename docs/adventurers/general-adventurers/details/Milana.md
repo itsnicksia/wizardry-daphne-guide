@@ -21,6 +21,10 @@
     === "Poison Attack"
         {{ get_skill_description('Poison Attack') }}
 
+!!! info "Potential Inherit"
+    === "Sneak Attack"
+        {{ get_skill_description("Sneak Attack") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Mutual Interests"
         {{ get_skill_description('Mutual Interests') }}

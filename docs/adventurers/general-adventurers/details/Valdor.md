@@ -21,6 +21,10 @@
     === "MAKALTU"
         {{ get_skill_description('MAKALTU') }}
 
+!!! info "Potential Inherit"
+    === "KINAPIC"
+        {{ get_skill_description("KINAPIC") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Miracle of Faith"
             {{ get_skill_description('Miracle of Faith') }}

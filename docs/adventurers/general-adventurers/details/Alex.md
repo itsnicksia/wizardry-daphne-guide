@@ -21,6 +21,10 @@
     === "Stun Bash"
         {{ get_skill_description("Stun Bash") }}
 
+!!! info "Potential Inherit"
+    === "Way of the Knight"
+        {{ get_skill_description("Way of the Knight") }}      
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Fire Formation"
         {{ get_skill_description("Fire Formation") }}

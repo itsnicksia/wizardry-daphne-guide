@@ -21,6 +21,10 @@
     === "Counterattack"
         {{ get_skill_description('Counterattack') }}
 
+!!! info "Potential Inherit"
+    === "Way of the Warrior"
+        {{ get_skill_description("Way of the Warrior") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Eye of the Hunter"
         {{ get_skill_description('Eye of the Hunter') }}

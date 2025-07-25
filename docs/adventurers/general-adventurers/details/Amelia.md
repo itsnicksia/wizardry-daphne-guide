@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Stealth"
         {{ get_skill_description("Stealth") }}
-        
+
+!!! info "Potential Inherit"
+    === "Blinding"
+        {{ get_skill_description("Blinding") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Air-Kin Blessing"
         {{ get_skill_description("Air-Kin Blessing") }}

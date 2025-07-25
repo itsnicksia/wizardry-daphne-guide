@@ -18,6 +18,10 @@
     === "FERU"
         {{ get_skill_description('FERU') }}
 
+!!! info "Potential Inherit"
+    === "MAFERU"
+        {{ get_skill_description("MAFERU") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Air Formation"
         {{ get_skill_description('Air Formation') }}
