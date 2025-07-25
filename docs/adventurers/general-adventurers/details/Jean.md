@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Treasure Trap Disarm Skill"
         {{ get_skill_description('Treasure Trap Disarm Skill') }}
-        
+
+!!! info "Potential Inherit"
+    === "Passive Evasion Up (Thief)"
+        {{ get_skill_description("Passive Evasion Up (Thief)") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Earth Formation"
         {{ get_skill_description('Earth Formation') }}
