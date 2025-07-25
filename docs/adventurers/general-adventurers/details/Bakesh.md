@@ -21,7 +21,7 @@
     === "Treasure Trap Detection Skill"
         {{ get_skill_description("Treasure Trap Detection Skill") }}
 
-!!! info "Inheritable Skill"
+!!! info "Potential Inherit"
     === "Passive Action Speed Up (Thief)"
         {{ get_skill_description("Passive Action Speed Up (Thief)") }}        
 
