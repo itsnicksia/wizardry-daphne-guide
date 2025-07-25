@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "DIOS"
         {{ get_skill_description('DIOS') }}
-        
+
+!!! info "Potential Inherit"
+    === "KUSFIS"
+        {{ get_skill_description("KUSFIS") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Faith of the Wicked"
         {{ get_skill_description('Faith of the Wicked') }}
