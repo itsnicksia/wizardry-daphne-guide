@@ -17,7 +17,11 @@
 !!! info "Inheritable Skill"
     === "Decisive Torso Strike"
         {{ get_skill_description("Decisive Torso Strike") }}
-        
+
+!!! info "Potential Inherit"
+    === "Back-against-the-Water Formation"
+        {{ get_skill_description("Back-against-the-Water Formation") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Superior Principles"
         {{ get_skill_description("Superior Principles") }}
