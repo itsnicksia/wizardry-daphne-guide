@@ -24,6 +24,10 @@
     === "MIGAL"
         {{ get_skill_description('MIGAL') }}
 
+!!! info "Potential Inherit"
+    === "MAMIGAL"
+        {{ get_skill_description("MAMIGAL") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Water Formation (Standard)"
         {{ get_skill_description('Water Formation') }}
