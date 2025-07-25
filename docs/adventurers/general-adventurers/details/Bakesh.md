@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Treasure Trap Detection Skill"
         {{ get_skill_description("Treasure Trap Detection Skill") }}
-        
+
+!!! info "Inheritable Skill"
+    === "Passive Action Speed Up (Thief)"
+        {{ get_skill_description("Passive Action Speed Up (Thief)") }}        
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Earth-Kin Blessing"
         {{ get_skill_description("Earth-Kin Blessing") }}
