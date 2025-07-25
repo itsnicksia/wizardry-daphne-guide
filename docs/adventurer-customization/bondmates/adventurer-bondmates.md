@@ -22,15 +22,17 @@
 | ---------- | ------------------- |
 | Abenius    |                     |
 | Adam       |                     |
+| Aldric     |                     |
 | Alex       | VIT                 |
 | Alice      |                     |
 | Amelia     | SPD                 |
 | Asha       | IQ                  |
 | Bakesh     | DEX                 |
 | Barbara    | STR                 |
-| Benjamin   | STR                 |
 | Beast-Thi  | DEX                 |
+| Benjamin   | STR                 |
 | Berkanan   | STR                 |
+| Bugen      |                     |
 | Chloe      | STR                 |
 | Clarissa   | STR                 |
 | Daniel     | STR                 |
@@ -53,6 +55,7 @@
 | Gerulf     | STR                 |
 | Human-Fig  | STR                 |
 | Human-Pri  | PIE                 |
+| Human-Nin  |                     |
 | Iarumas    | IQ                  |
 | Jarmil     | IQ                  |
 | Jean       | DEX                 |
@@ -66,6 +69,8 @@
 | Red Beard  |                     |
 | Rinne      |                     |
 | Savia      |                     |
-| Viviana    | SPD                 |
+| Shelirionach |                     |
+| Shiou      | STR                 |
 | Valdor     | IQ                  |
+| Viviana    | SPD                 |
 | Yekatarina | IQ                  |
