@@ -21,6 +21,10 @@
     === "Delay Attack"
         {{ get_skill_description('Delay Attack') }}
 
+!!! info "Potential Inherit"
+    === "Cunning Pursuit"
+        {{ get_skill_description("Cunning Pursuit") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Presence of Mind"
         {{ get_skill_description('Presence of Mind') }}
