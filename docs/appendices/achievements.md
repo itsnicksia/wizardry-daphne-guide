@@ -207,6 +207,8 @@
 
     | Name                                        | Description                                         |
     | ------------------------------------------- | --------------------------------------------------- |
+    | Acknowledged Fighter                        | Complete all fighter trials.                        |
+    | The Chosen Mage                             | Complete all mage trials.                           |
     | All Harkens Unlocked - Beginning Abyss      | Unlock all the Harkens in the Beginning Abyss.      |
     | All Harkens Unlocked - Trade Waterway       | Unlock all the Harkens in the Trade Waterway.       |
     | All Harkens Unlocked - Impregnable Fortress | Unlock all the Harkens in the Impregnable Fortress. |
