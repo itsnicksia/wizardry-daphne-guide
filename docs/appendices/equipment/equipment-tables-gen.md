@@ -1,11 +1,88 @@
-# Equipment Tables
+## Equipment Tables
 
 These tables are generated from the [Wizardry Variants Equipment Table (editable)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit).
 
-## Weapons Table 
+## Weapons Table
+=== "Daggers"
+   {{ get_equip_table_formatted("weapon", "Dagger") | convert_to_md_table | add_indentation(spaces=4) }}
 
-<div id="weapons-table-container">Loading…</div>
+=== "1-Handed Swords"
+   {{ get_equip_table_formatted("weapon", "1H_Sword") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "2-Handed Swords"
+   {{ get_equip_table_formatted("weapon", "2H_Sword") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "1-Handed Axes"
+   {{ get_equip_table_formatted("weapon", "1H_Axe") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "2-Handed Axes"
+   {{ get_equip_table_formatted("weapon", "2H_Axe") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "1-Handed Maces"
+   {{ get_equip_table_formatted("weapon", "1H_Mace") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "2-Handed Maces"
+   {{ get_equip_table_formatted("weapon", "2H_Mace") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "1-Handed Staffs"
+   {{ get_equip_table_formatted("weapon", "1H_Staff") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "2-Handed Staffs"
+   {{ get_equip_table_formatted("weapon", "2H_Staff") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "2-Handed Spears"
+   {{ get_equip_table_formatted("weapon", "2H_Spear") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Bows"
+   {{ get_equip_table_formatted("weapon", "Bow") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Samurai Katana"
+   {{ get_equip_table_formatted("weapon", "Sam_Katana") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Ninja Katana"
+   {{ get_equip_table_formatted("weapon", "Ninja_Katana") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Ninja Throwing Weapons"
+   {{ get_equip_table_formatted("weapon", "Ninja_Throw") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Tools"
+   {{ get_equip_table_formatted("weapon", "Tool") | convert_to_md_table | add_indentation(spaces=4) }}
 
 ## Armor Table
 
-<div id="armor-table-container">Loading…</div>
+=== "Head"
+   {{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Shield"
+   {{get_equip_table_formatted("armor", "Shield") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Feet"
+   {{get_equip_table_formatted("armor", "Feet") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Hands"
+   {{get_equip_table_formatted("armor", "Hands") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Body"
+   {{get_equip_table_formatted("armor", "Body") | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Accessories"
+   {{get_equip_table_formatted("armor", "Accessories") | convert_to_md_table | add_indentation(spaces=4) }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

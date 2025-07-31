@@ -35,3 +35,91 @@ def define_env(env):
             results['Name'] = results.apply(linkify, axis=1)
 
         return results[return_columns]
+        
+    @env.macro
+    def get_equip_table_quicklist(armor_or_weapon, itemtype):
+        equipcols = range(2,59)
+        eqdata = pd_read_csv(f'./data/{armor_or_weapon}.csv',
+                              usecols=equipcols, 
+                              dtype='str',
+                              skip_blank_lines=True)
+        eqdata = eqdata.fillna('')
+        results = eqdata
+        return results
+
+    @env.macro
+    def get_equip_table_formatted(armor_or_weapon, itemtype):
+        equipcols = range(2,60) # skip first two columns just used for spreadsheet to create csv
+
+        # read google sheet csv. all elements processed as strings for display
+        # and ignore any blank lines between sections.
+        eqdata = pd_read_csv(f'./data/{armor_or_weapon}.csv',
+                              usecols=equipcols,
+                              dtype='str', 
+                              skip_blank_lines=True,
+                              index_col=False)
+
+        # trim dataframe to only the type requested
+        eqdata.drop(eqdata[eqdata['Type'] != itemtype].index, inplace=True)
+
+        # drop any lines from item section without an actual item
+        eqdata.dropna(subset = ['ItemName'], inplace = True)        
+        
+        # blank any empty cells
+        eqdata.fillna('', inplace = True) 
+
+        # drop all but requested type
+        eqdata.drop(eqdata.iloc[:,0:1],axis=1, inplace = True) 
+
+        # name the id column for later use keeping things sorted
+        eqdata.index.name = 'itemnumber'
+        itemcount = len(eqdata.index)
+      
+        # Get headers from the dataframe
+        headers_to_use = eqdata.iloc[:,:16].columns  #Index object    
+        html_headers = pd.DataFrame(headers_to_use).T.to_html(index=False, header=False)
+
+        # get titles, details, and attribdata 
+        unstackedcols = ['CompendiumNumber', 'ItemName', 'Effects/Special']
+        
+        if armor_or_weapon == "weapon":
+            stackedcols = ['Rank', '#Attacks', '$Buy', '$Sell']        
+        else:
+            stackedcols = ['Rank', 'ArmorType', '$Buy', '$Sell']        
+
+        attribnames = ['ATK', 'MAG', 'DIV', 'DEF', 'MDEF',
+                       'ASPD', 'ACC', 'SUR', 'EVA', 'RES']
+
+        rename_cols = ['TEMP0', 'TEMP5', 'TEMP10', 'TEMP15']
+
+        eqdata.rename(columns=dict(zip(stackedcols, rename_cols)), inplace=True)
+  
+        attribnames = ['TEMP'] + attribnames
+        
+        eqdata.reset_index(inplace=True)
+        eqdata = pd.wide_to_long(eqdata, attribnames, i='itemnumber', j='Enhance Level', suffix='\d+')
+        itemrows = eqdata.index.get_level_values(1).nunique()
+        eqdata.sort_index(level ='itemnumber', sort_remaining = True, inplace=True)
+        eqdata.reset_index(inplace=True)
+        eqdata = eqdata[unstackedcols[:2] + attribnames[:1]+['Enhance Level'] + attribnames[1:] + unstackedcols[2:]]
+
+        # blank the duplicate title and effects cells in unstackedcols
+        for n in range (1, itemcount+1, 1):
+            eqdata.loc[1+5*(n-1) : 4+5*(n-1), unstackedcols] = ''
+
+        # change title of stacked column
+        eqdata.rename(columns={'TEMP': 'Rank<br># of Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
+
+        # insert black spacer rows
+        if itemcount > 1:
+            for n in range(itemrows*(itemcount-1), 0, -itemrows):
+                blank_row = pd.DataFrame({col: None for col in eqdata.columns}, index=[n])
+                eqdata = pd.concat([eqdata.iloc[:n], blank_row, eqdata.iloc[n:]])#.reset_index(drop=True)
+               
+            eqdata.reset_index(drop=True, inplace=True)
+
+        # blank any empty cells
+        eqdata.fillna('', inplace = True) 
+        
+
+        return eqdata#.to_html(index=False)
