@@ -21,6 +21,10 @@
     === "Passive Attack Power Up (Fighter)"
         {{ get_skill_description("Passive Attack Power Up (Fighter)") }}
 
+!!! info "Potential Inherit"
+    === "Immortal Strike"
+        {{ get_skill_description("Immortal Strike") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Gnawing Doubt"
         {{ get_skill_description('Gnawing Doubt') }}

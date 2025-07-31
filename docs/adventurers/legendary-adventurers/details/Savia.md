@@ -11,6 +11,9 @@
 ??? info "Portraits"
     === "Knight"
         ![](../img/savia-knight.jpg)
+        
+    === "Thief"
+        ![](../img/savia-thief.jpg)
 
 
 ## Skills

@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "LATUMOFIS"
         {{ get_skill_description('LATUMOFIS') }}
-        
+
+!!! info "Potential Inherit"
+    === "Way of the Priest"
+        {{ get_skill_description("Way of the Priest") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Frugal Faith"
         {{ get_skill_description('Frugal Faith') }}

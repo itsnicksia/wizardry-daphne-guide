@@ -21,6 +21,9 @@
     === "Will to Fight"
         {{ get_skill_description('Will to Fight') }}
 
+!!! info "Potential Inherit"
+    === "Immortal Strike"
+        {{ get_skill_description("Immortal Strike") }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Honest Living"

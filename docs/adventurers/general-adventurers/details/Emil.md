@@ -19,6 +19,10 @@
 !!! info "Inheritable Skill"
     === "MADIOS"
         {{ get_skill_description('MADIOS') }}
+
+!!! info "Potential Inherit"
+    === "DIALKO"
+        {{ get_skill_description("DIALKO") }}
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Light-Kin Blessing"

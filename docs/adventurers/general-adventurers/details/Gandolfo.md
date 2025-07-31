@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Heavy Attack"
         {{ get_skill_description('Heavy Attack') }}
-        
+
+!!! info "Potential Inherit"
+    === "Way of the Warrior"
+        {{ get_skill_description("Way of the Warrior") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Guard Experience"
         {{ get_skill_description('Guard Experience') }}

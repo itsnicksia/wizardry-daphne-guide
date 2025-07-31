@@ -21,6 +21,10 @@
     === "Hiding"
         {{ get_skill_description('Hiding') }}
 
+!!! info "Potential Inherit"
+    === "Passive Surety Up (Thief)"
+        {{ get_skill_description("Passive Surety Up (Thief)") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Sidestep"
         {{ get_skill_description('Sidestep') }}

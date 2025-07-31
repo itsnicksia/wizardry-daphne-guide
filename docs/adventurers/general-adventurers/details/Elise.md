@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Armor Break"
         {{ get_skill_description('Armor Break') }}
-        
+
+!!! info "Potential Inherit"
+    === "Wild Strike"
+        {{ get_skill_description("Wild Strike") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Impartial Collaborator"
         {{ get_skill_description('Impartial Collaborator') }}

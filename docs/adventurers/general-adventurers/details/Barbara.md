@@ -19,7 +19,11 @@
 !!! info "Inheritable Skill"
     === "Assault Guard"
         {{ get_skill_description("Assault Guard") }}
-        
+
+!!! info "Potential Inherit"
+    === "Passive Magic Defense Up (Knight)"
+        {{ get_skill_description("Passive Magic Defense Up (Knight)") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Wild Knight"
         {{ get_skill_description("Wild Knight") }}

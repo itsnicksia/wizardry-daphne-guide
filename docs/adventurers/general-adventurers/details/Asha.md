@@ -21,6 +21,10 @@
     === "KATINO"
         {{ get_skill_description("KATINO") }}
         
+!!! info "Potential Inherit"
+    === "BATILGREF"
+        {{ get_skill_description("BATILGREF") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Compassionate Apothecary"
         {{ get_skill_description("Compassionate Apothecary") }}

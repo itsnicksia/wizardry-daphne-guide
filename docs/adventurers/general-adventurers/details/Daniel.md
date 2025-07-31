@@ -20,6 +20,10 @@
 !!! info "Inheritable Skill"
     === "MACALDIA"
         {{ get_skill_description('MACALDIA') }}
+
+!!! info "Potential Inherit"
+    === "ABIT"
+        {{ get_skill_description("ABIT") }}
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Water-Kin Blessing"

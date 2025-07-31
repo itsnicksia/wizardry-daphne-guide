@@ -20,6 +20,10 @@
 !!! info "Inheritable Skill"
     === "Passive HP Up (Fighter)"
         {{ get_skill_description("Passive HP Up (Fighter)") }}
+
+!!! info "Potential Inherit"
+    === "Wild Strike"
+        {{ get_skill_description("Wild Strike") }}
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Planned Hunting"

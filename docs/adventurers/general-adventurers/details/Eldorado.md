@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Cover"
         {{ get_skill_description('Cover') }}
-        
+
+!!! info "Potential Inherit"
+    === "All Cover"
+        {{ get_skill_description("All Cover") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Nameless Loyalty"
         {{ get_skill_description('Nameless Loyalty') }}

@@ -18,54 +18,60 @@
     * This means that at most, you can only get up to +5 on a attribute from an adventurer bondmate. This severely limits the appeal of dismissing adventurers for bondmates, with the most common practical application of it being for speed tuning purposes.
 * Contrary to regular bondmates, there is no additional bonus when attaching an adventurer bondmate to a hero of the same element.
 
-| Bondmate   | Increased Attribute |
-| ---------- | ------------------- |
-| Abenius    |                     |
-| Adam       |                     |
-| Alex       | VIT                 |
-| Alice      |                     |
-| Amelia     | SPD                 |
-| Asha       | IQ                  |
-| Bakesh     | DEX                 |
-| Barbara    | STR                 |
-| Benjamin   | STR                 |
-| Beast-Thi  | DEX                 |
-| Berkanan   | STR                 |
-| Chloe      | STR                 |
-| Clarissa   | STR                 |
-| Daniel     | STR                 |
-| Debra      | SPD                 |
-| Dino       | IQ                  |
-| Dwarf-Kni  | VIT                 |
-| Eckhart    | VIT                 |
-| Elda       | STR                 |
-| Eldorado   | VIT                 |
-| Elf-Mag    | IQ                  |
-| Elf-Pri    | PIE                 |
-| Elise      | STR                 |
-| Emil       | PIE                 |
-| Eulalia    | VIT                 |
-| Flut       | IQ                  |
-| Galina     | PIE                 |
-| Gandolfo   | STR                 |
-| Gaston     | STR                 |
-| Gerard     | VIT                 |
-| Gerulf     | STR                 |
-| Human-Fig  | STR                 |
-| Human-Pri  | PIE                 |
-| Iarumas    | IQ                  |
-| Jarmil     | IQ                  |
-| Jean       | DEX                 |
-| Kiriha     | DEX                 |
-| Lanaville  | VIT                 |
-| Marianne   | PIE                 |
-| Milana     | DEX                 |
-| Olive      | VIT                 |
-| Ophelia    | STR                 |
-| Phillip    | SPD                 |
-| Red Beard  |                     |
-| Rinne      |                     |
-| Savia      |                     |
-| Viviana    | SPD                 |
-| Valdor     | IQ                  |
-| Yekatarina | IQ                  |
+| Bondmate     | Increased Attribute |
+| ------------ | ------------------- |
+| Abenius      |                     |
+| Adam         |                     |
+| Aldric       | DEX                 |
+| Alex         | VIT                 |
+| Alice        |                     |
+| Amelia       | SPD                 |
+| Arboris      |                     |
+| Asha         | IQ                  |
+| Bakesh       | DEX                 |
+| Barbara      | STR                 |
+| Beast-Thi    | DEX                 |
+| Benjamin     | STR                 |
+| Berkanan     | STR                 |
+| Bugen        |                     |
+| Chloe        | STR                 |
+| Clarissa     | STR                 |
+| Daniel       | STR                 |
+| Debra        | SPD                 |
+| Dino         | IQ                  |
+| Dwarf-Kni    | VIT                 |
+| Eckhart      | VIT                 |
+| Elda         | STR                 |
+| Eldorado     | VIT                 |
+| Elf-Mag      | IQ                  |
+| Elf-Pri      | PIE                 |
+| Elise        | STR                 |
+| Emil         | PIE                 |
+| Eulalia      | VIT                 |
+| Flut         | IQ                  |
+| Galina       | PIE                 |
+| Gandolfo     | STR                 |
+| Gaston       | STR                 |
+| Gerard       | VIT                 |
+| Gerulf       | STR                 |
+| Human-Fig    | STR                 |
+| Human-Nin    | SPD                 |
+| Human-Pri    | PIE                 |
+| Iarumas      | IQ                  |
+| Jarmil       | IQ                  |
+| Jean         | DEX                 |
+| Kiriha       | DEX                 |
+| Lanaville    | VIT                 |
+| Marianne     | PIE                 |
+| Milana       | DEX                 |
+| Olive        | VIT                 |
+| Ophelia      | STR                 |
+| Phillip      | SPD                 |
+| Red Beard    |                     |
+| Rinne        |                     |
+| Savia        |                     |
+| Shelirionach |                     |
+| Shiou        | STR                 |
+| Valdor       | IQ                  |
+| Viviana      | SPD                 |
+| Yekatarina   | IQ                  |

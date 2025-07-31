@@ -20,7 +20,11 @@
 !!! info "Inheritable Skill"
     === "Armor Pierce"
         {{ get_skill_description('Armor Pierce') }}
-        
+
+!!! info "Potential Inherit"
+    === "Wild Throw"
+        {{ get_skill_description("Wild Throw") }}
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Shadowy Alignment"
         {{ get_skill_description('Shadowy Alignment') }}
