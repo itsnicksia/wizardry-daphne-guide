@@ -3,6 +3,8 @@ The tables below contain attributes for the various weapons and armor found in t
 
 The data is exported from the Google Sheet [Wizardry Variants Equipment Table (publicly editable)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit).  Please contribute your data to the document!
 
+If the table does not display correctly, try the [embedded version](./equipment-tables-embed.md).
+
 ## Weapons Table
 === "Daggers"
    {{ get_equip_table_formatted("weapon", "Dagger") | convert_to_md_table | add_indentation(spaces=4) }}
