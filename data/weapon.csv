@@ -1,4 +1,4 @@
-StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK0,MAG0,DIV0,DEF0,MDEF0,ASPD0,ACC0,SUR0,EVA0,RES0,ATK5,MAG5,DIV5,DEF5,MDEF5,ASPD5,ACC5,SUR5,EVA5,RES5,ATK10,MAG10,DIV10,DEF10,MDEF10,ASPD10,ACC10,SUR10,EVA10,RES10,ATK15,MAG15,DIV15,DEF15,MDEF15,ASPD15,ACC15,SUR15,EVA15,RES15,ATK20,MAG20,DIV20,DEF20,MDEF20,ASPD20,ACC20,SUR20,EVA20,RES20,Effects/Special
+StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Price,Sell Price,ATK0,MAG0,DIV0,DEF0,MDEF0,ASPD0,ACC0,SUR0,EVA0,RES0,ATK5,MAG5,DIV5,DEF5,MDEF5,ASPD5,ACC5,SUR5,EVA5,RES5,ATK10,MAG10,DIV10,DEF10,MDEF10,ASPD10,ACC10,SUR10,EVA10,RES10,ATK15,MAG15,DIV15,DEF15,MDEF15,ASPD15,ACC15,SUR15,EVA15,RES15,ATK20,MAG20,DIV20,DEF20,MDEF20,ASPD20,ACC20,SUR20,EVA20,RES20,Traits / Special Effects
 2,Dagger!A2,Dagger,,Worn-Out Dagger,Worn,2,,,8,0,0,0,0,4,15,0,2,0,13,0,0,0,0,4,15,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nimble Strike
 8,Dagger!A8,Dagger,12,Bronze Dagger,Bronze,2,375,60,16,0,0,0,0,4,15,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nimble Strike
 14,Dagger!A14,Dagger,56,Dagger of Undead Bane,Bronze,2,,75,17,0,0,0,0,4,15,0,2,0,,,,,,,,,,,32,0,0,0,0,4,15,0,2,0,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Vs Undead"
@@ -10,10 +10,10 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 50,Dagger!A50,Dagger,139,Dagger of the Soil,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Earth Type"
 56,Dagger!A56,Dagger,,Ebonsteel Dagger,Ebonsteel,2,,,45,0,0,0,0,4,15,0,2,0,60,0,0,0,0,4,15,0,2,0,75,0,0,0,0,4,15,0,2,0,90,0,0,0,0,4,15,0,2,0,105,0,0,0,0,4,15,0,2,0,Nimble Strike
 62,Dagger!A62,Dagger,,Demonbane Dagger,Ebonsteel,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,0,0,0,0,4,15,0,2,0,"Nimble Strike, Demon Slayer"
-68,Dagger!A68,Dagger,,Red Camellia,Ebonsteel,2,,,44,0,0,0,0,5,15,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nimble Strike
+68,Dagger!A68,Dagger,Ex.,Red Camellia,Ebonsteel,2,,,44,0,0,0,0,5,15,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nimble Strike
 74,Dagger!A74,Dagger,,Raven Dagger,,3,,,20,0,0,0,0,10,15,0,2,0,,,,,,,,,,,50,0,0,0,0,10,15,0,2,0,65,0,0,0,0,10,15,0,2,0,,,,,,,,,,,"Nimble Strike, Air Type"
 80,Dagger!A80,Dagger,,Azure Songstress,,2,,,,,,,,,,,,,,,,,,,,,,,55,81,0,0,0,0,30,0,0,0,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Inflict Charm, I.Q. Barrier"
-86,Dagger!A86,Dagger,,Dagger of Expulsion,,2,,,,,,,,,,,,,,,,,,,,,,,73,0,0,0,0,4,15,0,2,0,88,0,0,0,0,4,15,0,2,0,,,,,,,,,,,"Nimble Strike, Vs Undead"
+86,Dagger!A86,Dagger,,Dagger of Expulsion,,2,,,,,,,,,,,,,,,,,,,,,,,73,0,0,0,0,4,15,0,2,0,88,0,0,0,0,4,15,0,2,0,103,0,0,0,0,4,15,0,2,0,"Nimble Strike, Vs Undead"
 92,Dagger!A92,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,Dagger!A98,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,Dagger!A104,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -26,7 +26,7 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 146,Dagger!A146,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,1H_Sword!A2,1H_Sword,13,Worn-Out Sword,Worn,2,,20,10,0,0,0,0,0,10,0,2,0,15,0,0,0,0,0,10,0,2,0,,,,,,,,,,,25,0,0,0,0,0,10,0,2,0,,,,,,,,,,,
-8,1H_Sword!A8,1H_Sword,13,Bronze Sword,Bronze,2,500,80,20,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,1H_Sword!A8,1H_Sword,13,Bronze Sword,Bronze,2,500,80,20,0,0,0,0,0,10,0,2,0,28,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14,1H_Sword!A14,1H_Sword,57,Sword of Undead Bane,Bronze,2,,100,20,0,0,0,0,0,10,0,2,0,30,0,0,0,0,0,10,0,2,0,37,0,0,0,0,0,10,0,2,0,45,0,0,0,0,0,10,0,2,0,,,,,,,,,,,Vs Undead
 20,1H_Sword!A20,1H_Sword,24,Iron Sword,Iron,2,1500,240,30,0,0,0,0,0,10,0,2,0,,,,,,,,,,,50,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,
 26,1H_Sword!A26,1H_Sword,71,Royal Knight's Sword,Iron,2,7500,1500,32,0,0,0,0,0,10,0,2,0,,,,,,,,,,,52,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,
@@ -36,10 +36,10 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 50,1H_Sword!A50,1H_Sword,140,Sword of the Soil,Steel,2,,600,38,0,0,0,0,0,10,0,2,0,51,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Earth Type
 56,1H_Sword!A56,1H_Sword,,Ebonsteel Sword,Ebonsteel,2,,,53,0,0,0,0,0,10,0,2,0,68,0,0,0,0,0,10,0,2,0,83,0,0,0,0,0,10,0,2,0,98,0,0,0,0,0,10,0,2,0,113,0,0,0,0,0,10,0,2,0,
 62,1H_Sword!A62,1H_Sword,,Sword of Expulsion,Ebonsteel,2,,,52,0,0,0,0,0,10,0,2,0,,,,,,,,,,,82,0,0,0,0,0,10,0,2,0,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Vs. Undead
-68,1H_Sword!A68,1H_Sword,,Sword of Slashing,Ebonsteel,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,0,0,0,0,0,10,0,2,0,,,,,,,,,,,Defense Penetration
+68,1H_Sword!A68,1H_Sword,Ex.,Sword of Slashing,Ebonsteel,2,,,,,,,,,,,,,65,0,0,0,0,0,10,0,2,0,,,,,,,,,,,95,0,0,0,0,0,10,0,2,0,110,0,0,0,0,0,10,0,2,0,Defense Penetration
 74,1H_Sword!A74,1H_Sword,,Demonbane Sword,Ebonsteel,2,,,52,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Demon Slayer
 80,1H_Sword!A80,1H_Sword,,Thunder God's Sword,Ebonsteel,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,110,0,0,0,0,9,10,0,2,0,
-86,1H_Sword!A86,1H_Sword,,Blade Cuisinart,Steel,3,,,,,,,,,,,,,,,,,,,,,,,70,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,
+86,1H_Sword!A86,1H_Sword,Ex.,Blade Cuisinart,Steel,3,,,40,0,0,0,0,0,10,0,2,0,55,0,0,0,0,0,10,0,2,0,70,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,
 92,1H_Sword!A92,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,1H_Sword!A98,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,1H_Sword!A104,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -60,7 +60,7 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 38,2H_Sword!A38,2H_Sword,,Ebonsteel Greatsword,Ebonsteel,1,,,110,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 44,2H_Sword!A44,2H_Sword,,Greatsword of Expulsion,Ebonsteel,1,,,105,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Vs Undead"
 50,2H_Sword!A50,2H_Sword,,Demonbane Greatsword,Ebonsteel,1,,,,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Demon Slayer"
-56,2H_Sword!A56,2H_Sword,,Dragon Slayer,Ebonsteel,1,,,106,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,151,0,0,0,0,-4,6,0,-2,0,174,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,"Strength-Based +, Dragon Slayer, Dragon Tolerance"
+56,2H_Sword!A56,2H_Sword,,Dragon Slayer,Ebonsteel,1,,,106,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,151,0,0,0,0,-4,6,0,-2,0,174,0,0,0,0,-4,6,0,-2,0,196,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dragon Slayer, Dragon Tolerance"
 62,2H_Sword!A62,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 68,2H_Sword!A68,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 74,2H_Sword!A74,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -139,7 +139,7 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 44,1H_Mace!A44,1H_Mace,,Warmace of the Water Drop,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Water Type"
 50,1H_Mace!A50,1H_Mace,,Mace of Power,Ebonsteel,1,,,64,0,0,0,0,-1,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun (Divine Power), Evasion Damage"
 56,1H_Mace!A56,1H_Mace,,Mace of Tumult,Ebonsteel,1,,,72,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Inflict Confusion"
-62,1H_Mace!A62,1H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,1H_Mace!A62,1H_Mace,Ex.,Mace of Pounding,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 68,1H_Mace!A68,1H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 74,1H_Mace!A74,1H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 80,1H_Mace!A80,1H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -187,7 +187,7 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 20,2H_Spear!A20,2H_Spear,28,Iron Two-Handed Spear,Iron,,1950,312,50,0,0,0,0,0,10,0,4,0,,,,,,,,,,,80,0,0,0,0,0,10,0,4,0,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 26,2H_Spear!A26,2H_Spear,39,Steel Two-Handed Spear,Steel,1,,624,63,0,0,0,0,0,10,0,4,0,,,,,,,,,,,,,,,,,,,,,118,0,0,0,0,0,10,0,4,0,138,0,0,0,0,0,10,0,4,0,Strength-Based +
 32,2H_Spear!A32,2H_Spear,83,Trident,Steel,1,19500,3900,65,0,0,0,0,0,10,10,4,0,83,0,0,0,0,0,10,12,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
-38,2H_Spear!A38,2H_Spear,144,Heavy Spear of the Soil,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Earth Type"
+38,2H_Spear!A38,2H_Spear,144,Heavy Spear of the Soil,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,,,,,,,,,,,95,0,0,0,0,0,10,0,4,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Earth Type"
 44,2H_Spear!A44,2H_Spear,,Ebonsteel Two-Handed Spear,Ebonsteel,1,,,95,0,0,0,0,0,10,0,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,185,0,0,0,0,0,10,0,4,0,Strength-Based +
 50,2H_Spear!A50,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 56,2H_Spear!A56,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -207,14 +207,14 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 140,2H_Spear!A140,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Spear!A146,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,1H_Staff!A2,1H_Staff,,Worn-Out Staff,Worn,1,,18,8,3,3,0,0,0,0,0,2,0,14,9,9,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,1H_Staff!A2,1H_Staff,,Worn-Out Staff,"Worn, Ebonsteel",1,,18,8,3,3,0,0,0,0,0,2,0,14,9,9,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8,1H_Staff!A8,1H_Staff,20,Hardwood Staff,Bronze,1,350,56,10,8,8,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14,1H_Staff!A14,1H_Staff,66,Twisted Staff,Bronze,1,,70,10,8,8,0,0,0,0,0,2,0,19,17,17,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 20,1H_Staff!A20,1H_Staff,31,Old Wood Staff,Iron,1,1050,168,13,20,20,0,0,0,0,0,2,0,22,29,29,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26,1H_Staff!A26,1H_Staff,42,Sacred Wood Staff,Steel,1,,336,16,32,32,0,0,0,0,0,2,0,30,46,46,0,0,0,0,0,2,0,43,59,59,0,0,0,0,0,2,0,57,73,73,0,0,0,0,0,2,0,,,,,,,,,,,
 32,1H_Staff!A32,1H_Staff,80,Holy Staff of the Millenial Tree,Steel,1,10500,420,16,32,32,0,0,0,0,0,2,16,30,46,46,0,0,0,0,0,2,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38,1H_Staff!A38,1H_Staff,,Staff of Weakness,,1,,,11,51,51,-1,-1,-1,0,0,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Attack Power Decrease
-44,1H_Staff!A44,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,1H_Staff!A38,1H_Staff,,Staff of Weakness,,1,,,11,51,51,-1,-1,-1,0,0,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,76,116,116,-1,-1,-1,0,0,3,0,Attack Power Decrease
+44,1H_Staff!A44,1H_Staff,,Arcane Rod,,1,,,22,53,53,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50,1H_Staff!A50,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 56,1H_Staff!A56,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 62,1H_Staff!A62,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -239,11 +239,11 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 20,2H_Staff!A20,2H_Staff,43,Sacred Wood Two-Handed Staff,Steel,1,,576,25,60,60,0,0,0,0,0,-4,0,43,78,78,0,0,0,0,0,-4,0,61,96,96,0,0,0,0,0,-4,0,,,,,,,,,,,100,135,135,0,0,0,0,0,-4,0,Strength-Based +
 26,2H_Staff!A26,2H_Staff,85,Spiritual Staff,Steel,1,,720,30,65,0,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 32,2H_Staff!A32,2H_Staff,86,Holy Wand,Steel,1,,720,30,0,65,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
-38,2H_Staff!A38,2H_Staff,,Two-Handed Wreath Saff,Steel,1,,,,,,,,,,,,,43,88,88,0,0,-4,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, I.Q. Barrier"
+38,2H_Staff!A38,2H_Staff,Ex.,Two-Handed Wreath Saff,Steel,1,,,,,,,,,,,,,43,88,88,0,0,-4,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, I.Q. Barrier"
 44,2H_Staff!A44,2H_Staff,,Arcane Saff,Ebonsteel,1,,,33,90,90,0,0,0,0,0,-4,0,,,,,,,,,,,78,135,135,0,0,0,0,0,-4,0,101,158,158,0,0,0,0,0,-4,0,123,180,180,0,0,0,0,0,-4,0,Strength-Based +
-50,2H_Staff!A50,2H_Staff,,Staff of Reverie,Ebonsteel,1,,,30,99,50,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, MP Cost Reduction"
-56,2H_Staff!A56,2H_Staff,,Two-Handed Staff of Compassion,,1,,,18,40,95,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Holy Light of Healing"
-62,2H_Staff!A62,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,2H_Staff!A50,2H_Staff,,Studly Staff,Ebonsteel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,123,180,180,15,15,0,0,0,-4,0,Strength-Based +
+56,2H_Staff!A56,2H_Staff,,Staff of Reverie,Ebonsteel,1,,,30,99,50,0,0,0,0,0,-4,0,,,,,,,,,,,75,144,95,0,0,0,0,0,-4,0,98,167,118,0,0,0,0,0,-4,0,,,,,,,,,,,"Strength-Based +, MP Cost Reduction"
+62,2H_Staff!A62,2H_Staff,,Two-Handed Staff of Compassion,,1,,,18,40,95,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Holy Light of Healing"
 68,2H_Staff!A68,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 74,2H_Staff!A74,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 80,2H_Staff!A80,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -311,10 +311,10 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 140,Sam_Katana!A140,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,Sam_Katana!A146,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Ninja_Katana!A2,Ninja_Katana,,Phantom Shadow Blade,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,Ninja_Katana!A8,Ninja_Katana,,Shadowrunner Blade,Iron,1,,,67,0,0,-1,-1,1,0,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
+2,Ninja_Katana!A2,Ninja_Katana,,Lower Ninja Blade,Bronze,1,,,32,0,0,-1,-1,1,0,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
+8,Ninja_Katana!A8,Ninja_Katana,173,Shadowrunner Blade,Iron,1,,,67,0,0,-1,-1,1,0,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
 14,Ninja_Katana!A14,Ninja_Katana,,Covert Blade,,1,,,30,0,0,0,0,0,-6,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,Ninja_Katana!A20,Ninja_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Ninja_Katana!A20,Ninja_Katana,,Phantom Shadow Blade,Steel,1,,,105,0,0,-1,-1,1,0,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26,Ninja_Katana!A26,Ninja_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32,Ninja_Katana!A32,Ninja_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38,Ninja_Katana!A38,Ninja_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -338,9 +338,9 @@ StartingRow,StartLoc,Type,CompendiumNumber,ItemName,Rank,#Attacks,$Buy,$Sell,ATK
 146,Ninja_Katana!A146,Ninja_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Ninja_Throw!A2,Ninja_Throw,,Kunai,,,,,30,0,0,0,0,0,-6,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,Ninja_Throw!A8,Ninja_Throw,,Phantom Shadow Kunai,,,,,30,0,0,-1,-1,0,-6,1,0,0,,,,,,,,,,,50,0,0,-1,-1,0,-6,1,0,0,60,0,0,-1,-1,0,-6,1,0,0,,,,,,,,,,,
+8,Ninja_Throw!A8,Ninja_Throw,,Phantom Shadow Kunai,,,,,30,0,0,-1,-1,0,-6,1,0,0,40,0,0,-1,-1,0,-6,1,0,0,50,0,0,-1,-1,0,-6,1,0,0,60,0,0,-1,-1,0,-6,1,0,0,70,0,0,-1,-1,0,-6,1,0,0,
 14,Ninja_Throw!A14,Ninja_Throw,,Covert Kunai,,,,,40,0,0,-1,-1,0,-5,2,0,0,55,0,0,-1,-1,0,-5,2,0,0,70,0,0,-1,-1,0,-5,2,0,0,85,0,0,-1,-1,0,-5,2,0,0,100,0,0,-1,-1,0,-5,2,0,0,
-20,Ninja_Throw!A20,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Ninja_Throw!A20,Ninja_Throw,175,Shadowrunner Kunai,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26,Ninja_Throw!A26,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32,Ninja_Throw!A32,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38,Ninja_Throw!A38,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
