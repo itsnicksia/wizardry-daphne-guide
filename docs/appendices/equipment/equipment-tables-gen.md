@@ -1,4 +1,4 @@
-## Equipment Tables
+# Equipment Tables
 
 The tables below are exported from the [Wizardry Variants Equipment Table (publicly editable)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit).
 
