@@ -38,7 +38,7 @@ def define_env(env):
         
     @env.macro
     def get_equip_table_quicklist(armor_or_weapon, itemtype):
-        equipcols = range(2,59)
+        equipcols = range(2,60)
         eqdata = pd_read_csv(f'./data/{armor_or_weapon}.csv',
                               usecols=equipcols, 
                               dtype='str',
@@ -63,7 +63,7 @@ def define_env(env):
         eqdata.drop(eqdata[eqdata['Type'] != itemtype].index, inplace=True)
 
         # drop any lines from item section without an actual item
-        eqdata.dropna(subset = ['ItemName'], inplace = True)        
+        eqdata.dropna(subset = ['Item Name'], inplace = True)        
         
         # blank any empty cells
         eqdata.fillna('', inplace = True) 
@@ -80,12 +80,12 @@ def define_env(env):
         html_headers = pd.DataFrame(headers_to_use).T.to_html(index=False, header=False)
 
         # get titles, details, and attribdata 
-        unstackedcols = ['CompendiumNumber', 'ItemName', 'Effects/Special']
+        unstackedcols = ['Compendium Number', 'Item Name', 'Traits / Special Effects']
         
         if armor_or_weapon == "weapon":
-            stackedcols = ['Rank', '#Attacks', '$Buy', '$Sell']        
+            stackedcols = ['Rank', '# of Attacks', 'Buy Price', 'Sell Price']        
         else:
-            stackedcols = ['Rank', 'ArmorType', '$Buy', '$Sell']        
+            stackedcols = ['Rank', 'Armor Type', 'Buy Price', 'Sell Price']        
 
         attribnames = ['ATK', 'MAG', 'DIV', 'DEF', 'MDEF',
                        'ASPD', 'ACC', 'SUR', 'EVA', 'RES']

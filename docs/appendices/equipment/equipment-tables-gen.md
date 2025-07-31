@@ -1,6 +1,7 @@
-## Equipment Tables
+# Equipment Tables
+The tables below contain attributes for the various weapons and armor found in the game as well as how those attributes improve with enhancement.  
 
-These tables are generated from the [Wizardry Variants Equipment Table (editable)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit).
+The data is exported from the Google Sheet [Wizardry Variants Equipment Table (publicly editable)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit).  Please contribute your data to the document!
 
 ## Weapons Table
 === "Daggers"
