@@ -110,11 +110,11 @@ def define_env(env):
         # change title of stacked column
         eqdata.rename(columns={'TEMP': 'Rank<br># of Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
 
-        # insert black spacer rows
+        # insert blank spacer rows
         if itemcount > 1:
             for n in range(itemrows*(itemcount-1), 0, -itemrows):
                 blank_row = pd.DataFrame({col: None for col in eqdata.columns}, index=[n])
-                eqdata = pd.concat([eqdata.iloc[:n], blank_row, eqdata.iloc[n:]])#.reset_index(drop=True)
+                eqdata = pd.concat([eqdata.iloc[:n], blank_row, eqdata.iloc[n:]])
                
             eqdata.reset_index(drop=True, inplace=True)
 
@@ -122,4 +122,4 @@ def define_env(env):
         eqdata.fillna('', inplace = True) 
         
 
-        return eqdata#.to_html(index=False)
+        return eqdata
