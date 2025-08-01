@@ -8,6 +8,7 @@ nav:
   - Dispatches: './dispatches.md'
   - Equipment:
       - Weapon Types: './equipment/weapon-types.md'
+      - Equipment Tables: './equipment/equipment-tables.md'
       - Unique Equipment: './equipment/unique-equipment.md'
       - Equipment Drop Rates: './equipment/equipment-drop-rates.md'
   - Enemies: './enemy-compendium.md'
