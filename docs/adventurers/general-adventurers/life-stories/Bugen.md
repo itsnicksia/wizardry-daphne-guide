@@ -1,4 +1,6 @@
 ### Page 1
+Ina distant land far to the east dwell warriors who wield a weapon known as the katana. Those who do battle in service to their lord are called samurai...
+
 The young Bugen heard such tales from a wayfaring dwarf and grew up aspiring to the way of life of those known as samurai.
 
 A magnificent lord, and himself, a paragon of unwavering loyalty. Determined not to let it end as a mere dream, the grown Bugen became an adventurer and set his sights on the East.
