@@ -1,41 +1,34 @@
 ### Page 1
+The young Bugen heard such tales from a wayfaring dwarf and grew up aspiring to the way of life of those known as samurai.
 
-Benjamin was raised in a mining village in the southern part of the continent, bordering a remote forest.
+A magnificent lord, and himself, a paragon of unwavering loyalty. Determined not to let it end as a mere dream, the grown Bugen became an adventurer and set his sights on the East.
 
-This was a region where harm from vermin and monsters was common, and his father was not only a craftsman, but a warrior respected for his bravery.
+The journey toward that dream was fraught with hardship. By sheer fate, he discovered a dojo founded by a samurai who was said to once have joined a party with dwarves as an adventurer, and it was there he gained a mentor in swordsmanship. Bugen endured the long and grueling days of training without a single word of complaint, and grew into a fully fledged swordsman.
 
-But one day, while out playing, Benjamin was attacked by an enormous monster known as the Lord of the Mountain.
-
-His father, axe in hand, stood alone before the monster to defend his son, somehow managing to drive the monster back into the mountains.
-
-But the injuries sustained during battle eventually took his father's life.
+However, mastering the sword was but a mere waystone upon the path to his true goal. Following the connections of those who had trained at the same dojo, Bugen traveled far and wide, lowering his gaze in respectful supplication until, at long last, he found a noble house willing to enlist dwarves as foot soldiers.
 
 ### Page 2
 
-While the entire village grieved, Benjamin was in shock, realizing that his father, whom he thought was invincible, was dead because of him.
+His life was one of poverty, and without taking on side work beyond the duties imposed by his superiors, he could scarcely make ends meet. Even owning a katana or proper armor proved beyond his means; each time he marched into battle, he was obliged to borrow a full set from his lord's house.
 
-He lost control of himself, often growing violent.
+Nevertheless, Bugen continued his training in silence. On the battlefield, he was ever sent to the frontmost lines, pledging his loyalty to a lord glimpsed only from afar amid the chaos of battle.
 
-The head blacksmith of the village scolded the unruly boy as hard as he could, while the old lady who lived next door lent him a friendly ear and comfort him with soothing words.
+Still, however one might risk their life, without a truly extraordinary feat, a lord would cast no eye upon a common soldier.
 
-Blood ties run strong in dwarven settlements. The adults around Benjamin patiently watched over him, aware of his situation and yearning for the memory of his brave father.
+"It is my strength that is lacking. I must be of greater service."
+
+In victory's wake, as common soldiers, denied sufficient spoils, turned to setting homes ablaze and plundering. Bugen turned his back on their savagery. Alone, he chastised his own inadequacy and returned to his arduous training.
 
 ### Page 3
 
-As the years went by, Benjamin slowly began to cool down. He began to channel his unfocused passion into training to fight and quickly rose to prominence. By the time he came of age, he had become a taciturn but well-liked figure, taking on village security and hard-to-hand combat training, just as his father had done. 
+Eventually, a great war unlike any before erupted. As ever, Bugen was sent to the vanguard, where he fought with fervent resolve. He came to the aid of his brethren, claimed many heads, and waded relentlessly through enemy forces.
 
-Benjamin was deeply grateful to the villagers who had overlooked his misdeeds and watched over him, and he wanted to protect them.
+Yet, however great his deeds, they were never given the same weight as those of a human samurai. The honors were stolen by the samurai generals, and as the tide of battle turned irrevocably toward defeat, Bugen was commanded to serve as rearguard.  It was tantamount to being told to die.
 
-So one day, Benjamin approached the head of the dwarven hearth for permission to destroy the Lord of the Mountain. Once his plan was approved, Benjamin and the villagers spent several years researching the Lord of the Mountain’s territory and how his behavior changed with the seasons.
+All that remained were peasant soldiers with no battle in their bones. Bugen saw to their escape, then stood alone upon the battlefield.
 
-The blacksmiths and craftsmen worked together to build an especially sturdy trap, and all the able-bodied men of the village worked together to finally defeat the lord of the Mountain once and for all.
+"I am a samurai. To die for my lord is the forge-fire of my heart."
 
-### Page 4
+Bugen stood firm before the advancing enemy host, katana held at the ready, and declared himself.
 
-The long-standing threat vanquished, the village was alive with festivity. Benjamin was celebrated by the villagers, lauded as the son of the village’s greatest warrior.
-
-But it was through the efforts of everyone in the village that the Lord of the Mountain was defeated, not by Benjamin alone.  What was more, Benjamin had lost a friend in the battle. Although everyone assured him that his lost friend would be happy for him, he blamed himself, wishing he had been stronger.
-
-And so, Benjamin decided to leave the village. He thought to go to the outside world and train himself.
-
-“I’ll be back,” was his short but determined farewell message as he set off from his village.
+Then, before Bugen, the enemy's advance came to a halt. From among their ranks, a young warrior clad in resplendent armor strode forward and fixed his unwavering gaze upon Bugen, who stood alone to face him.
