@@ -34,3 +34,21 @@ All that remained were peasant soldiers with no battle in their bones. Bugen saw
 Bugen stood firm before the advancing enemy host, katana held at the ready, and declared himself.
 
 Then, before Bugen, the enemy's advance came to a halt. From among their ranks, a young warrior clad in resplendent armor strode forward and fixed his unwavering gaze upon Bugen, who stood alone to face him.
+
+### Page 4
+
+The young warrior inquired of Bugen, "Who might you be?"
+
+"Bugen. By my lord's command, I cannot allow you to pass."  "Ordered to die, yet you see your loyalty throught to its fulfillment.  My enemy, I salute you."
+
+The young warrior drew his katana, and Bugen stoically closed his eyes.  But the death for which he had steeled himself did not come.  The young warrior's blade merely sundered the skin of Bugen's neck.
+
+"The one you were until now is dead.  You are to walk a new life now."
+
+Jus then, a messenger appeared informing them that Bugen's lord had fallen in defeat.  The young warrior addressed Bugen, who stood still as a stone, bereft of words. "My heart has been stirred by the loyalty of my lord.  Will you not come come to my banner?"
+
+"I shall serve wholeheartedly..."
+
+Bugen found himself kneeling, unbidden, as if by instinct. The anguish of failing to protect his liege pierced deep into his heart.  Yet it was that very pain that steeled his resolve to safeguard the young warrior who had shown a heart of true compassion.
+
+It is said that Bugen served his new lord with unwavering loyalty until the end of his days.
