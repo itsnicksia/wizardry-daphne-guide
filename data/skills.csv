@@ -162,7 +162,7 @@ MAKALTU,Support,True,Generates an encompassing wall of Magic Power that increase
 MAKANITO,Damage,,Fouls the air with a chance of suffocating 1 enemy row. More effective against low-level targets.,Probability increased based on skill level.,51,Mage,,,
 MAMIGAL,Damage,True,Launches a torrent of water that deals minor water spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,,,Flut
 MAREIN,Damage,,A radiance of mourning for the dead shines down on the undead in 1 enemy row with a chance to obliterate them based on the user's Divine Power.,Probability increased based on skill level.,15,Priest,,,
-MASOLOTU,Support,,Conjures an apparition that increases the Evasion and of 1 ally row for 3 turns.,Evasion incrementally increased further based on skill level. More turns added.,3,Priest,,,
+MASOLOTU,Support,,Conjures an apparition that increases the Evasion of 1 ally row for 3 turns.,Evasion incrementally increased further based on skill level. More turns added.,3,Priest,,,
 Master of the Hunt,Discipline,,"Continuously increases each stat, Attack Power and Action Speed increased further.",Attack Power and Action Speed increased further based on skill level.,,,,Philip,
 MAZELOS,Damage,,Launches an orb of immense spite that deals minor dark spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,,,
 Mel the Thief's Trap Decipher,Passive,,Continuously increases Disarm Trap.,Disarm Trap increased further based on skill level.,,,,Bondmate,
