@@ -1,14 +1,14 @@
 StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,Sell Price,ATK0,MAG0,DIV0,DEF0,MDEF0,ASPD0,ACC0,SUR0,EVA0,RES0,ATK5,MAG5,DIV5,DEF5,MDEF5,ASPD5,ACC5,SUR5,EVA5,RES5,ATK10,MAG10,DIV10,DEF10,MDEF10,ASPD10,ACC10,SUR10,EVA10,RES10,ATK15,MAG15,DIV15,DEF15,MDEF15,ASPD15,ACC15,SUR15,EVA15,RES15,ATK20,MAG20,DIV20,DEF20,MDEF20,ASPD20,ACC20,SUR20,EVA20,RES20,Traits / Special Effects
-2,Head!A2,Head,3081,Old-Fashioned Hood,Worn,Cloth,,14,0,0,0,1,0,0,0,0,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Head!A2,Head,3081,Old-Fashioned Hood,Worn,Cloth,,14,0,0,0,1,0,0,0,0,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,11,0,0,0,0,0,12,
 8,Head!A8,Head,,Cloth Hat,Worn,Cloth,,14,0,0,0,1,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14,Head!A14,Head,3004,Worn-Out Light Helmet,Worn,Light,,16,0,0,0,2,0,-1,-2,0,-2,4,0,0,0,5,0,-1,-2,0,-2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 20,Head!A20,Head,,Worn-Out Heavy Helmet,Worn,Light,,19,0,0,0,3,0,-2,-2,0,-4,4,0,0,0,6,0,-2,-2,0,-4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26,Head!A26,Head,3029,Leather Hat,Bronze,Cloth,340,54,0,0,0,2,0,0,0,0,0,4,0,0,0,5,0,0,0,0,0,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32,Head!A32,Head,3084,Feathered Hat,Bronze,Cloth,,68,0,3,3,2,0,0,0,0,0,0,0,3,3,5,0,0,0,0,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38,Head!A38,Head,3019,Bronze Light Helmet,Bronze,Light,400,64,0,0,0,4,0,-1,-2,0,-2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Head!A38,Head,3019,Bronze Light Helmet,Bronze,Light,400,64,0,0,0,4,0,-1,-2,0,-2,4,0,0,0,7,0,-1,-2,0,-2,6,0,0,0,10,0,-1,-2,0,-2,9,,,,,,,,,,,,,,,,,,,,,
 44,Head!A44,Head,3020,Bronze Heavy Helmet,Bronze,Heavy,470,75,0,0,0,6,0,-2,-2,0,-4,4,0,0,0,9,0,-2,-2,0,-4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50,Head!A50,Head,3045,Beastskin Hat,Iron,Cloth,1020,163,0,0,0,3,0,0,0,0,0,4,0,0,0,6,0,0,0,0,0,6,0,0,0,10,0,0,0,0,0,10,0,0,0,13,0,0,0,0,0,13,0,0,0,17,0,0,0,0,0,18,
-56,Head!A56,Head,,Silver Embroidered Hat,Iron,Cloth,,,0,0,0,3,2,0,0,0,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,Head!A56,Head,3091,Silver Embroidered Hat,Iron,Cloth,5100,1020,0,0,0,3,2,0,0,0,0,4,0,0,0,6,2,0,0,0,0,6,0,0,0,10,2,0,0,0,0,10,,,,,,,,,,,,,,,,,,,,,
 62,Head!A62,Head,3090,Plague Mask,Iron,Cloth,,261,0,0,0,3,0,0,0,0,0,4,0,0,0,6,0,0,0,0,0,6,0,0,0,10,0,0,0,0,0,10,,,,,,,,,,,,,,,,,,,,,Poison/Paralysis/Stun Tolerance
 68,Head!A68,Head,3035,Iron Light Helmet,Iron,Light,1200,192,0,0,0,6,0,-1,-2,0,-2,4,0,0,0,9,0,-1,-2,0,-2,6,0,0,0,13,0,-1,-2,0,-2,10,,,,,,,,,,,,,,,,,,,,,
 74,Head!A74,Head,3036,Iron Heavy Helmet,Iron,Heavy,1410,226,0,0,0,9,0,-2,-2,0,-4,4,0,0,0,12,0,-2,-2,0,-4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -20,12 +20,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 110,Head!A110,Head,,Crimson  Headcloth,Steel,Cloth,,,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Air Type Reduction
 116,Head!A116,Head,3104,Mask of the Water God,Steel,Cloth,,522,0,0,0,5,0,0,0,0,0,4,0,0,0,9,0,0,0,0,0,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Underwater Enhancement
 122,Head!A122,Head,3051,Steel Light Helmet,Steel,Light,,384,0,0,0,9,0,-1,-2,0,-2,4,0,0,0,13,0,-1,-2,0,-2,8,0,0,0,17,0,-1,-2,0,-2,12,,,,,,,,,,,0,0,0,25,0,-1,-2,0,-2,20,
-128,Head!A128,Head,3105,Helm of Malice,Steel,Light,,614,0,0,0,9,0,-1,-2,0,-2,4,,,,,,,,,,,0,0,0,17,0,-1,-2,0,-2,12,0,0,0,21,0,-1,-2,0,-2,16,,,,,,,,,,,Insta-kill Resistance
-134,Head!A134,Head,3095,Viking Helm,Steel,Light,12000,2400,0,0,0,8,0,-1,-2,0,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-140,Head!A140,Head,3150,Earthen Crest Helm,Steel,Light,,480,0,0,8,0,0,-1,-2,0,4,4,0,0,12,0,0,-1,-2,0,4,8,0,0,16,0,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
-146,Head!A146,Head,3157,Aquatic Blue Helm,Steel,Light,,480,0,0,8,0,0,-1,-2,0,4,4,0,0,12,0,0,-1,-2,0,4,8,0,0,16,0,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
-152,Head!A152,Head,,Verdant Breeze Helm,Steel,Light,,480,0,0,8,0,0,-1,-2,0,4,4,0,0,12,0,0,-1,-2,0,4,8,0,0,16,0,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Earth Type Reduction
-158,Head!A158,Head,,Crimson Helm,Steel,,,480,0,0,8,0,0,-1,-2,0,4,4,0,0,12,0,0,-1,-2,0,4,8,0,0,16,0,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Air Type Reduction
+128,Head!A128,Head,3105,Helm of Malice,Steel,Light,,614,0,0,0,9,0,-1,-2,0,-2,4,0,0,0,13,0,-1,-2,0,-2,8,0,0,0,17,0,-1,-2,0,-2,12,0,0,0,21,0,-1,-2,0,-2,16,,,,,,,,,,,Insta-kill Resistance
+134,Head!A134,Head,3095,Viking Helm,Steel,Light,12000,2400,0,0,0,8,0,-1,-2,0,4,4,0,0,0,12,0,-1,-2,0,4,8,0,0,0,16,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,
+140,Head!A140,Head,3150,Earthen Crest Helm,Steel,Light,,480,0,0,0,8,0,-1,-2,0,4,4,0,0,0,12,0,-1,-2,0,4,8,0,0,0,16,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
+146,Head!A146,Head,3157,Aquatic Blue Helm,Steel,Light,,480,0,0,0,8,0,-1,-2,0,4,4,0,0,0,12,0,-1,-2,0,4,8,0,0,0,16,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
+152,Head!A152,Head,,Verdant Breeze Helm,Steel,Light,,480,0,0,0,8,0,-1,-2,0,4,4,0,0,0,12,0,-1,-2,0,4,8,0,0,0,16,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Earth Type Reduction
+158,Head!A158,Head,,Crimson Helm,Steel,,,480,0,0,0,8,0,-1,-2,0,4,4,0,0,0,12,0,-1,-2,0,4,8,0,0,0,16,0,-1,-2,0,4,12,,,,,,,,,,,,,,,,,,,,,Air Type Reduction
 164,Head!A164,Head,3052,Steel Heavy Helmet,Steel,Heavy,,451,0,0,0,14,0,-2,-2,0,-4,4,0,0,0,18,0,-2,-2,0,-4,8,0,0,0,22,0,-2,-2,0,-4,12,,,,,,,,,,,,,,,,,,,,,
 170,Head!A170,Head,3151,Earthen Crest Heavy Helm,Steel,Heavy,,564,0,0,0,13,0,-2,-2,0,2,4,0,0,0,17,0,-2,-2,0,2,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
 176,Head!A176,Head,3158,Aquatic Blue Heavy Helm,Steel,Heavy,,564,0,0,0,13,0,-2,-2,0,2,4,0,0,0,17,0,-2,-2,0,2,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
@@ -53,9 +53,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Shield!A2,Shield,,Worn-Out Small Shield,Worn,Cloth,,12,0,0,0,2,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8,Shield!A8,Shield,3002,Worn-Out Shield,Worn,Light,,16,0,0,0,3,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,Shield!A14,Shield,3028,Leather Small Shield,Bronze,Cloth,310,50,0,0,0,3,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,Shield!A20,Shield,3017,Bronze Shield,Bronze,Light,390,62,0,0,0,6,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,Shield!A26,Shield,3018,Bronze Large Shield,Bronze,Heavy,490,78,0,0,0,9,0,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Shield!A14,Shield,3028,Leather Small Shield,Bronze,Cloth,310,50,0,0,0,3,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,9,5,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
+20,Shield!A20,Shield,3017,Bronze Shield,Bronze,Light,390,62,0,0,0,6,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,12,5,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
+26,Shield!A26,Shield,3018,Bronze Large Shield,Bronze,Heavy,490,78,0,0,0,9,0,-1,-2,0,-2,0,0,0,0,12,2,-1,-2,0,-2,0,0,0,0,15,5,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,
 32,Shield!A32,Shield,3044,Beastskin Small Shield,Iron,Cloth,930,149,0,0,0,5,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0,0,0,12,6,0,0,0,0,0,0,0,0,15,9,0,0,0,0,0,,,,,,,,,,,
 38,Shield!A38,Shield,3033,Iron Shield,Iron,Light,1170,187,0,0,0,9,0,0,0,0,0,0,0,0,0,12,2,0,0,0,0,0,0,0,0,16,6,0,0,0,0,0,0,0,0,19,9,0,0,0,0,0,,,,,,,,,,,
 44,Shield!A44,Shield,3083,Heater Shield,Iron,Light,,50,0,0,0,6,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -165,7 +165,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 56,Hands!A56,Hands,3039,Iron Light Gauntlets,Iron,Light,1080,173,0,0,0,4,0,0,0,0,0,0,0,0,0,7,0,0,2,0,0,0,0,0,0,11,0,0,6,0,0,0,0,0,0,14,0,0,9,0,0,0,0,0,0,18,0,0,14,0,0,0,
 62,Hands!A62,Hands,3040,Iron Heavy Gauntlets,Iron,Heavy,1350,216,0,0,0,6,0,0,-2,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,13,0,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,
 68,Hands!A68,Hands,,Firesmith's Gauntlets,Iron,Heavy,,,0,0,0,6,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,22,0,0,16,0,0,0,Fire Type Reduction
-74,Hands!A74,Hands,3063,Scaly Leather Gloves,Steel,Cloth,,278,0,0,0,5,0,0,2,0,0,0,0,0,0,9,0,0,6,0,0,0,0,0,0,13,0,0,10,0,0,0,0,0,0,17,0,0,14,0,0,0,,,,,,,,,,,
+74,Hands!A74,Hands,3063,Scaly Leather Gloves,Steel,Cloth,,278,0,0,0,5,0,0,2,0,0,0,0,0,0,9,0,0,6,0,0,0,0,0,0,13,0,0,10,0,0,0,0,0,0,17,0,0,14,0,0,0,0,0,0,21,0,0,18,0,0,0,
 80,Hands!A80,Hands,3107,Thieves' Gloves,Steel,Cloth,,445,0,0,0,5,0,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 86,Hands!A86,Hands,3055,Steel Light Gauntlets,Steel,Light,,346,0,0,0,6,0,0,0,0,0,0,0,0,0,10,0,0,4,0,0,0,0,0,0,14,0,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,
 92,Hands!A92,Hands,3110,Featherbronze Gauntlets,Steel,Light,,553,0,0,0,4,-2,0,0,0,0,0,0,0,0,8,-2,0,4,0,0,0,0,0,0,12,-2,0,8,0,0,0,0,0,0,16,-2,0,12,0,0,0,0,0,0,20,-2,0,16,0,0,0,Bind Tolerance
@@ -207,10 +207,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 2,Body!A2,Body,,Cloth Robe,Worn,Cloth,,18,0,0,0,3,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8,Body!A8,Body,3006,Worn-Out Light Armor,Worn,Light,,26,0,0,0,6,0,-1,-2,0,-2,0,0,0,0,11,3,-1,-2,0,-2,0,,,,,,,,,,,0,0,0,21,8,-1,-2,0,-2,0,,,,,,,,,,,
 14,Body!A14,Body,,Worn-Out Heavy Armor,Worn,Heavy,,33,0,0,0,9,0,-2,-2,0,-4,0,0,0,0,14,3,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,Body!A20,Body,3030,Leather Robe,Bronze,Cloth,440,70,0,0,0,6,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,Body!A26,Body,3021,Bronze Light Armor,Bronze,Light,655,105,0,0,0,12,0,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Body!A20,Body,3030,Leather Robe,Bronze,Cloth,440,70,0,0,0,6,0,0,0,0,0,0,0,0,0,12,3,0,0,0,0,0,0,0,0,18,7,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
+26,Body!A26,Body,3021,Bronze Light Armor,Bronze,Light,655,105,0,0,0,12,0,-1,-2,0,-2,0,0,0,0,18,3,-1,-2,0,-2,0,0,0,0,24,7,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,
 32,Body!A32,Body,3086,Exorcism Leather,Bronze,Light,,210,0,0,0,11,5,-1,-2,0,-2,0,0,0,0,17,10,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38,Body!A38,Body,3022,Bronze Heavy Armor,Bronze,Heavy,830,133,0,0,0,18,0,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Body!A38,Body,3022,Bronze Heavy Armor,Bronze,Heavy,830,133,0,0,0,18,0,-2,-2,0,-4,0,0,0,0,24,3,-2,-2,0,-4,0,0,0,0,30,7,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,
 44,Body!A44,Body,3046,Beastskin Robe,Iron,Cloth,1320,211,0,0,0,9,0,0,0,0,0,0,0,0,0,17,5,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,39,18,0,0,0,0,0,
 50,Body!A50,Body,3037,Iron Light Armor,Iron,Light,1965,314,0,0,0,18,0,-1,-2,0,-2,0,0,0,0,26,5,-1,-2,0,-2,0,,,,,,,,,,,0,0,0,41,14,-1,-2,0,-2,0,,,,,,,,,,,
 56,Body!A56,Body,3092,Ornate Leather Armor,Iron,Light,,393,0,0,0,15,0,-1,-2,0,-2,4,0,0,0,26,5,-1,-2,0,-2,4,0,0,0,33,9,-1,-2,0,-2,4,,,,,,,,,,,,,,,,,,,,,
@@ -222,9 +222,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 92,Body!A92,Body,,Comfort of the Endless Rain,Steel,Cloth,,,0,6,0,11,0,2,0,0,0,5,,,,,,,,,,,0,9,0,22,13,2,0,0,0,14,,,,,,,,,,,,,,,,,,,,,
 98,Body!A98,Body,3152,Earthen Crest Robe,Steel,Cloth,,528,0,0,0,11,0,0,0,0,0,0,0,0,0,20,5,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
 104,Body!A104,Body,3053,Steel Light Armor,Steel,Light,,629,0,0,0,24,0,-1,-2,0,-2,0,0,0,0,33,5,-1,-2,0,-2,0,0,0,0,41,11,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,
-110,Body!A110,Body,3153,Earthen Crest Mail,Steel,Cloth,,786,0,0,0,22,0,0,-2,0,2,0,0,0,0,31,5,0,-2,0,2,0,,,,,,,,,,,0,0,0,48,16,0,-2,0,2,0,,,,,,,,,,,Water Type Reduction
-116,Body!A116,Body,3160,Aquatic Blue Mail,Steel,Cloth,,786,0,0,0,22,0,0,-2,0,2,0,0,0,0,31,5,0,-2,0,2,0,,,,,,,,,,,0,0,0,48,16,0,-2,0,2,0,,,,,,,,,,,Fire Type Reduction
-122,Body!A122,Body,,Viking Armor,Steel,Light,,,0,0,0,25,0,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,Body!A110,Body,3096,Viking Armor,Steel,Light,19650,3930,0,0,0,25,0,0,0,0,4,0,0,0,0,34,5,0,0,0,4,0,0,0,0,42,11,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,
+116,Body!A116,Body,3153,Earthen Crest Mail,Steel,Cloth,,786,0,0,0,22,0,0,-2,0,2,0,0,0,0,31,5,0,-2,0,2,0,,,,,,,,,,,0,0,0,48,16,0,-2,0,2,0,,,,,,,,,,,Water Type Reduction
+122,Body!A122,Body,3160,Aquatic Blue Mail,Steel,Cloth,,786,0,0,0,22,0,0,-2,0,2,0,0,0,0,31,5,0,-2,0,2,0,,,,,,,,,,,0,0,0,48,16,0,-2,0,2,0,,,,,,,,,,,Fire Type Reduction
 128,Body!A128,Body,3054,Steel Heavy Armor,Steel,Heavy,,797,0,0,0,36,0,-2,-2,0,-4,0,0,0,0,45,5,-2,-2,0,-4,0,,,,,,,,,,,0,0,0,62,16,-2,-2,0,-4,0,0,0,0,71,22,-2,-2,0,-4,0,
 134,Body!A134,Body,3154,Earthen Crest Heavy Mail,Steel,Heavy,,996,0,0,0,34,0,-2,-2,0,-4,0,0,0,0,43,5,-2,-2,0,-4,0,0,0,0,51,11,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
 140,Body!A140,Body,3161,Aquatic Blue Heavy Mail,Steel,Heavy,,996,0,0,0,34,0,-2,-2,0,-4,0,0,0,0,43,5,-2,-2,0,-4,0,0,0,0,51,11,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
