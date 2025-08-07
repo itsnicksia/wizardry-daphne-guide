@@ -1,11 +1,17 @@
 # Elf-Mag
 
 **Race**: Elf
+
 **Gender**: Female
+
 **Type**: Dark
+
 **Personality**: Neutral
+
 **Starting Class**: Mage
-**Class Change**: n/a  
+
+**Class Change**: n/a
+
 **Role**: Damage, Support
 
 ??? info "Portraits"
@@ -21,7 +27,7 @@
 !!! info "Unique Skill (Not Inheritable)"
     === "Passive Magic Power Up (Innate)"
         {{ get_skill_description("Passive Magic Power Up (Innate)") }}
-        
+
 !!! info "Discipline Skill"
     === "Elf Mage Discipline"
         {{ get_skill_description("Elf Mage Discipline") }}

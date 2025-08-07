@@ -1,11 +1,17 @@
 # Human-Fig
 
 **Race**: Human
+
 **Gender**: Male
+
 **Type**: Water
+
 **Personality**: Neutral
+
 **Starting Class**: Fighter
+
 **Class Change**: n/a
+
 **Role**: Damage, Support
 
 ??? info "Portraits"

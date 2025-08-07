@@ -1,11 +1,17 @@
 # Human-Nin
 
-**Race**: Human  
-**Gender**: Female  
+**Race**: Human
+
+**Gender**: Female
+
 **Type**: Air
+
 **Personality**: Evil
+
 **Starting Class**: Ninja
-**Class Change**: n/a  
+
+**Class Change**: n/a
+
 **Role**: Damage, Support
 
 ??? info "Portraits"
@@ -21,7 +27,7 @@
 !!! info "Unique Skill (Not Inheritable)"
     === "Passive Action Speed Up (Innate)"
         {{ get_skill_description("Passive Action Speed Up (Innate)") }}
-        
+
 !!! info "Discipline Skill"
     === "Kunoichi Self-Discipline"
         {{ get_skill_description("Kunoichi Self-Discipline") }}
