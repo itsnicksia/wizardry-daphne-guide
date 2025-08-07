@@ -29,5 +29,5 @@
         {{ get_skill_description("Passive Accuracy Up (Innate)") }}
 
 !!! info "Discipline Skill"
-    === "Beast Thief Discipline"
-        {{ get_skill_description("Beast Thief Discipline") }}
+    === "Beastfolk Thief Discipline"
+        {{ get_skill_description("Beastfolk Thief Discipline") }}

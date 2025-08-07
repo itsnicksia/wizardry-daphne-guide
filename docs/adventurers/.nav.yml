@@ -157,23 +157,23 @@ nav:
         - Life Story: './general-adventurers/life-stories/Viviana.md'
   - Nameless Adventurers:
     - Beast-Thi:
-        - Details: './nameless-adventurers/details/beast-thi.md'
-        - Life Story: './nameless-adventurers/life-stories/human-nin.md'
+        - Details: './nameless-adventurers/details/Beast-Thi.md'
+        - Life Story: './nameless-adventurers/life-stories/Beast-Thi.md'
     - Dwarf-Kni:
-        - Details: './nameless-adventurers/details/dwarf-kni.md'
-        - Life Story: './nameless-adventurers/life-stories/dwarf-kni.md'
+        - Details: './nameless-adventurers/details/Dwarf-Kni.md'
+        - Life Story: './nameless-adventurers/life-stories/Dwarf-Kni.md'
     - Elf-Mag:
-        - Details: './nameless-adventurers/details/elf-mag.md'
-        - Life Story: './nameless-adventurers/life-stories/elf-mag.md'
+        - Details: './nameless-adventurers/details/Elf-Mag.md'
+        - Life Story: './nameless-adventurers/life-stories/Elf-Mag.md'
     - Elf-Pri:
-        - Details: './nameless-adventurers/details/elf-pri.md'
-        - Life Story: './nameless-adventurers/life-stories/elf-pri.md'
+        - Details: './nameless-adventurers/details/Elf-Pri.md'
+        - Life Story: './nameless-adventurers/life-stories/Elf-Pri.md'
     - Human-Fig:
-        - Details: './nameless-adventurers/details/human-fig.md'
-        - Life Story: './nameless-adventurers/life-stories/human-fig.md'
+        - Details: './nameless-adventurers/details/Human-Fig.md'
+        - Life Story: './nameless-adventurers/life-stories/Human-Fig.md'
     - Human-Nin:
-        - Details: './nameless-adventurers/details/human-nin.md'
-        - Life Story: './nameless-adventurers/life-stories/human-nin.md'
+        - Details: './nameless-adventurers/details/Human-Nin.md'
+        - Life Story: './nameless-adventurers/life-stories/Human-Nin.md'
     - Human-Pri:
-        - Details: './nameless-adventurers/details/human-pri.md'
-        - Life Story: './nameless-adventurers/life-stories/human-pri.md'
+        - Details: './nameless-adventurers/details/Human-Pri.md'
+        - Life Story: './nameless-adventurers/life-stories/Human-Pri.md'
