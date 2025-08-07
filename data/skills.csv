@@ -186,6 +186,7 @@ Old Warrior's Teachings,Discipline,,Continuously increases each stat. Accuracy a
 One-Handed Weapon Proficiency,Passive,,"Increases Attack Power and Accuracy when equipped with a dagger, one-handed sword, or one-handed axe.",Attack Power and Accuracy increased further based on skill level.,,,,,
 Passive Accuracy Up,Passive,True,Continuously increases Accuracy.,Accuracy increased further based on skill level.,,,,Beast-Thi,
 Passive Accuracy Up (Fighter),Passive,True,Continuously increases Accuracy.,Accuracy increased further based on skill level.,16,Fighter,,,Chloe
+Passive Accuracy Up (Innate),Passive,,Continuously increases Accuracy.,,,,,,
 Passive Action Speed Up,Passive,True,Continuously increases Action Speed.,Action Speed increased further based on skill level.,,,,Human-Nin,
 Passive Action Speed Up (Innate),Passive,,Continuously increases Action Speed.,,,,,,
 Passive Action Speed Up (Mind),Passive,,Continuously increases Action Speed.,Action Speed increased further based on skill level.,,,,,
@@ -198,6 +199,7 @@ Passive Defense Power Up (Knight),Passive,True,Continuously increases Defense Po
 Passive Detection Up (Mage),Passive,True,Continuously increases Detect.,Detect increased further based on skill level.,4,Mage,,,
 Passive Detection Up (Thief),Passive,,Continuously increases Detect.,Detect increased further based on skill level.,35,Thief,,,
 Passive Divine Power Up,Passive,True,Continuously increases Divine Power.,Divine Power increased further based on skill level.,,,,Elf-Pri,
+Passive Divine Power Up (Innate),Passive,,Continuously increases Divine Power.,,,,,,
 Passive Divine Power Up (Priest),Passive,,Continuously increases Divine Power.,Divine Power increased further based on skill level.,5,Priest,,,
 Passive Evade Trap Up (Thief),Passive,True,Continuously increases Evade Trap.,Evade Trap increased further based on skill level.,5,Thief,,,
 Passive Evasion Up (Mind),Passive,,Continuously increases Evasion.,Evasion increased further based on skill level.,,,,,
@@ -211,6 +213,7 @@ Passive HP Up (Mind),Passive,,Continuously increases HP.,HP increased further ba
 Passive Magic Defense Up (Knight),Passive,True,Continuously increases Magic Defense.,Magic Defense increased further based on skill level.,17,Knight,,,Barbara
 Passive Magic Defense Up (Priest),Passive,True,Continuously increases Magic Defense.,Magic Defense increased further based on skill level.,11,Priest,,,
 Passive Magic Power Up,Passive,True,Continuously increases Magic Power.,Magic Power increased further based on skill level.,,,,Elf-Mag,
+Passive Magic Power Up (Innate),Passive,,Continuously increases Magic Power.,,,,,,
 Passive Magic Power Up (Mage),Passive,,Continuously increases Magic Power.,Magic Power increased further based on skill level.,15,Mage,,,
 Passive MP Up,Passive,True,Continuously increases MP..,MP increased further based on skill level.,,,,Human-Pri,
 Passive MP Up (Innate),Passive,,Continuously increases MP.,,,,,,
