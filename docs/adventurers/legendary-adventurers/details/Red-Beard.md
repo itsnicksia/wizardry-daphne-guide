@@ -13,7 +13,7 @@
         ![](../img/red-beard-priest.png)
 
     === "Knight"
-        ![](../img/red-beard-knight.png)
+        ![](../img/red-beard-knight.jpg)
 
 ## Skills
 
