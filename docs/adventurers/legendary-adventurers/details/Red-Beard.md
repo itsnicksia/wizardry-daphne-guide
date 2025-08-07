@@ -12,6 +12,9 @@
     === "Priest"
         ![](../img/red-beard-priest.png)
 
+    === "Knight"
+        ![](../img/red-beard-knight.png)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
