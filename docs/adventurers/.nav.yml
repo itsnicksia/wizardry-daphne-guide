@@ -155,3 +155,7 @@ nav:
     - Viviana:
         - Details: './general-adventurers/details/Viviana.md'
         - Life Story: './general-adventurers/life-stories/Viviana.md'
+- Nameless Adventurers:
+    - Human-Pri:
+        - Details: './general-adventurers/details/human-pri.md'
+        - Life Story: './general-adventurers/life-stories/human-pri.md'
