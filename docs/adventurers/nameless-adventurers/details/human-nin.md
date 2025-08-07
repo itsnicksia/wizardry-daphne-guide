@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Ninja"
-        ![](../img/human-nin-ninja.png)
+        ![](../img/human-nin-ninja.jpg)
 
 ## Skills
 

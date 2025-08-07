@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Fighter"
-        ![](../img/human-fig-fighter.png)
+        ![](../img/human-fig-fighter.jpg)
 
 ## Skills
 

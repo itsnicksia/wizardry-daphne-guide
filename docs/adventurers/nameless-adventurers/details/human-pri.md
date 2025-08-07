@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Priest"
-        ![](../img/human-pri-priest.png)
+        ![](../img/human-pri-priest.jpg)
 
 ## Skills
 

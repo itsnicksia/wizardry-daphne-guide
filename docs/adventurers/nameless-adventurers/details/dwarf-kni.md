@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Knight"
-        ![](../img/dwarf-kni-knight.png)
+        ![](../img/dwarf-kni-knight.jpg)
 
 ## Skills
 
