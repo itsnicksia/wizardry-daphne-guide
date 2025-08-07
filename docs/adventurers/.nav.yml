@@ -155,7 +155,7 @@ nav:
     - Viviana:
         - Details: './general-adventurers/details/Viviana.md'
         - Life Story: './general-adventurers/life-stories/Viviana.md'
-- Nameless Adventurers:
+  - Nameless Adventurers:
     - Beast-Thi:
         - Details: './nameless-adventurers/details/beast-thi.md'
         - Life Story: './nameless-adventurers/life-stories/human-nin.md'
