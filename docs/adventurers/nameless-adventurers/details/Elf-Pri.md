@@ -10,7 +10,7 @@
 
 **Starting Class**: Priest
 
-**Class Change**: n/a
+**Class Change**:
 
 **Role**: Healing, Support, Damage
 
@@ -30,4 +30,4 @@
 
 !!! info "Discipline Skill"
     === "Elf Priest Discipline"
-        {{ get_skill_description("Elf  Priest Discipline") }}
+        {{ get_skill_description("Elf Priest Discipline") }}
