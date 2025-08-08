@@ -39,6 +39,7 @@ In combat, openings are critical opportunities to deal massive damage to enemies
 * If this move can cause debuffs, then their targets must not receive debuffs from this attack.
 * Target is alive after being attacked.
 * Enemy did not get an Opening from their previous turn.
+* If this move is an AOE, you'll need a majority of the targets to be defending to obtain an opening.
 
 ### Some more Opening Details:
 * Opening created through 1st action of 2 consecutive actions/turns will not be lost because of what happened with the 2nd action.
