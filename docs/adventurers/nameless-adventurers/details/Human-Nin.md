@@ -1,17 +1,11 @@
 # Human-Nin
 
-**Race**: Human
-
-**Gender**: Female
-
-**Type**: Air
-
-**Personality**: Evil
-
-**Starting Class**: Ninja
-
-**Class Change**: n/a
-
+**Race**: Human  
+**Gender**: Female  
+**Type**: Air  
+**Personality**: Evil  
+**Starting Class**: Ninja  
+**Class Change**:  
 **Role**: Damage, Support
 
 ??? info "Portraits"

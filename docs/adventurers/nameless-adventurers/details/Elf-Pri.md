@@ -1,17 +1,11 @@
 # Elf-Pri
 
-**Race**: Elf
-
-**Gender**: Male
-
-**Type**: Dark
-
-**Personality**: Evil
-
-**Starting Class**: Priest
-
-**Class Change**:
-
+**Race**: Elf  
+**Gender**: Male  
+**Type**: Dark  
+**Personality**: Evil  
+**Starting Class**: Priest  
+**Class Change**:  
 **Role**: Healing, Support, Damage
 
 ??? info "Portraits"

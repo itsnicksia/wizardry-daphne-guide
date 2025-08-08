@@ -1,17 +1,11 @@
 # Beast-Thi
 
-**Race**: Beastfolk
-
-**Gender**: Female
-
-**Type**: Light
-
-**Personality**: Evil
-
-**Starting Class**: Thief
-
-**Class Change**: n/a
-
+**Race**: Beastfolk  
+**Gender**: Female  
+**Type**: Light  
+**Personality**: Evil  
+**Starting Class**: Thief  
+**Class Change**:  
 **Role**: Damage, Support
 
 ??? info "Portraits"

@@ -1,17 +1,11 @@
 # Elf-Mag
 
-**Race**: Elf
-
-**Gender**: Female
-
-**Type**: Dark
-
-**Personality**: Neutral
-
-**Starting Class**: Mage
-
-**Class Change**: n/a
-
+**Race**: Elf  
+**Gender**: Female  
+**Type**: Dark  
+**Personality**: Neutral  
+**Starting Class**: Mage  
+**Class Change**:  
 **Role**: Damage, Support
 
 ??? info "Portraits"
