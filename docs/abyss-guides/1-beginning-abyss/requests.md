@@ -81,7 +81,7 @@
 ??? map "Location"
     ![](img/image_20.png)
 
-!!! note "To reset this request for the monthly bone, you'll need to walk to the B1F harken from the Cursed Wheel point Fresh Start, otherwise it will not respawn."
+!!! note "<s>To reset this request for the monthly bone, you'll need to walk to the B1F harken from the Cursed Wheel point Fresh Start, otherwise it will not respawn.</s> (As of Aug 2025 (confirmed version 1.13.10) the previous requirement is no longer necessary. The request resets like all others simply by Wheeling back and forth.)"
  
 ### Donato’s Redemption
 
