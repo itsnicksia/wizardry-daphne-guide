@@ -255,33 +255,33 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 290,Body!A290,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 296,Body!A296,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Accessories!A2,Accessories,3016,Stone Ring,Worn,,,20,0,0,0,1,4,0,0,0,0,0,0,0,0,6,4,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,Accessories!A8,Accessories,3027,Bronze Ring,Bronze,,490,78,0,0,0,1,8,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
-14,Accessories!A14,Accessories,3131,Ring of Resistance,Bronze,,,98,0,0,0,1,0,0,0,0,0,10,,,,,,,,,,,0,0,0,12,0,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,
-20,Accessories!A20,Accessories,3043,Iron Ring,Iron,,1470,235,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,0,0,0,13,12,0,0,0,0,0,0,0,0,19,12,0,0,0,0,0,0,0,0,25,12,0,0,0,0,0,
-26,Accessories!A26,Accessories,3132,Tattered Doll,Iron,,,294,0,0,0,1,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-32,Accessories!A32,Accessories,3133,Bracelet of Impurity,Iron,,,294,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poison / Paralysis Tolerance
-38,Accessories!A38,Accessories,3134,Bracelet of Urgency,Iron,,,294,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
-44,Accessories!A44,Accessories,3135,Undead Ward,Iron,,,294,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Undead Resistance
-50,Accessories!A50,Accessories,3136,Rabbit's Tail,Iron,,,294,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Trap avoidance increased
-56,Accessories!A56,Accessories,3059,Steel Ring,Steel,,,470,0,0,0,2,16,0,0,0,0,0,0,0,0,8,16,0,0,0,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,21,16,0,0,0,0,0,0,0,0,28,16,0,0,0,0,0,
-62,Accessories!A62,Accessories,3137,Searcher Ring,Steel,,,735,0,0,0,2,12,0,0,0,4,0,,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,", at Enhance +4, Detect increased"
-68,Accessories!A68,Accessories,3138,Ring of the Warrior Princess,Steel,,,735,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,2,4,0,0,0,0,15,12,0,0,3,4,0,,,,,,,,,,,,,,,,,,,,,
-74,Accessories!A74,Accessories,3139,Protection Charm,Steel,,,735,0,0,0,2,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,21,12,0,0,0,4,0,0,0,0,28,12,0,0,0,4,0,Bind Tolerance
-80,Accessories!A80,Accessories,3145,Royal Herald Amulet,Steel,,,2352,1,1,1,1,1,1,1,1,1,1,1,1,1,7,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reward for Saving the King in Beginning Abyss
-86,Accessories!A86,Accessories,3155,Earthen Crest Amulet,Steel,,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
-92,Accessories!A92,Accessories,3162,Aquatic Blue Amulet,Steel,,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
-98,Accessories!A98,Accessories,3176,Verdant Breeze Amulet,Steel,,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,Earth Type Reduction
-104,Accessories!A104,Accessories,,Pearl of the Sea God,Steel,,,,1,0,0,2,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Water Type Reduction, Sleep Tolerance"
-110,Accessories!A110,Accessories,,Ebonsteel Ring,Ebonsteel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,32,18,0,0,0,0,0,
-116,Accessories!A116,Accessories,,Trollkin Ring,Ebonsteel,,,,0,0,0,2,16,0,0,0,0,0,,,,,,,,,,,0,0,0,17,16,0,0,0,0,0,,,,,,,,,,,0,0,0,32,16,0,0,0,0,0,"Continuing Healing, Dragon Slater Enhancement"
-122,Accessories!A122,Accessories,,Old Perch,,,,,0,0,0,1,17,0,0,0,6,0,,,,,,,,,,,,,,,,,,,,,0,0,0,24,17,0,0,0,10,0,,,,,,,,,,,Composure of the Skilled Master
-128,Accessories!A128,Accessories,,Safety Ring,Ebonsteel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,Critical Tolerance
-134,Accessories!A134,Accessories,,Ring of Vengeance,Ebonsteel,,,,0,0,0,2,16,0,0,0,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-140,Accessories!A140,Accessories,,Peony Hair Ornament,Steel,,,,0,0,0,5,0,0,2,2,0,5,,,,,,,,,,,0,0,0,14,0,0,5,5,0,14,,,,,,,,,,,,,,,,,,,,,Serene Calm
-146,Accessories!A146,Accessories,,Master Fighter's Ring,Ebonsteel,,,,0,0,0,2,17,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive Strength Up
-152,Accessories!A152,Accessories,,Master Mage's Ring,Ebonsteel,,,,0,0,0,2,17,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive I.Q. Up
-158,Accessories!A158,Accessories,,Shining Finger Band,Ebonsteel,,,,0,0,0,1,0,0,0,0,0,12,0,0,0,9,0,0,0,0,0,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Insta-Kill Tolerance, Dark Type Reduction"
+2,Accessories!A2,Accessories,3016,Stone Ring,Worn,Accessory,,20,0,0,0,1,4,0,0,0,0,0,0,0,0,6,4,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Accessories!A8,Accessories,3027,Bronze Ring,Bronze,Accessory,490,78,0,0,0,1,8,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
+14,Accessories!A14,Accessories,3131,Ring of Resistance,Bronze,Accessory,,98,0,0,0,1,0,0,0,0,0,10,,,,,,,,,,,0,0,0,12,0,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,
+20,Accessories!A20,Accessories,3043,Iron Ring,Iron,Accessory,1470,235,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,0,0,0,13,12,0,0,0,0,0,0,0,0,19,12,0,0,0,0,0,0,0,0,25,12,0,0,0,0,0,
+26,Accessories!A26,Accessories,3132,Tattered Doll,Iron,Accessory,,294,0,0,0,1,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Accessories!A32,Accessories,3133,Bracelet of Impurity,Iron,Accessory,,294,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poison / Paralysis Tolerance
+38,Accessories!A38,Accessories,3134,Bracelet of Urgency,Iron,Accessory,,294,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
+44,Accessories!A44,Accessories,3135,Undead Ward,Iron,Accessory,,294,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Undead Resistance
+50,Accessories!A50,Accessories,3136,Rabbit's Tail,Iron,Accessory,,294,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Trap avoidance increased
+56,Accessories!A56,Accessories,3059,Steel Ring,Steel,Accessory,,470,0,0,0,2,16,0,0,0,0,0,0,0,0,8,16,0,0,0,0,0,0,0,0,15,16,0,0,0,0,0,0,0,0,21,16,0,0,0,0,0,0,0,0,28,16,0,0,0,0,0,
+62,Accessories!A62,Accessories,3137,Searcher Ring,Steel,Accessory,,735,0,0,0,2,12,0,0,0,4,0,,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,", at Enhance +4, Detect increased"
+68,Accessories!A68,Accessories,3138,Ring of the Warrior Princess,Steel,Accessory,,735,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,2,4,0,0,0,0,15,12,0,0,3,4,0,,,,,,,,,,,,,,,,,,,,,
+74,Accessories!A74,Accessories,3139,Protection Charm,Steel,Accessory,,735,0,0,0,2,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,21,12,0,0,0,4,0,0,0,0,28,12,0,0,0,4,0,Bind Tolerance
+80,Accessories!A80,Accessories,3145,Royal Herald Amulet,Steel,Accessory,,2352,1,1,1,1,1,1,1,1,1,1,1,1,1,7,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reward for Saving the King in Beginning Abyss
+86,Accessories!A86,Accessories,3155,Earthen Crest Amulet,Steel,Accessory,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
+92,Accessories!A92,Accessories,3162,Aquatic Blue Amulet,Steel,Accessory,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
+98,Accessories!A98,Accessories,3176,Verdant Breeze Amulet,Steel,Accessory,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,,,,,,,,,,,,,,,,,,,,,Earth Type Reduction
+104,Accessories!A104,Accessories,,Pearl of the Sea God,Steel,Accessory,,,1,0,0,2,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Water Type Reduction, Sleep Tolerance"
+110,Accessories!A110,Accessories,,Peony Hair Ornament,Steel,Accessory,,,0,0,0,5,0,0,2,2,0,5,,,,,,,,,,,0,0,0,14,0,0,5,5,0,14,,,,,,,,,,,,,,,,,,,,,Serene Calm
+116,Accessories!A116,Accessories,,Ebonsteel Ring,Ebonsteel,Accessory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,32,18,0,0,0,0,0,
+122,Accessories!A122,Accessories,,Trollkin Ring,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,0,,,,,,,,,,,0,0,0,17,16,0,0,0,0,0,,,,,,,,,,,0,0,0,32,16,0,0,0,0,0,"Continuing Healing, Dragon Slater Enhancement"
+128,Accessories!A128,Accessories,,Old Perch,,Accessory,,,0,0,0,1,17,0,0,0,6,0,,,,,,,,,,,,,,,,,,,,,0,0,0,24,17,0,0,0,10,0,,,,,,,,,,,Composure of the Skilled Master
+134,Accessories!A134,Accessories,,Safety Ring,Ebonsteel,Accessory,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,Critical Tolerance
+140,Accessories!A140,Accessories,,Ring of Vengeance,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,Accessories!A146,Accessories,,Master Fighter's Ring,Ebonsteel,Accessory,,,0,0,0,2,17,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive Strength Up
+152,Accessories!A152,Accessories,,Master Mage's Ring,Ebonsteel,Accessory,,,0,0,0,2,17,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive I.Q. Up
+158,Accessories!A158,Accessories,,Shining Finger Band,Ebonsteel,Accessory,,,0,0,0,1,0,0,0,0,0,12,0,0,0,9,0,0,0,0,0,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Insta-Kill Tolerance, Dark Type Reduction"
 164,Accessories!A164,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 170,Accessories!A170,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 176,Accessories!A176,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
