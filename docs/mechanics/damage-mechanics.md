@@ -34,15 +34,19 @@ In combat, openings are critical opportunities to deal massive damage to enemies
 * Openings occur when an enemy is forced into a vulnerable state, marked by a gold circle icon above their head.
 * During this state, they take increased damage from the next non-spell attack they receive.
 
-### How to Trigger Openings:
-* When a character successfully blocks or evades an attack while using `Defend`, or receives reduced damage through a passive skill like `Sanctuary's Blessing` or `Way of the Knight`, an opening is created. Magic attacks cannot create openings, but both single-target and multi-target physical attacks can. There is still a bit of uncertainty around when Openings become available with multi-target attacks, but generally it takes 2 or 3 in a row Defending to enable it. For example, some enemies seem to get put in Opening state if two people Defend, even if the third takes full, unprotected damage from an attack.
+### Requirements to Trigger Openings:
+* Enemies uses a "melee" physical attack (so minotaur rock fling doesn't count).
+* If this move can cause debuffs, then their targets must not receive debuffs from this attack.
+* Target is alive after being attacked.
+* Enemy did not get an Opening from their previous turn.
+
+### Some more Opening Details:
+* Opening created through 1st action of 2 consecutive actions/turns will not be lost because of what happened with the 2nd action.
+* If defending members simultaneously gets attacked by multiple enemies, you can inflict Opening on all attackers.
 * The Opening is available to hit any time between when it pops up and the enemy's next turn. If you do not hit the Opening before the enemy moves next, the Opening disappears.
 * Note that the Knight class skills Cover and Cover All do not create openings.
 
 Openings work on all types of enemies, from basic mobs to bosses, although bosses that regularly use multi-target attacks are harder to create openings against, particularly when they mostly cast spells or multi-target attacks that hit both of your rows.
-
-!!! note
-    Opening can only be triggered on every other turn. You cannot get two consecutive turns of Opening being triggered.
 
 ### Opening Damage
 We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers, however there is a chance that it can be a sure hit. This is something that we're currently trying to test out.
