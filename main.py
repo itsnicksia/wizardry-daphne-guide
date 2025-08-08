@@ -108,8 +108,12 @@ def define_env(env):
             eqdata.loc[1+5*(n-1) : 4+5*(n-1), unstackedcols] = ''
 
         # change title of stacked column
-        eqdata.rename(columns={'TEMP': 'Rank<br># of Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
-
+        
+        if armor_or_weapon == "weapon":
+           eqdata.rename(columns={'TEMP': 'Rank<br># of Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
+        else:
+           eqdata.rename(columns={'TEMP': 'Rank<br>Armor Type<br>Buy Price<br>Sell Price'}, inplace=True)
+ 
         # insert blank spacer rows
         if itemcount > 1:
             for n in range(itemrows*(itemcount-1), 0, -itemrows):
