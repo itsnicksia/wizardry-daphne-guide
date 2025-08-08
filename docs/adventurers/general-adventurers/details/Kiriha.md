@@ -13,7 +13,7 @@
         ![](../img/kiriha-ninja.jpg)
 
     === "Fighter"
-        ![](../img/kiriha-fighter.png)
+        ![](../img/kiriha-fighter.jpg)
 
 ## Skills
 

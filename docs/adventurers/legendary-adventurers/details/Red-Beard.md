@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Priest"
-        ![](../img/red-beard-priest.png)
+        ![](../img/red-beard-priest.jpg)
 
     === "Knight"
         ![](../img/red-beard-knight.jpg)

@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Knight"
-        ![](../img/alex-knight.png)
+        ![](../img/alex-knight.jpg)
 
     === "Fighter"
         ![](../img/alex-fighter.jpg)

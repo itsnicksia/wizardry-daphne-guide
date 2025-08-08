@@ -13,7 +13,7 @@
         ![](../img/elise-fighter.jpg)
 
     === "Knight"
-        ![](../img/elise-knight.png)
+        ![](../img/elise-knight.jpg)
 
 ## Skills
 

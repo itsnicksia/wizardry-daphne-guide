@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Fighter"
-        ![](../img/abenius-fighter.png)
+        ![](../img/abenius-fighter.jpg)
 
     === "Priest"
-        ![](../img/abenius-priest.png)
+        ![](../img/abenius-priest.jpg)
 
 ## Skills
 

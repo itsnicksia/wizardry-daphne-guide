@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Thief"
-        ![](../img/amelia-thief.png)
+        ![](../img/amelia-thief.jpg)
 
     === "Fighter"
-        ![](../img/amelia-fighter.png)
+        ![](../img/amelia-fighter.jpg)
 
 ## Skills
 

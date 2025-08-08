@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Tall Mage"
-        ![](../img/berkanan-tall-mage.png)
+        ![](../img/berkanan-tall-mage.jpg)
 
 ## Skills
 

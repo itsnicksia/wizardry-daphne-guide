@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Knight"
-        ![](../img/eckart-knight.png)
+        ![](../img/eckart-knight.jpg)
 
     === "Priest"
-        ![](../img/eckart-priest.png)
+        ![](../img/eckart-priest.jpg)
 
 ## Skills
 

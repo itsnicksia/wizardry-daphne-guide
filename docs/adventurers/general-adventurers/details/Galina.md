@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Priest"
-        ![](../img/galina-priest.png)
+        ![](../img/galina-priest.jpg)
 
     === "Fighter"
-        ![](../img/galina-fighter.png)
+        ![](../img/galina-fighter.jpg)
 
 ## Skills
 

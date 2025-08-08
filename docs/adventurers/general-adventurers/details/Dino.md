@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Mage"
-        ![](../img/dino-mage.png)
+        ![](../img/dino-mage.jpg)
 
     === "Thief"
-        ![](../img/dino-thief.png)
+        ![](../img/dino-thief.jpg)
 
 ## Skills
 

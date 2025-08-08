@@ -13,7 +13,7 @@
         ![](../img/eldorado-knight.jpg)
 
     === "Mage"
-        ![](../img/eldorado-mage.png)
+        ![](../img/eldorado-mage.jpg)
 
 ## Skills
 

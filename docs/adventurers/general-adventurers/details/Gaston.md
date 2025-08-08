@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Fighter"
-        ![](../img/gaston-fighter.png)
+        ![](../img/gaston-fighter.jpg)
         
     === "Thief"
-        ![](../img/gaston-thief.png)
+        ![](../img/gaston-thief.jpg)
 
 ## Skills
 

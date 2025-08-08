@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Mage of the Black Rod"
-        ![](../img/iarumas-mage-of-the-black-rod.png)
+        ![](../img/iarumas-mage-of-the-black-rod.jpg)
 
 ## Skills
 
