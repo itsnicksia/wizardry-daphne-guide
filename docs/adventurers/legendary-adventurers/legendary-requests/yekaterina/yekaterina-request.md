@@ -13,7 +13,7 @@ Once the requirements are met, the "request" will be available IN THE TAVERN at 
 
 ## Request Mission
 
-Request has you go to the Tavern which triggers a conversation about Yekaterina wanting to retrieve some bone parts for Doctor from her late husband, Dean. The dungeon consists of many long paths with specific rooms .jpg you will need to go into to find her husband. However, there are many rooms .jpg are not her husband's and all of them contain a boss fight versus various undead, typically having one or more skeleton giant and various other skeletons. The enemies will scale to your team's grade. Upon finding her husband's grave, the "request" is essentially completed and you get some backstory.
+Request has you go to the Tavern which triggers a conversation about Yekaterina wanting to retrieve some bone parts for Doctor from her late husband, Dean. The dungeon consists of many long paths with specific rooms that you will need to go into to find her husband. However, there are many rooms that are not her husband's and all of them contain a boss fight versus various undead, typically having one or more skeleton giant and various other skeletons. The enemies will scale to your team's grade. Upon finding her husband's grave, the "request" is essentially completed and you get some backstory.
 
 ### Notes:
 - All enemies are undead.
@@ -22,7 +22,7 @@ Request has you go to the Tavern which triggers a conversation about Yekaterina 
 
 ### Map:
 
-![](img/old-royal-sepulcher.png)
+![](img/old-royal-sepulcher.jpg)
 
     - Checkmark indicates the correct tomb.
 
