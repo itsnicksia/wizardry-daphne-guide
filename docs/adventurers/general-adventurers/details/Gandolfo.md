@@ -13,7 +13,7 @@
         ![](../img/gandolfo-fighter.jpg)
 
     === "Priest"
-        ![](../img/gandolfo-priest.png)
+        ![](../img/gandolfo-priest.jpg)
 
 ## Skills
 

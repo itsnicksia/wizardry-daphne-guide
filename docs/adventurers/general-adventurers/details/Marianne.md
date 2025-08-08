@@ -13,7 +13,7 @@
         ![](../img/marianne-priest.jpg)
 
     === "Mage"
-        ![](../img/marianne-mage.png)
+        ![](../img/marianne-mage.jpg)
 
 ## Skills
 

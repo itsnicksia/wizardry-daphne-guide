@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Thief"
-        ![](../img/viviana-thief.png)
+        ![](../img/viviana-thief.jpg)
 
     === "Priest"
-        ![](../img//viviana-priest.png)
+        ![](../img//viviana-priest.jpg)
 
 ## Skills
 

@@ -10,16 +10,16 @@
 
 ??? info "Portraits"
     === "Fighter"
-        ![](../img/gerulf-fighter.png)
+        ![](../img/gerulf-fighter.jpg)
 
     === "Priest"
-        ![](../img/gerulf-priest.png)
+        ![](../img/gerulf-priest.jpg)
 
     === "Fighter After Personal Request"
-        ![](../img/gerulf-fighter-personal-request.png)
+        ![](../img/gerulf-fighter-personal-request.jpg)
 
     === "Priest After Personal Request"
-        ![](../img/gerulf-priest-personal-request.png)
+        ![](../img/gerulf-priest-personal-request.jpg)
 
 ## Skills
 

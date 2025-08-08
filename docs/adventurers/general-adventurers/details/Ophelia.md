@@ -13,7 +13,7 @@
         ![](../img/ophelia-fighter.jpg)
 
     === "Knight"
-        ![](../img/ophelia-knight.png)
+        ![](../img/ophelia-knight.jpg)
 
 ## Skills
 

@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Samurai"
-        ![](../img/shiou-samurai.png)
+        ![](../img/shiou-samurai.jpg)
 
 ## Skills
 

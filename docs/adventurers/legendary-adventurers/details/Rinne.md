@@ -10,7 +10,7 @@
 
 ??? info "Portraits"
     === "Ninja"
-        ![](../img/rinne-ninja.png)
+        ![](../img/rinne-ninja.jpg)
 
     === "Thief"
         ![](../img/rinne-thief.jpg)

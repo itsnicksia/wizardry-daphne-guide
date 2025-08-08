@@ -16,13 +16,13 @@
         ![](../img/adam-priest.jpg)
 
     === "Mage After Personal Request"
-        ![](../img/adam-mage-personal-request.png)
+        ![](../img/adam-mage-personal-request.jpg)
 
     === "Priest After Personal Request"
-        ![](../img/adam-priest-personal-request.png)
+        ![](../img/adam-priest-personal-request.jpg)
 
     === "Millennial Lord"
-        ![](../img/adam-millennial-lord.png)
+        ![](../img/adam-millennial-lord.jpg)
         
 ## Skills
 

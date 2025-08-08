@@ -10,10 +10,10 @@
 
 ??? info "Portraits"
     === "Fighter"
-        ![](../img/elda-fighter.png)
+        ![](../img/elda-fighter.jpg)
 
     === "Mage"
-        ![](../img/elda-mage.png)
+        ![](../img/elda-mage.jpg)
 
 ## Skills
 
