@@ -1,17 +1,11 @@
 # Human-Pri
 
-**Race**: Human
-
-**Gender**: Female
-
-**Type**: Fire
-
-**Personality**: Good
-
-**Starting Class**: Priest
-
-**Class Change**: n/a
-
+**Race**: Human  
+**Gender**: Female  
+**Type**: Fire  
+**Personality**: Good  
+**Starting Class**: Priest  
+**Class Change**:  
 **Role**: Healing, Support, Damage
 
 ??? info "Portraits"

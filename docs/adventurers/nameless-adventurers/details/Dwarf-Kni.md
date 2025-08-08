@@ -1,17 +1,11 @@
 # Dwarf-Kni
 
-**Race**: Dwarf
-
-**Gender**: Male
-
-**Type**: Earth
-
-**Personality**: Neutral
-
-**Starting Class**: Knight
-
-**Class Change**: n/a
-
+**Race**: Dwarf  
+**Gender**: Male  
+**Type**: Earth  
+**Personality**: Neutral  
+**Starting Class**: Knight  
+**Class Change**:  
 **Role**: Support, Damage
 
 ??? info "Portraits"
