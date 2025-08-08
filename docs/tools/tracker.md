@@ -263,7 +263,7 @@
       {
         id: 'b1f_stench_quest',
         title: 'Class Remains: B1F (Death Stench Investigation Request)',
-        details: 'Wheel to Fresh Start and get to the first harken then return and accept the Request',
+        details: 'Wheel to Kings Rescue, accept the Request in the Adventurers Guild, and head to the location',
         image: '../img/bones/respawning-bone-death-stench.jpg',
         clickable: true
       },
