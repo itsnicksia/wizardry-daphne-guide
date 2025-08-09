@@ -13,6 +13,7 @@
         ![](../img/emil-priest.jpg)
 
     === "Mage"
+        ![](../img/emil-mage.jpg)
 
 ## Skills
 
