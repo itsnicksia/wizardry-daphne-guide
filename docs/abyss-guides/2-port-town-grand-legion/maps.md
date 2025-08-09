@@ -2,9 +2,9 @@
 
 ??? note "Some tips for this Abyss before starting"
     - To make the run easier, one can grind out Undead March Request from the Beginning Abyss to get to level 40 and complete the Grade Up exam.
-    - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from Earth Den BF1.
+    - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from Earth Den BF1.  Many monsters are also "Magical Beasts", so characters or weapons with the "Magical Beast-Slayer" trait would also be useful.
     - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for the next Abyss.
-    - ==Do not sell any Sahuagin Scales== when obtaining them as you begin this Abyss, as they are needed for a mandatory main story request.
+    - ==Do not sell all of your Sahuagin Scales== when obtaining them as you begin this Abyss, as they are needed for a mandatory main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.
 
 Note: There are areas where you are carried by a strong current. You must unlock the ability to reverse the water statues. Some have a timer to become cursed again. Some areas will be completely submerged. You should lure monsters out of the water in these areas or they\`ll be stronger
 
@@ -30,7 +30,7 @@ Note: There are areas where you are carried by a strong current. You must unlock
 ??? map "4th District - Boulevard"
     
     !!! note 
-        When you’re locked in the room and drowning, you need to attempt to leave the area through both the upper left and upper right sections of the room you’re in, as well as attempt to go back into the current before you’re able to activate the statue to drain the water. Heal with items as needed and take as few steps as possible\!
+        When you’re locked in the room and drowning, you need to attempt to leave the area through both the upper left and upper right sections of the room you’re in, as well as attempt to go back into the current before you’re able to activate the statue to drain the water. Heal with items as needed and take as few steps as possible\!  (Some people have reported -version 1.13.0 and later- being unable to progress unless you first try to 'use' the statue, then try and fail to leave on all three paths out, then try one more time to 'use' the statue.)
 
     ![](./img/trade-waterways-4.png)
 
