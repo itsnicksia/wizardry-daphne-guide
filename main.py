@@ -28,7 +28,7 @@ def define_env(env):
                 name = row['Name']
                 rarity = row['Rarity'].strip().lower()
                 if rarity == "anonymous":
-                    return name  # Don't linkify anonymous
+                    rarity = "nameless"
                 name_slug = name.replace(' ', '-')
                 return f"[{name}](./{rarity}-adventurers/details/{name_slug}.md)"
 
