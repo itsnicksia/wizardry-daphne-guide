@@ -13,7 +13,8 @@
         ![](../img/barbara-knight.jpg)
 
     === "Thief"
-
+        ![](../img/barbara-thief.jpg)
+		
 ## Skills
 
 !!! info "Inheritable Skill"
