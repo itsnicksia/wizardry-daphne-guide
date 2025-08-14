@@ -6,10 +6,9 @@
 ## Map
 
 ??? note "Maps"
-
-![](./img/cave-of-separation-b1f.jpg)
-![](./img/cave-of-separation-b2f.jpg)
-![](./img/cave-of-separation-b3f.jpg)
+    ![](./img/cave-of-separation-b1f.jpg)
+    ![](./img/cave-of-separation-b2f.jpg)
+    ![](./img/cave-of-separation-b3f.jpg)
 
 ## Walkthrough
 
@@ -24,9 +23,10 @@
 
 ## Reward
 
-![](./img/arna-cave-reward.png)
-![](./img/arna-knowledge.png)
-![](./img/malefic-key.png)
+??? note "Rewards"
+    ![](./img/arna-cave-reward.png)
+    ![](./img/arna-knowledge.png)
+    ![](./img/malefic-key.png)
 
 ## Optional Boss Fight
 
