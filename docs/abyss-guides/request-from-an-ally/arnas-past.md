@@ -7,9 +7,9 @@
 
 ??? note "Maps"
 
-![](cave-of-separation-b1f.jpg)
-![](cave-of-separation-b2f.jpg)
-![](cave-of-separation-b3f.jpg)
+![](./img/cave-of-separation-b1f.jpg)
+![](./img/cave-of-separation-b2f.jpg)
+![](./img/cave-of-separation-b3f.jpg)
 
 ## Walkthrough
 
@@ -24,9 +24,9 @@
 
 ## Reward
 
-![](arna-cave-reward.png)
-![](arna-knowledge.png)
-![](malefic-key.png)
+![](./img/arna-cave-reward.png)
+![](./img/arna-knowledge.png)
+![](./img/malefic-key.png)
 
 ## Optional Boss Fight
 
@@ -43,8 +43,8 @@ The boss will be accessible with the malefic key on the top left room of the 3rd
 
 ### Boss Rewards
 
-![](greater-demon-achievement.png)
+![](./img/greater-demon-achievement.png)
 
 There will also be a chest drop for 5 Azure Lustrous ore and 3 Separation Rare Five Blossom Junk.
 
-![](arna-cave-rare-junk.png)
+![](./img/arna-cave-rare-junk.png)
