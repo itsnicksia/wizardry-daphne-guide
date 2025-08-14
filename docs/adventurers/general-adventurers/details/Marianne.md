@@ -14,6 +14,10 @@
 
     === "Mage"
         ![](../img/marianne-mage.jpg)
+<!--
+    === "Greedy Saintess"
+        ![](../img/marianne-greedy-saintess.jpg)
+-->
 
 ## Skills
 
@@ -26,9 +30,15 @@
         {{ get_skill_description("Way of the Priest") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Frugal Faith"
+    === "Frugal Faith (Standard)"
         {{ get_skill_description('Frugal Faith') }}
-        
+
+    === "Sacred Healer (Greedy Saintess)"
+        {{ get_skill_description('Sacred Healer') }}
+
 !!! info "Discipline Skill"
-    === "Salvation through Wealth"
+    === "Salvation through Wealth (Standard)"
         {{ get_skill_description('Salvation through Wealth') }}
+
+    === "Sanctified Prayer (Greedy Saintess)"
+        {{ get_skill_description('Sanctified Prayer') }}
