@@ -21,7 +21,7 @@
     === "Priest After Personal Request"
         ![](../img/yekaterina-priest-personal-request.jpg)
 
-    === "Everdistant Summershaded"
+    === "Everdistant Summershade"
         ![](../img/yekaterina-everdistant-summershade.jpg)
 
 ## Skills
@@ -31,15 +31,19 @@
         {{ get_skill_description('Eye of Kalshum') }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Advice of the Skull"
+    === "Advice of the Skull (Standard)"
         {{ get_skill_description('Advice of the Skull') }}
 
-    === "Skull's Tutelage"
+    === "Skull's Tutelage (Everdistant Summershade)"
         {{ get_skill_description("Skull's Tutelage") }}
 
 !!! info "Discipline Skill"
-    === "Future Dreamt with the Skull"
+    === "Future Dreamt with the Skull (Standard)"
         {{ get_skill_description('Future Dreamt with the Skull') }}
+
+    === "Path Walked with a Skull (Everdistant Summershade)"
+        {{ get_skill_description('Path Walked with a Skull') }}
+        
 
 ## Adventurer Reviews
 
