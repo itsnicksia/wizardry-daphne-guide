@@ -34,15 +34,15 @@
     === "Advice of the Skull"
         {{ get_skill_description('Advice of the Skull') }}
 
-    === "Skull's Tutelage"
+    === "Skull's Tutelage (Everdistant Summershade)"
         {{ get_skill_description("Skull's Tutelage") }}
 
 !!! info "Discipline Skill"
     === "Future Dreamt with the Skull"
         {{ get_skill_description('Future Dreamt with the Skull') }}
 
-    === "Path walked with a Skull"
-        {{ get_skill_description('Path walked with a Skull') }}
+    === "Path Walked with a Skull (Everdistant Summershade)"
+        {{ get_skill_description('Path Walked with a Skull') }}
         
 
 ## Adventurer Reviews
