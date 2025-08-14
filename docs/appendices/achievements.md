@@ -184,24 +184,25 @@
 
 === "Battle"
 
-    | Name                                | Description                        |
-    | ----------------------------------- | ---------------------------------- |
-    | Battle-Hardened                     | Achieve 100 victories in battle.   |
-    | Warrior of a Thousand Battles       | Achieve 1,000 victories in battle. |
-    | Man Loved by the Goddess of Victory | Achieve 5,000 victories in battle. |
-    | Honor of Valor                      | Slay 200 enemies.                  |
-    | Blood-Spattered Mask                | Slay 2,000 enemies.                |
-    | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.               |
-    | Endless Trail of Blood              | Slay 100,000 enemies.              |
-    | Warped One-Hunter ★                 | Slay 100 warped ones.              |
-    | Warped One-Hunter ★★                | Slay 300 warped ones.              |
-    | Warped One-Hunter ★★★               | Slay 500 warped ones.              |
-    | Boss of the Poison Swamp            | Slay a giant monster bird.         |
-    | The Rare One Quick to Run           | Slay a cursed sack doll.           |
-    | Inescapable Consequences            | Slay a red spinner woman.          |
-    | He'll Do You up a Treat, Mate.      | Slay a vorpal bunny.               |
-    | Money-Maker                         | Slay a creeping coin.              |
-    | Surprised?                          | Slay a mimic.                      |
+    | Name                                | Description                                          |
+    | ----------------------------------- | ---------------------------------------------------- |
+    | Battle-Hardened                     | Achieve 100 victories in battle.                     |
+    | Warrior of a Thousand Battles       | Achieve 1,000 victories in battle.                   |
+    | Man Loved by the Goddess of Victory | Achieve 5,000 victories in battle.                   |
+    | Honor of Valor                      | Slay 200 enemies.                                    |
+    | Blood-Spattered Mask                | Slay 2,000 enemies.                                  |
+    | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.                                 |
+    | Endless Trail of Blood              | Slay 100,000 enemies.                                |
+    | Warped One-Hunter ★                 | Slay 100 warped ones.                                |
+    | Warped One-Hunter ★★                | Slay 300 warped ones.                                |
+    | Warped One-Hunter ★★★               | Slay 500 warped ones.                                |
+    | Boss of the Poison Swamp            | Slay a giant monster bird.                           |
+    | The Rare One Quick to Run           | Slay a cursed sack doll.                             |
+    | Inescapable Consequences            | Slay a red spinner woman.                            |
+    | He'll Do You up a Treat, Mate.      | Slay a vorpal bunny.                                 |
+    | Money-Maker                         | Slay a creeping coin.                                |
+    | Surprised?                          | Slay a mimic.                                        |
+    | Playing with Hellfire               | Slay the greater demon sealed in the burial chamber. |
 
 === "Explore"
 
