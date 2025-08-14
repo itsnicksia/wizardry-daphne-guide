@@ -34,6 +34,9 @@
     === "Advice of the Skull"
         {{ get_skill_description('Advice of the Skull') }}
 
+    === "Skull's Tutelage"
+        {{ get_skill_description("Skull's Tutelage") }}
+
 !!! info "Discipline Skill"
     === "Future Dreamt with the Skull"
         {{ get_skill_description('Future Dreamt with the Skull') }}
