@@ -21,7 +21,7 @@
     === "Priest After Personal Request"
         ![](../img/yekaterina-priest-personal-request.jpg)
 
-    === "Everdistant Summershaded"
+    === "Everdistant Summershade"
         ![](../img/yekaterina-everdistant-summershade.jpg)
 
 ## Skills
@@ -40,6 +40,10 @@
 !!! info "Discipline Skill"
     === "Future Dreamt with the Skull"
         {{ get_skill_description('Future Dreamt with the Skull') }}
+
+    === "Path walked with a Skull"
+        {{ get_skill_description('Path walked with a Skull') }}
+        
 
 ## Adventurer Reviews
 
