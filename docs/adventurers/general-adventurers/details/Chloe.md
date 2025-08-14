@@ -30,14 +30,14 @@
         {{ get_skill_description("Passive Accuracy Up (Fighter)") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Interpersonal Combat Technique"
+    === "Interpersonal Combat Technique (Standard)"
         {{ get_skill_description("Interpersonal Combat Technique") }}
 
     === "Interpersonal Combat Technique (Everdistant Summershade)"
         {{ get_skill_description("Interpersonal Combat Technique (Everdistant Summershade)") }}
 
 !!! info "Discipline Skill"
-    === "Practical Self-Defense"
+    === "Practical Self-Defense (Standard)"
         {{ get_skill_description("Practical Self-Defense") }}
 
     === "Midsummer Valor (Everdistant Summershade)"
