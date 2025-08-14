@@ -39,7 +39,8 @@ The boss will be accessible with the malefic key on the top left room of the 3rd
 - He will summon the succubi again and buff one more time. The third time he will summon 2 greater demons and Makaltu + Cortu on everyone.
 - The boss has around 35k HP total.
 - The boss hits extremely hard and gets to move twice per turn. He will usually use a typical greater demon moveset.
-- The demon can cast Demonic Hand Of Chaos any turn, which is a full party confusion. It is recommended to cast kinapic if possible.
+- The boss can cast Demonic Hand Of Chaos any turn, which is a full party confusion. It is recommended to cast kinapic on both rows if possible.
+- The boss can be respawned by cursed wheeling. 
 
 ### Boss Rewards
 
