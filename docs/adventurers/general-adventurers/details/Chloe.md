@@ -15,6 +15,10 @@
     === "Knight"
         ![](../img/chloe-knight.jpg)
 
+    === "Everdistant Summershade"
+        ![](../img/chloe-everdistant-summershade.jpg)
+      
+
 ## Skills
 
 !!! info "Inheritable Skill"
