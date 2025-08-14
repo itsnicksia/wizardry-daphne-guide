@@ -32,7 +32,14 @@
 !!! info "Unique Skill (Not Inheritable)"
     === "Interpersonal Combat Technique"
         {{ get_skill_description("Interpersonal Combat Technique") }}
-        
+
+    === "Interpersonal Combat Technique (Everdistant Summershade)"
+        {{ get_skill_description("Interpersonal Combat Technique (Everdistant Summershade)") }}
+
 !!! info "Discipline Skill"
     === "Practical Self-Defense"
         {{ get_skill_description("Practical Self-Defense") }}
+
+    === "Midsummer Valor (Everdistant Summershade)"
+        {{ get_skill_description("Midsummer Valor") }}
+        
