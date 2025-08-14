@@ -36,20 +36,20 @@
     ??? note "This skill removes the dampening from spells that deal element type damage as well as the damage caused by element type skills and when using elemental weapons."
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Knowledge of the Millennial Lord"
+    === "Knowledge of the Millennial Lord (standard)"
         {{ get_skill_description('Knowledge of the Millennial Lord') }}
     
-    === "Light Shaft's Radiance"
+    === "Light Shaft's Radiance (Millennial Lord)"
         {{ get_skill_description("Light Shaft's Radiance") }}
 
         !!! note
             This damage increase is two-part, with the first part being approximately 10% and the second part being approximately 15%.
 
 !!! info "Discipline Skill"
-    === "Will of the Millennial Lord"
+    === "Will of the Millennial Lord (standard)"
         {{ get_skill_description('Will of the Millennial Lord') }}
 
-    === "Twilight of the Long-Lived Race"
+    === "Twilight of the Long-Lived Race (Millennial Lord)"
         {{ get_skill_description('Twilight of the Long-Lived Race') }}
 
 ## Adventurer Reviews
