@@ -14,11 +14,11 @@
 
 1. Head to the Royal Capital Adventurer Guild and accept the request directly from Arna herself after the cutscene.
 2. Head to the Edge of Town to access the Cave of Separation.
-3. Find the adventurer on each floor and keep heading down. On the 2nd floor, the mage may be in different spots. See check mark on the maps.
-4. Find the last adventurer Fugol, who indicates that Erik has been killed this whole time. Glenn is a vampire and teleports away with Erik's body. You now need to fight Fugol which is a relatively easy fight.
+3. Find the adventurers on each floor and keep heading down. Glenn may be in different spots. On the 2nd floor, the mage may be in different spots. See check mark on the maps.
+4. Find the last adventurer Fugol, who may be in different spots. He indicates that Erik has been killed this whole time. Glenn is a vampire and teleports away with Erik's body. You now need to fight Fugol which is a relatively easy fight.
 5. Head back to the 2nd floor to pick up the mage and return to the Adventurer's Guild to turn in the request.
-6. Despite failing, you will still receive a reward. Proceed to Cursed Wheel back in time. Go find glenn on the first floor and choose the option to slay him. You will fight his Vampire form, which has around 4k HP.
-7. Find the mage on the 2nd floor and then find Fugol again and proceed to fight Glenn a 2nd time. This time however, he summons an additional Vampire into the fight.
+6. Despite failing, you will still receive a reward. Proceed to Cursed Wheel back in time. Go find glenn on the first floor and choose the option to slay him. You will fight his Vampire form, which has around 4k HP. If you choose the option "Don't take him with you", he will ambush you.
+7. Find the mage on the 2nd floor and then find Fugol again and proceed to fight Glenn a 2nd time. This time however, he summons an additional weaker Vampire into the fight.
 8. Win the fight and obtain a key for the optional boss. Return to the Adventurer's Guild and turn in the request and find out about Arna's past.
 
 ## Reward
