@@ -21,6 +21,9 @@
     === "Priest After Personal Request"
         ![](../img/yekaterina-priest-personal-request.jpg)
 
+    === "Everdistant Summershaded"
+        ![](../img/yekaterina-everdistant-summershade.jpg)
+
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
