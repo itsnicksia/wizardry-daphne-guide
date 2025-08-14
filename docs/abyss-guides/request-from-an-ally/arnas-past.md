@@ -50,3 +50,7 @@ The boss will be accessible with the malefic key on the top left room of the 3rd
 There will also be a chest drop for 5 Azure Lustrous ore and 3 Separation Rare Five Blossom Junk.
 
 ![](./img/arna-cave-rare-junk.png)
+
+There is also a chance of it dropping this unique accessory
+
+![](./img/bracelet-of-sealed-battle.png)
