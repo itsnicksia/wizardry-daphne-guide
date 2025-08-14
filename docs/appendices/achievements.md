@@ -233,6 +233,7 @@
     | Full Belly               | Eat all dishes other than the daily special.                       |
     | 100th Login              | Log in for a total of 100 days.                                    |
     | 300th Login              | Log in for a total of 300 days.                                    |
+    | 500th Login              | Log in for a total of 500 days.                                    |
     | Character Aficionado     | Record 10 characters in the Characters category of the Compendium. |
     | Character Aficionado II  | Record 30 characters in the Characters category of the Compendium. |
     | Character Aficionado III | Record 50 characters in the Characters category of the Compendium. |
