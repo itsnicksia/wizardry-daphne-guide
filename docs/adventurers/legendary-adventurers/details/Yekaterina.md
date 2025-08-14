@@ -89,6 +89,15 @@
 
         Overall, better than the riff-raff but faces some serious competition from other units that can easily outdo her with easier access to merges or access to other team synergies and utility. (Elf-Mag, Milana, Iarumas,etc)
 
+
+    === "Everdistant Summershade"
+
+        I believe most people look at this one and say “side-grade”, but ignoring the difficulty of getting merges for the discipline, I believe that this is technically better, even if it’s not flashy.
+
+        HP + MP is preferable over Omni-bind tolerance + MP. Since most enemies don’t have the means to bind you at all and most fights don’t last long enough for enemies who can bind to land it on you, it feels like a wasted discipline focus. On the other hand, while MP isn’t a bad focus stat, it really only keeps her MP relative to the elven casters who trade lower HP totals for higher MP and Mag Power naturally and also have some form of MP conservation/regen (Adam/Shelirionach) or dmg buff (Alice/Milana/Flut/Chadam) on top of that. The same elves that can patch up their low HP pools by increasing discipline levels…The design space for non-elf mages is so bland
+
+        A tankier mage that’s less reliant on RNG-based mitigation than Adam and Sheli. Trades her 4/10 anti-undead passive for a 5/10 phys resist and small HP boost. Yekaterina is fighting for her life for 5th place! Still overrated out of 10.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
