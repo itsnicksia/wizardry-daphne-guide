@@ -52,6 +52,6 @@ There will also be a chest drop for 5 Azure Lustrous ore and 3 Separation Rare F
 
 ![](./img/arna-cave-rare-junk.png)
 
-There is also a chance of it dropping this unique accessory
+There is also a chance of it dropping this unique accessory. This bracelet can spawn up to Red 5*.
 
 ![](./img/bracelet-of-sealed-battle.png)
