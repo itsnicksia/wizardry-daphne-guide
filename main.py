@@ -29,7 +29,6 @@ def define_env(env):
                 rarity = row['Rarity'].strip().lower()
                 name_slug = name.replace(' ', '-')
                 return f"[{name}](./{rarity}-adventurers/details/{name_slug}.md)"
-
             results['Name'] = results.apply(linkify, axis=1)
 
         return results[return_columns]
@@ -125,3 +124,16 @@ def define_env(env):
         
 
         return eqdata
+
+    @env.filter
+    def make_skillnames_linkable(df):
+        df['Name'] ='<span id = "' + df['Name'].str.replace(' ', '') + '">' + \
+                    df['Name'].astype(str) + '</span>'
+        return df
+
+    @env.filter
+    def linkify_quicklist_skillnames(df):
+        df['Name'] = '[' + df['Name'].astype(str) + ']'\
+                     + '(./skills-and-spells.md#' \
+                     + df['Name'].str.replace(' ', '') + ')'
+        return df
