@@ -36,13 +36,13 @@ The boss will be accessible with the malefic key on the top left room of the 3rd
 
 ### Boss Details
 - It is possible to get iniative in this boss fight.
-- The boss will initially summon 2 Dark Succubi alongside him and cast Makaltu on himself and his allies. Each Dark Succubi have around 5k HP each. They typically use charm, mazelos, and OD suction.
+- The boss will initially summon 2 Dark Succubi alongside him and cast Makaltu on everyone. Each Dark Succubi have around 5k HP each. They typically use charm, mazelos, and OD suction.
 - The boss will summon the Dark Succubi again and buff everyone at around 15-17k HP dealt to it. It will summon two Greater Demons in the back row at around 25k-26k HP dealt. The Greater Demons have their typical movepool. They also have around 7k HP each.
-- If you take too long to get to the next HP threshold, the boss will re-summon the succubi if you have already killed them.
-- The boss has around 36-37k HP total. It also has extremely high surety evasion (100+).
-- The boss hits extremely hard and gets to move twice per turn. He will usually use a typical greater demon moveset.
-- The boss can uniquely cast Demonic Hand Of Chaos during any of their turns, which is a full party confusion.
-- The boss can be respawned by cursed wheeling. 
+- If you take too long to get to the next HP threshold, the boss will re-summon the succubi if you have already killed them. In addition, sometimes the boss will re-summon the succubi if you do not deal any damage that turn to it but kill both succubi before its next action.
+- The boss has around 36-37k HP total. It also has extremely high surety evasion (~150).
+- The boss hits extremely hard and gets to move twice per turn. It will usually use a typical greater demon moveset.
+- The boss can uniquely cast Demonic Hand Of Chaos during any of their turns, which is a full party confusion. They may even cast it back to back.
+- The boss can be respawned by Cursed Wheeling. 
 
 ### Boss Rewards
 
