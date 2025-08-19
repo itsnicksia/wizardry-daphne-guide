@@ -50,7 +50,7 @@ Thanks to \_.byakko_ on Discord.
 
 ## Emulators
 ### Video Guide For Bluestacks and LDPlayer
-[![Video For Bluestacks and LDPlayer Guides](img/Wizardry%20Emulator.png "How to Download Wizardry Variants Daphne on Bluestacks and LDPlayer")](https://www.youtube.com/watch?v=ZQayUMXtN0U)
+[![Video For Bluestacks and LDPlayer Guides](img/Wizardry-Emulator.jpg "How to Download Wizardry Variants Daphne on Bluestacks and LDPlayer")](https://www.youtube.com/watch?v=ZQayUMXtN0U)
 
 ### Bluestacks
 1. Download the Latest Version of [Bluestacks 5 Android 11 64-bit](https://www.bluestacks.com/download.html)
@@ -63,7 +63,7 @@ Thanks to \_.byakko_ on Discord.
     ![](img/bluestacks-vulkan.png)
 
 3. Download Wizardry Variants Daphne Through The Google PlayStore
-    ![](img/bluestacks-playstore.png)
+    ![](img/bluestacks-playstore.jpg)
 
 4. Reset Chrome Settings to Avoid Terms of Service Bug
     
@@ -76,7 +76,7 @@ Thanks to \_.byakko_ on Discord.
 
 5. Now You Can Play the Game **LINK YOUR ACCOUNT ASAP FOR SAFETY**
     
-    ![](img/bluestacks-wizardry.png)
+    ![](img/bluestacks-wizardry.jpg)
 
 ## Bluestacks Crashing Bug
 If you are experiencing frequent crashing to homescreen when you are trying to open the app then you might need to clear the cache through settings.
@@ -114,7 +114,7 @@ Go to Settings->Apps->Wiz Daphne->Storage & Cache->**CLEAR CACHE** and **NOT CLE
     
 4. Now You Can Play the Game **LINK YOUR ACCOUNT ASAP FOR SAFETY**
     
-    ![](img/ldplayer-wizardry.png)
+    ![](img/ldplayer-wizardry.jpg)
 
 ## FAQ
 ### Which one is better?
