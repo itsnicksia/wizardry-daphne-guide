@@ -133,7 +133,7 @@ but this requires stacking Magic Power up to around 200 for each.
 ### Zone 6 Experience and Junk Farming
 
 !!! map "Main Fighting Routes"
-    ![](img/guarda-fortress-experience-junk-farming.png)
+    ![](img/guarda-fortress-experience-junk-farming.jpg)
 
     ??? note "Strategy"
 
@@ -149,7 +149,7 @@ but this requires stacking Magic Power up to around 200 for each.
         4. Sentries in this floor minus the Cyclops have very low accuracy. You can evade most attacks just by having around 110-120 evasion. Having much more may guarantee not being hit at all entirely.
 
 !!! map "Alternate Farming Method - Zero to Minimum Fighting"
-    ![](img/zone-6-farm.png)
+    ![](img/zone-6-farm.jpg)
         - Blue Circles indicate chest spawn areas. Red Areas indicate possible enemy spawns
 
     ??? note "Strategy"
@@ -166,7 +166,7 @@ but this requires stacking Magic Power up to around 200 for each.
 ### Zone 1 + Zone 8 Junk Farm (Needs specific map variants)
 
 !!! map
-    ![](img/zone-1-and-8-farm.png)
+    ![](img/zone-1-and-8-farm.jpg)
 
     ??? note "Some Notes"
 
@@ -176,7 +176,7 @@ but this requires stacking Magic Power up to around 200 for each.
 ### Zone 10 Shinobi Junk + General Junk Farming
 
 !!! map
-    ![](img/zone-10-farm-full.png)
+    ![](img/zone-10-farm-full.jpg)
 
     ??? note "Strategy"
 
@@ -190,7 +190,7 @@ but this requires stacking Magic Power up to around 200 for each.
         This same path can roughly be followed prior to obtaining the Triumphant Return step, however it is a bit more manual as it involves wheeling to the Zone 10 arrival, manually moving down past the sentries, then autopathing back up after clearing the bottom three encounters. It takes longer this way, but can be useful for folks that want to start this farm prior to saving the Duke.
 
 !!! map
-    ![](img/zone-10-farm-partial.png)
+    ![](img/zone-10-farm-partial.jpg)
 
     ??? note "Strategy"
 
@@ -227,7 +227,7 @@ but this requires stacking Magic Power up to around 200 for each.
 
         !!! caution "As of 1.8.0, this fight no longer guarantees chest drop (drops at normal rate). Also, the candles spawn random enemies from a set batch."
 
-        ![](img/catacombs-candle.png)
+        ![](img/catacombs-candle.jpg)
 
 ### Elmon Farm (Le Bicken Cave Farm)
 
@@ -246,10 +246,10 @@ but this requires stacking Magic Power up to around 200 for each.
 
 !!! note "After Ver 1.12.0, you can now remove all the traps in the cave for easier farming by going to the boss room on B3F and flipping a switch on the wall left of the final chest"
 
-    ![](img/ninja-knowledge.png)
+    ![](img/ninja-knowledge.jpg)
 
 !!! map
-    ![](img/merc.png)
+    ![](img/merc.jpg)
 
     ??? note "Strategy"
 
@@ -258,12 +258,12 @@ but this requires stacking Magic Power up to around 200 for each.
         3. Alternatively if you do not want to lose any fortitude, consider staying only on B1F using the route below. Simply auto-path to the red star and then the blue star, and then autopath out of the dungeon and repeat. Pick up any nearby chests if they slightly deviate from the route.
 
 !!! map
-    ![](img/b1f-ninja-farm.png)
+    ![](img/b1f-ninja-farm.jpg)
 
 ### Experience Farming - Trial of the Heat-Haze B1F
 
 !!! map
-    ![](img/ninja-exp-farm.png)
+    ![](img/ninja-exp-farm.jpg)
 
     ??? note "Strategy"
 
