@@ -16,7 +16,7 @@ Once more and more bones are found, the mausoleum will increasingly drop class s
 
 #### ^^Crucible Mausoleum^^
 
-This part of the Mausoleum resets every 2 weeks and provides 5 random adventurer bones guaranteed. It's highly suggested to clear this out whenever you can. The map here is still the same as that of the general Ancient Mausoleum, though the scenery is slightly different.
+This part of the Mausoleum resets every 2 weeks with 4 or 5 random general adventurer bones (available adventurer names can be seen by tapping the (i) icon at the selection screen). It's highly suggested to clear this out whenever you can. The map here is still the same as that of the general Ancient Mausoleum, though the scenery is slightly different.
 
 ??? note "Tips for Ancient Mausoleum"
     - It's recommended to bring undead-bane weapons. Evasion is also a very good stat to have to deal with dodging instant-kill skills.
