@@ -71,11 +71,11 @@ Kick their asses.
 
 After another cutscene, you enter a city - Royal Capital Luknalia.
 
-![Royal Capital Luknalia](img/town.png)
+![Royal Capital Luknalia](img/town.jpg)
 
 Lets head to the Adventurer's Guild, and meet the nice lady - Arna!
 
-![Guildswoman Arna](img/arna.png)
+![Guildswoman Arna](img/arna.jpg)
 
 She'll tell us a bit of information, and most importantly, show us how to summon Adventurers.
 

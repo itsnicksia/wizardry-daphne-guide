@@ -19,7 +19,7 @@
 6. Return to the Royal Capital's Adventurer's Guild and turn in the request. You will obtain a piece of gear and some knowledge about Elmon
 
 ## Reward
-  ![](./img/symbol-of-alliance-reward.png)
+  ![](./img/symbol-of-alliance-reward.jpg)
 
 !!! note "About the Reward"
     This item is farmable with no CD and can spawn up to 4* Purple?. It increases Def, Mdef, and Evasion on enhancement. The grade, quality, and substats are random.

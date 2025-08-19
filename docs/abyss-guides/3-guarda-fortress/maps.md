@@ -76,10 +76,10 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - The Harken is after the boss at the end of the Green route.
 
         !!! map "Zone 2 -Old Secret Passage B2F-"
-            ![](./img/zone-2-path.png)
+            ![](./img/zone-2-path.jpg)
 
         !!! map "Zone 3 -Old Secret Passage B3F-"
-            ![](./img/zone-3-path.png)
+            ![](./img/zone-3-path.jpg)
 
     ??? note "Walkthrough 2nd Run and onwards"
         1. This will be about the same, except the golems can be used to block the Corruption Sentry's line of view. The top golem is optional but the bottom golem is necessary to block the view of the sentry in the way.
@@ -141,7 +141,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         1. The concept of crushing alarm traps is introduced in this map. You need to crush the alarm trap near the end to prevent it from spawning the Corruption Sentry.
         2. Remember to view the painting near the end of the map.
 
-        ![](./img/golem-answer-6.png)
+        ![](./img/golem-answer-6.jpg)
 
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
     ![](./img/zone-7-complete.jpg)
@@ -158,8 +158,8 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         1. The concept of crushing sentries is introduced on this map. You will need to do so to pass by the Corruption Sentry in the room with 6 Golems in two parallel lines.
         2. Near the end, you can skip the Doll boss entirely by crushing them with a Golem.
 
-        ![](./img/golem-answer-7.png)
-        ![](./img/golem-kill-boss.png)
+        ![](./img/golem-answer-7.jpg)
+        ![](./img/golem-kill-boss.jpg)
 
     ??? danger "Boss: Doll"
         - Abilities: Charm, Confuse, MP Drain
@@ -195,7 +195,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     ??? note "Walkthrough 2nd Run and onwards (2nd Half from Zone 9 to Zone 8 back to Zone 9)"
         1. When dropping down this time, the room that was previously blocked by corruption is now open. You must go into this room to obtain the request for saving Liam. There is also a rag in this room that triggers a Corruption Sentry if obtained, but is necessary for saving Liam unharmed. You can Cursed Wheel away the corruption stack from this encounter.          2. In addition, you can use the Right Hand Reversal mechanic to bypass the Corruption Sentry in the bottom left of the map.
 
-        ![](./img/golem-answer-8.png)
+        ![](./img/golem-answer-8.jpg)
 
 ??? map "Zone 9 -Fortress 2F Entrance-"
     ![](./img/zone-9-complete.jpg)
@@ -214,7 +214,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     ??? note "Walkthrough 2nd Run and onwards (Both Halves)"
         - The trap room that previously locked you in with a corruption sentry can be solved now. This room may show up on either half of this floor.
 
-        ![](./img/golem-answer-9.png)
+        ![](./img/golem-answer-9.jpg)
 
 ??? map "Zone 10 -Fortress 3F Lord's Room-"
     ![](./img/zone-10-complete.jpg)
@@ -238,7 +238,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
             - Zone 8: X:4, Y:9 | X:7, Y:19
         2. In the room before dropping down to the Corruption Sentry, you can open a different hole with a Golem so you don't get seen. 
 
-            ![](./img/golem-answer-10-2.png)
+            ![](./img/golem-answer-10-2.jpg)
 
     ??? note "Walkthrough 2nd Run and onwards (2nd Half straight to the Duke)"
         - It's generally the same this time. Depending on which ending run you are there may be different things to do though. You don't need to interact with the Lever this time and can just walk directly to the ramparts of the castle.
@@ -246,7 +246,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
     ??? map "Path to boss"
         In order to reach the boss, you must circle around to the other side of the stone pillar and interact with it. Along the way, you will encounter one mandatory sentry battle and on your first run, you will encounter a second mandatory sentry battle during the dialog prompts.
         
-        ![](./img/zone-10-path-to-boss.png)
+        ![](./img/zone-10-path-to-boss.jpg)
 
     !!! danger
         [Greater Warped One](important-request-gwo.md)

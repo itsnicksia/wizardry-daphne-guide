@@ -165,6 +165,6 @@ Saved the Duke and apprehended the mastermind.
 
 ??? note "Note about no Corruption Runs" 
 
-    ![](./img/no_corruption_true_ending_achievement.png)
+    ![](./img/no_corruption_true_ending_achievement.jpg)
 
     It is extremely difficult to attempt a no corruption run. There is nothing to gain from this except 50 gems and an achievement to flex.

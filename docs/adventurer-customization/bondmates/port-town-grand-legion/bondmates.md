@@ -5,10 +5,10 @@
 ### Donald
 
 ??? info "Donald"
-    ![](img/image_5.png)
+    ![](img/image_5.jpg)
 
 ??? info "Skill"
-    ![](img/image_6.png)
+    ![](img/image_6.jpg)
 
 - Complete all waves of the [Defend My Shop from Goblins Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#defend-my-shop-from-goblins)
 
@@ -31,7 +31,7 @@
 3. Go to the marked spot in the 2nd District to receive the bondmate.
 
 ??? map "Final Location"
-    ![](img/regia-final-location.png)
+    ![](img/regia-final-location.jpg)
 
 !!! note "To farm, Cursed Wheel to The King's Rescue in the previous abyss and then to Colossal Galleon and repeat the request. It is also possible to Cursed Wheel to Arena Round 5 to have less NPCs spawn in the pier besides Regia."
 !!! warning "This bondmate is very tedious to farm"
@@ -41,10 +41,10 @@
 ### Bergier the Fisherman
 
 ??? info "Bergier the Fisherman"
-    ![](img/image_17.png)
+    ![](img/image_17.jpg)
 
 ??? info "Skill"
-    ![](img/image_18.png)
+    ![](img/image_18.jpg)
 
 - Complete the [Fisherman Rescue Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#fisherman-rescue) battle within the limited turn count to avoid any of them dying. 
 
@@ -55,10 +55,10 @@
 ### Pirate Captain Valo
 
 ??? info "Pirate Captain Valo"
-    ![](img/image_23.png)
+    ![](img/image_23.jpg)
 
 ??? info "Skill"
-    ![](img/image_24.png)
+    ![](img/image_24.jpg)
     
 1. Complete [Retake Stolen Belongings from Robbers Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#retake-stolen-belongings-from-robbers).
 2. Cursed Wheel to One-Eyed Sahuagin and take the request, but this time selecting the “Pirates?” dialogue choice when prompted at quest start.
@@ -70,10 +70,10 @@
 ### Doris, the Frightened Maid
 
 ??? info "Doris, the Frightened Maid"
-    ![](img/image_39.png)
+    ![](img/image_39.jpg)
 
 ??? info "Skill"
-    ![](img/image_40.png)
+    ![](img/image_40.jpg)
 
 - Complete the [Servant and Cargo Recovery Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#servant-and-cargo-recovery) within the time limit and choose to let the maids go.
 
@@ -82,10 +82,10 @@
 ### Caterwaul Crew
 
 ??? info "Caterwaul Crew"
-    ![](img/image_42.png)
+    ![](img/image_42.jpg)
 
 ??? info "Skill"
-    ![](img/image_41.png)
+    ![](img/image_41.jpg)
 
 - Complete the [Repel Enemy Forces Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#repel-enemy-forces) and defeat all waves.
 
@@ -117,10 +117,10 @@
 ### Ugo in the Ship's Hold
 
 ??? info "Ugo"
-    ![](img/ugo.png)
+    ![](img/ugo.jpg)
 
 ??? info "Skill"
-    ![](img/ugo-skill.png)
+    ![](img/ugo-skill.jpg)
 
 - Complete the [Oar Collector Extermination Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#oar-collector-extermination)
 
@@ -161,10 +161,10 @@
 ### Gigi
 
 ??? info "Gigi"
-    ![](img/image_72.png)
+    ![](img/image_72.jpg)
 
 ??? info "Skill"
-    ![](img/image_73.png)
+    ![](img/image_73.jpg)
 
 - After witnessing his death to Melgina on the 1st run, warn him of his impending demise the second time so that he lives.  
 - Find him in the same spot he was in on the boat and speak to him after defeating Melgina and successfully completing your objective.
@@ -174,10 +174,10 @@
 ### Melgina
 
 ??? info "Melgina"
-    ![](img/image_74.png)
+    ![](img/image_74.jpg)
 
 ??? info "Skill"
-    ![](img/image_75.png)
+    ![](img/image_75.jpg)
 
 1. Defeat Melgina once to learn that she was not the true greater warped one  
 2. Complete your request to find the missing person alive to get the Merfolk Lexicon  
@@ -196,23 +196,23 @@
 ### Songstress Marin
 
 ??? info "Songstress Marin"
-    ![](img/image_101.png)
+    ![](img/image_101.jpg)
 
 ??? info "Skill"
-    ![](img/image_102.png)
+    ![](img/image_102.jpg)
 
 - Complete the [Murder Investigation Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#murder-investigation) from Rickert.
 - Marin has various locations that she can spawn on the map. However, only one location will drop her hairpin. If she doesn't spawn in the correct location, you need to cursed wheel. 
 - She will only drop the Hairpin in the checked location below (lower middle room).
 
 ??? map "Marin's Location"
-    ![](img/image_76.png)
+    ![](img/image_76.jpg)
 
 - After getting the hairpin, Cursed Wheel back and show the hairpin to Rickert once accepting the Murder Investigation request.  
 - Once you show Rickert the hairband she’ll leave, if you head to Lower Deck 2 -Lounge-, you’ll find her speaking with Marin. Go there to receive the bondmate.  
 
 ??? map "Final Location"
-    ![](img/image_77.png)
+    ![](img/image_77.jpg)
 
 !!! note "To farm, Cursed Wheel to Arena Round 4 and repeat the request"
 
@@ -221,10 +221,10 @@
 ### Reprobus
 
 ??? info "Reprobus"
-    ![](img/image_79.png)
+    ![](img/image_79.jpg)
 
 ??? info "Skill"
-    ![](img/image_80.png)
+    ![](img/image_80.jpg)
 
 - Complete the [Arena Tourney Hosted by Avare! Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#arena-tourney-hosted-by-avare) to completion
 

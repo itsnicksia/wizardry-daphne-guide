@@ -3,10 +3,10 @@
 - All adventurers can be bondmates if you dismiss them once they reach max [trust](../../mechanics/trust/trust.md)
 
 ??? note "Adventurer Trust Icon"
-![](img/adventurer-trust-icon.png)
+![](img/adventurer-trust-icon.jpg)
 
 ??? note "Adventurer Bondmate Example"
-![](img/adventurer-bondmate-example.png)
+![](img/adventurer-bondmate-example.jpg)
 
 * Dismissed heroes with the flaming heart icon become bondmates that give a bonus to a certain base attribute (+1..+5, depending on bondmate level).
 * The bondmate level of a dismissed adventurer seems to depend on the bondmates attached to it on dismissal. If the adventurer has two level 5 bondmates, the resulting bondmate will in most cases (but not always) be level 5 too. Attached bondmates are returned to the pool on dismissal and can be attached to someone else afterwards.

@@ -2,7 +2,7 @@
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 
-![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.png)
+![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
 
 ## ^^Video Guide^^
 
@@ -160,7 +160,7 @@ Only the star quality of an item being extracted determines the blessing magnitu
 
 ### ^^Full Alteration^^
 
-![](img/samurai-meme.png)
+![](img/samurai-meme.jpg)
 
 A **Full Alteration Stone** allows you to reroll all unlocked substats on an item.
 
@@ -177,10 +177,10 @@ As of Update 1.12.1, Full Alteration Stones will now also re-apply Milestone Ble
 Using a SECOND FAS on the same item repeats the process - it will again re-roll all blessings while unlocking an alteration slot, even if you had altered previously.
 
 !!! note "Example 1: Using One Full Alter Stone"
-    ![](img/fas-subject-1.png)
+    ![](img/fas-subject-1.jpg)
 
 !!! note "Example 1: Using Two Full Alter Stones"
-    ![](img/fas-subject-2.png)
+    ![](img/fas-subject-2.jpg)
 
 As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls the stats but does not apply re-apply Milestone Blessings. They drop more frequently than Full Alteration Stones, but are still quite rare. 
 
