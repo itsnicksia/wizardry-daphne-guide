@@ -15,16 +15,16 @@ Keep in mind unique adventurer classes that are "mages" can enter such as Iaruma
 !!! note "All the maps here are the same as that of the Fighter Proving Grounds."
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.png)
+    ![](img/fighter-map-1.jpg)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.png)
+    ![](img/fighter-map-2.jpg)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-4.png)
+    ![](img/fighter-map-4.jpg)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-5.png)
+    ![](img/fighter-map-5.jpg)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
@@ -46,5 +46,5 @@ Keep in mind unique adventurer classes that are "mages" can enter such as Iaruma
     - At a certain HP threshold, the Chimera will buff again?
 
 ??? note "Master Mage's Ring"
-    ![](img/mage-ring.png)
+    ![](img/mage-ring.jpg)
     - The Mage ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines.

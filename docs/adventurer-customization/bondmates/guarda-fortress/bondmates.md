@@ -5,30 +5,30 @@
 ### Kidnapped Girl Liam
 
 ??? info "Kidnapped Girl Liam"
-    ![](img/kidnapped-girl-liam.png)
+    ![](img/kidnapped-girl-liam.jpg)
 
 ??? info "Skill"
-    ![](img/kidnapped-girl-liam-skill.png)
+    ![](img/kidnapped-girl-liam-skill.jpg)
 
 - Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-the-missing-girl) request perfectly.
 
 !!! note "Kidnapped Girl Liam is permanently lvl 1."
 
 ??? info "Sam the Rascally Dog"
-    ![](img/sam-the-rascally-dog-1.png)
+    ![](img/sam-the-rascally-dog-1.jpg)
     
 ??? info "Skill"
-    ![](img/sam-the-rascally-dog-skill.png)
+    ![](img/sam-the-rascally-dog-skill.jpg)
 
 - Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#obtaining-sam-the-rascally-dog) request incorrectly.
 
 ### Guardian Knight Dalian
 
 ??? info "Guardian Knight Dalian"
-    ![](img/guardian-knight-dalian.png)
+    ![](img/guardian-knight-dalian.jpg)
 
 ??? info "Skill"
-    ![](img/guardian-knight-dalian-skill.png)
+    ![](img/guardian-knight-dalian-skill.jpg)
 
 - Complete the [Blackmail Resolution](../../../abyss-guides/3-guarda-fortress/requests.md#blackmail-resolution) request.
 
@@ -45,10 +45,10 @@
 ### Enthusiastic Carpenter Hans
 
 ??? info "Enthusiastic Carpenter Hans"
-    ![](img/enthusiastic-carpenter-hans.png)
+    ![](img/enthusiastic-carpenter-hans.jpg)
 
 ??? info "Skill"
-    ![](img/enthusiastic-carpenter-hans-skill.png)
+    ![](img/enthusiastic-carpenter-hans-skill.jpg)
 
 - Complete the [Bodyguard for Ruins Exploration](../../../abyss-guides/3-guarda-fortress/requests.md#bodyguard-for-ruins-exploration) request.
 
@@ -61,10 +61,10 @@
 ### Endy the Mage
 
 ??? info "Endy the Mage"
-    ![](img/endy-the-mage.png)
+    ![](img/endy-the-mage.jpg)
 
 ??? info "Skill"
-    ![](img/endy-the-mage-skill.png)
+    ![](img/endy-the-mage-skill.jpg)
 
 - Complete the [Forbidden Area Search Escort](../../../abyss-guides/3-guarda-fortress/requests.md#forbidden-area-search-escort) request.
 
@@ -77,10 +77,10 @@
 ### Singing Skeleton in the Tunnel
 
 ??? info "Singing Skeleton in the Tunnel"
-    ![](img/singing-skeleton-in-the-tunnel.png)
+    ![](img/singing-skeleton-in-the-tunnel.jpg)
 
 ??? info "Skill"
-    ![](img/singing-skeleton-in-the-tunnel-skill.png)
+    ![](img/singing-skeleton-in-the-tunnel-skill.jpg)
 
 - Complete the [Search for Missing Person](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-missing-person) request.
 
@@ -93,10 +93,10 @@
 ### Brita the Lazy Handmaiden
 
 ??? info "Brita the Lazy Handmaiden"
-    ![](img/brita-the-lazy-handmaiden1.png)
+    ![](img/brita-the-lazy-handmaiden1.jpg)
 
 ??? info "Skill"
-    ![](img/brita-the-lazy-handmaiden-skill.png)
+    ![](img/brita-the-lazy-handmaiden-skill.jpg)
 
 - Complete the [Water Hauling](../../../abyss-guides/3-guarda-fortress/requests.md#water-hauling) request.
 
@@ -109,10 +109,10 @@
 ### Prophetic Scarlet Bisque Doll
 
 ??? info "Prophetic Scarlet Bisque Doll"
-    ![](img/prophetic-scarlet-bisque-doll.png)
+    ![](img/prophetic-scarlet-bisque-doll.jpg)
 
 ??? info "Skill"
-    ![](img/prophetic-scarlet-bisque-doll-skill.png)
+    ![](img/prophetic-scarlet-bisque-doll-skill.jpg)
 
 - Complete the [Doll of Fortune](../../../abyss-guides/3-guarda-fortress/requests.md#doll-of-fortune) request.
 
@@ -121,10 +121,10 @@
 ### Duke Ixion
 
 ??? info "Duke Ixion"
-    ![](img/duke-ixion1.png)
+    ![](img/duke-ixion1.jpg)
 
 ??? info "Skill"
-    ![](img/duke-ixion-skill.png)
+    ![](img/duke-ixion-skill.jpg)
 
 - Complete the [Expedition to Clear the Fortress Lower Levels](../../../abyss-guides/3-guarda-fortress/requests.md#expedition-to-clear-the-fortress-lower-levels) request.
 
@@ -133,20 +133,20 @@
 ### Eugen and Bibi
 
 ??? info "Eugen and Bibi"
-    ![](img/eugen-and-bibi.png)
+    ![](img/eugen-and-bibi.jpg)
 
 ??? info "Skill"
-    ![](img/eugen-and-bibi-skill.png)
+    ![](img/eugen-and-bibi-skill.jpg)
 
 - Complete the [Missing Companion](../../../abyss-guides/3-guarda-fortress/requests.md#missing-companion) request.
 
 ### Graham, Knight Commander of Guarda
 
 ??? info "Graham, Knight Commander of Guarda"
-    ![](img/graham-knight-commander-of-guarda.png)
+    ![](img/graham-knight-commander-of-guarda.jpg)
 
 ??? info "Skill"
-    ![](img/graham-knight-commander-of-guarda-skill.png)
+    ![](img/graham-knight-commander-of-guarda-skill.jpg)
 
 - Complete the [Emergency Occurrence](../../../abyss-guides/3-guarda-fortress/requests.md#emergency-occurrence) request.
 
@@ -155,10 +155,10 @@
 ### Concerned Brother Elequon
 
 ??? info "Concerned Brother Elequon"
-    ![](img/concerned-brother-elequon.png)
+    ![](img/concerned-brother-elequon.jpg)
 
 ??? info "Skill"
-    ![](img/concerned-brother-elequon-skill.png)
+    ![](img/concerned-brother-elequon-skill.jpg)
 
 1. Obtain Mini Golem Doll from the golem skeleton besides the Harken in Zone 4.
 2. Trade the Mini Golem Doll to Dr. Raimi at Guarda Fortress Entrance for a Mysterious Root.
@@ -175,10 +175,10 @@
 ### Old Mage's Lingering Fixation
 
 ??? info "Old Mage's Lingering Fixation"
-    ![](img/old-mages-lingering-fixation.png)
+    ![](img/old-mages-lingering-fixation.jpg)
 
 ??? info "Skill"
-    ![](img/old-mages-lingering-fixation-skill.png)
+    ![](img/old-mages-lingering-fixation-skill.jpg)
 
 - He will randomly spawn throughout Abyss 3 from Zone 1 - 6 (with the exception of 4)
 - Help him with his spell (battle him) 3 times and he will eventually become a bondmate.
@@ -188,10 +188,10 @@
 ### Cheating Gambler Faile
 
 ??? info "Cheating Gambler Faile"
-    ![](img/cheating-gambler-faile.png)
+    ![](img/cheating-gambler-faile.jpg)
 
 ??? info "Skill"
-    ![](img/cheating-gambler-faile-skill.png)
+    ![](img/cheating-gambler-faile-skill.jpg)
 
 If you have already stopped the Mastermind of Abyss 3, then follow these steps to reset:
 

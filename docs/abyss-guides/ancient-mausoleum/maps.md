@@ -29,7 +29,7 @@ This part of the Mausoleum resets every 2 weeks with 4 or 5 random general adven
     ![](img/ancient-mausoleum.jpg)
 
 ??? map "Shortest Path to a Chest"
-    ![](img/shortest-path.png)
+    ![](img/shortest-path.jpg)
 
 ## Credits
 

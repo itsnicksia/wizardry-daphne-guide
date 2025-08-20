@@ -8,7 +8,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 ## Lead Exam
 
-![](img/lead-grade-exam.png)
+![](img/lead-grade-exam.jpg)
 
 *Images courtesy of [https://www.youtube.com/@Grafarya89](https://www.youtube.com/@Grafarya89)*
 
@@ -22,7 +22,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 ## Bronze Exam
 
-![](img/bronze-grade-exam.png)
+![](img/bronze-grade-exam.jpg)
 
 *Images courtesy of [https://www.youtube.com/@Grafarya89](https://www.youtube.com/@Grafarya89)*
 
@@ -40,7 +40,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 ## Iron Exam
 
-![](img/iron-grade-map.png)
+![](img/iron-grade-map.jpg)
 
 **Special Notes**:
 
@@ -49,7 +49,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 ## Steel Exam
 
-![](img/steel-grade-map.png)
+![](img/steel-grade-map.jpg)
 
 **Special Notes**
 

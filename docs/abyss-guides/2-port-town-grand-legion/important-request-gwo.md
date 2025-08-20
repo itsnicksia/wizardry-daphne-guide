@@ -70,7 +70,7 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 4. Proceed ahead with the remaining arena battles. 
 5. You won - time to claim your reward!
 
-![Melgina's Arena Reward](./img/melgina-reward.png)
+![Melgina's Arena Reward](./img/melgina-reward.jpg)
 
 ### Arena Reward (First Victory)
 

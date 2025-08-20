@@ -21,36 +21,36 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 
 ## Boss Rush Floors (5,10,15,20)
 
-![](img/boss-rush.png)
+![](img/boss-rush.jpg)
 
 ## Floor 2-4
-![](img/floor2.png)
+![](img/floor2.jpg)
 
-![](img/floor3.png)
+![](img/floor3.jpg)
 
-![](img/floor4.png)
+![](img/floor4.jpg)
 
 ## Floor 7-9
-![](img/floor7.png)
+![](img/floor7.jpg)
 
-![](img/floor8.png)
+![](img/floor8.jpg)
 
-![](img/floor9-1.png)
+![](img/floor9-1.jpg)
 
 ## Floor 12-14
-![](img/floor12.png)
+![](img/floor12.jpg)
 
-![](img/floor13.png)
+![](img/floor13.jpg)
 
-![](img/floor14.png)
+![](img/floor14.jpg)
 
 ## Floor 17-19
 
-![](img/floor17-1.png)
+![](img/floor17-1.jpg)
 
-![](img/floor18.png)
+![](img/floor18.jpg)
 
-![](img/floor19-1.png)
+![](img/floor19-1.jpg)
 
 ### Floor 20 Bosses
 1. Mimic + Succubus

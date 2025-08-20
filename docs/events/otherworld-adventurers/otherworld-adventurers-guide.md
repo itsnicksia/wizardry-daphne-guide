@@ -56,7 +56,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     11. Head back to town to turn in the request, and rewind time.
 
 ??? note "Ore Locations for 2nd Run"
-    ![](img/sahuagin-cave-ore-locations.png)
+    ![](img/sahuagin-cave-ore-locations.jpg)
 
 ??? note "3nd Run"
     1. Repeat everything from before up to the Blacksmith. This time you will ask for a shield as well.
@@ -67,7 +67,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
 ??? note "Ore Locations for 3nd Run"
-    ![](img/sahuagin-cave-ore-locations-2.png)
+    ![](img/sahuagin-cave-ore-locations-2.jpg)
 
 ??? note "Unique Event Rewards"
     ![](img/dragon-slayer.jpg)

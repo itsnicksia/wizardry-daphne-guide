@@ -11,16 +11,16 @@ You can obtain up to 600 Seals of the Fighter by completing the trials up the Ad
 There are several map variations, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end and defeat the floor boss. Keep in mind, it only counts as a clear upon talking to the old man with the mask beside the portal. There is a fountain that is guarded by a Benjamin-NPC on each side.
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.png)
+    ![](img/fighter-map-1.jpg)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.png)
+    ![](img/fighter-map-2.jpg)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-4.png)
+    ![](img/fighter-map-4.jpg)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-5.png)
+    ![](img/fighter-map-5.jpg)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
@@ -50,7 +50,7 @@ There are several map variations, and are random upon entering. It is not necess
         - Turn 6: Smack the Vampire for 3k+ damage. Around the first or second hit, he'll yell at you in Japanese. As long as your party all acts before he does next (thus the conditional BATILGREF), you'll kill him before he can bat you.
 
 ??? note "Master Fighter Ring"
-    ![](img/fighter-ring.png)
+    ![](img/fighter-ring.jpg)
     - The Fighter ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.
 
 

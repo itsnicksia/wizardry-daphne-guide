@@ -18,34 +18,34 @@ You need to have progressed in the story until the unlocking of the Cursed Wheel
 
 ???+ map "B1F Map"
     <div align="center">
-        ![](img/b1f.png)
+        ![](img/b1f.jpg)
     </div>
 
 ???+ map "B2F Map"
     <div align="center">
-        ![](img/b2f.png)
+        ![](img/b2f.jpg)
     </div>
 
 ???+ map "B3F Map"
     <div align="center">
-        ![](img/b3f.png)
+        ![](img/b3f.jpg)
     </div>
 
 ???+ map "B4F Map"
     <div align="center">
-        ![](img/b4f.png)
+        ![](img/b4f.jpg)
     </div>
 
 3. After reaching the locked doors on B4F and interacting with the 4 altars, you’ll receive 4 quests to gather materials. Bat Wings and Frog Tongues can be obtained in B2F. Rat Teeth and Lizard Tails can be obtained on B3F.
 
 ???+ map "B2F Materials"
     <div align="center">
-        ![](img/b2f-materials.png)
+        ![](img/b2f-materials.jpg)
     </div>
 
 ???+ map "B3F Materials"
     <div align="center">
-        ![](img/b3f-materials.png)
+        ![](img/b3f-materials.jpg)
     </div>
 
 4. After gathering all materials, interact again with the altars on B4F. You’ll be able to progress to the fight with Isabella, the Seal. 
@@ -57,7 +57,7 @@ You need to have progressed in the story until the unlocking of the Cursed Wheel
 7. Speak with the blacksmith. You can choose to either do a quest to acquire ore from the goblin cave or pay 3000G for the hammer. The quest is very hard, so you’re advised to pay for the hammer.
 
 ??? map "Ore Locations from Goblin Cave"
-    ![](img/goblin-cave-malice-locations.png)
+    ![](img/goblin-cave-malice-locations.jpg)
 
 8. Gather Crystals: you need 4 Purification Crystals, but some of the crystals you mine will only cause cave-ins and unlock new areas. After interacting with the 4 altars again, you’ll be prompted to gather 4 Entity Shards from the Earth Elementals. 
 
@@ -68,39 +68,39 @@ You need to have progressed in the story until the unlocking of the Cursed Wheel
 
 ???+ map "B1F Crystals"
     <div align="center">
-        ![](img/b1f-crystals.png)
+        ![](img/b1f-crystals.jpg)
     </div>
 
 ???+ map "B2F Crystals"
     <div align="center">
-        ![](img/b2f-crystals.png)
+        ![](img/b2f-crystals.jpg)
     </div>
 
 ???+ map "B3F Full Map"
     <div align="center">
-        ![](img/b3f-full-map.png)
+        ![](img/b3f-full-map.jpg)
     </div>
 
 ???+ map "Suggested Farming Route on B3F"
     <div align="center">
-        ![](img/b3f-farming-route.png)
+        ![](img/b3f-farming-route.jpg)
     </div>
     !!! note 
          This farming route in B3F is an EXP / Currency farming route with 4-6 guaranteed combats adjacent to harken for ~fastest combats or chests per minute farming rate.
 
 ???+ map "B4F Full Map"
     <div align="center">
-        ![](img/b4f-full-map.png)
+        ![](img/b4f-full-map.jpg)
     </div>
 
 ???+ map "B5F Full Map"
     <div align="center">
-        ![](img/b5f-full-map.png)
+        ![](img/b5f-full-map.jpg)
     </div>
 
 ???+ map "B5F Full Map"
     <div align="center">
-        ![](img/b4f-no-combat-farming-route.png)
+        ![](img/b4f-no-combat-farming-route.jpg)
     </div>
 
 Credits for maps: Gamerch

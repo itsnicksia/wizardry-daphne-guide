@@ -31,7 +31,7 @@
 7. Talk to Raimi at the tent. Once again, remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (this is a lie again).
 
 ??? map "Location of Wheat Room"
-    ![](./img/wheat_room.png)
+    ![](./img/wheat_room.jpg)
 
 ##### Rescuing the little girl safely
 
@@ -53,7 +53,7 @@
 4. Go back to Guarda and get the Sam from dog keeper then move around city to trigger 2 fights, both of which will be ambushes. After that the 3rd location will take you to kidnapper fight where you will rescue the girl.
 5. Go back to dog keeper to get the bond and a funny achievement.
 
-![](./img/lulunarde-special.png)
+![](./img/lulunarde-special.jpg)
 
 ### Blackmail Resolution
 
@@ -139,7 +139,7 @@
 - You will automatically be sent back to town and will be asked a question by Endy. The correct answer to Endy's final question is "Nothing is more precious than life".
 
 ??? map "Locations"
-    ![](./img/forbidden-search-area-escort-locations.png)
+    ![](./img/forbidden-search-area-escort-locations.jpg)
 
 ??? note "Answers to the Old Man's questions"
 
@@ -173,7 +173,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - Return to the slums to receive your gold reward after the cutscene.
 
 ??? map "Western Cave Map"
-    ![](./img/western-cave.png)
+    ![](./img/western-cave.jpg)
 
 ##### Pontiff Route
 - Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
@@ -188,7 +188,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 !!! note "If you do not have a mage, you can also farm LA- level spell scrolls from the Greater Demon that spawns in Abyss 1 after completing the B8F request"
 
 ??? map "Cursed Cave Map"
-    ![](./img/cursed-cave.png)
+    ![](./img/cursed-cave.jpg)
 
 ##### Admiral Route
 
@@ -200,7 +200,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - You will receive your gold reward after the cutscene.
 
 ??? map "Southern Cave Map"
-    ![](./img/southern-cave.png)
+    ![](./img/southern-cave.jpg)
 
 ## Fortress Lower Floors Cleared
 
@@ -218,7 +218,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - Return to Zone 4 and talk to the Singing Skeleton for the reward.
 
 ??? map "Locations"
-    ![](./img/missing_person_location.png)
+    ![](./img/missing_person_location.jpg)
 
     ??? note
         The map location shown is what the hallway looks like. It can be in different locations depending on the map variation. If the quest does not trigger at that spot, it will trigger in topmost room across from the hallway.
@@ -239,7 +239,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - You have the choice of handing a singular doll, handing all the dolls, or handing no dolls. Pick an option.
 
 ??? map "Locations"
-    ![](./img/antique_scarlet_doll_request_location.png)
+    ![](./img/antique_scarlet_doll_request_location.jpg)
 
 ??? note "Rewards"
     - Select handing a singular doll will grant a measly crimson ore
@@ -259,7 +259,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - In order to get the true reward for this, you must select the second option in her dialogue, where you say everyone is angry at her for shirking her duties.
 
 ??? map "Locations"
-    ![](./img/water_hauling_request_location.png)
+    ![](./img/water_hauling_request_location.jpg)
 
 ??? note "Rewards"
     - If you select the correct option, you will obtain "Brita the Lazy Handmaiden" as a bondmate, who is a water element bondmate that grants Charm Tolerance.
@@ -348,7 +348,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ??? note "Enemies"
 
     !!! danger "Enemies"
-        ![](./img/golem_request_fight.png)
+        ![](./img/golem_request_fight.jpg)
 
     **Boss: Offensive Golem**
 
@@ -400,7 +400,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ??? note "Enemies"
 
     !!! danger "Enemies"
-        ![](./img/necrocore_request_fight.png)
+        ![](./img/necrocore_request_fight.jpg)
 
     **Boss: Necrocore**
 

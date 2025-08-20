@@ -5,7 +5,7 @@
 ### Chris the Considerate
 
 ??? info "Chris the Considerate"
-    ![](img/image_10.png)
+    ![](img/image_10.jpg)
 
 ??? info "Skill"
     ![](img/chris-skill.jpg)
@@ -23,14 +23,14 @@
 4. Chris will usually show up automatically after you walk a bit away from the location. Receive the bondmate.
   
 ??? map "Guild tag locations"
-    ![](img/image_81.png)
+    ![](img/image_81.jpg)
 
 !!! note "To farm, Cursed Wheel to Fresh Start and repeat from Step 1"
 
 ### Mudd, the Eternal Novice
 
 ??? info "Mudd, the Eternal Novice"
-    ![](img/image_18.png)
+    ![](img/image_18.jpg)
 
 ??? info "Skill"
     ![](img/mudd-skill.jpg)
@@ -43,17 +43,17 @@
 1. After having found Mudd's corpse, talk to him again on B1F and tell him to leave the dungeon.
 
 ??? map "B1F location"
-    ![](img/image_14.png)
+    ![](img/image_14.jpg)
 
 2. Rescue him on B3F.
 
 ??? map "B3F location"
-    ![](img/image_15.png)
+    ![](img/image_15.jpg)
 
 3. Rescue him again on B4F. Receive the bondmate.
 
 ??? map "B4F location"
-    ![](img/image_16.png)
+    ![](img/image_16.jpg)
 
 !!! note "To farm, Cursed Wheel to Fresh Start and repeat from Step 1"
 
@@ -62,7 +62,7 @@
 ### Sir Maurice, the Live Bait
 
 ??? info "Sir Maurice, the Live Bait"
-    ![](img/image_21.png)
+    ![](img/image_21.jpg)
 
 ??? info "Skill"
     ![](img/maurice-skill.jpg)
@@ -99,7 +99,7 @@
 ### Donato, the King of Debt
 
 ??? info "Donato, the King of Debt"
-    ![](img/image_27.png)
+    ![](img/image_27.jpg)
 
 ??? info "Skill"
     ![](img/donato-skill.jpg)
@@ -109,7 +109,7 @@
 3. Turning in the request will give him as a bondmate.
 
 ??? map "Location"
-    ![](img/image_26.png)
+    ![](img/image_26.jpg)
 
 !!! note "To farm, Cursed Wheel to Fresh Start and then Treacherous Floor Traversal then start from Step 2."
 
@@ -118,7 +118,7 @@
 ### Ira of the Vanished Village
 
 ??? info "Ira of the Vanished Village"
-    ![](img/image_37.png)
+    ![](img/image_37.jpg)
 
 ??? info "Skill"
     ![](img/ira-skill.jpg)
@@ -131,14 +131,14 @@
 6. Visit the church again to prompt her farewell scene.
 
 ??? map "Location"
-    ![](img/image_38.png)
+    ![](img/image_38.jpg)
 
 !!! note "To farm, Cursed Wheel to Treacherous Floor Traversal and then Cursed Wheel to Second Major Harken and repeat from Step 1"
 
 ### Harry the Wandering Adventurer
 
 ??? info "Harry the Wandering Adventurer"
-    ![](img/image_43.png)
+    ![](img/image_43.jpg)
 
 ??? info "Skill"
     ![](img/harry-skill.jpg)
@@ -146,20 +146,20 @@
 1. Revive him on B5F.
 
 ??? map "B5F Location"
-    ![](img/image_39.png)
+    ![](img/image_39.jpg)
 
 2. Find him again on B6F and give him any Healing Potion or Medicinal Herb.
 
 ??? map "B6F Location"
-    ![](img/image_40.png)
+    ![](img/image_40.jpg)
 
 3. Witness his final moments on B7F.
 
 ??? map "B7F Location 1"
-    ![](img/image_42.png)
+    ![](img/image_42.jpg)
 
 ??? map "B7F Location 2"
-    ![harry-b7f-2.png](img/harry-b7f-2.png)
+    ![harry-b7f-2.jpg](img/harry-b7f-2.jpg)
 
 !!! note "To farm, Cursed Wheel to Second Major Harken and then start from Step 1."
 
@@ -168,7 +168,7 @@
 ### Beheading Bunny
 
 ??? info "Beheading Bunny"
-    ![](img/image_48.png)
+    ![](img/image_48.jpg)
 
 ??? info "Skill"
     ![](img/bunny-skill.jpg)
@@ -180,7 +180,7 @@
 ### Mel the Sniveling Thief
 
 ??? info "Mel the Sniveling Thief"
-    ![](img/image_50.png)
+    ![](img/image_50.jpg)
 
 ??? info "Skill"
     ![](img/mel-skill.jpg)
@@ -195,7 +195,7 @@
 ### Gary the Brave
 
 ??? info "Gary the Brave"
-    ![](img/image_59.png)
+    ![](img/image_59.jpg)
 
 ??? info "Skill"
     ![](img/gary-skill.jpg)
@@ -208,14 +208,14 @@
 - We let the dog die for our bondmate :c
 
 ??? map "Location"
-    ![](img/image_60.png)
+    ![](img/image_60.jpg)
 
 !!! note "Gary the Brave is permanently at level 1."
 
 ### Sir Jack, Undead Smiter
 
 ??? info "Sir Jack, Undead Smiter"
-    ![](img/image_62.png)
+    ![](img/image_62.jpg)
 
 ??? info "Skill"
     ![](img/sir-jack-skill.jpg)
@@ -227,10 +227,10 @@
 ### Sophie the Caring
 
 ??? info "Sophie the Caring"
-    ![](img/sophie.png)
+    ![](img/sophie.jpg)
 
 ??? info "Skill"
-    ![](img/sophie-skill.png)
+    ![](img/sophie-skill.jpg)
 
 - Complete the [Search for Lambert Request](../../../abyss-guides/1-beginning-abyss/requests.md#search-for-lambert)
 
@@ -267,7 +267,7 @@
 #### Ghreen Jelly
 
 ??? info "Ghreen Jelly"
-    ![](img/image_68.png)
+    ![](img/image_68.jpg)
 
 ??? info "Skill"
     ![](img/jelly-skill.jpg)
@@ -278,4 +278,4 @@
 !!! note "Ghreen Jelly is permanently at level 1."
 
 ??? info "Appearance"
-    ![](img/image_69.png)
+    ![](img/image_69.jpg)

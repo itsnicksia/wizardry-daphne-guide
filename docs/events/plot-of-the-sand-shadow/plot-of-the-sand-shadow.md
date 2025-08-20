@@ -38,9 +38,9 @@
 
 Red -> Blue -> Green
 
-![](img/route1.png)
-![](img/route2.png)
-![](img/route3.png)
+![](img/route1.jpg)
+![](img/route2.jpg)
+![](img/route3.jpg)
 
 ## Guide for 2nd Part:
 
@@ -62,17 +62,17 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 
 ### Reward:
 
-![](img/ninja-guiding-light.png)
+![](img/ninja-guiding-light.jpg)
 
 ### Farming Routes
 
 !!! note "After Ver 1.12.0, you can now remove all the traps in the cave for easier farming by going to the boss room on B3F and flipping a switch on the wall left of the final chest"
 
-    ![](img/ninja-knowledge.png)
+    ![](img/ninja-knowledge.jpg)
 
 
 === "Merc's Route"
-    ![](img/farming/merc.png)
+    ![](img/farming/merc.jpg)
 
 === "SocialX's Route"
     ![](img/farming/social-farm.jpg)

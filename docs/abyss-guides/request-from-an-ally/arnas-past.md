@@ -24,9 +24,9 @@
 ## Reward
 
 ??? note "Rewards"
-    ![](./img/arna-cave-reward.png)
-    ![](./img/arna-knowledge.png)
-    ![](./img/malefic-key.png)
+    ![](./img/arna-cave-reward.jpg)
+    ![](./img/arna-knowledge.jpg)
+    ![](./img/malefic-key.jpg)
 
 ## Optional Boss Fight
 
@@ -46,12 +46,12 @@ The boss will be accessible with the malefic key on the top left room of the 3rd
 
 ### Boss Rewards
 
-![](./img/greater-demon-achievement.png)
+![](./img/greater-demon-achievement.jpg)
 
 There will also be a chest drop for 5 Azure Lustrous ore and 3 Separation Rare Five Blossom Junk.
 
-![](./img/arna-cave-rare-junk.png)
+![](./img/arna-cave-rare-junk.jpg)
 
 There is also a chance of it dropping this unique accessory. This bracelet can spawn up to Red 5*.
 
-![](./img/bracelet-of-sealed-battle.png)
+![](./img/bracelet-of-sealed-battle.jpg)
