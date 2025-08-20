@@ -1,7 +1,7 @@
 # The Beginning Abyss
 
 !!! note
-    Certain floors have randomly generated tiles, so your map will not match 100% of the map I posted.
+    Certain floors have randomly generated tiles, so your map will not match 100% of the map I posted.  When certain actions reset the dungeon, your map layout may change. 
 
 ??? map "B1F -Pit-"
 
