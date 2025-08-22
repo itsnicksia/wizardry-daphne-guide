@@ -43,6 +43,7 @@
 | <span class="blue">Honed Tactics</span>                            | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
 | <span class="blue">Honed Tactics II</span>                         | Harken's Blessing has increased your Attack Power, Defense Power, and Evasion.                                                               |
 | <span class="blue">Mind That Fights with Guile</span>              | Harken's Blessing has increased your Magic Power, Divine Power, and Action Speed.                                                            |
+| <span class="blue">Mind That Fights with Guile II</span>           | Harken's Blessing has increased your Magic Power, Divine Power, and Action Speed.                                                            |
 | <span class="blue">Repel Binding</span>                            | Harken's Blessing has increased your Bind Tolerance.                                                                                         |
 | <span class="blue">Undead Rejection</span>                         | Harken's Blessing has reduced the damage you take from undead.                                                                               |
 | <span class="purple">Abductor of Kings</span>                      | Harken's Blessing has increased your Evade Trap, Disarm Trap, Poison Tolerance, Paralysis Tolerance, Fear Tolerance, and Critical Tolerance. |
