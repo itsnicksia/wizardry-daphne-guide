@@ -57,6 +57,20 @@
 
     In closing, he’s a thief alright. A skill he can only use a handful of times, anti-synergy between his race/class, one of the worst disciplines in the game and limited availability. There are better general adventurers than this. Mid.
 
+??? info "Karkarov's Analysis"
+
+    How to sum up this character.... I think I know.  If I took the Drake Sword from Dark Souls 1 and turned it into a Wizardry Variants Daphne character it's name would be ""Arboris"".
+
+    This character looks great at low level and in early game content thanks to his ridiculously expensive Astral Break skill that has a great damage floor, but garbage damage ceiling.  His earth element makes him seem top tier in the water paradise of abyss two.  Then you get to the lots of earth enemies abyss three, the SP cost of Astral Break combined with Thief drop off in damage potential makes you realize he isn't that good at doing damage over a long dungeon trip, the increase in enemy surety resistance, accuracy, spell use, blah blah blah.  Then you realize his value is falling so fast it might as well be a rock tossed off a cliff.
+
+    Just like the Drake Sword he is a newb trap.  Something that is really strong in early game, but long term stops scaling and getting better, and gets surpassed by just about anything if you know what you are doing and how to invest in a character.  
+
+    To make matters worse he has a terrible discipline (accuracy and stun tolerance boosted), his formation passive rules out good characters and is a very minor stat buff anyway (some I know have tested and suggested it is single digit numbers maybe even as little as 4 or 5 aspd/evasion), and he just got his alt class and it is Priest.
+
+    Priest does basically nothing to enhance Thief beyond Priest Weapon Mastery which is +20% of your Piety to attack power.  Too bad Elves have low Piety, and Thief is competing for lowest Piety growth in the game.  Expect like 5-6 whole more Attack Power for this epic skill.  Even better all Thief does for Priest is a slight buff to Action Speed and Evasion.  There is just no synergy between these two classes, and with this second class Arboris is doomed to the role of just a support character.  
+
+    Good luck outsupporting Mage/Priest Alice, Adam, or Yekatarina, or tanking Diva's Savia and El Dorado.  How about Madam with a Light Element character in front, or Mage Milana with Gerulf, or Elise with anyone nuetral, or..... you get it.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -65,6 +79,13 @@
 ??? note "Lynd's Pull Plan"
     I pulled to get a single copy for collection reasons. If I didn't get him, I wouldn't have cared.
     
+??? note "Karkarov's Pull Plan"
+    This is a very simple Pull Plan.  Don't.  Arboris is whale bait.  Full stop.
+
+    The best use for him is feeding copies to get the Main Character level 3 or more Astral Break. Which while an ""ok"" skill, costs way more SP than it should for what it does, and loses when compared SP spend to SP spend to basically all other skills the Main Character and others can learn from a damage perspective.  Meanwhile if you want to manipulate turn order try Delay Attack, Chronostasis, and the Porto buff.  None of those require spending gems on a banner to learn and are way easier to level.
+
+    Unless you look at this guy and start going weak in the knees then swoon you should save your resources.  If you just love his look pull one copy for dispatch and call it a day.
+
 ## Duplicate Usage
 
 * Increase the efficacy of his Astral Break
