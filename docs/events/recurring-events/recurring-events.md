@@ -16,10 +16,11 @@ This page is intended to capture smaller, recurring events that usually pop up a
 - There is a small fixed gold coin reward for completing the request. 
 - There is a bonus gold coin reward for the amount of gold ore retrieved.  This reward scales with the Abyss you were assigned to search.  
 
-| Abyss | Location | Max Ore | Max GP Reward |
-| Abyss 1 | ?? | 6,000 | 400,000 |
-| Abyss 2 | District 2 | 12,000 | 600,000 |
-| Abyss 3 | Zone 1 | 24,000 | 1,000,000 |
+| Abyss | Location | Max Ore | Max GP Reward | 
+|:----:|:----:|:----:|:-----:| 
+| Abyss 1 | ?? | 6,000 | 400,000 | 
+| Abyss 2 | District 2 | 12,000 | 600,000 | 
+| Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
 
 ### Completion Process
 - After accepting the request, go to the indicated Abyss and start searching the different levels.  Lulunarde will inform you of the presence of the thieves when you arrive on the correct level. 
@@ -42,4 +43,5 @@ The fastest (almost always no-combat) method is Harkening into District 2, auto-
 
 #### Abyss 3
 Zone 1  
+The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.
 <!-- ![](./img/gold-ore-abyss3_locations.jpg) -->
