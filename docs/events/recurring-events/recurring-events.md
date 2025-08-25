@@ -13,11 +13,13 @@ This page is intended to capture smaller, recurring events that usually pop up a
 - The request is completed the first time you turn it in and cannot be continued/repeated during the event period.  *Do not turn it in early.*
 
 ### Rewards 
-1. There is a small fixed gold coin reward for completing the request. 
-2. There is a bonus gold coin reward for the amount of gold ore retrieved.  This reward scales with the Abyss you were assigned to search. 
-   - Abyss 1: Max ore - 6,000.  Max reward - 400,000 gold 
-   - Abyss 2: Max ore - 12,000.  Max reward - 600,000 gold 
-   - Abyss 3: Max ore - 24,000.  Max reward - 1,000,000 gold 
+- There is a small fixed gold coin reward for completing the request. 
+- There is a bonus gold coin reward for the amount of gold ore retrieved.  This reward scales with the Abyss you were assigned to search.  
+
+| Abyss | Location | Max Ore | Max GP Reward |
+| Abyss 1 | ?? | 6,000 | 400,000 |
+| Abyss 2 | District 2 | 12,000 | 600,000 |
+| Abyss 3 | Zone 1 | 24,000 | 1,000,000 |
 
 ### Completion Process
 - After accepting the request, go to the indicated Abyss and start searching the different levels.  Lulunarde will inform you of the presence of the thieves when you arrive on the correct level. 
@@ -33,9 +35,11 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
 #### Abyss 2
 District 2 - Black Market  
-![](./img/gold-ore-abyss2_locations.jpg)
+![](./img/gold-ore-abyss2_locations.jpg)  
+
 In Abyss 2, each group of thieves should get you 200 ore, with another 100 if Marianne is present.   
 The fastest (almost always no-combat) method is Harkening into District 2, auto-walk to the two closest locations, then auto-exit the level, auto-exit to the Harken, Return, and repeat.  
 
 #### Abyss 3
+Zone 1  
 <!-- ![](./img/gold-ore-abyss3_locations.jpg) -->
