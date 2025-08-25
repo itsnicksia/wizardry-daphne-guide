@@ -36,11 +36,12 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
 #### Abyss 2
 District 2 - Black Market  
-In Abyss 2, each group of thieves should get you 200 ore, with another 100 if Marianne is present.   
+In Abyss 2, each group of thieves should get you 200 ore, with another 100 if Marianne is present.  
 The fastest (almost always no-combat) method is Harkening into District 2, auto-walk to the two closest locations, then auto-exit the level, auto-exit to the Harken, Return, and repeat.  
 ![](./img/gold-ore-abyss2_locations.jpg)  
 
 #### Abyss 3
 Zone 1  
+In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Marianne is present.  
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 ![](./img/gold-ore-abyss3_locations.jpg)
