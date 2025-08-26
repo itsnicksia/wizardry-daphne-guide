@@ -6,14 +6,14 @@
 ??? map "B1F -Pit-"
 
     !!! note
-        Not much to say, first floor, welcome. On second playthrough, make sure to talk to Chris to unlock a bondmate quest. He's the elf on the left side dead end when you first enter.
+        Not much to say, first floor, welcome. Look for the Beginning Abyss Key for a nice surprise on floor 2. On second playthrough, make sure to talk to Chris to unlock a bondmate quest. He's the elf on the left side dead end when you first enter.
 
     ![](./img/beginning-abyss-b1f.jpg)
 
 ??? map "B2F -Temple-"
 
     !!! note
-        You will fight your real first boss here. Not much to say, use the harken afterwards. Only important thing of note is the room to the right has an infinite respawn mob that you can grind on early levels.
+        You will fight your real first boss here. Not much to say, use the harken afterwards. Only important thing of note is the room to the right has an infinite respawn mob that you can grind on early levels. If you found the key one B1F, the locked room on the left will have a few adventurer bones to help you build your team (one time only).
 
     ![](./img/beginning-abyss-b2f.jpg)
 
