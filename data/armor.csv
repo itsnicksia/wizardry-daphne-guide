@@ -14,10 +14,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 74,Head!A74,Head,3036,Iron Heavy Helmet,Iron,Heavy,1410,226,0,0,0,9,0,-2,-2,0,-4,4,0,0,0,12,0,-2,-2,0,-4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 80,Head!A80,Head,3061,Scaly Leather Hat,Steel,Cloth,,326,0,0,0,5,0,0,0,0,0,4,0,0,0,9,0,0,0,0,0,8,,,,,,,,,,,,,,,,,,,,,0,0,0,21,0,0,0,0,0,20,
 86,Head!A86,Head,3097,Mage's Hood,Steel,Cloth,10200,2040,0,4,0,5,4,0,0,0,0,2,0,6,0,9,6,0,0,0,0,6,0,7,0,13,7,0,0,0,0,10,0,8,0,17,8,0,0,0,0,14,0,9,0,21,9,0,0,0,0,18,
-92,Head!A92,Head,3149,Earthen Crest Headcloth,Steel,Cloth,,408,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
+92,Head!A92,Head,3149,Earthen Crest Headcloth,Steel,Cloth,,408,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,0,0,0,20,0,0,0,0,4,20,Water Type Reduction
 98,Head!A98,Head,3156,Aquatic Blue Headcloth,Steel,Cloth,,,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,0,0,0,20,0,0,0,0,4,20,Fire Type Reduction
-104,Head!A104,Head,,Verdant Breeze Headcloth,Steel,Cloth,,,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Earth Type Reduction
-110,Head!A110,Head,,Crimson  Headcloth,Steel,Cloth,,,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Air Type Reduction
+104,Head!A104,Head,,Verdant Breeze Headcloth,Steel,Cloth,,,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,0,0,0,20,0,0,0,0,4,20,Earth Type Reduction
+110,Head!A110,Head,,Crimson  Headcloth,Steel,Cloth,,,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,,,,,,,,,,,,,,,,,,,,,0,0,0,20,0,0,0,0,4,20,Air Type Reduction
 116,Head!A116,Head,3104,Mask of the Water God,Steel,Cloth,,522,0,0,0,5,0,0,0,0,0,4,0,0,0,9,0,0,0,0,0,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Underwater Enhancement
 122,Head!A122,Head,3051,Steel Light Helmet,Steel,Light,,384,0,0,0,9,0,-1,-2,0,-2,4,0,0,0,13,0,-1,-2,0,-2,8,0,0,0,17,0,-1,-2,0,-2,12,0,0,0,21,0,-1,-2,0,-2,16,0,0,0,25,0,-1,-2,0,-2,20,
 128,Head!A128,Head,3105,Helm of Malice,Steel,Light,,614,0,0,0,9,0,-1,-2,0,-2,4,0,0,0,13,0,-1,-2,0,-2,8,0,0,0,17,0,-1,-2,0,-2,12,0,0,0,21,0,-1,-2,0,-2,16,,,,,,,,,,,Insta-kill Resistance
@@ -31,7 +31,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 176,Head!A176,Head,3158,Aquatic Blue Heavy Helm,Steel,Heavy,,564,0,0,0,13,0,-2,-2,0,2,4,0,0,0,17,0,-2,-2,0,2,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
 182,Head!A182,Head,,Verdant Breeze Heavy Helm,Steel,Heavy,,564,0,0,0,13,0,-2,-2,0,2,4,0,0,0,17,0,-2,-2,0,2,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Earth Type Reduction
 188,Head!A188,Head,,Crimson Heavy Helm,Steel,Heavy,,564,0,0,0,13,0,-2,-2,0,2,4,0,0,0,17,0,-2,-2,0,2,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wind Type Reduction
-194,Head!A194,Head,,Phantom Shadon Cowl,Steel,Cloth,,,0,0,0,1,0,1,0,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,Head!A194,Head,,Phantom Shadow Cowl,Steel,Cloth,,,0,0,0,1,0,1,0,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 200,Head!A200,Head,,Star Wolf Helmet,Steel,Light,,,0,0,0,7,-2,2,-2,0,8,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,Head!A206,Head,,Veil Hat,Ebonsteel,Cloth,,,0,0,0,8,0,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,26,0,0,0,0,0,23,
 212,Head!A212,Head,,Circlet,Ebonsteel,Cloth,,,0,4,0,6,4,0,0,0,0,2,,,,,,,,,,,0,4,0,15,7,,,,,,0,4,0,20,8,0,0,0,0,15,,,,,,,,,,,"Sleep, Confusion, Charm Tolerance"
@@ -39,7 +39,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 224,Head!A224,Head,,Headcloth of the Light Spirit,Ebonsteel,Cloth,,,0,0,0,7,0,0,0,0,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dark Type Reduction
 230,Head!A230,Head,,Umbral Headcloth,Ebonsteel,Cloth,,,0,0,0,7,0,0,0,0,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Light Type Reduction
 236,Head!A236,Head,,Ebonsteel Light Helmet,Ebonsteel,Light,,,0,0,0,14,0,-1,-2,0,-2,4,0,0,0,19,0,-1,-2,0,-2,8,0,0,0,23,0,-1,-2,0,-2,13,0,0,0,28,0,-1,-2,0,-2,17,0,0,0,32,0,-1,-2,0,-2,22,
-242,Head!A242,Head,,Light Helmet of Separation,Ebonsteel,Light,,,0,0,0,14,0,-1,-2,0,-2,4,0,0,0,19,0,-1,-2,0,-2,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Demon Resistance, Confusion Tolerance, Charm Tolerance"
+242,Head!A242,Head,,Light Helmet of Separation,Ebonsteel,Light,,,0,0,0,14,0,-1,-2,0,-2,4,0,0,0,19,0,-1,-2,0,-2,8,,,,,,,,,,,0,0,0,28,0,-1,-2,0,-2,17,,,,,,,,,,,"Demon Resistance, Confusion Tolerance, Charm Tolerance"
 248,Head!A248,Head,,Ebonsteel Heavy Helmet,Ebonsteel,Heavy,,,0,0,0,20,0,-2,-2,0,-4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,38,0,-2,-2,0,-4,22,
 254,Head!A254,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 260,Head!A260,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -115,17 +115,17 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 62,Feet!A62,Feet,3064,Scaly Leather Shoes,Steel,Cloth,,278,0,0,0,5,0,2,0,0,2,0,0,0,0,9,0,2,0,0,6,0,,,,,,,,,,,0,0,0,17,0,2,0,0,14,0,0,0,0,21,0,2,0,0,18,0,
 68,Feet!A68,Feet,3111,Light Sandals,Steel,Cloth,,348,0,0,0,5,0,8,0,0,8,0,0,0,0,9,0,10,0,0,12,0,0,0,0,13,0,11,0,0,16,0,,,,,,,,,,,,,,,,,,,,,
 74,Feet!A74,Feet,3196,Phantom Shadow Ninja Tabi,Steel,Cloth,,,0,0,0,3,0,3,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-80,Feet!A80,Feet,3057,Steel Light Armor Boots,Steel,Light,,365,0,0,0,6,0,0,0,0,0,0,0,0,0,10,0,0,0,0,4,0,0,0,0,14,0,0,0,0,8,0,0,0,0,18,0,0,0,0,12,0,0,0,0,22,0,0,0,0,16,0,
-86,Feet!A86,Feet,3058,Steel Heavy Armor Boots,Steel,Heavy,,413,0,0,0,9,0,-1,0,0,-2,0,0,0,0,13,0,-1,0,0,2,0,,,,,,,,,,,,,,,,,,,,,0,0,0,25,0,-1,0,0,14,0,
-92,Feet!A92,Feet,,Veil boots,Ebonsteel,Light,,,0,0,0,8,0,2,0,0,2,0,0,0,0,13,0,2,0,0,6,0,,,,,,,,,,,,,,,,,,,,,0,0,0,26,0,2,0,0,20,0,
-98,Feet!A98,Feet,,Charm Boots,Ebonsteel,Cloth,,,0,2,0,4,0,4,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Flash of Insight
-104,Feet!A104,Feet,3191,Covert Ninja Tabi,Ebonsteel,Cloth,,,0,0,0,4,0,3,0,0,1,0,,,,,,,,,,,0,0,0,10,0,3,0,0,7,0,,,,,,,,,,,,,,,,,,,,,
-110,Feet!A110,Feet,,Ebonsteel Light Armor Boots,Ebonsteel,Light,,,0,0,0,10,0,0,0,0,0,0,,,,,,,,,,,0,0,0,19,0,0,0,0,9,0,0,0,0,24,0,0,0,0,13,0,0,0,0,28,0,0,0,0,18,0,
-116,Feet!A116,Feet,3197,Heat Haze Light Armor Boots,Ebonsteel,Light,,,0,0,0,2,2,0,0,0,1,0,,,,,,,,,,,0,0,0,11,2,0,0,0,6,0,,,,,,,,,,,0,0,0,20,2,0,0,0,22,0,Confusion/Charm Tolerance
-122,Feet!A122,Feet,,Ebonsteel Heavy Armor Boots,Ebonsteel,Light,,,0,0,0,10,0,-1,0,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-128,Feet!A128,Feet,,Greaves of Valor,,,,,0,0,0,6,0,0,2,2,5,0,,,,,,,,,,,0,0,0,15,0,0,5,5,14,0,0,0,0,20,0,0,6,6,18,0,,,,,,,,,,,
-134,Feet!A134,Feet,,Blood Red Kyahan,,,,,0,0,0,3,0,5,0,0,3,0,,,,,,,,,,,0,0,0,8,0,8,0,0,8,0,,,,,,,,,,,,,,,,,,,,,
-140,Feet!A140,Feet,,Star Wolf Light Armor Boots,,Light,,,0,0,0,3,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Atttack and Evasion Up when wielding a Spear
+80,Feet!A80,Feet,,Blood Red Kyahan,Steel,Cloth,,,0,0,0,3,0,5,0,0,3,0,,,,,,,,,,,0,0,0,8,0,8,0,0,8,0,,,,,,,,,,,,,,,,,,,,,
+86,Feet!A86,Feet,3057,Steel Light Armor Boots,Steel,Light,,365,0,0,0,6,0,0,0,0,0,0,0,0,0,10,0,0,0,0,4,0,0,0,0,14,0,0,0,0,8,0,0,0,0,18,0,0,0,0,12,0,0,0,0,22,0,0,0,0,16,0,
+92,Feet!A92,Feet,3058,Steel Heavy Armor Boots,Steel,Heavy,,413,0,0,0,9,0,-1,0,0,-2,0,0,0,0,13,0,-1,0,0,2,0,,,,,,,,,,,,,,,,,,,,,0,0,0,25,0,-1,0,0,14,0,
+98,Feet!A98,Feet,,Veil boots,Ebonsteel,Light,,,0,0,0,8,0,2,0,0,2,0,0,0,0,13,0,2,0,0,6,0,,,,,,,,,,,,,,,,,,,,,0,0,0,26,0,2,0,0,20,0,
+104,Feet!A104,Feet,,Charm Boots,Ebonsteel,Cloth,,,0,2,0,4,0,4,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Flash of Insight
+110,Feet!A110,Feet,3191,Covert Ninja Tabi,Ebonsteel,Cloth,,,0,0,0,4,0,3,0,0,1,0,,,,,,,,,,,0,0,0,10,0,3,0,0,7,0,,,,,,,,,,,,,,,,,,,,,
+116,Feet!A116,Feet,,Ebonsteel Light Armor Boots,Ebonsteel,Light,,,0,0,0,10,0,0,0,0,0,0,,,,,,,,,,,0,0,0,19,0,0,0,0,9,0,0,0,0,24,0,0,0,0,13,0,0,0,0,28,0,0,0,0,18,0,
+122,Feet!A122,Feet,3197,Heat Haze Light Armor Boots,Ebonsteel,Light,,,0,0,0,2,2,0,0,0,1,0,,,,,,,,,,,0,0,0,11,2,0,0,0,6,0,,,,,,,,,,,0,0,0,20,2,0,0,0,22,0,Confusion/Charm Tolerance
+128,Feet!A128,Feet,,Ebonsteel Heavy Armor Boots,Ebonsteel,Light,,,0,0,0,10,0,-1,0,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,Feet!A134,Feet,,Greaves of Valor,,,,,0,0,0,6,0,0,2,2,5,0,,,,,,,,,,,0,0,0,15,0,0,5,5,14,0,0,0,0,20,0,0,6,6,18,0,,,,,,,,,,,
+140,Feet!A140,Feet,,Star Wolf Light Armor Boots,,Light,,,0,0,0,3,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Two-Handed Spear Proficiency
 146,Feet!A146,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,Feet!A152,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 158,Feet!A158,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -233,7 +233,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 158,Body!A158,Body,,Veil Robe,Ebonsteel,Cloth,,,0,0,0,19,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,49,19,0,0,0,0,0,,,,,,,,,,,
 164,Body!A164,Body,,Manafont Robe,Ebonsteel,Cloth,,,0,0,0,18,0,0,0,0,0,0,,,,,,,,,,,0,0,0,38,13,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
 170,Body!A170,Body,,Cloak of Light Spirit,Ebonsteel,Cloth,,,0,0,0,17,0,0,0,0,0,0,,,,,,,,,,,0,0,0,37,13,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Dark Type Reduction
-176,Body!A176,Body,,Exorcism Gown,Ebonsteel,Cloth,,,0,0,0,18,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,58,26,0,0,0,0,0,Demon Resistance
+176,Body!A176,Body,,Exorcism Gown,Ebonsteel,Cloth,,,0,0,0,18,0,0,0,0,0,0,,,,,,,,,,,0,0,0,38,13,0,0,0,0,0,0,0,0,48,19,0,0,0,0,0,0,0,0,58,26,0,0,0,0,0,Demon Resistance
 182,Body!A182,Body,,Covert Garb,Ebonsteel,Cloth,,,0,0,0,14,-2,1,0,0,1,0,,,,,,,,,,,,,,,,,,,,,0,0,0,41,16,1,0,0,5,0,,,,,,,,,,,
 188,Body!A188,Body,,Sooty Cloth,Ebonsteel,Cloth,,,0,0,0,30,0,2,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,0,0,0,60,19,6,-2,0,-2,0,,,,,,,,,,,Precise Sense of Touch
 194,Body!A194,Body,,Ebonsteel Light Armor,Ebonsteel,Light,,,0,0,0,35,0,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,0,0,0,65,19,-1,-2,0,-2,0,0,0,0,75,26,-1,-2,0,-2,0,
@@ -249,15 +249,15 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 254,Body!A254,Body,,Blood Red Shinobi Attire,,Cloth,,,0,0,0,8,-1,2,0,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 260,Body!A260,Body,,Goatskin Cloak,,Cloth,,,0,0,0,2,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stone Tolerance
 266,Body!A266,Body,,Sacred Healer's Vestments,,Cloth,,,0,0,6,11,3,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-272,Body!A272,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,Body!A272,Body,,Lord of the Deep Forest's Thief Garb,,Cloth,,,0,0,0,16,0,1,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 278,Body!A278,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 284,Body!A284,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 290,Body!A290,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 296,Body!A296,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Accessories!A2,Accessories,3016,Stone Ring,Worn,Accessory,,20,0,0,0,1,4,0,0,0,0,0,0,0,0,6,4,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Accessories!A2,Accessories,3016,Stone Ring,Worn,Accessory,,20,0,0,0,1,4,0,0,0,0,0,0,0,0,6,4,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,21,4,0,0,0,0,0,
 8,Accessories!A8,Accessories,3027,Bronze Ring,Bronze,Accessory,490,78,0,0,0,1,8,0,0,0,0,0,0,0,0,6,8,0,0,0,0,0,0,0,0,12,8,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
-14,Accessories!A14,Accessories,3131,Ring of Resistance,Bronze,Accessory,,98,0,0,0,1,0,0,0,0,0,10,,,,,,,,,,,0,0,0,12,0,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,
+14,Accessories!A14,Accessories,3131,Ring of Resistance,Bronze,Accessory,,98,0,0,0,1,0,0,0,0,0,10,0,0,0,6,0,0,0,0,0,12,0,0,0,12,0,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,
 20,Accessories!A20,Accessories,3043,Iron Ring,Iron,Accessory,1470,235,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,0,0,0,13,12,0,0,0,0,0,0,0,0,19,12,0,0,0,0,0,0,0,0,25,12,0,0,0,0,0,
 26,Accessories!A26,Accessories,3132,Tattered Doll,Iron,Accessory,,294,0,0,0,1,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32,Accessories!A32,Accessories,3133,Bracelet of Impurity,Iron,Accessory,,294,0,0,0,1,12,0,0,0,0,0,0,0,0,7,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poison / Paralysis Tolerance
@@ -290,7 +290,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 194,Accessories!A194,Accessories,,Enemy Spyglass,,Accessory,,,0,0,0,2,17,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 200,Accessories!A200,Accessories,,Octonarus's Necklace,,Accessory,,,0,0,0,10,4,0,0,0,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,Accessories!A206,Accessories,,Melgina's Choker,,Accessory,,,0,0,0,1,16,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-212,Accessories!A212,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,Accessories!A212,Accessories,,Lord of the Deep's Forest Ring,,Accessory,,,0,0,0,1,13,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Detect/Evade Trap Increase
 218,Accessories!A218,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 224,Accessories!A224,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 230,Accessories!A230,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
