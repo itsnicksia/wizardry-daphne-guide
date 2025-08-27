@@ -67,7 +67,7 @@
 | Olive        | VIT                 |
 | Ophelia      | STR                 |
 | Phillip      | SPD                 |
-| Red Beard    |                     |
+| Red Beard    | PIE                 |
 | Rinne        |                     |
 | Savia        |                     |
 | Shelirionach |                     |
