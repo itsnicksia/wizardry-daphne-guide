@@ -8,5 +8,6 @@ nav:
   - Events: events
   - Appendices: appendices
   - Tools: tools
+  - Promotional Codes: './promotional-codes.md'
   - Playing on PC: './emulators/emulators.md'
   - About The Guide: './index.md'
