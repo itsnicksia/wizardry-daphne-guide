@@ -20,7 +20,7 @@
 
 | Bondmate     | Increased Attribute |
 | ------------ | ------------------- |
-| Abenius      |                     |
+| Abenius      | STR                 |
 | Adam         |                     |
 | Aldric       | DEX                 |
 | Alex         | VIT                 |
