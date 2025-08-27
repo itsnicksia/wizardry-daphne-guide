@@ -33,7 +33,7 @@
 | Beast-Thi    | DEX                 |
 | Benjamin     | STR                 |
 | Berkanan     | STR                 |
-| Bugen        |                     |
+| Bugen        | STR                 |
 | Chloe        | STR                 |
 | Clarissa     | STR                 |
 | Daniel       | STR                 |
