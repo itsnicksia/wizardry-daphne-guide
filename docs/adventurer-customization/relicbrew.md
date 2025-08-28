@@ -4,6 +4,10 @@
 
 Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) and subsequently [Recovery of Research Materials](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings), you unlock the ability to access Relicbrews at the Black Barrel Tavern.
 
+## How to obtain
+
+Relicbrews can be obtained by finding abyss relics off of red glowing monsters anywhere in the game. They spawn randomly and typically are specific to their enemy type. The quality and thus exp given by a relic is randomized as well. Each relic produces 1 drink, which can be consumed by up to 6 people at once.
+
 ## Effects
 
 These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs, adventurers will begin taking more fortitude damage when dying (3-4) and even dropping to 0 fortitude when reaching 5 effects.
