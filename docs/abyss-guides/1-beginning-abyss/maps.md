@@ -40,11 +40,10 @@
 
     ![](./img/beginning-abyss-b4f-v1.jpg)
 
-<!-- uncomment when 2nd variation map is optained
+<!-- uncomment when 2nd variation map is obtained
     === "Variation 1"
--->
-     
-<!-- uncomment when 2nd variation map is optained
+        ![](./img/beginning-abyss-b4f-v1.jpg)     
+
     === "Variation 2"
         ![](./img/beginning-abyss-b4f-v2.jpg)
 -->
@@ -61,12 +60,12 @@
     !!! note
         Don't bother opening the wrong door where the corpse tells you. It's just spikes. The corpses will give you hints to get through the level. I believe the correct warp order is right, up, then right or left depending on the previous corpse warning. (The light/sun rises in the east and sets in the west.) Statue room puzzle requires you to restore the statue heads that match your party members according to the clue on the nearby dead body. This clue can change every time you enter this level. [See answers in the FAQ](../../frequently-asked-questions.md#how-do-i-solve-the-statue-puzzle-on-b6f-of-the-beginning-abyss). Saint shield quest is also completed here; do the second warp wrong and fight the mob.
 
-<!-- uncomment when 2nd variation map is optained
+    ![](./img/beginning-abyss-b6f-v1.jpg)
+
+<!-- uncomment when 2nd variation map is obtained
     === "Variation 1"
--->
         ![](./img/beginning-abyss-b6f-v1.jpg)
 
-<!-- uncomment when 2nd variation map is optained
     === "Variation 2"
         ![](./img/beginning-abyss-b6f-v2.jpg)
 -->
@@ -77,12 +76,12 @@
     !!! note
         You will need to go through the poison floors every time UNLESS you reverse the stones on the next floor that create shortcuts. Make sure to do that. B8F description tells you which stones open which paths.  Albano will REALLY not like you here, unless YOU DO something correctly (second playthrough only). The camp here is important as you can't access the Harken on the next floor until you beat the final boss. 
 
-<!-- uncomment when 2nd variation map is optained
+    ![](./img/beginning-abyss-b7f-v1.jpg)
+
+<!-- uncomment when 2nd variation map is obtained
     === "Variation 1"
--->
         ![](./img/beginning-abyss-b7f-v1.jpg)
 
-<!-- uncomment when 2nd variation map is optained
     === "Variation 2"
         ![](./img/beginning-abyss-b7f-v2.jpg)
 -->
