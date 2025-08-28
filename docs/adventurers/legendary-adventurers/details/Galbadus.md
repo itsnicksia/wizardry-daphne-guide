@@ -2,17 +2,15 @@
 
 **Race**: Beastfolk  
 **Gender**: Male  
-**Type**:   
+**Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Knight  
 **Class Change**:   
 **Role**: Support, Damage
 
-<!--
 ??? info "Portraits"
     === "Knight"
         ![](../img/galbadus-knight.jpg)
--->
 
 ## Skills
 <!--
