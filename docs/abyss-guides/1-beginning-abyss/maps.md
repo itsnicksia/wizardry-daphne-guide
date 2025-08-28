@@ -25,7 +25,7 @@
 ??? map "B3F -Cave-In Zone-"
 
     !!! note
-        You can continue your way through until the story makes you examine the rocks. Examine it enough times and you can reverse time and proceed. Make sure you reverse time and find the cause of death of your friends. There's a camp where it restores all your hp/mp/sp. It will be restored every time you exit and enter the labyrinth. The Goblin's nest is not worth doing, leave it.
+        You can continue your way through until the story makes you examine the rocks. Examine all surrounding surfaces enough times and you can reverse the rocks and proceed. Make sure you reverse all rocks and find the cause of death of your friends for important knowledge. There's a camp where it restores all your hp/mp/sp. It can be used once each time you enter the labyrinth. The Goblin's nest is not worth doing, leave it.
 
     === "Variation 1"
         ![](./img/beginning-abyss-b3f-v1.jpg)
