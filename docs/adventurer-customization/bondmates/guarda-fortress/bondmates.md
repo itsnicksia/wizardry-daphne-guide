@@ -84,7 +84,7 @@
 
 - Complete the [Search for Missing Person](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-missing-person) request.
 
-!!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
+!!! note "To farm Cursed Wheel to Fortress Lower Floors Cleared and complete the request again"
 
 ## Ghosts of Yore Vanquished
 
