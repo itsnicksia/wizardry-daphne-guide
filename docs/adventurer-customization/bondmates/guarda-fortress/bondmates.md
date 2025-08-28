@@ -100,7 +100,7 @@
 
 - Complete the [Water Hauling](../../../abyss-guides/3-guarda-fortress/requests.md#water-hauling) request.
 
-!!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
+!!! note "To farm Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
 
 ## Fortress 3rd Floor Arrival
 
