@@ -20,11 +20,11 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Tyrant's Gravity"
-        {{ get_skill_description("Tyrant's Gravity) }}
+        {{ get_skill_description("Tyrant's Gravity") }}
 
 !!! info "Discipline Skill"
     === "Bestial Roar"
-        {{ get_skill_description('Bestial Roar') }}
+        {{ get_skill_description("Bestial Roar") }}
 
 ## Adventurer Reviews
 
