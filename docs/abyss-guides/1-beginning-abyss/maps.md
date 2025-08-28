@@ -38,11 +38,12 @@
     !!! note
         First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it.
 
+    ![](./img/beginning-abyss-b4f-v1.jpg)
+
 <!-- uncomment when 2nd variation map is optained
     === "Variation 1"
 -->
-        ![](./img/beginning-abyss-b4f-v1.jpg)
-
+     
 <!-- uncomment when 2nd variation map is optained
     === "Variation 2"
         ![](./img/beginning-abyss-b4f-v2.jpg)
