@@ -4,11 +4,15 @@
 
 Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) and subsequently [Recovery of Research Materials](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings), you unlock the ability to access Relicbrews at the Black Barrel Tavern.
 
-These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs, adventurers will begin taking more fortitude damage when dying and even dropping to 0 fortitude when reaching 5 effects.
+## Effects
+
+These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs, adventurers will begin taking more fortitude damage when dying (3-4) and even dropping to 0 fortitude when reaching 5 effects.
 
 Effects can be increased by consuming the same type of brew again.
 
-These buffs can be removed through the surgery. On success, the adventurer will lose 1 max fortitude for 2 weeks. On failure, the adventurer will lose 5 max fortitude for 2 weeks. On great success, the adventurer does not lose any fortitude. It is recommended not to select emergency removal and only use special extraction.
+## Removal
+
+These buffs can be removed through the surgery. On success, the adventurer will lose 1 max fortitude for 2 weeks. On failure, the adventurer will lose 5 max fortitude for 2 weeks. On great success, the adventurer does not lose any fortitude. It is recommended not to select emergency removal and only use special extraction. You can choose to use green gems, purple gems, or gold for removal, but it's generally recommended not to use any gems as of now.
 
 ## List of effects
 
