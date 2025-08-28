@@ -13,18 +13,18 @@
         ![](../img/galbadus-knight.jpg)
 
 ## Skills
-<!--
+
 !!! info "Unique Skill (Inheritable)"
-    === "Flutterdream Flash"
-        {{ get_skill_description('Flutterdream Flash') }}
+    === "Raging King I"
+        {{ get_skill_description("Raging King I") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Flickering Fang"
-        {{ get_skill_description('Flickering Fang') }}
+    === "Tyrant's Gravity"
+        {{ get_skill_description("Tyrant's Gravity) }}
 
 !!! info "Discipline Skill"
-    === "Blessing of Owen"
-        {{ get_skill_description('Blessing of Owen') }}
--->
+    === "Bestial Roar"
+        {{ get_skill_description('Bestial Roar') }}
+
 ## Adventurer Reviews
 
