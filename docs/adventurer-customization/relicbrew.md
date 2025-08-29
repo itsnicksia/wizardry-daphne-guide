@@ -22,7 +22,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- |
-| Dissolving Ooze's Defensive Core           | Defense Up, Evasion Down             | Good        | Slime                  |
+| Dissolving Ooze's Defensive Core           | Def Up, Evasion Down                 | Good        | Slime                  |
 | Gobber's Evil Eye                          | Accuracy Up, Surety Down             | Neutral     | Goblin                 |
 | Plunderer's Deft Hand                      | Surety Up, Magic Down                | Evil        | Bandit                 |
 | Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady          |
