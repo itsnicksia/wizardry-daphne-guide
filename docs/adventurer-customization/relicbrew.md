@@ -44,3 +44,16 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin    |
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer  |
 | Shadowhoof Cavalier's Ghostsoul            | Magic Up, Dark Res Up, Divine Down   | Evil        | Necrocore        |
+| Carrion Beetle's Carapace                  | Earth Res Up, Mp Down                | Good        | Abyssal Insect   |
+| Gobber Soothsayer's Hallowed Voice         | Divine Up, Def Down                  | Evil        | Goblin Cleric    |
+| Salt-Teared Priestess's Hallowed Voice     | Divine Up, Res Down                  | Neutral     | Pirate Deacon    |
+| Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer    |
+| Giant Bugwing's Compound Eyes              | Evade Trap Up, MP Down               | Neutral     | Dragon Fly       |
+| Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant      |
+| Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker |
+| Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad          |
+| Bonemaster's Cursemark                     | Magic Up, Def Down                   | ?           | Necromancer      |
+| Reptilian's Pupils                         | Accuracy Up, Air Res Down            | ?           | Lizardman        |
+| Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword     |
+| Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | ?           | Poltergeist      |
+
