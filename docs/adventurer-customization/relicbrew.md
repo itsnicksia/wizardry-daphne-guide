@@ -23,7 +23,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From       |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------- |
 | Dissolving Ooze's Defensive Core           | Defense Up, Evasion Down             | Good        | Slime            |
-| Gobber's Evil Eye                          | Accuracy Up, Surety Down             | ?           | Goblin           |
+| Gobber's Evil Eye                          | Accuracy Up, Surety Down             | Neutral     | Goblin           |
 | Plunderer's Deft Hand                      | Surety Up, Magic Down                | Evil        | Bandit           |
 | Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady    |
 | Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera          |
@@ -52,8 +52,8 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant      |
 | Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker |
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad          |
-| Bonemaster's Cursemark                     | Magic Up, Def Down                   | ?           | Necromancer      |
-| Reptilian's Pupils                         | Accuracy Up, Air Res Down            | ?           | Lizardman        |
+| Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer      |
+| Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman        |
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword     |
-| Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | ?           | Poltergeist      |
+| Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Good        | Poltergeist      |
 
