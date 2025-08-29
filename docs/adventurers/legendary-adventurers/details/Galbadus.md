@@ -57,7 +57,7 @@
 
 ??? info "Karkarov's Analysis"
 
-    Ok it is time to do an analysis of Savi.... oh wait this is a different dark element, knight, evil, beastfolk, legenday... huh.  So if there was something we did not need it was another knight legendary with the exact same alignment, element, and race as another knight legendary.  Meanwhile they chose to go ham on the design and create a legitimately beastly bad ass cool character.  (pun intended)
+    Ok it is time to do an analysis of Savi.... oh wait this is a different dark element, knight, evil, beastfolk, legendary... huh.  So if there was something we did not need it was another knight legendary with the exact same alignment, element, and race as another knight legendary.  Meanwhile they chose to go ham on the design and create a legitimately beastly bad ass cool character.  (pun intended)
 
     Unfortunately his appearance is also the best thing about him.
 
@@ -73,6 +73,8 @@
 
     Don't get me wrong.  Galbadus is not a bad character, or near the bottom of the legendary pile, but for his skill set he is the wrong class and a sub optimal alignment.
 
+    It is critical to understand that this character as it stands now is not a "good to go" character.  His alt class, when it's released, will be critical to determining his long term value.  His Raging King skill is good, but it has to be leveled ideally to level 3 or higher for use in later Abyss 3 and beyond content.  This means even if you do commit to Galbadus, he is not Sheli or Shiou, one copy is not enough.  You have to pull multiple copies to level his Raging King skill, otherwise he just becomes a really cool looking knight that has a semi-useful, but not truly meaningful, unique skill.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -86,6 +88,8 @@
     Ironically his shield is actually a good piece of gacha gear that works fantastic because it procs taunt on attacking (this includes SP based skills), pair that with his skill Raging King and you are cooking.  But I did say "gacha gear".  I can't in good faith advise spending real money on purple bones to hope you get a nice version of one specific gacha gear, or advise you drop enough resources to get a copy of him and the tokens to grab a shield and pray it doesn't pop out 1 star white.  
 
     If you love the design, and boy do I understand if you do it's very well done, go ahead and pull.  Maybe in the future he gets fighter and it all works out.  But otherwise this is a whale banner or at the very least for people willing to risk real money to get him and his shield, cause to be better than ""eh off duty fighter"" he kinda needs both.  Even then... I am still not sold his inherit and the shield aren't doing better work on a fighter (especially fighter Lana) over Galbadus himself right now.
+
+    The best strategy for this character is to pass until he is run again.  At that time his alt class will hopefully be revealed, and if there is strong synergy or value in it, pull then.  Right now I just can't recommend it.
 
 ## Duplicate Usage
 
