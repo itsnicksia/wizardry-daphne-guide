@@ -33,7 +33,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity           |
 | One-Eyed Giant's Mighty Arm                | Attack Up, Accuracy Up, Evasion Down | Neutral     | Cyclops          |
 | Lust Demon's Warding Glyph                 | Resistance Up, Attack Down           | Evil        | Succubus         |
-| Beheading Rabbit's Sharp Claws             | Surety Up, Divine Power Down         | Good        | Vorpal Bunny     |
+| Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny     |
 | Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon     |
 | Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin         |
 | Bone Colossus's Hardened Bones             | Def Up, Mp Down                      | Neutral     | Skeleton Giant   |
@@ -42,3 +42,5 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Man Eating Box's Sturdy Jaw                | All Elemental Res Up, Eva Down       | ?           | Mimic            |
 | Noxfume's Shelled Lungs                    | Air Res Up, Disarm Trap Down         | Evil        | Cloud            |
 | Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin    |
+| Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer  |
+| Shadowhoof Cavalier's Ghostsoul            | Magic Up, Dark Res Up, Divine Down   | Evil        | Necrocore        |
