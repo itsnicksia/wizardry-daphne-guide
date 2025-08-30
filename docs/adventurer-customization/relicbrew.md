@@ -63,7 +63,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman              |
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           |
 | Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            |
-| ?                                          | Magic Up, Def Down                   | Good        | Pixie                  |
+| Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  |
 | ?                                          | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       |
 | ?                                          | Crit Res Up, Evade Trap Down         | Neutral     | Gluttonous Maw (White) |
 | ?                                          | Evasion Up, Def Down                 | Evil        | Vampire                |
