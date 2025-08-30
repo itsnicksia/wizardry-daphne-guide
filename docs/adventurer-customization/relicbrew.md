@@ -76,4 +76,4 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | ?                                    | ?           | Greater Demon          |
 | ?                                          | ?                                    | ?           | Gorgon                 |
 | ?                                          | SP Up, Earth Res Down                | ?           | Lizardman Champion     |
-| ?                                          | HP Up, Fire Res Down                 | ?           | Minotaur               |
+| Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               |
