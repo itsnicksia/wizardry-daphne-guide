@@ -73,7 +73,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Bony Knight's Armored Bones                | Def Up, Accuracy Down                | Evil        | Skeleton Knight        |
 | ?                                          | Crit Res Up, Detect Down             | ?           | Skeleton Archer        |
 | ?                                          | Def Up, Crit Tol Down                | Good        | Golem                  |
-| ?                                          | ?                                    | ?           | Greater Demon          |
+| Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          |
 | ?                                          | ?                                    | ?           | Gorgon                 |
 | ?                                          | SP Up, Earth Res Down                | ?           | Lizardman Champion     |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               |
