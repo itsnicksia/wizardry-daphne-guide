@@ -12,10 +12,8 @@
     === "Thief"
         ![](../img/arboris-thief.jpg)
 
-<!--
     === "Priest"
         ![](../img/arboris-priest.jpg)
--->
 
 ## Skills
 
