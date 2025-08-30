@@ -10,13 +10,13 @@ Relicbrews can be obtained by finding abyss relics off of red glowing monsters a
 
 ## Effects
 
-These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs. However, the exact effects aren't particularly well known at the moment. What is known however is that by consuming brews of matching personality type, one can consume more beyond the limit before penalties begin showing.
-
-Effects can be increased by consuming the same type of brew again.
+These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs. Effects can be leveled up by consuming the same type of brew again.
 
 ## Penalties
 
-After drinking enough relicbrews, an adventurer and the MC can be affected by certain effects. This is indicated by the color of the swirl on the top left of the character portrait.
+After drinking enough relicbrews, an adventurer and the MC can be affected by certain effects. This is indicated by the color of the swirl on the top left of the character portrait. By consuming brews of matching personality type, one can consume more beyond the limit before penalties begin showing.
+
+Note: It seems that an adventurer may safely drink up to 4 relicbrews matching their personality before experiencing penalties.
 
 - Stage 1: White (Normal)
 - Stage 2: Purple (50 max fortitude, chance to be afflicted with confusion at start of every turn)
