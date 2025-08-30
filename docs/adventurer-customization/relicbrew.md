@@ -16,7 +16,7 @@ These are essentially permanent buffs that can be applied to all adventurers inc
 
 After drinking enough relicbrews, an adventurer and the MC can be affected by certain effects. This is indicated by the color of the swirl on the top left of the character portrait. By consuming brews of matching personality type, one can consume more beyond the limit before penalties begin showing.
 
-Note: It seems that an adventurer may safely drink up to 4 relicbrews matching their personality before experiencing penalties.
+Note: It seems that an adventurer may safely drink up to 4 relicbrews before experiencing penalties, with a minimum of 1 relicbrew needing to match personality. A 5th relicbrew even if all matching alignment will raise an adventurer to stage 2 immediately. 
 
 - Stage 0: Grey (Normal)
 - Stage 1: White (Normal?)
