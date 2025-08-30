@@ -10,7 +10,7 @@ Relicbrews can be obtained by finding abyss relics off of red glowing monsters a
 
 ## Effects
 
-These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs, adventurers will begin taking more fortitude damage when dying (3-4) and even dropping to 0 fortitude when reaching 5 effects.
+These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs. However, the exact effects aren't particularly well known at the moment.
 
 Effects can be increased by consuming the same type of brew again.
 
