@@ -18,6 +18,7 @@ After drinking enough relicbrews, an adventurer and the MC can be affected by ce
 
 Note: It seems that an adventurer may safely drink up to 4 relicbrews matching their personality before experiencing penalties.
 
+- Stage 0: Grey (Normal)
 - Stage 1: White (Normal)
 - Stage 2: Purple (50 max fortitude, chance to be afflicted with confusion at start of every turn)
 - Stage 3: Red (0 max fortitude, afflicted with confusion at start of every turn)
