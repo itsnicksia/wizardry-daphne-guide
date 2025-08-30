@@ -35,7 +35,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady          | Venommaiden Twisted Bloodwood           | 4055              |
 | Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera                | Composite Beast Bloodwood               | 4084              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   |                                         |                   |
-| Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down    | Evil        | Skeleton               |                                         | 4045              |
+| Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down    | Evil        | Skeleton               | Bony Spiritcoral                        | 4045              |
 | Great Undulating Devourer's Magic Core     | MP Up, Attack Down                   | Neutral     | Big Slime              | Great Undulating Devourer Cursefruit    | 4070              |
 | Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity                 | Wind Being Twisted Rootcrystal          |                   |
 | One-Eyed Giant's Mighty Arm                | Attack Up, Accuracy Up, Evasion Down | Neutral     | Cyclops                | One-Eyed Giant Twisted Bloodwood        |                   |
