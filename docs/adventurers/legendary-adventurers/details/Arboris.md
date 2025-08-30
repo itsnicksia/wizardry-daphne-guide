@@ -5,12 +5,15 @@
 **Type**: Earth  
 **Personality**: Neutral  
 **Starting Class**: Thief  
-**Class Change**:  
+**Class Change**: Priest   
 **Role**: Support, Damage
 
 ??? info "Portraits"
     === "Thief"
         ![](../img/arboris-thief.jpg)
+
+    === "Priest"
+        ![](../img/arboris-priest.jpg)
 
 ## Skills
 
