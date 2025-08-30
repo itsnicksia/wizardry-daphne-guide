@@ -33,7 +33,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Gobber's Evil Eye                          | Accuracy Up, Surety Down             | Neutral     | Goblin                 | Gobber Bloodwood                        | 4040              |
 | Plunderer's Deft Hand                      | Surety Up, Magic Down                | Evil        | Bandit                 | Plunderer Bloodwood                     | 4052              |
 | Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady          | Venommaiden Twisted Bloodwood           | 4055              |
-| Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera                |                                         |                   |
+| Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera                | Composite Beast Bloodwood               | 4084              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   |                                         |                   |
 | Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down    | Evil        | Skeleton               |                                         | 4045              |
 | Great Undulating Devourer's Magic Core     | MP Up, Attack Down                   | Neutral     | Big Slime              | Great Undulating Devourer Cursefruit    | 4070              |
@@ -63,7 +63,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman              |                                         |                   |
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           |                                         |                   |
 | Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleambright                 | 4077              |
-| Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  |                                         | 4072              |
+| Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  | Sprite Cursefruit                       | 4072              |
 | ?                                          | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       |                                         |                   |
 | Redripened Carapace                        | Crit Res Up, Detect                  | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | ?                                          | Evasion Up, Def Down                 | Evil        | Vampire                |                                         |                   |
