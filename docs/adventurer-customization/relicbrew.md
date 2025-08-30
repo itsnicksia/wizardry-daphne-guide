@@ -10,7 +10,7 @@ Relicbrews can be obtained by finding abyss relics off of red glowing monsters a
 
 ## Effects
 
-These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs. Effects can be leveled up by consuming the same type of brew again.
+These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. Effects can be leveled up by consuming the same type of brew again. Having a matching personality to the relicbrew will provide more bonus stats.
 
 ## Penalties
 
