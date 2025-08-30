@@ -10,7 +10,9 @@ Relicbrews can be obtained by finding abyss relics off of red glowing monsters a
 
 ## Effects
 
-These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs. However, the exact effects aren't particularly well known at the moment.
+These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. There is a limit to these buffs in that after stacking a certain number of buffs. However, the exact effects aren't particularly well known at the moment. What is known however is that by consuming brews of matching personality type, one can consume more beyond the limit before penalties begin showing.
+
+Upon reaching certain limits, one's max fortitude will drop to 50 and then eventually 0. Finally, the user may be permanently confused.
 
 Effects can be increased by consuming the same type of brew again.
 
