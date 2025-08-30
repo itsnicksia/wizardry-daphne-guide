@@ -75,4 +75,5 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | Def Up, Crit Tol Down                | Good        | Golem                  |
 | ?                                          | ?                                    | ?           | Greater Demon          |
 | ?                                          | ?                                    | ?           | Gorgon                 |
-| ?                                          | SP Up, Earth REs Down                | ?           | Lizardman Champion     |
+| ?                                          | SP Up, Earth Res Down                | ?           | Lizardman Champion     |
+| ?                                          | HP Up, Fire Res Down                 | ?           | Minotaur               |
