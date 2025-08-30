@@ -1,7 +1,5 @@
 # Relicbrews
 
-!!! warning "The list of effects are still being discovered! Please be patient"
-
 Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) and subsequently [Recovery of Research Materials](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings), you unlock the ability to access Relicbrews at the Black Barrel Tavern.
 
 ## How to obtain
