@@ -71,4 +71,4 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | MP Up, Def Down                      | Evil        | Wight                  |
 | ?                                          | Magic Def Up, Evade Trap Down        | ?           | Skeleton Mage          |
 | Bony Knight's Armored Bones                | Def Up, Accuracy Down                | Evil        | Skeleton Knight        |
-
+| ?                                          | Def Up, Crit Tol Down                | Good        | Golem                  |
