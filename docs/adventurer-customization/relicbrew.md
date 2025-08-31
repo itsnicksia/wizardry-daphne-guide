@@ -63,7 +63,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Salt-Teared Priestess's Hallowed Voice     | Divine Up, Res Down                  | Neutral     | Pirate Deacon          | Salt-Teared Priestess Cursefruit        | 4069              |
 | Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer          | Gobber Bowman Gleambright               | 4041              |
 | Giant Bugwing's Compound Eyes              | Evade Trap Up, MP Down               | Neutral     | Dragon Fly             | Giant Bugwing Twisted Gleambright       | 4075              |
-| Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            |                                         | 4083              |
+| Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Twisted Rootcrystal   | 4083              |
 | Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker       |                                         | 4068              |
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Twisted Gleambright              | 4081              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Twisted Cursefruit           |                   |
