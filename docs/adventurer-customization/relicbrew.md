@@ -10,6 +10,13 @@ Relicbrews can be obtained by finding abyss relics off of red glowing monsters a
 
 These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. Effects can be leveled up by consuming the same type of brew again. Having a matching personality to the relicbrew will provide more bonus stats.
 
+## Exp
+
+- 1* Relic = 100 EXP OR Lvl 1 with 0 EXP
+- 2* Relic = 200 EXP OR Lvl 1 with 100 EXP
+- 3* Relic = 400 EXP OR Lvl 2 with 100 EXP
+- 4* Relic = 1000 EXP OR Lvl 3 with 100 EXP
+
 ## Penalties
 
 After drinking enough relicbrews, an adventurer and the MC can be affected by certain effects. This is indicated by the color of the swirl on the top left of the character portrait. By consuming brews of matching personality type, one can consume more beyond the limit before penalties begin showing.
