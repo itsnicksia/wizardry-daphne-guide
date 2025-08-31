@@ -74,6 +74,6 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | Def Up, Crit Tol Down                | Good        | Golem                  |                                         |                   |
 | Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          | Hellfire Warlord Cursefruit             | 4057              |
 | ?                                          | Def Up, MP Down                      | Evil        | Gorgon                 |                                         |                   |
-| ?                                          | SP Up, Earth Res Down                | ?           | Lizardman Champion     | Reptillian Monarch Twisted Bloodwood    | 4065              |
+| Reptilian Monarch's Energy Flow            | SP Up, Earth Res Down                | ?           | Lizardman Champion     | Reptilian Monarch Twisted Bloodwood     | 4065              |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               |                                         |                   |
 | ?                                          | Magic Up, Res Down                   | ?           | Sahuragin Mage         |                                         |                   |
