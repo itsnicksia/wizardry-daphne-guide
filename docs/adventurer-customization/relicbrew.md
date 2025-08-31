@@ -46,7 +46,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Great Undulating Devourer's Magic Core     | MP Up, Attack Down                   | Neutral     | Big Slime              | Great Undulating Devourer Cursefruit    | 4070              |
 | Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity                 | Wind Being Twisted Rootcrystal          | 4073              |
 | One-Eyed Giant's Mighty Arm                | Attack Up, Accuracy Up, Evasion Down | Neutral     | Cyclops                | One-Eyed Giant Twisted Bloodwood        |                   |
-| Lust Demon's Warding Glyph                 | Resistance Up, Attack Down           | Evil        | Succubus               |                                         |                   |
+| Lust Demon's Warding Glyph                 | Resistance Up, Attack Down           | Evil        | Succubus               | Lust Demon Spiritcoral                  | 4067              |
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Twisted Bloodwood    | 4058              |
 | Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Twisted Bloodwood |                   |
 | Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Twisted Spiritcoal              | 4061              |
