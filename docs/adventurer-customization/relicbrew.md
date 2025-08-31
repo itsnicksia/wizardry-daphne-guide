@@ -73,7 +73,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | Crit Res Up, Detect Down             | ?           | Skeleton Archer        |                                         |                   |
 | ?                                          | Def Up, Crit Tol Down                | Good        | Golem                  |                                         |                   |
 | Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          | Hellfire Warlord Cursefruit             | 4057              |
-| ?                                          | ?                                    | ?           | Gorgon                 |                                         |                   |
+| ?                                          | Def Up, MP Down                      | Evil        | Gorgon                 |                                         |                   |
 | ?                                          | SP Up, Earth Res Down                | ?           | Lizardman Champion     |                                         |                   |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               |                                         |                   |
 | ?                                          | Magic Up, Res Down                   | ?           | Sahuragin Mage         |                                         |                   |
