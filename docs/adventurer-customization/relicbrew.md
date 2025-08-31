@@ -76,3 +76,4 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | ?                                    | ?           | Gorgon                 |                                         |                   |
 | ?                                          | SP Up, Earth Res Down                | ?           | Lizardman Champion     |                                         |                   |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               |                                         |                   |
+| ?                                          | Magic Up, Res Down                   | ?           | Sahuragin Mage         |                                         |                   |
