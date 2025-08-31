@@ -46,7 +46,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Bone Colossus's Hardened Bones             | Def Up, Mp Down                      | Neutral     | Skeleton Giant         | Bone Colossus Twisted Rootcrystal       |                   |
 | Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              |                                         |                   |
 | Gobber's Magic-Resistant Lump              | Magic Def Up, Crit Tol Down          | Neutral     | Goblin Mage            | Gobber Sorcerer Twisted Rootcrystal     | 4042              |
-| Man Eating Box's Sturdy Jaw                | All Elemental Res Up, Eva Down       | Neutral     | Mimic                  |                                         |                   |
+| Man Eating Box's Sturdy Jaw                | All Elemental Res Up, Eva Down       | Neutral     | Mimic                  | Man-Eating Box Twisted Spiritcoral      | 4050              |
 | Noxfume's Shelled Lungs                    | Air Res Up, Disarm Trap Down         | Evil        | Cloud                  | Noxfume Spiritcoral                     | 4053              |
 | Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          |                                         |                   |
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer        | Merfolk Bowman Twisted Bloodwood        | 4062              |
