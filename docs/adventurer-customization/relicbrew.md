@@ -37,7 +37,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   |                                         |                   |
 | Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down    | Evil        | Skeleton               | Bony Spiritcoral                        | 4045              |
 | Great Undulating Devourer's Magic Core     | MP Up, Attack Down                   | Neutral     | Big Slime              | Great Undulating Devourer Cursefruit    | 4070              |
-| Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity                 | Wind Being Twisted Rootcrystal          |                   |
+| Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity                 | Wind Being Twisted Rootcrystal          | 4073              |
 | One-Eyed Giant's Mighty Arm                | Attack Up, Accuracy Up, Evasion Down | Neutral     | Cyclops                | One-Eyed Giant Twisted Bloodwood        |                   |
 | Lust Demon's Warding Glyph                 | Resistance Up, Attack Down           | Evil        | Succubus               |                                         |                   |
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Twisted Bloodwood    | 4058              |
