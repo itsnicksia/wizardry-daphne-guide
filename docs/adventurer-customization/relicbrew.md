@@ -64,7 +64,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer          | Gobber Bowman Gleambright               | 4041              |
 | Giant Bugwing's Compound Eyes              | Evade Trap Up, MP Down               | Neutral     | Dragon Fly             | Giant Bugwing Twisted Gleambright       | 4075              |
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Twisted Rootcrystal   | 4083              |
-| Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker       |                                         | 4068              |
+| Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker       | Sea Mad Warrior Twisted Bloodwood       | 4068              |
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Twisted Gleambright              | 4081              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Twisted Cursefruit           |                   |
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman              |                                         |                   |
