@@ -51,7 +51,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Twisted Bloodwood |                   |
 | Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Twisted Spiritcoal              | 4061              |
 | Bone Colossus's Hardened Bones             | Def Up, Mp Down                      | Neutral     | Skeleton Giant         | Bone Colossus Twisted Rootcrystal       | 4080              |
-| Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              |                                         |                   |
+| Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              | Reptilian Bloodwood                     | 4064              |
 | Gobber's Magic-Resistant Lump              | Magic Def Up, Crit Tol Down          | Neutral     | Goblin Mage            | Gobber Sorcerer Twisted Rootcrystal     | 4042              |
 | Man Eating Box's Sturdy Jaw                | All Elemental Res Up, Eva Down       | Neutral     | Mimic                  | Man-Eating Box Twisted Spiritcoral      | 4050              |
 | Noxfume's Shelled Lungs                    | Air Res Up, Disarm Trap Down         | Evil        | Cloud                  | Noxfume Spiritcoral                     | 4053              |
@@ -67,7 +67,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker       | Sea Mad Warrior Twisted Bloodwood       | 4068              |
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Twisted Gleambright              | 4081              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Twisted Cursefruit           |                   |
-| Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman              |                                         |                   |
+| Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman              |                                          |                   |
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           | Dancing Blade Bloodwood                 | 4054              |
 | Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleambright                 | 4077              |
 | Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  | Sprite Cursefruit                       | 4072              |
