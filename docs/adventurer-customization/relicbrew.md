@@ -71,7 +71,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           | Dancing Blade Bloodwood                 | 4054              |
 | Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleambright                 | 4077              |
 | Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  | Sprite Cursefruit                       | 4072              |
-| ?                                          | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       |                                         |                   |
+| Hexdoll's Fleeing Step                     | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       | Hexdoll Gleamblight                     | 4059              |
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | ?                                          | Evasion Up, Def Down                 | Evil        | Vampire                | Thrall of the Dark Twisted Gleambright  | 4074              |
 | Dead-Minder's Spirit Essence               | MP Up, Def Down                      | Evil        | Wight                  | Dead-Minder Cursefruit                  | 4079              |
