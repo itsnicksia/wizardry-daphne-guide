@@ -74,7 +74,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       |                                         |                   |
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | ?                                          | Evasion Up, Def Down                 | Evil        | Vampire                | Thrall of the Dark Twisted Gleambright  | 4074              |
-| ?                                          | MP Up, Def Down                      | Evil        | Wight                  | Dead-Minder Cursefruit                  | 4079              |
+| Dead-Minder's Spirit Essence               | MP Up, Def Down                      | Evil        | Wight                  | Dead-Minder Cursefruit                  | 4079              |
 | ?                                          | Magic Def Up, Evade Trap Down        | ?           | Skeleton Mage          | Bony Sorcerer Rootcrystal               | 4047              |
 | Bony Knight's Armored Bones                | Def Up, Accuracy Down                | Evil        | Skeleton Knight        | Bony Knight Rootcrystal                 | 4048              |
 | ?                                          | Crit Res Up, Detect Down             | ?           | Skeleton Archer        |                                         |                   |
