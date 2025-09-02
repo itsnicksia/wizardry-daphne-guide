@@ -17,6 +17,11 @@ These are essentially permanent buffs that can be applied to all adventurers inc
 - 3* Relic = 400 EXP OR Lvl 2 with 100 EXP
 - 4* Relic = 1000 EXP OR Lvl 3 with 100 EXP
 
+- 1* to 2* Requires 200 EXP
+- 2* to 3* Requires 600 EXP
+- 3* to 4* Requires 1200 EXP
+- 4* to 5* Requires 3000 EXP
+
 ## Penalties
 
 After drinking enough relicbrews, an adventurer and the MC can be affected by certain effects. This is indicated by the color of the swirl on the top left of the character portrait. By consuming brews of matching personality type, one can consume more beyond the limit before penalties begin showing.
@@ -51,7 +56,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Twisted Bloodwood |                   |
 | Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Twisted Spiritcoal              | 4061              |
 | Bone Colossus's Hardened Bones             | Def Up, Mp Down                      | Neutral     | Skeleton Giant         | Bone Colossus Twisted Rootcrystal       | 4080              |
-| Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              |                                         |                   |
+| Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              | Hobber Twisted Bloodwood                |                   |
 | Gobber's Magic-Resistant Lump              | Magic Def Up, Crit Tol Down          | Neutral     | Goblin Mage            | Gobber Sorcerer Twisted Rootcrystal     | 4042              |
 | Man Eating Box's Sturdy Jaw                | All Elemental Res Up, Eva Down       | Neutral     | Mimic                  | Man-Eating Box Twisted Spiritcoral      | 4050              |
 | Noxfume's Shelled Lungs                    | Air Res Up, Disarm Trap Down         | Evil        | Cloud                  | Noxfume Spiritcoral                     | 4053              |
