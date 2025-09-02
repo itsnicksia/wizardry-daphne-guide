@@ -55,7 +55,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Gobber's Magic-Resistant Lump              | Magic Def Up, Crit Tol Down          | Neutral     | Goblin Mage            | Gobber Sorcerer Twisted Rootcrystal     | 4042              |
 | Man Eating Box's Sturdy Jaw                | All Elemental Res Up, Eva Down       | Neutral     | Mimic                  | Man-Eating Box Twisted Spiritcoral      | 4050              |
 | Noxfume's Shelled Lungs                    | Air Res Up, Disarm Trap Down         | Evil        | Cloud                  | Noxfume Spiritcoral                     | 4053              |
-| Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          |                                         |                   |
+| Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          | Restless Currency Gleambright           | 4060              |
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer        | Merfolk Bowman Twisted Bloodwood        | 4062              |
 | Shadowhoof Cavalier's Ghostsoul            | Magic Up, Dark Res Up, Divine Down   | Evil        | Necrocore              | Shadowhoof Cavalier Twisted Cursefruit  | 4078              |
 | Carrion Beetle's Carapace                  | Earth Res Up, Mp Down                | Good        | Abyssal Insect         | Carrion Beetle Twisted Spiritcoral      | 4051              |
@@ -68,7 +68,7 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Twisted Gleambright              | 4081              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Twisted Cursefruit           |                   |
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman              |                                         |                   |
-| Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           |                                         |                   |
+| Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           | Dancing Blade Bloodwood                 | 4054              |
 | Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleambright                 | 4077              |
 | Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  | Sprite Cursefruit                       | 4072              |
 | ?                                          | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       |                                         |                   |
@@ -83,4 +83,4 @@ These buffs can be removed through the surgery. On success, the adventurer will 
 | ?                                          | Def Up, MP Down                      | Evil        | Gorgon                 |                                         |                   |
 | Reptilian Monarch's Energy Flow            | SP Up, Earth Res Down                | ?           | Lizardman Champion     | Reptilian Monarch Twisted Bloodwood     | 4065              |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               |                                         |                   |
-| ?                                          | Magic Up, Res Down                   | ?           | Sahuragin Mage         |                                         |                   |
+| ?                                          | Magic Up, Res Down                   | ?           | Sahuragin Mage         | Merfolk Spellcaster Cursefruit          | 4063              |
