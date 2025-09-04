@@ -4,7 +4,7 @@
 
 * Lanavaille must in the party
 * Certain Trust Level must be achieved with Lanavaille.
-* You must have the normal Lanavaille and not Wandering Princess Lanavaille.
+* You must have the normal Lanavaille and not Wanderer Princess Lanavaille.
 
 Once the requirements are met, the "request" will be available upon entering the Royal Capital and watching the cutscene with Lanavaille.
 
@@ -30,5 +30,5 @@ Once the requirements are met, the "request" will be available upon entering the
 
 ## Rewards:
 
-- Lanavaille will now have the same voicelines as Wandering Princess Lanavaille.
+- Lanavaille will now have the same voicelines as Wanderer Princess Lanavaille.
 - Lanavaille will now have a different crown, shackles will be removed, and armor will no longer have cracks.
