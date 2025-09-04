@@ -4,7 +4,7 @@ comments: true
 
 #  Unique Equipment
 
-Most non-event equipment can be obtained once a month.
+Most non-event equipment can be obtained once a month.  Note that some locations can change due to certain maps having set layout variations.
 
 | Name                           | Type             | How to Obtain                                                          | Effects                                     | Notes                                                   |
 |:------------------------------ |:---------------- |:---------------------------------------------------------------------- |:------------------------------------------- |:------------------------------------------------------- |
