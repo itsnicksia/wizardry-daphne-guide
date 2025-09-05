@@ -5,8 +5,8 @@ There are a serveral resources in Wizardry Variants Daphne that can be accumulat
 There are two types of Gems: Gems of Erin (Purple) and Gems of Org (Green).  Purple Gems can only be obtained throug on e of the purchase methods mentioned above.  For the most part, Purple and Green gems exchange at the same rate for the items, although certain Jeweler items are reserved for purchase with Purple gems.  Unless noted otherwise, accumulation details below refer only to Green Gems.
 
 ### Sources
-#### Regular Sources
-| Gem Source                                                | Frequency | Amount | Monthly Total<sup>†</sup> | 
+
+| Regular Sources                                           | Frequency | Amount | Monthly Total<sup>†</sup> | 
 | :-------------------------------------------------------- | :-------: | :----: | :-----------------------: | 
 | Daily Mission Completion                                  | Daily     |  20    | 600                       |
 | Jewelery daily gems purchase (100gp)                      | Daily     |  10    | 300                       |
@@ -15,22 +15,29 @@ There are two types of Gems: Gems of Erin (Purple) and Gems of Org (Green).  Pur
 | Guild Regular (Today's) Supplies                          | Biweekly  |  200   | 400                       | 
 | | | | --- | 
 | Monthly Total                                             |           |        | 2300                      | 
-<sup>† Assuming one month is 30-days or 4 weeks for easy math</sup>
 
-#### Optional Sources
-| Gem Source                                                   | Frequency | Amount | Monthly Total<sup>†</sup> | 
+<sup>†</sup> Monthly totals assume a 30-days or 4 weeks month for easy math.
+
+| Optional Sources                                             | Frequency | Amount | Monthly Total<sup>†</sup> | 
 | :----------------------------------------------------------- | :-------: | :----: | :-----------------------: | 
-| Guild Points Jeweler Exchange 2x (1000 Guild Pts = 250 Gems) | Monthly   |  500   | 500                       |
+| Guild Points Exchange gems                                   | Monthly   |  500   | 500                       |
 
-#### Irregular Sources
-| Gem Source                                                   | Frequency | Amount    |
+<sup>†</sup> Monthly totals assume a 30-days or 4 weeks month for easy math.
+
+| Irregular Sources                                            | Frequency | Amount    |
 | :----------------------------------------------------------- | :-------: | :-------: |
 | "Special Supplies" (usually tied to events)                  | ~ Monthly |  200-500  |
 | Event mission gems                                           | ~ Monthly |  200-1000 |
 | "Maintenance" apology gems                                   | ~ Monthly |  200-1000 |
 
 #### One Time Sources
-- New Account Gems
+| One-Time Sources | Amount  |                                          |
+| :--------------- | :-----: | :--------------------------------------- |
+| New Account gems | ~2000  | New Accounts get gems in their Gulid Mailbox to build account. Usually spent on bones at the Jeweler. | 
+| Friend Invite Code events | 25-100 each| When others use your code, you get gems as they progress throuh Beginning Abyss. Each milestone can be received 5x. | 
+| Abyss Clearance Missions completion | ~1000 | Each abyss has no-time-limit mission set with gem completion reward. |
+| [In-game Achievements](./achievements.md) | 25-50 each | | 
+
     - New acconuts receive 2000 gems in their Guild Mailbox to help build their account with characters, equipment, etc. On occasion additional start-up gems may be given.
     - People generally use these gems to get bones from the Jeweler to build a starting set of characters for playing the game.
 
