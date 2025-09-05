@@ -2,6 +2,8 @@
 
 Upon completing [Expose the Intruder](../abyss-guides/3-guarda-fortress/requests.md#expose-the-intruder), you will unlock the ability to make contracts on specific characters by talking to Morgus, God of Death.
 
+Contracts are essentially applied to an adventurer and provide a sizeable buff with a disproportionate debuff, typically to the entire row of the adventurer is in. They can be applied and removed at any time without any consequences. All the contracts listed are always available once contracts have been unlocked.
+
 ## List of Adventurer Contracts
 
 !!! note "Contract of the Raging Warrior"
