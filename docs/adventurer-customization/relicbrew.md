@@ -35,7 +35,7 @@ It seems that an adventurer may safely drink up to 4 relicbrews before experienc
 
 ## Removal
 
-These buffs can be removed through the surgery. On success, the adventurer will lose 1 max fortitude for 2 weeks. On failure, the adventurer will lose 5 max fortitude for 2 weeks. On great success, the adventurer does not lose any fortitude. It is recommended not to select emergency removal and only use special extraction. You can choose to use green gems, purple gems, or gold for removal, but it's generally recommended not to use any gems as of now.
+These buffs can be removed through the surgeryat the tavern. (Select Relic Power from the main menu, then select the adventurer and power to remove.) On success, the adventurer will lose 1 max fortitude for 2 weeks. On failure, the adventurer will lose 5 max fortitude for 2 weeks. On great success, the adventurer does not lose any fortitude. It is recommended not to select emergency removal and only use special extraction. You can choose to use green gems, purple gems, or gold for removal, but it's generally recommended not to use any gems as of now.
 
 ## List of effects
 
