@@ -103,7 +103,7 @@ In this game, adventurer bones are used by the Masked Adventurer to resurrect al
 | :------------------------------------------------------------| :--------: | :----: | :---------------: | 
 | Jeweler: Guild Points - Legendary Bones                      | Bi-Monthly |  1     | 0.5<sup>†</sup>   | 
 | Jeweler: Guild Points - Adventurer Bones                     | Monthly    |  5     | 5<sup>†</sup>     | 
-| Jeweler: Gems - Adventurer Bone (200 Gems)                   | n/a        |  1     | 14<sup>†</sup>    | 
+| Jeweler: Gems - Adventurer Bone (200 Gems)                   | n/a        |  1     | 14<sup>††</sup>   | 
 | Jeweler: Gems - Adventurer Bone 11 pack (2000 Gems)          | n/a        |  11    | 15.4<sup>††</sup> | 
 | Jeweler: Gems - "Banner" Adventurer Bone (200 Gems)          | n/a        |  1     | 14<sup>††</sup>   | 
 | Jeweler: Gems - "Banner" Adventurer Bone 11 pack (2000 Gems) | n/a        |  11    | 15.4<sup>††</sup> | 
@@ -120,3 +120,16 @@ In this game, adventurer bones are used by the Masked Adventurer to resurrect al
 | [Anonymous Adventurer Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Bones | 6      |
 
 ## Guild Tags
+Guild Tags are an important resource in Wizardry Variants Daphne, as they are required to raise a character's Grade which in turn limits the maximum level the adventurer can reach.  An [exam must be passed and a Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, each grade requires a Guild Tag [that is formed by Unifying three tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).  
+
+### Tag Requirements per Adventurer per Grade
+| Grade    | Max Level | Previous Grade Tags | Equivalent Ungraded Tags | Cumulative Ungraded Tags |
+| :------: | :-------: | :-----------------: | :----------------------: | :----------------------: | 
+| Ungraded | 20    | 0 | 0  | 0   |
+| Lead     | 30    | 3 | 3  | 3   |
+| Bronze   | 40    | 3 | 9  | 12  |
+| Iron     | 50 | 3 | 27 | 39  |
+| Steel    | 60 | 3 | 81 | 120 |
+
+
+
