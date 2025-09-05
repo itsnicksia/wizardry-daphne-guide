@@ -4,7 +4,7 @@ Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-le
 
 ## How to obtain
 
-Relicbrews can be obtained by finding abyss relics off of red glowing monsters anywhere in the game. They spawn randomly and typically are specific to their enemy type. The quality and thus exp given by a relic is randomized as well. Each relic produces 1 drink, which can be consumed by up to 6 people at once.
+Relicbrews can be obtained by finding abyss relics off of red glowing monsters anywhere in the game. They spawn randomly and typically are specific to their enemy type. The quality and thus exp given by a relic is dependant on the location of the enemy, usually scaling with the level of the area. Each relic produces 1 drink, which can be consumed by up to 6 people at once.
 
 ## Effects
 
