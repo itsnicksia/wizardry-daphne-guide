@@ -50,9 +50,7 @@ In combat, openings are critical opportunities to deal massive damage to enemies
 Openings work on all types of enemies, from basic mobs to bosses, although bosses that regularly use multi-target attacks are harder to create openings against, particularly when they mostly cast spells or multi-target attacks that hit both of your rows.
 
 ### Opening Damage
-We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers, however there is a chance that it can be a sure hit. This is something that we're currently trying to test out.
-
-Assuming this formula is correct, it explains some interesting behavior we've seen in the past, such as an attack missing but still dealing some amount of Opening damage. In addition, assuming the `HP%Damage` portion can be a sure hit, it also explains why sometimes an Opening attack just seems to deal a larger than normal amount of damage against an enemy. More to come here as we test it and determine the actual behavior.
+We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers.
 
 ### Way of the Thief Modifier
 
