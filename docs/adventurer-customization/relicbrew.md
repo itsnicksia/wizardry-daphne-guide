@@ -90,4 +90,4 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               |                                         | ?                 |
 | ?                                          | Magic Up, Res Down                   | ?           | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4063              | 
 
-<sup>†</sup> Obtained relics may have other Relic Name modifiers, such as "Twisted", to indicate higher power relics.
+<sup>†</sup> Obtained relics may have other Relic Name modifiers, such as "Twisted", to indicate higher Relic power.
