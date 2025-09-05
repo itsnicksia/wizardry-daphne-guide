@@ -46,7 +46,7 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Plunderer's Deft Hand                      | Surety Up, Magic Down                | Evil        | Bandit                 | Plunderer Bloodwood                     | 4052              |
 | Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady          | Venommaiden  Bloodwood                  | 4055              |
 | Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera                | Composite Beast Bloodwood               | 4084              |
-| Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | ?                                       | ?                 |
+| Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down    | Evil        | Skeleton               | Bony Spiritcoral                        | 4045              |
 | Great Undulating Devourer's Magic Core     | MP Up, Attack Down                   | Neutral     | Big Slime              | Great Undulating Devourer Cursefruit    | 4070              |
 | Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity                 | Wind Being Rootcrystal                  | 4073              |
