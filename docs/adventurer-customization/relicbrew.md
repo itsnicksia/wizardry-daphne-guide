@@ -82,7 +82,7 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Dead-Minder's Spirit Essence               | MP Up, Def Down                      | Evil        | Wight                  | Dead-Minder Cursefruit                  | 4079              |
 | ?                                          | Magic Def Up, Evade Trap Down        | ?           | Skeleton Mage          | Bony Sorcerer Rootcrystal               | 4047              |
 | Bony Knight's Armored Bones                | Def Up, Accuracy Down                | Evil        | Skeleton Knight        | Bony Knight Rootcrystal                 | 4048              |
-| ?                                          | Crit Res Up, Detect Down             | ?           | Skeleton Archer        |                                         | ?                 |
+| Bony Bowman's Cartilage                    | Crit Res Up, Detect Down             | Evil        | Skeleton Archer        | Bony Bowman's Gleambright               | 4046              |
 | Servant-of-the-Earth's Pauldrons           | Def Up, Crit Tol Down                | Good        | Golem                  | Servant-of-the-Earth Rootcrystal        | 4076              |
 | Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          | Hellfire Warlord Cursefruit             | 4057              |
 | ?                                          | Def Up, MP Down                      | Evil        | Gorgon                 |                                         | ?                 |
