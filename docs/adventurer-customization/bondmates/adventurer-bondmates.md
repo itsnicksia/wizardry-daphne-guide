@@ -26,7 +26,7 @@
 | Alex         | VIT                 |
 | Alice        |                     |
 | Amelia       | SPD                 |
-| Arboris      |                     |
+| Arboris      | DEX                 |
 | Asha         | IQ                  |
 | Bakesh       | DEX                 |
 | Barbara      | STR                 |
