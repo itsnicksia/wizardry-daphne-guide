@@ -337,7 +337,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Missing Companion
 
 ??? note "Requirements"
-    - [Stopped the Mastermind](./important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
+    - [Stopped the Blackmailer](./important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
     - Attained [Rescuing Liam Safely](./requests.md#rescuing-the-little-girl-safely)
 
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
