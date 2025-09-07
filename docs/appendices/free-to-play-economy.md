@@ -131,15 +131,15 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying three tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
 
 #### Tag Requirements per Adventurer per Grade
-| Grade    | Max Level | Previous Grade Tags | Equivalent Ungraded Tags | Cumulative Ungraded Tags |
+| Adventurer Grade    | Max Level | Previous Grade Tags | Equivalent Ungraded Tags | Cumulative Ungraded Tags |
 | :------: | :-------: | :-----------------: | :----------------------: | :----------------------: | 
-| Ungraded | 20    | 0 | 0  | 0   |
-| Lead     | 30    | 3 | 3  | 3   |
-| Bronze   | 40    | 3 | 9  | 12  |
-| Iron     | 50 | 3 | 27 | 39  |
-| Steel    | 60 | 3 | 81 | 120 |
+| Ungraded | 20 | 0 | 0  | 0  |
+| Lead     | 30 | 1 | 1  | 1  |
+| Bronze   | 40 | 1 | 2  | 3  |
+| Iron     | 50 | 1 | 4 | 7  |
+| Steel    | 60 | 1 | 8 | 15 |
 
- As this table shows. the required number of tags for each grade grows quickly and tag accumulation can become a primary bottleneck for advancing in the games. A party of six adventurers requires a total of 720 guild tags to reach Steel Grade. 
+As this table shows. the required number of tags for each grade grows quickly and tag accumulation can become a primary bottleneck for advancing in the games. A party of six adventurers requires a total of 90 ungraded guild tags to reach Steel Grade. 
 
 #### Regular Guild Tags
 | Source                                       | Frequency | Amount | Monthly Total | 
@@ -175,5 +175,5 @@ Thus at high grades, dismissing extra adventurers may be necessary or collecting
 <small><sup>†††</sup> using the standard adventurer remains drop rates: Anon:50%, General:45%, Legend:5%.</small>
 
 - From this we see that a total of about 78 tags directly and from dismissed adventurers could be obtained monthly through regular means.  
-- It would take a party of six adventurers a bit over 9 months using all free, regular tags and remains to accumulate the 720 tags needed for Steel grade.  
+- It would take a party of six adventurers a bit over a month using all free, regular tags and remains to accumulate the 90 tags needed for Steel grade.  
 - Also using gems, ...
