@@ -1,13 +1,14 @@
 # Free-to-Play Resources 
-There are a serveral resources in Wizardry Variants Daphne that can be accumulated over time and used to obtain in-game content including adventurers, equipment, and upgrade items. The game provides numerous methods for purchasing resources, either at the [Wizardry Variants Daphne Official Store](https://store.wizardry.info) or in game at the Jeweler (see [Guide Purchase Evalutaions page](./purchase-evaluation.md)).  For Free-to-Play players, however, accumulation rates are described below.  Note that the summary tries to cover regular, reliable accumulation methods. Other events can providing addtional resource gain opporutunities, a few of these are noted where appropriate.  Also, purchasing Mission Passes can increase the accumulation rate of certain resources, but is not discussed below. 
+Certain resources in Wizardry Variants Daphne can be accumulated over time and used to obtain in-game content or upgrade your adventuring party. While resources can be purchased at the [Wizardry Variants Daphne Official Store](https://store.wizardry.info) or in-game at the Jeweler (see [Guide Purchase Evaluaions page](./purchase-evaluation.md)), Free-to-Play (F2P) players rely on resource accumulation over time. The summary below tries to cover regular, reliable accumulation methods of these resources. Other events can providing additional resource gain opportunities, a few of these are noted where appropriate.  
 
 ## Gems
-There are two types of Gems: Gems of Erin (Purple) and Gems of Org (Green).  Purple Gems can only be obtained throug on e of the purchase methods mentioned above.  For the most part, Purple and Green gems exchange at the same rate for the items, although certain Jeweler items are reserved for purchase with Purple gems.  Unless noted otherwise, accumulation details below refer only to Green Gems.
+There are two Gem types: Gems of Erin (Purple) and Gems of Org (Green).  
+Purple Gems can only be obtained through one of the purchase methods mentioned above.  Both gem types generally exchange at the same rate for items, although certain Jeweler items are reserved for purchase with Purple gems.  Unless noted otherwise, details below refer only to Green Gems.
 
-### Sources
-!Note "Monthly totals assume a 30-day or 4 week month for easy math."  
+!!!note "Monthly totals assume a 30-day or 4 week month for easy math."  
 
-| Regular Sources                                           | Frequency | Amount | Monthly Total | 
+#### Regular Gems
+| Source                                         | Frequency | Amount | Monthly Total | 
 | :-------------------------------------------------------- | :-------: | :----: | :-----------: | 
 | Daily Mission Completion                                  | Daily     |  20    | 600           |
 | Jewelery daily gems purchase (100gp)                      | Daily     |  10    | 300           |
@@ -17,51 +18,55 @@ There are two types of Gems: Gems of Erin (Purple) and Gems of Org (Green).  Pur
 |                                                           |           |        | ----          | 
 | Monthly Total                                             |           |        | 2300          | 
 
-| Optional Sources                                             | Frequency | Amount | Monthly Total | 
+#### Optional Gems
+| Source                                             | Frequency | Amount | Monthly Total | 
 | :----------------------------------------------------------- | :-------: | :----: | :-----------: | 
 | Guild Points Exchange gems                                   | Monthly   |  500   | 500           |
 
-| Irregular Sources                                            | Frequency | Amount    |
+#### Irregular  Gems
+| Source                                           | Frequency | Amount    |
 | :----------------------------------------------------------- | :-------: | :-------: |
 | "Special Supplies" (usually tied to events, ~1-3 monthly)    | ~ Monthly |  200-500  |
 | Event mission gems  (usually 1-3 monthly)                    | ~ Monthly |  200-1000 |
 | "Maintenance" apology gems (1-4 monthly)                     | ~ Monthly |  200-1000 |
 
-| One-Time Sources                          | Amount     | Description                                                                                                         |
+#### One-Time Gems
+| Source                          | Amount     | Description                                                                                                         |
 | :---------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------------ |
-| New Account gems                          | ~2000      | New Accounts get gems in their Gulid Mailbox to build account. Usually spent on bones at the Jeweler.               | 
+| New Account gems                          | ~2000      | New Accounts get gems in their Guild Mailbox to build account. Usually spent on remains at the Jeweler.               | 
 | Friend Invite Code events                 | 25-100 each| When others use your code, you get gems as they progress throuh Beginning Abyss. Each milestone can be received 5x. | 
 | Abyss Clearance Missions completion       | ~1000      | Each abyss has a no-time-limit mission set with gem completion reward.                                              |
 | [In-game Achievements](./achievements.md) | 25-50 each | Game progression and special milestones in combat successes, compendium/collection, etc.                            |
 
 ### Uses
-Gems can be used throughout the game as a general currency for upgrades at the Jeweler (e.g., adventurer bones, equipment packs, spellbooks, class change books, ...) and in-game activities (e.g., resurrections, Mausoleum assistance, expanded inventory space, relic removal, ...). For some in-game activities gem usage is an option instead of spending Gold for the same item. Gems are scarce enough that use for those cases is discouraged. Popular uses are listed here:
+Gems can be used throughout the game as a general currency for upgrades at the Jeweler (e.g., adventurer remains, equipment packs, spellbooks, class change books, ...) and in-game activities (e.g., resurrections, Mausoleum assistance, expanded inventory space, relic removal, ...). For some in-game activities gem usage is an option instead of spending Gold for the same item. Gems are scarce enough that use for those cases is discouraged. Popular uses are listed here:
 
-#### "Banner" Adventurer Bones:
-- The most popular gems use is to get adventurer bones that give a chance (typically 4-5%) to obtain new Legendary characters or new skins for existing characters.
-- Limited time special bones are available from the Jeweler and typically cost 200 gems each, or 11 bones for 2000 gems.
-- Limited bones usually give, along with the random character, one 'pity' token that can be exchanged at the jeweler.
-- Typcially 100 (for legendary) or 60 (for non-legendary) tokens can be exchanged for bones that guarantee obtaining the banner character.
-- Thus the minumum gem cost 100% guarantee getting the banner is:
+#### "Banner" Adventurer Remains:
+- The most popular gems use is to get adventurer remains that give a chance (typically 4-5%) to obtain new Legendary characters or new skins for existing characters.
+- Limited time special remains are available from the Jeweler and typically cost 200 gems each, or 11 remains for 2000 gems.
+- Limited remains usually give, along with the random character, one 'pity' token that can be exchanged at the Jeweler.
+- Typically 100 (for legendary) or 60 (for non-legendary) tokens can be exchanged for remains that guarantee obtaining the banner character.
+- Thus the minimum gem cost 100% guarantee getting the banner is:
     - 60: 5 x 2000 + 5 + 200 = 11,000 gems
     - 100: 9 x 2000 + 1 x 200 = 18,200 gems
-    - Occasionally banner events include 2-4 free bones that sligthly reduce the above "guarantee" requirement.
+    - Banner events sometimes provide 2-4 free remains that slightly reduce the above "guarantee" requirement.
     - Using the maximum regular gem rate of 2800 gems/month, a 'guaranteed pull' for a banner legendary character takes 18,200 / 2,800 = 6.5 months to accumulate.
     - This is often significantly reduced by irregular sources, with monthly 'possible' gem rates above being 3400-5300, reducing the time to 3.4-5.3 months.
+    - In either case, banner adventurer offers generally come out more often than this, and <em>a F2P player should not expect to 'guarantee' getting every banner using free resources</em>.
     
 #### Handbooks
 - Ally class changes require class-change handbooks or similar items for every class change event for that character.
-- Usually four class change books are randomly available each week at the Jeweler, at a cost of 400 gems each,with two limited to Purple Gems.
+- Four random class change books are usually available each week at the Jeweler, at a cost of 400 gems each, with two limited to Purple Gems.
 
 #### Inventory Storage Increase:
-- The default inventory storage space is 500 slots (does not include item slots in an adventurer's personal inventory).
+- The default inventory storage space is 500 slots.
 - The limit can be increased by 25 items for 100 gems up to 1000 slots for total of 2000 gems.
 
 ## Guild Points
 Guild points (blue tokens) are granted for completing activities at the Adventurers Guild
 
-### Regular Sources
-| Guild Points Source                                       | Frequency | Amount | Monthly Total<sup>†</sup> | 
+#### Regular Guild Points
+| Source                                       | Frequency | Amount | Monthly Total<sup>†</sup> | 
 | :-------------------------------------------------------- | :-------: | :----: | :-----------------------: | 
 | Daily Mission Completion                                  | Daily     |  40    | 1200                      |
 | Weekly Mission Completion                                 | Weekly    |  600   | 2400                      | 
@@ -69,60 +74,62 @@ Guild points (blue tokens) are granted for completing activities at the Adventur
 |                                                           |           |        | ----                      | 
 | Monthly Total                                             |           |        | 4000                      | 
 
-<sup>†</sup> Monthly totals assume a 30-days or 4 weeks month for easy math.
-
 ### Uses
-Guild points can be exchanged for gems, adventurer bones, gold, and items a the Jeweler, most useful items below.  Amnesia incense and blacksmithing ore are also available (for removing attached Bondmates), but both are now more easily obtained through in-game activity.
+Guild points can be exchanged at the Jeweler for gems, adventurer remains, gold, and items, most useful items below. 
 
 | Guild Points Exchange Item                                | G.P. Cost | monthly limit |
 | :-------------------------------------------------------- | :-------: | :-----------: |
 | 250 Gems (most popular)                                   | 1000      |  2            |
-| Guaranteed (general pool) Legendary Bones                 | 8000      |  1            |
-| General Adventurer Bones                                  | 800       |  3            |
-| Class-Specific Adventurer Bones                           | 800       |  1 / class    |
+| Guaranteed (general pool) Legendary Remains                 | 8000      |  1            |
+| General Adventurer Remains                                  | 800       |  3            |
+| Class-Specific Adventurer Remains                           | 800       |  1 / class    |
 
-## Adventurer Bones
+!!!note "Blacksmithing ore and Amnesia incense are also available (for removing attached Bondmates), but both are now more easily obtained through in-game activity."
+
+## Adventurer Remains
 ### Uses:
-In this game, adventurer bones are used by the Masked Adventurer to resurrect allies to help him in his adventure.  Bones can be specific to one particular adventurer, or to a group or type of adventurer, or can be ordinary bones that pull from the general adventurer pool.  Gaining additional adventurers increases your party options and gaining duplicate copies of adventurers can increase the power of your adventuring party in numerous ways by [allowing skills to be inherited or increased in power](../mechanics/discipline-and-inheritance.md), or by providing adventurer tags for [grading up to higher levels](../abyss-guides/grade-exams/maps.md). As such accumulating adventurer bones is one of the primary ways, even a necessary way, of advancing in the game.
+In this game, adventurer remains are used by the Masked Adventurer to resurrect allies to help him in his adventure.  Remains can be specific to one particular adventurer, or to a group or type of adventurer, or can be ordinary remains that pull from the general adventurer pool.  Gaining additional adventurers increases your party options and gaining duplicate copies of adventurers can increase the power of your adventuring party in numerous ways by [allowing skills to be inherited or increased in power](../mechanics/discipline-and-inheritance.md), or by providing adventurer tags for [grading up to higher levels](../abyss-guides/grade-exams/maps.md). As such accumulating adventurer remains is one of the primary ways, even a necessary way, of advancing in the game.
 
-### Sources
-| General Adventurer Regular Bones                                                 | Frequency | Amount | Monthly Total | 
+#### Regular Adventurer Remains
+| Source                                                 | Frequency | Amount | Monthly Total | 
 | :------------------------------------------------------------------------------- | :-------: | :----: | :-----------: | 
 | Guild Regular (Today's) Supplies                                                 | Biweekly  |  2     | 4             | 
 | Bone Collector Abyss-wandering NPC                                               | Weekly    |  1     | 4             | 
 | Random Weekly Chest                                                              | Weekly    |  1     | 4             | 
-| [Beginning Abyss Weekly Respawning Bones](../tools/tracker.md)                   | Weekly    |  1     | 4             |
-| [Beginning Abyss Monthly Respawning Bones](../tools/tracker.md)                  | Monthly   |  9     | 9             |
-| [Trade Waterways Abyss Monthly Respawning Bones](../tools/tracker.md)            | Monthly   |  1     | 2             | 
-| [Impregnable Fortress Abyss Monthly Respawning Bones](../tools/tracker.md)       | Monthly   |  1     | 2             | 
-| [Crucible Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Respawning Bones | Biweekly  |  4-5   | 8-10          | 
+| [Beginning Abyss Weekly Respawning Remains](../tools/tracker.md)                   | Weekly    |  1     | 4             |
+| [Beginning Abyss Monthly Respawning Remains](../tools/tracker.md)                  | Monthly   |  9     | 9             |
+| [Trade Waterways Abyss Monthly Respawning Remains](../tools/tracker.md)            | Monthly   |  1     | 2             | 
+| [Impregnable Fortress Abyss Monthly Respawning Remains](../tools/tracker.md)       | Monthly   |  1     | 2             | 
+| [Crucible Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Respawning Remains | Biweekly  |  4-5   | 8-10          | 
 |                                                                                  |           |        | -----         | 
 | Monthly Total                                                                    |           |        | 37-39         | 
 
-| Optional Bone Sources                                        | Frequency  | Amount | Monthly Total     | 
+#### Optional Adventurer Remains                                        
+| Source                                        | Frequency  | Amount | Monthly Total     | 
 | :------------------------------------------------------------| :--------: | :----: | :---------------: | 
-| Jeweler: Guild Points - Legendary Bones                      | Bi-Monthly |  1     | 0.5<sup>†</sup>   | 
-| Jeweler: Guild Points - Adventurer Bones                     | Monthly    |  5     | 5<sup>†</sup>     | 
-| Jeweler: Gems - Adventurer Bone (200 Gems)                   | n/a        |  1     | 14<sup>††</sup>   | 
-| Jeweler: Gems - Adventurer Bone 11 pack (2000 Gems)          | n/a        |  11    | 15.4<sup>††</sup> | 
-| Jeweler: Gems - "Banner" Adventurer Bone (200 Gems)          | n/a        |  1     | 14<sup>††</sup>   | 
-| Jeweler: Gems - "Banner" Adventurer Bone 11 pack (2000 Gems) | n/a        |  11    | 15.4<sup>††</sup> | 
+| Jeweler: Guild Points - Legendary Remains                      | Bi-Monthly |  1     | 0.5<sup>†</sup>   | 
+| Jeweler: Guild Points - Adventurer Remains                     | Monthly    |  5     | 5<sup>†</sup>     | 
+| Jeweler: Gems - Adventurer Remains (200 Gems)                   | n/a        |  1     | 14<sup>††</sup>   | 
+| Jeweler: Gems - Adventurer Remains 11 pack (2000 Gems)          | n/a        |  11    | 15.4<sup>††</sup> | 
+| Jeweler: Gems - "Banner" Adventurer Remains (200 Gems)          | n/a        |  1     | 14<sup>††</sup>   | 
+| Jeweler: Gems - "Banner" Adventurer Remains 11 pack (2000 Gems) | n/a        |  11    | 15.4<sup>††</sup> | 
 
-<sup>†</sup> assume 4000 maximum regular monthly guild points rate and full usage  
-<sup>††</sup> assume 2800 maximun regular monthly gem rate and full usage  
+<small><sup>†</sup> assume 4000 maximum regular monthly guild points rate and full usage</small>  
+<small><sup>††</sup> assume 2800 maximum regular monthly gem rate and full usage</small>  
 
-| One-Time Sources                                                                  | Amount | 
+#### One-Time Adventurer Remains
+| Source                                                                  | Amount | 
 | :-------------------------------------------------------------------------------- | :----: |
-| Bone Collector New-Game Legendary Bone Selector                                   | 1      |
-| Beginning Abyss B1F Southeast corner bone                                         | 1      |
-| Beginning Abyss B2F "Abyss Key" locked room                                       | 4      |
-| [Class-specific Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Bones       | 29     |
-| [Anonymous Adventurer Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Bones | 6      |
+| Bone Collector New-Game Legendary Remains Selector                                | 1      |
+| Beginning Abyss B1F Southeast corner remains                                         | 1      |
+| Beginning Abyss B2F "Abyss Key" locked room chests                                      | 4      |
+| [Class-specific Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Remains       | 29     |
+| [Anonymous Adventurer Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Remains | 6      |
 
 ## Guild Tags
-Guild Tags are an important resource in Wizardry Variants Daphne, as they are required to raise a character's Grade which in turn limits the maximum level the adventurer can reach.  An [exam must be passed and a Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, each grade requires a Guild Tag [that is formed by Unifying three tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).  
+Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying three tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
 
-### Tag Requirements per Adventurer per Grade
+#### Tag Requirements per Adventurer per Grade
 | Grade    | Max Level | Previous Grade Tags | Equivalent Ungraded Tags | Cumulative Ungraded Tags |
 | :------: | :-------: | :-----------------: | :----------------------: | :----------------------: | 
 | Ungraded | 20    | 0 | 0  | 0   |
@@ -131,5 +138,41 @@ Guild Tags are an important resource in Wizardry Variants Daphne, as they are re
 | Iron     | 50 | 3 | 27 | 39  |
 | Steel    | 60 | 3 | 81 | 120 |
 
+ As this table shows. the required number of tags for each grade grows quickly and tag accumulation can become a primary bottleneck for advancing in the games. A party of six adventurers requires a total of 720 guild tags to reach Steel Grade. 
 
+#### Regular Guild Tags
+| Source                                       | Frequency | Amount | Monthly Total | 
+| :------------------------------------------- | :-------: | :----: | :-----------: | 
+| Guild Regular (Today's) Supplies             | Biweekly  |  2     | 4             | 
+| Weekly "Slay Dangerous Monsters" request     | Weekly    |  4     | 16            |
+|                                              |           |        | ----          |
+| Monthly Total                                |           |        | 20            | 
 
+#### Irregular Guild Tags
+| Source                                    | Frequency | Amount    |
+| :----------------------------------------- | :-------: | :-------: |
+| "Urgent" Slay Dangerous Monsters Events    | ~ 1-2 Months | 20-30  |
+
+#### Optional Guild Tags
+Guild tags can be obtained by dismissing (retiring) adventurers from the guild.  
+
+| Adventurer Type | Tags received on dismissal |
+|:---:|:---:|
+| Anonymous | 1 |
+| General | 2 | 
+| Legendary | 4 | 
+
+Thus at high grades, dismissing extra adventurers may be necessary or collecting enough Guild Tags.  Using the numbers of regular adventurers remains available as described above, the available tags are: 
+
+| Remains  | Tags from 38 Remains |
+|:---:|:---:|
+| All Anonymous | 38 |
+| All General | 76 | 
+| All Legendary | 152 | 
+| *Expected Value<sup>†††</sup>* | *60.8* |   
+
+<small><sup>†††</sup> using the standard adventurer remains drop rates: Anon:50%, General:45%, Legend:5%.</small>
+
+- From this we see that a total of about 80 tags directly and from dismissed adventurers could be obtained monthly through regular means.  
+- It would take a party of six adventurers 9 months using all free, regular tags and remains to accumulate the 720 tags needed for Steel grade.  
+- Also using gems, ...
