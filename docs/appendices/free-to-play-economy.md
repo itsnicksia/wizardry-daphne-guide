@@ -152,7 +152,7 @@ Guild Tags are required to increase a character's Guild Grade that sets the maxi
 #### Irregular Guild Tags
 | Source                                    | Frequency | Amount    |
 | :----------------------------------------- | :-------: | :-------: |
-| "Urgent" Slay Dangerous Monsters Events    | ~ 1-2 Months | 20-30  |
+| "Urgent" Slay Dangerous Monsters Events    | ~ 1-2 Months | 10-15 |
 
 #### Optional Guild Tags
 Guild tags can be obtained by dismissing (retiring) adventurers from the guild.  
