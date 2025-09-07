@@ -1,5 +1,5 @@
 # Free-to-Play Resources 
-Certain resources in Wizardry Variants Daphne can be accumulated over time and used to obtain in-game content or upgrade your adventuring party. While resources can be purchased at the [Wizardry Variants Daphne Official Store](https://store.wizardry.info) or in-game at the Jeweler (see [Guide Purchase Evaluaions page](./purchase-evaluation.md)), Free-to-Play (F2P) players rely on resource accumulation over time. The summary below tries to cover regular, reliable accumulation methods of these resources. Other events can providing additional resource gain opportunities, a few of these are noted where appropriate.  
+Certain resources in Wizardry Variants Daphne can be used to obtain in-game content or upgrade your adventuring party. While these can be purchased at the [Wizardry Variants Daphne Official Store](https://store.wizardry.info) at the Jeweler (see [Guide Purchase Evaluaions page](./purchase-evaluation.md)), Free-to-Play (F2P) players rely on resource accumulation over time. The summary below tries to cover regular, reliable accumulation methods of these resources. Other intermittent events can provide additional resource gain opportunities, and some of these are noted where appropriate.  
 
 ## Gems
 There are two Gem types: Gems of Erin (Purple) and Gems of Org (Green).  
@@ -98,11 +98,11 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 | Random Weekly Chest                                                              | Weekly    |  1     | 4             | 
 | [Beginning Abyss Weekly Respawning Remains](../tools/tracker.md)                   | Weekly    |  1     | 4             |
 | [Beginning Abyss Monthly Respawning Remains](../tools/tracker.md)                  | Monthly   |  9     | 9             |
-| [Trade Waterways Abyss Monthly Respawning Remains](../tools/tracker.md)            | Monthly   |  1     | 2             | 
-| [Impregnable Fortress Abyss Monthly Respawning Remains](../tools/tracker.md)       | Monthly   |  1     | 2             | 
+| [Trade Waterways Abyss Monthly Respawning Remains](../tools/tracker.md)            | Monthly   |  1     | 1             | 
+| [Impregnable Fortress Abyss Monthly Respawning Remains](../tools/tracker.md)       | Monthly   |  1     | 1             | 
 | [Crucible Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Respawning Remains | Biweekly  |  4-5   | 8-10          | 
 |                                                                                  |           |        | -----         | 
-| Monthly Total                                                                    |           |        | 37-39         | 
+| Monthly Total                                                                    |           |        | 35-37         | 
 
 #### Optional Adventurer Remains                                        
 | Source                                        | Frequency  | Amount | Monthly Total     | 
@@ -164,15 +164,15 @@ Guild tags can be obtained by dismissing (retiring) adventurers from the guild.
 
 Thus at high grades, dismissing extra adventurers may be necessary or collecting enough Guild Tags.  Using the numbers of regular adventurers remains available as described above, the available tags are: 
 
-| Remains  | Tags from 38 Remains |
+| Remains  | Tags from 36 Remains |
 |:---:|:---:|
-| All Anonymous | 38 |
-| All General | 76 | 
-| All Legendary | 152 | 
-| *Expected Value<sup>†††</sup>* | *60.8* |   
+| All Anonymous | 36 |
+| All General | 72 | 
+| All Legendary | 144 | 
+| *Expected Value<sup>†††</sup>* | *57.6* |   
 
 <small><sup>†††</sup> using the standard adventurer remains drop rates: Anon:50%, General:45%, Legend:5%.</small>
 
-- From this we see that a total of about 80 tags directly and from dismissed adventurers could be obtained monthly through regular means.  
-- It would take a party of six adventurers 9 months using all free, regular tags and remains to accumulate the 720 tags needed for Steel grade.  
+- From this we see that a total of about 78 tags directly and from dismissed adventurers could be obtained monthly through regular means.  
+- It would take a party of six adventurers a bit over 9 months using all free, regular tags and remains to accumulate the 720 tags needed for Steel grade.  
 - Also using gems, ...
