@@ -62,6 +62,7 @@
 | Jean         | DEX                 |
 | Kiriha       | DEX                 |
 | Lanaville    | VIT                 |
+| Livana       |                     |
 | Marianne     | PIE                 |
 | Milana       | DEX                 |
 | Olive        | VIT                 |
