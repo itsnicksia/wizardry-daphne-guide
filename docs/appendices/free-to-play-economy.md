@@ -34,6 +34,7 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 | Source                          | Amount     | Description                                                                                                         |
 | :---------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------------ |
 | New Account gems                          | ~2000      | New Accounts get gems in their Guild Mailbox to build account. Usually spent on remains at the Jeweler.               | 
+| [Weekly Web Store one-time gems](https://store.wizardry.info)| 800     | One time free gems at webstore using your User ID  |
 | Friend Invite Code events                 | 25-100 each| When others use your code, you get gems as they progress throuh Beginning Abyss. Each milestone can be received 5x. | 
 | Abyss Clearance Missions completion       | ~1000      | Each abyss has a no-time-limit mission set with gem completion reward.                                              |
 | [In-game Achievements](./achievements.md) | 25-50 each | Game progression and special milestones in combat successes, compendium/collection, etc.                            |
