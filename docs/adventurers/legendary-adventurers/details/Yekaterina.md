@@ -98,10 +98,29 @@
 
         A tankier mage that’s less reliant on RNG-based mitigation than Adam and Sheli. Trades her 4/10 anti-undead passive for a 5/10 phys resist and small HP boost. Yekaterina is fighting for her life for 5th place! Still overrated out of 10.
 
+??? info "Karkarov's Analysis"
+
+    === "Everdistant Summershade"
+
+        Well this is interesting.
+
+        One one hand she really isn't very different from normal Yeka.  Her Discipline seems a little weaker than normal Yeka with the loss of bonus Skill Bind Resist in exchange for more HP.  On paper losing Undead Bonus Damage and Defense also seems important but I would argue this was a marginal bonus at best considering as a pure caster she never posted ""huge"" numbers to begin with and Undead are traditionally low HP Enemies.  Her new skill being +HP and Defense when in the back row while not super impressive has a big advantage though.... it is simply always useful.  The Undead skill has no value if you aren't fighting undead, and if we are being honest they are not one of the most common enemy types plus are fairly easy to kill with magic regardless.  Mages can also always use more survivability, especially at low discipline levels.
+
+        In short it is ""marginally useful skill sometimes"" versus ""marginally useful skill all the time"".  I think the new skill with HP and Defense wins in this case.
+
+        In the end she does everything Yeka always did minus some damage to Undead which seems to not be super high value to me when you consider how easily any mage can wipe an undead pack to begin with.  Losing the bind resistance is honestly the biggest issue to me, but that is also sort of marginal and can always be healed anyway.  Your casters should always carry 1 scroll of unbinding... just in case.  Also I have to be honest, I really like the costume design and think this is a really cool looking version of Yeka with a great vibe.
+
+        I am going to say I rate her slightly above (VERY SLIGHTLY) normal Yeka, but her long term value will be directly tied to the upcoming character merge changes Drecom makes.  If those changes are lack luster what I affectionately call Summer Yeka will be kinda lack luster (from a meta viewpoint) as well.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
     Everdistant Summershade Yeka is quite pretty, so maybe I'll pull to get a single copy for that reason alone. Possibly a second for the obligatory OCD Discipline, but I'll likely just wait to see what I get from the free bones first. Her summer form definitely isn't enough to make her a regular addition to my party.
+
+??? note "Karkarov's Pull Plan"
+    She sure is cute in her new fancy mourning dress, I can tell why her Hubby liked her so much.  Style and class all the way, and Doctor clearly agrees the clingy bum.  That said, ultimately this is just a slightly better version of normal Yekatarina, so I can't call this anything even close to a must pull.  If you like the outfit, like Yeka in general, or don't have a Yeka at all, I can't fault you for doing a few pulls.  I did.
+
+    I would not suggest pulling past the 100 pity though unless you are a serious Yeka addict or a whale.  I am not sure I would even advise going for more than one copy.  She is at the end of the day no competition for Sheli from a meta perspective, and not doing anything normal bone pull Yeka can't do.  If she were only available in banners and not in the normal pulls I would honestly rate her a bit higher in priority, but she is available in the normal pulls.
 
 ## Duplicate Usage
 

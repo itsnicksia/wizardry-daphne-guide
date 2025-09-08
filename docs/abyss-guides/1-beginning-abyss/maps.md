@@ -1,35 +1,52 @@
 # The Beginning Abyss
 
 !!! note
-    Certain floors have randomly generated tiles, so your map will not match 100% of the map I posted.  When certain actions reset the dungeon, your map layout may change. 
+    Certain floors have tile variations that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. An attempt has been made to capture the variations, but your maps and the location of certain events may not perfectly match what is shown below. 
 
 ??? map "B1F -Pit-"
 
     !!! note
-        Not much to say, first floor, welcome. On second playthrough, make sure to talk to Chris to unlock a bondmate quest. He's the elf on the left side dead end when you first enter.
+        Not much to say, first floor, welcome. Look for the Beginning Abyss Key for a nice surprise on floor 2. On second playthrough, make sure to talk to Chris to unlock a bondmate quest. He's the elf on the left side dead end when you first enter.
 
-    ![](./img/beginning-abyss-b1f.jpg)
+    === "Variation 1"
+        ![](./img/beginning-abyss-b1f-v1.jpg) 
+
+    === "Variation 2"
+        ![](./img/beginning-abyss-b1f-v2.jpg) 
+
 
 ??? map "B2F -Temple-"
 
     !!! note
-        You will fight your real first boss here. Not much to say, use the harken afterwards. Only important thing of note is the room to the right has an infinite respawn mob that you can grind on early levels.
+        You will fight your real first boss here. Not much to say, use the harken afterwards. Only important thing of note is the room to the right has an infinite respawn mob that you can grind on early levels. If you found the key one B1F, the locked room on the left will have a few adventurer bones to help you build your team (one time only).
 
     ![](./img/beginning-abyss-b2f.jpg)
 
 ??? map "B3F -Cave-In Zone-"
 
     !!! note
-        You can continue your way through until the story makes you examine the rocks. Examine it enough times and you can reverse time and proceed. Make sure you reverse time and find the cause of death of your friends. There's a camp where it restores all your hp/mp/sp. It will be restored every time you exit and enter the labyrinth. The Goblin's nest is not worth doing, leave it.
+        You can continue your way through until the story makes you examine the rocks. Examine all surrounding surfaces enough times and you can reverse the rocks and proceed. Make sure you reverse all rocks and find the cause of death of your friends for important knowledge. There's a camp where it restores all your hp/mp/sp. It can be used once each time you enter the labyrinth. The Goblin's nest is not worth doing, leave it.
 
-    ![](./img/beginning-abyss-b3f.jpg)
+    === "Variation 1"
+        ![](./img/beginning-abyss-b3f-v1.jpg)
+
+    === "Variation 2"
+        ![](./img/beginning-abyss-b3f-v2.jpg)
 
 ??? map "B4F -Labyrinth"
 
     !!! note
         First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it.
 
-    ![](./img/beginning-abyss-b4f.jpg)
+    ![](./img/beginning-abyss-b4f-v1.jpg)
+
+<!-- uncomment when 2nd variation map is obtained
+    === "Variation 1"
+        ![](./img/beginning-abyss-b4f-v1.jpg)     
+
+    === "Variation 2"
+        ![](./img/beginning-abyss-b4f-v2.jpg)
+-->
 
 ??? map "B5F -Warped One's Nest-"
 
@@ -41,16 +58,33 @@
 ??? map "B6F -Map Killer-"
 
     !!! note
-        The beginning fork may vary. Don't bother opening the wrong door where the corpse tells you. It's just spikes. The corpses will give you hints to get through the level. I believe the correct warp order is right, up, then right or left depending on the previous corpse warning. (The light/sun rises in the east and sets in the west.) Statue room puzzle requires you to restore the statue heads that match your party members according to the clue on the nearby dead body. This clue can change every time you enter this level. [See answers in the FAQ](../../frequently-asked-questions.md#how-do-i-solve-the-statue-puzzle-on-b6f-of-the-beginning-abyss). Saint shield quest is also completed here; do the second warp wrong and fight the mob.
+        Don't bother opening the wrong door where the corpse tells you. It's just spikes. The corpses will give you hints to get through the level. I believe the correct warp order is right, up, then right or left depending on the previous corpse warning. (The light/sun rises in the east and sets in the west.) Statue room puzzle requires you to restore the statue heads that match your party members according to the clue on the nearby dead body. This clue can change every time you enter this level. [See answers in the FAQ](../../frequently-asked-questions.md#how-do-i-solve-the-statue-puzzle-on-b6f-of-the-beginning-abyss). Saint shield quest is also completed here; do the second warp wrong and fight the mob.
 
-    ![](./img/beginning-abyss-b6f.jpg)
+    ![](./img/beginning-abyss-b6f-v1.jpg)
+
+<!-- uncomment when 2nd variation map is obtained
+    === "Variation 1"
+        ![](./img/beginning-abyss-b6f-v1.jpg)
+
+    === "Variation 2"
+        ![](./img/beginning-abyss-b6f-v2.jpg)
+-->
+
 
 ??? map "B7F -Amongst the Dead-"
     
     !!! note
         You will need to go through the poison floors every time UNLESS you reverse the stones on the next floor that create shortcuts. Make sure to do that. B8F description tells you which stones open which paths.  Albano will REALLY not like you here, unless YOU DO something correctly (second playthrough only). The camp here is important as you can't access the Harken on the next floor until you beat the final boss. 
 
-    ![](./img/beginning-abyss-b7f.jpg)
+    ![](./img/beginning-abyss-b7f-v1.jpg)
+
+<!-- uncomment when 2nd variation map is obtained
+    === "Variation 1"
+        ![](./img/beginning-abyss-b7f-v1.jpg)
+
+    === "Variation 2"
+        ![](./img/beginning-abyss-b7f-v2.jpg)
+-->
 
 ??? map "B8F -Deepest Depths-"
 

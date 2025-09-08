@@ -14,10 +14,10 @@
 
     === "Mage"
         ![](../img/marianne-mage.jpg)
-<!--
+
     === "Greedy Saintess"
         ![](../img/marianne-greedy-saintess.jpg)
--->
+
 
 ## Skills
 

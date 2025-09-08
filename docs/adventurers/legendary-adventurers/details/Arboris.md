@@ -5,12 +5,15 @@
 **Type**: Earth  
 **Personality**: Neutral  
 **Starting Class**: Thief  
-**Class Change**:  
+**Class Change**: Priest   
 **Role**: Support, Damage
 
 ??? info "Portraits"
     === "Thief"
         ![](../img/arboris-thief.jpg)
+
+    === "Priest"
+        ![](../img/arboris-priest.jpg)
 
 ## Skills
 
@@ -34,7 +37,7 @@
 
     `Astral Break` is a major attack skill, which is great. It hits hard and provides a solid damage option for thieves. It's very costly SP-wise, at 20 SP for level 1, and being an elf, he already has a smaller SP pool than Debra, who is going to be his most common competitor. This skill is effectively an attack that simultaneously casts `PORTO` on himself and the adventurer in front of or behind him. At a glance, this seems pretty strong, but there are a few considerations. First, `PORTO` in itself is a conditional buff since it causes no impact on the turn it is used. When you're killing things fast, the `PORTO` portion of `Astral Break` will go to waste. For more extended fights, there's definitely value in it, but it's possible you could mess up your own turn order by getting `PORTO` simultaneously on one of the fastest adventurers in your party as well as presumably a slower one. Second, the fact that this buffs in a column means you have to pay extra close attention to your formation, as you'll want to position Arboris in front of someone that could gain value from the `PORTO` buff and have it actually impact the flow of a fight. Third, the `PORTO` portion is a buff, which makes it subject to the three buff limit, so if you use him, you'll want to keep that in mind.
 
-    `Lord of the Deep Forest's`, outside of being grammatically weird, at a glance seems like solid evil and neutral support, however it also has some issues. First and foremost is that for the two skills being buffed, it is very hard to evaluate the effectiveness of the buffs. It is a Synergy that behaves similar to Rinne's Surety boost, always applying to him and extending to others that meet the criteria. Since it is a Synergy, that means we are unable to see the exact amount being modified, so it's a bit of a guess to know if it's even providing value. Initial testing currently seems to point to it being bugged and not doing anything, but we can't say for sure at this time. I'll update again when we know more. Assuming it is working, there are a few main scenarios I can think of where the action speed boost from `Lord of the Deep Forest's` may or may not be relevant.
+    `Lord of the Deep Forest's Leadership` at a glance seems like solid evil and neutral support, however it also has some issues. First and foremost is that for the two skills being buffed, it is very hard to evaluate the effectiveness of the buffs. It is a Synergy that behaves similar to Rinne's Surety boost, always applying to him and extending to others that meet the criteria. Since it is a Synergy, that means we are unable to see the exact amount being modified, so it's a bit of a guess to know if it's even providing value. Initial testing currently seems to point to it being bugged and not doing anything, but we can't say for sure at this time. I'll update again when we know more. Assuming it is working, there are a few main scenarios I can think of where the action speed boost from `Lord of the Deep Forest's` may or may not be relevant.
 
     - You are perfectly speed-tuned to go ahead of most enemies you face and your buffers/debuffers always go before your damage dealers
         - In this scenario, gaining some passive action speed won't do much for you since it won't change your turn order and it won't make you outspeed enemies more than you're already outspeeding them
@@ -57,6 +60,20 @@
 
     In closing, he’s a thief alright. A skill he can only use a handful of times, anti-synergy between his race/class, one of the worst disciplines in the game and limited availability. There are better general adventurers than this. Mid.
 
+??? info "Karkarov's Analysis"
+
+    How to sum up this character.... I think I know.  If I took the Drake Sword from Dark Souls 1 and turned it into a Wizardry Variants Daphne character it's name would be ""Arboris"".
+
+    This character looks great at low level and in early game content thanks to his ridiculously expensive Astral Break skill that has a great damage floor, but garbage damage ceiling.  His earth element makes him seem top tier in the water paradise of abyss two.  Then you get to the lots of earth enemies abyss three, the SP cost of Astral Break combined with Thief drop off in damage potential makes you realize he isn't that good at doing damage over a long dungeon trip, the increase in enemy surety resistance, accuracy, spell use, blah blah blah.  Then you realize his value is falling so fast it might as well be a rock tossed off a cliff.
+
+    Just like the Drake Sword he is a newb trap.  Something that is really strong in early game, but long term stops scaling and getting better, and gets surpassed by just about anything if you know what you are doing and how to invest in a character.  
+
+    To make matters worse he has a terrible discipline (accuracy and stun tolerance boosted), his formation passive rules out good characters and is a very minor stat buff anyway (some I know have tested and suggested it is single digit numbers maybe even as little as 4 or 5 aspd/evasion), and he just got his alt class and it is Priest.
+
+    Priest does basically nothing to enhance Thief beyond Priest Weapon Mastery which is +20% of your Piety to attack power.  Too bad Elves have low Piety, and Thief is competing for lowest Piety growth in the game.  Expect like 5-6 whole more Attack Power for this epic skill.  Even better all Thief does for Priest is a slight buff to Action Speed and Evasion.  There is just no synergy between these two classes, and with this second class Arboris is doomed to the role of just a support character.  
+
+    Good luck outsupporting Mage/Priest Alice, Adam, or Yekatarina, or tanking Diva's Savia and El Dorado.  How about Madam with a Light Element character in front, or Mage Milana with Gerulf, or Elise with anyone nuetral, or..... you get it.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -65,6 +82,13 @@
 ??? note "Lynd's Pull Plan"
     I pulled to get a single copy for collection reasons. If I didn't get him, I wouldn't have cared.
     
+??? note "Karkarov's Pull Plan"
+    This is a very simple Pull Plan.  Don't.  Arboris is whale bait.  Full stop.
+
+    The best use for him is feeding copies to get the Main Character level 3 or more Astral Break. Which while an ""ok"" skill, costs way more SP than it should for what it does, and loses when compared SP spend to SP spend to basically all other skills the Main Character and others can learn from a damage perspective.  Meanwhile if you want to manipulate turn order try Delay Attack, Chronostasis, and the Porto buff.  None of those require spending gems on a banner to learn and are way easier to level.
+
+    Unless you look at this guy and start going weak in the knees then swoon you should save your resources.  If you just love his look pull one copy for dispatch and call it a day.
+
 ## Duplicate Usage
 
 * Increase the efficacy of his Astral Break

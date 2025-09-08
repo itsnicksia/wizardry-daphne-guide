@@ -20,20 +20,20 @@
 
 | Bondmate     | Increased Attribute |
 | ------------ | ------------------- |
-| Abenius      |                     |
+| Abenius      | STR                 |
 | Adam         |                     |
 | Aldric       | DEX                 |
 | Alex         | VIT                 |
 | Alice        |                     |
 | Amelia       | SPD                 |
-| Arboris      |                     |
+| Arboris      | DEX                 |
 | Asha         | IQ                  |
 | Bakesh       | DEX                 |
 | Barbara      | STR                 |
 | Beast-Thi    | DEX                 |
 | Benjamin     | STR                 |
 | Berkanan     | STR                 |
-| Bugen        |                     |
+| Bugen        | STR                 |
 | Chloe        | STR                 |
 | Clarissa     | STR                 |
 | Daniel       | STR                 |
@@ -62,12 +62,13 @@
 | Jean         | DEX                 |
 | Kiriha       | DEX                 |
 | Lanaville    | VIT                 |
+| Livana       |                     |
 | Marianne     | PIE                 |
 | Milana       | DEX                 |
 | Olive        | VIT                 |
 | Ophelia      | STR                 |
 | Phillip      | SPD                 |
-| Red Beard    |                     |
+| Red Beard    | PIE                 |
 | Rinne        |                     |
 | Savia        |                     |
 | Shelirionach |                     |

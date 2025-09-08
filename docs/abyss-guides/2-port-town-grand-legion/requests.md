@@ -603,3 +603,18 @@ Goetia -> Admiral Route
 
 - Go to Upper Deck \-Arena- where the goblin that started the arena fights was and there should be a new NPC there now.  
 - Complete the fights
+
+### Recovery of Belongings
+
+1. Cutscene will play in town when this request is available.
+2. Accept the request in the featured tab in Adventurer's Guild.
+3. Head to edge of town and head to 1st District harken then head to entrance of 2nd District.
+4. Walk forwards the side of the Mermaid Statue. A cutscene will play where you need to walk forwards and to the left to find the belongings. You will need to look down and pick it up from the body by interacting with the shiny object.
+5. Head to the middle of the map that leads to a dead end on the left. Save the alchemist there from some sahuagin. The request is now completed.
+6. Head back to town and turn in the request. The alchemist will give u more work at the royal capital. 
+
+### Recovery of Research Materials
+
+1. Head to B5F \-Warped One's Nest-. Walk to the end of the hallway across from the harken when you teleport in. There is a goblin NPC that will trigger a fight showcasing the Eye of VITRIOL's visual indicator in combat. 
+2. Turn in the request back at the adventurer's guild
+3. Head to edge of town to unlock the Black Barrel Tavern on the world map. Relicbrewing is now unlocked.
