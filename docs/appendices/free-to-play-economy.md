@@ -131,13 +131,13 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying three tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
 
 #### Tag Requirements per Adventurer per Grade
-| Adventurer Grade    | Max Level | Previous Grade Tags | Equivalent Ungraded Tags | Cumulative Ungraded Tags |
-| :------: | :-------: | :-----------------: | :----------------------: | :----------------------: | 
-| Ungraded | 20 | 0 | 0  | 0  |
-| Lead     | 30 | 1 | 1  | 1  |
-| Bronze   | 40 | 1 | 2  | 3  |
-| Iron     | 50 | 1 | 4 | 7  |
-| Steel    | 60 | 1 | 8 | 15 |
+| Adventurer Grade    | Max Level | Tag required | Ungraded Tag Cowt | Cumulative Ungraded Tags | Party of 6 Cumulative Tags|
+| :------: | :-------: | :-----------------: | :----------------------: | :-------------------: | :----: |
+| Ungraded | 20 | n/a | n/a  | 0  | 0|
+| Lead     | 30 | Ungraded | 1  | 1  | 6|
+| Bronze   | 40 | Lead | 2  | 3  | 18 |
+| Iron     | 50 | Bronze | 4 | 7  | 42|
+| Steel    | 60 | Iron | 8 | 15 | 90 |
 
 As this table shows. the required number of tags for each grade grows quickly and tag accumulation can become a primary bottleneck for advancing in the games. A party of six adventurers requires a total of 90 ungraded guild tags to reach Steel Grade. 
 
