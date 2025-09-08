@@ -9,7 +9,7 @@ This page is intended to capture smaller, recurring events that usually pop up a
 - The request will be available for a limited time, and cannot be discarded after acceptance. 
 - The quest involves finding buried gold ore and thieves guarding ore in certain Abyss locations.  Upon accepting the request, Arna will direct you to the correct town of the abyss to search.  This should coincide with the most advanced Abyss you have accessed. 
 - Having Marianne in your adventuring party will increase the amount of gold you find at each locatation, making the request completion faster, but her presence is not required to get the full reward.
-- After accepting the request, you can meet an Old Man in the guild tavern who will mark your map for 1,000gp with a location of buried gold ore.  This is not required but will get you ore faster.  He may periodically provide you with additional locations for another 1,000gp.
+- After accepting the request, you can meet an Old Man in the guild tavern who you can pay to mark your map with a location of buried gold ore.  This is not required but will get you ore faster.  Every few days he will provide you with an additional locations for another payment.
 - The request is completed the first time you turn it in and cannot be continued/repeated during the event period.  *Do not turn it in early.*
 
 ### Rewards 
@@ -26,7 +26,7 @@ This page is intended to capture smaller, recurring events that usually pop up a
 - After accepting the request, go to the indicated Abyss and start searching the different levels.  Lulunarde will inform you of the presence of the thieves when you arrive on the correct level. 
 - On the level there will be a fixed number of locations that can randomly spawn an non-mobile monster, which will be a group of thieves. After killing the thieves you find a small amount of gold ore.  
 - Leaving the Abyss and returning to the level, the thieves will randomly respawn at the same set of locations.  
-- If you paid the Old Man 1,000gp for a buried ore location, it should be marked on your map, and a glowing white object indicator should be found at that location. This will provide you with an additional amount of gold ore.  
+- If you paid the Old Man for a buried ore location, it should be marked on your map, and a glowing white object indicator should be found at that location. This will provide you with an amount of gold ore several times larger than a group of thieves.  
 - After collecting any amount of ore, Lulunarde will let you know it's up to you if you want to search for more, and you wil receive a Request Complete message.  At any point after this you can turn in your ore at the guild for some additional reward.  
 - After collecting the maximum amount of ore corresponding to the Abyss list above, you will be informed that you have it all, and thieves will stop appearing at the spawn locations. Turning in the request will give you the maximum reward.
    
@@ -44,4 +44,5 @@ The fastest (almost always no-combat) method is Harkening into District 2, auto-
 Zone 1  
 In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Marianne is present.  
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
+
 ![](./img/gold-ore-abyss3_locations.jpg)
