@@ -70,7 +70,7 @@
 | Phillip      | SPD                 |
 | Red Beard    | PIE                 |
 | Rinne        |                     |
-| Savia        |                     |
+| Savia        | VIT                 |
 | Shelirionach |                     |
 | Shiou        | STR                 |
 | Valdor       | IQ                  |
