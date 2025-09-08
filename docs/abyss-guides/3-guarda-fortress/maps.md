@@ -13,9 +13,9 @@
         - **Monsters:** Different monsters spawn, with stronger monsters at lower Corruption. 
         - **Greater Warped One:** The Greater Warped One is much stronger at lower Corruption, gaining new abilities and increased damage and health.
 
-        How to tell corruption level based on the Duke's room:
+        ??? note "How to tell corruption level based on the Duke's room:"
     
-         ![](./img/corruption-levels.png)
+            ![](./img/corruption-levels.png)
 
 ??? note "Golems"
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
