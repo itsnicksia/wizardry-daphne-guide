@@ -21,7 +21,7 @@
 | Bondmate     | Increased Attribute |
 | ------------ | ------------------- |
 | Abenius      | STR                 |
-| Adam         |                     |
+| Adam         | IQ                  |
 | Aldric       | DEX                 |
 | Alex         | VIT                 |
 | Alice        | PIE                 |
