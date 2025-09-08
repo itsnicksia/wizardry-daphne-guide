@@ -15,7 +15,7 @@
 
         How to tell corruption level based on the Duke's room:
     
-            ![](./img/corruption-levels.png)
+         ![](./img/corruption-levels.png)
 
 ??? note "Golems"
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
