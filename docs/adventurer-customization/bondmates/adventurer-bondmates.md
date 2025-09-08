@@ -24,7 +24,7 @@
 | Adam         |                     |
 | Aldric       | DEX                 |
 | Alex         | VIT                 |
-| Alice        |                     |
+| Alice        | PIE                 |
 | Amelia       | SPD                 |
 | Arboris      | DEX                 |
 | Asha         | IQ                  |
