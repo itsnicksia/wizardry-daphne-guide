@@ -16,7 +16,7 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 | [Weekly Web Store free gems](https://store.wizardry.info) | Weekly    |  50    | 200           | 
 | Guild Regular (Today's) Supplies                          | Biweekly  |  200   | 400           | 
 |                                                           |           |        | ----          | 
-| Monthly Total                                             |           |        | 2300          | 
+| Total                                             |           |        | 2300          | 
 
 #### Optional Gems
 | Source                                             | Frequency | Amount | Monthly Total | 
@@ -73,7 +73,7 @@ Guild points (blue tokens) are granted for completing activities at the Adventur
 | Weekly Mission Completion                                 | Weekly    |  600   | 2400                      | 
 | Guild Regular (Today's) Supplies                          | Biweekly  |  200   | 400                       | 
 |                                                           |           |        | ----                      | 
-| Monthly Total                                             |           |        | 4000                      | 
+| Total                                             |           |        | 4000                      | 
 
 ### Uses
 Guild points can be exchanged at the Jeweler for gems, adventurer remains, gold, and items, most useful items below. 
@@ -103,7 +103,7 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 | [Impregnable Fortress Abyss Monthly Respawning Remains](../tools/tracker.md)       | Monthly   |  1     | 1             | 
 | [Crucible Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Respawning Remains | Biweekly  |  4-5   | 8-10          | 
 |                                                                                  |           |        | -----         | 
-| Monthly Total                                                                    |           |        | 35-37         | 
+| Total                                                                    |           |        | 35-37         | 
 
 #### Optional Adventurer Remains                                        
 | Source                                        | Frequency  | Amount | Monthly Total     | 
@@ -147,7 +147,7 @@ As this table shows. the required number of tags for each grade grows quickly an
 | Guild Regular (Today's) Supplies             | Biweekly  |  2     | 4             | 
 | Weekly "Slay Dangerous Monsters" request     | Weekly    |  4     | 16            |
 |                                              |           |        | ----          |
-| Monthly Total                                |           |        | 20            | 
+| Total                                |           |        | 20            | 
 
 #### Irregular Guild Tags
 | Source                                    | Frequency | Amount    |
