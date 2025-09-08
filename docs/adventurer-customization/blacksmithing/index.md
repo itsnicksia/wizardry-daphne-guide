@@ -25,7 +25,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
  - Enhancing items beyond +5, +10, and +15 requires unification (see below) to increase the Strength of the item.
 
 ### ^^Gold Cost for Enhancing^^
-
+<div class="nofilter-table nosort-table" markdown>
 | Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
 |   Worn    |  150 |  300 |  500 |  750 | 1050 | 1400 | 1950 | 2550 | 3200 |  3900 |       |       |       |       |       |       |       |       |       |       |    ?    |
@@ -34,29 +34,30 @@ Blacksmithing becomes available early in the game after your party enters the fi
 |   Steel   |  500 |  700 | 1100 | 1700 | 2500 | 3500 | 4900 | 6650 | 8750 | 11200 | 14000 | 17400 | 21250 | 25550 | 30300 | 35550 | 41500 | 48050 | 67700 | 126650|  469400 |
 | Ebonsteel |  550 |  770 | 1210 | 1870 | 2750 | 3850 | 5390 | 7315 | 9625 | 12320 | 15400 | 19140 | 23375 | 28105 | 33330 | 39050 | 45650 | 52855 | 74470 | 139315|  516340 |
 |  Special  |  650 |  900 | 1500 | 2450 | 3750 | 5400 | 7650 | 10500| 13950| 18000 | 22650 | 28100 | 34750 | 42600 | 51650 | 61900 | 74150 | 87800 | 128750| 251600|  848700 |
+</div>
 
 ### ^^Ore Type and Amounts for Enhancing^^
-
+<div class="nofilter-table nosort-table" markdown>
 | Ore Grade |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
 | Low Grade (gray) |  0  |  0  |  0  |  0  |  1  |  2  |  3  |  4  |  5  |  0  |  0  |  0  |  0  |  0  |  0  | 0  |  0  |  0  |  0  |  0  |  15  |
 | Mid Grade (red) |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  1  |  2  |  3  |  4  |  5  |  0  | 0  |  0  |  0  |  0  |  0  |  15  |
 | High Grade (blue) |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  1  | 2  |  3  |  4  |  5  |  0  |  15  |
 | Fine Grade (gold) |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  |  0  | 0  |  0  |  0  |  0  |  1  |  1  |
-
+</div>
 <!--
 
 commenting this out until we have good data
 
 ### ^^Enhancement Values^^
-
+<div class="nofilter-table nosort-table" markdown>
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
 |                 **ASPD, SUR**                 | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
 |                   **ASPD%**                   | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
-
+</div>
 -->
 
 ## ^^Enhancement Inheritance^^
@@ -136,14 +137,14 @@ Items that fail extraction are lost.  There is a small chance that a Refinement 
 ### ^^Extraction Values^^
 
 **These values may be inaccurate, and should be treated as estimates.**
-
+<div class="nofilter-table nosort-table" markdown>
 |                                               | 1 ★ | 2 ★ | 3 ★ | 4 ★ | 5 ★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:---:|:---:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~4 | 3~5 | 4~6 | 5~7 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
 |                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 3~5 | 4~6 |
 |                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
-
+</div>
 ## ^^Unification^^
 
 Unification is the process of increasing the Strength of an item it increase its allowable enhancement limit.
