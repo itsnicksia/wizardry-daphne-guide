@@ -42,8 +42,8 @@ If the table does not display correctly, try the [embedded version](./equipment-
 === "Samurai Katana"
    {{ get_equip_table_formatted("weapon", "Sam_Katana") | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Ninja Katana"
-   {{ get_equip_table_formatted("weapon", "Ninja_Katana") | convert_to_md_table | add_indentation(spaces=4) }}
+=== "Ninja Blades"
+   {{ get_equip_table_formatted("weapon", "Ninja_Blade") | convert_to_md_table | add_indentation(spaces=4) }}
 
 === "Ninja Throwing Weapons"
    {{ get_equip_table_formatted("weapon", "Ninja_Throw") | convert_to_md_table | add_indentation(spaces=4) }}
