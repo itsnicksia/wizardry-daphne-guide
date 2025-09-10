@@ -50,7 +50,7 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down    | Evil        | Skeleton               | Bony Spiritcoral                        | 4045              |
 | Great Undulating Devourer's Magic Core     | MP Up, Attack Down                   | Neutral     | Big Slime              | Great Undulating Devourer Cursefruit    | 4070              |
 | Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity                 | Wind Being Rootcrystal                  | 4073              |
-| One-Eyed Giant's Mighty Arm                | Attack Up, Accuracy Up, Evasion Down | Neutral     | Cyclops                | One-Eyed Giant Bloodwood                | ?                 |
+| One-Eyed Giant's Mighty Arm                | Attack Up, Accuracy Up, Evasion Down | Neutral     | Cyclops                | One-Eyed Giant Bloodwood                | 4071              |
 | Lust Demon's Warding Glyph                 | Resistance Up, Attack Down           | Evil        | Succubus               | Lust Demon Spiritcoral                  | 4067              |
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Bloodwood            | 4058              |
 | Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Bloodwood         | ?                 |
