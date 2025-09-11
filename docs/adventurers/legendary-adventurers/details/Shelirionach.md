@@ -5,12 +5,15 @@
 **Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Mage  
-**Class Change**:  
+**Class Change**: Priest 
 **Role**: Damage, Support
 
 ??? info "Portraits"
     === "Mage"
         ![](../img/shelirionach-mage.jpg)
+
+    === "Priest"
+        ![](../img/shelirionach-priest.jpg)
 
 ## Skills
 
