@@ -72,7 +72,7 @@
 | Red Beard    | PIE                 |
 | Rinne        |                     |
 | Savia        | VIT                 |
-| Shelirionach |                     |
+| Shelirionach | IQ                  |
 | Shiou        | STR                 |
 | Valdor       | IQ                  |
 | Viviana      | SPD                 |
