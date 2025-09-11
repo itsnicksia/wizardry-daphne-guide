@@ -78,7 +78,7 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  | Sprite Cursefruit                       | 4072              |
 | Hexdoll's Fleeing Step                     | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       | Hexdoll Gleamblight                     | 4059              |
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
-| ?                                          | Evasion Up, Def Down                 | Evil        | Vampire                | Thrall of the Dark Gleambright          | 4074              |
+| Thrall of the Dark's Violet Glowing Eyes   | Evasion Up, Def Down                 | Evil        | Vampire                | Thrall of the Dark Gleambright          | 4074              |
 | Dead-Minder's Spirit Essence               | MP Up, Def Down                      | Evil        | Wight                  | Dead-Minder Cursefruit                  | 4079              |
 | Bony Sorcerer's Spectral Bones             | Magic Def Up, Evade Trap Down        | Good        | Skeleton Mage          | Bony Sorcerer Rootcrystal               | 4047              |
 | Bony Knight's Armored Bones                | Def Up, Accuracy Down                | Evil        | Skeleton Knight        | Bony Knight Rootcrystal                 | 4048              |
