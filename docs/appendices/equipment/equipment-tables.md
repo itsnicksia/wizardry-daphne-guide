@@ -6,6 +6,7 @@ The data is exported from the Google Sheet [Wizardry Variants Equipment Table (p
 If the table does not display correctly, try the [embedded version](./equipment-tables-embed.md).
 
 ## Weapons Table
+<div  class="nofilter-table nosort-table" markdown>
 === "Daggers"
    {{ get_equip_table_formatted("weapon", "Dagger") | convert_to_md_table | add_indentation(spaces=4) }}
 
@@ -50,9 +51,9 @@ If the table does not display correctly, try the [embedded version](./equipment-
 
 === "Tools"
    {{ get_equip_table_formatted("weapon", "Tool") | convert_to_md_table | add_indentation(spaces=4) }}
-
+</div>
 ## Armor Table
-
+<div  class="nofilter-table nosort-table" markdown>
 === "Head"
    {{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=4) }}
 
@@ -70,7 +71,7 @@ If the table does not display correctly, try the [embedded version](./equipment-
 
 === "Accessories"
    {{get_equip_table_formatted("armor", "Accessories") | convert_to_md_table | add_indentation(spaces=4) }}
-
+</div>
 
 
 
