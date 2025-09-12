@@ -53,7 +53,7 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | One-Eyed Giant's Mighty Arm                | Attack Up, Accuracy Up, Evasion Down | Neutral     | Cyclops                | One-Eyed Giant Bloodwood                | 4071              |
 | Lust Demon's Warding Glyph                 | Resistance Up, Attack Down           | Evil        | Succubus               | Lust Demon Spiritcoral                  | 4067              |
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Bloodwood            | 4058              |
-| Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Bloodwood         | ?                 |
+| Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Bloodwood         | 4056              |
 | Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Spiritcoal                      | 4061              |
 | Bone Colossus's Hardened Bones             | Def Up, Mp Down                      | Neutral     | Skeleton Giant         | Bone Colossus Rootcrystal               | 4080              |
 | Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              | Hobber Bloodwood                        | 4044              |
@@ -85,7 +85,7 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Bony Bowman's Cartilage                    | Evade Trap Up, Res Down              | Evil        | Skeleton Archer        | Bony Bowman's Gleambright               | 4046              |
 | Servant-of-the-Earth's Pauldrons           | Def Up, Crit Tol Down                | Good        | Golem                  | Servant-of-the-Earth Rootcrystal        | 4076              |
 | Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          | Hellfire Warlord Cursefruit             | 4057              |
-| ?                                          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
+| Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Reptilian Monarch's Energy Flow            | SP Up, Earth Res Down                | Neutral     | Lizardman Champion     | Reptilian Monarch Bloodwood             | 4065              |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               | Four-Fist Bull Rootcrystal              | 4066              |
 | ?                                          | Magic Up, Res Down                   | ?           | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4063              | 
