@@ -384,7 +384,7 @@
         id: 'trade_waterway_pier',
         title: 'Adventurers Remains: 7th District (Shore of the Dead)',
         details: 'Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then.',
-        image: '../img/bones/respawning-bone-pier-location.png',
+        image: '../img/bones/respawning-bone-pier-location.jpg',
         clickable: true
       },
       { subheader: 'Impregnable Fortress' },
