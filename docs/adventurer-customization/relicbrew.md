@@ -88,6 +88,6 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Reptilian Monarch's Energy Flow            | SP Up, Earth Res Down                | Neutral     | Lizardman Champion     | Reptilian Monarch Bloodwood             | 4065              |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               | Four-Fist Bull Rootcrystal              | 4066              |
-| ?                                          | Magic Up, Res Down                   | ?           | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4063              | 
+| Merfolk Spellcaster's Spirit Flow          | Magic Up, Res Down                   | Neutral     | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4063              | 
 
 <sup>†</sup> Obtained relics may have other Relic Name modifiers, such as "Twisted", to indicate higher Relic power.
