@@ -201,7 +201,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 134,Hands!A134,Hands,3122,Covert Arm Wraps,Ebonsteel,Cloth,,725,0,0,0,3,0,1,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,24,0,1,22,0,6,0,
 140,Hands!A140,Hands,3129,Grave Robber's Gloves,Ebonsteel,Cloth,,725,0,0,0,5,0,1,2,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,19,0,1,15,0,0,0,0,0,0,23,0,1,20,0,0,0,"Disarm Trap +4/?/?/8/?, Evade Trap +6/?/?/10/?"
 146,Hands!A146,Hands,,Skeleton Lady's Gloves,Ebonsteel,Cloth,,,0,0,0,5,0,0,0,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Undead Resistance, Passive HP Up"
-152,Hands!A152,Hands,3071,Ebonsteel Light Gauntlets,Ebonsteel,Light,,720,0,0,0,10,0,0,0,0,0,0,0,0,0,15,0,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,28,0,0,18,0,0,0,
+152,Hands!A152,Hands,3071,Ebonsteel Light Gauntlets,Ebonsteel,Light,,720,0,0,0,10,0,0,0,0,0,0,0,0,0,15,0,0,4,0,0,0,0,0,0,19,0,0,9,0,0,0,,,,,,,,,,,0,0,0,28,0,0,18,0,0,0,
 158,Hands!A158,Hands,3119,Wilderness Guard,Ebonsteel,Light,,900,0,0,0,9,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,23,0,0,13,0,0,0,0,0,0,27,0,0,18,0,0,0,Magical Beast Resistance
 164,Hands!A164,Hands,3201,Light Gauntlets of Separation,Ebonsteel,Light,,800,0,0,0,10,0,0,0,0,0,0,0,0,0,15,0,0,4,0,0,0,0,0,0,19,0,0,9,0,0,0,0,0,0,24,0,0,13,0,0,0,,,,,,,,,,,"Demon Resistance, Confusion Tolerance, Charm Tolerance"
 170,Hands!A170,Hands,3072,Ebonsteet Heavy Gauntlets,Ebonsteel,Heavy,,900,0,0,0,14,0,0,-2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -229,7 +229,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Body!A2,Body,,Cloth Robe,Worn,Cloth,,18,0,0,0,3,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 8,Body!A8,Body,3006,Worn-Out Light Armor,Worn,Light,,26,0,0,0,6,0,-1,-2,0,-2,0,0,0,0,11,3,-1,-2,0,-2,0,,,,,,,,,,,0,0,0,21,8,-1,-2,0,-2,0,,,,,,,,,,,
-14,Body!A14,Body,,Worn-Out Heavy Armor,Worn,Heavy,,33,0,0,0,9,0,-2,-2,0,-4,0,0,0,0,14,3,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Body!A14,Body,,Worn-Out Heavy Armor,Worn,Heavy,,33,0,0,0,9,0,-2,-2,0,-4,0,0,0,0,14,3,-2,-2,0,-4,0,0,0,0,19,5,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,
 20,Body!A20,Body,3030,Leather Robe,Bronze,Cloth,440,70,0,0,0,6,0,0,0,0,0,0,0,0,0,12,3,0,0,0,0,0,0,0,0,18,7,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,
 26,Body!A26,Body,3021,Bronze Light Armor,Bronze,Light,655,105,0,0,0,12,0,-1,-2,0,-2,0,0,0,0,18,3,-1,-2,0,-2,0,0,0,0,24,7,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,
 32,Body!A32,Body,3086,Exorcism Leather,Bronze,Light,,210,0,0,0,11,5,-1,-2,0,-2,0,0,0,0,17,10,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -255,7 +255,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 152,Body!A152,Body,3160,Aquatic Blue Mail,Steel,Light,,786,0,0,0,22,0,0,-2,0,-2,0,0,0,0,31,5,0,-2,0,-2,0,,,,,,,,,,,0,0,0,48,16,0,-2,0,-2,0,,,,,,,,,,,Fire Type Reduction
 158,Body!A158,Body,3167,Red Fired Mail,Steel,Light,,786,0,0,0,22,0,0,-2,0,-2,0,0,0,0,31,5,0,-2,0,-2,0,,,,,,,,,,,0,0,0,48,16,0,-2,0,-2,0,,,,,,,,,,,Air Type Reduction
 164,Body!A164,Body,3174,Verdant Breeze Mail,Steel,Light,,786,0,0,0,22,0,0,-2,0,-2,0,0,0,0,31,5,0,-2,0,-2,0,,,,,,,,,,,0,0,0,48,16,0,-2,0,-2,0,,,,,,,,,,,Earth Type Reduction
-170,Body!A170,Body,3054,Steel Heavy Armor,Steel,Heavy,,797,0,0,0,36,0,-2,-2,0,-4,0,0,0,0,45,5,-2,-2,0,-4,0,,,,,,,,,,,0,0,0,62,16,-2,-2,0,-4,0,0,0,0,71,22,-2,-2,0,-4,0,
+170,Body!A170,Body,3054,Steel Heavy Armor,Steel,Heavy,,797,0,0,0,36,0,-2,-2,0,-4,0,0,0,0,45,5,-2,-2,0,-4,0,0,0,0,53,11,-2,-2,0,-4,0,0,0,0,62,16,-2,-2,0,-4,0,0,0,0,71,22,-2,-2,0,-4,0,
 176,Body!A176,Body,3154,Earthen Crest Heavy Mail,Steel,Heavy,,996,0,0,0,34,0,-2,-2,0,-4,0,0,0,0,43,5,-2,-2,0,-4,0,0,0,0,51,11,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
 182,Body!A182,Body,3161,Aquatic Blue Heavy Mail,Steel,Heavy,,996,0,0,0,34,0,-2,-2,0,-4,0,0,0,0,43,5,-2,-2,0,-4,0,0,0,0,51,11,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
 188,Body!A188,Body,3168,Red Fired Heavy Mail,Steel,Heavy,,996,0,0,0,34,0,-2,-2,0,-4,0,0,0,0,43,5,-2,-2,0,-4,0,0,0,0,51,11,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,Air Type Reduction
