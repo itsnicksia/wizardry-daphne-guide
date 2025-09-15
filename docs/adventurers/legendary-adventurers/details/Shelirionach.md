@@ -5,7 +5,7 @@
 **Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Mage  
-**Class Change**:  
+**Class Change**: Priest  
 **Role**: Damage, Support
 
 ??? info "Portraits"

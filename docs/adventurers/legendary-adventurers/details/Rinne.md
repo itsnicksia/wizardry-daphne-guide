@@ -5,7 +5,7 @@
 **Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Ninja  
-**Class Change**: Thief
+**Class Change**: Thief  
 **Role**: Damage, Support
 
 ??? info "Portraits"

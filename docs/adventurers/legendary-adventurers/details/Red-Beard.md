@@ -5,7 +5,7 @@
 **Type**: Dark  
 **Personality**: Neutral  
 **Starting Class**: Priest  
-**Class Change**:   
+**Class Change**: Knight  
 **Role**: Support
 
 ??? info "Portraits"

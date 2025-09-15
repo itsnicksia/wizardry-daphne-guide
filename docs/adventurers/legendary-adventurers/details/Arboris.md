@@ -5,7 +5,7 @@
 **Type**: Earth  
 **Personality**: Neutral  
 **Starting Class**: Thief  
-**Class Change**:  
+**Class Change**: Priest  
 **Role**: Support, Damage
 
 ??? info "Portraits"
