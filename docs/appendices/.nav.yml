@@ -6,6 +6,10 @@ nav:
       - Guarda Fortress: './wheel-causality/guarda-fortress.md'
       - Ally Requests: './wheel-causality/ally-requests.md'
   - Dispatches: './dispatches.md'
+  - Economy:
+      - Free to Play Resources: './free-to-play-economy.md'
+      - Purchase Evaluation: './purchase-evaluation.md'
+      - Purchaseable Skill Books: './purchaseable-skill-books.md'
   - Equipment:
       - Weapon Types: './equipment/weapon-types.md'
       - Equipment Tables: './equipment/equipment-tables-embed.md'
@@ -13,8 +17,6 @@ nav:
       - Equipment Drop Rates: './equipment/equipment-drop-rates.md'
   - Enemies: './enemy-compendium.md'
   - Harken's Blessings: './harkens-blessings.md'
-  - Purchase Evaluation: './purchase-evaluation.md'
-  - Purchaseable Skill Books: './purchaseable-skill-books.md'
   - Skills And Spells:
       - Class Skill Quicklist: './skills-and-spells/class-skill-quicklist.md'
       - Full Skills and Spells List: './skills-and-spells/skills-and-spells.md'

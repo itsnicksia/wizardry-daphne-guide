@@ -21,12 +21,12 @@
 | Bondmate     | Increased Attribute |
 | ------------ | ------------------- |
 | Abenius      | STR                 |
-| Adam         |                     |
+| Adam         | IQ                  |
 | Aldric       | DEX                 |
 | Alex         | VIT                 |
-| Alice        |                     |
+| Alice        | PIE                 |
 | Amelia       | SPD                 |
-| Arboris      |                     |
+| Arboris      | DEX                 |
 | Asha         | IQ                  |
 | Bakesh       | DEX                 |
 | Barbara      | STR                 |
@@ -49,6 +49,7 @@
 | Emil         | PIE                 |
 | Eulalia      | VIT                 |
 | Flut         | IQ                  |
+| Galbadus     |                     |
 | Galina       | PIE                 |
 | Gandolfo     | STR                 |
 | Gaston       | STR                 |
@@ -62,6 +63,7 @@
 | Jean         | DEX                 |
 | Kiriha       | DEX                 |
 | Lanaville    | VIT                 |
+| Livana       |                     |
 | Marianne     | PIE                 |
 | Milana       | DEX                 |
 | Olive        | VIT                 |
@@ -69,8 +71,8 @@
 | Phillip      | SPD                 |
 | Red Beard    | PIE                 |
 | Rinne        |                     |
-| Savia        |                     |
-| Shelirionach |                     |
+| Savia        | VIT                 |
+| Shelirionach | IQ                  |
 | Shiou        | STR                 |
 | Valdor       | IQ                  |
 | Viviana      | SPD                 |

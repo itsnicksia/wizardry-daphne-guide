@@ -5,12 +5,15 @@
 **Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Mage  
-**Class Change**: Priest  
+**Class Change**: Priest 
 **Role**: Damage, Support
 
 ??? info "Portraits"
     === "Mage"
         ![](../img/shelirionach-mage.jpg)
+
+    === "Priest"
+        ![](../img/shelirionach-priest.jpg)
 
 ## Skills
 
@@ -70,6 +73,24 @@
 
     In conclusion, Drecom realized that legendaries need to be compelling and finally made something worth investing in. Do not listen to the downplay. What other mage can do even half of this nonsense?
 
+??? info "Karkarov's Analysis"
+
+    So the queen Sheli has gotten her rerun and a new class, Priest!
+
+    So I am going to front load this analysis right now, if you are expecting to hear a lot of negative info, or for there to be catch 22's with Shelirionach... uh there really aren't any catches and I wont have much negative to say beyond "she is a banner character so you have to spend limited reources".  Sheli is simply put the best caster in the game at this point.  She was already the best mage, with the priest alt class she is now top of the world in the casting role.  So as of 9/11/25 (when I started writing this) there is no better mage/priest in this game, no, not even Alice, it isn't even close actually.
+
+    So lets go into why that is.  First off is her unique passive skill which does a large number of different functions.  So "Dream of the sleeping witch" causes her to go to sleep if she falls to 20% max mp.  While asleep she will do a few different things.  First, she regens MP every round she takes a nap.  No other character in the game right now can regen MP outside potions (rare and hard to farm) and rest spots in dungeons.  Second she starts casting a single target bomb dark attack that is equivalent to roughly Zelos level 5-6... and she casts it for 0 MP.  To add insult to injury she also does not take bonus damage when asleep, unlike every other character in the game.  Being asleep also makes you immune to other mind effecting spells like Charm.  Best part... this counts for when enemies put her to sleep too, these effects are not tied to her 20% MP threshold, it just happens for sure at that point.  Vampire put Sheli to sleep?  Vampire just made a VERY big mistake, because to Sheli, Sleep is a buff.
+
+    Then there is her inheritable skill "Eyes that know the future".  This skill is actually one of the most powerful tanking skills in the game.  When Sheli is hit with an attack that takes over half her health she will either A: dramatically mitigate the damage making it do significaly less than 50% of her HP or more, or B: Go "nah I win" and simply dodge the attack taking no damage at all.  The dodge happens at give or take around 20-25% rate, but the mitigation at level 1 of the skill on Sheli is basically 100% proc rate or so close it doesn't matter.  Also funny story, this mitigation/dodge CAN proc while she is asleep, and it works on any attack that targets her including spells.  This means Sheli has one of the only means in the game of dodging spells, all the evade stacking in the world cant do that for you.  Also somewhat sadly, as an inherit this skill is basically worthless.  The mitigation falls to sub 25ish% activation, and the dodge is single digit percent chance maybe not even 5%.  Leveling it also seems to have little to no benefit so the moral of the story is .... Sheli is not a good character to pull for using as an inherit.  This includes on Sheli herself, leveling the skill basically only improves the dodge rate for her, and not by much.
+
+    This brings us to the reality of how meta Sheli is for traits / stats.  As a dark element female elf she gets the best possible base stats for a mage, and elf generally have the best caster stats for their racial growths.  Then her discipline is greatly improves Magic Attack and Action Speed.... the best possible discipline for a mage.  You pull a Sheli with an IQ boosted stat at level 1, good bonus points, invest it all in IQ, and she can easily break 90 IQ by herself.  She also has really strong action speed growth normally. So with a weak inherit, and absolutely meta discipline, it is obvious any dupes should go straight to pumping the discipline level of Sheli.
+
+    Then last but maybe not least... she now has Priest as her alt class.  So if you want a tankier but still strong caster Sheli you can do that with priest.  This means she will also learn all the buffs, debuffs, heals, and attack spells (dark element at least) of mage and priest.  So she is a casting powerhouse.  Oh no!  She doesn't have a buff/debuff extention!  Ok, inherit one Alice on her, now she does.  She is also evil alignment so works with Alice's damage buff on the back row if you want to use both.  Or Milana's damage buff if you put her in front row as theif.  Or a few different dark element or elf based buffs, etc etc.  She is simply very easy to fit into your party comp, unless you are just an auto attack farmer where you don't want casters at all.
+
+    The most critical thing about Sheli is she is one of the VERY short list of characters in this game where pulling one copy IS good enough to just put them in your team.  Her discipline is top tier, but she does not "need" her discipline levels to be good.  She doesn't "need" any inherits other than the inherits any caster would want.  You can pull her and she is instantly good to go to do her job, she just needs some gear, some levels, and some normal caster inherits.  Just like every other character.  She just doesn't need discipline, to level her own skill, or to inherit skills from other characters that aren't normal "Mage" inerhits etc.  There is no "gimmick" to make her work, she just works outright.
+
+    There are no must pull characters in this game.  Shelirionach is really, really, really close to meeting that requirement though.  This is a character that has no real weakness, has the best MP economy in the game, and has a meta set up for their class and role from a traits perspective.  There is no catch 22, everything about her is good.  Other than her alignment, that's evil.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -77,7 +98,10 @@
 
 ??? note "Lynd's Pull Plan"
     Despite her name, I still pulled because she's cool. Should I have pulled more? Maybe, maybe. Did I? Nope.
-    
+
+??? note "Karkarov's Pull Plan"
+    Shelirionach is the best caster in the game as of writing this pull plan (9/11/25).  I recomended pulling, the end, I dont care if you are new, a long time player, abyss 1, abyss 3, etc.  It does not matter, you can find a spot in your team for Sheli she is that good.  If you have the resources and can justify it you absolutely should consider getting 3-5 copies to get her to Discipline 2 or higher.  Again, if you have the resources and can afford it.  Everything about her is hitting all all cylinders, she has no weakness or "this could have been better" aspects.  If you are someone who is of the "I dont care, I dont need another caster" mindset, cool, pass on the banner.  Just know she is better than the casters you have if you give her a similar level of investment to what you gave them.
+
 ## Duplicate Usage
 
 * Discipline to improve her Magic Power and Action Speed

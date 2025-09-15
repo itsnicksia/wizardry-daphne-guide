@@ -15,6 +15,12 @@
     === "Fighter"
         ![](../img/lanavaille-fighter.jpg)
 
+    === "Knight After Personal Request"
+        ![](../img/lanavaille-knight-personal-request.jpg)
+
+    === "Fighter After Personal Request"
+        ![](../img/lanavaille-fighter-personal-request.jpg)
+
     === "Wandering Princess"
         ![](../img/lanavaille-wandering.jpg)
 

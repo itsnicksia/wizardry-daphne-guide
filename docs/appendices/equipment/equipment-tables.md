@@ -6,6 +6,7 @@ The data is exported from the Google Sheet [Wizardry Variants Equipment Table (p
 If the table does not display correctly, try the [embedded version](./equipment-tables-embed.md).
 
 ## Weapons Table
+<div  class="nofilter-table nosort-table" markdown>
 === "Daggers"
    {{ get_equip_table_formatted("weapon", "Dagger") | convert_to_md_table | add_indentation(spaces=4) }}
 
@@ -42,17 +43,17 @@ If the table does not display correctly, try the [embedded version](./equipment-
 === "Samurai Katana"
    {{ get_equip_table_formatted("weapon", "Sam_Katana") | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Ninja Katana"
-   {{ get_equip_table_formatted("weapon", "Ninja_Katana") | convert_to_md_table | add_indentation(spaces=4) }}
+=== "Ninja Blades"
+   {{ get_equip_table_formatted("weapon", "Ninja_Blade") | convert_to_md_table | add_indentation(spaces=4) }}
 
 === "Ninja Throwing Weapons"
    {{ get_equip_table_formatted("weapon", "Ninja_Throw") | convert_to_md_table | add_indentation(spaces=4) }}
 
 === "Tools"
    {{ get_equip_table_formatted("weapon", "Tool") | convert_to_md_table | add_indentation(spaces=4) }}
-
+</div>
 ## Armor Table
-
+<div  class="nofilter-table nosort-table" markdown>
 === "Head"
    {{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=4) }}
 
@@ -70,7 +71,7 @@ If the table does not display correctly, try the [embedded version](./equipment-
 
 === "Accessories"
    {{get_equip_table_formatted("armor", "Accessories") | convert_to_md_table | add_indentation(spaces=4) }}
-
+</div>
 
 
 
