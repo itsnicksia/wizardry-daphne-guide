@@ -7,7 +7,7 @@ nav:
       - Ally Requests: './wheel-causality/ally-requests.md'
   - Dispatches: './dispatches.md'
   - Economy:
-      - Free to Play Resources: './free-to-play-economy.md'
+      - Free-to-Play Resources: './free-to-play-economy.md'
       - Purchase Evaluation: './purchase-evaluation.md'
       - Purchaseable Skill Books: './purchaseable-skill-books.md'
   - Equipment:
