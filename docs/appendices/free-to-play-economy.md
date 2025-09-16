@@ -17,7 +17,7 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 | [Weekly Web Store free gems](https://store.wizardry.info) | Weekly    |  50    | 200           | 
 | Guild Regular (Today's) Supplies                          | Biweekly  |  200   | 400           | 
 |                                                           |           |        | ----          | 
-| Total                                                     |           |        | 2300          | 
+| Total                                                     |           |        | 2,300         | 
 </div>
 
 #### Optional Gems
@@ -29,48 +29,48 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 
 #### Irregular  Gems
 <div class="nofilter-table nosort-table" markdown>
-| Source                                                       | Frequency | Amount    |
-| :----------------------------------------------------------- | :-------: | :-------: |
-| "Special Supplies" (usually tied to events, ~1-3 monthly)    | ~ Monthly |  200-500  |
-| Event mission gems  (usually 1-3 monthly)                    | ~ Monthly |  200-1000 |
-| "Maintenance" apology gems (1-4 monthly)                     | ~ Monthly |  200-1000 |
+| Source                                                       | Frequency | Amount     |
+| :----------------------------------------------------------- | :-------: | :--------: |
+| "Special Supplies" (usually tied to events, ~1-3 monthly)    | ~ Monthly |  200-500   |
+| Event mission gems  (usually 1-3 monthly)                    | ~ Monthly |  200-1,000 |
+| "Maintenance" apology gems (1-4 monthly)                     | ~ Monthly |  200-1,000 |
 </div>
 
 #### One-Time Gems
 <div class="nofilter-table nosort-table" markdown>
-| Source                          | Amount     | Description                                                                                                         |
+| Source                                    | Amount     | Description                                                                                                         |
 | :---------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------------ |
-| New Account gems                          | ~2000      | New Accounts get gems in their Guild Mailbox to build account. Usually spent on remains at the Jeweler.               | 
-| [Web Store one-time free gems](https://store.wizardry.info)| 800     | One time free gems at webstore using your User ID  |
+| New Account gems                          | ~2,000     | New Accounts get gems in their Guild Mailbox to build account. Usually spent on remains at the Jeweler.             | 
+| [Web Store one-time free gems](https://store.wizardry.info)| 800     | One time free gems at webstore using your User ID                                                     |
 | Friend Invite Code events                 | 25-100 each| When others use your code, you get gems as they progress throuh Beginning Abyss. Each milestone can be received 5x. | 
-| Abyss Clearance Missions completion       | ~1000      | Each abyss has a no-time-limit mission set with gem completion reward.                                              |
+| Abyss Clearance Missions completion       | ~1,000     | Each abyss has a no-time-limit mission set with gem completion reward.                                              |
 | [In-game Achievements](./achievements.md) | 25-50 each | Game progression and special milestones in combat successes, compendium/collection, etc.                            |
 </div>
 
 ### Uses
-Gems can be used throughout the game as a general currency for upgrades at the Jeweler (e.g., adventurer remains, equipment packs, spellbooks, class change books, ...) and in-game activities (e.g., resurrections, Mausoleum assistance, expanded inventory space, relic removal, ...). For some in-game activities gem usage is an option instead of spending Gold for the same item. Gems are scarce enough that use for those cases is discouraged. Popular uses are listed here:
+Gems can be used in the game as a general currency for upgrades at the Jeweler (adventurer remains, equipment packs, spellbooks, class change books, etc.) and in-game activities (resurrections, Mausoleum assistance, expanded inventory space, relic removal, etc.). Some in-game activities let you use gems instead of Gold for the same item. Gems are scarce enough that use for those cases is discouraged. Popular uses are listed here:
 
 #### "Banner" Adventurer Remains:
-- The most popular gems use is to get adventurer remains that give a chance (typically 2%) to obtain new Legendary characters or new skins for existing characters.
-- Limited time special remains are available from the Jeweler and typically cost 200 gems each, or 11 remains for 2000 gems.
-- Limited remains usually give, along with the random character, one 'pity' token that can be exchanged at the Jeweler.
-- Typically 100 (for legendary) or 60 (for non-legendary) tokens can be exchanged for remains that guarantee obtaining the banner character.
-- Thus the minimum gem-cost to 100% guarantee getting the banner is:
-    - 60: 5 x 2000 + 5 + 200 = 11,000 gems
-    - 100: 9 x 2000 + 1 x 200 = 18,200 gems
-        - A 2% success rate probability at least one success is: P(N) = 1 - 0.98^N.  so P(60)=70%, P(100)=86.7%
-    - Banner events sometimes provide 2-4 free remains that slightly reduce the above "guarantee" amount.
-    - Using the maximum regular gem rate of 2800 gems/month, a 'guaranteed pull' for a banner legendary character takes 18,200 / 2,800 = 6.5 months to accumulate.
-    - This is often significantly reduced by irregular sources, with monthly 'possible' gem rates above being 3400-5300, reducing the time to 3.4-5.3 months.
-    - In either case, banner adventurer offers generally come out more often than this, and <em>a F2P player should not expect to 'guarantee' getting every banner using free resources</em>.
+- The most popular gem use is for Limited time special adventurer remains that give a chance (typically 2%) to get new Legendary characters or new skins for existing characters.
+- These special remains typically cost 200 gems each from the Jeweler, or 11 remains for 2,000 gems.
+- Each Limited remains usually gives, along with the random character, one 'pity' token that can be exchanged at the Jeweler for remains, equipment, and supplies.
+- Guaranteed banner character remains typically cost 100 (for legendary) or 60 (for non-legendary) tokens.
+- At a 2% success rate, the probability at least one success in N is: P(N) = 1 - 0.98^N.  so P(60)=70%, P(100)=86.7%
+- Thus, odds are fairly good you will get the banner character before hitting the 'pity' limit, but the gem-cost of a 100% guarantee banner pull is:
+    - 60: 5 x 2,000 + 5 + 200 = 11,000 gems
+    - 100: 9 x 2,000 + 1 x 200 = 18,200 gems
+    - Banner events sometimes provide 2-4 free remains that slightly reduce the above "guarantee" amount by 200-600 gems.
+    - The maximum regular gem rate of 2,800 gems/month gives enough for '100% pull' every 18,200 / 2,800 = 6.5 months.
+    - Usually this is significantly reduced by irregular sources.  Monthly 'possible' gem rates above of 3,400-5,300 reduce this to 3.4-5.3 months.
+    - Banner adventurers generally come out more often than this. <em>F2P players should not expect to get every banner with free resources</em>.
     
 #### Handbooks
-- Ally class changes require class-change handbooks or similar items for every class change event for that character.
-- Four random class change books are usually available each week at the Jeweler, at a cost of 400 gems each, with two limited to Purple Gems.
+- Ally class changes <em>[require class-change handbooks or similar items for every class change event for that character](../adventurer-customization/class-changes.md)</em>.
+- The Jeweler offers four random class change books each week at a cost of 400 gems each (two are limited to Purple Gems).
 
 #### Inventory Storage Increase:
 - The default inventory storage space is 500 slots.
-- The limit can be increased by 25 items for 100 gems up to 1000 slots for total of 2000 gems.
+- The limit can be increased by 25 items for 100 gems up to 1,000 slots for total of 2000 gems.
 
 ## Guild Points
 Guild points (blue tokens) are granted for completing activities at the Adventurers Guild
@@ -79,11 +79,11 @@ Guild points (blue tokens) are granted for completing activities at the Adventur
 <div class="nofilter-table nosort-table" markdown>
 | Source                                                    | Frequency | Amount | Monthly Total<sup>†</sup> | 
 | :-------------------------------------------------------- | :-------: | :----: | :-----------------------: | 
-| Daily Mission Completion                                  | Daily     |  40    | 1200                      |
-| Weekly Mission Completion                                 | Weekly    |  600   | 2400                      | 
+| Daily Mission Completion                                  | Daily     |  40    | 1,200                     |
+| Weekly Mission Completion                                 | Weekly    |  600   | 2,400                     | 
 | Guild Regular (Today's) Supplies                          | Biweekly  |  200   | 400                       | 
 |                                                           |           |        | ----                      | 
-| Total                                                     |           |        | 4000                      | 
+| Total                                                     |           |        | 4,000                     | 
 </div>
 
 ### Uses
@@ -91,8 +91,8 @@ Guild points can be exchanged at the Jeweler for gems, adventurer remains, gold,
 <div class="nofilter-table nosort-table" markdown>
 | Guild Points Exchange Item                                  | G.P. Cost | monthly limit |
 | :---------------------------------------------------------- | :-------: | :-----------: |
-| 250 Gems (most popular)                                     | 1000      |  2            |
-| Guaranteed (general pool) Legendary Remains                 | 8000      |  1            |
+| 250 Gems (most popular)                                     | 1,000     |  2            |
+| Guaranteed (general pool) Legendary Remains                 | 8,000     |  1            |
 | General Adventurer Remains                                  | 800       |  3            |
 | Class-Specific Adventurer Remains                           | 800       |  1 / class    |
 </div>
@@ -120,17 +120,17 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 
 #### Optional Adventurer Remains                                        
 <div class="nofilter-table nosort-table" markdown>
-| Source                                                          | Frequency  | Amount | Monthly Total     | 
-| :---------------------------------------------------------------| :--------: | :----: | :---------------: | 
-| Jeweler: Guild Points - Legendary Remains                       | Bi-Monthly |  1     | 0.5<sup>†</sup>   | 
-| Jeweler: Guild Points - Adventurer Remains                      | Monthly    |  5     | 5<sup>†</sup>     | 
-| Jeweler: Gems - Adventurer Remains (200 Gems)                   | n/a        |  1     | 14<sup>††</sup>   | 
-| Jeweler: Gems - Adventurer Remains 11 pack (2000 Gems)          | n/a        |  11    | 15.4<sup>††</sup> | 
-| Jeweler: Gems - "Banner" Adventurer Remains (200 Gems)          | n/a        |  1     | 14<sup>††</sup>   | 
-| Jeweler: Gems - "Banner" Adventurer Remains 11 pack (2000 Gems) | n/a        |  11    | 15.4<sup>††</sup> | 
+| Source                                                           | Frequency  | Amount | Monthly Total     | 
+| :----------------------------------------------------------------| :--------: | :----: | :---------------: | 
+| Jeweler: Guild Points - Legendary Remains                        | Bi-Monthly |  1     | 0.5<sup>†</sup>   | 
+| Jeweler: Guild Points - Adventurer Remains                       | Monthly    |  5     | 5<sup>†</sup>     | 
+| Jeweler: Gems - Adventurer Remains (200 Gems)                    | n/a        |  1     | 14<sup>††</sup>   | 
+| Jeweler: Gems - Adventurer Remains 11 pack (2,000 Gems)          | n/a        |  11    | 15.4<sup>††</sup> | 
+| Jeweler: Gems - "Banner" Adventurer Remains (200 Gems)           | n/a        |  1     | 14<sup>††</sup>   | 
+| Jeweler: Gems - "Banner" Adventurer Remains 11 pack (2,000 Gems) | n/a        |  11    | 15.4<sup>††</sup> | 
 </div>
-<small><sup>†</sup> assume 4000 maximum regular monthly guild points rate and full usage</small>  
-<small><sup>††</sup> assume 2800 maximum regular monthly gem rate and full usage</small>  
+<small><sup>†</sup> assume 4,000 maximum regular monthly guild points rate and full usage</small>  
+<small><sup>††</sup> assume 2,800 maximum regular monthly gem rate and full usage</small>  
 
 #### One-Time Adventurer Remains
 <div class="nofilter-table nosort-table" markdown>
