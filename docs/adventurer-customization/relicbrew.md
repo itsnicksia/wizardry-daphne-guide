@@ -12,15 +12,15 @@ These are essentially permanent buffs that can be applied to all adventurers inc
 
 ## Exp
 
-- 1* Relic = 100 EXP OR Lvl 1 with 0 EXP
-- 2* Relic = 200 EXP OR Lvl 1 with 100 EXP
-- 3* Relic = 400 EXP OR Lvl 2 with 100 EXP
-- 4* Relic = 1000 EXP OR Lvl 3 with 100 EXP
+- 1★ Relic = 100 EXP OR Lvl 1 with 0 EXP
+- 2★ Relic = 200 EXP OR Lvl 1 with 100 EXP
+- 3★ Relic = 400 EXP OR Lvl 2 with 100 EXP
+- 4★ Relic = 1000 EXP OR Lvl 3 with 100 EXP
 
-- 1* to 2* Requires 200 EXP
-- 2* to 3* Requires 600 EXP
-- 3* to 4* Requires 1200 EXP
-- 4* to 5* Requires 3000 EXP
+- 1★ to 2★ Requires 200 EXP
+- 2★ to 3★ Requires 600 EXP
+- 3★ to 4★ Requires 1200 EXP
+- 4★ to 5★ Requires 3000 EXP
 
 ## Penalties
 
