@@ -38,15 +38,11 @@
     !!! note
         First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it.
 
-    ![](./img/beginning-abyss-b4f-v1.jpg)
-
-<!-- uncomment when 2nd variation map is obtained
     === "Variation 1"
         ![](./img/beginning-abyss-b4f-v1.jpg)     
 
     === "Variation 2"
         ![](./img/beginning-abyss-b4f-v2.jpg)
--->
 
 ??? map "B5F -Warped One's Nest-"
 
@@ -76,15 +72,11 @@
     !!! note
         You will need to go through the poison floors every time UNLESS you reverse the stones on the next floor that create shortcuts. Make sure to do that. B8F description tells you which stones open which paths.  Albano will REALLY not like you here, unless YOU DO something correctly (second playthrough only). The camp here is important as you can't access the Harken on the next floor until you beat the final boss. 
 
-    ![](./img/beginning-abyss-b7f-v1.jpg)
-
-<!-- uncomment when 2nd variation map is obtained
     === "Variation 1"
         ![](./img/beginning-abyss-b7f-v1.jpg)
 
     === "Variation 2"
         ![](./img/beginning-abyss-b7f-v2.jpg)
--->
 
 ??? map "B8F -Deepest Depths-"
 
