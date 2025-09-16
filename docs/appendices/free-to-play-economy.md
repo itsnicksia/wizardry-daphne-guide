@@ -51,14 +51,15 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 Gems can be used throughout the game as a general currency for upgrades at the Jeweler (e.g., adventurer remains, equipment packs, spellbooks, class change books, ...) and in-game activities (e.g., resurrections, Mausoleum assistance, expanded inventory space, relic removal, ...). For some in-game activities gem usage is an option instead of spending Gold for the same item. Gems are scarce enough that use for those cases is discouraged. Popular uses are listed here:
 
 #### "Banner" Adventurer Remains:
-- The most popular gems use is to get adventurer remains that give a chance (typically 4-5%) to obtain new Legendary characters or new skins for existing characters.
+- The most popular gems use is to get adventurer remains that give a chance (typically 2%) to obtain new Legendary characters or new skins for existing characters.
 - Limited time special remains are available from the Jeweler and typically cost 200 gems each, or 11 remains for 2000 gems.
 - Limited remains usually give, along with the random character, one 'pity' token that can be exchanged at the Jeweler.
 - Typically 100 (for legendary) or 60 (for non-legendary) tokens can be exchanged for remains that guarantee obtaining the banner character.
-- Thus the minimum gem cost 100% guarantee getting the banner is:
+- Thus the minimum gem-cost to 100% guarantee getting the banner is:
     - 60: 5 x 2000 + 5 + 200 = 11,000 gems
     - 100: 9 x 2000 + 1 x 200 = 18,200 gems
-    - Banner events sometimes provide 2-4 free remains that slightly reduce the above "guarantee" requirement.
+        - A 2% success rate probability at least one success is: P(N) = 1 - 0.98^N.  so P(60)=70%, P(100)=86.7%
+    - Banner events sometimes provide 2-4 free remains that slightly reduce the above "guarantee" amount.
     - Using the maximum regular gem rate of 2800 gems/month, a 'guaranteed pull' for a banner legendary character takes 18,200 / 2,800 = 6.5 months to accumulate.
     - This is often significantly reduced by irregular sources, with monthly 'possible' gem rates above being 3400-5300, reducing the time to 3.4-5.3 months.
     - In either case, banner adventurer offers generally come out more often than this, and <em>a F2P player should not expect to 'guarantee' getting every banner using free resources</em>.
