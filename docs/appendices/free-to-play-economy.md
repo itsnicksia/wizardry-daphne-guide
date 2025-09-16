@@ -127,9 +127,10 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 | Jeweler: Gems - Adventurer Remains 11 pack (2000 Gems)          | n/a        |  11    | 15.4<sup>††</sup> | 
 | Jeweler: Gems - "Banner" Adventurer Remains (200 Gems)          | n/a        |  1     | 14<sup>††</sup>   | 
 | Jeweler: Gems - "Banner" Adventurer Remains 11 pack (2000 Gems) | n/a        |  11    | 15.4<sup>††</sup> | 
-</div>
+
 <small><sup>†</sup> assume 4000 maximum regular monthly guild points rate and full usage</small>  
 <small><sup>††</sup> assume 2800 maximum regular monthly gem rate and full usage</small>  
+</div>
 
 #### One-Time Adventurer Remains
 <div class="nofilter-table nosort-table" markdown>
