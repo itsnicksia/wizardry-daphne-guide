@@ -9,7 +9,7 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 
 #### Regular Gems
 <div class="nofilter-table nosort-table" markdown>
-| Source                                         | Frequency | Amount | Monthly Total | 
+| Source                                                    | Frequency | Amount | Monthly Total | 
 | :-------------------------------------------------------- | :-------: | :----: | :-----------: | 
 | Daily Mission Completion                                  | Daily     |  20    | 600           |
 | Jewelery daily gems purchase (100gp)                      | Daily     |  10    | 300           |
@@ -17,19 +17,19 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 | [Weekly Web Store free gems](https://store.wizardry.info) | Weekly    |  50    | 200           | 
 | Guild Regular (Today's) Supplies                          | Biweekly  |  200   | 400           | 
 |                                                           |           |        | ----          | 
-| Total                                             |           |        | 2300          | 
+| Total                                                     |           |        | 2300          | 
 </div>
 
 #### Optional Gems
 <div class="nofilter-table nosort-table" markdown>
-| Source                                             | Frequency | Amount | Monthly Total | 
+| Source                                                       | Frequency | Amount | Monthly Total | 
 | :----------------------------------------------------------- | :-------: | :----: | :-----------: | 
 | Guild Points Exchange gems                                   | Monthly   |  500   | 500           |
 </div>
 
 #### Irregular  Gems
 <div class="nofilter-table nosort-table" markdown>
-| Source                                           | Frequency | Amount    |
+| Source                                                       | Frequency | Amount    |
 | :----------------------------------------------------------- | :-------: | :-------: |
 | "Special Supplies" (usually tied to events, ~1-3 monthly)    | ~ Monthly |  200-500  |
 | Event mission gems  (usually 1-3 monthly)                    | ~ Monthly |  200-1000 |
@@ -76,21 +76,21 @@ Guild points (blue tokens) are granted for completing activities at the Adventur
 
 #### Regular Guild Points
 <div class="nofilter-table nosort-table" markdown>
-| Source                                       | Frequency | Amount | Monthly Total<sup>†</sup> | 
+| Source                                                    | Frequency | Amount | Monthly Total<sup>†</sup> | 
 | :-------------------------------------------------------- | :-------: | :----: | :-----------------------: | 
 | Daily Mission Completion                                  | Daily     |  40    | 1200                      |
 | Weekly Mission Completion                                 | Weekly    |  600   | 2400                      | 
 | Guild Regular (Today's) Supplies                          | Biweekly  |  200   | 400                       | 
 |                                                           |           |        | ----                      | 
-| Total                                             |           |        | 4000                      | 
+| Total                                                     |           |        | 4000                      | 
 </div>
 
 ### Uses
 Guild points can be exchanged at the Jeweler for gems, adventurer remains, gold, and items, most useful items below. 
 <div class="nofilter-table nosort-table" markdown>
-| Guild Points Exchange Item                                | G.P. Cost | monthly limit |
-| :-------------------------------------------------------- | :-------: | :-----------: |
-| 250 Gems (most popular)                                   | 1000      |  2            |
+| Guild Points Exchange Item                                  | G.P. Cost | monthly limit |
+| :---------------------------------------------------------- | :-------: | :-----------: |
+| 250 Gems (most popular)                                     | 1000      |  2            |
 | Guaranteed (general pool) Legendary Remains                 | 8000      |  1            |
 | General Adventurer Remains                                  | 800       |  3            |
 | Class-Specific Adventurer Remains                           | 800       |  1 / class    |
@@ -103,26 +103,26 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 
 #### Regular Adventurer Remains
 <div class="nofilter-table nosort-table" markdown>
-| Source                                                 | Frequency | Amount | Monthly Total | 
-| :------------------------------------------------------------------------------- | :-------: | :----: | :-----------: | 
-| Guild Regular (Today's) Supplies                                                 | Biweekly  |  2     | 4             | 
-| Bone Collector Abyss-wandering NPC                                               | Weekly    |  1     | 4             | 
-| Random Weekly Chest                                                              | Weekly    |  1     | 4             | 
+| Source                                                                             | Frequency | Amount | Monthly Total | 
+| :--------------------------------------------------------------------------------- | :-------: | :----: | :-----------: | 
+| Guild Regular (Today's) Supplies                                                   | Biweekly  |  2     | 4             | 
+| Bone Collector Abyss-wandering NPC                                                 | Weekly    |  1     | 4             | 
+| Random Weekly Chest                                                                | Weekly    |  1     | 4             | 
 | [Beginning Abyss Weekly Respawning Remains](../tools/tracker.md)                   | Weekly    |  1     | 4             |
 | [Beginning Abyss Monthly Respawning Remains](../tools/tracker.md)                  | Monthly   |  9     | 9             |
 | [Trade Waterways Abyss Monthly Respawning Remains](../tools/tracker.md)            | Monthly   |  1     | 1             | 
 | [Impregnable Fortress Abyss Monthly Respawning Remains](../tools/tracker.md)       | Monthly   |  1     | 1             | 
 | [Crucible Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Respawning Remains | Biweekly  |  4-5   | 8-10          | 
-|                                                                                  |           |        | -----         | 
-| Total                                                                    |           |        | 35-37         | 
+|                                                                                    |           |        | -----         | 
+| Total                                                                              |           |        | 35-37         | 
 </div>
 
 #### Optional Adventurer Remains                                        
 <div class="nofilter-table nosort-table" markdown>
-| Source                                        | Frequency  | Amount | Monthly Total     | 
-| :------------------------------------------------------------| :--------: | :----: | :---------------: | 
-| Jeweler: Guild Points - Legendary Remains                      | Bi-Monthly |  1     | 0.5<sup>†</sup>   | 
-| Jeweler: Guild Points - Adventurer Remains                     | Monthly    |  5     | 5<sup>†</sup>     | 
+| Source                                                          | Frequency  | Amount | Monthly Total     | 
+| :---------------------------------------------------------------| :--------: | :----: | :---------------: | 
+| Jeweler: Guild Points - Legendary Remains                       | Bi-Monthly |  1     | 0.5<sup>†</sup>   | 
+| Jeweler: Guild Points - Adventurer Remains                      | Monthly    |  5     | 5<sup>†</sup>     | 
 | Jeweler: Gems - Adventurer Remains (200 Gems)                   | n/a        |  1     | 14<sup>††</sup>   | 
 | Jeweler: Gems - Adventurer Remains 11 pack (2000 Gems)          | n/a        |  11    | 15.4<sup>††</sup> | 
 | Jeweler: Gems - "Banner" Adventurer Remains (200 Gems)          | n/a        |  1     | 14<sup>††</sup>   | 
@@ -133,11 +133,11 @@ In this game, adventurer remains are used by the Masked Adventurer to resurrect 
 
 #### One-Time Adventurer Remains
 <div class="nofilter-table nosort-table" markdown>
-| Source                                                                  | Amount | 
-| :-------------------------------------------------------------------------------- | :----: |
-| Bone Collector New-Game Legendary Remains Selector                                | 1      |
-| Beginning Abyss B1F Southeast corner remains                                         | 1      |
-| Beginning Abyss B2F "Abyss Key" locked room chests                                      | 4      |
+| Source                                                                              | Amount | 
+| :---------------------------------------------------------------------------------- | :----: |
+| Bone Collector New-Game Legendary Remains Selector                                  | 1      |
+| Beginning Abyss B1F Southeast corner remains                                        | 1      |
+| Beginning Abyss B2F "Abyss Key" locked room chests                                  | 4      |
 | [Class-specific Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Remains       | 29     |
 | [Anonymous Adventurer Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Remains | 6      |
 </div>
@@ -147,13 +147,13 @@ Guild Tags are required to increase a character's Guild Grade that sets the maxi
 
 #### Tag Requirements per Adventurer per Grade
 <div class="nofilter-table nosort-table" markdown>
-| Adventurer Grade    | Max Level | Tag required | Ungraded Tag Cowt | Cumulative Ungraded Tags | Party of 6 Cumulative Tags|
-| :------: | :-------: | :-----------------: | :----------------------: | :-------------------: | :----: |
-| Ungraded | 20 | n/a | n/a  | 0  | 0|
-| Lead     | 30 | Ungraded | 1  | 1  | 6|
-| Bronze   | 40 | Lead | 2  | 3  | 18 |
-| Iron     | 50 | Bronze | 4 | 7  | 42|
-| Steel    | 60 | Iron | 8 | 15 | 90 |
+| Adventurer Grade    | Max Level | Tag required | Ungraded Tag Count | Cumulative Ungraded Tags | Party of 6 Cumulative Tags|
+| :-----------------: | :-------: | :----------: | :----------------: | :----------------------: | :-----------------------: |
+| Ungraded            | 20        | n/a          | n/a                | 0                        | 0                         |
+| Lead                | 30        | Ungraded     | 1                  | 1                        | 6                         |
+| Bronze              | 40        | Lead         | 2                  | 3                        | 18                        |
+| Iron                | 50        | Bronze       | 4                  | 7                        | 42                        |
+| Steel               | 60        | Iron         | 8                  | 15                       | 90                        |
 </div>
 
 As this table shows. the required number of tags for each grade grows quickly and tag accumulation can become a primary bottleneck for advancing in the games. A party of six adventurers requires a total of 90 ungraded guild tags to reach Steel Grade. 
@@ -165,41 +165,63 @@ As this table shows. the required number of tags for each grade grows quickly an
 | Guild Regular (Today's) Supplies             | Biweekly  |  2     | 4             | 
 | Weekly "Slay Dangerous Monsters" request     | Weekly    |  4     | 16            |
 |                                              |           |        | ----          |
-| Total                                |           |        | 20            | 
+| Total                                        |           |        | 20            | 
 </div>
 
 #### Irregular Guild Tags
 <div class="nofilter-table nosort-table" markdown>
-| Source                                    | Frequency | Amount    |
-| :----------------------------------------- | :-------: | :-------: |
-| "Urgent" Slay Dangerous Monsters Events    | ~ 1-2 Months | 10-15 |
+| Source                                    | Frequency          | Amount    |
+| :---------------------------------------- | :----------------: | :-------: |
+| "Urgent" Slay Dangerous Monsters Events   | ~ every 1-2 Months | 10-15     |
 </div>
 
 #### Optional Guild Tags
 Guild tags can be obtained by dismissing (retiring) adventurers from the guild. [See full details in the FAQ](../frequently-asked-questions.md#how-do-i-get-grade-tags). 
 
 <div class="nofilter-table nosort-table" markdown>
-| <em>Ungraded</em> Adventurer Type | Tags received on dismissal |
-|:---:|:---:|
-| Anonymous | 1 Ungraded|
-| General | 2 Ungraded| 
-| Legendary | 1 Iron Grade, 1 Ungraded (5 Ungraded equivalent)| 
+| <em>Ungraded</em> Adventurer Type | Tags received on dismissal                       |
+|:----------------------------------|:-------------------------------------------------|
+| Anonymous                         | 1 Ungraded                                       |
+| General                           | 2 Ungraded                                       | 
+| Legendary                         | 1 Iron Grade, 1 Ungraded (5 Ungraded equivalent) | 
 </div>
 
-At high grades, dismissing extra adventurers may be necessary or collecting enough Guild Tags to advance.  Using the numbers of regularly available  adventurers remains as described above, the available tags are: 
+At high grades, dismissing extra adventurers may be necessary or collecting enough Guild Tags to advance.  Using the numbers of regularly available adventurer remains as described above, the available tags are: 
 
 <div class="nofilter-table nosort-table" markdown>
-| Remains  | Tags from dismissing 36 Ungraded Remains |
-|:---:|:---:|
-| All Anonymous | 36 |
-| All General | 72 | 
-| All Legendary | 36 ungraded, 36 iron | 
-</div><!--
-| *Expected Value<sup>†††</sup>* | *57.6* |   
-
+| Remains                                           | Tags from dismissing 36 Ungraded Remains |
+|:--------------------------------------------------|:-----------------------------------------|
+| All Anonymous                                     | 36                                       |
+| All General                                       | 72                                       | 
+| All Legendary                                     | 36 ungraded, 36 iron                     | 
+| *Expected Value<sup>†††</sup>* saving legendaries | *50.4 ungraded*                          |   
+| *Expected Value<sup>†††</sup>* using legendaries  | *52.2 ungraded, 1.8 iron*                |   
+</div>
 <small><sup>†††</sup> using the standard adventurer remains drop rates: Anon:50%, General:45%, Legend:5%.</small>
 
-- From this we see that a total of about 78 tags directly and from dismissed adventurers could be obtained monthly through regular means.  
-- It would take a party of six adventurers a bit over a month using all free, regular tags and remains to accumulate the 90 tags needed for Steel grade.  
-- Also using gems, ...
--->
+From this we see 70-72 ungraded tags can be obtained monthly using regular means (tags + all regular remains).  Including legendary dismissals, the iron tags make it equivalent to about 80 ungraded tags, noting that iron tags can only be used to reach Steel and higher grades.
+
+While it does involvea player deliberately sacrificing other party improvement options for tags, we can consider including the regular 2,800 Gems/month producing ~15 additional bones for a total of 51 available for dismissal:
+
+<div class="nofilter-table nosort-table" markdown>
+| Remains                                           | Tags from dismissing *51* Ungraded Remains |
+|:--------------------------------------------------|:-------------------------------------------|
+| All Anonymous                                     | 51                                         |
+| All General                                       | 102                                        | 
+| All Legendary                                     | 51 ungraded, 51 iron                       | 
+| *Expected Value<sup>†††</sup>* saving legendaries | *71.4 ungraded*                            |   
+| *Expected Value<sup>†††</sup>* using legendaries  | *74.0 ungraded, 2.6 iron*                  |   
+</div>
+<small><sup>†††</sup> using the standard adventurer remains drop rates: Anon:50%, General:45%, Legend:5%.</small>
+
+Using these numbers, the time to grade up an adventuring party:
+
+<div class="nofilter-table nosort-table" markdown>
+| | Regular Tags alone | dismissing regular Anon/General Adventurers | and Legendary Adventurers | including Gem bought Anon/Gen Adventurers | and Legendary Adventurers |
+|:-------------------------------------------------|:----------:|:---------:|:----------:|:---------:|:---------:|
+| 6 member party ungraded-to-iron tag accum. time  | 2.1 months | 2.4 weeks | 2.3 weeks  | 1.9 weeks | 1.8 weeks |
+| 6 member party iron-to-steel accum. time         | 2.4 months | 2.7 weeks | 2.4 weeks  | 2.1 weeks | 1.8 weeks |
+| 6 member party ungraded-to-steel tag accum. time | 4.5 months | 5.1 weeks | 4.5 weeks  | 4.0 weeks | 3.5 weeks |
+</div>
+
+All told, the tag economy does place a throttle on free-to-play adventurer progress.  While a player with game knowledge could race through the first three abysses in a few days, without investment they will find themselves level-locked until accumulating enough Guild Tags for advancement. 
