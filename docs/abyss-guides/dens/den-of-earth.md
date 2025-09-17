@@ -15,19 +15,19 @@
 
     Without knowing the map layout, the fastest boss route is often to leave the entry tile from the south east room, then work west and north through the middle tiles, to enter the exit tile on the upper east side, as generally indicated on the main map below. The acutal path can vary significantly on some map variations.
 
-??? map "Den of Earth Maps"
+!!! map "Den of Earth Maps"
     The Earth Den is a 2x3 map.  The entry map, tileset, and a several map variations are shown below. This is obviously an incomplete set.  Rather than tiles 'swapping' like Abyss map variations, there appears to be at least three variations for each of the four hidden tiles, suggesting at least 3^4=81 full map combinations.  
 
     That said, all 3x4=12 tile variations only need to be explored once for the traps to be permanently exposed for future runs. Trap and hallway layout can then tip you off as to which tile variation you've been dealt.
 
     ??? map "Den of Earth - Entry Map"
-        ![](img/den-of-earth/den-of-earth-entry-map.jpg)
+        ![](./img/den-of-earth/den-of-earth-entry-map.jpg)
 
     ??? map "Den of Earth - Tileset"
-        ![](img/den-of-earth/den-of-earth-b1f-tileset.jpg)
+        ![](./img/den-of-earth/den-of-earth-b1f-tileset.jpg)
 
     ??? map "Den of Earth - Some Variations"
-        ![](img/den-of-earth/den-of-earth-b1f-variations.jpg)
+        ![](./img/den-of-earth/den-of-earth-b1f-variations.jpg)
 
 ## Credits
 
