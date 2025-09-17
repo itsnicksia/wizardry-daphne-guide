@@ -1,17 +1,33 @@
 # Den of Earth
 
-??? map "Den of Earth"
-    ![](img/den-of-earth/b1f.jpg)
+The Den of Earth is the first Den available to players.  It is unlocked after defeating the Greater Warped One in the Beginning Abyss, and can be accessed from the Edge of Town in the Royal Capital.
 
-??? map "Den of Earth Alternate 1"
-    ![](img/den-of-earth/den-of-earth-alternate.jpg)
+All Dens are 1 floor dungeons where chests can give you [Blacksmithing Ore of different grades required for ehnancing gear beyond +4](../../adventurer-customization/blacksmithing/index.md#enhance) and Elemental armor and weapon junk matching the Den. (Earth, fire, air, and water gear are steel grade.)  Each den has one or two Boss fights on the way to the exit portal.  
 
-??? map "Den of Earth Alternate 2"
-    ![](img/den-of-earth/den-of-earth-alternate-2.jpg)
+Den maps are obscured each time the Den is entered, with the Entrance and Exit (portal) tiles always visible. All other map tiles are variable, and randomly change layout each time the Den is entered. 
 
-??? map "Den of Earth Alternate 3"
-    ![](img/den-of-earth/den-of-earth-alternate-3.jpg)
+## Boss Fights
+The Earth Den has a mini boss fight just outside the portal room with a Big Slime, and a final boss fight with a Hydra Plant moster (Earth type, vulnerable to Air), both accompanied by a random group of Earth Den monsters.
+
+## Strategy
+For the Earth Den (and most other Dens) the map reset prevents auto-moving to efficiently collect chests on the map. So the most efficient ore and junk farming strategy is usually to rush straight to the boss for guaranteed chest drops while picking up any nearby spawned chests along the way.  However, sprung traps are permanently revealed, so full exploration is of value once on each map tile variation to expose traps.  After a few rounds of exploration, enough tiles should be explored and traps revealed to allow safe progress to the boss on further trips.
+
+Without being able to see the map layout, the fastest boss route is often to exit the entry tile from the south east room, then work west and north through the next tiles, to enter the exit tile on the upper east side, as generally shown on the map. This can vary significantly however on some map variations.
+
+## Maps
+The Earth Den is a 2x3 map.  The entry map, tileset, and a several map variations are shown below. This is obviously an incomplete set.  Rather than tiles 'swapping' like Abyss map variations, there appears to be at least three variations for each of the four hidden tiles, suggesting at least 3^4=81 full map combinations.  
+
+That said, all 3x4=12 tile variations only need to be explored once for the traps to be permanently exposed for future runs. Trap and hallway layout can then tip you off as to which tile variation you've been dealt.
+
+!!! map "Den of Earth - Entry Map"
+    ![](img/den-of-earth/den-of-earth-entry-map.jpg)
+
+??? map "Den of Earth - Tileset"
+    ![](img/den-of-earth/den-of-earth-b1f-tileset.jpg)
+
+??? map "Den of Earth - Some Variations"
+    ![](img/den-of-earth/den-of-earth-b1f-variations.jpg)
 
 ## Credits
 
-Den of Earth Maps kindly provided by Pookie and Theom1st.
+Den of Earth Maps kindly provided by Pookie, Theom1st, and Dirty.
