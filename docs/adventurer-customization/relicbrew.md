@@ -64,14 +64,14 @@ These buffs can be removed through the surgeryat the tavern. (Select Relic Power
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer        | Merfolk Bowman Bloodwood                | 4062              |
 | Shadowhoof Cavalier's Ghostsoul            | Magic Up, Dark Res Up, Divine Down   | Evil        | Necrocore              | Shadowhoof Cavalier Cursefruit          | 4078              |
 | Carrion Beetle's Carapace                  | Earth Res Up, Mp Down                | Good        | Abyssal Insect         | Carrion Beetle Spiritcoral              | 4051              |
-| Gobber Soothsayer's Hallowed Voice         | Divine Up, Def Down                  | Evil        | Goblin Cleric          | Gobber Soothsayer Cursefruit            | ?                 |
+| Gobber Soothsayer's Hallowed Voice         | Divine Up, Def Down                  | Evil        | Goblin Cleric          | Gobber Soothsayer Cursefruit            | 4043              |
 | Salt-Teared Priestess's Hallowed Voice     | Divine Up, Res Down                  | Neutral     | Pirate Deacon          | Salt-Teared Priestess Cursefruit        | 4069              |
 | Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer          | Gobber Bowman Gleambright               | 4041              |
 | Giant Bugwing's Compound Eyes              | Evade Trap Up, MP Down               | Neutral     | Dragon Fly             | Giant Bugwing Gleambright               | 4075              |
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Rootcrystal           | 4083              |
 | Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker       | Sea Mad Warrior Bloodwood               | 4068              |
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Gleambright                      | 4081              |
-| Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Cursefruit                   | ?                 |
+| Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Cursefruit                   | 4082              |
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Neutral     | Lizardman              | Reptilian Bloodwood                     | 4064              |
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           | Dancing Blade Bloodwood                 | 4054              |
 | Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleambright                 | 4077              |
