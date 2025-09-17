@@ -34,6 +34,7 @@ Purple Gems can only be obtained through one of the purchase methods mentioned a
 | "Special Supplies" (usually tied to events, ~1-3 monthly)    | ~ Monthly |  200-500   |
 | Event mission gems  (usually 1-3 monthly)                    | ~ Monthly |  200-1,000 |
 | "Maintenance" apology gems (1-4 monthly)                     | ~ Monthly |  200-1,000 |
+| Old Castle Ruins Event challenge rewards (>Bronze Grade)     | ~3-4 Months |  up to 3,000 |    
 </div>
 
 #### One-Time Gems
