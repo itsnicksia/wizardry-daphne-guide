@@ -20,14 +20,14 @@
 
     That said, all 3x4=12 tile variations only need to be explored once for the traps to be permanently exposed for future runs. Trap and hallway layout can then tip you off as to which tile variation you've been dealt.
 
-    ??? map "Den of Earth - Entry Map"
+    !!! map "Den of Earth - Entry Map"
         ![](./img/den-of-earth/den-of-earth-entry-map.jpg)
-
-    ??? map "Den of Earth - Tileset"
-        ![](./img/den-of-earth/den-of-earth-b1f-tileset.jpg)
 
     ??? map "Den of Earth - Some Variations"
         ![](./img/den-of-earth/den-of-earth-b1f-variations.jpg)
+
+    ??? map "Den of Earth - Tileset"
+        ![](./img/den-of-earth/den-of-earth-b1f-tileset.jpg)
 
 ## Credits
 
