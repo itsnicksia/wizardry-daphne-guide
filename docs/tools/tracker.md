@@ -673,7 +673,7 @@
      ========================== */
   const tbody = document.querySelector('#tracker tbody');
   const modal = document.getElementById('modal');
-  const mImg = document.getElementById('modal-image');         // Container where <img> is inserted
+  const mImg = document.getElementById('modal-image');         // Container where img tag is inserted
   const mImgContainer = document.getElementById('modal-image'); // Same element; alias for clarity
   const mClose = document.querySelector('.modal-close');
   const syncCt = document.getElementById('sync-container');
@@ -837,7 +837,7 @@
     tbody.querySelectorAll('.entry-link').forEach(link =>
       link.onclick = e => {
         e.preventDefault();
-        // Clear and insert a fresh <img> so repeated clicks always work
+        // Clear and insert a fresh img tag so repeated clicks always work
         mImgContainer.innerHTML = '';
         const img = document.createElement('img');
         img.src = link.dataset.img;
