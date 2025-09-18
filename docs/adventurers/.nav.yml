@@ -41,6 +41,9 @@ nav:
     - Livana:
         - Details: './legendary-adventurers/details/Livana.md'
         - Life Story: './legendary-adventurers/life-stories/Livana.md'
+    - Raffaello:
+        - Details: './legendary-adventurers/details/Raffaello.md'
+        - Life Story: './legendary-adventurers/life-stories/Raffaello.md'
     - Red Beard:
         - Details: './legendary-adventurers/details/Red-Beard.md'
         - Life Story: './legendary-adventurers/life-stories/Red-Beard.md'
