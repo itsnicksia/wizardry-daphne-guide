@@ -49,7 +49,7 @@
 | Emil         | PIE                 |
 | Eulalia      | VIT                 |
 | Flut         | IQ                  |
-| Galbadus     |                     |
+| Galbadus     | VIT                 |
 | Galina       | PIE                 |
 | Gandolfo     | STR                 |
 | Gaston       | STR                 |
