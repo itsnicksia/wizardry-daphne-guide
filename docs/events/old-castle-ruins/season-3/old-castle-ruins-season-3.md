@@ -24,7 +24,7 @@ Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against oth
 
 ## Boss Rush Floors (5,10,15,20)
 
-![](img/boss-rush.jpg)
+![](img/boss-rush.png)
 
 ## Floor 2-4
 ![](img/s3-f2.png)
