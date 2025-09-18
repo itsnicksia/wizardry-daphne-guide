@@ -2,7 +2,7 @@
 
 **Race**: Human  
 **Gender**: Male  
-**Type**:  
+**Type**: Fire  
 **Personality**: Evil   
 **Starting Class**: Priest    
 **Class Change**: None yet  
