@@ -39,6 +39,16 @@
 
     Keeping this short for now, and I might add more later. I love the idea of his kit. I think it's really fun and would be a welcome addition, however the implementation of it is what is strange. A priest isn't going to be able to do too much with this due to having better things to spend their turns on, and having the damage+heal locked to Piety is a bizarre choice. Even if you wanted to run a damage priest, the MC or Abenius could fit that bill easier. The one saving grace I could see is that you could literally gear him out as a DPS, complete with damage-oriented skill inherits, and his healing won't be negatively impacted. He could actually make a decent battle priest, however there are much better ways across the board to provide better damage and utility.
 
+??? info "Frobro's Analysis"
+
+    Another awesome design from the art team, let’s see how the devs waste it. 
+
+    MP Regen Passive. Now that’s a start! Only after a kill. There it is… What is the idea here? A Marianne-style MP cost reduction is more effective than this. Are we supposed to put him in the front row to try and last hit scrubs with a staff/mace for…checks notes…4MP? I’m speechless.
+
+    Well, at least they gave him a button to click that isn’t Badios in Alchemized Anima Dissolution. 20MP for a row target spell + front line healing is probably a fair deal, but I’m struggling to see when I’d ever want that. Seriously, can someone point me to the exact enemy formation I’d want this for? On top of that, for some reason, they scaled it off Piety; which basically keeps it’s potency capped at around whatever his current level is. I suppose you could get 30 more Piety if you grind 5 lvl5 Piety bondmates, but I’ve seen no reports of exactly how much that affects the potency of the spell. I assume you’re better off leveling the spell up to do more damage to get around potential softcaps than doing that anyway.
+
+    Which brings me to the final point; the MP/Piety discipline focus. All this does is mentally prepare us for the day we get a unit that has a Luck discipline. I always hoped any lich/necromancer type guy we’d get would be something really cool, like having a spell that resurrects non-reversed fallen allies that turn them into uncontrollable units that spam the undead enemy-only skills for 0sp. Instead, we get a normal priest with an expensive AOE life drain spell.
+
 ??? info "Karkarov's Analysis"
 
     Raffalmao to his credit is one of the coolest charater designs drecom has done to date, it might even be my favorite.  I guess I covered the good...

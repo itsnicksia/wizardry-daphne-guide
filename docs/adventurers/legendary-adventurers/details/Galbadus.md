@@ -55,6 +55,15 @@
 
     When deciding to pull, the biggest question you want to ask yourself is if you have room in your party for him. If you're already running a party consisting of Fighter Lana and Shiou, you probably don't need him. If you've missed out on Shiou, he could be an excellent high single target damage substitute.
 
+??? info "Frobro's Analysis"
+
+    What a cool-looking guy for such a straightforward game plan. Seems like a remix of Savia in a way; both are reliant on being targeted by enemies to do some of the highest damage any knight can output, but otherwise, they don’t stand out too much compared to other knights.
+
+    His discipline focus of attack/HP is fine, but a solid step down from Savia’s weird double evasion focus. Raging King is cool, and it’s nice that he has a button to click that isn’t one of the easily inherited Heavy Attack equivalents, but you can get higher damage with fewer strings attached elsewhere. Tyrant’s gravity sounds strong until you remember that taunt skills are whack, and this is a taunt skill that can’t even be leveled up.
+
+    This guy is in the wrong class on top of having a suboptimal alignment for being a front-row unit. Playing casually, he looks pretty neat and when the stars align and you land that Raging Fury 6; I bet he feels like “that guy”, but outside of the vacuum, he’s just…suboptimal. 
+
+
 ??? info "Karkarov's Analysis"
 
     Ok it is time to do an analysis of Savi.... oh wait this is a different dark element, knight, evil, beastfolk, legendary... huh.  So if there was something we did not need it was another knight legendary with the exact same alignment, element, and race as another knight legendary.  Meanwhile they chose to go ham on the design and create a legitimately beastly bad ass cool character.  (pun intended)
