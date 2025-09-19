@@ -13,19 +13,17 @@
         ![](../img/raffaello-priest.jpg)
 
 ## Skills
-<!--
 !!! info "Unique Skill (Inheritable)"
-    === "Flutterdream Flash"
-        {{ get_skill_description('Flutterdream Flash') }}
+    === "Alchemized Anima Dissolution"
+        {{ get_skill_description("Alchemized Anima Dissolution") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Flickering Fang"
-        {{ get_skill_description('Flickering Fang') }}
+    === "Bones of Obsessive Love"
+        {{ get_skill_description("Bones of Obsessive Love") }}
 
 !!! info "Discipline Skill"
-    === "Blessing of Owen"
-        {{ get_skill_description('Blessing of Owen') }}
--->
+    === "Alchemist of Rebirth"
+        {{ get_skill_description("Alchemist of Rebirth") }}
 
 ## Adventurer Reviews
 
@@ -40,10 +38,6 @@
     His Discipline is also weird in that it's the first Discipline we've seen that boosts a Trait (Piety) instead of a stat. Unfortunately, Piety is up there with Vitality as a very underwhelming Trait to boost.
 
     Keeping this short for now, and I might add more later. I love the idea of his kit. I think it's really fun and would be a welcome addition, however the implementation of it is what is strange. A priest isn't going to be able to do too much with this due to having better things to spend their turns on, and having the damage+heal locked to Piety is a bizarre choice. Even if you wanted to run a damage priest, the MC or Abenius could fit that bill easier. The one saving grace I could see is that you could literally gear him out as a DPS, complete with damage-oriented skill inherits, and his healing won't be negatively impacted. He could actually make a decent battle priest, however there are much better ways across the board to provide better damage and utility.
-
-??? info "Frobro's Analysis"
-    
-    Raffoello would make a good ninja turtle tho.
 
 ??? info "Karkarov's Analysis"
 
