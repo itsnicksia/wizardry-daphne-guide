@@ -1,14 +1,14 @@
 nav:
   - Introduction: './0-introduction/index.md'
-  - Beginning Abyss:
+  - "Abyss 1: Beginning Abyss - Royal Capital":
       - Maps: './1-beginning-abyss/maps.md'
       - Requests: './1-beginning-abyss/requests.md'
       - Important Request / Greater Warped One: './1-beginning-abyss/important-request-gwo.md'
-  - Port Town Grand Legion:
+  - "Abyss 2: Trade Waterways - Port Town":
       - Maps: './2-port-town-grand-legion/maps.md'
       - Requests: './2-port-town-grand-legion/requests.md'
       - Important Request / Greater Warped One: './2-port-town-grand-legion/important-request-gwo.md'
-  - Guarda Fortress:
+  - "Abyss 3: Impregnable Fortress - Guarda":
       - Maps: './3-guarda-fortress/maps.md'
       - Requests: './3-guarda-fortress/requests.md'
       - Important Request / Greater Warped One: './3-guarda-fortress/important-request-gwo.md'
