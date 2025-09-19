@@ -31,8 +31,7 @@ Raffaello, drifting through hollow days, one day heard tales of alchemy from a p
 
 
 ### Page 4
-
-...alchemy, devoting all his time and thought to its mysteries.  At first, he used remnants left behind in the punishment chamber-Evelyn's blood, hair, torn nails-attempting to resurrect her, but every experiment ended in failure. Next, he added corpses stolen from the Grand Temple to his material components, but once again, Evelyn did not return.  Eventually, the priests discovered the stolen bodies, and Raffaello's misdeeds became known to all.  The trust he once shared with the faithful crumbled, yet Raffaello no longer cared. Having cast aside all semblance of propriety, he was driven from the temple as a heretical sinner.
+Raffaello threw himself entirely into the study of alchemy, devoting all his time and thought to its mysteries.  At first, he used remnants left behind in the punishment chamber-Evelyn's blood, hair, torn nails-attempting to resurrect her, but every experiment ended in failure. Next, he added corpses stolen from the Grand Temple to his material components, but once again, Evelyn did not return.  Eventually, the priests discovered the stolen bodies, and Raffaello's misdeeds became known to all.  The trust he once shared with the faithful crumbled, yet Raffaello no longer cared. Having cast aside all semblance of propriety, he was driven from the temple as a heretical sinner.
 
 On the run, Raffaello slaughtered those pursuers sent to capture him. Then, kneeling in their blood, he thanked his God for granting such useful materials for transmutation.
 
