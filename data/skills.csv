@@ -7,7 +7,8 @@ Air Formation,Passive,,Increases damage to earth type enemies for user and adjac
 Air-Kin Blessing,Passive,,Reduces air type damage for beastfolk in the same row.,,,,,Amelia,
 Air Type Thaumaturgy,Passive,,Reduces air-type damage to self.,Damage decreased further based on skill level.,55,Mage,,,
 Albano's Revulsion,Bondmate,,Continuously increases Defense Power and Paralysis Tolerance.,Defense Power and Paralysis Tolerance increased further based on skill level.,,,,Bondmate,
-Alchemized Anima Dissolution,Active,True,,,,,,Raffaello,
+Alchemist of Rebirth,Discipline,,"Continuously increases each stat, with MP and Piety increased even further.","MP and Piety further increased based on skill level.","",,,Raffaello,
+Alchemized Anima Dissolution,Active,True,"Deals moderate untyped spell damage based on Piety to 1 enemy row. Restores the HP of allies in the front row based on the damage dealt. Damage and HP recovery are reduced if learned by someone other than Raffaello.","Efficacy increased based on skill level.",,,,Raffaello,
 All Cover,Active,True,Chance to beat single-target attacks in place of all allies for 1 turn.,Defense Power Up incrementally added based on skill level. Probability and Defense Power increased further. More turns added.,40,Knight,Knight-specific,,Eldorado
 Amnesiac Corpse Retriever,Discipline,,"Continuously increases each stat, with Attack Power, Magic Power, SP, and MP increased further.","Attack Power, Magic Power, SP, and MP further increased based on skill level.",,,,Iarumas,
 Apostle of Breaking Commandments,Passive,,"Increases Tolerance of Insta-Kill, Skill-Binding, and Spell-Binding for user and all adjacent dark type allies.",,,,,Red Beard,
@@ -36,7 +37,7 @@ Blinding,Active,True,Minor physical attack on 1 enemy based on the user's Dexter
 Blood Edge,Active,,Launches a minor physical attack on 1 enemy dealing continuous damage to HP for a set number of turns.,Damage amount and number of turns increased further based on skill level.,51,Thief,,,
 Bloodline of the Mirror-Mere,Discipline,,"Continuously increases each stat, with Accuracy and Magic Defense increased even further.",Accuracy and Magic Defense increased further based on skill level.,,,,Livana,
 Blunt Combo Strike,Active,,"Minor physical attack with high Accuracy on 1 enemy. When attacking, companion crows perform an attack that penetrates Defense based on Dexterity. Increases own Evasion for 1 turn, and when evading an attack, the companion crow counterattacks.","Efficacy increased, damage dealt by companion crows increased, and Evasion rate increased based on skill level.",,,,Aldric,
-Bones of Obsessive Love,,,,,,,,Raffaello,
+Bones of Obsessive Love,Passive,,Restores minor MP to self when defeating an enemy.,,,,,Raffaello,
 Branded Hands,Passive,,Increases Accuracy when equipped with a two-handed weapon.,,,,,Gerulf,
 Calamitous Rockfall,Damage,,"Useable when equipped with Two-Handed Staff of The Spirit Realm. Drops magic infused stones, dealing minor earth spell damage to 1 enemy row. Chance to reduce enemy Evasion for 3 turns.",,,,,,
 CALDIA,Support,,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.,17,Priest,,,
