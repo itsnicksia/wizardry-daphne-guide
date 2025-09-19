@@ -45,10 +45,31 @@
     
     Raffoello would make a good ninja turtle tho.
 
+??? info "Karkarov's Analysis"
+
+    Raffalmao to his credit is one of the coolest charater designs drecom has done to date, it might even be my favorite.  I guess I covered the good...
+
+    So there is a lot to unpack here. An untyped aoe line attack spell for priest, sweet!  It even heals for give or take 15-17% of damage dealt to the front line of your party.  Cool!  It's damage scales off of... Piety.  WAT?  Not Magic Attack, not even Divine Power, your literal Piety trait/stat.  Well there went any hope of this spell being great DPS, but you know priest's don't have a line attack at all and inheriting line mage spells is costly and not always easy right?  What's that MP cost?  Level 1 Spell, does a little less than mahalito level 1, heals maybe almost madios 1 to front line.... 20 @$@!%&*# MP?
+    
+    Suffice to say this was a good idea on drecom's part, I like where they were going with it.  But damage and healing are a bit too weak to justify that MP cost, and when compared to say 20 MP level 1 Tzalik a spell that could reach 2k surety hits, doing like 400 line damage and healing for 150ish doesn't seem to be as good for the same casting cost.
+
+    But WAIT!  Raffalcopter has an MP Regen skill!  We are saved!  Huh... only regens 2 #$@%$#@! MP on kill?  Even if you kill multiple enemies it's still only 2 MP?  Insult to injury, because this is the unique uninheritable skill you can't even level it to maybe get uh.... 4 MP?  Both Shelirionach and Marianne have better MP management skills for Priest casting.  This skill is simply lack luster and does not recover enough MP on it's own.  The fact that it requires a kill also makes it unreliable.  Oh, and don't forget, it has to be a kill via damage.  Killing an undead with say Marien doesn't count.
+
+    Lets remain positive, what about that discipline?  That can change this whole conversation you know what I am saying?  It's increased MP and the actual raw trait/stat of Piety.
+    
+    I am sorry I was wrong, let's not remain positive.  It is interesting that this is the first character to ever boost a raw trait (str, iq, pie, etc) as a discipline, and sure it buffs his spells damage due to it being purely Piety based, but good god it isn't useful at all otherwise.  Almost anything would have been better.
+
+    In summary this guy seems to have an awesome backstory.  His design is legitimately cool.  The concept drecom pursued for this character was honestly solid, different, very creative, and commendable.  Sadly their execution was not quite so hot.  I really wish I could say this character is good, but he isn't.  Maybe on rerun he will get a new class and that will tilt the balance.  Right now, no, just no.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
     Definitely saving for the anniversary.
+
+??? note "Karkarov's Pull Plan"
+    If you love the design of this character or you are just someone that has to get a copy of every character for their roster, ok, I get it.  Pull 1 copy.
+    
+    If you are anyone else, I can't advise you to pull.  I pulled a copy so you didn't have to, don't let my sacrifice be in vain.  If you want a solid character that really does bring something to your team as of the time of this writing (9/18/25) Shelirionach's banner is up.  Put the resources there, or save them for the upcoming October 2025 anniversay.
     
 ## Duplicate Usage
 
