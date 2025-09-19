@@ -14,6 +14,11 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 ## PvP Floors:
 Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against other adventurer parties. There isn't anything for doing so, but they can be easily defeated with a strong mage with high ASPD.
 
+## Foray Speed Calculation
+- Each tile stepped on adds 4 to Foray Speed
+- Each action in combat adds 1 to Foray Speed
+- Completing a fight in 1 turn removes 15 from Foray Speed
+
 ## Tips
 
 - It is ideal for Foray Speed to walk through poison and not cleanse it if possible. However, the penalty for doing so is very small.
