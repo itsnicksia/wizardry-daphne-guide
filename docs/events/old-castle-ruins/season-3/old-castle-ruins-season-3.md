@@ -22,7 +22,6 @@ Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against oth
 ## Tips
 
 - It is ideal for Foray Speed to walk through poison and not cleanse it if possible. However, the penalty for doing so is very small.
-- It is ideal to avoid mob battles, but not if it increases the number of steps needed on an optimal route. Fleeing to phase through mob battles is not recommended.
 - It is ideal to finish battles as quickly as possible, as more actions taken per fight increases foray score.
 - You are not penalized for taking time to think either in or out of combat. Only actions and steps are really taken into account for scoring.
 - Flutterdream Flash increases your Foray Speed, so it is recommended not to use characters with this skill if possible on easier floors. The penalty is minimal however.
