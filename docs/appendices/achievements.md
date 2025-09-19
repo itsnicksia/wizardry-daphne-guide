@@ -115,6 +115,8 @@
     | Fate-Bonding Journey                           | 30 Bondmates you made on your adventure become Bond Level 5.       |
     | First Camp                                     | Camp in a dungeon 1 time.                                          |
     | Intermediate Camper                            | Camp in a dungeon 30 times.                                        |
+    | Veteran Camper                                 | Camp in a dungeon 100 times.                                       |
+    | Lives in the Dungeon                           | Camp in a dungeon 500 times.                                       |
     | Cheers!                                        | Drink at the tavern with allies 1 time.                            |
     | Bonding over a Drink                           | Drink at the tavern with allies 30 times.                          |
     | It's on Me Today!                              | Drink at the tavern with allies 100 times.                         |
