@@ -17,8 +17,10 @@ Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against oth
 ## Foray Speed Calculation
 - Each tile stepped on adds 5 to Foray Speed
 - Each action done by an ally OR enemy in combat adds 2 to Foray Speed.
-- Completing a fight reduces foray speed by 20
+- Completing a fight REDUCES Foray Speed by 20
+- Running from combat adds 32 to Foray Speed
 - Using a statue adds 40 to Foray Speed
+- Actions such as using a spell or item outside of combat adds 2 to Foray Speed
 - Counterattacking = 0 Foray Speed
 - Opening Chest = 0 Foray Speed
 
