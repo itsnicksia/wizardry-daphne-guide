@@ -15,9 +15,12 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against other adventurer parties. There isn't anything for doing so, but they can be easily defeated with a strong mage with high ASPD.
 
 ## Foray Speed Calculation
-- Each tile stepped on adds 4 to Foray Speed
-- Each action in combat adds 1 to Foray Speed
-- Completing a fight in 1 turn removes 15 from Foray Speed
+- Each tile stepped on adds 5 to Foray Speed
+- Each action done by an ally OR enemy in combat adds 2 to Foray Speed.
+- Completing a fight reduces foray speed by 20
+- Using a statue adds 40 to Foray Speed
+- Counterattacking = 0 Foray Speed
+- Opening Chest = 0 Foray Speed
 
 ## Tips
 
