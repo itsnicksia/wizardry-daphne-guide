@@ -23,6 +23,9 @@ Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against oth
 - Actions such as using a spell or item outside of combat adds 2 to Foray Speed
 - Counterattacking = 0 Foray Speed
 - Opening Chest = 0 Foray Speed
+- Triggering a Trap = 0 Foray Speed
+- Flutterdream Flash = 0 Foray Speed
+- Changing Formation outside of combat = 0 Foray Speed
 
 ## Tips
 
