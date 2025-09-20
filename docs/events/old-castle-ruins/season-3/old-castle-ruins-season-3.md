@@ -2,7 +2,7 @@
 
 !!! bug "It is season 3 and there are still bugs with Foray Speed. Thank you Drecom"
 
-All floors are static. Efficiency is measured by how fast you complete the floor.
+All floors are static. Players are ranked by how fast you complete the floor, using a "Foray Speed" scoring formula described below.
 
 Boss Rush floors always have the same order of bosses.
 
@@ -12,7 +12,7 @@ Optimal paths for Foray Speed are listed below.
 The main character needs to reach Bronze Grade. After advancing to Bronze Grade, visiting the Adventurers Guild will trigger a dialog for the quest after which a new location will be available on the World Map.  Note that once you've activated the event, the location will remain on your World Map even when the season ends. You will simply be denied entry to the ruins between seasons.
 
 ## PvP Floors:
-Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against other adventurer parties. There isn't anything for doing so, but they can be easily defeated with a strong mage with high ASPD.
+Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against other adventurer parties. There isn't anything gained by doing so, but they can be easily defeated with a strong mage with high ASPD.
 
 ## Foray Speed Calculation
 - Each tile stepped on adds 5 to Foray Speed
