@@ -63,3 +63,10 @@ Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against oth
 ![](img/s3-f18.png)
 
 ![](img/s3-f19.png)
+
+### Floor 20 Bosses
+1. Mimic + Succubus
+2. 1 Earth Big Slime (Frontline) + 2 Succubi (Backline)
+3. Mimic
+4. 2 Earth Big Slimes (Frontline) + 1 Hydra Plant (Backline)
+5. 1 Scorpion Lady (Frontline) + 1 Earth Cloud (Frontline) + 1 Succubus (Backline) + 1 Earth Cloud (Backline)
