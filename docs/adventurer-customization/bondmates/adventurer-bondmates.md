@@ -16,7 +16,7 @@
     * There seems to be another factor, possibly a random element to this. Sometimes the resulting bondmate will be level 4 only. It is currently not known why.
 * Bonuses from two adventurer bondmates with the same attribute do not stack.
     * This means that at most, you can only get up to +5 on a attribute from an adventurer bondmate. This severely limits the appeal of dismissing adventurers for bondmates, with the most common practical application of it being for speed tuning purposes.
-* Contrary to regular bondmates, there is no additional bonus when attaching an adventurer bondmate to a hero of the same element.
+* There is no additional bonus when attaching an adventurer bondmate to a hero of the same element.
 
 | Bondmate     | Increased Attribute |
 | ------------ | ------------------- |
