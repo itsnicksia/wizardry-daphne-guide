@@ -66,8 +66,9 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 | LAP | Light Armor Proficiency - Increases Defense Power and Magic Defense when equipped with light armor |
 | HAP | Heavy Armor Proficiency - Increases Defense Power and Magic Defense when equipped with heavy armor |
 | | |
-| RACE CHANGE | Changes the MC's Race to one of the types listed |
-| TYPE CHANGE | Changes MC's Type (Element) to one of the types listed |
+| RACE CHANGE | Changes the MC's Race to one of the types listed (Human, Dwarf, Elf, or Beastfolk) |
+| TYPE CHANGE | Changes MC's Type (Element) to one of the types listed (E.g., Air, Earth, Fire, Dark, etc.) |
+| RACE SLAYER-RESISTANCE| MC gains increased damage versus, and reduced damage from, one of the monster races listed (E.g., entity, demon, demihuman, giant, adventurer, beast, etc.) |
 | | |
 | FTO | Increases Fear Tolerance |
 | IDTO | Increases Instant-Death Tolerance |
@@ -78,11 +79,6 @@ Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clo
 | COTO | Increases Confusion Tolerance |
 | POTO | Increases Poison Tolerance |
 | BITO | Increases Bind Tolerance |
-| | |
-| ASR | MC gains Adventurer-Slayer Resistance |
-| DHSR | MC gains Demihuman-Slayer Resistsnfe |
-| ESR | MC gains Entity-Slayer Resistance |
-| GSR | MC gains Giant-Slayer Resistance |
 | | |
 | EMBERS | Embers of Resurgence increased by 1 |
 | PARALLEL BREAK | Chance to inflict multiple status afflictions (Sleep, Stun, Fear. Confusion) on 1 enemy row |
