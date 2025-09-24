@@ -47,13 +47,15 @@ Blacksmithing becomes available early in the game after your party enters the fi
 </div>
 
 ### ^^Enhancement Values^^
+
+**These values may be inaccurate, and should be treated as estimates.**
 <div class="nofilter-table nosort-table" markdown>
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
-| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
-|                 **ASPD, SUR**                 | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
-|                   **ASPD%**                   | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
+| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1   | 1   | 2-3 |  3   |  4   |
+|                 **ASPD, SUR**                 | 1   | 1~2 | 1~3 | 1~3  | 2~5  |
+|                   **ASPD%**                   | 1   | 1   | 2-3 |  3   |  4   |
 </div>
 
 ## ^^Enhancement Inheritance^^
@@ -137,9 +139,9 @@ Items that fail extraction are lost.  There is a small chance that a Refinement 
 |                                               | 1 ★ | 2 ★ | 3 ★ | 4 ★ | 5 ★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:---:|:---:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~4 | 3~5 | 4~6 | 5~7 |
-| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
+| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 4~6 |
 |                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 3~5 | 4~6 |
-|                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 3~6 |
+|                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 4~6 |
 </div>
 ## ^^Unification^^
 
