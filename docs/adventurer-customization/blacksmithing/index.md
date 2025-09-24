@@ -46,9 +46,6 @@ Blacksmithing becomes available early in the game after your party enters the fi
 | Fine Grade (gold) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
 </div>
 
-<!--
-commenting this out until we have good data
-
 ### ^^Enhancement Values^^
 <div class="nofilter-table nosort-table" markdown>
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
@@ -58,7 +55,6 @@ commenting this out until we have good data
 |                 **ASPD, SUR**                 | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
 |                   **ASPD%**                   | 1~1 | 1~2 | 1~3 |  1~4 | 1~5  |
 </div>
--->
 
 ## ^^Enhancement Inheritance^^
 
