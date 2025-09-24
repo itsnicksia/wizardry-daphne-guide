@@ -24,8 +24,25 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 134,Dagger!A134,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,Dagger!A140,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,Dagger!A146,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,Dagger!A152,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+158,Dagger!A158,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+164,Dagger!A164,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,Dagger!A170,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Dagger!A176,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,Dagger!A182,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,Dagger!A188,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,Dagger!A194,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+200,Dagger!A200,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,Dagger!A206,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,Dagger!A212,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,Dagger!A218,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+224,Dagger!A224,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+230,Dagger!A230,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,Dagger!A236,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+242,Dagger!A242,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+248,Dagger!A248,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,1H_Sword!A2,1H_Sword,2,Worn-Out Sword,Worn,2,,20,10,0,0,0,0,0,10,0,2,0,15,0,0,0,0,0,10,0,2,0,,,,,,,,,,,25,0,0,0,0,0,10,0,2,0,,,,,,,,,,,
+2,1H_Sword!A2,1H_Sword,2,Worn-Out Sword,Worn,2,,20,10,0,0,0,0,0,10,0,2,0,15,0,0,0,0,0,10,0,2,0,20,0,0,0,0,0,10,0,2,0,25,0,0,0,0,0,10,0,2,0,,,,,,,,,,,
 8,1H_Sword!A8,1H_Sword,13,Bronze Sword,Bronze,2,500,80,20,0,0,0,0,0,10,0,2,0,28,0,0,0,0,0,10,0,2,0,35,0,0,0,0,0,10,0,2,0,43,0,0,0,0,0,10,0,2,0,50,0,0,0,0,0,10,0,2,0,
 14,1H_Sword!A14,1H_Sword,57,Sword of Undead Bane,Bronze,2,,100,22,0,0,0,0,0,10,0,2,0,30,0,0,0,0,0,10,0,2,0,37,0,0,0,0,0,10,0,2,0,45,0,0,0,0,0,10,0,2,0,52,0,0,0,0,0,10,0,2,0,Vs Undead
 20,1H_Sword!A20,1H_Sword,24,Iron Sword,Iron,2,1500,240,30,0,0,0,0,0,10,0,2,0,40,0,0,0,0,0,10,0,2,0,50,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,
@@ -69,7 +86,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 248,1H_Sword!A248,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 254,1H_Sword!A254,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2H_Sword!A2,2H_Sword,,Worn-Out Greatsword,Worn,1,,27,13,0,0,0,0,-4,6,0,-2,0,21,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+2,2H_Sword!A2,2H_Sword,,Worn-Out Greatsword,Worn,1,,27,13,0,0,0,0,-4,6,0,-2,0,21,0,0,0,0,-4,6,0,-2,0,28,0,0,0,0,-4,6,0,-2,0,36,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,Strength-Based +
 8,2H_Sword!A8,2H_Sword,16,Bronze Greatsword,Bronze,1,675,108,33,0,0,0,0,-4,6,0,-2,0,44,0,0,0,0,-4,6,0,-2,0,55,0,0,0,0,-4,6,0,-2,0,66,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,Strength-Based +
 14,2H_Sword!A14,2H_Sword,60,The Greatsword of Undead Bane,Bronze,1,,135,35,0,0,0,0,-4,6,0,-2,0,46,0,0,0,0,-4,6,0,-2,0,57,0,0,0,0,-4,6,0,-2,0,68,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,Strength-Based +
 20,2H_Sword!A20,2H_Sword,27,Iron Greatsword,Iron,1,2025,324,54,0,0,0,0,-4,6,0,-2,0,69,0,0,0,0,-4,6,0,-2,0,84,0,0,0,0,-4,6,0,-2,0,99,0,0,0,0,-4,6,0,-2,0,,,,,,,,,,,Strength-Based +
@@ -130,11 +147,11 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 38,2H_Axe!A38,2H_Axe,127,Two-Handed Axe of the Water Drop,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
 44,2H_Axe!A44,2H_Axe,136,Two-Handed Axe of the Gale,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Air Type"
 50,2H_Axe!A50,2H_Axe,145,Two-Handed Axe of the Soil,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
-56,2H_Axe!A56,2H_Axe,51,Ebonsteel Two-Handed Axe,Ebonsteel,1,,1350,114,0,0,0,0,-8,0,0,-6,0,137,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,182,0,0,0,0,-8,0,0,-6,0,204,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-62,2H_Axe!A62,2H_Axe,95,Two-Handed Axe of Expulsion,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
-68,2H_Axe!A68,2H_Axe,102,Hunting Axe,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Magical Beast-Slayer"
-74,2H_Axe!A74,2H_Axe,154,Two-Handed Axe of the Aurora,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Light Type"
-80,2H_Axe!A80,2H_Axe,164,Two-Handed Axe of Eternal Darkness,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Dark Type"
+56,2H_Axe!A56,2H_Axe,51,Ebonsteel Two-Handed Axe,Ebonsteel,1,,1350,114,0,0,0,0,-8,0,0,-6,0,137,0,0,0,0,-8,0,0,-6,0,159,0,0,0,0,-8,0,0,-6,0,182,0,0,0,0,-8,0,0,-6,0,204,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+62,2H_Axe!A62,2H_Axe,95,Two-Handed Axe of Expulsion,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
+68,2H_Axe!A68,2H_Axe,102,Hunting Axe,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Magical Beast-Slayer"
+74,2H_Axe!A74,2H_Axe,154,Two-Handed Axe of the Aurora,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Light Type"
+80,2H_Axe!A80,2H_Axe,164,Two-Handed Axe of Eternal Darkness,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Dark Type"
 86,2H_Axe!A86,2H_Axe,Ex.,Twin Moon Two-Handed Axe,Ebonsteel,,,,,,,,,,,,,,,,,,,,,,,,150,0,0,0,0,-8,0,13,-6,0,,,,,,,,,,,,,,,,,,,,,"Defense Penetration, Strength-Based +"
 92,2H_Axe!A92,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,2H_Axe!A98,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -177,7 +194,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 8,2H_Mace!A8,2H_Mace,63,Two-Handed Mace of Undead Bane,Bronze,1,,125,32,0,0,0,0,-8,0,-4,-6,0,43,0,0,0,0,-8,0,-4,-6,0,54,0,0,0,0,-8,0,-4,-6,0,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Vs Undead"
 14,2H_Mace!A14,2H_Mace,30,Iron Two-Handed Mace,Iron,1,1875,300,52,0,0,0,0,-8,0,-4,-6,0,67,0,0,0,0,-8,0,-4,-6,0,82,0,0,0,0,-8,0,-4,-6,0,97,0,0,0,0,-8,0,-4,-6,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +"
 20,2H_Mace!A20,2H_Mace,41,Steel Two-Handed Mace,Steel,1,,600,70,0,0,0,0,-8,0,-4,-6,0,88,0,0,0,0,-8,0,-4,-6,0,106,0,0,0,0,-8,0,-4,-6,0,125,0,0,0,0,-8,0,-4,-6,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +"
-26,2H_Mace!A26,2H_Mace,87,Isabella's Warhammer,Steel,1,,960,80,0,0,0,0,-15,0,-4,-6,0,103,0,0,0,0,-15,0,-4,-6,0,125,0,0,0,0,-15,0,-4,-6,0,,,,,,,,,,,170,0,0,0,0,-15,0,-4,-6,0,"Inflict Stun, Evasion Damage, Strength Based +"
+26,2H_Mace!A26,2H_Mace,87,Isabella's Warhammer,Steel,1,,960,80,0,0,0,0,-15,0,-4,-6,0,103,0,0,0,0,-15,0,-4,-6,0,125,0,0,0,0,-15,0,-4,-6,0,148,0,0,0,0,-15,0,-4,-6,0,170,0,0,0,0,-15,0,-4,-6,0,"Inflict Stun, Evasion Damage, Strength Based +"
 32,2H_Mace!A32,2H_Mace,118,Heavy Mace of Flame,Steel,1,,750,68,0,0,0,0,-8,0,-4,-6,0,86,0,0,0,0,-8,0,-4,-6,0,104,0,0,0,0,-8,0,-4,-6,0,123,0,0,0,0,-8,0,-4,-6,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Fire Type"
 38,2H_Mace!A38,2H_Mace,119,Firesmith's Mace,Steel,1,,750,74,0,0,0,0,-8,0,-4,-10,0,92,0,0,0,0,-8,0,-4,-10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Fire Type"
 44,2H_Mace!A44,2H_Mace,128,Heavy Mace of the Water Drop,Steel,1,,750,68,0,0,0,0,-8,0,-4,-6,0,86,0,0,0,0,-8,0,-4,-6,0,104,0,0,0,0,-8,0,-4,-6,0,123,0,0,0,0,-8,0,-4,-6,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Water Type"
@@ -214,7 +231,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 74,2H_Spear!A74,2H_Spear,153,Heavy Spear of the Aurora,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Light Type"
 80,2H_Spear!A80,2H_Spear,163,Heavy Spear of Eternal Darkness,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Dark Type"
 86,2H_Spear!A86,2H_Spear,Ex.,Shadow Leopard,Ebonsteel,1,,,92,0,0,0,0,4,10,0,8,0,115,0,0,0,0,4,10,0,8,0,137,0,0,0,0,4,10,0,8,0,160,0,0,0,0,4,10,0,8,0,182,0,0,0,0,4,10,0,8,0,Strength-Based +
-92,2H_Spear!A92,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,2H_Spear!A92,2H_Spear,Ex.,Faust Halberd,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 98,2H_Spear!A98,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,2H_Spear!A104,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,2H_Spear!A110,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -306,7 +323,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,Sam_Katana!A2,Sam_Katana,,Well-Worn Katana,Worn,2,,,11,8,0,0,0,0,5,0,0,0,16,14,0,0,0,0,5,0,0,0,,,,,,,,,,,26,26,0,0,0,0,5,0,0,0,,,,,,,,,,,
 8,Sam_Katana!A8,Sam_Katana,168,Standard Katana,Bronze,2,,120,20,17,0,0,0,0,6,0,0,0,28,26,0,0,0,0,6,0,0,0,35,34,0,0,0,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,
 14,Sam_Katana!A14,Sam_Katana,169,Fine Katana,Iron,2,,380,32,26,0,0,0,0,8,0,0,0,42,37,0,0,0,0,8,0,0,0,52,48,0,0,0,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,
-20,Sam_Katana!A20,Sam_Katana,170,Refined Katana,Steel,2,,900,45,49,0,0,0,0,10,0,0,0,58,63,0,0,0,0,10,0,0,0,70,76,0,0,0,0,10,0,0,0,83,90,0,0,0,0,10,0,0,0,,,,,,,,,,,
+20,Sam_Katana!A20,Sam_Katana,170,Refined Katana,Steel,2,,900,45,49,0,0,0,0,10,0,0,0,58,63,0,0,0,0,10,0,0,0,70,76,0,0,0,0,10,0,0,0,83,90,0,0,0,0,10,0,0,0,95,104,0,0,0,0,10,0,0,0,
 26,Sam_Katana!A26,Sam_Katana,171,Exquisite Katana,Ebonsteel,2,,2813,70,65,0,0,0,0,10,0,0,0,85,81,0,0,0,0,10,0,0,0,100,97,0,0,0,0,10,0,0,0,115,113,0,0,0,0,10,0,0,0,130,130,0,0,0,0,10,0,0,0,
 32,Sam_Katana!A32,Sam_Katana,Ex.,Saber,Ebonsteel,2,,,50,30,0,0,0,0,6,0,0,0,65,46,0,0,0,0,6,0,0,0,80,62,0,0,0,0,6,0,0,0,95,78,0,0,0,0,6,0,0,0,110,95,0,0,0,0,6,0,0,0,One Sword Style
 38,Sam_Katana!A38,Sam_Katana,Ex.,Kiku-Ichimonji,Ebonsteel,2,,,65,60,0,0,0,5,15,5,0,0,80,76,0,0,0,6,15,7,0,0,95,92,0,0,0,7,15,8,0,0,110,108,0,0,0,8,15,9,0,0,,,,,,,,,,,Masterwork Hamon
