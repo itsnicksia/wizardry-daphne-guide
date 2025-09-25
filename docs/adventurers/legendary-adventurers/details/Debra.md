@@ -28,9 +28,10 @@
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
-    === "Blessing of the Beastfolk Goddess"
-        {{ get_skill_description('Blessing of the Beastfolk Goddess') }}
+    === "Blessing of the Beastfolk Goddess (Standard)"
+        {{ get_skill_description("Blessing of the Beastfolk Goddess") }}
 
+        <div class="nosort-table nofilter-table markdown">
         | Level | SP recovery amount (self) | SP recovery amount (inherited) |
         |:-----:|:-------------------------:|:------------------------------:|
         |   1   |             4             |                2               |
@@ -40,14 +41,25 @@
         |   5   |                           |                6               |
         |   6   |                           |                7               |
         |   7   |             13            |                -               |
+        </div>
+        
+    === "Mirage Hunting (Gold Maiden)"
+      {{ get_skill_description("Mirage Hunting") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Skull Study"
-        {{ get_skill_description('Skull Study') }}
+    === "Skull Study (Standard)"
+        {{ get_skill_description("Skull Study") }}
+
+    === "Dance of the Bold Advance (Gold Maiden)"
+        {{ get_skill_description("Dance of the Bold Advance") }}
+
 
 !!! info "Discipline Skill"
     === "Blessing of the Beast God"
-        {{ get_skill_description('Blessing of the Beast God') }}
+        {{ get_skill_description("Blessing of the Beast God") }}
+
+    === "Dancer of Liberation (Gold Maiden)"
+        {{ get_skill_description("Dancer of Liberation") }}
 
 ## Adventurer Reviews
 
