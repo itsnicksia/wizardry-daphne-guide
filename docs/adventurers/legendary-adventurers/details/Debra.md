@@ -20,6 +20,10 @@
 
     === "Knight Unmasked"
         ![](../img/debra-knight-unmasked.jpg)
+    
+    === "Gold Maiden"
+        ![](../img/debra-gold-maiden.jpg)
+
 
 ## Skills
 
