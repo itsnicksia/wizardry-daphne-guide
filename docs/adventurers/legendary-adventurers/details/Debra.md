@@ -42,6 +42,7 @@
         |   6   |                           |                7               |
         |   7   |             13            |                -               |
         </div>
+        
     === "Mirage Hunting (Gold Maiden)"
       {{ get_skill_description("Mirage Hunting") }}
 
