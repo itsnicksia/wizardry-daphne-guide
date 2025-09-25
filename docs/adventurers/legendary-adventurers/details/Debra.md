@@ -31,7 +31,8 @@
     === "Blessing of the Beastfolk Goddess (Standard)"
         {{ get_skill_description("Blessing of the Beastfolk Goddess") }}
 
-        <div class="nosort-table nofilter-table markdown">
+        <div class="nosort-table nofilter-table" markdown3>
+
         | Level | SP recovery amount (self) | SP recovery amount (inherited) |
         |:-----:|:-------------------------:|:------------------------------:|
         |   1   |             4             |                2               |
@@ -41,6 +42,7 @@
         |   5   |                           |                6               |
         |   6   |                           |                7               |
         |   7   |             13            |                -               |
+
         </div>
         
     === "Mirage Hunting (Gold Maiden)"
