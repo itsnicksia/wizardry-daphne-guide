@@ -41,7 +41,7 @@
         |   6   |                           |                7               |
         |   7   |             13            |                -               |
 
-  === "Mirage Hunting (Gold Maiden)"
+    === "Mirage Hunting (Gold Maiden)"
       {{ get_skill_description("Mirage Hunting") }}
 
 !!! info "Unique Skill (Not Inheritable)"
