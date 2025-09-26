@@ -14,9 +14,10 @@ The number of times you need to get a bond to reach a particular bond level:
 |  5    |  4              | 11                    |
 </div>
 
-!!! note "Reacquiring a level 5 bondmate results in being given an Amnesia Incense, used to sever all bondmates from a character.  Amnesia Incense can be farmed weekly from each bondmate.  As of June 2025, story bondmates can no longer be 'dismissed'."
+!!! note "Bondmate Farming Notes"
 
-!!! note "Certain bondmates are permanently capped at level 1. Further bond acquisitions just produces a 'will be missed' message."
+    - Reacquiring a level 5 bondmate results in being given an Amnesia Incense, used to sever all bondmates from a character.  Amnesia Incense can be farmed weekly from each bondmate.  As of June 2025, story bondmates can no longer be 'dismissed'.
+    - Certain bondmates are permanently capped at level 1. Further bond acquisitions just produces a 'will be missed' message.
 
 ## Beginning Abyss Bondmates
 
