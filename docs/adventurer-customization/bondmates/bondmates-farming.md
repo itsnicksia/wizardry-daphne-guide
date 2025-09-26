@@ -57,3 +57,9 @@ Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate l
     17. Guild - accept Undead March quest.  
     18. Enter Abyss to B7F, win all 4 undead waves. Get bond. (Automatically return to town.)  
     19. Repeat Cursed Wheel Leaps.  
+
+## Trade Waterways Bondmates
+    Work in progress.  Contributions welcome.
+
+## Impregnable Fortress Bondmates
+    Work in progress.  Contributions welcome.
