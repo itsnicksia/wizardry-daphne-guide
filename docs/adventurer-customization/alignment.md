@@ -18,7 +18,7 @@ Adventurers other than yourself have fixed Alignment; there is no known way to c
 
 ## Changing Your Alignment
 
-Your character's alignment is initially defined by your answers to the questions given at the start of the game, but can change over the course of the game depending on your choices and actions.
+Your character's alignment is initially defined by your answers to the [questions given at the start of the game](../abyss-guides/0-introduction/index.md#creating-your-character), but can change over the course of the game depending on your choices and actions.
 
 Afterwards, there are two main ways to change alignment:
 
