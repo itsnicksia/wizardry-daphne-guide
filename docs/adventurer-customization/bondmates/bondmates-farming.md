@@ -59,7 +59,7 @@ Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate l
     19. Repeat Cursed Wheel Leaps.  
 
 ## Trade Waterways Bondmates
-    Work in progress.  [Contributions welcome](../../../index.md).
+Work in progress.  [Contributions welcome](../../../index.md).
 
 ## Impregnable Fortress Bondmates
-    Work in progress.  [Contributions welcome](../../../index.md).
+Work in progress.  [Contributions welcome](../../../index.md).
