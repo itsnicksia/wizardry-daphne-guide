@@ -24,7 +24,7 @@ The number of times you need to get a bond to reach a particular bond level:
 
 Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate locations, and then immediately "Leaping" forward to Warped Scene or later will make most bondmate requests available again. 
 
-!!! note "Special Cases
+!!! note "Special Cases"
 
     ??? note "Pleading Boss Goblin"
     You should only try adding the Goblin Den to this cycle if you can survive the Ambushes and/or avoid most mobile enemy fights. The enemies scale based on your grade, so recommend saving for levels 30 or 40 (or later) and bringing enough mage support to clear goblins groups. Also, note that this will one additional Cursed Wheel cycle, as the first visit to the den only involves fighting the Northeast goblin group. See the [Pleading Boss Goblin bondmate procedures](./beginning-abyss/bondmates.md#the-pleading-boss-goblin).
