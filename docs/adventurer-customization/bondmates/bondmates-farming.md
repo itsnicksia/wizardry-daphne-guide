@@ -28,7 +28,7 @@ Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate l
     Pleading Boss Goblin:  
     - The Goblin Den is a higher level challenge than the rest of the Beginning Abyss, recommended saving for levels 30+ and bringing enough mage support to clear groups, or until you can survive the Ambushes and/or avoid most mobile enemy fights. Also, this will add one additional farming cycle, as on the first visit you only fight the Northeast goblin group. See the [Pleading Boss Goblin bondmate procedures](./beginning-abyss/bondmates.md#the-pleading-boss-goblin).
 
-    Albano:
+    Albano:  
     - After first earning the Albano bondmate by [completing the Beginning Abyss "Perfect Ending"](./beginning-abyss/bondmates.md#royal-knight-albano), repeat bonds are obtainable simply by Wheeling back to any point before "The King's Rescue", then leaping forward to "The King's Rescue" or later, and finally going to the Edge of Town screen in the Royal Capital.  The Albano Bondmate dialog should begin automatically, and he can be raised from level 1 to 5 in a matter of minutes. (Confirmed as of version 1.8.0.)
 
 !!! note "Some bondmates below require gaining specific Knowledge before the bondmate paths can be followed. See individual  pages for [Chris](./beginning-abyss/bondmates.md#chris-the-considerate), [Mudd](./beginning-abyss/bondmates.md#mudd-the-eternal-novice), and [Donato](./beginning-abyss/bondmates.md#donato-the-king-of-debt) for steps to follow before farming with the cycle below."
