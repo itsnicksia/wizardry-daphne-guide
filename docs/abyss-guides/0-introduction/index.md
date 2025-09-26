@@ -53,7 +53,7 @@ You'll be shown the result and prompted for confirmation after answering the que
         - Loot and flee - EVIL
         - Help her across but ask for a reward - EVIL
 
-If you made a mistake or decide you want a different alignment, just retake the quiz at the end. You can do this as many times as you want [(it can be gradually changed later in the game)](../../adventurer-customization/alignment.md) and then you'll regain control of your character.
+If you made a mistake or decide you want a different alignment, just retake the quiz at the end. You can do this as many times as you want ([it can be gradually changed later in the game](../../adventurer-customization/alignment.md)) and then you'll regain control of your character.
 
 Explore the dungeon until you meet a ghostly Girl - have a chat with her and follow her instructions. 
 
