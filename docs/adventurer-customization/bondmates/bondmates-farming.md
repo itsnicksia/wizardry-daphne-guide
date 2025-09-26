@@ -31,7 +31,8 @@ Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate l
     Albano:  
     - After first earning the Albano bondmate by [completing the Beginning Abyss "Perfect Ending"](./beginning-abyss/bondmates.md#royal-knight-albano), repeat bonds are obtainable simply by Wheeling back to any point before "The King's Rescue", then leaping forward to "The King's Rescue" or later, and finally going to the Edge of Town screen in the Royal Capital.  The Albano Bondmate dialog should begin automatically, and he can be raised from level 1 to 5 in a matter of minutes. (Confirmed as of version 1.8.0.)
 
-!!! note "Some bondmates below require gaining specific Knowledge before the bondmate paths can be followed. See individual  pages for [Chris](./beginning-abyss/bondmates.md#chris-the-considerate), [Mudd](./beginning-abyss/bondmates.md#mudd-the-eternal-novice), and [Donato](./beginning-abyss/bondmates.md#donato-the-king-of-debt) for steps to follow before farming with the cycle below."
+    Knowledge Requirement:
+    - Some bondmates below require gaining specific Knowledge before the farming paths can be followed. See individual pages for [Chris](./beginning-abyss/bondmates.md#chris-the-considerate), [Mudd](./beginning-abyss/bondmates.md#mudd-the-eternal-novice), and [Donato](./beginning-abyss/bondmates.md#donato-the-king-of-debt) for steps to follow.
 
 !!! note "Farming Cycle"  
     To level all [Beginning Abyss bondmates](./beginning-abyss/bondmates.md) that can be leveled, leapi back to Fresh start and then forward to Warped Scene (or King's Rescue if including Albano) or later:  
