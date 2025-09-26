@@ -34,24 +34,24 @@ Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate l
 
 !!! note "Farming Cycle"  
     To level all [Beginning Abyss bondmates](./beginning-abyss/bondmates.md) that can be leveled, leapi back to Fresh start and then forward to Warped Scene (or King's Rescue if including Albano) or later:  
-    
-        1. Step right back up stairs to B7F, step into teleporter, return to Harken  
-        2. Leap to B5F - revive Harry and Ira.  
-        3. Return to town.  Visit Temple for Ira, pay 500gp.  
-        4. Go to Guild. Accept Beheading Bunny, Save the Grandchildren, and Donato Requests.  
-        5. Go to Edge of Town - Beginning Abyss - Abyss Entrance. Take stairs to B1F. Speak to Chris and Mudd. Complete combats for Chris and Donato requests.  
-           - Albano optional: On going to Edge of Town, automatically get Albano bond if Perfect Ending already complete.  
-        7. Harken to B3F. Rescue Mudd.  
-           - Goblin Den optional:  Enter Goblin's Den, defeat goblin group in Northeast part of Den, choosing "Slash" & "Let it Go" as appropriate. Camp if needed.  
-        8. Walk or Harken to B4F. Complete all four rounds of Bunny request, get bond.  Rescue Mudd again, get bond.  
-        9. Stairs down to B5F. Complete Grandchildren request. (Automatically return to town.)  
-        10. Go to Guild. Turn in three requests. Get Donato and Mel bonds.  
-            - Goblin Den optional: Go into Guild Tavern. Talk to Elf about goblins and shiny stones.  
-        12. Enter Abyss, Harken to B5F, step down to B6F. Go through full level reviving Harry when you see him.  
-        13. Return to town. Visit Ira at Temple, pay 500G.  
-        14. Enter Abyss, B7F, go find Harry one more time. Get bond.  
-            - Goblin Den optional: Harken to B3F. Enter Goblin Den. Collect stones along Southeast section and survive ambush. "Let it Go'. Exit/re-enter Goblin Den. Meet leader in Eastern section. "Let it Go". Get bond.  
-        16. Return to town. Visit Ira at Temple, get bond.  
-        17. Guild - accept Undead March quest.  
-        18. Enter Abyss to B7F, win all 4 undead waves. Get bond. (Automatically return to town.)  
-        19. Repeat Cursed Wheel Leaps.  
+
+    1. Sqtep right back up stairs to B7F, step into teleporter, return to Harken  
+    2. Leap to B5F - revive Harry and Ira.  
+    3. Return to town.  Visit Temple for Ira, pay 500gp.  
+    4. Go to Guild. Accept Beheading Bunny, Save the Grandchildren, and Donato Requests.  
+    5. Go to Edge of Town - Beginning Abyss - Abyss Entrance. Take stairs to B1F. Speak to Chris and Mudd. Complete combats for Chris and Donato requests.  
+        - Albano optional: On going to Edge of Town, automatically get Albano bond if Perfect Ending already complete.  
+    7. Harken to B3F. Rescue Mudd.  
+        - Goblin Den optional:  Enter Goblin's Den, defeat goblin group in Northeast part of Den, choosing "Slash" & "Let it Go" as appropriate. Camp if needed.  
+    8. Walk or Harken to B4F. Complete all four rounds of Bunny request, get bond.  Rescue Mudd again, get bond.  
+    9. Stairs down to B5F. Complete Grandchildren request. (Automatically return to town.)  
+    10. Go to Guild. Turn in three requests. Get Donato and Mel bonds.  
+        - Goblin Den optional: Go into Guild Tavern. Talk to Elf about goblins and shiny stones.  
+    12. Enter Abyss, Harken to B5F, step down to B6F. Go through full level reviving Harry when you see him.  
+    13. Return to town. Visit Ira at Temple, pay 500gp.  
+    14. Enter Abyss, B7F, go find Harry one more time. Get bond.  
+        - Goblin Den optional: Harken to B3F. Enter Goblin Den. Collect stones along Southeast section and survive ambush. "Let it Go'. Exit/re-enter Goblin Den. Meet leader in Eastern section. "Let it Go". Get bond.  
+    16. Return to town. Visit Ira at Temple, get bond.  
+    17. Guild - accept Undead March quest.  
+    18. Enter Abyss to B7F, win all 4 undead waves. Get bond. (Automatically return to town.)  
+    19. Repeat Cursed Wheel Leaps.  
