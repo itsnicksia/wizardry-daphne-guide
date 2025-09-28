@@ -46,7 +46,7 @@ take a good while with opposite aligned.
 
 ## Can trust decrease?
 
-Trust can decrease through various factors, though most being rather difficult to measure. This includes dying many many times repeatedly in battle, and triggering the Sinister Whispers trap. It's very difficult however to lose trust faster than you can gain through normal gameplay. In addition, one can specifically lose large amounts of trust of Lanavaille by failing her personal request.
+Trust can decrease through various factors, though most being rather difficult to measure. This includes dying many many times repeatedly in battle, and triggering the Sinister Whispers trap found in Abyss 3 and onwards. It's very difficult however to lose trust faster than you can gain through normal gameplay. In addition, one can specifically lose large amounts of trust of Lanavaille by failing her personal request.
 
 ## Expensive Inn
 
