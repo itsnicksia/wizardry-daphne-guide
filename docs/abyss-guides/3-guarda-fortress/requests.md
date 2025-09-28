@@ -409,14 +409,14 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ##### Strategy
 
 ^^Frontline:^^
-    Preferably very tanky damage dealers Fighters are preferred (as they have Full Power Strike), but Knights can be used too for DPS purposes if they have high level damage skills. Try not to use Light element adventurers, as all the damage done by the enemies are Dark. It's almost MANDATORY to have Assault guard level 1 on all the frontline (Not necessary if you have Undead Resistance and/or Dark Element).
+    Preferably very tanky damage dealers Fighters are preferred (as they have Full Power Strike), but Knights can be used too for DPS purposes if they have high level damage skills. Try not to use Light element adventurers, as all the damage done by the enemies are Dark. It's very recommended to have Assault guard level 1 on all the frontline (Not necessary if you have multiple light gear)
 
 ^^Backline:^^
-    Two priests are preferred, especially if at least one of them can cast mage skills (Kantios). They ideally should both have Madios LvL 3+ and Makaltu Lvl 3+. If you do not have a Knight in the frontline OR are using the Knight for DPS purposes only, you ==WILL need a knight SPECIFICALLY to cast Knight's Defense.== Assault Guard is preferred on all the backline as well.
+    Two priests are preferred, especially if at least one of them can cast mage skills (Kantios). They ideally should both have Madios LvL 3+ and Makaltu Lvl 3+. If you do not have a Knight in the frontline OR are using the Knight for DPS purposes only, you ==WILL need a knight SPECIFICALLY to cast Knight's Defense.== Assault Guard is preferred on all the backline as well. (You do not need a knight if you have multiple pieces of light gear)
 
 ==The Knight casting Knight's Defense needs to be slower than all other party members==, but still be around ~70 ASPD give or take a few to not be outsped later in the fight by the Necrocore. 
 
-Generally speaking, you should try to have Undead Slayer gear for the boss if normal gear isn't doing enough damage.
+Generally speaking, you should try to have Light gear (dark resistance) for the boss if normal gear isn't doing enough damage.
 
 ^^Strategy:^^
     Essentially, this fight is a DPS race to see whether your team can kill the Necrocore before it wipes your team. The fight will ALWAYS start out as an Ambush, and as such, the Necrocore always gets a free hit on your party. He hits EXTREMELY hard and easily deals 500+ damage on an assault guarded frontline with 300+ defense. It's acceptable to restart if he does Spear Thrust instead of Zelos or Mazelos, as those are not affected by the attack buff he casts. Essentially you will be spamming Full Power Strike on Fighters OR Heavy Attack/Precision Strike/Armor Pierce LVL 3+ every turn on ONLY the Necrocore, as the fight will end once the Necrocore dies. Makaltu will help a lot with surviving the onslaught of damage every turn, as it's quite a lot EVEN with Knight's Defense. Two priests are preferred, as you often will need to cast Madios Lvl 3+ on both rows. When you do not need to heal, attempt to cast Kantios on the back row and then the front row. This will reduce the amount of damage you may take, as most of the basic enemies have Instant Kill moves or skills that deal a lot of AOE damage. It's also preferrable for the support adventurers to carry nourishing draught if you need more turns to deal with the Necrocore.
