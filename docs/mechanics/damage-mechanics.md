@@ -1,7 +1,7 @@
 # Damage and Skill Mechanics
 
 ## Surety
-There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit.
+There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit. Dexterity contributes to Surety at a rate of 5 Dex = 1 Surety.
 
 By default, a sure hit acts as a 80% damage increase to the final damage you deal.
 

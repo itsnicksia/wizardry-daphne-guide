@@ -15,7 +15,7 @@ Trait Points are the core seven attributes that influence an adventurer's stats.
 * **Luck**: Affects the outcome of various actions.
 
 !!! note
-    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, it's not entirely clear how `Dexterity` affects `Surety`, but the increase does appear to be very small. In addition, despite the game telling us that HP, MP, and SP are influenced by some traits, the actual amounts appear to be too small to be easily noticeable.
+    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, we know that `Dexterity` increases `Surety` at a rate of 5 `Dexterity` = 1 `Surety`, but we don't know exactly how HP, MP, and SP are influenced by traits.
 
 ### Base Trait Points
 
@@ -144,13 +144,13 @@ There aren't really any bad options here, but the community tends to recommend e
 
 TheAxolotl generally (but not always) does the following for his bonus points:
 
-* Fighter: Strength or Luck
+* Fighter: Strength, Dexterity, or Luck
 * Knight: Luck
 * Thief: Strength, Dexterity, Speed, or Luck
 * Mage: IQ or Speed
 * Priest: Speed, but it largely depends on what its second class is, if one exists
 * Ninja: Strength, Dexterity, or Luck if planning on inheriting Follow Up Attack and Counterattack
-* Samurai: Strength, IQ, Speed, or Luck (if factoring in inherited passive skills)
+* Samurai: Strength, IQ, Dexterity, Speed, or Luck (if factoring in inherited passive skills)
 
 !!! note "You will never ruin an adventurer with your bonus point assignment."
 
