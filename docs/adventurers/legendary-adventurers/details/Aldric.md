@@ -18,6 +18,8 @@
     === "Wisdom of the Crafty Old Dwarf"
         {{ get_skill_description('Wisdom of the Crafty Old Dwarf') }}
 
+        <div class = "nosort-table nofilter-table" markdown>
+
         | Level | Detect/Disarm Trap/Evade Trap (self) | Detect/Disarm Trap/Evade Trap (inherited) |
         |:-----:|:------------------------------------:|:-----------------------------------------:|
         |   1   |                 2/5/2                |                   1/3/1                   |
@@ -27,6 +29,8 @@
         |   5   |                                      |                   8/15/8                  |
         |   6   |                                      |                  10/17/10                 |
         |   7   |                                      |                     -                     |
+
+        </div>
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Blunt Combo Strike"
