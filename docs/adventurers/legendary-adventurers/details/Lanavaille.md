@@ -34,6 +34,7 @@
         {{ get_skill_description('Queen of War and Love') }}
 
         <div class = "nosort-table nofilter-table" markdown>
+        
         | Level | HP recovery amount (self) | HP recovery amount (inherited) |
         |:-----:|:-------------------------:|:------------------------------:|
         |   1   |             12            |                6               |
