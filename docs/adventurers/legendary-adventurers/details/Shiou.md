@@ -40,7 +40,7 @@
 
     Samurai in general are at their best when actively using skills, so they might potentially be weaker than Fighters if you're just doing auto-attack farming, however there are some reports of Shiou (or Samurai in general) being able to put out FPS levels of damage every turn, which is quite substantial.
 
-    One thing that we still need to determine is if the normal attack that comes with Cresting Wave Stance triggers Follow-Up Attack. The wording implies that it would, but early testing indicates that it doesn't. I have reported this as a bug, but we'll see what is really intended.
+    One other thing to note is that Cresting Wave Stance actually uses a basic attack for its damage, which is able to trigger Follow-Up Attack. While this won't ever contribute a large amount of damage, it's still a nice bit of synergy that exists.
 
     Regarding her Discipline, you can't do any better than Attack Power + Surety for a physical damage dealer. That being said, I personally think saving any dupes for inheriting to her own Lingering Blossom is likely going to be the stronger option overall, just due to the high value prop of her self buff. We can't see the magnitude of the increases, but it should be much more substantial than the paltry increase to Attack Power and Surety that Discipline provides.
 
