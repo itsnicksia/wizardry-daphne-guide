@@ -33,6 +33,7 @@
     === "Queen of War and Love"
         {{ get_skill_description('Queen of War and Love') }}
 
+        <div class = "nosort-table nofilter-table" markdown>
         | Level | HP recovery amount (self) | HP recovery amount (inherited) |
         |:-----:|:-------------------------:|:------------------------------:|
         |   1   |             12            |                6               |
@@ -42,6 +43,8 @@
         |   5   |             58            |               30?              |
         |   6   |             68            |               38               |
         |   7   |             85            |                -               |
+
+        </div>
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Stirring Righteousness (Standard)"
