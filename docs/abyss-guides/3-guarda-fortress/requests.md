@@ -362,24 +362,15 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
     If you choose to save both the dog and adventurers at the same time, you will need to fight BOTH, and the def/mdef buff of the defensive golem applies to the offensive golem (but not the other way around for the offensive buff). If you choose to save only either one, you will still need to fight both golems, but one at a time instead.
 
 ??? note "Strategy"
-    ^^Frontline:^^
-    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing with a Divine Power Staff switch for bonus healing. It's also preferable to have entire inventories of Ultra Healing. If possible, 180 evasion or higher is helpful for dodging attacks.
-
-    ^^Backline:^^
-    Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing with a Divine Power switch if they're not healers. Bring as many SP and MP pots as possible. This can be a long battle.
 
     ^^Strategy:^^
-    If your team is fast enough, you have 1 turn to burn the defense golem for as much HP as possible in 1 turn. You need to use defense penetration skills or extremely high level skills, otherwise you will do nothing substantial. 
+    If your team is fast enough, you have 1 turn to burn the golems for as much HP as possible in 1 turn. You need to use defense penetration skills or have relatively high attack preferably using 2h Weapons with enough substats.
 
-    Once the golems buff, ==you must have the ninja use dissipation on the offensive golem==. All units should defend at this point and wait for one of the golems to cause an opening. On average, the offensive golem hits for 200-250 to defending frontline without his damage buff.
+    Once the golems buff, ==you should have the ninja use dissipation on the offensive golem==. You can further reduce their damage by casting Balafeos or smacking the golems with Staff of Weakness.
 
-    Once an opening is created, have your backline opening-hitter do their strongest move against the golem. Every 4 turns, the golems will rebuff. You can tell when they are about to rebuff when the offensive golem has 1 turn of accuracy buff left. At this time it is safe to not defend with frontline and use Self-healing or Potions. This will keep MP costs down, but if you don't have a lot of MP, then it's okay to run another priest/mage with heals. 
+    Repeat until both are dead. Use heals as often as possible. It's entirely possible to evade the golems as well with enough evasion (180+) especially if the accuracy buff is dissipated as well (the attack buff is removed first)
 
-    Repeat until both are dead. Use heals as often as possible. Makaltu might be worth using at low levels to reduce ur overall mp cost in the fight by a bit but it's not necessary, and you will die regardless if the offensive golem moves to the frontline and attacks with the damage buff up. 
-
-    The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reache's near death. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left.
-
-    It is possible to speed up this fight by using Morlis, as that enables physical damage dealers to hit on the golems, but is generally not recommended unless your characters have a lot of evasion to avoid getting hit (180+). Defense penetration weapons or skills do not work, only Morlis appears to do so.
+    The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reaches near death. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left.
 
 ??? note "Additional Notes"
     - If you only save the dog, you get nothing but the stated gold in the request.
