@@ -204,11 +204,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ## Fortress Lower Floors Cleared
 
-## Portrait Gallery Minor Harken
-
 ### Search for Missing Person
-
-!!! warning "As of version 1.4.0, this quest is bugged sometimes. The trigger for the quest does not activate properly, and is instead in a different room"
 
 - Go to **Zone 4 -Underground Tunnel-** to talk to the Singing Skeleton right next to the Harken to accept the request.
 - Go to **Zone 5 -Prehistoric Corridor B3F-** via stairs from Zone 4, as this is usually closer to quest location.
@@ -226,11 +222,11 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ??? note "Rewards"
     Returning the skeleton's friend will grant 2 random Abyss 3 junks and the bondmate "Singing Skeleton in the Tunnel", who is a dark element bondmate that gives defense power.
 
+## Portrait Gallery Minor Harken
+
 ## Ghosts of Yore Vanquished
 
 ### Antique Scarlet Doll
-
-!!! warning "As of version 1.4.0, this quest is bugged sometimes. The spot with the Grey Doll spawn is inaccessible if cursed wheeling from Ghosts Of Yore Vanquished or beyond. One must Cursed wheel to Portait Gallery Minor Harken, clear the floor boss, then attempt the request. Alternatively, you can just set corrosion to being spotted for that floor to prevent overlapping of the golem with the mob."
 
 - Teleport to Zone 6 Harken and walk up the stairs to Zone 7.
 - Go to each location indicated (maps might be different due to Abyss 3 variation, so look for similar room formats). Each location is not indicated on the map, but will be shown as stationary monster encounters on the minimap.
