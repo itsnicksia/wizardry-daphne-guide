@@ -33,7 +33,3 @@ You cannot progress through this floor until you learn another Right Hand of Rev
 -->
 
 *To Be Continued ...*
-
-
-
--->
