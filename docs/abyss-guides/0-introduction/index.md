@@ -62,7 +62,7 @@ Explore the dungeon (see below) until you meet a ghostly Girl - have a chat with
 
 ### Combat!
 
-Before long, you'll find yourself in combat with a Goblin - kick it's ass.  Make sure you pick up all of the equipment scattered about the dungeon; it makes the combat a bit easier.
+Before long, you'll find yourself in combat with a Goblin - kick it's ass.  Make sure you pick up *and equip* all of the equipment scattered about the dungeon; it makes the combat a bit easier.
 
 ### Freedom?
 
