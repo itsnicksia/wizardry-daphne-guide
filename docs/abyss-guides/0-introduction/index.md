@@ -55,11 +55,14 @@ You'll be shown the result and prompted for confirmation after answering the que
 
 If you made a mistake or decide you want a different alignment, just retake the quiz at the end. You can do this as many times as you want ([it can be gradually changed later in the game](../../adventurer-customization/alignment.md)) and then you'll regain control of your character.
 
-Explore the dungeon until you meet a ghostly Girl - have a chat with her and follow her instructions. 
+Explore the dungeon (see below) until you meet a ghostly Girl - have a chat with her and follow her instructions. Don't worry about the rubble and that purple circle yet.  You will be able to come back later to explore that area. 
+
+??? map "Place of Awakening"
+    ![Place of Awakening map](img/place-of-awakening.jpg)
 
 ### Combat!
 
-Before long, you'll find yourself in combat with a Goblin - kick it's ass.
+Before long, you'll find yourself in combat with a Goblin - kick it's ass.  Make sure you pick up all of the equipment scattered about the dungeon; it makes the combat a bit easier.
 
 ### Freedom?
 
