@@ -36,7 +36,8 @@
 
 - Main boss is a Lizardman Champion with around 30k HP. He has very high defense and will summon 4 Lizardman and 2 Sahuagin Mages either immediately if he goes first, or after your first move if you are faster. He will then also immediately buff his team with 4 turns of accuracy, evasion, and action speed. All the mobs besides the main boss has around 5k HP.
 - At around half HP, he can resummon all his allies and rebuff them.
-- On his first turn, he gets to attack 4 turns. As a result it's highly recommended to use Knight's Defense OR defend.
+- On his first turn, he gets to attack 4 turns. As a result it's highly recommended to use Knight's Defense OR defend until their buffs run out.
 - The two sahuagin mages will cast KATINO on your backrow. All the mobs in this fight are susceptible to KATINO themselves however.
 - Completing this fight drops a normal chest from the cave. It's highly recommended to not farm this fight even if you are capable of doing so easily as it's a waste of time.
+- All enemies in this fight are not surety resistant. However, they all have very high evasion so it's recommended to have 150+ Accuracy and to use high accuracy moves.
 
