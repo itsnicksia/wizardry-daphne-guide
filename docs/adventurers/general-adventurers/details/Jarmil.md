@@ -11,10 +11,10 @@
 ??? info "Portraits"
     === "Mage"
         ![](../img/jarmil-mage.jpg)
-<!-- remove when image added
+ 
     === "Thief"
         ![](../img/jarmil-thief.jpg)
--->
+
 
 ## Skills
 
