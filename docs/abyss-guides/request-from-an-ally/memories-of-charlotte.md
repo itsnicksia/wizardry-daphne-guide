@@ -1,9 +1,7 @@
-# Symbol of Alliance
+# Memories of Charlotte
 
 ??? note "Requirements"
-    - Complete Abyss 3 up to the Cursed Wheel Point "Hidden Passage"
-    - Elmon must be alive.
-    - Everyone needs to be saved in Treacherous Trap Traversal in Abyss 1.
+    - Complete Abyss 3 up to the Cursed Wheel Point "Triumphant Return"
     - You must have completed Symbol of Alliance.
 
 ## Map
