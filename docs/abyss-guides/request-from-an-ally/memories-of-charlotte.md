@@ -41,3 +41,29 @@
 - Completing this fight drops a normal chest from the cave. It's highly recommended to not farm this fight even if you are capable of doing so easily as it's a waste of time.
 - All enemies in this fight are not surety resistant. However, they all have very high evasion so it's recommended to have 150+ Accuracy and to use high accuracy moves.
 
+## Chest / Junk Farming
+
+If you don't want to go through the entire quest repeatedly to get ring rewards, the Cave also is provides a fairly decent opportunity to farm high quality Ebonsteel junk.  The procedure below provides a farming route with an efficient chest/junk rate:
+
+1. Use the Cursed Wheel to reset the quest if it’s already completed or if you have enough flowers to complete it… (Just reset it if unsure.)  
+2. Just go to the three circled checkmarks on map below (bottom left, middle, top right). Ignore all other checkmarks.  
+3. Kill miniboss encounters for guaranteed chests at these checkmarks.  
+4. Do not pick any flowers.  
+5. Collect any randomly spawned chests you see on the way to the checkmarks.  
+6. Once those are complete, leave the cave and return to the world map.  
+7. Go right back into the Cave from from world map.  
+8. Repeat.  
+
+??? map "Chest Farming Map"
+    ![](./img/garden-of-the-hundredfold-blossom-farm.jpg)
+
+Difficulty - Mid-to-high (below Bicken, above SSC and Sepa Cave)  
+
+Available Junk:  
+Types: Five Blossom and Roar  
+Tier: 100% Ebonsteel  
+Rarities: "unlabeled" (3* blue max), Commonplace (3* blue max), Fey (6% 4* / 6% purple), Unusual (12% 4* / 12% purple)  
+Weapons: 1H Rods, 2H Staves, 1H Maces, 2H Maces, Spears, 2H Swords, 2H Axes  
+Gear: Cloth and Light Shields, Cloth and Light Helm, Cloth Boots,  Cloth Gloves, unflavoured Ring  
+Racial Gear: Cloth/Light/Heavy anti-beast gloves  
+Special gear: Light Helm, Light Gloves, Anti-Beast with higher EVA  
