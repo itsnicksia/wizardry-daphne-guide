@@ -214,7 +214,7 @@
 ??? map "Final Location"
     ![](img/image_77.jpg)
 
-!!! note "To farm, Cursed Wheel to Arena Round 4 and repeat the request"
+!!! note "To farm, Cursed Wheel to Arena Round 5 and repeat the request"
 
 ## Return to the Capital
 
