@@ -458,6 +458,13 @@
         clickable: false
       },
       {
+        id: 'undead_ward',
+        title: 'Undead Ward',
+        details: 'Quest Reward from "Abyssal Heretic"',
+        image: '',
+        clickable: false
+      },
+      {
         id: 'plague_mask',
         title: 'Plague Mask',
         details: 'Clear all waves in "March of the Undead" request',
@@ -564,13 +571,6 @@
         clickable: false
       },
       { subheader: 'Impregnable Fortress' },
-      {
-        id: 'undead_ward',
-        title: 'Undead Ward',
-        details: 'Quest Reward from "Abyssal Heretic"',
-        image: '',
-        clickable: false
-      },
       {
         id: 'skull_necklace',
         title: 'Skull Necklace',
