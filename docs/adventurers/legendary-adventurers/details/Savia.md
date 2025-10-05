@@ -5,7 +5,7 @@
 **Type**: Dark  
 **Personality**: Evil  
 **Starting Class**: Knight  
-**Class Change**: Savia  
+**Class Change**: Thief  
 **Role**: Support, Damage
 
 ??? info "Portraits"
