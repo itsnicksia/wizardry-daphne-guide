@@ -18,7 +18,7 @@
 ??? map "B2F -Temple-"
 
     !!! note
-        You will fight your real first boss here. Not much to say, use the harken afterwards. Only important thing of note is the room to the right has an infinite respawn mob that you can grind on early levels. If you found the key one B1F, the locked room on the left will have a few adventurer bones to help you build your team (one time only).
+        You will fight your real first boss here. Not much to say, use the harken afterwards. Only important thing of note is the room to the right has an infinite respawn mob that you can grind on early levels. If you found the key on B1F, the locked room on the left will have a few adventurer bones to help you build your team (one time only).
 
     ![](./img/beginning-abyss-b2f.jpg)
 
