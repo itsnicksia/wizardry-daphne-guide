@@ -162,9 +162,10 @@ Your stats page power is calculated through the following formula, which factors
 ### Power Formula
 
 !!! note
-    The formula has been updated now that we have another tier of gear to look at, and it appears to be correct for both Ebonsteel tier gear and lower. 
+    The formula has been updated now that we have another tier of gear to look at, and it appears to be correct for both Ebonsteel tier gear and lower.
+    This formula has also been updated and simplified to incorporate the new `Strength+` calculations. 
 
-`StatsPagePowerValue = SpecialCeiling(MainStat * ClassMod * Sum(%BlessingValues)) + Sum(ScalarBlessingValues) + Sum(ScalarEquipmentValues) + Sum(ScalarSkillValues) + Sum(ScalarTraitMods)`
+`StatsPagePowerValue = (SpecialCeiling(MainStat * ClassMod * Sum(%BlessingValues) + Sum(ScalarBlessingValues)) * (1 + Strength+WeaponMod) + Sum(ScalarEquipmentValues) + Sum(ScalarSkillValues) + Sum(ScalarTraitMods)`
 
 ### Power Formula Variable Definitions
 * `StatsPagePowerValue` is the final power value you see displayed on the stats page.
@@ -179,16 +180,14 @@ Your stats page power is calculated through the following formula, which factors
 * `Sum(ScalarEquipmentValues)` is the summation of the baseline power value of all your equipment. For example, this value is `118` for a `+15 Steel Two-Handed Spear`.
 * `Sum(ScalarSkillValues)` is the sum of all stat values from skills. This ultimately just that parenthesized value on your stats page, and it does adjust automatically to factor in conditional skills such as `2h Weapon Proficiency`.
     * `Priest Weapon Mastery` falls under this category and is already calculated and displayed for you in the parenthesized value. This calculation adds `PIE * 0.2` to Attack Power
-* `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `Strength+` and `I.Q. Conversion`. Note that due to these factoring in the class multiplier, these are also subject to the `SpecialCeiling` rounding.
-    * `Strength+` - see table below.
+* `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `I.Q. Conversion`. One key thing to note here is that `Strength+` has been reworked and is now handled outside of this component - it is differently than `I.Q. Conversion`.
     * `I.Q. Conversion` adds `I.Q. * 0.2` rounded down.
-    * `Nimble Strike` appears to be `DEX * 0.1` rounded down.
 
 ### Strength+
 
-Strength+ is a unique property that appears on 2h weapons that adds a portion of the adventurer's STR value to the attack power. This value factors in the Strength trait, the class multiplier, and a scalar value that changes based on the "tier" of the weapon.
+Strength+ is a unique property that appears on 2h weapons that adds a portion of the adventurer's STR value to the attack power. This value factors in the Strength trait, the class multiplier, all blessings, and a scalar value that changes based on the "tier" of the weapon. It shows up in parentheses as an additive component, however it doesn't show the full additive value because that would make too much sense. Instead, it only shows the `STR * ClassMod * WeaponMod` value.
 
-| Weapon Tier    | Attack Power from Strength+ |
-| -------------- | --------------------------- |
-| Steel or Lower | STR * ClassMod * 0.75       |
-| Ebonsteel      | STR * ClassMod * 1          |
+| Weapon Tier    | Strength+ Weapon Mod | ParenthesizedVisibleValue |
+| -------------- | -------------------- | ------------------------- |
+| Steel or Lower | 0.75                 | STR * ClassMod * 0.75     |
+| Ebonsteel      | 1                    | STR * ClassMod * 1        |
