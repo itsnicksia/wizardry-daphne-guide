@@ -17,7 +17,7 @@ There's not much here, other than a preview of the dungeon style of the Beginnin
 !!! map "Cave of Water"
     ![???](./img/cave-of-water-map.jpg)
 
-This time, you're ability to explore is limited by a strong current of water coming from a serpent-shaped statue.  As anyone can tell you who has progressed to the second Abyss, Trade Waterways dungeon in Port Town, this dungeon is giving a previewing of that Abyss style, and you can only navigate your way to another teleporter that takes you to...  another dungeon.  This one is named "___", and unsurprisingly is a preview dungeon for Abyss 3, the Impregnable Fortress in Guarda called ____.  
+This time, you're ability to explore is limited by a strong current of water coming from a serpent-shaped statue.  As anyone can tell you who has progressed to the second Abyss, Trade Waterways dungeon in Port Town, this dungeon is giving a previewing of that Abyss style, and you can only navigate your way to another teleporter that takes you to...  another dungeon.  This one is named "Cave of Rock", and unsurprisingly is a preview dungeon for Abyss 3, the Impregnable Fortress in Guarda.  
 
 <!--
 NOTE:  Could add game screenshots of performing the reversal actions
