@@ -158,13 +158,13 @@
 ??? map "B7F Locations
 
     === "Map Variation 1"
-        ![harry-b7f-1.jpg](img/harry-b7f-1.jpg)
+        ![harry_b7f_1.jpg](img/harry_b7f_1.jpg)
 
     === "Map Variation 2"
-        ![harry-b7f-2.jpg](img/harry-b7f-2.jpg)
+        ![harry_b7f_2.jpg](img/harry_b7f_2.jpg)
 
     === "Old location (likely a bug)"
-        ![harry-b7f-old.jpg](img/harry-b7f-old.jpg)
+        ![harry_b7f_old.jpg](img/harry_b7f_old.jpg)
 
 !!! note "To farm, Cursed Wheel to Second Major Harken and then start from Step 1."
 
