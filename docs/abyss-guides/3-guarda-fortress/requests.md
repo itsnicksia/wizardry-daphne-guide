@@ -335,11 +335,14 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ??? note "Requirements"
     - [Stopped the Blackmailer](./important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
     - Attained [Rescuing Liam Safely](./requests.md#rescuing-the-little-girl-safely)
+    
+??? map "Map chunk containing the encounter"
+    ![](./img/golem-loc.png)
 
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
 
 1. After accepting the quest, head to Edge of Town to receive more information.
-2. Head to **Zone 5 -Prehistoric Corridor B3F-** and seek out the dog and adventurers.
+2. Head to **Zone 5 -Prehistoric Corridor B3F-** and seek out the dog and adventurers. Because maps are randomized, look for the specific map chunk provided.
 
 ??? note "Enemies"
 
