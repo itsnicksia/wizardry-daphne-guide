@@ -165,7 +165,7 @@ Your stats page power is calculated through the following formula, which factors
     The formula has been updated now that we have another tier of gear to look at, and it appears to be correct for both Ebonsteel tier gear and lower.
     This formula has also been updated and simplified to incorporate the new `Strength+` calculations. 
 
-`StatsPagePowerValue = (SpecialCeiling(MainStat * ClassMod * Sum(%BlessingValues) + Sum(ScalarBlessingValues)) * (1 + Strength+WeaponMod) + Sum(ScalarEquipmentValues) + Sum(ScalarSkillValues) + Sum(ScalarTraitMods)`
+`StatsPagePowerValue = (SpecialCeiling(TraitPoint * ClassMod * Sum(%BlessingValues)) + Sum(ScalarBlessingValues)) * (1 + Strength+WeaponMod) + Sum(OtherValues)`
 
 ### Power Formula Variable Definitions
 * `StatsPagePowerValue` is the final power value you see displayed on the stats page.
@@ -173,15 +173,16 @@ Your stats page power is calculated through the following formula, which factors
     * For example, if you have a Fighter with `51` Strength, the naked, skill-less attack power is `62` instead of the expected `61.2` or even `61` as normal rounding would work. This is the same value you get if you completely unequip a character, then subtract the parenthesized value on the stats page.
     * Continuing the example above, if I completely unequip my Fighter MC, his Strength shows `51(+0)` on the stats page, while his Attack Power shows `93(+31)` on the stats page. Subtracting the `31` from the `93` gives us the `62` that matches `Ceiling(51*1.2)`.
         * This does mean that when reading your stats page, a value of `93(+31)` simply says that `31` points of those `93` total points came from skills. It does not mean that you add the `31` to the `93`. Weird, right?
-* `MainStat` is `Strength`, `IQ`, or `Piety`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, or `Divine Power` respectively.
+* `TraitPoint` is `Strength`, `IQ`, or `Piety`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, or `Divine Power` respectively.
 * `ClassMod` is based on the stats chart above. As an example, Fighters have a `ClassMod` for `Strength` of `1.2`.
 * `Sum(%BlessingValues)` is self-explanatory, but it's the addition of all percentage (example `ATK+19%`) blessing values from your equipment.
 * `Sum(ScalarBlessingValues)` is self-explanatory, but it's the addition of all scalar (example `ATK+11`) blessing values from your equipment.
-* `Sum(ScalarEquipmentValues)` is the summation of the baseline power value of all your equipment. For example, this value is `118` for a `+15 Steel Two-Handed Spear`.
-* `Sum(ScalarSkillValues)` is the sum of all stat values from skills. This ultimately just that parenthesized value on your stats page, and it does adjust automatically to factor in conditional skills such as `2h Weapon Proficiency`.
-    * `Priest Weapon Mastery` falls under this category and is already calculated and displayed for you in the parenthesized value. This calculation adds `PIE * 0.2` to Attack Power
-* `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `I.Q. Conversion`. One key thing to note here is that `Strength+` has been reworked and is now handled outside of this component - it is differently than `I.Q. Conversion`.
-    * `I.Q. Conversion` adds `I.Q. * 0.2` rounded down.
+* `Sum(OtherValues)` is pretty much everything else that increases the stat. Examples of this are:
+    * The flat, non-blessing values found on equipment, including a weapon's attack/magic power.
+    * Stat values from passive skills such as `2h Weapon Proficiency` or `Priest Weapon Mastery`. This is largely just the parenthesized value on your stats page, but see below for the oddity with Strength+.
+        * `Priest Weapon Mastery` adds a rounded `PIE * 0.2` to Attack Power.
+    * Stat values from passive weapon properties such as `I.Q. Conversion`.
+        * `I.Q. Conversion` adds a rounded `IQ * 0.2` to Attack Power.
 
 ### Strength+
 
