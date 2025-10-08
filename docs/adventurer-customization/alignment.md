@@ -29,14 +29,18 @@ Afterwards, there are two main ways to change alignment:
 
 Acts of generosity will shift your alignment towards **Good**:
 
-- When prompted before combat, select "Administer Healing Item"
+- When prompted before combat, select "Administer Healing Item" (+2 good)
+- When prompted before combsat, select "Ignore" (+1 good)
 
 ### Towards Evil
 
 Dishonourable, selfish, or unethical acts will shift your alignment towards **Evil**:
 
 - Sacrificing an adventurer in a certain request for unlocking the Ninja class (See Plot of the Sand Shadow).
-- When prompted before combat, select "Ambush".
+- Stealing flowers from the little girl in a certain request. (See Memories of Charlotte)
+- When prompted before combat, select "Ambush" (+2 evil)
+- When prompted before combat, select "Attack" (+1 evil) 
+- When prompted before combat, select "Plead" (+1 evil)
 
 ## How Long does it take to change Alignment?
 
