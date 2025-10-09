@@ -5,12 +5,15 @@
 **Type**: Water  
 **Personality**: Good  
 **Starting Class**: Fighter  
-**Class Change**:  
+**Class Change**: Knight  
 **Role**: Damage
 
 ??? info "Portraits"
     === "Fighter"
-        ![](../img/livana-fighter.jpg)
+        ![](../img/livana-fighter.jpg)  
+
+    === "Knight"
+        ![](../img/livana-knight.jpg)
 
 ## Skills
 
