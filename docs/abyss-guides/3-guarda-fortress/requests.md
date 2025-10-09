@@ -351,11 +351,11 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
     **Boss: Offensive Golem**
 
-    Will buff itself with an attack + accuracy buff for 4 turns, and it will have the capacity to one shot even tanks that are defending. It will generally spam an AOE frontline attack, but can sometimes do a column attack. Very rarely, it will decide to basic attack. Every 4 turns, it will rebuff itself for another 4 turns. When it's about to die, it will buff itself with an accuracy buff and damage buff for 4 turns that isn't as strong as its usual buff. However, the attack buff does not stack with the other attack buff, but the accuracy buffs stack.
+    Will buff itself with an attack + accuracy buff for 4 turns, and it will have the capacity to one shot even tanks that are defending. It will generally spam an AOE frontline attack, but can sometimes do a column attack. Very rarely, it will decide to basic attack. Every 4 turns, it will rebuff itself for another 4 turns. When it's about to die, it will buff itself with an accuracy buff and damage buff for 4 turns that isn't as strong as its usual buff. However, the attack buff does not stack with the other attack buff, but the accuracy buffs stack. This golem has around 24k HP and uses Core Activation when it has around 5-6k HP remaining.
 
     **Boss: Defensive Golem**
 
-    It will buff itself on turn 1 with extremely high defense/magic defense (it will take 0 damage in almost all cases). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the def/mdef buff (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns.
+    It will buff itself on turn 1 for extremely high defense/magic defense. It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the def/mdef buff (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns. This golem has around 10k HP and uses Core Activation when it has around 2k HP remaining.
 
 ??? note "Saving the Dog and Adventurers"
     If you choose to save both the dog and adventurers at the same time, you will need to fight BOTH, and the def/mdef buff of the defensive golem applies to the offensive golem (but not the other way around for the offensive buff). If you choose to save only either one, you will still need to fight both golems, but one at a time instead.
@@ -367,9 +367,11 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
     Once the golems buff, ==you should have the ninja use dissipation on the offensive golem==. You can further reduce their damage by casting Balafeos or smacking the golems with Staff of Weakness.
 
-    Repeat until both are dead. Use heals as often as possible. It's entirely possible to evade the golems as well with enough evasion (180+) especially if the accuracy buff is dissipated as well (the attack buff is removed first)
+    Repeat until both are dead. Use heals as often as possible. It's entirely possible to evade the golems as well with enough evasion (180+) especially if the accuracy buff is dissipated as well (the attack buff is removed first).
 
-    The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reaches near death. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left.
+    The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reaches near death because of Core Activation. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left. 
+
+    It's generally recommended to use 2H for this fight as these golems have very high defense. If you'd like to play it safe, Knight's Defense is an option here to tank 1 turn of undissipated damage. Samurai quickdraw stance here is also very effective as the golems can only cast physical attacks.
 
 ??? note "Additional Notes"
     - If you only save the dog, you get nothing but the stated gold in the request.
