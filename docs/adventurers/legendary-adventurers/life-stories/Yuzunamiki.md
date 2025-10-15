@@ -42,7 +42,15 @@ Yuzunamiki alighted in the Flower District: her stance a vision of perfect grace
 To any she exchanged even a few words with, her very presence was enthralling, and she quickly became the subject of wide fascination.  
 
 ### Page 4
+Yuzunamiki was bestowed the title of supreme flower "Princess," blooming in the garden of the night, and came to be called the Dancing Maiden, captivating all who beheld her. Even the most renowned warlords yielded to her charm. And from them she drew, with exquisite cunning, whatever information they possessed.  
 
+The strategies of hostile households, the strength and disposition of their armies, the intricacies of the terrain, and even their schemes of assassination-all were borne to the Eastern army beneath the standard of Shrine Maiden Dougen, and, through the subtle labors of Yuzunamiki, shaped the fortunes of battle for the Eastern cause.  
+
+On the eve of the decisive battle that would fulfill their long-cherished aim, Yuzunamiki was visited by a senior apprentice, the most skilled among Violet Flash. Word had come that the Western Army's great general had drawn his forces near the Flower District.  
+
+"They will come to the Flower District. If the Western general's head were to be taken, the Eastern army's victory in tomorrow's battle will be all but assured." So the senior apprentice spoke. Against the power of the Western army, the strength of the Eastern army fell short. The fate of the East would be decided by the success or failure of this mission.
+
+Yuzunamiki's charge was to bear tidings of his triumph to the Violet Flash, the foxfire itself serving as the silent messenger. She lingered in the shadowed night, every breath drawn in solemn wait for the flame to arise.
 
 ### Page 5
 
