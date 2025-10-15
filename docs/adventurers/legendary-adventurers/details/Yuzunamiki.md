@@ -25,7 +25,7 @@
 !!! info "Discipline Skill"
     === "Pinnacle of the Flower District"
         {{ get_skill_description("Pinnacle of the Flower District") }}
--->
+
 ## Adventurer Reviews
 
 ??? info "TheAxolotl's Analysis"
