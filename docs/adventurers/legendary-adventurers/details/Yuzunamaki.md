@@ -1,6 +1,6 @@
-# Yuzunamaki
+# Yuzunamaki  
 
-**Race**: Beastfolk
+**Race**: Beastfolk  
 **Gender**: Female  
 **Type**:   
 **Personality**: Evil  
