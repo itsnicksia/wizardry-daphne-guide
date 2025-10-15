@@ -2,7 +2,7 @@
 
 **Race**: Beastfolk  
 **Gender**: Female  
-**Type**: Fire   
+**Type**: Earth   
 **Personality**: Evil  
 **Starting Class**: Ninja  
 **Class Change**:  
