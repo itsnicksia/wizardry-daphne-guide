@@ -48,9 +48,19 @@ The strategies of hostile households, the strength and disposition of their armi
 
 On the eve of the decisive battle that would fulfill their long-cherished aim, Yuzunamiki was visited by a senior apprentice, the most skilled among Violet Flash. Word had come that the Western Army's great general had drawn his forces near the Flower District.  
 
-"They will come to the Flower District. If the Western general's head were to be taken, the Eastern army's victory in tomorrow's battle will be all but assured." So the senior apprentice spoke. Against the power of the Western army, the strength of the Eastern army fell short. The fate of the East would be decided by the success or failure of this mission.
+"They will come to the Flower District. If the Western general's head were to be taken, the Eastern army's victory in tomorrow's battle will be all but assured." So the senior apprentice spoke. Against the power of the Western army, the strength of the Eastern army fell short. The fate of the East would be decided by the success or failure of this mission.  
 
-Yuzunamiki's charge was to bear tidings of his triumph to the Violet Flash, the foxfire itself serving as the silent messenger. She lingered in the shadowed night, every breath drawn in solemn wait for the flame to arise.
+Yuzunamiki's charge was to bear tidings of his triumph to the Violet Flash, the foxfire itself serving as the silent messenger. She lingered in the shadowed night, every breath drawn in solemn wait for the flame to arise.  
 
 ### Page 5
+The senior apprentice was a shinobi who always fulfilled his missions with unfailing punctuality. Yet when the appointed hour arrived, no word of the assassination's success came. Yuzunamiki, a shadow among shadows, silently followed his trail through the darkness.  
 
+Flitting through the night, her keen ears caught the faint creak of warrior armor. She had located a party of warriors attempting to leave the Flower District. The general of the Western army walked among them, and in his hands he bore the severed head of the senior apprentice.  
+
+"My ally has failed. Then it falls to me to see this done."  
+
+Her skills in assassination and combat fell short of those of her senior apprentice. Yet Yuzunamiki did not hesitate. Like a shadow upon the night, she trailed the warrior party, setting her sights with unwavering intent upon the head of their general.  
+
+At dawn, in the shadowed alleys of the Flower District, the body of the Western general was discovered. Only a single, diminutive footprint marked the scene. Entering battle in disarray and confusion, the Western host met the Eastern banners and was utterly shattered.  
+
+In the years that followed, word spread among the shinobi that a woman had succeeded the leader of Violet Flash, yet none ever realized that she was the Dancing Maiden of the Flower District.  
