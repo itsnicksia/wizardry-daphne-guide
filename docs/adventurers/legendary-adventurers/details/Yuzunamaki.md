@@ -8,9 +8,9 @@
 **Class Change**:  
 **Role**: Damage, Support
 
-??? info "Portraits"
-    === "Ninja"
-        ![](../img/yuzunamaki-ninja.jpg)
+??? info "Portraits"  
+    === "Ninja"  
+        ![](../img/yuzunamiki-ninja.jpg)  
 
 ## Skills
 
