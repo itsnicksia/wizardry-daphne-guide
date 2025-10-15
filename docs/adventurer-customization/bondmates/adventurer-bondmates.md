@@ -77,3 +77,4 @@
 | Valdor       | IQ                  |
 | Viviana      | SPD                 |
 | Yekatarina   | IQ                  |
+| Yuzunamiki   |                     |
