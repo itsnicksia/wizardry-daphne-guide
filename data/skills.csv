@@ -102,6 +102,8 @@ Flutterdream Flash,Passive,True,"Minor physical attack on 1 enemy at the start o
 Follow-Up Attack,Passive,True,Chance to increase Attack Rate during normal attacks (affected by luck).,Probability increased based on skill level.,18,Fighter,,Elda,
 FOROS,Damage,,Launches an orb of light that deals minor light spell damage to 1 enemy.,Efficacy increased based on skill level.,0,Mage,,,
 Fortified Strike,Active,,Launches 2 minor physical attacks on 1 enemy. Efficacy increases with Defense Power and Magic Defense.,Efficacy increased based on skill level.,54,Knight,Melee/mid-range weapon-specific,,
+Foxfire Assault,Passive,,"For the first 3 turns of battle, when attacking an enemy, Foxfire performs a minor physical attack based on Attack Power that has a guaranteed hit. Hit enemies take increased damage for 3 turns. If there are multiple enemies, the target is chosen at random. If this skill damages an already Charmed enemy, the Charm status affliction will not be removed.",,,,,Yuzunamaki,
+
 Frugal Faith,Passive,,Continuously reduces the MP/SP cost of Priest spells/skills that cost 3-10 MP/SP or less.,,,,,Marianne,
 Fulfillment of Loyalty,Discipline,,"Continuously increases each stat, with HP and Attack Power increased even further.",HP and Attack Power increased further based on skill level.,,,,Bugen,
 Full Power Strike,Active,True,Gathers strength to launch a major physical attack with high Accuracy on 1 enemy.,Efficacy increased based on skill level.,54,Fighter,Fighter-specific,Elda,
