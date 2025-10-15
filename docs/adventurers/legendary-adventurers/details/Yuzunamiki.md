@@ -1,4 +1,4 @@
-# Yuzunamaki  
+# Yuzunamiki  
 
 **Race**: Beastfolk  
 **Gender**: Female  

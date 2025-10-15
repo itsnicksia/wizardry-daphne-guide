@@ -102,7 +102,7 @@ Flutterdream Flash,Passive,True,"Minor physical attack on 1 enemy at the start o
 Follow-Up Attack,Passive,True,Chance to increase Attack Rate during normal attacks (affected by luck).,Probability increased based on skill level.,18,Fighter,,Elda,
 FOROS,Damage,,Launches an orb of light that deals minor light spell damage to 1 enemy.,Efficacy increased based on skill level.,0,Mage,,,
 Fortified Strike,Active,,Launches 2 minor physical attacks on 1 enemy. Efficacy increases with Defense Power and Magic Defense.,Efficacy increased based on skill level.,54,Knight,Melee/mid-range weapon-specific,,
-Foxfire Assault,Passive,,"For the first 3 turns of battle, when attacking an enemy, Foxfire performs a minor physical attack based on Attack Power that has a guaranteed hit. Hit enemies take increased damage for 3 turns. If there are multiple enemies, the target is chosen at random. If this skill damages an already Charmed enemy, the Charm status affliction will not be removed.",,,,,Yuzunamaki,
+Foxfire Assault,Passive,,"For the first 3 turns of battle, when attacking an enemy, Foxfire performs a minor physical attack based on Attack Power that has a guaranteed hit. Hit enemies take increased damage for 3 turns. If there are multiple enemies, the target is chosen at random. If this skill damages an already Charmed enemy, the Charm status affliction will not be removed.",,,,,Yuzunamiki,
 
 Frugal Faith,Passive,,Continuously reduces the MP/SP cost of Priest spells/skills that cost 3-10 MP/SP or less.,,,,,Marianne,
 Fulfillment of Loyalty,Discipline,,"Continuously increases each stat, with HP and Attack Power increased even further.",HP and Attack Power increased further based on skill level.,,,,Bugen,
@@ -239,7 +239,7 @@ Passive Surety Rate Up (Mind),Passive,,Continuously increases Surety.,Surety inc
 Passive Surety Up (Ninja),Passive,,Continuously increases Surety.,Surety increased further based on skill level.,18,Ninja,,,
 Passive Surety Up (Thief),Passive,True,Continuously increases Surety.,Surety increased further based on skill level.,13,Thief,,,Viviana
 Path Walked with a Skull,Discipline,,"Continuously increases each stat, with HP and MP increased even further.",HP and MP increased further based on skill level.,,,,Yekatarina,
-Pinnacle of the Flower District,Discipline,,"Continuously increases each stat, with SP ad Attack Power increased further.",SP and Attack Power increased further based on skill level.,,,,Yuzunamaki,
+Pinnacle of the Flower District,Discipline,,"Continuously increases each stat, with SP ad Attack Power increased further.",SP and Attack Power increased further based on skill level.,,,,Yuzunamiki,
 Planned Hunting,Passive,,Increases damage against magical beasts and decreases damage from magical beasts.,,,,,Benjamin,
 Poison Attack,Active,True,Minor physical attack on 1 enemy. Chance to poison based on the user's Dexterity.,Efficacy and probability increased and poison damage augmented based on skill level.,23,Thief,,Milana,
 PORTO,Support,,Blows a tailwind that increases the Action Speed of 1 ally for 3 turns.,Action Speed incrementally increased further based on skill level. More turns added.,8,Priest,,,
@@ -287,7 +287,7 @@ Tall Mage,Discipline,,"Continuously increases each stat, with Attack Power, SP, 
 The One Who Enforces,Passive,,Increases Surety and Accuracy when equipped with a two-handed axe.,,,,,Livana,
 Thief's Guild Trainee,Discipline,,Continuously increases each stat. SP and Disarm Trap increased further.,SP and Disarm Trap increased further based on skill level.,,,,Viviana,
 Thievery Proficiency,Passive,,Continuously reduces the SP cost of Thief skills.,SP cost reduced further based on skill level.,,,,,
-Thousand Hue Blossom,Active,True,"Performs a minor physical attack on a random target, with double the hit count, and a chance to inflict Charm. If this skill damages an already Charmed enemy, the Charm status affliction will not be removed. Charm effect is lost and damage is reduced if learned by someone other than Yuzunamiki.",Efficacy increased based on skill level and chance of inflicting Charm increased further.,,,Long-range weapon-specific,,Yuzunamaki
+Thousand Hue Blossom,Active,True,"Performs a minor physical attack on a random target, with double the hit count, and a chance to inflict Charm. If this skill damages an already Charmed enemy, the Charm status affliction will not be removed. Charm effect is lost and damage is reduced if learned by someone other than Yuzunamiki.",Efficacy increased based on skill level and chance of inflicting Charm increased further.,,,Long-range weapon-specific,,Yuzunamiki
 Thundersmiter's Protection,Discipline,,Continuously increases each stat. Evasion and Action Speed increased further.,Evasion and Action Speed increased further based on skill level.,,,,Gerard,
 Thunderstrike,Active,True,"Moderate air type physical attack on 1 enemy. Low chance of inflicting Paralysis on target. Damage is reduced if learned by someone other than Gerard.",Efficacy increased based on skill level and chance of inflicting Paralysis increased.,,,,Gerard,
 Tide-Bearer,Support,,Imbues the equipped katana with a water-type trait.,Damage dealt when striking a weak point with a water-type weapon increased based on skill level.,1/20/30/40,Samurai,"Samurai-specific, Katana-specific",,
