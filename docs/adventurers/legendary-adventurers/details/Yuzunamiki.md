@@ -36,7 +36,7 @@
 
     Her passive, Foxfire Assault, provides a debuff to enemies she hits during the first 3 turns that increases damage dealt to them by the party by roughly 5%. The debuff lasts for 3 turns and is subject to extension from Alice inherits, so definitely give her some of those! If hitting the same enemy multiple turns, the timer gets reset, so she can effectively maintain the debuff for 6 enemy turns without an inherit. Since it is a debuff, be mindful of the 3 debuff limit during those first turns. Also keep in mind that this is enemy turns and not her turns, so enemies that perform two consecutive actions will have this duration shortened.
 
-    Her Discipline, Pinnacle of the FLower District, is a welcome Attack Power and SP boost, which is always welcome.
+    Her Discipline, Pinnacle of the Flower District boosts Attack Power and SP, which are both solid minor increases and, while welcome, aren't going to be as impactful as more levels in her skill would be.
 
     The biggest question people will have is around how she compares to Rinne and if she's worth pulling for. Compared to Rinne, she should be consistently doing higher single target damage, which is something that Ninjas currently struggle in. If you want to pick one to run, Yuzu is going to likely be the stronger one. That being said, nothing should stop you from running both, as they are very exceptional adventurers.
 
