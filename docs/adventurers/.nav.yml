@@ -62,6 +62,12 @@ nav:
     - Yekaterina:
         - Details: './legendary-adventurers/details/Yekaterina.md'
         - Life Story: './legendary-adventurers/life-stories/Yekaterina.md'
+    - Yuzunamaki:
+        - Details: './legendary-adventurers/details/Yuzunamaki.md'
+        - Life Story: './legendary-adventurers/life-stories/Yuzunamaki.md'
+
+  
+  
   - Legendary Requests:
     - Adam - Unnamed Request: './legendary-adventurers/legendary-requests/adam/adam-request.md'
     - Debra - Investigate the Island of Ghosts: './legendary-adventurers/legendary-requests/debra/debra-request.md'
