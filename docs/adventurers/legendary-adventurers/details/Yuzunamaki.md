@@ -20,7 +20,7 @@
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Foxfire Assault"
-        {{ get_skill_description("Foxfore Assault") }}
+        {{ get_skill_description("Foxfire Assault") }}
 
 !!! info "Discipline Skill"
     === "Pinnacle of the Flower District"
