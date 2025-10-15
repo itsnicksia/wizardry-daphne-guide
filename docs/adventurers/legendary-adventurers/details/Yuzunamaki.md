@@ -2,11 +2,11 @@
 
 **Race**: Beastfolk  
 **Gender**: Female  
-**Type**:   
+**Type**: Fire   
 **Personality**: Evil  
 **Starting Class**: Ninja  
 **Class Change**:  
-**Role**: 
+**Role**: Damage, Support
 
 ??? info "Portraits"
     === "Ninja"
@@ -14,18 +14,17 @@
 
 ## Skills
 
-TBD<!--
 !!! info "Unique Skill (Inheritable)"
-    === "Flutterdream Flash"
-        {{ get_skill_description('Flutterdream Flash') }}
+    === "Thousand Hue Blossom"
+        {{ get_skill_description("Thousand Hue Blossom") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Flickering Fang"
-        {{ get_skill_description('Flickering Fang') }}
+    === "Foxfire Assault"
+        {{ get_skill_description("Foxfore Assault") }}
 
 !!! info "Discipline Skill"
-    === "Blessing of Owen"
-        {{ get_skill_description('Blessing of Owen') }}
+    === "Pinnacle of the Flower District"
+        {{ get_skill_description("Pinnacle of the Flower District") }}
 -->
 ## Adventurer Reviews
 TBD
