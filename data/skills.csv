@@ -237,6 +237,7 @@ Passive Surety Rate Up (Mind),Passive,,Continuously increases Surety.,Surety inc
 Passive Surety Up (Ninja),Passive,,Continuously increases Surety.,Surety increased further based on skill level.,18,Ninja,,,
 Passive Surety Up (Thief),Passive,True,Continuously increases Surety.,Surety increased further based on skill level.,13,Thief,,,Viviana
 Path Walked with a Skull,Discipline,,"Continuously increases each stat, with HP and MP increased even further.",HP and MP increased further based on skill level.,,,,Yekatarina,
+Pinnacle of the Flower District,Discipline,,"Continuously increases each stat, with SP ad Attack Power increased further.",SP and Attack Power increased further based on skill level.,,,,Yuzunamaki,
 Planned Hunting,Passive,,Increases damage against magical beasts and decreases damage from magical beasts.,,,,,Benjamin,
 Poison Attack,Active,True,Minor physical attack on 1 enemy. Chance to poison based on the user's Dexterity.,Efficacy and probability increased and poison damage augmented based on skill level.,23,Thief,,Milana,
 PORTO,Support,,Blows a tailwind that increases the Action Speed of 1 ally for 3 turns.,Action Speed incrementally increased further based on skill level. More turns added.,8,Priest,,,
