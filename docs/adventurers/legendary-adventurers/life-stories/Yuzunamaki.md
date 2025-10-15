@@ -29,7 +29,17 @@ Yuzunamiki entered the training of the Violet Flash shinobi. She was behind the 
 The absence of needless longing or attachment, which could impede her duties, was counted as a sign of her aptitude as a shinobi.  
 
 ### Page 3
+Yuzunamiki pursued her training with steadfast silence, and in time she came to execute missions as a shinobi. Her primary missions were the gathering of intelligence, infiltration, and covert operations.  
 
+Yuzunamiki took on the guise of townswomen, traveling shrine maidens, and serving girls within noble estates; her deeds accumulated with steadfast diligence. Though she faced perils that threatened her very life, she clung to survival, lest all memory of her family vanish from the world.  
+
+In those days, the East was mired in strife, with no end in sight. Under the standard of Shrine Maiden Dougen, whose presence inspired the Eastern host to seek unity, Violet Flash fulfilled innumerable missions.  
+
+A new charge was laid upon Violet Flash: the dispatch of spies. The objective lay in a vast pleasure quarter-the Flower District. It was a melting pot where all manner of men and women converged; a place where the most gifted of women were said to be coveted by samurai households as their consorts.  
+
+Yuzunamiki alighted in the Flower District: her stance a vision of perfect grace, the movements of her dance radiant, her smile steeped in otherworldly charm.  
+
+To any she exchanged even a few words with, her very presence was enthralling, and she quickly became the subject of wide fascination.  
 
 ### Page 4
 
