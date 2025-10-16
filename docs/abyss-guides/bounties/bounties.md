@@ -62,6 +62,8 @@ This is a new tab in the requests section that will be unlocked once the require
 
 - It's possible to farm a specific bounty simply by cursed wheeling in place, typically to an Abyss Cleared point. Bounties will provide exchange shop points infinitely.
 - It's possible for applicable bounty monsters to spawn as a relic version.
+- It currently costs around 39,700 points to buy out the respawning items in the shop every month.
+- It's recommended to farm Veigar as he is always in a set location close to a Harken and easier to deal with than some other bounties.
 
 
 
