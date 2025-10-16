@@ -42,11 +42,46 @@
 
     The big thing to keep in mind with pulling for her is that we have a new class coming soon. Yes, she's strong, but she's released at a time where the meta is 2h weapons with Strength+ and we have no idea what the new class is going to bring to the table. Consider those factors before making your choice!
 
+??? info "Karkarov's Analysis"
+
+    The anniversary unit has landed and the gooners have been blessed with their fox lady beast folk evil Ninja with Japanese Geisha vibes, and her name is Yuzunamiki!  Is she actually a good character though or just all looks?  Good news, she is definitely not all looks.
+
+    So the good, as a Beastfolk Yuzu is the statistically best suited race for the Ninja class.  With her banner including a gacha Kunai (which happens to be insanely powerful) and changes to allow the purchasing of heat haze junk with ration points, and ability to just buy a bronze kunai in the item shop, it's no longer difficult to get a kunai either.  This means you can easily slot this evil geishi fox on the back row and be fully effective while working with the Alice row buff if desired.  Her discipline for those who want to push it is +attack power and SP.  I guess it could have been Surety instead of SP but this is still a great discipline for Ninja.  Her one question mark will be the element, as she is Earth.  Abyss 4 has not been revealed yet (10/16/25 as of writing) but there is a strong suspicion it will be a Wind element dungeon, and that is bad for Earth characters.
+
+    What about those skills though?
+
+    First up is the unique inheritable skill "Thousand Hue Blosoom".  Minor damage?  Doesn't sound good.  Can charm the enemy (only on Yuzu, this is lost as an inherit), thats nice but I feel very situational.  Doesn't break charm if it hits a charmed enemy, ok nice I guess?  12 sp?  Same as Covert Strike, and Heavy Attack 3... I don't know not feeling it...  Random targets?  What is this nonsense!!!!  Oh and it doubles your number of attacks so a Ninja with a normal x2 weapon dual wield set up hit's 8 times.  Oh and the random target is per hit, not "game randomly chooses one target to take all hits" so it's functionally an AOE when there are multiple enemies.  Let's test it... oh it seems to get a damage lift on each hit also similar to Heavy Attack 3 at level 1...
+    
+    In other words... imagine if you could full power strike level 1 every turn, but in exchange it costs 2 more SP and you can't specifically target the skill.  Cause FPS level 1 is basically about equal to two uses of HA 3, and this is HA 3.... twice for one skill.  Remember for the same SP cost it doubles the hits with the same damage uplift, all you really lose is the + accuracy.  Yes, this is basically a one round, no set up needed, might charm, is funtionally an aoe, 12 SP full power strike replacer.  The only thing holding this skill back on Yuzu herself is high defense enemies, but if you get her gacha Kunai.... it has defense pen, and it's a x3 hitting kunai. 
+    
+    How about as an inherit?  While it does suffer some damage loss and lose the ability to charm it still easily out performs HA 3 for the same SP cost.  Inherit this on a two hand axe wielding fighter = profit too.  How about a cuisinart user, would you like 6 hit HA 3 for the same SP cost just no accuracy bonus?  It gets even uglier at level 3.  God forbid you go Mody Dick mode and get 2 Gacha Kunai for a total of x12 hits on a Ninja.
+
+    Seriously "Thousand Hue Blossom" is a fantastic skill on Yuzu, and really really good as an inherit.  This skill alone is enough to make this banner something any player should consider.
+
+    What about her uninheritable unique skill "Foxfire Assault"?  Well one it has a cool as hell name, but is it a good skill?  Lets break down the wall of test game descprition.
+    
+    Effectively what this skill does is on regular attack (yes regular attack, not skill use) Yuzu will do +1 additionl hit on a random enemy with the damage being based on her total attack power.  So it tends to hit a little harder than her normal hits.  It also can inflict a damage taken up debuff on the target (yes the Alice inherit increases the duration), and if the enemy is Charmed it wont break Charm.  Nice.  Even better, she does it on her first 3 attacks per fight, allowing her to keep this damage up debuff applied consistently.  This skill wont burn the house down despite the name (lol puns) but it is absolutely a great damage and debuff add that can last into combat for a good bit.  This skill can also proc off Flutter Dream Flash but it is a bit weak there as FDF has a damage penalty on top.
+    
+    This skill makes her a very very strong auto farm unit as well.  Actually with the auto farming changes both of her skills are great for auto farming.
+
+    Ok well something has to be bad right?  Whats the bad Karkarov?
+
+    ...
+
+    She could have been male for slightly more meta trait bonuses?  She can't use a two hander?  I don't know what you want me to say?  Her skills are awesome and she is now easily the best Ninja in the game.  She doesn't even really need any special inherits you wouldn't want to give to any other Ninja.  Drecom knew exactly what they were doing this time and they delievered a great character that has a very clear DPS and CC role synergy that can work well in both manual and auto play.  Also yeah, her design is great I can't lie.  They did the anniversay character reveal right with Yuzunamiki.
+
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
 
     I pulled multiple copies because despite the current meta, I'm a fan of Ninjas, as well as her damage + utility combination and her aesthetic.
+
+??? note "Karkarov's Pull Plan"
+
+    This is a simple question.  Do you like Ninja's?  If yes, you need to pull on this banner.  Yuzu is the clear queen of the ninja class now, and as of writing this (10/16/25) her gacha Kunai even at 1 star white is not only the best Kunai in the game... it's the best one hand weapon in the game.  Even a brand new player should consider pulling here as she can be a great long term party member option, you wont be in abyss 1/2 forever.  The only reason you would not pull on this banner is you just have no gems and refuse to spend, or you hate the Ninja class.  If so fair enough, hate Ninja's = pass on this banner.
+
+    My advice?  Pull 3 copies of Yuzunamiki.  1 to use, 2 to level her "Hue" skill to level 3.  If you can justify it, get a Kunai too.  Even at just 1 copy she can be a great unit, a great inherit, or a big boost to your auto farming party.  She is definitely getting slotted into my team.
 
 ## Duplicate Usage
 
