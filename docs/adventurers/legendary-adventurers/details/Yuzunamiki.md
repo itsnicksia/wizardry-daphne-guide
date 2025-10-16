@@ -54,21 +54,23 @@
     
     In other words... imagine if you could full power strike level 1 every turn, but in exchange it costs 2 more SP and you can't specifically target the skill.  Cause FPS level 1 is basically about equal to two uses of HA 3, and this is HA 3.... twice for one skill.  Remember for the same SP cost it doubles the hits with the same damage uplift, all you really lose is the + accuracy.  Yes, this is basically a one round, no set up needed, might charm, is funtionally an aoe, 12 SP full power strike replacer.  The only thing holding this skill back on Yuzu herself is high defense enemies, but if you get her gacha Kunai.... it has defense pen, and it's a x3 hitting kunai. 
     
-    How about as an inherit?  While it does suffer some damage loss and lose the ability to charm it still easily out performs HA 3 for the same SP cost.  Inherit this on a two hand axe wielding fighter = profit too.  How about a cuisinart user, would you like 6 hit HA 3 for the same SP cost just no accuracy bonus?  It gets even uglier at level 3.  God forbid you go Mody Dick mode and get 2 Gacha Kunai for a total of x12 hits on a Ninja.
+    How about as an inherit?  While it does suffer some damage loss and lose the ability to charm it still easily out performs HA 3 for the same SP cost.  Inherit this on a bow wielding Fighter or Thief = profit.  How about on the MC as Ninja with his own Kunai?  This skill gets even uglier at level 3 as even inherited it keeps pace with the HA5 damage bonus.  God forbid you go Mody Dick mode and get 2 Gacha Kunai for a total of x12 hits on Yuzu or a differenty ninja.
 
-    Seriously "Thousand Hue Blossom" is a fantastic skill on Yuzu, and really really good as an inherit.  This skill alone is enough to make this banner something any player should consider.
+    Seriously "Thousand Hue Blossom" is a fantastic skill on Yuzu, and really really good as an inherit.  This skill alone is enough to make this banner something any player should consider.  The only problem is that it is ranged only.  Maybe if we all submit bug reports and claim it should have worked on melee Drecom will cave and change it?  It wouldn't be the first time...
 
-    What about her uninheritable unique skill "Foxfire Assault"?  Well one it has a cool as hell name, but is it a good skill?  Lets break down the wall of test game descprition.
+    What about her uninheritable unique skill "Foxfire Assault"?  Well one it has a cool as hell name, but is it a good skill?  Lets break down the wall of text game descprition.
     
     Effectively what this skill does is on regular attack (yes regular attack, not skill use) Yuzu will do +1 additionl hit on a random enemy with the damage being based on her total attack power.  So it tends to hit a little harder than her normal hits.  It also can inflict a damage taken up debuff on the target (yes the Alice inherit increases the duration), and if the enemy is Charmed it wont break Charm.  Nice.  Even better, she does it on her first 3 attacks per fight, allowing her to keep this damage up debuff applied consistently.  This skill wont burn the house down despite the name (lol puns) but it is absolutely a great damage and debuff add that can last into combat for a good bit.  This skill can also proc off Flutter Dream Flash but it is a bit weak there as FDF has a damage penalty on top.
     
     This skill makes her a very very strong auto farm unit as well.  Actually with the auto farming changes both of her skills are great for auto farming.
 
-    Ok well something has to be bad right?  Whats the bad Karkarov?
+    Ok well something has to be bad right?  What's the bad Karkarov?
 
     ...
 
-    She could have been male for slightly more meta trait bonuses?  She can't use a two hander?  I don't know what you want me to say?  Her skills are awesome and she is now easily the best Ninja in the game.  She doesn't even really need any special inherits you wouldn't want to give to any other Ninja.  Drecom knew exactly what they were doing this time and they delievered a great character that has a very clear DPS and CC role synergy that can work well in both manual and auto play.  Also yeah, her design is great I can't lie.  They did the anniversay character reveal right with Yuzunamiki.
+    She could have been male for slightly more meta trait bonuses?  She can't use a two hander?  I don't know what you want me to say?  Oh wait there is one thing... other Abyss Guides for this wiki have advised me she is low tier on the Panty tier list due to the black color.  That's definitely a let down.
+    
+    But seriously her skills are awesome and she is now easily the best Ninja in the game.  She doesn't even really need any special inherits you wouldn't want to give to any other Ninja.  Drecom knew exactly what they were doing this time and they delievered a great character that has a very clear DPS and CC role synergy that can work well in both manual and auto play.  Also yeah, her design is great I can't lie.  They did the anniversay character reveal right with Yuzunamiki.
 
 
 ## Adventurer Pull Plans
