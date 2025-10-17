@@ -24,6 +24,12 @@ Contracts are essentially applied to an adventurer and provide a sizeable buff w
         - Boosts contracted user's SP by user's Base Value. Row loses ~30% base HP.
         - If user dies, and MC fails to resurrect user, MC dies. Reawakening isn't possible, and Harken doesn't prevent death. User's fortitude is reduced to 0 and cannot recover.
 
+!!! note "Contract of Bone Reclamation"
+    ![](./img/contract-5.png)
+
+        - Boosts number of chests openable per run in the Ancient Mausoleum. 1-2 Contracts = 1 more chest, 3-4 Contracts = 2 more chests, 5-6 Contracts = 3 more chests.
+        - All stats on the contracted unit will decrease, with smaller reductions the more contracts there are.
+
 ## List of MC-Exclusive Contracts
 
 !!! note "Contract of Avarice"
