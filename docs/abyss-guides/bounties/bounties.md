@@ -107,6 +107,8 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns as a Minotaur by itself.
+        - Is immune to magic damage.
+        - Will get stronger and faster as turns pass.
 
 ??? danger "Host of the Cursed Banquet" 
 
