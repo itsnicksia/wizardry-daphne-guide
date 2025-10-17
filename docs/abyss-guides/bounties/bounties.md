@@ -30,16 +30,162 @@ This is a new tab in the requests section that will be unlocked once the require
 
 ## Abyss 3 Bounties
 
-- Reaper Bunny (Vorpal Bunny | rank 1) - roamer, can appear anywhere on map, does not show on minimap. spawns with 2 bunnies on the side. acts twice on its own turn, extremely high evasion.
-- Sand Shadow that Calls Scorched Earth (Sand Apparition | rank 2) - roamer, can appear anywhere on map including inside caged areas, does not show on minimap. Spawns as a group of 7, 3 in front, 3 in middle, 1 in back. The boss ver is in the back and can resummon sand warped ones.
-- Petz, the Mook who Flaunts Authority (Ruffian | rank 5) - stationary, appears as npc icon on map. spawns with 5 pirate berserkers in front and ruffian in backline. They are exceptionally weak
-- Timid Crimson Fang (Vampire | rank 7) - Stationary, doesnt appear on minimap but is always in the same map structure. spawns with two rows of adventurers with itself in the back. It has very very high evasion.
-- Insatiable Gorger (Ent | rank 8) - roaming, doesn't appear on minimap. spawns by itself. It moves twice per turn and casts Breath of Gluttony which is a row confusion/critical poison with minor damage.
-- Shadow-Lurking Operative (Ninja | rank 9) - stationary, appears on the minimap as an npc. Will be inside a small room. Spawns with 2 rows of 3 ninjas (total 3 blue, 3 brown ninjas), with himself (red ninja) in the backmost row.
-- Indolent Demon Marquis (Greater Demon | rank 9) - stationaryish, appears near or within the alarm trap room of the floor. Spawns with 2 rows of 3 lesser demons, with itself in the backmost row. The greater demon moves twice per turn and will summon more lesser demons per turn and buff their attack. It has a lot of surety evasion. If all lesser demons are killed, it will instead begin spam summoning greater demons + buffing with macaldia.
-- Mellie, the Coin-Counting Killer (Mage Adventurer | rank 10) - stationary, appears as an npc on the map. Spawns as an adventurer mage with 3 human knight adventurers in the row in front. She moves twice per turn and can cast healing skills/debuffs/AOE magic.
-- Veigar, the Sorceror Who Rules the Dead (Necromancer | rank 11) - stationary, appears as an npc on the map. located in bottom middle of the map. spawns with 2 necrocores in the frontrow, him in the backrow. If necrocores are alive, he will buff their attack. He can also cast Lazelos which does a lot of damage.
-- Thunder Lord cyclops (Cyclops | rank 12) - stationary, doesn't appear on map, but is right outside of Greater Harken. Spawns with 3 succubi in the front row and 2 chimera in the back row with cyclops in middle row. He can instant kill backline + self buffs with perma ct
+??? danger "Reaper Bunny" 
+    
+    === "Bounty Picture" 
+        ![](./img/reaper-bunny.png)
+
+    === "Bounty Details"
+        - Roamer, does not show up on the minimap.
+        - 2000 Gold Reward
+        - 65 Token Reward
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - Spawns with 2 Vorpal Bunnies on each side. The Boss bunny is light element.
+        - Acts twice on its turn and has extremely high evasion.
+        
+??? danger "Sand Shadow that Calls Scorched Earth"
+
+    === "Bounty Picture" 
+        ![](./img/sand-shadow-that-calls-scorched-earth.png)
+
+    === "Bounty Details"
+        - Roamer, does not show up on the minimap, can show up in caged areas as well.
+        - 3500 Gold Reward
+        - 60 Token Reward
+        - Appears at Bounty Rank 2
+
+    === "Fight Details"
+        - Spawns as a group of 7 Sand Apparitions
+        - There are 3 in the front row, 3 in the middle row, with the boss in the back.
+        - The boss can re-summon Sand Apparitions.
+        
+??? danger "Petz, the Mook who Flaunts Authority"
+
+    === "Bounty Picture" 
+        ![](./img/petz-the-mook-who-flaunts-authority.png)
+
+    === "Bounty Details"
+        - Stationary, appears as an NPC icon on the map.
+        - 3560 Gold Reward
+        - 145 Token Reward
+        - Appears at Bounty Rank 5
+
+    === "Fight Details"
+        - Spawns with 5 Pirate Berserkers in the frontline. Ruffian boss will be in the backline.
+        - They are relatively weak.
+
+??? danger "Timid Crimson Fang"
+
+    === "Bounty Picture" 
+        ![](./img/timid-crimson-fang.png)
+
+    === "Bounty Details"
+        - Stationary, doesn't appear on the minimap. However, he's always located in the same map structure.
+        - 7200 Gold Reward
+        - 240 Token Reward
+        - Appears at Bounty Rank 7
+
+    === "Fight Details"
+        - Spawns with a row of hostile adventurers in the front and middle row. The back row has the Vampire.
+        - The Vampire has extremely high evasion.
+
+??? danger "Insatiable Gorger"
+
+    === "Bounty Picture" 
+        ![](./img/insatiable-gorger.png)
+
+    === "Bounty Details"
+        - Roamer, doesn't appear on the minimap.
+        - 12000 Gold Reward
+        - 360 Token Reward
+        - Appears at Bounty Rank 8
+
+    === "Fight Details"
+        - Spawns by itself as an Ent.
+        - It can move twice per turn, and tends to cast Breath of Gluttony, which is a row damaging skill that guarantees Critical Poison with a chance to also Confuse.
+        
+??? danger "Shadow-Lurking Operative"
+
+    === "Bounty Picture" 
+        ![](./img/shadow-lurking-operative.png)
+
+    === "Bounty Details"
+        - Stationary, appears on the minimap as an NPC. Will always be inside a 2x1 small room.
+        - 9000 Gold Reward
+        - 400 Token Reward
+        - Appears at Bounty Rank 9
+
+    === "Fight Details"
+        - Spawns with a front row and middle row of Indigo and Amber ninjas. The boss ninja will be in the backmost row.
+        - This fight is very similar to that of the Sand Shadow Cave boss fight.
+
+??? danger "Indolent Demon Marquis"
+
+    === "Bounty Picture" 
+        ![](./img/indolent-demon-marquis.png)
+
+    === "Bounty Details"
+        - Stationary, but doesn't appear on the map. Appears in the alarm trap room of the floor.
+        - 13500 Gold Reward
+        - 425 Token Reward
+        - Appears at Bounty Rank 9
+
+    === "Fight Details"
+        - Spawns with a front row and middle row of 3 lesser demons. The Greater Demon will be in the backmost row.
+        - The Greater Demon can move twice per turn and will summon more lesser demons per turn as long as he doesn't reach the front row.
+        - Once the Greater Demon reaches the front row, he will continually summon Greater Demons until the entire field is filled.
+        - The Greater Demon has a lot of surety evasion (~150)
+
+??? danger "Mellie, the Coin-Counting Killer"
+
+    === "Bounty Picture" 
+        ![](./img/mellie-the-coin-counting-killer.png)
+
+    === "Bounty Details"
+        - Stationary, appears as an NPC on the map in a specific structure.
+        - 16400 Gold Reward
+        - 500 Token Reward
+        - Appears at Bounty Rank 10
+
+    === "Fight Details"
+        - Spawns with 3 Human Knight Adventurers in the front row. She will be in the backrow.
+        - She moves twice per turn and will cast Healing skills/debuffs/AOE magic.
+        - The Knights have a very high chance to defend a hit on Mellie.
+
+??? danger "Veigar, the Sorceror Who Rules the Dead"
+
+    === "Bounty Picture" 
+        ![](./img/veigar-the-sorcerer-who-rules-the-dead.png)
+
+    === "Bounty Details"
+        - Stationary, appears as an NPC on the map in a specific 2x1 room.
+        - 17000 Gold Reward
+        - 800 Token Reward
+        - Appears at Bounty Rank 11
+
+    === "Fight Details"
+        - Spawns with 2 Necrocores in the front row. The necromancer will be in the back row.
+        - If the Necrocores are alive and enough damage is dealt to him, he will cast Lazelos. Otherwise, he will simply support the Necrocores.
+        - It is preferred to kill the Necrocores first before dealing with him.
+
+??? danger "Mad, Rampaging, Thunderous Fiend"
+
+    === "Bounty Picture" 
+        ![](./img/mad-rampaging-thunderous-fiend.png)
+
+    === "Bounty Details"
+        - Stationary, but doesn't appear on the map. Appears right outside the Zone 10 Greater Harken.
+        - 18900 Gold Reward
+        - 1200 Token Reward
+        - Appears at Bounty Rank 12
+
+    === "Fight Details"
+        - Spawns with 3 Succubi in the Front Row, and 2 Chimera in the back row. The Cyclops will be in the middle row.
+        - He only spams Frenzied Strike, which gives him a permanent undispellable CT buff. This attack can target his own allies as well.
+        - This attack is extremely strong and can even one shot backline units if they are not defending/using knight's defense.
+        - It is recommended if you are not strong enough to kill him in a timely manner with Knight's Defense spamming to simply cast Batilgref and defend to take advantage of opening damage.
 
 ## Other Bounties
 
@@ -62,7 +208,7 @@ This is a new tab in the requests section that will be unlocked once the require
 
 # Farming Information
 
-- It's possible to farm a specific bounty simply by cursed wheeling in place, typically to an Abyss Cleared point. Bounties will provide exchange shop points infinitely.
+- It's possible to farm a specific bounty simply by cursed wheeling in place, typically to Triumphant Return. Bounties will provide exchange shop points infinitely.
 - It's possible for applicable bounty monsters to spawn as a relic version.
 - It currently costs around 39,700 points to buy out the respawning items in the shop every month.
 - It's recommended to farm Veigar as he is always in a set location close to a Harken and easier to deal with than some other bounties.
