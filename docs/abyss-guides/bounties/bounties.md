@@ -1,5 +1,7 @@
 # Bounties
 
+!!! warning "Please bear with us as this page is under construction. More and more details will be added."
+
 ??? note "Requirements"
     - Complete Abyss 2 at least once in its entirety (Do not need true ending).
 
@@ -19,14 +21,121 @@ This is a new tab in the requests section that will be unlocked once the require
 
 ## Abyss 2 Bounties
 
-- The Unpierceable One (Big Slime | rank 1) - roamer, can appear anywhere on map including water current portions, does not show on minimap, very high defense + spawns with 3 floating coins in back
-- The Unending Breath of Stone (Gorgon | rank 2) - roamer, can appear anywhere on map, does not show on minimap, spawns with 3 chimeras, 2 in the front row, 1 in middle row, gorgon in back row
-- Patti, Apostate of the Sea (Pirate Deacon | rank 1) - roamer, can appear anywhere on map, indicated by npc on map. spawns with several adventurer enemies (human priest | dwarf fighter | human knight first row, elf fighter | dwarf priest | human thief 2nd row, deacon 3rd row
-- The Champion (Lizardman champion, rank 3) - roamer, can appear anywhere on map, not indicated. spawns by itself but can summon two weaker lizardman champions, one in the same row, one in the back. it can summon multiple times in a fight.
-- Dungeon-Stalkers (Bandit, rank 4) - roamers, can appear anywhere on map, indicated by npc icon on map. shows up as 3 plunderers looking at each other. spawns as 3 plunderers in the same row. nothing special.
-- Fallen Princess of Bewitching Dreams (Succubus, rank 4) - stationary, appears as green mob, 5 adv in front row | succ back row. succ moves 2x
-- Dolan, The Long-Lost Sailor (Oar Collector, rank 6) - roamer, can appear anywhere on map, not indicated. When it takes enough damage, will flood the battlefield out of turn.
-- Ecstatic Blazing Eye (Corrosion Eye, ranked 8) - stationary, but does not appear on the map, appears in the small room on ship 2 after heading down the bottom right staircase from the arena. Has 3 actions per turn.
+??? danger "The Unpierceable One" 
+
+    === "Bounty Picture" 
+        ![](./img/the-unpierceable-one.png)
+
+    === "Bounty Details"
+        - Roamer, does not show up on the minimap, can appear in water current portions of the map.
+        - 2000 Gold Reward
+        - 40 Token Reward
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - Spawns with 3 Floating Coins in the back.
+        - Has very high defense.
+
+??? danger "Patti, Apostate of the Sea" 
+
+    === "Bounty Picture" 
+        ![](./img/patti-apostate-of-the-sea.png)
+
+    === "Bounty Details"
+        - Stationary, indicated by NPC on map. It will typically be next to a water statue.
+        - 2000 Gold Reward
+        - 35 Token Reward
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - Spawns with two rows of hostile adventurers in the front and middle row. The Pirate Deacon will be in the backmost row.
+
+??? danger "The Unending Breath of Stone" 
+
+    === "Bounty Picture" 
+        ![](./img/the-unending-breath-of-stone.png)
+
+    === "Bounty Details"
+        - Roamer, does not show on the minimap.
+        - 3500 Gold Reward
+        - 70 Token Reward
+        - Appears at Bounty Rank 2
+
+    === "Fight Details"
+        - Spawns with 2 Chimeras in the front row, and 1 Chimera in the middle row. The Gorgon is in the backmost row.
+
+??? danger "The Champion" 
+
+    === "Bounty Picture" 
+        ![](./img/the-champion.png)
+
+    === "Bounty Details"
+        - Roamer, does not show on the minimap.
+        - 4100 Gold Reward
+        - 80 Token Reward
+        - Appears at Bounty Rank 3
+
+    === "Fight Details"
+        - Spawns by itself initially, but will summon two weaker Lizardman Champions, one of which is in the same row and one in the back. It can summon multiple times in a fight.
+
+??? danger "Dungeon-Stalkers" 
+
+    === "Bounty Picture" 
+        ![](./img/dungeon-stalkers.png)
+
+    === "Bounty Details"
+        - Stationary, indicated by NPC icon on map. Typically appears in a small dead end corridor.
+        - 4800 Gold Reward
+        - 115 Token Reward
+        - Appears at Bounty Rank 4
+
+    === "Fight Details"
+        - Spawns as 3 Bandits in the same row.
+
+??? danger "Fallen Princess of Bewitching Dreams" 
+
+    === "Bounty Picture" 
+        ![](./img/fallen-princess-of-bewitching-dreams.png)
+
+    === "Bounty Details"
+        - Stationary, appears as a green mob on the minimap. Will always be in the room that requires the Vernant sidequest to open.
+        - 4800 Gold Reward
+        - 120 Token Reward
+        - Appears at Bounty Rank 4
+
+    === "Fight Details"
+        - Spawns with 5 hostile adventurers in the front row. The Succubus will be in the back row.
+        - The succubus can move twice per turn.
+        
+??? danger "Dolan, the Long-Lost Sailor" 
+
+    === "Bounty Picture" 
+        ![](./img/dolan-the-long-lost-sailor.png)
+
+    === "Bounty Details"
+        - Roamer, does not show on the minimap.
+        - 7000 Gold Reward
+        - 215 Token Reward
+        - Appears at Bounty Rank 6
+
+    === "Fight Details"
+        - Spawns as an Oar Collector by itself.
+        - When it takes enough damage, it will flood the battlefield out of turn.
+        
+??? danger "Ecstatic Blazing Eye" 
+
+    === "Bounty Picture" 
+        ![](./img/ecstatic-blazing-eye.png)
+
+    === "Bounty Details"
+        - Stationary, but does not appear on the map. It will always be in the small room that is accessed by heading to the bottom right staircase from the Upper Deck Arena.
+        - 8000 Gold Reward
+        - 310 Token Reward
+        - Appears at Bounty Rank 8
+
+    === "Fight Details"
+        - Spawns as a Corrosion Eye by itself.
+        - It can move three times per turn.
 
 ## Abyss 3 Bounties
 
@@ -42,7 +151,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - Appears at Bounty Rank 1
 
     === "Fight Details"
-        - Spawns with 2 Vorpal Bunnies on each side. The Boss bunny is light element.
+        - Spawns with 1 normal Vorpal Bunny on each side. The boss Vorpal Bunny is light element.
         - Acts twice on its turn and has extremely high evasion.
         
 ??? danger "Sand Shadow that Calls Scorched Earth"
@@ -189,7 +298,19 @@ This is a new tab in the requests section that will be unlocked once the require
 
 ## Other Bounties
 
-- The Lurking Flutter Hunting-Fey (Pixie | rank 1) - roamer, appears near the entrance of the plains as a white cloud, spawns with 2 dragonflies + 2 vorpal bunnies in the first row + pixie in backrow, no notable stats
+??? danger "The Lurking Flutter Hunting-Fey"
+
+    === "Bounty Picture" 
+        ![](./img/the-lurking-flutter-hunting-fey.png)
+
+    === "Bounty Details"
+        - Roaming, but always appears near the entrance as a white cloud instead of the normal green-yellow looking enemies.
+        - 1600 Gold Reward
+        - 80 Token Reward
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - Spawns with 2 Dragonflies and 2 Vorpal Bunnies in the front row. The Pixie is in the back row.
 
 # Unique Rewards
 
