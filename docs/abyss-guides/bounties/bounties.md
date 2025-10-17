@@ -54,12 +54,12 @@ This is a new tab in the requests section that will be unlocked once the require
 ??? danger "Grudge-Bearing Sack Doll" 
 
     === "Bounty Picture" 
-         ????
+         ![](./img/grudge-bearing-sack-doll.png)
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap.
-        - ???? Gold Reward
-        - ?? Token Reward
+        - 1900 Gold Reward
+        - 100 Token Reward
         - Appears at Bounty Rank 2
 
     === "Fight Details"
