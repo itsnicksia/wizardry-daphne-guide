@@ -9,15 +9,137 @@ This is a new tab in the requests section that will be unlocked once the require
 
 ## Abyss 1 Bounties
 
-- Goblin Daddy (Hobber | rank 1) - static location, indicated green mob on minimap, spawns with a ton of goblin enemies + can keep resummoning them if killed
-- Warped One Burning with Vengeance (Red Spinner Woman | rank 1) - static location, indicated green mob on minimap, no notable stats
-- Jhael, The Novice Slayer (Elf Fighter | rank 1) - two static locations, indicated by npc on map, no notable stats
-- Grudge-Bearing Sack Doll (Cursed doll | rank 2) - roamer, not indicated on minimap, spawns as a trio that move twice each. extremely fast.
-- Brokk, The Shrewd Swindler (Dwarf Fighter | rank2 ) - roamer, indicated by npc on map, no notable stats
-- Skeleton Archmage (Skeleton Mage | rank 3) - roamer, not indicated on map, spawns with 2 skeletons + 2 skeleton knights in the front row, 2 skeletons + 1 skeleton knight in the middle row, and the skeleton mage in the last row. They are all susceptible to marein.
-- Six-Limbed Storm (Minotaur | rank 5) - stationary, indicated as green mob on map, in room next to harken. spawns by itself. no notable stats
-- Host of the Cursed Banquet (Wight | rank 6) - stationary, indicated as green mob on minimap, right next to the staircase from b7 to b6. spawns with front row of 2x skeleton, 2x skeleton knight, 1 poltergeist. middle row of 2x skeleton giant, 2x poltergeist, 1x skeleton mage. back row of 2x skeleton archer, 1x skeleton mage, 1 wight. The wight acts twice per turn.
-- Peerless Scorpioness (Scorpion Lady | rank 7) - stationary, indicated as green mob on minimap, right next to harken in next room. spawns by itself. will go berserk when reaching a certain hp threshold, allowing it to act many times consecutively.
+??? danger "Goblin Daddy" 
+
+    === "Bounty Picture" 
+        ![](./img/goblin-daddy.png)
+
+    === "Bounty Details"
+        - Stationary, indicated by green mob on minimap, he will always be in the same location.
+        - 2000 Gold Reward
+        - 45 Token Reward
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - Spawns with many goblin enemies and can resummon them if killed.
+
+??? danger "Warped One Burning with Vengeance" 
+
+    === "Bounty Picture" 
+        ![](./img/warped-one-burning-with-vengeance.png)
+
+    === "Bounty Details"
+        - Stationary, indicated by green mob on minimap, will always be in the same location
+        - 1800 Gold Reward
+        - 30 Token Reward
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - Spawns as a Red Spinner Woman by itself.
+        
+??? danger "Jhael, The Novice Slayer" 
+
+    === "Bounty Picture" 
+        ![](./img/jhael-the-novice-slayer.png)
+
+    === "Bounty Details"
+        - Stationary, appears as a NPC on the map, can show up in two static locations
+        - 1800 Gold Reward
+        - 30 Token Reward
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - Spawns as an Elf Fighter Adventurer by himself.
+
+??? danger "Grudge-Bearing Sack Doll" 
+
+    === "Bounty Picture" 
+         ????
+
+    === "Bounty Details"
+        - Roamer, does not show up on the minimap.
+        - ???? Gold Reward
+        - ?? Token Reward
+        - Appears at Bounty Rank 2
+
+    === "Fight Details"
+        - Spawns as three Cursed Dolls that can move twice each. They are extremely fast.
+        
+??? danger "Brokk, The Shrewd Swindler" 
+
+    === "Bounty Picture" 
+        ![](./img/brokk-the-shrewd-swindler.png)
+
+    === "Bounty Details"
+        - Stationary, indicated by NPC on the map. He will always be in a corridor near the harken.
+        - 2300 Gold Reward
+        - 55 Token Reward
+        - Appears at Bounty Rank 2
+
+    === "Fight Details"
+        - Spawns as a Dwarf Fighter by himself.
+        
+??? danger "Skeleton Archmage" 
+
+    === "Bounty Picture" 
+        ![](./img/skeleton-archmage.png)
+
+    === "Bounty Details"
+        - Roamer, does not show up on the minimap.
+        - 2700 Gold Reward
+        - 90 Token Reward
+        - Appears at Bounty Rank 3
+
+    === "Fight Details"
+        - Spawns with 2 skeletons and 2 skeletons knights in the front row, 2 skeletons and 1 skeleton knight in the middle row, and the boss skeleton mage is in the backmost row.
+        - They are all susceptible to Marein
+        
+??? danger "Six-Limbed Storm" 
+
+    === "Bounty Picture" 
+        ![](./img/six-limbed-storm.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as a green mob on the minimap. It always appears in the big room to the right of the harken.
+        - 6800 Gold Reward
+        - 180 Token Reward
+        - Appears at Bounty Rank 5
+
+    === "Fight Details"
+        - Spawns as a Minotaur by itself.
+
+??? danger "Host of the Cursed Banquet" 
+
+    === "Bounty Picture" 
+        ![](./img/host-of-the-cursed-banquet.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as a green mob on the minimap. Appears right next to the staircase after going from B7 to B6.
+        - 5100 Gold Reward
+        - 200 Token Reward
+        - Appears at Bounty Rank 6
+
+    === "Fight Details"
+        - Spawns with 2 skeletons, 2 skeleton knights, and 1 poltergeist in the front row, 2 skeleton giants, 2 poltergeists, and 1 skeleton mage in the middle row, 2 skeleton archers, 1 skeleton mage, and the boss wight in the backmost row.
+        - The wight acts twice per turn.
+        - It's highly recommended to simply cast LA- spells to clear this. They are also all susceptible to Marein.
+        
+??? danger "Peerless Scorpionesses" 
+
+    === "Bounty Picture" 
+        ![](./img/peerless-scorpionesses.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as a green mob on the minimap.
+        - 10800 Gold Reward
+        - 280 Token Reward
+        - Appears at Bounty Rank 7
+
+    === "Fight Details"
+        - Spawns as a Scorpion Lady by itself.
+        - Will summon another Scorpion Lady in the backrow after a while.
+        - After a certain HP threshold is reached, will cast Rage, which allows it to move 5 times in one turn
+        - Fight can be ended without the second Scorpion Lady being summoned.
 
 ## Abyss 2 Bounties
 
