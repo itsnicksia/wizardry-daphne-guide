@@ -3,7 +3,7 @@
 === "Daily Jeweler"
     |          Skill Book Name          |       Cost       |
     |:---------------------------------:|:----------------:|
-    |               ERLIK               | 240 Gems of Erin |
+    |               ERvisualdifftestLIK               | 240 Gems of Erin |
     |               HALITO              | 240 Gems of Erin |
     |               DILTO               | 240 Gems of Erin |
     |               MORLIS              | 240 Gems of Erin |
