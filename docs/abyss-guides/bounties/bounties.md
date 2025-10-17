@@ -57,6 +57,8 @@ This is a new tab in the requests section that will be unlocked once the require
 - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
 - Ninja: 5 ATK, 5 EVA, 5 ASPD
 - Samurai: 5 ATK, 5 MAG
+- Priest: +5 DIV, 5 RES
+- Mage: +10 MP, +5 MAG
 
 # Farming Information
 
