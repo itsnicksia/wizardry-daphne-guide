@@ -167,4 +167,4 @@ Saved the Duke and apprehended the mastermind.
 
     ![](./img/no_corruption_true_ending_achievement.jpg)
 
-    It is extremely difficult to attempt a no corruption run. There is nothing to gain from this except 50 gems and an achievement to flex.
+    It is extremely difficult to attempt a no corruption run. There is an achievement to obtain + this route is required for unlocking the cyclops bounty at bounty rank 12.
