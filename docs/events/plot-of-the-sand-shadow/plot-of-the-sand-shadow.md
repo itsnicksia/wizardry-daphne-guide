@@ -70,6 +70,8 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 
     ![](img/ninja-knowledge.jpg)
 
+!!! note "After the 1st Anniversary update, you can now exchange tokens for unlimited amounts of event specific junk!"
+
 
 === "Merc's Route"
     ![](img/farming/merc.jpg)
