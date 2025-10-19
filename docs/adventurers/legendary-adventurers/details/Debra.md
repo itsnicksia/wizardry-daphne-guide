@@ -46,7 +46,7 @@
         </div>
         
     === "Mirage Hunting (Gold Maiden)"
-      {{ get_skill_description("Mirage Hunting") }}
+        {{ get_skill_description("Mirage Hunting") }}
 
 !!! info "Unique Skill (Not Inheritable)"
     === "Skull Study (Standard)"
