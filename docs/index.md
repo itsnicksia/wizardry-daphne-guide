@@ -27,7 +27,7 @@
     - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)
     - [Relicbrew](./adventurer-customization/relicbrew.md)
-
+    - [Class Change](./adventurer-customization/class-changes.md)
 -   __Raising Trust__
 
     ---
