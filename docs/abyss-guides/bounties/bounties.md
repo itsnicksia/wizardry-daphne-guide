@@ -7,9 +7,14 @@
 
 This is a new tab in the requests section that will be unlocked once the requirements are fulfilled. Each town has its own bounties that will require the player to find a specific enemy and kill them. Doing so will reward the player with gold and bounty points that can be used to redeem items in its exchange shop. Each bounty will provide a one time increase to the player's bounty rank, which will unlock more bounties for the player to attempt. Higher bounty levels also unlock more rewards in the shop, as well as milestone rewards for reaching certain bounty ranks.
 
-## Abyss 1 Bounties
+- Bounty Rank 1-7: Unlocked through Abyss 2 Ending + Some Abyss 3
+- Bounty Rank 8-9: Unlocked through Abyss 2 True Ending + Some Abyss 3
+- Bounty Rank 10-12: Unlocked through Abyss 3 Mastermind Ending
+- Bounty Rank 13: Unlocked through Abyss 3 Mastermind Ending with 0 Corruption, you do not need to beat the Greater Warped one (can accept death)
 
-??? danger "Goblin Daddy" 
+# Abyss 1 Bounties
+
+??? danger "Goblin Daddy (45 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/goblin-daddy.png)
@@ -23,7 +28,10 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns with many goblin enemies and can resummon them if killed.
 
-??? danger "Warped One Burning with Vengeance" 
+    === "Map Location"
+        ![](./img/goblin-daddy-loc.png)
+
+??? danger "Warped One Burning with Vengeance (30 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/warped-one-burning-with-vengeance.png)
@@ -36,8 +44,11 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns as a Red Spinner Woman by itself.
+
+    === "Map Location"
+        ![](./img/warped-one-burning-with-vengeance-loc.png)
         
-??? danger "Jhael, The Novice Slayer" 
+??? danger "Jhael, The Novice Slayer (30 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/jhael-the-novice-slayer.png)
@@ -51,7 +62,10 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns as an Elf Fighter Adventurer by himself.
 
-??? danger "Grudge-Bearing Sack Doll" 
+    === "Map Location"
+        ![](./img/jhael-the-novice-slayer-loc.png)
+
+??? danger "Grudge-Bearing Sack Doll (100 Tokens)" 
 
     === "Bounty Picture" 
          ![](./img/grudge-bearing-sack-doll.png)
@@ -65,7 +79,7 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns as three Cursed Dolls that can move twice each. They are extremely fast.
         
-??? danger "Brokk, The Shrewd Swindler" 
+??? danger "Brokk, The Shrewd Swindler (55 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/brokk-the-shrewd-swindler.png)
@@ -78,8 +92,11 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns as a Dwarf Fighter by himself.
+
+    === "Map Location"
+        ![](./img/brokk-the-shrewd-swindler-loc.png)
         
-??? danger "Skeleton Archmage" 
+??? danger "Skeleton Archmage (90 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/skeleton-archmage.png)
@@ -94,7 +111,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns with 2 skeletons and 2 skeletons knights in the front row, 2 skeletons and 1 skeleton knight in the middle row, and the boss skeleton mage is in the backmost row.
         - They are all susceptible to Marein
         
-??? danger "Six-Limbed Storm" 
+??? danger "Six-Limbed Storm (180 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/six-limbed-storm.png)
@@ -110,7 +127,10 @@ This is a new tab in the requests section that will be unlocked once the require
         - Is immune to magic damage.
         - Will get stronger and faster as turns pass.
 
-??? danger "Host of the Cursed Banquet" 
+    === "Map Location"
+        ![](./img/six-limbed-storm-loc.png)
+
+??? danger "Host of the Cursed Banquet (200 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/host-of-the-cursed-banquet.png)
@@ -125,8 +145,11 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns with 2 skeletons, 2 skeleton knights, and 1 poltergeist in the front row, 2 skeleton giants, 2 poltergeists, and 1 skeleton mage in the middle row, 2 skeleton archers, 1 skeleton mage, and the boss wight in the backmost row.
         - The wight acts twice per turn.
         - It's highly recommended to simply cast LA- spells to clear this. They are also all susceptible to Marein.
+
+    === "Map Location"
+        ![](./img/host-of-the-cursed-banquet-loc.png)
         
-??? danger "Peerless Scorpionesses" 
+??? danger "Peerless Scorpionesses (280 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/peerless-scorpionesses.png)
@@ -143,9 +166,12 @@ This is a new tab in the requests section that will be unlocked once the require
         - After a certain HP threshold is reached, will cast Rage, which allows it to move 5 times in one turn
         - Fight can be ended without the second Scorpion Lady being summoned.
 
-## Abyss 2 Bounties
+    === "Map Location"
+        ![](./img/peerless-scorpionesses-loc.png)
 
-??? danger "The Unpierceable One" 
+# Abyss 2 Bounties
+
+??? danger "The Unpierceable One (40 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/the-unpierceable-one.png)
@@ -160,13 +186,13 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns with 3 Floating Coins in the back.
         - Has very high defense.
 
-??? danger "Patti, Apostate of the Sea" 
+??? danger "Patti, Apostate of the Sea (35 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/patti-apostate-of-the-sea.png)
 
     === "Bounty Details"
-        - Stationary, indicated by NPC on map. It will typically be next to a water statue.
+        - Stationary, indicated by NPC on map. It will be by the statue in the middle of the map.
         - 2000 Gold Reward
         - 35 Token Reward
         - Appears at Bounty Rank 1
@@ -174,7 +200,10 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns with two rows of hostile adventurers in the front and middle row. The Pirate Deacon will be in the backmost row.
 
-??? danger "The Unending Breath of Stone" 
+    === "Map Location"
+        ![](./img/patti-apostate-of-the-sea-loc.png)
+
+??? danger "The Unending Breath of Stone (70 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/the-unending-breath-of-stone.png)
@@ -188,7 +217,7 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns with 2 Chimeras in the front row, and 1 Chimera in the middle row. The Gorgon is in the backmost row.
 
-??? danger "The Champion" 
+??? danger "The Champion (80 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/the-champion.png)
@@ -202,7 +231,7 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns by itself initially, but will summon two weaker Lizardman Champions, one of which is in the same row and one in the back. It can summon multiple times in a fight.
 
-??? danger "Dungeon-Stalkers" 
+??? danger "Dungeon-Stalkers (115 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/dungeon-stalkers.png)
@@ -216,7 +245,10 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns as 3 Bandits in the same row.
 
-??? danger "Fallen Princess of Bewitching Dreams" 
+    === "Map Location"
+        ![](./img/dungeon-stalkers-loc.png)
+
+??? danger "Fallen Princess of Bewitching Dreams (120 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/fallen-princess-of-bewitching-dreams.png)
@@ -230,8 +262,11 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns with 5 hostile adventurers in the front row. The Succubus will be in the back row.
         - The succubus can move twice per turn.
+
+    === "Map Location"
+        ![](./img/fallen-princess-of-bewitching-dreams-loc.png)
         
-??? danger "Dolan, the Long-Lost Sailor" 
+??? danger "Dolan, the Long-Lost Sailor (215 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/dolan-the-long-lost-sailor.png)
@@ -246,7 +281,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns as an Oar Collector by itself.
         - When it takes enough damage, it will flood the battlefield out of turn.
         
-??? danger "Ecstatic Blazing Eye" 
+??? danger "Ecstatic Blazing Eye (310 Tokens)" 
 
     === "Bounty Picture" 
         ![](./img/ecstatic-blazing-eye.png)
@@ -261,9 +296,12 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns as a Corrosion Eye by itself.
         - It can move three times per turn.
 
-## Abyss 3 Bounties
+    === "Map Location"
+        ![](./img/ecstatic-blazing-eye-loc.png)
 
-??? danger "Reaper Bunny" 
+# Abyss 3 Bounties
+
+??? danger "Reaper Bunny (65 Tokens)" 
     
     === "Bounty Picture" 
         ![](./img/reaper-bunny.png)
@@ -278,7 +316,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns with 1 normal Vorpal Bunny on each side. The boss Vorpal Bunny is light element.
         - Acts twice on its turn and has extremely high evasion.
         
-??? danger "Sand Shadow that Calls Scorched Earth"
+??? danger "Sand Shadow that Calls Scorched Earth (60 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/sand-shadow-that-calls-scorched-earth.png)
@@ -294,7 +332,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - There are 3 in the front row, 3 in the middle row, with the boss in the back.
         - The boss can re-summon Sand Apparitions.
         
-??? danger "Petz, the Mook who Flaunts Authority"
+??? danger "Petz, the Mook who Flaunts Authority (145 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/petz-the-mook-who-flaunts-authority.png)
@@ -309,7 +347,10 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns with 5 Pirate Berserkers in the frontline. Ruffian boss will be in the backline.
         - They are relatively weak.
 
-??? danger "Timid Crimson Fang"
+    === "Map Location"
+        ![](./img/petz-the-mook-who-flaunts-authority-loc.png)
+
+??? danger "Timid Crimson Fang (240 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/timid-crimson-fang.png)
@@ -324,7 +365,10 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns with a row of hostile adventurers in the front and middle row. The back row has the Vampire.
         - The Vampire has extremely high evasion.
 
-??? danger "Insatiable Gorger"
+    === "Map Location"
+        ![](./img/timid-crimson-fang-loc.png)
+
+??? danger "Insatiable Gorger (360 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/insatiable-gorger.png)
@@ -339,7 +383,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns by itself as an Ent.
         - It can move twice per turn, and tends to cast Breath of Gluttony, which is a row damaging skill that guarantees Critical Poison with a chance to also Confuse.
         
-??? danger "Shadow-Lurking Operative"
+??? danger "Shadow-Lurking Operative (400 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/shadow-lurking-operative.png)
@@ -352,9 +396,9 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns with a front row and middle row of Indigo and Amber ninjas. The boss ninja will be in the backmost row.
-        - This fight is very similar to that of the Sand Shadow Cave boss fight.
+        - This fight is very similar to that of the Sand Shadow Cave boss fight. There is a lot of confusion/critical.
 
-??? danger "Indolent Demon Marquis"
+??? danger "Indolent Demon Marquis (425 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/indolent-demon-marquis.png)
@@ -370,8 +414,12 @@ This is a new tab in the requests section that will be unlocked once the require
         - The Greater Demon can move twice per turn and will summon more lesser demons per turn as long as he doesn't reach the front row.
         - Once the Greater Demon reaches the front row, he will continually summon Greater Demons until the entire field is filled.
         - The Greater Demon has a lot of surety evasion (~150)
+        - It is recommended to not kill all the lesser demons (don't let the Greater Demon boss reach the front row), buff front row with masolotu + use evasion gear, and carry ranged damaging options. Focus entirely on damaging the Greater Demon boss and just ignore the lesser demons.
 
-??? danger "Mellie, the Coin-Counting Killer"
+    === "Map Location"
+        ![](./img/indolent-demon-marquis-loc.png)
+
+??? danger "Mellie, the Coin-Counting Killer (500 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/mellie-the-coin-counting-killer.png)
@@ -387,7 +435,10 @@ This is a new tab in the requests section that will be unlocked once the require
         - She moves twice per turn and will cast Healing skills/debuffs/AOE magic.
         - The Knights have a very high chance to defend a hit on Mellie.
 
-??? danger "Veigar, the Sorceror Who Rules the Dead"
+    === "Map Location"
+        ![](./img/mellie-the-coin-counting-killer-loc.png)
+
+??? danger "Veigar, the Sorceror Who Rules the Dead (800 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/veigar-the-sorcerer-who-rules-the-dead.png)
@@ -403,7 +454,10 @@ This is a new tab in the requests section that will be unlocked once the require
         - If the Necrocores are alive and enough damage is dealt to him, he will cast Lazelos. Otherwise, he will simply support the Necrocores.
         - It is preferred to kill the Necrocores first before dealing with him.
 
-??? danger "Mad, Rampaging, Thunderous Fiend"
+    === "Map Location"
+        ![](./img/veigar-the-sorcerer-who-rules-the-dead-loc.png)
+
+??? danger "Mad, Rampaging, Thunderous Fiend (1200 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/mad-rampaging-thunderous-fiend.png)
@@ -420,15 +474,18 @@ This is a new tab in the requests section that will be unlocked once the require
         - This attack is extremely strong and can even one shot backline units if they are not defending/using knight's defense.
         - It is recommended if you are not strong enough to kill him in a timely manner with Knight's Defense spamming to simply cast Batilgref and defend to take advantage of opening damage.
 
-## Other Bounties
+    === "Map Location"
+        ![](./img/mad-rampaging-thunderous-fiend-loc.png)
 
-??? danger "The Lurking Flutter Hunting-Fey"
+# Other Bounties
+
+??? danger "The Lurking Flutter Hunting-Fey (80 Tokens)"
 
     === "Bounty Picture" 
         ![](./img/the-lurking-flutter-hunting-fey.png)
 
     === "Bounty Details"
-        - Roaming, but always appears near the entrance as a white cloud instead of the normal green-yellow looking enemies.
+        - Roaming, but will turn white and attempt to run away. Other enemies will turn red and attempt to chase you.
         - 1600 Gold Reward
         - 80 Token Reward
         - Appears at Bounty Rank 1
@@ -436,11 +493,22 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns with 2 Dragonflies and 2 Vorpal Bunnies in the front row. The Pixie is in the back row.
 
+    === "Map Location"
+        ![](./img/the-lurking-flutter-hunting-fey-loc.png)
+
 # Unique Rewards
 
 - Master Ring: Abyss 4 tier ring that always generates as a White 5* with 0/3 Strength Level. It provides 13 of every stat, minus Defense and Magic Defense which are a bit higher.
-- Hound Mask: Randomly generated quality and grade ebonsteel level cloth hat that has innate evasion and resistance.
+- Hound Mask: Randomly generated quality and grade ebonsteel level cloth hat that has innate evasion and resistance. At +20, it gives 17 Disarm Trap.
 - Book of Honed Ability Secrets: Provides a few stats that vary depending on class.
+
+## Hound Mask
+
++0 = 5 Disarm Trap
++5 = 8 Disarm Trap
++10 = 11 Disarm Trap
++15 = 13 Disarm Trap
++20 = 17 Disarm Trap
 
 ## Book of Honed Ability stat boost:
 - Fighter: 5 ATK, 5 ACC
@@ -456,7 +524,7 @@ This is a new tab in the requests section that will be unlocked once the require
 - It's possible to farm a specific bounty simply by cursed wheeling in place, typically to Triumphant Return. Bounties will provide exchange shop points infinitely.
 - It's possible for applicable bounty monsters to spawn as a relic version.
 - It currently costs around 39,700 points to buy out the respawning items in the shop every month.
-- It's recommended to farm Veigar as he is always in a set location close to a Harken and easier to deal with than some other bounties.
+- It's recommended to farm Veigar as he is always in a set location close to a Harken and easier to deal with than some other bounties. Alternatively, you can farm Peerless Scorpionesses.
 
 
 
