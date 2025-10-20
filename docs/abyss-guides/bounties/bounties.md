@@ -504,11 +504,11 @@ This is a new tab in the requests section that will be unlocked once the require
 
 ## Hound Mask
 
-+0 = 5 Disarm Trap
-+5 = 8 Disarm Trap
-+10 = 11 Disarm Trap
-+15 = 13 Disarm Trap
-+20 = 17 Disarm Trap
+- Enhance +0 = 5 Disarm Trap
+- Enhance +5 = 8 Disarm Trap
+- Enhance +10 = 11 Disarm Trap
+- Enhance +15 = 13 Disarm Trap
+- Enhance +20 = 17 Disarm Trap
 
 ## Book of Honed Ability stat boost:
 - Fighter: 5 ATK, 5 ACC
