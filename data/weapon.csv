@@ -138,22 +138,22 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,1H_Axe!A140,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,1H_Axe!A146,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2H_Axe!A2,2H_Axe,18,Bronze Two-Handed Axe,Bronze,1,675,108,33,0,0,0,0,-8,0,0,-6,0,44,0,0,0,0,-8,0,0,-6,0,55,0,0,0,0,-8,0,0,-6,0,66,0,0,0,0,-8,0,0,-6,0,77,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-8,2H_Axe!A8,2H_Axe,62,Two-Handed Axe of Undead Bane,Bronze,1,,135,35,0,0,0,0,-8,0,0,-6,0,46,0,0,0,0,-8,0,0,-6,0,57,0,0,0,0,-8,0,0,-6,0,68,0,0,0,0,-8,0,0,-6,0,79,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
-14,2H_Axe!A14,2H_Axe,29,Iron Two-Handed Axe,Iron,1,2025,324,54,0,0,0,0,-8,0,0,-6,0,69,0,0,0,0,-8,0,0,-6,0,84,0,0,0,0,-8,0,0,-6,0,99,0,0,0,0,-8,0,0,-6,0,114,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-20,2H_Axe!A20,2H_Axe,40,Steel Two-Handed Axe,Steel,1,,648,72,0,0,0,0,-8,0,0,-6,0,90,0,0,0,0,-8,0,0,-6,0,108,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,147,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-26,2H_Axe!A26,2H_Axe,84,War Axe,Steel,,20250,3240,73,0,0,0,0,-8,0,0,-6,0,91,0,0,0,0,-8,0,0,-6,0,109,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,148,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-32,2H_Axe!A32,2H_Axe,117,Two-Handed Axe of Flame,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Fire Type"
-38,2H_Axe!A38,2H_Axe,127,Two-Handed Axe of the Water Drop,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
-44,2H_Axe!A44,2H_Axe,136,Two-Handed Axe of the Gale,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Air Type"
-50,2H_Axe!A50,2H_Axe,145,Two-Handed Axe of the Soil,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
-56,2H_Axe!A56,2H_Axe,51,Ebonsteel Two-Handed Axe,Ebonsteel,1,,1350,114,0,0,0,0,-8,0,0,-6,0,137,0,0,0,0,-8,0,0,-6,0,159,0,0,0,0,-8,0,0,-6,0,182,0,0,0,0,-8,0,0,-6,0,204,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-62,2H_Axe!A62,2H_Axe,95,Two-Handed Axe of Expulsion,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
-68,2H_Axe!A68,2H_Axe,102,Hunting Axe,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Magical Beast-Slayer"
-74,2H_Axe!A74,2H_Axe,154,Two-Handed Axe of the Aurora,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Light Type"
-80,2H_Axe!A80,2H_Axe,164,Two-Handed Axe of Eternal Darkness,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Dark Type"
-86,2H_Axe!A86,2H_Axe,Ex.,Twin Moon Two-Handed Axe,Ebonsteel,,,,,,,,,,,,,,,,,,,,,,,,150,0,0,0,0,-8,0,13,-6,0,173,0,0,0,0,-8,0,14,-6,0,,,,,,,,,,,"Defense Penetration, Strength-Based +"
-92,2H_Axe!A92,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2H_Axe!A2,2H_Axe,7,Worn-Out Two-Handed Axe,Worn,1,,27,13,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Defense Penetration, Strength-Based +"
+8,2H_Axe!A8,2H_Axe,18,Bronze Two-Handed Axe,Bronze,1,675,108,33,0,0,0,0,-8,0,0,-6,0,44,0,0,0,0,-8,0,0,-6,0,55,0,0,0,0,-8,0,0,-6,0,66,0,0,0,0,-8,0,0,-6,0,77,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+14,2H_Axe!A14,2H_Axe,62,Two-Handed Axe of Undead Bane,Bronze,1,,135,35,0,0,0,0,-8,0,0,-6,0,46,0,0,0,0,-8,0,0,-6,0,57,0,0,0,0,-8,0,0,-6,0,68,0,0,0,0,-8,0,0,-6,0,79,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
+20,2H_Axe!A20,2H_Axe,29,Iron Two-Handed Axe,Iron,1,2025,324,54,0,0,0,0,-8,0,0,-6,0,69,0,0,0,0,-8,0,0,-6,0,84,0,0,0,0,-8,0,0,-6,0,99,0,0,0,0,-8,0,0,-6,0,114,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+26,2H_Axe!A26,2H_Axe,40,Steel Two-Handed Axe,Steel,1,,648,72,0,0,0,0,-8,0,0,-6,0,90,0,0,0,0,-8,0,0,-6,0,108,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,147,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+32,2H_Axe!A32,2H_Axe,84,War Axe,Steel,,20250,3240,73,0,0,0,0,-8,0,0,-6,0,91,0,0,0,0,-8,0,0,-6,0,109,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,148,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+38,2H_Axe!A38,2H_Axe,117,Two-Handed Axe of Flame,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Fire Type"
+44,2H_Axe!A44,2H_Axe,127,Two-Handed Axe of the Water Drop,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
+50,2H_Axe!A50,2H_Axe,136,Two-Handed Axe of the Gale,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Air Type"
+56,2H_Axe!A56,2H_Axe,145,Two-Handed Axe of the Soil,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
+62,2H_Axe!A62,2H_Axe,51,Ebonsteel Two-Handed Axe,Ebonsteel,1,,1350,114,0,0,0,0,-8,0,0,-6,0,137,0,0,0,0,-8,0,0,-6,0,159,0,0,0,0,-8,0,0,-6,0,182,0,0,0,0,-8,0,0,-6,0,204,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+68,2H_Axe!A68,2H_Axe,95,Two-Handed Axe of Expulsion,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
+74,2H_Axe!A74,2H_Axe,102,Hunting Axe,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Magical Beast-Slayer"
+80,2H_Axe!A80,2H_Axe,154,Two-Handed Axe of the Aurora,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Light Type"
+86,2H_Axe!A86,2H_Axe,164,Two-Handed Axe of Eternal Darkness,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Dark Type"
+92,2H_Axe!A92,2H_Axe,Ex.,Twin Moon Two-Handed Axe,Ebonsteel,,,,105,0,0,0,0,-8,0,10,-6,0,173,0,0,0,0,-8,0,12,-6,0,150,0,0,0,0,-8,0,13,-6,0,173,0,0,0,0,-8,0,14,-6,0,,,,,,,,,,,"Defense Penetration, Strength-Based +, Water Type"
 98,2H_Axe!A98,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,2H_Axe!A104,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,2H_Axe!A110,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -168,7 +168,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 8,1H_Mace!A8,1H_Mace,15,Bronze Mace,Bronze,1,475,76,24,0,0,0,0,0,4,-4,2,0,33,0,0,0,0,0,4,-4,2,0,41,0,0,0,0,0,4,-4,2,0,50,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,"Inflict Stun, Evasion Damage"
 14,1H_Mace!A14,1H_Mace,59,Mace of Undead Bane,Bronze,1,,95,26,0,0,0,0,0,4,-4,2,0,35,0,0,0,0,0,4,-4,2,0,43,0,0,0,0,0,4,-4,2,0,52,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Vs Undead"
 20,1H_Mace!A20,1H_Mace,67,Mace of Agony,Bronze,1,,95,28,-10,-10,0,0,0,4,-4,2,-10,37,-10,-10,0,0,0,4,-4,2,-10,45,-10,-10,0,0,0,4,-4,2,-10,54,-10,-10,0,0,0,4,-4,2,-10,,,,,,,,,,,"Inflict Stun, Evasion Damage"
-26,1H_Mace!A26,1H_Mace,26,Iron Mace,Iron,1,1425,228,38,0,0,0,0,0,4,-4,2,0,49,0,0,0,0,0,4,-4,2,0,60,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage"
+26,1H_Mace!A26,1H_Mace,26,Iron Mace,Iron,1,1425,228,38,0,0,0,0,0,4,-4,2,0,49,0,0,0,0,0,4,-4,2,0,60,0,0,0,0,0,4,-4,2,0,71,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,"Inflict Stun, Evasion Damage"
 32,1H_Mace!A32,1H_Mace,37,Steel Mace,Steel,1,,456,51,0,0,0,0,0,4,-4,2,0,65,0,0,0,0,0,4,-4,2,0,78,0,0,0,0,0,4,-4,2,0,92,0,0,0,0,0,4,-4,2,0,106,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage"
 38,1H_Mace!A38,1H_Mace,114,Warmace of Flame,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Fire Type"
 44,1H_Mace!A44,1H_Mace,124,Warmace of the Water Drop,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Water Type"
@@ -216,23 +216,23 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,2H_Mace!A140,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Mace!A146,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2H_Spear!A2,2H_Spear,17,Bronze Two-Handed Spear,Bronze,1,650,104,29,0,0,0,0,0,10,0,4,0,40,0,0,0,0,0,10,0,4,0,51,0,0,0,0,0,10,0,4,0,62,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
-8,2H_Spear!A8,2H_Spear,61,Two-Handed Spear of Undead Bane,Bronze,1,,130,32,0,0,0,0,0,10,0,4,0,43,0,0,0,0,0,10,0,4,0,54,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,,,,,,,,,,,"Strength-Based +, Vs Undead"
-14,2H_Spear!A14,2H_Spear,68,Halberd,Bronze,1,,130,33,0,0,0,0,0,10,0,4,0,44,0,0,0,0,0,10,0,4,0,55,0,0,0,0,0,10,0,4,0,66,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
-20,2H_Spear!A20,2H_Spear,28,Iron Two-Handed Spear,Iron,,1950,312,50,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,80,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
-26,2H_Spear!A26,2H_Spear,39,Steel Two-Handed Spear,Steel,1,,624,63,0,0,0,0,0,10,0,4,0,81,0,0,0,0,0,10,0,4,0,99,0,0,0,0,0,10,0,4,0,118,0,0,0,0,0,10,0,4,0,138,0,0,0,0,0,10,0,4,0,Strength-Based +
-32,2H_Spear!A32,2H_Spear,83,Trident,Steel,1,19500,3900,65,0,0,0,0,0,10,10,4,0,83,0,0,0,0,0,10,12,4,0,101,0,0,0,0,0,10,13,4,0,120,0,0,0,0,0,10,14,4,0,140,0,0,0,0,0,10,15,4,0,Strength-Based +
-38,2H_Spear!A38,2H_Spear,116,Heavy Spear of Flame,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Fire Type"
-44,2H_Spear!A44,2H_Spear,126,Heavy Spear of the Water Drop,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Water Type"
-50,2H_Spear!A50,2H_Spear,135,Heavy Spear of the Gale,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Air Type"
-56,2H_Spear!A56,2H_Spear,144,Heavy Spear of the Soil,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Earth Type"
-62,2H_Spear!A62,2H_Spear,50,Ebonsteel Two-Handed Spear,Ebonsteel,1,,130,95,0,0,0,0,0,10,0,4,0,118,0,0,0,0,0,10,0,4,0,140,0,0,0,0,0,10,0,4,0,163,0,0,0,0,0,10,0,4,0,185,0,0,0,0,0,10,0,4,0,Strength-Based +
-68,2H_Spear!A68,2H_Spear,94,Two-Handed Spear of Expulsion,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Vs Undead"
-74,2H_Spear!A74,2H_Spear,153,Heavy Spear of the Aurora,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Light Type"
-80,2H_Spear!A80,2H_Spear,163,Heavy Spear of Eternal Darkness,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Dark Type"
-86,2H_Spear!A86,2H_Spear,Ex.,Shadow Leopard,Ebonsteel,1,,,92,0,0,0,0,4,10,0,8,0,115,0,0,0,0,4,10,0,8,0,137,0,0,0,0,4,10,0,8,0,160,0,0,0,0,4,10,0,8,0,182,0,0,0,0,4,10,0,8,0,Strength-Based +
-92,2H_Spear!A92,2H_Spear,Ex.,Faust Halberd,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
-98,2H_Spear!A98,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,2H_Spear!A2,2H_Spear,6,Worn-Out Two-Handed Spear,Worn,1,,26,13,0,0,0,0,0,6,0,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+8,2H_Spear!A8,2H_Spear,17,Bronze Two-Handed Spear,Bronze,1,650,104,29,0,0,0,0,0,10,0,4,0,40,0,0,0,0,0,10,0,4,0,51,0,0,0,0,0,10,0,4,0,62,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
+14,2H_Spear!A14,2H_Spear,61,Two-Handed Spear of Undead Bane,Bronze,1,,130,32,0,0,0,0,0,10,0,4,0,43,0,0,0,0,0,10,0,4,0,54,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,,,,,,,,,,,"Strength-Based +, Vs Undead"
+20,2H_Spear!A20,2H_Spear,68,Halberd,Bronze,1,,130,33,0,0,0,0,0,10,0,4,0,44,0,0,0,0,0,10,0,4,0,55,0,0,0,0,0,10,0,4,0,66,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
+26,2H_Spear!A26,2H_Spear,28,Iron Two-Handed Spear,Iron,,1950,312,50,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,80,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
+32,2H_Spear!A32,2H_Spear,39,Steel Two-Handed Spear,Steel,1,,624,63,0,0,0,0,0,10,0,4,0,81,0,0,0,0,0,10,0,4,0,99,0,0,0,0,0,10,0,4,0,118,0,0,0,0,0,10,0,4,0,138,0,0,0,0,0,10,0,4,0,Strength-Based +
+38,2H_Spear!A38,2H_Spear,83,Trident,Steel,1,19500,3900,65,0,0,0,0,0,10,10,4,0,83,0,0,0,0,0,10,12,4,0,101,0,0,0,0,0,10,13,4,0,120,0,0,0,0,0,10,14,4,0,140,0,0,0,0,0,10,15,4,0,Strength-Based +
+44,2H_Spear!A44,2H_Spear,116,Heavy Spear of Flame,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Fire Type"
+50,2H_Spear!A50,2H_Spear,126,Heavy Spear of the Water Drop,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Water Type"
+56,2H_Spear!A56,2H_Spear,135,Heavy Spear of the Gale,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Air Type"
+62,2H_Spear!A62,2H_Spear,144,Heavy Spear of the Soil,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Earth Type"
+68,2H_Spear!A68,2H_Spear,Ex.,Faust Halberd,Steel,1,,,63,0,0,0,0,0,10,0,4,0,81,0,0,0,0,0,10,0,4,0,99,0,0,0,0,0,10,0,4,0,118,0,0,0,0,0,10,0,4,0,138,0,0,0,0,0,10,0,4,0,"Strength-Based +, Demon-Slayer"
+74,2H_Spear!A74,2H_Spear,50,Ebonsteel Two-Handed Spear,Ebonsteel,1,,130,95,0,0,0,0,0,10,0,4,0,118,0,0,0,0,0,10,0,4,0,140,0,0,0,0,0,10,0,4,0,163,0,0,0,0,0,10,0,4,0,185,0,0,0,0,0,10,0,4,0,Strength-Based +
+80,2H_Spear!A80,2H_Spear,94,Two-Handed Spear of Expulsion,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Vs Undead"
+86,2H_Spear!A86,2H_Spear,153,Heavy Spear of the Aurora,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Light Type"
+92,2H_Spear!A92,2H_Spear,163,Heavy Spear of Eternal Darkness,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Dark Type"
+98,2H_Spear!A98,2H_Spear,Ex.,Shadow Leopard,Ebonsteel,1,,,92,0,0,0,0,4,10,0,8,0,115,0,0,0,0,4,10,0,8,0,137,0,0,0,0,4,10,0,8,0,160,0,0,0,0,4,10,0,8,0,182,0,0,0,0,4,10,0,8,0,Strength-Based +
 104,2H_Spear!A104,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,2H_Spear!A110,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 116,2H_Spear!A116,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -250,7 +250,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 32,1H_Staff!A32,1H_Staff,80,Holy Staff of the Millenial Tree,Steel,1,10500,420,16,32,32,0,0,0,0,0,2,16,30,46,46,0,0,0,0,0,2,18,43,59,59,0,0,0,0,0,2,19,57,73,73,0,0,0,0,0,2,20,,,,,,,,,,,
 38,1H_Staff!A38,1H_Staff,53,Arcane Rod,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,
 44,1H_Staff!A44,1H_Staff,107,Staff of Weakness,Ebonsteel,1,,875,11,51,51,-1,-1,-1,0,0,3,0,27,67,67,-1,-1,-1,0,0,3,0,43,83,83,-1,-1,-1,0,0,3,0,59,99,99,-1,-1,-1,0,0,3,0,76,116,116,-1,-1,-1,0,0,3,0,Attack Power Decrease
-50,1H_Staff!A50,1H_Staff,,Black Rod,Ebonsteel,1,,,,,,,,,,,,,,,,,,,,,,,112,85,0,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,
+50,1H_Staff!A50,1H_Staff,,Black Rod,Ebonsteel,1,,,80,53,0,0,0,0,0,0,2,0,96,69,0,0,0,0,0,0,2,0,112,85,0,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,
 56,1H_Staff!A56,1H_Staff,,Staff of Recurrence,Ebonsteel,1,,,11,50,50,0,0,0,0,0,2,0,27,66,66,0,0,0,0,0,2,0,43,82,82,0,0,0,0,0,2,0,59,98,98,0,0,0,0,0,2,0,76,115,115,0,0,0,0,0,2,0,Blessing of Reversal
 62,1H_Staff!A62,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 68,1H_Staff!A68,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -349,7 +349,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,Ninja_Blade!A2,Ninja_Blade,172,Lower Ninja Blade,Bronze,1,,120,32,0,0,-1,-1,1,0,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
 8,Ninja_Blade!A8,Ninja_Blade,173,Shadowrunner Blade,Iron,1,,380,67,0,0,-1,-1,1,0,2,2,0,87,0,0,-1,-1,1,0,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
 14,Ninja_Blade!A14,Ninja_Blade,82,Phantom Shadow Blade,Steel,1,,720,105,0,0,-1,-1,1,0,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase (+10? 15% of base EVA?)
-20,Ninja_Blade!A20,Ninja_Blade,110,Covert Blade,Ebonsteel,1,,1875,130,0,0,-1,-1,2,0,5,5,0,161,0,0,-1,-1,2,0,7,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase (+14? 20% of base EVA?)
+20,Ninja_Blade!A20,Ninja_Blade,110,Covert Blade,Ebonsteel,1,,1875,130,0,0,-1,-1,2,0,5,5,0,161,0,0,-1,-1,2,0,7,7,0,192,0,0,-1,-1,2,0,8,8,0,223,0,0,-1,-1,2,0,9,9,0,255,0,0,-1,-1,2,0,10,10,0,Evade Increase (+14? 20% of base EVA?)
 26,Ninja_Blade!A26,Ninja_Blade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 32,Ninja_Blade!A32,Ninja_Blade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38,Ninja_Blade!A38,Ninja_Blade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -372,11 +372,11 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,Ninja_Blade!A140,Ninja_Blade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,Ninja_Blade!A146,Ninja_Blade,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Ninja_Throw!A2,Ninja_Throw,174,Lower Ninja Kunai,Bronze,2,,120,13,0,0,-1,-1,0,-6,1,0,0,24,0,0,-1,-1,0,-6,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Ninja_Throw!A2,Ninja_Throw,174,Lower Ninja Kunai,Bronze,2,,120,13,0,0,-1,-1,0,-6,1,0,0,24,0,0,-1,-1,0,-6,1,0,0,35,0,0,-1,-1,0,-6,1,0,0,46,0,0,-1,-1,0,-6,1,0,0,58,0,0,-1,-1,0,-6,1,0,0,
 8,Ninja_Throw!A8,Ninja_Throw,175,Shadowrunner Kunai,Iron,2,,380,21,0,0,-1,-1,0,-6,1,0,0,36,0,0,-1,-1,0,-6,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 14,Ninja_Throw!A14,Ninja_Throw,81,Phantom Shadow Kunai,Steel,2,,720,30,0,0,-1,-1,0,-6,1,0,0,40,0,0,-1,-1,0,-6,1,0,0,50,0,0,-1,-1,0,-6,1,0,0,60,0,0,-1,-1,0,-6,1,0,0,70,0,0,-1,-1,0,-6,1,0,0,
 20,Ninja_Throw!A20,Ninja_Throw,109,Covert Kunai,Ebonsteel,2,,1875,40,0,0,-1,-1,0,-5,2,0,0,55,0,0,-1,-1,0,-5,2,0,0,70,0,0,-1,-1,0,-5,2,0,0,85,0,0,-1,-1,0,-5,2,0,0,100,0,0,-1,-1,0,-5,2,0,0,
-26,Ninja_Throw!A26,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Ninja_Throw!A26,Ninja_Throw,,Citrus-Blossom Hairpin ,Silver,3,,,40,0,0,-1,-1,0,0,5,0,0,62,0,0,-1,-1,0,0,5,0,0,80,0,0,-1,-1,0,0,5,0,0,93,0,0,-1,-1,0,0,5,0,0,99,0,0,-1,-1,0,0,5,0,0,"Inflict Charm, Defense Penetration"
 32,Ninja_Throw!A32,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38,Ninja_Throw!A38,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44,Ninja_Throw!A44,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
