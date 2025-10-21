@@ -22,7 +22,10 @@ This part of the Mausoleum resets every 2 weeks (on the same cycle as the guild 
     
 !!! map "Ancient Mausoleum"
     ![](img/ancient-mausoleum.jpg)
-
+<!--
+!!! map "Mausoleum of Guidance"
+    ![](img/ancient-mausoleum-guadance.jpg)
+-->
 ??? map "Shortest Path to a Chest"
     ![](img/shortest-path.jpg)
 
