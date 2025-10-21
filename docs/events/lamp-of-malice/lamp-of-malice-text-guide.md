@@ -8,7 +8,7 @@
     </div>
 
 ## How to participate:
-You need to have progressed in the story until the unlocking of the Cursed Wheel and accept the quest in the Royal Capital's Adventurers Guild. After accepting the quest, a new location will be accessible on the “Edge of Town”.
+You need to have progressed in the story until you have reached B7 in the Beginning Abyss on the second time around.
 
 ## Guide:
 1. On the entrance to the cave there’s an altar in which you can select 3 difficulty modes: Trial of Simplicity, Moderation and Impossible. Each difficulty increases the monster levels and rewards.   
