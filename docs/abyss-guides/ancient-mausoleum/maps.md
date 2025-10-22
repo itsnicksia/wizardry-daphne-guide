@@ -21,13 +21,13 @@ This part of the Mausoleum resets every 2 weeks (on the same cycle as the guild 
     - Beware of the Necrocore (Centaur) and the skeleton guards that might join him because they each have a skill that might Insta-Kill a party member.
     
 !!! map "Ancient Mausoleum"
-    ![](img/ancient-mausoleum.jpg)
-<!--
+    ![](img/ancient-mausoleum.jpg)  
+
 !!! map "Mausoleum of Guidance"
-    ![](img/ancient-mausoleum-guadance.jpg)
--->
+    ![](img/ancient-mausoleum-guadance.jpg)  
+
 ??? map "Shortest Path to a Chest"
-    ![](img/shortest-path.jpg)
+    ![](img/shortest-path.jpg)  
 
 ## Credits
 
