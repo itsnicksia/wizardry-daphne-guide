@@ -414,7 +414,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - Spawns with a front row and middle row of 3 lesser demons. The Greater Demon will be in the backmost row.
         - The Greater Demon can move twice per turn and will summon more lesser demons per turn as long as he doesn't reach the front row.
         - Once the Greater Demon reaches the front row, he will continually summon Greater Demons until the entire field is filled.
-        - The Greater Demon has a lot of surety evasion (~150)
+        - The Greater Demon has a lot of surety evasion (~150) and around 25-30k HP.
         - It is recommended to not kill all the lesser demons (don't let the Greater Demon boss reach the front row), buff front row with masolotu + use evasion gear, and carry ranged damaging options. Focus entirely on damaging the Greater Demon boss and just ignore the lesser demons.
 
     === "Map Location"
@@ -475,6 +475,7 @@ This is a new tab in the requests section that will be unlocked once the require
         - He only spams Frenzied Strike, which gives him a permanent undispellable CT buff. This attack can target his own allies as well. The attack is wind element.
         - This attack is extremely strong and can even one shot backline units if they are not defending/using knight's defense.
         - It is recommended if you are not strong enough to kill him in a timely manner with Knight's Defense spamming to simply cast Batilgref and defend to take advantage of opening damage.
+        - Has around 57k-60k HP.
 
     === "Map Location"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
