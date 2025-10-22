@@ -452,8 +452,9 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns with 2 Necrocores in the front row. The necromancer will be in the back row.
-        - If the Necrocores are alive and enough damage is dealt to him, he will cast Lazelos. Otherwise, he will simply support the Necrocores.
-        - It is preferred to kill the Necrocores first before dealing with him.
+        - Can randomly cast Lazelos.
+        - When both Necrocores are dead, he can summon skeletons like a typical necromancer.
+        - Both Necromancer + Necrocore cannot spawn as a relic monster.
 
     === "Map Location"
         ![](./img/veigar-the-sorcerer-who-rules-the-dead-loc.png)
@@ -471,7 +472,7 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns with 3 Succubi in the Front Row, and 2 Chimera in the back row. The Cyclops will be in the middle row.
-        - He only spams Frenzied Strike, which gives him a permanent undispellable CT buff. This attack can target his own allies as well.
+        - He only spams Frenzied Strike, which gives him a permanent undispellable CT buff. This attack can target his own allies as well. The attack is wind element.
         - This attack is extremely strong and can even one shot backline units if they are not defending/using knight's defense.
         - It is recommended if you are not strong enough to kill him in a timely manner with Knight's Defense spamming to simply cast Batilgref and defend to take advantage of opening damage.
 
