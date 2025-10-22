@@ -110,6 +110,7 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Fight Details"
         - Spawns with 2 skeletons and 2 skeletons knights in the front row, 2 skeletons and 1 skeleton knight in the middle row, and the boss skeleton mage is in the backmost row.
         - They are all susceptible to Marein
+        - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
         
 ??? danger "Six-Limbed Storm (180 Tokens)" 
 
@@ -162,8 +163,8 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns as a Scorpion Lady by itself.
-        - Will summon another Scorpion Lady in the backrow after a while.
-        - After a certain HP threshold is reached, will cast Rage, which allows it to move 5 times in one turn
+        - Will summon another Scorpion Lady in the same row after taking a certain amount of damage (~1200)
+        - After a certain HP threshold is reached, either Scorpion Ladies will cast Rage, which allows it to move 5 times in one turn
         - Fight can be ended without the second Scorpion Lady being summoned.
 
     === "Map Location"
