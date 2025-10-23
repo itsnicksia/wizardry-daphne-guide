@@ -193,7 +193,7 @@ Strength+ is a unique property that appears on 2h weapons that adds a portion of
 | Steel or Lower | 0.75                 | STR * ClassMod * 0.75     |
 | Ebonsteel      | 1                    | STR * ClassMod * 1        |
 
-# Resistance
+## Resistance
 
 !!! warning "The information about resistance is not exact, what we know is gathered through empirical evidence"
 
@@ -201,7 +201,7 @@ Resistance is a stat that contributes to resisting status effects. There are two
 
 All info in this section credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
 
-## Resistance Formula
+### Resistance Formula
 
 ![](./img/res-formula.png)
 
