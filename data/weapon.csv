@@ -216,7 +216,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,2H_Mace!A140,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Mace!A146,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,2H_Spear!A2,2H_Spear,6,Worn-Out Two-Handed Spear,Worn,1,,26,13,0,0,0,0,0,6,0,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+2,2H_Spear!A2,2H_Spear,6,Worn-Out Two-Handed Spear,Worn,1,,26,13,0,0,0,0,0,6,0,4,0,21,0,0,0,0,0,6,0,4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 8,2H_Spear!A8,2H_Spear,17,Bronze Two-Handed Spear,Bronze,1,650,104,29,0,0,0,0,0,10,0,4,0,40,0,0,0,0,0,10,0,4,0,51,0,0,0,0,0,10,0,4,0,62,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
 14,2H_Spear!A14,2H_Spear,61,Two-Handed Spear of Undead Bane,Bronze,1,,130,32,0,0,0,0,0,10,0,4,0,43,0,0,0,0,0,10,0,4,0,54,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,,,,,,,,,,,"Strength-Based +, Vs Undead"
 20,2H_Spear!A20,2H_Spear,68,Halberd,Bronze,1,,130,33,0,0,0,0,0,10,0,4,0,44,0,0,0,0,0,10,0,4,0,55,0,0,0,0,0,10,0,4,0,66,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
@@ -282,7 +282,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 68,2H_Staff!A68,2H_Staff,,Two-Handed Staff of Compassion,Ebonsteel,1,,,18,40,95,0,0,0,0,0,-4,0,41,63,118,0,0,0,0,0,-4,0,63,85,140,0,0,0,0,0,-4,0,86,108,163,0,0,0,0,0,-4,0,108,130,185,0,0,0,0,0,-4,0,"Strength-Based +, Holy Light of Healing"
 74,2H_Staff!A74,2H_Staff,,Two-Handed Staff of the Spirit Realm,Ebonsteel,1,,,18,104,50,0,0,0,0,0,-4,0,41,127,73,0,0,0,0,0,-4,0,63,149,95,0,0,0,0,0,-4,0,86,172,118,0,0,0,0,0,-4,0,108,194,140,0,0,0,0,0,-4,0,"Strength-Based +, Passive HP Up, Calamitous Rockfall Learned"
 80,2H_Staff!A80,2H_Staff,,Quicksilver Crosier,Ebonsteel,1,,,18,50,104,0,0,0,0,0,-4,0,41,73,127,0,0,0,0,0,-4,0,63,95,149,0,0,0,0,0,-4,0,86,118,172,0,0,0,0,0,-4,0,108,140,194,0,0,0,0,0,-4,0,"Strength-Based +, MP Absorption on Defeat"
-86,2H_Staff!A86,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,2H_Staff!A86,2H_Staff,,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,,,,,,,,,,,122,193,181,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit"
 92,2H_Staff!A92,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,2H_Staff!A98,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,2H_Staff!A104,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

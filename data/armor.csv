@@ -176,14 +176,14 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 290,Feet!A290,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 296,Feet!A296,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Hands!A2,Hands,3082,Old-Fashioned Gloves,Worn,Cloth,,12,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Hands!A2,Hands,3082,Old-Fashioned Gloves,Worn,Cloth,,12,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,6,0,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,
 8,Hands!A8,Hands,,Cloth Gloves,Worn,Cloth,,12,0,0,0,1,0,0,2,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,6,0,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,
 14,Hands!A14,Hands,3008,Worn-Out Light Gauntlets,Worn,Light,,14,0,0,0,2,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,7,0,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,
-20,Hands!A20,Hands,,Worn-Out Heavy Gauntlets,Worn,Light,,18,0,0,0,3,0,0,-2,0,0,0,0,0,0,6,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,Hands!A26,Hands,3031,Leather Gloves,Bronze,Cloth,290,46,0,0,0,2,0,0,2,0,0,0,0,0,0,5,0,0,4,0,0,0,0,0,0,8,0,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,
+20,Hands!A20,Hands,,Worn-Out Heavy Gauntlets,Worn,Light,,18,0,0,0,3,0,0,-2,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,8,0,0,3,0,0,0,0,0,0,11,0,0,5,0,0,0,,,,,,,,,,,
+26,Hands!A26,Hands,3031,Leather Gloves,Bronze,Cloth,290,46,0,0,0,2,0,0,2,0,0,0,0,0,0,5,0,0,4,0,0,0,0,0,0,8,0,0,7,0,0,0,0,0,0,11,0,0,10,0,0,0,,,,,,,,,,,
 32,Hands!A32,Hands,3087,Mineral Gloves,Bronze,Cloth,,58,0,0,0,2,0,0,0,0,0,0,0,2,2,5,0,0,2,0,0,0,0,3,3,7,0,0,5,0,0,0,,,,,,,,,,,0,5,5,12,0,0,12,0,0,0,
-38,Hands!A38,Hands,3023,Bronze Light Gauntlets,Bronze,Light,360,58,0,0,0,3,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,0,0,9,0,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,
-44,Hands!A44,Hands,3024,Bronze Heavy Gauntlets,Bronze,Heavy,450,72,0,0,0,5,0,0,-2,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,11,0,0,3,0,0,0,,,,,,,,,,,,,,,,,,,,,
+38,Hands!A38,Hands,3023,Bronze Light Gauntlets,Bronze,Light,360,58,0,0,0,3,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,0,0,9,0,0,5,0,0,0,0,0,0,12,0,0,8,0,0,0,,,,,,,,,,,
+44,Hands!A44,Hands,3024,Bronze Heavy Gauntlets,Bronze,Heavy,450,72,0,0,0,5,0,0,-2,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,11,0,0,3,0,0,0,0,0,0,14,0,0,6,0,0,0,,,,,,,,,,,
 50,Hands!A50,Hands,3047,Beastskin Gloves,Iron,Cloth,870,139,0,0,0,3,0,0,2,0,0,0,0,0,0,6,0,0,4,0,0,0,0,0,0,10,0,0,8,0,0,0,0,0,0,13,0,0,11,0,0,0,0,0,0,17,0,0,16,0,0,0,
 56,Hands!A56,Hands,3039,Iron Light Gauntlets,Iron,Light,1080,173,0,0,0,4,0,0,0,0,0,0,0,0,0,7,0,0,2,0,0,0,0,0,0,11,0,0,6,0,0,0,0,0,0,14,0,0,9,0,0,0,0,0,0,18,0,0,14,0,0,0,
 62,Hands!A62,Hands,3040,Iron Heavy Gauntlets,Iron,Heavy,1350,216,0,0,0,6,0,0,-2,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,13,0,0,4,0,0,0,0,0,0,16,0,0,7,0,0,0,0,0,0,20,0,0,12,0,0,0,
@@ -210,7 +210,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 188,Hands!A188,Hands,,Pyrite Armguard,Ebonsteel,Light,,,0,0,0,4,8,0,0,0,0,0,0,0,0,9,14,0,4,0,0,2,0,0,0,13,21,0,9,0,0,5,0,0,0,18,27,0,13,0,0,7,,,,,,,,,,,Passive Piety Up
 194,Hands!A194,Hands,3072,Ebonsteel Heavy Gauntlets,Ebonsteel,Heavy,,900,0,0,0,14,0,0,-2,0,0,0,0,0,0,19,0,0,2,0,0,0,0,0,0,23,0,0,7,0,0,0,0,0,0,28,0,0,11,0,0,0,0,0,0,32,0,0,16,0,0,0,
 200,Hands!A200,Hands,3120,Wilderness Gauntlets,Ebonsteel,Heavy,,1125,0,0,0,12,0,0,-2,0,0,0,0,0,0,17,0,0,2,0,0,0,0,0,0,21,0,0,7,0,0,0,0,0,0,26,0,0,11,0,0,0,0,0,0,30,0,0,16,0,0,0,Magical Beast Resistance
-206,Hands!A206,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,Hands!A206,Hands,,,Red Spinner Woman Spellwoven Cloth,Silver,Cloth,,,,,,,,,,,,0,0,0,25,0,0,-2,0,0,10,0,0,0,36,0,0,-2,0,0,12,,,,,,,,,,,,,,,,,,,,,", Sleep Tolerance"
 212,Hands!A212,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 218,Hands!A218,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 224,Hands!A224,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -285,7 +285,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 332,Body!A332,Body,,Cyclops's Sash,Ebonsteel,Heavy,,,5,0,0,45,0,-15,-2,5,-4,0,5,0,0,55,6,-15,-2,5,-4,0,5,0,0,65,13,-15,-2,5,-4,0,5,0,0,75,19,-15,-2,5,-4,0,5,0,0,85,26,-15,-2,5,-4,0,
 338,Body!A338,Body,,Master's Armor,Ebonsteel,Heavy,,,0,0,0,50,0,-2,-2,0,-4,0,0,0,0,60,6,-2,-2,0,-4,0,0,0,0,70,13,-2,-2,0,-4,0,0,0,0,80,19,-2,-2,0,-4,0,0,0,0,90,26,-2,-2,0,-4,0,Bind Tolerance
 344,Body!A344,Body,,Lionheart Plate,Ebonsteel,Heavy,,,0,0,0,51,15,-3,-2,0,-4,0,0,0,0,61,21,-3,-2,0,-4,0,0,0,0,71,28,-3,-2,0,-4,0,0,0,0,81,34,-3,-2,0,-4,0,0,0,0,91,41,-3,-2,0,-4,0,Beast Hate
-350,Body!A350,Body,,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bewitching Fragrance
+350,Body!A350,Body,,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,,,,,,,,,,,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,,,,,,,,,,,Bewitching Fragrance
 356,Body!A356,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 362,Body!A362,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 368,Body!A368,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -341,8 +341,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 254,Accessories!A254,Accessories,,Old Perch,Ebonsteel,Accessory,,,0,0,0,1,17,0,0,0,6,0,,,,,,,,,,,0,0,0,16,17,0,0,0,9,0,0,0,0,24,17,0,0,0,10,0,0,0,0,31,17,0,0,0,11,0,Composure of the Skilled Master
 260,Accessories!A260,Accessories,,Ring of Spellbreaking,Ebonsteel,Accessory,,,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Curse Tolerance
 266,Accessories!A266,Accessories,,Master Ring,Silver,Accessory,,,13,13,13,20,24,13,13,13,13,13,13,13,13,30,24,13,13,13,13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Passive MP Up, Passive SP Up, Detect +13 (static), Disarm Trap +13 (static)"
-272,Accessories!A272,Accessories,,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,,,,,,,,,,,Status Affliction/Debuff Exploit
-278,Accessories!A278,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+272,Accessories!A272,Accessories,,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
+278,Accessories!A278,Accessories,,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
 284,Accessories!A284,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 290,Accessories!A290,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 296,Accessories!A296,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
