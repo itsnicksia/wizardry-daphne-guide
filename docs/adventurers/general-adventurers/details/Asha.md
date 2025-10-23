@@ -16,7 +16,7 @@
         ![](../img/asha-priest.jpg)
 
     === "Witching Mage"
-        ![](../img/asha-witching_mage.jpg)    
+        ![](../img/asha-witching-mage.jpg)    
 
 ## Skills
 
