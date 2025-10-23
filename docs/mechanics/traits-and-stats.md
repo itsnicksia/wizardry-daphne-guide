@@ -223,7 +223,7 @@ All info in this section credited to: [名はある冒険犬柴丸](https://www.
     | Prediction Hood                              |  Gacha Equipment       |      ?         |          N/A             |
     | Honest Living (Olive)                        |  Adventurer Passive    |      50        |          N/A             |
     | Apostle of Breaking Commandments (Red Beard) |  Adventurer Passive    |     70-80      |          N/A             |
-    | Future Dreamt With the Skill (Yekaterina)    |  Adventurer Discipline |      25        |          5               |
+    | Future Dreamt With the Skull (Yekaterina)    |  Adventurer Discipline |      25        |          5               |
     | Bind Tolerance Up (Mind)                     |  Well of Mind          |      30        |          3-4             |
     | Bind Resistance                              |  Harken Blessing       |      30        |          N/A             |
 
