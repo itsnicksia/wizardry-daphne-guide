@@ -36,10 +36,11 @@
         {{ get_skill_description("Compassionate Apothecary") }}
 
     === "Witching Wisdom (Witching Mage)"
-
+        {{ get_skill_description("Witching Wisdom") }}
         
 !!! info "Discipline Skill"
     === "Apothecary's Knowledge (Standard)"
         {{ get_skill_description("Apothecary's Knowledge") }}
 
     === "Red Spinner Mage (Witching Mage)"
+        {{ get_skill_description("Red Spinner Mage") }}
