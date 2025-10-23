@@ -15,20 +15,31 @@
     === "Priest"
         ![](../img/asha-priest.jpg)
 
+    === "Witching Mage"
+        ![](../img/asha-witching_mage.jpg)    
+
 ## Skills
 
 !!! info "Inheritable Skill"
-    === "KATINO"
-        {{ get_skill_description("KATINO") }}
-        
+    === "KATINO (Standard)"
+        {{ get_skill_description("KATINO") }}  
+
+    === "MAHALITO (Witching Mage)"
+        {{ get_skill_description("MAHALITO") }}  
+            
 !!! info "Potential Inherit"
     === "BATILGREF"
         {{ get_skill_description("BATILGREF") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Compassionate Apothecary"
+    === "Compassionate Apothecary (Standard)"
         {{ get_skill_description("Compassionate Apothecary") }}
+
+    === "Witching Wisdom (Witching Mage)"
+
         
 !!! info "Discipline Skill"
-    === "Apothecary's Knowledge"
+    === "Apothecary's Knowledge (Standard)"
         {{ get_skill_description("Apothecary's Knowledge") }}
+
+    === "Red Spinner Mage (Witching Mage)"
