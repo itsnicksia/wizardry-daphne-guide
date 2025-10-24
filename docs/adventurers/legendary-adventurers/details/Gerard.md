@@ -47,6 +47,18 @@
 
     This guy’s job is to be the resident low-value buzzkill, when pulling for some other legendary once limited legends get added to the pool. Outclassed by general adventurers, what a life.
 
+??? info "Shiro's Analysis"
+
+    Starting with inheritance… It was made for Helmut alone in mind for early game… but for whatever reason Gerard himself is dark. So it never was a good synergy or good damage option. One of the most niche at best inherits.
+
+    Moving on passive. It’s good, especially in the earlier part of the game. Having more EVA is not a bad choice and helps especially in the early part of the game. Sadly it falls off heavily later on.
+
+    His discipline further pushed the idea of him being a dark evasion tank… which wasn't a bad idea I guess? But hey… Savia exists… So I’m unsure how to feel about it.
+
+    His class change is fighter which is his saving point. His passive and discipline come more at play there making him easier to build. Nothing amazing honestly but it’s still a really solid option if you like his design.
+
+    To sum it up. Gerard is a solid pick that’s mostly mediocre when it comes to everything. His inheritance wants Reaven Dagger to proc more paralysis and synergy good with wind damage… but we don’t have earth enemies to play on it too much. On top of that he's a dark element so he’s out of synergy with his own skill… but it’s something that saves him later on making him a solid fighter option for abyss 3 where dark damage is quite present… The issue is that he’s not unique in it and Gandolfo or Elda fit the same role. While I do think that Gerard got way more hate from the playerbase than he should, he's still… just solid. Maybe in future when we’ll get access to farmable 3 hit weapons his inheritance will shine with more common paralysis procs but as for now… there are other options.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

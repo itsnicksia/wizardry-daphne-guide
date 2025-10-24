@@ -60,6 +60,18 @@
 
     This chick is an easy skip right up until they give her fighter or something like it. Then she’ll be able to put up big numbers while getting Dark/Evil synergies from units like Alice, Rinne and Milana. Just wait til they put def-penetration or nimble-strike on a spear.
 
+??? info "Shiro's Analysis"
+
+    Starting with inheritance. It’s really a good hard hitting counter. Working well with Savia access to 2h weapons (especially spear or bow) and while a bit of rng based because of how taunt works still does it’s job thanks to cover abilities. On top of that it boosts her evasion, letting her be an even better evasive knight. I personally don’t know if I would give her inheritance to anyone else. Maybe Debra. But it’s worth considering to lvl it on Savia.
+
+    Moving to her passive while not highly impactful pushes her further towards being an evasion tank. It works well with spear and Le Bicken armor letting her to get decent evasion just with those 2 alone.
+
+    Moving to her discipline I personally love it because of how strong the evasion number is and how I do love to use evasion units. It allows her to hit really high and absurd evasion values, besting thieves as a knight.
+
+    Her class change is a thief which is amazing for her. Not only does it further boost her performance as evasion knight is also buffed her damage thanks to surety accessibility. On top of that she gets PS from the thief for the single target damage option. You might as well use her as a thief with a bow but that’s not the best way to use her IMO. Though she still performs as a better counter thief than one other character without access to taunt (Yes Aldric. I’m looking at you).
+
+    To sum it up. Savia's best performance will be knight with a mix of her counter+cover abilities. She had shown to be able to hit quite hard even against some bosses with DEF up.  Even better if we are facing physical bosses with multiple attacks (like Elmon second cave). Sadly to perform well she needs lvl 1 Alice inherit and preferably lvl 5 to put the best use of her rotations. On top of that, a good bunch of bosses seem to use magic attacks. So unless Savia counters won’t get some kind of rework she’s just a regular knight on those. But thanks to being a dark element she’s never a bad option in your team.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

@@ -65,6 +65,18 @@
 
     In summary this guy seems to have an awesome backstory.  His design is legitimately cool.  The concept drecom pursued for this character was honestly solid, different, very creative, and commendable.  Sadly their execution was not quite so hot.  I really wish I could say this character is good, but he isn't.  Maybe on rerun he will get a new class and that will tilt the balance.  Right now, no, just no.
 
+??? info "Shiro's Analysis"
+
+    Starting with his inheritance. It's a really solid damage option outdamaging 500 MATK mage lvl 3 MA spell (17 cost) while costing Raffaello 20 with 4 return every turn he kills something additionally giving front lane healing depending on numbers of target hit. Really strong inheritance on himself thanks to his ability to hit high piety especially with discipline.
+
+    Moving on his passive. It’s 4 MP return per kill. Which gives him the ability to be a really good adventurer with a 2h hammer when it comes to the general content of the game. Really solid option for a priest with access to AoE.
+
+    Moving to his discipline. So far it’s the best IMO discipline for priests. PIE+MP. Not only does it give better scaling with Priest Weapon Mastery but it also goes really well with the second abyss book giving him a bit better survivability. 
+
+    As for class change I do hope it’s a knight. While a fighter would make him a better frontline it won’t go well with his PIE. And while mage would be nice thanks to MP regen per kill it doesn’t go well with him having a fire element and he’ll need to fight with other strong priest-mages like Alice, Adam or Sheli.
+
+    To sum it up. Raffaello feels like a test towards bringing something close to lord class in future. Giving him access to strong PIE scaling aoe which doesn’t need DIV to keep the DMG and healing letting him to be frontline physical damage dealer fully. Who will use his AoE for occasional emergency situations. In the future getting a knight will push him to better sport as a physical damage option while giving him access to magic AoE that will scale with knight PIE. The only issue being will be the MP pool which will need to be covered by relics/gear. He might not be the best option as for now but I do love the idea of him playing and in my completely biased option he's a really good pick. Especially if you grab PIE IV, and his gacha gear to push his potential damage from PWM and survivability from the second abyss book so he can be a great frontline option.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

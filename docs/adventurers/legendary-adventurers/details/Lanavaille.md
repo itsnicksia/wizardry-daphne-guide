@@ -89,9 +89,29 @@
 
 ??? info "Frobro's Analysis"
 
-    Do I even need to explain this one? One of the few well-aligned party buffs in the game. That post-battle healing is incredibly strong. At level 1 it falls off after the early game which makes people think lowly of it, but it is great even at level 60 with just a few more levels. Assuming you use Lana, this isn’t the worst use of Codexs around. I don’t even bring a healer when auto-farming events anymore.
+    === "Standard"
 
-    The real kicker here is that to reach her full potential, you gotta switch Lana to fighter. (After learning all the knight stuff first) The downside is having to look at dork fighter Lana. The upside is that Wana exists. Besides looking better as a fighter, Wana also gets an ASPD boost with a gear-based conditional and turns Lana’s “whatever” discipline focus into “whatever…but better”. When merged, you only need to level the Queen of War and Love skill on one unit to apply it to both styles.
+        Do I even need to explain this one? One of the few well-aligned party buffs in the game. That post-battle healing is incredibly strong. At level 1 it falls off after the early game which makes people think lowly of it, but it is great even at level 60 with just a few more levels. Assuming you use Lana, this isn’t the worst use of Codexs around. I don’t even bring a healer when auto-farming events anymore.
+
+        The real kicker here is that to reach her full potential, you gotta switch Lana to fighter. (After learning all the knight stuff first) The downside is having to look at dork fighter Lana. The upside is that Wana exists. Besides looking better as a fighter, Wana also gets an ASPD boost with a gear-based conditional and turns Lana’s “whatever” discipline focus into “whatever…but better”. When merged, you only need to level the Queen of War and Love skill on one unit to apply it to both styles.
+
+??? info "Shiro's Analysis"
+
+    === "Standard"
+
+        Starting with inheritance. It's a really strong one for the early part of the game-mostly abyss one and two. But even when maxed out in the third abyss it feels like QoL at best and having it on her or your MC will rarely make difference in long run despite halved healing. Because either enemies don’t do enough DMG and healing won’t matter or they hit too hard and it’s not enough. Never in the sweet spot to justify using Lana alone for it.
+
+        Moving to her passive. It’s good. Massively overrated to a point where people lose their heads saying you’re not allowed to run an evil front but still good. But in practice? Unless you stack it with other % bonus passives like Madam or Elise you’ll barely feel any difference in fights outside that light dopamine kick from slightly bigger numbers. Definitely not worth worrying about team comp just to run around it.
+
+        Her discipline felt like absolute ass for a really long time till we got to the third abyss. And now it turned out to be actually a good one. Having charm/conf resistance will never go wrong and allows you to build faster immunity. Definitely worth investment after you’re done maxing out her inheritance on her.
+
+        Her class change is a fighter which is a massive upgrade to her. Once you’ll get it there’s no reason to go back to knight. Her lane buff starts to become more useful on her too as she’ll be one of your main damage dealers with access to it.
+
+        To sum it up. Lana is not game changing by any means but she’s still a great solid pick. If you’re running an evil team, kick her out or use her in the backlane for some auto farming setups with Abenius, Debra or whoever else you might use in the back as a neutral/good damage dealer. It was nice to have “Lana meta” back in the days when we didn’t have that many strong evil options and when her buff somehow makes for gaps in your equipment. Otherwise? Nothing worth losing your head about or panicking that you don’t have her. But hey. She’s good at buffing Liviana backlane damage.
+
+    === "Wandering Princess"
+
+        She gets some bonus ASPD from 1h sword, light armor and slightly more bulk on discipline. Nothing to write there over it. It's an upgrade especially for speed tuning but that’s all.
 
 ## Adventurer Pull Plans
 

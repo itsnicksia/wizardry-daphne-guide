@@ -56,6 +56,18 @@
 
     Right now, ninjas are flashy but take a lot of investment and junk grinding to outperform fighters. Now that MC gets access to Ninja, things are even worse for Rinne as we don’t need her for Dissipation and her use case shrinks even more. An inspired voice performance and a top 5 character model on a kinda middling unit.
 
+??? info "Shiro's Analysis"
+
+    Starting with inheritance. It's a spell. So you need to have a lot of surety to hit surety hits on it. But it scales with ATK. It's kind of disappointing for me why it didn’t get the TZALIK treatment but looking at how strong it’s I guess it’s fair. Because it puts mages high lvl MA spells to a shame even at lvl 1.
+
+    Moving to passive. It’s solid. Surety but only for evil characters. Would be better if that includes neutral but it’s what it’s.
+
+    Moving to discipline. It’s great. ACC is kind of fine but SUR makes it really worth the investment when you’re going to max out Rinne. Especially since thanks to her classes she’ll have a good bunch of surety letting her to get close to hit surety with her AoE or have stable surety hits on bosses.
+
+    Her class change is a thief. Back in the day, it was the worse option, that was nowhere close to ninja. Now? It’s her better choice. Even if you have the most crazy ebon kunai they won’t be hitting as hard as a bow. Bow scaling with skill at this moment completely outshine kunai giving a lot of damage difference on skills. So unless you use her for basic attacks only or you have a high lvl Ninja Dual Wield then it’s not worth going for her ninja class. Especially when bows are much easier to farm.
+
+    To sum it up. Rinne has a great class setup, She has great inheritance, she has great discipline, and her passive is solid. On top of that she has a dark element resulting in good state in the late part of abyss 3 fights. She's a solid investment and arguably the best thief and ninja option as for now. And unless devs won’t come with anything crazy she’s quite safe from risk of powercreep. It’s also a good idea to grab MoF on your fighters to make farming a bit faster with AoE spam. Otherwise go ahead and invest in Rinne.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

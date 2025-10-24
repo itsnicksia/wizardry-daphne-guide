@@ -53,6 +53,18 @@
 
     Simple but effective. Not exactly flashy, but still one of the best fighters in the game.
 
+??? info "Shiro's Analysis"
+
+    Starting from her inheritance we have basically free attack on the enemy. While in case of harder enemies/bosses the impact is quite small and rarely will make a difference (assuming it’s not leveled) the case is different if we got for all around dungeon clear or for farming purposes. In those cases it's a good push towards faster fights. Whenever it kills one of the enemies in the group or slightly weakens a stronger one doing not only damage but also giving him ACC debuff. In the end it's a really good skill for self inheritance but not so good on others because of lowered activation rate.
+
+    Moving on to her passive, it's a really amazing one especially for second abyss/middle floors of third abyss or both Le Bicken and Hundredfold Blossom caves. Not only does her passive buff her damage vs Magical Beast but also reduces damage received from them. Lucky for her those are really common enemy types so she’ll have a good bunch of time to shine.
+
+    Moving to her discipline. While in the earlier phase of the game I was really skeptical of her and Lana's, it turned out to be a really good one as we arrive in abyss 3 and we have quite a few enemies that tend to proc charm/confusion. And those are one of the most annoying statuses. It’s one of rare cases where I’d say that it’s worth going for a disc. 
+
+    Her class change is priest, which is one of my favorite options for fighter class. Having it saved me really many times against annoying statuses from enemies like vampire/succubus/gorgon. Not only is it good for cleanse and sometimes emergency healing (assuming you carry staff and you’re not too lazy to swap weapons). But it’s also a good potential for faster fight setup on bosses giving you more buffers in a team and speeding up for example porto on everyone. Overall very solid class change for supportive reasons. On top of it Priest Weapon Mastery helps a bit with attack.
+
+    To sum it up I believe that Abenius is one of best options when it comes for a fighter (and the best one for general content) thanks to having overall really solid class options, unique passive, inheritance and discipline. I would personally invest in inheritance firstly because it’ll be useful in more situations than more charm/conf resistance but in the end it's a matter of personal opinion on what you find best. Her only downgrade is that her unique doesn’t active on ambush. But at least that way you don’t lose the Assault Guard turn.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

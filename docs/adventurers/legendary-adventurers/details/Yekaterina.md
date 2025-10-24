@@ -112,6 +112,26 @@
 
         I am going to say I rate her slightly above (VERY SLIGHTLY) normal Yeka, but her long term value will be directly tied to the upcoming character merge changes Drecom makes.  If those changes are lack luster what I affectionately call Summer Yeka will be kinda lack luster (from a meta viewpoint) as well.
 
+??? info "Shiro's Analysis"
+
+    === "Standard"
+
+        Along with other, standard banner characters, she has a really strong inheritance, not as good as Alice, Debra, Adam or Lana, but despite it, still a good one QoL. Also unlike Lana’s you can stack it all over your team so unless you don’t like Yeka really much she’ll be mostly food for lvl 6 on every of your character that you use.
+
+        Moving to her passive - it’s boost vs undead. Nice in the first abyss 7th floor and in third for early floors or catacombs. It’s niche at best.
+
+        Moving to her discipline - MP is valuable because Yeka suffers from mana issues. But outside of the resistance to spell bind have low value because we don’t have gear to build immunity to it.
+
+        As for class change. It’s a priest. And honestly? I’d personally run her as a priest if anything. If you don’t use mages as a damage dealer but support, then Yeka value skyrockets. Still she doesn’t bring anything as crazy as Alice, Sheli or Madam but she’s definitely a solid option.
+
+        To sum it up Yeka is the worst legendary mage with a really bad setup (earth+human) which gives her only survivability. But if Alice as mage can survive multiple 0C GWO roars then I don’t see a value in Yeka having more bulky HP. She’s losing hard to best casters like Alice and Sheli, or slightly worse ones like Adam/Miliana/Flut/Iarumas fighting for life with Dino/Elf-Mag or Emil. But she’s still great for the early part of the game where her buff actually matters on first abyss or in second where she’s earth element. Sadly unless we won’t get purely undead abyss then she won’t see the light. And even if we do then Raffaello with an anti-undead 2h hammer will perform better there.
+
+    === "Everdistant Summershade"
+
+        I’m genuinely confused with what devs tried to cook there. She gets more HP which is already completely unnecessary for mages. On top of that physical DMG resistance? For what? Neither 0C GWO or Necrocore can kill Alice or Sheli as mage with way less HP using their physical attacks. So unless we won’t get strong physical backrow damage in A4 then it’s kind of pointless.. 
+
+        But hey her discipline gives even more… HP. Yeah. Better than base one but unless Yeka won’t get HP scaling skill then I don’t see a point. But hey! Maybe devs really want to make Yeka a MADI focused damage dealer? Because I don’t get it at all. Maybe I miss the future vision where mages get HP scaling skills. Overall worth to get if you use Yeka for merge… or get it and her gacha gear and go for MADI build?
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

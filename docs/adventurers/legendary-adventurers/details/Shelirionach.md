@@ -91,6 +91,18 @@
 
     There are no must pull characters in this game.  Shelirionach is really, really, really close to meeting that requirement though.  This is a character that has no real weakness, has the best MP economy in the game, and has a meta set up for their class and role from a traits perspective.  There is no catch 22, everything about her is good.  Other than her alignment, that's evil.
 
+??? info "Shiro's Analysis"
+
+    Let’s start with her inheritance. It's a really great passive source of survivability similar to Adam’s. There’s no reason why you wouldn’t want to inherit it just for a bit more of a chance for a better survivability because while combined with Adam inheritance, priest book and WotK your character suddenly becomes something way tankier than you could expect.
+
+    Moving to her passive. While it's amazing on first glance and definitely great for all around purpose it can be a double edged sword. It surely works great on more regular enemies and bosses. Being basically “cheat” ability for farming purposes. Especially after auto changes as a priest. But what happens when you get into an actual hard boss fight where mages simply don’t perform well as damage dealers and she goes to sleep instead of being able to cast important buff/debuff or heal? Just pray that whoever else in your team also fits this role will make up for that dead turn or few. 
+
+    Going to her discipline, it’s the same as Adam. Nothing much to say. It’s really good but it doesn’t bring anything specific to be worth chasing over her inheritance.
+
+    Her class change is priest which is completely pushing her further into an amazing position as generalist. Because you can go for endless farming routes spamming DIOS or cleanses as much as you want because she’ll always regen MP. Also the best of course class change for mage.
+
+    To sum it up. While Sheli is best generalist caster doing an amazing job at farming/clearing abyss she falls on boss scenarios not bringing anything as important as Alice gamebreaking buff duration or Madam/Miliana buff for the team. On top of that her passive ability can sometimes be an issue and ruin harder fights with bosses if you run out of mana fast. She’s unarguably the best caster for general abyss and farming by breaking game mechanics with MP regen but it becomes unimportant/problematic in boss fights where it eats one turn for just 8MP and skill that comes nowhere close to what fighters can hit. In short, she’s falling behind the best caster we have - Alice and options like Madam or Miliana when we’re dealing with a really hard fight despite her min-maxed female-elf-dark setup. Going for knight “recovery” passive is some sort of way to deal with it but then it’s basically ruining the purpose of what Sheli is - QoL for general content that’s not made for bosses in main idea.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

@@ -119,6 +119,31 @@
 
         Also despite the bedazzling, new name, and new skills all around.... she is still thief / knight.  This is just not a great class combo and there is no way around it.  Is she better than standard Debra?  Yes, Gold Maiden is absolutely better than normal Debra. Is she better than a leveled fighter / thief Benjamin with discipline?  No, not really.  Even though this is an improvement on the character, and she is going by a new name, she is still just Debra at the end of the day.
 
+??? info "Shiro's Analysis"
+
+    === "Standard"
+
+        Starting with her inheritance she gives you the ability for a better SP economy. Which… similar to Adam is more a problem for her than a bonus. Because inheriting her physical characters make it easier for you, leading to less interest in raising Debra herself. Still, her inheritance is amazing and it’s definitely shining in earlier parts of the game and in castle ruins.
+
+        Moving to her passive. Again similar to Adam it’s limited up to 10 cost abilities. Why? I wish to know. So similar to Adam it’ll show value in the first and second abyss and fall in the third one. 
+
+        Going to her discipline allows you to build paralysis tolerance… which is niche at best for now. Unless we won’t get more annoying enemies with it in future it’s not really worth consideration as for now.
+
+        Her class change is knight which is IMO upgrade over her thief class. Not only her SP regen is more impactful there thanks to lower SP pool on knights but she’s also having access to better weapons and more armor pieces making her easier to build. On top of that she’ll have less survivability issues letting her to be picked against some dark bosses with light weapons and Madam for optimizing her damage potential.
+
+        To sum it up… it’s really short analysis but there’s just not much to talk about. Her main selling point is her inheritance and ability to make abyss one and two easier for people in early game, with Old Castle on top of it… but that’s pretty much all. She's a standard banner and she’s great at doing what standard banners characters should do - making game easier for newbies.
+
+    === "Golden Maiden"
+
+        As soon as she dropped I was amazed reading how much text her passive and inheritance had. Which turned out to be effective bait…
+
+        Starting with inheritance. It’s not worth using it on other characters. It works good on Debra especially if you hit lvl 3+ on it and you have somewhat descend evasion (200+ with bow). From my personal experience using Mirage Hunting works better when she uses it as a knight and would be really great if she had access to fighters to balance out STR and evasion even more… but it’s what it’s
+
+        Moving on her passive. It barely helps from what I’ve noticed. A lot of text with minimal effects. As a thief you’re better to go bow on frontline with her than shield+sword/dagger, and as a knight you have even better 2h weapon access. I don’t need to say much more there. And no, even when I tested it with +60 evasion shield with a really good Sword of Promise it doesn't even come close to covering the difference with sword vs bow (at least on lvl 1 Mirage).
+
+        Her discipline is actually amazing and it’s one of those rare cases where it’s worth investing. Mostly thanks to how strong SUR disciplines are compared to rest. 
+
+        To sum it up. If you like using Debra and you want to use her go ahead and pull. Get her Mirage Hunting on at least lvl 3 and then you can think about raising her discipline on higher levels. Or just focus on getting lvl 7 Mirage Hunting while using regular Debra for upgrading her discipline. Anyway she's a solid option for a thief and she’s on the better end of them. Just turned out to be more impressive by sole descriptions rather than in practice. She’s also performing better as a knight than a thief… so go ahead and grab her book if you’re using her. Thanks to the latest auto battle changes she’s our auto queen now allowing all the skills up to 13 SP to be cast for free (as long as you have her inheritance maxed out).
 
 ## Adventurer Pull Plans
 

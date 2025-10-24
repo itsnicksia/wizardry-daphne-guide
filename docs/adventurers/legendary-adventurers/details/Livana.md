@@ -77,6 +77,20 @@
 
     So we have a great passive uninheritable skill, a great inherit skill, her alt class is revealed as Knight which has strong fighter synergy, and her Moonlit toss is so good you kinda don't miss FPS on knight anymore.  Even as a Fighter you will prefer the toss over FPS except in extreme SP conservation situations.  I hate to say it everyone, but Livana is an ugly duckling that grew into a sexy swan. As far as I am concerned she is now one of the best fighters in the game, and from a raw DPS perspective might be the best Fighter in the game.  She definitely has the highest Knight DPS potential as a stock character save maybe Galbadus after he gets attacked say 3 times.  Best part, all she needs is normal fighter inherits and 1 Adam.  She might have some spotty moments with some enemies in Abyss 3, but she should be good to go everywhere else in current game content.  Sure her discipline could be better, but there is nothing else wrong with her in todays two hander economy, and a whole lot that is very right. 
 
+??? info "Shiro's Analysis"
+
+    Back in the day we joked that human-fighter was better than her. Now things have changed.
+
+    Starting with her inheritance. Past 2h weapon buff it became arguably the best DPT option with reasonable SP cost to inherit. DMG wise on par with Eruption Strike while lacking weapon restriction. On top of that it ignores range penalty and debuff MATK. Not as strong DPT wise as Astral Break but definitely a really hard hitting ability that can hit ranged targets no matter of the weapon you use. On top of that the SP cost is really low. It was a solid option back then, now it’s great. My only beef with it is that skill sealing is niche at best. Because every enemy that depends on it has immunity to it. Unless you’re B&B collab dragon who happens to be weak to water. But oops. He was before Livana was released.
+
+    Moving on her passive. It’s not much but it’s definitely enough of an upgrade over passive that Gerulf has to put him to shame. Especially good thanks to the 2h axe being the best weapon option in the game as for now (2025). 
+
+    Moving to discipline. I won’t say much there because that’s her weakest part. It’s bad and completely ignorable.
+
+    Her class change is a knight which is the best she could get and what some people hoped for. There’s not much more to say. More bulk and access to knight defense gives her no dead turns as a backrow option.
+
+    To sum it up. Livana is in a great spot now, especially as a knight. She along with Galbados are best knight DPT options that either hit like a truck or use knight defense depending on the needs. While skill on lvl 1 is worse SP wise and comparable at best to FPS DPT wise it doesn’t have turn to load unlike FPS. Which makes it way more stable and a better option for DPT which pushes her even more as a knight because she doesn’t need any other option for damage. On top of that she can use 2h axes in backrow without issues thanks to it giving her access to the best weapon type in the game without range penalty. Definitely one of the best knights and one of the better fighters in the game at this moment. She’s one of two characters that benefit the most with recent buffs along with Gerulf.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

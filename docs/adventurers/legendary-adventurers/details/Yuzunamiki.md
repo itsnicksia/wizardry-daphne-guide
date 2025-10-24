@@ -72,6 +72,17 @@
     
     But seriously her skills are awesome and she is now easily the best Ninja in the game.  She doesn't even really need any special inherits you wouldn't want to give to any other Ninja.  Drecom knew exactly what they were doing this time and they delievered a great character that has a very clear DPS and CC role synergy that can work well in both manual and auto play.  Also yeah, her design is great I can't lie.  They did the anniversay character reveal right with Yuzunamiki.
 
+??? info "Shiro's Analysis"
+
+    Our anniversary ninja. And honestly? A really good one rivaling well with Rinne for top stop.
+
+    Starting from her inheritance. It's a really good source of damage but locked to ranged only (so either bow or kunai). On top of that it's a random hit. In shortcut? Unlike Rinne AoE which is better than MA, Yuzu has Wild Throw on steroids. Not only is it superior damage wise, but it also can hit the same target multiple times.
+
+    Moving to her passive. It’s stacking debuff that buffs all incoming damage on target. While on one part it’s great - it's an additional hit and it’s guaranteed on top of it. It also counts to a debuff limit. So can be removed by casting for example MORLIS+BATILGREF. And it’s really not that impactful, similar to Lana buff. But it's still better to have it than another stat passive.
+
+    Moving to her discipline. It’s ATK+SP. Great option for ninja but not worth chasing over her inheritance IMO. 
+
+    To sum it up. Yuzu has a great setup for being a ninja (if only she had been a fire element instead of earth…) and it's a completely valid option for your team for various reasons. If you need a second ninja and you don’t have Rinne to fill that role then go ahead and pick her. If she ever gets a fighter option in future with access to bow we might see some absurd numbers from her. As for now she’s still hitting like a truck as long as the target doesn’t have too much armor. Sadly without her 3 hit kunai her inheritance dmg drops quite a bit (4 hit instead of 6).
 
 ## Adventurer Pull Plans
 

@@ -53,6 +53,18 @@
 
     As for Eruption Strike, it’s basically Heavy Attack 3 but red and you gotta use a 2-handed hammer. Even if you use Gerulf in your party, you’re still gonna use Full Power Strike over this. An inherit skill so bad that even the owner doesn’t use it, wow. Beyond that, an evil front liner ruins the feng shui for many players, which makes his whole thing a no-go. Honestly, is this guy really any better than Benjamin?
 
+??? info "Shiro's Analysis"
+
+    Starting with his inheritance that was meme back in the days after 2h changes it started to hit as hard as DTS (when inherited on others - on Gerulf it’s even better option) which is a huge upgrade. The issue being that you need a 2h hammer for it. For himself with a 2h hammer? It's a great damage skill that will ditch out really high DMG and it’s nothing to laugh about anymore. Might synergize well with picks like Amelia/Chloe/Lana/Raffaello and shine strong if we’ll get wind theme abyss. As for now it's a solid option but it’s not as useful as Livena’s skill.
+
+    Moving to his passive. He doesn’t have one. I mean… it’s there. But it could as well not be there and no one would see the difference.
+
+    Moving to his discipline. He’s got one among the best for pure unga bunga purposes. SUR focused discipline is always a good choice to rise especially if you’ll want to max out and use your Gerulf. And it’ll be his best possible choice unless his future alternative version won’t bring something like double SUR focus or SP+SUR.
+
+    His class change is priest. Which is a great choice for an evil party with an additional setup of buffs or cleanse if you don’t run Arboris. Otherwise it’s a bit of wasted potential for possible thief passives for SUR damage or knight for even more survivability.
+
+    To sum it up. When it comes to unga bunga, Gerulf is your best choice and he’ll do it better than any other fighter. Definitely worth dropping the idea of going crazy over Lana passive and using him if you like him. The only issue is that he’ll be sitting on your front row with a 2h hammer to bring most of his potential. So if you’re using for example Galba that are already 2 front slots taken. His Eruption Strike is doing great damage now, his setup (fire, male, dwarf) is perfect for fighters that benefit greatly from STR and DEX with only demerit - low SPD. His discipline is great. He’s simple but he does what he’s supposed to do the best - using a hammer for crowd control. After all there’s no better crowd control than death.
+
 ## Duplicate Usage
 
 * Inherit on his own skill will increase the damage and cost of his Eruption Strike.

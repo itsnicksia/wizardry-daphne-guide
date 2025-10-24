@@ -74,6 +74,18 @@
 
     TLDR?  Shiou (and Samurai as a class) has a very real learning curve, needs a lot of set up, but when set up correctly has the potential to be the best DPS in the game.  So again, ""it's complicated"", but also very worth it."									
 
+??? info "Shiro's Analysis"
+
+    Starting from inheritance it’s working great on Shiou, Galbados or Savia. But I wouldn’t personally recommend going crazy over it and let your priests do the buffs in a team. It’s good for a niche and surely works well with Will to Fight and Back-against-the-Water Formation but as for now we don’t have a lot of options to use it with well and we might need to wait for GUTS focused class for better performance.
+
+    Moving to her passive… it’s actually active this time. And hella strong one. Not only can it be leveled with books it hits like a goddam truck leaving all the damaging options in the forest. With good SPD and porto it’s also pretty much instant ability. And best of all? It bypasses defense. Now. How strong is it? Strong enough to kill anything including superboss on lvl 7 in single or almost single hit. The only issue? She needs to be under 30% HP which can be without issues solved by speed tuning her so there’s no actual risk to it.
+
+    Moving on discipline. Devs went completely with the idea “let’s make her as broken as possible” and they gave her Gerulf discipline. I don’t need to say much more there.
+
+    As for class change she doesn’t have any. But she’ll benefit from either fighter/knight/thief for different purposes. One will push her dmg, another will let her play more on low HP and last one will push her surety damage (let’s pray she won’t become mage or priest for w/e reason).
+
+    To sum it up. Shiou belongs to a new class - samurai which is simple as a stick. You’re either using a counter or spamming bamboo splitter without need to think. If you drop for low HP buff then great, It’s not needed though. DTS from my experience is bad on samurai compared to fighters with axes (lvl 3 samurai DTS was hitting as much as lvl 1 DTS on fighter) so it’s easy skip for a skill in kit. Her elemental buffs are good but first you need to have a long enough fight and boss on which elemental advantage works. Which leaves us with basically 2 choices. Counter or Bamboo - better FPS. Which means we’re left with a simple unga bunga class. The only thing with Shiou that needs a bit of thinking is setting up her nuke which you can drop with poison traps or just wait for it to occur naturally in a fight and punish the boss for what he shouldn’t do - fighting back. Oh, also thanks to being wind beastfolk she have great stat setup with good speed. Because why not?
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

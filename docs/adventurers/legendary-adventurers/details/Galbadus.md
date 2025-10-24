@@ -84,6 +84,18 @@
 
     It is critical to understand that this character as it stands now is not a "good to go" character.  His alt class, when it's released, will be critical to determining his long term value.  His Raging King skill is good, but it has to be leveled ideally to level 3 or higher for use in later Abyss 3 and beyond content.  This means even if you do commit to Galbadus, he is not Sheli or Shiou, one copy is not enough.  You have to pull multiple copies to level his Raging King skill, otherwise he just becomes a really cool looking knight that has a semi-useful, but not truly meaningful, unique skill.
 
+??? info "Shiro's Analysis"
+
+    Starting with his inheritance. Oh boy… it’s one of the best ones in the game as for now. Especially if you run into harder fights where the enemy has multiple attacks per turn. As far as I tested his skill, it beasts damage options like FPS (for example Raging King can bring constant 4.5k DMG per turn on lvl 3 compared to FPS doing 8k only on much higher attack) or DTS as soon as you grab a few attacks in your direction. And this will also be his main selling point. It’s strong enough to a point where it’s worth inheriting it to other characters because even in the worst case scenario where the enemy doesn’t attack it’s as good as Heavy Attack at very least.
+
+    Moving on his passive.. it’s good for auto farming when you run Morgus buff to make it more stable and lessen rng in fight… or take less rng in some fights with bosses in first turns (especially good if you want to have specific focus on single target bosses like 0C GWO) but outside it… it’s lacking. It’s only 3 attacks long.
+
+    Moving to his discipline we don’t have anything special there. It’s focused on HP+ATK. It’s something but not much. Not worth the focus IMO (unless you rate 8 more ATK and 24 more HP on LVL 9 discipline that much).
+
+    As for class change he doesn't have any as for now but I do hope he’ll get a fighter.
+
+    To sum it up… when Galba arrived and I saw his kit I was honestly disappointed… he had great design but his kit felt lacking… that was until I pulled and used him. His active skill is completely absurd with how cheap the dmg tradeoff is. On top of it I thought that he’s bad because he's a knight not a fighter… but in practice it turned out that access to cover ability (especially passive like behind cover) allows him to stack his skill really easily making him the best knight with DPT potential next to Livana. Still… he needs a fighter for counter/follow up attack/Way of the Warrior/Immortal Strike/Wild Strike which will cover his kit even more. As for now I’m unsure whether it’s better to run him as a knight for easier stacking of his active skill or pray that he’ll get a fighter and run him as one. Either way Galbadus turned to be not only an amazing visually designed character but an all over solid damage dealing knight. With only downgrade being that his skill is always melee locked. Great addon to your team and completely worth running an evil team with him over bothering yourself with Lana buff.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

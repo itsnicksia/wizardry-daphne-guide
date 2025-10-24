@@ -59,6 +59,18 @@
 
     Priests are better in the back with tons of MP, and the front line is reserved for units that can put up big physical damage and Red is neither of those. Wouldn’t suggest using unless you’re dead set on having a mono-dwarf team.
 
+??? info "Shiro's Analysis"
+
+    Starting with inheritance we have access to one of the best buffs in the game for bossing purposes only. Both ATK and res up are there to make it easier to build up immunity with gear or disciplines that have resistance to these statues while allowing you to ignore them in your gear completely. Outside of bosses who use statuses, his inheritance loses value because of the 3 buff limit.
+
+    His passive is solid. Works well with Sheli or Miliana. But it’s not appealing enough in my eyes to think about bringing him to a team for that purpose.
+
+    His discipline pushed DIV and ATK which confused everyone to a point where devs themselves named his class to change a fighter in a game as a bug. But he ended up as a knight. Which is better of him but kind of stings that it went in this direction instead of lore accuracy.
+
+    His class change is knight which just settled him as “best” niche pick. I wouldn’t use him generally but if someone likes to min max their fights then here he is. Good option vs Sealed Demon or Morgus.
+
+    To sum it up. Red Beard's purpose is to be a backlane knight who uses his buff for the team and then he sits on knight defense. Basically build on dark super bosses. When it comes to this no one beats him. But… It's a niche. And I feel that most of the community won’t even attempt superbosses. And those who do have probably enough of an investment in other picks. So in the end he’s best at doing something really specific. And that’s the only thing he does well. In my personal opinion he’s either skip or inheritance for Alice. But I won’t call him weak.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"

@@ -74,6 +74,18 @@
 
     Good luck outsupporting Mage/Priest Alice, Adam, or Yekatarina, or tanking Diva's Savia and El Dorado.  How about Madam with a Light Element character in front, or Mage Milana with Gerulf, or Elise with anyone nuetral, or..... you get it.
 
+??? info "Shiro's Analysis"
+
+    Starting with his inheritance. While extremely costly it’s one of the best late game options for any fighter/knight/thief. The reason behind is not only really high dmg and def bypass but build in column porto on cast. Having it on all the three rows with a mage that can cast BATILGREF can completely change how a fight will go, making some impossible fights into doable ones. The issue is that skill is extremely weak early game on. Well… not exactly weak. It’s very costly. So you probably will never use it outside the boss in the first abyss similar to the second abyss. On top of that Arboris SP poll is quite lacking. While earth element and thief class prove a bit of SP it’s still nowhere close to beastfolk. Things change as soon as you hit the third abyss or you’ll have access to Debra’s inheritance/SP relics. With it Astral Break becomes your best stable DPT option as long as you can maintain SP cost, turning a lot of fights (especially harder ones like any sort of superboss or 0C GWO with def up) into much easier ones. But that’s also his curse. Why use Arboris… if you can just inherit his astral to fighters with 2h weapons?
+
+    Moving to his passive it’s really good buff for neutral and evil allies. At least on paper. Because while it can buff aspd and eva for up to 3 of characters it’ll rarely show value. Unless you’ll make some extreme speed tuning to balance around it. But then… gear is RNG based. In the end it might help with hitting some speed break points but it’s highly unlikely.
+
+    Moving to his discipline. I don’t even know what to write there. It’s one of most useless ones at this moment unless for whatever reason the Necrocore focuses your Arboris all the time and you decide you need STUN immunity because of that. Otherwise I see no value in it.
+
+    His class change is priest which isn’t a surprise. His astral and passive skills were already selling him a support and devs only went further on it. Which in the end led to not as good as fighters damage dealer, but better supportive ability in battle. Which is still good. Having access to extra cleanse/buff in the middle of a fight in case things go wrong will never be a bad choice unless your brain focuses on “unga bunga” and you want everyone to just hit as hard as possible.
+
+    To sum it up Arbois is a great option in abyss 2 and gets even better in abyss 3 and later as the game proceeds and we have better SP pools. He’s a thief who leans to a supportive role in your team being 3rd slot fill next to other backliners you use (for example Alice and Adam). Him being a thief and having high ASPD while priest buffs being extremely cheap also allows you to throw out one of the priests that would just buff you otherwise and focus on one more damage dealer in a team. Definitely a really solid pick especially if you run neutral/evil teams.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
