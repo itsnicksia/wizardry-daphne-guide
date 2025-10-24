@@ -207,8 +207,8 @@ All info in this section credited to: [名はある冒険犬柴丸](https://www.
 
 - Estimated formula, not exact calculations. End result is probably multiplicative to the base chance of status affliction application.
 - RES stat has very high diminishing returns relative to effort obtaining RES. 
-- RES and Tolerance are multiplicative to each other (50% from RES and 50% from Tolerance = 75% reduction in status afflication chance)
-- Fortitude Adjustment is a flat additive chance added to status afflication chance after multipliers.
+- RES and Tolerance are multiplicative to each other (50% from RES and 50% from Tolerance = 75% reduction in status affliction chance)
+- Fortitude Adjustment is a flat additive chance added to status affliction chance after multipliers.
 
 ### Estimated Tolerances
 

@@ -128,6 +128,8 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
 ## Inheritance
 Inheritance allows you to give skills from one adventurer to another or increase the level of inherited skills on an adventurer. Skills have different maximum levels. For example, Legendary and General Adventurer skills have a maximum inheritance count of 6, so depending on if an adventurer comes with that skill by default, they can get it to either level 6 or level 7. Anonymous adventurer skills have a maximum inheritance count of 14, which leads to a maximum level of either 14 or 15, again depending on if an adventurer comes with that skill by default.
 
+Inheritance can increase through either using duplicates of that particular adventurer or using codexes, which are much more general purpose and can be applied to any skill.
+
 ### Copies Per Inheritance Count
 
 === "Legendary"
