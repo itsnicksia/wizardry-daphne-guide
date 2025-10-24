@@ -78,6 +78,7 @@ This is a new tab in the requests section that will be unlocked once the require
 
     === "Fight Details"
         - Spawns as three Cursed Dolls that can move twice each. They are extremely fast.
+        - Seems to have a week long cooldown before respawning.
         
 ??? danger "Brokk, The Shrewd Swindler (55 Tokens)" 
 
@@ -162,8 +163,8 @@ This is a new tab in the requests section that will be unlocked once the require
         - Appears at Bounty Rank 7
 
     === "Fight Details"
-        - Spawns as a Scorpion Lady by itself.
-        - Will summon another Scorpion Lady in the same row after taking a certain amount of damage (~1200)
+        - Spawns as a Scorpion Lady by itself. Will summon another Scorpion Lady on its first turn in the same row.
+        - Will summon another Scorpion Lady in the same row after taking a certain amount of damage (~1200) but not reaching the threshold for Rage.
         - After a certain HP threshold is reached, either Scorpion Ladies will cast Rage, which allows it to move 5 times in one turn
         - Fight can be ended without the second Scorpion Lady being summoned.
 
