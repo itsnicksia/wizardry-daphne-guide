@@ -1,7 +1,7 @@
 nav:
   - Adventurer Quicklist: './adventurer-quicklist.md'
   - Legendary Adventurers:
-    - Adventurer Review Disclaimer: './legendary-adventurers/details/_adventurer-review-disclaimer.md'
+    - Adventurer Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
     - Abenius:
         - Details: './legendary-adventurers/details/Abenius.md'
         - Life Story: './legendary-adventurers/life-stories/Abenius.md'
