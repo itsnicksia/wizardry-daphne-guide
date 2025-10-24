@@ -4,11 +4,13 @@ Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-le
 
 ## How to obtain
 
-Relicbrews can be obtained by finding abyss relics off of red glowing monsters anywhere in the game. They spawn randomly and typically are specific to their enemy type. The quality and thus exp given by a relic is dependant on the location of the enemy, usually scaling with the level of the area. Each relic produces 1 drink, which can be consumed by up to 6 people at once.
+Relicbrews can be obtained by finding abyss relics on red glowing monsters anywhere in the game. They spawn randomly and typically are specific to their enemy type. The quality and thus exp given by a relic is dependant on the location of the enemy, usually scaling with the level of the area. Each relic produces 1 drink, which can be consumed by up to 6 people at once.
+
+<!-- maybe add image of a glowing common mob-->
 
 ## Effects
 
-These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide some sort of stat buff at the cost of some reduction in another stat. Effects can be leveled up by consuming the same type of brew again. Having a matching personality to the relicbrew will provide more bonus stats.
+These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide one stat buff at the cost of reduction in another stat. Effects can be leveled up by consuming the same type of brew again. Having a matching personality (Good/Neutral/Evil) to the relicbrew will provide a larger stat buff.
 
 ## Exp
 
@@ -24,18 +26,20 @@ These are essentially permanent buffs that can be applied to all adventurers inc
 
 ## Penalties
 
-After drinking enough relicbrews, an adventurer and the MC can be affected by certain effects. This is indicated by the color of the swirl on the top left of the character portrait. By consuming brews of matching personality type, one can consume more beyond the limit before penalties begin showing.
-
-It seems that an adventurer may safely drink up to 4 relicbrews before experiencing penalties, with a minimum of 1 relicbrew needing to match personality. A 5th relicbrew even if all matching alignment will raise an adventurer to stage 2 immediately. 
+After gaining too many relic powers, an adventurer and the MC can suffer from certain debilitating effects in combat. Status is indicated by the color of the swirl on the top left of the character portrait, and the effect of different stages of impact arr listed below. Any character can safely have 3 active relic powers at one time.  A 4th power can be safely added if at least one of those four powers has the same personality type as the character. Exceeding these limits will raise an adventurer to Stage 2 side effects immediately. 
 
 - Stage 0: Grey (Normal)
 - Stage 1: White (Normal?)
 - Stage 2: Purple (50 max fortitude, chance to be afflicted with confusion at start of every turn)
 - Stage 3: Red (0 max fortitude, afflicted with confusion at start of every turn)
 
+Note that there currently appears to be no negative effects outside of combat, and the safe limit apparently can be exceeded by any amount without impact as long as excess powers are removed before entering combat.
+
 ## Removal
 
-These buffs can be removed through the surgeryat the tavern. (Select Relic Power from the main menu, then select the adventurer and power to remove.) On success, the adventurer will lose 1 max fortitude for 2 weeks. On failure, the adventurer will lose 5 max fortitude for 2 weeks. On great success, the adventurer does not lose any fortitude. It is recommended not to select emergency removal and only use special extraction. You can choose to use green gems, purple gems, or gold for removal, but it's generally recommended not to use any gems as of now.
+Relic powers can be removed through the surgery at the tavern. (Select Relic Power from the main menu, then select the adventurer and power to remove.) On success, the adventurer will lose 1 max fortitude for 2 weeks. On failure, the adventurer will lose 5 max fortitude for 2 weeks. On great success, the adventurer does not lose any fortitude. It is recommended not to select emergency removal and only use special extraction. You can choose to use green gems, purple gems, or gold for removal, but it's generally recommended not to use any gems as of now.
+
+Levels of removed powers are retained by that charater and will be restored to the same level if added again.
 
 ## List of effects
 
