@@ -502,8 +502,10 @@ This is a new tab in the requests section that will be unlocked once the require
 
 # Unique Rewards
 
+!!! warning "It's entirely possible to buy all the hound masks and not receive a 4* Purple"
+
 - Master Ring: Abyss 4 tier ring that always generates as a White 5* with 0/3 Strength Level. It provides 13 of every stat, minus Defense and Magic Defense which are a bit higher.
-- Hound Mask: Randomly generated quality and grade ebonsteel level cloth hat that has innate evasion and resistance. At +20, it gives 17 Disarm Trap.
+- Hound Mask: Randomly generated quality and grade ebonsteel level cloth hat that has innate evasion and resistance. At +20, it gives 17 Disarm Trap. 
 - Book of Honed Ability Secrets: Provides a few stats that vary depending on class.
 
 ## Hound Mask
