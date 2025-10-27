@@ -50,7 +50,7 @@ The Crucible Mausoleum floor is unique in that it contains a random selection of
     ![](img/ancient-mausoleum-guadance.jpg)  
 
 ??? map "Shortest Chest Path with Minimal Fight Potential"   
-    ![](img/shortest-path.jpg)  
+    ![](img/ancient-mausoleum-shortest-path.jpg)  
 
 ## Credits   
 Ancient Mausoleum map provided by Ogarith
