@@ -1,5 +1,5 @@
 # Ancient Mausoleum  
-!!! note "As of Oct 2025 game updates the Fortitude-reducing entry traps are no longer at Mausoleum entrances removing the original concerns related to Fortitude-loss, visit rationing, and increased revival risk."
+!!! note "As of Oct 2025 the Fortitude-reducing entry traps are no longer at Mausoleum entrances removing original concerns related to Fortitude-loss, visit rationing, and increased ally revival risk."
 
 !!! note "Requirements"
     The Mausoleum becomes available after defeating the Greater Warped One in the Beginning Abyss.  There is no level or grade requirement.
@@ -47,7 +47,7 @@ The Crucible Mausoleum floor is unique in that it contains a random selection of
     ![](img/ancient-mausoleum.jpg)  
 
 !!! map "Mausoleum of Guidance"   
-    ![](img/ancient-mausoleum-guadance.jpg)  
+    ![](img/ancient-mausoleum-guidance.jpg)  
 
 ??? map "Shortest Chest Path with Minimal Fight Potential"   
     ![](img/ancient-mausoleum-shortest-path.jpg)  
