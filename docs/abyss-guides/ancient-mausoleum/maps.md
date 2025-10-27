@@ -28,12 +28,15 @@ The Crucible Mausoleum floor is unique in that it contains a random selection of
 
 ### Mausoleum Optional Enhancements  
 ??? note "Altar of Morgus: Additional Bone Summoning"  
-    ![](img/maus-bone-summoning.jpg)![](img/maus-bone-summoning-2.jpg)  
+    ![](img/maus-bone-summoning.jpg)  
+    
     It is now possible to summon additional bones to all Mausoleums except the Crucible Mausolem.  The player can collect Tallow of Bone Summoning from the Furnace of Deathsmoke (on the Mausoleum floor selection screen) and from the Abyss wandering Bone Collector (purchased for 10,000gp).  Each can be obtained once per week.  
-    ![](img/maus-furnace.jpg) ![](img/maus-tallow.jpg)
+    
+    ![](img/maus-furnace.jpg) ![](img/maus-tallow.jpg)  
     
     By using two Tallows at the Altar of Morgus, the number of claimed bones in that Mausoleum can be reduced by one. This means that a previously 'emptied' Mausoleum could then produce one extra (random) Adventurer from that Mausoleum's list.  Other than the consumed Tallow, there is no other cost to doing this, and it is ecouraged to be done regularly as it increases the game's otherwise limited bone resource.  
- 
+
+     ![](img/maus-bone-summoning-2.jpg)  
 
 ??? note "Altar of Morgus: God of Death's Favor"    
     ![](img/maus-god-of-deaths-favor.jpg)   
