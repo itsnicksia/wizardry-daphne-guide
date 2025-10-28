@@ -57,7 +57,7 @@
 
     The Prayer of Rebellion buff sounds cool, but in reality, it is okay at best. Attack buff feels unimpactful and it takes up 2 buff slots with the Res add-on. Macaldia is preferable unironically. The Dark Adjacent Instakill + Omnibind resist is cool, but not enough to make him an appealing bring.
 
-    Priests are better in the back with tons of MP, and the front line is reserved for units that can put up big physical damage and Red is neither of those. Wouldn’t suggest using unless you’re dead set on having a mono-dwarf team.
+    Priests are better in the back with tons of MP, and the front line is reserved for units that can put up big physical damage and Red is neither of those. Wouldn’t suggest using unless you’re dead set on having a mono-dwarf team. Getting Knight as an alt class gave him a real job as a Knight’s Defense/Prayer of Rebellion Spammer and back status cleanser.
 
 ??? info "Shiro's Analysis"
 

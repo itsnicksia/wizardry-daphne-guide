@@ -52,13 +52,13 @@
 
 ??? info "Frobro's Analysis"
 
-    What a sick-looking unit, right? Is she a cat; a wolf…who knows? Well, that’s almost it for the pros, now to the cons. Knight isn’t in a great place as I write this. Their 1 claim to fame is Knight Defense and she’s not much better at using that than any other knight. She can still be salvaged with a solid secondary class, probably fighter, but that doesn’t exist yet.
+    What a sick-looking unit, right? Is she a cat; a wolf…who knows? Well, that’s almost it for the pros, now to the cons. Knight isn’t in a great place as I write this. Their 1 claim to fame is Knight’s Defence and she’s not much better at using that than any other knight aside from having a deeper SP pool. Thief for a secondary class gives her surety/evasion-related passives, and precision strike, which are useful.
 
-    Black Beast Feint is like a better Defensive Provoke. Better in that the evasion buff is better than a defense buff, and the counter-hit has def-penetration, but it's still whack because the aggro effect doesn’t feel particularly potent and a good chunk of named enemy attacks can’t be countered at all.
+    Black Beast Feint is like a better Defensive Provoke. Better in that the evasion buff it grants is better than a defense buff, and the counter-hit has def-penetration, which along with the 2-hand weapon buff means this can do solid damage. Unfortunately, it's still kinda whack because the aggro effect doesn’t feel particularly potent and a good chunk of named enemy attacks can’t be countered at all.
 
-    The Soaring Beast Knight passive feels like a waste. Incentivized to use a spear for an evasion boost when you could run a 1-hand sword + shield and get that same evasion bonus from 1 solid Eva blessing and still have an extra 3 blessing slots left over. You either stick her in the back row with a spear or walk around with 1 less passive than every other character. Her discipline focus is interesting. That “greatly” increased evasion is no joke; I forget the exact numbers, but it’s something absurd at the high end.
+    The Soaring Beast Knight passive isn’t so bad now that 2-handed weapons like Spears are in style! Her discipline focus is interesting; that “greatly” increased evasion is no joke; I forget the exact numbers, but it’s something absurd at the high end. It’s like she has a double evasion discipline.
 
-    This chick is an easy skip right up until they give her fighter or something like it. Then she’ll be able to put up big numbers while getting Dark/Evil synergies from units like Alice, Rinne and Milana. Just wait til they put def-penetration or nimble-strike on a spear.
+    This chick is an easy skip unless you need a Dark Knight for Abyss 3 superbosses and even then, there are options like Galbadus, Red Beard, Gerard and Eldorado. As a backrow Evil Knight, she’ll still be able to put up numbers while getting Dark/Evil synergies from units like Alice, Rinne, Red Beard, Arboris and Milana.
 
 ??? info "Shiro's Analysis"
 

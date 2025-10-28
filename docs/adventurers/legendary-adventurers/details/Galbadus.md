@@ -59,10 +59,9 @@
 
     What a cool-looking guy for such a straightforward game plan. Seems like a remix of Savia in a way; both are reliant on being targeted by enemies to do some of the highest damage any knight can output, but otherwise, they don’t stand out too much compared to other knights.
 
-    His discipline focus of attack/HP is fine, but a solid step down from Savia’s weird double evasion focus. Raging King is cool, and it’s nice that he has a button to click that isn’t one of the easily inherited Heavy Attack equivalents, but you can get higher damage with fewer strings attached elsewhere. Tyrant’s gravity sounds strong until you remember that taunt skills are whack, and this is a taunt skill that can’t even be leveled up.
+    His discipline focus of attack/HP is fine, but a solid step down from Savia’s weird double evasion focus. Raging King is cool, and it’s nice that he has a button to click that isn’t one of the easily inherited Heavy Attack equivalents, but you can get higher damage with fewer strings attached elsewhere. Also for some reason, they forgot to give it the “weaker when inherited” clause that every other legendary inherit gets. Tyrant’s gravity sounds strong until you remember that taunt skills are whack, and this is a taunt skill that can’t even be leveled up.
 
-    This guy is in the wrong class on top of having a suboptimal alignment for being a front-row unit. Playing casually, he looks pretty neat and when the stars align and you land that Raging Fury 6; I bet he feels like “that guy”, but outside of the vacuum, he’s just…suboptimal. 
-
+    This guy is in the wrong class on top of having a suboptimal alignment for being a front-row unit. Playing casually, he looks pretty neat, Dark resist is key when facing the Abyss 3 superbosses and when the stars align and you land that Raging Fury 6; I bet he feels like “that guy”, but outside of the vacuum, he’s just…suboptimal. Still strong though.
 
 ??? info "Karkarov's Analysis"
 

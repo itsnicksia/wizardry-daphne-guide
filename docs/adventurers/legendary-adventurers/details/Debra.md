@@ -99,6 +99,14 @@
 
         Plus she’s neutral aligned which lets her be compatible in the front row with Lana as a dodge tank with her high evasion, or as a bow user in the back with Alice. She is held back by her 2nd class being knight. I wonder what the people would think about her if it were fighter instead…
 
+    === "Golden Maiden"
+
+        Aka, Debra 2. As a stand-alone unit, she’s on par with the other premium thieves like Aldric, Arboris, Rinne, and Savia, which is basically normal thief utility with some extra spice on top. The “spice” normally comes in the form of an attack that can shore up the thief class’s weaker damage output relative to fighter/samurai. In that regard, Golden Maiden is no different. Mirage Hunting is the attack that’s better than Precision Strike 3 that Debra needed, though you may need to level the skill to 3 before you can really feel it. But what’s not to like; it grants bonus surety rate/damage that scales of evasion! With enough surety and this skill, you can reliably get sure hits on enemies that the devs didn’t intend us to!
+
+        The Discipline is better than base Debra’s being Surety & Evasion focused, but I can’t help but feel like the unique passive is worse. Ever since the 2-hand weapon rework, 1-handers that aren’t exceptional are in the mud. You’d be better served by giving her a bow, even if you are in placing her in the front row, which means he passive won’t ever be activated. While not super strong, base Debra’s thief skill cost reduction passive is better than nothing.
+
+        The most interesting thing about this new Debra is that she gets full potency on both of her inherits at the same time! Full SP regen + Full strength Mirage Hunting, no matter what style she is currently in! Plus, if your merged Debra is D1 in both styles, you can use Base Debra to discipline the Golden Debra Discipline since they share levels. If you get 1, merge it with base Debra.
+
 ??? info "Karkarov's Analysis"
     
     === "Standard"

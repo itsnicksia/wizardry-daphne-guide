@@ -42,6 +42,16 @@
 
     The big thing to keep in mind with pulling for her is that we have a new class coming soon. Yes, she's strong, but she's released at a time where the meta is 2h weapons with Strength+ and we have no idea what the new class is going to bring to the table. Consider those factors before making your choice!
 
+??? info "Frobro's Analysis"
+
+    The devs set out to make a strong Kunai Ninja and boy, did they succeed! Look at everything they had to give her to get there, though. 
+
+    For starters, the extra hit from Foxifire is wicked strong compared to a basic attack and is guaranteed to land, even if you miss every other hit of your attack. Secondly, the “increased damage taken” debuff is like a Lana/Alice row buff without the party synergy requirement if you squint.
+
+    Thousand Hue Blossom is what Wild Throw should have been. Solid damage per hit, a charm chance and is usable vs a group of enemies and against a single boss enemy. Its strength is compounded by the strength of the 3hit, defense penetration Kunai introduced with her.
+
+    If you have to use a ninja, this is the one to use, with the one caveat being that you have to give her kunai to use her Thousand Hue skill, and those aren't farmable until Abyss 3.
+
 ??? info "Karkarov's Analysis"
 
     The anniversary unit has landed and the gooners have been blessed with their fox lady beast folk evil Ninja with Japanese Geisha vibes, and her name is Yuzunamiki!  Is she actually a good character though or just all looks?  Good news, she is definitely not all looks.
