@@ -1,8 +1,8 @@
 StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,Sell Price,ATK0,MAG0,DIV0,DEF0,MDEF0,ASPD0,ACC0,SUR0,EVA0,RES0,ATK5,MAG5,DIV5,DEF5,MDEF5,ASPD5,ACC5,SUR5,EVA5,RES5,ATK10,MAG10,DIV10,DEF10,MDEF10,ASPD10,ACC10,SUR10,EVA10,RES10,ATK15,MAG15,DIV15,DEF15,MDEF15,ASPD15,ACC15,SUR15,EVA15,RES15,ATK20,MAG20,DIV20,DEF20,MDEF20,ASPD20,ACC20,SUR20,EVA20,RES20,Traits / Special Effects
 2,Head!A2,Head,3081,Old-Fashioned Hood,Worn,Cloth,,14,0,0,0,1,0,0,0,0,0,2,0,0,0,4,0,0,0,0,0,4,,,,,,,,,,,,,,,,,,,,,0,0,0,11,0,0,0,0,0,12,
-8,Head!A8,Head,,Cloth Hat,Worn,Cloth,,14,0,0,0,1,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,9,,,,,,,,,,,,,,,,,,,,,
+8,Head!A8,Head,3012,Cloth Hat,Worn,Cloth,,14,0,0,0,1,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,6,0,0,0,6,0,0,0,0,0,9,,,,,,,,,,,,,,,,,,,,,
 14,Head!A14,Head,3004,Worn-Out Light Helmet,Worn,Light,,16,0,0,0,2,0,-1,-2,0,-2,4,0,0,0,5,0,-1,-2,0,-2,6,0,0,0,7,0,-1,-2,0,-2,9,0,0,0,10,0,-1,-2,0,-2,11,,,,,,,,,,,
-20,Head!A20,Head,,Worn-Out Heavy Helmet,Worn,Light,,19,0,0,0,3,0,-2,-2,0,-4,4,0,0,0,6,0,-2,-2,0,-4,6,0,0,0,8,0,-2,-2,0,-4,9,0,0,0,11,0,-2,-2,0,-4,11,,,,,,,,,,,
+20,Head!A20,Head,3005,Worn-Out Heavy Helmet,Worn,Light,,19,0,0,0,3,0,-2,-2,0,-4,4,0,0,0,6,0,-2,-2,0,-4,6,0,0,0,8,0,-2,-2,0,-4,9,0,0,0,11,0,-2,-2,0,-4,11,,,,,,,,,,,
 26,Head!A26,Head,3029,Leather Hat,Bronze,Cloth,340,54,0,0,0,2,0,0,0,0,0,4,0,0,0,5,0,0,0,0,0,6,0,0,0,8,0,0,0,0,0,9,0,0,0,11,0,0,0,0,0,12,,,,,,,,,,,
 32,Head!A32,Head,3084,Feathered Hat,Bronze,Cloth,,68,0,3,3,2,0,0,0,0,0,0,0,3,3,5,0,0,0,0,0,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 38,Head!A38,Head,3019,Bronze Light Helmet,Bronze,Light,400,64,0,0,0,4,0,-1,-2,0,-2,4,0,0,0,7,0,-1,-2,0,-2,6,0,0,0,10,0,-1,-2,0,-2,9,,,,,,,,,,,,,,,,,,,,,
@@ -46,7 +46,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 266,Head!A266,Head,3179,Helm of the Light Spirit,Ebonsteel,Light,,1000,0,0,0,12,0,-1,-2,0,-2,3,0,0,0,17,0,-1,-2,0,-2,7,0,0,0,21,0,-1,-2,0,-2,12,0,0,0,26,0,-1,-2,0,-2,16,0,0,0,30,0,-1,-2,0,-2,21,Dark Type Reduction
 272,Head!A272,Head,3185,Umbral Helm,Ebonsteel,Light,,1000,0,0,0,12,0,-1,-2,0,-2,3,0,0,0,17,0,-1,-2,0,-2,7,0,0,0,21,0,-1,-2,0,-2,12,0,0,0,26,0,-1,-2,0,-2,16,0,0,0,30,0,-1,-2,0,-2,21,Light Type Reduction
 278,Head!A278,Head,3200,Light Helmet of Separation,Ebonsteel,Light,,900,0,0,0,14,0,-1,-2,0,-2,4,0,0,0,19,0,-1,-2,0,-2,8,0,0,0,23,0,-1,-2,0,-2,13,0,0,0,28,0,-1,-2,0,-2,17,0,0,0,32,0,-1,-2,0,-2,22,"Demon Resistance, Confusion Tolerance, Charm Tolerance"
-284,Head!A284,Head,3200,Light Helmet of the Hundredfold Blossom,Ebonsteel,Light,,,,,,,,,,,,,,,,,,,,,,,0,0,0,19,-1,1,-2,0,6,13,,,,,,,,,,,,,,,,,,,,,Magical Beast Resistance
+284,Head!A284,Head,178,Light Helmet of the Hundredfold Blossom,Ebonsteel,Light,,850,0,0,0,10,-1,1,-2,0,6,4,,,,,,,,,,,0,0,0,19,-1,1,-2,0,6,13,,,,,,,,,,,,,,,,,,,,,Magical Beast Resistance
 290,Head!A290,Head,3068,Ebonsteel Heavy Helmet,Ebonsteel,Heavy,,940,0,0,0,20,0,-2,-2,0,-4,4,0,0,0,25,0,-2,-2,0,-4,8,0,0,0,29,0,-2,-2,0,-4,13,0,0,0,34,0,-2,-2,0,-4,17,0,0,0,38,0,-2,-2,0,-4,22,
 296,Head!A296,Head,3112,Desert Helm,Ebonsteel,Heavy,35250,3525,0,0,0,21,1,-4,-2,0,-4,5,0,0,0,26,1,-4,-2,0,-4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 302,Head!A302,Head,3180,Heavy Helm of the Light Spirit,Ebonsteel,Heavy,,1175,0,0,0,18,0,-2,-4,0,-4,4,0,0,0,23,0,-2,-4,0,-4,8,0,0,0,27,0,-2,-4,0,-4,13,0,0,0,32,0,-2,-4,0,-4,17,0,0,0,36,0,-2,-4,0,-4,22,Dark Type Reduction
@@ -177,9 +177,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 296,Feet!A296,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Hands!A2,Hands,3082,Old-Fashioned Gloves,Worn,Cloth,,12,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,6,0,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,
-8,Hands!A8,Hands,,Cloth Gloves,Worn,Cloth,,12,0,0,0,1,0,0,2,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,6,0,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,
+8,Hands!A8,Hands,3014,Cloth Gloves,Worn,Cloth,,12,0,0,0,1,0,0,2,0,0,0,0,0,0,4,0,0,4,0,0,0,0,0,0,6,0,0,7,0,0,0,,,,,,,,,,,,,,,,,,,,,
 14,Hands!A14,Hands,3008,Worn-Out Light Gauntlets,Worn,Light,,14,0,0,0,2,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,7,0,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,
-20,Hands!A20,Hands,,Worn-Out Heavy Gauntlets,Worn,Light,,18,0,0,0,3,0,0,-2,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,8,0,0,3,0,0,0,0,0,0,11,0,0,5,0,0,0,,,,,,,,,,,
+20,Hands!A20,Hands,3009,Worn-Out Heavy Gauntlets,Worn,Light,,18,0,0,0,3,0,0,-2,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,8,0,0,3,0,0,0,0,0,0,11,0,0,5,0,0,0,,,,,,,,,,,
 26,Hands!A26,Hands,3031,Leather Gloves,Bronze,Cloth,290,46,0,0,0,2,0,0,2,0,0,0,0,0,0,5,0,0,4,0,0,0,0,0,0,8,0,0,7,0,0,0,0,0,0,11,0,0,10,0,0,0,,,,,,,,,,,
 32,Hands!A32,Hands,3087,Mineral Gloves,Bronze,Cloth,,58,0,0,0,2,0,0,0,0,0,0,0,2,2,5,0,0,2,0,0,0,0,3,3,7,0,0,5,0,0,0,,,,,,,,,,,0,5,5,12,0,0,12,0,0,0,
 38,Hands!A38,Hands,3023,Bronze Light Gauntlets,Bronze,Light,360,58,0,0,0,3,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,0,0,9,0,0,5,0,0,0,0,0,0,12,0,0,8,0,0,0,,,,,,,,,,,
@@ -206,7 +206,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 164,Hands!A164,Hands,3119,Wilderness Guard,Ebonsteel,Light,,900,0,0,0,9,0,0,0,0,0,0,0,0,0,14,0,0,4,0,0,0,0,0,0,18,0,0,9,0,0,0,0,0,0,23,0,0,13,0,0,0,0,0,0,27,0,0,18,0,0,0,Magical Beast Resistance
 170,Hands!A170,Hands,3201,Light Gauntlets of Separation,Ebonsteel,Light,,800,0,0,0,10,0,0,0,0,0,0,0,0,0,15,0,0,4,0,0,0,0,0,0,19,0,0,9,0,0,0,0,0,0,24,0,0,13,0,0,0,0,0,0,28,0,0,18,0,0,0,"Demon Resistance, Confusion Tolerance, Charm Tolerance"
 176,Hands!A176,Hands,,Clearwater Light Gauntlets,Ebonsteel,Light,,,0,0,0,8,10,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,22,29,0,13,0,-4,0,,,,,,,,,,,
-182,Hands!A182,Hands,,Light Gauntlets of the Hundredfold Blossom,Ebonsteel,Light,,,0,0,0,4,0,0,0,0,5,0,0,0,0,9,0,0,4,0,5,0,0,0,0,13,0,0,9,0,5,0,,,,,,,,,,,,,,,,,,,,,Magical Beast Resistance
+182,Hands!A182,Hands,179,Light Gauntlets of the Hundredfold Blossom,Ebonsteel,Light,,,0,0,0,4,0,0,0,0,5,0,0,0,0,9,0,0,4,0,5,0,0,0,0,13,0,0,9,0,5,0,,,,,,,,,,,0,0,0,22,0,0,18,0,5,0,Magical Beast Resistance
 188,Hands!A188,Hands,,Pyrite Armguard,Ebonsteel,Light,,,0,0,0,4,8,0,0,0,0,0,0,0,0,9,14,0,4,0,0,2,0,0,0,13,21,0,9,0,0,5,0,0,0,18,27,0,13,0,0,7,,,,,,,,,,,Passive Piety Up
 194,Hands!A194,Hands,3072,Ebonsteel Heavy Gauntlets,Ebonsteel,Heavy,,900,0,0,0,14,0,0,-2,0,0,0,0,0,0,19,0,0,2,0,0,0,0,0,0,23,0,0,7,0,0,0,0,0,0,28,0,0,11,0,0,0,0,0,0,32,0,0,16,0,0,0,
 200,Hands!A200,Hands,3120,Wilderness Gauntlets,Ebonsteel,Heavy,,1125,0,0,0,12,0,0,-2,0,0,0,0,0,0,17,0,0,2,0,0,0,0,0,0,21,0,0,7,0,0,0,0,0,0,26,0,0,11,0,0,0,0,0,0,30,0,0,16,0,0,0,Magical Beast Resistance
@@ -265,7 +265,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 212,Body!A212,Body,3127,Manafont Robe,Ebonsteel,Cloth,,1225,0,0,0,18,0,0,0,0,0,0,0,0,0,28,6,0,0,0,0,0,0,0,0,38,13,0,0,0,0,0,0,0,0,48,19,0,0,0,0,0,0,0,0,58,26,0,0,0,0,0,Passive MP Up
 218,Body!A218,Body,3181,Cloak of Light Spirit,Ebonsteel,Cloth,,1100,0,0,0,17,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,37,13,0,0,0,0,0,0,0,0,47,19,0,0,0,0,0,0,0,0,57,26,0,0,0,0,0,Dark Type Reduction
 224,Body!A224,Body,3186,Umbral Cloak,Ebonsteel,Cloth,,1100,0,0,0,17,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,37,13,0,0,0,0,0,0,0,0,47,19,0,0,0,0,0,0,0,0,57,26,0,0,0,0,0,Light Type Reduction
-230,Body!A230,Body,3190,Covert Garb,Ebonsteel,Cloth,,1100,0,0,0,14,-2,1,0,0,1,0,0,0,0,19,1,1,0,0,3,0,,,,,,,,,,,0,0,0,41,16,1,0,0,5,0,,,,,,,,,,,
+230,Body!A230,Body,3190,Covert Garb,Ebonsteel,Cloth,,1100,0,0,0,14,-2,1,0,0,1,0,0,0,0,19,1,1,0,0,3,0,,,,,,,,,,,0,0,0,41,16,1,0,0,5,0,0,0,0,58,27,1,0,0,6,0,
 236,Body!A236,Body,,Vorpal Coat,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,0,0,0,33,13,5,0,0,3,0,0,0,0,43,19,5,0,0,3,0,0,0,0,53,26,5,0,0,3,0,
 242,Body!A242,Body,,Sacred Healer's Vestments,Ebonsteel,Cloth,,,0,0,6,11,3,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 248,Body!A248,Body,,Lord of the Deep Forest's Thief Garb,Ebonsteel,Cloth,,,0,0,0,16,0,1,0,0,0,0,,,,,,,,,,,0,0,0,36,13,1,0,0,4,0,0,0,0,46,19,1,0,0,4,0,,,,,,,,,,,
@@ -285,7 +285,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 332,Body!A332,Body,,Cyclops's Sash,Ebonsteel,Heavy,,,5,0,0,45,0,-15,-2,5,-4,0,5,0,0,55,6,-15,-2,5,-4,0,5,0,0,65,13,-15,-2,5,-4,0,5,0,0,75,19,-15,-2,5,-4,0,5,0,0,85,26,-15,-2,5,-4,0,
 338,Body!A338,Body,,Master's Armor,Ebonsteel,Heavy,,,0,0,0,50,0,-2,-2,0,-4,0,0,0,0,60,6,-2,-2,0,-4,0,0,0,0,70,13,-2,-2,0,-4,0,0,0,0,80,19,-2,-2,0,-4,0,0,0,0,90,26,-2,-2,0,-4,0,Bind Tolerance
 344,Body!A344,Body,,Lionheart Plate,Ebonsteel,Heavy,,,0,0,0,51,15,-3,-2,0,-4,0,0,0,0,61,21,-3,-2,0,-4,0,0,0,0,71,28,-3,-2,0,-4,0,0,0,0,81,34,-3,-2,0,-4,0,0,0,0,91,41,-3,-2,0,-4,0,Beast Hate
-350,Body!A350,Body,,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,,,,,,,,,,,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,,,,,,,,,,,Bewitching Fragrance
+350,Body!A350,Body,,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,,,,,,,,,,,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,0,0,0,65,16,10,0,0,0,0,Bewitching Fragrance
 356,Body!A356,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 362,Body!A362,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 368,Body!A368,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -319,7 +319,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 122,Accessories!A122,Accessories,3162,Aquatic Blue Amulet,Steel,Accessory,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,0,0,0,21,12,0,0,0,4,0,0,0,0,28,12,0,0,0,4,0,Fire Type Reduction
 128,Accessories!A128,Accessories,3169,Red Fired Amulet,Steel,Accessory,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,0,0,0,21,12,0,0,0,4,0,0,0,0,28,12,0,0,0,4,0,Air Type Reduction
 134,Accessories!A134,Accessories,3176,Verdant Breeze Amulet,Steel,Accessory,,588,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,0,0,0,21,12,0,0,0,4,0,0,0,0,28,12,0,0,0,4,0,Earth Type Reduction
-140,Accessories!A140,Accessories,,Goatskin Cloak,Steel,Accessory,,1838,0,0,0,2,12,0,0,0,0,0,,,,,,,,,,,0,0,0,15,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Stone Tolerance
+140,Accessories!A140,Accessories,,Goatskin Cloak,Steel,Accessory,,1838,0,0,0,2,12,0,0,0,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,15,12,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Stone Tolerance
 146,Accessories!A146,Accessories,3075,Ebonsteel Ring,Ebonsteel,Accessory,,980,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,
 152,Accessories!A152,Accessories,3147,Enemy Spyglass,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Detect Increase +3/5/?/?/?
 158,Accessories!A158,Accessories,3198,Master Fighter's Ring,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive Strength Up
@@ -328,7 +328,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 176,Accessories!A176,Accessories,,Ring of Vengeance,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 182,Accessories!A182,Accessories,,Light Spirit Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Dark Type Reduction
 188,Accessories!A188,Accessories,,Shining Finger Band,Ebonsteel,Accessory,,666,0,0,0,1,0,0,0,0,0,12,0,0,0,9,0,0,0,0,0,14,0,0,0,16,0,0,0,0,0,15,,,,,,,,,,,,,,,,,,,,,"Insta-Kill Tolerance, Dark Type Reduction"
-194,Accessories!A194,Accessories,,Bracelet of Sealed Battle,Ebonsteel,Accessory,,,5,0,0,2,20,-10,5,0,-5,-10,7,0,0,10,20,-10,7,0,-5,-10,8,0,0,17,20,-10,8,0,-5,-10,9,0,0,25,20,-10,9,0,-5,-10,10,0,0,32,20,-10,10,0,-5,-10,
+194,Accessories!A194,Accessories,177,Bracelet of Sealed Battle,Ebonsteel,Accessory,,,5,0,0,2,20,-10,5,0,-5,-10,7,0,0,10,20,-10,7,0,-5,-10,8,0,0,17,20,-10,8,0,-5,-10,9,0,0,25,20,-10,9,0,-5,-10,10,0,0,32,20,-10,10,0,-5,-10,
 200,Accessories!A200,Accessories,,Saintess's Ring,Ebonsteel,Accessory,,,0,0,8,0,18,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,Accessories!A206,Accessories,,Light Spirit Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Dark Type Reduction
 212,Accessories!A212,Accessories,,Umbral Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,4,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,4,0,Dark Type Reduction
@@ -339,7 +339,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 242,Accessories!A242,Accessories,Ex.,Trollkin Ring,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement"
 248,Accessories!A248,Accessories,,Lord of the Deep's Forest Ring,Ebonsteel,Accessory,,,0,0,0,1,13,0,0,0,0,0,,,,,,,,,,,0,0,0,16,13,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Detect/Evade Trap Increase
 254,Accessories!A254,Accessories,,Old Perch,Ebonsteel,Accessory,,,0,0,0,1,17,0,0,0,6,0,,,,,,,,,,,0,0,0,16,17,0,0,0,9,0,0,0,0,24,17,0,0,0,10,0,0,0,0,31,17,0,0,0,11,0,Composure of the Skilled Master
-260,Accessories!A260,Accessories,,Ring of Spellbreaking,Ebonsteel,Accessory,,,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Curse Tolerance
+260,Accessories!A260,Accessories,180,Ring of Spellbreaking,Ebonsteel,Accessory,,,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Curse Tolerance
 266,Accessories!A266,Accessories,,Master Ring,Silver,Accessory,,,13,13,13,20,24,13,13,13,13,13,13,13,13,30,24,13,13,13,13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Passive MP Up, Passive SP Up, Detect +13 (static), Disarm Trap +13 (static)"
 272,Accessories!A272,Accessories,,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
 278,Accessories!A278,Accessories,,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance

@@ -59,8 +59,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 86,1H_Sword!A86,1H_Sword,46,Ebonsteel Sword,Ebonsteel,2,,1000,53,0,0,0,0,0,10,0,2,0,68,0,0,0,0,0,10,0,2,0,83,0,0,0,0,0,10,0,2,0,98,0,0,0,0,0,10,0,2,0,113,0,0,0,0,0,10,0,2,0,
 92,1H_Sword!A92,1H_Sword,90,Sword of Expulsion,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,67,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Vs. Undead
 98,1H_Sword!A98,1H_Sword,99,Demonbane Sword,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,67,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Demon Slayer
-104,1H_Sword!A104,1H_Sword,149,Sword of the Aurora,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Light Type
-110,1H_Sword!A110,1H_Sword,159,Sword of Eternal Darkness,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dark Type
+104,1H_Sword!A104,1H_Sword,149,Sword of the Aurora,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,67,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Light Type
+110,1H_Sword!A110,1H_Sword,159,Sword of Eternal Darkness,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,67,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Dark Type
 116,1H_Sword!A116,1H_Sword,176,Sword of Promises,Ebonsteel,2,,1200,56,0,0,0,0,-2,10,-2,2,0,71,0,0,0,0,-2,10,-2,2,0,86,0,0,0,0,-2,10,-2,2,0,101,0,0,0,0,-2,10,-2,2,0,116,0,0,0,0,-2,10,-2,2,0,Defense Penetration
 122,1H_Sword!A122,1H_Sword,Ex.,Blade Cuisinart,Ebonsteel,3,,,40,0,0,0,0,0,10,0,2,0,55,0,0,0,0,0,10,0,2,0,70,0,0,0,0,0,10,0,2,0,85,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,
 128,1H_Sword!A128,1H_Sword,Ex.,Thunder God's Sword,Ebonsteel,2,,,50,0,0,0,0,4,10,0,2,0,,,,,,,,,,,80,0,0,0,0,7,10,0,2,0,,,,,,,,,,,110,0,0,0,0,9,10,0,2,0,
@@ -282,7 +282,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 68,2H_Staff!A68,2H_Staff,,Two-Handed Staff of Compassion,Ebonsteel,1,,,18,40,95,0,0,0,0,0,-4,0,41,63,118,0,0,0,0,0,-4,0,63,85,140,0,0,0,0,0,-4,0,86,108,163,0,0,0,0,0,-4,0,108,130,185,0,0,0,0,0,-4,0,"Strength-Based +, Holy Light of Healing"
 74,2H_Staff!A74,2H_Staff,,Two-Handed Staff of the Spirit Realm,Ebonsteel,1,,,18,104,50,0,0,0,0,0,-4,0,41,127,73,0,0,0,0,0,-4,0,63,149,95,0,0,0,0,0,-4,0,86,172,118,0,0,0,0,0,-4,0,108,194,140,0,0,0,0,0,-4,0,"Strength-Based +, Passive HP Up, Calamitous Rockfall Learned"
 80,2H_Staff!A80,2H_Staff,,Quicksilver Crosier,Ebonsteel,1,,,18,50,104,0,0,0,0,0,-4,0,41,73,127,0,0,0,0,0,-4,0,63,95,149,0,0,0,0,0,-4,0,86,118,172,0,0,0,0,0,-4,0,108,140,194,0,0,0,0,0,-4,0,"Strength-Based +, MP Absorption on Defeat"
-86,2H_Staff!A86,2H_Staff,,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,,,,,,,,,,,122,193,181,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit"
+86,2H_Staff!A86,2H_Staff,,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit"
 92,2H_Staff!A92,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,2H_Staff!A98,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,2H_Staff!A104,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -27,7 +27,7 @@ There is a Mausoleum Guide in the entry room who can provide instruction and [so
 The Crucible Mausoleum floor is unique in that it contains a random selection of 4 or 5 general adventurer bones and *it resets every 2 weeks* (on the same cycle as the guild Daily Supplies). The map is the same as that of the general Ancient Mausoleum, though the scenery is slightly different. Again, available adventurer names and the number obtained can be seen by tapping the (i) icon at the floor selection screen. *It's highly suggested to clear this out whenever you can*, as it is a regular source of adventurer bones for aquiring party members, for Skill Inheritance or Discipline, or for Guild Tags. [See Adventurer's Remains Econoy Page](../../appendices/free-to-play-economy.md#adventurers-remains).
 
 ### Mausoleum Optional Enhancements  
-??? note "Altar of Morgus: Additional Bone Summoning"  
+??? note "Altar of Morgus: Tallow Bone Summoning"  
     ![](img/maus-bone-summoning.jpg)  
     
     It is now possible to summon additional bones to all Mausoleums except the Crucible Mausolem.  The player can collect Tallow of Bone Summoning from the Furnace of Deathsmoke (on the Mausoleum floor selection screen) and from the Abyss wandering Bone Collector (purchased for 10,000gp).  Each can be obtained once per week.  
