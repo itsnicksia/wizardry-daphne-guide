@@ -165,7 +165,7 @@ These are some parties I have personally and successfully used to clear progress
             - Rinne (Ninja)
             - Shelirionach (Mage)
 
-??? note "Current Party as of Samurai Release"
+??? note "Samurai Released"
 
     - Front Row
         - Lanavaille (Fighter/Knight)
@@ -174,6 +174,51 @@ These are some parties I have personally and successfully used to clear progress
     - Back Row
         - Alice (Priest/Mage)
         - Rinne (Ninja/Thief)
+        - Shelirionach (Mage)
+
+??? note "First 5 Emergency Occurrence Clears"
+
+    - Party 1
+        - Front Row
+            - MC (Ninja)
+            - Shiou (Samurai)
+            - Debra (Knight/Thief)
+        - Back Row
+            - Alice (Priest/Mage)
+            - Rinne (Ninja/Thief)
+            - Shelirionach (Mage)
+
+    - Party 2
+        - Front Row
+            - MC (Ninja)
+            - Shiou (Samurai)
+            - Rinne (Ninja/Thief)
+        - Back Row
+            - Alice (Priest/Mage)
+            - Yekaterina (Priest/Mage)
+            - Shelirionach (Mage)
+            
+
+??? note "0 Corruption Gatekeeper"
+
+    - Front Row
+        - MC (Ninja)
+        - Shiou (Samurai)
+        - Livana (Knight/Fighter)
+    - Back Row
+        - Alice (Priest/Mage)
+        - Rinne (Ninja/Thief)
+        - Shelirionach (Mage)
+
+??? note "Final Emergency Occurrence Clears"
+
+    - Front Row
+        - MC (Ninja)
+        - Shiou (Samurai)
+        - Livana (Knight/Fighter)
+    - Back Row
+        - Yuzunamiki (Ninja)
+        - Rinne (Thief/Ninja)
         - Shelirionach (Mage)
 
 ### Additional Considerations
