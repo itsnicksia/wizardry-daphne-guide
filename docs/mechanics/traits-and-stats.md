@@ -146,7 +146,9 @@ What does that mean? Ultimately, the impact of trait points on stats is signific
 
 One popular myth to be aware of, "Lower Fortitude = Highter Trait Growth".  This is a popular theory on Social Media based on anecdotal observations but is not true. A lower Fortitude Adventurer does not benefit from extra Trait growth and is no more likely to have high Trait growth than a 100 Fortitude character.
 
-What about Legendary VS General VS Anonymous Adventurers, is there a difference?  Advanced Classes VS Normal Classes?  Yes, there is a difference on both counts.  Legendary Adventurers generally have slightly higher overall Trait growth VS General and Anonymous Adventurers.  Likewise Advanced Classes (Samurai and Ninja) generally have higher Trait growth than the Standard Classes.  Also to confirm, General and Anonymous Adventurers do have the same growth rates.
+What about Legendary VS General VS Anonymous Adventurers, is there a difference?  Advanced Classes VS Normal Classes?  Yes, there is a difference on both counts.
+
+Legendary Adventurers generally have slightly higher overall Trait growth VS General and Anonymous Adventurers, while General and Anonymous Adventurers have the same growth.  Likewise Advanced Classes (Samurai and Ninja) generally have higher Trait growth than the Standard Classes.
 
 Please understand this will not massively impact a non Legendary or Advanced Class Adventurers potential.  You could potentially see gaps around 20 total Trait points comparing say Shiou to Olive at level 60, but for a more fair comparison Livana compared to Olive at 60 would around a 5-8 point total difference on average.  
 
