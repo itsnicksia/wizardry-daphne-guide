@@ -150,7 +150,7 @@ What about Legendary VS General VS Anonymous Adventurers, is there a difference?
 
 Legendary Adventurers generally have slightly higher overall Trait growth VS General and Anonymous Adventurers, while General and Anonymous Adventurers have the same growth.  Likewise Advanced Classes (Samurai and Ninja) generally have higher Trait growth than the Standard Classes.
 
-Please understand this will not massively impact a non Legendary or Advanced Class Adventurers potential.  You could potentially see gaps around 20 total Trait points comparing say Shiou to Olive at level 60, but for a more fair comparison Livana compared to Olive at 60 would around a 5-8 point total difference on average.  
+Please understand this will not massively impact a non Legendary or Advanced Class Adventurers potential.  You could potentially see gaps around 20 total Trait points comparing say Shiou to Olive at level 60.  For a more fair comparison, Livana compared to Olive at 60 would be around a 5-8 point total difference on average.  
 
 ## What Do Trait Points And Stats Mean For Bonus Points?
 We've often found ourselves saying bonus points don't matter. This is both true and not true. In one sense, it's not true because there can be a large visible difference between primary stats across Adventurers, however in another sense, it is true because the overall in-battle impact of bonus points is small.
