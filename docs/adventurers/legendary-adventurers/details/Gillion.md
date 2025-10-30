@@ -15,14 +15,17 @@
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
-    <!-- === ""
-       {{ get_skill_description("Raging King I") }} -->
+    === "Cry of Ruin"
+       {{ get_skill_description("Cry of Ruin") }}  
+       
 !!! info "Unique Skill (Not Inheritable)"
-    <!-- === ""
-       {{ get_skill_description("Tyrant's Gravity") }} -->
+    === "Cursed-Blood Resonance"
+       {{ get_skill_description("Cursed-Blood Resonance") }}  
+       
 !!! info "Discipline Skill"
-    <!-- === ""
-       {{ get_skill_description("Bestial Roar") }} -->
+    === "Vengeful Oath Conditioning"
+       {{ get_skill_description("Vengeful Oath Conditioning") }}  
+       
 ## Adventurer Reviews
 
 ??? info "TheAxolotl's Analysis"
