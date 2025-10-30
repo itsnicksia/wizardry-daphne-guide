@@ -11,8 +11,12 @@ def define_env(env):
         
         effect = skill['Effects'].iloc[0]
         details = skill['Detail'].fillna('').iloc[0]
-        
-        return f"{effect} {details}"
+        restrictions = skill['Restrictions'].fillna('').iloc[0]
+       
+        if restrictions:
+            restrictions = f'<{restrictions}>'
+       
+        return f"{effect} {details} {restrictions}"
     
     @env.macro
     def populate_quicklist(file,return_columns,filter_column=None,filter_values=[]):
