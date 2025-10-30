@@ -124,17 +124,31 @@ Looking at the above charts, we can see that while primary stats (STR, IQ, etc) 
 **Disarm Trap:** Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm
 **Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work. 
 
-### IVs
-An IV is an extra bonus Trait Point that exists on an adventurer when you create them, and it shows up as something we previously termed a "hidden bonus point." There is some evidence that this impacts Trait Point growth, with an IV in a Trait Point leading towards an adventurer having a higher value for that Trait Point than a copy of that adventurer without the IV. The biggest unknown around IVs, though, is exactly what the IV means for long-term adventurer development. Assuming we will eventually be at a maximum level of 130, it's possible that the IV means a particular Trait Point will get to a "maximum value" faster but by level 130, all copies of an adventurer will have the same Trait Point values.
+### Trait Boost (Commonly called IV)
+A Trait Boost/IV is manifested in one of two ways.  First, and most commonly, a Character will have clearly improved growth in one Trait.  Normally this is visible at level 1 on character creation by 1 Trait being 1 point higher than normal.  However, this is not always the case.  This is a "buff" to the Trait growth rate, not an extra Trait point.  So it's possible to recieve a single Trait Boost/IV on a Trait that has poor growth for the Character/Class.  For example: a Dwarf Knight may not show an extra point of Speed at level 1, but may have a Speed Boost/IV. The second way this can manifest is as a "Neutral" Boost, where all Traits recieve a very small increase in growth.  This variety will not be visible at level 1 as all Traits will be their normal value.  
+
+It is important to note that this means you cannot tell if a given Character copy has a single Trait Boost/IV or a Neutral one at level 1 if all Traits are the normal value.  Generally speaking, leveling a Character to level 20-30 will reveal what type of Boost/IV is happening for this particular Character copy in this situation.  This is important to understand because your Character may have a Boost/IV in an undesireable Trait.  Such as a Human Fighter with a Boost/IV of Piety.
+
+You should know and understand that Boost/IV is just a bonus.  A Characters Trait growth is primarily driven by their Class, and Race.  An Elf Mage will always have great IQ even if their Boost/IV is Dexterity.  Even if you should have a Boost/IV with a high degree of synergy (for example a Beastfolk Thief with Speed Boost/IV) the difference between "normal average" and "Boost/IV" will generally only be 6-10 points.  If the Boost/IV is a single Trait with poor synergy (for example a Human Ninja with Vitality Boost/IV) the difference between normal average and the Boost/IV will be lower, commonly around 5-7 points. 
+
+The biggest unknown around Boosts/IVs, though, is exactly what this means for long-term Adventurer development. Assuming we will eventually be at a maximum level of 130, it's possible that the Boost/IV means a particular Trait Point will get to a "maximum value" faster but by level 130, all copies of an adventurer will have the same Trait Point values.
 
 TheAxolotl's personal opinion on IVs is that when you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
+
+Karkarov's personal opinion is much the same as TheAxolotl's.  Ultimately it depends on the player, those who are happy to spend money and "whale" should absolutely be picky and wait for that perfect Character copy with the desired meta level 1 Traits.  For the average player who is Free to Play you should just use what you have and know that this is not going to make or break a Character.  There are many ways to tweak your ultimate Trait values, from gear, to bondmates, to brews, etc etc.  There is no such thing as a "bad Character" in Daphne.  
 
 !!! note "You will never ruin an adventurer by selecting one with no IV or a less than ideal IV."
 
 ### Trait Point Variance
-Trait Points can vary across two copies of the same Adventurer, and this is due to a combination of level growth, which have an element of randomness, and bonus points. For example, one level 50 Adam could end up with 59 IQ, while another could end up with 73 IQ. We don't have a full understanding of the degree of variance, but when looking at those two Adams, using the chart above, you can see that there's only a difference in Magic Power of `(73-59)*1.2=16.8`. That is not a large difference, especially as our Magic Power increases through equipment.
+Trait Points can vary across two copies of the same Adventurer, and this is due to a combination of level growth, which have an element of randomness, how bonus points were spent, and Boost/IV. For example, one level 50 Adam could end up with 59 IQ, while another could end up with 73 IQ. We don't have a full understanding of the degree of variance from level growth and Boost/IV, but when looking at those two Adams, using the chart above, you can see that there's only a difference in Magic Power of `(73-59)*1.2=16.8`. That is not a large difference, especially as our Magic Power increases through equipment.
 
 What does that mean? Ultimately, the impact of trait points on stats is significantly smaller than the impact of equipment on stats.
+
+One popular myth to be aware of, "Lower Fortitude = Highter Trait Growth".  This is a popular theory on Social Media based on anecdotal observations but is not true. A lower Fortitude Adventurer does not benefit from extra Trait growth and is no more likely to have high Trait growth than a 100 Fortitude character.
+
+What about Legendary VS General VS Anonymous Adventurers, is there a difference?  Advanced Classes VS Normal Classes?  Yes, there is a difference on both counts.  Legendary Adventurers generally have slightly higher overall Trait growth VS General and Anonymous Adventurers.  Likewise Advanced Classes (Samurai and Ninja) generally have higher Trait growth than the Standard Classes.  Also to confirm, General and Anonymous Adventurers do have the same growth rates.
+
+Please understand this will not massively impact a non Legendary or Advanced Class Adventurers potential.  You could potentially see gaps around 20 total Trait points comparing say Shiou to Olive at level 60, but for a more fair comparison Livana compared to Olive at 60 would around a 5-8 point total difference on average.  
 
 ## What Do Trait Points And Stats Mean For Bonus Points?
 We've often found ourselves saying bonus points don't matter. This is both true and not true. In one sense, it's not true because there can be a large visible difference between primary stats across Adventurers, however in another sense, it is true because the overall in-battle impact of bonus points is small.
@@ -151,6 +165,17 @@ TheAxolotl generally (but not always) does the following for his bonus points:
 * Priest: Speed, but it largely depends on what its second class is, if one exists
 * Ninja: Strength, Dexterity, or Luck if planning on inheriting Follow Up Attack and Counterattack
 * Samurai: Strength, IQ, Dexterity, Speed, or Luck (if factoring in inherited passive skills)
+
+Karkarov typically suggests spending bonus points as follows:
+
+* Fighter: Strength or Dexterity... Unless the Character will only be used for Auto Farming, then go Luck.
+* Knight: Strength Speed.  Luck if you want more survivability/Knight Skill synergy.
+* Thief: Strength.
+* Mage: IQ or Speed.
+* Priest: Speed.
+* Ninja: Strength.
+* Samurai: Strength, IQ, or Speed are all viable.
+* NOTE: If you plan to long term permanently Class change the Character, choose based on the destination Class, not the base Class.
 
 !!! note "You will never ruin an adventurer with your bonus point assignment."
 
