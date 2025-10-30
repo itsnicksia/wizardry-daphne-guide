@@ -41,6 +41,10 @@ Relic powers can be removed through the surgery at the tavern. (Select Relic Pow
 
 Levels of removed powers are retained by that charater and will be restored to the same level if added again.
 
+## Relic Slag Exchange Shop
+
+Lists 9 items for sale on a weekly rotation. There are 3 rows of 3 items per row, with the top row being 3* relics, the middle row being 2* relics, and the last row being 1* relics. The relics could be any known relic in the game. 3* relics cost 400 slag, 2* relics cost 200 slag, and 1* relics cost 100 slag. You can refresh the shop with gems, which start at 200 gems and doubles per refresh.
+
 ## List of effects
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name<sup>†</sup>                  | Compendium Number |
@@ -67,7 +71,7 @@ Levels of removed powers are retained by that charater and will be restored to t
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Bloodwood            | 4058              |
 | Hexdoll's Fleeing Step                     | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       | Hexdoll Gleamblight                     | 4059              |
 | Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          | Restless Currency Gleambright           | 4060              |
-| Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Spiritcoral                      | 4061              |
+| Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Spiritcoral                     | 4061              |
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer        | Merfolk Bowman Bloodwood                | 4062              |
 | Merfolk Spellcaster's Spirit Flow          | Magic Up, Res Down                   | Neutral     | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4063              |
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Good        | Lizardman              | Reptilian Bloodwood                     | 4064              |
@@ -93,5 +97,6 @@ Levels of removed powers are retained by that charater and will be restored to t
 | Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera                | Composite Beast Bloodwood               | 4084              |
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
+| Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
 
 <sup>†</sup> Obtained relics may have other Relic Name modifiers, such as "Twisted", to indicate higher Relic power.
