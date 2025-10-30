@@ -32,6 +32,9 @@ nav:
     - Gerulf:
         - Details: './legendary-adventurers/details/Gerulf.md'
         - Life Story: './legendary-adventurers/life-stories/Gerulf.md'
+    - Gillion:
+        - Details: './legendary-adventurers/details/Gillion.md'
+        - Life Story: './legendary-adventurers/life-stories/Gillion.md'
     - Iarumas:
         - Details: './legendary-adventurers/details/Iarumas.md'
         - Life Story: './legendary-adventurers/life-stories/Iarumas.md'
@@ -65,9 +68,6 @@ nav:
     - Yuzunamiki:
         - Details: './legendary-adventurers/details/Yuzunamiki.md'
         - Life Story: './legendary-adventurers/life-stories/Yuzunamiki.md'
-
-  
-  
   - Legendary Requests:
     - Adam - Unnamed Request: './legendary-adventurers/legendary-requests/adam/adam-request.md'
     - Debra - Investigate the Island of Ghosts: './legendary-adventurers/legendary-requests/debra/debra-request.md'
