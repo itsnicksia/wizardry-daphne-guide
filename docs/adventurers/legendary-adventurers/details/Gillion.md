@@ -15,17 +15,14 @@
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
-    === ""
-<!--        {{ get_skill_description("Raging King I") }}
--->
+    <!-- === ""
+       {{ get_skill_description("Raging King I") }} -->
 !!! info "Unique Skill (Not Inheritable)"
-    === ""
-<!--        {{ get_skill_description("Tyrant's Gravity") }}
--->
+    <!-- === ""
+       {{ get_skill_description("Tyrant's Gravity") }} -->
 !!! info "Discipline Skill"
-    === ""
-<!--        {{ get_skill_description("Bestial Roar") }}
--->
+    <!-- === ""
+       {{ get_skill_description("Bestial Roar") }} -->
 ## Adventurer Reviews
 
 ??? info "TheAxolotl's Analysis"
