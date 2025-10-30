@@ -57,7 +57,8 @@ Covert Strike,Active,,"A series of moderate physical attacks with double the Att
 Crafty Old Mage,Discipline,,"Continuously increases each stat, Magic Defense and Magic Power increased further.",Magic Defense and Magic Power increased further based on skill level.,,,,Jarmil,
 Cresting Wave Stance,Active,,"Performs a normal attack in the current stance, then switches to the Cresting Wave Stance. Increases own skill efficacy, Magic Power, and damage taken.","Own skill efficacy, Magic Power, and damage taken increased further based on skill level.",10,Samurai,"Samurai-specific, Katana-specific",,
 Cunning Pursuit,Passive,True,Increases Surety when attacking opponents affected by status afflictions or debuffs.,Surety increased further based on skill level.,32,Thief,,,Philip
-Cursed-Blood Resonance,Passive,,"Increases Accuracy, Action Speed, and damage to enemies when equipped with a two-handed weapon. Consumes 5% of the user's max HP after attacking.",,,,,Gillion,ulfnce of the Bold Advance,Passive,,"When equipped with a melee weapon and shield, and placed in the front row, user's Surety, Surety Damage, and Evasion are increased during battle.",,,,,Debra,
+Cursed-Blood Resonance,Passive,,"Increases Accuracy, Action Speed, and damage to enemies when equipped with a two-handed weapon. Consumes 5% of the user's max HP after attacking.",,,,,Gillion,
+Dance of the Bold Advance,Passive,,"When equipped with a melee weapon and shield, and placed in the front row, user's Surety, Surety Damage, and Evasion are increased during battle.",,,,,Debra,
 Dancer of Liberation,Discipline,,"Continuously increases each stat, with Surety and Evasion increased even further.",Surety and Evasion increased further based on skill level.,,,,Debra,
 Dark-Kin Blessing,Passive,,Reduces dark type damage for elves in the same row.,,,,,Elda,
 Dark Type Thaumaturgy,Passive,,Reduces dark-type damage to self.,Damage decreased further based on skill level.,55,Mage,,,
