@@ -51,4 +51,18 @@ Without hesitation, Gillion leapt upon his swiftest steed and rode for the villa
 Before thought could temper him, he surged forward, meeting the foe in battle. Into his blade he poured all that he was: the teachings of his father, the bitter grief of vows left unfulfilled, the unyielding resolve of vengeance, the strength forged in relentless training, and the storm of anger born anew from yet another loss.  
 
 ### Page 5  
+The fierce resistance of the elves had left Ged wounded.  
 
+Still, he faltered not, and unleashed his dreadful might for all to see. Gillion fought on as though each strike drew from the very marrow of his life. He evaded the relentless onslaught again and again, striking at Ged's injuries with heavy, merciless blows.  
+
+At last, through sheer will and unyielding determination, his vengeance found its mark: Gillion's blade pierced Ged. As Ged fell, Gillion himself collapsed beside him.  
+
+"I failed to keep my vow...but I got my revenge."  
+
+The curse rent his armor asunder and his form was slowly unmade, no longer wholly human. Summoning the last of his strength, he seized his father's sword.  
+
+"Father... Mother... Am I forgiven...?"  
+
+Before the very eyes of his mercenary company, only now just arriving, Gillion drove his blade through his own heart. Ged plunged into the Abyss, the village he himself had warped tumbling down with him. And Gillion's remains vanished into their depths along with them.  
+
+Thus the tale of the war demon, clad in malediction, who had slain a Greater Warped One, spread among the mercenaries, and the story greatly stirred their courage and resolve.  
