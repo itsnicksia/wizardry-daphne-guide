@@ -25,7 +25,21 @@ When Gillion awoke, he was wracked with guilt. He had been unable to help his fa
 He set out to learn all he could of his nemesis, gathering every whisper and fragment of knowledge. The name of his nemesis was Ged, the Greater Warped One. It sought out the mighty and preyed upon them. And from those he deemed heroes, he carried off their weapons as his prize. Gillion's father had been strong. That was why he had been marked. When Gillion had come to learn this truth, a twisted smile spread across his face.  
 
 ### Page 3  
+To exact vengeance upon his nemesis, Gillion threw himself entirely into training.  
 
+"Father's nemesis. Mother's nemesis. The nemesis of his people..."  
+
+The mystic looked upon him with pity but did not intervene. Peace would not come to Gillion until vengeance was wrought. Then, as a last concession, the mystic imparted a way to transform the Abyssal curse into a power to fight. Bearing the curse upon his shoulders, Gillion pressed on with his training.  
+
+In time, he became a mercenary, following the path of his father. Whenever word came of a Warped One, he joined the hunting party, honing his skill with each battle. He spoke little, smiled rarely, and even in the wake of victory, while comrades rejoiced, he would turn his back upon them and return alone to his training.  
+
+Yet with each battle, the curse raged ever fiercer, gnawing at his body and threatening to consume him.  
+
+"If you continue on this path, you shall become one of the Warped Ones yourself."  
+
+Upon hearing the mystic's words, Gillion realized that his days were numbered.  
+
+Through tireless trial and endless error, he finally cast aside the shield, dedicating the remainder of his brief life wholly to the two-handed sword. Only by channeling the strength beyond mortal men, granted by the curse, had he any hope of victory. Gillion swore that he would exact vengeance upon his nemesis before death could claim him.  
 
 ### Page 4  
 
