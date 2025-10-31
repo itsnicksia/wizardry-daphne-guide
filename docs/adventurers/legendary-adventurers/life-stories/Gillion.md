@@ -42,7 +42,13 @@ Upon hearing the mystic's words, Gillion realized that his days were numbered.
 Through tireless trial and endless error, he finally cast aside the shield, dedicating the remainder of his brief life wholly to the two-handed sword. Only by channeling the strength beyond mortal men, granted by the curse, had he any hope of victory. Gillion swore that he would exact vengeance upon his nemesis before death could claim him.  
 
 ### Page 4  
+Whispers began to spread that there was a cursed war demon...one who howled upon the battlefield like a beast and swung his sword like an evil fiend. Even his own allies came to fear him and kept their distance, yet nothing in Gillion's world existed beyond the singular purpose of vengeance.  
 
+That day, as always, he had finished his work of monster-slaying and had taken a solitary moment of rest at a distant outpost. Then a mercenary, knowing of Gillion's goal, came running, breathless, bearing dire tidings: Ged had appeared at the elven village that had taken him in.  
+
+Without hesitation, Gillion leapt upon his swiftest steed and rode for the village at break-neck speed. When he arrived, he beheld utter ruin: the settlement had been annihilated, a sea of blood staining the earth. Ged had claimed the swords of the elves who had fought to their last breath, adding them to his ever-growing trove. Among the weapons, Gillion's gaze fell upon the blade of his own father.  
+
+Before thought could temper him, he surged forward, meeting the foe in battle. Into his blade he poured all that he was: the teachings of his father, the bitter grief of vows left unfulfilled, the unyielding resolve of vengeance, the strength forged in relentless training, and the storm of anger born anew from yet another loss.  
 
 ### Page 5  
 
