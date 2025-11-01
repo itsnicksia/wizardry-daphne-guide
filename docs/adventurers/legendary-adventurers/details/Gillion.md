@@ -2,7 +2,7 @@
 
 **Race**: Human  
 **Gender**: Male  
-**Type**: Dark  
+**Type**: Neutral  
 **Personality**: Evil  
 **Starting Class**: Fighter  
 **Class Change**:   
