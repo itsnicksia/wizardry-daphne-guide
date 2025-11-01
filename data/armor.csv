@@ -285,8 +285,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 332,Body!A332,Body,,Cyclops's Sash,Ebonsteel,Heavy,,,5,0,0,45,0,-15,-2,5,-4,0,5,0,0,55,6,-15,-2,5,-4,0,5,0,0,65,13,-15,-2,5,-4,0,5,0,0,75,19,-15,-2,5,-4,0,5,0,0,85,26,-15,-2,5,-4,0,
 338,Body!A338,Body,,Master's Armor,Ebonsteel,Heavy,,,0,0,0,50,0,-2,-2,0,-4,0,0,0,0,60,6,-2,-2,0,-4,0,0,0,0,70,13,-2,-2,0,-4,0,0,0,0,80,19,-2,-2,0,-4,0,0,0,0,90,26,-2,-2,0,-4,0,Bind Tolerance
 344,Body!A344,Body,,Lionheart Plate,Ebonsteel,Heavy,,,0,0,0,51,15,-3,-2,0,-4,0,0,0,0,61,21,-3,-2,0,-4,0,0,0,0,71,28,-3,-2,0,-4,0,0,0,0,81,34,-3,-2,0,-4,0,0,0,0,91,41,-3,-2,0,-4,0,Beast Hate
-350,Body!A350,Body,,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,,,,,,,,,,,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,0,0,0,65,16,10,0,0,0,0,Bewitching Fragrance
-356,Body!A356,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,Body!A350,Body,,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,0,0,0,37,4,7,0,0,0,0,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,0,0,0,65,16,10,0,0,0,0,Bewitching Fragrance
+356,Body!A356,Body,,Heavy Armor of Bloodrage,Silver,Heavy,,,0,0,0,93,0,-2,-2,0,-4,15,0,0,0,112,11,-2,-2,0,-4,20,0,0,0,125,19,-2,-2,0,-4,24,,,,,,,,,,,,,,,,,,,,,HP Absorption on Defeat
 362,Body!A362,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 368,Body!A368,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 374,Body!A374,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -343,7 +343,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 266,Accessories!A266,Accessories,,Master Ring,Silver,Accessory,,,13,13,13,20,24,13,13,13,13,13,13,13,13,30,24,13,13,13,13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Passive MP Up, Passive SP Up, Detect +13 (static), Disarm Trap +13 (static)"
 272,Accessories!A272,Accessories,,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
 278,Accessories!A278,Accessories,,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
-284,Accessories!A284,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+284,Accessories!A284,Accessories,,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,0,0,0,,21,0,15,0,0,15,0,0,0,35,21,0,19,0,0,19,,,,,,,,,,,,,,,,,,,,,Curse Tolerance
 290,Accessories!A290,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 296,Accessories!A296,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 302,Accessories!A302,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

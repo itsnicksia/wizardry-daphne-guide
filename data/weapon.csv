@@ -11,14 +11,14 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 56,Dagger!A56,Dagger,121,Dagger of the Water Drop,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,44,0,0,0,0,4,15,0,2,0,56,0,0,0,0,4,15,0,2,0,69,0,0,0,0,4,15,0,2,0,81,0,0,0,0,4,15,0,2,0,"Nimble Strike, Water Type"
 62,Dagger!A62,Dagger,130,Dagger of the Gale,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,44,0,0,0,0,4,15,0,2,0,56,0,0,0,0,4,15,0,2,0,69,0,0,0,0,4,15,0,2,0,81,0,0,0,0,4,15,0,2,0,"Nimble Strike, Air Type"
 68,Dagger!A68,Dagger,139,Dagger of the Soil,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,44,0,0,0,0,4,15,0,2,0,56,0,0,0,0,4,15,0,2,0,69,0,0,0,0,4,15,0,2,0,81,0,0,0,0,4,15,0,2,0,"Nimble Strike, Earth Type"
-74,Dagger!A74,Dagger,,Tanto of Slicing,Steel,2,,,33,0,0,0,0,4,15,6,2,0,46,0,0,0,0,4,15,8,2,0,58,0,0,0,0,4,15,11,2,0,71,0,0,0,0,4,15,13,2,0,,,,,,,,,,,Nimble Strike
+74,Dagger!A74,Dagger,,Tanto of Slicing,Steel,2,,,33,0,0,0,0,4,15,6,2,0,46,0,0,0,0,4,15,8,2,0,58,0,0,0,0,4,15,11,2,0,71,0,0,0,0,4,15,13,2,0,83,0,0,0,0,4,15,16,2,0,Nimble Strike
 80,Dagger!A80,Dagger,45,Ebonsteel Dagger,Ebonsteel,2,,750,45,0,0,0,0,4,15,0,2,0,60,0,0,0,0,4,15,0,2,0,75,0,0,0,0,4,15,0,2,0,90,0,0,0,0,4,15,0,2,0,105,0,0,0,0,4,15,0,2,0,Nimble Strike
 86,Dagger!A86,Dagger,89,Dagger of Expulsion,Ebonsteel,2,,938,43,0,0,0,0,4,15,0,2,0,58,0,0,0,0,4,15,0,2,0,73,0,0,0,0,4,15,0,2,0,88,0,0,0,0,4,15,0,2,0,103,0,0,0,0,4,15,0,2,0,"Nimble Strike, Vs Undead"
 92,Dagger!A92,Dagger,98,Demonbane Dagger,Ebonsteel,2,,938,43,0,0,0,0,4,15,0,2,0,58,0,0,0,0,4,15,0,2,0,73,0,0,0,0,4,15,0,2,0,88,0,0,0,0,4,15,0,2,0,103,0,0,0,0,4,15,0,2,0,"Nimble Strike, Demon Slayer"
 98,Dagger!A98,Dagger,148,Dagger of the Aurora,Ebonsteel,2,,938,43,0,0,0,0,4,15,0,2,0,58,0,0,0,0,4,15,0,2,0,73,0,0,0,0,4,15,0,2,0,88,0,0,0,0,4,15,0,2,0,103,0,0,0,0,4,15,0,2,0,"Nimble Strike, Light Type"
 104,Dagger!A104,Dagger,158,Dagger of Eternal Darkness,Ebonsteel,2,,938,43,0,0,0,0,4,15,0,2,0,58,0,0,0,0,4,15,0,2,0,73,0,0,0,0,4,15,0,2,0,88,0,0,0,0,4,15,0,2,0,103,0,0,0,0,4,15,0,2,0,"Nimble Strike, Dark Type"
 110,Dagger!A110,Dagger,Ex.,Red Camellia,Ebonsteel,2,,,44,0,0,0,0,5,15,0,2,0,59,0,0,0,0,5,15,0,2,0,74,0,0,0,0,5,15,0,2,0,89,0,0,0,0,5,15,0,2,0,104,0,0,0,0,5,15,0,2,0,Nimble Strike (Major)
-116,Dagger!A116,Dagger,,Azure Songstress,Ebonsteel,2,,,25,49,0,0,0,0,30,0,0,0,,,,,,,,,,,55,81,0,0,0,0,30,0,0,0,70,97,0,0,0,0,30,0,0,0,,,,,,,,,,,"Nimble Strike, Inflict Charm, I.Q. Barrier"
+116,Dagger!A116,Dagger,,Azure Songstress,Ebonsteel,2,,,25,49,0,0,0,0,30,0,0,0,,,,,,,,,,,55,81,0,0,0,0,30,0,0,0,70,97,0,0,0,0,30,0,0,0,85,114,0,0,0,0,30,0,0,0,"Nimble Strike, Inflict Charm, I.Q. Barrier"
 122,Dagger!A122,Dagger,,Jade Ceremonial Blade,Ebonsteel,2,,,48,0,0,0,0,4,15,0,5,0,63,0,0,0,0,4,15,0,7,0,78,0,0,0,0,4,15,0,8,0,93,0,0,0,0,4,15,0,9,0,,,,,,,,,,,"Nimble Strike, Evasive Strike, Evasive Heavy Strike, Critical on Normal Attacks"
 128,Dagger!A128,Dagger,,Raven Dagger,Ebonsteel,3,,,20,0,0,0,0,10,15,0,2,0,35,0,0,0,0,10,15,0,2,0,50,0,0,0,0,10,15,0,2,0,65,0,0,0,0,10,15,0,2,0,80,0,0,0,0,10,15,0,2,0,"Nimble Strike, Air Type"
 134,Dagger!A134,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -101,7 +101,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 74,2H_Sword!A74,2H_Sword,152,Two-Handed Sword of the Aurora,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Light Type"
 80,2H_Sword!A80,2H_Sword,162,Greatsword of Eternal Darkness,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dark Type"
 86,2H_Sword!A86,2H_Sword,Ex.,Dragon Slayer,Ebonsteel,1,,,106,0,0,0,0,-4,6,0,-2,0,129,0,0,0,0,-4,6,0,-2,0,151,0,0,0,0,-4,6,0,-2,0,174,0,0,0,0,-4,6,0,-2,0,196,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dragon Slayer, Dragon Tolerance"
-92,2H_Sword!A92,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,2H_Sword!A92,2H_Sword,,Devourer of Ruin,Silver,1,,,152,0,0,0,0,-4,20,15,-2,0,,,,,,,,,,,218,0,0,0,0,-4,29,24,-2,0,231,0,0,0,0,-4,31,26,-2,0,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit, Attack Power Up"
 98,2H_Sword!A98,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,2H_Sword!A104,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,2H_Sword!A110,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -142,12 +142,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 8,2H_Axe!A8,2H_Axe,18,Bronze Two-Handed Axe,Bronze,1,675,108,33,0,0,0,0,-8,0,0,-6,0,44,0,0,0,0,-8,0,0,-6,0,55,0,0,0,0,-8,0,0,-6,0,66,0,0,0,0,-8,0,0,-6,0,77,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
 14,2H_Axe!A14,2H_Axe,62,Two-Handed Axe of Undead Bane,Bronze,1,,135,35,0,0,0,0,-8,0,0,-6,0,46,0,0,0,0,-8,0,0,-6,0,57,0,0,0,0,-8,0,0,-6,0,68,0,0,0,0,-8,0,0,-6,0,79,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
 20,2H_Axe!A20,2H_Axe,29,Iron Two-Handed Axe,Iron,1,2025,324,54,0,0,0,0,-8,0,0,-6,0,69,0,0,0,0,-8,0,0,-6,0,84,0,0,0,0,-8,0,0,-6,0,99,0,0,0,0,-8,0,0,-6,0,114,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-26,2H_Axe!A26,2H_Axe,40,Steel Two-Handed Axe,Steel,1,,648,72,0,0,0,0,-8,0,0,-6,0,90,0,0,0,0,-8,0,0,-6,0,108,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,147,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-32,2H_Axe!A32,2H_Axe,84,War Axe,Steel,,20250,3240,73,0,0,0,0,-8,0,0,-6,0,91,0,0,0,0,-8,0,0,-6,0,109,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,148,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
-38,2H_Axe!A38,2H_Axe,117,Two-Handed Axe of Flame,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Fire Type"
-44,2H_Axe!A44,2H_Axe,127,Two-Handed Axe of the Water Drop,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
-50,2H_Axe!A50,2H_Axe,136,Two-Handed Axe of the Gale,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Air Type"
-56,2H_Axe!A56,2H_Axe,145,Two-Handed Axe of the Soil,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,,,,,,,,,,,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
+26,2H_Axe!A26,2H_Axe,40,Steel Two-Handed Axe,Steel,1,,648,72,0,0,0,0,-8,0,0,-6,0,90,0,0,0,0,-8,0,0,-6,0,108,0,0,0,0,-8,0,0,-6,0,127,0,0,0,0,-8,0,0,-6,0,147,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+32,2H_Axe!A32,2H_Axe,84,War Axe,Steel,,20250,3240,73,0,0,0,0,-8,0,0,-6,0,91,0,0,0,0,-8,0,0,-6,0,109,0,0,0,0,-8,0,0,-6,0,128,0,0,0,0,-8,0,0,-6,0,148,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
+38,2H_Axe!A38,2H_Axe,117,Two-Handed Axe of Flame,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Fire Type"
+44,2H_Axe!A44,2H_Axe,127,Two-Handed Axe of the Water Drop,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
+50,2H_Axe!A50,2H_Axe,136,Two-Handed Axe of the Gale,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Air Type"
+56,2H_Axe!A56,2H_Axe,145,Two-Handed Axe of the Soil,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
 62,2H_Axe!A62,2H_Axe,51,Ebonsteel Two-Handed Axe,Ebonsteel,1,,1350,114,0,0,0,0,-8,0,0,-6,0,137,0,0,0,0,-8,0,0,-6,0,159,0,0,0,0,-8,0,0,-6,0,182,0,0,0,0,-8,0,0,-6,0,204,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
 68,2H_Axe!A68,2H_Axe,95,Two-Handed Axe of Expulsion,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Vs Undead"
 74,2H_Axe!A74,2H_Axe,102,Hunting Axe,Ebonsteel,1,,1688,109,0,0,0,0,-8,0,0,-6,0,132,0,0,0,0,-8,0,0,-6,0,154,0,0,0,0,-8,0,0,-6,0,177,0,0,0,0,-8,0,0,-6,0,199,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Magical Beast-Slayer"
@@ -282,7 +282,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 68,2H_Staff!A68,2H_Staff,,Two-Handed Staff of Compassion,Ebonsteel,1,,,18,40,95,0,0,0,0,0,-4,0,41,63,118,0,0,0,0,0,-4,0,63,85,140,0,0,0,0,0,-4,0,86,108,163,0,0,0,0,0,-4,0,108,130,185,0,0,0,0,0,-4,0,"Strength-Based +, Holy Light of Healing"
 74,2H_Staff!A74,2H_Staff,,Two-Handed Staff of the Spirit Realm,Ebonsteel,1,,,18,104,50,0,0,0,0,0,-4,0,41,127,73,0,0,0,0,0,-4,0,63,149,95,0,0,0,0,0,-4,0,86,172,118,0,0,0,0,0,-4,0,108,194,140,0,0,0,0,0,-4,0,"Strength-Based +, Passive HP Up, Calamitous Rockfall Learned"
 80,2H_Staff!A80,2H_Staff,,Quicksilver Crosier,Ebonsteel,1,,,18,50,104,0,0,0,0,0,-4,0,41,73,127,0,0,0,0,0,-4,0,63,95,149,0,0,0,0,0,-4,0,86,118,172,0,0,0,0,0,-4,0,108,140,194,0,0,0,0,0,-4,0,"Strength-Based +, MP Absorption on Defeat"
-86,2H_Staff!A86,2H_Staff,,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit"
+86,2H_Staff!A86,2H_Staff,,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,135,212,200,0,0,0,0,0,-4,0,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit"
 92,2H_Staff!A92,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,2H_Staff!A98,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,2H_Staff!A104,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
