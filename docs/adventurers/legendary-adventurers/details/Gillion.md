@@ -76,6 +76,16 @@
 
     So he is potentially the best dps auto unit in the game (just put Elise behind him with a spear and Lana as always in the front row), and in actuality has real potential for manual use as a very serious DPS unit.  In my optinion the 5% sucks, but not so much it makes the passive skill bad.  It is not bad, I think it's actually great.  That said, Gillion is definitely not a new player friendly character despite being a fighter, and his inheritable attack is too niche to be called "good", it's kinda bad for normal play.  
 
+??? info "Shiro's Analysis"
+
+    Starting with inheritance. It’s goddamn amazing. Low cost, hits hard. The downgrade? HP loss. So basically running him requests you to run 1 priest in a team instead of 6 full physical. Is it worth that one slot? From what I’ve experienced it definitely is. The damage to the main target is huge. Bigger than DTS from my experience. But I’m not sure about the precise difference unless I’ll inherit one to him. But the main point is AoE. It’s great, but only for him only. Unlike Rinne which is a great inheritance option for others, this is… mostly beneficial only for him as it forces you for front only AoE, so you lose the flexibility for more damage. And you lose 35% instead of 25% HP when it’s inheritance.
+
+    Moving to his passive. It’s kind of good with questionable demerit that sometimes might be really an issue. While his buff to DMG + stats are good from it. And losing 5% per attack is usually not an issue… he also loses it on counterattack. So if you by accident survive lethal damage thanks to knight passive to end on 1 HP and you’ll counter… yeah… you get my point.
+
+    Moving to his discipline. It’s ATK+ACC. Nothing special so the main focus will be on upgrading his skill. Especially since self DMG is % so getting more HP from inheritances/disc lvls doesn’t help that much.
+
+    To sum it up. Gillian is great and terrible depending on the scenario. If you run him with Lana/have Lana inheritance on MC you can ignore his passive demerit. If you run him with a priest you don’t need to worry at all. His dmg is solid enough to help on bosses with multiple enemies. But… if you run him solo without sustain then he’s performing as quite a mediocre unit. And unlike Shiou and Galba who were “fake” risk - reward units (one had just bonus skill on low HP that could be ignored, and another could just evade to hit hard) then this time Gillian is actual risk-reward character. His HP loss appears every time for great damage tradeoff. Is he must-pull or game changing character? Definitely not. Is he good? Yes. But he’s heavily team dependent so take it in mind when you’ll want to use him.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
