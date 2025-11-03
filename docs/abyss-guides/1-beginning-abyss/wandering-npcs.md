@@ -20,10 +20,11 @@ This adventurer needs help and requests a Medicinal Herb from the player.
 ![](./img/a1-panicked-adventurer.jpg)  
 ??? note "Details"  
     - Location: Upper Floors - B1F-B3F(?)  
-    - Interaction Options (Personality Impact):    
-        - Give Medicinal Herb for Free - get a 200gp reward  (Good)  
-        - Give Medicinal Herb for a 100gp payment - get 100gp (Evil)   
-        - Ignore request (Unknown)  
+    - Interaction Options:    
+        - Give Medicinal Herb for Free - get a 200gp reward    
+        - Give Medicinal Herb for a 100gp payment - get 100gp     
+        - Ignore request   
+    - Personality Impact: None known.  
     - Notes: Medicinal Herbs must\ be carried in your party's current inventory.  If the player has no Medicinal Herbs in their inventory, the Panicked Adventurer leaves without interacting.  
 
 ## Amiable Dwarf  
@@ -34,7 +35,7 @@ This Dwarf will trade you some Beginning Abyss Junk if you help restock his poti
     - Interaction Options:    
         - The Dwarf will ask for either an Invigorating Draught or an Antitoxin if you possess either.  
         - Agreeing to the trade get you some slightly better quality Beginning Abyss Junk.     
-    - Personality Impact: Unknown.   
+    - Personality Impact: None known.   
     - Notes: Items need to be carried in your party's inventory.  If the player has no Invigorating Draughts or Antitoxins, the Amiable Dwarf leaves without interacting.  
 
 ## Disgruntled Adventurer  
@@ -47,16 +48,17 @@ This Priest-looking adventurer is standing around frustrated with something.
             - Asking will randomly trigger either an attack by a group of Hostile Adventurers or a friendly exchange with a small gift.   
             - If he attacks, the combat will provide a chest with gold.  
         - The player may simply Ignore the Adventurer, which dismisses the interaction.   
-    - Personality Impact: Unknown.  
+    - Personality Impact: None known.  
 
 ## Clever-Looking Goblin   
 This friendly little goblin wants to add to his shiny klink-klink collection.  
 ![](./img/a1-clever-looking-goblin.jpg)
 ??? note "Details"  
     - Location: Most Floors - B1F-B7F  
-    - Interaction Options (Personality Impact):   
-        - If the player possesses any Rusty Old Coins, you may give him one.  He'll give you a Translucent Pebble in trade. (Good)  
-        - The player may Ignore the Goblin, which dismisses the interaction. (Evil)  
+    - Interaction Options:   
+        - If the player possesses any Rusty Old Coins, you may give him one.  He'll give you a Translucent Pebble in trade.  
+        - The player may Ignore the Goblin, which dismisses the interaction.  
+    - Personality Impact: None known.  
     - Note: Rusty Old Coin does not need to be in current inventory. Coins in storage can be used as long as you didn't sell them all.  
 
 ## Ghreen Jelly  
@@ -71,6 +73,6 @@ This non-hostile slime seems... hungry. What could go wrong?
             - Azure Ore  
             - Azure Ore Clump  
         - Feeding it gems will eventually trigger [gaining the slime as a Bondmate](../../adventurer-customization/bondmates/beginning-abyss/bondmates.md#ghreen-jelly), with higher value gems achieving this sooner.
-    - Personality Impact: Unknown  
+    - Personality Impact: None Known 
     - Note:  Gems do not need to be in party inventory. Gems in storage can be used as long as you didn't sell them all.  Once acquired as a bondmate, you can never run into the Ghreen Jelly again even using the Cursed Wheel.    
 
