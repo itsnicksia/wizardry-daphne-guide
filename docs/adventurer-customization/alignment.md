@@ -1,6 +1,6 @@
 # Alignment
 
-All adventurers have an Alignment, including your own character.
+All adventurers have an Alignment (also called "Personality" in game), including your own character.
 
 There are three Alignments: 
 
