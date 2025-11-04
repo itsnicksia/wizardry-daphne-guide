@@ -68,7 +68,7 @@
 | Milana       | DEX                 |
 | Olive        | VIT                 |
 | Ophelia      | STR                 |
-| Phillip      | SPD                 |
+| Philip      | SPD                 |
 | Red Beard    | PIE                 |
 | Rinne        |                     |
 | Savia        | VIT                 |
