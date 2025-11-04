@@ -23,7 +23,7 @@
     **Adventurer and Party Customization**
 
     - [Building Your Party](./strategies/party-construction.md)
-    - [Blacksmithing](equipment/index.md)
+    - [Blacksmithing](equipment/blacksmithing.md)
     - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)
     - [Relicbrew](./adventurer-customization/relicbrew.md)
