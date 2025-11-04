@@ -51,6 +51,13 @@ plugins:
   - redirects:
       redirect_maps:
         'appendices/respawning-bone-locations.md': 'tools/tracker.md'
+        'adventurer-customization/blacksmithing/index.md': 'equipment/blacksmithing.md'
+        'appendices/equipment/equipment-drop-rates.md': 'equipment/equipment-drop-rates.md'
+        'appendices/equipment/equipment-tables.md': 'equipment/equipment-tables.md'
+        'appendices/equipment/equipment-tables-embed.md': 'equipment/equipment-tables-embed.md'
+        'appendices/equipment/equipment-tables-quicktables.md': 'equipment/equipment-tables-quicktables.md'
+        'appendices/equipment/unique-equipment.md': 'equipment/unique-equipment.md'
+        'appendices/equipment/weapon-types.md': 'equipment/weapon-types.md'
 extra_css:
   - stylesheets/table.css
   - stylesheets/tooltip.css

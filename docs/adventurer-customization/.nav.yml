@@ -1,7 +1,6 @@
 nav:
   - Adventurer Experience: './adventurer-experience.md'
   - Alignment: './alignment.md'
-  - Blacksmithing: './blacksmithing/index.md'
   - Bondmates:
       - Bondmates Quicklist: './bondmates/bondmates-quicklist.md'
       - Adventurer Bondmates: './bondmates/adventurer-bondmates.md'

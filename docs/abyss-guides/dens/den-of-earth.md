@@ -3,7 +3,7 @@
 ??? info "About Dens"
     The Den of Earth is the first Den available to players.  It is unlocked after defeating the Greater Warped One in the Beginning Abyss, and can be accessed from the Edge of Town in the Royal Capital.  
 
-    All Dens are 1 floor dungeons where chests can give you [Blacksmithing Ore of different grades required for ehnancing gear beyond +4](../../adventurer-customization/blacksmithing/index.md#enhance) and Elemental armor and weapon junk matching the Den. (Earth, fire, air, and water gear are steel grade.)  Each den has one or two Boss fights on the way to the exit portal.    
+    All Dens are 1 floor dungeons where chests can give you [Blacksmithing Ore of different grades required for ehnancing gear beyond +4](../../equipment/blacksmithing.md#enhance) and Elemental armor and weapon junk matching the Den. (Earth, fire, air, and water gear are steel grade.)  Each den has one or two Boss fights on the way to the exit portal.    
 
     Den maps are obscured each time the Den is entered, with the Entrance and Exit (portal) tiles always visible. All other map tiles are variable, and randomly change layout each time the Den is entered.   
 
