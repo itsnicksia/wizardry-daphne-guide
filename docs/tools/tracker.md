@@ -322,7 +322,7 @@
     ]
   },
   {
-    title: 'Adventurer Remains',
+    title: "Adventurer's Remains",
     items: [
       { subheader: 'Beginning Abyss' },
       {
