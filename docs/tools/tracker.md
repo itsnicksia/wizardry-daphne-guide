@@ -432,10 +432,11 @@
     title: 'Equipment/Request Rewards',
     items: [
       { subheader: 'Beginning Abyss' },
+      { subheader: 'Chest Items' },
       {
         id: 'abyss_b1f_feathered',
         title: 'Feathered Cap',
-        details: 'Chest in B1F (x:11, y:21)',
+        details: 'Chest in B1F 3-chest room (x:23, y:11)',
         image: '',
         clickable: false
       },
@@ -447,7 +448,7 @@
         clickable: false
       },
       {
-        id: 'abyss_b5f_resistance',
+        id: 'abyss_b3f_resistance',
         title: 'Ring of Resistance',
         details: 'Chest in B3F (x:12, y:19)',
         image: '',
@@ -456,21 +457,21 @@
       {
         id: 'abyss_b4f_halberd',
         title: 'Halberd',
-        details: 'Chest in B4F (x:2, y:13)',
+        details: 'Chest in B4F (x:2, y:4)',
         image: '',
         clickable: false
       },
       {
         id: 'abyss_b5f_huntsman',
         title: 'Huntsmans Bow',
-        details: 'Chest in B5F (x:8, y:2)',
+        details: 'Chest in B5F Southwest 3-chest room (x:8, y:3)',
         image: '',
         clickable: false
       },
       {
         id: 'abyss_b5f_breeze',
         title: 'Sword of the Breeze',
-        details: 'Chest in B5F (x:8, y:3)',
+        details: 'Chest in B5F East 3-chest room (x:22, y:15)',
         image: '',
         clickable: false
       },
@@ -481,49 +482,51 @@
         image: '',
         clickable: false
       },
+      { subheader: 'Request Rewards' },
       {
         id: 'bracelet_of_urgency',
         title: 'Bracelet of Urgency',
-        details: 'Quest Reward from "Knight-Butcher Ent Proliferation"',
+        details: 'Request Reward from "Knight-Butcher Ent Proliferation"',
         image: '',
         clickable: false
       },
       {
         id: 'undead_ward',
         title: 'Undead Ward',
-        details: 'Quest Reward from "Abyssal Heretic"',
+        details: 'Request Reward from "Abyssal Heretic"',
         image: '',
         clickable: false
       },
       {
         id: 'plague_mask',
         title: 'Plague Mask',
-        details: 'Clear all waves in "March of the Undead" request',
+        details: 'Request Reward from clear all waves in "March of the Undead"',
         image: '',
         clickable: false
       },
       {
         id: 'digger_pickaxe',
         title: 'Digging Mattock',
-        details: 'Quest Reward from "Saving Lambert"',
+        details: 'Request Reward from (not) "Saving Lambert"',
         image: '',
         clickable: false
       },
       {
         id: 'royal_amulet',
         title: 'Royal Herald Amulet',
-        details: 'Quest Reward from "Save the King"',
+        details: 'Request Reward from "Save the King"',
         image: '',
         clickable: false
       },
       {
         id: 'bracelet_of_battle',
         title: 'Bracelet of Battle',
-        details: 'Chance to drop from "The Greater Demon"',
+        details: 'Chance Request Reward from defeating the Greater Demon in "The Lingering Scent of the Greater Warped One',
         image: '',
         clickable: false
       },
       { subheader: 'Trade Waterway' },
+      { subheader: 'Chest Items' },
       {
         id: 'lightfoot_sandals',
         title: 'Light Sandals',
