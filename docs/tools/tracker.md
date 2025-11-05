@@ -621,7 +621,7 @@
       },
       {
         id: 'quest-reward-2a-pontiff-route',
-        title: 'Book of Sanctuary's Blessing Secrets',
+        title: "Book of Sanctuary's Blessing Secrets",
         details: 'Request Reward from "Missing Person (Pontiff Route)"',
         image: '',
         clickable: false
