@@ -306,16 +306,30 @@
   */
   const SECTIONS = [
     {
-      title: 'Mausoleum Reset',
+      title: 'Ancient Mausoleum',
       items: [
-        { subheader: 'Ancient Mausoleum' },
         {
           id:    'cauldron_mausoleum',
-          title: 'Crucible Mausoleum',
+          title: 'Crucible Mausoleum Reset',
+          details: 'A new set of 4 or 5 new Adventurer's remains become available in the Crucible Mauoleum every 2 weeks.',
           reset: {
             reference:    '2025-05-31T10:00:00',  // Initial reset anchor time (local time)
             intervalWeeks: 2                      // Repeat every 2 weeks
           },
+          image:     '',                          // No image: remains non-clickable
+          clickable: false
+        },
+        {
+          id:    'furnace_tallow',
+          title: 'Tallow of Bone Summoning - Furnace of Deathsmoke',
+          details: 'Furnace of Deathsmoke located at the Ancient Mausoleum selection screen. Produces one tallow every 7 days.',
+          image:     '',                          // No image: remains non-clickable
+          clickable: false
+        }, 
+        {
+          id:    'bonepicker_tallow',
+          title: 'Tallow of Bone Summoning - Bone Picker',
+          details: 'The wandering Bone Picker will sell you one tallow every 7 days for 10,000gp.',
           image:     '',                          // No image: remains non-clickable
           clickable: false
         }
