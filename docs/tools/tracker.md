@@ -429,7 +429,7 @@
     ]
   },
   {
-    title: 'Equipment/Request Rewards',
+    title: 'Equipment, Items, and Request Rewards',
     items: [
       { subheader: 'Beginning Abyss' },
       { subheader: 'Chest Items' },
@@ -482,6 +482,13 @@
         image: '',
         clickable: false
       },
+      {
+        id: 'a1_b8f_nourishingpotions',
+        title: 'Nourishing Draught x3',
+        details: 'Chest in B8F (x:19, y:12) - respawns daily',
+        image: '',
+        clickable: false
+      },
       { subheader: 'Request Rewards' },
       {
         id: 'bracelet_of_urgency',
@@ -528,23 +535,30 @@
       { subheader: 'Trade Waterway' },
       { subheader: 'Chest Items' },
       {
+        id: 'a2-district3-manapots',
+        title: 'Mana Potions x2',
+        details: 'Chest in 3rd District behind locked door (x:10, y:22). Respawns monthly.',
+        image: '',
+        clickable: false
+      },
+      {
         id: 'lightfoot_sandals',
         title: 'Light Sandals',
-        details: 'Chest in 3rd District',
+        details: 'Chest in 3rd District after ambush room (x:17, y:1)',
         image: '',
         clickable: false
       },
       {
         id: 'thieves_gloves',
         title: 'Thieves Gloves',
-        details: 'Chest in 4th District',
+        details: 'Chest in 4th District near Harken room (x:26, y:20)',
         image: '',
         clickable: false
       },
       {
         id: 'man_eater',
         title: 'Man-Eater',
-        details: 'Chest in 5th District',
+        details: 'Chest in 5th District (x:6, y:23)',
         image: '',
         clickable: false
       },
@@ -556,16 +570,24 @@
         clickable: false
       },
       {
+        id: 'a2-ship2-manapots',
+        title: 'Mana Elixers x3',
+        details: 'Chest in Ship 2 Treasure Room (x:14, y:13). Respawns monthly.',
+        image: '',
+        clickable: false
+      },
+      { subheader: 'Request Rewards' },
+      {
         id: 'bird_dropper',
         title: 'Bird Dropper',
-        details: 'Quest Reward from "Hydra Plant Procurement"',
+        details: 'Request Reward from "Hydra Plant Procurement"',
         image: '',
         clickable: false
       },
       {
         id: 'bloodstained_gloves',
         title: 'Bloodstained Gloves',
-        details: 'Quest Reward from "Servant and Cargo Recovery"',
+        details: 'Request Reward from "Servant and Cargo Recovery" (non-bondmate path)',
         image: '',
         clickable: false
       },
@@ -573,13 +595,6 @@
         id: 'melgina_choker',
         title: 'Melgina’s Choker',
         details: 'Defeat Octonarus after giving Melgina the Mackerel Sandwich',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'shield_of_honor',
-        title: 'Shield of Honor',
-        details: 'Quest Reward from "Missing Person (Princess Route)"',
         image: '',
         clickable: false
       },
@@ -598,6 +613,27 @@
         clickable: false
       },
       {
+        id: 'quest-reward-2a-princess-route',
+        title: 'Shield of Honor',
+        details: 'Request Reward from "Missing Person (Princess Route)"',
+        image: '',
+        clickable: false
+      },
+      {
+        id: 'quest-reward-2a-pontiff-route',
+        title: 'Book of Sanctuary's Blessing Secrets',
+        details: 'Request Reward from "Missing Person (Pontiff Route)"',
+        image: '',
+        clickable: false
+      },
+      {
+        id: 'quest-reward-2a-admiral-route',
+        title: 'Twin Pearls',
+        details: 'Request Reward from "Missing Person (Admiral Route)"',
+        image: '',
+        clickable: false
+      },
+      {
         id: 'sea_god_pearl',
         title: 'Pearl of the Sea God',
         details: 'Quest Reward from "Arena Tournament by Avare"',
@@ -605,6 +641,22 @@
         clickable: false
       },
       { subheader: 'Impregnable Fortress' },
+      { subheader: 'Chest Items' },
+      {
+        id: 'a3_z2_nourishingpotions',
+        title: 'Nourishing Draught x3',
+        details: 'Chest in Zone 2 (x:4, y:15) - respawns every 1-2 days. Chest also contains 1-2x Crimson Lustrous Ore + Scroll of Flash',
+        image: '',
+        clickable: false
+      },
+      {
+        id: 'soul_potion_d9',
+        title: 'Mana Elixir x3',
+        details: 'Chest in Zone 9 (x:16, y:0). Respawns monthly.',
+        image: '',
+        clickable: false
+      },
+      { subheader: 'Request Rewards' },
       {
         id: 'skull_necklace',
         title: 'Skull Necklace',
@@ -665,13 +717,6 @@
         id: 'holy_white_gem',
         title: 'Luminous Holy White Gem',
         details: 'Papal Route Clear Reward',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'soul_potion_d9',
-        title: 'Mana Elixir',
-        details: 'District 9',
         image: '',
         clickable: false
       },
