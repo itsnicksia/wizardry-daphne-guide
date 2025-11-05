@@ -658,16 +658,23 @@
       },
       { subheader: 'Request Rewards' },
       {
-        id: 'skull_necklace',
-        title: 'Skull Necklace',
-        details: 'Quest Reward from "Putting Evil Spirits to Rest" or Zone 2 Chest',
+        id: 'skull_necklace_quest',
+        title: 'Skull Necklace - Request Reward',
+        details: 'Quest Reward from "Putting Evil Spirits to Rest"',
+        image: '',
+        clickable: false
+      },
+      {
+        id: 'skull_necklace_chest',
+        title: 'Skull Necklace - Zone 2 chest',
+        details: 'Chest in Zone 2',
         image: '',
         clickable: false
       },
       {
         id: 'enemy_scope',
         title: 'Enemy Spyglass',
-        details: 'Quest Reward from "Bodyguard for Ruins Exploration"',
+        details: 'Request Reward from "Bodyguard for Ruins Exploration"',
         image: '',
         clickable: false
       },
@@ -681,14 +688,14 @@
       {
         id: 'goats_cloak',
         title: 'Goatskin Cloak',
-        details: 'Quest Reward from "Antique Scarlet Doll" or Chest in Zone 6',
+        details: 'Request Reward from "Antique Scarlet Doll" or Chest in Zone 6',
         image: '',
         clickable: false
       },
       {
         id: 'knights_cloak',
         title: 'Knight’s Cloak',
-        details: 'Quest Reward from "Expedition to Clear the Fortress Lower Levels"',
+        details: 'Request Reward from "Expedition to Clear the Fortress Lower Levels"',
         image: '',
         clickable: false
       },
@@ -723,14 +730,14 @@
       {
         id: 'embroidered_hankerchief',
         title: 'Golden Embroidered Handkerchief',
-        details: 'Quest Reward from Cleanup Operation quest reward',
+        details: 'Request Reward from Cleanup Operation quest reward',
         image: '',
         clickable: false
       },
       {
         id: 'everlasting_lily',
         title: 'Everlasting Lily',
-        details: 'Quest Reward from "Requiem for the Evil Spirit" quest',
+        details: 'Request Reward from "Requiem for the Evil Spirit" quest',
         image: '',
         clickable: false
       }
