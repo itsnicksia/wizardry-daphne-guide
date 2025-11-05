@@ -528,7 +528,7 @@
       {
         id: 'bracelet_of_battle',
         title: 'Bracelet of Battle',
-        details: 'Chance Request Reward from defeating the Greater Demon in "The Lingering Scent of the Greater Warped One',
+        details: 'Chance Request Reward from defeating the Greater Demon in "The Lingering Scent of the Greater Warped One"',
         image: '',
         clickable: false
       },
