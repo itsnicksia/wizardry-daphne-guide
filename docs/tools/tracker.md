@@ -227,15 +227,13 @@
 
 <div id="tracker-container">
   <!-- Instructions for users -->
-  <p>
-   <ul>
-     <li>Click an entry name to view its image (if it has one).</li>
+  <ul>
+    <li>Click an entry name to view its image (if it has one).</li>
     <li>Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.</li>
     <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
     <li>Transfer acquisition status between devices with the sync code.</li>
-   </ul>
-    Note: Abyss maps have variations where sections are shifted or swapped. Items will shift as well but remain in the same relative location. If an (x,y) location doesn't match your current map, refer to the appropriate Abyss Dungeon Maps to see possible variations.
-  </p>
+    <li>Note: Abyss maps can vary with sections shifted or swapped. Items shift as well but remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
+  </ul>
 
   <!-- This is where the sync UI (copyable code + paste-to-sync) appears -->
   <div id="sync-container"></div>
