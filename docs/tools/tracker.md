@@ -230,7 +230,7 @@
   <p>
     Click an entry name to view its image (if it has one).<br>
     Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.<br>
-    Respawn interval noted in item text if known.<br>
+    Respawn interval noted in item text if known. Times are approximate. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.<br>
     Transfer acquisition status between devices with the sync code.<br>
     <br>
     Note: Some Abyss maps have variations where sections are shifted or swapped. Items located on these sections will shift as well but will remain in the same relative location in that section. If an item (x,y) location doesn't match your current map, refer to the appropriate Abyss Dungeon Maps to see which variations may be relevant.
