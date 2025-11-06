@@ -4,7 +4,7 @@
 
 ## How to participate:
 
-You need to reach a certain point in the Third Abyss, Impregnable Fortress and view the Prologue story of the quest.
+You need to complete the Third Abyss, Impregnable Fortress up to the Cursed Wheel Point "Hidden Passage" and then view the Prologue story of the quest in the Royal Capital.
 
 ## Guide:
 !!! note "There is no difficulty mode for this Event Dungeon. The mobs will scale automatically to your level."
