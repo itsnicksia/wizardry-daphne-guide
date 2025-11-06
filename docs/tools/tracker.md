@@ -1,10 +1,7 @@
 <!--
-  This file is a self contained web component that tracks collectible entries.
-  It uses:
-    - HTML for structure
-    - CSS for styles (inside <style>)
-    - JavaScript for behavior (inside <script>)
-  Data is saved to the browser's localStorage so it persists per device.
+  CHANGELOG (Aug 2025):
+  - Added a "Days since (HH:MM:SS)" subline under the Last Collected timestamp.
+  - The subline updates live every second and resets when you Collect/Update/Undo.
 -->
 
 <style>
@@ -216,6 +213,15 @@
       width: auto;
     }
   }
+
+  /* ====== NEW: DAYS-SINCE SUBLINE ======
+     Styling for the live "Days since (HH:MM:SS)" text shown under the timestamp.
+  */
+  #tracker-container .since {
+    margin-top: 0.15rem;
+    font-size: 0.8rem;
+    opacity: 0.9;
+  }
 </style>
 
 
@@ -241,7 +247,11 @@
       <col style="width: 12%;">
     </colgroup>
     <thead>
-      <tr><th>Entry</th><th>Last Collected</th><th>Action</th></tr>
+      <tr>
+        <th>Entry</th>
+        <th>Last Collected</th>
+        <th>Action</th>
+      </tr>
     </thead>
     <tbody></tbody>
   </table>
@@ -311,7 +321,7 @@
         {
           id:    'cauldron_mausoleum',
           title: 'Crucible Mausoleum Reset',
-          details: 'A new set of 4 or 5 new Adventurer’s Remains become available in the Crucible Mauoleum every 2 weeks.',
+          details: 'A new set of 4 or 5 new Adventurer’s Remains become available in the Crucible Mausoleum every 2 weeks.',
           reset: {
             reference:    '2025-05-31T10:00:00',  // Initial reset anchor time (local time)
             intervalWeeks: 2                      // Repeat every 2 weeks
@@ -528,7 +538,7 @@
       {
         id: 'bracelet_of_battle',
         title: 'Bracelet of Battle',
-        details: 'Chance Request Reward from defeating the Greater Demon in "The Lingering Scent of the Greater Warped One"',
+        details: 'Chance Request Reward from defeating the Greater Demon in "The Lingering Scent of the Greater Warped One',
         image: '',
         clickable: false
       },
@@ -621,7 +631,7 @@
       },
       {
         id: 'quest-reward-2a-pontiff-route',
-        title: "Book of Sanctuary's Blessing Secrets",
+        title: 'Book of Sanctuary\'s Blessing Secrets',
         details: 'Request Reward from "Missing Person (Pontiff Route)"',
         image: '',
         clickable: false
@@ -765,10 +775,30 @@
   const syncCt = document.getElementById('sync-container');
 
   /* ==========================
-     HELPER: DATE FORMATTING
-     ========================== */
+     HELPER: DATE/TIME FORMATTING
+     ==========================
+     - formatDate: returns localized "Last Collected" label
+     - pad2:       2-digit helper for HH:MM:SS
+     - formatDaysSinceWithClock: returns "X days (HH:MM:SS)" live display
+  */
   function formatDate(ts) {
     return ts ? new Date(ts).toLocaleString() : '-';
+  }
+  function pad2(n){ return String(n).padStart(2,'0'); }
+
+  /* Returns "X days (HH:MM:SS)" where HH:MM:SS is the remainder inside the current day. */
+  function formatDaysSinceWithClock(ts, nowMs) {
+    if (!ts) return '-';
+    const now = nowMs ?? Date.now();
+    let diff = Math.max(0, now - ts); // avoid negative
+    const dayMs = 24*60*60*1000;
+    const days = Math.floor(diff / dayMs);
+    diff = diff % dayMs;
+    const h = Math.floor(diff / (60*60*1000));
+    const m = Math.floor((diff % (60*60*1000)) / (60*1000));
+    const s = Math.floor((diff % (60*1000)) / 1000);
+    const dayLabel = days === 1 ? '1 day' : `${days} days`;
+    return `${dayLabel} (${pad2(h)}:${pad2(m)}:${pad2(s)})`;
   }
 
   /* Save current 'data' into localStorage. */
@@ -841,12 +871,36 @@
   }
 
   /* ==========================
+     LIVE "DAYS SINCE" CLOCK
+     ==========================
+     - A single setInterval ticks once per second.
+     - We only touch the small ".since" span under each timestamp.
+     - Each span carries data-ts="<ms>" so we don't reparse text each tick.
+  */
+  let __elapsedInterval = null;
+
+  /* Update all live "since" labels in the table to the current time. */
+  function updateElapsedClocks() {
+    const now = Date.now();
+    document.querySelectorAll('#tracker tbody .since[data-ts]').forEach(span => {
+      const ts = Number(span.dataset.ts);
+      span.textContent = formatDaysSinceWithClock(ts, now);
+    });
+  }
+
+  /* Ensure the interval exists. */
+  function ensureElapsedTimer() {
+    if (__elapsedInterval) return;
+    __elapsedInterval = setInterval(updateElapsedClocks, 1000);
+  }
+
+  /* ==========================
      RENDERER
      ==========================
      Builds all table rows based on SECTIONS and current 'data'.
      Binds click handlers for Collect/Update, Undo, and Image links.
   */
-  function render() {
+  function buildRowsHTML() {
     let html = '';
 
     // Build rows for each section and its items
@@ -856,7 +910,7 @@
 
       // Each item within a section
       sec.items.forEach(it => {
-        // Visual subsection row seperators
+        // Visual subsection row separators
         if (it.subheader) {
           html += `<tr class="subsection-header"><td colspan="3">${it.subheader}</td></tr>`;
           return;
@@ -884,28 +938,38 @@
         // Reset button appears only when item has been collected
         const rstBtn = done ? `<button class="reset-btn" title="Undo">⟲</button>` : '';
 
+        // ====== NEW: Second column now shows:
+        //   Line 1: Localized timestamp
+        //   Line 2: Live "Days since (HH:MM:SS)" subline (updates every second)
+        const ts = data[it.id] || null;
+        const tsDate = formatDate(ts);
+        const since  = formatDaysSinceWithClock(ts);
+
         // Compose the row HTML
         html += `
           <tr data-id="${it.id}" class="${done ? 'collected' : ''}">
             <td>${chk}${nameEl}${details ? `<div class="details">${details}</div>` : ''}</td>
-            <td class="ts">${formatDate(data[it.id])}</td>
+            <td class="ts">
+              <div class="ts-date">${tsDate}</div>
+              <div class="since"${ts ? ` data-ts="${ts}"` : ''}>${since}</div>
+            </td>
             <td>${actBtn}${rstBtn}</td>
           </tr>`;
       });
     });
 
-    // Inject all rows into the table body
-    tbody.innerHTML = html;
+    return html;
+  }
 
-    // ==== Wire up button/link behaviors after DOM insertion ====
-
+  /* Re-bind events for the new buttons/links inside rows. */
+  function wireRowInteractions() {
     // Collect/Update: set current timestamp for this id
     tbody.querySelectorAll('.action-btn').forEach(btn =>
       btn.onclick = e => {
         const id = e.target.closest('tr').dataset.id;
         data[id] = Date.now(); // store time of collection/update
         save();
-        render();              // re-render to reflect new state
+        renderRowsOnly();      // re-render rows to refresh both date and since
       }
     );
 
@@ -915,7 +979,7 @@
         const id = e.target.closest('tr').dataset.id;
         delete data[id]; // delete property from 'data'
         save();
-        render();
+        renderRowsOnly();
       }
     );
 
@@ -932,9 +996,30 @@
         modal.style.display = 'flex';
       }
     );
+  }
+
+  /* Re-render only tbody rows (faster than rebuilding header/sync UI). */
+  function renderRowsOnly() {
+    tbody.innerHTML = buildRowsHTML();
+    wireRowInteractions();
+    updateElapsedClocks();  // paint immediately so the subline is current
+  }
+
+  function render() {
+    // Inject all rows into the table body
+    tbody.innerHTML = buildRowsHTML();
+
+    // Wire interactions for table rows
+    wireRowInteractions();
 
     // Rebuild the sync controls (so they always reflect the latest code)
     initializeSyncUI();
+
+    // Start/ensure the live "Days since" clock interval
+    ensureElapsedTimer();
+
+    // Paint the initial "Days since" values right away
+    updateElapsedClocks();
   }
 
   /* ==========================
@@ -1081,6 +1166,8 @@ EXAMPLE:
   - "⟲" clears the timestamp.
   - If clickable=true, clicking the title opens the modal with your image.
   - If reset is set, the "Resets ..." label appears and shows a sensible date.
+  - NEW: Under "Last Collected", a live "X days (HH:MM:SS)" subline should
+         count up once per second from the moment of collection.
 
 ------------------------------------------
 7) HOW TO MIGRATE OR SHARE YOUR PROGRESS
@@ -1104,6 +1191,11 @@ EXAMPLE:
 - Reset label shows a weird time:
   - The browser uses local time. Double-check the 'reference' value and format.
   - Make sure 'intervalWeeks' is a number (e.g., 1, 2).
+
+- The "days since" line isn't moving:
+  - Ensure there are no console errors stopping JS execution.
+  - Verify each ".since" span has a data-ts attribute after collecting.
+  - Try reloading; the interval is created during render().
 
 - I want to clear all progress quickly:
   - Open DevTools Console and run:
