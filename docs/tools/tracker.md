@@ -340,7 +340,7 @@
         {
           id:    'bonepicker_tallow',
           title: 'Tallow of Bone Summoning - Bone Picker',
-          details: 'The wandering Bone Picker will sell you one tallow every 7 days for 10,000gp.',
+          details: 'The wandering Bone Picker will sell you one tallow for 10,000gp every 7 days.',
           image:     '',                          // No image: remains non-clickable
           clickable: false
         }
@@ -353,63 +353,63 @@
       {
         id: 'b1f_awakened_chamber',
         title: 'Old Remains: Cursed Wheel to Awakening',
-        details: 'Part of the Intro',
+        details: 'Part of the Intro. [30 days]',
         image: '/appendices/img/respawning-bone-death-stench.jpg',
         clickable: false
       },
       {
         id: 'b1f_stench_quest',
         title: 'Class Remains: B1F (Death Stench Investigation Request)',
-        details: 'Wheel to Kings Rescue, accept the Request in the Adventurers Guild, and head to the location',
+        details: 'Wheel to Kings Rescue, accept the Request in the Adventurers Guild, and head to the location. [30 days]',
         image: '../img/bones/respawning-bone-death-stench.jpg',
         clickable: true
       },
       {
         id: 'b3f_goblin_south',
         title: 'Adventurer’s Remains: B3F (Goblin’s Nest - chest)',
-        details: 'Wheel to Kings Rescue and head to the chest location south of the Goblin Nest entrance',
+        details: 'Wheel to Kings Rescue and head to the chest location south of the Goblin Nest entrance. [30 days]',
         image: '../img/bones/respawning-bone-goblin-den.jpg',
         clickable: true
       },
       {
         id: 'b3f_goblin_northeast',
         title: 'Adventurer’s Remains: B3F (Goblin’s Nest - Goblin Boss)',
-        details: 'Wheel to Kings Rescue and head to the goblin fight in the northeast',
+        details: 'Wheel to Kings Rescue and head to the goblin fight in the northeast. [30 days]',
         image: '../img/bones/respawning-bone-goblin-den.jpg',
         clickable: true
       },
       {
         id: 'b4f_rubble',
         title: 'Adventurer’s Remains: B4F',
-        details: 'Assuming you wheeled to Kings Rescue already, head to the location',
+        details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
         image: '../img/bones/respawning-bone-b4f.jpg',
         clickable: true
       },
       {
         id: 'b5f_toxin_swamps',
         title: 'Adventurer’s Remains: B5F',
-        details: 'Assuming you wheeled to Kings Rescue already, head to the location',
+        details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
         image: '../img/bones/respawning-bone-b5f.jpg',
         clickable: true
       },
       {
         id: 'b6f_before_statue',
         title: 'Adventurer’s Remains: B6F',
-        details: 'Same as above, you need to come in from B5F to take the portals',
+        details: 'Same as above, you need to come in from B5F to take the portals. [7 days]',
         image: '../img/bones/respawning-bone-b6f.jpg',
         clickable: true
       },
       {
         id: 'b7f_rubble_reverse',
         title: 'Adventurer’s Remains: B7F',
-        details: 'Same as below, you need to first drop the rocks on B8F',
+        details: 'Same as below, you need to first drop the rocks on B8F. [30 days]',
         image: '../img/bones/respawning-bone-b7f.jpg',
         clickable: true
       },
       {
         id: 'b8f_nutrient',
         title: 'Adventurer’s Remains: B8F',
-        details: 'Assuming you wheeled to Kings Rescue already, head to the location',
+        details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
         image: '../img/bones/respawning-bone-b8f.jpg',
         clickable: true
       },
@@ -417,7 +417,7 @@
       {
         id: 'trade_waterway_pier',
         title: 'Adventurer’s Remains: 7th District (Shore of the Dead)',
-        details: 'Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then.',
+        details: 'Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then. [30 days]',
         image: '../img/bones/respawning-bone-pier-location.jpg',
         clickable: true
       },
@@ -425,7 +425,7 @@
       {
         id: 'fortress_catacombs',
         title: 'Adventurer’s Remains: Catacombs',
-        details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location.',
+        details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location. [30 days]',
         image: '../img/bones/respawning-bone-catacomb.jpg',
         clickable: true
       },
@@ -433,7 +433,7 @@
       {  
           id:    'bonepicker_bone',
           title: 'Adventurer’s Remains - Bone Picker',
-          details: 'The wandering Bone Picker will sell you one set of Adventurer’s Remains every 7 days for 1,000gp.',
+          details: 'The wandering Bone Picker will sell you one set of Adventurer’s Remains for 1,000gp every 7 days.',
           image:     '',                          // No image: remains non-clickable
           clickable: false
       }
