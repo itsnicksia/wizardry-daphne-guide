@@ -2,8 +2,8 @@
 
 **Race**: Human  
 **Gender**: Male  
-**Type**: Neutral  
-**Personality**: Evil  
+**Type**: Dark  
+**Personality**: Neutral  
 **Starting Class**: Fighter  
 **Class Change**:   
 **Role**: Damage  
