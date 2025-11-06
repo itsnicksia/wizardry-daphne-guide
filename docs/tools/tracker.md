@@ -227,7 +227,7 @@
 
 <div id="tracker-container">
   <!-- Instructions for users -->
-  <br>
+  <p>
    <ul>
      <li>Click an entry name to view its image (if it has one).</li>
     <li>Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.</li>
