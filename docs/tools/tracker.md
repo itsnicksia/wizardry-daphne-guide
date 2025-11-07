@@ -1,35 +1,4 @@
 <!--
-  CHANGELOG (Aug 2025):
-  - Added live "Days since (HH:MM:SS)" subline beneath each item's "Last Collected" timestamp.
-    - Introduced a dynamic subline element under every timestamp cell, showing the elapsed time since the last collection event in real time.
-    - The subline updates every second and resets immediately when Collect, Update, or Undo actions occur.
-  - Timing logic:
-    - A global interval (`setInterval`) runs every 1s to update all active counters.
-    - Each counter computes the difference between the current time and its stored timestamp, converting it to a formatted "X days HH:MM:SS" string.
-    - For timestamps less than 24 hours old, the "days" component is automatically hidden for cleaner display.
-    - The counter pauses if the tracker table is hidden or inactive to reduce unnecessary DOM updates.
-  - Integration with item actions:
-    - **Collect / Update**:
-      - Overwrite the stored timestamp in localStorage for that item.
-      - Reset the elapsed subline to “0 days 00:00:00” and restart counting from zero.
-    - **Undo**:
-      - Remove the saved timestamp and hide the subline until a new timestamp is created.
-  - Data handling:
-    - The "Last Collected" timestamps continue to be saved to localStorage as before.
-    - The elapsed subline remains ephemeral, calculated on load rather than stored, ensuring it always reflects live elapsed time.
-  - Styling and layout:
-    - Added `.elapsed-subline` class for consistent font sizing, color, and spacing beneath timestamps.
-    - Subline inherits table responsiveness; it wraps gracefully on narrow screens and aligns directly below the timestamp.
-    - Minor spacing adjustments to prevent overlap with action buttons in narrow layouts.
-  - Performance & accuracy:
-    - Optimized update routine to use `textContent` replacement for minimal reflow.
-    - Counters maintain accuracy within ±1 second over extended sessions.
-    - Tested stable behavior after tab switching, manual data edits, and full page reloads.
-  - Quality of life:
-    - Visually differentiates recent collections from older ones.
-    - Gives players precise real-time awareness of respawn cycles and resource tracking progress.
-
-
   CHANGELOG (Nov 2025):
   - Fixed table not rendering due to btoa() on Unicode content. Added UTF-8 safe Base64 helpers (utoa/atou).
   - Added multi-tab support:
@@ -40,7 +9,7 @@
     - Tab buttons to switch active tab (updates CUR_TAB_KEY and reloads per-tab timestamps).
     - “+ New Tab from Default” creates a tab seeded with BASE_SECTIONS and copies the current tab’s timestamps to keep progress aligned.
     - “Rename Tab” updates the tab’s display name in TABS_KEY.
-    - “Delete Tab” removes the active tab and its dataset; prevents deleting the last remaining tab.
+    - “Delete Tab” removes the active tab and its dataset; prevents deleting the last remaining tab and never deletes the Default tab.
   - Unified Sync Code overhaul:
     - Sync payload now includes: all tabs (id, name, sections), currentTabId, per-tab datasets, and showHidden flag.
     - Copy/Sync UI now encodes/decodes via utoa/atou to preserve Unicode in titles/details.
@@ -60,6 +29,21 @@
     - Guardrails for Sync (schema validation) with friendly error toasts on invalid payloads.
     - Prevent actions on hidden rows; action buttons disabled when item is hidden.
     - Non-breaking: if the stored currentTabId is missing, fall back to the first available tab.
+  - Styled confirmations:
+    - Replaced `window.confirm()` with a themed, accessible modal (`confirmStyled`) using `.confirm-overlay` and `.confirm-dialog` styles.
+    - Supports Enter/Escape, backdrop click-to-cancel, and primary/secondary buttons matching the app’s palette.
+  - Tab syncing improvement:
+    - Collect, Update, and Undo actions now update timestamps globally across all tabs instead of per-tab.
+    - Added `respawn_acquisition_data_alltabs_v1` as the unified dataset key; older per-tab keys are mirrored for backward compatibility.
+    - Legacy sync codes import seamlessly—timestamps are merged intelligently during import.
+  - Secrets and mysteries:
+    - A subtle whisper drifts through the code… some say certain tab names carry unusual power.
+    - What might happen if one were to name a tab after those who oversee the realm of Fasterthoughts?
+    - Perhaps curiosity is best left untested... or perhaps not.
+  - Modal UI refresh:
+    - Added `.size-lg` class to enlarge confirm/prompt dialogs by ~50% for improved readability.
+    - Unified visual design between Rename and Delete modals; both now use the same styling system.
+    - Input fields and buttons scale consistently with surrounding UI and use soft animation transitions.
 -->
 
 <style>
@@ -89,13 +73,9 @@
      First column is the largest (entry + details), others are smaller.
   */
   #tracker-container th:nth-child(1),
-  #tracker-container td:nth-child(1) {
-    width: 60%;
-  }
+  #tracker-container td:nth-child(1) { width: 60%; }
   #tracker-container th:nth-child(2),
-  #tracker-container td:nth-child(2) {
-    width: 20%;
-  }
+  #tracker-container td:nth-child(2) { width: 20%; }
   #tracker-container th:nth-child(3),
   #tracker-container td:nth-child(3) {
     width: 20%;
@@ -187,8 +167,17 @@
     vertical-align: middle;
     line-height: 1;
   }
-  #tracker-container tr.collected .checkmark {
-    color: #2fb170; /* green when collected */
+  #tracker-container tr.collected .checkmark { color: #2fb170; /* green when collected */ }
+
+  /* Ready highlight (applied to label and since) */
+  .ready-to-collect {
+    color: #3fcf6f !important;
+    font-weight: 600;
+    text-shadow: 0 0 4px rgba(63, 207, 111, 0.5);
+  }
+  .ready-to-collect .since {
+    color: #57ff99 !important;
+    font-weight: 500;
   }
 
   /* ====== BUTTONS (COLLECT / UPDATE / UNDO) ====== */
@@ -213,31 +202,13 @@
     outline-offset: 2px;
   }
 
-  /* --- Snug details/reset stack (no layout changes elsewhere) --- */
-  #tracker-container .details {
-    margin-top: 0.15rem;      /* slightly tighter */
-    line-height: 1.25;        /* tighter text rhythm */
-  }
+  /* --- Tighten details/reset stack --- */
+  #tracker-container .details { margin-top: 0.15rem; line-height: 1.25; }
+  #tracker-container .details br { display: none; }
+  #tracker-container .details .reset-label { display: block; margin-top: 0.12rem; line-height: 1.2; }
+  #tracker-container .details > div { margin: 0; padding: 0; }
 
-  /* Kill the extra gap the injected <br> was creating */
-  #tracker-container .details br {
-    display: none;
-  }
-
-  /* Put Reset on its own line with a very small gap */
-  #tracker-container .details .reset-label {
-    display: block;
-    margin-top: 0.12rem;      /* snug! */
-    line-height: 1.2;
-  }
-
-  /* Ensure the inner details wrapper adds no stray spacing */
-  #tracker-container .details > div {
-    margin: 0;
-    padding: 0;
-  }
-
-  /* Tiny caret buttons for collapse (subtle) */
+  /* Tiny caret buttons for collapse */
   .caret-btn {
     position: absolute;
     right: 8px;
@@ -281,47 +252,27 @@
     margin: 0 auto;
   }
 
-  /* ====== MOBILE TWEAKS ======
-     Smaller text, tighter padding, and automatic table widths.
-  */
+  /* ====== MOBILE TWEAKS ====== */
   @media (max-width: 600px) {
-    #tracker-container p {
-      font-size: 0.85rem;
-    }
+    #tracker-container p { font-size: 0.85rem; }
     #tracker-container th,
-    #tracker-container td {
-      font-size: 0.75rem;
-      padding: 0.2rem 0.4rem;
-    }
-    #tracker-container .section-header td {
-      font-size: 0.9rem;
-      padding: 0.4rem;
-    }
-    #tracker-container .details {
-      font-size: 0.7rem;
-    }
+    #tracker-container td { font-size: 0.75rem; padding: 0.2rem 0.4rem; }
+    #tracker-container .section-header td { font-size: 0.9rem; padding: 0.4rem; }
+    #tracker-container .details { font-size: 0.7rem; }
     #tracker-container button,
-    #tracker-container .entry-link {
-      font-size: 0.75rem;
-    }
+    #tracker-container .entry-link { font-size: 0.75rem; }
 
     /* Let the table decide widths automatically on very small screens */
-    #tracker-container table {
-      table-layout: auto;
-    }
+    #tracker-container table { table-layout: auto; }
     #tracker-container th:nth-child(1),
     #tracker-container td:nth-child(1),
     #tracker-container th:nth-child(2),
     #tracker-container td:nth-child(2),
     #tracker-container th:nth-child(3),
-    #tracker-container td:nth-child(3) {
-      width: auto;
-    }
+    #tracker-container td:nth-child(3) { width: auto; }
   }
 
-  /* ====== NEW: DAYS-SINCE SUBLINE ======
-     Styling for the live "Days since (HH:MM:SS)" text shown under the timestamp.
-  */
+  /* ====== NEW: DAYS-SINCE SUBLINE ====== */
   #tracker-container .since {
     margin-top: 0.15rem;
     font-size: 0.8rem;
@@ -339,7 +290,7 @@
   #tabs-bar .spacer { flex:1; }
   #tabs-bar .small { font-size:.8rem; padding:.2rem .5rem; opacity:.9; }
 
-  /* Edit mode affordances */
+  /* Edit mode */
   .edit-pill { display:inline-block; margin-left:.5rem; font-size:.7rem; padding:.08rem .4rem;
     border-radius:999px; border:1px solid var(--md-typeset-fg-color--light); opacity:.85; }
   .edit-btn, .mini-btn { margin-left:.35rem; font-size:.7rem; padding:.05rem .35rem; border-radius:4px;
@@ -354,16 +305,54 @@
     row-gap: 0.5rem;
     align-items: center;
   }
-  .sync-label {
-    color: var(--md-default-fg-color--light); /* match header color */
+  .sync-label { color: var(--md-default-fg-color--light); /* match header color */ }
+  .sync-label-spacer { visibility: hidden; /* reserves label width */ }
+  .sync-input { width: 16rem; }
+
+  /* ====== STYLED CONFIRM MODAL ====== */
+  .confirm-overlay {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.5);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 9999;
+    animation: confirm-fade-in .15s ease-out;
   }
-  .sync-label-spacer {
-    visibility: hidden; /* reserves label width to align the second row with the first input */
+  .confirm-overlay.closing { animation: confirm-fade-out .15s ease-in forwards; }
+
+  .confirm-dialog {
+    background: var(--md-default-bg-color, #1b1b1f);
+    color: var(--md-typeset-color, #e6e6e6);
+    border: 1px solid var(--md-typeset-fg-color--light, rgba(255,255,255,.15));
+    border-radius: 10px;
+    min-width: 280px; max-width: 520px;
+    padding: 16px 16px 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.4);
+    transform: translateY(4px);
+    animation: confirm-pop .15s ease-out;
   }
-  .sync-input {
-    width: 16rem;
+  .confirm-title { font-weight: 600; margin-bottom: 8px; }
+  .confirm-message { opacity: .95; line-height: 1.4; margin-bottom: 14px; }
+  .confirm-actions { display: flex; gap: 8px; justify-content: flex-end; }
+  .confirm-overlay .btn {
+    padding: 6px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--md-typeset-fg-color--light, rgba(255,255,255,.15));
+    background: rgba(128,128,128, .08);
+    color: inherit;
+    cursor: pointer;
   }
+  .confirm-overlay .btn:hover { background: rgba(255,255,255,.08); }
+  .confirm-overlay .btn-primary {
+    background: rgba(94,139,222,.25);
+    box-shadow: inset 0 0 0 1px rgba(94,139,222,.35);
+  }
+  .confirm-overlay .btn-primary:hover { background: rgba(94,139,222,.35); }
+
+  @keyframes confirm-fade-in { from { opacity: 0 } to { opacity: 1 } }
+  @keyframes confirm-fade-out { to { opacity: 0 } }
+  @keyframes confirm-pop { from { transform: translateY(8px); opacity: 0 } to { transform: translateY(4px); opacity: 1 } }
 </style>
+
 
   <!-- Instructions for users -->
 <div id="tracker-container">
@@ -381,7 +370,7 @@
   
   <!-- Main tracker table. JS will fill <tbody> dynamically. -->
   <table id="tracker" class="no-sort">
-    <!-- Optional column width hints; CSS also sets widths -->
+    <!-- Optional column width -->
     <colgroup>
       <col style="width: 70%;">
       <col style="width: 18%;">
@@ -411,8 +400,183 @@
   /* ==========================
      UTF-8 SAFE BASE64 HELPERS
      ========================== */
-  const utoa = (str) => btoa(unescape(encodeURIComponent(str))); // utf8 -> base64
-  const atou = (b64) => decodeURIComponent(escape(atob(b64)));   // base64 -> utf8
+  const utoa = (str) => {
+    const bytes = new TextEncoder().encode(str);
+    let bin = '';
+    for (let i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+    return btoa(bin);
+  };
+  const atou = (b64) => {
+    const bin = atob(b64);
+    const bytes = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+    return new TextDecoder().decode(bytes);
+  };
+
+  /* ==========================
+     EASTER EGG (one-time via localStorage)
+     ========================== */
+  const EGG_NAMES = ['lynd', 'theaxolotl', 'gagging', 'nrjank'];
+  const EGG_LOCK_KEY = 'respawn_egg_seen_v1';  // prevents repeat triggers in this browser
+  const EGG_VIDEO_SRC = '/img/egg/egg.mp4';    // your shipped video
+
+  function showEggVideo() {
+    mImgContainer.innerHTML = '';
+    const vid = document.createElement('video');
+    vid.src = EGG_VIDEO_SRC;
+    vid.autoplay = true;
+    vid.controls = true;
+    vid.playsInline = true;
+    vid.preload = 'auto';
+    vid.style.maxWidth = 'min(92vw, 1200px)';
+    vid.style.maxHeight = '80vh';
+    vid.style.display = 'block';
+    vid.style.borderRadius = '8px';
+    vid.volume = 0.1; // 10%
+
+    // Try to ensure playback even if autoplay policies are touchy
+    const tryPlay = () => {
+      const p = vid.play?.();
+      if (p && typeof p.then === 'function') {
+        p.then(() => {}).catch(() => {});
+      }
+    };
+    vid.addEventListener('loadedmetadata', () => { vid.volume = 0.1; tryPlay(); }, { once: true });
+
+    mImgContainer.appendChild(vid);
+    modal.style.display = 'flex';
+    tryPlay();
+
+    const stopAndClean = () => { try { vid.pause(); } catch {} };
+    mClose.addEventListener('click', stopAndClean, { once: true });
+    modal.addEventListener('click', function onBg(e){
+      if (e.target === modal) { stopAndClean(); modal.removeEventListener('click', onBg); }
+    });
+  }
+
+  // Only checks the ACTIVE tab name. Returns true if an egg flow was shown.
+  // NOTE: safe if currentTabId is not set yet — falls back to first tab.
+  async function checkEasterEggTabs() {
+    try {
+      if (localStorage.getItem(EGG_LOCK_KEY) === '1') return false;
+
+      const safeTabId = (typeof currentTabId !== 'undefined' && currentTabId) || ((tabs && tabs[0]) ? tabs[0].id : null);
+      const active = (tabs || []).find(t => t && t.id === safeTabId);
+      if (!active || !active.name) return false;
+
+      const n = String(active.name).trim().toLowerCase();
+      if (!EGG_NAMES.includes(n)) return false;
+
+      // Ask user first — their click on "Play" will count as a gesture (helps sound-on autoplay).
+      const ok = await confirmStyled(
+        'You discovered a secret. Want to play it now?',
+        { title: 'Surprise!', confirmText: 'Play', cancelText: 'Not now' }
+      );
+      if (!ok) return false;
+
+      // Lock BEFORE opening so it never re-fires even if navigation is blocked.
+      localStorage.setItem(EGG_LOCK_KEY, '1');
+
+      // Open the egg video in our modal (autoplay w/ volume 10%)
+      showEggVideo();
+      return true;
+    } catch {
+      return false;
+    }
+  }
+
+  // Styled confirm that returns a Promise<boolean>
+  function confirmStyled(message, { title = 'Confirm', confirmText = 'OK', cancelText = 'Cancel' } = {}) {
+    return new Promise(resolve => {
+      // container
+      const overlay = document.createElement('div');
+      overlay.className = 'confirm-overlay';
+      overlay.innerHTML = `
+        <div class="confirm-dialog" role="dialog" aria-modal="true" aria-labelledby="confirm-title">
+          <div class="confirm-title" id="confirm-title">${title}</div>
+          <div class="confirm-message">${message}</div>
+          <div class="confirm-actions">
+            <button class="btn btn-secondary confirm-cancel" type="button">${cancelText}</button>
+            <button class="btn btn-primary confirm-ok" type="button">${confirmText}</button>
+          </div>
+        </div>
+      `;
+      document.body.appendChild(overlay);
+
+      const okBtn = overlay.querySelector('.confirm-ok');
+      const cancelBtn = overlay.querySelector('.confirm-cancel');
+
+      const close = (val) => {
+        overlay.classList.add('closing');
+        // remove after animation (fallback 200ms)
+        setTimeout(() => overlay.remove(), 200);
+        resolve(val);
+      };
+
+      okBtn.onclick = () => close(true);
+      cancelBtn.onclick = () => close(false);
+      overlay.onclick = (e) => { if (e.target === overlay) close(false); };
+      document.addEventListener('keydown', function onKey(e){
+        if (e.key === 'Escape') { document.removeEventListener('keydown', onKey); close(false); }
+        if (e.key === 'Enter')  { document.removeEventListener('keydown', onKey); close(true); }
+      }, { once: true });
+
+      // basic focus mgmt
+      okBtn.focus();
+    });
+  }
+
+  // Styled prompt that returns a Promise<string|null>
+  function promptStyled(message, defaultValue = '', {
+    title = 'Rename',
+    confirmText = 'Save',
+    cancelText = 'Cancel',
+    placeholder = ''
+  } = {}) {
+    return new Promise(resolve => {
+      const overlay = document.createElement('div');
+      overlay.className = 'confirm-overlay';
+      overlay.innerHTML = `
+        <div class="confirm-dialog" role="dialog" aria-modal="true" aria-labelledby="prompt-title">
+          <div class="confirm-title" id="prompt-title">${title}</div>
+          <div class="confirm-message" style="margin-bottom:.5rem">${message}</div>
+          <div class="confirm-input-row">
+            <input class="confirm-input" type="text" placeholder="${placeholder}" value="${String(defaultValue).replace(/"/g,'&quot;')}">
+          </div>
+          <div class="confirm-actions">
+            <button class="btn btn-secondary confirm-cancel" type="button">${cancelText}</button>
+            <button class="btn btn-primary confirm-ok" type="button">${confirmText}</button>
+          </div>
+        </div>
+      `;
+      document.body.appendChild(overlay);
+
+      const input = overlay.querySelector('.confirm-input');
+      const okBtn = overlay.querySelector('.confirm-ok');
+      const cancelBtn = overlay.querySelector('.confirm-cancel');
+
+      const close = (val) => {
+        overlay.classList.add('closing');
+        setTimeout(() => overlay.remove(), 200);
+        resolve(val);
+      };
+
+      okBtn.onclick = () => close(input.value.trim() || '');
+      cancelBtn.onclick = () => close(null);
+      overlay.onclick = (e) => { if (e.target === overlay) close(null); };
+
+      document.addEventListener('keydown', function onKey(e){
+        if (e.key === 'Escape') { document.removeEventListener('keydown', onKey); close(null); }
+        if (e.key === 'Enter')  { document.removeEventListener('keydown', onKey); close(input.value.trim() || ''); }
+      }, { once: true });
+
+      // focus the input so Enter works and user can type immediately
+      input.focus();
+      input.select();
+    });
+  }
+
+
 
   /* ==========================
      UTILITIES: DATES & LABELS
@@ -464,7 +628,7 @@
     m = s.match(/\b(?:every|respawns?\s+every|produces?\s+one.*every|per|in)\s+(\d+)(?:\s*-\s*(\d+))?\s*days?\b/i);
     if (m) { 
       const a = Number(m[1]), b = m[2] ? Number(m[2]) : null; return b ? Math.max(a,b) : a; 
-      }
+    }
 
     // respawns daily / daily
     if (/\brespawns?\s+daily\b/i.test(s) || /\bdaily\b/i.test(s)) return 1;
@@ -516,7 +680,7 @@
           reset: { 
             reference: '2025-05-31T10:00:00',  // Initial reset anchor time (local time) 
             intervalWeeks: 2                   // Repeat every 2 weeks 
-            },
+          },
           image: '',                           // No image: remains non-clickable 
           clickable: false
         },
@@ -961,30 +1125,50 @@
   const TABS_KEY     = 'respawn_tabs_v1';
   const CUR_TAB_KEY  = 'respawn_current_tab_id_v1';
   const DATA_PREFIX  = 'respawn_acquisition_data__';
+  // a single global store so times are synced across tabs
+  const DATA_GLOBAL_KEY = 'respawn_acquisition_data_alltabs_v1';
 
   const deepClone = obj => JSON.parse(JSON.stringify(obj));
   const BASE_SECTIONS = deepClone(SECTIONS);
 
   function loadTabs() {
     const raw = localStorage.getItem(TABS_KEY);
-    if (raw) { try { return JSON.parse(raw); } catch {} }
-    const tabs = [{ id: 'default', name: 'Default', sections: deepClone(BASE_SECTIONS) }];
-    localStorage.setItem(TABS_KEY, JSON.stringify(tabs));
-    localStorage.setItem(CUR_TAB_KEY, 'default');
-    const old = localStorage.getItem(STORAGE_KEY_OLD);
-    if (old) localStorage.setItem(DATA_PREFIX + 'default', old);
-    return tabs;
+    let t;
+    if (raw) { try { t = JSON.parse(raw); } catch {} }
+    if (!Array.isArray(t) || t.length === 0) {
+      t = [createDefaultTab()];
+      localStorage.setItem(TABS_KEY, JSON.stringify(t));
+      localStorage.setItem(CUR_TAB_KEY, 'default');
+      const old = localStorage.getItem(STORAGE_KEY_OLD);
+      if (old) localStorage.setItem(DATA_PREFIX + 'default', old);
+    }
+    return t;
   }
+
   function saveTabs(tabs) { localStorage.setItem(TABS_KEY, JSON.stringify(tabs)); }
   function getCurrentTabId(){ return localStorage.getItem(CUR_TAB_KEY) || 'default'; }
   function setCurrentTabId(id){ localStorage.setItem(CUR_TAB_KEY, id); }
   function dataKeyFor(tabId){ return DATA_PREFIX + tabId; }
-  function loadData(tabId){ return JSON.parse(localStorage.getItem(dataKeyFor(tabId)) || '{}'); }
-  function saveData(tabId, obj){ localStorage.setItem(dataKeyFor(tabId), JSON.stringify(obj)); }
+
+  // GLOBAL-first load/save (mirror to legacy per-tab keys for back-compat)
+  function loadData(tabId){
+    const g = localStorage.getItem(DATA_GLOBAL_KEY);
+    if (g) { try { return JSON.parse(g) || {}; } catch { return {}; } }
+    try { return JSON.parse(localStorage.getItem(dataKeyFor(tabId)) || '{}'); } catch { return {}; }
+  }
+  function saveData(tabId, obj){
+    const payload = JSON.stringify(obj || {});
+    localStorage.setItem(DATA_GLOBAL_KEY, payload);         // single source of truth
+    if (tabId) localStorage.setItem(dataKeyFor(tabId), payload); // mirror
+  }
 
   let tabs = loadTabs();
+
   let currentTabId = getCurrentTabId();
-  if (!tabs.find(t => t.id === currentTabId)) { currentTabId = tabs[0].id; setCurrentTabId(currentTabId); }
+  if (!tabs.find(t => t.id === currentTabId)) {
+    currentTabId = tabs[0].id;
+    setCurrentTabId(currentTabId);
+  }
   let data = loadData(currentTabId);
 
   /* ==========================
@@ -1004,10 +1188,9 @@
      - pad2:       2-digit helper for HH:MM:SS
      - formatDaysSinceWithClock: returns "X days (HH:MM:SS)" live display
   */
-  function formatDate(ts) {
-    return ts ? new Date(ts).toLocaleString() : '-';
-  }
+  function formatDate(ts) { return ts ? new Date(ts).toLocaleString() : '-'; }
   function pad2(n){ return String(n).padStart(2,'0'); }
+
   /* Returns "X days (HH:MM:SS)" where HH:MM:SS is the remainder inside the current day. */
   function formatDaysSinceWithClock(ts, nowMs) {
     if (!ts) return '-';
@@ -1026,7 +1209,6 @@
   /* Save current 'data' into localStorage. */
   function save() {
     saveData(currentTabId, data);
-
     // --- keep Sync Code live without a full re-render ---
     const datasets = {};
     (tabs || []).forEach(t => { datasets[t.id] = loadData(t.id) || {}; });
@@ -1034,7 +1216,7 @@
       tabs: (tabs || []).map(t => ({
         id: t.id,
         name: t.name,
-        sections: t.sections            // includes hidden/collapsed flags
+        sections: t.sections // includes hidden/collapsed flags
       })),
       currentTabId,
       datasets,
@@ -1051,14 +1233,13 @@
      ========================== */
   let editMode = false;
   let showHidden = false;
+  function createDefaultTab() {
+    return { id: 'default', name: 'Default', sections: deepClone(BASE_SECTIONS) };
+  }
 
   /* ==========================
      SYNC UI
-     ==========================
-     - Current state is shown as a Base64 code (read-only input + Copy button).
-     - Paste a code and press Sync to overwrite local data with that code's data.
-     - For transferring progress across devices/browsers.
-  */
+     ========================== */
   function initializeSyncUI() {
     // Reset container each re-render
     syncCt.innerHTML = '';
@@ -1069,13 +1250,9 @@
 
     // Build payload (tabs + per-tab timestamps)
     const datasets = {};
-    (tabs || []).forEach(t => { 
-      datasets[t.id] = loadData(t.id) || {}; 
-    });
+    (tabs || []).forEach(t => { datasets[t.id] = loadData(t.id) || {}; });
     const payload = {
-      tabs: (tabs || []).map(t => ({ 
-        id: t.id, name: t.name, sections: t.sections  // keep all state
-      })),
+      tabs: (tabs || []).map(t => ({ id: t.id, name: t.name, sections: t.sections })),
       currentTabId,
       datasets,
       showHidden: !!showHidden
@@ -1090,7 +1267,7 @@
     codeLabel.className = 'sync-label';
 
     const codeInput = document.createElement('input'); 
-    codeInput.id = 'sync-code-input';            /* id so we can live-update */
+    codeInput.id = 'sync-code-input'; /* id so we can live-update */
     codeInput.readOnly = true; 
     codeInput.value = currentCode; 
     codeInput.className = 'sync-input';
@@ -1106,7 +1283,7 @@
     // Row 2: (hidden spacer) | paste input | sync
     const spacer = document.createElement('span');
     spacer.className = 'sync-label sync-label-spacer';
-    spacer.textContent = 'Sync Code:';  // invisible but same width for alignment
+    spacer.textContent = 'Sync Code:'; // invisible but same width for alignment
 
     const pasteInput = document.createElement('input');
     pasteInput.placeholder = 'Paste Export Code';
@@ -1122,20 +1299,22 @@
         if (!obj || !Array.isArray(obj.tabs) || !obj.currentTabId || !obj.datasets) throw new Error('bad payload');
 
         // Preserve all section state (hidden/collapsed) as provided
-        tabs = obj.tabs.map(t => ({
-          id: t.id,
-          name: t.name || 'Tab',
-          sections: t.sections || []
-        }));
+        tabs = obj.tabs.map(t => ({ id: t.id, name: t.name || 'Tab', sections: t.sections || [] }));
         saveTabs(tabs);
 
-        tabs.forEach(t => {
-          const d = obj.datasets[t.id] || {};
-          saveData(t.id, d); 
-        });
+        // Merge all per-tab datasets to newest timestamp per id
+        const merged = {};
+        for (const key in obj.datasets) {
+          const ds = obj.datasets[key] || {};
+          for (const id in ds) {
+            const ts = ds[id];
+            if (merged[id] == null || (typeof ts === 'number' && ts > merged[id])) merged[id] = ts;
+          }
+        }
 
         currentTabId = tabs.find(x => x.id === obj.currentTabId)?.id || (tabs[0] && tabs[0].id);
         setCurrentTabId(currentTabId);
+        saveData(currentTabId, merged);  // write once to global (+mirror)
         data = loadData(currentTabId);
 
         showHidden = !!obj.showHidden;
@@ -1148,119 +1327,158 @@
     // Append rows to grid
     syncGrid.append(codeLabel, codeInput, copyBtn, spacer, pasteInput, syncBtn);
 
-    // --- Tabs + Tools Row (unchanged visuals) ---
+    // --- Tabs + Tools Row ---
     const tabsRow = document.createElement('div');
-    Object.assign(tabsRow.style, {
-      display:'flex',
-      flexWrap:'wrap', 
-      gap:'0.5rem', 
-      alignItems:'center', 
-      marginTop:'0.5rem' 
-    });
+    Object.assign(tabsRow.style, { display:'flex', flexWrap:'wrap', gap:'0.5rem', alignItems:'center', marginTop:'0.5rem' });
 
     (tabs || []).forEach(t => {
       const b = document.createElement('button');
       b.textContent = t.name;
       b.className = 'tab' + (t.id === currentTabId ? ' active' : '');
       Object.assign(b.style, { 
-        padding:'0.25rem 0.5rem', 
+        padding:'0.25rem 0.5rem',
         border:'1px solid var(--md-typeset-fg-color--light)',
         borderRadius:'4px',
-        background: (t.id === currentTabId)
-          ? 'rgba(94,139,222,0.25)'   /* active: a touch stronger */
-          : 'rgba(128,128,128,0.08)', /* inactive: subtle pill */
-        boxShadow: (t.id === currentTabId)
-          ? 'inset 0 0 0 1px rgba(94,139,222,0.35)'
-          : 'inset 0 0 0 1px rgba(255,255,255,0.05)',
+        background: (t.id === currentTabId) ? 'rgba(94,139,222,0.25)' : 'rgba(128,128,128,0.08)',
+        boxShadow: (t.id === currentTabId) ? 'inset 0 0 0 1px rgba(94,139,222,0.35)' : 'inset 0 0 0 1px rgba(255,255,255,0.05)',
         opacity: (t.id === currentTabId) ? '1' : '0.92'
       });
       b.onmouseenter = () => { if (t.id !== currentTabId) b.style.boxShadow = 'inset 0 0 0 1px rgba(255,255,255,0.15)'; };
       b.onmouseleave = () => { if (t.id !== currentTabId) b.style.boxShadow = 'inset 0 0 0 1px rgba(255,255,255,0.05)'; };
-      b.onclick = () => { 
-        currentTabId = t.id; 
-        setCurrentTabId(currentTabId); 
-        data = loadData(currentTabId); 
-        render(); 
+      b.onclick = async () => {
+        currentTabId = t.id;
+        setCurrentTabId(currentTabId);
+        data = loadData(currentTabId);
+        // Render immediately so the UI switches tabs without refresh
+        render();
+        // Then run the egg flow (best-effort; plays in modal)
+        await checkEasterEggTabs();
       };
       tabsRow.appendChild(b);
     });
 
+    // --- Controls on the right ---
     const spacerFlex = document.createElement('div');
     spacerFlex.style.flex = '1';
     tabsRow.appendChild(spacerFlex);
 
+    // Edit Mode toggle
     const editBtn = document.createElement('button');
     editBtn.textContent = editMode ? 'Exit Edit Mode' : 'Edit Mode';
     editBtn.className = 'tab small';
-    editBtn.onclick = () => { 
-      editMode = !editMode; 
-      render(); 
-    };
+    editBtn.type = 'button';
+    editBtn.onclick = () => { editMode = !editMode; render(); };
     tabsRow.appendChild(editBtn);
 
+    // Show/Hide Hidden
     const sh = document.createElement('button');
     sh.className = 'tab small';
     sh.textContent = showHidden ? 'Hide Hidden' : 'Show Hidden';
-    sh.onclick = () => { 
-      showHidden = !showHidden; 
-      renderRowsOnly(); 
-      initializeSyncUI();
-    };
+    sh.type = 'button';
+    sh.onclick = () => { showHidden = !showHidden; renderRowsOnly(); initializeSyncUI(); };
     tabsRow.appendChild(sh);
 
-    const add = document.createElement('button');
-    add.className = 'tab small';
-    add.textContent = '+ New Tab from Default';
-    add.onclick = () => {
-      const id = 'tab_' + Math.random().toString(36).slice(2, 8);
-      tabs.push({ 
-        id, name: 'Custom', sections: deepClone(BASE_SECTIONS) 
-      });
-      saveTabs(tabs);
-      const curData = loadData(currentTabId) || {};
-      saveData(id, JSON.parse(JSON.stringify(curData)));
-      setCurrentTabId(id);
-      currentTabId = id;
-      data = loadData(id);
-      render();
-    };
-    tabsRow.appendChild(add);
+    // + New Tab (hidden when >= 6 tabs)
+    if ((tabs || []).length < 6) {
+      const add = document.createElement('button');
+      add.className = 'tab small';
+      add.textContent = '+ New Tab from Default';
+      add.type = 'button';
+      add.onclick = async () => {
+        const id = 'tab_' + Math.random().toString(36).slice(2, 8);
+        tabs.push({ id, name: 'Custom', sections: deepClone(BASE_SECTIONS) });
+        saveTabs(tabs);
 
+        const curData = loadData(currentTabId) || {};
+        saveData(id, JSON.parse(JSON.stringify(curData)));
+
+        setCurrentTabId(id);
+        currentTabId = id;
+        data = loadData(id);
+
+        // Update UI right away
+        render();
+        await checkEasterEggTabs();
+      };
+      tabsRow.appendChild(add);
+    }
+
+    // Rename Tab (always visible)
     const ren = document.createElement('button');
     ren.className = 'tab small';
     ren.textContent = 'Rename Tab';
-    ren.onclick = () => {
-      const t = tabs.find(x => x.id === currentTabId); 
+    ren.type = 'button';
+    ren.onclick = async () => {
+      const t = tabs.find(x => x.id === currentTabId);
       if (!t) return;
-      const nv = prompt('Rename tab:', t.name);
-      if (nv) { 
-        t.name = nv; 
-        saveTabs(tabs); 
-        initializeSyncUI(); 
+
+      const nv = await promptStyled('Rename tab:', t.name, {
+        title: 'Rename Tab',
+        confirmText: 'Rename',
+        cancelText: 'Cancel',
+        placeholder: 'New tab name'
+      });
+
+      if (nv && nv.trim()) {
+        t.name = nv.trim();
+        saveTabs(tabs);
+        // Refresh the tabs row immediately
+        initializeSyncUI();
+        await checkEasterEggTabs();
       }
     };
     tabsRow.appendChild(ren);
 
-    const del = document.createElement('button');
-    del.className = 'tab small';
-    del.textContent = 'Delete Tab';
-    del.onclick = () => {
-      if ((tabs || []).length <= 1) 
-        return alert('Cannot delete the last tab.');
-      if (!confirm('Delete this tab? Its data will be removed.')) 
-        return;
-      const idx = tabs.findIndex(x => x.id === currentTabId);
-      if (idx >= 0) {
-        localStorage.removeItem(dataKeyFor(currentTabId));
-        tabs.splice(idx, 1); 
-        saveTabs(tabs);
-        currentTabId = tabs[0].id; 
-        setCurrentTabId(currentTabId); 
-        data = loadData(currentTabId);
-        render();
-      }
-    };
-    tabsRow.appendChild(del);
+    // Delete Tab
+    // - Hide the button when there’s only one tab (regardless of its id)
+    // - Also hide + disable when the current tab is the default tab
+    const isLastTab = (tabs.length === 1);
+    const currentIsDefault = currentTabId === 'default';
+
+    // Only show the button if there’s more than one tab AND not currently viewing Default
+    if (!isLastTab && !currentIsDefault) {
+      const del = document.createElement('button');
+      del.className = 'tab small';
+      del.textContent = 'Delete Tab';
+      del.type = 'button';
+
+      del.onclick = async () => {
+        // HARD GUARDS: Never delete Default or the last remaining tab
+        if (tabs.length <= 1) return;
+        if (currentTabId === 'default') return;
+
+        if (!(await confirmStyled('Delete this tab? Its data will be removed.', {
+          title: 'Delete tab',
+          confirmText: 'Delete',
+          cancelText: 'Cancel'
+        }))) return;
+
+        const idx = tabs.findIndex(x => x.id === currentTabId);
+        if (idx >= 0) {
+          localStorage.removeItem(dataKeyFor(currentTabId));
+          tabs.splice(idx, 1);
+
+          if (tabs.length === 0) {
+            const dt = createDefaultTab();
+            tabs = [dt];
+            saveTabs(tabs);
+            setCurrentTabId(dt.id);
+            data = loadData(dt.id) || {};
+          } else {
+            saveTabs(tabs);
+            const fallback = tabs.find(t => t.id === 'default') || tabs[0];
+            currentTabId = fallback.id;
+            setCurrentTabId(currentTabId);
+            data = loadData(currentTabId);
+          }
+
+          initializeSyncUI();
+          renderRowsOnly();
+        }
+      };
+
+      tabsRow.appendChild(del);
+    }
 
     syncCt.append(syncGrid, tabsRow);
   }
@@ -1273,6 +1491,23 @@
      - Each span carries data-ts="<ms>" so we don't reparse text each tick.
   */
   let __elapsedInterval = null;
+
+  // Helper: apply green "ready" styling when reset label says Ready
+  function applyReadyStyles() {
+    document.querySelectorAll('#tracker tbody tr').forEach(tr => {
+      const resetEl = tr.querySelector('.reset-label');
+      const sinceEl = tr.querySelector('.since');
+      // Clear previous state
+      resetEl?.classList.remove('ready-to-collect');
+      sinceEl?.classList.remove('ready-to-collect');
+      // Apply if label says Ready
+      if (resetEl && resetEl.textContent.trim().toLowerCase() === 'ready') {
+        resetEl.classList.add('ready-to-collect');
+        sinceEl?.classList.add('ready-to-collect');
+      }
+    });
+  }
+
   /* Update all live "since" labels in the table to the current time. */
   function updateElapsedClocks() {
     const now = Date.now();
@@ -1280,7 +1515,10 @@
       const ts = Number(span.dataset.ts);
       span.textContent = formatDaysSinceWithClock(ts, now);
     });
+    // Also keep ready styles fresh (in case of re-render or dynamic flips)
+    applyReadyStyles();
   }
+
   /* Ensure the interval exists. */
   function ensureElapsedTimer() {
     if (__elapsedInterval) return;
@@ -1373,8 +1611,8 @@
             }</span>`;
           }
         }
-        /* Put reset beneath details with a tight gap */
-        const extraDetails = computedResetHtml ? `<br>${computedResetHtml}` : '';
+        /* Put reset beneath details */
+        const extraDetails = computedResetHtml ? `${computedResetHtml}` : '';
 
         // Primary action toggles between 'Collect' and 'Update'
         const actBtn = `<button class="action-btn"${isHidden ? ' disabled':''}>${done ? 'Update' : 'Collect'}</button>`;
@@ -1404,20 +1642,18 @@
   }
 
   /* Build a tiny inline edit badge that hugs the top-right of the last character (with text) */
-  function makeEditableLabel(htmlText, key, type, si, ii) {
-    const wrap = document.createElement('span');   /* inline so the button hugs the text */
+  function makeEditableLabel(contentNode, key, type, si, ii) {
+    const wrap = document.createElement('span'); // inline container
     wrap.style.display = 'inline';
     wrap.style.position = 'relative';
 
-    const label = document.createElement('span');  /* span for inline flow */
-    label.innerHTML = htmlText;
+    const label = document.createElement('span');
     label.style.maxWidth = '100%';
+    label.appendChild(contentNode); // <= NO innerHTML
 
     const btn = document.createElement('button');
     btn.setAttribute('aria-label', 'Edit');
     btn.title = editMode ? 'Edit' : 'Enable Edit Mode to edit';
-
-    /* small, superscript-like inline badge */
     btn.style.border = '1px solid var(--md-typeset-fg-color--light)';
     btn.style.borderRadius = '999px';
     btn.style.padding = '0 4px';
@@ -1431,7 +1667,6 @@
     btn.style.marginLeft = '0.25rem';
     btn.style.verticalAlign = 'text-top';
     btn.style.transform = 'translateY(-10%)';
-
     btn.innerHTML = `
       <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" aria-hidden="true">
         <path fill="currentColor" d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25Zm18.71-11.04a1.003 1.003 0 0 0 0-1.42L19.21 2.29a1.003 1.003 0 0 0-1.42 0l-1.83 1.83l3.75 3.75l1.8-1.66Z"/>
@@ -1447,11 +1682,12 @@
 
   function hydrateInlineEditors() {
     const sections = getActiveSections();
-
     sections.forEach((sec, si) => {
       const mount = document.getElementById(`sec-title-${si}`);
       if (!mount) return;
-      const widget = makeEditableLabel(sec.title, 'section.title', 'section', si, -1);
+      const titleNode = document.createElement('span');
+      titleNode.textContent = sec.title || '';
+      const widget = makeEditableLabel(titleNode, 'section.title', 'section', si, -1);
       mount.replaceChildren(widget);
     });
 
@@ -1460,22 +1696,38 @@
         if (it.subheader) {
           const subMount = document.getElementById(`subheader-${si}-${ii}`);
           if (!subMount) return;
-          const widget = makeEditableLabel(it.subheader, 'subheader', 'subheader', si, ii);
+          const subNode = document.createElement('span');
+          subNode.textContent = it.subheader || '';
+          const widget = makeEditableLabel(subNode, 'subheader', 'subheader', si, ii);
           subMount.replaceChildren(widget);
           return;
         }
         const titleMount = document.getElementById(`title-${si}-${ii}`);
         if (titleMount) {
-          const titleHTML = it.clickable
-            ? `<a href="#" class="entry-link" data-img="${it.image}" data-title="${it.title}">${it.title}</a>`
-            : `<span>${it.title}</span>`;
-          const widget = makeEditableLabel(titleHTML, 'item.title', 'title', si, ii);
+          // Build a safe node (anchor or span) without innerHTML
+          let node;
+          if (it.clickable) {
+            const a = document.createElement('a');
+            a.href = '#';
+            a.className = 'entry-link';
+            a.dataset.img = it.image || '';
+            a.dataset.title = it.title || '';
+            a.textContent = it.title || '';
+            node = a;
+          } else {
+            const span = document.createElement('span');
+            span.textContent = it.title || '';
+            node = span;
+          }
+          const widget = makeEditableLabel(node, 'item.title', 'title', si, ii);
           titleMount.replaceChildren(widget);
         }
+
         const detMount = document.getElementById(`details-${si}-${ii}`);
         if (detMount) {
-          const safe = it.details ? it.details : '';
-          const widget = makeEditableLabel(safe, 'item.details', 'details', si, ii);
+          const span = document.createElement('span');
+          span.textContent = it.details ? it.details : ''; // sanitize => text only
+          const widget = makeEditableLabel(span, 'item.details', 'details', si, ii);
           detMount.replaceChildren(widget);
         }
       });
@@ -1494,7 +1746,10 @@
     if (isMultiline) { input.rows = 3; input.style.display = 'block'; input.style.width = '100%'; }
 
     const row = document.createElement('div');
-    row.style.display = 'flex'; row.style.gap = '0.35rem'; row.style.alignItems = 'center'; row.style.marginTop = '0.15rem';
+    row.style.display = 'flex';
+    row.style.gap = '0.35rem';
+    row.style.alignItems = 'center';
+    row.style.marginTop = '0.15rem';
 
     const saveB = document.createElement('button'); saveB.textContent = 'Save';
     const cancelB = document.createElement('button'); cancelB.textContent = 'Cancel';
@@ -1539,8 +1794,7 @@
     tbody.querySelectorAll('.action-btn').forEach(btn =>
       btn.onclick = e => {
         const row = e.target.closest('tr');
-        if (row.classList.contains('hidden-row')) 
-          return;
+        if (row.classList.contains('hidden-row')) return;
         const id = row.dataset.id;
         data[id] = Date.now(); // store time of collection/update
         save();
@@ -1659,6 +1913,7 @@
   render();
 })();
 </script>
+
 
 <!--
 ==========================================
