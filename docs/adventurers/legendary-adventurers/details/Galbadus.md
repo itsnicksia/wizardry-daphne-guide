@@ -18,6 +18,9 @@
     === "Raging King I"
         {{ get_skill_description("Raging King I") }}
 
+        !!! note
+            This attack is locked to close range, regardless of the weapon equipped.
+            
 !!! info "Unique Skill (Not Inheritable)"
     === "Tyrant's Gravity"
         {{ get_skill_description("Tyrant's Gravity") }}

@@ -36,6 +36,9 @@
     === "Blunt Combo Strike"
         {{ get_skill_description('Blunt Combo Strike') }}
 
+        !!! note
+            This attack is locked to midrange, regardless of the weapon equipped.
+
 !!! info "Discipline Skill"
     === "Adept's Rule of Thumb"
         {{ get_skill_description("Adept's Rule of Thumb") }}

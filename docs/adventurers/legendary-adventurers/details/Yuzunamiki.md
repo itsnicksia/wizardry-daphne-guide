@@ -22,6 +22,9 @@
     === "Foxfire Assault"
         {{ get_skill_description("Foxfire Assault") }}
 
+        !!! note
+            The damage increase is approximately 10%.
+
 !!! info "Discipline Skill"
     === "Pinnacle of the Flower District"
         {{ get_skill_description("Pinnacle of the Flower District") }}

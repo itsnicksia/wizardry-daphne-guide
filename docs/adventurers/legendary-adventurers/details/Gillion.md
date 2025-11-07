@@ -16,15 +16,21 @@
 
 !!! info "Unique Skill (Inheritable)"
     === "Cry of Ruin"
-       {{ get_skill_description("Cry of Ruin") }}  
+        {{ get_skill_description("Cry of Ruin") }}  
        
+        !!! note
+            This attack is locked to close range, regardless of the weapon equipped.
+
 !!! info "Unique Skill (Not Inheritable)"
     === "Cursed-Blood Resonance"
-       {{ get_skill_description("Cursed-Blood Resonance") }}  
-       
+        {{ get_skill_description("Cursed-Blood Resonance") }}  
+
+        !!! note
+            The damage increase is approximately 15%, with a 5% maximum HP loss.
+
 !!! info "Discipline Skill"
     === "Vengeful Oath Conditioning"
-       {{ get_skill_description("Vengeful Oath Conditioning") }}  
+        {{ get_skill_description("Vengeful Oath Conditioning") }}  
        
 ## Adventurer Reviews
 
@@ -32,7 +38,7 @@
 
     There's a lot to unpack here. Read on if you're interested in specifics, but for those that just want some advice on whether or not to pull without knowing the why, I recommend skipping.
 
-    First off, we'll talk about the easy one - his passive, Cursed-Blood Resonance, provides accuracy, action speed, and approximately a 10% damage increase at the cost of a loss of 5% of his maximum HP. Note that if he's below 5% of his maximum, this passive can kill him.
+    First off, we'll talk about the easy one - his passive, Cursed-Blood Resonance, provides accuracy, action speed, and approximately a 15% damage increase at the cost of a loss of 5% of his maximum HP. Note that if he's below 5% of his maximum, this passive can kill him.
 
     Now, his active skill is much more interesting. Cry of Ruin has a lot going on. First, it's a medium attack that is a Dark type physical attack, which makes it subject to damage reduction when fighting Undead. Second, this attack is locked in to close range, regardless of the range of the equipped weapon, and is a single hit, so you absolutely do not want to be using it with a 1h sword or dagger. Third, the self damage costs 25% of his maximum HP (35% when inherited to someone else) and is additive with Cursed-Blood Resonance. This means he takes recoil damage equal to 30% of his maximum HP when he uses this skill and can absolutely kill himself with it. This damage is applied after any end-of-attack or enemy kill heals, but prior to an end-of-battle heal, such as Lana's passive HP restore.
 
