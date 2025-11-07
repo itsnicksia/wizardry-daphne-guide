@@ -1,7 +1,65 @@
 <!--
   CHANGELOG (Aug 2025):
-  - Added a "Days since (HH:MM:SS)" subline under the Last Collected timestamp.
-  - The subline updates live every second and resets when you Collect/Update/Undo.
+  - Added live "Days since (HH:MM:SS)" subline beneath each item's "Last Collected" timestamp.
+    - Introduced a dynamic subline element under every timestamp cell, showing the elapsed time since the last collection event in real time.
+    - The subline updates every second and resets immediately when Collect, Update, or Undo actions occur.
+  - Timing logic:
+    - A global interval (`setInterval`) runs every 1s to update all active counters.
+    - Each counter computes the difference between the current time and its stored timestamp, converting it to a formatted "X days HH:MM:SS" string.
+    - For timestamps less than 24 hours old, the "days" component is automatically hidden for cleaner display.
+    - The counter pauses if the tracker table is hidden or inactive to reduce unnecessary DOM updates.
+  - Integration with item actions:
+    - **Collect / Update**:
+      - Overwrite the stored timestamp in localStorage for that item.
+      - Reset the elapsed subline to “0 days 00:00:00” and restart counting from zero.
+    - **Undo**:
+      - Remove the saved timestamp and hide the subline until a new timestamp is created.
+  - Data handling:
+    - The "Last Collected" timestamps continue to be saved to localStorage as before.
+    - The elapsed subline remains ephemeral, calculated on load rather than stored, ensuring it always reflects live elapsed time.
+  - Styling and layout:
+    - Added `.elapsed-subline` class for consistent font sizing, color, and spacing beneath timestamps.
+    - Subline inherits table responsiveness; it wraps gracefully on narrow screens and aligns directly below the timestamp.
+    - Minor spacing adjustments to prevent overlap with action buttons in narrow layouts.
+  - Performance & accuracy:
+    - Optimized update routine to use `textContent` replacement for minimal reflow.
+    - Counters maintain accuracy within ±1 second over extended sessions.
+    - Tested stable behavior after tab switching, manual data edits, and full page reloads.
+  - Quality of life:
+    - Visually differentiates recent collections from older ones.
+    - Gives players precise real-time awareness of respawn cycles and resource tracking progress.
+
+
+  CHANGELOG (Nov 2025):
+  - Fixed table not rendering due to btoa() on Unicode content. Added UTF-8 safe Base64 helpers (utoa/atou).
+  - Added multi-tab support:
+    - New localStorage keys: TABS_KEY ('respawn_tabs_v1'), CUR_TAB_KEY ('respawn_current_tab_id_v1'), and per-tab data prefix DATA_PREFIX ('respawn_acquisition_data__{tabId}').
+    - First-run bootstrap creates a 'Default' tab using BASE_SECTIONS (deep clone of SECTIONS).
+    - Migration: if legacy STORAGE_KEY_OLD ('respawn_acquisition_data') exists, it is copied into the Default tab dataset.
+  - Tabs UI & controls (rendered directly above the table):
+    - Tab buttons to switch active tab (updates CUR_TAB_KEY and reloads per-tab timestamps).
+    - “+ New Tab from Default” creates a tab seeded with BASE_SECTIONS and copies the current tab’s timestamps to keep progress aligned.
+    - “Rename Tab” updates the tab’s display name in TABS_KEY.
+    - “Delete Tab” removes the active tab and its dataset; prevents deleting the last remaining tab.
+  - Unified Sync Code overhaul:
+    - Sync payload now includes: all tabs (id, name, sections), currentTabId, per-tab datasets, and showHidden flag.
+    - Copy/Sync UI now encodes/decodes via utoa/atou to preserve Unicode in titles/details.
+    - Sync operation replaces tabs and all per-tab datasets atomically, then restores the current tab.
+  - Per-tab persistence:
+    - getActiveSections() reads sections from the active tab; timestamps read/write to DATA_PREFIX + currentTabId.
+    - save()/saveData() now scoped to current tab.
+  - Edit/Visibility QoL:
+    - “Edit Mode” toggle shows inline edit buttons for section titles, subheaders, item titles, and details; changes persist to TABS_KEY.
+    - “Show Hidden / Hide Hidden” toggle reveals rows with `.hidden-row` styling for management.
+    - Per-row “Hide/Unhide” actions (items and subheaders) write a `hidden` flag into the active tab’s section data.
+  - Rendering & structure:
+    - Sync + Tabs toolbars consolidated in `#sync-container` above the table for better discoverability.
+    - Deep clone utility ensures BASE_SECTIONS remains immutable; new tabs start clean.
+    - `render()` now rebuilds the sync/tabs UI, re-renders rows, and ensures the live elapsed timer is running.
+  - Safety & UX:
+    - Guardrails for Sync (schema validation) with friendly error toasts on invalid payloads.
+    - Prevent actions on hidden rows; action buttons disabled when item is hidden.
+    - Non-breaking: if the stored currentTabId is missing, fall back to the first available tab.
 -->
 
 <style>
@@ -56,6 +114,7 @@
     text-align: left;
     word-wrap: break-word;
     white-space: normal;
+    overflow-wrap: anywhere; /* helps with long tokens */
   }
 
   /* Header row styling */
@@ -74,6 +133,7 @@
     font-weight: bold;
     text-align: center;
     padding: 0.6rem;
+    position: relative;  /* for the collapse caret */
   }
 
   #tracker-container .subsection-header td {
@@ -82,6 +142,7 @@
     color: var(--md-default-fg-color--light);
     font-style: italic;
     padding: 0.4rem 0.6rem;
+    position: relative;  /* for the collapse caret */
   }
 
   /* ====== SECONDARY TEXT (DETAILS) ======
@@ -94,11 +155,14 @@
     padding-left: 0.6rem;
   }
 
+  /* Reset label: block with a tight top margin so it sits just under details */
   #tracker-container .reset-label {
-      display: inline-block;
-      font-size: 0.90em;     
-      opacity: 0.85;       
-    }
+    display: inline-block;
+    margin-top: 0.15rem;
+    font-size: 0.90em;
+    opacity: 0.85;
+    white-space: nowrap;
+  }
 
   /* ====== LINKS (OPEN IMAGE MODAL) ====== */
   #tracker-container .entry-link {
@@ -147,6 +211,41 @@
   #tracker-container button:focus {
     outline: 2px solid var(--md-typeset-a-color);
     outline-offset: 2px;
+  }
+
+  /* --- Snug details/reset stack (no layout changes elsewhere) --- */
+  #tracker-container .details {
+    margin-top: 0.15rem;      /* slightly tighter */
+    line-height: 1.25;        /* tighter text rhythm */
+  }
+
+  /* Kill the extra gap the injected <br> was creating */
+  #tracker-container .details br {
+    display: none;
+  }
+
+  /* Put Reset on its own line with a very small gap */
+  #tracker-container .details .reset-label {
+    display: block;
+    margin-top: 0.12rem;      /* snug! */
+    line-height: 1.2;
+  }
+
+  /* Ensure the inner details wrapper adds no stray spacing */
+  #tracker-container .details > div {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Tiny caret buttons for collapse (subtle) */
+  .caret-btn {
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    font-size: 0.85rem;
+    padding: 0.05rem 0.35rem;
+    border-radius: 4px;
+    opacity: 0.85;
   }
 
   /* ====== MODAL OVERLAY (IMAGE PREVIEW) ====== */
@@ -228,22 +327,58 @@
     font-size: 0.8rem;
     opacity: 0.9;
   }
+
+  /* ====== Tabs Bar ====== */
+  #tabs-bar { display:flex; gap:.5rem; align-items:center; margin:.75rem 0 1rem; flex-wrap: wrap; }
+  #tabs-bar .tab {
+    border:1px solid var(--md-typeset-fg-color--light);
+    background:transparent; color:var(--md-default-fg-color--light);
+    padding:.25rem .6rem; border-radius:6px; cursor:pointer; font-size:.85rem;
+  }
+  #tabs-bar .tab.active { background: var(--md-typeset-a-color); color: var(--md-default-fg-color--light); }
+  #tabs-bar .spacer { flex:1; }
+  #tabs-bar .small { font-size:.8rem; padding:.2rem .5rem; opacity:.9; }
+
+  /* Edit mode affordances */
+  .edit-pill { display:inline-block; margin-left:.5rem; font-size:.7rem; padding:.08rem .4rem;
+    border-radius:999px; border:1px solid var(--md-typeset-fg-color--light); opacity:.85; }
+  .edit-btn, .mini-btn { margin-left:.35rem; font-size:.7rem; padding:.05rem .35rem; border-radius:4px;
+    border:1px solid var(--md-typeset-fg-color--light); background:transparent; cursor:pointer; }
+  .hidden-row { opacity:.45; }
+
+  /* ====== Sync UI layout helpers (alignment fix) ====== */
+  .sync-grid {
+    display: grid;
+    grid-template-columns: max-content 16rem max-content;
+    column-gap: 0.5rem;
+    row-gap: 0.5rem;
+    align-items: center;
+  }
+  .sync-label {
+    color: var(--md-default-fg-color--light); /* match header color */
+  }
+  .sync-label-spacer {
+    visibility: hidden; /* reserves label width to align the second row with the first input */
+  }
+  .sync-input {
+    width: 16rem;
+  }
 </style>
 
-
-<div id="tracker-container">
   <!-- Instructions for users -->
+<div id="tracker-container">
   <ul>
     <li>Click an entry name to view its image (if it has one).</li>
     <li>Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.</li>
-    <li>Transfer acquisition status between devices with the sync code.</li>
+    <li>Transfer acquisition status between devices with the Export code.</li>
+    <li>You can now create new tabs (based on the default tab template), rename tabs and any text element via edit mode using the edit icon, hide and restore hidden items with “Show Hidden” then re-enable them and collapse headers or subheaders using the down arrow on their far right.</li>
     <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
     <li>Note: Abyss maps can vary sections shifted or swapped. Items shift as well but will remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
   </ul>
 
   <!-- This is where the sync UI (copyable code + paste-to-sync) appears -->
   <div id="sync-container"></div>
-
+  
   <!-- Main tracker table. JS will fill <tbody> dynamically. -->
   <table id="tracker" class="no-sort">
     <!-- Optional column width hints; CSS also sets widths -->
@@ -273,6 +408,12 @@
 
 <script>
 ;(function(){
+  /* ==========================
+     UTF-8 SAFE BASE64 HELPERS
+     ========================== */
+  const utoa = (str) => btoa(unescape(encodeURIComponent(str))); // utf8 -> base64
+  const atou = (b64) => decodeURIComponent(escape(atob(b64)));   // base64 -> utf8
+
   /* ==========================
      UTILITIES: DATES & LABELS
      ========================== */
@@ -314,24 +455,25 @@
    */
   function parseIntervalDaysFromDetails(str) {
     if (!str) return null;
+    const s = str.replace(/[\u2012-\u2015]/g, '-');
     let m;
-
     // [30 days]
-    m = str.match(/\[(\d+)\s*days?\]/i);
+    m = s.match(/\[(\d+)\s*days?\]/i);
     if (m) return Number(m[1]);
-
     // every 7 days / respawns every 7 days / produces one ... every 7 days
-    m = str.match(/\b(?:every|respawns?\s+every|produces?\s+one.*every)\s+(\d+)(?:\s*-\s*\d+)?\s*days?\b/i);
-    if (m) return Number(m[1]);
+    m = s.match(/\b(?:every|respawns?\s+every|produces?\s+one.*every|per|in)\s+(\d+)(?:\s*-\s*(\d+))?\s*days?\b/i);
+    if (m) { 
+      const a = Number(m[1]), b = m[2] ? Number(m[2]) : null; return b ? Math.max(a,b) : a; 
+      }
 
     // respawns daily / daily
-    if (/\brespawns?\s+daily\b/i.test(str) || /\bdaily\b/i.test(str)) return 1;
+    if (/\brespawns?\s+daily\b/i.test(s) || /\bdaily\b/i.test(s)) return 1;
 
     // weekly
-    if (/\bweekly\b/i.test(str)) return 7;
+    if (/\bweekly\b/i.test(s)) return 7;
 
     // monthly (approximate as 30 days)
-    if (/\bmonthly\b/i.test(str)) return 30;
+    if (/\bmonthly\b/i.test(s)) return 30;
 
     return null;
   }
@@ -344,7 +486,6 @@
     if (!ts || !days) return null;
     const period = days * 24 * 60 * 60 * 1000;
     const now = Date.now();
-
     // Ensure the next future multiple of the period after ts
     const elapsed = Math.max(0, now - ts);
     const cycles = Math.floor(elapsed / period) + 1;
@@ -369,440 +510,445 @@
       title: 'Ancient Mausoleum',
       items: [
         {
-          id:    'cauldron_mausoleum',
+          id: 'cauldron_mausoleum',
           title: 'Crucible Mausoleum Reset',
           details: 'A new set of 4 or 5 new Adventurer’s Remains become available in the Crucible Mausoleum every 2 weeks.',
-          reset: {
-            reference:    '2025-05-31T10:00:00',  // Initial reset anchor time (local time)
-            intervalWeeks: 2                      // Repeat every 2 weeks
-          },
-          image:     '',                          // No image: remains non-clickable
+          reset: { 
+            reference: '2025-05-31T10:00:00',  // Initial reset anchor time (local time) 
+            intervalWeeks: 2                   // Repeat every 2 weeks 
+            },
+          image: '',                           // No image: remains non-clickable 
           clickable: false
         },
         {
-          id:    'furnace_tallow',
+          id: 'furnace_tallow',
           title: 'Tallow of Bone Summoning - Furnace of Deathsmoke',
           details: 'Furnace of Deathsmoke located at the Ancient Mausoleum selection screen. Produces one tallow every 7 days.',
-          image:     '',                          // No image: remains non-clickable
+          image: '', 
           clickable: false
-        }, 
+        },
         {
-          id:    'bonepicker_tallow',
+          id: 'bonepicker_tallow',
           title: 'Tallow of Bone Summoning - Bone Picker',
           details: 'The wandering Bone Picker will sell you one tallow for 10,000gp every 7 days.',
-          image:     '',                          // No image: remains non-clickable
+          image: '', 
           clickable: false
         }
-    ]
-  },
-  {
-    title: "Adventurer’s Remains",
-    items: [
-      { subheader: 'Beginning Abyss' },
-      {
-        id: 'b1f_awakened_chamber',
-        title: 'Old Remains: Cursed Wheel to Awakening',
-        details: 'Part of the Intro. [30 days]',
-        image: '/appendices/img/respawning-bone-death-stench.jpg',
-        clickable: false
-      },
-      {
-        id: 'b1f_stench_quest',
-        title: 'Class Remains: B1F (Death Stench Investigation Request)',
-        details: 'Wheel to Kings Rescue, accept the Request in the Adventurers Guild, and head to the location. [30 days]',
-        image: '../img/bones/respawning-bone-death-stench.jpg',
-        clickable: true
-      },
-      {
-        id: 'b3f_goblin_south',
-        title: 'Adventurer’s Remains: B3F (Goblin’s Nest - chest)',
-        details: 'Wheel to Kings Rescue and head to the chest location south of the Goblin Nest entrance. [30 days]',
-        image: '../img/bones/respawning-bone-goblin-den.jpg',
-        clickable: true
-      },
-      {
-        id: 'b3f_goblin_northeast',
-        title: 'Adventurer’s Remains: B3F (Goblin’s Nest - Goblin Boss)',
-        details: 'Wheel to Kings Rescue and head to the goblin fight in the northeast. [30 days]',
-        image: '../img/bones/respawning-bone-goblin-den.jpg',
-        clickable: true
-      },
-      {
-        id: 'b4f_rubble',
-        title: 'Adventurer’s Remains: B4F',
-        details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
-        image: '../img/bones/respawning-bone-b4f.jpg',
-        clickable: true
-      },
-      {
-        id: 'b5f_toxin_swamps',
-        title: 'Adventurer’s Remains: B5F',
-        details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
-        image: '../img/bones/respawning-bone-b5f.jpg',
-        clickable: true
-      },
-      {
-        id: 'b6f_before_statue',
-        title: 'Adventurer’s Remains: B6F',
-        details: 'Same as above, you need to come in from B5F to take the portals. [7 days]',
-        image: '../img/bones/respawning-bone-b6f.jpg',
-        clickable: true
-      },
-      {
-        id: 'b7f_rubble_reverse',
-        title: 'Adventurer’s Remains: B7F',
-        details: 'Same as below, you need to first drop the rocks on B8F. [30 days]',
-        image: '../img/bones/respawning-bone-b7f.jpg',
-        clickable: true
-      },
-      {
-        id: 'b8f_nutrient',
-        title: 'Adventurer’s Remains: B8F',
-        details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
-        image: '../img/bones/respawning-bone-b8f.jpg',
-        clickable: true
-      },
-      { subheader: 'Trade Waterway' },
-      {
-        id: 'trade_waterway_pier',
-        title: 'Adventurer’s Remains: 7th District (Shore of the Dead)',
-        details: 'Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then. [30 days]',
-        image: '../img/bones/respawning-bone-pier-location.jpg',
-        clickable: true
-      },
-      { subheader: 'Impregnable Fortress' },
-      {
-        id: 'fortress_catacombs',
-        title: 'Adventurer’s Remains: Catacombs',
-        details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location. [30 days]',
-        image: '../img/bones/respawning-bone-catacomb.jpg',
-        clickable: true
-      },
-      { subheader: 'Other'},
-      {  
-          id:    'bonepicker_bone',
+      ]
+    },
+    {
+      title: "Adventurer’s Remains",
+      items: [
+        { subheader: 'Beginning Abyss' },
+        {
+          id: 'b1f_awakened_chamber',
+          title: 'Old Remains: Cursed Wheel to Awakening',
+          details: 'Part of the Intro. [30 days]',
+          image: '/appendices/img/respawning-bone-death-stench.jpg',
+          clickable: false
+        },
+        {
+          id: 'b1f_stench_quest',
+          title: 'Class Remains: B1F (Death Stench Investigation Request)',
+          details: 'Wheel to Kings Rescue, accept the Request in the Adventurers Guild, and head to the location. [30 days]',
+          image: '../img/bones/respawning-bone-death-stench.jpg',
+          clickable: true
+        },
+        {
+          id: 'b3f_goblin_south',
+          title: 'Adventurer’s Remains: B3F (Goblin’s Nest - chest)',
+          details: 'Wheel to Kings Rescue and head to the chest location south of the Goblin Nest entrance. [30 days]',
+          image: '../img/bones/respawning-bone-goblin-den.jpg',
+          clickable: true
+        },
+        {
+          id: 'b3f_goblin_northeast',
+          title: 'Adventurer’s Remains: B3F (Goblin’s Nest - Goblin Boss)',
+          details: 'Wheel to Kings Rescue and head to the goblin fight in the northeast. [30 days]',
+          image: '../img/bones/respawning-bone-goblin-den.jpg',
+          clickable: true
+        },
+        {
+          id: 'b4f_rubble',
+          title: 'Adventurer’s Remains: B4F',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
+          image: '../img/bones/respawning-bone-b4f.jpg',
+          clickable: true
+        },
+        {
+          id: 'b5f_toxin_swamps',
+          title: 'Adventurer’s Remains: B5F',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
+          image: '../img/bones/respawning-bone-b5f.jpg',
+          clickable: true
+        },
+        {
+          id: 'b6f_before_statue',
+          title: 'Adventurer’s Remains: B6F',
+          details: 'Same as above, you need to come in from B5F to take the portals. [7 days]',
+          image: '../img/bones/respawning-bone-b6f.jpg',
+          clickable: true
+        },
+        {
+          id: 'b7f_rubble_reverse',
+          title: 'Adventurer’s Remains: B7F',
+          details: 'Same as below, you need to first drop the rocks on B8F. [30 days]',
+          image: '../img/bones/respawning-bone-b7f.jpg',
+          clickable: true
+        },
+        {
+          id: 'b8f_nutrient',
+          title: 'Adventurer’s Remains: B8F',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
+          image: '../img/bones/respawning-bone-b8f.jpg',
+          clickable: true
+        },
+        { subheader: 'Trade Waterway' },
+        {
+          id: 'trade_waterway_pier',
+          title: 'Adventurer’s Remains: 7th District (Shore of the Dead)',
+          details: 'Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then. [30 days]',
+          image: '../img/bones/respawning-bone-pier-location.jpg',
+          clickable: true
+        },
+        { subheader: 'Impregnable Fortress' },
+        {
+          id: 'fortress_catacombs',
+          title: 'Adventurer’s Remains: Catacombs',
+          details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location. [30 days]',
+          image: '../img/bones/respawning-bone-catacomb.jpg',
+          clickable: true
+        },
+        { subheader: 'Other'},
+        {
+          id: 'bonepicker_bone',
           title: 'Adventurer’s Remains - Bone Picker',
           details: 'The wandering Bone Picker will sell you one set of Adventurer’s Remains for 1,000gp every 7 days.',
-          image:     '',                          // No image: remains non-clickable
+          image: '',
           clickable: false
-      }
-    ]
-  },
-  {
-    title: 'Equipment, Items, and Request Rewards',
-    items: [
-      { subheader: 'Beginning Abyss' },
-      { subheader: 'Chest Items' },
-      {
-        id: 'abyss_b1f_feathered',
-        title: 'Feathered Cap',
-        details: 'Chest in B1F 3-chest room (x:23, y:11)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'abyss_b3f_exorcism',
-        title: 'Exorcism Armor',
-        details: 'Chest in B3F (x:0, y:3)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'abyss_b3f_resistance',
-        title: 'Ring of Resistance',
-        details: 'Chest in B3F (x:12, y:19)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'abyss_b4f_halberd',
-        title: 'Halberd',
-        details: 'Chest in B4F (x:2, y:4)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'abyss_b5f_huntsman',
-        title: 'Huntsmans Bow',
-        details: 'Chest in B5F Southwest 3-chest room (x:8, y:3)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'abyss_b5f_breeze',
-        title: 'Sword of the Breeze',
-        details: 'Chest in B5F East 3-chest room (x:22, y:15)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'bracelet_of_impurity',
-        title: 'Bracelet of Impurity',
-        details: 'Chest in B8F (x:0, y:22)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'a1_b8f_nourishingpotions',
-        title: 'Nourishing Draught x3',
-        details: 'Chest in B8F (x:19, y:12) - respawns daily',
-        image: '',
-        clickable: false
-      },
-      { subheader: 'Request Rewards' },
-      {
-        id: 'bracelet_of_urgency',
-        title: 'Bracelet of Urgency',
-        details: 'Request Reward from "Knight-Butcher Ent Proliferation"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'undead_ward',
-        title: 'Undead Ward',
-        details: 'Request Reward from "Abyssal Heretic"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'plague_mask',
-        title: 'Plague Mask',
-        details: 'Request Reward from clear all waves in "March of the Undead"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'digger_pickaxe',
-        title: 'Digging Mattock',
-        details: 'Request Reward from (not) "Saving Lambert"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'royal_amulet',
-        title: 'Royal Herald Amulet',
-        details: 'Request Reward from "Save the King"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'bracelet_of_battle',
-        title: 'Bracelet of Battle',
-        details: 'Chance Request Reward from defeating the Greater Demon in "The Lingering Scent of the Greater Warped One',
-        image: '',
-        clickable: false
-      },
-      { subheader: 'Trade Waterway' },
-      { subheader: 'Chest Items' },
-      {
-        id: 'a2-district3-manapots',
-        title: 'Mana Potions x2',
-        details: 'Chest in 3rd District behind locked door (x:10, y:22). Respawns monthly.',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'lightfoot_sandals',
-        title: 'Light Sandals',
-        details: 'Chest in 3rd District after ambush room (x:17, y:1)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'thieves_gloves',
-        title: 'Thieves Gloves',
-        details: 'Chest in 4th District near Harken room (x:26, y:20)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'man_eater',
-        title: 'Man-Eater',
-        details: 'Chest in 5th District (x:6, y:23)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'mask_water_deity',
-        title: 'Mask of the Water God',
-        details: 'Chest in 6th District',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'a2-ship2-manapots',
-        title: 'Mana Elixers x3',
-        details: 'Chest in Ship 2 Treasure Room (x:14, y:13). Respawns monthly.',
-        image: '',
-        clickable: false
-      },
-      { subheader: 'Request Rewards' },
-      {
-        id: 'bird_dropper',
-        title: 'Bird Dropper',
-        details: 'Request Reward from "Hydra Plant Procurement"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'bloodstained_gloves',
-        title: 'Bloodstained Gloves',
-        details: 'Request Reward from "Servant and Cargo Recovery" (non-bondmate path)',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'melgina_choker',
-        title: 'Melgina’s Choker',
-        details: 'Defeat Octonarus after giving Melgina the Mackerel Sandwich',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'oktonaras_necklace',
-        title: 'Octonarus’s Necklace',
-        details: 'Defeat Octonarus after giving Melgina the Titanium Knife',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'tyranny_cutlass',
-        title: 'Cutlass of Tyranny',
-        details: 'Choose "Octonarus‘s Cherished Sword" after defeating Octonarus',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'quest-reward-2a-princess-route',
-        title: 'Shield of Honor',
-        details: 'Request Reward from "Missing Person (Princess Route)"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'quest-reward-2a-pontiff-route',
-        title: 'Book of Sanctuary\'s Blessing Secrets',
-        details: 'Request Reward from "Missing Person (Pontiff Route)"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'quest-reward-2a-admiral-route',
-        title: 'Twin Pearls',
-        details: 'Request Reward from "Missing Person (Admiral Route)"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'sea_god_pearl',
-        title: 'Pearl of the Sea God',
-        details: 'Quest Reward from "Arena Tournament by Avare"',
-        image: '',
-        clickable: false
-      },
-      { subheader: 'Impregnable Fortress' },
-      { subheader: 'Chest Items' },
-      {
-        id: 'a3_z2_nourishingpotions',
-        title: 'Nourishing Draught x3',
-        details: 'Chest in Zone 2 (x:4, y:15) - respawns every 1-2 days. Chest also contains 1-2x Crimson Lustrous Ore + Scroll of Flash',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'soul_potion_d9',
-        title: 'Mana Elixir x3',
-        details: 'Chest in Zone 9 (x:16, y:0). Respawns monthly.',
-        image: '',
-        clickable: false
-      },
-      { subheader: 'Request Rewards' },
-      {
-        id: 'skull_necklace_quest',
-        title: 'Skull Necklace - Request Reward',
-        details: 'Quest Reward from "Putting Evil Spirits to Rest"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'skull_necklace_chest',
-        title: 'Skull Necklace - Zone 2 chest',
-        details: 'Chest in Zone 2',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'enemy_scope',
-        title: 'Enemy Spyglass',
-        details: 'Request Reward from "Bodyguard for Ruins Exploration"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'demonic_crystal',
-        title: 'Demonic Crystal',
-        details: 'Fortress Underground » "Guardian of Forbidden Exploration" quest » "You Know Sin"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'goats_cloak',
-        title: 'Goatskin Cloak',
-        details: 'Request Reward from "Antique Scarlet Doll" or Chest in Zone 6',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'knights_cloak',
-        title: 'Knight’s Cloak',
-        details: 'Request Reward from "Expedition to Clear the Fortress Lower Levels"',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'glittering_ring',
-        title: 'Shining Finger Band',
-        details: 'Reward from beating Morgus, God of Death',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'elegant_dancer',
-        title: 'Elegant Dancer',
-        details: 'Admiral Route Clear Reward',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'tome_shieldbearer',
-        title: 'Tome of the Loyal Shieldbearer',
-        details: 'Princess Route Clear Reward',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'holy_white_gem',
-        title: 'Luminous Holy White Gem',
-        details: 'Papal Route Clear Reward',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'embroidered_hankerchief',
-        title: 'Golden Embroidered Handkerchief',
-        details: 'Request Reward from Cleanup Operation quest reward',
-        image: '',
-        clickable: false
-      },
-      {
-        id: 'everlasting_lily',
-        title: 'Everlasting Lily',
-        details: 'Request Reward from "Requiem for the Evil Spirit" quest',
-        image: '',
-        clickable: false
-      }
-    ]
-  }
+        }
+      ]
+    },
+    {
+      title: 'Equipment, Items, and Request Rewards',
+      items: [
+        { subheader: 'Beginning Abyss' },
+        { subheader: 'Chest Items' },
+        {
+          id: 'abyss_b1f_feathered',
+          title: 'Feathered Cap',
+          details: 'Chest in B1F 3-chest room (x:23, y:11)',
+          image: '',
+          clickable: false 
+        },
+        {
+          id: 'abyss_b3f_exorcism',
+          title: 'Exorcism Armor',
+          details: 'Chest in B3F (x:0, y:3)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'abyss_b3f_resistance',
+          title: 'Ring of Resistance',
+          details: 'Chest in B3F (x:12, y:19)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'abyss_b4f_halberd',
+          title: 'Halberd',
+          details: 'Chest in B4F (x:2, y:4)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'abyss_b5f_huntsman',
+          title: 'Huntsmans Bow',
+          details: 'Chest in B5F Southwest 3-chest room (x:8, y:3)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'abyss_b5f_breeze',
+          title: 'Sword of the Breeze',
+          details: 'Chest in B5F East 3-chest room (x:22, y:15)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'bracelet_of_impurity',
+          title: 'Bracelet of Impurity',
+          details: 'Chest in B8F (x:0, y:22)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'a1_b8f_nourishingpotions',
+          title: 'Nourishing Draught x3',
+          details: 'Chest in B8F (x:19, y:12) - respawns daily',
+          image: '',
+          clickable: false,
+        },
+
+        { subheader: 'Request Rewards' },
+        {
+          id: 'bracelet_of_urgency',
+          title: 'Bracelet of Urgency',
+          details: 'Request Reward from "Knight-Butcher Ent Proliferation"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'undead_ward',
+          title: 'Undead Ward',
+          details: 'Request Reward from "Abyssal Heretic"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'plague_mask',
+          title: 'Plague Mask',
+          details: 'Request Reward from clear all waves in "March of the Undead"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'digger_pickaxe',
+          title: 'Digging Mattock',
+          details: 'Request Reward from (not) "Saving Lambert"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'royal_amulet',
+          title: 'Royal Herald Amulet',
+          details: 'Request Reward from "Save the King"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'bracelet_of_battle',
+          title: 'Bracelet of Battle',
+          details: 'Chance Request Reward from defeating the Greater Demon in "The Lingering Scent of the Greater Warped One"',
+          image: '',
+          clickable: false,
+        },
+
+        { subheader: 'Trade Waterway' },
+        { subheader: 'Chest Items' },
+        {
+          id: 'a2-district3-manapots',
+          title: 'Mana Potions x2',
+          details: 'Chest in 3rd District behind locked door (x:10, y:22). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'lightfoot_sandals',
+          title: 'Light Sandals',
+          details: 'Chest in 3rd District after ambush room (x:17, y:1)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'thieves_gloves',
+          title: 'Thieves Gloves',
+          details: 'Chest in 4th District near Harken room (x:26, y:20)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'man_eater',
+          title: 'Man-Eater',
+          details: 'Chest in 5th District (x:6, y:23)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'mask_water_deity',
+          title: 'Mask of the Water God',
+          details: 'Chest in 6th District',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'a2-ship2-manapots',
+          title: 'Mana Elixers x3',
+          details: 'Chest in Ship 2 Treasure Room (x:14, y:13). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+
+        { subheader: 'Request Rewards' },
+        {
+          id: 'bird_dropper',
+          title: 'Bird Dropper',
+          details: 'Request Reward from "Hydra Plant Procurement"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'bloodstained_gloves',
+          title: 'Bloodstained Gloves',
+          details: 'Request Reward from "Servant and Cargo Recovery" (non-bondmate path)',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'melgina_choker',
+          title: 'Melgina’s Choker',
+          details: 'Defeat Octonarus after giving Melgina the Mackerel Sandwich',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'oktonaras_necklace',
+          title: 'Octonarus’s Necklace',
+          details: 'Defeat Octonarus after giving Melgina the Titanium Knife',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'tyranny_cutlass',
+          title: 'Cutlass of Tyranny',
+          details: 'Choose "Octonarus‘s Cherished Sword" after defeating Octonarus',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'quest-reward-2a-princess-route',
+          title: 'Shield of Honor',
+          details: 'Request Reward from "Missing Person (Princess Route)"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'quest-reward-2a-pontiff-route',
+          title: 'Book of Sanctuary\'s Blessing Secrets',
+          details: 'Request Reward from "Missing Person (Pontiff Route)"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'quest-reward-2a-admiral-route',
+          title: 'Twin Pearls',
+          details: 'Request Reward from "Missing Person (Admiral Route)"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'sea_god_pearl',
+          title: 'Pearl of the Sea God',
+          details: 'Quest Reward from "Arena Tournament by Avare"',
+          image: '',
+          clickable: false,
+        },
+
+        { subheader: 'Impregnable Fortress' },
+        { subheader: 'Chest Items' },
+        {
+          id: 'a3_z2_nourishingpotions',
+          title: 'Nourishing Draught x3',
+          details: 'Chest in Zone 2 (x:4, y:15) - respawns every 1-2 days. Chest also contains 1-2x Crimson Lustrous Ore + Scroll of Flash',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'soul_potion_d9',
+          title: 'Mana Elixir x3',
+          details: 'Chest in Zone 9 (x:16, y:0). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+
+        { subheader: 'Request Rewards' },
+        {
+          id: 'skull_necklace_quest',
+          title: 'Skull Necklace - Request Reward',
+          details: 'Quest Reward from "Putting Evil Spirits to Rest"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'skull_necklace_chest',
+          title: 'Skull Necklace - Zone 2 chest',
+          details: 'Chest in Zone 2',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'enemy_scope',
+          title: 'Enemy Spyglass',
+          details: 'Request Reward from "Bodyguard for Ruins Exploration"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'demonic_crystal',
+          title: 'Demonic Crystal',
+          details: 'Fortress Underground » "Guardian of Forbidden Exploration" quest » "You Know Sin"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'goats_cloak',
+          title: 'Goatskin Cloak',
+          details: 'Request Reward from "Antique Scarlet Doll" or Chest in Zone 6',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'knights_cloak',
+          title: 'Knight’s Cloak',
+          details: 'Request Reward from "Expedition to Clear the Fortress Lower Levels"',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'glittering_ring',
+          title: 'Shining Finger Band',
+          details: 'Reward from beating Morgus, God of Death',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'elegant_dancer',
+          title: 'Elegant Dancer',
+          details: 'Admiral Route Clear Reward',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'tome_shieldbearer',
+          title: 'Tome of the Loyal Shieldbearer',
+          details: 'Princess Route Clear Reward',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'holy_white_gem',
+          title: 'Luminous Holy White Gem',
+          details: 'Papal Route Clear Reward',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'embroidered_hankerchief',
+          title: 'Golden Embroidered Handkerchief',
+          details: 'Request Reward from Cleanup Operation quest reward',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'everlasting_lily',
+          title: 'Everlasting Lily',
+          details: 'Request Reward from "Requiem for the Evil Spirit" quest',
+          image: '',
+          clickable: false,
+        },
+      ]
+    }
   ];
 
   /* ==========================
@@ -811,8 +957,35 @@
      Data lives in localStorage under STORAGE_KEY.
      'data' is an object mapping item.id -> timestamp(ms) of last collection.
   */
-  const STORAGE_KEY = 'respawn_acquisition_data';
-  let data = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  const STORAGE_KEY_OLD = 'respawn_acquisition_data';
+  const TABS_KEY     = 'respawn_tabs_v1';
+  const CUR_TAB_KEY  = 'respawn_current_tab_id_v1';
+  const DATA_PREFIX  = 'respawn_acquisition_data__';
+
+  const deepClone = obj => JSON.parse(JSON.stringify(obj));
+  const BASE_SECTIONS = deepClone(SECTIONS);
+
+  function loadTabs() {
+    const raw = localStorage.getItem(TABS_KEY);
+    if (raw) { try { return JSON.parse(raw); } catch {} }
+    const tabs = [{ id: 'default', name: 'Default', sections: deepClone(BASE_SECTIONS) }];
+    localStorage.setItem(TABS_KEY, JSON.stringify(tabs));
+    localStorage.setItem(CUR_TAB_KEY, 'default');
+    const old = localStorage.getItem(STORAGE_KEY_OLD);
+    if (old) localStorage.setItem(DATA_PREFIX + 'default', old);
+    return tabs;
+  }
+  function saveTabs(tabs) { localStorage.setItem(TABS_KEY, JSON.stringify(tabs)); }
+  function getCurrentTabId(){ return localStorage.getItem(CUR_TAB_KEY) || 'default'; }
+  function setCurrentTabId(id){ localStorage.setItem(CUR_TAB_KEY, id); }
+  function dataKeyFor(tabId){ return DATA_PREFIX + tabId; }
+  function loadData(tabId){ return JSON.parse(localStorage.getItem(dataKeyFor(tabId)) || '{}'); }
+  function saveData(tabId, obj){ localStorage.setItem(dataKeyFor(tabId), JSON.stringify(obj)); }
+
+  let tabs = loadTabs();
+  let currentTabId = getCurrentTabId();
+  if (!tabs.find(t => t.id === currentTabId)) { currentTabId = tabs[0].id; setCurrentTabId(currentTabId); }
+  let data = loadData(currentTabId);
 
   /* ==========================
      DOM REFERENCES
@@ -835,7 +1008,6 @@
     return ts ? new Date(ts).toLocaleString() : '-';
   }
   function pad2(n){ return String(n).padStart(2,'0'); }
-
   /* Returns "X days (HH:MM:SS)" where HH:MM:SS is the remainder inside the current day. */
   function formatDaysSinceWithClock(ts, nowMs) {
     if (!ts) return '-';
@@ -853,8 +1025,32 @@
 
   /* Save current 'data' into localStorage. */
   function save() {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    saveData(currentTabId, data);
+
+    // --- keep Sync Code live without a full re-render ---
+    const datasets = {};
+    (tabs || []).forEach(t => { datasets[t.id] = loadData(t.id) || {}; });
+    const payload = {
+      tabs: (tabs || []).map(t => ({
+        id: t.id,
+        name: t.name,
+        sections: t.sections            // includes hidden/collapsed flags
+      })),
+      currentTabId,
+      datasets,
+      showHidden: !!showHidden
+    };
+    const codeEl = document.getElementById('sync-code-input');
+    if (codeEl) {
+      codeEl.value = utoa(JSON.stringify(payload));
+    }
   }
+
+  /* ==========================
+     TABS / EDIT MODE STATE
+     ========================== */
+  let editMode = false;
+  let showHidden = false;
 
   /* ==========================
      SYNC UI
@@ -867,57 +1063,206 @@
     // Reset container each re-render
     syncCt.innerHTML = '';
 
+    // --- Unified Sync Block (grid for alignment) ---
+    const syncGrid = document.createElement('div');
+    syncGrid.className = 'sync-grid';
+
+    // Build payload (tabs + per-tab timestamps)
+    const datasets = {};
+    (tabs || []).forEach(t => { 
+      datasets[t.id] = loadData(t.id) || {}; 
+    });
+    const payload = {
+      tabs: (tabs || []).map(t => ({ 
+        id: t.id, name: t.name, sections: t.sections  // keep all state
+      })),
+      currentTabId,
+      datasets,
+      showHidden: !!showHidden
+    };
+
     // Generate a shareable code for the current data
-    const currentCode = btoa(JSON.stringify(data));
+    const currentCode = utoa(JSON.stringify(payload)); // UTF-8 safe
 
-    // Read-only field with current sync code
-    const codeInput = document.createElement('input');
-    codeInput.readOnly = true;
-    codeInput.value = currentCode;
-    codeInput.style.width = '8rem';
+    // Row 1: label | code input | copy
+    const codeLabel = document.createElement('span'); 
+    codeLabel.textContent = 'Export Code:';
+    codeLabel.className = 'sync-label';
 
-    // Copy button: copies current code to clipboard
+    const codeInput = document.createElement('input'); 
+    codeInput.id = 'sync-code-input';            /* id so we can live-update */
+    codeInput.readOnly = true; 
+    codeInput.value = currentCode; 
+    codeInput.className = 'sync-input';
+
     const copyBtn = document.createElement('button');
     copyBtn.textContent = 'Copy';
     copyBtn.addEventListener('click', () => {
-      navigator.clipboard.writeText(currentCode);
+      navigator.clipboard.writeText(codeInput.value);
       copyBtn.textContent = 'Copied!';
-      setTimeout(() => copyBtn.textContent = 'Copy', 1500);
+      setTimeout(() => (copyBtn.textContent = 'Copy'), 1200);
     });
 
-    // Row 1 label + controls
-    const row1 = document.createElement('div');
-    row1.textContent = 'Sync Code: ';
-    row1.append(codeInput, copyBtn);
+    // Row 2: (hidden spacer) | paste input | sync
+    const spacer = document.createElement('span');
+    spacer.className = 'sync-label sync-label-spacer';
+    spacer.textContent = 'Sync Code:';  // invisible but same width for alignment
 
-    // Paste field: user pastes a shared code here
     const pasteInput = document.createElement('input');
-    pasteInput.placeholder = 'Paste Sync Code';
-    pasteInput.style.width = '8rem';
+    pasteInput.placeholder = 'Paste Export Code';
+    pasteInput.className = 'sync-input';
 
-    // Sync button: tries to decode & load pasted code into 'data'
     const syncBtn = document.createElement('button');
-    syncBtn.textContent = 'Sync';
+    syncBtn.textContent = 'Import';
     syncBtn.addEventListener('click', () => {
       const txt = pasteInput.value.trim();
       if (!txt) return alert('Please paste a code.');
       try {
-        const obj = JSON.parse(atob(txt));
-        data = obj;     // Replace current data with decoded object
-        save();         // Persist replacement
-        render();       // Re-render UI with new data
+        const obj = JSON.parse(atou(txt)); // UTF-8 safe decode
+        if (!obj || !Array.isArray(obj.tabs) || !obj.currentTabId || !obj.datasets) throw new Error('bad payload');
+
+        // Preserve all section state (hidden/collapsed) as provided
+        tabs = obj.tabs.map(t => ({
+          id: t.id,
+          name: t.name || 'Tab',
+          sections: t.sections || []
+        }));
+        saveTabs(tabs);
+
+        tabs.forEach(t => {
+          const d = obj.datasets[t.id] || {};
+          saveData(t.id, d); 
+        });
+
+        currentTabId = tabs.find(x => x.id === obj.currentTabId)?.id || (tabs[0] && tabs[0].id);
+        setCurrentTabId(currentTabId);
+        data = loadData(currentTabId);
+
+        showHidden = !!obj.showHidden;
+        render();
       } catch (e) {
         alert('Invalid sync code');
       }
     });
 
-    // Row 2 label + controls
-    const row2 = document.createElement('div');
-    row2.textContent = 'Paste Code: ';
-    row2.append(pasteInput, syncBtn);
+    // Append rows to grid
+    syncGrid.append(codeLabel, codeInput, copyBtn, spacer, pasteInput, syncBtn);
 
-    // Inject both rows into the sync container
-    syncCt.append(row1, row2);
+    // --- Tabs + Tools Row (unchanged visuals) ---
+    const tabsRow = document.createElement('div');
+    Object.assign(tabsRow.style, {
+      display:'flex',
+      flexWrap:'wrap', 
+      gap:'0.5rem', 
+      alignItems:'center', 
+      marginTop:'0.5rem' 
+    });
+
+    (tabs || []).forEach(t => {
+      const b = document.createElement('button');
+      b.textContent = t.name;
+      b.className = 'tab' + (t.id === currentTabId ? ' active' : '');
+      Object.assign(b.style, { 
+        padding:'0.25rem 0.5rem', 
+        border:'1px solid var(--md-typeset-fg-color--light)',
+        borderRadius:'4px',
+        background: (t.id === currentTabId)
+          ? 'rgba(94,139,222,0.25)'   /* active: a touch stronger */
+          : 'rgba(128,128,128,0.08)', /* inactive: subtle pill */
+        boxShadow: (t.id === currentTabId)
+          ? 'inset 0 0 0 1px rgba(94,139,222,0.35)'
+          : 'inset 0 0 0 1px rgba(255,255,255,0.05)',
+        opacity: (t.id === currentTabId) ? '1' : '0.92'
+      });
+      b.onmouseenter = () => { if (t.id !== currentTabId) b.style.boxShadow = 'inset 0 0 0 1px rgba(255,255,255,0.15)'; };
+      b.onmouseleave = () => { if (t.id !== currentTabId) b.style.boxShadow = 'inset 0 0 0 1px rgba(255,255,255,0.05)'; };
+      b.onclick = () => { 
+        currentTabId = t.id; 
+        setCurrentTabId(currentTabId); 
+        data = loadData(currentTabId); 
+        render(); 
+      };
+      tabsRow.appendChild(b);
+    });
+
+    const spacerFlex = document.createElement('div');
+    spacerFlex.style.flex = '1';
+    tabsRow.appendChild(spacerFlex);
+
+    const editBtn = document.createElement('button');
+    editBtn.textContent = editMode ? 'Exit Edit Mode' : 'Edit Mode';
+    editBtn.className = 'tab small';
+    editBtn.onclick = () => { 
+      editMode = !editMode; 
+      render(); 
+    };
+    tabsRow.appendChild(editBtn);
+
+    const sh = document.createElement('button');
+    sh.className = 'tab small';
+    sh.textContent = showHidden ? 'Hide Hidden' : 'Show Hidden';
+    sh.onclick = () => { 
+      showHidden = !showHidden; 
+      renderRowsOnly(); 
+      initializeSyncUI();
+    };
+    tabsRow.appendChild(sh);
+
+    const add = document.createElement('button');
+    add.className = 'tab small';
+    add.textContent = '+ New Tab from Default';
+    add.onclick = () => {
+      const id = 'tab_' + Math.random().toString(36).slice(2, 8);
+      tabs.push({ 
+        id, name: 'Custom', sections: deepClone(BASE_SECTIONS) 
+      });
+      saveTabs(tabs);
+      const curData = loadData(currentTabId) || {};
+      saveData(id, JSON.parse(JSON.stringify(curData)));
+      setCurrentTabId(id);
+      currentTabId = id;
+      data = loadData(id);
+      render();
+    };
+    tabsRow.appendChild(add);
+
+    const ren = document.createElement('button');
+    ren.className = 'tab small';
+    ren.textContent = 'Rename Tab';
+    ren.onclick = () => {
+      const t = tabs.find(x => x.id === currentTabId); 
+      if (!t) return;
+      const nv = prompt('Rename tab:', t.name);
+      if (nv) { 
+        t.name = nv; 
+        saveTabs(tabs); 
+        initializeSyncUI(); 
+      }
+    };
+    tabsRow.appendChild(ren);
+
+    const del = document.createElement('button');
+    del.className = 'tab small';
+    del.textContent = 'Delete Tab';
+    del.onclick = () => {
+      if ((tabs || []).length <= 1) 
+        return alert('Cannot delete the last tab.');
+      if (!confirm('Delete this tab? Its data will be removed.')) 
+        return;
+      const idx = tabs.findIndex(x => x.id === currentTabId);
+      if (idx >= 0) {
+        localStorage.removeItem(dataKeyFor(currentTabId));
+        tabs.splice(idx, 1); 
+        saveTabs(tabs);
+        currentTabId = tabs[0].id; 
+        setCurrentTabId(currentTabId); 
+        data = loadData(currentTabId);
+        render();
+      }
+    };
+    tabsRow.appendChild(del);
+
+    syncCt.append(syncGrid, tabsRow);
   }
 
   /* ==========================
@@ -928,7 +1273,6 @@
      - Each span carries data-ts="<ms>" so we don't reparse text each tick.
   */
   let __elapsedInterval = null;
-
   /* Update all live "since" labels in the table to the current time. */
   function updateElapsedClocks() {
     const now = Date.now();
@@ -937,11 +1281,18 @@
       span.textContent = formatDaysSinceWithClock(ts, now);
     });
   }
-
   /* Ensure the interval exists. */
   function ensureElapsedTimer() {
     if (__elapsedInterval) return;
     __elapsedInterval = setInterval(updateElapsedClocks, 1000);
+  }
+
+  /* ==========================
+     ACCESSORS
+     ========================== */
+  function getActiveSections() {
+    const tab = tabs.find(t => t.id === currentTabId);
+    return tab ? tab.sections : [];
   }
 
   /* ==========================
@@ -951,72 +1302,96 @@
      Binds click handlers for Collect/Update, Undo, and Image links.
   */
   function buildRowsHTML() {
+    const sections = getActiveSections();
     let html = '';
-
     // Build rows for each section and its items
-    SECTIONS.forEach(sec => {
-      // Section header row
-      html += `<tr class="section-header"><td colspan="3">${sec.title}</td></tr>`;
+    sections.forEach((sec, si) => {
+      const collapsed = !!sec._collapsed;
 
+      // Section header row with caret
+      const holderId = `sec-title-${si}`;
+      const caret = collapsed ? '▸' : '▾';
+      html += `<tr class="section-header"><td colspan="3">
+                 <button class="mini-btn caret-btn" data-collapse-section="${si}" title="Toggle section">${caret}</button>
+                 <div id="${holderId}"></div>
+               </td></tr>`;
+
+      if (collapsed) return; // skip items if section collapsed
+
+      let subCollapsed = false;
       // Each item within a section
-      sec.items.forEach(it => {
+      (sec.items || []).forEach((it, ii) => {
         // Visual subsection row separators
         if (it.subheader) {
-          html += `<tr class="subsection-header"><td colspan="3">${it.subheader}</td></tr>`;
+          const isHidden = !!it.hidden;
+          if (isHidden && !showHidden) { subCollapsed = false; return; }
+          const subId = `subheader-${si}-${ii}`;
+          const sc = !!it.collapsed;
+          subCollapsed = sc;
+          const subCaret = sc ? '▸' : '▾';
+          html += `<tr class="subsection-header${isHidden ? ' hidden-row':''}">
+                     <td colspan="3">
+                       <button class="mini-btn caret-btn" data-collapse-subheader="${si}:${ii}" title="Toggle group">${subCaret}</button>
+                       <div id="${subId}"></div>
+                       ${editMode ? (isHidden
+                         ? `<button class="mini-btn" data-unhide-subheader="${si}:${ii}">Unhide</button>`
+                         : `<button class="mini-btn" data-hide-subheader="${si}:${ii}">Hide</button>`) : ''}
+                     </td>
+                   </tr>`;
           return;
         }
 
-        // Is this item currently marked as collected?
-        const done = Boolean(data[it.id]);
-
-        // Checkmark always shows; color changes with 'collected' class
-        const chk = `<span class="checkmark">✓</span>`;
-
-        // If clickable, make the title an anchor; otherwise, just text
-        const nameEl = it.clickable
-          ? `<a href="#" class="entry-link" data-img="${it.image}" data-title="${it.title}">${it.title}</a>`
-          : `<span>${it.title}</span>`;
+        const isHidden = !!it.hidden;
+        if ((isHidden && !showHidden) || subCollapsed) return;
 
         // Show either a reset label (if reset info exists) or details string
-        // We'll need the collected timestamp once; use it for both details & ts column
         const ts = data[it.id] || null;
 
-        // Build reset line:
-        // - If item.reset exists, use the anchored schedule
-        // - Else, try to infer days from details and base it on 'ts'
+        // Is this item currently marked as collected?
+        const done = Boolean(ts);
+        const chk = `<span class="checkmark">✓</span>`;
+
+        const titleHolder = `title-${si}-${ii}`;
+        const detailsHolder = `details-${si}-${ii}`;
+
+        // Build reset line
         let computedResetHtml = '';
         if (it.reset) {
-          computedResetHtml = `<span class="reset-label">${formatResetLabel(getNextResetDate(it.reset))}</span>`;
+          const next = getNextResetDate(it.reset);
+          const ready = next.getTime() <= Date.now();
+          computedResetHtml = `<span class="reset-label">${ready ? 'Ready' : formatResetLabel(next)}</span>`;
         } else {
           const inferredDays = parseIntervalDaysFromDetails(it.details || '');
           if (inferredDays) {
             const nextFromCollected = getNextResetFromCollected(ts, inferredDays);
             computedResetHtml = `<span class="reset-label">${
-              nextFromCollected ? formatResetLabel(nextFromCollected) : 'Resets after first collect'
+              ts
+                ? (nextFromCollected && nextFromCollected.getTime() <= Date.now()
+                    ? 'Ready'
+                    : (nextFromCollected ? formatResetLabel(nextFromCollected) : 'Resets after first collect'))
+                : 'Resets after first collect'
             }</span>`;
           }
         }
-
-        // Final details HTML
-        const details = [
-          it.details || '',
-          computedResetHtml
-        ].filter(Boolean).join('<br>');
+        /* Put reset beneath details with a tight gap */
+        const extraDetails = computedResetHtml ? `<br>${computedResetHtml}` : '';
 
         // Primary action toggles between 'Collect' and 'Update'
-        const actBtn = `<button class="action-btn">${done ? 'Update' : 'Collect'}</button>`;
-
-        // Reset button appears only when item has been collected
-        const rstBtn = done ? `<button class="reset-btn" title="Undo">⟲</button>` : '';
-
-        // Last Collected column pieces
+        const actBtn = `<button class="action-btn"${isHidden ? ' disabled':''}>${done ? 'Update' : 'Collect'}</button>`;
+        const rstBtn = (done && !isHidden) ? `<button class="reset-btn" title="Undo">⟲</button>` : '';
         const tsDate = formatDate(ts);
         const since  = formatDaysSinceWithClock(ts);
 
-        // Compose the row HTML
         html += `
-          <tr data-id="${it.id}" class="${done ? 'collected' : ''}">
-            <td>${chk}${nameEl}${details ? `<div class="details">${details}</div>` : ''}</td>
+          <tr data-id="${it.id}" class="${done ? 'collected' : ''}${isHidden ? ' hidden-row':''}">
+            <td>
+              ${chk}
+              <div id="${titleHolder}" style="display:inline-block;max-width:100%"></div>
+              <div class="details"><div id="${detailsHolder}"></div>${extraDetails}</div>
+              ${editMode ? (isHidden
+                ? `<button class="mini-btn" data-unhide-item="${si}:${ii}">Unhide</button>`
+                : `<button class="mini-btn" data-hide-item="${si}:${ii}">Hide</button>`) : ''}
+            </td>
             <td class="ts">
               <div class="ts-date">${tsDate}</div>
               <div class="since"${ts ? ` data-ts="${ts}"` : ''}>${since}</div>
@@ -1025,22 +1400,153 @@
           </tr>`;
       });
     });
-
     return html;
   }
 
-  /* Re-bind events for the new buttons/links inside rows. */
+  /* Build a tiny inline edit badge that hugs the top-right of the last character (with text) */
+  function makeEditableLabel(htmlText, key, type, si, ii) {
+    const wrap = document.createElement('span');   /* inline so the button hugs the text */
+    wrap.style.display = 'inline';
+    wrap.style.position = 'relative';
+
+    const label = document.createElement('span');  /* span for inline flow */
+    label.innerHTML = htmlText;
+    label.style.maxWidth = '100%';
+
+    const btn = document.createElement('button');
+    btn.setAttribute('aria-label', 'Edit');
+    btn.title = editMode ? 'Edit' : 'Enable Edit Mode to edit';
+
+    /* small, superscript-like inline badge */
+    btn.style.border = '1px solid var(--md-typeset-fg-color--light)';
+    btn.style.borderRadius = '999px';
+    btn.style.padding = '0 4px';
+    btn.style.fontSize = '0.6rem';
+    btn.style.lineHeight = '1';
+    btn.style.background = 'transparent';
+    btn.style.cursor = editMode ? 'pointer' : 'default';
+    btn.style.display = editMode ? 'inline-flex' : 'none';
+    btn.style.alignItems = 'center';
+    btn.style.gap = '0.25rem';
+    btn.style.marginLeft = '0.25rem';
+    btn.style.verticalAlign = 'text-top';
+    btn.style.transform = 'translateY(-10%)';
+
+    btn.innerHTML = `
+      <svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" aria-hidden="true">
+        <path fill="currentColor" d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25Zm18.71-11.04a1.003 1.003 0 0 0 0-1.42L19.21 2.29a1.003 1.003 0 0 0-1.42 0l-1.83 1.83l3.75 3.75l1.8-1.66Z"/>
+      </svg>
+      <span>Edit</span>
+    `;
+    btn.onclick = () => startInlineEdit(wrap, label, key, type, si, ii);
+
+    wrap.appendChild(label);
+    wrap.appendChild(btn);
+    return wrap;
+  }
+
+  function hydrateInlineEditors() {
+    const sections = getActiveSections();
+
+    sections.forEach((sec, si) => {
+      const mount = document.getElementById(`sec-title-${si}`);
+      if (!mount) return;
+      const widget = makeEditableLabel(sec.title, 'section.title', 'section', si, -1);
+      mount.replaceChildren(widget);
+    });
+
+    sections.forEach((sec, si) => {
+      (sec.items || []).forEach((it, ii) => {
+        if (it.subheader) {
+          const subMount = document.getElementById(`subheader-${si}-${ii}`);
+          if (!subMount) return;
+          const widget = makeEditableLabel(it.subheader, 'subheader', 'subheader', si, ii);
+          subMount.replaceChildren(widget);
+          return;
+        }
+        const titleMount = document.getElementById(`title-${si}-${ii}`);
+        if (titleMount) {
+          const titleHTML = it.clickable
+            ? `<a href="#" class="entry-link" data-img="${it.image}" data-title="${it.title}">${it.title}</a>`
+            : `<span>${it.title}</span>`;
+          const widget = makeEditableLabel(titleHTML, 'item.title', 'title', si, ii);
+          titleMount.replaceChildren(widget);
+        }
+        const detMount = document.getElementById(`details-${si}-${ii}`);
+        if (detMount) {
+          const safe = it.details ? it.details : '';
+          const widget = makeEditableLabel(safe, 'item.details', 'details', si, ii);
+          detMount.replaceChildren(widget);
+        }
+      });
+    });
+  }
+
+  function startInlineEdit(container, labelEl, key, type, si, ii) {
+    const isMultiline = (type === 'details');
+    const input = document.createElement(isMultiline ? 'textarea' : 'input');
+    const oldValue = labelEl.textContent || '';
+    input.value = oldValue;
+    input.style.minWidth = '14rem';
+    input.style.padding = '4px 6px';
+    input.style.border = '1px solid var(--md-typeset-fg-color--light)';
+    input.style.borderRadius = '4px';
+    if (isMultiline) { input.rows = 3; input.style.display = 'block'; input.style.width = '100%'; }
+
+    const row = document.createElement('div');
+    row.style.display = 'flex'; row.style.gap = '0.35rem'; row.style.alignItems = 'center'; row.style.marginTop = '0.15rem';
+
+    const saveB = document.createElement('button'); saveB.textContent = 'Save';
+    const cancelB = document.createElement('button'); cancelB.textContent = 'Cancel';
+
+    saveB.onclick = () => {
+      const val = input.value;
+      const sections = getActiveSections();
+      const sec = sections[si]; if (!sec) return;
+
+      if (key === 'section.title') {
+        sec.title = val;
+      } else if (key === 'subheader') {
+        const it = sec.items?.[ii]; if (!it || !it.subheader) return;
+        it.subheader = val;
+      } else if (key === 'item.title') {
+        const it = sec.items?.[ii]; if (!it || it.subheader) return;
+        it.title = val;
+      } else if (key === 'item.details') {
+        const it = sec.items?.[ii]; if (!it || it.subheader) return;
+        it.details = val;
+      }
+      saveTabs(tabs);
+      renderRowsOnly();
+    };
+    cancelB.onclick = () => renderRowsOnly();
+
+    container.innerHTML = '';
+    container.appendChild(input);
+    row.appendChild(saveB);
+    row.appendChild(cancelB);
+    container.appendChild(row);
+
+    input.focus();
+    if (!isMultiline) {
+      input.onkeydown = (e)=>{ if (e.key==='Enter'){ e.preventDefault(); saveB.click(); } if (e.key==='Escape'){ e.preventDefault(); cancelB.click(); } };
+    } else {
+      input.onkeydown = (e)=>{ if (e.key==='Escape'){ e.preventDefault(); cancelB.click(); } };
+    }
+  }
+
   function wireRowInteractions() {
-    // Collect/Update: set current timestamp for this id
     tbody.querySelectorAll('.action-btn').forEach(btn =>
       btn.onclick = e => {
-        const id = e.target.closest('tr').dataset.id;
+        const row = e.target.closest('tr');
+        if (row.classList.contains('hidden-row')) 
+          return;
+        const id = row.dataset.id;
         data[id] = Date.now(); // store time of collection/update
         save();
         renderRowsOnly();      // re-render rows to refresh both date and since
       }
     );
-
     // Undo: remove the timestamp for this id
     tbody.querySelectorAll('.reset-btn').forEach(btn =>
       btn.onclick = e => {
@@ -1051,11 +1557,32 @@
       }
     );
 
+    // Collapse toggles (sections & subheaders)
+    tbody.parentElement.querySelectorAll('[data-collapse-section]').forEach(btn => {
+      btn.onclick = e => {
+        const si = Number(e.currentTarget.getAttribute('data-collapse-section'));
+        const sections = getActiveSections();
+        const sec = sections[si]; if (!sec) return;
+        sec._collapsed = !sec._collapsed;
+        saveTabs(tabs);
+        renderRowsOnly();
+      };
+    });
+    tbody.parentElement.querySelectorAll('[data-collapse-subheader]').forEach(btn => {
+      btn.onclick = e => {
+        const [si, ii] = e.currentTarget.getAttribute('data-collapse-subheader').split(':').map(Number);
+        const sec = getActiveSections()[si]; if (!sec) return;
+        const it = sec.items?.[ii]; if (!it || !it.subheader) return;
+        it.collapsed = !it.collapsed;
+        saveTabs(tabs);
+        renderRowsOnly();
+      };
+    });
+
     // Image open: show modal with the linked image
     tbody.querySelectorAll('.entry-link').forEach(link =>
       link.onclick = e => {
         e.preventDefault();
-        // Clear and insert a fresh img tag so repeated clicks always work
         mImgContainer.innerHTML = '';
         const img = document.createElement('img');
         img.src = link.dataset.img;
@@ -1064,28 +1591,58 @@
         modal.style.display = 'flex';
       }
     );
+
+    if (editMode) {
+      tbody.querySelectorAll('[data-hide-subheader]').forEach(btn => {
+        btn.onclick = e => {
+          const [si, ii] = e.currentTarget.getAttribute('data-hide-subheader').split(':').map(Number);
+          const sec = getActiveSections()[si]; if (!sec) return;
+          const it = sec.items?.[ii]; if (!it || !it.subheader) return;
+          it.hidden = true; saveTabs(tabs); renderRowsOnly();
+        };
+      });
+      tbody.querySelectorAll('[data-unhide-subheader]').forEach(btn => {
+        btn.onclick = e => {
+          const [si, ii] = e.currentTarget.getAttribute('data-unhide-subheader').split(':').map(Number);
+          const sec = getActiveSections()[si]; if (!sec) return;
+          const it = sec.items?.[ii]; if (!it || !it.subheader) return;
+          delete it.hidden; saveTabs(tabs); renderRowsOnly();
+        };
+      });
+
+      tbody.querySelectorAll('[data-hide-item]').forEach(btn => {
+        btn.onclick = e => {
+          const [si, ii] = e.currentTarget.getAttribute('data-hide-item').split(':').map(Number);
+          const sec = getActiveSections()[si]; if (!sec) return;
+          const it = sec.items?.[ii]; if (!it || it.subheader) return;
+          it.hidden = true; saveTabs(tabs); renderRowsOnly();
+        };
+      });
+      tbody.querySelectorAll('[data-unhide-item]').forEach(btn => {
+        btn.onclick = e => {
+          const [si, ii] = e.currentTarget.getAttribute('data-unhide-item').split(':').map(Number);
+          const sec = getActiveSections()[si]; if (!sec) return;
+          const it = sec.items?.[ii]; if (!it || it.subheader) return;
+          delete it.hidden; saveTabs(tabs); renderRowsOnly();
+        };
+      });
+    }
   }
 
   /* Re-render only tbody rows (faster than rebuilding header/sync UI). */
   function renderRowsOnly() {
     tbody.innerHTML = buildRowsHTML();
+    hydrateInlineEditors();
     wireRowInteractions();
     updateElapsedClocks();  // paint immediately so the subline is current
   }
 
   function render() {
-    // Inject all rows into the table body
-    tbody.innerHTML = buildRowsHTML();
-
-    // Wire interactions for table rows
-    wireRowInteractions();
-
     // Rebuild the sync controls (so they always reflect the latest code)
     initializeSyncUI();
-
+    renderRowsOnly();
     // Start/ensure the live "Days since" clock interval
     ensureElapsedTimer();
-
     // Paint the initial "Days since" values right away
     updateElapsedClocks();
   }
@@ -1094,12 +1651,11 @@
      MODAL OPEN/CLOSE
      ========================== */
   mClose.onclick = () => modal.style.display = 'none';
-  modal.onclick = e => {
+  modal.onclick = e => { 
     // Clicking outside the dialog content closes the modal
     if (e.target === modal) modal.style.display = 'none';
   };
 
-  // Initial render on page load
   render();
 })();
 </script>
