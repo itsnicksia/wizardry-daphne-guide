@@ -94,6 +94,12 @@
     padding-left: 0.6rem;
   }
 
+  #tracker-container .reset-label {
+      display: inline-block;
+      font-size: 0.90em;     
+      opacity: 0.85;       
+    }
+
   /* ====== LINKS (OPEN IMAGE MODAL) ====== */
   #tracker-container .entry-link {
     color: var(--md-typeset-a-color);
@@ -230,9 +236,9 @@
   <ul>
     <li>Click an entry name to view its image (if it has one).</li>
     <li>Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.</li>
-    <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
     <li>Transfer acquisition status between devices with the sync code.</li>
-    <li>Note: Abyss maps can vary with sections shifted or swapped. Items shift as well but remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
+    <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
+    <li>Note: Abyss maps can vary sections shifted or swapped. Items shift as well but will remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
   </ul>
 
   <!-- This is where the sync UI (copyable code + paste-to-sync) appears -->
@@ -299,6 +305,50 @@
       hour:  'numeric',
       minute:'2-digit'
     });
+  }
+
+  /** 
+   * Parse an interval (in days) from an item's details text.
+   * Supports: "[30 days]", "every 7 days", "respawns every 1-2 days",
+   * respawns daily", "daily", "weekly", "monthly".
+   */
+  function parseIntervalDaysFromDetails(str) {
+    if (!str) return null;
+    let m;
+
+    // [30 days]
+    m = str.match(/\[(\d+)\s*days?\]/i);
+    if (m) return Number(m[1]);
+
+    // every 7 days / respawns every 7 days / produces one ... every 7 days
+    m = str.match(/\b(?:every|respawns?\s+every|produces?\s+one.*every)\s+(\d+)(?:\s*-\s*\d+)?\s*days?\b/i);
+    if (m) return Number(m[1]);
+
+    // respawns daily / daily
+    if (/\brespawns?\s+daily\b/i.test(str) || /\bdaily\b/i.test(str)) return 1;
+
+    // weekly
+    if (/\bweekly\b/i.test(str)) return 7;
+
+    // monthly (approximate as 30 days)
+    if (/\bmonthly\b/i.test(str)) return 30;
+
+    return null;
+  }
+
+  /** 
+   * Next reset that’s based on the user's last collected timestamp.
+   * If collected ts is missing, we return null (so we can show "after first collect").
+   */
+  function getNextResetFromCollected(ts, days) {
+    if (!ts || !days) return null;
+    const period = days * 24 * 60 * 60 * 1000;
+    const now = Date.now();
+
+    // Ensure the next future multiple of the period after ts
+    const elapsed = Math.max(0, now - ts);
+    const cycles = Math.floor(elapsed / period) + 1;
+    return new Date(ts + cycles * period);
   }
 
   /* ==========================
@@ -928,9 +978,30 @@
           : `<span>${it.title}</span>`;
 
         // Show either a reset label (if reset info exists) or details string
-        const details = it.reset
-          ? formatResetLabel(getNextResetDate(it.reset))
-          : (it.details || '');
+        // We'll need the collected timestamp once; use it for both details & ts column
+        const ts = data[it.id] || null;
+
+        // Build reset line:
+        // - If item.reset exists, use the anchored schedule
+        // - Else, try to infer days from details and base it on 'ts'
+        let computedResetHtml = '';
+        if (it.reset) {
+          computedResetHtml = `<span class="reset-label">${formatResetLabel(getNextResetDate(it.reset))}</span>`;
+        } else {
+          const inferredDays = parseIntervalDaysFromDetails(it.details || '');
+          if (inferredDays) {
+            const nextFromCollected = getNextResetFromCollected(ts, inferredDays);
+            computedResetHtml = `<span class="reset-label">${
+              nextFromCollected ? formatResetLabel(nextFromCollected) : 'Resets after first collect'
+            }</span>`;
+          }
+        }
+
+        // Final details HTML
+        const details = [
+          it.details || '',
+          computedResetHtml
+        ].filter(Boolean).join('<br>');
 
         // Primary action toggles between 'Collect' and 'Update'
         const actBtn = `<button class="action-btn">${done ? 'Update' : 'Collect'}</button>`;
@@ -938,10 +1009,7 @@
         // Reset button appears only when item has been collected
         const rstBtn = done ? `<button class="reset-btn" title="Undo">⟲</button>` : '';
 
-        // ====== NEW: Second column now shows:
-        //   Line 1: Localized timestamp
-        //   Line 2: Live "Days since (HH:MM:SS)" subline (updates every second)
-        const ts = data[it.id] || null;
+        // Last Collected column pieces
         const tsDate = formatDate(ts);
         const since  = formatDaysSinceWithClock(ts);
 
