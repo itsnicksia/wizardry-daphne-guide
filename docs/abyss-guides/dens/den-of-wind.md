@@ -1,5 +1,7 @@
 # Den of Wind
 
+Requirements: The Den of Wind is the third Den available to players.  It appears after completing the Second Abyss for the first time, after which it will appear in the Edge of Town list in the Royal Capital.
+
 ## Finding the Boss
 
 !!! map "Route to Boss"
