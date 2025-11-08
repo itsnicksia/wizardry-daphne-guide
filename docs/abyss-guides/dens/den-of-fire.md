@@ -1,5 +1,7 @@
 # Den of Fire
 
+Requirements:  The Den of Fire is the second den available to players. It appears after unlocking a new Right Hand of Reversal ability on the fourth level of the Second Abyss, after which it will appear in the Edge of Town list in the Royal Capital.
+
 ??? map "Den of Fire"
     ![](img/den-of-fire/den-of-fire-1.jpg)
 
