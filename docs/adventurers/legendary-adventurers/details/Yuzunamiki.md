@@ -109,6 +109,10 @@
 
     My advice?  Pull 3 copies of Yuzunamiki.  1 to use, 2 to level her "Hue" skill to level 3.  If you can justify it, get a Kunai too.  Even at just 1 copy she can be a great unit, a great inherit, or a big boost to your auto farming party.  She is definitely getting slotted into my team.
 
+??? note "Lynd's Pull Plan"
+
+    Much like the initial development of Captain America, I vanished from public eye and returned to a modern era of Wizardry mechanics, meta, and characters confused frightened even. I, howver, remain the lone beacon of hope amongst those who can't read or think. I don't know what she does or what the meta is but I say if pretty then pulling. 
+
 ## Duplicate Usage
 
 * Inherit on her own skill will increase its effectiveness.
