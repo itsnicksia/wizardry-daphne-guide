@@ -19,10 +19,10 @@ Blacksmithing becomes available early in the game after your party enters the fi
 - Traits - Additional characteristics or abilities of an item, that are often specific to item type (e.g., most Daggers have the "Nimble Strike" trait) or subgroup (e.g., Undead Bane weapons all have "Vs. Undead" traits).
 
 ## ^^Enhance^^
- - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item.
- - Enhancing an item to +5 and beyond requires different grades and quantities of iron ore to be used.   
- - At Enhancement Values of +5, +10, +15 and +20, it increases an item's Grade and unlocks a new Blessing in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectievly, or improves an existing Blessing if one already exists in that slot.
- - Enhancing items beyond +5, +10, and +15 requires unification (see below) to increase the Strength of the item.
+- Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item.
+- Enhancing an item to +5 and beyond requires different grades and quantities of iron ore to be used.   
+- Enhancing items beyond +5, +10, and +15 also requires unification (see below) to increase the Strength of the item.
+- At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectievly, or an existing Blessing in that slot is improved if it already exists.
 
 ### ^^Gold Cost for Enhancing^^
 <div class="nofilter-table nosort-table" markdown>
@@ -38,6 +38,8 @@ Blacksmithing becomes available early in the game after your party enters the fi
 </div>
 
 ### ^^Ore Type and Amounts for Enhancing^^
+
+#### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:  
 <div class="nofilter-table nosort-table" markdown>
 | Ore Grade         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
@@ -47,6 +49,15 @@ Blacksmithing becomes available early in the game after your party enters the fi
 | Fine Grade (gold) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
 </div>
 
+#### "Silver" Rank Equipment:  
+<div class="nofilter-table nosort-table" markdown>
+| Ore Grade         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
+|:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
+| Mid Grade (red)  |   0  |   0  |   0  |   0  |   1  |   2  |   3  |   4  |   5  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
+| High Grade (blue)   |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   1   |   2   |   3   |   4   |   5   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
+| Fine Grade (gold) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   1   |   2   |   3   |   4   |   5   |   0   |    15   |
+| Sliver Grade (silver) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
+</div>
 ### ^^Enhancement Values^^
 
 **These values may be inaccurate, and should be treated as estimates.**
