@@ -1,7 +1,7 @@
 # Den of Earth
 
 ??? info "About Dens"
-    The Den of Earth is the first Den available to players.  It is unlocked after defeating the Greater Warped One in the Beginning Abyss, and can be accessed from the Edge of Town in the Royal Capital.  
+    The Den of Earth is the first Den available to players.  It is unlocked after defeating the Greater Warped One in the Beginning Abyss, and after talking with Arna in the Royal Capital Adventurer's Guild it can be accessed from the Edge of Town.  
 
     All Dens are 1 floor dungeons where chests can give you [Blacksmithing Ore of different grades required for ehnancing gear beyond +4](../../equipment/blacksmithing.md#enhance) and Elemental armor and weapon junk matching the Den. (Earth, fire, air, and water gear are steel grade.)  Each den has one or two Boss fights on the way to the exit portal.    
 
