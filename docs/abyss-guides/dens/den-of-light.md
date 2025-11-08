@@ -3,7 +3,7 @@
 This den is different from the other dens in that there are green and yellow switches for certain big rooms around the map. Usually a green or yellow switch corresponds to the nearest big room. The final room also requires both a green and yellow switch to be pressed. For non-boss rooms, they may or may lead to paths that contain a chest (usually they don't).
 
 ??? note "Requirements"
-      This den is only unlocked after [Stopping the Blackmailer and saving the Duke](../3-guarda-fortress/important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
+      This den is only unlocked after [Stopping the Blackmailer and saving the Duke](../3-guarda-fortress/important-request-gwo.md#stop-the-blackmailer-and-save-the-duke) in the Third Abyss.
 
 The den drops Mid, High, and Fine grade ore randomly.
 
