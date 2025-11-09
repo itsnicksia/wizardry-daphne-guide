@@ -902,11 +902,11 @@
         { subheader: 'Trade Waterway' },
         { subheader: 'Chest Items' },
         {
-          id: 'a2-district3-manapots',
+          id: 'a2-distri1t3-manapots',
           title: 'Mana Potions x2',
-          details: 'Chest in 3rd District behind locked door (x:10, y:22). Respawns monthly.',
-          image: '',
-          clickable: false,
+          details: 'Chest in 1st District behind locked door (x:10, y:22). Respawns monthly.',
+          image: './img/other/respawning-mana-pot-a2-district1.jpg',
+          clickable: true,
         },
         {
           id: 'lightfoot_sandals',
