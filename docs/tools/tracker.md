@@ -715,56 +715,56 @@
           id: 'b1f_stench_quest',
           title: 'Class Remains: B1F (Death Stench Investigation Request)',
           details: 'Wheel to Kings Rescue, accept the Request in the Adventurers Guild, and head to the location. [30 days]',
-          image: '../img/bones/respawning-bone-death-stench.jpg',
+          image: 'img/bones/respawning-bone-death-stench.jpg',
           clickable: true
         },
         {
           id: 'b3f_goblin_south',
           title: 'Adventurer’s Remains: B3F (Goblin’s Nest - chest)',
           details: 'Wheel to Kings Rescue and head to the chest location south of the Goblin Nest entrance. [30 days]',
-          image: '../img/bones/respawning-bone-goblin-den.jpg',
+          image: 'img/bones/respawning-bone-goblin-den.jpg',
           clickable: true
         },
         {
           id: 'b3f_goblin_northeast',
           title: 'Adventurer’s Remains: B3F (Goblin’s Nest - Goblin Boss)',
           details: 'Wheel to Kings Rescue and head to the goblin fight in the northeast. [30 days]',
-          image: '../img/bones/respawning-bone-goblin-den.jpg',
+          image: 'img/bones/respawning-bone-goblin-den.jpg',
           clickable: true
         },
         {
           id: 'b4f_rubble',
           title: 'Adventurer’s Remains: B4F',
           details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
-          image: '../img/bones/respawning-bone-b4f.jpg',
+          image: 'img/bones/respawning-bone-b4f.jpg',
           clickable: true
         },
         {
           id: 'b5f_toxin_swamps',
           title: 'Adventurer’s Remains: B5F',
           details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
-          image: '../img/bones/respawning-bone-b5f.jpg',
+          image: 'img/bones/respawning-bone-b5f.jpg',
           clickable: true
         },
         {
           id: 'b6f_before_statue',
           title: 'Adventurer’s Remains: B6F',
           details: 'Same as above, you need to come in from B5F to take the portals. [7 days]',
-          image: '../img/bones/respawning-bone-b6f.jpg',
+          image: 'img/bones/respawning-bone-b6f.jpg',
           clickable: true
         },
         {
           id: 'b7f_rubble_reverse',
           title: 'Adventurer’s Remains: B7F',
           details: 'Same as below, you need to first drop the rocks on B8F. [30 days]',
-          image: '../img/bones/respawning-bone-b7f.jpg',
+          image: 'img/bones/respawning-bone-b7f.jpg',
           clickable: true
         },
         {
           id: 'b8f_nutrient',
           title: 'Adventurer’s Remains: B8F',
           details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
-          image: '../img/bones/respawning-bone-b8f.jpg',
+          image: 'img/bones/respawning-bone-b8f.jpg',
           clickable: true
         },
         { subheader: 'Trade Waterway' },
@@ -772,7 +772,7 @@
           id: 'trade_waterway_pier',
           title: 'Adventurer’s Remains: 7th District (Shore of the Dead)',
           details: 'Bone will not respawn after Abyss 2 GWO is killed. You will need to cursed wheel before then. [30 days]',
-          image: '../img/bones/respawning-bone-pier-location.jpg',
+          image: 'img/bones/respawning-bone-pier-location.jpg',
           clickable: true
         },
         { subheader: 'Impregnable Fortress' },
@@ -780,7 +780,7 @@
           id: 'fortress_catacombs',
           title: 'Adventurer’s Remains: Catacombs',
           details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location. [30 days]',
-          image: '../img/bones/respawning-bone-catacomb.jpg',
+          image: 'img/bones/respawning-bone-catacomb.jpg',
           clickable: true
         },
         { subheader: 'Other'},
@@ -902,11 +902,11 @@
         { subheader: 'Trade Waterway' },
         { subheader: 'Chest Items' },
         {
-          id: 'a2-district1-manapots',
+          id: 'a2-district3-manapots',
           title: 'Mana Potions x2',
-          details: 'Chest in 1st District behind locked door (x:10, y:22). Respawns monthly.',
-          image: '../img/other/respawning-mana-pot-a2-district1.jpg',
-          clickable: true,
+          details: 'Chest in 3rd District behind locked door (x:10, y:22). Respawns monthly.',
+          image: '',
+          clickable: false,
         },
         {
           id: 'lightfoot_sandals',
