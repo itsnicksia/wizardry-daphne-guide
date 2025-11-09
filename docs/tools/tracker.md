@@ -1131,6 +1131,30 @@
   const deepClone = obj => JSON.parse(JSON.stringify(obj));
   const BASE_SECTIONS = deepClone(SECTIONS);
 
+  // === OVERRIDES: user-edited text per item.id, per tab ===
+  const OVERRIDES_PREFIX = 'respawn_overrides__'; // storage key prefix per tab
+  function loadOverrides(tabId){
+    try { return JSON.parse(localStorage.getItem(OVERRIDES_PREFIX + tabId) || '{}'); } catch { return {}; }
+  }
+  function saveOverrides(tabId, overrides){
+    localStorage.setItem(OVERRIDES_PREFIX + tabId, JSON.stringify(overrides || {}));
+  }
+  // Helpers to read display values with overrides
+  function getDisplayTitle(it, overridesForTab){
+    const ov = overridesForTab[it.id];
+    return (ov && typeof ov.title === 'string' && ov.title.length) ? ov.title : it.title || '';
+  }
+  function getDisplayDetails(it, overridesForTab){
+    const ov = overridesForTab[it.id];
+    return (ov && typeof ov.details === 'string' && ov.details.length) ? ov.details : (it.details || '');
+  }
+
+  // === CONTENT VERSION + REBASE/MIGRATION ===
+  const CONTENT_VER_KEY = 'respawn_base_content_version_v3';
+  const BASE_CONTENT_VERSION = 3;
+
+  const deepEqual = (a,b) => JSON.stringify(a) === JSON.stringify(b);
+
   function loadTabs() {
     const raw = localStorage.getItem(TABS_KEY);
     let t;
@@ -1162,6 +1186,91 @@
     if (tabId) localStorage.setItem(dataKeyFor(tabId), payload); // mirror
   }
 
+  function createDefaultTab() {
+    return { id: 'default', name: 'Default', sections: deepClone(BASE_SECTIONS) };
+  }
+
+  // Helper: index items by id for diffing/migration
+  function indexItemsById(sections){
+    const map = {};
+    (sections || []).forEach(sec => {
+      (sec.items || []).forEach(it => { if (it && it.id && !it.subheader) map[it.id] = it; });
+    });
+    return map;
+  }
+
+  // === REBASE / MIGRATION: move user text edits to overrides and refresh base content ===
+  function rebaseTabsIfNeeded() {
+    const currentVer = Number(localStorage.getItem(CONTENT_VER_KEY) || 0);
+    if (currentVer >= BASE_CONTENT_VERSION) return;
+
+    // Build base index
+    const baseIdx = indexItemsById(BASE_SECTIONS);
+
+    // For each tab: migrate edits->overrides, preserve flags, replace sections with BASE_SECTIONS
+    tabs.forEach(tab => {
+      const prevSections = tab.sections || [];
+      const prevIdx = indexItemsById(prevSections);
+
+      // Load existing overrides (if any)
+      const ov = loadOverrides(tab.id);
+
+      // Collect user edits compared to new base:
+      // If stored title/details differ from BASE_SECTIONS, treat as user override.
+      Object.keys(prevIdx).forEach(id => {
+        const oldItem = prevIdx[id];
+        const baseItem = baseIdx[id];
+        if (!baseItem) return;
+
+        // Title override
+        if (typeof oldItem.title === 'string' && oldItem.title.length && oldItem.title !== baseItem.title) {
+          ov[id] = ov[id] || {};
+          ov[id].title = oldItem.title;
+        }
+        // Details override
+        if (typeof oldItem.details === 'string' && oldItem.details.length && oldItem.details !== (baseItem.details || '')) {
+          ov[id] = ov[id] || {};
+          ov[id].details = oldItem.details;
+        }
+      });
+
+      // Now clone fresh sections from base
+      const newSections = deepClone(BASE_SECTIONS);
+
+      // Re-apply hidden/collapsed flags to matching items by id
+      const newIdx = indexItemsById(newSections);
+      Object.keys(prevIdx).forEach(id => {
+        const oldItem = prevIdx[id], target = newIdx[id];
+        if (target) {
+          if (oldItem.hidden) target.hidden = true;
+          if (oldItem.collapsed) target.collapsed = true;
+        }
+      });
+
+      // Also preserve section-level _collapsed (by section order)
+      (newSections || []).forEach((sec, i) => {
+        if (prevSections[i] && prevSections[i]._collapsed) sec._collapsed = true;
+        // Preserve subheader hidden/collapsed by position (best-effort)
+        const prevItems = (prevSections[i] && prevSections[i].items) || [];
+        const newItems  = (sec.items || []);
+        for (let j=0; j<newItems.length; j++){
+          const pi = prevItems[j], ni = newItems[j];
+          if (!ni || !pi) continue;
+          if (pi.subheader && ni.subheader) {
+            if (pi.hidden)   ni.hidden = true;
+            if (pi.collapsed) ni.collapsed = true;
+          }
+        }
+      });
+
+      tab.sections = newSections;
+      saveOverrides(tab.id, ov);
+    });
+
+    saveTabs(tabs);
+    localStorage.setItem(CONTENT_VER_KEY, String(BASE_CONTENT_VERSION));
+  }
+
   let tabs = loadTabs();
 
   let currentTabId = getCurrentTabId();
@@ -1169,7 +1278,12 @@
     currentTabId = tabs[0].id;
     setCurrentTabId(currentTabId);
   }
+
+  // Run migration/rebase before reading data/overrides for active tab
+  rebaseTabsIfNeeded();
+
   let data = loadData(currentTabId);
+  let overrides = loadOverrides(currentTabId);
 
   /* ==========================
      DOM REFERENCES
@@ -1211,7 +1325,11 @@
     saveData(currentTabId, data);
     // --- keep Sync Code live without a full re-render ---
     const datasets = {};
-    (tabs || []).forEach(t => { datasets[t.id] = loadData(t.id) || {}; });
+    const overridesMap = {}; // === OVERRIDES in Export
+    (tabs || []).forEach(t => {
+      datasets[t.id] = loadData(t.id) || {};
+      overridesMap[t.id] = loadOverrides(t.id) || {};
+    });
     const payload = {
       tabs: (tabs || []).map(t => ({
         id: t.id,
@@ -1220,6 +1338,7 @@
       })),
       currentTabId,
       datasets,
+      overrides: overridesMap,
       showHidden: !!showHidden
     };
     const codeEl = document.getElementById('sync-code-input');
@@ -1250,11 +1369,16 @@
 
     // Build payload (tabs + per-tab timestamps)
     const datasets = {};
-    (tabs || []).forEach(t => { datasets[t.id] = loadData(t.id) || {}; });
+    const overridesMap = {};
+    (tabs || []).forEach(t => { 
+      datasets[t.id] = loadData(t.id) || {}; 
+      overridesMap[t.id] = loadOverrides(t.id) || {};
+    });
     const payload = {
       tabs: (tabs || []).map(t => ({ id: t.id, name: t.name, sections: t.sections })),
       currentTabId,
       datasets,
+      overrides: overridesMap,
       showHidden: !!showHidden
     };
 
@@ -1312,10 +1436,18 @@
           }
         }
 
+        // Import overrides per tab
+        const incomingOverrides = obj.overrides || {};
+        (tabs || []).forEach(t => {
+          const o = incomingOverrides[t.id] || {};
+          saveOverrides(t.id, o);
+        });
+
         currentTabId = tabs.find(x => x.id === obj.currentTabId)?.id || (tabs[0] && tabs[0].id);
         setCurrentTabId(currentTabId);
         saveData(currentTabId, merged);  // write once to global (+mirror)
         data = loadData(currentTabId);
+        overrides = loadOverrides(currentTabId);
 
         showHidden = !!obj.showHidden;
         render();
@@ -1349,6 +1481,7 @@
         currentTabId = t.id;
         setCurrentTabId(currentTabId);
         data = loadData(currentTabId);
+        overrides = loadOverrides(currentTabId);
         // Render immediately so the UI switches tabs without refresh
         render();
         // Then run the egg flow (best-effort; plays in modal)
@@ -1392,11 +1525,15 @@
         const curData = loadData(currentTabId) || {};
         saveData(id, JSON.parse(JSON.stringify(curData)));
 
+        // Start new tab with a copy of current overrides too (nice UX)
+        const curOv = loadOverrides(currentTabId) || {};
+        saveOverrides(id, JSON.parse(JSON.stringify(curOv)));
+
         setCurrentTabId(id);
         currentTabId = id;
         data = loadData(id);
+        overrides = loadOverrides(id);
 
-        // Update UI right away
         render();
         await checkEasterEggTabs();
       };
@@ -1456,6 +1593,7 @@
         const idx = tabs.findIndex(x => x.id === currentTabId);
         if (idx >= 0) {
           localStorage.removeItem(dataKeyFor(currentTabId));
+          localStorage.removeItem(OVERRIDES_PREFIX + currentTabId); // clear overrides for the tab
           tabs.splice(idx, 1);
 
           if (tabs.length === 0) {
@@ -1464,12 +1602,14 @@
             saveTabs(tabs);
             setCurrentTabId(dt.id);
             data = loadData(dt.id) || {};
+            overrides = loadOverrides(dt.id) || {};
           } else {
             saveTabs(tabs);
             const fallback = tabs.find(t => t.id === 'default') || tabs[0];
             currentTabId = fallback.id;
             setCurrentTabId(currentTabId);
             data = loadData(currentTabId);
+            overrides = loadOverrides(currentTabId);
           }
 
           initializeSyncUI();
@@ -1541,6 +1681,7 @@
   */
   function buildRowsHTML() {
     const sections = getActiveSections();
+    const ov = overrides || {}; // capture for display
     let html = '';
     // Build rows for each section and its items
     sections.forEach((sec, si) => {
@@ -1682,6 +1823,8 @@
 
   function hydrateInlineEditors() {
     const sections = getActiveSections();
+    const ov = overrides || {};
+
     sections.forEach((sec, si) => {
       const mount = document.getElementById(`sec-title-${si}`);
       if (!mount) return;
@@ -1706,17 +1849,18 @@
         if (titleMount) {
           // Build a safe node (anchor or span) without innerHTML
           let node;
+          const displayTitle = getDisplayTitle(it, ov); 
           if (it.clickable) {
             const a = document.createElement('a');
             a.href = '#';
             a.className = 'entry-link';
             a.dataset.img = it.image || '';
-            a.dataset.title = it.title || '';
-            a.textContent = it.title || '';
+            a.dataset.title = displayTitle;
+            a.textContent = displayTitle;
             node = a;
           } else {
             const span = document.createElement('span');
-            span.textContent = it.title || '';
+            span.textContent = displayTitle;
             node = span;
           }
           const widget = makeEditableLabel(node, 'item.title', 'title', si, ii);
@@ -1726,7 +1870,7 @@
         const detMount = document.getElementById(`details-${si}-${ii}`);
         if (detMount) {
           const span = document.createElement('span');
-          span.textContent = it.details ? it.details : ''; // sanitize => text only
+          span.textContent = getDisplayDetails(it, ov);
           const widget = makeEditableLabel(span, 'item.details', 'details', si, ii);
           detMount.replaceChildren(widget);
         }
@@ -1760,18 +1904,24 @@
       const sec = sections[si]; if (!sec) return;
 
       if (key === 'section.title') {
+        // Keep section title editing as-is (mutates tab snapshot).
         sec.title = val;
+        saveTabs(tabs);
       } else if (key === 'subheader') {
         const it = sec.items?.[ii]; if (!it || !it.subheader) return;
         it.subheader = val;
-      } else if (key === 'item.title') {
+        saveTabs(tabs);
+      } else if (key === 'item.title' || key === 'item.details') {
+        // === Write user edits to OVERRIDES (per item.id) instead of mutating base snapshot ===
         const it = sec.items?.[ii]; if (!it || it.subheader) return;
-        it.title = val;
-      } else if (key === 'item.details') {
-        const it = sec.items?.[ii]; if (!it || it.subheader) return;
-        it.details = val;
+        const tabOv = loadOverrides(currentTabId) || {};
+        tabOv[it.id] = tabOv[it.id] || {};
+        if (key === 'item.title') tabOv[it.id].title = val;
+        if (key === 'item.details') tabOv[it.id].details = val;
+        saveOverrides(currentTabId, tabOv);
+        overrides = tabOv; // refresh in-memory
       }
-      saveTabs(tabs);
+
       renderRowsOnly();
     };
     cancelB.onclick = () => renderRowsOnly();
@@ -1913,7 +2063,6 @@
   render();
 })();
 </script>
-
 
 <!--
 ==========================================
