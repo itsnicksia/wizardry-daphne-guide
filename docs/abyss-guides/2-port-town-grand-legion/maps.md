@@ -11,10 +11,16 @@
 Note: There are areas where you are carried by a strong current. You must unlock the ability to reverse the water statues. Some have a timer to become cursed again. Some areas will be completely submerged. You should lure monsters out of the water in these areas or they\`ll be stronger
 
 ??? map "1st District - Back Alley"
-    ![](./img/trade-waterways-1.jpg)
 
-    ??? note "About this floor"
+    !!! note
         - There are some locked doors here.  The key will become available to you later in the story and you can come back to collect any chests behind the doors.
+
+    === "Variation 1"
+        ![](./img/trade-waterways-1.jpg)
+
+    === "Variation 2"
+        ![](./img/trade-waterways-1-v2.jpg)
+        
 
 ??? map "2nd District - Black Market"
     ![](./img/trade-waterways-2.jpg)
