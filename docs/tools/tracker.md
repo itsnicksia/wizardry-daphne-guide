@@ -905,7 +905,7 @@
           id: 'a2-district1-manapots',
           title: 'Mana Potions x2',
           details: 'Chest in 1st District behind locked door (x:10, y:22). Respawns monthly.',
-          image: './img/other/respawning-mana-pot-a2-district1.jpg',
+          image: '../img/other/respawning-mana-pot-a2-district1.jpg',
           clickable: true,
         },
         {
