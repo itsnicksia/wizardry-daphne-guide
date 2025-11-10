@@ -6,7 +6,7 @@ Later you unlock the Cursed Wheel and can leap back in time to Awakening, relivi
 
 !!! map "Place of Awakening map"
     ![Place of Awakening map](../0-introduction/img/place-of-awakening.jpg)  
-    *Now* you have the ability to reverse the piles of rubble and only now, immediately after Awakening, is that teleporter active.  It seems to make no difference if you do it before or after meeting Lulunare, but stepping into that portal teleports you to a new dungeon, with more rubble to reverse.  This new dungeon has the enigmatic name "???".  
+    *Now* you have the ability to reverse the piles of rubble and only now, immediately after Awakening, is that teleporter active.  It seems to make no difference if you do it before or after meeting Lulunarde, but stepping into that portal teleports you to a new dungeon, with more rubble to reverse.  This new dungeon has the enigmatic name "???".  
 
 !!! map "???"
     ![???](./img/question-question-question-map.jpg)  
