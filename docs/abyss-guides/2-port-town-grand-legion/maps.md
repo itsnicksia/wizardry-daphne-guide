@@ -9,6 +9,7 @@
     - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for Abyss 3.
     - ==Do not sell all of the Sahuagin Scales you obtain== as you begin this Abyss, as they are needed for a mandatory late main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.
     - Part of fully completing this Abyss involves finding and reading all of the Mermaid statues.  Some cannot be reached until learning the ability to reverse the water statues, and one cannot be read on the first play-through. Their locations:  
+
         - District 2: 2  
         - District 3: 2  
         - District 4: 2  
