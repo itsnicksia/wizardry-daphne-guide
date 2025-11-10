@@ -9,7 +9,7 @@
     - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for Abyss 3.
     - ==Do not sell all of the Sahuagin Scales you obtain== as you begin this Abyss, as they are needed for a mandatory late main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.
 
-Note: There are areas where you are carried by a strong current. You must unlock the ability to reverse the water statues. Some have a timer to become cursed again. Some areas will be completely submerged. You should lure monsters out of the water in these areas or they will be stronger and faster.
+!!! note "There are areas where you are carried by a strong current. You must unlock the ability to reverse the water statues. Some have a timer to become cursed again. Some areas will be completely submerged. You should lure monsters out of the water in these areas or they will be stronger and faster."
 
 ??? map "1st District - Back Alley"
 
