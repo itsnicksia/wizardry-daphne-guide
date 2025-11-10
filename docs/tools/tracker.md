@@ -926,8 +926,8 @@
           id: 'man_eater',
           title: 'Man-Eater',
           details: 'Chest in 5th District (x:6, y:23)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-man-eater-a2-district5',
+          clickable: true,
         },
         {
           id: 'mask_water_deity',
