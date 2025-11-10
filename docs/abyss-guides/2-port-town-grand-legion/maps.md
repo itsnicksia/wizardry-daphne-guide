@@ -1,13 +1,13 @@
 # The Trade Waterways
 
 !!! note 
-    Certain floors have tile variations that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Key events on variable tiles do always occur in the same rooms on those moved tiles, so look for similar features.
+    Certain floors have tile variations that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features.
 
 ??? note "Some tips for this Abyss before starting"
     - To make the run easier, one can grind out Undead March Request from the Beginning Abyss to get to level 40 and complete the Grade Up exam.
-    - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from Earth Den BF1.  Many monsters are also "Magical Beasts", so characters or weapons with the "Magical Beast-Slayer" trait would also be useful.
-    - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for the next Abyss.
-    - ==Do not sell all of your Sahuagin Scales== when obtaining them as you begin this Abyss, as they are needed for a mandatory main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.
+    - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from Earth Den BF1.  Many monsters are also "Magical Beasts", so characters and weapons with the "Magical Beast-Slayer" trait are also  useful.
+    - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for Abyss 3.
+    - ==Do not sell all of the Sahuagin Scales you obtain== as you begin this Abyss, as they are needed for a mandatory late main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.
 
 Note: There are areas where you are carried by a strong current. You must unlock the ability to reverse the water statues. Some have a timer to become cursed again. Some areas will be completely submerged. You should lure monsters out of the water in these areas or they\`ll be stronger
 
@@ -21,8 +21,6 @@ Note: There are areas where you are carried by a strong current. You must unlock
 
     !!! note
         - There are some locked doors here.  The key will become available to you later in the story and you can come back to collect any chests behind the doors.
-
-
 
 ??? map "2nd District - Black Market"
     ![](./img/trade-waterways-2.jpg)
