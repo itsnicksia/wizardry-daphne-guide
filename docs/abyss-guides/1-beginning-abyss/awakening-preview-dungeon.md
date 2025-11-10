@@ -9,11 +9,11 @@ Later you unlock the Cursed Wheel and can leap back in time to Awakening, relivi
     *Now* you have the ability to reverse the piles of rubble and only now, immediately after Awakening, is that teleporter active.  It seems to make no difference if you do it before or after meeting Lulunare, but stepping into that portal teleports you to a new dungeon, with more rubble to reverse.  This new dungeon has the enigmatic name "???".  
 
 !!! map "???"
-    ![???](./img/question-question-question-map.jpg)
+    ![???](./img/question-question-question-map.jpg)  
     There's not much here. You'll see a preview of the Beginning Abyss dungeon style, a few more rubble piles to reverse, one chest containing a Worn-Out One-Handed Axe, and another teleporter. This teleporter takes you to ...  another "dungeon" floor that looks strangely like a flooded city.  This time it has a name:  "Cave of Water".  
 
 !!! map "Cave of Water"
-    ![???](./img/cave-of-water-map.jpg)
+    ![???](./img/cave-of-water-map.jpg)  
     Your ability to explore the Cave of Water is limited by a strong current coming from a serpent-shaped statue.  As anyone can tell you who has progressed to the Second Abyss Trade Waterways dungeon in Port Town, this dungeon is giving a preview of that Abyss style.  Once you have unlocked the Right Hand of Reversal ability to turn off the water you can find another chest (this time with a Worn-Out Two-Handed Staff) and another teleporter that takes you to...  another dungeon.  This one is named "Cave of Rock", and unsurprisingly is a preview dungeon for Abyss 3, the Impregnable Fortress in Guarda.  
 
 !!! map "Cave of Rock"
