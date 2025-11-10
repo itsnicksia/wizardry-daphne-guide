@@ -829,9 +829,9 @@
         {
           id: 'abyss_b5f_huntsman',
           title: 'Huntsmans Bow',
-          details: 'Chest in B5F Southwest 3-chest room (x:8, y:3)',
-          image: '',
-          clickable: false,
+          details: 'Chest in B5F Southwest 3-chest room (x:8, y:2)',
+          image: '/tools/img/other/respawning-huntsman-bow-a1-b5f.jpg',
+          clickable: true,
         },
         {
           id: 'abyss_b5f_breeze',
