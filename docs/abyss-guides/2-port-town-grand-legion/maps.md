@@ -40,13 +40,11 @@
     !!! note "About this floor"
         - Your first scripted battle is on this floor against a Lizard Commander, at the end of the floor.  This is a strong enemy with a lot of armor.  The best strategy is to block and create openings if your team is undergeared and/or underleveled.
 
-
 ??? map "4th District - Boulevard"
-    
-    !!! note 
-        When you’re locked in the room and drowning, you need to attempt to leave the area through both the upper left and upper right sections of the room you’re in, as well as attempt to go back into the current before you’re able to activate the statue to drain the water. Heal with items as needed and take as few steps as possible\!  (Some people have reported -version 1.13.0 and later- being unable to progress unless you first try to 'use' the statue, then try and fail to walk into all three paths out, and then try one more time to 'use' the statue.)
-
     ![](./img/trade-waterways-4.jpg)
+
+    !!! note 
+        When you’re locked in the room and drowning, you need to attempt to leave the area through (1) the upper left and (2) upper right sections of the room you’re in, as well as (3) attempt to go back into the current before you’re able to activate the statue to drain the water. Heal with items as needed and take as few steps as possible\!  (Some people have reported -version 1.13.0 and later- being unable to progress unless you first try to 'use' the statue, then try and fail to walk into all three paths out, and then try one more time to 'use' the statue. If you have repeat trouble you can try getting to this area with just the main character to avoid having to resurrect your whole team.)
 
 ??? map "5th District - Sunken City"  
 
