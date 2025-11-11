@@ -87,7 +87,12 @@
     ![](./img/ship-level-2.jpg)
 
     !!! note "About this floor"
-        Welcome to the farming floor. You will mainly be seeing this floor after coming up from the Lower Deck 1 Harken to farm the chests that spawn nearby the entrance. There are more scripted fights here related to the main story that will all take place in submerged areas. Remember to bring scrolls for your spellcasters!
+        Welcome to the farming floor. You will mainly be seeing this floor after coming up from the Lower Deck 1 Harken to farm the chests that spawn in the northern half of the floor. There are more scripted fights here related to the main story that will all take place in submerged areas. Remember to bring scrolls for your spellcasters, and look for the statues to temporarily drain the water!  
+        Talking to the person blocking the stairs will tell you you need three arena tickets to go to the Upper Deck. We obtain these in the usual manner: murder.  You will need to win three fights in submerged areas at the locations shown below. Don't forget to reverse the nearby statuse to get a little time before they re-flood.
+        ??? map Ticket fight locations
+            ![](./img/a2-arena-ticket-fight-locations.jpg)
+
+        
 
 ??? map "Upper Deck -Arena-"
     ![](./img/arena.jpg)
