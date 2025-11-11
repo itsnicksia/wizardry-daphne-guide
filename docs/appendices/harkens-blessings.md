@@ -34,6 +34,7 @@
 | <span class="green">Protection of Water Barrier</span>             | Harken's Blessing has increased the damage your Water Type Resistance.                                                                       |
 | <span class="blue">Bind Rejecting Immunity</span>                  | Harken's Blessing has increased your Bind Tolerance, Sleep Tolerance, and Charm Tolerance.                                                   |
 | <span class="blue">Blessing of Agility II</span>                   | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
+| <span class="blue">Blessing of Close-Quarters Combat II</span>     | Harken's Blessing has increased your Attack Power, Defense Power, and Resistance.                                                            |
 | <span class="blue">Blessing of Mana II</span>                      | Harken's Blessing has increased your Magic Power, Divine Power.                                                                              |
 | <span class="blue">Blessing of Od II</span>                        | Harken's Blessing has increased your Attack Power and Defense Power.                                                                         |
 | <span class="blue">Blessing of Quarantine II</span>                | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
