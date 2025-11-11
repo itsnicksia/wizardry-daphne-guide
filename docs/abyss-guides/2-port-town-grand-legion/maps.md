@@ -43,7 +43,7 @@
 ??? map "4th District - Boulevard"
     ![](./img/trade-waterways-4.jpg)
 
-    !!! note 
+    !!! note "About this floor"
         When you’re locked in the room and drowning, you need to attempt to leave the area through (1) the upper left and (2) upper right sections of the room you’re in, as well as (3) attempt to go back into the current before you’re able to activate the statue to drain the water. Heal with items as needed and take as few steps as possible\!  (Some people have reported -version 1.13.0 and later- being unable to progress unless you first try to 'use' the statue, then try and fail to walk into all three paths out, and then try one more time to 'use' the statue. If you have repeat trouble you can try getting to this area with just the main character to avoid having to resurrect your whole team.)
 
 ??? map "5th District - Sunken City"  
