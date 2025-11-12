@@ -25,7 +25,7 @@
 ??? map "B3F -Cave-In Zone-"
 
     !!! note
-        You can continue your way through until the story makes you examine the rocks. Examine all surrounding surfaces enough times and you can reverse the rocks and proceed. Make sure you reverse all rocks and find the cause of death of your friends for important knowledge. There's a camp where it restores all your hp/mp/sp. It can be used once each time you enter the labyrinth. The Goblin's nest is not worth doing, leave it.
+        You can continue your way through until the story makes you examine the rocks. Examine all surrounding surfaces enough times and you can reverse the rocks and proceed. Make sure you reverse all rocks and find the cause of death of your friends for important knowledge. There's a camp where it restores all your hp/mp/sp. It can be used once each time you enter the labyrinth. The Goblin's nest is not worth doing. Listen yo Lulu, leave it for later.
 
     === "Variation 1"
         ![](./img/beginning-abyss-b3f-v1.jpg)
@@ -36,7 +36,7 @@
 ??? map "B4F -Labyrinth"
 
     !!! note
-        First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it. those two chests in the northwest? you can only pick one (the left has an adventurer's bone). Oh, and watch out for the rabbits. They've got a vicious streak a mile wide.
+        First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it. Those two chests in the northwest? You can only pick one (the left has an adventurer's bone). Oh, and watch out for the rabbits. They've got a vicious streak a mile wide.
 
     === "Variation 1"
         ![](./img/beginning-abyss-b4f-v1.jpg)     
