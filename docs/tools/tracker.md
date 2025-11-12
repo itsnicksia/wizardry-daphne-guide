@@ -808,7 +808,7 @@
         {
           id: 'abyss_b3f_exorcism',
           title: 'Exorcism Armor',
-          details: 'Chest in B3F (x:0, y:3)',
+          details: 'Chest in B3F (x:24, y:9)',
           image: '',
           clickable: false,
         },
