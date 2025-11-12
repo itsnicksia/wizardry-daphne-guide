@@ -854,8 +854,14 @@
           image: '',
           clickable: false,
         },
-
         { subheader: 'Request Rewards' },
+        {
+          id: 'a1_royal_family_ring',
+          title: 'Royal Family Ring',
+          details: 'Optional request Reward from "Sweet Walnut Collection"',
+          image: '',
+          clickable: false,
+        },
         {
           id: 'bracelet_of_urgency',
           title: 'Bracelet of Urgency',
