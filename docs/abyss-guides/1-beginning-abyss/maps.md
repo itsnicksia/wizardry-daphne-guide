@@ -36,7 +36,7 @@
 ??? map "B4F -Labyrinth"
 
     !!! note
-        First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it. Oh, watch out for the rabbits. They've got a vicious streak a mile wide.
+        First time here? You get to watch your friends die. Second time here? Fix it with the wheel! This is the first time the game shows you raising a stone will lower and raise certain paths, that's really it. those two chests in the northwest? you can only pick one (the left has an adventurer's bone). Oh, and watch out for the rabbits. They've got a vicious streak a mile wide.
 
     === "Variation 1"
         ![](./img/beginning-abyss-b4f-v1.jpg)     
