@@ -1,11 +1,11 @@
 # Plot of the Sand Shadow
 
-!!! item "This event is permanently available!"
+!!! item "This event is permanently available."
 
-## How to participate:
+## How to enable:
 
-- Part 1: Complete Abyss 3 up to the Cursed Wheel Point "Hidden Passage"
-- Part 2: Achieve any ending for Abyss 3
+- Part 1: [Guarda Fortress](https://wizardry.fasterthoughts.io/abyss-guides/3-guarda-fortress/maps/) (Abyss 3) complete up to the Cursed Wheel Point: "Hidden Passage".
+- Part 2: Guarda Fortress complete with any ending.
 
 ## Guide for 1st Part:
 
