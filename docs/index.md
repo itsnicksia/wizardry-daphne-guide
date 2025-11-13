@@ -102,10 +102,22 @@ Good Luck, and **Savor the Risk!**
 - SocialX
 - nrjank
 
-## Resources
+## Additional Resources
 
 [Official Wizardry Portal](https://wizardry.info/en)  
 [Wizardry Subreddit](https://www.reddit.com/r/wizardry/)  
 [Wizardry Daphne Subreddit](https://www.reddit.com/r/WizardryDaphne/)  
 [Wizardry Wiki](https://wizardry.wiki.gg/wiki/Wizardry_Wiki)  
 [Wizardry Subreddit and Wiki Discord](https://discord.gg/cknNfGG7YC)
+
+## Additional Community Links
+
+While we love that you come to this site for your Wizardry Variants Daphne needs, we recognize that there are many folks in the community out there that have their own spreadsheets, Discord servers, and various other resources. If you're interested in having a link to your stuff here, feel free to reach out to any of the Fasterthoughts maintainers in Discord above!
+
+- [Beautiful Demise's Relic Database](https://docs.google.com/document/d/17V8hpp1BenAwvIckacvj4JCiiFsNsTq1QPmNFXlaAjw/edit?tab=t.0)
+    - We'll eventually absorb this one into the site, but until then, check out out!
+- [Beautiful Demise's Solo MC Adventurers](https://drive.google.com/drive/u/1/folders/1DqcTdBC1u6NfRLZzvsJ-z3CRWtWX_N0p)
+    - Follow along with her in this commented directory of images and videos as she takes MC through as much content as possible solo
+- [CQ's Jeweler Price Evaluator](https://docs.google.com/spreadsheets/d/1ITOduyH5KIfmxcwUk7lXLROQUHE0v4iJXKY7bJ3MwIU/edit?gid=1551869307#gid=1551869307)
+    - We'll also eventually absorb this one into the site, but for now, look at it here
+- [Shiro's Not So Short Guide Spreadsheet](https://docs.google.com/spreadsheets/d/1ft6ovj212BiTIBlWihbFX2robYwwevsi0jJzkzo6E3s/edit?gid=1465709314#gid=1465709314)
