@@ -21,8 +21,11 @@ nav:
         - Details: './legendary-adventurers/details/Berkanan.md'
         - Life Story: './legendary-adventurers/life-stories/Berkanan.md'
     - Debra:
-        - Details: './legendary-adventurers/details/Debra.md'
-        - Life Story: './legendary-adventurers/life-stories/Debra.md'
+        - Details: './legendary-adventurers/details/Debra.md'  
+        - Life Story: './legendary-adventurers/life-stories/Debra.md'  
+    - Erwin:  
+        - Details: './legendary-adventurers/details/Erwin.md'  
+        - Life Story: './legendary-adventurers/life-stories/Erwin.md'  
     - Galbadus:
         - Details: './legendary-adventurers/details/Galbadus.md'
         - Life Story: './legendary-adventurers/life-stories/Galbadus.md'
