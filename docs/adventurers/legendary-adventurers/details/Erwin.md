@@ -8,9 +8,9 @@
 **Class Change**:  
 **Role**: Damage, Support
 
-??? info "Portraits"
-    <!-- === "Mage"
-        ![](../img/shelirionach-mage.jpg) -->
+??? info "Portraits"  
+    === "Mage"  
+        ![](../img/erwin-mage.jpg)  
 
 ## Skills
 
