@@ -13,16 +13,16 @@ There are several map variations, and are random upon entering. It is not necess
 !!! note "All the maps here are the same as that of the Fighter/Mage Proving Grounds."
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.jpg)
+    ![](img/fighter-map-1.png)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.jpg)
+    ![](img/fighter-map-2.png)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-4.jpg)
+    ![](img/fighter-map-4.png)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-5.jpg)
+    ![](img/fighter-map-5.png)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
@@ -38,6 +38,6 @@ There are several map variations, and are random upon entering. It is not necess
     - This fight consists of three Minotaurs in a row. The middle one is very resistant to physical damage.
 
 ??? note "Master Knight's Ring"
-    ![](img/knight-ring.jpg)
+    ![](img/knight-ring.png)
     - The Knight's Ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines.
 
