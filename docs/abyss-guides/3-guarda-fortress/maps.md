@@ -1,5 +1,8 @@
 # Guarda Fortress
 
+!!! note "Many floors have tile variations (shifts and rotations)
+that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features."  
+
 ## Key Mechanics
 
 ??? note "Corruption"
@@ -30,9 +33,6 @@ There are three routes to choose for the Gaurda Fortress Abyss:
 3. Admiral Avare
 
 You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" request from the **Royal Capital Luknalia** Adventurer's Guild.
-
-!!! note "Many floors have tile variations (shifts and rotations)
-that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features."  
 
 ??? map "Zone 1 -Old Secret Passage B1F-"
     ![](./img/zone-1-old-secret-passage-b1f.jpg)
