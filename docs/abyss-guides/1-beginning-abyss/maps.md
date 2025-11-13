@@ -1,7 +1,7 @@
 # The Beginning Abyss
 
 !!! note
-    Certain floors have tile variations that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Key events on variable tiles do always occur in the same rooms on those tiles, so look for similar features. 
+    Certain floors have tile variations variations (shifts and rotations) that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Key events on variable tiles do always occur in the same rooms on those tiles, so look for similar features. 
 
 ??? map "B1F -Pit-"
 
