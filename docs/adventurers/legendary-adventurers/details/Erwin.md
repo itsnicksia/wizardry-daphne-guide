@@ -9,8 +9,8 @@
 **Role**: Damage, Support
 
 ??? info "Portraits"
-    === "Mage"
-        ![](../img/shelirionach-mage.jpg)
+    <!-- === "Mage"
+        ![](../img/shelirionach-mage.jpg) -->
 
 ## Skills
 
