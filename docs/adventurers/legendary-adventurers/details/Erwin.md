@@ -14,15 +14,15 @@
 
 ## Skills
 
-<!-- !!! info "Unique Skill (Inheritable)"
-    === "Eyes That Know the Future"
-        {{ get_skill_description('Eyes That Know the Future') }}
+ !!! info "Unique Skill (Inheritable)"
+    === "Flame of Gluttony"
+        {{ get_skill_description("Flame of Gluttony") }}
 
 !!! info "Unique Skill (Not Inheritable)"
-    === "Dream of the Sleeping Witch"
-        {{ get_skill_description('Dream of the Sleeping Witch') }}
+    === "Spellcraft Bookmark"
+        {{ get_skill_description("Spellcraft Bookmark") }}
 
-!!! info "Discipline Skill"
+<!--!!! info "Discipline Skill"
     === "Child of the Sacred Tree"
         {{ get_skill_description('Child of the Sacred Tree') }} -->
 
