@@ -8,10 +8,13 @@
 **Class Change**:  
 **Role**: Support, Damage
 
-??? info "Portraits"
-    === "Thief"
-        ![](../img/aldric-thief.jpg)
+??? info "Portraits"  
+    === "Thief"  
+        ![](../img/aldric-thief.jpg)  
 
+    === "Fighter"  
+        ![](../img/aldric-fighter.jpg)  
+        
 ## Skills
 
 !!! info "Unique Skill (Inheritable)"
