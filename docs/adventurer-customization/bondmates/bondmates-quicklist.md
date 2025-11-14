@@ -61,6 +61,6 @@
 
 | Bondmate        | Event                       | Details       | Effect            | Element | Max Level | Stat 1 | Stat 2 |
 |:----------------|:----------------------------|:--------------|:------------------|:--------|:----------|:-------|:-------|
-| Mischievous Pan | Pixie and the Secret Garden | True Ending 3 | Poison Tolerance  | Earth   | 5         | 12     |        |
-| Willful Theo    | Pixie and the Secret Garden | True Ending 4 | Magic Power     | Air     | 5         | 20     |        |
+| Mischievous Pan | Pixie and the Secret Garden | True Ending 4 | Magic Power   | Air   | 5         | 12     |        |
+| Willful Theo    | Pixie and the Secret Garden | True Ending 3 | Poison Tolerance     | Earth     | 5         | 20     |        |
 
