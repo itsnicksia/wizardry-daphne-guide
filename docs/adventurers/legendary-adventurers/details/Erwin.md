@@ -78,4 +78,4 @@
 
 ??? note "Karkarov's Pull Plan"
 
-    Do you play Daphne in Japanese VA and want to trick yourself into believing Detective Conan has joined your adventuring party?  Well then, pull, cause Edwin is voiced by the Japanese VA of Detective Conan, no joke Drecom confirmed it.  Are you anyone else?  For the love of christ do not spend one single gem on this terrible character.  Edwin is literally in the running for being the worst legendary in the game.  Even if he isn't he is 100% in the bottom 3.
+    Do you play Daphne in Japanese VA and want to trick yourself into believing Detective Conan has joined your adventuring party?  Well then, pull, cause Erwin is voiced by the Japanese VA of Detective Conan, no joke Drecom confirmed it.  Are you anyone else?  For the love of christ do not spend one single gem on this terrible character.  Edwin is literally in the running for being the worst legendary in the game.  Even if he isn't he is 100% in the bottom 3.
