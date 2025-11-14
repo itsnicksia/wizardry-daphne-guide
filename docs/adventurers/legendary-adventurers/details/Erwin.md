@@ -22,9 +22,9 @@
     === "Spellcraft Bookmark"
         {{ get_skill_description("Spellcraft Bookmark") }}
 
-<!--!!! info "Discipline Skill"
-    === "Child of the Sacred Tree"
-        {{ get_skill_description('Child of the Sacred Tree') }} -->
+!!! info "Discipline Skill"
+    === "Old Sage With the Baby Face"
+        {{ get_skill_description("Old Sage With the Baby Face") }} -->
 
 ## Adventurer Reviews
 
