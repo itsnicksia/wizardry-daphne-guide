@@ -909,7 +909,7 @@
         { subheader: 'Chest Items' },
         {
           id: 'a2-district1-manapots',
-          title: 'Mana Potions x2',
+          title: 'Mana Elixers x2',
           details: 'Chest in 1st District behind locked door (x:10, y:22). Respawns monthly.',
           image: '/tools/img/other/respawning-mana-pot-a2-district1.jpg',
           clickable: true,
@@ -932,7 +932,7 @@
           id: 'man_eater',
           title: 'Man-Eater',
           details: 'Chest in 5th District (x:6, y:23)',
-          image: '/tools/img/other/respawning-man-eater-a2-district5',
+          image: '/tools/img/other/respawning-man-eater-a2-district5.jpg',
           clickable: true,
         },
         {
@@ -945,9 +945,9 @@
         {
           id: 'a2-ship2-manapots',
           title: 'Mana Elixers x3',
-          details: 'Chest in Ship 2 Treasure Room (x:14, y:13). Respawns monthly.',
-          image: '',
-          clickable: false,
+          details: 'Chest in Ship 2 Treasure Room (x:14, y:13) with 2x Deep-Water Gleaming Crystals. Respawns monthly.',
+          image: '/tools/img/other/respawning-mana-pot-a2-ship2.jpg',
+          clickable: true,
         },
 
         { subheader: 'Request Rewards' },
