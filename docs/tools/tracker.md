@@ -1024,6 +1024,13 @@
           image: '',
           clickable: false,
         },
+          {
+          id: 'goats_cloak_a3_chest',
+          title: 'Goatskin Cloak',
+          details: 'Chest in Zone 6 (x:24, y:14)',
+          image: '/tools/img/other/respawning-goatskin-cloak-a3-zone6.jpg',
+          clickable: true,
+        },
         {
           id: 'a3_z9_mana_pots',
           title: 'Mana Elixir x3',
@@ -1062,7 +1069,7 @@
           clickable: false,
         },
         {
-          id: 'goats_cloak',
+          id: 'goats_cloak_a3reward',
           title: 'Goatskin Cloak',
           details: 'Request Reward from "Antique Scarlet Doll" or Chest in Zone 6',
           image: '',
