@@ -973,7 +973,7 @@
           clickable: false,
         },
         {
-          id: 'oktonaras_necklace',
+          id: 'octonaras_necklace',
           title: 'Octonarus’s Necklace',
           details: 'Defeat Octonarus after giving Melgina the Titanium Knife',
           image: '',
@@ -1025,11 +1025,11 @@
           clickable: false,
         },
         {
-          id: 'soul_potion_d9',
+          id: 'a3_z9_mana_pots',
           title: 'Mana Elixir x3',
           details: 'Chest in Zone 9 (x:16, y:0). Respawns monthly.',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-mana-pot-a3-office.jpg',
+          clickable: true,
         },
 
         { subheader: 'Request Rewards' },
