@@ -1,3 +1,9 @@
 .nofilter-table {}  /*placeholder style to enable disabling table filter*/
 
-.nosort-table {}    /*placeholder style to enable disabling table sorting*/
+.nosort-table {}    /*placeholder style to enable disabling table sorting */
+
+.md-typeset .narrow-table table th,
+.md-typeset .narrow-table table td {
+    min-width: max-content;
+    white-space: pre-line;
+}
