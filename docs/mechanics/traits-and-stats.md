@@ -210,6 +210,8 @@ Your stats page power is calculated through the following formula, which factors
         * `Priest Weapon Mastery` adds a rounded `PIE * 0.2` to Attack Power.
     * Stat values from passive weapon properties such as `I.Q. Conversion`.
         * `I.Q. Conversion` adds a rounded `IQ * 0.2` to Attack Power.
+    * Relicbrews.
+    * Stat-boosting bondmates. Note that trait-boosting bondmates actually modify the `TraitPoint` value.
 
 ### Strength+
 
@@ -219,6 +221,7 @@ Strength+ is a unique property that appears on 2h weapons that adds a portion of
 | -------------- | -------------------- | ------------------------- |
 | Steel or Lower | 0.75                 | STR * ClassMod * 0.75     |
 | Ebonsteel      | 1                    | STR * ClassMod * 1        |
+| Unnamed Tier   | 1.1                  | STR * ClassMod * 1.1      |
 
 ## Resistance
 
