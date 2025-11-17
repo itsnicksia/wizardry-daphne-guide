@@ -688,15 +688,15 @@
           id: 'furnace_tallow',
           title: 'Tallow of Bone Summoning - Furnace of Deathsmoke',
           details: 'Furnace of Deathsmoke located at the Ancient Mausoleum selection screen. Produces one tallow every 7 days.',
-          image: '', 
-          clickable: false
+          image: '/abyss-guides/ancient-mausoleum/img/maus-furnace.jpg', 
+          clickable: true
         },
         {
           id: 'bonepicker_tallow',
           title: 'Tallow of Bone Summoning - Bone Picker',
           details: 'The wandering Bone Picker will sell you one tallow for 10,000gp every 7 days.',
-          image: '', 
-          clickable: false
+          image: '/abyss-guides/1-beginning-abyss/img/a1-bone-picker.jpg', 
+          clickable: true
         }
       ]
     },
@@ -788,8 +788,8 @@
           id: 'bonepicker_bone',
           title: 'Adventurer’s Remains - Bone Picker',
           details: 'The wandering Bone Picker will sell you one set of Adventurer’s Remains for 1,000gp every 7 days.',
-          image: '',
-          clickable: false
+          image: '/abyss-guides/1-beginning-abyss/img/a1-bone-picker.jpg', 
+          clickable: true
         }
       ]
     },
