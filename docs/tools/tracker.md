@@ -779,7 +779,7 @@
         {
           id: 'fortress_catacombs',
           title: 'Adventurer’s Remains: Catacombs',
-          details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location. [30 days]',
+          details: 'You will need to solve the candle puzzle to open the door to that location. (x:2, y:19) [30 days]',
           image: '/tools/img/bones/respawning-bone-catacomb.jpg',
           clickable: true
         },
