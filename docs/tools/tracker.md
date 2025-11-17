@@ -735,7 +735,7 @@
         {
           id: 'b4f_rubble',
           title: 'Adventurer’s Remains: B4F',
-          details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. It's in the Left chest. If you take the one on the Right, the bone chest disappears! [30 days]',
           image: '/tools/img/bones/respawning-bone-b4f.jpg',
           clickable: true
         },
@@ -763,7 +763,7 @@
         {
           id: 'b8f_nutrient',
           title: 'Adventurer’s Remains: B8F',
-          details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. Watch out, this chest might be a mimic. [30 days]',
           image: '/tools/img/bones/respawning-bone-b8f.jpg',
           clickable: true
         },
@@ -802,29 +802,29 @@
           id: 'abyss_b1f_feathered',
           title: 'Feathered Cap',
           details: 'Chest in B1F 3-chest room (x:23, y:11)',
-          image: '',
-          clickable: false 
+          image: '/tools/img/other/respawning-feathered-hat-a1-b1f.jpg',
+          clickable: true 
         },
         {
           id: 'abyss_b3f_exorcism',
-          title: 'Exorcism Armor',
+          title: 'Exorcism Leather',
           details: 'Chest in B3F (x:24, y:9)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-exorcism-leather-a1-b3f.jpg',
+          clickable: true,
         },
         {
           id: 'abyss_b3f_resistance',
           title: 'Ring of Resistance',
           details: 'Chest in B3F (x:12, y:19)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-ring-of-resistance-a1-b3f.jpg',
+          clickable: true,
         },
         {
           id: 'abyss_b4f_halberd',
           title: 'Halberd',
           details: 'Chest in B4F (x:2, y:4)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-halberd-a1-b4f.jpg',
+          clickable: true,
         },
         {
           id: 'abyss_b5f_huntsman',
@@ -837,22 +837,22 @@
           id: 'abyss_b5f_breeze',
           title: 'Sword of the Breeze',
           details: 'Chest in B5F East 3-chest room (x:22, y:15)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-breeze-sword-a1-b5f.jpg',
+          clickable: true,
         },
         {
           id: 'bracelet_of_impurity',
           title: 'Bracelet of Impurity',
           details: 'Chest in B8F (x:0, y:22)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-impurity-bracelet-a1-b8f.jpg',
+          clickable: true,
         },
         {
           id: 'a1_b8f_nourishingpotions',
           title: 'Nourishing Draught x3',
           details: 'Chest in B8F (x:19, y:12) - respawns daily',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-sp-pots-a1-b8f.jpg',
+          clickable: true,
         },
         { subheader: 'Request Rewards' },
         {
