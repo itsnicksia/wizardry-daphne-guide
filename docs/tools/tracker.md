@@ -937,7 +937,7 @@
         {
           id: 'mask_water_deity',
           title: 'Mask of the Water God',
-          details: 'Chest in 6th District',
+          details: 'Chest in 6th District (x:7, y:22)',
           image: '/tools/img/other/respawning-mask-of-the-water-god-a2-district6.jpg',
           clickable: true,
         },
