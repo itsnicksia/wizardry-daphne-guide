@@ -395,8 +395,7 @@
    </div>
 </div>
 
-<script>
-;(function(){
+<script>(function(){
   /* ==========================
      UTF-8 SAFE BASE64 HELPERS
      ========================== */
@@ -735,7 +734,7 @@
         {
           id: 'b4f_rubble',
           title: 'Adventurer’s Remains: B4F',
-          details: 'Assuming you wheeled to Kings Rescue already, head to the location. It's in the Left chest. If you take the one on the Right, the bone chest disappears! [30 days]',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. It\'s in the Left chest. If you take the one on the Right, the bone chest disappears! [30 days]',
           image: '/tools/img/bones/respawning-bone-b4f.jpg',
           clickable: true
         },
