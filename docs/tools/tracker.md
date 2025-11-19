@@ -1020,8 +1020,8 @@
           id: 'a3_z2_nourishingpotions',
           title: 'Nourishing Draught x3',
           details: 'Chest in Zone 2 (x:4, y:15) - respawns every 1-2 days. Chest also contains 1-2x Crimson Lustrous Ore + Scroll of Flash',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-sp-pots-a3-zone2.jpg',
+          clickable: true,
         },
           {
           id: 'goats_cloak_a3_chest',
