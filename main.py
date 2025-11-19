@@ -111,9 +111,9 @@ def define_env(env):
         # change title of stacked column
         
         if armor_or_weapon == "weapon":
-           eqdata.rename(columns={'TEMP': 'Rank<br># of Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
+           eqdata.rename(columns={'TEMP': 'Rank<br>#Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
         else:
-           eqdata.rename(columns={'TEMP': 'Rank<br>Armor Type<br>Buy Price<br>Sell Price'}, inplace=True)
+           eqdata.rename(columns={'TEMP': 'Rank<br>ArmorType<br>Buy Price<br>Sell Price'}, inplace=True)
  
         # insert blank spacer rows
         if itemcount > 1:
