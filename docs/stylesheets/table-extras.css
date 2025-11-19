@@ -8,7 +8,11 @@
     white-space: pre-line;
 }
 
-.md-typeset .equipment-table table th,
+.md-typeset .equipment-table table th {
+    min-width: max-content;
+    white-space: pre;
+}
+
 .md-typeset .equipment-table table td {
     min-width: max-content;
     white-space: pre-line;
