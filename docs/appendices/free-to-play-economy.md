@@ -56,7 +56,7 @@ Gems can be used in the game as a general currency for upgrades at the Jeweler (
 - These special remains typically cost 200 gems each from the Jeweler, or 11 remains for 2,000 gems.
 - Each Limited remains usually gives, along with the random character, one 'pity' token that can be exchanged at the Jeweler for remains, equipment, and supplies.
 - Guaranteed banner character remains typically cost 100 (for legendary) or 60 (for non-legendary) tokens.
-- At a 2% success rate, the probability at least one success in N is: P(N) = 1 - 0.98^N.  so P(60)=70%, P(100)=86.7%
+- At a 2% success rate, the probability at least one success in N pulls is: P(N) = 1 - 0.98^N.  so on the way to reaching pity is: P(60)=70%, P(100)=86.7%
 - Thus, odds are fairly good you will get the banner character before hitting the 'pity' limit, but the gem-cost of a 100% guarantee banner pull is:
     - 60: 5 x 2,000 + 5 x 200 = 11,000 gems
     - 100: 9 x 2,000 + 1 x 200 = 18,200 gems
