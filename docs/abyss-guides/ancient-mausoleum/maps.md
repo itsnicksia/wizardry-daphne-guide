@@ -11,7 +11,7 @@ There is a Mausoleum Guide in the entry room who can provide instruction and [so
 
 ### Mausoleum Overview
 - You must have 6 people in your party to enter. They don't all have to be alive.  
-- The bone chests located are located in rooms behind doors that will randomly drop either one of the remaining available Adventurer bones or class-specific junk for that mausoleum. After all bones for that mausoleum have been found the room chests will only drop class-specific junk.  Class-specific and anonymous mausoleums do not reset on their own and there is little reason to return to a mausoleum once all bones have been found.   
+- The bone chests are located in rooms behind doors that will randomly drop either one of the remaining available Adventurer bones or class-specific junk for that mausoleum. After all bones for that mausoleum have been found the room chests will only drop class-specific junk.  Class-specific and anonymous mausoleums do not reset on their own and there is little reason to return to a mausoleum once all bones have been found.   
 - You can only obtain one bone per Mausoleum visit (exceptions below).  Opening any of the bone chests will lock all other doors until you leave the Mausoleum. All doors will unlock again on your next entry, and there is no limit to how many times you may leave and return.  
 - Enemies might drop chests that drop include Gold, Azure Ore, Minor potions, and Class-Specific Equipment Junk. Loot is generally poor and the Mausoleum is not recommended for loot farming.  
 - There are poison traps scattered throughout the floor that will significantly reduce fortitude but these can also be navigated around.  
@@ -40,7 +40,7 @@ The Crucible Mausoleum floor is unique in that it contains a random selection of
 
 ??? note "Altar of Morgus: God of Death's Favor"    
     ![](img/maus-god-of-deaths-favor.jpg)   
-    The one bone per visit limit can be increased by making a sacrifice of 100 Gems at the Altar of Morgus.  After paying the Gems, a one hour countdown will begin during which time you will be allowed to open up to three doors per visit to the Mausoleum.  Note the warning though, that the number of enemies, including wandering necrocores, is increased.  Because there is no inherent limit on leaving and reentering the Mausoleum, this is considered a rahter low-value use of Gems and is discouraged.
+    The one bone per visit limit can be increased by making a sacrifice of 100 Gems at the Altar of Morgus.  After paying the Gems, a one hour countdown will begin during which time you will be allowed to open up to three doors per visit to the Mausoleum.  Note the warning though, that the number of enemies, including wandering necrocores, is increased.  Because there is no limitation on simply leaving and reentering the Mausoleum, this is considered a rather low-value use of Gems and is discouraged.
 
 ??? note "Mausoleum Guide Protection"  
     The Mausoleum Guide offers to accompany you through the Mausoleum for 100 Gems to protect against the increased danger from undead Insta-kill attacks. During combat, the guide will intercept any Insta-kill attacks from undead. If the attack lands, the Guide will be killed instead of your Adventurer. Otherwise the Guide will act as a mid-level fire mage battle companion, often casting Halito, Mahalito, Katino, and other debuff spells on the enemy.  
