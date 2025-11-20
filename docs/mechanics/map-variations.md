@@ -1,7 +1,7 @@
 # Dungeon Map Variations  
-Many dungeon maps in the abyss, events, and other locations do not have a completely fixed layout.  Players often report confusion that their maps, or the locations of events, items, etc., do not match what may be shown on different guide pages. Thankfully, it turns out these maps are not random (at least so far, which is everything through Abyss 3), they are 'tiled'. While some of those tiles can move, key events/items/people on those tiles always occur in the same relative location on those tiles in their new position.  
+Players often report confusion about  maps, locations of events, items, etc., not matching what we show on our guide pages. It turns out many dungeon maps in the abyss, events do not have a completely fixed layout.  Thankfully they arent completelg random, they're tiled, and are explained below.
 
-!!! note "HELP I CAN'T FIND XYZ!"
+??? note "HELP I CAN'T FIND XYZ!"
     If you can't find something because your map is different from what you see in the guide: Look for features based on the tile moves described below.  We have tried to have location references either include a map or coordinates that relate to the main map shown on any of the dungeon map pages. Rooms are always the same shape, chests are always in the same spots in those rooms, they just moved. <em>But they are probably there.</em>
 
 <em>The discussion below focuses on examples in the Beginning Abyss, but so far applies to all other maps with tile variations.</em>
