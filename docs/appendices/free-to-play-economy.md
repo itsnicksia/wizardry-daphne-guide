@@ -145,7 +145,7 @@ In this game, Adventurer's Remains are used by the Masked Adventurer to resurrec
 </div>
 
 ## Guild Tags
-Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying three tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
+Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying two tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
 
 #### Tag Requirements per Adventurer per Grade
 <div class="nofilter-table nosort-table" markdown>
