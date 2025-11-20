@@ -1,7 +1,7 @@
 # The Trade Waterways
 
 !!! note 
-    Certain floors have tile variations variations (shifts and rotations) that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features. See [Map Variations page](../Mechanics/map-variations.md) for details. 
+    Certain floors have tile variations variations (shifts and rotations) that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features. See [Map Variations page](../../Mechanics/map-variations.md) for details. 
 
 ??? note "Some tips for this Abyss before starting"
     - To make the run easier, one can grind out Undead March Request from the Beginning Abyss to get to level 40 and complete the Grade Up exam.
