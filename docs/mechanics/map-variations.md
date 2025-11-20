@@ -20,7 +20,7 @@ Below, the tiles highlighted in blue are fixed tiles. They will not change.  Mos
 
 ![](.img/variable-map-b1f-fixed.jpg)  
 
-These tiles can move, rotate, and possibly flip in the different positions.  Below see the same tileset in three different configurations, with each tile colored so you can follow how they moved.
+These tiles can move, rotate, and possibly flip in the different positions.  Below see the same tileset in three different configurations, with each tile colored and a common corner indicated by a dot so you can follow how they moved.  Probably the easiest to follow through the variations is the trap room.
 
 === "B1F Variation A"  
     ![](./img/variable-map-b1f-var-a.jpg)  
