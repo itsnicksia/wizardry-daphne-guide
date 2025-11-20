@@ -61,8 +61,9 @@ Below are maps of the five floors in the Beginning Abyss that have tile variatio
     ![](./img/variable-map-b7f-moveable-tiles.jpg)  
 
 Take note of a couple things:  
+
 1. Floor 6 breaks the rules. It only has a single 'movable' tile, and as the [Beginning Abyss maps page](../abyss-guides/1-beginning-abyss
-/maps.md) shows, that one tile just flips horizontally to introduce variability to the teleporter maze. And it's only a partial tile. This is unique and hasn't been seen on any other maps, which follow the full tile behavior described above.
+/maps.md) shows, that one tile just flips horizontally to introduce variability to the teleporter maze. And it's only a partial tile. This is unique and hasn't been seen on any other maps, which follow the full tile behavior described above.  
 2. There is not a full factorial count of combinations for all floors.  For B1F, 3 tiles with 4 rotations and 2 mirror inversions each would be 2^3 4^3 x 3! = 3,072 combinations.) But all tiles cannot move to all possible positions and still make a valid map. Hallways must connect, rooms must be accessible, etc. Still, this guide will make no attempt to identify and map all actual combinations becasue the actual number can still be quite unwieldy.  The guide developers want time to play the game too, and showing a copy of every map is not needed to <em>guide</em> players through the game. 
 
 ## Credits:
