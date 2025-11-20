@@ -357,6 +357,7 @@
   <!-- Instructions for users -->
 <div id="tracker-container">
   <ul>
+    <li>The tracker gets regular updates, for some browsers you need to hard-refresh (CTRL-F5) to ensure the underlying JavaScript gets refreshed.</li>
     <li>Click an entry name to view its image (if it has one).</li>
     <li>Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.</li>
     <li>Transfer acquisition status between devices with the Export code.</li>
