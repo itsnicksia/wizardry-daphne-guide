@@ -1,4 +1,5 @@
-# The Beginning Abyss - Requests
+# The Beginning Abyss - Requests  
+!!! note "Key locations can change due to some maps having variable layouts. See [Map Variations page](../Mechanics/map-variations.md) for details. "
 
 ## Fresh Start
 
