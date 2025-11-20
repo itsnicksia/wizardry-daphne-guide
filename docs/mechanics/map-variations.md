@@ -16,11 +16,11 @@ Take note in particular that most maps can be neatly sliced into a set of tiles 
 ![](./img/variable-map-b1f-grid.jpg)  
 
 ## Map tiling behavior and movement  
-Below, the tiles highlighted in blue are fixed tiles.  For most maps, most main story material occurs in these areas.  Any complicted dungeon effects often occur there as well (e.g., 2nd abyss waterways), as one would imagine the significantly increased design complexity of having those effects follow changing layouts.  The remaining tiles are the variable tiles.
+Below, the tiles highlighted in blue are fixed tiles. They will not change.  Most main story material occurs in these areas.  Any complicted dungeon effects often occur there as well (e.g., 2nd Abyss waterways), as one would imagine the increased design complexity of having those effects follow changing layouts.  The remaining tiles are the variable tiles.
 
 ![](.img/variable-map-b1f-fixed.jpg)  
 
-These tiles can move, rotate, and possibly flip in the different positions.  Below see the same tileset in three different configurations, with each tile colored so you can see how they moved.
+These tiles can move, rotate, and possibly flip in the different positions.  Below see the same tileset in three different configurations, with each tile colored so you can follow how they moved.
 
 === "B1F Variation A"  
     ![](./img/variable-map-b1f-var-a.jpg)  
@@ -34,7 +34,7 @@ These tiles can move, rotate, and possibly flip in the different positions.  Bel
 ## Effects on events, items, and NPC location  
 Items, NPCs, and quest objectives located within these variable tiles <em>will always appear at the same place within the tile</em> regardless of its placement and rotation within the full map.
 
-Example: With the Chris the Considerate bondmate quest the location of the objective is always located in the green highlighted tile above. In the new location, the same objective is located in the same relative location on the green tile on the left and rotated counterclockwise. These two positions are shown in the variations below:
+Example: With the B1F Chris the Considerate bondmate request the objective locationis always located in the green highlighted tile above. In the new location, the same objective is located in the same relative location but the tile is now on the left and rotated counterclockwise. These two positions are shown in the variations below, with the same relative location indicated by the player's yellow position arrow:
 
 === "Event - Map Variation A"  
     ![](./img/variable-map-b1f-event-a.jpg)  
@@ -63,8 +63,9 @@ Below are maps of the five floors in the Beginning Abyss that have tile variatio
 Take note of a couple things:  
 
 1. Floor 6 breaks the rules. It only has a single 'movable' tile, and as the [Beginning Abyss maps page](../abyss-guides/1-beginning-abyss
-/maps.md) shows, that one tile just flips horizontally to introduce variability to the teleporter maze. And it's only a partial tile. This is unique and hasn't been seen on any other maps, which follow the full tile behavior described above.  
-2. There is not a full factorial count of combinations for all floors.  For B1F, 3 tiles with 4 rotations and 2 mirror inversions each would be 2^3 4^3 x 3! = 3,072 combinations.) But all tiles cannot move to all possible positions and still make a valid map. Hallways must connect, rooms must be accessible, etc. Still, this guide will make no attempt to identify and map all actual combinations becasue the actual number can still be quite unwieldy.  The guide developers want time to play the game too, and showing a copy of every map is not needed to <em>guide</em> players through the game. 
+/maps.md) shows, that one tile just flips horizontally to introduce variability to the teleporter maze. And it's only a partial tile, which is unique and hasn't been seen on any other maps, all of which follow the full tile behavior described above.  
+2. For B1F, 3 tiles with 4 rotations and 2 mirror inversions each would be 2^3 4^3 x 3! = 3,072 combinations! There cannot, however, be a full set of combinations for all floors in all possible positions.  They must still make a valid map, hallways must connect, rooms must be accessible, etc.  Still, there could be a significant number of maps for some floors, and this guide makes no attempt to identify and map all actual combinations.  The guide developers want time to play the game, too, and showing a copy of every map is not needed to <em>guide</em> players through the game.  
+3. If any notable concerns about or deviations to the above appear in your game, feel free to comment below or join the discussion over on the [Wizardry Variants Daphne Community Discord](https://discord.com/channels/1296602475918524507/1296602897995403325).
 
-## Credits:
+## Credits
 Many thanks to @Chartreuse on the [Community Discord](https://discord.com/channels/1296602475918524507/1311222683144556554) for laying this all out only a month after launch.  Apologies it took so long to get this up here for wider visibility!
