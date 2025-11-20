@@ -61,8 +61,8 @@ Gems can be used in the game as a general currency for upgrades at the Jeweler (
     - 60: 5 x 2,000 + 5 x 200 = 11,000 gems
     - 100: 9 x 2,000 + 1 x 200 = 18,200 gems
     - Banner events sometimes provide 2-4 free remains that slightly reduce the above "guarantee" amount by 200-600 gems.
-    - The maximum regular gem rate of 2,800 gems/month gives enough for '100% pull' every 18,200 / 2,800 = 6.5 months.
-    - Usually this is significantly reduced by irregular sources.  Monthly 'possible' gem rates above of 3,400-5,300 reduce this to 3.4-5.3 months.
+    - The maximum regular gem rate of 2,800 gems/month gives enough for '100% pull' on legendary banners every 18,200 / 2,800 = 6.5 months.
+    - Usually this is significantly reduced by irregular sources.  Monthly 'possible' gem rates above of 3,400-5,300 reduce this to 3.4-5.4 months.
     - Banner adventurers generally come out more often than this. <em>F2P players should not expect to get every banner with free resources</em>.
     
 #### Handbooks
