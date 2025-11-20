@@ -917,15 +917,15 @@
           id: 'lightfoot_sandals',
           title: 'Light Sandals',
           details: 'Chest in 3rd District after ambush room (x:17, y:1)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-light-sandals-a2-district3.jpg',
+          clickable: true,
         },
         {
           id: 'thieves_gloves',
           title: 'Thieves Gloves',
           details: 'Chest in 4th District near Harken room (x:26, y:20)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-thieves-gloves-a2-district4.jpg',
+          clickable: true,
         },
         {
           id: 'man_eater',
@@ -937,9 +937,9 @@
         {
           id: 'mask_water_deity',
           title: 'Mask of the Water God',
-          details: 'Chest in 6th District',
-          image: '',
-          clickable: false,
+          details: 'Chest in 6th District (x:7, y:22)',
+          image: '/tools/img/other/respawning-mask-of-the-water-god-a2-district6.jpg',
+          clickable: true,
         },
         {
           id: 'a2-ship2-manapots',
@@ -1020,8 +1020,8 @@
           id: 'a3_z2_nourishingpotions',
           title: 'Nourishing Draught x3',
           details: 'Chest in Zone 2 (x:4, y:15) - respawns every 1-2 days. Chest also contains 1-2x Crimson Lustrous Ore + Scroll of Flash',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-sp-pots-a3-zone2.jpg',
+          clickable: true,
         },
           {
           id: 'goats_cloak_a3_chest',
