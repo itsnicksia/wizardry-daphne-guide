@@ -15,7 +15,7 @@
         - District 5: 1 statue  
         - District 6: 1 statue (damaged)  
         ??? map "Mermaid Statue Locations"  
-            !()[./img/trade-waterways-mermaid-statues.jpg]  
+            ![](./img/trade-waterways-mermaid-statues.jpg)  
 
 !!! note "There are areas where you are carried by a strong current. You must unlock the ability to reverse the water statues. Some have a timer to become cursed again. Some areas will be completely submerged. You should lure monsters out of the water in these areas or they will be stronger and faster."
 
