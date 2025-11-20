@@ -68,4 +68,4 @@ Take note of a couple things:
 3. If any notable concerns about or deviations to the above appear in your game, feel free to comment below or join the discussion over on the [Wizardry Variants Daphne Community Discord](https://discord.com/channels/1296602475918524507/1296602897995403325).
 
 ## Credits
-Many thanks to @Chartreuse on the [Community Discord](https://discord.com/channels/1296602475918524507/1311222683144556554) for laying this all out only a month after launch.  Apologies it took so long to get this up here for wider visibility!
+Many thanks to @Chartreuse on the [Community Discord](https://discord.com/channels/1296602475918524507/1311222683144556554) for laying this all out only a month after game launch.  Apologies that it took so long to get this posted here for wider visibility!
