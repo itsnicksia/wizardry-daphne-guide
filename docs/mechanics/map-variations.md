@@ -7,11 +7,11 @@ Players often report confusion about maps, event locations, items, etc., not mat
 !!! note "The discussion below focuses on the Beginning Abyss but (so far) also applies to all other maps with tile variations."
 
 ## Map Resetting  
-Certain events and player actions can 'reset' dungeon maps which may change map layouts that were you previously explored. For example, Cursed Wheel leaping back to "Awakening" will reset the Beginning Abyss dungeon and layout. Below you see the Beginning Abyss map B1F as it might appear after having fully explored the map but then 'resetting' it and then entering by the Harken.  
+Certain events and player actions can 'reset' dungeon maps which may change previously explored map layouts. For example, Cursed Wheel leaping back to "Awakening" resets the Beginning Abyss dungeon and layout. Below you see the Beginning Abyss map B1F as it might appear after having fully explored the map but then 'resetting' it and then entering at the Harken.  
 
-Notice that all explored areas get a 'fog of war' effect that disappears when it re-enters your field of view (like the Harken Room shown), but also there are several areas 'blanked out' that will need to be reexplored anew, with each square being 'unexplored' until you step on that spot. The blank areas indicate variable map areas that <em>might</em> change layout on any reset, and where you may see differences between our maps and what you see in your game.
+Notice how all explored areas get a 'fog of war' effect until it re-enters your field of view (like the Harken Room shown), but also there are several 'blanked out' areas that need to be reexplored anew, with each square 'unexplored' until you step on that spot. The blanked areas are variable map areas that <em>might</em> change layout on a reset, and where you <em>may</em> see differences between our maps and your game.
 
-Take note in particular that most maps can be neatly sliced into a set of nine tiles that divide the map and clearly show boundaries around tiles that can change. (It's possible that all maps may not be 3x3.)
+Take note in particular that most maps can be neatly sliced into a set of tiles that divide the map and clearly show boundaries around tiles that can change. (All maps may not be 3x3.)
 
 ![](./img/variable-map-b1f-grid.jpg)  
 
