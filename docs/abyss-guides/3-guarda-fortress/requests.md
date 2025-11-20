@@ -1,5 +1,5 @@
 # Impregnable Fortress
-!!! note "Key locations can change due to some maps having variable layouts. See [Map Variations page](../Mechanics/map-variations.md) for details. "
+!!! note "Key locations can change due to some maps having variable layouts. See [Map Variations page](../../Mechanics/map-variations.md) for details. "
 
 ## Request to Rescue the Duke
 
