@@ -27,10 +27,10 @@
 ## Skills
 
 !!! note
-    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each skill.
+    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each uninheritable skill. Inheritable skill is shared by both styles.
 
 !!! info "Unique Skill (Inheritable)"
-    === "Queen of War and Love"
+    === "Queen of War and Love (Standard)"
         {{ get_skill_description('Queen of War and Love') }}
 
         <div class = "nosort-table nofilter-table" markdown>
@@ -46,6 +46,9 @@
         |   7   |             85            |                -               |
 
         </div>
+        
+    === "Aegis Bash (Wandering Princess)"
+        {{ get_skill_description('Aegis Bash') }}
         
 !!! info "Unique Skill (Not Inheritable)"
     === "Stirring Righteousness (Standard)"
