@@ -1,10 +1,10 @@
 # Dungeon Map Variations  
-Players often report confusion about  maps, locations of events, items, etc., not matching what we show on our guide pages. It turns out many dungeon maps in the abyss, events do not have a completely fixed layout.  Thankfully they arent completelg random, they're tiled, and are explained below.
+Players often report confusion about maps, event locations, items, etc., not matching what we show on our guide pages. It turns out many dungeon maps do not have a completely fixed layout.  Thankfully they arent completelg random, they're tiled, and we explain them below.
 
 ??? note "HELP I CAN'T FIND XYZ!"
-    If you can't find something because your map is different from what you see in the guide: Look for features based on the tile moves described below.  We have tried to have location references either include a map or coordinates that relate to the main map shown on any of the dungeon map pages. Rooms are always the same shape, chests are always in the same spots in those rooms, they just moved. <em>But they are probably there.</em>
+    If you can't find something because your map is different from what you see in the guide: Look for features based on the tile moves described below.  We have tried to have location references either include a map or coordinates that refer to the main map shown on any of the dungeon map pages. Rooms are always the same shape, chests are always in the same spots in those rooms, they were shifted, <em>but they very probably are there.</em>
 
-<em>The discussion below focuses on examples in the Beginning Abyss, but so far applies to all other maps with tile variations.</em>
+!!! note "The discussion below focuses on the Beginning Abyss but (so far) also applies to all other maps with tile variations."
 
 ## Map Resetting  
 Certain events and player actions can 'reset' dungeon maps which may change map layouts that were you previously explored. For example, Cursed Wheel leaping back to "Awakening" will reset the Beginning Abyss dungeon and layout. Below you see the Beginning Abyss map B1F as it might appear after having fully explored the map but then 'resetting' it and then entering by the Harken.  
