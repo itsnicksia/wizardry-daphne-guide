@@ -27,7 +27,7 @@
 ## Skills
 
 !!! note
-    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each uninheritable skill. Inheritable skill is shared by both styles.
+    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each uninheritable passive and discipline skills . Inheritable skill is shared by both styles.
 
 !!! info "Unique Skill (Inheritable)"
     === "Queen of War and Love (Standard)"
