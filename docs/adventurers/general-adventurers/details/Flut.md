@@ -15,14 +15,16 @@
     === "Fighter"
         ![](../img/flut-fighter.jpg)
 
-    === "Holiday"
+    === "Mage of the Silent Night"
         ![](../img/flut-holiday.jpg)
 
 ## Skills
 
 !!! info "Inheritable Skill"
-    === "MIGAL"
+    === "MIGAL (Standard)"
         {{ get_skill_description('MIGAL') }}
+    === "MORLIS (Mage of the Silent Night)"
+        {{ get_skill_description('MORLIS') }}
 
 !!! info "Potential Inherit"
     === "MAMIGAL"
