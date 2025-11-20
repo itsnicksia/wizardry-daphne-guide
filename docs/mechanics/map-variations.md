@@ -23,13 +23,13 @@ Below, the tiles highlighted in blue are fixed tiles.  For most maps, most main 
 These tiles can move, rotate, and possibly flip in the different positions.  Below see the same tileset in three different configurations, with each tile colored so you can see how they moved.
 
 === "B1F Variation A"  
-    ![](.img/variable-map-b1f-var-a.jpg)  
+    ![](./img/variable-map-b1f-var-a.jpg)  
     
 === "B1F Variation B"  
-    ![](.img/variable-map-b1f-var-b.jpg)  
+    ![](./img/variable-map-b1f-var-b.jpg)  
     
 === "B1F Variation C"  
-    ![](.img/variable-map-b1f-var-c.jpg)  
+    ![](./img/variable-map-b1f-var-c.jpg)  
 
 ## Effects on events, items, and NPC location  
 Items, NPCs, and quest objectives located within these variable tiles <em>will always appear at the same place within the tile</em> regardless of its placement and rotation within the full map.
@@ -37,31 +37,32 @@ Items, NPCs, and quest objectives located within these variable tiles <em>will a
 Example: With the Chris the Considerate bondmate quest the location of the objective is always located in the green highlighted tile above. In the new location, the same objective is located in the same relative location on the green tile on the left and rotated counterclockwise. These two positions are shown in the variations below:
 
 === "Event - Map Variation A"  
-    ![](.img/variable-map-b1f-event-a.jpg)  
+    ![](./img/variable-map-b1f-event-a.jpg)  
     
 === "Event - Map Variation B"  
-    ![](.img/variable-map-b1f-event-b.jpg)  
+    ![](./img/variable-map-b1f-event-b.jpg)  
 
 ## Beginning Abyss Variable Tiles
 Below are maps of the five floors in the Beginning Abyss that have tile variations, highlighting the variable tiles. 
 
 === "Abyss 1 B1F"  
-    ![](.img/variable-map-b1f-moveable-tiles.jpg)  
+    ![](./img/variable-map-b1f-moveable-tiles.jpg)  
     
 === "Abyss 1 B3F"  
-    ![](.img/variable-map-b3f-moveable-tiles.jpg)  
+    ![](./img/variable-map-b3f-moveable-tiles.jpg)  
     
 === "Abyss 1 B4F"  
-    ![](.img/variable-map-b4f-moveable-tiles.jpg)  
+    ![](./img/variable-map-b4f-moveable-tiles.jpg)  
 
 === "Abyss 1 B6F"  
-    ![](.img/variable-map-b6f-moveable-tiles.jpg)  
+    ![](./img/variable-map-b6f-moveable-tiles.jpg)  
 
 === "Abyss 1 B7F"  
-    ![](.img/variable-map-b7f-moveable-tiles.jpg)  
+    ![](./img/variable-map-b7f-moveable-tiles.jpg)  
 
 Take note of a couple things:  
-1. Floor 6 only has a single 'movable' tile.  As the Beginning Abyss maps page shows, that one tile just flips horizontally to introduce variability to the teleporter maze.
+1. Floor 6 breaks the rules. It only has a single 'movable' tile, and as the [Beginning Abyss maps page](../abyss-guides/1-beginning-abyss
+/maps.md) shows, that one tile just flips horizontally to introduce variability to the teleporter maze. And it's only a partial tile. This is unique and hasn't been seen on any other maps, which follow the full tile behavior described above.
 2. There is not a full factorial count of combinations for all floors.  For B1F, 3 tiles with 4 rotations and 2 mirror inversions each would be 2^3 4^3 x 3! = 3,072 combinations.) But all tiles cannot move to all possible positions and still make a valid map. Hallways must connect, rooms must be accessible, etc. Still, this guide will make no attempt to identify and map all actual combinations becasue the actual number can still be quite unwieldy.  The guide developers want time to play the game too, and showing a copy of every map is not needed to <em>guide</em> players through the game. 
 
 ## Credits:
