@@ -71,11 +71,11 @@ Gems can be used in the game as a general currency for upgrades at the Jeweler (
 
 #### Inventory Storage Increase:
 - The default inventory storage space is 500 slots.
-- The limit can be increased by 25 items for 100 gems up to 1,000 slots for total of 2000 gems. 
+- The limit can be increased by 25 items for 100 gems up to a new total of 1,000 slots for total of 2000 gems. 
 
 #### Adventurer's Guild Adventurer Limit Increase:  
 - The default registered adventurer headcount limit is 100.
-- The limit can be increased by 10 slots for 100 gems up to 100 more slots for a total of 1,000 gems.
+- The limit can be increased by 10 slots for 100 gems up to new total of 200 slots for a total of 1,000 gems.
 
 ## Guild Points
 Guild points (blue tokens) are granted for completing activities at the Adventurer's Guild
