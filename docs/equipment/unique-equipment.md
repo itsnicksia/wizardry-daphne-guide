@@ -4,7 +4,7 @@ comments: true
 
 #  Unique Equipment
 
-Most non-event equipment can be obtained once a month.  Note that locations can change due to some maps having layout variations.  See [Map Variations page](../Mechanics/map-variations.md) for details. 
+Most non-event equipment can be obtained once a month.  Note that locations can change due to some maps having layout variations.  See [Map Variations page](../mechanics/map-variations.md) for details. 
 
 | Name                           | Type             | How to Obtain                                                          | Effects                                     | Notes                                                   |
 |:------------------------------ |:---------------- |:---------------------------------------------------------------------- |:------------------------------------------- |:------------------------------------------------------- |
