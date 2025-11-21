@@ -75,7 +75,7 @@ Gems can be used in the game as a general currency for upgrades at the Jeweler (
 
 #### Adventurer's Guild Adventurer Limit Increase:  
 - The default registered adventurer headcount limit is 100.
-- The limit can be increased by ___ for ___ gems up to ___ slots for a total of ___ gems.
+- The limit can be increased by 10 slots for 100 gems up to 100 more slots for a total of 1,000 gems.
 
 ## Guild Points
 Guild points (blue tokens) are granted for completing activities at the Adventurer's Guild
