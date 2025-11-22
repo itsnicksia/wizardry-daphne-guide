@@ -18,7 +18,7 @@ Take note in particular that most maps can be neatly sliced into a set of tiles 
 ## Map tiling behavior and movement  
 Below, the tiles highlighted in blue are fixed tiles. They will not change.  Most main story material occurs in these areas.  Any complicted dungeon effects often occur there as well (e.g., 2nd Abyss waterways), as one would imagine the increased design complexity of having those effects follow changing layouts.  The remaining tiles are the variable tiles.
 
-![](.img/variable-map-b1f-fixed.jpg)  
+![](./img/variable-map-b1f-fixed.jpg)  
 
 These tiles can move, rotate, and possibly flip in the different positions.  Below see the same tileset in three different configurations, with each tile colored and a common corner indicated by a dot so you can follow how they moved.  Probably the easiest to follow through the variations is the trap room.
 
