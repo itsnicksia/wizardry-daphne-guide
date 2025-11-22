@@ -26,7 +26,7 @@ Elf-Mag,Elf,Female,Dark,Neutral,Mage,,,Passive Magic Power Up,,,Passive Magic Po
 Elf-Pri,Elf,Male,Dark,Evil,Priest,,,Passive Divine Power Up,,,Passive Divine Power Up (Innate),,Elf Priest Discipline,,Anonymous,10,17,12,10,14,12,12,,,2024-10-15,
 Elise,Elf,Female,Earth,Neutral,Fighter,Knight,,Armor Break,,Wild Strike,Impartial Collaborator,,Old Warrior's Teachings,,General,11,15,11,12,15,13,10,Valiant Warrior,,2024-10-15,
 Emil,Elf,Male,Light,Good,Priest,Mage,,MADIOS,,DIALKO,Light-Kin Blessing,,Pursuit of Prayer,,General,10,15,14,10,14,12,12,Unwavering Priest,,2024-10-15,
-Erwin,Elf,Male,Fire,Neutral,Mage,,,Flame of Gluttony,,,Spellcraft Bookmark,,Old Sage with the Baby Face,,Legendary,12,16,10,11,15,13,10,ERWINBONENAME,,2025-11-13,
+Erwin,Elf,Male,Fire,Neutral,Mage,,,Flame of Gluttony,,,Spellcraft Bookmark,,Old Sage with the Baby Face,,Legendary,12,16,10,11,15,13,10,Ageless Grand Sage on the Path of Forbidden Arts,,2025-11-13,
 Eulalia,Elf,Female,Water,Good,Knight,Fighter,,Behind Cover,,Unyielding Will to Fight,Fire-Kin Blessing,,Protector of the Kingdom,,General,11,17,13,11,13,13,10,Devoted Knight,,2024-10-15,
 Flut,Elf,Female,Water,Neutral,Mage,Fighter,Mage of the Silent Night,MIGAL,MORLIS,MAMIGAL,Water Formation,Grace of the Great Tree,Young Spell Prodigy,Gift of Spell Genius,General,09,19,12,09,14,14,10,Ardent Mage,,2024-10-15,2024-12-19 
 Galbadus,Beastfolk,Male,Dark,Evil,Knight,,,Raging King I,,,Tyrant's Gravity,,Bestial Roar,,Legendary,13,14,8,16,14,14,9,Lion Who Usurped the Throne,,2025-08-28,
@@ -43,9 +43,9 @@ Iarumas,Human,Male,Null,Neutral,Mage of the Black Rod,,,TZALIK,,,Mage of the Bla
 Jarmil,Human,Male,Air,Evil,Mage,Thief,,FERU,,MAFERU,Air Formation,,Crafty Old Mage,,General,12,13,11,12,14,14,11,Sketchy Mage,,2024-10-15,
 Jean,Human,Male,Earth,Neutral,Thief,Mage,,Treasure Trap Disarm Skill,,Passive Evasion Up (Thief),Earth Formation,,Locksmith's Craft,,General,12,11,11,14,14,13,12,Sooth Thief,,2024-10-15,
 Kiriha,Human,Male,Dark,Evil,Ninja,Fighter,,Armor Pierce,,Wild Throw,Shadowy Alignment,,Tradition in the Shadows,,General,13,13,11,12,13,13,13,Ninja Without a Self,,2025-01-30,
-Lanavaille,Human,Female,Fire,Good,Knight,Fighter,Wandering Princess,Queen of War and Love,Aegis Bash,,Stirring Righteousness,Valiant Righteousness,Warrior Princess of Resolution and Love,Flawlessly Composed Warrior Princess,Legendary,15,12,13,14,11,12,11,Kingdom's Blademaster Princess Savior,,2024-10-15,2024-10-15
+Lanavaille,Human,Female,Fire,Good,Knight,Fighter,Wandering Princess,Queen of War and Love,Aegis Bash,,Stirring Righteousness,Valiant Righteousness,Warrior Princess of Resolution and Love,Flawlessly Composed Warrior Princess,Legendary,15,12,13,14,11,12,11,Kingdom's Blademaster Princess Savior,Wandering Princess of Battle and Love,2024-10-15,2024-10-15
 Livana,Human,Female,Water,Good,Fighter,Knight,,Moonlit Pool of the White Daemon,,,The One Who Enforces,,Bloodline of the Mirror-Mere,,Legendary,13,14,13,12,12,12,11,Justice Guardian Mirror-Mere Successor,,2025-05-22,
-Marianne,Human,Female,Air,Good,Priest,Mage,Greedy Saintess,LATUMOFIS,,Way of the Priest,Frugal Faith,,Salvation Through Wealth,,General,11,13,14,11,12,14,12,Covetous Priest,,2024-10-15,2025-07-17
+Marianne,Human,Female,Air,Good,Priest,Mage,Greedy Saintess,LATUMOFIS,,Way of the Priest,Frugal Faith,,Salvation Through Wealth,,General,11,13,14,11,12,14,12,Covetous Priest,Saintess Who Healed the Poor,2024-10-15,2025-07-17
 Milana,Elf,Female,Dark,Evil,Thief,Mage,,Poison Attack,,Sneak Attack,Mutual Interests,,Strongly Suspicious,,General,09,17,11,09,14,15,12,Lone Thief,,2024-10-15,
 Olive,Elf,Female,Air,Neutral,Fighter,Thief,,Will to Fight,,Immortal Strike,Honest Living,,Knowledge of Adventurers,,General,11,15,11,10,15,15,10,Stalwart Warrior,,2024-10-15,
 Ophelia,Human,Female,Air,Neutral,Fighter,,Knight,Counterattack,,Way of the Warrior,Eye of the Hunter,,Way of the Field of Battle,,General,13,12,12,12,13,14,11,Deft Thief,,2024-10-15,
