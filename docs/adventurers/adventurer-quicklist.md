@@ -1,7 +1,7 @@
 # List of Adventurers
 
 === "Basics"
-    {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Race','Gender','Primary Class','Secondary Class','Type','Personality','Rarity']) | convert_to_md_table | add_indentation(spaces=4) }}
+    {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Race','Gender','Primary Class','Secondary Class','Type','Personality','Alternate Style','Rarity']) | convert_to_md_table | add_indentation(spaces=4) }}
 
 === "Base Traits"
     {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck']) | convert_to_md_table | add_indentation(spaces=4) }}
