@@ -17,3 +17,12 @@
     min-width: max-content;
     white-space: pre-line;
 }
+
+.md-typeset .char-traits-table table th,
+.md-typeset .char-traits-table table td {
+    font-size: 0.85rem;
+    min-width: max-content;
+    white-space: pre-line;
+    text-align: center !important;
+}
+
