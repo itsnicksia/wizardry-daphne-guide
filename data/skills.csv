@@ -202,7 +202,7 @@ Old Warrior's Teachings,Discipline,,Continuously increases each stat. Accuracy a
 One-Handed Weapon Proficiency,Passive,,"Increases Attack Power and Accuracy when equipped with a dagger, one-handed sword, or one-handed axe.",Attack Power and Accuracy increased further based on skill level.,,,,,
 Passive Accuracy Up,Passive,True,Continuously increases Accuracy.,Accuracy increased further based on skill level.,,,,Beast-Thi,
 Passive Accuracy Up (Fighter),Passive,True,Continuously increases Accuracy.,Accuracy increased further based on skill level.,16,Fighter,,,Chloe
-Passive Accuracy Up (Innate),Passive,,Continuously increases Accuracy.,,,,,,
+Passive Accuracy Up (Innate),Passive,,Continuously increases Accuracy.,"",,,,,
 Passive Action Speed Up,Passive,True,Continuously increases Action Speed.,Action Speed increased further based on skill level.,,,,Human-Nin,
 Passive Action Speed Up (Innate),Passive,,Continuously increases Action Speed.,,,,,,
 Passive Action Speed Up (Mind),Passive,,Continuously increases Action Speed.,Action Speed increased further based on skill level.,,,,,
