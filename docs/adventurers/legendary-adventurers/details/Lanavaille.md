@@ -59,8 +59,7 @@ skills will automatically fill
 extra text can be added between skills
 -->
 
-!!! note
-    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each uninheritable passive and discipline skills, but inheritable skill is shared by both styles.
+!!! note "If standard Lanavaille and Wandering Princess Lanavaille are merged, inheritable skills are shared by both styles, but changing styles will swap uninheritable passive and discipline skills."
 
 !!! info "Inheritable Skill"
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
