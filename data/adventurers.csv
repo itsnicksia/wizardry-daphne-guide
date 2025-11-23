@@ -10,7 +10,7 @@ Asha,Human,Female,Fire,Good,Mage,Priest,Witching Mage,,KATINO,MAHALITO,BATILGREF
 Bakesh,Dwarf,Male,Air,Evil,Thief,Fighter,,,Treasure Trap Detection Skill,,Passive Action Spd Up (Thief),Earth-Kin Blessing,,Talented Trapsmith,,General,14,09,12,15,17,11,09,Unleashed Thief,,2024-10-15,
 Barbara,Beastfolk,Female,Air,Neutral,Knight,Thief,,,Assault Guard,,Passive MDef Up (Knight),Wild Knight,,Defense of House Zart,,General,12,13,09,15,14,17,08,Duty-Bound Knight,,2024-10-15,
 Beast-Thi,Beastfolk,Female,Light,Evil,Thief,,,,Passive Accuracy Up,,,Passive Accuracy Up (Innate),,Beastfolk Thief Discipline,,Anonymous,10,13,10,13,14,17,10,,,2024-10-15,
-Benjamin,Dwarf,Male,Earth,Neutral,Fighter,,,Thief,Passive HP Up (Fighter),,Wild Strike,Planned Hunting,,Strongest in the Village,,General,16,09,12,18,17,07,08,Rousing Warrior,,2024-10-15,
+Benjamin,Dwarf,Male,Earth,Neutral,Fighter,Thief,,,Passive HP Up (Fighter),,Wild Strike,Planned Hunting,,Strongest in the Village,,General,16,09,12,18,17,07,08,Rousing Warrior,,2024-10-15,
 Berkanan,Human,Female,Fire,Good,Tall Mage,,,,True Words of Fire,,,Coin of Power,,Tall Mage,,Legendary,14,13,12,12,12,12,11,"Tall, Novice Mage",,2025-03-18,
 Bugen,Dwarf,Male,Earth,Good,Samurai,,,,Decisive Torso Strike,,Back-against-the-Water Formation, Superior Principles,,Fulfillment of Loyalty,,General,16,10,12,18,17,07,08,Profoundly Loyal Saumrai,,2025-07-10,
 Chloe,Beastfolk,Female,Fire,Good,Fighter,Knight,Everdistant Summershade,,Warrior's Battle Cry,,Passive Accuracy Up (Fighter),Interpersonal Combat Technique,,Practical Self-Defense,,General,14,13,08,15,14,15,08,Brave Warrior,,2024-10-15,2025-08-14
@@ -46,9 +46,9 @@ Kiriha,Human,Male,Dark,Evil,Ninja,Fighter,,,Armor Pierce,,Wild Throw,Shadowy Ali
 Lanavaille,Human,Female,Fire,Good,Knight,Fighter,Wandering Princess,,Queen of War and Love,Aegis Bash,,Stirring Righteousness,Valiant Righteousness,Warrior Princess of Resolution and Love,Flawlessly Composed Warrior Princess,Legendary,15,12,13,14,11,12,11,Kingdom's Blademaster Princess Savior,Wandering Princess of Battle and Love,2024-10-15,2024-10-15
 Livana,Human,Female,Water,Good,Fighter,Knight,,,Moonlit Pool of the White Daemon,,,The One Who Enforces,,Bloodline of the Mirror-Mere,,Legendary,13,14,13,12,12,12,11,Justice Guardian Mirror-Mere Successor,,2025-05-22,
 Marianne,Human,Female,Air,Good,Priest,Mage,Greedy Saintess,,LATUMOFIS,,Way of the Priest,Frugal Faith,,Salvation Through Wealth,,General,11,13,14,11,12,14,12,Covetous Priest,Saintess Who Healed the Poor,2024-10-15,2025-07-17
-Milana,Elf,Female,Dark,Evil,Thief,Mage,,Poison Attack,,,Sneak Attack,Mutual Interests,,Strongly Suspicious,,General,09,17,11,09,14,15,12,Lone Thief,,2024-10-15,
+Milana,Elf,Female,Dark,Evil,Thief,Mage,,,Poison Attack,,Sneak Attack,Mutual Interests,,Strongly Suspicious,,General,09,17,11,09,14,15,12,Lone Thief,,2024-10-15,
 Olive,Elf,Female,Air,Neutral,Fighter,Thief,,,Will to Fight,,Immortal Strike,Honest Living,,Knowledge of Adventurers,,General,11,15,11,10,15,15,10,Stalwart Warrior,,2024-10-15,
-Ophelia,Human,Female,Air,Neutral,Fighter,,,Knight,Counterattack,,Way of the Warrior,Eye of the Hunter,,Way of the Field of Battle,,General,13,12,12,12,13,14,11,Deft Thief,,2024-10-15,
+Ophelia,Human,Female,Air,Neutral,Fighter,Knight,,,Counterattack,,Way of the Warrior,Eye of the Hunter,,Way of the Field of Battle,,General,13,12,12,12,13,14,11,Deft Thief,,2024-10-15,
 Philip,Elf,Male,Water,Neutral,Thief,Fighter,,,Delay Attack,,Cunning Pursuit,Presence of Mind,,Master of the Hunt,,General,10,16,11,10,15,14,11,Cunning Thief,,2024-10-15,
 Raffaello,Human,Male,Fire,Evil,Priest,,,,Alchemized Anima Dissolution,,,Bones of Obsessive Love,,Alchemist of Rebirth,,Legendary,14,12,13,13,12,11,12,Love-Mad Alchemist that Broke the Laws of Nature,,2025-09-18,
 Red Beard,Dwarf,Male,Dark,Neutral,Priest,Knight,,,Prayer of Rebellion,,,Apostle of Breaking Commandments,,Traitor to Gods,,Legendary,14,12,14,15,15,07,10,Priest Who Rebelled Against the Gods,,2025-01-16,
