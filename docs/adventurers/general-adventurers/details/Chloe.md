@@ -60,6 +60,10 @@ skills will automatically fill
 extra text can be added between skills
 -->
 
+{% if chardata['Alternate Style'] %}
+!!! note "If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills."
+{% endif %}
+
 !!! info "Inheritable Skill"
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Inheritable Skill']) }}

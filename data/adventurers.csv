@@ -1,7 +1,7 @@
 Name,Race,Gender,Type,Personality,Primary Class,Secondary Class,Alternate Style,Personal Request,Inheritable Skill,Alternate Inheritable Skill,Potential Inherit,Unique Skill (Not Inheritable),Alternate Unique Skill (Not Inheritable),Discipline,Alternate Discipline,Rarity,Strength,IQ,Piety,Vitality,Dexterity,Speed,Luck,Unique Bone Name,Alternate Unique Bone Name,Original Release Date,Alternate Release Date
 Abenius,Human,Female,Light,Good,Fighter,Priest,,,Flutterdream Flash,,,Flickering Fang,,Blessing of Owen,,Legendary,13,12,14,12,12,12,12,Fighter Called the Glintblade,,2024-12-06,
-Adam,Elf,Male,Light,Evil,Mage,Priest,Millenial Lord,True,Wisdom of Truth,,,Knowledge of the Millennial Lord,,Will of the Millennial Lord,,Legendary,10,16,12,10,15,13,11,Mage Called the Millenial Lord,,2024-10-15,2025-06-19
-Aldric,Dwarf,Male,Air,Neutral,Thief,,,,Wisdom of the Crafty Old Dwarf,,,Blunt Combo Strike,,Discipline Skill,,Legendary,14,9,12,15,17,11,9,Crow Handler Who Took Revenge on a Cult,,2025-06-12,
+Adam,Elf,Male,Light,Evil,Mage,Priest,Millennial Lord,True,Wisdom of Truth,,,Knowledge of the Millennial Lord,,Will of the Millennial Lord,,Legendary,10,16,12,10,15,13,11,Mage Called the Millenial Lord,,2024-10-15,2025-06-19
+Aldric,Dwarf,Male,Air,Neutral,Thief,,,,Wisdom of the Crafty Old Dwarf,,,Blunt Combo Strike,,"Adept's Rule of Thumb",,Legendary,14,9,12,15,17,11,9,Crow Handler Who Took Revenge on a Cult,,2025-06-12,
 Alex,Human,Male,Fire,Good,Knight,Fighter,,,Stun Bash,,Way of the Knight,Fire Formation,,Royal Knight Aspirant,,General,16,11,12,15,12,11,11,Smoldering Knight,,2024-10-15,
 Alice,Elf,Female,Water,Evil,Priest,Mage,,,Blessing of Agora,,,Agent of Heresy,,Magic of the Dark One,,Legendary,9,18,14,09,13,13,11,Girl Called the Dark One's Maiden,,2024-10-15,
 Amelia,Beastfolk,Female,Fire,Evil,Thief,Fighter,,,Stealth,,Blinding,Air-Kin Blessing,,Nose for Treasure,,General,12,13,08,14,14,17,09,Cunning Thief,,2024-10-15,
@@ -26,7 +26,7 @@ Elf-Mag,Elf,Female,Dark,Neutral,Mage,,,,Passive Magic Power Up,,,Passive Magic P
 Elf-Pri,Elf,Male,Dark,Evil,Priest,,,,Passive Divine Power Up,,,Passive Divine Power Up (Innate),,Elf Priest Discipline,,Anonymous,10,17,12,10,14,12,12,,,2024-10-15,
 Elise,Elf,Female,Earth,Neutral,Fighter,Knight,,,Armor Break,,Wild Strike,Impartial Collaborator,,Old Warrior's Teachings,,General,11,15,11,12,15,13,10,Valiant Warrior,,2024-10-15,
 Emil,Elf,Male,Light,Good,Priest,Mage,,,MADIOS,,DIALKO,Light-Kin Blessing,,Pursuit of Prayer,,General,10,15,14,10,14,12,12,Unwavering Priest,,2024-10-15,
-Erwin,Elf,Male,Fire,Neutral,Mage,,,,Flame of Gluttony,,,Spellcraft Bookmark,,Old Sage with the Baby Face,,Legendary,12,16,10,11,15,13,10,Ageless Grand Sage on the Path of Forbidden Arts,,2025-11-13,
+Erwin,Elf,Male,Fire,Neutral,Mage,,,,Flame of Gluttony,,,Spellcraft Bookmark,,Old Sage With the Baby Face,,Legendary,12,16,10,11,15,13,10,Ageless Grand Sage on the Path of Forbidden Arts,,2025-11-13,
 Eulalia,Elf,Female,Water,Good,Knight,Fighter,,,Behind Cover,,Unyielding Will to Fight,Fire-Kin Blessing,,Protector of the Kingdom,,General,11,17,13,11,13,13,10,Devoted Knight,,2024-10-15,
 Flut,Elf,Female,Water,Neutral,Mage,Fighter,Mage of the Silent Night,,MIGAL,MORLIS,MAMIGAL,Water Formation,Grace of the Great Tree,Young Spell Prodigy,Gift of Spell Genius,General,09,19,12,09,14,14,10,Ardent Mage,,2024-10-15,2024-12-19 
 Galbadus,Beastfolk,Male,Dark,Evil,Knight,,,,Raging King I,,,Tyrant's Gravity,,Bestial Roar,,Legendary,13,14,8,16,14,14,9,Lion Who Usurped the Throne,,2025-08-28,
@@ -34,7 +34,7 @@ Galina,Elf,Female,Earth,Evil,Priest,Fighter,,,DIOS,,KUSFIS,Faith of the Wicked,,
 Gandolfo,Human,Male,Dark,Evil,Fighter,Priest,,,Heavy Attack,,Way of the Warrior,Guard Experience,,Weaponmaster,,General,14,13,11,13,13,11,12,Savage Warrior,,2024-10-15,
 Gaston,Human,Male,Earth,Evil,Fighter,Thief,,,Passive Attack Power Up (Fighter),,Immortal Strike,Gnawing Doubt,,Hot-Blooded Adventurer,,General,14,11,11,15,14,11,11,Raging Warrior,,2024-10-15,
 Gerard,Human,Male,Dark,Good,Knight,Fighter,,,Thunderstrike,,,Lightning Celerity,,Thundersmiter's Protection,,Legendary,14,13,12,14,12,11,12,Knight Called Thundersmiter's Protection,,2024-10-22,
-Gerulf,Dwarf,Male,Fire,Evil,Fighter,Priest,,True,Eruption Strike,,,Branded Hands,,Fire Demon’s Brand,,Legendary,18,09,12,17,16,07,08,Miner Who Awakened a Volcano,,2024-10-15,
+Gerulf,Dwarf,Male,Fire,Evil,Fighter,Priest,,True,Eruption Strike,,,Branded Hands,,"Fire Demon's Brand",,Legendary,18,09,12,17,16,07,08,Miner Who Awakened a Volcano,,2024-10-15,
 Gillion,Human,Male,Dark,Neutral,Fighter,,,,Cry of Ruin,,,Cursed-Blood Resonance,,Vengeful Oath Conditioning,,Legendary,14,13,11,13,13,11,12,War Demon Who Wrought Vengeance Upon a Greater Warped One,,2025-10-30,
 Human-Fig,Human,Male,Water,Neutral,Fighter,,,,Passive Attack Power Up,,,Passive Attack Power Up (Innate),,Human Fighter Discipline,,Anonymous,14,13,12,13,13,11,11,,,2024-10-15,
 Human-Nin,Human,Female,Air,Evil,Ninja,,,,Passive Action Speed Up,,,Passive Action Speed Up,,Kunoichi Self-Discipline,,Anonymous,12,12,12,11,13,16,12,,,2025-07-10,
