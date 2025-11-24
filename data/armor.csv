@@ -51,7 +51,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 296,Head!A296,Head,3112,Desert Helm,Ebonsteel,Heavy,35250,3525,0,0,0,21,1,-4,-2,0,-4,5,0,0,0,26,1,-4,-2,0,-4,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 302,Head!A302,Head,3180,Heavy Helm of the Light Spirit,Ebonsteel,Heavy,,1175,0,0,0,18,0,-2,-4,0,-4,4,0,0,0,23,0,-2,-4,0,-4,8,0,0,0,27,0,-2,-4,0,-4,13,0,0,0,32,0,-2,-4,0,-4,17,0,0,0,36,0,-2,-4,0,-4,22,Dark Type Reduction
 308,Head!A308,Head,3189,Umbral Heavy Helmet,Ebonsteel,Heavy,,1175,0,0,0,18,0,-2,-4,0,-4,4,0,0,0,23,0,-2,-4,0,-4,8,0,0,0,27,0,-2,-4,0,-4,13,0,0,0,32,0,-2,-4,0,-4,17,0,0,0,36,0,-2,-4,0,-4,22,Light Type Reduction
-314,Head!A314,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+314,Head!A314,Head,,Glasses of Calm,Silver,Cloth,,,0,7,0,12,0,0,0,0,0,10,0,12,0,18,0,0,0,0,0,16,0,16,0,24,0,0,0,0,0,22,,,,,,,,,,,,,,,,,,,,,Passive I.Q. Up
 320,Head!A320,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 326,Head!A326,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 332,Head!A332,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -345,7 +345,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 278,Accessories!A278,Accessories,,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
 284,Accessories!A284,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
 290,Accessories!A290,Accessories,,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,0,0,0,,21,0,15,0,0,15,0,0,0,35,21,0,19,0,0,19,,,,,,,,,,,,,,,,,,,,,Curse Tolerance
-296,Accessories!A296,Accessories,,Glasses of Calm,Silver,Accessory,,,0,7,0,12,0,0,0,0,0,10,0,12,0,18,0,0,0,0,0,16,0,16,0,24,0,0,0,0,0,22,,,,,,,,,,,,,,,,,,,,,Passive I.Q. Up
+296,Accessories!A296,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 302,Accessories!A302,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 308,Accessories!A308,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 314,Accessories!A314,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
