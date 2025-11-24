@@ -1,8 +1,12 @@
 ---
 # Just change title to character name, should match filename, and all data
 # fields will pull from adventurers.csv, skills.csv, and image folder. 
+#
 # Note image files are all lowercase, and are expected as:
 # name-class.jpg, name-altform.jpg, name-requestform-class.jpg
+#
+# Free text can still be added to any section, reviews at end, etc.
+
 
    title: Character-Name
 ---
