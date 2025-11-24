@@ -1,7 +1,7 @@
 Name,Race,Gender,Type,Personality,Primary Class,Secondary Class,Alternate Style,Personal Request,Inheritable Skill,Alternate Inheritable Skill,Potential Inherit,Unique Skill (Not Inheritable),Alternate Unique Skill (Not Inheritable),Discipline,Alternate Discipline,Rarity,Strength,IQ,Piety,Vitality,Dexterity,Speed,Luck,Unique Bone Name,Alternate Unique Bone Name,Original Release Date,Alternate Release Date
 Abenius,Human,Female,Light,Good,Fighter,Priest,,,Flutterdream Flash,,,Flickering Fang,,Blessing of Owen,,Legendary,13,12,14,12,12,12,12,Fighter Called the Glintblade,,2024-12-06,
 Adam,Elf,Male,Light,Evil,Mage,Priest,Millennial Lord,True,Wisdom of Truth,,,Knowledge of the Millennial Lord,,Will of the Millennial Lord,,Legendary,10,16,12,10,15,13,11,Mage Called the Millenial Lord,,2024-10-15,2025-06-19
-Aldric,Dwarf,Male,Air,Neutral,Thief,,,,Wisdom of the Crafty Old Dwarf,,,Blunt Combo Strike,,"Adept's Rule of Thumb",,Legendary,14,9,12,15,17,11,9,Crow Handler Who Took Revenge on a Cult,,2025-06-12,
+Aldric,Dwarf,Male,Air,Neutral,Thief,Fighter,,,Wisdom of the Crafty Old Dwarf,,,Blunt Combo Strike,,"Adept's Rule of Thumb",,Legendary,14,9,12,15,17,11,9,Crow Handler Who Took Revenge on a Cult,,2025-06-12,
 Alex,Human,Male,Fire,Good,Knight,Fighter,,,Stun Bash,,Way of the Knight,Fire Formation,,Royal Knight Aspirant,,General,16,11,12,15,12,11,11,Smoldering Knight,,2024-10-15,
 Alice,Elf,Female,Water,Evil,Priest,Mage,,,Blessing of Agora,,,Agent of Heresy,,Magic of the Dark One,,Legendary,9,18,14,09,13,13,11,Girl Called the Dark One's Maiden,,2024-10-15,
 Amelia,Beastfolk,Female,Fire,Evil,Thief,Fighter,,,Stealth,,Blinding,Air-Kin Blessing,,Nose for Treasure,,General,12,13,08,14,14,17,09,Cunning Thief,,2024-10-15,
