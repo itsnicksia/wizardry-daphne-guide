@@ -170,9 +170,9 @@ extra text can be added between skills
 
 ## Duplicate Usage:
 
-* If you use her Wandering Princess style
-    * Inherit her standard style dupes to her own skill to increase its healing power.
-    * Wandering Princess dupes can either go towards Discipline or inherit. While Discipline boosts are minimal, you'll likely reach inheritance cap eventually from standard Lana pulls over time.
-* If you use her standard style and not her Wandering Princess style, Discipline and skill inherit are both good options, although I'd probably slightly favor skill inherits.
-* Inherit her skill to the MC.
+* Inherit her standard style dupes to level Queen of Love and War or discipline.  
+* Wandering Princess dupes can either be used to leveling Aegis Smash or used for discipline. 
+   * Remember, if you merge Lanavaille both styles will need at least discipline 1 to benefit from merged combined discipline.
+* Inherit standard style Queen of Love and War to the MC, just remember that this skill does not stack.  Only the highest HP heal will trigger.
+* Inherit Wandering Princess Aegis Smash to a physical damage dealer.
 * Save for future use or dismiss for Grade tags.
