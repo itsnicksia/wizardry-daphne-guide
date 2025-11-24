@@ -7,7 +7,6 @@
 #
 # Free text can still be added to any section, reviews at end, etc.
 
-
    title: Character-Name
 ---
 
@@ -34,24 +33,24 @@
 
 ??? info "Portraits"
     === "{{chardata['Primary Class']}}"
-        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}.jpg)
+        ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Primary Class'].replace(" ","-") | lower}}.jpg)
 {% if chardata['Secondary Class'] %}
     === "{{chardata['Secondary Class']}}"
-        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}.jpg)
+        ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Secondary Class'].replace(" ","-") | lower}}.jpg)
 {% endif %}
  
 {% if chardata['Personal Request'] %}
     === "{{chardata['Primary Class']}} after Personal Request"
-        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}-personal-request.jpg)
+        ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Primary Class'].replace(" ","-") | lower}}-personal-request.jpg)
   {% if chardata['Secondary Class'] %}
     === "{{chardata['Secondary Class']}} after Personal Request"
-        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}-personal-request.jpg)
+        ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Secondary Class'].replace(" ","-") | lower}}-personal-request.jpg)
   {% endif %}
 {% endif %}
 
 {% if chardata['Alternate Style'] %}
     === "{{chardata['Alternate Style']}}"
-        ![](../img/{{title | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
+        ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
 {% endif %}
 
 ## Skills
@@ -59,6 +58,10 @@
 skills will automatically fill
 extra text can be added between skills
 -->
+
+{% if chardata['Alternate Style'] %}
+!!! note "If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills."
+{% endif %}
 
 !!! info "Inheritable Skill"
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
