@@ -170,9 +170,9 @@ extra text can be added between skills
 
 ## Duplicate Usage:
 
-* Inherit her standard style dupes to level Queen of Love and War or discipline.  
-* Wandering Princess dupes can either be used to leveling Aegis Smash or used for discipline. 
+* Either Inherit her standard style dupes to level Queen of Love and War or Discipline the standard style.  
+* Wandering Princess dupes can either be used to leveling Aegis Smash or Discipline the Wandering Princess style. 
    * Remember, if you merge Lanavaille both styles will need at least discipline 1 to benefit from merged combined discipline.
-* Inherit standard style Queen of Love and War to the MC, just remember that this skill does not stack.  Only the highest HP heal will trigger.
+* Inherit standard style Queen of Love and War to the MC, just remember that this skill does not stack.  Only the highest HP heal ony any character will trigger at the end of combat.
 * Inherit Wandering Princess Aegis Smash to a physical damage dealer.
 * Save for future use or dismiss for Grade tags.
