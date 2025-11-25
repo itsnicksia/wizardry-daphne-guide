@@ -24,7 +24,7 @@ def define_env(env):
         results = pd_read_csv(f'./data/{file}')
         if filter_column != None and filter_values:
             results = results.query(f'`{filter_column}` in {filter_values}')
-        results = results.fillna('')
+        results = results.infer_objects(copy=False).fillna('')
 
         # Only linkify names if file is adventurers.csv and required fields exist
         if file == 'adventurers.csv' and 'Name' in return_columns and 'Rarity' in results.columns:
