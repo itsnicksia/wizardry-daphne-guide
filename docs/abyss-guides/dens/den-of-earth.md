@@ -1,5 +1,7 @@
 # Den of Earth  
-The Den of Earth is the first Den available to players.  It is unlocked after defeating the Greater Warped One in the Beginning Abyss, and after talking with Arna in the Royal Capital Adventurer's Guild it can be accessed from the Edge of Town.  
+
+!!! info "Requirements"  
+    The Den of Earth is the first Den available to players.  It is unlocked after defeating the Greater Warped One in the Beginning Abyss, and after talking with Arna in the Royal Capital Adventurer's Guild it can be accessed from the Edge of Town.  
     
 ??? info "About Dens"
     All Dens are 1 floor dungeons that are obscured each time the Den is entered, with the Entrance and Exit (portal) tiles always visible. All other map tiles are variable, and randomly change layout each time the Den is entered. Each den has one or two Boss fights on the way to the exit portal.  
