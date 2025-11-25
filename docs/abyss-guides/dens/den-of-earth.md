@@ -8,7 +8,7 @@
 
     Chests in Dens can give you [Blacksmithing Ore of different grades required for ehnancing gear beyond +4](../../equipment/blacksmithing.md#enhance) and Elemental armor and weapon junk matching the Den. (Earth, fire, air, and water gear are steel grade.)  
 
-    The Earth Den provides mostly Low-Grade Ore (gray), with occasional Mid-Grade Ore (red), and rarely a piece of High-Grade Ore (blue), and is a source of Earth Type armor and weapons.  
+    The Earth Den provides mostly Low-Grade Ore (gray), with occasional Mid-Grade Ore (red), and rarely a piece of High-Grade Ore (blue), and is a source of Earth Type armor and weapons (useful against Water Type enemies like those found in excess in Abyss 2).  
 
 ??? info "Boss Fights"
     The Earth Den has a mini boss fight just outside the portal room with a Big Slime, and a final boss fight with a Hydra Plant moster (Earth type, vulnerable to Air), both accompanied by a random group of Earth Den monsters.
