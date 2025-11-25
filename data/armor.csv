@@ -19,7 +19,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 104,Head!A104,Head,3156,Aquatic Blue Headcloth,Steel,Cloth,,408,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,0,0,0,12,0,0,0,0,0,12,0,0,0,16,0,0,0,0,0,16,0,0,0,20,0,0,0,0,4,20,Fire Type Reduction
 110,Head!A110,Head,3163,Red Fired Headcloth,Steel,Cloth,,408,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,0,0,0,12,0,0,0,0,0,12,0,0,0,16,0,0,0,0,0,16,0,0,0,20,0,0,0,0,4,20,Air Type Reduction
 116,Head!A116,Head,3170,Verdant Breeze Headcloth,Steel,Cloth,,408,0,0,0,4,0,0,0,0,4,4,0,0,0,8,0,0,0,0,4,8,0,0,0,12,0,0,0,0,0,12,0,0,0,16,0,0,0,0,0,16,0,0,0,20,0,0,0,0,4,20,Earth Type Reduction
-122,Head!A122,Head,3193,Phantom Shadow Cowl,Steel,Cloth,,408,0,0,0,1,0,1,0,0,1,1,0,0,0,3,0,1,0,0,1,4,,,,,,,,,,,0,0,0,11,0,1,0,0,2,9,,,,,,,,,,,
+122,Head!A122,Head,3193,Phantom Shadow Cowl,Steel,Cloth,,408,0,0,0,1,0,1,0,0,1,1,0,0,0,3,0,1,0,0,1,4,0,0,0,5,0,1,0,0,2,6,0,0,0,11,0,1,0,0,2,9,0,0,0,20,0,1,0,0,3,19,
 128,Head!A128,Head,3051,Steel Light Helmet,Steel,Light,,384,0,0,0,9,0,-1,-2,0,-2,4,0,0,0,13,0,-1,-2,0,-2,8,0,0,0,17,0,-1,-2,0,-2,12,0,0,0,21,0,-1,-2,0,-2,16,0,0,0,25,0,-1,-2,0,-2,20,
 134,Head!A134,Head,3095,Viking Helm,Steel,Light,12000,2400,0,0,0,8,0,-1,-2,0,4,4,0,0,0,12,0,-1,-2,0,4,8,0,0,0,16,0,-1,-2,0,4,12,0,0,0,20,0,-1,-2,0,4,16,0,0,0,24,0,-1,-2,0,4,20,
 140,Head!A140,Head,3105,Helm of Malice,Steel,Light,,614,0,0,0,9,0,-1,-2,0,-2,4,0,0,0,13,0,-1,-2,0,-2,8,0,0,0,17,0,-1,-2,0,-2,12,0,0,0,21,0,-1,-2,0,-2,16,0,0,0,25,0,-1,-2,0,-2,20,Insta-kill Resistance
@@ -137,7 +137,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 56,Feet!A56,Feet,3042,Iron Heavy Armor Boots,Iron,Heavy,1290,206,0,0,0,6,0,-1,0,0,-2,0,0,0,0,9,0,-1,0,0,0,0,0,0,0,13,0,-1,0,0,4,0,0,0,0,16,0,-1,0,0,7,0,0,0,0,20,0,-1,0,0,12,0,
 62,Feet!A62,Feet,3064,Scaly Leather Shoes,Steel,Cloth,,278,0,0,0,5,0,2,0,0,2,0,0,0,0,9,0,2,0,0,6,0,0,0,0,13,0,2,0,0,10,0,0,0,0,17,0,2,0,0,14,0,0,0,0,21,0,2,0,0,18,0,
 68,Feet!A68,Feet,3111,Light Sandals,Steel,Cloth,,348,0,0,0,5,0,8,0,0,8,0,0,0,0,9,0,10,0,0,12,0,0,0,0,13,0,11,0,0,16,0,0,0,0,17,0,12,0,0,20,0,,,,,,,,,,,
-74,Feet!A74,Feet,3196,Phantom Shadow Ninja Tabi,Steel,Cloth,,348,0,0,0,3,0,3,0,0,1,0,0,0,0,6,0,3,0,0,4,0,0,0,0,8,0,3,0,0,6,0,,,,,,,,,,,0,0,0,21,0,3,0,0,19,0,
+74,Feet!A74,Feet,3196,Phantom Shadow Ninja Tabi,Steel,Cloth,,348,0,0,0,3,0,3,0,0,1,0,0,0,0,6,0,3,0,0,4,0,0,0,0,8,0,3,0,0,6,0,0,0,0,11,0,3,0,0,9,0,0,0,0,21,0,3,0,0,19,0,
 80,Feet!A80,Feet,3057,Steel Light Armor Boots,Steel,Light,,365,0,0,0,6,0,0,0,0,0,0,0,0,0,10,0,0,0,0,4,0,0,0,0,14,0,0,0,0,8,0,0,0,0,18,0,0,0,0,12,0,0,0,0,22,0,0,0,0,16,0,
 86,Feet!A86,Feet,Ex.,Star Wolf Light Armor Boots,Steel,Light,,,0,0,0,3,0,0,0,0,0,0,0,0,0,7,0,0,0,0,4,0,0,0,0,11,0,0,0,0,8,0,0,0,0,15,0,0,0,0,12,0,0,0,0,19,0,0,0,0,16,0,Two-Handed Spear Proficiency
 92,Feet!A92,Feet,3058,Steel Heavy Armor Boots,Steel,Heavy,,413,0,0,0,9,0,-1,0,0,-2,0,0,0,0,13,0,-1,0,0,2,0,0,0,0,17,0,-1,0,0,6,0,0,0,0,21,0,-1,0,0,10,0,0,0,0,25,0,-1,0,0,14,0,
@@ -188,7 +188,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 56,Hands!A56,Hands,3039,Iron Light Gauntlets,Iron,Light,1080,173,0,0,0,4,0,0,0,0,0,0,0,0,0,7,0,0,2,0,0,0,0,0,0,11,0,0,6,0,0,0,0,0,0,14,0,0,9,0,0,0,0,0,0,18,0,0,14,0,0,0,
 62,Hands!A62,Hands,3040,Iron Heavy Gauntlets,Iron,Heavy,1350,216,0,0,0,6,0,0,-2,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,13,0,0,4,0,0,0,0,0,0,16,0,0,7,0,0,0,0,0,0,20,0,0,12,0,0,0,
 68,Hands!A68,Hands,3063,Scaly Leather Gloves,Steel,Cloth,,278,0,0,0,5,0,0,2,0,0,0,0,0,0,9,0,0,6,0,0,0,0,0,0,13,0,0,10,0,0,0,0,0,0,17,0,0,14,0,0,0,0,0,0,21,0,0,18,0,0,0,
-74,Hands!A74,Hands,3107,Thieves' Gloves,Steel,Cloth,,445,0,0,0,5,0,0,2,0,0,0,0,0,0,9,0,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Disarm Trap +2/4/?/?/?, Evade Trap +4/6/?/?/?"
+74,Hands!A74,Hands,3107,Thieves' Gloves,Steel,Cloth,,445,0,0,0,5,0,0,2,0,0,0,0,0,0,9,0,0,6,0,0,0,0,0,0,10,0,0,13,0,0,0,,,,,,,,,,,,,,,,,,,,,"Disarm Trap +2/4/5/?/?, Evade Trap +4/6/7/?/?"
 80,Hands!A80,Hands,3195,Phantom Shadow Arm Wraps,Steel,Cloth,,348,0,0,0,2,0,1,1,0,1,0,0,0,0,5,0,1,4,0,1,0,0,0,0,7,0,1,6,0,2,0,0,0,0,10,0,1,9,0,2,0,0,0,0,20,0,1,19,0,3,0,
 86,Hands!A86,Hands,,Droplet Catchers,Steel,Cloth,,,0,5,0,5,0,0,0,0,0,6,0,7,0,9,0,0,0,0,0,10,0,8,0,13,0,0,0,0,0,15,,,,,,,,,,,,,,,,,,,,,
 92,Hands!A92,Hands,3055,Steel Light Gauntlets,Steel,Light,,346,0,0,0,6,0,0,0,0,0,0,0,0,0,10,0,0,4,0,0,0,0,0,0,14,0,0,8,0,0,0,0,0,0,18,0,0,12,0,0,0,0,0,0,22,0,0,16,0,0,0,
@@ -246,7 +246,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 98,Body!A98,Body,3159,Aquatic Blue Cloak,Steel,Cloth,,528,0,0,0,11,0,0,0,0,0,0,0,0,0,20,5,0,0,0,0,0,0,0,0,28,11,0,0,0,0,0,0,0,0,37,16,0,0,0,0,0,0,0,0,46,22,0,0,0,0,0,Fire Type Reduction
 104,Body!A104,Body,3166,Red Fired Cloak,Steel,Cloth,,528,0,0,0,11,0,0,0,0,0,0,0,0,0,20,5,0,0,0,0,0,0,0,0,28,11,0,0,0,0,0,0,0,0,37,16,0,0,0,0,0,0,0,0,46,22,0,0,0,0,0,Air Type Reduction
 110,Body!A110,Body,3173,Verdant Breeze Cloak,Steel,Cloth,,528,0,0,0,11,0,0,0,0,0,0,0,0,0,20,5,0,0,0,0,0,0,0,0,28,11,0,0,0,0,0,0,0,0,37,16,0,0,0,0,0,0,0,0,46,22,0,0,0,0,0,Earth Type Reduction
-116,Body!A116,Body,3194,Phantom Shadow Garb,Steel,Cloth,,528,0,0,0,10,-2,1,0,0,1,0,0,0,0,15,1,1,0,0,1,0,,,,,,,,,,,0,0,0,32,12,1,0,0,2,0,0,0,0,48,23,1,0,0,3,0,
+116,Body!A116,Body,3194,Phantom Shadow Garb,Steel,Cloth,,528,0,0,0,10,-2,1,0,0,1,0,0,0,0,15,1,1,0,0,1,0,0,0,0,21,4,1,0,0,2,0,0,0,0,32,12,1,0,0,2,0,0,0,0,48,23,1,0,0,3,0,
 122,Body!A122,Body,Ex.,Blood Red Shinobi Attire,Steel,Cloth,,,0,0,0,8,-1,2,0,0,5,0,,,,,,,,,,,0,0,0,19,5,2,0,0,8,0,0,0,0,30,13,2,0,0,9,0,0,0,0,46,24,2,0,0,10,0,
 128,Body!A128,Body,Ex.,Comfort of the Endless Rain,Steel,Cloth,,,0,6,0,11,0,2,0,0,0,5,,,,,,,,,,,0,9,0,22,13,2,0,0,0,14,,,,,,,,,,,,,,,,,,,,,
 134,Body!A134,Body,3053,Steel Light Armor,Steel,Light,,629,0,0,0,24,0,-1,-2,0,-2,0,0,0,0,33,5,-1,-2,0,-2,0,0,0,0,41,11,-1,-2,0,-2,0,0,0,0,50,16,-1,-2,0,-2,0,0,0,0,59,22,-1,-2,0,-2,0,
@@ -265,7 +265,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 212,Body!A212,Body,3127,Manafont Robe,Ebonsteel,Cloth,,1225,0,0,0,18,0,0,0,0,0,0,0,0,0,28,6,0,0,0,0,0,0,0,0,38,13,0,0,0,0,0,0,0,0,48,19,0,0,0,0,0,0,0,0,58,26,0,0,0,0,0,Passive MP Up
 218,Body!A218,Body,3181,Cloak of Light Spirit,Ebonsteel,Cloth,,1100,0,0,0,17,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,37,13,0,0,0,0,0,0,0,0,47,19,0,0,0,0,0,0,0,0,57,26,0,0,0,0,0,Dark Type Reduction
 224,Body!A224,Body,3186,Umbral Cloak,Ebonsteel,Cloth,,1100,0,0,0,17,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,37,13,0,0,0,0,0,0,0,0,47,19,0,0,0,0,0,0,0,0,57,26,0,0,0,0,0,Light Type Reduction
-230,Body!A230,Body,3190,Covert Garb,Ebonsteel,Cloth,,1100,0,0,0,14,-2,1,0,0,1,0,0,0,0,19,1,1,0,0,3,0,,,,,,,,,,,0,0,0,41,16,1,0,0,5,0,0,0,0,58,27,1,0,0,6,0,
+230,Body!A230,Body,3190,Covert Garb,Ebonsteel,Cloth,,1100,0,0,0,14,-2,1,0,0,1,0,0,0,0,19,1,1,0,0,3,0,0,0,0,29,7,1,0,0,4,0,0,0,0,41,16,1,0,0,5,0,0,0,0,58,27,1,0,0,6,0,
 236,Body!A236,Body,,Vorpal Coat,Ebonsteel,Cloth,,,0,0,0,13,0,5,0,0,3,0,0,0,0,23,6,5,0,0,3,0,0,0,0,33,13,5,0,0,3,0,0,0,0,43,19,5,0,0,3,0,0,0,0,53,26,5,0,0,3,0,
 242,Body!A242,Body,,Sacred Healer's Vestments,Ebonsteel,Cloth,,,0,0,6,11,3,0,0,0,0,0,0,0,8,16,9,0,0,0,0,0,0,0,9,22,16,0,0,0,0,0,0,0,10,33,22,0,0,0,0,0,,,,,,,,,,,
 248,Body!A248,Body,,Lord of the Deep Forest's Thief Garb,Ebonsteel,Cloth,,,0,0,0,16,0,1,0,0,4,0,,,,,,,,,,,0,0,0,36,13,1,0,0,4,0,0,0,0,46,19,1,0,0,4,0,,,,,,,,,,,
@@ -310,7 +310,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 68,Accessories!A68,Accessories,3138,Ring of the Warrior Princess,Steel,Accessory,,735,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,2,4,0,0,0,0,15,12,0,0,3,4,0,0,0,0,21,12,0,0,4,4,0,,,,,,,,,,,
 74,Accessories!A74,Accessories,3139,Protection Charm,Steel,Accessory,,735,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,0,0,0,21,12,0,0,0,4,0,0,0,0,28,12,0,0,0,4,0,Bind Tolerance
 80,Accessories!A80,Accessories,3140,Bracelet of Battle,Steel,Accessory,,753,4,0,0,2,0,0,4,0,0,0,6,0,0,8,0,0,6,0,0,0,7,0,0,15,0,0,7,0,0,0,8,0,0,21,0,0,8,0,0,0,9,0,0,28,0,0,9,0,0,0,
-86,Accessories!A86,Accessories,3141,Melgina's Choker,Steel,Accessory,,753,0,0,0,1,16,0,0,0,0,0,0,0,0,7,18,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reward for defeating Melgina in Trade Waterways
+86,Accessories!A86,Accessories,3141,Melgina's Choker,Steel,Accessory,,753,0,0,0,1,16,0,0,0,0,0,0,0,0,7,18,0,0,0,0,0,0,0,0,14,19,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Reward for defeating Melgina in Trade Waterways
 92,Accessories!A92,Accessories,3142,Octonarus's Necklace,Steel,Accessory,,753,0,0,0,10,4,0,0,0,4,0,0,0,0,16,6,0,0,0,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,Accessories!A98,Accessories,3144,Skull Necklace,Steel,Accessory,,2352,0,0,0,2,12,0,0,0,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,15,12,0,0,0,0,0,0,0,0,21,12,0,0,0,0,0,0,0,0,28,12,0,0,0,0,0,Insta-Kill Tolerance
 104,Accessories!A104,Accessories,3145,Royal Herald Amulet,Steel,Accessory,,2352,1,1,1,1,1,1,1,1,1,1,1,1,1,7,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Reward for Saving the King in Beginning Abyss
