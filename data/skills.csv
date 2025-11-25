@@ -12,6 +12,7 @@ Alchemist of Rebirth,Discipline,,"Continuously increases each stat, with MP and 
 Alchemized Anima Dissolution,Active,True,"Deals moderate untyped spell damage based on Piety to 1 enemy row. Restores the HP of allies in the front row based on the damage dealt. Damage and HP recovery are reduced if learned by someone other than Raffaello.","Efficacy increased based on skill level.",,,,Raffaello,
 All Cover,Active,True,Chance to beat single-target attacks in place of all allies for 1 turn.,Defense Power Up incrementally added based on skill level. Probability and Defense Power increased further. More turns added.,40,Knight,Knight-specific,,Eldorado
 Amnesiac Corpse Retriever,Discipline,,"Continuously increases each stat, with Attack Power, Magic Power, SP, and MP increased further.","Attack Power, Magic Power, SP, and MP further increased based on skill level.",,,,Iarumas,
+Anti-Adventurer Combat Technique,Passive,,Increases damage against adventurers and decreases damage from adventurers.,,,,,Chloe,
 Apostle of Breaking Commandments,Passive,,"Increases Tolerance of Insta-Kill, Skill-Binding, and Spell-Binding for user and all adjacent dark type allies.",,,,,Red Beard,
 Apothecary's Knowledge,Discipline,,"Continuously increases each stat, HP and Poison Tolerance increased further.",HP and Poison Tolerance increased further based on skill level.,,,,Asha,
 Armor Break,Active,True,Minor physical attack on 1 enemy. Chance to decrease Defense Power based on the user's Dexterity.,Probability increased while Defense Power further decreased based on skill level.,14,Fighter,,Elise,
@@ -130,8 +131,7 @@ Immortal Strike,Active,True,Deals a minor physical attack on 1 enemy and restore
 Impartial Collaborator,Passive,,Increases damage to enemies for user and allies in front of or behind them if the ally is neutral.,,,,,Elise,
 Inheritor of the Secret Arts,Discipline,,"Continuously increases each stat, with Surety and Accuracy increased even further.",Surety and Accuracy increased further based on skill level.,,,,Rinne,
 Instruction in Inner Stillness,Discipline,,"Continuously increases each stat, with Attack Power and Surety increased even further.",Attack Power and Surety increased further based on skill level.,,,,Shiou,
-Interpersonal Combat Technique,Passive,,Increases damage against adventurers and decreases damage from adventurers.,,,,,Chloe,
-Interpersonal Combat Technique (Everdistant Summershade),Passive,,Increases damage against humanoids and decreases damage from humanoids.,,,,,Chloe,
+Interpersonal Combat Technique,Passive,,Increases damage against humanoids and decreases damage from humanoids.,,,,,Chloe,
 Ira's Divine Protection,Bondmate,,Continuously increases Divine Power.,Divine Power increased further based on skill level.,,,,Bondmate,
 KANTIOS,Debuff,,Chaotic energy over a wide area strips away the self-awareness of 1 enemy row with a chance of Confusing them.,Probability increased while Confusion becomes harder to remove based on skill level.,34,Mage,,,
 KATINO,Debuff,True,Generates sleep-inducing fumes over a wide area which have a chance of putting 1 enemy row to Sleep.,Probability increased while Sleep becomes harder to remove based on skill level.,3,Mage,,Asha,
