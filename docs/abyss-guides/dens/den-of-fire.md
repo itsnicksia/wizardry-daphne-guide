@@ -20,7 +20,7 @@
 
     So, pick the route that appears wide open, and take as direct a path as you can to it.  If you see neither west nor south open, leave the den and re-enter to draw a new tileset. Optional, reset until you see a chest spawned on the entrance or exit tile to increase the chest rate.
 
-!!! map "Den of Earth Maps"
+!!! map "Den of Fire Maps"
     The Fire Den is another 2x3 map.  The entry map with boss locations, tileset, and a several map variations are shown below. This is obviously an incomplete set of variations.  Rather than tiles 'swapping' like Abyss map variations, there appears to be at least three variations for each of the three hidden tiles, suggesting at least 3^3=27 full map combinations.  
 
     That said, all 3x3=9 tile variations only need to be explored once for the traps to be permanently exposed for future runs. Really, only the 2x3=6 tiles closest to the entrance need to be checked.  As stated above, the shape of the walls adjacent to the hidden tiles will be your primary indicator of the layout you're dealing with.
@@ -28,10 +28,10 @@
     !!! map "Den of Fire - Entry Map"
         ![](./img/den-of-fire/den-of-fire-b1f-entry-map.jpg)
 
-    ??? map "Den of Earth - Some Variations"
+    ??? map "Den of Fire - Some Variations"
         ![](./img/den-of-fire/den-of-fire-b1f-variations.jpg)
 <!--
-    ??? map "Den of Earth - Tileset"
+    ??? map "Den of Fire - Tileset"
         ![](./img/den-of-fire/den-of-fire-b1f-tileset.jpg)
 -->
 ## Credits  
