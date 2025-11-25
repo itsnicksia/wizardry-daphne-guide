@@ -30,9 +30,9 @@
 
     ??? map "Den of Fire - Some Variations"
         ![](./img/den-of-fire/den-of-fire-b1f-variations.jpg)
-<!--
+
     ??? map "Den of Fire - Tileset"
         ![](./img/den-of-fire/den-of-fire-b1f-tileset.jpg)
--->
+
 ## Credits  
 Den of Fire Map kindly provided by GrandAccelerator.
