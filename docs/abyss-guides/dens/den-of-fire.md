@@ -27,10 +27,10 @@
 
     !!! map "Den of Fire - Entry Map"
         ![](./img/den-of-fire/den-of-fire-b1f-entry-map.jpg)
-<!--
+
     ??? map "Den of Earth - Some Variations"
         ![](./img/den-of-fire/den-of-fire-b1f-variations.jpg)
-
+<!--
     ??? map "Den of Earth - Tileset"
         ![](./img/den-of-fire/den-of-fire-b1f-tileset.jpg)
 -->
