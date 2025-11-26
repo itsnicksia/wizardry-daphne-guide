@@ -5,6 +5,8 @@ The data is regularly exported from the Google Sheet [Wizardry Variants Equipmen
 
 If the table does not display correctly, try the [embedded version](./equipment-tables-embed.md).
 
+Click here for the current [Equipment Table data wishlist](./equipment-tables-wishlist.md).
+
 ## Weapons Table
 <div  class="nofilter-table nosort-table equipment-table" markdown>
 === "Daggers"
