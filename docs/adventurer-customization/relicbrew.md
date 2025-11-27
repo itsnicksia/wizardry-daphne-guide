@@ -9,8 +9,8 @@ Relicbrews can be obtained by finding abyss relics on red glowing monsters anywh
 <!-- maybe add image of a glowing common mob-->
 
 ## Effects
+Relic brews are stat buffs that can be applied to all adventurers. MC will always be included in the group of 6, but you can de-select him in the menu. All relic brew provide an increase to 1-2 stats at the cost of another. The effects can be increased to a maximum of level 5 by consuming the same type of brew multiple times. You do not lose experience if you remove them from a unit. If a unit's alignment (Good/Neutral/Evil) matches the relic brew they receive an additional, "free" level, which is front-loaded. The table below shows the stat increase per brew level along with the level 5 totals of both non-matching ("No Match") and matching ("Matching") alignments. Note: the stat that is negatively impacted is always -1 for a maximum of -5 at level 5
 
-These are essentially permanent buffs that can be applied to all adventurers including the MC. They typically provide one stat buff at the cost of reduction in another stat. Effects can be leveled up by consuming the same type of brew again. Having a matching personality (Good/Neutral/Evil) to the relicbrew will provide a larger stat buff.
 
 ## Exp
 
@@ -100,3 +100,24 @@ Lists 9 items for sale on a weekly rotation. There are 3 rows of 3 items per row
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
 
 <sup>†</sup> Obtained relics may have other Relic Name modifiers, such as "Twisted", to indicate higher Relic power.
+
+## Relic Brew Stat Increases
+
+The table below shows the stat increase per brew level along with the level 5 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments. Note: the stat that is negatively impacted is always -1 for a maximum of -5 at level 5.
+
+| Stats                 | Per Level | Standard | Alignment Bonus |
+|-----------------------|:---------:|:--------:|:----------------:|
+| HP                    |     3     |    15    |        18        |
+| SP                    |     2     |    10    |        12        |
+| MP                    |     2     |    10    |        12        |
+| ATK                   |     2     |    10    |        12        |
+| SUR                   |     1     |     5    |         6        |
+| ACC                   |     2     |    10    |        12        |
+| MAG                   |     2     |    10    |        12        |
+| ASPD                  |     1     |     5    |         6        |
+| DEF                   |     4     |    20    |        24        |
+| MDEF                  |     4     |    20    |        24        |
+| Elemental tolerance† |    1%     |    5%    |        6%        |
+| Status tolerance†    |    1%     |    5%    |        6%        |
+
+<sup>†</sup> These are rough estimates. Could range from 0.5-1% per level
