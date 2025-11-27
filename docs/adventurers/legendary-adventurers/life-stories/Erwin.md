@@ -50,3 +50,16 @@ It was no mere spell to cause aging. The caster steals the lifespan of those aro
 Any other person living within the forest would perish along with the monsters. But elves, with their long lifespans, would survive despite aging.
 
 Great achievements come at a cost. Erwin had made his decision and invoked the spell of aging. All life around him advanced in decades.
+
+### Page 5
+Erwin's gamble paid off. The spell of aging laid waste to the monsters attacking his homeland-while aging all life within the forest.
+
+"Lo, it is done! What an incredible spell!"
+
+Turning to look at his sister, who had finally caught up to him, Erwin looked every inch the boy he was when he first sallied forth from his homeland. Riding high on the success of this rare and powerful spell, he did not notice the look on his sister's face.
+
+The price of survival was that half the forest had withered and the elves had grown older. Erwin, who had been made young again, was accused of encroaching upon the forbidden arts, and was never allowed to return to his homeland. But his mind was drawn to the many magical spells that had yet to be discovered.
+
+"There is still much unknown in this world. Let us venture where we will. We can--" he said, eager for new adventure. But the younger sister, back bent with age, quietly shook her head and refused.
+
+The siblings went their separate ways. The fate of the older brother remains unknown.
