@@ -5,7 +5,7 @@
 The Well of the Mind is a unique customization element specific to the main character where you can unlock classes, skills, spells, and stat increases by using Mind Pearls.
 Mind Pearls can be obtained by collecting and using Guiding Lights to unlock clouded areas of the Well.
 
-[Work In Progress](https://docs.google.com/drawings/d/1UHwGEu8l-zUiRK5n927STzAbRQGQOG6ZA4tIo7SCPKo/edit)  
+[Work In Progress](https://docs.google.com/drawings/d/1vpO4_4Z8DE4ba7NVDWpWgkeXaeyBkpAGcC0YTr0XzeQ/edit)  
 ![Well of the Mind](./img/well-of-the-mind.png)
 
 !!! warning
