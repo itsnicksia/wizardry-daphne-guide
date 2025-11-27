@@ -1,7 +1,7 @@
 # Guarda Fortress
 
 !!! note "Many floors have tile variations (shifts and rotations)
-that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features."  
+that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details."  
 
 ## Key Mechanics
 

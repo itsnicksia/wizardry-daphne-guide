@@ -5,8 +5,10 @@ The data is regularly exported from the Google Sheet [Wizardry Variants Equipmen
 
 If the table does not display correctly, try the [embedded version](./equipment-tables-embed.md).
 
+Click here for the current [Equipment Table data wishlist](./equipment-tables-wishlist.md).
+
 ## Weapons Table
-<div  class="nofilter-table nosort-table" markdown>
+<div  class="nofilter-table nosort-table equipment-table" markdown>
 === "Daggers"
    {{ get_equip_table_formatted("weapon", "Dagger") | convert_to_md_table | add_indentation(spaces=4) }}
 
@@ -53,7 +55,7 @@ If the table does not display correctly, try the [embedded version](./equipment-
    {{ get_equip_table_formatted("weapon", "Tool") | convert_to_md_table | add_indentation(spaces=4) }}
 </div>
 ## Armor Table
-<div  class="nofilter-table nosort-table" markdown>
+<div  class="nofilter-table nosort-table equipment-table" markdown>
 === "Head"
    {{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=4) }}
 

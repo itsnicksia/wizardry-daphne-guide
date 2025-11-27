@@ -357,6 +357,7 @@
   <!-- Instructions for users -->
 <div id="tracker-container">
   <ul>
+    <li>The tracker gets regular updates, for some browsers you need to hard-refresh (CTRL-F5) to ensure the underlying JavaScript gets refreshed.</li>
     <li>Click an entry name to view its image (if it has one).</li>
     <li>Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.</li>
     <li>Transfer acquisition status between devices with the Export code.</li>
@@ -395,8 +396,7 @@
    </div>
 </div>
 
-<script>
-;(function(){
+<script>(function(){
   /* ==========================
      UTF-8 SAFE BASE64 HELPERS
      ========================== */
@@ -688,15 +688,15 @@
           id: 'furnace_tallow',
           title: 'Tallow of Bone Summoning - Furnace of Deathsmoke',
           details: 'Furnace of Deathsmoke located at the Ancient Mausoleum selection screen. Produces one tallow every 7 days.',
-          image: '', 
-          clickable: false
+          image: '/abyss-guides/ancient-mausoleum/img/maus-furnace.jpg', 
+          clickable: true
         },
         {
           id: 'bonepicker_tallow',
           title: 'Tallow of Bone Summoning - Bone Picker',
           details: 'The wandering Bone Picker will sell you one tallow for 10,000gp every 7 days.',
-          image: '', 
-          clickable: false
+          image: '/abyss-guides/1-beginning-abyss/img/a1-bone-picker.jpg', 
+          clickable: true
         }
       ]
     },
@@ -735,7 +735,7 @@
         {
           id: 'b4f_rubble',
           title: 'Adventurer’s Remains: B4F',
-          details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. It\'s in the Left chest. If you take the one on the Right, the bone chest disappears! [30 days]',
           image: '/tools/img/bones/respawning-bone-b4f.jpg',
           clickable: true
         },
@@ -763,7 +763,7 @@
         {
           id: 'b8f_nutrient',
           title: 'Adventurer’s Remains: B8F',
-          details: 'Assuming you wheeled to Kings Rescue already, head to the location. [30 days]',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. Watch out, this chest might be a mimic. [30 days]',
           image: '/tools/img/bones/respawning-bone-b8f.jpg',
           clickable: true
         },
@@ -779,7 +779,7 @@
         {
           id: 'fortress_catacombs',
           title: 'Adventurer’s Remains: Catacombs',
-          details: 'Location is at green checkmark. You will need to solve the candle puzzle to open the door to that location. [30 days]',
+          details: 'You will need to solve the candle puzzle to open the door to that location. (x:2, y:19) [30 days]',
           image: '/tools/img/bones/respawning-bone-catacomb.jpg',
           clickable: true
         },
@@ -788,8 +788,8 @@
           id: 'bonepicker_bone',
           title: 'Adventurer’s Remains - Bone Picker',
           details: 'The wandering Bone Picker will sell you one set of Adventurer’s Remains for 1,000gp every 7 days.',
-          image: '',
-          clickable: false
+          image: '/abyss-guides/1-beginning-abyss/img/a1-bone-picker.jpg', 
+          clickable: true
         }
       ]
     },
@@ -802,29 +802,29 @@
           id: 'abyss_b1f_feathered',
           title: 'Feathered Cap',
           details: 'Chest in B1F 3-chest room (x:23, y:11)',
-          image: '',
-          clickable: false 
+          image: '/tools/img/other/respawning-feathered-hat-a1-b1f.jpg',
+          clickable: true 
         },
         {
           id: 'abyss_b3f_exorcism',
-          title: 'Exorcism Armor',
+          title: 'Exorcism Leather',
           details: 'Chest in B3F (x:24, y:9)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-exorcism-leather-a1-b3f.jpg',
+          clickable: true,
         },
         {
           id: 'abyss_b3f_resistance',
           title: 'Ring of Resistance',
           details: 'Chest in B3F (x:12, y:19)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-ring-of-resistance-a1-b3f.jpg',
+          clickable: true,
         },
         {
           id: 'abyss_b4f_halberd',
           title: 'Halberd',
           details: 'Chest in B4F (x:2, y:4)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-halberd-a1-b4f.jpg',
+          clickable: true,
         },
         {
           id: 'abyss_b5f_huntsman',
@@ -837,22 +837,22 @@
           id: 'abyss_b5f_breeze',
           title: 'Sword of the Breeze',
           details: 'Chest in B5F East 3-chest room (x:22, y:15)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-breeze-sword-a1-b5f.jpg',
+          clickable: true,
         },
         {
           id: 'bracelet_of_impurity',
           title: 'Bracelet of Impurity',
           details: 'Chest in B8F (x:0, y:22)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-impurity-bracelet-a1-b8f.jpg',
+          clickable: true,
         },
         {
           id: 'a1_b8f_nourishingpotions',
           title: 'Nourishing Draught x3',
           details: 'Chest in B8F (x:19, y:12) - respawns daily',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-sp-pots-a1-b8f.jpg',
+          clickable: true,
         },
         { subheader: 'Request Rewards' },
         {
@@ -909,7 +909,7 @@
         { subheader: 'Chest Items' },
         {
           id: 'a2-district1-manapots',
-          title: 'Mana Potions x2',
+          title: 'Mana Elixers x2',
           details: 'Chest in 1st District behind locked door (x:10, y:22). Respawns monthly.',
           image: '/tools/img/other/respawning-mana-pot-a2-district1.jpg',
           clickable: true,
@@ -918,36 +918,43 @@
           id: 'lightfoot_sandals',
           title: 'Light Sandals',
           details: 'Chest in 3rd District after ambush room (x:17, y:1)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-light-sandals-a2-district3.jpg',
+          clickable: true,
         },
         {
           id: 'thieves_gloves',
           title: 'Thieves Gloves',
           details: 'Chest in 4th District near Harken room (x:26, y:20)',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-thieves-gloves-a2-district4.jpg',
+          clickable: true,
+        },
+        {
+          id: 'a2-dist4-dagger_of_the_soil',
+          title: 'Dagger of the Soil',
+          details: 'Chest in 4th District in the northwest room (x:0, y:22)',
+          image: '/tools/img/other/respawning-earth-dagger-a2-district4.jpg',
+          clickable: true,
         },
         {
           id: 'man_eater',
           title: 'Man-Eater',
           details: 'Chest in 5th District (x:6, y:23)',
-          image: '/tools/img/other/respawning-man-eater-a2-district5',
+          image: '/tools/img/other/respawning-man-eater-a2-district5.jpg',
           clickable: true,
         },
         {
           id: 'mask_water_deity',
           title: 'Mask of the Water God',
-          details: 'Chest in 6th District',
-          image: '',
-          clickable: false,
+          details: 'Chest in 6th District (x:7, y:22)',
+          image: '/tools/img/other/respawning-mask-of-the-water-god-a2-district6.jpg',
+          clickable: true,
         },
         {
           id: 'a2-ship2-manapots',
           title: 'Mana Elixers x3',
-          details: 'Chest in Ship 2 Treasure Room (x:14, y:13). Respawns monthly.',
-          image: '',
-          clickable: false,
+          details: 'Chest in Ship 2 Treasure Room (x:14, y:13) with 2x Deep-Water Gleaming Crystals. Respawns monthly.',
+          image: '/tools/img/other/respawning-mana-pot-a2-ship2.jpg',
+          clickable: true,
         },
 
         { subheader: 'Request Rewards' },
@@ -973,7 +980,7 @@
           clickable: false,
         },
         {
-          id: 'oktonaras_necklace',
+          id: 'octonaras_necklace',
           title: 'Octonarus’s Necklace',
           details: 'Defeat Octonarus after giving Melgina the Titanium Knife',
           image: '',
@@ -1021,15 +1028,22 @@
           id: 'a3_z2_nourishingpotions',
           title: 'Nourishing Draught x3',
           details: 'Chest in Zone 2 (x:4, y:15) - respawns every 1-2 days. Chest also contains 1-2x Crimson Lustrous Ore + Scroll of Flash',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-sp-pots-a3-zone2.jpg',
+          clickable: true,
+        },
+          {
+          id: 'goats_cloak_a3_chest',
+          title: 'Goatskin Cloak',
+          details: 'Chest in Zone 6 (x:24, y:14)',
+          image: '/tools/img/other/respawning-goatskin-cloak-a3-zone6.jpg',
+          clickable: true,
         },
         {
-          id: 'soul_potion_d9',
+          id: 'a3_z9_mana_pots',
           title: 'Mana Elixir x3',
           details: 'Chest in Zone 9 (x:16, y:0). Respawns monthly.',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-mana-pot-a3-office.jpg',
+          clickable: true,
         },
 
         { subheader: 'Request Rewards' },
@@ -1062,7 +1076,7 @@
           clickable: false,
         },
         {
-          id: 'goats_cloak',
+          id: 'goats_cloak_a3reward',
           title: 'Goatskin Cloak',
           details: 'Request Reward from "Antique Scarlet Doll" or Chest in Zone 6',
           image: '',
@@ -1157,7 +1171,7 @@
 
   // === CONTENT VERSION + REBASE/MIGRATION ===
   const CONTENT_VER_KEY = 'respawn_base_content_version_v3';
-  const BASE_CONTENT_VERSION = 3;
+  const BASE_CONTENT_VERSION = 4;
 
   const deepEqual = (a,b) => JSON.stringify(a) === JSON.stringify(b);
 

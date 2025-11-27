@@ -56,13 +56,13 @@ Gems can be used in the game as a general currency for upgrades at the Jeweler (
 - These special remains typically cost 200 gems each from the Jeweler, or 11 remains for 2,000 gems.
 - Each Limited remains usually gives, along with the random character, one 'pity' token that can be exchanged at the Jeweler for remains, equipment, and supplies.
 - Guaranteed banner character remains typically cost 100 (for legendary) or 60 (for non-legendary) tokens.
-- At a 2% success rate, the probability at least one success in N is: P(N) = 1 - 0.98^N.  so P(60)=70%, P(100)=86.7%
+- At a 2% success rate, the probability at least one success in N pulls is: P(N) = 1 - 0.98^N.  so on the way to reaching pity is: P(60)=70%, P(100)=86.7%
 - Thus, odds are fairly good you will get the banner character before hitting the 'pity' limit, but the gem-cost of a 100% guarantee banner pull is:
     - 60: 5 x 2,000 + 5 x 200 = 11,000 gems
     - 100: 9 x 2,000 + 1 x 200 = 18,200 gems
     - Banner events sometimes provide 2-4 free remains that slightly reduce the above "guarantee" amount by 200-600 gems.
-    - The maximum regular gem rate of 2,800 gems/month gives enough for '100% pull' every 18,200 / 2,800 = 6.5 months.
-    - Usually this is significantly reduced by irregular sources.  Monthly 'possible' gem rates above of 3,400-5,300 reduce this to 3.4-5.3 months.
+    - The maximum regular gem rate of 2,800 gems/month gives enough for '100% pull' on legendary banners every 18,200 / 2,800 = 6.5 months.
+    - Usually this is significantly reduced by irregular sources.  Monthly 'possible' gem rates above of 3,400-5,300 reduce this to 3.4-5.4 months.
     - Banner adventurers generally come out more often than this. <em>F2P players should not expect to get every banner with free resources</em>.
     
 #### Handbooks
@@ -71,7 +71,11 @@ Gems can be used in the game as a general currency for upgrades at the Jeweler (
 
 #### Inventory Storage Increase:
 - The default inventory storage space is 500 slots.
-- The limit can be increased by 25 items for 100 gems up to 1,000 slots for total of 2000 gems.
+- The limit can be increased by 25 items for 100 gems up to a new total of 1,000 slots for total of 2000 gems. 
+
+#### Adventurer's Guild Adventurer Limit Increase:  
+- The default registered adventurer headcount limit is 100.
+- The limit can be increased by 10 slots for 100 gems up to new total of 200 slots for a total of 1,000 gems.
 
 ## Guild Points
 Guild points (blue tokens) are granted for completing activities at the Adventurer's Guild
@@ -145,7 +149,7 @@ In this game, Adventurer's Remains are used by the Masked Adventurer to resurrec
 </div>
 
 ## Guild Tags
-Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying three tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
+Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying two tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
 
 #### Tag Requirements per Adventurer per Grade
 <div class="nofilter-table nosort-table" markdown>
