@@ -9,8 +9,7 @@ Relicbrews can be obtained by finding abyss relics on red glowing monsters anywh
 <!-- maybe add image of a glowing common mob-->
 
 ## Effects
-Relic brews are stat buffs that can be applied to all adventurers. MC will always be included in the group of 6, but you can de-select him in the menu. All relic brew provide an increase to 1-2 stats at the cost of another. The effects can be increased to a maximum of level 5 by consuming the same type of brew multiple times. You do not lose experience if you remove them from a unit. If a unit's alignment (Good/Neutral/Evil) matches the relic brew they receive an additional, "free" level, which is front-loaded. The table below shows the stat increase per brew level along with the level 5 totals of both non-matching ("No Match") and matching ("Matching") alignments. Note: the stat that is negatively impacted is always -1 for a maximum of -5 at level 5
-
+Relic brews are stat buffs that can be applied to all adventurers. MC will always be included in the group of 6, but you can de-select him in the menu. All relic brew provide an increase to 1-2 stats at the cost of another. The effects can be increased to a maximum of level 5 by consuming the same type of brew multiple times. You do not lose experience if you remove them from a unit. If a unit's alignment (Good/Neutral/Evil) matches the relic brew they receive an additional, "free" level, which is front-loaded.
 
 ## Exp
 
