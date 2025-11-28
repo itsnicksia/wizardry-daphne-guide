@@ -15,6 +15,7 @@ const equipmentSheet = {
     plugins: [Sort, Filter]
 }
 
+/*
 const equipTableWeaponsSheet = {
     url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1651673786&single=true&output=csv",
     containerElementId: "weapons-table-container",
@@ -26,7 +27,8 @@ const equipTableArmorSheet = {
     containerElementId: "armor-table-container",
     columnRange: [2, 59]
 }
-
+*/
+    
 const equipWishlistWeaponsSheet = {
     url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1453934832&single=true&output=csv",
     containerElementId: "weapons-wishlist-table-container",
@@ -42,8 +44,8 @@ const equipWishlistArmorSheet = {
 document$.subscribe(() => {
     buildTableFromSheet(trustSheet);
     buildTableFromSheet(equipmentSheet);
-    buildTableFromSheet_equip(equipTableWeaponsSheet);
-    buildTableFromSheet_equip(equipTableArmorSheet);
+/*    buildTableFromSheet_equip(equipTableWeaponsSheet);
+    buildTableFromSheet_equip(equipTableArmorSheet); */
     buildTableFromSheet_equipwishlist(equipWishlistWeaponsSheet);
     buildTableFromSheet_equipwishlist(equipWishlistArmorSheet);
 });
@@ -84,7 +86,7 @@ function buildTableFromSheet({containerElementId, url, columnRange, plugins = []
         }
     );
 }
-
+/*
 function buildTableFromSheet_equip({containerElementId, url, columnRange, plugins = []}) {
     const container = document.getElementById(containerElementId);
     if (!container) {
@@ -124,7 +126,7 @@ function buildTableFromSheet_equip({containerElementId, url, columnRange, plugin
         }
     );
 }
-
+*/
 function buildTableFromSheet_equipwishlist({containerElementId, url, columnRange, plugins = []}) {
     const container = document.getElementById(containerElementId);
     if (!container) {
