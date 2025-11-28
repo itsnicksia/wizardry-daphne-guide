@@ -47,6 +47,7 @@
 | Elf-Pri      | PIE                 |
 | Elise        | STR                 |
 | Emil         | PIE                 |
+| Erwin        |                     |
 | Eulalia      | VIT                 |
 | Flut         | IQ                  |
 | Galbadus     | VIT                 |
@@ -55,6 +56,7 @@
 | Gaston       | STR                 |
 | Gerard       | VIT                 |
 | Gerulf       | STR                 |
+| Gilion       |                     |
 | Human-Fig    | STR                 |
 | Human-Nin    | SPD                 |
 | Human-Pri    | PIE                 |

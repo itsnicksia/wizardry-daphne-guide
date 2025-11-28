@@ -24,7 +24,7 @@ def define_env(env):
         results = pd_read_csv(f'./data/{file}')
         if filter_column != None and filter_values:
             results = results.query(f'`{filter_column}` in {filter_values}')
-        results = results.fillna('')
+        results = results.infer_objects(copy=False).fillna('')
 
         # Only linkify names if file is adventurers.csv and required fields exist
         if file == 'adventurers.csv' and 'Name' in return_columns and 'Rarity' in results.columns:
@@ -111,9 +111,9 @@ def define_env(env):
         # change title of stacked column
         
         if armor_or_weapon == "weapon":
-           eqdata.rename(columns={'TEMP': 'Rank<br># of Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
+           eqdata.rename(columns={'TEMP': 'Rank<br>#Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
         else:
-           eqdata.rename(columns={'TEMP': 'Rank<br>Armor Type<br>Buy Price<br>Sell Price'}, inplace=True)
+           eqdata.rename(columns={'TEMP': 'Rank<br>ArmorType<br>Buy Price<br>Sell Price'}, inplace=True)
  
         # insert blank spacer rows
         if itemcount > 1:

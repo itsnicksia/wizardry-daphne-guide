@@ -31,7 +31,7 @@ This adventurer needs help and requests a Medicinal Herb from the player.
 This Dwarf will trade you some Beginning Abyss Junk if you help restock his potion supply.  
 ![](./img/a1-amiable-dwarf.jpg)  
 ??? note "Details"  
-    - Location: Mid-to-Lower Floors - B4F-B7F
+    - Location: Mid-to-Lower Floors - B3F-B7F
     - Interaction Options:    
         - The Dwarf will ask for either an Invigorating Draught or an Antitoxin if you possess either.  
         - Agreeing to the trade get you some slightly better quality Beginning Abyss Junk.     

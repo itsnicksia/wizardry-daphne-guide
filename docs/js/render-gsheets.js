@@ -27,11 +27,25 @@ const equipTableArmorSheet = {
     columnRange: [2, 59]
 }
 
+const equipWishlistWeaponsSheet = {
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1453934832&single=true&output=csv",
+    containerElementId: "weapons-wishlist-table-container",
+    columnRange: [0, 31]
+}
+
+const equipWishlistArmorSheet = {
+    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1044801618&single=true&output=csv",
+    containerElementId: "armor-wishlist-table-container",
+    columnRange: [0, 13]
+}
+
 document$.subscribe(() => {
     buildTableFromSheet(trustSheet);
     buildTableFromSheet(equipmentSheet);
     buildTableFromSheet_equip(equipTableWeaponsSheet);
     buildTableFromSheet_equip(equipTableArmorSheet);
+    buildTableFromSheet_equipwishlist(equipWishlistWeaponsSheet);
+    buildTableFromSheet_equipwishlist(equipWishlistArmorSheet);
 });
 
 function buildTableFromSheet({containerElementId, url, columnRange, plugins = []}) {
@@ -110,3 +124,43 @@ function buildTableFromSheet_equip({containerElementId, url, columnRange, plugin
         }
     );
 }
+
+function buildTableFromSheet_equipwishlist({containerElementId, url, columnRange, plugins = []}) {
+    const container = document.getElementById(containerElementId);
+    if (!container) {
+        return;
+    }
+
+    Papa.parse(
+        url,
+        {
+            download: true,
+            header: false,
+            skipEmptyLines: true,
+
+            complete: ({ data, meta }) => {
+               let html = [
+                    "<div class='md-typeset__scrollwrap'>",
+                    "<div class='md-typeset__table narrow-table'>",
+                    "<table><thead><tr>"];
+                data.shift().slice(...columnRange).filter((_,index)=>index%2===1).forEach(h => html.push(`<th>${h}</th>`));
+                html.push("</tr></thead><tbody>");
+
+                // rows
+                data.forEach((row, index) => {
+                    html.push('<tr>');
+                    row.slice(...columnRange).filter((_,index)=>index%2===1).forEach(columnValue => html.push(`<td>${columnValue}</td>`));
+                    html.push('</tr>');
+                });
+                html.push("</tbody></table></div></div>");
+                container.innerHTML = html.join("");
+
+
+                const table = container.querySelector("table");
+
+                plugins.forEach(plugin => plugin(table));
+            }
+        }
+    );
+}
+

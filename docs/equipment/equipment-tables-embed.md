@@ -4,6 +4,8 @@ The embedded Google Sheet below lists the armor and weapons found in the game an
 
 Please feel free to use the link above to contribute data to fill in the blanks (especially compendium numbers to help with sorting and reducing duplicates.)
 
+Click here for the current [Equipment Table data wishlist](./equipment-tables-wishlist.md).
+
 If the embedded version is not displaying properly, please try the [exported Equipment Tables](./equipment-tables.md) page.
 
 <iframe style="width: 58rem; height: 20rem;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pubhtml?gid=0&amp;widget=true&amp;headers=false"></iframe>

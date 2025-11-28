@@ -1,37 +1,69 @@
-# Lanavaille
+---
+# Just change title to character name, which must match filename
+# and filename case, and all data fields will pull from
+# adventurers.csv, skills.csv, and image folder. 
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+# Page won't render until any new skills mentioned in adventurers.csv are
+# are added to skills.csv
 
-**Race**: Human  
-**Gender**: Female  
-**Type**: Fire  
-**Personality**: Good  
-**Starting Class**: Knight  
-**Class Change**: Fighter  
-**Role**: Support, Damage
+   title: Lanavaille
+---
+
+{% set chardata = pd_read_csv('../data/adventurers.csv', 
+   index_col='Name').fillna("").loc[title] %}
+
+# {{title}}  
+## Basic Info:  
+**Rarity**: {{ chardata['Rarity'] }}  
+**Race**: {{ chardata['Race'] }}  
+**Gender**: {{ chardata['Gender'] }}  
+**Type**: {{ chardata['Type'] }}  
+**Personality**: {{ chardata['Personality'] }}  
+**Starting Class**: {{ chardata['Primary Class'] }}  
+**Class Change**: {%if chardata['Secondary Class'] %}{{ chardata['Secondary Class'] }}{% else %}None{% endif %}  
+{%if False %}**Alternate Style**: {{ chardata['Secondary Class'] }}{% endif %}  
+
+
+## Base Traits  
+<div class="nofilter-table nosort-table char-traits-table" markdown>
+{{ populate_quicklist(file='adventurers.csv', return_columns=['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], filter_column="Name",filter_values=[title]) | convert_to_md_table }}  
+</div>
+
 
 ??? info "Portraits"
-    === "Knight"
-        ![](../img/lanavaille-knight.jpg)
+    === "{{chardata['Primary Class']}}"
+        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}.jpg)
+{% if chardata['Secondary Class'] %}
+    === "{{chardata['Secondary Class']}}"
+        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}.jpg)
+{% endif %}
+ 
+{% if chardata['Personal Request'] %}
+    === "{{chardata['Primary Class']}} after Personal Request"
+        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}-personal-request.jpg)
+  {% if chardata['Secondary Class'] %}
+    === "{{chardata['Secondary Class']}} after Personal Request"
+        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}-personal-request.jpg)
+  {% endif %}
+{% endif %}
 
-    === "Fighter"
-        ![](../img/lanavaille-fighter.jpg)
-
-    === "Knight After Personal Request"
-        ![](../img/lanavaille-knight-personal-request.jpg)
-
-    === "Fighter After Personal Request"
-        ![](../img/lanavaille-fighter-personal-request.jpg)
-
-    === "Wandering Princess"
-        ![](../img/lanavaille-wandering.jpg)
+{% if chardata['Alternate Style'] %}
+    === "{{chardata['Alternate Style']}}"
+        ![](../img/{{title | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
+{% endif %}
 
 ## Skills
+<!-- 
+skills will automatically fill
+extra text can be added between skills
+-->
 
-!!! note
-    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each skill.
+!!! note "If standard Lanavaille and Wandering Princess Lanavaille are merged, inheritable skills are shared by both styles, but changing styles will swap uninheritable passive and discipline skills."
 
-!!! info "Unique Skill (Inheritable)"
-    === "Queen of War and Love"
-        {{ get_skill_description('Queen of War and Love') }}
+!!! info "Inheritable Skill"
+    === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
+        {{ get_skill_description(chardata['Inheritable Skill']) }}
 
         <div class = "nosort-table nofilter-table" markdown>
         
@@ -47,22 +79,40 @@
 
         </div>
         
-!!! info "Unique Skill (Not Inheritable)"
-    === "Stirring Righteousness (Standard)"
-        {{ get_skill_description('Stirring Righteousness') }}
-        
-        !!! note
-            This damage increase is approximately 8%.
+ {% if chardata['Alternate Inheritable Skill'] %}
+    === "{{chardata['Alternate Inheritable Skill']}} ({{chardata['Alternate Style']}})"
+        {{ get_skill_description(chardata['Alternate Inheritable Skill']) }}
+ {% endif %}
 
-    === "Valiant Righteousness (Wandering Princess)"
-        {{ get_skill_description('Valiant Righteousness') }}
+{% if chardata['Potential Inherit'] %}
+!!! info "Potential Inherit"
+    === "{{chardata['Potential Inherit']}}"
+        {{ get_skill_description(chardata['Potential Inherit']) }}
+{% endif %}
+       
+!!! info "Unique Skill (Not Inheritable)"
+
+    === "{{chardata['Unique Skill (Not Inheritable)']}} {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}(Standard){% endif %}"
+        {{ get_skill_description(chardata['Unique Skill (Not Inheritable)']) }}
+
+        !!! note "This damage increase is approximately 8%."
+
+ {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}
+    === "{{chardata['Alternate Unique Skill (Not Inheritable)']}} ({{chardata['Alternate Style']}})"
+        {{ get_skill_description(chardata['Alternate Unique Skill (Not Inheritable)']) }}
+ {% endif %}
 
 !!! info "Discipline Skill"
-    === "Warrior Princess of Resolution and Love (Standard)"
-        {{ get_skill_description('Warrior Princess of Resolution and Love') }}
+    === "{{chardata['Discipline']}} {% if chardata['Alternate Discipline'] %}(Standard){% endif %}"
+        {{ get_skill_description(chardata['Discipline']) }}
 
-    === "Flawlessly Composed Warrior Princess (Wandering Princess)"
-        {{ get_skill_description('Flawlessly Composed Warrior Princess') }}
+{% if chardata['Alternate Discipline'] %}
+    === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
+        {{ get_skill_description(chardata['Alternate Discipline']) }}
+{% endif %}
+
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
+
 ## Adventurer Reviews
 
 ??? info "TheAxolotl's Analysis"
@@ -120,9 +170,9 @@
 
 ## Duplicate Usage:
 
-* If you use her Wandering Princess style
-    * Inherit her standard style dupes to her own skill to increase its healing power.
-    * Wandering Princess dupes can either go towards Discipline or inherit. While Discipline boosts are minimal, you'll likely reach inheritance cap eventually from standard Lana pulls over time.
-* If you use her standard style and not her Wandering Princess style, Discipline and skill inherit are both good options, although I'd probably slightly favor skill inherits.
-* Inherit her skill to the MC.
+* Either Inherit her standard style dupes to level Queen of Love and War or Discipline the standard style.  
+* Wandering Princess dupes can either be used for leveling Aegis Smash or Discipline the Wandering Princess style. 
+    * Remember, if you merge Lanavaille both styles will need at least discipline 1 to benefit from merged combined discipline.
+* Inherit standard style Queen of Love and War to the MC, just remember that this skill does not stack.  Only the highest HP heal on any character will trigger at the end of combat.
+* Inherit Wandering Princess Aegis Smash to a physical damage dealer.
 * Save for future use or dismiss for Grade tags.

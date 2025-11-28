@@ -1,19 +1,17 @@
 # The Trade Waterways
 
 !!! note 
-    Certain floors have tile variations variations (shifts and rotations) that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features.
+    Certain floors have tile variations variations (shifts and rotations) that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details. 
 
 ??? note "Some tips for this Abyss before starting"
     - To make the run easier, one can grind out Undead March Request from the Beginning Abyss to get to level 40 and complete the Grade Up exam.
     - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from Earth Den BF1.  Many monsters are also "Magical Beasts", so characters and weapons with the "Magical Beast-Slayer" trait are also  useful.
     - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for Abyss 3.
     - ==Do not sell all of the Sahuagin Scales you obtain== as you begin this Abyss, as they are needed for a mandatory late main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.
-    - Fully completing this Abyss involves finding and reading all of the Mermaid statues.  Some are unreachable until you learn how to reverse the water statues, and one cannot be read on the first play-through. Each district contains:  
-        - District 2: 2 statues  
-        - District 3: 2 statues  
-        - District 4: 2 statues  
-        - District 5: 1 statue  
-        - District 6: 1 statue (damaged)  
+    - Fully completing this Abyss involves finding and reading all of the Mermaid statues.  Some are unreachable until you learn how to reverse the water statues, and one cannot be read on the first play-through. The map below shows their locations and 'message numbers' so you can locate any that you are missing:  
+
+    ??? map "Mermaid Statue Locations"  
+        ![](./img/trade-waterways-mermaid-statues.jpg)  
 
 !!! note "There are areas where you are carried by a strong current. You must unlock the ability to reverse the water statues. Some have a timer to become cursed again. Some areas will be completely submerged. You should lure monsters out of the water in these areas or they will be stronger and faster."
 

@@ -1,37 +1,106 @@
-# Gillion    
+---
+# Just change title to character name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
+#
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-requestform-class.jpg
+#
+# Free text can still be added to any section, reviews at end, etc.
 
-**Race**: Human  
-**Gender**: Male  
-**Type**: Dark  
-**Personality**: Neutral  
-**Starting Class**: Fighter  
-**Class Change**:   
-**Role**: Damage  
+   title: Gillion
+---
+
+{% set chardata = pd_read_csv('../data/adventurers.csv', 
+   index_col='Name').fillna("").loc[title] %}
+
+# {{title}}  
+## Basic Info:  
+**Rarity**: {{ chardata['Rarity'] }}  
+**Race**: {{ chardata['Race'] }}  
+**Gender**: {{ chardata['Gender'] }}  
+**Type**: {{ chardata['Type'] }}  
+**Personality**: {{ chardata['Personality'] }}  
+**Starting Class**: {{ chardata['Primary Class'] }}  
+**Class Change**: {%if chardata['Secondary Class'] %}{{ chardata['Secondary Class'] }}{% else %}None{% endif %}  
+{%if False %}**Alternate Style**: {{ chardata['Secondary Class'] }}{% endif %}  
+
+
+## Base Traits  
+<div class="nofilter-table nosort-table char-traits-table" markdown>
+{{ populate_quicklist(file='adventurers.csv', return_columns=['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], filter_column="Name",filter_values=[title]) | convert_to_md_table }}  
+</div>
+
 
 ??? info "Portraits"
-    === "Fighter"
-        ![](../img/gillion-fighter.jpg)
+    === "{{chardata['Primary Class']}}"
+        ![](../img/{{title | lower }}-{{chardata['Primary Class'].replace(" ","-") | lower}}.jpg)
+{% if chardata['Secondary Class'] %}
+    === "{{chardata['Secondary Class']}}"
+        ![](../img/{{title | lower }}-{{chardata['Secondary Class'].replace(" ","-") | lower}}.jpg)
+{% endif %}
+ 
+{% if chardata['Personal Request'] %}
+    === "{{chardata['Primary Class']}} after Personal Request"
+        ![](../img/{{title | lower }}-{{chardata['Primary Class'].replace(" ","-") | lower}}-personal-request.jpg)
+  {% if chardata['Secondary Class'] %}
+    === "{{chardata['Secondary Class']}} after Personal Request"
+        ![](../img/{{title | lower }}-{{chardata['Secondary Class'].replace(" ","-") | lower}}-personal-request.jpg)
+  {% endif %}
+{% endif %}
+
+{% if chardata['Alternate Style'] %}
+    === "{{chardata['Alternate Style']}}"
+        ![](../img/{{title | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
+{% endif %}
 
 ## Skills
+<!-- 
+skills will automatically fill
+extra text can be added between skills
+-->
 
-!!! info "Unique Skill (Inheritable)"
-    === "Cry of Ruin"
-        {{ get_skill_description("Cry of Ruin") }}  
+{% if chardata['Alternate Style'] %}
+!!! note "If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills."
+{% endif %}
+
+!!! info "Inheritable Skill"
+    === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
+        {{ get_skill_description(chardata['Inheritable Skill']) }}
+
+        !!! note "This attack is locked to close range, regardless of the weapon equipped."
+
+ {% if chardata['Alternate Inheritable Skill'] %}
+    === "{{chardata['Alternate Inheritable Skill']}} ({{chardata['Alternate Style']}})"
+        {{ get_skill_description(chardata['Alternate Inheritable Skill']) }}
+ {% endif %}
+
+{% if chardata['Potential Inherit'] %}
+!!! info "Potential Inherit"
+    === "{{chardata['Potential Inherit']}}"
+        {{ get_skill_description(chardata['Potential Inherit']) }}
+{% endif %}
        
-        !!! note
-            This attack is locked to close range, regardless of the weapon equipped.
-
 !!! info "Unique Skill (Not Inheritable)"
-    === "Cursed-Blood Resonance"
-        {{ get_skill_description("Cursed-Blood Resonance") }}  
 
-        !!! note
-            The damage increase is approximately 15%, with a 5% maximum HP loss.
+    === "{{chardata['Unique Skill (Not Inheritable)']}} {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}(Standard){% endif %}"
+        {{ get_skill_description(chardata['Unique Skill (Not Inheritable)']) }}
+
+        !!! note "The damage increase is approximately 15%, with a 5% maximum HP loss."
+
+ {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}
+    === "{{chardata['Alternate Unique Skill (Not Inheritable)']}} ({{chardata['Alternate Style']}})"
+        {{ get_skill_description(chardata['Alternate Unique Skill (Not Inheritable)']) }}
+ {% endif %}
 
 !!! info "Discipline Skill"
-    === "Vengeful Oath Conditioning"
-        {{ get_skill_description("Vengeful Oath Conditioning") }}  
-       
+    === "{{chardata['Discipline']}} {% if chardata['Alternate Discipline'] %}(Standard){% endif %}"
+        {{ get_skill_description(chardata['Discipline']) }}
+
+{% if chardata['Alternate Discipline'] %}
+    === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
+        {{ get_skill_description(chardata['Alternate Discipline']) }}
+{% endif %}
+
 ## Adventurer Reviews
 
 ??? info "TheAxolotl's Analysis"
