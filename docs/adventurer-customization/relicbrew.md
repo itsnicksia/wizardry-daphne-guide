@@ -9,7 +9,7 @@ Relicbrews can be obtained by finding abyss relics on red glowing monsters anywh
 <!-- maybe add image of a glowing common mob-->
 
 ## Effects
-Relic brews are stat buffs that can be applied to all adventurers. MC will always be included in the group of 6, but you can de-select him in the menu. All relic brew provide an increase to 1-2 stats at the cost of another. The effects can be increased to a maximum of level 5 by consuming the same type of brew multiple times. You do not lose experience if you remove them from a unit. If a unit's alignment (Good/Neutral/Evil) matches the relic brew they receive an additional, "free" level, which is front-loaded.
+Relic brews are stat buffs that can be applied to all adventurers. MC will always be included in the group of 6, but you can de-select him in the menu. All relic brew provide an increase to 1-2 stats at the cost of another. The effects can be increased to a maximum of level 5 by consuming the same type of brew multiple times. You do not lose experience if you remove them from a unit, but you need to find/drink the same relic brew again to reactivate it. If a unit's alignment (Good/Neutral/Evil) matches the relic brew they receive an additional, "free" level, which is front-loaded.
 
 ## Exp
 
@@ -44,9 +44,10 @@ Levels of removed powers are retained by that charater and will be restored to t
 
 Lists 9 items for sale on a weekly rotation. There are 3 rows of 3 items per row, with the top row being 3* relics, the middle row being 2* relics, and the last row being 1* relics. The relics could be any known relic in the game. 3* relics cost 400 slag, 2* relics cost 200 slag, and 1* relics cost 100 slag. You can refresh the shop with gems, which start at 200 gems and doubles per refresh.
 
-## List of effects
+## List of effects  
+!!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
 
-| Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name<sup>†</sup>                  | Compendium Number |
+| Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                  | Compendium Number |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- | ----------------- |
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | Gobber's Evil Eye                          | Accuracy Up, Surety Down             | Neutral     | Goblin                 | Gobber Bloodwood                        | 4040              |
@@ -97,8 +98,6 @@ Lists 9 items for sale on a weekly rotation. There are 3 rows of 3 items per row
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
-
-<sup>†</sup> Obtained relics may have other Relic Name modifiers, such as "Twisted", to indicate higher Relic power.
 
 ## Relic Brew Stat Increases
 
