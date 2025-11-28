@@ -4,9 +4,9 @@
 
 The Well of the Mind is a unique main character customization element accessible from the Ruins where you can unlock classes, skills, spells, and stat increases using "Mind Pearls".  
 
-You start with 4 Mind Pearls. More are obtained by collecting ["Guiding Lights" through progressing in the main story](./well-of-the-mind#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area.  
+You start with 4 Mind Pearls. More are obtained by collecting ["Guiding Lights" through progressing in the main story](#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area.  
 
-Node layout and Mind Pearl costs are noted on the node map below, with node border colors matching the Guiding Light needed for unlocking that area.  For the meaning of each node, see [the Acronym/Node label description table]((./well-of-the-mind#wotm-acronym-node-labels-table)).
+Node layout and Mind Pearl costs are noted on the node map below, with node border colors matching the Guiding Light needed for unlocking that area.  For the meaning of each node, see [the Acronym/Node label description table](#wotm-acronymsnode-labels-table).
 
 [Work In Progress](https://docs.google.com/drawings/d/1vpO4_4Z8DE4ba7NVDWpWgkeXaeyBkpAGcC0YTr0XzeQ/edit)  
 ![Well of the Mind](./img/well-of-the-mind.png)
@@ -39,9 +39,37 @@ Node layout and Mind Pearl costs are noted on the node map below, with node bord
 ??? warning "Help, I'm Missing Guiding Lights!"
     If you met the requirements to obtain a guiding light but don't have it actually available in the Well for use, try exiting and restarting the game. Some of them seem to need a reboot to show up properly.
 
-    
+## Skill Improvement Values
+The tables below give the amount of skill improvement each node gives.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. 
 
-| Acronym / Node Label  {id="wotm-acronym-node-labels-table}| DESCRIPTION                                                                                                     |
+| Stat | 1st | Repeat |
+|:---:|:---:|:---:|
+| HP | 4 | 4 |
+| SP | 2 | 2 |
+| MP |  |   |
+| ATK | 2 | 2 |
+| SUR | 2 | 1 |
+| ACC | 2 | 2 |
+| MAG | 2 | 2 |
+| DIV |   |   |
+| ASPD | 2 | 1 |
+| DEF | 3 | 3 |
+| MDEF | 3 | 3 |
+| EVA  |   |   |	
+| | | |
+| Status Tolerance | 30% | 3-5% |   
+| | | |
+|1H Weapon Profic. | +4ATK, +4ACC | +2ATK, +2ACC |
+|2H Weapon Profic. | +4ATK, +4ACC | +2ATK, +2ACC |
+| Ninja Weapon Profic. | +4ATK, 4SUR| n/a | 
+|Blunt Weapon Profic. |   |   |
+|Staff Weapon Profic. |   |   |
+| Armor Profic. (all types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
+
+ 
+## WotM Acronyms/Node Labels Table
+
+| Acronym / Node Label | DESCRIPTION | 
 |:------------------ |:--------------------------------------------------------------------------------------------------------------- |
 | STR | Strength |
 | IQ | Intelligence |
