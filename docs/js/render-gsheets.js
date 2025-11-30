@@ -31,8 +31,6 @@ const equipWishlistArmorSheet = {
 document$.subscribe(() => {
     buildTableFromSheet(trustSheet);
     buildTableFromSheet(equipmentSheet);
-/*    buildTableFromSheet_equip(equipTableWeaponsSheet);
-    buildTableFromSheet_equip(equipTableArmorSheet); */
     buildTableFromSheet_equipwishlist(equipWishlistWeaponsSheet);
     buildTableFromSheet_equipwishlist(equipWishlistArmorSheet);
 });
