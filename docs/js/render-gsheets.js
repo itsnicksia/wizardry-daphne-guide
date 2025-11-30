@@ -15,20 +15,7 @@ const equipmentSheet = {
     plugins: [Sort, Filter]
 }
 
-/*
-const equipTableWeaponsSheet = {
-    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1651673786&single=true&output=csv",
-    containerElementId: "weapons-table-container",
-    columnRange: [2, 59]
-}
 
-const equipTableArmorSheet = {
-    url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=139619551&single=true&output=csv",
-    containerElementId: "armor-table-container",
-    columnRange: [2, 59]
-}
-*/
-    
 const equipWishlistWeaponsSheet = {
     url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdkxkQ7MR0kOOOlPgZ666s2oFoyI5Z34y6l1hxcwHXdktXuf9OrsfhQAsINwLvCBVEfylIygj5oCAE/pub?gid=1453934832&single=true&output=csv",
     containerElementId: "weapons-wishlist-table-container",
@@ -86,47 +73,7 @@ function buildTableFromSheet({containerElementId, url, columnRange, plugins = []
         }
     );
 }
-/*
-function buildTableFromSheet_equip({containerElementId, url, columnRange, plugins = []}) {
-    const container = document.getElementById(containerElementId);
-    if (!container) {
-        return;
-    }
 
-    Papa.parse(
-        url,
-        {
-            download: true,
-            header: false,
-            preview: 100,
-            complete: ({ data, meta }) => {
-                let html = [
-                    "<div class='md-typeset__scrollwrap'>",
-                    "<div class='md-typeset__table'>",
-                    "<table><thead><tr>"];
-                data.shift().slice(...columnRange).forEach(h => html.push(`<th>${h}</th>`));
-                html.push("</tr></thead><tbody>");
-
-                // rows
-                data.forEach((row, index) => {
-                    if (`${row[4]}`) {
-                        html.push('<tr>');
-                        row.slice(...columnRange).forEach(columnValue => html.push(`<td>${columnValue}</td>`));
-                        html.push('</tr>');
-                    }
-                });
-                html.push("</tbody></table></div></div>");
-                container.innerHTML = html.join("");
-
-
-                const table = container.querySelector("table");
-
-                plugins.forEach(plugin => plugin(table));
-            }
-        }
-    );
-}
-*/
 function buildTableFromSheet_equipwishlist({containerElementId, url, columnRange, plugins = []}) {
     const container = document.getElementById(containerElementId);
     if (!container) {
