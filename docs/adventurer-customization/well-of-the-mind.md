@@ -55,6 +55,7 @@ The tables below give the amount of skill improvement each node gives.  For node
 | ASPD | 2 | 1 |
 | DEF | 3 | 3 |
 | MDEF | 3 | 3 |
+| RES |   |   |
 | EVA  | 2 | 2 |	
 | | | |
 | Status Tolerance | 30% | 3-5% |   
@@ -65,7 +66,8 @@ The tables below give the amount of skill improvement each node gives.  For node
 |Blunt Weapon Profic. |   |   |
 |Staff Weapon Profic. | +4MAG, +4DIV | +2MAG, +2DIV |
 | Armor Profic. (all types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
-
+| Evade Trap  | 2 | 1 |	
+| Disarm Trap  | 2 |  |	
  
 ## WotM Acronyms/Node Labels Table
 
