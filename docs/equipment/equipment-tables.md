@@ -7,77 +7,82 @@ If the table does not display correctly, try the [embedded version](./equipment-
 
 Click here for the current [Equipment Table data wishlist](./equipment-tables-wishlist.md).
 
-## Weapons Table
-<div  class="nofilter-table nosort-table equipment-table" markdown>
-=== "Daggers"
-   {{ get_equip_table_formatted("weapon", "Dagger") | convert_to_md_table | add_indentation(spaces=4) }}
+## Equipment Tables
 
-=== "1-Handed Swords"
-   {{ get_equip_table_formatted("weapon", "1H_Sword") | convert_to_md_table | add_indentation(spaces=4) }}
+=== "Armor"  
 
-=== "2-Handed Swords"
-   {{ get_equip_table_formatted("weapon", "2H_Sword") | convert_to_md_table | add_indentation(spaces=4) }}
+    <div  class="nofilter-table nosort-table equipment-table" markdown>
 
-=== "1-Handed Axes"
-   {{ get_equip_table_formatted("weapon", "1H_Axe") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "Head"
+{{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "2-Handed Axes"
-   {{ get_equip_table_formatted("weapon", "2H_Axe") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "Shield"
+{{get_equip_table_formatted("armor", "Shield") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "1-Handed Maces"
-   {{ get_equip_table_formatted("weapon", "1H_Mace") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "Feet"
+{{get_equip_table_formatted("armor", "Feet") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "2-Handed Maces"
-   {{ get_equip_table_formatted("weapon", "2H_Mace") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "Hands"
+{{get_equip_table_formatted("armor", "Hands") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "1-Handed Staffs"
-   {{ get_equip_table_formatted("weapon", "1H_Staff") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "Body"
+{{get_equip_table_formatted("armor", "Body") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "2-Handed Staffs"
-   {{ get_equip_table_formatted("weapon", "2H_Staff") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "Accessories"
+{{get_equip_table_formatted("armor", "Accessories") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "2-Handed Spears"
-   {{ get_equip_table_formatted("weapon", "2H_Spear") | convert_to_md_table | add_indentation(spaces=4) }}
+    </div>
 
-=== "Bows"
-   {{ get_equip_table_formatted("weapon", "Bow") | convert_to_md_table | add_indentation(spaces=4) }}
+=== "Weapons"  
 
-=== "Samurai Katana"
-   {{ get_equip_table_formatted("weapon", "Sam_Katana") | convert_to_md_table | add_indentation(spaces=4) }}
+    <div  class="nofilter-table nosort-table equipment-table" markdown>
 
-=== "Ninja Blades"
-   {{ get_equip_table_formatted("weapon", "Ninja_Blade") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "Daggers"
+       {{ get_equip_table_formatted("weapon", "Dagger") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "Ninja Throwing Weapons"
-   {{ get_equip_table_formatted("weapon", "Ninja_Throw") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "1-Handed Swords"
+       {{ get_equip_table_formatted("weapon", "1H_Sword") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "Tools"
-   {{ get_equip_table_formatted("weapon", "Tool") | convert_to_md_table | add_indentation(spaces=4) }}
-</div>
-## Armor Table
-<div  class="nofilter-table nosort-table equipment-table" markdown>
-=== "Head"
-   {{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "2-Handed Swords"
+       {{ get_equip_table_formatted("weapon", "2H_Sword") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "Shield"
-   {{get_equip_table_formatted("armor", "Shield") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "1-Handed Axes"
+       {{ get_equip_table_formatted("weapon", "1H_Axe") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "Feet"
-   {{get_equip_table_formatted("armor", "Feet") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "2-Handed Axes"
+       {{ get_equip_table_formatted("weapon", "2H_Axe") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "Hands"
-   {{get_equip_table_formatted("armor", "Hands") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "1-Handed Maces"
+       {{ get_equip_table_formatted("weapon", "1H_Mace") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "Body"
-   {{get_equip_table_formatted("armor", "Body") | convert_to_md_table | add_indentation(spaces=4) }}
+    === "2-Handed Maces"
+       {{ get_equip_table_formatted("weapon", "2H_Mace") | convert_to_md_table | add_indentation(spaces=8) }}
 
-=== "Accessories"
-   {{get_equip_table_formatted("armor", "Accessories") | convert_to_md_table | add_indentation(spaces=4) }}
-</div>
+    === "1-Handed Staffs"
+       {{ get_equip_table_formatted("weapon", "1H_Staff") | convert_to_md_table | add_indentation(spaces=8) }}
 
+    === "2-Handed Staffs"
+       {{ get_equip_table_formatted("weapon", "2H_Staff") | convert_to_md_table | add_indentation(spaces=8) }}
 
+    === "2-Handed Spears"
+       {{ get_equip_table_formatted("weapon", "2H_Spear") | convert_to_md_table | add_indentation(spaces=8) }}
 
+    === "Bows"
+       {{ get_equip_table_formatted("weapon", "Bow") | convert_to_md_table | add_indentation(spaces=8) }}
 
+    === "Samurai Katana"
+       {{ get_equip_table_formatted("weapon", "Sam_Katana") | convert_to_md_table | add_indentation(spaces=8) }}
+
+    === "Ninja Blades"
+       {{ get_equip_table_formatted("weapon", "Ninja_Blade") | convert_to_md_table | add_indentation(spaces=8) }}
+
+    === "Ninja Throwing Weapons"
+       {{ get_equip_table_formatted("weapon", "Ninja_Throw") | convert_to_md_table | add_indentation(spaces=8) }}
+
+    === "Tools"
+       {{ get_equip_table_formatted("weapon", "Tool") | convert_to_md_table | add_indentation(spaces=8) }}
+
+    </div>
 
 
 
