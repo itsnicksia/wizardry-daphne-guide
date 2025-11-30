@@ -113,6 +113,7 @@ The table below shows the stat increase per brew level along with the level 5 to
 | ACC                   |     2     |    10    |        12        |
 | EVA                   |     2     |    10    |        12        |
 | MAG                   |     2     |    10    |        12        |
+| DIV | | |
 | ASPD                  |     1     |     5    |         6        |
 | DEF                   |     4     |    20    |        24        |
 | MDEF                  |     4     |    20    |        24        |
