@@ -111,11 +111,12 @@ The table below shows the stat increase per brew level along with the level 5 to
 | ATK                   |     2     |    10    |        12        |
 | SUR                   |     1     |     5    |         6        |
 | ACC                   |     2     |    10    |        12        |
+| EVA                   |     2     |    10    |        12        |
 | MAG                   |     2     |    10    |        12        |
 | ASPD                  |     1     |     5    |         6        |
 | DEF                   |     4     |    20    |        24        |
 | MDEF                  |     4     |    20    |        24        |
-| Elemental tolerance† |    1%     |    5%    |        6%        |
-| Status tolerance†    |    1%     |    5%    |        6%        |
+| Elemental tolerance<sup>†</sup> |    1%     |    5%    |        6%        |
+| Status tolerance<sup>†</sup>    |    1%     |    5%    |        6%        |
 
 <sup>†</sup> These are rough estimates. Could range from 0.5-1% per level
