@@ -116,6 +116,7 @@ The table below shows the stat increase per brew level along with the level 5 to
 | ASPD                  |     1     |     5    |         6        |
 | DEF                   |     4     |    20    |        24        |
 | MDEF                  |     4     |    20    |        24        |
+| Detect	     	        | 2 | 10 | 12 |
 | Elemental tolerance<sup>†</sup> |    1%     |    5%    |        6%        |
 | Status tolerance<sup>†</sup>    |    1%     |    5%    |        6%        |
 
