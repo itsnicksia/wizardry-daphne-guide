@@ -46,16 +46,16 @@ The tables below give the amount of skill improvement each node gives.  For node
 |:---:|:---:|:---:|
 | HP | 4 | 4 |
 | SP | 2 | 2 |
-| MP |  |   |
+| MP | 2 | 2 |
 | ATK | 2 | 2 |
 | SUR | 2 | 1 |
 | ACC | 2 | 2 |
 | MAG | 2 | 2 |
-| DIV |   |   |
+| DIV | 2 | 2 |
 | ASPD | 2 | 1 |
 | DEF | 3 | 3 |
 | MDEF | 3 | 3 |
-| EVA  |   |   |	
+| EVA  | 2 | 2 |	
 | | | |
 | Status Tolerance | 30% | 3-5% |   
 | | | |
@@ -63,7 +63,7 @@ The tables below give the amount of skill improvement each node gives.  For node
 |2H Weapon Profic. | +4ATK, +4ACC | +2ATK, +2ACC |
 | Ninja Weapon Profic. | +4ATK, 4SUR| n/a | 
 |Blunt Weapon Profic. |   |   |
-|Staff Weapon Profic. |   |   |
+|Staff Weapon Profic. | +4MAG, +4DIV | +2MAG, +2DIV |
 | Armor Profic. (all types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
 
  
