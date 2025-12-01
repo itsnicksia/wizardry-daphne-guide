@@ -1171,7 +1171,7 @@
 
   // === CONTENT VERSION + REBASE/MIGRATION ===
   const CONTENT_VER_KEY = 'respawn_base_content_version_v3';
-  const BASE_CONTENT_VERSION = 4;
+  const BASE_CONTENT_VERSION = 4.1;
 
   const deepEqual = (a,b) => JSON.stringify(a) === JSON.stringify(b);
 
