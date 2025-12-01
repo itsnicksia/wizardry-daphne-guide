@@ -1112,8 +1112,8 @@
         },
         {
           id: 'holy_white_gem',
-          title: 'Luminous Holy White Gem',
-          details: 'Papal Route Clear Reward',
+          title: 'Holy White Stone',
+          details: 'Pontiff Route Clear Reward',
           image: '',
           clickable: false,
         },
