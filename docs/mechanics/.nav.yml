@@ -1,6 +1,7 @@
 nav:
   - Character Traits and Stats: './traits-and-stats.md'
   - Discipline and Inheritance: './discipline-and-inheritance.md'
+  - Merging: './merging.md'
   - Damage Mechanics: './damage-mechanics.md'
   - Map Variations: './map-variations.md'
   - Trust Guide: './trust/trust.md'
