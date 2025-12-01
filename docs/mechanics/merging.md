@@ -14,8 +14,8 @@ A limited number of characters have alternative versions ("styles") that come wi
 
 At the time this article was written the following adventurers can be merged:
 
-- Legendary units: Lanavaille, Adam, Yekaterina, Debra
-- General units: Flut, Marianne, Chloe, Asha
+- Legendary units: [Lanavaille](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Lanavaille/), [Adam](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Adam/), [Yekaterina](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Yekaterina/), [Debra](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Debra/)
+- General units: [Flut](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Flut/), [Marianne](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Marianne/), [Chloe](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Chloe/), [Asha](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Asha/)
 
 ## How do I merge?
 
@@ -33,11 +33,11 @@ To change styles: Adventure’s Guild > Training Room > select merged unit > “
 
 The style you select as “active” in the Training Room determines what discipline (“featured stats”) and passive skill is available to the adventurer. Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. Let’s use Asha as an example:
 
-__Unique Skill (Passive)__
+Unique Skill (Passive)
 - Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
 - Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
 
-__Discipline Skill (“Featured stats”)__   
+Discipline Skill (“Featured stats”)   
 - Standard Asha: HP and Poison Tolerance 
 - Witching Mage Asha: HP and Sleep Tolerance 
 
