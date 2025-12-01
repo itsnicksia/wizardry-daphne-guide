@@ -676,7 +676,7 @@
         {
           id: 'cauldron_mausoleum',
           title: 'Crucible Mausoleum Reset',
-          details: 'A new set of 4 or 5 new Adventurer’s Remains become available in the Crucible Mausoleum every 2 weeks.',
+          details: 'A new set of 4 to 6 Adventurer’s Remains become available in the Crucible Mausoleum every 2 weeks.',
           reset: { 
             reference: '2025-05-31T10:00:00',  // Initial reset anchor time (local time) 
             intervalWeeks: 2                   // Repeat every 2 weeks 
@@ -828,7 +828,7 @@
         },
         {
           id: 'abyss_b5f_huntsman',
-          title: 'Huntsmans Bow',
+          title: "Huntsman's Bow",
           details: 'Chest in B5F Southwest 3-chest room (x:8, y:2)',
           image: '/tools/img/other/respawning-huntsman-bow-a1-b5f.jpg',
           clickable: true,
@@ -872,7 +872,7 @@
         {
           id: 'undead_ward',
           title: 'Undead Ward',
-          details: 'Request Reward from "Abyssal Heretic"',
+          details: 'Request Reward from "Abyss Heretics"',
           image: '',
           clickable: false,
         },
@@ -909,7 +909,7 @@
         { subheader: 'Chest Items' },
         {
           id: 'a2-district1-manapots',
-          title: 'Mana Elixers x2',
+          title: 'Mana Elixer x2',
           details: 'Chest in 1st District behind locked door (x:10, y:22). Respawns monthly.',
           image: '/tools/img/other/respawning-mana-pot-a2-district1.jpg',
           clickable: true,
@@ -923,7 +923,7 @@
         },
         {
           id: 'thieves_gloves',
-          title: 'Thieves Gloves',
+          title: "Thieves' Gloves",
           details: 'Chest in 4th District near Harken room (x:26, y:20)',
           image: '/tools/img/other/respawning-thieves-gloves-a2-district4.jpg',
           clickable: true,
@@ -951,7 +951,7 @@
         },
         {
           id: 'a2-ship2-manapots',
-          title: 'Mana Elixers x3',
+          title: 'Mana Elixer x3',
           details: 'Chest in Ship 2 Treasure Room (x:14, y:13) with 2x Deep-Water Gleaming Crystals. Respawns monthly.',
           image: '/tools/img/other/respawning-mana-pot-a2-ship2.jpg',
           clickable: true,
@@ -960,7 +960,7 @@
         { subheader: 'Request Rewards' },
         {
           id: 'bird_dropper',
-          title: 'Bird Dropper',
+          title: 'Bird-Dropper',
           details: 'Request Reward from "Hydra Plant Procurement"',
           image: '',
           clickable: false,
@@ -968,7 +968,7 @@
         {
           id: 'bloodstained_gloves',
           title: 'Bloodstained Gloves',
-          details: 'Request Reward from "Servant and Cargo Recovery" (non-bondmate path)',
+          details: 'Request Reward from "Servant and Cargo Recovery" (select "Turn them all over to the merchant")',
           image: '',
           clickable: false,
         },
@@ -1070,15 +1070,15 @@
         },
         {
           id: 'demonic_crystal',
-          title: 'Demonic Crystal',
-          details: 'Fortress Underground » "Guardian of Forbidden Exploration" quest » "You Know Sin"',
+          title: 'Magic-Made Crystal',
+          details: 'Request Reward from "Forbidden Area Search Escort". Select "I know all about your family\'s sins" (4th option) at the end of the quest',
           image: '',
           clickable: false,
         },
         {
           id: 'goats_cloak_a3reward',
           title: 'Goatskin Cloak',
-          details: 'Request Reward from "Antique Scarlet Doll" or Chest in Zone 6',
+          details: 'Request Reward from "Antique Scarlet Doll"',
           image: '',
           clickable: false,
         },
@@ -1105,7 +1105,7 @@
         },
         {
           id: 'tome_shieldbearer',
-          title: 'Tome of the Loyal Shieldbearer',
+          title: 'Book of Steadfast Shield Soldier Secrets',
           details: 'Princess Route Clear Reward',
           image: '',
           clickable: false,
