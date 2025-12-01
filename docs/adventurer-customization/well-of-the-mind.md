@@ -55,7 +55,7 @@ The tables below give the amount of skill improvement each node gives.  For node
 | ASPD | 2 | 1 |
 | DEF | 3 | 3 |
 | MDEF | 3 | 3 |
-| RES |   |   |
+| RES | 2 | 2 |
 | EVA  | 2 | 2 |	
 | Detect | 2 | 1 |
 | Evade Trap  | 2 | 1 |	
