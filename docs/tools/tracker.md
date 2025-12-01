@@ -1057,7 +1057,7 @@
         {
           id: 'skull_necklace_chest',
           title: 'Skull Necklace - Zone 2 chest',
-          details: 'Chest in Zone 2',
+          details: 'Chest in Zone 2 (x:25, y:25). Requires low corrosion (exact level uncertain).',
           image: '',
           clickable: false,
         },
