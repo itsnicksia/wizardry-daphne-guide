@@ -6,16 +6,16 @@ A limited number of characters have alternative versions ("styles") that come wi
 
 ## Important terms
 
-Base unit: The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. The base unit is important because its IV or “boosted trait” and its current class carry over to the merged adventurer.
-Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive. 
-Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed here. Note: The featured stats of Legendary units are higher than General units. 
+- Base unit: The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. The base unit is important because its IV or “boosted trait” and its current class carry over to the merged adventurer.
+- Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive. 
+- Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed here. Note: The featured stats of Legendary units are higher than General units. 
 
 ## What units can be merged?
 
 At the time this article was written the following adventurers can be merged:
 
-Legendary units: Lanavaille, Adam, Yekaterina, Debra
-General units: Flut, Marianne, Chloe, Asha
+- Legendary units: Lanavaille, Adam, Yekaterina, Debra
+- General units: Flut, Marianne, Chloe, Asha
 
 ## How do I merge?
 
@@ -34,12 +34,12 @@ To change styles: Adventure’s Guild > Training Room > select merged unit > “
 The style you select as “active” in the Training Room determines what discipline (“featured stats”) and passive skill is available to the adventurer. Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. Let’s use Asha as an example:
 
 __Unique Skill (Passive)__
-Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
-Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
+- Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
+- Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
 
 __Discipline Skill (“Featured stats”)__   
-Standard Asha: HP and Poison Tolerance 
-Witching Mage Asha: HP and Sleep Tolerance 
+- Standard Asha: HP and Poison Tolerance 
+- Witching Mage Asha: HP and Sleep Tolerance 
 
 It is important to switch between styles depending on the situation or enemy you are facing. For example, if you are fighting a boss that employs constant poison attacks you would opt for the standard Asha style. Why? Her passive increases poison tolerance for adjacent Good team members; and, her discipline skill increases it even further for herself. 
 
