@@ -227,7 +227,7 @@ Strength+ is a unique property that appears on 2h weapons that adds a portion of
 
 !!! warning "The information about resistance is not exact, what we know is gathered through empirical evidence"
 
-Resistance is a stat that contributes to resisting status effects. There are two main sources of resistance, which is the RES stat itself and Tolerances that come from passive skills and gear.
+Resistance is a stat that contributes to resisting status effects (in the case of poison, it also reduces poison damage). There are two main sources of resistance, which is the RES stat itself and Tolerances that come from passive skills and gear.
 
 All info in this section credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
 
