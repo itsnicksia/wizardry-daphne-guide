@@ -25,8 +25,8 @@ Purple Gems must be purchased through one of the methods mentioned above.  Green
 <div class="nofilter-table nosort-table" markdown>
 | Source                                                       | Frequency | Amount | Monthly Total | 
 | :----------------------------------------------------------- | :-------: | :----: | :-----------: | 
-| Jeweler Exchange - Guild Ponts - Gem of Org x250 (1000 pts)  | Monthly   |  500   | 500           |
-| Jeweler Exchange - Bounty Medals - Gem of Org x100 (400 pts) | Monthly   |  500   | 500           |    
+| Jeweler: Exchange - Guild Points - Gem of Org x250 (1000 pts)  | Monthly   |  500   | 500         |
+| Jeweler: Exchange - Bounty Medals - Gem of Org x100 (400 pts) | Monthly   |  500   | 500          |    
 </div>
 
 #### Irregular Gems
@@ -116,7 +116,7 @@ In this game, Adventurer's Remains are used by the Masked Adventurer to resurrec
 | :--------------------------------------------------------------------------------- | :-------: | :----: | :-----------: | 
 | Adventurer's Guild "Today's Supplies" (Day 7)                                      | Biweekly  |  1     | 2             | 
 | [Bone Picker Abyss-wandering NPC](../abyss-guides/1-beginning-abyss/wandering-npcs/#bone-picker) | Weekly |  1   | 4    |
-| Adverturer's Remains weekly random chest drop                                      | Weekly    |  1     | 4             | 
+| Adventurer's Remains weekly random chest drop                                      | Weekly    |  1     | 4             | 
 | [Beginning Abyss Weekly Respawning Remains](../tools/tracker.md)                   | Weekly    |  1     | 4             |
 | [Beginning Abyss Monthly Respawning Remains](../tools/tracker.md)                  | Monthly   |  9     | 9             |
 | [Trade Waterways Abyss Monthly Respawning Remains](../tools/tracker.md)            | Monthly   |  1     | 1             | 
