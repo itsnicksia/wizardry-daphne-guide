@@ -1162,7 +1162,7 @@
   }
 
   // === CONTENT VERSION + REBASE/MIGRATION ===
-  const CONTENT_VER_KEY = 'respawn_base_content_version_v5';
+  const CONTENT_VER_KEY = 'respawn_base_content_version_v3';
   const BASE_CONTENT_VERSION = 5;
 
   const deepEqual = (a,b) => JSON.stringify(a) === JSON.stringify(b);
