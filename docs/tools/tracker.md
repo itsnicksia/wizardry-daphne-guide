@@ -808,8 +808,7 @@
         {
           id: 'abyss_b3f_exorcism',
           title: 'Exorcism Leather',
-          details: 'Chest in B3F (x:24, y:9) [2 days]
-            ',
+          details: 'Chest in B3F (x:24, y:9) [2 days]',
           image: '/tools/img/other/respawning-exorcism-leather-a1-b3f.jpg',
           clickable: true,
         },
