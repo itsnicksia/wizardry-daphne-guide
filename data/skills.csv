@@ -42,6 +42,7 @@ Blunt Combo Strike,Active,,"Minor physical attack with high Accuracy on 1 enemy.
 Bones of Obsessive Love,Passive,,Restores minor MP to self when defeating an enemy.,,,,,Raffaello,
 Branded Hands,Passive,,Increases Accuracy when equipped with a two-handed weapon.,,,,,Gerulf,
 Calamitous Rockfall,Damage,,"Useable when equipped with Two-Handed Staff of The Spirit Realm. Drops magic infused stones, dealing minor earth spell damage to 1 enemy row. Chance to reduce enemy Evasion for 3 turns.",,,,,,
+Calculated Charity,Passive,,"Reduces physical damage taken from enemies for the user and an ally in front of or behind them if the ally is evil.",,,,,Milana,
 CALDIA,Support,,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.,17,Priest,,,
 Child of the Sacred Tree,Discipline,,"Continuously increases each stat, with Magic Power and Action Speed increased even further.",Magic Power and Action Speed increased further based on skill level.,,,,Shelirionach,
 Chris's Friendship,Bondmate,,Continuously increases MP.,MP increased further based on skill level.,,,,Bondmate,
