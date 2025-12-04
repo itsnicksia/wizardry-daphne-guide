@@ -779,7 +779,7 @@
         {
           id: 'fortress_catacombs',
           title: 'Adventurer’s Remains: Catacombs',
-          details: 'You will need to solve the candle puzzle to open the door to that location. (x:2, y:19) [30 days]',
+          details: 'Solve the candle puzzle to open the door to the room with the bone. Touch the door, touch it again to activate puzzle, then light candles in that order shown in image. (x:2, y:19) [30 days]',
           image: '/tools/img/bones/respawning-bone-catacomb.jpg',
           clickable: true
         },
