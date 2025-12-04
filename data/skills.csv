@@ -287,6 +287,7 @@ Stirring Righteousness,Passive,,Increases damage to enemies for everyone in the 
 Storm-Bearer,Support,,Imbues the equipped katana with an air-type trait.,Damage dealth when striking a weak point with an air-type weapon increased based on skill level.,1/20/30/40,Samurai,"Samurai-specific, Katana-specific",,
 Strong and Gentle Priest,Discipline,,"Continuously increases each stat, Defense Power and Resistance increased further.",Defense Power and Resistance increased further based on skill level.,,,,Daniel,
 Strongest in the Village,Discipline,,"Continuously increases each stat, Attack Power and Defense Power increased further.",Attack Power and Defense Power increased further based on skill level.,,,,Benjamin,
+Strongly Selfish,Discipline,,"Continuously increases each stat, with Defense Power and Action Speed increased further.",Defense Power and Action Speed increased further based on skill level.,,,,Milana,
 Strongly Suspicious,Discipline,,"Continuously increases each stat, Magic Defense and Action Speed increased further.",Magic Defense and Action Speed increased further based on skill level.,,,,Milana,
 Stun Bash,Active,True,Moderate physical attack on 1 enemy. Chance to stun based on Defense Power.,Efficacy and probability increased based on skill level.,8,Knight,Close/mid-range weapon-specific,Alex,
 Superior Principles,Passive,,Further increases damage dealt when attacking with an element type that the target is weak against.,,,,,Bugen,
