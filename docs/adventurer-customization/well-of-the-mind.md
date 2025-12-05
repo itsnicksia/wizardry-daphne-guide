@@ -53,7 +53,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: DarkOrange">VIT 1</span>        |    4    | Complete the Beginning Abyss and save the King |
 | <span style="color: DarkOrange">VIT 2</span>        |  1  | Activate the Golem before the boss fight in Guarda Fortress Abyss |
 | <span style="color: LimeGreen">PIE</span>          |  4  | Beat Melgina for the first time, regardless of missing person request taken |
-| <span style="color: DodgerBlue">IQ</span>          |  4   | Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time. This must now be done on your second or third route. It cannot be done on your first route anymore |
+| <span style="color: DodgerBlue">IQ</span>          |  4   | Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time. This must now be done on your second or later time defeating either Melgina or Octo. It cannot be obtained on your first attempt anymore. |
 | <span style="color: cyan">SPEED</span>       |  4   | 3rd District - Iron Gate Street. Complete the inspection on Guane territory (first time on any path). |
 | <span style="color: yellow">DEX 1</span>       | 4 | 4th District - Boulevard. After solving the drowning water god statue trap, go back to town and something will have changed in the Well of the Mind |
 | <span style="color: yellow">DEX 2</span>       | 1 | Get the "Good" Ending in Guarda Fortress Abyss.  |
