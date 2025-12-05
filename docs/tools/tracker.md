@@ -1023,7 +1023,14 @@
           image: '/tools/img/other/respawning-sp-pots-a3-zone2.jpg',
           clickable: true,
         },
-          {
+        {
+          id: 'skull_necklace_chest',
+          title: 'Skull Necklace - Zone 2 chest',
+          details: 'Chest in Zone 2 (x:25, y:25). Requires low corrosion (exact level uncertain). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+        {
           id: 'goats_cloak_a3_chest',
           title: 'Goatskin Cloak',
           details: 'Chest in Zone 6 (x:24, y:14). Respawns monthly.',
@@ -1043,13 +1050,6 @@
           id: 'skull_necklace_quest',
           title: 'Skull Necklace - Request Reward',
           details: 'Quest Reward from "Putting Evil Spirits to Rest". Respawns monthly.',
-          image: '',
-          clickable: false,
-        },
-        {
-          id: 'skull_necklace_chest',
-          title: 'Skull Necklace - Zone 2 chest',
-          details: 'Chest in Zone 2 (x:25, y:25). Requires low corrosion (exact level uncertain). Respawns monthly.',
           image: '',
           clickable: false,
         },
