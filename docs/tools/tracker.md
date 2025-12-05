@@ -1026,9 +1026,9 @@
         {
           id: 'skull_necklace_chest',
           title: 'Skull Necklace - Zone 2 chest',
-          details: 'Chest in Zone 2 (x:25, y:25). Requires low corrosion (exact level uncertain). Respawns monthly.',
-          image: '',
-          clickable: false,
+          details: 'Chest in Zone 2 (x:23, y:25). Requires low corrosion (exact level uncertain). Respawns monthly.',
+          image: '/tools/img/other/respawning-skull-necklace-a3-zone2.jpg',
+          clickable: true,
         },
         {
           id: 'goats_cloak_a3_chest',
