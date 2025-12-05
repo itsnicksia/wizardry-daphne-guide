@@ -2,7 +2,7 @@
 
 !!! warning "Please bear with us as this page is under construction. More and more details will be added."
 
-??? note "Requirements - Complete the Second Abyss for the first time and talk with Arna in the Royal Capital Adventurer's Guild."
+!!! note "Requirements - Complete the Second Abyss for the first time and talk with Arna in the Royal Capital Adventurer's Guild."
 
 This is a new tab in the requests section that will be unlocked once the requirements are fulfilled. Each town has its own bounties that will require the player to find a specific enemy and kill them. Doing so will reward the player with gold and bounty points that can be used to redeem items in its exchange shop. Each bounty will provide a one time increase to the player's bounty rank, which will unlock more bounties for the player to attempt. Higher bounty levels also unlock more rewards in the shop, as well as milestone rewards for reaching certain bounty ranks.
 
