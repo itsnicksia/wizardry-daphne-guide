@@ -34,6 +34,7 @@ To change styles: Adventure’s Guild > Training Room > select merged unit > “
 The style you select as “active” in the Training Room determines what discipline (“featured stats”) and passive skill is available to the adventurer. Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. Let’s use Asha as an example:
 
 Unique Skill (Passive)
+
 - Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
 - Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
 
