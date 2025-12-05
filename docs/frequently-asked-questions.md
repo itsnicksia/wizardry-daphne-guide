@@ -34,13 +34,13 @@ For more detaileds on the Gacha and game economy, resource accumulation, and usa
 Go to the game Settings (gear icon) and click on `Help`. The Help section has a ton of information for you to absorb!
 
 ### Are there different tiers of adventurers that we can get?
-Yes! This can be seen if you look at the Drop Rates for Adventurer’s Remains. The different tiers are: 
+Yes! This can be seen if you look at the Drop Rates for Adventurer’s Remains. The different tiers and typtial drop rates are: 
 
-* **Anonymous Adventurer** (example: Human-Fig)
-* **General Adventurer** (example: Marianne)
-* **Legendary Adventurer** (example: Lanavaille)
+* **Anonymous Adventurer** 50% (example: Human-Fig)
+* **General Adventurer** 45% (example: Marianne)
+* **Legendary Adventurer** 5% (example: Lanavaille)
 
-Drop rates can be seen in the details on any set of Adventurer's Remains. Typical drop rates are Anonymous: 50%, General: 45%, Legendary: 5%.  Interestingly, there doesn’t seem to be anything on an adventurer’s stats page that indicates what tier they are in.
+Drop rates can be seen in the details on any set of Adventurer's Remains. Interestingly, there doesn’t seem to be anything on an adventurer’s stats page that indicates what tier they are in.
 
 ### Is there permadeath in this game?
 **There is, however it is very difficult to trigger**. First, you need to have a dead adventurer with lower than 50 Fortitude. Second, you need to fail in resurrecting that adventurer *at the Temple*, causing them to turn to ash. Third, you need to fail at resurrecting the adventurer from ash at the Temple. At that point, the character will be gone for good. Because Fortitude continues to regenerate while a character is dead, **you can guarantee never losing a character this way just by waiting** for the adventurer’s Fortitude to rise above 50 before trying to resurrect at the Temple.
