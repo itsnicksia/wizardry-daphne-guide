@@ -47,7 +47,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 
 ## Guiding Lights
 
-| Guiding Light | Bonus<sup>†</sup> Mind Pearls | Method to Obtain  |
+| Guiding Light | Bonus Mind Pearls<sup>†</sup> | Method to Obtain  |
 |:------------- | :-----: |:---------------------------- |
 | <span style="color: #FF0000">STR</span>   |    4   | Obtained after unlocking the Cursed Wheel |
 | <span style="color: DarkOrange">VIT 1</span>        |    4    | Complete the Beginning Abyss and save the King |
