@@ -36,7 +36,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Disarm Trap  | 2 | 1 |	
 | Evade Trap  | 2 | 1 |	
 | | | |
-| Status Tolerance | 30% | 3-5% |   
+| Status Tolerance (All types) | 30% | 3-5% |   
 | | | |
 |1H Weapon Prof. |+4ATK, +4ACC | +2ATK, +2ACC |
 |2H Weapon Prof. |+4ATK, +4ACC | +2ATK, +2ACC |
