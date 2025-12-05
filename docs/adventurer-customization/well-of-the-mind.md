@@ -4,7 +4,7 @@
 
 The Well of the Mind is a unique main character customization element accessible from the Ruins where you can unlock classes, skills, spells, and stat increases using "Mind Pearls".  
 
-You start with 4 Mind Pearls. More are obtained by using ["Guiding Lights" that can be collected through progressing in the main story](#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area. This will open those nodes for use and give you an additional 5 Mind Pearls. Presently, the maximum number of mind pearls obtainable by activatig all Guiding Lights listed below is 39.
+You start with 4 Mind Pearls. More are obtained by using ["Guiding Lights" that can be collected through progressing in the main story](#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area. This will open those nodes for use and give you an additional 1-4 Mind Pearls. Presently, the maximum number of mind pearls obtainable by activating all Guiding Lights listed below is 39.
 
 Node layout and Mind Pearl costs are noted on the node map below, with node border colors matching the Guiding Light needed for unlocking that area.  For the meaning of each node, see [the Acronym/Node label description table](#wotm-acronymsnode-labels-table).
 
@@ -12,13 +12,13 @@ Node layout and Mind Pearl costs are noted on the node map below, with node bord
 ![Well of the Mind](./img/well-of-the-mind.png)
 
 !!! warning
-    Skill, spell, proficiency, and class nodes are always in the same location. Every time you reset the Well, however, content of stat and type change nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on another reset.
+    The Well can be reset every 24 hours or for 100 green or purple Gems of Org. The skill, spell, proficiency, and class nodes are always in the same location. However, the stat and type change nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on another reset.
 
 ## Skill Improvement Values
-The tables below give the amount of skill improvement each node gives.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. 
+The table below shows the stat increase per node taken.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. 
 
 | Stat | 1st | Repeat |
-|:---:|:---:|:---:|
+|:----|:---:|:---:|
 | HP | 4 | 4 |
 | SP | 2 | 2 |
 | MP | 2 | 2 |
@@ -33,17 +33,17 @@ The tables below give the amount of skill improvement each node gives.  For node
 | RES | 2 | 2 |
 | EVA  | 2 | 2 |	
 | Detect | 2 | 1 |
-| Evade Trap  | 2 | 1 |	
 | Disarm Trap  | 2 | 1 |	
+| Evade Trap  | 2 | 1 |	
 | | | |
 | Status Tolerance | 30% | 3-5% |   
 | | | |
-|1H Weapon Profic. | +4ATK, +4ACC | +2ATK, +2ACC |
-|2H Weapon Profic. | +4ATK, +4ACC | +2ATK, +2ACC |
-| Ninja Weapon Profic. | +4ATK, 4SUR| n/a | 
-|Blunt Weapon Profic. |   |   |
-|Staff Weapon Profic. | +4MAG, +4DIV | +2MAG, +2DIV |
-| Armor Profic. (all types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
+|1H Weapon Prof |+4ATK, +4ACC | +2ATK, +2ACC |
+|2H Weapon Prof. |+4ATK, +4ACC | +2ATK, +2ACC |
+| Ninja Weapon Prof| +4ATK, 4SUR| n/a | 
+|Blunt Weapon Prof |   |   |
+|Staff Weapon Prof | +4MAG, +4DIV | +2MAG, +2DIV |
+| Armor Prof (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
 
 ## Guiding Lights
 
