@@ -53,7 +53,7 @@ You do not lose anything by merging an adventurer. And, there is no benefit to l
 - The equipped relicbrews on both units will stack on the merged unit. This could potentially push you into Stage 3 side effects after merging 
 - The base unit’s IV and current class. You may need to use a class handbook or class change request to switch back to your preferred class, so plan accordingly 
 
-## How does the shared discipline mechanic work with merged units?
+## How does the shared discipline mechanic work?
 
 Shared discipline levels between styles is one of the greatest benefits of the merging system. However, this mechanic does not activate until both styles have been disciplined at least once to D1. This means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your pull strategy.
 
