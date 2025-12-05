@@ -39,6 +39,7 @@ Unique Skill (Passive)
 - Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
 
 Discipline Skill (“Featured stats”)   
+
 - Standard Asha: HP and Poison Tolerance 
 - Witching Mage Asha: HP and Sleep Tolerance 
 
