@@ -39,8 +39,8 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     |  Divine Power |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |    Defense    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     | Magic Defense |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
-    |     Surety    |  2  |  3  |  6  |  8  |  10 |  13 |  15 |  17 |  20 |
-    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Surety    |  2  |  3  |   6 |   8 |  10 |  13 |  15 |  17 |  20 |
+    |  Sure Evasion |  0  |  0  |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
     |     Detect    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |  Disarm Trap  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |   Evade Trap  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
@@ -83,8 +83,8 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     |  Divine Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |    Defense    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     | Magic Defense |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |     Surety    |     |     |     |     |     |     |     |     |     |
-    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Surety    |   1 |   2 |   4 |   5 |   6 |   9 |  10 |  11 |     |
+    |  Sure Evasion |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |  0  |
     |     Detect    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |  Disarm Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |   Evade Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
