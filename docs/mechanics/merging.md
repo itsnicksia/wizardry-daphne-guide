@@ -14,8 +14,8 @@ A limited number of characters have alternative versions ("styles") that come wi
 
 At the time this article was written the following adventurers can be merged:
 
-- Legendary units: [Lanavaille](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Lanavaille/), [Adam](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Adam/), [Yekaterina](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Yekaterina/), [Debra](https://wizardry.fasterthoughts.io/adventurers/legendary-adventurers/details/Debra/)
-- General units: [Flut](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Flut/), [Marianne](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Marianne/), [Chloe](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Chloe/), [Asha](https://wizardry.fasterthoughts.io/adventurers/general-adventurers/details/Asha/)
+- Legendary units: [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md), [Adam](../adventurers/legendary-adventurers/details/Adam.md), [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md), [Debra](../adventurers/legendary-adventurers/details/Debra.md)
+- General units: [Flut](../adventurers/general-adventurers/details/Flut.md), [Marianne](../adventurers/general-adventurers/details/Marianne.md), [Chloe](../adventurers/general-adventurers/details/Chloe.md), [Asha](../adventurers/general-adventurers/details/Asha.md)
 
 ## How do I merge?
 
