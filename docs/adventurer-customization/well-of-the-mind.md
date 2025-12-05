@@ -47,7 +47,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 
 ## Guiding Lights
 
-| Guiding Light | Bonus Mind Pearls | Method to Obtain  |
+| Guiding Light | Bonus<sup>†</sup> Mind Pearls | Method to Obtain  |
 |:------------- | :-----: |:---------------------------- |
 | <span style="color: #FF0000">STR</span>   |    4   | Obtained after unlocking the Cursed Wheel |
 | <span style="color: DarkOrange">VIT 1</span>        |    4    | Complete the Beginning Abyss and save the King |
@@ -67,6 +67,8 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: MediumOrchid">LUCK 7</span>  |   1   | [Stop the Mastermind and Save the Duke](../abyss-guides/3-guarda-fortress/important-request-gwo.md#stop-the-mastermind-and-save-the-duke) ending in Guarda Fortress Abyss |
 | <span style="color: MediumOrchid">LUCK 8</span>  |   1   | Get the perfect ending for all three [Slum Faction Requests](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests) |
 
+<sup>†</sup> You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 39 Mind Pearls. (updated Dec 5, 2025)
+
 ??? warning "Help, I'm Missing Guiding Lights!"
     If you met the requirements to obtain a guiding light but don't have it actually available in the Well for use, try exiting and restarting the game. Some of them seem to need a reboot to show up properly.
 
@@ -75,7 +77,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 ## WotM Acronyms/Node Labels Table
 
 | Acronym / Node Label | DESCRIPTION | 
-|:------------------ |:--------------------------------------------------------------------------------------------------------------- |
+|:------------------ |:--------- |
 | STR | Strength |
 | IQ | Intelligence |
 | PIE | Piety |
