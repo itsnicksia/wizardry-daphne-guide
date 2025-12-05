@@ -112,7 +112,7 @@ You need to attempt to leave the area through both the upper left and upper righ
 ## Character Questions
 
 ### What is Merging and should I do it?
-For a detailed guide on the Merging mechanic please visit the [dedicated](https://wizardry.fasterthoughts.io/mechanics/merging/) page.
+Merging is the process of combining two different "Styles" of the same character. For a detailed guide on the Merging mechanic please visit the [dedicated page](https://wizardry.fasterthoughts.io/mechanics/merging/).
 
 ### What are character duplicates used for?
 They can be used to:
