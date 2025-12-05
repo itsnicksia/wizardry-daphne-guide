@@ -4,12 +4,16 @@
 
 !!! note "Requirements - Complete the Second Abyss for the first time and talk with Arna in the Royal Capital Adventurer's Guild."
 
-This is a new tab in the requests section that will be unlocked once the requirements are fulfilled. Each town has its own bounties that will require the player to find a specific enemy and kill them. Doing so will reward the player with gold and bounty points that can be used to redeem items in its exchange shop. Each bounty will provide a one time increase to the player's bounty rank, which will unlock more bounties for the player to attempt. Higher bounty levels also unlock more rewards in the shop, as well as milestone rewards for reaching certain bounty ranks.
+Once the requirements are fulfilled a new tab, "Bounties", will appear in the Requests section of the Adventurer's Guild. Each town has its own set of bounties, which requires the player to find and defeat a specific enemy. Submitting a defeated bounty at the Guild will reward the player with gold and Bounty Medals to redeem for items at the Jeweler (Exchange > Bounty Medal). Each bounty provides a one-time increase (Bounty Points) to the player's Bounty Rank, which ranges from 1-13. A higher rank unlocks new bounties, adds new items to the Bounty Medal shop, and grants milestone rewards that can be viewed under the Bounty List > Check Rewards menu. 
 
-- Bounty Rank 1-7: Unlocked through Abyss 2 Ending + Some Abyss 3
-- Bounty Rank 8-9: Unlocked through Abyss 2 True Ending + Some Abyss 3
-- Bounty Rank 10-12: Unlocked through Abyss 3 Mastermind Ending
-- Bounty Rank 13: Unlocked through Abyss 3 Mastermind Ending with 0 Corruption, you do not need to beat the Greater Warped one (can accept death)
+## Bounty Rank Unlock Conditions
+
+| Bounty Rank | Unlock Conditions|
+|:-|:-|
+| 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
+| 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
+| 10-12 | Clear Abyss 3 (Mastermind Ending) |
+| 13 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
 
 # Abyss 1 Bounties
 
@@ -503,6 +507,39 @@ This is a new tab in the requests section that will be unlocked once the require
     === "Map Location"
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
+# Bounty Medal Shop
+
+## Permanent Items
+
+The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disarm Trap and unlocks at Bounty Rank 5 ("Rank"). It is a permanent item and does not reset each month. Please remember to lock each copy to avoid accidentally selling them in the Item Shop. There is no known way to gain extra copies and you will be unable to reach max unification (3/3) and enhancement (+20).
+
+| Item | Rank | Bounty Medals | # Copies | Total Bounty Medals |
+|:-----|:----:|:-------------:|:--------:|:-------------------:|
+| Hound Mask | 5 | 1,500 | 1  | 1,500   |  
+| Hound Mask | 5 | 3,000 | 2  | 6,000   | 
+| Hound Mask | 5 | 4,000 | 24 | 96,000  | 
+| Total      |   |       | 27 | 103,500 | 
+
+## Monthly Items
+
+Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher Bounty Rank unlocks additional items and several of them can be purchased multiple times ("# Copies"). The total cost to clear the shop each month is 45,000 Bounty Medals. Excluding the High, Mid, and Low Iron Ore the total cost is 40,500.   
+
+| Item | Rank | Bounty Medals | # Copies | Total Bounty Medals |
+|:-----|:----:|:-------------:|:--------:|:-------------------:|
+| Way of the Warrior Skill Scroll | 13 | 3,000 | 1  | 3,000   |  
+| Way of the Mage Skill Scroll    | 13 | 3,000 | 1  | 3,000   | 
+| Book of Honed Ability Secrets   | 10 | 3,000 | 1  | 3,000   | 
+| Book of Passive Magic Defense Up Secrets                    | 3  | 1,500 | 5  | 7,500   |  
+| Book of Passive Defense Power Up Secrets                     | 3  | 1,500 | 5  | 7,500   | 
+| Legendary Adventurer's Remains  | 1  | 8,000 | 1  | 8,000   |  
+| Adventurer's Remains            | 1  | 800   | 5  | 4,000   |
+| Gem of Org x100                 | 1  | 400   | 5  | 2,000   | 
+| Codex of Learning               | 1  | 2,500 | 1  | 2,500   | 
+| High Grade Iron Ore             | 1  | 100   | 20 | 2,000   | 
+| Mid Grade Iron Ore              | 1  | 75    | 20 | 1,500   | 
+| Low Grade Iron Ore              | 1  | 50    | 20 | 1,000   | 
+| Total                           |    |       |    | 45,000  | 
+
 # Unique Rewards
 
 !!! warning "It's entirely possible to buy all the hound masks and not receive a 4* Purple"
@@ -520,6 +557,7 @@ This is a new tab in the requests section that will be unlocked once the require
 - Enhance +20 = 17 Disarm Trap
 
 ## Book of Honed Ability stat boost:
+
 - Fighter: 5 ATK, 5 ACC
 - Knight: 10 HP, 5 DEF, 5 MDEF
 - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
