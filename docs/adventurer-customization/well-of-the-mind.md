@@ -12,7 +12,7 @@ Node layout and Mind Pearl costs are noted on the node map below, with node bord
 ![Well of the Mind](./img/well-of-the-mind.png)
 
 !!! warning
-    The Well can be reset every 24 hours or for 100 green or purple Gems of Org. The skill, spell, proficiency, and class nodes are always in the same location. However, the stat and type change nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on another reset.
+    The Well can be reset every 24 hours for free. You can reset it sooner than that for 100 green or purple Gems of Org. The skill, spell, proficiency, and class nodes are always in the same location. However, the stat and type change nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on another reset.
 
 ## Skill Improvement Values
 The table below shows the stat increase per node taken.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. 
