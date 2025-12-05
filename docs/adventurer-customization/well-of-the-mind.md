@@ -38,12 +38,12 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | | | |
 | Status Tolerance | 30% | 3-5% |   
 | | | |
-|1H Weapon Prof |+4ATK, +4ACC | +2ATK, +2ACC |
+|1H Weapon Prof. |+4ATK, +4ACC | +2ATK, +2ACC |
 |2H Weapon Prof. |+4ATK, +4ACC | +2ATK, +2ACC |
-| Ninja Weapon Prof| +4ATK, 4SUR| n/a | 
-|Blunt Weapon Prof |   |   |
-|Staff Weapon Prof | +4MAG, +4DIV | +2MAG, +2DIV |
-| Armor Prof (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
+| Ninja Weapon Prof. | +4ATK, 4SUR| n/a | 
+|Blunt Weapon Prof. |   |   |
+|Staff Weapon Prof. | +4MAG, +4DIV | +2MAG, +2DIV |
+| Armor Prof. (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
 
 ## Guiding Lights
 
