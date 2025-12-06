@@ -13,7 +13,7 @@ Once the requirements are fulfilled a new tab, "Bounties", will appear in the Re
 | 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
 | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
-| 13 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
+| 13 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
 
 # Abyss 1 Bounties
 
