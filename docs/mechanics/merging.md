@@ -82,7 +82,7 @@ The way this works is to get 2 copies of the alternative version during their li
  
 For General units the same logic applies. Chloe’s featured stats are SP and RES. Her alternative version, Summer Chloe, has SP and SUR, which is more desirable for both her classes.
 
-The shared discipline system also allows you to switch styles without sacrificing stats (D0 versus Dx) if you need a particular Unique or Discipline Skill depending on what you are facing. For instance you can use standard Adam for auto-farming due to his higher MAG, ASPD, and lower MP costs; then switch styles to Chadam when fighting a Dark boss to take advantage of his unique skill. 
+The shared discipline system also allows you to switch styles without sacrificing stats (D0 versus Dx) if you need a particular Unique or Discipline Skill depending on what you are facing. For instance you can use standard Adam for auto-farming due to his higher MAG, ASPD, and lower MP costs; then switch styles to Millennial Lord Adam when fighting a Dark boss to take advantage of his unique skill. 
 
 
 
