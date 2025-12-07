@@ -801,7 +801,7 @@
         {
           id: 'abyss_b1f_feathered',
           title: 'Feathered Cap',
-          details: 'Chest in B1F 3-chest room (x:23, y:11)',
+          details: 'Chest in B1F 3-chest room (x:23, y:11) [2 days]',
           image: '/tools/img/other/respawning-feathered-hat-a1-b1f.jpg',
           clickable: true 
         },
@@ -822,13 +822,13 @@
         {
           id: 'abyss_b4f_halberd',
           title: 'Halberd',
-          details: 'Chest in B4F (x:2, y:4)',
+          details: 'Chest in B4F (x:2, y:4) [2 days]',
           image: '/tools/img/other/respawning-halberd-a1-b4f.jpg',
           clickable: true,
         },
         {
           id: 'abyss_b5f_huntsman',
-          title: "Huntsman's Bow",
+          title: "Huntsman's Bow [2 days]",
           details: 'Chest in B5F Southwest 3-chest room (x:8, y:2)',
           image: '/tools/img/other/respawning-huntsman-bow-a1-b5f.jpg',
           clickable: true,

@@ -64,6 +64,8 @@ extra text can be added between skills
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Inheritable Skill']) }}
 
+        !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
+
         <div class = "nosort-table nofilter-table" markdown>  
         
         | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
