@@ -64,6 +64,8 @@ extra text can be added between skills
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Inheritable Skill']) }}
 
+        !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
+
         <div class = "nosort-table nofilter-table" markdown>  
         
         | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
@@ -148,6 +150,6 @@ extra text can be added between skills
 
 ## Duplicate Usage
 
-* Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills. Note: This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc) as of 12/04/2025.
+* Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills.
 * If you plan to use Alice, increasing her Discipline will increase her damage and healing.
 * Save for future use.
