@@ -9,11 +9,11 @@ Once the requirements are fulfilled a new tab, "Bounties", will appear in the Re
 ## Bounty Rank Unlock Conditions
 
 | Bounty Rank | Unlock Conditions|
-|:-|:-|
+|:-:|:-|
 | 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
 | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
-| 13 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
+| 13 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
 
 # Abyss 1 Bounties
 
@@ -511,7 +511,7 @@ Once the requirements are fulfilled a new tab, "Bounties", will appear in the Re
 
 ## Permanent Items
 
-The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disarm Trap and unlocks at Bounty Rank 5 ("Rank"). It is a permanent item and does not reset each month. Please remember to lock each copy to avoid accidentally selling them in the Item Shop. There is no known way to gain extra copies and you will be unable to reach max unification (3/3) and enhancement (+20).
+The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disarm Trap and unlocks at Bounty Rank 5 ("Rank"). It is a permanent item and does not reset each month. Please remember to lock each copy after purchasing to avoid accidentally bulk-selling them in the Item Shop. There is no known way to gain extra copies and you will be unable to reach max unification (3/3) and enhancement (+20).
 
 | Item | Rank | Bounty Medals | # Copies | Total Bounty Medals |
 |:-----|:----:|:-------------:|:--------:|:-------------------:|
@@ -568,9 +568,10 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
 # Farming Information
 
-- It's possible to farm a specific bounty simply by cursed wheeling in place, typically to Triumphant Return. Bounties will provide exchange shop points infinitely.
-- It's possible for applicable bounty monsters to spawn as a relic version.
-- It currently costs around 39,700 points to buy out the respawning items in the shop every month.
+- It's possible to farm a specific bounty by cursed wheeling in place, typically to Triumphant Return
+- There is no limit to the number of Bounty Medals you can farm
+- It's possible for bounty monsters to spawn as a relic version. Note that relic monsters can only spawn in the first row
+- It costs 45,000 points (40,500 with no ore) to buy out the respawning items in the shop every month.
 - It's recommended to farm Veigar as he is always in a set location close to a Harken and easier to deal with than some other bounties. Alternatively, you can farm Peerless Scorpionesses.
 
 
