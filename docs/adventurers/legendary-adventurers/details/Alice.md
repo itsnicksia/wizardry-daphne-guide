@@ -148,6 +148,6 @@ extra text can be added between skills
 
 ## Duplicate Usage
 
-* Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills.
+* Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills. Note: This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc) as of 12/04/2025.
 * If you plan to use Alice, increasing her Discipline will increase her damage and healing.
 * Save for future use.
