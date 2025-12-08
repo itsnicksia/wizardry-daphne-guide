@@ -1,17 +1,34 @@
 # Relicbrews
 
-Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) and subsequently [Recovery of Research Materials](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings), you unlock the ability to access Relicbrews at the Black Barrel Tavern.
+## Requirements
+
+Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) and subsequently [Recovery of Research Materials](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings), you unlock the ability to access Relicbrews at the Black Barrel Tavern, which can be accessed via the world map.
 
 ## How to obtain
 
-Relicbrews can be obtained by finding abyss relics on red glowing monsters anywhere in the game. They spawn randomly and typically are specific to their enemy type. Most importantly, only the frontmost row of enemies in a specific fight can spawn as relic-possessing monsters. The quality and thus exp given by a relic is dependant on the location of the enemy, usually scaling with the level of the area. Each relic produces 1 drink, which can be consumed by up to 6 people at once. 
+Relics can be obtained by encountering relic monsters, which are rare enemies with a red aura that can appear anywhere in the game. Upon defeat relic monsters will always drop a chest after a battle. The chest will spawn either the enemy's relic (30%) or relic slag (70%). Relic slag ("slag") can be exchanged for relics in the Black Tavern's Slag Piece Exchange Shop. Relic monsters are unique and only one can spawn per encounter.
+
+- Relic monster encounters are rare (2%) and entirely RNG-dependent
+- Relic monsters have increased HP (~30%)
+- **Only enemies in the front row can be relic monsters**
+- Adventurers, Humanoids, and Warped enemies (aside from the White Gluttonous Maw) cannot drop relics 
+- Relic monsters are determined upon map entry. You cannot "farm" relics by running away, using stairs, or Harkens. To re-roll for potential relic monster encounters you must fully exit the map and reenter 
+- Relic monsters do **not** appear with any Guild Requests or Bounties that have NPC text before the battle 
+- An enemy can only drop its specific relic and not relics from other enemies
+- Elemental variations of enemies will always drop the same relic
+- The ★ quality (1-4) of a relic is based on the level of the area. The vast majority of enemies will never drop a 4★ relic even in late game areas  
 
 <!-- maybe add image of a glowing common mob-->
+<!-- what enemies drop 4 star relics-->
+<!-- maybe add image with call outs for Relic Name, Relicpower, etc.--> 
 
 ## Effects
+
 Relic brews are stat buffs that can be applied to all adventurers. MC will always be included in the group of 6, but you can de-select him in the menu. All relic brew provide an increase to 1-2 stats at the cost of another. The effects can be increased to a maximum of level 5 by consuming the same type of brew multiple times. You do not lose experience if you remove them from a unit, but you need to find/drink the same relic brew again to reactivate it. If a unit's alignment (Good/Neutral/Evil) matches the relic brew they receive an additional, "free" level, which is front-loaded.
 
-## Exp
+## Leveling
+
+Relicbrews
 
 - 1★ Relic = 100 EXP OR Lvl 1 with 0 EXP
 - 2★ Relic = 200 EXP OR Lvl 1 with 100 EXP
