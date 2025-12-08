@@ -42,7 +42,7 @@ Levels of removed powers are retained by that charater and will be restored to t
 
 ## Relic Slag Exchange Shop
 
-Lists 9 items for sale on a weekly rotation. There are 3 rows of 3 items per row, with the top row being 3* relics, the middle row being 2* relics, and the last row being 1* relics. The relics could be any known relic in the game. 3* relics cost 400 slag, 2* relics cost 200 slag, and 1* relics cost 100 slag. You can refresh the shop with gems, which start at 200 gems and doubles per refresh.
+The Relic Slag Exchange Shop lists 9 relicbrews for sale in exchange for slag on a weekly rotation. There are 3 rows of 3 relicbrews per row, with the top row being 3★, the middle row being 2★ relics, and the last row being 1★ relics. The relicbrews could be any known relic in the game. 3★ relics cost 400 slag, 2★ relics cost 200 slag, and 1★ relics cost 100 slag. You can refresh the shop with gems, which begins at 200 gems and doubles per refresh.
 
 ## List of effects  
 !!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
