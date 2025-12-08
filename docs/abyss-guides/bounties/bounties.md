@@ -2,7 +2,7 @@
 
 !!! warning "Please bear with us as this page is under construction. More and more details will be added."
 
-!!! note "Requirements - Complete the Second Abyss for the first time and talk with Arna in the Royal Capital Adventurer's Guild."  
+??? note "Requirements - Complete the Second Abyss for the first time and talk with Arna in the Royal Capital Adventurer's Guild."  
     Once the requirements are fulfilled a new tab, "Bounties", will appear in the Requests section of the Adventurer's Guild. Each town has its own set of bounties, which requires the player to find and defeat a specific enemy. Submitting a defeated bounty at the Guild will reward the player with gold and Bounty Medals to redeem for items at the Jeweler (Exchange > Bounty Medal). Each bounty provides a one-time increase (Bounty Points) to the player's Bounty Rank, which ranges from 1-13. A higher rank unlocks new bounties, adds new items to the Bounty Medal shop, and grants milestone rewards that can be viewed under the Bounty List > Check Rewards menu. 
 
 !!! note "Note that some event locations can change due to some maps having layout variations, but events always stay fixed to their relative room location. See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations."
