@@ -142,7 +142,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 86,Feet!A86,Feet,Ex.,Star Wolf Light Armor Boots,Steel,Light,,,0,0,0,3,0,0,0,0,0,0,0,0,0,7,0,0,0,0,4,0,0,0,0,11,0,0,0,0,8,0,0,0,0,15,0,0,0,0,12,0,0,0,0,19,0,0,0,0,16,0,Two-Handed Spear Proficiency
 92,Feet!A92,Feet,3058,Steel Heavy Armor Boots,Steel,Heavy,,413,0,0,0,9,0,-1,0,0,-2,0,0,0,0,13,0,-1,0,0,2,0,0,0,0,17,0,-1,0,0,6,0,0,0,0,21,0,-1,0,0,10,0,0,0,0,25,0,-1,0,0,14,0,
 98,Feet!A98,Feet,3080,Veil boots,Ebonsteel,Cloth,,580,0,0,0,8,0,2,0,0,2,0,0,0,0,13,0,2,0,0,6,0,0,0,0,17,0,2,0,0,11,0,0,0,0,22,0,2,0,0,15,0,0,0,0,26,0,2,0,0,20,0,
-104,Feet!A104,Feet,3130,Elegant Dancer,Ebonsteel,Cloth,,1392,0,0,0,5,0,5,0,0,5,0,0,0,0,10,0,5,0,0,9,0,0,0,0,14,0,5,0,0,14,0,,,,,,,,,,,,,,,,,,,,,"Charm Tolerance, VERIFY LIGHT OR CLOTH"
+104,Feet!A104,Feet,3130,Elegant Dancer,Ebonsteel,Cloth,,1392,0,0,0,5,0,5,0,0,5,0,0,0,0,10,0,5,0,0,9,0,0,0,0,14,0,5,0,0,14,0,,,,,,,,,,,,,,,,,,,,,Charm Tolerance
 110,Feet!A110,Feet,3191,Covert Ninja Tabi,Ebonsteel,Cloth,,580,0,0,0,4,0,3,0,0,1,0,0,0,0,7,0,3,0,0,4,0,0,0,0,10,0,3,0,0,7,0,0,0,0,15,0,3,0,0,12,0,0,0,0,25,0,3,0,0,22,0,
 116,Feet!A116,Feet,Ex.,Charm Boots,Ebonsteel,Cloth,,,0,2,0,4,0,4,0,0,2,0,0,4,0,9,0,4,0,0,6,0,0,5,0,13,0,4,0,0,11,0,0,6,0,18,0,4,0,0,15,0,0,7,0,22,0,4,0,0,20,0,Flash of Insight
 122,Feet!A122,Feet,Ex.,Blood Red Kyahan,Ebonsteel,Cloth,,,0,0,0,3,0,5,0,0,3,0,,,,,,,,,,,0,0,0,8,0,8,0,0,8,0,0,0,0,11,0,9,0,0,11,0,0,0,0,21,0,10,0,0,21,0,
@@ -328,7 +328,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 176,Accessories!A176,Accessories,3204,Master Knight's Ring,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive Vitality Up
 182,Accessories!A182,Accessories,Ex.,Peony Hair Ornament,Ebonsteel,Accessory,,,0,0,0,5,0,0,2,2,0,5,0,0,0,10,0,0,4,4,0,9,0,0,0,14,0,0,5,5,0,14,0,0,0,19,0,0,6,6,0,18,0,0,0,23,0,0,7,7,0,23,Serene Calm
 188,Accessories!A188,Accessories,Ex.,Ring of Vengeance,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-194,Accessories!A194,Accessories,,Shining Finger Band,Ebonsteel,Accessory,,666,0,0,0,1,0,0,0,0,0,12,0,0,0,9,0,0,0,0,0,14,0,0,0,16,0,0,0,0,0,15,,,,,,,,,,,,,,,,,,,,,"Insta-Kill Tolerance, Dark Type Reduction"
+194,Accessories!A194,Accessories,,Shining Finger Band,Ebonsteel,Accessory,,666,0,0,0,1,0,0,0,0,0,12,0,0,0,9,0,0,0,0,0,14,0,0,0,16,0,0,0,0,0,15,0,0,0,24,0,0,0,0,0,16,,,,,,,,,,,"Insta-Kill Tolerance, Dark Type Reduction"
 200,Accessories!A200,Accessories,177,Bracelet of Sealed Battle,Ebonsteel,Accessory,,,5,0,0,2,20,-10,5,0,-5,-10,7,0,0,10,20,-10,7,0,-5,-10,8,0,0,17,20,-10,8,0,-5,-10,9,0,0,25,20,-10,9,0,-5,-10,10,0,0,32,20,-10,10,0,-5,-10,
 206,Accessories!A206,Accessories,Ex.,Saintess's Ring,Ebonsteel,Accessory,,,0,0,8,0,18,0,0,0,0,0,0,0,10,0,20,0,0,0,0,0,0,0,11,0,21,0,0,0,0,0,0,0,12,0,22,0,0,0,0,0,0,0,13,0,23,0,0,0,0,0,
 212,Accessories!A212,Accessories,,Light Spirit Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Dark Type Reduction
