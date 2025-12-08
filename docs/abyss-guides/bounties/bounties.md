@@ -7,7 +7,7 @@
 
 !!! note "Note that some event locations can change due to some maps having layout variations, but events always stay fixed to their relative room location. See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations."
 
-## Bounty Rank Unlock Conditions
+### Bounty Rank Unlock Conditions
 
 | Bounty Rank | Unlock Conditions|
 |:-:|:-|
@@ -16,7 +16,7 @@
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
 | 13 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
 
-# Abyss 1 Bounties
+## Abyss 1 Bounties
 
 ??? danger "Goblin Daddy (45 Tokens)" 
 
@@ -179,7 +179,7 @@
     === "Map Location"
         ![](./img/peerless-scorpionesses-loc.png)
 
-# Abyss 2 Bounties
+## Abyss 2 Bounties
 
 ??? danger "The Unpierceable One (40 Tokens)" 
 
@@ -309,7 +309,7 @@
     === "Map Location"
         ![](./img/ecstatic-blazing-eye-loc.png)
 
-# Abyss 3 Bounties
+## Abyss 3 Bounties
 
 ??? danger "Reaper Bunny (65 Tokens)" 
     
@@ -489,7 +489,7 @@
     === "Map Location"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
 
-# Other Bounties
+## Other Bounties
 
 ??? danger "The Lurking Flutter Hunting-Fey (80 Tokens)"
 
@@ -508,9 +508,9 @@
     === "Map Location"
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
-# Bounty Medal Shop
+## Bounty Medal Shop
 
-## Permanent Items
+### Permanent Items
 
 The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disarm Trap and unlocks at Bounty Rank 5 ("Rank"). It is a permanent item and does not reset each month. Please remember to lock each copy after purchasing to avoid accidentally bulk-selling them in the Item Shop. There is no known way to gain extra copies and you will be unable to reach max unification (3/3) and enhancement (+20).
 
@@ -521,7 +521,7 @@ The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disa
 | Hound Mask | 5 | 4,000 | 24 | 96,000  | 
 | Total      |   |       | 27 | 103,500 | 
 
-## Monthly Items
+### Monthly Items
 
 Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher Bounty Rank unlocks additional items and several of them can be purchased multiple times ("# Copies"). The total cost to clear the shop each month is 45,000 Bounty Medals. Excluding the High, Mid, and Low Iron Ore the total cost is 40,500.   
 
@@ -541,7 +541,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 | Low Grade Iron Ore              | 1  | 50    | 20 | 1,000   | 
 | Total                           |    |       |    | 45,000  | 
 
-# One-Time Bounty Rank Rewards
+## One-Time Bounty Rank Rewards
 
 | Bounty Rank | Adv. Remains | Gems of Org | Gold | Special |
 |:-----------:|:---------:|:-----------:|:----:|:-------:|
@@ -559,7 +559,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 | 13 |   | 500 | 1,000,000  | Master Ring   |  
 | Total | 11 | 2,200  |  4,530,000  |    |
 
-# Unique Rewards
+## Unique Rewards
 
 !!! warning "It's entirely possible to buy all the hound masks and not receive a 4* Purple"
 
@@ -567,7 +567,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 - Hound Mask: Randomly generated quality and grade ebonsteel level cloth hat that has innate evasion and resistance. At +20, it gives 17 Disarm Trap. 
 - Book of Honed Ability Secrets: Provides a few stats that vary depending on class.
 
-## Hound Mask
+**Hound Mask**:
 
 - Enhance +0 = 5 Disarm Trap
 - Enhance +5 = 8 Disarm Trap
@@ -575,7 +575,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 - Enhance +15 = 13 Disarm Trap
 - Enhance +20 = 17 Disarm Trap
 
-## Book of Honed Ability stat boost:
+**Book of Honed Ability stat boost**:
 
 - Fighter: 5 ATK, 5 ACC
 - Knight: 10 HP, 5 DEF, 5 MDEF
@@ -585,7 +585,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 - Priest: 5 DIV, 5 RES
 - Mage: 10 MP, 5 MAG
 
-# Farming Information
+## Farming Information
 
 - It's possible to farm a specific bounty by cursed wheeling in place, typically to Triumphant Return
 - There is no limit to the number of Bounty Medals you can farm
