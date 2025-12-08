@@ -124,4 +124,4 @@ The table below shows the stat increase per brew level along with the level 5 to
 | Elemental tolerance<sup>†</sup> |    1%     |    5%    |        6%        |
 | Status tolerance<sup>†</sup>    |    1%     |    5%    |        6%        |
 
-<sup>†</sup> ThThesere rough estimates. Could range from 0.5-1% per level
+<sup>†</sup> These are rough estimates. Could range from 0.5-1% per level
