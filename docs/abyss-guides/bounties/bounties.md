@@ -3,7 +3,7 @@
 !!! warning "Please bear with us as this page is under construction. More and more details will be added."
 
 ??? note "Requirements - Complete the Second Abyss for the first time and talk with Arna in the Royal Capital Adventurer's Guild."  
-    Once the requirements are fulfilled a new tab, "Bounties", will appear in the Requests section of the Adventurer's Guild. Each town has its own set of bounties, which requires the player to find and defeat a specific enemy. Submitting a defeated bounty at the Guild will reward the player with gold and Bounty Medals to redeem for items at the Jeweler (Exchange > Bounty Medal). Each bounty provides a one-time increase (Bounty Points) to the player's Bounty Rank, which ranges from 1-13. A higher rank unlocks new bounties, adds new items to the Bounty Medal shop, and grants milestone rewards that can be viewed under the Bounty List > Check Rewards menu. 
+    Once the requirements are fulfilled a new tab, "Bounties", will appear in the Requests section of the Adventurer's Guild. Each town has its own set of bounties, which requires the player to find and defeat a specific enemy. Submitting a defeated bounty at the Guild will reward the player with gold and Bounty Medals to redeem for items at the Jeweler under Exchange > Bounty Medal. Each bounty provides Bounty Marks (one-time only) that serve as experience points to increase the player's Bounty Rank. The Bounty Rank ranges from 1-13 with higher ranks unlocking new bounties, adding new items to the Bounty Medal shop, and granting milestone rewards that can be viewed under the Bounty List > Check Rewards menu. 
 
 !!! note "Note that some event locations can change due to some maps having layout variations, but events always stay fixed to their relative room location. See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations."
 
@@ -540,6 +540,24 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 | Mid Grade Iron Ore              | 1  | 75    | 20 | 1,500   | 
 | Low Grade Iron Ore              | 1  | 50    | 20 | 1,000   | 
 | Total                           |    |       |    | 45,000  | 
+
+# One-Time Bounty Rank Rewards
+
+| Bounty Rank | Adv. Remains | Gems of Org | Gold | Special |
+|:-----------:|:---------:|:-----------:|:----:|:-------:|
+| 2 |   | 100 | 40,000 | |  
+| 3 | 1 | 100 | 90,000 | | 
+| 4 |   | 100 | 200,000 | | 
+| 5 | 3 | 300 | 200,000 | | 
+| 6 |   | 100 | 300,000 | | 
+| 7 |   | 100 | 300,000 | 1 Legendary Remains |
+| 8 |   | 100 | 500,000 | | 
+| 9 | 3 | 300 | 500,000 | |  
+| 10 |  | 100 | 600,000 | |  
+| 11 | 1 | 100 | 600,000 | |  
+| 12 | 3 | 300 | 800,000  |  |  
+| 13 |   | 500 | 1,000,000  | Master Ring   |  
+| Total | 11 | 2,200  |  4,530,000  |    |
 
 # Unique Rewards
 
