@@ -108,7 +108,6 @@
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap.
-        - Stationary, indicated by check on the map.
         - 2700 Gold Reward
         - 90 Token Reward
         - Appears at Bounty Rank 3
@@ -117,9 +116,6 @@
         - Spawns with 2 skeletons and 2 skeletons knights in the front row, 2 skeletons and 1 skeleton knight in the middle row, and the boss skeleton mage is in the backmost row.
         - They are all susceptible to Marein
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
-        
-    === "Map Location"
-        ![](./img/skeleton-archmage-loc.png)
         
 ??? danger "Six-Limbed Storm (180 Tokens)" 
 
