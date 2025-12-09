@@ -8,7 +8,6 @@ Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-le
 
 The Relicbrew mechanic uses several different terms that sound similar and can be confusing to new players. Each of the subsections provide more detailed information.
 
-<!--picture - relic monster-->
 <!--picture - relicbrew menu w/ callouts-->
 
 | Term                   | Definition                                                                                                                              |
@@ -20,7 +19,11 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 | Relic Power            | A semi-permanent, unique passive skill gained from drinking a relicbrew.                                                                 |
 | Eye of Vitriol         | Valuable item given by Corvo that allows the user to see if an enemy is carrying a relic (red aura). |
 
-Relic Flowchart: Relic monster > Relic (or Relic Slag) > Relicbrew > Relic Power.  
+!!! note "Relic Monster"
+    [Relic Monster](./img/relicbrew-relic-monster.png)
+
+!!! note "Relic Flowchart"
+         Relic monster > Relic (or Relic Slag) > Relicbrew > Relic Power.  
 
 ## How to obtain relics
 
