@@ -29,7 +29,7 @@ Relics can be obtained by encountering relic monsters that can rarely appear any
 - Relic monster encounters are rare (2%) and entirely RNG-dependent.
 - Relic monsters have increased HP (~30%)
 - Only enemies in the front row can be relic monsters.
-- Adventurers, Humanoids, and Warped enemies (aside from the White Gluttonous Maw) cannot drop relics. 
+- Adventurers and Warped enemies (aside from the White Gluttonous Maw) cannot drop relics. 
 - Relic monsters are determined upon map entry. You cannot "farm" relics by running away, using stairs, or Harkens. To re-roll for potential encounters you must fully exit the map and reenter. 
 - Relic monsters do not appear with any Guild Requests or Bounties that have NPC text before the battle. 
 - An enemy can only drop its specific relic and not relics from other enemies.
