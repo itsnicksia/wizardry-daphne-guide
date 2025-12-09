@@ -89,7 +89,7 @@
         - Bounty HP: 6.5k; Adds: 2.5-3K 
         - Remember that Cursed status harms you when you attack an enemy.
         - Seems to have a week long cooldown before respawning.
-        - Can be farmed for EXP, but the bounty cannot be turned in. Wheel to "Fresh Start" to reset.
+        - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to reset.
         
 ??? danger "Brokk, The Shrewd Swindler (55 Tokens)" 
 
@@ -103,6 +103,7 @@
         - Appears at Bounty Rank 2
 
     === "Fight Details"
+        - HP: 11-11.5K 
         - Spawns as a Dwarf Fighter by himself.
 
     === "Map Location"
@@ -143,8 +144,12 @@
         - Appears at Bounty Rank 5
 
     === "Fight Details"
+        - HP: 12K
         - Spawns as a Minotaur by itself.
         - Is immune to magic damage.
+        - Has very high EVA and ACC, need 140-150 ACC. 
+        - Use Masolotu, Batilgref, Dilto, Heavy Attack 3+ and Decisive Torso Strike 2+ for the ACC bonus.
+        - Maces are useful as they cannot miss.
         - Will get stronger and faster as turns pass.
 
     === "Map Location"
@@ -162,6 +167,7 @@
         - Appears at Bounty Rank 6
 
     === "Fight Details"
+        - HP: 8-9K
         - Spawns with 2 skeletons, 2 skeleton knights, and 1 poltergeist in the front row, 2 skeleton giants, 2 poltergeists, and 1 skeleton mage in the middle row, 2 skeleton archers, 1 skeleton mage, and the boss wight in the backmost row.
         - The wight acts twice per turn.
         - It's highly recommended to simply cast LA- spells to clear this. They are also all susceptible to Marein.
@@ -181,9 +187,10 @@
         - Appears at Bounty Rank 7
 
     === "Fight Details"
+        - HP: 11K (for both)
         - Spawns as a Scorpion Lady by itself.
         - Will summon another Scorpion Lady in the same row after taking a certain amount of damage (~1200) but not reaching the threshold for Rage.
-        - After a certain HP threshold is reached, either Scorpion Ladies will cast Rage, which allows it to move 5 times in one turn
+        - After a certain HP threshold is reached (~4K), either Scorpion Lady will cast Rage, which allows it to move 5 times in one turn
         - Fight can be ended without the second Scorpion Lady being summoned.
 
     === "Map Location"
