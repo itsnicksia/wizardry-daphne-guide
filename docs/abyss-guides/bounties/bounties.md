@@ -30,7 +30,8 @@
         - Appears at Bounty Rank 1
 
     === "Fight Details"
-        - Spawns with many goblin enemies and can resummon them if killed.
+        - HP: 5.5-6K
+        - Spawns with many goblin enemies (HP: ~500) and can resummon them if killed.
 
     === "Map Location"
         ![](./img/goblin-daddy-loc.png)
@@ -47,6 +48,7 @@
         - Appears at Bounty Rank 1
 
     === "Fight Details"
+        - HP: 9.5-10K
         - Spawns as a Red Spinner Woman by itself.
 
     === "Map Location"
@@ -64,6 +66,7 @@
         - Appears at Bounty Rank 1
 
     === "Fight Details"
+        - HP: 5.5-6K
         - Spawns as an Elf Fighter Adventurer by himself.
 
     === "Map Location"
@@ -76,13 +79,17 @@
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap.
+        - Frequently appears to the south and east of the F5 Harken. Use the stairs to reset its location.
         - 1900 Gold Reward
         - 100 Token Reward
         - Appears at Bounty Rank 2
 
     === "Fight Details"
         - Spawns as three Cursed Dolls that can move twice each. They are extremely fast.
+        - Bounty HP: 6.5k; Adds: 2.5-3K 
+        - Remember that Cursed status harms you when you attack an enemy.
         - Seems to have a week long cooldown before respawning.
+        - Can be farmed for EXP, but the bounty cannot be turned in. Wheel to "Fresh Start" to reset.
         
 ??? danger "Brokk, The Shrewd Swindler (55 Tokens)" 
 
@@ -108,14 +115,17 @@
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap.
-        - Stationary, indicated by check on the map.
+        - Tends to show up around the poison hallways and areas connected by the F8 rocks.
+        - Can sometimes spawn inside a wall, reset to fix.
         - 2700 Gold Reward
         - 90 Token Reward
         - Appears at Bounty Rank 3
 
     === "Fight Details"
+        - HP: 12.5-13K 
         - Spawns with 2 skeletons and 2 skeletons knights in the front row, 2 skeletons and 1 skeleton knight in the middle row, and the boss skeleton mage is in the backmost row.
-        - They are all susceptible to Marein
+        - They are all susceptible to Marein.
+        - Can be silenced.
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
         
     === "Map Location"
