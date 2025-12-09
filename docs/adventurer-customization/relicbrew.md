@@ -85,19 +85,38 @@ The Slagpiece Exchange Shop lists 9 relicbrews for sale in exchange for slag on 
 
 ## Leveling Relic Powers
 
-- 1★ Relic = 100 EXP OR Lvl 1 with 0 EXP
-- 2★ Relic = 200 EXP OR Lvl 1 with 100 EXP
-- 3★ Relic = 400 EXP OR Lvl 2 with 100 EXP
-- 4★ Relic = 1000 EXP OR Lvl 3 with 100 EXP
+Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics (transformed into relicbrews). Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points (EXP). This is the term (EXP) that will be used throughout this section.       
 
-- 1★ to 2★ Requires 200 EXP
-- 2★ to 3★ Requires 600 EXP
-- 3★ to 4★ Requires 1200 EXP
-- 4★ to 5★ Requires 3000 EXP
+| ★ Quality | EXP |        
+|:----------:|:-----:|
+| 1★         | 100   |
+| 2★         | 200   |
+| 3★         | 400   |
+| 4★         | 1,000 |
+
+Each Relic Power requires a certain amount of EXP to reach the next level. The maximum is level 5. A quirk of this system is that there is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next skill level.  After level 3 the EXP required to take a Relic Power to level 4 (1,200 EXP) or level 5 (3,000 EXP) is significant so plan accordingly. Note that it takes 900 total EXP to reach level 3 and 2,100 EXP to reach level 4.    
+
+| Relic Power Level | Required EXP | Cumulative EXP |        
+|:-----------------:|:------------:|:--------------:|
+| 0 - 1             |     100      |      100       |
+| 1 - 2             |     200      |      300       |
+| 2 - 3             |     600      |      900       |
+| 3 - 4             |     1,200    |      2,100     |
+| 4 - 5             |     3,000    |      5,100     |
+| Total             |     5,100    |        -       |
+
+Below is a summary table to give you an idea of how many relics you would have to collect per ★ quality to reach a specific level. These are total _not_ incremental numbers. For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP). Take advantage of the Slagpiece Exchange to buy 1-2★ relics to reach the next level, especially for level 5 to avoid wasting EXP that could have gone to a different adventurer.     
+
+| ★ Quality | Lv 1 | Lv 2 | Lv 3 | Lv 4 | Lv 5 |   
+|:---------:|:----:|:----:|:----:|:-----:|:---:|
+| 1★        |  1   |  3   |  9   |  21  |  51  |
+| 2★        |  1   |  2   |  5   |  11  |  26  | 
+| 3★        |  1   |  1   |  3   |  6   |  13  |
+| 4★        |  1   |  1   |  1   |  3   |  6   |
 
 ## Penalties
 
-After gaining too many relic powers, an adventurer and the MC can suffer from certain debilitating effects in combat. Status is indicated by the color of the swirl on the top left of the character portrait, and the effect of different stages of impact arr listed below. Any character can safely have 3 active relic powers at one time.  A 4th power can be safely added if at least one of those four powers has the same personality type as the character. Exceeding these limits will raise an adventurer to Stage 2 side effects immediately. 
+After gaining too many Relic Powers, an adventurer and the MC can suffer from certain debilitating effects in combat. Status is indicated by the color of the swirl on the top left of the character portrait, and the effect of different stages of impact are listed below. Any character can safely have 3 active Relic Powers at one time.  A 4th power can be safely added if at least one of those four powers has the same alignment type as the character. Exceeding these limits will raise an adventurer to Stage 2 side effects immediately. 
 
 - Stage 0: Grey (Normal)
 - Stage 1: White (Normal?)
@@ -106,10 +125,10 @@ After gaining too many relic powers, an adventurer and the MC can suffer from ce
 
 Note that there currently appears to be no negative effects outside of combat, and the safe limit apparently can be exceeded by any amount without impact as long as excess powers are removed before entering combat.
 
-## List of effects  
+## List of Relic Power Effects  
 !!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
 
-| Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                  | Compendium Number |
+| Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium Number |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- | ----------------- |
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | Gobber's Evil Eye                          | Accuracy Up, Surety Down             | Neutral     | Goblin                 | Gobber Bloodwood                        | 4040              |
@@ -139,7 +158,7 @@ Note that there currently appears to be no negative effects outside of combat, a
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Good        | Lizardman              | Reptilian Bloodwood                     | 4064              |
 | Reptilian Monarch's Energy Flow            | SP Up, Earth Res Down                | Neutral     | Lizardman Champion     | Reptilian Monarch Bloodwood             | 4065              |
 | Four-Fist Bull's Fierce Heart              | HP Up, Fire Res Down                 | Neutral     | Minotaur               | Four-Fist Bull Rootcrystal              | 4066              |
-| Lust Demon's Warding Glyph                 | Resistance Up, Attack Down           | Evil        | Succubus               | Lust Demon Spiritcoral                  | 4067              |
+| Lust Demon's Warding Glyph                 | Res Up, Attack Down                  | Evil        | Succubus               | Lust Demon Spiritcoral                  | 4067              |
 | Sea Mad Warrior's Energy Lump              | SP Up, MP Down                       | Evil        | Pirate Berserker       | Sea Mad Warrior Bloodwood               | 4068              |
 | Salt-Teared Priestess's Hallowed Voice     | Divine Up, Res Down                  | Neutral     | Pirate Deacon          | Salt-Teared Priestess Cursefruit        | 4069              |
 | Great Undulating Devourer's Magic Core     | MP Up, Attack Down                   | Neutral     | Big Slime              | Great Undulating Devourer Cursefruit    | 4070              |
@@ -163,9 +182,9 @@ Note that there currently appears to be no negative effects outside of combat, a
 
 ## Relic Brew Stat Increases
 
-The table below shows the stat increase per brew level along with the level 5 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments. Note: the stat that is negatively impacted is always -1 for a maximum of -5 at level 5.
+The table below shows the stat increase per brew level along with the level 5 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments. Note: The stat that is negatively impacted is always -1 for a maximum of -5 at level 5.
 
-| Stats                 | Per Level | Standard | Alignment Bonus |
+| Stats                           | Per Level | Standard | Alignment Bonus  |
 |---------------------------------|:---------:|:--------:|:----------------:|
 | HP                              |     3     |    15    |        18        |
 | SP                              |     2     |    10    |        12        |
