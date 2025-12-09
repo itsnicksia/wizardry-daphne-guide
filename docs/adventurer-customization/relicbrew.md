@@ -1,4 +1,4 @@
-<img width="917" height="441" alt="relicbrew-relic-monster" src="https://github.com/user-attachments/assets/0ee550ca-9754-47ae-ba0d-1da4dbf4e0d6" /># Relicbrews
+# Relicbrews
 
 ## Requirements
 
