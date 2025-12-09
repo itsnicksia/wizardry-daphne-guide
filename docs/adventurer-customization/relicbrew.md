@@ -1,4 +1,4 @@
-# Relicbrews
+<img width="917" height="441" alt="relicbrew-relic-monster" src="https://github.com/user-attachments/assets/0ee550ca-9754-47ae-ba0d-1da4dbf4e0d6" /># Relicbrews
 
 ## Requirements
 
@@ -19,11 +19,13 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 | Relic Power            | A semi-permanent, unique passive skill gained from drinking a relicbrew.                                                                 |
 | Eye of Vitriol         | Valuable item given by Corvo that allows the user to see if an enemy is carrying a relic (red aura). |
 
-!!! note "Relic Monster"
-    [Relic Monster](./img/relicbrew-relic-monster.png)
+???+ note "Relic Monster"
+    <div align="center">
+        ![](img/relicbrew-relic-monster.png)
+    </div>
 
-!!! note "Relic Flowchart"
-         Relic monster > Relic (or Relic Slag) > Relicbrew > Relic Power.  
+???+ note "Relic Flowchart"
+           Relic monster > Relic (or Relic Slag) > Relicbrew > Relic Power.  
 
 ## How to obtain relics
 
