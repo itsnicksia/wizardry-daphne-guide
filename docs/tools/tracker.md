@@ -836,7 +836,7 @@
         {
           id: 'abyss_b5f_breeze',
           title: 'Sword of the Breeze',
-          details: 'Chest in B5F East 3-chest room (x:22, y:15)',
+          details: 'Chest in B5F East 3-chest room (x:22, y:15) [1 week]',
           image: '/tools/img/other/respawning-breeze-sword-a1-b5f.jpg',
           clickable: true,
         },
