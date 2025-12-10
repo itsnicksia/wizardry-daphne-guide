@@ -12,7 +12,7 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 
 | Term                   | Definition                                                                                                                              |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-| Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura                                                               |
+| Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                               |
 | Relic                  | Dropped by relic monsters in a chest after battle. Contains the power of the Lord of the Abyss and is what turns humans into Warped Ones.    |
 | Relic slag ("slag")    | Remnants of a relic that failed to form. Can be exchanged for relics at the Black Barrel Tavern.                                         |   
 | Relicbrew              | Corvo can transform a relic into a consumable drink. This is the primary function of the Black Barrel Tavern.                            |
@@ -25,7 +25,8 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
     </div>
 
 ??? info "Flowchart"
-    Relic monster > Relic (or Relic Slag) > Relicbrew > Relic Power  
+    Below is a flowchart of how all the different components are connected to each other.
+    Relic monster > Relic (or slag) > Relicbrew > Relic Power  
 
 ## How to obtain relics
 
@@ -60,6 +61,11 @@ At the Black Barrel Tavern the proprietor, Corvo the Alchemist, offers several d
 
 The "Relicbrew" menu lists all of the relics in your inventory. Note that the same relic with a different ★ quality is counted as a separate item and relicbrew. Selecting a relic will show you the name of the relicbrew, a brief description, and its associated Relic Power, if known. Each relicbrew provides a unique Relic Power in the form of a passive skill.
 
+??? info "Drink Relicbrew Menu Guide"
+    <div align="center">
+        ![](img/relicbrew-definitions.png)
+    </div>
+
 **Relic Powers**
 
 - Increases 1-2 stats at the cost of another (always -1 per level).
@@ -77,6 +83,14 @@ The "Drink Relicbrew" menu shows you a list of all available units, the number o
 ### Relic Powers
 
 When you select a unit a new menu, "Relic Power", will appear that shows the currently equipped Relic Powers, level, and whether the alignment matches (bright pink text). You can click on any Relic Power to see its current level, effect description, and "Power Density", which functions as an experience bar. The "Extracted Relic Power" section shows the unit's previously equipped Relic Powers. 
+
+??? info "Relic Powers Menu Guide"
+
+    === "Currently Equipped"
+    ![](img/relicpower-menu.PNG)
+
+    === "Level Details"
+    ![](img/relicpower-exp.PNG)
 
 **Extraction**
 
@@ -204,7 +218,7 @@ The table below shows the stat increase per brew level along with the level 5 to
 | DEF                             |     4     |    20    |        24        |
 | MDEF                            |     4     |    20    |        24        |
 | RES                             |     2     |    10    |        12        |
-| Detect	     	                  |     2     |    10    |        12        |
+| Detect	     	              |     2     |    10    |        12        |
 | Disarm Trap                     |           |          |                  |
 | Evade Trap                      |           |          |                  |
 | Elemental tolerance<sup>†</sup> |    1%     |    5%    |        6%        |
