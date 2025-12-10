@@ -8,16 +8,14 @@ Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-le
 
 The Relicbrew mechanic uses several different terms that sound similar and can be confusing to new players. Each of the subsections provide more detailed information.
 
-<!--picture - relicbrew menu w/ callouts-->
-
 | Term                   | Definition                                                                                                                              |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-| Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                               |
-| Relic                  | Dropped by relic monsters in a chest after battle. Contains the power of the Lord of the Abyss and is what turns humans into Warped Ones.    |
-| Relic slag ("slag")    | Remnants of a relic that failed to form. Can be exchanged for relics at the Black Barrel Tavern.                                         |   
-| Relicbrew              | Corvo can transform a relic into a consumable drink. This is the primary function of the Black Barrel Tavern.                            |
-| Relic Power            | A semi-permanent, unique passive skill gained from drinking a relicbrew.                                                                 |
-| Eye of Vitriol         | Valuable item given by Corvo that allows the user to see if an enemy is carrying a relic (red aura). |
+| Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
+| Relic                  | Dropped by relic monsters in a chest after battle.                                                                                      |
+| Relic slag ("slag")    | Remnants of a relic that failed to form. Can be exchanged for relics at the Black Barrel Tavern.                                        |   
+| Relicbrew              | Corvo can transform a relic into a consumable drink. This is the primary function of the Black Barrel Tavern.                           |
+| Relic Power            | A semi-permanent, unique passive skill gained from drinking a relicbrew.                                                                |
+| Eye of Vitriol         | Valuable item given by Corvo that allows the user to see if an enemy is carrying a relic (red aura).                                    |
 
 ??? info "Relic Monster"
     <div align="center">
@@ -25,11 +23,13 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
     </div>
 
 ??? info "Flowchart"
-    Below is a flowchart of how all the different components are connected to each other.<br>Relic monster > Relic (or slag) > Relicbrew > Relic Power  
+    Below is a flowchart of how all the different components are connected to each other:<br>Relic monster > Relic (or slag) > Relicbrew > Relic Power  
 
 ## How to obtain relics
 
-Relics can be obtained by encountering relic monsters that can rarely appear anywhere in the game. Upon defeat a relic monster will always drop a chest after a battle. The chest will spawn either the enemy's relic (~30%) or slag (~70%). Slag can be exchanged for relics in the Black Barrel Tavern's Slag Piece Exchange Shop. Relic monsters are unique and only one can spawn per encounter.
+Relics can be obtained by encountering relic monsters that can rarely appear anywhere in the game. Upon defeat a relic monster will always drop a chest after a battle. The chest will spawn either the enemy's relic (~30%) or slag (~70%). Slag can be exchanged for relics in the Black Barrel Tavern's Slag Piece Exchange. Relic monsters are unique and only one can spawn per encounter.
+
+**Relic Monsters**
 
 - Relic monster encounters are rare (2%) and entirely RNG-dependent.
 - Relic monsters have increased HP (~30%)
@@ -45,14 +45,14 @@ Relics can be obtained by encountering relic monsters that can rarely appear any
 
 ## Black Barrel Tavern
 
-At the Black Barrel Tavern the proprietor, Corvo the Alchemist, offers several different services.
+At the Black Barrel Tavern the proprietor, Corvo the Alchemist, offers several services.
 
 | Services               | Details                                                                                                                                 |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-| Drink Relicbrew        | Transforms relics into relicbrews that give unique Relic Powers (passives) to your units.                                                |
-| Relic Powers           | View each unit's currently equipped and extracted Relic Powers. Relic Powers can be extracted for a fee.                        |
-| Slagpiece Exchange     | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                          |
-| Talk                   | Provides details on relic terms and history.                                                                                             |
+| Drink Relicbrew        | Transforms relics into relicbrews that give unique Relic Powers (passive skills).                                                       |
+| Relic Powers           | View equipped and extracted Relic Powers. Relic Powers can be extracted for a fee.                                                      |
+| Slagpiece Exchange     | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                         |
+| Talk                   | Provides details on relic terms and history.                                                                                            |
 
 ### Drink Relicbrew
 
@@ -69,7 +69,7 @@ The "Relicbrew" menu lists all of the relics in your inventory. Note that the sa
 - Effects are hidden until the relicbrew has been consumed at least once.
 - Effects can be increased to a maximum of level 5 by repeatedly drinking the same relicbrew of any ★ quality.
 - Have alignments (Good/Neutral/Evil). Matching alignments with a unit gives an additional, immediate bonus (or "extra" level) to the positive effects.
-- Each unit can safely equip up to 3 Relic Powers with no side effects. A 4th can be added if the alignments match.
+- Each unit can safely equip up to 3 Relic Powers with no penalty side effects. A 4th can be added if the alignments match.
 - Located at the bottom of a unit's Passive Skill list with its current level and a dark red star icon.
 - Level and accumulated experience is not lost if extracted, but you need to find and drink the same relicbrew again to reactivate it.
 
@@ -84,9 +84,7 @@ The "Drink Relicbrew" menu shows you a list of all available units, the number o
 
 ### Relic Powers
 
-When you select a unit a new menu, "Relic Power", will appear that shows the currently equipped Relic Powers, level, and whether the alignment matches (bright pink text). You can click on any Relic Power to see its current level, effect description, and "Power Density", which functions as an experience bar. The "Extracted Relic Power" section shows the unit's previously equipped Relic Powers. 
-
-??? info "Relic Powers Menu Terms"
+??? info "Relic Powers Menus"
 
     === "Unit Menu"
     ![](img/relicpower-unit-menu.PNG)
@@ -96,6 +94,8 @@ When you select a unit a new menu, "Relic Power", will appear that shows the cur
 
     === "Level"
     ![](img/relicpower-exp.PNG)
+    
+When you select a unit a new menu, "Relic Power", will appear that shows the currently equipped Relic Powers, level, and whether the alignment matches (bright pink text). You can click on any Relic Power to see its current level, effect description, and "Power Density", which functions as an experience bar. The "Extracted Relic Power" section shows the unit's previously equipped Relic Powers. 
 
 **Extraction**
 
@@ -110,13 +110,18 @@ The extraction services can be paid for with purple gems, green gems, and gold. 
 
 ### Slagpiece Exchange
 
-The Slagpiece Exchange Shop lists 9 relicbrews for sale in exchange for slag on a weekly rotation. There are 3 rows of 3 relicbrews per row, with the top row being 3★, the middle row being 2★ relics, and the last row being 1★ relics. The relicbrews could be any known relic in the game. 3★ relics cost 400 slag, 2★ relics cost 200 slag, and 1★ relics cost 100 slag. You can refresh the shop with gems, which begins at 200 gems and doubles per refresh.
+??? info "Slagpiece Exchange Menu"
+    <div align="center">
+        ![](img/relicebrew-slagshop.PNG)
+    </div>
+
+The Slagpiece Exchange Shop lists 9 relicbrews for sale in exchange for slag on a weekly rotation. There are 3 rows with 3 relicbrews per row: the top row has 3★ relics, the middle row has 2★ relics, and the last row has 1★ relics. The relicbrews could be any known relic in the game. Costs: 3★ relics = 400 slag, 2★ relics = 200 slag, and 1★ relics = 100 slag. You can refresh the shop with gems, which begins at 200 gems and doubles per refresh.
 
 ## Leveling Relic Powers
 
 Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics (transformed into relicbrews). Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points (EXP). This is the term (EXP) that will be used throughout this section.       
 
-| ★ Quality | EXP    |        
+| ★  | EXP    |        
 |:---------:|:------:|
 | 1★         | 100   |
 | 2★         | 200   |
@@ -136,7 +141,7 @@ Each Relic Power requires a certain amount of EXP to reach the next level. The m
 
 Below is a summary table to give you an idea of how many relics you would have to collect per ★ quality to reach a specific level. These are total _not_ incremental numbers. For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP). Take advantage of the Slagpiece Exchange to buy 1-2★ relics to reach the next level, especially for level 5 to avoid wasting EXP that could have gone to a different adventurer.     
 
-| ★ Quality | Lv 1 | Lv 2 | Lv 3 | Lv 4 | Lv 5 |   
+| ★  | Lv 1 | Lv 2 | Lv 3 | Lv 4 | Lv 5 |   
 |:---------:|:----:|:----:|:----:|:-----:|:---:|
 | 1★        |  1   |  3   |  9   |  21  |  51  |
 | 2★        |  1   |  2   |  5   |  11  |  26  | 
@@ -149,8 +154,8 @@ After gaining too many Relic Powers, an adventurer and the MC can suffer from ce
 
 - Stage 0: Grey (Normal)
 - Stage 1: White (Normal?)
-- Stage 2: Purple (50 max fortitude, chance to be afflicted with confusion at start of every turn)
-- Stage 3: Red (0 max fortitude, afflicted with confusion at start of every turn)
+- Stage 2: Purple (50 max Fortitude, chance to be afflicted with confusion at start of every turn)
+- Stage 3: Red (0 max Fortitude, afflicted with confusion at start of every turn)
 
 Note that there currently appears to be no negative effects outside of combat, and the safe limit apparently can be exceeded by any amount without impact as long as excess powers are removed before entering combat.
 
