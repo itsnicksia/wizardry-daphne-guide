@@ -87,13 +87,13 @@ The "Drink Relicbrew" menu shows you a list of all available units, the number o
 ??? info "Terms"
 
     === "Unit Menu"
-    ![](img/relicpower-unit-menu.PNG)
+        ![](img/relicpower-unit-menu.PNG)
     
     === "View Equipped and Extracted"
-    ![](img/relicpower-menu.PNG)
+        ![](img/relicpower-menu.PNG)
 
     === "Level"
-    ![](img/relicpower-exp.PNG)
+        ![](img/relicpower-exp.PNG)
     
 When you select a unit a new menu, "Relic Power", will appear that shows the currently equipped Relic Powers, level, and whether the alignment matches (bright pink text). You can click on any Relic Power to see its current level, effect description, and "Power Density", which functions as an experience bar. The "Extracted Relic Power" section shows the unit's previously equipped Relic Powers. 
 
