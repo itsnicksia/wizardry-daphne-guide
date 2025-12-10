@@ -22,7 +22,7 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
         ![](img/relicbrew-relic-monster.png)
     </div>
 
-??? info "Flowchart"
+??? info "Relic Flowchart"
     Below is a flowchart of how all the different components are connected to each other:<br>Relic monster > Relic (or slag) > Relicbrew > Relic Power  
 
 ## How to obtain relics
@@ -58,7 +58,7 @@ At the Black Barrel Tavern the proprietor, Corvo the Alchemist, offers several s
 
 The "Relicbrew" menu lists all of the relics in your inventory. Note that the same relic with a different ★ quality is counted as a separate item and relicbrew. Selecting a relic will show you the name of the relicbrew, a brief description, and its associated Relic Power, if known. Each relicbrew provides a unique Relic Power in the form of a passive skill.
 
-??? info "Drink Relicbrew Terms"
+??? info "Terms"
     <div align="center">
         ![](img/relicbrew-definitions.png)
     </div>
@@ -84,12 +84,12 @@ The "Drink Relicbrew" menu shows you a list of all available units, the number o
 
 ### Relic Powers
 
-??? info "Relic Powers Menus"
+??? info "Terms"
 
     === "Unit Menu"
     ![](img/relicpower-unit-menu.PNG)
     
-    === "Equipped and Extracted"
+    === "View Equipped and Extracted"
     ![](img/relicpower-menu.PNG)
 
     === "Level"
@@ -99,7 +99,7 @@ When you select a unit a new menu, "Relic Power", will appear that shows the cur
 
 **Extraction**
 
-??? info "Extraction Menu"
+??? info "Extraction"
     <div align="center">
         ![](img/relicpower-extract.PNG)
     </div>
@@ -110,7 +110,7 @@ The extraction services can be paid for with purple gems, green gems, and gold. 
 
 ### Slagpiece Exchange
 
-??? info "Slagpiece Exchange Menu"
+??? info "Slagpiece Exchange"
     <div align="center">
         ![](img/relicebrew-slagshop.PNG)
     </div>
@@ -121,7 +121,7 @@ The Slagpiece Exchange Shop lists 9 relicbrews for sale in exchange for slag on 
 
 Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics (transformed into relicbrews). Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points (EXP). This is the term (EXP) that will be used throughout this section.       
 
-| ★  | EXP    |        
+| ★ Quality  | EXP    |        
 |:---------:|:------:|
 | 1★         | 100   |
 | 2★         | 200   |
@@ -141,7 +141,7 @@ Each Relic Power requires a certain amount of EXP to reach the next level. The m
 
 Below is a summary table to give you an idea of how many relics you would have to collect per ★ quality to reach a specific level. These are total _not_ incremental numbers. For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP). Take advantage of the Slagpiece Exchange to buy 1-2★ relics to reach the next level, especially for level 5 to avoid wasting EXP that could have gone to a different adventurer.     
 
-| ★  | Lv 1 | Lv 2 | Lv 3 | Lv 4 | Lv 5 |   
+| ★ Quality  | Lv 1 | Lv 2 | Lv 3 | Lv 4 | Lv 5 |   
 |:---------:|:----:|:----:|:----:|:-----:|:---:|
 | 1★        |  1   |  3   |  9   |  21  |  51  |
 | 2★        |  1   |  2   |  5   |  11  |  26  | 
