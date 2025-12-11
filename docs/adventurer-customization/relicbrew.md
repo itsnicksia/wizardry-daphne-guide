@@ -241,9 +241,9 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
 
-## Relic Brew Stat Increases
+## Relic Power Stat Increases
 
-The table below shows the stat increase per brew level along with the level 5 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments. Note: The stat that is negatively impacted is always -1 for a maximum of -5 at level 5.
+The table below shows the stat increase per Relic Power level along with the level 5 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments. Note: The stat that is negatively impacted is always -1 for a maximum of -5 at level 5.
 
 | Stats                           | Per Level | Standard | Alignment Bonus  |
 |---------------------------------|:---------:|:--------:|:----------------:|
