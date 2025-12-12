@@ -135,13 +135,13 @@ Congratulations \- you lived, completed your request, and more importantly, rece
 From here, you have two options.
 
 1. The first is to use the wheel to go back to the start and do a different faction request. This will effectively start you over in the Port Town Grand Legion and you will have to progress through the maps as if it was your first time, except you will have the lexicon, so you can read the mermaid statues as you come across them and pick up some very valuable information.
-2. The second is to not start on a new faction request. Instead, within the same completed path, go around and read all the mermaid statues to again, pick up some very valuable information.
+2. The second is to not start on a new faction request. Instead, within the same completed path, go around and read all the mermaid statues again, pick up some very valuable information.
 
 The path you choose is ultimately yours, and the only difference is with option 1, you will have to fight Melgina again before you are really able to fight Octonarus. Note that if you are trying to get the IQ Guiding Light, you’ll need to fight Melgina (not Octonarus) a second time anyway, so I personally took the first option because it made sense to me to just collect the mermaid statue knowledge as I went through the maps again. If you do take option 1, this same decision point applies at the end where you can either repeat option 1 for the third faction or move on to option 2\.
 
 ## Octonarus
 
-Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where she will resurrect Melgina indefinitely. Not fun\!
+Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
 
 1. Use the wheel to travel back to **One-Eyed Sahuagin** and speak to the Gessi destroying the statue using the “**Don’t you want to save Melgina**” option
 2. Use the wheel to travel back to **Flooded Town** and speak with Melgina using the “**Do you want to be free from Octonarus**” option
