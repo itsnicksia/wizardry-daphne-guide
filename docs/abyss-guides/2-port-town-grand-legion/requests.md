@@ -567,7 +567,7 @@ Goetia -> Admiral Route
 - Complete the Monster Bird Soup request
 - Wheel back and complete [Pickerel's Report](requests.md#pickerels-report) again
 - Once you report back to Pickerel, you will have a new dialog option to trick Vernant and lock him away
-- (Optional) Find the first merchant in the 2nd District (room immediately north of the mermaid statue you see when you enter). You will have to disable the current to get there
+- (Optional) Find the first merchant in the 2nd District (room immediately north of the mermaid statue you see when you enter). ~~You will have to disable the current to get there.~~
 - Find the second merchant at the Pier
 - Find the pale elf at the Pier
 - Pay him for the Ipiamarum or kill him for it. It makes no difference
