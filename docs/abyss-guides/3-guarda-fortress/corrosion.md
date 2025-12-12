@@ -30,10 +30,6 @@ There are a total of 13 corrosion sentries you can encounter in Guarda Fortress.
 
 There are a total of 13 corrosion sentries that you can encounter and
 
-
-
-
-
 ## Guide
 
 How this sectionis structured
@@ -47,14 +43,6 @@ Node = CW jump point
 
 All directions are based on the MAP
 KEY POINT = Registration node = what it's toggled under
-
-Working link
-
-??? map "Secret Passage Minor Harken - Zone 1"
-    <div align="center">
-    ![](./img/corrosion-loc/loc-corr-2-enshadowed-well-of-life.jpg)
-    </div>
-
 
 ??? map "[1] Secret Passage Minor Harken - Zone 1"
 
@@ -157,7 +145,7 @@ Working link
 
     ??? note "Cursed Wheel Entry"
         <div align="center">
-        ![](./img/corrosion-cw/cw-corr-3-secret-path-keeper-vanquished-south)
+        ![](./img/corrosion-cw/cw-corr-3-secret-path-keeper-vanquished-south.jpg)
         </div>
 
 ??? map "[4] Secret Path Keeper Vanquished - Central Corrosion Sentry - Zone 2"
@@ -169,12 +157,12 @@ Working link
 
     ??? note "Location"
         <div align="center">
-        ![](./img/corrosion-loc/loc-corr-4-secret-path-keeper-vanquished-south.jpg)
+        ![](./img/corrosion-loc/loc-corr-4-secret-path-keeper-vanquished-central.jpg)
         </div>
 
     ??? note "Golem Directions"
         <div align="center">
-        ![](./img/corrosion-golem/golem-corr-4-secret-path-keeper-vanquished-south.jpg)
+        ![](./img/corrosion-golem/golem-corr-4-secret-path-keeper-vanquished-central.jpg)
         </div>
 
         - Ignore the southern golem 
@@ -207,7 +195,7 @@ Working link
 
     ??? note "Golem Directions"
         <div align="center">
-        ![](./img/corrosion-golem/golem-corr-5-fortress-lower-levels-cleared.jpg)
+        ![](./img/corrosion-golem/golem-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
 
         - Push both golems to the right 
@@ -226,7 +214,7 @@ Working link
      
     ??? note "Cursed Wheel Entry"
         <div align="center">
-        ![](./img/corrosion-cw/cw-corr-5-fortress-lower-levels-cleared.jpg)
+        ![](./img/corrosion-cw/cw-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
 
         
