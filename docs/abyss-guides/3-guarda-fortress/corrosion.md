@@ -138,10 +138,10 @@ KEY POINT = Registration node = what it's toggled under
             - Push the golem to the left > "Not spotted" flag triggered
             - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life")
 
-            !!! note "Time-saving Tip"
+            !!! warning "Time-saving Tip"
                 - From the Zone 2 Fountain you can head south to register corrosion sentries [3] and [4], but it requires defeating the Necrocore boss at the end of Zone 3. See their entries for details 
             
-            - To exit use a Hook of Harken, defeat the Necrocore boss in Zone 3, or take the path back to the Zone 1 Harken 
+            - To exit use a Hook of Harken, defeat the Necrocore boss to access the Zone 3 Harken, or take the path back to the Zone 1 Harken 
 
         ??? map "Path back to Zone 1 Harken"
                 
@@ -195,7 +195,6 @@ KEY POINT = Registration node = what it's toggled under
             - Ignore the nothern golem 
             - The corrosion sentry's field of view is quite large, so proceed carefully
             - Push the southern golem to the left
-            - The golem only partially blocks its field of view and you can still be accidentally "Spotted"
     
         ??? note "Registration"
     
@@ -218,8 +217,8 @@ KEY POINT = Registration node = what it's toggled under
                 !!! warning "Time-saving Tip"
                     - To the north is corrosion sentry [4] that can be registered in the same run. See its entry for details
     
-                - To register proceed to the Necrocore boss in Zone 3 and defeat it ("Secret Path Keeper Vanquished")
-                - Exit via the Zone 3 Harken behind it
+                - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3
+                - To exit use the the Zone 3 Harken it was blocking  
 
         ??? danger "Boss: Necrocore"
      
@@ -244,7 +243,7 @@ KEY POINT = Registration node = what it's toggled under
                 - Race: Undead
                 - Abilities: Instant-Death
                 
-                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
+                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
                 
                 - Gear (Helm of Malice, Skull Necklace)
                 - Bondmates (Elequon)
@@ -296,14 +295,15 @@ KEY POINT = Registration node = what it's toggled under
                 - Stand in its field of view > "Spotted" flag triggered
                 
                 !!! warning "Time-saving Tip"
-                    - To the south is corrosion sentry [3] that can be registered at the same time. See its entry for details
+                    - To the south is corrosion sentry [3] that can be registered in the same run. See its entry for details
                 
-                - Proceed to the Necrocore boss in Zone 3, defeat it, and exit via the Harken behind it
+                - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3
+                - To exit use the the Zone 3 Harken it was blocking  
                 
                 !!! warning "Optional" 
                 
                     - Some players have reported triggering the "Spotted" flag without defeating the Necrocore boss 
-                    - If you would like to test this potential bug, then wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
+                    - Steps: Wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
                     - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
                     - Do a "Not spotted" run to see if the corrosion sentry was registered 
     
@@ -321,8 +321,9 @@ KEY POINT = Registration node = what it's toggled under
 
                 !!! warning "Note"
                     - To the south is corrosion sentry [3] that can be registered at the same time. See its entry for details
-                - Proceed to the Necrocore boss in Zone 3, defeat it, and exit via the Harken behind it
-    
+
+                - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3
+                - To exit use the the Zone 3 Harken it was blocking    
         
         ??? danger "Boss: Necrocore"
         
@@ -347,7 +348,7 @@ KEY POINT = Registration node = what it's toggled under
                 - Race: Undead
                 - Abilities: Instant-Death
                 
-                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
+                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To increase insta-kill tolerance:
                 
                 - Gear (Helm of Malice, Skull Necklace)
                 - Bondmates (Elequon)
@@ -358,7 +359,7 @@ KEY POINT = Registration node = what it's toggled under
         ??? note "Cursed Wheel Entry"
         
             <div align="center">
-            ![](./img/corrosion-cw/cw-corr-4-secret-path-keeper-vanquished-south)
+            ![](./img/corrosion-cw/cw-corr-4-secret-path-keeper-vanquished-south.jpg)
             </div>
 
 ## Prehistoric Corridor (Zones 5-7)
@@ -527,10 +528,11 @@ KEY POINT = Registration node = what it's toggled under
 ??? note "[8] Fortress 2F Minor Harken"
 
 !!! "Time-saving Tip" 
+
     - To register [8] and [9] you must do the entire route from the Zone 7 to the Zone 9 Harken without exiting or wheeling elsewhere. It is roughly 50% of the Fortress floors (Zones 8-10), so plan accordingly
     - Corrosion sentry [9] is encountered before [8] 
     - Both corrosion sentries can be registered at the same time to avoid multiple runs
-
+    
 ??? note "[8] 2F North Corrosion Sentry - Zone 9"
 
     ??? map "Location"
@@ -541,12 +543,12 @@ KEY POINT = Registration node = what it's toggled under
 
     ??? note "Golem Directions"
             
-            <div align="center">
-            ![](./img/corrosion-golem/golem-corr-8-fortress-2F-minor-harken-2F-north.jpg)
-            </div>
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-8-fortress-2F-minor-harken-2F-north.jpg)
+        </div>
 
-            - Push the top (1) golem to the right to block the sentry's field of view
-            - Push the bottom (2) golem down to create a new drop-down hole
+        - Push the top (1) golem to the right to block the sentry's field of view
+        - Push the bottom (2) golem down to create a new drop-down hole
 
     ??? note "Registration"
 
@@ -564,11 +566,10 @@ KEY POINT = Registration node = what it's toggled under
 
             - From the Zone 7 Harken proceed through the Fortress (Zones 8-10) until you reach Zone 10, which has a fixed map layout
 
-            !!! warning Time-saving Tip
-                - Corrosion sentry [9] will be encountered in the hallway before reaching the drop-down room at the end of Zone 10
+            !!! warning "Time-saving Tip"
+                - Corrosion sentry [9] will be encountered in the hallway before reaching the drop-down room at the end of Zone 10, which is your destination
 
-            - The final room in Zone 10 has 2 golems, a sentry (blue ★), and a drop-down hole in the bottom-left corner
-            - Do _not_ drop down that hole otherwise you will be "Spotted" when you land in Zone 9
+            - The final room on this half of Zone 10 has 2 golems, a sentry (blue ★), and a drop-down hole in the bottom-left corner. Do _not_ drop down that hole otherwise you will be "Spotted" when you land in Zone 9
             - Push the top golem to the right to block the sentry's field of view
             - Push the bottom golem down to create a new, second drop-down hole
             - Go down this hole and you will land behind the corrosion sentry > "Not spotted" flag triggered
@@ -581,29 +582,28 @@ KEY POINT = Registration node = what it's toggled under
         </div>
 
     
-??? note "[9] 3F West Corrosion Sentry"
+??? note "[9] 3F West Corrosion Sentry - Zone 10"
 
     !!! warning "Time-saving Tip"
-        - Requires a low Abyss corrosion level to access the room with the golem and wind-up doll needed to distract the corrosion sentry
-        - Toggle all corrosion sentries to "Not Spotted" in the Cursed Wheel beforehand
+        - Corrosion sentry [9] is encountered before [8]
+        - Requires a low Abyss corrosion level to access the room with the wind-up doll needed to distract the corrosion sentry
+        - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+        - Mandatory mini-quest required (see "Wind-up key collection")
 
     ??? map "Location"
     
         <div align="center">
-        ![](./img/corrosion-loc/golem-corr-9-fortress-2F-minor-harken-3F-west.jpg)
+        ![](./img/corrosion-loc/loc-corr-9-fortress-2F-minor-harken-3F-west.jpg)
         </div>
 
     ??? note "Golem Directions"
-    
-        === "Entering wind-up doll room"
-        
-            <div align="center">
-            ![](./img/corrosion-golem/golem-corr-7-ghosts-of-yore-vanquished.jpg)
-            </div>
+            
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-9-fortress-2F-minor-harken-3F-west.jpg)
+        </div>
 
-            - The map variation you roll may have the room rotated
-            - The golem push order remains the same
-            - There are 3 normal sentrys in the area, so be careful to avoid their field of vision
+        - Push the golem to the right to break the wall to access the adjacent room
+        - The next room has the wind-up doll and associated mini-quest (see "Wind-up key collection")
 
     ??? note "Registration"
 
@@ -611,19 +611,106 @@ KEY POINT = Registration node = what it's toggled under
             - Automatically "Spotted" on first run 
             
         === "Not Spotted"
+        
             Cursed Wheel Nodes
+            
             - Start: "Ghosts of Yore Vanquished" (Zone 7 Harken) 
             - Register: "Fortress 2F Minor Harken" (Zone 9 Harken)
 
             Directions:
             
-            - F
-            
+            - From the Zone 7 Harken proceed through the Fortress (Zones 8-10) until you reach Zone 10, which has a fixed map layout
+            - North of the stairs to Zone 9 there will be a room with a golem in it. Push the golem to the right to gain access to the adjoining room
 
+            !!! danger "Warning"
+                - Do not enter the hallway with the corrosion sentry yet to avoid being "Spotted"
+
+            !!! Time-saving Tip
+
+            !!! words here
+
+            - Examine all the "shiny" spots in the room and you will interact with a wind-up doll
+            - Lulu text
+            - Key collection > see entry 
+            - Return, wind-up doll
+            - Now enter the hallway, the doll will activate, and the corrosion sentry will give chase > "Not spotted" registered 
+
+            !!! warning "Time-saving Tip"
+                - Procced to the last room in Zone 10 to register corrosion sentry [8]. See its entry for details
+
+            - To register drop down the hole in Zone 10 to Zone 9 and exit via the Zone 9 Harken ("Fortress 2F Minor Harken")
+
+    ??? note "Wind-up key collection"
+
+        === "Wind-up Key 1"
+        
+            <div align="center">
+            ![](./img/corr-9-wind-up-key-1.jpg)
+            </div>
+
+        === "Wind-up Key 2"
+        
+            <div align="center">
+            ![](./img/corr-9-wind-up-key-2.jpg)
+            </div>
+            
+        === "Wind-up Key 3"
+        
+            <div align="center">
+            ![](./img/corr-9-wind-up-key-3.jpg)
+            </div>
+    
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-9-fortress-2F-minor-harken-3F-west.jpg)
         </div>
 
+??? note "[Fortress 3rd Floor Arrival" 
+
+??? note "[10] 1F Servant's Quarters Corrosion Sentry"
+
+    ??? map "Location"
+    
+        <div align="center">
+        ![](./img/corrosion-loc/loc-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
+        </div>
+
+    ??? note "Golem Directions"
+    
+        <div align="center">
+        ![](./img/corrosion-golem/golem-10-fortress-3rd-floor-arrival-1F-servant.jpg)
+        </div>
+
+        - Push the bottom (1) golem to the right to block the corruption sentry's field of view
+        - Push the top (2) golem up to block the sentry's field of view
+
+    ??? note "Registration"
+
+        === "Spotted"
+            - Automatically "Spotted" on first run 
+            
+        === "Not Spotted"
+        
+            Cursed Wheel Nodes
+            
+            - Start: "Fortress Basement Arrival" (Zone 5 entrance) 
+            - Register: "Fortress Lower Floors Cleared" (enter Zone 6)
+            
+            Directions:
+            
+            - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
+            - Push the bottom golem to the right to block the corruption sentry's field of view
+            - Push the top golem up to block the sentry's field of view  
+            - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") 
+            - To exit use the Zone 5 Harken
+            
+            !!! Time-saving Tip 
+                - The registration node is entering Zone 6 _not_ the Zone 5 Harken 
+                 
+    ??? note "Cursed Wheel Entry"
+    
+        <div align="center">
+        ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
+        </div>
 
