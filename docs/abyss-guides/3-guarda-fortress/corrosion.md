@@ -46,165 +46,168 @@ All directions are based on the MAP
 KEY POINT = Registration node = what it's toggled under
 
 
+<Content begins here>
 
 
 ## Old Secret Passage (Zones 1-3)
 
-### ??? note "[1] Secret Passage Minor Harken - Zone 1"
+### Secret Passage Minor Harken
 
-        ??? map "Location"
-        
-            <div align="center">
-            ![](./img/corrosion-loc/loc-corr-1-secret-passage-minor-harken.jpg)
-            </div>
-        
-        ??? map "Golem Directions"
-        
-            <div align="center">
-            ![](./img/corrosion-golem/golem-corr-1-secret-passage-minor-harken.jpg)
-            </div>
+??? note "[1] Corrosion Sentry"
+
+    ??? map "Location"
     
-            - Push the golem to the right to block the corrosion sentry's field of view
+        <div align="center">
+        ![](./img/corrosion-loc/loc-corr-1-secret-passage-minor-harken.jpg)
+        </div>
     
-        ??? note " Cursed Wheel Registration"
+    ??? map "Golem Directions"
     
-            === "Spotted"
-                - Automatically "Spotted" on first run 
-    
-            === "Not Spotted"
-                Cursed Wheel Nodes
-                
-                - Start: "Hidden Passage" (Beginning of Zone 1)
-                - Register: "Secret Passage Minor Harken" (Zone 1 Harken)
-                
-                Directions
-                
-                - From "Hidden Passage" walk the full length of Zone 1 until you reach the corrosion sentry in the bottom left-hand corner. Its location does not change even with different map variations 
-                - Push the golem to the right > "Not spotted" flag triggered
-                - To register exit via the Zone 1 Harken ("Secret Passage Minor Harken")  
-    
-        ??? note "Cursed Wheel Entry"
-            <div align="center">
-            ![](./img/corrosion-cw/cw-corr-1-secret-passage-minor-harken.jpg)
-            </div>
-    
-    !!! tip "Time-saving Tip"
-        - Corrosion sentries [2], [3], and [4] can all be registered in the same run
-        - Registering [3] and [4] requires defeating the Necrocore boss at the end of Zone 3
-        - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
-    
-    ??? note "[2] Enshadowed Well of Life - Zone 3"
-              
-        ??? map "Location"
-        
-            <div align="center">
-            ![](./img/corrosion-loc/loc-corr-2-enshadowed-well-of-life.jpg)
-            </div>
-    
-        ??? map "Golem Directions"
-        
-            <div align="center">
-            ![](./img/corrosion-golem/golem-corr-2-enshadowed-well-of-life.jpg)
-            </div>
-    
-            - Push the golem to the left to block the corrosion sentry's field of view 
-    
-        ??? note "Cursed Wheel Registration"
-    
-            === "Spotted"
-                - Automatically "Spotted" on first run 
-    
-            === "Not Spotted"
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-1-secret-passage-minor-harken.jpg)
+        </div>
+
+        - Push the golem to the right to block the corrosion sentry's field of view
+
+    ??? note " Cursed Wheel Registration"
+
+        === "Spotted"
+            - Automatically "Spotted" on first run 
+
+        === "Not Spotted"
+            Cursed Wheel Nodes
             
-                Cursed Wheel Nodes
+            - Start: "Hidden Passage" (Beginning of Zone 1)
+            - Register: "Secret Passage Minor Harken" (Zone 1 Harken)
+            
+            Directions
+            
+            - From "Hidden Passage" walk the full length of Zone 1 until you reach the corrosion sentry in the bottom left-hand corner. Its location does not change even with different map variations 
+            - Push the golem to the right > "Not spotted" flag triggered
+            - To register exit via the Zone 1 Harken ("Secret Passage Minor Harken")  
+
+    ??? note "Cursed Wheel Entry"
+        <div align="center">
+        ![](./img/corrosion-cw/cw-corr-1-secret-passage-minor-harken.jpg)
+        </div>
+
+!!! tip "Time-saving Tip"
+    - Corrosion sentries [2], [3], and [4] can all be registered in the same run
+    - Registering [3] and [4] requires defeating the Necrocore boss at the end of Zone 3
+    - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+
+??? note "[2] Enshadowed Well of Life - Zone 3"
+          
+    ??? map "Location"
+    
+        <div align="center">
+        ![](./img/corrosion-loc/loc-corr-2-enshadowed-well-of-life.jpg)
+        </div>
+
+    ??? map "Golem Directions"
+    
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-2-enshadowed-well-of-life.jpg)
+        </div>
+
+        - Push the golem to the left to block the corrosion sentry's field of view 
+
+    ??? note "Cursed Wheel Registration"
+
+        === "Spotted"
+            - Automatically "Spotted" on first run 
+
+        === "Not Spotted"
+        
+            Cursed Wheel Nodes
+            
+            - Start: "Secret Passage Minor Harken" (Zone 1 Harken)
+            - Register: "Enshadowed Well of Life" (Zone 2 Fountain)
+
+            Directions:
+
+            - Follow the red path, which will take you through Zones 2 and 3 to reach the drop-down hole located in the NE corner of Zone 2
+
+            ??? map "Path to corrosion sentry" 
+            
+                ??? map "Zone 2 - Old Secret Passage B2F"
+                    
+                    <div align="center">
+                    ![](./img/zone-2-path.jpg)
+                    </div>
+                    
+                ??? map "Zone 3 - Old Secret Passage B3F"
+                    
+                    <div align="center">
+                    ![](./img/zone-3-path.jpg)
+                    </div>
                 
-                - Start: "Secret Passage Minor Harken" (Zone 1 Harken)
-                - Register: "Enshadowed Well of Life" (Zone 2 Fountain)
-    
-                Directions:
-    
-                - Follow the red path, which will take you through Zones 2 and 3 to reach the drop-down hole located in the NE corner of Zone 2
-    
-                ??? map "Path to corrosion sentry" 
-                
+            - Push the golem to the left > "Not spotted" flag triggered
+            - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life")
+
+            !!! tip "Time-saving Tip"
+                - Heat south from the Zone 2 Fountain to register corrosion sentries [3] and [4]
+                - Requires defeating the Necrocore boss at the end of Zone 3. See their entries for details 
+            
+            - To exit use a Hook of Harken, defeat the Necrocore boss to access the Zone 3 Harken, or take the path back to the Zone 1 Harken 
+
+            === "How to exit from Zone 2 Fountain"
+
+                ??? map "Path back to Zone 1 Harken to exit"
+                    
                     ??? map "Zone 2 - Old Secret Passage B2F"
-                        
+                    
+                        <div align="center">
+                        ![](./img/exit-from-sentry-room-zone-2-path.png)
+                        </div>
+                    
+                    ??? map "Zone 3 - Old Secret Passage B3F"
+                    
+                        <div align="center">
+                        ![](./img/exit-from-sentry-room-zone-3-path.png)
+                        </div>
+            
+                    - From the "South" corrosion sentry [3] exit through the southern door 
+                    - Ignore the sentry to the immediate left and keep heading south. Turn right and pass 2 small dungeon cells. At the end of the path there is a dead-end with a drop-down hole to Zone 3 
+                    - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
+                    - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit   
+    
+                ??? map "Path to Necrocore and Zone 3 Harken to exit"
+            
+                    - From the Zone 2 Fountain follow the light blue and green paths
+            
+                    ??? map "Zone 2 - Old Secret Passage B2F"
+                    
                         <div align="center">
                         ![](./img/zone-2-path.jpg)
                         </div>
-                        
+            
                     ??? map "Zone 3 - Old Secret Passage B3F"
-                        
+            
                         <div align="center">
                         ![](./img/zone-3-path.jpg)
                         </div>
-                    
-                - Push the golem to the left > "Not spotted" flag triggered
-                - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life")
     
-                !!! tip "Time-saving Tip"
-                    - Heat south from the Zone 2 Fountain to register corrosion sentries [3] and [4]
-                    - Requires defeating the Necrocore boss at the end of Zone 3. See their entries for details 
-                
-                - To exit use a Hook of Harken, defeat the Necrocore boss to access the Zone 3 Harken, or take the path back to the Zone 1 Harken 
-    
-                === "How to exit from Zone 2 Fountain"
-    
-                    ??? map "Path back to Zone 1 Harken to exit"
-                        
-                        ??? map "Zone 2 - Old Secret Passage B2F"
-                        
-                            <div align="center">
-                            ![](./img/exit-from-sentry-room-zone-2-path.png)
-                            </div>
-                        
-                        ??? map "Zone 3 - Old Secret Passage B3F"
-                        
-                            <div align="center">
-                            ![](./img/exit-from-sentry-room-zone-3-path.png)
-                            </div>
-                
-                        - From the "South" corrosion sentry [3] exit through the southern door 
-                        - Ignore the sentry to the immediate left and keep heading south. Turn right and pass 2 small dungeon cells. At the end of the path there is a dead-end with a drop-down hole to Zone 3 
-                        - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
-                        - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit   
+                    !!! danger "The Necrocore boss must be defeated to access the Zone 3 Harken to exit"
+
+                    ??? danger "Boss Fight Details"
         
-                    ??? map "Path to Necrocore and Zone 3 Harken to exit"
-                
-                        - From the Zone 2 Fountain follow the light blue and green paths
-                
-                        ??? map "Zone 2 - Old Secret Passage B2F"
+                        - Race: Undead
+                        - Abilities: Instant-Death
                         
-                            <div align="center">
-                            ![](./img/zone-2-path.jpg)
-                            </div>
-                
-                        ??? map "Zone 3 - Old Secret Passage B3F"
-                
-                            <div align="center">
-                            ![](./img/zone-3-path.jpg)
-                            </div>
-        
-                        !!! danger "The Necrocore boss must be defeated to access the Zone 3 Harken to exit"
+                        Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
+                        
+                        - Gear (Helm of Malice, Skull Necklace)
+                        - Bondmates (Elequon)
+                        - Adventurer passives (Red Beard, Galina)
+                        - Harken blessings
+                        - Well of the Mind nodes for the MC
+
+    ??? note "Cursed Wheel Entry"
     
-                        ??? danger "Boss Fight Details"
-            
-                            - Race: Undead
-                            - Abilities: Instant-Death
-                            
-                            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
-                            
-                            - Gear (Helm of Malice, Skull Necklace)
-                            - Bondmates (Elequon)
-                            - Adventurer passives (Red Beard, Galina)
-                            - Harken blessings
-                            - Well of the Mind nodes for the MC
-    
-        ??? note "Cursed Wheel Entry"
-        
-            <div align="center">
-            ![](./img/corrosion-cw/cw-corr-2-enshadowed-well-of-life.jpg)
-            </div>
+        <div align="center">
+        ![](./img/corrosion-cw/cw-corr-2-enshadowed-well-of-life.jpg)
+        </div>
 
 ??? note "Secret Path Keeper Vanquished"
 
