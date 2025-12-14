@@ -65,10 +65,10 @@ KEY POINT = Registration node = what it's toggled under
         === "Spotted"
             - Automatically "Spotted" on first run 
 
-        === "Not spotted"
+        === "Not Spotted"
             - Start node: "Hidden Passage" 
             - Register node: "Secret Passage Minor Harken"
-
+            
             Directions:
             - From "Hidden Passage" walk the full length of Zone 1 until you reach the corrosion sentry in the bottom left-hand corner. Its location does not change even with different map variations 
             - Push the golem to the right > "Not spotted" flag triggered
