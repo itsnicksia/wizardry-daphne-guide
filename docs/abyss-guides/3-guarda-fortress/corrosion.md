@@ -51,25 +51,21 @@ KEY POINT = Registration node = what it's toggled under
 
 !!! danger
 
-!!! dragon
+!!! info
+
+!!! item
 
 !!! note
 
-!!! scrolls
+!!! scroll
 
 !!! map
 
 !!! tip
 
-!!! skull
-
 !!! bug 
 
-!!! shield
 
-!!! swords
-
-!!! wheat
 
 
 ## Old Secret Passage (Zones 1-3)
