@@ -53,7 +53,7 @@ KEY POINT = Registration node = what it's toggled under
 
 ### Secret Passage Minor Harken
 
-??? note "[1] Corrosion Sentry"
+??? note "Corrosion Sentry [1]"
 
     ??? map "Location"
     
@@ -98,7 +98,7 @@ KEY POINT = Registration node = what it's toggled under
     - Registering [3] and [4] requires defeating the Necrocore boss at the end of Zone 3
     - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
-??? note "[2] Corrosion Sentry"
+??? note "Corrosion Sentry [2]"
           
     ??? map "Location"
     
@@ -153,57 +153,57 @@ KEY POINT = Registration node = what it's toggled under
             
             - To exit use a Hook of Harken, defeat the Necrocore boss to access the Zone 3 Harken, or take the path back to the Zone 1 Harken 
 
-            === "How to exit from Zone 2 Fountain"
+        === "How to exit from Zone 2 Fountain"
 
-                ??? map "Path back to Zone 1 Harken to exit"
-                    
-                    ??? map "Zone 2 - Old Secret Passage B2F"
-                    
-                        <div align="center">
-                        ![](./img/exit-from-sentry-room-zone-2-path.png)
-                        </div>
-                    
-                    ??? map "Zone 3 - Old Secret Passage B3F"
-                    
-                        <div align="center">
-                        ![](./img/exit-from-sentry-room-zone-3-path.png)
-                        </div>
-            
-                    - From the "South" corrosion sentry [3] exit through the southern door 
-                    - Ignore the sentry to the immediate left and keep heading south. Turn right and pass 2 small dungeon cells. At the end of the path there is a dead-end with a drop-down hole to Zone 3 
-                    - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
-                    - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit   
-    
-                ??? map "Path to Necrocore and Zone 3 Harken to exit"
-            
-                    - From the Zone 2 Fountain follow the light blue and green paths
-            
-                    ??? map "Zone 2 - Old Secret Passage B2F"
-                    
-                        <div align="center">
-                        ![](./img/zone-2-path.jpg)
-                        </div>
-            
-                    ??? map "Zone 3 - Old Secret Passage B3F"
-            
-                        <div align="center">
-                        ![](./img/zone-3-path.jpg)
-                        </div>
-    
-                    !!! danger "The Necrocore boss must be defeated to access the Zone 3 Harken to exit"
-
-                    ??? danger "Boss Fight Details"
+            ??? map "Path back to Zone 1 Harken to exit"
+                
+                ??? map "Zone 2 - Old Secret Passage B2F"
+                
+                    <div align="center">
+                    ![](./img/exit-from-sentry-room-zone-2-path.png)
+                    </div>
+                
+                ??? map "Zone 3 - Old Secret Passage B3F"
+                
+                    <div align="center">
+                    ![](./img/exit-from-sentry-room-zone-3-path.png)
+                    </div>
         
-                        - Race: Undead
-                        - Abilities: Instant-Death
-                        
-                        Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
-                        
-                        - Gear (Helm of Malice, Skull Necklace)
-                        - Bondmates (Elequon)
-                        - Adventurer passives (Red Beard, Galina)
-                        - Harken blessings
-                        - Well of the Mind nodes for the MC
+                - From the "South" corrosion sentry [3] exit through the southern door 
+                - Ignore the sentry to the immediate left and keep heading south. Turn right and pass 2 small dungeon cells. At the end of the path there is a dead-end with a drop-down hole to Zone 3 
+                - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
+                - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit   
+
+            ??? map "Path to Necrocore and Zone 3 Harken to exit"
+        
+                - From the Zone 2 Fountain follow the light blue and green paths
+        
+                ??? map "Zone 2 - Old Secret Passage B2F"
+                
+                    <div align="center">
+                    ![](./img/zone-2-path.jpg)
+                    </div>
+        
+                ??? map "Zone 3 - Old Secret Passage B3F"
+        
+                    <div align="center">
+                    ![](./img/zone-3-path.jpg)
+                    </div>
+
+                !!! danger "The Necrocore boss must be defeated to access the Zone 3 Harken to exit"
+
+                ??? danger "Boss Fight Details"
+    
+                    - Race: Undead
+                    - Abilities: Instant-Death
+                    
+                    Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
+                    
+                    - Gear (Helm of Malice, Skull Necklace)
+                    - Bondmates (Elequon)
+                    - Adventurer passives (Red Beard, Galina)
+                    - Harken blessings
+                    - Well of the Mind nodes for the MC
 
     ??? note "Cursed Wheel Entry"
     
@@ -223,7 +223,7 @@ KEY POINT = Registration node = what it's toggled under
 !!! tip "Time-saving Tip"
     - Corrosion sentries [3] and [4] can be registered in the same run 
 
-??? note "[3] South Corrosion Sentry"
+??? note "South Corrosion Sentry [3]"
 
     ??? map "Location"
     
@@ -303,10 +303,10 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-3-secret-path-keeper-vanquished-south.jpg)
         </div>
     
-??? note "[4] Central Corrosion Sentry"
+??? note "Central Corrosion Sentry [4]"
 
-    !!! tip warning 
-        - This corrosion sentry must be done _twice_ to register both the "Spotted" and "Not spotted" flags. It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
+    !!! warning "Warning" 
+        - Corrosion sentry [4] must be done _twice_ to register both the "Spotted" and "Not spotted" flags. It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
         - Requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
     ??? map "Location"
@@ -410,9 +410,9 @@ KEY POINT = Registration node = what it's toggled under
 
 ## Prehistoric Corridor (Zones 5-7)
 
-### "[5] Fortress Lower Floors Cleared"
+### Fortress Lower Floors Cleared
 
-??? note [5] Corrosion Sentry 
+??? note "Corrosion Sentry [5]"
 
     ??? map "Location"
     
@@ -467,7 +467,9 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
 
-??? note "[6] Portrait Gallery Minor Harken - Zone 6"
+### "Portrait Gallery Minor Harken"
+
+??? note "Corrosion Sentry [6]"
 
     ??? map "Location"
     
@@ -518,8 +520,9 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-6-portrait-gallery-minor-harken.jpg)
         </div>
 
-    
-??? note "[7] Ghosts of Yore Vanquished - Corrosion Sentry - Zone 7"
+### Ghosts of Yore Vanquished
+
+??? note "Corrosion Sentry [7]"
 
     ??? map "Location"
     
@@ -591,7 +594,7 @@ KEY POINT = Registration node = what it's toggled under
 
 ## Fortress (Zones 8-10)
 
-??? note "Fortress 2F Minor Harken"
+### Fortress 2F Minor Harken 
 
 !!! warning 
 
@@ -602,7 +605,7 @@ KEY POINT = Registration node = what it's toggled under
     
     - Both corrosion sentries can be registered at the same time to avoid multiple runs
 
-??? note "[8] 2F North Corrosion Sentry - Zone 9"
+??? note "2F North Corrosion Sentry [8]"
 
     ??? map "Location"
     
@@ -651,10 +654,9 @@ KEY POINT = Registration node = what it's toggled under
         </div>
 
     
-??? note "[9] 3F West Corrosion Sentry - Zone 10"
+??? note "3F West Corrosion Sentry [9]"
 
     !!! warning "Warning"
-        - Requires a low Abyss corrosion level to access the room with the wind-up doll needed to distract the corrosion sentry. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
         - Mandatory mini-quest required (see "Wind-up key collection")
 
     ??? map "Location"
@@ -733,7 +735,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-9-fortress-2F-minor-harken-3F-west.jpg)
         </div>
 
-??? note "Fortress 3rd Floor Arrival" 
+### "Fortress 3rd Floor Arrival"
 
 !!! warning "Warning"
 
@@ -750,7 +752,7 @@ KEY POINT = Registration node = what it's toggled under
     - For corrosion sentries [11] and [13] you can be "Spotted" during your first run and you can include their "No spotted" run when registering [10] and/or [12] 
 
 
-??? note "[10] 1F Servant's Quarters Corrosion Sentry"
+??? note "1F Servant's Quarters Corrosion Sentry [1]"
 
     ??? map "Location"
     
