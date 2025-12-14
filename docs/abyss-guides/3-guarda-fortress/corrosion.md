@@ -89,77 +89,76 @@ KEY POINT = Registration node = what it's toggled under
     - Registering [3] and [4] requires defeating the Zone 3 Necrocore boss
 
 
-
-??? note "Enshadowed Well of Life"
-
-    ??? note "[2] Enshadowed Well of Life - Corrosion Sentry - Zone 3"
+??? note "[2] Enshadowed Well of Life - Corrosion Sentry - Zone 3"
           
-        ??? map "Location"
-        
-            <div align="center">
-            ![](./img/corrosion-loc/loc-corr-2-enshadowed-well-of-life.jpg)
-            </div>
+    ??? map "Location"
     
-        ??? note "Golem Directions"
-        
-            <div align="center">
-            ![](./img/corrosion-golem/golem-corr-2-enshadowed-well-of-life.jpg)
-            </div>
+        <div align="center">
+        ![](./img/corrosion-loc/loc-corr-2-enshadowed-well-of-life.jpg)
+        </div>
+
+    ??? note "Golem Directions"
     
-            - Push the golem to the left to block the corrosion sentry's field of view 
-    
-        ??? note "Registration"
-    
-            === "Spotted"
-                - Automatically "Spotted" on first run 
-    
-            === "Not Spotted"
-                Cursed Wheel Nodes
-                
-                - Start: "Secret Passage Minor Harken" (Zone 1 Harken)
-                - Register: "Enshadowed Well of Life" (Zone 2 Fountain)
-    
-                Directions:
-    
-                - Follow the red path
-    
-                ??? map "Path to corrosion sentry [2]" 
-                
-                    ??? map "Zone 2 - Old Secret Passage B2F"
-                        
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-2-enshadowed-well-of-life.jpg)
+        </div>
+
+        - Push the golem to the left to block the corrosion sentry's field of view 
+
+    ??? note "Registration"
+
+        === "Spotted"
+            - Automatically "Spotted" on first run 
+
+        === "Not Spotted"
+            Cursed Wheel Nodes
+            
+            - Start: "Secret Passage Minor Harken" (Zone 1 Harken)
+            - Register: "Enshadowed Well of Life" (Zone 2 Fountain)
+
+            Directions:
+
+            - Follow the red path
+
+            ??? map "Path to corrosion sentry" 
+            
+                ??? map "Zone 2 - Old Secret Passage B2F"
+                    
                     <div align="center">
                     ![](./img/zone-2-path.jpg)
                     </div>
-                        
-                    ??? map "Zone 3 - Old Secret Passage B3F"
-                        
+                    
+                ??? map "Zone 3 - Old Secret Passage B3F"
+                    
                     <div align="center">
                     ![](./img/zone-3-path.jpg)
                     </div>
-                    
-                - There is a hole in the northeast corner of Zone 2 that drops you down to Zone 3. The corrosion sentry is around the corner 
-                - Push the golem to the left > "Not spotted" flag triggered
-                - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life")
-                - To exit use a Hook of Harken, defeat the Necrocore boss in Zone 3, or take the route back to the Zone 1 Harken 
+                
+            - There is a hole in the northeast corner of Zone 2 that drops you down to Zone 3. The corrosion sentry is around the corner 
+            - Push the golem to the left > "Not spotted" flag triggered
+            - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life")
+            - To exit use a Hook of Harken, defeat the Necrocore boss in Zone 3, or take the route back to the Zone 1 Harken 
+
+    ??? map "How to exit from the Zone 2 Fountain"
     
-        ??? map "How to exit from the Zone 2 Fountain"
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-2-enshadowed-well-of-life.jpg)
+        </div>
         
-            <div align="center">
-            ![](./img/corrosion-golem/golem-corr-2-enshadowed-well-of-life.jpg)
-            </div>
-            
-            - **NEED TO CREATE MAP**
-            - From the Zone 2 Fountain proceed south past the Southern [3] corrosion sentry. Go through the door 
-            - Ignore the sentry to your immediate right and keep heading south. At the bottom of the map there is a dead-end with a hole to drop down to Zone 3 
-            - Once you land in Zone 3 go up, to the right, and up to the stairs to Zone 2. Head through the 1-way door and the stairs in front of you will take you back to the Zone 1 Harken   
-            
-        ??? note "Cursed Wheel Entry"
+        - **NEED TO CREATE MAP**
+        - From the Zone 2 Fountain proceed south past the Southern [3] corrosion sentry. Go through the door 
+        - Ignore the sentry to your immediate right and keep heading south. At the bottom of the map there is a dead-end with a hole to drop down to Zone 3 
+        - Once you land in Zone 3 go up, to the right, and up to the stairs to Zone 2. Head through the 1-way door and the stairs in front of you will take you back to the Zone 1 Harken   
         
-            <div align="center">
-            ![](./img/corrosion-cw/cw-corr-2-enshadowed-well-of-life.jpg)
-            </div>
+    ??? note "Cursed Wheel Entry"
     
-    ??? note "[3] Secret Path Keeper Vanquished - South Corrosion Sentry - Zone 2"
+        <div align="center">
+        ![](./img/corrosion-cw/cw-corr-2-enshadowed-well-of-life.jpg)
+        </div>
+
+??? note "Secret Path Keeper Vanquished"
+
+    ??? note "[3] South Corrosion Sentry - Zone 2"
     
         !!! warning 
             - Registration requires defeating the Necrocore boss in Zone 3
@@ -203,12 +202,12 @@ KEY POINT = Registration node = what it's toggled under
                 - Push the southern golem to the left > "Not spotted" flag triggered
                 - The golem only partially blocks the corrosion sentry's field of view, so be careful when exiting through the southern door
     
-                !!! "Note"
-                To the north is corrosion sentry [4] that can be registered in the same run. See its entry for details
+                !!! warning "Note"
+                - To the north is corrosion sentry [4] that can be registered in the same run. See its entry for details
                 
                 - Proceed to the Necrocore boss in Zone 3, defeat it, and exit via the Harken behind it
      
-        ??? note "Directions to Zone 3 Necrocore boss"
+        ??? map "Directions to Zone 3 Necrocore boss"
     
             - From the Zone 2 Fountain follow the light blue path south
     
@@ -229,8 +228,13 @@ KEY POINT = Registration node = what it's toggled under
             - Race: Undead
             - Abilities: Instant-Death
             
-            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including gear (Helm of Malice, Skull Necklace), bondmates (Elequon), adventurer passives (Red Beard, Galina), Harken blessings, and Well of the Mind nodes for the MC. 
-    
+            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
+            
+            - Gear (Helm of Malice, Skull Necklace)
+            - Bondmates (Elequon)
+            - Adventurer passives (Red Beard, Galina)
+            - Harken blessings
+            - Well of the Mind nodes for the MC 
     
         ??? note "Cursed Wheel Entry"
         
@@ -238,7 +242,7 @@ KEY POINT = Registration node = what it's toggled under
             ![](./img/corrosion-cw/cw-corr-3-secret-path-keeper-vanquished-south.jpg)
             </div>
     
-    ??? note "[4] Secret Path Keeper Vanquished - Central Corrosion Sentry - Zone 2"
+    ??? note "[4] Central Corrosion Sentry - Zone 2"
     
         !!! warning 
             - This corrosion sentry must be done _twice_ to register both the "Spotted" and "Not spotted" flags. It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
@@ -276,17 +280,19 @@ KEY POINT = Registration node = what it's toggled under
                 Directions:
         
                 - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room
-                - Ignore the golem directly in front of you and head north
-                - The corruption sentry is in an alcove in the upper right-hand corner 
+                - Ignore the golem directly in front of you and head north. The corruption sentry is in an alcove in the upper right-hand corner 
                 - Stand in its field of view > "Spotted" flag triggered
-                - Note: To the south is corrosion sentry [3] that can be registered at the same time. See its entry for details
+                
+                !!! warning "Note"
+                To the south is corrosion sentry [3] that can be registered at the same time. See its entry for details
+                
                 - Proceed to the Necrocore boss in Zone 3, defeat it, and exit via the Harken behind it
                 
                 Optional: 
                 
-                - Some players have reported triggering the "Spotted" flag without defeating the Necrocore boss in Zone 3
-                - If you would like to test this potential bug, then CW to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
-                - Once back in town CW to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
+                - Some players have reported triggering the "Spotted" flag without defeating the Necrocore boss 
+                - If you would like to test this potential bug, then wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
+                - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
                 - Do a "Not spotted" run to see if the corrosion sentry was registered 
     
             === "Not Spotted"
@@ -324,7 +330,13 @@ KEY POINT = Registration node = what it's toggled under
             - Race: Undead
             - Abilities: Instant-Death
             
-            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including gear (Helm of Malice, Skull Necklace), bondmates (Elequon), adventurer passives (Red Beard, Galina), Harken blessings, and Well of the Mind nodes for the MC. 
+            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
+            
+            - Gear (Helm of Malice, Skull Necklace)
+            - Bondmates (Elequon)
+            - Adventurer passives (Red Beard, Galina)
+            - Harken blessings
+            - Well of the Mind nodes for the MC 
     
         ??? note "Cursed Wheel Entry"
         
@@ -413,7 +425,7 @@ KEY POINT = Registration node = what it's toggled under
             - Proceed through Zone 6 until you reach the area with 3 golems. Its location does not change even with different map variations 
             - Push the top and bottom golems to the left
             - Push the middle golem up, which will crush the corrosion sentry > "Not spotted" flag triggered 
-            - Note: There are 2 normal sentrys in the area. Be careful to avoid their field of view when pushing the golems
+            - Note: There are 2 normal sentrys (blue ★) in the area. Be careful to avoid their field of view when pushing the golems
             - To register exit via the Zone 6 Harken
      
     ??? note "Cursed Wheel Entry"
@@ -467,9 +479,11 @@ KEY POINT = Registration node = what it's toggled under
 
             Directions:
             
-            - From the Zone 6 Harken go up the stairs and proceed through Zone 7 until you reach the large room with 6 golems. Zone 7 can roll different map variations. The large room might be rotated, but the golem pushing order remains the same. See "Golem Directions - Corrosion Sentry"
+            - From the Zone 6 Harken go up the stairs and proceed through Zone 7 until you reach the large room with 6 golems. 
+            - Zone 7 can roll different map variations. The large room might be rotated, but the golem pushing order remains the same (see "Golem Directions - Corrosion Sentry")
             - Crush the corrosion sentry > "Not spotted" flag triggered 
-            - To register proceed to the end of Zone 7 and defeat the Doll boss or crush it (see "Golem Directions - Doll") for a hidden achievement. Exit via the Zone 7 Harken
+            - To register proceed to the end of Zone 7 and defeat the Doll boss or crush it (see "Golem Directions - Doll") for a hidden achievement
+            - Exit via the Zone 7 Harken
 
     ??? note "Cursed Wheel Entry"
     
@@ -482,7 +496,9 @@ KEY POINT = Registration node = what it's toggled under
 !!! warning 
     Corrosion sentry [9] is encountered before [8] when traveling to the Zone 9 Harken.
 
-??? note "[8] Fortress 2F Minor Harken - 2F North Corrosion Sentry - Zone 9"
+??? note "[8] Fortress 2F Minor Harken"
+
+??? note "[8] 2F North Corrosion Sentry - Zone 9"
 
     ??? map "Location"
     
@@ -526,7 +542,7 @@ KEY POINT = Registration node = what it's toggled under
         </div>
 
     
-??? note "[7] Ghosts of Yore Vanquished - Corrosion Sentry - Zone 7"
+??? note "[9] 3F West Corrosion Sentry"
 
     ??? map "Location"
     
@@ -545,16 +561,6 @@ KEY POINT = Registration node = what it's toggled under
             - The map variation you roll may have the room rotated
             - The golem push order remains the same
             - There are 3 normal sentrys in the area, so be careful to avoid their field of vision
-        
-        === "Doll"
-        
-            <div align="center">
-            ![](./img/golem-kill-boss.jpg)
-            </div>
-
-            - There are several roaming sentrys in the area
-            - Requires walking through poison tiles
-            - Poison tiles can cause the game to lag and a roaming sentry may spot you and catch up
 
     ??? note "Registration"
 
