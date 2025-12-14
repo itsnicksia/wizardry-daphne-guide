@@ -4,6 +4,7 @@
 
 There are a total of 13 corrosion sentries you can encounter in Guarda Fortress. 
 
+
 ## Mechanics
 
 ??? note "Corrosion"
@@ -43,6 +44,33 @@ Node = CW jump point
 
 All directions are based on the MAP
 KEY POINT = Registration node = what it's toggled under
+
+## Icons
+
+!!! warning
+
+!!! danger
+
+!!! dragon
+
+!!! note
+
+!!! scrolls
+
+!!! map
+
+!!! tip
+
+!!! skull
+
+!!! bug 
+
+!!! shield
+
+!!! swords
+
+!!! wheat
+
 
 ## Old Secret Passage (Zones 1-3)
 
