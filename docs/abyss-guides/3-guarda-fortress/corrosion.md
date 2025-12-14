@@ -84,10 +84,11 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-1-secret-passage-minor-harken.jpg)
         </div>
 
-!!! "Time-saving Tip"
+!!! warning "Time-saving Tip"
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
-    - Registering [3] and [4] requires defeating the Zone 3 Necrocore boss
-
+    - Registering [3] and [4] requires defeating the Necrocore boss at the end of Zone 3
+    - Corrosion sentry [4] requires a low Abyss corrosion level to access 
+    - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
 ??? note "[2] Enshadowed Well of Life - Zone 3"
           
@@ -118,7 +119,7 @@ KEY POINT = Registration node = what it's toggled under
 
             Directions:
 
-            - Follow the red path
+            - Follow the red path, which will take you through Zones 2 and 3 to reach the drop-down hole located in the NE corner of Zone 2
 
             ??? map "Path to corrosion sentry" 
             
@@ -134,29 +135,32 @@ KEY POINT = Registration node = what it's toggled under
                     ![](./img/zone-3-path.jpg)
                     </div>
                 
-            - There is a hole in the northeast corner of Zone 2 that drops you down to Zone 3. The corrosion sentry is around the corner 
             - Push the golem to the left > "Not spotted" flag triggered
             - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life")
-            - To exit use a Hook of Harken, defeat the Necrocore boss in Zone 3, or take the route back to the Zone 1 Harken 
 
-    ??? map "Path back to Zone 1 Harken"
+            !!! note "Time-saving Tip"
+                - From the Zone 2 Fountain you can head south to register corrosion sentries [3] and [4], but it requires defeating the Necrocore boss at the end of Zone 3. See their entries for details 
             
-        ??? map "Zone 2 - Old Secret Passage B2F"
+            - To exit use a Hook of Harken, defeat the Necrocore boss in Zone 3, or take the path back to the Zone 1 Harken 
+
+        ??? map "Path back to Zone 1 Harken"
+                
+            ??? map "Zone 2 - Old Secret Passage B2F"
+            
+                <div align="center">
+                ![](./img/exit-from-sentry-room-zone-2-path.png)
+                </div>
+            
+            ??? map "Zone 3 - Old Secret Passage B3F"
+            
+                <div align="center">
+                ![](./img/exit-from-sentry-room-zone-3-path.png)
+                </div>
         
-            <div align="center">
-            ![](./img/exit-from-sentry-room-zone-2-path.png)
-            </div>
-        
-        ??? map "Zone 3 - Old Secret Passage B3F"
-        
-            <div align="center">
-            ![](./img/exit-from-sentry-room-zone-3-path)
-            </div>
-        
-        - From the South [3] corrosion sentry exit through the southern door 
-        - Ignore the sentry to your immediate right and keep heading south. At the bottom of the map there is a dead-end with a hole to drop down to Zone 3 
-        - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
-        - Head through the 1-way door and the stairs in front of you will take you back to the Zone 1 Harken   
+            - From the South [3] corrosion sentry exit through the southern door 
+            - Ignore the sentry to your immediate right and keep heading south. At the bottom of the map there is a dead-end with a hole to drop down to Zone 3 
+            - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
+            - Head through the 1-way door. Take the stairs directly in front of you back to the Zone 1 Harken   
         
     ??? note "Cursed Wheel Entry"
     
@@ -166,15 +170,15 @@ KEY POINT = Registration node = what it's toggled under
 
 ??? note "Secret Path Keeper Vanquished"
 
-    ??? note "[3] South Corrosion Sentry - Zone 2"
-    
-        !!! danger "Warning" 
-            - Registration requires defeating the Necrocore boss in Zone 3
+    !!! danger "Warning" 
+        - Registration requires defeating the Necrocore boss in Zone 3
         
-        ??? warning "Time-saving Tip"
-            - Corrosion sentry [4] is located directly north of this one and can be registered at the same time
-            - Corrosion sentry [4] requires a low Abyss corrosion level to access 
-            - Toggle all corrosion sentries to "Not Spotted" in the Cursed Wheel beforehand
+    !!! warning "Time-saving Tip"
+        - Corrosion sentries [3] and [4] can be registered in the same run 
+        - Corrosion sentry [4] requires a low Abyss corrosion level to access 
+        - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+
+    ??? note "[3] South Corrosion Sentry - Zone 2"
     
         ??? map "Location"
         
@@ -216,35 +220,37 @@ KEY POINT = Registration node = what it's toggled under
     
                 - To register proceed to the Necrocore boss in Zone 3 and defeat it ("Secret Path Keeper Vanquished")
                 - Exit via the Zone 3 Harken behind it
-     
-        ??? map "Path to Zone 3 Necrocore boss"
-    
-            - From the Zone 2 Fountain follow the light blue > green paths
-    
-            ??? map "Zone 2 - Old Secret Passage B2F"
-            
-                <div align="center">
-                ![](./img/zone-2-path.jpg)
-                </div>
-    
-            ??? map "Zone 3 - Old Secret Passage B3F"
-    
-                <div align="center">
-                ![](./img/zone-3-path.jpg)
-                </div>
-    
+
         ??? danger "Boss: Necrocore"
-    
-            - Race: Undead
-            - Abilities: Instant-Death
-            
-            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
-            
-            - Gear (Helm of Malice, Skull Necklace)
-            - Bondmates (Elequon)
-            - Adventurer passives (Red Beard, Galina)
-            - Harken blessings
-            - Well of the Mind nodes for the MC 
+     
+            ??? map "Path to Necrocore"
+        
+                - From the Zone 2 Fountain follow the light blue and green paths
+        
+                ??? map "Zone 2 - Old Secret Passage B2F"
+                
+                    <div align="center">
+                    ![](./img/zone-2-path.jpg)
+                    </div>
+        
+                ??? map "Zone 3 - Old Secret Passage B3F"
+        
+                    <div align="center">
+                    ![](./img/zone-3-path.jpg)
+                    </div>
+        
+            ??? danger "Battle Details"
+        
+                - Race: Undead
+                - Abilities: Instant-Death
+                
+                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
+                
+                - Gear (Helm of Malice, Skull Necklace)
+                - Bondmates (Elequon)
+                - Adventurer passives (Red Beard, Galina)
+                - Harken blessings
+                - Well of the Mind nodes for the MC 
     
         ??? note "Cursed Wheel Entry"
         
@@ -254,14 +260,10 @@ KEY POINT = Registration node = what it's toggled under
     
     ??? note "[4] Central Corrosion Sentry - Zone 2"
 
-        !!! danger "Warning"
-            - Registration requires defeating the Necrocore boss in Zone 3
-
         !!! warning "Time-saving Tip" 
             - This corrosion sentry must be done _twice_ to register both the "Spotted" and "Not spotted" flags. It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
             - Requires a low Abyss corrosion level to access
-            - Toggle all corrosion sentries to "Not Spotted" in the Cursed Wheel beforehand
-            - Corrosion sentry [3] is located directly south of this one and can be registered at the same time
+            - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
         ??? map "Location"
         
@@ -293,17 +295,17 @@ KEY POINT = Registration node = what it's toggled under
                 - Ignore the golem directly in front of you and head north. The corruption sentry is in an alcove in the upper right-hand corner 
                 - Stand in its field of view > "Spotted" flag triggered
                 
-                !!! warning "Note"
+                !!! warning "Time-saving Tip"
                     - To the south is corrosion sentry [3] that can be registered at the same time. See its entry for details
                 
                 - Proceed to the Necrocore boss in Zone 3, defeat it, and exit via the Harken behind it
                 
-                Optional: 
+                !!! warning "Optional" 
                 
-                - Some players have reported triggering the "Spotted" flag without defeating the Necrocore boss 
-                - If you would like to test this potential bug, then wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
-                - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
-                - Do a "Not spotted" run to see if the corrosion sentry was registered 
+                    - Some players have reported triggering the "Spotted" flag without defeating the Necrocore boss 
+                    - If you would like to test this potential bug, then wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
+                    - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
+                    - Do a "Not spotted" run to see if the corrosion sentry was registered 
     
             === "Not Spotted"
             
@@ -321,34 +323,37 @@ KEY POINT = Registration node = what it's toggled under
                     - To the south is corrosion sentry [3] that can be registered at the same time. See its entry for details
                 - Proceed to the Necrocore boss in Zone 3, defeat it, and exit via the Harken behind it
     
-        ??? map "Path to Zone 3 Necrocore boss"
-            
-            - From the Zone 2 Fountain follow the light blue > green paths
-
-            ??? map "Zone 2 - Old Secret Passage B2F"
-            
-                <div align="center">
-                ![](./img/zone-2-path.jpg)
-                </div>
-    
-            ??? map "Zone 3 - Old Secret Passage B3F"
-    
-                <div align="center">
-                ![](./img/zone-3-path.jpg)
-                </div>   
-    
+        
         ??? danger "Boss: Necrocore"
+        
+            ??? map "Path to Zone 3 Necrocore boss"
+                
+                - From the Zone 2 Fountain follow the light blue and green paths
     
-            - Race: Undead
-            - Abilities: Instant-Death
-            
-            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
-            
-            - Gear (Helm of Malice, Skull Necklace)
-            - Bondmates (Elequon)
-            - Adventurer passives (Red Beard, Galina)
-            - Harken blessings
-            - Well of the Mind nodes for the MC 
+                ??? map "Zone 2 - Old Secret Passage B2F"
+                
+                    <div align="center">
+                    ![](./img/zone-2-path.jpg)
+                    </div>
+        
+                ??? map "Zone 3 - Old Secret Passage B3F"
+        
+                    <div align="center">
+                    ![](./img/zone-3-path.jpg)
+                    </div>   
+    
+            ??? danger "Battle Details"
+        
+                - Race: Undead
+                - Abilities: Instant-Death
+                
+                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. There are several ways to increase insta-kill tolerance, including:
+                
+                - Gear (Helm of Malice, Skull Necklace)
+                - Bondmates (Elequon)
+                - Adventurer passives (Red Beard, Galina)
+                - Harken blessings
+                - Well of the Mind nodes for the MC 
     
         ??? note "Cursed Wheel Entry"
         
@@ -392,9 +397,10 @@ KEY POINT = Registration node = what it's toggled under
             - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
             - Push the bottom golem to the right to block the corruption sentry's field of view
             - Push the top golem up to block the sentry's field of view  
-            - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") and then exit via the Zone 5 Harken
+            - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") 
+            - To exit use the Zone 5 Harken
             
-            !!! warning 
+            !!! Time-saving Tip 
                 - The registration node is entering Zone 6 _not_ the Zone 5 Harken 
                  
     ??? note "Cursed Wheel Entry"
@@ -438,8 +444,8 @@ KEY POINT = Registration node = what it's toggled under
             - Push the top and bottom golems to the left
             - Push the middle golem up, which will crush the corrosion sentry > "Not spotted" flag triggered 
 
-            !!! Warning
-                There are 2 normal sentrys (blue ★) in the area. Be careful to avoid their field of view when pushing the golems
+            !!! danger "Sentry Alert"
+                There are 2 normal sentries (blue ★) in the area. Be careful to avoid their field of view when pushing the golems
             - To register exit via the Zone 6 Harken
      
     ??? note "Cursed Wheel Entry"
@@ -465,9 +471,12 @@ KEY POINT = Registration node = what it's toggled under
             ![](./img/corrosion-golem/golem-corr-7-ghosts-of-yore-vanquished.jpg)
             </div>
 
-            - The map variation you roll may have the room rotated
+            !!! danger "Sentry Alert"
+                - There are 3 sentries in the area, so be careful to avoid their field of vision
+
+            - The room can be rotated in several different positions depending on the map variation
             - The golem push order remains the same
-            - There are 3 normal sentrys in the area, so be careful to avoid their field of vision
+
         
         === "Doll"
         
@@ -475,9 +484,13 @@ KEY POINT = Registration node = what it's toggled under
             ![](./img/golem-kill-boss.jpg)
             </div>
 
-            - There are several roaming sentrys in the area
+            !!! danger "Sentry Alert"
+                - There are several roaming sentries in the area
+
             - Requires walking through poison tiles
             - Poison tiles can cause game lag and a roaming sentry may spot you and catch up
+
+
 
     ??? note "Registration"
 
@@ -498,10 +511,10 @@ KEY POINT = Registration node = what it's toggled under
             - Crush the corrosion sentry > "Not spotted" flag triggered 
             - To register proceed to the end of Zone 7 and defeat the Doll boss 
             
-            !!! warning "Note"
+            !!! warning "Alternative method"
                 - Defeating the Doll boss again is _not_ mandatory. It can be crushed with a golem (see "Golem Directions - Doll") for a hidden achievement
                 
-            - Exit via the Zone 7 Harken
+            - To exit use the Zone 7 Harken
 
     ??? note "Cursed Wheel Entry"
     
