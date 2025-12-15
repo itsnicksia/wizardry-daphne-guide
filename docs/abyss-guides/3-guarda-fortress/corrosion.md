@@ -59,9 +59,7 @@ KEY POINT = Registration node = what it's toggled under
 <Content begins here>
 
 
-## Old Secret Passage (Zones 1-3)
-
-### Secret Passage Minor Harken
+## Secret Passage Minor Harken
 
 ??? note "Corrosion Sentry [1]"
 
@@ -101,7 +99,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-1-secret-passage-minor-harken.jpg)
         </div>
 
-### Enshadowed Well of Life 
+## Enshadowed Well of Life 
 
 !!! tip "Time-saving Tip"
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
@@ -216,7 +214,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-2-enshadowed-well-of-life.jpg)
         </div>
 
-### Secret Path Keeper Vanquished
+## Secret Path Keeper Vanquished
 
 !!! danger "Boss Fight Ahead" 
     - Registration requires defeating the Necrocore boss located at the end of Zone 3
@@ -227,6 +225,8 @@ KEY POINT = Registration node = what it's toggled under
     
 !!! tip "Time-saving Tip"
     - Corrosion sentries [3] and [4] can be registered in the same run 
+
+### South Corrosion Sentry 
 
 ??? note "South Corrosion Sentry [3]"
 
@@ -305,7 +305,9 @@ KEY POINT = Registration node = what it's toggled under
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-3-secret-path-keeper-vanquished-south.jpg)
         </div>
-    
+
+### Central Corrosion Sentry 
+
 ??? note "Central Corrosion Sentry [4]"
 
     !!! warning "Warning" 
@@ -409,9 +411,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-4-secret-path-keeper-vanquished-central.jpg)
         </div>
 
-## Prehistoric Corridor (Zones 5-7)
-
-### Fortress Lower Floors Cleared
+## Fortress Lower Floors Cleared
 
 ??? note "Corrosion Sentry [5]"
 
@@ -461,7 +461,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
 
-### Portrait Gallery Minor Harken
+## Portrait Gallery Minor Harken
 
 ??? note "Corrosion Sentry [6]"
 
@@ -509,7 +509,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-6-portrait-gallery-minor-harken.jpg)
         </div>
 
-### Ghosts of Yore Vanquished
+## Ghosts of Yore Vanquished
 
 ??? note "Corrosion Sentry [7]"
 
@@ -576,9 +576,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-7-ghosts-of-yore-vanquished.jpg)
         </div>
 
-## Fortress (Zones 8-10)
-
-### Fortress 2F Minor Harken 
+## Fortress 2F Minor Harken 
 
 !!! warning 
 
@@ -588,6 +586,8 @@ KEY POINT = Registration node = what it's toggled under
 !!! tip "Time-saving Tip" 
     
     - Both corrosion sentries can be registered at the same time to avoid multiple runs
+
+### 2F North Corrosion Sentry 
 
 ??? note "2F North Corrosion Sentry [8]"
 
@@ -635,6 +635,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-8-fortress-2F-minor-harken-2F-north.jpg)
         </div>
 
+### 3F West Corrosion Sentry
 ??? note "3F West Corrosion Sentry [9]"
 
     !!! warning "Warning"
@@ -725,7 +726,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-9-fortress-2F-minor-harken-3F-west.jpg)
         </div>
 
-### "Fortress 3rd Floor Arrival"
+## "Fortress 3rd Floor Arrival"
 
 !!! warning "Warning"
 
@@ -742,6 +743,8 @@ KEY POINT = Registration node = what it's toggled under
     - For corrosion sentries [11] and [13] you can be "Spotted" during your first run and you can include their "No spotted" run when registering [10] and/or [12] 
 
 <<LOW CORROSION FOR THE DOOR??>>
+
+### 1F Servant's Quarters Corrosion Sentry 
 
 ??? note "1F Servant's Quarters Corrosion Sentry [10]"
 
@@ -778,6 +781,8 @@ KEY POINT = Registration node = what it's toggled under
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
+
+### 1F Southwest Corrosion Sentry 
 
 ??? note "1F Southwest Corrosion Sentry [11]"
 
@@ -816,6 +821,8 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
         </div>
 
+### 2F Soldier's Room Corrosion Sentry 
+
 ??? note "2F Soldier's Room Corrosion Sentry [12]"
 
     ??? map "Location"
@@ -852,6 +859,8 @@ KEY POINT = Registration node = what it's toggled under
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
+
+### 2F Imprisoning Trap Corrosion Sentry 
 
 ??? note "2F Imprisoning Trap Corrosion Sentry [13]"
 
