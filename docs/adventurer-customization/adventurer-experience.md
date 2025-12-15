@@ -1,5 +1,8 @@
 # Adventurer Experience
 
+!!! warning "Work in progress" 
+    We are currently in the process of updating the experience requirements for levels 61-70
+
 ## Experience Chart
 
 |  Level | Next Level Exp | Cumulative Exp | Advanced<sup>†</sup> Next Level Exp | Advanced<sup>†</sup> Cumulative Exp |
@@ -63,7 +66,9 @@
 |   57   |     235480     |     3492776    |                588700               |                8731940              |
 |   58   |     247151     |     3728256    |                617878               |                9320640              |
 |   59   |     259200     |     3975407    |                648000               |                9938518              |
-| **60** |  **LEVELCAP**  |   **4234607**  |             **LEVELCAP**            |             **10586518**            |
+| **60** |     488939     |   **4234607**  |                                     |             **10586518**            |
+|   61   |     511021     |     4723546    |                                     |                                     |
+|   62   |                |     5234567    |                                     |                                     |
 
 <sup>†</sup>Advanced Classes:  Ninja, Samurai
 
