@@ -54,41 +54,44 @@ The "Spotted" and "Not spotted" designations are hidden flags the game tracks. H
 
 !!! warning "Flag definitions"
 
-    - "Spotted" flag: Entering into a corrosion sentry's field-of-view
-    - "Not spotted" flag: Using the golem reversal power to block a corrosion sentry's field-of-view or crush them outright
+    - "Spotted" flag: Entering into a corrosion sentry's line-of-sight
+    - "Not spotted" flag: Moving past a corrosion sentry without entering its line-of-sight. Requires the golem reversal power 
     - For each corrosion sentry both flags must be registered for it to appear in the Cursed Wheel
 
-During your first run you will be automatically "Spotted" by the majority of the corrosion sentries in order to progress. A small number of corrosion sentries cannot be accessed until the overall Abyss corrosion level is lowered in future runs. The "Not spotted" flag is triggered when you successfully move past a corrosion sentry without entering their field-of-vision, which requires the golem reversal power and subsequent runs. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level. 
+During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered. The golem reveral power can be used to block a corrosion sentry's line-of-sight or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level. 
   
 ### Start and Register Nodes
-
-??? note "Terminology"
-
-    <div align="center">
-    ![](./img/xx.jpg)
-    </div>
     
 As part of the registration process the correct pair of Cursed Wheel nodes must be used.
 
 - "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
 - "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
 
-!!! warning "Key Concept" 
-    - Each corrosion sentry requires a separate run (Start node > Register node) to register each flag ("Spotted" and "Not spotted")
+??? note "Terminology"
 
-It is very common to be missing a few corrosion sentries in the Cursed Wheel even after completing the "Blackmail" or "Mastermind" endings. Fighting the Greater Warped one at 0 corrosion on the "Mastermind" ending requires all 13 corrosion sentries be registered and set to "Not spotted". This is only important for the achievement ("Guardian of Guarda") and access to the Rank 12 Cyclops bounty, Master Ring, and [x] in the Bounty Exchange.  
+    <div align="center">
+    ![](./img/xx.jpg)
+    </div>
+
+!!! warning "Summary" 
+    - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not spotted")
+    - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel 
+    - Corrosion sentries in the Cursed Wheel can be toggled ("Spotted" or "Not spotted") to manipulate the overall Abyss corrosion level
+
+It is common to be missing a few corrosion sentries in the Cursed Wheel even after completing the "Blackmail" or "Mastermind" endings. Fighting the Greater Warped one at 0 corrosion on the "Mastermind" ending requires all 13 corrosion sentries be registered and set to "Not spotted". This is only important for the achievement ("Guardian of Guarda") and access to the Rank 12 Cyclops bounty, Master Ring, and [x] in the Bounty Exchange.  
 
 ## Corrosion Sentry Guide
 
 !!! warning "What's covered in the guide?"
 
-    - Locations of all 13 corrosion sentries and pathing instructions for more confusing areas
+    - Locations of all 13 corrosion sentries 
+    - Pathing instructions for confusing areas. All map directions are based on the floor map
     - Golem power reversal directions 
     - Registration nodes and directions for "Spotted" and "Not spotted" runs 
     - Important time-saving tips, warnings, and other notes
     - Picture of the Cursed Wheel entry 
 
-Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other. The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
+A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other. The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
 ## Secret Passage Minor Harken
 
@@ -131,10 +134,10 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
 ## Enshadowed Well of Life 
 
-!!! tip 
+!!! tip "Time-saving tip" 
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
     - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
-    - For underleveled players it is recommended to carry a Hook of Harken 
+    - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
 
 !!! warning 
     - Corrosion sentry [4] requires a low Abyss corrosion level to access
@@ -184,10 +187,12 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
                     ![](./img/zone-3-path.jpg)
                     </div>
 
-            - Follow the red path. The end goal is a drop-down hole located in the NE corner of Zone 2
+                - Follow the red path
+
+            - The end goal is a drop-down hole located in the NE corner of Zone 2
             - Push the golem to the left > "Not spotted" flag triggered
             - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life") 
-            - To exit use a Hook of Harken, take the path back to the Zone 1 Harken, or defeat the Necrocore boss to access the Zone 3 Harken. See "Exiting from Zone 2 Fountain" for details. 
+            - To exit use a Hook of Harken, take the path back to the Zone 1 Harken, or defeat the Necrocore boss to access the Zone 3 Harken. See "Exiting from Zone 2 Fountain" for details 
 
             Notes
 
@@ -228,8 +233,8 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
                     ![](./img/zone-3-path.jpg)
                     </div>
 
-                - The Necrocore boss must be defeated to access the Zone 3 Harken to exit 
                 - From the Zone 2 Fountain follow the light blue and green paths
+                - The Necrocore boss must be defeated to access the Zone 3 Harken to exit 
 
                 ??? danger "Boss Fight Details"
     
@@ -252,13 +257,13 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
 ## Secret Path Keeper Vanquished
 
-!!! danger "Registration requires defeating the Necrocore boss located at the end of Zone 3"
+!!! danger "Registering corrosion sentries [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3"
 
 !!! warning
     - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
     - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
     
-!!! tip 
+!!! tip "Time-saving Tip"
     - Corrosion sentries [3] and [4] can be registered in the same run 
 
 ### South Corrosion Sentry 
@@ -278,7 +283,6 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         </div>
 
         - Ignore the nothern golem 
-        - Approach carefully as the corrosion sentry has a wide field-of-view
         - Push the southern golem to the left
 
     ??? note "Cursed Wheel Registration"
@@ -348,9 +352,9 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 ??? note "Central Corrosion Sentry [4]"
 
     !!! warning "Warning" 
-        - Corrosion sentry [4] must be done **twice** to register both the "Spotted" and "Not spotted" flags
-        - It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
-        - Requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+        - Corrosion sentry [4] must be done **twice** to register both the "Spotted" and "Not spotted" flags. It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
+        - Requires a low Abyss corrosion level to access
+        - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
     ??? map "Location"
     
@@ -380,7 +384,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             
             - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room
             - Ignore the golem directly in front of you and head north. The corruption sentry is in an alcove in the upper right-hand corner 
-            - Stand in its field of view > "Spotted" flag triggered
+            - Stand in its field-of-view > "Spotted" flag triggered
             - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions
             - To exit use the the Zone 3 Harken
 
@@ -393,7 +397,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
                 - Some players have reported a bug that can trigger the "Spotted" flag _without_ defeating the Necrocore boss 
                 - Steps: Wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
                 - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
-                - Do a "Not spotted" run to see if the corrosion sentry was registered 
+                - Do a "Not spotted" run to see if the corrosion sentry appears in the Cursed Wheel 
                 - The bug may have been patched. Proceed at your own risk
 
         === "Not Spotted"
@@ -465,13 +469,13 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         <div align="center">
         ![](./img/corrosion-golem/golem-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
+            
+        - Push the bottom (1) golem to the right to block the corruption sentry's field-of-view
+        - Push the top (2) golem up to block the sentry's field-of-view
 
         !!! danger "There is a sentry (blue ★) directly north of the corrosion sentry"
-            
-        - Push the bottom (1) golem to the right to block the corruption sentry's field of view
-        - Push the top (2) golem up to block the sentry's field of view
 
-    ??? note "Registration"
+    ??? note "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -486,15 +490,15 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             Directions
 
             - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
-            - Push the bottom golem to the right to block the corruption sentry's field of view
-            - Push the top golem up to block the sentry's field of view  
+            - Push the bottom golem to the right to block the corruption sentry's field-of-view > "Not spotted" flag triggered
+            - Push the top golem up to block the sentry's field-of-view  
             - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") 
             - To exit go back downstairs and use the Zone 5 Harken
 
             Notes
             
             !!! danger "There is a sentry directly north of the corrosion sentry"     
-            !!! warning "The registration node is entering Zone 6 _not_ the Zone 5 Harken" 
+            !!! warning "The registration node is entering Zone 6 _not_ the Zone 5 Harken to avoid exiting prematurely" 
                       
     ??? note "Cursed Wheel Entry"
     
@@ -517,13 +521,13 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         <div align="center">
         ![](./img/corrosion-golem/golem-corr-6-portrait-gallery-minor-harken.jpg)
         </div>
-
-        !!! danger "There are 2 sentries (blue ★) in the area"
                 
         - Push the top (1) and bottom (2) golems to the left
         - Push the middle (3) golem up to crush the corrosion sentry 
 
-    ??? note "Registration"
+        !!! danger "There are 2 sentries (blue ★) in the area"
+
+    ??? note "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -538,13 +542,13 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             Directions
             
             - Proceed through Zone 6 until you reach the area with 3 golems. Its location does not change even with different map variations
-            - Push the top and bottom golems to the left
+            - Push the top and bottom golems to the left to clear the path for the middle golem
             - Push the middle golem up, which will crush the corrosion sentry > "Not spotted" flag triggered 
             - To register head up and to the right to exit via the Zone 6 Harken
 
             Notes
 
-            !!! danger "There are 2 sentries (blue ★) in the area"
+            !!! danger "There are 2 sentries in the area"
 
     ??? note "Cursed Wheel Entry"
     
@@ -569,11 +573,11 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             <div align="center">
             ![](./img/corrosion-golem/golem-corr-7-ghosts-of-yore-vanquished.jpg)
             </div>
-
-            !!! danger "There are 3 sentries in the area"
             
             - The corrosion sentry room can be rotated 90 degrees depending on the map variation
             - The golem push order remains the same
+
+            !!! danger "There are 3 sentries in the area"
 
         === "Doll"
         
@@ -581,12 +585,12 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             ![](./img/golem-kill-boss.jpg)
             </div>
 
+            - Requires walking through poison tiles
+            - Poison tiles can cause the game to lag and a roaming sentry may spot you 
+
             !!! danger "There are 3 sentries in the area"
 
-            - Requires walking through poison tiles
-            - Poison tiles can cause game lag and a roaming sentry may spot you and catch up
-
-    ??? note "Registration"
+    ??? note "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -600,7 +604,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
             Directions
             
-            - From the Zone 6 Harken go up the stairs and proceed through Zone 7 until you reach the large room with 6 golems. 
+            - From the Zone 6 Harken go up the stairs and proceed through Zone 7 until you reach the large room with 6 golems 
             - Zone 7 can roll different map variations. The large room might be rotated, but the golem pushing order remains the same (see "Golem Directions - Corrosion Sentry")
             - Crush the corrosion sentry > "Not spotted" flag triggered 
             - To register proceed to the end of Zone 7 and defeat the Doll boss ("Ghosts of Yore Vanquished")
@@ -609,7 +613,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             Notes
             
             !!! danger "There are 3 sentries in the large room with the corrosion sentry"
-            !!! tip "Alternative kill method"
+            !!! tip "Alternative Doll kill method"
                 - Fighting the Doll boss again is not mandatory
                 - It can be crushed with a golem (see "Golem Directions - Doll") for a hidden achievement
 
@@ -622,15 +626,17 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 ## Fortress 2F Minor Harken 
 
 !!! warning 
-    - To register corrosion sentries [8] and [9] you must do the entire route from the Zone 7 Harken ("Ghosts of Yore Vanquished") to the Zone 9 Harken ("Fortress 2F Minor Harken") without exiting, wheeling, or "accepting death". It is a long route, so plan accordingly
+    - To register corrosion sentries [8] and [9] you must do the entire route from the Zone 7 Harken ("Ghosts of Yore Vanquished") to the Zone 9 Harken ("Fortress 2F Minor Harken") without exiting, wheeling, or "accepting death"
     - Corrosion sentry [9] is encountered before [8], but are listed in the opposite order in the Cursed Wheel. Scroll down and start with corrosion sentry [9] first
 
-!!! tip  
+!!! tip "Time-saving Tip"  
     - Both corrosion sentries can be registered at the same time to avoid multiple runs
 
 ### 2F North Corrosion Sentry 
 
 ??? note "2F North Corrosion Sentry [8]"
+
+    !!! warning "Corrosion sentry [8] is located in Zone 9, but requires using the golem reversal power in Zone 10"
 
     ??? map "Location"
     
@@ -644,10 +650,10 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         ![](./img/corrosion-golem/golem-corr-8-fortress-2F-minor-harken-2F-north.jpg)
         </div>
 
-        !!! danger "There is a sentry (blue ★) in the upper right-hand corner"
-
-        - Push the top (1) golem to the right to block the sentry's field of view
+        - Push the top (1) golem to the right to block the sentry's field-of-view
         - Push the bottom (2) golem down to create a new drop-down hole
+
+        !!! danger "There is a sentry (blue ★) in the upper right-hand corner"
 
     ??? note "Cursed Wheel Registration"
 
@@ -664,15 +670,16 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             Directions
 
             - From the Zone 7 Harken proceed through the Fortress (Zones 8-10) until you reach Zone 10, which has a fixed map layout
-            - The final room on this half of Zone 10 has 2 golems, a sentry, and a drop-down hole in the bottom-left corner
-            - Push the top golem to the right to block the sentry's field of view
+            - The final room in Zone 10 has 2 golems, a sentry, and a drop-down hole in the bottom-left corner
+            - Push the top golem to the right to block the sentry's field-of-view
             - Push the bottom golem down to create a new drop-down hole to Zone 9
-            - Jump down the newly created hole and you will land behind the corrosion sentry > "Not spotted" flag triggered
+            - Drop down the new hole and you will land behind the corrosion sentry > "Not spotted" flag triggered
             - To register go to the Zone 9 Harken on the other side of the hallway and exit 
 
             Notes
 
-            !!! warning "Do not drop down the bottom-left corner hole as you will be "Spotted" when you land
+            !!! danger "There is a sentry in the upper right-hand corner"
+            !!! warning "Do not drop down the bottom left-hand hole as you will be "Spotted" when you land"
             
     ??? note "Cursed Wheel Entry"
     
@@ -682,9 +689,9 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
 ### 3F West Corrosion Sentry
 
-!!! warning "Mandatory mini-quest required (see "Winding Key Collection")"
-
 ??? note "3F West Corrosion Sentry [9]"
+
+    !!! warning "Mandatory mini-quest required (see "Winding Key Collection")"
 
     ??? map "Location"
     
@@ -699,7 +706,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         </div>
 
         - Push the golem to the right to break the wall to access the adjacent room
-        - The next room has the automaton and associated mini-quest (see "Winding Key Collection")
+        - The next room has the automaton and mini-quest (see "Winding Key Collection")
 
     ??? note "Cursed Wheel Registration"
 
@@ -715,18 +722,18 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
             Directions
             
-            - From the Zone 7 Harken proceed through the Fortress (Zones 8-10) until you reach Zone 10, which has a fixed map layout
-            - North of the stairs to Zone 9 there will be a room with a golem in it. Push the golem to the right to gain access to the adjoining room
-            - Examine the skeleton on the floor, which will spawn an automaton and a map on the floor nearby
-            - The map will mark the locations of 3 winding keys on the previous floors (Zones 8 and 9) (see "Winding Key Collection" for details)
-            - Return to Zone 10 after collecting the keys and interact with the automaton 
-            - Exit the room and walk into the hallway with the corrosion sentry. The automaton will activate and the corrosion sentry will give chase > "Unspotted flag triggered"
+            - From the Zone 7 Harken proceed through Zones 8-10 until you reach Zone 10, which has a fixed map layout
+            - North of the stairs to Zone 9 there will be a room with a golem in it. Push the golem to the right to break the wall
+            - In the adjacent room examine the skeleton, which will spawn an automaton and a map on the floor nearby
+            - The map marks the locations of 3 winding keys on the previous floors (Zones 8 and 9) (see "Winding Key Collection")
+            - Return to Zone 10 after collecting the winding keys and interact with the automaton 
+            - Exit the room and walk into the hallway with the corrosion sentry. The automaton will activate and the corrosion sentry will give chase > "Not spotted flag triggered"
             - To register continue north to the last room in Zone 10, drop down the hole to Zone 9, and exit via the Zone 9 Harken ("Fortress 2F Minor Harken") across the hallway
 
             Notes
             
             !!! danger "Do not enter the hallway with the corrosion sentry to avoid being "Spotted""
-            !!! tip "Procced to the last room in Zone 10 to register corrosion sentry [8]"
+            !!! tip "Corrosion sentry [8] can be registered in the same run. Proceed to the last room in Zone 10"
 
     ??? note "Winding Key Collection"
     
@@ -774,28 +781,26 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
 !!! warning "Warning"
 
-    - To register corrosion sentries [10]-[13] you must do the entire route from the Zone 9 Harken ("Fortress 2F Minor Harken") to the Zone 10 Fountain ("Fortress 3rd Floor Arrival") without exiting or wheeling elsewhere. It is the other half of the Fortress floors (Zones 8-10), so plan accordingly
-    - Corruption sentry [12] is particularly buggy 
+    - To register corrosion sentries [10]-[13] you must do the entire route from the Zone 9 Harken ("Fortress 2F Minor Harken") to the Zone 10 Fountain ("Fortress 3rd Floor Arrival") without exiting, wheeling, or "accepting death" 
+    - Corruption sentry [10] and [12] are frequently missed as most players leave immediately and do not continue to the Zone 10 Fountain to register 
 
 !!! tip "Time-saving tip"
 
-    - These are the most time-intensive corrosion sentries to register. It is possible to register the "Not spotted" flag for all 4 in one run with a little planning
-    - The rooms with corrosion sentries [10] and [12] are not accessible on your first run and are tied to quests related to the endings
-        - Corrosion sentry [10] = "Search for the Missing Girl" request 
-        - Corrosion sentry [12] = "Blackmail Resolution." 
-    - This means that you will have to do them both twice. It is in your best interest to head to the Zone 10 Fountain after being "Spotted" the first time you encounter them as part of their respective quests.
-    - For corrosion sentries [11] and [13] you can be "Spotted" during your first run and you can include their "No spotted" run when registering [10] and/or [12] 
-
-<<LOW CORROSION FOR THE DOOR??>>
+    - Corrosion sentries [10]-[13] are the most time-intensive to register 
+    - Corrosion sentries [10] and [12] are not accessible on a first run and are tied to requests related to the endings:
+        - Corrosion sentry [10]: [Search for the Missing Girl](./requests.md#search-for-the-missing-girl)
+        - Corrosion sentry [12]: [Blackmail Resolution](./requests.md#blackmail-resolution)
+    - This means that you will have to do a complete run (Start node > Register node) for both flags. It is recommended to continue to the Zone 10 Fountain after being "Spotted" the first time
+    - For corrosion sentries [11] and [13] you will be "Spotted" on a first run. You can include their "No spotted" runs when registering corrosion sentry [10] and/or [12] 
 
 ### 1F Servant's Quarters Corrosion Sentry 
 
-!!! warning
-    - Corrosion sentry [10] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
-    - Corrosion sentry [10] must be run _twice_ for both the "Spotted" and "Not spotted" flags as you do not encounter it during your first run
-    - One of the most frequently missed corrosion sentries because players exit before reaching the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
-
 ??? note "1F Servant's Quarters Corrosion Sentry [10]"
+
+    !!! warning
+        - Corrosion sentry [10] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+        - Corrosion sentry [10] must be run _twice_ for both the "Spotted" and "Not spotted" flags. It is not encounterd during a first run
+        - One of the most frequently missed corrosion sentries as players exit before reaching the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
 
     ??? map "Location"
     
@@ -803,7 +808,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         ![](./img/corrosion-loc/loc-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
     
-    ??? map "Path to 1F Servant's Quarters"
+    ??? map "Path to Zone 9 - 1F Servant's Quarters"
     
         <div align="center">
         ![](./img/corrosion-golem/golem-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
@@ -820,16 +825,16 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
             Directions 
             
-            - Visiting this room is mandatory to complete the "Search for the Missing Girl" request
-            - Automatically "Spotted" when picking up the tattered rag (key valuable) 
+            - Visiting this room is required to complete the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request
+            - Inspect the bookcase and pick up the tattered rag (key valuable) > "Spotted" flag triggered 
             - To register proceed to the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
             - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
 
             Notes
 
-            !!! tip 
-                - After picking up the tattered rag it is highly recommended to continue onward to the Zone 10 Fountain to register the "Spotted" flag
-                - Try to incorporate any missing corrosion sentry flags on this run, if possible
+            !!! tip "Time-saving tip" 
+                - After picking up the tattered rag continue to the Zone 10 Fountain to register the "Spotted" flag
+                - Incorporate any missing corrosion sentries on this run, if possible
             
         === "Not Spotted"
         
@@ -840,16 +845,16 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
             Directions 
             
-            - Visiting this room is mandatory to complete the "Search for the Missing Girl" request
-            - Enter the room and ignore the corrosion sentry
+            - Visiting this room is required to complete the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request
+            - Enter the room and ignore the corrosion sentry > "Not spotted" flag triggered
             - To register proceed to the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
             - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
 
             Notes
 
             !!! tip 
-                - The "No spotted" run can be done at any time
-                - Corrosion sentry [12] (2F Soldier's Room) requires a separate "No spotted" run where you ignore the corrosion sentry and do not enter the room. It is easy to do both at the same time 
+                - A "No spotted" run can be done at any time
+                - Corrosion sentry [12] (2F Soldier's Room) also requires a separate "No spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
 
     ??? note "Cursed Wheel Entry"
     
@@ -873,12 +878,12 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         ![](./img/corrosion-golem/golem-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
         </div>
 
-        !!! danger "There are 3 sentries in the area"
-
         - Push the middle golem (1) down
         - Push the left-hand golem (2) to the right, which will crush the corrosion sentry 
-        - Push the right-hand golem (3) down, which will break the wall to the Zone 9 stairs
-    
+        - Push the far right-hand golem (3) down, which will break a wall and allow access to the Zone 9 stairs
+
+        !!! danger "There are 3 sentries (blue ★) in the area"
+
     ??? note "Cursed Wheel Registration"
     
         === "Spotted"
@@ -891,15 +896,19 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
             - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
             
-            Directions:
+            Directions
             
-            - From the Zone 9 Harken, drop down to Zone 8 and proceed to the end of the area
-            - This room has a fixed location and will always be in the bottom-left corner of Zone 8 
-            - See "Golem Directions" for how to crush the corrosion sentry > "Not spotted" flag triggered
+            - From the Zone 9 Harken go south and follow the path to Zone 8 
+            - Proceed to the end of Zone 8. This room has a fixed location and will always be in the bottom-left corner of Zone 8 
+            - See "Golem Directions" to crush the corrosion sentry > "Not spotted" flag triggered
             - Exit the room through the newly created hole in the wall
-            - To register continue to the Zone 10 Fountain
+            - To register continue through Zone 9 to the Zone 10 Fountain
             - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
-                 
+
+            Notes
+
+            !!! danger "There are 3 sentries in the room with the corrosion sentry"
+
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
@@ -916,16 +925,21 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         ![](./img/corrosion-loc/loc-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
         </div>
     
-    ??? map "Golem Directions"
-    
-        <div align="center">
-        ![](./img/corrosion-golem/golem-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
-        </div>
-    
     ??? note "Cursed Wheel Registration"
     
         === "Spotted"
+        
+            Cursed Wheel Nodes
+            
+            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
+            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+
+            Directions
+            
             - Automatically "Spotted" on first run 
+            - Required quest
+
+            Note
             
         === "Not Spotted"
         
@@ -934,15 +948,18 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
             - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
             
-            Directions:
+            Directions
             
-            - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
-            - Push the bottom golem
+            - xx
+
+            Note 
+
+            - xx
                  
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
-        ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
+        ![](./img/corrosion-cw/cw-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
         </div>
 
 ### 2F Imprisoning Trap Corrosion Sentry 
@@ -962,13 +979,13 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         </div>
 
         - Push the golem (1) closest to the room entrance to the right onto the switch
-        - Go into the next room and push the golem (2) up to break through the wall 
+        - Go into the next room and push the golem (2) up to break the wall 
         - Push the golem (3) in this room to the left to crush the corruption sentry 
         - Push the final golem (4) to the left to open the door to the switch room
         - Flip the switch and all the remaining doors will unlock
 
-        !!! danger There is a sentry (blue *) in the room
-        !!! warning This room might be rotated, but the pushing order remains the same. Use the entrance door as a reference point
+        !!! danger "There is a sentry (blue *) in the room"
+        !!! warning "This room might be rotated, but the pushing order remains the same. Use the entrance door as a reference point"
     
     ??? note "Cursed Wheel Registration"
     
@@ -982,11 +999,18 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
             - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
             - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
             
-            Directions:
+            Directions
             
-            - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
-            - Push the bottom golem to 
-          
+            - From the Zone 9 Harken proceed through Zones 8 and 9 until you encounter the "imprisoning room" 
+            - The location of this room in Zone 9 can change due to different map variations, but it cannot be missed
+            - See "Golem Directions" to crush the corrosion sentry > "Not spotted" flag triggered
+            - To register continue through Zone 9 to the Zone 10 Fountain
+            - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
+
+            Notes
+
+            !!! danger "There is a sentry in the corruption sentry room"
+
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
