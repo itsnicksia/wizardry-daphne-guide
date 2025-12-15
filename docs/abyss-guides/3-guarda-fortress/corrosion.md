@@ -12,18 +12,27 @@ xx
     - Corrosion cannot be decreased whilst in the Abyss, but can be changed by modifying Causality in the **Cursed Wheel**.
 
     ??? note "Corrosion Effects"
-        - **Fortress Appearance:** Slime becomes more prominent with high Corruption.
-        - **Quest Availability:** Some quest-lines become unavailable as essential NPCs are driven insane or die as a result of high corrosion. This affects which endings are available.
-        - **Monsters:** Different monsters spawn, with stronger monsters at lower corrosion. 
-        - **Greater Warped One:** The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health.
+        - Fortress Appearance: Slime becomes more prominent with high Corruption.
+        - Quest Availability: Some quest-lines become unavailable as essential NPCs are driven insane or die as a result of high corrosion. This affects which endings are available.
+        - Monsters: Different monsters spawn, with stronger monsters at lower corrosion. 
+        - Greater Warped One: The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health.
 
         ??? note "How to tell corruption level based on the Duke's room:"
-    
+        
+            <div align="center">
             ![](./img/corruption-levels.png)
+            </div>
+
+??? note "Corrosion Sentries"
+    - There are a total of 13 corrosion sentries 
+    - Appear as stationary flying enemies
+    - Stepping into their field-of-vision will sound an alarm, the Abyss corrosion level will increase, and they will disappear
+    - Stepping into their field-of-vision will count as a "Spotted" flag in the Cursed Wheel
+    - Corrosion sentries are _not_ the same thing as standard floor sentries that are simply powered-up normal enemies 
 
 ??? note "Golems"
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
-    - Golems are only available after defeating the Greater Warped One at least once.
+    - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the Greater Warped One
 
 ## Corrosion Sentry Registration
 
@@ -43,22 +52,29 @@ xx
 
 The "Spotted" and "Not spotted" designations are hidden flags the game tracks. However, it only seems to "register" or "save" the flags after reaching the next Cursed Wheel node along the normal progression route. 
 
-- "Spotted" flag: Entering into a corrosion sentry's field-of-view
-- "Not spotted" flag: Using the golem reversal power to block a corrosion sentry's field-of-view or crush them outright 
+!!! warning "Flag definitions"
 
-During your first run you will encounter the majority of the corrosion sentries and be "Spotted" automatically in order to progress. Once "Spotted" the corrosion sentry will disappear and the overall corrosion level of the Abyss will increase. The "Not spotted" flag is triggered when you successfully move past them without entering their field-of-vision, which requires the golem reversal power and subsequent runs.  
+    - "Spotted" flag: Entering into a corrosion sentry's field-of-view
+    - "Not spotted" flag: Using the golem reversal power to block a corrosion sentry's field-of-view or crush them outright
+    - For each corrosion sentry both flags must be registered for it to appear in the Cursed Wheel
 
-!!! note "Each corrosion sentry requires two complete runs ("Spotted" and "Not spotted") to register properly in the Cursed Wheel."
-
+During your first run you will be automatically "Spotted" by the majority of the corrosion sentries in order to progress. A small number of corrosion sentries cannot be accessed until the overall Abyss corrosion level is lowered in future runs. The "Not spotted" flag is triggered when you successfully move past a corrosion sentry without entering their field-of-vision, which requires the golem reversal power and subsequent runs. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level. 
+  
 ### Start and Register Nodes
 
 ??? note "Terminology"
-<Add picture of Cursed Wheel"
 
+    <div align="center">
+    ![](./img/xx.jpg)
+    </div>
+    
 As part of the registration process the correct pair of Cursed Wheel nodes must be used.
 
 - "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
 - "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
+
+!!! warning "Key Concept" 
+    - Each corrosion sentry requires a separate run (Start node > Register node) to register each flag ("Spotted" and "Not spotted")
 
 It is very common to be missing a few corrosion sentries in the Cursed Wheel even after completing the "Blackmail" or "Mastermind" endings. Fighting the Greater Warped one at 0 corrosion on the "Mastermind" ending requires all 13 corrosion sentries be registered and set to "Not spotted". This is only important for the achievement ("Guardian of Guarda") and access to the Rank 12 Cyclops bounty, Master Ring, and [x] in the Bounty Exchange.  
 
@@ -117,8 +133,12 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
 
 !!! tip 
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
-    - Registering [3] and [4] requires defeat of the Necrocore boss at the end of Zone 3
-    - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+    - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
+    - For underleveled players it is recommended to carry a Hook of Harken 
+
+!!! warning 
+    - Corrosion sentry [4] requires a low Abyss corrosion level to access
+    - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
 ??? note "Corrosion Sentry [2]"
           
@@ -144,6 +164,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
         === "Not Spotted"
         
             Cursed Wheel Nodes
+            
             - Start: "Secret Passage Minor Harken" (Zone 1 Harken)
             - Register: "Enshadowed Well of Life" (Zone 2 Fountain)
 
@@ -163,7 +184,7 @@ Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. T
                     ![](./img/zone-3-path.jpg)
                     </div>
 
-            - Follow the red path, which will take you through Zones 2 and 3 to reach the drop-down hole located in the NE corner of Zone 2
+            - Follow the red path. The end goal is a drop-down hole located in the NE corner of Zone 2
             - Push the golem to the left > "Not spotted" flag triggered
             - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life") 
             - To exit use a Hook of Harken, take the path back to the Zone 1 Harken, or defeat the Necrocore boss to access the Zone 3 Harken. See "Exiting from Zone 2 Fountain" for details. 
