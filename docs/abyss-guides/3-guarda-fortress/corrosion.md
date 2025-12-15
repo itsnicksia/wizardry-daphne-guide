@@ -2,7 +2,7 @@
 
 ## Overview
 
-There are a total of 13 corrosion sentries you can encounter in Guarda Fortress. 
+xx
 
 ## Mechanics
 
@@ -13,9 +13,9 @@ There are a total of 13 corrosion sentries you can encounter in Guarda Fortress.
 
     ??? note "Corrosion Effects"
         - **Fortress Appearance:** Slime becomes more prominent with high Corruption.
-        - **Quest Availability:** Some quest-lines become unavailable as essential NPCs are driven insane or die as a result of high Corruption. This affects which endings are available.
-        - **Monsters:** Different monsters spawn, with stronger monsters at lower Corruption. 
-        - **Greater Warped One:** The Greater Warped One is much stronger at lower Corruption, gaining new abilities and increased damage and health.
+        - **Quest Availability:** Some quest-lines become unavailable as essential NPCs are driven insane or die as a result of high corrosion. This affects which endings are available.
+        - **Monsters:** Different monsters spawn, with stronger monsters at lower corrosion. 
+        - **Greater Warped One:** The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health.
 
         ??? note "How to tell corruption level based on the Duke's room:"
     
@@ -27,13 +27,13 @@ There are a total of 13 corrosion sentries you can encounter in Guarda Fortress.
 
 ## Corrosion Sentry Registration
 
-!!! note "To properly register a corrosion sentry in the Cursed Wheel the following must be true:"
+!!! warning "To register a corrosion sentry in the Cursed Wheel the following must be true:"
 
     - "Spotted" at least once
     - "Not spotted" at least once
-    - Began at a Cursed Wheel node _before_ encountering the corrosion sentry on the normal progression route _and_ made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
+    - Started at a Cursed Wheel node _before_ encountering the corrosion sentry on the normal progression route _and_ made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
 
-??? Corrosion Sentry Registration Steps
+??? "Corrosion Sentry Registration Flowchart"
 
     <div align="center">
     ![](./img/corr-register-corrosion-sentry-steps.png)
@@ -41,15 +41,24 @@ There are a total of 13 corrosion sentries you can encounter in Guarda Fortress.
 
 ### "Spotted" and "Not spotted" Flags
 
-The "Spotted" and "Not spotted" designations are hidden flags the game tracks. The game only seems to "register" or "save" the flags after reaching the next Cursed Wheel node along the normal progression route. Entering into a corrosion sentry's field-of-view results in a "Spotted" flag. The good news is that during your first run you will encounter the majority of the corrosion sentries and be "Spotted" since you do not yet have access to the golem reversal power. On subsequent runs the golem reversal power can limit a corrosion sentry's field-of-view or destroy ("Not spotted") them outright. Once both the "Spotted" and "Not spotted" flags are properly registered the corrosion sentry will appear in the Cursed Wheel. 
+The "Spotted" and "Not spotted" designations are hidden flags the game tracks. However, it only seems to "register" or "save" the flags after reaching the next Cursed Wheel node along the normal progression route. 
 
-!!! note Each corrosion sentry requires two complete runs ("Spotted" and "Not spotted") to register properly in the Cursed Wheel.
+- "Spotted" flag: Entering into a corrosion sentry's field-of-view
+- "Not spotted" flag: Using the golem reversal power to block a corrosion sentry's field-of-view or crush them outright 
+
+During your first run you will encounter the majority of the corrosion sentries and be "Spotted" automatically in order to progress. Once "Spotted" the corrosion sentry will disappear and the overall corrosion level of the Abyss will increase. The "Not spotted" flag is triggered when you successfully move past them without entering their field-of-vision, which requires the golem reversal power and subsequent runs.  
+
+!!! note "Each corrosion sentry requires two complete runs ("Spotted" and "Not spotted") to register properly in the Cursed Wheel."
 
 ### Start and Register Nodes
 
-??? note "Terms"
+??? note "Terminology"
+<Add picture of Cursed Wheel"
 
-For a corrosion sentry to appear in the Cursed Wheel the correct "start" and "register" nodes must be used. The "register" node is the one that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. You can _never_ "register" a corrosion sentry by wheeling to its own node as your starting point. Instead, you begin the process by wheeling to the previous Cursed Wheel ("start") node. The game requires a fresh encounter with the corrosion sentry for it to update its flags.   
+As part of the registration process the correct pair of Cursed Wheel nodes must be used.
+
+- "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
+- "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
 
 It is very common to be missing a few corrosion sentries in the Cursed Wheel even after completing the "Blackmail" or "Mastermind" endings. Fighting the Greater Warped one at 0 corrosion on the "Mastermind" ending requires all 13 corrosion sentries be registered and set to "Not spotted". This is only important for the achievement ("Guardian of Guarda") and access to the Rank 12 Cyclops bounty, Master Ring, and [x] in the Bounty Exchange.  
 
@@ -57,11 +66,13 @@ It is very common to be missing a few corrosion sentries in the Cursed Wheel eve
 
 !!! warning "What's covered in the guide?"
 
-    - Location and pathing instructions for more confusing areas
+    - Locations of all 13 corrosion sentries and pathing instructions for more confusing areas
     - Golem power reversal directions 
     - Registration nodes and directions for "Spotted" and "Not spotted" runs 
     - Important time-saving tips, warnings, and other notes
     - Picture of the Cursed Wheel entry 
+
+Note that a few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other. The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
 ## Secret Passage Minor Harken
 
