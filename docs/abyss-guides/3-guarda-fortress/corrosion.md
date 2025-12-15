@@ -653,7 +653,7 @@ KEY POINT = Registration node = what it's toggled under
         </div>
 
         - Push the golem to the right to break the wall to access the adjacent room
-        - The next room has the wind-up doll and associated mini-quest (see "Winding key collection")
+        - The next room has the automaton doll and associated mini-quest (see "Winding key collection")
 
     ??? note "Cursed Wheel Registration"
 
@@ -675,8 +675,8 @@ KEY POINT = Registration node = what it's toggled under
                 
             - North of the stairs to Zone 9 there will be a room with a golem in it. Push the golem to the right to gain access to the adjoining room
             - In this new room examine the skeleton on the floor, which will spawn an automaton doll and a map on the floor nearby
-            - The map will mark 3 locations on the previous floors (Zones 8 and 9) that require backtracking to pick up wind-up keys for the doll. See "Wind-up key collection" for location details
-            - After obtaining the 3 wind-up keys return to Zone 10 and interact with the doll 
+            - The map will mark 3 locations on the previous floors (Zones 8 and 9) that require backtracking to pick up winding keys for the doll. See "Winding key collection" for location details
+            - After obtaining the 3 winding keys return to Zone 10 and interact with the doll 
             - Now walk into the corrosion sentry's line-of-sight, the doll will activate, and the corrosion sentry will give chase > "Unspotted" flag triggered
             
             !!! tip "Procced to the last room in Zone 10 to register corrosion sentry [8]"
@@ -684,14 +684,14 @@ KEY POINT = Registration node = what it's toggled under
             - To register drop down the hole to Zone 9 and exit via the Zone 9 Harken ("Fortress 2F Minor Harken") across the hallway
 
     ??? note "Winding key collection"
-
-        == "Summary"
+    
+        == "Overview"
         
-            - The locations of the 3 wind-up keys are marked on your map with a yellow "!" symbol
+            - The locations of the 3 winding keys are marked on your map with a yellow "!" symbol
             - The keys are always in the same location (tile set) even with different map variations 
             - There are 2 keys in Zone 8 and 1 key in Zone 9
 
-        === "Zone 9 - Winding Key 1"
+        === "Winding Key 1 - Zone 9"
         
             <div align="center">
             ![](./img/corr-zone-9-winding-key-1.jpg)
@@ -700,7 +700,7 @@ KEY POINT = Registration node = what it's toggled under
             - Located in Zone 9
             - There is a roaming sentry circling the outer area
 
-        === "Zone 8 - Winding Key 2"
+        === "Winding Key 2 - Zone 8"
         
             <div align="center">
             ![](./img/corr-zone-8-winding-key-2.jpg)
@@ -709,7 +709,7 @@ KEY POINT = Registration node = what it's toggled under
             - Located in Zone 8
             - Next to the room with a golem and 3 breakable walls
             
-        === "Zone 8 - Winding Key 3"
+        === "Winding Key 3 - Zone 8"
         
             <div align="center">
             ![](./img/corr-zone-8-winding-key-3.jpg)
@@ -741,23 +741,97 @@ KEY POINT = Registration node = what it's toggled under
     - This means that you will have to do them both twice. It is in your best interest to head to the Zone 10 Fountain after being "Spotted" the first time you encounter them as part of their respective quests.
     - For corrosion sentries [11] and [13] you can be "Spotted" during your first run and you can include their "No spotted" run when registering [10] and/or [12] 
 
+<<LOW CORROSION FOR THE DOOR??>>
 
-??? note "1F Servant's Quarters Corrosion Sentry [1]"
+??? note "1F Servant's Quarters Corrosion Sentry [10]"
 
     ??? map "Location"
     
         <div align="center">
         ![](./img/corrosion-loc/loc-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
-
+    
     ??? map "Path to 1F Servant's Quarters"
     
         <div align="center">
         ![](./img/corrosion-golem/golem-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
-
+    
     ??? note "Cursed Wheel Registration"
+    
+        === "Spotted"
+            - Automatically "Spotted" on first run 
+            
+        === "Not Spotted"
+        
+            Cursed Wheel Nodes
+            
+            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
+            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+            
+            Directions:
+            
+            - Proceed throu
+            
+    ??? note "Cursed Wheel Entry"
+    
+        <div align="center">
+        ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
+        </div>
 
+??? note "1F Southwest Corrosion Sentry [11]"
+
+    ??? map "Location"
+    
+        <div align="center">
+        ![](./img/corrosion-loc/loc-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
+        </div>
+    
+    ??? map "Golem Directions"
+    
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
+        </div>
+    
+    ??? note "Cursed Wheel Registration"
+    
+        === "Spotted"
+            - Automatically "Spotted" on first run 
+            
+        === "Not Spotted"
+        
+            Cursed Wheel Nodes
+            
+            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
+            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+            
+            Directions:
+            
+            - Proceed through Zone
+            - x
+                 
+    ??? note "Cursed Wheel Entry"
+    
+        <div align="center">
+        ![](./img/corrosion-cw/cw-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
+        </div>
+
+??? note "2F Soldier's Room Corrosion Sentry [12]"
+
+    ??? map "Location"
+    
+        <div align="center">
+        ![](./img/corrosion-loc/loc-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
+        </div>
+    
+    ??? map "Golem Directions"
+    
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
+        </div>
+    
+    ??? note "Cursed Wheel Registration"
+    
         === "Spotted"
             - Automatically "Spotted" on first run 
             
@@ -771,13 +845,7 @@ KEY POINT = Registration node = what it's toggled under
             Directions:
             
             - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
-            - Push the bottom golem to the right to block the corruption sentry's field of view
-            - Push the top golem up to block the sentry's field of view  
-            - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") 
-            - To exit use the Zone 5 Harken
-            
-            !!! Time-saving Tip 
-                - The registration node is entering Zone 6 _not_ the Zone 5 Harken 
+            - Push the bottom golem
                  
     ??? note "Cursed Wheel Entry"
     
@@ -785,3 +853,40 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
 
+??? note "2F Imprisoning Trap Corrosion Sentry [13]"
+
+    ??? map "Location"
+    
+        <div align="center">
+        ![](./img/corrosion-loc/loc-corr-13-fortress-3rd-floor-arrival-2F-imprisoning.jpg)
+        </div>
+    
+    ??? map "Golem Directions"
+    
+        <div align="center">
+        ![](./img/corrosion-golem/golem-corr-13-fortress-3rd-floor-arrival-2F-imprisoning.jpg)
+        </div>
+    
+    ??? note "Cursed Wheel Registration"
+    
+        === "Spotted"
+            - Automatically "Spotted" on first run 
+            
+        === "Not Spotted"
+        
+            Cursed Wheel Nodes
+            
+            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
+            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+            
+            Directions:
+            
+            - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
+            - Push the bottom golem to 
+          
+    ??? note "Cursed Wheel Entry"
+    
+        <div align="center">
+        ![](./img/corrosion-cw/cw-corr-13-fortress-3rd-floor-arrival-2F-imprisoning.jpg)
+        </div>
+    
