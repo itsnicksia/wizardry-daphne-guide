@@ -101,7 +101,7 @@ KEY POINT = Registration node = what it's toggled under
 
 ## Enshadowed Well of Life 
 
-!!! tip "Time-saving Tip"
+!!! tip 
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
     - Registering [3] and [4] requires defeating the Necrocore boss at the end of Zone 3
     - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
@@ -726,7 +726,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-cw/cw-corr-9-fortress-2F-minor-harken-3F-west.jpg)
         </div>
 
-## "Fortress 3rd Floor Arrival"
+## Fortress 3rd Floor Arrival
 
 !!! warning "Warning"
 
