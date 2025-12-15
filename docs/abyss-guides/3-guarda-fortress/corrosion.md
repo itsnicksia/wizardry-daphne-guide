@@ -27,11 +27,21 @@ There are a total of 13 corrosion sentries you can encounter in Guarda Fortress.
 
 ## First run - things to know
 
-## Registering Corrosion Sentries in the Cursed Wheel
+## Corrosion Sentry Registration
 
-There are a total of 13 corrosion sentries that you can encounter and
+To properly register a corrosion sentry in the Cursed Wheel the following must be true:
 
+- "Spotted" at least once
+- "Not spotted" at least once
+- Began at a Cursed Wheel node _before_ encountering the corrosion sentry on the normal progression route _and_ made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
 
+[Diagram goes here]
+
+The "Spotted" and "Not spotted" designations are hidden flags the game tracks. The game only seems to "register" or "save" the flags after reaching the next Cursed Wheel node. The good news is that during your first run you will encounter the majority of the corrosion sentries and be "Spotted" since you do not have access the golem reversal power. On subsequent runs you can use your new reversal power to avoid or destroy ("Not spotted") them. Once both the "Spotted" and "Not spotted" flags are properly registered the corrosion sentry will appear in the Cursed Wheel. 
+
+Every corrosion sentry has a "starting" and "registering" Cursed Wheel node. The "registering" node is the one that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. You can _never_ "register" a corrosion sentry by wheeling to its own node as your starting point. The starting point for wheeling to register a corrosion sentry is _always_ the previous node. The game requires a fresh encounter for it to update its flags.   
+
+It is not uncommon to be missing a few corrosion sentries in the Cursed Wheel even after completing the "Blackmail" or "Mastermind" endings. Fighting the Greater Warped one at 0 corrosion on the "Mastermind" ending requires all 13 corrosion sentries be registered and set to "Not spotted". This is only important for the achievement ("Guardian of Guarda") and access to the Rank 12 Cyclops bounty, Master Ring, and [x] in the Bounty Exchange.  
 
 How this sectionis structured
 [#] = Corrosion Sentry order number (1-13)
