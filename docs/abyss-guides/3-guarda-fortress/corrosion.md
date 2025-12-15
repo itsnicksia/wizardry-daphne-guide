@@ -62,7 +62,6 @@ KEY POINT = Registration node = what it's toggled under
 ## Secret Passage Minor Harken
 
 ??? note "Corrosion Sentry [1]"
-
     ??? map "Location"
     
         <div align="center">
@@ -103,7 +102,7 @@ KEY POINT = Registration node = what it's toggled under
 
 !!! tip 
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
-    - Registering [3] and [4] requires defeating the Necrocore boss at the end of Zone 3
+    - Registering [3] and [4] requires defeat of the Necrocore boss at the end of Zone 3
     - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
 ??? note "Corrosion Sentry [2]"
@@ -130,14 +129,11 @@ KEY POINT = Registration node = what it's toggled under
         === "Not Spotted"
         
             Cursed Wheel Nodes
-            
             - Start: "Secret Passage Minor Harken" (Zone 1 Harken)
             - Register: "Enshadowed Well of Life" (Zone 2 Fountain)
 
-            Directions:
+            Directions
             
-            !!! tip "Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain" 
-
             ??? map "Path to corrosion sentry" 
             
                 ??? map "Zone 2 - Old Secret Passage B2F"
@@ -157,6 +153,10 @@ KEY POINT = Registration node = what it's toggled under
             - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life") 
             - To exit use a Hook of Harken, take the path back to the Zone 1 Harken, or defeat the Necrocore boss to access the Zone 3 Harken. See "Exiting from Zone 2 Fountain" for details. 
 
+            Notes
+
+            !!! tip "Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain"
+
         === "Exiting from Zone 2 Fountain"
 
             ??? map "Path to Zone 1 Harken"
@@ -173,7 +173,7 @@ KEY POINT = Registration node = what it's toggled under
                     ![](./img/exit-from-sentry-room-zone-3-path.png)
                     </div>  
 
-                - From the "South" corrosion sentry [3] exit through the southern door 
+                - From the corrosion sentry [3] exit through the southern door 
                 - Ignore the sentry to the immediate left and keep heading south. Turn right and pass 2 small dungeon cells. At the end of the path there is a dead-end with a drop-down hole to Zone 3 
                 - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
                 - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit 
@@ -216,14 +216,13 @@ KEY POINT = Registration node = what it's toggled under
 
 ## Secret Path Keeper Vanquished
 
-!!! danger "Boss Fight Ahead" 
-    - Registration requires defeating the Necrocore boss located at the end of Zone 3
+!!! danger "Registration requires defeating the Necrocore boss located at the end of Zone 3"
 
 !!! warning
     - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
     - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
     
-!!! tip "Time-saving Tip"
+!!! tip 
     - Corrosion sentries [3] and [4] can be registered in the same run 
 
 ### South Corrosion Sentry 
@@ -258,9 +257,7 @@ KEY POINT = Registration node = what it's toggled under
             - Start: "Enshadowed Well of Life" (Zone 2 Fountain)
             - Register: "Secret Path Keeper Vanquished" (Zone 3 Necrocore boss defeated) 
 
-            Directions:
-
-            !!! tip "To the north is corrosion sentry [4] that can be registered in the same run"
+            Directions
 
             - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room. Ignore the golem directly in front of you
             - Head south and approach the corrosion sentry carefully as it has a large field of view
@@ -268,6 +265,10 @@ KEY POINT = Registration node = what it's toggled under
             - The golem only partially blocks the corrosion sentry's field of view, so be careful when exiting through the southern door as you can still be "Spotted"
             - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions
             - To exit use the the Zone 3 Harken 
+
+            Notes
+
+            !!! tip "To the north is corrosion sentry [4] that can be registered in the same run"
 
     ??? danger "Necrocore"
  
@@ -339,9 +340,7 @@ KEY POINT = Registration node = what it's toggled under
             - Start: "Enshadowed Well of Life" (Zone 2 Fountain)
             - Register: "Secret Path Keeper Vanquished" (Zone 3 Necrocore boss defeated) 
 
-            Directions:
-
-            !!! tip "To the south is corrosion sentry [3] that can be registered in the same run"
+            Directions
             
             - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room
             - Ignore the golem directly in front of you and head north. The corruption sentry is in an alcove in the upper right-hand corner 
@@ -349,15 +348,17 @@ KEY POINT = Registration node = what it's toggled under
             - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions
             - To exit use the the Zone 3 Harken
 
-            Optional: 
+            Notes
 
-            !!! bug "Bug exploit" 
+            !!! tip "To the south is corrosion sentry [3] that can be registered in the same run"
+
+            !!! bug "Potential exploit" 
             
                 - Some players have reported a bug that can trigger the "Spotted" flag _without_ defeating the Necrocore boss 
                 - Steps: Wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
                 - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
                 - Do a "Not spotted" run to see if the corrosion sentry was registered 
-                - The bug may have been patched. Proceed at your own risk"
+                - The bug may have been patched. Proceed at your own risk
 
         === "Not Spotted"
         
@@ -366,15 +367,17 @@ KEY POINT = Registration node = what it's toggled under
             - Start: "Enshadowed Well of Life" (Zone 2 Fountain)
             - Register: "Secret Path Keeper Vanquished" (Zone 3 Necrocore boss defeated)  
             
-            Directions:
-
-            !!! tip "To the south is corrosion sentry [3] that can be registered in the same run"
+            Directions
 
             - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room
             - Push the golem directly in front of you up > "Not spotted" flag triggered
             - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions
             - To exit use the the Zone 3 Harken 
-    
+
+            Notes
+
+            !!! tip "To the south is corrosion sentry [3] that can be registered in the same run"
+
     ??? danger "Necrocore"
     
         ??? map "Path to Necrocore"
@@ -444,7 +447,7 @@ KEY POINT = Registration node = what it's toggled under
             - Start: "Fortress Basement Arrival" (Zone 5 entrance) 
             - Register: "Fortress Lower Floors Cleared" (enter Zone 6)
             
-            Directions:
+            Directions
 
             - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
             - Push the bottom golem to the right to block the corruption sentry's field of view
@@ -452,6 +455,8 @@ KEY POINT = Registration node = what it's toggled under
             - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") 
             - To exit go back downstairs and use the Zone 5 Harken
 
+            Notes
+            
             !!! danger "There is a sentry directly north of the corrosion sentry"     
             !!! warning "The registration node is entering Zone 6 _not_ the Zone 5 Harken" 
                       
@@ -489,20 +494,22 @@ KEY POINT = Registration node = what it's toggled under
             
         === "Not Spotted"
 
-            !!! danger "There are 2 sentries (blue ★) in the area"
-
             Cursed Wheel Nodes
             
             - Start: "Fortress Lower Floors Cleared" (Zone 6 entrance) 
             - Register: "Portrait Gallery Minor Harken" (Zone 6 Harken)
 
-            Directions:
+            Directions
             
             - Proceed through Zone 6 until you reach the area with 3 golems. Its location does not change even with different map variations
             - Push the top and bottom golems to the left
             - Push the middle golem up, which will crush the corrosion sentry > "Not spotted" flag triggered 
             - To register head up and to the right to exit via the Zone 6 Harken
-     
+
+            Notes
+
+            !!! danger "There are 2 sentries (blue ★) in the area"
+
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
@@ -527,7 +534,7 @@ KEY POINT = Registration node = what it's toggled under
             ![](./img/corrosion-golem/golem-corr-7-ghosts-of-yore-vanquished.jpg)
             </div>
 
-            !!! danger "There are 3 sentries (blue ★) in the area"
+            !!! danger "There are 3 sentries in the area"
             
             - The corrosion sentry room can be rotated 90 degrees depending on the map variation
             - The golem push order remains the same
@@ -555,20 +562,20 @@ KEY POINT = Registration node = what it's toggled under
             - Start: "Portrait Gallery Minor Harken" (Zone 6 Harken)
             - Register: "Ghosts of Yore Vanquished" (Doll boss defeated)
 
-            Directions:
-
-            !!! danger "There are 3 sentries in the large room with the corrosion sentry"
+            Directions
             
             - From the Zone 6 Harken go up the stairs and proceed through Zone 7 until you reach the large room with 6 golems. 
             - Zone 7 can roll different map variations. The large room might be rotated, but the golem pushing order remains the same (see "Golem Directions - Corrosion Sentry")
             - Crush the corrosion sentry > "Not spotted" flag triggered 
             - To register proceed to the end of Zone 7 and defeat the Doll boss ("Ghosts of Yore Vanquished")
-            
-            !!! tip "Alternative kill method"
-                - Fighting the Doll boss again is _not_ mandatory
-                - It can be crushed with a golem (see "Golem Directions - Doll") for a hidden achievement
-                
             - To exit use the Zone 7 Harken
+
+            Notes
+            
+            !!! danger "There are 3 sentries in the large room with the corrosion sentry"
+            !!! tip "Alternative kill method"
+                - Fighting the Doll boss again is not mandatory
+                - It can be crushed with a golem (see "Golem Directions - Doll") for a hidden achievement
 
     ??? note "Cursed Wheel Entry"
     
@@ -579,12 +586,10 @@ KEY POINT = Registration node = what it's toggled under
 ## Fortress 2F Minor Harken 
 
 !!! warning 
-
-    - To register corrosion sentries [8] and [9] you must do the entire route from the Zone 7 Harken ("Ghosts of Yore Vanquished") to the Zone 9 Harken ("Fortress 2F Minor Harken") without exiting or wheeling elsewhere. It is roughly 50% of the Fortress floors (Zones 8-10), so plan accordingly
+    - To register corrosion sentries [8] and [9] you must do the entire route from the Zone 7 Harken ("Ghosts of Yore Vanquished") to the Zone 9 Harken ("Fortress 2F Minor Harken") without exiting, wheeling, or "accepting death". It is a long route, so plan accordingly
     - Corrosion sentry [9] is encountered before [8], but are listed in the opposite order in the Cursed Wheel. Scroll down and start with corrosion sentry [9] first
 
-!!! tip "Time-saving Tip" 
-    
+!!! tip  
     - Both corrosion sentries can be registered at the same time to avoid multiple runs
 
 ### 2F North Corrosion Sentry 
@@ -603,7 +608,7 @@ KEY POINT = Registration node = what it's toggled under
         ![](./img/corrosion-golem/golem-corr-8-fortress-2F-minor-harken-2F-north.jpg)
         </div>
 
-        !!! danger "There is a sentry (blue ★) in the upper right-hand corner
+        !!! danger "There is a sentry (blue ★) in the upper right-hand corner"
 
         - Push the top (1) golem to the right to block the sentry's field of view
         - Push the bottom (2) golem down to create a new drop-down hole
@@ -620,15 +625,19 @@ KEY POINT = Registration node = what it's toggled under
             - Start: "Ghosts of Yore Vanquished" (Zone 7 Harken) 
             - Register: "Fortress 2F Minor Harken" (Zone 9 Harken)
 
-            Directions:
+            Directions
 
             - From the Zone 7 Harken proceed through the Fortress (Zones 8-10) until you reach Zone 10, which has a fixed map layout
-            - The final room on this half of Zone 10 has 2 golems, a sentry, and a drop-down hole in the bottom-left corner. Do _not_ drop down that hole otherwise you will be "Spotted" when you land in Zone 9
+            - The final room on this half of Zone 10 has 2 golems, a sentry, and a drop-down hole in the bottom-left corner
             - Push the top golem to the right to block the sentry's field of view
             - Push the bottom golem down to create a new drop-down hole to Zone 9
             - Jump down the newly created hole and you will land behind the corrosion sentry > "Not spotted" flag triggered
             - To register go to the Zone 9 Harken on the other side of the hallway and exit 
 
+            Notes
+
+            !!! warning "Do not drop down the bottom-left corner hole as you will be "Spotted" when you land
+            
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
@@ -636,10 +645,10 @@ KEY POINT = Registration node = what it's toggled under
         </div>
 
 ### 3F West Corrosion Sentry
-??? note "3F West Corrosion Sentry [9]"
 
-    !!! warning "Warning"
-        - Mandatory mini-quest required (see "Winding key collection")
+!!! warning "Mandatory mini-quest required (see "Winding Key Collection")"
+
+??? note "3F West Corrosion Sentry [9]"
 
     ??? map "Location"
     
@@ -654,7 +663,7 @@ KEY POINT = Registration node = what it's toggled under
         </div>
 
         - Push the golem to the right to break the wall to access the adjacent room
-        - The next room has the automaton doll and associated mini-quest (see "Winding key collection")
+        - The next room has the automaton and associated mini-quest (see "Winding Key Collection")
 
     ??? note "Cursed Wheel Registration"
 
@@ -668,25 +677,24 @@ KEY POINT = Registration node = what it's toggled under
             - Start: "Ghosts of Yore Vanquished" (Zone 7 Harken) 
             - Register: "Fortress 2F Minor Harken" (Zone 9 Harken)
 
-            Directions:
+            Directions
             
             - From the Zone 7 Harken proceed through the Fortress (Zones 8-10) until you reach Zone 10, which has a fixed map layout
-
-            !!! danger "Do not enter the hallway with the corrosion sentry to avoid being "Spotted""
-                
             - North of the stairs to Zone 9 there will be a room with a golem in it. Push the golem to the right to gain access to the adjoining room
-            - In this new room examine the skeleton on the floor, which will spawn an automaton doll and a map on the floor nearby
-            - The map will mark 3 locations on the previous floors (Zones 8 and 9) that require backtracking to pick up winding keys for the doll. See "Winding key collection" for location details
-            - After obtaining the 3 winding keys return to Zone 10 and interact with the doll 
-            - Now walk into the corrosion sentry's line-of-sight, the doll will activate, and the corrosion sentry will give chase > "Unspotted" flag triggered
+            - Examine the skeleton on the floor, which will spawn an automaton and a map on the floor nearby
+            - The map will mark the locations of 3 winding keys on the previous floors (Zones 8 and 9) (see "Winding Key Collection" for details)
+            - Return to Zone 10 after collecting the keys and interact with the automaton 
+            - Exit the room and walk into the hallway with the corrosion sentry. The automaton will activate and the corrosion sentry will give chase > "Unspotted flag triggered"
+            - To register continue north to the last room in Zone 10, drop down the hole to Zone 9, and exit via the Zone 9 Harken ("Fortress 2F Minor Harken") across the hallway
+
+            Notes
             
+            !!! danger "Do not enter the hallway with the corrosion sentry to avoid being "Spotted""
             !!! tip "Procced to the last room in Zone 10 to register corrosion sentry [8]"
 
-            - To register drop down the hole to Zone 9 and exit via the Zone 9 Harken ("Fortress 2F Minor Harken") across the hallway
-
-    ??? note "Winding key collection"
+    ??? note "Winding Key Collection"
     
-        == "Overview"
+        === "Overview"
         
             - The locations of the 3 winding keys are marked on your map with a yellow "!" symbol
             - The keys are always in the same location (tile set) even with different map variations 
@@ -746,6 +754,11 @@ KEY POINT = Registration node = what it's toggled under
 
 ### 1F Servant's Quarters Corrosion Sentry 
 
+!!! warning
+    - Corrosion sentry [10] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+    - Corrosion sentry [10] must be run _twice_ for both the "Spotted" and "Not spotted" flags as you do not encounter it during your first run
+    - One of the most frequently missed corrosion sentries because players exit before reaching the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
+
 ??? note "1F Servant's Quarters Corrosion Sentry [10]"
 
     ??? map "Location"
@@ -763,7 +776,24 @@ KEY POINT = Registration node = what it's toggled under
     ??? note "Cursed Wheel Registration"
     
         === "Spotted"
-            - Automatically "Spotted" on first run 
+
+            Cursed Wheel Nodes
+            
+            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
+            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+
+            Directions 
+            
+            - Visiting this room is mandatory to complete the "Search for the Missing Girl" request
+            - Automatically "Spotted" when picking up the tattered rag (key valuable) 
+            - To register proceed to the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
+            - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
+
+            Notes
+
+            !!! tip 
+                - After picking up the tattered rag it is highly recommended to continue onward to the Zone 10 Fountain to register the "Spotted" flag
+                - Try to incorporate any missing corrosion sentry flags on this run, if possible
             
         === "Not Spotted"
         
@@ -771,11 +801,20 @@ KEY POINT = Registration node = what it's toggled under
             
             - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
             - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+
+            Directions 
             
-            Directions:
-            
-            - Proceed throu
-            
+            - Visiting this room is mandatory to complete the "Search for the Missing Girl" request
+            - Enter the room and ignore the corrosion sentry
+            - To register proceed to the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
+            - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
+
+            Notes
+
+            !!! tip 
+                - The "No spotted" run can be done at any time
+                - Corrosion sentry [12] (2F Soldier's Room) requires a separate "No spotted" run where you ignore the corrosion sentry and do not enter the room. It is easy to do both at the same time 
+
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
@@ -797,6 +836,12 @@ KEY POINT = Registration node = what it's toggled under
         <div align="center">
         ![](./img/corrosion-golem/golem-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
         </div>
+
+        !!! danger "There are 3 sentries in the area"
+
+        - Push the middle golem (1) down
+        - Push the left-hand golem (2) to the right, which will crush the corrosion sentry 
+        - Push the right-hand golem (3) down, which will break the wall to the Zone 9 stairs
     
     ??? note "Cursed Wheel Registration"
     
@@ -812,8 +857,12 @@ KEY POINT = Registration node = what it's toggled under
             
             Directions:
             
-            - Proceed through Zone
-            - x
+            - From the Zone 9 Harken, drop down to Zone 8 and proceed to the end of the area
+            - This room has a fixed location and will always be in the bottom-left corner of Zone 8 
+            - See "Golem Directions" for how to crush the corrosion sentry > "Not spotted" flag triggered
+            - Exit the room through the newly created hole in the wall
+            - To register continue to the Zone 10 Fountain
+            - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
                  
     ??? note "Cursed Wheel Entry"
     
