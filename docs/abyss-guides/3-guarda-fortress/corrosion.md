@@ -25,39 +25,43 @@ There are a total of 13 corrosion sentries you can encounter in Guarda Fortress.
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
     - Golems are only available after defeating the Greater Warped One at least once.
 
-## First run - things to know
-
 ## Corrosion Sentry Registration
 
-To properly register a corrosion sentry in the Cursed Wheel the following must be true:
+!!! note "To properly register a corrosion sentry in the Cursed Wheel the following must be true:"
 
-- "Spotted" at least once
-- "Not spotted" at least once
-- Began at a Cursed Wheel node _before_ encountering the corrosion sentry on the normal progression route _and_ made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
+    - "Spotted" at least once
+    - "Not spotted" at least once
+    - Began at a Cursed Wheel node _before_ encountering the corrosion sentry on the normal progression route _and_ made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
 
-[Diagram goes here]
+??? Corrosion Sentry Registration Steps
 
-The "Spotted" and "Not spotted" designations are hidden flags the game tracks. The game only seems to "register" or "save" the flags after reaching the next Cursed Wheel node. The good news is that during your first run you will encounter the majority of the corrosion sentries and be "Spotted" since you do not have access the golem reversal power. On subsequent runs you can use your new reversal power to avoid or destroy ("Not spotted") them. Once both the "Spotted" and "Not spotted" flags are properly registered the corrosion sentry will appear in the Cursed Wheel. 
+    <div align="center">
+    ![](./img/corr-register-corrosion-sentry-steps.png)
+    </div>
 
-Every corrosion sentry has a "starting" and "registering" Cursed Wheel node. The "registering" node is the one that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. You can _never_ "register" a corrosion sentry by wheeling to its own node as your starting point. The starting point for wheeling to register a corrosion sentry is _always_ the previous node. The game requires a fresh encounter for it to update its flags.   
+### "Spotted" and "Not spotted" Flags
 
-It is not uncommon to be missing a few corrosion sentries in the Cursed Wheel even after completing the "Blackmail" or "Mastermind" endings. Fighting the Greater Warped one at 0 corrosion on the "Mastermind" ending requires all 13 corrosion sentries be registered and set to "Not spotted". This is only important for the achievement ("Guardian of Guarda") and access to the Rank 12 Cyclops bounty, Master Ring, and [x] in the Bounty Exchange.  
+The "Spotted" and "Not spotted" designations are hidden flags the game tracks. The game only seems to "register" or "save" the flags after reaching the next Cursed Wheel node along the normal progression route. Entering into a corrosion sentry's field-of-view results in a "Spotted" flag. The good news is that during your first run you will encounter the majority of the corrosion sentries and be "Spotted" since you do not yet have access to the golem reversal power. On subsequent runs the golem reversal power can limit a corrosion sentry's field-of-view or destroy ("Not spotted") them outright. Once both the "Spotted" and "Not spotted" flags are properly registered the corrosion sentry will appear in the Cursed Wheel. 
 
-How this sectionis structured
-[#] = Corrosion Sentry order number (1-13)
-[Name of Cursed Wheel Node] - [Corrosion Sentry Toggle Name] - [Zone (Floor, 1-10)]
+!!! note Each corrosion sentry requires two complete runs ("Spotted" and "Not spotted") to register properly in the Cursed Wheel.
 
-CW = Cursed Wheel
-Beginning node = start
-Registration node = end
-Node = CW jump point 
+### Start and Register Nodes
 
-All directions are based on the MAP
-KEY POINT = Registration node = what it's toggled under
+??? note "Terms"
 
+For a corrosion sentry to appear in the Cursed Wheel the correct "start" and "register" nodes must be used. The "register" node is the one that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. You can _never_ "register" a corrosion sentry by wheeling to its own node as your starting point. Instead, you begin the process by wheeling to the previous Cursed Wheel ("start") node. The game requires a fresh encounter with the corrosion sentry for it to update its flags.   
 
-<Content begins here>
+It is very common to be missing a few corrosion sentries in the Cursed Wheel even after completing the "Blackmail" or "Mastermind" endings. Fighting the Greater Warped one at 0 corrosion on the "Mastermind" ending requires all 13 corrosion sentries be registered and set to "Not spotted". This is only important for the achievement ("Guardian of Guarda") and access to the Rank 12 Cyclops bounty, Master Ring, and [x] in the Bounty Exchange.  
 
+## Corrosion Sentry Guide
+
+!!! warning "What's covered in the guide?"
+
+    - Location and pathing instructions for more confusing areas
+    - Golem power reversal directions 
+    - Registration nodes and directions for "Spotted" and "Not spotted" runs 
+    - Important time-saving tips, warnings, and other notes
+    - Picture of the Cursed Wheel entry 
 
 ## Secret Passage Minor Harken
 
@@ -924,6 +928,15 @@ KEY POINT = Registration node = what it's toggled under
         <div align="center">
         ![](./img/corrosion-golem/golem-corr-13-fortress-3rd-floor-arrival-2F-imprisoning.jpg)
         </div>
+
+        - Push the golem (1) closest to the room entrance to the right onto the switch
+        - Go into the next room and push the golem (2) up to break through the wall 
+        - Push the golem (3) in this room to the left to crush the corruption sentry 
+        - Push the final golem (4) to the left to open the door to the switch room
+        - Flip the switch and all the remaining doors will unlock
+
+        !!! danger There is a sentry (blue *) in the room
+        !!! warning This room might be rotated, but the pushing order remains the same. Use the entrance door as a reference point
     
     ??? note "Cursed Wheel Registration"
     
