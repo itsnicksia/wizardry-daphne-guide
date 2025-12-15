@@ -2,6 +2,8 @@
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 
+!!! note "WARNING: The Abyss 4 release now includes REINFORCEMENT to further increase the stats of an item beyond what Enhancement can do.  DO NOT USE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance.  Updates to this guide are in progress."
+
 ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
 
 ## ^^Video Guide^^
