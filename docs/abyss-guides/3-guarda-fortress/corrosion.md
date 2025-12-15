@@ -151,11 +151,16 @@ KEY POINT = Registration node = what it's toggled under
                 - Heat south from the Zone 2 Fountain to register corrosion sentries [3] and [4]
                 - Requires defeating the Necrocore boss at the end of Zone 3. See their entries for details 
             
-            - To exit use a Hook of Harken, defeat the Necrocore boss to access the Zone 3 Harken, or take the path back to the Zone 1 Harken 
+            - To exit use a Hook of Harken, take the path back to the Zone 1 Harken, or defeat the Necrocore boss to access the Zone 3 Harken. See "Exiting from Zone 2 Fountain" for details. 
 
-        === "How to exit from Zone 2 Fountain"
+        === "Exiting from Zone 2 Fountain"
 
-            ??? map "Path back to Zone 1 Harken to exit"
+            ??? map "Path to Zone 1 Harken"
+
+                - From the "South" corrosion sentry [3] exit through the southern door 
+                - Ignore the sentry to the immediate left and keep heading south. Turn right and pass 2 small dungeon cells. At the end of the path there is a dead-end with a drop-down hole to Zone 3 
+                - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
+                - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit 
                 
                 ??? map "Zone 2 - Old Secret Passage B2F"
                 
@@ -167,15 +172,11 @@ KEY POINT = Registration node = what it's toggled under
                 
                     <div align="center">
                     ![](./img/exit-from-sentry-room-zone-3-path.png)
-                    </div>
-        
-                - From the "South" corrosion sentry [3] exit through the southern door 
-                - Ignore the sentry to the immediate left and keep heading south. Turn right and pass 2 small dungeon cells. At the end of the path there is a dead-end with a drop-down hole to Zone 3 
-                - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
-                - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit   
+                    </div>  
 
-            ??? map "Path to Necrocore and Zone 3 Harken to exit"
+            ??? map "Path to Zone 3 Harken"
         
+                - The Necrocore boss must be defeated to access the Zone 3 Harken to exit 
                 - From the Zone 2 Fountain follow the light blue and green paths
         
                 ??? map "Zone 2 - Old Secret Passage B2F"
@@ -189,8 +190,6 @@ KEY POINT = Registration node = what it's toggled under
                     <div align="center">
                     ![](./img/zone-3-path.jpg)
                     </div>
-
-                !!! danger "The Necrocore boss must be defeated to access the Zone 3 Harken to exit"
 
                 ??? danger "Boss Fight Details"
     
@@ -217,7 +216,7 @@ KEY POINT = Registration node = what it's toggled under
     - Registration requires defeating the Necrocore boss located at the end of Zone 3
 
 !!! warning
-    - Corrosion sentry [4] must be registerd _twice_ for both "Spotted" and "Not spotted"
+    - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
     - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
     
 !!! tip "Time-saving Tip"
@@ -264,7 +263,7 @@ KEY POINT = Registration node = what it's toggled under
                 - To the north is corrosion sentry [4] that can be registered in the same run. See its entry for details
 
             - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions.
-            - To exit use the the Zone 3 Harken it was blocking  
+            - To exit use the the Zone 3 Harken 
 
     ??? danger "Necrocore"
  
@@ -306,7 +305,8 @@ KEY POINT = Registration node = what it's toggled under
 ??? note "Central Corrosion Sentry [4]"
 
     !!! warning "Warning" 
-        - Corrosion sentry [4] must be done _twice_ to register both the "Spotted" and "Not spotted" flags. It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
+        - Corrosion sentry [4] must be done **twice** to register both the "Spotted" and "Not spotted" flags
+        - It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
         - Requires a low Abyss corrosion level to access. Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
     ??? map "Location"
@@ -343,7 +343,7 @@ KEY POINT = Registration node = what it's toggled under
                 - To the south is corrosion sentry [3] that can be registered in the same run. See its entry for details
             
             - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions
-            - To exit use the the Zone 3 Harken it was blocking 
+            - To exit use the the Zone 3 Harken 
             
             !!! bug "Optional bug exploit" 
             
@@ -370,7 +370,7 @@ KEY POINT = Registration node = what it's toggled under
                 - To the south is corrosion sentry [3] that can be registered in the same run. See its entry for details
                 
             - To register defeat the Necrocore boss ("Secret Path Keeper Vanquished") located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions
-            - To exit use the the Zone 3 Harken it was blocking 
+            - To exit use the the Zone 3 Harken 
     
     ??? danger "Necrocore"
     
@@ -427,8 +427,7 @@ KEY POINT = Registration node = what it's toggled under
         </div>
 
         !!! danger "Sentry Alert"
-            - There is a sentry (blue ★) directly north of the corrosion sentry
-            - Be careful to avoid its field of view when pushing the golems
+            There is a sentry (blue ★) directly north of the corrosion sentry
             
         - Push the bottom (1) golem to the right to block the corruption sentry's field of view
         - Push the top (2) golem up to block the sentry's field of view
@@ -446,18 +445,14 @@ KEY POINT = Registration node = what it's toggled under
             - Register: "Fortress Lower Floors Cleared" (enter Zone 6)
             
             Directions:
-            
-            - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
-            
-            !!! danger "Sentry Alert"
-                - There is a sentry (blue ★) directly north of the corrosion sentry 
-                - Be careful to avoid its field of view when pushing the golems
 
+            !!! danger "There is a sentry (blue ★) directly north of the corrosion sentry" 
+                
+            !!! warning "The registration node is entering Zone 6 _not_ the Zone 5 Harken" 
+
+            - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
             - Push the bottom golem to the right to block the corruption sentry's field of view
             - Push the top golem up to block the sentry's field of view  
-
-            !!! warning  "The registration node is entering Zone 6 _not_ the Zone 5 Harken" 
-            
             - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") 
             - To exit go back downstairs and use the Zone 5 Harken
                       
