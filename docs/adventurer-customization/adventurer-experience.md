@@ -1,7 +1,7 @@
 # Adventurer Experience
 
-!!! warning "Work in progress" 
-    We are currently in the process of updating the experience requirements for levels 61-70
+!!! warning "Work in Progress" 
+    We are currently updating the experience requirements for levels 61-70.
 
 ## Experience Chart
 
@@ -67,8 +67,11 @@
 |   58   |     247,151     |     3,728,256    |                617,878              |                9,320,640             |
 |   59   |     259,200     |     3,975,407    |                648,000              |                9,938,518             |
 | **60** |   **488,939**   |   **4,234,607**  |             **1,222,347**           |             **10,586,518**           |
-|   61   |     512,021     |     4,723,546    |                                     |               11,808,865             |
-|   62   |                 |     5,235,567    |                                     |                                      |
+|   61   |     512,021     |     4,723,546    |               1,280,865             |               11,808,865             |
+|   62   |     535,815     |     5,235,567    |                                     |               13,088,918             |
+|   63   |                 |     5,771,382    |                                     |                                      |
+
+
 
 <sup>†</sup>Advanced Classes:  Ninja, Samurai
 
