@@ -399,7 +399,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 146,Ninja_Throw!A146,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Tool!A2,Tool,69,Digging Mattock,Iron,5,,288,1,0,0,0,0,4,-50,-50,2,0,11,0,0,0,0,4,-50,-50,2,0,21,0,0,0,0,4,-50,-50,2,0,31,0,0,0,0,4,-50,-50,2,0,41,0,0,0,0,4,-50,-50,2,0,"Strength-Based -, Vs Stone, Breaks rocks in Beginner Abyss Helmut fight"
-8,Tool!A8,Tool,,Digging Mattock,Iron,4,55000,,1,0,0,0,0,4,-75,-100,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based -, Freeze Shatter"
+8,Tool!A8,Tool,,Ice Axe,Silver,4,55000,,1,0,0,0,0,4,-75,-100,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based -, Freeze Shatter"
 14,Tool!A14,Tool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 20,Tool!A20,Tool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26,Tool!A26,Tool,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
