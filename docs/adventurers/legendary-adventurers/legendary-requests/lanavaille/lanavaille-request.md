@@ -25,8 +25,10 @@ Once the requirements are met, the "request" will be available upon entering the
 
 ??? note "Maps"
     ![](img/trial-of-compassion.jpg)
-    ![](img/trial-of-strength.jpg)
-    ![](img/final-trial.jpg)
+    
+    ![](img/trial-of-strength.jpg)  
+    
+    ![](img/final-trial.jpg)  
 
 ## Rewards:
 
