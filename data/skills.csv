@@ -179,6 +179,7 @@ Magical Being Knowledge,Passive,,Increases damage against magical beings and dec
 MAHALITO,Damage,,Launches a blazing fireball that deals minor fire spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,,,
 MAKALTU,Support,True,Generates an encompassing wall of Magic Power that increases the Defense Power of 1 row of allies for 3 turns.,Defense Power incrementally increased further based on skill level. More turns added.,22,Priest,,Valdor,
 MAKANITO,Damage,,Fouls the air with a chance of suffocating 1 enemy row. More effective against low-level targets.,Probability increased based on skill level.,51,Mage,,,
+Malefic Wind,Damage,,"Envelopes the area in concentrated magic power, dealing moderate spell damage to 1 enemy row and dispels 1 multi-turn buff on that row.","Efficacy and probability increased based on skill level. Number of removals is incrementally increased.",61,Mage,,,
 MAMIGAL,Damage,True,Launches a torrent of water that deals minor water spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,,,Flut
 MAREIN,Damage,,A radiance of mourning for the dead shines down on the undead in 1 enemy row with a chance to obliterate them based on the user's Divine Power.,Probability increased based on skill level.,15,Priest,,,
 MASOLOTU,Support,,Conjures an apparition that increases the Evasion of 1 ally row for 3 turns.,Evasion incrementally increased further based on skill level. More turns added.,3,Priest,,,
