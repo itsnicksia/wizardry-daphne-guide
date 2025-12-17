@@ -8,7 +8,7 @@ Requirements: The Den of Water is the fifth Den available to players.  It appear
 ## Den of Water Maps
 
 !!! map "Den of Water Entrance"
-        ![](img/den-of-water/den-of-water-b1f-entry-map.jpg)
+    ![](img/den-of-water/den-of-water-b1f-entry-map.jpg)
     
 !!! map "Full Map"
-        ![](img/den-of-water/den-of-water-b1f-map1.jpg)
+    ![](img/den-of-water/den-of-water-b1f-map1.jpg)
