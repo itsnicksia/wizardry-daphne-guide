@@ -10,7 +10,7 @@
 
 1. Head to Royal Capital Adventurer's Guild to receive your faction request of choice.
 2. Head over to Valeon Grasslands and walk through all three plains. You'll occasionally encounter some NPC dialogues about Isberg on the way, and eventually get a short briefing from your faction representaive.
-3. Deepsnow Hinterlands of Isberg's main town, Winterface Settlement, will not having of interest. To continue, head to the edge of town and enter the Abyss. You will be introduced to the chill/freezing mechanic along with the main gimmick of this abyss, which are portions of the map that inflict chill per turn and deny use of the minimap and map. Eventually you'll also reach a hot spring that can cleanse you of the chill/freeze debuff. Continue to Route 2.
+3. Deepsnow Hinterlands of Isberg's main town, Winterface Settlement, will not have anything of interest except maybe a cat as the tavern manager. To continue, head to the edge of town and enter the Abyss. You will be introduced to the chill/freezing mechanic along with the main gimmick of this abyss, which are portions of the map that inflict chill per turn and deny use of the minimap and map. Eventually you'll also reach a hot spring that can cleanse you of the chill/freeze debuff. Continue to Route 2.
 
     !!! item "Freeze Mechanic"
         - In applicable areas, snowstorm will take place at the start of turn, immediately applying 8 stacks of chill on every unit on the field.
