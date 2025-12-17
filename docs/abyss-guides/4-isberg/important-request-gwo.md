@@ -1,5 +1,7 @@
 # Deepsnow Hinterlands of Isberg - Important Request and Greater Warped One
 
+!!! warning "This page is currently under construction. We are still refining and correcting details"
+
 ## Main Story Request Walkthrough:
 
 !!! note "An interesting feature for this Abyss is that there are footprints left in the snow. Both the MC and enemies that are not detected yet produce these footprints, so these are good indicators of where the enemy is if you cannot see them but hear them."
@@ -41,18 +43,29 @@
     !!! danger "Snow Wolf Leader"
         - The fight has several other snow wolves in the same row and behind. The snow wolves are significantly weaker than the leader.
         - The wolves can summon another wolf into the fight, while the leader can summon multiple into the fight.
-        - The leader can use an ice breath that immediately freezes a row. He can also summon an ice storm that also freezes everyone in the battle.
-        - When he takes a certain amount of damage, he can immediately cast Glacial Storm, which is a very strong AOE on the whole team. This damage is high enough to one-shot most adventurers.
+        - The leader can use an ice breath that immediately freezes a row. He can also summon an ice storm that also freezes everyone including his own units and himself in the battle.
+        - When the leader is frozen AND there are 6 or more wolves on the field, he can cast glacial storm which is a full team AOE that does a lot of damage. It's recommended to break his frozen state ASAP.
         - When he is about to die, he will summon an extremely large amount of snow wolves.
         - When the leader dies, all the remaining snow wolves will be greatly debuffed in attack and CT.
 
-11. Route 7 is a Mineshaft where you'll eventually meet Nero. Gain his trust by helping him with his task of collecting ore on Route 8. Head downstairs using the stairs nearby and you'll be introduced to a small mechanic of this floor. The ores are located on the provided map. One is guarded by a Scorpion Lady + Hydra Plant + Desert Insects and the other is guarded by two Hydra Plants + Clouds + Desert Insects.
+11. Route 7 is a Mineshaft where you'll eventually meet Nero. Gain his trust by helping him with his task of collecting ore on Route 8. Head downstairs using the stairs nearby and you'll be introduced to a small mechanic of this floor. The ores are located on the provided map. One is guarded by a Scorpion Lady + Hydra Plant + Desert Insects and the other is guarded by two Hydra Plants + Clouds + Desert Insects. After turning it in, head to the top left staircase and continue past Route 8 back to Route 7 and onwards to Route 9.
 
     !!! item "Poison Gas Mechanic"
         - Poison gas may initially be on the floor. Typically to clear it, you'll need to reverse the rockfall nearby.
         - However, rockfalls with no poison gas nearby can SOMETIMES generate poison gas. (consult map)
         - Poison gas tiles act effectively the same as a poison tile.
         
-12. 
+12. There is nothing very notable from Route 7 Harken to Route 9 to the Church on the first run. However, it is quite a slog after the Route 9 Harken so be prepared and play it smart.
+13. Upon reaching the church, enter and interact with all the dead bodies on the floor. Head into the main church room and encounter the Greater Warped One. All the children will turn against you and the fight begins.
+
+    !!! danger "Godefroi 1st Run"
+        - He is surrounded by children. Do not attack the children as killing them greatly strengthens him. Each child has several hundred HP.
+        - He is initially on the second row, so it's recommended to have ranged weapons/single target magic.
+        - He can cast Kantios on your entire team. This is to get you to kill the children by accident. It's highly recommended to not have low fortitude when attempting. Alternatively, you can have two priests casting Makalki on each row every other turn if applicable.
+        - He can cast Labadios and use a skill that inflicts bleed.
+        - He can occasionally cast Maporfic (really strong makaltu) on everyone, so have dissipation.
+
+14. After defeating him, he will consume all the children and become powered up. This is a forced loss fight, and you will take a guaranteed fortitude loss on all party members that die before you die. Thanks Lulunarde.
+
 
         
