@@ -169,7 +169,7 @@ MADIOS,Support,True,Words of great blessing that restore minor HP to 1 ally row.
 MAERLIK,Damage,,Flings a stone that deals minor earth spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,,,
 MAFERU,Damage,True,Launches a massive blade of air that deals minor air spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,,,Jarmil
 MAFOROS,Damage,,Launches scattered orbs of light that deal minor light spell damage to 1 enemy row.,Efficacy increased based on skill level.,9,Mage,,,
-Magic Detection,Passive,,"Continuously increases Detect.",,70,Mage,Mage/Mage of the Black Rod/Tall Mage-specific,,
+Magic Detection,Passive,,"Continuously increases Detect.","Detect increased further based on skill level.",70,Mage,Mage/Mage of the Black Rod/Tall Mage-specific,,
 Mage of the Black Rod,Passive,,"At the start of own turn, when user is in the front row, increases Attack Power, Defense Power, Accuracy, and Evasion, and when user is the back row, increases Magic Power, Magic Defense, and Resistance. Additionally, increases own Attack Power, Defense Power, Magic Defense, and Accuracy when equipped with a one-handed staff or one-handed sword.",,,,,Iarumas,
 Magic of the Dark One,Discipline,,"Continuously increases each stat, Divine Power and Magic Defense increased further.",Divine Power and Magic Defense increased further based on skill level.,,,,Alice,
 Magical Being Knowledge,Passive,,Increases damage against magical beings and decreases damage from magical beings.,,,,,Dino,
