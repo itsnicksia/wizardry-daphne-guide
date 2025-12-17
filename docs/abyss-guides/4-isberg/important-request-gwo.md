@@ -15,7 +15,7 @@
     !!! item "Freeze Mechanic"
         - In applicable areas, snowstorm will take place at the start of turn, immediately applying 8 stacks of chill on every unit on the field.
         - When chill reaches 0, applies frozen to the unit.
-        - Frozen unit can still act and have increased Defense, but will have greatly reduced ASPD, ACC, and EVA. Frozen units can get shattered, which removes Frozen but inflicts a large amount of damage. Only actions can do this (Fire elemental actions, Two-handed weapon actions, etc).
+        - Frozen unit can still act and have increased Defense, but will have greatly reduced ASPD, ACC, and EVA. Frozen units can get shattered, which removes Frozen but inflicts a large amount of damage. Only certain actions can do this (Fire elemental actions, Two-handed weapon actions, etc). Enemies have a chance to break your frozen immediately and cause high damage with any skill, but certain enemy skills can guaranteed inflict heavy damage.
         - Snowstorm reduces chill by 2 every turn, while water element skills reduce chill by 3. Some unique enemy skills can immediately reduce chill by large amounts.
         - Hot Springs and Camping can immediately remove all chill/frozen debuffs. Ice-Chipping Hammers are consumables that can also remove chill and freeze from a single unit.
         - Some equipment reduces chill stack reduction.
