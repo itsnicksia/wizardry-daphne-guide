@@ -51,4 +51,4 @@
 | <span class="purple">Abductor of Kings</span>                      | Harken's Blessing has increased your Evade Trap, Disarm Trap, Poison Tolerance, Paralysis Tolerance, Fear Tolerance, and Critical Tolerance. |
 | <span class="purple">Hero Who Guards the Gate</span>               | Harken's Blessing has increased your Defense Power, Magic Defense, and Tolerance to Sleep, Charm, Confusion, Stone, and Stun.                |
 | <span class="purple">Mermaid Aboard the Ship</span>                | Harken's Blessing has increased your Water Type Resistance, Sleep Tolerance, Magic Power, Divine Power, and Resistance.                      |
-| <span class="purple">The Priest Is rhe Father to the Children</span> | Harken's Blessing has increased your Attack Power, Defense Power, Accuracy, Fear Tolerance, and Critical Tolerance.   |
+| <span class="purple">The Priest Is the Father to the Children</span> | Harken's Blessing has increased your Attack Power, Defense Power, Accuracy, Fear Tolerance, and Critical Tolerance.   |
