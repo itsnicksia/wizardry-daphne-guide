@@ -1,7 +1,8 @@
 # Free-to-Play Resources 
 Certain resources in Wizardry Variants Daphne can be used to obtain in-game content or upgrade your adventuring party. While many can be purchased at the [Wizardry Variants Daphne Official Web Shop](https://store.wizardry.info), [Wizardry Variants Daphne Web Store](https://webstore.wizardry.info), and at the Jeweler (see [Guide Purchase Evaluaions page](./purchase-evaluation.md)), Free-to-Play (F2P) players rely on in-game resource accumulation over time. The summary below tries to cover regular, reliable resource accumulation methods. Intermittent events can provide additional resource gain opportunities, some of which are noted where appropriate.  
 
-!!! note "TL,DR - F2P players should not expect to get every banner with only free resources. You'll have to pick and choose.  There's no ad-view gem farm. And no game progress is blocked or difficulty gated requiring non-free resources.  This is not that kind of gacha. Just enjoy the game."
+!!! note "TL,DR"
+    F2P players should not expect to get every banner with only free resources. You'll have to pick and choose.  There's no ad-view gem farm. And no game progress is blocked or difficulty gated requiring non-free resources.  This is not that kind of gacha. Just enjoy the game.
 
 ## Gems
 Two Gem types: Gems of Erin (Purple) and Gems of Org (Green).   
