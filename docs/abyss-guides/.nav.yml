@@ -18,6 +18,8 @@ nav:
       - Wandering NPCs: './3-guarda-fortress/wandering-npcs.md'
       - Misc Bosses:
           - Morgus, God of Death: './3-guarda-fortress/misc-bosses/morgus-god-of-death.md'
+  - "Abyss 4: Deepsnow Hinterlands - Isberg":
+      - Important Request / Greater Warped One: './4-isberg/important-request-gwo.md'
   - Ancient Mausoleum: './ancient-mausoleum/maps.md'
   - Dens:
       - Den of Earth: './dens/den-of-earth.md'
