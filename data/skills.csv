@@ -154,7 +154,7 @@ LACONES,Damage,,Launches countless orbs of magic power that deal moderate untype
 LATUMOFIS,Support,True,Words of prayer that cure 1 ally of Poison.,"Resistance up, Critical Poison recovery, and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects, and recovery amount.",6,Priest,,Marianne,
 LAZELOS,Damage,,Generates a powerful mass of hatred that deals moderate dark spell damage to all enemies.,Efficacy increased based on skill level.,40,Mage,Mage-specific,,
 Light-Kin Blessing,Passive,,Reduces light type damage for elves in the same row.,,,,,Emil,
-Light Resistance Weakening,Debuff,"By whispering malicious things to surrounding entities, there is a chance of decreasing the light-type tolerance of 1 enemy row for 2 turns.","Probability increased and Light-type Resistance Weakening effect is further increased based on skill level. Additional turns incrementally added.",,67,Mage,Mage-specific,,
+Light Resistance Weakening,Debuff,,"By whispering malicious things to surrounding entities, there is a chance of decreasing the light-type tolerance of 1 enemy row for 2 turns.","Probability increased and Light-type Resistance Weakening effect is further increased based on skill level. Additional turns incrementally added.",67,Mage,Mage-specific,,
 Light Shaft's Radiance,Passive,,"Increases damage to enemies for user and an ally in front of or behind them if the ally is light-type, with damage to dark-type enemies increased even further.",,,,,Adam,
 Light Type Thaumaturgy,Passive,,Reduces light-type damage to self.,Damage decreased further based on skill level.,55,Mage,,,
 Lightning Celerity,Passive,,Increases Evasion when equipped with a one-handed sword.,Attack Power increased further based on skill level.,,,,Gerard,
