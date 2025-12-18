@@ -50,7 +50,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Guiding Light | Bonus Mind Pearls<sup>†</sup> | Method to Obtain  |
 |:------------- | :-----: |:---------------------------- |
 | <span style="color: #FF0000">STR 1</span>   |    4   | Abyss 1: Obtained after unlocking the Cursed Wheel |
-| <span style="color: #FF0000">STR21</span>   |       |Abyss 4:  |
+| <span style="color: #FF0000">STR 2</span>   |       |Abyss 4:  |
 | <span style="color: DarkOrange">VIT 1</span>        |    4    | Abyss 1:  Complete the Beginning Abyss and save the King |
 | <span style="color: DarkOrange">VIT 2</span>        |  1  | Abyss 3:  Activate the Golem before the boss fight in Guarda Fortress Abyss |
 | <span style="color: LimeGreen">PIE</span>          |  4  | Abyss 2:  Beat Melgina for the first time, regardless of missing person request taken |
