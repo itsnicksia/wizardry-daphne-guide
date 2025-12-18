@@ -118,7 +118,7 @@ In this game, Adventurer's Remains are used by the Masked Adventurer to resurrec
 | Source                                                                             | Frequency | Amount | Monthly Total | 
 | :--------------------------------------------------------------------------------- | :-------: | :----: | :-----------: | 
 | Adventurer's Guild "Today's Supplies" (Day 7)                                      | Biweekly  |  1     | 2             | 
-| [Bone Picker Abyss-wandering NPC](../abyss-guides/1-beginning-abyss/wandering-npcs/#bone-picker) | Weekly |  1   | 4    |
+| [Bone Picker Abyss-wandering NPC](../abyss-guides/1-beginning-abyss/wandering-npcs.md#bone-picker) | Weekly |  1   | 4    |
 | Adventurer's Remains weekly random chest drop                                      | Weekly    |  1     | 4             | 
 | [Beginning Abyss Weekly Respawning Remains](../tools/tracker.md)                   | Weekly    |  1     | 4             |
 | [Beginning Abyss Monthly Respawning Remains](../tools/tracker.md)                  | Monthly   |  9     | 9             |
