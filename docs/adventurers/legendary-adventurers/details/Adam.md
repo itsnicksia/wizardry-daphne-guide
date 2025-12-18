@@ -68,7 +68,7 @@ extra text can be added between skills
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Inheritable Skill']) }}
 
-    !!! note "This skill removes the dampening from spells that deal element type damage as well as the damage caused by element type skills and when using elemental weapons."
+        !!! note "This skill removes the dampening from spells that deal element type damage as well as the damage caused by element type skills and when using elemental weapons."
 
  {% if chardata['Alternate Inheritable Skill'] %}
     === "{{chardata['Alternate Inheritable Skill']}} ({{chardata['Alternate Style']}})"
