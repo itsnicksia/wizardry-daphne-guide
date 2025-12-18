@@ -215,6 +215,7 @@ Moonlit Pool of the White Daemon,Active,,"Moderate water-type physical attack on
 MORLIS,Debuff,,Generates an acidic mist over a wide area with a chance of reducing the Defense Power of 1 enemy row for 3 turns.,Probability increased while Defense Power decreased incrementally based on skill level. More turns added.,24,Mage,,,
 Mudd's Caution,Passive,,Continuously increases Detect.,Detect increased further based on skill level.,,,,Bondmate,
 Mutual Interests,Passive,,Increases damage to enemies for user and allies in front of or behind them if the ally is evil.,,,,,Milana,
+Mysta Energy Manipulation,Passive,,"Increases Magic Power when equipped with a yoto.","Magic Power increased further based on skill level.",70,Samurai,Samurai-specific,,
 Nameless Loyalty,Passive,,Increases Tolerance of Sleep and Stun for user and all adjacent good allies.,,,,,Eldorado,
 Natural Combatant,Discipline,,"Continuously increases each stat, Evasion greatly increased in particular.",Evasion increased further based on skill level.,,,,Savia,
 Ninja Dual Wield,Passive,,"When equipped with a dagger, a dagger can be equipped in the left hand. When equipped with a throwing weapon, a throwing weapon can be equipped in the left hand. When using Ninja Dual Wield, Evasion and Action Speed are reduced.","Damage reduction rate is reduced when attacking with the left hand, based on skill level. The rate of left-hand Attack Power added to right-hand Attack Power when using attack skills is increased.",25,Ninja,Ninja-specific,,
