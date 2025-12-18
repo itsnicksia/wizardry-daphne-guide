@@ -303,6 +303,7 @@ Secret Art of LAFOROS,Damage,,Can use LAFOROS once during the battle when placed
 Self-Defense,Active,True,Greatly increases own Defense Power and Magic Defense for 3 turns.,Defense Power and Magic Defense incrementally increased further based on skill level. More turns added.,27,Knight,,,Clarissa
 Self-Healing,Active,True,Continuously restores own minor HP for 3 turns.,Recovery amount increased based on skill level.,6,Knight,,Clarissa,
 Shadowy Alignment,Passive,,Increases Evasion when equipped with a dagger or throwing weapon.,,,,,Kiriha,
+"Shedding Armor, Flashing Blade",Active,,"Greatly increases own Action Speed, Evasion, and Surety rate for 5 turns.  Defense Power and Magic Defense gained from equipment becomes 0.","Own Action Speed, Evasion, and Surety rate further increased based on skill level.",67,Ninja,,,
 Sidestep,Passive,,Increases Evasion when equipped with cloth.,,,,,Viviana,
 Sir Jack's Mettle,Bondmate,,Continuously increases HP.,HP increased further based on skill level.,,,,Bondmate,
 Skull Study,Passive,,Continuously reduces the MP/SP cost of Thief spells/skills that cost 3-10 MP/SP.,,,,,Debra,
