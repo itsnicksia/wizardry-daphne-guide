@@ -62,7 +62,9 @@ Blacksmithing becomes available early in the game after your party enters the fi
 </div>
 ### ^^Enhancement Values^^
 
-**These values may be inaccurate, and should be treated as estimates.**
+!!! note "Silver gear appears to provide larger blessings than those shown below. Data is being collected and we will update the information below when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
+
+**These values are estimates.**
 <div class="nofilter-table nosort-table narrow-table" markdown>
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
