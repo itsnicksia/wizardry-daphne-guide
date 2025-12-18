@@ -23,8 +23,7 @@
 **Personality**: {{ chardata['Personality'] }}  
 **Starting Class**: {{ chardata['Primary Class'] }}  
 **Class Change**: {%if chardata['Secondary Class'] %}{{ chardata['Secondary Class'] }}{% else %}None{% endif %}  
-{%if False %}**Alternate Style**: {{ chardata['Secondary Class'] }}{% endif %}  
-
+{%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
 
 ## Base Traits  
 <div class="nofilter-table nosort-table char-traits-table" markdown>
