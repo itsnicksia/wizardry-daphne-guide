@@ -50,12 +50,12 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Guiding Light | Bonus Mind Pearls<sup>†</sup> | Method to Obtain  |
 |:------------- | :-----: |:---------------------------- |
 | <span style="color: #FF0000">STR 1</span>   |    4   | Abyss 1: Obtained after unlocking the Cursed Wheel |
-| <span style="color: #FF0000">STR 2</span>   |       |Abyss 4:  |
+| <span style="color: #FF0000">STR 2</span>   |  3     |Abyss 4: Learn the tree stump reversal power on Route 5   |
 | <span style="color: DarkOrange">VIT 1</span>        |    4    | Abyss 1:  Complete the Beginning Abyss and save the King |
 | <span style="color: DarkOrange">VIT 2</span>        |  1  | Abyss 3:  Activate the Golem before the boss fight in Guarda Fortress Abyss |
 | <span style="color: LimeGreen">PIE</span>          |  4  | Abyss 2:  Beat Melgina for the first time, regardless of missing person request taken |
 | <span style="color: DodgerBlue">IQ 1</span>          |  4   | Abyss 2:  Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time. This must now be done on your second or later time defeating either Melgina or Octo. It cannot be obtained on your first attempt anymore. |
-| <span style="color: DodgerBlue">IQ 2</span>          |  3   | Abyss 4: |
+| <span style="color: DodgerBlue">IQ 2</span>          |  3   | Abyss 4: Beat the Greater Warped One a second time (no kids). |
 | <span style="color: cyan">SPEED</span>       |  4   | Abyss 2:  3rd District - Iron Gate Street. Complete the inspection on Guane territory (first time on any path). |
 | <span style="color: yellow">DEX 1</span>       | 4 | Abyss 2:  4th District - Boulevard. After solving the drowning water god statue trap, go back to town and something will have changed in the Well of the Mind |
 | <span style="color: yellow">DEX 2</span>       | 1 | Abyss 3:  Get the "Good" Ending in Guarda Fortress Abyss.  |
