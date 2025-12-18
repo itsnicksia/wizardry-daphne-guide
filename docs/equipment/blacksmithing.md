@@ -66,7 +66,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 <div class="nofilter-table nosort-table narrow-table" markdown>
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
-|     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~12 | 5~15 |
+|     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~10 | 5~15 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1   | 1   | 2-3 |  3   |  4   |
 |                 **ASPD, SUR**                 | 1   | 1~2 | 1~3 | 1~3  | 2~5  |
 |                   **ASPD%**                   | 1   | 1   | 2-3 |  3   |  4   |
