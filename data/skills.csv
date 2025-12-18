@@ -346,6 +346,7 @@ Unwavering Faith,Discipline,,Continuously increases each stat. Divine Power and 
 Unyielding Will to Fight,Passive,True,Chance to cheat death with 1 HP when taking fatal damage (affected by luck).,Probability increased based on skill level.,35,Knight,,,Eulalia
 Valiant Righteousness,Passive,,"<span style=""color: yellow"">Own Action Speed increased based on the number of one-handed swords and light armor equipped to self.</span> Increases damage to enemies for everyone in the user's row if it has only good or neutral allies.",,,,,Lanavaille,
 Vengeful Oath Conditioning,Discipline,,"Continuously increases each stat, with Attack Power and Accuracy increased even further.",Attack Power and Accuracy increased further based on skill level.,,,,Gillion,
+Vitality Jutsu,Passive,,"Continuously increases attack power as thr current HP percentage increases.","Attack Power increased further based on skill level.",61,Ninja,,,
 Voice Theft,Active,,"Marks an opponent, sealing away their voice, with a high chance of Spell-Binding 1 enemy for 2 turns.",Probability incrementally increased further based on skill level. More turns added.,22,Ninja,,,
 Warrior Princess of Resolution and Love,Discipline,,Continuously increases each stat. Defense Power and Confusion/Charm Tolerance increased further.,Defense Power and Confusion/Charm Tolerance increased further based on skill level.,,,,Lanavaille,
 Warrior's Battle Cry,Active,True,Increases own Attack Power and decreases Defense Power for 4 turns.,Attack Power increased further based on skill level.,8,Fighter,,Chloe,
