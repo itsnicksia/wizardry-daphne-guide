@@ -21,9 +21,9 @@
 **Gender**: {{ chardata['Gender'] }}  
 **Type**: {{ chardata['Type'] }}  
 **Personality**: {{ chardata['Personality'] }}  
-**Starting Class**: {{ chardata['Primary Class'] }}  
-**Class Change**: {%if chardata['Secondary Class'] %}{{ chardata['Secondary Class'] }}{% else %}None{% endif %}  
-{%if False %}**Alternate Style**: {{ chardata['Secondary Class'] }}{% endif %}  
+**Starting Class**: {{ chardata['Primary Class'] }} {%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
+{%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
+dary Class'] }}{% endif %}  
 
 
 ## Base Traits  
