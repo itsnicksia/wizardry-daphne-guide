@@ -60,19 +60,43 @@ Blacksmithing becomes available early in the game after your party enters the fi
 | Fine Grade<br>(gold) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   1   |   2   |   3   |   4   |   5   |   0   |    15   |
 | Sliver Grade<br>(silver) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
 </div>
-### ^^Enhancement Values^^
 
-!!! note "Silver gear appears to provide larger blessings than those shown below. Data is being collected and we will update the information below when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
+### ^^Enhancement Values^^  
+As mentioned above, gear of different Grades can be found that already have from 1 to 4 Blessings applied to them.  Blessings are also added or increased in value on enhancement. Below are tables **estimating** the range of gear stat increases from blessings based on the Quality of the item.
 
 **These values are estimates.**
+
+#### Worn-through-Ebonsteel Gear
+
 <div class="nofilter-table nosort-table narrow-table" markdown>
+|   BASE (as found) STAT                              |  1★ |  2★ | 3 ★ |  4★ |  5★ |
+|:---------------------------------------------------:|:---:|:---:|:---:|:----:|:-----:|
+| **ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES**         | 2-3 | 3~5 | 5~7 | 8~10 | 11~13 |
+| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%** | 1-3 | 3-6 | 5-9 | 9-13 | 12-16 |
+|                 **ASPD**                            | 1-2 | 2-4 | 4-6 | 6-8  | 10    |
+|                 **SUR**                             | 1-2 | 2-3 | 3-4 | 4-5  | 5-6   |
+|                 **ASPD%**                           | 1-2 | 2-4 | 4-6 |  6-9 |  ?    |
+
+|   ENHANCEMENT STAT INCREASE                         |  1★ |  2★ | 3 ★ |  4★ |  5★ |
+|:---------------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
+|     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES**     | 1~2 | 2~6 | 2~8 | 3~10 | 5~12 |
+| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%** | ?   | ?   | 2-3 |  3   |  4?  |
+|                 **ASPD**                            | ?   | 1-2 | 1~3 | 1~4  | ?    |
+|                 **SUR**                             | 1   | 1   | 1~2 | 1~3  | 5?   |
+|                 **ASPD%**                           | ?   | ?   | ? |   3   |  ?    |
+</div>
+
+<!-- PREVIOUS TABLE
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~10 | 5~15 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1   | 1   | 2-3 |  3   |  4   |
 |                 **ASPD, SUR**                 | 1   | 1~2 | 1~3 | 1~3  | 2~5  |
 |                   **ASPD%**                   | 1   | 1   | 2-3 |  3   |  4   |
-</div>
+-->
+
+#### Silver Gear  
+!!! note "Silver gear appears to provide larger blessings than those shown above. Data is being collected and we will add information when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
 
 ## ^^Enhancement Inheritance^^
 
