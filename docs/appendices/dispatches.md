@@ -2,8 +2,8 @@
 
 ## The Beginning Abyss
 
-| Dispatch Name                              | Reward       | Stars | Level | Duration | Dispatch Conditions                     | Wheel Availability |
-| ------------------------------------------ | ------------ | ----- | ----- | -------- | --------------------------------------- | ------------------ |
+| Dispatch Name                              | Reward       | ★    | Level | Duration | Dispatch Conditions                     | Wheel Availability |
+| ------------------------------------------ | ------------ |:----:|:-----:|:--------:| --------------------------------------- | ------------------ |
 | Beginning Abyss B1F Exploration            | Junk         | 1     | 1     | 4 hours  | 1 person                                |                    |
 | Beginning Abyss B1F Treasure Hunt          | Gold         | 2     | 3     | 6 hours  | 2 people                                |                    |
 | Red Spinner Woman Search                   | Exp          | 1     | 1     | 6 hours  | 1 person                                |                    |
@@ -17,8 +17,8 @@
 
 ## Port Town Grand Legion
 
-| Dispatch Name                                                  | Reward       | Stars | Level | Duration | Dispatch Conditions              | Wheel Availability |
-| -------------------------------------------------------------- | ------------ | ----- | ----- | -------- | -------------------------------- | ------------------ |
+| Dispatch Name                                                  | Reward       | ★   | Level | Duration | Dispatch Conditions              | Wheel Availability |
+| -------------------------------------------------------------- | ------------ |:---:|:-----:|:--------:|-------------------------------- | ------------------ |
 | Trade Waterway: Back Alley Investigation                       | Junk         | 2     | 26    | 12 hours | None                             |                    |
 | Trade Waterway: Missing Person Search Through Iron Gate Street | Junk and Exp | 3     | 28    | 20 hours | None                             |                    |
 | Trade Waterway: 6th District Cargo Reception                   | Junk and Exp | 4     | 30    | 20 hours | No mages, 1 or more knights      |                    |
@@ -28,8 +28,8 @@
 
 ## Guarda Fortress
 
-| Dispatch Name                              | Reward       | Stars | Level | Duration | Dispatch Conditions              | Wheel Availability                          |
-| ------------------------------------------ | ------------ | ----- | ----- | -------- | -------------------------------- | ------------------------------------------- |
+| Dispatch Name                              | Reward       | ★     | Level | Duration | Dispatch Conditions              | Wheel Availability                          |
+| ------------------------------------------ | ------------ |:-----:|:-----:|:--------:|----------------------------------| ------------------------------------------- |
 | Monster Eradication at the Garrison        | Junk         | 2     | 33    | 12 hours | None                             | Secret Passage Minor Harken                 |
 | Top-Secret Exploration Escort              | Junk and Exp | 3     | 36    | 20 hours | None                             | Secret Path Keeper Vanquished               |
 | Martial Training in the Secret Depths      | Exp          | 2     | 27    | 12 hours | 2 people                         | Fortress Basement Arrival                   |
@@ -37,10 +37,22 @@
 | Operation to Reclaim the Fortress Basement | Junk and Exp | 4     | 40    | 20 hours | Evil or neutral only             | Ghosts of Yore Vanquished                   |
 | Fortress Investigation                     | Junk and Exp | 5     | 44    | 20 hours | Good or neutral only, No knights | Triumphant Return and Unlock Zone 10 Harken |
 
+## Isberg 
+
+!warning "This section is currently under construction. There may be additonal dispatches available."
+
+| Dispatch Name                              | Reward       |  ★  | Level | Duration | Dispatch Conditions           | Wheel Availability                     |
+| ------------------------------------------ | ------------ |:---:|:-----:|:--------:|-------------------------------| ----------------------------- |
+| Winterface Settlement Perimeter Patrol     | Junk         |  3  |   55  | 12 hours | None                          | Snowy Forest Minor Harken     |
+| Snow Beastman Repellent Installation       | Exp          |  2  |   60  | 12 hours | 2 people                      | Village Shutaway in Silence   |
+| Errand to Rockhome Village                 | Gold         |  3  |   62  | 20 hours | 3 people, 3 fire-type         | Rockhome Village Major Harken |
+| Wolf Territory Investigation               | Junk and Exp |  4  |   65  | 20 hours | 3 humans, 3 beastfolk         | Slaying the White Wolves      |
+| Church Vicinity Monster Extermination      | Junk and Exp |  4  |   67  | 20 hours | None                          | Truth of the Beautiful Ore    |
+
 ## Event Specific Dispatches
 
-| Dispatch Name                        | Reward         | Stars | Level | Duration | Dispatch Conditions | Availability                                         |
-| ------------------------------------ | -------------- | ----- | ----- | -------- | ------------------- | ---------------------------------------------------- |
+| Dispatch Name                        | Reward         | ★     | Level | Duration | Dispatch Conditions | Availability                                         |
+| ------------------------------------ | -------------- |:-----:|:-----:|:--------:| ------------------- | ---------------------------------------------------- |
 | Den of Earth B1F Exploration         | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once during event period |
 | Den of Fire B1F Exploration          | Ore            | 2     | 28    | 12 hours | 6 people            | Must complete Fire Den B1F once during event period  |
 | Den of Wind B1F Exploration          | Ore            | 3     | 36    | 16 hours | 6 people            | Must complete Wind Den B1F once during event period  |
