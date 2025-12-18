@@ -2,22 +2,22 @@
 
 ## The Beginning Abyss
 
-| Dispatch Name                              | Reward       | ★    | Level | Duration | Dispatch Conditions                     | Wheel Availability |
-| ------------------------------------------ | ------------ |:----:|:-----:|:--------:| --------------------------------------- | ------------------ |
-| Beginning Abyss B1F Exploration            | Junk         | 1     | 1     | 4 hours  | 1 person                                |                    |
-| Beginning Abyss B1F Treasure Hunt          | Gold         | 2     | 3     | 6 hours  | 2 people                                |                    |
-| Red Spinner Woman Search                   | Exp          | 1     | 1     | 6 hours  | 1 person                                |                    |
-| Beginning Abyss Upper Floor Exploration    | Junk         | 2     | 7     | 8 hours  | 3 or fewer people                       |                    |
-| Beginning Abyss B4F Junk Search            | Junk         | 2     | 9     | 12 hours | 3 or fewer people                       |                    |
-| Beginning Abyss Middle Floor Delve         | Junk and Exp | 3     | 11    | 20 hours | 4 people, 1 or more priests             |                    |
-| Beginning B5F Easy Leveling?!              | Exp          | 2     | 10    | 6 hours  | 2 people                                |                    |
-| Beginning Abyss Lower Floor Exploration    | Junk         | 2     | 13    | 8 hours  | 4 or fewer people                       |                    |
-| Beginning Abyss Undead Extermination       | Gold and Exp | 4     | 20    | 12 hours | 3 or fewer people, good or neutral only |                    |
-| Beginning Abyss Deepest Floor Surveillance | Junk and Exp | 3     | 17    | 20 hours | None                                    |                    |
+| Dispatch Name                               | Reward       | ★ Rating    | &nbsp;Level | Duration | Dispatch Conditions                     | Wheel Availability |
+| ------------------------------------------  | ------------ |:----:|:-----:|:--------:| --------------------------------------- | ------------------ |
+| Beginning Abyss B1F Exploration             | Junk         | 1     | 1     | 4 hours  | 1 person                                |                    |
+| Beginning Abyss B1F Treasure Hunt           | Gold         | 2     | 3     | 6 hours  | 2 people                                |                    |
+| Red Spinner Woman Search                    | Exp          | 1     | 1     | 6 hours  | 1 person                                |                    |
+| Beginning Abyss Upper Floor Exploration     | Junk         | 2     | 7     | 8 hours  | 3 or fewer people                       |                    |
+| Beginning Abyss B4F Junk Search             | Junk         | 2     | 9     | 12 hours | 3 or fewer people                       |                    |
+| Beginning Abyss Middle Floor Delve          | Junk and Exp | 3     | 11    | 20 hours | 4 people, 1 or more priests             |                    |
+| Beginning B5F Easy Leveling?!               | Exp          | 2     | 10    | 6 hours  | 2 people                                |                    |
+| Beginning Abyss Lower Floor Exploration     | Junk         | 2     | 13    | 8 hours  | 4 or fewer people                       |                    |
+| Beginning Abyss Undead Extermination        | Gold and Exp | 4     | 20    | 12 hours | 3 or fewer people, good or neutral only |                    |
+| Beginning Abyss Deepest Floor Surveillance  | Junk and Exp | 3     | 17    | 20 hours | None                                    |                    |
 
 ## Port Town Grand Legion
 
-| Dispatch Name                                                  | Reward       | ★   | Level | Duration | Dispatch Conditions              | Wheel Availability |
+| Dispatch Name                                                  | Reward       | ★ Rating  | Level | Duration | Dispatch Conditions              | Wheel Availability |
 | -------------------------------------------------------------- | ------------ |:---:|:-----:|:--------:|-------------------------------- | ------------------ |
 | Trade Waterway: Back Alley Investigation                       | Junk         | 2     | 26    | 12 hours | None                             |                    |
 | Trade Waterway: Missing Person Search Through Iron Gate Street | Junk and Exp | 3     | 28    | 20 hours | None                             |                    |
@@ -28,7 +28,7 @@
 
 ## Guarda Fortress
 
-| Dispatch Name                              | Reward       | ★     | Level | Duration | Dispatch Conditions              | Wheel Availability                          |
+| Dispatch Name                              | Reward       | ★ Rating    | Level | Duration | Dispatch Conditions              | Wheel Availability                          |
 | ------------------------------------------ | ------------ |:-----:|:-----:|:--------:|----------------------------------| ------------------------------------------- |
 | Monster Eradication at the Garrison        | Junk         | 2     | 33    | 12 hours | None                             | Secret Passage Minor Harken                 |
 | Top-Secret Exploration Escort              | Junk and Exp | 3     | 36    | 20 hours | None                             | Secret Path Keeper Vanquished               |
@@ -39,9 +39,9 @@
 
 ## Isberg 
 
-!warning "This section is currently under construction. There may be additonal dispatches available."
+!!! warning "This section is currently under construction. There may be additonal dispatches available."
 
-| Dispatch Name                              | Reward       |  ★  | Level | Duration | Dispatch Conditions           | Wheel Availability                     |
+| Dispatch Name                              | Reward       |  ★ Rating  | Level | Duration | Dispatch Conditions           | Wheel Availability                     |
 | ------------------------------------------ | ------------ |:---:|:-----:|:--------:|-------------------------------| ----------------------------- |
 | Winterface Settlement Perimeter Patrol     | Junk         |  3  |   55  | 12 hours | None                          | Snowy Forest Minor Harken     |
 | Snow Beastman Repellent Installation       | Exp          |  2  |   60  | 12 hours | 2 people                      | Village Shutaway in Silence   |
@@ -51,7 +51,7 @@
 
 ## Event Specific Dispatches
 
-| Dispatch Name                        | Reward         | ★     | Level | Duration | Dispatch Conditions | Availability                                         |
+| Dispatch Name                        | Reward         | ★ Rating    | Level | Duration | Dispatch Conditions | Availability                                         |
 | ------------------------------------ | -------------- |:-----:|:-----:|:--------:| ------------------- | ---------------------------------------------------- |
 | Den of Earth B1F Exploration         | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once during event period |
 | Den of Fire B1F Exploration          | Ore            | 2     | 28    | 12 hours | 6 people            | Must complete Fire Den B1F once during event period  |
