@@ -38,7 +38,7 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
    
     ### Arena Round 2
 
-    1. This is a normal fight that depends on talking to Bonnie and Clyde in 7th District - Pier.  If you haven't talked to them yet, you will face a group of not-too-difficult Warped Ones. If you have, who you fight will depend on where you are in your progress with their story.  
+    1. This is a normal fight that depends on talking to Bonnie and Clyde in 7th District - Pier.  If you haven't talked to them yet, you will face a group of not-too-difficult Warped Ones. If you have, who you fight will depend on where you are in your progress with their story.  At this point you can move on, the additional steps below are optional.  
         a. Changing this fight involves wheeling back in time to where B&C appear at the Pier (Arena 1 or earlier) then progressing through several changes to their dialog. You will need to wheel back to and refight Arena 1 for the dialog change to register for the Abyss 2 fight.  
         b. The first time you talk to them, you will choose one to encourage. You will fight whichever of them you chose and then gain knowledge from them about why the other died. To complete their story you'll want to encourage each once.   
         c. After learning why they died, you will be able to, one at a time, take requests from them to [get Clyde a better sword](./requests.md#pirates-cutlass-delivery) and [get Bonnie some chain mail](./requests.md#steel-wire-delivery) so they (individually) survive. You will then again face each one again (slightly buffed) in the Arena.  
