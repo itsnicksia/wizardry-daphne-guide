@@ -7,8 +7,9 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/4u6ZLLGSGf0?si=MH9-7KHUASNoN83h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-## How to participate:
-You need to have progressed in the story until you have reached B7 in the Beginning Abyss on the second time around.
+## How to enable
+
+The event will be enabled when one has reached Level B7 of the Beginning Abyss on the second run through.
 
 ## Guide:
 1. On the entrance to the cave there’s an altar in which you can select 3 difficulty modes: Trial of Simplicity, Moderation and Impossible. Each difficulty increases the monster levels and rewards.   
