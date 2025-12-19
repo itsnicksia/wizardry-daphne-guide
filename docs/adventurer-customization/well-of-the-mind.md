@@ -50,15 +50,15 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Guiding Light | Bonus Mind Pearls<sup>†</sup> | Method to Obtain  |
 |:------------- | :-----: |:---------------------------- |
 | <span style="color: #FF0000">STR 1</span>   |    4   | Abyss 1: Obtained after unlocking the Cursed Wheel |
-| <span style="color: #FF0000">STR 2</span>   |  3     |Abyss 4: Learn the tree stump reversal power on Route 5   |
+| <span style="color: #FF0000">STR 2</span>   |  3     |Abyss 4: Learn the first reversal power during the chase sequence in Route 5   |
 | <span style="color: DarkOrange">VIT 1</span>        |    4    | Abyss 1:  Complete the Beginning Abyss and save the King |
 | <span style="color: DarkOrange">VIT 2</span>        |  1  | Abyss 3:  Activate the Golem before the boss fight in Guarda Fortress Abyss |
 | <span style="color: LimeGreen">PIE</span>          |  4  | Abyss 2:  Beat Melgina for the first time, regardless of missing person request taken |
-| <span style="color: DodgerBlue">IQ 1</span>          |  4   | Abyss 2:  Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time. This must now be done on your second or later time defeating either Melgina or Octo. It cannot be obtained on your first attempt anymore. |
-| <span style="color: DodgerBlue">IQ 2</span>          |  3   | Abyss 4: Beat the Greater Warped One a second time (no kids). |
-| <span style="color: cyan">SPEED</span>       |  4   | Abyss 2:  3rd District - Iron Gate Street. Complete the inspection on Guane territory (first time on any path). |
+| <span style="color: DodgerBlue">IQ 1</span>          |  4   | Abyss 2:  Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time. This must now be done on your second or later time defeating either Melgina or Octo. It cannot be obtained on your first attempt anymore |
+| <span style="color: DodgerBlue">IQ 2</span>          |  3   | Abyss 4: Beat the Greater Warped One a second time (requires fixing the cabin) |
+| <span style="color: cyan">SPEED</span>       |  4   | Abyss 2:  3rd District - Iron Gate Street. Complete the inspection on Guane territory (first time on any path) |
 | <span style="color: yellow">DEX 1</span>       | 4 | Abyss 2:  4th District - Boulevard. After solving the drowning water god statue trap, go back to town and something will have changed in the Well of the Mind |
-| <span style="color: yellow">DEX 2</span>       | 1 | Abyss 3:  Get the "Good" Ending in Guarda Fortress Abyss.  |
+| <span style="color: yellow">DEX 2</span>       | 1 | Abyss 3:  Get the "Good" Ending in Guarda Fortress Abyss  |
 | <span style="color: #877698">SHADOW</span>      | 1 | Abyss 3:  Complete the 2nd Part of the [Plot of the Sand Shadow Quest](../events/plot-of-the-sand-shadow/plot-of-the-sand-shadow.md#guide-for-2nd-part)  |
 | <span style="color: MediumOrchid">LUCK 1</span>  |   1   | Abyss 1:  Get the perfect ending (+Albano quest) in Beginning Abyss  |
 | <span style="color: MediumOrchid">LUCK 2</span>  |   1   | Abyss 2:  Save [Bonnie and Clyde](../abyss-guides/2-port-town-grand-legion/requests.md#delivering-chamomile-for-the-dead) |
@@ -68,6 +68,9 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: MediumOrchid">LUCK 6</span>  |   1   | Abyss 2:  Clear the Monster Soup quest for Pickerel |
 | <span style="color: MediumOrchid">LUCK 7</span>  |   1   | Abyss 3:  [Stop the Mastermind and Save the Duke](../abyss-guides/3-guarda-fortress/important-request-gwo.md#stop-the-mastermind-and-save-the-duke) ending in Guarda Fortress Abyss |
 | <span style="color: MediumOrchid">LUCK 8</span>  |   1   | Abyss 3:  Get the perfect ending for all three [Slum Faction Requests](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests) |
+| <span style="color: MediumOrchid">LUCK 9</span> |   1   | Abyss 4: Get the best ending on Princess faction quest (Mystic > Accuse the child)  |
+
+
 
 <sup>†</sup> <small>You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 39 Mind Pearls. (updated Dec 5, 2025)</small>
 
