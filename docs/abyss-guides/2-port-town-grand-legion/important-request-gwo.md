@@ -44,7 +44,7 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
         - After learning why they died, you will be able to, one at a time, take requests from them to [get Clyde a better sword](./requests.md#pirates-cutlass-delivery) and [get Bonnie some chain mail](./requests.md#steel-wire-delivery) so they (individually) survive. You will then again face each one again (slightly buffed) in the Arena.  
         - After attempting to save each with equipment, you can again try to [equip both with Arena survival gear](./requests.md#battle-item-set-delivery), after which you will face them both. **Warning, after defeating them they attempt the Butch gunpowder technique to take you all out in a damaging explosion.**  
         - Last, after learning they both die no matter what, you can try to [convince them to leave town](./requests.md#delivering-chamomile-for-the-dead). If you succeed, they both live and you again fight a group not-too-difficult Warped Ones.  
-        - The Bonnie and Clyde side-story is optional but later after returning to town you will learn of their fate and gain an Achievement and a Luck Lamp for the Well of the Mind.  
+        - After returning to town you will learn of their fate and gain an Achievement and a Luck Lamp for the Well of the Mind.  
     2. After the fight, when asking about Round 3, the missing person you are looking for is blown up in a fight with Butch.  
     3. See below for additional steps (Saving the Missing Person and Not Being Murdered)  
 
