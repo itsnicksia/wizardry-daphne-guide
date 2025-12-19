@@ -11,10 +11,10 @@
     **Abyss Guides**
 
     - [Introduction](./abyss-guides/0-introduction/index.md)
-    - [Beginning Abyss](./abyss-guides/1-beginning-abyss/important-request-gwo.md)
-    - [Port Town Legion](./abyss-guides/2-port-town-grand-legion/important-request-gwo.md)
-    - [Guarda Fortress](./abyss-guides/3-guarda-fortress/important-request-gwo.md)
-    - [Isberg](./abyss-guides/4-isberg/important-request-gwo.md)
+    - Beginning Abyss: [Maps](./abyss-guides/1-beginning-abyss/maps.md), [Main Quest Guide](./abyss-guides/1-beginning-abyss/important-request-gwo.md)
+    - Port Town Legion: [Maps](./abyss-guides/2-port-town-grand-legion/maps.md), [Main Quest Guide](./abyss-guides/2-port-town-grand-legion/important-request-gwo.md)
+    - Guarda Fortress: [Maps](./abyss-guides/3-guarda-fortress/maps.md), [Main Quest Guide](./abyss-guides/3-guarda-fortress/important-request-gwo.md)
+    - Isberg: [Maps](./abyss-guides/4-isberg/maps.md), [Main Quest Guide](./abyss-guides/4-isberg/important-request-gwo.md)
 
 
 -   __How Do I Get Stronger?__
