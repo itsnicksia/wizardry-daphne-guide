@@ -2,7 +2,7 @@
 
 ## Mechanics
 
-- Recommended Level: 30
+- Recommended Level: 30+
 - Recommended Element: Earth
 
 ### Water Statues
