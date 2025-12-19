@@ -14,6 +14,7 @@
     - [Beginning Abyss](./abyss-guides/1-beginning-abyss/important-request-gwo.md)
     - [Port Town Legion](./abyss-guides/2-port-town-grand-legion/important-request-gwo.md)
     - [Guarda Fortress](./abyss-guides/3-guarda-fortress/important-request-gwo.md)
+    - [Isberg](./abyss-guides/4-isberg/important-request-gwo.md)
 
 
 -   __How Do I Get Stronger?__
