@@ -9,8 +9,8 @@
 
 ### Bounty Rank Unlock Conditions
 
-| Bounty Rank | Unlock Conditions|
-|:-:|:-|
+| Bounty Rank | Unlock Conditions |
+|:--:|:--|
 | 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
 | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
