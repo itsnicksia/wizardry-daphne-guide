@@ -29,12 +29,7 @@
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)
     - [Relicbrew](./adventurer-customization/relicbrew.md)
     - [Class Change](./adventurer-customization/class-changes.md)
--   __Raising Trust__
-
-    ---
-
-    - [Trust Guide](./mechanics/trust/trust.md)
-    - [Trust Dialogue](./mechanics/trust/table.md)
+    - **Raising Trust** - [Trust Guide](./mechanics/trust/trust.md), [Trust Dialogue Chart](./mechanics/trust/table.md)
 
 -   __Tools__
 
