@@ -68,8 +68,8 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: MediumOrchid">LUCK 6</span>  |   1   | Abyss 2:  Clear the Monster Soup quest for Pickerel |
 | <span style="color: MediumOrchid">LUCK 7</span>  |   1   | Abyss 3:  [Stop the Mastermind and Save the Duke](../abyss-guides/3-guarda-fortress/important-request-gwo.md#stop-the-mastermind-and-save-the-duke) ending in Guarda Fortress Abyss |
 | <span style="color: MediumOrchid">LUCK 8</span>  |   1   | Abyss 3:  Get the perfect ending for all three [Slum Faction Requests](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests) |
-| <span style="color: MediumOrchid">LUCK 9</span> |   1   | Abyss 4: Get the best ending on one faction quest  |
-| <span style="color: MediumOrchid">LUCK 10</span> |   1   | Abyss 4: Complete all three faction quests?  |
+| <span style="color: MediumOrchid">LUCK 9</span> |   1   | Abyss 4: Get the best ending on any (?) one faction quest (verification pending)  |
+| <span style="color: MediumOrchid">LUCK 10</span> |   1   | Abyss 4: Complete all three (?) faction quests  (verification pending) |
 
 
 <sup>†</sup> <small>You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 39 Mind Pearls. (updated Dec 5, 2025)</small>
