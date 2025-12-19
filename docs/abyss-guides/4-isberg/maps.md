@@ -111,3 +111,7 @@
 ??? map "Dwarves Cave"
 
     ![](./img/dwarves-cave.png)
+
+??? map "Herbalist Shrine B1F"
+
+    ![](./img/herbalist-shrine-b1f.png)
