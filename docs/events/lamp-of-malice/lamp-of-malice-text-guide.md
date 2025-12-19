@@ -1,6 +1,6 @@
 # Lamp of Malice
 
-!!! item "This event is now permanently available!"
+!!! item "This event is now permanent."
 
 ??? note "Video Tutorial"
     <div align="center">
