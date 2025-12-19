@@ -1,6 +1,8 @@
 # The Beginning Abyss - Requests  
 !!! note "Key locations can change due to some maps having variable layouts. See [Map Variations page](../../mechanics/map-variations.md) for details. "
 
+!!! note "The Requests on this page are listed in order of the Cursed Wheel point needed to 'reset' the request, not necessarily the order in which they will be activated or completed.  Note that many of the requests *cannot* be fully completed the first time progressin through the Beginning Abyss."
+
 ## Fresh Start
 
 ### Sweet Walnut Delivery
