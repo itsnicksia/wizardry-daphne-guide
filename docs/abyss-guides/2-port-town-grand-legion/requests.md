@@ -1,6 +1,8 @@
 # Port Town Grand Legion - Requests  
 !!! note "Key locations can change due to some maps having variable layouts. See [Map Variations page](../../mechanics/map-variations.md) for details. "
 
+!!! note "The Requests on this page are listed in order of the Cursed Wheel point needed to 'reset' the request, not necessarily the order in which they will be activated or completed."
+
 ## Watery Obstacle
 
 ### Defend My Shop from Goblins
