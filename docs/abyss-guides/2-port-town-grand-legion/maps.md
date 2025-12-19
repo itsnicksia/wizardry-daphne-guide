@@ -1,6 +1,6 @@
 # The Trade Waterways
 ## Overview
-
+The Trade Waterways are actually the western district of Port Town that has been overrun by monsters while the resident are suffering from some mysterious amnesia. Your overall goal is not to solve these problems, but actually to seek out a Missing Persion at the request of one of the world's main Political factions. (Abyss progress is fairly identical for al three factions.) In seeking this person you will progress through the 6 districts of the Trade Waterways, learning of some Arena attracting challengers. Making your way to the Pier at the water's edge, you will discover a large Ship housing this Arena on its deck, where upon you will find both the Missing Person and the influence of a Greater Warped One. Battling and manipulating your way through the Arena and bringing back the Missing Person are key to surviving this Abyss.
 
 ## Abyss notes:
 ??? note "Some tips for this Abyss before starting"
