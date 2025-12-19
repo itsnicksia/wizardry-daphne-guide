@@ -115,7 +115,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,1H_Axe!A2,1H_Axe,3,Worn-Out One-Handed Axe,Worn,1,,21,11,0,0,0,0,0,6,0,0,0,17,0,0,0,0,0,6,0,0,0,23,0,0,0,0,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,Defense Penetration
 8,1H_Axe!A8,1H_Axe,14,Bronze One-Handed Axe,Bronze,1,525,84,26,0,0,0,0,0,6,0,0,0,35,0,0,0,0,0,6,0,0,0,43,0,0,0,0,0,6,0,0,0,52,0,0,0,0,0,6,0,0,0,,,,,,,,,,,Defense Penetration
 14,1H_Axe!A14,1H_Axe,58,One-Handed Axe of Undead Bane,Bronze,1,,105,28,0,0,0,0,0,6,0,0,0,37,0,0,0,0,0,6,0,0,0,45,0,0,0,0,0,6,0,0,0,54,0,0,0,0,0,0,0,0,0,,,,,,,,,,,"Defense Penetration, Vs Undead"
-20,1H_Axe!A20,1H_Axe,25,Iron One-Handed Axe,Iron,1,1575,252,41,0,0,0,0,0,6,0,0,0,52,0,0,0,0,0,6,0,0,0,63,0,0,0,0,0,6,0,0,0,74,0,0,0,0,0,6,0,0,0,,,,,,,,,,,Defense Penetration
+20,1H_Axe!A20,1H_Axe,25,Iron One-Handed Axe,Iron,1,1575,252,41,0,0,0,0,0,6,0,0,0,52,0,0,0,0,0,6,0,0,0,63,0,0,0,0,0,6,0,0,0,74,0,0,0,0,0,6,0,0,0,86,0,0,0,0,0,6,0,0,0,Defense Penetration
 26,1H_Axe!A26,1H_Axe,36,Steel One-Handed Axe,Steel,1,,504,56,0,0,0,0,0,6,0,0,0,70,0,0,0,0,0,6,0,0,0,83,0,0,0,0,0,6,0,0,0,97,0,0,0,0,0,6,0,0,0,111,0,0,0,0,0,6,0,0,0,Defense Penetration
 32,1H_Axe!A32,1H_Axe,113,Light Axe of Flame,Steel,1,,630,52,0,0,0,0,0,6,0,0,0,66,0,0,0,0,0,6,0,0,0,79,0,0,0,0,0,6,0,0,0,93,0,0,0,0,0,6,0,0,0,107,0,0,0,0,0,6,0,0,0,"Defense Penetration, Fire Type"
 38,1H_Axe!A38,1H_Axe,123,Light Axe of the Water Drop,Steel,1,,630,52,0,0,0,0,0,6,0,0,0,66,0,0,0,0,0,6,0,0,0,79,0,0,0,0,0,6,0,0,0,93,0,0,0,0,0,6,0,0,0,107,0,0,0,0,0,6,0,0,0,"Defense Penetration, Water Type"
@@ -168,7 +168,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 8,1H_Mace!A8,1H_Mace,15,Bronze Mace,Bronze,1,475,76,24,0,0,0,0,0,4,-4,2,0,33,0,0,0,0,0,4,-4,2,0,41,0,0,0,0,0,4,-4,2,0,50,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,"Inflict Stun, Evasion Damage"
 14,1H_Mace!A14,1H_Mace,59,Mace of Undead Bane,Bronze,1,,95,26,0,0,0,0,0,4,-4,2,0,35,0,0,0,0,0,4,-4,2,0,43,0,0,0,0,0,4,-4,2,0,52,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Vs Undead"
 20,1H_Mace!A20,1H_Mace,67,Mace of Agony,Bronze,1,,95,28,-10,-10,0,0,0,4,-4,2,-10,37,-10,-10,0,0,0,4,-4,2,-10,45,-10,-10,0,0,0,4,-4,2,-10,54,-10,-10,0,0,0,4,-4,2,-10,,,,,,,,,,,"Inflict Stun, Evasion Damage"
-26,1H_Mace!A26,1H_Mace,26,Iron Mace,Iron,1,1425,228,38,0,0,0,0,0,4,-4,2,0,49,0,0,0,0,0,4,-4,2,0,60,0,0,0,0,0,4,-4,2,0,71,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,"Inflict Stun, Evasion Damage"
+26,1H_Mace!A26,1H_Mace,26,Iron Mace,Iron,1,1425,228,38,0,0,0,0,0,4,-4,2,0,49,0,0,0,0,0,4,-4,2,0,60,0,0,0,0,0,4,-4,2,0,71,0,0,0,0,0,4,-4,2,0,83,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage"
 32,1H_Mace!A32,1H_Mace,37,Steel Mace,Steel,1,,456,51,0,0,0,0,0,4,-4,2,0,65,0,0,0,0,0,4,-4,2,0,78,0,0,0,0,0,4,-4,2,0,92,0,0,0,0,0,4,-4,2,0,106,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage"
 38,1H_Mace!A38,1H_Mace,114,Warmace of Flame,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Fire Type"
 44,1H_Mace!A44,1H_Mace,124,Warmace of the Water Drop,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Water Type"
@@ -220,7 +220,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 8,2H_Spear!A8,2H_Spear,17,Bronze Two-Handed Spear,Bronze,1,650,104,29,0,0,0,0,0,10,0,4,0,40,0,0,0,0,0,10,0,4,0,51,0,0,0,0,0,10,0,4,0,62,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
 14,2H_Spear!A14,2H_Spear,61,Two-Handed Spear of Undead Bane,Bronze,1,,130,32,0,0,0,0,0,10,0,4,0,43,0,0,0,0,0,10,0,4,0,54,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,,,,,,,,,,,"Strength-Based +, Vs Undead"
 20,2H_Spear!A20,2H_Spear,68,Halberd,Bronze,1,,130,33,0,0,0,0,0,10,0,4,0,44,0,0,0,0,0,10,0,4,0,55,0,0,0,0,0,10,0,4,0,66,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
-26,2H_Spear!A26,2H_Spear,28,Iron Two-Handed Spear,Iron,,1950,312,50,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,80,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,,,,,,,,,,,Strength-Based +
+26,2H_Spear!A26,2H_Spear,28,Iron Two-Handed Spear,Iron,,1950,312,50,0,0,0,0,0,10,0,4,0,65,0,0,0,0,0,10,0,4,0,80,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,110,0,0,0,0,0,10,0,4,0,Strength-Based +
 32,2H_Spear!A32,2H_Spear,39,Steel Two-Handed Spear,Steel,1,,624,63,0,0,0,0,0,10,0,4,0,81,0,0,0,0,0,10,0,4,0,99,0,0,0,0,0,10,0,4,0,118,0,0,0,0,0,10,0,4,0,138,0,0,0,0,0,10,0,4,0,Strength-Based +
 38,2H_Spear!A38,2H_Spear,83,Trident,Steel,1,19500,3900,65,0,0,0,0,0,10,10,4,0,83,0,0,0,0,0,10,12,4,0,101,0,0,0,0,0,10,13,4,0,120,0,0,0,0,0,10,14,4,0,140,0,0,0,0,0,10,15,4,0,Strength-Based +
 44,2H_Spear!A44,2H_Spear,116,Heavy Spear of Flame,Steel,1,,780,59,0,0,0,0,0,10,0,4,0,77,0,0,0,0,0,10,0,4,0,95,0,0,0,0,0,10,0,4,0,114,0,0,0,0,0,10,0,4,0,134,0,0,0,0,0,10,0,4,0,"Strength-Based +, Fire Type"
@@ -245,7 +245,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,1H_Staff!A2,1H_Staff,9,Worn-Out Staff,Worn,1,,14,8,3,3,0,0,0,0,0,2,0,14,9,9,0,0,0,0,0,2,0,20,15,15,0,0,0,0,0,2,0,26,21,21,0,0,0,0,0,2,0,,,,,,,,,,,
 8,1H_Staff!A8,1H_Staff,20,Hardwood Staff,Bronze,1,350,56,10,8,8,0,0,0,0,0,2,0,19,17,17,0,0,0,0,0,2,0,27,25,25,0,0,0,0,0,2,0,36,34,34,0,0,0,0,0,2,0,,,,,,,,,,,
 14,1H_Staff!A14,1H_Staff,66,Twisted Staff,Bronze,1,,70,10,8,8,0,0,0,0,0,2,0,19,17,17,0,0,0,0,0,2,0,27,25,25,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,
-20,1H_Staff!A20,1H_Staff,31,Old Wood Staff,Iron,1,1050,168,13,20,20,0,0,0,0,0,2,0,24,31,31,0,0,0,0,0,2,0,35,42,42,0,0,0,0,0,2,0,46,53,53,0,0,0,0,0,2,0,,,,,,,,,,,
+20,1H_Staff!A20,1H_Staff,31,Old Wood Staff,Iron,1,1050,168,13,20,20,0,0,0,0,0,2,0,24,31,31,0,0,0,0,0,2,0,35,42,42,0,0,0,0,0,2,0,46,53,53,0,0,0,0,0,2,0,58,65,65,0,0,0,0,0,2,0,
 26,1H_Staff!A26,1H_Staff,42,Sacred Wood Staff,Steel,1,,336,16,32,32,0,0,0,0,0,2,0,30,46,46,0,0,0,0,0,2,0,43,59,59,0,0,0,0,0,2,0,57,73,73,0,0,0,0,0,2,0,71,87,87,0,0,0,0,0,2,0,
 32,1H_Staff!A32,1H_Staff,80,Holy Staff of the Millenial Tree,Steel,1,10500,420,16,32,32,0,0,0,0,0,2,16,30,46,46,0,0,0,0,0,2,18,43,59,59,0,0,0,0,0,2,19,57,73,73,0,0,0,0,0,2,20,71,87,87,0,0,0,0,0,2,21,
 38,1H_Staff!A38,1H_Staff,53,Arcane Rod,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,
@@ -283,7 +283,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 74,2H_Staff!A74,2H_Staff,Ex.,Two-Handed Staff of Compassion,Ebonsteel,1,,,18,40,95,0,0,0,0,0,-4,0,41,63,118,0,0,0,0,0,-4,0,63,85,140,0,0,0,0,0,-4,0,86,108,163,0,0,0,0,0,-4,0,108,130,185,0,0,0,0,0,-4,0,"Strength-Based +, Holy Light of Healing"
 80,2H_Staff!A80,2H_Staff,Ex.,Two-Handed Staff of the Spirit Realm,Ebonsteel,1,,,18,104,50,0,0,0,0,0,-4,0,41,127,73,0,0,0,0,0,-4,0,63,149,95,0,0,0,0,0,-4,0,86,172,118,0,0,0,0,0,-4,0,108,194,140,0,0,0,0,0,-4,0,"Strength-Based +, Passive HP Up, Calamitous Rockfall Learned"
 86,2H_Staff!A86,2H_Staff,Ex.,Quicksilver Crosier,Ebonsteel,1,,,18,50,104,0,0,0,0,0,-4,0,41,73,127,0,0,0,0,0,-4,0,63,95,149,0,0,0,0,0,-4,0,86,118,172,0,0,0,0,0,-4,0,108,140,194,0,0,0,0,0,-4,0,"Strength-Based +, MP Absorption on Defeat"
-92,2H_Staff!A92,2H_Staff,Ex.,Staff of Splendor,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+92,2H_Staff!A92,2H_Staff,Ex.,Staff of Splendor,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,,,,,,,,,,,Strength-Based +
 98,2H_Staff!A98,2H_Staff,Ex.,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,135,212,200,0,0,0,0,0,-4,0,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit"
 104,2H_Staff!A104,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,2H_Staff!A110,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -317,7 +317,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 122,Bow!A122,Bow,,Beast Eraser,Silver,1,,,109,0,0,0,0,0,4,0,0,0,142,0,0,0,0,0,4,0,0,0,168,0,0,0,0,0,4,0,0,0,191,0,0,0,0,0,4,0,0,0,,,,,,,,,,,"Strength-Based +, Magical Beast-Slayer"
 128,Bow!A128,Bow,,Earthrend Bow,Silver,1,,,109,0,0,0,0,0,4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Earth Type"
 134,Bow!A134,Bow,Ex,Winterthorn Bell Bow,Silver,1,,,120,0,0,0,0,0,12,0,0,0,159,0,0,0,0,0,17,0,0,0,186,0,0,0,0,0,21,0,0,0,199,0,0,0,0,0,23,0,0,0,,,,,,,,,,,"Strength-Based +, Attack Power Decrease"
-140,Bow!A140,Bow,,Longbow of Splendor,Silver,1,,,113,0,0,0,0,0,4,0,0,0,146,0,0,0,0,0,4,0,0,0,172,0,0,0,0,0,4,0,0,0,195,0,0,0,0,0,4,0,0,0,,,,,,,,,,,Strength-Based +
+140,Bow!A140,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,Bow!A146,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Sam_Katana!A2,Sam_Katana,167,Well-Worn Katana,Worn,2,,,11,8,0,0,0,0,5,0,0,0,16,14,0,0,0,0,5,0,0,0,21,20,0,0,0,0,5,0,0,0,26,26,0,0,0,0,5,0,0,0,31,33,0,0,0,0,5,0,0,0,
