@@ -47,42 +47,42 @@
 ??? map "Route 6 -South Lakeshore-"
 
     === "Initial Map"
-        ![](./img/route-5-initial.png)
+        ![](./img/route-6-initial.png)
 
     === "Post GWO + Knowledge"
-        ![](./img/route-5-final.jpg)
+        ![](./img/route-6-final.jpg)
 
 ??? map "Route 7 -Depleted Mine 1F-"
 
     === "Initial Map"
-        ![](./img/route-5-initial.png)
+        ![](./img/route-7-initial.png)
 
     === "Post GWO + Knowledge"
-        ![](./img/route-5-final.jpg)
+        ![](./img/route-7-final.jpg)
 
 ??? map "Route 8 -Depleted Mine B1F-"
 
     === "Initial Map"
-        ![](./img/route-5-initial.png)
+        ![](./img/route-8-initial.png)
 
     === "Post GWO + Knowledge"
-        ![](./img/route-5-final.jpg)
+        ![](./img/route-8-final.jpg)
 
 ??? map "Route 9 -North Lakeshore-"
 
     === "Initial Map"
-        ![](./img/route-5-initial.png)
+        ![](./img/route-9-initial.png)
 
     === "Post GWO + Knowledge"
-        ![](./img/route-5-final.jpg)
+        ![](./img/route-9-final.jpg)
 
 ??? map "Route 10 -Whiteout-"
 
     === "Initial Map"
-        ![](./img/route-5-initial.png)
+        ![](./img/route-10-initial.png)
 
     === "Post GWO + Knowledge"
-        ![](./img/route-5-final.jpg)
+        ![](./img/route-10-final.jpg)
 
 ??? map "Church Grounds"
 
