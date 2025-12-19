@@ -219,7 +219,7 @@
         ![](./img/patti-apostate-of-the-sea.png)
 
     === "Bounty Details"
-        - Stationary, indicated by NPC on map. It will be by the statue in the middle of the map.
+        - Stationary, indicated by the NPC by the statue on the left of the map. Enter from B4. On fail, must reenter the Abyss.
         - 2000 Gold Reward
         - 35 Token Reward
         - Appears at Bounty Rank 1
