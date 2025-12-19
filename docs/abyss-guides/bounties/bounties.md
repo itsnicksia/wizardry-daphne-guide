@@ -523,6 +523,7 @@
         - Spawns with 2 Dragonflies and 2 Vorpal Bunnies in the front row. The Pixie is in the back row.
 
     === "Map Location"
+        - Looking south from entrance:
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
 ## Bounty Medal Shop
