@@ -38,8 +38,8 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
    
     ### Arena Round 2
 
-    1. This is a normal fight that depends on talking to Bonnie and Clyde in 7th District - Pier.
-    2. After the fight though, the missing person you are looking for is blown up.
+    1. This is a normal fight that depends on talking to Bonnie and Clyde in 7th District - Pier.  If you haven't talked to them yet, you will face a group of not-too-difficult Warped Ones.  If you have, the fight and strategies to win it will depend on where you are in your progress with their story.
+    2. After the fight, when asking about Round 3, the missing person you are looking for is blown up in a fight with Butch.
     3. See below for additional steps (Saving the Missing Person and Not Being Murdered)
 
     ### Arena Round 3
