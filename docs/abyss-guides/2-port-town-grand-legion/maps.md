@@ -4,11 +4,12 @@ The Trade Waterways are actually the western district of Port Town that has been
 
 ## Abyss notes:
 ??? note "Some tips for this Abyss before starting"
-    - The Abyss is targeted toward parties level 30-40. Completion without advancing at least to Bronze Grade is possible but a significant challenge. One can grind out Undead March Request from the Beginning Abyss to level up.
-    - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from the Earth Den.  Many monsters are also "Magical Beasts", so characters and weapons with the "Magical Beast-Slayer" trait are also  useful.
-    - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for Abyss 3.
-    - ==Do not sell all of the Sahuagin Scales you obtain== as you begin this Abyss, as they are needed for a mandatory late main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.
-    - Fully completing this Abyss involves finding and reading all of the Mermaid statues.  Some are unreachable until you learn how to reverse the water statues. The map below shows their locations and 'message numbers' so you can locate any that you are missing:  
+
+    - The Abyss is targeted toward parties level 30-40. Completion without advancing at least to Bronze Grade is possible but a significant challenge. One can grind out Undead March Request from the Beginning Abyss to level up.  
+    - A vast majority of the enemies in this Abyss are water element, so it helps to get as many earth-element weapons and armor (preferably to +10) from the Earth Den.  Many monsters are also "Magical Beasts", so characters and weapons with the "Magical Beast-Slayer" trait are also  useful.  
+    - Iron/Steel level gear are commonplace drops in this Abyss, so it's recommended to begin building some in preparation for Abyss 3.  
+    - ==Do not sell all of the Sahuagin Scales you obtain== as you begin this Abyss, as they are needed for a mandatory late main story request.  You will need 5 each time you complete that request, and you'll have to go back to find more if you've sold them all.  
+    - Fully completing this Abyss involves finding and reading all of the Mermaid statues.  Some are unreachable until you learn how to reverse the water statues. The map below shows their locations and 'message numbers' so you can locate any that you are missing:   
 
     ??? map "Mermaid Statue Locations"  
         ![](./img/trade-waterways-mermaid-statues.jpg)  
