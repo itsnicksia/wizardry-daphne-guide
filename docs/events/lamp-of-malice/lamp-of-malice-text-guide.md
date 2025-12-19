@@ -3,9 +3,7 @@
 !!! item "This event is now permanent."
 
 ??? note "Video Tutorial"
-    <div align="center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/4u6ZLLGSGf0?si=MH9-7KHUASNoN83h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4u6ZLLGSGf0?si=MH9-7KHUASNoN83h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## How to enable
 
@@ -19,36 +17,24 @@ On the entrance to the cave there’s an altar in which you can select 3 difficu
 Like the main story, you will need to do more than one run to get the real ending to the event quest. You can quickly progress to the 4th floor by following the maps below:
 
 ???+ map "B1F Map"
-    <div align="center">
-        ![](img/b1f.jpg)
-    </div>
+  ![](img/b1f.jpg)
 
 ???+ map "B2F Map"
-    <div align="center">
-        ![](img/b2f.jpg)
-    </div>
+  ![](img/b2f.jpg)
 
 ???+ map "B3F Map"
-    <div align="center">
-        ![](img/b3f.jpg)
-    </div>
+  ![](img/b3f.jpg)
 
 ???+ map "B4F Map"
-    <div align="center">
-        ![](img/b4f.jpg)
-    </div>
+  ![](img/b4f.jpg)
 
 After reaching the locked doors on B4F and interacting with the 4 altars, you’ll receive 4 quests to gather materials. Bat Wings and Frog Tongues can be obtained in B2F. Rat Teeth and Lizard Tails can be obtained on B3F.
 
 ???+ map "B2F Materials"
-    <div align="center">
-        ![](img/b2f-materials.jpg)
-    </div>
+  ![](img/b2f-materials.jpg)
 
 ???+ map "B3F Materials"
-    <div align="center">
-        ![](img/b3f-materials.jpg)
-    </div>
+  ![](img/b3f-materials.jpg)
 
 After gathering all materials, interact again with the altars on B4F. You’ll be able to progress to the fight with Isabella, the Seal. 
 
@@ -69,40 +55,26 @@ Gather Crystals: you need 4 Purification Crystals, but some of the crystals you 
 Interact with the 4 altars on B4F. Now, when the doors unlock, you can talk with Isabella and face the true boss.
 
 ???+ map "B1F Crystals"
-    <div align="center">
-        ![](img/b1f-crystals.jpg)
-    </div>
+  ![](img/b1f-crystals.jpg)
 
 ???+ map "B2F Crystals"
-    <div align="center">
-        ![](img/b2f-crystals.jpg)
-    </div>
+  ![](img/b2f-crystals.jpg)
 
 ???+ map "B3F Full Map"
-    <div align="center">
-        ![](img/b3f-full-map.jpg)
-    </div>
+  ![](img/b3f-full-map.jpg)
 
 ???+ map "Suggested Farming Route on B3F"
-    <div align="center">
-        ![](img/b3f-farming-route.jpg)
-    </div>
+  ![](img/b3f-farming-route.jpg)
     !!! note 
          This farming route in B3F is an EXP / Currency farming route with 4-6 guaranteed combats adjacent to harken for ~fastest combats or chests per minute farming rate.
 
 ???+ map "B4F Full Map"
-    <div align="center">
-        ![](img/b4f-full-map.jpg)
-    </div>
+  ![](img/b4f-full-map.jpg)
 
 ???+ map "B5F Full Map"
-    <div align="center">
-        ![](img/b5f-full-map.jpg)
-    </div>
+  ![](img/b5f-full-map.jpg)
 
 ???+ map "B5F Full Map"
-    <div align="center">
-        ![](img/b4f-no-combat-farming-route.jpg)
-    </div>
+  ![](img/b4f-no-combat-farming-route.jpg)
 
 Credits for maps: Gamerch
