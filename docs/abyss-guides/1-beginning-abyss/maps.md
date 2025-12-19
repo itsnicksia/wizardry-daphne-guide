@@ -1,7 +1,12 @@
 # The Beginning Abyss
 
+## Overview
+The Beginning Abyss is an eight level dungeon that serves as both a tutorial to the mechanics of the game and an introduction to the overaching Wizardry Variants Daphne story.  Your primary goal is to complete the request to Save the King!  It's not as easy as it sounds, and it may take you a few tries. The key is to keep progressing in the story despite setbacks and you'll eventually learn how to get the job done right.  Each floor has a very similar square layout with various events, tricks, and traps. The one exception to this is a side dungeon to the "Goblin Cave" on the third floor. It is a high level area, you will be warned away from it if your level is too low.  Savor the risk but HEED WARNINGS FROM THE GAME! 
+
 !!! note
     Certain floors have tile variations variations (shifts and rotations) that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Key events on variable tiles always occur in the same rooms on those tiles, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details. 
+
+## Maps
 
 ??? map "B1F -Pit-"
 
