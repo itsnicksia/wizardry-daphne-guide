@@ -22,7 +22,7 @@
 
 5. While going through Route 2, there will be a few cutscenes foreshadowing the upcoming fight on this floor. Upon reaching the end of the floor, you'll engage in a fight with Bigfoot.
   
-    !!! danger "Bigfoot"
+    ??? danger "Bigfoot"
         - He will start with Empowered by Snowstorm then immediately cast Hip Attack to a random adventurer. He has two baby bigfoots to his sides.
         - Like with many enemies in this abyss, he will cast skills out of turn when taking a certain amount of damage.
         - When taking a certain amount of damage, he will immediately cast his breath skill. The second time, he will chest pount and summon more baby bigfoots. The third time he will self buff with 10 turns of DEF, MDEF, and ATK up. The ATK is dispelled first.
@@ -42,7 +42,7 @@
 
 9. During your trek through Route 6, you will notice a lot of berry bushes that cannot be interacted with. It's ideal to note their location (or just look at the provided map). Upon going further, you'll eventually officially meet Iris, who is reluctant to talk to you. Upon exhausting the dialogue options, you'll be tasked with helping her collect snowberries. Return to all the snowberry bushes indicated and pick them. Each bush randomly can either give you a snowberry, give a half-eaten one, or trigger a fight. There will a fight where the snowberry is on the floor nearby, and another where the fight gives a snowberry directly. Upon gathering enough, head back and turn in the snowberries to Iris to gain her trust. As you continue towards the mine however, you'll eventually by surrounded by wolves. You'll need to kill the head wolf to progress.
 
-    !!! danger "Snow Wolf Leader"
+    ??? danger "Snow Wolf Leader"
         - The fight has several other snow wolves in the same row and behind. The snow wolves are significantly weaker than the leader.
         - The wolves can summon another wolf into the fight, while the leader can summon multiple into the fight.
         - The leader can use an ice breath that immediately freezes a row. He can also summon an ice storm that also freezes everyone including his own units and himself in the battle.
@@ -60,7 +60,7 @@
 12. There is nothing very notable from Route 7 Harken to Route 9 to the Church on the first run. However, it is quite a slog after the Route 9 Harken so be prepared and play it smart.
 13. Upon reaching the church, enter and interact with all the dead bodies on the floor. Head into the main church room and encounter the Greater Warped One. All the children will turn against you and the fight begins.
 
-    !!! danger "Godefroi 1st Run"
+    ??? danger "Godefroi 1st Run"
         - He is surrounded by children. Do not attack the children as killing them greatly strengthens him. Each child has several hundred HP.
         - He is initially on the second row, so it's recommended to have ranged weapons/single target magic.
         - He can cast Kantios on your entire team. This is to get you to kill the children by accident. It's highly recommended to not have low fortitude when attempting. Alternatively, you can have two priests casting Makalki on each row every other turn if applicable.
@@ -79,7 +79,7 @@ You now are under the impression that Godefroi is controlling the children. You 
 3. Head to the dilapidated cabin at the top of Route 9 and attempt to fix the cabin so the children can stay. Return to town and ask in the tavern. Talk to the man with his daughter and pay him. If you select the option of paying well, you will skip having to go to the Dwarves' Cave. If you choose to go to the Dwarves' Cave, you will need to help kill enemies in the cave indicated by green icons on the minimap. You will need to then move on to the next room and fight 2 Golems in the frontline, and 2 goblin mages + 1 goblin priest in the backline. Winning will grant you the lumber needed + an Ice Axe. Head back to the cabin to see it built.
 4. Proceed to the church. You can skip Route 10 entirely by cursed wheeling forward with the appropriate options selected.
 
-    !!! danger "Godefroi 2nd Run"
+    ??? danger "Godefroi 2nd Run"
         - There are no children this time. He is by himself
         - He starts off casting Balafeos on you. It's very recommended to cleanse this debuff as it's extremely potent.
         - He will cast various skills after taking enough damage. It will essentially be a skill showcase of what he can cast later on.
@@ -102,7 +102,7 @@ Realizing that the situation occuring in this village is extremely vile, you dec
 6. Route 9's North Lakeshore adult is the Mayor and he is located at X:15, Y:15. He is surrounded by many packs of Snow Wolves + a Snow Wolf Leader. He will then run away to the nearby cabin south. You will need to fight your way to him and then fight the pack defending the door. Then finally you will need to fight him with his pack of 4 Snow Wolves and a Snow Wolf Leader. This battle is also timed and if you take too long, he will run away and ruin all the progress.
 7. After suppressing all the adults, it will be recorded in the Cursed Wheel and will be okay to Cursed Wheel ahead to the Church map to once again fight Godefroi.
 
-   !!! danger "Godefroi 3rd Run"
+   ??? danger "Godefroi 3rd Run"
        - This time he is fully powered and spawns with 2 ice pillars. These ice pillars greatly reduces the physical damage he takes and will inflict Chill on your entire team every turn. It is recommended to destroy these asap. They are quite fragile and weak to fire.
        - Godfrei has all the skills has has from the previous runs and will cast skills occasionally when taking enough damage.
        - Godfrei is more likely to target a frozen unit with a very strong physical skill that is likely to instantly kill them. Hence why to destroy the ice pillars.
@@ -120,13 +120,15 @@ You feel that if you do everything correctly, you can also save Iris from her fa
 4. Return to the Herbalist and watch a cutscene of Iris regaining her eyesight. You can now head to the church and defeat Godefroi. Skip Route 10 via cursed wheel with the eye fixed option.
 5. When confronting Godefroi, it seems that Iris still believes that the priest's soul is still there. She understands that you must defeat the demon that is confining the priest.
 
-    !!! danger "Godefroi True End Fight"
-        - Kill ice pillars ASAP (LA- spells are good) they have ~1000 hp. These increase phys dmg reduction of all units on the field by an insane amount + cast chill on the entire team. For reference, ~510 magic power + lvl 2 lahalito is enough to kill all of them in 1 turn
-        - Kill ghost kids QUICKLY (within 3 turns), they only have ~600 hp and are immune (1 dmg at most) to physical. if they are not killed they will be consumed in 3 turns to give him an undispellable insanely high damage buff. They are also immune to marein. For reference, ~410 magic power + lvl 1 malefic wind is enough to kill them.
-        - Dissipate his defense reduction buff ASAP, otherwise he takes 0 physical dmg. He always casts maporfic as first action.
-        - If you get frozen, he will be more likely to attack the frozen unit with a physical skill and instant kill them dumping damage on him is not recommended, he either has hp thresholds per phase (he doesnt take damage past an amount per hidden phase) or has some strange hp mechanic.
-        - He may counter with madalto or labadios every time he takes a certain amount of damage.
-        - After 2-3 turns he will resummon the ghost kids, can prepare beforehand with mental unity. It is recommended to have at least 2 healing capable users and 2 AOE magic users.
+    ??? danger "Godefroi True End Fight"
+        - Kill ice pillars ASAP (LA- spells are good) they have ~1000 hp. These increase physical dmg reduction of all units on the field by an insane amount + cast chill on the entire team. For reference, ~510 magic power + lvl 2 Lahalito is enough to kill all of them in 1 turn. Physical attacks work as well, but require a lot of attack and high skill level.
+        - Kill ghost kids QUICKLY (within 3 turns), they only have ~600 hp and are immune (1 dmg at most) to physical attacks. if they are not killed they will be consumed in 3 turns to give him an undispellable insanely high damage buff. They are also immune to marein. For reference, ~410 magic power + lvl 1 malefic wind is enough to kill them.
+        - Dissipate his damage reduction buff (Maporfic) ASAP, otherwise he takes 0 physical dmg. He always casts Maporfic as first action.
+        - If you get frozen, he will be more likely to attack the frozen unit with a physical skill and instant kill them. As such, dumping damage on him is not recommended. 
+        - He either has hp thresholds per phase (he doesnt take damage past an amount per hidden phase) or has some strange hp mechanic.
+        - He may counter with Madalto or Labadios every time he takes a certain amount of damage.
+        - After 2-3 turns he will resummon the ghost kids, can prepare beforehand with mental unity. 
+        - It is recommended to have at least 2 healing capable users and 2 AOE magic users.
         - A knight with knight's defense + synced ASPD helps survive dubious rounds.
         - He has around 30k HP or so. He is also very very resistant to debuffs (in most cases just straight up immune).
 
