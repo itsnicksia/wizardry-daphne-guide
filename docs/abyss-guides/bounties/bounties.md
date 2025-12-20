@@ -9,8 +9,8 @@
 
 ### Bounty Rank Unlock Conditions
 
-| Bounty Rank | Unlock Conditions|
-|:-:|:-|
+| Bounty Rank | Unlock Conditions |
+|:--:|:--|
 | 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
 | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
@@ -219,7 +219,7 @@
         ![](./img/patti-apostate-of-the-sea.png)
 
     === "Bounty Details"
-        - Stationary, indicated by NPC on map. It will be by the statue in the middle of the map.
+        - Stationary, indicated by the NPC by the statue on the left of the map. Enter from B4. On fail, must reenter the Abyss.
         - 2000 Gold Reward
         - 35 Token Reward
         - Appears at Bounty Rank 1
@@ -523,6 +523,7 @@
         - Spawns with 2 Dragonflies and 2 Vorpal Bunnies in the front row. The Pixie is in the back row.
 
     === "Map Location"
+        - Looking south from entrance:
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
 ## Bounty Medal Shop
