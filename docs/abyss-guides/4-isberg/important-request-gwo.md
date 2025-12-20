@@ -102,11 +102,11 @@ Realizing that the situation occuring in this village is extremely vile, you dec
 6. Route 9's North Lakeshore adult is the Mayor and he is located at X:15, Y:15. He is surrounded by many packs of Snow Wolves + a Snow Wolf Leader. He will then run away to the nearby cabin south. You will need to fight your way to him and then fight the pack defending the door. Then finally you will need to fight him with his pack of 4 Snow Wolves and a Snow Wolf Leader. This battle is also timed and if you take too long, he will run away and ruin all the progress.
 7. After suppressing all the adults, it will be recorded in the Cursed Wheel and will be okay to Cursed Wheel ahead to the Church map to once again fight Godefroi.
 
-   ??? danger "Godefroi 3rd Run"
-       - This time he is fully powered and spawns with 2 ice pillars. These ice pillars greatly reduces the physical damage he takes and will inflict Chill on your entire team every turn. It is recommended to destroy these asap. They are quite fragile and weak to fire.
-       - Godfrei has all the skills has has from the previous runs and will cast skills occasionally when taking enough damage.
-       - Godfrei is more likely to target a frozen unit with a very strong physical skill that is likely to instantly kill them. Hence why to destroy the ice pillars.
-       - He can re-summon the ice pillars after a certain number of turns.
+    ??? danger "Godefroi 3rd Run"
+        - This time he is fully powered and spawns with 2 ice pillars. These ice pillars greatly reduces the physical damage he takes and will inflict Chill on your entire team every turn. It is recommended to destroy these asap. They are quite fragile and weak to fire.
+        - Godfrei has all the skills has has from the previous runs and will cast skills occasionally when taking enough damage.
+        - Godfrei is more likely to target a frozen unit with a very strong physical skill that is likely to instantly kill them. Hence why to destroy the ice pillars.
+        - He can re-summon the ice pillars after a certain number of turns.
 
 8. After defeating Godefroi, Iris will come running in and be extremely sad that the priest is dead. Lulunarde suggests looking around the church to find the source of canary crystals. You head to the well and find out that there is a torture chamber that was being used to turn children into canary crystals. The only way forward is blocked by a nullstone, so you leave only to be confronted by Iris. Her extreme sadness causes her to transmute into a canary crystal herself that covers the well. You gain knowledge that this crystallization effect is due to a powerful Wizardry effect like your Right Hand of Reversal and therefore cannot be affected by it. You are able to break off a part of her crystal and turn it in at the Royal Capital to complete the request.
 
