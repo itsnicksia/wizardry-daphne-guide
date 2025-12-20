@@ -186,7 +186,9 @@ There is a limit to the number of Relic Powers an adventurer or the MC can have 
 
 Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 Fortitude). There does not appear to be any other negative side effects outside of combat. Note that the success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 50 and 20. Therefore, it is recommended to remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat. The MC also has a hidden Fortitude value. Your MC's current, but not maximum, Fortitude can be viewed by your friends in the Tavern under "Friendships". It is a common practice to use Nameless units to consume less desirable relicbrews to register the Relic Power effects in the "Drink Relicbrews" menu.     
 
-## List of Relic Power Effects  
+## List of Relic Power Effects 
+
+!!! warning "We are currently working on adding Abyss 4 Relic Powers."
 !!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium Number |
@@ -248,7 +250,7 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | ?                                          | ?                                    | ?           | Gold Mimic             | Man Eating Gold Box Rootcrystal         | ?                 |
 | Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Core                        | ?                 |
 | ?                                          | ?                                    | ?           | Snow Vorpal Bunny      | Beheading Snow Rabbit Bloodwood         | ?                 |
-| ?                                          | ?                                    | ?           | Snow Hawk              | Wind-Cutting Raptor Gleamblight         | 4094              |
+| Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Snow Hawk              | Wind-Cutting Raptor Gleamblight         | 4094              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Spiritcoral                  | 4095              |
 
 ## Relic Power Stat Increases
