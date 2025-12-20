@@ -115,3 +115,7 @@
 ??? map "Herbalist Shrine B1F"
 
     ![](./img/herbalist-shrine-b1f.png)
+
+??? map "Chapel"
+
+    ![](./img/chapel.png)
