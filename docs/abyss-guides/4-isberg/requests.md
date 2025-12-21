@@ -179,7 +179,7 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
             - Located in the northeast area and requires reversing a stone to access
             - Multiple enemies will spawn after it is picked up  
             
-    - The side area with the Cyclops + Bigfoot is completely optional. It has no items and no impact on the ending
+        - The side area with the Cyclops + Bigfoot is completely optional. It has no items and no impact on the ending
        
         ??? danger "Cyclops + Bigfoot"
 
