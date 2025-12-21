@@ -242,16 +242,15 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
-| ?                                          | ?                                    | ?           | Snowland Goblin        | Snow Gobber Spiritcoral                 | 4089              |
-| ?                                          | Defense Up, SP Down                  | ?           | Snow Hobgoblin         | ?                                       | ?                 |
-| Spirit Flow of the Ice Wolf                | Magic Power Up, Fire Res Down        | Good        | Snow Wolf              | Ice Wolf Cursefruit                     | ?                 |
-| ?                                          | ?                                    | ?           | ?                      | Foxear Gleamblight                      | ?                 |
+| Snow Gobber's Hard Elbow                   | Crit Tol Up, Surety Down             | Neutral     | Snowland Goblin        | Snow Gobber Spiritcoral                 | 4089              |
+| ?                                          | Defense Up, SP Down                  | ?           | Snowland Hobgoblin     | ?                                       | 4090              |
+| ?                                          | Surety Up, ? Down                    | Neutral     | Snow Vorpal Bunny      | Beheading Snow Rabbit Bloodwood         | 4092              |
 | One-Eyed White Giant's Mighty Arm          | Attak Up, Surety Up, ASPD Down       | Evil        | Snow Cyclops           | ?                                       | ?                 |
-| ?                                          | ?                                    | ?           | Gold Mimic             | Man Eating Gold Box Rootcrystal         | ?                 |
-| Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Core                        | ?                 |
-| ?                                          | ?                                    | ?           | Snow Vorpal Bunny      | Beheading Snow Rabbit Bloodwood         | ?                 |
+| ?                                          | ?                                    | ?           | Golden Mimic           | Man Eating Gold Box Rootcrystal         | ?                 |
 | Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Snow Hawk              | Wind-Cutting Raptor Gleamblight         | 4094              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Spiritcoral                  | 4095              |
+| Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Cursefruit                     | 4097              |
+| Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Core                        | 4099              |
 
 ## Relic Power Stat Increases
 
