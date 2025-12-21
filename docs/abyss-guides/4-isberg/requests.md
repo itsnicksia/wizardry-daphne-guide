@@ -264,11 +264,22 @@ This request doesn't have any pre-requisites.
 You need to complete Special Local Delicacy. Otherwise, the issuer will run away and the request automatically fails.
 
 - The gist of this request is to hunt 4 groups of wolves across Route 6. The wolf pack locations are static, and the order in which they are fought does not matter. The fights will always go in a specific order.
-- Coordinates of fights: (X:11,Y:19), (X:5,Y:18), (X:16,Y:16), (X:4,Y:1). It is recommended not to pick the last fight in an Ice Storm Zone.
-    1. 1st Fight = 4 Snow Wolves in a row
-    2. 2nd Fight = 5 Snow Wolves, 3 in the front, 2 in the back
-    3. 3rd Fight = 6 Snow Wolves, 3 in the front, 3 in the back
-    4. 4th Fight = 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back.
+- It is recommended not to pick the last fight in an Ice Storm Zone.
+
+#### Possible Coordinates (Route 6)
+
+ - (X:11,Y:19)
+ - (X:5,Y:18)
+ - (X:16,Y:16)
+ - (X:4,Y:1)
+ - (X:1, Y:23)
+
+#### Encounters
+
+1. 4 Snow Wolves in a row
+2. 5 Snow Wolves, 3 in the front, 2 in the back
+3. 6 Snow Wolves, 3 in the front, 3 in the back
+4. 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back.
 
 - Upon defeating the last pack, head back to the Adventurer's Guild and complete the request.
 - Subsequent attempts on this request allows you to spare the Snow Wolf Leader, which grants a bondmate and skips the final fight.
