@@ -77,7 +77,7 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
 
 ??? "Consult with a Physician"
 
-    - Speak to Reimi who will tell you about the Slatewillow and a dangerous monster (Cyclops) in the Witch's Cave 
+    - Speak to Reimi who will tell you about the Slatewillow and a dangerous monster (Cyclops) spotted in the Witch's Cave 
     - There is only one main path through the area and it will take you through BF1 and BF2, including the "sleepy tunnel" area. It is a long route, so bring MP and SP items as a precaution 
     - From the entrance head to the southeast to access a dropdown point to BF2 
     
@@ -162,24 +162,27 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
     ??? "Mystic Route"
 
         - Enter the Witch's Cave and head south to the person icon on the map
-        - Speak with the Mystic and tell her about what is going on in Elden Hill Village
-        - The Mystic will ask you to collect a Sar-moon Herb to calm the villagers   
+        - Speak with the Mystic and select "Talk about Elden Hill Village"
+        - The Mystic (Spell Researcher) suggests using a Sar-moon Herb to calm the villagers 
+        - Head downstairs to BF2 
         
         ??? "Sar-Moon Herb Location"
              <div align="center">
              ![](./img/princess-sar-moon.PNG)
              </div>
              
-        - The side area on B2F with the Cyclops is completely optional. It has no items and no impact on the ending
-
+            - Located in the northeast area and requires reversing a stone to access
+            - Multiple enemies will spawn after it is picked up  
+            
         ??? danger "Cyclops + Bigfoot"
 
-        - Return to the Mystic and give her the Sar-Moon Herb
-        - The ending is the same as "Herbalist"
+        - Return to the Mystic and give her the Sar-Moon Herb and exit
+        - Speak with Dylanhardt  
+        - The ending is the same as "Consult with a Herbalist" 
         
         ??? tip "Rewards"
-            - 8,000 gold
-            - Scroll of Inferno
+            - 9,000 gold
+            - 2 Junk
 
 ## Minor Harken Beyond the Blizzard
 
