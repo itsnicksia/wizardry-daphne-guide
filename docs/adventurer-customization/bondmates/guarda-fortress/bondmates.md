@@ -1,3 +1,5 @@
+!!! note "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met."
+
 # Impregnable Fortress
 
 ## Request to Rescue the Duke
