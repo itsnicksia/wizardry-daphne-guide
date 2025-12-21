@@ -243,7 +243,7 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
 | Snow Gobber's Hard Elbow                   | Crit Tol Up, Surety Down             | Neutral     | Snowland Goblin        | Snow Gobber Spiritcoral                 | 4089              |
-| ?                                          | Defense Up, SP Down                  | ?           | Snowland Hobgoblin     | ?                                       | 4090              |
+| Snow Hobber's Thick Hide                   | Defense Up, SP Down                  | Neutral     | Snowland Hobgoblin     | ?                                       | 4090              |
 | Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Rootcrystal         | 4091              |
 | ?                                          | Surety Up, ? Down                    | Neutral     | Snow Bunny             | Beheading Snow Rabbit Bloodwood         | 4092              |
 | One-Eyed White Giant's Mighty Arm          | Attak Up, Surety Up, ASPD Down       | Evil        | Snowpeak Cyclops       | ?                                       | ?                 |
