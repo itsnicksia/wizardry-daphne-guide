@@ -242,15 +242,15 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
-| Snow Gobber's Hard Elbow                   | Crit Tol Up, Surety Down             | Neutral     | Snowland Goblin        | Snow Gobber Spiritcoral                 | 4089              |
+| Snow Gobber's Hard Elbow                   | Crit Tol Up, Surety Down             | Neutral     | Snowland Goblin        | Snow Gobber Twisted Spiritcoral         | 4089              |
 | Snow Hobber's Thick Hide                   | Defense Up, SP Down                  | Neutral     | Snowland Hobgoblin     | ?                                       | 4090              |
-| Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Rootcrystal         | 4091              |
-| ?                                          | Surety Up, ? Down                    | Neutral     | Snow Bunny             | Beheading Snow Rabbit Bloodwood         | 4092              |
+| Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Twisted Rootcrystal | 4091              |
+| ?                                          | Surety Up, ? Down                    | Neutral     | Snow Bunny             | Beheading Snow Rabbit Twisted Bloodwood | 4092              |
 | One-Eyed White Giant's Mighty Arm          | Attak Up, Surety Up, ASPD Down       | Evil        | Snowpeak Cyclops       | ?                                       | ?                 |
-| Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Snow Hawk              | Wind-Cutting Raptor Gleamblight         | 4094              |
-| Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Spiritcoral                  | 4095              |
-| Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Cursefruit                     | 4097              |
-| Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Core                        | 4099              |
+| Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Snow Hawk              | Wind-Cutting Raptor Twisted Gleamblight | 4094              |
+| Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Twisted Spiritcoral          | 4095              |
+| Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4097              |
+| Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Twisted Core                | 4099              |
 
 ## Relic Power Stat Increases
 
