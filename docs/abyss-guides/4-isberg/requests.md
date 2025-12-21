@@ -20,17 +20,17 @@ Upon entering Route 4 and returning you will receive a message from the respecti
 
 The objectives of each faction are different, but related to stopping the witch burnings and discovering its underlying cause. This set of faction quests are more complicated, darker in tone, and has a wider range of possible endings than those in previous Aybsses.   
 
-!!! "Faction Affinity"
+!!! note "Faction Affinity"
     - Supporting a faction in a previous Abyss plays a role in the outcomes of the faction quests
     - Max faction affinity is reached what that faction is selected for Abyss 2 and 3 in the Cursed Wheel 
     - Max faction affinity is required for the "best" endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
     - Anything related to faction affinity will be denoted with a <span style="color: MediumOrchid">*</span>
 
-!!! node "To reset the faction request Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Blizzard Blocking the Path". Alternatively, "Minor Harken Beyond the Blizzard" is faster since you don't have to change floors to exit."
+!!! note "To reset the faction request Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Blizzard Blocking the Path". Alternatively, "Minor Harken Beyond the Blizzard" is faster since you don't have to change floors to exit."
 
 !!! warning "Unlock conditions for the 2 Guiding Lights (Luck) are still being determined. It is strongly recommended to set the Cursed Wheel to "max" faction affinity" before beginning."
 
-#### The Witch's Cave  
+##### The Witch's Cave  
 
 ??? "Overview"
     - Each faction can only access certain portions of the map. This is intentional. Stone pillars are used to block pathways and cannot be removed 
@@ -51,9 +51,9 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ##### Chancellor Serpents (Princess) Route 
 
-Intro text here. To cure Rosa's affliction you are offered the choice to speak with an Herbalist, Physician, or Mystic. 
+To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are offered the choice to consults with an Herbalist, Physician, or Mystic to develop a solution. There is a total of 4 different (known) endings. 
 
-??? "Herbalist"
+??? "Consult with a Herbalist"
 
     - Speak to the Herbalist in town and she will tell you about the Sleepmoss in the Witch's Cave
     - All 3 are located in the "sleepy tunnel" area of the cave
@@ -71,12 +71,11 @@ Intro text here. To cure Rosa's affliction you are offered the choice to speak w
     - Return to the Herbalist and the concotion will soothe Rose
 
     ??? tip "Rewards"
-        - Achievement: None
         - 8,000 gold
         - 2 Junk<span style="color: MediumOrchid">*</span>
         - Scroll of Inferno
 
-??? "Physician"
+??? "Consult with a Physician"
 
     - Speak to Reimi who will tell you about the Slatewillow and a dangerous monster (Cyclops) in the Witch's Cave 
     - There is only one main path through the area and it will take you through BF1 and BF2, including the "sleepy tunnel" area. It is a long route, so bring MP and SP items as a precaution 
@@ -103,10 +102,10 @@ Intro text here. To cure Rosa's affliction you are offered the choice to speak w
         - Achievement: "A Terrible Nightmare"
         - 15,000 gold 
 
-??? "Mystic"
+??? "Consult with a Mystic"
     
-    - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the "best" ending
-    - The Normal Route has a completely different map and quest giver (Mystic)
+    - Aegon Route<span style="color: MediumOrchid">*</span> leads to the "best" ending
+    - Mystic Route has a completely different map and quest giver
     - The Fellwisp will only spawn on the Aegon Route although the Cyclops will appear on both 
     
     ??? "Aegon Route<span style="color: MediumOrchid">*</span>"
@@ -126,7 +125,7 @@ Intro text here. To cure Rosa's affliction you are offered the choice to speak w
                 - A challenging fight during the early game. You may have to return at a higher level or with better gear 
                 - Will not respawn once defeated
                 
-            ??? danger "Cyclops"
+            ??? danger "Cyclops + Bigfoot"
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                 - At ~80% HP the Cyclops will summon another Bigfoot
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -144,7 +143,7 @@ Intro text here. To cure Rosa's affliction you are offered the choice to speak w
         - Return to town and speak with Dylanhardt
         - The "Foolish parent" or "Foolish child" option does not seem to have any impact on the ending
         - The ending will depend on the next set of dialogue choices 
-
+        
         ??? "Tell the truth"
             !!! tip "Rewards"
                 - "Best" ending
@@ -160,26 +159,25 @@ Intro text here. To cure Rosa's affliction you are offered the choice to speak w
                 - 9,000 gold 
                 - 1 Junk<span style="color: MediumOrchid">*</span>
 
-    ??? "Normal Route"
+    ??? "Mystic Route"
 
         - Enter the Witch's Cave and head south to the person icon on the map
-        - Speak with the Mystic and tell her about what is going on in Elden Hill
-        - The Mystic will ask you to collect a Sar-moon Herb  
-        - The side area with the Cyclops is completely optional. It has no items and no impact on the ending
-
-        ??? Cyclops
-
+        - Speak with the Mystic and tell her about what is going on in Elden Hill Village
+        - The Mystic will ask you to collect a Sar-moon Herb to calm the villagers   
+        
         ??? "Sar-Moon Herb Location"
-    
              <div align="center">
-             ![](./img/princess-sar-moon.png)
+             ![](./img/princess-sar-moon.PNG)
              </div>
+             
+        - The side area on B2F with the Cyclops is completely optional. It has no items and no impact on the ending
+
+        ??? danger "Cyclops + Bigfoot"
 
         - Return to the Mystic and give her the Sar-Moon Herb
         - The ending is the same as "Herbalist"
         
         ??? tip "Rewards"
-            - Achievement: None
             - 8,000 gold
             - Scroll of Inferno
 
