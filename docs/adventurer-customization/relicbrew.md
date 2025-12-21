@@ -189,7 +189,7 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 ## List of Relic Power Effects 
 
 !!! warning "We are currently working on adding Abyss 4 Relic Powers."
-!!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
+!!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may or may not have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium Number |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- | ----------------- |
@@ -250,6 +250,7 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Snow Hawk              | Wind-Cutting Raptor Twisted Gleamblight | 4094              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Twisted Spiritcoral          | 4095              |
 | Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4097              |
+| ?                                          | MP Up, Fire Res Down                 | Good        | Snow Wolf Leader       |                                         | ?                 |
 | Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Twisted Core                | 4099              |
 
 ## Relic Power Stat Increases
