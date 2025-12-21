@@ -18,14 +18,14 @@
 
 Upon entering Route 4 and returning you will receive a message from the respective faction to return to Royal Capital Luknalia. Head to the Guild and speak with Arna. If you do not leave immediately, then you can select "Talk" in the Guild to receive the faction quest in the future. All of the faction quests take place in Elden Hill and share the same map (Witch's Cave). The objectives of each faction are different, but are all related to stopping the witch burnings and discovering its underlying cause. Note that this set of faction quests is more complicated, darker in tone, and has a wider range of possible endings.   
 
-!!! note "Faction Affinity"
+!!! tip "Faction Affinity"
     - Faction affinity is based on whether that faction was selected in the Cursed Wheel for Abyss 2 and 3 
     - Max faction affinity is required for the "best" endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
     - Anything related to faction affinity will be denoted with a <span style="color: MediumOrchid">*</span>
 
 !!! warning "The requirements for the 2 Guiding Lights (Luck) are still being determined. It is strongly recommended to set the Cursed Wheel to "max" faction affinity" before beginning."
 
-#### Witch's Cave Map 
+##### Witch's Cave Map 
 
 ??? map "Witch's Cave - B1F"    
     <div align="center">
@@ -43,28 +43,45 @@ Upon entering Route 4 and returning you will receive a message from the respecti
 - Enemy level is (xx)
 - Chests have unusually high Find and Disarm requirements
 
-#### Chancellor Serpents (Princess) Route 
+##### Chancellor Serpents (Princess) Route 
+
+Intro text here. To cure Rosa's affliction you are offered the choice to speak with an Herbalist, Physician, or Mystic. 
 
 ??? note "Herbalist"
-    ??? map "Sleepmoss Locations"
-        <div align="center">
-        ![](./img/princess-sleepmoss.png)
-        </div>
-        
-    - Speak to the Herbalist and she will tell you about the Sleepmoss in the Witch's Cave
+
+    - Speak to the Herbalist in town and she will tell you about the Sleepmoss in the Witch's Cave
     - All 3 are located in the "sleepy tunnel" area of the cave
     - Sleep tiles 
         - Can only take 10 steps before losing consciousness 
         - Team will be asleep at the start of any battle 
     - Return to the Herbalist and the concotion will soothe Rose
-      
-    !!! tip "Rewards"
+
+    ??? map "Sleepmoss Locations"
+        <div align="center">
+        ![](./img/princess-sleepmoss.png)
+        </div>
+    
+    !!! warning "Rewards"
         - Achievement: None
         - 8,000 gold
         - 2 junk<span style="color: MediumOrchid">*</span>
         - Scroll of Inferno
 
 ??? note "Physician"
+
+    - Speak to Reimi who will tell you about the Slatewillow and a dangerous monster (Cyclops) in the Witch's Cave 
+    - There is only one primary path through the area and it will take you through BF1 and BF2, including the "sleepy tunnel" zone. It is quite long, so bring MP and SP items as a precaution 
+    - To access BF2 drop down a hidden hole along the bottom path in the SE area. You may need to stand on the tile for a few seconds
+    - For details on sleep tiles see "Herbalist"
+    - The side area with the Cyclops is completely optional. It has no items and no impact on the ending
+    - The slatewillow is located directly in front of the teleporter back to the entrance. It will be automatically picked up
+    - Give the Slatewillow to Reimi and watch the ending
+    - There is no known way of preventing this outcome 
+
+    !!! tip "Rewards"
+        - Achievement: "A Terrible Nightmare"
+        - 15,000 gold 
+
 ??? note "Mystic"
 
 ## Minor Harken Beyond the Blizzard
