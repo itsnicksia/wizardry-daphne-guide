@@ -275,7 +275,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
-There are a total of 3 (known) endings. The only small difference is the rewards are slightly smaller if you  
+There are a total of 3 (known) endings. The only small difference is that you will not receive extra junk if you witness 1-3 witch burning scenes.   
 
 ??? warning "What ending should I do first?"
 
@@ -312,7 +312,7 @@ There are a total of 3 (known) endings. The only small difference is the rewards
         - "Best" ending
         - Achievement: "Condemn the Witch"
         - 17,000 gold
-        - 2 Junk (requires "Sheep" for 0 deaths)
+        - 2 Junk (requires Sheep for 0 deaths)
         - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
 ??? "Elencia Alive - "Tell the truth""
@@ -329,7 +329,7 @@ There are a total of 3 (known) endings. The only small difference is the rewards
     
         - "Good" ending
         - 11,000 gold
-        - 2 Junk (requires "Sheep" for 0 deaths)
+        - 2 Junk (requires Sheep for 0 deaths)
 
 ## Minor Harken Beyond the Blizzard
 
