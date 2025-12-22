@@ -254,6 +254,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Sheep = Return to town and speak with Tenet
 
 ??? "Second+ Run - Tenet Offerings" 
+
     This feature is only available after a first run. Talk to Tenet in town before entering the Witch's Cave to select 1 of the 3 offerings in advance
     - Do not talk to Tenet = 5 offerings
     - Hen = 4 offerings
@@ -262,6 +263,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Sheep will allow you to immediately unlock the witch's door 
 
 ??? "Witch Burning Mechanic"
+
     When returning to town for one of the offerings a scene will play of a villager being burned at the stake. The number of innocent villagers that die impacts whether the witch (Elencia) is alive or dead after the battle
     - Witness 0-3 deaths = Elincia lives
     - Witness 4 or more deaths = Elincia dies 
@@ -270,6 +272,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 There are a total of 3 (known) endings. 
 
 !!! tip "What ending should I do first?"
+
     - It is recommended to do the "Elencia dies" ending on a first run
     - A first run requires doing all 5 brazier offerings
     - Returning to town only for the brazier offerings results in exactly 3 witch burning scenes
@@ -277,6 +280,7 @@ There are a total of 3 (known) endings.
     - For the other 2 endings choose the "Sheep" in town from Tenent to ensure 0 deaths and Elencia being alive after the fight 
 
 ??? "Elencia dies"
+
     !!! tip "Rewards"
         - "Bad" ending
         - Achievement:  "A Witch There Was" [OR] No achievement if Elincia died in the Admiral route
@@ -284,12 +288,14 @@ There are a total of 3 (known) endings.
         - Tenet remarks on how many innocent people died
 
 ??? "Elencia alive - "Condemn the witch"
+
     - After the boss fight select "Examine the body"
     - "Examing the head" > "Pull it out"
     - "Protect Tenet" (fight 2 villagers) or "Prepare yourself" (villagers run away) does not impact the ending
     - "Condemn the Witch"
     
     !!! tip "Rewards"
+    
         - "Best" ending
         - Achievement: "Condemn the Witch"
         - 17,000 gold
@@ -297,20 +303,17 @@ There are a total of 3 (known) endings.
         - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
 ??? "Elencia alive - "Tell the truth"
+
     - After the boss fight select "Examine the body"
     - "Examing the head" > "Pull it out"
     - "Protect Tenet" (fight 2 villagers) or "Prepare yourself" (villagers run away) does not impact the ending
     - "Condemn the Witch"
 
     !!! tip "Rewards"
+    
         - "Good" ending
         - 11,000 gold
         - 2 Junk (requires "Sheep" for 0 deaths)
-
-
-
-
-
 
 ## Minor Harken Beyond the Blizzard
 
