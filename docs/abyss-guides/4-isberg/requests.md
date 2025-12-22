@@ -79,8 +79,8 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ??? "How to Reset a Faction Quest" 
 
-    - Cursed Wheel to "Deepsnow Hinterlands Entrance" > "Blizzard Blocking the Path" > Return to Route 3 and use the Harken to exit 
-                                                      > "Minor Harken Beyond the Blizzard" > Exit via the nearby Harken 
+    - Cursed Wheel to Deepsnow Hinterlands Entrance > Blizzard Blocking the Path > Return to Route 3 and use the Harken to exit 
+    - Cursed Wheel to Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard > Exit via the nearby Harken 
 
 !!! warning "The unlock conditions for the 2 Guiding Lights (Luck) are still being determined. We recommend seting the Cursed Wheel to max faction affinity before starting to avoid potentially having to redo certain endings."
 
@@ -331,8 +331,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
     - Recommended to do the "Elencia Dies" ending on a first run
     - A first run requires doing all 5 brazier offering requests
-    - Returning to town _only_ for the brazier offerings = witness 3 witch burnings
-    - Return to town an additional time after offering the 3 Rabbits or Living Blood to see a 4th scene to ensure Elincia dies 
+    - Returning to town _only_ for the brazier offerings results in 3 witch burnings
+    - Return to town an additional time after offering the 3 Rabbits or Living Blood to see a 4th witch burning to ensure Elincia dies 
     - Select the Sheep in town from Tenent for the other 2 endings
     - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
 
