@@ -244,7 +244,7 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
 
 The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible, but requires making a certain number of offerings to a demonic brazier before the door unlocks. Several of the items it requests require you to return to town, which results in another innocent person dying. The endings are based on two conditions: 1) the number of innocent people killed and 2) whether the witch (Elencia) is alive or dead after the boss fight. 
 
-??? Brazier Offering Mechanic
+??? "Brazier Offering Mechanic"
 
     In front of the door to the witch's room is a brazier that will request different offerings. Once given it will unlock one of the doors in the surrounding area. Investigate the unlocked area until you get Lulu's commentary. This triggers the brazier to make its next request. On a first run it requires 5 offerings to open the door to the witch's room 
     - 3 Rabbits = Defeat enemies in the area that contain vorpal bunnies 3 times
@@ -253,7 +253,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Infant = Return to town and speak with Tenet
     - Sheep = Return to town and speak with Tenet
 
-??? Second+ Run Tenet Town Items 
+??? "Second+ Run - Tenet Offerings" 
     This feature is only available after a first run. Talk to Tenet in town before entering the Witch's Cave to select 1 of the 3 offerings in advance
     - Do not talk to Tenet = 5 offerings
     - Hen = 4 offerings
@@ -261,7 +261,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Sheep = 1 offering 
     - Sheep will allow you to immediately unlock the witch's door 
 
-??? Witch Burning Mechanic
+??? "Witch Burning Mechanic"
     When returning to town for one of the offerings a scene will play of a villager being burned at the stake. The number of innocent villagers that die impacts whether the witch (Elencia) is alive or dead after the battle
     - Witness 0-3 deaths = Elincia lives
     - Witness 4 or more deaths = Elincia dies 
