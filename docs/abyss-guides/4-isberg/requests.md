@@ -65,7 +65,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ### Elden Hill (Witch Hunt) Faction Quests
 
-!!! note "Unlocked after entering Route 4."
+!!! warning "1st Faction Quests are unlocked after entering Route 4 for the first time"
 
 Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then select the "Talk" option at the Guild to accept the faction quest in the future. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
@@ -79,10 +79,10 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ??? "How to Reset a Faction Quest" 
 
-    - Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Blizzard Blocking the Path". Return to Route 3 and use the Harken to exit 
-    - Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Minor Harken Beyond the Blizzard" and exit via the Harken next to  you
+    - Cursed Wheel to "Deepsnow Hinterlands Entrance" > "Blizzard Blocking the Path" > Return to Route 3 and use the Harken to exit 
+    - Cursed Wheel to "Deepsnow Hinterlands Entrance" > "Minor Harken Beyond the Blizzard" > Exit via the nearby Harken 
 
-!!! warning "Unlock conditions for the 2 Guiding Lights (Luck) are still being determined. We recommend seting the Cursed Wheel to max faction affinity before starting to avoid potentially having to redo certain endings."
+!!! warning "The unlock conditions for the 2 Guiding Lights (Luck) are still being determined. We recommend seting the Cursed Wheel to max faction affinity before starting to avoid potentially having to redo certain endings."
 
 ##### The Witch's Cave  
 
@@ -218,7 +218,6 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
                     - Best ending
                     - Achievement: "One Who Carries the Future of Her Land"
                     - 11,000 Gold 
-                    - Calm Wind Crest<span style="color: MediumOrchid">*</span>
     
             ??? "Do Not Tell the Truth"
                 - Whatever option you pick to threaten Rosa does not seem to have any impact on the ending
@@ -258,6 +257,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
         
         ??? tip "Rewards"
             - 9,000 Gold
+            - Calm Wind Crest
             - 2 Junk
 
 ##### Pontiff Route
@@ -287,7 +287,9 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Tenet Offerings" 
 
-    Only available on a second run. Talk to Tenet in town before entering the Witch's Cave to select 1 of the 3 offerings in advance. The Tenet offering reduces the total number of brazier requests. 
+    - Only available on a second run
+    - Talk to Tenet in town before entering the Witch's Cave
+    - Select 1 of the 3 offerings in advance, which reduces the total number of brazier requests 
 
     **Brazier requests:**
     
@@ -315,11 +317,13 @@ The Pontiff route is a race against time to discover the identity of the witch t
     There are a total of 3 (known) endings based on the number of witch burnings witnessed and dialogue choices in the final scene.   
 
     **Endings:** 
+    
     - Bad: Elencia Dies (4+ witch burnings) 
     - Good: Elencia Alive (0-3 witch burnings) + "Tell the truth" 
     - Best: Elencia Alive (0-3 witch burnings) + "Condemend" 
 
     **Rewards:**
+    
     - Junk rewards are reduced if any witch burnings are witnessed
     - Full gold reward is always given
 
