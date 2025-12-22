@@ -245,6 +245,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 Several of the items it requests require you to return to town, which results in another innocent person dying. The endings are based on two conditions: 1) the number of innocent people killed and 2) whether the witch (Elencia) is alive or dead after the boss fight. 
 
+**Mechanics** 
+
 ??? "Brazier Offering Mechanic"
 
     In front of the door to the witch's room is a brazier that will request different offerings. Once given it will unlock one of the doors in the surrounding area. Investigate the unlocked area until you get Lulu's commentary. This triggers the brazier to make its next request. On a first run it requires 5 offerings to open the door to the witch's room
@@ -271,16 +273,22 @@ Several of the items it requests require you to return to town, which results in
 
     When returning to town for one of the offerings a scene will play of a villager being burned at the stake. The number of innocent villagers that die impacts whether the witch (Elencia) is alive or dead after the boss fight
     
-    - Witness 0-3 deaths = With (Elencia) alive after boss fight
+    - Witness 0-3 deaths = Witch (Elencia) alive after boss fight
     - Witness 4 or more deaths = Witch (Elencia) dies after boss fight
     - It is unclear the exact requirement for triggering a witch burning scene
     - Based on limited testing it seems to be 
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
-!!! tip "There are a total of 3 (known) endings."
+??? warning "Ending Requirements"
 
-??? warning "What ending should I do first?"
+    There are a total of 3 (known) endings based on the number of witch burnings witnessed and dialogue choices.   
+
+    - Elencia Dies = Witness 4 witch burnings
+    - Elencia Alive + Condemend = Witness 3 witch burnings
+    - Elencia Alive + Tell the truth = Witness 3 witch burnings 
+
+??? tip "What ending should I do first?"
 
     - It is recommended to do the "Elencia dies" ending on a first run
     - A first run requires doing all 5 brazier offerings
