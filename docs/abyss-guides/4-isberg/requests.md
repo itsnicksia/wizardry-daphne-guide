@@ -80,7 +80,7 @@ The objectives of each faction are different, but related to stopping the witch 
 ??? "How to Reset a Faction Quest" 
 
     - Cursed Wheel to "Deepsnow Hinterlands Entrance" > "Blizzard Blocking the Path" > Return to Route 3 and use the Harken to exit 
-    - Cursed Wheel to "Deepsnow Hinterlands Entrance" > "Minor Harken Beyond the Blizzard" > Exit via the nearby Harken 
+                                                      > "Minor Harken Beyond the Blizzard" > Exit via the nearby Harken 
 
 !!! warning "The unlock conditions for the 2 Guiding Lights (Luck) are still being determined. We recommend seting the Cursed Wheel to max faction affinity before starting to avoid potentially having to redo certain endings."
 
