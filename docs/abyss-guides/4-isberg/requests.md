@@ -71,7 +71,7 @@ Upon returning to Isberg a messenger will ask you to return to Royal Capital Luk
 
 The objectives of each faction are different, but related to stopping the witch burnings and discovering its underlying cause. This set of faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
 
-??? tip "Faction Affinity"
+??? "Faction Affinity"
     - Supporting a faction in a previous Abyss plays a role in the outcomes 
     - Max faction affinity is achieved when that faction is selected in the Cursed Wheel for Abyss 2 and 3
     - Max faction affinity is required for the "best" endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
@@ -327,7 +327,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Junk rewards are reduced if any witch burnings are witnessed
     - Full gold reward is always given
 
-??? tip "What ending should I do first?"
+??? "What ending should I do first?"
 
     - Recommended to do the "Elencia Dies" ending on a first run
     - A first run requires doing all 5 brazier offering requests
