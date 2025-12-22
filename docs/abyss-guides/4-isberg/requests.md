@@ -136,7 +136,6 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
         ![](./img/princess-hole.png)
         </div>
                 
-
     ??? "Sleep Tile Mechanics" 
         - After 10 steps you will lose consciousness and be teleported back to where you entered 
         - Team members will be asleep at the start of any battle 
@@ -250,7 +249,8 @@ Several of the items it requests require you to return to town, which results in
 
     In front of the door to the witch's room is a brazier that will request different offerings. Once given it will unlock one of the doors in the surrounding area. Investigate the unlocked area until you get Lulu's commentary. This triggers the brazier to make its next request. On a first run it requires 5 offerings to open the door to the witch's room
 
-    **Offering Details:**
+    **Offering Tasks:**
+    
     - 3 Rabbits = Defeat enemies in the area that contain vorpal bunnies 3 times
     - Hen = Return to town and speak with Tenet
     - Living Blood = Defeat "monster" (magical-beast, demi-human, demon?) enemies 2 times. You cannot return to town with the Monster Blood
@@ -278,28 +278,31 @@ Several of the items it requests require you to return to town, which results in
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
-There are a total of 3 (known) endings. The only small difference is that you will not receive extra junk if you witness 1-3 witch burning scenes.   
+!!! tip "There are a total of 3 (known) endings."
 
 ??? warning "What ending should I do first?"
 
     - It is recommended to do the "Elencia dies" ending on a first run
     - A first run requires doing all 5 brazier offerings
-    - Returning to town only for the brazier offerings results in exactly 3 witch burning scenes
-    - Return to town after offering the rabbits or living blood to see a 4th scene to ensure Elincia dies 
-    - For the other 2 endings choose the "Sheep" in town from Tenent. It immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
+    - Returning to town _only_ for the brazier offerings results in exactly 3 witch burning scenes
+    - Must return to town an additional time after offering the 3 Rabbits or Living Blood to see a 4th scene to ensure Elincia dies 
+    - For the other 2 endings choose the Sheep in town from Tenent
+    - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
 
-!!! "Witch boss fight details to be added soon."
+!!! danger "Witch boss fight details will be added soon."
 
 ??? "Elencia Dies"
      
     - First run or do not speak with Tenet
     - Complete all 5 brazier offering requests
     - Witness 4 witch burning scenes (otherwise Elencia will be alive)
+    - Return to town after offering the 3 Rabbits or Living Blood 
 
     ??? danger "Boss: Witch"
 
     - After the boss battle Elincia will die
-    - Exit and the ending sequence will play 
+    - Exit 
+    - Upon returning to town the ending sequence will play 
     - Note that the possible Achievement is shared with the Admiral route 
     
     ??? tip "Rewards"
@@ -308,7 +311,7 @@ There are a total of 3 (known) endings. The only small difference is that you wi
         - 9,000 gold
         - Tenet remarks on how many innocent people died
 
-??? "Elencia Alive - "Condemn the witch"<span style="color: MediumOrchid">*</span>"
+??? "Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
     - Talk to Tenet in town and select the Sheep to unlock the witch's door 
     - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
@@ -319,7 +322,7 @@ There are a total of 3 (known) endings. The only small difference is that you wi
     - "Examine the body"
     - "Examing the head" 
     - "Pull it out" (forced to select this to move forward)
-    - Exit and return to town to watch the ending scenes 
+    - Exit and return to town 
     - "Prepare yourself" (either choice has no impact on the ending)
     - "Condemn the Witch"
     
@@ -331,7 +334,7 @@ There are a total of 3 (known) endings. The only small difference is that you wi
         - 2 Junk (requires Sheep for 0 deaths)
         - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
-??? "Elencia Alive - "Tell the truth""
+??? "Elencia Alive - "Tell the Truth""
 
     - Talk to Tenet in town and select the Sheep to unlock the witch's door 
     - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
@@ -342,7 +345,7 @@ There are a total of 3 (known) endings. The only small difference is that you wi
     - "Examine the body"
     - "Examing the head" 
     - "Pull it out" (forced to select this to move forward)
-    - Exit and return to town to watch the ending scenes 
+    - Exit and return to town 
     - "Prepare yourself" (either choice has no impact on the ending)
     - "Condemn the Witch"
 
