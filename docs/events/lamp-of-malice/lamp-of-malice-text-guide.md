@@ -11,8 +11,7 @@ The event will be enabled when one has reached Level B7 of the Beginning Abyss o
 
 ## Walkthrough
 
-On the entrance to the cave there’s an altar in which you can select 3 difficulty modes: Trial of Simplicity, Moderation and Impossible. Each difficulty increases the monster levels and rewards.   
-*The default difficulty without interacting with the altar is Moderation.*  
+On the entrance to the cave there is an altar from which to select the difficulty mode: Trial of Simplicity, Moderation, and Impossible. Each difficulty increases the monster levels and rewards. The default difficulty without interacting with the altar is *Moderation.*  
 
 Like the main story, you will need to do more than one run to get the real ending to the event quest. You can quickly progress to the 4th floor by following the maps below:
 
