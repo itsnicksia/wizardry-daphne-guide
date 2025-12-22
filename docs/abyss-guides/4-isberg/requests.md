@@ -65,7 +65,9 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ### Elden Hill (Witch Hunt) Faction Quests
 
-Upon entering Route 4 and returning to Isberg a messenger from the respective faction will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then select the "Talk" option at the Guild to accept the faction quest in the future. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
+!!! note "Unlocked after entering Route 4."
+
+Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then select the "Talk" option at the Guild to accept the faction quest in the future. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
 The objectives of each faction are different, but related to stopping the witch burnings and discovering its underlying cause. This set of faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
 
@@ -75,18 +77,22 @@ The objectives of each faction are different, but related to stopping the witch 
     - Max faction affinity is required for the "best" endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
     - Anything related to faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
 
-!!! note "To reset a faction request Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Blizzard Blocking the Path". Alternatively, "Minor Harken Beyond the Blizzard", is faster as no floor change is needed to exit."
+??? "How to Reset a Faction Quest 
 
-!!! warning "Unlock conditions for the 2 Guiding Lights (Luck) are still being determined. We recommend seting the Cursed Wheel to max faction affinity before starting."
+    - Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Blizzard Blocking the Path". Return to Route 3 and use the Harken to exit 
+    - Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Minor Harken Beyond the Blizzard" and exit via the Harken next to  you
+
+!!! warning "Unlock conditions for the 2 Guiding Lights (Luck) are still being determined. We recommend seting the Cursed Wheel to max faction affinity before starting to avoid potentially having to redo certain endings."
 
 ##### The Witch's Cave  
 
 ??? "Overview"
-    - Each faction can only access certain portions of the map. This is intentional. Stone pillars are used to block pathways and cannot be removed 
+    - Each faction can only access a certain portion of the map
+    - Stone pillars are used to block pathways and cannot be removed 
     - Full map completion requires doing other faction quests
-    - Faction objectives are only completed in the Witch's Cave and do not require visiting other locations
+    - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
     - Enemy level is 65
-    - Some chests have unusually high Find/Trap Disarm requirements even at 150/150
+    - Some chests have high Find/Trap Disarm requirements even at 150/150
     
 ??? map "The Witch's Cave - B1F"    
     <div align="center">
@@ -100,9 +106,9 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ##### Chancellor Serpens (Princess) Route 
 
-To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are offered the option to consult with an Herbalist, Physician, or Mystic to develop a solution. There is a total of 4 different (known) endings. 
+The goal of the Princess route is to solve Rosa's mysterious affliction the villagers believe is the work of a witch. Pulgritte thinks that if Rosa can be treated, then the villagers will stop the witch burnings. To develop a solution you can consult with an Herbalist, Physician, or Mystic. 
 
-??? "Consult with a Herbalist"
+??? "Consult with an Herbalist"
     - Speak to the Herbalist in town and she will tell you about the Sleepmoss in the Witch's Cave
     - All 3 Sleepmoss are located in the "sleepy tunnel" area of the cave
 
@@ -116,18 +122,20 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
         - Team members will be asleep at the start of any battle 
         - Enemies can be alerted and baited onto the small islands of normal tiles throughout the area
         
-    - The objective is to reach each Sleepmoss using the small islands of normal tiles to reset the 10-step counter 
-    - Return to the Herbalist and the concotion will soothe Rose
+    - Reach each Sleepmoss using the small islands of normal tiles to reset the 10-step counter 
+    - Return to the Herbalist and give her the Sleepmoss
+    - The concotion soothes Rosa, but Dylanhardt seems suspicious 
 
     ??? tip "Rewards"
-        - 8,000 gold
+        - 8,000 Gold
         - 2 Junk<span style="color: MediumOrchid">*</span>
         - Scroll of Inferno
 
 ??? "Consult with a Physician"
 
-    - Speak to Reimi in town who first wants to meet with Rosa. Afterward he will tell you about Slatewillow and warn of a dangerous monster (Cyclops + Bigfoot) spotted in the Witch's Cave 
-    - The path to the Slatewill is long and will take you through parts of BF1 and BF2, including the "sleepy tunnel" area
+    - Speak to Reimi in town 
+    - He meets with Rosa privately. Upon returning he suggests Slatewillow as the solution and warns of a dangerous monster (Cyclops + Bigfoot) in the Witch's Cave 
+    - The path to the Slatewill is long and will take you through parts of BF1 and BF2, including the "sleepy tunnel" area 
     - Bring MP/SP items as insurance in case you run out toward the end
     - From the entrance head to the southeast area to access a dropdown point to BF2 
     
@@ -137,33 +145,40 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
         </div>
                 
     ??? "Sleep Tile Mechanics" 
-        - After 10 steps you will lose consciousness and be teleported back to where you entered 
-        - Team members will be asleep at the start of any battle 
+        - After 10 steps you lose consciousness and will be teleported back to where you entered 
+        - All battle party members will be asleep at the start of any encounter 
         - Enemies can be alerted and baited onto the small islands of normal tiles throughout the area
         
     - The side area with the Cyclops + Bigfoot is completely optional. It has no items and no impact on the ending
 
     ??? danger "Cyclops + Bigfoot"
     
+        - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+        - At ~80% HP the Cyclops will summon another Bigfoot
+        - Cyclop's "Wheeling Cleave" can kill multiple team members 
+        - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+                
     - The Slatewillow is located in front of the teleporter back to the entrance and will be automatically picked up
-    - Return to town and give the Slatewillow to Reimi
-    - Note: There is no known way of preventing this outcome 
+    - Exit and return to town
+    - Speak with Reimi and give him the Slatewillow 
 
     ??? tip "Rewards"
         - Achievement: "A Terrible Nightmare"
-        - 15,000 gold 
+        - 15,000 Gold 
 
 ??? "Consult with a Mystic"
     
-    - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the "best" ending
+    - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending
     - The Mystic Route has a completely different map and quest giver
     - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
     
     ??? "Aegon Route<span style="color: MediumOrchid">*</span>"
+    
         - Speak to Dylanhardt in town and select the option to return to the Royal Capital 
-        - Aegon suggests Fellwisp and a Sar-moon Herb as the solution and asks you to gather them 
-        - Return to Elden Hill Village and enter The Witch's Cave 
-        - Go north and down the stairs to BF2. Both herbs are located on this floor 
+        - Aegon suggests Fellwisp to cure Rosa and a Sar-moon Herb to calm the villagers
+        - Return to Elden Hill Village and enter the Witch's Cave 
+        - Go north and down the stairs to BF2
+        - Both herbs are located on this floor 
         
         ??? "Fellwisp"  
             ??? map "Fellwisp Location"
@@ -172,8 +187,9 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
                 </div>
 
                 - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
-                - Defeating the Cyclops is required for the "best" ending
-                - A challenging fight during the early game. You may have to return at a higher level or with better gear 
+                - Defeating the Cyclops is required for the Best ending
+                - A challenging fight during the early game
+                - You may have to return at a higher level or with better gear 
                 - Will not respawn once defeated
                 
             ??? danger "Cyclops + Bigfoot"
@@ -183,7 +199,6 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
                 - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
 
         ??? map "Sar-moon Herb Location"
-        
             <div align="center">
             ![](./img/princess-sar-moon.PNG)
             </div>
@@ -191,25 +206,26 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
             - Located in the northeast area and requires reversing a stone to access
             - Multiple enemies will spawn after it is picked up  
 
+        - Exit 
         - Return to town and speak with Dylanhardt
         - The "Foolish parent" or "Foolish child" option does not seem to have any impact on the ending
         - After Pulgritte and Dylandhardt leave you must choose whether to tell Mayor Oswald the truth about Rosa
 
         ??? warning "Ending Choices"
         
-            ??? "Tell the truth<span style="color: MediumOrchid">*</span>"
+            ??? "Tell the Truth<span style="color: MediumOrchid">*</span>"
                 !!! tip "Rewards"
-                    - "Best" ending
+                    - Best ending
                     - Achievement: "One Who Carries the Future of Her Land"
-                    - 11,000 gold 
+                    - 11,000 Gold 
                     - Calm Wind Crest<span style="color: MediumOrchid">*</span>
     
-            ??? "Do not tell the truth"
-                - Whatever option you pick to threaten Rosa does not have any impact on the ending
+            ??? "Do Not Tell the Truth"
+                - Whatever option you pick to threaten Rosa does not seem to have any impact on the ending
     
                 !!! tip "Rewards"
-                    - Achievement: "One Who Carries the Future of Her Land"
-                    - 9,000 gold 
+                    - Achievement: "One Who Carries the Future of Her Land" (needs verifying)
+                    - 9,000 Gold 
                     - 1 Junk<span style="color: MediumOrchid">*</span>
 
     ??? "Mystic Route"
@@ -230,39 +246,44 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
         - The side area with the Cyclops + Bigfoot is completely optional. It has no items and no impact on the ending
        
         ??? danger "Cyclops + Bigfoot"
+        
+            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+            - At ~80% HP the Cyclops will summon another Bigfoot
+            - Cyclop's "Wheeling Cleave" can kill multiple team members 
+            - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
 
         - Return to the Mystic and give her the Sar-Moon Herb and exit
         - In town speak with Dylanhardt  
         - The ending is the same as "Consult with a Herbalist" 
         
         ??? tip "Rewards"
-            - 9,000 gold
+            - 9,000 Gold
             - 2 Junk
 
 ##### Pontiff Route
 
 The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
-#### Mechanics 
+##### Mechanics 
 
 ??? "Brazier Offerings"
 
-    **Steps:**
+    ??? "Steps"
     
-    - Interact with the brazier and it will tell you the offering it seeks
-    - Collect the offering via fighting enemies or returning to town 
-    - Give the offering and it will unlock a nearby door 
-    - Investigate the new area until you get Lulu's commentary on the room 
-    - Return to the brazier for a new request 
-    - Repeat until the witch's door is unlocked
+        - Interact with the brazier and it will tell you the offering it seeks
+        - Collect the offering via fighting enemies or returning to town 
+        - Give the offering and it will unlock a nearby door 
+        - Investigate the new area until you get Lulu's commentary on the room 
+        - Return to the brazier for a new request 
+        - Repeat until the witch's door is unlocked
 
-    **Offering Tasks:**
+    ??? "Tasks"
     
-    - 3 Rabbits: Defeat 3 enemies with vorpal bunnies
-    - Hen: Return to town and speak with Tenet
-    - Living Blood: Defeat 2 groups of "monsters" (magical-beast, demi-human, demon?
-    - Infant: Return to town and speak with Tenet
-    - Sheep: Return to town and speak with Tenet
+        - 3 Rabbits: Defeat 3 enemies with vorpal bunnies
+        - Hen: Return to town and speak with Tenet
+        - Living Blood: Defeat 2 groups of "monsters" (magical-beast, demi-human, demon?
+        - Infant: Return to town and speak with Tenet
+        - Sheep: Return to town and speak with Tenet
 
 ??? "Tenet Offerings" 
 
@@ -287,15 +308,18 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
-#### Endings
+##### Endings
 
 ??? warning "Ending Requirements"
 
     There are a total of 3 (known) endings based on the number of witch burnings witnessed and dialogue choices in the final scene.   
 
-    - Bad Ending: Elencia Dies (4+ witch burnings) 
-    - Good Ending: Elencia Alive (0-3 witch burnings) + "Tell the truth" 
-    - Best Ending: Elencia Alive (0-3 witch burnings) + "Condemend" 
+    **Endings:** 
+    - Bad: Elencia Dies (4+ witch burnings) 
+    - Good: Elencia Alive (0-3 witch burnings) + "Tell the truth" 
+    - Best: Elencia Alive (0-3 witch burnings) + "Condemend" 
+
+    **Rewards:**
     - Junk rewards are reduced if any witch burnings are witnessed
     - Full gold reward is always given
 
@@ -303,8 +327,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
     - Recommended to do the "Elencia Dies" ending on a first run
     - A first run requires doing all 5 brazier offering requests
-    - Returning to town _only_ for the brazier offerings = 3 witch burning scenes
-    - Must return to town an additional time after offering the 3 Rabbits or Living Blood to see a 4th scene to ensure Elincia dies 
+    - Returning to town _only_ for the brazier offerings = witness 3 witch burnings
+    - Return to town an additional time after offering the 3 Rabbits or Living Blood to see a 4th scene to ensure Elincia dies 
     - Select the Sheep in town from Tenent for the other 2 endings
     - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
 
@@ -321,12 +345,11 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Elencia dies after the boss fight 
     - Exit 
     - Return to town and the ending sequence will play  
-    - This ending's achievement is shared with an ending in the Admiral route and can only be received once
     
     ??? tip "Rewards"
         - Achievement: "A Witch There Was" 
-        - 9,000 gold
-        - Tenet remarks on how many innocent people died
+        - 9,000 Gold
+        - Achievement is shared with an ending in the Admiral route and can only be received once
 
 ??? "Good Ending: Elencia Alive - "Tell the Truth""
 
@@ -346,7 +369,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
     ??? tip "Rewards"
     
-        - 11,000 gold
+        - 11,000 Gold
         - 2 Junk (requires Sheep for 0 deaths)
 
 ??? "Best Ending: Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
@@ -368,7 +391,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     ??? tip "Rewards"
     
         - Achievement: "Condemn the Witch"
-        - 17,000 gold
+        - 17,000 Gold
         - 2 Junk (requires Sheep for 0 deaths)
         - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
