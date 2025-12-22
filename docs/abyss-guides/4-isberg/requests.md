@@ -52,7 +52,7 @@ This request has no pre-requisites to accept. However, to fully complete it, you
 
 !!! warning "If you return the Adventurer's guild immediately after accepting the request and leaving, the request will fail automatically in your timeline, requiring cursed wheeling and re-completion of all the previous requests"
 
-This request requires Recovery of Salted Pork, Find my Sister Lisa, and Special Local Delicary requests completed. If the request is attempted without these completed, the request will always end in failure.
+This request requires Recovery of Salted Pork and Find my Sister Lisa requests completed. If the request is attempted without these completed, the request will always end in failure.
 
 - You will know if this request is completable as the little girl will speak and hand you some dried fish for the cat. If you attempt this request without this dried fish, the cat will always run away from you, resulting in failure
 - Head to Route 4. The cat will always be located in one of the non-removable Ice Storm Zones in the map. In addition, once entering the zone, the white nullshadow will guaranteed spawn and begin chasing you. You must find the cat while the nullshadow chases you, as attempting to leave will have the nullshadow teleport directly to you. If you flee from the nullshadow more than twice, the request will automatically fail as the cat is scared off. However, if you are caught by the nullshadow it is recommended to simply let it kill you and resurrect on the spot, as that will despawn the nullshadow and allow you to freely look for the cat without consequences.
