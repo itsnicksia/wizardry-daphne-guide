@@ -65,13 +65,13 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ### Elden Hill (Witch Hunt) Faction Quests
 
-!!! warning "1st Faction Quests are unlocked after entering Route 4 for the first time"
+!!! warning "1st Faction Quests are unlocked after entering Route 4 for the first time."
 
 Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then select the "Talk" option at the Guild to accept the faction quest in the future. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
 The objectives of each faction are different, but related to stopping the witch burnings and discovering its underlying cause. This set of faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
 
-!!! note "Faction Affinity"
+??? tip "Faction Affinity"
     - Supporting a faction in a previous Abyss plays a role in the outcomes 
     - Max faction affinity is achieved when that faction is selected in the Cursed Wheel for Abyss 2 and 3
     - Max faction affinity is required for the "best" endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
