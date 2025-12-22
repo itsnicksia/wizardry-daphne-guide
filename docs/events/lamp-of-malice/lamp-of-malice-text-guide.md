@@ -15,7 +15,7 @@ Note: Like the main story more than one run will be needed to get the complete e
 
 On the entrance to the cave there is an altar from which to select the difficulty mode: Trial of Simplicity, Moderation, and Impossible. Each difficulty increases the monster levels and rewards. The default difficulty without interacting with the altar is *Moderation.*  
 
-You can quickly progress to the 4th floor by following the maps below:
+Maps (one check: crystal or peculiarity; three checks: elites):
 
 ???+ map "B1F Map"
   ![](img/b1f.jpg)
