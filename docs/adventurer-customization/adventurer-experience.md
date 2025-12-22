@@ -1,8 +1,5 @@
 # Adventurer Experience
 
-!!! warning "Work in Progress" 
-    We are currently updating the experience requirements for levels 61-70.
-
 ## Experience Chart
 
 |  Level | Next Level Exp  |  Cumulative Exp  | Advanced<sup>†</sup> Next Level Exp | Advanced<sup>†</sup> Cumulative Exp  |
