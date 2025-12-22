@@ -242,12 +242,15 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
 
 ##### Pontiff Route
 
-The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible, but requires making a certain number of offerings to a demonic brazier before the door unlocks. Several of the items it requests require you to return to town, which results in another innocent person dying. The endings are based on two conditions: 1) the number of innocent people killed and 2) whether the witch (Elencia) is alive or dead after the boss fight. 
+The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible, but requires making a certain number of offerings to a demonic brazier before the door unlocks. 
+
+Several of the items it requests require you to return to town, which results in another innocent person dying. The endings are based on two conditions: 1) the number of innocent people killed and 2) whether the witch (Elencia) is alive or dead after the boss fight. 
 
 ??? "Brazier Offering Mechanic"
 
-    In front of the door to the witch's room is a brazier that will request different offerings. Once given it will unlock one of the doors in the surrounding area. Investigate the unlocked area until you get Lulu's commentary. This triggers the brazier to make its next request. On a first run it requires 5 offerings to open the door to the witch's room 
-    
+    In front of the door to the witch's room is a brazier that will request different offerings. Once given it will unlock one of the doors in the surrounding area. Investigate the unlocked area until you get Lulu's commentary. This triggers the brazier to make its next request. On a first run it requires 5 offerings to open the door to the witch's room
+
+    **Offering Details:**
     - 3 Rabbits = Defeat enemies in the area that contain vorpal bunnies 3 times
     - Hen = Return to town and speak with Tenet
     - Living Blood = Defeat "monster" (magical-beast, demi-human, demon?) enemies 2 times. You cannot return to town with the Monster Blood
@@ -268,8 +271,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
     When returning to town for one of the offerings a scene will play of a villager being burned at the stake. The number of innocent villagers that die impacts whether the witch (Elencia) is alive or dead after the boss fight
     
-    - Witness 0 - 3 deaths = Elincia alive
-    - Witness 4 or more deaths = Elincia dies 
+    - Witness 0-3 deaths = With (Elencia) alive after boss fight
+    - Witness 4 or more deaths = Witch (Elencia) dies after boss fight
     - It is unclear the exact requirement for triggering a witch burning scene
     - Based on limited testing it seems to be 
         - Number of battles and/or 
@@ -285,19 +288,32 @@ There are a total of 3 (known) endings. The only small difference is that you wi
     - Return to town after offering the rabbits or living blood to see a 4th scene to ensure Elincia dies 
     - For the other 2 endings choose the "Sheep" in town from Tenent to ensure 0 deaths and Elencia being alive after the fight 
 
+!!! "Witch boss fight details to be added soon."
+
 ??? "Elencia Dies"
+     
+    - First run or do not speak with Tenet
+    - Complete all 5 brazier offering requests
+    - Witness 4 witch burning scenes (otherwise Elencia will be alive)
+
+    ??? danger "Boss: Witch"
 
     - After the boss battle Elincia will die
     - Exit and the ending sequence will play 
     - Note that the possible Achievement is shared with the Admiral route 
     
-    !!! tip "Rewards"
+    ??? tip "Rewards"
         - "Bad" ending
         - Achievement: "A Witch There Was" [OR] No achievement if Elincia died in the Admiral route
         - 9,000 gold
         - Tenet remarks on how many innocent people died
 
-??? "Elencia Alive - "Condemn the witch""
+??? "Elencia Alive - "Condemn the witch"<span style="color: MediumOrchid">*</span>"
+
+    - Talk to Tenet in town and select the Sheep
+    - On B2F more enemies will spawn ("ROAR")when you enter the hallway to the brazier
+
+    ??? danger "Boss: Witch"
 
     - After the boss fight Elincia will be alive, but unconscious  
     - "Examine the body"
@@ -307,7 +323,7 @@ There are a total of 3 (known) endings. The only small difference is that you wi
     - "Prepare yourself" (either choice has no impact on the ending)
     - "Condemn the Witch"
     
-    !!! tip "Rewards"
+    ??? tip "Rewards"
     
         - "Best" ending
         - Achievement: "Condemn the Witch"
@@ -317,6 +333,11 @@ There are a total of 3 (known) endings. The only small difference is that you wi
 
 ??? "Elencia Alive - "Tell the truth""
 
+    - Talk to Tenet in town and select the Sheep
+    - On B2F more enemies will spawn ("ROAR")when you enter the hallway to the brazier
+
+    ??? danger "Boss: Witch"
+
     - After the boss fight Elincia will be alive, but unconscious  
     - "Examine the body"
     - "Examing the head" 
@@ -325,7 +346,7 @@ There are a total of 3 (known) endings. The only small difference is that you wi
     - "Prepare yourself" (either choice has no impact on the ending)
     - "Condemn the Witch"
 
-    !!! tip "Rewards"
+    ??? tip "Rewards"
     
         - "Good" ending
         - 11,000 gold
