@@ -77,7 +77,7 @@ The objectives of each faction are different, but related to stopping the witch 
     - Max faction affinity is required for the "best" endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
     - Anything related to faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
 
-??? "How to Reset a Faction Quest 
+??? "How to Reset a Faction Quest" 
 
     - Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Blizzard Blocking the Path". Return to Route 3 and use the Harken to exit 
     - Cursed Wheel to "Deepsnow Hinterlands Entrance" and then "Minor Harken Beyond the Blizzard" and exit via the Harken next to  you
@@ -264,7 +264,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
 
 The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
-##### Mechanics 
+**MECHANICS**
 
 ??? "Brazier Offerings"
 
@@ -308,7 +308,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
-##### Endings
+**ENDINGS**
 
 ??? warning "Ending Requirements"
 
