@@ -267,7 +267,45 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Witness 4 or more deaths = Elincia dies 
     - It is unclear the exact requirement for triggering a witch burning scene. Based on limited testing it seems to be 1) the number of battles and/or 2) returning to town after giving an offering, but before accepting the next request
 
+There are a total of 3 (known) endings. 
 
+!!! tip "What ending should I do first?"
+    - It is recommended to do the "Elencia dies" ending on a first run
+    - A first run requires doing all 5 brazier offerings
+    - Returning to town only for the brazier offerings results in exactly 3 witch burning scenes
+    - Return to town after offering the rabbits or living blood to see a 4th scene to ensure Elincia dies 
+    - For the other 2 endings choose the "Sheep" in town from Tenent to ensure 0 deaths and Elencia being alive after the fight 
+
+??? "Elencia dies"
+    !!! tip "Rewards"
+        - "Bad" ending
+        - Achievement:  "A Witch There Was" [OR] No achievement if Elincia died in the Admiral route
+        - 9,000 gold
+        - Tenet remarks on how many innocent people died
+
+??? "Elencia alive - "Condemn the witch"
+    - After the boss fight select "Examine the body"
+    - "Examing the head" > "Pull it out"
+    - "Protect Tenet" (fight 2 villagers) or "Prepare yourself" (villagers run away) does not impact the ending
+    - "Condemn the Witch"
+    
+    !!! tip "Rewards"
+        - "Best" ending
+        - Achievement: "Condemn the Witch"
+        - 17,000 gold
+        - 2 Junk (requires "Sheep" for 0 deaths)
+        - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
+
+??? "Elencia alive - "Tell the truth"
+    - After the boss fight select "Examine the body"
+    - "Examing the head" > "Pull it out"
+    - "Protect Tenet" (fight 2 villagers) or "Prepare yourself" (villagers run away) does not impact the ending
+    - "Condemn the Witch"
+
+    !!! tip "Rewards"
+        - "Good" ending
+        - 11,000 gold
+        - 2 Junk (requires "Sheep" for 0 deaths)
 
 
 
