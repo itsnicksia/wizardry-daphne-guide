@@ -264,7 +264,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
 
 The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
-**MECHANICS**
+**Mechanics** 
 
 ??? "Brazier Offerings"
 
@@ -308,7 +308,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
-**ENDINGS**
+**Endings**
 
 ??? warning "Ending Requirements"
 
