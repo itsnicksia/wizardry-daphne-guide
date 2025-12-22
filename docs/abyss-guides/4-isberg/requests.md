@@ -65,7 +65,7 @@ This request requires Recovery of Salted Pork, Find my Sister Lisa, and Special 
 
 ### Elden Hill (Witch Hunt) Faction Quests
 
-Upon entering Route 4 and returning to Isberg a messenger from the respective faction will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then select the "Talk" option at the Guild to accept the faction quest in the future. All of the faction quests take place in Elden Hill Village and share the same map (The Witch's Cave). 
+Upon entering Route 4 and returning to Isberg a messenger from the respective faction will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then select the "Talk" option at the Guild to accept the faction quest in the future. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
 The objectives of each faction are different, but related to stopping the witch burnings and discovering its underlying cause. This set of faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
 
@@ -84,7 +84,7 @@ The objectives of each faction are different, but related to stopping the witch 
 ??? "Overview"
     - Each faction can only access certain portions of the map. This is intentional. Stone pillars are used to block pathways and cannot be removed 
     - Full map completion requires doing other faction quests
-    - Faction objectives are only completed in The Witch's Cave and do not require visiting other locations
+    - Faction objectives are only completed in the Witch's Cave and do not require visiting other locations
     - Enemy level is 65
     - Some chests have unusually high Find/Trap Disarm requirements even at 150/150
     
@@ -241,127 +241,136 @@ To cure Rosa's affliction to stop the witch hunts in Elden Hill Village you are 
 
 ##### Pontiff Route
 
-The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible, but requires making a certain number of offerings to a demonic brazier before the door unlocks. 
+The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
-Several of the items it requests require you to return to town, which results in another innocent person dying. The endings are based on two conditions: 1) the number of innocent people killed and 2) whether the witch (Elencia) is alive or dead after the boss fight. 
+#### Mechanics 
 
-**Mechanics** 
+??? "Brazier Offerings"
 
-??? "Brazier Offering Mechanic"
-
-    In front of the door to the witch's room is a brazier that will request different offerings. Once given it will unlock one of the doors in the surrounding area. Investigate the unlocked area until you get Lulu's commentary. This triggers the brazier to make its next request. On a first run it requires 5 offerings to open the door to the witch's room
+    **Steps:**
+    
+    - Interact with the brazier and it will tell you the offering it seeks
+    - Collect the offering via fighting enemies or returning to town 
+    - Give the offering and it will unlock a nearby door 
+    - Investigate the new area until you get Lulu's commentary on the room 
+    - Return to the brazier for a new request 
+    - Repeat until the witch's door is unlocked
 
     **Offering Tasks:**
     
-    - 3 Rabbits = Defeat enemies in the area that contain vorpal bunnies 3 times
-    - Hen = Return to town and speak with Tenet
-    - Living Blood = Defeat "monster" (magical-beast, demi-human, demon?) enemies 2 times. You cannot return to town with the Monster Blood
-    - Infant = Return to town and speak with Tenet
-    - Sheep = Return to town and speak with Tenet
+    - 3 Rabbits: Defeat 3 enemies with vorpal bunnies
+    - Hen: Return to town and speak with Tenet
+    - Living Blood: Defeat 2 groups of "monsters" (magical-beast, demi-human, demon?
+    - Infant: Return to town and speak with Tenet
+    - Sheep: Return to town and speak with Tenet
 
-??? "Second+ Run - Tenet Offerings" 
+??? "Tenet Offerings" 
 
-    This feature is only available on a second run. Talk to Tenet in town before entering the Witch's Cave to select 1 of the 3 offerings in advance:
+    Only available on a second run. Talk to Tenet in town before entering the Witch's Cave to select 1 of the 3 offerings in advance. The Tenet offering reduces the total number of brazier requests. 
+
+    **Brazier requests:**
     
-    - Do not talk to Tenet = 5 offerings
-    - Hen = 4 offerings
-    - Infant = 2 offerings
-    - Sheep = 1 offering 
-    - Sheep will allow you to immediately unlock the witch's door 
+    - Do not talk to Tenet = 5 
+    - Hen = 3  
+    - Infant = 1 
+    - Sheep = 0 
+    - Sheep immediately unlock the witch's door 
 
-??? "Witch Burning Mechanic"
+??? "Witch Burnings"
 
-    When returning to town for one of the offerings a scene will play of a villager being burned at the stake. The number of innocent villagers that die impacts whether the witch (Elencia) is alive or dead after the boss fight
+    Returning to town for an offering results in a witch burning. The number of witch burnings witnessed determines whether Elencia is alive or dead after the boss fight.
     
-    - Witness 0-3 deaths = Witch (Elencia) alive after boss fight
-    - Witness 4 or more deaths = Witch (Elencia) dies after boss fight
-    - It is unclear the exact requirement for triggering a witch burning scene
-    - Based on limited testing it seems to be 
+    - Witness 0-3 witch burnings = Elencia alive
+    - Witness 4+ witch burnings = Elencia dead
+    - It is unclear the exact requirement for triggering a witch burning scene upon returning to town
+    - Based on limited testing:
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
+#### Endings
+
 ??? warning "Ending Requirements"
 
-    There are a total of 3 (known) endings based on the number of witch burnings witnessed and dialogue choices.   
+    There are a total of 3 (known) endings based on the number of witch burnings witnessed and dialogue choices in the final scene.   
 
-    - Elencia Dies = Witness 4 witch burnings
-    - Elencia Alive + Condemend = Witness 3 witch burnings
-    - Elencia Alive + Tell the truth = Witness 3 witch burnings 
+    - Bad Ending: Elencia Dies (4+ witch burnings) 
+    - Good Ending: Elencia Alive (0-3 witch burnings) + "Tell the truth" 
+    - Best Ending: Elencia Alive (0-3 witch burnings) + "Condemend" 
+    - Junk rewards are reduced if any witch burnings are witnessed
+    - Full gold reward is always given
 
 ??? tip "What ending should I do first?"
 
-    - It is recommended to do the "Elencia dies" ending on a first run
-    - A first run requires doing all 5 brazier offerings
-    - Returning to town _only_ for the brazier offerings results in exactly 3 witch burning scenes
+    - Recommended to do the "Elencia Dies" ending on a first run
+    - A first run requires doing all 5 brazier offering requests
+    - Returning to town _only_ for the brazier offerings = 3 witch burning scenes
     - Must return to town an additional time after offering the 3 Rabbits or Living Blood to see a 4th scene to ensure Elincia dies 
-    - For the other 2 endings choose the Sheep in town from Tenent
+    - Select the Sheep in town from Tenent for the other 2 endings
     - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
 
-!!! danger "Witch boss fight details will be added soon."
-
-??? "Elencia Dies"
+??? "Bad Ending: Elencia Dies"
      
     - First run or do not speak with Tenet
     - Complete all 5 brazier offering requests
-    - Witness 4 witch burning scenes (otherwise Elencia will be alive)
-    - Return to town after offering the 3 Rabbits or Living Blood 
-
+    - Return to town an additional time to witness 4 witch burnings otherwise Elencia will be alive
+    - When returning with the Sheep more enemies will spawn ("ROAR") on B2F in the hallway to the brazier
+    
     ??? danger "Boss: Witch"
+        - Details to be added soon 
 
-    - After the boss battle Elincia will die
+    - Elencia dies after the boss fight 
     - Exit 
-    - Upon returning to town the ending sequence will play 
-    - Note that the possible Achievement is shared with the Admiral route 
+    - Return to town and the ending sequence will play  
+    - This ending's achievement is shared with an ending in the Admiral route and can only be received once
     
     ??? tip "Rewards"
-        - "Bad" ending
-        - Achievement: "A Witch There Was" [OR] No achievement if Elincia died in the Admiral route
+        - Achievement: "A Witch There Was" 
         - 9,000 gold
         - Tenet remarks on how many innocent people died
 
-??? "Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
+??? "Good Ending: Elencia Alive - "Tell the Truth""
+
+    - Talk to Tenet in town and select the Sheep 
+    - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
+
+    ??? danger "Boss: Witch"
+
+    - Elencia will be alive after the boss fight 
+    - "Examine the body"
+    - "Examing the head" 
+    - "Pull it out" (forced to select)
+    - Exit 
+    - Return to town and the ending scenes will play  
+    - "Prepare yourself" (choice has no impact)
+    - "Condemn the Witch"
+
+    ??? tip "Rewards"
+    
+        - 11,000 gold
+        - 2 Junk (requires Sheep for 0 deaths)
+
+??? "Best Ending: Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
     - Talk to Tenet in town and select the Sheep to unlock the witch's door 
     - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
 
     ??? danger "Boss: Witch"
 
-    - After the boss fight Elincia will be alive, but unconscious  
+    - Elencia will be alive after the boss fight 
     - "Examine the body"
     - "Examing the head" 
-    - "Pull it out" (forced to select this to move forward)
-    - Exit and return to town 
-    - "Prepare yourself" (either choice has no impact on the ending)
+    - "Pull it out" (forced to select)
+    - Exit 
+    - Return to town and the ending scenes will play  
+    - "Prepare yourself" (choice has no impact)
     - "Condemn the Witch"
     
     ??? tip "Rewards"
     
-        - "Best" ending
         - Achievement: "Condemn the Witch"
         - 17,000 gold
         - 2 Junk (requires Sheep for 0 deaths)
         - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
-
-??? "Elencia Alive - "Tell the Truth""
-
-    - Talk to Tenet in town and select the Sheep to unlock the witch's door 
-    - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
-
-    ??? danger "Boss: Witch"
-
-    - After the boss fight Elincia will be alive, but unconscious  
-    - "Examine the body"
-    - "Examing the head" 
-    - "Pull it out" (forced to select this to move forward)
-    - Exit and return to town 
-    - "Prepare yourself" (either choice has no impact on the ending)
-    - "Condemn the Witch"
-
-    ??? tip "Rewards"
-    
-        - "Good" ending
-        - 11,000 gold
-        - 2 Junk (requires Sheep for 0 deaths)
 
 ## Minor Harken Beyond the Blizzard
 
