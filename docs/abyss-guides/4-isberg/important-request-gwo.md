@@ -13,7 +13,7 @@
 3. Deepsnow Hinterlands of Isberg's main town, Winterface Settlement, will not have anything of interest except maybe a cat as the tavern manager. To continue, head to the edge of town and enter the Abyss. You will be introduced to the chill/freezing mechanic along with the main gimmick of this abyss, which are portions of the map that inflict chill per turn and deny use of the minimap and map. Eventually you'll also reach a hot spring that can cleanse you of the chill/freeze debuff. Continue to Route 2.
 
     !!! item "Freeze Mechanic"
-        - In applicable areas, snowstorm will take place at the start of turn, immediately applying 8 stacks of chill on every unit on the field.
+        - In applicable areas, snowstorm will take place at the start of turn, immediately applying 10 stacks of chill on every unit on the field (then deducting 2 stacks).
         - When chill reaches 0, applies frozen to the unit.
         - Frozen unit can still act and have increased Defense, but will have greatly reduced ASPD, ACC, and EVA. Frozen units can get shattered, which removes Frozen but inflicts a large amount of damage. Only certain actions can do this (Two-handed weapon actions). Fire actions will immediately clear chill/frozen. Enemies have a chance to break your frozen immediately and cause high damage with any skill, but certain enemy skills can guaranteed inflict heavy damage. For some reason Eruption Strike prioritizes clearing frozen/chill and does not trigger shatter.
         - Snowstorm reduces chill by 2 every turn, while water element skills reduce chill by 3. Some unique enemy skills can immediately reduce chill by large amounts.
