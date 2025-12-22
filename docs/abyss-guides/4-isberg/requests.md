@@ -247,6 +247,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 ??? "Brazier Offering Mechanic"
 
     In front of the door to the witch's room is a brazier that will request different offerings. Once given it will unlock one of the doors in the surrounding area. Investigate the unlocked area until you get Lulu's commentary. This triggers the brazier to make its next request. On a first run it requires 5 offerings to open the door to the witch's room 
+    
     - 3 Rabbits = Defeat enemies in the area that contain vorpal bunnies 3 times
     - Hen = Return to town and speak with Tenet
     - Living Blood = Defeat "monster" (magical-beast, demi-human, demon?) enemies 2 times. You cannot return to town with the Monster Blood
@@ -255,7 +256,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Second+ Run - Tenet Offerings" 
 
-    This feature is only available after a first run. Talk to Tenet in town before entering the Witch's Cave to select 1 of the 3 offerings in advance
+    This feature is only available on a second run. Talk to Tenet in town before entering the Witch's Cave to select 1 of the 3 offerings in advance:
     
     - Do not talk to Tenet = 5 offerings
     - Hen = 4 offerings
@@ -265,15 +266,18 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Witch Burning Mechanic"
 
-    When returning to town for one of the offerings a scene will play of a villager being burned at the stake. The number of innocent villagers that die impacts whether the witch (Elencia) is alive or dead after the battle
+    When returning to town for one of the offerings a scene will play of a villager being burned at the stake. The number of innocent villagers that die impacts whether the witch (Elencia) is alive or dead after the boss fight
     
-    - Witness 0-3 deaths = Elincia lives
+    - Witness 0 - 3 deaths = Elincia alive
     - Witness 4 or more deaths = Elincia dies 
-    - It is unclear the exact requirement for triggering a witch burning scene. Based on limited testing it seems to be 1) the number of battles and/or 2) returning to town after giving an offering, but before accepting the next request
+    - It is unclear the exact requirement for triggering a witch burning scene
+    - Based on limited testing it seems to be 
+        - Number of battles and/or 
+        - Returning to town after giving an offering, but before accepting the next request
 
-There are a total of 3 (known) endings. 
+There are a total of 3 (known) endings. The only small difference is the rewards are slightly smaller if you  
 
-!!! warning "What ending should I do first?"
+??? warning "What ending should I do first?"
 
     - It is recommended to do the "Elencia dies" ending on a first run
     - A first run requires doing all 5 brazier offerings
@@ -281,19 +285,25 @@ There are a total of 3 (known) endings.
     - Return to town after offering the rabbits or living blood to see a 4th scene to ensure Elincia dies 
     - For the other 2 endings choose the "Sheep" in town from Tenent to ensure 0 deaths and Elencia being alive after the fight 
 
-??? "Elencia dies"
+??? "Elencia Dies"
 
+    - After the boss battle Elincia will die
+    - Exit and the ending sequence will play 
+    - Note that the possible Achievement is shared with the Admiral route 
+    
     !!! tip "Rewards"
         - "Bad" ending
-        - Achievement:  "A Witch There Was" [OR] No achievement if Elincia died in the Admiral route
+        - Achievement: "A Witch There Was" [OR] No achievement if Elincia died in the Admiral route
         - 9,000 gold
         - Tenet remarks on how many innocent people died
 
-??? "Elencia alive - "Condemn the witch""
+??? "Elencia Alive - "Condemn the witch""
 
-    - After the boss fight select "Examine the body"
+    - After the boss fight Elincia will be alive, but unconscious  
+    - "Examine the body"
     - "Examing the head" 
-    - "Pull it out"
+    - "Pull it out" (forced to select this to move forward)
+    - Exit and return to town to watch the ending scenes 
     - "Prepare yourself" (either choice has no impact on the ending)
     - "Condemn the Witch"
     
@@ -305,11 +315,13 @@ There are a total of 3 (known) endings.
         - 2 Junk (requires "Sheep" for 0 deaths)
         - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
-??? "Elencia alive - "Tell the truth""
+??? "Elencia Alive - "Tell the truth""
 
-    - After the boss fight select "Examine the body"
+    - After the boss fight Elincia will be alive, but unconscious  
+    - "Examine the body"
     - "Examing the head" 
-    - "Pull it out"
+    - "Pull it out" (forced to select this to move forward)
+    - Exit and return to town to watch the ending scenes 
     - "Prepare yourself" (either choice has no impact on the ending)
     - "Condemn the Witch"
 
