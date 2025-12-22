@@ -286,7 +286,7 @@ There are a total of 3 (known) endings. The only small difference is that you wi
     - A first run requires doing all 5 brazier offerings
     - Returning to town only for the brazier offerings results in exactly 3 witch burning scenes
     - Return to town after offering the rabbits or living blood to see a 4th scene to ensure Elincia dies 
-    - For the other 2 endings choose the "Sheep" in town from Tenent to ensure 0 deaths and Elencia being alive after the fight 
+    - For the other 2 endings choose the "Sheep" in town from Tenent. It immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
 
 !!! "Witch boss fight details to be added soon."
 
@@ -310,8 +310,8 @@ There are a total of 3 (known) endings. The only small difference is that you wi
 
 ??? "Elencia Alive - "Condemn the witch"<span style="color: MediumOrchid">*</span>"
 
-    - Talk to Tenet in town and select the Sheep
-    - On B2F more enemies will spawn ("ROAR")when you enter the hallway to the brazier
+    - Talk to Tenet in town and select the Sheep to unlock the witch's door 
+    - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
 
     ??? danger "Boss: Witch"
 
@@ -333,8 +333,8 @@ There are a total of 3 (known) endings. The only small difference is that you wi
 
 ??? "Elencia Alive - "Tell the truth""
 
-    - Talk to Tenet in town and select the Sheep
-    - On B2F more enemies will spawn ("ROAR")when you enter the hallway to the brazier
+    - Talk to Tenet in town and select the Sheep to unlock the witch's door 
+    - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
 
     ??? danger "Boss: Witch"
 
