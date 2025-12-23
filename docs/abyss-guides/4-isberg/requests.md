@@ -659,7 +659,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 ??? "Best Ending - Elencia Alive"
 
     - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
-    - Subsequent runs - Select the Broom from Tenet in town
+    - Subsequent runs - Select the Broom from Elencia in town
     - Choose "Capture" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Enter the Witch's Cave 
