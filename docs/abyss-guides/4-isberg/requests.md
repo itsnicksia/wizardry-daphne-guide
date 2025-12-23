@@ -419,7 +419,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
         ??? tip "Rewards"
             - Achievement: "A Witch There Was" 
             - 9,000 Gold
-            - Achievement is shared with an ending in the Admiral route ("Good Ending - Elencia Dies") and can only be received once
+            - Achievement is shared with an ending in the Admiral route ("Good Ending - Elencia Dead") and can only be received once
 
 ??? "Good Ending - Elencia Alive - "Tell the Truth""
 
@@ -481,7 +481,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
     **If you plan to do all 3 endings:**
     
-    - "Bad Ending - Elencia Dies" is recommended since you have to do all 5 brazier offering requests on a first run
+    - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
     - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
     - An Extra step is required 
         - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
@@ -494,19 +494,22 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ##### Admiral Route
 
-!!! warning "We suspect an ending in the Admiral route has not yet been identified given the large number of ending permutations and dialogue choices. The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)"
+!!! warning "Important! 
+    
+    - We suspect an ending in the Admiral route has not yet been identified given the large number of ending permutations and dialogue choices
+    - The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)"
 
-The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. The Admiral is skeptical that witch's exist, but Elinas thinks that a Darkenbind Ritual might be taking place in the area. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
+The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
 **Mechanics** 
 
 ??? warning "Note on Initial Choices" 
 
     - The Admiral route is deceptively structured
-    - Choosing to "capture" a witch or "threaten" Cleric Ludwin has no impact on the ending
-    - It is the number of offerings to the brazier that determines whether Elencia is alive or dead after the boss fight
+    - Choosing to "capture a witch" or "threaten" Cleric Ludwin has no impact on the ending
+    - The number of offerings to the brazier determines whether Elencia is alive or dead after the boss fight
     - Elencia's post-battle status (dead or alive) determines the ending
-    - The "prepare a sedative" option is self-contained and separate from the brazier offerings mechanic    
+    - The "prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
 
 ??? "Brazier Offerings"
 
@@ -519,19 +522,20 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Repeat until the witch's door is unlocked
 
     ??? "Tasks"
-        - 3 Rabbits = Defeat 3 enemies with vorpal bunnies
-        - Broom = Return to town and speak with Tenet
-        - Living Blood = Defeat 2 groups of "monsters" (magical-beast, demi-human, demon?
-        - Infant = Return to town and speak with Tenet
-        - Gold Ore = Defeat 3 groups of tough enemies 
+        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
+        - Broom = Return to town and speak with Elinas
+        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+        - Infant (Lamb) = Return to town and speak with Elinas
+        - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
 
 ??? "Elinas Offerings" 
 
     - Only available on a second run
     - Talk to Elinas in town before entering the Witch's Cave
-    - Select 1 of the 2 offerings in advance, which reduces the total number of brazier requests 
-
+    - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
+    
     **Brazier requests**
+    
     - Do not talk to Elinas = 5 
     - Broom = 3 
     - Infant (Lamb) = 1 
@@ -540,14 +544,15 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
 ??? warning "Ending Requirements"
 
-    Total of 3 confirmed endings
+    - Total of 3 confirmed endings 
+    - Possible another ending exists that has yet to be identified
 
     **Endings** 
     
     - Bad = Prepare Sedative 
-    - Good = Elencia Dead (Pick Infant)
-    - Best = Elencia Alive (Pick Broom)
-    - On the first run you will always get the Best ending since you have to collect all 5 brazier offerings
+    - Good = Elencia dead (Pick Infant on subsequent runs)
+    - Best = Elencia alive (Pick Broom on subsequent runs)
+    - On the first run you will always get the Best ending (Elencia alive) since you have to collect all 5 brazier offerings
 
     **Rewards**
     
@@ -573,6 +578,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
         ??? danger "Cyclops + Bigfoot"
         
+            - More details to be added soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
             - At ~80% HP the Cyclops will summon another Bigfoot
             - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -589,16 +595,16 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
 ??? "Good Ending - Elencia Dead"
 
-    !!! warning "Can only be done on a second run"
+        !!! warning "Can only be done on a second run"
      
     - Choose "Capture" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm you will help search for the witch
     - Speak with Elinas and select the Infant (Lamb) 
     - Enter the Witch's Cave 
     - Head south and take the stairs down to B2F 
-    - Go up and to the right to the large room with a brazier and multiple doors  
+    - Go up and to the right to the large room with multiple doors  
     - Interact with the brazier 
-    - Offer the Infant (Lamb) and explore the SE room until Lulu comments 
+    - Offer the Infant (Lamb) and explore the SE room at the end of the path until Lulu comments 
     - Return to the brazier and it will request the Gold Ore 
     - Go back upstairs to B1F  
     
@@ -607,7 +613,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             ??? map "Gold Ore Location" 
             
                 <div align="center">
-                ![](./img/admiral-gold-ore.png)
+                ![](./img/admiral-gold-ore.PNG)
                 </div>
                 
                 - Located directly across from the entrance 
@@ -629,7 +635,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     - Return to the brazier and offer the Gold Ore to unlock the witch's room 
 
         ??? danger "Boss: Witch"
-            - Fight details soon
+            - Details to be added soon
 
     - Elencia dies after the boss fight 
     - Exit 
@@ -647,13 +653,13 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Achievement: "A Witch There Was" 
             - 14,000 Gold
             - Calm Wind Resistram<span style="color: MediumOrchid">*</span> 
-            - Achievement is shared with an ending in the Admiral route and can only be received once
+            - Achievement is shared with an ending in the Pontiff route ("Bad Ending - Elencia Dead") and can only be received once
             - The Admiral is satisfied with this outcome 
 
 ??? "Best Ending - Elencia Alive"
 
-    - First run - You will always receive this ending on a first run 
-    - Additional runs - Select the Broom from Tenet in town
+    - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
+    - Subsequent runs - Select the Broom from Tenet in town
     - Choose "Capture" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Enter the Witch's Cave 
