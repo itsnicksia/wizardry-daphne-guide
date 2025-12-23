@@ -21,9 +21,9 @@
 **Gender**: {{ chardata['Gender'] }}  
 **Type**: {{ chardata['Type'] }}  
 **Personality**: {{ chardata['Personality'] }}  
-**Starting Class**: {{ chardata['Primary Class'] }} {%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
+**Starting Class**: {{ chardata['Primary Class'] }}  
+{%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
 {%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
-dary Class'] }}{% endif %}  
 
 
 ## Base Traits  
@@ -93,4 +93,3 @@ extra text can be added between skills
     === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Discipline']) }}
 {% endif %}
-
