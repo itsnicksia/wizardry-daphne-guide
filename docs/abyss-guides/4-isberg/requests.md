@@ -381,9 +381,9 @@ The Pontiff route is a race against time to discover the identity of the witch t
     
     **Endings** 
     
-    - Bad: Elencia dead (4+ witch burnings) 
-    - Good: Elencia alive (0-3 witch burnings) + "Tell the truth" 
-    - Best: Elencia alive (0-3 witch burnings) + "Condemend" 
+    - Bad = Elencia dead (4+ witch burnings) 
+    - Good =  Elencia alive (0-3 witch burnings) + "Tell the truth" 
+    - Best = Elencia alive (0-3 witch burnings) + "Condemend" 
 
     **Rewards**
     
@@ -492,7 +492,6 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
 ??? "Brazier Offerings"
 
     ??? "Steps"
-    
         - Interact with the brazier and it will tell you the offering it seeks
         - Collect the offering via fighting enemies or returning to town 
         - Give the offering and it will unlock a nearby door 
@@ -501,7 +500,6 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
         - Repeat until the witch's door is unlocked
 
     ??? "Tasks"
-    
         - 3 Rabbits = Defeat 3 enemies with vorpal bunnies
         - Broom = Return to town and speak with Tenet
         - Living Blood = Defeat 2 groups of "monsters" (magical-beast, demi-human, demon?
@@ -514,32 +512,33 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
     - Talk to Elinas in town before entering the Witch's Cave
     - Select 1 of the 2 offerings in advance, which reduces the total number of brazier requests 
 
-    **Brazier requests:**
+    **Brazier requests**
     - Do not talk to Elinas = 5 
     - Broom = 3 
-    - Infant = 1 
+    - Infant (Lamb) = 1 
 
 **Endings**
 
 ??? warning "Ending Requirements"
 
-    There are a total of 3 (known) endings.
+    Total of 3 confirmed endings
 
-    **Endings:** 
+    **Endings** 
     
     - Bad = Prepare Sedative 
     - Good = Elencia Dead (Pick Infant)
     - Best = Elencia Alive (Pick Broom)
-    - On the first run you will always get the "Best" ending since you have to collect all 5 brazier offerings
+    - On the first run you will always get the Best ending since you have to collect all 5 brazier offerings
 
-    **Rewards:**
+    **Rewards**
     
     - No extra junk is given as a reward on any ending
     - Full gold reward is always given
 
 ??? "Bad Ending - Prepare Sedative"
 
-    - Speak to Raimi in town and he suggests gathering Sar-moon Herb to calm the villagers
+    - Speak to Raimi in town 
+    - Recommends gathering Sar-moon Herb to calm the villagers
     - Enter the Witch's Cave 
     - Head north and down the stairs to B2F
     
@@ -553,82 +552,89 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
         
     - The side area with the Cyclops + Bigfoot is completely optional. It has no items or impact on the ending
     
-    ??? danger "Cyclops + Bigfoot"
-    
-        - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-        - At ~80% HP the Cyclops will summon another Bigfoot
-        - Cyclop's "Wheeling Cleave" can kill multiple team members 
-        - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
-    
+        ??? danger "Cyclops + Bigfoot"
+        
+            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+            - At ~80% HP the Cyclops will summon another Bigfoot
+            - Cyclop's "Wheeling Cleave" can kill multiple team members 
+            - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+            
     - Exit
     - In town speak with Raimi
-    
-    ??? tip "Rewards"
-        - 7,000 Gold
-        - Scroll of Torrent 
-        - Admiral is displeased with this approach 
+    - Ending sequences begins automatically   
+
+        ??? tip "Rewards"
+            - 7,000 Gold
+            - Scroll of Torrent 
+            - Admiral is displeased with this approach 
 
 ??? "Good Ending - Elencia Dead"
 
-     ??? warning "Can only be done on a second run"
+    !!! warning "Can only be done on a second run"
      
-    - Select "Capture" or "Threaten" it does not matter 
-    - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
-    - Speak with Elinas in town and select the Infant 
+    - Choose "Capture" or "Threaten" it does not matter 
+    - Speak with Cleric Ludwin in town 
+    - Must confirm you will help search for the witch
+    - Speak with Elinas and select the Infant (Lamb) 
     - Enter the Witch's Cave 
     - Head south and take the stairs down to B2F 
-    - Go up and to the right to the large room with multiple doors  
+    - Go up and to the right to the large room with a brazier and multiple doors  
     - Interact with the brazier 
-    - Offer the Infant, explore the SE room, return, and the brazier will request the Gold Ore 
-    - Go back upstairs to B1F to collect the Gold Ore 
+    - Offer the Infant (Lamb) and explore the SE room
+    - Return to the brazier and it will request the Gold Ore 
+    - Go back upstairs to B1F  
     
-    ??? "Gold Ore Offering"
-
-        ??? map "Gold Ore Location" 
-        
-            <div align="center">
-            ![](./img/princess-gold-ore.png)
-            </div>
-
-        ??? danger "Enemy Gauntlet"
-        
-            Before picking up the Gold Ore a group of 3 enemies will appear behind you. You will have to fight a series of back-to-back battles with tough enemies
+        ??? "Gold Ore"
     
-            **Fights:** 
+            ??? map "Gold Ore Location" 
             
-            - Fight 1: 2 Big Slime (front); Evil Eye (back)
-            - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
-            - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
-            - Battle strategy to be added soon
+                <div align="center">
+                ![](./img/princess-gold-ore.png)
+                </div>
+    
+            ??? danger "Enemy Gauntlet"
+            
+                - Before picking up the Gold Ore a group of 3 enemies will appear behind you
+                - Forced to fight a series of back-to-back battles with tough enemies
+        
+                **Fights** 
+                
+                - Fight 1: 2 Big Slime (front); Evil Eye (back)
+                - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
+                - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
+                - Battle strategy to be added soon
 
-    - Exit and rest at the inn to recover for the upcoming boss fight 
+    - Exit 
+    - Rest at the inn to recover for the upcoming boss fight 
     - Return to the brazier and offer the Gold Ore to unlock the witch's room 
 
-    ??? danger "Boss: Witch"
-        - Fight details soon
+        ??? danger "Boss: Witch"
+            - Fight details soon
 
     - Elencia dies after the boss fight 
     - Exit 
-    - Return to town and the ending sequences will begin automatically  
+    - Return to town 
+    - Ending sequences will begin automatically  
 
-    ??? warning "Ending Choices" 
-
-        - Outside a few different lines of flavor text the 2 choices presented when comforting Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
-        - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
-        - This could potentially be a bug or there is some combination of responses that was missed 
+        ??? warning "Note on Ending Choices" 
     
-    ??? tip "Rewards"
-    
-        - Achievement: "A Witch There Was" 
-        - 14,000 Gold
-        - Calm Wind Resistram<span style="color: MediumOrchid">*</span> 
-        - Achievement is shared with an ending in the Admiral route and can only be received once
-        - The Admiral is satisfied with this outcome 
+            - Outside a few different lines of flavor text the 2 choices presented when comforting Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
+            - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
+            - This could potentially be a bug or there is some combination of responses that was missed 
+        
+        ??? tip "Rewards"
+        
+            - Achievement: "A Witch There Was" 
+            - 14,000 Gold
+            - Calm Wind Resistram<span style="color: MediumOrchid">*</span> 
+            - Achievement is shared with an ending in the Admiral route and can only be received once
+            - The Admiral is satisfied with this outcome 
 
 ??? "Best Ending - Elencia Alive"
 
-    - You will always receive this ending on a first run (select Broom on subsequent runs)
-    - Select "Capture" or "Threaten" it does not matter 
+    - First run - You will always receive this ending on a first run 
+    - Second run - Select the Broom from Tenet in town
+    - Choose "Capture" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Enter the Witch's Cave 
     - Head south and take the stairs down to B2F 
@@ -636,40 +642,41 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
     - Interact with the brazier 
     - Complete the 5 offering requests 
     
-    ??? "Gold Ore Offering"
-
-        ??? map "Gold Ore Location" 
-            <div align="center">
-            ![](./img/princess-gold-ore.png)
-            </div>
-
-            - Located directly across from the entrance 
-
-        ??? danger "Enemy Gauntlet"
-        
-            Before picking up the Gold Ore a group of 3 enemies will appear behind you. You will have to fight a series of back-to-back fights with tough enemies
+        ??? "Gold Ore Offering"
     
-            **Fights:** 
+            ??? map "Gold Ore Location" 
+                <div align="center">
+                ![](./img/princess-gold-ore.png)
+                </div>
+    
+                - Located directly across from the entrance 
+    
+            ??? danger "Enemy Gauntlet"
             
-            - Fight 1: 2 Big Slime (front); Evil Eye (back)
-            - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
-            - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
-            - Battle strategy to be added soon
+                Before picking up the Gold Ore a group of 3 enemies will appear behind you. You will have to fight a series of back-to-back fights with tough enemies
+        
+                **Fights:** 
+                
+                - Fight 1: 2 Big Slime (front); Evil Eye (back)
+                - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
+                - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
+                - Battle strategy to be added soon
 
     - Exit and rest at the inn to recover for the upcoming boss fight 
     - Return to the brazier and offer the Gold Ore to unlock the witch's room 
 
-    ??? danger "Boss: Witch"
-        - Fight details soon
+        ??? danger "Boss: Witch"
+            - Fight details soon
 
-    - Elencia is alive, but passes out after the boss fight 
+    - Elencia is alive, but unconscious after the boss fight 
     - Exit 
-    - Return to town and the ending sequences will begin automatically  
+    - Return to town 
+    - Ending sequences will begin automatically  
     
-    ??? tip "Rewards"
-        - Achievement: "You Are Permitted to Call My Name, But Only Once" 
-        - 19,000 Gold
-        - The Admiral is pleased with this outcome
+        ??? tip "Rewards"
+            - Achievement: "You Are Permitted to Call My Name, But Only Once" 
+            - 19,000 Gold
+            - The Admiral is pleased with this outcome
 
 ## Minor Harken Beyond the Blizzard
 
