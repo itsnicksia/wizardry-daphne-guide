@@ -1,6 +1,8 @@
 # Deepersnow Hinterlands
 
-!!! warning "This page is a work in progress and will be updated on a regular basis. Use Ctrl + F5 to refresh the page."
+!!! warning "Work In Progress"
+    - This page is regularly updated as we correct and add additional information
+    - Use Ctrl + F5 to refresh the page
 
 ## Rare Ore Recovery Request
 
