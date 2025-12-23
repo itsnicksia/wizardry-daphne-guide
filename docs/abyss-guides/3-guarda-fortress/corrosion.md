@@ -1,8 +1,13 @@
-# Corrosion Sentries Locations
+# Corrosion Sentries 
+
+!!! warning "This page is a work in progress. Corrosion sentries [10] and [12] will be updated soon."
 
 ## Overview
 
-xx
+- The purpose of this page is to assist any players that are missing a Corrosion Sentry on their Cursed Wheel
+- It is a mechanic that is not explained well in the game, but is critical to progression
+- Directly impacts getting the Abyss's multiple endings and access to the Bounty (Rank 12) Cyclops
+- The "true" version of the GWO can only be fought when at 0 corrosion (all 13 Corrosion Sentries registered)
 
 ## Mechanics
 
@@ -48,14 +53,14 @@ xx
     ![](./img/corr-register-corrosion-sentry-steps.png)
     </div>
 
-### "Spotted" and "Not spotted" Flags
+### "Spotted" and "Not Spotted" Flags
 
 The "Spotted" and "Not spotted" designations are hidden flags the game tracks. However, it only seems to "register" or "save" the flags after reaching the next Cursed Wheel node along the normal progression route. 
 
 !!! warning "Flag definitions"
 
-    - "Spotted" flag: Entering into a corrosion sentry's line-of-sight
-    - "Not spotted" flag: Moving past a corrosion sentry without entering its line-of-sight. Requires the golem reversal power 
+    - "Spotted" Flag: Entering into a corrosion sentry's line-of-sight
+    - "Not Spotted" Flag: Moving past a corrosion sentry without entering its line-of-sight. Requires the golem reversal power 
     - For each corrosion sentry both flags must be registered for it to appear in the Cursed Wheel
 
 During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered. The golem reveral power can be used to block a corrosion sentry's line-of-sight or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level. 
@@ -134,12 +139,12 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
 ## Enshadowed Well of Life 
 
-!!! tip "Time-saving tip" 
+??? tip "Time-saving tip" 
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
     - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
     - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
 
-!!! warning 
+??? warning "Low Corrosion Required"  
     - Corrosion sentry [4] requires a low Abyss corrosion level to access
     - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
 
@@ -259,11 +264,11 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
 !!! danger "Registering corrosion sentries [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3"
 
-!!! warning
+??? "Registration Note"
     - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
     - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
     
-!!! tip "Time-saving Tip"
+??? tip "Time-saving Tip"
     - Corrosion sentries [3] and [4] can be registered in the same run 
 
 ### South Corrosion Sentry 
@@ -625,11 +630,13 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
 ## Fortress 2F Minor Harken 
 
-!!! warning 
+!!! warning "Registration Note"
+
     - To register corrosion sentries [8] and [9] you must do the entire route from the Zone 7 Harken ("Ghosts of Yore Vanquished") to the Zone 9 Harken ("Fortress 2F Minor Harken") without exiting, wheeling, or "accepting death"
     - Corrosion sentry [9] is encountered before [8], but are listed in the opposite order in the Cursed Wheel. Scroll down and start with corrosion sentry [9] first
 
-!!! tip "Time-saving Tip"  
+??? tip "Time-saving Tip"
+
     - Both corrosion sentries can be registered at the same time to avoid multiple runs
 
 ### 2F North Corrosion Sentry 
@@ -779,10 +786,16 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
 ## Fortress 3rd Floor Arrival
 
-!!! warning "Warning"
+??? warning "Registration Note"
 
     - To register corrosion sentries [10]-[13] you must do the entire route from the Zone 9 Harken ("Fortress 2F Minor Harken") to the Zone 10 Fountain ("Fortress 3rd Floor Arrival") without exiting, wheeling, or "accepting death" 
     - Corruption sentry [10] and [12] are frequently missed as most players leave immediately and do not continue to the Zone 10 Fountain to register 
+
+!!! bug "Critical Bug"
+
+- "Corrosion sentries [10] and [12] cannot be registered properly at the Zone 10 Fountain ("Fortress 3rd Floor Arrival
+- To register you need to start at the Zone 9 Harken ("Fortress 2F Minor Harken") and in one full run defeat GWO 6 ("Blackmail" ending) or GWO 8 ("Blackmail" ending) since their registration node is "Triumphant Return"
+- Easiest way to do this is on your final run as long as you do not encounter either of them on the way to the GWO fight ("Not spotted") 
 
 !!! tip "Time-saving tip"
 
@@ -800,7 +813,8 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
     !!! warning
         - Corrosion sentry [10] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
         - Corrosion sentry [10] must be run _twice_ for both the "Spotted" and "Not spotted" flags. It is not encounterd during a first run
-        - One of the most frequently missed corrosion sentries as players exit before reaching the Zone 10 Fountain ("Fortress 3rd Floor Arrival")
+        
+        !!! bug "The registration node is "Triumphant Return", which requires either the "Blackmail" or "Mastermind" endings 
 
     ??? map "Location"
     
@@ -821,7 +835,7 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
             Cursed Wheel Nodes
             
             - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
-            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+            - Register: "Triumphant Return" ("Blackmail" or "Mastermind" ending)
 
             Directions 
             
@@ -932,7 +946,7 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
             Cursed Wheel Nodes
             
             - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
-            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+            - Register: "Triumphant Return" ("Blackmail" or "Mastermind" ending)
 
             Directions
             
@@ -946,8 +960,8 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
             Cursed Wheel Nodes
             
             - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
-            - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
-            
+            - Register: "Triumphant Return" ("Blackmail" or "Mastermind" ending)
+
             Directions
             
             - xx
