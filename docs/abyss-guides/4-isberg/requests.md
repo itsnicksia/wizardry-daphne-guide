@@ -87,14 +87,14 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ??? "Faction Endings" 
 
-    **Summary:** 
+    **Summary** 
     
     - 10 unique endings across all factions have been identified 
     - Some endings may have been missed 
     - Known endings are sufficient for getting the 2 Guiding Lights (Luck)
     - The Princess route has 4 since the Best ending has 2 distinct sub-endings with different rewards and scenes 
 
-    **Endings per Faction:**
+    **Endings per Faction**
 
     - Princess = 4 
     - Pontiff = 3
@@ -103,7 +103,7 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ??? tip "Note on Guiding Lights"
 
-    **Unlocking Conditions:** 
+    **Unlocking Conditions** 
     
     - Still being tested and validated for the 2 Guiding Lights (Luck) 
     - Best estimate as of 12/22:
@@ -111,9 +111,9 @@ The objectives of each faction are different, but related to stopping the witch 
         - 1 is unlocked after getting all 3 of the Best endings
     - Confirmed that max faction affinity is required  
     - The second Guiding Light may require defeating the true version of the GWO (4th fight)
-    - Guiding Lights will dissolve if it's already been received 
+    - A Guiding Light will dissolve if it's already been received 
     
-    **Other Notes:** 
+    **Other Notes** 
     
     - Some Discord members have reported not receiving the Guiding Light after getting the Best ending on the Admiral and Pontiff routes
     - Recommend setting the Cursed Wheel to max faction affinity before accepting a faction request to avoid (potentially) redoing an ending
@@ -122,10 +122,10 @@ The objectives of each faction are different, but related to stopping the witch 
 ##### The Witch's Cave  
 
 ??? "Overview"
-    - Each faction can only access a certain portion of the map
+    - Each faction can only access certain areas of the map
     - Map progress is permanently recorded
     - Full map completion requires doing other faction quests
-    - Stone pillars block pathways, cannot be removed, and will change depending on the faction  
+    - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
     - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
     - Enemy level is 65
     - Some chests have high Find/Trap Disarm requirements even at 150/150
@@ -165,19 +165,20 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
     - Use the small islands of normal tiles to reset the 10 step counter to progress deeper into the area 
     - Exit 
     - Speak to the Herbalist in town
+    - Ending sequence begins automatically 
 
-    ??? tip "Rewards"
-        - 8,000 Gold
-        - 2 Junk<span style="color: MediumOrchid">*</span>
-        - Scroll of Inferno
+        ??? tip "Rewards"
+            - 8,000 Gold
+            - 2 Junk<span style="color: MediumOrchid">*</span>
+            - Scroll of Inferno
 
 ??? "Good Ending - Consult with a Physician"
 
-    - Speak to Raimi in town
-    - He recommends using Slatewillow, an herb that grows in the Witch's Cave 
+    - Speak to Raimi in town and he will privately evaluate Rosa
+    - Upon returning recommends Slatewillow as a cure 
     - Enter the Witch's Cave 
-    - Slatewillow is located at the end of a long, one-way path through B1F and B2F 
-    - Requires going through part of the "sleepy tunnel" area 
+    - The Slatewillow is located at the end of a long, one-way path through B1F and B2F 
+    - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
     - Low-level teams should consider bringing MP and SP pots as insurance
     - From the entrance head to the southeast to access a dropdown point to B2F 
     
@@ -186,10 +187,10 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             ![](./img/princess-hole.png)
             </div>
         
-    - The B2F room you drop into has 4 mobs and you will likely be ambushed 
-    - Follow the past west and then north (the southern stairs are a dead end)
-    - The side area with the Cyclops + Bigfoot fight is optional. It has no items or impact on the ending
-
+    - The room you drop into has 4 enemies in a small space
+    - Follow the path west and then north (southern stairs are a dead end)
+    - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
+    
         ??? danger "Cyclops + Bigfoot"
         
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -202,23 +203,24 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
         ??? "Sleep Tiles" 
     
-        - After 10 steps you will lose consciousness and be teleported back to your starting point 
-        - During an enemy encounter all team members will be asleep at the start of battle  
-        - Aggro and bait enemies onto normal tiles for an easier battle
+            - After 10 steps you will lose consciousness and be teleported back to your starting point 
+            - During an enemy encounter all team members will be asleep at the start of battle  
+            - Aggro and bait enemies onto normal tiles for an easier battle
                 
-    - The Slatewillow is located in front of the teleporter and will be automatically picked up
+    - The Slatewillow is in front of the teleporter and will be automatically picked up
     - Exit 
     - Speak with Raimi in town  
+    - Ending sequence begins automatically 
 
-    ??? tip "Rewards"
-        - Achievement: "A Terrible Nightmare"
-        - 15,000 Gold 
-        - There is no known way to avoid this ending 
+        ??? tip "Rewards"
+            - Achievement: "A Terrible Nightmare"
+            - 15,000 Gold 
+            - There is no known way to avoid this ending 
 
 ??? "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
     
     - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
-    - The default Mystic Route has a different map configuration and quest giver
+    - The default Mystic Route has a different map arrangement and quest giver
     - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
     
     ??? "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
@@ -259,15 +261,17 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
         - Exit 
         - Speak with Dylanhardt in town 
-        - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
-        - After the scene Pulgritte and Dylandhardt will leave 
-        - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
+        - Ending sequence begins automatically 
+            - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
+            - After the scene Pulgritte and Dylandhardt will leave 
+            - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
 
         ??? warning "Ending Choices"
         
             ??? "Sub-Ending A: Tell the Truth<span style="color: MediumOrchid">*</span>"
             
                 !!! tip "Rewards"
+                    - Best Ending
                     - Achievement: "One Who Carries the Future of Her Land"
                     - 11,000 Gold 
     
@@ -278,7 +282,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     - Achievement: "One Who Carries the Future of Her Land" (needs verifying)
                     - 9,000 Gold 
                     - 1 Junk<span style="color: MediumOrchid">*</span>
-                    - Unclear if this sub-ending unlocks the Guiding Light (Luck)
+                    - Unclear if this sub-ending can also unlock the Guiding Light (Luck)
 
     ??? "Bad Ending - Mystic Route"
 
@@ -309,7 +313,8 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - Speak to the Mystic and give her the Sar-Moon Herb 
         - Go north to exit 
         - Speak with Dylanhardt  
-        
+        - Ending sequence begins automatically 
+
         ??? tip "Rewards"
             - 9,000 Gold
             - Calm Wind Crest
@@ -338,7 +343,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     
         - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
         - Hen = Return to town and speak with Tenet
-        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?
+        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
         - Infant (Lamb) = Return to town and speak with Tenet
         - Sheep = Return to town and speak with Tenet
 
@@ -348,11 +353,11 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Talk to Tenet in town before entering the Witch's Cave
     - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
 
-    **Brazier requests:**
+    **Brazier requests**
     
     - Do not talk to Tenet = 5 
     - Hen = 3  
-    - Infant = 1 
+    - Infant (Lamb) = 1 
     - Sheep = 0 (unlocks the witch's door) 
 
 ??? "Witch Burnings"
@@ -360,11 +365,11 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Returning to town for an offering results in a witch burning
     - The total number of witch burnings witnessed determines whether Elencia is alive or dead after the boss fight
 
-    **Post-boss fight status:** 
+    **Elencia post-boss fight status** 
     
     - Witness 0-3 witch burnings = Elencia alive
     - Witness 4+ witch burnings = Elencia dead
-    - The exact requirement for triggering a witch burning scene are unclear, but based on limited testing:
+    - The exact requirement for triggering a witch burning scene are unclear. Based on limited testing:
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
@@ -372,27 +377,29 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? warning "Ending Requirements"
 
-    - There are a total of 3 confirmed endings based on the number of witch burnings witnessed and dialogue choices in the final scene if Elencia is alive
+    - Total of 3 confirmed endings based on the number of witch burnings witnessed and dialogue choices in the final scene if Elencia is alive
     
-    **Endings:** 
+    **Endings** 
     
-    - Bad: Elencia Dead (4+ witch burnings) 
-    - Good: Elencia Alive (0-3 witch burnings) + "Tell the truth" 
-    - Best: Elencia Alive (0-3 witch burnings) + "Condemend" 
+    - Bad: Elencia dead (4+ witch burnings) 
+    - Good: Elencia alive (0-3 witch burnings) + "Tell the truth" 
+    - Best: Elencia alive (0-3 witch burnings) + "Condemend" 
 
-    **Rewards:**
+    **Rewards**
     
     - Junk rewards are reduced if any witch burnings are witnessed
     - Full gold reward is always given
 
 ??? "Bad Ending - Elencia Dead"
      
-    - First run 
-    - Second run do not speak with Tenet it town 
+    - First run - Must watch an additional, 4th witch burning 
+    - Second run - Do not speak with Tenet in town + must watch an additional, 4th witch burning
     - Enter the Witch's Cave 
     - Complete all 5 brazier offering requests
-    - While completing the offering requests return to town an additional time to witness 4 witch burnings otherwise Elencia will be alive after the boss fight 
-    - When returning with the Sheep additional enemies will spawn ("ROAR") along the B2F path to the brazier
+    - If you only return to town to get the offering request items you will only witness 3 witch burnings and then Elencia will be alive after the boss fight
+    - You must make an _additional_ trip back to town to witness the 4th witch burning
+    - Recommend doing it after giving the brazier 3 Rabbits or Living Blood. Yes, it is a pain, but required 
+    - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in B2F
     
         ??? danger "Boss: Witch"
             - Details to be added soon 
@@ -402,14 +409,15 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Return to town 
     - Ending sequence begins automatically 
     
-    ??? tip "Rewards"
-        - Achievement: "A Witch There Was" 
-        - 9,000 Gold
-        - Achievement is shared with an ending in the Admiral route ("Good Ending - Elencia Dies") and can only be received once
+        ??? tip "Rewards"
+            - Achievement: "A Witch There Was" 
+            - 9,000 Gold
+            - Achievement is shared with an ending in the Admiral route ("Good Ending - Elencia Dies") and can only be received once
 
 ??? "Good Ending - Elencia Alive - "Tell the Truth""
 
-    - Talk to Tenet in town and select the Sheep 
+    - First run - Automatically if you only return to town for the offering request items
+    - Second run - Talk to Tenet in town and select the Sheep 
     - Enter the Witch's Cave
     - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
 
@@ -423,8 +431,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Exit 
     - Return to town 
     - Ending sequences begins automatically   
-    - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
-    - "Tell the Truth"
+        - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
+        - "Tell the Truth"
 
     ??? tip "Rewards"
     
@@ -433,7 +441,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
-    - Talk to Tenet in town and select the Sheep 
+    - First run - Automatically if you only return to town for the offering request items
+    - Second run - Talk to Tenet in town and select the Sheep 
     - Enter the Witch's Cave
     - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
 
@@ -447,30 +456,30 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Exit 
     - Return to town 
     - Ending sequences begins automatically   
-    - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
-    - "Condemn the Witch"
+        - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
+        - "Condemn the Witch"
     
-    ??? tip "Rewards"
-    
-        - Achievement: "Condemn the Witch"
-        - 17,000 Gold
-        - 2 Junk (requires Sheep for 0 deaths)
-        - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
+        ??? tip "Rewards"
+        
+            - Achievement: "Condemn the Witch"
+            - 17,000 Gold
+            - 2 Junk (requires Sheep for 0 deaths)
+            - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
 ??? tip "What Ending Should I Do First?"
 
     **If you plan to do all 3 endings:**
     
-    - "Bad Ending - Elencia Dies" as a first run requires doing all 5 brazier offering requests
+    - "Bad Ending - Elencia Dies" is recommended since you have to do all 5 brazier offering requests
     - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
     - Extra step required 
         - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
-    - Select the Sheep in town from Tenent for the other 2 endings
+    - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
     - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
 
     **If you only want the Guiding Light (Luck):** 
 
-    - Do "Best Ending - Elencia Alive - "Condemn the Witch""
+    - "Best Ending - Elencia Alive - "Condemn the Witch""
 
 ##### Admiral Route
 
