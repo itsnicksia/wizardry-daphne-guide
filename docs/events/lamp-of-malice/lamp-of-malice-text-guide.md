@@ -11,22 +11,23 @@ The event will be enabled when one has reached Level B7 of the Beginning Abyss o
 
 ## Walkthrough
 
-On the entrance to the cave there’s an altar in which you can select 3 difficulty modes: Trial of Simplicity, Moderation and Impossible. Each difficulty increases the monster levels and rewards.   
-*The default difficulty without interacting with the altar is Moderation.*  
+Note: Like the main story more than one run will be needed to get the complete ending for this event.
 
-Like the main story, you will need to do more than one run to get the real ending to the event quest. You can quickly progress to the 4th floor by following the maps below:
+On the entrance to the cave there is an altar from which to select the difficulty mode: Trial of Simplicity, Moderation, and Impossible. Each difficulty increases the monster levels and rewards. The default difficulty without interacting with the altar is *Moderation.*  
+
+Maps (one check: crystal or peculiarity; three checks: elites):
 
 ???+ map "B1F Map"
-  ![](img/b1f.jpg)
+  ![](img/b1f.png)
 
 ???+ map "B2F Map"
-  ![](img/b2f.jpg)
+  ![](img/b2f.png)
 
 ???+ map "B3F Map"
-  ![](img/b3f.jpg)
+  ![](img/b3f.png)
 
 ???+ map "B4F Map"
-  ![](img/b4f.jpg)
+  ![](img/b4f.png)
 
 After reaching the locked doors on B4F and interacting with the 4 altars, you’ll receive 4 quests to gather materials. Bat Wings and Frog Tongues can be obtained in B2F. Rat Teeth and Lizard Tails can be obtained on B3F.
 
