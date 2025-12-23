@@ -99,7 +99,7 @@ The objectives of each faction are different, but related to stopping the witch 
     - Admiral = 3
     - Total = 10 
 
-!!! warning "Note on Guiding Lights"
+??? warning "Note on Guiding Lights"
 
     **Unlocking Conditions:** 
     
@@ -155,6 +155,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         </div>
         
     ??? "Sleep Tiles" 
+    
         - After 10 steps you will lose consciousness and be teleported back to your starting point 
         - During an enemy encounter all team members will be asleep at the start of battle  
         - Aggro and bait enemies onto normal tiles for an easier battle
@@ -176,7 +177,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
     - The Slatewillow is located at the end of a long, one-way path through both B1F and B2F 
     - Requires going through part of the "sleepy tunnel" area 
     - Low-level teams should consider bringing MP and SP pots as insurance
-    - From the entrance head to the southeast to access a dropdown point to BF2 
+    - From the entrance head to the southeast to access a dropdown point to B2F 
     
     ??? map "Dropdown to B2F"
         <div align="center">
@@ -285,7 +286,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - Head south to the person icon on the map
         - Speak with the Mystic and select "Talk about Elden Hill Village"
         - The Mystic recommends using using Sar-moon Herb to calm the villagers 
-        - Head downstairs to BF2 
+        - Head downstairs to B2F 
         
         ??? "Sar-Moon Herb Location"
              <div align="center">
@@ -317,7 +318,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
 ##### Pontiff Route
 
-The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on BF2 as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
+The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
 **Mechanics** 
 
@@ -514,7 +515,7 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
 
     - Speak to Raimi in town and he suggests gathering Sar-moon Herb to calm the villagers
     - Enter the Witch's Cave 
-    - Head north and down the stairs to BF2
+    - Head north and down the stairs to B2F
     
         ??? "Sar-Moon Herb Location"
              <div align="center">
@@ -549,11 +550,11 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Speak with Elinas in town and select the Infant 
     - Enter the Witch's Cave 
-    - Head south and take the stairs down to BF2 
+    - Head south and take the stairs down to B2F 
     - Go up and to the right to the large room with multiple doors  
     - Interact with the brazier 
     - Offer the Infant, explore the SE room, return, and the brazier will request the Gold Ore 
-    - Go back upstairs to BF1 to collect the Gold Ore 
+    - Go back upstairs to B1F to collect the Gold Ore 
     
     ??? "Gold Ore Offering"
 
@@ -604,7 +605,7 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
     - Select "Capture" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Enter the Witch's Cave 
-    - Head south and take the stairs down to BF2 
+    - Head south and take the stairs down to B2F 
     - Go up and to the right to the large room with multiple doors  
     - Interact with the brazier 
     - Complete the 5 offering requests 
