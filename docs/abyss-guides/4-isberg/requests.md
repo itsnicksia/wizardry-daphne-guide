@@ -73,7 +73,7 @@ Upon returning to Isberg a messenger will ask you to return to Royal Capital Luk
 
 The objectives of each faction are different, but related to stopping the witch burnings and identifying its underlying cause. These faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
 
-!!! note "Faction Affinity"
+!!! note "Important! Faction Affinity"
 
     - Supporting a faction in a previous Abyss influences certain outcomes 
     - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
@@ -114,10 +114,12 @@ The objectives of each faction are different, but related to stopping the witch 
     - The second Guiding Light may require defeating the true version of the GWO (4th fight)
     - A Guiding Light will dissolve if it's already been received 
     
-    **Other Notes** 
+    ??? tip "Testing notes" 
     
-    - Some Discord members have reported not receiving the Guiding Light after getting the Best ending on the Admiral and Pontiff routes
-    - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
+        - Some Discord members have reported not receiving the Guiding Light after getting the Best ending on the Admiral and Pontiff routes
+        - Testing to see if other Admiral endings can give the Guiding Light
+        - Unclear if the Princess - Best Ending, sub-ending ("Do not tell the truth") gives the Guiding Light or achievement
+        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 !!! warning "Important! Max faction affinity _must_ be set in the Cursed Wheel in advance to receive Guiding Lights" 
 
@@ -195,6 +197,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
     
         ??? danger "Cyclops + Bigfoot"
         
+            - More details coming soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
             - At ~80% HP the Cyclops will summon another Bigfoot
             - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -243,11 +246,12 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         
                     - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
                     - Defeating the Cyclops is required for the Best ending
-                    - A challenging fight during the early game
-                    - You may have to return at a higher level or with better gear 
+                    - A challenging fight during the early game and you may have to return at a higher level or with better gear 
                     - Will not respawn once defeated
                     
                 ??? danger "Cyclops + Bigfoot"
+
+                    - More details coming soon
                     - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                     - At ~80% HP the Cyclops will summon another Bigfoot
                     - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -306,6 +310,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
        
             ??? danger "Cyclops + Bigfoot"
             
+                - More details coming soon
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                 - At ~80% HP the Cyclops will summon another Bigfoot
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -360,12 +365,12 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Do not talk to Tenet = 5 
     - Hen = 3  
     - Infant (Lamb) = 1 
-    - Sheep = 0 (unlocks the witch's door) 
+    - Sheep = 0 (Unlocks the witch's door) 
 
 ??? "Witch Burnings"
 
     - Returning to town for an offering results in a witch burning
-    - The total number of witch burnings witnessed determines whether Elencia is alive or dead after the boss fight
+    - The total number of witch burnings determines whether Elencia is alive or dead after the boss fight
 
     **Elencia's Status** 
     
@@ -398,9 +403,9 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Second run - Do not speak with Tenet in town and must watch an additional, 4th witch burning
     - Enter the Witch's Cave 
     - Complete all 5 brazier offering requests
-    - If you only return to town to get the offering request items you will only witness 3 witch burnings = Elencia alive after the boss fight
+    - If you only return to town to get the offering request items you will only witness 3 witch burnings = Elencia alive after the boss fight (you do not want this)
     - You must make an _additional_ trip back to town to witness the 4th witch burning
-    - Recommend doing it after giving the brazier 3 Rabbits or Living Blood. Yes, it is a pain, but required 
+    - Recommend going after giving the brazier the 3 Rabbits or Living Blood
     - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in B2F
     
         ??? danger "Boss: Witch"
@@ -432,10 +437,11 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - "Pull it out" (Forced to select)
     - Exit 
     - Return to town 
-    - Ending sequences begins automatically   
-        - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
-        - "Tell the Truth"
-
+    - Ending sequence begins automatically 
+    
+        - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
+        - "Tell the truth"
+        
         ??? tip "Rewards"
         
             - 11,000 Gold
@@ -457,8 +463,11 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - "Pull it out" (Forced to select)
     - Exit 
     - Return to town 
+    - Ending sequence begins automatically 
+        - "Prep
     - Ending sequences begins automatically   
-        - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
+    
+        - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
         - "Condemn the Witch"
     
         ??? tip "Rewards"
@@ -470,11 +479,11 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? tip "What Ending Should I Do First?"
 
-    **If you plan to do all 3 endings**
+    **If you plan to do all 3 endings:**
     
-    - "Bad Ending - Elencia Dies" is recommended since you have to do all 5 brazier offering requests
+    - "Bad Ending - Elencia Dies" is recommended since you have to do all 5 brazier offering requests on a first run
     - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
-    - Extra step required 
+    - An Extra step is required 
         - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
     - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
     - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
