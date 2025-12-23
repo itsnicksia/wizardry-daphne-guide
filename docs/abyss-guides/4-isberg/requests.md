@@ -315,11 +315,11 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - Speak with Dylanhardt  
         - Ending sequence begins automatically 
 
-        ??? tip "Rewards"
-            - 9,000 Gold
-            - Calm Wind Crest
-            - 2 Junk
-            - Same ending scenes as "Bad Ending - Consult with a Herbalist" 
+            ??? tip "Rewards"
+                - 9,000 Gold
+                - Calm Wind Crest
+                - 2 Junk
+                - Same ending scenes as "Bad Ending - Consult with a Herbalist" 
 
 ##### Pontiff Route
 
@@ -365,7 +365,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Returning to town for an offering results in a witch burning
     - The total number of witch burnings witnessed determines whether Elencia is alive or dead after the boss fight
 
-    **Elencia post-boss fight status** 
+    **Elencia's Status** 
     
     - Witness 0-3 witch burnings = Elencia alive
     - Witness 4+ witch burnings = Elencia dead
@@ -393,10 +393,10 @@ The Pontiff route is a race against time to discover the identity of the witch t
 ??? "Bad Ending - Elencia Dead"
      
     - First run - Must watch an additional, 4th witch burning 
-    - Second run - Do not speak with Tenet in town + must watch an additional, 4th witch burning
+    - Second run - Do not speak with Tenet in town and must watch an additional, 4th witch burning
     - Enter the Witch's Cave 
     - Complete all 5 brazier offering requests
-    - If you only return to town to get the offering request items you will only witness 3 witch burnings and then Elencia will be alive after the boss fight
+    - If you only return to town to get the offering request items you will only witness 3 witch burnings = Elencia alive after the boss fight
     - You must make an _additional_ trip back to town to witness the 4th witch burning
     - Recommend doing it after giving the brazier 3 Rabbits or Living Blood. Yes, it is a pain, but required 
     - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in B2F
@@ -416,7 +416,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Good Ending - Elencia Alive - "Tell the Truth""
 
-    - First run - Automatically if you only return to town for the offering request items
+    - First run - Automatically if you only return to town for the offering request items and witness 3 witch burnings
     - Second run - Talk to Tenet in town and select the Sheep 
     - Enter the Witch's Cave
     - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
@@ -434,10 +434,10 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
         - "Tell the Truth"
 
-    ??? tip "Rewards"
-    
-        - 11,000 Gold
-        - 2 Junk (requires Sheep for 0 deaths)
+        ??? tip "Rewards"
+        
+            - 11,000 Gold
+            - 2 Junk (requires Sheep for 0 deaths)
 
 ??? "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
@@ -468,7 +468,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? tip "What Ending Should I Do First?"
 
-    **If you plan to do all 3 endings:**
+    **If you plan to do all 3 endings**
     
     - "Bad Ending - Elencia Dies" is recommended since you have to do all 5 brazier offering requests
     - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
@@ -487,7 +487,13 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
 **Mechanics** 
 
-The Admiral route is deceptively structured. Choosing to "capture" a witch or "threaten" Cleric Ludwin has no impact on the ending. View them as a single choice. It is the number of offerings to the brazier that determines whether Elencia is alive or dead after the boss fight. Her death state determines the ending. The "prepare a sedative" option is self-contained and separate from the brazier offerings mechanic.    
+??? warning "Note on Initial Choices" 
+
+    - The Admiral route is deceptively structured
+    - Choosing to "capture" a witch or "threaten" Cleric Ludwin has no impact on the ending
+    - It is the number of offerings to the brazier that determines whether Elencia is alive or dead after the boss fight
+    - Elencia's post-battle status (dead or alive) determines the ending
+    - The "prepare a sedative" option is self-contained and separate from the brazier offerings mechanic    
 
 ??? "Brazier Offerings"
 
@@ -538,7 +544,7 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
 ??? "Bad Ending - Prepare Sedative"
 
     - Speak to Raimi in town 
-    - Recommends gathering Sar-moon Herb to calm the villagers
+    - He recommends gathering Sar-moon Herb in the Witch's Cave to calm the villagers
     - Enter the Witch's Cave 
     - Head north and down the stairs to B2F
     
@@ -560,7 +566,7 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
             - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
             
     - Exit
-    - In town speak with Raimi
+    - Speak with Raimi in town
     - Ending sequences begins automatically   
 
         ??? tip "Rewards"
@@ -573,14 +579,13 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
     !!! warning "Can only be done on a second run"
      
     - Choose "Capture" or "Threaten" it does not matter 
-    - Speak with Cleric Ludwin in town 
-    - Must confirm you will help search for the witch
+    - Speak with Cleric Ludwin in town and confirm you will help search for the witch
     - Speak with Elinas and select the Infant (Lamb) 
     - Enter the Witch's Cave 
     - Head south and take the stairs down to B2F 
     - Go up and to the right to the large room with a brazier and multiple doors  
     - Interact with the brazier 
-    - Offer the Infant (Lamb) and explore the SE room
+    - Offer the Infant (Lamb) and explore the SE room until Lulu comments 
     - Return to the brazier and it will request the Gold Ore 
     - Go back upstairs to B1F  
     
@@ -589,9 +594,11 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
             ??? map "Gold Ore Location" 
             
                 <div align="center">
-                ![](./img/princess-gold-ore.png)
+                ![](./img/admiral-gold-ore.png)
                 </div>
-    
+                
+                - Located directly across from the entrance 
+
             ??? danger "Enemy Gauntlet"
             
                 - Before picking up the Gold Ore a group of 3 enemies will appear behind you
@@ -618,9 +625,9 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
 
         ??? warning "Note on Ending Choices" 
     
-            - Outside a few different lines of flavor text the 2 choices presented when comforting Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
+            - Outside a few different lines of flavor text the 2 choices presented when consoling Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
             - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
-            - This could potentially be a bug or there is some combination of responses that was missed 
+            - This could potentially be a bug or there is some combination of responses that has not yet been identified  
         
         ??? tip "Rewards"
         
@@ -633,7 +640,7 @@ The Admiral route is deceptively structured. Choosing to "capture" a witch or "t
 ??? "Best Ending - Elencia Alive"
 
     - First run - You will always receive this ending on a first run 
-    - Second run - Select the Broom from Tenet in town
+    - Additional runs - Select the Broom from Tenet in town
     - Choose "Capture" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Enter the Witch's Cave 
