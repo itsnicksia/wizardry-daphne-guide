@@ -54,7 +54,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 314,Head!A314,Head,,Blackwing Hat,Silver,Cloth,,,0,0,0,10,0,0,0,0,0,6,0,0,0,15,0,0,0,0,0,11,0,0,0,20,0,0,0,0,0,16,,,,,,,,,,,,,,,,,,,,,
 320,Head!A320,Head,3213,Snow Wolf Trapper Hat,Silver,Cloth,,,0,0,0,9,0,1,0,0,6,6,0,0,0,14,0,1,0,0,6,11,0,0,0,19,0,1,0,0,6,16,0,0,0,25,0,1,0,0,6,21,,,,,,,,,,,Freeze Tolerance
 326,Head!A326,Head,,Dire Snowbird's Crest Feathers,Silver,Cloth,,,0,0,0,1,0,5,0,0,10,6,0,0,0,6,0,7,0,0,12,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-332,Head!A332,Head,,Snow Beastfolk Fur Mask,Silver,Cloth,,,0,0,0,20,0,-10,2,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maximum Body Temperature Increase
+332,Head!A332,Head,,Snow Beastfolk Fur Mask,Silver,Cloth,,,0,0,0,20,0,-10,2,0,0,0,0,0,0,25,0,-10,4,0,0,5,0,0,0,30,0,-10,7,0,0,10,,,,,,,,,,,,,,,,,,,,,Maximum Body Temperature Increase
 338,Head!A338,Head,Ex.,Glasses of Calm,Silver,Cloth,,,0,7,0,12,0,0,0,0,0,10,0,12,0,18,0,0,0,0,0,16,0,16,0,24,0,0,0,0,0,22,,,,,,,,,,,,,,,,,,,,,Passive I.Q. Up
 344,Head!A344,Head,Ex.,Winterthorn Wreath,Silver,Cloth,,,0,0,0,9,0,5,0,0,0,6,0,0,0,15,0,5,0,0,0,12,0,0,0,21,0,5,0,0,0,18,0,0,0,25,0,5,0,0,0,21,,,,,,,,,,,Stone Tolerance
 350,Head!A350,Head,,Silver Light Helmet,Silver,Light,,,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,,,,,,,,,,,,,,,,,,,,,
@@ -156,7 +156,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 290,Shield!A290,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 296,Shield!A296,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Feet!A2,Feet,3015,Cloth Shoes,Worn,Cloth,,12,0,0,0,1,0,2,0,0,2,0,0,0,0,4,0,2,0,0,4,0,0,0,0,6,0,2,0,0,7,0,0,0,0,9,0,2,0,0,9,0,,,,,,,,,,,
+2,Feet!A2,Feet,3015,Cloth Shoes,Worn,Cloth,,12,0,0,0,1,0,2,0,0,2,0,0,0,0,4,0,2,0,0,4,0,0,0,0,6,0,2,0,0,7,0,0,0,0,9,0,2,0,0,9,0,0,0,0,11,0,2,0,0,12,0,
 8,Feet!A8,Feet,3010,Worn-Out Light Armor Boots,Worn,Light,,15,0,0,0,2,0,0,0,0,0,0,0,0,0,5,0,0,0,0,2,0,0,0,0,7,0,0,0,0,5,0,0,0,0,10,0,0,0,0,7,0,0,0,0,12,0,0,0,0,10,0,
 14,Feet!A14,Feet,3011,Worn-Out Heavy Armor Boots,Worn,Heavy,,17,0,0,0,3,0,-1,0,0,-2,0,0,0,0,6,0,-1,0,0,0,0,0,0,0,8,0,-1,0,0,3,0,0,0,0,11,0,-1,0,0,5,0,,,,,,,,,,,
 20,Feet!A20,Feet,3032,Leather Shoes,Bronze,Cloth,290,46,0,0,0,2,0,2,0,0,2,0,0,0,0,5,0,2,0,0,4,0,0,0,0,8,0,2,0,0,7,0,0,0,0,11,0,2,0,0,10,0,0,0,0,14,0,2,0,0,14,0,
@@ -188,10 +188,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 176,Feet!A176,Feet,Ex.,High Boots of the Winter Night,Silver,Cloth,,,0,0,0,8,0,8,0,0,2,0,0,0,0,14,0,10,0,0,13,0,0,0,0,20,0,11,0,0,18,0,0,0,0,24,0,12,0,0,23,0,,,,,,,,,,,Stone Tolerance
 182,Feet!A182,Feet,,Sheepskin Boots,Silver,Cloth,65000,,0,0,0,8,0,2,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Freeze Tolerance, Maximum Body Temperature Increase"
 188,Feet!A188,Feet,,Deep-Snow Straw Sandals,Silver,Cloth,,,0,0,0,13,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maximum Body Temperature Increase
-194,Feet!A194,Feet,,Brave Shoes,Silver,Cloth,,,0,0,0,9,0,2,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fear Tolerance
-200,Feet!A200,Feet,,Shrouded Ninja Tabi,Silver,Cloth,,,0,0,0,5,0,3,0,4,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-206,Feet!A206,Feet,,Silver Light Armor Boots,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,,,,,,,,,,,0,0,0,26,0,0,0,0,12,0,,,,,,,,,,,,,,,,,,,,,
-212,Feet!A212,Feet,,Silver Heavy Armor Boots,Silver,Heavy,,,0,0,0,21,0,0,0,0,-2,0,,,,,,,,,,,0,0,0,35,0,0,0,0,8,0,,,,,,,,,,,,,,,,,,,,,
+194,Feet!A194,Feet,,Brave Shoes,Silver,Cloth,,,0,0,0,9,0,2,0,0,2,0,0,0,0,14,0,2,0,0,11,0,0,0,0,19,0,2,0,0,16,0,,,,,,,,,,,,,,,,,,,,,Fear Tolerance
+200,Feet!A200,Feet,,Shrouded Ninja Tabi,Silver,Cloth,,,0,0,0,5,0,3,0,4,1,0,0,0,0,9,0,3,0,4,7,0,0,0,0,13,0,3,0,4,13,0,,,,,,,,,,,,,,,,,,,,,
+206,Feet!A206,Feet,,Silver Light Armor Boots,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,0,0,7,0,0,0,0,26,0,0,0,0,12,0,,,,,,,,,,,,,,,,,,,,,
+212,Feet!A212,Feet,,Silver Heavy Armor Boots,Silver,Heavy,,,0,0,0,21,0,0,0,0,-2,0,0,0,0,30,0,0,0,0,3,0,0,0,0,35,0,0,0,0,8,0,0,0,0,42,0,0,0,0,14,0,,,,,,,,,,,
 218,Feet!A218,Feet,,Hard Snow Heavy Armor Boots,Silver,Heavy,,,0,0,0,39,0,-10,0,0,-10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ice-Break Damage Reduction
 224,Feet!A224,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 230,Feet!A230,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -242,12 +242,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 194,Hands!A194,Hands,3072,Ebonsteel Heavy Gauntlets,Ebonsteel,Heavy,,900,0,0,0,14,0,0,-2,0,0,0,0,0,0,19,0,0,2,0,0,0,0,0,0,23,0,0,7,0,0,0,0,0,0,28,0,0,11,0,0,0,0,0,0,32,0,0,16,0,0,0,
 200,Hands!A200,Hands,3120,Wilderness Gauntlets,Ebonsteel,Heavy,,1125,0,0,0,12,0,0,-2,0,0,0,0,0,0,17,0,0,2,0,0,0,0,0,0,21,0,0,7,0,0,0,0,0,0,26,0,0,11,0,0,0,0,0,0,30,0,0,16,0,0,0,Magical Beast Resistance
 206,Hands!A206,Hands,,Blackwing Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,,,,,,,,,,,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,,,,,,,,,,,
-212,Hands!A212,Hands,,Golden Gloves,Silver,Cloth,,,0,0,0,15,-5,3,2,0,0,0,0,0,0,20,-5,3,5,0,0,0,0,0,0,25,-5,3,10,0,0,0,,,,,,,,,,,,,,,,,,,,,
-218,Hands!A218,Hands,Ex.,Red Spinner Woman Spellwoven Cloth,Silver,Cloth,,,0,0,0,25,0,0,-2,0,0,10,0,0,0,36,0,0,-2,0,0,12,0,0,0,41,0,0,-2,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
-224,Hands!A224,Hands,,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,33,0,0,16,0,0,0,,,,,,,,,,,
-230,Hands!A230,Hands,,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,,,,,,,,,,,0,0,0,35,0,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,
-236,Hands!A236,Hands,,Heavy Gauntlets of Composure,Silver,Heavy,,,0,0,0,40,-20,-5,0,0,-20,0,0,0,0,49,-20,-5,5,0,-20,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-242,Hands!A242,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,Hands!A212,Hands,,Shrouded Arm Wraps,Silver,Cloth,,,0,0,0,4,0,1,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,Hands!A218,Hands,,Golden Gloves,Silver,Cloth,,,0,0,0,15,-5,3,2,0,0,0,0,0,0,20,-5,3,5,0,0,0,0,0,0,25,-5,3,10,0,0,0,0,0,0,31,-5,3,17,0,0,0,0,0,0,37,-5,3,28,0,0,0,Disarm Trap +7/9/11/12/13
+224,Hands!A224,Hands,Ex.,Red Spinner Woman Spellwoven Cloth,Silver,Cloth,,,0,0,0,25,0,0,-2,0,0,10,0,0,0,36,0,0,-2,0,0,12,0,0,0,41,0,0,-2,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
+230,Hands!A230,Hands,,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,33,0,0,16,0,0,0,,,,,,,,,,,
+236,Hands!A236,Hands,,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,,,,,,,,,,,0,0,0,35,0,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,
+242,Hands!A242,Hands,,Heavy Gauntlets of Composure,Silver,Heavy,,,0,0,0,40,-20,-5,0,0,-20,0,0,0,0,49,-20,-5,5,0,-20,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 248,Hands!A248,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 254,Hands!A254,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 260,Hands!A260,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -323,7 +323,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 374,Body!A374,Body,Ex.,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,0,0,0,37,4,7,0,0,0,0,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,0,0,0,65,16,10,0,0,0,0,Bewitching Fragrance
 380,Body!A380,Body,Ex.,Robe of the Millenium,Silver,Cloth,,,0,8,0,29,0,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I.Q. Obstruction
 386,Body!A386,Body,,Silver Light Armor,Silver,Light,,,0,0,0,48,0,-1,-2,0,-2,0,,,,,,,,,,,0,0,0,74,17,-1,-2,0,-2,0,0,0,0,89,26,-1,-2,0,-2,0,,,,,,,,,,,
-392,Body!A392,Body,,Chainmail,Silver,Light,,,0,0,0,30,0,-1,-2,5,-2,0,0,0,0,44,9,-1,-2,7,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+392,Body!A392,Body,,Chainmail,Silver,Light,,,0,0,0,30,0,-1,-2,5,-2,0,0,0,0,44,9,-1,-2,7,-2,0,,,,,,,,,,,0,0,0,71,26,-1,-2,9,-2,0,,,,,,,,,,,
 398,Body!A398,Body,,Giant Beast Ape Light Armor,Silver,Light,,,0,0,0,46,0,-1,-1,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Freeze Tolerance, Maximum Body Temperature Increase"
 404,Body!A404,Body,,Silver Heavy Armor,Silver,Heavy,,,0,0,0,79,0,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 410,Body!A410,Body,,Snow Beastfolk Fur Armor,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Maximum Body Temperature Increase"
