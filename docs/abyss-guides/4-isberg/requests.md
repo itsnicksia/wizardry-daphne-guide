@@ -73,7 +73,7 @@ Upon returning to Isberg a messenger will ask you to return to Royal Capital Luk
 
 The objectives of each faction are different, but related to stopping the witch burnings and identifying its underlying cause. These faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
 
-??? "Faction Affinity"
+!!! "Faction Affinity"
 
     - Supporting a faction in a previous Abyss influences certain outcomes 
     - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
@@ -110,16 +110,16 @@ The objectives of each faction are different, but related to stopping the witch 
         - 1 is unlocked after getting _any_ of the Best endings 
         - 1 is unlocked after getting all 3 of the Best endings
     - Confirmed that max faction affinity is required  
+    - Recommend setting the Cursed Wheel to max faction affinity before accepting a faction request to avoid (potentially) redoing an ending
     - The second Guiding Light may require defeating the true version of the GWO (4th fight)
     - A Guiding Light will dissolve if it's already been received 
-
-!!! tip "Important! Max faction affinity _must_ be set in the Cursed Wheel to get the Guiding Lights" 
     
     **Other Notes** 
     
     - Some Discord members have reported not receiving the Guiding Light after getting the Best ending on the Admiral and Pontiff routes
-    - Recommend setting the Cursed Wheel to max faction affinity before accepting a faction request to avoid (potentially) redoing an ending
     - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
+
+!!! tip "Important! Max faction affinity _must_ be set in the Cursed Wheel in advance to receive Guiding Lights" 
 
 ##### The Witch's Cave  
 
