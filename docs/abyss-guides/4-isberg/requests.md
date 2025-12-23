@@ -112,6 +112,8 @@ The objectives of each faction are different, but related to stopping the witch 
     - Confirmed that max faction affinity is required  
     - The second Guiding Light may require defeating the true version of the GWO (4th fight)
     - A Guiding Light will dissolve if it's already been received 
+
+!!! tip "Important! Max faction affinity _must_ be set in the Cursed Wheel to get the Guiding Lights" 
     
     **Other Notes** 
     
