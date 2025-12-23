@@ -65,31 +65,65 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ### Elden Hill (Witch Hunt) Faction Quests
 
-!!! warning "1st Faction Quests are unlocked after entering Route 4 for the first time."
+##### Overview 
 
-Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then select the "Talk" option at the Guild to accept the faction quest in the future. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
+!!! warning "Unlocked after entering Route 4 for the first time"
 
-The objectives of each faction are different, but related to stopping the witch burnings and discovering its underlying cause. This set of faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
+Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
+
+The objectives of each faction are different, but related to stopping the witch burnings and identifying its underlying cause. These faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Aybsses.   
 
 ??? "Faction Affinity"
-    - Supporting a faction in a previous Abyss plays a role in the outcomes 
-    - Max faction affinity is achieved when that faction is selected in the Cursed Wheel for Abyss 2 and 3
-    - Max faction affinity is required for the "best" endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
-    - Anything related to faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
+
+    - Supporting a faction in a previous Abyss influences certain outcomes 
+    - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
+    - Max faction affinity is mandatory for the Best endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
+    - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
 
 ??? "How to Reset a Faction Quest" 
 
-    - Cursed Wheel to Deepsnow Hinterlands Entrance > Blizzard Blocking the Path > Return to Route 3 and use the Harken to exit 
-    - Cursed Wheel to Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard > Exit via the nearby Harken 
+    - Cursed Wheel to Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Go downstairs > Exit via Route 3 Harken
+    - Cursed Wheel to Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit 
 
-!!! warning "The unlock conditions for the 2 Guiding Lights (Luck) are still being determined. We recommend seting the Cursed Wheel to max faction affinity before starting to avoid potentially having to redo certain endings."
+??? "Faction Endings" 
+
+    - 10 unique endings across all factions have been identified 
+    - Some endings may have been missed 
+    - Known endings are sufficient for getting the 2 Guiding Lights (Luck)
+    - The Princess route has 4 since the Best ending has 2 distinct sub-endings with different rewards and scenes 
+
+    **Endings per Faction:**
+
+    - Princess = 4 
+    - Pontiff = 3
+    - Admiral = 3
+    - Total = 10 
+
+!!! warning "Note on Guiding Lights"
+
+    **Unlocking Conditions:** 
+    
+    - Still being tested and validated for the 2 Guiding Lights (Luck) 
+    - Best estimate as of 12/22:
+        - 1 is unlocked after getting _any_ of the Best endings 
+        - 1 is unlocked after getting all 3 of the Best endings
+    - Confirmed that max faction affinity is required otherwise they will not appear 
+    - The second Guiding Light may require clearing the true version of the GWO (4th fight)
+    - Guiding Lights will dissolve if it's already been received 
+    
+    **Other Notes:** 
+    
+    - Some Discord members have reported not receiving the Guiding Light after getting the Best ending on the Admiral and Pontiff routes
+    - Recommend setting the Cursed Wheel to max faction affinity before accepting a faction request to avoid (potentially) redoing an ending
+    - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ##### The Witch's Cave  
 
 ??? "Overview"
     - Each faction can only access a certain portion of the map
-    - Stone pillars are used to block pathways and cannot be removed 
+    - Map progress is permanently recorded
     - Full map completion requires doing other faction quests
+    - Stone pillars block pathways, cannot be removed, and will change depending on the faction  
     - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
     - Enemy level is 65
     - Some chests have high Find/Trap Disarm requirements even at 150/150
@@ -106,25 +140,28 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ##### Chancellor Serpens (Princess) Route 
 
-The goal of the Princess route is to solve Rosa's mysterious affliction the villagers believe is the work of a witch. Pulgritte thinks that if Rosa can be treated, then the villagers will stop the witch burnings. To develop a solution you can consult with an Herbalist, Physician, or Mystic. 
+The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch. Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution you can consult with an Herbalist, Physician, or Mystic. 
 
 ??? "Bad Ending - Consult with an Herbalist"
-    - Speak to the Herbalist in town and she will tell you about the Sleepmoss in the Witch's Cave
-    - All 3 Sleepmoss are located in the "sleepy tunnel" area of the cave
+    - Speak to the Herbalist in town 
+    - She recommends using Sleepmoss that grows in the Witch's Cave 
+    - Enter the Witch's Cave 
+    - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
+    - Collect the 3 Sleepmoss 
 
     ??? map "Sleepmoss Locations"
         <div align="center">
         ![](./img/princess-sleepmoss.png)
         </div>
         
-    ??? "Sleep Tile Mechanics" 
-        - After 10 steps you will lose consciousness and be teleported back to where you entered 
-        - Team members will be asleep at the start of any battle 
-        - Enemies can be alerted and baited onto the small islands of normal tiles throughout the area
+    ??? "Sleep Tiles" 
+        - After 10 steps you will lose consciousness and be teleported back to your starting point 
+        - During an enemy encounter all team members will be asleep at the start of battle  
+        - Aggro and bait enemies onto normal tiles for an easier battle
         
-    - Reach each Sleepmoss using the small islands of normal tiles to reset the 10-step counter 
-    - Return to the Herbalist and give her the Sleepmoss
-    - The concotion soothes Rosa, but Dylanhardt seems suspicious 
+    - Use the small islands of normal tiles to reset the 10-step counter to progress 
+    - Exit 
+    - Speak to the Herbalist in town
 
     ??? tip "Rewards"
         - 8,000 Gold
@@ -133,52 +170,63 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
 
 ??? "Good Ending - Consult with a Physician"
 
-    - Speak to Raimi in town 
-    - He meets with Rosa privately. Upon returning he suggests Slatewillow as the solution and warns of a dangerous monster (Cyclops + Bigfoot) in the Witch's Cave 
-    - The path to the Slatewill is long and will take you through parts of BF1 and BF2, including the "sleepy tunnel" area 
-    - Bring MP/SP items as insurance in case you run out toward the end
-    - From the entrance head to the southeast area to access a dropdown point to BF2 
+    - Speak to Raimi in town, he agrees to help, and leaves to evaluate Rosa  
+    - He recommends using Slatewillow, an herb that grows in the Witch's Cave and warns of a dangerous monster (Cyclops + Bigfoot) in the area
+    - Enter the Witch's Cave 
+    - The Slatewillow is located at the end of a long, one-way path through both B1F and B2F 
+    - Requires going through part of the "sleepy tunnel" area 
+    - Low-level teams should consider bringing MP and SP pots as insurance
+    - From the entrance head to the southeast to access a dropdown point to BF2 
     
-    ??? map "Dropdown to BF2"
+    ??? map "Dropdown to B2F"
         <div align="center">
         ![](./img/princess-hole.png)
         </div>
-                
-    ??? "Sleep Tile Mechanics" 
-        - After 10 steps you lose consciousness and will be teleported back to where you entered 
-        - All battle party members will be asleep at the start of any encounter 
-        - Enemies can be alerted and baited onto the small islands of normal tiles throughout the area
         
-    - The side area with the Cyclops + Bigfoot is completely optional. It has no items and no impact on the ending
+    - The B2F room you drop into has 4 mobs and you will likely be ambushed 
+    - Follow the past west and then north (the southern stairs are a dead end)
+    - The side area with the Cyclops + Bigfoot fight is optional. It has no items or impact on the ending
 
-    ??? danger "Cyclops + Bigfoot"
+        ??? danger "Cyclops + Bigfoot"
+        
+            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+            - At ~80% HP the Cyclops will summon another Bigfoot
+            - Cyclop's "Wheeling Cleave" can kill multiple team members 
+            - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
     
-        - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-        - At ~80% HP the Cyclops will summon another Bigfoot
-        - Cyclop's "Wheeling Cleave" can kill multiple team members 
-        - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+    - Head north and take the stairs to B1F
+    - Go south through the "sleepy tunnels"
+
+    ??? "Sleep Tiles" 
+
+    - After 10 steps you will lose consciousness and be teleported back to your starting point 
+    - During an enemy encounter all team members will be asleep at the start of battle  
+    - Aggro and bait enemies onto normal tiles for an easier battle
                 
-    - The Slatewillow is located in front of the teleporter back to the entrance and will be automatically picked up
-    - Exit and return to town
-    - Speak with Raimi and give him the Slatewillow 
+    - The Slatewillow is located in front of the teleporter and will be automatically picked up
+    - Exit 
+    - Speak with Raimi in town  
 
     ??? tip "Rewards"
         - Achievement: "A Terrible Nightmare"
         - 15,000 Gold 
+        - There is no known way to avoid this ending 
 
 ??? "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
     
-    - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity for the option to appear 
-    - The Mystic Route has a completely different map and quest giver
+    - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
+    - The default Mystic Route has a  different map and quest giver
     - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
     
     ??? "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
     
-        - Speak to Dylanhardt in town and select the option to return to the Royal Capital 
-        - Aegon suggests Fellwisp to cure Rosa and a Sar-moon Herb to calm the villagers
-        - Return to Elden Hill Village and enter the Witch's Cave 
-        - Go north and down the stairs to BF2
-        - Both herbs are located on this floor 
+        - Speak to Dylanhardt in town 
+        - Select the option to return to the Royal Capital 
+        - Meet with Aegon and he recommends Fellwisp to cure Rosa and Sar-moon Herb to calm the villagers
+        - Return to Elden Hill Village 
+        - Enter the Witch's Cave 
+        - Go north and down the stairs to B2F
+        - Both request items are located on this floor 
         
         ??? "Fellwisp"  
             ??? map "Fellwisp Location"
@@ -207,31 +255,36 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
             - Multiple enemies will spawn after it is picked up  
 
         - Exit 
-        - Return to town and speak with Dylanhardt
-        - The "Foolish parent" or "Foolish child" option does not seem to have any impact on the ending
-        - After Pulgritte and Dylandhardt leave you must choose whether to tell Mayor Oswald the truth about Rosa
+        - Speak with Dylanhardt in town 
+        - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
+        - After the scene Pulgritte and Dylandhardt will leave 
+        - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
 
         ??? warning "Ending Choices"
         
-            ??? "Tell the Truth<span style="color: MediumOrchid">*</span>"
+            ??? "Sub-Ending A: Tell the Truth<span style="color: MediumOrchid">*</span>"
+            
                 !!! tip "Rewards"
-                    - Best ending
                     - Achievement: "One Who Carries the Future of Her Land"
                     - 11,000 Gold 
+                    - Unclear if either sub-ending counts as the Best ending
+                    - Recommend doing this one first 
     
-            ??? "Do Not Tell the Truth"
+            ??? "Sub-Ending B: Do Not Tell the Truth"
                 - Whatever option you pick to threaten Rosa does not seem to have any impact on the ending
     
                 !!! tip "Rewards"
                     - Achievement: "One Who Carries the Future of Her Land" (needs verifying)
                     - 9,000 Gold 
                     - 1 Junk<span style="color: MediumOrchid">*</span>
+                    - Unclear if either sub-ending counts as the Best ending
 
     ??? "Bad Ending - Mystic Route"
 
-        - Enter the Witch's Cave and head south to the person icon on the map
+        - Enter the Witch's Cave 
+        - Head south to the person icon on the map
         - Speak with the Mystic and select "Talk about Elden Hill Village"
-        - The Mystic suggests using a Sar-moon Herb to calm the villagers 
+        - The Mystic recommends using using Sar-moon Herb to calm the villagers 
         - Head downstairs to BF2 
         
         ??? "Sar-Moon Herb Location"
@@ -242,7 +295,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
             - Located in the northeast area and requires reversing a stone to access
             - Multiple enemies will spawn after it is picked up  
             
-        - The side area with the Cyclops + Bigfoot is completely optional. It has no items and no impact on the ending
+        - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
        
         ??? danger "Cyclops + Bigfoot"
         
@@ -251,8 +304,10 @@ The goal of the Princess route is to solve Rosa's mysterious affliction the vill
             - Cyclop's "Wheeling Cleave" can kill multiple team members 
             - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
 
-        - Return to the Mystic and give her the Sar-Moon Herb and exit
-        - In town speak with Dylanhardt  
+        - Head back up the stairs to B1F 
+        - Speak to the Mystic and give her the Sar-Moon Herb 
+        - Go north to exit 
+        - Speak with Dylanhardt  
         - Same as "Bad Ending - Consult with a Herbalist" 
         
         ??? tip "Rewards"
