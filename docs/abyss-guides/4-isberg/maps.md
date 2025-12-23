@@ -76,7 +76,7 @@
     === "Post GWO + Knowledge"
         ![](./img/route-9-final.jpg)
 
-??? map "Route 10 -Whiteout-"
+??? map "Route 10 -Path to the Church-"
 
     === "Initial Map"
         ![](./img/route-10-initial.png)
