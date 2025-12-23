@@ -101,7 +101,7 @@ The objectives of each faction are different, but related to stopping the witch 
     - Admiral = 3
     - Total = 10 
 
-??? warning "Note on Guiding Lights"
+??? tip "Note on Guiding Lights"
 
     **Unlocking Conditions:** 
     
@@ -316,7 +316,6 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - 2 Junk
             - Same ending scenes as "Bad Ending - Consult with a Herbalist" 
 
-
 ##### Pontiff Route
 
 The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
@@ -327,43 +326,45 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
     ??? "Steps"
     
-        - Interact with the brazier and it will tell you the offering it seeks
+        - Interact with the brazier and it will request an offering
         - Collect the offering via fighting enemies or returning to town 
-        - Give the offering and it will unlock a nearby door 
-        - Investigate the new area until you get Lulu's commentary on the room 
-        - Return to the brazier for a new request 
+        - Give the offering to unlock a nearby door 
+        - Investigate the unlocked area until Lulu makes a comment 
+        - Return to the brazier for a new offering request 
         - Repeat until the witch's door is unlocked
+        - Can reduce the number of offering requests on a second run
 
     ??? "Tasks"
     
-        - 3 Rabbits = Defeat 3 enemies with vorpal bunnies
+        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
         - Hen = Return to town and speak with Tenet
-        - Living Blood = Defeat 2 groups of "monsters" (magical-beast, demi-human, demon?
-        - Infant = Return to town and speak with Tenet
+        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?
+        - Infant (Lamb) = Return to town and speak with Tenet
         - Sheep = Return to town and speak with Tenet
 
 ??? "Tenet Offerings" 
 
     - Only available on a second run
     - Talk to Tenet in town before entering the Witch's Cave
-    - Select 1 of the 3 offerings in advance, which reduces the total number of brazier requests 
+    - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
 
     **Brazier requests:**
     
     - Do not talk to Tenet = 5 
     - Hen = 3  
     - Infant = 1 
-    - Sheep = 0 
-    - Sheep immediately unlock the witch's door 
+    - Sheep = 0 (unlocks the witch's door) 
 
 ??? "Witch Burnings"
 
-    Returning to town for an offering results in a witch burning. The number of witch burnings witnessed determines whether Elencia is alive or dead after the boss fight.
+    - Returning to town for an offering results in a witch burning
+    - The total number of witch burnings witnessed determines whether Elencia is alive or dead after the boss fight
+
+    **Post-boss fight status:** 
     
     - Witness 0-3 witch burnings = Elencia alive
     - Witness 4+ witch burnings = Elencia dead
-    - It is unclear the exact requirement for triggering a witch burning scene upon returning to town
-    - Based on limited testing:
+    - The exact requirement for triggering a witch burning scene are unclear, but based on limited testing:
         - Number of battles and/or 
         - Returning to town after giving an offering, but before accepting the next request
 
@@ -371,11 +372,11 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? warning "Ending Requirements"
 
-    There are a total of 3 (known) endings based on the number of witch burnings witnessed and dialogue choices in the final scene.   
-
+    - There are a total of 3 confirmed endings based on the number of witch burnings witnessed and dialogue choices in the final scene if Elencia is alive
+    
     **Endings:** 
     
-    - Bad: Elencia Dies (4+ witch burnings) 
+    - Bad: Elencia Dead (4+ witch burnings) 
     - Good: Elencia Alive (0-3 witch burnings) + "Tell the truth" 
     - Best: Elencia Alive (0-3 witch burnings) + "Condemend" 
 
@@ -384,40 +385,46 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Junk rewards are reduced if any witch burnings are witnessed
     - Full gold reward is always given
 
-??? "Bad Ending - Elencia Dies"
+??? "Bad Ending - Elencia Dead"
      
-    - First run or do not speak with Tenet
+    - First run 
+    - Second run do not speak with Tenet it town 
+    - Enter the Witch's Cave 
     - Complete all 5 brazier offering requests
-    - Return to town an additional time to witness 4 witch burnings otherwise Elencia will be alive
-    - When returning with the Sheep more enemies will spawn ("ROAR") on B2F in the hallway to the brazier
+    - While completing the offering requests return to town an additional time to witness 4 witch burnings otherwise Elencia will be alive after the boss fight 
+    - When returning with the Sheep additional enemies will spawn ("ROAR") along the B2F path to the brazier
     
-    ??? danger "Boss: Witch"
-        - Details to be added soon 
+        ??? danger "Boss: Witch"
+            - Details to be added soon 
 
-    - Elencia dies after the boss fight 
+    - Elencia will be dead after the boss fight 
     - Exit 
-    - Return to town and the ending sequence will play  
+    - Return to town 
+    - Ending sequence begins automatically 
     
     ??? tip "Rewards"
         - Achievement: "A Witch There Was" 
         - 9,000 Gold
-        - Achievement is shared with an ending in the Admiral route and can only be received once
+        - Achievement is shared with an ending in the Admiral route ("Good Ending - Elencia Dies") and can only be received once
 
 ??? "Good Ending - Elencia Alive - "Tell the Truth""
 
     - Talk to Tenet in town and select the Sheep 
-    - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
+    - Enter the Witch's Cave
+    - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
 
-    ??? danger "Boss: Witch"
+        ??? danger "Boss: Witch"
+            - Details to be added soon
 
-    - Elencia will be alive after the boss fight 
+    - Elencia will be alive, but unconscious after the boss fight 
     - "Examine the body"
-    - "Examing the head" 
-    - "Pull it out" (forced to select)
+    - "Examine the head" 
+    - "Pull it out" (Forced to select)
     - Exit 
-    - Return to town and the ending scenes will play  
-    - "Prepare yourself" (choice has no impact)
-    - "Condemn the Witch"
+    - Return to town 
+    - Ending sequences begins automatically   
+    - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
+    - "Tell the Truth"
 
     ??? tip "Rewards"
     
@@ -426,18 +433,21 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
-    - Talk to Tenet in town and select the Sheep to unlock the witch's door 
-    - On B2F more enemies will spawn ("ROAR") when you enter the hallway to the brazier
+    - Talk to Tenet in town and select the Sheep 
+    - Enter the Witch's Cave
+    - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
 
-    ??? danger "Boss: Witch"
+        ??? danger "Boss: Witch"
+            - Details to be added soon
 
-    - Elencia will be alive after the boss fight 
+    - Elencia will be alive, but unconscious after the boss fight 
     - "Examine the body"
-    - "Examing the head" 
-    - "Pull it out" (forced to select)
+    - "Examine the head" 
+    - "Pull it out" (Forced to select)
     - Exit 
-    - Return to town and the ending scenes will play  
-    - "Prepare yourself" (choice has no impact)
+    - Return to town 
+    - Ending sequences begins automatically   
+    - "Prepare yourself" (Either choice has no known impact, "prepare" skips the fight)
     - "Condemn the Witch"
     
     ??? tip "Rewards"
@@ -447,16 +457,22 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - 2 Junk (requires Sheep for 0 deaths)
         - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
-??? tip "What ending should I do first?"
+??? tip "What Ending Should I Do First?"
 
-    - Recommended to do the "Elencia Dies" ending on a first run
-    - A first run requires doing all 5 brazier offering requests
-    - Returning to town _only_ for the brazier offerings results in 3 witch burnings
-    - Return to town an additional time after offering the 3 Rabbits or Living Blood to see a 4th witch burning to ensure Elincia dies 
+    **If you plan to do all 3 endings:**
+    
+    - "Bad Ending - Elencia Dies" as a first run requires doing all 5 brazier offering requests
+    - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
+    - Extra step required 
+        - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
     - Select the Sheep in town from Tenent for the other 2 endings
     - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
 
-###### Admiral 
+    **If you only want the Guiding Light (Luck):** 
+
+    - Do "Best Ending - Elencia Alive - "Condemn the Witch""
+
+##### Admiral Route
 
 The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. The Admiral is skeptical that witch's exist, but Elinas thinks that a Darkenbind Ritual might be taking place in the area. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
