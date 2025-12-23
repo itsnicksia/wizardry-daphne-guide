@@ -82,11 +82,13 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ??? "How to Reset a Faction Quest" 
 
-    - Cursed Wheel to Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Go downstairs > Exit via Route 3 Harken
-    - Cursed Wheel to Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit 
+    - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Go downstairs > Exit via Route 3 Harken
+    - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit 
 
 ??? "Faction Endings" 
 
+    **Summary:** 
+    
     - 10 unique endings across all factions have been identified 
     - Some endings may have been missed 
     - Known endings are sufficient for getting the 2 Guiding Lights (Luck)
@@ -107,8 +109,8 @@ The objectives of each faction are different, but related to stopping the witch 
     - Best estimate as of 12/22:
         - 1 is unlocked after getting _any_ of the Best endings 
         - 1 is unlocked after getting all 3 of the Best endings
-    - Confirmed that max faction affinity is required otherwise they will not appear 
-    - The second Guiding Light may require clearing the true version of the GWO (4th fight)
+    - Confirmed that max faction affinity is required  
+    - The second Guiding Light may require defeating the true version of the GWO (4th fight)
     - Guiding Lights will dissolve if it's already been received 
     
     **Other Notes:** 
@@ -149,18 +151,18 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
     - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
     - Collect the 3 Sleepmoss 
 
-    ??? map "Sleepmoss Locations"
-        <div align="center">
-        ![](./img/princess-sleepmoss.png)
-        </div>
+        ??? map "Sleepmoss Locations"
+            <div align="center">
+            ![](./img/princess-sleepmoss.png)
+            </div>
+            
+        ??? "Sleep Tiles" 
         
-    ??? "Sleep Tiles" 
-    
-        - After 10 steps you will lose consciousness and be teleported back to your starting point 
-        - During an enemy encounter all team members will be asleep at the start of battle  
-        - Aggro and bait enemies onto normal tiles for an easier battle
+            - After 10 steps you will lose consciousness and be teleported back to your starting point 
+            - During an enemy encounter all team members will be asleep at the start of battle  
+            - Aggro and bait enemies onto normal tiles for easier fights
         
-    - Use the small islands of normal tiles to reset the 10-step counter to progress 
+    - Use the small islands of normal tiles to reset the 10 step counter to progress deeper into the area 
     - Exit 
     - Speak to the Herbalist in town
 
@@ -171,18 +173,18 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
 ??? "Good Ending - Consult with a Physician"
 
-    - Speak to Raimi in town, he agrees to help, and leaves to evaluate Rosa  
-    - He recommends using Slatewillow, an herb that grows in the Witch's Cave and warns of a dangerous monster (Cyclops + Bigfoot) in the area
+    - Speak to Raimi in town
+    - He recommends using Slatewillow, an herb that grows in the Witch's Cave 
     - Enter the Witch's Cave 
-    - The Slatewillow is located at the end of a long, one-way path through both B1F and B2F 
+    - Slatewillow is located at the end of a long, one-way path through B1F and B2F 
     - Requires going through part of the "sleepy tunnel" area 
     - Low-level teams should consider bringing MP and SP pots as insurance
     - From the entrance head to the southeast to access a dropdown point to B2F 
     
-    ??? map "Dropdown to B2F"
-        <div align="center">
-        ![](./img/princess-hole.png)
-        </div>
+        ??? map "Dropdown to B2F"
+            <div align="center">
+            ![](./img/princess-hole.png)
+            </div>
         
     - The B2F room you drop into has 4 mobs and you will likely be ambushed 
     - Follow the past west and then north (the southern stairs are a dead end)
@@ -196,13 +198,13 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
     
     - Head north and take the stairs to B1F
-    - Go south through the "sleepy tunnels"
+    - Go south through the "sleepy tunnel" area (blue bubble tiles)
 
-    ??? "Sleep Tiles" 
-
-    - After 10 steps you will lose consciousness and be teleported back to your starting point 
-    - During an enemy encounter all team members will be asleep at the start of battle  
-    - Aggro and bait enemies onto normal tiles for an easier battle
+        ??? "Sleep Tiles" 
+    
+        - After 10 steps you will lose consciousness and be teleported back to your starting point 
+        - During an enemy encounter all team members will be asleep at the start of battle  
+        - Aggro and bait enemies onto normal tiles for an easier battle
                 
     - The Slatewillow is located in front of the teleporter and will be automatically picked up
     - Exit 
@@ -216,7 +218,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 ??? "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
     
     - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
-    - The default Mystic Route has a  different map and quest giver
+    - The default Mystic Route has a different map configuration and quest giver
     - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
     
     ??? "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
@@ -229,31 +231,31 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - Go north and down the stairs to B2F
         - Both request items are located on this floor 
         
-        ??? "Fellwisp"  
-            ??? map "Fellwisp Location"
+            ??? "Fellwisp"  
+                ??? map "Fellwisp Location"
+                    <div align="center">
+                    ![](./img/princess-fellwisp.PNG)
+                    </div>
+        
+                    - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
+                    - Defeating the Cyclops is required for the Best ending
+                    - A challenging fight during the early game
+                    - You may have to return at a higher level or with better gear 
+                    - Will not respawn once defeated
+                    
+                ??? danger "Cyclops + Bigfoot"
+                    - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+                    - At ~80% HP the Cyclops will summon another Bigfoot
+                    - Cyclop's "Wheeling Cleave" can kill multiple team members 
+                    - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+
+            ??? map "Sar-moon Herb Location"
                 <div align="center">
-                ![](./img/princess-fellwisp.PNG)
+                ![](./img/princess-sar-moon.PNG)
                 </div>
-
-                - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
-                - Defeating the Cyclops is required for the Best ending
-                - A challenging fight during the early game
-                - You may have to return at a higher level or with better gear 
-                - Will not respawn once defeated
                 
-            ??? danger "Cyclops + Bigfoot"
-                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-                - At ~80% HP the Cyclops will summon another Bigfoot
-                - Cyclop's "Wheeling Cleave" can kill multiple team members 
-                - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
-
-        ??? map "Sar-moon Herb Location"
-            <div align="center">
-            ![](./img/princess-sar-moon.PNG)
-            </div>
-            
-            - Located in the northeast area and requires reversing a stone to access
-            - Multiple enemies will spawn after it is picked up  
+                - Located in the northeast area and requires reversing a stone to access
+                - Multiple enemies will spawn after it is picked up  
 
         - Exit 
         - Speak with Dylanhardt in town 
@@ -268,17 +270,15 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 !!! tip "Rewards"
                     - Achievement: "One Who Carries the Future of Her Land"
                     - 11,000 Gold 
-                    - Unclear if either sub-ending counts as the Best ending
-                    - Recommend doing this one first 
     
             ??? "Sub-Ending B: Do Not Tell the Truth"
-                - Whatever option you pick to threaten Rosa does not seem to have any impact on the ending
+                - The threaten Rosa options do not seem to have any impact on the ending
     
                 !!! tip "Rewards"
                     - Achievement: "One Who Carries the Future of Her Land" (needs verifying)
                     - 9,000 Gold 
                     - 1 Junk<span style="color: MediumOrchid">*</span>
-                    - Unclear if either sub-ending counts as the Best ending
+                    - Unclear if this sub-ending unlocks the Guiding Light (Luck)
 
     ??? "Bad Ending - Mystic Route"
 
@@ -288,33 +288,34 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - The Mystic recommends using using Sar-moon Herb to calm the villagers 
         - Head downstairs to B2F 
         
-        ??? "Sar-Moon Herb Location"
-             <div align="center">
-             ![](./img/princess-sar-moon.PNG)
-             </div>
-             
-            - Located in the northeast area and requires reversing a stone to access
-            - Multiple enemies will spawn after it is picked up  
+            ??? "Sar-Moon Herb Location"
+                 <div align="center">
+                 ![](./img/princess-sar-moon.PNG)
+                 </div>
+                 
+                - Located in the northeast area and requires reversing a stone to access
+                - Multiple enemies will spawn after it is picked up  
             
         - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
        
-        ??? danger "Cyclops + Bigfoot"
-        
-            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-            - At ~80% HP the Cyclops will summon another Bigfoot
-            - Cyclop's "Wheeling Cleave" can kill multiple team members 
-            - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+            ??? danger "Cyclops + Bigfoot"
+            
+                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+                - At ~80% HP the Cyclops will summon another Bigfoot
+                - Cyclop's "Wheeling Cleave" can kill multiple team members 
+                - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
 
-        - Head back up the stairs to B1F 
+        - Return to B1F 
         - Speak to the Mystic and give her the Sar-Moon Herb 
         - Go north to exit 
         - Speak with Dylanhardt  
-        - Same as "Bad Ending - Consult with a Herbalist" 
         
         ??? tip "Rewards"
             - 9,000 Gold
             - Calm Wind Crest
             - 2 Junk
+            - Same ending scenes as "Bad Ending - Consult with a Herbalist" 
+
 
 ##### Pontiff Route
 
