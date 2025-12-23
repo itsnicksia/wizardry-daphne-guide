@@ -1,8 +1,8 @@
 # Deepersnow Hinterlands
 
 !!! warning "Work In Progress"
-    - This page is regularly updated as we correct and add additional information
-    - Use Ctrl + F5 to refresh the page
+    - This page is updated regularly as we correct and add additional information
+    - Ctrl + F5 to refresh the page
 
 ## Rare Ore Recovery Request
 
@@ -82,21 +82,19 @@ The objectives of each faction are different, but related to stopping the witch 
     - Max faction affinity is mandatory for the Best endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
     - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
 
-    !!! warning "Remember to set max faction in the Cursed Wheel before you start to avoid (potentially) have to redo an ending" 
+    !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
 
 ??? "How to Reset a Faction Quest" 
 
-    - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Go downstairs > Exit via Route 3 Harken
-    - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit 
+    - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
+    - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
 
 ??? "Faction Endings" 
-
-    **Summary** 
     
     - 10 unique endings across all factions have been identified 
-    - Some endings may have been missed 
-    - Known endings are sufficient for getting the 2 Guiding Lights (Luck)
-    - The Princess route has 4 since the Best ending has 2 distinct sub-endings with different rewards and scenes 
+    - Some endings may have been missed as of 12/22 
+    - Known endings are sufficient for unlocking the 2 Guiding Lights (Luck)
+    - Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
 
     **Endings per Faction**
 
@@ -111,7 +109,7 @@ The objectives of each faction are different, but related to stopping the witch 
     
     - Still being tested and validated for the 2 Guiding Lights (Luck) 
     - Best estimate as of 12/22:
-        - 1 is unlocked after getting _any_ of the Best endings 
+        - 1 is unlocked after getting any of the Best endings 
         - 1 is unlocked after getting all 3 of the Best endings
     - Confirmed that max faction affinity is required  
     - The second Guiding Light may require defeating the true version of the GWO (4th fight)
@@ -119,9 +117,9 @@ The objectives of each faction are different, but related to stopping the witch 
     
     ??? tip "Testing notes" 
     
-        - Some Discord members have reported not receiving the Guiding Light after getting the Best ending on the Admiral and Pontiff routes
-        - Need to verify if other Admiral endings can give the Guiding Light
-        - Unclear if  Princess - Best Ending, sub-ending ("Do not tell the truth") gives the Guiding Light or achievement
+        - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
+        - Need to verify if other Admiral or Pontiff endings give the Guiding Light (Luck)
+        - Unclear if  Princess - Best Ending, sub-ending ("Do not tell the truth") gives the Guiding Light (Luck) or achievement
         - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ##### The Witch's Cave  
@@ -198,7 +196,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
     
         ??? danger "Cyclops + Bigfoot"
         
-            - More details coming soon
+            - More details to be added soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
             - At ~80% HP the Cyclops will summon another Bigfoot
             - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -252,7 +250,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     
                 ??? danger "Cyclops + Bigfoot"
 
-                    - More details coming soon
+                    - More details to be added soon
                     - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                     - At ~80% HP the Cyclops will summon another Bigfoot
                     - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -275,18 +273,18 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
         ??? warning "Ending Choices"
         
-            ??? "Sub-Ending A: Tell the Truth<span style="color: MediumOrchid">*</span>"
+            ??? "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
             
                 !!! tip "Rewards"
                     - Best Ending
                     - Achievement: "One Who Carries the Future of Her Land"
                     - 11,000 Gold 
     
-            ??? "Sub-Ending B: Do Not Tell the Truth"
-                - The threaten Rosa options do not seem to have any impact on the ending
+            ??? "Sub-Ending B: "Do Not Tell the Truth""
+                - The options to threaten Rosa do not seem to have any impact on the ending
     
                 !!! tip "Rewards"
-                    - Achievement: "One Who Carries the Future of Her Land" (needs verifying)
+                    - Achievement: "One Who Carries the Future of Her Land" (Needs verifying)
                     - 9,000 Gold 
                     - 1 Junk<span style="color: MediumOrchid">*</span>
                     - Unclear if this sub-ending can also unlock the Guiding Light (Luck)
@@ -311,7 +309,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
        
             ??? danger "Cyclops + Bigfoot"
             
-                - More details coming soon
+                - More details to be added soon
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                 - At ~80% HP the Cyclops will summon another Bigfoot
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
@@ -361,7 +359,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Talk to Tenet in town before entering the Witch's Cave
     - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
 
-    **Total brazier requests**
+    **Total Brazier Requests**
     
     - Do not talk to Tenet = 5 
     - Hen = 3  
@@ -390,8 +388,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
     **Endings** 
     
     - Bad = Elencia dead (4+ witch burnings) 
-    - Good =  Elencia alive (0-3 witch burnings) + "Tell the truth" 
-    - Best = Elencia alive (0-3 witch burnings) + "Condemend" 
+    - Good =  Elencia alive (0-3 witch burnings) + "Tell the Truth" 
+    - Best = Elencia alive (0-3 witch burnings) + "Condemn the Witch" 
 
     **Rewards**
     
@@ -400,12 +398,12 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Bad Ending - Elencia Dead"
      
-    - First run - Must watch an additional, 4th witch burning 
-    - Second run - Do not speak with Tenet in town and must watch an additional, 4th witch burning
+    - First run - Must witness a 4th witch burning 
+    - Second run - Do not speak with Tenet + must witness a 4th witch burning
     - Enter the Witch's Cave 
     - Complete all 5 brazier offering requests
-    - If you only return to town to get the offering request items you will only witness 3 witch burnings = Elencia alive after the boss fight (you do not want this)
-    - You must make an _additional_ trip back to town to witness the 4th witch burning
+    - Returning to town for only the offering requests = 3 witch burnings = Elencia is alive after the boss fight (you do not want this)
+    - An _additional_ trip back to town to witness the 4th witch burning is required
     - Recommend going after giving the brazier the 3 Rabbits or Living Blood
     - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in B2F
     
@@ -420,12 +418,12 @@ The Pontiff route is a race against time to discover the identity of the witch t
         ??? tip "Rewards"
             - Achievement: "A Witch There Was" 
             - 9,000 Gold
-            - Achievement is shared with an ending in the Admiral route ("Good Ending - Elencia Dead") and can only be received once
+            - Achievement is shared with "Admiral - Good Ending - Elencia Dead" and can only be received once
 
 ??? "Good Ending - Elencia Alive - "Tell the Truth""
 
-    - First run - Automatically if you only return to town for the offering request items and witness 3 witch burnings
-    - Second run - Talk to Tenet in town and select the Sheep 
+    - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
+    - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
     - Enter the Witch's Cave
     - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
 
@@ -441,7 +439,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Ending sequence begins automatically 
     
         - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
-        - "Tell the truth"
+        - "Tell the Truth"
         
         ??? tip "Rewards"
         
@@ -450,8 +448,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
-    - First run - Automatically if you only return to town for the offering request items
-    - Second run - Talk to Tenet in town and select the Sheep 
+    - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
+    - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
     - Enter the Witch's Cave
     - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
 
@@ -494,8 +492,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 ##### Admiral Route
 
 !!! warning "Important!" 
-    - We suspect an ending in the Admiral route has not yet been identified given the large number of ending permutations and dialogue choices
-    - The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)"
+    - One of the endings may not have been identified yet as of 12/22
+    - The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)
 
 The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
@@ -504,10 +502,10 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 ??? warning "Note on Initial Choices" 
 
     - The Admiral route is deceptively structured
-    - Choosing to "capture a witch" or "threaten" Cleric Ludwin has no impact on the ending
-    - The number of offerings to the brazier determines whether Elencia is alive or dead after the boss fight
+    - Initial choices of "Capture a witch" or "Threaten" have no impact on the ending
+    - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
     - Elencia's post-battle status (dead or alive) determines the ending
-    - The "prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
+    - The "Prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
 
 ??? "Brazier Offerings"
 
@@ -532,7 +530,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     - Talk to Elinas in town before entering the Witch's Cave
     - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
     
-    **Total brazier requests**
+    **Total Brazier Requests**
     
     - Do not talk to Elinas = 5 
     - Broom = 3 
@@ -548,9 +546,9 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     **Endings** 
     
     - Bad = Prepare Sedative 
-    - Good = Elencia dead (Pick Infant on subsequent runs)
+    - Good = Elencia dead (Pick Infant (Lamb) on subsequent runs)
     - Best = Elencia alive (Pick Broom on subsequent runs)
-    - On the first run you will always get the Best ending (Elencia alive) since you have to collect all 5 brazier offerings
+    - On a first run you will always get the Best ending (Elencia alive) since you have to collect all 5 brazier offerings
 
     **Rewards**
     
@@ -560,7 +558,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 ??? "Bad Ending - Prepare Sedative"
 
     - Speak to Raimi in town 
-    - He recommends gathering Sar-moon Herb in the Witch's Cave to calm the villagers
+    - Recommends gathering Sar-moon Herb in the Witch's Cave to calm the villagers
     - Enter the Witch's Cave 
     - Head north and down the stairs to B2F
     
@@ -593,11 +591,11 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
 ??? "Good Ending - Elencia Dead"
 
-    !!! warning "Can only be done on a second run"
+    !!! warning "Can only be done on a subsequent run"
      
     - Select "Capture a witch" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm you will help search for the witch
-    - Speak with Elinas and select the Infant (Lamb) 
+    - Speak with Elinas and pick the Infant (Lamb) 
     - Enter the Witch's Cave 
     - Head south and take the stairs down to B2F 
     - Go up and to the right to the large room with multiple doors  
@@ -657,7 +655,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 ??? "Best Ending - Elencia Alive"
 
     - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
-    - Subsequent runs - Select the Broom from Elencia in town
+    - Subsequent runs - Pick the Broom from Elencia in town
     - Select "Capture a witch" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Enter the Witch's Cave 
