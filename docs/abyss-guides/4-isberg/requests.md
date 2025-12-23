@@ -80,6 +80,8 @@ The objectives of each faction are different, but related to stopping the witch 
     - Max faction affinity is mandatory for the Best endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
     - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
 
+    !!! warning "Remember to set max faction in the Cursed Wheel before you start to avoid (potentially) have to redo an ending" 
+
 ??? "How to Reset a Faction Quest" 
 
     - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Go downstairs > Exit via Route 3 Harken
@@ -110,18 +112,15 @@ The objectives of each faction are different, but related to stopping the witch 
         - 1 is unlocked after getting _any_ of the Best endings 
         - 1 is unlocked after getting all 3 of the Best endings
     - Confirmed that max faction affinity is required  
-    - Recommend setting the Cursed Wheel to max faction affinity before accepting a faction request to avoid (potentially) redoing an ending
     - The second Guiding Light may require defeating the true version of the GWO (4th fight)
     - A Guiding Light will dissolve if it's already been received 
     
     ??? tip "Testing notes" 
     
         - Some Discord members have reported not receiving the Guiding Light after getting the Best ending on the Admiral and Pontiff routes
-        - Testing to see if other Admiral endings can give the Guiding Light
-        - Unclear if the Princess - Best Ending, sub-ending ("Do not tell the truth") gives the Guiding Light or achievement
+        - Need to verify if other Admiral endings can give the Guiding Light
+        - Unclear if  Princess - Best Ending, sub-ending ("Do not tell the truth") gives the Guiding Light or achievement
         - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
-
-!!! warning "Important! Max faction affinity _must_ be set in the Cursed Wheel in advance to receive Guiding Lights" 
 
 ##### The Witch's Cave  
 
@@ -360,7 +359,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - Talk to Tenet in town before entering the Witch's Cave
     - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
 
-    **Brazier requests**
+    **Total brazier requests**
     
     - Do not talk to Tenet = 5 
     - Hen = 3  
@@ -463,8 +462,6 @@ The Pontiff route is a race against time to discover the identity of the witch t
     - "Pull it out" (Forced to select)
     - Exit 
     - Return to town 
-    - Ending sequence begins automatically 
-        - "Prep
     - Ending sequences begins automatically   
     
         - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
@@ -494,8 +491,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ##### Admiral Route
 
-!!! warning "Important! 
-    
+!!! warning "Important!" 
     - We suspect an ending in the Admiral route has not yet been identified given the large number of ending permutations and dialogue choices
     - The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)"
 
@@ -534,7 +530,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     - Talk to Elinas in town before entering the Witch's Cave
     - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
     
-    **Brazier requests**
+    **Total brazier requests**
     
     - Do not talk to Elinas = 5 
     - Broom = 3 
@@ -545,7 +541,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 ??? warning "Ending Requirements"
 
     - Total of 3 confirmed endings 
-    - Possible another ending exists that has yet to be identified
+    - Possible another ending exists that has yet to be identified (as of 12/22)
 
     **Endings** 
     
@@ -595,9 +591,9 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
 ??? "Good Ending - Elencia Dead"
 
-        !!! warning "Can only be done on a second run"
+    !!! warning "Can only be done on a second run"
      
-    - Choose "Capture" or "Threaten" it does not matter 
+    - Select "Capture a witch" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm you will help search for the witch
     - Speak with Elinas and select the Infant (Lamb) 
     - Enter the Witch's Cave 
@@ -660,7 +656,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
     - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
     - Subsequent runs - Select the Broom from Elencia in town
-    - Choose "Capture" or "Threaten" it does not matter 
+    - Select "Capture a witch" or "Threaten" it does not matter 
     - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
     - Enter the Witch's Cave 
     - Head south and take the stairs down to B2F 
@@ -672,14 +668,15 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
             ??? map "Gold Ore Location" 
                 <div align="center">
-                ![](./img/princess-gold-ore.png)
+                ![](./img/admiral-gold-ore.PNG)
                 </div>
     
                 - Located directly across from the entrance 
     
             ??? danger "Enemy Gauntlet"
             
-                Before picking up the Gold Ore a group of 3 enemies will appear behind you. You will have to fight a series of back-to-back fights with tough enemies
+                - Before picking up the Gold Ore a group of 3 enemies will appear behind you
+                - You will have to fight a series of back-to-back fights with tough enemies
         
                 **Fights:** 
                 
@@ -692,7 +689,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     - Return to the brazier and offer the Gold Ore to unlock the witch's room 
 
         ??? danger "Boss: Witch"
-            - Fight details soon
+            - Details to be added soon
 
     - Elencia is alive, but unconscious after the boss fight 
     - Exit 
