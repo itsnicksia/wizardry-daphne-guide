@@ -247,7 +247,7 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Twisted Rootcrystal | 4091              |
 | Sharp Claws of the Beheading Snow Hare     | Surety Up, Divine Down               | Neutral     | Snow Bunny             | Beheading Snow Rabbit Twisted Bloodwood | 4092              |
 | One-Eyed White Giant's Mighty Arm          | Attack Up, Surety Up, ASPD Down      | Evil        | Snowpeak Cyclops       | ?                                       | ?                 |
-| Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Snow Hawk              | Wind-Cutting Raptor Twisted Gleamblight | 4094              |
+| Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Big Snow Hawk          | Wind-Cutting Raptor Twisted Gleamblight | 4094              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Twisted Spiritcoral          | 4095              |
 | Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4097              |
 | ?                                          | MP Up, Fire Res Down                 | Good        | Snow Wolf Leader       | ?                                       | ?                 |
