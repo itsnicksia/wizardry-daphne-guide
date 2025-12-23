@@ -485,6 +485,8 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ##### Admiral Route
 
+!!! warning "We suspect an ending in the Admiral route has not yet been identified given the large number of ending permutations and dialogue choices. The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)"
+
 The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. The Admiral is skeptical that witch's exist, but Elinas thinks that a Darkenbind Ritual might be taking place in the area. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
 **Mechanics** 
