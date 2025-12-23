@@ -41,7 +41,7 @@
 * Could not secure them
 * Secured all of them
 
-### Search for the Royal Knoghts
+### Search for the Royal Knights
 
 * Did not take the request
 * Brought back a body that could not be revived
