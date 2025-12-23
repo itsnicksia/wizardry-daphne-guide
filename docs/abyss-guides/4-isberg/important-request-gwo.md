@@ -23,7 +23,7 @@
 5. While going through Route 2, there will be a few cutscenes foreshadowing the upcoming fight on this floor. Upon reaching the end of the floor, you'll engage in a fight with Bigfoot.
   
     ??? danger "Bigfoot"
-        - He will start with Empowered by Snowstorm then immediately cast Hip Attack to a random adventurer. He has two baby bigfoots to his sides.
+        - He will start with Empowered by Snowstorm then immediately cast Hip Attack to a random adventurer (Single target attack that also hits adjacent allies in the row). He has two baby bigfoots to his sides.
         - Like with many enemies in this abyss, he will cast skills out of turn when taking a certain amount of damage.
         - When taking a certain amount of damage, he will immediately cast his breath skill. The second time, he will chest pount and summon more baby bigfoots. The third time he will self buff with 10 turns of DEF, MDEF, and ATK up. The ATK is dispelled first.
         - Fire attacks will enrage him and can cause him to immediately cast his breath skill. However, fire attacks used after he self buffs will instead remove all his buffs and cause him to cast an undispellable infinite ATK UP and CT UP buff.
@@ -46,7 +46,8 @@
         - The fight has several other snow wolves in the same row and behind. The snow wolves are significantly weaker than the leader.
         - The wolves can summon another wolf into the fight, while the leader can summon multiple into the fight.
         - The leader can use an ice breath that immediately freezes a row. He can also summon an ice storm that also freezes everyone including his own units and himself in the battle.
-        - When the leader is frozen AND there are 6 or more wolves on the field, he can cast glacial storm which is a full team AOE that does a lot of damage. It's recommended to break his frozen state ASAP.
+        - When the leader is frozen AND there are 6 or more wolves on the field, he can cast Glacial Storm which is a full team AOE that does a lot of damage. It's recommended to break his frozen state ASAP.
+        - It is also possible for the leader to cast Glacial Storm when taking a certain amount of damage regardless of previously stated conditions.
         - When he is about to die, he will summon an extremely large amount of snow wolves.
         - When the leader dies, all the remaining snow wolves will be greatly debuffed in attack and CT.
 
