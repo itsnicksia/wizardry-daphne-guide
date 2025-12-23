@@ -116,11 +116,17 @@ Extraction services can be paid with purple gems, green gems, or gold. There is 
         ![](img/relicebrew-slagshop.PNG)
     </div>
 
-The Slagpiece Exchange lists 9 relics for sale in exchange for slag that is reset and randomly determined each week. The amount of slag you have accumulated is shown in the upper right-hand corner.  
+The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is reset and randomly determined each week. The amount of slag you have accumulated is shown in the upper right-hand corner.  
 
-- There are 3 rows with 3 relics per row.
-- Top row = 3★ relics (400 slag), middle row = 2★ (200 slag) relics, bottom row = 1★ relics (100 slag).
 - Any relic in the game can appear, including one that is unique to the Exchange (Flower of the Abyss; MP Up and SP Up, ASPD Down).
+- There are 4 rows with 3 relics per row.
+- Each row has a different rarity of relics.
+- Standard costs per rarity:
+  - 4★: 1000 slag
+  - 3★: 400 slag
+  - 2★: 200 slag
+  - 1★: 100 slag
+- Relics unique to the shop have double the standard cost.
 - It is possible to have multiple copies of the same relic with different ★ quality.
 - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
 
