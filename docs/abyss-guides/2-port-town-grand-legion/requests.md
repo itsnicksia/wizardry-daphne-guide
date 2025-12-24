@@ -74,7 +74,7 @@
     ![](img/image_14.jpg)
 
 ### Viscount Guane
-After returning from the Flooded Town you will be approached by a representative of the faction you have chosen. If you already cleared each route, or want to redo the ending to the Viscounty Guane mission then you will have to curse wheel to before Flooded Town and then curse wheel to Flooded Town and immediately return to town. If you want to change faction you have to curse wheel to Search Request.
+After returning from the Flooded Town you will be approached by a representative of the faction you have chosen. If you already cleared each route, or want to redo the ending to the Viscount Guane mission then you will have to curse wheel to before Flooded Town and then curse wheel to Flooded Town and immediately return to town. If you want to change faction you have to curse wheel to Search Request.
 
 Aegon -> Princess Route
 
