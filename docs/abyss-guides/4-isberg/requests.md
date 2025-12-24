@@ -52,7 +52,7 @@ This request has no pre-requisites to accept. However, to fully complete it, you
 
 ### Find My Kitty
 
-!!! warning "If you return the Adventurer's guild immediately after accepting the request and leaving, the request will fail automatically in your timeline, requiring cursed wheeling and re-completion of all the previous requests"
+!!! warning "If you return the Adventurer's guild immediately after accepting the request and leaving, the request will fail automatically in your timeline, requiring cursed wheeling. You can wheel back to Blizzard Blocking the Path to reset only this request and not its pre-reqs."
 
 This request requires Recovery of Salted Pork and Find my Sister Lisa requests completed. If the request is attempted without these completed, the request will always end in failure.
 
