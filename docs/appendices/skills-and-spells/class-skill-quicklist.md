@@ -22,3 +22,6 @@
 
 === "Samurai Skills"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Samurai']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Ranger Skills"
+    {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Ranger']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
