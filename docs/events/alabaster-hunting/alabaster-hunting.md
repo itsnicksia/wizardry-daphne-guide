@@ -4,6 +4,17 @@
 
 You need to reach the fourth Abyss main town, Isberg, to unlock this request in the Royal Capital.
 
+## Maps:
+
+??? map "B1F"
+    ![](./img/alabaster-wolf-den-b1f.jpg)
+
+??? map "B2F"
+    ![](./img/alabaster-wolf-den-b2f.jpg)
+
+??? map "B3F"
+    ![](./img/alabaster-wolf-den-b3f.jpg)
+
 ## Guide:
 
 !!! bug "At the moment, it is possible to softlock the game by stepping on a spike trap in this cave. It can be resolved by restarting the game."
@@ -37,3 +48,6 @@ There are three runs necessary to fully complete this request. The request is no
 
 ### Rewards
 
+![](./img/alabaster-wolf-reward.png)
+
+The bow gives 6 SP when equipped and always spawns as 3* blue.
