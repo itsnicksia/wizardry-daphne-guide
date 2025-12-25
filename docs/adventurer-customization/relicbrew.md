@@ -22,10 +22,12 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
         ![](img/relicbrew-relic-monster.png)
     </div>
 
+    - Denoted by a glowing pink-purple aura  
+
 ??? info "Relic Flowchart"
     Below is a flowchart of how all the different components are connected to each other:<br>Relic monster > Relic (or slag) > Relicbrew > Relic Power  
 
-## How to obtain relics
+## How to Obtain Relics
 
 Relics can be obtained by encountering relic monsters that can rarely appear anywhere in the game. A relic monster will always drop a chest after a battle. The chest will contain either the enemy's relic (~30%) or slag (~70%). Slag can be exchanged for relics in the Black Barrel Tavern's Slagpiece Exchange. Relic monsters are unique and only one can spawn per encounter.
 
@@ -56,7 +58,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ### Drink Relicbrew
 
-#### Relicbrew Selection
+##### Relicbrew Selection
 
 The "Relicbrew" menu lists all of the relics in your inventory. The same relic with a different ★ quality is counted as a separate item and relicbrew. Selecting a relic will show you the name of the relicbrew, a brief description, and its associated Relic Power, if known. Each relicbrew provides a unique Relic Power in the form of a passive skill.
 
@@ -65,7 +67,7 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
         ![](img/relicbrew-definitions.png)
     </div>
 
-**Relic Powers**
+##### Relic Powers
 
 - Increases 1-2 stats at the cost of another. The negative stat penalty is always -1 per level up to a maximum of -5.
 - Effects can be increased to a maximum of level 5 by repeatedly drinking the same relicbrew of any ★ quality.
@@ -76,7 +78,7 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
 - Can be removed for a fee via extraction.
 - Level and accumulated experience is not lost if extracted, but you need to find and drink the same relicbrew again to reactivate.
 
-#### Drink Relicbrew 
+##### How to Drink a Relicbrew 
 
 ??? info "Menu Guide"
     <div align="center">
@@ -90,11 +92,11 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
 -  Up to 6 people can consume a relicbrew, but the MC is always a fixed member that can be de-selected.
 -  To consume a relicbrew select "Drink Relicbrew" at the bottom of the menu to view a brief cutscene.
 
-!!! tip "Congratulations, enjoy your newfound powers of the Abyss!"   
+!!! danger "Congratulations, enjoy your newfound powers of the Abyss!"   
 
 ### Relic Powers
 
-#### Relic Power Menu
+##### Relic Power Menu
 
 ??? info "Menu Guide"
 
@@ -109,7 +111,7 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
     
 The initial "Relic Power" menu shows a list of all registered units. Selecting a character will display their active Relic Powers, level, and any alignment matches (bright pink text) in the upper right-hand corner. The "Extracted Relic Power" section lists previously equipped Relic Powers. Selecting any Relic Power will show its level, stat effects, current "Power Density" (experience), and the amount needed to reach the next level. At the bottom is the "Remove Power" option, which will take you to the extraction menu.   
 
-#### Extraction 
+##### Extraction 
 
 ??? info "Menu Guide"
     <div align="center">
@@ -134,11 +136,10 @@ Payment options:
 - Extraction services can be paid with purple gems, green gems, or gold
 - There is no reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
 - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
+- Always use Special Extraction when possible. 
 
-!!! tip "Recommendations"
 
-    - Always use Special Extraction when possible. 
-    - Note that an extracted Relic Power does _not_ lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality.
+!!! warning "Important! An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality."
 
 ### Slagpiece Exchange
 
@@ -165,6 +166,8 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 
 Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics (transformed into relicbrews). Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points. Note: For ease of reading experience points (EXP) is the term that will be used throughout this section.       
 
+### Experience Mechanics 
+
 | ★ Quality  | EXP    |        
 |:---------:|:------:|
 | 1★         | 100   |
@@ -172,7 +175,17 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | 3★         | 400   |
 | 4★         | 1,000 |
 
-Relic Powers require a certain amount of EXP to reach the next level. The maximum is level 5. A quirk of this system is that there is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.  Experience requirements grow significantly. After level 3 the EXP required to take a Relic Power to level 4 is 1,200 EXP and level 5 is 3,000 EXP. Helpful EXP benchmarks to remember: it takes 900 _total_ EXP to reach level 3 and 2,100 EXP to reach level 4.    
+- Relic Powers require a certain amount of EXP to reach the next level.
+- The maximum is level 7.
+- There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power.
+    - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP.
+    - This is the reason why you will often be exactly 100 EXP away from the next level.
+- Experience requirements grow significantly. After level 3 the EXP required to take a Relic Power to:
+    - Level 4 is 1,200 EXP
+    - Level 5 is 3,000 EXP
+    - Level 6 is TBD
+    - Level 7 is TBD
+    - Helpful benchmark - it takes 900 _total_ EXP to reach level 3 and 2,100 EXP to reach level 4    
 
 | Relic Power Level | Required EXP per Level | Total EXP |        
 |:-----------------:|:------------:|:--------------:|
@@ -182,6 +195,7 @@ Relic Powers require a certain amount of EXP to reach the next level. The maximu
 | 3 - 4             |     1,200    |      2,100     |
 | 4 - 5             |     3,000    |      5,100     |
 | Total             |     5,100    |        -       |
+
 
 Below is a table of how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers. For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP). It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.     
 
