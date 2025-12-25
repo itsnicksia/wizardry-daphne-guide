@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) and subsequently [Recovery of Research Materials](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) you unlock the ability to access Relicbrews at the Black Barrel Tavern, which can be accessed via the world map.
+!!! warning "Upon completion of [Recovery of Belongings](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) and subsequently [Recovery of Research Materials](../abyss-guides/2-port-town-grand-legion/requests.md#recovery-of-belongings) you unlock the ability to access Relicbrews at the Black Barrel Tavern, which can be accessed via the world map."
 
 ## Terminology 
 
@@ -17,7 +17,7 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 | Relic Power            | A semi-permanent, unique passive skill gained from drinking a relicbrew.                                                                |
 | Eye of Vitriol         | Valuable item given by Corvo that allows the user to see if an enemy is carrying a relic (red aura).                                    |
 
-??? info "Relic Monster"
+??? danger "Relic Monster"
     <div align="center">
         ![](img/relicbrew-relic-monster.png)
     </div>
@@ -56,9 +56,11 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ### Drink Relicbrew
 
+#### Relicbrew Selection
+
 The "Relicbrew" menu lists all of the relics in your inventory. The same relic with a different ★ quality is counted as a separate item and relicbrew. Selecting a relic will show you the name of the relicbrew, a brief description, and its associated Relic Power, if known. Each relicbrew provides a unique Relic Power in the form of a passive skill.
 
-??? info "Guide"
+??? info "Menu Guide"
     <div align="center">
         ![](img/relicbrew-definitions.png)
     </div>
@@ -74,18 +76,27 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
 - Can be removed for a fee via extraction.
 - Level and accumulated experience is not lost if extracted, but you need to find and drink the same relicbrew again to reactivate.
 
-??? info "Guide"
+#### Drink Relicbrew 
+
+??? info "Menu Guide"
     <div align="center">
         ![](img/relicbrew-drink-menu.PNG)
     </div>
 
-The "Drink Relicbrew" menu shows you a list of all registered adventurers, the number of equipped Relic Powers, penalty stage status, and Relic Power history via a small bottle icon over the class name. A golden bottle denotes a currently equipped Relic Power. A dark grey (empty) bottle means it was extracted in the past. The bottle icon can help sort through a large roster. Up to 6 people can consume a relicbrew, but the MC is always a fixed member that can be de-selected. To consume a relicbrew select "Drink Relicbrew" at the bottom of the menu to view a brief cutscene.
+- The "Drink Relicbrew" menu shows you a list of all registered adventurers, the number of equipped Relic Powers, penalty stage status, and Relic Power history via a small bottle icon over the class name
+-  A golden bottle denotes a currently equipped Relic Power.
+-  A dark grey (empty) bottle means it was extracted in the past.
+-  The bottle icon can help sort through a large roster.
+-  Up to 6 people can consume a relicbrew, but the MC is always a fixed member that can be de-selected.
+-  To consume a relicbrew select "Drink Relicbrew" at the bottom of the menu to view a brief cutscene.
 
-Congratulations, enjoy your newfound powers of the Abyss!   
+!!! tip "Congratulations, enjoy your newfound powers of the Abyss!"   
 
 ### Relic Powers
 
-??? info "Guide"
+#### Relic Power Menu
+
+??? info "Menu Guide"
 
     === "Unit Selection Menu"
         ![](img/relicpower-unit-menu.PNG)
@@ -98,16 +109,36 @@ Congratulations, enjoy your newfound powers of the Abyss!
     
 The initial "Relic Power" menu shows a list of all registered units. Selecting a character will display their active Relic Powers, level, and any alignment matches (bright pink text) in the upper right-hand corner. The "Extracted Relic Power" section lists previously equipped Relic Powers. Selecting any Relic Power will show its level, stat effects, current "Power Density" (experience), and the amount needed to reach the next level. At the bottom is the "Remove Power" option, which will take you to the extraction menu.   
 
-**Extraction**
+#### Extraction 
 
-??? info "Extraction"
+??? info "Menu Guide"
     <div align="center">
         ![](img/relicpower-extract.PNG)
     </div>
 
-Allows you to extract (remove) a currently equipped Relic Power for a fee. There are 3 types of extraction services: Emergency, Standard, and Special. The more expensive options have a higher rate of success. On success, the adventurer will lose 1 max Fortitude for 2 weeks. On failure, the adventurer will lose 5 max Fortitude for 2 weeks. On great success, the adventurer does not lose any Fortitude. There will be a pop-up notification after the brief cutscene showing the Fortitude loss, if any.
+Allows you to extract (remove) a currently equipped Relic Power for a fee. There are 3 types of extraction services: 
 
-Extraction services can be paid with purple gems, green gems, or gold. There is no reason to use gems for extraction as the gold costs are generally affordable as you progress through the game. However, the costs increase significantly (up to 100K) the higher the level of the Relic Power being removed. We recommend that you always use Special Extraction when possible. Note that an extracted Relic Power does _not_ lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality.
+- Emergency
+- Standard
+- Special
+
+The more expensive options have a higher rate of success: 
+
+- On failure, the adventurer will lose 5 max Fortitude for 2 weeks.
+- On success, the adventurer will lose 1 max Fortitude for 2 weeks.
+- On great success, the adventurer does not lose any Fortitude.
+- A pop-up notification after the brief cutscene showing the Fortitude loss, if any.
+
+Payment options:
+
+- Extraction services can be paid with purple gems, green gems, or gold
+- There is no reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
+- Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
+
+!!! tip "Recommendations"
+
+    - Always use Special Extraction when possible. 
+    - Note that an extracted Relic Power does _not_ lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality.
 
 ### Slagpiece Exchange
 
@@ -122,10 +153,10 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 - There are 4 rows with 3 relics per row.
 - Each row has a different rarity of relics.
 - Standard costs per rarity:
-  - 4★: 1000 slag
-  - 3★: 400 slag
-  - 2★: 200 slag
-  - 1★: 100 slag
+      - 4★: 1000 slag
+      - 3★: 400 slag
+      - 2★: 200 slag
+      - 1★: 100 slag
 - Relics unique to the shop have double the standard cost.
 - It is possible to have multiple copies of the same relic with different ★ quality.
 - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
@@ -252,7 +283,7 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Snow Hobber's Thick Hide                   | Defense Up, SP Down                  | Neutral     | Snowland Hobgoblin     | ?                                       | 4090              |
 | Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Twisted Rootcrystal | 4091              |
 | Sharp Claws of the Beheading Snow Hare     | Surety Up, Divine Down               | Neutral     | Snow Bunny             | Beheading Snow Rabbit Twisted Bloodwood | 4092              |
-| One-Eyed White Giant's Mighty Arm          | Attack Up, Surety Up, ASPD Down      | Evil        | Snowpeak Cyclops       | ?                                       | ?                 |
+| One-Eyed White Giant's Mighty Arm          | Attack Up, Surety Up, ASPD Down      | Evil        | Snowpeak Cyclops       | One-Eyed White Giant's Twisted Bloodwood| 4093              |
 | Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Big Snow Hawk          | Wind-Cutting Raptor Twisted Gleamblight | 4094              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Twisted Spiritcoral          | 4095              |
 | Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4097              |
