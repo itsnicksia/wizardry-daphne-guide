@@ -4,7 +4,8 @@
   "description": "Convert Japanese equipment HTML to English JSON",
   "main": "convert-equipment.js",
   "scripts": {
-    "convert": "node convert-equipment.js"
+    "convert": "node convert-equipment.js",
+    "test": "node test-probabilities.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0"

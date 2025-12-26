@@ -57,22 +57,35 @@ Example: Bronze Dagger from Beginner's Junk
 
 ## Adding Translations
 
-1. Run converter: `npm run convert`
-2. New JP items are added to `dictionary.json` with empty values
-3. Fill in English translations
-4. Re-run converter
+The converter uses intelligent keyword-based translation:
+
+1. **Exact lookup**: Checks `equipment` section for manual translations
+2. **Keyword fallback**: Combines material prefix + item type suffix
+3. **Auto-save**: Successfully translated items are added to dictionary
 
 Dictionary sections:
 - `equipment`: Direct item name mappings (青銅の短剣 → Bronze Dagger)
-- `garakuta`: Component parts for building names (常なる → Steady, ガラクタ → Junk)
+- `equipmentMaterials`: Material prefixes (青銅の → Bronze, 鋼の → Steel)
+- `equipmentTypes`: Item types (短剣 → Dagger, 両手斧 → Two-Handed Axe)
+- `garakuta`: Component parts for building junk names (常なる → Steady, ガラクタ → Junk)
+
+To add new translations:
+1. Run `npm run convert` - new items auto-translate if keywords match
+2. For unique items, add to `equipment` section manually
+3. For new materials/types, add to respective keyword sections
 
 ## Search Page
 
 Open `index.html` via local server. Features:
 - Text search (EN/JP equipment names)
-- Quality filter (★4+, ★5 availability)
-- Grade filter (G4+, G5 availability)
 - Results sorted by effective drop rate
 - Probability table showing combined chance for each quality/grade combination
 - Groups aggregated per garakuta (probabilities summed across all groups)
+- Row/column totals for quality and grade probabilities
 - Grade colors: White (G1), Green (G2), Blue (G3), Purple (G4), Red (G5)
+
+## Docs Integration
+
+The loot finder is embedded in the main docs site:
+- `/docs/tools/loot-finder.md` - MkDocs page
+- `/docs/html/loot-finder.html` - Self-contained HTML component (CSS prefixed with `lf-`)
