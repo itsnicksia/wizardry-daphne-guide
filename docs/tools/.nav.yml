@@ -1,3 +1,4 @@
 nav:
   - Respawn Tracker: './tracker.md'
+  - Loot Finder: './loot-finder.md'
   - '*'

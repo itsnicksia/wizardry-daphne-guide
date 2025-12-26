@@ -1,0 +1,367 @@
+<div id="loot-finder-container">
+  <style>
+    #loot-finder-container {
+      --bg-primary: #1a1814;
+      --bg-secondary: #13120f;
+      --bg-card: #1e1c18;
+      --text-primary: #ddd1b7;
+      --text-secondary: #a89a7a;
+      --accent-orange: #d4ad7a;
+      --accent-gold: #d48011;
+      --color-green: rgb(16, 112, 41);
+      --color-red: rgb(215, 25, 15);
+      --color-blue: rgb(51, 107, 204);
+      --color-purple: rgb(124, 77, 255);
+      --grade-1: #ddd1b7;
+      --grade-2: rgb(16, 112, 41);
+      --grade-3: rgb(51, 107, 204);
+      --grade-4: rgb(124, 77, 255);
+      --grade-5: rgb(215, 25, 15);
+    }
+    #loot-finder-container * { box-sizing: border-box; }
+    #loot-finder-container .lf-search-box {
+      background: var(--bg-secondary);
+      padding: 20px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    #loot-finder-container .lf-search-input {
+      width: 100%;
+      padding: 12px 16px;
+      font-size: .85rem;
+      border: 2px solid var(--bg-card);
+      border-radius: 6px;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+    }
+    #loot-finder-container .lf-search-input:focus {
+      outline: none;
+      border-color: var(--accent-orange);
+    }
+    #loot-finder-container .lf-results-header {
+      margin-bottom: 15px;
+      color: var(--text-secondary);
+      font-size: .8rem;
+    }
+    #loot-finder-container .lf-equipment-card {
+      background: var(--bg-secondary);
+      border-radius: 8px;
+      padding: 16px;
+      margin-bottom: 12px;
+      border-left: 4px solid var(--accent-orange);
+    }
+    #loot-finder-container .lf-equipment-name {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-bottom: 4px;
+      color: var(--accent-orange);
+    }
+    #loot-finder-container .lf-equipment-name-jp {
+      color: var(--text-secondary);
+      font-size: .8rem;
+      margin-bottom: 12px;
+    }
+    #loot-finder-container .lf-sources-list { list-style: none; padding: 0; margin: 0; }
+    #loot-finder-container .lf-source-item {
+      display: flex;
+      flex-direction: column;
+      padding: 8px 12px;
+      background: var(--bg-card);
+      border-radius: 4px;
+      margin-bottom: 6px;
+      gap: 6px;
+    }
+    #loot-finder-container .lf-source-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    #loot-finder-container .lf-source-name {
+      font-weight: 500;
+      flex: 1;
+      min-width: 200px;
+    }
+    #loot-finder-container .lf-source-name-jp {
+      color: var(--text-secondary);
+      font-size: .7rem;
+      display: block;
+    }
+    #loot-finder-container .lf-source-stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 12px;
+      font-size: .75rem;
+    }
+    #loot-finder-container .lf-drop-rate {
+      color: var(--color-green);
+      font-weight: 600;
+    }
+    #loot-finder-container .lf-prob-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .7rem;
+      margin-top: 8px;
+    }
+    #loot-finder-container .lf-prob-table th,
+    #loot-finder-container .lf-prob-table td {
+      padding: 3px 6px;
+      text-align: center;
+      border: 1px solid var(--bg-card);
+    }
+    #loot-finder-container .lf-prob-table th {
+      background: var(--bg-primary);
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+    #loot-finder-container .lf-prob-table th.lf-grade-col { font-weight: 600; }
+    #loot-finder-container .lf-prob-table th.lf-g1 { color: var(--grade-1); }
+    #loot-finder-container .lf-prob-table th.lf-g2 { color: var(--grade-2); }
+    #loot-finder-container .lf-prob-table th.lf-g3 { color: var(--grade-3); }
+    #loot-finder-container .lf-prob-table th.lf-g4 { color: var(--grade-4); }
+    #loot-finder-container .lf-prob-table th.lf-g5 { color: var(--grade-5); }
+    #loot-finder-container .lf-prob-table td.lf-g1 { color: var(--grade-1); }
+    #loot-finder-container .lf-prob-table td.lf-g2 { color: var(--grade-2); }
+    #loot-finder-container .lf-prob-table td.lf-g3 { color: var(--grade-3); }
+    #loot-finder-container .lf-prob-table td.lf-g4 { color: var(--grade-4); }
+    #loot-finder-container .lf-prob-table td.lf-g5 { color: var(--grade-5); }
+    #loot-finder-container .lf-prob-table .lf-star-label {
+      color: var(--accent-gold);
+      font-weight: 500;
+      text-align: left;
+    }
+    #loot-finder-container .lf-prob-table .lf-total-col {
+      color: var(--text-secondary);
+    }
+    #loot-finder-container .lf-prob-table .lf-total-cell {
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+    #loot-finder-container .lf-prob-table .lf-total-row th,
+    #loot-finder-container .lf-prob-table .lf-total-row td {
+      border-top: 2px solid var(--text-secondary);
+    }
+    #loot-finder-container .lf-prob-table .lf-total-label {
+      color: var(--text-secondary);
+      font-weight: 500;
+      text-align: left;
+    }
+    #loot-finder-container .lf-no-results {
+      text-align: center;
+      padding: 40px;
+      color: var(--text-secondary);
+    }
+    #loot-finder-container .lf-loading {
+      text-align: center;
+      padding: 40px;
+      color: var(--text-secondary);
+    }
+    @media (max-width: 600px) {
+      #loot-finder-container .lf-source-item { flex-direction: column; align-items: flex-start; }
+      #loot-finder-container .lf-source-stats { width: 100%; justify-content: space-between; }
+    }
+  </style>
+
+  <div class="lf-search-box">
+    <input type="text" class="lf-search-input" id="lf-search" placeholder="Search equipment (e.g., Bronze Dagger, 青銅の短剣)...">
+  </div>
+
+  <div class="lf-results-header" id="lf-results-header"></div>
+  <div id="lf-results">
+    <div class="lf-loading">Loading equipment data...</div>
+  </div>
+
+  <script>
+  (function() {
+    let equipmentIndex = {};
+    let allEquipment = [];
+
+    async function loadData() {
+      try {
+        const response = await fetch('https://raw.githubusercontent.com/itsnicksia/wizardry-daphne-guide/refs/heads/main/tools/equipment-en.json');
+        const data = await response.json();
+        buildIndex(data);
+        render();
+      } catch (err) {
+        document.getElementById('lf-results').innerHTML =
+          '<div class="lf-no-results">Failed to load equipment data.</div>';
+      }
+    }
+
+    function buildIndex(data) {
+      equipmentIndex = {};
+      data.garakuta.forEach(g => {
+        g.groups.forEach(group => {
+          group.equipment.forEach(equip => {
+            const key = equip.name;
+            if (!equipmentIndex[key]) {
+              equipmentIndex[key] = {
+                name: equip.name,
+                nameJp: equip.nameJp,
+                sources: {}
+              };
+            }
+            const garakutaKey = g.name;
+            if (!equipmentIndex[key].sources[garakutaKey]) {
+              equipmentIndex[key].sources[garakutaKey] = {
+                garakuta: g.name,
+                garakutaJp: g.nameJp,
+                effectiveRate: 0,
+                probMatrix: {}
+              };
+              for (let s = 1; s <= 5; s++) {
+                for (let gr = 1; gr <= 5; gr++) {
+                  equipmentIndex[key].sources[garakutaKey].probMatrix[`s${s}g${gr}`] = 0;
+                }
+              }
+            }
+            const src = equipmentIndex[key].sources[garakutaKey];
+            const effectiveRate = (group.dropRate * equip.dropRate) / 100;
+            src.effectiveRate += effectiveRate;
+            for (let s = 1; s <= 5; s++) {
+              const starPct = equip.quality['star' + s] || 0;
+              for (let gr = 1; gr <= 5; gr++) {
+                const gradePct = equip.grade['g' + gr] || 0;
+                const combinedPct = (effectiveRate * starPct * gradePct) / 10000;
+                src.probMatrix[`s${s}g${gr}`] += combinedPct;
+              }
+            }
+          });
+        });
+      });
+
+      allEquipment = Object.values(equipmentIndex).map(eq => ({
+        name: eq.name,
+        nameJp: eq.nameJp,
+        sources: Object.values(eq.sources)
+      }));
+      allEquipment.forEach(eq => {
+        eq.sources.sort((a, b) => b.effectiveRate - a.effectiveRate);
+      });
+      allEquipment.sort((a, b) => a.name.localeCompare(b.name));
+    }
+
+    const gradeNames = ['White', 'Green', 'Blue', 'Purple', 'Red'];
+
+    function generateProbTable(source) {
+      const probMatrix = source.probMatrix;
+
+      const activeStars = [];
+      for (let s = 1; s <= 5; s++) {
+        let hasProb = false;
+        for (let g = 1; g <= 5; g++) {
+          if (probMatrix[`s${s}g${g}`] > 0) {
+            hasProb = true;
+            break;
+          }
+        }
+        if (hasProb) activeStars.push(s);
+      }
+
+      if (activeStars.length === 0) return '';
+
+      const gradeTotals = [0, 0, 0, 0, 0];
+      const starTotals = {};
+      for (const s of activeStars) starTotals[s] = 0;
+
+      for (const s of activeStars) {
+        for (let g = 1; g <= 5; g++) {
+          const val = probMatrix[`s${s}g${g}`];
+          gradeTotals[g - 1] += val;
+          starTotals[s] += val;
+        }
+      }
+
+      let html = '<table class="lf-prob-table"><thead><tr><th></th>';
+      for (let g = 1; g <= 5; g++) {
+        html += `<th class="lf-grade-col lf-g${g}">${gradeNames[g - 1]}</th>`;
+      }
+      html += '<th class="lf-total-col">Total</th></tr></thead><tbody>';
+
+      for (const s of activeStars) {
+        html += `<tr><th class="lf-star-label">★${s}</th>`;
+        for (let g = 1; g <= 5; g++) {
+          const combinedPct = probMatrix[`s${s}g${g}`];
+          if (combinedPct === 0) {
+            html += `<td class="lf-g${g}">-</td>`;
+          } else {
+            html += `<td class="lf-g${g}">${combinedPct.toFixed(3)}%</td>`;
+          }
+        }
+        html += `<td class="lf-total-cell">${starTotals[s].toFixed(3)}%</td></tr>`;
+      }
+
+      html += '<tr class="lf-total-row"><th class="lf-total-label">Total</th>';
+      for (let g = 1; g <= 5; g++) {
+        if (gradeTotals[g - 1] === 0) {
+          html += `<td class="lf-g${g}">-</td>`;
+        } else {
+          html += `<td class="lf-g${g}">${gradeTotals[g - 1].toFixed(3)}%</td>`;
+        }
+      }
+      html += '<td class="lf-total-cell"></td></tr>';
+
+      html += '</tbody></table>';
+      return html;
+    }
+
+    function filterEquipment() {
+      const query = document.getElementById('lf-search').value.toLowerCase().trim();
+      if (!query) return allEquipment;
+      return allEquipment.filter(eq =>
+        eq.name.toLowerCase().includes(query) || eq.nameJp.includes(query)
+      );
+    }
+
+    function render() {
+      const filtered = filterEquipment();
+      const resultsEl = document.getElementById('lf-results');
+      const headerEl = document.getElementById('lf-results-header');
+
+      if (filtered.length === 0) {
+        headerEl.textContent = '';
+        resultsEl.innerHTML = '<div class="lf-no-results">No equipment found matching your criteria.</div>';
+        return;
+      }
+
+      const displayCount = Math.min(filtered.length, 50);
+      headerEl.textContent = `Showing ${displayCount} of ${filtered.length} equipment items`;
+
+      resultsEl.innerHTML = filtered.slice(0, 50).map(eq => `
+        <div class="lf-equipment-card">
+          <div class="lf-equipment-name">${eq.name}</div>
+          <div class="lf-equipment-name-jp">${eq.nameJp}</div>
+          <ul class="lf-sources-list">
+            ${eq.sources.slice(0, 10).map(src => `
+              <li class="lf-source-item">
+                <div class="lf-source-header">
+                  <div class="lf-source-name">
+                    ${src.garakuta}
+                    <span class="lf-source-name-jp">${src.garakutaJp}</span>
+                  </div>
+                  <div class="lf-source-stats">
+                    <span class="lf-drop-rate">Base: ${src.effectiveRate.toFixed(2)}%</span>
+                  </div>
+                </div>
+                ${generateProbTable(src)}
+              </li>
+            `).join('')}
+            ${eq.sources.length > 10 ? `<li class="lf-source-item" style="justify-content: center; color: #888;">...and ${eq.sources.length - 10} more sources</li>` : ''}
+          </ul>
+        </div>
+      `).join('');
+    }
+
+    let debounceTimer;
+    function debounceRender() {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(render, 200);
+    }
+
+    document.getElementById('lf-search').addEventListener('input', debounceRender);
+
+    loadData();
+  })();
+  </script>
+</div>
