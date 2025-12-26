@@ -763,6 +763,10 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
       4. Large Brownish-Green Stone = Copper (not worth much)
       5. Black Stone = Coal (not worth much)
 
+!!! map "Ore Locations - Double marks = boss enemy guarding ore"
+
+    ![](./img/ore-mining-loc.jpg)
+
 ## Short Rest in the Cabin
 
 ### Search for the Missing Persons (Second Faction Request)
