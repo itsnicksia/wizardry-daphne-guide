@@ -53,32 +53,6 @@ h1 {
   outline: none;
   border-color: var(--accent-orange);
 }
-.filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 15px;
-}
-.filter-group {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-.filter-group label {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  cursor: pointer;
-  padding: 6px 10px;
-  background: var(--bg-card);
-  border-radius: 4px;
-  font-size: .8rem;
-}
-.filter-group label:hover { background: #2a2820; }
-.filter-group input[type="checkbox"] {
-  width: 16px;
-  height: 16px;
-  cursor: pointer;
-}
 .results-header {
   margin-bottom: 15px;
   color: var(--text-secondary);
@@ -129,6 +103,11 @@ h1 {
   font-size: .7rem;
   display: block;
 }
+.group-number {
+  color: var(--accent-gold);
+  font-size: .75rem;
+  font-weight: 400;
+}
 .source-stats {
   display: flex;
   flex-wrap: wrap;
@@ -168,6 +147,22 @@ h1 {
 .prob-table td.g5 { color: var(--grade-5); }
 .prob-table .star-label {
   color: var(--accent-gold);
+  font-weight: 500;
+  text-align: left;
+}
+.prob-table .total-col {
+  color: var(--text-secondary);
+}
+.prob-table .total-cell {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+.prob-table .total-row th,
+.prob-table .total-row td {
+  border-top: 2px solid var(--text-secondary);
+}
+.prob-table .total-label {
+  color: var(--text-secondary);
   font-weight: 500;
   text-align: left;
 }

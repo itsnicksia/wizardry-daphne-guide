@@ -3,13 +3,13 @@ let allEquipment = [];
 
 async function loadData() {
   try {
-    const response = await fetch('equipment-en.json');
+    const response = await fetch('https://raw.githubusercontent.com/itsnicksia/wizardry-daphne-guide/refs/heads/main/tools/equipment-en.json');
     const data = await response.json();
     buildIndex(data);
     render();
   } catch (err) {
     document.getElementById('results').innerHTML =
-      '<div class="no-results">Failed to load equipment data. Make sure equipment-en.json exists.</div>';
+      '<div class="no-results">Failed to load equipment data.</div>';
   }
 }
 
@@ -23,21 +23,43 @@ function buildIndex(data) {
           equipmentIndex[key] = {
             name: equip.name,
             nameJp: equip.nameJp,
-            sources: []
+            sources: {}
           };
         }
-        equipmentIndex[key].sources.push({
-          garakuta: g.name,
-          garakutaJp: g.nameJp,
-          effectiveRate: (group.dropRate * equip.dropRate) / 100,
-          quality: equip.quality,
-          grade: equip.grade
-        });
+        const garakutaKey = g.name;
+        if (!equipmentIndex[key].sources[garakutaKey]) {
+          equipmentIndex[key].sources[garakutaKey] = {
+            garakuta: g.name,
+            garakutaJp: g.nameJp,
+            effectiveRate: 0,
+            probMatrix: {}
+          };
+          for (let s = 1; s <= 5; s++) {
+            for (let gr = 1; gr <= 5; gr++) {
+              equipmentIndex[key].sources[garakutaKey].probMatrix[`s${s}g${gr}`] = 0;
+            }
+          }
+        }
+        const src = equipmentIndex[key].sources[garakutaKey];
+        const effectiveRate = (group.dropRate * equip.dropRate) / 100;
+        src.effectiveRate += effectiveRate;
+        for (let s = 1; s <= 5; s++) {
+          const starPct = equip.quality['star' + s] || 0;
+          for (let gr = 1; gr <= 5; gr++) {
+            const gradePct = equip.grade['g' + gr] || 0;
+            const combinedPct = (effectiveRate * starPct * gradePct) / 10000;
+            src.probMatrix[`s${s}g${gr}`] += combinedPct;
+          }
+        }
       });
     });
   });
 
-  allEquipment = Object.values(equipmentIndex);
+  allEquipment = Object.values(equipmentIndex).map(eq => ({
+    name: eq.name,
+    nameJp: eq.nameJp,
+    sources: Object.values(eq.sources)
+  }));
   allEquipment.forEach(eq => {
     eq.sources.sort((a, b) => b.effectiveRate - a.effectiveRate);
   });
@@ -57,87 +79,76 @@ function getTierRange(obj, prefix, count) {
     : `G${available[0]}-${available[available.length - 1]}`;
 }
 
+const gradeNames = ['White', 'Green', 'Blue', 'Purple', 'Red'];
+
 function generateProbTable(source) {
-  const quality = source.quality;
-  const grade = source.grade;
-  const effectiveRate = source.effectiveRate;
+  const probMatrix = source.probMatrix;
 
   const activeStars = [];
-  const activeGrades = [];
-
-  for (let i = 1; i <= 5; i++) {
-    if (quality['star' + i] !== null && quality['star' + i] > 0) activeStars.push(i);
-    if (grade['g' + i] !== null && grade['g' + i] > 0) activeGrades.push(i);
+  for (let s = 1; s <= 5; s++) {
+    let hasProb = false;
+    for (let g = 1; g <= 5; g++) {
+      if (probMatrix[`s${s}g${g}`] > 0) {
+        hasProb = true;
+        break;
+      }
+    }
+    if (hasProb) activeStars.push(s);
   }
 
-  if (activeStars.length === 0 || activeGrades.length === 0) return '';
+  if (activeStars.length === 0) return '';
+
+  const gradeTotals = [0, 0, 0, 0, 0];
+  const starTotals = {};
+  for (const s of activeStars) starTotals[s] = 0;
+
+  for (const s of activeStars) {
+    for (let g = 1; g <= 5; g++) {
+      const val = probMatrix[`s${s}g${g}`];
+      gradeTotals[g - 1] += val;
+      starTotals[s] += val;
+    }
+  }
 
   let html = '<table class="prob-table"><thead><tr><th></th>';
-  for (const g of activeGrades) {
-    html += `<th class="grade-col g${g}">G${g}</th>`;
+  for (let g = 1; g <= 5; g++) {
+    html += `<th class="grade-col g${g}">${gradeNames[g - 1]}</th>`;
   }
-  html += '</tr></thead><tbody>';
+  html += '<th class="total-col">Total</th></tr></thead><tbody>';
 
   for (const s of activeStars) {
     html += `<tr><th class="star-label">★${s}</th>`;
-    const starPct = quality['star' + s];
-    for (const g of activeGrades) {
-      const gradePct = grade['g' + g];
-      const combinedPct = (effectiveRate * starPct * gradePct) / 10000;
-      html += `<td class="g${g}">${combinedPct.toFixed(3)}%</td>`;
+    for (let g = 1; g <= 5; g++) {
+      const combinedPct = probMatrix[`s${s}g${g}`];
+      if (combinedPct === 0) {
+        html += `<td class="g${g}">-</td>`;
+      } else {
+        html += `<td class="g${g}">${combinedPct.toFixed(3)}%</td>`;
+      }
     }
-    html += '</tr>';
+    html += `<td class="total-cell">${starTotals[s].toFixed(3)}%</td></tr>`;
   }
+
+  html += '<tr class="total-row"><th class="total-label">Total</th>';
+  for (let g = 1; g <= 5; g++) {
+    if (gradeTotals[g - 1] === 0) {
+      html += `<td class="g${g}">-</td>`;
+    } else {
+      html += `<td class="g${g}">${gradeTotals[g - 1].toFixed(3)}%</td>`;
+    }
+  }
+  html += '<td class="total-cell"></td></tr>';
 
   html += '</tbody></table>';
   return html;
 }
 
-function hasQuality(source, minStar) {
-  for (let i = minStar; i <= 5; i++) {
-    if (source.quality['star' + i] !== null && source.quality['star' + i] > 0) return true;
-  }
-  return false;
-}
-
-function hasGrade(source, minGrade) {
-  for (let i = minGrade; i <= 5; i++) {
-    if (source.grade['g' + i] !== null && source.grade['g' + i] > 0) return true;
-  }
-  return false;
-}
-
 function filterEquipment() {
   const query = document.getElementById('search').value.toLowerCase().trim();
-  const star4 = document.getElementById('filter-star4').checked;
-  const star5 = document.getElementById('filter-star5').checked;
-  const grade4 = document.getElementById('filter-grade4').checked;
-  const grade5 = document.getElementById('filter-grade5').checked;
-
-  return allEquipment.filter(eq => {
-    if (query && !eq.name.toLowerCase().includes(query) && !eq.nameJp.includes(query)) {
-      return false;
-    }
-
-    const validSources = eq.sources.filter(src => {
-      if (star4 && !hasQuality(src, 4)) return false;
-      if (star5 && !hasQuality(src, 5)) return false;
-      if (grade4 && !hasGrade(src, 4)) return false;
-      if (grade5 && !hasGrade(src, 5)) return false;
-      return true;
-    });
-
-    return validSources.length > 0;
-  }).map(eq => {
-    const validSources = eq.sources.filter(src => {
-      if (star4 && !hasQuality(src, 4)) return false;
-      if (star5 && !hasQuality(src, 5)) return false;
-      if (grade4 && !hasGrade(src, 4)) return false;
-      if (grade5 && !hasGrade(src, 5)) return false;
-      return true;
-    });
-    return { ...eq, sources: validSources };
-  });
+  if (!query) return allEquipment;
+  return allEquipment.filter(eq =>
+    eq.name.toLowerCase().includes(query) || eq.nameJp.includes(query)
+  );
 }
 
 function render() {
@@ -186,9 +197,5 @@ function debounceRender() {
 }
 
 document.getElementById('search').addEventListener('input', debounceRender);
-document.getElementById('filter-star4').addEventListener('change', render);
-document.getElementById('filter-star5').addEventListener('change', render);
-document.getElementById('filter-grade4').addEventListener('change', render);
-document.getElementById('filter-grade5').addEventListener('change', render);
 
 loadData();

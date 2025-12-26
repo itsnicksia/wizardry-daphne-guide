@@ -73,4 +73,6 @@ Open `index.html` via local server. Features:
 - Quality filter (★4+, ★5 availability)
 - Grade filter (G4+, G5 availability)
 - Results sorted by effective drop rate
-- Inline quality/grade percentage breakdown (e.g., ★1:80% ★2:15% ★3:5%)
+- Probability table showing combined chance for each quality/grade combination
+- Groups aggregated per garakuta (probabilities summed across all groups)
+- Grade colors: White (G1), Green (G2), Blue (G3), Purple (G4), Red (G5)
