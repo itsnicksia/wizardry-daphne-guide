@@ -10,6 +10,38 @@ function translateEquipment(jpName) {
   if (dictionary.equipment[jpName]) {
     return dictionary.equipment[jpName];
   }
+
+  const materials = dictionary.equipmentMaterials || {};
+  const types = dictionary.equipmentTypes || {};
+
+  const sortedMaterials = Object.keys(materials).sort((a, b) => b.length - a.length);
+  const sortedTypes = Object.keys(types).sort((a, b) => b.length - a.length);
+
+  let material = '';
+  let remaining = jpName;
+
+  for (const jp of sortedMaterials) {
+    if (remaining.startsWith(jp)) {
+      material = materials[jp];
+      remaining = remaining.slice(jp.length);
+      break;
+    }
+  }
+
+  let itemType = '';
+  for (const jp of sortedTypes) {
+    if (remaining === jp || remaining.endsWith(jp)) {
+      itemType = types[jp];
+      break;
+    }
+  }
+
+  if (material && itemType) {
+    const translated = `${material} ${itemType}`;
+    dictionary.equipment[jpName] = translated;
+    return translated;
+  }
+
   dictionary.equipment[jpName] = '';
   return jpName;
 }
