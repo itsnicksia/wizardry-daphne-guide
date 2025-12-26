@@ -1,0 +1,12 @@
+{
+  "name": "wizardry-equipment-converter",
+  "version": "1.0.0",
+  "description": "Convert Japanese equipment HTML to English JSON",
+  "main": "convert-equipment.js",
+  "scripts": {
+    "convert": "node convert-equipment.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
