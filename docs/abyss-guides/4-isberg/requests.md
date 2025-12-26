@@ -52,7 +52,7 @@ This request has no pre-requisites to accept. However, to fully complete it, you
 
 ### Find My Kitty
 
-!!! warning "If you return the Adventurer's guild immediately after accepting the request and leaving, the request will fail automatically in your timeline, requiring cursed wheeling. You can wheel back to Blizzard Blocking the Path to reset only this request and not its pre-reqs."
+!!! warning "If you leave Isberg and go into the world map and come back, the request will automatically fail. To reset this, cursed wheel to Blizzard Blocking the Path to keep the pre-requisites while resetting the request."
 
 This request requires Recovery of Salted Pork and Find my Sister Lisa requests completed. If the request is attempted without these completed, the request will always end in failure.
 
