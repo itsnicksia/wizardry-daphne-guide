@@ -92,7 +92,7 @@ The objectives of each faction are different, but related to stopping the witch 
 ??? "Faction Endings" 
     
     - 10 unique endings across all factions have been identified 
-    - Some endings may have been missed as of 12/22 
+    - Some endings may have been missed as of 12/26 
     - Known endings are sufficient for unlocking the 2 Guiding Lights (Luck)
     - Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
 
@@ -105,21 +105,19 @@ The objectives of each faction are different, but related to stopping the witch 
 
 ??? tip "Note on Guiding Lights"
 
-    **Unlocking Conditions** 
+    **Unlocking Conditions (as of 12/26)** 
     
-    - Still being tested and validated for the 2 Guiding Lights (Luck) 
-    - Best estimate as of 12/22:
-        - 1 is unlocked after getting any of the Best endings 
-        - 1 is unlocked after getting all 3 of the Best endings
-    - Confirmed that max faction affinity is required  
-    - The second Guiding Light may require defeating the true version of the GWO (4th fight)
+    - Clear any Best ending (confirmed) 
+    - The 2nd Guiding Light may be bugged as members have reported receiving it when:
+        - Clearing all 3 Best endings; or,
+        - After defeating GWO (4th fight/true ending)
+        - If it does not appear try completing the other condition
+    - Max faction affinity is required (confirmed)  
     - A Guiding Light will dissolve if it's already been received 
     
     ??? tip "Testing notes" 
     
         - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
-        - Need to verify if other Admiral or Pontiff endings give the Guiding Light (Luck)
-        - Unclear if  Princess - Best Ending, sub-ending ("Do not tell the truth") gives the Guiding Light (Luck) or achievement
         - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ##### The Witch's Cave  
