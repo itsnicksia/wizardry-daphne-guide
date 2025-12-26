@@ -19,7 +19,7 @@
 
 There are three runs necessary to fully complete this request. The request is not able to be completed until then, as you will gain knowledge necessary on the 1st and 2nd run.
 
-!!! tip "To reset the request Cursed Wheel > Special Request (bottom right-hand corner) > Alabaster Hunting"
+!!! note "Request Reset: Ruins > Cursed Wheel > Special Request (bottom corner) > Alabaster Hunting"
 !!! bug "At the moment, it is possible to softlock the game by stepping on a spike trap in this cave. It can be resolved by restarting the game."
 
 ### 1st Run 
