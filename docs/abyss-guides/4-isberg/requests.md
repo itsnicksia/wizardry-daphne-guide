@@ -282,10 +282,9 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - The options to threaten Rosa do not seem to have any impact on the ending
     
                 !!! tip "Rewards"
-                    - Achievement: "One Who Carries the Future of Her Land" (Needs verifying)
+                    - Achievement: "One Who Carries the Future of Her Land"
                     - 9,000 Gold 
                     - 1 Junk<span style="color: MediumOrchid">*</span>
-                    - Unclear if this sub-ending can also unlock the Guiding Light (Luck)
 
     ??? "Bad Ending - Mystic Route"
 
