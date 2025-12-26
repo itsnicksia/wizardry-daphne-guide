@@ -4,6 +4,7 @@ let allGarakuta = [];
 let currentView = 'equipment-search';
 let selectedGarakuta = null;
 let lastSearchQuery = '';
+let aggregateView = false;
 
 async function loadData() {
   try {
@@ -107,6 +108,39 @@ function buildGarakutaIndex(data) {
     };
   });
   allGarakuta.sort((a, b) => a.name.localeCompare(b.name));
+}
+
+function buildAggregateEquipment(garakuta) {
+  const equipMap = {};
+  garakuta.groups.forEach(group => {
+    group.equipment.forEach(equip => {
+      if (!equipMap[equip.name]) {
+        equipMap[equip.name] = {
+          name: equip.name,
+          nameJp: equip.nameJp,
+          effectiveRate: 0,
+          probMatrix: {}
+        };
+        for (let s = 1; s <= 5; s++) {
+          for (let g = 1; g <= 5; g++) {
+            equipMap[equip.name].probMatrix[`s${s}g${g}`] = 0;
+          }
+        }
+      }
+      equipMap[equip.name].effectiveRate += equip.effectiveRate;
+      for (let s = 1; s <= 5; s++) {
+        for (let g = 1; g <= 5; g++) {
+          equipMap[equip.name].probMatrix[`s${s}g${g}`] += equip.probMatrix[`s${s}g${g}`];
+        }
+      }
+    });
+  });
+  return Object.values(equipMap).sort((a, b) => b.effectiveRate - a.effectiveRate);
+}
+
+function toggleAggregateView() {
+  aggregateView = !aggregateView;
+  renderGarakutaDetail(selectedGarakuta);
 }
 
 const gradeNames = ['White', 'Green', 'Blue', 'Purple', 'Red'];
@@ -270,6 +304,7 @@ function showGarakutaDetail(index) {
   selectedGarakuta = filtered[index];
   lastSearchQuery = document.getElementById('search').value;
   currentView = 'junk-detail';
+  aggregateView = false;
   document.getElementById('search-box').style.display = 'none';
   render();
 }
@@ -292,33 +327,33 @@ function renderGarakutaDetail(garakuta) {
     return;
   }
 
+  const toggleBtnText = aggregateView ? 'Show by Group' : 'Show Combined';
+  const toggleBtnClass = aggregateView ? 'aggregate-toggle active' : 'aggregate-toggle';
+
   let html = `
     <button class="back-button" onclick="hideGarakutaDetail()">← Back to Search</button>
     <div class="junk-detail-header">
-      <div class="junk-detail-name">${garakuta.name}</div>
-      <div class="junk-detail-name-jp">${garakuta.nameJp}</div>
+      <div class="junk-detail-title-row">
+        <div>
+          <div class="junk-detail-name">${garakuta.name}</div>
+          <div class="junk-detail-name-jp">${garakuta.nameJp}</div>
+        </div>
+        <button class="${toggleBtnClass}" onclick="toggleAggregateView()">${toggleBtnText}</button>
+      </div>
     </div>
   `;
 
-  garakuta.groups.forEach(group => {
-    html += `
-      <div class="group-section">
-        <div class="group-header">
-          <span class="group-title">Group ${group.groupNumber}</span>
-          <span class="group-rate">${group.dropRate.toFixed(2)}% base drop rate</span>
-        </div>
-    `;
-
-    group.equipment.forEach(equip => {
+  if (aggregateView) {
+    const aggregated = buildAggregateEquipment(garakuta);
+    aggregated.forEach(equip => {
       html += `
-        <div class="equipment-item">
+        <div class="equipment-item" style="margin-left: 0;">
           <div class="equipment-item-header">
             <div class="equipment-item-name">
               ${equip.name}
               <span class="equipment-item-name-jp">${equip.nameJp}</span>
             </div>
             <div class="equipment-item-stats">
-              <span class="item-rate">Item: ${equip.dropRate.toFixed(2)}%</span>
               <span class="effective-rate">Effective: ${equip.effectiveRate.toFixed(2)}%</span>
             </div>
           </div>
@@ -326,9 +361,37 @@ function renderGarakutaDetail(garakuta) {
         </div>
       `;
     });
+  } else {
+    garakuta.groups.forEach(group => {
+      html += `
+        <div class="group-section">
+          <div class="group-header">
+            <span class="group-title">Group ${group.groupNumber}</span>
+            <span class="group-rate">${group.dropRate.toFixed(2)}% base drop rate</span>
+          </div>
+      `;
 
-    html += '</div>';
-  });
+      group.equipment.forEach(equip => {
+        html += `
+          <div class="equipment-item">
+            <div class="equipment-item-header">
+              <div class="equipment-item-name">
+                ${equip.name}
+                <span class="equipment-item-name-jp">${equip.nameJp}</span>
+              </div>
+              <div class="equipment-item-stats">
+                <span class="item-rate">Item: ${equip.dropRate.toFixed(2)}%</span>
+                <span class="effective-rate">Effective: ${equip.effectiveRate.toFixed(2)}%</span>
+              </div>
+            </div>
+            ${generateProbTable(equip)}
+          </div>
+        `;
+      });
+
+      html += '</div>';
+    });
+  }
 
   resultsEl.innerHTML = html;
 }

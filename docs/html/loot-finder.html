@@ -328,6 +328,31 @@
       color: var(--color-green);
       font-weight: 600;
     }
+    #loot-finder-container .lf-junk-detail-title-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+    }
+    #loot-finder-container .lf-aggregate-toggle {
+      padding: 6px 12px;
+      font-size: .8rem;
+      border: 2px solid var(--bg-card);
+      border-radius: 6px;
+      background: var(--bg-primary);
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+    #loot-finder-container .lf-aggregate-toggle:hover {
+      border-color: var(--accent-orange);
+      color: var(--text-primary);
+    }
+    #loot-finder-container .lf-aggregate-toggle.lf-active {
+      border-color: var(--accent-gold);
+      color: var(--accent-gold);
+    }
     @media (max-width: 600px) {
       #loot-finder-container .lf-source-item { flex-direction: column; align-items: flex-start; }
       #loot-finder-container .lf-source-stats { width: 100%; justify-content: space-between; }
@@ -355,6 +380,7 @@
     let currentView = 'equipment-search';
     let selectedGarakuta = null;
     let lastSearchQuery = '';
+    let aggregateView = false;
 
     async function loadData() {
       try {
@@ -459,6 +485,39 @@
       });
       allGarakuta.sort((a, b) => a.name.localeCompare(b.name));
     }
+
+    function buildAggregateEquipment(garakuta) {
+      const equipMap = {};
+      garakuta.groups.forEach(group => {
+        group.equipment.forEach(equip => {
+          if (!equipMap[equip.name]) {
+            equipMap[equip.name] = {
+              name: equip.name,
+              nameJp: equip.nameJp,
+              effectiveRate: 0,
+              probMatrix: {}
+            };
+            for (let s = 1; s <= 5; s++) {
+              for (let g = 1; g <= 5; g++) {
+                equipMap[equip.name].probMatrix[`s${s}g${g}`] = 0;
+              }
+            }
+          }
+          equipMap[equip.name].effectiveRate += equip.effectiveRate;
+          for (let s = 1; s <= 5; s++) {
+            for (let g = 1; g <= 5; g++) {
+              equipMap[equip.name].probMatrix[`s${s}g${g}`] += equip.probMatrix[`s${s}g${g}`];
+            }
+          }
+        });
+      });
+      return Object.values(equipMap).sort((a, b) => b.effectiveRate - a.effectiveRate);
+    }
+
+    window.lfToggleAggregateView = function() {
+      aggregateView = !aggregateView;
+      renderGarakutaDetail(selectedGarakuta);
+    };
 
     const gradeNames = ['White', 'Green', 'Blue', 'Purple', 'Red'];
 
@@ -621,6 +680,7 @@
       selectedGarakuta = filtered[index];
       lastSearchQuery = document.getElementById('lf-search').value;
       currentView = 'junk-detail';
+      aggregateView = false;
       document.getElementById('lf-search-box').style.display = 'none';
       render();
     };
@@ -643,33 +703,33 @@
         return;
       }
 
+      const toggleBtnText = aggregateView ? 'Show by Group' : 'Show Combined';
+      const toggleBtnClass = aggregateView ? 'lf-aggregate-toggle lf-active' : 'lf-aggregate-toggle';
+
       let html = `
         <button class="lf-back-button" onclick="window.lfHideGarakutaDetail()">← Back to Search</button>
         <div class="lf-junk-detail-header">
-          <div class="lf-junk-detail-name">${garakuta.name}</div>
-          <div class="lf-junk-detail-name-jp">${garakuta.nameJp}</div>
+          <div class="lf-junk-detail-title-row">
+            <div>
+              <div class="lf-junk-detail-name">${garakuta.name}</div>
+              <div class="lf-junk-detail-name-jp">${garakuta.nameJp}</div>
+            </div>
+            <button class="${toggleBtnClass}" onclick="window.lfToggleAggregateView()">${toggleBtnText}</button>
+          </div>
         </div>
       `;
 
-      garakuta.groups.forEach(group => {
-        html += `
-          <div class="lf-group-section">
-            <div class="lf-group-header">
-              <span class="lf-group-title">Group ${group.groupNumber}</span>
-              <span class="lf-group-rate">${group.dropRate.toFixed(2)}% base drop rate</span>
-            </div>
-        `;
-
-        group.equipment.forEach(equip => {
+      if (aggregateView) {
+        const aggregated = buildAggregateEquipment(garakuta);
+        aggregated.forEach(equip => {
           html += `
-            <div class="lf-equipment-item">
+            <div class="lf-equipment-item" style="margin-left: 0;">
               <div class="lf-equipment-item-header">
                 <div class="lf-equipment-item-name">
                   ${equip.name}
                   <span class="lf-equipment-item-name-jp">${equip.nameJp}</span>
                 </div>
                 <div class="lf-equipment-item-stats">
-                  <span class="lf-item-rate">Item: ${equip.dropRate.toFixed(2)}%</span>
                   <span class="lf-effective-rate">Effective: ${equip.effectiveRate.toFixed(2)}%</span>
                 </div>
               </div>
@@ -677,9 +737,37 @@
             </div>
           `;
         });
+      } else {
+        garakuta.groups.forEach(group => {
+          html += `
+            <div class="lf-group-section">
+              <div class="lf-group-header">
+                <span class="lf-group-title">Group ${group.groupNumber}</span>
+                <span class="lf-group-rate">${group.dropRate.toFixed(2)}% base drop rate</span>
+              </div>
+          `;
 
-        html += '</div>';
-      });
+          group.equipment.forEach(equip => {
+            html += `
+              <div class="lf-equipment-item">
+                <div class="lf-equipment-item-header">
+                  <div class="lf-equipment-item-name">
+                    ${equip.name}
+                    <span class="lf-equipment-item-name-jp">${equip.nameJp}</span>
+                  </div>
+                  <div class="lf-equipment-item-stats">
+                    <span class="lf-item-rate">Item: ${equip.dropRate.toFixed(2)}%</span>
+                    <span class="lf-effective-rate">Effective: ${equip.effectiveRate.toFixed(2)}%</span>
+                  </div>
+                </div>
+                ${generateProbTable(equip)}
+              </div>
+            `;
+          });
+
+          html += '</div>';
+        });
+      }
 
       resultsEl.innerHTML = html;
     }
