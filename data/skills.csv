@@ -241,6 +241,7 @@ Passive Attack Power Up,Passive,True,Continuously increases Attack Power.,Attack
 Passive Attack Power Up (Fighter),Passive,True,Continuously increases Attack Power.,Attack Power increased further based on skill level.,10,Fighter,,Gaston,
 Passive Attack Power Up (Innate),Passive,,Continuously increases Attack Power.,,,,,,
 Passive Attack Power Up (Mind),Passive,,Continuously increases Attack Power.,Attack Power increased further based on skill level.,,,,,
+Passive Defense Power Up (Fighter),Passive,True,Continuously increases Defense Power.,Defense Power increased further based on skill level.,,,Chloe,,
 Passive Defense Power Up (Knight),Passive,True,Continuously increases Defense Power.,Defense Power increased further based on skill level.,10,Knight,,,
 Passive Detection Up (Mage),Passive,,Continuously increases Detect.,Detect increased further based on skill level.,4,Mage,,,
 Passive Detection Up (Thief),Passive,,Continuously increases Detect.,Detect increased further based on skill level.,35,Thief,,,
