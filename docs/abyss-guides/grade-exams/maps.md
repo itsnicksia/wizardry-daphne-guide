@@ -1,8 +1,6 @@
 # Grade Exams
 
-Grade Exams are part of a process to continue leveling a character. They occur every 10 levels starting at level 20 and ending after level 60. 
-
-Upon passing the exam without dying, an adventurer may increase their level limit with the corresponding grade tag item. Grade tag items may [be obtained in various ways](../../frequently-asked-questions.md#how-do-i-get-grade-tags).
+Grade Exams are part of a process to continue leveling a character. They occur every 10 levels starting at level 20 and ending after level 60. After completing a Grade Exam an adventurer will be expected to pay a corresponding Grade Tag to complete the leveling process. (Note: the main character [MC] will be expected to pay the Grade Tag prior to Copper Grade Exam and possibly the others now too.) Grade tag items may be [obtained](../../frequently-asked-questions.md#how-do-i-get-grade-tags) in various ways.
 
 !!! note "Grade Exams may not unlock immediately upon reaching the previous level cap. You may also need to complete more guild requests to 'increase your reputation'.  Arna will usually mention this.  Players should try to complete as many different requests as possible until you are deemed ready."
 
