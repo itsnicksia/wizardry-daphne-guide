@@ -1,6 +1,8 @@
 # Grade Exams
 
-Grade exams are necessary for an adventurer to increase their level limits by 10 for each subsequent grade exam completed. This feature is first unlocked in the Royal Capital at level 20, and a new one can be unlocked every 10 levels up to the maximum level in the game (60 currently level 60). Upon passing the exam without dying, an adventurer may increase their level limit with the corresponding grade tag item. Grade tag items may [be obtained in various ways](../../frequently-asked-questions.md#how-do-i-get-grade-tags).
+Grade Exams are part of a process to continue leveling a character. They occur every 10 levels starting at level 20 and ending after level 60. 
+
+Upon passing the exam without dying, an adventurer may increase their level limit with the corresponding grade tag item. Grade tag items may [be obtained in various ways](../../frequently-asked-questions.md#how-do-i-get-grade-tags).
 
 !!! note "Grade Exams may not unlock immediately upon reaching the previous level cap. You may also need to complete more guild requests to 'increase your reputation'.  Arna will usually mention this.  Players should try to complete as many different requests as possible until you are deemed ready."
 
