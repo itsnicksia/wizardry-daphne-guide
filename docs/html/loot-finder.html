@@ -98,6 +98,32 @@
       color: var(--color-green);
       font-weight: 600;
     }
+    #loot-finder-container .lf-prob-toggle {
+      cursor: pointer;
+      color: var(--text-secondary);
+      font-size: .75rem;
+      padding: 4px 0;
+      user-select: none;
+      margin-top: 8px;
+    }
+    #loot-finder-container .lf-prob-toggle:hover {
+      color: var(--accent-orange);
+    }
+    #loot-finder-container .lf-prob-toggle::before {
+      content: '▶ ';
+      color: var(--accent-gold);
+      display: inline-block;
+      transition: transform 0.2s;
+    }
+    #loot-finder-container .lf-prob-toggle.lf-expanded::before {
+      transform: rotate(90deg);
+    }
+    #loot-finder-container .lf-prob-content {
+      display: none;
+    }
+    #loot-finder-container .lf-prob-content.lf-expanded {
+      display: block;
+    }
     #loot-finder-container .lf-prob-table {
       width: 100%;
       border-collapse: collapse;
@@ -303,7 +329,7 @@
       html += '<td class="lf-total-cell"></td></tr>';
 
       html += '</tbody></table>';
-      return html;
+      return `<div class="lf-prob-toggle" onclick="this.classList.toggle('lf-expanded');this.nextElementSibling.classList.toggle('lf-expanded')">Probability Table</div><div class="lf-prob-content">${html}</div>`;
     }
 
     function filterEquipment() {

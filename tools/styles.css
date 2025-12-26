@@ -118,6 +118,32 @@ h1 {
   color: var(--color-green);
   font-weight: 600;
 }
+.prob-toggle {
+  cursor: pointer;
+  color: var(--text-secondary);
+  font-size: .75rem;
+  padding: 4px 0;
+  user-select: none;
+  margin-top: 8px;
+}
+.prob-toggle:hover {
+  color: var(--accent-orange);
+}
+.prob-toggle::before {
+  content: '▶ ';
+  color: var(--accent-gold);
+  display: inline-block;
+  transition: transform 0.2s;
+}
+.prob-toggle.expanded::before {
+  transform: rotate(90deg);
+}
+.prob-content {
+  display: none;
+}
+.prob-content.expanded {
+  display: block;
+}
 .prob-table {
   width: 100%;
   border-collapse: collapse;

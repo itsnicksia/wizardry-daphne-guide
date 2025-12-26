@@ -140,7 +140,7 @@ function generateProbTable(source) {
   html += '<td class="total-cell"></td></tr>';
 
   html += '</tbody></table>';
-  return html;
+  return `<div class="prob-toggle" onclick="this.classList.toggle('expanded');this.nextElementSibling.classList.toggle('expanded')">Probability Table</div><div class="prob-content">${html}</div>`;
 }
 
 function filterEquipment() {
