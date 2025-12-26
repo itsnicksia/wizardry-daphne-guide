@@ -715,6 +715,7 @@ This request doesn't have any pre-requisites.
       1. 1st battle = 3 Goblins frontline + 1 Hobber backline. 2nd battle = 3 Snow Wolves frontline + 2 Baby Bigfoot backline. 3rd Battle = 3 Snow Wolves frontline, 2 Snow Hawks in the middle, 1 Big Snow Hawk backline.
       2. 1st battle = 3 Goblins frontline + 1 Hobber backline. 2nd battle = 3 Snow Slimes frontline, 3 Ice Clouds in the middle, 2 Ice Clouds backline. 3rd Battle = 2 Snow Hawks frontline, 2 Snow Hawks in the middle, 2 Big Snow Hawks backline.
 - Once all 3 battles are completed, you are teleported back to the tavern with the requests completed. You will obtain some gold and an ice-wind trout.
+- While the conditions are not entirely known, some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen). Upon completion, you will get an Ultimate Ice-Wind Trout instead, which heals slightly more than the normal trout. In addition, you will get a bondmate.
 
 ## Lakeshore Camp
 
