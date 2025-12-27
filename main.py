@@ -6,18 +6,38 @@ def define_env(env):
 
     @env.macro
     def get_skill_description(skill_name):
-        
-        skill = pd.DataFrame(pd_read_csv('data/skills.csv').query(f'Name == "{skill_name}"'))
-        
-        effect = skill['Effects'].iloc[0]
-        details = skill['Detail'].fillna('').iloc[0]
-        restriction = skill['Restriction'].fillna('').iloc[0]
-       
+
+        df = pd_read_csv('data/skills.csv')
+
+        skill = df.query('Name == @skill_name')
+
+        # Guard: no matching skill → don’t crash MkDocs
+        if skill.empty:
+            return f"<i>Unknown skill: {skill_name}</i>"
+
+        effect = (
+            skill['Effects'].iloc[0]
+            if 'Effects' in skill.columns and not skill['Effects'].isna().all()
+            else ''
+        )
+
+        details = (
+            skill['Detail'].fillna('').iloc[0]
+            if 'Detail' in skill.columns
+            else ''
+        )
+
+        restriction = (
+            skill['Restriction'].fillna('').iloc[0]
+            if 'Restriction' in skill.columns
+            else ''
+        )
+
         if restriction:
             restriction = f'<{restriction}>'
-       
-        return f"{effect} {details} {restriction}"
-    
+
+        return f"{effect} {details} {restriction}".strip()
+ 
     @env.macro
     def populate_quicklist(file,return_columns,filter_column=None,filter_values=[]):
 
