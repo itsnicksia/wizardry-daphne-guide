@@ -17,7 +17,7 @@ This request has no pre-requisites to accept.
 - Obtain the request and either head to Route 1 Harken and walk up or head to Route 2 Harken. It's recommended to head from Route 1 Harken, as the final boss is located based on where you start. Starting at the Route 2 Harken has the fight commence in the snow near the entrance of Route 2, which makes the fight significantly more difficult. There is no difference in rewards for doing so.
 - Essentially make your way from the entrance to the exit or vice versa. On the way there the Baby Bigfoot will stop and make a sound. You can choose to allow the event to occur or to stop it.
 - You can tell what the event will be based on what the Baby Bigfoot says. "Mrrrr" = fighting a Bigfoot. "Kyou Kyou" = Truffles. "Kyou" = Mushrooms.
-- You need to take a certain number of events (3 or 4), otherwise upon reaching the end, there will be no Bigfoot and the requests fails. Where the Baby Yeti stops is not random but there are many stops along the whole map.
+- You need to take a certain number of events (4 including at least 1 bigfoot fight), otherwise upon reaching the end, there will be no Bigfoot and the requests fails. Where the Baby Yeti stops is not random but there are many stops along the whole map.
 - The final fight has you fighting a Bigfoot + 2 Baby Bigfoot in the frontline + 2 Baby Bigfoot in the backline.
 - After winning the fight, you have the choice to spare the Bigfoot and Baby Bigfoot or killing them. Letting them go removes the truffle and unlocks a bondmate. Killing them grants bonus gold from the request giver.
 
