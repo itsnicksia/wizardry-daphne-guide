@@ -7,6 +7,8 @@ Yrsa was born into a family of Ironwood's most skilled hunters. Her father held 
 
 Yrsa had never been comfortable with conversation, and never opened up with anyone in the village. When she wasn't roaming the mountain paths, she delved deeply into books and carefully recorded the workings of the natural world. Among the dwarves, who prized fellowship above all else, she remained markedly out of step.
 
+However, when it came to her keen eye for observation and her talent with a bow, no other youth could surpass her.
+
 ### Page 2
 
 ### Page 3
