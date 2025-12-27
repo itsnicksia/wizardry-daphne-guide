@@ -22,16 +22,13 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 
 ## How to Obtain Relics
 
-Relics can be obtained by encountering relic monsters that can rarely appear anywhere in the game. A relic monster will always drop a chest after a battle. The chest will contain either the enemy's relic (~30%) or slag (~70%). Slag can be exchanged for relics in the Black Barrel Tavern's Slagpiece Exchange. Relic monsters are unique and only one can spawn per encounter.
+Relics can be obtained by encountering relic monsters that can rarely appear anywhere in the game. 
 
-??? warning "Relic Monsters"
+- A relic monster will always drop a chest after a battle, which will contain either the enemy's relic (~30%) or slag (~70%).
+- Slag can be exchanged for relics in the Black Barrel Tavern's Slagpiece Exchange.
+- Relic monsters are unique and only one can spawn per encounter.
 
-    ??? "Example"
-        <div align="center">
-            ![](img/relicbrew-relic-monster.png)
-        </div>
-    
-        - Denoted by a glowing pink-purple aura.
+??? warning "Relic Monster Mechanics"
 
     - Encounters are rare (2%) and entirely RNG-dependent.
     - Have increased HP (~30%) and potentially other stats.
@@ -42,7 +39,16 @@ Relics can be obtained by encountering relic monsters that can rarely appear any
     - Elemental variations will always drop the standard version's relic.
     - Relic ★ quality (1-4) is based on the level of the area. The vast majority of enemies will never drop a 4★ relic even in late game areas.
     - Adventurers and Warped enemies (aside from White Gluttonous Maw) cannot drop relics.    
+
+    ??? tip "Relic Monster Example"
     
+        <div align="center">
+        ![](img/relicbrew-relic-monster.png)
+        </div>
+    
+        - Denoted by a glowing pink-purple aura.
+
+
 ## Black Barrel Tavern
 
 At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several services.
@@ -59,7 +65,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ??? "Relicbrew Selection" 
 
-    ??? "Menu Guide"
+    ??? tip "Menu Guide"
         <div align="center">
             ![](img/relicbrew-definitions.png)
         </div>
@@ -70,7 +76,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ??? "How to Drink a Relic Brew" 
 
-    ??? "Menu Guide"
+    ??? tip "Menu Guide"
         <div align="center">
             ![](img/relicbrew-drink-menu.PNG)
         </div>
@@ -81,7 +87,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ### Relic Power
 
-??? warning "Mechanics"
+??? warning "Relic Power Mechanics"
 
     A Relic Power is received after drinking a Relic Brew and has several unique properties: 
     
@@ -95,9 +101,9 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     - Can be removed for a fee via extraction.
     - Level and accumulated experience is not lost if extracted, but you need to find and drink the same relicbrew again to reactivate.
 
-??? Relic Power "Menu" 
+??? "Relic Power Menu" 
 
-    ??? "Menu Guide"
+    ??? tip "Menu Guide"
     
         === "Unit Selection Menu"
             ![](img/relicpower-unit-menu.PNG)
@@ -114,27 +120,18 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ### Extraction 
 
-##### Services
+??? "Extraction Services"
 
-??? "Services"
+    ??? tip "Menu Guide"
+        <div align="center">
+        ![](img/relicpower-extract.PNG)
+        </div>
 
     - The Extraction service removes a currently equipped Relic Power for a fee.
     - There are 3 types of extraction services: Emergency, Standard, and Special.
     - An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality.
 
-    ??? "Menu Guide"
-        <div align="center">
-        ![](img/relicpower-extract.PNG)
-        </div>
-
-??? "Payment Options"
-
-    - Extraction services can be paid with purple gems, green gems, or gold.
-    - No reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
-    - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
-    - Recommend to always use Special Extraction when possible.
-
-??? "Fortitude Penalty"
+??? "Extraction Fortitude Penalty"
 
     When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. If a Fortitude penalty is incurred a pop-up notification will appear after the extraction cutscene. 
     
@@ -143,15 +140,17 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     - Great Success - No Fortitude loss.
     - The more expensive extraction services have a lower rate of failure. 
 
+??? "Payment Options"
+
+    - Extraction services can be paid with purple gems, green gems, or gold.
+    - No reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
+    - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
+    - Recommend to always use Special Extraction when possible.
+
+
 ### Slagpiece Exchange
 
 The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is reset and randomly determined each week. The amount of slag you have accumulated is shown in the upper right-hand corner.  
-
-??? "Slagpiece Exchange Example"
-
-    <div align="center">
-    ![](img/relicebrew-slagshop.PNG)
-    </div>
 
 ??? warning "Mechanics" 
 
@@ -165,10 +164,21 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     - Relics unique to the shop have double the standard cost.
     - It is possible to have multiple copies of the same relic with different ★ quality.
     - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
+
+??? tip "Slagpiece Exchange Example"
+
+    <div align="center">
+    ![](img/relicebrew-slagshop.PNG)
+    </div>
     
 ## Penalties
 
-!!! warning "There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time. The table below summarizes the characteristics of the different penalty stages." 
+There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time.
+
+    - Any 3 Relic Powers can be equipped with no side effects.
+    - A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
+    - Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
+    - The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
 
 | Penalty Stage | Color  | Effect                                                                                     |         
 |:--------------| :------|:-------------------------------------------------------------------------------------------|
@@ -176,12 +186,6 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 | Stage 1       | White  | None (?)                                                                                   |      
 | Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
 | Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
-??? "Relic Power Limitations"
-
-    - Any 3 Relic Powers can be equipped with no side effects.
-    - A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
-    - Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
-    - The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
 
 ??? "Penalty Stages"
 
@@ -191,7 +195,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     - The MC also has a hidden Fortitude value. Your MC's current, but not maximum, Fortitude can be viewed by your friends in the Tavern under "Friendships".
     - It is a common practice to use Nameless units to consume less desirable relicbrews to register the Relic Power effects in the "Drink Relicbrews" menu.  
 
-??? "Penalty Stage Icons"
+??? tip "Penalty Stage Icons"
 
     === "Stage 0"
         ![](img/relicbrew-stage 0.PNG)
@@ -208,19 +212,21 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 ## Leveling Relic Powers
 
 Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics (transformed into relicbrews). For ease of reading experience points (EXP) is the term that will be used throughout this section. 
-    
+
+??? warning "Experience Mechanics"
+
+    - Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points. 
+    - Relic Powers require a certain amount of EXP to reach the next level with a maximum level of 7.
+    - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
+
+##### Experience per Relic ★ Quality 
+
 | ★ Quality  | EXP    |        
 |:---------:|:------:|
 | 1★         | 100   |
 | 2★         | 200   |
 | 3★         | 400   |
 | 4★         | 1,000 |
-
-??? "Experience Mechanics"
-
-    - Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points. 
-    - Relic Powers require a certain amount of EXP to reach the next level with a maximum level of 7.
-    - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
 
 ##### Required EXP per Relic Level
 
@@ -235,18 +241,18 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 ##### Minimum Relics per Level and ★ Quality
 
+??? "How to read this table"
+
+    - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
+    - For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
+    - It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
+
 | ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |   
 |:---------:|:----:|:----:|:----:|:-----:|:---:|
 | 1★        |  1   |  3   |  9   |  21  |  51  |
 | 2★        |  1   |  2   |  5   |  11  |  26  | 
 | 3★        |  1   |  1   |  3   |  6   |  13  |
 | 4★        |  1   |  1   |  1   |  3   |  6   |
-
-??? "How to read this table"
-
-    - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
-    - For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
-    - It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
 
 ## List of Relic Power Effects 
 
