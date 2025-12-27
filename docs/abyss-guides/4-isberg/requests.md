@@ -774,11 +774,14 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 !!! warning "Unlocked upon reaching Route 9 for the first time."
 
-Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The objective of all the requests is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
+The objective of all the 2nd faction requests is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
 
+Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. 
 - Agree to help twice when prompted
 - Head to the Guild and accept the request under the Royal Capital tab 
 - If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset
+
+##### Important Notes
 
 ??? "Best Ending Requirements"
 
@@ -801,7 +804,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
     - Interactable ojbects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
-##### 2nd Faction Requests 
+##### Faction Request Guides 
 
 ??? note "Princess Route - Search for Missing Royal Knights"
 
