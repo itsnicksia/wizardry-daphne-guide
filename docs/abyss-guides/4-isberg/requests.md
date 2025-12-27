@@ -106,15 +106,15 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
     
-    ??? "Note on Guiding Lights"
+    ??? tip "Guiding Lights"
     
-        **Unlocking Conditions (as of 12/26)** 
+        **Unlock Conditions (as of 12/26)** 
         
         - Clear any Best ending (confirmed) 
         - The 2nd Guiding Light may be bugged as members have reported receiving it when:
             - Clearing all 3 Best endings; or,
-            - After defeating the GWO (4th fight/True ending)
-            - If it does not appear, then try the other condition
+            - After getting the True ending (GWO 4th fight)
+            - If it does not appear with one of the conditions, then try the other 
         - Max faction affinity is required (confirmed)  
         - A Guiding Light will dissolve if it's already been received 
         
@@ -125,7 +125,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ??? "The Witch's Cave"
 
-    ??? "Overview"
+    ??? "Summary"
         - Each faction can only access certain areas of the map
         - Map progress is permanently recorded
         - Full map completion requires doing other faction quests
@@ -327,13 +327,15 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
 ##### Pontiff Route
 
-The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
+The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible. 
+
+A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
 ??? warning "Mechanics" 
 
     ??? "Brazier Offerings"
 
-        ??? "Process"
+        ??? note "Process"
             
             - Interact with the brazier and it will request an offering
             - Collect the offering via fighting enemies or returning to town 
@@ -343,15 +345,15 @@ The Pontiff route is a race against time to discover the identity of the witch t
             - Repeat until the witch's door is unlocked
             - On a subsequent run you can speak with Tenet in town to reduce the total number of offering requests
         
-        ??? "Requests"
+        ??? note "Requests"
         
-            - 1) 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
-            - 2) Hen - Return to town and speak with Tenet
-            - 3) Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-            - 4) Infant (Lamb) - Return to town and speak with Tenet
-            - 5) Sheep - Return to town and speak with Tenet
+            - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+            - Request 2 - Hen - Return to town and speak with Tenet
+            - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
+            - Request 4 - Infant (Lamb) - Return to town and speak with Tenet
+            - Request 5 - Sheep - Return to town and speak with Tenet
     
-        ??? "Tenet Town Items" 
+        ??? note "Tenet Town Offerings" 
         
             - Only available after a first run
             - Talk to Tenet in town before entering the Witch's Cave
@@ -502,7 +504,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
     ??? "Brazier Offerings"
 
-        ??? "Process"
+        ??? note "Process"
     
             - Interact with the brazier and it will request an offering
             - Collect the offering via fighting enemies or returning to town 
@@ -512,15 +514,15 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Repeat until the witch's door is unlocked
             - On a subsequent run you can speak with Elinas in town to reduce the total number of offering requests
     
-        ??? "Requests"
+        ??? note "Requests"
         
-            - 1) 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
-            - 2) Broom - Return to town and speak with Elinas
-            - 3) Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-            - 4) Infant (Lamb) - Return to town and speak with Elinas
-            - 5) Gold Ore - Defeat 3 back-to-back groups of tough enemies 
+            - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+            - Request 2 - Broom - Return to town and speak with Elinas
+            - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
+            - Request 4 - Infant (Lamb) - Return to town and speak with Elinas
+            - Request 5 - Gold Ore - Defeat 3 back-to-back groups of tough enemies 
         
-        ??? "Elinas Town Items" 
+        ??? note "Elinas Town Offerings" 
         
             - Only available after a first run
             - Talk to Elinas in town before entering the Witch's Cave
