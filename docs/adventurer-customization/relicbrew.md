@@ -31,13 +31,13 @@ Relics can be obtained by encountering relic monsters that can rarely appear any
 ??? warning "Relic Monster Mechanics"
 
     - Encounters are rare (2%) and entirely RNG-dependent.
-    - Have increased HP (~30%) and potentially other stats.
+    - Increased HP (~30%) and potentially other stats.
     - Only enemies in the front row can be relic monsters.
     - Encounters are determined upon map entry. You cannot "farm" relics by running away, using stairs, or Harkens. To re-roll for potential encounters you must fully exit the map and reenter. 
     - Do not appear with any Guild Requests or Bounties that have NPC text before the battle. 
     - Can only drop its specific relic and not relics from other enemies.
     - Elemental variations will always drop the standard version's relic.
-    - Relic ★ quality (1-4) is based on the level of the area. The vast majority of enemies will never drop a 4★ relic even in late game areas.
+    - Relic ★ quality (1-5) is based on the level of the area. The vast majority of enemies will never drop a 4★ or 5★ relic even in late game areas.
     - Adventurers and Warped enemies (aside from White Gluttonous Maw) cannot drop relics.    
 
 ??? "Relic Monster Example"
@@ -78,7 +78,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - Relic Power (if previously consumed)
     - Each relicbrew provides a unique Relic Power in the form of a passive skill.
 
-??? "How to Drink a Relic Brew" 
+??? "How to Drink a Relicbrew" 
 
     ??? tip "Menu Guide"
         <div align="center">
@@ -98,10 +98,10 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ??? warning "Relic Power Mechanics"
 
-    A Relic Power is received after drinking a Relic Brew and has several unique properties: 
+    A Relic Power is received after drinking a relicbrew and has several unique properties: 
     
-    - Increases 1-2 stats at the cost of another. The negative stat penalty is always -1 per level up to a maximum of -5.
-    - Effects can be increased to a maximum of level 5 by repeatedly drinking the same relicbrew of any ★ quality.
+    - Increases 1-2 stats at the cost of another. The negative stat penalty is always -1 per level up to a maximum of -7.
+    - Effects can be increased to a maximum of level 7 by repeatedly drinking the same relicbrew of any ★ quality.
     - Effects are hidden until the relicbrew has been consumed at least once.
     - Each has an alignment (Good-Neutral-Evil). 
     - Matching alignments with a unit give an additional, immediate bonus (or "extra" level) to the positive effects.
@@ -112,31 +112,34 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ??? "Relic Power Menu" 
 
-    ??? tip "Menu Guide"
-    
-        === "Unit Selection Menu"
-            ![](img/relicpower-unit-menu.PNG)
-        
-        === "Equipped and Extracted Relic Powers"
-            ![](img/relicpower-menu.PNG)
-    
-        === "Relic Power Level"
-            ![](img/relicpower-exp.PNG)
-
-    - The initial Relic Power menu shows a list of all registered units, penalty status, and number of equipped Relic Powers.
+    - The initial Relic Power menu shows:
+        - List of all registered units
+        - Penalty status
+        - Number of equipped Relic Powers
 
     ??? "Select an Adventurer"
         
-        - Currently equipped (top) and extracted (bottom) Relic Powers
-        - Relic power level 
-        - Any alignment matches in bright pink text 
+        - Currently equipped (upper right) and extracted (bottom) Relic Powers
+        - Relic Power level 
+        - Alignment matches in bright pink text 
         
         ??? "Select a Relic Power" 
         
-            - Current level
-            - Stat effects
+            - Relic Power level
             - Power Density (experience) and the amount needed to reach the next level
-            - Remove Power option goes to the Extraction menu   
+            - Stat effects
+            - Remove Power option leads to the Extraction menu  
+
+??? tip "Menu Guide"
+
+    === "Unit Selection Menu"
+        ![](img/relicpower-unit-menu.PNG)
+    
+    === "Equipped and Extracted Relic Powers"
+        ![](img/relicpower-menu.PNG)
+
+    === "Relic Power Level"
+        ![](img/relicpower-exp.PNG)
 
 ### Extraction 
 
@@ -154,12 +157,14 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 ??? "Extraction Fortitude Penalty"
 
     When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. 
-    
+
+    **Possible Extraction Outcomes**
+
     - Failure - Lose 5 max Fortitude for 2 weeks.
     - Success - Lose 1 max Fortitude for 2 weeks.
     - Great Success - No Fortitude loss.
 
-    Note
+    **Notes**
     
     - The more expensive extraction services have a lower rate of failure. 
     - A Fortitude penalty notification appear after the cutscene, if incurred.
@@ -202,13 +207,13 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     - There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time.
     - Any 3 Relic Powers can be equipped with no side effects.
     - A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
-    - Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
-    - The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
+    - Adding additional Relic Powers beyond this limit incurs Stage 2 penalties immediately.
+    - The Penalty Stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the Relic Powers and Drink Relicbrews menus.
 
 | Penalty Stage | Color  | Effect                                                                                     |         
 |:--------------| :------|:-------------------------------------------------------------------------------------------|
 | Stage 0       | Grey   | None                                                                                       |   
-| Stage 1       | White  | None (?)                                                                                   |      
+| Stage 1       | White  | None                                                                                    |      
 | Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
 | Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
 
@@ -216,9 +221,12 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 
     - Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 Fortitude). There does not appear to be any other negative side effects outside of combat.
     - The success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 50 and 20.
-    - It is recommended to remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
     - The MC has a hidden Fortitude value. The current, but not maximum, Fortitude can be viewed by your friends in the Tavern under Friendships.
-    - It is a common practice to use Nameless units to consume less desirable relicbrews to register the Relic Power effects in the "Drink Relicbrews" menu.  
+
+    ??? tip "Recommendations"
+    
+        - Remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
+        - Use Nameless units to consume less desirable relicbrews to register the Relic Power effects in the Drink Relicbrews menu.  
 
 ??? "Penalty Stage Icons"
 
@@ -236,7 +244,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 
 ## Leveling Relic Powers
 
-Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics (transformed into relicbrews). For ease of reading experience points (EXP) is the term that will be used throughout this section. 
+Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics. For ease of reading, experience points (EXP) is the term that will be used throughout this section. 
 
 ??? warning "Experience Mechanics"
 
@@ -244,6 +252,8 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     - Relic Powers require a certain amount of EXP to reach the next level with a maximum level of 7.
     - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. 
     - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
+
+??? warning "We are currently working on adding data for 5★ relics and EXP requirements for level 7."
 
 ##### Experience per Relic ★ Quality 
 
@@ -253,26 +263,31 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | 2★         | 200   |
 | 3★         | 400   |
 | 4★         | 1,000 |
+| 5★         | ?     |
+
 
 ##### Required EXP per Relic Level
 
-| Relic Power Level | Required EXP per Level | Total EXP |        
+| Relic Power Level | EXP per Level | Total EXP |        
 |:-----------------:|:------------:|:--------------:|
 | 0 - 1             |     100      |      100       |
 | 1 - 2             |     200      |      300       |
 | 2 - 3             |     600      |      900       |
 | 3 - 4             |     1,200    |      2,100     |
 | 4 - 5             |     3,000    |      5,100     |
-| Total             |     5,100    |        -       |
+| 5 - 6             |     7,200    |      12,300    |
+| 6 - 7             |     ?        |      ?         |
+| Total             |     12,300   |        -       |
 
 ##### Minimum Relics per Level and ★ Quality
 
-| ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |   
-|:---------:|:----:|:----:|:----:|:-----:|:---:|
-| 1★        |  1   |  3   |  9   |  21  |  51  |
-| 2★        |  1   |  2   |  5   |  11  |  26  | 
-| 3★        |  1   |  1   |  3   |  6   |  13  |
-| 4★        |  1   |  1   |  1   |  3   |  6   |
+| ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7 |   
+|:---------:|:----:|:----:|:----:|:-----:|:---:|:---:|:---:|
+| 1★        |  1   |  3   |  9   |  21  |  51  | 72 | ? | 
+| 2★        |  1   |  2   |  5   |  11  |  26  | 36 | ? |
+| 3★        |  1   |  1   |  3   |  6   |  13  | 18 | ? |
+| 4★        |  1   |  1   |  1   |  3   |  6   | 8  | ? |
+| 5★        |  1   |  1   |  1   |  ?   |  ?   | ?  | ? |
 
 ??? tip "How to read this table"
 
