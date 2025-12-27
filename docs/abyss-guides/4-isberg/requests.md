@@ -106,7 +106,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
     
-    ??? tip "Note on Guiding Lights"
+    ??? "Note on Guiding Lights"
     
         **Unlocking Conditions (as of 12/26)** 
         
@@ -203,8 +203,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                 - At ~80% HP the Cyclops will summon another Bigfoot
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
-                - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
-        
+
         - Head north and take the stairs to B1F
         - Go south through the "sleepy tunnel" area (blue bubble tiles)
     
@@ -257,7 +256,6 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                         - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                         - At ~80% HP the Cyclops will summon another Bigfoot
                         - Cyclop's "Wheeling Cleave" can kill multiple team members 
-                        - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
     
                 ??? map "Sar-moon Herb Location"
                     <div align="center">
@@ -279,7 +277,6 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 ??? "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
                 
                     !!! tip "Rewards"
-                        - Best Ending
                         - Achievement: "One Who Carries the Future of Her Land"
                         - 11,000 Gold 
         
@@ -315,7 +312,6 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                     - At ~80% HP the Cyclops will summon another Bigfoot
                     - Cyclop's "Wheeling Cleave" can kill multiple team members 
-                    - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
     
             - Return to B1F 
             - Speak to the Mystic and give her the Sar-Moon Herb 
@@ -341,32 +337,32 @@ The Pontiff route is a race against time to discover the identity of the witch t
             
             - Interact with the brazier and it will request an offering
             - Collect the offering via fighting enemies or returning to town 
-            - Give the offering to unlock a nearby door 
+            - Give the offering to the brazier to unlock a nearby door 
             - Investigate the unlocked area until Lulu makes a comment 
             - Return to the brazier for a new offering request 
             - Repeat until the witch's door is unlocked
-            - Can reduce the number of offering requests on a second run
+            - On a subsequent run you can speak with Tenet in town to reduce the total number of offering requests
         
         ??? "Requests"
         
-            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-            - Hen = Return to town and speak with Tenet
-            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-            - Infant (Lamb) = Return to town and speak with Tenet
-            - Sheep = Return to town and speak with Tenet
+            - 1) 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+            - 2) Hen - Return to town and speak with Tenet
+            - 3) Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+            - 4) Infant (Lamb) - Return to town and speak with Tenet
+            - 5) Sheep - Return to town and speak with Tenet
     
         ??? "Tenet Town Items" 
         
-            - Only available on a second run
+            - Only available after a first run
             - Talk to Tenet in town before entering the Witch's Cave
             - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
         
             **Total Brazier Requests**
             
             - Do not talk to Tenet = 5 
-            - Hen = 3  
-            - Infant (Lamb) = 1 
-            - Sheep = 0 (Unlocks the witch's door) 
+            - Hen = 4  
+            - Infant (Lamb) = 2 
+            - Sheep = 1 (Unlocks the witch's door) 
     
     ??? "Witch Burnings"
     
@@ -379,7 +375,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - Witness 4+ witch burnings = Elencia dead
         - The exact requirement for triggering a witch burning scene are unclear. Based on limited testing:
             - Number of battles and/or 
-            - Returning to town after giving an offering, but before accepting the next request
+            - Returning to town after giving an offering, but before accepting the next brazier request
 
 ??? "Ending Guides"
 
@@ -389,9 +385,9 @@ The Pontiff route is a race against time to discover the identity of the witch t
         
         **Endings** 
         
-        - Bad = Elencia dead (4+ witch burnings) 
-        - Good =  Elencia alive (0-3 witch burnings) + "Tell the Truth" 
-        - Best = Elencia alive (0-3 witch burnings) + "Condemn the Witch" 
+        - Bad - Elencia dead (4+ witch burnings) 
+        - Good - Elencia alive (0-3 witch burnings) + "Tell the Truth" 
+        - Best - Elencia alive (0-3 witch burnings) + "Condemn the Witch" 
     
         **Rewards**
         
@@ -400,18 +396,18 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
         ??? "What Ending Should I Do First?"
     
-        **If you plan to do all 3 endings:**
+            **If you plan to do all 3 endings:**
         
-        - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
-        - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
-        - An Extra step is required 
-            - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
-        - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
-        - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
-    
-        **If you only want the Guiding Light (Luck):** 
-    
-        - "Best Ending - Elencia Alive - "Condemn the Witch""
+            - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
+            - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
+            - An Extra step is required 
+                - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
+            - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
+            - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
+        
+            **If you only want the Guiding Light (Luck):** 
+        
+            - "Best Ending - Elencia Alive - "Condemn the Witch""
     
     ??? "Bad Ending - Elencia Dead"
          
@@ -495,46 +491,46 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
-??? "Mechanics"
+??? warning "Mechanics"
 
-    ??? warning "Note on Initial Choices" 
+    ??? "Note on Initial Choices" 
     
-        - The Admiral route is deceptively structured
-        - Initial choices of "Capture a witch" or "Threaten" have no impact on the ending
+        - The Admiral route is deceptively structured as the initial choices of "Capture a witch" or "Threaten" have no impact on the ending
         - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
         - Elencia's post-battle status (dead or alive) determines the ending
-        - The "Prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
+        - The "Prepare a sedative" option is self-contained and separate from the brazier offerings mechanic    
     
     ??? "Brazier Offerings"
 
-        ??? "Steps"
+        ??? "Process"
     
-            - Interact with the brazier and it will tell you the offering it seeks
+            - Interact with the brazier and it will request an offering
             - Collect the offering via fighting enemies or returning to town 
-            - Give the offering and it will unlock a nearby door 
-            - Investigate the new area until you get Lulu's commentary on the room 
-            - Return to the brazier for a new request 
+            - Give the offering to the brazier to unlock a nearby door 
+            - Investigate the unlocked area until Lulu makes a comment 
+            - Return to the brazier for a new offering request 
             - Repeat until the witch's door is unlocked
+            - On a subsequent run you can speak with Elinas in town to reduce the total number of offering requests
     
-        ??? "Brazier Requests"
+        ??? "Requests"
         
-            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-            - Broom = Return to town and speak with Elinas
-            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-            - Infant (Lamb) = Return to town and speak with Elinas
-            - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
+            - 1) 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+            - 2) Broom - Return to town and speak with Elinas
+            - 3) Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+            - 4) Infant (Lamb) - Return to town and speak with Elinas
+            - 5) Gold Ore - Defeat 3 back-to-back groups of tough enemies 
         
-        ??? "Elinas Offerings" 
+        ??? "Elinas Town Items" 
         
-            - Only available on a second run
+            - Only available after a first run
             - Talk to Elinas in town before entering the Witch's Cave
             - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
             
             **Total Brazier Requests**
             
             - Do not talk to Elinas = 5 
-            - Broom = 3 
-            - Infant (Lamb) = 1 
+            - Broom = 4 
+            - Infant (Lamb) = 2 
 
 ??? "Ending Guides" 
 
@@ -545,9 +541,9 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
         **Endings** 
         
-        - Bad = Prepare Sedative 
-        - Good = Elencia dead (Pick Infant (Lamb) on subsequent runs)
-        - Best = Elencia alive (Pick Broom on subsequent runs)
+        - Bad - Prepare Sedative 
+        - Good - Elencia dead (Pick Infant (Lamb) on subsequent runs)
+        - Best - Elencia alive (Pick Broom on subsequent runs)
         - On a first run you will always get the Best ending (Elencia alive) since you have to collect all 5 brazier offerings
     
         **Rewards**
@@ -578,7 +574,6 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
                 - At ~80% HP the Cyclops will summon another Bigfoot
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
-                - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
                 
         - Exit
         - Speak with Raimi in town
