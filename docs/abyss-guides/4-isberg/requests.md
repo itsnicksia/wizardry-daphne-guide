@@ -774,14 +774,16 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 !!! warning "Unlocked upon reaching Route 9 for the first time."
 
-Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The primary goal is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. Agree to help twice when prompted. Head to the Guild > Request to accept the request. If you decline at any point the faciton representative will not appear again and the Cursed Wheel must be reset.  
+Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The objective of all the requests is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
 
-??? warning "Best Ending Requirements"
+Agree to help twice when prompted. Head to the Guild > Request to accept the request. If you decline at any point the faciton representative will not appear again and the Cursed Wheel must be reset.  
+
+??? "Best Ending Requirements"
 
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
     - Cursed Wheel - Short Rest in the Cabin 
         - North Lakeshore Cabin - "Fixed it up"
-        - Dwarves'Cave - Any
+        - Dwarves' Cave - Any
         - Village Adults - "Did not encounter them"
         - The first body will be in poor condition and the request will end if the village adults have been captured
     - (Optional) Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search
@@ -816,9 +818,9 @@ Upon entering the Royal Capital the faction representative will appear to discus
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
     14. Bring the head back to the Royal Capital to complete the request and receive some Gold, a unique piece of gear, and a bondmate.
 
-##### Pontiff Route (A Search for Adherent Acquaintances)
+##### Pontiff Route 
 
-??? note "A Search for Adherent Acquaintances" 
+??? note "Search for Adherent Acquaintances" 
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
