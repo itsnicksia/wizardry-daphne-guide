@@ -69,7 +69,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ##### Overview 
 
-!!! warning "Unlocked after entering Route 4 for the first time"
+!!! warning "Unlocked after entering Route 4 for the first time."
 
 Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction requests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
@@ -84,7 +84,7 @@ The objectives of each faction are different, but related to stopping the witch 
 
     !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
 
-??? "How to Reset the Faction Request" 
+??? "Reset Faction Request" 
 
     - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
     - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
@@ -777,20 +777,20 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The objective of all the requests is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
 
 - Agree to help twice when prompted
-- Head to the Guild > Request > Royal Capital > Accept the "Search for ..." request
+- Head to the Guild and accept the request under the Royal Capital tab 
 - If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset
 
 ??? "Best Ending Requirements"
 
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
+    - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) (optional) to open the mine walls on Route 7 to speed up the search 
     - Cursed Wheel - Short Rest in the Cabin 
         - North Lakeshore Cabin - "Fixed it up"
         - Dwarves' Cave - Any
         - Village Adults - "Did not encounter them"
         - The first body will be in poor condition and the request will end if the village adults have been captured
-    - (Optional) Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search
 
-??? "How to Reset the Faction Request" 
+??? "Reset Faction Request" 
 
     - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
     - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
@@ -801,9 +801,9 @@ Upon entering the Royal Capital the faction representative will appear to discus
     - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
     - Interactable ojbects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
-##### Princess Route 
+##### 2nd Faction Requests 
 
-??? note "Search for Missing Royal Knights"
+??? note "Princess Route - Search for Missing Royal Knights"
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
@@ -820,9 +820,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
     14. Bring the head back to the Royal Capital to complete the request and receive some Gold, a unique piece of gear, and a bondmate.
 
-##### Pontiff Route 
-
-??? note "Search for Adherent Acquaintances" 
+??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
@@ -840,9 +838,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     14. Head back to the Royal Capital to give the news. The husband will leave for the nullstone. The request is completed and you will receive some Gold and a unique piece of gear.
     15. Head back to the end of the Yeti Cave and interact with the husband and the nullstone. After a cutscene, you will receive a bondmate.
 
-##### Admiral Route 
-
-??? "Search Bernard and Young Laurent"
+??? "Admiral Route - Search Bernard and Young Laurent"
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related sword + a key.
