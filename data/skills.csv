@@ -370,6 +370,7 @@ Way of the Mage,Passive,,Continuously reduces the MP cost of attack and debuff s
 Way of the Priest,Passive,True,Reduces the MP cost of recovery and support spells.,MP cost reduced further based on skill level.,25,Priest,,,Marianne
 Way of the Thief,Passive,,Increases decisive damage during a decisive hit.,Decisive damage increased further based on skill level.,25,Thief,,,
 Way of the Warrior,Passive,True,Increases close-range damage when equipped with close or mid-range weapon.,Damage increased further based on skill level.,25,Fighter,,,"Gandolfo, Ophelia"
+Wayfaring Hunter's Savvy,Passive,,"If there are 4 or more enemies during an ambush, for 1 turn, all allies greatly reduce damage taken 1 time.",,,,,Heinrico,
 Weaponmaster,Discipline,,Continuously increases each stat. Accuracy and Surety increased further.,Accuracy and Surety increased further based on skill level.,,,,Gandolfo,
 Wild Knight,Passive,,Continuously reduces the MP/SP cost of Knight spells/skills that cost 3-10 MP/SP.,,,,,Barbara,
 Wild Strike,Active,,"Major physical attack on 1 enemy. Afterward, own Action Speed is reduced.",Recovery amount increased based on skill level.,31,Fighter,Close/mid-range weapon-specific,,"Benjamin, Elise"
