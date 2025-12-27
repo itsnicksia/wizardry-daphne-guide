@@ -176,7 +176,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is reset and randomly determined each week. The amount of slag you have accumulated is shown in the upper right-hand corner.  
 
-??? warning "Mechanics" 
+??? warning "Slagpiece Exchange Mechanics" 
 
     - Any relic in the game can appear, including one that is unique to the Exchange (Flower of the Abyss; MP and SP Up, ASPD Down).
     - There are 4 rows of varying ★ quality with 3 relics per row.
@@ -197,7 +197,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     
 ## Penalties
 
-!!! warning "Penalty Mechanics"
+??? warning "Penalty Mechanics"
 
     - There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time.
     - Any 3 Relic Powers can be equipped with no side effects.
