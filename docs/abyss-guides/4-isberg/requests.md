@@ -771,9 +771,9 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 ##### Overview 
 
-The faction requests are unlocked after entering Route 9 for the first time. 
+The faction requests are unlocked after entering Route 9 for the first time. The objective is to search for traces of two missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
 
-Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The objective is to search for traces of the missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
+Upon entering the Royal Capital the faction representative will appear to discuss the missing persons. 
 
 - Agree to help twice when prompted
 - Head to the Guild and accept the request under the Royal Capital tab 
