@@ -19,7 +19,19 @@ It happened during the hunt, while everyone was closing in on a direbear that ha
 
 Whether her father was alive or dead was uncertain. Yrsa insisted that she would go out and save her father, but the clanlord of the Ironwood only shook his head. Even so, Yrsa would not back down. In the Ironwood, there was a long-held belief that the soul of anyone taken by the mountain was not to return, never to be born again among dwarfkin.
 
-### Page 3
+### Page 3  
+The clanlord bade her, time and again, to give up on rescuing her father. For should a direbear be robbed of its prey, it would hunt the thief to the very ends of the earth. So, should they try to take her father back, the Ironwood itself would bear the brunt.
+
+The direbear that attacked her father was believed to be the leader of its pack-a particular specimen known as the White Calamity. Surely it was the mightiest and most cunning beast the mountain had ever birthed, and should one earn its wrath, the Ironwood would be bathed in blood.
+
+But Yrsa refused to give in, her determination unbroken.
+
+She moved through the forest in silence, carefully examining every detail as she traced the elusive path of the White Calamity. Observing the foes with unerring focus, she meticulously documented their actions and patterns.
+
+When she came across the mounds where the White Calamity had hidden its food, she found it nearly impossible to restrain the urge to dig them up and see what lay beneath. Were she to dig into a mound, she might very well come across the remains of her beloved father. And, without knowing for sure what she might find, she could not jeopardize the safety of her village. Mulling over the dilemma for a time, Yrsa decided on her course and made her way toward the nearby elven village.
+
+In defying the clanlord's order to leave her father alone, she knew she could no longer expect the dwarves to lend their aid. Still, by herself, no solution presented itself that could be called a good course of action. And so it came to her to learn the elves' way of hunting.
+
 
 ### Page 4  
 
