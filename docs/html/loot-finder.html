@@ -380,7 +380,7 @@
     let currentView = 'equipment-search';
     let selectedGarakuta = null;
     let lastSearchQuery = '';
-    let aggregateView = false;
+    let aggregateView = true;
 
     async function loadData() {
       try {
@@ -680,7 +680,7 @@
       selectedGarakuta = filtered[index];
       lastSearchQuery = document.getElementById('lf-search').value;
       currentView = 'junk-detail';
-      aggregateView = false;
+      aggregateView = true;
       document.getElementById('lf-search-box').style.display = 'none';
       render();
     };

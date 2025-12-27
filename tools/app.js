@@ -4,7 +4,7 @@ let allGarakuta = [];
 let currentView = 'equipment-search';
 let selectedGarakuta = null;
 let lastSearchQuery = '';
-let aggregateView = false;
+let aggregateView = true;
 
 async function loadData() {
   try {
@@ -304,7 +304,7 @@ function showGarakutaDetail(index) {
   selectedGarakuta = filtered[index];
   lastSearchQuery = document.getElementById('search').value;
   currentView = 'junk-detail';
-  aggregateView = false;
+  aggregateView = true;
   document.getElementById('search-box').style.display = 'none';
   render();
 }
