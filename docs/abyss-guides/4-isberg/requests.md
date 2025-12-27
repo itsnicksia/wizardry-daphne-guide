@@ -805,7 +805,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
 
 ##### Faction Request Guides 
 
-??? note "Princess Route - Search for Missing Royal Knights"
+??? "Princess Route - Search for Missing Royal Knights"
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
@@ -822,7 +822,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
     14. Bring the head back to the Royal Capital to complete the request and receive some Gold, a unique piece of gear, and a bondmate.
 
-??? note "Pontiff Route - Search for Adherent Acquaintances" 
+??? "Pontiff Route - Search for Adherent Acquaintances" 
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
