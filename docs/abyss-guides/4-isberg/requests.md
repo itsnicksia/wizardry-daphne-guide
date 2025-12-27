@@ -69,7 +69,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ##### Overview 
 
-The faction requests are unlocked after entering Route 4 for the first time. 
+The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause.    
 
 - Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia
 - Go to the Guild, speak with Arna, and accept the invitation
@@ -118,7 +118,7 @@ The faction requests are unlocked after entering Route 4 for the first time.
         - Max faction affinity is required (confirmed)  
         - A Guiding Light will dissolve if it's already been received 
         
-        ??? "Testing notes" 
+        ??? "Testing Notes" 
         
             - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
             - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
@@ -333,38 +333,40 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
 The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
-??? "Mechanics" 
+??? warning "Mechanics" 
 
-    ??? "Brazier Offering Steps"
+    ??? "Brazier Offerings"
+
+        ??? "Process"
             
-        - Interact with the brazier and it will request an offering
-        - Collect the offering via fighting enemies or returning to town 
-        - Give the offering to unlock a nearby door 
-        - Investigate the unlocked area until Lulu makes a comment 
-        - Return to the brazier for a new offering request 
-        - Repeat until the witch's door is unlocked
-        - Can reduce the number of offering requests on a second run
-    
-    ??? "Brazier Offering Requests"
-    
-        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-        - Hen = Return to town and speak with Tenet
-        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-        - Infant (Lamb) = Return to town and speak with Tenet
-        - Sheep = Return to town and speak with Tenet
-    
-    ??? "Tenet Offerings" 
-    
-        - Only available on a second run
-        - Talk to Tenet in town before entering the Witch's Cave
-        - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
-    
-        **Total Brazier Requests**
+            - Interact with the brazier and it will request an offering
+            - Collect the offering via fighting enemies or returning to town 
+            - Give the offering to unlock a nearby door 
+            - Investigate the unlocked area until Lulu makes a comment 
+            - Return to the brazier for a new offering request 
+            - Repeat until the witch's door is unlocked
+            - Can reduce the number of offering requests on a second run
         
-        - Do not talk to Tenet = 5 
-        - Hen = 3  
-        - Infant (Lamb) = 1 
-        - Sheep = 0 (Unlocks the witch's door) 
+        ??? "Requests"
+        
+            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
+            - Hen = Return to town and speak with Tenet
+            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+            - Infant (Lamb) = Return to town and speak with Tenet
+            - Sheep = Return to town and speak with Tenet
+    
+        ??? "Tenet Town Items" 
+        
+            - Only available on a second run
+            - Talk to Tenet in town before entering the Witch's Cave
+            - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
+        
+            **Total Brazier Requests**
+            
+            - Do not talk to Tenet = 5 
+            - Hen = 3  
+            - Infant (Lamb) = 1 
+            - Sheep = 0 (Unlocks the witch's door) 
     
     ??? "Witch Burnings"
     
@@ -381,7 +383,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Ending Guides"
 
-    ??? warning "Ending Requirements"
+    ??? warning "Requirements"
     
         - Total of 3 confirmed endings based on the number of witch burnings witnessed and dialogue choices in the final scene if Elencia is alive
         
@@ -396,20 +398,20 @@ The Pontiff route is a race against time to discover the identity of the witch t
         - Junk rewards are reduced if any witch burnings are witnessed
         - Full gold reward is always given
 
-    ??? warning "What Ending Should I Do First?"
+        ??? "What Ending Should I Do First?"
+    
+        **If you plan to do all 3 endings:**
         
-            **If you plan to do all 3 endings:**
-            
-            - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
-            - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
-            - An Extra step is required 
-                - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
-            - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
-            - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
-        
-            **If you only want the Guiding Light (Luck):** 
-        
-            - "Best Ending - Elencia Alive - "Condemn the Witch""
+        - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
+        - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
+        - An Extra step is required 
+            - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
+        - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
+        - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
+    
+        **If you only want the Guiding Light (Luck):** 
+    
+        - "Best Ending - Elencia Alive - "Condemn the Witch""
     
     ??? "Bad Ending - Elencia Dead"
          
@@ -503,38 +505,40 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Elencia's post-battle status (dead or alive) determines the ending
         - The "Prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
     
-    ??? "Brazier Offering Steps"
+    ??? "Brazier Offerings"
+
+        ??? "Steps"
     
-        - Interact with the brazier and it will tell you the offering it seeks
-        - Collect the offering via fighting enemies or returning to town 
-        - Give the offering and it will unlock a nearby door 
-        - Investigate the new area until you get Lulu's commentary on the room 
-        - Return to the brazier for a new request 
-        - Repeat until the witch's door is unlocked
+            - Interact with the brazier and it will tell you the offering it seeks
+            - Collect the offering via fighting enemies or returning to town 
+            - Give the offering and it will unlock a nearby door 
+            - Investigate the new area until you get Lulu's commentary on the room 
+            - Return to the brazier for a new request 
+            - Repeat until the witch's door is unlocked
     
-    ??? "Brazier Requests"
-    
-        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-        - Broom = Return to town and speak with Elinas
-        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-        - Infant (Lamb) = Return to town and speak with Elinas
-        - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
-    
-    ??? "Elinas Offerings" 
-    
-        - Only available on a second run
-        - Talk to Elinas in town before entering the Witch's Cave
-        - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
+        ??? "Brazier Requests"
         
-        **Total Brazier Requests**
+            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
+            - Broom = Return to town and speak with Elinas
+            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+            - Infant (Lamb) = Return to town and speak with Elinas
+            - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
         
-        - Do not talk to Elinas = 5 
-        - Broom = 3 
-        - Infant (Lamb) = 1 
+        ??? "Elinas Offerings" 
+        
+            - Only available on a second run
+            - Talk to Elinas in town before entering the Witch's Cave
+            - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
+            
+            **Total Brazier Requests**
+            
+            - Do not talk to Elinas = 5 
+            - Broom = 3 
+            - Infant (Lamb) = 1 
 
 ??? "Ending Guides" 
 
-    ??? warning "Ending Requirements"
+    ??? warning "Requirements"
     
         - Total of 3 confirmed endings 
         - Possible another ending exists that has yet to be identified (as of 12/22)
@@ -785,7 +789,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
-        - Set Cursed Wheel to Short Rest in the Cabin
+        - Cursed Wheel set to Short Rest in the Cabin
             - North Lakeshore Cabin - "Fixed it up"
             - Dwarves' Cave - Any
             - Village Adults - "Did not encounter them"
@@ -794,7 +798,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     ??? "Reset Faction Request" 
     
         - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
-        - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
+        - Subsequent runs - "Did not take the request" under the "Search for..." sub-menu
     
     ??? danger "Warning! Blind Runs" 
     
