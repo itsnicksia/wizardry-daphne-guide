@@ -131,7 +131,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - Relic power level 
         - Any alignment matches in bright pink text 
         
-        ??? Select a Relic Power" 
+        ??? "Select a Relic Power" 
         
             - Current level
             - Stat effects
