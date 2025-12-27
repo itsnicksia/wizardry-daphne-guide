@@ -10,8 +10,7 @@ Yrsa had never been comfortable with conversation, and never opened up with anyo
 However, when it came to her keen eye for observation and her talent with a bow, no other youth could surpass her.
 
 ### Page 2  
-...  
-direbears into a savage frenzy, they came stalking after humans. As autumn settled in, the dwarves busied themselves with the yearly task of readying their weapons and armor. Alongside them, Yrsa too prepared for the direbears, crafting arrows by the armload.
+Once Yrsa had amassed enough knowledge, she came to take part in the greatest task of all: the drive hunts of the direbears. In winter, when scarcity of food drove the direbears into a savage frenzy, they came stalking after humans. As autumn settled in, the dwarves busied themselves with the yearly task of readying their weapons and armor. Alongside them, Yrsa too prepared for the direbears, crafting arrows by the armload.
 
 It was that winter when Yrsa's father was taken from her by the direbear.
 
