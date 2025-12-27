@@ -67,9 +67,9 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ### Witch Hunt (1st Faction Request)
 
-##### Overview 
-
 !!! warning "Unlocked after entering Route 4 for the first time."
+
+##### Overview 
 
 Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction requests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
@@ -770,39 +770,40 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 ### Search for the Missing Persons (2nd Faction Request)
 
-##### Overview 
+!!! warning "Unlocked after entering Route 9 for the first time."
 
-!!! warning "Unlocked upon reaching Route 9 for the first time."
+##### Overview 
 
 The objective of all the 2nd faction requests is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
 
 Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. 
+
 - Agree to help twice when prompted
 - Head to the Guild and accept the request under the Royal Capital tab 
 - If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset
 
-##### Important Notes
+??? warning "Important Notes"
 
-??? "Best Ending Requirements"
-
-    - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
-    - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) (optional) to open the mine walls on Route 7 to speed up the search 
-    - Cursed Wheel - Short Rest in the Cabin 
-        - North Lakeshore Cabin - "Fixed it up"
-        - Dwarves' Cave - Any
-        - Village Adults - "Did not encounter them"
-        - The first body will be in poor condition and the request will end if the village adults have been captured
-
-??? "Reset Faction Request" 
-
-    - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
-    - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
-
-??? danger "Warning! Blind Runs" 
-
-    - Strongly recommend _not_ doing a blind run
-    - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
-    - Interactable ojbects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
+    ??? "Best Ending Requirements"
+    
+        - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
+        - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) (optional) to open the mine walls on Route 7 to speed up the search 
+        - Cursed Wheel - Short Rest in the Cabin 
+            - North Lakeshore Cabin - "Fixed it up"
+            - Dwarves' Cave - Any
+            - Village Adults - "Did not encounter them"
+            - The first body will be in poor condition and the request will end if the village adults have been captured
+    
+    ??? "Reset Faction Request" 
+    
+        - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
+        - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
+    
+    ??? danger "Warning! Blind Runs" 
+    
+        - Strongly recommend _not_ doing a blind run
+        - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
+        - Interactable ojbects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
 ##### Faction Request Guides 
 
