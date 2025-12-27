@@ -67,58 +67,56 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ### Witch Hunt (1st Faction Request)
 
-!!! warning "Unlocked after entering Route 4 for the first time."
-
 ##### Overview 
 
-Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction requests take place in Elden Hill Village and share the same map (the Witch's Cave). 
+The 1st faction requests are unlocked after entering Route 4 for the first time. Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction requests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
-The objectives of each faction are different, but related to stopping the witch burnings and identifying its underlying cause. These faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Abysses.   
+??? warning "Important Notes"
 
-??? "Important! Faction Affinity"
-
-    - Supporting a faction in a previous Abyss influences certain outcomes 
-    - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
-    - Max faction affinity is mandatory for the Best endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
-    - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
-
-    !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
-
-??? "Reset Faction Request" 
-
-    - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
-    - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
-
-??? "Faction Endings" 
+    ??? "Faction Affinity"
     
-    - 10 unique endings across all factions have been identified 
-    - Some endings may have been missed as of 12/26 
-    - Known endings are sufficient for unlocking the 2 Guiding Lights (Luck)
-    - Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
-
-    **Endings per Faction**
-
-    - Princess = 4 
-    - Pontiff = 3
-    - Admiral = 3
-    - Total = 10 
-
-??? tip "Note on Guiding Lights"
-
-    **Unlocking Conditions (as of 12/26)** 
+        - Supporting a faction in a previous Abyss influences certain outcomes 
+        - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
+        - Max faction affinity is mandatory for the Best endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
+        - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
     
-    - Clear any Best ending (confirmed) 
-    - The 2nd Guiding Light may be bugged as members have reported receiving it when:
-        - Clearing all 3 Best endings; or,
-        - After defeating the GWO (4th fight/True ending)
-        - If it does not appear, then try the other condition
-    - Max faction affinity is required (confirmed)  
-    - A Guiding Light will dissolve if it's already been received 
+        !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
     
-    ??? tip "Testing notes" 
+    ??? "Faction Endings" 
+        
+        - 10 unique endings across all factions have been identified 
+        - Some endings may have been missed as of 12/26 
+        - Known endings are sufficient for unlocking the 2 Guiding Lights (Luck)
+        - Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
     
-        - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
-        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
+        **Endings per Faction**
+    
+        - Princess = 4 
+        - Pontiff = 3
+        - Admiral = 3
+        - Total = 10 
+
+    ??? "Reset Faction Request" 
+    
+        - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
+        - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
+    
+    ??? tip "Note on Guiding Lights"
+    
+        **Unlocking Conditions (as of 12/26)** 
+        
+        - Clear any Best ending (confirmed) 
+        - The 2nd Guiding Light may be bugged as members have reported receiving it when:
+            - Clearing all 3 Best endings; or,
+            - After defeating the GWO (4th fight/True ending)
+            - If it does not appear, then try the other condition
+        - Max faction affinity is required (confirmed)  
+        - A Guiding Light will dissolve if it's already been received 
+        
+        ??? tip "Testing notes" 
+        
+            - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
+            - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ##### The Witch's Cave  
 
@@ -130,16 +128,18 @@ The objectives of each faction are different, but related to stopping the witch 
     - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
     - Enemy level is 65
     - Some chests have high Find/Trap Disarm requirements even at 150/150
-    
-??? map "The Witch's Cave - B1F"    
-    <div align="center">
-    ![](./img/witchs-cave-b1f.png)
-    </div>
 
-??? map "The Witch's Cave - B2F" 
-    <div align="center">
-    ![](./img/witchs-cave-b2f.png)
-    </div>
+??? "Maps"
+
+    ??? map "The Witch's Cave - B1F"    
+        <div align="center">
+        ![](./img/witchs-cave-b1f.png)
+        </div>
+    
+    ??? map "The Witch's Cave - B2F" 
+        <div align="center">
+        ![](./img/witchs-cave-b2f.png)
+        </div>
 
 ##### Chancellor Serpens (Princess) Route 
 
@@ -328,53 +328,53 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
 The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible. A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
-**Mechanics** 
+??? "Mechanics" 
 
-??? "Brazier Offerings"
-
-    ??? "Steps"
+    ??? "Brazier Offerings"
     
-        - Interact with the brazier and it will request an offering
-        - Collect the offering via fighting enemies or returning to town 
-        - Give the offering to unlock a nearby door 
-        - Investigate the unlocked area until Lulu makes a comment 
-        - Return to the brazier for a new offering request 
-        - Repeat until the witch's door is unlocked
-        - Can reduce the number of offering requests on a second run
-
-    ??? "Tasks"
+        ??? "Steps"
+        
+            - Interact with the brazier and it will request an offering
+            - Collect the offering via fighting enemies or returning to town 
+            - Give the offering to unlock a nearby door 
+            - Investigate the unlocked area until Lulu makes a comment 
+            - Return to the brazier for a new offering request 
+            - Repeat until the witch's door is unlocked
+            - Can reduce the number of offering requests on a second run
     
-        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-        - Hen = Return to town and speak with Tenet
-        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-        - Infant (Lamb) = Return to town and speak with Tenet
-        - Sheep = Return to town and speak with Tenet
-
-??? "Tenet Offerings" 
-
-    - Only available on a second run
-    - Talk to Tenet in town before entering the Witch's Cave
-    - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
-
-    **Total Brazier Requests**
+        ??? "Tasks"
+        
+            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
+            - Hen = Return to town and speak with Tenet
+            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+            - Infant (Lamb) = Return to town and speak with Tenet
+            - Sheep = Return to town and speak with Tenet
     
-    - Do not talk to Tenet = 5 
-    - Hen = 3  
-    - Infant (Lamb) = 1 
-    - Sheep = 0 (Unlocks the witch's door) 
-
-??? "Witch Burnings"
-
-    - Returning to town for an offering results in a witch burning
-    - The total number of witch burnings determines whether Elencia is alive or dead after the boss fight
-
-    **Elencia's Status** 
+    ??? "Tenet Offerings" 
     
-    - Witness 0-3 witch burnings = Elencia alive
-    - Witness 4+ witch burnings = Elencia dead
-    - The exact requirement for triggering a witch burning scene are unclear. Based on limited testing:
-        - Number of battles and/or 
-        - Returning to town after giving an offering, but before accepting the next request
+        - Only available on a second run
+        - Talk to Tenet in town before entering the Witch's Cave
+        - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
+    
+        **Total Brazier Requests**
+        
+        - Do not talk to Tenet = 5 
+        - Hen = 3  
+        - Infant (Lamb) = 1 
+        - Sheep = 0 (Unlocks the witch's door) 
+    
+    ??? "Witch Burnings"
+    
+        - Returning to town for an offering results in a witch burning
+        - The total number of witch burnings determines whether Elencia is alive or dead after the boss fight
+    
+        **Elencia's Status** 
+        
+        - Witness 0-3 witch burnings = Elencia alive
+        - Witness 4+ witch burnings = Elencia dead
+        - The exact requirement for triggering a witch burning scene are unclear. Based on limited testing:
+            - Number of battles and/or 
+            - Returning to town after giving an offering, but before accepting the next request
 
 **Endings**
 
@@ -494,44 +494,44 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
-**Mechanics** 
+??? "Mechanics"
 
-??? warning "Note on Initial Choices" 
-
-    - The Admiral route is deceptively structured
-    - Initial choices of "Capture a witch" or "Threaten" have no impact on the ending
-    - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
-    - Elencia's post-battle status (dead or alive) determines the ending
-    - The "Prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
-
-??? "Brazier Offerings"
-
-    ??? "Steps"
-        - Interact with the brazier and it will tell you the offering it seeks
-        - Collect the offering via fighting enemies or returning to town 
-        - Give the offering and it will unlock a nearby door 
-        - Investigate the new area until you get Lulu's commentary on the room 
-        - Return to the brazier for a new request 
-        - Repeat until the witch's door is unlocked
-
-    ??? "Tasks"
-        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-        - Broom = Return to town and speak with Elinas
-        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-        - Infant (Lamb) = Return to town and speak with Elinas
-        - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
-
-??? "Elinas Offerings" 
-
-    - Only available on a second run
-    - Talk to Elinas in town before entering the Witch's Cave
-    - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
+    ??? warning "Note on Initial Choices" 
     
-    **Total Brazier Requests**
+        - The Admiral route is deceptively structured
+        - Initial choices of "Capture a witch" or "Threaten" have no impact on the ending
+        - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
+        - Elencia's post-battle status (dead or alive) determines the ending
+        - The "Prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
     
-    - Do not talk to Elinas = 5 
-    - Broom = 3 
-    - Infant (Lamb) = 1 
+    ??? "Brazier Offerings"
+    
+        ??? "Steps"
+            - Interact with the brazier and it will tell you the offering it seeks
+            - Collect the offering via fighting enemies or returning to town 
+            - Give the offering and it will unlock a nearby door 
+            - Investigate the new area until you get Lulu's commentary on the room 
+            - Return to the brazier for a new request 
+            - Repeat until the witch's door is unlocked
+    
+        ??? "Tasks"
+            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
+            - Broom = Return to town and speak with Elinas
+            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+            - Infant (Lamb) = Return to town and speak with Elinas
+            - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
+    
+    ??? "Elinas Offerings" 
+    
+        - Only available on a second run
+        - Talk to Elinas in town before entering the Witch's Cave
+        - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
+        
+        **Total Brazier Requests**
+        
+        - Do not talk to Elinas = 5 
+        - Broom = 3 
+        - Infant (Lamb) = 1 
 
 **Endings**
 
@@ -774,7 +774,7 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 ##### Overview 
 
-The objective of all the 2nd faction requests is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
+The 2nd faction requests are unlocked after entering Route 9 for the first time. The objective of all the 2nd faction requests is to search for traces of the missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
 
 Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. 
 
