@@ -75,7 +75,7 @@ Upon returning to Isberg a messenger will ask you to return to Royal Capital Luk
 
 The objectives of each faction are different, but related to stopping the witch burnings and identifying its underlying cause. These faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Abysses.   
 
-??? note "Important! Faction Affinity"
+??? "Important! Faction Affinity"
 
     - Supporting a faction in a previous Abyss influences certain outcomes 
     - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
