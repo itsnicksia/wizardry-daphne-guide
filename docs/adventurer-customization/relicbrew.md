@@ -195,8 +195,10 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 | Stage 1       | White  | None (?)                                                                                   |      
 | Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
 | Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
+
 - Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 Fortitude). There does not appear to be any other negative side effects outside of combat.
-- Note that the success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 50 and 20. Therefore, it is recommended to remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
+- Note that the success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 50 and 20.
+- It is recommended to remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
 - The MC also has a hidden Fortitude value. Your MC's current, but not maximum, Fortitude can be viewed by your friends in the Tavern under "Friendships".
 - It is a common practice to use Nameless units to consume less desirable relicbrews to register the Relic Power effects in the "Drink Relicbrews" menu.   
 
@@ -228,12 +230,12 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | 4 - 5             |     3,000    |      5,100     |
 | Total             |     5,100    |        -       |
 
-Experience requirements grow significantly after level 3. The amount of experience required to reach: 
-
-- Level 4 is 1,200 EXP
-- Level 5 is 3,000 EXP
-- Level 6 is TBD
-- Level 7 is TBD
+- Experience requirements grow significantly after level 3.
+- The amount of experience required to reach: 
+    - Level 4 is 1,200 EXP
+    - Level 5 is 3,000 EXP
+    - Level 6 is TBD
+    - Level 7 is TBD
 
 ##### Minimum Relics per Level and ★ Quality
 
