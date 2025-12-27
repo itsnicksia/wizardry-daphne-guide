@@ -253,8 +253,6 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. 
     - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
 
-??? warning "We are currently working on adding data for 5★ relics."
-
 ##### Experience per Relic ★ Quality 
 
 | ★ Quality  | EXP    |        
@@ -263,7 +261,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | 2★         | 200   |
 | 3★         | 400   |
 | 4★         | 1,000 |
-| 5★         | ?     |
+| 5★         | 2,400 |
 
 
 ##### Required EXP per Relic Level
@@ -286,7 +284,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | 2★        |  1   |  2   |  5   |  11  |  26  | 36 | 
 | 3★        |  1   |  1   |  3   |  6   |  13  | 18 | 
 | 4★        |  1   |  1   |  1   |  3   |  6   | 8  | 
-| 5★        |  1   |  1   |  1   |  ?   |  ?   | ?  | 
+| 5★        |  1   |  1   |  1   |  1   |  3   | 3  | 
 
 ??? tip "How to read this table"
 
