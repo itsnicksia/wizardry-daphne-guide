@@ -100,8 +100,8 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
     A Relic Power is received after drinking a relicbrew and has several unique properties: 
     
-    - Increases 1-2 stats at the cost of another. The negative stat penalty is always -1 per level up to a maximum of -7.
-    - Effects can be increased to a maximum of level 7 by repeatedly drinking the same relicbrew of any ★ quality.
+    - Increases 1-2 stats at the cost of another. The negative stat penalty is always -1 per level up to a maximum of -6.
+    - Effects can be increased to a maximum of level 6 by repeatedly drinking the same relicbrew of any ★ quality.
     - Effects are hidden until the relicbrew has been consumed at least once.
     - Each has an alignment (Good-Neutral-Evil). 
     - Matching alignments with a unit give an additional, immediate bonus (or "extra" level) to the positive effects.
@@ -253,7 +253,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. 
     - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
 
-??? warning "We are currently working on adding data for 5★ relics and EXP requirements for level 7."
+??? warning "We are currently working on adding data for 5★ relics."
 
 ##### Experience per Relic ★ Quality 
 
@@ -276,18 +276,17 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | 3 - 4             |     1,200    |      2,100     |
 | 4 - 5             |     3,000    |      5,100     |
 | 5 - 6             |     7,200    |      12,300    |
-| 6 - 7             |     ?        |      ?         |
 | Total             |     12,300   |        -       |
 
 ##### Minimum Relics per Level and ★ Quality
 
-| ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7 |   
-|:---------:|:----:|:----:|:----:|:-----:|:---:|:---:|:---:|
-| 1★        |  1   |  3   |  9   |  21  |  51  | 72 | ? | 
-| 2★        |  1   |  2   |  5   |  11  |  26  | 36 | ? |
-| 3★        |  1   |  1   |  3   |  6   |  13  | 18 | ? |
-| 4★        |  1   |  1   |  1   |  3   |  6   | 8  | ? |
-| 5★        |  1   |  1   |  1   |  ?   |  ?   | ?  | ? |
+| ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |    
+|:---------:|:----:|:----:|:----:|:-----:|:---:|:---:|
+| 1★        |  1   |  3   |  9   |  21  |  51  | 72 | 
+| 2★        |  1   |  2   |  5   |  11  |  26  | 36 | 
+| 3★        |  1   |  1   |  3   |  6   |  13  | 18 | 
+| 4★        |  1   |  1   |  1   |  3   |  6   | 8  | 
+| 5★        |  1   |  1   |  1   |  ?   |  ?   | ?  | 
 
 ??? tip "How to read this table"
 
