@@ -69,7 +69,12 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 
 ##### Overview 
 
-The 1st faction requests are unlocked after entering Route 4 for the first time. Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction requests take place in Elden Hill Village and share the same map (the Witch's Cave). 
+The faction requests are unlocked after entering Route 4 for the first time. 
+
+- Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia
+- Go to the Guild, speak with Arna, and accept the invitation
+- If you leave immediately, then to accept the request in the future select "Talk" in the Guild
+- All of the faction requests take place in Elden Hill Village and share the same map  
 
 ??? warning "Important Notes"
 
@@ -118,19 +123,17 @@ The 1st faction requests are unlocked after entering Route 4 for the first time.
             - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
             - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
-##### The Witch's Cave  
+??? "The Witch's Cave"
 
-??? "Overview"
-    - Each faction can only access certain areas of the map
-    - Map progress is permanently recorded
-    - Full map completion requires doing other faction quests
-    - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
-    - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
-    - Enemy level is 65
-    - Some chests have high Find/Trap Disarm requirements even at 150/150
-
-??? "Maps"
-
+    ??? "Overview"
+        - Each faction can only access certain areas of the map
+        - Map progress is permanently recorded
+        - Full map completion requires doing other faction quests
+        - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
+        - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
+        - Enemy level is 65
+        - Some chests have high Find/Trap Disarm requirements even at 150/150
+    
     ??? map "The Witch's Cave - B1F"    
         <div align="center">
         ![](./img/witchs-cave-b1f.png)
@@ -145,165 +148,55 @@ The 1st faction requests are unlocked after entering Route 4 for the first time.
 
 The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch. Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution you can consult with an Herbalist, Physician, or Mystic. 
 
-??? "Bad Ending - Consult with an Herbalist"
-    - Speak to the Herbalist in town 
-    - She recommends using Sleepmoss that grows in the Witch's Cave 
-    - Enter the Witch's Cave 
-    - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
-    - Collect the 3 Sleepmoss 
+??? "Ending Guides"
 
-        ??? map "Sleepmoss Locations"
-            <div align="center">
-            ![](./img/princess-sleepmoss.png)
-            </div>
-            
-        ??? "Sleep Tiles" 
-        
-            - After 10 steps you will lose consciousness and be teleported back to your starting point 
-            - During an enemy encounter all team members will be asleep at the start of battle  
-            - Aggro and bait enemies onto normal tiles for easier fights
-        
-    - Use the small islands of normal tiles to reset the 10 step counter to progress deeper into the area 
-    - Exit 
-    - Speak to the Herbalist in town
-    - Ending sequence begins automatically 
-
-        ??? tip "Rewards"
-            - 8,000 Gold
-            - 2 Junk<span style="color: MediumOrchid">*</span>
-            - Scroll of Inferno
-
-??? "Good Ending - Consult with a Physician"
-
-    - Speak to Raimi in town and he will privately evaluate Rosa
-    - Upon returning recommends Slatewillow as a cure 
-    - Enter the Witch's Cave 
-    - The Slatewillow is located at the end of a long, one-way path through B1F and B2F 
-    - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
-    - Low-level teams should consider bringing MP and SP pots as insurance
-    - From the entrance head to the southeast to access a dropdown point to B2F 
-    
-        ??? map "Dropdown to B2F"
-            <div align="center">
-            ![](./img/princess-hole.png)
-            </div>
-        
-    - The room you drop into has 4 enemies in a small space
-    - Follow the path west and then north (southern stairs are a dead end)
-    - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
-    
-        ??? danger "Cyclops + Bigfoot"
-        
-            - More details to be added soon
-            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-            - At ~80% HP the Cyclops will summon another Bigfoot
-            - Cyclop's "Wheeling Cleave" can kill multiple team members 
-            - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
-    
-    - Head north and take the stairs to B1F
-    - Go south through the "sleepy tunnel" area (blue bubble tiles)
-
-        ??? "Sleep Tiles" 
-    
-            - After 10 steps you will lose consciousness and be teleported back to your starting point 
-            - During an enemy encounter all team members will be asleep at the start of battle  
-            - Aggro and bait enemies onto normal tiles for an easier battle
-                
-    - The Slatewillow is in front of the teleporter and will be automatically picked up
-    - Exit 
-    - Speak with Raimi in town  
-    - Ending sequence begins automatically 
-
-        ??? tip "Rewards"
-            - Achievement: "A Terrible Nightmare"
-            - 15,000 Gold 
-            - There is no known way to avoid this ending 
-
-??? "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
-    
-    - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
-    - The default Mystic Route has a different map arrangement and quest giver
-    - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
-    
-    ??? "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
-    
-        - Speak to Dylanhardt in town 
-        - Select the option to return to the Royal Capital 
-        - Meet with Aegon and he recommends Fellwisp to cure Rosa and Sar-moon Herb to calm the villagers
-        - Return to Elden Hill Village 
+    ??? "Bad Ending - Consult with an Herbalist"
+        - Speak to the Herbalist in town 
+        - She recommends using Sleepmoss that grows in the Witch's Cave 
         - Enter the Witch's Cave 
-        - Go north and down the stairs to B2F
-        - Both request items are located on this floor 
-        
-            ??? "Fellwisp"  
-                ??? map "Fellwisp Location"
-                    <div align="center">
-                    ![](./img/princess-fellwisp.PNG)
-                    </div>
-        
-                    - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
-                    - Defeating the Cyclops is required for the Best ending
-                    - A challenging fight during the early game and you may have to return at a higher level or with better gear 
-                    - Will not respawn once defeated
-                    
-                ??? danger "Cyclops + Bigfoot"
-
-                    - More details to be added soon
-                    - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-                    - At ~80% HP the Cyclops will summon another Bigfoot
-                    - Cyclop's "Wheeling Cleave" can kill multiple team members 
-                    - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
-
-            ??? map "Sar-moon Herb Location"
+        - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
+        - Collect the 3 Sleepmoss 
+    
+            ??? map "Sleepmoss Locations"
                 <div align="center">
-                ![](./img/princess-sar-moon.PNG)
+                ![](./img/princess-sleepmoss.png)
                 </div>
                 
-                - Located in the northeast area and requires reversing a stone to access
-                - Multiple enemies will spawn after it is picked up  
-
+            ??? "Sleep Tiles" 
+            
+                - After 10 steps you will lose consciousness and be teleported back to your starting point 
+                - During an enemy encounter all team members will be asleep at the start of battle  
+                - Aggro and bait enemies onto normal tiles for easier fights
+            
+        - Use the small islands of normal tiles to reset the 10 step counter to progress deeper into the area 
         - Exit 
-        - Speak with Dylanhardt in town 
+        - Speak to the Herbalist in town
         - Ending sequence begins automatically 
-            - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
-            - After the scene Pulgritte and Dylandhardt will leave 
-            - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
-
-        ??? warning "Ending Choices"
-        
-            ??? "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
-            
-                !!! tip "Rewards"
-                    - Best Ending
-                    - Achievement: "One Who Carries the Future of Her Land"
-                    - 11,000 Gold 
     
-            ??? "Sub-Ending B: "Do Not Tell the Truth""
-                - The options to threaten Rosa do not seem to have any impact on the ending
+            ??? tip "Rewards"
+                - 8,000 Gold
+                - 2 Junk<span style="color: MediumOrchid">*</span>
+                - Scroll of Inferno
     
-                !!! tip "Rewards"
-                    - Achievement: "One Who Carries the Future of Her Land"
-                    - 9,000 Gold 
-                    - 1 Junk<span style="color: MediumOrchid">*</span>
-
-    ??? "Bad Ending - Mystic Route"
-
+    ??? "Good Ending - Consult with a Physician"
+    
+        - Speak to Raimi in town and he will privately evaluate Rosa
+        - Upon returning recommends Slatewillow as a cure 
         - Enter the Witch's Cave 
-        - Head south to the person icon on the map
-        - Speak with the Mystic and select "Talk about Elden Hill Village"
-        - The Mystic recommends using using Sar-moon Herb to calm the villagers 
-        - Head downstairs to B2F 
+        - The Slatewillow is located at the end of a long, one-way path through B1F and B2F 
+        - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
+        - Low-level teams should consider bringing MP and SP pots as insurance
+        - From the entrance head to the southeast to access a dropdown point to B2F 
         
-            ??? "Sar-Moon Herb Location"
-                 <div align="center">
-                 ![](./img/princess-sar-moon.PNG)
-                 </div>
-                 
-                - Located in the northeast area and requires reversing a stone to access
-                - Multiple enemies will spawn after it is picked up  
+            ??? map "Dropdown to B2F"
+                <div align="center">
+                ![](./img/princess-hole.png)
+                </div>
             
-        - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
-       
+        - The room you drop into has 4 enemies in a small space
+        - Follow the path west and then north (southern stairs are a dead end)
+        - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
+        
             ??? danger "Cyclops + Bigfoot"
             
                 - More details to be added soon
@@ -311,18 +204,130 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - At ~80% HP the Cyclops will summon another Bigfoot
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
                 - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
-
-        - Return to B1F 
-        - Speak to the Mystic and give her the Sar-Moon Herb 
-        - Go north to exit 
-        - Speak with Dylanhardt  
+        
+        - Head north and take the stairs to B1F
+        - Go south through the "sleepy tunnel" area (blue bubble tiles)
+    
+            ??? "Sleep Tiles" 
+        
+                - After 10 steps you will lose consciousness and be teleported back to your starting point 
+                - During an enemy encounter all team members will be asleep at the start of battle  
+                - Aggro and bait enemies onto normal tiles for an easier battle
+                    
+        - The Slatewillow is in front of the teleporter and will be automatically picked up
+        - Exit 
+        - Speak with Raimi in town  
         - Ending sequence begins automatically 
-
+    
             ??? tip "Rewards"
-                - 9,000 Gold
-                - Calm Wind Crest
-                - 2 Junk
-                - Same ending scenes as "Bad Ending - Consult with a Herbalist" 
+                - Achievement: "A Terrible Nightmare"
+                - 15,000 Gold 
+                - There is no known way to avoid this ending 
+    
+    ??? "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
+        
+        - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
+        - The default Mystic Route has a different map arrangement and quest giver
+        - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
+        
+        ??? "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
+        
+            - Speak to Dylanhardt in town 
+            - Select the option to return to the Royal Capital 
+            - Meet with Aegon and he recommends Fellwisp to cure Rosa and Sar-moon Herb to calm the villagers
+            - Return to Elden Hill Village 
+            - Enter the Witch's Cave 
+            - Go north and down the stairs to B2F
+            - Both request items are located on this floor 
+            
+                ??? "Fellwisp"  
+                    ??? map "Fellwisp Location"
+                        <div align="center">
+                        ![](./img/princess-fellwisp.PNG)
+                        </div>
+            
+                        - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
+                        - Defeating the Cyclops is required for the Best ending
+                        - A challenging fight during the early game and you may have to return at a higher level or with better gear 
+                        - Will not respawn once defeated
+                        
+                    ??? danger "Cyclops + Bigfoot"
+    
+                        - More details to be added soon
+                        - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+                        - At ~80% HP the Cyclops will summon another Bigfoot
+                        - Cyclop's "Wheeling Cleave" can kill multiple team members 
+                        - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+    
+                ??? map "Sar-moon Herb Location"
+                    <div align="center">
+                    ![](./img/princess-sar-moon.PNG)
+                    </div>
+                    
+                    - Located in the northeast area and requires reversing a stone to access
+                    - Multiple enemies will spawn after it is picked up  
+    
+            - Exit 
+            - Speak with Dylanhardt in town 
+            - Ending sequence begins automatically 
+                - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
+                - After the scene Pulgritte and Dylandhardt will leave 
+                - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
+    
+            ??? warning "Ending Choices"
+            
+                ??? "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
+                
+                    !!! tip "Rewards"
+                        - Best Ending
+                        - Achievement: "One Who Carries the Future of Her Land"
+                        - 11,000 Gold 
+        
+                ??? "Sub-Ending B: "Do Not Tell the Truth""
+                    - The options to threaten Rosa do not seem to have any impact on the ending
+        
+                    !!! tip "Rewards"
+                        - Achievement: "One Who Carries the Future of Her Land"
+                        - 9,000 Gold 
+                        - 1 Junk<span style="color: MediumOrchid">*</span>
+    
+        ??? "Bad Ending - Mystic Route"
+    
+            - Enter the Witch's Cave 
+            - Head south to the person icon on the map
+            - Speak with the Mystic and select "Talk about Elden Hill Village"
+            - The Mystic recommends using using Sar-moon Herb to calm the villagers 
+            - Head downstairs to B2F 
+            
+                ??? "Sar-Moon Herb Location"
+                     <div align="center">
+                     ![](./img/princess-sar-moon.PNG)
+                     </div>
+                     
+                    - Located in the northeast area and requires reversing a stone to access
+                    - Multiple enemies will spawn after it is picked up  
+                
+            - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
+           
+                ??? danger "Cyclops + Bigfoot"
+                
+                    - More details to be added soon
+                    - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+                    - At ~80% HP the Cyclops will summon another Bigfoot
+                    - Cyclop's "Wheeling Cleave" can kill multiple team members 
+                    - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+    
+            - Return to B1F 
+            - Speak to the Mystic and give her the Sar-Moon Herb 
+            - Go north to exit 
+            - Speak with Dylanhardt  
+            - Ending sequence begins automatically 
+    
+                ??? tip "Rewards"
+                    - 9,000 Gold
+                    - Calm Wind Crest
+                    - 2 Junk
+                    - Same ending scenes as "Bad Ending - Consult with a Herbalist" 
 
 ##### Pontiff Route
 
@@ -376,121 +381,117 @@ The Pontiff route is a race against time to discover the identity of the witch t
             - Number of battles and/or 
             - Returning to town after giving an offering, but before accepting the next request
 
-**Endings**
+??? "Ending Guides"
 
-??? warning "Ending Requirements"
-
-    - Total of 3 confirmed endings based on the number of witch burnings witnessed and dialogue choices in the final scene if Elencia is alive
+    ??? warning "Ending Requirements"
     
-    **Endings** 
-    
-    - Bad = Elencia dead (4+ witch burnings) 
-    - Good =  Elencia alive (0-3 witch burnings) + "Tell the Truth" 
-    - Best = Elencia alive (0-3 witch burnings) + "Condemn the Witch" 
-
-    **Rewards**
-    
-    - Junk rewards are reduced if any witch burnings are witnessed
-    - Full gold reward is always given
-
-??? "Bad Ending - Elencia Dead"
-     
-    - First run - Must witness a 4th witch burning 
-    - Second run - Do not speak with Tenet + must witness a 4th witch burning
-    - Enter the Witch's Cave 
-    - Complete all 5 brazier offering requests
-    - Returning to town for only the offering requests = 3 witch burnings = Elencia is alive after the boss fight (you do not want this)
-    - An _additional_ trip back to town to witness the 4th witch burning is required
-    - Recommend going after giving the brazier the 3 Rabbits or Living Blood
-    - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in B2F
-    
-        ??? danger "Boss: Witch"
-            - Details to be added soon 
-
-    - Elencia will be dead after the boss fight 
-    - Exit 
-    - Return to town 
-    - Ending sequence begins automatically 
-    
-        ??? tip "Rewards"
-            - Achievement: "A Witch There Was" 
-            - 9,000 Gold
-            - Achievement is shared with "Admiral - Good Ending - Elencia Dead" and can only be received once
-
-??? "Good Ending - Elencia Alive - "Tell the Truth""
-
-    - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
-    - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
-    - Enter the Witch's Cave
-    - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
-
-        ??? danger "Boss: Witch"
-            - Details to be added soon
-
-    - Elencia will be alive, but unconscious after the boss fight 
-    - "Examine the body"
-    - "Examine the head" 
-    - "Pull it out" (Forced to select)
-    - Exit 
-    - Return to town 
-    - Ending sequence begins automatically 
-    
-        - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
-        - "Tell the Truth"
+        - Total of 3 confirmed endings based on the number of witch burnings witnessed and dialogue choices in the final scene if Elencia is alive
         
-        ??? tip "Rewards"
+        **Endings** 
         
-            - 11,000 Gold
-            - 2 Junk (requires Sheep for 0 deaths)
-
-??? "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
-
-    - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
-    - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
-    - Enter the Witch's Cave
-    - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
-
-        ??? danger "Boss: Witch"
-            - Details to be added soon
-
-    - Elencia will be alive, but unconscious after the boss fight 
-    - "Examine the body"
-    - "Examine the head" 
-    - "Pull it out" (Forced to select)
-    - Exit 
-    - Return to town 
-    - Ending sequences begins automatically   
+        - Bad = Elencia dead (4+ witch burnings) 
+        - Good =  Elencia alive (0-3 witch burnings) + "Tell the Truth" 
+        - Best = Elencia alive (0-3 witch burnings) + "Condemn the Witch" 
     
-        - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
-        - "Condemn the Witch"
-    
-        ??? tip "Rewards"
+        **Rewards**
         
-            - Achievement: "Condemn the Witch"
-            - 17,000 Gold
-            - 2 Junk (requires Sheep for 0 deaths)
-            - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
-
-??? tip "What Ending Should I Do First?"
-
-    **If you plan to do all 3 endings:**
+        - Junk rewards are reduced if any witch burnings are witnessed
+        - Full gold reward is always given
     
-    - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
-    - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
-    - An Extra step is required 
-        - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
-    - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
-    - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
-
-    **If you only want the Guiding Light (Luck):** 
-
-    - "Best Ending - Elencia Alive - "Condemn the Witch""
+    ??? "Bad Ending - Elencia Dead"
+         
+        - First run - Must witness a 4th witch burning 
+        - Second run - Do not speak with Tenet + must witness a 4th witch burning
+        - Enter the Witch's Cave 
+        - Complete all 5 brazier offering requests
+        - Returning to town for only the offering requests = 3 witch burnings = Elencia is alive after the boss fight (you do not want this)
+        - An _additional_ trip back to town to witness the 4th witch burning is required
+        - Recommend going after giving the brazier the 3 Rabbits or Living Blood
+        - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in B2F
+        
+            ??? danger "Boss: Witch"
+                - Details to be added soon 
+    
+        - Elencia will be dead after the boss fight 
+        - Exit 
+        - Return to town 
+        - Ending sequence begins automatically 
+        
+            ??? tip "Rewards"
+                - Achievement: "A Witch There Was" 
+                - 9,000 Gold
+                - Achievement is shared with "Admiral - Good Ending - Elencia Dead" and can only be received once
+    
+    ??? "Good Ending - Elencia Alive - "Tell the Truth""
+    
+        - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
+        - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
+        - Enter the Witch's Cave
+        - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
+    
+            ??? danger "Boss: Witch"
+                - Details to be added soon
+    
+        - Elencia will be alive, but unconscious after the boss fight 
+        - "Examine the body"
+        - "Examine the head" 
+        - "Pull it out" (Forced to select)
+        - Exit 
+        - Return to town 
+        - Ending sequence begins automatically 
+        
+            - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
+            - "Tell the Truth"
+            
+            ??? tip "Rewards"
+            
+                - 11,000 Gold
+                - 2 Junk (requires Sheep for 0 deaths)
+    
+    ??? "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
+    
+        - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
+        - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
+        - Enter the Witch's Cave
+        - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
+    
+            ??? danger "Boss: Witch"
+                - Details to be added soon
+    
+        - Elencia will be alive, but unconscious after the boss fight 
+        - "Examine the body"
+        - "Examine the head" 
+        - "Pull it out" (Forced to select)
+        - Exit 
+        - Return to town 
+        - Ending sequences begins automatically   
+        
+            - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
+            - "Condemn the Witch"
+        
+            ??? tip "Rewards"
+            
+                - Achievement: "Condemn the Witch"
+                - 17,000 Gold
+                - 2 Junk (requires Sheep for 0 deaths)
+                - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
+    
+    ??? tip "What Ending Should I Do First?"
+    
+        **If you plan to do all 3 endings:**
+        
+        - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
+        - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
+        - An Extra step is required 
+            - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
+        - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
+        - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
+    
+        **If you only want the Guiding Light (Luck):** 
+    
+        - "Best Ending - Elencia Alive - "Condemn the Witch""
 
 ##### Admiral Route
-
-!!! warning "Important!" 
-    - One of the endings may not have been identified yet as of 12/26
-    - The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)
 
 The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
@@ -533,170 +534,170 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Broom = 3 
         - Infant (Lamb) = 1 
 
-**Endings**
+??? "Ending Guides" 
 
-??? warning "Ending Requirements"
-
-    - Total of 3 confirmed endings 
-    - Possible another ending exists that has yet to be identified (as of 12/22)
-
-    **Endings** 
+    ??? warning "Ending Requirements"
     
-    - Bad = Prepare Sedative 
-    - Good = Elencia dead (Pick Infant (Lamb) on subsequent runs)
-    - Best = Elencia alive (Pick Broom on subsequent runs)
-    - On a first run you will always get the Best ending (Elencia alive) since you have to collect all 5 brazier offerings
-
-    **Rewards**
+        - Total of 3 confirmed endings 
+        - Possible another ending exists that has yet to be identified (as of 12/22)
     
-    - No extra junk is given as a reward on any ending
-    - Full gold reward is always given
-
-??? "Bad Ending - Prepare Sedative"
-
-    - Speak to Raimi in town 
-    - Recommends gathering Sar-moon Herb in the Witch's Cave to calm the villagers
-    - Enter the Witch's Cave 
-    - Head north and down the stairs to B2F
+        **Endings** 
+        
+        - Bad = Prepare Sedative 
+        - Good = Elencia dead (Pick Infant (Lamb) on subsequent runs)
+        - Best = Elencia alive (Pick Broom on subsequent runs)
+        - On a first run you will always get the Best ending (Elencia alive) since you have to collect all 5 brazier offerings
     
-        ??? "Sar-Moon Herb Location"
-             <div align="center">
-             ![](./img/princess-sar-moon.PNG)
-             </div>
+        **Rewards**
+        
+        - No extra junk is given as a reward on any ending
+        - Full gold reward is always given
+    
+    ??? "Bad Ending - Prepare Sedative"
+    
+        - Speak to Raimi in town 
+        - Recommends gathering Sar-moon Herb in the Witch's Cave to calm the villagers
+        - Enter the Witch's Cave 
+        - Head north and down the stairs to B2F
+        
+            ??? "Sar-Moon Herb Location"
+                 <div align="center">
+                 ![](./img/princess-sar-moon.PNG)
+                 </div>
+             
+                - Located in the northeast area and requires reversing a stone to access
+                - Multiple enemies will spawn after it is picked up  
+            
+        - The side area with the Cyclops + Bigfoot is completely optional. It has no items or impact on the ending
+        
+            ??? danger "Cyclops + Bigfoot"
+            
+                - More details to be added soon
+                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+                - At ~80% HP the Cyclops will summon another Bigfoot
+                - Cyclop's "Wheeling Cleave" can kill multiple team members 
+                - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
+                
+        - Exit
+        - Speak with Raimi in town
+        - Ending sequences begins automatically   
+    
+            ??? tip "Rewards"
+                - 7,000 Gold
+                - Scroll of Torrent 
+                - Admiral is displeased with this approach 
+    
+    ??? "Good Ending - Elencia Dead"
+    
+        !!! warning "Can only be done on a subsequent run"
          
-            - Located in the northeast area and requires reversing a stone to access
-            - Multiple enemies will spawn after it is picked up  
+        - Select "Capture a witch" or "Threaten" it does not matter 
+        - Speak with Cleric Ludwin in town and confirm you will help search for the witch
+        - Speak with Elinas and pick the Infant (Lamb) 
+        - Enter the Witch's Cave 
+        - Head south and take the stairs down to B2F 
+        - Go up and to the right to the large room with multiple doors  
+        - Interact with the brazier 
+        - Offer the Infant (Lamb) and explore the SE room at the end of the path until Lulu comments 
+        - Return to the brazier and it will request the Gold Ore 
+        - Go back upstairs to B1F  
         
-    - The side area with the Cyclops + Bigfoot is completely optional. It has no items or impact on the ending
-    
-        ??? danger "Cyclops + Bigfoot"
+            ??? "Gold Ore"
         
-            - More details to be added soon
-            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-            - At ~80% HP the Cyclops will summon another Bigfoot
-            - Cyclop's "Wheeling Cleave" can kill multiple team members 
-            - The Bigfoot can physically attack members in both rows and has a "xx" row attack that causes paralysis and xx
-            
-    - Exit
-    - Speak with Raimi in town
-    - Ending sequences begins automatically   
-
-        ??? tip "Rewards"
-            - 7,000 Gold
-            - Scroll of Torrent 
-            - Admiral is displeased with this approach 
-
-??? "Good Ending - Elencia Dead"
-
-    !!! warning "Can only be done on a subsequent run"
-     
-    - Select "Capture a witch" or "Threaten" it does not matter 
-    - Speak with Cleric Ludwin in town and confirm you will help search for the witch
-    - Speak with Elinas and pick the Infant (Lamb) 
-    - Enter the Witch's Cave 
-    - Head south and take the stairs down to B2F 
-    - Go up and to the right to the large room with multiple doors  
-    - Interact with the brazier 
-    - Offer the Infant (Lamb) and explore the SE room at the end of the path until Lulu comments 
-    - Return to the brazier and it will request the Gold Ore 
-    - Go back upstairs to B1F  
-    
-        ??? "Gold Ore"
-    
-            ??? map "Gold Ore Location" 
-            
-                <div align="center">
-                ![](./img/admiral-gold-ore.PNG)
-                </div>
+                ??? map "Gold Ore Location" 
                 
-                - Located directly across from the entrance 
-
-            ??? danger "Enemy Gauntlet"
-            
-                - Before picking up the Gold Ore a group of 3 enemies will appear behind you
-                - Forced to fight a series of back-to-back battles with tough enemies
-        
-                **Fights** 
+                    <div align="center">
+                    ![](./img/admiral-gold-ore.PNG)
+                    </div>
+                    
+                    - Located directly across from the entrance 
+    
+                ??? danger "Enemy Gauntlet"
                 
-                - Fight 1: 2 Big Slime (front); Evil Eye (back)
-                - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
-                - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
-                - Battle strategy to be added soon
-
-    - Exit 
-    - Rest at the inn to recover for the upcoming boss fight 
-    - Return to the brazier and offer the Gold Ore to unlock the witch's room 
-
-        ??? danger "Boss: Witch"
-            - Details to be added soon
-
-    - Elencia dies after the boss fight 
-    - Exit 
-    - Return to town 
-    - Ending sequences will begin automatically  
-
-        ??? warning "Note on Ending Choices" 
-    
-            - Outside a few different lines of flavor text the 2 choices presented when consoling Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
-            - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
-            - This could potentially be a bug or there is some combination of responses that has not yet been identified  
-        
-        ??? tip "Rewards"
-        
-            - Achievement: "A Witch There Was" 
-            - 14,000 Gold
-            - Calm Wind Resistram<span style="color: MediumOrchid">*</span> 
-            - Achievement is shared with an ending in the Pontiff route ("Bad Ending - Elencia Dead") and can only be received once
-            - The Admiral is satisfied with this outcome 
-
-??? "Best Ending - Elencia Alive"
-
-    - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
-    - Subsequent runs - Pick the Broom from Elencia in town
-    - Select "Capture a witch" or "Threaten" it does not matter 
-    - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
-    - Enter the Witch's Cave 
-    - Head south and take the stairs down to B2F 
-    - Go up and to the right to the large room with multiple doors  
-    - Interact with the brazier 
-    - Complete the 5 offering requests 
-    
-        ??? "Gold Ore Offering"
-    
-            ??? map "Gold Ore Location" 
-                <div align="center">
-                ![](./img/admiral-gold-ore.PNG)
-                </div>
-    
-                - Located directly across from the entrance 
-    
-            ??? danger "Enemy Gauntlet"
+                    - Before picking up the Gold Ore a group of 3 enemies will appear behind you
+                    - Forced to fight a series of back-to-back battles with tough enemies
             
-                - Before picking up the Gold Ore a group of 3 enemies will appear behind you
-                - You will have to fight a series of back-to-back fights with tough enemies
-        
-                **Fights:** 
-                
-                - Fight 1: 2 Big Slime (front); Evil Eye (back)
-                - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
-                - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
-                - Battle strategy to be added soon
-
-    - Exit and rest at the inn to recover for the upcoming boss fight 
-    - Return to the brazier and offer the Gold Ore to unlock the witch's room 
-
-        ??? danger "Boss: Witch"
-            - Details to be added soon
-
-    - Elencia is alive, but unconscious after the boss fight 
-    - Exit 
-    - Return to town 
-    - Ending sequences will begin automatically  
+                    **Fights** 
+                    
+                    - Fight 1: 2 Big Slime (front); Evil Eye (back)
+                    - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
+                    - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
+                    - Battle strategy to be added soon
     
-        ??? tip "Rewards"
-            - Achievement: "You Are Permitted to Call My Name, But Only Once" 
-            - 19,000 Gold
-            - The Admiral is pleased with this outcome
+        - Exit 
+        - Rest at the inn to recover for the upcoming boss fight 
+        - Return to the brazier and offer the Gold Ore to unlock the witch's room 
+    
+            ??? danger "Boss: Witch"
+                - Details to be added soon
+    
+        - Elencia dies after the boss fight 
+        - Exit 
+        - Return to town 
+        - Ending sequences will begin automatically  
+    
+            ??? warning "Note on Ending Choices" 
+        
+                - Outside a few different lines of flavor text the 2 choices presented when consoling Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
+                - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
+                - This could potentially be a bug or there is some combination of responses that has not yet been identified  
+            
+            ??? tip "Rewards"
+            
+                - Achievement: "A Witch There Was" 
+                - 14,000 Gold
+                - Calm Wind Resistram<span style="color: MediumOrchid">*</span> 
+                - Achievement is shared with an ending in the Pontiff route ("Bad Ending - Elencia Dead") and can only be received once
+                - The Admiral is satisfied with this outcome 
+    
+    ??? "Best Ending - Elencia Alive"
+    
+        - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
+        - Subsequent runs - Pick the Broom from Elencia in town
+        - Select "Capture a witch" or "Threaten" it does not matter 
+        - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
+        - Enter the Witch's Cave 
+        - Head south and take the stairs down to B2F 
+        - Go up and to the right to the large room with multiple doors  
+        - Interact with the brazier 
+        - Complete the 5 offering requests 
+        
+            ??? "Gold Ore Offering"
+        
+                ??? map "Gold Ore Location" 
+                    <div align="center">
+                    ![](./img/admiral-gold-ore.PNG)
+                    </div>
+        
+                    - Located directly across from the entrance 
+        
+                ??? danger "Enemy Gauntlet"
+                
+                    - Before picking up the Gold Ore a group of 3 enemies will appear behind you
+                    - You will have to fight a series of back-to-back fights with tough enemies
+            
+                    **Fights:** 
+                    
+                    - Fight 1: 2 Big Slime (front); Evil Eye (back)
+                    - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
+                    - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
+                    - Battle strategy to be added soon
+    
+        - Exit and rest at the inn to recover for the upcoming boss fight 
+        - Return to the brazier and offer the Gold Ore to unlock the witch's room 
+    
+            ??? danger "Boss: Witch"
+                - Details to be added soon
+    
+        - Elencia is alive, but unconscious after the boss fight 
+        - Exit 
+        - Return to town 
+        - Ending sequences will begin automatically  
+        
+            ??? tip "Rewards"
+                - Achievement: "You Are Permitted to Call My Name, But Only Once" 
+                - 19,000 Gold
+                - The Admiral is pleased with this outcome
 
 ## Minor Harken Beyond the Blizzard
 
@@ -770,13 +771,11 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 ### Search for the Missing Persons (2nd Faction Request)
 
-!!! warning "Unlocked after entering Route 9 for the first time."
-
 ##### Overview 
 
-The 2nd faction requests are unlocked after entering Route 9 for the first time. The objective of all the 2nd faction requests is to search for traces of the missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
+The faction requests are unlocked after entering Route 9 for the first time. 
 
-Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. 
+Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The objective is to search for traces of the missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
 
 - Agree to help twice when prompted
 - Head to the Guild and accept the request under the Royal Capital tab 
@@ -787,8 +786,9 @@ Upon entering the Royal Capital the faction representative will appear to discus
     ??? "Best Ending Requirements"
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
-        - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) (optional) to open the mine walls on Route 7 to speed up the search 
-        - Cursed Wheel - Short Rest in the Cabin 
+        - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
+        - Cursed Wheel Settings
+            - Short Rest in the Cabin 
             - North Lakeshore Cabin - "Fixed it up"
             - Dwarves' Cave - Any
             - Village Adults - "Did not encounter them"
