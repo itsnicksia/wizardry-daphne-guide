@@ -64,7 +64,10 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         ![](img/relicbrew-definitions.png)
     </div>
 
-The "Relicbrew" menu lists all of the relics in your inventory. The same relic with a different ★ quality is counted as a separate item and relicbrew. Selecting a relic will show you the name of the relicbrew, a brief description, and its associated Relic Power, if known. Each relicbrew provides a unique Relic Power in the form of a passive skill.
+- The "Relicbrew" menu lists all of the relics in your inventory.
+- The same relic with a different ★ quality is counted as a separate item and relicbrew.
+- Selecting a relic will show you the name of the relicbrew, a brief description, and its associated Relic Power, if known.
+- Each relicbrew provides a unique Relic Power in the form of a passive skill.
 
 ##### How to Drink a Relicbrew 
 
@@ -74,9 +77,7 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
     </div>
 
 - The "Drink Relicbrew" menu shows you a list of all registered adventurers, the number of equipped Relic Powers, penalty stage status, and Relic Power history via a small bottle icon over the class name
--  A golden bottle denotes a currently equipped Relic Power.
--  A dark grey (empty) bottle means it was extracted in the past.
--  The bottle icon can help sort through a large roster.
+-  A golden bottle denotes a currently equipped Relic Power and a dark grey (empty) bottle means it was extracted in the past.
 -  Up to 6 people can consume a relicbrew, but the MC is always a fixed member that can be de-selected.
 
 ### Relic Power
@@ -108,35 +109,34 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
     === "Relic Power Level"
         ![](img/relicpower-exp.PNG)
     
-- The initial "Relic Power" menu shows a list of all registered units.
-- Selecting a character will display their active Relic Powers, level, and any alignment matches (bright pink text) in the upper right-hand corner.
+- The initial "Relic Power" menu shows a list of all registered units. Selecting a character will display their active Relic Powers, level, and any alignment matches (bright pink text) in the upper right-hand corner.
 - The "Extracted Relic Power" section lists previously equipped Relic Powers. Selecting any Relic Power will show its level, stat effects, current "Power Density" (experience), and the amount needed to reach the next level. At the bottom is the "Remove Power" option, which will take you to the extraction menu.   
 
 ### Extraction 
+
+!!! warning "An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality."
 
 ??? info "Menu Guide"
     <div align="center">
         ![](img/relicpower-extract.PNG)
     </div>
 
-!!! warning "An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality."
-
 - The Extraction service removes a currently equipped Relic Power for a fee.
 - There are 3 types of extraction services: Emergency, Standard, and Special. 
 
 ##### Fortitude Penalty
 
-When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. After the extraction cutscene a pop-up notification will show the Fortitude loss, if any. 
+When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. If a Fortitude penalty is incurred a pop-up notification will appear after the extraction cutscene. 
 
-- On failure, the adventurer will lose 5 max Fortitude for 2 weeks.
-- On success, the adventurer will lose 1 max Fortitude for 2 weeks.
-- On great success, the adventurer does not lose any Fortitude.
-- The more expensive extraction services have a higher rate of success. 
+- Failure - Lose 5 max Fortitude for 2 weeks.
+- Success - Lose 1 max Fortitude for 2 weeks.
+- Great Success - No Fortitude loss.
+- The more expensive extraction services have a lower rate of failure. 
 
 ##### Payment Options
 
-- Extraction services can be paid with purple gems, green gems, or gold
-- There is no reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
+- Extraction services can be paid with purple gems, green gems, or gold.
+- No reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
 - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
 - Recommend to always use Special Extraction when possible.
 
@@ -158,15 +158,16 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
     
     ??? "Slagpiece Exchange Example"
-    <div align="center">
-        ![](img/relicebrew-slagshop.PNG)
-    </div>
+    
+        <div align="center">
+            ![](img/relicebrew-slagshop.PNG)
+        </div>
 
 ## Leveling Relic Powers
 
 Relic Powers can be leveled like other passive skills. Instead of using inherits or codexes they require additional relics (transformed into relicbrews). For ease of reading experience points (EXP) is the term that will be used throughout this section. 
     
-##### EXP Mechanics 
+##### Experience Mechanics 
 
 | ★ Quality  | EXP    |        
 |:---------:|:------:|
@@ -190,7 +191,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | 4 - 5             |     3,000    |      5,100     |
 | Total             |     5,100    |        -       |
 
-Experience requirements grow significantly after level 3. The amount of experience to reach: 
+Experience requirements grow significantly after level 3. The amount of experience required to reach: 
 
 - Level 4 is 1,200 EXP
 - Level 5 is 3,000 EXP
@@ -206,15 +207,28 @@ Experience requirements grow significantly after level 3. The amount of experien
 | 3★        |  1   |  1   |  3   |  6   |  13  |
 | 4★        |  1   |  1   |  1   |  3   |  6   |
 
-This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers. For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP). It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
+- This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
+- For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
+- It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
 
 ## Penalties
 
-!!! warning "There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time."
+!!! warning "Relic Power Limitations"
 
-- Any 3 Relic Powers can be equipped with no side effects. A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
-- Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
-- The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
+    - There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time."
+    - Any 3 Relic Powers can be equipped with no side effects.
+    - A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
+    - Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
+    - The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
+
+##### Penalty Stages
+        
+| Penalty Stage | Color  | Effect                                                                                     |         
+|:--------------| :------|:-------------------------------------------------------------------------------------------|
+| Stage 0       | Grey   | None                                                                                       |   
+| Stage 1       | White  | None (?)                                                                                   |      
+| Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
+| Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
 
 ??? "Penalty Stages"
 
@@ -229,13 +243,6 @@ This table shows how many relics are needed per ★ quality to reach a specific 
 
     === "Stage 3"
         ![](img/relicbrew-stage 3.PNG)
-        
-| Penalty Stage | Color  | Effect                                                                                     |         
-|:--------------| :------|:-------------------------------------------------------------------------------------------|
-| Stage 0       | Grey   | None                                                                                       |   
-| Stage 1       | White  | None (?)                                                                                   |      
-| Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
-| Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
 
 - Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 Fortitude). There does not appear to be any other negative side effects outside of combat.
 - Note that the success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 50 and 20. Therefore, it is recommended to remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
