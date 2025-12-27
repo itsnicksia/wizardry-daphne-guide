@@ -68,6 +68,9 @@ nav:
     - Yekaterina:
         - Details: './legendary-adventurers/details/Yekaterina.md'
         - Life Story: './legendary-adventurers/life-stories/Yekaterina.md'
+    - Yrsa:
+        - Details: './legendary-adventurers/details/Yrsa.md'
+        - Life Story: './legendary-adventurers/life-stories/Yrsa.md'
     - Yuzunamiki:
         - Details: './legendary-adventurers/details/Yuzunamiki.md'
         - Life Story: './legendary-adventurers/life-stories/Yuzunamiki.md'
@@ -141,6 +144,9 @@ nav:
     - Gaston:
         - Details: './general-adventurers/details/Gaston.md'
         - Life Story: './general-adventurers/life-stories/Gaston.md'
+    - Heinrico:
+        - Details: './general-adventurers/details/Heinrico.md'
+        - Life Story: './general-adventurers/life-stories/Heinrico.md'
     - Jarmil:
         - Details: './general-adventurers/details/Jarmil.md'
         - Life Story: './general-adventurers/life-stories/Jarmil.md'
