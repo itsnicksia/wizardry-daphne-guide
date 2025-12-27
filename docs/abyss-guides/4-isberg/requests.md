@@ -65,7 +65,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Witch Hunt (1st Faction Request)
+### Witch Hunt in Elden Hill (1st Faction Request)
 
 ##### Overview 
 
@@ -108,20 +108,18 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
     ??? tip "Guiding Lights"
     
-        **Unlock Conditions (as of 12/26)** 
-        
-        - Clear any Best ending (confirmed) 
-        - The 2nd Guiding Light may be bugged as members have reported receiving it when:
-            - Clearing all 3 Best endings; or,
-            - After getting the True ending (GWO 4th fight)
-            - If it does not appear with one of the conditions, then try the other 
-        - Max faction affinity is required (confirmed)  
-        - A Guiding Light will dissolve if it's already been received 
-        
-        ??? "Testing Notes" 
-        
-            - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
-            - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
+        **Unlock Conditions (as of 12/27)** 
+
+        - The unlock conditions for the 2 Guiding Lights (Luck) are not consistent with Discord members reporting the following:
+            - Clear any Best ending
+            - Clear all 3 Best endings
+            - Clear the True ending (GWO 4th fight)
+            - Clear the True ending (GWO 4th fight) + redoing the Best Endings until it appears
+        - If one of these requirements does not work, then try the others 
+        - Likely a bug is present unless Drecom programmed multiple unlock conditions for the same Guiding Light 
+        - Max faction affinity is required (confirmed)
+        - A Guiding Light will dissolve if it's already been received (confirmed)
+        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ??? "The Witch's Cave"
 
@@ -786,11 +784,12 @@ Upon entering the Royal Capital the faction representative will appear to discus
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
-        - Cursed Wheel set to Short Rest in the Cabin
+        - Set Cursed Wheel to Short Rest in the Cabin
             - North Lakeshore Cabin - "Fixed it up"
             - Dwarves' Cave - Any
             - Village Adults - "Did not encounter them"
-            - The first body will be in poor condition and the request will end if the village adults have been captured
+                - If the village adults have been captured, then the first body will be in poor condition and the request will end 
+                - This outcome is a node in the Cursed Wheel and can be missed 
     
     ??? "Reset Faction Request" 
     
@@ -812,30 +811,31 @@ Upon entering the Royal Capital the faction representative will appear to discus
     3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
     4. Head to the house at the bottom middle of Route 3 (where Mike, one of the adults, was killed by goblins). Enter the house and find the body of one of the Royal Knights.
     5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets ("tablets") as clues.
-    6. Head back to Route 3 and look for tablets in this order: 
+    6. Head back to Route 3 and find the tablets in this order: 
         - (X:11, Y:25) - Northwest of the Harken  
         - (X:26, Y:24) - Southeast of Route 4 entrance
-    7. Harken to Route 6 and enter Route 7. Find two more tablets in this order: 
+    7. Harken to Route 6 and enter Route 7. Find the tablets in this order: 
         - (X:13, Y:23) - Central 3x3 room 
         - (X:16, Y:22) - Right-hand deadend of 3x3 room
-    8. Exit back to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you you can walk directly to the tablets. Collect the tablets in this order: 
+    8. Exit back to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you you can walk directly to the tablets. Find the tablets in this order: 
         - (X:19, Y:7) - Northwest of Route 8 stairs
-        - (X:18, Y:19) - Small (2x1) deadend northwest of the Stonefolk icon 
+        - (X:18, Y:19) - Northwest of the Stonefolk icon in a small (2x1) deadend 
         - (X:15, Y:24) - Few steps south of the Harken
-    9. From the Route 7 Harken go left and exit to Route 9. Collect the tablet at: 
+    9. From the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
         - (X:1, Y:7) Upper left-hand side of the first house 
-    10. Return to the Route 7 Harken and select Route 9. From the Route 9 Harken go to Route 10. Find tablets in this order: 
+    10. Return to the Route 7 Harken and select Route 9. From the Route 9 Harken go to Route 10. Find the tablets in this order: 
         - (X:25, Y:4) - Few steps north of Route 10 entrance 
         - (X:20, Y:5) - Next to the first Stone God altar
-        - (X:1, Y:9) -  From the top of the first house walks 2 steps north 
+        - (X:1, Y:9) -  From the top of the bottom-left house walks 2 steps north 
         - (X:2,Y:15) - Tile before entering the northwest blizzard area 
-        - (X:3, Y:24) - On the ground after exiting the blizzard area  
-        - (X:1, Y:24) - On the nullstone 
+        - (X:3, Y:24) - Tile after exiting the northwest blizzard area  
+        - (X:1, Y:24) - Check the nullstone 
         - Optional: Return to town or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
     11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
     12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
-    14. Bring the head back to the Royal Capital to complete the request and receive 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (ATK power) as a bondmate.
+    14. Bring the head back to the Royal Capital and complete the request.
+    15. Reward - 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (ATK power) as a bondmate.
 
 ??? "Pontiff Route - Search for Adherent Acquaintances" 
 
