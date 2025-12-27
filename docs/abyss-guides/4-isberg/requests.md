@@ -118,7 +118,7 @@ The faction requests are unlocked after entering Route 4 for the first time.
         - Max faction affinity is required (confirmed)  
         - A Guiding Light will dissolve if it's already been received 
         
-        ??? tip "Testing notes" 
+        ??? "Testing notes" 
         
             - Some Discord members have reported not receiving the Guiding Light (Luck) after getting the Best ending on the Admiral and Pontiff routes
             - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
@@ -224,13 +224,13 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - 15,000 Gold 
                 - There is no known way to avoid this ending 
     
-    ??? "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
+    ??? tip "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
         
         - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
         - The default Mystic Route has a different map arrangement and quest giver
         - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
         
-        ??? "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
+        ??? tip "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
         
             - Speak to Dylanhardt in town 
             - Select the option to return to the Royal Capital 
@@ -335,25 +335,23 @@ The Pontiff route is a race against time to discover the identity of the witch t
 
 ??? "Mechanics" 
 
-    ??? "Brazier Offerings"
+    ??? "Brazier Offering Steps"
+            
+        - Interact with the brazier and it will request an offering
+        - Collect the offering via fighting enemies or returning to town 
+        - Give the offering to unlock a nearby door 
+        - Investigate the unlocked area until Lulu makes a comment 
+        - Return to the brazier for a new offering request 
+        - Repeat until the witch's door is unlocked
+        - Can reduce the number of offering requests on a second run
     
-        ??? "Steps"
-        
-            - Interact with the brazier and it will request an offering
-            - Collect the offering via fighting enemies or returning to town 
-            - Give the offering to unlock a nearby door 
-            - Investigate the unlocked area until Lulu makes a comment 
-            - Return to the brazier for a new offering request 
-            - Repeat until the witch's door is unlocked
-            - Can reduce the number of offering requests on a second run
+    ??? "Brazier Offering Requests"
     
-        ??? "Tasks"
-        
-            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-            - Hen = Return to town and speak with Tenet
-            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-            - Infant (Lamb) = Return to town and speak with Tenet
-            - Sheep = Return to town and speak with Tenet
+        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
+        - Hen = Return to town and speak with Tenet
+        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+        - Infant (Lamb) = Return to town and speak with Tenet
+        - Sheep = Return to town and speak with Tenet
     
     ??? "Tenet Offerings" 
     
@@ -397,6 +395,21 @@ The Pontiff route is a race against time to discover the identity of the witch t
         
         - Junk rewards are reduced if any witch burnings are witnessed
         - Full gold reward is always given
+
+    ??? warning "What Ending Should I Do First?"
+        
+            **If you plan to do all 3 endings:**
+            
+            - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
+            - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
+            - An Extra step is required 
+                - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
+            - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
+            - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
+        
+            **If you only want the Guiding Light (Luck):** 
+        
+            - "Best Ending - Elencia Alive - "Condemn the Witch""
     
     ??? "Bad Ending - Elencia Dead"
          
@@ -448,7 +461,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
                 - 11,000 Gold
                 - 2 Junk (requires Sheep for 0 deaths)
     
-    ??? "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
+    ??? tip "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
     
         - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
         - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
@@ -475,21 +488,6 @@ The Pontiff route is a race against time to discover the identity of the witch t
                 - 17,000 Gold
                 - 2 Junk (requires Sheep for 0 deaths)
                 - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
-    
-    ??? tip "What Ending Should I Do First?"
-    
-        **If you plan to do all 3 endings:**
-        
-        - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
-        - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
-        - An Extra step is required 
-            - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
-        - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
-        - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
-    
-        **If you only want the Guiding Light (Luck):** 
-    
-        - "Best Ending - Elencia Alive - "Condemn the Witch""
 
 ##### Admiral Route
 
@@ -505,22 +503,22 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Elencia's post-battle status (dead or alive) determines the ending
         - The "Prepare sedative" option is self-contained and separate from the brazier offerings mechanic    
     
-    ??? "Brazier Offerings"
+    ??? "Brazier Offering Steps"
     
-        ??? "Steps"
-            - Interact with the brazier and it will tell you the offering it seeks
-            - Collect the offering via fighting enemies or returning to town 
-            - Give the offering and it will unlock a nearby door 
-            - Investigate the new area until you get Lulu's commentary on the room 
-            - Return to the brazier for a new request 
-            - Repeat until the witch's door is unlocked
+        - Interact with the brazier and it will tell you the offering it seeks
+        - Collect the offering via fighting enemies or returning to town 
+        - Give the offering and it will unlock a nearby door 
+        - Investigate the new area until you get Lulu's commentary on the room 
+        - Return to the brazier for a new request 
+        - Repeat until the witch's door is unlocked
     
-        ??? "Tasks"
-            - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
-            - Broom = Return to town and speak with Elinas
-            - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
-            - Infant (Lamb) = Return to town and speak with Elinas
-            - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
+    ??? "Brazier Requests"
+    
+        - 3 Rabbits = Defeat 3 different enemy groups with vorpal bunnies
+        - Broom = Return to town and speak with Elinas
+        - Living Blood = Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human, demon?)
+        - Infant (Lamb) = Return to town and speak with Elinas
+        - Gold Ore = Defeat 3 back-to-back groups of tough enemies 
     
     ??? "Elinas Offerings" 
     
@@ -650,7 +648,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
                 - Achievement is shared with an ending in the Pontiff route ("Bad Ending - Elencia Dead") and can only be received once
                 - The Admiral is satisfied with this outcome 
     
-    ??? "Best Ending - Elencia Alive"
+    ??? tip "Best Ending - Elencia Alive"
     
         - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
         - Subsequent runs - Pick the Broom from Elencia in town
@@ -787,8 +785,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
-        - Cursed Wheel Settings
-            - Short Rest in the Cabin 
+        - Set Cursed Wheel to Short Rest in the Cabin
             - North Lakeshore Cabin - "Fixed it up"
             - Dwarves' Cave - Any
             - Village Adults - "Did not encounter them"
