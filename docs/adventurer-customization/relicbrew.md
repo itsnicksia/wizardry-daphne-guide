@@ -131,6 +131,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - Any alignment matches in bright pink text 
         
         ??? Select a Relic Power" 
+        
             - Current level
             - Stat effects
             - Power Density (experience) and the amount needed to reach the next level
@@ -157,7 +158,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     - Success - Lose 1 max Fortitude for 2 weeks.
     - Great Success - No Fortitude loss.
     - The more expensive extraction services have a lower rate of failure. 
-    - If a Fortitude penalty is incurred a pop-up notification will appear after the extraction cutscene. 
+    - A Fortitude penalty notification appear after the cutscene, if incurred.
 
 ??? "Payment Options"
 
@@ -192,12 +193,12 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     
 ## Penalties
 
-There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time.
+!!! warning "There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time."
 
-- Any 3 Relic Powers can be equipped with no side effects.
-- A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
-- Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
-- The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
+    - Any 3 Relic Powers can be equipped with no side effects.
+    - A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
+    - Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
+    - The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
 
 | Penalty Stage | Color  | Effect                                                                                     |         
 |:--------------| :------|:-------------------------------------------------------------------------------------------|
@@ -236,7 +237,8 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
     - Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points. 
     - Relic Powers require a certain amount of EXP to reach the next level with a maximum level of 7.
-    - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
+    - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. 
+    - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
 
 ##### Experience per Relic ★ Quality 
 
@@ -260,18 +262,18 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 ##### Minimum Relics per Level and ★ Quality
 
-??? "How to read this table"
-
-    - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
-    - For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
-    - It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
-
 | ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |   
 |:---------:|:----:|:----:|:----:|:-----:|:---:|
 | 1★        |  1   |  3   |  9   |  21  |  51  |
 | 2★        |  1   |  2   |  5   |  11  |  26  | 
 | 3★        |  1   |  1   |  3   |  6   |  13  |
 | 4★        |  1   |  1   |  1   |  3   |  6   |
+
+??? tip "How to read this table"
+
+    - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
+    - For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
+    - It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
 
 ## List of Relic Power Effects 
 
