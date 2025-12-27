@@ -15,6 +15,10 @@ All Cover,Active,True,Chance to beat single-target attacks in place of all allie
 All-Around Cover,Active,,"Chance to intercept single-target attacks aimed at all allies for 1 turn (affected by Luck). The user enters a defensive state. The defensive state granted by this skill is unaffected by duration-extending skills.","Defense Power Up incrementally added based on skill level. Turns added incrementally. Probability and Defense Power further increased.",67,Knight,Knight-specific,,
 Amnesiac Corpse Retriever,Discipline,,"Continuously increases each stat, with Attack Power, Magic Power, SP, and MP increased further.","Attack Power, Magic Power, SP, and MP further increased based on skill level.",,,,Iarumas,
 Anti-Adventurer Combat Technique,Passive,,Increases damage against adventurers and decreases damage from adventurers.,,,,,Chloe,
+
+
+Anticipated Attack,Active,True,"Minor physical attack on 1 enemy in which Surety occurs more easily. Efficacy increases with Attack Power and Accuracy. Bypasses Defense Power and guarantees Surety on enemies in preparation. Always hits enemies trying to evade, but damage is reduced.","",,,,Heinrico,
+
 Anticipation,Passive,,"Increases Evasion rate against physical attacks when targeted by the same enemy. Effect ends when an attack is received.","Evasion rate furnther increased based on skill level.",61,Samurai,"Samurai-specific, Katana-specific",,
 Apostle of Breaking Commandments,Passive,,"Increases Tolerance of Insta-Kill, Skill-Binding, and Spell-Binding for user and all adjacent dark type allies.",,,,,Red Beard,
 Apothecary's Knowledge,Discipline,,"Continuously increases each stat, HP and Poison Tolerance increased further.",HP and Poison Tolerance increased further based on skill level.,,,,Asha,
