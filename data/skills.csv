@@ -372,10 +372,9 @@ Way of the Thief,Passive,,Increases decisive damage during a decisive hit.,Decis
 Way of the Warrior,Passive,True,Increases close-range damage when equipped with close or mid-range weapon.,Damage increased further based on skill level.,25,Fighter,,,"Gandolfo, Ophelia"
 Wayfaring Hunter's Savvy,Passive,,"If there are 4 or more enemies during an ambush, for 1 turn, all allies greatly reduce damage taken 1 time.",,,,,Heinrico,
 Weaponmaster,Discipline,,Continuously increases each stat. Accuracy and Surety increased further.,Accuracy and Surety increased further based on skill level.,,,,Gandolfo,
-Wide Volley,Active,True,"","",,,,,,Hrlintic
 Wild Knight,Passive,,Continuously reduces the MP/SP cost of Knight spells/skills that cost 3-10 MP/SP.,,,,,Barbara,
 Wild Strike,Active,,"Major physical attack on 1 enemy. Afterward, own Action Speed is reduced.",Recovery amount increased based on skill level.,31,Fighter,Close/mid-range weapon-specific,,"Benjamin, Elise"
-Wild Throw,Active,,Minor physical attack on 3 random enemies.,Efficacy increased based on skill level.,10,Ninja,"Long-range weapon-specific, Ninja-specific",,Kiriha%
+Wild Throw,Active,,Minor physical attack on 3 random enemies.,Efficacy increased based on skill level.,10,Ninja,"Long-range weapon-specific, Ninja-specific",,Kiriha
 Will of the Millennial Lord,Discipline,,Continuously increases each stat. Magic Power and Action Speed increased further.,Magic Power and Action Speed increased further based on skill level.,,,,Adam,
 Will to Fight,Passive,True,"Increases Accuracy, Evasion, and Surety when HP is below a certain level.",Adds more affected stats based on skill level and Effects increased further.,36,Fighter,,Olive,
 Wisdom of the Crafty Old Dwarf,Discipline,,"Coninuously increases Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance. Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance increase amounts are reduced if learned by someone other than Aldric.","Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance increased further based on skill level.",,,,Aldric,
