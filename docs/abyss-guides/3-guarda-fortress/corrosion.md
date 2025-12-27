@@ -75,7 +75,7 @@ As part of the registration process the correct pair of Cursed Wheel nodes must 
 ??? note "Terminology"
 
     <div align="center">
-    ![](./img/xx.jpg)
+    <![](./img/xx.jpg)>
     </div>
 
 ??? warning "Summary" 
