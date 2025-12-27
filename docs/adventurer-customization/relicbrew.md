@@ -24,7 +24,7 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 
 Relics can be obtained by encountering relic monsters that can rarely appear anywhere in the game. A relic monster will always drop a chest after a battle. The chest will contain either the enemy's relic (~30%) or slag (~70%). Slag can be exchanged for relics in the Black Barrel Tavern's Slagpiece Exchange. Relic monsters are unique and only one can spawn per encounter.
 
-!!! warning "Relic Monsters"
+??? warning "Relic Monsters"
 
     ??? "Example"
         <div align="center">
@@ -81,7 +81,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ### Relic Power
 
-!!! warning "Overview"
+??? warning "Mechanics"
 
     A Relic Power is received after drinking a Relic Brew and has several unique properties: 
     
@@ -114,7 +114,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ### Extraction 
 
-!!! warning "An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality."
+##### Services
 
 ??? "Menu Guide"
     <div align="center">
@@ -122,16 +122,8 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     </div>
 
 - The Extraction service removes a currently equipped Relic Power for a fee.
-- There are 3 types of extraction services: Emergency, Standard, and Special. 
-
-##### Fortitude Penalty
-
-When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. If a Fortitude penalty is incurred a pop-up notification will appear after the extraction cutscene. 
-
-- Failure - Lose 5 max Fortitude for 2 weeks.
-- Success - Lose 1 max Fortitude for 2 weeks.
-- Great Success - No Fortitude loss.
-- The more expensive extraction services have a lower rate of failure. 
+- There are 3 types of extraction services: Emergency, Standard, and Special.
+- An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality.
 
 ##### Payment Options
 
@@ -140,32 +132,39 @@ When extracting a Relic Power there is a chance that something might go wrong an
 - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
 - Recommend to always use Special Extraction when possible.
 
+##### Potential Fortitude Penalty
+
+When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. If a Fortitude penalty is incurred a pop-up notification will appear after the extraction cutscene. 
+
+- Failure - Lose 5 max Fortitude for 2 weeks.
+- Success - Lose 1 max Fortitude for 2 weeks.
+- Great Success - No Fortitude loss.
+- The more expensive extraction services have a lower rate of failure. 
+
 ### Slagpiece Exchange
 
 The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is reset and randomly determined each week. The amount of slag you have accumulated is shown in the upper right-hand corner.  
 
-!!! warning "Overview"
+??? "Slagpiece Exchange Example"
 
-    ??? "Slagpiece Exchange Example"
+    <div align="center">
+    ![](img/relicebrew-slagshop.PNG)
+    </div>
     
-        <div align="center">
-        ![](img/relicebrew-slagshop.PNG)
-        </div>
-        
-    - Any relic in the game can appear, including one that is unique to the Exchange (Flower of the Abyss; MP and SP Up, ASPD Down).
-    - There are 4 rows of varying ★ quality with 3 relics per row.
-    - Standard costs per ★ quality:
-        - 4★: 1000 slag
-        - 3★: 400 slag
-        - 2★: 200 slag
-        - 1★: 100 slag
-    - Relics unique to the shop have double the standard cost.
-    - It is possible to have multiple copies of the same relic with different ★ quality.
-    - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
+- Any relic in the game can appear, including one that is unique to the Exchange (Flower of the Abyss; MP and SP Up, ASPD Down).
+- There are 4 rows of varying ★ quality with 3 relics per row.
+- Standard costs per ★ quality:
+    - 4★: 1000 slag
+    - 3★: 400 slag
+    - 2★: 200 slag
+    - 1★: 100 slag
+- Relics unique to the shop have double the standard cost.
+- It is possible to have multiple copies of the same relic with different ★ quality.
+- You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
     
 ## Penalties
 
-!!! warning "Relic Power Limitations"
+??? warning "Relic Power Limitations"
 
     - There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time.
     - Any 3 Relic Powers can be equipped with no side effects.
