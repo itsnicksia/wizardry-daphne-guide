@@ -26,6 +26,13 @@ Relics can be obtained by encountering relic monsters that can rarely appear any
 
 ##### Relic Monsters 
 
+??? "Relic Monster Example"
+    <div align="center">
+        ![](img/relicbrew-relic-monster.png)
+    </div>
+
+    - Denoted by a glowing pink-purple aura.
+
 - Encounters are rare (2%) and entirely RNG-dependent.
 - Have increased HP (~30%) and potentially other stats.
 - Only enemies in the front row can be relic monsters.
@@ -34,14 +41,7 @@ Relics can be obtained by encountering relic monsters that can rarely appear any
 - Can only drop its specific relic and not relics from other enemies.
 - Elemental variations will always drop the standard version's relic.
 - Relic ★ quality (1-4) is based on the level of the area. The vast majority of enemies will never drop a 4★ relic even in late game areas.
-- Adventurers and Warped enemies (aside from White Gluttonous Maw) cannot drop relics. 
-
-??? "Relic Monster"
-    <div align="center">
-        ![](img/relicbrew-relic-monster.png)
-    </div>
-
-    - Denoted by a glowing pink-purple aura  
+- Adventurers and Warped enemies (aside from White Gluttonous Maw) cannot drop relics.    
     
 ## Black Barrel Tavern
 
@@ -56,7 +56,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 ### Drink Relicbrew
 
-### Relicbrew Selection
+##### Relicbrew Selection
 
 The "Relicbrew" menu lists all of the relics in your inventory. The same relic with a different ★ quality is counted as a separate item and relicbrew. Selecting a relic will show you the name of the relicbrew, a brief description, and its associated Relic Power, if known. Each relicbrew provides a unique Relic Power in the form of a passive skill.
 
@@ -65,7 +65,7 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
         ![](img/relicbrew-definitions.png)
     </div>
 
-### How to Drink a Relicbrew 
+##### How to Drink a Relicbrew 
 
 ??? info "Menu Guide"
     <div align="center">
@@ -83,7 +83,7 @@ The "Relicbrew" menu lists all of the relics in your inventory. The same relic w
 
 ### Relic Power
 
-### Overview 
+#### Overview 
 
 A Relic Power is received after drinking a Relic Brew and has several unique properties: 
 
@@ -96,7 +96,7 @@ A Relic Power is received after drinking a Relic Brew and has several unique pro
 - Can be removed for a fee via extraction.
 - Level and accumulated experience is not lost if extracted, but you need to find and drink the same relicbrew again to reactivate.
 
-### Relic Power Menu
+#### Relic Power Menu
 
 ??? info "Menu Guide"
 
@@ -111,7 +111,9 @@ A Relic Power is received after drinking a Relic Brew and has several unique pro
     
 The initial "Relic Power" menu shows a list of all registered units. Selecting a character will display their active Relic Powers, level, and any alignment matches (bright pink text) in the upper right-hand corner. The "Extracted Relic Power" section lists previously equipped Relic Powers. Selecting any Relic Power will show its level, stat effects, current "Power Density" (experience), and the amount needed to reach the next level. At the bottom is the "Remove Power" option, which will take you to the extraction menu.   
 
-### Extraction 
+#### Extraction 
+
+##### Overview
 
 ??? info "Menu Guide"
     <div align="center">
@@ -149,13 +151,12 @@ When extracting a Relic Power there is a chance that something might go wrong an
 The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is reset and randomly determined each week. The amount of slag you have accumulated is shown in the upper right-hand corner.  
 
 - Any relic in the game can appear, including one that is unique to the Exchange (Flower of the Abyss; MP Up and SP Up, ASPD Down).
-- There are 4 rows with 3 relics per row.
-- Each row has a different rarity of relics.
+- There are 4 rows with 3 relics per row with a different rarity of relics.
 - Standard costs per rarity:
-  - 4★: 1000 slag
-  - 3★: 400 slag
-  - 2★: 200 slag
-  - 1★: 100 slag
+    - 4★: 1000 slag
+    - 3★: 400 slag
+    - 2★: 200 slag
+    - 1★: 100 slag
 - Relics unique to the shop have double the standard cost.
 - It is possible to have multiple copies of the same relic with different ★ quality.
 - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
@@ -190,8 +191,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 | 4 - 5             |     3,000    |      5,100     |
 | Total             |     5,100    |        -       |
 
-- Experience requirements grow significantly.
-- After level 3 the EXP required to take a Relic Power to:
+- Experience requirements grow significantly. After level 3 the EXP required to take a Relic Power to:
     - Level 4 is 1,200 EXP
     - Level 5 is 3,000 EXP
     - Level 6 is TBD
