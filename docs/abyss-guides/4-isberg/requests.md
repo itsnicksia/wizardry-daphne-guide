@@ -65,7 +65,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Witch Hunt<br>(1st Faction Request)<br/>
+### Witch Hunt (1st Faction Request)
 
 ##### Overview 
 
@@ -75,7 +75,7 @@ Upon returning to Isberg a messenger will ask you to return to Royal Capital Luk
 
 The objectives of each faction are different, but related to stopping the witch burnings and identifying its underlying cause. These faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Abysses.   
 
-!!! note "Important! Faction Affinity"
+??? note "Important! Faction Affinity"
 
     - Supporting a faction in a previous Abyss influences certain outcomes 
     - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
@@ -760,28 +760,21 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
       4. Large Brownish-Green Stone = Copper (not worth much)
       5. Black Stone = Coal (not worth much)
 
-!!! map "Ore Locations - Double marks = boss enemy guarding ore"
+??? map "Ore Locations"
 
     ![](./img/ore-mining-loc.jpg)
 
+    - Double marks = Boss enemy guarding ore
+
 ## Short Rest in the Cabin
 
-### Search for the Missing Persons<br>(2nd Faction Request)<br/>
+### Search for the Missing Persons (2nd Faction Request)
 
 ##### Overview 
 
-!!! warning "Unlocked upon reaching Route 9 for the first time"
+!!! warning "Unlocked upon reaching Route 9 for the first time."
 
-Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The primary goal is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
-
-- Accept the request from the faction representative twice when prompted
-- Guild > Request > Royal Capital > Accept the "Search for..." request at the bottom of the list
-- If you decline ("I'm busy") the faction representative will not appear again and the Cursed Wheel must be reset
-
-??? "How to Reset the Faction Request" 
-
-    - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
-    - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
+Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The primary goal is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. Agree to help twice when prompted. Head to the Guild > Request to accept the request. If you decline at any point the faciton representative will not appear again and the Cursed Wheel must be reset.  
 
 ??? warning "Best Ending Requirements"
 
@@ -793,64 +786,75 @@ Upon entering the Royal Capital the faction representative will appear to discus
         - The first body will be in poor condition and the request will end if the village adults have been captured
     - (Optional) Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search
 
+??? "How to Reset the Faction Request" 
+
+    - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
+    - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
+
 ??? danger "Warning! Blind Runs" 
 
     - Strongly recommend _not_ doing a blind run
     - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
     - Interactable ojbects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
-##### Princess Route (Search for Missing Royal Knights)
+##### Princess Route 
 
-1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
-3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
-4. Head to the house at the bottom middle of Route 3 (Where Mike, one of the adults, was killed by goblins). Enter the house and find the body of one of the Royal Knights.
-5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
-6. Head back to Route 3 and look for Wax Tablets in this order: (X:11, Y:25), (X:26, Y:24)
-7. Head to Route 7 from Route 6's Harken and find two more tablets in this order: (X:13, Y:23), (X:16, Y:22)
-8. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: (X:19, Y:7), (X:18, Y:19), (X:15, Y:24)
-9. Head from Route 7 to Route 9 via the left exit and head to the tablet at: (X:1, Y:7)
-10. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: (X:25, Y:4), (X:20, Y:5), (X:1, Y:9), (X:2,Y:15), (X:3, Y:24), (X:1, Y:24)
-11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
-12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
-13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
-14. Bring the head back to the Royal Capital to complete the request and receive some Gold, a unique piece of gear, and a bondmate.
+??? note "Search for Missing Royal Knights"
+
+    1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
+    2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
+    3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
+    4. Head to the house at the bottom middle of Route 3 (Where Mike, one of the adults, was killed by goblins). Enter the house and find the body of one of the Royal Knights.
+    5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
+    6. Head back to Route 3 and look for Wax Tablets in this order: (X:11, Y:25), (X:26, Y:24)
+    7. Head to Route 7 from Route 6's Harken and find two more tablets in this order: (X:13, Y:23), (X:16, Y:22)
+    8. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: (X:19, Y:7), (X:18, Y:19), (X:15, Y:24)
+    9. Head from Route 7 to Route 9 via the left exit and head to the tablet at: (X:1, Y:7)
+    10. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: (X:25, Y:4), (X:20, Y:5), (X:1, Y:9), (X:2,Y:15), (X:3, Y:24), (X:1, Y:24)
+    11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
+    12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
+    13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
+    14. Bring the head back to the Royal Capital to complete the request and receive some Gold, a unique piece of gear, and a bondmate.
 
 ##### Pontiff Route (A Search for Adherent Acquaintances)
 
-1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
-3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Vorpal Bunnies and collect the faction-related insignia on the floor.
-4. Harken to Route 5's Harken and walk to Route 6. Head to the house at the middle left (Where Otto, one of the adults, was). You will find the body in the backyard.
-5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
-6. Head back to Route 3 and look for Wax Tablets in this order: (X:2, Y:25), (X:11, Y:25), (X:23, Y:25)
-7. Head to Route 7 from Route 6's Harken and find two more tablets in this order: (X:13, Y:23), (X:16, Y:22)
-8. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: (X:19, Y:7), (X:18, Y:19), (X:15, Y:24)
-9. Head from Route 7 to Route 9 via the left exit and head to the tablet at: (X:1, Y:7)
-10. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: (X:25, Y:4), (X:20, Y:5), (X:1, Y:9), (X:2,Y:15), (X:3, Y:24), (X:1, Y:24)
-11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
-12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder by themselves. After taking a certain amount of damage, they will begin self-buffing. Each buff lasts 10 turns, and can knock previous buffs off (3 buff limit). Alternatively, you can dissipate the buffs yourself.
-13. Look into the pile of poop in the next room. Indicate that the person isn't in here. Reverse the nullstone and type "Noah" into the prompt.
-14. Head back to the Royal Capital to give the news. The husband will leave for the nullstone. The request is completed and you will receive some Gold and a unique piece of gear.
-15. Head back to the end of the Yeti Cave and interact with the husband and the nullstone. After a cutscene, you will receive a bondmate.
+??? note "A Search for Adherent Acquaintances" 
 
-##### Admiral Route (Search Bernard and Young Laurent)
+    1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
+    2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
+    3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Vorpal Bunnies and collect the faction-related insignia on the floor.
+    4. Harken to Route 5's Harken and walk to Route 6. Head to the house at the middle left (Where Otto, one of the adults, was). You will find the body in the backyard.
+    5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
+    6. Head back to Route 3 and look for Wax Tablets in this order: (X:2, Y:25), (X:11, Y:25), (X:23, Y:25)
+    7. Head to Route 7 from Route 6's Harken and find two more tablets in this order: (X:13, Y:23), (X:16, Y:22)
+    8. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: (X:19, Y:7), (X:18, Y:19), (X:15, Y:24)
+    9. Head from Route 7 to Route 9 via the left exit and head to the tablet at: (X:1, Y:7)
+    10. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: (X:25, Y:4), (X:20, Y:5), (X:1, Y:9), (X:2,Y:15), (X:3, Y:24), (X:1, Y:24)
+    11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
+    12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder by themselves. After taking a certain amount of damage, they will begin self-buffing. Each buff lasts 10 turns, and can knock previous buffs off (3 buff limit). Alternatively, you can dissipate the buffs yourself.
+    13. Look into the pile of poop in the next room. Indicate that the person isn't in here. Reverse the nullstone and type "Noah" into the prompt.
+    14. Head back to the Royal Capital to give the news. The husband will leave for the nullstone. The request is completed and you will receive some Gold and a unique piece of gear.
+    15. Head back to the end of the Yeti Cave and interact with the husband and the nullstone. After a cutscene, you will receive a bondmate.
 
-1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-2. Head to Mayor's House in Route 3 and obtain a faction-related sword + a key.
-3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Dragonflies and collect the faction-related insignia on the floor.
-4. Head to Route 4's Harken and walk to (X:16, Y:14). The father's body will be there.
-5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
-6. Head back to Route 3 and look for Wax Tablets in this order: (X:6, Y:17), (X:2,Y:2).
-7. Head to Route 2 from Route 3 and find a tablet at: (X:21, Y:19)
-8. Head to Route 7 from Route 6's Harken and find two more tablets in this order: (X:13, Y:23), (X:16, Y:22)
-9. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: (X:19, Y:7), (X:18, Y:19)
-10. Head from Route 7 to Route 9 via the left exit and head to the tablet at: (X:1, Y:7)
-11. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: (X:25, Y:4), (X:4, Y:3), (X:2,Y:15), (X:3, Y:24), (X:1, Y:24)
-12. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
-13. There will be a Bigfoot boss blocking your way. The fight has a normal Bigfoot in the front row and the Elder Bigfoot in the backrow. Upon taking enough damage, the Elder Bigfoot will summon another Bigfoot. He can do this multiple times.
-14. Look into the pile of poop in the next room. Dig deeper into the poo 3 times, in which you'll find the actual body of the son.
-15. Head back to the Royal Capital to deliver the dead body. Complete the request and receive some gold, some unique equipment, and a bondmate.
+##### Admiral Route 
+
+??? "Search Bernard and Young Laurent"
+
+    1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
+    2. Head to Mayor's House in Route 3 and obtain a faction-related sword + a key.
+    3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Dragonflies and collect the faction-related insignia on the floor.
+    4. Head to Route 4's Harken and walk to (X:16, Y:14). The father's body will be there.
+    5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
+    6. Head back to Route 3 and look for Wax Tablets in this order: (X:6, Y:17), (X:2,Y:2).
+    7. Head to Route 2 from Route 3 and find a tablet at: (X:21, Y:19)
+    8. Head to Route 7 from Route 6's Harken and find two more tablets in this order: (X:13, Y:23), (X:16, Y:22)
+    9. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: (X:19, Y:7), (X:18, Y:19)
+    10. Head from Route 7 to Route 9 via the left exit and head to the tablet at: (X:1, Y:7)
+    11. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: (X:25, Y:4), (X:4, Y:3), (X:2,Y:15), (X:3, Y:24), (X:1, Y:24)
+    12. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
+    13. There will be a Bigfoot boss blocking your way. The fight has a normal Bigfoot in the front row and the Elder Bigfoot in the backrow. Upon taking enough damage, the Elder Bigfoot will summon another Bigfoot. He can do this multiple times.
+    14. Look into the pile of poop in the next room. Dig deeper into the poo 3 times, in which you'll find the actual body of the son.
+    15. Head back to the Royal Capital to deliver the dead body. Complete the request and receive some gold, some unique equipment, and a bondmate.
 
 ## Being That Dwells in the Home of God
 
