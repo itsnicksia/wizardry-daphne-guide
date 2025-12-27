@@ -126,6 +126,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     - The initial Relic Power menu shows a list of all registered units, penalty status, and number of equipped Relic Powers.
 
     ??? "Select an Adventurer"
+        
         - Currently equipped (top) and extracted (bottom) Relic Powers
         - Relic power level 
         - Any alignment matches in bright pink text 
@@ -157,6 +158,9 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     - Failure - Lose 5 max Fortitude for 2 weeks.
     - Success - Lose 1 max Fortitude for 2 weeks.
     - Great Success - No Fortitude loss.
+
+    Note
+    
     - The more expensive extraction services have a lower rate of failure. 
     - A Fortitude penalty notification appear after the cutscene, if incurred.
 
@@ -193,8 +197,9 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     
 ## Penalties
 
-!!! warning "There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time."
+!!! warning "Penalty Mechanics"
 
+    - There is a limit to the number of Relic Powers an adventurer or the MC can have active at one time.
     - Any 3 Relic Powers can be equipped with no side effects.
     - A 4th can be safely added if the alignment (Good-Neutral-Evil) of the Relic Power and character match.
     - Additional Relic Powers beyond this limit will incur Stage 2 penalties immediately.
