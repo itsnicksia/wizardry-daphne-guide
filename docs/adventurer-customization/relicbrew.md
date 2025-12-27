@@ -146,6 +146,12 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 
 !!! warning "Overview"
 
+    ??? "Slagpiece Exchange Example"
+    
+        <div align="center">
+        ![](img/relicebrew-slagshop.PNG)
+        </div>
+        
     - Any relic in the game can appear, including one that is unique to the Exchange (Flower of the Abyss; MP and SP Up, ASPD Down).
     - There are 4 rows of varying ★ quality with 3 relics per row.
     - Standard costs per ★ quality:
@@ -157,12 +163,6 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     - It is possible to have multiple copies of the same relic with different ★ quality.
     - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
     
-    ??? "Slagpiece Exchange Example"
-    
-        <div align="center">
-            ![](img/relicebrew-slagshop.PNG)
-        </div>
-
 ## Penalties
 
 !!! warning "Relic Power Limitations"
@@ -174,15 +174,8 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     - The penalty stage (0-3) is indicated by the color of the swirl in the top left corner of the character portrait in the "Relic Powers" and "Drink Relicbrews" menu.
 
 ##### Penalty Stages
-        
-| Penalty Stage | Color  | Effect                                                                                     |         
-|:--------------| :------|:-------------------------------------------------------------------------------------------|
-| Stage 0       | Grey   | None                                                                                       |   
-| Stage 1       | White  | None (?)                                                                                   |      
-| Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
-| Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
 
-??? "Penalty Stages"
+??? "Penalty Stage Icons"
 
     === "Stage 0"
         ![](img/relicbrew-stage 0.PNG)
@@ -196,6 +189,12 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     === "Stage 3"
         ![](img/relicbrew-stage 3.PNG)
 
+| Penalty Stage | Color  | Effect                                                                                     |         
+|:--------------| :------|:-------------------------------------------------------------------------------------------|
+| Stage 0       | Grey   | None                                                                                       |   
+| Stage 1       | White  | None (?)                                                                                   |      
+| Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
+| Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
 - Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 Fortitude). There does not appear to be any other negative side effects outside of combat.
 - Note that the success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 50 and 20. Therefore, it is recommended to remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
 - The MC also has a hidden Fortitude value. Your MC's current, but not maximum, Fortitude can be viewed by your friends in the Tavern under "Friendships".
