@@ -125,7 +125,7 @@ In this game, Adventurer's Remains are used by the Masked Adventurer to resurrec
 | [Trade Waterways Abyss Monthly Respawning Remains](../tools/tracker.md)            | Monthly   |  1     | 1             | 
 | [Impregnable Fortress Abyss Monthly Respawning Remains](../tools/tracker.md)       | Monthly   |  1     | 1             | 
 | [Crucible Mausoleum](../abyss-guides/ancient-mausoleum/maps.md) Respawning Remains | Biweekly  |  4-6   | 8-12          | 
-| [Crucible Mausoleum Tallow Bone Summoning](../abyss-guides/ancient-mausoleum/maps.md##mausoleum-optional-enhancements) | Weekly  |  1   | 4   |     
+| [Crucible Mausoleum Tallow Bone Summoning](../abyss-guides/ancient-mausoleum/maps.md#mausoleum-optional-enhancements) | Weekly  |  1   | 4   |     
 |                                                                                    |           |        | -----         | 
 | Total                                                                              |           |        | 37-41         | 
 </div>
