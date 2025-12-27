@@ -65,13 +65,13 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Elden Hill (Witch Hunt) Faction Quests
+### Witch Hunt (1st Faction Request)
 
 ##### Overview 
 
 !!! warning "Unlocked after entering Route 4 for the first time"
 
-Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction quests take place in Elden Hill Village and share the same map (the Witch's Cave). 
+Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia. Go to the Guild and speak with Arna. If you do not leave immediately, then to accept the request in the future select "Talk" in the Guild. All of the faction requests take place in Elden Hill Village and share the same map (the Witch's Cave). 
 
 The objectives of each faction are different, but related to stopping the witch burnings and identifying its underlying cause. These faction quests are more complicated, darker in tone, and have a wider range of possible endings than in previous Abysses.   
 
@@ -84,7 +84,7 @@ The objectives of each faction are different, but related to stopping the witch 
 
     !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
 
-??? "How to Reset a Faction Quest" 
+??? "How to Reset the 1st Faction Request" 
 
     - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
     - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
@@ -110,8 +110,8 @@ The objectives of each faction are different, but related to stopping the witch 
     - Clear any Best ending (confirmed) 
     - The 2nd Guiding Light may be bugged as members have reported receiving it when:
         - Clearing all 3 Best endings; or,
-        - After defeating GWO (4th fight/true ending)
-        - If it does not appear try completing the other condition
+        - After defeating the GWO (4th fight/True ending)
+        - If it does not appear, then try the other condition
     - Max faction affinity is required (confirmed)  
     - A Guiding Light will dissolve if it's already been received 
     
@@ -489,7 +489,7 @@ The Pontiff route is a race against time to discover the identity of the witch t
 ##### Admiral Route
 
 !!! warning "Important!" 
-    - One of the endings may not have been identified yet as of 12/22
+    - One of the endings may not have been identified yet as of 12/26
     - The endings listed should be sufficient for getting at least 1 of the Guiding Lights (Luck)
 
 The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village. To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
@@ -766,19 +766,36 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 ## Short Rest in the Cabin
 
-### Search for the Missing Persons (Second Faction Request)
+### Search for the Missing Persons (2nd Faction Request)
 
 ##### Overview 
 
-!!! warning "Unlocked upon reaching Route 9 for the first time. You will need to have completed the 3rd run of Abyss 4 and have the knowledge of reversing nullstones to complete this fully. If you attempt to do this request after all the adults are found, the first body will always be in poor condition and the request will end there. It is also recommended to have mined the coal walls in Route 7 to speed up the request."
+!!! warning "Requirements"
 
-Upon returning to the Royal Capital after reaching Route 9, the faction representative for whatever route you're on will immediately talk to you about a concerning matter. Essentially, two people have gone missing and they need you to help find these people.
+    - Unlocked upon reaching Route 9 for the first time
+    - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
+    - Cursed Wheel - Short Rest in the Cabin 
+        - North Lakeshore Cabin - "Fixed it up"
+        - Dwarves'Cave - Any
+        - Village Adults - "Did not encounter them"
+        - If the village adults have been captured ("Secured all of them"), then the first body will be in poor condition and the request will end
+        - Setting max faction affinity does not appear to change any of the outcomes 
+    - (Optional) Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search
 
-You will need to look for traces of the missing people, eventually finding out why the factions called upon you, the Masked Adventurer, instead of employing their own.
+Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The primary goal is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
 
-!!! danger "It's extremely not recommended to do these requests blind the first time as a large chunk of the request requires you to blindly search for interactables in relatively random locations. These interactables tend to not have sound cues like normal interactables and typically do not appear unless directly on the tile they are on."
+- Select "What is it?" and "I'll do it"
+- Go to the Guild > Request > Royal Capital > Accept the "Search for..." request at the bottom of the list
+- If you decline ("I'm busy") the faction representative will not appear again and the Cursed Wheel must be reset
 
-##### Princess Route (Search for the Missing Royal Knights)
+??? "How to Reset the 2nd Faction Request" 
+
+    - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
+    - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
+
+!!! danger "Strongly recommend **not** doing blind runs. The majority of the request is searching for interactable items (white shiny stars) across multiple floors. They are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on their tile."  
+
+##### Princess Route (Search for Missing Royal Knights)
 
 1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
 2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + a key.
