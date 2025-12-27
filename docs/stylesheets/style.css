@@ -9,6 +9,10 @@
 }
 
 .md-typeset details {
-    font-size: .85rem;
+    font-size: .80rem;
     padding: 3px 8px;
+}
+
+.md-typeset .admonition {
+    font-size: .80rem;
 }
