@@ -776,7 +776,9 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The objective of all the requests is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
 
-Agree to help twice when prompted. Head to the Guild > Request to accept the request. If you decline at any point the faciton representative will not appear again and the Cursed Wheel must be reset.  
+- Agree to help twice when prompted
+- Head to the Guild > Request > Royal Capital > Accept the "Search for ..." request
+- If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset
 
 ??? "Best Ending Requirements"
 
