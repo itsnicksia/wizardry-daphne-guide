@@ -65,7 +65,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Witch Hunt (1st Faction Request)
+### Witch Hunt<br>(1st Faction Request)<br/>
 
 ##### Overview 
 
@@ -84,7 +84,7 @@ The objectives of each faction are different, but related to stopping the witch 
 
     !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
 
-??? "How to Reset the 1st Faction Request" 
+??? "How to Reset the Faction Request" 
 
     - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
     - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
@@ -766,34 +766,38 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 ## Short Rest in the Cabin
 
-### Search for the Missing Persons (2nd Faction Request)
+### Search for the Missing Persons<br>(2nd Faction Request)<br/>
 
 ##### Overview 
 
-!!! warning "Requirements"
+!!! warning "Unlocked upon reaching Route 9 for the first time"
 
-    - Unlocked upon reaching Route 9 for the first time
+Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The primary goal is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
+
+- Accept the request from the faction representative twice when prompted
+- Guild > Request > Royal Capital > Accept the "Search for..." request at the bottom of the list
+- If you decline ("I'm busy") the faction representative will not appear again and the Cursed Wheel must be reset
+
+??? "How to Reset the Faction Request" 
+
+    - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
+    - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
+
+??? warning "Best Ending Requirements"
+
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
     - Cursed Wheel - Short Rest in the Cabin 
         - North Lakeshore Cabin - "Fixed it up"
         - Dwarves'Cave - Any
         - Village Adults - "Did not encounter them"
-        - If the village adults have been captured ("Secured all of them"), then the first body will be in poor condition and the request will end
-        - Setting max faction affinity does not appear to change any of the outcomes 
+        - The first body will be in poor condition and the request will end if the village adults have been captured
     - (Optional) Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search
 
-Upon entering the Royal Capital the faction representative will appear to discuss a concerning matter. Two people have gone missing and they need your help finding them. The primary goal is to search for traces of the missing people and to discover why the faction called up you, the Masked Adventurer, instead of employing their own members. 
+??? danger "Warning! Blind Runs" 
 
-- Select "What is it?" and "I'll do it"
-- Go to the Guild > Request > Royal Capital > Accept the "Search for..." request at the bottom of the list
-- If you decline ("I'm busy") the faction representative will not appear again and the Cursed Wheel must be reset
-
-??? "How to Reset the 2nd Faction Request" 
-
-    - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
-    - On subsequent runs select "Did not take the request" under the "Search for..." sub-menu
-
-!!! danger "Strongly recommend **not** doing blind runs. The majority of the request is searching for interactable items (white shiny stars) across multiple floors. They are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on their tile."  
+    - Strongly recommend _not_ doing a blind run
+    - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
+    - Interactable ojbects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
 ##### Princess Route (Search for Missing Royal Knights)
 
