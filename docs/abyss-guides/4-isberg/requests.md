@@ -42,16 +42,13 @@ This request has no pre-requisites to accept.
     - The objective now is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
 
     - ??? map "Hidden Item Locations"
-
           <div align="center">
           ![](./img/find-my-sister-collectibles.PNG)
           </div>
-
           - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
           - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
     
     - ??? "Enemy Locations"
-
           - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
           - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
           - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
@@ -69,7 +66,6 @@ This request has no pre-requisites to accept.
      - Head back to the Guild and speak with Marta to view the perfect ending. 
 
      - ??? tip "Rewards"
-     
            - Achievement - "The Two are Always Together"
            - Bondmate - Maya and Auntie Marta (Fear Tolerance)
            - 12,000 Gold   
