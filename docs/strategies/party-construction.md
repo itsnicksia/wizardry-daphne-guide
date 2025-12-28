@@ -221,6 +221,28 @@ These are some parties I have personally and successfully used to clear progress
         - Rinne (Thief/Ninja)
         - Shelirionach (Mage)
 
+??? note "First Abyss 4 Boss Fight"
+
+    - Front Row
+        - MC (Priest)
+        - Shiou (Samurai)
+        - Livana (Knight/Fighter)
+    - Back Row
+        - Yuzunamiki (Ninja)
+        - Rinne (Thief/Ninja)
+        - Shelirionach (Mage/Priest)
+
+??? note "Ranger Released"
+
+    - Front Row
+        - MC (Ninja)
+        - Rinne (Ninja/Thief)
+        - Shiou (Samurai/Fighter)
+    - Back Row
+        - Yrsa (Ranger)
+        - Yuzunamiki (Ninja)
+        - Shelirionach (Priest/Mage)
+
 ### Additional Considerations
 
 Now that you've decided on your party formation, there are two other major components. Equipment and Skill Inheritance.
