@@ -32,14 +32,14 @@ This request has no pre-requisites to accept.
     - The nullstone in the upper left-hand corner of Route 3 cannot be already reversed before you accept the request
     - Cursed Wheel - Short Rest in the Cabin
         - North Lakeshore Cabin - "Fixed it up" as Maya needs to be accessible 
-        - Village Adults - "Secured all of them" will remove spike traps in Rockhome Village (optional)
+        - Village Adults - "Secured all of them" will remove the spike traps in Rockhome Village (optional)
 
 ??? "Request Guide"
 
     - Accept the request from Marta and go to Route 3.
-    - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk, and then tap on the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
+    - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
-    - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) hidden box is not accessible until the end of the request. 
+    - The objective now is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) hidden box is not accessible until the end of the request. 
 
         ??? map "Hidden Item Locations"
     
@@ -52,13 +52,13 @@ This request has no pre-requisites to accept.
         
         ??? "Enemy Locations"
     
-            1) Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
-            2) Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
-            3) Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
-            4) Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
-            5) Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
-            6) Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
-            7) Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
+            1. Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
+            2. Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
+            3. Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
+            4. Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
+            5. Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
+            6. Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
+            7. Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
         
      - Reverse the nullstone in the backyard of the upper-left house. If you cannot do so, then the request will fail upon exiting.
      - If you have finished all the listed steps, then Lulu will inform you the request is completed. 
@@ -68,11 +68,11 @@ This request has no pre-requisites to accept.
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
      - Head back to the Guild and speak with Marta to view the perfect ending. 
 
-         ??? tip "Rewards"
-    
-             - Achievement - "The Two are Always Together"
-             - Bondmate - Maya and Auntie Marta (Fear Tolerance)
-             - 12,000 Gold   
+        ??? tip "Rewards"
+        
+            - Achievement - "The Two are Always Together"
+            - Bondmate - Maya and Auntie Marta (Fear Tolerance)
+            - 12,000 Gold   
 
 ## Rockhome Village Major Harken
 
@@ -812,12 +812,11 @@ Upon entering the Royal Capital the faction representative will appear to discus
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
-        - Cursed Wheel: Rest in the Cabin
-            - North Lakeshore Cabin: "Fixed it up"
-            - Dwarves' Cave: Any
-            - Village Adults: "Did not encounter them"
-                - If the village adults have been captured, then the first body will be in poor condition and the request will end 
-                - This outcome is a node in the Cursed Wheel and can be missed 
+        - Cursed Wheel - Short Rest in the Cabin
+            - North Lakeshore Cabin - "Fixed it up"
+            - Dwarves' Cave - Any
+            - Village Adults - "Did not encounter them"
+                - If the village adults have been captured, then the first body will be in poor condition and the request will end. This outcome is a node in the Cursed Wheel and can be missed 
     
     ??? "Reset Faction Request" 
     
