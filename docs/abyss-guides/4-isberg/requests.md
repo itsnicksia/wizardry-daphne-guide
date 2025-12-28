@@ -27,12 +27,12 @@ This request has no pre-requisites to accept.
 
 ??? warning "Perfect Ending Requirements"
 
-    - No pre-requisite quests
+    - No pre-requisite requests
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
     - The nullstone in the upper left-hand corner of Route 3 cannot be already reversed before you accept the request
-    - Cursed Wheel: Short Rest in the Cabin
-        - North Lakeshore Cabin: "Fixed it up" - Maya needs to be accessible to visit her mother and aunt
-        - Village Adults: "Secured all of them" - Removes spike traps in Rockhome Village (optional)
+    - Cursed Wheel - Short Rest in the Cabin
+        - North Lakeshore Cabin - "Fixed it up" as Maya needs to be accessible 
+        - Village Adults - "Secured all of them" will remove spike traps in Rockhome Village (optional)
 
 ??? "Request Guide"
 
@@ -41,38 +41,38 @@ This request has no pre-requisites to accept.
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
     - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) hidden box is not accessible until the end of the request. 
 
-    ??? map "Hidden Item Locations"
-
-        <div align="center">
-        ![](./img/find-my-sister-collectibles.PNG)
-        </div>
-
-        - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
-        - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
+        ??? map "Hidden Item Locations"
     
-    ??? "Enemy Locations"
-
-        - Fight 1 - Outside the Mayor's house: 3 Hobgoblins frontline, 3 Goblins backline
-        - Fight 2 - Path behind Mayor's house: 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
-        - Fight 3 - Top left house area: 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
-        - Fight 4 - Bottom right house area: 3 Hobgoblins frontline, 3 Goblins backline
-        - Fight 5 - Bottom middle house area: 2 Goblins frontline, 2 Goblins backline
-        - Fight 6 - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
-        - Fight 7 - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
+            <div align="center">
+            ![](./img/find-my-sister-collectibles.PNG)
+            </div>
+    
+            - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
+            - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
+        
+        ??? "Enemy Locations"
+    
+            1) Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
+            2) Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
+            3) Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
+            4) Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
+            5) Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
+            6) Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
+            7) Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
         
      - Reverse the nullstone in the backyard of the upper-left house. If you cannot do so, then the request will fail upon exiting.
-     - If you completed all the tasks, then Lulu will inform you the request is completed. 
-     - Return to the Guild to submit the request to receive 5,000 Gold, 1 Junk, and 20 Gems of Org (first time only).
-     - Head to Route 9, enter the Cabin, and speak to Maya by the fire. Now return with Maya to the top left nullstone in Route 3 to watch a the cutscene.
-     - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops and Hobgoblin in the frontline, 3 Ice Slimes backline.
-     - Pick up the last hidden box further down the path at (X:0, Y:16). Speak with Maya and the Stonefolk for a cutscene. 
-     - Return to the tavern and speak with Marta to view the perfect ending. 
+     - If you have finished all the listed steps, then Lulu will inform you the request is completed. 
+     - Return to the Guild, submit the request, and receive 5,000 Gold, 1 Junk, and 20 Gems of Org (one time only).
+     - Head to Route 9, enter the Cabin, and speak to Maya by the fire. Return with Maya to the top left nullstone in Route 3 to watch a cutscene.
+     - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
+     - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
+     - Head back to the Guild and speak with Marta to view the perfect ending. 
 
-     ?? tip "Rewards"
-
-         - Achievement - "The Two are Always Together"
-         - Bondmate - Maya and Auntie Marta (Fear Tolerance)
-         - 12,000 Gold   
+         ??? tip "Rewards"
+    
+             - Achievement - "The Two are Always Together"
+             - Bondmate - Maya and Auntie Marta (Fear Tolerance)
+             - 12,000 Gold   
 
 ## Rockhome Village Major Harken
 
@@ -93,7 +93,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Witch Hunt in Elden Hill (1st Faction Request)
+### Witch Hunt in Elden Hill Village (1st Faction Request)
 
 ##### Overview 
 
@@ -812,10 +812,10 @@ Upon entering the Royal Capital the faction representative will appear to discus
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
-        - Set Cursed Wheel to Short Rest in the Cabin
-            - North Lakeshore Cabin - "Fixed it up"
-            - Dwarves' Cave - Any
-            - Village Adults - "Did not encounter them"
+        - Cursed Wheel: Rest in the Cabin
+            - North Lakeshore Cabin: "Fixed it up"
+            - Dwarves' Cave: Any
+            - Village Adults: "Did not encounter them"
                 - If the village adults have been captured, then the first body will be in poor condition and the request will end 
                 - This outcome is a node in the Cursed Wheel and can be missed 
     
