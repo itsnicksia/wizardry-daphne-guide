@@ -2,9 +2,18 @@
 
 ## Requirements
 
- !!! warning "Reach Isberg, the fourth Abyss main town, to unlock this request in the Royal Capita."
+!!! warning "Reach Isberg, the fourth Abyss main town, to unlock in the Royal Capital."
 
-## Maps
+## Guide
+
+Three runs are necessary to fully complete the request "Bring Me an Alabaster Pelt". You gain knowledge on the 1st and 2nd runs that allows you to fulfill the conditions for the Good and True endings.
+
+??? "Reset Request"
+    Ruins > Cursed Wheel > Special Request (bottom corner) > Alabaster Hunting
+
+!!! bug "At the moment, it is possible to softlock the game by stepping on a spike trap in this cave. It can be resolved by restarting the game."
+
+##### Alabaster Wolf Den 
 
 ??? map "B1F"
     ![](./img/alabaster-wolf-den-b1f.jpg)
@@ -14,13 +23,6 @@
 
 ??? map "B3F"
     ![](./img/alabaster-wolf-den-b3f.jpg)
-
-## Guide
-
-There are three runs necessary to fully complete this request. The request is not able to be completed until then, as you will gain knowledge necessary on the 1st and 2nd run.
-
-!!! note "Request Reset: Ruins > Cursed Wheel > Special Request (bottom corner) > Alabaster Hunting"
-!!! bug "At the moment, it is possible to softlock the game by stepping on a spike trap in this cave. It can be resolved by restarting the game."
 
 ### 1st Run 
 
