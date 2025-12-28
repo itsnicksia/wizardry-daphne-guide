@@ -41,7 +41,7 @@ This request has no pre-requisites to accept.
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
     - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) hidden box is not accessible until the end of the request. 
 
-    ?? map "Hidden Item Locations"
+    ??? map "Hidden Item Locations"
 
         <div align="center">
         ![](./img/find-my-sister-collectibles.PNG)
@@ -50,7 +50,7 @@ This request has no pre-requisites to accept.
         - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
         - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
     
-    ?? "Enemy Locations"
+    ??? "Enemy Locations"
 
         - Fight 1 - Outside the Mayor's house: 3 Hobgoblins frontline, 3 Goblins backline
         - Fight 2 - Path behind Mayor's house: 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
