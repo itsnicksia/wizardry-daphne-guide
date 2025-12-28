@@ -41,24 +41,24 @@ This request has no pre-requisites to accept.
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
     - The objective now is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
 
-        ??? map "Hidden Item Locations"
+    ??? map "Hidden Item Locations"
+
+        <div align="center">
+        ![](./img/find-my-sister-collectibles.PNG)
+        </div>
+
+        - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
+        - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
     
-            <div align="center">
-            ![](./img/find-my-sister-collectibles.PNG)
-            </div>
-    
-            - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
-            - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
-        
-        ??? "Enemy Locations"
-    
-            - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
-            - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
-            - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
-            - Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
-            - Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
-            - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
-            - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
+    ??? "Enemy Locations"
+
+        - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
+        - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
+        - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
+        - Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
+        - Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
+        - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
+        - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
         
      - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
      - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
@@ -68,11 +68,11 @@ This request has no pre-requisites to accept.
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
      - Head back to the Guild and speak with Marta to view the perfect ending. 
 
-        ??? tip "Rewards"
-        
-            - Achievement - "The Two are Always Together"
-            - Bondmate - Maya and Auntie Marta (Fear Tolerance)
-            - 12,000 Gold   
+     - ??? tip "Rewards"
+    
+          - Achievement - "The Two are Always Together"
+          - Bondmate - Maya and Auntie Marta (Fear Tolerance)
+          - 12,000 Gold   
 
 ## Rockhome Village Major Harken
 
