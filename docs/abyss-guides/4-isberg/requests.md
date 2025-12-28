@@ -1,12 +1,7 @@
 # Deepersnow Hinterlands
 
 !!! warning "Work In Progress"
-    - This page is updated regularly as we correct and add additional information
-    - Ctrl + F5 to refresh the page
-
-## Rare Ore Recovery Request
-
-## Deepsnow Hinterlands Entrance
+    - Ctrl + F5 to refresh the page for new updates
 
 ## Snowy Forest Minor Harken
 
@@ -41,21 +36,24 @@ This request has no pre-requisites to accept.
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
     - The objective now is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
 
-    - ??? map "Hidden Item Locations"
-          <div align="center">
-          ![](./img/find-my-sister-collectibles.PNG)
-          </div>
-          - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
-          - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
+    ??? map "Hidden Item Locations"
     
-    - ??? "Enemy Locations"
-          - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
-          - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
-          - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
-          - Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
-          - Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
-          - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
-          - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
+        <div align="center">
+        ![](./img/find-my-sister-collectibles.PNG)
+        </div>
+        
+        - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
+        - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
+    
+    ??? "Enemy Locations"
+    
+        - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
+        - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
+        - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
+        - Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
+        - Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
+        - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
+        - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
         
      - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
      - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
@@ -65,12 +63,11 @@ This request has no pre-requisites to accept.
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
      - Head back to the Guild and speak with Marta to view the perfect ending. 
 
-     - ??? tip "Rewards"
-           - Achievement - "The Two are Always Together"
-           - Bondmate - Maya and Auntie Marta (Fear Tolerance)
-           - 12,000 Gold   
-
-## Rockhome Village Major Harken
+    ??? tip "Rewards"
+    
+        - Achievement - "The Two are Always Together"
+        - Bondmate - Maya and Auntie Marta (Fear Tolerance)
+        - 12,000 Gold   
 
 ## Blizzard Blocking the Path
 
@@ -89,7 +86,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Witch Hunt in Elden Hill Village (1st Faction Request)
+### Witch Hunts in Elden Hill (1st Faction Request)
 
 ##### Overview 
 
@@ -155,7 +152,14 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
         - Enemy level is 65
         - Some chests have high Find/Trap Disarm requirements even at 150/150
-    
+        
+    ??? "Sleep Tiles"  
+        
+        - A new dungeon mechanic that limits traversal 
+        - After 10 steps you will lose consciousness and be teleported back to your starting point 
+        - During an enemy encounter all team members will be asleep at the start of battle  
+        - Aggro and bait enemies onto normal tiles for easier fights
+
     ??? map "The Witch's Cave - B1F"    
         <div align="center">
         ![](./img/witchs-cave-b1f.png)
@@ -184,12 +188,6 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 ![](./img/princess-sleepmoss.png)
                 </div>
                 
-            ??? "Sleep Tiles" 
-            
-                - After 10 steps you will lose consciousness and be teleported back to your starting point 
-                - During an enemy encounter all team members will be asleep at the start of battle  
-                - Aggro and bait enemies onto normal tiles for easier fights
-            
         - Use the small islands of normal tiles to reset the 10 step counter to progress deeper into the area 
         - Exit 
         - Speak to the Herbalist in town
@@ -227,14 +225,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
 
         - Head north and take the stairs to B1F
-        - Go south through the "sleepy tunnel" area (blue bubble tiles)
-    
-            ??? "Sleep Tiles" 
-        
-                - After 10 steps you will lose consciousness and be teleported back to your starting point 
-                - During an enemy encounter all team members will be asleep at the start of battle  
-                - Aggro and bait enemies onto normal tiles for an easier battle
-                    
+        - Go south through the "sleepy tunnel" area (blue bubble tiles)                    
         - The Slatewillow is in front of the teleporter and will be automatically picked up
         - Exit 
         - Speak with Raimi in town  
@@ -735,8 +726,6 @@ This request doesn't have any pre-requisites.
       2. 1st battle = 3 Goblins frontline + 1 Hobber backline. 2nd battle = 3 Snow Slimes frontline, 3 Ice Clouds in the middle, 2 Ice Clouds backline. 3rd Battle = 2 Snow Hawks frontline, 2 Snow Hawks in the middle, 2 Big Snow Hawks backline.
 - Once all 3 battles are completed, you are teleported back to the tavern with the requests completed. You will obtain some gold and an ice-wind trout.
 - While the conditions are not entirely known, some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen). Upon completion, you will get an Ultimate Ice-Wind Trout instead, which heals slightly more than the normal trout. In addition, you will get a bondmate.
-
-## Lakeshore Camp
 
 ## Slaying the White Wolves
 
