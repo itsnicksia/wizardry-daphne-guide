@@ -804,22 +804,22 @@ Upon entering the Royal Capital the faction representative will appear to discus
 
 ??? "Bigfoot Cave"
 
-??? "Summary"
-
-    - Location of the second missing person for all 3 faction requests
-    - Requires knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
-    - Map completion resets upon Cursed Wheeling
-    - Mandatory Bigfoot boss fight
-    - Not a mob dense area during the request with few fights on the path to the boss's room 
-    - Primary danger is being Chilled or Frozen before reaching the boss
-    - Enemy level is 70
-    - Enemis: Bigfoot, Bigfoot Child, Ice Cloud, Snow Slime, Abyssal Insects, Ice and Earth Entities
-
-??? map "Bigfoot Cave"
-
-    <div align="center">
-    ![](./img/bigfoot-cave.png)
-    </div>
+    ??? "Summary"
+    
+        - Location of the second missing person for all 3 faction requests
+        - Requires knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
+        - Map completion resets upon Cursed Wheeling
+        - Mandatory Bigfoot boss fight
+        - Not a mob dense area during the request with few fights on the path to the boss's room 
+        - Primary danger is being Chilled or Frozen before reaching the boss
+        - Enemy level is 70
+        - Enemis: Bigfoot, Bigfoot Child, Ice Cloud, Snow Slime, Abyssal Insects, Ice and Earth Entities
+    
+    ??? map "Bigfoot Cave"
+    
+        <div align="center">
+        ![](./img/bigfoot-cave.png)
+        </div>
 
 ##### Faction Request Guides 
 
