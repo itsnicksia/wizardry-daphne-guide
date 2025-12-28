@@ -25,26 +25,54 @@ This request has no pre-requisites to accept.
 
 ### Find My Sister Lisa
 
-This request has no pre-requisites to accept. However, to fully complete it, you will need to have successfully obtained the knowledge of reversing nullstones. It's also recommended to complete this request when you have already saved the children from the mines and have fully built the hut for them.
+??? warning "Perfect Ending Requirements"
 
-- Obtain the request and go to Route 3 Harken.
-- Head to the mayor's house at the middle of the map. Obtain the Town Register from the desk, and then tap on the shiny object on the bottom right of the bookcase for a box, crude map, and a doll.
-- Step outside and watch a cutscene of hostile animals showing up to the town.
-- You will now need to kill all the mobs throughout the town, as well as finding all the objects at the X locations on the crude map BESIDES the top left one. The locations for the interactables are (X:7,Y:10) and (X:21,Y:1).
+    - No pre-requisite quests
+    - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
+    - The nullstone in the upper left-hand corner of Route 3 cannot be already reversed before you accept the request
+    - Cursed Wheel: Short Rest in the Cabin
+        - North Lakeshore Cabin: "Fixed it up" - Maya needs to be accessible to visit her mother and aunt
+        - Village Adults: "Secured all of them" - Removes spike traps in Rockhome Village (optional)
 
-    1. Fight outside Mayor's house: 3 Goblins frontline, 3 Goblins backline
-    2. Fight in alley behind Mayor's house: 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Baby Yeti + Ice Slime backline.
-    3. Fight in top left house area: 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Baby Yeti backline.
-    4. Fight in bottom right house area: 3 Hobbers frontline, 3 Goblins backline
-    5. Fight 1 in bottom middle house area: 2 Goblins frontline, 2 Goblins backline
-    6. Fight 2 in bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
-    7. Fight in bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Baby Yetis in backline
+??? "Request Guide"
+
+    - Accept the request from Marta and go to Route 3.
+    - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk, and then tap on the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
+    - Step outside and watch a cutscene of hostile animals and monsters invading the town.
+    - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) hidden box is not accessible until the end of the request. 
+
+    ?? map "Hidden Item Locations"
+
+        <div align="center">
+        ![](./img/find-my-sister-collectibles.PNG)
+        </div>
+
+        - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
+        - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
     
- - You must also reverse the nullstone at the top left. If you cannot do so, the game will refuse to acknowledge that the request is complete and you will fail upon leaving the area.
- - If you completed all the previous tasks, Lulu will let you know its all completed. Head back to the tavern to turn in the request.
- - Head to the Route 9 Hut and pick up the little girl by the fire. Head to the top left nullstone in Route 3 and let the cutscene play out.
- - The route is now open and go down the path. Prepare to fight. The fight has a Snowpeak Cyclops + Hobber in the frontline + 3 Ice Slimes in the backline.
- - Pick up the last box a bit further down at (X:0, Y:16) and walk back to the nullstone for a cutscene. Return to the tavern and give the box and child to Marta for a bondmate + perfect completion.
+    ?? "Enemy Locations"
+
+        - Fight 1 - Outside the Mayor's house: 3 Hobgoblins frontline, 3 Goblins backline
+        - Fight 2 - Path behind Mayor's house: 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
+        - Fight 3 - Top left house area: 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
+        - Fight 4 - Bottom right house area: 3 Hobgoblins frontline, 3 Goblins backline
+        - Fight 5 - Bottom middle house area: 2 Goblins frontline, 2 Goblins backline
+        - Fight 6 - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
+        - Fight 7 - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
+        
+     - Reverse the nullstone in the backyard of the upper-left house. If you cannot do so, then the request will fail upon exiting.
+     - If you completed all the tasks, then Lulu will inform you the request is completed. 
+     - Return to the Guild to submit the request to receive 5,000 Gold, 1 Junk, and 20 Gems of Org (first time only).
+     - Head to Route 9, enter the Cabin, and speak to Maya by the fire. Now return with Maya to the top left nullstone in Route 3 to watch a the cutscene.
+     - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops and Hobgoblin in the frontline, 3 Ice Slimes backline.
+     - Pick up the last hidden box further down the path at (X:0, Y:16). Speak with Maya and the Stonefolk for a cutscene. 
+     - Return to the tavern and speak with Marta to view the perfect ending. 
+
+     ?? tip "Rewards"
+
+         - Achievement - "The Two are Always Together"
+         - Bondmate - Maya and Auntie Marta (Fear Tolerance)
+         - 12,000 Gold   
 
 ## Rockhome Village Major Harken
 
