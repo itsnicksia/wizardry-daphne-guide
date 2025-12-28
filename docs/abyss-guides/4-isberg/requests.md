@@ -29,17 +29,17 @@ This request has no pre-requisites to accept.
 
     - No pre-requisite requests
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
-    - The nullstone in the upper left-hand corner of Route 3 cannot be already reversed before you accept the request
+    - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
     - Cursed Wheel - Short Rest in the Cabin
         - North Lakeshore Cabin - "Fixed it up" as Maya needs to be accessible 
         - Village Adults - "Secured all of them" will remove the spike traps in Rockhome Village (optional)
 
 ??? "Request Guide"
 
-    - Accept the request from Marta and go to Route 3.
+    - Accept the request from Marta at the Guild and go to Route 3.
     - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
-    - The objective now is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) hidden box is not accessible until the end of the request. 
+    - The objective now is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
 
         ??? map "Hidden Item Locations"
     
@@ -52,18 +52,18 @@ This request has no pre-requisites to accept.
         
         ??? "Enemy Locations"
     
-            1. Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
-            2. Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
-            3. Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
-            4. Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
-            5. Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
-            6. Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
-            7. Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
+            - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
+            - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
+            - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
+            - Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
+            - Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
+            - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
+            - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
         
-     - Reverse the nullstone in the backyard of the upper-left house. If you cannot do so, then the request will fail upon exiting.
-     - If you have finished all the listed steps, then Lulu will inform you the request is completed. 
+     - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
+     - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
      - Return to the Guild, submit the request, and receive 5,000 Gold, 1 Junk, and 20 Gems of Org (one time only).
-     - Head to Route 9, enter the Cabin, and speak to Maya by the fire. Return with Maya to the top left nullstone in Route 3 to watch a cutscene.
+     - Head to Route 9, enter the Cabin, and speak with Maya by the fire. Return with Maya to the top left nullstone in Route 3 to watch a cutscene.
      - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
      - Head back to the Guild and speak with Marta to view the perfect ending. 
@@ -808,7 +808,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
 
 ??? warning "Important Notes"
 
-    ??? "Best Ending Requirements"
+    ??? warning "Best Ending Requirements"
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
