@@ -256,7 +256,7 @@ Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 
 | Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Big Snow Hawk          | Wind-Cutting Raptor Twisted Gleamblight | 4094              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Twisted Spiritcoral          | 4095              |
 | Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4097              |
-| ?                                          | MP Up, Fire Res Down                 | Good        | Snow Wolf Leader       | ?                                       | ?                 |
+| Azure Blood of the Ice Wolf Lord           | MP Up, Fire Res Down                 | Good        | Snow Wolf Leader       | Ice Wolf Lord Twisted Cursefruit        | 4098              |
 | Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Twisted Core                | 4099              |
 
 ## Relic Power Stat Increases
