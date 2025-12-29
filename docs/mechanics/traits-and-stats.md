@@ -221,7 +221,7 @@ Strength+ is a unique property that appears on 2h weapons that adds a portion of
 | -------------- | -------------------- | ------------------------- |
 | Steel or Lower | 0.75                 | STR * ClassMod * 0.75     |
 | Ebonsteel      | 1                    | STR * ClassMod * 1        |
-| Unnamed Tier   | 1.1                  | STR * ClassMod * 1.1      |
+| Silver         | 1.1                  | STR * ClassMod * 1.1      |
 
 ## Resistance
 
