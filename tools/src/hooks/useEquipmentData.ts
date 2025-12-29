@@ -3,7 +3,7 @@ import type { EquipmentData, IndexedEquipment, IndexedGarakuta } from '../types/
 import { buildEquipmentIndex, buildGarakutaIndex } from '../loot-finder/utils/buildIndex';
 
 const DATA_URL =
-    'https://raw.githubusercontent.com/itsnicksia/wizardry-daphne-guide/refs/heads/main/tools/equipment-en.json';
+    'https://raw.githubusercontent.com/itsnicksia/wizardry-daphne-guide/refs/heads/main/tools/data/equipment-en.json';
 
 interface UseEquipmentDataResult {
     allEquipment: IndexedEquipment[];
