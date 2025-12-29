@@ -60,7 +60,7 @@
 
     - No pre-requisite requests
 
-    **"Perfect" Ending Requirements**
+    "Perfect" Ending Requirements:
     
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
     - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
@@ -126,13 +126,11 @@
 ??? "Request Guide" 
 
     - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment to help lure the kitty home.
-    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. 
-    - The challenge is that the white Nullshadow will pursue you as you search. It often apepars behind you immediately after entering a blizzard area.
+    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often apepars behind you immediately after entering a blizzard area.
     - Running away more than twice will result in request failure. Instead let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard areas have small side areas of 1-2 normal tiles that will also despawn the Nullshadow. 
+    - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
 
-        ??? "Meow-chanics"
-        
-            Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards.
+        ??? "Meow-chanics ₍^. .^₎"
         
             - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
             - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
