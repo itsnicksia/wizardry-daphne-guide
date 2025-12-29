@@ -13,7 +13,7 @@
     
 ??? warning "How to Acquire"
 
-    - [Recovery of Salted Pork](./docs/abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
+    - [Recovery of Salted Pork](../../../abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
     - Must choose to "Spare" the Bigfoot and its child at the end of the request
 
 ??? "Skill - Primal Sense of Aim - Accuracy"
@@ -34,16 +34,20 @@
 
 ??? warning "How to Acquire"
 
-    - [Find My Sister Lisa](./docs/abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
+    - [Find My Sister Lisa](../../../abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
     - Requires the "Perfect Ending"
 
 ??? "Skill - Late Sister's Child - Fear Tolerance"
 
+    <figure markdown>
     ![](./img/maya-and-marta-skill.PNG)
+    </figure>
 
 ??? "Portrait"
 
+    <figure markdown>
     ![](./img/maya-and-marta.png)
+    </figure>
 
 ## Rockhome Major Harken 
 
@@ -63,50 +67,62 @@
 
 ??? warning "How to Acquire"
 
-    - [Search for Missing Royal Knights](./docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+    - [Search for Missing Royal Knights](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
     - Princess Route
     - Requires finding the second missing person
 
 ??? "Skill - Prized Brother's Swordmanship - Attack Power"
 
+    <figure markdown>
     ![](./img/elliot-skill.png)
+    </figure>
 
 ??? "Portrait"
 
+    <figure markdown>
     ![](./img/elliot.png)
+    </figure>
 
 ### William, the Remorseful Husband 
 
 ??? warning "How to Acquire"
 
-    - [Search for Adherent Acquaintances](./docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+    - [Search for Adherent Acquaintances](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
     - Pontiff Route
     - Requires finding the second missing person
 
 ??? "Skill - William's Prayer - Divine Power"
 
+    <figure markdown>
     ![](./img/william-skill.png)
+    </figure>
 
 ??? "Portrait"
 
+    <figure markdown>
     ![](./img/william.png)
+    </figure>
 
 ### Bernard, Farther Restored to Life 
 
 ??? warning "How to Acquire"
 
-    - [Search Bernard and Young Laurent](./docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+    - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
     - Admiral Route
     - Requires finding the second missing person
 
-??? "Skill - "Bernard's Survival - Magic Power"
+??? "Skill - "Bernard's Survival Savvy- Magic Power"
 
+    <figure markdown>
     ![](./img/bernard-skill.png)
+    </figure>
 
 ??? "Portrait"
 
+    <figure markdown>
     ![](./img/bernard.png)
-    
+    </figure>
+
 ## Being That Dwells in the House of God
 
 ## Truth of the Beautiful Ore 
@@ -115,14 +131,18 @@
 
 ??? warning "How to Acquire"
 
-    - [Saving Iris](/.docs/abyss-guides/4-isberg/important-request-gwo/#saving-iris)
+    - [Saving Iris](../../../abyss-guides/4-isberg/important-request-gwo/#saving-iris)
     - Requires True Ending 
 
-??? "Skill - "Blessing of Maiden Iris - Divine Power and Resistance"
+??? "Skill - Blessing of Maiden Iris - Divine Power and Resistance"
 
+    <figure markdown>
     ![](./img/iris-skill.png)
+    </figure>
 
 ??? "Portrait"
 
+    <figure markdown>
     ![](./img/iris.png)
+    </figure>
 
