@@ -18,9 +18,9 @@
 
 ??? map "Discovery Points"
 
-        <div align="center">
-        ![](./img/salted-pork.jpg)
-        </div>
+    <div align="center">
+    ![](./img/salted-pork.jpg)
+    </div>
     
 ??? "Request Guide"
 
