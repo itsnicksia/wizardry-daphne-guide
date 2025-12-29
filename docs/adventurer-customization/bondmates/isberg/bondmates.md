@@ -56,8 +56,9 @@
 ??? warning "How to Acquire"
 
     - [Special Local Delicacy](../../../abyss-guides/4-isberg/requests.md#special-local-delicacy)
-    - Requires blizzard zones not being reversed
-    - Select "The air here feels dry to you" (bottom left blizzard zone is bugged and does not work)
+    - Still testing to confirm the exact requirements
+    - Requires blizzard zones not being reversed (needs verification)
+    - Select "The air here feels dry to you" (bottom blizzard zone is reportedly bugged and does not work)
     - Defeat all 3 waves of enemies 
 
 ??? "Skill - Robust Umami - HP"
