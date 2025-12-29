@@ -1,6 +1,11 @@
 # Deepsnow Hinterlands
 
-!!! warning "Work in Progress"
+!!! warning "Work in Progress. To be added soon:"
+    - Exquisite Jewel Trout
+    - Drunken Drunkard
+    - Warg, Commander of the Deep Snow
+    - Wandering Bunny 
+    
 !!! warning "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met"
 
 ## Rare Ore Recovery Request
@@ -131,7 +136,7 @@
 
 ??? warning "How to Acquire"
 
-    - [Saving Iris](../../../abyss-guides/4-isberg/important-request-gwo/#saving-iris)
+    - [Saving Iris](../../../abyss-guides/4-isberg/important-request-gwo.md/#saving-iris)
     - Requires True Ending 
 
 ??? "Skill - Blessing of Maiden Iris - Divine Power and Resistance"
