@@ -28,7 +28,7 @@
             ![](./img/salted-pork.jpg)
             </div>
 
-        !!! "Bigfoot Child Audio Cues"
+        !!! note "Bigfoot Child Audio Cues"
         
             - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
             - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
@@ -42,13 +42,13 @@
     
         ??? warning "Rewards"
         
-            ??? warning "Spare"
+            ??? "Spare"
                 - Gem of Org x20 (one-time only)
                 - 8,000 Gold
                 - Bigfoot's Offspring (Accuracy) 
                 - Triffia removed from inventory 
         
-            ??? warning "Kill" 
+            ??? "Kill" 
                 - Gem of Org x20 (one-time only)
                 - 8,000 Gold 
                 - Additional gold from request giver  
@@ -118,7 +118,7 @@
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
         - The request will always end in failure if these are not completed beforehand 
     - The request can be completed only if the little girl gives you the Dried Fish Fragment before leaving the Guild otherwise the kitty will always run away   
-    - Exiting to the world map and returning is an automatic request failure. 
+    - Exiting to the world map and returning is an automatic request failure 
     - To reset, Cursed Wheel to Blizzard Blocking the Path, which will reset the request while keeping the pre-requisites flagged as completed
 
 ??? "Request Guide" 
@@ -130,8 +130,9 @@
         - Some blizzard areas have outcroppings of 1-2 normal tiles that will also despawn the Nullshadow 
 
     !!! warning "Meow-chanics"
-
-        Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards
+    
+        - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. 
+        - The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards
  
             - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
             - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
@@ -140,12 +141,12 @@
     - Catch the kitty 3 times, once in each blizzard area. On the third attempt select the option to use the dried fish, which will complete the request.
     - The kitty will now permanently be located at the Guild. It can also see Lulu!
 
-    ??? warning "Rewards"
-
-        - Gem of Org x20
-        - 12,500 Gold
-        - Deepsnow Hinterlands Roar Junk
-        - Deepsnow Hinterlands Fey Roar Junk 
+        ??? warning "Rewards"
+    
+            - Gem of Org x20
+            - 12,500 Gold
+            - Deepsnow Hinterlands Roar Junk
+            - Deepsnow Hinterlands Fey Roar Junk 
 
 ### Witch Hunt in Elden Hill Village (1st Faction Request)
 
