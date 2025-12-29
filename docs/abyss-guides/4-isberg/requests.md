@@ -11,14 +11,15 @@
 
     - No pre-requisite requests
     - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point. Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult
-    - Bigfoot fights at discovery points can be as challenging as the boss
+    - Bigfoot fights at discovery points can be as challenging as the boss and you may encounter more than one in a single run
     - Side areas do not contain discovery points
     - Bring SP items in case of multiple Bigfoot fights
 
     
 ??? "Request Guide"
 
-    - Accept the request and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
+    - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
+    - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
     - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
 
         ??? "Bigfoot Child Audio Cues"
@@ -36,8 +37,8 @@
     - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and hotspring on the floor to recover prior to engaging the boss (filled-in red star).
     - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
     - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
-    - Remember to pick up the Salted Pork (green star) next to the Harken.
-    - Exit and submit the request at the Guild.
+    - Remember to pick up the Salted Pork (green star) next to the Harken before exiting. It's easy to miss.
+    - Return to the Guild and submit the request.
     
         ??? warning "Rewards"
         
@@ -98,7 +99,7 @@
      - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
      - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
      - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
-     - Head to Route 9, enter the Cabin, and speak with Maya by the fire. Return with Maya to the top left nullstone in Route 3 to watch a cutscene.
+     - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return with Maya to the top-left nullstone in Route 3 to watch a cutscene.
      - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
      - Head back to the Guild and speak with Marta to view the perfect ending. 
@@ -125,9 +126,9 @@
 
 ??? "Request Guide" 
 
-    - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment to help lure the kitty home.
-    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often apepars behind you immediately after entering a blizzard area.
-    - Running away more than twice will result in request failure. Instead let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard areas have small side areas of 1-2 normal tiles that will also despawn the Nullshadow. 
+    - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment before you leave the Guild.
+    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often appears behind you immediately after entering a blizzard area.
+    - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard areas have side areas of 1-2 normal tiles that will also despawn. 
     - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
 
         ??? "Meow-chanics ₍^. .^₎"
@@ -234,7 +235,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch. Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution you can consult with an Herbalist, Physician, or Mystic. 
 
-??? "Ending Guides"
+??? "Princess Ending Guides"
 
     ??? "Bad Ending - Consult with an Herbalist"
         - Speak to the Herbalist in town 
@@ -453,7 +454,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - Number of battles and/or 
             - Returning to town after giving an offering, but before accepting the next brazier request
 
-??? "Ending Guides"
+??? "Pontiff Ending Guides"
 
     ??? warning "Requirements"
     
@@ -608,7 +609,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Broom = 4 
             - Infant (Lamb) = 2 
 
-??? "Ending Guides" 
+??? "Admiral Ending Guides" 
 
     ??? warning "Requirements"
     
@@ -927,7 +928,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
     14. Bring the head back to the Royal Capital and complete the request.
-    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (ATK power) as a bondmate.
+    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (Attack Power) as a bondmate.
 
 ??? "Pontiff Route - Search for Adherent Acquaintances" 
 
@@ -962,7 +963,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     13. Look into the pile of poop in the next room. Indicate that the person isn't in here. Reverse the nullstone and type "Noah" into the prompt.
     14. Head back to the Royal Capital to turn in the request. Sir William will leave for the nullstone. 
     15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, and a Giant Beast Ape Robe.
-    16. Head back to the end of the Bigfoot Cave and interact with the husband and the nullstone to learn the truth about Agens's fate. After the cutscene you will receive William (DIV Power) as a bondmate.
+    16. Head back to the end of the Bigfoot Cave and interact with the husband and the nullstone to learn the truth about Agens's fate. After the cutscene you will receive William (Divine Power) as a bondmate.
 
 ??? "Admiral Route - Search Bernard and Young Laurent"
 
