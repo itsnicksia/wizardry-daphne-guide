@@ -3,7 +3,6 @@
 !!! note "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met"
 
 !!! warning "Work in Progress. To be added soon:"
-    - Exquisite Jewel Trout
     - Drunken Drunkard
     - Warg, Commander of the Deep Snow
     - Wandering Bunny 
@@ -48,6 +47,29 @@
 
     <figure markdown>
     ![](./img/maya-and-marta.png)
+    </figure>
+
+## Minor Harken Beyond the Blizzard 
+
+### Exquisite Jewel Trout 
+
+??? warning "How to Acquire"
+
+    - [](../../../abyss-guides/4-isberg/requests.md#special-local-delicacy)
+    - Requires blizzard zones not being reversed
+    - Select "The air here feels dry to you" (bottom left blizzard zone is bugged and does not work)
+    - Defeat all 3 waves of enemies 
+
+??? "Skill - Robust Umami - HP"
+
+    <figure markdown>
+    ![](./img/exquisite-jewel-trout-skill.png)
+    </figure>
+
+??? "Portrait"
+
+    <figure markdown>
+    ![](./img/exquisite-jewel-trout.png)
     </figure>
 
 ## Short Rest in the Cabin
