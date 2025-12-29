@@ -27,8 +27,22 @@
     margin: 0 auto;
 }
 
-.lf-container * {
+.lf-container *,
+.lf-container *::before,
+.lf-container *::after {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.lf-container ul,
+.lf-container ol {
+    list-style: none;
+}
+
+.lf-container table {
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
 .lf-loading,
@@ -52,7 +66,7 @@
     margin-bottom: 15px;
 }
 
-.lf-mode-btn {
+.lf-container .lf-mode-btn {
     padding: 8px 20px;
     font-size: 0.85rem;
     border: 2px solid var(--lf-bg-card);
@@ -61,20 +75,23 @@
     color: var(--lf-text-secondary);
     cursor: pointer;
     transition: all 0.2s;
+    font-weight: 400;
+    text-shadow: none;
 }
 
-.lf-mode-btn:hover {
+.lf-container .lf-mode-btn:hover {
     border-color: var(--lf-accent-orange);
     color: var(--lf-text-primary);
+    background: var(--lf-bg-primary);
 }
 
-.lf-mode-btn.active {
+.lf-container .lf-mode-btn.active {
     border-color: var(--lf-accent-orange);
     background: var(--lf-accent-orange);
     color: var(--lf-bg-primary);
 }
 
-.lf-search-input {
+.lf-container .lf-search-input {
     width: 100%;
     padding: 12px 16px;
     font-size: 0.85rem;
@@ -84,7 +101,11 @@
     color: var(--lf-text-primary);
 }
 
-.lf-search-input:focus {
+.lf-container .lf-search-input::placeholder {
+    color: var(--lf-text-secondary);
+}
+
+.lf-container .lf-search-input:focus {
     outline: none;
     border-color: var(--lf-accent-orange);
 }
@@ -201,62 +222,62 @@
     display: block;
 }
 
-.lf-prob-table {
+.lf-container .lf-prob-table {
     width: 100%;
     border-collapse: collapse;
     font-size: 0.7rem;
     margin-top: 8px;
 }
 
-.lf-prob-table th,
-.lf-prob-table td {
+.lf-container .lf-prob-table th,
+.lf-container .lf-prob-table td {
     padding: 3px 6px;
     text-align: center;
     border: 1px solid var(--lf-bg-card);
 }
 
-.lf-prob-table th {
+.lf-container .lf-prob-table th {
     background: var(--lf-bg-primary);
     color: var(--lf-text-secondary);
     font-weight: 500;
 }
 
-.lf-prob-table th.lf-grade-col {
+.lf-container .lf-prob-table th.lf-grade-col {
     font-weight: 600;
 }
 
-.lf-prob-table th.lf-g1 { color: var(--lf-grade-1); }
-.lf-prob-table th.lf-g2 { color: var(--lf-grade-2); }
-.lf-prob-table th.lf-g3 { color: var(--lf-grade-3); }
-.lf-prob-table th.lf-g4 { color: var(--lf-grade-4); }
-.lf-prob-table th.lf-g5 { color: var(--lf-grade-5); }
-.lf-prob-table td.lf-g1 { color: var(--lf-grade-1); }
-.lf-prob-table td.lf-g2 { color: var(--lf-grade-2); }
-.lf-prob-table td.lf-g3 { color: var(--lf-grade-3); }
-.lf-prob-table td.lf-g4 { color: var(--lf-grade-4); }
-.lf-prob-table td.lf-g5 { color: var(--lf-grade-5); }
+.lf-container .lf-prob-table th.lf-g1 { color: var(--lf-grade-1); }
+.lf-container .lf-prob-table th.lf-g2 { color: var(--lf-grade-2); }
+.lf-container .lf-prob-table th.lf-g3 { color: var(--lf-grade-3); }
+.lf-container .lf-prob-table th.lf-g4 { color: var(--lf-grade-4); }
+.lf-container .lf-prob-table th.lf-g5 { color: var(--lf-grade-5); }
+.lf-container .lf-prob-table td.lf-g1 { color: var(--lf-grade-1); }
+.lf-container .lf-prob-table td.lf-g2 { color: var(--lf-grade-2); }
+.lf-container .lf-prob-table td.lf-g3 { color: var(--lf-grade-3); }
+.lf-container .lf-prob-table td.lf-g4 { color: var(--lf-grade-4); }
+.lf-container .lf-prob-table td.lf-g5 { color: var(--lf-grade-5); }
 
-.lf-prob-table .lf-star-label {
+.lf-container .lf-prob-table .lf-star-label {
     color: var(--lf-accent-gold);
     font-weight: 500;
     text-align: left;
 }
 
-.lf-prob-table .lf-total-col {
+.lf-container .lf-prob-table .lf-total-col {
     color: var(--lf-text-secondary);
 }
 
-.lf-prob-table .lf-total-cell {
+.lf-container .lf-prob-table .lf-total-cell {
     color: var(--lf-text-primary);
     font-weight: 600;
 }
 
-.lf-prob-table .lf-total-row th,
-.lf-prob-table .lf-total-row td {
+.lf-container .lf-prob-table .lf-total-row th,
+.lf-container .lf-prob-table .lf-total-row td {
     border-top: 2px solid var(--lf-text-secondary);
 }
 
-.lf-prob-table .lf-total-label {
+.lf-container .lf-prob-table .lf-total-label {
     color: var(--lf-text-secondary);
     font-weight: 500;
     text-align: left;
@@ -302,7 +323,7 @@
     font-size: 1.2rem;
 }
 
-.lf-back-button {
+.lf-container .lf-back-button {
     display: inline-flex;
     align-items: center;
     gap: 6px;
@@ -315,11 +336,14 @@
     color: var(--lf-text-secondary);
     cursor: pointer;
     transition: all 0.2s;
+    font-weight: 400;
+    text-shadow: none;
 }
 
-.lf-back-button:hover {
+.lf-container .lf-back-button:hover {
     border-color: var(--lf-accent-orange);
     color: var(--lf-text-primary);
+    background: var(--lf-bg-primary);
 }
 
 .lf-junk-detail-header {
@@ -349,7 +373,7 @@
     gap: 12px;
 }
 
-.lf-aggregate-toggle {
+.lf-container .lf-aggregate-toggle {
     padding: 6px 12px;
     font-size: 0.8rem;
     border: 2px solid var(--lf-bg-card);
@@ -359,16 +383,20 @@
     cursor: pointer;
     transition: all 0.2s;
     white-space: nowrap;
+    font-weight: 400;
+    text-shadow: none;
 }
 
-.lf-aggregate-toggle:hover {
+.lf-container .lf-aggregate-toggle:hover {
     border-color: var(--lf-accent-orange);
     color: var(--lf-text-primary);
+    background: var(--lf-bg-primary);
 }
 
-.lf-aggregate-toggle.active {
+.lf-container .lf-aggregate-toggle.active {
     border-color: var(--lf-accent-gold);
     color: var(--lf-accent-gold);
+    background: var(--lf-bg-primary);
 }
 
 .lf-group-section {
