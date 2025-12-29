@@ -7,14 +7,38 @@
 
 ### Recovery of Salted Pork
 
-This request has no pre-requisites to accept.
+??? warning "Important Notes"
 
-- Obtain the request and either head to Route 1 Harken and walk up or head to Route 2 Harken. It's recommended to head from Route 1 Harken, as the final boss is located based on where you start. Starting at the Route 2 Harken has the fight commence in the snow near the entrance of Route 2, which makes the fight significantly more difficult. There is no difference in rewards for doing so.
-- Essentially make your way from the entrance to the exit or vice versa. On the way there the Baby Bigfoot will stop and make a sound. You can choose to allow the event to occur or to stop it.
-- You can tell what the event will be based on what the Baby Bigfoot says. "Mrrrr" = fighting a Bigfoot. "Kyou Kyou" = Truffles. "Kyou" = Mushrooms.
-- You need to take a certain number of events (4 including at least 1 bigfoot fight), otherwise upon reaching the end, there will be no Bigfoot and the requests fails. Where the Baby Yeti stops is not random but there are many stops along the whole map.
-- The final fight has you fighting a Bigfoot + 2 Baby Bigfoot in the frontline + 2 Baby Bigfoot in the backline.
-- After winning the fight, you have the choice to spare the Bigfoot and Baby Bigfoot or killing them. Letting them go removes the truffle and unlocks a bondmate. Killing them grants bonus gold from the request giver.
+    - No pre-reququisite requests
+    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point
+    - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult 
+    - Bigfoot fights at discovery points can be as challenging as the boss 
+    - Side areas do not contain discovery points
+    - Bring SP items 
+    
+??? Map "Discovery Points"
+
+        <div align="center">
+        ![](./img/salted-pork.jpg)
+        </div>
+
+- Accept the request, the Bigfoot Child will accompany you, and head to the Route 1 Harken (recommended) or the Route 2 Harken.
+- The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
+- At 6 points along the primary path the Bigfoot Child will stop and make a sound. You will be prompted to "Let it go" or "Stop it".
+- At each discovery point there are 3 events that can occur:
+    - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
+    - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
+    - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
+- The Bigfoot Child discovery points (see map, red stars) are fixed and the events are randomized. Note that it is possible to get 3-4 Bigfoot fights in a row.
+- You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail.
+- Optional: Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (see map, filled-in red star).
+- The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
+- After the fight you will be given the option to spare the Bigfoot and its child or kill them.
+- Remember to pick up the Salted Pork (see map, green star) next to the Harken.
+- Exit and submit the request at the Guild. 
+- Rewards
+    - Spare: 8,000 Gold, Bigfoot's Offspring (ACC) bondmate, and removal of the Triffia from your inventory
+    - Kill: 8,000 Gold + additional Gold from the request giver  
 
 ## Village Shut Away in Silence 
 
