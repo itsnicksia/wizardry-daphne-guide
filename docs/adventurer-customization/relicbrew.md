@@ -349,7 +349,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
 | Snow Gobber's Hard Elbow                   | Crit Tol Up, Surety Down             | Neutral     | Snowland Goblin        | Snow Gobber Twisted Spiritcoral         | 4089              |
-| Snow Hobber's Thick Hide                   | Defense Up, SP Down                  | Neutral     | Snowland Hobgoblin     | ?                                       | 4090              |
+| Snow Hobber's Thick Hide                   | Defense Up, SP Down                  | Neutral     | Snowland Hobgoblin     | Snow Hobber Twisted Rootcrystal         | 4090              |
 | Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Twisted Rootcrystal | 4091              |
 | Sharp Claws of the Beheading Snow Hare     | Surety Up, Divine Down               | Neutral     | Snow Bunny             | Beheading Snow Rabbit Twisted Bloodwood | 4092              |
 | One-Eyed White Giant's Mighty Arm          | Attack Up, Surety Up, ASPD Down      | Evil        | Snowpeak Cyclops       | One-Eyed White Giant's Twisted Bloodwood| 4093              |
