@@ -10,8 +10,7 @@
 ??? warning "Important Notes"
 
     - No pre-requisite requests
-    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point
-    - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult
+    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point. Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult
     - Bigfoot fights at discovery points can be as challenging as the boss
     - Side areas do not contain discovery points
     - Bring SP items in case of multiple Bigfoot fights
@@ -20,7 +19,7 @@
 ??? "Request Guide"
 
     - Accept the request and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-    - At 6 fixed locations (discovery points, red star) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
+    - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
         
         ??? map "Discovery Points"
     
@@ -28,13 +27,13 @@
             ![](./img/salted-pork.jpg)
             </div>
 
-        !!! note "Bigfoot Child Audio Cues"
+        ??? "Bigfoot Child Audio Cues"
         
             - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
             - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
             - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
         
-    - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (filled-in red star).
+    - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and hotspring on the floor to recover prior to engaging the boss (filled-in red star).
     - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
     - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
     - Remember to pick up the Salted Pork (green star) next to the Harken.
@@ -57,16 +56,19 @@
 
 ### Find My Sister Lisa
 
-??? warning "Perfect Ending Requirements"
+??? warning "Important Notes"
 
     - No pre-requisite requests
+
+    **"Perfect" Ending Requirements**
+    
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
     - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
     - Cursed Wheel - Short Rest in the Cabin
         - North Lakeshore Cabin - "Fixed it up" as Maya needs to be accessible 
         - Village Adults - "Secured all of them" 
         - If the "Capture the Villagers" request is active, then Maya will not leave the cabin
-
+    
 ??? "Request Guide"
 
     - Accept the request from Marta at the Guild and go to Route 3.
@@ -74,7 +76,7 @@
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
     - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
 
-        ??? map "Hidden Item Locations"
+        ??? map "Hidden Box Locations"
         
             <div align="center">
             ![](./img/find-my-sister-collectibles.PNG)
@@ -128,13 +130,13 @@
     - The challenge is that the white Nullshadow will pursue you as you search. It often apepars behind you immediately after entering a blizzard area.
     - Running away more than twice will result in request failure. Instead let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard areas have small side areas of 1-2 normal tiles that will also despawn the Nullshadow. 
 
-        !!! warning "Meow-chanics"
-        
-            Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards
-        
-            - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
-            - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
-            - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
+    ??? "Meow-chanics"
+    
+        Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards.
+    
+        - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
+        - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
+        - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
 
     - Catch the kitty 3 times, once in each blizzard area. On the third attempt select the option to use the dried fish, which will complete the request.
     - The kitty will now permanently be located at the Guild. It can also see Lulu!
