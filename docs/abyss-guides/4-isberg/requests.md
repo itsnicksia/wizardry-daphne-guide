@@ -9,26 +9,31 @@
 
 ??? warning "Important Notes"
 
-    - No pre-requisite requests.
-    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point.
-    - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult. 
-    - Bigfoot fights at discovery points can be as challenging as the boss. 
-    - Side areas do not contain discovery points.
-    - Bring SP items in case of multiple Bigfoot fights. 
+    - No pre-requisite requests
+    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point
+    - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult
+    - Bigfoot fights at discovery points can be as challenging as the boss
+    - Side areas do not contain discovery points
+    - Bring SP items in case of multiple Bigfoot fights
 
-??? map "Discovery Points"
-
-    <div align="center">
-    ![](./img/salted-pork.jpg)
-    </div>
     
 ??? "Request Guide"
 
     - Accept the request and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
     - At 6 fixed locations (discovery points, red star) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
-        - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
-        - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
-        - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
+        
+        ??? map "Discovery Points"
+    
+            <div align="center">
+            ![](./img/salted-pork.jpg)
+            </div>
+
+        !!! "Bigfoot Child Audio Cues"
+        
+            - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
+            - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
+            - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
+        
     - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (filled-in red star).
     - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
     - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
@@ -59,14 +64,15 @@
     - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
     - Cursed Wheel - Short Rest in the Cabin
         - North Lakeshore Cabin - "Fixed it up" as Maya needs to be accessible 
-        - Village Adults - "Secured all of them" will remove the spike traps in Rockhome Village (optional)
+        - Village Adults - "Secured all of them" 
+        - If the "Capture the Villagers" request is active, then Maya will not leave the cabin
 
 ??? "Request Guide"
 
     - Accept the request from Marta at the Guild and go to Route 3.
     - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
     - Step outside and watch a cutscene of hostile animals and monsters invading the town.
-    - The objective now is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
+    - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
 
         ??? map "Hidden Item Locations"
         
@@ -77,7 +83,7 @@
             - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
             - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
         
-        ??? "Enemy Locations"
+        ??? map "Enemy Locations"
         
             - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
             - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
@@ -89,7 +95,7 @@
         
      - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
      - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
-     - Return to the Guild, submit the request, and receive 5,000 Gold, 1 Junk, and 20 Gems of Org (one time only).
+     - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gems of Org x20 (one time only).
      - Head to Route 9, enter the Cabin, and speak with Maya by the fire. Return with Maya to the top left nullstone in Route 3 to watch a cutscene.
      - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
@@ -97,7 +103,6 @@
 
         ??? warning "Rewards"
 
-            - Gem of Org x20 (one-time only)
             - Achievement - "The Two are Always Together"
             - Bondmate - Maya and Auntie Marta (Fear Tolerance)
             - 12,000 Gold   
@@ -106,18 +111,41 @@
 
 ### Find My Kitty
 
-!!! warning "If you leave Isberg and go into the world map and come back, the request will automatically fail. To reset this, cursed wheel to Blizzard Blocking the Path to keep the pre-requisites while resetting the request."
+??? warning "Important Notes"
 
-This request requires Recovery of Salted Pork and Find my Sister Lisa requests completed. If the request is attempted without these completed, the request will always end in failure.
+    - Pre-requisite requests
+        - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
+        - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
+        - The request will always end in failure if these are not completed beforehand 
+    - The request can be completed only if the little girl gives you the Dried Fish Fragment before leaving the Guild otherwise the kitty will always run away   
+    - Exiting to the world map and returning is an automatic request failure. 
+    - To reset, Cursed Wheel to Blizzard Blocking the Path, which will reset the request while keeping the pre-requisites flagged as completed
 
-- You will know if this request is completable as the little girl will speak and hand you some dried fish for the cat. If you attempt this request without this dried fish, the cat will always run away from you, resulting in failure
-- Head to Route 4. The cat will always be located in one of the non-removable Ice Storm Zones in the map. In addition, once entering the zone, the white nullshadow will guaranteed spawn and begin chasing you. You must find the cat while the nullshadow chases you while knowing your exact location. If you flee from the nullshadow more than twice, the request will automatically fail as the cat is scared off. However, if you are caught by the nullshadow it is recommended to simply let it kill you and resurrect on the spot, as that will despawn the nullshadow and allow you to freely look for the cat without consequences. Certain Ice Storm Zones also have brief respite areas at the corners, and heading to those will despawn the nullshadow.
-- The cat will always be in the brush (the walls essentially). It will make audible sounds and flavor text depending on how close you are to the cat.
-      1."You catch the faint, barely audible cry of some unseen creature" - many tiles away
-      2."You catch a soft, thin mewing from somewhere. It sounds like a cat" - a few tiles away
-      3."You catch the sound of a cat mewing nearby. It seems somewhere close by" - it is within 1-2 tiles
-- Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
-- The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
+??? "Request Guide" 
+
+    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. 
+    - The challenge is that you have to find the kitty while being pursued by the white Nullshadow that often appears behind you as soon as you enter the blizzard area
+        - If you run more than twice, then the request will automatically fail as the kitty is scared off 
+        - If the Nullshadhow catches you it is best to die as it will immediately despawn and you can search the area freely
+        - Some blizzard areas have outcroppings of 1-2 normal tiles that will also despawn the Nullshadow 
+
+    !!! warning "Meow-chanics"
+
+        Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards
+ 
+            - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
+            - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
+            - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
+
+    - Catch the kitty 3 times, once in each blizzard area. On the third attempt select the option to use the dried fish, which will complete the request.
+    - The kitty will now permanently be located at the Guild. It can also see Lulu!
+
+    ??? warning "Rewards"
+
+        - Gem of Org x20
+        - 12,500 Gold
+        - Deepsnow Hinterlands Roar Junk
+        - Deepsnow Hinterlands Fey Roar Junk 
 
 ### Witch Hunt in Elden Hill Village (1st Faction Request)
 
