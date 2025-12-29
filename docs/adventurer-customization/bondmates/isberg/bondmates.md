@@ -11,20 +11,20 @@
 
 ### Bigfoot's Offspring
 
- ??? "Bigfoot's Offspring Details"
+??? "Bigfoot's Offspring Details"
 
-     ??? "How to aquire"
-     
-       - [Recovery of Salted Pork](/docs/abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
-       - Must choose to "Spare" the Bigfoot and its child at the end of the request
-
+    ??? "How to aquire"
+    
+      - [Recovery of Salted Pork](/docs/abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
+      - Must choose to "Spare" the Bigfoot and its child at the end of the request
+    
     ??? "Skill - Accuracy"
     
-       ![](./img/bigfoots-offspring-skill.PNG)
+      ![](./img/bigfoots-offspring-skill.PNG)
     
     ??? "Portrait"
     
-       ![](./img/bigfoots-offspring.PNG)
+      ![](./img/bigfoots-offspring.PNG)
 
 ## Village Shut Away in Silence 
 
