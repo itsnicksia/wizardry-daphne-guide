@@ -9,12 +9,12 @@
 
 ??? warning "Important Notes"
 
-    - No pre-requisite requests
-    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point
-    - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult 
-    - Bigfoot fights at discovery points can be as challenging as the boss 
-    - Side areas do not contain discovery points
-    - Bring SP items in case of multiple Bigfoot fights 
+    - No pre-requisite requests.
+    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point.
+    - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult. 
+    - Bigfoot fights at discovery points can be as challenging as the boss. 
+    - Side areas do not contain discovery points.
+    - Bring SP items in case of multiple Bigfoot fights. 
 
 ??? map "Discovery Points"
 
@@ -35,7 +35,7 @@
     - Remember to pick up the Salted Pork (green star) next to the Harken.
     - Exit and submit the request at the Guild.
     
-        ??? tip "Rewards"
+        ??? warning "Rewards"
         
             ??? warning "Spare"
                 - Gem of Org x20 (one-time only)
@@ -95,7 +95,7 @@
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
      - Head back to the Guild and speak with Marta to view the perfect ending. 
 
-        ??? tip "Rewards"
+        ??? warning "Rewards"
 
             - Gem of Org x20 (one-time only)
             - Achievement - "The Two are Always Together"
@@ -119,7 +119,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Witch Hunts in Elden Hill Village (1st Faction Request)
+### Witch Hunt in Elden Hill Village (1st Faction Request)
 
 ##### Overview 
 
@@ -186,12 +186,12 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Enemy level is 65
         - Some chests have high Find/Trap Disarm requirements even at 150/150
         
-    ??? "Sleep Tiles"  
-        
-        - A new dungeon mechanic that limits traversal 
-        - After 10 steps you will lose consciousness and be teleported back to your starting point 
-        - During an enemy encounter all team members will be asleep at the start of battle  
-        - Aggro and bait enemies onto normal tiles for easier fights
+        ??? warning "Sleep Tiles"  
+            
+            - A new dungeon mechanic that limits traversal 
+            - After 10 steps you will lose consciousness and be teleported back to your starting point 
+            - During an enemy encounter all team members will be asleep at the start of battle  
+            - Aggro and bait enemies onto normal tiles for easier fights
 
     ??? map "The Witch's Cave - B1F"    
         <div align="center">
@@ -226,7 +226,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - Speak to the Herbalist in town
         - Ending sequence begins automatically 
     
-            ??? tip "Rewards"
+            ??? warning "Rewards"
                 - 8,000 Gold
                 - 2 Junk<span style="color: MediumOrchid">*</span>
                 - Scroll of Inferno
@@ -264,7 +264,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - Speak with Raimi in town  
         - Ending sequence begins automatically 
     
-            ??? tip "Rewards"
+            ??? warning "Rewards"
                 - Achievement: "A Terrible Nightmare"
                 - 15,000 Gold 
                 - There is no known way to avoid this ending 
@@ -322,14 +322,14 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             
                 ??? "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
                 
-                    !!! tip "Rewards"
+                    !!! warning "Rewards"
                         - Achievement: "One Who Carries the Future of Her Land"
                         - 11,000 Gold 
         
                 ??? "Sub-Ending B: "Do Not Tell the Truth""
                     - The options to threaten Rosa do not seem to have any impact on the ending
         
-                    !!! tip "Rewards"
+                    !!! warning "Rewards"
                         - Achievement: "One Who Carries the Future of Her Land"
                         - 9,000 Gold 
                         - 1 Junk<span style="color: MediumOrchid">*</span>
@@ -366,7 +366,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - Speak with Dylanhardt  
             - Ending sequence begins automatically 
     
-                ??? tip "Rewards"
+                ??? warning "Rewards"
                     - 9,000 Gold
                     - Calm Wind Crest
                     - 2 Junk
@@ -477,7 +477,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
         - Return to town 
         - Ending sequence begins automatically 
         
-            ??? tip "Rewards"
+            ??? warning "Rewards"
                 - Achievement: "A Witch There Was" 
                 - 9,000 Gold
                 - Achievement is shared with "Admiral - Good Ending - Elencia Dead" and can only be received once
@@ -503,7 +503,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
             - "Tell the Truth"
             
-            ??? tip "Rewards"
+            ??? warning "Rewards"
             
                 - 11,000 Gold
                 - 2 Junk (requires Sheep for 0 deaths)
@@ -529,7 +529,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
             - "Condemn the Witch"
         
-            ??? tip "Rewards"
+            ??? warning "Rewards"
             
                 - Achievement: "Condemn the Witch"
                 - 17,000 Gold
@@ -628,7 +628,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Speak with Raimi in town
         - Ending sequences begins automatically   
     
-            ??? tip "Rewards"
+            ??? warning "Rewards"
                 - 7,000 Gold
                 - Scroll of Torrent 
                 - Admiral is displeased with this approach 
@@ -688,7 +688,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
                 - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
                 - This could potentially be a bug or there is some combination of responses that has not yet been identified  
             
-            ??? tip "Rewards"
+            ??? warning "Rewards"
             
                 - Achievement: "A Witch There Was" 
                 - 14,000 Gold
@@ -740,7 +740,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Return to town 
         - Ending sequences will begin automatically  
         
-            ??? tip "Rewards"
+            ??? warning "Rewards"
                 - Achievement: "You Are Permitted to Call My Name, But Only Once" 
                 - 19,000 Gold
                 - The Admiral is pleased with this outcome
@@ -900,7 +900,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
     14. Bring the head back to the Royal Capital and complete the request.
-    15. Reward - Gem of Org x50 (first time), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (ATK power) as a bondmate.
+    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (ATK power) as a bondmate.
 
 ??? "Pontiff Route - Search for Adherent Acquaintances" 
 
@@ -934,7 +934,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder by themselves. After taking a certain amount of damage, they will begin self-buffing. Each buff lasts 10 turns, and can knock previous buffs off (3 buff limit). Alternatively, you can dissipate the buffs yourself.
     13. Look into the pile of poop in the next room. Indicate that the person isn't in here. Reverse the nullstone and type "Noah" into the prompt.
     14. Head back to the Royal Capital to turn in the request. Sir William will leave for the nullstone. 
-    15. Reward - Gem of Org x50 (first time), 30,000 Gold, and a Giant Beast Ape Robe.
+    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, and a Giant Beast Ape Robe.
     16. Head back to the end of the Bigfoot Cave and interact with the husband and the nullstone to learn the truth about Agens's fate. After the cutscene you will receive William (DIV Power) as a bondmate.
 
 ??? "Admiral Route - Search Bernard and Young Laurent"
