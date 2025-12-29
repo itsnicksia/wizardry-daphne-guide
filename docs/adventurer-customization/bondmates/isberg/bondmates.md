@@ -8,10 +8,6 @@
     
 !!! warning "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met"
 
-## Rare Ore Recovery Request
-
-## Deepsnow Hinterlands Entrance
-
 ## Snowy Forest Minor Harken 
 
 ### Bigfoot's Offspring
@@ -53,18 +49,6 @@
     <figure markdown>
     ![](./img/maya-and-marta.png)
     </figure>
-
-## Rockhome Major Harken 
-
-## Blizzard Blocking the Path 
-
-## Minor Harken Beyond the Blizzard
-
-## Lakeshore Camp
-
-## Slaying the White Wolves
-
-## Passed Through the Coal Mine
 
 ## Short Rest in the Cabin
 
@@ -127,8 +111,6 @@
     <figure markdown>
     ![](./img/bernard.png)
     </figure>
-
-## Being That Dwells in the House of God
 
 ## Truth of the Beautiful Ore 
 
