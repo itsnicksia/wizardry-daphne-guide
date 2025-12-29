@@ -11,18 +11,22 @@
 
 ### Bigfoot's Offspring
     
-??? "How to Acquire"
+??? warning "How to Acquire"
 
-    - [Recovery of Salted Pork](/docs/abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
+    - [Recovery of Salted Pork](./docs/abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
     - Must choose to "Spare" the Bigfoot and its child at the end of the request
 
 ??? "Skill - Primal Sense of Aim - Accuracy"
 
+    <figure markdown>
     ![](./img/bigfoots-offspring-skill.PNG)
+    </figure>
 
 ??? "Portrait"
 
+    <figure markdown>
     ![](./img/bigfoots-offspring.PNG)
+    </figure>
 
 ## Village Shut Away in Silence 
 
@@ -30,12 +34,12 @@
 
 ??? warning "How to Acquire"
 
-    - [Find My Sister Lisa](/docs/abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
+    - [Find My Sister Lisa](./docs/abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
     - Requires the "Perfect Ending"
 
 ??? "Skill - Late Sister's Child - Fear Tolerance"
 
-    ![](./img/maya-and-marta-skill.png)
+    ![](./img/maya-and-marta-skill.PNG)
 
 ??? "Portrait"
 
@@ -59,7 +63,7 @@
 
 ??? warning "How to Acquire"
 
-    - [Search for Missing Royal Knights](/docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+    - [Search for Missing Royal Knights](./docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
     - Princess Route
     - Requires finding the second missing person
 
@@ -75,7 +79,7 @@
 
 ??? warning "How to Acquire"
 
-    - [Search for Adherent Acquaintances](/docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+    - [Search for Adherent Acquaintances](./docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
     - Pontiff Route
     - Requires finding the second missing person
 
@@ -91,7 +95,7 @@
 
 ??? warning "How to Acquire"
 
-    - [Search Bernard and Young Laurent](/docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+    - [Search Bernard and Young Laurent](./docs/abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
     - Admiral Route
     - Requires finding the second missing person
 
@@ -111,7 +115,7 @@
 
 ??? warning "How to Acquire"
 
-    - [Search Bernard and Young Laurent](/docs/abyss-guides/4-isberg/important-request-gwo/#saving-iris)
+    - [Saving Iris](/.docs/abyss-guides/4-isberg/important-request-gwo/#saving-iris)
     - Requires True Ending 
 
 ??? "Skill - "Blessing of Maiden Iris - Divine Power and Resistance"
