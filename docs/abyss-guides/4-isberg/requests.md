@@ -14,39 +14,31 @@
     - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult 
     - Bigfoot fights at discovery points can be as challenging as the boss 
     - Side areas do not contain discovery points
-    - Bring SP items 
+    - Bring SP items in case of multiple Bigfoot fights 
     
 ??? "Request Guide"
 
-    - Accept the request, the Bigfoot Child will accompany you, and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-    - At 6 points along the primary path the Bigfoot Child will stop and make a sound. You will be prompted to "Let it go" or "Stop it". At each discovery point there 3 events can occur:
+    - Accept the request and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
+    - At 6 fixed locations (discovery points) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
         - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
         - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
         - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
-    - The Bigfoot Child discovery points (red stars) are fixed and the events are randomized. With bad RNG it is possible to get 3-4 Bigfoot fights in a row. You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail.
-
-        ??? Map "Discovery Points"
-    
-            <div align="center">
-            ![](./img/salted-pork.jpg)
-            </div>
-    
-    - Optional: Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (filled-in red star).
+    - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (filled-in red star).
     - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
     - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child.
-    - Remember to pick up the Salted Pork (see map, green star) next to the Harken.
+    - Remember to pick up the Salted Pork (green star) next to the Harken.
     - Exit and submit the request at the Guild.
     
-        ??? Rewards
+        ??? tip "Rewards"
         
             ??? warning "Spare"
-                - 20 Gems of Org (one-time only)
+                - Gems of Org x20 (one-time only)
                 - 8,000 Gold
-                - Bigfoot's Offspring (ACC) 
-                - Remove of the Triffia from inventory 
+                - Bigfoot's Offspring (Accuracy) 
+                - Triffia removed from inventory 
         
             ??? warning "Kill" 
-                - 20 Gems of Org (one-time only)
+                - Gems of Org x20 (one-time only)
                 - 8,000 Gold 
                 - Additional gold from request giver  
       
@@ -98,7 +90,8 @@
      - Head back to the Guild and speak with Marta to view the perfect ending. 
 
         ??? tip "Rewards"
-        
+
+            - Gems of Org x20 (one-time only)
             - Achievement - "The Two are Always Together"
             - Bondmate - Maya and Auntie Marta (Fear Tolerance)
             - 12,000 Gold   
