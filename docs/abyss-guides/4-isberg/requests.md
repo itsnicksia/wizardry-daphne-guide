@@ -20,18 +20,18 @@
 
     - Accept the request and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
     - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
-        
-        ??? map "Discovery Points"
-    
-            <div align="center">
-            ![](./img/salted-pork.jpg)
-            </div>
 
         ??? "Bigfoot Child Audio Cues"
         
             - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
             - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
             - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
+        
+        ??? map "Discovery Points"
+    
+            <div align="center">
+            ![](./img/salted-pork.jpg)
+            </div>
         
     - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and hotspring on the floor to recover prior to engaging the boss (filled-in red star).
     - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
@@ -97,7 +97,7 @@
         
      - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
      - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
-     - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gems of Org x20 (one time only).
+     - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
      - Head to Route 9, enter the Cabin, and speak with Maya by the fire. Return with Maya to the top left nullstone in Route 3 to watch a cutscene.
      - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
      - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
@@ -130,13 +130,13 @@
     - The challenge is that the white Nullshadow will pursue you as you search. It often apepars behind you immediately after entering a blizzard area.
     - Running away more than twice will result in request failure. Instead let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard areas have small side areas of 1-2 normal tiles that will also despawn the Nullshadow. 
 
-    ??? "Meow-chanics"
-    
-        Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards.
-    
-        - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
-        - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
-        - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
+        ??? "Meow-chanics"
+        
+            Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards.
+        
+            - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
+            - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
+            - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
 
     - Catch the kitty 3 times, once in each blizzard area. On the third attempt select the option to use the dried fish, which will complete the request.
     - The kitty will now permanently be located at the Guild. It can also see Lulu!
@@ -215,12 +215,12 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Enemy level is 65
         - Some chests have high Find/Trap Disarm requirements even at 150/150
         
-        ??? warning "Sleep Tiles"  
-            
-            - A new dungeon mechanic that limits traversal 
-            - After 10 steps you will lose consciousness and be teleported back to your starting point 
-            - During an enemy encounter all team members will be asleep at the start of battle  
-            - Aggro and bait enemies onto normal tiles for easier fights
+            ??? warning "Sleep Tiles"  
+                
+                - A new dungeon mechanic that limits traversal 
+                - After 10 steps you will lose consciousness and be teleported back to your starting point 
+                - During an enemy encounter all team members will be asleep at the start of battle  
+                - Aggro and bait enemies onto normal tiles for easier fights
 
     ??? map "The Witch's Cave - B1F"    
         <div align="center">
