@@ -113,27 +113,25 @@
 
 ??? warning "Important Notes"
 
-    - Pre-requisite requests
+    - Pre-requisite requests:
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
-        - The request will always end in failure if these are not completed beforehand 
-    - The request can be completed only if the little girl gives you the Dried Fish Fragment before leaving the Guild otherwise the kitty will always run away   
-    - Exiting to the world map and returning is an automatic request failure 
+    - The request will always end in failure if the pre-requisites are not completed beforehand
+    - The Dried Fish Fragment from the little girl at the Guild is required to prevent the kitty from running away
+    - Exiting to the world map and returning results in automatic request failure 
     - To reset, Cursed Wheel to Blizzard Blocking the Path, which will reset the request while keeping the pre-requisites flagged as completed
 
 ??? "Request Guide" 
 
+    - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment to help lure the kitty home.
     - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. 
-    - The challenge is that you have to find the kitty while being pursued by the white Nullshadow that often appears behind you as soon as you enter the blizzard area
-        - If you run more than twice, then the request will automatically fail as the kitty is scared off 
-        - If the Nullshadhow catches you it is best to die as it will immediately despawn and you can search the area freely
-        - Some blizzard areas have outcroppings of 1-2 normal tiles that will also despawn the Nullshadow 
+    - The challenge is that the white Nullshadow will pursue you as you search. It often apepars behind you immediately after entering a blizzard area.
+    - Running away more than twice will result in request failure. Instead let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard areas have small side areas of 1-2 normal tiles that will also despawn the Nullshadow. 
 
-    !!! warning "Meow-chanics"
-    
-        - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. 
-        - The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards
- 
+        !!! warning "Meow-chanics"
+        
+            Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blue/green blizzards
+        
             - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
             - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
             - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
