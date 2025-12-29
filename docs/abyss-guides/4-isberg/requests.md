@@ -9,37 +9,47 @@
 
 ??? warning "Important Notes"
 
-    - No pre-reququisite requests
+    - No pre-requisite requests
     - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point
     - Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult 
     - Bigfoot fights at discovery points can be as challenging as the boss 
     - Side areas do not contain discovery points
     - Bring SP items 
     
-??? Map "Discovery Points"
+??? "Request Guide"
 
-        <div align="center">
-        ![](./img/salted-pork.jpg)
-        </div>
+    - Accept the request, the Bigfoot Child will accompany you, and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
+    - At 6 points along the primary path the Bigfoot Child will stop and make a sound. You will be prompted to "Let it go" or "Stop it". At each discovery point there 3 events can occur:
+        - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
+        - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
+        - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
+    - The Bigfoot Child discovery points (red stars) are fixed and the events are randomized. With bad RNG it is possible to get 3-4 Bigfoot fights in a row. You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail.
 
-- Accept the request, the Bigfoot Child will accompany you, and head to the Route 1 Harken (recommended) or the Route 2 Harken.
-- The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-- At 6 points along the primary path the Bigfoot Child will stop and make a sound. You will be prompted to "Let it go" or "Stop it".
-- At each discovery point there are 3 events that can occur:
-    - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
-    - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
-    - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
-- The Bigfoot Child discovery points (see map, red stars) are fixed and the events are randomized. Note that it is possible to get 3-4 Bigfoot fights in a row.
-- You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail.
-- Optional: Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (see map, filled-in red star).
-- The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
-- After the fight you will be given the option to spare the Bigfoot and its child or kill them.
-- Remember to pick up the Salted Pork (see map, green star) next to the Harken.
-- Exit and submit the request at the Guild. 
-- Rewards
-    - Spare: 8,000 Gold, Bigfoot's Offspring (ACC) bondmate, and removal of the Triffia from your inventory
-    - Kill: 8,000 Gold + additional Gold from the request giver  
-
+        ??? Map "Discovery Points"
+    
+            <div align="center">
+            ![](./img/salted-pork.jpg)
+            </div>
+    
+    - Optional: Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (filled-in red star).
+    - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
+    - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child.
+    - Remember to pick up the Salted Pork (see map, green star) next to the Harken.
+    - Exit and submit the request at the Guild.
+    
+        ??? Rewards
+        
+            ??? warning "Spare"
+                - 20 Gems of Org (one-time only)
+                - 8,000 Gold
+                - Bigfoot's Offspring (ACC) 
+                - Remove of the Triffia from inventory 
+        
+            ??? warning "Kill" 
+                - 20 Gems of Org (one-time only)
+                - 8,000 Gold 
+                - Additional gold from request giver  
+      
 ## Village Shut Away in Silence 
 
 ### Find My Sister Lisa
@@ -110,7 +120,7 @@ This request requires Recovery of Salted Pork and Find my Sister Lisa requests c
 - Catch the cat three times, once in each Ice Storm Zone. On the third attempt, select the option of using dried fish. This will complete the request.
 - The cat will now permanently be in the Adventurer's Guild in the timeline. It can also see Lulunarde.
 
-### Witch Hunts in Elden Hill (1st Faction Request)
+### Witch Hunts in Elden Hill Village (1st Faction Request)
 
 ##### Overview 
 
@@ -850,7 +860,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
         - Not a mob dense area during the request with few fights on the path to the boss's room 
         - Primary danger is being Chilled or Frozen before reaching the boss
         - Enemy level is 70
-        - Enemis: Bigfoot, Bigfoot Child, Ice Cloud, Snow Slime, Abyssal Insects, Ice and Earth Entities
+        - Enemies: Bigfoot, Bigfoot Child, Ice Cloud, Snow Slime, Abyssal Insects, Ice and Earth Entities
     
     ??? map "Bigfoot Cave"
     
