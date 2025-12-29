@@ -15,30 +15,36 @@
     - Bigfoot fights at discovery points can be as challenging as the boss 
     - Side areas do not contain discovery points
     - Bring SP items in case of multiple Bigfoot fights 
+
+??? map "Discovery Points"
+
+        <div align="center">
+        ![](./img/salted-pork.jpg)
+        </div>
     
 ??? "Request Guide"
 
     - Accept the request and head to the Route 1 Harken (recommended) or the Route 2 Harken. The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-    - At 6 fixed locations (discovery points) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
+    - At 6 fixed locations (discovery points, red star) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
         - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
         - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
         - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
     - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and Hotspring on the floor to recover prior to engaging the boss (filled-in red star).
     - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
-    - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child.
+    - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
     - Remember to pick up the Salted Pork (green star) next to the Harken.
     - Exit and submit the request at the Guild.
     
         ??? tip "Rewards"
         
             ??? warning "Spare"
-                - Gems of Org x20 (one-time only)
+                - Gem of Org x20 (one-time only)
                 - 8,000 Gold
                 - Bigfoot's Offspring (Accuracy) 
                 - Triffia removed from inventory 
         
             ??? warning "Kill" 
-                - Gems of Org x20 (one-time only)
+                - Gem of Org x20 (one-time only)
                 - 8,000 Gold 
                 - Additional gold from request giver  
       
@@ -91,7 +97,7 @@
 
         ??? tip "Rewards"
 
-            - Gems of Org x20 (one-time only)
+            - Gem of Org x20 (one-time only)
             - Achievement - "The Two are Always Together"
             - Bondmate - Maya and Auntie Marta (Fear Tolerance)
             - 12,000 Gold   
