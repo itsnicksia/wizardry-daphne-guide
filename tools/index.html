@@ -1,29 +1,13 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Wizardry Equipment Finder</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8" />
+    <link href="/vite.svg" rel="icon" type="image/svg+xml" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>Wizardry Variants Daphne Tools - Blacksmithing Simulator</title>
 </head>
 <body>
-  <div class="container">
-    <h1>Wizardry Equipment Finder</h1>
-
-    <div class="search-box" id="search-box">
-      <div class="search-mode-toggle">
-        <button id="mode-equipment" class="mode-btn active">Equipment</button>
-        <button id="mode-junk" class="mode-btn">Junk</button>
-      </div>
-      <input type="text" class="search-input" id="search" placeholder="Search equipment (e.g., Bronze Dagger, 青銅の短剣)...">
-    </div>
-
-    <div class="results-header" id="results-header"></div>
-    <div id="results">
-      <div class="loading">Loading equipment data...</div>
-    </div>
-  </div>
-
-  <script src="app.js"></script>
+<div id="root"></div>
+<script src="./src/main.tsx" type="module"></script>
 </body>
 </html>
