@@ -100,7 +100,7 @@
     - Admiral Route
     - Requires finding the second missing person
 
-??? "Skill - "Bernard's Survival Savvy- Magic Power"
+??? "Skill - Bernard's Survival Savvy- Magic Power"
 
     <figure markdown>
     ![](./img/bernard-skill.png)
