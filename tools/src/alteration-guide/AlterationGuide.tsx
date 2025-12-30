@@ -4,9 +4,10 @@ import { BestEquipmentFinder } from './components/BestEquipmentFinder';
 import { AlterationLookup } from './components/AlterationLookup';
 import { BlessingMagnitude } from './components/BlessingMagnitude';
 import { LesserAlterationStone } from './components/LesserAlterationStone';
+import { FullAlterationMagnitude } from './components/FullAlterationMagnitude';
 import './alteration-guide.css';
 
-type TabId = 'best' | 'lookup' | 'magnitude' | 'lesser';
+type TabId = 'best' | 'lookup' | 'magnitude' | 'lesser' | 'full';
 
 interface Tab {
     id: TabId;
@@ -17,7 +18,8 @@ const TABS: Tab[] = [
     { id: 'best', label: 'Blessing Rates' },
     { id: 'lookup', label: 'Raw Data' },
     { id: 'magnitude', label: 'Blessing Values' },
-    { id: 'lesser', label: 'Full Alteration Stones' },
+    { id: 'lesser', label: 'Lesser Full Alt Stone' },
+    { id: 'full', label: 'Full Alt Stone' },
 ];
 
 export function AlterationGuide() {
@@ -70,6 +72,7 @@ export function AlterationGuide() {
                 {activeTab === 'lookup' && <AlterationLookup index={index} showJapanese={showJapanese} />}
                 {activeTab === 'magnitude' && <BlessingMagnitude />}
                 {activeTab === 'lesser' && <LesserAlterationStone />}
+                {activeTab === 'full' && <FullAlterationMagnitude />}
             </div>
         </div>
     );
