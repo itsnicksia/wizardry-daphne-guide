@@ -613,7 +613,7 @@
       ]
     },
     {
-      "name": "Bronze Mace",
+      "name": "Bronze One-Handed Blunt Weapon",
       "nameJp": "青銅の鎚矛",
       "tiers": [
         {
@@ -1225,7 +1225,7 @@
       ]
     },
     {
-      "name": "Bronze Two-Handed Mace",
+      "name": "Bronze Two-Handed Blunt Weapon",
       "nameJp": "青銅の両手鎚矛",
       "tiers": [
         {
@@ -1327,7 +1327,7 @@
       ]
     },
     {
-      "name": "Leather Buckler",
+      "name": "Leather Small Shield",
       "nameJp": "革の小盾",
       "tiers": [
         {
@@ -1531,7 +1531,7 @@
       ]
     },
     {
-      "name": "Leather Robe",
+      "name": "Leather Clothes",
       "nameJp": "革のローブ",
       "tiers": [
         {
@@ -2041,7 +2041,7 @@
       ]
     },
     {
-      "name": "Bronze Shield",
+      "name": "Bronze Light Shield",
       "nameJp": "青銅の盾",
       "tiers": [
         {
@@ -2143,7 +2143,7 @@
       ]
     },
     {
-      "name": "Bronze Light Helm",
+      "name": "Bronze Light Helmet",
       "nameJp": "青銅の軽兜",
       "tiers": [
         {
@@ -2449,7 +2449,7 @@
       ]
     },
     {
-      "name": "Bronze Light Greaves",
+      "name": "Bronze Light Armor Boots",
       "nameJp": "青銅の軽足鎧",
       "tiers": [
         {
@@ -2653,7 +2653,7 @@
       ]
     },
     {
-      "name": "Bronze Tower Shield",
+      "name": "Bronze Heavy Shield",
       "nameJp": "青銅の大盾",
       "tiers": [
         {
@@ -2755,7 +2755,7 @@
       ]
     },
     {
-      "name": "Bronze Heavy Helm",
+      "name": "Bronze Heavy Helmet",
       "nameJp": "青銅の重兜",
       "tiers": [
         {
@@ -3061,7 +3061,7 @@
       ]
     },
     {
-      "name": "Bronze Heavy Greaves",
+      "name": "Bronze Heavy Armor Boots",
       "nameJp": "青銅の重足鎧",
       "tiers": [
         {
@@ -4081,7 +4081,7 @@
       ]
     },
     {
-      "name": "Iron Mace",
+      "name": "Iron One-Handed Blunt Weapon",
       "nameJp": "鉄の鎚矛",
       "tiers": [
         {
@@ -4591,7 +4591,7 @@
       ]
     },
     {
-      "name": "Iron Two-Handed Mace",
+      "name": "Iron Two-Handed Blunt Weapon",
       "nameJp": "鉄の両手鎚矛",
       "tiers": [
         {
@@ -4693,7 +4693,7 @@
       ]
     },
     {
-      "name": "Beast Leather Buckler",
+      "name": "Beast Leather Small Shield",
       "nameJp": "獣革の小盾",
       "tiers": [
         {
@@ -4897,7 +4897,7 @@
       ]
     },
     {
-      "name": "Beast Leather Robe",
+      "name": "Beast Leather Clothes",
       "nameJp": "獣革のローブ",
       "tiers": [
         {
@@ -5203,7 +5203,7 @@
       ]
     },
     {
-      "name": "Iron Shield",
+      "name": "Iron Light Shield",
       "nameJp": "鉄の盾",
       "tiers": [
         {
@@ -5305,7 +5305,7 @@
       ]
     },
     {
-      "name": "Iron Light Helm",
+      "name": "Iron Light Helmet",
       "nameJp": "鉄の軽兜",
       "tiers": [
         {
@@ -5611,7 +5611,7 @@
       ]
     },
     {
-      "name": "Iron Light Greaves",
+      "name": "Iron Light Armor Boots",
       "nameJp": "鉄の軽足鎧",
       "tiers": [
         {
@@ -5713,7 +5713,7 @@
       ]
     },
     {
-      "name": "Iron Tower Shield",
+      "name": "Iron Heavy Shield",
       "nameJp": "鉄の大盾",
       "tiers": [
         {
@@ -5815,7 +5815,7 @@
       ]
     },
     {
-      "name": "Iron Heavy Helm",
+      "name": "Iron Heavy Helmet",
       "nameJp": "鉄の重兜",
       "tiers": [
         {
@@ -6121,7 +6121,7 @@
       ]
     },
     {
-      "name": "Iron Heavy Greaves",
+      "name": "Iron Heavy Armor Boots",
       "nameJp": "鉄の重足鎧",
       "tiers": [
         {
@@ -7039,7 +7039,7 @@
       ]
     },
     {
-      "name": "Exorcism Two-Handed Mace",
+      "name": "Exorcism Two-Handed Blunt Weapon",
       "nameJp": "退魔の両手鎚矛",
       "tiers": [
         {
@@ -7957,7 +7957,7 @@
       ]
     },
     {
-      "name": "Steel Mace",
+      "name": "Steel One-Handed Blunt Weapon",
       "nameJp": "鋼の鎚矛",
       "tiers": [
         {
@@ -8671,7 +8671,7 @@
       ]
     },
     {
-      "name": "Steel Two-Handed Mace",
+      "name": "Steel Two-Handed Blunt Weapon",
       "nameJp": "鋼の両手鎚矛",
       "tiers": [
         {
@@ -8773,7 +8773,7 @@
       ]
     },
     {
-      "name": "Scale Leather Buckler",
+      "name": "Scale Leather Small Shield",
       "nameJp": "うろこ革の小盾",
       "tiers": [
         {
@@ -8977,7 +8977,7 @@
       ]
     },
     {
-      "name": "Scale Leather Robe",
+      "name": "Scale Leather Clothes",
       "nameJp": "うろこ革のローブ",
       "tiers": [
         {
@@ -9385,7 +9385,7 @@
       ]
     },
     {
-      "name": "Mage's Robe",
+      "name": "Mage's Clothes",
       "nameJp": "魔術師のローブ",
       "tiers": [
         {
@@ -9691,7 +9691,7 @@
       ]
     },
     {
-      "name": "Steel Shield",
+      "name": "Steel Light Shield",
       "nameJp": "鋼の盾",
       "tiers": [
         {
@@ -9793,7 +9793,7 @@
       ]
     },
     {
-      "name": "Steel Light Helm",
+      "name": "Steel Light Helmet",
       "nameJp": "鋼の軽兜",
       "tiers": [
         {
@@ -10099,7 +10099,7 @@
       ]
     },
     {
-      "name": "Steel Light Greaves",
+      "name": "Steel Light Armor Boots",
       "nameJp": "鋼の軽足鎧",
       "tiers": [
         {
@@ -10201,7 +10201,7 @@
       ]
     },
     {
-      "name": "Steel Tower Shield",
+      "name": "Steel Heavy Shield",
       "nameJp": "鋼の大盾",
       "tiers": [
         {
@@ -10303,7 +10303,7 @@
       ]
     },
     {
-      "name": "Steel Heavy Helm",
+      "name": "Steel Heavy Helmet",
       "nameJp": "鋼の重兜",
       "tiers": [
         {
@@ -10609,7 +10609,7 @@
       ]
     },
     {
-      "name": "Steel Heavy Greaves",
+      "name": "Steel Heavy Armor Boots",
       "nameJp": "鋼の重足鎧",
       "tiers": [
         {
@@ -11425,7 +11425,7 @@
       ]
     },
     {
-      "name": "Water Zero War Club",
+      "name": "Water Zero Two-Handed Blunt Weapon",
       "nameJp": "水零の戦棍",
       "tiers": [
         {
@@ -11833,7 +11833,7 @@
       ]
     },
     {
-      "name": "Water Zero Heavy Mace",
+      "name": "Water Zero Two-Handed Blunt Weapon",
       "nameJp": "水零の重鎚矛",
       "tiers": [
         {
@@ -12037,7 +12037,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Mantle",
+      "name": "Aqua Blue Clothes",
       "nameJp": "水縹のマント",
       "tiers": [
         {
@@ -12343,7 +12343,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Heavy Helm",
+      "name": "Aqua Blue Heavy Helmet",
       "nameJp": "水縹の重冑",
       "tiers": [
         {
@@ -13057,7 +13057,7 @@
       ]
     },
     {
-      "name": "Earth Clod War Club",
+      "name": "Earth Clod Two-Handed Blunt Weapon",
       "nameJp": "土塊の戦棍",
       "tiers": [
         {
@@ -13465,7 +13465,7 @@
       ]
     },
     {
-      "name": "Earth Clod Heavy Mace",
+      "name": "Earth Clod Two-Handed Blunt Weapon",
       "nameJp": "土塊の重鎚矛",
       "tiers": [
         {
@@ -14179,7 +14179,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Mace",
+      "name": "Ebonsteel One-Handed Blunt Weapon",
       "nameJp": "冥鋼の鎚矛",
       "tiers": [
         {
@@ -14791,7 +14791,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Two-Handed Mace",
+      "name": "Ebonsteel Two-Handed Blunt Weapon",
       "nameJp": "冥鋼の両手鎚矛",
       "tiers": [
         {
@@ -15097,7 +15097,7 @@
       ]
     },
     {
-      "name": "Veil Robe",
+      "name": "Veil Clothes",
       "nameJp": "ヴェイルローブ",
       "tiers": [
         {
@@ -15607,7 +15607,7 @@
       ]
     },
     {
-      "name": "Magic Spring Robe",
+      "name": "Magic Spring Clothes",
       "nameJp": "魔泉のローブ",
       "tiers": [
         {
@@ -15709,7 +15709,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Shield",
+      "name": "Ebonsteel Light Shield",
       "nameJp": "冥鋼の盾",
       "tiers": [
         {
@@ -15811,7 +15811,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Light Helm",
+      "name": "Ebonsteel Light Helmet",
       "nameJp": "冥鋼の軽兜",
       "tiers": [
         {
@@ -16117,7 +16117,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Light Greaves",
+      "name": "Ebonsteel Light Armor Boots",
       "nameJp": "冥鋼の軽足鎧",
       "tiers": [
         {
@@ -16321,7 +16321,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Tower Shield",
+      "name": "Ebonsteel Heavy Shield",
       "nameJp": "冥鋼の大盾",
       "tiers": [
         {
@@ -16423,7 +16423,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Heavy Helm",
+      "name": "Ebonsteel Heavy Helmet",
       "nameJp": "冥鋼の重兜",
       "tiers": [
         {
@@ -16729,7 +16729,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Heavy Greaves",
+      "name": "Ebonsteel Heavy Armor Boots",
       "nameJp": "冥鋼の重足鎧",
       "tiers": [
         {
@@ -18769,7 +18769,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Mace",
+      "name": "Evil Banishing One-Handed Blunt Weapon",
       "nameJp": "破魔の鎚矛",
       "tiers": [
         {
@@ -19891,7 +19891,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness War Club",
+      "name": "Eternal Darkness Two-Handed Blunt Weapon",
       "nameJp": "常闇の戦棍",
       "tiers": [
         {
@@ -20299,7 +20299,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Heavy Mace",
+      "name": "Eternal Darkness Two-Handed Blunt Weapon",
       "nameJp": "常闇の重鎚矛",
       "tiers": [
         {
@@ -20503,7 +20503,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Mantle",
+      "name": "Dim Darkness Clothes",
       "nameJp": "幽闇のマント",
       "tiers": [
         {
@@ -20809,7 +20809,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Heavy Helm",
+      "name": "Dim Darkness Heavy Helmet",
       "nameJp": "幽闇の重兜",
       "tiers": [
         {
@@ -22441,7 +22441,7 @@
       ]
     },
     {
-      "name": "Silver Mace",
+      "name": "Silver One-Handed Blunt Weapon",
       "nameJp": "銀の鎚矛",
       "tiers": [
         {
@@ -23155,7 +23155,7 @@
       ]
     },
     {
-      "name": "Silver Two-Handed Mace",
+      "name": "Silver Two-Handed Blunt Weapon",
       "nameJp": "銀の両手鎚矛",
       "tiers": [
         {
@@ -23257,7 +23257,7 @@
       ]
     },
     {
-      "name": "Black Wing Buckler",
+      "name": "Black Wing Small Shield",
       "nameJp": "黒翼の小盾",
       "tiers": [
         {
@@ -23461,7 +23461,7 @@
       ]
     },
     {
-      "name": "Black Wing Robe",
+      "name": "Black Wing Clothes",
       "nameJp": "黒翼のローブ",
       "tiers": [
         {
@@ -23665,7 +23665,7 @@
       ]
     },
     {
-      "name": "Silver Light Greaves",
+      "name": "Silver Light Armor Boots",
       "nameJp": "銀の軽足鎧",
       "tiers": [
         {
@@ -24379,7 +24379,7 @@
       ]
     },
     {
-      "name": "Silver Shield",
+      "name": "Silver Light Shield",
       "nameJp": "銀の盾",
       "tiers": [
         {
@@ -24481,7 +24481,7 @@
       ]
     },
     {
-      "name": "Silver Light Helm",
+      "name": "Silver Light Helmet",
       "nameJp": "銀の軽兜",
       "tiers": [
         {
@@ -24991,7 +24991,7 @@
       ]
     },
     {
-      "name": "Silver Tower Shield",
+      "name": "Silver Heavy Shield",
       "nameJp": "銀の大盾",
       "tiers": [
         {
@@ -25093,7 +25093,7 @@
       ]
     },
     {
-      "name": "Silver Heavy Helm",
+      "name": "Silver Heavy Helmet",
       "nameJp": "銀の重兜",
       "tiers": [
         {
@@ -25399,7 +25399,7 @@
       ]
     },
     {
-      "name": "Silver Heavy Greaves",
+      "name": "Silver Heavy Armor Boots",
       "nameJp": "銀の重足鎧",
       "tiers": [
         {
@@ -26827,7 +26827,7 @@
       ]
     },
     {
-      "name": "Earthrend Mace",
+      "name": "Earthrend One-Handed Blunt Weapon",
       "nameJp": "地裂の鎚矛",
       "tiers": [
         {
@@ -27235,7 +27235,7 @@
       ]
     },
     {
-      "name": "Earthrend Two-Handed Mace",
+      "name": "Earthrend Two-Handed Blunt Weapon",
       "nameJp": "地裂の両手鎚矛",
       "tiers": [
         {
@@ -27439,7 +27439,7 @@
       ]
     },
     {
-      "name": "Earthrend Mantle",
+      "name": "Earthrend Clothes",
       "nameJp": "地裂のマント",
       "tiers": [
         {
@@ -27745,7 +27745,7 @@
       ]
     },
     {
-      "name": "Earthrend Heavy Helm",
+      "name": "Earthrend Heavy Helmet",
       "nameJp": "地裂の重冑",
       "tiers": [
         {
@@ -29071,7 +29071,7 @@
       ]
     },
     {
-      "name": "Flame War Club",
+      "name": "Flame Two-Handed Blunt Weapon",
       "nameJp": "火炎の戦棍",
       "tiers": [
         {
@@ -29479,7 +29479,7 @@
       ]
     },
     {
-      "name": "Flame Heavy Mace",
+      "name": "Flame Two-Handed Blunt Weapon",
       "nameJp": "火炎の重鎚矛",
       "tiers": [
         {
@@ -29683,7 +29683,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Mantle",
+      "name": "Crimson Flame Clothes",
       "nameJp": "焔紅のマント",
       "tiers": [
         {
@@ -29989,7 +29989,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Heavy Helm",
+      "name": "Crimson Flame Heavy Helmet",
       "nameJp": "焔紅の重冑",
       "tiers": [
         {
@@ -30703,7 +30703,7 @@
       ]
     },
     {
-      "name": "Gale War Club",
+      "name": "Gale Two-Handed Blunt Weapon",
       "nameJp": "疾風の戦棍",
       "tiers": [
         {
@@ -31111,7 +31111,7 @@
       ]
     },
     {
-      "name": "Gale Heavy Mace",
+      "name": "Gale Two-Handed Blunt Weapon",
       "nameJp": "疾風の重鎚矛",
       "tiers": [
         {
@@ -31315,7 +31315,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Mantle",
+      "name": "Verdant Wind Clothes",
       "nameJp": "翠風のマント",
       "tiers": [
         {
@@ -31621,7 +31621,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Heavy Helm",
+      "name": "Verdant Wind Heavy Helmet",
       "nameJp": "翠風の重冑",
       "tiers": [
         {
@@ -32335,7 +32335,7 @@
       ]
     },
     {
-      "name": "Aurora War Club",
+      "name": "Aurora Two-Handed Blunt Weapon",
       "nameJp": "極光の戦棍",
       "tiers": [
         {
@@ -32743,7 +32743,7 @@
       ]
     },
     {
-      "name": "Aurora Heavy Mace",
+      "name": "Aurora Two-Handed Blunt Weapon",
       "nameJp": "極光の重鎚矛",
       "tiers": [
         {
@@ -32947,7 +32947,7 @@
       ]
     },
     {
-      "name": "Light Spirit Mantle",
+      "name": "Light Spirit Clothes",
       "nameJp": "光精のマント",
       "tiers": [
         {
@@ -33253,7 +33253,7 @@
       ]
     },
     {
-      "name": "Light Spirit Heavy Helm",
+      "name": "Light Spirit Heavy Helmet",
       "nameJp": "光精の重冑",
       "tiers": [
         {
@@ -33661,7 +33661,7 @@
       ]
     },
     {
-      "name": "Earth Crest Robe",
+      "name": "Earth Crest Clothes",
       "nameJp": "土紋のローブ",
       "tiers": [
         {
@@ -33967,7 +33967,7 @@
       ]
     },
     {
-      "name": "Earth Crest Heavy Helm",
+      "name": "Earth Crest Heavy Helmet",
       "nameJp": "土紋の重冑",
       "tiers": [
         {
@@ -34681,7 +34681,7 @@
       ]
     },
     {
-      "name": "Ephemeral Mace",
+      "name": "Ephemeral One-Handed Blunt Weapon",
       "nameJp": "泡沫の鎚矛",
       "tiers": [
         {
@@ -35089,7 +35089,7 @@
       ]
     },
     {
-      "name": "Ephemeral Two-Handed Mace",
+      "name": "Ephemeral Two-Handed Blunt Weapon",
       "nameJp": "泡沫の両手鎚矛",
       "tiers": [
         {
@@ -35293,7 +35293,7 @@
       ]
     },
     {
-      "name": "Ephemeral Mantle",
+      "name": "Ephemeral Clothes",
       "nameJp": "泡沫のマント",
       "tiers": [
         {
@@ -35701,7 +35701,7 @@
       ]
     },
     {
-      "name": "Ephemeral Heavy Helm",
+      "name": "Ephemeral Heavy Helmet",
       "nameJp": "泡沫の重冑",
       "tiers": [
         {
@@ -35905,7 +35905,7 @@
       ]
     },
     {
-      "name": "Purple Brown Shield",
+      "name": "Mauve Shield",
       "nameJp": "紫褐色の盾",
       "tiers": [
         {
@@ -36007,7 +36007,7 @@
       ]
     },
     {
-      "name": "Feather Bronze Gauntlets",
+      "name": "Featherbronze Gauntlet",
       "nameJp": "羽銅の篭手",
       "tiers": [
         {
@@ -36415,7 +36415,7 @@
       ]
     },
     {
-      "name": "Troll Ring",
+      "name": "Trollkin Ring",
       "nameJp": "トロールの指輪",
       "tiers": [
         {
@@ -36619,7 +36619,7 @@
       ]
     },
     {
-      "name": "Resentful Helmet",
+      "name": "Helm of Malice",
       "nameJp": "怨嗟の冑",
       "tiers": [
         {
@@ -37231,7 +37231,7 @@
       ]
     },
     {
-      "name": "Heat Haze Light Greaves",
+      "name": "Heat Haze Light Armor Boots",
       "nameJp": "陽炎の軽足鎧",
       "tiers": [
         {
@@ -38047,7 +38047,7 @@
       ]
     },
     {
-      "name": "Parting Light Helm",
+      "name": "Parting Light Helmet",
       "nameJp": "別離の軽兜",
       "tiers": [
         {
@@ -38149,7 +38149,7 @@
       ]
     },
     {
-      "name": "Hundred Flowers Light Helm",
+      "name": "Hundred Flowers Light Helmet",
       "nameJp": "百花の軽兜",
       "tiers": [
         {
