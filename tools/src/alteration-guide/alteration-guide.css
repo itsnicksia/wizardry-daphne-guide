@@ -401,6 +401,35 @@
     border-color: var(--ag-accent-gold);
 }
 
+.ag-magnitude-quality-selector {
+    display: flex;
+    gap: 0.375rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.ag-magnitude-quality-btn {
+    padding: 0.25rem 0.5rem;
+    background-color: var(--ag-bg-secondary);
+    border: 1px solid var(--ag-border-color);
+    border-radius: 4px;
+    color: var(--ag-text-secondary);
+    cursor: pointer;
+    font-size: 0.75rem;
+    transition: all 0.2s;
+}
+
+.ag-magnitude-quality-btn:hover {
+    background-color: var(--ag-bg-card);
+    color: var(--ag-accent-gold);
+}
+
+.ag-magnitude-quality-btn.active {
+    background-color: rgba(212, 128, 17, 0.2);
+    color: var(--ag-accent-gold);
+    border-color: var(--ag-accent-gold);
+}
+
 .ag-magnitude-table-wrapper {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;

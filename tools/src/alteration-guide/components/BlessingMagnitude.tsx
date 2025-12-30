@@ -396,12 +396,25 @@ function getMaxValueTier(data: MagnitudeData): number {
     return max;
 }
 
+const QUALITIES: Quality[] = [1, 2, 3, 4, 5];
+
 export function BlessingMagnitude() {
     const [selectedCategory, setSelectedCategory] = useState<EquipmentRankCategory>('rank1to5');
+    const [selectedQualities, setSelectedQualities] = useState<Quality[]>([1, 2, 3, 4, 5]);
 
     const data = DATA_BY_CATEGORY[selectedCategory];
     const maxTier = getMaxValueTier(data);
     const tiers = Array.from({ length: maxTier }, (_, i) => i + 1);
+
+    const toggleQuality = (quality: Quality) => {
+        if (selectedQualities.includes(quality)) {
+            if (selectedQualities.length > 1) {
+                setSelectedQualities(selectedQualities.filter(q => q !== quality));
+            }
+        } else {
+            setSelectedQualities([...selectedQualities, quality].sort());
+        }
+    };
 
     return (
         <div className="ag-magnitude">
@@ -422,6 +435,18 @@ export function BlessingMagnitude() {
                 ))}
             </div>
 
+            <div className="ag-magnitude-quality-selector">
+                {QUALITIES.map((quality) => (
+                    <button
+                        key={quality}
+                        className={`ag-magnitude-quality-btn ${selectedQualities.includes(quality) ? 'active' : ''}`}
+                        onClick={() => toggleQuality(quality)}
+                    >
+                        {'★'.repeat(quality)}
+                    </button>
+                ))}
+            </div>
+
             <div className="ag-magnitude-table-wrapper">
                 <table className="ag-magnitude-table">
                     <thead>
@@ -434,7 +459,7 @@ export function BlessingMagnitude() {
                         </tr>
                     </thead>
                     <tbody>
-                        {([1, 2, 3, 4, 5] as Quality[]).map((quality) => (
+                        {QUALITIES.filter(q => selectedQualities.includes(q)).map((quality) => (
                             STATS.map((stat, statIdx) => {
                                 const range = data[quality][stat.id];
                                 const isFirstStat = statIdx === 0;
