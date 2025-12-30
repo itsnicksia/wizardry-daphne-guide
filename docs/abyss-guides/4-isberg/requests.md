@@ -194,8 +194,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     ??? note "Reset Faction Request" 
     
-        - Deepsnow Hinterlands Entrance U+203A Blizzard Blocking the Path (Route 4 entrance) U+203A Exit via Route 3 Harken
-        - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) U+203A Exit via nearby Harken
+        - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
+        - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
     
     ??? tip "Guiding Lights"
     
@@ -305,11 +305,12 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         === "Map"
 
             ??? map "Dropdown to B2F"
-                    <div align="center">
-                    ![](./img/princess-hole.png)
-                    </div>
+            
+                <div align="center">
+                ![](./img/princess-hole.png)
+                </div>
 
-        === "Mini-Boss: Cyclops"
+        === "Boss: Cyclops"
             
             - More details to be added soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -332,7 +333,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - Return to Elden Hill Village 
                 - Enter the Witch's Cave 
                 - Go north and down the stairs to B2F
-                - Both request items are located on this floor 
+                - Both request items are located on this floor. See Map tab for details 
                 - Exit 
                 - Speak with Dylanhardt in town 
                 - Ending sequence begins automatically 
@@ -601,7 +602,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
     ??? note "Brazier Offerings"
 
-        === note "Process"
+        === "Process"
     
             - Interact with the brazier and it will request an offering
             - Collect the offering via fighting enemies or returning to town 
@@ -611,7 +612,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Repeat until the witch's door is unlocked
             - On a subsequent run you can speak with Elinas in town to reduce the total number of offering requests
     
-        === note "Requests"
+        === "Requests"
         
             - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
             - Request 2 - Broom - Return to town and speak with Elinas
@@ -619,7 +620,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Request 4 - Infant (Lamb) - Return to town and speak with Elinas
             - Request 5 - Gold Ore - Defeat 3 back-to-back groups of tough enemies 
         
-        === note "Elinas Town Offerings" 
+        === "Elinas Town Offerings" 
         
             - Only available after a first run
             - Talk to Elinas in town before entering the Witch's Cave
