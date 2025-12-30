@@ -102,11 +102,11 @@
 
     ![](./img/witchs-cave-b2f.png)
 
-## Miscellaneous Maps
-
 ??? map "Bigfoot Cave"
 
     ![](./img/bigfoot-cave.png)
+
+## Miscellaneous Maps
 
 ??? map "Dwarves Cave"
 
