@@ -265,6 +265,68 @@ test('crossref: Leather Hat (革の帽子) tier 4 DEF%', () => {
     assert.strictEqual(tier4!.stats['DEF%'], 12, `Expected 12, got ${tier4!.stats['DEF%']}`);
 });
 
+test('crossref: Hardwood Bow (硬木の弓) tier 1 has ASPD% and ASPD', () => {
+    const equip = findEquipment('硬木の弓');
+    assert.ok(equip, 'Hardwood Bow not found');
+    const tier1 = equip.tiers.find(t => t.tier === 1);
+    assert.ok(tier1, 'Tier 1 not found');
+    assert.ok(approxEqual(tier1.stats['ASPD%']!, 1.7923, 0.0001), `Expected ASPD% 1.7923, got ${tier1.stats['ASPD%']}`);
+    assert.ok(approxEqual(tier1.stats['ASPD']!, 16.1711, 0.0001), `Expected ASPD 16.1711, got ${tier1.stats['ASPD']}`);
+    assert.ok(approxEqual(tier1.stats['SUR']!, 16.1711, 0.0001), `Expected SUR 16.1711, got ${tier1.stats['SUR']}`);
+});
+
+test('crossref: Bronze Sword (青銅の剣) tier 1 ATK%', () => {
+    const equip = findEquipment('青銅の剣');
+    assert.ok(equip, 'Bronze Sword not found');
+    const tier1 = equip.tiers.find(t => t.tier === 1);
+    assert.ok(tier1, 'Tier 1 not found');
+    assert.ok(approxEqual(tier1.stats['ATK%']!, 2.9015, 0.0001), `Expected 2.9015, got ${tier1.stats['ATK%']}`);
+});
+
+test('crossref: Bronze One-Handed Axe (青銅の片手斧) tier 4 ATK%', () => {
+    const equip = findEquipment('青銅の片手斧');
+    assert.ok(equip, 'Bronze One-Handed Axe not found');
+    const tier4 = equip.tiers.find(t => t.tier === 4);
+    assert.ok(tier4, 'Tier 4 not found');
+    assert.ok(approxEqual(tier4.stats['ATK%']!, 39.8216, 0.0001), `Expected 39.8216, got ${tier4.stats['ATK%']}`);
+});
+
+test('crossref: Bronze Mace (青銅の鎚矛) tier 1 DIV%', () => {
+    const equip = findEquipment('青銅の鎚矛');
+    assert.ok(equip, 'Bronze Mace not found');
+    const tier1 = equip.tiers.find(t => t.tier === 1);
+    assert.ok(tier1, 'Tier 1 not found');
+    assert.ok(approxEqual(tier1.stats['DIV%']!, 1.3479, 0.0001), `Expected 1.3479, got ${tier1.stats['DIV%']}`);
+});
+
+console.log('\n=== Translation Validation Tests ===\n');
+
+test('translation: all equipment have English names (no Japanese characters)', () => {
+    const jpRegex = /[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf]/;
+    const violations: string[] = [];
+    for (const equip of data.equipment) {
+        if (jpRegex.test(equip.name)) {
+            violations.push(`${equip.nameJp} -> ${equip.name}`);
+        }
+    }
+    assert.ok(violations.length === 0, `Untranslated items:\n  ${violations.slice(0, 5).join('\n  ')}`);
+});
+
+test('translation: all English names are unique', () => {
+    const names = data.equipment.map(e => e.name.toLowerCase());
+    const counts: Record<string, number> = {};
+    names.forEach(n => { counts[n] = (counts[n] || 0) + 1; });
+    const duplicates = Object.entries(counts).filter(([_, c]) => c > 1);
+    assert.ok(duplicates.length === 0, `Duplicate names:\n  ${duplicates.map(([n, c]) => `${n}: ${c}`).slice(0, 5).join('\n  ')}`);
+});
+
+test('translation: all Japanese names are unique', () => {
+    const names = data.equipment.map(e => e.nameJp);
+    const uniqueNames = new Set(names);
+    assert.strictEqual(uniqueNames.size, data.equipment.length,
+        `Expected ${data.equipment.length} unique JP names, got ${uniqueNames.size}`);
+});
+
 console.log('\n=== Index Building Tests ===\n');
 
 const index = buildAlterationIndex(data);
@@ -290,12 +352,8 @@ test('index: no duplicate group names (KNOWN ISSUE: Shield collision)', () => {
     assert.ok(duplicates.length <= 1, `Too many duplicates: ${duplicates}`);
 });
 
-test('index: all equipment indexed by English name (KNOWN ISSUE: Fine Katana collision)', () => {
-    if (index.byName.size === 382) {
-        console.log(`  ⚠ Known issue: 382/383 indexed (Fine Katana translation collision)`);
-        console.log(`    Two JP items (上作の刀 and 中上作の刀) both translate to "Fine Katana"`);
-    }
-    assert.ok(index.byName.size >= 382, `Expected 382-383, got ${index.byName.size}`);
+test('index: all equipment indexed by English name', () => {
+    assert.strictEqual(index.byName.size, 383, `Expected 383, got ${index.byName.size}`);
 });
 
 test('index: all equipment indexed by Japanese name', () => {
