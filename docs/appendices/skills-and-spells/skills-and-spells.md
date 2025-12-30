@@ -31,7 +31,7 @@
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Damage']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
-## Heal and Buff Spells
+## Support Spells
 
 === "Spell Description"
 
