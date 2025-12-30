@@ -829,9 +829,7 @@ This request doesn't have any pre-requisites.
     
     - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
     - After defeating 4 wolf packs the 5th encounter will be a boss fight against the Snow Wolf Leader.
-
-        ??? "Subsequent Runs"
-            - A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
+    - (Subsequent Runs) A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
     - Exit and return to the Guild to submit the request.
 
         ??? warning "Rewards"
