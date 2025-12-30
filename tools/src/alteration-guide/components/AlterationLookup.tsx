@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import type { AlterationIndex, AlterationEquipment, AlterationStatType, TierNumber } from '../../types/alteration';
+import type { AlterationIndex, AlterationStatType, TierNumber, EquipmentGroup } from '../../types/alteration';
 
 const TIER_LABELS: Record<TierNumber, string> = { 1: '+5', 2: '+10', 3: '+15', 4: '+20' };
 
@@ -17,18 +17,29 @@ const FIXED_STATS: AlterationStatType[] = [
 
 export function AlterationLookup({ index }: AlterationLookupProps) {
     const [search, setSearch] = useState('');
-    const [selectedEquipment, setSelectedEquipment] = useState<AlterationEquipment | null>(null);
+    const [selectedGroup, setSelectedGroup] = useState<EquipmentGroup | null>(null);
+    const [showGroupItems, setShowGroupItems] = useState(false);
 
-    const filteredEquipment = useMemo(() => {
+    const filteredGroups = useMemo(() => {
         if (!search.trim()) return [];
 
         const term = search.toLowerCase();
-        return index.equipmentList
-            .filter(e =>
-                e.name.toLowerCase().includes(term) ||
-                e.nameJp.includes(search)
-            )
-            .slice(0, 20);
+        const matchedGroups = new Map<string, EquipmentGroup>();
+
+        for (const group of index.groups) {
+            if (group.typeName.toLowerCase().includes(term)) {
+                matchedGroups.set(group.typeName, group);
+                continue;
+            }
+            for (const item of group.items) {
+                if (item.name.toLowerCase().includes(term) || item.nameJp.includes(search)) {
+                    matchedGroups.set(group.typeName, group);
+                    break;
+                }
+            }
+        }
+
+        return Array.from(matchedGroups.values()).slice(0, 20);
     }, [index, search]);
 
     const formatValue = (value: number | null) => {
@@ -43,26 +54,32 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                 <input
                     type="text"
                     className="ag-search-input"
-                    placeholder="Type equipment name (English or Japanese)..."
+                    placeholder="Type equipment name or type..."
                     value={search}
-                    onChange={(e) => setSearch(e.target.value)}
+                    onChange={(e) => {
+                        setSearch(e.target.value);
+                        if (selectedGroup) setSelectedGroup(null);
+                    }}
                 />
 
-                {filteredEquipment.length > 0 && !selectedEquipment && (
+                {filteredGroups.length > 0 && !selectedGroup && (
                     <div className="ag-ranking-list">
-                        {filteredEquipment.map((equip) => (
+                        {filteredGroups.map((group) => (
                             <div
-                                key={equip.nameJp}
-                                className="ag-ranking-item"
-                                style={{ cursor: 'pointer' }}
+                                key={group.typeName}
+                                className="ag-ranking-item ag-ranking-item-expandable"
                                 onClick={() => {
-                                    setSelectedEquipment(equip);
-                                    setSearch(equip.name);
+                                    setSelectedGroup(group);
+                                    setSearch(group.typeName);
                                 }}
                             >
                                 <div className="ag-ranking-name">
-                                    <div className="ag-ranking-name-en">{equip.name}</div>
-                                    <div className="ag-ranking-name-jp">{equip.nameJp}</div>
+                                    <div className="ag-ranking-name-en">
+                                        {group.typeName}
+                                        {group.items.length > 1 && (
+                                            <span className="ag-item-count">({group.items.length} items)</span>
+                                        )}
+                                    </div>
                                 </div>
                             </div>
                         ))}
@@ -70,13 +87,13 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                 )}
             </div>
 
-            {selectedEquipment && (
+            {selectedGroup && (
                 <div className="ag-card">
                     <div className="ag-card-title">
-                        {selectedEquipment.name}
+                        {selectedGroup.typeName}
                         <button
                             onClick={() => {
-                                setSelectedEquipment(null);
+                                setSelectedGroup(null);
                                 setSearch('');
                             }}
                             style={{
@@ -93,6 +110,37 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                             Clear
                         </button>
                     </div>
+
+                    {selectedGroup.items.length > 1 && (
+                        <div
+                            className="ag-group-toggle"
+                            onClick={() => setShowGroupItems(!showGroupItems)}
+                            style={{
+                                cursor: 'pointer',
+                                padding: '0.5rem',
+                                marginBottom: '0.5rem',
+                                backgroundColor: 'var(--ag-bg-secondary)',
+                                borderRadius: '4px',
+                                fontSize: '0.875rem',
+                                color: 'var(--ag-text-secondary)'
+                            }}
+                        >
+                            <span className="ag-expand-icon">{showGroupItems ? '▼' : '▶'}</span>
+                            {selectedGroup.items.length} items with identical rates
+                        </div>
+                    )}
+
+                    {showGroupItems && (
+                        <div className="ag-group-items" style={{ marginLeft: 0, marginBottom: '1rem' }}>
+                            {selectedGroup.items.map(equip => (
+                                <div key={equip.nameJp} className="ag-group-item">
+                                    <span className="ag-group-item-name">{equip.name}</span>
+                                    <span className="ag-group-item-jp">{equip.nameJp}</span>
+                                </div>
+                            ))}
+                        </div>
+                    )}
+
                     <div style={{ overflowX: 'auto' }}>
                         <table className="ag-stats-table">
                             <thead>
@@ -104,7 +152,7 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                                 </tr>
                             </thead>
                             <tbody>
-                                {selectedEquipment.tiers.map(tier => (
+                                {selectedGroup.tiers.map(tier => (
                                     <tr key={tier.tier} className={`tier-${tier.tier}`}>
                                         <td>{TIER_LABELS[tier.tier]}</td>
                                         {PERCENTAGE_STATS.map(stat => (
@@ -132,7 +180,7 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                                 </tr>
                             </thead>
                             <tbody>
-                                {selectedEquipment.tiers.map(tier => (
+                                {selectedGroup.tiers.map(tier => (
                                     <tr key={tier.tier} className={`tier-${tier.tier}`}>
                                         <td>{TIER_LABELS[tier.tier]}</td>
                                         {FIXED_STATS.map(stat => (

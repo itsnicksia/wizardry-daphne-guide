@@ -166,6 +166,11 @@
     gap: 0.5rem;
 }
 
+.ag-ranking-item-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .ag-ranking-item {
     display: flex;
     align-items: center;
@@ -174,6 +179,52 @@
     background-color: var(--ag-bg-secondary);
     border: 1px solid var(--ag-border-color);
     border-radius: 4px;
+}
+
+.ag-ranking-item-expandable {
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.ag-ranking-item-expandable:hover {
+    background-color: var(--ag-bg-card);
+}
+
+.ag-expand-icon {
+    font-size: 0.625rem;
+    margin-right: 0.375rem;
+    color: var(--ag-text-secondary);
+}
+
+.ag-item-count {
+    font-size: 0.75rem;
+    color: var(--ag-text-secondary);
+    margin-left: 0.375rem;
+}
+
+.ag-group-items {
+    margin-left: 2.75rem;
+    padding: 0.5rem;
+    background-color: var(--ag-bg-card);
+    border: 1px solid var(--ag-border-color);
+    border-top: none;
+    border-radius: 0 0 4px 4px;
+}
+
+.ag-group-item {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.ag-group-item-name {
+    color: var(--ag-text-primary);
+}
+
+.ag-group-item-jp {
+    color: var(--ag-text-secondary);
+    font-size: 0.75rem;
 }
 
 .ag-ranking-rank {

@@ -1,5 +1,5 @@
 import { useState, useMemo } from 'react';
-import type { AlterationIndex, AlterationEquipment, AlterationStatType, TierNumber } from '../../types/alteration';
+import type { AlterationIndex, AlterationStatType, TierNumber, EquipmentGroup } from '../../types/alteration';
 import { StatSelector } from './StatSelector';
 import { TierToggle } from './TierToggle';
 import { calculateExpectedValue } from '../utils/calculateExpectedValue';
@@ -10,74 +10,87 @@ interface ExpectedValueCalculatorProps {
 
 export function ExpectedValueCalculator({ index }: ExpectedValueCalculatorProps) {
     const [search, setSearch] = useState('');
-    const [selectedEquipment, setSelectedEquipment] = useState<AlterationEquipment | null>(null);
+    const [selectedGroup, setSelectedGroup] = useState<EquipmentGroup | null>(null);
     const [selectedStats, setSelectedStats] = useState<AlterationStatType[]>(['ATK%']);
     const [selectedTiers, setSelectedTiers] = useState<TierNumber[]>([4]);
 
-    const filteredEquipment = useMemo(() => {
-        if (!search.trim() || selectedEquipment) return [];
+    const filteredGroups = useMemo(() => {
+        if (!search.trim() || selectedGroup) return [];
 
         const term = search.toLowerCase();
-        return index.equipmentList
-            .filter(e =>
-                e.name.toLowerCase().includes(term) ||
-                e.nameJp.includes(search)
-            )
-            .slice(0, 10);
-    }, [index, search, selectedEquipment]);
+        const matchedGroups: EquipmentGroup[] = [];
+
+        for (const group of index.groups) {
+            if (group.typeName.toLowerCase().includes(term)) {
+                matchedGroups.push(group);
+                continue;
+            }
+            for (const item of group.items) {
+                if (item.name.toLowerCase().includes(term) || item.nameJp.includes(search)) {
+                    matchedGroups.push(group);
+                    break;
+                }
+            }
+        }
+
+        return matchedGroups.slice(0, 10);
+    }, [index, search, selectedGroup]);
 
     const evResult = useMemo(() => {
-        if (!selectedEquipment || selectedStats.length === 0 || selectedTiers.length === 0) {
+        if (!selectedGroup || selectedStats.length === 0 || selectedTiers.length === 0) {
             return null;
         }
 
-        const tier = selectedEquipment.tiers.find(t => t.tier === selectedTiers[0]);
+        const tier = selectedGroup.tiers.find(t => t.tier === selectedTiers[0]);
         if (!tier) return null;
 
         return calculateExpectedValue(tier.stats, selectedStats);
-    }, [selectedEquipment, selectedStats, selectedTiers]);
+    }, [selectedGroup, selectedStats, selectedTiers]);
 
     return (
         <div>
             <div className="ag-card">
-                <div className="ag-card-title">Select Equipment</div>
+                <div className="ag-card-title">Select Equipment Type</div>
                 <input
                     type="text"
                     className="ag-search-input"
-                    placeholder="Type equipment name..."
+                    placeholder="Type equipment name or type..."
                     value={search}
                     onChange={(e) => {
                         setSearch(e.target.value);
-                        if (selectedEquipment && e.target.value !== selectedEquipment.name) {
-                            setSelectedEquipment(null);
+                        if (selectedGroup && e.target.value !== selectedGroup.typeName) {
+                            setSelectedGroup(null);
                         }
                     }}
                 />
 
-                {filteredEquipment.length > 0 && (
+                {filteredGroups.length > 0 && (
                     <div className="ag-ranking-list">
-                        {filteredEquipment.map((equip) => (
+                        {filteredGroups.map((group) => (
                             <div
-                                key={equip.nameJp}
-                                className="ag-ranking-item"
-                                style={{ cursor: 'pointer' }}
+                                key={group.typeName}
+                                className="ag-ranking-item ag-ranking-item-expandable"
                                 onClick={() => {
-                                    setSelectedEquipment(equip);
-                                    setSearch(equip.name);
+                                    setSelectedGroup(group);
+                                    setSearch(group.typeName);
                                 }}
                             >
                                 <div className="ag-ranking-name">
-                                    <div className="ag-ranking-name-en">{equip.name}</div>
-                                    <div className="ag-ranking-name-jp">{equip.nameJp}</div>
+                                    <div className="ag-ranking-name-en">
+                                        {group.typeName}
+                                        {group.items.length > 1 && (
+                                            <span className="ag-item-count">({group.items.length} items)</span>
+                                        )}
+                                    </div>
                                 </div>
                             </div>
                         ))}
                     </div>
                 )}
 
-                {selectedEquipment && (
+                {selectedGroup && (
                     <div style={{ marginTop: '0.5rem', color: 'var(--ag-accent-gold)' }}>
-                        Selected: {selectedEquipment.name}
+                        Selected: {selectedGroup.typeName}
                     </div>
                 )}
             </div>

@@ -35,10 +35,15 @@ export interface AlterationData {
 }
 
 export interface StatRanking {
-    equipment: string;
-    equipmentJp: string;
+    groupName: string;
     probability: number;
     tier: TierNumber;
+}
+
+export interface EquipmentGroup {
+    typeName: string;
+    items: AlterationEquipment[];
+    tiers: AlterationTier[];
 }
 
 export interface IndexedAlterationEquipment {
@@ -49,6 +54,7 @@ export interface IndexedAlterationEquipment {
 
 export interface AlterationIndex {
     byStatRanking: Map<AlterationStatType, StatRanking[]>;
+    groups: EquipmentGroup[];
     byName: Map<string, IndexedAlterationEquipment>;
     byNameJp: Map<string, IndexedAlterationEquipment>;
     equipmentList: AlterationEquipment[];
