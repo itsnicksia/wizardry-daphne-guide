@@ -10,7 +10,7 @@
 ??? warning "Important Notes"
 
     - No pre-requisite requests
-    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point. Entering from the Route 2 Harken has the boss fight commence in a blizzard area, which makes the fight significantly more difficult
+    - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point. Entering from the Route 2 Harken has the boss fight commence in a blizzard zone, which makes the fight significantly more difficult
     - Bigfoot fights at discovery points can be as challenging as the boss and you may encounter more than one in a single run
     - Side areas do not contain discovery points
     - Bring SP items in case of multiple Bigfoot fights
@@ -127,18 +127,18 @@
 ??? "Request Guide" 
 
     - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment before you leave the Guild.
-    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often appears behind you immediately after entering a blizzard area.
-    - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard areas have side areas of 1-2 normal tiles that will also despawn. 
+    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often appears behind you immediately after entering a blizzard zone.
+    - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also despawn your pursuer.
     - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
 
         ??? "Meow-chanics ₍^. .^₎"
         
-            - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard area
+            - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard zone
             - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
             - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
 
-    - Catch the kitty 3 times, once in each blizzard area. On the third attempt select the option to use the dried fish, which will complete the request.
-    - The kitty will now permanently be located at the Guild. It can also see Lulu!
+    - Catch the kitty once in each of the 3 blizzard zones. On the third attempt use the dried fish, which will complete the request.
+    - The kitty is now permanently located at the Guild. It can also see Lulu!
 
         ??? warning "Rewards"
     
@@ -793,28 +793,53 @@ This request doesn't have any pre-requisites.
 
 ### Unforgivable Wolves
 
-You need to complete Special Local Delicacy. Otherwise, the issuer will run away and the request automatically fails.
+??? warning "Important Notes"
 
-- The gist of this request is to hunt 4 groups of wolves across Route 6. The wolf pack locations are static, and the order in which they are fought does not matter. The fights will always go in a specific order.
-- It is recommended not to pick the last fight in an Ice Storm Zone.
+    - Pre-requisite request: [Special Local Delicacy](./requests.md#special-local-delicacy) otherwise the request automatically fails
+    - There is no special text, sound, or battle music to signal a wolf pack encounter aside from the boss fight
+    - Entering from the Route 6 Harken allows you to reverse the blizzard zones in advance before fighting
+    - Cursed Wheeling twice on Truth of the Beautiful Ore and then wheeling to Slaying the White Wolves will automatically reverse all blizzard zones
+    - Route 6 is extremely enemy dense with a high respawn rate, so try to avoid enemies or prepare accordingly
+    - The Snow Wolf Leader is on par difficulty-wise as the Route 6 boss
 
-#### Possible Coordinates (Route 6)
+??? "Request Guide"
 
- - (X:11,Y:19)
- - (X:5,Y:18)
- - (X:16,Y:16)
- - (X:4,Y:1)
- - (X:1, Y:23)
+    - The objective is to hunt 5 wolf packs scattered across Route 6. The wolf pack locations are static, do not move on the field, and the order fought does not matter. 
+    - The enemy composition of each fight progresses in a fixed order.
 
-#### Encounters
+        ??? map "Wolf Pack Locations"
+        
+            <figure markdown>
+            ![](./img/unforgivable-wolves-locations.jpg‎)
+            </figure>
+        
+            - (X:11,Y:19) - Southwest of the Fountain
+            - (X:5,Y:18) - Next to upper-left reversal stump
+            - (X:16,Y:16) - Northeast of middle reversal stump
+            - (X:4,Y:1) - Southwest corner in blizzard zone (cannot reverse)
+            - (X:1, Y:23) - Far northwest corner 
 
-1. 4 Snow Wolves in a row
-2. 5 Snow Wolves, 3 in the front, 2 in the back
-3. 6 Snow Wolves, 3 in the front, 3 in the back
-4. 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back.
+        ??? "Wolf Pack Encounters"
+        
+            1. 4 Snow Wolves in a row
+            2. 5 Snow Wolves, 3 in the front, 2 in the back
+            3. 6 Snow Wolves, 3 in the front, 3 in the back
+            4. 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back.
+    
+    - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. 
+    - Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
+    - Strongly recommended not leaving the wolf pack at (X:4, Y:1) for last as the boss battle will take place in a blizzard zone. 
+    - After defeating 4 wolf packs the 5th encounter will be a boss fight against the Snow Wolf Leader.
+    - [Subsequent runs]: A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
+    - Exit and return to the Guild to submit the request.
 
-- Upon defeating the last pack, head back to the Adventurer's Guild and complete the request.
-- Subsequent attempts on this request allows you to spare the Snow Wolf Leader, which grants a bondmate and skips the final fight.
+    ??? warning "Rewards"
+    
+        - Gem of Org x20 (first-time only)
+        - Snow Wolf Trapper Hat
+        - 5,000 Gold 
+        - Additional reward - 22,000 Gold 
+        - Bondmate - Warg, Commander of the Deep Snow (subsequent runs only)
 
 ## Passed Through the Coal Mine
 
@@ -920,8 +945,8 @@ Upon entering the Royal Capital the faction representative will appear to discus
         - (X:25, Y:4) - Few steps north of Route 10 entrance 
         - (X:20, Y:6) - Tile left of the first Stone God altar
         - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-        - (X:2, Y:15) - First tile in the northwest blizzard area 
-        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard area  
+        - (X:2, Y:15) - First tile in the northwest blizzard zone 
+        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
         - (X:1, Y:24) - Check the nullstone 
         - Optional: Return to town via the shortcut or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
     11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
@@ -954,8 +979,8 @@ Upon entering the Royal Capital the faction representative will appear to discus
         - (X:25, Y:4) - Few steps north of Route 10 entrance 
         - (X:20, Y:6) - Tile left of the first Stone God altar
         - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-        - (X:2, Y:15) - First tile in the northwest blizzard area 
-        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard area  
+        - (X:2, Y:15) - First tile in the northwest blizzard zone 
+        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
         - (X:1, Y:24) - Check the nullstone 
         - Optional: Return to town via the shortcut or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
     11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
