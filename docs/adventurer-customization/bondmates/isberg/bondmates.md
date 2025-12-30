@@ -16,13 +16,13 @@
     - [Recovery of Salted Pork](../../../abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
     - Must choose to "Spare" the Bigfoot and its child at the end of the request
 
-??? "Skill - Primal Sense of Aim - Accuracy"
+??? note "Skill - Primal Sense of Aim - Accuracy"
 
     <figure markdown>
     ![](./img/bigfoots-offspring-skill.PNG)
     </figure>
 
-??? "Portrait"
+??? note "Portrait"
 
     <figure markdown>
     ![](./img/bigfoots-offspring.PNG)
@@ -37,13 +37,13 @@
     - [Find My Sister Lisa](../../../abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
     - Requires the "Perfect Ending"
 
-??? "Skill - Late Sister's Child - Fear Tolerance"
+??? note "Skill - Late Sister's Child - Fear Tolerance"
 
     <figure markdown>
     ![](./img/maya-and-marta-skill.PNG)
     </figure>
 
-??? "Portrait"
+??? note "Portrait"
 
     <figure markdown>
     ![](./img/maya-and-marta.png)
@@ -61,13 +61,13 @@
     - Select "The air here feels dry to you" (bottom blizzard zone is reportedly bugged and does not work)
     - Defeat all 3 waves of enemies 
 
-??? "Skill - Robust Umami - HP"
+??? note "Skill - Robust Umami - HP"
 
     <figure markdown>
     ![](./img/exquisite-jewel-trout-skill.png)
     </figure>
 
-??? "Portrait"
+??? note "Portrait"
 
     <figure markdown>
     ![](./img/exquisite-jewel-trout.png)
@@ -83,13 +83,13 @@
     - Princess Route
     - Requires finding the second missing person
 
-??? "Skill - Prized Brother's Swordmanship - Attack Power"
+??? note "Skill - Prized Brother's Swordmanship - Attack Power"
 
     <figure markdown>
     ![](./img/elliot-skill.png)
     </figure>
 
-??? "Portrait"
+??? note "Portrait"
 
     <figure markdown>
     ![](./img/elliot.png)
@@ -103,13 +103,13 @@
     - Pontiff Route
     - Requires finding the second missing person
 
-??? "Skill - William's Prayer - Divine Power"
+??? note "Skill - William's Prayer - Divine Power"
 
     <figure markdown>
     ![](./img/william-skill.png)
     </figure>
 
-??? "Portrait"
+??? note "Portrait"
 
     <figure markdown>
     ![](./img/william.png)
@@ -123,13 +123,13 @@
     - Admiral Route
     - Requires finding the second missing person
 
-??? "Skill - Bernard's Survival Savvy- Magic Power"
+??? note "Skill - Bernard's Survival Savvy- Magic Power"
 
     <figure markdown>
     ![](./img/bernard-skill.png)
     </figure>
 
-??? "Portrait"
+??? note "Portrait"
 
     <figure markdown>
     ![](./img/bernard.png)
@@ -144,13 +144,13 @@
     - [Saving Iris](../../../abyss-guides/4-isberg/important-request-gwo.md/#saving-iris)
     - Requires True Ending 
 
-??? "Skill - Blessing of Maiden Iris - Divine Power and Resistance"
+??? note "Skill - Blessing of Maiden Iris - Divine Power and Resistance"
 
     <figure markdown>
     ![](./img/iris-skill.png)
     </figure>
 
-??? "Portrait"
+??? note "Portrait"
 
     <figure markdown>
     ![](./img/iris.png)
