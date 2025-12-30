@@ -1531,7 +1531,7 @@
       ]
     },
     {
-      "name": "Leather Clothes",
+      "name": "Leather Robe",
       "nameJp": "革のローブ",
       "tiers": [
         {
@@ -2041,7 +2041,7 @@
       ]
     },
     {
-      "name": "Bronze Light Shield",
+      "name": "Bronze Shield",
       "nameJp": "青銅の盾",
       "tiers": [
         {
@@ -2653,7 +2653,7 @@
       ]
     },
     {
-      "name": "Bronze Heavy Shield",
+      "name": "Bronze Large Shield",
       "nameJp": "青銅の大盾",
       "tiers": [
         {
@@ -4693,7 +4693,7 @@
       ]
     },
     {
-      "name": "Beast Leather Small Shield",
+      "name": "Beastskin Small Shield",
       "nameJp": "獣革の小盾",
       "tiers": [
         {
@@ -4795,7 +4795,7 @@
       ]
     },
     {
-      "name": "Beast Leather Hat",
+      "name": "Beastskin Hat",
       "nameJp": "獣革の帽子",
       "tiers": [
         {
@@ -4897,7 +4897,7 @@
       ]
     },
     {
-      "name": "Beast Leather Clothes",
+      "name": "Beastskin Robe",
       "nameJp": "獣革のローブ",
       "tiers": [
         {
@@ -4999,7 +4999,7 @@
       ]
     },
     {
-      "name": "Beast Leather Gloves",
+      "name": "Beastskin Gloves",
       "nameJp": "獣革の手袋",
       "tiers": [
         {
@@ -5101,7 +5101,7 @@
       ]
     },
     {
-      "name": "Beast Leather Shoes",
+      "name": "Beastskin Shoes",
       "nameJp": "獣革の靴",
       "tiers": [
         {
@@ -5203,7 +5203,7 @@
       ]
     },
     {
-      "name": "Iron Light Shield",
+      "name": "Iron Shield",
       "nameJp": "鉄の盾",
       "tiers": [
         {
@@ -5713,7 +5713,7 @@
       ]
     },
     {
-      "name": "Iron Heavy Shield",
+      "name": "Iron Large Shield",
       "nameJp": "鉄の大盾",
       "tiers": [
         {
@@ -6325,7 +6325,7 @@
       ]
     },
     {
-      "name": "Exorcism Dagger",
+      "name": "Dagger of Undead Bane",
       "nameJp": "退魔の短剣",
       "tiers": [
         {
@@ -6427,7 +6427,7 @@
       ]
     },
     {
-      "name": "Exorcism Sword",
+      "name": "Sword of Undead Bane",
       "nameJp": "退魔の剣",
       "tiers": [
         {
@@ -6529,7 +6529,7 @@
       ]
     },
     {
-      "name": "Exorcism One-Handed Axe",
+      "name": "One-Handed Axe of Undead Bane",
       "nameJp": "退魔の片手斧",
       "tiers": [
         {
@@ -6631,7 +6631,7 @@
       ]
     },
     {
-      "name": "Exorcism Spiked Mace",
+      "name": "Mace of Undead Bane",
       "nameJp": "退魔の棘鎚",
       "tiers": [
         {
@@ -6733,7 +6733,7 @@
       ]
     },
     {
-      "name": "Exorcism Greatsword",
+      "name": "The Greatsword of Undead Bane",
       "nameJp": "退魔の大剣",
       "tiers": [
         {
@@ -6835,7 +6835,7 @@
       ]
     },
     {
-      "name": "Exorcism Two-Handed Spear",
+      "name": "Two-Handed Spear of Undead Bane",
       "nameJp": "退魔の両手槍",
       "tiers": [
         {
@@ -6937,7 +6937,7 @@
       ]
     },
     {
-      "name": "Exorcism Two-Handed Axe",
+      "name": "Two-Handed Axe of Undead Bane",
       "nameJp": "退魔の両手斧",
       "tiers": [
         {
@@ -7039,7 +7039,7 @@
       ]
     },
     {
-      "name": "Exorcism Two-Handed Mace",
+      "name": "Two-Handed Mace of Undead Bane",
       "nameJp": "退魔の両手鎚矛",
       "tiers": [
         {
@@ -7141,7 +7141,7 @@
       ]
     },
     {
-      "name": "Exorcism Bow",
+      "name": "Bow of Undead Bane",
       "nameJp": "退魔の弓",
       "tiers": [
         {
@@ -7651,7 +7651,7 @@
       ]
     },
     {
-      "name": "Corrosion Dagger",
+      "name": "Dagger of Corrosion",
       "nameJp": "侵食の短剣",
       "tiers": [
         {
@@ -8773,7 +8773,7 @@
       ]
     },
     {
-      "name": "Scale Leather Small Shield",
+      "name": "Scaly Leather Small Shield",
       "nameJp": "うろこ革の小盾",
       "tiers": [
         {
@@ -8875,7 +8875,7 @@
       ]
     },
     {
-      "name": "Scale Leather Hat",
+      "name": "Scaly Leather Hat",
       "nameJp": "うろこ革の帽子",
       "tiers": [
         {
@@ -8977,7 +8977,7 @@
       ]
     },
     {
-      "name": "Scale Leather Clothes",
+      "name": "Scaly Leather Robe",
       "nameJp": "うろこ革のローブ",
       "tiers": [
         {
@@ -9079,7 +9079,7 @@
       ]
     },
     {
-      "name": "Scale Leather Gloves",
+      "name": "Scaly Leather Gloves",
       "nameJp": "うろこ革の手袋",
       "tiers": [
         {
@@ -9181,7 +9181,7 @@
       ]
     },
     {
-      "name": "Scale Leather Shoes",
+      "name": "Scaly Leather Shoes",
       "nameJp": "うろこ革の靴",
       "tiers": [
         {
@@ -9385,7 +9385,7 @@
       ]
     },
     {
-      "name": "Mage's Clothes",
+      "name": "Mage's Robe",
       "nameJp": "魔術師のローブ",
       "tiers": [
         {
@@ -9691,7 +9691,7 @@
       ]
     },
     {
-      "name": "Steel Light Shield",
+      "name": "Steel Shield",
       "nameJp": "鋼の盾",
       "tiers": [
         {
@@ -10201,7 +10201,7 @@
       ]
     },
     {
-      "name": "Steel Heavy Shield",
+      "name": "Steel Large Shield",
       "nameJp": "鋼の大盾",
       "tiers": [
         {
@@ -11017,7 +11017,7 @@
       ]
     },
     {
-      "name": "Water Zero Dagger",
+      "name": "Dagger of the Water Drop",
       "nameJp": "水零の短剣",
       "tiers": [
         {
@@ -11119,7 +11119,7 @@
       ]
     },
     {
-      "name": "Water Zero Bow",
+      "name": "Bow of the Water Drop",
       "nameJp": "水零の弓",
       "tiers": [
         {
@@ -11221,7 +11221,7 @@
       ]
     },
     {
-      "name": "Water Zero Sword",
+      "name": "Sword of the Water Drop",
       "nameJp": "水零の剣",
       "tiers": [
         {
@@ -11323,7 +11323,7 @@
       ]
     },
     {
-      "name": "Water Zero Light Axe",
+      "name": "Light Axe of the Water Drop",
       "nameJp": "水零の軽斧",
       "tiers": [
         {
@@ -11425,7 +11425,7 @@
       ]
     },
     {
-      "name": "Water Zero Warmace",
+      "name": "Warmace of the Water Drop",
       "nameJp": "水零の戦棍",
       "tiers": [
         {
@@ -11527,7 +11527,7 @@
       ]
     },
     {
-      "name": "Water Zero Two-Handed Sword",
+      "name": "Two-Handed Sword of the Water Drop",
       "nameJp": "水零の両手剣",
       "tiers": [
         {
@@ -11629,7 +11629,7 @@
       ]
     },
     {
-      "name": "Water Zero Heavy Spear",
+      "name": "Heavy Spear of the Water Drop",
       "nameJp": "水零の重槍",
       "tiers": [
         {
@@ -11731,7 +11731,7 @@
       ]
     },
     {
-      "name": "Water Zero Two-Handed Axe",
+      "name": "Two-Handed Axe of the Water Drop",
       "nameJp": "水零の両手斧",
       "tiers": [
         {
@@ -11833,7 +11833,7 @@
       ]
     },
     {
-      "name": "Water Zero Heavy Mace",
+      "name": "Heavy Mace of the Water Drop",
       "nameJp": "水零の重鎚矛",
       "tiers": [
         {
@@ -11935,7 +11935,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Headband",
+      "name": "Aquatic Blue Headcloth",
       "nameJp": "水縹のはちまき",
       "tiers": [
         {
@@ -12037,7 +12037,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Clothes",
+      "name": "Aquatic Blue Cloak",
       "nameJp": "水縹のマント",
       "tiers": [
         {
@@ -12139,7 +12139,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Helmet",
+      "name": "Aquatic Blue Helm",
       "nameJp": "水縹の冑",
       "tiers": [
         {
@@ -12241,7 +12241,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Armor",
+      "name": "Aquatic Blue Mail",
       "nameJp": "水縹の甲冑",
       "tiers": [
         {
@@ -12343,7 +12343,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Heavy Helmet",
+      "name": "Aquatic Blue Heavy Helm",
       "nameJp": "水縹の重冑",
       "tiers": [
         {
@@ -12445,7 +12445,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Heavy Armor",
+      "name": "Aquatic Blue Heavy Mail",
       "nameJp": "水縹の重甲冑",
       "tiers": [
         {
@@ -12547,7 +12547,7 @@
       ]
     },
     {
-      "name": "Aqua Blue Amulet",
+      "name": "Aquatic Blue Amulet",
       "nameJp": "水縹のアミュレット",
       "tiers": [
         {
@@ -12649,7 +12649,7 @@
       ]
     },
     {
-      "name": "Earth Clod Dagger",
+      "name": "Dagger of the Soil",
       "nameJp": "土塊の短剣",
       "tiers": [
         {
@@ -12751,7 +12751,7 @@
       ]
     },
     {
-      "name": "Earth Clod Bow",
+      "name": "Bow of the Soil",
       "nameJp": "土塊の弓",
       "tiers": [
         {
@@ -12853,7 +12853,7 @@
       ]
     },
     {
-      "name": "Earth Clod Sword",
+      "name": "Sword of the Soil",
       "nameJp": "土塊の剣",
       "tiers": [
         {
@@ -12955,7 +12955,7 @@
       ]
     },
     {
-      "name": "Earth Clod Light Axe",
+      "name": "Light Axe of the Soil",
       "nameJp": "土塊の軽斧",
       "tiers": [
         {
@@ -13057,7 +13057,7 @@
       ]
     },
     {
-      "name": "Earth Clod Warmace",
+      "name": "Mace of the Soil",
       "nameJp": "土塊の戦棍",
       "tiers": [
         {
@@ -13159,7 +13159,7 @@
       ]
     },
     {
-      "name": "Earth Clod Two-Handed Sword",
+      "name": "Two-Handed Sword of the Soil",
       "nameJp": "土塊の両手剣",
       "tiers": [
         {
@@ -13261,7 +13261,7 @@
       ]
     },
     {
-      "name": "Earth Clod Heavy Spear",
+      "name": "Heavy Spear of the Soil",
       "nameJp": "土塊の重槍",
       "tiers": [
         {
@@ -13363,7 +13363,7 @@
       ]
     },
     {
-      "name": "Earth Clod Two-Handed Axe",
+      "name": "Two-Handed Axe of the Soil",
       "nameJp": "土塊の両手斧",
       "tiers": [
         {
@@ -13465,7 +13465,7 @@
       ]
     },
     {
-      "name": "Earth Clod Heavy Mace",
+      "name": "Heavy Mace of the Soil",
       "nameJp": "土塊の重鎚矛",
       "tiers": [
         {
@@ -15097,7 +15097,7 @@
       ]
     },
     {
-      "name": "Veil Clothes",
+      "name": "Veil Robe",
       "nameJp": "ヴェイルローブ",
       "tiers": [
         {
@@ -15607,7 +15607,7 @@
       ]
     },
     {
-      "name": "Magic Spring Clothes",
+      "name": "Magic Spring Robe",
       "nameJp": "魔泉のローブ",
       "tiers": [
         {
@@ -15709,7 +15709,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Light Shield",
+      "name": "Ebonsteel Shield",
       "nameJp": "冥鋼の盾",
       "tiers": [
         {
@@ -16219,7 +16219,7 @@
       ]
     },
     {
-      "name": "Antidote Shield",
+      "name": "Antivenom Shield",
       "nameJp": "抗毒の盾",
       "tiers": [
         {
@@ -16321,7 +16321,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Heavy Shield",
+      "name": "Ebonsteel Large Shield",
       "nameJp": "冥鋼の大盾",
       "tiers": [
         {
@@ -18361,7 +18361,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Dagger",
+      "name": "Dagger of Expulsion",
       "nameJp": "破魔の短剣",
       "tiers": [
         {
@@ -18463,7 +18463,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Bow",
+      "name": "Bow of Expulsion",
       "nameJp": "破魔の弓",
       "tiers": [
         {
@@ -18565,7 +18565,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Sword",
+      "name": "Sword of Expulsion",
       "nameJp": "破魔の剣",
       "tiers": [
         {
@@ -18667,7 +18667,7 @@
       ]
     },
     {
-      "name": "Evil Banishing One-Handed Axe",
+      "name": "One-Handed Axe of Expulsion",
       "nameJp": "破魔の片手斧",
       "tiers": [
         {
@@ -18769,7 +18769,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Mace",
+      "name": "Mace of Expulsion",
       "nameJp": "破魔の鎚矛",
       "tiers": [
         {
@@ -18871,7 +18871,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Greatsword",
+      "name": "Greatsword of Expulsion",
       "nameJp": "破魔の大剣",
       "tiers": [
         {
@@ -18973,7 +18973,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Two-Handed Spear",
+      "name": "Two-Handed Spear of Expulsion",
       "nameJp": "破魔の両手槍",
       "tiers": [
         {
@@ -19075,7 +19075,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Two-Handed Axe",
+      "name": "Two-Handed Axe of Expulsion",
       "nameJp": "破魔の両手斧",
       "tiers": [
         {
@@ -19177,7 +19177,7 @@
       ]
     },
     {
-      "name": "Evil Banishing Two-Handed Hammer",
+      "name": "Two-Handed Mace of Expulsion",
       "nameJp": "破魔の両手鎚",
       "tiers": [
         {
@@ -19483,7 +19483,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Dagger",
+      "name": "Dagger of Eternal Darkness",
       "nameJp": "常闇の短剣",
       "tiers": [
         {
@@ -19585,7 +19585,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Bow",
+      "name": "Bow of Eternal Darkness",
       "nameJp": "常闇の弓",
       "tiers": [
         {
@@ -19687,7 +19687,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Sword",
+      "name": "Sword of Eternal Darkness",
       "nameJp": "常闇の剣",
       "tiers": [
         {
@@ -19789,7 +19789,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Light Axe",
+      "name": "Light Axe of Eternal Darkness",
       "nameJp": "常闇の軽斧",
       "tiers": [
         {
@@ -19891,7 +19891,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Warmace",
+      "name": "Warmace of Eternal Darkness",
       "nameJp": "常闇の戦棍",
       "tiers": [
         {
@@ -19993,7 +19993,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Greatsword",
+      "name": "Greatsword of Eternal Darkness",
       "nameJp": "常闇の大剣",
       "tiers": [
         {
@@ -20095,7 +20095,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Heavy Spear",
+      "name": "Heavy Spear of Eternal Darkness",
       "nameJp": "常闇の重槍",
       "tiers": [
         {
@@ -20197,7 +20197,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Two-Handed Axe",
+      "name": "Two-Handed Axe of Eternal Darkness",
       "nameJp": "常闇の両手斧",
       "tiers": [
         {
@@ -20299,7 +20299,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Heavy Mace",
+      "name": "Heavy Mace of Eternal Darkness",
       "nameJp": "常闇の重鎚矛",
       "tiers": [
         {
@@ -20401,7 +20401,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Headband",
+      "name": "Umbral Headcloth",
       "nameJp": "幽闇のはちまき",
       "tiers": [
         {
@@ -20503,7 +20503,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Clothes",
+      "name": "Umbral Cloak",
       "nameJp": "幽闇のマント",
       "tiers": [
         {
@@ -20605,7 +20605,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Helmet",
+      "name": "Umbral Helm",
       "nameJp": "幽闇の冑",
       "tiers": [
         {
@@ -20707,7 +20707,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Armor",
+      "name": "Umbral Mail",
       "nameJp": "幽闇の甲冑",
       "tiers": [
         {
@@ -20809,7 +20809,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Heavy Helmet",
+      "name": "Umbral Heavy Helmet",
       "nameJp": "幽闇の重兜",
       "tiers": [
         {
@@ -20911,7 +20911,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Heavy Armor",
+      "name": "Umbral Heavy Mail",
       "nameJp": "幽闇の重甲冑",
       "tiers": [
         {
@@ -21013,7 +21013,7 @@
       ]
     },
     {
-      "name": "Dim Darkness Amulet",
+      "name": "Umbral Amulet",
       "nameJp": "幽闇のアミュレット",
       "tiers": [
         {
@@ -21115,7 +21115,7 @@
       ]
     },
     {
-      "name": "Stealth Kunai",
+      "name": "Covert Kunai",
       "nameJp": "隠密の苦無",
       "tiers": [
         {
@@ -21217,7 +21217,7 @@
       ]
     },
     {
-      "name": "Stealth Blade",
+      "name": "Covert Blade",
       "nameJp": "隠密の刃",
       "tiers": [
         {
@@ -21319,7 +21319,7 @@
       ]
     },
     {
-      "name": "Stealth Garb",
+      "name": "Covert Garb",
       "nameJp": "隠密の装束",
       "tiers": [
         {
@@ -21421,7 +21421,7 @@
       ]
     },
     {
-      "name": "Stealth Arm Wraps",
+      "name": "Covert Arm Wraps",
       "nameJp": "隠密の腕巻",
       "tiers": [
         {
@@ -21523,7 +21523,7 @@
       ]
     },
     {
-      "name": "Stealth Ninja Tabi",
+      "name": "Covert Ninja Tabi",
       "nameJp": "隠密の忍足袋",
       "tiers": [
         {
@@ -21727,7 +21727,7 @@
       ]
     },
     {
-      "name": "Stealth Hood",
+      "name": "Covert Cowl",
       "nameJp": "隠密の頭巾",
       "tiers": [
         {
@@ -22135,7 +22135,7 @@
       ]
     },
     {
-      "name": "Haze Kunai",
+      "name": "Beclouded Kunai",
       "nameJp": "朧の苦無",
       "tiers": [
         {
@@ -22645,7 +22645,7 @@
       ]
     },
     {
-      "name": "Haze Blade",
+      "name": "Beclouded Blade",
       "nameJp": "朧の刃",
       "tiers": [
         {
@@ -23257,7 +23257,7 @@
       ]
     },
     {
-      "name": "Black Wing Small Shield",
+      "name": "Blackwing Small Shield",
       "nameJp": "黒翼の小盾",
       "tiers": [
         {
@@ -23359,7 +23359,7 @@
       ]
     },
     {
-      "name": "Black Wing Hat",
+      "name": "Blackwing Hat",
       "nameJp": "黒翼の帽子",
       "tiers": [
         {
@@ -23461,7 +23461,7 @@
       ]
     },
     {
-      "name": "Black Wing Clothes",
+      "name": "Blackwing Robe",
       "nameJp": "黒翼のローブ",
       "tiers": [
         {
@@ -23563,7 +23563,7 @@
       ]
     },
     {
-      "name": "Black Wing Gloves",
+      "name": "Blackwing Gloves",
       "nameJp": "黒翼の手袋",
       "tiers": [
         {
@@ -23767,7 +23767,7 @@
       ]
     },
     {
-      "name": "Haze Hood",
+      "name": "Beclouded Cowl",
       "nameJp": "朧の頭巾",
       "tiers": [
         {
@@ -23869,7 +23869,7 @@
       ]
     },
     {
-      "name": "Haze Garb",
+      "name": "Beclouded Garb",
       "nameJp": "朧の装束",
       "tiers": [
         {
@@ -23971,7 +23971,7 @@
       ]
     },
     {
-      "name": "Haze Arm Wraps",
+      "name": "Beclouded Arm Wraps",
       "nameJp": "朧の腕巻",
       "tiers": [
         {
@@ -24073,7 +24073,7 @@
       ]
     },
     {
-      "name": "Haze Ninja Tabi",
+      "name": "Beclouded Ninja Tabi",
       "nameJp": "朧の忍足袋",
       "tiers": [
         {
@@ -24379,7 +24379,7 @@
       ]
     },
     {
-      "name": "Silver Light Shield",
+      "name": "Silver Shield",
       "nameJp": "銀の盾",
       "tiers": [
         {
@@ -24889,7 +24889,7 @@
       ]
     },
     {
-      "name": "Deep Snow Sandals",
+      "name": "Deep-Snow Straw Sandals",
       "nameJp": "深雪の草鞋",
       "tiers": [
         {
@@ -24991,7 +24991,7 @@
       ]
     },
     {
-      "name": "Silver Heavy Shield",
+      "name": "Silver Large Shield",
       "nameJp": "銀の大盾",
       "tiers": [
         {
@@ -26317,7 +26317,7 @@
       ]
     },
     {
-      "name": "Beast Hunter",
+      "name": "Beast Hunt",
       "nameJp": "獣狩り",
       "tiers": [
         {
@@ -27337,7 +27337,7 @@
       ]
     },
     {
-      "name": "Earthrend Headband",
+      "name": "Earthrend Headcloth",
       "nameJp": "地裂のはちまき",
       "tiers": [
         {
@@ -27439,7 +27439,7 @@
       ]
     },
     {
-      "name": "Earthrend Clothes",
+      "name": "Earthrend Cloak",
       "nameJp": "地裂のマント",
       "tiers": [
         {
@@ -27541,7 +27541,7 @@
       ]
     },
     {
-      "name": "Earthrend Helmet",
+      "name": "Earthrend Helm",
       "nameJp": "地裂の冑",
       "tiers": [
         {
@@ -27643,7 +27643,7 @@
       ]
     },
     {
-      "name": "Earthrend Armor",
+      "name": "Earthrend Mail",
       "nameJp": "地裂の甲冑",
       "tiers": [
         {
@@ -27745,7 +27745,7 @@
       ]
     },
     {
-      "name": "Earthrend Heavy Helmet",
+      "name": "Earthrend Heavy Helm",
       "nameJp": "地裂の重冑",
       "tiers": [
         {
@@ -27847,7 +27847,7 @@
       ]
     },
     {
-      "name": "Earthrend Heavy Armor",
+      "name": "Earthrend Heavy Mail",
       "nameJp": "地裂の重甲冑",
       "tiers": [
         {
@@ -28561,7 +28561,7 @@
       ]
     },
     {
-      "name": "Black Wing Boots",
+      "name": "Blackwing Boots",
       "nameJp": "黒翼のブーツ",
       "tiers": [
         {
@@ -28663,7 +28663,7 @@
       ]
     },
     {
-      "name": "Flame Dagger",
+      "name": "Dagger of Flame",
       "nameJp": "火炎の短剣",
       "tiers": [
         {
@@ -28765,7 +28765,7 @@
       ]
     },
     {
-      "name": "Flame Bow",
+      "name": "Bow of Flame",
       "nameJp": "火炎の弓",
       "tiers": [
         {
@@ -28867,7 +28867,7 @@
       ]
     },
     {
-      "name": "Flame Sword",
+      "name": "Sword of Flame",
       "nameJp": "火炎の剣",
       "tiers": [
         {
@@ -28969,7 +28969,7 @@
       ]
     },
     {
-      "name": "Flame Light Axe",
+      "name": "Light Axe of Flame",
       "nameJp": "火炎の軽斧",
       "tiers": [
         {
@@ -29071,7 +29071,7 @@
       ]
     },
     {
-      "name": "Flame Warmace",
+      "name": "Warmace of Flame",
       "nameJp": "火炎の戦棍",
       "tiers": [
         {
@@ -29173,7 +29173,7 @@
       ]
     },
     {
-      "name": "Flame Two-Handed Sword",
+      "name": "Two-Handed Sword of the Flame",
       "nameJp": "火炎の両手剣",
       "tiers": [
         {
@@ -29275,7 +29275,7 @@
       ]
     },
     {
-      "name": "Flame Heavy Spear",
+      "name": "Heavy Spear of Flame",
       "nameJp": "火炎の重槍",
       "tiers": [
         {
@@ -29377,7 +29377,7 @@
       ]
     },
     {
-      "name": "Flame Two-Handed Axe",
+      "name": "Two-Handed Axe of Flame",
       "nameJp": "火炎の両手斧",
       "tiers": [
         {
@@ -29479,7 +29479,7 @@
       ]
     },
     {
-      "name": "Flame Heavy Mace",
+      "name": "Heavy Mace of Flame",
       "nameJp": "火炎の重鎚矛",
       "tiers": [
         {
@@ -29581,7 +29581,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Headband",
+      "name": "Red Fired Headcloth",
       "nameJp": "焔紅のはちまき",
       "tiers": [
         {
@@ -29683,7 +29683,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Clothes",
+      "name": "Red Fired Cloak",
       "nameJp": "焔紅のマント",
       "tiers": [
         {
@@ -29785,7 +29785,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Helmet",
+      "name": "Red Fired Helm",
       "nameJp": "焔紅の冑",
       "tiers": [
         {
@@ -29887,7 +29887,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Armor",
+      "name": "Red Fired Mail",
       "nameJp": "焔紅の甲冑",
       "tiers": [
         {
@@ -29989,7 +29989,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Heavy Helmet",
+      "name": "Red Fired Heavy Helm",
       "nameJp": "焔紅の重冑",
       "tiers": [
         {
@@ -30091,7 +30091,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Heavy Armor",
+      "name": "Red Fired Heavy Mail",
       "nameJp": "焔紅の重甲冑",
       "tiers": [
         {
@@ -30193,7 +30193,7 @@
       ]
     },
     {
-      "name": "Crimson Flame Amulet",
+      "name": "Red Fired Amulet",
       "nameJp": "焔紅のアミュレット",
       "tiers": [
         {
@@ -30295,7 +30295,7 @@
       ]
     },
     {
-      "name": "Gale Dagger",
+      "name": "Dagger of the Gale",
       "nameJp": "疾風の短剣",
       "tiers": [
         {
@@ -30397,7 +30397,7 @@
       ]
     },
     {
-      "name": "Gale Bow",
+      "name": "Bow of the Gale",
       "nameJp": "疾風の弓",
       "tiers": [
         {
@@ -30499,7 +30499,7 @@
       ]
     },
     {
-      "name": "Gale Sword",
+      "name": "Sword of the Gale",
       "nameJp": "疾風の剣",
       "tiers": [
         {
@@ -30601,7 +30601,7 @@
       ]
     },
     {
-      "name": "Gale Light Axe",
+      "name": "Light Axe of the Gale",
       "nameJp": "疾風の軽斧",
       "tiers": [
         {
@@ -30703,7 +30703,7 @@
       ]
     },
     {
-      "name": "Gale Warmace",
+      "name": "Warmace of the Gale",
       "nameJp": "疾風の戦棍",
       "tiers": [
         {
@@ -30805,7 +30805,7 @@
       ]
     },
     {
-      "name": "Gale Two-Handed Sword",
+      "name": "Two-Handed Sword of the Gale",
       "nameJp": "疾風の両手剣",
       "tiers": [
         {
@@ -30907,7 +30907,7 @@
       ]
     },
     {
-      "name": "Gale Heavy Spear",
+      "name": "Heavy Spear of the Gale",
       "nameJp": "疾風の重槍",
       "tiers": [
         {
@@ -31009,7 +31009,7 @@
       ]
     },
     {
-      "name": "Gale Two-Handed Axe",
+      "name": "Two-Handed Axe of the Gale",
       "nameJp": "疾風の両手斧",
       "tiers": [
         {
@@ -31111,7 +31111,7 @@
       ]
     },
     {
-      "name": "Gale Heavy Mace",
+      "name": "Heavy Mace of the Gale",
       "nameJp": "疾風の重鎚矛",
       "tiers": [
         {
@@ -31213,7 +31213,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Headband",
+      "name": "Verdant Breeze Headcloth",
       "nameJp": "翠風のはちまき",
       "tiers": [
         {
@@ -31315,7 +31315,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Clothes",
+      "name": "Verdant Breeze Cloak",
       "nameJp": "翠風のマント",
       "tiers": [
         {
@@ -31417,7 +31417,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Helmet",
+      "name": "Verdant Breeze Helm",
       "nameJp": "翠風の冑",
       "tiers": [
         {
@@ -31519,7 +31519,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Armor",
+      "name": "Verdant Breeze Mail",
       "nameJp": "翠風の甲冑",
       "tiers": [
         {
@@ -31621,7 +31621,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Heavy Helmet",
+      "name": "Verdant Breeze Heavy Helm",
       "nameJp": "翠風の重冑",
       "tiers": [
         {
@@ -31723,7 +31723,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Heavy Armor",
+      "name": "Verdant Breeze Heavy Mail",
       "nameJp": "翠風の重甲冑",
       "tiers": [
         {
@@ -31825,7 +31825,7 @@
       ]
     },
     {
-      "name": "Verdant Wind Amulet",
+      "name": "Verdant Breeze Amulet",
       "nameJp": "翠風のアミュレット",
       "tiers": [
         {
@@ -31927,7 +31927,7 @@
       ]
     },
     {
-      "name": "Aurora Dagger",
+      "name": "Dagger of the Aurora",
       "nameJp": "極光の短剣",
       "tiers": [
         {
@@ -32029,7 +32029,7 @@
       ]
     },
     {
-      "name": "Aurora Bow",
+      "name": "Bow of the Aurora",
       "nameJp": "極光の弓",
       "tiers": [
         {
@@ -32131,7 +32131,7 @@
       ]
     },
     {
-      "name": "Aurora Sword",
+      "name": "Sword of the Aurora",
       "nameJp": "極光の剣",
       "tiers": [
         {
@@ -32233,7 +32233,7 @@
       ]
     },
     {
-      "name": "Aurora Light Axe",
+      "name": "Light Axe of the Aurora",
       "nameJp": "極光の軽斧",
       "tiers": [
         {
@@ -32335,7 +32335,7 @@
       ]
     },
     {
-      "name": "Aurora Warmace",
+      "name": "Warmace of the Aurora",
       "nameJp": "極光の戦棍",
       "tiers": [
         {
@@ -32437,7 +32437,7 @@
       ]
     },
     {
-      "name": "Aurora Two-Handed Sword",
+      "name": "Two-Handed Sword of the Aurora",
       "nameJp": "極光の両手剣",
       "tiers": [
         {
@@ -32539,7 +32539,7 @@
       ]
     },
     {
-      "name": "Aurora Heavy Spear",
+      "name": "Heavy Spear of the Aurora",
       "nameJp": "極光の重槍",
       "tiers": [
         {
@@ -32641,7 +32641,7 @@
       ]
     },
     {
-      "name": "Aurora Two-Handed Axe",
+      "name": "Two-Handed Axe of the Aurora",
       "nameJp": "極光の両手斧",
       "tiers": [
         {
@@ -32743,7 +32743,7 @@
       ]
     },
     {
-      "name": "Aurora Heavy Mace",
+      "name": "Heavy Mace of the Aurora",
       "nameJp": "極光の重鎚矛",
       "tiers": [
         {
@@ -32845,7 +32845,7 @@
       ]
     },
     {
-      "name": "Light Spirit Headband",
+      "name": "Headcloth of the Light Spirit",
       "nameJp": "光精のはちまき",
       "tiers": [
         {
@@ -32947,7 +32947,7 @@
       ]
     },
     {
-      "name": "Light Spirit Clothes",
+      "name": "Cloak of Light Spirit",
       "nameJp": "光精のマント",
       "tiers": [
         {
@@ -33049,7 +33049,7 @@
       ]
     },
     {
-      "name": "Light Spirit Helmet",
+      "name": "Helm of the Light Spirit",
       "nameJp": "光精の冑",
       "tiers": [
         {
@@ -33151,7 +33151,7 @@
       ]
     },
     {
-      "name": "Light Spirit Armor",
+      "name": "Mail of the Light Spirit",
       "nameJp": "光精の甲冑",
       "tiers": [
         {
@@ -33253,7 +33253,7 @@
       ]
     },
     {
-      "name": "Light Spirit Heavy Helmet",
+      "name": "Heavy Helm of the Light Spirit",
       "nameJp": "光精の重冑",
       "tiers": [
         {
@@ -33355,7 +33355,7 @@
       ]
     },
     {
-      "name": "Light Spirit Heavy Armor",
+      "name": "Heavy Mail of the Light Spirit",
       "nameJp": "光精の重甲冑",
       "tiers": [
         {
@@ -33559,7 +33559,7 @@
       ]
     },
     {
-      "name": "Earth Crest Headband",
+      "name": "Earthen Crest Headcloth",
       "nameJp": "土紋のはちまき",
       "tiers": [
         {
@@ -33661,7 +33661,7 @@
       ]
     },
     {
-      "name": "Earth Crest Clothes",
+      "name": "Earthen Crest Robe",
       "nameJp": "土紋のローブ",
       "tiers": [
         {
@@ -33763,7 +33763,7 @@
       ]
     },
     {
-      "name": "Earth Crest Helmet",
+      "name": "Earthen Crest Helm",
       "nameJp": "土紋の冑",
       "tiers": [
         {
@@ -33865,7 +33865,7 @@
       ]
     },
     {
-      "name": "Earth Crest Armor",
+      "name": "Earthen Crest Mail",
       "nameJp": "土紋の甲冑",
       "tiers": [
         {
@@ -33967,7 +33967,7 @@
       ]
     },
     {
-      "name": "Earth Crest Heavy Helmet",
+      "name": "Earthen Crest Heavy Helm",
       "nameJp": "土紋の重冑",
       "tiers": [
         {
@@ -34069,7 +34069,7 @@
       ]
     },
     {
-      "name": "Earth Crest Heavy Armor",
+      "name": "Earthen Crest Heavy Mail",
       "nameJp": "土紋の重甲冑",
       "tiers": [
         {
@@ -34171,7 +34171,7 @@
       ]
     },
     {
-      "name": "Earth Crest Amulet",
+      "name": "Earthen Crest Amulet",
       "nameJp": "土紋のアミュレット",
       "tiers": [
         {
@@ -35191,7 +35191,7 @@
       ]
     },
     {
-      "name": "Ephemeral Headband",
+      "name": "Ephemeral Headcloth",
       "nameJp": "泡沫のはちまき",
       "tiers": [
         {
@@ -35293,7 +35293,7 @@
       ]
     },
     {
-      "name": "Ephemeral Clothes",
+      "name": "Ephemeral Cloak",
       "nameJp": "泡沫のマント",
       "tiers": [
         {
@@ -35395,7 +35395,7 @@
       ]
     },
     {
-      "name": "Ephemeral Helmet",
+      "name": "Ephemeral Helm",
       "nameJp": "泡沫の冑",
       "tiers": [
         {
@@ -35497,7 +35497,7 @@
       ]
     },
     {
-      "name": "Ephemeral Armor",
+      "name": "Ephemeral Mail",
       "nameJp": "泡沫の甲冑",
       "tiers": [
         {
@@ -35599,7 +35599,7 @@
       ]
     },
     {
-      "name": "Ephemeral Heavy Plate",
+      "name": "Ephemeral Heavy Mail",
       "nameJp": "泡沫の重甲冑",
       "tiers": [
         {
@@ -35701,7 +35701,7 @@
       ]
     },
     {
-      "name": "Ephemeral Heavy Helmet",
+      "name": "Ephemeral Heavy Helm",
       "nameJp": "泡沫の重冑",
       "tiers": [
         {
@@ -36109,7 +36109,7 @@
       ]
     },
     {
-      "name": "Phantom Kunai",
+      "name": "Illusion Kunai",
       "nameJp": "虚影の苦無",
       "tiers": [
         {
@@ -36211,7 +36211,7 @@
       ]
     },
     {
-      "name": "Phantom Blade",
+      "name": "Illusion Blade",
       "nameJp": "虚影の刃",
       "tiers": [
         {
@@ -36823,7 +36823,7 @@
       ]
     },
     {
-      "name": "Phantom Hood",
+      "name": "Illusion Cowl",
       "nameJp": "虚影の頭巾",
       "tiers": [
         {
@@ -36925,7 +36925,7 @@
       ]
     },
     {
-      "name": "Phantom Garb",
+      "name": "Illusion Garb",
       "nameJp": "虚影の装束",
       "tiers": [
         {
@@ -37027,7 +37027,7 @@
       ]
     },
     {
-      "name": "Phantom Arm Wraps",
+      "name": "Illusion Arm Wraps",
       "nameJp": "虚影の腕巻",
       "tiers": [
         {
@@ -37129,7 +37129,7 @@
       ]
     },
     {
-      "name": "Phantom Ninja Tabi",
+      "name": "Illusion Ninja Tabi",
       "nameJp": "虚影の忍足袋",
       "tiers": [
         {
@@ -38761,7 +38761,7 @@
       ]
     },
     {
-      "name": "Paralyze Dagger",
+      "name": "Paralyzer Dagger",
       "nameJp": "パラライズダガー",
       "tiers": [
         {
