@@ -41,11 +41,15 @@ At enhancement milestones (+5, +10, +15, +20), equipment gains "blessing slots" 
 ## Commands
 
 ```bash
-npm install          # Install dependencies
-npm run dev          # Start dev server (http://localhost:5173)
-npm run build        # Build to ../docs/html/
-npm run convert      # Convert equipments.html → equipment-en.json
-npm run lint         # Run ESLint
+npm install              # Install dependencies
+npm run dev              # Start dev server (http://localhost:5173)
+npm run build            # Build to ../docs/html/
+npm run convert          # Convert equipments.html → equipment-en.json
+npm run convert-alteration  # Convert alternations.html → alteration-en.json
+npm run test             # Run loot probability tests
+npm run test:alteration  # Run alteration data tests
+npm run test:alteration-stone  # Run alteration stone data tests
+npm run lint             # Run ESLint
 ```
 
 ## Project Structure
@@ -77,7 +81,9 @@ tools/
 ├── scripts/
 │   ├── convert-equipment.ts     # Loot data converter
 │   ├── convert-alteration.ts    # Alteration data converter
-│   └── test-probabilities.ts    # Probability validation tests
+│   ├── test-probabilities.ts    # Loot probability tests
+│   ├── test-alteration.ts       # Alteration data tests
+│   └── test-alteration-stone.ts # Alteration stone data tests
 ├── data/
 │   ├── equipments.html          # Source Japanese loot data (~8MB)
 │   ├── alternations.html        # Source Japanese alteration data
@@ -135,13 +141,16 @@ The app fetches `data/equipment-en.json` from GitHub raw content at runtime.
 - **Equipment Groups**: Items with identical probability distributions are grouped (e.g., all One-Handed Swords share the same rates). 383 items → 29 groups.
 - **Enhancement Tiers**: +5, +10, +15, +20 blessing slots have different probability tables
 - **Stat Types**:
-  - Percentage stats: ATK%, MAG%, DIV%, ACC%, EVA%, RES%, DEF%, MDEF%, ASPD%
-  - Flat stats: ATK, MAG, DIV, ACC, EVA, RES, DEF, MDEF, ASPD, SUR
+  - Percentage stats (9): ATK%, MAG%, DIV%, ACC%, EVA%, RES%, DEF%, MDEF%, ASPD%
+  - Flat stats for initial blessings (10): ATK, MAG, DIV, ACC, EVA, RES, DEF, MDEF, ASPD, SUR
+  - Flat stats for alteration stones (9): Same but NO ASPD flat (only 18 total stats)
   - **Note**: The critical/surety stat is always called "SUR" (not "CRIT") in this codebase
 
 ### Tool Tabs
-1. **Desired Stat**: Ranks equipment groups by initial blessing probability for a selected stat
-2. **Raw Data**: Search equipment to view full probability table across all enhancement tiers
+1. **Blessing Rates**: Ranks equipment groups by initial blessing probability for selected stats
+2. **Blessing Values**: Shows blessing value ranges by equipment rank and quality (initial drop values)
+3. **Full Alteration Stones**: Shows value distributions when using Full/Lesser Alteration Stones
+4. **Find by Name**: Search equipment to view full probability table across all enhancement tiers
 
 ## Adding Translations
 
