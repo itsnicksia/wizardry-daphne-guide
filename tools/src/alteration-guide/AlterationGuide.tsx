@@ -3,11 +3,10 @@ import { useAlterationData } from '../hooks/useAlterationData';
 import { BestEquipmentFinder } from './components/BestEquipmentFinder';
 import { AlterationLookup } from './components/AlterationLookup';
 import { BlessingMagnitude } from './components/BlessingMagnitude';
-import { LesserAlterationStone } from './components/LesserAlterationStone';
-import { FullAlterationMagnitude } from './components/FullAlterationMagnitude';
+import { FullAlterationStone } from './components/FullAlterationStone';
 import './alteration-guide.css';
 
-type TabId = 'best' | 'lookup' | 'magnitude' | 'lesser' | 'full';
+type TabId = 'best' | 'lookup' | 'magnitude' | 'fullAlt';
 
 interface Tab {
     id: TabId;
@@ -17,8 +16,7 @@ interface Tab {
 const TABS: Tab[] = [
     { id: 'best', label: 'Blessing Rates' },
     { id: 'magnitude', label: 'Blessing Values' },
-    { id: 'lesser', label: 'Lesser Full Alt Stone' },
-    { id: 'full', label: 'Full Alt Stone' },
+    { id: 'fullAlt', label: 'Full Alteration Stones' },
     { id: 'lookup', label: 'Find by Name' },
 ];
 
@@ -71,8 +69,7 @@ export function AlterationGuide() {
                 {activeTab === 'best' && <BestEquipmentFinder index={index} showJapanese={showJapanese} />}
                 {activeTab === 'lookup' && <AlterationLookup index={index} showJapanese={showJapanese} />}
                 {activeTab === 'magnitude' && <BlessingMagnitude />}
-                {activeTab === 'lesser' && <LesserAlterationStone />}
-                {activeTab === 'full' && <FullAlterationMagnitude />}
+                {activeTab === 'fullAlt' && <FullAlterationStone />}
             </div>
         </div>
     );

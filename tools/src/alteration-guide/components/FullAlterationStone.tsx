@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+type StoneType = 'lesser' | 'full';
 type EquipmentRankCategory = 'rank1to5' | 'rank6TwoHanded' | 'rank6Other';
 
 interface RankCategoryOption {
@@ -14,34 +15,31 @@ const RANK_CATEGORIES: RankCategoryOption[] = [
     { id: 'rank6Other', label: 'Silver', description: 'All other Silver equipment' },
 ];
 
-type StatType = 'percentage' | 'fixed';
-
 interface StatDefinition {
     id: string;
     label: string;
-    type: StatType;
 }
 
 const STATS: StatDefinition[] = [
-    { id: 'ATK%', label: 'ATK%', type: 'percentage' },
-    { id: 'MAG%', label: 'MAG%', type: 'percentage' },
-    { id: 'DIV%', label: 'DIV%', type: 'percentage' },
-    { id: 'ACC%', label: 'ACC%', type: 'percentage' },
-    { id: 'EVA%', label: 'EVA%', type: 'percentage' },
-    { id: 'RES%', label: 'RES%', type: 'percentage' },
-    { id: 'DEF%', label: 'DEF%', type: 'percentage' },
-    { id: 'MDEF%', label: 'MDEF%', type: 'percentage' },
-    { id: 'ASPD%', label: 'ASPD%', type: 'percentage' },
-    { id: 'ATK', label: 'ATK', type: 'fixed' },
-    { id: 'MAG', label: 'MAG', type: 'fixed' },
-    { id: 'DIV', label: 'DIV', type: 'fixed' },
-    { id: 'ACC', label: 'ACC', type: 'fixed' },
-    { id: 'EVA', label: 'EVA', type: 'fixed' },
-    { id: 'RES', label: 'RES', type: 'fixed' },
-    { id: 'DEF', label: 'DEF', type: 'fixed' },
-    { id: 'MDEF', label: 'MDEF', type: 'fixed' },
-    { id: 'SUR', label: 'SUR', type: 'fixed' },
-    { id: 'ASPD', label: 'ASPD', type: 'fixed' },
+    { id: 'ATK%', label: 'ATK%' },
+    { id: 'MAG%', label: 'MAG%' },
+    { id: 'DIV%', label: 'DIV%' },
+    { id: 'ACC%', label: 'ACC%' },
+    { id: 'EVA%', label: 'EVA%' },
+    { id: 'RES%', label: 'RES%' },
+    { id: 'DEF%', label: 'DEF%' },
+    { id: 'MDEF%', label: 'MDEF%' },
+    { id: 'ASPD%', label: 'ASPD%' },
+    { id: 'ATK', label: 'ATK' },
+    { id: 'MAG', label: 'MAG' },
+    { id: 'DIV', label: 'DIV' },
+    { id: 'ACC', label: 'ACC' },
+    { id: 'EVA', label: 'EVA' },
+    { id: 'RES', label: 'RES' },
+    { id: 'DEF', label: 'DEF' },
+    { id: 'MDEF', label: 'MDEF' },
+    { id: 'SUR', label: 'SUR' },
+    { id: 'ASPD', label: 'ASPD' },
 ];
 
 type Quality = 1 | 2 | 3 | 4 | 5;
@@ -54,7 +52,333 @@ interface ValueRange {
 
 type MagnitudeData = Record<Quality, Record<string, ValueRange>>;
 
-const FULL_ALTERATION_RANK_1_TO_5: MagnitudeData = {
+// Lesser Full Alteration Stone data
+const LESSER_RANK_1_TO_5: MagnitudeData = {
+    1: {
+        'ATK%': { start: 1, count: 3, probability: 33.3333 },
+        'MAG%': { start: 1, count: 3, probability: 33.3333 },
+        'DIV%': { start: 1, count: 3, probability: 33.3333 },
+        'ACC%': { start: 1, count: 3, probability: 33.3333 },
+        'EVA%': { start: 1, count: 3, probability: 33.3333 },
+        'RES%': { start: 1, count: 3, probability: 33.3333 },
+        'DEF%': { start: 1, count: 3, probability: 33.3333 },
+        'MDEF%': { start: 1, count: 3, probability: 33.3333 },
+        'ASPD%': { start: 1, count: 2, probability: 50.0 },
+        'ATK': { start: 2, count: 3, probability: 25.0 },
+        'MAG': { start: 2, count: 3, probability: 25.0 },
+        'DIV': { start: 2, count: 3, probability: 25.0 },
+        'ACC': { start: 2, count: 3, probability: 25.0 },
+        'EVA': { start: 2, count: 3, probability: 25.0 },
+        'RES': { start: 2, count: 3, probability: 25.0 },
+        'DEF': { start: 2, count: 3, probability: 25.0 },
+        'MDEF': { start: 2, count: 3, probability: 25.0 },
+        'SUR': { start: 1, count: 2, probability: 50.0 },
+        'ASPD': { start: 1, count: 3, probability: 25.0 },
+    },
+    2: {
+        'ATK%': { start: 3, count: 5, probability: 12.5 },
+        'MAG%': { start: 3, count: 5, probability: 12.5 },
+        'DIV%': { start: 3, count: 5, probability: 12.5 },
+        'ACC%': { start: 3, count: 5, probability: 12.5 },
+        'EVA%': { start: 3, count: 5, probability: 12.5 },
+        'RES%': { start: 3, count: 5, probability: 12.5 },
+        'DEF%': { start: 3, count: 5, probability: 12.5 },
+        'MDEF%': { start: 3, count: 5, probability: 12.5 },
+        'ASPD%': { start: 2, count: 4, probability: 16.6667 },
+        'ATK': { start: 4, count: 6, probability: 8.3333 },
+        'MAG': { start: 4, count: 6, probability: 8.3333 },
+        'DIV': { start: 4, count: 6, probability: 8.3333 },
+        'ACC': { start: 4, count: 6, probability: 8.3333 },
+        'EVA': { start: 4, count: 6, probability: 8.3333 },
+        'RES': { start: 4, count: 6, probability: 8.3333 },
+        'DEF': { start: 4, count: 6, probability: 8.3333 },
+        'MDEF': { start: 4, count: 6, probability: 8.3333 },
+        'SUR': { start: 2, count: 3, probability: 25.0 },
+        'ASPD': { start: 2, count: 4, probability: 16.6667 },
+    },
+    3: {
+        'ATK%': { start: 6, count: 6, probability: 10.0 },
+        'MAG%': { start: 6, count: 6, probability: 10.0 },
+        'DIV%': { start: 6, count: 6, probability: 10.0 },
+        'ACC%': { start: 6, count: 6, probability: 10.0 },
+        'EVA%': { start: 6, count: 6, probability: 10.0 },
+        'RES%': { start: 6, count: 6, probability: 10.0 },
+        'DEF%': { start: 6, count: 6, probability: 10.0 },
+        'MDEF%': { start: 6, count: 6, probability: 10.0 },
+        'ASPD%': { start: 5, count: 4, probability: 16.6667 },
+        'ATK': { start: 6, count: 9, probability: 4.7619 },
+        'MAG': { start: 6, count: 9, probability: 4.7619 },
+        'DIV': { start: 6, count: 9, probability: 4.7619 },
+        'ACC': { start: 6, count: 9, probability: 4.7619 },
+        'EVA': { start: 6, count: 9, probability: 4.7619 },
+        'RES': { start: 6, count: 9, probability: 4.7619 },
+        'DEF': { start: 6, count: 9, probability: 4.7619 },
+        'MDEF': { start: 6, count: 9, probability: 4.7619 },
+        'SUR': { start: 3, count: 3, probability: 25.0 },
+        'ASPD': { start: 4, count: 5, probability: 11.1111 },
+    },
+    4: {
+        'ATK%': { start: 11, count: 5, probability: 20.0 },
+        'MAG%': { start: 11, count: 5, probability: 20.0 },
+        'DIV%': { start: 11, count: 5, probability: 20.0 },
+        'ACC%': { start: 11, count: 5, probability: 20.0 },
+        'EVA%': { start: 11, count: 5, probability: 20.0 },
+        'RES%': { start: 11, count: 5, probability: 20.0 },
+        'DEF%': { start: 11, count: 5, probability: 20.0 },
+        'MDEF%': { start: 11, count: 5, probability: 20.0 },
+        'ASPD%': { start: 8, count: 4, probability: 25.0 },
+        'ATK': { start: 10, count: 10, probability: 4.1667 },
+        'MAG': { start: 10, count: 10, probability: 4.1667 },
+        'DIV': { start: 10, count: 10, probability: 4.1667 },
+        'ACC': { start: 10, count: 10, probability: 4.1667 },
+        'EVA': { start: 10, count: 10, probability: 4.1667 },
+        'RES': { start: 10, count: 10, probability: 4.1667 },
+        'DEF': { start: 10, count: 10, probability: 4.1667 },
+        'MDEF': { start: 10, count: 10, probability: 4.1667 },
+        'SUR': { start: 4, count: 4, probability: 16.6667 },
+        'ASPD': { start: 6, count: 6, probability: 8.3333 },
+    },
+    5: {
+        'ATK%': { start: 14, count: 6, probability: 10.0 },
+        'MAG%': { start: 14, count: 6, probability: 10.0 },
+        'DIV%': { start: 14, count: 6, probability: 10.0 },
+        'ACC%': { start: 14, count: 6, probability: 10.0 },
+        'EVA%': { start: 14, count: 6, probability: 10.0 },
+        'RES%': { start: 14, count: 6, probability: 10.0 },
+        'DEF%': { start: 14, count: 6, probability: 10.0 },
+        'MDEF%': { start: 14, count: 6, probability: 10.0 },
+        'ASPD%': { start: 11, count: 4, probability: 16.6667 },
+        'ATK': { start: 13, count: 12, probability: 3.3333 },
+        'MAG': { start: 13, count: 12, probability: 3.3333 },
+        'DIV': { start: 13, count: 12, probability: 3.3333 },
+        'ACC': { start: 13, count: 12, probability: 3.3333 },
+        'EVA': { start: 13, count: 12, probability: 3.3333 },
+        'RES': { start: 13, count: 12, probability: 3.3333 },
+        'DEF': { start: 13, count: 12, probability: 3.3333 },
+        'MDEF': { start: 13, count: 12, probability: 3.3333 },
+        'SUR': { start: 5, count: 5, probability: 12.5 },
+        'ASPD': { start: 8, count: 7, probability: 6.6667 },
+    },
+};
+
+const LESSER_RANK_6_TWO_HANDED: MagnitudeData = {
+    1: {
+        'ATK%': { start: 1, count: 4, probability: 25.0 },
+        'MAG%': { start: 1, count: 4, probability: 25.0 },
+        'DIV%': { start: 1, count: 4, probability: 25.0 },
+        'ACC%': { start: 1, count: 4, probability: 25.0 },
+        'EVA%': { start: 1, count: 4, probability: 25.0 },
+        'RES%': { start: 1, count: 4, probability: 25.0 },
+        'DEF%': { start: 1, count: 4, probability: 25.0 },
+        'MDEF%': { start: 1, count: 4, probability: 25.0 },
+        'ASPD%': { start: 1, count: 2, probability: 50.0 },
+        'ATK': { start: 2, count: 4, probability: 16.6667 },
+        'MAG': { start: 2, count: 4, probability: 16.6667 },
+        'DIV': { start: 2, count: 4, probability: 16.6667 },
+        'ACC': { start: 2, count: 4, probability: 16.6667 },
+        'EVA': { start: 2, count: 4, probability: 16.6667 },
+        'RES': { start: 2, count: 4, probability: 16.6667 },
+        'DEF': { start: 2, count: 4, probability: 16.6667 },
+        'MDEF': { start: 2, count: 4, probability: 16.6667 },
+        'SUR': { start: 1, count: 2, probability: 50.0 },
+        'ASPD': { start: 1, count: 3, probability: 25.0 },
+    },
+    2: {
+        'ATK%': { start: 3, count: 7, probability: 8.3333 },
+        'MAG%': { start: 3, count: 7, probability: 8.3333 },
+        'DIV%': { start: 3, count: 7, probability: 8.3333 },
+        'ACC%': { start: 3, count: 7, probability: 8.3333 },
+        'EVA%': { start: 3, count: 7, probability: 8.3333 },
+        'RES%': { start: 3, count: 7, probability: 8.3333 },
+        'DEF%': { start: 3, count: 7, probability: 8.3333 },
+        'MDEF%': { start: 3, count: 7, probability: 8.3333 },
+        'ASPD%': { start: 2, count: 5, probability: 12.5 },
+        'ATK': { start: 4, count: 10, probability: 3.3333 },
+        'MAG': { start: 4, count: 10, probability: 3.3333 },
+        'DIV': { start: 4, count: 10, probability: 3.3333 },
+        'ACC': { start: 4, count: 10, probability: 3.3333 },
+        'EVA': { start: 4, count: 10, probability: 3.3333 },
+        'RES': { start: 4, count: 10, probability: 3.3333 },
+        'DEF': { start: 4, count: 10, probability: 3.3333 },
+        'MDEF': { start: 4, count: 10, probability: 3.3333 },
+        'SUR': { start: 2, count: 4, probability: 16.6667 },
+        'ASPD': { start: 2, count: 5, probability: 12.5 },
+    },
+    3: {
+        'ATK%': { start: 6, count: 10, probability: 4.1667 },
+        'MAG%': { start: 6, count: 10, probability: 4.1667 },
+        'DIV%': { start: 6, count: 10, probability: 4.1667 },
+        'ACC%': { start: 6, count: 10, probability: 4.1667 },
+        'EVA%': { start: 6, count: 10, probability: 4.1667 },
+        'RES%': { start: 6, count: 10, probability: 4.1667 },
+        'DEF%': { start: 6, count: 10, probability: 4.1667 },
+        'MDEF%': { start: 6, count: 10, probability: 4.1667 },
+        'ASPD%': { start: 5, count: 7, probability: 6.6667 },
+        'ATK': { start: 6, count: 14, probability: 2.0 },
+        'MAG': { start: 6, count: 14, probability: 2.0 },
+        'DIV': { start: 6, count: 14, probability: 2.0 },
+        'ACC': { start: 6, count: 14, probability: 2.0 },
+        'EVA': { start: 6, count: 14, probability: 2.0 },
+        'RES': { start: 6, count: 14, probability: 2.0 },
+        'DEF': { start: 6, count: 14, probability: 2.0 },
+        'MDEF': { start: 6, count: 14, probability: 2.0 },
+        'SUR': { start: 3, count: 4, probability: 16.6667 },
+        'ASPD': { start: 4, count: 8, probability: 5.0 },
+    },
+    4: {
+        'ATK%': { start: 11, count: 10, probability: 5.5556 },
+        'MAG%': { start: 11, count: 10, probability: 5.5556 },
+        'DIV%': { start: 11, count: 10, probability: 5.5556 },
+        'ACC%': { start: 11, count: 10, probability: 5.5556 },
+        'EVA%': { start: 11, count: 10, probability: 5.5556 },
+        'RES%': { start: 11, count: 10, probability: 5.5556 },
+        'DEF%': { start: 11, count: 10, probability: 5.5556 },
+        'MDEF%': { start: 11, count: 10, probability: 5.5556 },
+        'ASPD%': { start: 8, count: 8, probability: 7.1429 },
+        'ATK': { start: 10, count: 16, probability: 1.5152 },
+        'MAG': { start: 10, count: 16, probability: 1.5152 },
+        'DIV': { start: 10, count: 16, probability: 1.5152 },
+        'ACC': { start: 10, count: 16, probability: 1.5152 },
+        'EVA': { start: 10, count: 16, probability: 1.5152 },
+        'RES': { start: 10, count: 16, probability: 1.5152 },
+        'DEF': { start: 10, count: 16, probability: 1.5152 },
+        'MDEF': { start: 10, count: 16, probability: 1.5152 },
+        'SUR': { start: 4, count: 7, probability: 6.25 },
+        'ASPD': { start: 6, count: 10, probability: 3.3333 },
+    },
+    5: {
+        'ATK%': { start: 14, count: 12, probability: 3.3333 },
+        'MAG%': { start: 14, count: 12, probability: 3.3333 },
+        'DIV%': { start: 14, count: 12, probability: 3.3333 },
+        'ACC%': { start: 14, count: 12, probability: 3.3333 },
+        'EVA%': { start: 14, count: 12, probability: 3.3333 },
+        'RES%': { start: 14, count: 12, probability: 3.3333 },
+        'DEF%': { start: 14, count: 12, probability: 3.3333 },
+        'MDEF%': { start: 14, count: 12, probability: 3.3333 },
+        'ASPD%': { start: 11, count: 8, probability: 5.5556 },
+        'ATK': { start: 13, count: 19, probability: 1.0989 },
+        'MAG': { start: 13, count: 19, probability: 1.0989 },
+        'DIV': { start: 13, count: 19, probability: 1.0989 },
+        'ACC': { start: 13, count: 19, probability: 1.0989 },
+        'EVA': { start: 13, count: 19, probability: 1.0989 },
+        'RES': { start: 13, count: 19, probability: 1.0989 },
+        'DEF': { start: 13, count: 19, probability: 1.0989 },
+        'MDEF': { start: 13, count: 19, probability: 1.0989 },
+        'SUR': { start: 5, count: 8, probability: 5.0 },
+        'ASPD': { start: 8, count: 12, probability: 2.381 },
+    },
+};
+
+const LESSER_RANK_6_OTHER: MagnitudeData = {
+    1: {
+        'ATK%': { start: 1, count: 4, probability: 25.0 },
+        'MAG%': { start: 1, count: 4, probability: 25.0 },
+        'DIV%': { start: 1, count: 4, probability: 25.0 },
+        'ACC%': { start: 1, count: 4, probability: 25.0 },
+        'EVA%': { start: 1, count: 4, probability: 25.0 },
+        'RES%': { start: 1, count: 4, probability: 25.0 },
+        'DEF%': { start: 1, count: 4, probability: 25.0 },
+        'MDEF%': { start: 1, count: 4, probability: 25.0 },
+        'ASPD%': { start: 1, count: 2, probability: 50.0 },
+        'ATK': { start: 2, count: 4, probability: 16.6667 },
+        'MAG': { start: 2, count: 4, probability: 16.6667 },
+        'DIV': { start: 2, count: 4, probability: 16.6667 },
+        'ACC': { start: 2, count: 4, probability: 16.6667 },
+        'EVA': { start: 2, count: 4, probability: 16.6667 },
+        'RES': { start: 2, count: 4, probability: 16.6667 },
+        'DEF': { start: 2, count: 4, probability: 16.6667 },
+        'MDEF': { start: 2, count: 4, probability: 16.6667 },
+        'SUR': { start: 1, count: 2, probability: 50.0 },
+        'ASPD': { start: 1, count: 3, probability: 25.0 },
+    },
+    2: {
+        'ATK%': { start: 3, count: 6, probability: 10.0 },
+        'MAG%': { start: 3, count: 6, probability: 10.0 },
+        'DIV%': { start: 3, count: 6, probability: 10.0 },
+        'ACC%': { start: 3, count: 6, probability: 10.0 },
+        'EVA%': { start: 3, count: 6, probability: 10.0 },
+        'RES%': { start: 3, count: 6, probability: 10.0 },
+        'DEF%': { start: 3, count: 6, probability: 10.0 },
+        'MDEF%': { start: 3, count: 6, probability: 10.0 },
+        'ASPD%': { start: 2, count: 5, probability: 12.5 },
+        'ATK': { start: 4, count: 8, probability: 5.0 },
+        'MAG': { start: 4, count: 8, probability: 5.0 },
+        'DIV': { start: 4, count: 8, probability: 5.0 },
+        'ACC': { start: 4, count: 8, probability: 5.0 },
+        'EVA': { start: 4, count: 8, probability: 5.0 },
+        'RES': { start: 4, count: 8, probability: 5.0 },
+        'DEF': { start: 4, count: 8, probability: 5.0 },
+        'MDEF': { start: 4, count: 8, probability: 5.0 },
+        'SUR': { start: 2, count: 4, probability: 16.6667 },
+        'ASPD': { start: 2, count: 5, probability: 12.5 },
+    },
+    3: {
+        'ATK%': { start: 6, count: 9, probability: 4.7619 },
+        'MAG%': { start: 6, count: 9, probability: 4.7619 },
+        'DIV%': { start: 6, count: 9, probability: 4.7619 },
+        'ACC%': { start: 6, count: 9, probability: 4.7619 },
+        'EVA%': { start: 6, count: 9, probability: 4.7619 },
+        'RES%': { start: 6, count: 9, probability: 4.7619 },
+        'DEF%': { start: 6, count: 9, probability: 4.7619 },
+        'MDEF%': { start: 6, count: 9, probability: 4.7619 },
+        'ASPD%': { start: 5, count: 6, probability: 8.3333 },
+        'ATK': { start: 6, count: 12, probability: 2.7778 },
+        'MAG': { start: 6, count: 12, probability: 2.7778 },
+        'DIV': { start: 6, count: 12, probability: 2.7778 },
+        'ACC': { start: 6, count: 12, probability: 2.7778 },
+        'EVA': { start: 6, count: 12, probability: 2.7778 },
+        'RES': { start: 6, count: 12, probability: 2.7778 },
+        'DEF': { start: 6, count: 12, probability: 2.7778 },
+        'MDEF': { start: 6, count: 12, probability: 2.7778 },
+        'SUR': { start: 3, count: 4, probability: 16.6667 },
+        'ASPD': { start: 4, count: 7, probability: 6.25 },
+    },
+    4: {
+        'ATK%': { start: 11, count: 9, probability: 6.25 },
+        'MAG%': { start: 11, count: 9, probability: 6.25 },
+        'DIV%': { start: 11, count: 9, probability: 6.25 },
+        'ACC%': { start: 11, count: 9, probability: 6.25 },
+        'EVA%': { start: 11, count: 9, probability: 6.25 },
+        'RES%': { start: 11, count: 9, probability: 6.25 },
+        'DEF%': { start: 11, count: 9, probability: 6.25 },
+        'MDEF%': { start: 11, count: 9, probability: 6.25 },
+        'ASPD%': { start: 8, count: 7, probability: 8.3333 },
+        'ATK': { start: 10, count: 14, probability: 2.0 },
+        'MAG': { start: 10, count: 14, probability: 2.0 },
+        'DIV': { start: 10, count: 14, probability: 2.0 },
+        'ACC': { start: 10, count: 14, probability: 2.0 },
+        'EVA': { start: 10, count: 14, probability: 2.0 },
+        'RES': { start: 10, count: 14, probability: 2.0 },
+        'DEF': { start: 10, count: 14, probability: 2.0 },
+        'MDEF': { start: 10, count: 14, probability: 2.0 },
+        'SUR': { start: 4, count: 6, probability: 8.3333 },
+        'ASPD': { start: 6, count: 9, probability: 4.0 },
+    },
+    5: {
+        'ATK%': { start: 14, count: 10, probability: 4.1667 },
+        'MAG%': { start: 14, count: 10, probability: 4.1667 },
+        'DIV%': { start: 14, count: 10, probability: 4.1667 },
+        'ACC%': { start: 14, count: 10, probability: 4.1667 },
+        'EVA%': { start: 14, count: 10, probability: 4.1667 },
+        'RES%': { start: 14, count: 10, probability: 4.1667 },
+        'DEF%': { start: 14, count: 10, probability: 4.1667 },
+        'MDEF%': { start: 14, count: 10, probability: 4.1667 },
+        'ASPD%': { start: 11, count: 7, probability: 6.6667 },
+        'ATK': { start: 13, count: 17, probability: 1.3889 },
+        'MAG': { start: 13, count: 17, probability: 1.3889 },
+        'DIV': { start: 13, count: 17, probability: 1.3889 },
+        'ACC': { start: 13, count: 17, probability: 1.3889 },
+        'EVA': { start: 13, count: 17, probability: 1.3889 },
+        'RES': { start: 13, count: 17, probability: 1.3889 },
+        'DEF': { start: 13, count: 17, probability: 1.3889 },
+        'MDEF': { start: 13, count: 17, probability: 1.3889 },
+        'SUR': { start: 5, count: 7, probability: 6.6667 },
+        'ASPD': { start: 8, count: 10, probability: 3.3333 },
+    },
+};
+
+// Full Alteration Stone data (boosted values)
+const FULL_RANK_1_TO_5: MagnitudeData = {
     1: {
         'ATK%': { start: 3, count: 3, probability: 33.3333 },
         'MAG%': { start: 3, count: 3, probability: 33.3333 },
@@ -162,7 +486,7 @@ const FULL_ALTERATION_RANK_1_TO_5: MagnitudeData = {
     },
 };
 
-const FULL_ALTERATION_RANK_6_TWO_HANDED: MagnitudeData = {
+const FULL_RANK_6_TWO_HANDED: MagnitudeData = {
     1: {
         'ATK%': { start: 3, count: 4, probability: 25.0 },
         'MAG%': { start: 3, count: 4, probability: 25.0 },
@@ -270,7 +594,7 @@ const FULL_ALTERATION_RANK_6_TWO_HANDED: MagnitudeData = {
     },
 };
 
-const FULL_ALTERATION_RANK_6_OTHER: MagnitudeData = {
+const FULL_RANK_6_OTHER: MagnitudeData = {
     1: {
         'ATK%': { start: 3, count: 4, probability: 25.0 },
         'MAG%': { start: 3, count: 4, probability: 25.0 },
@@ -378,10 +702,16 @@ const FULL_ALTERATION_RANK_6_OTHER: MagnitudeData = {
     },
 };
 
-const DATA_BY_CATEGORY: Record<EquipmentRankCategory, MagnitudeData> = {
-    rank1to5: FULL_ALTERATION_RANK_1_TO_5,
-    rank6TwoHanded: FULL_ALTERATION_RANK_6_TWO_HANDED,
-    rank6Other: FULL_ALTERATION_RANK_6_OTHER,
+const LESSER_DATA: Record<EquipmentRankCategory, MagnitudeData> = {
+    rank1to5: LESSER_RANK_1_TO_5,
+    rank6TwoHanded: LESSER_RANK_6_TWO_HANDED,
+    rank6Other: LESSER_RANK_6_OTHER,
+};
+
+const FULL_DATA: Record<EquipmentRankCategory, MagnitudeData> = {
+    rank1to5: FULL_RANK_1_TO_5,
+    rank6TwoHanded: FULL_RANK_6_TWO_HANDED,
+    rank6Other: FULL_RANK_6_OTHER,
 };
 
 const QUALITIES: Quality[] = [1, 2, 3, 4, 5];
@@ -403,11 +733,13 @@ function getVisibleTiers(data: MagnitudeData, selectedQuality: QualitySelection)
     return Array.from(tierSet).sort((a, b) => a - b);
 }
 
-export function FullAlterationMagnitude() {
+export function FullAlterationStone() {
+    const [stoneType, setStoneType] = useState<StoneType>('full');
     const [selectedCategory, setSelectedCategory] = useState<EquipmentRankCategory>('rank1to5');
     const [selectedQuality, setSelectedQuality] = useState<QualitySelection>('all');
 
-    const data = DATA_BY_CATEGORY[selectedCategory];
+    const dataSource = stoneType === 'lesser' ? LESSER_DATA : FULL_DATA;
+    const data = dataSource[selectedCategory];
     const visibleTiers = getVisibleTiers(data, selectedQuality);
     const qualitiesToShow = selectedQuality === 'all' ? QUALITIES : [selectedQuality];
 
@@ -415,8 +747,23 @@ export function FullAlterationMagnitude() {
         <div className="ag-magnitude">
             <p className="ag-magnitude-description">
                 Blessing value distribution when using Full Alteration Stones on Grade 2+ equipment.
-                Values are boosted compared to initial drops. Only applies when specific requirements are met.
+                Full stones provide boosted values; Lesser stones do not.
             </p>
+
+            <div className="ag-magnitude-selector">
+                <button
+                    className={`ag-magnitude-btn ${stoneType === 'lesser' ? 'active' : ''}`}
+                    onClick={() => setStoneType('lesser')}
+                >
+                    Lesser
+                </button>
+                <button
+                    className={`ag-magnitude-btn ${stoneType === 'full' ? 'active' : ''}`}
+                    onClick={() => setStoneType('full')}
+                >
+                    Full
+                </button>
+            </div>
 
             <div className="ag-magnitude-selector">
                 {RANK_CATEGORIES.map((cat) => (
