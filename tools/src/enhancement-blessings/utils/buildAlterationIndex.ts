@@ -22,7 +22,7 @@ function hashEquipmentStats(equip: AlterationEquipment): string {
         .join('|');
 }
 
-const TYPE_MODIFIERS = ['One-Handed', 'Two-Handed', 'Heavy', 'Light'];
+const TYPE_MODIFIERS = ['One-Handed', 'Two-Handed', 'Heavy', 'Light', 'Large', 'Small'];
 
 function extractEquipmentType(name: string): string {
     const words = name.split(' ');
