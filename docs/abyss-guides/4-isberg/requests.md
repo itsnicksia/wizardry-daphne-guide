@@ -409,36 +409,36 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
 
     ??? note "Brazier Offerings"
 
-        ??? note "Process"
+            ??? note "Process"
+                
+                - Interact with the brazier and it will request an offering
+                - Collect the offering via fighting enemies or returning to town 
+                - Give the offering to the brazier to unlock a nearby door 
+                - Investigate the unlocked area until Lulu makes a comment 
+                - Return to the brazier for a new offering request 
+                - Repeat until the witch's door is unlocked
+                - On a subsequent run you can speak with Tenet in town to reduce the total number of offering requests
             
-            - Interact with the brazier and it will request an offering
-            - Collect the offering via fighting enemies or returning to town 
-            - Give the offering to the brazier to unlock a nearby door 
-            - Investigate the unlocked area until Lulu makes a comment 
-            - Return to the brazier for a new offering request 
-            - Repeat until the witch's door is unlocked
-            - On a subsequent run you can speak with Tenet in town to reduce the total number of offering requests
-        
-        ??? note "Requests"
-        
-            - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
-            - Request 2 - Hen - Return to town and speak with Tenet
-            - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
-            - Request 4 - Infant (Lamb) - Return to town and speak with Tenet
-            - Request 5 - Sheep - Return to town and speak with Tenet
-    
-        ??? note "Tenet Town Offerings" 
-        
-            - Only available after a first run
-            - Talk to Tenet in town before entering the Witch's Cave
-            - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
-        
-            **Total Brazier Requests**
+            ??? note "Requests"
             
-            - Do not talk to Tenet = 5 
-            - Hen = 4  
-            - Infant (Lamb) = 2 
-            - Sheep = 1 (Unlocks the witch's door) 
+                - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+                - Request 2 - Hen - Return to town and speak with Tenet
+                - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
+                - Request 4 - Infant (Lamb) - Return to town and speak with Tenet
+                - Request 5 - Sheep - Return to town and speak with Tenet
+        
+            ??? note "Tenet Town Offerings" 
+            
+                - Only available after a first run
+                - Talk to Tenet in town before entering the Witch's Cave
+                - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
+            
+                **Total Brazier Requests**
+                
+                - Do not talk to Tenet = 5 
+                - Hen = 4  
+                - Infant (Lamb) = 2 
+                - Sheep = 1 (Unlocks the witch's door) 
     
     ??? note "Witch Burnings"
     
@@ -578,35 +578,35 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
     ??? note "Brazier Offerings"
 
-        ??? note "Process"
-    
-            - Interact with the brazier and it will request an offering
-            - Collect the offering via fighting enemies or returning to town 
-            - Give the offering to the brazier to unlock a nearby door 
-            - Investigate the unlocked area until Lulu makes a comment 
-            - Return to the brazier for a new offering request 
-            - Repeat until the witch's door is unlocked
-            - On a subsequent run you can speak with Elinas in town to reduce the total number of offering requests
-    
-        ??? note "Requests"
+            ??? note "Process"
         
-            - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
-            - Request 2 - Broom - Return to town and speak with Elinas
-            - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
-            - Request 4 - Infant (Lamb) - Return to town and speak with Elinas
-            - Request 5 - Gold Ore - Defeat 3 back-to-back groups of tough enemies 
+                - Interact with the brazier and it will request an offering
+                - Collect the offering via fighting enemies or returning to town 
+                - Give the offering to the brazier to unlock a nearby door 
+                - Investigate the unlocked area until Lulu makes a comment 
+                - Return to the brazier for a new offering request 
+                - Repeat until the witch's door is unlocked
+                - On a subsequent run you can speak with Elinas in town to reduce the total number of offering requests
         
-        ??? note "Elinas Town Offerings" 
-        
-            - Only available after a first run
-            - Talk to Elinas in town before entering the Witch's Cave
-            - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
+            ??? note "Requests"
             
-            **Total Brazier Requests**
+                - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+                - Request 2 - Broom - Return to town and speak with Elinas
+                - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
+                - Request 4 - Infant (Lamb) - Return to town and speak with Elinas
+                - Request 5 - Gold Ore - Defeat 3 back-to-back groups of tough enemies 
             
-            - Do not talk to Elinas = 5 
-            - Broom = 4 
-            - Infant (Lamb) = 2 
+            ??? note "Elinas Town Offerings" 
+            
+                - Only available after a first run
+                - Talk to Elinas in town before entering the Witch's Cave
+                - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
+                
+                **Total Brazier Requests**
+                
+                - Do not talk to Elinas = 5 
+                - Broom = 4 
+                - Infant (Lamb) = 2 
 
 ??? note "Admiral Ending Guides" 
 
