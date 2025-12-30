@@ -130,26 +130,27 @@
 
 ??? note "Request Guide" 
 
-    - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment before you leave the Guild.
-    - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often appears behind you immediately after entering a blizzard zone.
-    - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also despawn your pursuer.
-    - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
+    === "Walkthrough"
 
-        ??? note "Meow-chanics ₍^. .^₎"
-        
-            - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard zone
-            - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
-            - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
-
-    - Catch the kitty once in each of the 3 blizzard zones. On the third attempt use the dried fish, which will complete the request.
-    - The kitty is now permanently located at the Guild. It can also see Lulu!
-
-        ??? warning "Rewards"
+        - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment before you leave the Guild.
+        - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often appears behind you immediately after entering a blizzard zone.
+        - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also despawn your pursuer.
+        - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
+        - Catch the kitty once in each of the 3 blizzard zones. On the third attempt use the dried fish, which will complete the request.
+        - The kitty is now permanently located at the Guild. It can also see Lulu!
     
-            - Gem of Org x20
-            - 12,500 Gold
-            - Deepsnow Hinterlands Roar Junk
-            - Deepsnow Hinterlands Fey Roar Junk 
+            ??? warning "Rewards"
+        
+                - Gem of Org x20
+                - 12,500 Gold
+                - Deepsnow Hinterlands Roar Junk
+                - Deepsnow Hinterlands Fey Roar Junk 
+
+    === "Meow-chanics ₍^. .^₎"
+    
+        - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard zone
+        - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
+        - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
 
 ### Witch Hunt in Elden Hill Village (1st Faction Request)
 
