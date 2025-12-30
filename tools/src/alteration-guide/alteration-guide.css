@@ -362,6 +362,125 @@
     line-height: 1.4;
 }
 
+.ag-magnitude {
+    max-width: 100%;
+}
+
+.ag-magnitude-description {
+    font-size: 0.8125rem;
+    color: var(--ag-text-secondary);
+    margin-bottom: 0.75rem;
+}
+
+.ag-magnitude-selector {
+    display: flex;
+    gap: 0.375rem;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+}
+
+.ag-magnitude-btn {
+    padding: 0.375rem 0.75rem;
+    background-color: var(--ag-bg-secondary);
+    border: 1px solid var(--ag-border-color);
+    border-radius: 4px;
+    color: var(--ag-text-secondary);
+    cursor: pointer;
+    font-size: 0.8125rem;
+    transition: all 0.2s;
+}
+
+.ag-magnitude-btn:hover {
+    background-color: var(--ag-bg-card);
+    color: var(--ag-text-primary);
+}
+
+.ag-magnitude-btn.active {
+    background-color: var(--ag-accent-gold);
+    color: var(--ag-bg-primary);
+    border-color: var(--ag-accent-gold);
+}
+
+.ag-magnitude-table-wrapper {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.ag-magnitude-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.75rem;
+    white-space: nowrap;
+}
+
+.ag-magnitude-table th,
+.ag-magnitude-table td {
+    padding: 0.25rem 0.375rem;
+    border: 1px solid var(--ag-border-color);
+    text-align: center;
+}
+
+.ag-magnitude-th-quality,
+.ag-magnitude-th-stat {
+    background-color: var(--ag-bg-secondary);
+    color: var(--ag-accent-orange);
+    font-weight: normal;
+    text-align: left !important;
+    position: sticky;
+    left: 0;
+    z-index: 1;
+}
+
+.ag-magnitude-th-quality {
+    min-width: 3.5rem;
+}
+
+.ag-magnitude-th-stat {
+    min-width: 4rem;
+    left: 3.5rem;
+}
+
+.ag-magnitude-th-tier {
+    background-color: var(--ag-bg-secondary);
+    color: var(--ag-text-secondary);
+    font-weight: normal;
+    min-width: 3rem;
+}
+
+.ag-magnitude-quality {
+    background-color: var(--ag-bg-card);
+    font-weight: bold;
+    color: var(--ag-accent-gold);
+    text-align: left !important;
+    vertical-align: middle;
+    position: sticky;
+    left: 0;
+    z-index: 1;
+}
+
+.ag-magnitude-stat {
+    background-color: var(--ag-bg-card);
+    text-align: left !important;
+    color: var(--ag-text-primary);
+    position: sticky;
+    left: 3.5rem;
+    z-index: 1;
+}
+
+.ag-magnitude-cell {
+    color: var(--ag-text-secondary);
+}
+
+.ag-magnitude-cell-active {
+    background-color: rgba(212, 128, 17, 0.15);
+    color: var(--ag-accent-orange);
+    font-weight: bold;
+}
+
+.ag-magnitude-row-last td {
+    border-bottom: 2px solid var(--ag-accent-gold);
+}
+
 @media (max-width: 600px) {
     .ag-container {
         padding: 0.5rem;
@@ -391,5 +510,38 @@
     .ag-stats-table th,
     .ag-stats-table td {
         padding: 0.25rem;
+    }
+
+    .ag-magnitude-selector {
+        flex-direction: column;
+    }
+
+    .ag-magnitude-btn {
+        width: 100%;
+        text-align: center;
+    }
+
+    .ag-magnitude-table {
+        font-size: 0.65rem;
+    }
+
+    .ag-magnitude-table th,
+    .ag-magnitude-table td {
+        padding: 0.125rem 0.25rem;
+    }
+
+    .ag-magnitude-th-quality,
+    .ag-magnitude-quality {
+        min-width: 2.5rem;
+    }
+
+    .ag-magnitude-th-stat,
+    .ag-magnitude-stat {
+        min-width: 3rem;
+        left: 2.5rem;
+    }
+
+    .ag-magnitude-th-tier {
+        min-width: 2.25rem;
     }
 }

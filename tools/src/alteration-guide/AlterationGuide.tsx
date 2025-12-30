@@ -2,9 +2,10 @@ import { useState } from 'react';
 import { useAlterationData } from '../hooks/useAlterationData';
 import { BestEquipmentFinder } from './components/BestEquipmentFinder';
 import { AlterationLookup } from './components/AlterationLookup';
+import { BlessingMagnitude } from './components/BlessingMagnitude';
 import './alteration-guide.css';
 
-type TabId = 'best' | 'lookup';
+type TabId = 'best' | 'lookup' | 'magnitude';
 
 interface Tab {
     id: TabId;
@@ -14,6 +15,7 @@ interface Tab {
 const TABS: Tab[] = [
     { id: 'best', label: 'Desired Stat' },
     { id: 'lookup', label: 'Raw Data' },
+    { id: 'magnitude', label: 'Blessing Values' },
 ];
 
 export function AlterationGuide() {
@@ -64,6 +66,7 @@ export function AlterationGuide() {
             <div className="ag-content">
                 {activeTab === 'best' && <BestEquipmentFinder index={index} showJapanese={showJapanese} />}
                 {activeTab === 'lookup' && <AlterationLookup index={index} showJapanese={showJapanese} />}
+                {activeTab === 'magnitude' && <BlessingMagnitude />}
             </div>
         </div>
     );
