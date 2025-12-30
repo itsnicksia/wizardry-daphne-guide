@@ -4,8 +4,7 @@
 
 Wizardry Variants Daphne tools - a multi-tool React app with:
 - **Loot Finder**: Search equipment and find which junk items to farm, with drop rate probabilities
-- **Blacksmithing Simulator**: Simulate blacksmithing outcomes
-- **Enhancement Blessings**: Look up blessing/alteration probabilities by equipment type
+- **Equipment Enhancement (Beta)**: Look up blessing/alteration probabilities by equipment type
 
 Built with Vite + React + TypeScript + Tailwind CSS. Uses HashRouter for client-side routing.
 
@@ -58,7 +57,7 @@ npm run lint             # Run ESLint
 tools/
 ├── src/
 │   ├── main.tsx                 # Entry with HashRouter
-│   ├── App.tsx                  # Routes: /loot-finder, /blacksmithing, /enhancement-blessings
+│   ├── App.tsx                  # Routes: /loot-finder, /equipment-enhancement
 │   ├── types/
 │   │   ├── equipment.ts         # Equipment data types
 │   │   ├── alteration.ts        # Alteration/blessing data types
@@ -71,7 +70,6 @@ tools/
 │   │   ├── loot-finder.css      # Scoped styles (lf- prefix)
 │   │   ├── components/
 │   │   └── utils/buildIndex.ts
-│   ├── blacksmith-simulator/
 │   └── enhancement-blessings/
 │       ├── EnhancementBlessings.tsx
 │       ├── enhancement-blessings.css # Scoped styles (ag- prefix)
@@ -97,8 +95,7 @@ tools/
 
 Builds to `../docs/html/assets/`. Entry HTML files set the hash route:
 - `loot-finder.html` → `#/loot-finder`
-- `blacksmithing-simulator.html` → `#/blacksmithing`
-- `enhancement-blessings.html` → `#/enhancement-blessings`
+- `equipment-enhancement.html` → `#/equipment-enhancement`
 
 These are embedded in MkDocs via snippets (`--8<-- "html/loot-finder.html"`).
 
@@ -107,12 +104,12 @@ These are embedded in MkDocs via snippets (`--8<-- "html/loot-finder.html"`).
 Vite generates content-hashed asset filenames (e.g., `index-CrCkm5R-.js`). After each build:
 1. New asset files are created in `../docs/html/assets/`
 2. `../docs/html/index.html` is auto-updated with new filenames
-3. **Manual update required**: The embed HTML files (`loot-finder.html`, `blacksmithing-simulator.html`, `enhancement-blessings.html`) must be updated to reference the new asset filenames
+3. **Manual update required**: The embed HTML files (`loot-finder.html`, `equipment-enhancement.html`) must be updated to reference the new asset filenames
 4. Delete old asset files to avoid bloat
 
 ### MkDocs Integration
 
-- Each tool's markdown page (e.g., `docs/tools/enhancement-blessings.md`) provides the page title via `# Title`
+- Each tool's markdown page (e.g., `docs/tools/equipment-enhancement.md`) provides the page title via `# Title`
 - React components should NOT render their own `<h1>` headers to avoid duplicate titles
 - The embed HTML files only contain: `<div id="root">`, script/css references, and hash routing
 
@@ -134,7 +131,7 @@ The app fetches `data/equipment-en.json` from GitHub raw content at runtime.
 - **Grade (1-5)**: Additional tier (White/Green/Blue/Purple/Red)
 - **Effective Rate**: `Group Drop Rate × Item Drop Rate / 100`
 
-## Enhancement Blessings Concepts
+## Equipment Enhancement Concepts
 
 **Important**: This tool shows probabilities for INITIAL blessings when equipment drops from garakuta. Alteration stone rerolls have equal probability for all stats.
 

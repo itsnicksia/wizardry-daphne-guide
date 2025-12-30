@@ -36,7 +36,8 @@
     ---
 
     - [Respawn Tracker](./tools/tracker.md)
-    - [Blacksmithing Simulator (preview)](./tools/blacksmith-simulator.md)
+    - [Loot Finder](./tools/loot-finder.md)
+    - [Equipment Enhancement (Beta)](./tools/equipment-enhancement.md)
 
 -   __Game Download__
 
