@@ -15,7 +15,6 @@
     - Side areas do not contain discovery points
     - Bring SP items in case of multiple Bigfoot fights
 
-    
 ??? "Request Guide"
 
     - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
@@ -34,7 +33,7 @@
             ![](./img/salted-pork.jpg)
             </div>
         
-    - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise the boss will not appear and the request will fail. Use the Fountain and hotspring on the floor to recover prior to engaging the boss (filled-in red star).
+    - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss (filled-in red star).
     - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
     - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
     - Remember to pick up the Salted Pork (green star) next to the Harken before exiting. It's easy to miss.
@@ -233,7 +232,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ##### Chancellor Serpens (Princess) Route 
 
-The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch. Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution you can consult with an Herbalist, Physician, or Mystic. 
+The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch. Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution, you can consult with an Herbalist, Physician, or Mystic. 
 
 ??? "Princess Ending Guides"
 
@@ -249,7 +248,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 ![](./img/princess-sleepmoss.png)
                 </div>
                 
-        - Use the small islands of normal tiles to reset the 10 step counter to progress deeper into the area 
+        - Use the small islands of normal tiles to reset the 10-step counter to progress deeper into the area 
         - Exit 
         - Speak to the Herbalist in town
         - Ending sequence begins automatically 
@@ -367,7 +366,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - Enter the Witch's Cave 
             - Head south to the person icon on the map
             - Speak with the Mystic and select "Talk about Elden Hill Village"
-            - The Mystic recommends using using Sar-moon Herb to calm the villagers 
+            - The Mystic recommends using Sar-moon Herb to calm the villagers 
             - Head downstairs to B2F 
             
                 ??? map "Sar-Moon Herb Location"
@@ -398,7 +397,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     - 9,000 Gold
                     - Calm Wind Crest
                     - 2 Junk
-                    - Same ending scenes as "Bad Ending - Consult with a Herbalist" 
+                    - Same ending scenes as "Bad Ending - Consult with an Herbalist" 
 
 ##### Pontiff Route
 
@@ -694,7 +693,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
                     **Fights** 
                     
                     - Fight 1: 2 Big Slime (front); Evil Eye (back)
-                    - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
+                    - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubus (back)
                     - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
                     - Battle strategy to be added soon
     
@@ -712,7 +711,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
             ??? warning "Note on Ending Choices" 
         
-                - Outside a few different lines of flavor text the 2 choices presented when consoling Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
+                - Outside a few different lines of flavor text, the 2 choices presented when consoling Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
                 - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
                 - This could potentially be a bug or there is some combination of responses that has not yet been identified  
             
@@ -753,7 +752,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
                     **Fights:** 
                     
                     - Fight 1: 2 Big Slime (front); Evil Eye (back)
-                    - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubuses (back)
+                    - Fight 2: Greater Demon and Lesser Demon (front); 2 Succubus (back)
                     - Fight 3: 3 Bigfoot Child (front); Bigfoot (back)
                     - Battle strategy to be added soon
     
@@ -795,10 +794,12 @@ This request doesn't have any pre-requisites.
 
 ??? warning "Important Notes"
 
-    - Pre-requisite request: [Special Local Delicacy](./requests.md#special-local-delicacy) otherwise the request automatically fails
-    - There is no special text, sound, or battle music to signal a wolf pack encounter aside from the boss fight
+    - Pre-requisite request: 
+        - [Special Local Delicacy](./requests.md#special-local-delicacy) 
+        - If not completed the request will automatically fail otherwise 
     - Entering from the Route 6 Harken allows you to reverse the blizzard zones in advance before fighting
     - Cursed Wheeling twice on Truth of the Beautiful Ore and then wheeling to Slaying the White Wolves will automatically reverse all blizzard zones
+    - There is no special text, sound, or battle music to signal a wolf pack encounter aside from the boss fight
     - Route 6 is extremely enemy dense with a high respawn rate, so try to avoid enemies or prepare accordingly
     - The Snow Wolf Leader is on par difficulty-wise as the Route 6 boss
 
@@ -826,20 +827,20 @@ This request doesn't have any pre-requisites.
             3. 6 Snow Wolves, 3 in the front, 3 in the back
             4. 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back.
     
-    - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. 
-    - Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
-    - Strongly recommended not leaving the wolf pack at (X:4, Y:1) for last as the boss battle will take place in a blizzard zone. 
+    - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
     - After defeating 4 wolf packs the 5th encounter will be a boss fight against the Snow Wolf Leader.
-    - [Subsequent runs]: A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
+
+        ??? "Subsequent Runs"
+            - A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
     - Exit and return to the Guild to submit the request.
 
-    ??? warning "Rewards"
-    
-        - Gem of Org x20 (first-time only)
-        - Snow Wolf Trapper Hat
-        - 5,000 Gold 
-        - Additional reward - 22,000 Gold 
-        - Bondmate - Warg, Commander of the Deep Snow (subsequent runs only)
+        ??? warning "Rewards"
+        
+            - Gem of Org x20 (first-time only)
+            - Snow Wolf Trapper Hat
+            - 5,000 Gold 
+            - Additional reward - 22,000 Gold 
+            - Bondmate - Warg, Commander of the Deep Snow (subsequent runs only)
 
 ## Passed Through the Coal Mine
 
@@ -872,7 +873,7 @@ You need to complete Unforgivable Wolves. Otherwise, this request will automatic
 
 The faction requests are unlocked after entering Route 9 for the first time. The objective is to search for traces of two missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
 
-Upon entering the Royal Capital the faction representative will appear to discuss the missing persons. 
+Upon entering the Royal Capital, the faction representative will appear to discuss the missing persons. 
 
 - Agree to help twice when prompted
 - Head to the Guild and accept the request under the Royal Capital tab 
@@ -899,7 +900,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     
         - Strongly recommend _not_ doing a blind run
         - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
-        - Interactable ojbects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
+        - Interactable objects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
 ??? "Bigfoot Cave"
 
@@ -925,7 +926,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
 ??? "Princess Route - Search for Missing Royal Knights"
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-    2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet and the Rockhome Village Key. To avoid a long walk through the spike traps return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
+    2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet and the Rockhome Village Key. To avoid a long walk through the spike traps, return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
     3. Head to the two locked houses on the bottom-left side of the map. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
     4. Head to the house at the bottom middle of Route 3 (where Mike, one of the village adults, was killed by goblins). Enter the house and find the body of one of the Royal Knights.
     5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets ("tablets") as clues.
@@ -934,10 +935,10 @@ Upon entering the Royal Capital the faction representative will appear to discus
         - (X:26, Y:24) - Few steps southeast of Route 4 entrance
     7. Harken to Route 6 and enter Route 7. Find the tablets in this order: 
         - (X:13, Y:23) - Central 3x3 room 
-        - (X:16, Y:22) - Right-hand deadend of 3x3 room
-    8. Exit back to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you you can walk directly to the tablets. Find the tablets in this order: 
+        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+    8. Exit back to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you can walk directly to the tablets. Find the tablets in this order: 
         - (X:19, Y:7) - Northwest of Route 8 stairs
-        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) deadend 
+        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
         - (X:15, Y:24) - Few steps south of the Harken
     9. From the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
         - (X:1, Y:7) - Upper left-hand side of the first house in the grass
@@ -958,7 +959,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
 ??? "Pontiff Route - Search for Adherent Acquaintances" 
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-    2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + Rockhome Village Key. To avoid a long walk through the spike traps return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
+    2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + Rockhome Village Key. To avoid a long walk through the spike traps, return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
     3. Head to the two locked houses on the bottom-left side of the map. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat the 2 Vorpal Bunnies and 3 Snow Slimes. Collect the faction-related insignia on the floor. Exit and return to the Route 2 Harken.
     4. Select Route 5 and walk to Route 6. Head to the house on the far left-hand side (where Otto, one of the village adults, was). You will find the body of Sir William, one of the two missing persons, in the backyard.
     5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how Agnes would leave wax tablets ("tablets") as clues.
@@ -968,10 +969,10 @@ Upon entering the Royal Capital the faction representative will appear to discus
         - (X:23, Y:25) - Few steps left of the Route 4 entrance
     7. Harken to Route 6 and enter Route 7. Find the tablets in this order:
         - (X:13, Y:23) - Central 3x3 room 
-        - (X:16, Y:22) - Right-hand deadend of 3x3 room
-    8. Exit back to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you you can walk directly to the tablets. Find the tablets in this order: 
+        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+    8. Exit back to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you can walk directly to the tablets. Find the tablets in this order: 
         - (X:19, Y:7) - Northwest of Route 8 stairs 
-        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) deadend 
+        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
         - (X:15, Y:24) - Few steps south of the Harken
     9. From the Route 7 Harken go left and exit to Route 9. Find the tablet at:
         - (X:1, Y:7) - Upper left-hand side of the first house in the grass 
@@ -988,7 +989,7 @@ Upon entering the Royal Capital the faction representative will appear to discus
     13. Look into the pile of poop in the next room. Indicate that the person isn't in here. Reverse the nullstone and type "Noah" into the prompt.
     14. Head back to the Royal Capital to turn in the request. Sir William will leave for the nullstone. 
     15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, and a Giant Beast Ape Robe.
-    16. Head back to the end of the Bigfoot Cave and interact with the husband and the nullstone to learn the truth about Agens's fate. After the cutscene you will receive William (Divine Power) as a bondmate.
+    16. Head back to the end of the Bigfoot Cave and interact with the husband and the nullstone to learn the truth about Agnes's fate. After the cutscene you will receive William (Divine Power) as a bondmate.
 
 ??? "Admiral Route - Search Bernard and Young Laurent"
 
