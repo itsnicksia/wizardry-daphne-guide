@@ -17,38 +17,42 @@
 
 ??? note "Request Guide"
 
-    === "Discovery Points"
+    === "Walkthrough"
     
-        <div align="center">
-        ![](./img/salted-pork.jpg)
-        </div>
-    
-    === "Bigfoot Child Audio Cues"
-        - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
-        - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
-        - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom
+        - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
+        - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
+        - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
+        - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss (filled-in red star).
+        - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
+        - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
+        - Remember to pick up the Salted Pork (green star) next to the Harken before exiting. It's easy to miss.
+        - Return to the Guild and submit the request.
 
-    - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
-    - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-    - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
-    - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss (filled-in red star).
-    - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
-    - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
-    - Remember to pick up the Salted Pork (green star) next to the Harken before exiting. It's easy to miss.
-    - Return to the Guild and submit the request.
-    
-        ??? warning "Rewards"
-        
-            ??? note "Spare"
+            ??? warning "Rewards"
+            
+                ??? note "Spare"
                 - Gem of Org x20 (one-time only)
                 - 8,000 Gold
                 - Bigfoot's Offspring (Accuracy) 
                 - Triffia removed from inventory 
-        
-            ??? note "Kill" 
+                
+                ??? note "Kill" 
                 - Gem of Org x20 (one-time only)
                 - 8,000 Gold 
-                - Additional gold from request giver  
+                - Additional gold from request giver
+
+    === "Map"
+
+        ??? Map "Discovery Points"
+        
+            <div align="center">
+            ![](./img/salted-pork.jpg)
+            </div>
+    
+    === "Bigfoot Child Audio Cues"
+        - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
+        - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
+        - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom  
       
 ## Village Shut Away in Silence 
 
