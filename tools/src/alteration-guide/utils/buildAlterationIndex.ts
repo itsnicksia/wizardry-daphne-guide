@@ -46,6 +46,10 @@ function pluralize(word: string): string {
     const lastWord = word.split(' ').pop() || word;
     const prefix = word.slice(0, word.length - lastWord.length);
 
+    // Already plural (Gloves, Boots, Greaves, Pants, etc.)
+    if (/(?:ves|ots|nts|aves)$/i.test(lastWord)) {
+        return word;
+    }
     if (lastWord.endsWith('f')) {
         return prefix + lastWord.slice(0, -1) + 'ves';
     }
