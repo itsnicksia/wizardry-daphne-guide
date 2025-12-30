@@ -12,7 +12,7 @@ interface BestEquipmentFinderProps {
 
 export function BestEquipmentFinder({ index, showJapanese }: BestEquipmentFinderProps) {
     const [selectedStats, setSelectedStats] = useState<AlterationStatType[]>(['ATK%']);
-    const [selectedTiers, setSelectedTiers] = useState<TierNumber[]>([4]);
+    const [selectedTier, setSelectedTier] = useState<TierNumber>(4);
     const [expandedGroups, setExpandedGroups] = useState<Set<string>>(new Set());
 
     const groupByName = useMemo(() => {
@@ -30,13 +30,13 @@ export function BestEquipmentFinder({ index, showJapanese }: BestEquipmentFinder
         const allRankings = index.byStatRanking.get(stat) || [];
 
         return allRankings
-            .filter(r => selectedTiers.includes(r.tier))
+            .filter(r => r.tier === selectedTier)
             .slice(0, 50)
             .map(r => ({
                 ...r,
                 group: groupByName.get(r.groupName)!
             }));
-    }, [index, selectedStats, selectedTiers, groupByName]);
+    }, [index, selectedStats, selectedTier, groupByName]);
 
     const toggleGroup = (key: string) => {
         setExpandedGroups(prev => {
@@ -60,7 +60,7 @@ export function BestEquipmentFinder({ index, showJapanese }: BestEquipmentFinder
         </p>
         <div className="ag-card">
           <StatSelector selectedStats={selectedStats} onSelect={setSelectedStats} multiSelect={false} />
-          <TierToggle selectedTiers={selectedTiers} onToggle={setSelectedTiers} />
+          <TierToggle selectedTier={selectedTier} onSelect={setSelectedTier} />
         </div>
 
         {selectedStats.length > 0 && (

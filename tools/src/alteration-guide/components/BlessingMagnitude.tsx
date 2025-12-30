@@ -386,35 +386,32 @@ const DATA_BY_CATEGORY: Record<EquipmentRankCategory, MagnitudeData> = {
     rank6Other: MAGNITUDE_RANK_6_OTHER,
 };
 
-function getMaxValueTier(data: MagnitudeData): number {
-    let max = 0;
-    for (const quality of [1, 2, 3, 4, 5] as Quality[]) {
+const QUALITIES: Quality[] = [1, 2, 3, 4, 5];
+
+type QualitySelection = Quality | 'all';
+
+function getVisibleTiers(data: MagnitudeData, selectedQuality: QualitySelection): number[] {
+    const qualities = selectedQuality === 'all' ? QUALITIES : [selectedQuality];
+    const tierSet = new Set<number>();
+
+    for (const quality of qualities) {
         for (const stat of Object.values(data[quality])) {
-            max = Math.max(max, stat.start + stat.count - 1);
+            for (let i = 0; i < stat.count; i++) {
+                tierSet.add(stat.start + i);
+            }
         }
     }
-    return max;
-}
 
-const QUALITIES: Quality[] = [1, 2, 3, 4, 5];
+    return Array.from(tierSet).sort((a, b) => a - b);
+}
 
 export function BlessingMagnitude() {
     const [selectedCategory, setSelectedCategory] = useState<EquipmentRankCategory>('rank1to5');
-    const [selectedQualities, setSelectedQualities] = useState<Quality[]>([1, 2, 3, 4, 5]);
+    const [selectedQuality, setSelectedQuality] = useState<QualitySelection>('all');
 
     const data = DATA_BY_CATEGORY[selectedCategory];
-    const maxTier = getMaxValueTier(data);
-    const tiers = Array.from({ length: maxTier }, (_, i) => i + 1);
-
-    const toggleQuality = (quality: Quality) => {
-        if (selectedQualities.includes(quality)) {
-            if (selectedQualities.length > 1) {
-                setSelectedQualities(selectedQualities.filter(q => q !== quality));
-            }
-        } else {
-            setSelectedQualities([...selectedQualities, quality].sort());
-        }
-    };
+    const visibleTiers = getVisibleTiers(data, selectedQuality);
+    const qualitiesToShow = selectedQuality === 'all' ? QUALITIES : [selectedQuality];
 
     return (
         <div className="ag-magnitude">
@@ -436,11 +433,17 @@ export function BlessingMagnitude() {
             </div>
 
             <div className="ag-magnitude-quality-selector">
+                <button
+                    className={`ag-magnitude-quality-btn ${selectedQuality === 'all' ? 'active' : ''}`}
+                    onClick={() => setSelectedQuality('all')}
+                >
+                    All
+                </button>
                 {QUALITIES.map((quality) => (
                     <button
                         key={quality}
-                        className={`ag-magnitude-quality-btn ${selectedQualities.includes(quality) ? 'active' : ''}`}
-                        onClick={() => toggleQuality(quality)}
+                        className={`ag-magnitude-quality-btn ${selectedQuality === quality ? 'active' : ''}`}
+                        onClick={() => setSelectedQuality(quality)}
                     >
                         {'★'.repeat(quality)}
                     </button>
@@ -453,13 +456,13 @@ export function BlessingMagnitude() {
                         <tr>
                             <th className="ag-magnitude-th-quality">Quality</th>
                             <th className="ag-magnitude-th-stat">Stat</th>
-                            {tiers.map((tier) => (
+                            {visibleTiers.map((tier) => (
                                 <th key={tier} className="ag-magnitude-th-tier">{tier}</th>
                             ))}
                         </tr>
                     </thead>
                     <tbody>
-                        {QUALITIES.filter(q => selectedQualities.includes(q)).map((quality) => (
+                        {qualitiesToShow.map((quality) => (
                             STATS.map((stat, statIdx) => {
                                 const range = data[quality][stat.id];
                                 const isFirstStat = statIdx === 0;
@@ -479,7 +482,7 @@ export function BlessingMagnitude() {
                                             </td>
                                         )}
                                         <td className="ag-magnitude-stat">{stat.label}</td>
-                                        {tiers.map((tier) => {
+                                        {visibleTiers.map((tier) => {
                                             const isInRange = tier >= range.start && tier < range.start + range.count;
                                             return (
                                                 <td

@@ -13,7 +13,7 @@ interface Tab {
 }
 
 const TABS: Tab[] = [
-    { id: 'best', label: 'Desired Stat' },
+    { id: 'best', label: 'Blessing Rates' },
     { id: 'lookup', label: 'Raw Data' },
     { id: 'magnitude', label: 'Blessing Values' },
 ];
