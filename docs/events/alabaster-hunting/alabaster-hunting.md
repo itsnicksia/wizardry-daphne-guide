@@ -44,10 +44,10 @@ Three runs are necessary to fully complete the request "Bring Me an Alabaster Pe
 - Head to 3f and beat the wolf by itself. However, upon defeating it you'll fight the other wolf again but this time their buffs are undispellable and permanent. Furthermore, they will attack after every turn you make. Defeating this will reward an undamaged pelt.
 - Head back to the Adventurer's Guild and turn it in.
 
-### 4th Run - True Ending 
+### 4th Run - True Ending (Requires Ranger)
 
-- Head into the cave and skip the 1st Wolf again. If you have a Ranger in your party, you can continue without resurrecting the Ranger, but if you don't, you will need to resurrect him again and pay 1000 for bait. Bait/Trap the 1st Wolf and proceed onwards.
-- Head to fight the 2nd Wolf in B3F, but this time you have the option to spare it. Attempt to head back to the Harken. The wolves will appear and show you the location of the buried coat they took from the dead hunter. You will reverse it into pristine condition, in which you can then turn it in.
+- Head into the cave and skip the 1st Wolf again. If you have a Ranger in your party, you can continue without resurrecting the dead body if you have knowledge from the previous good ending. Trap the 1st Wolf and choose to let the 1st Wolf go.
+- Attempt to head back to the Harken. The wolves will appear and show you the location of the buried coat they took from the dead hunter. You will reverse it into pristine condition, in which you can then turn it in.
 
 ### Rewards
 
