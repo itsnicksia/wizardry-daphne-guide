@@ -74,8 +74,7 @@ tools/
 │       ├── alteration-guide.css # Scoped styles (ag- prefix)
 │       ├── components/          # BestEquipmentFinder, AlterationLookup, etc.
 │       └── utils/
-│           ├── buildAlterationIndex.ts  # Groups equipment by probability
-│           └── calculateExpectedValue.ts
+│           └── buildAlterationIndex.ts  # Groups equipment by probability
 ├── scripts/
 │   ├── convert-equipment.ts     # Loot data converter
 │   ├── convert-alteration.ts    # Alteration data converter
@@ -123,13 +122,9 @@ The app fetches `data/equipment-en.json` from GitHub raw content at runtime.
 - **Stat Types**:
   - Percentage stats: ATK%, MAG%, DIV%, ACC%, EVA%, RES%, DEF%, MDEF%, ASPD%
   - Flat stats: ATK, MAG, DIV, ACC, EVA, RES, DEF, MDEF, ASPD, CRIT
-- **Expected Value**: Uses geometric distribution - if p is probability of target stat, expected rolls = 1/p
-- **Percentiles**: p50/p75/p90/p99 calculated as `ceil(log(1-percentile) / log(1-p))`
-
 ### Tool Tabs
-1. **Best Equipment Finder**: Ranks equipment groups by probability for a selected stat
-2. **Alteration Lookup**: Search equipment to view full probability table across all enhancement levels
-3. **Expected Value Calculator**: Calculate expected alteration stones needed for target stat(s)
+1. **Desired Stat**: Ranks equipment groups by probability for a selected stat
+2. **Raw Data**: Search equipment to view full probability table across all enhancement levels
 
 ## Adding Translations
 

@@ -2,10 +2,9 @@ import { useState } from 'react';
 import { useAlterationData } from '../hooks/useAlterationData';
 import { BestEquipmentFinder } from './components/BestEquipmentFinder';
 import { AlterationLookup } from './components/AlterationLookup';
-import { ExpectedValueCalculator } from './components/ExpectedValueCalculator';
 import './alteration-guide.css';
 
-type TabId = 'best' | 'lookup' | 'calculator';
+type TabId = 'best' | 'lookup';
 
 interface Tab {
     id: TabId;
@@ -13,9 +12,8 @@ interface Tab {
 }
 
 const TABS: Tab[] = [
-    { id: 'best', label: 'Best Equipment' },
-    { id: 'lookup', label: 'Lookup' },
-    { id: 'calculator', label: 'Calculator' },
+    { id: 'best', label: 'Desired Stat' },
+    { id: 'lookup', label: 'Raw Data' },
 ];
 
 export function AlterationGuide() {
@@ -59,7 +57,6 @@ export function AlterationGuide() {
             <div className="ag-content">
                 {activeTab === 'best' && <BestEquipmentFinder index={index} />}
                 {activeTab === 'lookup' && <AlterationLookup index={index} />}
-                {activeTab === 'calculator' && <ExpectedValueCalculator index={index} />}
             </div>
         </div>
     );

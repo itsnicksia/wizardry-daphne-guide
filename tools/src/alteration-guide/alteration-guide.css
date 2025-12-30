@@ -331,50 +331,6 @@
     margin-bottom: 0.5rem;
 }
 
-.ag-ev-result {
-    background-color: var(--ag-bg-secondary);
-    border: 1px solid var(--ag-border-color);
-    border-radius: 8px;
-    padding: 1rem;
-    margin-top: 1rem;
-}
-
-.ag-ev-main {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: var(--ag-accent-gold);
-    margin-bottom: 0.5rem;
-}
-
-.ag-ev-label {
-    font-size: 0.875rem;
-    color: var(--ag-text-secondary);
-}
-
-.ag-ev-percentiles {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 0.5rem;
-    margin-top: 1rem;
-}
-
-.ag-ev-percentile {
-    background-color: var(--ag-bg-card);
-    padding: 0.5rem;
-    border-radius: 4px;
-    text-align: center;
-}
-
-.ag-ev-percentile-value {
-    font-weight: bold;
-    color: var(--ag-text-primary);
-}
-
-.ag-ev-percentile-label {
-    font-size: 0.75rem;
-    color: var(--ag-text-secondary);
-}
-
 @media (max-width: 600px) {
     .ag-container {
         padding: 0.5rem;
