@@ -805,15 +805,15 @@ This request doesn't have any pre-requisites.
 
 ??? "Request Guide"
 
-    - The objective is to hunt 5 wolf packs scattered across Route 6. The wolf pack locations are static, do not move on the field, and the order fought does not matter. 
+    - The objective is to hunt 4 wolf packs scattered across Route 6. The wolf pack locations are static, do not move on the field, and the order fought does not matter. 
     - The enemy composition of each fight progresses in a fixed order.
 
-        ??? map "Wolf Pack Locations"
+        ??? map "Wolf Pack Locations" 
         
-            <figure markdown>
-            ![](./img/unforgivable-wolves-locations.jpg‎)
-            </figure>
-        
+            <div align="center">
+            ![](./img/unforgivable-wolves-locations.jpg)
+            </div>
+
             - (X:11,Y:19) - Southwest of the Fountain
             - (X:5,Y:18) - Next to upper-left reversal stump
             - (X:16,Y:16) - Northeast of middle reversal stump
@@ -822,14 +822,14 @@ This request doesn't have any pre-requisites.
 
         ??? "Wolf Pack Encounters"
         
-            1. 4 Snow Wolves in a row
-            2. 5 Snow Wolves, 3 in the front, 2 in the back
-            3. 6 Snow Wolves, 3 in the front, 3 in the back
-            4. 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back.
+            - Wolf Pack 1 - 4 Snow Wolves in a row
+            - Wolf Pack 2 - 5 Snow Wolves, 3 in the front, 2 in the back
+            - Wolf Pack 3 - 6 Snow Wolves, 3 in the front, 3 in the back
+            - Wolf Pack 4 - 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back
     
     - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
-    - After defeating 4 wolf packs the 5th encounter will be a boss fight against the Snow Wolf Leader.
-    - (Subsequent Runs) A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
+    - After defeating 3 wolf packs the 4th encounter will be a boss fight against the Snow Wolf Leader.
+    - (Subsequent runs) A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
     - Exit and return to the Guild to submit the request.
 
         ??? warning "Rewards"
