@@ -613,7 +613,7 @@
       ]
     },
     {
-      "name": "Bronze One-Handed Blunt Weapon",
+      "name": "Bronze Mace",
       "nameJp": "青銅の鎚矛",
       "tiers": [
         {
@@ -1225,7 +1225,7 @@
       ]
     },
     {
-      "name": "Bronze Two-Handed Blunt Weapon",
+      "name": "Bronze Two-Handed Mace",
       "nameJp": "青銅の両手鎚矛",
       "tiers": [
         {
@@ -4081,7 +4081,7 @@
       ]
     },
     {
-      "name": "Iron One-Handed Blunt Weapon",
+      "name": "Iron Mace",
       "nameJp": "鉄の鎚矛",
       "tiers": [
         {
@@ -4591,7 +4591,7 @@
       ]
     },
     {
-      "name": "Iron Two-Handed Blunt Weapon",
+      "name": "Iron Two-Handed Mace",
       "nameJp": "鉄の両手鎚矛",
       "tiers": [
         {
@@ -7039,7 +7039,7 @@
       ]
     },
     {
-      "name": "Exorcism Two-Handed Blunt Weapon",
+      "name": "Exorcism Two-Handed Mace",
       "nameJp": "退魔の両手鎚矛",
       "tiers": [
         {
@@ -7957,7 +7957,7 @@
       ]
     },
     {
-      "name": "Steel One-Handed Blunt Weapon",
+      "name": "Steel Mace",
       "nameJp": "鋼の鎚矛",
       "tiers": [
         {
@@ -8671,7 +8671,7 @@
       ]
     },
     {
-      "name": "Steel Two-Handed Blunt Weapon",
+      "name": "Steel Two-Handed Mace",
       "nameJp": "鋼の両手鎚矛",
       "tiers": [
         {
@@ -11425,7 +11425,7 @@
       ]
     },
     {
-      "name": "Water Zero Two-Handed Blunt Weapon",
+      "name": "Water Zero Warmace",
       "nameJp": "水零の戦棍",
       "tiers": [
         {
@@ -11833,7 +11833,7 @@
       ]
     },
     {
-      "name": "Water Zero Two-Handed Blunt Weapon",
+      "name": "Water Zero Heavy Mace",
       "nameJp": "水零の重鎚矛",
       "tiers": [
         {
@@ -13057,7 +13057,7 @@
       ]
     },
     {
-      "name": "Earth Clod Two-Handed Blunt Weapon",
+      "name": "Earth Clod Warmace",
       "nameJp": "土塊の戦棍",
       "tiers": [
         {
@@ -13465,7 +13465,7 @@
       ]
     },
     {
-      "name": "Earth Clod Two-Handed Blunt Weapon",
+      "name": "Earth Clod Heavy Mace",
       "nameJp": "土塊の重鎚矛",
       "tiers": [
         {
@@ -14179,7 +14179,7 @@
       ]
     },
     {
-      "name": "Ebonsteel One-Handed Blunt Weapon",
+      "name": "Ebonsteel Mace",
       "nameJp": "冥鋼の鎚矛",
       "tiers": [
         {
@@ -14791,7 +14791,7 @@
       ]
     },
     {
-      "name": "Ebonsteel Two-Handed Blunt Weapon",
+      "name": "Ebonsteel Two-Handed Mace",
       "nameJp": "冥鋼の両手鎚矛",
       "tiers": [
         {
@@ -18769,7 +18769,7 @@
       ]
     },
     {
-      "name": "Evil Banishing One-Handed Blunt Weapon",
+      "name": "Evil Banishing Mace",
       "nameJp": "破魔の鎚矛",
       "tiers": [
         {
@@ -19891,7 +19891,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Two-Handed Blunt Weapon",
+      "name": "Eternal Darkness Warmace",
       "nameJp": "常闇の戦棍",
       "tiers": [
         {
@@ -20299,7 +20299,7 @@
       ]
     },
     {
-      "name": "Eternal Darkness Two-Handed Blunt Weapon",
+      "name": "Eternal Darkness Heavy Mace",
       "nameJp": "常闇の重鎚矛",
       "tiers": [
         {
@@ -21625,7 +21625,7 @@
       ]
     },
     {
-      "name": "Excellent Katana",
+      "name": "Exquisite Katana",
       "nameJp": "上々作の刀",
       "tiers": [
         {
@@ -22441,7 +22441,7 @@
       ]
     },
     {
-      "name": "Silver One-Handed Blunt Weapon",
+      "name": "Silver Mace",
       "nameJp": "銀の鎚矛",
       "tiers": [
         {
@@ -23155,7 +23155,7 @@
       ]
     },
     {
-      "name": "Silver Two-Handed Blunt Weapon",
+      "name": "Silver Two-Handed Mace",
       "nameJp": "銀の両手鎚矛",
       "tiers": [
         {
@@ -26827,7 +26827,7 @@
       ]
     },
     {
-      "name": "Earthrend One-Handed Blunt Weapon",
+      "name": "Earthrend Mace",
       "nameJp": "地裂の鎚矛",
       "tiers": [
         {
@@ -27235,7 +27235,7 @@
       ]
     },
     {
-      "name": "Earthrend Two-Handed Blunt Weapon",
+      "name": "Earthrend Two-Handed Mace",
       "nameJp": "地裂の両手鎚矛",
       "tiers": [
         {
@@ -29071,7 +29071,7 @@
       ]
     },
     {
-      "name": "Flame Two-Handed Blunt Weapon",
+      "name": "Flame Warmace",
       "nameJp": "火炎の戦棍",
       "tiers": [
         {
@@ -29479,7 +29479,7 @@
       ]
     },
     {
-      "name": "Flame Two-Handed Blunt Weapon",
+      "name": "Flame Heavy Mace",
       "nameJp": "火炎の重鎚矛",
       "tiers": [
         {
@@ -30703,7 +30703,7 @@
       ]
     },
     {
-      "name": "Gale Two-Handed Blunt Weapon",
+      "name": "Gale Warmace",
       "nameJp": "疾風の戦棍",
       "tiers": [
         {
@@ -31111,7 +31111,7 @@
       ]
     },
     {
-      "name": "Gale Two-Handed Blunt Weapon",
+      "name": "Gale Heavy Mace",
       "nameJp": "疾風の重鎚矛",
       "tiers": [
         {
@@ -32335,7 +32335,7 @@
       ]
     },
     {
-      "name": "Aurora Two-Handed Blunt Weapon",
+      "name": "Aurora Warmace",
       "nameJp": "極光の戦棍",
       "tiers": [
         {
@@ -32743,7 +32743,7 @@
       ]
     },
     {
-      "name": "Aurora Two-Handed Blunt Weapon",
+      "name": "Aurora Heavy Mace",
       "nameJp": "極光の重鎚矛",
       "tiers": [
         {
@@ -34681,7 +34681,7 @@
       ]
     },
     {
-      "name": "Ephemeral One-Handed Blunt Weapon",
+      "name": "Ephemeral Mace",
       "nameJp": "泡沫の鎚矛",
       "tiers": [
         {
@@ -35089,7 +35089,7 @@
       ]
     },
     {
-      "name": "Ephemeral Two-Handed Blunt Weapon",
+      "name": "Ephemeral Two-Handed Mace",
       "nameJp": "泡沫の両手鎚矛",
       "tiers": [
         {
@@ -36721,7 +36721,7 @@
       ]
     },
     {
-      "name": "Fine Katana",
+      "name": "Exceptional Katana",
       "nameJp": "上作の刀",
       "tiers": [
         {
