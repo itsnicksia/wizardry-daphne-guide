@@ -132,18 +132,7 @@ extra text can be added between skills
 
     Over all, Yrsa has a unique kit, an annoying bug, and will not be a fit for many teams. She's nothing game-breaking and is an easy skip if you're not a fan. You won't really want to run her on a party full of 2h Fighters since the number of hits you'll be able to deal in a 2 turn window is pretty limited. That being said, she has the potential to be a solid addition to faster, Ninja and Shedding-based teams. When fixed, First Arrow will hopefully have a nice spot in her skill rotation as a debuff with supplemental damage associated with it.
 
-??? info "Shiro's Analysis"
-
-    So we got the first legendary ranger. Class seems to be made around exploring and map traveling/qol with farming ability thanks to AoE more than boss killer type class unlike everything we had so far. 
-
-    Going to her inheritance and passive. Her inheritance is good vs enemies with high eva/aspd, so mostly A4 enemies and probably some bosses? Might be a good debuff on sealed demon but I’m not sure about it myself. Damage seems to be good and it stacks with the number of hits the enemy gets during it. 
-
-    Her passive is great for farming, similar to Abenius having beast slayer is the best choice for a farmer and if you use traps it also lets another ally to benefit from beast slayer! So great choice for farming with traps! Outside of it she can be of some help against the wolf boss in A4.
-
-    Overall? Nothing you need to spend on it. But thanks to great passive/disc and inheritance for A4 she’s worth considering to be your choice for a pull. If you need AoE that’s it. A really great option but nothing amazing as for now. Unless I miss something. Also takes more xp than base class and less than advanced ones.
-    
-
-??? info "Shiro's Analysis"
+??? info "Karkarov's Analysis"
 
     MAJOR NOTE UP FRONT: Ranger is unique as a physical DPS class because due to how it's damage split works from the skill "Sniper" they derive more damage from Accuracy than they do from Attack Power.  As a result, the ideal boost/IV and BP spend if all you care about is DPS is Dexterity, not Strength.  This is different from basically every other physical DPS class, even on Samurai the other split damage formula physical DPS class Strangth and IQ are basically equal.  
     
@@ -164,6 +153,16 @@ extra text can be added between skills
     All in all, she is an interesting character, I think Ranger is an interesting a fun class, but do I think she is definitively better than Standard Ranger Heinrico?  No, she is, but it isn't some big gap it's pretty small.  Am I going to boot someone for my standard progression party to make room for a Ranger?  No.  I might slot one in on my Auto Farm team though. 
 
     So the value of this banner really is going to come down to you.  If you can justify spending on a cute sweet nice gal female DORF character that really shines in auto farm and trap filled hell holes like Den of Earth, go for it. You will find a character that really can be a value add in a lot of farming situations (just don't trick yourself into thinking Ranger is a Treasure Chest class, it is not).  If all you care about is META GIMME META DPSSSS GRAAGGWEWRAAAHHHHH~!~~~!~  Then you should probably pass.
+    
+??? info "Shiro's Analysis"
+
+    So we got the first legendary ranger. Class seems to be made around exploring and map traveling/qol with farming ability thanks to AoE more than boss killer type class unlike everything we had so far. 
+
+    Going to her inheritance and passive. Her inheritance is good vs enemies with high eva/aspd, so mostly A4 enemies and probably some bosses? Might be a good debuff on sealed demon but I’m not sure about it myself. Damage seems to be good and it stacks with the number of hits the enemy gets during it. 
+
+    Her passive is great for farming, similar to Abenius having beast slayer is the best choice for a farmer and if you use traps it also lets another ally to benefit from beast slayer! So great choice for farming with traps! Outside of it she can be of some help against the wolf boss in A4.
+
+    Overall? Nothing you need to spend on it. But thanks to great passive/disc and inheritance for A4 she’s worth considering to be your choice for a pull. If you need AoE that’s it. A really great option but nothing amazing as for now. Unless I miss something. Also takes more xp than base class and less than advanced ones.
     
 ## Adventurer Pull Plans
 
