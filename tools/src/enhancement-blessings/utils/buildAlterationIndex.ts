@@ -23,15 +23,35 @@ function hashEquipmentStats(equip: AlterationEquipment): string {
 }
 
 const TYPE_MODIFIERS = ['One-Handed', 'Two-Handed', 'Heavy', 'Light', 'Large', 'Small'];
+const ARMOR_WEIGHT_MODIFIERS = ['Light', 'Heavy'];
 
 function extractEquipmentType(name: string): string {
+    // Handle "of X" patterns - process only the part before "of"
+    const ofIndex = name.indexOf(' of ');
+    if (ofIndex !== -1) {
+        name = name.substring(0, ofIndex);
+    }
+
     const words = name.split(' ');
+
+    // Check for 3-word patterns like "Light Armor Boots" or "Heavy Armor Boots"
+    if (words.length >= 3) {
+        const lastThree = words.slice(-3);
+        if (ARMOR_WEIGHT_MODIFIERS.includes(lastThree[0]) &&
+            lastThree[1] === 'Armor' &&
+            lastThree[2] === 'Boots') {
+            return lastThree.join(' ');
+        }
+    }
+
+    // Check for 2-word types with modifier
     if (words.length >= 2) {
         const secondToLast = words[words.length - 2];
         if (TYPE_MODIFIERS.includes(secondToLast)) {
             return words.slice(-2).join(' ');
         }
     }
+
     return words[words.length - 1];
 }
 
@@ -42,14 +62,21 @@ function findCommonSuffix(names: string[], minWords: number = 1): string | null 
     const wordArrays = names.map(name => name.split(' '));
     const maxWords = Math.min(...wordArrays.map(arr => arr.length));
 
+    // Find the longest common suffix
+    let lastMatchLength = 0;
     for (let i = minWords; i <= maxWords; i++) {
         const suffix = wordArrays[0].slice(-i).join(' ');
         const allMatch = wordArrays.every(arr => arr.slice(-i).join(' ') === suffix);
-        if (allMatch && i === maxWords) {
-            return extractEquipmentType(suffix);
-        } else if (!allMatch && i > minWords) {
-            return wordArrays[0].slice(-(i - 1)).join(' ');
+        if (allMatch) {
+            lastMatchLength = i;
+        } else {
+            break;
         }
+    }
+
+    if (lastMatchLength > 0) {
+        const suffix = wordArrays[0].slice(-lastMatchLength).join(' ');
+        return extractEquipmentType(suffix);
     }
 
     return null;
@@ -63,7 +90,41 @@ function detectTypeName(items: AlterationEquipment[], minWords: number = 1): str
         return commonSuffix;
     }
 
-    return extractEquipmentType(items[0].name);
+    // No common suffix - use majority vote of extracted equipment types
+    // Prefer multi-word types (e.g., "Light Armor") over single-word types (e.g., "Mail")
+    const typeCounts = new Map<string, number>();
+    for (const item of items) {
+        const type = extractEquipmentType(item.name);
+        typeCounts.set(type, (typeCounts.get(type) || 0) + 1);
+    }
+
+    // Separate and sort multi-word and single-word types by count
+    const multiWordTypes: [string, number][] = [];
+    const singleWordTypes: [string, number][] = [];
+    for (const [type, count] of typeCounts) {
+        if (type.includes(' ')) {
+            multiWordTypes.push([type, count]);
+        } else {
+            singleWordTypes.push([type, count]);
+        }
+    }
+    multiWordTypes.sort((a, b) => b[1] - a[1]);
+    singleWordTypes.sort((a, b) => b[1] - a[1]);
+
+    // Prefer the most common multi-word type if it has significant representation (33%+)
+    // Multi-word types like "Light Armor" are more descriptive than single-word like "Mail"
+    const threshold = items.length * 0.33;
+    if (multiWordTypes.length > 0 && multiWordTypes[0][1] >= threshold) {
+        return multiWordTypes[0][0];
+    }
+
+    // Otherwise return the most common type overall
+    if (singleWordTypes.length > 0 &&
+        (multiWordTypes.length === 0 || singleWordTypes[0][1] > multiWordTypes[0][1])) {
+        return singleWordTypes[0][0];
+    }
+
+    return multiWordTypes.length > 0 ? multiWordTypes[0][0] : extractEquipmentType(items[0].name);
 }
 
 export function buildAlterationIndex(data: AlterationData): AlterationIndex {
