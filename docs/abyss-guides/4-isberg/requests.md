@@ -21,7 +21,7 @@
     
         - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
         - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-        - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
+        - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur (see Bigfoot Child Audio Cues tab). 
         - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss (filled-in red star).
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
         - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
@@ -73,10 +73,27 @@
     
 ??? note "Request Guide"
 
-    - Accept the request from Marta at the Guild and go to Route 3.
-    - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
-    - Step outside and watch a cutscene of hostile animals and monsters invading the town.
-    - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
+    === "Walkthrough"
+    
+        - Accept the request from Marta at the Guild and go to Route 3.
+        - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
+        - Step outside and watch a cutscene of hostile animals and monsters invading the town.
+        - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
+        - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
+        - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
+        - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
+        - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return with Maya to the top-left nullstone in Route 3 to watch a cutscene.
+        - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
+        - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
+        - Head back to the Guild and speak with Marta to view the perfect ending. 
+
+            ??? warning "Rewards"
+    
+                - Achievement - "The Two are Always Together"
+                - Bondmate - Maya and Auntie Marta (Fear Tolerance)
+                - 12,000 Gold   
+            
+    === "Maps"
 
         ??? map "Hidden Box Locations"
         
@@ -84,8 +101,8 @@
             ![](./img/find-my-sister-collectibles.PNG)
             </div>
             
-            - Hidden Item 1: (X:7, Y:10) - Bottom-right area by the graveyard 
-            - Hidden Item 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
+            - Hidden Box 1: (X:7, Y:10) - Bottom-right area by the graveyard 
+            - Hidden Box 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
         
         ??? map "Enemy Locations"
         
@@ -97,20 +114,6 @@
             - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
             - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
         
-     - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
-     - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
-     - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
-     - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return with Maya to the top-left nullstone in Route 3 to watch a cutscene.
-     - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
-     - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
-     - Head back to the Guild and speak with Marta to view the perfect ending. 
-
-        ??? warning "Rewards"
-
-            - Achievement - "The Two are Always Together"
-            - Bondmate - Maya and Auntie Marta (Fear Tolerance)
-            - 12,000 Gold   
-
 ## Blizzard Blocking the Path
 
 ### Find My Kitty
