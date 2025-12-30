@@ -404,7 +404,7 @@
     "火炎の": "Flame",
     "疾風の": "Gale",
     "極光の": "Aurora",
-    "常闘の": "Eternal Darkness",
+    "常闇の": "Eternal Darkness",
     "地裂の": "Earthrend",
     "泡沫の": "Ephemeral",
     "退魔の": "Exorcism",
@@ -413,7 +413,7 @@
     "土紋の": "Earth Crest",
     "焔紅の": "Crimson Flame",
     "翠風の": "Verdant Wind",
-    "幽闘の": "Dim Darkness",
+    "幽闇の": "Dim Darkness",
     "光精の": "Light Spirit"
   },
   "equipmentTypes": {

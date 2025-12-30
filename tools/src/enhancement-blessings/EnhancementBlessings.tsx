@@ -4,7 +4,7 @@ import { BestEquipmentFinder } from './components/BestEquipmentFinder';
 import { AlterationLookup } from './components/AlterationLookup';
 import { BlessingMagnitude } from './components/BlessingMagnitude';
 import { FullAlterationStone } from './components/FullAlterationStone';
-import './alteration-guide.css';
+import './enhancement-blessings.css';
 
 type TabId = 'best' | 'lookup' | 'magnitude' | 'fullAlt';
 
@@ -20,7 +20,7 @@ const TABS: Tab[] = [
     { id: 'lookup', label: 'Find by Name' },
 ];
 
-export function AlterationGuide() {
+export function EnhancementBlessings() {
     const { index, loading, error } = useAlterationData();
     const [activeTab, setActiveTab] = useState<TabId>('best');
     const [showJapanese, setShowJapanese] = useState(false);

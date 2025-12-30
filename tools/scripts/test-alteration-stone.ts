@@ -61,7 +61,7 @@ function extractDataFromSource(): {
     FULL_RANK_6_TWO_HANDED: MagnitudeData;
     FULL_RANK_6_OTHER: MagnitudeData;
 } {
-    const tsxPath = path.join(__dirname, '../src/alteration-guide/components/FullAlterationStone.tsx');
+    const tsxPath = path.join(__dirname, '../src/enhancement-blessings/components/FullAlterationStone.tsx');
     const content = fs.readFileSync(tsxPath, 'utf8');
 
     const extractConst = (name: string): MagnitudeData => {

@@ -2,7 +2,7 @@ import * as assert from 'assert';
 import * as fs from 'fs';
 import type { AlterationData, AlterationEquipment, AlterationStatType, TierNumber } from '../src/types/alteration';
 import type { Dictionary } from '../src/types/dictionary';
-import { buildAlterationIndex } from '../src/alteration-guide/utils/buildAlterationIndex';
+import { buildAlterationIndex } from '../src/enhancement-blessings/utils/buildAlterationIndex';
 
 console.log('Running alteration data verification tests...\n');
 

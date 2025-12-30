@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from 'react';
 import type { AlterationData, AlterationIndex } from '../types/alteration';
-import { buildAlterationIndex } from '../alteration-guide/utils/buildAlterationIndex';
+import { buildAlterationIndex } from '../enhancement-blessings/utils/buildAlterationIndex';
 
 const DATA_URL =
     'https://raw.githubusercontent.com/itsnicksia/wizardry-daphne-guide/refs/heads/main/tools/data/alteration-en.json';

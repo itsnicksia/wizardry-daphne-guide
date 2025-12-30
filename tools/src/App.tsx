@@ -1,7 +1,7 @@
 import { Routes, Route, Navigate } from 'react-router-dom';
 import { Blacksmithing } from './blacksmith-simulator/blacksmithing.tsx';
 import { LootFinder } from './loot-finder/LootFinder.tsx';
-import { AlterationGuide } from './alteration-guide/AlterationGuide.tsx';
+import { EnhancementBlessings } from './enhancement-blessings/EnhancementBlessings.tsx';
 
 function App() {
     return (
@@ -10,7 +10,7 @@ function App() {
                 <Route path="/" element={<Navigate to="/loot-finder" replace />} />
                 <Route path="/loot-finder" element={<LootFinder />} />
                 <Route path="/blacksmithing" element={<Blacksmithing />} />
-                <Route path="/alteration" element={<AlterationGuide />} />
+                <Route path="/enhancement-blessings" element={<EnhancementBlessings />} />
             </Routes>
         </div>
     );
