@@ -414,7 +414,7 @@ export function LesserAlterationStone() {
     return (
         <div className="ag-magnitude">
             <p className="ag-magnitude-description">
-                Blessing value distribution when using Lesser Full Alteration Stones. Higher quality equipment gets higher stat values with wider ranges.
+                <strong>Lesser Full Alteration Stone:</strong> Blessing value distribution. Higher quality equipment gets higher stat values with wider ranges.
             </p>
 
             <div className="ag-magnitude-selector">

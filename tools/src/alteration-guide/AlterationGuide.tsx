@@ -17,7 +17,7 @@ const TABS: Tab[] = [
     { id: 'best', label: 'Blessing Rates' },
     { id: 'lookup', label: 'Raw Data' },
     { id: 'magnitude', label: 'Blessing Values' },
-    { id: 'lesser', label: 'Lesser Stone' },
+    { id: 'lesser', label: 'Full Alteration Stones' },
 ];
 
 export function AlterationGuide() {
