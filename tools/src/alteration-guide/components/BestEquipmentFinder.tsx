@@ -52,8 +52,9 @@ export function BestEquipmentFinder({ index }: BestEquipmentFinderProps) {
     return (
         <div>
             <p className="ag-instructions">
-                Select a stat and enhancement levels to see which equipment types have the highest
-                probability of rolling that stat. Click groups with multiple items to expand.
+                These are the probabilities for initial blessings when equipment drops from garakuta.
+                Select a stat to see which equipment types are most likely to have that blessing.
+                Note: Alteration stones have equal rates for all stats.
             </p>
             <div className="ag-card">
                 <div className="ag-card-title">Select Stat to Optimize</div>

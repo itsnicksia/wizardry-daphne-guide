@@ -27,11 +27,10 @@ Players enhance equipment from +0 to +20 using materials:
 - At certain thresholds (+5, +10, +15, +20), equipment gains a "blessing slot"
 
 ### Blessing/Alteration System
-At enhancement milestones (+5, +10, +15, +20), players can use **Alteration Stones** to roll for bonus stats (called "blessings"):
-- Each roll randomly selects one stat from the equipment's probability table
-- Different equipment types have different probability distributions
+At enhancement milestones (+5, +10, +15, +20), equipment gains "blessing slots" for bonus stats:
+- **Initial blessings**: When equipment drops from garakuta, blessings are assigned based on equipment-specific probability tables (different equipment types have different distributions)
+- **Alteration stones**: When rerolling blessings with alteration stones, ALL stats have EQUAL probability
 - Stats include: ATK%, MAG%, DEF%, MDEF%, ACC%, EVA%, RES%, DIV%, ASPD%, and flat versions + CRIT
-- Players often reroll many times seeking specific stats
 
 ### Garakuta (Junk) System
 - Monsters drop "garakuta" (junk items) instead of equipment directly
@@ -131,14 +130,17 @@ The app fetches `data/equipment-en.json` from GitHub raw content at runtime.
 
 ## Alteration Guide Concepts
 
+**Important**: This tool shows probabilities for INITIAL blessings when equipment drops from garakuta. Alteration stone rerolls have equal probability for all stats.
+
 - **Equipment Groups**: Items with identical probability distributions are grouped (e.g., all One-Handed Swords share the same rates). 383 items → 29 groups.
-- **Enhancement Levels**: +5, +10, +15, +20 unlock blessing slots with different probability tables
+- **Enhancement Tiers**: +5, +10, +15, +20 blessing slots have different probability tables
 - **Stat Types**:
   - Percentage stats: ATK%, MAG%, DIV%, ACC%, EVA%, RES%, DEF%, MDEF%, ASPD%
   - Flat stats: ATK, MAG, DIV, ACC, EVA, RES, DEF, MDEF, ASPD, CRIT
+
 ### Tool Tabs
-1. **Desired Stat**: Ranks equipment groups by probability for a selected stat
-2. **Raw Data**: Search equipment to view full probability table across all enhancement levels
+1. **Desired Stat**: Ranks equipment groups by initial blessing probability for a selected stat
+2. **Raw Data**: Search equipment to view full probability table across all enhancement tiers
 
 ## Adding Translations
 

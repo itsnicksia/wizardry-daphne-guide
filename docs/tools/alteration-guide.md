@@ -1,5 +1,5 @@
 # Alteration Guide
 
-Find the best equipment for your desired stats, look up alteration probabilities, calculate expected stone costs, and simulate alteration rolls.
+Look up blessing probabilities by equipment type. These rates apply to initial blessings when obtaining equipment from garakuta—not when using alteration stones (which have equal rates for all stats).
 
 --8<-- "html/alteration-guide.html"
