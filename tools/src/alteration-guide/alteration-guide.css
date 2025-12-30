@@ -13,18 +13,51 @@
     --ag-tier-3: #9b59b6;
     --ag-tier-4: #f39c12;
 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: 0.85rem;
+    line-height: 1.4;
     background-color: var(--ag-bg-primary);
     color: var(--ag-text-primary);
     min-height: 100vh;
     padding: 1rem;
 }
 
+.ag-container p {
+    margin: 0 0 0.75rem 0;
+}
+
+.ag-container button,
+.ag-container input {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.ag-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
 .ag-tabs {
     display: flex;
     gap: 0.5rem;
-    justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 1rem;
+}
+
+.ag-jp-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    font-size: 0.75rem;
+    color: var(--ag-text-secondary);
+    cursor: pointer;
+}
+
+.ag-jp-toggle input {
+    cursor: pointer;
 }
 
 .ag-tab {

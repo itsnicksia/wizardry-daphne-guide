@@ -22,9 +22,22 @@ function hashEquipmentStats(equip: AlterationEquipment): string {
         .join('|');
 }
 
+const TYPE_MODIFIERS = ['One-Handed', 'Two-Handed', 'Heavy', 'Light'];
+
+function extractEquipmentType(name: string): string {
+    const words = name.split(' ');
+    if (words.length >= 2) {
+        const secondToLast = words[words.length - 2];
+        if (TYPE_MODIFIERS.includes(secondToLast)) {
+            return words.slice(-2).join(' ');
+        }
+    }
+    return words[words.length - 1];
+}
+
 function findCommonSuffix(names: string[], minWords: number = 1): string | null {
     if (names.length === 0) return null;
-    if (names.length === 1) return names[0];
+    if (names.length === 1) return extractEquipmentType(names[0]);
 
     const wordArrays = names.map(name => name.split(' '));
     const maxWords = Math.min(...wordArrays.map(arr => arr.length));
@@ -33,7 +46,7 @@ function findCommonSuffix(names: string[], minWords: number = 1): string | null 
         const suffix = wordArrays[0].slice(-i).join(' ');
         const allMatch = wordArrays.every(arr => arr.slice(-i).join(' ') === suffix);
         if (allMatch && i === maxWords) {
-            return suffix;
+            return extractEquipmentType(suffix);
         } else if (!allMatch && i > minWords) {
             return wordArrays[0].slice(-(i - 1)).join(' ');
         }
@@ -42,38 +55,15 @@ function findCommonSuffix(names: string[], minWords: number = 1): string | null 
     return null;
 }
 
-function pluralize(word: string): string {
-    const lastWord = word.split(' ').pop() || word;
-    const prefix = word.slice(0, word.length - lastWord.length);
-
-    // Already plural (Gloves, Boots, Greaves, Pants, etc.)
-    if (/(?:ves|ots|nts|aves)$/i.test(lastWord)) {
-        return word;
-    }
-    if (lastWord.endsWith('f')) {
-        return prefix + lastWord.slice(0, -1) + 'ves';
-    }
-    if (lastWord.endsWith('fe')) {
-        return prefix + lastWord.slice(0, -2) + 'ves';
-    }
-    if (lastWord.endsWith('y') && !/[aeiou]y$/i.test(lastWord)) {
-        return prefix + lastWord.slice(0, -1) + 'ies';
-    }
-    if (lastWord.endsWith('s') || lastWord.endsWith('x') || lastWord.endsWith('ch') || lastWord.endsWith('sh')) {
-        return prefix + lastWord + 'es';
-    }
-    return prefix + lastWord + 's';
-}
-
 function detectTypeName(items: AlterationEquipment[], minWords: number = 1): string {
     const names = items.map(item => item.name);
     const commonSuffix = findCommonSuffix(names, minWords);
 
     if (commonSuffix) {
-        return pluralize(commonSuffix);
+        return commonSuffix;
     }
 
-    return items[0].name;
+    return extractEquipmentType(items[0].name);
 }
 
 export function buildAlterationIndex(data: AlterationData): AlterationIndex {

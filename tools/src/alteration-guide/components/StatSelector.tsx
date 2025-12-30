@@ -27,32 +27,18 @@ export function StatSelector({ selectedStats, onSelect, multiSelect = false }: S
         }
     };
 
+    const allStats = [...PERCENTAGE_STATS, ...FIXED_STATS];
     return (
-        <div>
-            <div className="ag-section-label">Percentage Stats</div>
-            <div className="ag-stat-grid">
-                {PERCENTAGE_STATS.map(stat => (
-                    <button
-                        key={stat}
-                        className={`ag-stat-btn ${selectedStats.includes(stat) ? 'selected' : ''}`}
-                        onClick={() => handleClick(stat)}
-                    >
-                        {stat}
-                    </button>
-                ))}
-            </div>
-            <div className="ag-section-label">Fixed Stats</div>
-            <div className="ag-stat-grid">
-                {FIXED_STATS.map(stat => (
-                    <button
-                        key={stat}
-                        className={`ag-stat-btn ${selectedStats.includes(stat) ? 'selected' : ''}`}
-                        onClick={() => handleClick(stat)}
-                    >
-                        {stat}
-                    </button>
-                ))}
-            </div>
+        <div className="ag-stat-grid">
+            {allStats.map(stat => (
+                <button
+                    key={stat}
+                    className={`ag-stat-btn ${selectedStats.includes(stat) ? 'selected' : ''}`}
+                    onClick={() => handleClick(stat)}
+                >
+                    {stat}
+                </button>
+            ))}
         </div>
     );
 }

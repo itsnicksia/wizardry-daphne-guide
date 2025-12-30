@@ -19,6 +19,7 @@ const TABS: Tab[] = [
 export function AlterationGuide() {
     const { index, loading, error } = useAlterationData();
     const [activeTab, setActiveTab] = useState<TabId>('best');
+    const [showJapanese, setShowJapanese] = useState(false);
 
     if (loading) {
         return (
@@ -38,21 +39,31 @@ export function AlterationGuide() {
 
     return (
         <div className="ag-container">
-            <div className="ag-tabs">
-                {TABS.map((tab) => (
-                    <button
-                        key={tab.id}
-                        className={`ag-tab ${activeTab === tab.id ? 'active' : ''}`}
-                        onClick={() => setActiveTab(tab.id)}
-                    >
-                        {tab.label}
-                    </button>
-                ))}
+            <div className="ag-header">
+                <div className="ag-tabs">
+                    {TABS.map((tab) => (
+                        <button
+                            key={tab.id}
+                            className={`ag-tab ${activeTab === tab.id ? 'active' : ''}`}
+                            onClick={() => setActiveTab(tab.id)}
+                        >
+                            {tab.label}
+                        </button>
+                    ))}
+                </div>
+                <label className="ag-jp-toggle">
+                    <input
+                        type="checkbox"
+                        checked={showJapanese}
+                        onChange={(e) => setShowJapanese(e.target.checked)}
+                    />
+                    JP
+                </label>
             </div>
 
             <div className="ag-content">
-                {activeTab === 'best' && <BestEquipmentFinder index={index} />}
-                {activeTab === 'lookup' && <AlterationLookup index={index} />}
+                {activeTab === 'best' && <BestEquipmentFinder index={index} showJapanese={showJapanese} />}
+                {activeTab === 'lookup' && <AlterationLookup index={index} showJapanese={showJapanese} />}
             </div>
         </div>
     );

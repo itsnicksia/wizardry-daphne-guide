@@ -27,6 +27,17 @@
     margin: 0 auto;
 }
 
+.lf-container p {
+    margin: 0 0 0.75rem 0;
+}
+
+.lf-container button,
+.lf-container input {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
 .lf-loading,
 .lf-error {
     text-align: center;

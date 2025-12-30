@@ -20,9 +20,7 @@ export function TierToggle({ selectedTiers, onToggle }: TierToggleProps) {
     };
 
     return (
-        <div>
-            <div className="ag-section-label">Enhancement</div>
-            <div className="ag-tier-toggle">
+        <div className="ag-tier-toggle">
                 {TIERS.map(tier => (
                     <button
                         key={tier}
@@ -32,7 +30,6 @@ export function TierToggle({ selectedTiers, onToggle }: TierToggleProps) {
                         {TIER_LABELS[tier]}
                     </button>
                 ))}
-            </div>
         </div>
     );
 }

@@ -5,6 +5,7 @@ const TIER_LABELS: Record<TierNumber, string> = { 1: '+5', 2: '+10', 3: '+15', 4
 
 interface AlterationLookupProps {
     index: AlterationIndex;
+    showJapanese: boolean;
 }
 
 const PERCENTAGE_STATS: AlterationStatType[] = [
@@ -15,7 +16,7 @@ const FIXED_STATS: AlterationStatType[] = [
     'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'CRIT'
 ];
 
-export function AlterationLookup({ index }: AlterationLookupProps) {
+export function AlterationLookup({ index, showJapanese }: AlterationLookupProps) {
     const [search, setSearch] = useState('');
     const [selectedGroup, setSelectedGroup] = useState<EquipmentGroup | null>(null);
     const [showGroupItems, setShowGroupItems] = useState(false);
@@ -139,7 +140,7 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                             {selectedGroup.items.map(equip => (
                                 <div key={equip.nameJp} className="ag-group-item">
                                     <span className="ag-group-item-name">{equip.name}</span>
-                                    <span className="ag-group-item-jp">{equip.nameJp}</span>
+                                    {showJapanese && <span className="ag-group-item-jp">{equip.nameJp}</span>}
                                 </div>
                             ))}
                         </div>
