@@ -355,6 +355,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | One-Eyed White Giant's Mighty Arm          | Attack Up, Surety Up, ASPD Down      | Evil        | Snowpeak Cyclops       | One-Eyed White Giant's Twisted Bloodwood| 4093              |
 | Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Big Snow Hawk          | Wind-Cutting Raptor Twisted Gleamblight | 4094              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Twisted Spiritcoral          | 4095              |
+| Snow Man's Energy Lump                     | SP Up, MP Down                       | Good        | Bigfoot                | Snow Man Twisted Bloodwood              | 4096              |
 | Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4097              |
 | Azure Blood of the Ice Wolf Lord           | MP Up, Fire Res Down                 | Good        | Snow Wolf Leader       | Ice Wolf Lord Twisted Cursefruit        | 4098              |
 | Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Twisted Core                | 4099              |
