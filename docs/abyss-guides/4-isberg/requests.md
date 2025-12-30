@@ -175,6 +175,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
     
     ??? note "Faction Endings" 
+
+        **Summary**
         
         - 10 unique endings across all factions have been identified 
         - Some endings may have been missed as of 12/26 
@@ -190,8 +192,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     ??? note "Reset Faction Request" 
     
-        - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
-        - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
+        - Deepsnow Hinterlands Entrance U+203A Blizzard Blocking the Path (Route 4 entrance) U+203A Exit via Route 3 Harken
+        - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) U+203A Exit via nearby Harken
     
     ??? tip "Guiding Lights"
     
@@ -264,42 +266,44 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         === "Map"
 
             ??? map "Sleepmoss Locations"
-            <div align="center">
-            ![](./img/princess-sleepmoss.png)
-            </div>
+                <div align="center">
+                ![](./img/princess-sleepmoss.png)
+                </div>
 
     ??? note "Good Ending - Consult with a Physician"
-    
-        - Speak to Raimi in town and he will privately evaluate Rosa
-        - Upon returning recommends Slatewillow as a cure 
-        - Enter the Witch's Cave 
-        - The Slatewillow is located at the end of a long, one-way path through B1F and B2F 
-        - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
-        - Low-level teams should consider bringing MP and SP pots as insurance
-        - From the entrance head to the southeast to access a dropdown point to B2F 
-        - The room you drop into has 4 enemies in a small space
-        - Follow the path west and then north (southern stairs are a dead end)
-        - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
-        - Head north and take the stairs to B1F
-        - Go south through the "sleepy tunnel" area (blue bubble tiles)                    
-        - The Slatewillow is in front of the teleporter and will be automatically picked up
-        - Exit 
-        - Speak with Raimi in town  
-        - Ending sequence begins automatically 
-    
-            ??? warning "Rewards"
-                - Achievement: "A Terrible Nightmare"
-                - 15,000 Gold 
-                - There is no known way to avoid this ending 
+
+        === "Walkthrough"
+   
+            - Speak to Raimi in town and he will privately evaluate Rosa
+            - Upon returning recommends Slatewillow as a cure 
+            - Enter the Witch's Cave 
+            - The Slatewillow is located at the end of a long, one-way path through B1F and B2F 
+            - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
+            - Low-level teams should consider bringing MP and SP pots as insurance
+            - From the entrance head to the southeast to access a dropdown point to B2F 
+            - The room you drop into has 4 enemies in a small space
+            - Follow the path west and then north (southern stairs are a dead end)
+            - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
+            - Head north and take the stairs to B1F
+            - Go south through the "sleepy tunnel" area (blue bubble tiles)                    
+            - The Slatewillow is in front of the teleporter and will be automatically picked up
+            - Exit 
+            - Speak with Raimi in town  
+            - Ending sequence begins automatically 
+        
+                ??? warning "Rewards"
+                    - Achievement: "A Terrible Nightmare"
+                    - 15,000 Gold 
+                    - There is no known way to avoid this ending 
 
         === "Map"
 
             ??? map "Dropdown to B2F"
-                <div align="center">
-                ![](./img/princess-hole.png)
-                </div>
+                    <div align="center">
+                    ![](./img/princess-hole.png)
+                    </div>
 
-        === "Mini-boss: Cyclops"
+        === "Mini-Boss: Cyclops"
             
             - More details to be added soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -347,26 +351,24 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                                 - 1 Junk<span style="color: MediumOrchid">*</span>
 
             === "Maps"
-            
-                ??? note "Fellwisp"  
-                
-                    ??? map "Fellwisp Location"
-                        <div align="center">
-                        ![](./img/princess-fellwisp.PNG)
-                        </div>
-            
-                        - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
-                        - Defeating the Cyclops is required for the Best ending
-                        - A challenging fight during the early game and you may have to return at a higher level or with better gear 
-                        - Will not respawn once defeated
+                            
+                ??? map "Fellwisp Location"
+                    <div align="center">
+                    ![](./img/princess-fellwisp.PNG)
+                    </div>
+        
+                    - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
+                    - Defeating the Cyclops is required for the Best ending
+                    - A challenging fight during the early game and you may have to return at a higher level or with better gear 
+                    - Will not respawn once defeated
 
-                    ??? map "Sar-moon Herb Location"
-                        <div align="center">
-                        ![](./img/princess-sar-moon.PNG)
-                        </div>
-                        
-                        - Located in the northeast area and requires reversing a stone to access
-                        - Multiple enemies will spawn after it is picked up  
+                ??? map "Sar-moon Herb Location"
+                    <div align="center">
+                    ![](./img/princess-sar-moon.PNG)
+                    </div>
+                    
+                    - Located in the northeast area and requires reversing a stone to access
+                    - Multiple enemies will spawn after it is picked up  
                               
             === "Mini-boss: Cyclops"
                 
