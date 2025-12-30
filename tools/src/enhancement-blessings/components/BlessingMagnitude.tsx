@@ -10,7 +10,7 @@ interface RankCategoryOption {
 
 const RANK_CATEGORIES: RankCategoryOption[] = [
     { id: 'rank1to5', label: 'Worn - Ebonsteel', description: 'Equipment Ranks 1-5' },
-    { id: 'rank6TwoHanded', label: 'Silver (Two-Handed Weapons)', description: 'Two-Handed Swords, Spears, Axes, Maces' },
+    { id: 'rank6TwoHanded', label: 'Silver (Two-Handed Weapons)', description: 'Greatswords, Two-Handed Spears, Two-Handed Axes, Two-Handed Maces' },
     { id: 'rank6Other', label: 'Silver', description: 'All other Silver equipment' },
 ];
 
