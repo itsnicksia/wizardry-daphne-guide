@@ -21,25 +21,25 @@
     
         - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
         - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-        - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur (see Bigfoot Child Audio Cues tab). 
-        - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss (filled-in red star).
+        - At 6 fixed locations along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur. See Bigfoot Child Audio Cues. 
+        - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
         - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
-        - Remember to pick up the Salted Pork (green star) next to the Harken before exiting. It's easy to miss.
+        - Remember to pick up the Salted Pork next to the Harken before exiting. It's easy to miss.
         - Return to the Guild and submit the request.
 
             ??? warning "Rewards"
             
                 ??? note "Spare"
-                - Gem of Org x20 (one-time only)
-                - 8,000 Gold
-                - Bigfoot's Offspring (Accuracy) 
-                - Triffia removed from inventory 
+                    - Gem of Org x20 (one-time only)
+                    - 8,000 Gold
+                    - Bigfoot's Offspring (Accuracy) 
+                    - Triffia removed from inventory 
                 
                 ??? note "Kill" 
-                - Gem of Org x20 (one-time only)
-                - 8,000 Gold 
-                - Additional gold from request giver
+                    - Gem of Org x20 (one-time only)
+                    - 8,000 Gold 
+                    - Additional gold from request giver
 
     === "Map"
 
@@ -48,6 +48,10 @@
             <div align="center">
             ![](./img/salted-pork.jpg)
             </div>
+
+            - Empty red star = Discovery Point
+            - Red star = Bigfoot boss
+            - Green star = Salted Pork
     
     === "Bigfoot Child Audio Cues"
         - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
@@ -78,14 +82,12 @@
         - Accept the request from Marta at the Guild and go to Route 3.
         - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
         - Step outside and watch a cutscene of hostile animals and monsters invading the town.
-        - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
-        - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting.
-        - If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
+        - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. See tabs for location details. 
+        - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting. If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
-        - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return with Maya to the top-left nullstone in Route 3 to watch a cutscene.
-        - The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
+        - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return with Maya to the top-left nullstone in Route 3 to watch a cutscene. The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
         - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
-        - Head back to the Guild and speak with Marta to view the perfect ending. 
+        - Head back to the Guild and speak with Marta to view the "perfect" ending. 
 
             ??? warning "Rewards"
     
@@ -93,7 +95,7 @@
                 - Bondmate - Maya and Auntie Marta (Fear Tolerance)
                 - 12,000 Gold   
             
-    === "Maps"
+    === "Map"
 
         ??? map "Hidden Box Locations"
         
@@ -133,10 +135,10 @@
     === "Walkthrough"
 
         - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment before you leave the Guild.
-        - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often appears behind you immediately after entering a blizzard zone.
-        - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also despawn your pursuer.
-        - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
-        - Catch the kitty once in each of the 3 blizzard zones. On the third attempt use the dried fish, which will complete the request.
+        - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and give chase.
+        - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team. Upon reviving it will immediately despawn and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also despawn your pursuer.
+        - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. See Meow-chanics ₍^. .^₎ tab.  The kitty will always be in the brush (walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
+        - Catch the kitty once in each of the 3 blizzard zones. On the third attempt use the dried fish as bait and the request will be completed.
         - The kitty is now permanently located at the Guild. It can also see Lulu!
     
             ??? warning "Rewards"
@@ -212,21 +214,24 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ??? note "The Witch's Cave"
 
-    ??? note "Summary"
-        - Each faction can only access certain areas of the map
-        - Map progress is permanently recorded
-        - Full map completion requires doing other faction quests
-        - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
-        - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
-        - Enemy level is 65
-        - Some chests have high Find/Trap Disarm requirements even at 150/150
+    ??? "Summary"
+
+        === "Notes"
         
-            ??? warning "Sleep Tiles"  
-                
-                - A new dungeon mechanic that limits traversal 
-                - After 10 steps you will lose consciousness and be teleported back to your starting point 
-                - During an enemy encounter all team members will be asleep at the start of battle  
-                - Aggro and bait enemies onto normal tiles for easier fights
+            - Each faction can only access certain areas of the map
+            - Map progress is permanently recorded
+            - Full map completion requires doing other faction quests
+            - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
+            - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
+            - Enemy level is 65
+            - Some chests have high Find/Trap Disarm requirements even at 150/150
+    
+        === "Sleep Tiles"
+                            
+            - A new dungeon mechanic that limits traversal 
+            - After 10 steps you will lose consciousness and be teleported back to your starting point 
+            - During an enemy encounter all team members will be asleep at the start of battle  
+            - Aggro and bait enemies onto normal tiles for easier fights
 
     ??? map "The Witch's Cave - B1F"    
         <div align="center">
@@ -252,7 +257,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - She recommends using Sleepmoss that grows in the Witch's Cave 
             - Enter the Witch's Cave 
             - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
-            - Collect the 3 Sleepmoss (see Map)
+            - Collect the 3 Sleepmoss (see Map tab)
             - Use the small islands of normal tiles to reset the 10-step counter to progress deeper into the area 
             - Exit 
             - Speak to the Herbalist in town
@@ -266,6 +271,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         === "Map"
 
             ??? map "Sleepmoss Locations"
+            
                 <div align="center">
                 ![](./img/princess-sleepmoss.png)
                 </div>
@@ -280,7 +286,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - The Slatewillow is located at the end of a long, one-way path through B1F and B2F 
             - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
             - Low-level teams should consider bringing MP and SP pots as insurance
-            - From the entrance head to the southeast to access a dropdown point to B2F 
+            - From the entrance head to the southeast to access a dropdown point to B2F (see Map tab)
             - The room you drop into has 4 enemies in a small space
             - Follow the path west and then north (southern stairs are a dead end)
             - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
@@ -350,7 +356,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                                 - 9,000 Gold 
                                 - 1 Junk<span style="color: MediumOrchid">*</span>
 
-            === "Maps"
+            === "Map"
                             
                 ??? map "Fellwisp Location"
                     <div align="center">
@@ -370,7 +376,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     - Located in the northeast area and requires reversing a stone to access
                     - Multiple enemies will spawn after it is picked up  
                               
-            === "Mini-boss: Cyclops"
+            === "Boss: Cyclops"
                 
                 - More details to be added soon
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -409,7 +415,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     - Located in the northeast area and requires reversing a stone to access
                     - Multiple enemies will spawn after it is picked up  
 
-            === "Mini-boss: Cyclops"
+            === "Boss: Cyclops"
                 
                 - More details to be added soon
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -426,7 +432,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
 
     ??? note "Brazier Offerings"
 
-        ??? note "Process"
+        === "Process"
             
             - Interact with the brazier and it will request an offering
             - Collect the offering via fighting enemies or returning to town 
@@ -436,7 +442,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - Repeat until the witch's door is unlocked
             - On a subsequent run you can speak with Tenet in town to reduce the total number of offering requests
         
-        ??? note "Requests"
+        === "Requests"
         
             - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
             - Request 2 - Hen - Return to town and speak with Tenet
@@ -444,7 +450,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - Request 4 - Infant (Lamb) - Return to town and speak with Tenet
             - Request 5 - Sheep - Return to town and speak with Tenet
     
-        ??? note "Tenet Town Offerings" 
+        === "Tenet Town Offerings" 
         
             - Only available after a first run
             - Talk to Tenet in town before entering the Witch's Cave
@@ -595,7 +601,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
     
     ??? note "Brazier Offerings"
 
-        ??? note "Process"
+        === note "Process"
     
             - Interact with the brazier and it will request an offering
             - Collect the offering via fighting enemies or returning to town 
@@ -605,7 +611,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Repeat until the witch's door is unlocked
             - On a subsequent run you can speak with Elinas in town to reduce the total number of offering requests
     
-        ??? note "Requests"
+        === note "Requests"
         
             - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
             - Request 2 - Broom - Return to town and speak with Elinas
@@ -613,7 +619,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Request 4 - Infant (Lamb) - Return to town and speak with Elinas
             - Request 5 - Gold Ore - Defeat 3 back-to-back groups of tough enemies 
         
-        ??? note "Elinas Town Offerings" 
+        === note "Elinas Town Offerings" 
         
             - Only available after a first run
             - Talk to Elinas in town before entering the Witch's Cave
