@@ -1,6 +1,7 @@
 import type { TierNumber } from '../../types/alteration';
 
 const TIERS: TierNumber[] = [1, 2, 3, 4];
+const TIER_LABELS: Record<TierNumber, string> = { 1: '+5', 2: '+10', 3: '+15', 4: '+20' };
 
 interface TierToggleProps {
     selectedTiers: TierNumber[];
@@ -20,7 +21,7 @@ export function TierToggle({ selectedTiers, onToggle }: TierToggleProps) {
 
     return (
         <div>
-            <div className="ag-section-label">Tiers</div>
+            <div className="ag-section-label">Enhancement</div>
             <div className="ag-tier-toggle">
                 {TIERS.map(tier => (
                     <button
@@ -28,7 +29,7 @@ export function TierToggle({ selectedTiers, onToggle }: TierToggleProps) {
                         className={`ag-tier-btn tier-${tier} ${selectedTiers.includes(tier) ? 'selected' : ''}`}
                         onClick={() => handleClick(tier)}
                     >
-                        Tier {tier}
+                        {TIER_LABELS[tier]}
                     </button>
                 ))}
             </div>

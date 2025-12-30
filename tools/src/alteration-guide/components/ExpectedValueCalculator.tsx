@@ -134,7 +134,7 @@ export function ExpectedValueCalculator({ index }: ExpectedValueCalculatorProps)
                         N/A
                     </div>
                     <div className="ag-ev-label">
-                        Selected stat(s) cannot roll on this equipment at this tier
+                        Selected stat(s) cannot roll on this equipment at this enhancement level
                     </div>
                 </div>
             )}

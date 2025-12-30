@@ -3,6 +3,8 @@ import type { AlterationIndex, AlterationStatType, TierNumber } from '../../type
 import { StatSelector } from './StatSelector';
 import { TierToggle } from './TierToggle';
 
+const TIER_LABELS: Record<TierNumber, string> = { 1: '+5', 2: '+10', 3: '+15', 4: '+20' };
+
 interface BestEquipmentFinderProps {
     index: AlterationIndex;
 }
@@ -57,7 +59,7 @@ export function BestEquipmentFinder({ index }: BestEquipmentFinderProps) {
                                     <div className="ag-ranking-name-jp">{item.equipmentJp}</div>
                                 </div>
                                 <span className={`ag-ranking-tier tier-${item.tier}`}>
-                                    Tier {item.tier}
+                                    {TIER_LABELS[item.tier]}
                                 </span>
                                 <span className="ag-ranking-prob">
                                     {item.probability.toFixed(2)}%

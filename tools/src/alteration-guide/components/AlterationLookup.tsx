@@ -1,5 +1,7 @@
 import { useState, useMemo } from 'react';
-import type { AlterationIndex, AlterationEquipment, AlterationStatType } from '../../types/alteration';
+import type { AlterationIndex, AlterationEquipment, AlterationStatType, TierNumber } from '../../types/alteration';
+
+const TIER_LABELS: Record<TierNumber, string> = { 1: '+5', 2: '+10', 3: '+15', 4: '+20' };
 
 interface AlterationLookupProps {
     index: AlterationIndex;
@@ -95,7 +97,7 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                         <table className="ag-stats-table">
                             <thead>
                                 <tr>
-                                    <th>Tier</th>
+                                    <th>Enh.</th>
                                     {PERCENTAGE_STATS.map(stat => (
                                         <th key={stat}>{stat}</th>
                                     ))}
@@ -104,7 +106,7 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                             <tbody>
                                 {selectedEquipment.tiers.map(tier => (
                                     <tr key={tier.tier} className={`tier-${tier.tier}`}>
-                                        <td>Tier {tier.tier}</td>
+                                        <td>{TIER_LABELS[tier.tier]}</td>
                                         {PERCENTAGE_STATS.map(stat => (
                                             <td
                                                 key={stat}
@@ -123,7 +125,7 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                         <table className="ag-stats-table">
                             <thead>
                                 <tr>
-                                    <th>Tier</th>
+                                    <th>Enh.</th>
                                     {FIXED_STATS.map(stat => (
                                         <th key={stat}>{stat}</th>
                                     ))}
@@ -132,7 +134,7 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
                             <tbody>
                                 {selectedEquipment.tiers.map(tier => (
                                     <tr key={tier.tier} className={`tier-${tier.tier}`}>
-                                        <td>Tier {tier.tier}</td>
+                                        <td>{TIER_LABELS[tier.tier]}</td>
                                         {FIXED_STATS.map(stat => (
                                             <td
                                                 key={stat}
