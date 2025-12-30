@@ -40,7 +40,7 @@ const STATS: StatDefinition[] = [
     { id: 'RES', label: 'RES', type: 'fixed' },
     { id: 'DEF', label: 'DEF', type: 'fixed' },
     { id: 'MDEF', label: 'MDEF', type: 'fixed' },
-    { id: 'CRIT', label: 'CRIT', type: 'fixed' },
+    { id: 'SUR', label: 'SUR', type: 'fixed' },
     { id: 'ASPD', label: 'ASPD', type: 'fixed' },
 ];
 
@@ -75,7 +75,7 @@ const MAGNITUDE_RANK_1_TO_5: MagnitudeData = {
         'RES': { start: 2, count: 2, probability: 50.0 },
         'DEF': { start: 2, count: 2, probability: 50.0 },
         'MDEF': { start: 2, count: 2, probability: 50.0 },
-        'CRIT': { start: 1, count: 2, probability: 50.0 },
+        'SUR': { start: 1, count: 2, probability: 50.0 },
         'ASPD': { start: 1, count: 2, probability: 50.0 },
     },
     2: {
@@ -96,7 +96,7 @@ const MAGNITUDE_RANK_1_TO_5: MagnitudeData = {
         'RES': { start: 3, count: 3, probability: 33.3333 },
         'DEF': { start: 3, count: 3, probability: 33.3333 },
         'MDEF': { start: 3, count: 3, probability: 33.3333 },
-        'CRIT': { start: 2, count: 2, probability: 50.0 },
+        'SUR': { start: 2, count: 2, probability: 50.0 },
         'ASPD': { start: 2, count: 3, probability: 33.3333 },
     },
     3: {
@@ -117,7 +117,7 @@ const MAGNITUDE_RANK_1_TO_5: MagnitudeData = {
         'RES': { start: 5, count: 3, probability: 33.3333 },
         'DEF': { start: 5, count: 3, probability: 33.3333 },
         'MDEF': { start: 5, count: 3, probability: 33.3333 },
-        'CRIT': { start: 3, count: 2, probability: 50.0 },
+        'SUR': { start: 3, count: 2, probability: 50.0 },
         'ASPD': { start: 4, count: 3, probability: 33.3333 },
     },
     4: {
@@ -138,7 +138,7 @@ const MAGNITUDE_RANK_1_TO_5: MagnitudeData = {
         'RES': { start: 8, count: 3, probability: 33.3333 },
         'DEF': { start: 8, count: 3, probability: 33.3333 },
         'MDEF': { start: 8, count: 3, probability: 33.3333 },
-        'CRIT': { start: 4, count: 2, probability: 50.0 },
+        'SUR': { start: 4, count: 2, probability: 50.0 },
         'ASPD': { start: 6, count: 3, probability: 33.3333 },
     },
     5: {
@@ -159,7 +159,7 @@ const MAGNITUDE_RANK_1_TO_5: MagnitudeData = {
         'RES': { start: 11, count: 3, probability: 33.3333 },
         'DEF': { start: 11, count: 3, probability: 33.3333 },
         'MDEF': { start: 11, count: 3, probability: 33.3333 },
-        'CRIT': { start: 5, count: 2, probability: 50.0 },
+        'SUR': { start: 5, count: 2, probability: 50.0 },
         'ASPD': { start: 8, count: 3, probability: 33.3333 },
     },
 };
@@ -183,7 +183,7 @@ const MAGNITUDE_RANK_6_TWO_HANDED: MagnitudeData = {
         'RES': { start: 2, count: 3, probability: 33.3333 },
         'DEF': { start: 2, count: 3, probability: 33.3333 },
         'MDEF': { start: 2, count: 3, probability: 33.3333 },
-        'CRIT': { start: 1, count: 2, probability: 50.0 },
+        'SUR': { start: 1, count: 2, probability: 50.0 },
         'ASPD': { start: 1, count: 2, probability: 50.0 },
     },
     2: {
@@ -204,7 +204,7 @@ const MAGNITUDE_RANK_6_TWO_HANDED: MagnitudeData = {
         'RES': { start: 3, count: 5, probability: 20.0 },
         'DEF': { start: 3, count: 5, probability: 20.0 },
         'MDEF': { start: 3, count: 5, probability: 20.0 },
-        'CRIT': { start: 2, count: 2, probability: 50.0 },
+        'SUR': { start: 2, count: 2, probability: 50.0 },
         'ASPD': { start: 2, count: 3, probability: 33.3333 },
     },
     3: {
@@ -225,7 +225,7 @@ const MAGNITUDE_RANK_6_TWO_HANDED: MagnitudeData = {
         'RES': { start: 5, count: 6, probability: 16.6667 },
         'DEF': { start: 5, count: 6, probability: 16.6667 },
         'MDEF': { start: 5, count: 6, probability: 16.6667 },
-        'CRIT': { start: 3, count: 3, probability: 33.3333 },
+        'SUR': { start: 3, count: 3, probability: 33.3333 },
         'ASPD': { start: 4, count: 4, probability: 25.0 },
     },
     4: {
@@ -246,7 +246,7 @@ const MAGNITUDE_RANK_6_TWO_HANDED: MagnitudeData = {
         'RES': { start: 8, count: 7, probability: 14.2857 },
         'DEF': { start: 8, count: 7, probability: 14.2857 },
         'MDEF': { start: 8, count: 7, probability: 14.2857 },
-        'CRIT': { start: 4, count: 3, probability: 33.3333 },
+        'SUR': { start: 4, count: 3, probability: 33.3333 },
         'ASPD': { start: 6, count: 4, probability: 25.0 },
     },
     5: {
@@ -267,7 +267,7 @@ const MAGNITUDE_RANK_6_TWO_HANDED: MagnitudeData = {
         'RES': { start: 11, count: 8, probability: 12.5 },
         'DEF': { start: 11, count: 8, probability: 12.5 },
         'MDEF': { start: 11, count: 8, probability: 12.5 },
-        'CRIT': { start: 5, count: 3, probability: 33.3333 },
+        'SUR': { start: 5, count: 3, probability: 33.3333 },
         'ASPD': { start: 8, count: 5, probability: 20.0 },
     },
 };
@@ -291,7 +291,7 @@ const MAGNITUDE_RANK_6_OTHER: MagnitudeData = {
         'RES': { start: 2, count: 3, probability: 33.3333 },
         'DEF': { start: 2, count: 3, probability: 33.3333 },
         'MDEF': { start: 2, count: 3, probability: 33.3333 },
-        'CRIT': { start: 1, count: 2, probability: 50.0 },
+        'SUR': { start: 1, count: 2, probability: 50.0 },
         'ASPD': { start: 1, count: 2, probability: 50.0 },
     },
     2: {
@@ -312,7 +312,7 @@ const MAGNITUDE_RANK_6_OTHER: MagnitudeData = {
         'RES': { start: 3, count: 4, probability: 25.0 },
         'DEF': { start: 3, count: 4, probability: 25.0 },
         'MDEF': { start: 3, count: 4, probability: 25.0 },
-        'CRIT': { start: 2, count: 2, probability: 50.0 },
+        'SUR': { start: 2, count: 2, probability: 50.0 },
         'ASPD': { start: 2, count: 3, probability: 33.3333 },
     },
     3: {
@@ -333,7 +333,7 @@ const MAGNITUDE_RANK_6_OTHER: MagnitudeData = {
         'RES': { start: 5, count: 5, probability: 20.0 },
         'DEF': { start: 5, count: 5, probability: 20.0 },
         'MDEF': { start: 5, count: 5, probability: 20.0 },
-        'CRIT': { start: 3, count: 3, probability: 33.3333 },
+        'SUR': { start: 3, count: 3, probability: 33.3333 },
         'ASPD': { start: 4, count: 4, probability: 25.0 },
     },
     4: {
@@ -354,7 +354,7 @@ const MAGNITUDE_RANK_6_OTHER: MagnitudeData = {
         'RES': { start: 8, count: 6, probability: 16.6667 },
         'DEF': { start: 8, count: 6, probability: 16.6667 },
         'MDEF': { start: 8, count: 6, probability: 16.6667 },
-        'CRIT': { start: 4, count: 3, probability: 33.3333 },
+        'SUR': { start: 4, count: 3, probability: 33.3333 },
         'ASPD': { start: 6, count: 4, probability: 25.0 },
     },
     5: {
@@ -375,7 +375,7 @@ const MAGNITUDE_RANK_6_OTHER: MagnitudeData = {
         'RES': { start: 11, count: 6, probability: 16.6667 },
         'DEF': { start: 11, count: 6, probability: 16.6667 },
         'MDEF': { start: 11, count: 6, probability: 16.6667 },
-        'CRIT': { start: 5, count: 3, probability: 33.3333 },
+        'SUR': { start: 5, count: 3, probability: 33.3333 },
         'ASPD': { start: 8, count: 5, probability: 20.0 },
     },
 };

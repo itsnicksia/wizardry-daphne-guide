@@ -12,7 +12,7 @@ import type {
 
 const ALL_STATS: AlterationStatType[] = [
     'ATK%', 'MAG%', 'DIV%', 'ACC%', 'EVA%', 'RES%', 'DEF%', 'MDEF%', 'ASPD%',
-    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'CRIT'
+    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'SUR'
 ];
 
 function hashEquipmentStats(equip: AlterationEquipment): string {

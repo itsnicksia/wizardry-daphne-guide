@@ -30,7 +30,7 @@ Players enhance equipment from +0 to +20 using materials:
 At enhancement milestones (+5, +10, +15, +20), equipment gains "blessing slots" for bonus stats:
 - **Initial blessings**: When equipment drops from garakuta, blessings are assigned based on equipment-specific probability tables (different equipment types have different distributions)
 - **Alteration stones**: When rerolling blessings with alteration stones, ALL stats have EQUAL probability
-- Stats include: ATK%, MAG%, DEF%, MDEF%, ACC%, EVA%, RES%, DIV%, ASPD%, and flat versions + CRIT
+- Stats include: ATK%, MAG%, DEF%, MDEF%, ACC%, EVA%, RES%, DIV%, ASPD%, and flat versions + SUR
 
 ### Garakuta (Junk) System
 - Monsters drop "garakuta" (junk items) instead of equipment directly
@@ -136,7 +136,8 @@ The app fetches `data/equipment-en.json` from GitHub raw content at runtime.
 - **Enhancement Tiers**: +5, +10, +15, +20 blessing slots have different probability tables
 - **Stat Types**:
   - Percentage stats: ATK%, MAG%, DIV%, ACC%, EVA%, RES%, DEF%, MDEF%, ASPD%
-  - Flat stats: ATK, MAG, DIV, ACC, EVA, RES, DEF, MDEF, ASPD, CRIT
+  - Flat stats: ATK, MAG, DIV, ACC, EVA, RES, DEF, MDEF, ASPD, SUR
+  - **Note**: The critical/surety stat is always called "SUR" (not "CRIT") in this codebase
 
 ### Tool Tabs
 1. **Desired Stat**: Ranks equipment groups by initial blessing probability for a selected stat

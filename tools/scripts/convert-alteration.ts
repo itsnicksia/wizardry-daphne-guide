@@ -10,7 +10,7 @@ const $ = cheerio.load(html);
 
 const STAT_COLUMNS: AlterationStatType[] = [
     'ATK%', 'MAG%', 'DIV%', 'ACC%', 'EVA%', 'RES%', 'DEF%', 'MDEF%', 'ASPD%',
-    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'CRIT', 'ASPD'
+    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'SUR', 'ASPD'
 ];
 
 function translateEquipment(jpName: string): string {

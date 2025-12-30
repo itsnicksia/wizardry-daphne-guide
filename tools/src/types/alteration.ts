@@ -1,10 +1,10 @@
 export type AlterationStatType =
     | 'ATK%' | 'MAG%' | 'DIV%' | 'ACC%' | 'EVA%' | 'RES%' | 'DEF%' | 'MDEF%' | 'ASPD%'
-    | 'ATK' | 'MAG' | 'DIV' | 'ACC' | 'EVA' | 'RES' | 'DEF' | 'MDEF' | 'ASPD' | 'CRIT';
+    | 'ATK' | 'MAG' | 'DIV' | 'ACC' | 'EVA' | 'RES' | 'DEF' | 'MDEF' | 'ASPD' | 'SUR';
 
 export const ALL_STATS: AlterationStatType[] = [
     'ATK%', 'MAG%', 'DIV%', 'ACC%', 'EVA%', 'RES%', 'DEF%', 'MDEF%', 'ASPD%',
-    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'CRIT'
+    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'SUR'
 ];
 
 export const PERCENTAGE_STATS: AlterationStatType[] = [
@@ -12,7 +12,7 @@ export const PERCENTAGE_STATS: AlterationStatType[] = [
 ];
 
 export const FIXED_STATS: AlterationStatType[] = [
-    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'CRIT'
+    'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'SUR'
 ];
 
 export type TierNumber = 1 | 2 | 3 | 4;
