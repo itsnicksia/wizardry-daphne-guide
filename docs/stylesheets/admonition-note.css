@@ -11,7 +11,7 @@
 }
 .md-typeset .note > .admonition-title::before,
 .md-typeset .note > summary::before {
-  background-color: rgb(68, 111, 206);
+  background-color: rgb(58, 111, 206);
   -webkit-mask-image: var(--md-admonition-icon--note);
           mask-image: var(--md-admonition-icon--note);
 }
