@@ -97,6 +97,20 @@ Builds to `../docs/html/assets/`. Entry HTML files set the hash route:
 
 These are embedded in MkDocs via snippets (`--8<-- "html/loot-finder.html"`).
 
+### Asset Filenames and HTML Embeds
+
+Vite generates content-hashed asset filenames (e.g., `index-CrCkm5R-.js`). After each build:
+1. New asset files are created in `../docs/html/assets/`
+2. `../docs/html/index.html` is auto-updated with new filenames
+3. **Manual update required**: The embed HTML files (`loot-finder.html`, `blacksmithing-simulator.html`, `alteration-guide.html`) must be updated to reference the new asset filenames
+4. Delete old asset files to avoid bloat
+
+### MkDocs Integration
+
+- Each tool's markdown page (e.g., `docs/tools/alteration-guide.md`) provides the page title via `# Title`
+- React components should NOT render their own `<h1>` headers to avoid duplicate titles
+- The embed HTML files only contain: `<div id="root">`, script/css references, and hash routing
+
 ## Data Pipeline
 
 ```
