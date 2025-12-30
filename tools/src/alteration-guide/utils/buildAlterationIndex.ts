@@ -22,19 +22,19 @@ function hashEquipmentStats(equip: AlterationEquipment): string {
         .join('|');
 }
 
-function findCommonSuffix(names: string[]): string | null {
+function findCommonSuffix(names: string[], minWords: number = 1): string | null {
     if (names.length === 0) return null;
     if (names.length === 1) return names[0];
 
     const wordArrays = names.map(name => name.split(' '));
-    const minWords = Math.min(...wordArrays.map(arr => arr.length));
+    const maxWords = Math.min(...wordArrays.map(arr => arr.length));
 
-    for (let i = 1; i <= minWords; i++) {
+    for (let i = minWords; i <= maxWords; i++) {
         const suffix = wordArrays[0].slice(-i).join(' ');
         const allMatch = wordArrays.every(arr => arr.slice(-i).join(' ') === suffix);
-        if (allMatch && i === minWords) {
+        if (allMatch && i === maxWords) {
             return suffix;
-        } else if (!allMatch && i > 1) {
+        } else if (!allMatch && i > minWords) {
             return wordArrays[0].slice(-(i - 1)).join(' ');
         }
     }
@@ -61,9 +61,9 @@ function pluralize(word: string): string {
     return prefix + lastWord + 's';
 }
 
-function detectTypeName(items: AlterationEquipment[]): string {
+function detectTypeName(items: AlterationEquipment[], minWords: number = 1): string {
     const names = items.map(item => item.name);
-    const commonSuffix = findCommonSuffix(names);
+    const commonSuffix = findCommonSuffix(names, minWords);
 
     if (commonSuffix) {
         return pluralize(commonSuffix);
@@ -96,6 +96,29 @@ export function buildAlterationIndex(data: AlterationData): AlterationIndex {
             items,
             tiers: items[0].tiers,
         });
+    }
+
+    // Detect and fix name collisions by using longer suffixes
+    const nameCount = new Map<string, EquipmentGroup[]>();
+    for (const group of groups) {
+        const existing = nameCount.get(group.typeName) || [];
+        existing.push(group);
+        nameCount.set(group.typeName, existing);
+    }
+
+    for (const [, duplicateGroups] of nameCount) {
+        if (duplicateGroups.length > 1) {
+            for (const group of duplicateGroups) {
+                // Try progressively longer suffixes until we get unique names
+                for (let minWords = 2; minWords <= 5; minWords++) {
+                    const newName = detectTypeName(group.items, minWords);
+                    if (newName !== group.typeName) {
+                        group.typeName = newName;
+                        break;
+                    }
+                }
+            }
+        }
     }
 
     groups.sort((a, b) => a.typeName.localeCompare(b.typeName));
