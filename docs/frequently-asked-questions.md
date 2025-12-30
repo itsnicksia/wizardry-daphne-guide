@@ -132,3 +132,8 @@ This will always come down to personal preference, and whales, dolphins, and F2P
 
 ### Is there a limit to the number of skills I can inherit on a character?
 No! At least not that we’re aware of at this time!
+
+## Settings
+
+### How to use Auto-Move to navigate traps.
+In Settings open Auto-Move Settings. To *Avoid* Traps, select "Prioritize routes that avoid traps". To allow adventurers to *Avoid* traps with certain conditions (if) select **Ally HP** or **Ally Fortitude** and **Below 75%** (for example). To allow adventurers to *Stop before* traps the same rules can be slurred applied.
