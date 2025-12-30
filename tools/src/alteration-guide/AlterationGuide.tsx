@@ -57,7 +57,7 @@ export function AlterationGuide() {
                         checked={showJapanese}
                         onChange={(e) => setShowJapanese(e.target.checked)}
                     />
-                    JP
+                    Show JP Names
                 </label>
             </div>
 

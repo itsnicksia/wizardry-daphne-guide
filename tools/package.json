@@ -9,6 +9,7 @@
         "convert": "npx tsx scripts/convert-equipment.ts",
         "convert-alteration": "npx tsx scripts/convert-alteration.ts",
         "test": "npx tsx scripts/test-probabilities.ts",
+        "test:alteration": "npx tsx scripts/test-alteration.ts",
         "lint": "eslint .",
         "preview": "vite preview"
     },
