@@ -15,13 +15,13 @@
     - Side areas do not contain discovery points
     - Bring SP items in case of multiple Bigfoot fights
 
-??? "Request Guide"
+??? note "Request Guide"
 
     - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
     - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
     - At 6 fixed locations (red stars) along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur: 
 
-        ??? "Bigfoot Child Audio Cues"
+        ??? note "Bigfoot Child Audio Cues"
         
             - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
             - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
@@ -41,13 +41,13 @@
     
         ??? warning "Rewards"
         
-            ??? "Spare"
+            ??? note "Spare"
                 - Gem of Org x20 (one-time only)
                 - 8,000 Gold
                 - Bigfoot's Offspring (Accuracy) 
                 - Triffia removed from inventory 
         
-            ??? "Kill" 
+            ??? note "Kill" 
                 - Gem of Org x20 (one-time only)
                 - 8,000 Gold 
                 - Additional gold from request giver  
@@ -69,7 +69,7 @@
         - Village Adults - "Secured all of them" 
         - If the "Capture the Villagers" request is active, then Maya will not leave the cabin
     
-??? "Request Guide"
+??? note "Request Guide"
 
     - Accept the request from Marta at the Guild and go to Route 3.
     - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
@@ -123,14 +123,14 @@
     - Exiting to the world map and returning results in automatic request failure 
     - To reset, Cursed Wheel to Blizzard Blocking the Path, which will reset the request while keeping the pre-requisites flagged as completed
 
-??? "Request Guide" 
+??? note "Request Guide" 
 
     - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment before you leave the Guild.
     - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. The challenge is that the white Nullshadow will pursue you as you search. It often appears behind you immediately after entering a blizzard zone.
     - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team as it will immediately despawn upon reviving and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also despawn your pursuer.
     - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. The kitty will always be in the brush (i.e., walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
 
-        ??? "Meow-chanics ₍^. .^₎"
+        ??? note "Meow-chanics ₍^. .^₎"
         
             - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard zone
             - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
@@ -159,7 +159,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ??? warning "Important Notes"
 
-    ??? "Faction Affinity"
+    ??? note "Faction Affinity"
     
         - Supporting a faction in a previous Abyss influences certain outcomes 
         - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
@@ -168,7 +168,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
         !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
     
-    ??? "Faction Endings" 
+    ??? note "Faction Endings" 
         
         - 10 unique endings across all factions have been identified 
         - Some endings may have been missed as of 12/26 
@@ -182,7 +182,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Admiral = 3
         - Total = 10 
 
-    ??? "Reset Faction Request" 
+    ??? note "Reset Faction Request" 
     
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
@@ -202,9 +202,9 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - A Guiding Light will dissolve if it's already been received (confirmed)
         - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
-??? "The Witch's Cave"
+??? note "The Witch's Cave"
 
-    ??? "Summary"
+    ??? note "Summary"
         - Each faction can only access certain areas of the map
         - Map progress is permanently recorded
         - Full map completion requires doing other faction quests
@@ -234,9 +234,9 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch. Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution, you can consult with an Herbalist, Physician, or Mystic. 
 
-??? "Princess Ending Guides"
+??? note "Princess Ending Guides"
 
-    ??? "Bad Ending - Consult with an Herbalist"
+    ??? note "Bad Ending - Consult with an Herbalist"
         - Speak to the Herbalist in town 
         - She recommends using Sleepmoss that grows in the Witch's Cave 
         - Enter the Witch's Cave 
@@ -258,7 +258,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - 2 Junk<span style="color: MediumOrchid">*</span>
                 - Scroll of Inferno
     
-    ??? "Good Ending - Consult with a Physician"
+    ??? note "Good Ending - Consult with a Physician"
     
         - Speak to Raimi in town and he will privately evaluate Rosa
         - Upon returning recommends Slatewillow as a cure 
@@ -312,7 +312,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - Go north and down the stairs to B2F
             - Both request items are located on this floor 
             
-                ??? "Fellwisp"  
+                ??? note "Fellwisp"  
                     ??? map "Fellwisp Location"
                         <div align="center">
                         ![](./img/princess-fellwisp.PNG)
@@ -347,13 +347,13 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
     
             ??? warning "Ending Choices"
             
-                ??? "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
+                ??? note "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
                 
                     !!! warning "Rewards"
                         - Achievement: "One Who Carries the Future of Her Land"
                         - 11,000 Gold 
         
-                ??? "Sub-Ending B: "Do Not Tell the Truth""
+                ??? note "Sub-Ending B: "Do Not Tell the Truth""
                     - The options to threaten Rosa do not seem to have any impact on the ending
         
                     !!! warning "Rewards"
@@ -361,7 +361,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                         - 9,000 Gold 
                         - 1 Junk<span style="color: MediumOrchid">*</span>
     
-        ??? "Bad Ending - Mystic Route"
+        ??? note "Bad Ending - Mystic Route"
     
             - Enter the Witch's Cave 
             - Head south to the person icon on the map
@@ -407,7 +407,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
 
 ??? warning "Mechanics" 
 
-    ??? "Brazier Offerings"
+    ??? note "Brazier Offerings"
 
         ??? note "Process"
             
@@ -440,7 +440,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - Infant (Lamb) = 2 
             - Sheep = 1 (Unlocks the witch's door) 
     
-    ??? "Witch Burnings"
+    ??? note "Witch Burnings"
     
         - Returning to town for an offering results in a witch burning
         - The total number of witch burnings determines whether Elencia is alive or dead after the boss fight
@@ -453,7 +453,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - Number of battles and/or 
             - Returning to town after giving an offering, but before accepting the next brazier request
 
-??? "Pontiff Ending Guides"
+??? note "Pontiff Ending Guides"
 
     ??? warning "Requirements"
     
@@ -470,7 +470,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
         - Junk rewards are reduced if any witch burnings are witnessed
         - Full gold reward is always given
 
-        ??? "What Ending Should I Do First?"
+        ??? note "What Ending Should I Do First?"
     
             **If you plan to do all 3 endings:**
         
@@ -485,7 +485,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
         
             - "Best Ending - Elencia Alive - "Condemn the Witch""
     
-    ??? "Bad Ending - Elencia Dead"
+    ??? note "Bad Ending - Elencia Dead"
          
         - First run - Must witness a 4th witch burning 
         - Second run - Do not speak with Tenet + must witness a 4th witch burning
@@ -509,7 +509,7 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
                 - 9,000 Gold
                 - Achievement is shared with "Admiral - Good Ending - Elencia Dead" and can only be received once
     
-    ??? "Good Ending - Elencia Alive - "Tell the Truth""
+    ??? note "Good Ending - Elencia Alive - "Tell the Truth""
     
         - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
         - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
@@ -569,14 +569,14 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
 ??? warning "Mechanics"
 
-    ??? "Note on Initial Choices" 
+    ??? note "Note on Initial Choices" 
     
         - The Admiral route is deceptively structured as the initial choices of "Capture a witch" or "Threaten" have no impact on the ending
         - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
         - Elencia's post-battle status (dead or alive) determines the ending
         - The "Prepare a sedative" option is self-contained and separate from the brazier offerings mechanic    
     
-    ??? "Brazier Offerings"
+    ??? note "Brazier Offerings"
 
         ??? note "Process"
     
@@ -608,7 +608,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
             - Broom = 4 
             - Infant (Lamb) = 2 
 
-??? "Admiral Ending Guides" 
+??? note "Admiral Ending Guides" 
 
     ??? warning "Requirements"
     
@@ -627,7 +627,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - No extra junk is given as a reward on any ending
         - Full gold reward is always given
     
-    ??? "Bad Ending - Prepare Sedative"
+    ??? note "Bad Ending - Prepare Sedative"
     
         - Speak to Raimi in town 
         - Recommends gathering Sar-moon Herb in the Witch's Cave to calm the villagers
@@ -660,7 +660,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
                 - Scroll of Torrent 
                 - Admiral is displeased with this approach 
     
-    ??? "Good Ending - Elencia Dead"
+    ??? note "Good Ending - Elencia Dead"
     
         !!! warning "Can only be done on a subsequent run"
          
@@ -675,7 +675,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Return to the brazier and it will request the Gold Ore 
         - Go back upstairs to B1F  
         
-            ??? "Gold Ore"
+            ??? note "Gold Ore"
         
                 ??? map "Gold Ore Location" 
                 
@@ -735,7 +735,7 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
         - Interact with the brazier 
         - Complete the 5 offering requests 
         
-            ??? "Gold Ore Offering"
+            ??? note "Gold Ore Offering"
         
                 ??? map "Gold Ore Location" 
                     <div align="center">
@@ -803,7 +803,7 @@ This request doesn't have any pre-requisites.
     - Route 6 is extremely enemy dense with a high respawn rate, so try to avoid enemies or prepare accordingly
     - The Snow Wolf Leader is on par difficulty-wise as the Route 6 boss
 
-??? "Request Guide"
+??? note "Request Guide"
 
     - The objective is to hunt 4 wolf packs scattered across Route 6. The wolf pack locations are static, do not move on the field, and the order fought does not matter. 
     - The enemy composition of each fight progresses in a fixed order.
@@ -820,7 +820,7 @@ This request doesn't have any pre-requisites.
             - (X:4,Y:1) - Southwest corner in blizzard zone (cannot reverse)
             - (X:1, Y:23) - Far northwest corner 
 
-        ??? "Wolf Pack Encounters"
+        ??? note "Wolf Pack Encounters"
         
             - Wolf Pack 1 - 4 Snow Wolves in a row
             - Wolf Pack 2 - 5 Snow Wolves, 3 in the front, 2 in the back
@@ -889,7 +889,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             - Village Adults - "Did not encounter them"
                 - If the village adults have been captured, then the first body will be in poor condition and the request will end. This outcome is a node in the Cursed Wheel and can be missed 
     
-    ??? "Reset Faction Request" 
+    ??? note "Reset Faction Request" 
     
         - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
         - Subsequent runs - "Did not take the request" under the "Search for..." sub-menu
@@ -900,9 +900,9 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
         - Interactable objects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
-??? "Bigfoot Cave"
+??? note "Bigfoot Cave"
 
-    ??? "Summary"
+    ??? note "Summary"
     
         - Location of the second missing person for all 3 faction requests
         - Requires knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
