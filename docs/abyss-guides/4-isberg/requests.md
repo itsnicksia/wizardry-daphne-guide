@@ -243,27 +243,31 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 ??? note "Princess Ending Guides"
 
     ??? note "Bad Ending - Consult with an Herbalist"
-        - Speak to the Herbalist in town 
-        - She recommends using Sleepmoss that grows in the Witch's Cave 
-        - Enter the Witch's Cave 
-        - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
-        - Collect the 3 Sleepmoss 
-    
+
+        === "Walkthrough"
+
+            - Speak to the Herbalist in town 
+            - She recommends using Sleepmoss that grows in the Witch's Cave 
+            - Enter the Witch's Cave 
+            - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
+            - Collect the 3 Sleepmoss (see Map)
+            - Use the small islands of normal tiles to reset the 10-step counter to progress deeper into the area 
+            - Exit 
+            - Speak to the Herbalist in town
+            - Ending sequence begins automatically 
+        
+                ??? warning "Rewards"
+                    - 8,000 Gold
+                    - 2 Junk<span style="color: MediumOrchid">*</span>
+                    - Scroll of Inferno
+
+        === "Map"
+
             ??? map "Sleepmoss Locations"
-                <div align="center">
-                ![](./img/princess-sleepmoss.png)
-                </div>
-                
-        - Use the small islands of normal tiles to reset the 10-step counter to progress deeper into the area 
-        - Exit 
-        - Speak to the Herbalist in town
-        - Ending sequence begins automatically 
-    
-            ??? warning "Rewards"
-                - 8,000 Gold
-                - 2 Junk<span style="color: MediumOrchid">*</span>
-                - Scroll of Inferno
-    
+            <div align="center">
+            ![](./img/princess-sleepmoss.png)
+            </div>
+
     ??? note "Good Ending - Consult with a Physician"
     
         - Speak to Raimi in town and he will privately evaluate Rosa
@@ -273,23 +277,9 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
         - Low-level teams should consider bringing MP and SP pots as insurance
         - From the entrance head to the southeast to access a dropdown point to B2F 
-        
-            ??? map "Dropdown to B2F"
-                <div align="center">
-                ![](./img/princess-hole.png)
-                </div>
-            
         - The room you drop into has 4 enemies in a small space
         - Follow the path west and then north (southern stairs are a dead end)
         - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
-        
-            ??? danger "Cyclops + Bigfoot"
-            
-                - More details to be added soon
-                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-                - At ~80% HP the Cyclops will summon another Bigfoot
-                - Cyclop's "Wheeling Cleave" can kill multiple team members 
-
         - Head north and take the stairs to B1F
         - Go south through the "sleepy tunnel" area (blue bubble tiles)                    
         - The Slatewillow is in front of the teleporter and will be automatically picked up
@@ -301,6 +291,20 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - Achievement: "A Terrible Nightmare"
                 - 15,000 Gold 
                 - There is no known way to avoid this ending 
+
+        === "Map"
+
+            ??? map "Dropdown to B2F"
+                <div align="center">
+                ![](./img/princess-hole.png)
+                </div>
+
+        === "Mini-boss: Cyclops"
+            
+            - More details to be added soon
+            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+            - At ~80% HP the Cyclops will summon another Bigfoot
+            - Cyclop's "Wheeling Cleave" can kill multiple team members 
     
     ??? tip "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
         
@@ -309,16 +313,43 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
         
         ??? tip "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
-        
-            - Speak to Dylanhardt in town 
-            - Select the option to return to the Royal Capital 
-            - Meet with Aegon and he recommends Fellwisp to cure Rosa and Sar-moon Herb to calm the villagers
-            - Return to Elden Hill Village 
-            - Enter the Witch's Cave 
-            - Go north and down the stairs to B2F
-            - Both request items are located on this floor 
+
+            === "Walkthrough"
+
+                - Speak to Dylanhardt in town 
+                - Select the option to return to the Royal Capital 
+                - Meet with Aegon and he recommends Fellwisp to cure Rosa and Sar-moon Herb to calm the villagers
+                - Return to Elden Hill Village 
+                - Enter the Witch's Cave 
+                - Go north and down the stairs to B2F
+                - Both request items are located on this floor 
+                - Exit 
+                - Speak with Dylanhardt in town 
+                - Ending sequence begins automatically 
+                - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
+                - After the scene Pulgritte and Dylandhardt will leave 
+                - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
+    
+                    ??? warning "Ending Choices"
+                    
+                        ??? note "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
+                        
+                            !!! warning "Rewards"
+                                - Achievement: "One Who Carries the Future of Her Land"
+                                - 11,000 Gold 
+                
+                        ??? note "Sub-Ending B: "Do Not Tell the Truth""
+                            - The options to threaten Rosa do not seem to have any impact on the ending
+                
+                            !!! warning "Rewards"
+                                - Achievement: "One Who Carries the Future of Her Land"
+                                - 9,000 Gold 
+                                - 1 Junk<span style="color: MediumOrchid">*</span>
+
+            === "Maps"
             
                 ??? note "Fellwisp"  
+                
                     ??? map "Fellwisp Location"
                         <div align="center">
                         ![](./img/princess-fellwisp.PNG)
@@ -328,14 +359,46 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                         - Defeating the Cyclops is required for the Best ending
                         - A challenging fight during the early game and you may have to return at a higher level or with better gear 
                         - Will not respawn once defeated
+
+                    ??? map "Sar-moon Herb Location"
+                        <div align="center">
+                        ![](./img/princess-sar-moon.PNG)
+                        </div>
                         
-                    ??? danger "Cyclops + Bigfoot"
+                        - Located in the northeast area and requires reversing a stone to access
+                        - Multiple enemies will spawn after it is picked up  
+                              
+            === "Mini-boss: Cyclops"
+                
+                - More details to be added soon
+                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+                - At ~80% HP the Cyclops will summon another Bigfoot
+                - Cyclop's "Wheeling Cleave" can kill multiple team members 
     
-                        - More details to be added soon
-                        - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-                        - At ~80% HP the Cyclops will summon another Bigfoot
-                        - Cyclop's "Wheeling Cleave" can kill multiple team members 
-    
+        ??? note "Bad Ending - Mystic Route"
+
+            === "Walkthrough"
+
+                - Enter the Witch's Cave 
+                - Head south to the person icon on the map
+                - Speak with the Mystic and select "Talk about Elden Hill Village"
+                - The Mystic recommends using Sar-moon Herb to calm the villagers 
+                - Head downstairs to B2F 
+                - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
+                - Return to B1F 
+                - Speak to the Mystic and give her the Sar-Moon Herb 
+                - Go north to exit 
+                - Speak with Dylanhardt  
+                - Ending sequence begins automatically 
+        
+                    ??? warning "Rewards"
+                        - 9,000 Gold
+                        - Calm Wind Crest
+                        - 2 Junk
+                        - Same ending scenes as "Bad Ending - Consult with an Herbalist" 
+                
+            === "Map"
+        
                 ??? map "Sar-moon Herb Location"
                     <div align="center">
                     ![](./img/princess-sar-moon.PNG)
@@ -343,67 +406,13 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     
                     - Located in the northeast area and requires reversing a stone to access
                     - Multiple enemies will spawn after it is picked up  
-    
-            - Exit 
-            - Speak with Dylanhardt in town 
-            - Ending sequence begins automatically 
-                - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
-                - After the scene Pulgritte and Dylandhardt will leave 
-                - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
-    
-            ??? warning "Ending Choices"
-            
-                ??? note "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
+
+            === "Mini-boss: Cyclops"
                 
-                    !!! warning "Rewards"
-                        - Achievement: "One Who Carries the Future of Her Land"
-                        - 11,000 Gold 
-        
-                ??? note "Sub-Ending B: "Do Not Tell the Truth""
-                    - The options to threaten Rosa do not seem to have any impact on the ending
-        
-                    !!! warning "Rewards"
-                        - Achievement: "One Who Carries the Future of Her Land"
-                        - 9,000 Gold 
-                        - 1 Junk<span style="color: MediumOrchid">*</span>
-    
-        ??? note "Bad Ending - Mystic Route"
-    
-            - Enter the Witch's Cave 
-            - Head south to the person icon on the map
-            - Speak with the Mystic and select "Talk about Elden Hill Village"
-            - The Mystic recommends using Sar-moon Herb to calm the villagers 
-            - Head downstairs to B2F 
-            
-                ??? map "Sar-Moon Herb Location"
-                
-                    <div align="center">
-                    ![](./img/princess-sar-moon.PNG)
-                    </div>
-                     
-                    - Located in the northeast area and requires reversing a stone to access
-                    - Multiple enemies will spawn after it is picked up  
-                
-            - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
-           
-                ??? danger "Cyclops + Bigfoot"
-                
-                    - More details to be added soon
-                    - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-                    - At ~80% HP the Cyclops will summon another Bigfoot
-                    - Cyclop's "Wheeling Cleave" can kill multiple team members 
-    
-            - Return to B1F 
-            - Speak to the Mystic and give her the Sar-Moon Herb 
-            - Go north to exit 
-            - Speak with Dylanhardt  
-            - Ending sequence begins automatically 
-    
-                ??? warning "Rewards"
-                    - 9,000 Gold
-                    - Calm Wind Crest
-                    - 2 Junk
-                    - Same ending scenes as "Bad Ending - Consult with an Herbalist" 
+                - More details to be added soon
+                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+                - At ~80% HP the Cyclops will summon another Bigfoot
+                - Cyclop's "Wheeling Cleave" can kill multiple team members 
 
 ##### Pontiff Route
 
