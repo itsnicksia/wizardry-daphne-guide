@@ -16,10 +16,10 @@ interface Tab {
 
 const TABS: Tab[] = [
     { id: 'best', label: 'Blessing Rates' },
-    { id: 'lookup', label: 'Raw Data' },
     { id: 'magnitude', label: 'Blessing Values' },
     { id: 'lesser', label: 'Lesser Full Alt Stone' },
     { id: 'full', label: 'Full Alt Stone' },
+    { id: 'lookup', label: 'Find by Name' },
 ];
 
 export function AlterationGuide() {
