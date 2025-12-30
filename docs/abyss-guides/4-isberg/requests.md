@@ -921,7 +921,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 ##### Faction Request Guides 
 
-??? "Princess Route - Search for Missing Royal Knights"
+??? note "Princess Route - Search for Missing Royal Knights"
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet and the Rockhome Village Key. To avoid a long walk through the spike traps, return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
@@ -954,7 +954,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     14. Bring the head back to the Royal Capital and complete the request.
     15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (Attack Power) as a bondmate.
 
-??? "Pontiff Route - Search for Adherent Acquaintances" 
+??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet + Rockhome Village Key. To avoid a long walk through the spike traps, return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
@@ -989,7 +989,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, and a Giant Beast Ape Robe.
     16. Head back to the end of the Bigfoot Cave and interact with the husband and the nullstone to learn the truth about Agnes's fate. After the cutscene you will receive William (Divine Power) as a bondmate.
 
-??? "Admiral Route - Search Bernard and Young Laurent"
+??? note "Admiral Route - Search Bernard and Young Laurent"
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
     2. Head to Mayor's House in Route 3 and obtain a faction-related sword + a key.
