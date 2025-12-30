@@ -51,6 +51,10 @@ export function BestEquipmentFinder({ index }: BestEquipmentFinderProps) {
 
     return (
         <div>
+            <p className="ag-instructions">
+                Select a stat and enhancement levels to see which equipment types have the highest
+                probability of rolling that stat. Click groups with multiple items to expand.
+            </p>
             <div className="ag-card">
                 <div className="ag-card-title">Select Stat to Optimize</div>
                 <StatSelector

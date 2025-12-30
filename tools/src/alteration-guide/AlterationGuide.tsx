@@ -38,10 +38,6 @@ export function AlterationGuide() {
 
     return (
         <div className="ag-container">
-            <div className="ag-header">
-                <h1 className="ag-title">Alteration Guide</h1>
-            </div>
-
             <div className="ag-tabs">
                 {TABS.map((tab) => (
                     <button

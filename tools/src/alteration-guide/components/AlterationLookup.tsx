@@ -49,6 +49,9 @@ export function AlterationLookup({ index }: AlterationLookupProps) {
 
     return (
         <div>
+            <p className="ag-instructions">
+                Search for equipment by name to view the full probability table for all stats at each enhancement level.
+            </p>
             <div className="ag-card">
                 <div className="ag-card-title">Search Equipment</div>
                 <input

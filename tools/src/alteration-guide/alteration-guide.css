@@ -19,18 +19,6 @@
     padding: 1rem;
 }
 
-.ag-header {
-    text-align: center;
-    margin-bottom: 1.5rem;
-}
-
-.ag-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: var(--ag-accent-gold);
-    margin-bottom: 0.5rem;
-}
-
 .ag-tabs {
     display: flex;
     gap: 0.5rem;
@@ -329,6 +317,12 @@
     font-size: 0.875rem;
     color: var(--ag-text-secondary);
     margin-bottom: 0.5rem;
+}
+
+.ag-instructions {
+    font-size: 0.875rem;
+    color: var(--ag-text-secondary);
+    margin-bottom: 1rem;
 }
 
 @media (max-width: 600px) {
