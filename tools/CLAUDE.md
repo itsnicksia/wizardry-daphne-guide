@@ -75,8 +75,7 @@ tools/
 │       ├── components/          # BestEquipmentFinder, AlterationLookup, etc.
 │       └── utils/
 │           ├── buildAlterationIndex.ts  # Groups equipment by probability
-│           ├── calculateExpectedValue.ts
-│           └── simulateAlteration.ts
+│           └── calculateExpectedValue.ts
 ├── scripts/
 │   ├── convert-equipment.ts     # Loot data converter
 │   ├── convert-alteration.ts    # Alteration data converter
@@ -131,7 +130,6 @@ The app fetches `data/equipment-en.json` from GitHub raw content at runtime.
 1. **Best Equipment Finder**: Ranks equipment groups by probability for a selected stat
 2. **Alteration Lookup**: Search equipment to view full probability table across all enhancement levels
 3. **Expected Value Calculator**: Calculate expected alteration stones needed for target stat(s)
-4. **Alteration Simulator**: Simulate rolling for target stats to see distribution in practice
 
 ## Adding Translations
 

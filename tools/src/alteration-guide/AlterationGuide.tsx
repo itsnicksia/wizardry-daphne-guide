@@ -3,10 +3,9 @@ import { useAlterationData } from '../hooks/useAlterationData';
 import { BestEquipmentFinder } from './components/BestEquipmentFinder';
 import { AlterationLookup } from './components/AlterationLookup';
 import { ExpectedValueCalculator } from './components/ExpectedValueCalculator';
-import { AlterationSimulator } from './components/AlterationSimulator';
 import './alteration-guide.css';
 
-type TabId = 'best' | 'lookup' | 'calculator' | 'simulator';
+type TabId = 'best' | 'lookup' | 'calculator';
 
 interface Tab {
     id: TabId;
@@ -17,7 +16,6 @@ const TABS: Tab[] = [
     { id: 'best', label: 'Best Equipment' },
     { id: 'lookup', label: 'Lookup' },
     { id: 'calculator', label: 'Calculator' },
-    { id: 'simulator', label: 'Simulator' },
 ];
 
 export function AlterationGuide() {
@@ -62,7 +60,6 @@ export function AlterationGuide() {
                 {activeTab === 'best' && <BestEquipmentFinder index={index} />}
                 {activeTab === 'lookup' && <AlterationLookup index={index} />}
                 {activeTab === 'calculator' && <ExpectedValueCalculator index={index} />}
-                {activeTab === 'simulator' && <AlterationSimulator index={index} />}
             </div>
         </div>
     );
