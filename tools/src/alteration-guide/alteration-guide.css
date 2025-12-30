@@ -24,16 +24,17 @@
     gap: 0.5rem;
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .ag-tab {
-    padding: 0.5rem 1rem;
+    padding: 0.375rem 0.75rem;
     background-color: var(--ag-bg-secondary);
     border: 1px solid var(--ag-border-color);
     border-radius: 4px;
     color: var(--ag-text-secondary);
     cursor: pointer;
+    font-size: 0.875rem;
     transition: all 0.2s;
 }
 
@@ -56,26 +57,27 @@
 .ag-card {
     background-color: var(--ag-bg-card);
     border: 1px solid var(--ag-border-color);
-    border-radius: 8px;
-    padding: 1rem;
-    margin-bottom: 1rem;
+    border-radius: 6px;
+    padding: 0.75rem;
+    margin-bottom: 0.75rem;
 }
 
 .ag-card-title {
     font-weight: bold;
+    font-size: 0.875rem;
     color: var(--ag-accent-orange);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.375rem;
 }
 
 .ag-search-input {
     width: 100%;
-    padding: 0.75rem;
+    padding: 0.5rem 0.75rem;
     background-color: var(--ag-bg-secondary);
     border: 1px solid var(--ag-border-color);
     border-radius: 4px;
     color: var(--ag-text-primary);
-    font-size: 1rem;
-    margin-bottom: 1rem;
+    font-size: 0.875rem;
+    margin-bottom: 0.75rem;
 }
 
 .ag-search-input::placeholder {
@@ -89,20 +91,20 @@
 
 .ag-stat-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 0.5rem;
-    margin-bottom: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    gap: 0.375rem;
+    margin-bottom: 0.75rem;
 }
 
 .ag-stat-btn {
-    padding: 0.5rem;
+    padding: 0.375rem;
     background-color: var(--ag-bg-secondary);
     border: 1px solid var(--ag-border-color);
     border-radius: 4px;
     color: var(--ag-text-secondary);
     cursor: pointer;
     text-align: center;
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     transition: all 0.2s;
 }
 
@@ -119,18 +121,18 @@
 
 .ag-tier-toggle {
     display: flex;
-    gap: 0.5rem;
-    margin-bottom: 1rem;
+    gap: 0.375rem;
+    margin-bottom: 0.5rem;
     flex-wrap: wrap;
 }
 
 .ag-tier-btn {
-    padding: 0.25rem 0.75rem;
+    padding: 0.25rem 0.5rem;
     background-color: var(--ag-bg-secondary);
     border: 1px solid var(--ag-border-color);
     border-radius: 4px;
     cursor: pointer;
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     transition: all 0.2s;
 }
 
@@ -151,7 +153,7 @@
 .ag-ranking-list {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.25rem;
 }
 
 .ag-ranking-item-container {
@@ -162,11 +164,12 @@
 .ag-ranking-item {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
-    padding: 0.75rem;
+    gap: 0.5rem;
+    padding: 0.5rem 0.625rem;
     background-color: var(--ag-bg-secondary);
     border: 1px solid var(--ag-border-color);
     border-radius: 4px;
+    font-size: 0.875rem;
 }
 
 .ag-ranking-item-expandable {
@@ -255,12 +258,12 @@
 .ag-stats-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
 }
 
 .ag-stats-table th,
 .ag-stats-table td {
-    padding: 0.5rem;
+    padding: 0.375rem 0.5rem;
     border: 1px solid var(--ag-border-color);
     text-align: right;
 }
@@ -314,15 +317,16 @@
 }
 
 .ag-results-count {
-    font-size: 0.875rem;
+    font-size: 0.75rem;
     color: var(--ag-text-secondary);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.375rem;
 }
 
 .ag-instructions {
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     color: var(--ag-text-secondary);
-    margin-bottom: 1rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
 }
 
 @media (max-width: 600px) {

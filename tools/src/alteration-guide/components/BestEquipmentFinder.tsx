@@ -52,7 +52,7 @@ export function BestEquipmentFinder({ index }: BestEquipmentFinderProps) {
     return (
         <div>
             <p className="ag-instructions">
-                These are the probabilities for initial blessings when equipment drops from garakuta.
+                These are the probabilities for initial blessings when equipment drops from junk.
                 Select a stat to see which equipment types are most likely to have that blessing.
                 Note: Alteration stones have equal rates for all stats.
             </p>
