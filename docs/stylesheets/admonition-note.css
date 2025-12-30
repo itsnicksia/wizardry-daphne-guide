@@ -3,15 +3,15 @@
 }
 .md-typeset .admonition.note,
 .md-typeset details.note {
-  border-color: rgb(64, 115, 208);
+  border-color: rgb(61, 113, 207);
 }
 .md-typeset .note > .admonition-title,
 .md-typeset .note > summary {
-  background-color: rgba(64, 115, 208, 0.1);
+  background-color: rgba(61, 113, 207, 0.1);
 }
 .md-typeset .note > .admonition-title::before,
 .md-typeset .note > summary::before {
-  background-color: rgb(64, 115, 208);
+  background-color: rgb(61, 113, 207);
   -webkit-mask-image: var(--md-admonition-icon--note);
           mask-image: var(--md-admonition-icon--note);
 }
