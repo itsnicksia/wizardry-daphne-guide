@@ -4,14 +4,15 @@
     
     - Major format overhaul 
     - Corrosion sentries [10] and [12] are bugged - workaround solution added
+    - DM or ping @lightbearer on the Discord for any corrections or feedback
 
 ## Overview 
 
-### Introduction 
+!!! warning "Introduction" 
 
-- The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
-- It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
-- The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
+    - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
+    - It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
+    - The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
 
 ### Corrosion Mechanics
 
@@ -25,10 +26,10 @@
 
     === "Corrosion Effects"
     
-        - Fortress Appearance = Wall goo becomes more prominent with high corrosion
-        - Requests = Some requests become unavailable as essential NPCs are driven insane or die as a result of high corrosion, which affects what endings are available
-        - Monsters = Different monsters spawn, with stronger monsters at lower corrosion 
-        - Greater Warped One = The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health
+        - Fortress Appearance - Wall goo becomes more prominent with high corrosion
+        - Requests - Some requests become unavailable as essential NPCs are driven insane or die as a result of high corrosion, which affects what endings are available
+        - Monsters - Different monsters spawn, with stronger monsters at lower corrosion 
+        - Greater Warped One - The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health
 
     === "Corrosion Sentries"
         - Total of 13 corrosion sentries that appear as stationary flying enemies
@@ -62,21 +63,17 @@
 
     === "Flags" 
 
-        - The "Spotted" and "Not Spotted" designations are hidden flags the game tracks. The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
-
             ??? warning "Flag Definitions"
                 - "Spotted" = Entering a corrosion sentry's field of view
                 - "Not Spotted" = Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power 
                 
-        - During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress
-        - A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered
+        - The "Spotted" and "Not Spotted" designations are hidden flags the game tracks. 
+        - The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
+        - During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered
         - The golem reveral power can be used to block a corrosion sentry's field of view or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level
   
     === "Registration Nodes"
             
-        - Flags need to be triggered using the correct starting and ending Cursed Wheel nodes 
-        - The guide uses "Start" and "Register" nodes throughout  
-
             ??? warning "Node Definitions"
                 
                 - Start node 
@@ -86,6 +83,9 @@
                     - Node where you end a run and update any flags  
                     - Node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel 
                     - Note that you can never register a corrosion sentry by wheeling to its own node as the starting point 
+
+        - Flags need to be triggered using the correct starting and ending Cursed Wheel nodes 
+        - The guide uses "Start" and "Register" nodes throughout  
             
 ??? note "Putting it All Together" 
 
@@ -161,12 +161,12 @@
 
 ### Enshadowed Well of Life 
 
-??? note "Corrosion Sentry [2]"
+??? tip "Time-saver for [2]-[4]" 
+    - Corrosion sentries [2], [3], and [4] can all be registered in the same run
+    - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
+    - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
 
-    ??? tip "Time-saver" 
-        - Corrosion sentries [2], [3], and [4] can all be registered in the same run
-        - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
-        - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
+??? note "Corrosion Sentry [2]"
 
     ??? map "Location"
     
@@ -412,7 +412,7 @@
             - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room
             - Ignore the golem directly in front of you and head north. The corruption sentry is in an alcove in the upper right-hand corner 
             - Stand in its field of view > "Spotted" flag triggered
-            - To register defeat the Necrocore boss (Secret Path Keeper Vanquished) located at the end of Zone 3. See Necrocore > Path to Necrocore for directions
+            - To register defeat the Necrocore boss (Secret Path Keeper Vanquished) located at the end of Zone 3
             - To exit use the the Zone 3 Harken
 
             Notes
@@ -421,10 +421,11 @@
 
                 ??? bug "Potential Exploit" 
                 
-                    - Some players have reported a bug that can trigger the "Spotted" flag _without_ defeating the Necrocore boss 
-                    - Steps: Wheel to Enshadowed Well of Life (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
-                    - Once back in town wheel to Secret Path Keeper Vanquished and then exit via the Zone 3 Harken
-                    - Do a "Not Spotted" run to see if the corrosion sentry appears in the Cursed Wheel 
+                    - Some players have reported a bug that can trigger the "Spotted" flag without defeating the Necrocore boss 
+                    - Steps
+                        - Wheel to Enshadowed Well of Life (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
+                        - Once back in town wheel to Secret Path Keeper Vanquished and then exit via the Zone 3 Harken
+                        - Do a "Not Spotted" run to see if the corrosion sentry appears in the Cursed Wheel 
                     - The bug may have been patched, so proceed at your own risk
 
         === "Not Spotted"
@@ -438,7 +439,7 @@
 
             - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room
             - Push the golem directly in front of you up > "Not Spotted" flag triggered
-            - To register defeat the Necrocore boss (Secret Path Keeper Vanquished) located at the end of Zone 3. See "Necrocore > Path to Necrocore" for directions
+            - To register defeat the Necrocore boss (Secret Path Keeper Vanquished) located at the end of Zone 3
             - To exit use the the Zone 3 Harken 
 
             Notes
@@ -706,7 +707,7 @@
             Notes
 
             - Danger! There is a sentry in the upper right-hand corner
-            - Warning! Do not drop down the bottom left-hand hole as you will be "Spotted" when you land
+            - Warning! Do not use the bottom-left drop-down as you will be "Spotted" when you land 
             
     ??? note "Cursed Wheel Entry"
     
@@ -718,7 +719,7 @@
 
 ??? note "3F West Corrosion Sentry [9]"
 
-    !!! warning "Mandatory mini-quest required
+    !!! warning "Mandatory mini-quest required"
 
     ??? map "Location"
     
@@ -754,7 +755,7 @@
             - In the adjacent room examine the skeleton, which will spawn an automaton and a map on the floor nearby
             - The map marks the locations of 3 winding keys on the previous floors (Zones 8 and 9) 
             - Return to Zone 10 after collecting the winding keys and interact with the automaton 
-            - Exit the room and walk into the hallway with the corrosion sentry. The automaton will activate and the corrosion sentry will give chase > "Not Spotted flag triggered"
+            - Exit the room and walk into the hallway with the corrosion sentry. The automaton will activate and the corrosion sentry will give chase > "Not Spotted" flag triggered
             - To register continue north to the last room in Zone 10, drop down the hole to Zone 9, and exit via the Zone 9 Harken (Fortress 2F Minor Harken) across the hallway
 
             Notes
@@ -762,7 +763,7 @@
             - Danger! Do not enter the hallway with the corrosion sentry to avoid being "Spotted
             - Corrosion sentry [8] can be registered in the same run in the last room in Zone 10
 
-    ??? note "Mini-quest: Winding Key Collection"
+    ??? note "Mini-Quest: Winding Keys"
     
         === "Overview"
         
@@ -804,25 +805,26 @@
         ![](./img/corrosion-cw/cw-corr-9-fortress-2F-minor-harken-3F-west.jpg)
         </div>
 
-## Fortress 3rd Floor Arrival
+### Fortress 3rd Floor Arrival
 
-!!! bug "READ ME - Critical Bug"
+??? bug "Critical Bug - READ ME"
 
-    - "Corrosion sentries [10] and [12] CANNOT be registered properly at the Zone 10 Fountain (Fortress 3rd Floor Arrival)
+    - Corrosion sentries [10] and [12] CANNOT be registered properly at the Zone 10 Fountain (Fortress 3rd Floor Arrival) 
     - To register:
-        - Start at the Zone 9 Harken (Fortress 2F Minor Harken)
-        - Ignore both their rooms ("Not Spotted" flag triggered)
+        - Wheel to the Zone 9 Harken (Fortress 2F Minor Harken)
+        - Ignore both their rooms > "Not Spotted" flag triggered
         - Defeat GWO 6 (Mastermind ending) or GWO 8 (Blackmail ending) without exiting, wheeling, or "accepting death"
         - Discord members have reported the corrosion sentries will register even if you do not defeat the GWO (needs verification)
-    - Remember! Do NOT exit after reaching the Zone 10 Fountain as it will NOT register the corrosion sentries properly
-    - Best time is to wait until you're doing GWO 8 (Blackmail ending) since you will have encountered both and can ignore them on the way to the GWO fight 
+    - Remember! Do not exit after reaching the Zone 10 Fountain as it will not register [10] and [12] properly
+    - The best time to do this is during the Blackmail ending since you will have encountered both and can ignore them on your way to the GWO  
+    - The guide sections of [10] and [13] have been updated to reflect the critical bug 
     
 ??? warning "Important Notes for [10]-[13]"
 
     === "Register" 
     
         - To register corrosion sentries [11] and [13] you must do the entire route from the Zone 9 Harken (Fortress 2F Minor Harken) to the Zone 10 Fountain (Fortress 3rd Floor Arrival) without exiting, wheeling, or "accepting death" 
-        - These will be registered properly when you do [10] and [12] as long as you are "Not Spotted", so no need to do a separate run for them 
+        - These will be registered properly when you do [10] and [12] as long as you are "Not Spotted", which means there is no need to do a separate run for them
     
     === "Time-saver"
     
@@ -832,7 +834,7 @@
             - Corrosion sentry [12]: [Blackmail Resolution](./requests.md#blackmail-resolution)
         - For corrosion sentries [11] and [13] you will be "Spotted" on a first run. You can include their "No Spotted" runs when registering corrosion sentry [10] and [12] as previously noted 
 
-### 1F Servant's Quarters Corrosion Sentry 
+#### 1F Servant's Quarters Corrosion Sentry 
 
 ??? note "1F Servant's Quarters Corrosion Sentry [10]"
 
@@ -840,12 +842,6 @@
     
         <div align="center">
         ![](./img/corrosion-loc/loc-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
-        </div>
-    
-    ??? map "Path to Zone 9 - 1F Servant's Quarters"
-    
-        <div align="center">
-        ![](./img/corrosion-golem/golem-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
     
     ??? warning "Cursed Wheel Registration"
@@ -863,12 +859,11 @@
             - Inspect the bookcase and pick up the Tattered Rag (Valuable) > "Spotted" flag triggered 
 
             !!! warning " 
-            - "It remains unclear if the "Spotted" registration node is the Zone 10 Fountain or Triumphant Return (Blackmail or Mastermind ending)
-            - Recommend that you do not waste time trying to defeat the GWO until AFTER you have done a "Not Spotted" run. 
-            - If it does not appear in the Cursed Wheel after a "Not Spotted" run, then come back and try it again.
-            - To exit: 
-                - Use a Hook of Harken 
-                - Head to the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
+                - "It remains unclear if the "Spotted" registration node is the Zone 10 Fountain or Triumphant Return (Blackmail or Mastermind ending)
+                - Recommend that you do not waste time trying to defeat the GWO until AFTER you have done a "Not Spotted" run 
+                - If it does not appear in the Cursed Wheel after a "Not Spotted" run, then come back and try it again
+                
+            - To exit head to the Zone 10 Fountain and then southern teleport to warp to the Zone 9 Harken
             
         === "Not Spotted"
         
@@ -879,7 +874,6 @@
 
             Directions 
             
-            - Visiting this room is required to complete the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request
             - When you drop-down to Zone 8 do NOT enter the room > "Not Spotted" flag triggered
             - To register you must head to the Zone 10 Fountain (do NOT exit) and then fight GWO 6 (Mastermind ending) or GWO 8 (Blackmail ending) as the registration node is Triumphant Return  
 
@@ -887,13 +881,19 @@
 
             - Corrosion sentry [12] (2F Soldier's Room) also requires a separate "No Spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
 
+        === "Path to Zone 9 - 1F Servant's Quarters"
+        
+            <div align="center">
+            ![](./img/corrosion-golem/golem-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
+            </div>
+
     ??? note "Cursed Wheel Entry"
     
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
 
-### 1F Southwest Corrosion Sentry 
+#### 1F Southwest Corrosion Sentry 
 
 ??? note "1F Southwest Corrosion Sentry [11]"
 
@@ -914,7 +914,7 @@
         - Push the far right-hand golem (3) down, which will break a wall and allow access to the Zone 9 stairs
         - Danger! There are 3 sentries (blue ★) in the area
 
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
     
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -938,7 +938,7 @@
 
             Notes
 
-            Danger! There are 3 sentries in the room with the corrosion sentry
+            - Danger! There are 3 sentries in the room with the corrosion sentry
 
     ??? note "Cursed Wheel Entry"
     
@@ -946,7 +946,7 @@
         ![](./img/corrosion-cw/cw-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
         </div>
 
-### 2F Soldier's Room Corrosion Sentry 
+#### 2F Soldier's Room Corrosion Sentry 
 
 ??? note "2F Soldier's Room Corrosion Sentry [12]"
 
@@ -959,33 +959,39 @@
     ??? note "Cursed Wheel Registration"
     
         === "Spotted"
-        
-            Cursed Wheel Nodes
-            
-            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
-            - Register: "Triumphant Return" ("Blackmail" or "Mastermind" ending)
 
-            Directions
+            Cursed Wheel 
             
-            - Automatically "Spotted" on first run 
-            - Required quest
+            - Start: Fortress 2F Minor Harken (Zone 9 Harken) 
+            - Register: Triumphant Return (Blackmail or Mastermind ending)
 
-            Note
+            Directions 
+            
+            - Visiting this room is required to complete the [Blackmail Resolution](./requests.md#blackmail-resolution) request
+            - Upon entry you will be immediately "Spotted" and have to fight an Evil Eye 
+            
+            !!! warning " 
+                - "It remains unclear if the "Spotted" registration node is the Zone 10 Fountain or Triumphant Return (Blackmail or Mastermind ending)
+                - Recommend that you do not waste time trying to defeat the GWO until AFTER you have done a "Not Spotted" run 
+                - If it does not appear in the Cursed Wheel after a "Not Spotted" run, then come back and try it again
+            
+            - To exit head to the Zone 10 Fountain and then southern teleport to warp to the Zone 9 Harken
             
         === "Not Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
-            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
-            - Register: "Triumphant Return" ("Blackmail" or "Mastermind" ending)
+            - Start: Fortress 2F Minor Harken (Zone 9 Harken) 
+            - Register: Triumphant Return (Blackmail or Mastermind ending); see "Critical Bug" note
 
-            Directions
+            Directions 
             
-            - xx
+            - Do not enter this room as move down the Zone 9 hallway to the Zone 8 drop-down point
+            - To register you must head to the Zone 10 Fountain (do NOT exit) and then fight GWO 6 (Mastermind ending) or GWO 8 (Blackmail ending) as the registration node is Triumphant Return  
 
-            Note 
+            Notes
 
-            - xx
+            - Corrosion sentry [12] (2F Soldier's Room) also requires a separate "No Spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
                  
     ??? note "Cursed Wheel Entry"
     
@@ -993,7 +999,7 @@
         ![](./img/corrosion-cw/cw-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
         </div>
 
-### 2F Imprisoning Trap Corrosion Sentry 
+#### 2F Imprisoning Trap Corrosion Sentry 
 
 ??? note "2F Imprisoning Trap Corrosion Sentry [13]"
 
@@ -1015,8 +1021,8 @@
         - Push the final golem (4) to the left to open the door to the switch room
         - Flip the switch and all the remaining doors will unlock
 
-        !!! danger "There is a sentry (blue *) in the room"
-        !!! warning "This room might be rotated, but the pushing order remains the same. Use the entrance door as a reference point"
+        - Danger! There is a sentry (blue *) in the room
+        - Warning! This room might be rotated, but the pushing order remains the same. Use the entrance door as a reference point
     
     ??? note "Cursed Wheel Registration"
     
@@ -1025,22 +1031,22 @@
             
         === "Not Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
-            - Start: "Fortress 2F Minor Harken" (Zone 9 Harken) 
+            - Start: Fortress 2F Minor Harken (Zone 9 Harken) 
             - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
             
             Directions
             
             - From the Zone 9 Harken proceed through Zones 8 and 9 until you encounter the "imprisoning room" 
             - The location of this room in Zone 9 can change due to different map variations, but it cannot be missed
-            - See "Golem Directions" to crush the corrosion sentry > "Not spotted" flag triggered
+            - See Golem Directions to crush the corrosion sentry > "Not spotted" flag triggered
             - To register continue through Zone 9 to the Zone 10 Fountain
             - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
 
             Notes
 
-            !!! danger "There is a sentry in the corruption sentry room"
+            - Danger! There is a sentry in the corruption sentry room
 
     ??? note "Cursed Wheel Entry"
     
