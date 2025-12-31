@@ -4,48 +4,57 @@
 
 ## Overview
 
-- The purpose of this page is to assist any players that are missing a Corrosion Sentry on their Cursed Wheel
-- It is a mechanic that is not explained well in the game, but is critical to progression
-- Directly impacts getting the Abyss's multiple endings and access to the Bounty (Rank 12) Cyclops
-- The "true" version of the GWO can only be fought when at 0 corrosion (all 13 Corrosion Sentries registered)
+### Who is this page for?
 
-## Mechanics
+- The purpose of this page is to assist any players that are missing a Corrosion Sentry on their Cursed Wheel
+- It is a mechanic that is poorly explained, but critical to the endings and access to the Bounty (Rank 12) Cyclops
+- The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
+
+### Corrosion Mechanics
 
 ??? note "Corrosion"
-    - Corrosion is a central mechanic of this Abyss, with major changes depending on the level of corrosion.
-    - Corrosion is increased when your party enters the sight area of a Corrosion Sentry.
-    - Corrosion cannot be decreased whilst in the Abyss, but can be changed by modifying Causality in the **Cursed Wheel**.
 
-    ??? note "Corrosion Effects"
-        - Fortress Appearance: Slime becomes more prominent with high Corruption.
-        - Quest Availability: Some quest-lines become unavailable as essential NPCs are driven insane or die as a result of high corrosion. This affects which endings are available.
-        - Monsters: Different monsters spawn, with stronger monsters at lower corrosion. 
-        - Greater Warped One: The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health.
+    === "Overview"
 
-        ??? note "How to tell corruption level based on the Duke's room:"
+        - Central mechanic of the Abyss with major changes to what areas are accessible depending on its level
+        - Increased when your party enters the field of view of a corrosion sentry
+        - Cannot be decreased while in the Abyss, but can be changed in the Cursed Wheel
+
+    === "Corrosion Effects"
+    
+        - Fortress Appearance - Wall goo becomes more prominent with high corrosion
+        - Request Availability - Some requests become unavailable as essential NPCs are driven insane or die as a result of high corrosion, which affects what endings are available
+        - Monsters - Different monsters spawn, with stronger monsters at lower corrosion 
+        - Greater Warped One - The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health
+        
+    === "Duke's Room"
+
+        - Easy way to tell your level of corrosion during the end game 
+        - Cursed Wheel to "Fortress 3rd Floor Arrival" and check the map  
         
             <div align="center">
             ![](./img/corruption-levels.png)
             </div>
 
 ??? note "Corrosion Sentries"
-    - There are a total of 13 corrosion sentries 
+    - Total of 13 corrosion sentries 
     - Appear as stationary flying enemies
-    - Stepping into their field-of-vision will sound an alarm, the Abyss corrosion level will increase, and they will disappear
-    - Stepping into their field-of-vision will count as a "Spotted" flag in the Cursed Wheel
-    - Corrosion sentries are _not_ the same thing as standard floor sentries that are simply powered-up normal enemies 
+    - Stepping into their field of view sounds an alarm, increases the Fortress's corrosion level, and counts as a "Spotted" flag in the Cursed Wheel
+    - Corrosion sentries are not the same thing as standard floor sentries, which are simply powered-up normal enemies 
 
 ??? note "Golems"
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
     - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the Greater Warped One
 
-## Corrosion Sentry Registration
+### Corrosion Sentry Registration
 
-??? warning "To register a corrosion sentry in the Cursed Wheel the following must be true:"
+The most confusing mechanic is how to get corrosion sentries to show up in the Cursed Wheel in the first place. There is a specific process of "registering" them, which requires triggering certain game flags. 
+
+!!! warning "To register a corrosion sentry the following must be true:"
 
     - "Spotted" at least once
-    - "Not spotted" at least once
-    - Started at a Cursed Wheel node _before_ encountering the corrosion sentry on the normal progression route _and_ made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
+    - "Not Spotted" at least once
+    - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
 
 ??? note "Corrosion Sentry Registration Flowchart"
 
@@ -55,29 +64,30 @@
 
 ### "Spotted" and "Not Spotted" Flags
 
-The "Spotted" and "Not spotted" designations are hidden flags the game tracks. However, it only seems to "register" or "save" the flags after reaching the next Cursed Wheel node along the normal progression route. 
+- The "Spotted" and "Not spotted" designations are hidden flags the game tracks
+- The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route 
 
-??? warning "Flag definitions"
+!!! warning "Flag Definitions"
 
-    - "Spotted" Flag: Entering into a corrosion sentry's line-of-sight
-    - "Not Spotted" Flag: Moving past a corrosion sentry without entering its line-of-sight. Requires the golem reversal power 
-    - For each corrosion sentry both flags must be registered for it to appear in the Cursed Wheel
+    - "Spotted" Flag: Entering a corrosion sentry's field of view
+    - "Not Spotted" Flag: Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power 
+    - For each corrosion sentry both flags must be properly registered for it to appear in the Cursed Wheel
 
-During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered. The golem reveral power can be used to block a corrosion sentry's line-of-sight or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level. 
+- During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered.
+- The golem reveral power can be used to block a corrosion sentry's line-of-sight or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level. 
   
 ### Start and Register Nodes
-    
-As part of the registration process the correct pair of Cursed Wheel nodes must be used.
 
-- "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
-- "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
+To complicate matters the flags need to be triggered using the correct Cursed Wheel nodes. This guide uses "start" and "register" nodes throughout.  
 
-??? note "Terminology"
+!!! warning "Cursed Wheel Terminology"
 
-    <div align="center">
-    </div>
+    - "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
+    - "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
 
-??? warning "Summary" 
+### Putting It All Together
+
+!!! warning "Summary" 
     - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not spotted")
     - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel 
     - Corrosion sentries in the Cursed Wheel can be toggled ("Spotted" or "Not spotted") to manipulate the overall Abyss corrosion level
