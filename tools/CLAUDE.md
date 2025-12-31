@@ -61,6 +61,7 @@ tools/
 │   ├── types/
 │   │   ├── equipment.ts         # Equipment data types
 │   │   ├── alteration.ts        # Alteration/blessing data types
+│   │   ├── equipment-types.ts   # Shared equipment type definitions
 │   │   └── dictionary.ts        # Translation dictionary types
 │   ├── hooks/
 │   │   ├── useEquipmentData.ts
@@ -135,7 +136,23 @@ The app fetches `data/equipment-en.json` from GitHub raw content at runtime.
 
 **Important**: This tool shows probabilities for INITIAL blessings when equipment drops from garakuta. Alteration stone rerolls have equal probability for all stats.
 
-- **Equipment Groups**: Items with identical probability distributions are grouped (e.g., all One-Handed Swords share the same rates). 383 items → 29 groups.
+### Equipment Type System
+
+Each equipment item has an `equipmentType` field that determines its category for blessing probability display. Types are resolved in this order:
+
+1. **CSV Lookup**: Match equipment name against `data/weapon.csv` or `data/armor.csv`
+2. **Suffix Inference**: Match name suffix against `EQUIPMENT_TYPE_SUFFIXES` in `equipment-types.ts`
+3. **Fallback**: Items that don't match are excluded from rankings
+
+Valid equipment types (29 total):
+- **Weapons**: One/Two-Handed Sword/Axe/Mace/Staff/Spear, Dagger, Bow, Katana, Ninja Blade, Throwing Weapon, Tool
+- **Body**: Heavy/Light/Cloth Body Armor
+- **Head**: Heavy/Light Helmet, Cloth Hat
+- **Feet**: Heavy/Light Boots, Cloth Shoes
+- **Hands**: Heavy/Light Gloves, Cloth Gloves
+- **Other**: Shield, Accessory
+
+- **Equipment Groups**: Items are grouped by equipment type. 383 items → ~28 groups.
 - **Enhancement Tiers**: +5, +10, +15, +20 blessing slots have different probability tables
 - **Stat Types**:
   - Percentage stats (9): ATK%, MAG%, DIV%, ACC%, EVA%, RES%, DEF%, MDEF%, ASPD%

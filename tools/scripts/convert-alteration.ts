@@ -89,91 +89,14 @@ function buildEquipmentTypeMap(): Map<string, string> {
 
 const equipmentTypeMap = buildEquipmentTypeMap();
 
-const NAME_SUFFIX_TO_TYPE: Record<string, string> = {
-    'One-Handed Sword': 'One-Handed Sword',
-    'Two-Handed Sword': 'Two-Handed Sword',
-    'One-Handed Axe': 'One-Handed Axe',
-    'Two-Handed Axe': 'Two-Handed Axe',
-    'One-Handed Mace': 'One-Handed Mace',
-    'Two-Handed Mace': 'Two-Handed Mace',
-    'One-Handed Staff': 'One-Handed Staff',
-    'Two-Handed Staff': 'Two-Handed Staff',
-    'Two-Handed Spear': 'Two-Handed Spear',
-    'Dagger': 'Dagger',
-    'Bow': 'Bow',
-    'Katana': 'Katana',
-    'Ninja Blade': 'Ninja Blade',
-    'Greatsword': 'Two-Handed Sword',
-    'Saber': 'One-Handed Sword',
-    'Mace': 'One-Handed Mace',
-    'Staff': 'One-Handed Staff',
-    'Spear': 'Two-Handed Spear',
-    'Sword': 'One-Handed Sword',
-    'Axe': 'One-Handed Axe',
-    'Blade': 'Katana',
-    'Heavy Armor': 'Heavy Body Armor',
-    'Light Armor': 'Light Body Armor',
-    'Leather Armor': 'Light Body Armor',
-    'Heavy Mail': 'Heavy Body Armor',
-    'Light Mail': 'Light Body Armor',
-    'Heavy Armor Boots': 'Heavy Boots',
-    'Light Armor Boots': 'Light Boots',
-    'Heavy Boots': 'Heavy Boots',
-    'Light Boots': 'Light Boots',
-    'Ninja Tabi': 'Cloth Shoes',
-    'Boots': 'Light Boots',
-    'Heavy Helmet': 'Heavy Helmet',
-    'Light Helmet': 'Light Helmet',
-    'Heavy Helm': 'Heavy Helmet',
-    'Helm': 'Light Helmet',
-    'Heavy Gloves': 'Heavy Gloves',
-    'Light Gloves': 'Light Gloves',
-    'Arm Wraps': 'Light Gloves',
-    'Gauntlet': 'Heavy Gloves',
-    'Shield': 'Shield',
-    'Plate': 'Heavy Body Armor',
-    'Mail': 'Heavy Body Armor',
-    'Chainmail': 'Heavy Body Armor',
-    'Robe': 'Cloth Body Armor',
-    'Cloak': 'Cloth Body Armor',
-    'Tunic': 'Cloth Body Armor',
-    'Garb': 'Cloth Body Armor',
-    'Hat': 'Cloth Hat',
-    'Hood': 'Cloth Hat',
-    'Circlet': 'Cloth Hat',
-    'Cowl': 'Cloth Hat',
-    'Headcloth': 'Cloth Hat',
-    'Shoes': 'Cloth Shoes',
-    'Sandals': 'Cloth Shoes',
-    'Gloves': 'Light Gloves',
-    'Gauntlets': 'Heavy Gloves',
-    'Bracers': 'Light Gloves',
-    'Earring': 'Accessory',
-    'Ring': 'Accessory',
-    'Necklace': 'Accessory',
-    'Amulet': 'Accessory',
-    'Charm': 'Accessory',
-    'Talisman': 'Accessory',
-    'Belt': 'Accessory',
-    'Inro': 'Accessory',
-    'Shuriken': 'Throwing Weapon',
-    'Kunai': 'Throwing Weapon',
-};
-
-const SPECIFIC_ITEM_TYPES: Record<string, string> = {
+const SPECIFIC_ITEM_OVERRIDES: Record<string, string> = {
     'Demon Blade Oniyuki': 'Katana',
     'Kagura Moon': 'Katana',
 };
 
-function inferEquipmentType(name: string): string {
-    if (SPECIFIC_ITEM_TYPES[name]) {
-        return SPECIFIC_ITEM_TYPES[name];
-    }
-    const sortedSuffixes = Object.keys(NAME_SUFFIX_TO_TYPE).sort((a, b) => b.length - a.length);
-    for (const suffix of sortedSuffixes) {
-        if (name.endsWith(suffix)) {
-            return NAME_SUFFIX_TO_TYPE[suffix];
-        }
+function getEquipmentType(name: string): string {
+    if (SPECIFIC_ITEM_OVERRIDES[name]) {
+        return SPECIFIC_ITEM_OVERRIDES[name];
     }
     return 'Unknown';
 }
@@ -259,7 +182,7 @@ equipmentTable.find('tbody tr').each((_, row) => {
             newDictionaryEntries.push(jpName);
         }
 
-        const equipmentType = equipmentTypeMap.get(enName) || inferEquipmentType(enName);
+        const equipmentType = equipmentTypeMap.get(enName) || getEquipmentType(enName);
         currentEquipment = {
             name: enName,
             nameJp: jpName,

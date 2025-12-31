@@ -9,6 +9,7 @@ import type {
     AlterationEquipment,
     EquipmentGroup,
 } from '../../types/alteration';
+import { inferEquipmentTypeFromName } from '../../types/equipment-types';
 
 const ALL_STATS: AlterationStatType[] = [
     'ATK%', 'MAG%', 'DIV%', 'ACC%', 'EVA%', 'RES%', 'DEF%', 'MDEF%', 'ASPD%',
@@ -16,80 +17,7 @@ const ALL_STATS: AlterationStatType[] = [
 ];
 
 function getEquipmentType(equip: AlterationEquipment): string {
-    return equip.equipmentType || inferTypeFromName(equip.name);
-}
-
-const VALID_TYPES: Record<string, string> = {
-    'One-Handed Sword': 'One-Handed Sword',
-    'Two-Handed Sword': 'Two-Handed Sword',
-    'One-Handed Axe': 'One-Handed Axe',
-    'Two-Handed Axe': 'Two-Handed Axe',
-    'One-Handed Mace': 'One-Handed Mace',
-    'Two-Handed Mace': 'Two-Handed Mace',
-    'One-Handed Staff': 'One-Handed Staff',
-    'Two-Handed Staff': 'Two-Handed Staff',
-    'Two-Handed Spear': 'Two-Handed Spear',
-    'Dagger': 'Dagger',
-    'Bow': 'Bow',
-    'Katana': 'Katana',
-    'Ninja Blade': 'Ninja Blade',
-    'Throwing Weapon': 'Throwing Weapon',
-    'Tool': 'Tool',
-    'Heavy Body Armor': 'Heavy Body Armor',
-    'Light Body Armor': 'Light Body Armor',
-    'Cloth Body Armor': 'Cloth Body Armor',
-    'Heavy Helmet': 'Heavy Helmet',
-    'Light Helmet': 'Light Helmet',
-    'Cloth Hat': 'Cloth Hat',
-    'Heavy Boots': 'Heavy Boots',
-    'Light Boots': 'Light Boots',
-    'Cloth Shoes': 'Cloth Shoes',
-    'Heavy Gloves': 'Heavy Gloves',
-    'Light Gloves': 'Light Gloves',
-    'Cloth Gloves': 'Cloth Gloves',
-    'Shield': 'Shield',
-    'Accessory': 'Accessory',
-    // Suffix mappings for old data
-    'Greatsword': 'Two-Handed Sword',
-    'Saber': 'One-Handed Sword',
-    'Sword': 'One-Handed Sword',
-    'Axe': 'One-Handed Axe',
-    'Mace': 'One-Handed Mace',
-    'Staff': 'One-Handed Staff',
-    'Spear': 'Two-Handed Spear',
-    'Blade': 'Katana',
-    'Heavy Armor': 'Heavy Body Armor',
-    'Light Armor': 'Light Body Armor',
-    'Heavy Mail': 'Heavy Body Armor',
-    'Plate': 'Heavy Body Armor',
-    'Mail': 'Heavy Body Armor',
-    'Chainmail': 'Heavy Body Armor',
-    'Robe': 'Cloth Body Armor',
-    'Tunic': 'Cloth Body Armor',
-    'Heavy Armor Boots': 'Heavy Boots',
-    'Light Armor Boots': 'Light Boots',
-    'Boots': 'Light Boots',
-    'Heavy Helm': 'Heavy Helmet',
-    'Helm': 'Light Helmet',
-    'Hat': 'Cloth Hat',
-    'Hood': 'Cloth Hat',
-    'Gloves': 'Light Gloves',
-    'Gauntlets': 'Heavy Gloves',
-    'Gauntlet': 'Heavy Gloves',
-    'Ring': 'Accessory',
-    'Earring': 'Accessory',
-    'Necklace': 'Accessory',
-    'Amulet': 'Accessory',
-};
-
-function inferTypeFromName(name: string): string {
-    const sortedKeys = Object.keys(VALID_TYPES).sort((a, b) => b.length - a.length);
-    for (const suffix of sortedKeys) {
-        if (name.endsWith(suffix)) {
-            return VALID_TYPES[suffix];
-        }
-    }
-    return 'Unknown';
+    return equip.equipmentType || inferEquipmentTypeFromName(equip.name);
 }
 
 export function buildAlterationIndex(data: AlterationData): AlterationIndex {
