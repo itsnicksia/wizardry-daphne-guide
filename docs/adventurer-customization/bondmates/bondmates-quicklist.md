@@ -61,17 +61,17 @@
 
 | Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
 |:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:----------|:-------|:-------|
+| [Bernard, Father Restored to Life](./isberg/bondmates.md#bernard-father-restored-to-life)              | Side Quest      | Admiral 2nd Faction Quest                     | Magic Power                    | Water   | 5         |        |        |
 | [Bigfoot's Offspring](./isberg/bondmates.md#bigfoots-offspring)                                        | Side Quest      | Recovery of Salted Pork                       | Accuracy                       | Null    | 5         | 10     |        |
+| [Drunken Drunkard](./isberg/bondmates.md#drunken-drunkard)                                             | Main Quest      | Drink with him until you are drunk            | Confusion Tolerance            | Water   | 1         |        |        |
+| [Elliot, the Lamenting Brother](./isberg/bondmates.md#elliot-the-lamenting-brother)                    | Side Quest      | Princess 2nd Faction Quest                    | Attack Power                   | Air     | 5         |        |        |
+| [Exquisite Jewel Trout](./isberg/bondmates.md#exquisite-jewel-trout)                                   | Side Quest      | Special Local Delicacy                        | HP                             | Water   | 5         |        |        |
+| [Iris, Maiden of Rockhome](./isberg/bondmates.md#truth-of-the-beautiful-ore)                           | Main Quest      | Abyss 4 True Ending                           | Divine Power, Resistance       | Light   | 5         |        |        |
 | [Maya and Auntie Marta](./isberg/bondmates.md#maya-and-auntie-marta)                                   | Side Quest      | Find my Sister Lisa                           | Fear Tolerance                 | Air     | 5         |        |        |
 | [Stonefolk Visiting the Gravestone](./isberg/bondmates.md#stonefolk-visiting-the-gravestones)          | Route 3         | Reverse Nullstone and follow it through maps  | MP                             | Earth   | 5         |        |        |
-| [Exquisite Jewel Trout](./isberg/bondmates.md#exquisite-jewel-trout)                                   | Side Quest      | Special Local Delicacy                        | HP                             | Water   | 5         |        |        |
-| [Drunken Drunkard](./isberg/bondmates.md#drunken-drunkard)                                             | Main Quest      | Drink with him until you are drunk            | Confusion Tolerance            | Water   | 1         |        |        |
-| [Warg, Commander of the Deep Snow](./isberg/bondmates.md#warg-commander-of-the-deep-snow)              | Side Quest      | Unforgivable Wolves                           | Freeze Tolerance, Evasion      | Air     | 5         |        |        |
-| [Bernard, Father Restored to Life](./isberg/bondmates.md#bernard-father-restored-to-life)              | Side Quest      | Admiral 2nd Faction Quest                     | Magic Power                    | Water   | 5         |        |        |
-| [Elliot, the Lamenting Brother](./isberg/bondmates.md#elliot-the-lamenting-brother)                    | Side Quest      | Princess 2nd Faction Quest                    | Attack Power                   | Air     | 5         |        |        |
-| [William, the Remorseful Husband](./isberg/bondmates.md#william-the-remorseful-husband)                | Side Quest      | Church 2nd Faction Quest                      | Divine Power                   | Fire    | 5         |        |        |
-| [Iris, Maiden of Rockhome](./isberg/bondmates.md#truth-of-the-beautiful-ore)                           | Main Quest      | Abyss 4 True Ending                           | Divine Power, Resistance       | Light   | 5         |        |        |
 | Wandering Bunny                                                                                        | Random          | Randomly around Abyss 4                       | Crit Tolerance                 | Air     | 5         |        |        |
+| [Warg, Commander of the Deep Snow](./isberg/bondmates.md#warg-commander-of-the-deep-snow)              | Side Quest      | Unforgivable Wolves                           | Freeze Tolerance, Evasion      | Air     | 5         |        |        |
+| [William, the Remorseful Husband](./isberg/bondmates.md#william-the-remorseful-husband)                | Side Quest      | Church 2nd Faction Quest                      | Divine Power                   | Fire    | 5         |        |        |
 
 ## Event Bondmates
 
