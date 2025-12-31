@@ -2,15 +2,13 @@
 
 !!! warning "This page is a work in progress. Corrosion sentries [10] and [12] will be updated soon."
 
-### Overview 
-
-#### Introduction
+## Overview 
 
 - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
 - It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
 - The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
 
-#### Corrosion Mechanics
+### Corrosion Mechanics
 
 ??? note "Corrosion"
 
@@ -45,7 +43,7 @@
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
     - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the Greater Warped One
 
-#### Corrosion Sentry Registration
+### Corrosion Sentry Registration
 
 ??? note "Requirements" 
 
@@ -59,26 +57,28 @@
 
     === "Flags" 
 
-        !!! warning "Flag Definitions"
-        
-            - "Spotted" = Entering a corrosion sentry's field of view
-            - "Not Spotted" = Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power 
-            - For each corrosion sentry both flags must be properly registered for it to appear in the Cursed Wheel
-                
         - The "Spotted" and "Not spotted" designations are hidden flags the game tracks. The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
+
+            ??? warning "Flag Definitions"
+            
+                - "Spotted" = Entering a corrosion sentry's field of view
+                - "Not Spotted" = Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power 
+                - For each corrosion sentry both flags must be properly registered for it to appear in the Cursed Wheel
+                
         - During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered.
         - The golem reveral power can be used to block a corrosion sentry's line-of-sight or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level. 
   
     === "Registration Nodes"
+            
+        - To complicate matters the flags need to be triggered using the correct starting and ending Cursed Wheel nodes. 
+        - This guide uses "Start" and "Register" nodes throughout.  
 
-        !!! warning "Node Definitions"
+
+            ??? warning "Node Definitions"
         
             - "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
             - "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
             
-        - To complicate matters the flags need to be triggered using the correct Cursed Wheel nodes. 
-        - This guide uses "Start" and "Register" nodes throughout.  
-    
 ??? note "Putting it All Together" 
 
     === "Summary" 
@@ -93,9 +93,9 @@
         ![](./img/corr-register-corrosion-sentry-steps.png)
         </div>
 
-### Corrosion Sentry Guide
+## Corrosion Sentry Guide
 
-!!! tip "Topics Covered"
+??? warning "Topics Covered"
 
     - Locations of all 13 corrosion sentries 
     - Pathing instructions for confusing areas. All map directions are based on the floor map
@@ -104,10 +104,12 @@
     - Important time-saving tips, warnings, and other notes
     - Picture of the Cursed Wheel entry 
 
-- A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
-- The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
+    Notes:
+    
+    - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
+    - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
-#### Secret Passage Minor Harken
+### Secret Passage Minor Harken
 
 ??? note "Corrosion Sentry [1]"
     ??? map "Location"
@@ -146,7 +148,7 @@
         ![](./img/corrosion-cw/cw-corr-1-secret-passage-minor-harken.jpg)
         </div>
 
-## Enshadowed Well of Life 
+### Enshadowed Well of Life 
 
 ??? note "Corrosion Sentry [2]"
 
@@ -267,9 +269,9 @@
         ![](./img/corrosion-cw/cw-corr-2-enshadowed-well-of-life.jpg)
         </div>
 
-## Secret Path Keeper Vanquished
+### Secret Path Keeper Vanquished
 
-??? warning "Important Notes"
+??? warning "Important Notes for [3] and [4]"
 
     === "Warning! Boss"
     
@@ -279,12 +281,9 @@
     
         - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
         - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
-
-    === "Time-Saving Tip"
-        
         - Corrosion sentries [3] and [4] can be registered in the same run 
 
-### South Corrosion Sentry 
+#### South Corrosion Sentry 
 
 ??? note "South Corrosion Sentry [3]"
 
@@ -303,7 +302,7 @@
         - Ignore the nothern golem 
         - Push the southern golem to the left
 
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -325,39 +324,39 @@
             - To exit use the the Zone 3 Harken 
 
             Notes
+            
+            - To the north is corrosion sentry [4] that can be registered in the same run"
 
-            !!! tip "To the north is corrosion sentry [4] that can be registered in the same run"
-
-    ??? danger "Necrocore"
- 
-        ??? map "Path to Necrocore"
+        === "Boss: Necrocore"
+     
+            ??? map "Path to Necrocore"
+            
+                ??? map "Zone 2 - Old Secret Passage B2F"
+                
+                    <div align="center">
+                    ![](./img/zone-2-path.jpg)
+                    </div>
         
-            ??? map "Zone 2 - Old Secret Passage B2F"
-            
-                <div align="center">
-                ![](./img/zone-2-path.jpg)
-                </div>
+                ??? map "Zone 3 - Old Secret Passage B3F"
+        
+                    <div align="center">
+                    ![](./img/zone-3-path.jpg)
+                    </div>
     
-            ??? map "Zone 3 - Old Secret Passage B3F"
+                - From the Zone 2 Fountain follow the light blue and green paths
     
-                <div align="center">
-                ![](./img/zone-3-path.jpg)
-                </div>
-
-            - From the Zone 2 Fountain follow the light blue and green paths
-
-        ??? danger "Boss Fight Details"
-    
-            - Race: Undead
-            - Abilities: Instant-Death
-            
-            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
-            
-            - Gear (Helm of Malice, Skull Necklace)
-            - Bondmates (Elequon)
-            - Adventurer passives (Red Beard, Galina)
-            - Harken blessings
-            - Well of the Mind nodes for the MC 
+            ??? danger "Fight Details"
+        
+                - Race: Undead
+                - Abilities: Instant-Death
+                
+                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
+                
+                - Gear (Helm of Malice, Skull Necklace)
+                - Bondmates (Elequon)
+                - Adventurer passives (Red Beard, Galina)
+                - Harken blessings
+                - Well of the Mind nodes for the MC 
 
     ??? note "Cursed Wheel Entry"
     
@@ -365,7 +364,7 @@
         ![](./img/corrosion-cw/cw-corr-3-secret-path-keeper-vanquished-south.jpg)
         </div>
 
-### Central Corrosion Sentry 
+#### Central Corrosion Sentry 
 
 ??? note "Central Corrosion Sentry [4]"
 
