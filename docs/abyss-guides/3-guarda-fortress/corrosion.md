@@ -1,12 +1,16 @@
 # Corrosion Sentries 
 
-!!! warning "This page is a work in progress. Corrosion sentries [10] and [12] will be updated soon."
+!!! warning "Work in Progress" 
+            - Overhauling page formatting 
+            - Corrosion sentries [10] and [12] are bugged - workaround solution added
 
 ## Overview 
 
-- The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
-- It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
-- The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
+!!! warning "Introduction" 
+
+    - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
+    - It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
+    - The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
 
 ### Corrosion Mechanics
 
