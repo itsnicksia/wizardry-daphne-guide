@@ -15,6 +15,77 @@ const ALL_STATS: AlterationStatType[] = [
     'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'SUR'
 ];
 
+// Maps extracted equipment type names to in-game category names
+const CATEGORY_MAP: Record<string, string> = {
+    // Weapons
+    'Dagger': 'Dagger',
+    'Sword': 'One-Handed Sword',
+    'One-Handed Axe': 'One-Handed Axe',
+    'Light Axe': 'One-Handed Axe',
+    'Staff': 'One-Handed Staff',
+    'Rod': 'One-Handed Staff',
+    'Mace': 'One-Handed Blunt Weapon',
+    'Warmace': 'One-Handed Blunt Weapon',
+    'Spiked Mace': 'One-Handed Blunt Weapon',
+    'Kunai': 'Throwing Ninja Tool',
+    'Blade': 'Ninjato',
+    'Katana': 'Katana',
+    'Greatsword': 'Two-Handed Sword',
+    'Two-Handed Sword': 'Two-Handed Sword',
+    'Two-Handed Spear': 'Two-Handed Spear',
+    'Heavy Spear': 'Two-Handed Spear',
+    'Two-Handed Axe': 'Two-Handed Axe',
+    'Two-Handed Staff': 'Two-Handed Staff',
+    'Two-Handed Mace': 'Two-Handed Blunt Weapon',
+    'Bow': 'Bow',
+    'Tool': 'Tool',
+    // Shields
+    'Small Shield': 'Small Shield',
+    'Shield': 'Light Shield',
+    'Large Shield': 'Heavy Shield',
+    // Head
+    'Hat': 'Hat',
+    'Headcloth': 'Hat',
+    'Hood': 'Hat',
+    'Cowl': 'Hat',
+    'Circlet': 'Hat',
+    'Helm': 'Light Helmet',
+    'Light Helmet': 'Light Helmet',
+    'Light Helm': 'Light Helmet',
+    'Heavy Helmet': 'Heavy Helmet',
+    'Heavy Helm': 'Heavy Helmet',
+    // Body
+    'Robe': 'Clothes',
+    'Cloak': 'Clothes',
+    'Garb': 'Clothes',
+    'Light Armor': 'Light Armor',
+    'Mail': 'Light Armor',
+    'Heavy Armor': 'Heavy Armor',
+    'Heavy Mail': 'Heavy Armor',
+    'Plate': 'Heavy Armor',
+    // Hands
+    'Gloves': 'Gloves',
+    'Arm Wraps': 'Gloves',
+    'Light Gauntlets': 'Light Gauntlets',
+    'Heavy Gauntlets': 'Heavy Gauntlets',
+    // Feet
+    'Shoes': 'Shoes',
+    'Ninja Tabi': 'Shoes',
+    'Sandals': 'Shoes',
+    'Boots': 'Shoes',
+    'Light Armor Boots': 'Light Armor Boots',
+    'Heavy Armor Boots': 'Heavy Armor Boots',
+    // Accessories
+    'Ring': 'Ring',
+    'Amulet': 'Ring',
+    'Earring': 'Ring',
+    'Bracelet': 'Ring',
+};
+
+function mapToCategory(extractedType: string): string {
+    return CATEGORY_MAP[extractedType] || extractedType;
+}
+
 function hashEquipmentStats(equip: AlterationEquipment): string {
     return equip.tiers
         .sort((a, b) => a.tier - b.tier)
@@ -55,76 +126,25 @@ function extractEquipmentType(name: string): string {
     return words[words.length - 1];
 }
 
-function findCommonSuffix(names: string[], minWords: number = 1): string | null {
-    if (names.length === 0) return null;
-    if (names.length === 1) return extractEquipmentType(names[0]);
-
-    const wordArrays = names.map(name => name.split(' '));
-    const maxWords = Math.min(...wordArrays.map(arr => arr.length));
-
-    // Find the longest common suffix
-    let lastMatchLength = 0;
-    for (let i = minWords; i <= maxWords; i++) {
-        const suffix = wordArrays[0].slice(-i).join(' ');
-        const allMatch = wordArrays.every(arr => arr.slice(-i).join(' ') === suffix);
-        if (allMatch) {
-            lastMatchLength = i;
-        } else {
-            break;
-        }
-    }
-
-    if (lastMatchLength > 0) {
-        const suffix = wordArrays[0].slice(-lastMatchLength).join(' ');
-        return extractEquipmentType(suffix);
-    }
-
-    return null;
-}
-
-function detectTypeName(items: AlterationEquipment[], minWords: number = 1): string {
-    const names = items.map(item => item.name);
-    const commonSuffix = findCommonSuffix(names, minWords);
-
-    if (commonSuffix) {
-        return commonSuffix;
-    }
-
-    // No common suffix - use majority vote of extracted equipment types
-    // Prefer multi-word types (e.g., "Light Armor") over single-word types (e.g., "Mail")
-    const typeCounts = new Map<string, number>();
+function detectTypeName(items: AlterationEquipment[]): string {
+    // Count occurrences of each in-game category for items in this group
+    const categoryCounts = new Map<string, number>();
     for (const item of items) {
-        const type = extractEquipmentType(item.name);
-        typeCounts.set(type, (typeCounts.get(type) || 0) + 1);
+        const extractedType = extractEquipmentType(item.name);
+        const category = mapToCategory(extractedType);
+        categoryCounts.set(category, (categoryCounts.get(category) || 0) + 1);
     }
 
-    // Separate and sort multi-word and single-word types by count
-    const multiWordTypes: [string, number][] = [];
-    const singleWordTypes: [string, number][] = [];
-    for (const [type, count] of typeCounts) {
-        if (type.includes(' ')) {
-            multiWordTypes.push([type, count]);
-        } else {
-            singleWordTypes.push([type, count]);
+    // Return the most common category
+    let maxCount = 0;
+    let mostCommonCategory = mapToCategory(extractEquipmentType(items[0].name));
+    for (const [category, count] of categoryCounts) {
+        if (count > maxCount) {
+            maxCount = count;
+            mostCommonCategory = category;
         }
     }
-    multiWordTypes.sort((a, b) => b[1] - a[1]);
-    singleWordTypes.sort((a, b) => b[1] - a[1]);
-
-    // Prefer the most common multi-word type if it has significant representation (33%+)
-    // Multi-word types like "Light Armor" are more descriptive than single-word like "Mail"
-    const threshold = items.length * 0.33;
-    if (multiWordTypes.length > 0 && multiWordTypes[0][1] >= threshold) {
-        return multiWordTypes[0][0];
-    }
-
-    // Otherwise return the most common type overall
-    if (singleWordTypes.length > 0 &&
-        (multiWordTypes.length === 0 || singleWordTypes[0][1] > multiWordTypes[0][1])) {
-        return singleWordTypes[0][0];
-    }
-
-    return multiWordTypes.length > 0 ? multiWordTypes[0][0] : extractEquipmentType(items[0].name);
+    return mostCommonCategory;
 }
 
 export function buildAlterationIndex(data: AlterationData): AlterationIndex {
@@ -151,29 +171,6 @@ export function buildAlterationIndex(data: AlterationData): AlterationIndex {
             items,
             tiers: items[0].tiers,
         });
-    }
-
-    // Detect and fix name collisions by using longer suffixes
-    const nameCount = new Map<string, EquipmentGroup[]>();
-    for (const group of groups) {
-        const existing = nameCount.get(group.typeName) || [];
-        existing.push(group);
-        nameCount.set(group.typeName, existing);
-    }
-
-    for (const [, duplicateGroups] of nameCount) {
-        if (duplicateGroups.length > 1) {
-            for (const group of duplicateGroups) {
-                // Try progressively longer suffixes until we get unique names
-                for (let minWords = 2; minWords <= 5; minWords++) {
-                    const newName = detectTypeName(group.items, minWords);
-                    if (newName !== group.typeName) {
-                        group.typeName = newName;
-                        break;
-                    }
-                }
-            }
-        }
     }
 
     groups.sort((a, b) => a.typeName.localeCompare(b.typeName));
