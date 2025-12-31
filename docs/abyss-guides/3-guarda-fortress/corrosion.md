@@ -106,7 +106,8 @@
     - Important time-saving tips, warnings, and other notes
     - Picture of the Cursed Wheel entry 
 
-A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other. The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
+- A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
+- The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
 ## Secret Passage Minor Harken
 
@@ -125,7 +126,7 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
         - Push the golem to the right to block the corrosion sentry's field of view
 
-    ??? note " Cursed Wheel Registration"
+    ??? warning " Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -149,7 +150,7 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
 ## Enshadowed Well of Life 
 
-??? tip "Time-saving tip" 
+??? tip "Time-saving Tip" 
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
     - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
     - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
@@ -170,7 +171,7 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
         - Push the golem to the left to block the corrosion sentry's field of view 
 
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -184,22 +185,6 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
             Directions
             
-            ??? map "Path to corrosion sentry" 
-            
-                ??? map "Zone 2 - Old Secret Passage B2F"
-                    
-                    <div align="center">
-                    ![](./img/zone-2-path.jpg)
-                    </div>
-                    
-                ??? map "Zone 3 - Old Secret Passage B3F"
-                    
-                    <div align="center">
-                    ![](./img/zone-3-path.jpg)
-                    </div>
-
-                - Follow the red path
-
             - The end goal is a drop-down hole located in the NE corner of Zone 2
             - Push the golem to the left > "Not spotted" flag triggered
             - To register proceed to the Zone 2 Fountain ("Enshadowed Well of Life") 
@@ -207,7 +192,24 @@ A few of the Cursed Wheel nodes have more than one corrosion sentry. These corro
 
             Notes
 
-            !!! tip "Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain"
+                !!! tip "Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain"
+
+
+        === "Path to Corrosion Sentry" 
+            
+            ??? map "Zone 2 - Old Secret Passage B2F"
+                
+                <div align="center">
+                ![](./img/zone-2-path.jpg)
+                </div>
+                
+            ??? map "Zone 3 - Old Secret Passage B3F"
+                
+                <div align="center">
+                ![](./img/zone-3-path.jpg)
+                </div>
+
+            - Follow the red path
 
         === "Exiting from Zone 2 Fountain"
 
