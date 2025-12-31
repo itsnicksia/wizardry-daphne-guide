@@ -2,15 +2,15 @@
 
 !!! warning "This page is a work in progress. Corrosion sentries [10] and [12] will be updated soon."
 
-## Overview 
+### Overview 
 
-### Who Is This Page For?
+#### Introduction
 
-    - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
-    - It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
-    - The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
+- The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
+- It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
+- The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries
 
-### Corrosion Mechanics
+#### Corrosion Mechanics
 
 ??? note "Corrosion"
 
@@ -45,7 +45,7 @@
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
     - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the Greater Warped One
 
-### Corrosion Sentry Registration
+#### Corrosion Sentry Registration
 
 ??? note "Requirements" 
 
@@ -93,7 +93,7 @@
         ![](./img/corr-register-corrosion-sentry-steps.png)
         </div>
 
-## Corrosion Sentry Guide
+### Corrosion Sentry Guide
 
 !!! tip "Topics Covered"
 
@@ -107,7 +107,7 @@
 - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
 - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
-## Secret Passage Minor Harken
+#### Secret Passage Minor Harken
 
 ??? note "Corrosion Sentry [1]"
     ??? map "Location"
