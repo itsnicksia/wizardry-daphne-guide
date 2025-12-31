@@ -1855,9 +1855,9 @@
       ]
     },
     {
-      "name": "Thief's Boots",
+      "name": "Thieves' Boots",
       "nameJp": "盗賊のブーツ",
-      "equipmentType": "Unknown",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -15041,7 +15041,7 @@
     {
       "name": "Veil Shield",
       "nameJp": "ヴェイルシールド",
-      "equipmentType": "Unknown",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -15350,7 +15350,7 @@
     {
       "name": "Veil Gloves",
       "nameJp": "ヴェイルグローブ",
-      "equipmentType": "Unknown",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -15453,7 +15453,7 @@
     {
       "name": "Veil Boots",
       "nameJp": "ヴェイルブーツ",
-      "equipmentType": "Unknown",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -15760,9 +15760,9 @@
       ]
     },
     {
-      "name": "Magic Spring Robe",
+      "name": "Manafont Robe",
       "nameJp": "魔泉のローブ",
-      "equipmentType": "Unknown",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -17202,9 +17202,9 @@
       ]
     },
     {
-      "name": "Goddess Earring",
+      "name": "Goddess's Earrings",
       "nameJp": "女神のピアス",
-      "equipmentType": "Unknown",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -17820,9 +17820,9 @@
       ]
     },
     {
-      "name": "Wilderness Gauntlet",
+      "name": "Wilderness Gauntlets",
       "nameJp": "ウィルダネスガントレット",
-      "equipmentType": "Unknown",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -19468,9 +19468,9 @@
       ]
     },
     {
-      "name": "Holy Knight Shield",
+      "name": "Holy Knight's Shield",
       "nameJp": "ホーリーナイトシールド",
-      "equipmentType": "Unknown",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -19571,9 +19571,9 @@
       ]
     },
     {
-      "name": "Holy Knight Plate",
+      "name": "Holy Knight's Plate Mail",
       "nameJp": "ホーリーナイトプレート",
-      "equipmentType": "Unknown",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -25854,9 +25854,9 @@
       ]
     },
     {
-      "name": "Miner's Protection Ring",
+      "name": "Miner's Ring of Protection",
       "nameJp": "坑夫の守り輪",
-      "equipmentType": "Unknown",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -28738,9 +28738,9 @@
       ]
     },
     {
-      "name": "Ninja Black Inro",
+      "name": "Shinobi's Black Seal Case",
       "nameJp": "忍の黒印籠",
-      "equipmentType": "Unknown",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -36360,9 +36360,9 @@
       ]
     },
     {
-      "name": "Featherbronze Gauntlet",
+      "name": "Featherbronze Gauntlets",
       "nameJp": "羽銅の篭手",
-      "equipmentType": "Unknown",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -37699,9 +37699,9 @@
       ]
     },
     {
-      "name": "Low Ninja Kunai",
+      "name": "Lower Ninja Kunai",
       "nameJp": "下忍の苦無",
-      "equipmentType": "Unknown",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -37802,9 +37802,9 @@
       ]
     },
     {
-      "name": "Low Ninja Blade",
+      "name": "Lower Ninja Blade",
       "nameJp": "下忍の刃",
-      "equipmentType": "Unknown",
+      "equipmentType": "Ninja Blade",
       "tiers": [
         {
           "tier": 1,
@@ -38008,9 +38008,9 @@
       ]
     },
     {
-      "name": "Shadow Run Kunai",
+      "name": "Shadowrunner Kunai",
       "nameJp": "影走の苦無",
-      "equipmentType": "Unknown",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -38111,9 +38111,9 @@
       ]
     },
     {
-      "name": "Shadow Run Blade",
+      "name": "Shadowrunner Blade",
       "nameJp": "影走の刃",
-      "equipmentType": "Unknown",
+      "equipmentType": "Ninja Blade",
       "tiers": [
         {
           "tier": 1,
