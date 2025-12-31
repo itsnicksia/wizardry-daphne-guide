@@ -195,8 +195,7 @@
 
             Notes
 
-                !!! tip "Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain"
-
+            !!! tip "Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain"
 
         === "Path to Corrosion Sentry" 
             
@@ -216,7 +215,7 @@
 
         === "Exiting from Zone 2 Fountain"
 
-            ??? map "Path to Zone 1 Harken"
+            ??? note "Path to Zone 1 Harken"
                 
                 ??? map "Zone 2 - Old Secret Passage B2F"
                 
@@ -235,7 +234,7 @@
                 - Once you land in Zone 3 go left, up, right, up and take the stairs to Zone 2 
                 - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit 
 
-            ??? map "Path to Zone 3 Harken"
+            ??? note "Path to Zone 3 Harken"
                 
                 ??? map "Zone 2 - Old Secret Passage B2F"
                 
@@ -252,18 +251,18 @@
                 - From the Zone 2 Fountain follow the light blue and green paths
                 - The Necrocore boss must be defeated to access the Zone 3 Harken to exit 
 
-                ??? danger "Boss Fight Details"
-    
-                    - Race: Undead
-                    - Abilities: Instant-Death
-                    
-                    Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
-                    
-                    - Gear (Helm of Malice, Skull Necklace)
-                    - Bondmates (Elequon)
-                    - Adventurer passives (Red Beard, Galina)
-                    - Harken blessings
-                    - Well of the Mind nodes for the MC
+                    ??? danger "Boss Fight Details"
+        
+                        - Race: Undead
+                        - Abilities: Instant-Death
+                        
+                        Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
+                        
+                        - Gear (Helm of Malice, Skull Necklace)
+                        - Bondmates (Elequon)
+                        - Adventurer passives (Red Beard, Galina)
+                        - Harken blessings
+                        - Well of the Mind nodes for the MC
 
     ??? note "Cursed Wheel Entry"
     
@@ -273,14 +272,20 @@
 
 ## Secret Path Keeper Vanquished
 
-!!! danger "Registering corrosion sentries [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3"
+??? warning "Important Notes"
 
-??? warning "Registration Note"
-    - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
-    - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+    === Boss Fight
     
-??? tip "Time-saving Tip"
-    - Corrosion sentries [3] and [4] can be registered in the same run 
+        - Registering corrosion sentries [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3"
+
+    === "Registration"
+    
+        - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
+        - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
+
+    === "Time-Saving Tip"
+        
+        - Corrosion sentries [3] and [4] can be registered in the same run 
 
 ### South Corrosion Sentry 
 
