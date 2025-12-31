@@ -42,13 +42,13 @@
 
 | Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
 |:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:----------|:-------|:-------|
-| [Brita the Lazy Handmaiden](./guarda-fortress/bondmates.md#brita-the-lazy-handmaiden)                  | Side quest      | Water Hauling                                 | Charm Tolerance               | Water   | 5         | 20     |        |
+| [Brita the Lazy Handmaiden](./guarda-fortress/bondmates.md#brita-the-lazy-handmaiden)                  | Side quest      | Water Hauling                                 | Charm Tolerance                | Water   | 5         | 20     |        |
 | [Cheating Gambler Faile](./guarda-fortress/bondmates.md#cheating-gambler-faile)                        | Guarda Entrance | Specific Gambler Blackmail Minigame           | Accuracy                       | Dark    | 5         | 10     |        |
 | [Concerned Brother Elequon](./guarda-fortress/bondmates.md#concerned-brother-elequon)                  | Side quest      | Item Trade Quest                              | Insta-kill Tolerance           | Dark    | 1         | 10–15  |        |
 | [Enthusiastic Carpenter Hans](./guarda-fortress/bondmates.md#enthusiastic-carpenter-hans)              | Side quest      | Bodyguard for Ruins Exploration               | Resistance                     | Earth   | 5         | 10     |        |
 | [Endy the Mage](./guarda-fortress/bondmates.md#endy-the-mage)                                          | Side quest      | Forbidden Area Search Escort request          | Evasion                        | Fire    | 5         | 10     |        |
 | [Eugen and Bibi](./guarda-fortress/bondmates.md#eugen-and-bibi)                                        | Side quest      | Missing Companion                             | Confusion Tolerance            | Void    | 5         | 27     |        |
-| [Graham, Knight Commander of Guarda](./guarda-fortress/bondmates.md#graham-knight-commander-of-guarda) | Side quest      | Emergency Occurrence                          | Attack Power, Stone Tolerance | Fire    | 5         | 10     |15-20   |
+| [Graham, Knight Commander of Guarda](./guarda-fortress/bondmates.md#graham-knight-commander-of-guarda) | Side quest      | Emergency Occurrence                          | Attack Power, Stone Tolerance  | Fire    | 5         | 10     |15-20   |
 | [Guardian Knight Dalian](./guarda-fortress/bondmates.md#guardian-knight-dalian)                        | Main quest      | Blackmail Resolution                          | Defense Power                  | Earth   | 1         | 6      |        |
 | [Kidnapped Girl Liam](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                              | Main quest      | Search for the Missing Girl                   | Stun Tolerance                 | Water   | 1         | 10–15  |        |
 | [Old Mage's Lingering Fixation](./guarda-fortress/bondmates.md#old-mages-lingering-fixation)           | Random          | Randomly around Abyss 3                       | HP                             | Void    | 5         | 20     |        |
@@ -56,6 +56,22 @@
 | [Sam the Rascally Dog](./guarda-fortress/bondmates.md#kidnapped-girl-liam)                             | Main quest      | Search for the Missing Girl                   | Sleep Tolerance                | Air     | 5         | 22     |        |
 | [Singing Skeleton in the Tunnel](./guarda-fortress/bondmates.md#singing-skeleton-in-the-tunnel)        | Side quest      | Search for Missing Person                     | Defense Power                  | Dark    | 5         | 10     |        |
 | [Young Lord Ixion](./guarda-fortress/bondmates.md#duke-ixion)                                          | Side quest      | Expedition to Clear the Fortress Lower Levels | Magic Power, MP                | Light   | 5         | 10     | 8      |
+
+## Isberg Bondmates
+
+| Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
+|:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:----------|:-------|:-------|
+| [Bigfoot's Offspring](./isberg/bondmates.md#bigfoots-offspring)                                        | Side Quest      | Recovery of Salted Pork                       | Accuracy                       | Null    | 5         | 10     |        |
+| [Maya and Auntie Marta](./isberg/bondmates.md#maya-and-auntie-marta)                                   | Side Quest      | Find my Sister Lisa                           | Fear Tolerance                 | Air     | 5         |        |        |
+| [Stonefolk Visiting the Gravestone](./isberg/bondmates.md#stonefolk-visiting-the-gravestones)          | Route 3         | Reverse Nullstone and follow it through maps  | MP                             | Earth   | 5         |        |        |
+| [Exquisite Jewel Trout](./isberg/bondmates.md#exquisite-jewel-trout)                                   | Side Quest      | Special Local Delicacy                        | HP                             | Water   | 5         |        |        |
+| [Drunken Drunkard](./isberg/bondmates.md#drunken-drunkard)                                             | Main Quest      | Drink with him until you are drunk            | Confusion Tolerance            | Water   | 1         |        |        |
+| [Warg, Commander of the Deep Snow](./isberg/bondmates.md#warg-commander-of-the-deep-snow)              | Side Quest      | Unforgivable Wolves                           | Freeze Tolerance, Evasion      | Air     | 5         |        |        |
+| [Bernard, Father Restored to Life](./isberg/bondmates.md#bernard-father-restored-to-life)              | Side Quest      | Admiral 2nd Faction Quest                     | Magic Power                    | Water   | 5         |        |        |
+| [Elliot, the Lamenting Brother](./isberg/bondmates.md#elliot-the-lamenting-brother)                    | Side Quest      | Princess 2nd Faction Quest                    | Attack Power                   | Air     | 5         |        |        |
+| [William, the Remorseful Husband](./isberg/bondmates.md#william-the-remorseful-husband)                | Side Quest      | Church 2nd Faction Quest                      | Divine Power                   | Fire    | 5         |        |        |
+| [Iris, Maiden of Rockhome](./isberg/bondmates.md#truth-of-the-beautiful-ore)                           | Main Quest      | Abyss 4 True Ending                           | Divine Power, Resistance       | Light   | 5         |        |        |
+| Wandering Bunny                                                                                        | Random          | Randomly around Abyss 4                       | Crit Tolerance                 | Air     | 5         |        |        |
 
 ## Event Bondmates
 
