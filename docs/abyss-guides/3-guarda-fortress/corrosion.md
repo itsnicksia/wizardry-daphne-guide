@@ -24,7 +24,13 @@
         - Request Availability - Some requests become unavailable as essential NPCs are driven insane or die as a result of high corrosion, which affects what endings are available
         - Monsters - Different monsters spawn, with stronger monsters at lower corrosion 
         - Greater Warped One - The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health
-        
+
+    === "Corrosion Sentries"
+            - Total of 13 corrosion sentries 
+            - Appear as stationary flying enemies
+            - Stepping into their field of view sounds an alarm, increases the Fortress's corrosion level, and counts as a "Spotted" flag in the Cursed Wheel
+            - Corrosion sentries are not the same thing as standard floor sentries, which are simply powered-up normal enemies 
+
     === "Duke's Room"
 
         - Easy way to tell your level of corrosion during the end game 
@@ -34,12 +40,6 @@
             ![](./img/corruption-levels.png)
             </div>
 
-??? note "Corrosion Sentries"
-    - Total of 13 corrosion sentries 
-    - Appear as stationary flying enemies
-    - Stepping into their field of view sounds an alarm, increases the Fortress's corrosion level, and counts as a "Spotted" flag in the Cursed Wheel
-    - Corrosion sentries are not the same thing as standard floor sentries, which are simply powered-up normal enemies 
-
 ??? note "Golems"
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
     - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the Greater Warped One
@@ -48,7 +48,7 @@
 
 ??? note "Requirements" 
 
-=== "Summary" 
+    === "Summary" 
 
         The most confusing mechanic is how to get corrosion sentries to show up in the Cursed Wheel in the first place. There is a specific process of "registering" them, which requires triggering certain game flags. 
         
@@ -74,7 +74,7 @@
   
     === "Registration Nodes"
 
-    To complicate matters the flags need to be triggered using the correct Cursed Wheel nodes. This guide uses "start" and "register" nodes throughout.  
+        To complicate matters the flags need to be triggered using the correct Cursed Wheel nodes. This guide uses "start" and "register" nodes throughout.  
     
         !!! warning "Cursed Wheel Terminology"
         
