@@ -273,7 +273,7 @@ The table below shows the stat increase per Relic Power level along with the lev
 | ACC                             |     2     |    10    |        12        |
 | EVA                             |     2     |    10    |        12        |
 | MAG                             |     2     |    10    |        12        |
-| DIV                             |           |          |                  |
+| DIV                             |     2     |    10    |        12        |
 | ASPD                            |     1     |     5    |         6        |
 | DEF                             |     4     |    20    |        24        |
 | MDEF                            |     4     |    20    |        24        |
