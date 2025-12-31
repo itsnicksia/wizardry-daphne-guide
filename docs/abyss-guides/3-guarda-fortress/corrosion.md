@@ -7,7 +7,7 @@
 
 ## Overview 
 
-!!! tip "Introduction" 
+!!! warning "Introduction" 
 
     - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
     - It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
@@ -105,7 +105,7 @@
 
 ## Corrosion Sentry Guide
 
-??? tip "Topics Covered"
+??? warning "Topics Covered"
 
     Summary 
     
@@ -479,7 +479,7 @@
         ![](./img/corrosion-cw/cw-corr-4-secret-path-keeper-vanquished-central.jpg)
         </div>
 
-## Fortress Lower Floors Cleared
+### Fortress Lower Floors Cleared
 
 ??? note "Corrosion Sentry [5]"
 
@@ -495,35 +495,34 @@
         ![](./img/corrosion-golem/golem-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
             
-        - Push the bottom (1) golem to the right to block the corruption sentry's field-of-view
-        - Push the top (2) golem up to block the sentry's field-of-view
+        - Push the bottom (1) golem to the right to block the corruption sentry's field of view
+        - Push the top (2) golem up to block the sentry's field of view 
+        - Danger! There is a sentry (blue ★) directly north of the corrosion sentry"
 
-        !!! danger "There is a sentry (blue ★) directly north of the corrosion sentry"
-
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
             
         === "Not Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
-            - Start: "Fortress Basement Arrival" (Zone 5 entrance) 
-            - Register: "Fortress Lower Floors Cleared" (enter Zone 6)
+            - Start: Fortress Basement Arrival (Zone 5 entrance) 
+            - Register: Fortress Lower Floors Cleared (enter Zone 6)
             
             Directions
 
             - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
-            - Push the bottom golem to the right to block the corruption sentry's field-of-view > "Not spotted" flag triggered
+            - Push the bottom golem to the right to block the corruption sentry's field of view > "Not Spotted" flag triggered
             - Push the top golem up to block the sentry's field-of-view  
-            - To register go up the stairs to Zone 6 ("Fortress Lower Floors Cleared") 
+            - To register go up the stairs to Zone 6 (Fortress Lower Floors Cleared) 
             - To exit go back downstairs and use the Zone 5 Harken
 
             Notes
             
-            !!! danger "There is a sentry directly north of the corrosion sentry"     
-            !!! warning "The registration node is entering Zone 6 _not_ the Zone 5 Harken to avoid exiting prematurely" 
+            - Danger! There is a sentry directly north of the corrosion sentry     
+            - The registration node is entering Zone 6 not the Zone 5 Harken to avoid exiting prematurely 
                       
     ??? note "Cursed Wheel Entry"
     
@@ -531,7 +530,7 @@
         ![](./img/corrosion-cw/cw-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
 
-## Portrait Gallery Minor Harken
+### Portrait Gallery Minor Harken
 
 ??? note "Corrosion Sentry [6]"
 
@@ -549,31 +548,30 @@
                 
         - Push the top (1) and bottom (2) golems to the left
         - Push the middle (3) golem up to crush the corrosion sentry 
+        - Danger! There are 2 sentries (blue ★) in the area
 
-        !!! danger "There are 2 sentries (blue ★) in the area"
-
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
             
         === "Not Spotted"
 
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
-            - Start: "Fortress Lower Floors Cleared" (Zone 6 entrance) 
-            - Register: "Portrait Gallery Minor Harken" (Zone 6 Harken)
+            - Start: Fortress Lower Floors Cleared (Zone 6 entrance) 
+            - Register: Portrait Gallery Minor Harken (Zone 6 Harken)
 
             Directions
             
             - Proceed through Zone 6 until you reach the area with 3 golems. Its location does not change even with different map variations
             - Push the top and bottom golems to the left to clear the path for the middle golem
-            - Push the middle golem up, which will crush the corrosion sentry > "Not spotted" flag triggered 
+            - Push the middle golem up, which will crush the corrosion sentry > "Not Spotted" flag triggered 
             - To register head up and to the right to exit via the Zone 6 Harken
 
             Notes
 
-            !!! danger "There are 2 sentries in the area"
+            - Danger! There are 2 sentries in the area
 
     ??? note "Cursed Wheel Entry"
     
@@ -581,7 +579,7 @@
         ![](./img/corrosion-cw/cw-corr-6-portrait-gallery-minor-harken.jpg)
         </div>
 
-## Ghosts of Yore Vanquished
+### Ghosts of Yore Vanquished
 
 ??? note "Corrosion Sentry [7]"
 
@@ -601,8 +599,7 @@
             
             - The corrosion sentry room can be rotated 90 degrees depending on the map variation
             - The golem push order remains the same
-
-            !!! danger "There are 3 sentries in the area"
+            - Danger! There are 3 sentries in the area
 
         === "Doll"
         
@@ -612,35 +609,34 @@
 
             - Requires walking through poison tiles
             - Poison tiles can cause the game to lag and a roaming sentry may spot you 
+            - Danger! There are 3 sentries in the area
 
-            !!! danger "There are 3 sentries in the area"
-
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
 
         === "Spotted"
             - Automatically "Spotted" on first run 
             
         === "Not Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
-            - Start: "Portrait Gallery Minor Harken" (Zone 6 Harken)
-            - Register: "Ghosts of Yore Vanquished" (Doll boss defeated)
+            - Start: Portrait Gallery Minor Harken (Zone 6 Harken)
+            - Register: Ghosts of Yore Vanquished (Doll boss defeated)
 
             Directions
             
             - From the Zone 6 Harken go up the stairs and proceed through Zone 7 until you reach the large room with 6 golems 
-            - Zone 7 can roll different map variations. The large room might be rotated, but the golem pushing order remains the same (see "Golem Directions - Corrosion Sentry")
-            - Crush the corrosion sentry > "Not spotted" flag triggered 
-            - To register proceed to the end of Zone 7 and defeat the Doll boss ("Ghosts of Yore Vanquished")
+            - Zone 7 can roll different map variations. The large room might be rotated, but the golem pushing order remains the same (see Golem Directions - Corrosion Sentry)
+            - Crush the corrosion sentry > "Not Spotted" flag triggered 
+            - To register proceed to the end of Zone 7 and defeat the Doll boss (Ghosts of Yore Vanquished)
             - To exit use the Zone 7 Harken
 
             Notes
             
-            !!! danger "There are 3 sentries in the large room with the corrosion sentry"
-            !!! tip "Alternative Doll kill method"
+            - Danger! There are 3 sentries in the large room with the corrosion sentry"
+            - Alternative Doll kill method: 
                 - Fighting the Doll boss again is not mandatory
-                - It can be crushed with a golem (see "Golem Directions - Doll") for a hidden achievement
+                - It can be crushed with a golem (see Golem Directions - Doll) for a hidden achievement
 
     ??? note "Cursed Wheel Entry"
     
