@@ -7,7 +7,7 @@
 
 ## Overview 
 
-!!! warning "Introduction" 
+!!! tip "Introduction" 
 
     - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel
     - It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops
@@ -54,11 +54,11 @@
 
     === "Summary" 
         
-        !!! warning "To register a corrosion sentry the following must be true:"
+        To register a corrosion sentry the following must be true:
         
-            - "Spotted" at least once
-            - "Not Spotted" at least once
-            - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
+        - "Spotted" at least once
+        - "Not Spotted" at least once
+        - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
 
     === "Flags" 
 
@@ -75,13 +75,13 @@
   
     === "Registration Nodes"
             
-        - To complicate matters the flags need to be triggered using the correct starting and ending Cursed Wheel nodes. 
+        - Flags need to be triggered using the correct starting and ending Cursed Wheel nodes. 
         - This guide uses "Start" and "Register" nodes throughout.  
 
             ??? warning "Node Definitions"
                 
-                - "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
-                - "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
+                - Start node = The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
+                - Register node = The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
             
 ??? note "Putting it All Together" 
 
@@ -99,16 +99,16 @@
 
 ## Corrosion Sentry Guide
 
-??? warning "Topics Covered"
+??? tip "Topics Covered"
 
     - Locations of all 13 corrosion sentries 
     - Pathing instructions for confusing areas. All map directions are based on the floor map
     - Golem power reversal directions 
-    - Registration nodes and directions for "Spotted" and "Not spotted" runs 
+    - Registration nodes and directions for "Spotted" and "Not Spotted" runs 
     - Important time-saving tips, warnings, and other notes
     - Picture of the Cursed Wheel entry 
 
-    Notes:
+    Notes
     
     - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
     - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
@@ -136,7 +136,7 @@
             - Automatically "Spotted" on first run 
 
         === "Not Spotted"
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
             - Start: "Hidden Passage" (Beginning of Zone 1)
             - Register: "Secret Passage Minor Harken" (Zone 1 Harken)
@@ -182,7 +182,7 @@
 
         === "Not Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
             - Start: "Secret Passage Minor Harken" (Zone 1 Harken)
             - Register: "Enshadowed Well of Life" (Zone 2 Fountain)
@@ -259,7 +259,7 @@
                     - Race: Undead
                     - Abilities: Instant-Death
                     
-                    Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
+                    Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To increase insta-kill tolerance:
                     
                     - Gear (Helm of Malice, Skull Necklace)
                     - Bondmates (Elequon)
@@ -279,11 +279,11 @@
 
     === "Warning! Boss"
     
-        - Registering corrosion sentries [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3"
+        - Registering corrosion sentries [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
 
     === "Registration"
     
-        - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not spotted"
+        - Corrosion sentry [4] must be registerd **twice** for both "Spotted" and "Not Spotted"
         - Corrosion sentry [4] requires a low Abyss corrosion level to access. Toggle all the corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
         - Corrosion sentries [3] and [4] can be registered in the same run 
 
@@ -313,7 +313,7 @@
 
         === "Not Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
             - Start: "Enshadowed Well of Life" (Zone 2 Fountain)
             - Register: "Secret Path Keeper Vanquished" (Zone 3 Necrocore boss defeated) 
@@ -354,7 +354,7 @@
                 - Race: Undead
                 - Abilities: Instant-Death
                 
-                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
+                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To increase insta-kill tolerance:
                 
                 - Gear (Helm of Malice, Skull Necklace)
                 - Bondmates (Elequon)
@@ -372,11 +372,6 @@
 
 ??? note "Central Corrosion Sentry [4]"
 
-    !!! warning "Warning" 
-        - Corrosion sentry [4] must be done **twice** to register both the "Spotted" and "Not spotted" flags. It is not possible to be "Spotted" on a first run due to corrosion blocking the hallway
-        - Requires a low Abyss corrosion level to access
-        - Toggle all corrosion sentries to "Not spotted" in the Cursed Wheel beforehand
-
     ??? map "Location"
     
         <div align="center">
@@ -392,11 +387,11 @@
         - Ignore the southern golem
         - Push the northern golem up
 
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
 
         === "Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
         
             - Start: "Enshadowed Well of Life" (Zone 2 Fountain)
             - Register: "Secret Path Keeper Vanquished" (Zone 3 Necrocore boss defeated) 
@@ -411,19 +406,19 @@
 
             Notes
 
-            !!! tip "To the south is corrosion sentry [3] that can be registered in the same run"
+            - To the south is corrosion sentry [3] that can be registered in the same run"
 
-            !!! bug "Potential exploit" 
-            
-                - Some players have reported a bug that can trigger the "Spotted" flag _without_ defeating the Necrocore boss 
-                - Steps: Wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
-                - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
-                - Do a "Not spotted" run to see if the corrosion sentry appears in the Cursed Wheel 
-                - The bug may have been patched. Proceed at your own risk
+                ??? bug "Potential Exploit" 
+                
+                    - Some players have reported a bug that can trigger the "Spotted" flag _without_ defeating the Necrocore boss 
+                    - Steps: Wheel to "Enshadowed Well of Life" (Zone 2 Fountain), get "Spotted", and then exit via a Hook of Harken or the Zone 1 Harken
+                    - Once back in town wheel to "Secret Path Keeper Vanquished" and then exit via the Zone 3 Harken
+                    - Do a "Not spotted" run to see if the corrosion sentry appears in the Cursed Wheel 
+                    - The bug may have been patched. Proceed at your own risk
 
         === "Not Spotted"
         
-            Cursed Wheel Nodes
+            Cursed Wheel 
             
             - Start: "Enshadowed Well of Life" (Zone 2 Fountain)
             - Register: "Secret Path Keeper Vanquished" (Zone 3 Necrocore boss defeated)  
@@ -436,39 +431,39 @@
             - To exit use the the Zone 3 Harken 
 
             Notes
-
-            !!! tip "To the south is corrosion sentry [3] that can be registered in the same run"
-
-    ??? danger "Necrocore"
-    
-        ??? map "Path to Necrocore"
-
-            ??? map "Zone 2 - Old Secret Passage B2F"
             
-                <div align="center">
-                ![](./img/zone-2-path.jpg)
-                </div>
-    
-            ??? map "Zone 3 - Old Secret Passage B3F"
-    
-                <div align="center">
-                ![](./img/zone-3-path.jpg)
-                </div>   
+            - To the south is corrosion sentry [3] that can be registered in the same run"
+
+        === "Boss: Necrocore"
+     
+            ??? map "Path to Necrocore"
+            
+                ??? map "Zone 2 - Old Secret Passage B2F"
                 
-            - From the Zone 2 Fountain follow the light blue and green paths
-
-        ??? danger "Boss Fight Details"
+                    <div align="center">
+                    ![](./img/zone-2-path.jpg)
+                    </div>
+        
+                ??? map "Zone 3 - Old Secret Passage B3F"
+        
+                    <div align="center">
+                    ![](./img/zone-3-path.jpg)
+                    </div>
     
-            - Race: Undead
-            - Abilities: Instant-Death
-            
-            Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To increase insta-kill tolerance:
-            
-            - Gear (Helm of Malice, Skull Necklace)
-            - Bondmates (Elequon)
-            - Adventurer passives (Red Beard, Galina)
-            - Harken blessings
-            - Well of the Mind nodes for the MC 
+                - From the Zone 2 Fountain follow the light blue and green paths
+    
+            ??? danger "Fight Details"
+        
+                - Race: Undead
+                - Abilities: Instant-Death
+                
+                Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To increase insta-kill tolerance:
+                
+                - Gear (Helm of Malice, Skull Necklace)
+                - Bondmates (Elequon)
+                - Adventurer passives (Red Beard, Galina)
+                - Harken blessings
+                - Well of the Mind nodes for the MC 
 
     ??? note "Cursed Wheel Entry"
         <div align="center">
