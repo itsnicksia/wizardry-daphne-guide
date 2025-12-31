@@ -161,7 +161,7 @@
 
 ### Enshadowed Well of Life 
 
-??? tip "Time-saver for [2]-[4]" 
+??? warning "Important Notes for [2]-[4]" 
     - Corrosion sentries [2], [3], and [4] can all be registered in the same run
     - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
     - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
@@ -665,8 +665,6 @@
 
 ??? note "2F North Corrosion Sentry [8]"
 
-    !!! warning "Corrosion sentry [8] is located in Zone 9, but requires using the golem reversal power in Zone 10"
-
     ??? map "Location"
     
         <div align="center">
@@ -718,8 +716,6 @@
 #### 3F West Corrosion Sentry
 
 ??? note "3F West Corrosion Sentry [9]"
-
-    !!! warning "Mandatory mini-quest required"
 
     ??? map "Location"
     
@@ -825,7 +821,7 @@
     
         - To register corrosion sentries [11] and [13] you must do the entire route from the Zone 9 Harken (Fortress 2F Minor Harken) to the Zone 10 Fountain (Fortress 3rd Floor Arrival) without exiting, wheeling, or "accepting death" 
         - These will be registered properly when you do [10] and [12] as long as you are "Not Spotted", which means there is no need to do a separate run for them
-    
+        
     === "Time-saver"
     
         - Corrosion sentries [10]-[13] are the most time-intensive to register 
@@ -879,7 +875,7 @@
 
             Notes
 
-            - Corrosion sentry [12] (2F Soldier's Room) also requires a separate "No Spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
+            - Corrosion sentry [12] (2F Soldier's Room) also requires a separate "Not Spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
 
         === "Path to Zone 9 - 1F Servant's Quarters"
         
@@ -956,7 +952,7 @@
         ![](./img/corrosion-loc/loc-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
         </div>
     
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
     
         === "Spotted"
 
@@ -991,7 +987,7 @@
 
             Notes
 
-            - Corrosion sentry [12] (2F Soldier's Room) also requires a separate "No Spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
+            - Corrosion sentry [10] (1F Servant's Quarters) also requires a separate "Not Spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
                  
     ??? note "Cursed Wheel Entry"
     
@@ -1024,7 +1020,7 @@
         - Danger! There is a sentry (blue *) in the room
         - Warning! This room might be rotated, but the pushing order remains the same. Use the entrance door as a reference point
     
-    ??? note "Cursed Wheel Registration"
+    ??? warning "Cursed Wheel Registration"
     
         === "Spotted"
             - Automatically "Spotted" on first run 
@@ -1035,6 +1031,7 @@
             
             - Start: Fortress 2F Minor Harken (Zone 9 Harken) 
             - Register: "Fortress 3rd Floor Arrival" (Zone 10 Fountain)
+            - Does not appear to be affected by the "Critical Bug" and should register properly
             
             Directions
             
