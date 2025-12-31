@@ -1,158 +1,238 @@
 # Deepsnow Hinterlands
 
-!!! note "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met"
+!!! warning "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met."
 
 !!! warning "Work in Progress. To be added soon:"
-    - Drunken Drunkard
-    - Warg, Commander of the Deep Snow
-    - Wandering Bunny 
+    - Wandering Bunny
     
-## Snowy Forest Minor Harken 
+### Snowy Forest Minor Harken 
 
-### Bigfoot's Offspring
+#### Bigfoot's Offspring 
+
+??? note "Details"
+
+    === "How to Acquire"
     
-??? warning "How to Acquire"
+        - [Recovery of Salted Pork](../../../abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
+        - Must choose to "Spare" the Bigfoot and its child at the end of the request
+    
+    === "Skill - Accuracy"
+    
+        <figure markdown>
+        ![](./img/bigfoots-offspring-skill.PNG)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/bigfoots-offspring.PNG)
+        </figure>
 
-    - [Recovery of Salted Pork](../../../abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
-    - Must choose to "Spare" the Bigfoot and its child at the end of the request
+### Village Shut Away in Silence 
 
-??? "Skill - Primal Sense of Aim - Accuracy"
+#### Maya and Auntie Marta 
 
-    <figure markdown>
-    ![](./img/bigfoots-offspring-skill.PNG)
-    </figure>
+??? note "Details" 
 
-??? "Portrait"
+    === "How to Acquire"
+    
+        - [Find My Sister Lisa](../../../abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
+        - Requires the "Perfect Ending"
+    
+    === "Skill - Fear Tolerance"
+    
+        <figure markdown>
+        ![](./img/maya-and-marta-skill.PNG)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/maya-and-marta.png)
+        </figure>
 
-    <figure markdown>
-    ![](./img/bigfoots-offspring.PNG)
-    </figure>
+#### Stonefolk Visiting the Gravestones 
 
-## Village Shut Away in Silence 
+??? note "Details"
 
-### Maya and Auntie Marta 
+    === "How to Acquire"
+    
+        - Requires knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris)       
+        - The starting position of this bondmate is behind the Mayor's house in Route 3. After reversing them, you must find them in every map location up to Route 10.
+        - The locations are randomized each run except for on Route 3 (X:21, Y:18) and Route 10 (X:6, Y:1)
+    
+    === "Skill - MP"
+    
+        <figure markdown>
+        ![](./img/stonefolk-visiting-the-gravestone-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/stonefolk-visiting-the-gravestone.png)
+        </figure>
 
-??? warning "How to Acquire"
+### Minor Harken Beyond the Blizzard 
 
-    - [Find My Sister Lisa](../../../abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
-    - Requires the "Perfect Ending"
+#### Exquisite Jewel Trout 
 
-??? "Skill - Late Sister's Child - Fear Tolerance"
+??? note "Details" 
 
-    <figure markdown>
-    ![](./img/maya-and-marta-skill.PNG)
-    </figure>
+    === "How to Acquire"
+    
+        - [Special Local Delicacy](../../../abyss-guides/4-isberg/requests.md#special-local-delicacy)
+        - Still testing to confirm the exact requirements
+        - Requires blizzard zones not being reversed (needs verification)
+        - Select "The air here feels dry to you" (bottom blizzard zone is reportedly bugged and does not work)
+        - Defeat all 3 waves of enemies 
+    
+    === "Skill - HP"
+    
+        <figure markdown>
+        ![](./img/exquisite-jewel-trout-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/exquisite-jewel-trout.png)
+        </figure>
 
-??? "Portrait"
+### Lakeshore Camp
 
-    <figure markdown>
-    ![](./img/maya-and-marta.png)
-    </figure>
+#### Drunken Drunkard
 
-## Minor Harken Beyond the Blizzard 
+??? note "Details"
 
-### Exquisite Jewel Trout 
+    === "How to Acquire"
+    
+        - When attempting to obtain the berries from the man, you must get drunk with him during the drinking minigame.
+        - He is locked at Level 1.
+    
+    === "Skill - Confusion Tolerance"
+    
+        <figure markdown>
+        ![](./img/drunken-drunkard-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/drunken-drunkard.png)
+        </figure>
 
-??? warning "How to Acquire"
+### Slaying the White Wolves
 
-    - [Special Local Delicacy](../../../abyss-guides/4-isberg/requests.md#special-local-delicacy)
-    - Still testing to confirm the exact requirements
-    - Requires blizzard zones not being reversed (needs verification)
-    - Select "The air here feels dry to you" (bottom blizzard zone is reportedly bugged and does not work)
-    - Defeat all 3 waves of enemies 
+#### Warg, Commander of the Deep Snow
 
-??? "Skill - Robust Umami - HP"
+??? note "Details"
 
-    <figure markdown>
-    ![](./img/exquisite-jewel-trout-skill.png)
-    </figure>
+    === "How to Acquire"
+    
+        - [Unforgivable Wolves](../../../abyss-guides/4-isberg/request.md#unforgivable-wolves)
+        - Spare the final wolf pack on 2nd run onwards.
+    
+    === "Skill - Freeze Tolerance and Evasion"
+    
+        <figure markdown>
+        ![](./img/warg-commander-of-the-deep-snow-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/warg-commander-of-the-deep-snow.png)
+        </figure>
+    
+### Short Rest in the Cabin
 
-??? "Portrait"
+#### Bernard, Father Restored to Life 
 
-    <figure markdown>
-    ![](./img/exquisite-jewel-trout.png)
-    </figure>
+??? note "Details" 
 
-## Short Rest in the Cabin
+    === "How to Acquire"
+    
+        - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - Admiral Route
+        - Requires finding the second missing person
+    
+    === "Skill - Magic Power"
+    
+        <figure markdown>
+        ![](./img/bernard-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/bernard.png)
+        </figure>
 
-### Elliot, the Lamenting Brother 
+#### Elliot, the Lamenting Brother 
 
-??? warning "How to Acquire"
+??? note "Details" 
 
-    - [Search for Missing Royal Knights](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
-    - Princess Route
-    - Requires finding the second missing person
+    === "How to Acquire"
+    
+        - [Search for Missing Royal Knights](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - Princess Route
+        - Requires finding the second missing person
+    
+    === "Skill - Attack Power"
+    
+        <figure markdown>
+        ![](./img/elliot-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/elliot.png)
+        </figure>
 
-??? "Skill - Prized Brother's Swordmanship - Attack Power"
+#### William, the Remorseful Husband
 
-    <figure markdown>
-    ![](./img/elliot-skill.png)
-    </figure>
+??? note "Details" 
 
-??? "Portrait"
+    === "How to Acquire"
 
-    <figure markdown>
-    ![](./img/elliot.png)
-    </figure>
+        - [Search for Adherent Acquaintances](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - Pontiff Route
+        - Requires finding the second missing person
+    
+    === "Skill - Divine Power"
+    
+        <figure markdown>
+        ![](./img/william-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/william.png)
+        </figure>
 
-### William, the Remorseful Husband 
+### Truth of the Beautiful Ore 
 
-??? warning "How to Acquire"
+#### Iris, Maiden of Rockhome 
 
-    - [Search for Adherent Acquaintances](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
-    - Pontiff Route
-    - Requires finding the second missing person
+??? note "Details"
 
-??? "Skill - William's Prayer - Divine Power"
-
-    <figure markdown>
-    ![](./img/william-skill.png)
-    </figure>
-
-??? "Portrait"
-
-    <figure markdown>
-    ![](./img/william.png)
-    </figure>
-
-### Bernard, Farther Restored to Life 
-
-??? warning "How to Acquire"
-
-    - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
-    - Admiral Route
-    - Requires finding the second missing person
-
-??? "Skill - Bernard's Survival Savvy- Magic Power"
-
-    <figure markdown>
-    ![](./img/bernard-skill.png)
-    </figure>
-
-??? "Portrait"
-
-    <figure markdown>
-    ![](./img/bernard.png)
-    </figure>
-
-## Truth of the Beautiful Ore 
-
-### Iris
-
-??? warning "How to Acquire"
-
-    - [Saving Iris](../../../abyss-guides/4-isberg/important-request-gwo.md/#saving-iris)
-    - Requires True Ending 
-
-??? "Skill - Blessing of Maiden Iris - Divine Power and Resistance"
-
-    <figure markdown>
-    ![](./img/iris-skill.png)
-    </figure>
-
-??? "Portrait"
-
-    <figure markdown>
-    ![](./img/iris.png)
-    </figure>
+    === "How to Acquire"
+    
+        - [Saving Iris](../../../abyss-guides/4-isberg/important-request-gwo.md/#saving-iris)
+        - Requires True Ending 
+    
+    === "Skill - Divine Power and Resistance"
+    
+        <figure markdown>
+        ![](./img/iris-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/iris.png)
+        </figure>
 
