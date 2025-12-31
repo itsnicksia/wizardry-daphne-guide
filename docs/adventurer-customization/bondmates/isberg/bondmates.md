@@ -3,9 +3,7 @@
 !!! note "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met"
 
 !!! warning "Work in Progress. To be added soon:"
-    - Drunken Drunkard
-    - Warg, Commander of the Deep Snow
-    - Wandering Bunny 
+    - Wandering Bunny
     
 ## Snowy Forest Minor Harken 
 
@@ -49,6 +47,26 @@
     ![](./img/maya-and-marta.png)
     </figure>
 
+### Stonefolk Visiting the Gravestone
+
+??? warning "How to Acquire"
+
+    - You need the knowledge to reverse nullstones.
+    - The starting position of this bondmate is behind the mayor's house in Route 3. After reversing them, you must find them in every map location up to Route 10.
+    - The locations are randomized except for on Route 3 (X:21, Y:18) and Route 10 (X:6, Y:1)
+
+??? note "Skill - Stonefolk's Residual Essence - MP"
+
+    <figure markdown>
+    ![](./img/stonefolk-visiting-the-gravestone-skill.png)
+    </figure>
+
+??? note "Portrait"
+
+    <figure markdown>
+    ![](./img/stonefolk-visiting-the-gravestone.png)
+    </figure>
+
 ## Minor Harken Beyond the Blizzard 
 
 ### Exquisite Jewel Trout 
@@ -73,6 +91,48 @@
     ![](./img/exquisite-jewel-trout.png)
     </figure>
 
+## Lakeshore Camp
+
+### Drunken Drunkard
+
+??? warning "How to Acquire"
+
+    - When attempting to obtain the berries from the man, you must get drunk with him during the drinking minigame.
+    - He is locked at Level 1.
+
+??? note "Skill - Drunk Logic - Confusion Tolerance"
+
+    <figure markdown>
+    ![](./img/drunken-drunkard-skill.png)
+    </figure>
+
+??? note "Portrait"
+
+    <figure markdown>
+    ![](./img/drunken-drunkard.png)
+    </figure>
+
+## Slaying the White Wolves
+
+### Warg, Commander of the Deep Snow
+
+??? warning "How to Acquire"
+
+    - [Unforgivable Wolves](../../../abyss-guides/4-isberg/request.md#unforgivable-wolves)
+    - Spare the final wolf pack on 2nd run onwards.
+
+??? note "Skill - Swiftness of the Snowwolf - Freeze Tolerance and Evasion"
+
+    <figure markdown>
+    ![](./img/warg-commander-of-the-deep-snow-skill.png)
+    </figure>
+
+??? note "Portrait"
+
+    <figure markdown>
+    ![](./img/warg-commander-of-the-deep-snow.png)
+    </figure>
+    
 ## Short Rest in the Cabin
 
 ### Elliot, the Lamenting Brother 
