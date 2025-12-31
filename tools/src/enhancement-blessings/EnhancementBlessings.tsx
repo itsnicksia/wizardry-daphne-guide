@@ -4,9 +4,10 @@ import { BestEquipmentFinder } from './components/BestEquipmentFinder';
 import { AlterationLookup } from './components/AlterationLookup';
 import { BlessingMagnitude } from './components/BlessingMagnitude';
 import { FullAlterationStone } from './components/FullAlterationStone';
+import { MissingData } from './components/MissingData';
 import './enhancement-blessings.css';
 
-type TabId = 'best' | 'lookup' | 'magnitude' | 'fullAlt';
+type TabId = 'best' | 'lookup' | 'magnitude' | 'fullAlt' | 'missing';
 
 interface Tab {
     id: TabId;
@@ -18,6 +19,7 @@ const TABS: Tab[] = [
     { id: 'magnitude', label: 'Blessing Values' },
     { id: 'fullAlt', label: 'Full Alteration Stones' },
     { id: 'lookup', label: 'Find by Name' },
+    { id: 'missing', label: 'Missing Data' },
 ];
 
 export function EnhancementBlessings() {
@@ -70,6 +72,7 @@ export function EnhancementBlessings() {
                 {activeTab === 'lookup' && <AlterationLookup index={index} showJapanese={showJapanese} />}
                 {activeTab === 'magnitude' && <BlessingMagnitude />}
                 {activeTab === 'fullAlt' && <FullAlterationStone />}
+                {activeTab === 'missing' && <MissingData index={index} />}
             </div>
         </div>
     );
