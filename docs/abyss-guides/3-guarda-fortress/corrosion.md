@@ -148,13 +148,13 @@
 
 ## Enshadowed Well of Life 
 
-??? tip "Time-saving Tip" 
-    - Corrosion sentries [2], [3], and [4] can all be registered in the same run
-    - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
-    - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
-
 ??? note "Corrosion Sentry [2]"
-          
+
+    ??? tip "Time-saving Tip" 
+        - Corrosion sentries [2], [3], and [4] can all be registered in the same run
+        - Registering [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3
+        - For under-leveled or -geared players it is recommended to carry a Hook of Harken 
+
     ??? map "Location"
     
         <div align="center">
@@ -190,7 +190,7 @@
 
             Notes
 
-            !!! tip "Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain"
+            - Corrosion sentries [3] and [4] can be registered after reaching the Zone 2 Fountain
 
         === "Path to Corrosion Sentry" 
             
@@ -230,34 +230,36 @@
                 - Head through the 1-way door. Take the stairs directly in front of you to return to the Zone 1 Harken and exit 
 
             ??? note "Path to Zone 3 Harken"
-                
-                ??? map "Zone 2 - Old Secret Passage B2F"
-                
-                    <div align="center">
-                    ![](./img/zone-2-path.jpg)
-                    </div>
-        
-                ??? map "Zone 3 - Old Secret Passage B3F"
-        
-                    <div align="center">
-                    ![](./img/zone-3-path.jpg)
-                    </div>
 
-                - From the Zone 2 Fountain follow the light blue and green paths
-                - The Necrocore boss must be defeated to access the Zone 3 Harken to exit 
+                === "Map"
+                
+                    ??? map "Zone 2 - Old Secret Passage B2F"
+                    
+                        <div align="center">
+                        ![](./img/zone-2-path.jpg)
+                        </div>
+            
+                    ??? map "Zone 3 - Old Secret Passage B3F"
+            
+                        <div align="center">
+                        ![](./img/zone-3-path.jpg)
+                        </div>
+    
+                    - From the Zone 2 Fountain follow the light blue and green paths
+                    - The Necrocore boss must be defeated to access the Zone 3 Harken to exit 
 
-                    ??? danger "Boss Fight Details"
+                === "Boss: Necrocore"
         
-                        - Race: Undead
-                        - Abilities: Instant-Death
-                        
-                        Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
-                        
-                        - Gear (Helm of Malice, Skull Necklace)
-                        - Bondmates (Elequon)
-                        - Adventurer passives (Red Beard, Galina)
-                        - Harken blessings
-                        - Well of the Mind nodes for the MC
+                    - Race: Undead
+                    - Abilities: Instant-Death
+                    
+                    Necrocore is undead and requires Expulsion weapons to do full damage. Its "Spear of Doom" attack can insta-kill an adventurer. To ncrease insta-kill tolerance:
+                    
+                    - Gear (Helm of Malice, Skull Necklace)
+                    - Bondmates (Elequon)
+                    - Adventurer passives (Red Beard, Galina)
+                    - Harken blessings
+                    - Well of the Mind nodes for the MC
 
     ??? note "Cursed Wheel Entry"
     
@@ -269,7 +271,7 @@
 
 ??? warning "Important Notes"
 
-    === Boss Fight
+    === "Warning! Boss"
     
         - Registering corrosion sentries [3] and [4] requires defeating the Necrocore boss located at the end of Zone 3"
 
