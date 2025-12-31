@@ -3,6 +3,7 @@
     {
       "name": "Bronze Dagger",
       "nameJp": "青銅の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -105,6 +106,7 @@
     {
       "name": "Hardwood Staff",
       "nameJp": "硬木の杖",
+      "equipmentType": "One-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -207,6 +209,7 @@
     {
       "name": "Hardwood Bow",
       "nameJp": "硬木の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -309,6 +312,7 @@
     {
       "name": "Twisted Staff",
       "nameJp": "ねじれた杖",
+      "equipmentType": "One-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -411,6 +415,7 @@
     {
       "name": "Bronze Sword",
       "nameJp": "青銅の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -513,6 +518,7 @@
     {
       "name": "Bronze One-Handed Axe",
       "nameJp": "青銅の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -615,6 +621,7 @@
     {
       "name": "Bronze Mace",
       "nameJp": "青銅の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -717,6 +724,7 @@
     {
       "name": "Hardwood Two-Handed Staff",
       "nameJp": "硬木の両手杖",
+      "equipmentType": "Two-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -819,6 +827,7 @@
     {
       "name": "Sickly Mace",
       "nameJp": "病めるメイス",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -921,6 +930,7 @@
     {
       "name": "Bronze Greatsword",
       "nameJp": "青銅の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -1023,6 +1033,7 @@
     {
       "name": "Bronze Two-Handed Spear",
       "nameJp": "青銅の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -1125,6 +1136,7 @@
     {
       "name": "Bronze Two-Handed Axe",
       "nameJp": "青銅の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -1227,6 +1239,7 @@
     {
       "name": "Bronze Two-Handed Mace",
       "nameJp": "青銅の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -1329,6 +1342,7 @@
     {
       "name": "Leather Small Shield",
       "nameJp": "革の小盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -1431,6 +1445,7 @@
     {
       "name": "Leather Hat",
       "nameJp": "革の帽子",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -1533,6 +1548,7 @@
     {
       "name": "Leather Robe",
       "nameJp": "革のローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -1635,6 +1651,7 @@
     {
       "name": "Leather Gloves",
       "nameJp": "革の手袋",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -1737,6 +1754,7 @@
     {
       "name": "Leather Shoes",
       "nameJp": "革の靴",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -1839,6 +1857,7 @@
     {
       "name": "Thief's Boots",
       "nameJp": "盗賊のブーツ",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -1941,6 +1960,7 @@
     {
       "name": "Gemstone Gloves",
       "nameJp": "原石の手袋",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -2043,6 +2063,7 @@
     {
       "name": "Bronze Shield",
       "nameJp": "青銅の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -2145,6 +2166,7 @@
     {
       "name": "Bronze Light Helmet",
       "nameJp": "青銅の軽兜",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -2247,6 +2269,7 @@
     {
       "name": "Bronze Light Armor",
       "nameJp": "青銅の軽鎧",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -2349,6 +2372,7 @@
     {
       "name": "Bronze Light Gauntlets",
       "nameJp": "青銅の軽篭手",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -2451,6 +2475,7 @@
     {
       "name": "Bronze Light Armor Boots",
       "nameJp": "青銅の軽足鎧",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -2553,6 +2578,7 @@
     {
       "name": "Luxurious Leather Armor",
       "nameJp": "豪華な革鎧",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -2655,6 +2681,7 @@
     {
       "name": "Bronze Large Shield",
       "nameJp": "青銅の大盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -2757,6 +2784,7 @@
     {
       "name": "Bronze Heavy Helmet",
       "nameJp": "青銅の重兜",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -2859,6 +2887,7 @@
     {
       "name": "Bronze Heavy Armor",
       "nameJp": "青銅の重鎧",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -2961,6 +2990,7 @@
     {
       "name": "Bronze Heavy Gauntlets",
       "nameJp": "青銅の重篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -3063,6 +3093,7 @@
     {
       "name": "Bronze Heavy Armor Boots",
       "nameJp": "青銅の重足鎧",
+      "equipmentType": "Heavy Boots",
       "tiers": [
         {
           "tier": 1,
@@ -3165,6 +3196,7 @@
     {
       "name": "Bronze Ring",
       "nameJp": "青銅の指輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -3267,6 +3299,7 @@
     {
       "name": "Rabbit's Tail",
       "nameJp": "兎の尻尾",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -3369,6 +3402,7 @@
     {
       "name": "Searcher Ring",
       "nameJp": "サーチャーリング",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -3471,6 +3505,7 @@
     {
       "name": "War Princess Ring",
       "nameJp": "戦姫の指輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -3573,6 +3608,7 @@
     {
       "name": "Iron Dagger",
       "nameJp": "鉄の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -3675,6 +3711,7 @@
     {
       "name": "Ancient Wood Staff",
       "nameJp": "古木の杖",
+      "equipmentType": "One-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -3777,6 +3814,7 @@
     {
       "name": "Ancient Wood Bow",
       "nameJp": "古木の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -3879,6 +3917,7 @@
     {
       "name": "Iron Sword",
       "nameJp": "鉄の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -3981,6 +4020,7 @@
     {
       "name": "Iron One-Handed Axe",
       "nameJp": "鉄の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -4083,6 +4123,7 @@
     {
       "name": "Iron Mace",
       "nameJp": "鉄の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -4185,6 +4226,7 @@
     {
       "name": "Ancient Wood Two-Handed Staff",
       "nameJp": "古木の両手杖",
+      "equipmentType": "Two-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -4287,6 +4329,7 @@
     {
       "name": "Iron Greatsword",
       "nameJp": "鉄の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -4389,6 +4432,7 @@
     {
       "name": "Iron Two-Handed Spear",
       "nameJp": "鉄の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -4491,6 +4535,7 @@
     {
       "name": "Iron Two-Handed Axe",
       "nameJp": "鉄の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -4593,6 +4638,7 @@
     {
       "name": "Iron Two-Handed Mace",
       "nameJp": "鉄の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -4695,6 +4741,7 @@
     {
       "name": "Beastskin Small Shield",
       "nameJp": "獣革の小盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -4797,6 +4844,7 @@
     {
       "name": "Beastskin Hat",
       "nameJp": "獣革の帽子",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -4899,6 +4947,7 @@
     {
       "name": "Beastskin Robe",
       "nameJp": "獣革のローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -5001,6 +5050,7 @@
     {
       "name": "Beastskin Gloves",
       "nameJp": "獣革の手袋",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -5103,6 +5153,7 @@
     {
       "name": "Beastskin Shoes",
       "nameJp": "獣革の靴",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -5205,6 +5256,7 @@
     {
       "name": "Iron Shield",
       "nameJp": "鉄の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -5307,6 +5359,7 @@
     {
       "name": "Iron Light Helmet",
       "nameJp": "鉄の軽兜",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -5409,6 +5462,7 @@
     {
       "name": "Iron Light Armor",
       "nameJp": "鉄の軽鎧",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -5511,6 +5565,7 @@
     {
       "name": "Iron Light Gauntlets",
       "nameJp": "鉄の軽篭手",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -5613,6 +5668,7 @@
     {
       "name": "Iron Light Armor Boots",
       "nameJp": "鉄の軽足鎧",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -5715,6 +5771,7 @@
     {
       "name": "Iron Large Shield",
       "nameJp": "鉄の大盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -5817,6 +5874,7 @@
     {
       "name": "Iron Heavy Helmet",
       "nameJp": "鉄の重兜",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -5919,6 +5977,7 @@
     {
       "name": "Iron Heavy Armor",
       "nameJp": "鉄の重鎧",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -6021,6 +6080,7 @@
     {
       "name": "Iron Heavy Gauntlets",
       "nameJp": "鉄の重篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -6123,6 +6183,7 @@
     {
       "name": "Iron Heavy Armor Boots",
       "nameJp": "鉄の重足鎧",
+      "equipmentType": "Heavy Boots",
       "tiers": [
         {
           "tier": 1,
@@ -6225,6 +6286,7 @@
     {
       "name": "Iron Ring",
       "nameJp": "鉄の指輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -6327,6 +6389,7 @@
     {
       "name": "Dagger of Undead Bane",
       "nameJp": "退魔の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -6429,6 +6492,7 @@
     {
       "name": "Sword of Undead Bane",
       "nameJp": "退魔の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -6531,6 +6595,7 @@
     {
       "name": "One-Handed Axe of Undead Bane",
       "nameJp": "退魔の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -6633,6 +6698,7 @@
     {
       "name": "Mace of Undead Bane",
       "nameJp": "退魔の棘鎚",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -6735,6 +6801,7 @@
     {
       "name": "The Greatsword of Undead Bane",
       "nameJp": "退魔の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -6837,6 +6904,7 @@
     {
       "name": "Two-Handed Spear of Undead Bane",
       "nameJp": "退魔の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -6939,6 +7007,7 @@
     {
       "name": "Two-Handed Axe of Undead Bane",
       "nameJp": "退魔の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -7041,6 +7110,7 @@
     {
       "name": "Two-Handed Mace of Undead Bane",
       "nameJp": "退魔の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -7143,6 +7213,7 @@
     {
       "name": "Bow of Undead Bane",
       "nameJp": "退魔の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -7245,6 +7316,7 @@
     {
       "name": "Steel Dagger",
       "nameJp": "鋼の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -7347,6 +7419,7 @@
     {
       "name": "Spirit Wood Staff",
       "nameJp": "霊木の杖",
+      "equipmentType": "One-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -7449,6 +7522,7 @@
     {
       "name": "Spirit Wood Bow",
       "nameJp": "霊木の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -7551,6 +7625,7 @@
     {
       "name": "Mage Knife",
       "nameJp": "メイジナイフ",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -7653,6 +7728,7 @@
     {
       "name": "Dagger of Corrosion",
       "nameJp": "侵食の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -7755,6 +7831,7 @@
     {
       "name": "Steel Sword",
       "nameJp": "鋼の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -7857,6 +7934,7 @@
     {
       "name": "Steel One-Handed Axe",
       "nameJp": "鋼の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -7959,6 +8037,7 @@
     {
       "name": "Steel Mace",
       "nameJp": "鋼の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -8061,6 +8140,7 @@
     {
       "name": "Spirit Wood Two-Handed Staff",
       "nameJp": "霊木の両手杖",
+      "equipmentType": "Two-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -8163,6 +8243,7 @@
     {
       "name": "Spiritual Staff",
       "nameJp": "スペリチュアルスタッフ",
+      "equipmentType": "Two-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -8265,6 +8346,7 @@
     {
       "name": "Holy Wand",
       "nameJp": "ホーリーウォンド",
+      "equipmentType": "Two-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -8367,6 +8449,7 @@
     {
       "name": "Steel Greatsword",
       "nameJp": "鋼の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -8469,6 +8552,7 @@
     {
       "name": "Steel Two-Handed Spear",
       "nameJp": "鋼の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -8571,6 +8655,7 @@
     {
       "name": "Steel Two-Handed Axe",
       "nameJp": "鋼の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -8673,6 +8758,7 @@
     {
       "name": "Steel Two-Handed Mace",
       "nameJp": "鋼の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -8775,6 +8861,7 @@
     {
       "name": "Scaly Leather Small Shield",
       "nameJp": "うろこ革の小盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -8877,6 +8964,7 @@
     {
       "name": "Scaly Leather Hat",
       "nameJp": "うろこ革の帽子",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -8979,6 +9067,7 @@
     {
       "name": "Scaly Leather Robe",
       "nameJp": "うろこ革のローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -9081,6 +9170,7 @@
     {
       "name": "Scaly Leather Gloves",
       "nameJp": "うろこ革の手袋",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -9183,6 +9273,7 @@
     {
       "name": "Scaly Leather Shoes",
       "nameJp": "うろこ革の靴",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -9285,6 +9376,7 @@
     {
       "name": "Mage's Hood",
       "nameJp": "魔術師のフード",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -9387,6 +9479,7 @@
     {
       "name": "Mage's Robe",
       "nameJp": "魔術師のローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -9489,6 +9582,7 @@
     {
       "name": "Mage Shield",
       "nameJp": "メイジシールド",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -9591,6 +9685,7 @@
     {
       "name": "Faith Guardian Shield",
       "nameJp": "信仰の守護盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -9693,6 +9788,7 @@
     {
       "name": "Steel Shield",
       "nameJp": "鋼の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -9795,6 +9891,7 @@
     {
       "name": "Steel Light Helmet",
       "nameJp": "鋼の軽兜",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -9897,6 +9994,7 @@
     {
       "name": "Steel Light Armor",
       "nameJp": "鋼の軽鎧",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -9999,6 +10097,7 @@
     {
       "name": "Steel Light Gauntlets",
       "nameJp": "鋼の軽篭手",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -10101,6 +10200,7 @@
     {
       "name": "Steel Light Armor Boots",
       "nameJp": "鋼の軽足鎧",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -10203,6 +10303,7 @@
     {
       "name": "Steel Large Shield",
       "nameJp": "鋼の大盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -10305,6 +10406,7 @@
     {
       "name": "Steel Heavy Helmet",
       "nameJp": "鋼の重兜",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -10407,6 +10509,7 @@
     {
       "name": "Steel Heavy Armor",
       "nameJp": "鋼の重鎧",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -10509,6 +10612,7 @@
     {
       "name": "Steel Heavy Gauntlets",
       "nameJp": "鋼の重篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -10611,6 +10715,7 @@
     {
       "name": "Steel Heavy Armor Boots",
       "nameJp": "鋼の重足鎧",
+      "equipmentType": "Heavy Boots",
       "tiers": [
         {
           "tier": 1,
@@ -10713,6 +10818,7 @@
     {
       "name": "Covenant Shield",
       "nameJp": "誓約の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -10815,6 +10921,7 @@
     {
       "name": "Steel Ring",
       "nameJp": "鋼の指輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -10917,6 +11024,7 @@
     {
       "name": "Protection Charm",
       "nameJp": "プロテクションチャーム",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -11019,6 +11127,7 @@
     {
       "name": "Dagger of the Water Drop",
       "nameJp": "水零の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -11121,6 +11230,7 @@
     {
       "name": "Bow of the Water Drop",
       "nameJp": "水零の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -11223,6 +11333,7 @@
     {
       "name": "Sword of the Water Drop",
       "nameJp": "水零の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -11325,6 +11436,7 @@
     {
       "name": "Light Axe of the Water Drop",
       "nameJp": "水零の軽斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -11427,6 +11539,7 @@
     {
       "name": "Warmace of the Water Drop",
       "nameJp": "水零の戦棍",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -11529,6 +11642,7 @@
     {
       "name": "Two-Handed Sword of the Water Drop",
       "nameJp": "水零の両手剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -11631,6 +11745,7 @@
     {
       "name": "Heavy Spear of the Water Drop",
       "nameJp": "水零の重槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -11733,6 +11848,7 @@
     {
       "name": "Two-Handed Axe of the Water Drop",
       "nameJp": "水零の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -11835,6 +11951,7 @@
     {
       "name": "Heavy Mace of the Water Drop",
       "nameJp": "水零の重鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -11937,6 +12054,7 @@
     {
       "name": "Aquatic Blue Headcloth",
       "nameJp": "水縹のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -12039,6 +12157,7 @@
     {
       "name": "Aquatic Blue Cloak",
       "nameJp": "水縹のマント",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -12141,6 +12260,7 @@
     {
       "name": "Aquatic Blue Helm",
       "nameJp": "水縹の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -12243,6 +12363,7 @@
     {
       "name": "Aquatic Blue Mail",
       "nameJp": "水縹の甲冑",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -12345,6 +12466,7 @@
     {
       "name": "Aquatic Blue Heavy Helm",
       "nameJp": "水縹の重冑",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -12447,6 +12569,7 @@
     {
       "name": "Aquatic Blue Heavy Mail",
       "nameJp": "水縹の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -12549,6 +12672,7 @@
     {
       "name": "Aquatic Blue Amulet",
       "nameJp": "水縹のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -12651,6 +12775,7 @@
     {
       "name": "Dagger of the Soil",
       "nameJp": "土塊の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -12753,6 +12878,7 @@
     {
       "name": "Bow of the Soil",
       "nameJp": "土塊の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -12855,6 +12981,7 @@
     {
       "name": "Sword of the Soil",
       "nameJp": "土塊の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -12957,6 +13084,7 @@
     {
       "name": "Light Axe of the Soil",
       "nameJp": "土塊の軽斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -13059,6 +13187,7 @@
     {
       "name": "Mace of the Soil",
       "nameJp": "土塊の戦棍",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -13161,6 +13290,7 @@
     {
       "name": "Two-Handed Sword of the Soil",
       "nameJp": "土塊の両手剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -13263,6 +13393,7 @@
     {
       "name": "Heavy Spear of the Soil",
       "nameJp": "土塊の重槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -13365,6 +13496,7 @@
     {
       "name": "Two-Handed Axe of the Soil",
       "nameJp": "土塊の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -13467,6 +13599,7 @@
     {
       "name": "Heavy Mace of the Soil",
       "nameJp": "土塊の重鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -13569,6 +13702,7 @@
     {
       "name": "Ebonsteel Dagger",
       "nameJp": "冥鋼の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -13671,6 +13805,7 @@
     {
       "name": "Arcane Rod",
       "nameJp": "アーケインロッド",
+      "equipmentType": "One-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -13773,6 +13908,7 @@
     {
       "name": "Arcane Elm Bow",
       "nameJp": "アーケインエルムボウ",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -13875,6 +14011,7 @@
     {
       "name": "Enervating Staff",
       "nameJp": "脱力の杖",
+      "equipmentType": "One-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -13977,6 +14114,7 @@
     {
       "name": "Ebonsteel Sword",
       "nameJp": "冥鋼の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -14079,6 +14217,7 @@
     {
       "name": "Ebonsteel One-Handed Axe",
       "nameJp": "冥鋼の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -14181,6 +14320,7 @@
     {
       "name": "Ebonsteel Mace",
       "nameJp": "冥鋼の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -14283,6 +14423,7 @@
     {
       "name": "Arcane Staff",
       "nameJp": "アーケインスタッフ",
+      "equipmentType": "Two-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -14385,6 +14526,7 @@
     {
       "name": "Raucous Mace",
       "nameJp": "大騒ぎのメイス",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -14487,6 +14629,7 @@
     {
       "name": "Ebonsteel Greatsword",
       "nameJp": "冥鋼の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -14589,6 +14732,7 @@
     {
       "name": "Ebonsteel Two-Handed Spear",
       "nameJp": "冥鋼の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -14691,6 +14835,7 @@
     {
       "name": "Ebonsteel Two-Handed Axe",
       "nameJp": "冥鋼の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -14793,6 +14938,7 @@
     {
       "name": "Ebonsteel Two-Handed Mace",
       "nameJp": "冥鋼の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -14895,6 +15041,7 @@
     {
       "name": "Veil Shield",
       "nameJp": "ヴェイルシールド",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -14997,6 +15144,7 @@
     {
       "name": "Veil Hat",
       "nameJp": "ヴェイルハット",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -15099,6 +15247,7 @@
     {
       "name": "Veil Robe",
       "nameJp": "ヴェイルローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -15201,6 +15350,7 @@
     {
       "name": "Veil Gloves",
       "nameJp": "ヴェイルグローブ",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -15303,6 +15453,7 @@
     {
       "name": "Veil Boots",
       "nameJp": "ヴェイルブーツ",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -15405,6 +15556,7 @@
     {
       "name": "Circlet",
       "nameJp": "サークレット",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -15507,6 +15659,7 @@
     {
       "name": "Grave Robber's Gloves",
       "nameJp": "墓荒らしの手袋",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -15609,6 +15762,7 @@
     {
       "name": "Magic Spring Robe",
       "nameJp": "魔泉のローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -15711,6 +15865,7 @@
     {
       "name": "Ebonsteel Shield",
       "nameJp": "冥鋼の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -15813,6 +15968,7 @@
     {
       "name": "Ebonsteel Light Helmet",
       "nameJp": "冥鋼の軽兜",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -15915,6 +16071,7 @@
     {
       "name": "Ebonsteel Light Armor",
       "nameJp": "冥鋼の軽鎧",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -16017,6 +16174,7 @@
     {
       "name": "Ebonsteel Light Gauntlets",
       "nameJp": "冥鋼の軽篭手",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -16119,6 +16277,7 @@
     {
       "name": "Ebonsteel Light Armor Boots",
       "nameJp": "冥鋼の軽足鎧",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -16221,6 +16380,7 @@
     {
       "name": "Antivenom Shield",
       "nameJp": "抗毒の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -16323,6 +16483,7 @@
     {
       "name": "Ebonsteel Large Shield",
       "nameJp": "冥鋼の大盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -16425,6 +16586,7 @@
     {
       "name": "Ebonsteel Heavy Helmet",
       "nameJp": "冥鋼の重兜",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -16527,6 +16689,7 @@
     {
       "name": "Ebonsteel Heavy Armor",
       "nameJp": "冥鋼の重鎧",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -16629,6 +16792,7 @@
     {
       "name": "Ebonsteel Heavy Gauntlets",
       "nameJp": "冥鋼の重篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -16731,6 +16895,7 @@
     {
       "name": "Ebonsteel Heavy Armor Boots",
       "nameJp": "冥鋼の重足鎧",
+      "equipmentType": "Heavy Boots",
       "tiers": [
         {
           "tier": 1,
@@ -16833,6 +16998,7 @@
     {
       "name": "Ebonsteel Ring",
       "nameJp": "冥鋼の指輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -16935,6 +17101,7 @@
     {
       "name": "Safety Ring",
       "nameJp": "セーフティリング",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -17037,6 +17204,7 @@
     {
       "name": "Goddess Earring",
       "nameJp": "女神のピアス",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -17139,6 +17307,7 @@
     {
       "name": "Hunting Arrow",
       "nameJp": "ハンティングアロー",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -17241,6 +17410,7 @@
     {
       "name": "Hunting Hatchet",
       "nameJp": "ハンティングハチェット",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -17343,6 +17513,7 @@
     {
       "name": "Hunting Axe",
       "nameJp": "ハンティングアクス",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -17445,6 +17616,7 @@
     {
       "name": "Wilderness Gloves",
       "nameJp": "ウィルダネスグローブ",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -17547,6 +17719,7 @@
     {
       "name": "Wilderness Guard",
       "nameJp": "ウィルダネスガード",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -17649,6 +17822,7 @@
     {
       "name": "Wilderness Gauntlet",
       "nameJp": "ウィルダネスガントレット",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -17751,6 +17925,7 @@
     {
       "name": "Demon Slayer Dagger",
       "nameJp": "悪魔殺しの短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -17853,6 +18028,7 @@
     {
       "name": "Demon Slayer Sword",
       "nameJp": "悪魔殺しの剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -17955,6 +18131,7 @@
     {
       "name": "Demon Slayer Greatsword",
       "nameJp": "悪魔殺しの大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -18057,6 +18234,7 @@
     {
       "name": "Exorcism Gown",
       "nameJp": "エクソシズムガウン",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -18159,6 +18337,7 @@
     {
       "name": "Exorcism Mail",
       "nameJp": "エクソシズムメイル",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -18261,6 +18440,7 @@
     {
       "name": "Exorcism Plate",
       "nameJp": "エクソシズムプレート",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -18363,6 +18543,7 @@
     {
       "name": "Dagger of Expulsion",
       "nameJp": "破魔の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -18465,6 +18646,7 @@
     {
       "name": "Bow of Expulsion",
       "nameJp": "破魔の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -18567,6 +18749,7 @@
     {
       "name": "Sword of Expulsion",
       "nameJp": "破魔の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -18669,6 +18852,7 @@
     {
       "name": "One-Handed Axe of Expulsion",
       "nameJp": "破魔の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -18771,6 +18955,7 @@
     {
       "name": "Mace of Expulsion",
       "nameJp": "破魔の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -18873,6 +19058,7 @@
     {
       "name": "Greatsword of Expulsion",
       "nameJp": "破魔の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -18975,6 +19161,7 @@
     {
       "name": "Two-Handed Spear of Expulsion",
       "nameJp": "破魔の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -19077,6 +19264,7 @@
     {
       "name": "Two-Handed Axe of Expulsion",
       "nameJp": "破魔の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -19179,6 +19367,7 @@
     {
       "name": "Two-Handed Mace of Expulsion",
       "nameJp": "破魔の両手鎚",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -19281,6 +19470,7 @@
     {
       "name": "Holy Knight Shield",
       "nameJp": "ホーリーナイトシールド",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -19383,6 +19573,7 @@
     {
       "name": "Holy Knight Plate",
       "nameJp": "ホーリーナイトプレート",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -19485,6 +19676,7 @@
     {
       "name": "Dagger of Eternal Darkness",
       "nameJp": "常闇の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -19587,6 +19779,7 @@
     {
       "name": "Bow of Eternal Darkness",
       "nameJp": "常闇の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -19689,6 +19882,7 @@
     {
       "name": "Sword of Eternal Darkness",
       "nameJp": "常闇の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -19791,6 +19985,7 @@
     {
       "name": "Light Axe of Eternal Darkness",
       "nameJp": "常闇の軽斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -19893,6 +20088,7 @@
     {
       "name": "Warmace of Eternal Darkness",
       "nameJp": "常闇の戦棍",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -19995,6 +20191,7 @@
     {
       "name": "Greatsword of Eternal Darkness",
       "nameJp": "常闇の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -20097,6 +20294,7 @@
     {
       "name": "Heavy Spear of Eternal Darkness",
       "nameJp": "常闇の重槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -20199,6 +20397,7 @@
     {
       "name": "Two-Handed Axe of Eternal Darkness",
       "nameJp": "常闇の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -20301,6 +20500,7 @@
     {
       "name": "Heavy Mace of Eternal Darkness",
       "nameJp": "常闇の重鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -20403,6 +20603,7 @@
     {
       "name": "Umbral Headcloth",
       "nameJp": "幽闇のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -20505,6 +20706,7 @@
     {
       "name": "Umbral Cloak",
       "nameJp": "幽闇のマント",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -20607,6 +20809,7 @@
     {
       "name": "Umbral Helm",
       "nameJp": "幽闇の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -20709,6 +20912,7 @@
     {
       "name": "Umbral Mail",
       "nameJp": "幽闇の甲冑",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -20811,6 +21015,7 @@
     {
       "name": "Umbral Heavy Helmet",
       "nameJp": "幽闇の重兜",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -20913,6 +21118,7 @@
     {
       "name": "Umbral Heavy Mail",
       "nameJp": "幽闇の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -21015,6 +21221,7 @@
     {
       "name": "Umbral Amulet",
       "nameJp": "幽闇のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -21117,6 +21324,7 @@
     {
       "name": "Covert Kunai",
       "nameJp": "隠密の苦無",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -21219,6 +21427,7 @@
     {
       "name": "Covert Blade",
       "nameJp": "隠密の刃",
+      "equipmentType": "Ninja Blade",
       "tiers": [
         {
           "tier": 1,
@@ -21321,6 +21530,7 @@
     {
       "name": "Covert Garb",
       "nameJp": "隠密の装束",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -21423,6 +21633,7 @@
     {
       "name": "Covert Arm Wraps",
       "nameJp": "隠密の腕巻",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -21525,6 +21736,7 @@
     {
       "name": "Covert Ninja Tabi",
       "nameJp": "隠密の忍足袋",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -21627,6 +21839,7 @@
     {
       "name": "Exquisite Katana",
       "nameJp": "上々作の刀",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -21729,6 +21942,7 @@
     {
       "name": "Covert Cowl",
       "nameJp": "隠密の頭巾",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -21831,6 +22045,7 @@
     {
       "name": "Silver Dagger",
       "nameJp": "銀の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -21933,6 +22148,7 @@
     {
       "name": "Rod of Splendor",
       "nameJp": "エクラロッド",
+      "equipmentType": "One-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -22035,6 +22251,7 @@
     {
       "name": "Longbow of Splendor",
       "nameJp": "エクラロングボウ",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -22137,6 +22354,7 @@
     {
       "name": "Beclouded Kunai",
       "nameJp": "朧の苦無",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -22239,6 +22457,7 @@
     {
       "name": "Silver Sword",
       "nameJp": "銀の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -22341,6 +22560,7 @@
     {
       "name": "Silver One-Handed Axe",
       "nameJp": "銀の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -22443,6 +22663,7 @@
     {
       "name": "Silver Mace",
       "nameJp": "銀の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -22545,6 +22766,7 @@
     {
       "name": "Staff of Splendor",
       "nameJp": "エクラスタッフ",
+      "equipmentType": "Two-Handed Staff",
       "tiers": [
         {
           "tier": 1,
@@ -22647,6 +22869,7 @@
     {
       "name": "Beclouded Blade",
       "nameJp": "朧の刃",
+      "equipmentType": "Ninja Blade",
       "tiers": [
         {
           "tier": 1,
@@ -22749,6 +22972,7 @@
     {
       "name": "Masterwork Katana",
       "nameJp": "最上作の刀",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -22851,6 +23075,7 @@
     {
       "name": "Silver Greatsword",
       "nameJp": "銀の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -22953,6 +23178,7 @@
     {
       "name": "Silver Two-Handed Spear",
       "nameJp": "銀の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -23055,6 +23281,7 @@
     {
       "name": "Silver Two-Handed Axe",
       "nameJp": "銀の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -23157,6 +23384,7 @@
     {
       "name": "Silver Two-Handed Mace",
       "nameJp": "銀の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -23259,6 +23487,7 @@
     {
       "name": "Blackwing Small Shield",
       "nameJp": "黒翼の小盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -23361,6 +23590,7 @@
     {
       "name": "Blackwing Hat",
       "nameJp": "黒翼の帽子",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -23463,6 +23693,7 @@
     {
       "name": "Blackwing Robe",
       "nameJp": "黒翼のローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -23565,6 +23796,7 @@
     {
       "name": "Blackwing Gloves",
       "nameJp": "黒翼の手袋",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -23667,6 +23899,7 @@
     {
       "name": "Silver Light Armor Boots",
       "nameJp": "銀の軽足鎧",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -23769,6 +24002,7 @@
     {
       "name": "Beclouded Cowl",
       "nameJp": "朧の頭巾",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -23871,6 +24105,7 @@
     {
       "name": "Beclouded Garb",
       "nameJp": "朧の装束",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -23973,6 +24208,7 @@
     {
       "name": "Beclouded Arm Wraps",
       "nameJp": "朧の腕巻",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -24075,6 +24311,7 @@
     {
       "name": "Beclouded Ninja Tabi",
       "nameJp": "朧の忍足袋",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -24177,6 +24414,7 @@
     {
       "name": "Warped Shield",
       "nameJp": "歪んだ盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -24279,6 +24517,7 @@
     {
       "name": "Brave Shoes",
       "nameJp": "ブレイブシューズ",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -24381,6 +24620,7 @@
     {
       "name": "Silver Shield",
       "nameJp": "銀の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -24483,6 +24723,7 @@
     {
       "name": "Silver Light Helmet",
       "nameJp": "銀の軽兜",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -24585,6 +24826,7 @@
     {
       "name": "Silver Light Armor",
       "nameJp": "銀の軽鎧",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -24687,6 +24929,7 @@
     {
       "name": "Silver Light Gauntlets",
       "nameJp": "銀の軽篭手",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -24789,6 +25032,7 @@
     {
       "name": "Chainmail",
       "nameJp": "鎖帷子",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -24891,6 +25135,7 @@
     {
       "name": "Deep-Snow Straw Sandals",
       "nameJp": "深雪の草鞋",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -24993,6 +25238,7 @@
     {
       "name": "Silver Large Shield",
       "nameJp": "銀の大盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -25095,6 +25341,7 @@
     {
       "name": "Silver Heavy Helmet",
       "nameJp": "銀の重兜",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -25197,6 +25444,7 @@
     {
       "name": "Silver Heavy Armor",
       "nameJp": "銀の重鎧",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -25299,6 +25547,7 @@
     {
       "name": "Silver Heavy Gauntlets",
       "nameJp": "銀の重篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -25401,6 +25650,7 @@
     {
       "name": "Silver Heavy Armor Boots",
       "nameJp": "銀の重足鎧",
+      "equipmentType": "Heavy Boots",
       "tiers": [
         {
           "tier": 1,
@@ -25503,6 +25753,7 @@
     {
       "name": "Silver Ring",
       "nameJp": "銀の指輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -25605,6 +25856,7 @@
     {
       "name": "Miner's Protection Ring",
       "nameJp": "坑夫の守り輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -25707,6 +25959,7 @@
     {
       "name": "Beast Killer",
       "nameJp": "ビーストキラー",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -25809,6 +26062,7 @@
     {
       "name": "Beast Buster",
       "nameJp": "ビーストバスター",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -25911,6 +26165,7 @@
     {
       "name": "Beast Breaker",
       "nameJp": "ビーストブレイカー",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -26013,6 +26268,7 @@
     {
       "name": "Beast Crusher",
       "nameJp": "ビーストクラッシャー",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -26115,6 +26371,7 @@
     {
       "name": "Beast Penetrator",
       "nameJp": "ビーストペネトレイター",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -26217,6 +26474,7 @@
     {
       "name": "Beast Eraser",
       "nameJp": "ビーストイレイザー",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -26319,6 +26577,7 @@
     {
       "name": "Beast Hunt",
       "nameJp": "獣狩り",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -26421,6 +26680,7 @@
     {
       "name": "Earthrend Dagger",
       "nameJp": "地裂の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -26523,6 +26783,7 @@
     {
       "name": "Earthrend Bow",
       "nameJp": "地裂の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -26625,6 +26886,7 @@
     {
       "name": "Earthrend Sword",
       "nameJp": "地裂の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -26727,6 +26989,7 @@
     {
       "name": "Earthrend One-Handed Axe",
       "nameJp": "地裂の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -26829,6 +27092,7 @@
     {
       "name": "Earthrend Mace",
       "nameJp": "地裂の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -26931,6 +27195,7 @@
     {
       "name": "Earthrend Greatsword",
       "nameJp": "地裂の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -27033,6 +27298,7 @@
     {
       "name": "Earthrend Two-Handed Spear",
       "nameJp": "地裂の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -27135,6 +27401,7 @@
     {
       "name": "Earthrend Two-Handed Axe",
       "nameJp": "地裂の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -27237,6 +27504,7 @@
     {
       "name": "Earthrend Two-Handed Mace",
       "nameJp": "地裂の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -27339,6 +27607,7 @@
     {
       "name": "Earthrend Headcloth",
       "nameJp": "地裂のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -27441,6 +27710,7 @@
     {
       "name": "Earthrend Cloak",
       "nameJp": "地裂のマント",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -27543,6 +27813,7 @@
     {
       "name": "Earthrend Helm",
       "nameJp": "地裂の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -27645,6 +27916,7 @@
     {
       "name": "Earthrend Mail",
       "nameJp": "地裂の甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -27747,6 +28019,7 @@
     {
       "name": "Earthrend Heavy Helm",
       "nameJp": "地裂の重冑",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -27849,6 +28122,7 @@
     {
       "name": "Earthrend Heavy Mail",
       "nameJp": "地裂の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -27951,6 +28225,7 @@
     {
       "name": "Earthrend Amulet",
       "nameJp": "地裂のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -28053,6 +28328,7 @@
     {
       "name": "Murakumo Kunai",
       "nameJp": "叢雲の苦無",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -28155,6 +28431,7 @@
     {
       "name": "Murakumo Blade",
       "nameJp": "叢雲の刃",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -28257,6 +28534,7 @@
     {
       "name": "Demon Blade Oniyuki",
       "nameJp": "妖刀鬼雪",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -28359,6 +28637,7 @@
     {
       "name": "Kagura Moon",
       "nameJp": "神楽月",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -28461,6 +28740,7 @@
     {
       "name": "Ninja Black Inro",
       "nameJp": "忍の黒印籠",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -28563,6 +28843,7 @@
     {
       "name": "Blackwing Boots",
       "nameJp": "黒翼のブーツ",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -28665,6 +28946,7 @@
     {
       "name": "Dagger of Flame",
       "nameJp": "火炎の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -28767,6 +29049,7 @@
     {
       "name": "Bow of Flame",
       "nameJp": "火炎の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -28869,6 +29152,7 @@
     {
       "name": "Sword of Flame",
       "nameJp": "火炎の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -28971,6 +29255,7 @@
     {
       "name": "Light Axe of Flame",
       "nameJp": "火炎の軽斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -29073,6 +29358,7 @@
     {
       "name": "Warmace of Flame",
       "nameJp": "火炎の戦棍",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -29175,6 +29461,7 @@
     {
       "name": "Two-Handed Sword of the Flame",
       "nameJp": "火炎の両手剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -29277,6 +29564,7 @@
     {
       "name": "Heavy Spear of Flame",
       "nameJp": "火炎の重槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -29379,6 +29667,7 @@
     {
       "name": "Two-Handed Axe of Flame",
       "nameJp": "火炎の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -29481,6 +29770,7 @@
     {
       "name": "Heavy Mace of Flame",
       "nameJp": "火炎の重鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -29583,6 +29873,7 @@
     {
       "name": "Red Fired Headcloth",
       "nameJp": "焔紅のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -29685,6 +29976,7 @@
     {
       "name": "Red Fired Cloak",
       "nameJp": "焔紅のマント",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -29787,6 +30079,7 @@
     {
       "name": "Red Fired Helm",
       "nameJp": "焔紅の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -29889,6 +30182,7 @@
     {
       "name": "Red Fired Mail",
       "nameJp": "焔紅の甲冑",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -29991,6 +30285,7 @@
     {
       "name": "Red Fired Heavy Helm",
       "nameJp": "焔紅の重冑",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -30093,6 +30388,7 @@
     {
       "name": "Red Fired Heavy Mail",
       "nameJp": "焔紅の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -30195,6 +30491,7 @@
     {
       "name": "Red Fired Amulet",
       "nameJp": "焔紅のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -30297,6 +30594,7 @@
     {
       "name": "Dagger of the Gale",
       "nameJp": "疾風の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -30399,6 +30697,7 @@
     {
       "name": "Bow of the Gale",
       "nameJp": "疾風の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -30501,6 +30800,7 @@
     {
       "name": "Sword of the Gale",
       "nameJp": "疾風の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -30603,6 +30903,7 @@
     {
       "name": "Light Axe of the Gale",
       "nameJp": "疾風の軽斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -30705,6 +31006,7 @@
     {
       "name": "Warmace of the Gale",
       "nameJp": "疾風の戦棍",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -30807,6 +31109,7 @@
     {
       "name": "Two-Handed Sword of the Gale",
       "nameJp": "疾風の両手剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -30909,6 +31212,7 @@
     {
       "name": "Heavy Spear of the Gale",
       "nameJp": "疾風の重槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -31011,6 +31315,7 @@
     {
       "name": "Two-Handed Axe of the Gale",
       "nameJp": "疾風の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -31113,6 +31418,7 @@
     {
       "name": "Heavy Mace of the Gale",
       "nameJp": "疾風の重鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -31215,6 +31521,7 @@
     {
       "name": "Verdant Breeze Headcloth",
       "nameJp": "翠風のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -31317,6 +31624,7 @@
     {
       "name": "Verdant Breeze Cloak",
       "nameJp": "翠風のマント",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -31419,6 +31727,7 @@
     {
       "name": "Verdant Breeze Helm",
       "nameJp": "翠風の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -31521,6 +31830,7 @@
     {
       "name": "Verdant Breeze Mail",
       "nameJp": "翠風の甲冑",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -31623,6 +31933,7 @@
     {
       "name": "Verdant Breeze Heavy Helm",
       "nameJp": "翠風の重冑",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -31725,6 +32036,7 @@
     {
       "name": "Verdant Breeze Heavy Mail",
       "nameJp": "翠風の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -31827,6 +32139,7 @@
     {
       "name": "Verdant Breeze Amulet",
       "nameJp": "翠風のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -31929,6 +32242,7 @@
     {
       "name": "Dagger of the Aurora",
       "nameJp": "極光の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -32031,6 +32345,7 @@
     {
       "name": "Bow of the Aurora",
       "nameJp": "極光の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -32133,6 +32448,7 @@
     {
       "name": "Sword of the Aurora",
       "nameJp": "極光の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -32235,6 +32551,7 @@
     {
       "name": "Light Axe of the Aurora",
       "nameJp": "極光の軽斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -32337,6 +32654,7 @@
     {
       "name": "Warmace of the Aurora",
       "nameJp": "極光の戦棍",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -32439,6 +32757,7 @@
     {
       "name": "Two-Handed Sword of the Aurora",
       "nameJp": "極光の両手剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -32541,6 +32860,7 @@
     {
       "name": "Heavy Spear of the Aurora",
       "nameJp": "極光の重槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -32643,6 +32963,7 @@
     {
       "name": "Two-Handed Axe of the Aurora",
       "nameJp": "極光の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -32745,6 +33066,7 @@
     {
       "name": "Heavy Mace of the Aurora",
       "nameJp": "極光の重鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -32847,6 +33169,7 @@
     {
       "name": "Headcloth of the Light Spirit",
       "nameJp": "光精のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -32949,6 +33272,7 @@
     {
       "name": "Cloak of Light Spirit",
       "nameJp": "光精のマント",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -33051,6 +33375,7 @@
     {
       "name": "Helm of the Light Spirit",
       "nameJp": "光精の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -33153,6 +33478,7 @@
     {
       "name": "Mail of the Light Spirit",
       "nameJp": "光精の甲冑",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -33255,6 +33581,7 @@
     {
       "name": "Heavy Helm of the Light Spirit",
       "nameJp": "光精の重冑",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -33357,6 +33684,7 @@
     {
       "name": "Heavy Mail of the Light Spirit",
       "nameJp": "光精の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -33459,6 +33787,7 @@
     {
       "name": "Light Spirit Amulet",
       "nameJp": "光精のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -33561,6 +33890,7 @@
     {
       "name": "Earthen Crest Headcloth",
       "nameJp": "土紋のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -33663,6 +33993,7 @@
     {
       "name": "Earthen Crest Robe",
       "nameJp": "土紋のローブ",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -33765,6 +34096,7 @@
     {
       "name": "Earthen Crest Helm",
       "nameJp": "土紋の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -33867,6 +34199,7 @@
     {
       "name": "Earthen Crest Mail",
       "nameJp": "土紋の甲冑",
+      "equipmentType": "Light Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -33969,6 +34302,7 @@
     {
       "name": "Earthen Crest Heavy Helm",
       "nameJp": "土紋の重冑",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -34071,6 +34405,7 @@
     {
       "name": "Earthen Crest Heavy Mail",
       "nameJp": "土紋の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -34173,6 +34508,7 @@
     {
       "name": "Earthen Crest Amulet",
       "nameJp": "土紋のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -34275,6 +34611,7 @@
     {
       "name": "Ephemeral Dagger",
       "nameJp": "泡沫の短剣",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -34377,6 +34714,7 @@
     {
       "name": "Ephemeral Bow",
       "nameJp": "泡沫の弓",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -34479,6 +34817,7 @@
     {
       "name": "Ephemeral Sword",
       "nameJp": "泡沫の剣",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -34581,6 +34920,7 @@
     {
       "name": "Ephemeral One-Handed Axe",
       "nameJp": "泡沫の片手斧",
+      "equipmentType": "One-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -34683,6 +35023,7 @@
     {
       "name": "Ephemeral Mace",
       "nameJp": "泡沫の鎚矛",
+      "equipmentType": "One-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -34785,6 +35126,7 @@
     {
       "name": "Ephemeral Greatsword",
       "nameJp": "泡沫の大剣",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -34887,6 +35229,7 @@
     {
       "name": "Ephemeral Two-Handed Spear",
       "nameJp": "泡沫の両手槍",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -34989,6 +35332,7 @@
     {
       "name": "Ephemeral Two-Handed Axe",
       "nameJp": "泡沫の両手斧",
+      "equipmentType": "Two-Handed Axe",
       "tiers": [
         {
           "tier": 1,
@@ -35091,6 +35435,7 @@
     {
       "name": "Ephemeral Two-Handed Mace",
       "nameJp": "泡沫の両手鎚矛",
+      "equipmentType": "Two-Handed Mace",
       "tiers": [
         {
           "tier": 1,
@@ -35193,6 +35538,7 @@
     {
       "name": "Ephemeral Headcloth",
       "nameJp": "泡沫のはちまき",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -35295,6 +35641,7 @@
     {
       "name": "Ephemeral Cloak",
       "nameJp": "泡沫のマント",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -35397,6 +35744,7 @@
     {
       "name": "Ephemeral Helm",
       "nameJp": "泡沫の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -35499,6 +35847,7 @@
     {
       "name": "Ephemeral Mail",
       "nameJp": "泡沫の甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -35601,6 +35950,7 @@
     {
       "name": "Ephemeral Heavy Mail",
       "nameJp": "泡沫の重甲冑",
+      "equipmentType": "Heavy Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -35703,6 +36053,7 @@
     {
       "name": "Ephemeral Heavy Helm",
       "nameJp": "泡沫の重冑",
+      "equipmentType": "Heavy Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -35805,6 +36156,7 @@
     {
       "name": "Ephemeral Amulet",
       "nameJp": "泡沫のアミュレット",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -35907,6 +36259,7 @@
     {
       "name": "Mauve Shield",
       "nameJp": "紫褐色の盾",
+      "equipmentType": "Shield",
       "tiers": [
         {
           "tier": 1,
@@ -36009,6 +36362,7 @@
     {
       "name": "Featherbronze Gauntlet",
       "nameJp": "羽銅の篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -36111,6 +36465,7 @@
     {
       "name": "Illusion Kunai",
       "nameJp": "虚影の苦無",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -36213,6 +36568,7 @@
     {
       "name": "Illusion Blade",
       "nameJp": "虚影の刃",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -36315,6 +36671,7 @@
     {
       "name": "Dragon Slayer",
       "nameJp": "ドラゴンスレイヤー",
+      "equipmentType": "Two-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -36417,6 +36774,7 @@
     {
       "name": "Trollkin Ring",
       "nameJp": "トロールの指輪",
+      "equipmentType": "Accessory",
       "tiers": [
         {
           "tier": 1,
@@ -36519,6 +36877,7 @@
     {
       "name": "Cavalry Saber",
       "nameJp": "騎兵刀",
+      "equipmentType": "One-Handed Sword",
       "tiers": [
         {
           "tier": 1,
@@ -36621,6 +36980,7 @@
     {
       "name": "Helm of Malice",
       "nameJp": "怨嗟の冑",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -36723,6 +37083,7 @@
     {
       "name": "Exceptional Katana",
       "nameJp": "上作の刀",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -36825,6 +37186,7 @@
     {
       "name": "Illusion Cowl",
       "nameJp": "虚影の頭巾",
+      "equipmentType": "Cloth Hat",
       "tiers": [
         {
           "tier": 1,
@@ -36927,6 +37289,7 @@
     {
       "name": "Illusion Garb",
       "nameJp": "虚影の装束",
+      "equipmentType": "Cloth Body Armor",
       "tiers": [
         {
           "tier": 1,
@@ -37029,6 +37392,7 @@
     {
       "name": "Illusion Arm Wraps",
       "nameJp": "虚影の腕巻",
+      "equipmentType": "Light Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -37131,6 +37495,7 @@
     {
       "name": "Illusion Ninja Tabi",
       "nameJp": "虚影の忍足袋",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,
@@ -37233,6 +37598,7 @@
     {
       "name": "Heat Haze Light Armor Boots",
       "nameJp": "陽炎の軽足鎧",
+      "equipmentType": "Light Boots",
       "tiers": [
         {
           "tier": 1,
@@ -37335,6 +37701,7 @@
     {
       "name": "Low Ninja Kunai",
       "nameJp": "下忍の苦無",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -37437,6 +37804,7 @@
     {
       "name": "Low Ninja Blade",
       "nameJp": "下忍の刃",
+      "equipmentType": "Ninja Blade",
       "tiers": [
         {
           "tier": 1,
@@ -37539,6 +37907,7 @@
     {
       "name": "Standard Katana",
       "nameJp": "中作の刀",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -37641,6 +38010,7 @@
     {
       "name": "Shadow Run Kunai",
       "nameJp": "影走の苦無",
+      "equipmentType": "Throwing Weapon",
       "tiers": [
         {
           "tier": 1,
@@ -37743,6 +38113,7 @@
     {
       "name": "Shadow Run Blade",
       "nameJp": "影走の刃",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -37845,6 +38216,7 @@
     {
       "name": "Fine Katana",
       "nameJp": "中上作の刀",
+      "equipmentType": "Katana",
       "tiers": [
         {
           "tier": 1,
@@ -37947,6 +38319,7 @@
     {
       "name": "Parting Light Gauntlets",
       "nameJp": "別離の軽篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -38049,6 +38422,7 @@
     {
       "name": "Parting Light Helmet",
       "nameJp": "別離の軽兜",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -38151,6 +38525,7 @@
     {
       "name": "Hundred Flowers Light Helmet",
       "nameJp": "百花の軽兜",
+      "equipmentType": "Light Helmet",
       "tiers": [
         {
           "tier": 1,
@@ -38253,6 +38628,7 @@
     {
       "name": "Hundred Flowers Light Gauntlets",
       "nameJp": "百花の軽篭手",
+      "equipmentType": "Heavy Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -38355,6 +38731,7 @@
     {
       "name": "Red Camellia",
       "nameJp": "紅椿",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -38457,6 +38834,7 @@
     {
       "name": "Shadow Leopard",
       "nameJp": "影豹",
+      "equipmentType": "Two-Handed Spear",
       "tiers": [
         {
           "tier": 1,
@@ -38559,6 +38937,7 @@
     {
       "name": "Meteor Bow",
       "nameJp": "メテオボウ",
+      "equipmentType": "Bow",
       "tiers": [
         {
           "tier": 1,
@@ -38661,6 +39040,7 @@
     {
       "name": "Azure Songstress",
       "nameJp": "紺碧の歌姫",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -38763,6 +39143,7 @@
     {
       "name": "Paralyzer Dagger",
       "nameJp": "パラライズダガー",
+      "equipmentType": "Dagger",
       "tiers": [
         {
           "tier": 1,
@@ -38865,6 +39246,7 @@
     {
       "name": "Hunting Gloves",
       "nameJp": "ハンティンググローブ",
+      "equipmentType": "Cloth Gloves",
       "tiers": [
         {
           "tier": 1,
@@ -38967,6 +39349,7 @@
     {
       "name": "Hunting Boots",
       "nameJp": "ハンティングブーツ",
+      "equipmentType": "Cloth Shoes",
       "tiers": [
         {
           "tier": 1,

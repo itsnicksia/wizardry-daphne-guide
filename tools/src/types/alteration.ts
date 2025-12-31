@@ -27,6 +27,7 @@ export interface AlterationTier {
 export interface AlterationEquipment {
     name: string;
     nameJp: string;
+    equipmentType: string;
     tiers: AlterationTier[];
 }
 

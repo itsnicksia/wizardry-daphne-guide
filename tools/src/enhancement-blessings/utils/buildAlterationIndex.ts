@@ -15,55 +15,81 @@ const ALL_STATS: AlterationStatType[] = [
     'ATK', 'MAG', 'DIV', 'ACC', 'EVA', 'RES', 'DEF', 'MDEF', 'ASPD', 'SUR'
 ];
 
-function hashEquipmentStats(equip: AlterationEquipment): string {
-    return equip.tiers
-        .sort((a, b) => a.tier - b.tier)
-        .map(tier => ALL_STATS.map(stat => tier.stats[stat] ?? 'null').join(','))
-        .join('|');
+function getEquipmentType(equip: AlterationEquipment): string {
+    return equip.equipmentType || inferTypeFromName(equip.name);
 }
 
-const TYPE_MODIFIERS = ['One-Handed', 'Two-Handed', 'Heavy', 'Light'];
+const VALID_TYPES: Record<string, string> = {
+    'One-Handed Sword': 'One-Handed Sword',
+    'Two-Handed Sword': 'Two-Handed Sword',
+    'One-Handed Axe': 'One-Handed Axe',
+    'Two-Handed Axe': 'Two-Handed Axe',
+    'One-Handed Mace': 'One-Handed Mace',
+    'Two-Handed Mace': 'Two-Handed Mace',
+    'One-Handed Staff': 'One-Handed Staff',
+    'Two-Handed Staff': 'Two-Handed Staff',
+    'Two-Handed Spear': 'Two-Handed Spear',
+    'Dagger': 'Dagger',
+    'Bow': 'Bow',
+    'Katana': 'Katana',
+    'Ninja Blade': 'Ninja Blade',
+    'Throwing Weapon': 'Throwing Weapon',
+    'Tool': 'Tool',
+    'Heavy Body Armor': 'Heavy Body Armor',
+    'Light Body Armor': 'Light Body Armor',
+    'Cloth Body Armor': 'Cloth Body Armor',
+    'Heavy Helmet': 'Heavy Helmet',
+    'Light Helmet': 'Light Helmet',
+    'Cloth Hat': 'Cloth Hat',
+    'Heavy Boots': 'Heavy Boots',
+    'Light Boots': 'Light Boots',
+    'Cloth Shoes': 'Cloth Shoes',
+    'Heavy Gloves': 'Heavy Gloves',
+    'Light Gloves': 'Light Gloves',
+    'Cloth Gloves': 'Cloth Gloves',
+    'Shield': 'Shield',
+    'Accessory': 'Accessory',
+    // Suffix mappings for old data
+    'Greatsword': 'Two-Handed Sword',
+    'Saber': 'One-Handed Sword',
+    'Sword': 'One-Handed Sword',
+    'Axe': 'One-Handed Axe',
+    'Mace': 'One-Handed Mace',
+    'Staff': 'One-Handed Staff',
+    'Spear': 'Two-Handed Spear',
+    'Blade': 'Katana',
+    'Heavy Armor': 'Heavy Body Armor',
+    'Light Armor': 'Light Body Armor',
+    'Heavy Mail': 'Heavy Body Armor',
+    'Plate': 'Heavy Body Armor',
+    'Mail': 'Heavy Body Armor',
+    'Chainmail': 'Heavy Body Armor',
+    'Robe': 'Cloth Body Armor',
+    'Tunic': 'Cloth Body Armor',
+    'Heavy Armor Boots': 'Heavy Boots',
+    'Light Armor Boots': 'Light Boots',
+    'Boots': 'Light Boots',
+    'Heavy Helm': 'Heavy Helmet',
+    'Helm': 'Light Helmet',
+    'Hat': 'Cloth Hat',
+    'Hood': 'Cloth Hat',
+    'Gloves': 'Light Gloves',
+    'Gauntlets': 'Heavy Gloves',
+    'Gauntlet': 'Heavy Gloves',
+    'Ring': 'Accessory',
+    'Earring': 'Accessory',
+    'Necklace': 'Accessory',
+    'Amulet': 'Accessory',
+};
 
-function extractEquipmentType(name: string): string {
-    const words = name.split(' ');
-    if (words.length >= 2) {
-        const secondToLast = words[words.length - 2];
-        if (TYPE_MODIFIERS.includes(secondToLast)) {
-            return words.slice(-2).join(' ');
+function inferTypeFromName(name: string): string {
+    const sortedKeys = Object.keys(VALID_TYPES).sort((a, b) => b.length - a.length);
+    for (const suffix of sortedKeys) {
+        if (name.endsWith(suffix)) {
+            return VALID_TYPES[suffix];
         }
     }
-    return words[words.length - 1];
-}
-
-function findCommonSuffix(names: string[], minWords: number = 1): string | null {
-    if (names.length === 0) return null;
-    if (names.length === 1) return extractEquipmentType(names[0]);
-
-    const wordArrays = names.map(name => name.split(' '));
-    const maxWords = Math.min(...wordArrays.map(arr => arr.length));
-
-    for (let i = minWords; i <= maxWords; i++) {
-        const suffix = wordArrays[0].slice(-i).join(' ');
-        const allMatch = wordArrays.every(arr => arr.slice(-i).join(' ') === suffix);
-        if (allMatch && i === maxWords) {
-            return extractEquipmentType(suffix);
-        } else if (!allMatch && i > minWords) {
-            return wordArrays[0].slice(-(i - 1)).join(' ');
-        }
-    }
-
-    return null;
-}
-
-function detectTypeName(items: AlterationEquipment[], minWords: number = 1): string {
-    const names = items.map(item => item.name);
-    const commonSuffix = findCommonSuffix(names, minWords);
-
-    if (commonSuffix) {
-        return commonSuffix;
-    }
-
-    return extractEquipmentType(items[0].name);
+    return 'Unknown';
 }
 
 export function buildAlterationIndex(data: AlterationData): AlterationIndex {
@@ -75,44 +101,21 @@ export function buildAlterationIndex(data: AlterationData): AlterationIndex {
 
     const groupMap = new Map<string, AlterationEquipment[]>();
     for (const equip of data.equipment) {
-        const hash = hashEquipmentStats(equip);
-        if (!groupMap.has(hash)) {
-            groupMap.set(hash, []);
+        const type = getEquipmentType(equip);
+        if (type === 'Unknown') continue; // Skip unknown items
+        if (!groupMap.has(type)) {
+            groupMap.set(type, []);
         }
-        groupMap.get(hash)!.push(equip);
+        groupMap.get(type)!.push(equip);
     }
 
     const groups: EquipmentGroup[] = [];
-    for (const items of groupMap.values()) {
-        const typeName = detectTypeName(items);
+    for (const [typeName, items] of groupMap.entries()) {
         groups.push({
             typeName,
             items,
             tiers: items[0].tiers,
         });
-    }
-
-    // Detect and fix name collisions by using longer suffixes
-    const nameCount = new Map<string, EquipmentGroup[]>();
-    for (const group of groups) {
-        const existing = nameCount.get(group.typeName) || [];
-        existing.push(group);
-        nameCount.set(group.typeName, existing);
-    }
-
-    for (const [, duplicateGroups] of nameCount) {
-        if (duplicateGroups.length > 1) {
-            for (const group of duplicateGroups) {
-                // Try progressively longer suffixes until we get unique names
-                for (let minWords = 2; minWords <= 5; minWords++) {
-                    const newName = detectTypeName(group.items, minWords);
-                    if (newName !== group.typeName) {
-                        group.typeName = newName;
-                        break;
-                    }
-                }
-            }
-        }
     }
 
     groups.sort((a, b) => a.typeName.localeCompare(b.typeName));
