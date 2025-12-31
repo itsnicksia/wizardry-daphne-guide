@@ -1,8 +1,9 @@
 # Corrosion Sentries 
 
 !!! warning "Work in Progress" 
-            - Overhauling page formatting 
-            - Corrosion sentries [10] and [12] are bugged - workaround solution added
+    
+    - Overhauling page formatting 
+    - Corrosion sentries [10] and [12] are bugged - workaround solution added
 
 ## Overview 
 
@@ -45,7 +46,7 @@
 
 ??? note "Golems"
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
-    - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the Greater Warped One
+    - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the GWO
 
 ### Corrosion Sentry Registration
 
@@ -61,7 +62,7 @@
 
     === "Flags" 
 
-        - The "Spotted" and "Not spotted" designations are hidden flags the game tracks. The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
+        - The "Spotted" and "Not Spotted" designations are hidden flags the game tracks. The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
 
             ??? warning "Flag Definitions"
             
@@ -77,11 +78,10 @@
         - To complicate matters the flags need to be triggered using the correct starting and ending Cursed Wheel nodes. 
         - This guide uses "Start" and "Register" nodes throughout.  
 
-
             ??? warning "Node Definitions"
-        
-            - "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
-            - "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
+                
+                - "Start" node: The node you wheel to first at the beginning of the process. The game requires a fresh encounter with the corrosion sentry for its flags to update
+                - "Register" node: The ending node where the game will update any flags. It is also the node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. Note that you can _never_ register a corrosion sentry by wheeling to its own node as the starting point 
             
 ??? note "Putting it All Together" 
 
