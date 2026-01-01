@@ -525,7 +525,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - 9,000 Gold
                     - Achievement is shared with Admiral - Good Ending - Elencia Dead and can only be received once
 
-        === Boss: Witch
+        === "Boss: Witch"
         
             - Details to be added soon 
 
@@ -555,8 +555,9 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - 11,000 Gold
                     - 2 Junk (Sheep for 0 deaths, subsequent runs only)
 
-            === "Boss: Witch"
-                - Details to be added soon 
+        === "Boss: Witch"
+        
+            - Details to be added soon 
     
     ??? tip "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
@@ -584,8 +585,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - Achievement: Condemn the Witch
                     - 17,000 Gold
                     - 2 Junk (Sheep for 0 deaths, subsequent runs only)
-                    - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
-
+                    - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span>
+         
         === "Boss: Witch"
         
             - Details to be added soon 
@@ -861,13 +862,13 @@ This request doesn't have any pre-requisites.
         - (Subsequent runs) A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
         - Exit and return to the Guild to submit the request.
 
-        ??? warning "Rewards"
-        
-            - Gem of Org x20 (first-time only)
-            - Snow Wolf Trapper Hat
-            - 5,000 Gold 
-            - Additional reward - 22,000 Gold 
-            - Bondmate - Warg, Commander of the Deep Snow (subsequent runs only)
+            ??? warning "Rewards"
+            
+                - Gem of Org x20 (first-time only)
+                - Snow Wolf Trapper Hat
+                - 5,000 Gold 
+                - Additional reward - 22,000 Gold 
+                - Bondmate - Warg, Commander of the Deep Snow (subsequent runs only)
 
     === "Wolf Pack Locations" 
     
@@ -881,14 +882,14 @@ This request doesn't have any pre-requisites.
         - (X:4,Y:1) - Southwest corner in blizzard zone (cannot reverse)
         - (X:1, Y:23) - Far northwest corner 
 
-    === "Wolf Pack Encounters"
+    === "Battle Composition"
     
         - Wolf Pack 1 - 4 Snow Wolves in a row
         - Wolf Pack 2 - 5 Snow Wolves, 3 in the front, 2 in the back
         - Wolf Pack 3 - 6 Snow Wolves, 3 in the front, 3 in the back
         - Wolf Pack 4 - 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back
 
-    === "Bondmate - Warg, Commander of the Deep Snow"
+    === "Bondmate"
 
         - Details coming soon or see Isberg - Bondmate page
 
@@ -1088,6 +1089,12 @@ You need to complete Ore Mining. Otherwise, this request will automatically fail
         - Final shiny object will spawn after all 3 objects are collected at (X:6, Y:24)
         - Upon collection you will engage in a battle with Stonefolk. You can choose to decline the fight by putting the stone down, in which you may pick it up again. After winning the fight, the request will be marked as completed. You must return and turn it in.
 
+            ??? warning "Rewards"
+    
+                - Turning in less than 3 stones = Just some gold
+                - Turning in 3 stones = Gold and some junk
+                - Turning in 3 stones + 1 large stone = Gold + 2 types of junk + Icebreaker sword
+
     === "Stone Locations"
 
         | Location | Enemies | Status Effect |
@@ -1098,12 +1105,6 @@ You need to complete Ore Mining. Otherwise, this request will automatically fail
         | (X:6, Y:24) | 4 Stonefolk | Whole team starts with Fear |
 
         - The Stonefolk in these fights all have extremely high HP and DEF. The last battle will be even moreso, especially the ones in the back.
-
-    === "Rewards"
-
-        - Turning in less than 3 stones = Just some gold
-        - Turning in 3 stones = Gold and some junk
-        - Turning in 3 stones + 1 large stone = Gold + 2 types of junk + Icebreaker sword
 
 ## Truth of the Beautiful Ore 
 
