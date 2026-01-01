@@ -4,11 +4,7 @@
 
 - A limited number of characters have alternative versions ("styles") that come with different skills and disciplines. “Merging” allows you to combine the standard and alternative style into one adventurer. You can switch between styles at any time in the Training Room.
 - Merging requires you to have at least one copy of the standard and alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits. There is no downside to merging.
-
-## Merging Basics 
-
-- You do not lose anything by merging an adventurer.
-- There is no benefit to leveling a recently pulled standard or alternative style.
+- You do not lose anything by merging an adventurer and there is no benefit to leveling a recently pulled standard or alternative style.
 
 ??? warning "Important Terms"
 
@@ -18,7 +14,7 @@
 
 ??? warning "Mechanics"
 
-	The following carries over to the merged unit:"
+	The following carries over to the merged unit:
 
     - The highest Fortitude and BP of either unit is used
     - BP can be re-allocated immediately after merging
@@ -26,7 +22,7 @@
     - Equipped relicbrews on both units will stack on the merged unit. This could potentially push you into Stage 3 side effects after merging 
     - The base unit’s IV and current class. You may need to use a class handbook or class change request to switch back to your preferred class, so plan accordingly 
 
-??? note "Merging Steps" 
+??? note "How to Merge" 
 
 	1. Adventure’s Guild > Training Room
 	2. Select the base unit from your current party or Adventurer List. This unit must be registered
@@ -37,7 +33,7 @@
 
 ## Alternative Styles 
 
-??? note "Unique Skill and Discipline" 
+??? warning "Unique Skill and Discipline" 
 		
     === "Summary"
     
@@ -78,7 +74,8 @@
 ## Shared Discipline
 
 - Shared discipline levels between styles is one of the greatest benefits of the merging system.
-- This mechanic does not activate until both styles have been disciplined at least once to D1. Consequently, it means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your pull strategy.
+- This mechanic does not activate until both styles have been disciplined at least once to D1.
+- Consequently, it means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your pull strategy.
 
 ??? warning "Mechanics" 
 
@@ -87,7 +84,7 @@
 	- “Overall Mastery” in the Discipline menu determines how much experience you need to reach the next discipline level. Copies of either the standard or alt version can be used. However, standard copies cannot be used to discipline the alt version and vice-versa. You will need to change styles and then discipline with the correct copy
 	- The "Overall Discipline Level" in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses you receive
 
-??? "F2P Considerations"
+??? note "F2P Considerations"
 
 	F2P can benefit the most from the merging system if you are using one of the 6 standard Legendary units (Lanavaille, Adam, Yekaterina, and Debra) or any of the General units (Flut, Marianne, Chloe, Asha).
 	
@@ -109,8 +106,8 @@ Consequently, the trait bonuses shown in the merging screen depend on the grade 
 
 	=== "Summary"
 
-	- Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged.
-	- If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
+		- Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged.
+		- If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
 
 	=== "Level 60 Base + Level 1 Fodder"
 	
