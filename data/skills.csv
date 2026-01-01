@@ -335,6 +335,7 @@ Sniper,Passive,,"When performing a physical attack, deals damage based on Attack
 Soaring Beast Knight,Passive,,Increases Evasion when equipped with a two-handed spear and light armor.,,,,,Savia,
 Solid Devotion,Discipline,,"Continuously increases each stat, Magic Defense and Stun Tolerance increased further.",Magic Defense and Stun Tolerance increased further based on skill level.,,,,Eldorado,
 Spellcraft Bookmark,Passive,,Reduces the MP/SP cost and increases damage dealt to enemies if the same spell attack as in the previous action is selected.,,,,,Erwin,
+Spiritual Power of the Dark One,Discipline,,"Continuously increases each stat, with MP and Divine Power increased even further.",MP and Divine Power increased further based on skill level.,,,,Alice,
 Stealth,Passive,True,Continuously increases Initiative rate.,Initiative rate increased further based on skill level.,15,Thief,,Amelia,
 Stirring Righteousness,Passive,,Increases damage to enemies for everyone in the user's row if it has only good or neutral allies.,,,,,Lanavaille,
 Storm-Bearer,Support,,Imbues the equipped katana with an air-type trait.,Damage dealth when striking a weak point with an air-type weapon increased based on skill level.,1/20/30/40,Samurai,"Samurai-specific, Katana-specific",,
@@ -402,5 +403,6 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
