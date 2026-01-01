@@ -15,22 +15,22 @@
 
 You do not lose anything by merging an adventurer. And, there is no benefit to leveling a recently pulled standard or alternative style.
 
-!!! note "The following carries over to the merged unit:"
+!!! warning "The following carries over to the merged unit:"
 
     - The highest Fortitude and BP of either unit is used
-    - BP can be re-allocated
-    - The highest grade level, class EXP, skills, spells, passives, unlocked classes, relicbrew EXP, and equipped relicbrews. The merging process is not additive. For example, Heavy Attack 1 + Heavy Attack 2 ≠ Heavy Attack 3 
-    - The equipped relicbrews on both units will stack on the merged unit. This could potentially push you into Stage 3 side effects after merging 
+    - BP can be re-allocated immediately after merging
+    - Highest grade level, class EXP, skills, spells, passives, unlocked classes, relicbrew EXP, and equipped relicbrews. The merging process is not additive. For example, Heavy Attack 1 + Heavy Attack 2 ≠ Heavy Attack 3 
+    - Equipped relicbrews on both units will stack on the merged unit. This could potentially push you into Stage 3 side effects after merging 
     - The base unit’s IV and current class. You may need to use a class handbook or class change request to switch back to your preferred class, so plan accordingly 
 
 ??? note "Merging Steps" 
 
-		1. Adventure’s Guild > Training Room
-		2. Select the base unit from your current party or Adventurer List. This unit must be registered
-		3. Select “Merge” at the bottom of the Training Room menu
-		4. In the Merge menu select the fodder unit from the available copies to merge into the base unit. Fodder units do not have to be registered
-		5. Select “Merge” at the bottom of the screen  
-		6. Reallocate BP (Optional, you can hold off on the very last point to re-allocate all BP to something different if you wish)
+	1. Adventure’s Guild > Training Room
+	2. Select the base unit from your current party or Adventurer List. This unit must be registered
+	3. Select “Merge” at the bottom of the Training Room menu
+	4. In the Merge menu select the fodder unit from the available copies to merge into the base unit. Fodder units do not have to be registered
+	5. Select “Merge” at the bottom of the screen  
+	6. Reallocate BP (Optional, you can hold off on the very last point to re-allocate all BP to something different if you wish)
 
 ### Alternative Styles 
 
@@ -40,15 +40,14 @@ You do not lose anything by merging an adventurer. And, there is no benefit to l
 
 ??? note "Adventurers with Alternative Styles"  
 
-    The following adventurers have alternative styles and can be merged (as of 1/1/26):
-    
-    - Legendary units:
+	=== "Legendary"
 		- [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md)
 		- [Adam](../adventurers/legendary-adventurers/details/Adam.md)
 		- [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md)
 		- [Debra](../adventurers/legendary-adventurers/details/Debra.md)
 		- [Alice](../adventurers/legendary-adventurers/details/Alice.md)
-    - General units: 
+
+	=== "General" 
 		- [Flut](../adventurers/general-adventurers/details/Flut.md)
 		- [Marianne](../adventurers/general-adventurers/details/Marianne.md)
 		- [Chloe](../adventurers/general-adventurers/details/Chloe.md)
@@ -82,14 +81,14 @@ Shared discipline levels between styles is one of the greatest benefits of the m
 	- Disciplining or merging can be done in any order 
 	- Merged units can reach a maximum discipline level of D18 (versus D9). Units do not gain additional stats past D9, but receive 1 BP from D10-D18
 	- “Overall Mastery” in the Discipline menu determines how much experience you need to reach the next discipline level. Copies of either the standard or alt version can be used. However, standard copies cannot be used to discipline the alt version and vice-versa. You will need to change styles and then discipline with the correct copy
-		- The "Overall Discipline Level" in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses you receive
+	- The "Overall Discipline Level" in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses you receive
 
 ### Merging Bonus Traits 
 
 Bonus trait points are an additional benefit of the merging system and are capped at +4 for each trait. The value of the merging bonus comes from two sources: 
 
-	1) Trait points gained at each grade level, and 
-	2) Trait growth determined for each unit at creation 
+- Trait points gained at each grade level, and
+- Trait growth determined for each unit at creation 
 
 Consequently, the trait bonuses shown in the merging screen depend on the grade of the units being merged and their hidden trait growth rates. 
 
