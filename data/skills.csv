@@ -52,6 +52,7 @@ Calamitous Rockfall,Damage,,"Useable when equipped with Two-Handed Staff of The 
 Calculated Charity,Passive,,Reduces physical damage taken from enemies for the user and an ally in front of or behind them if the ally is evil.,,,,,Milana,
 CALDIA,Support,,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.,17,Priest,,,
 Calm Mind Technique,Passive,,Reduces Fortitude loss when failing to disarm traps.,,70,Thief,Thief-specific,,
+Chaos Deified,Passive,True,"Continuously increases MP and I.Q. and adds 1 consecutive turn to buffs and debuffs applied by the user. When this skill is inherited, Blessing of Agora is also inherited. This skill can be enhanced by inheriting Blessing of Agora, Innocent Fanaticism, or Chaos Deified.","MP, I.Q., and number of continuous turns increased based on skill level.",,,,Alice,
 Child of the Sacred Tree,Discipline,,"Continuously increases each stat, with Magic Power and Action Speed increased even further.",Magic Power and Action Speed increased further based on skill level.,,,,Shelirionach,
 Chris's Friendship,Bondmate,,Continuously increases MP.,MP increased further based on skill level.,,,,Bondmate,
 Coin of Power,Passive,,"Allows one-handed swords and two-handed swords to be equipped. Continuously increases own Attack Power, Defense Power, Accuracy, Evasion, HP, and SP.",,,,,Berkanan,
@@ -403,6 +404,7 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
