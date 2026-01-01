@@ -5,16 +5,16 @@
 - A limited number of characters have alternative versions ("styles") that come with different skills and disciplines. “Merging” allows you to combine the standard and alternative style into one adventurer. You can switch between styles at any time in the Training Room.
 - Merging requires you to have at least one copy of the standard and alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits. There is no downside to merging.
 
-!!! warning "Important Terms"
-
-    - Base unit: The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
-    - Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
-    - Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). Note: The featured stats of Legendary units are higher than General units. 
-
 ## Merging Basics 
 
 - You do not lose anything by merging an adventurer.
 - There is no benefit to leveling a recently pulled standard or alternative style.
+
+??? warning "Important Terms"
+
+    - Base unit: The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
+    - Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
+    - Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). Note: The featured stats of Legendary units are higher than General units. 
 
 ??? warning "Mechanics"
 
@@ -36,8 +36,6 @@
 	6. Reallocate BP (Optional, you can hold off on the very last point to re-allocate all BP to something different if you wish)
 
 ## Alternative Styles 
-
-
 
 ??? note "Unique Skill and Discipline" 
 		
