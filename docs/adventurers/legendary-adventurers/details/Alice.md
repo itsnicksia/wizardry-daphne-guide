@@ -40,14 +40,17 @@
         ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}.jpg)
 {% endif %}
  
-{% if chardata['Personal Request'] %}
-    === "{{chardata['Primary Class']}} after Personal Request"
-        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}-personal-request.jpg)
-  {% if chardata['Secondary Class'] %}
-    === "{{chardata['Secondary Class']}} after Personal Request"
-        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}-personal-request.jpg)
-  {% endif %}
-{% endif %}
+    === "{{chardata['Primary Class']}} - Personal Request - Light"
+        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}-personal-request-light.jpg)
+
+    === "{{chardata['Secondary Class']}} - Personal Request - Light"
+        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}-personal-request-light.jpg)
+
+    === "{{chardata['Primary Class']}} - Personal Request - Dark"
+        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}-personal-request-dark.jpg)
+
+    === "{{chardata['Secondary Class']}} - Personal Request - Dark"
+        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}-personal-request-dark.jpg)
 
 {% if chardata['Alternate Style'] %}
     === "{{chardata['Alternate Style']}}"
