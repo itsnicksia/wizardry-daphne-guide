@@ -514,7 +514,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight. This is not the outcome we want as Elencia must be dead. You must make an additional trip back to town to witness a 4th witch burning 
                 - Return to town after giving the brazier the 3 Rabbits or Living Blood
             - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in the B2F hallway
-            - Unlock the witch's room and defeat the Witch boss 
+            - Unlock the witch's room and defeat the boss 
             - Elencia will be dead after the boss fight 
             - Exit 
             - Return to town 
@@ -538,7 +538,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Enter the Witch's Cave
             - Complete all 5 brazier offering requests
             - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
-            - Unlock the witch's room and defeat the Witch boss 
+            - Unlock the witch's room and defeat the boss 
             - Elencia will be alive, but unconscious after the boss fight 
                 - "Examine the body"
                 - "Examine the head" 
@@ -555,9 +555,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - 11,000 Gold
                     - 2 Junk (Sheep for 0 deaths, subsequent runs only)
 
-        === "Boss: Witch"
-        
-            - Details to be added soon 
+            === "Boss: Witch"
+                - Details to be added soon 
     
     ??? tip "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
@@ -568,7 +567,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Enter the Witch's Cave
             - Complete all 5 brazier offering requests
             - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
-            - Unlock the witch's room and defeat the Witch boss 
+            - Unlock the witch's room and defeat the boss 
             - Elencia will be alive, but unconscious after the boss fight 
                 - "Examine the body"
                 - "Examine the head" 
@@ -708,6 +707,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Exit 
             - Rest at the inn to recover for the upcoming boss fight 
             - Return to the brazier and offer the Gold Ore to unlock the witch's room 
+            - Unlock the witch's room and defeat the boss 
             - Elencia dies after the boss fight 
             - Exit 
             - Return to town 
@@ -766,6 +766,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Complete the 5 offering requests 
             - Exit and rest at the inn to recover for the upcoming boss fight 
             - Return to the brazier and offer the Gold Ore to unlock the witch's room 
+            - Unlock the witch's room and defeat the boss 
             - Elencia is alive, but unconscious after the boss fight 
             - Exit 
             - Return to town 
