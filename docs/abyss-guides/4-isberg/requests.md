@@ -3,12 +3,6 @@
 !!! warning "Work In Progress"
     - Ctrl + F5 to refresh the page for new updates
 
-<span class="tooltip-container">
-    Hover over me
-    <span class="tooltip-content">This is a test!</span>
-</span>
-
-
 ## Snowy Forest Minor Harken
 
 ### Recovery of Salted Pork
@@ -27,12 +21,11 @@
     
         - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
         - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-        - At 6 fixed locations along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur:
+        - The Bigfoot Child will stop and make a sound at 6 Discovery Points along the main path. You have the option to "Let it go" or "Stop it". If you let it explore, then 3 randomized events can occur:  
         
-            ??? note "Bigfoot Child Audio Cues"
-                - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
-                - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
-                - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom  
+            - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
+            - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
+            - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom  
                 
         - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
@@ -45,7 +38,7 @@
                 ??? note "Spare"
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold
-                    - Bigfoot's Offspring (Accuracy) 
+                    - Bondmate: Bigfoot's Offspring (Accuracy) 
                     - Triffia removed from inventory 
                 
                 ??? note "Kill" 
@@ -76,29 +69,27 @@
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
     - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
     - Cursed Wheel: Short Rest in the Cabin
-        - North Lakeshore Cabin: "Fixed it up" 
-            - Maya needs to be accessible 
-        - Village Adults: "Secured all of them" 
-            - If the "Capture the Villagers" request is active, then Maya will not leave the cabin
+        - North Lakeshore Cabin: "Fixed it up" - Maya needs to be accessible 
+        - Village Adults: "Secured all of them" - Maya will not leave the cabin if the "Capture the Villagers" request is active 
     
 ??? note "Request Guide"
 
     === "Walkthrough"
     
         - Accept the request from Marta at the Guild and go to Route 3.
-        - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box ("Box Carved with a Snowdrop Motif"), crude map, and a doll.
+        - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box (Box Carved with a Snowdrop Motif), Crude Map, and a Doll.
         - Step outside and watch a cutscene of hostile animals and monsters invading the town.
-        - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. See tabs for location details. 
-        - Go to the upper-left house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting. If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
+        - The objective is to kill all 7 enemy groups throughout the town and find the 3 hidden boxes drawn on the crude map. The final (third) box is not accessible until the end of the request. 
+        - Go to the far northwest house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting. If you have finished all the listed steps, then Lulu will inform you the request is completed. If not, then you likely missed one of the roaming enemy groups. 
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
-        - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return with Maya to the top-left nullstone in Route 3 to watch a cutscene. The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
+        - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return with Maya to Route 3 and take her to the reversed nullstone for a cutscene. The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
         - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
         - Head back to the Guild and speak with Marta to view the "perfect" ending. 
 
             ??? warning "Rewards"
     
-                - Achievement - "The Two are Always Together"
-                - Bondmate - Maya and Auntie Marta (Fear Tolerance)
+                - Achievement: The Two are Always Together
+                - Bondmate: Maya and Auntie Marta (Fear Tolerance)
                 - 12,000 Gold   
             
     === "Hidden Box Locations"
@@ -126,19 +117,21 @@
 
 ??? warning "Important Notes"
 
-    - Pre-requisite requests:
+    - Pre-requisite Requests
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
-    - The request will always end in failure if the pre-requisites are not completed 
-    - The Dried Fish Fragment from the little girl at the Guild is required to prevent the kitty from running away
-    - Exiting to the world map and returning results in automatic request failure 
-    - To reset, Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed
+    - Request Failure
+        - Pre-requisites requests not completed 
+        - Did not receive the Dried Fish Fragment from the little girl at the Guild 
+        - Exiting to the world map and returning
+    - Reset Request
+        - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed
 
 ??? note "Request Guide" 
 
     === "Walkthrough"
 
-        - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment.
+        - Accept the request and if both prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment. The request will end in failure if this is not in your inventory. 
         - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and give chase.
         - Running away more than twice results in request failure. Instead, let the Nullshadow kill your entire team. Upon reviving, it will immediately despawn and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also trigger a despawn.
         - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. See Meow-chanics ₍^. .^₎ tab.  The kitty will always be on the ground in the brush (walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
@@ -154,15 +147,16 @@
 
     === "Meow-chanics ₍^. .^₎"
     
-        - "You catch a faint, barely audible cray of some unseen creature" = Many tiles away, usually when you first enter the blizzard zone
-        - "You catch a soft, thin mewing from somewhere. It sounds like a cat" = Few tiles away 
-        - "You catch the sound of a mewing cat nearby. It seems somewhere close by" = Within 1-2 tiles
+        - You catch a faint, barely audible cray of some unseen creature = Many tiles away, usually when you first enter the blizzard zone
+        - You catch a soft, thin mewing from somewhere. It sounds like a cat = Few tiles away 
+        - You catch the sound of a mewing cat nearby. It seems somewhere close by = Within 1-2 tiles
 
 ### Witch Hunt in Elden Hill Village (1st Faction Request)
 
 ##### Overview 
 
-The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause.    
+The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause. 
+
 - Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia
 - Go to the Guild, speak with Arna, and accept the invitation
 - If you leave immediately, then to accept the request in the future select "Talk" in the Guild
@@ -170,7 +164,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ??? warning "Important Notes"
 
-    ??? note "Faction Affinity"
+    === "Faction Affinity"
     
         - Supporting a faction in a previous Abyss influences certain outcomes 
         - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
@@ -179,7 +173,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
             !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
     
-    ??? note "Faction Endings" 
+    === "Faction Endings" 
 
         **Summary**
         
@@ -195,7 +189,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Admiral: 3
         - Total: 10 
 
-    ??? note "Reset Faction Request" 
+    === "Reset Faction Request" 
     
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
@@ -220,21 +214,23 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ??? note "The Witch's Cave"
 
-    === "Notes"
+    ??? "Summary" 
     
-        - Each faction can only access certain areas of the map, but all progress is permanently recorded
-        - Full map completion requires doing other faction quests
-        - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
-        - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
-        - Enemy level is 65
-        - Some chests have high Find/Trap Disarm requirements even at 150/150
-
-    === "Sleep Tiles"
-                        
-        - A new dungeon mechanic that limits traversal 
-        - After 10 steps you will lose consciousness and be teleported back to your starting point 
-        - During an enemy encounter all team members will be asleep at the start of battle  
-        - Aggro and bait enemies onto normal tiles for easier fights
+        === "Notes"
+        
+            - Each faction can only access certain areas of the map, but all progress is permanently recorded
+            - Full map completion requires doing other faction quests
+            - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
+            - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
+            - Enemy level is 65
+            - Some chests have high Find/Trap Disarm requirements even at 150/150
+    
+        === "Sleep Tiles"
+                            
+            - A new dungeon mechanic that limits traversal 
+            - After 10 steps you will lose consciousness and be teleported back to your starting point 
+            - During an enemy encounter all team members will be asleep at the start of battle  
+            - Aggro and bait enemies onto normal tiles for easier fights
 
     ??? map "The Witch's Cave - B1F"    
         <div align="center">
@@ -248,7 +244,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ##### Chancellor Serpens (Princess) Route 
 
-The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch. Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution, you can consult with an Herbalist, Physician, or Mystic. 
+- The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch.
+- Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution, you can consult with an Herbalist, Physician, or Mystic. 
 
 ??? note "Princess Ending Guides"
 
@@ -256,12 +253,10 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
         === "Walkthrough"
 
-            - Speak to the Herbalist in town 
-            - Recommends Sleepmoss to sedate the villagers  
+            - Speak to the Herbalist in town who recommends Sleepmoss to sedate the villagers  
             - Enter the Witch's Cave 
             - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
-            - Collect the 3 Sleepmoss 
-            - Use the small islands of normal tiles to reset the 10-step counter to progress deeper into the area 
+            - Collect the 3 Sleepmoss using the small islands of normal tiles to reset the 10-step counter to progress deeper into the area 
             - Exit 
             - Speak to the Herbalist in town
             - Ending sequence begins automatically 
@@ -281,13 +276,13 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
         === "Walkthrough"
    
-            - Speak to Raimi in town and he will privately evaluate Rosa, upon returning he recommends Slatewillow   
+            - Speak to Raimi in town who recommends Slatewillow to cure Rosa's condition
             - Enter the Witch's Cave 
-            - The Slatewillow is located at the end of a long, one-way path through B1F and B2F, which requires going through part of the "sleepy tunnel" area (blue bubble tiles). Low-level teams should consider bringing MP and SP pots as insurance given the area's mob density 
+            - The Slatewillow is located at the end of a one-way path through B1F and B2F, including part of the "sleepy tunnel" area (blue bubble tiles). Low-level teams should consider bringing MP and SP pots as insurance given the area's mob density 
             - From the entrance head to the southeast to access a drop-down point to B2F
             - The room you drop into on B2F has 4 enemies in a small space and there is a high chance of being ambushed
             - Exit the room, follow the path west, and then north (southern stairs are a dead-end)
-            - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
+            - The side area with the Cyclops + Bigfoot fight is optional 
             - Head north and take the stairs to B1F
             - Go south through the "sleepy tunnel" area                     
             - The Slatewillow is located in front of the teleporter and will be automatically picked up
@@ -296,10 +291,10 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             - Ending sequence begins automatically 
         
                 ??? warning "Rewards"
-                    - Achievement: "A Terrible Nightmare"
+                    - Achievement: A Terrible Nightmare
                     - 15,000 Gold 
 
-        === "Drop-down to B2F"
+        === "B2F Drop-down"
             
             <div align="center">
             ![](./img/princess-hole.png)
@@ -325,12 +320,12 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - Speak to Dylanhardt in town and select the option to return to the Royal Capital 
                 - Meet with Aegon and he recommends Fellwisp to cure Rosa and Sar-moon Herb to calm the villagers
                 - Return to Elden Hill Village and enter the Witch's Cave 
-                - Go north and take the stairs down to B2F
-                - Both request items are located on this floor
+                - Go north, take the stairs to B2F, and collect both request items
+                - The Cyclops + Bigfoot boss fight is mandatory for the Fellwisp<span style="color: MediumOrchid">*</span> 
                 - Exit 
                 - Speak with Dylanhardt in town 
                 - Ending sequence begins automatically 
-                    - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
+                    - The "Foolish parent" or "Foolish child" options do not seem to impact the endings
                     - After the scene Pulgritte and Dylandhardt will leave 
                     - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
     
@@ -339,14 +334,14 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                         ??? note "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
                         
                             !!! warning "Rewards"
-                                - Achievement: "One Who Carries the Future of Her Land"
+                                - Achievement: One Who Carries the Future of Her Land
                                 - 11,000 Gold 
                 
                         ??? note "Sub-Ending B: "Do Not Tell the Truth""
                             - The threaten Rosa options do not seem to have any impact on the ending
                 
                             !!! warning "Rewards"
-                                - Achievement: "One Who Carries the Future of Her Land"
+                                - Achievement: One Who Carries the Future of Her Land
                                 - 9,000 Gold 
                                 - 1 Junk<span style="color: MediumOrchid">*</span>
 
@@ -356,10 +351,8 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 ![](./img/princess-fellwisp.PNG)
                 </div>
     
-                - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
-                - Defeating the Cyclops is required for the Best ending
-                - A challenging fight during the early game and you may have to return at a higher level or with better gear 
-                - Will not respawn once defeated
+                - Located in B2F in a side room 
+                - Defeating the Cyclops + Bigfoot is required for the Best ending and will not respawn once defeated
 
             === "Sar-moon Herb Location"
             
@@ -385,7 +378,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 - Head south to the person icon on the map, speak with the Mystic, and select "Talk about Elden Hill Village"
                 - The Mystic recommends using Sar-moon Herb to calm the villagers 
                 - Head downstairs to B2F 
-                - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
+                - The side area with the Cyclops + Bigfoot fight is optional
                 - Return to B1F 
                 - Speak to the Mystic and give her the Sar-Moon Herb 
                 - Go north to exit 
@@ -416,13 +409,12 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
 ##### Pontiff Route
 
-The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible. 
-
-A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
+- The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible.
+- A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
 ??? warning "Mechanics" 
 
-    ??? note "Brazier Offerings"
+    ??? note "Demonic Brazier"
 
         === "Process"
             
@@ -434,33 +426,35 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
             - Repeat until the witch's door is unlocked
             - On a subsequent run you can speak with Tenet in town to reduce the total number of offering requests
         
-        === "Requests"
+        === "Offering Requests"
         
-            - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
-            - Request 2 - Hen - Return to town and speak with Tenet
-            - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
-            - Request 4 - Infant (Lamb) - Return to town and speak with Tenet
-            - Request 5 - Sheep - Return to town and speak with Tenet
+            - Request 1: 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+            - Request 2: Hen - Return to town and speak with Tenet
+            - Request 3: Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
+            - Request 4: Infant (Lamb) - Return to town and speak with Tenet
+            - Request 5: Sheep - Return to town and speak with Tenet
     
-        === "Tenet Town Offerings" 
+        === "Tenet Offerings" 
         
             - Only available after a first run
             - Talk to Tenet in town before entering the Witch's Cave
             - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
         
-            **Total Brazier Requests**
+            Total Brazier Requests
             
-            - Do not talk to Tenet = 5 
-            - Hen = 4  
-            - Infant (Lamb) = 2 
-            - Sheep = 1 (Unlocks the witch's door) 
+            - Do not talk to Tenet: 5 
+            - Hen: 4  
+            - Infant (Lamb): 2 
+            - Sheep: 1 (Unlocks the witch's door) 
     
     ??? note "Witch Burnings"
+
+        Basics
     
         - Returning to town for an offering results in a witch burning
         - The total number of witch burnings determines whether Elencia is alive or dead after the boss fight
     
-        **Elencia's Status** 
+        Elencia's Status 
         
         - Witness 0-3 witch burnings = Elencia alive
         - Witness 4+ witch burnings = Elencia dead
@@ -472,110 +466,107 @@ A demonic brazier blocks entry to the witch's room until you have made a certain
 
     ??? warning "Requirements"
     
+        Endings 
+        
         - Total of 3 confirmed endings based on the number of witch burnings witnessed and dialogue choices in the final scene if Elencia is alive
-        
-        **Endings** 
-        
-        - Bad - Elencia dead (4+ witch burnings) 
-        - Good - Elencia alive (0-3 witch burnings) + "Tell the Truth" 
-        - Best - Elencia alive (0-3 witch burnings) + "Condemn the Witch" 
+        - Bad - Elencia Dead (4+ witch burnings) 
+        - Good - Elencia Alive (0-3 witch burnings) + "Tell the Truth" 
+        - Best - Elencia Alive (0-3 witch burnings) + "Condemn the Witch" 
     
-        **Rewards**
+        Rewards
         
         - Junk rewards are reduced if any witch burnings are witnessed
         - Full gold reward is always given
 
         ??? note "What Ending Should I Do First?"
     
-            **If you plan to do all 3 endings:**
-        
-            - "Bad Ending - Elencia Dead" is recommended since you have to do all 5 brazier offering requests on a first run
-            - Returning to town _only_ for the brazier offerings results in 3 witch burnings = Elencia Alive 
-            - An Extra step is required 
-                - Return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
-            - Select the Sheep in town from Tenent for the other 2 endings (Good, Best)
+            If you plan to do all 3 endings:
+            - Bad Ending - Elencia Dead as all 5 brazier offering requests are required on a first run. However, returning to town only for the brazier offerings results in 3 witch burnings = Elencia Alive. An extra step is required. You must return to town an additional time after giving the demonic brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
+            - Select the Sheep from Tenent in town for the other 2 endings (Good, Best)
             - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight 
         
-            **If you only want the Guiding Light (Luck):** 
-        
-            - "Best Ending - Elencia Alive - "Condemn the Witch""
+            If you only want the Guiding Light (Luck): 
+                - Best Ending - Elencia Alive - "Condemn the Witch"
     
     ??? note "Bad Ending - Elencia Dead"
+
+        === "Walkthrough"
          
-        - First run - Must witness a 4th witch burning 
-        - Second run - Do not speak with Tenet + must witness a 4th witch burning
-        - Enter the Witch's Cave 
-        - Complete all 5 brazier offering requests
-        - Returning to town for only the offering requests = 3 witch burnings = Elencia is alive after the boss fight (you do not want this)
-        - An _additional_ trip back to town to witness the 4th witch burning is required
-        - Recommend going after giving the brazier the 3 Rabbits or Living Blood
-        - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in B2F
-        
-            ??? danger "Boss: Witch"
-                - Details to be added soon 
-    
-        - Elencia will be dead after the boss fight 
-        - Exit 
-        - Return to town 
-        - Ending sequence begins automatically 
-        
-            ??? warning "Rewards"
-                - Achievement: "A Witch There Was" 
-                - 9,000 Gold
-                - Achievement is shared with "Admiral - Good Ending - Elencia Dead" and can only be received once
-    
+            - First run: Must witness a 4th witch burning 
+            - Subseqeunt runs: Do not speak with Tenet + must witness a 4th witch burning
+            - Enter the Witch's Cave 
+            - Complete all 5 brazier offering requests
+                - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight (you do not want this)
+                - You must make an additional trip back to town to witness a 4th witch burning 
+                - Return to town after giving the demonic brazier the 3 Rabbits or Living Blood
+            - When returning to the demonic brazier with the Sheep additional enemies will spawn ("ROAR") in the B2F hallway
+            - Unlock the witch's room and defeat the Witch boss 
+            - Elencia will be dead after the boss fight 
+            - Exit 
+            - Return to town 
+            - Ending sequence begins automatically 
+            
+                ??? warning "Rewards"
+                    - Achievement: A Witch There Was 
+                    - 9,000 Gold
+                    - Achievement is shared with Admiral - Good Ending - Elencia Dead and can only be received once
+
+        === Boss: Witch
+            - Details to be added soon 
+
     ??? note "Good Ending - Elencia Alive - "Tell the Truth""
     
-        - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
-        - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
+        - First run: Default ending if returning to town only for the offering requests (3 witch burnings)
+        - Subsequent runs: Talk to Tenet in town and select the Sheep (0 witch burnings) 
         - Enter the Witch's Cave
-        - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
-    
-            ??? danger "Boss: Witch"
-                - Details to be added soon
-    
+        - Complete all 5 brazier offering requests
+        - When returning to the demonic brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
+        - Unlock the witch's room and defeat the Witch boss 
         - Elencia will be alive, but unconscious after the boss fight 
         - "Examine the body"
         - "Examine the head" 
-        - "Pull it out" (Forced to select)
+        - "Pull it out"
         - Exit 
         - Return to town 
         - Ending sequence begins automatically 
         
-            - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
+            - "Prepare yourself" (skips villager fight)
             - "Tell the Truth"
             
             ??? warning "Rewards"
             
                 - 11,000 Gold
-                - 2 Junk (requires Sheep for 0 deaths)
+                - 2 Junk (Sheep for 0 deaths, subsequent runs only)
+
+        === Boss: Witch
+            - Details to be added soon 
+
+
     
     ??? tip "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
     
-        - First run - Automatically if returning to town only for the offering requests (3 witch burnings)
-        - Subsequent runs - Talk to Tenet in town and select the Sheep (0 witch burnings) 
+        - First run: Default ending if returning to town only for the offering requests (3 witch burnings)
+        - Subsequent runs: Talk to Tenet in town and select the Sheep (0 witch burnings) 
         - Enter the Witch's Cave
-        - Additional enemies will spawn ("ROAR") along the B2F path to the brazier
-    
-            ??? danger "Boss: Witch"
-                - Details to be added soon
-    
+        - Complete all 5 brazier offering requests
+        - When returning to the demonic brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
+        - Unlock the witch's room and defeat the Witch boss 
         - Elencia will be alive, but unconscious after the boss fight 
         - "Examine the body"
         - "Examine the head" 
-        - "Pull it out" (Forced to select)
+        - "Pull it out"
         - Exit 
         - Return to town 
-        - Ending sequences begins automatically   
+        - Ending sequence begins automatically 
         
-            - "Prepare yourself" (Either choice has no known impact, "Prepare" skips a fight)
+            - "Prepare yourself" (skips villager fight)
             - "Condemn the Witch"
         
             ??? warning "Rewards"
             
-                - Achievement: "Condemn the Witch"
+                - Achievement: Condemn the Witch
                 - 17,000 Gold
-                - 2 Junk (requires Sheep for 0 deaths)
+                - 2 Junk (Sheep for 0 deaths, subsequent runs only)
                 - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
 ##### Admiral Route
