@@ -35,11 +35,10 @@
 ??? info "Portraits"
     === "{{chardata['Primary Class']}}"
         ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}.jpg)
-{% if chardata['Secondary Class'] %}
+
     === "{{chardata['Secondary Class']}}"
         ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}.jpg)
-{% endif %}
- 
+
     === "{{chardata['Primary Class']}} - Personal Request - Light"
         ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}-personal-request-light.jpg)
 
@@ -52,10 +51,8 @@
     === "{{chardata['Secondary Class']}} - Personal Request - Dark"
         ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}-personal-request-dark.jpg)
 
-{% if chardata['Alternate Style'] %}
     === "{{chardata['Alternate Style']}}"
         ![](../img/{{title | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
-{% endif %}
 
 ## Skills
 <!-- 
@@ -64,8 +61,46 @@ extra text can be added between skills
 -->
 
 !!! info "Inheritable Skill"
-    === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
+    === "{{chardata['Inheritable Skill']}} (Standard)"
         {{ get_skill_description(chardata['Inheritable Skill']) }}
+
+        !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
+
+        <div class = "nosort-table nofilter-table" markdown>  
+        
+        | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
+        |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
+        |   1   |              1             |                   1                   |                1                |                      1                     |  
+        |   2   |              0             |                   1                   |                0                |                      1                     |  
+        |   3   |              1             |                   2                   |                0                |                      1                     |  
+        |   4   |              0             |                   2                   |                0                |                      1                     |  
+        |   5   |              1             |                   3                   |                1                |                      2                     |  
+        |   6   |              0             |                   3                   |                0                |                      2                     |  
+        |   7   |              1             |                   4                   |                -                |                      -                     |  
+
+        </div>  
+
+    === "Chaos Deified (Personal Request - Dark)"
+        {{ get_skill_description("Chaos Deified") }}
+
+        !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
+
+        <div class = "nosort-table nofilter-table" markdown>  
+        
+        | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
+        |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
+        |   1   |              1             |                   1                   |                1                |                      1                     |  
+        |   2   |              0             |                   1                   |                0                |                      1                     |  
+        |   3   |              1             |                   2                   |                0                |                      1                     |  
+        |   4   |              0             |                   2                   |                0                |                      1                     |  
+        |   5   |              1             |                   3                   |                1                |                      2                     |  
+        |   6   |              0             |                   3                   |                0                |                      2                     |  
+        |   7   |              1             |                   4                   |                -                |                      -                     |  
+
+        </div>
+
+    === "Innocent Fanaticism (Personal Request - Light)"
+        {{ get_skill_description("Chaos Deified") }}
 
         !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
 
