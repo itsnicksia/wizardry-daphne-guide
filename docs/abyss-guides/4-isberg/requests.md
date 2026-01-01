@@ -1041,15 +1041,15 @@ You need to complete Ore Mining. Otherwise, this request will automatically fail
 
 - Accept request at tavern then head to Route 10 via Route 9 Harken.
 - You will essentially be looking for a shiny object on the floor.
-- Shiny object location order may possibly be random per player, but the locations of all objects are static. (X:17, Y:9), (X:7,Y:9),  (X:13,Y:0). It is possible the next stone only spawns after 1 is picked up.
+- Locations of all shiny objects are static. (X:17, Y:9), (X:7, Y:9), (X:13, Y:0). 
 - Final shiny object will spawn after all 3 objects are collected. (X:6,Y:24).
 - Upon collection will engage the player in a battle with some Stonefolk. You can choose to decline the fight by putting the stone down, in which you may pick it up again. After winning the fight, the request will be marked as completed. You must return and turn it in.
 - The fights are as follow:
-      1. 1 Stonefolk + whole team starts with Cursed.
-      2. 2 Stonefolk + whole team starts with Critical Poison.
-      3. 3 Stonefolk + whole team starts with Paralysis.
-      4. 4 Stonefolk + whole team starts with Fear.
-- The Stonefolk/Lamenting Snowfolk in this fight all have extremely high HP and DEF. The last battle will be even moreso.
+      1. 1 Stonefolk + whole team starts with Cursed. (X:17, Y:9)
+      2. 3 Stonefolk + whole team starts with Critical Poison. (X:7, Y:9)
+      3. 2 Stonefolk + whole team starts with Paralysis. (X:13, Y:0)
+      4. 4 Stonefolk + whole team starts with Fear (X:6, Y:24)
+- The Stonefolk/Lamenting Snowfolk in this fight all have extremely high HP and DEF. The last battle will be even moreso, especially the ones in the back
 - Turning in less than 3 stones = Just some gold. Turning in 3 stones = gold and some junk. Turning in 3 stones + 1 large stone = gold + 2 types of junk + Icebreaker sword.
 
 ## Truth of the Beautiful Ore 
