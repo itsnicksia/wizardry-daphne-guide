@@ -12,7 +12,7 @@
     - No pre-requisite requests
     - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point. Entering from the Route 2 Harken has the boss fight commence in a blizzard zone, which makes the fight significantly more difficult
     - Bigfoot fights at discovery points can be as challenging as the boss and you may encounter more than one in a single run
-    - Side areas do not contain discovery points
+    - Side areas do not contain Discovery Points
     - Bring SP items in case of multiple Bigfoot fights
 
 ??? note "Request Guide"
@@ -21,11 +21,17 @@
     
         - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
         - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-        - At 6 fixed locations along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur. See Bigfoot Child Audio Cues. 
+        - At 6 fixed locations along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur.
+        
+            ??? note "Bigfoot Child Audio Cues"
+                - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
+                - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
+                - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom  
+                
         - You will need to "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
         - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The only difference is the former gives a new bondmate and the latter gives additional gold. 
-        - Remember to pick up the Salted Pork next to the Harken before exiting. It's easy to miss.
+        - Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
         - Return to the Guild and submit the request.
 
             ??? warning "Rewards"
@@ -40,23 +46,16 @@
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold 
                     - Additional gold from request giver
-
-    === "Map"
-
-        ??? Map "Discovery Points"
+                    
+    === "Discovery Points"
         
-            <div align="center">
-            ![](./img/salted-pork.jpg)
-            </div>
+        <div align="center">
+        ![](./img/salted-pork.jpg)
+        </div>
 
-            - Empty red star = Discovery Point
-            - Red star = Bigfoot boss
-            - Green star = Salted Pork
-    
-    === "Bigfoot Child Audio Cues"
-        - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
-        - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
-        - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom  
+        - Empty red star = Discovery Point
+        - Red star = Bigfoot boss
+        - Green star = Salted Pork
       
 ## Village Shut Away in Silence 
 
@@ -70,10 +69,11 @@
     
     - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
     - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
-    - Cursed Wheel - Short Rest in the Cabin
-        - North Lakeshore Cabin - "Fixed it up" as Maya needs to be accessible 
-        - Village Adults - "Secured all of them" 
-        - If the "Capture the Villagers" request is active, then Maya will not leave the cabin
+    - Cursed Wheel: Short Rest in the Cabin
+        - North Lakeshore Cabin: "Fixed it up" 
+            - Maya needs to be accessible 
+        - Village Adults: "Secured all of them" 
+            - If the "Capture the Villagers" request is active, then Maya will not leave the cabin
     
 ??? note "Request Guide"
 
@@ -95,26 +95,24 @@
                 - Bondmate - Maya and Auntie Marta (Fear Tolerance)
                 - 12,000 Gold   
             
-    === "Map"
-
-        ??? map "Hidden Box Locations"
+    === "Hidden Box Locations"
         
-            <div align="center">
-            ![](./img/find-my-sister-collectibles.PNG)
-            </div>
-            
-            - Hidden Box 1: (X:7, Y:10) - Bottom-right area by the graveyard 
-            - Hidden Box 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
+        <div align="center">
+        ![](./img/find-my-sister-collectibles.PNG)
+        </div>
         
-        ??? map "Enemy Locations"
+        - Hidden Box 1: (X:7, Y:10) - Bottom-right area by the graveyard 
+        - Hidden Box 2: (X:21, Y:1) - Bottom-left area by the 2 houses 
         
-            - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
-            - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
-            - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
-            - Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
-            - Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
-            - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
-            - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
+    === "Enemy Locations"
+    
+        - Outside the Mayor's house - 3 Hobgoblins frontline, 3 Goblins backline
+        - Path behind Mayor's house - 2 Ice Slimes + 1 Bigfoot frontline, 2 Ice Slimes + Ice Vorpal Bunny in the middle, and Bigfoot Child + Ice Slime backline
+        - Top left house area - 2 Snow Wolves + 1 Bigfoot frontline, Snow Wolf + Bigfoot Child backline
+        - Bottom right house area - 3 Hobgoblins frontline, 3 Goblins backline
+        - Bottom middle house area - 2 Goblins frontline, 2 Goblins backline
+        - Bottom middle house area (stationary): 2 Goblins frontline, 2 Goblins backline
+        - Bottom left house area: 2 Ice Vorpal Bunnies, 3 Ice Slimes in the middle, 2 Bigfoot Child backline
         
 ## Blizzard Blocking the Path
 
@@ -125,20 +123,20 @@
     - Pre-requisite requests:
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
-    - The request will always end in failure if the pre-requisites are not completed beforehand
+    - The request will always end in failure if the pre-requisites are not completed 
     - The Dried Fish Fragment from the little girl at the Guild is required to prevent the kitty from running away
     - Exiting to the world map and returning results in automatic request failure 
-    - To reset, Cursed Wheel to Blizzard Blocking the Path, which will reset the request while keeping the pre-requisites flagged as completed
+    - To reset, Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed
 
 ??? note "Request Guide" 
 
     === "Walkthrough"
 
-        - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment before you leave the Guild.
+        - Accept the request and if all prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment.
         - Head to Route 4. The kitty will always be located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and give chase.
-        - Running away more than twice will result in request failure. Instead, let the Nullshadow kill your entire team. Upon reviving it will immediately despawn and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also despawn your pursuer.
-        - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. See Meow-chanics ₍^. .^₎ tab.  The kitty will always be in the brush (walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
-        - Catch the kitty once in each of the 3 blizzard zones. On the third attempt use the dried fish as bait and the request will be completed.
+        - Running away more than twice results in request failure. Instead, let the Nullshadow kill your entire team. Upon reviving, it will immediately despawn and you can search freely. Some blizzard zones have side areas of 1-2 normal tiles that can also trigger a despawn.
+        - Finding the kitty is basically a game of hot-and-cold. As you explore it will make audible sounds with pop-up flavor text depending on your distance from its tile. See Meow-chanics ₍^. .^₎ tab.  The kitty will always be on the ground in the brush (walls). Although its location is randomized it seems to prefer being somewhere close to the swirling blizzards.
+        - Catch the kitty once in each of the 3 blizzard zones. On the third attempt use the Dried Fish Fragment as bait and the request will be completed.
         - The kitty is now permanently located at the Guild. It can also see Lulu!
     
             ??? warning "Rewards"
@@ -174,14 +172,14 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Max faction affinity is mandatory for the Best endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
         - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
     
-        !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
+            !!! warning "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
     
     ??? note "Faction Endings" 
 
         **Summary**
         
         - 10 unique endings across all factions have been identified 
-        - Some endings may have been missed as of 12/26 
+        - Some endings may have been missed as of 1/1 
         - Known endings are sufficient for unlocking the 2 Guiding Lights (Luck)
         - Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
     
@@ -199,27 +197,28 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
     ??? tip "Guiding Lights"
     
-        **Unlock Conditions (as of 12/27)** 
+        **Unlock Conditions (as of 1/1)** 
 
         - The unlock conditions for the 2 Guiding Lights (Luck) are not consistent with Discord members reporting the following:
             - Clear any Best ending
             - Clear all 3 Best endings
-            - Clear the True ending (GWO 4th fight)
-            - Clear the True ending (GWO 4th fight) + redoing the Best Endings until it appears
+            - Clear the True ending (highest consistency rate)
+            - Clear the True ending + redo each Best Ending until it appears
         - If one of these requirements does not work, then try the others 
-        - Likely a bug is present unless Drecom programmed multiple unlock conditions for the same Guiding Light 
-        - Max faction affinity is required (confirmed)
-        - A Guiding Light will dissolve if it's already been received (confirmed)
+        - A bug may be present unless Drecom programmed multiple unlock conditions for the same Guiding Light 
+
+        Confirmed
+            - Max faction affinity is required 
+            - A Guiding Light will dissolve if it's already been received 
         - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ??? note "The Witch's Cave"
 
-    ??? "Summary"
+    ??? note "Summary"
 
         === "Notes"
         
-            - Each faction can only access certain areas of the map
-            - Map progress is permanently recorded
+            - Each faction can only access certain areas of the map, but all progress is permanently recorded
             - Full map completion requires doing other faction quests
             - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
             - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
@@ -254,10 +253,10 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         === "Walkthrough"
 
             - Speak to the Herbalist in town 
-            - She recommends using Sleepmoss that grows in the Witch's Cave 
+            - Recommends using Sleepmoss that grows in the Witch's Cave 
             - Enter the Witch's Cave 
             - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
-            - Collect the 3 Sleepmoss (see Map tab)
+            - Collect the 3 Sleepmoss 
             - Use the small islands of normal tiles to reset the 10-step counter to progress deeper into the area 
             - Exit 
             - Speak to the Herbalist in town
@@ -268,13 +267,11 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                     - 2 Junk<span style="color: MediumOrchid">*</span>
                     - Scroll of Inferno
 
-        === "Map"
-
-            ??? map "Sleepmoss Locations"
+        === "Sleepmoss Locations"
             
-                <div align="center">
-                ![](./img/princess-sleepmoss.png)
-                </div>
+            <div align="center">
+            ![](./img/princess-sleepmoss.png)
+            </div>
 
     ??? note "Good Ending - Consult with a Physician"
 
