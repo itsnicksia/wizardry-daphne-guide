@@ -802,15 +802,34 @@ The Admiral's goal is to stop the witch hunts at the request of the elven Kinlor
 
 This request doesn't have any pre-requisites.
 
-- Get the request and head to Route 5.
-- Simply go to every Ice Storm zone, including ones that have trees that can be reversed. Typically the interaction zone is near the middle of the zones. When you enter the cutscene, you will get a description of the zone. These conditions are always randomized on every run. You are allowed to go to a spot and leave and come back later.
-- The options here are "The air here feels dry to you",  "You can feel a brisk breeze, gusts rippling your clothing", "There is a slight dampness in the air here". You are looking for "The air here feels dry to you".
-- Upon selecting a spot, simply go through a 3 stage battle similar to that of previous abyss. You may tap out at any time. It is ideal to select a dry location where the Ice Storm may be removed via Right Hand of Reversal technique if possible.
-- There are two known variations of battles
-      1. 1st battle = 3 Goblins frontline + 1 Hobber backline. 2nd battle = 3 Snow Wolves frontline + 2 Baby Bigfoot backline. 3rd Battle = 3 Snow Wolves frontline, 2 Snow Hawks in the middle, 1 Big Snow Hawk backline.
-      2. 1st battle = 3 Goblins frontline + 1 Hobber backline. 2nd battle = 3 Snow Slimes frontline, 3 Ice Clouds in the middle, 2 Ice Clouds backline. 3rd Battle = 2 Snow Hawks frontline, 2 Snow Hawks in the middle, 2 Big Snow Hawks backline.
-- Once all 3 battles are completed, you are teleported back to the tavern with the requests completed. You will obtain some gold and an ice-wind trout.
-- While the conditions are not entirely known, some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen). Upon completion, you will get an Ultimate Ice-Wind Trout instead, which heals slightly more than the normal trout. In addition, you will get a bondmate.
+??? note "Request Guide"
+
+    === "Walkthrough"
+
+        - Get the request and head to Route 5.
+        - Simply go to every Ice Storm zone, including ones that have trees that can be reversed. Typically the interaction zone is near the middle of the zones. When you enter the cutscene, you will get a description of the zone. These conditions are always randomized on every run. You are allowed to go to a spot and leave and come back later.
+        - The options here are "The air here feels dry to you", "You can feel a brisk breeze, gusts rippling your clothing", "There is a slight dampness in the air here". You are looking for "The air here feels dry to you".
+        - Upon selecting a spot, simply go through a 3 stage battle similar to that of previous abyss. You may tap out at any time. It is ideal to select a dry location where the Ice Storm may be removed via Right Hand of Reversal technique if possible.
+        - Once all 3 battles are completed, you are teleported back to the tavern with the request completed. You will obtain some gold and an ice-wind trout.
+
+    === "Battle Variations"
+
+        - Variation 1:
+            - 1st battle = 3 Goblins frontline + 1 Hobber backline
+            - 2nd battle = 3 Snow Wolves frontline + 2 Baby Bigfoot backline
+            - 3rd Battle = 3 Snow Wolves frontline, 2 Snow Hawks in the middle, 1 Big Snow Hawk backline
+        - Variation 2:
+            - 1st battle = 3 Goblins frontline + 1 Hobber backline
+            - 2nd battle = 3 Snow Slimes frontline, 3 Ice Clouds in the middle, 2 Ice Clouds backline
+            - 3rd Battle = 2 Snow Hawks frontline, 2 Snow Hawks in the middle, 2 Big Snow Hawks backline
+
+    === "Bondmate"
+
+        ??? warning "Ultimate Ice-Wind Trout"
+
+            - The conditions are not entirely known, but some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen).
+            - Upon completion, you will get an Ultimate Ice-Wind Trout instead, which heals slightly more than the normal trout.
+            - In addition, you will get the bondmate "Exquisite Jewel Trout" (HP).
 
 ## Slaying the White Wolves
 
@@ -870,22 +889,33 @@ This request doesn't have any pre-requisites.
 
 You need to complete Unforgivable Wolves. Otherwise, this request will automatically fail.
 
-- Head to Route 7 from Route 6 Harken. This is because you will need to access both Route 7 to Route 8 entrances.
-- The gist of this request is that you're picking up some rocks (shiny objects on the floor) in Route 8.
-- The location of several high value rocks are typically static. For example, (X:4,Y:8) and (X:26,Y:21) are guarded by 2 Stonefolk frontline, and 2 Lamenting Snowfolk backline. They have much higher HP and DEF than randomly encountered ones. These rocks are silver ore.
-- After collecting 5 rocks, return to turn them in. The merchant will test you on which rocks you think are most valuable and which are cheapest. He will pay you accordingly.
-- After potentially getting scammed, he will answer what type of rock is what type of material. Request completed.
-      1. Small Heavy White Stone = Silver, which coins are made of.
-      2. Stone with Yellow Specks = Gold, but small amount so only worth 1/10th of a coin.
-      3. Large Reddish Brown Stone = Iron (in high demand)
-      4. Large Brownish-Green Stone = Copper (not worth much)
-      5. Black Stone = Coal (not worth much)
+??? note "Request Guide"
 
-??? map "Ore Locations"
+    === "Walkthrough"
 
-    ![](./img/ore-mining-loc.jpg)
+        - Head to Route 7 from Route 6 Harken. This is because you will need to access both Route 7 to Route 8 entrances.
+        - The gist of this request is that you're picking up some rocks (shiny objects on the floor) in Route 8.
+        - The location of several high value rocks are typically static. For example, (X:4,Y:8) and (X:26,Y:21) are guarded by 2 Stonefolk frontline, and 2 Lamenting Snowfolk backline. They have much higher HP and DEF than randomly encountered ones. These rocks are silver ore.
+        - After collecting 5 rocks, return to turn them in. The merchant will test you on which rocks you think are most valuable and which are cheapest. He will pay you accordingly.
+        - After potentially getting scammed, he will answer what type of rock is what type of material. Request completed.
 
-    - Double marks = Boss enemy guarding ore
+    === "Map"
+
+        ??? map "Ore Locations"
+
+            <div align="center">
+            ![](./img/ore-mining-loc.jpg)
+            </div>
+
+            - Double marks = Boss enemy guarding ore
+
+    === "Rock Values"
+
+        1. Small Heavy White Stone = Silver, which coins are made of.
+        2. Stone with Yellow Specks = Gold, but small amount so only worth 1/10th of a coin.
+        3. Large Reddish Brown Stone = Iron (in high demand)
+        4. Large Brownish-Green Stone = Copper (not worth much)
+        5. Black Stone = Coal (not worth much)
 
 ## Short Rest in the Cabin
 
@@ -1039,18 +1069,32 @@ You need to complete Ore Mining. Otherwise, this request will automatically fail
 
 !!! warning "The exact mechanics of this request isn't known for sure, but what's listed is perhaps how it works"
 
-- Accept request at tavern then head to Route 10 via Route 9 Harken.
-- You will essentially be looking for a shiny object on the floor.
-- Locations of all shiny objects are static. (X:17, Y:9), (X:7, Y:9), (X:13, Y:0). 
-- Final shiny object will spawn after all 3 objects are collected. (X:6,Y:24).
-- Upon collection will engage the player in a battle with some Stonefolk. You can choose to decline the fight by putting the stone down, in which you may pick it up again. After winning the fight, the request will be marked as completed. You must return and turn it in.
-- The fights are as follow:
-      1. 1 Stonefolk + whole team starts with Cursed. (X:17, Y:9)
-      2. 3 Stonefolk + whole team starts with Critical Poison. (X:7, Y:9)
-      3. 2 Stonefolk + whole team starts with Paralysis. (X:13, Y:0)
-      4. 4 Stonefolk + whole team starts with Fear (X:6, Y:24)
-- The Stonefolk/Lamenting Snowfolk in this fight all have extremely high HP and DEF. The last battle will be even moreso, especially the ones in the back
-- Turning in less than 3 stones = Just some gold. Turning in 3 stones = gold and some junk. Turning in 3 stones + 1 large stone = gold + 2 types of junk + Icebreaker sword.
+??? note "Request Guide"
+
+    === "Walkthrough"
+
+        - Accept request at tavern then head to Route 10 via Route 9 Harken.
+        - You will essentially be looking for shiny objects on the floor.
+        - Locations of all shiny objects are static: (X:17, Y:9), (X:7, Y:9), (X:13, Y:0)
+        - Final shiny object will spawn after all 3 objects are collected at (X:6, Y:24)
+        - Upon collection you will engage in a battle with Stonefolk. You can choose to decline the fight by putting the stone down, in which you may pick it up again. After winning the fight, the request will be marked as completed. You must return and turn it in.
+
+    === "Stone Locations"
+
+        | Location | Enemies | Status Effect |
+        |----------|---------|---------------|
+        | (X:17, Y:9) | 1 Stonefolk | Whole team starts Cursed |
+        | (X:7, Y:9) | 3 Stonefolk | Whole team starts with Critical Poison |
+        | (X:13, Y:0) | 2 Stonefolk | Whole team starts with Paralysis |
+        | (X:6, Y:24) | 4 Stonefolk | Whole team starts with Fear |
+
+        - The Stonefolk in these fights all have extremely high HP and DEF. The last battle will be even moreso, especially the ones in the back.
+
+    === "Rewards"
+
+        - Turning in less than 3 stones = Just some gold
+        - Turning in 3 stones = Gold and some junk
+        - Turning in 3 stones + 1 large stone = Gold + 2 types of junk + Icebreaker sword
 
 ## Truth of the Beautiful Ore 
 
@@ -1060,12 +1104,53 @@ This request requires Ore Mining and Find my Kitty (including all their pre-reqs
 
 !!! bug "After the 2nd completion, Lulunarde will glitch onscreen briefly before disappearing and no longer calling out the request giver"
 
-- Request requires you to go to Route 10 to pick the warped daphnes and bring them to the Church Grounds altar at the bottom right of the map.
-- It's recommended to take the Church Grounds Harken and walk backwards to Route 10 as it is closer with less enemies.
-- The daphnes are consumed upon being placed on the altar, so any subsequent runs require you to pick them again.
-- Entering the altar will lock the door behind you. There will be several trials that must be overcome. The first trial will have you jumped by 5 Stonefolk (3 in front, 2 in back). They have very high HP and DEF compared to random encounter ones.
-- The second trial will ask for your name. If you give your name, you will instantly be killed. However, this map has Harken's Blessing so you can revive for free. You will realize you got scammed by the request giver. If you give a false name, you will have to fight more stonefolk. If you stay silent, you can pass safely.
-- The third trial will have you fight another 5 Stonefolk (3 in front, 2 in the back). Finally, you will reach the altar, which allows you to pray or not. If you pray, you will instantly die again. So do nothing and you will receive a Devotional Stone. Once to exit the alter room, all the previous stationary Stonefolks are now "sentries" that will automatically force you into a random relatively difficult fight if you enter their line of sight. They can only see in a straight line in front of them and other Stonefolk block their line of sight. There will also now be roaming enemies that are relatively weak. Upon reaching the entrance of the altar, the door will unlock.
-- On the first return to the Tavern, the request giver has ran away and instead will be the merchant from the Ore Mining request. He will tell you that you got scammed and ask to buy the Devotional Stone. Doing so will give some flavor text that indicates that the dwarves may want to use this stone.
-- On the second run, Lulunarde will ask you to try to sus out the person, but the new option doesn't really do anything. The entire ordeal will play out the exact same, except during the 1st Trial, you may close your eyes so that you can skip that fight.
-- When returning to the tavern, you can give the stone to the requester for some gold and some junk. She will promptly be chased out by the ore merchant however. You will actually keep the Devotional Stone. It is not sure what this is for yet.
+??? note "Request Guide"
+
+    === "Walkthrough"
+
+        - Request requires you to go to Route 10 to pick the warped daphnes and bring them to the Church Grounds altar at the bottom right of the map.
+        - It's recommended to take the Church Grounds Harken and walk backwards to Route 10 as it is closer with less enemies.
+        - The daphnes are consumed upon being placed on the altar, so any subsequent runs require you to pick them again.
+        - Entering the altar will lock the door behind you. There will be several trials that must be overcome.
+
+    === "Trials"
+
+        ??? danger "Trial 1 - Ambush"
+
+            - You will be jumped by 5 Stonefolk (3 in front, 2 in back). They have very high HP and DEF compared to random encounter ones.
+            - (2nd run onwards) You may close your eyes to skip this fight.
+
+        ??? danger "Trial 2 - Name"
+
+            - The trial will ask for your name.
+            - **Give your name** = Instant death (but this map has Harken's Blessing so you can revive for free). You will realize you got scammed by the request giver.
+            - **Give a false name** = Fight more Stonefolk
+            - **Stay silent** = Pass safely
+
+        ??? danger "Trial 3 - Combat"
+
+            - Fight another 5 Stonefolk (3 in front, 2 in the back).
+            - Finally, you will reach the altar.
+
+        ??? danger "The Altar"
+
+            - The altar allows you to pray or not.
+            - **Pray** = Instant death
+            - **Do nothing** = Receive a Devotional Stone
+            - After exiting the altar room, all the previous stationary Stonefolk become "sentries" that will force you into a difficult fight if you enter their line of sight. They can only see in a straight line in front of them and other Stonefolk block their line of sight. There will also be roaming enemies that are relatively weak.
+            - Upon reaching the entrance of the altar, the door will unlock.
+
+    === "Turn-in"
+
+        ??? note "1st Run"
+
+            - The request giver has ran away. Instead, the merchant from the Ore Mining request will appear.
+            - He will tell you that you got scammed and ask to buy the Devotional Stone.
+            - Selling it will give some flavor text that indicates the dwarves may want to use this stone.
+
+        ??? note "2nd Run"
+
+            - Lulunarde will ask you to try to sus out the person, but the new option doesn't really do anything.
+            - The entire ordeal will play out the same, except you can skip the 1st Trial by closing your eyes.
+            - When returning to the tavern, you can give the stone to the requester for some gold and junk. She will promptly be chased out by the ore merchant.
+            - You will actually keep the Devotional Stone. Its use is not yet known.
