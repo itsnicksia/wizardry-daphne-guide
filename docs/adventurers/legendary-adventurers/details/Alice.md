@@ -100,7 +100,7 @@ extra text can be added between skills
         </div>
 
     === "Innocent Fanaticism (Personal Request - Light)"
-        {{ get_skill_description("Chaos Deified") }}
+        {{ get_skill_description("Innocent Fanaticism") }}
 
         !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
 
