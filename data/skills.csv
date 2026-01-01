@@ -157,6 +157,7 @@ Illusory Mist,Active,,"A misty vapor obscures enemy sight, with a high chance of
 Immortal Strike,Active,True,Deals a minor physical attack on 1 enemy and restores minor HP to self.,Recovery amount increased based on skill level.,51,Fighter,,,"Gaston, Olive"
 Impartial Collaborator,Passive,,Increases damage to enemies for user and allies in front of or behind them if the ally is neutral.,,,,,Elise,
 Inheritor of the Secret Arts,Discipline,,"Continuously increases each stat, with Surety and Accuracy increased even further.",Surety and Accuracy increased further based on skill level.,,,,Rinne,
+Innocent Fanaticism,Passive,True,"Continuously increases MP and Piety and adds 1 consecutive turn to buffs and debuffs applied by the user. When this skill is inherited, Blessing of Agora is also inherited. This skill can be enhanced by inheriting Blessing of Agora, Innocent Fanaticism, or Chaos Deified.","MP, Piety, and number of continuous turns increased based on skill level.",,,,Alice,
 Instruction in Inner Stillness,Discipline,,"Continuously increases each stat, with Attack Power and Surety increased even further.",Attack Power and Surety increased further based on skill level.,,,,Shiou,
 Interpersonal Combat Technique,Passive,,Increases damage against humanoids and decreases damage from humanoids.,,,,,Chloe,
 Ira's Divine Protection,Bondmate,,Continuously increases Divine Power.,Divine Power increased further based on skill level.,,,,Bondmate,
@@ -404,6 +405,7 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
