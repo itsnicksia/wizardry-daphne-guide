@@ -3,10 +3,10 @@
 !!! warning "Work In Progress"
     - Ctrl + F5 to refresh the page for new updates
 
-<div class="tooltip">
-This is a test 
-<span class="tooltiptext">Tooltip text</span>
-</div>
+<span class="tooltip-container">
+    Hover over me
+    <span class="tooltip-content">This is a test!</span>
+</span>
 
 
 ## Snowy Forest Minor Harken
@@ -27,7 +27,7 @@ This is a test
     
         - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
         - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-        - At 6 fixed locations along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur.
+        - At 6 fixed locations along the main path the Bigfoot Child will stop and make a sound. After the short scene you have the option to "Let it go" or "Stop it". If you opt to let it explore, then 3 randomized events can occur:
         
             ??? note "Bigfoot Child Audio Cues"
                 - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
@@ -59,9 +59,9 @@ This is a test
         ![](./img/salted-pork.jpg)
         </div>
 
-        - Empty red star = Discovery Point
-        - Red star = Bigfoot boss
-        - Green star = Salted Pork
+        - Red Star  = Discovery Point
+        - Red Star (Filled) = Bigfoot Boss
+        - Green Star = Salted Pork reqeust item
       
 ## Village Shut Away in Silence 
 
@@ -163,7 +163,6 @@ This is a test
 ##### Overview 
 
 The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause.    
-
 - Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia
 - Go to the Guild, speak with Arna, and accept the invitation
 - If you leave immediately, then to accept the request in the future select "Talk" in the Guild
@@ -191,10 +190,10 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
         **Endings per Faction**
     
-        - Princess = 4 
-        - Pontiff = 3
-        - Admiral = 3
-        - Total = 10 
+        - Princess: 4 
+        - Pontiff: 3
+        - Admiral: 3
+        - Total: 10 
 
     ??? note "Reset Faction Request" 
     
@@ -203,7 +202,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
     ??? tip "Guiding Lights"
     
-        **Unlock Conditions (as of 1/1)** 
+        Unlock Conditions (as of 1/1) 
 
         - The unlock conditions for the 2 Guiding Lights (Luck) are not consistent with Discord members reporting the following:
             - Clear any Best ending
@@ -216,27 +215,26 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         Confirmed
             - Max faction affinity is required 
             - A Guiding Light will dissolve if it's already been received 
-        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
+        
+        Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ??? note "The Witch's Cave"
 
-    ??? note "Summary"
-
-        === "Notes"
-        
-            - Each faction can only access certain areas of the map, but all progress is permanently recorded
-            - Full map completion requires doing other faction quests
-            - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
-            - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
-            - Enemy level is 65
-            - Some chests have high Find/Trap Disarm requirements even at 150/150
+    === "Notes"
     
-        === "Sleep Tiles"
-                            
-            - A new dungeon mechanic that limits traversal 
-            - After 10 steps you will lose consciousness and be teleported back to your starting point 
-            - During an enemy encounter all team members will be asleep at the start of battle  
-            - Aggro and bait enemies onto normal tiles for easier fights
+        - Each faction can only access certain areas of the map, but all progress is permanently recorded
+        - Full map completion requires doing other faction quests
+        - Stone pillars block pathways, cannot be move, and their locations change depending on the faction  
+        - Faction objectives are completed only in Elden Hill Village and the Witch's Cave 
+        - Enemy level is 65
+        - Some chests have high Find/Trap Disarm requirements even at 150/150
+
+    === "Sleep Tiles"
+                        
+        - A new dungeon mechanic that limits traversal 
+        - After 10 steps you will lose consciousness and be teleported back to your starting point 
+        - During an enemy encounter all team members will be asleep at the start of battle  
+        - Aggro and bait enemies onto normal tiles for easier fights
 
     ??? map "The Witch's Cave - B1F"    
         <div align="center">
@@ -259,7 +257,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
         === "Walkthrough"
 
             - Speak to the Herbalist in town 
-            - Recommends using Sleepmoss that grows in the Witch's Cave 
+            - Recommends Sleepmoss to sedate the villagers  
             - Enter the Witch's Cave 
             - From the entrance head south and follow the path to the "sleepy tunnel" area (blue bubble tiles)  
             - Collect the 3 Sleepmoss 
@@ -283,19 +281,16 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
 
         === "Walkthrough"
    
-            - Speak to Raimi in town and he will privately evaluate Rosa
-            - Upon returning recommends Slatewillow as a cure 
+            - Speak to Raimi in town and he will privately evaluate Rosa, upon returning he recommends Slatewillow   
             - Enter the Witch's Cave 
-            - The Slatewillow is located at the end of a long, one-way path through B1F and B2F 
-            - Requires going through part of the "sleepy tunnel" area (blue bubble tiles)
-            - Low-level teams should consider bringing MP and SP pots as insurance
-            - From the entrance head to the southeast to access a dropdown point to B2F (see Map tab)
-            - The room you drop into has 4 enemies in a small space
-            - Follow the path west and then north (southern stairs are a dead end)
+            - The Slatewillow is located at the end of a long, one-way path through B1F and B2F, which requires going through part of the "sleepy tunnel" area (blue bubble tiles). Low-level teams should consider bringing MP and SP pots as insurance given the area's mob density 
+            - From the entrance head to the southeast to access a drop-down point to B2F
+            - The room you drop into on B2F has 4 enemies in a small space and there is a high chance of being ambushed
+            - Exit the room, follow the path west, and then north (southern stairs are a dead-end)
             - The side area with the Cyclops + Bigfoot fight is optional as it has no special items or impact on the ending
             - Head north and take the stairs to B1F
-            - Go south through the "sleepy tunnel" area (blue bubble tiles)                    
-            - The Slatewillow is in front of the teleporter and will be automatically picked up
+            - Go south through the "sleepy tunnel" area                     
+            - The Slatewillow is located in front of the teleporter and will be automatically picked up
             - Exit 
             - Speak with Raimi in town  
             - Ending sequence begins automatically 
@@ -303,17 +298,14 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                 ??? warning "Rewards"
                     - Achievement: "A Terrible Nightmare"
                     - 15,000 Gold 
-                    - There is no known way to avoid this ending 
 
-        === "Map"
-
-            ??? map "Dropdown to B2F"
+        === "Drop-down to B2F"
             
-                <div align="center">
-                ![](./img/princess-hole.png)
-                </div>
+            <div align="center">
+            ![](./img/princess-hole.png)
+            </div>
 
-        === "Boss: Cyclops"
+        === "Boss: Cyclops + Bigfoot"
             
             - More details to be added soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -323,26 +315,24 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
     ??? tip "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
         
         - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
-        - The default Mystic Route has a different map arrangement and quest giver
+        - The default Mystic Route has a different map layout and quest giver
         - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
         
         ??? tip "Best Ending - Aegon Route<span style="color: MediumOrchid">*</span>"
 
             === "Walkthrough"
 
-                - Speak to Dylanhardt in town 
-                - Select the option to return to the Royal Capital 
+                - Speak to Dylanhardt in town and select the option to return to the Royal Capital 
                 - Meet with Aegon and he recommends Fellwisp to cure Rosa and Sar-moon Herb to calm the villagers
-                - Return to Elden Hill Village 
-                - Enter the Witch's Cave 
-                - Go north and down the stairs to B2F
-                - Both request items are located on this floor. See Map tab for details 
+                - Return to Elden Hill Village and enter the Witch's Cave 
+                - Go north and take the stairs down to B2F
+                - Both request items are located on this floor
                 - Exit 
                 - Speak with Dylanhardt in town 
                 - Ending sequence begins automatically 
-                - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
-                - After the scene Pulgritte and Dylandhardt will leave 
-                - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
+                    - The "Foolish parent" or "Foolish child" option does not seem to impact the endings
+                    - After the scene Pulgritte and Dylandhardt will leave 
+                    - Choose whether to tell Mayor Oswald the truth about Rosa's true nature 
     
                     ??? warning "Ending Choices"
                     
@@ -353,34 +343,34 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                                 - 11,000 Gold 
                 
                         ??? note "Sub-Ending B: "Do Not Tell the Truth""
-                            - The options to threaten Rosa do not seem to have any impact on the ending
+                            - The threaten Rosa options do not seem to have any impact on the ending
                 
                             !!! warning "Rewards"
                                 - Achievement: "One Who Carries the Future of Her Land"
                                 - 9,000 Gold 
                                 - 1 Junk<span style="color: MediumOrchid">*</span>
 
-            === "Map"
-                            
-                ??? map "Fellwisp Location"
-                    <div align="center">
-                    ![](./img/princess-fellwisp.PNG)
-                    </div>
-        
-                    - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
-                    - Defeating the Cyclops is required for the Best ending
-                    - A challenging fight during the early game and you may have to return at a higher level or with better gear 
-                    - Will not respawn once defeated
+            === "Fellwisp Location"
+            
+                <div align="center">
+                ![](./img/princess-fellwisp.PNG)
+                </div>
+    
+                - Located in B2F in a side room behind the Cyclops. Don't forget to pick it up after the battle!
+                - Defeating the Cyclops is required for the Best ending
+                - A challenging fight during the early game and you may have to return at a higher level or with better gear 
+                - Will not respawn once defeated
 
-                ??? map "Sar-moon Herb Location"
-                    <div align="center">
-                    ![](./img/princess-sar-moon.PNG)
-                    </div>
-                    
-                    - Located in the northeast area and requires reversing a stone to access
-                    - Multiple enemies will spawn after it is picked up  
+            === "Sar-moon Herb Location"
+            
+                <div align="center">
+                ![](./img/princess-sar-moon.PNG)
+                </div>
+                
+                - Located in the northeast area and requires reversing a stone to access
+                - Multiple enemies will spawn after it is picked up  
                               
-            === "Boss: Cyclops"
+            === "Boss: Cyclops + Bigfoot"
                 
                 - More details to be added soon
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -392,8 +382,7 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
             === "Walkthrough"
 
                 - Enter the Witch's Cave 
-                - Head south to the person icon on the map
-                - Speak with the Mystic and select "Talk about Elden Hill Village"
+                - Head south to the person icon on the map, speak with the Mystic, and select "Talk about Elden Hill Village"
                 - The Mystic recommends using Sar-moon Herb to calm the villagers 
                 - Head downstairs to B2F 
                 - The side area with the Cyclops + Bigfoot is optional. It has no items or impact on the ending
@@ -407,19 +396,18 @@ The goal of the Princess route is to solve Rosa's mysterious affliction that the
                         - 9,000 Gold
                         - Calm Wind Crest
                         - 2 Junk
-                        - Same ending scenes as "Bad Ending - Consult with an Herbalist" 
+                        - Same ending scenes as Bad Ending - Consult with an Herbalist 
                 
-            === "Map"
+            === "Sar-moon Herb Location"
         
-                ??? map "Sar-moon Herb Location"
-                    <div align="center">
-                    ![](./img/princess-sar-moon.PNG)
-                    </div>
-                    
-                    - Located in the northeast area and requires reversing a stone to access
-                    - Multiple enemies will spawn after it is picked up  
+                <div align="center">
+                ![](./img/princess-sar-moon.PNG)
+                </div>
+                
+                - Located in the northeast area and requires reversing a stone to access
+                - Multiple enemies will spawn after it is picked up  
 
-            === "Boss: Cyclops"
+            === "Boss: Cyclops + Bigfoot"
                 
                 - More details to be added soon
                 - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
