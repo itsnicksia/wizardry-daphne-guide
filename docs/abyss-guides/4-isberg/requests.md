@@ -26,7 +26,7 @@
         - The Bigfoot Child will stop and make a sound at 6 Discovery Points along the main path. You have the option to "Let it go" or "Stop it". 
         - If you let it explore, then 3 randomized events can occur:  
 
-            ??? quote "Audio Cues"
+            ??? quote "Bigfoot Child Audio Cues"
             
                 - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
                 - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
@@ -205,6 +205,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     === "Unlock Conditions" 
     
         As of 1/1 the unlock conditions for the 2 Guiding Lights (Luck) are not consistent with Discord members reporting the following:
+
         - Clear any Best ending
         - Clear all 3 Best endings
         - Clear the True ending (highest consistency rate)
@@ -213,7 +214,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - If one of these requirements do not work, then try the others 
         - It is possible a bug is present unless Drecom programmed multiple unlock conditions for the same Guiding Light 
 
-    == "Confirmed"
+    === "Confirmed"
     
         - Max faction affinity is required 
         - A Guiding Light will dissolve if it's already been received 
@@ -301,13 +302,13 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - Achievement: A Terrible Nightmare
                     - 15,000 Gold 
 
-        === "B2F Drop-down"
+        === "Drop-down to B2F"
             
             <div align="center">
             ![](./img/princess-hole.png)
             </div>
 
-        === "Boss: Cyclops + Bigfoot"
+        === "Optional Boss: Cyclops + Bigfoot"
             
             - More details to be added soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -444,17 +445,19 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Request 5:  Sheep - Return to town and speak with Tenet
     
         === "Tenet Offerings" 
-        
+
+            Basics 
+            
             - Only available after a first run
             - Talk to Tenet in town before entering the Witch's Cave
             - Select 1 of the 3 offerings in advance, reducing the total number of brazier requests 
-            <br>
-            - Total Brazier Requests
             
-                - Do not talk to Tenet: 5 
-                - Hen: 4  
-                - Infant (Lamb): 2 
-                - Sheep: 1 (Unlocks the witch's door) 
+            Total Brazier Requests
+            
+            - Do not talk to Tenet: 5 
+            - Hen: 4  
+            - Infant (Lamb): 2 
+            - Sheep: 1 (Unlocks the witch's door) 
     
     ??? note "Witch Burnings"
 
@@ -490,7 +493,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
             If you plan to do all 3 endings:
             
-            - Bad Ending - Elencia Dead as all 5 brazier offering requests are required on a first run. However, returning to town only for the brazier offerings results in 3 witch burnings = Elencia Alive. An extra step is required. You must return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
+            - Bad Ending - Elencia Dead as all 5 brazier offering requests are required on a first run. However, returning to town only for the brazier offerings results in 3 witch burnings = Elencia Alive. 
+            - An extra step is required. You must return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
             - Select the Sheep from Tenent in town for the other 2 endings (Good, Best)
             - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight
             
@@ -502,36 +506,35 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
         === "Walkthrough" 
         
-        - First run: Must witness a 4th witch burning
-        - Subsequent runs: Do not speak with Tenet + witness a 4th witch burning 
-        <br>
-        - Enter the Witch's Cave 
-        - Complete all 5 brazier offering requests
-            - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight. This is not the outcome we want as Elencia must be dead. You must make an additional trip back to town to witness a 4th witch burning 
-            - Return to town after giving the brazier the 3 Rabbits or Living Blood
-        - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in the B2F hallway
-        - Unlock the witch's room and defeat the Witch boss 
-        - Elencia will be dead after the boss fight 
-        - Exit 
-        - Return to town 
-        - Ending sequence begins automatically 
-        
-            ??? warning "Rewards"
-                - Achievement: A Witch There Was 
-                - 9,000 Gold
-                - Achievement is shared with Admiral - Good Ending - Elencia Dead and can only be received once
+            - First run: Must witness a 4th witch burning
+            - Subsequent runs: Do not speak with Tenet + witness a 4th witch burning 
+            <br>
+            - Enter the Witch's Cave 
+            - Complete all 5 brazier offering requests
+                - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight. This is not the outcome we want as Elencia must be dead. You must make an additional trip back to town to witness a 4th witch burning 
+                - Return to town after giving the brazier the 3 Rabbits or Living Blood
+            - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in the B2F hallway
+            - Unlock the witch's room and defeat the Witch boss 
+            - Elencia will be dead after the boss fight 
+            - Exit 
+            - Return to town 
+            - Ending sequence begins automatically 
+            
+                ??? warning "Rewards"
+                    - Achievement: A Witch There Was 
+                    - 9,000 Gold
+                    - Achievement is shared with Admiral - Good Ending - Elencia Dead and can only be received once
 
         === Boss: Witch
         
             - Details to be added soon 
 
     ??? note "Good Ending - Elencia Alive - "Tell the Truth""
-
-            === "Walkthrough" 
+    
+        === "Walkthrough" 
         
             - First run: Default ending if returning to town only for the offering requests (3 witch burnings)
             - Subsequent runs: Talk to Tenet in town and select the Sheep (0 witch burnings) 
-            <br>
             - Enter the Witch's Cave
             - Complete all 5 brazier offering requests
             - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
@@ -560,30 +563,29 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
         === "Walkthrough" 
         
-        - First run: Default ending if returning to town only for the offering requests (3 witch burnings)
-        - Subsequent runs: Talk to Tenet in town and select the Sheep (0 witch burnings) 
-        <br>
-        - Enter the Witch's Cave
-        - Complete all 5 brazier offering requests
-        - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
-        - Unlock the witch's room and defeat the Witch boss 
-        - Elencia will be alive, but unconscious after the boss fight 
-            - "Examine the body"
-            - "Examine the head" 
-            - "Pull it out"
-        - Exit 
-        - Return to town 
-        - Ending sequence begins automatically 
-        
-            - "Prepare yourself" (skips villager fight)
-            - "Condemn the Witch"
-        
-            ??? warning "Rewards"
+            - First run: Default ending if returning to town only for the offering requests (3 witch burnings)
+            - Subsequent runs: Talk to Tenet in town and select the Sheep (0 witch burnings) 
+            - Enter the Witch's Cave
+            - Complete all 5 brazier offering requests
+            - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
+            - Unlock the witch's room and defeat the Witch boss 
+            - Elencia will be alive, but unconscious after the boss fight 
+                - "Examine the body"
+                - "Examine the head" 
+                - "Pull it out"
+            - Exit 
+            - Return to town 
+            - Ending sequence begins automatically 
             
-                - Achievement: Condemn the Witch
-                - 17,000 Gold
-                - 2 Junk (Sheep for 0 deaths, subsequent runs only)
-                - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
+                - "Prepare yourself" (skips villager fight)
+                - "Condemn the Witch"
+            
+                ??? warning "Rewards"
+                
+                    - Achievement: Condemn the Witch
+                    - 17,000 Gold
+                    - 2 Junk (Sheep for 0 deaths, subsequent runs only)
+                    - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span> 
 
         === "Boss: Witch"
         
@@ -601,7 +603,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - The Admiral route is deceptively structured as the initial choices of "Capture a witch" or "Threaten" have no impact on the ending
         - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
         - Elencia's post-battle status (dead or alive) determines the ending
-        - The "Prepare a sedative" option is self-contained and separate from the brazier offerings mechanic    
+        - The "Prepare Sedative" option is self-contained and separate from the brazier offerings mechanic    
     
     ??? note "Demonic Brazier Offerings"
 
@@ -624,16 +626,18 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Request 5:  Gold Ore - Defeat 3 back-to-back groups of tough enemies 
 
         === "Elinas Offerings" 
-        
+
+            Basics 
+            
             - Only available after a first run
             - Talk to Elinas in town before entering the Witch's Cave
             - Select 1 of the 2 offerings in advance, reducing the total number of brazier requests 
             
-            - Total Brazier Requests
+            Total Brazier Requests
             
-                - Do not talk to Elinas: 5 
-                - Broom: 4 
-                - Infant (Lamb): 2 
+            - Do not talk to Elinas: 5 
+            - Broom: 4 
+            - Infant (Lamb): 2 
 
 ??? note "Admiral Ending Guides" 
 
@@ -646,8 +650,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Endings 
     
             - Bad - Prepare Sedative 
-            - Good - Elencia dead (Pick Infant (Lamb) on subsequent runs)
-            - Best - Elencia alive (Pick Broom on subsequent runs)
+            - Good - Elencia Dead (Pick Infant (Lamb) on subsequent runs)
+            - Best - Elencia Alive (Pick Broom on subsequent runs)
             
         - Rewards
         
@@ -680,7 +684,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Located in the northeast area and requires reversing a stone to access
             - Multiple enemies will spawn after it is picked up  
         
-        === "Boss: Cyclops + Bigfoot"
+        === "Optional Boss: Cyclops + Bigfoot"
             
             - More details to be added soon
             - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
@@ -690,14 +694,13 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     ??? note "Good Ending - Elencia Dead"
 
         === "Walkthrough" 
-        
-            !!! warning "Can only be done on a subsequent run"
-         
+
+            - Can only be done on a subsequent run
             - Select "Capture a witch" or "Threaten" it does not matter 
             - Speak with Cleric Ludwin in town and confirm you will help search for the witch
             - Speak with Elinas and pick the Infant (Lamb) 
             - Enter the Witch's Cave 
-            - Head south and take the stairs down to B2F
+                - Head south and take the stairs down to B2F
             - Go up and to the right to the large room with multiple doors and interact with the brazier
             - Offer the Infant (Lamb) and explore the southeast room at the end of the path until Lulu comments 
             - Return to the brazier and it will request the Gold Ore 
@@ -718,10 +721,10 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 
                 ??? warning "Rewards"
                 
-                    - Achievement: "A Witch There Was" 
+                    - Achievement: A Witch There Was 
                     - 14,000 Gold
                     - Calm Wind Resistram<span style="color: MediumOrchid">*</span> 
-                    - Achievement is shared with an ending in the Pontiff route ("Bad Ending - Elencia Dead") and can only be received once
+                    - Achievement is shared with Pontiff - Bad Ending - Elencia Dead and can only be received once
                     - The Admiral is satisfied with this outcome 
 
         === "Gold Ore Location"
@@ -769,7 +772,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Ending sequences will begin automatically  
             
                 ??? warning "Rewards"
-                    - Achievement: "You Are Permitted to Call My Name, But Only Once" 
+                    - Achievement: You Are Permitted to Call My Name, But Only Once 
                     - 19,000 Gold
                     - The Admiral is pleased with this outcome
 
