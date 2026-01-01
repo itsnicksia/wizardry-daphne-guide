@@ -76,15 +76,13 @@ Bonus trait points are an additional benefit of the merging system and are cappe
 
 Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged. If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
  
-## I'm F2P, how do I benefit from the merging system?
+### F2P Considerations
 
 F2P can benefit the most from the merging system if you are using one of the 6 standard Legendary units (Lanavaille, Adam, Yekaterina, and Debra) or any of the General units (Flut, Marianne, Chloe, Asha).
 
-The way this works is to get 2 copies of the alternative version during their limited banner run to activate the shared discipline system. Now you can use the more commonly available copies of the standard version to raise the discipline level of the alternative version. For example, Lanavaille’s alternative style, Wandering Princess Lanavaille, has a Discipline Skill (“featured stats”) that is strictly superior to standard Lanavaille’s version as it adds additional HP and Critical Tolerance. You now have access to D9 Wandering Princess Lanavaille, but only spent gems on 2 copies.   
- 
-For General units the same logic applies. Chloe’s featured stats are SP and RES. Her alternative version, Summer Chloe, has SP and SUR, which is more desirable for both her classes.
-
-The shared discipline system also allows you to switch styles without sacrificing stats (D0 versus Dx) if you need a particular Unique or Discipline Skill depending on what you are facing. For instance you can use standard Adam for auto-farming due to his higher MAG, ASPD, and lower MP costs; then switch styles to Millennial Lord Adam when fighting a Dark boss to take advantage of his unique skill. 
+- The way this works is to get 2 copies of the alternative version during their limited banner run to activate the shared discipline system. Now you can use the more commonly available copies of the standard version to raise the discipline level of the alternative version. For example, Lanavaille’s alternative style, Wandering Princess Lanavaille, has a Discipline Skill (“featured stats”) that is strictly superior to standard Lanavaille’s version as it adds additional HP and Critical Tolerance. You now have access to D9 Wandering Princess Lanavaille, but only spent gems on 2 copies.
+- For General units the same logic applies. Chloe’s featured stats are SP and RES. Her alternative version, Summer Chloe, has SP and SUR, which is more desirable for both her classes.
+- The shared discipline system also allows you to switch styles without sacrificing stats (D0 versus Dx) if you need a particular Unique or Discipline Skill depending on what you are facing. For instance you can use standard Adam for auto-farming due to his higher MAG, ASPD, and lower MP costs; then switch styles to Millennial Lord Adam when fighting a Dark boss to take advantage of his unique skill. 
 
 
 
