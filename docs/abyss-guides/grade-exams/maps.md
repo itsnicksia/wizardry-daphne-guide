@@ -64,3 +64,19 @@ The Grade Exam can also be passed by purchasing the corresponding Grade Marker f
 - The boss encounter consists of a Minotaur and a Succubus together
     - Kill the succubus first, then the Minotaur.
     - Leverage DILTO, MORLIS, MACALDIA, and any other buff/debuff spells at your disposal.
+
+## Copper Exam
+
+![](img/copper-grade-exam.jpg)
+
+**Special Notes**
+
+- Necrocore boss is in north central room
+- Rooms with teleporters have mini bosses
+- Teleporters return you to the entrance
+- You have two options to clear this exam:
+  - Go to boss room and fight the Necrocore + minibosses
+    - This leads to a more difficult Necrocore fight, but there is no need to conserve resources
+  - Go to each teleporter room, clear out minibosses, then go fight Necrocore alone
+    - This leads to a trivial Necrocore fight, but you need to be able to conserve resources
+    - You don't have to clear every miniboss room, but each one you clear lessens what joins the Necrocore fight

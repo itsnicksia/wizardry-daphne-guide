@@ -12,7 +12,7 @@ import { useState } from 'react';
  *
  * Equipment is categorized by rank:
  * - Rank 1-5: Worn through Ebonsteel equipment
- * - Rank 6 Two-Handed: Silver-tier two-handed weapons (swords, spears, axes, maces)
+ * - Rank 6 Two-Handed: Silver-tier two-handed weapons (greatswords, two-handed spears, two-handed axes, two-handed maces)
  * - Rank 6 Other: All other Silver-tier equipment
  *
  * Note: Alteration stone tables have 18 stats (not 19). ASPD flat is NOT available
@@ -30,7 +30,7 @@ interface RankCategoryOption {
 
 const RANK_CATEGORIES: RankCategoryOption[] = [
     { id: 'rank1to5', label: 'Worn - Ebonsteel', description: 'Equipment Ranks 1-5' },
-    { id: 'rank6TwoHanded', label: 'Silver (Two-Handed Weapons)', description: 'Two-Handed Swords, Spears, Axes, Maces' },
+    { id: 'rank6TwoHanded', label: 'Silver (Two-Handed Weapons)', description: 'Greatswords, Two-Handed Spears, Two-Handed Axes, Two-Handed Maces' },
     { id: 'rank6Other', label: 'Silver', description: 'All other Silver equipment' },
 ];
 

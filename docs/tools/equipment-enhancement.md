@@ -5,3 +5,4 @@ Data is sourced from:
  - NRJank's Weapons and Armor data
 
 --8<-- "html/equipment-enhancement.html"
+2
