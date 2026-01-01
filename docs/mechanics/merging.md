@@ -4,11 +4,20 @@
 
 A limited number of characters have alternative versions ("styles") that come with different skills and disciplines. “Merging” allows you to combine the standard and alternative style into one adventurer. You can switch between styles at any time in the Training Room. Merging requires you to have at least one copy of the standard and alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits. There is no downside to merging.
 
-!!! note "Important Terms"
+??? note "Important Terms"
+    
+    - Base unit: The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
+    - Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive. 
+    - Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). Note: The featured stats of Legendary units are higher than General units. 
 
-   - Base unit: The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
-   - Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive. 
-   - Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). Note: The featured stats of Legendary units are higher than General units. 
+ ??? note "Merging Steps"   
+ 
+     1. Adventure’s Guild > Training Room
+     2. Select the base unit from your current party or Adventurer List. This unit must be registered
+     3. Select “Merge” at the bottom of the Training Room menu
+     4. In the Merge menu select the fodder unit from the available copies to merge into the base unit. Fodder units do not have to be registered
+     5. Select “Merge” at the bottom of the screen  
+     6. Reallocate BP (Optional, you can hold off on the very last point to re-allocate all BP to something different if you wish)
 
 ### Adventurers with Alternative Styles  
 
@@ -17,31 +26,25 @@ The following adventurers have alternative styles and can be merged (as of 1/1/2
 - Legendary units: [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md), [Adam](../adventurers/legendary-adventurers/details/Adam.md), [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md), [Debra](../adventurers/legendary-adventurers/details/Debra.md), [Alice](../adventurers/legendary-adventurers/details/Alice.md)
 - General units: [Flut](../adventurers/general-adventurers/details/Flut.md), [Marianne](../adventurers/general-adventurers/details/Marianne.md), [Chloe](../adventurers/general-adventurers/details/Chloe.md), [Asha](../adventurers/general-adventurers/details/Asha.md)
 
-### Merging Process   
-
-1. Adventure’s Guild > Training Room
-2. Select the base unit from your current party or Adventurer List. This unit must be registered
-3. Select “Merge” at the bottom of the Training Room menu
-4. In the Merge menu select the fodder unit from the available copies to merge into the base unit. Fodder units do not have to be registered
-5. Select “Merge” at the bottom of the screen  
-6. Reallocate BP (Optional, you can hold off on the very last point to re-allocate all BP to something different if you wish)
-
 
 ### Adventure Styles 
 
-To change styles: Adventure’s Guild > Training Room > select merged unit > “Change Style” 
+??? "How to Change Styles" 
 
-The style you select as “active” in the Training Room determines what discipline (“featured stats”) and passive skill is available to the adventurer. Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. Let’s use Asha as an example:
+    - Adventure’s Guild > Training Room > select merged unit > “Change Style” 
+
+- The style you select as “active” in the Training Room determines what discipline (“featured stats”) and passive skill is available to the adventurer.
+- Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. Let’s use Asha as an example:
 
 ??? note "Unique Skill (Passive)"
 
-   - Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
-   - Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
+    - Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
+    - Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
 
 ??? note "Discipline Skill (“Featured Stats”)"   
 
-   - Standard Asha: HP and Poison Tolerance 
-   - Witching Mage Asha: HP and Sleep Tolerance 
+    - Standard Asha: HP and Poison Tolerance 
+    - Witching Mage Asha: HP and Sleep Tolerance 
 
 It is important to switch between styles depending on the situation or enemy you are facing. For example, if you are fighting a boss that employs constant poison attacks you would opt for the standard Asha style. Why? Her passive increases poison tolerance for adjacent Good team members; and, her discipline skill increases it even further for herself. 
 
@@ -51,11 +54,11 @@ You do not lose anything by merging an adventurer. And, there is no benefit to l
 
 !!! note "The following carries over to the merged unit:"
 
-         - The highest Fortitude and BP of either unit is used
-         - BP can be re-allocated
-         - The highest grade level, class EXP, skills, spells, passives, unlocked classes, relicbrew EXP, and equipped relicbrews. The merging process is not additive. For example, Heavy Attack 1 + Heavy Attack 2 ≠ Heavy Attack 3 
-         - The equipped relicbrews on both units will stack on the merged unit. This could potentially push you into Stage 3 side effects after merging 
-         - The base unit’s IV and current class. You may need to use a class handbook or class change request to switch back to your preferred class, so plan accordingly 
+    - The highest Fortitude and BP of either unit is used
+    - BP can be re-allocated
+    - The highest grade level, class EXP, skills, spells, passives, unlocked classes, relicbrew EXP, and equipped relicbrews. The merging process is not additive. For example, Heavy Attack 1 + Heavy Attack 2 ≠ Heavy Attack 3 
+    - The equipped relicbrews on both units will stack on the merged unit. This could potentially push you into Stage 3 side effects after merging 
+    - The base unit’s IV and current class. You may need to use a class handbook or class change request to switch back to your preferred class, so plan accordingly 
 
 ### Shared Discipline
 
