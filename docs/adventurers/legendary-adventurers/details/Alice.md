@@ -148,6 +148,26 @@ extra text can be added between skills
 
     To sum it up Alice is an absurdly strong option for both priest and mage. And honestly? Our arguably best caster that is sometimes downplayed. She’s not only breaking game rules making some short duration buffs really strong but she’s also a great magic damage dealer thanks to being female-water-elf mage. While this game doesn’t have any “must have” characters Alice will definitely make your game way easier when you’ll invest into her. As for now we don’t have any better supportive option so go ahead and worship Agora and enjoy the easier mode of the game with the strongest caster next to Sheli.
 
+
+??? info "Karkarov's Analysis"
+
+    So up front warning, I am not going to discuss standard Alice... at all.  There are already plenty of reviews of her out there on this site but also on tons of others.  So what is this about?  The new Alice Alt Skin, Shrine Mainden Fru Fru Alice of course.
+
+    So first up, the Alice Simp armada is going to be upset because she of course loses her normal form inherit.  This time she gets "Grace of the Dark One" which gives a chance upon using a mp or sp skill to regenerate up to 40 mp or sp.  PROBLEM STATEMENT: this sounds cool, except it has been tested by our loveable crew of whales in the Faster Thoughts Wiki Backrooms already.  The proc rate just isn't any good, even on Alice, at level 7 (the max) it is only activating around 15% of the time.  That means even with incredibly high level of investment this is still only going to proc a regen 1-2 times out of 10 uses.  It doesn't suck, but it isn't reliable enough to be something you really "count on".  So it is a so so skill, is what it is.  For those curious max inherit on a non Alice (level 6) is around 10ish percent give or take.
+
+    Next up we have her Discipline...  Well this is actually good news if you ask me.  Her new Discipline Skill "Spiritual Power of the Dark One" increases MP and Divine Power.  This is versus OG Alice who is Divine Power and Magic Defense.  So slight improvement here.
+
+    Last but not least her unique uninheritable skill also changes, no more row damage buff, instead... it's "Heretical Blessing" and reduced damage taken to everyone in the row, as long as no one in row is good alignment per usual.  It may just be be, but I honestly kind of prefer this over the normal version, often times you are putty squishier characters in the back, or if you are using a Knight they well could be back there.  That extra damage reduction may be a big deal in those cases.  I "think" it is still a match to previous Alice skill... as in 10% reduction, but I need to do more testing.  I will update this analysis if it turns out different.  This one is sadly a little trickier to test than damage skills etc.
+
+    In the end though she is an Alt Skin... which means she can be merged with normal Alice, and merging is always good.  As it gives free trait points, and allows for extra sources to stack discipline.  Also unlike normal Alice, it is a no brainer on this one.  The inherit skill just does not have a good enough proc rate to really be worth it, it's a luxury item so to speak, not something you "need".  So it feels a lot easier to use Fru Fru Shrine Alice for discipline unlike Normie Alice.
+
+    Also... I honestly think the character design for this alt skin just runs rings around normal Alice and is just a really nice look for her, so there is that.
+
+    All said, I don't think throwing some pulls at her is a bad idea, especially if you are an Alice stan, and there a lot of those.  I do think the new formation skill has a little more versatility than the old one as well, simply because you generally want your big guns on the front row not the back, A4 is definitely a place where running casters more often is not a bad idea, and it plays well with the back row Knight gimmicks.
+
+??? note "Karkarov's Pull Plan"
+    If you use Alice in her normal form you should at least try to pull two copies of Shrine Maiden Alice, one to merge, and one to feed for that level 1 discipline on the Alt Skin.  That's what I did, and I don't really think you need to do more than that unless you want to go ham to really push the discipline.  Her skill is not super great due to the very low proc rate, so you don't need to worry about leveling that. 
+
 ## Duplicate Usage
 
 * Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills.
