@@ -139,7 +139,7 @@ Getting by Among Woods or People,Discipline,,"Continuously increases each stat, 
 Gift of Spell Genius,Discipline,,Continuously increases each stat,MP greatly increased in particular.,,,,Flut,
 Glue Bomb,Active,,Minor physical attack on 1 enemy based on the user's Dexterity. Chance to decrease Evasion.,Efficacy and probability increased while Evasion further decreased based on skill level.,27,Thief,,,
 Gnawing Doubt,Passive,,Increases damage against demi-humans and decreases damage from demi-humans.,,,,,Gaston,
-Grace of the Dark One,Passive,True,"When casting spellsl or using skills, there is a chance of recovering expended MP and SP (up to 40). The probability of recovering MP or SP is reduced if learned by someone other than Alice.",SKILL PAGE 2 MISSING,,,,Alice,
+Grace of the Dark One,Passive,True,"When casting spells or using skills, there is a chance of recovering expended MP and SP (up to 40). The probability of recovering MP or SP is reduced if learned by someone other than Alice.",Probability of recovering MP and SP increased based on skill level.,,,,Alice,
 Grace of the Great Tree,Passive,,Increases Magic Power and Magic Defense when equipped with a two-handed staff.,,,,,Flut,
 Grand Burial ERLIK,Damage,True,"Heavy stone gravel scatters, as though burying the dead, in a mederate earth-type spell attack on 1 enemy. Chance to stun based on Magic Power. Damage dealt and Stun chance are increased when attacking undead opponents. Damage and chance of inflicting Stun are decreased if learned by someone other than Yekaterina.",Skill Description Page 2.,,,,Yekaterina,
 Guard Experience,Passive,,Continuously reduces the MP/SP cost of Fighter spells/skills that cost 3-10 MP/SP.,,,,,Gandolfo,
@@ -402,4 +402,5 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
