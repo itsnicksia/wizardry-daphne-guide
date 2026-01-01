@@ -852,32 +852,14 @@ This request doesn't have any pre-requisites.
 
 ??? note "Request Guide"
 
-    - The objective is to hunt 4 wolf packs scattered across Route 6. The wolf pack locations are static, do not move on the field, and the order fought does not matter. 
-    - The enemy composition of each fight progresses in a fixed order.
+    === "Walkthrough" 
 
-        ??? map "Wolf Pack Locations" 
-        
-            <div align="center">
-            ![](./img/unforgivable-wolves-locations.jpg)
-            </div>
-
-            - (X:11,Y:19) - Southwest of the Fountain
-            - (X:5,Y:18) - Next to upper-left reversal stump
-            - (X:16,Y:16) - Northeast of middle reversal stump
-            - (X:4,Y:1) - Southwest corner in blizzard zone (cannot reverse)
-            - (X:1, Y:23) - Far northwest corner 
-
-        ??? note "Wolf Pack Encounters"
-        
-            - Wolf Pack 1 - 4 Snow Wolves in a row
-            - Wolf Pack 2 - 5 Snow Wolves, 3 in the front, 2 in the back
-            - Wolf Pack 3 - 6 Snow Wolves, 3 in the front, 3 in the back
-            - Wolf Pack 4 - 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back
-    
-    - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
-    - After defeating 3 wolf packs the 4th encounter will be a boss fight against the Snow Wolf Leader.
-    - (Subsequent runs) A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
-    - Exit and return to the Guild to submit the request.
+        - The objective is to hunt 4 wolf packs scattered across Route 6. The wolf pack locations are static, do not move on the field, and the order fought does not matter. Note that while there are 6 possible locations where they could spawn you will only get 4/6 to appear on a given run.  
+        - The enemy composition of each fight progresses in a fixed order.
+        - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
+        - After defeating 3 wolf packs the 4th encounter will be a boss fight against the Snow Wolf Leader.
+        - (Subsequent runs) A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
+        - Exit and return to the Guild to submit the request.
 
         ??? warning "Rewards"
         
@@ -886,6 +868,29 @@ This request doesn't have any pre-requisites.
             - 5,000 Gold 
             - Additional reward - 22,000 Gold 
             - Bondmate - Warg, Commander of the Deep Snow (subsequent runs only)
+
+    === "Wolf Pack Locations" 
+    
+        <div align="center">
+        ![](./img/unforgivable-wolves-locations.jpg)
+        </div>
+
+        - (X:11,Y:19) - Southwest of the Fountain
+        - (X:5,Y:18) - Next to upper-left reversal stump
+        - (X:16,Y:16) - Northeast of middle reversal stump
+        - (X:4,Y:1) - Southwest corner in blizzard zone (cannot reverse)
+        - (X:1, Y:23) - Far northwest corner 
+
+    === "Wolf Pack Encounters"
+    
+        - Wolf Pack 1 - 4 Snow Wolves in a row
+        - Wolf Pack 2 - 5 Snow Wolves, 3 in the front, 2 in the back
+        - Wolf Pack 3 - 6 Snow Wolves, 3 in the front, 3 in the back
+        - Wolf Pack 4 - 4 Snow Wolves in the front, 1 Snow Wolf Leader in the back
+
+    === "Bondmate - Warg, Commander of the Deep Snow"
+
+        - Details coming soon or see Isberg - Bondmate page
 
 ## Passed Through the Coal Mine
 
