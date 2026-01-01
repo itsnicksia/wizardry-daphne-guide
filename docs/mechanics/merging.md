@@ -1,6 +1,6 @@
 # Merging
 
-### Overview
+## Overview
 
 - A limited number of characters have alternative versions ("styles") that come with different skills and disciplines. “Merging” allows you to combine the standard and alternative style into one adventurer. You can switch between styles at any time in the Training Room.
 - Merging requires you to have at least one copy of the standard and alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits. There is no downside to merging.
@@ -11,7 +11,7 @@
     - Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
     - Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). Note: The featured stats of Legendary units are higher than General units. 
 
-### Merging Mechanics 
+## Merging Mechanics 
 
 You do not lose anything by merging an adventurer. And, there is no benefit to leveling a recently pulled standard or alternative style.
 
@@ -32,7 +32,7 @@ You do not lose anything by merging an adventurer. And, there is no benefit to l
 	5. Select “Merge” at the bottom of the screen  
 	6. Reallocate BP (Optional, you can hold off on the very last point to re-allocate all BP to something different if you wish)
 
-### Alternative Styles 
+## Alternative Styles 
 
 ??? note "How to Change Styles" 
 
@@ -72,7 +72,7 @@ You do not lose anything by merging an adventurer. And, there is no benefit to l
         - Standard Asha: HP and Poison Tolerance 
         - Witching Mage Asha: HP and Sleep Tolerance 
 
-### Shared Discipline
+## Shared Discipline
 
 Shared discipline levels between styles is one of the greatest benefits of the merging system. However, this mechanic does not activate until both styles have been disciplined at least once to D1. This means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your pull strategy.
 
@@ -83,7 +83,7 @@ Shared discipline levels between styles is one of the greatest benefits of the m
 	- “Overall Mastery” in the Discipline menu determines how much experience you need to reach the next discipline level. Copies of either the standard or alt version can be used. However, standard copies cannot be used to discipline the alt version and vice-versa. You will need to change styles and then discipline with the correct copy
 	- The "Overall Discipline Level" in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses you receive
 
-### Merging Bonus Traits 
+## Merging Bonus Traits 
 
 Bonus trait points are an additional benefit of the merging system and are capped at +4 for each trait. The value of the merging bonus comes from two sources: 
 
@@ -94,12 +94,12 @@ Consequently, the trait bonuses shown in the merging screen depend on the grade 
 
 ??? note "Bonus Trait Examples" 
 
+	Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged. If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
+
 	- If using a level 60 base unit + a level 1 fodder copy, then the bonus values shown come only from the level 1 unit trait growths because the grade trait bonuses are already included on the base unit
 	- If using a level 1 base unit + a level 60 fodder copy, then the bonus values shown come from both the grade-up bonus points and the unit’s inherent bonus value. Note that the lion’s share of the bonus points are coming from the grade-up, which is why it is almost always +4 to all traits with this combination.
 	- If using a level 60 base unit + a level 60 fodder copy, then you will not see any meaningful trait bonuses (usually 0 or a small point gain on a few traits) on the merge. The grade-up bonuses from two level 60 units will easily exceed the +4 bonus cap. There is no real evidence to suggest that leveling the lower-level unit, base or fodder, will significantly impact the trait gain. 
-		
-	Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged. If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
- 
+		 
 ### F2P Considerations
 
 F2P can benefit the most from the merging system if you are using one of the 6 standard Legendary units (Lanavaille, Adam, Yekaterina, and Debra) or any of the General units (Flut, Marianne, Chloe, Asha).
