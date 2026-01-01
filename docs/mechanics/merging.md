@@ -11,11 +11,14 @@
     - Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
     - Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). Note: The featured stats of Legendary units are higher than General units. 
 
-## Merging Mechanics 
+## Merging Basics 
 
-You do not lose anything by merging an adventurer. And, there is no benefit to leveling a recently pulled standard or alternative style.
+- You do not lose anything by merging an adventurer.
+- There is no benefit to leveling a recently pulled standard or alternative style.
 
-!!! warning "The following carries over to the merged unit:"
+??? warning "Mechanics"
+
+	The following carries over to the merged unit:"
 
     - The highest Fortitude and BP of either unit is used
     - BP can be re-allocated immediately after merging
@@ -34,24 +37,7 @@ You do not lose anything by merging an adventurer. And, there is no benefit to l
 
 ## Alternative Styles 
 
-??? note "How to Change Styles" 
 
-    - Adventure’s Guild > Training Room > select merged unit > “Change Style” 
-
-??? note "Adventurers with Alternative Styles"  
-
-	=== "Legendary"
-		- [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md)
-		- [Adam](../adventurers/legendary-adventurers/details/Adam.md)
-		- [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md)
-		- [Debra](../adventurers/legendary-adventurers/details/Debra.md)
-		- [Alice](../adventurers/legendary-adventurers/details/Alice.md)
-
-	=== "General" 
-		- [Flut](../adventurers/general-adventurers/details/Flut.md)
-		- [Marianne](../adventurers/general-adventurers/details/Marianne.md)
-		- [Chloe](../adventurers/general-adventurers/details/Chloe.md)
-		- [Asha](../adventurers/general-adventurers/details/Asha.md)
 
 ??? note "Unique Skill and Discipline" 
 		
@@ -72,16 +58,45 @@ You do not lose anything by merging an adventurer. And, there is no benefit to l
         - Standard Asha: HP and Poison Tolerance 
         - Witching Mage Asha: HP and Sleep Tolerance 
 
+??? note "How to Change Styles" 
+
+    - Adventure’s Guild > Training Room > select merged unit > “Change Style” 
+
+??? note "Adventurers with Alternative Styles"  
+
+	=== "Legendary"
+		- [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md)
+		- [Adam](../adventurers/legendary-adventurers/details/Adam.md)
+		- [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md)
+		- [Debra](../adventurers/legendary-adventurers/details/Debra.md)
+		- [Alice](../adventurers/legendary-adventurers/details/Alice.md)
+
+	=== "General" 
+		- [Flut](../adventurers/general-adventurers/details/Flut.md)
+		- [Marianne](../adventurers/general-adventurers/details/Marianne.md)
+		- [Chloe](../adventurers/general-adventurers/details/Chloe.md)
+		- [Asha](../adventurers/general-adventurers/details/Asha.md)
+
 ## Shared Discipline
 
-Shared discipline levels between styles is one of the greatest benefits of the merging system. However, this mechanic does not activate until both styles have been disciplined at least once to D1. This means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your pull strategy.
+- Shared discipline levels between styles is one of the greatest benefits of the merging system.
+- This mechanic does not activate until both styles have been disciplined at least once to D1. Consequently, it means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your pull strategy.
 
-!!! warning "Mechanics" 
+??? warning "Mechanics" 
 
 	- Disciplining or merging can be done in any order 
 	- Merged units can reach a maximum discipline level of D18 (versus D9). Units do not gain additional stats past D9, but receive 1 BP from D10-D18
 	- “Overall Mastery” in the Discipline menu determines how much experience you need to reach the next discipline level. Copies of either the standard or alt version can be used. However, standard copies cannot be used to discipline the alt version and vice-versa. You will need to change styles and then discipline with the correct copy
 	- The "Overall Discipline Level" in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses you receive
+
+??? "F2P Considerations"
+
+	F2P can benefit the most from the merging system if you are using one of the 6 standard Legendary units (Lanavaille, Adam, Yekaterina, and Debra) or any of the General units (Flut, Marianne, Chloe, Asha).
+	
+	- The way this works is to get 2 copies of the alternative version during their limited banner run to activate the shared discipline system. Now you can use the more commonly available copies of the standard version to raise the discipline level of the alternative version.
+	- For example, Lanavaille’s alternative style, Wandering Princess Lanavaille, has a Discipline Skill (“featured stats”) that is strictly superior to standard Lanavaille’s version as it adds additional HP and Critical Tolerance. You now have access to D9 Wandering Princess Lanavaille, but only spent gems on 2 copies.
+	- For General units the same logic applies. Chloe’s featured stats are SP and RES. Her alternative version, Summer Chloe, has SP and SUR, which is more desirable for both her classes.
+	- The shared discipline system also allows you to switch styles without sacrificing stats (D0 versus Dx) if you need a particular Unique or Discipline Skill depending on what you are facing. For instance you can use standard Adam for auto-farming due to his higher MAG, ASPD, and lower MP costs; then switch styles to Millennial Lord Adam when fighting a Dark boss to take advantage of his unique skill. 
 
 ## Merging Bonus Traits 
 
@@ -94,25 +109,23 @@ Consequently, the trait bonuses shown in the merging screen depend on the grade 
 
 ??? note "Bonus Trait Examples" 
 
-	Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged. If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
+	=== "Summary"
 
-	- If using a level 60 base unit + a level 1 fodder copy, then the bonus values shown come only from the level 1 unit trait growths because the grade trait bonuses are already included on the base unit
-	- If using a level 1 base unit + a level 60 fodder copy, then the bonus values shown come from both the grade-up bonus points and the unit’s inherent bonus value. Note that the lion’s share of the bonus points are coming from the grade-up, which is why it is almost always +4 to all traits with this combination.
-	- If using a level 60 base unit + a level 60 fodder copy, then you will not see any meaningful trait bonuses (usually 0 or a small point gain on a few traits) on the merge. The grade-up bonuses from two level 60 units will easily exceed the +4 bonus cap. There is no real evidence to suggest that leveling the lower-level unit, base or fodder, will significantly impact the trait gain. 
+	- Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged.
+	- If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
+
+	=== "Level 60 Base + Level 1 Fodder"
+	
+		- If using a level 60 base unit + a level 1 fodder copy, then the bonus values shown come only from the level 1 unit trait growths because the grade trait bonuses are already included on the base unit
+	
+	=== "Level 1 Base + Level 60 Fodder"
+	
+		- If using a level 1 base unit + a level 60 fodder copy, then the bonus values shown come from both the grade-up bonus points and the unit’s inherent bonus value. Note that the lion’s share of the bonus points are coming from the grade-up, which is why it is almost always +4 to all traits with this combination.
+	
+	=== "Level 60 Base + Level 60 Fodder"
+	
+		- If using a level 60 base unit + a level 60 fodder copy, then you will not see any meaningful trait bonuses (usually 0 or a small point gain on a few traits) on the merge. The grade-up bonuses from two level 60 units will easily exceed the +4 bonus cap. There is no real evidence to suggest that leveling the lower-level unit, base or fodder, will significantly impact the trait gain. 
 		 
-### F2P Considerations
-
-F2P can benefit the most from the merging system if you are using one of the 6 standard Legendary units (Lanavaille, Adam, Yekaterina, and Debra) or any of the General units (Flut, Marianne, Chloe, Asha).
-
-- The way this works is to get 2 copies of the alternative version during their limited banner run to activate the shared discipline system. Now you can use the more commonly available copies of the standard version to raise the discipline level of the alternative version.
-- For example, Lanavaille’s alternative style, Wandering Princess Lanavaille, has a Discipline Skill (“featured stats”) that is strictly superior to standard Lanavaille’s version as it adds additional HP and Critical Tolerance. You now have access to D9 Wandering Princess Lanavaille, but only spent gems on 2 copies.
-- For General units the same logic applies. Chloe’s featured stats are SP and RES. Her alternative version, Summer Chloe, has SP and SUR, which is more desirable for both her classes.
-- The shared discipline system also allows you to switch styles without sacrificing stats (D0 versus Dx) if you need a particular Unique or Discipline Skill depending on what you are facing. For instance you can use standard Adam for auto-farming due to his higher MAG, ASPD, and lower MP costs; then switch styles to Millennial Lord Adam when fighting a Dark boss to take advantage of his unique skill. 
-
-
-
-
-
 
 
 
