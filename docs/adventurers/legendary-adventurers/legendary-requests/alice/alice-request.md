@@ -15,7 +15,7 @@ Once the requirements are met, the "request" will be available upon entering the
 
 ## Request Mission
 
-!!! danger "There are two different endings to this request, that of which permanently change Alice. Please make sure which form you would prefer before committing."
+!!! danger "There are two different endings to this request, both of which permanently change Alice. Please make sure which form you would prefer before committing."
 
 1. Alice will tell you about how she feels like Agora's presence is waning and would like to see what's going on. You will need to slaughter 3 Gorgons in the Valeon Grasslands in order to summon Agora. There will be a Gorgon near the entrance (indicated by a bear shaped mob) that you can kill, leave, and then return to do this part quickly.
 2. After killing three Gorgons, you can head to the Royal Capital ruins and watch the cutscene where Agora tells you about how Alice is too strong and is essentially erasing its existence. You will need to head to Agora's shrine to find out more.
