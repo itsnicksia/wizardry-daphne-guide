@@ -599,7 +599,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 - Knight: 10 HP, 5 DEF, 5 MDEF
 - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
 - Ninja: 5 ATK, 5 EVA, 5 ASPD
-- Samurai: 5 ATK, 5 MAG
+- Samurai: 5 ATK, 5 MAG, 5 ACC
 - Priest: 5 DIV, 5 RES
 - Mage: 10 MP, 5 MAG
 
