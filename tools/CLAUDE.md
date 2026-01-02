@@ -157,7 +157,7 @@ Valid equipment types (29 total):
 - **Stat Types**:
   - Percentage stats (9): ATK%, MAG%, DIV%, ACC%, EVA%, RES%, DEF%, MDEF%, ASPD%
   - Flat stats for initial blessings (10): ATK, MAG, DIV, ACC, EVA, RES, DEF, MDEF, ASPD, SUR
-  - Flat stats for alteration stones (9): Same but NO ASPD flat (only 18 total stats)
+  - Flat stats for alteration stones (10): Same as initial blessings (19 total stats)
   - **Note**: The critical/surety stat is always called "SUR" (not "CRIT") in this codebase
 
 ### Tool Tabs
