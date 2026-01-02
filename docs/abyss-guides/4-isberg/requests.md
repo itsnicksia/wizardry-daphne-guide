@@ -645,7 +645,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
         - Total of 3 confirmed endings 
             - Possible another ending exists that has yet to be identified (as of 1/1)
-            - On a first run you will always get the Best ending (Elencia Alive) since you have to collect all 5 brazier offerings
+            - When selecting either "Capture a witch" or "Threaten" on a first run you will always get the Best ending (Elencia Alive) since you have to collect all 5 brazier offerings
     
         - Endings 
     
