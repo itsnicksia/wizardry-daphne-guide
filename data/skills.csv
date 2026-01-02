@@ -52,6 +52,7 @@ Calamitous Rockfall,Damage,,"Useable when equipped with Two-Handed Staff of The 
 Calculated Charity,Passive,,Reduces physical damage taken from enemies for the user and an ally in front of or behind them if the ally is evil.,,,,,Milana,
 CALDIA,Support,,Expanded visibility increases the Accuracy and Surety Rate of 1 ally for 3 turns.,Accuracy and Surety rate incrementally increased further based on skill level. More turns added.,17,Priest,,,
 Calm Mind Technique,Passive,,Reduces Fortitude loss when failing to disarm traps.,,70,Thief,Thief-specific,,
+Chaos Deified,Passive,True,"Continuously increases MP and I.Q. and adds 1 consecutive turn to buffs and debuffs applied by the user. When this skill is inherited, Blessing of Agora is also inherited. This skill can be enhanced by inheriting Blessing of Agora, Innocent Fanaticism, or Chaos Deified.","MP, I.Q., and number of continuous turns increased based on skill level.",,,,Alice,
 Child of the Sacred Tree,Discipline,,"Continuously increases each stat, with Magic Power and Action Speed increased even further.",Magic Power and Action Speed increased further based on skill level.,,,,Shelirionach,
 Chris's Friendship,Bondmate,,Continuously increases MP.,MP increased further based on skill level.,,,,Bondmate,
 Coin of Power,Passive,,"Allows one-handed swords and two-handed swords to be equipped. Continuously increases own Attack Power, Defense Power, Accuracy, Evasion, HP, and SP.",,,,,Berkanan,
@@ -77,7 +78,7 @@ Dancer of Liberation,Discipline,,"Continuously increases each stat, with Surety 
 Dark Resistance Weakening,Debuff,,"By whispering malicious things to surrounding entities, there is a chance of decreasing the dark-type tolerance of 1 enemy row for 2 turns.",Probability increased and Dark-type Resistance Weakening effect is further increased based on skill level. Additional turns incrementally added.,67,Mage,Mage-specific,,
 Dark Type Thaumaturgy,Passive,,Reduces dark-type damage to self.,Damage decreased further based on skill level.,55,Mage,,,
 Dark-Kin Blessing,Passive,,Reduces dark type damage for elves in the same row.,,,,,Elda,
-Deadfall Log,Active,,"Places a deadfall log trap  front of the user during exploration. If an enemy or ally party triggers the trap, they are knocked back a set distance. If an enemy triggers it, at the start of battle, the front-row enemy with the highest HP is dealt HP-scaled damage and has their Defense Plwer reduced foe 4 turns. If rhe ally party triggers it, all allies take damage and haetheir Defense Power reduced at the start of battle.  Can only be placed in areas with a ceiling.  Does not affect slime-type enemies and cannot hit small enemies.",Damage dealt to enemies further increased based on skill level.  Enemy Defense Power further decreased.,38,Ranger,Ranger-specific,,
+Deadfall Log,Active,,"Places a deadfall log trap  front of the user during exploration. If an enemy or ally party triggers the trap, they are knocked back a set distance. If an enemy triggers it, at the start of battle, the front-row enemy with the highest HP is dealt HP-scaled damage and has their Defense Power reduced foe 4 turns. If rhe ally party triggers it, all allies take damage and haetheir Defense Power reduced at the start of battle.  Can only be placed in areas with a ceiling.  Does not affect slime-type enemies and cannot hit small enemies.",Damage dealt to enemies further increased based on skill level.  Enemy Defense Power further decreased.,38,Ranger,Ranger-specific,,
 Decisive Torso Strike,Active,True,Moderate physical attack with very high Accuracy on 1 enemy.,Efficacy increased based on skill level.,5,Samurai,,Bugen,
 Defense of House Zart,Discipline,,"Continuously increases each stat, HP and Evade Trap increased further.",HP and Evade Trap Tolerance increased further based on skill level.,,,,Barbara,
 Defensive Provoke,Active,True,"Continuously restores own minor HP, increases Defense Power, and makes 1 row enemies easier to target.","Recovery amount augmented, Defense Power increased, and user becomes more easily targeted by enemies, based on skill level.",38,Knight,Close/mid-range weapon-specific,,Eckart
@@ -139,12 +140,14 @@ Getting by Among Woods or People,Discipline,,"Continuously increases each stat, 
 Gift of Spell Genius,Discipline,,Continuously increases each stat,MP greatly increased in particular.,,,,Flut,
 Glue Bomb,Active,,Minor physical attack on 1 enemy based on the user's Dexterity. Chance to decrease Evasion.,Efficacy and probability increased while Evasion further decreased based on skill level.,27,Thief,,,
 Gnawing Doubt,Passive,,Increases damage against demi-humans and decreases damage from demi-humans.,,,,,Gaston,
+Grace of the Dark One,Passive,True,"When casting spells or using skills, there is a chance of recovering expended MP and SP (up to 40). The probability of recovering MP or SP is reduced if learned by someone other than Alice.",Probability of recovering MP and SP increased based on skill level.,,,,Alice,
 Grace of the Great Tree,Passive,,Increases Magic Power and Magic Defense when equipped with a two-handed staff.,,,,,Flut,
-Grand Burial ERLIK,Damage,True,"Heavy stone gravel scatters, as though burying the dead, in a mederate earth-type spell attack on 1 enemy. Chance to stun based on Magic Power. Damage dealt and Stun chance are increased when attacking undead opponents. Damage and chance of inflicting Stun are decreased if learned by someone other than Yekaterina.",Skill Description Page 2.,,,,Yekaterina,
+Grand Burial ERLIK,Damage,True,"Heavy stone gravel scatters, as though burying the dead, in a moderate Earth-type spell attack on 1 enemy. Chance to stun based on Magic Power. Damage dealt and Stun chance are increased when attacking undead opponents. Damage and chance of inflicting Stun are decreased if learned by someone other than Yekaterina.",Skill Description Page 2.,,,,Yekaterina,
 Guard Experience,Passive,,Continuously reduces the MP/SP cost of Fighter spells/skills that cost 3-10 MP/SP.,,,,,Gandolfo,
 Guardian Blow,Active,,"Launches a Defense Power and Magic Defense-based major physical attack on 1 enemy, increasing Defense Power and Magic Defense of the user for 3 turns.",Efficacy increased based on skill level. Defense Power and Magic Defense incerased further.,64,Knight,Heavy Shield-specific,,
 HALITO,Damage,,Launches a fireball that deals minor fire spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 Heavy Attack,Active,True,Moderate physical attack with high Accuracy on 1 enemy.,Efficacy increased based on skill level. Probability and Defense Power increased further.,4,Fighter,,Gandolfo,
+Heretical Blessing,Passive,,Reduces damage taken from enemies for everyone in the user's row if that row has only evil or neutral allies.,,,,,,
 Hiding,Active,True,Makes the user hidden and increases multiple abilities.,Multiple abilities increased further while Hidden cancellation rate decreased based on skill level.,9,Thief,Thief-specific,Viviana,
 Honest Living,Passive,,"Increases Tolerance of Curse, Skill-binding, and Fear for user and all adjacent good allies.",,,,,Olive,
 Hot-Blooded Adventurer,Discipline,,Continuously increases each stat. Attack Power increased further.,Evasion and Poison Tolerance increased further based on skill level.,,,,Gaston,
@@ -154,6 +157,7 @@ Illusory Mist,Active,,"A misty vapor obscures enemy sight, with a high chance of
 Immortal Strike,Active,True,Deals a minor physical attack on 1 enemy and restores minor HP to self.,Recovery amount increased based on skill level.,51,Fighter,,,"Gaston, Olive"
 Impartial Collaborator,Passive,,Increases damage to enemies for user and allies in front of or behind them if the ally is neutral.,,,,,Elise,
 Inheritor of the Secret Arts,Discipline,,"Continuously increases each stat, with Surety and Accuracy increased even further.",Surety and Accuracy increased further based on skill level.,,,,Rinne,
+Innocent Fanaticism,Passive,True,"Continuously increases MP and Piety and adds 1 consecutive turn to buffs and debuffs applied by the user. When this skill is inherited, Blessing of Agora is also inherited. This skill can be enhanced by inheriting Blessing of Agora, Innocent Fanaticism, or Chaos Deified.","MP, Piety, and number of continuous turns increased based on skill level.",,,,Alice,
 Instruction in Inner Stillness,Discipline,,"Continuously increases each stat, with Attack Power and Surety increased even further.",Attack Power and Surety increased further based on skill level.,,,,Shiou,
 Interpersonal Combat Technique,Passive,,Increases damage against humanoids and decreases damage from humanoids.,,,,,Chloe,
 Ira's Divine Protection,Bondmate,,Continuously increases Divine Power.,Divine Power increased further based on skill level.,,,,Bondmate,
@@ -333,6 +337,7 @@ Sniper,Passive,,"When performing a physical attack, deals damage based on Attack
 Soaring Beast Knight,Passive,,Increases Evasion when equipped with a two-handed spear and light armor.,,,,,Savia,
 Solid Devotion,Discipline,,"Continuously increases each stat, Magic Defense and Stun Tolerance increased further.",Magic Defense and Stun Tolerance increased further based on skill level.,,,,Eldorado,
 Spellcraft Bookmark,Passive,,Reduces the MP/SP cost and increases damage dealt to enemies if the same spell attack as in the previous action is selected.,,,,,Erwin,
+Spiritual Power of the Dark One,Discipline,,"Continuously increases each stat, with MP and Divine Power increased even further.",MP and Divine Power increased further based on skill level.,,,,Alice,
 Stealth,Passive,True,Continuously increases Initiative rate.,Initiative rate increased further based on skill level.,15,Thief,,Amelia,
 Stirring Righteousness,Passive,,Increases damage to enemies for everyone in the user's row if it has only good or neutral allies.,,,,,Lanavaille,
 Storm-Bearer,Support,,Imbues the equipped katana with an air-type trait.,Damage dealth when striking a weak point with an air-type weapon increased based on skill level.,1/20/30/40,Samurai,"Samurai-specific, Katana-specific",,
@@ -399,5 +404,10 @@ Wisdom of Truth,Passive,True,Eliminates dampening of damage from types the user 
 Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs inflicted by the user.,,,,,Asha,
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
-
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
+
+
+
+
+
