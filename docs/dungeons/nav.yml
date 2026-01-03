@@ -1,5 +1,5 @@
 nav:
-  - Ancient Mausoleum: './ancient-mausoleum/maps.md'
+  - Ancient Mausoleum: '.docs/abyss-guides/ancient-mausoleum/maps.md'
   - Dens:
       - Den of Earth: './dens/den-of-earth.md'
       - Den of Fire: './dens/den-of-fire.md'
