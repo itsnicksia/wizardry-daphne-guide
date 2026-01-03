@@ -206,10 +206,10 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
         As of 1/1 the unlock conditions for the 2 Guiding Lights (Luck) are not consistent with Discord members reporting the following:
 
-        - Clear any Best ending
-        - Clear all 3 Best endings
-        - Clear the True ending (highest consistency rate)
-        - Clear the True ending + redo each Best Ending until it appears
+            - Clear any Best ending
+            - Clear all 3 Best endings
+            - Clear the True ending (highest consistency rate)
+            - Clear the True ending + redo each Best Ending until it appears
         
         - If one of these requirements do not work, then try the others 
         - It is possible a bug is present unless Drecom programmed multiple unlock conditions for the same Guiding Light 
@@ -221,7 +221,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     === "Contact" 
     
-        Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
+        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
 
 ??? note "The Witch's Cave"
 
