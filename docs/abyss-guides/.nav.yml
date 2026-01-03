@@ -1,17 +1,17 @@
 nav:
   - Tutorial: './0-introduction/index.md'
-  - "Abyss 1: Beginning Abyss - Royal Capital":
+  - "Abyss 1: Beginning Abyss":
       - Maps: './1-beginning-abyss/maps.md'
       - Requests: './1-beginning-abyss/requests.md'
       - Important Request / Greater Warped One: './1-beginning-abyss/important-request-gwo.md'
       - Wandering NPCs: './1-beginning-abyss/wandering-npcs.md'
       - Place of Awakening: './1-beginning-abyss/awakening-preview-dungeon.md'
-  - "Abyss 2: Trade Waterways - Port Town":
+  - "Abyss 2: Trade Waterways":
       - Maps: './2-port-town-grand-legion/maps.md'
       - Requests: './2-port-town-grand-legion/requests.md'
       - Important Request / Greater Warped One: './2-port-town-grand-legion/important-request-gwo.md'
       - Wandering NPCs: './2-port-town-grand-legion/wandering-npcs.md'
-  - "Abyss 3: Impregnable Fortress - Guarda":
+  - "Abyss 3: Impregnable Fortress":
       - Maps: './3-guarda-fortress/maps.md'
       - Requests: './3-guarda-fortress/requests.md'
       - Important Request / Greater Warped One: './3-guarda-fortress/important-request-gwo.md'
@@ -19,7 +19,7 @@ nav:
       - Wandering NPCs: './3-guarda-fortress/wandering-npcs.md'
       - Misc Bosses:
           - Morgus, God of Death: './3-guarda-fortress/misc-bosses/morgus-god-of-death.md'
-  - "Abyss 4: Deepsnow Hinterlands - Isberg":
+  - "Abyss 4: Deepsnow Hinterlands":
       - Maps: './4-isberg/maps.md'
       - Requests: './4-isberg/requests.md'
       - Important Request / Greater Warped One: './4-isberg/important-request-gwo.md'
