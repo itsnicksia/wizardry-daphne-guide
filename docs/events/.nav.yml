@@ -1,23 +1,22 @@
 nav:
-
   - Special Requests (Placeholder Name): 
-      - Alabaster Hunting: './alabaster-hunting/alabaster-hunting.md'
-      - Labyrinth of Fordraig: './labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
-      - Lamp of Malice: './lamp-of-malice/lamp-of-malice-text-guide.md'
-      - Otherworld Adventurers: './otherworld-adventurers/otherworld-adventurers-guide.md'
-      - Pixie and the Secret Garden: './pixie-and-the-secret-garden/pixie-and-the-secret-garden-guide.md'
-      - Plot of the Sand Shadow: './plot-of-the-sand-shadow/plot-of-the-sand-shadow.md'
-      - Recurring Events: './recurring-events/recurring-events.md'
+    - Alabaster Hunting: './alabaster-hunting/alabaster-hunting.md'
+    - Labyrinth of Fordraig: './labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
+    - Lamp of Malice: './lamp-of-malice/lamp-of-malice-text-guide.md'
+    - Otherworld Adventurers: './otherworld-adventurers/otherworld-adventurers-guide.md'
+    - Pixie and the Secret Garden: './pixie-and-the-secret-garden/pixie-and-the-secret-garden-guide.md'
+    - Plot of the Sand Shadow: './plot-of-the-sand-shadow/plot-of-the-sand-shadow.md'
+    - Recurring Events: './recurring-events/recurring-events.md'
   - Request from an Ally:
-      - Symbol of Alliance: './request-from-an-ally/symbol-of-alliance.md'
-      - Arna's Past: './request-from-an-ally/arnas-past.md'
-      - Memories of Charlotte: './request-from-an-ally/memories-of-charlotte.md'
+    - Symbol of Alliance: './request-from-an-ally/symbol-of-alliance.md'
+    - Arna's Past: './request-from-an-ally/arnas-past.md'
+    - Memories of Charlotte: './request-from-an-ally/memories-of-charlotte.md'
   - Old Castle Ruins:
-      - Season 1: './old-castle-ruins/season-1/old-castle-ruins-season-1.md'
-      - Season 2: './old-castle-ruins/season-2/old-castle-ruins-season-2.md'
-      - Season 3: './old-castle-ruins/season-3/old-castle-ruins-season-3.md'
+    - Season 1: './old-castle-ruins/season-1/old-castle-ruins-season-1.md'
+    - Season 2: './old-castle-ruins/season-2/old-castle-ruins-season-2.md'
+    - Season 3: './old-castle-ruins/season-3/old-castle-ruins-season-3.md'
   - Proving Grounds: 
-      - Fighter Proving Grounds: './fighter-proving-grounds/fighter-proving-grounds-guide.md'
-      - Mage Proving Grounds: './mage-proving-grounds/mage-proving-grounds-guide.md'
-      - Knight Proving Grounds: './knight-proving-grounds/knight-proving-grounds-guide.md'
+    - Fighter Proving Grounds: './fighter-proving-grounds/fighter-proving-grounds-guide.md'
+    - Mage Proving Grounds: './mage-proving-grounds/mage-proving-grounds-guide.md'
+    - Knight Proving Grounds: './knight-proving-grounds/knight-proving-grounds-guide.md'
 
