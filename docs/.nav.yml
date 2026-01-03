@@ -1,11 +1,14 @@
 nav:
   - FAQ: './frequently-asked-questions.md'
-  - Dungeon Guides: abyss-guides
+  - Abyss: abyss-guides
+  - Dungeons: dungeons
+  - Events: events
   - Adventurers: adventurers
   - Adventurer Customization: adventurer-customization
+  - Farming: farming
+  - Bounties: bounties 
   - Equipment: equipment
   - Mechanics: mechanics
   - Strategies: strategies
-  - Events: events
   - Appendices: appendices
   - Tools: tools
