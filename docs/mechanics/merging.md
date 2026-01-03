@@ -8,19 +8,19 @@
 
 ??? warning "Important Terms"
 
-    Base unit
+    - Base unit
 	
-	- The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. 
-	- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
+		- The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. 
+		- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
 	
-    Fodder unit
+    - Fodder unit
 	
-	- This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
+		- This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
 	
-    Discipline skill 
+    - Discipline skill 
 	
-	- Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). 
-	- Note: The featured stats of Legendary units are higher than General units. 
+		- Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). 
+		- Note: The featured stats of Legendary units are higher than General units. 
 
 ??? warning "Mechanics"
 
