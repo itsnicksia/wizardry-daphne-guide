@@ -1,8 +1,7 @@
 nav:
-
-- Bounties Quicklist: './bondmates/bondmates-quicklist.md'
-- Beginning Abyss: './bondmates/beginning-abyss/bondmates.md'
-- Port Town Grand Legion: './bondmates/port-town-grand-legion/bondmates.md'
-- Guarda Fortress: './bondmates/guarda-fortress/bondmates.md'
-- Isberg: './bondmates/isberg/bondmates.md'
+  - Bounties Quicklist: './bondmates/bondmates-quicklist.md'
+  - Beginning Abyss: './bondmates/beginning-abyss/bondmates.md'
+  - Port Town Grand Legion: './bondmates/port-town-grand-legion/bondmates.md'
+  - Guarda Fortress: './bondmates/guarda-fortress/bondmates.md'
+  - Isberg: './bondmates/isberg/bondmates.md'
  
