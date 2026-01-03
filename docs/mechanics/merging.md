@@ -8,19 +8,46 @@
 
 ??? warning "Important Terms"
 
-    - Base unit: The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
-    - Fodder unit: This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
-    - Discipline skill: Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). Note: The featured stats of Legendary units are higher than General units. 
+    Base unit
+	- The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. 
+	- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
+    Fodder unit
+	- This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
+    Discipline skill 
+	- Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). 
+	- Note: The featured stats of Legendary units are higher than General units. 
 
 ??? warning "Mechanics"
 
-	The following carries over to the merged unit:
+	=== "Basics"
 
-    - The highest Fortitude and BP of either unit is used
-    - BP can be re-allocated immediately after merging
-    - Highest grade level, class EXP, skills, spells, passives, unlocked classes, relicbrew EXP, and equipped relicbrews. The merging process is not additive. For example, Heavy Attack 1 + Heavy Attack 2 ≠ Heavy Attack 3 
-    - Equipped relicbrews on both units will stack on the merged unit. This could potentially push you into Stage 3 side effects after merging 
-    - The base unit’s IV and current class. You may need to use a class handbook or class change request to switch back to your preferred class, so plan accordingly 
+		Highest value from either the base or fodder is used for: 
+	
+	    - Fortitude
+		- Bonus Points (BP), which can be re-allocated immediately after merging or in the Training Room
+	    - Grade level
+		- Class EXP, including the secondary if unlocked 
+
+		Experience is added together for: 
+		
+		- Active skills
+		- Passive skills
+		- Spells 
+		- Relic powers, both equipped and extracted 
+
+		Base unit determines: 
+		
+		- IV or "boosted" trait, if present
+		- Current class 
+		- Trust level (see Technical Notes) and flaming-heart, if present
+		- Equipped bondmates and "Favorites" hotbar  
+
+	=== "Technical Notes" 
+	
+		- Equipped relic powers stack on the merged unit. For example, if both the base and fodder have 4 different relic powers equipped, then the merged unit will have all 8 equipped. This results in Stage 4 penalties with an immediate hit to Fortitude and requires extraction, which can be expensive. Strongly recommended removing the ones you do not want before merging. 
+		- Since the base unit's current class carries over to the merged unit you may have to use a class handbook or class change request to switch back to your preferred class. Plan accordingly, especially with the new level 70 cap or if you are a newer player with limited class change items
+		- (Under verification) If you use a high-trust unit (level 60-70), then it seems as if some portion (60-70+%) of it's trust level carries over to the merged unit.The merged unit is treated as a "new" character with its own trust level. The number of unlocked Life Story pages and voice-lines can be used as a useful proxy. 
+		- (Under verification) If the high-trust unit had a flaming-heart, then it should be immediately restored after defeating GWO 1 and 2 again. 
 
 ??? note "How to Merge" 
 
@@ -37,10 +64,11 @@
 		
     === "Summary"
     
-        - The style you select as “active” in the Training Room determines what unique passive skill and discipline (“featured stats”) is available to the adventurer.
+        - The style you select as “active” in the Training Room determines what unique passive skill and discipline (“Featured Stats”) is available to the adventurer.
         - Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. 
         - In the tabs is an example that compares standard Asha and Witching Mage Asha 
-        - It is important to switch between styles depending on the situation or enemy you are facing. For example, if you are fighting a boss that employs constant poison attacks you would opt for the standard Asha style. Why? Her passive increases poison tolerance for adjacent Good team members; and, her discipline skill increases it even further for herself. 
+        - It is important to switch between styles depending on the situation or enemy you are facing. 
+		- For example, if you are fighting a boss that employs constant poison attacks you would opt for the standard Asha style. Why? Her passive increases poison tolerance for adjacent Good team members; and, her discipline skill increases it even further for herself. 
     
     === "Asha - Unique Skill (Passive)"
     
@@ -54,7 +82,10 @@
 
 ??? note "How to Change Styles" 
 
-    - Adventure’s Guild > Training Room > select merged unit > “Change Style” 
+	1. Adventure’s Guild > Training Room
+	2. Select the merged unit
+	3. Select “Change Style” at the bottom of the list
+	4. Select the style you would like to switch to and confirm
 
 ??? note "Adventurers with Alternative Styles"  
 
@@ -80,7 +111,7 @@
 ??? warning "Mechanics" 
 
 	- Disciplining or merging can be done in any order 
-	- Merged units can reach a maximum discipline level of D18 (versus D9). Units do not gain additional stats past D9, but receive 1 BP from D10-D18
+	- Merged units can reach a maximum discipline level of D18 (versus D9). Units do not gain additional stats past D9, but receive 1 BP from D10-D18. The additional BP will allow you to reallocate all of your BP each time it is received.
 	- “Overall Mastery” in the Discipline menu determines how much experience you need to reach the next discipline level. Copies of either the standard or alt version can be used. However, standard copies cannot be used to discipline the alt version and vice-versa. You will need to change styles and then discipline with the correct copy
 	- The "Overall Discipline Level" in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses you receive
 
@@ -95,7 +126,7 @@
 
 ## Merging Bonus Traits 
 
-Bonus trait points are an additional benefit of the merging system and are capped at +4 for each trait. The value of the merging bonus comes from two sources: 
+Bonus trait points are an additional benefit of the merging system and are generally capped at +6 for all traits. There have been a handful of documented outliers with +7 or +8 to a single trait. The value of the merging bonus comes from two sources: 
 
 - Trait points gained at each grade level, and
 - Trait growth determined for each unit at creation 
@@ -106,20 +137,21 @@ Consequently, the trait bonuses shown in the merging screen depend on the grade 
 
 	=== "Summary"
 
-		- Ultimately, it does not matter whether the base unit is level 1 or 60 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged.
+		- Ultimately, it does not matter whether the base unit is level 1 or 70 since you will receive the same total merging bonus points either way. This holds true for any combination of levels for the two units being merged.
 		- If you have multiple fodder copies available, then use the one with a different IV trait and/or the highest bonus(es) to the trait(s) that are important to that unit’s role on your team. 
+		- Limited testing suggests that the best long-term growth occurs when a merged unit has two different, complementary IV traits from the base and fodder, respectively.
 
-	=== "Level 60 Base + Level 1 Fodder"
+	=== "Level 70 Base + Level 1 Fodder"
 	
-		- If using a level 60 base unit + a level 1 fodder copy, then the bonus values shown come only from the level 1 unit trait growths because the grade trait bonuses are already included on the base unit
+		- If using a level 70 base unit + a level 1 fodder copy, then the bonus values shown come only from the level 1 unit trait growths because the grade trait bonuses are already included on the base unit
 	
-	=== "Level 1 Base + Level 60 Fodder"
+	=== "Level 1 Base + Level 70 Fodder"
 	
-		- If using a level 1 base unit + a level 60 fodder copy, then the bonus values shown come from both the grade-up bonus points and the unit’s inherent bonus value. Note that the lion’s share of the bonus points are coming from the grade-up, which is why it is almost always +4 to all traits with this combination.
+		- If using a level 1 base unit + a level 70 fodder copy, then the bonus values shown come from both the grade-up bonus points and the unit’s inherent bonus value. Note that the lion’s share of the bonus points are coming from the grade-up, which is why it is almost always +6 to all traits with this combination.
 	
-	=== "Level 60 Base + Level 60 Fodder"
+	=== "Level 70 Base + Level 70 Fodder"
 	
-		- If using a level 60 base unit + a level 60 fodder copy, then you will not see any meaningful trait bonuses (usually 0 or a small point gain on a few traits) on the merge. The grade-up bonuses from two level 60 units will easily exceed the +4 bonus cap. There is no real evidence to suggest that leveling the lower-level unit, base or fodder, will significantly impact the trait gain. 
+		- If using a level 70 base unit + a level 70 fodder copy, then you will not see any meaningful trait bonuses (usually 0 or a small point gain on a few traits) on the merge. The grade-up bonuses from two level 70 units will easily exceed the +6 bonus cap. There is no real evidence to suggest that leveling the lower-level unit, base or fodder, will significantly impact the trait gain. 
 		 
 
 
