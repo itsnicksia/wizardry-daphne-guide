@@ -152,12 +152,6 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - There are 3 types of extraction services: Emergency, Standard, and Special.
         - An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality.
     
-    === "Guide" 
-    
-        <div align="center">
-        ![](img/relicpower-extract.PNG)
-        </div>
-    
     === "Fortitude Penalty" 
     
         - When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. 
@@ -179,6 +173,12 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - No reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
         - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
         - Recommend to always use Special Extraction when possible.
+
+    === "Example" 
+    
+        <div align="center">
+        ![](img/relicpower-extract.PNG)
+        </div>
 
 ### Slagpiece Exchange
 
