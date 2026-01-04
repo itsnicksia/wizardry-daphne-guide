@@ -55,38 +55,41 @@
 
 ??? note "Details"
 
-    === "How to Acquire"
+    === "How to Acquire"        
 
-        === "Requirements"
-        
+        === "Guide"
+
             - Requirements
                 - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris)
-                - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) as he can appear on the right-hand side of Route 9<br></br>
-
-        === "Basics"
-
-            - This is a "hide-and-seek" bondmate. The goal is to locate and reverse him on every single floor from Route 3 to Route 10. 
-            - Beginning and ending locations are fixed:
-                - Route 3: Behind the Mayor's house at (X:21, Y:18)
-                - Route 10: To the far left of the entrance at (X:6, Y:1)
-            - For Routes 4-9 his location is randomized, but he does appear frequently on certain tiles sets.
+                - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) as he can appear on the right-hand side of Route 9
+            - Basics
+                - This is a "hide-and-seek" bondmate. The goal is to locate and reverse him on every single floor from Route 3 to Route 10. 
+                - Beginning and ending locations are fixed:
+                    - Route 3: Behind the Mayor's house at (X:21, Y:18)
+                    - Route 10: To the far left of the entrance at (X:6, Y:1)
+                - For Routes 4-9 his location is randomized, but he does appear frequently on certain tiles sets.
             - Map
                 - Appears as a stone icon; once reversed, a person icon
                 - If located in an active blizzard zone, then his icon will not appear on the map 
-            - Each time you reverse him he will leave behind 1 piece of ore:
-                - Routes 3-4: Mid Grade
-                - Routes 5-6: High Grade
-                - Routes 7-9: Fine Grade or Silver (one-time only?)
-            - You can return to town and visit other cities without losing progress. However, if you wheel to any point before Rockhome Major Harken or to another Abyss, then all progress will be reset. 
-            - Do not currently know the effect(s), if any, of having a request active while searching for him. 
+            - Ore 
+                - Each time you reverse him he will leave behind 1 piece of ore:
+                    - Routes 3-4: Mid Grade
+                    - Routes 5-6: High Grade
+                    - Routes 7-9: Fine Grade or Silver (one-time only?)
+            - Other
+                - You can return to town and visit other cities without losing progress. However, if you wheel to any point before Rockhome Major Harken or to another Abyss, then all progress will be reset. 
+                - Do not currently know the effect(s), if any, of having a request active while searching for him. 
 
         === "Farming" 
 
             - Recommendations
                 - Fully complete each map in advance, especially the blizzard zones. This makes locating and auto-pathing to him significantly faster.
-                - Do NOT begin farming unless you intend to do several runs or all 11 to reach level 5. If you wheel to another Abyss, then map completion will be reset and could roll with a different map variation. 
+                - Do **not** begin farming unless you intend to do several runs or all 11 to reach level 5. If you wheel to another Abyss, then map completion will be reset and could roll with a different map variation. 
                 - Use the Harkens to preview the next floor to see if he's closest to the entrance or exit.
-                - Route 8 is horrible for three reasons: 1) can spawn on a purple poison tile and blend into the background, 2) appear on either "half" of the floor, which requires using the right staircase to access, and 3) all of the reversible stones (+ poison tiles) reset.
+                - Route 8 is horrible for three reasons:
+                    - Can spawn on a purple poison tile and blend into the background
+                    - Appear on either "half" of the floor, which requires using the right staircase to access
+                    - All of the reversible stones (+ poison tiles) reset.
                 - He can still be spotted in active blizzard zones if you look for a tile that is discolored. See Blizzard Zone Tip. 
     
             - Resetting
@@ -99,17 +102,17 @@
             - This only works on a fully completed map
             - Search for a single, discolored tile in the blizzard zones that does not match the surrounding area
 
-            ??? map "Before"
-
-                <figure markdown>
-                ![](./img/stonefolk-visiting-the-gravestone-blizzard-before.png)
-                </figure>
-
-            ??? map "After" 
-
-                <figure markdown>
-                ![](./img/stonefolk-visiting-the-gravestone-blizzard-after.png)
-                </figure>
+                ??? map "Before"
+    
+                    <figure markdown>
+                    ![](./img/stonefolk-visiting-the-gravestone-before-blizzard.png)
+                    </figure>
+    
+                ??? map "After" 
+    
+                    <figure markdown>
+                    ![](./img/stonefolk-visiting-the-gravestone-after-blizzard.png)
+                    </figure>
 
     === "Skill - MP"
 
