@@ -204,19 +204,21 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     === "Unlock Conditions" 
 
-        Friendly warning in advance that 1) the unlock conditions are likely bugged and 2) this entire process can be frustrating. 
+        !!! warning "Friendly warning in advance that 1) the unlock conditions are likely bugged and 2) this entire process can be frustrating." 
 
         What is going on?
+        
         - The main issue is Discord members have reported wildly inconsistent unlocking conditions. 
         - As of 1/3/26 we have confirmed that there is only 1 Guiding Light (Luck) tied to the 1st faction requests. The problem is that for some members it only unlocks _after_ clearing the 3rd or 4th GWO fight. For others it's been available on their first run before the GWO is ever encountered. 
         - Clearing the 4th GWO fight has been giving a Guiding Light (Luck) consistently, so that does not appear to be bugged.  
         - Until this is addressed all we can do is list the conditions that have been reported as "working". These might not work for you. It is also possible that this was shadow-patched at some point and is driving the inconsistencies between the older and newer reports. I have no idea.  
         - Remember to double-check that "max faction affinity" is set-up in your Cursed Wheel before you begin as it is a requirement. 
-        - Here are the options identified so far:   
-    
-            - Any Best ending
-            - All 3 Best endings (Note: This is likely the the intended condition)
-            - Clear the 4th GWO fight + do each Best Ending until it appears
+        
+        Reported Conditions   
+        
+        - Any Best ending
+        - All 3 Best endings (Note: This is likely the the intended condition)
+        - Clear the 4th GWO fight + do each Best Ending until it appears
 
     === "Confirmed"
     
