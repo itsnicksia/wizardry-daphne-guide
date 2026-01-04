@@ -203,25 +203,30 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 ??? tip "Guiding Lights"
 
     === "Unlock Conditions" 
-    
-        As of 1/1 the unlock conditions for the 2 Guiding Lights (Luck) are not consistent with Discord members reporting the following:
 
-            - Clear any Best ending
-            - Clear all 3 Best endings
-            - Clear the True ending (highest consistency rate)
-            - Clear the True ending + redo each Best Ending until it appears
-        
-        - If one of these requirements do not work, then try the others 
-        - It is possible a bug is present unless Drecom programmed multiple unlock conditions for the same Guiding Light 
+        Friendly warning in advance that 1) the unlock conditions are likely bugged and 2) this entire process can be frustrating. 
+
+        What is going on?
+        - The main issue is Discord members have reported wildly inconsistent unlocking conditions. 
+        - As of 1/3/26 we have confirmed that there is only 1 Guiding Light (Luck) tied to the 1st faction requests. The problem is that for some members it only unlocks _after_ clearing the 3rd or 4th GWO fight. For others it's been available on their first run before the GWO is ever encountered. 
+        - Clearing the 4th GWO fight has been giving a Guiding Light (Luck) consistently, so that does not appear to be bugged.  
+        - Until this is addressed all we can do is list the conditions that have been reported as "working". These might not work for you. It is also possible that this was shadow-patched at some point and is driving the inconsistencies between the older and newer reports. I have no idea.  
+        - Remember to double-check that "max faction affinity" is set-up in your Cursed Wheel before you begin as it is a requirement. 
+        - Here are the options identified so far:   
+    
+            - Any Best ending
+            - All 3 Best endings (Note: This is likely the the intended condition)
+            - Clear the 4th GWO fight + do each Best Ending until it appears
 
     === "Confirmed"
     
         - Max faction affinity is required 
         - A Guiding Light will dissolve if it's already been received 
+        - The 2nd faction quests do not have a Guiding Light (that's been found to-date even with all "best" endings) and have nothing to do with unlocking this one, so please do not waste your valuable gaming time trying to do both at the same time.
 
     === "Contact" 
     
-        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information 
+        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information. 
 
 ??? note "The Witch's Cave"
 
