@@ -65,16 +65,19 @@
         === "Guide"
         
             Basics
+            
             - This is a "hide-and-seek" bondmate. The goal is to locate and reverse him on every single floor from Route 3 to Route 10. His beginning and ending locations are fixed:
                 - Route 3: Behind the Mayor's house at (X:21, Y:18)
                 - Route 10: To the far left of the entrance at (X:6, Y:1)
             - For Routes 4-9 his location is randomized, but he does appear frequently on certain tiles sets.
             
             Map
+            
             - Appears as a stone icon; once reversed, a person icon
             - If located in an active blizzard zone, then his icon will not appear on the map
             
             Other
+            
             - Each time you reverse him he will leave behind 1 piece of ore:
                 - Routes 3-4: Mid Grade
                 - Routes 5-6: High Grade
@@ -85,6 +88,7 @@
         === "Farming" 
         
             Recommendations
+            
             - Fully complete each map in advance, especially the blizzard zones. This makes locating and auto-pathing to him significantly faster.
             - Do **not** begin farming unless you intend to do several runs or all 11 to reach level 5. If you wheel to another Abyss, then map completion will be reset and could roll with a different map variation. 
             - Use the Harkens to preview the next floor to see if he's closest to the entrance or exit.
@@ -95,9 +99,11 @@
                 - All of the reversible stones (+ poison tiles) reset.
 
             Parallel Farming 
+            
             - Potential to combine with any of the 2nd faction bondmates (Bernard, Elliot, William) since those also take you through the majority of the floors while you are hunting down the wax tablets. This has not been tested as of 1/3/26. 
     
             Resetting
+            
             - Start: Snowy Forest Minor Harken
                 - If you wheel to Rockhome Major Harken, then you will have to sit through all of Lulu's story dialogue as you try to exit back to town.
             - Jump to: Short Rest in the Cabin or Truth of the Beautiful Ore
