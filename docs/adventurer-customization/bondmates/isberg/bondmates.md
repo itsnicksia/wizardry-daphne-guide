@@ -16,7 +16,7 @@
         - [Recovery of Salted Pork](../../../abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
         - Must choose to "Spare" the Bigfoot and its child at the end of the request
 
-    === "Skill - Primal Sense of Aim - Accuracy"
+    === "Skill - Accuracy"
 
         <figure markdown>
         ![](./img/bigfoots-offspring-skill.PNG)
@@ -39,7 +39,7 @@
         - [Find My Sister Lisa](../../../abyss-guides/4-isberg/requests.md#find-my-sister-lisa)
         - Requires the "Perfect Ending"
 
-    === "Skill - Late Sister's Child - Fear Tolerance"
+    === "Skill - Fear Tolerance"
 
         <figure markdown>
         ![](./img/maya-and-marta-skill.PNG)
@@ -57,11 +57,46 @@
 
     === "How to Acquire"
 
-        - Requires knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris)
-        - The starting position of this bondmate is behind the Mayor's house in Route 3. After reversing them, you must find them in every map location up to Route 10.
-        - The locations are randomized each run except for on Route 3 (X:21, Y:18) and Route 10 (X:6, Y:1)
+        - Requirements
+            - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris)
+            - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) as he can appear on the right-hand side of Route 9<br></br>
+        
+        - Basics
+            - This is a "hide-and-seek" bondmate. The goal is to locate and reverse him on every single floor from Route 3 to Route 10. 
+            - Beginning and ending locations are fixed:
+                - Route 3: Behind the Mayor's house at (X:21, Y:18)
+                - Route 10: To the far left of the entrance at (X:6, Y:1)
+            - For Routes 4-9 his location is randomized, but he does appear frequently on certain tiles sets.
+            - Map
+                - Appears as a stone icon; once reversed, a person icon
+                - If located in an active blizzard zone, then his icon will not appear on the map 
+            - Each time you reverse him he will leave behind 1 piece of ore:
+                - Routes 3-4: Mid Grade
+                - Routes 5-6: High Grade
+                - Routes 7-9: Fine Grade or Silver (one-time only?)
+            - You can return to town and visit other cities without losing progress. However, if you wheel to any point before Rockhome Major Harken or to another Abyss, then all progress will be reset. 
+            - Do not currently know the effect(s), if any, of having a request active while searching for him. 
 
-    === "Skill - Stonefolk's Residual Essence - MP"
+    === "Farming" 
+
+        - Recommendations
+            - Fully complete each map in advance, especially the blizzard zones. This makes locating and auto-pathing to him significantly faster.
+            - Do NOT begin farming unless you intend to do several runs or all 11 to reach level 5. If you wheel to another Abyss, then map completion will be reset and could roll with a different map variation. 
+            - Use the Harkens to preview the next floor to see if he's closest to the entrance or exit.
+            - Route 8 is horrible for three reasons: 1) can spawn on a purple poison tile and blend into the background, 2) appear on either "half" of the floor, which requires using the right staircase to access, and 3) all of the reversible stones (+ poison tiles) reset.
+            - He can still be spotted in active blizzard zones if you look for a tile that is discolored. See the tabs for a screenshot.
+
+        - Resetting
+            - Start at Snowy Forest Minor Harken. If you wheel to Rockhome Major Harken, then you will have to sit through all of Lulu's story dialogue as you try to exit back to town.
+            - Next, wheel to Short Rest in the Cabin or Truth of the Beautiful Ore. You will need access to the Route 9 Harken for easy pathing to his final location on Route 10. 
+            - Harken to Route 3 and begin a new run. 
+
+    === "Locating in blizzard zone"
+
+        - before pic
+        - after pic
+
+    === "Skill - MP"
 
         <figure markdown>
         ![](./img/stonefolk-visiting-the-gravestone-skill.png)
@@ -87,7 +122,7 @@
         - Select "The air here feels dry to you" (bottom blizzard zone is reportedly bugged and does not work)
         - Defeat all 3 waves of enemies
 
-    === "Skill - Robust Umami - HP"
+    === "Skill - HP"
 
         <figure markdown>
         ![](./img/exquisite-jewel-trout-skill.png)
@@ -110,7 +145,7 @@
         - When attempting to obtain the berries from the man, you must get drunk with him during the drinking minigame.
         - He is locked at Level 1.
 
-    === "Skill - Drunk Logic - Confusion Tolerance"
+    === "Skill - Confusion Tolerance"
 
         <figure markdown>
         ![](./img/drunken-drunkard-skill.png)
@@ -133,7 +168,7 @@
         - [Unforgivable Wolves](../../../abyss-guides/4-isberg/request.md#unforgivable-wolves)
         - Spare the final wolf pack on 2nd run onwards.
 
-    === "Skill - Swiftness of the Snowwolf - Freeze Tolerance and Evasion"
+    === "Skill - Freeze Tolerance and Evasion"
 
         <figure markdown>
         ![](./img/warg-commander-of-the-deep-snow-skill.png)
@@ -157,7 +192,7 @@
         - Princess Route
         - Requires finding the second missing person
 
-    === "Skill - Prized Brother's Swordmanship - Attack Power"
+    === "Skill - Attack Power"
 
         <figure markdown>
         ![](./img/elliot-skill.png)
@@ -179,7 +214,7 @@
         - Pontiff Route
         - Requires finding the second missing person
 
-    === "Skill - William's Prayer - Divine Power"
+    === "Skill - Divine Power"
 
         <figure markdown>
         ![](./img/william-skill.png)
@@ -201,7 +236,7 @@
         - Admiral Route
         - Requires finding the second missing person
 
-    === "Skill - Bernard's Survival Savvy - Magic Power"
+    === "Skill - Magic Power"
 
         <figure markdown>
         ![](./img/bernard-skill.png)
@@ -224,7 +259,7 @@
         - [Saving Iris](../../../abyss-guides/4-isberg/important-request-gwo.md/#saving-iris)
         - Requires True Ending
 
-    === "Skill - Blessing of Maiden Iris - Divine Power and Resistance"
+    === "Skill - Divine Power and Resistance"
 
         <figure markdown>
         ![](./img/iris-skill.png)
