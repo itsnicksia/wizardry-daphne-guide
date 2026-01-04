@@ -57,11 +57,14 @@
 
     === "How to Acquire"
 
-        - Requirements
-            - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris)
-            - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) as he can appear on the right-hand side of Route 9<br></br>
+        === "Requirements"
         
-        - Basics
+            - Requirements
+                - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris)
+                - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) as he can appear on the right-hand side of Route 9<br></br>
+
+        === "Basics"
+
             - This is a "hide-and-seek" bondmate. The goal is to locate and reverse him on every single floor from Route 3 to Route 10. 
             - Beginning and ending locations are fixed:
                 - Route 3: Behind the Mayor's house at (X:21, Y:18)
@@ -77,24 +80,36 @@
             - You can return to town and visit other cities without losing progress. However, if you wheel to any point before Rockhome Major Harken or to another Abyss, then all progress will be reset. 
             - Do not currently know the effect(s), if any, of having a request active while searching for him. 
 
-    === "Farming" 
+        === "Farming" 
 
-        - Recommendations
-            - Fully complete each map in advance, especially the blizzard zones. This makes locating and auto-pathing to him significantly faster.
-            - Do NOT begin farming unless you intend to do several runs or all 11 to reach level 5. If you wheel to another Abyss, then map completion will be reset and could roll with a different map variation. 
-            - Use the Harkens to preview the next floor to see if he's closest to the entrance or exit.
-            - Route 8 is horrible for three reasons: 1) can spawn on a purple poison tile and blend into the background, 2) appear on either "half" of the floor, which requires using the right staircase to access, and 3) all of the reversible stones (+ poison tiles) reset.
-            - He can still be spotted in active blizzard zones if you look for a tile that is discolored. See the tabs for a screenshot.
+            - Recommendations
+                - Fully complete each map in advance, especially the blizzard zones. This makes locating and auto-pathing to him significantly faster.
+                - Do NOT begin farming unless you intend to do several runs or all 11 to reach level 5. If you wheel to another Abyss, then map completion will be reset and could roll with a different map variation. 
+                - Use the Harkens to preview the next floor to see if he's closest to the entrance or exit.
+                - Route 8 is horrible for three reasons: 1) can spawn on a purple poison tile and blend into the background, 2) appear on either "half" of the floor, which requires using the right staircase to access, and 3) all of the reversible stones (+ poison tiles) reset.
+                - He can still be spotted in active blizzard zones if you look for a tile that is discolored. See Blizzard Zone Tip. 
+    
+            - Resetting
+                - Start at Snowy Forest Minor Harken. If you wheel to Rockhome Major Harken, then you will have to sit through all of Lulu's story dialogue as you try to exit back to town.
+                - Next, wheel to Short Rest in the Cabin or Truth of the Beautiful Ore. You will need access to the Route 9 Harken for easy pathing to his final location on Route 10. 
+                - Harken to Route 3 and begin a new run. 
+                
+        === "Blizzard Zone Tip"
 
-        - Resetting
-            - Start at Snowy Forest Minor Harken. If you wheel to Rockhome Major Harken, then you will have to sit through all of Lulu's story dialogue as you try to exit back to town.
-            - Next, wheel to Short Rest in the Cabin or Truth of the Beautiful Ore. You will need access to the Route 9 Harken for easy pathing to his final location on Route 10. 
-            - Harken to Route 3 and begin a new run. 
+            - This only works on a fully completed map
+            - Search for a single, discolored tile in the blizzard zones that does not match the surrounding area
 
-    === "Locating in blizzard zone"
+            ??? map "Before"
 
-        - before pic
-        - after pic
+                <figure markdown>
+                ![](./img/stonefolk-visiting-the-gravestone-blizzard-before.png)
+                </figure>
+
+            ??? map "After" 
+
+                <figure markdown>
+                ![](./img/stonefolk-visiting-the-gravestone-blizzard-after.png)
+                </figure>
 
     === "Skill - MP"
 
