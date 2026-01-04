@@ -52,21 +52,21 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 302,Head!A302,Head,3180,Heavy Helm of the Light Spirit,Ebonsteel,Heavy,,1175,0,0,0,18,0,-2,-4,0,-4,4,0,0,0,23,0,-2,-4,0,-4,8,0,0,0,27,0,-2,-4,0,-4,13,0,0,0,32,0,-2,-4,0,-4,17,0,0,0,36,0,-2,-4,0,-4,22,Dark Type Reduction
 308,Head!A308,Head,3189,Umbral Heavy Helmet,Ebonsteel,Heavy,,1175,0,0,0,18,0,-2,-4,0,-4,4,0,0,0,23,0,-2,-4,0,-4,8,0,0,0,27,0,-2,-4,0,-4,13,0,0,0,32,0,-2,-4,0,-4,17,0,0,0,36,0,-2,-4,0,-4,22,Light Type Reduction
 314,Head!A314,Head,,Blackwing Hat,Silver,Cloth,,,0,0,0,10,0,0,0,0,0,6,0,0,0,15,0,0,0,0,0,11,0,0,0,20,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,21,0,0,0,32,0,0,0,0,0,26,
-320,Head!A320,Head,,Earthrend Headband,Silver,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,31,0,0,0,0,6,26,Water Type Reduction
-326,Head!A326,Head,3213,Snow Wolf Trapper Hat,Silver,Cloth,,,0,0,0,9,0,1,0,0,6,6,0,0,0,14,0,1,0,0,6,11,0,0,0,19,0,1,0,0,6,16,0,0,0,25,0,1,0,0,6,21,,,,,,,,,,,Freeze Tolerance
-332,Head!A332,Head,,Dire Snowbird's Crest Feathers,Silver,Cloth,,,0,0,0,1,0,5,0,0,10,6,0,0,0,6,0,7,0,0,12,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-338,Head!A338,Head,,Snow Beastfolk Fur Mask,Silver,Cloth,,,0,0,0,20,0,-10,2,0,0,0,0,0,0,25,0,-10,4,0,0,5,0,0,0,30,0,-10,7,0,0,10,,,,,,,,,,,,,,,,,,,,,Maximum Body Temperature Increase
-344,Head!A344,Head,Ex.,Glasses of Calm,Silver,Cloth,,,0,7,0,12,0,0,0,0,0,10,0,12,0,18,0,0,0,0,0,16,0,16,0,24,0,0,0,0,0,22,,,,,,,,,,,,,,,,,,,,,Passive I.Q. Up
-350,Head!A350,Head,Ex.,Winterthorn Wreath,Silver,Cloth,,,0,0,0,9,0,5,0,0,0,6,0,0,0,15,5,5,0,0,0,12,0,0,0,21,0,5,0,0,0,18,0,0,0,25,0,5,0,0,0,21,,,,,,,,,,,Stone Tolerance
-356,Head!A356,Head,,,Direbear Hat,Silver,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,17,14,0,0,0,0,24,,,,,,,,,,,", Stun Tolerance"
-362,Head!A362,Head,,,Silver Light Helmet,Silver,Light,,,,,,,,,,,,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,,,,,,,,,,,
-368,Head!A368,Head,,,Silver Heavy Helmet,Silver,Heavy,,,,,,,,,,,,0,0,0,29,0,-2,-2,0,-4,4,0,0,0,38,0,-2,-2,0,-4,9,0,0,0,43,0,-2,-2,0,-4,14,,,,,,,,,,,
-374,Head!A374,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-380,Head!A380,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-386,Head!A386,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-392,Head!A392,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-398,Head!A398,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-404,Head!A404,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+320,Head!A320,Head,,Shrouded Cowl,Silver,Cloth,,,,,,,,,,,,,0,0,0,5,0,1,0,0,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+326,Head!A326,Head,,Earthrend Headband,Silver,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,31,0,0,0,0,6,26,Water Type Reduction
+332,Head!A332,Head,,Seafoam Headband,Silver,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
+338,Head!A338,Head,3213,Snow Wolf Trapper Hat,Silver,Cloth,,,0,0,0,9,0,1,0,0,6,6,0,0,0,14,0,1,0,0,6,11,0,0,0,19,0,1,0,0,6,16,0,0,0,25,0,1,0,0,6,21,,,,,,,,,,,Freeze Tolerance
+344,Head!A344,Head,,Dire Snowbird's Crest Feathers,Silver,Cloth,,,0,0,0,1,0,5,0,0,10,6,0,0,0,6,0,7,0,0,12,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,Head!A350,Head,,Snow Beastfolk Fur Mask,Silver,Cloth,,,0,0,0,20,0,-10,2,0,0,0,0,0,0,25,0,-10,4,0,0,5,0,0,0,30,0,-10,7,0,0,10,,,,,,,,,,,,,,,,,,,,,Maximum Body Temperature Increase
+356,Head!A356,Head,Ex.,Glasses of Calm,Silver,Cloth,,,0,7,0,12,0,0,0,0,0,10,0,12,0,18,0,0,0,0,0,16,0,16,0,24,0,0,0,0,0,22,,,,,,,,,,,,,,,,,,,,,Passive I.Q. Up
+362,Head!A362,Head,Ex.,Winterthorn Wreath,Silver,Cloth,,,0,0,0,9,0,5,0,0,0,6,0,0,0,15,5,5,0,0,0,12,0,0,0,21,0,5,0,0,0,18,0,0,0,25,0,5,0,0,0,21,,,,,,,,,,,Stone Tolerance
+368,Head!A368,Head,Ex.,Direbear Hat,Silver,Cloth,,,,,,,,,,,,,,,,,,,,,,,0,0,0,17,14,0,0,0,0,24,,,,,,,,,,,,,,,,,,,,,Stun Tolerance
+374,Head!A374,Head,,Silver Light Helmet,Silver,Light,,,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,,,,,,,,,,,,,,,,,,,,,
+380,Head!A380,Head,,Earthrend Helm,Silver,Light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
+386,Head!A386,Head,,Seafoam Helm,Silver,Light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
+392,Head!A392,Head,,Silver Heavy Helmet,Silver,Heavy,,,0,0,0,29,0,-2,-2,0,-4,4,0,0,0,38,0,-2,-2,0,-4,9,0,0,0,43,0,-2,-2,0,-4,14,0,0,0,50,0,-2,-2,0,-4,19,,,,,,,,,,,
+398,Head!A398,Head,,Earthrend Heavy Helm,Silver,Heavy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
+404,Head!A404,Head,,Seafoam Heavy Helm,Silver,Heavy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
 410,Head!A410,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 416,Head!A416,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 422,Head!A422,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -124,17 +124,17 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 98,Shield!A98,Shield,3101,Shield of Honor,Steel,Light,,,0,0,0,12,0,0,0,0,0,4,0,0,0,16,2,0,0,0,0,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,Shield!A104,Shield,3050,Steel Large Shield,Steel,Heavy,,470,0,0,0,18,0,-1,-2,0,-2,0,0,0,0,22,4,-1,-2,0,-2,0,0,0,0,26,8,-1,-2,0,-2,0,0,0,0,30,12,-1,-2,0,-2,0,0,0,0,34,16,-1,-2,0,-2,0,
 110,Shield!A110,Shield,3103,Shield of the Covenant,Steel,Heavy,,735,0,0,0,19,0,-1,-2,0,-2,0,0,0,0,23,4,-1,-2,0,-2,2,0,0,0,27,8,-1,-2,0,-2,3,0,0,0,31,12,-1,-2,0,-2,4,0,0,0,35,16,-1,-2,0,-2,5,
-116,Shield!A116,Shield,3076,Veil Shield,Ebonsteel,Cloth,,,0,0,0,10,0,0,0,0,0,0,0,0,0,15,4,0,0,0,0,0,0,0,0,19,9,0,0,0,0,0,0,0,0,24,13,0,0,0,0,0,0,0,0,28,18,0,0,0,0,0,
+116,Shield!A116,Shield,3076,Veil Shield ,Ebonsteel,Cloth,,,0,0,0,10,0,0,0,0,0,0,0,0,0,15,4,0,0,0,0,0,0,0,0,19,9,0,0,0,0,0,0,0,0,24,13,0,0,0,0,0,0,0,0,28,18,0,0,0,0,0,
 122,Shield!A122,Shield,3065,Ebonsteel Shield,Ebonsteel,Light,,780,0,0,0,18,0,0,0,0,0,0,0,0,0,23,4,0,0,0,0,0,0,0,0,27,9,0,0,0,0,0,0,0,0,32,13,0,0,0,0,0,0,0,0,36,18,0,0,0,0,0,
 128,Shield!A128,Shield,3123,Antivenom Shield,Ebonsteel,Light,,975,0,0,0,18,0,-1,0,0,0,0,0,0,0,23,4,-1,0,0,0,0,0,0,0,27,9,-1,0,0,0,0,0,0,0,32,13,-1,0,0,0,0,0,0,0,36,18,-1,0,0,0,0,Poison Tolerance
 134,Shield!A134,Shield,3124,Mauve Shield,Ebonsteel,Light,,975,0,0,0,15,0,0,0,0,0,0,0,0,0,20,4,0,0,0,0,0,0,0,0,24,9,0,0,0,0,0,0,0,0,29,13,0,0,0,0,0,0,0,0,33,18,0,0,0,0,0,Confusion Tolerance
 140,Shield!A140,Shield,3066,Ebonsteel Large Shield,Ebonsteel,Heavy,,980,0,0,0,26,0,-1,-2,0,-2,0,0,0,0,31,4,-1,-2,0,-2,0,0,0,0,35,9,-1,-2,0,-2,0,0,0,0,40,13,-1,-2,0,-2,0,0,0,0,44,18,-1,-2,0,-2,0,
-146,Shield!A146,Shield,3125,Holy Knight's Shield,Ebonsteel,Heavy,,1225,0,0,0,25,0,-2,-2,0,-2,0,0,0,0,30,4,-2,-2,0,-2,0,0,0,0,34,9,-2,-2,0,-2,0,0,0,0,39,13,-2,-2,0,-2,0,0,0,0,43,18,-2,-2,0,-2,0,Undead Resistance
+146,Shield!A146,Shield,3125,Holy Knight's Shield ,Ebonsteel,Heavy,,1225,0,0,0,25,0,-2,-2,0,-2,0,0,0,0,30,4,-2,-2,0,-2,0,0,0,0,34,9,-2,-2,0,-2,0,0,0,0,39,13,-2,-2,0,-2,0,0,0,0,43,18,-2,-2,0,-2,0,Undead Resistance
 152,Shield!A152,Shield,Ex.,Lionheart Shield,Ebonsteel,Heavy,,,6,0,0,24,5,-3,-2,0,-2,0,,,,,,,,,,,9,0,0,33,14,-3,-2,0,-2,0,10,0,0,38,18,-3,-2,0,-2,0,,,,,,,,,,,Beast Marking
 158,Shield!A158,Shield,,Blackwing Small Shield,Silver,Cloth,,,0,0,0,12,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 164,Shield!A164,Shield,3206,Twisted Shield,Silver,Cloth,,1170,-60,0,0,-40,0,-20,-60,0,-40,0,-60,5,5,-40,0,-20,-60,0,-40,0,-60,10,10,-40,0,-20,-60,0,-40,0,,,,,,,,,,,-60,20,20,-40,0,-20,-60,0,-40,0,
 170,Shield!A170,Shield,,Silver Shield,Silver,Light,1170,,0,0,0,25,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-176,Shield!A176,Shield,,Silver Large Shield,Silver,Heavy,,,0,0,0,38,0,-1,-2,0,-1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+176,Shield!A176,Shield,,Silver Large Shield,Silver,Heavy,,,0,0,0,38,0,-1,-2,0,-1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,65,20,-1,-2,0,-1,0,
 182,Shield!A182,Shield,,Large Shield of Sacred Life,Silver,Heavy,,,-20,0,0,35,0,-1,-2,0,-10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vitality Barrier
 188,Shield!A188,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 194,Shield!A194,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -172,12 +172,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 80,Feet!A80,Feet,3057,Steel Light Armor Boots,Steel,Light,,365,0,0,0,6,0,0,0,0,0,0,0,0,0,10,0,0,0,0,4,0,0,0,0,14,0,0,0,0,8,0,0,0,0,18,0,0,0,0,12,0,0,0,0,22,0,0,0,0,16,0,
 86,Feet!A86,Feet,Ex.,Star Wolf Light Armor Boots,Steel,Light,,,0,0,0,3,0,0,0,0,0,0,0,0,0,7,0,0,0,0,4,0,0,0,0,11,0,0,0,0,8,0,0,0,0,15,0,0,0,0,12,0,0,0,0,19,0,0,0,0,16,0,Two-Handed Spear Proficiency
 92,Feet!A92,Feet,3058,Steel Heavy Armor Boots,Steel,Heavy,,413,0,0,0,9,0,-1,0,0,-2,0,0,0,0,13,0,-1,0,0,2,0,0,0,0,17,0,-1,0,0,6,0,0,0,0,21,0,-1,0,0,10,0,0,0,0,25,0,-1,0,0,14,0,
-98,Feet!A98,Feet,3080,Veil Boots,Ebonsteel,Cloth,,580,0,0,0,8,0,2,0,0,2,0,0,0,0,13,0,2,0,0,6,0,0,0,0,17,0,2,0,0,11,0,0,0,0,22,0,2,0,0,15,0,0,0,0,26,0,2,0,0,20,0,
+98,Feet!A98,Feet,3080,Veil boots,Ebonsteel,Cloth,,580,0,0,0,8,0,2,0,0,2,0,0,0,0,13,0,2,0,0,6,0,0,0,0,17,0,2,0,0,11,0,0,0,0,22,0,2,0,0,15,0,0,0,0,26,0,2,0,0,20,0,
 104,Feet!A104,Feet,3130,Elegant Dancer,Ebonsteel,Cloth,,1392,0,0,0,5,0,5,0,0,5,0,0,0,0,10,0,5,0,0,9,0,0,0,0,14,0,5,0,0,14,0,,,,,,,,,,,,,,,,,,,,,Charm Tolerance
 110,Feet!A110,Feet,3191,Covert Ninja Tabi,Ebonsteel,Cloth,,580,0,0,0,4,0,3,0,0,1,0,0,0,0,7,0,3,0,0,4,0,0,0,0,10,0,3,0,0,7,0,0,0,0,15,0,3,0,0,12,0,0,0,0,25,0,3,0,0,22,0,
 116,Feet!A116,Feet,Ex.,Charm Boots,Ebonsteel,Cloth,,,0,2,0,4,0,4,0,0,2,0,0,4,0,9,0,4,0,0,6,0,0,5,0,13,0,4,0,0,11,0,0,6,0,18,0,4,0,0,15,0,0,7,0,22,0,4,0,0,20,0,Flash of Insight
 122,Feet!A122,Feet,Ex.,Blood Red Kyahan,Ebonsteel,Cloth,,,0,0,0,3,0,5,0,0,3,0,,,,,,,,,,,0,0,0,8,0,8,0,0,8,0,0,0,0,11,0,9,0,0,11,0,0,0,0,21,0,10,0,0,21,0,
-128,Feet!A128,Feet,Ex.,Shoes of the Swaying Grains,Ebonsteel,Cloth,,,0,0,0,2,0,2,0,5,5,0,0,0,0,7,0,2,0,5,9,0,0,0,0,11,0,2,0,5,14,0,0,0,0,16,0,2,0,5,18,0,,,,,,,,,,,Agile Anticipation
+128,Feet!A128,Feet,Ex.,Shoes of the Swaying Grains ,Ebonsteel,Cloth,,,0,0,0,2,0,2,0,5,5,0,0,0,0,7,0,2,0,5,9,0,0,0,0,11,0,2,0,5,14,0,0,0,0,16,0,2,0,5,18,0,,,,,,,,,,,Agile Anticipation
 134,Feet!A134,Feet,3073,Ebonsteel Light Armor Boots,Ebonsteel,Light,,740,0,0,0,10,0,0,0,0,0,0,0,0,0,15,0,0,0,0,4,0,0,0,0,19,0,0,0,0,9,0,0,0,0,24,0,0,0,0,13,0,0,0,0,28,0,0,0,0,18,0,
 140,Feet!A140,Feet,3197,Heat Haze Light Armor Boots,Ebonsteel,Light,,1388,0,0,0,2,2,0,0,0,1,0,0,0,0,7,2,0,0,0,4,0,0,0,0,11,2,0,0,0,6,0,0,0,0,16,2,0,0,0,12,0,0,0,0,20,2,0,0,0,22,0,"Confusion Tolerance, Charm Tolerance"
 146,Feet!A146,Feet,Ex.,Clearwater Light Armor Boots,Ebonsteel,Light,,,0,0,0,8,10,0,0,0,-4,0,0,0,0,13,16,0,0,0,0,0,0,0,0,17,23,0,0,0,5,0,0,0,0,22,29,0,0,0,9,0,,,,,,,,,,,
@@ -187,14 +187,14 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 170,Feet!A170,Feet,3114,Desert Greaves,Ebonsteel,Heavy,32250,3225,0,0,0,15,1,-3,0,0,-2,0,0,0,0,20,1,-3,0,0,2,0,0,0,0,24,1,-3,0,0,7,0,0,0,0,29,1,-3,0,0,11,0,0,0,0,33,1,-3,0,0,16,0,
 176,Feet!A176,Feet,,Hunting Boots,Silver,Cloth,,,0,0,0,8,0,7,0,4,2,0,0,0,0,13,0,9,0,4,11,0,0,0,0,16,0,10,0,4,16,0,0,0,0,24,0,11,0,4,23,0,0,0,0,30,0,12,0,4,29,0,Magical Beast Resistance
 182,Feet!A182,Feet,,Sheepskin Boots,Silver,Cloth,65000,,0,0,0,8,0,2,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Freeze Tolerance, Maximum Body Temperature Increase"
-188,Feet!A188,Feet,,Deep-Snow Straw Sandals,Silver,Cloth,,,0,0,0,13,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maximum Body Temperature Increase
+188,Feet!A188,Feet,,Deep-Snow Straw Sandals,Silver,Cloth,,,0,0,0,13,0,0,0,0,0,0,0,0,0,20,0,0,0,0,7,0,0,0,0,25,0,0,0,0,12,0,,,,,,,,,,,,,,,,,,,,,Maximum Body Temperature Increase
 194,Feet!A194,Feet,,Brave Shoes,Silver,Cloth,,,0,0,0,9,0,2,0,0,2,0,0,0,0,14,0,2,0,0,11,0,0,0,0,19,0,2,0,0,16,0,0,0,0,25,0,2,0,0,21,0,,,,,,,,,,,Fear Tolerance
 200,Feet!A200,Feet,,Shrouded Ninja Tabi,Silver,Cloth,,,0,0,0,5,0,3,0,4,1,0,0,0,0,9,0,3,0,4,7,0,0,0,0,13,0,3,0,4,13,0,0,0,0,19,0,3,0,4,21,0,0,0,0,32,0,3,0,4,34,0,
 206,Feet!A206,Feet,Ex.,High Boots of the Winter Night,Silver,Cloth,,,0,0,0,8,0,8,0,0,2,0,0,0,0,14,0,10,0,0,13,0,0,0,0,20,0,11,0,0,18,0,0,0,0,24,0,12,0,0,23,0,,,,,,,,,,,Stone Tolerance
-212,Feet!A212,Feet,,Silver Light Armor Boots,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,0,0,7,0,0,0,0,26,0,0,0,0,12,0,,,,,,,,,,,,,,,,,,,,,
-218,Feet!A218,Feet,,Silver Heavy Armor Boots,Silver,Heavy,,,0,0,0,21,0,0,0,0,-2,0,0,0,0,30,0,0,0,0,3,0,0,0,0,35,0,0,0,0,8,0,0,0,0,42,0,0,0,0,14,0,,,,,,,,,,,
-224,Feet!A224,Feet,,Hard Snow Heavy Armor Boots,Silver,Heavy,,,0,0,0,39,0,-10,0,0,-10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ice-Break Damage Reduction
-230,Feet!A230,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+212,Feet!A212,Feet,Ex.,Boots of the First Wind,Silver,Cloth,,,0,0,5,5,0,2,0,0,4,0,0,0,7,11,0,2,0,0,15,0,,,,,,,,,,,0,0,9,21,0,2,0,0,25,0,0,0,10,24,0,2,0,0,27,0,Pious Swiftness
+218,Feet!A218,Feet,,Silver Light Armor Boots,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,0,0,7,0,0,0,0,26,0,0,0,0,12,0,,,,,,,,,,,0,0,0,39,0,0,0,0,25,0,
+224,Feet!A224,Feet,,Silver Heavy Armor Boots,Silver,Heavy,,,0,0,0,21,0,0,0,0,-2,0,0,0,0,30,0,0,0,0,3,0,0,0,0,35,0,0,0,0,8,0,0,0,0,42,0,0,0,0,14,0,,,,,,,,,,,
+230,Feet!A230,Feet,,Hard Snow Heavy Armor Boots,Silver,Heavy,,,0,0,0,39,0,-10,0,0,-10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ice-Break Damage Reduction
 236,Feet!A236,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 242,Feet!A242,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 248,Feet!A248,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -245,10 +245,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 104,Hands!A104,Hands,3110,Featherbronze Gauntlets,Steel,Light,,553,0,0,0,4,-2,0,0,0,0,0,0,0,0,8,-2,0,4,0,0,0,0,0,0,12,-2,0,8,0,0,0,0,0,0,16,-2,0,12,0,0,0,0,0,0,20,-2,0,16,0,0,0,"Bind Tolerance, Disarm Trap (+3)"
 110,Hands!A110,Hands,Ex.,Praying Mantis Gloves,Steel,Light,,,4,0,0,6,0,0,0,0,0,0,4,0,0,10,0,0,4,0,0,0,4,0,0,14,0,0,8,0,0,0,4,0,0,18,0,0,12,0,0,0,4,0,0,22,0,0,16,0,0,0,
 116,Hands!A116,Hands,3056,Steel Heavy Gauntlets,Steel,Heavy,,432,0,0,0,9,0,0,-2,0,0,0,0,0,0,13,0,0,2,0,0,0,0,0,0,17,0,0,6,0,0,0,0,0,0,21,0,0,10,0,0,0,0,0,0,25,0,0,14,0,0,0,
-122,Hands!A122,Hands,3079,Veil Gloves,Ebonsteel,Cloth,,580,0,0,0,8,0,0,2,0,0,0,0,0,0,13,0,0,6,0,0,0,0,0,0,17,0,0,11,0,0,0,0,0,0,22,0,0,15,0,0,0,0,0,0,26,0,0,20,0,0,0,
+122,Hands!A122,Hands,3079,Veil Gloves ,Ebonsteel,Cloth,,580,0,0,0,8,0,0,2,0,0,0,0,0,0,13,0,0,6,0,0,0,0,0,0,17,0,0,11,0,0,0,0,0,0,22,0,0,15,0,0,0,0,0,0,26,0,0,20,0,0,0,
 128,Hands!A128,Hands,3118,Wilderness Gloves,Ebonsteel,Cloth,,725,0,0,0,7,0,0,2,0,0,0,0,0,0,12,0,0,6,0,0,0,0,0,0,16,0,0,11,0,0,0,0,0,0,21,0,0,15,0,0,0,0,0,0,25,0,0,20,0,0,0,Magical Beast Resistance
 134,Hands!A134,Hands,3122,Covert Arm Wraps,Ebonsteel,Cloth,,725,0,0,0,3,0,1,1,0,1,0,0,0,0,6,0,1,4,0,3,0,0,0,0,8,0,1,6,0,4,0,0,0,0,14,0,1,12,0,5,0,0,0,0,24,0,1,22,0,6,0,VERIFY +15 EVA
-140,Hands!A140,Hands,3129,Grave Robber's Gloves,Ebonsteel,Cloth,,725,0,0,0,5,0,1,2,0,0,0,0,0,0,10,0,1,6,0,0,0,0,0,0,14,0,1,11,0,0,0,0,0,0,19,0,1,15,0,0,0,0,0,0,23,0,1,20,0,0,0,"Disarm Trap +4/?/?/8/?, Evade Trap +6/?/?/10/?"
+140,Hands!A140,Hands,3129,Grave Robber's Gloves,Ebonsteel,Cloth,,725,0,0,0,5,0,1,2,0,0,0,0,0,0,10,0,1,6,0,0,0,0,0,0,14,0,1,11,0,0,0,0,0,0,19,0,1,15,0,0,0,0,0,0,23,0,1,20,0,0,0,"Disarm Trap +4/5/?/8/?, Evade Trap +6/?/?/10/?"
 146,Hands!A146,Hands,Ex.,Skeleton Lady's Gloves,Ebonsteel,Cloth,,,0,0,0,5,0,0,0,0,5,0,0,0,0,9,0,0,0,0,7,0,0,0,0,13,0,0,0,0,8,0,0,0,0,17,0,0,0,0,9,0,0,0,0,21,0,0,0,0,10,0,"Undead Resistance, Passive HP Up"
 152,Hands!A152,Hands,Ex.,Droplet Catchers,Ebonsteel,Cloth,,,0,5,0,5,0,0,0,0,0,6,0,7,0,9,0,0,0,0,0,10,0,8,0,13,0,0,0,0,0,15,,,,,,,,,,,,,,,,,,,,,
 158,Hands!A158,Hands,3071,Ebonsteel Light Gauntlets,Ebonsteel,Light,,720,0,0,0,10,0,0,0,0,0,0,0,0,0,15,0,0,4,0,0,0,0,0,0,19,0,0,9,0,0,0,0,0,0,24,0,0,13,0,0,0,0,0,0,28,0,0,18,0,0,0,
@@ -259,10 +259,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 188,Hands!A188,Hands,Ex.,Pyrite Armguard,Ebonsteel,Light,,,0,0,0,4,8,0,0,0,0,0,0,0,0,9,14,0,4,0,0,2,0,0,0,13,21,0,9,0,0,5,0,0,0,18,27,0,13,0,0,7,,,,,,,,,,,Passive Piety Up
 194,Hands!A194,Hands,3072,Ebonsteel Heavy Gauntlets,Ebonsteel,Heavy,,900,0,0,0,14,0,0,-2,0,0,0,0,0,0,19,0,0,2,0,0,0,0,0,0,23,0,0,7,0,0,0,0,0,0,28,0,0,11,0,0,0,0,0,0,32,0,0,16,0,0,0,
 200,Hands!A200,Hands,3120,Wilderness Gauntlets,Ebonsteel,Heavy,,1125,0,0,0,12,0,0,-2,0,0,0,0,0,0,17,0,0,2,0,0,0,0,0,0,21,0,0,7,0,0,0,0,0,0,26,0,0,11,0,0,0,0,0,0,30,0,0,16,0,0,0,Magical Beast Resistance
-206,Hands!A206,Hands,,Blackwing Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,,,,,,,,,,,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,,,,,,,,,,,
-212,Hands!A212,Hands,,Shrouded Arm Wraps,Silver,Cloth,,,0,0,0,4,0,1,1,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+206,Hands!A206,Hands,,Blackwing Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,,,,,,,,,,,
+212,Hands!A212,Hands,,Shrouded Arm Wraps,Silver,Cloth,,,0,0,0,4,0,1,1,0,1,0,,,,,,,,,,,,,,,,,,,,,0,0,0,18,0,1,16,0,5,0,,,,,,,,,,,
 218,Hands!A218,Hands,,Golden Gloves,Silver,Cloth,,,0,0,0,15,-5,3,2,0,0,0,0,0,0,20,-5,3,5,0,0,0,0,0,0,25,-5,3,10,0,0,0,0,0,0,31,-5,3,17,0,0,0,0,0,0,37,-5,3,28,0,0,0,Disarm Trap +7/9/11/12/13
-224,Hands!A224,Hands,,Hunting Gloves,Silver,Cloth,,,0,0,0,8,0,3,5,2,0,0,0,0,0,13,0,3,8,2,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,30,0,3,31,2,0,0,Magical Beast Resistance
+224,Hands!A224,Hands,,Hunting Gloves,Silver,Cloth,,,0,0,0,8,0,3,5,2,0,0,0,0,0,13,0,3,8,2,0,0,0,0,0,18,0,3,13,2,0,0,0,0,0,24,0,3,20,2,0,0,0,0,0,30,0,3,31,2,0,0,Magical Beast Resistance
 230,Hands!A230,Hands,Ex.,Red Spinner Woman Spellwoven Cloth,Silver,Cloth,,,0,0,0,25,0,0,-2,0,0,10,0,0,0,36,0,0,-2,0,0,12,0,0,0,41,0,0,-2,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
 236,Hands!A236,Hands,,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,33,0,0,16,0,0,0,,,,,,,,,,,
 242,Hands!A242,Hands,,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,,,,,,,,,,,0,0,0,35,0,0,8,0,0,0,,,,,,,,,,,,,,,,,,,,,
@@ -352,24 +352,24 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 332,Body!A332,Body,3188,Umbral Heavy Mail,Ebonsteel,Heavy,,2075,0,0,0,49,0,-2,-2,0,-4,0,0,0,0,59,6,-2,-2,0,-4,0,0,0,0,69,13,-2,-2,0,-4,0,0,0,0,79,19,-2,-2,0,-4,0,0,0,0,89,26,-2,-2,0,-4,0,Light Type Reduction
 338,Body!A338,Body,Ex.,Master's Armor,Ebonsteel,Heavy,,,0,0,0,50,0,-2,-2,0,-4,0,0,0,0,60,6,-2,-2,0,-4,0,0,0,0,70,13,-2,-2,0,-4,0,0,0,0,80,19,-2,-2,0,-4,0,0,0,0,90,26,-2,-2,0,-4,0,Bind Tolerance
 344,Body!A344,Body,Ex.,Lionheart Plate,Ebonsteel,Heavy,,,0,0,0,51,15,-3,-2,0,-4,0,0,0,0,61,21,-3,-2,0,-4,0,0,0,0,71,28,-3,-2,0,-4,0,0,0,0,81,34,-3,-2,0,-4,0,0,0,0,91,41,-3,-2,0,-4,0,Beast Hate
-350,Body!A350,Body,,Blackwing Robe,Silver,Cloth,,1320,0,0,0,23,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,Body!A350,Body,,Blackwing Robe,Silver,Cloth,,1320,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 356,Body!A356,Body,,Shrouded Garb,Silver,Cloth,,,0,0,0,17,-2,1,0,0,4,0,0,0,0,23,2,1,0,0,4,0,0,0,0,35,9,1,0,0,5,0,,,,,,,,,,,,,,,,,,,,,
 362,Body!A362,Body,,Wool Sweater,Silver,Cloth,,,0,0,0,20,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Freeze Tolerance, Maximum Body Temperature Increase"
 368,Body!A368,Body,,Earthrend Cloak,Silver,Cloth,,,0,0,0,22,0,0,0,0,0,0,0,0,0,32,9,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
-374,Body!A374,Body,Ex.,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,0,0,0,37,4,7,0,0,0,0,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,0,0,0,65,16,10,0,0,0,0,Bewitching Fragrance
-380,Body!A380,Body,Ex.,Robe of the Millenium,Silver,Cloth,,,0,8,0,29,0,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I.Q. Obstruction
-386,Body!A386,Body,,Silver Light Armor,Silver,Light,,,0,0,0,48,0,-1,-2,0,-2,0,,,,,,,,,,,0,0,0,74,17,-1,-2,0,-2,0,0,0,0,89,26,-1,-2,0,-2,0,,,,,,,,,,,
-392,Body!A392,Body,,Chainmail,Silver,Light,,,0,0,0,30,0,-1,-2,5,-2,0,0,0,0,44,9,-1,-2,7,-2,0,,,,,,,,,,,0,0,0,71,26,-1,-2,9,-2,0,,,,,,,,,,,
-398,Body!A398,Body,,Giant Beast Ape Light Armor,Silver,Light,,,0,0,0,46,0,-1,-1,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Freeze Tolerance, Maximum Body Temperature Increase"
-404,Body!A404,Body,,Silver Heavy Armor,Silver,Heavy,,,0,0,0,79,0,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,122,26,-2,-2,0,-4,0,0,0,0,135,36,-2,-2,0,-4,0,
-410,Body!A410,Body,,Snow Beastfolk Fur Armor,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Maximum Body Temperature Increase"
-416,Body!A416,Body,,Earthrend Heavy Armor,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-422,Body!A422,Body,Ex.,Heavy Armor of Bloodrage,Silver,Heavy,,,0,0,0,93,0,-2,-2,0,-4,15,0,0,0,112,11,-2,-2,0,-4,20,0,0,0,125,19,-2,-2,0,-4,24,0,0,0,134,24,-2,-2,0,-4,26,,,,,,,,,,,HP Absorption on Defeat
-428,Body!A428,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-434,Body!A434,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-440,Body!A440,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-446,Body!A446,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-452,Body!A452,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+374,Body!A374,Body,,Seafoam Cloak,Silver,Cloth,,,0,0,0,22,0,0,0,0,0,0,0,0,0,32,9,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
+380,Body!A380,Body,Ex.,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,0,0,0,37,4,7,0,0,0,0,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,0,0,0,65,16,10,0,0,0,0,Bewitching Fragrance
+386,Body!A386,Body,Ex.,Robe of the Millenium,Silver,Cloth,,,0,8,0,29,0,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I.Q. Obstruction
+392,Body!A392,Body,Ex.,Vestments of the Divine Grace,Silver,Cloth,,,0,0,2,20,0,0,0,0,0,0,0,0,7,32,6,0,0,0,0,0,0,0,11,45,12,0,0,0,0,0,0,0,13,52,15,0,0,0,0,0,,,,,,,,,,,Piety Obstruction
+398,Body!A398,Body,,Silver Light Armor,Silver,Light,,,0,0,0,48,0,-1,-2,0,-2,0,,,,,,,,,,,0,0,0,74,17,-1,-2,0,-2,0,0,0,0,89,26,-1,-2,0,-2,0,,,,,,,,,,,
+404,Body!A404,Body,,Earthrend Mail,Silver,Light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type Reduction
+410,Body!A410,Body,,Seafoam Mail,Silver,Light,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Type Reduction
+416,Body!A416,Body,,Chainmail,Silver,Light,,,0,0,0,30,0,-1,-2,5,-2,0,0,0,0,44,9,-1,-2,7,-2,0,,,,,,,,,,,0,0,0,71,26,-1,-2,9,-2,0,,,,,,,,,,,
+422,Body!A422,Body,,Giant Beast Ape Light Armor,Silver,Light,,,0,0,0,46,0,-1,-1,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Freeze Tolerance, Maximum Body Temperature Increase"
+428,Body!A428,Body,,Silver Heavy Armor,Silver,Heavy,,,0,0,0,79,0,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,122,26,-2,-2,0,-4,0,0,0,0,135,36,-2,-2,0,-4,0,
+434,Body!A434,Body,,Snow Beastfolk Fur Armor,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Maximum Body Temperature Increase"
+440,Body!A440,Body,,Earthrend Heavy Mail,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,104,17,-2,-2,0,-4,0,,,,,,,,,,,Water Type Reduction
+446,Body!A446,Body,,Seafoam Heavy Mail,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,104,17,-2,-2,0,-4,0,,,,,,,,,,,Fire Type Reduction
+452,Body!A452,Body,Ex.,Heavy Armor of Bloodrage,Silver,Heavy,,,0,0,0,93,0,-2,-2,0,-4,15,0,0,0,112,11,-2,-2,0,-4,20,0,0,0,125,19,-2,-2,0,-4,24,0,0,0,134,24,-2,-2,0,-4,26,,,,,,,,,,,HP Absorption on Defeat
 458,Body!A458,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 464,Body!A464,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 470,Body!A470,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -444,12 +444,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 290,Accessories!A290,Accessories,,Godefroi Holy Relic,Silver,Accessory,,,0,0,5,0,23,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 296,Accessories!A296,Accessories,,Slime Core Crystal,Silver,Accessory,,,0,0,0,20,-50,-8,0,0,0,5,0,0,0,34,-50,-8,0,0,0,9,0,0,0,46,-50,-8,0,0,0,13,,,,,,,,,,,,,,,,,,,,,
 302,Accessories!A302,Accessories,,Earthrend Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,39,23,0,0,0,0,0,Water Type Reduction
-308,Accessories!A308,Accessories,,Miner's Ring of Protection,Silver,Accessory,,,0,0,0,3,22,0,0,0,0,0,0,0,0,13,22,0,0,0,0,0,0,0,0,21,22,0,0,0,0,0,0,0,0,31,22,0,0,0,0,0,0,0,0,39,22,0,0,0,0,0,"Paralysis Tolerance, Stun Tolerance"
-314,Accessories!A314,Accessories,Ex.,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
-320,Accessories!A320,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
-326,Accessories!A326,Accessories,Ex.,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,,,,,,,,,,,0,0,0,35,21,0,19,0,0,19,0,0,0,42,21,0,21,0,0,21,,,,,,,,,,,Curse Tolerance
-332,Accessories!A332,Accessories,Ex.,Quiver of the Ironwood Kin,Silver,Accessory,,,0,0,0,8,20,0,0,0,0,12,0,0,0,20,20,0,0,0,0,17,0,0,0,28,20,0,0,0,0,21,0,0,0,35,20,0,0,0,0,23,,,,,,,,,,,Paralysis Tolerance
-338,Accessories!A338,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+308,Accessories!A308,Accessories,,Seafoam Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,39,23,0,0,0,0,0,Fire Type Reduction
+314,Accessories!A314,Accessories,,Miner's Ring of Protection,Silver,Accessory,,,0,0,0,3,22,0,0,0,0,0,0,0,0,13,22,0,0,0,0,0,0,0,0,21,22,0,0,0,0,0,0,0,0,31,22,0,0,0,0,0,0,0,0,39,22,0,0,0,0,0,"Paralysis Tolerance, Stun Tolerance"
+320,Accessories!A320,Accessories,Ex.,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
+326,Accessories!A326,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
+332,Accessories!A332,Accessories,Ex.,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,,,,,,,,,,,0,0,0,35,21,0,19,0,0,19,0,0,0,42,21,0,21,0,0,21,,,,,,,,,,,Curse Tolerance
+338,Accessories!A338,Accessories,Ex.,Quiver of the Ironwood Kin,Silver,Accessory,,,0,0,0,8,20,0,0,0,0,12,0,0,0,20,20,0,0,0,0,17,0,0,0,28,20,0,0,0,0,21,0,0,0,35,20,0,0,0,0,23,,,,,,,,,,,Paralysis Tolerance
 344,Accessories!A344,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 350,Accessories!A350,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 356,Accessories!A356,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
