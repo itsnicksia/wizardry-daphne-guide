@@ -92,6 +92,9 @@
                     - Can spawn on a purple poison tile and blend into the background
                     - Appear on either "half" of the floor, which requires using the right staircase to access
                     - All of the reversible stones (+ poison tiles) reset.
+
+            - Parallel Farming 
+                - Potential to combine with any of the 2nd faction bondmates (Bernard, Elliot, William) since those also take you through the majority of the floors while you are hunting down the wax tablets. This has not been tested as of 1/3/26. 
     
             - Resetting
                 - Start: Snowy Forest Minor Harken
@@ -203,6 +206,28 @@
 
 ## Short Rest in the Cabin
 
+### Bernard, Father Restored to Life
+
+??? note "Details"
+
+    === "How to Acquire"
+
+        - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - Admiral Route
+        - Requires finding the second missing person
+
+    === "Skill - Magic Power"
+
+        <figure markdown>
+        ![](./img/bernard-skill.png)
+        </figure>
+
+    === "Portrait"
+
+        <figure markdown>
+        ![](./img/bernard.png)
+        </figure>
+
 ### Elliot, the Lamenting Brother
 
 ??? note "Details"
@@ -245,28 +270,6 @@
 
         <figure markdown>
         ![](./img/william.png)
-        </figure>
-
-### Bernard, Father Restored to Life
-
-??? note "Details"
-
-    === "How to Acquire"
-
-        - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/requests.md#search-for-the-missing-persons-2nd-faction-request)
-        - Admiral Route
-        - Requires finding the second missing person
-
-    === "Skill - Magic Power"
-
-        <figure markdown>
-        ![](./img/bernard-skill.png)
-        </figure>
-
-    === "Portrait"
-
-        <figure markdown>
-        ![](./img/bernard.png)
         </figure>
 
 ## Truth of the Beautiful Ore
