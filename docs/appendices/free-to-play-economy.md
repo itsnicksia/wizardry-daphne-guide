@@ -111,7 +111,7 @@ Guild points can be Exchanged at the Jeweler for gems, adventurer's remains, gol
 
 ## Adventurer's Remains
 ### Uses:
-In this game, Adventurer's Remains are used by the Masked Adventurer to resurrect allies to help him in his adventure.  Remains can be specific to one particular adventurer, or to a group or type of adventurer, or can be ordinary remains that pull randomly from the entire adventurer pool.  Gaining additional adventurers increases your party options and gaining duplicate copies of adventurers can increase the power of your adventuring party in numerous ways by [allowing skills to be inherited or increased in power](../mechanics/discipline-and-inheritance.md), or by providing adventurer tags for [grading up to higher levels](../abyss-guides/grade-exams/maps.md). As such accumulating adventurer remains is one of the primary ways, even a necessary way, of advancing in the game.
+In this game, Adventurer's Remains are used by the Masked Adventurer to resurrect allies to help him in his adventure.  Remains can be specific to one particular adventurer, or to a group or type of adventurer, or can be ordinary remains that pull randomly from the entire adventurer pool.  Gaining additional adventurers increases your party options and gaining duplicate copies of adventurers can increase the power of your adventuring party in numerous ways by [allowing skills to be inherited or increased in power](../mechanics/discipline-and-inheritance.md), or by providing adventurer tags for [grading up to higher levels](./grade-up/index.md). As such accumulating adventurer remains is one of the primary ways, even a necessary way, of advancing in the game.
 
 #### Regular Adventurer's Remains
 <div class="nofilter-table nosort-table" markdown>
@@ -157,7 +157,7 @@ In this game, Adventurer's Remains are used by the Masked Adventurer to resurrec
 </div>
 
 ## Guild Tags
-Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](../abyss-guides/grade-exams/maps.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying two tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
+Guild Tags are required to increase a character's Guild Grade that sets the maximum level the adventurer can reach.  An [exam must be passed and a Guild Tag payment must be made](./grade-up/index.md) to rise above level 20, and for every 10 levels thereafter.  In addition, the required Guild Tag [is formed by Unifying two tags of the previous level](../frequently-asked-questions.md#how-do-i-get-grade-tags).   
 
 #### Tag Requirements per Adventurer per Grade
 <div class="nofilter-table nosort-table" markdown>
