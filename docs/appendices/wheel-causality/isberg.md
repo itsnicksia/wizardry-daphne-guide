@@ -46,6 +46,7 @@
 
 * Did not go
 * Helped repel the monsters but was admonished
+* Helped repel the monsters
 * Repelled all the monsters
 
 ### Village Adults
