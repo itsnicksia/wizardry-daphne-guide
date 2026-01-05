@@ -114,6 +114,14 @@ extra text can be added between skills
 
     So what does this amount to? An overall lackluster legendary that gives us great incentive to save for the new class near the end of the year. Of all the great things they could have done with a new legendary mage, this is confusing and not really one of them.
 
+??? info "Frobro's Analysis"
+
+    I held off writing this one just to see if something was coming in Abyss 4 that Erwin was going to be really good for that we just couldn’t see at the time. Nope; he’s just not good! Mostly because Mage as a class is pretty bad; or rather, magic damage is worthless.
+
+    Neutral Elf with MP + Mag pwr discipline, not bad. The passive that increases damage and reduces the cost of repeat spells is a start, but it is nowhere near enough! The damage softcaps for spells are atrociously low. Even casting higher levels of damaging spells hardly justifies the increased mp cost, and even with this discount, Erwin cannot afford to spend his resources for pathetic damage every battle.
+
+    Then there is Flame of Gluttony…There isn’t a single fight in the game that this spell is good for. The damage is low even under the best conditions to say nothing of the fact that aoe damage/debuffs is the only thing mages are good for in battle and you need to ignore that to even have a reason to click this. This guy seriously has no redeeming qualities. Unironically weaker than Halloween Asha, a fire mage, with a 2nd class (priest) that came out weeks before him. What more can be said?
+
 ??? info "Karkarov's Analysis"
 
     Drecom has delivered on their promise, the Trap Master is here and their name is Erwin!  But trust me, they aren't a Trap Master because it is a dude that looks like a girl.
@@ -139,8 +147,6 @@ extra text can be added between skills
     Like this is not the worst legendary attack skill I have ever seen, but it is not anywhere near what I would call good.  It is effectively just slightly better Halito.  A good analogy would be going to Mc Donalds and ordering a double quarter pounder with cheese, except wait.... you have them add BACON!  It is still a DQ with cheese man, those two stringy as hell microwaved pieces of bacon don't really elevate it to anything special but your burger does cost more "MP" now.
 
     This character is just not good.  Any other legendary mage is better, as horrific as this is to say, if you REALLY want a fire mage, Alt Asha skin is probably better.  So yeah, this character is the Trap Master.  Because he is a pure bait banner meant to con you into wasting resources.
-
-    
 
 ## Adventurer Pull Plans
 
