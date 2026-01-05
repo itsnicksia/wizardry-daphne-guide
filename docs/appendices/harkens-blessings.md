@@ -11,7 +11,6 @@
 | Blessing of Power                                                  | Harken's Blessing has increased your Attack Power.                                                                                           |
 | Blessing of Protection                                             | Harken's Blessing has increased your Defense Power.                                                                                          |
 | Blessing of the Old Castle Ruins                                   | Harken's Blessing has increased your Disarm Trap.                                                                                            |
-| <span class="green">Humanoid Rejection</span>                      | Harken's Blessing has reduced the damage you take from humans.                                                                               |
 | <span class="green">Blessing of Agility</span>                     | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
 | <span class="green">Blessing of Close-Quarters Combat</span>       | Harken's Blessing has increased your Attack Power, Defense Power, and Resistance.                                                            |
 | <span class="green">Blessing of Confusion/Charm Tolerance </span>  | Harken's Blessing has increased your Confusion Tolerance and Charm Tolerance.                                                                |
@@ -30,8 +29,10 @@
 | <span class="green">Hammer Demi-Humans</span>                      | Harken's Blessing has increased the damage you do to demi-humans.                                                                            |
 | <span class="green">Hammer Humanoidss</span>                       | Harken's Blessing has increased the damage you do to humanoids.                                                                              |
 | <span class="green">Hammer of Magical Beasts</span>                | Harken's Blessing has increased the damage you do to magic beasts.                                                                           |
+| <span class="green">Humanoid Rejection</span>                      | Harken's Blessing has reduced the damage you take from humans.                                                                               |
 | <span class="green">Magical Beast Rejection</span>                 | Harken's Blessing has reduced the damage you take from magical beasts.                                                                       |
 | <span class="green">Protection of Water Barrier</span>             | Harken's Blessing has increased the damage your Water Type Resistance.                                                                       |
+| <span class="green">Repel Freeze</span>                            | Harken's Blessing has increased your Freeze Tolerance.                                                                                       |
 | <span class="blue">Bind Rejecting Immunity</span>                  | Harken's Blessing has increased your Bind Tolerance, Sleep Tolerance, and Charm Tolerance.                                                   |
 | <span class="blue">Blessing of Agility II</span>                   | Harken's Blessing has increased your Action Speed and Evasion.                                                                               |
 | <span class="blue">Blessing of Close-Quarters Combat II</span>     | Harken's Blessing has increased your Attack Power, Defense Power, and Resistance.                                                            |
