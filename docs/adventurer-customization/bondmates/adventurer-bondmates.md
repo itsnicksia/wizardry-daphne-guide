@@ -57,6 +57,7 @@
 | Gerard       | VIT                 |
 | Gerulf       | STR                 |
 | Gilion       |                     |
+| Heinrico     | DEX                 |
 | Human-Fig    | STR                 |
 | Human-Nin    | SPD                 |
 | Human-Pri    | PIE                 |
@@ -79,4 +80,5 @@
 | Valdor       | IQ                  |
 | Viviana      | SPD                 |
 | Yekatarina   | IQ                  |
+| Yrsa         |                     |
 | Yuzunamiki   |                     |
