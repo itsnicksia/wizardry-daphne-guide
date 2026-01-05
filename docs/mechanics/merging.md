@@ -2,62 +2,62 @@
 
 ## Overview
 
-- A limited number of characters have alternative versions ("styles") that come with different skills and disciplines. “Merging” allows you to combine the standard and alternative style into one adventurer. You can switch between styles at any time in the Training Room.
-- Merging requires you to have at least one copy of the standard and alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits. There is no downside to merging.
-- You do not lose anything by merging an adventurer and there is no benefit to leveling a recently pulled standard or alternative style.
+- A limited number of adventurers have alternative versions ("styles") that come with different skills and disciplines. Merging allows you to combine the standard and alternative style into one adventurer, which can be changed at any time in the Training Room.
+- Merging requires at least one copy of the standard and the alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits.
+- There is no downside to merging. Nothing is lost. Merging can be done immediately after pulling a new standard or alternative style copy since no additional merging bonus points are gained from leveling. 
 
 ??? warning "Important Terms"
 
     - Base unit
 	
-		- The unit selected in the Training Room that serves as the “base” of the merge. You can use either the standard or alternative style as the base unit. 
+		- The unit selected in the Training Room. It serves as the “base” of the merge and either the standard or alternative style can be used.
 		- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
 	
     - Fodder unit
 	
-		- This is the second unit that you select in the Merging screen. Ideally, it will have a different IV or boosted trait than the base unit. This generally leads to better bonus trait gains with the “Contiguous States of Mind” passive.
+		- The unit selected in the Merging screen that will be absorbed "into" the base unit. Ideally, it will have a different IV or boosted trait than the base unit. This generally, but not always, leads to higher trait growth rates with the “Contiguous States of Mind” passive.
 	
     - Discipline skill 
 	
-		- Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed [on the Discipline and Inheritance page here](./discipline-and-inheritance.md). 
+		- Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed on the [Discipline and Inheritance](./discipline-and-inheritance.md) page. 
 		- Note: The featured stats of Legendary units are higher than General units. 
 
 ??? warning "Mechanics"
 
 	=== "Basics"
 
-		- Highest value from either the base or fodder is used for: 
+		- The highest value from either the base or fodder determines: 
 	
 		    - Fortitude
-			- Bonus Points (BP), which can be re-allocated immediately after merging or in the Training Room
+			- Bonus Points (BP), which can be re-allocated immediately after merging or in the Training Room 
 		    - Grade level
-			- Class EXP, including the secondary if unlocked 
+			- Class EXP, including the secondary class if unlocked 
 
 		- Experience is added together for: 
 		
-			- Active skills
-			- Passive skills
+			- Active Skills
+			- Passive Skills
 			- Spells 
-			- Relic powers, both equipped and extracted 
+			- Relic Powers, both equipped and extracted 
 
 		- Base unit determines: 
 		
 			- IV or "boosted" trait, if present
 			- Current class 
 			- Trust level (see Technical Notes) and flaming-heart, if present
-			- Equipped bondmates and "Favorites" hotbar  
+			- Equipped bondmates and Favorites hotbar  
 
 	=== "Technical Notes" 
 	
 		- Relic Powers 
 			- Equipped relic powers stack on the merged unit. 
-			- For example, if both the base and fodder have 4 different relic powers equipped, then the merged unit will have all 8 equipped. This results in Stage 4 penalties with an immediate hit to Fortitude and requires extraction, which can be expensive.
-			- Strongly recommended removing the ones you do not want before merging. 
+			- For example, if both the base and fodder have 4 different relic powers equipped, then the merged unit will have all 8. This results in Stage 4 penalties with an immediate hit to Fortitude and requires extraction, which can be expensive.
+			- Strongly recommended removing the Relic Powers you do not want before merging. 
 		- Class 
-			- Since the base unit's current class carries over to the merged unit you may have to use a class handbook or class change request to switch back to your preferred class. Plan accordingly, especially with the new level 70 cap or if you are a newer player with limited class change items
+			- The base unit's current class carries over to the merged unit. This means you may have to use a class handbook or class change request to switch back to your preferred class. Plan accordingly, especially with the new level 70 cap or if you are a newer player with limited class change items
 		- Trust
-			- (Under verification) If you use a high-trust unit (level 60-70), then it seems as if some portion (60-70+%) of it's trust level carries over to the merged unit.The merged unit is treated as a "new" character with its own trust level. The number of unlocked Life Story pages and voice-lines can be used as a useful proxy. 
-			- (Under verification) If the high-trust unit had a flaming-heart, then it should be immediately restored after defeating GWO 1 and 2 again. 
+			- (Under verification) If you use a high-trust unit (level 60-70) as fodder, then it seems as if some portion (60-70%) of its trust carries over to the merged unit. The merged unit is treated as a "new" adventurer with its own trust level. The number of unlocked Life Story pages and voice-lines can be used as a useful proxy. 
+			- (Under verification) If the high-trust fodder had a flaming-heart, then it should be immediately restored after defeating GWO 1 and 2 again on the merged unit. 
 
 ??? note "How to Merge" 
 
@@ -74,8 +74,8 @@
 		
     === "Summary"
     
-        - The style you select as “active” in the Training Room determines what unique passive skill and discipline (“Featured Stats”) is available to the adventurer.
-        - Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. In the tabs is an example that compares standard Asha and Witching Mage Asha for easy comparison
+        - The style you select as “active” in the Training Room determines what unique passive skill and discipline (“featured stats”) is available to the adventurer.
+        - Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. In the tabs is an example that compares standard Asha and Witching Mage Asha.
         - It is important to switch between styles depending on the situation or enemy you are facing. 
 		- For example, if you are fighting a boss that employs constant poison attacks you would opt for the standard Asha style. Why? Her passive increases poison tolerance for adjacent Good team members; and, her discipline skill increases it even further for herself. 
     
@@ -84,7 +84,7 @@
         - Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
         - Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
     
-    === "Asha - Discipline Skill (“Featured Stats”)"   
+    === "Asha - Discipline Skill (Featured Stats)"   
     
         - Standard Asha: HP and Poison Tolerance 
         - Witching Mage Asha: HP and Sleep Tolerance 
@@ -94,7 +94,8 @@
 	1. Adventure’s Guild > Training Room
 	2. Select the merged unit
 	3. Select “Change Style” at the bottom of the list
-	4. Select the style you would like to switch to and confirm
+	4. Select the preferred style
+	5. Confirm
 
 ??? note "Adventurers with Alternative Styles"  
 
@@ -115,14 +116,15 @@
 
 - Shared discipline levels between styles is one of the greatest benefits of the merging system.
 - This mechanic does not activate until both styles have been disciplined at least once to D1.
-- Consequently, it means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your pull strategy.
+- Consequently, it means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your resources and team composition.
 
 ??? warning "Mechanics" 
 
-	- Disciplining or merging can be done in any order 
-	- Merged units can reach a maximum discipline level of D18 (versus D9). Units do not gain additional stats past D9, but receive 1 BP from D10-D18. Each time you receive an additional BP you can reallocate _all_ of the BP again
-	- “Overall Mastery” in the Discipline menu determines how much experience you need to reach the next discipline level. Copies of either the standard or alt version can be used. However, standard copies cannot be used to discipline the alt version and vice-versa. You will need to change styles and then discipline with the correct copy
-	- The "Overall Discipline Level" in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses you receive
+	- Disciplining or merging can be done in any order. 
+	- Merged units can reach a maximum discipline level of D18 (versus D9) as the discipline levels of each style are added together. However, the D9 limit is still in effect for both styles. For example, you cannot reach D18 with a D16 standard style and a D2 alt style. 
+	- Units do not gain additional discipline stats past D9, but receive 1 BP from D10-D18. Each time you receive an additional BP you have the option to reallocate all of the unit's BP again. 
+	- Overall Mastery in the Discipline menu determines how much experience is needed to reach the next discipline level. Copies of either the standard or alt version can be used. However, standard copies cannot be used to discipline the alt version and vice-versa. You will need to change styles and then discipline with the correct copy.
+	- The Overall Discipline Level in the status menu is your effective (actual) discipline level (D1, D5, etc.) and determines what stat bonuses are received.
 
 ??? note "F2P Considerations"
 
@@ -135,12 +137,12 @@
 
 ## Merging Bonus Traits 
 
-- Bonus trait points are an additional benefit of the merging system and are generally capped at +6 for all traits. There have been a handful of documented outliers with +7 or +8 to a single trait. The value of the merging bonus comes from two sources: 
+- Bonus trait points are an additional benefit of the merging system and are generally capped at +6 for all traits. There have been a handful of documented outliers with +7 or +8 to a single trait, but they are extremely rare. The value of the merging bonus comes from two sources: 
 
 	- Trait points gained at each grade level, and
 	- Trait growth determined for each unit at creation 
 
-- Consequently, the trait bonuses shown in the merging screen depend on the grade of the units being merged and their hidden trait growth rates. 
+- Consequently, the trait bonuses shown in the merging screen are a function of the unit's grade and hidden trait growth rates.
 
 ??? note "Bonus Trait Examples" 
 
