@@ -208,6 +208,11 @@ extra text can be added between skills
 
         To sum it up Alice is an absurdly strong option for both priest and mage. And honestly? Our arguably best caster that is sometimes downplayed. She’s not only breaking game rules making some short duration buffs really strong but she’s also a great magic damage dealer thanks to being female-water-elf mage. While this game doesn’t have any “must have” characters Alice will definitely make your game way easier when you’ll invest into her. As for now we don’t have any better supportive option so go ahead and worship Agora and enjoy the easier mode of the game with the strongest caster next to Sheli.
 
+    === "Snow-Sleeved Maiden"
+
+        Seems like devs don’t hide who their favorite child is. Remember how Yekaterina's summer version passive had little impact because of not only physical DMG reduction (which is extremely rare against backrow) on herself with the extra condition that she needs to be in the back row? Welcome to Alice, with all DMG reduction without row conditions, for the whole row not just herself and… with some absurd values. I don’t want to throw out the exact numbers because of not understanding the whole formula… but it seems that in the end it's way more than 10%...
+
+        Either way her discipline is better than base one (MP+DIV), her new inheritance is… questionable. And very much easy to skip. That’s one of those rare cases where a disc brings more value than inheritance. Going to her passive which is usually either overkill or just a nice way to throw up your Yuzu and whichever evil dps in backrow on base version… the alternative brings damage reduction which is overall more useful. Unless you’re one of those leviathans going for Alice + Milana combo to oneshot GWO with Yuzu. So basically it’s way better passive for most of us regular folks who don’t swipe. Especially if you have some low HP mages in the backrow who die once in a year from random GWO attack. Of course she keeps her “balanced” bonus turns on passive which still makes her BiS priest. Especially now when she hits such absurd lvls of MP that with her random triggers she’s arguably better healing bot than Marianne for auto (just use Sheli for it really).
 
 ??? info "Karkarov's Analysis"
 
