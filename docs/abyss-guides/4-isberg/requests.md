@@ -449,11 +449,11 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
         === "Offering Requests"
         
-            - Request 1:  3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
-            - Request 2:  Hen - Return to town and speak with Tenet
-            - Request 3:  Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
-            - Request 4:  Infant (Lamb) - Return to town and speak with Tenet
-            - Request 5:  Sheep - Return to town and speak with Tenet
+            - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+            - Request 2 - Hen - Return to town and speak with Tenet
+            - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
+            - Request 4 - Infant (Lamb) - Return to town and speak with Tenet
+            - Request 5 - Sheep - Return to town and speak with Tenet
     
         === "Tenet Offerings" 
 
@@ -481,9 +481,9 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
         - Witness 0-3 witch burnings = Elencia Alive
         - Witness 4+ witch burnings = Elencia Dead
-        - The exact requirement for triggering a witch burning scene are unclear. Based on limited testing:
+        - Requirement for triggering a witch burning scene is unclear. Based on limited testing:
             - Number of battles and/or 
-            - Returning to town after giving an offering, but before accepting the next brazier request
+            - Returning to town after giving an offering, but _before_ accepting the next brazier request
 
 ??? note "Pontiff Ending Guides"
 
@@ -504,10 +504,11 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
             If you plan to do all 3 endings:
             
-            - Bad Ending - Elencia Dead as all 5 brazier offering requests are required on a first run. However, returning to town only for the brazier offerings results in 3 witch burnings = Elencia Alive. 
-            - An extra step is required. You must return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
+            - Bad Ending - Elencia Dead as all 5 brazier offering requests are required on a first run
+                - Returning to town only for the brazier offerings results in 3 witch burnings = Elencia Alive
+                - An extra step is required. You must return to town an additional time after giving the brazier 3 Rabbits or Living Blood to see a 4th witch burning = Elincia Dead 
             - Select the Sheep from Tenent in town for the other 2 endings (Good, Best)
-            - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight
+                - The Sheep immediately unlocks the witch's door, ensures 0 deaths, and Elencia will be alive after the boss fight
             
             If you only want the Guiding Light (Luck): 
             
@@ -518,14 +519,16 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         === "Walkthrough" 
         
             - First run: Must witness a 4th witch burning
-            - Subsequent runs: Do not speak with Tenet + witness a 4th witch burning 
-            <br>
+            - Subsequent runs: Do not speak with Tenet + witness a 4th witch burning
+            
             - Enter the Witch's Cave 
             - Complete all 5 brazier offering requests
-                - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight. This is not the outcome we want as Elencia must be dead. You must make an additional trip back to town to witness a 4th witch burning 
-                - Return to town after giving the brazier the 3 Rabbits or Living Blood
+                - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight
+                - This is not the outcome we want as Elencia must be dead. You must make an additional trip back to town to witness a 4th witch burning 
+                - Return to town after offering the 3 Rabbits or Living Blood and exploring the unlocked room; but, do _not_ accept the next brazier request
             - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in the B2F hallway
-            - Unlock the witch's room and defeat the boss 
+            - Offer the Sheep to the brazier and unlock the witch's room 
+            - Fight the Witch boss 
             - Elencia will be dead after the boss fight 
             - Exit 
             - Return to town 
@@ -537,8 +540,56 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - Achievement is shared with Admiral - Good Ending - Elencia Dead and can only be received once
 
         === "Boss: Witch"
-        
-            - Details to be added soon 
+
+            === "Mechanics" 
+
+                - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
+                - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that requires understanding the Witch's AI behavior. 
+    
+                - Witch 
+                    - HP: ~8,000
+                    - Opens with a non-turn action that applies Batilgref to the front row
+                    - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a Type (element) advantage is present
+                    - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
+                    - If she casts Katino (sleep), then she will use a MA- spell on that same row
+                    - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
+    
+                - Evil Eyes
+                    - HP: ~12,000 
+                    - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
+                    - Laser Eye attack hits an entire row for physical damage that can be evaded 
+                    - Single-target laser can hit any unit for physical damage 
+                    - Can Skill- or Spell- Bind a single target 
+                    - Can Petrify a single target 
+
+            === "Low-level Strategy" 
+
+                - Recommended units: 3 DPS, 2 Priests, 1 Knight
+                - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
+                - Use only single-target or row attacks on the Evil Eyes
+                - Fighters
+                    - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
+                    - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
+                - Priests
+                    - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with Madios
+                    - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear debuffs, especially Batilgref 
+                - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
+                - If you cannot kill her in 1 round, then: 
+                    - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
+                    - Cortu spell + Cortu scroll stack for additional spell damage mitigation
+                    - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
+
+            === "1-Round Kill Strategy" 
+
+                - Requirements
+                    - Level 70
+                    - +20 Silver/Ebon bows or 2H spears 
+                    - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
+                - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
+                - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
+                - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
+                - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
+                - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
 
     ??? note "Good Ending - Elencia Alive - "Tell the Truth""
     
