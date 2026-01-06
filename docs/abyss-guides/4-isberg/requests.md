@@ -139,7 +139,8 @@
 
         - Accept the request. If both prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment. 
         - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search.
-        - Running away more than twice results in request failure. Instead, let the Nullshadow kill your entire team. Upon reviving it will immediately despawn. Some blizzard zones have side areas of 1-2 normal tiles that can also trigger a despawn.
+        - Running away more than twice results in request failure. 
+        - Note: As of 1/5, Discord members have reported that if the Nullshadow kills you and you revive, then instead of despawning it will result in request failure. This is currently undergoing verification.
         - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎.  The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
         - Find the kitty once in each of the 3 blizzard zones. The first two times it will run away. On the third attempt you will be prompted to use the Dried Fish Fragment as bait and the request will be completed.
         - The kitty is now permanently located at the Guild. It can also see Lulu!
