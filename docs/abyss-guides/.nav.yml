@@ -22,8 +22,8 @@ nav:
   - "Abyss 4: Deepsnow Hinterlands - Isberg":
       - Maps: './4-isberg/maps.md'
       - Requests: './4-isberg/requests.md'
-      - Important Request / Greater Warped One: './4-isberg/important-request-gwo.md'
       - Faction Requests: './4-isberg/faction-requests.md'
+      - Important Requests (Greater Warped One): './4-isberg/important-request-gwo.md'
       - Wandering NPCs: './4-isberg/wandering-npcs.md'
   - Ancient Mausoleum: './ancient-mausoleum/maps.md'
   - Dens:
