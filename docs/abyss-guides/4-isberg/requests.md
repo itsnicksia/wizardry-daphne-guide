@@ -520,7 +520,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
             - First run: Must witness a 4th witch burning
             - Subsequent runs: Do not speak with Tenet + witness a 4th witch burning
-            
+            <br></br>
             - Enter the Witch's Cave 
             - Complete all 5 brazier offering requests
                 - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight
@@ -609,7 +609,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Return to town 
             - Ending sequence begins automatically 
             
-                - "Prepare yourself" (skips villager fight)
+                - "Prepare yourself" (Skips villager fight)
                 - "Tell the Truth"
                 
                 ??? warning "Rewards"
@@ -618,8 +618,56 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - 2 Junk (Sheep for 0 deaths, subsequent runs only)
 
         === "Boss: Witch"
-        
-            - Details to be added soon 
+
+            === "Mechanics" 
+
+                - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
+                - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that requires understanding the Witch's AI behavior. 
+    
+                - Witch 
+                    - HP: ~8,000
+                    - Opens with a non-turn action that applies Batilgref to the front row
+                    - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a Type (element) advantage is present
+                    - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
+                    - If she casts Katino (sleep), then she will use a MA- spell on that same row
+                    - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
+    
+                - Evil Eyes
+                    - HP: ~12,000 
+                    - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
+                    - Laser Eye attack hits an entire row for physical damage that can be evaded 
+                    - Single-target laser can hit any unit for physical damage 
+                    - Can Skill- or Spell- Bind a single target 
+                    - Can Petrify a single target 
+
+            === "Low-level Strategy" 
+
+                - Recommended units: 3 DPS, 2 Priests, 1 Knight
+                - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
+                - Use only single-target or row attacks on the Evil Eyes
+                - Fighters
+                    - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
+                    - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
+                - Priests
+                    - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with Madios
+                    - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear debuffs, especially Batilgref 
+                - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
+                - If you cannot kill her in 1 round, then: 
+                    - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
+                    - Cortu spell + Cortu scroll stack for additional spell damage mitigation
+                    - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
+
+            === "1-Round Kill Strategy" 
+
+                - Requirements
+                    - Level 70
+                    - +20 Silver/Ebon bows or 2H spears 
+                    - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
+                - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
+                - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
+                - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
+                - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
+                - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
     
     ??? tip "Best Ending - Elencia Alive - "Condemn the Witch"<span style="color: MediumOrchid">*</span>"
 
@@ -639,7 +687,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Return to town 
             - Ending sequence begins automatically 
             
-                - "Prepare yourself" (skips villager fight)
+                - "Prepare yourself" (Skips villager fight)
                 - "Condemn the Witch"
             
                 ??? warning "Rewards"
@@ -650,8 +698,56 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                     - Calm Wind Stun Guard<span style="color: MediumOrchid">*</span>
          
         === "Boss: Witch"
-        
-            - Details to be added soon 
+
+            === "Mechanics" 
+
+                - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
+                - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that requires understanding the Witch's AI behavior. 
+    
+                - Witch 
+                    - HP: ~8,000
+                    - Opens with a non-turn action that applies Batilgref to the front row
+                    - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a Type (element) advantage is present
+                    - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
+                    - If she casts Katino (sleep), then she will use a MA- spell on that same row
+                    - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
+    
+                - Evil Eyes
+                    - HP: ~12,000 
+                    - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
+                    - Laser Eye attack hits an entire row for physical damage that can be evaded 
+                    - Single-target laser can hit any unit for physical damage 
+                    - Can Skill- or Spell- Bind a single target 
+                    - Can Petrify a single target 
+
+            === "Low-level Strategy" 
+
+                - Recommended units: 3 DPS, 2 Priests, 1 Knight
+                - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
+                - Use only single-target or row attacks on the Evil Eyes
+                - Fighters
+                    - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
+                    - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
+                - Priests
+                    - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with Madios
+                    - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear debuffs, especially Batilgref 
+                - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
+                - If you cannot kill her in 1 round, then: 
+                    - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
+                    - Cortu spell + Cortu scroll stack for additional spell damage mitigation
+                    - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
+
+            === "1-Round Kill Strategy" 
+
+                - Requirements
+                    - Level 70
+                    - +20 Silver/Ebon bows or 2H spears 
+                    - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
+                - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
+                - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
+                - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
+                - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
+                - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
 
 ##### Admiral Route
 
@@ -763,8 +859,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Speak with Elinas and pick the Infant (Lamb) 
             - Enter the Witch's Cave 
                 - Head south and take the stairs down to B2F
-            - Go up and to the right to the large room with multiple doors and interact with the brazier
-            - Offer the Infant (Lamb) and explore the southeast room at the end of the path until Lulu comments 
+            - Go up and to the right to the large room with multiple doors and interact with the brazier. Offer the Infant (Lamb) and explore the southeast room at the end of the path until Lulu comments 
             - Return to the brazier and it will request the Gold Ore 
             - Go back upstairs to B1F  
             - Exit 
@@ -810,8 +905,56 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Fight 3:  3 Bigfoot Child (front); Bigfoot (back)
 
         === "Boss: Witch"
-        
-            - Details to be added soon 
+
+            === "Mechanics" 
+
+                - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
+                - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that requires understanding the Witch's AI behavior. 
+    
+                - Witch 
+                    - HP: ~8,000
+                    - Opens with a non-turn action that applies Batilgref to the front row
+                    - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a Type (element) advantage is present
+                    - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
+                    - If she casts Katino (sleep), then she will use a MA- spell on that same row
+                    - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
+    
+                - Evil Eyes
+                    - HP: ~12,000 
+                    - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
+                    - Laser Eye attack hits an entire row for physical damage that can be evaded 
+                    - Single-target laser can hit any unit for physical damage 
+                    - Can Skill- or Spell- Bind a single target 
+                    - Can Petrify a single target 
+
+            === "Low-level Strategy" 
+
+                - Recommended units: 3 DPS, 2 Priests, 1 Knight
+                - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
+                - Use only single-target or row attacks on the Evil Eyes
+                - Fighters
+                    - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
+                    - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
+                - Priests
+                    - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with Madios
+                    - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear debuffs, especially Batilgref 
+                - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
+                - If you cannot kill her in 1 round, then: 
+                    - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
+                    - Cortu spell + Cortu scroll stack for additional spell damage mitigation
+                    - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
+
+            === "1-Round Kill Strategy" 
+
+                - Requirements
+                    - Level 70
+                    - +20 Silver/Ebon bows or 2H spears 
+                    - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
+                - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
+                - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
+                - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
+                - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
+                - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
     
     ??? tip "Best Ending - Elencia Alive"
 
@@ -819,7 +962,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
             - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
             - Subsequent runs - Pick the Broom from Elencia in town
-            <br>
+            <br></br>
             - Select "Capture a witch" or "Threaten" it does not matter 
             - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
             - Enter the Witch's Cave 
@@ -860,8 +1003,56 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Fight 3:  3 Bigfoot Child (front); Bigfoot (back)
 
         === "Boss: Witch"
-        
-            - Details to be added soon 
+
+            === "Mechanics" 
+
+                - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
+                - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that requires understanding the Witch's AI behavior. 
+    
+                - Witch 
+                    - HP: ~8,000
+                    - Opens with a non-turn action that applies Batilgref to the front row
+                    - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a Type (element) advantage is present
+                    - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
+                    - If she casts Katino (sleep), then she will use a MA- spell on that same row
+                    - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
+    
+                - Evil Eyes
+                    - HP: ~12,000 
+                    - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
+                    - Laser Eye attack hits an entire row for physical damage that can be evaded 
+                    - Single-target laser can hit any unit for physical damage 
+                    - Can Skill- or Spell- Bind a single target 
+                    - Can Petrify a single target 
+
+            === "Low-level Strategy" 
+
+                - Recommended units: 3 DPS, 2 Priests, 1 Knight
+                - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
+                - Use only single-target or row attacks on the Evil Eyes
+                - Fighters
+                    - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
+                    - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
+                - Priests
+                    - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with Madios
+                    - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear debuffs, especially Batilgref 
+                - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
+                - If you cannot kill her in 1 round, then: 
+                    - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
+                    - Cortu spell + Cortu scroll stack for additional spell damage mitigation
+                    - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
+
+            === "1-Round Kill Strategy" 
+
+                - Requirements
+                    - Level 70
+                    - +20 Silver/Ebon bows or 2H spears 
+                    - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
+                - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
+                - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
+                - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
+                - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
+                - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
 
 ## Minor Harken Beyond the Blizzard
 
