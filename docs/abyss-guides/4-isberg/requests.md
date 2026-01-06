@@ -2,6 +2,7 @@
 
 !!! warning "Work In Progress"
     - Ctrl + F5 to refresh the page for new updates
+    - Faction requests (Witch Hunt in Elden Hill Village and Search for the Missing Persons) have been moved to a [new](./faction-requests.md) page 
 
 ## Snowy Forest Minor Harken
 
