@@ -87,15 +87,18 @@
 
 * Was not found
 * Body was found and brought back
+* Body was found but it was someone else
 
 ### Search for the Church Adherent's Wife
 
 * Was not found
 * Stonefolk was found and reunited with her husband
+* Body was found but it was someone else
 
 ### Search for the Sea Freighter Agent's Son
 
 * Was not found
 * Body was found and brought back
+* Body was found but it was someone else
 
 ## Truth of the Beautiful Ore 
