@@ -351,11 +351,12 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
                     ??? warning "Ending Choices"
                     
-                        ??? note "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
+                        ??? tip "Sub-Ending A: "Tell the Truth"<span style="color: MediumOrchid">*</span>"
                         
                             !!! warning "Rewards"
                                 - Achievement: One Who Carries the Future of Her Land
                                 - 11,000 Gold 
+                                - The game considers this ending the "best" one for purposes of getting the Guiding Light (Luck)
                 
                         ??? note "Sub-Ending B: "Do Not Tell the Truth""
                             - The threaten Rosa options do not seem to have any impact on the ending
@@ -1026,7 +1027,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
     14. Bring the head back to the Royal Capital and complete the request.
-    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot (Attack Power) as a bondmate.
+    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot, the Lamenting Broth (Attack Power) as a bondmate.
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
@@ -1058,10 +1059,17 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Optional: Return to town via the shortcut or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
     11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
     12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder by themselves. After taking a certain amount of damage, they will begin self-buffing. Each buff lasts 10 turns, and can knock previous buffs off (3 buff limit). Alternatively, you can dissipate the buffs yourself.
-    13. Look into the pile of poop in the next room. Indicate that the person isn't in here. Reverse the nullstone and type "Noah" into the prompt.
-    14. Head back to the Royal Capital to turn in the request. Sir William will leave for the nullstone. 
-    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, and a Giant Beast Ape Robe.
-    16. Head back to the end of the Bigfoot Cave and interact with the husband and the nullstone to learn the truth about Agnes's fate. After the cutscene you will receive William (Divine Power) as a bondmate.
+    13. This is the point where the endings diverge. 
+    14. Look into the pile of poop in the next room. 
+        - Selecting "Agnes is not here" leads to the "best" ending where you receive the bondmate
+        - Selecting any head leads to the default ending
+    15. If you selected:
+        - "Agnes is not here", then go to the nullstone, reverse it, and type "Noah" into the prompt and then exit
+        -  Any of the heads, then exit 
+        - Using a Hook of Harken seems to be bugged, so it is strongly suggested that you manually walk to the exit 
+    16. Head back to the Royal Capital to turn in the request. Sir William will leave for the nullstone. 
+    17. Reward - Gem of Org x50 (one-time only), 30,000 Gold, and a Giant Beast Ape Robe.
+    18. If you selected "Agnes is not here" and did NOT bring back a head, then return to the nullstone in the Bigfoot Cave for a scene to learn the truth about Agnes's fate. After the cutscene you will receive William, the Remorseful Husband (Divine Power) as a bondmate.
 
 ??? note "Admiral Route - Search Bernard and Young Laurent"
 
@@ -1070,16 +1078,32 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Dragonflies and collect the faction-related insignia on the floor.
     4. Head to Route 4's Harken and walk to (X:16, Y:14). The father's body will be there.
     5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
-    6. Head back to Route 3 and look for Wax Tablets in this order: (X:6, Y:17), (X:2,Y:2).
-    7. Head to Route 2 from Route 3 and find a tablet at: (X:21, Y:19)
-    8. Head to Route 7 from Route 6's Harken and find two more tablets in this order: (X:13, Y:23), (X:16, Y:22)
-    9. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: (X:19, Y:7), (X:18, Y:19)
-    10. Head from Route 7 to Route 9 via the left exit and head to the tablet at: (X:1, Y:7)
-    11. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: (X:25, Y:4), (X:4, Y:3), (X:2,Y:15), (X:3, Y:24), (X:1, Y:24)
-    12. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
+    6. Harken to Route 2 and enter Route 3, then look for Wax Tablets in this order: 
+        - (X:6, Y:17) - Located behind the 2nd house by the entrance
+        - (X:2,Y:2) - Located a few steps from the Route 3 entrance
+    7. Return to Route 2 and find a tablet at: 
+        - (X:21, Y:19) - Few steps southwest of the reversal tree stump
+    8. Head to Route 7 from Route 6's Harken and find two more tablets in this order: 
+        - (X:13, Y:23) - Central 3x3 room 
+        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+    9. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: 
+        - (X:19, Y:7) - Northwest of Route 8 stairs 
+        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end  
+    10. From the Route 7 Harken go left and exit to Route 9. Find the tablet at:
+        - (X:1, Y:7) - Upper left-hand side of the first house in the grass 
+    11. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: 
+        - (X:25, Y:4) - Few steps north of Route 10 entrance 
+        - (X:20, Y:6) - Tile left of the first Stone God altar
+        - (X:4, Y:3) - On the bridge to the far left house
+        - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+        - (X:2, Y:15) - First tile in the northwest blizzard zone 
+        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+        - (X:1, Y:24) - Check the nullstone 
+    12. Reverse the nullstone and head into the Bigfoot Cave. LULU text with pool of blood. You will need to make your way to the very last room on the bottom right.
     13. There will be a Bigfoot boss blocking your way. The fight has a normal Bigfoot in the front row and the Elder Bigfoot in the backrow. Upon taking enough damage, the Elder Bigfoot will summon another Bigfoot. He can do this multiple times.
     14. Look into the pile of poop in the next room. Dig deeper into the poo 3 times, in which you'll find the actual body of the son.
-    15. Head back to the Royal Capital to deliver the dead body. Complete the request and receive some gold, some unique equipment, and a bondmate.
+    15. Head back to the Royal Capital to deliver the dead body. 
+    16. Complete the request and receive Gem of Org x50 (one-time only), 20,000 gold, Giant Beast Ape Light Armor, and Bernard, Father Restored to Life (MAG Power) as a bondmate.
 
 ## Being That Dwells in the Home of God
 
