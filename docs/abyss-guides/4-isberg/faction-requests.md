@@ -363,7 +363,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
             - First run: Must witness a 4th witch burning
             - Subsequent runs: Do not speak with Tenet + witness a 4th witch burning
-            <br>
+            <br></br>
             - Enter the Witch's Cave 
             - Complete all 5 brazier offering requests
                 - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight
@@ -440,7 +440,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
             - First run: Default ending if returning to town only for the offering requests (3 witch burnings)
             - Subsequent runs: Talk to Tenet in town and select the Sheep (0 witch burnings) 
-            <br>
+            <br></br>
             - Enter the Witch's Cave
             - Complete all 5 brazier offering requests
             - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
@@ -519,7 +519,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
             - First run: Default ending if returning to town only for the offering requests (3 witch burnings)
             - Subsequent runs: Talk to Tenet in town and select the Sheep (0 witch burnings) 
-            <br>
+            <br></br>
             - Enter the Witch's Cave
             - Complete all 5 brazier offering requests
             - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
@@ -807,7 +807,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
             - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
             - Subsequent runs - Pick the Broom from Elencia in town
-            <br>
+            <br></br>
             - Select "Capture a witch" or "Threaten" it does not matter 
             - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
             - Enter the Witch's Cave 
