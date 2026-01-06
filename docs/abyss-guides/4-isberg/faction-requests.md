@@ -42,6 +42,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
+        - Note: The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story 
     
 ??? tip "Guiding Lights"
 
