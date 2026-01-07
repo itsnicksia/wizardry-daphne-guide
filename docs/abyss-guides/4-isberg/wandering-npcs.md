@@ -6,7 +6,7 @@ There are a number of characters that wander the Abyss who you may encounter.  T
 Work in progress.  [Contributions welcome](../../index.md#contributing).
 
 ## Bone Picker Goblin
-"I really don't want to know what Morgus, God of Death, smells like."  
+I really don't want to know what Morgus, God of Death, smells like.  
 ![](./img/a4-bone-picker-goblin.jpg)  
 ??? note "Details"  
     - Location: 
