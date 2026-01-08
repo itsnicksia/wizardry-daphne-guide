@@ -968,16 +968,16 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - In Route 3 head north to the two locked houses on the bottom-left side of the map. The top house contains faction-related clothing and a body part. The left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
         - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house and find the body of the first missing Royal Knight.
         - Return to the Royal Capital, enter the Guild, and hand over the body for revival. 
-        - The Royal Knight, Elliot, will be revived and share that his brother, Philip, likely left wax tablets ("tablets") as clues for him to follow in case they were ever separated.
+        - The Royal Knight, Elliot, will be revived and share that his brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
         - Note: If the body was too damaged to revive, then check your Village Adults toggle and make sure it is set to "Did not encounter them". 
 
     === "Finding Philip's Body"
 
-        - The second half of the request involves searching Routes 4, 7, 9, and 10 for multiple tablets. They appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
+        - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). They appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
 
         ??? note "Route 3"
         
-            - Head back to Route 3 and find the tablets in this order: 
+            - Head to Route 3 and find the tablets in this order: 
                 - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
                 - (X:26, Y:24) - Few steps southeast of Route 4 entrance
 
@@ -990,8 +990,6 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - (X:19, Y:7) - Northwest of Route 8 stairs
                 - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
                 - (X:15, Y:24) - Few steps south of the Harken
-            - Return to the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
-                - (X:1, Y:7) - Upper left-hand side of the first house in the grass
 
         ??? note "Route 9"
         
