@@ -918,7 +918,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     ??? warning "Best Ending Requirements"
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
-        - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional) 
+        - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
         - Cursed Wheel - Short Rest in the Cabin
             - North Lakeshore Cabin - "Fixed it up"
             - Dwarves' Cave - Any
@@ -943,9 +943,9 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Location of the second missing person for all 3 faction requests
         - Requires knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Map completion resets upon Cursed Wheeling
-        - Mandatory Bigfoot boss fight
+        - Mandatory Bigfoot boss fight that has a slightly different gimmick depending on the faction selected, strongly recommend bringing a Knight with All-Around Cover (level 67) 
         - Not a mob dense area during the request with few fights on the path to the boss's room 
-        - Primary danger is being Chilled or Frozen before reaching the boss
+        - Primary danger is being chilled or frozen before reaching the boss
         - Enemy level is 70
         - Enemies: Bigfoot, Bigfoot Child, Ice Cloud, Snow Slime, Abyssal Insects, Ice and Earth Entities
     
@@ -959,36 +959,80 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 ??? note "Princess Route - Search for Missing Royal Knights"
 
-    1. Head back to Isberg, talk to the Old Lady NPC in town, and pay 300G. Head to the Inn, talk to the Innkeeper and pay 300G.
-    2. Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid a long walk through the spike traps, return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
-    3. Head to the two locked houses on the bottom-left side of the map. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
-    4. Head to the house at the bottom middle of Route 3 (where Mike, one of the village adults, was killed by goblins). Enter the house and find the body of one of the Royal Knights.
-    5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets ("tablets") as clues.
-    6. Head back to Route 3 and find the tablets in this order: 
-        - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
-        - (X:26, Y:24) - Few steps southeast of Route 4 entrance
-    7. Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-        - (X:13, Y:23) - Central 3x3 room 
-        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-    8. Exit back to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you can walk directly to the tablets. Find the tablets in this order: 
-        - (X:19, Y:7) - Northwest of Route 8 stairs
-        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-        - (X:15, Y:24) - Few steps south of the Harken
-    9. From the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
-        - (X:1, Y:7) - Upper left-hand side of the first house in the grass
-    10. Return to the Route 7 Harken and select Route 9. From the Route 9 Harken go to Route 10. Find the tablets in this order: 
-        - (X:25, Y:4) - Few steps north of Route 10 entrance 
-        - (X:20, Y:6) - Tile left of the first Stone God altar
-        - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-        - (X:2, Y:15) - First tile in the northwest blizzard zone 
-        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-        - (X:1, Y:24) - Check the nullstone 
-        - Optional: Return to town via the shortcut or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
-    11. Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
-    12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
-    13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
-    14. Bring the head back to the Royal Capital and complete the request.
-    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot, the Lamenting Brother (Attack Power) as a bondmate.
+    === "Finding the 1st Body"
+    
+            !!! warning "Make sure you accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved."
+        
+        - Return to Isberg, talk to the Old Lady NPC, and pay her 300 Gold. Next, go to the Inn, talk to the Innkeeper, and pay 300 Gold.
+        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and then re-enter Route 3.
+        - Head north to the two locked houses on the bottom-left side of the map. The top house contains faction-related clothing and a body part. The left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
+        - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house and find the body of the first missing Royal Knight.
+        - Return to the Royal Capital, enter the Guild, and turn in the body for revival. The Royal Knight, Elliot, will be revived and share that his brother, Philip, likely left wax tablets ("tablets") as clues for him to follow in case they were ever separated.
+
+    === "Finding the 2nd Body"
+
+        - The second half of the request involves searching Routes 4, 7, 9, and 10 for multiple tablets. They appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
+        <br></br>
+        - Head back to Route 3 and find the tablets in this order: 
+            - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
+            - (X:26, Y:24) - Few steps southeast of Route 4 entrance
+        - Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+            - (X:13, Y:23) - Central 3x3 room 
+            - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+        - Return to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you can walk directly to the tablets. Find the tablets in this order: 
+            - (X:19, Y:7) - Northwest of Route 8 stairs
+            - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+            - (X:15, Y:24) - Few steps south of the Harken
+        - Return to the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
+            - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+        - Return to the Route 7 Harken and select Route 9. From the Route 9 Harken go to Route 10. Find the tablets in this order: 
+            - (X:25, Y:4) - Few steps north of Route 10 entrance 
+            - (X:20, Y:6) - Tile left of the first Stone God altar
+            - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+            - (X:2, Y:15) - First tile in the northwest blizzard zone 
+            - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+            - (X:1, Y:24) - Check the nullstone 
+            - Optional: Return to town via the shortcut or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
+        - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
+        - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
+        - Bigfoot Boss 
+            - The fight has a Bigfoot with 1 Bigfoot Child in the front, and 2 Bigfoot Child in the back. 
+            - All of the Bigfoot Child can move twice a turn and will normally throw snowballs, which can freeze your units after 2 hits. A Knight will All-Around Cover can intercept the snowballs even while stunned. It makes the fight significantly easier.  
+            - After the Bigfoot takes a certain amount of damage, he will Pound Chest and resummon any dead Bigfoot Child. If any Bigfoot Child are revived in this manner, they will immediately throw a snowball at a random unit. 
+            - From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first. If the fight takes too long, then the Bigfoot will summon 1-2 additional Bigfoot at roughly 10-15% HP, so it is in your best interest to burst him down before this happens.
+        - Examine the pile of poop in the next room. The second person you are looking for has red hair.
+        - Exit the cave and bring the head back to the Royal Capital and complete the request.
+
+        !!! warning "Rewards"
+
+            - Achievement: A Brother to be Proud Of 
+            - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+            - Gem of Org x50 (one-time only)
+            - 30,000 Gold
+            - Giant Beast Ape Heavy Armor (one-time only?), and Elliot, the Lamenting Brother (Attack Power) as a bondmate.
+
+    === "Farming"
+
+        - The search for the 1st body can be completely skipped
+        - Under Search for the Royal Knight select "The older brother's body was resurrected"
+        - After wheeling you can check to see that the request is still active and you can begin collecting tablets on Route 3 immediately 
+
+    === "Cursed Wheel Nodes"
+    
+        - Upon accepting the request you will gain a new sub-node called Search for the Royal Knights. There are 4 toggles:  
+            - Did not take the request
+                - Decline the request when you first enter the Royal Capital 
+                - Note that it will not be offered again without resetting
+            - Ended the search without finding them 
+                - Accept the request
+                - Step foot into Route 10
+            - Brought back a body that could not be revived 
+                - Select Village Adults - Secured all of them
+                - Retrieve the Royal Knight's body in Mike's house in Route 3
+                - Spike traps should be gone
+            - The older brother's body was resurrected 
+
+
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
