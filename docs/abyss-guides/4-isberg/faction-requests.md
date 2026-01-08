@@ -961,8 +961,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "Finding Elliot's Body"
     
-            !!! warning "Make sure you accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved."
-        
+        - Before you begin make sure you accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved."
         - Return to Isberg, talk to the Old Lady NPC, and pay her 300 Gold. Next, go to the Inn, talk to the Innkeeper, and pay 300 Gold.
         - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. 
         - To avoid the spike traps return to the Harken, select Route 2, and then re-enter Route 3.
@@ -1020,7 +1019,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "Cursed Wheel Nodes"
     
-        - Upon accepting the request you will gain a new sub-node called Search for the Royal Knights. There are 4 toggles:  
+        - Upon accepting the request you will gain a new sub-node (Search for the Royal Knights) under Short Rest in the Cabin. There are 4 toggles:
             - Did not take the request
                 - Decline the request when you first enter the Royal Capital 
                 - Note that it will not be offered again without resetting
@@ -1032,8 +1031,14 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - Retrieve the Royal Knight's body in Mike's house in Route 3
                 - Spike traps should be gone
             - The older brother's body was resurrected 
-
-
+        <br></br>
+        - Upon reviving Elliot you will gain a new sub-node (Search for the Royal Knight's Brother) under Being That Dwells in the House of God. There are 3 toggles:
+            - Was not found 
+                - Step foot into Route 11 
+            - Body was found and brought back 
+                - Select the red-haired head from the Bigfoot poo pile
+            - Body was found but it was someone else
+                - Select any of the incorrect heads from the Bigfoot poo pile
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
