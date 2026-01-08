@@ -299,7 +299,6 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 ## List of Relic Power Effects 
 
-!!! warning "We are currently working on adding Abyss 4 Relic Powers."
 !!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may or may not have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium Number |
