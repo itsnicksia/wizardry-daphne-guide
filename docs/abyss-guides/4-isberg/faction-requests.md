@@ -806,7 +806,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         === "Walkthrough" 
 
             - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
-            - Subsequent runs - Pick the Broom from Elencia in town
+            - Subsequent runs - Pick the Broom from Elinas in town
             <br></br>
             - Select "Capture a witch" or "Threaten" it does not matter 
             - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
