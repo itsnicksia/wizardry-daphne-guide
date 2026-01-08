@@ -65,6 +65,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Any Best ending
         - All 3 Best endings (Note: This is likely the the intended condition)
         - Clear the 4th GWO fight + do each Best Ending until it appears
+        - The Gamerch editors think that is achievement-based with a mix of Good and Best endings
 
     === "Confirmed"
     
@@ -598,6 +599,14 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 - The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village.
 - To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
+
+??? warning "Notes on 1/8 Patch"
+
+    - The 1/8 patch has added witch burning scenes like in the Pontiff route, which are trigged when exiting the Witch's Cave or resting at the Inn 
+    - It is no longer possible to enter the Witch's Cave without first speaking with Cleric Ludwin and agreeing to help 
+    - Verified that the number of offerings still lead to the outcomes listed in the ending guides
+    - Currently being tested: 
+        - If the number of witch burnings witnessed has any impact on the endings or rewards
 
 ??? warning "Mechanics"
 
