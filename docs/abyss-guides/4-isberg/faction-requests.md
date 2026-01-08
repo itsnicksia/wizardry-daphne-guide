@@ -959,8 +959,8 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 ??? note "Princess Route - Search for Missing Royal Knights"
 
-    1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-    2. Head to Mayor's House in Route 3 and obtain a faction-related Helmet and the Rockhome Village Key. To avoid a long walk through the spike traps, return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
+    1. Head back to Isberg, talk to the Old Lady NPC in town, and pay 300G. Head to the Inn, talk to the Innkeeper and pay 300G.
+    2. Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid a long walk through the spike traps, return to the Harken and select Route 2. From the Route 2 Harken re-enter Route 3.
     3. Head to the two locked houses on the bottom-left side of the map. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
     4. Head to the house at the bottom middle of Route 3 (where Mike, one of the village adults, was killed by goblins). Enter the house and find the body of one of the Royal Knights.
     5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets ("tablets") as clues.
@@ -988,7 +988,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     12. There will be a Bigfoot boss blocking your way. The fight has the Bigfoot Elder with 1 Baby Bigfoot in the front, and 2 Baby Bigfoot in the back. All of the babies can move twice a turn. After the Bigfoot Elder takes a certain amount of damage, he will Pound Chest and resummon any dead Baby Bigfoot. If any Baby Bigfoot are revived in this manner, they will immediately throw a snowball at a random teammate. From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first before all the babies.
     13. Look into the pile of poop in the next room. The second person you're looking for has red hair.
     14. Bring the head back to the Royal Capital and complete the request.
-    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot, the Lamenting Broth (Attack Power) as a bondmate.
+    15. Reward - Gem of Org x50 (one-time only), 30,000 Gold, Giant Beast Ape Heavy Armor, and Elliot, the Lamenting Brother (Attack Power) as a bondmate.
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
@@ -1035,24 +1035,24 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 ??? note "Admiral Route - Search Bernard and Young Laurent"
 
     1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-    2. Head to Mayor's House in Route 3 and obtain a faction-related sword + a key.
+    2. Head to Mayor's House in Route 3 and obtain a faction-related sword and the Rockhome Village Key.
     3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Dragonflies and collect the faction-related insignia on the floor.
     4. Head to Route 4's Harken and walk to (X:16, Y:14). The father's body will be there.
-    5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves wax tablets as clues.
-    6. Harken to Route 2 and enter Route 3, then look for Wax Tablets in this order: 
+    5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves Wax Tablets ("tablets") as clues.
+    6. Harken to Route 2 and enter Route 3, then look for the tablets in this order: 
         - (X:6, Y:17) - Located behind the 2nd house by the entrance
         - (X:2,Y:2) - Located a few steps from the Route 3 entrance
     7. Return to Route 2 and find a tablet at: 
         - (X:21, Y:19) - Few steps southwest of the reversal tree stump
-    8. Head to Route 7 from Route 6's Harken and find two more tablets in this order: 
+    8. Harken to Route 6 and enter Route 7. Find two more tablets in this order: 
         - (X:13, Y:23) - Central 3x3 room 
         - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-    9. Head out to Route 6 Harken and head to Route 7 Harken or, if you have mined the coal walls, walk directly to the tablets in this order: 
+    9. Return to Route 6's Harken and go to Route 7. Note: If you have mined the coal walls, then you can head directly to the tablets in this order: 
         - (X:19, Y:7) - Northwest of Route 8 stairs 
         - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end  
-    10. From the Route 7 Harken go left and exit to Route 9. Find the tablet at:
+    10. From the Route 7 Harken go left and exit to Route 9. Find a tablet at:
         - (X:1, Y:7) - Upper left-hand side of the first house in the grass 
-    11. Head back to Route 7 Harken and Harken to Route 9 Harken, then head to Route 10. Find tablets in this order: 
+    11. Return to the Route 7 Harken, jump to Route 9, and then head south to Route 10. Find tablets in this order: 
         - (X:25, Y:4) - Few steps north of Route 10 entrance 
         - (X:20, Y:6) - Tile left of the first Stone God altar
         - (X:4, Y:3) - On the bridge to the far left house
@@ -1060,7 +1060,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - (X:2, Y:15) - First tile in the northwest blizzard zone 
         - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
         - (X:1, Y:24) - Check the nullstone 
-    12. Reverse the nullstone and head into the Bigfoot Cave. LULU text with pool of blood. You will need to make your way to the very last room on the bottom right.
+    12. Reverse the nullstone and head into the Bigfoot Cave. If you have collected all the necessary tablets you should receive Lulu commentary when you step on the pool of blood by the entrance. You will need to make your way to the very last room on the bottom right.
     13. There will be a Bigfoot boss blocking your way. The fight has a normal Bigfoot in the front row and the Elder Bigfoot in the backrow. Upon taking enough damage, the Elder Bigfoot will summon another Bigfoot. He can do this multiple times.
     14. Look into the pile of poop in the next room. Dig deeper into the poo 3 times, in which you'll find the actual body of the son.
     15. Head back to the Royal Capital to deliver the dead body. 
