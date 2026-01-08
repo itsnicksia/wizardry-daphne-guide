@@ -959,17 +959,19 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 ??? note "Princess Route - Search for Missing Royal Knights"
 
-    === "Finding the 1st Body"
+    === "Finding Elliot's Body"
     
-            !!! warning "Make sure you accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved."
+        !!! warning "Make sure you accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved."
         
         - Return to Isberg, talk to the Old Lady NPC, and pay her 300 Gold. Next, go to the Inn, talk to the Innkeeper, and pay 300 Gold.
-        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and then re-enter Route 3.
-        - Head north to the two locked houses on the bottom-left side of the map. The top house contains faction-related clothing and a body part. The left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
+        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. 
+        - To avoid the spike traps return to the Harken, select Route 2, and then re-enter Route 3.
+        - In Route 3 head north to the two locked houses on the bottom-left side of the map. The top house contains faction-related clothing and a body part. The left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
         - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house and find the body of the first missing Royal Knight.
-        - Return to the Royal Capital, enter the Guild, and turn in the body for revival. The Royal Knight, Elliot, will be revived and share that his brother, Philip, likely left wax tablets ("tablets") as clues for him to follow in case they were ever separated.
+        - Return to the Royal Capital, enter the Guild, and turn in the body for revival. 
+        - The Royal Knight, Elliot, will be revived and share that his brother, Philip, likely left wax tablets ("tablets") as clues for him to follow in case they were ever separated.
 
-    === "Finding the 2nd Body"
+    === "Finding Philip's Body"
 
         - The second half of the request involves searching Routes 4, 7, 9, and 10 for multiple tablets. They appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
         <br></br>
@@ -1003,17 +1005,17 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Examine the pile of poop in the next room. The second person you are looking for has red hair.
         - Exit the cave and bring the head back to the Royal Capital and complete the request.
 
-        !!! warning "Rewards"
-
-            - Achievement: A Brother to be Proud Of 
-            - Bondmate: Elliot, the Lamenting Brother (Attack Power)
-            - Gem of Org x50 (one-time only)
-            - 30,000 Gold
-            - Giant Beast Ape Heavy Armor (one-time only?), and Elliot, the Lamenting Brother (Attack Power) as a bondmate.
+            ??? warning "Rewards"
+    
+                - Achievement: A Brother to be Proud Of 
+                - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+                - Gem of Org x50 (one-time only)
+                - 30,000 Gold
+                - Giant Beast Ape Heavy Armor (one-time only?)
 
     === "Farming"
 
-        - The search for the 1st body can be completely skipped
+        - The search for Elliot's body can be completely skipped
         - Under Search for the Royal Knight select "The older brother's body was resurrected"
         - After wheeling you can check to see that the request is still active and you can begin collecting tablets on Route 3 immediately 
 
