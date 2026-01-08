@@ -961,7 +961,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "Finding Elliot's Body"
     
-        !!! warning "Make sure you accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved."
+            !!! warning "Make sure you accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved."
         
         - Return to Isberg, talk to the Old Lady NPC, and pay her 300 Gold. Next, go to the Inn, talk to the Innkeeper, and pay 300 Gold.
         - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. 
@@ -974,7 +974,6 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     === "Finding Philip's Body"
 
         - The second half of the request involves searching Routes 4, 7, 9, and 10 for multiple tablets. They appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
-        <br></br>
         - Head back to Route 3 and find the tablets in this order: 
             - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
             - (X:26, Y:24) - Few steps southeast of Route 4 entrance
