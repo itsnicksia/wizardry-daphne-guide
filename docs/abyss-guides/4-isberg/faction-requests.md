@@ -977,54 +977,54 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
         ??? note "Route 3"
         
-                - Head back to Route 3 and find the tablets in this order: 
-                    - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
-                    - (X:26, Y:24) - Few steps southeast of Route 4 entrance
+            - Head back to Route 3 and find the tablets in this order: 
+                - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
+                - (X:26, Y:24) - Few steps southeast of Route 4 entrance
 
         ??? note "Route 7"
         
-                - Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-                    - (X:13, Y:23) - Central 3x3 room 
-                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-                - Return to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you can walk directly to the tablets. Find the tablets in this order: 
-                    - (X:19, Y:7) - Northwest of Route 8 stairs
-                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                    - (X:15, Y:24) - Few steps south of the Harken
-                - Return to the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
-                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+            - Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                - (X:13, Y:23) - Central 3x3 room 
+                - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+            - Return to the Route 6 Harken and select Route 7. If you have the shortcut ability and mined the coal walls, then you can walk directly to the tablets. Find the tablets in this order: 
+                - (X:19, Y:7) - Northwest of Route 8 stairs
+                - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                - (X:15, Y:24) - Few steps south of the Harken
+            - Return to the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
+                - (X:1, Y:7) - Upper left-hand side of the first house in the grass
 
         ??? note "Route 9"
         
-                - Return to the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
-                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+            - Return to the Route 7 Harken go left and exit to Route 9. Find the tablet at: 
+                - (X:1, Y:7) - Upper left-hand side of the first house in the grass
 
         ??? note "Route 10"
         
-                - Return to the Route 7 Harken and select Route 9. From the Route 9 Harken go to Route 10. Find the tablets in this order: 
-                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
-                    - (X:20, Y:6) - Tile left of the first Stone God altar
-                    - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
-                    - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                    - (X:1, Y:24) - Check the nullstone 
-                    - Optional: Return to town via the shortcut or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
-                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
-                - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
-                - Bigfoot Boss 
-                    - The fight has a Bigfoot with 1 Bigfoot Child in the front, and 2 Bigfoot Child in the back. 
-                    - All of the Bigfoot Child can move twice a turn and will normally throw snowballs, which can freeze your units after 2 hits. A Knight will All-Around Cover can intercept the snowballs even while stunned. It makes the fight significantly easier.  
-                    - After the Bigfoot takes a certain amount of damage, he will Pound Chest and resummon any dead Bigfoot Child. If any Bigfoot Child are revived in this manner, they will immediately throw a snowball at a random unit. 
-                    - From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first. If the fight takes too long, then the Bigfoot will summon 1-2 additional Bigfoot at roughly 10-15% HP, so it is in your best interest to burst him down before this happens.
-                - Examine the pile of poop in the next room. The second person you are looking for has red hair.
-                - Exit the cave and bring the head back to the Royal Capital and complete the request.
-
-            ??? warning "Rewards"
+            - Return to the Route 7 Harken and select Route 9. From the Route 9 Harken go to Route 10. Find the tablets in this order: 
+                - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                - (X:20, Y:6) - Tile left of the first Stone God altar
+                - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+                - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+                - (X:1, Y:24) - Check the nullstone 
+                - Optional: Return to town via the shortcut or use the Route 10 Fountain to recover your team's health for the upcoming boss fight.
+            - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
+            - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
+            - Bigfoot Boss 
+                - The fight has a Bigfoot with 1 Bigfoot Child in the front, and 2 Bigfoot Child in the back. 
+                - All of the Bigfoot Child can move twice a turn and will normally throw snowballs, which can freeze your units after 2 hits. A Knight will All-Around Cover can intercept the snowballs even while stunned. It makes the fight significantly easier.  
+                - After the Bigfoot takes a certain amount of damage, he will Pound Chest and resummon any dead Bigfoot Child. If any Bigfoot Child are revived in this manner, they will immediately throw a snowball at a random unit. 
+                - From this point on, the Bigfoot Elder will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first. If the fight takes too long, then the Bigfoot will summon 1-2 additional Bigfoot at roughly 10-15% HP, so it is in your best interest to burst him down before this happens.
+            - Examine the pile of poop in the next room. The second person you are looking for has red hair.
+            - Exit the cave and bring the head back to the Royal Capital and complete the request.
     
-                - Achievement: A Brother to be Proud Of 
-                - Bondmate: Elliot, the Lamenting Brother (Attack Power)
-                - Gem of Org x50 (one-time only)
-                - 30,000 Gold
-                - Giant Beast Ape Heavy Armor (one-time only?)
+        ??? warning "Rewards"
+    
+            - Achievement: A Brother to be Proud Of 
+            - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+            - Gem of Org x50 (one-time only)
+            - 30,000 Gold
+            - Giant Beast Ape Heavy Armor (one-time only?)
 
     === "Farming"
 
@@ -1033,27 +1033,32 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - After wheeling you can check to see that the request is still active and you can begin collecting tablets on Route 3 immediately 
 
     === "Cursed Wheel Nodes"
+
+        ??? note "Search for the Royal Knights"
+
     
-        - Upon accepting the request you will gain a new sub-node (Search for the Royal Knights) under Short Rest in the Cabin. There are 4 toggles:
-            - Did not take the request
-                - Decline the request when you first enter the Royal Capital 
-                - Note that it will not be offered again without resetting
-            - Ended the search without finding them 
-                - Accept the request
-                - Step foot into Route 10
-            - Brought back a body that could not be revived 
-                - Select Village Adults - Secured all of them
-                - Retrieve the Royal Knight's body in Mike's house in Route 3
-                - Spike traps should be gone
-            - The older brother's body was resurrected 
-        <br></br>
-        - Upon reviving Elliot you will gain a new sub-node (Search for the Royal Knight's Brother) under Being That Dwells in the House of God. There are 3 toggles:
-            - Was not found 
-                - Step foot into Route 11 
-            - Body was found and brought back 
-                - Select the red-haired head from the Bigfoot poo pile
-            - Body was found but it was someone else
-                - Select any of the incorrect heads from the Bigfoot poo pile
+            - Upon accepting the request you will gain a new sub-node (Search for the Royal Knights) under Short Rest in the Cabin. There are 4 toggles:
+                - Did not take the request
+                    - Decline the request when you first enter the Royal Capital 
+                    - Note that it will not be offered again without resetting
+                - Ended the search without finding them 
+                    - Accept the request
+                    - Step foot into Route 10
+                - Brought back a body that could not be revived 
+                    - Select Village Adults - Secured all of them
+                    - Retrieve the Royal Knight's body in Mike's house in Route 3
+                    - Spike traps should be gone
+                - The older brother's body was resurrected 
+
+        ??? note "Search for the Royal Knight's Brother"
+                
+            - Upon reviving Elliot you will gain a new sub-node (Search for the Royal Knight's Brother) under Being That Dwells in the House of God. There are 3 toggles:
+                - Was not found 
+                    - Step foot into Route 11 
+                - Body was found and brought back 
+                    - Select the red-haired head from the Bigfoot poo pile
+                - Body was found but it was someone else
+                    - Select any of the incorrect heads from the Bigfoot poo pile
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
