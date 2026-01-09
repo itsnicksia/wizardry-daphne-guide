@@ -1,7 +1,8 @@
 # Guarda Fortress
 
-!!! note "Many floors have tile variations (shifts and rotations)
-that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Your maps and the location of certain events may not perfectly match what is shown. Events/items on variable tiles always occur in the same rooms on those moved tiles, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details."  
+!!! warning "Map Variations"
+    - Many floors have tile variations (shifts and rotations) that are randomly rolled when using the Cursed Wheel. Certain actions and events can also reset the dungeon layout, and your maps may not perfectly match what is shown. 
+    - Events and items always occur on the same tile set, but their location and orientation may be rotated, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md).  
 
 ## Key Mechanics
 
