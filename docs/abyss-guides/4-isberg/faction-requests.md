@@ -1,5 +1,8 @@
 ## Blizzard Blocking the Path
 
+!!! warning "Work in Progress"
+    - Ctrl + F5 to refresh the page for new updates
+
 ### Witch Hunt in Elden Hill Village (1st Faction Request)
 
 ##### Overview 
