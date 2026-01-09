@@ -2,7 +2,7 @@
 
 !!! warning "Map Variations"
     - Many floors have tile variations (shifts and rotations) that are randomly rolled when using the Cursed Wheel. Certain actions and events can also reset the dungeon layout, and your maps may not perfectly match what is shown. 
-    - Events and items always occur on the same tile set, but their location and orientation may be rotated, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md).  
+    - Events and items always occur on the same tile set, but their location and orientation may be rotated, so look for similar features. See [Map Variations](../../mechanics/map-variations.md) for details.  
 
 ## Key Mechanics
 
