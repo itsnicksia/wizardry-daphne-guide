@@ -977,72 +977,69 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Accept the request at the Royal Capital Guild return to Isberg.
             - Talk to the old lady NPC and pay 300 Gold. 
             - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
-        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. 
-        - To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
-        - In Route 3 head north to the two locked houses on the bottom-left side of the map. 
+        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
+        - Head north to the two locked houses on the bottom-left side of the map. 
             - Top house contains faction-related clothing and a body part. 
             - Left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
         - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house to find the body of the first missing Royal Knight in a cage.
-        - Return to the Royal Capital Guild and hand over the body for revival. 
-        - The revived Royal Knight, Elliot, will share that his brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
+        - Return to the Royal Capital Guild and hand over the body. The revived Royal Knight, Elliot, will share that his brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
 
             ??? note "Body Retrieval Troubleshooting"
-                - If the body was too damaged to revive, then double-check that Village Adults is toggled to "Did not encounter them". 
-                - If the body cannot be collected at all, then the request was not accepted at the Royal Capital Guild.
+                - If the body was too damaged to revive, then double-check that Short Rest in the Cabin > Village Adults is toggled to "Did not encounter them"
+                - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild
 
     === "2nd Body (Philip)"
 
         - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
         - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
 
-        ??? note "Route 3"
-        
-            - Harken to Route 3 and find the tablets in this order: 
-                - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
-                - (X:26, Y:24) - Few steps southeast of Route 4 entrance
-
-        ??? note "Route 7"
-        
-            - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
-            - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-                - (X:13, Y:23) - Central 3x3 room 
-                - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-            - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
-                - (X:19, Y:7) - Northwest of Route 8 stairs
-                - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                - (X:15, Y:24) - Few steps south of the Harken
-            - When finished return to the Route 7 Harken, go left, and exit to Route 9 
-
-        ??? note "Route 9"
-        
-            - Find the tablet at: 
-                - (X:1, Y:7) - Upper left-hand side of the first house in the grass
-            - Return to the Route 7 Harken 
-
-        ??? note "Route 10"
-        
-            - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
-                - (X:25, Y:4) - Few steps north of Route 10 entrance 
-                - (X:20, Y:6) - Tile left of the first Stone God altar
-                - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                - (X:2, Y:15) - First tile in the northwest blizzard zone 
-                - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                - (X:1, Y:24) - Check the nullstone 
-                - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
-            - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
-            - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed one or more of the tablets and the Bigfoot boss will not appear. 
-            - Defeat the Bigfoot boss 
-            - Examine the pile of poop in the next room
-            - Select the one with red hair (Philip)
-            - Exit the cave and bring the head back to the Royal Capital Guild and complete the request.
+            ??? note "Route 3"
+            
+                - Harken to Route 3 and find the tablets in this order: 
+                    - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
+                    - (X:26, Y:24) - Few steps southeast of Route 4 entrance
     
-        ??? warning "Rewards"
+            ??? note "Route 7"
+            
+                - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run 
+                - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                    - (X:13, Y:23) - Central 3x3 room 
+                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+                - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
+                    - (X:19, Y:7) - Northwest of Route 8 stairs
+                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                    - (X:15, Y:24) - Few steps south of the Harken
+                - When finished return to the Route 7 Harken, go left, and exit to Route 9 
     
-            - Achievement: A Brother to be Proud Of 
-            - Bondmate: Elliot, the Lamenting Brother (Attack Power)
-            - Gem of Org x50 (one-time only)
-            - 30,000 Gold
-            - Giant Beast Ape Heavy Armor (one-time only?)
+            ??? note "Route 9"
+            
+                - Find the tablet at: 
+                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+                - Return to the Route 7 Harken 
+    
+            ??? note "Route 10"
+            
+                - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                    - (X:20, Y:6) - Tile left of the first Stone God altar
+                    - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                    - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+                    - (X:1, Y:24) - Check the nullstone 
+                    - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
+                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed one or more of the tablets and the Bigfoot boss will not appear. 
+                - Defeat the Bigfoot boss 
+                - Examine the pile of poop in the next room
+                - Select the head with red hair (Philip)
+                - Exit the cave and bring the head back to the Royal Capital Guild to complete the request.
+        
+                ??? warning "Rewards"
+            
+                    - Achievement: A Brother to be Proud Of 
+                    - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+                    - Gem of Org x50 (one-time only)
+                    - 30,000 Gold
+                    - Giant Beast Ape Heavy Armor (one-time only?)
 
     === "Boss: Bigfoot"
 
@@ -1093,7 +1090,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
-    === "Finding the 1st Body (William)"
+    === "1st Body (William)"
 
         - Make sure that you have accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved.
         - Return to Isberg, talk to the Old Lady NPC, and pay 300 Gold. Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
@@ -1104,7 +1101,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Return to the Royal Capital, enter the Guild, and hand over the body for revival. 
         - The Cathedral knight, William, will be revived and share that this missing wife, Agnes, likely left wax tablets as clues for him to follow in case they were ever separated.
 
-    === "Finding the 2nd Body (Agnes)"
+    === "2nd Body (Agnes)"
     
         - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
         - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
@@ -1149,37 +1146,37 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - Defeat the Bigfoot boss. 
                 - The next set of actions determines what ending you receive.
     
-                ??? note "Good Ending"
-    
-                    - Examine the pile of poo in the next room 
-                    - Select any of the heads
-                    - Exit and return to the Royal Capital Guild
-                    - Turn over the head and William will recognize that it is not Agnes and rush off to the Bigfoot Cave
-                    - Note: You can return to the Bigfoot Cave and see William standing next to a Stonefolk (Agnes), but you cannot interact with them. Whether this is a hint or a bug remains unknown 
-    
-                    ??? note "Rewards"
-    
-                        - Gem of Org x50 (one-time only)
-                        - 20,000 Gold
-                        - Giant Beast Ape Robe (needs verification)
-    
-                ??? tip "Best Ending (Bondmate)"
-    
-                    - Examine the pile of poo in the next room 
-                    - Select "Agnes is not here"
-                    - Move to the nullstone and reverse it; when prompted enter "Noah"
-                    - Upon returning to the poo pile you will receive Lulu text that says it's "up to you" whether to return with a head or tell William about his wife's fate
-                    - Do NOT take a head, exit, and return to the Royal Capital Guild. Note that using a Hook of Harken to exit may be bugged and default that run to the "Good" ending. 
-                    - After speaking with William at the Guild he will run off to the Bigfoot Cave to investigate. Request rewards will be given at this point. 
-                    - Return to the Bigfoot Cave and you will see William standing next to the Stonefolk (Agnes). Watch the scene and receive William, the Remorseful Husband (Divine Power) as a bondmate.
-       
+                    ??? note "Good Ending"
+        
+                        - Examine the pile of poo in the next room 
+                        - Select any of the heads
+                        - Exit and return to the Royal Capital Guild
+                        - Turn over the head and William will recognize that it is not Agnes and rush off to the Bigfoot Cave
+                        - Note: You can return to the Bigfoot Cave and see William standing next to a Stonefolk (Agnes), but you cannot interact with them. Whether this is a hint or a bug remains unknown 
+        
                         ??? warning "Rewards"
-                    
-                            - Achievement: Speaking to His Stone Wife
-                            - Bondmate: William, the Remorseful Husband (Divine Power)
+        
                             - Gem of Org x50 (one-time only)
-                            - 30,000 Gold
-                            - Giant Beast Ape Robe (one-time only?)
+                            - 20,000 Gold
+                            - Giant Beast Ape Robe (needs verification)
+        
+                    ??? tip "Best Ending (Bondmate)"
+        
+                        - Examine the pile of poo in the next room 
+                        - Select "Agnes is not here"
+                        - Move to the nullstone, reverse it, and enter "Noah" when prompted
+                        - Afterwards, Lulu will state that "it's up to you" whether to return with a head or tell William about his wife's fate
+                        - Do not take a head, exit, and return to the Royal Capital Guild. Note: Using a Hook of Harken to exit may be bugged and default to the "Good" ending. 
+                        - After submitting the request William will run off to the Bigfoot Cave to investigate.
+                        - Return to the Bigfoot Cave and you will see William standing next to the Stonefolk (Agnes). Watch the scene and receive William, the Remorseful Husband (Divine Power) as a bondmate.
+           
+                            ??? warning "Rewards"
+                        
+                                - Achievement: Speaking to His Stone Wife
+                                - Bondmate: William, the Remorseful Husband (Divine Power)
+                                - Gem of Org x50 (one-time only)
+                                - 30,000 Gold
+                                - Giant Beast Ape Robe (one-time only?)
 
     === "Boss: Bigfoot"
     
@@ -1196,33 +1193,33 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
         - There is a sub-node with toggles for each of the bodies listed under Short Rest in the Cabin and Being That Dwellls in the House of God. 
 
-        ??? note "Search for the Church Adherents"
-
-            - Requirement: Accept the request when first entering the Royal Capital 
-            - Cursed Wheel: Short Rest in the Cabin
-            - Toggles: 
-                - Did not take the request
-                    - Decline the request when you first enter the Royal Capital 
-                    - Note that it will not be offered again without resetting
-                - Ended the search without finding them 
-                    - Accept the request
-                    - Step foot into Route 10
-                - Brought back a body that could not be revived 
-                    - Select Village Adults - Secured all of them
-                    - Retrieve the Cathedral Knight's body (William) in Otto's backyard in Route 5
-                - The husband's body was resurrected 
-
-        ??? note "Search for the Church Adherent's Wife"
-                
-            - Requirement: Revive the 1st body (William) 
-            - Cursed Wheel: Being That Dwells in the House of God 
-            - Toggles:
-                - Was not found 
-                    - Step foot into Route 11 
-                - Stonefolk was found and reunited with her husband 
-                    - See "Best Ending (Bondmate)" for steps
-                - Body was found but it was someone else
-                    - Select any of the heads from the Bigfoot poo pile
+            ??? note "Search for the Church Adherents"
+    
+                - Requirement: Accept the request when first entering the Royal Capital 
+                - Cursed Wheel: Short Rest in the Cabin
+                - Toggles: 
+                    - Did not take the request
+                        - Decline the request when you first enter the Royal Capital 
+                        - Note that it will not be offered again without resetting
+                    - Ended the search without finding them 
+                        - Accept the request
+                        - Step foot into Route 10
+                    - Brought back a body that could not be revived 
+                        - Select Village Adults - Secured all of them
+                        - Retrieve the Cathedral Knight's body (William) in Otto's backyard in Route 5
+                    - The husband's body was resurrected 
+    
+            ??? note "Search for the Church Adherent's Wife"
+                    
+                - Requirement: Revive the 1st body (William) 
+                - Cursed Wheel: Being That Dwells in the House of God 
+                - Toggles:
+                    - Was not found 
+                        - Step foot into Route 11 
+                    - Stonefolk was found and reunited with her husband 
+                        - See "Best Ending (Bondmate)" for steps
+                    - Body was found but it was someone else
+                        - Select any of the heads from the Bigfoot poo pile
 
 ??? note "Admiral Route - Search Bernard and Young Laurent"
 
