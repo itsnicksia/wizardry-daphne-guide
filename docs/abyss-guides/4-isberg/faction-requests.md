@@ -992,53 +992,53 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
         - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
 
-        ??? note "Route 3"
-        
-            - Harken to Route 3 and find the tablets in this order: 
-                - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
-                - (X:26, Y:24) - Few steps southeast of Route 4 entrance
-
-        ??? note "Route 7"
-        
-            - If all the shorcuts are open and/or you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
-            - If the shortcuts are not open, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-                - (X:13, Y:23) - Central 3x3 room 
-                - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-            - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
-                - (X:19, Y:7) - Northwest of Route 8 stairs
-                - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                - (X:15, Y:24) - Few steps south of the Harken
-            - When finished return to the Route 7 Harken, go left, and exit to Route 9 
-
-        ??? note "Route 9"
-        
-            - Find the tablet at: 
-                - (X:1, Y:7) - Upper left-hand side of the first house in the grass
-            - Return to the Route 7 Harken 
-
-        ??? note "Route 10"
-        
-            - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
-                - (X:25, Y:4) - Few steps north of Route 10 entrance 
-                - (X:20, Y:6) - Tile left of the first Stone God altar
-                - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                - (X:2, Y:15) - First tile in the northwest blizzard zone 
-                - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                - (X:1, Y:24) - Check the nullstone 
-                - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
-            - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
-            - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
-            - Defeat the Bigfoot boss 
-            - Examine the pile of poop in the next room. Philip has red hair.
-            - Exit the cave and bring the head back to the Royal Capital Guild and complete the request.
+            ??? note "Route 3"
+            
+                - Harken to Route 3 and find the tablets in this order: 
+                    - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
+                    - (X:26, Y:24) - Few steps southeast of Route 4 entrance
     
-        ??? warning "Rewards"
+            ??? note "Route 7"
+            
+                - If all the shorcuts are open and/or you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
+                - If the shortcuts are not open, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                    - (X:13, Y:23) - Central 3x3 room 
+                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+                - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
+                    - (X:19, Y:7) - Northwest of Route 8 stairs
+                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                    - (X:15, Y:24) - Few steps south of the Harken
+                - When finished return to the Route 7 Harken, go left, and exit to Route 9 
     
-            - Achievement: A Brother to be Proud Of 
-            - Bondmate: Elliot, the Lamenting Brother (Attack Power)
-            - Gem of Org x50 (one-time only)
-            - 30,000 Gold
-            - Giant Beast Ape Heavy Armor (one-time only?)
+            ??? note "Route 9"
+            
+                - Find the tablet at: 
+                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+                - Return to the Route 7 Harken 
+    
+            ??? note "Route 10"
+            
+                - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                    - (X:20, Y:6) - Tile left of the first Stone God altar
+                    - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                    - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+                    - (X:1, Y:24) - Check the nullstone 
+                    - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
+                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
+                - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
+                - Defeat the Bigfoot boss 
+                - Examine the pile of poop in the next room. Philip has red hair.
+                - Exit the cave and bring the head back to the Royal Capital Guild and complete the request.
+        
+            ??? warning "Rewards"
+        
+                - Achievement: A Brother to be Proud Of 
+                - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+                - Gem of Org x50 (one-time only)
+                - 30,000 Gold
+                - Giant Beast Ape Heavy Armor (one-time only?)
 
     === "Boss: Bigfoot"
 
@@ -1055,32 +1055,36 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "Cursed Wheel Nodes"
 
-        ??? note "Search for the Royal Knights"
+        - There is a sub-node with toggles for each of the bodies listed under Short Rest in the Cabin and Being That Dwellls in the House of God. 
+        
+            ??? note "Search for the Royal Knights"
 
-            - Upon accepting the request you will gain a new sub-node (Search for the Royal Knights) under Short Rest in the Cabin. 
-            - There are 4 toggles:
-                - Did not take the request
-                    - Decline the request when you first enter the Royal Capital 
-                    - Note that it will not be offered again without resetting
-                - Ended the search without finding them 
-                    - Accept the request
-                    - Step foot into Route 10
-                - Brought back a body that could not be revived 
-                    - Select Village Adults - Secured all of them
-                    - Retrieve the Royal Knight's body (Elliot) in Mike's house in Route 3
-                    - Spike traps should be gone
-                - The older brother's body was resurrected 
+                - Requirement: Accept the request when first entering the Royal Capital 
+                - Cursed Wheel: Short Rest in the Cabin
+                - Toggles:
+                    - Did not take the request
+                        - Decline the request when you first enter the Royal Capital 
+                        - Note that it will not be offered again without resetting
+                    - Ended the search without finding them 
+                        - Accept the request
+                        - Step foot into Route 10
+                    - Brought back a body that could not be revived 
+                        - Select Village Adults - Secured all of them
+                        - Retrieve the Royal Knight's body (Elliot) in Mike's house in Route 3
+                        - Spike traps should be gone
+                    - The older brother's body was resurrected 
+    
+            ??? note "Search for the Royal Knight's Brother"
 
-        ??? note "Search for the Royal Knight's Brother"
-                
-            - Upon reviving Elliot you will gain a new sub-node (Search for the Royal Knight's Brother) under Being That Dwells in the House of God. 
-            - There are 3 toggles:
-                - Was not found 
-                    - Step foot into Route 11 
-                - Body was found and brought back 
-                    - Select the red-haired head from the Bigfoot poo pile
-                - Body was found but it was someone else
-                    - Select any of the incorrect heads from the Bigfoot poo pile
+                - Requirement: Revive the 1st body (Elliot) 
+                - Cursed Wheel: Being That Dwells in the House of God 
+                - Toggles:
+                    - Was not found 
+                        - Step foot into Route 11 
+                    - Body was found and brought back 
+                        - Select the red-haired head from the Bigfoot poo pile
+                    - Body was found but it was someone else
+                        - Select any of the incorrect heads from the Bigfoot poo pile
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
@@ -1097,9 +1101,9 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "Finding the 2nd Body (Agnes)"
     
-            - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
-            - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
-    
+        - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
+        - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
+
             ??? note "Route 3"
             
                 - Harken to Route 3 and find the tablets in this order: 
@@ -1139,23 +1143,23 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
                 - Defeat the Bigfoot boss. 
                 - The next set of actions determines what ending you receive.
-
+    
                 ??? note "Good Ending"
-
+    
                     - Examine the pile of poo in the next room 
                     - Select any of the heads
                     - Exit and return to the Royal Capital Guild
                     - Turn over the head and William will recognize that it is not Agnes and rush off to the Bigfoot Cave
                     - Note: You can return to the Bigfoot Cave and see William standing next to a Stonefolk (Agnes), but you cannot interact with them. Whether this is a hint or a bug remains unknown 
-
+    
                     ??? note "Rewards"
-
+    
                         - Gem of Org x50 (one-time only)
                         - 20,000 Gold
                         - Giant Beast Ape Robe (needs verification)
-
+    
                 ??? tip "Best Ending (Bondmate)"
-
+    
                     - Examine the pile of poo in the next room 
                     - Select "Agnes is not here"
                     - Move to the nullstone and reverse it; when prompted enter "Noah"
@@ -1185,10 +1189,13 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         
     === "Cursed Wheel Nodes"
 
+        - There is a sub-node with toggles for each of the bodies listed under Short Rest in the Cabin and Being That Dwellls in the House of God. 
+
         ??? note "Search for the Church Adherents"
 
-            - Upon accepting the request you will gain a new sub-node (Search for the Church Adherents) under Short Rest in the Cabin. 
-            - There are 4 toggles:
+            - Requirement: Accept the request when first entering the Royal Capital 
+            - Cursed Wheel: Short Rest in the Cabin
+            - Toggles: 
                 - Did not take the request
                     - Decline the request when you first enter the Royal Capital 
                     - Note that it will not be offered again without resetting
@@ -1200,10 +1207,11 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - Retrieve the Cathedral Knight's body (William) in Otto's backyard in Route 5
                 - The husband's body was resurrected 
 
-        ??? note "Search for the Royal Knight's Brother"
+        ??? note "Search for the Church Adherent's Wife"
                 
-            - Upon reviving William you will gain a new sub-node (Search for Church Adherent's Wife) under Being That Dwells in the House of God. 
-            - There are 3 toggles:
+            - Requirement: Revive the 1st body (William) 
+            - Cursed Wheel: Being That Dwells in the House of God 
+            - Toggles:
                 - Was not found 
                     - Step foot into Route 11 
                 - Stonefolk was found and reunited with her husband 
