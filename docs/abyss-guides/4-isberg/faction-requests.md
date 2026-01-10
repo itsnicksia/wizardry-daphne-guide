@@ -982,7 +982,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             - Top house contains faction-related clothing and a body part. 
             - Left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
         - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house to find the body of the first missing Royal Knight in a cage.
-        - Return to the Royal Capital Guild and hand over the body. The revived Royal Knight, Elliot, will share that his brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
+        - Return to the Royal Capital Guild and hand over the body. The revived Royal Knight, Elliot, will share that his missing brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
 
             ??? note "Body Retrieval Troubleshooting"
                 - If the body was too damaged to revive, then double-check that Short Rest in the Cabin > Village Adults is toggled to "Did not encounter them"
@@ -1033,13 +1033,13 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - Select the head with red hair (Philip)
                 - Exit the cave and bring the head back to the Royal Capital Guild to complete the request.
         
-                ??? warning "Rewards"
-            
-                    - Achievement: A Brother to be Proud Of 
-                    - Bondmate: Elliot, the Lamenting Brother (Attack Power)
-                    - Gem of Org x50 (one-time only)
-                    - 30,000 Gold
-                    - Giant Beast Ape Heavy Armor (one-time only?)
+                    ??? warning "Rewards"
+                
+                        - Achievement: A Brother to be Proud Of 
+                        - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+                        - Gem of Org x50 (one-time only)
+                        - 30,000 Gold
+                        - Giant Beast Ape Heavy Armor (one-time only?)
 
     === "Boss: Bigfoot"
 
@@ -1051,7 +1051,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     === "Farming"
 
         - The search for the 1st body (Elliot) can be completely skipped
-        - In the Cursed Wheel under Search for the Royal Knights select "The older brother's body was resurrected"
+        - Cursed Wheel: Deepsnow Hinterlands Entrance > Ruins > Short Rest in the Cabin > Search for the Royal Knights > The older brother's body was resurrected
         - The request will be active after wheeling to Short Rest in the Cabin 
         - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets
 
@@ -1092,14 +1092,15 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "1st Body (William)"
 
-        - Make sure that you have accepted the request at the Royal Capital Guild otherwise the event flags will not be turned on and the body cannot be retrieved.
-        - Return to Isberg, talk to the Old Lady NPC, and pay 300 Gold. Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
-        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key.
-        - To avoid the spike traps return to the Harken, select Route 2, and then re-enter Route 3.
-        - Once back in Route 3 head north to the two locked houses on the bottom-left side of the map. The top house contains faction-related clothing and a body part. The left house contains an ambush after entering the storage area. Defeat the 2 Vorpal Bunnies and 3 Snow Slimes. Collect the faction-related insignia on the floor. Exit and return to the Route 2 Harken.
-        - Harken to Route 5 and then enter Route 6. Head to the house on the far left-hand side (where Otto, one of the village adults, was) in the middle of the map. In the backyard you will find the 1st body in a cage.
-        - Return to the Royal Capital, enter the Guild, and hand over the body for revival. 
-        - The Cathedral knight, William, will be revived and share that this missing wife, Agnes, likely left wax tablets as clues for him to follow in case they were ever separated.
+        - Accept the request at the Royal Capital Guild return to Isberg.
+            - Talk to the old lady NPC and pay 300 Gold. 
+            - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
+        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
+        - Head north to the two locked houses on the bottom-left side of the map. 
+            - Top house contains faction-related clothing and a body part.
+            - Left house contains an ambush after entering the storage area. Defeat the 2 Vorpal Bunnies and 3 Snow Slimes. Collect the faction-related insignia on the floor. Exit and return to the Route 2 Harken.
+        - Harken to Route 5 and then enter Route 6. Head to the house on the far left-hand side (where Otto, one of the village adults, was located) in the middle of the map. In the backyard find the 1st body in a cage.
+        - Return to the Royal Capital Guild and hand over the body. The revived Cathedral knight, William, will share that his missing wife, Agnes, likely left wax tablets as clues for him to follow in case they were ever separated.
 
     === "2nd Body (Agnes)"
     
@@ -1154,11 +1155,11 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                         - Turn over the head and William will recognize that it is not Agnes and rush off to the Bigfoot Cave
                         - Note: You can return to the Bigfoot Cave and see William standing next to a Stonefolk (Agnes), but you cannot interact with them. Whether this is a hint or a bug remains unknown 
         
-                        ??? warning "Rewards"
-        
-                            - Gem of Org x50 (one-time only)
-                            - 20,000 Gold
-                            - Giant Beast Ape Robe (needs verification)
+                            ??? warning "Rewards"
+            
+                                - Gem of Org x50 (one-time only)
+                                - 20,000 Gold
+                                - Giant Beast Ape Robe (needs verification)
         
                     ??? tip "Best Ending (Bondmate)"
         
@@ -1186,8 +1187,9 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     === "Farming"
 
         - The search for the 1st body (William) can be completely skipped
-        - In the Cursed Wheel under Search for the Church Adherents select "The husband's body was resurrected"
-        - The request will be active after wheeling; Harken to Route 3 to begin collecting the tablets
+        - Cursed Wheel: Deepsnow Hinterlands Entrance > Ruins > Short Rest in the Cabin > Search for the Church Adherents > The husband's body was resurrected
+        - The request will be active after wheeling to Short Rest in the Cabin 
+        - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets  
         
     === "Cursed Wheel Nodes"
 
