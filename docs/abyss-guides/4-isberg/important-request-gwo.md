@@ -95,6 +95,8 @@ You now are under the impression that Godefroi is controlling the children. You 
 
 Realizing that the situation occuring in this village is extremely vile, you decide to wheel back in time to prevent this problem.
 
+!!! warning "After encountering Mike it is strongly recommended that the next adult you attempt to capture is Otto on Route 6. He is arguably the most frustrating fight to have to repeat if he runs away."
+
 1. You need to cursed wheel back to when the cabin in Route 9 was fully rebuilt, Short Rest in the Cabin. Approaching the cabin has Lulunarde suggesting that we need to deal with the adults before heading towards defeating Godefroi.
 2. You need to head to Route 3's Rockhome Village. Walking towards the Mayor's house from the harken will show that the town is trapped. Head towards the house at the bottom middle of the map to find Mike. He will attempt to defend himself with goblins, which end up turning on him. You will have to fight three goblins. After winning, Lulunarde will name 3 more locations that adults may be at. You can visit any of these points in any order that you want.
 3. Route 4's Snowy Road to the Mine requires you to head towards the middle of the map. You will notice a cart with rocks on it. Interact with it and turn around to find one of the adults. He will lock you in and then throw meat to lure monsters to deal with you. Head slightly south to find him again and you may choose any option to deal with him.
