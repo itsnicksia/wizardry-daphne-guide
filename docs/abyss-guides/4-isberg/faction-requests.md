@@ -1051,7 +1051,10 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     === "Farming"
 
         - The search for the 1st body (Elliot) can be completely skipped
-        - Cursed Wheel: Deepsnow Hinterlands Entrance > Ruins > Short Rest in the Cabin > Search for the Royal Knights > The older brother's body was resurrected
+        - Cursed Wheel: 
+            - Deepsnow Hinterlands Entrance > Ruins  
+            - Short Rest in the Cabin > Search for the Royal Knights > toggle "The older brother's body was resurrected"
+            - Note: The request cannot be reset by wheeling in place
         - The request will be active after wheeling to Short Rest in the Cabin 
         - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets
 
@@ -1187,7 +1190,10 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     === "Farming"
 
         - The search for the 1st body (William) can be completely skipped
-        - Cursed Wheel: Deepsnow Hinterlands Entrance > Ruins > Short Rest in the Cabin > Search for the Church Adherents > The husband's body was resurrected
+        - Cursed Wheel: 
+            - Deepsnow Hinterlands Entrance > Ruins 
+            - Short Rest in the Cabin > Search for the Church Adherents > toggle "The husband's body was resurrected"
+            - Note: The request cannot be reset by wheeling in place
         - The request will be active after wheeling to Short Rest in the Cabin 
         - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets  
         
