@@ -1105,6 +1105,10 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Harken to Route 5 and then enter Route 6. Head to the house on the far left-hand side (where Otto, one of the village adults, was located) in the middle of the map. In the backyard find the 1st body in a cage.
         - Return to the Royal Capital Guild and hand over the body. The revived Cathedral knight, William, will share that his missing wife, Agnes, likely left wax tablets as clues for him to follow in case they were ever separated.
 
+            ??? note "Body Retrieval Troubleshooting"
+                - If the body was too damaged to revive, then double-check that Short Rest in the Cabin > Village Adults is toggled to "Did not encounter them"
+                - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild
+
     === "2nd Body (Agnes)"
     
         - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
