@@ -1,7 +1,7 @@
 nav:
-  - Adventurer Quicklist: './adventurer-quicklist.md'
-  - Legendary Adventurers:
-    - Adventurer Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
+  - Quicklist: './adventurer-quicklist.md'
+  - Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
+  - Legendary:
     - Abenius:
         - Details: './legendary-adventurers/details/Abenius.md'
         - Life Story: './legendary-adventurers/life-stories/Abenius.md'
@@ -81,7 +81,7 @@ nav:
     - Yekaterina - Unnamed Request: './legendary-adventurers/legendary-requests/yekaterina/yekaterina-request.md'
     - Lanavaille - Unnamed Request: './legendary-adventurers/legendary-requests/lanavaille/lanavaille-request.md'
     - Alice - Preparation of an Offering to My God: './legendary-adventurers/legendary-requests/alice/alice-request.md'
-  - General Adventurers:
+  - General:
     - Alex:
         - Details: './general-adventurers/details/Alex.md'
         - Life Story: './general-adventurers/life-stories/Alex.md'
@@ -178,7 +178,7 @@ nav:
     - Viviana:
         - Details: './general-adventurers/details/Viviana.md'
         - Life Story: './general-adventurers/life-stories/Viviana.md'
-  - Anonymous Adventurers:
+  - Nameless:
     - Beast-Thi:
         - Details: './anonymous-adventurers/details/Beast-Thi.md'
         - Life Story: './anonymous-adventurers/life-stories/Beast-Thi.md'
