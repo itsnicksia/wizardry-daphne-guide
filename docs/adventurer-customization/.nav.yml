@@ -1,5 +1,4 @@
 nav:
-  - Experience Tables: './adventurer-experience.md'
   - Alignment: './alignment.md'
   - Bondmates:
       - Quicklist: './bondmates/bondmates-quicklist.md'
