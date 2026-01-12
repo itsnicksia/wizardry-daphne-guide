@@ -7,6 +7,7 @@ nav:
   - Mechanics: mechanics
   - Strategies: strategies
   - Farming: './strategies/farming.md'
+  - Bounties: './abyss-guides/bounties/bounties.md' 
   - Equipment: equipment
   - Appendices: appendices
   - Tools: tools
