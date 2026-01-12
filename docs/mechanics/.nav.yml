@@ -1,10 +1,10 @@
 nav:
   - Traits and Stats: './traits-and-stats.md'
   - Discipline and Inheritance: './discipline-and-inheritance.md'
-  - Grade Exams: 'docs/abyss-guides/grade-exams/maps.md'
+  - Grade Exams: './abyss-guides/grade-exams/maps.md'
   - Class Change: './adventurer-customization/class-changes.md'
   - Merging: './merging.md'
-  - Damage: './damage-mechanics.md'
+  - Damage and Skills: './damage-mechanics.md'
   - Map Variations: './map-variations.md'
   - Trust:
     - Trust Guide: './trust/trust.md'
