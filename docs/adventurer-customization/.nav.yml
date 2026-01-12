@@ -3,10 +3,11 @@ nav:
   - Alignment: './alignment.md'
   - Bondmates:
       - Quicklist: './bondmates/bondmates-quicklist.md'
-      - Royal Capital Luknalia: './bondmates/beginning-abyss/bondmates.md'
-      - Port Town Grand Legion: './bondmates/port-town-grand-legion/bondmates.md'
-      - Guarda Fortress: './bondmates/guarda-fortress/bondmates.md'
-      - Isberg: './bondmates/isberg/bondmates.md'
+      - Abyss: 
+        - Royal Capital Luknalia: './bondmates/beginning-abyss/bondmates.md'
+        - Port Town Grand Legion: './bondmates/port-town-grand-legion/bondmates.md'
+        - Guarda Fortress: './bondmates/guarda-fortress/bondmates.md'
+        - Isberg: './bondmates/isberg/bondmates.md'
       - Adventurer Bondmates: './bondmates/adventurer-bondmates.md'
       - Bondmates Farming: './bondmates/bondmates-farming.md'
   - Contracts: './contracts.md'
