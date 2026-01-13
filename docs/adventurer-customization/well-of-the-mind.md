@@ -72,7 +72,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: MediumOrchid">LUCK 10</span> |   1   | Abyss 4: Defeat the final version (4th fight) of the GWO |
 
 
-<sup>†</sup> <small>You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 39 Mind Pearls. (updated Dec 5, 2025)</small>
+<sup>†</sup> <small>You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 47 Mind Pearls. (updated 13 Jan 2026)</small>
 
 ??? warning "Help, I'm Missing Guiding Lights!"
     If you met the requirements to obtain a guiding light but don't have it actually available in the Well for use, try exiting and restarting the game. Some of them seem to need a reboot to show up properly.
