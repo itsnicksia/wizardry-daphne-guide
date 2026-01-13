@@ -4,7 +4,7 @@
 
 The Well of the Mind is a unique main character customization element accessible from the Ruins where you can unlock classes, skills, spells, and stat increases using "Mind Pearls".  
 
-You start with 4 Mind Pearls. More are obtained by using ["Guiding Lights" that can be collected through progressing in the main story](#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area. This will open those nodes for use and give you an additional 1-4 Mind Pearls. Presently, the maximum number of mind pearls obtainable by activating all Guiding Lights listed below is 39.
+You start with 4 Mind Pearls. More are obtained by using ["Guiding Lights" that can be collected through progressing in the main story](#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area. This will open those nodes for use and give you an additional 1-4 Mind Pearls.
 
 Node layout and Mind Pearl costs are noted on the node map below, with node border colors matching the Guiding Light needed for unlocking that area.  For the meaning of each node, see [the Acronym/Node label description table](#wotm-acronymsnode-labels-table).
 
