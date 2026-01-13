@@ -190,7 +190,7 @@ Lightning Celerity,Passive,,Increases Evasion when equipped with a one-handed sw
 Line Cover,Active,,Chance to bear single-target attacks in place of allies in 1 ally row for 1 turn.,Defense Power Up incrementally added based on skill level.,20,Knight,Knight-specific,,
 Lingering Blossom,Active,True,"Increases Atttack Power and Surety for 3 turns. For 1 turn, the user becomes more likely to be targeted by enemies, and if they would take damage that reduces their HP to 0, they might persevere once with 1 HP. If the user perseveres, their Evasion, Attack Power, and Surety are increased for 4 turns. Chance of persevering and chance of being targeted are greatly reduced, and Evasion, Attack Power, and Surety increase amounts are also reduced if learned by anyone other than Shiou.","Chance of becoming more likely to be targeted, Evasion, Attack Power, and Surety increased even futher based on skill level.",1,,,Shiou,
 "Linked Steps, Relentless Assault",Passive,,Increases the damage of the next attack after defeating an enemy.,Damage further increased based on skill level.,70,Ninja,Ninja-specific,,
-Locksmith's Craft,Discipline,,Continuously increases each stat. Accuracy and Evasion and Evade Trap increased further.,Evasion and Disarm Trap increased further based on skill level.,,,,Jean,
+Locksmith's Craft,Discipline,,Continuously increases each stat. Evasion and Disarm Trap increased further.,Evasion and Disarm Trap increased further based on skill level.,,,,Jean,
 Lord of the Deep Forest's Leadership,Passive,,Increases Evasion and Action Speed for user and all adjacent evil and neutral allies.,,,,,Arboris,
 Lucent MAFOROS,Damage,True,"Channels additional Magic Power into MAFOROS, launching an even brighter, more powerful volley of light orbs that deals moderate light-type spell damage to 1 enemy row. Chance to reduce Accuracy for 3 turns. If the target is dark-type, damage dealt is increased and both the amount and chance of Accuracy reduction are higher. Damage is decreased while Accuracy reduction amount and chance are reduced if learned by someone other than Adam.","Damage increased, and the amount and chance of Accuracy reduction increased based on skill level.",,,,Adam,
 MABADIOS,Damage,,A light-type attack spell cast by an exalted prayer. Deals minor damage to 1 enemy row based on the user's Divine Power. Damage is increased against undead.,Efficacy increased based on skill level.,62,Priest,,,
@@ -405,6 +405,7 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
