@@ -87,7 +87,7 @@
             - More trust points are earned if the MC's alignment is the same as his conversation partner. For example, Neutral MC and Yekaterina (Neutral) will earn more trust points than Neutral MC and Milana (Evil) even if you provided the "best" response to both.
             - Few-to-no trust points are earned with Good-Evil pairings. 
 
-    === "Spillover" Trust
+    === ""Spillover" Trust"
 
         - Other adventurers present during Tavern or Camp conversations gain a small amount of trust even if they are not directly participating. 
         - For example, if Good MC and Lana (Good) had a conversation with the "best" response selected, then:
@@ -112,7 +112,7 @@
         - Lana (Good), Yekaterina (Neutral), and Alice (Evil) are excellent companions to bring along as they will frequently proc camp conversations.
         - This process can be tag-intensive. Remember that you are refunded a Bronze tag at the end of this process, but you cannot downgrade tags!
 
-??? note "Bondmate Selection"
+??? note "Nameless Adventurers"
 
     === "Why Nameless?"
 
@@ -121,14 +121,14 @@
 
     === "Nameless Basics"
 
-        - Nameless adventurers cannot join Tavern conversations, but are present during Camp conversations. This is the key to efficient stat bondmate farming.
+        - Cannot join Tavern conversations, but are present during Camp conversations. This is the key to efficient stat bondmate farming.
         - Receive "spill over" trust points from Camp conversations from adventurer's with the same alignment.
         - Nameless that share the MC's alignment receive an additional trust boost and require few-to-no Camp conversations. 
-            - In 90% of cases they will receive a flaming-heart after defeating the second GWO - as long as they did not die at any point.
+            - 90% of the time they will receive a flaming-heart after defeating the second GWO - as long as they did not die at any point during the battle or while leveling.
             - If they do not instantly receive the flaming-heart, then it usually requires 1-2 Camp conversations.
         - Putting all BP into SPD is recommended to ensure the stat bondmates can move before Melgina/Octo to defend against their attacks.
 
-    === "Nameless Trait Bonuses"
+    === "Trait Bonuses"
 
         - STR - Human Fighter (Neutral)
         - DEX - Beast Thief (Evil) 
