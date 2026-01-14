@@ -13,13 +13,13 @@
         - Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
         - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
 
-    === "Adventurer Trust Icon"
+    === "Flaming-Heart Icon"
 
         <div align="center">
         ![](img/adventurer-trust-icon.jpg)
         </div>
     
-    === "Adventurer Bondmate Example"
+    === "Stat Bondmate Example"
 
         <div align="center">
         ![](img/adventurer-bondmate-example.jpg)
@@ -60,39 +60,41 @@
 
 ??? note "Flaming-Heart" 
 
-=== "Conditions"
-
-    - Bronze Grade (minimum level of 30)
-    - Defeat Helmut and Melgina or Octoranus
-        - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
-        - Melgina is safer and faster to defeat with low-level units
-        - The unit must survive the fight
-    - Trust farm until the flaming-heart appears
-
-=== "Troubleshooting" 
-
-    - Do the conditions in the order listed. 
-    - The primary reason people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs. 
-    - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
+    === "Conditions"
+    
+        - Bronze Grade (minimum level of 30)
+        - Defeat Helmut and Melgina or Octoranus
+            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
+            - Melgina is safer and faster to defeat with low-level units
+            - The unit must survive the fight
+        - Trust farm until the flaming-heart appears
+    
+    === "Troubleshooting" 
+    
+        - Do the conditions in the order listed. 
+        - The primary reason people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs. 
+        - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
 
 ## Efficient Trust Farming 
 
 ??? note "Trust"
 
-    === "Tavern and Camp Conversations"
+    === "Conversations"
 
         - For Tavern and Camp conversations the amount of trust points gained depends on two factors:
             - Alignment (Good-Neutral-Evil)
             - Selecting the "best" response to conversational prompts ([Trust Table](../../mechanics/trust/table.md).
             - More trust points are earned if the MC's alignment is the same as his conversation partner. For example, Neutral MC and Yekaterina (Neutral) will earn more trust points than Neutral MC and Milana (Evil) even if you provided the "best" response to both.
             - Few-to-no trust points are earned with Good-Evil pairings. 
-        - "Spillover Trust"
-            - Other adventurers present during Tavern or Camp conversations gain a small amount of trust even if they are not directly participating. 
-            - For example, if Good MC and Lana (Good) had a conversation with the "best" response selected, then:
-                - Lana (Good) = Maximum amount of trust points
-                - Abenius (Good) = Small amount of trust points
-                - Yekaterina (Neutral) = Small amount of trust points, but fewer than Abenius
-                - Milana (Evil) = 0 trust points 
+
+    === "Spillover" Trust
+
+        - Other adventurers present during Tavern or Camp conversations gain a small amount of trust even if they are not directly participating. 
+        - For example, if Good MC and Lana (Good) had a conversation with the "best" response selected, then:
+            - Lana (Good) = Maximum amount of trust points
+            - Abenius (Good) = Small amount of trust points
+            - Yekaterina (Neutral) = Small amount of trust points, but fewer than Abenius
+            - Milana (Evil) = 0 trust points 
 
     === "Battles"
      
@@ -154,7 +156,7 @@
     - Find a chest and have MC (ideally) fail the mini-game
         - It is not known if failing chests results in a trust penalty, but it does lower the MC's hidden Fortitude value. 
         - There is a fixed mimic chest on F6 by the stairs you can fail and run away from the mimic fight; this can be repeated.
-    - Go to the F7 Fountain and Camp, use the Trust Table to select the "best" answers.
+    - Go to the F7 Fountain and Camp, use the [Trust Table](../../mechanics/trust/table.md) to select the "best" answers.
     - Note: If the stone block to the Fountain is not reversed, then you can 1) harken to F8 and reverse them or 2) see if wheeling twice on "King's Arrival" restores them.
     - Exit
     - Repeat this process until the flaming-heart procs on the stat bondmate. 
