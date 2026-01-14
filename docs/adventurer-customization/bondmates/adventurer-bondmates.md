@@ -1,60 +1,76 @@
-## Basics
+## Overview
 
-- All adventurers can become bondmates (herafter called "stat bondmates") if they are dismissed once they reach a certain [trust](../../mechanics/trust/trust.md) level denoted by flaming-heart icon on their stat page.
-- Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
-- Stat bondmates range from level 1 to 5.
-- Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
-- Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
+- All adventurers can become bondmates (herafter called "stat bondmates") if they are dismissed after reaching a certain [trust](../../mechanics/trust/trust.md) level denoted by flaming-heart icon on their stat page.
+- Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as ATK Power, Evade, and so on.
 
-??? note "Adventurer Trust Icon"
-    ![](img/adventurer-trust-icon.jpg)
+??? note "Basics"
 
-??? note "Adventurer Bondmate Example"
-    ![](img/adventurer-bondmate-example.jpg)
+    === "Summary"
 
-## Trait Bonus 
+        - Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
+        - Stat bondmates range from level 1 to 5.
+        - Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
+        - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
 
-- The trait bonus is a function of both the level of the unit being equipped and the level of the bondmate.
-- Trait bonuses increase with the level of the stat bondmate. A few examples:
-- A level 5 stat bondmate +
-    - A level 70 unit will receive +7-8 trait points
-    - A level 60 unit will receive +6-7 trait points
-- A level 4 stat bondmate +
-    - A level 70 unit will receive +6-7 trait points
-    - A level 60 unit will receive +5-6 trait points
-- The trait bonus range is due to rounding and will vary by unit.
-- Trait bonuses cap at +7-8 at level 70. It is possible to attach a level 2 and level 3 stat bondmate to one character for the "equivalent" of a level 5 stat bondmate.
-- There is no additional bonus for matching elemental alignments. This holds true for story bondmates, too.
-- Nameless, General, and Legendary adventurers all provide the same exact trait bonuses.
+    === "Adventurer Trust Icon"
+        ![](img/adventurer-trust-icon.jpg)
+    
+    === "Adventurer Bondmate Example"
+        ![](img/adventurer-bondmate-example.jpg)
 
-## Bondmate Levels 
+??? note "Trait Bonus" 
 
-- The game uses an unclear formula to determine the level of a stat bondmate. It seems to depend on the bondmates attached to it prior to dismissal.
-- Based on extensive community testing we know:
-    - If a unit has two, level 5 bondmates attached prior to dismissal it will result in a level 4 or 5 stat bondmate.
-    - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a level 5.
-    - Whether this is a bug or intended is unclear.
-- In practice this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that number.
-- For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
-- Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
+    === "Mechanics"
 
-## Flaming-Heart
+        - The trait bonus is a function of both the Grade of the unit being equipped and the level of the bondmate.
+        - Trait bonuses increase with the level of the stat bondmate. See examples in the tabs. 
+        - Trait bonuses cap at +7-8 at level 70. It is possible to attach a level 2 and level 3 stat bondmate to one character for the "equivalent" of a level 5 stat bondmate.
+        - There is no additional bonus for matching elemental alignments. This holds true for story bondmates, too.
+        - Nameless, General, and Legendary adventurers all provide the same exact trait bonuses.
 
-- A flaming-heart is required to create a stat bondmate. There are no exceptions.
-- The flaming-heart has several conditions:
-    - Bronze grade (minimum level of 30)
-    - Defeat Helmut and Melgina/Octoranus
-        - The unit must survive the fight
-        - The game treats defeating Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
-        - Melgina is safer and faster to defeat with low-level units
-    - Trust farm until the flaming-heart appears
-- You must do these steps in the order listed. The primary reason people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs. If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
+    === "Level 5 Stat Bondmate"
 
-## Efficient Trust Farming and Other Tips
+        - A level 5 stat bondmate +
+            - A level 70 (Copper Grade) unit will receive +7-8 trait points
+            - A level 60 (Steel Grade) unit will receive +6-7 trait points
+        - The trait bonus range is due to rounding and will vary by unit.
 
-??? note "Trust Basics"
+    === "Level 4 Stat Bondmate"
+    
+        - A level 4 stat bondmate +
+            - A level 70 (Copper Grade) unit will receive +6-7 trait points
+            - A level 60 (Steel Grade) unit will receive +5-6 trait points
+        - The trait bonus range is due to rounding and will vary by unit.
 
-    - Trust is gained (and lost) throughout the game and revolves around three core mechanics: Tavern conversations, Camp conversations, and battles. 
+??? note "Bondmate Levels"
+
+    - The game uses an unclear formula to determine the level of a stat bondmate. It seems to depend on the bondmates attached to it prior to dismissal.
+    - Based on extensive community testing we know:
+        - If a unit has two, level 5 bondmates attached prior to dismissal it will result in a level 4 or 5 stat bondmate.
+        - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a level 5.
+        - Whether this is a bug or intended is unclear.
+    - In practice this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that number.
+    - For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
+    - Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
+
+??? note "Flaming-Heart" 
+
+    - A flaming-heart is required to create a stat bondmate. There are no exceptions.
+    - The flaming-heart has several conditions:
+        - Bronze grade (minimum level of 30)
+        - Defeat Helmut and Melgina/Octoranus
+            - The unit must survive the fight
+            - The game treats defeating Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
+            - Melgina is safer and faster to defeat with low-level units
+        - Trust farm until the flaming-heart appears
+    - You must do these steps in the order listed. The primary reason people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs. If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
+
+## Efficient Trust Farming 
+
+??? note "Trust
+
+=== "Tavern and Camp Conversations"
+
     - For Tavern and Camp conversations the amount of trust points gained depends on two factors:
         - Alignment (Good-Neutral-Evil)
         - Selecting the "best" response to conversational prompts ([Trust Table](../../mechanics/trust/table.md).
@@ -67,14 +83,18 @@
             - Abenius (Good) = Small amount of trust points
             - Yekaterina (Neutral) = Small amount of trust points, but fewer than Abenius
             - Milana (Evil) = 0 trust points 
-    - Battles 
+
+    === "Battles"
+     
         - Battles provide an extremely small amount of trust. It requires 100+ battles before you begin to see pips added to the Compendium. It is unknown whether a character needs to be present or take an action during combat to earn trust points. 
         - The death of a stat bondmate comes with a significant trust penalty. It should be avoided at all costs while leveling or during the GWO fights. 
             - Same alignment as MC = 1-3 additional Camp conversations
             - Different alignment = 2-5 additional Camp conversations
         - If a stat bondmate dies, then make sure the MC dies during the revival mini-game. The "Rise again" or "Accept death" options will negate any trust loss.
         - If you have access to the Martial Training (Guarda Fortress) dispatch this is a safe alternative to manually leveling.
-    - Other Tips
+
+    === "Other Tips" 
+
         - Neutral MC is the optimal alignment when stat bondmate farming.
         - Trust farming should be done with same-alignment parties only when possible. 
         - Lana (Good), Yekaterina (Neutral), and Alice (Evil) are excellent companions to bring along as they will frequently proc camp conversations.
@@ -82,26 +102,34 @@
 
 ??? note "Bondmate Selection"
 
-    - Always use Nameless units (Human Fighter, Elf Mage, etc.) as they have lower trust requirements for a flaming-heart than their General or Legendary counterparts.
-    - General or Legendary adventurers can take 2-3x as long to reach flaming-heart status even if their alignment matches the MC. They also give the same trait bonus amounts as Nameless.
-    - Nameless adventurers:
-        - Will never join a Tavern conversation, but are present during Camp conversations. This is the key to efficient stat bondmate farming.
-        - Receive "spill over" trust points from Camp conversations from adventurer's with the same alignment.
-        - That share the MC's alignment receive an additional trust boost and require few-to-no Camp conversations.
-    - Nameless per trait:
+    === "Why Nameless?"
+
+        - Always use Nameless adventurers (Human Fighter, Elf Mage, etc.) as they have lower trust requirements for a flaming-heart than their General or Legendary counterparts.
+        - General or Legendary adventurers can take 2-3x as long to reach flaming-heart status even if their alignment matches the MC. They also give the same trait bonus amounts as Nameless.
+        - Nameless adventurers:
+            - Will never join a Tavern conversation, but are present during Camp conversations. This is the key to efficient stat bondmate farming.
+            - Receive "spill over" trust points from Camp conversations from adventurer's with the same alignment.
+            - That share the MC's alignment receive an additional trust boost and require few-to-no Camp conversations.
+        - Nameless that share MC's alignment will usually get a flaming-heart after defeating the second GWO - as long as they did not die at any point. If they do not instantly receive the flaming-heart, then it usually requires 1-2 Camp conversations.
+        - Putting all BP into SPD is recommended to ensure the stat bondmates can move before Melgina/Octo to defend against their attacks.
+
+    === "Nameless per Trait"
+
         - STR - Human Fighter (Neutral)
         - DEX - Beast Thief (Evil) 
         - IQ - Elf Mage (Neutral)
         - SPD - Human Ninja (Evil)
         - VIT - Dwarf Knight (Good) 
         - PIE - Human Priest (Good), Elf Priest (Evil)
-    - The only General units that you may want to consider using are Philip (Neutral) and Viviana (Evil) for SPD. 
+
+    === "Alternative Options" 
+    
+        - The only General units that you may want to consider using are Philip (Neutral) and Viviana (Evil) for SPD. 
         - The Human-Ninja (Evil) requires 830K EXP to reach level 30 versus 330K EXP for Philip and Viviana. 
         - The trade-off is that Philip's inherit, Delay Attack, can be very useful if using battle speed strategies in conjunction with MC Chrono 1-2. 
         - Viviana's inherit, Hiding, is no longer as attractive as it used to be, but she is one of the more difficult characters to build trust with if you are not using an Evil MC.  
-    - To repeat - Nameless units that share MC's alignment will usually get a flaming-heart after defeating the second GWO - as long as they did not die at any point. If they do not instantly receive the flaming-heart, then it usually requires 1-2 Camp conversations.
-    - Putting all BP into SPD is recommended to ensure the stat bondmates can move before Melgina/Octo to defend against their attacks.
- 
+        
+    
 ??? note "Trust Farming Process"
 
     - Ensure that every unit (besides the MC) shares the same alignment as the stat bondmate. 
@@ -120,20 +148,20 @@
 
     !!! warning "Do not start trust farming until the stat bondmates have been promoted to Bronze grade and have defeated both GWOs." 
 
-??? note "Putting It All Together"
+## Putting It All Together
 
-    - Bronze grade (level 30)
-    - Defeat Helmu and Melgina/Octo
-    - Make sure the stat bondmate did not die at any point during this process 
-    - Trust farm with a same-alignment team until the flaming-heart appears 
-    - Go to the Guild and attach any two, level 5 bondmates in the Training Room to the stat bondmate 
-    - Double-check that the flaming-heart is present, the two, level 5 bondmates are equipped, and that the unit is not locked 
-    - Dismiss
-    - During the dismissal scene you will be notified that the adventurer is now a bondmate
-    - Bronze tag will be refunded 
-    - Check the Bondmate List to see if they turned out to be a level 4 or 5
+- Bronze grade (level 30)
+- Defeat Helmu and Melgina/Octo
+- Make sure the stat bondmate did not die at any point during this process 
+- Trust farm with a same-alignment team until the flaming-heart appears 
+- Go to the Guild and attach any two, level 5 bondmates in the Training Room to the stat bondmate 
+- Double-check that the flaming-heart is present, the two, level 5 bondmates are equipped, and that the unit is not locked 
+- Dismiss
+- During the dismissal scene you will be notified that the adventurer is now a bondmate
+- Bronze tag will be refunded 
+- Check the Bondmate List to see if they turned out to be a level 4 or 5
 
-    !!! warning "Do not forget to double-check you remembered to add the two, level 5 bondmates. This is the number one reason why this process can fail."
+!!! warning "Do not forget to double-check you remembered to add the two, level 5 bondmates. This is the number one reason why this process can fail."
 
 ## Bondmate Trait Table
 
