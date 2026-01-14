@@ -69,20 +69,20 @@
 
 ??? note "Trust
 
-=== "Tavern and Camp Conversations"
+    === "Tavern and Camp Conversations"
 
-    - For Tavern and Camp conversations the amount of trust points gained depends on two factors:
-        - Alignment (Good-Neutral-Evil)
-        - Selecting the "best" response to conversational prompts ([Trust Table](../../mechanics/trust/table.md).
-        - More trust points are earned if the MC's alignment is the same as his conversation partner. For example, Neutral MC and Yekaterina (Neutral) will earn more trust points than Neutral MC and Milana (Evil) even if you provided the "best" response to both.
-        - Few-to-no trust points are earned with Good-Evil pairings. 
-    - "Spillover Trust"
-        - Other adventurers present during Tavern or Camp conversations gain a small amount of trust even if they are not directly participating. 
-        - For example, if Good MC and Lana (Good) had a conversation with the "best" response selected, then:
-            - Lana (Good) = Maximum amount of trust points
-            - Abenius (Good) = Small amount of trust points
-            - Yekaterina (Neutral) = Small amount of trust points, but fewer than Abenius
-            - Milana (Evil) = 0 trust points 
+        - For Tavern and Camp conversations the amount of trust points gained depends on two factors:
+            - Alignment (Good-Neutral-Evil)
+            - Selecting the "best" response to conversational prompts ([Trust Table](../../mechanics/trust/table.md).
+            - More trust points are earned if the MC's alignment is the same as his conversation partner. For example, Neutral MC and Yekaterina (Neutral) will earn more trust points than Neutral MC and Milana (Evil) even if you provided the "best" response to both.
+            - Few-to-no trust points are earned with Good-Evil pairings. 
+        - "Spillover Trust"
+            - Other adventurers present during Tavern or Camp conversations gain a small amount of trust even if they are not directly participating. 
+            - For example, if Good MC and Lana (Good) had a conversation with the "best" response selected, then:
+                - Lana (Good) = Maximum amount of trust points
+                - Abenius (Good) = Small amount of trust points
+                - Yekaterina (Neutral) = Small amount of trust points, but fewer than Abenius
+                - Milana (Evil) = 0 trust points 
 
     === "Battles"
      
@@ -146,7 +146,7 @@
     - Exit
     - Repeat this process until the flaming-heart procs on the stat bondmate. 
 
-    !!! warning "Do not start trust farming until the stat bondmates have been promoted to Bronze grade and have defeated both GWOs." 
+        !!! warning "Do not start trust farming until the stat bondmates have been promoted to Bronze grade and have defeated both GWOs." 
 
 ## Putting It All Together
 
