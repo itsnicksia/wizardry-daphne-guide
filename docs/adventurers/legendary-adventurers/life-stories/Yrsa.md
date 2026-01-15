@@ -34,3 +34,16 @@ In defying the clanlord's order to leave her father alone, she knew she could no
 
 ### Page 4  
 
+Dwarves and elves were at odds with one another. The village of elves considered the Ironwood a safeguard, a natural bulwark against the White Calamity that kept their homes safe. The dwarves of the Ironwood looked upon elves with disdain.
+
+Yet Yrsa journeyed to the elven village time and again, bowing her head with earnest humility each time she arrived. Shunned by her fellow dwarves, and regarded with wariness by the elves, she never wavered in her determination to reclaim her father while leaving the Ironwood unscathed.
+
+All the while, the White Calamity prowled the forest. striking at the dwarves as they performed their drive hunt. By now, it knew the flavor of dwarves all too well. If the White Calamity was not hunted down, one by one the dwarves would be devoured. But should they go through with the drive hunt, an attack by the White Calamity was all but certain.
+
+The choice was staric to fight, or to forsake their pride as guardians and flee. There, in the midst of the clanlord's plight, came a rapping at his door. Standing on the threshold as the great door swung wide stood Yrsa. drenched in blood.
+
+"The White Calamity is finished..."  
+Though he had his doubts, the clanlord allowed Yrsa to lead him into the mountains. There, without any doubt, lay the lifeless corpse of the White Calamity.
+
+### Page 5
+
