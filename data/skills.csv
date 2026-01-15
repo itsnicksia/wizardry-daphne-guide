@@ -10,7 +10,7 @@ Air Type Thaumaturgy,Passive,,Reduces air-type damage to self.,Damage decreased 
 Air-Kin Blessing,Passive,,Reduces air type damage for beastfolk in the same row.,,,,,Amelia,
 Albano's Revulsion,Bondmate,,Continuously increases Defense Power and Paralysis Tolerance.,Defense Power and Paralysis Tolerance increased further based on skill level.,,,,Bondmate,
 Alchemist of Rebirth,Discipline,,"Continuously increases each stat, with MP and Piety increased even further.",MP and Piety further increased based on skill level.,,,,Raffaello,
-Alchemized Anima Dissolution,Active,True,Deals moderate untyped spell damage based on Piety to 1 enemy row. Restores the HP of allies in the front row based on the damage dealt. Damage and HP recovery are reduced if learned by someone other than Raffaello.,Efficacy increased based on skill level.,,,,Raffaello,
+Alchemized Anima Dissolution,Damage,True,Deals moderate untyped spell damage based on Piety to 1 enemy row. Restores the HP of allies in the front row based on the damage dealt. Damage and HP recovery are reduced if learned by someone other than Raffaello.,Efficacy increased based on skill level.,,,,Raffaello,
 All Cover,Active,True,Chance to beat single-target attacks in place of all allies for 1 turn.,Defense Power Up incrementally added based on skill level. Probability and Defense Power increased further. More turns added.,40,Knight,Knight-specific,,Eldorado
 All-Around Cover,Active,,Chance to intercept single-target attacks aimed at all allies for 1 turn (affected by Luck). The user enters a defensive state. The defensive state granted by this skill is unaffected by duration-extending skills.,Defense Power Up incrementally added based on skill level. Turns added incrementally. Probability and Defense Power further increased.,67,Knight,Knight-specific,,
 Amnesiac Corpse Retriever,Discipline,,"Continuously increases each stat, with Attack Power, Magic Power, SP, and MP increased further.","Attack Power, Magic Power, SP, and MP further increased based on skill level.",,,,Iarumas,
@@ -405,6 +405,7 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
