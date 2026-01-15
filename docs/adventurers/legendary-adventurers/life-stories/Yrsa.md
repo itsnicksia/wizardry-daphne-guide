@@ -32,8 +32,7 @@ When she came across the mounds where the White Calamity had hidden its food, sh
 In defying the clanlord's order to leave her father alone, she knew she could no longer expect the dwarves to lend their aid. Still, by herself, no solution presented itself that could be called a good course of action. And so it came to her to learn the elves' way of hunting.
 
 
-### Page 4  
-
+### Page 4   
 Dwarves and elves were at odds with one another. The village of elves considered the Ironwood a safeguard, a natural bulwark against the White Calamity that kept their homes safe. The dwarves of the Ironwood looked upon elves with disdain.
 
 Yet Yrsa journeyed to the elven village time and again, bowing her head with earnest humility each time she arrived. Shunned by her fellow dwarves, and regarded with wariness by the elves, she never wavered in her determination to reclaim her father while leaving the Ironwood unscathed.
@@ -45,5 +44,11 @@ The choice was staric to fight, or to forsake their pride as guardians and flee.
 "The White Calamity is finished..."  
 Though he had his doubts, the clanlord allowed Yrsa to lead him into the mountains. There, without any doubt, lay the lifeless corpse of the White Calamity.
 
-### Page 5
+### Page 5  
+The White Calamity's corpse was wholly discolored by poison, its hide torn by countless wounds from traps, and both of its eyes ruined by well-placed arrows.
 
+Harrying prey through prodigious use of traps and polson-such was the elven art of the hunt-where keen intellect and patience overcame brute strength. Persuaded by Yrsa's fierce resolve, and by the sober calculation that if the dwarves were hunted down, their own village would soon stand exposed to the direbear threat, the elves agreed to grant her their wisdom.
+
+The dwarves found themselves divided. Some spoke in admiration of Yrsa's bowcraft, which pierced the White Calamity's eyes, and of the deep devotion she showed toward her father. Yet far more voices rose in condemnation, decrying her for defying the clanlord's order and taking assistance from elves. Yrsa had anticipated that this would happen. She placed the bones of her father and fallen companions, recovered from the White Calamity's lair, into their hands, then turned away and left the forest in deliberate silence.
+
+Yrsa withdrew from the world, taking up a quiet life in a small, secluded cabin far from any community. Even so, rumors of the hero who had slain the White Calamity single-handedly spread in the blink of an eye, and soon folk of many races began to seek her out, asking to become her apprentices.
