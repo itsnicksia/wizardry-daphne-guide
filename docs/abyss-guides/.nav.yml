@@ -25,16 +25,4 @@ nav:
       - Faction Requests: './4-isberg/faction-requests.md'
       - Important Request /<br>Greater Warped One: './4-isberg/important-request-gwo.md'
       - Wandering NPCs: './4-isberg/wandering-npcs.md'
-  - Ancient Mausoleum: './ancient-mausoleum/maps.md'
-  - Dens:
-      - Den of Earth: './dens/den-of-earth.md'
-      - Den of Fire: './dens/den-of-fire.md'
-      - Den of Wind: './dens/den-of-wind.md'
-      - Den of Light: './dens/den-of-light.md'
-      - Den of Water: './dens/den-of-water.md'
-  - Grade Exams: './grade-exams/maps.md'
-  - Request from an Ally:
-      - Symbol of Alliance: './request-from-an-ally/symbol-of-alliance.md'
-      - Arna's Past: './request-from-an-ally/arnas-past.md'
-      - Memories of Charlotte: './request-from-an-ally/memories-of-charlotte.md'
-  - Bounties: './bounties/bounties.md'
+
