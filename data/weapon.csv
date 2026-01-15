@@ -104,9 +104,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 92,2H_Sword!A92,2H_Sword,,Silver Greatsword,Silver,1,,,132,0,0,0,0,-4,15,0,-2,0,165,0,0,0,0,-4,15,0,-2,0,191,0,0,0,0,-4,15,0,-2,0,214,0,0,0,0,-4,15,0,-2,0,231,0,0,0,0,-4,15,0,-2,0,Strength-Based +
 98,2H_Sword!A98,2H_Sword,,Earthrend Greatsword,Silver,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Earth Type"
 104,2H_Sword!A104,2H_Sword,,Seafoam Greatsword,Silver,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Fire Type"
-110,2H_Sword!A110,2H_Sword,,Icebreaker,Silver,1,,,130,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,189,0,0,0,0,-4,15,0,-2,0,212,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,"Strength-Based +, Vs Ice, Freeze Shatter"
-116,2H_Sword!A116,2H_Sword,,Beast Buster,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,"Strength-Based +, Magical Beast-Slayer"
-122,2H_Sword!A122,2H_Sword,,Nordic Sword,Silver,1,75000,,122,0,0,0,0,-4,35,1,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, ???"
+110,2H_Sword!A110,2H_Sword,,Beast Buster,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,"Strength-Based +, Magical Beast-Slayer"
+116,2H_Sword!A116,2H_Sword,,Icebreaker,Silver,1,,,130,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,189,0,0,0,0,-4,15,0,-2,0,212,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,"Strength-Based +, Vs Ice, Freeze Shatter"
+122,2H_Sword!A122,2H_Sword,,Nordic Sword,Silver,1,75000,,122,0,0,0,0,-4,35,1,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Is this supposed to be the Tundra Sword???"
 128,2H_Sword!A128,2H_Sword,Ex.,Devourer of Ruin,Silver,1,,,152,0,0,0,0,-4,20,15,-2,0,,,,,,,,,,,218,0,0,0,0,-4,29,24,-2,0,231,0,0,0,0,-4,31,26,-2,0,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit, Attack Power Up"
 134,2H_Sword!A134,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Sword!A140,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -221,9 +221,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 92,1H_Mace!A92,1H_Mace,151,Warmace of the Aurora,Ebonsteel,1,,1188,74,0,0,0,0,0,4,-4,2,0,90,0,0,0,0,0,4,-4,2,0,106,0,0,0,0,0,4,-4,2,0,122,0,0,0,0,0,4,-4,2,0,139,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Light Type"
 98,1H_Mace!A98,1H_Mace,161,Warmace of Eternal Darkness,Ebonsteel,1,,1188,74,0,0,0,0,0,4,-4,2,0,90,0,0,0,0,0,4,-4,2,0,106,0,0,0,0,0,4,-4,2,0,122,0,0,0,0,0,4,-4,2,0,139,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Dark Type"
 104,1H_Mace!A104,1H_Mace,Ex.,Mace of Power,Ebonsteel,1,,,64,0,0,0,0,-1,4,-4,2,0,80,0,0,0,0,-1,4,-4,2,0,96,0,0,0,0,-1,4,-4,2,0,112,0,0,0,0,-1,4,-4,2,0,129,0,0,0,0,-1,4,-4,2,0,"Inflict Stun (Divine Power), Evasion Damage"
-110,1H_Mace!A110,1H_Mace,,Beast Breaker,Silver,1,,,87,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun (Divine Power), Evasion Damage, Magical Beast-Slayer"
-116,1H_Mace!A116,1H_Mace,,Earthrend Mace,Silver,1,,,87,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun (Divine Power), Evasion Damage, Earth Type"
-122,1H_Mace!A122,1H_Mace,,Seafoam Mace,Silver,1,,,87,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun (Divine Power), Evasion Damage, Water Type"
+110,1H_Mace!A110,1H_Mace,,Beast Breaker,Silver,1,,,87,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,165,0,0,0,0,0,4,-4,2,0,"Inflict Stun (Divine Power), Evasion Damage, Magical Beast-Slayer"
+116,1H_Mace!A116,1H_Mace,,Earthrend Mace,Silver,1,,,87,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,165,0,0,0,0,0,4,-4,2,0,"Inflict Stun (Divine Power), Evasion Damage, Earth Type"
+122,1H_Mace!A122,1H_Mace,,Seafoam Mace,Silver,1,,,87,0,0,0,0,0,4,-4,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,165,0,0,0,0,0,4,-4,2,0,"Inflict Stun (Divine Power), Evasion Damage, Water Type"
 128,1H_Mace!A128,1H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 134,1H_Mace!A134,1H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,1H_Mace!A140,1H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -309,9 +309,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 92,2H_Spear!A92,2H_Spear,163,Heavy Spear of Eternal Darkness,Ebonsteel,1,,1625,92,0,0,0,0,0,10,0,4,0,115,0,0,0,0,0,10,0,4,0,137,0,0,0,0,0,10,0,4,0,160,0,0,0,0,0,10,0,4,0,182,0,0,0,0,0,10,0,4,0,"Strength-Based +, Dark Type"
 98,2H_Spear!A98,2H_Spear,Ex.,Shadow Leopard,Ebonsteel,1,,,92,0,0,0,0,4,10,0,8,0,115,0,0,0,0,4,10,0,8,0,137,0,0,0,0,4,10,0,8,0,160,0,0,0,0,4,10,0,8,0,182,0,0,0,0,4,10,0,8,0,Strength-Based +
 104,2H_Spear!A104,2H_Spear,,Silver Two-Handed Spear,Silver,1,,,114,0,0,0,0,0,10,0,5,0,147,0,0,0,0,0,10,0,5,0,173,0,0,0,0,0,10,0,5,0,196,0,0,0,0,0,10,0,5,0,213,0,0,0,0,0,10,0,5,0,Strength-Based +
-110,2H_Spear!A110,2H_Spear,,Beast Penetrator,Silver,1,,,110,0,0,0,0,0,10,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Magical Beast-Slayer"
-116,2H_Spear!A116,2H_Spear,,Earthrend Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Earth Type"
-122,2H_Spear!A122,2H_Spear,,Seafoam Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Water Type"
+110,2H_Spear!A110,2H_Spear,,Beast Penetrator,Silver,1,,,110,0,0,0,0,0,10,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Magical Beast-Slayer"
+116,2H_Spear!A116,2H_Spear,,Earthrend Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Earth Type"
+122,2H_Spear!A122,2H_Spear,,Seafoam Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Water Type"
 128,2H_Spear!A128,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 134,2H_Spear!A134,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Spear!A140,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -428,7 +428,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 122,Bow!A122,Bow,,Beast Eraser,Silver,1,,,109,0,0,0,0,0,4,0,0,0,142,0,0,0,0,0,4,0,0,0,168,0,0,0,0,0,4,0,0,0,191,0,0,0,0,0,4,0,0,0,208,0,0,0,0,0,4,0,0,0,"Strength-Based +, Magical Beast-Slayer"
 128,Bow!A128,Bow,,Earthrend Bow,Silver,1,,,109,0,0,0,0,0,4,0,0,0,142,0,0,0,0,0,4,0,0,0,168,0,0,0,0,0,4,0,0,0,191,0,0,0,0,0,4,0,0,0,208,0,0,0,0,0,4,0,0,0,"Strength-Based +, Earth Type"
 134,Bow!A134,Bow,,Seafoam Bow,Silver,1,,,109,0,0,0,0,0,4,0,0,0,142,0,0,0,0,0,4,0,0,0,168,0,0,0,0,0,4,0,0,0,191,0,0,0,0,0,4,0,0,0,208,0,0,0,0,0,4,0,0,0,"Strength-Based +, Water Type"
-140,Bow!A140,Bow,,Verdant Frost Branch Bow,Silver,1,,,113,0,0,0,0,0,10,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Passive SP Up"
+140,Bow!A140,Bow,,Verdant Frost Branch Bow,Silver,1,,,113,0,0,0,0,0,10,0,0,0,146,0,0,0,0,0,10,0,0,0,172,0,0,0,0,0,10,0,0,0,195,0,0,0,0,0,10,0,0,0,212,0,0,0,0,0,10,0,0,0,"Strength-Based +, Passive SP Up"
 146,Bow!A146,Bow,Ex,Winterthorn Bell Bow,Silver,1,,,120,0,0,0,0,0,12,0,0,0,159,0,0,0,0,0,17,0,0,0,186,0,0,0,0,0,21,0,0,0,199,0,0,0,0,0,23,0,0,0,,,,,,,,,,,"Strength-Based +, Attack Power Decrease"
 152,Bow!A152,Bow,Ex,Mountain Huntsman's Trick Bow,Silver,1,,,80,0,0,0,0,0,50,0,0,0,,,,,,,,,,,146,0,0,0,0,0,59,0,0,0,159,0,0,0,0,0,61,0,0,0,,,,,,,,,,,"Strength-Based +, Area-of-Effect Attack Enhancement"
 158,Bow!A158,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
