@@ -13,6 +13,8 @@ Three runs are necessary to fully complete the request "Bring Me an Alabaster Pe
 
 !!! bug "At the moment, it is possible to softlock the game by stepping on a spike trap in this cave. It can be resolved by restarting the game."
 
+!!! bug "If for any reason your fight with the Alabaster on the last floor becomes softlocked (The model is visible, but the fight won't trigger), you will need to reset the request to progress. This bug seems to happen when fighting the wolf on an ending route, losing and then switching to a different ending route before attempting the fight again."
+
 ##### Alabaster Wolf Den 
 
 ??? map "B1F"
