@@ -1,7 +1,5 @@
 # Preparation of an Offering to My God
 
-!!! bug "Doing this request with a merged Alice will result in her inherit skill getting bugged (forced back to level 1) upon changing to her original form and back after completing the request"
-
 ## Request Requirements
 
 * Alice must in the party
