@@ -30,7 +30,7 @@ Once the requirements are met, the "request" will be available upon entering the
 
 ??? map "Cave of Thunder"
 
-    ![](./ing/cave-of-thunder.jpg)
+    ![](./img/cave-of-thunder.jpg)
 
     
 
