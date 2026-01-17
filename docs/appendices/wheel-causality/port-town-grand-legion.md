@@ -122,40 +122,38 @@
 - It records all of the sub-endings per faction for the Viscount Guane request.
 - Note that the Princess route has a series of sub-ending questions unlike Pontiff or Admiral. 
 
-??? note "Causal Selection by Faction" 
+??? note "Client of a job in Guane's lands"
+    - Princess Pulgritte
+    - Pontiff Leaufonde
+    - Admiral Avare
 
-    ??? note "Client of a job in Guane's lands"
-        - Princess Pulgritte
-        - Pontiff Leaufonde
-        - Admiral Avare
+??? note "Princess Route - Dispute between Guane's knights and his people"
+        - Protected the people
+        - Did nothing
 
-    ??? note "Princess Route - Dispute between Guane's knights and his people"
-            - Protected the people
-            - Did nothing
+    ??? "The Princess's Questions"
 
-        ??? "The Princess's Questions"
+        - Why did she protect the commmoners?
+            - Didn't resist
+            - Somehow
 
-            - Why did she protect the commmoners?
-                - Didn't resist
-                - Somehow
+        - Why not help the Viscount?
+            - Because what Guane is doing is wrong
+            - Because Guane is a noble 
 
-            - Why not help the Viscount?
-                - Because what Guane is doing is wrong
-                - Because Guane is a noble 
+        - Should the Viscount be aided?
+            - I don't understand noble business
+            - There was no need 
 
-            - Should the Viscount be aided?
-                - I don't understand noble business
-                - There was no need 
+??? note "Pontiff Route - Inquisition in Guane's lands"
+    - Gave Guane's knights over to the Inquisition 
+    - Took money from Guane and returned
+    - Took Guane back 
 
-    ??? note "Pontiff Route - Inquisition in Guane's lands"
-        - Gave Guane's knights over to the Inquisition 
-        - Took money from Guane and returned
-        - Took Guane back 
-
-    ??? note "Admiral Route - Beastfolk Child Rescue: Expose the trade" 
-        - Attack to get her back 
-        - Negotiate for her return
-        - Catch them trafficing beastfolk red-handed 
+??? note "Admiral Route - Beastfolk Child Rescue: Expose the trade" 
+    - Attack to get her back 
+    - Negotiate for her return
+    - Catch them trafficing beastfolk red-handed 
     
 
 
