@@ -127,30 +127,30 @@ This is a blue tab on the bottom-left of the Cursed Wheel that can only be viewe
         - Pontiff Leaufonde
         - Admiral Avare
 
-    ??? note "Princess Route"
-    
-        ??? note "Dispute between Guane's knights and his people"
+    ??? note "Princess Route - Dispute between Guane's knights and his people"
             - Protected the people
             - Did nothing
-    
-        ??? note "The Princess's Question: Why did she protect the commoners?"
-            - Didn't resist
-            - Somehow
-    
-        ??? note "The Princess's Question: Why not help the Viscount?"
-            - Because what Guane is doing is wrong
-            - Because Guane is a noble 
-    
-        ??? note "The Princess's Question: Should the Viscount be aided?"
-            - I don't understand noble business
-            - There was no need
+
+        ??? "The Princess's Questions"
+
+            - Why did she protect the commmoners?
+                - Didn't resist
+                - Somehow
+
+            - Why not help the Viscount?
+                - Because what Guane is doing is wrong
+                - Because Guane is a noble 
+
+            - Should the Viscount be aided?
+                - I don't understand noble business
+                - There was no need 
 
     ??? note "Pontiff Route - Inquisition in Guane's lands"
         - Gave Guane's knights over to the Inquisition 
         - Took money from Guane and returned
         - Took Guane back 
 
-    ??? note "Admiral Route - Beastfolk Child Rescue: Expose the trade" Inquisition (Pontiff) in Guane's lands"
+    ??? note "Admiral Route - Beastfolk Child Rescue: Expose the trade" 
         - Attack to get her back 
         - Negotiate for her return
         - Catch them trafficing beastfolk red-handed 
