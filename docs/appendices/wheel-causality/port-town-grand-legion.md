@@ -128,8 +128,8 @@
     - Admiral Avare
 
 ??? note "Princess Route - Dispute between Guane's knights and his people"
-        - Protected the people
-        - Did nothing
+    - Protected the people
+    - Did nothing
 
     ??? "The Princess's Questions"
 
