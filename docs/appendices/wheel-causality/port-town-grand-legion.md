@@ -118,7 +118,9 @@
 
 ## Causal Selection by Faction 
 
-This is a blue tab on the bottom-left of the Cursed Wheel that can only be viewed when Return to the Capital is selected. It records all of the sub-endings per faction for the Viscount Guane request.
+- This is a blue tab on the bottom-left of the Cursed Wheel that can only be viewed when Return to the Capital is selected.
+- It records all of the sub-endings per faction for the Viscount Guane request.
+- Note that the Princess route has a series of sub-ending questions unlike Pontiff or Admiral. 
 
 ??? note "Causal Selection by Faction" 
 
