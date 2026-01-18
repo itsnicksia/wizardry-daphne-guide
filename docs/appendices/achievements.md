@@ -1,4 +1,4 @@
-# Achievements
+<img width="390" height="136" alt="image" src="https://github.com/user-attachments/assets/db364ef4-26f3-4773-8678-2a6469cef543" /># Achievements
 
 === "Abyss"
 
@@ -23,11 +23,16 @@
     | Trade Waterway Shipboard 1st Level Cleared          | Make it all the way through the first level of the galleon in the Trade Waterway.  |
     | Trade Waterway Shipboard 2nd Level Cleared          | Make it all the way through the second level of the galleon in the Trade Waterway. |
     | Trade Waterway Greater Warped One Slain             | Slay the greater warped one of the Trade Waterway.                                 |
+    | Trade Waterway Search Complete                      | Search for the missing person in the Trade Waterway and complete the request.      |  
     | Impregnable Fortress -Old Secret Passage- Cleared   | Make it all the way through the Impregnable Fortress -Old Secret Passage-.         |
     | Impregnable Fortress -Prehistoric Corridor- Cleared | Make it all the way through the Impregnable Fortress -Prehistoric Corridor-.       |
     | Impregnable Fortress -Fortress- Cleared             | Make it all the way through the Impregnable Fortress -Fortress-.                   |
     | Impregnable Fortress Greater Warped One Slain       | Slay the Greater Warped One of the Impregnable Fortress.                           |
     | Impregnable Fortress, The Duke Rescued              | Slay the Greater Warped One of the Impregnable Fortress and rescue Duke Ixion.     |
+    | Deepsnow Hinterlands Route 3 -Rockhome Village- Cleared | Make it all the way through the Deepsnow Hinterlands Route 3 -Rockhome Village -.   |
+    | Deepsnow Hinterlands Route 6 -South Lakeshore- Cleared  | Make it all the way through the Deepsnow Hinterlands Route 6 -South Lakeshore-.     |
+    | Deepsnow Hinterlands Church Reached                 | Reach the church in the Deepsnow Hinterlands.                                           |
+    | Deepsnow Hinterlands Greater Warped One Slain       | Slay the Greater Warped One of the Deepsnow Hinterlands and deliver the canary crystals.|
     | They All Made it Out Alive                          | Successfully complete the mission without any of the knights dying.                |
     | Reconciled with His Uncle                           | Albano and his uncle reconcile.                                                    |
     | Leave It to Me                                      | Take on and slay two Knight-Butcher Ents.                                          |
@@ -44,9 +49,11 @@
     | Glug Glug Glug...                                   | Win the match against Vernant in an underwater battle.                             |
     | No Ruses                                            | Win the match against Vernant without using any tricks.                            |
     | You Mustn't Touch! Mustn't Ever Touch!              | Take on all of Belkadia's curses.                                                  |
+    | The Lulunarde Special                               | Go with Lulunarde's best dish.                                                     | 
     | The Tea Party is Over                               | Win by ramming a golem into Our Heirlooms.                                         |
     | Heads Aligned, Fates Sealed                         | Hand over the evidence to Alberio and be executed.                                 |
     | Who's the Mastermind?                               | Get framed by Dalian and be executed.                                              |
+    | Conspiracy Exposed                                  | Expose Alberio's evil deeds and complete the request.                              |
     | Missing Handmaiden and Servant                      | Upon reaching the great hall, only a few captives are still alive.                 |
     | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
     | So Close, Yet So Far                                | Upon reaching the great hall, most of the captives are still alive.                |
@@ -60,13 +67,19 @@
     | Godslayer                                           | Win a battle against Morgus, God of Death                                          |
     | Let us gather around Master Priest                  | Iris turns into crystal and blocks the well.                                       |
     | A Story of Saving One Small Girl                    | Rescue Iris and stop the crystallization spellcraft.                               |
+    | Snowberry Hunter                                    | Find the snowberry patch and gather many.                                          |
     | A Breeze Without the Blizzard I                     | Weaken the blizzard and defeat the bigfoot on the Path of the Nullshadow.          |
+    | A Breeze Without the Blizzard II                    | Weaken the blizzard and defeat the snow wolf leader at the south lakeshore.        |
     | Mask of Slaughter                                   | Kill all the villagers who fled.                                                   |
     | The Old Woman and the White Maiden                  | Perform the ritual with Annis and heal Iris's eyes.                                |
     | Warped Daphnes                                      | See the field of daphnes together with Iris.                                       |
     | Windbreak Craftsman                                 | Reverse time on all the tree stumps and reach the church.                          |
+    | The Carpenter and His Daughter                      | Clear up Greta's misunderstanding, and have Olaf fix up the cabin.                 |
     | The Two Are Always Together                         | Leave Maya in Marta's care.                                                        |
     | Ultimate Ice-Wind Trout                             | Eat the most delicious trout.                                                      |
+    | A Brother to Be Proud Of                            | Find Phillip's body and return it to Elliot.                                       |
+    | Speaking to His Stone Wife                          | Reunite William and Agnes.                                                         |
+    | Father's Teachings                                  | Find Laurent's body and return it to Bernard.                                      |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
     | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
@@ -80,8 +93,14 @@
     | Fighter Sent by the Gods                            | Conduct and Inquisition on One-Legged Ted                                          |
     | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
     | Boss Hunter                                         | Slay the boss of the gorgon herd.                                                  |
+    | [Royal Family] Canary Crystal Delivery Complete     | Deliver the canary crystals on the royal family's request.                         |
+    | [Pontiff] Canary Crystal Delivery Complete          | Deliver the canary crystals on the Pontiff's request.                              |
+    | [Admiral] Canary Crystal Delivery Complete          | Deliver the canary crystals on the Admiral's request.                              |
+    | One Who Carries the Future of Her Land              | Consult with Aegon and put an end to the witch hunts.                              |
+    | A Terrible Nightmare                                | Together with Raimi, put an end to the witch hunts.                                |
+    | Condemn the Witch                                   | Burn the witch at the stake and put an end to the witch hunts.                     |
     | You Are Permitted to Call My Name, but Only Once    | Hand the witch over to Admiral Avare.                                              |
-    
+    | A Witch There Was                                   | Slay the witch and conclude the witch trial.                                       |
 
 === "Adventurer"
 
