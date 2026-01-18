@@ -98,6 +98,7 @@ Good Luck, and **Savor the Risk!**
 - TheAxolotl
 - SocialX
 - nrjank
+- Lightbearer
 
 ## Additional Resources
 
@@ -109,9 +110,7 @@ Good Luck, and **Savor the Risk!**
 
 ## Additional Community Links
 
-While we love that you come to this site for your Wizardry Variants Daphne needs, we recognize that there are many folks in the community out there that have their own spreadsheets, Discord servers, and various other resources. 
-- Below is a list of helpful resources that we encourage you to explore!
-- If you're interested in having a link to your stuff here, feel free to reach out to any of the Fasterthoughts maintainers in Discord above!
+While we love that you come to this site for your Wizardry Variants Daphne needs, we recognize that there are many folks in the community out there that have their own spreadsheets, Discord servers, and various other resources. Below is a list of helpful resources that we encourage you to explore. If you're interested in having a link to your stuff here, feel free to reach out to any of the Fasterthoughts maintainers in Discord above!
 
 - [Beautiful Demise's Relic Database](https://docs.google.com/document/d/17V8hpp1BenAwvIckacvj4JCiiFsNsTq1QPmNFXlaAjw/edit?tab=t.0)
     - We'll eventually absorb this one into the site, but until then, check out out!
@@ -120,4 +119,6 @@ While we love that you come to this site for your Wizardry Variants Daphne needs
 - [CQ's Jeweler Price Evaluator](https://docs.google.com/spreadsheets/d/1ITOduyH5KIfmxcwUk7lXLROQUHE0v4iJXKY7bJ3MwIU/edit?gid=1551869307#gid=1551869307)
     - We'll also eventually absorb this one into the site, but for now, look at it here
 - [Shiro's Not So Short Guide Spreadsheet](https://docs.google.com/spreadsheets/d/1ft6ovj212BiTIBlWihbFX2robYwwevsi0jJzkzo6E3s/edit?gid=1465709314#gid=1465709314)
-- Obligatory disclaimer: We cannot guarantee the accuracy of other community member's work and do not endorse any recommendations on team compositions or individual units.
+
+!!! warning "Obligatory Disclaimer"
+    We cannot guarantee the accuracy of other community member's work and do not endorse any recommendations on team compositions or individual units.
