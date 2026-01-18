@@ -131,8 +131,8 @@
 - Go to the inn upon accepting the request  
 - Go to B5F and kill the mimic to get the glowstone
 
- ??? danger "Godefroi 3rd Run"
-- The Mimic is much stronger than other Abyss 1 Enemies.  As a result, it is not uncommon to delay this Request until you have progressed in Abyss 2 and leveled/geared up further.
+ ??? danger "Floor 5 Mimic"
+- This Mimic is much stronger than other Abyss 1 Enemies.  As a result, it is not uncommon to delay this Request until you have progressed in Abyss 2 and leveled/geared up further.
 - If you wish to attempt this fight between leveles 20-30 it is adviseable to have your entire front row focus on defending as the Mimic is capable of one shotting adventurers at these levels.  This will help with survivability and also allow for openings on the Mimic giving you chances for high bonus damage when exploiting these openings.
 - Casters should focus on debuffing the Mimic, buffing your party, and healing.  Masuloto, Porto, Macaldia, Batilgref, and Dilto are all good choices for buffs and debuffs.
 - Improving your evasion and reducing the Mimic's accuracy will be critical.
