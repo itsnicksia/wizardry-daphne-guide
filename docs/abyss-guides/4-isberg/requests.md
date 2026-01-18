@@ -3,16 +3,29 @@
 !!! warning "Work In Progress"
     - Ctrl + F5 to refresh the page for new updates
     - Faction requests (Witch Hunt in Elden Hill Village and Search for the Missing Persons) have been moved to a [new](./faction-requests.md) page 
+    - Major spoilers ahead
 
+!!! tip "Things To Know In Advance"
+
+    - We recommend you wait to do the Guild requests until after you have beaten the Abyss at least once 
+    - Several requests require: 
+        - The second reversal power, which can only be received after clearing GWO 4-3 
+        - Successful completion of other requests, which are listed as "pre-requisites" 
+    - The enemy difficulty is overall much higher with many requests requiring challenging back-to-back fights  
+    - All requests are reset if you Cursed Wheel to a different Abyss 
+    - The game saves the state of the map after defeating the GWO, including unlocked shortcuts (stumps, mines)
+        - To update the map you have to "wheel-in-place" twice on Truth of the Beautiful Ore
+        - Before starting a request (or multiple requests) do the above step and then Cursed Wheel to your desired node
+    
 ## Snowy Forest Minor Harken
 
-!!! warning "Bugged Request as of 1/17"
+### Recovery of Salted Pork
+
+!!! bug "Bugged Request as of 1/17"
     - As of the last patch several Discord member have reported that this request is not working properly
     - It is possible to repeatedly visit Discovery Points
     - Doing all the requirements correctly will not spawn the Bigfoot boss fight, which is required for the bondmate
     - This notification will be updated as we learn more
-
-### Recovery of Salted Pork
 
 ??? warning "Important Notes"
 
@@ -208,7 +221,7 @@ This request doesn't have any pre-requisites.
 
     - Pre-requisite request: 
         - [Special Local Delicacy](./requests.md#special-local-delicacy) 
-        - If not completed the request will automatically fail otherwise 
+        - If not completed the request will automatically fail  
     - Entering from the Route 6 Harken allows you to reverse the blizzard zones in advance before fighting
     - Cursed Wheeling twice on Truth of the Beautiful Ore and then wheeling to Slaying the White Wolves will automatically reverse all blizzard zones
     - There is no special text, sound, or battle music to signal a wolf pack encounter aside from the boss fight
@@ -261,27 +274,34 @@ This request doesn't have any pre-requisites.
 
 ### Ore Mining
 
-You need to complete Unforgivable Wolves. Otherwise, this request will automatically fail.
+??? warning "Important Notes" 
+
+    - Pre-requisite request: 
+        - [Unforgivable Wolves](./requests.md#unforgivable-wolves) 
+        - If not completed the request will automatically fail  
+    - The ore you are collecting is located on Route 8, which is split into two parts that are not connected to each other. 
+    - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) is helpful to traverse the area easier, but it is not required. 
 
 ??? note "Request Guide"
 
     === "Walkthrough"
 
-        - Head to Route 7 from Route 6 Harken. This is because you will need to access both Route 7 to Route 8 entrances.
-        - The gist of this request is that you're picking up some rocks (shiny objects on the floor) in Route 8.
-        - The location of several high value rocks are typically static. For example, (X:4,Y:8) and (X:26,Y:21) are guarded by 2 Stonefolk frontline, and 2 Lamenting Snowfolk backline. They have much higher HP and DEF than randomly encountered ones. These rocks are silver ore.
-        - After collecting 5 rocks, return to turn them in. The merchant will test you on which rocks you think are most valuable and which are cheapest. He will pay you accordingly.
+        - The goal of this request is to collect 5 rocks (white, shiny objects on the floor) scattered throughout Route 8.
+        - You have two options on your preferred starting point:
+            - Select Route 6 and then enter Route 7 to access the stairways to Route 8.
+            - Select Route 7 and use the shortcuts to access the stairways to Route 8.
+            - As previously noted, you have to explore both parts of Route 8 to collect all 5 stones and the order you do them in does not matter. 
+        - The location of several high-value rocks are typically static. For example, (X:4,Y:8) and (X:26,Y:21) are guarded by 2 Stonefolk frontline, and 2 Lamenting Snowfolk backline. They have much higher HP and DEF than randomly encountered ones. These rocks are Silver Ore.
+        - After collecting 5 rocks, return to the Guild and turn them in. The merchant will test you on which rocks you think are most valuable and which are cheapest. He will pay you accordingly.
         - After potentially getting scammed, he will answer what type of rock is what type of material. Request completed.
 
-    === "Map"
+    === "Ore Locations"
 
-        ??? map "Ore Locations"
+        <div align="center">
+        ![](./img/ore-mining-loc.jpg)
+        </div>
 
-            <div align="center">
-            ![](./img/ore-mining-loc.jpg)
-            </div>
-
-            - Double marks = Boss enemy guarding ore
+        - Double marks = Boss enemy guarding ore
 
     === "Rock Values"
 
