@@ -31,26 +31,26 @@ Three runs are necessary to fully complete the request "Bring Me an Alabaster Pe
 - Accept the request at the Royal Capital Adventurer's Guild. You will be briefed shortly about what to do. Having a Ranger on your team will provide different text.
 - Go to the world map and head to the cave.
 - Continue through the cave. Be wary that there are many spike traps at dead ends and room edges. There are also two pitfall traps on each floor that lead to meaningless empty rooms. Eventually, you will find the wolf on the right middle section of B2F. You will attempt to fight it, but it will have infinite HP and will eventually run away.
-- Head to B3F and find a dead body on the floor. It is not necessary to revive it at the moment, but you could bring it back to the temple in any city to get some lore.
+- Head to B3F and find a dead body on the floor. (Update) With a recent patch it is now required to bring the dead body back to the Temple and speak with the Hunter otherwise the wolf will not spawn on B3F. 
 - Find the wolf again on B3F at the bottom left room. Fight it again, it self-buffs at the start with 4 turns of ATK and CT. It moves twice a turn and can attack out of turn when taking damage. It has only around 10k HP.
 - However, once you defeat it, you will fail to capture it as a second wolf appears and saves it. You will gain a knowledge that there are two wolves. The request is automatically failed. You must go to the adventurer's guild and turn in the request failed. Cursed Wheel the event and accept the request again.
 
 ### 2nd Run 
 
 - Go back into the cave, and this time you will be prompted to attack or skip the 1st wolf. Skip it this time and walk around it. In this run again, you still do not need to resurrect the body on the 3rd floor.
-- Head to 3f. This time you will need to fight both wolves at once. The fight plays the same but now they both have an additional accuracy buff. Upon beating them however, you will receive a damaged wolf pelt. You gain the knowledge this time that fighting both will result in a damaged pelt. Upon turning in the request, it will automatically fail again, but you do not need to turn in a failed request. You can simply Cursed Wheel.
+- Head to B3F. This time you will need to fight both wolves at once. The fight plays the same but now they both have an additional accuracy buff. Upon beating them however, you will receive a damaged wolf pelt. You gain the knowledge this time that fighting both will result in a damaged pelt. Upon turning in the request, it will automatically fail again, but you do not need to turn in a failed request. You can simply Cursed Wheel.
 
 ### 3rd Run - Good Ending
 
-- Go back to the cave and this time, skip the 1st wolf. Go pick up the dead hunter and bring back to any temple. If you have a Ranger, you can get some advice from him. If not then pay him 1000 gold and receive some bait. Head back to the 1st wolf's general area and automatically put down the bait.
-- Head to 3f and beat the wolf by itself. If you do not have a ranger, the wolf will automatically be dead after the end of the battle. You will have to fight the second wolf immediately after this battle, however they will have permanent buffs instead and can attack after every turn.
+- Go back to the cave and this time, skip the 1st wolf. Go pick up the dead hunter and bring back to any temple. If you have a Ranger, you can get some advice from him. If not then pay him 1,000 gold and receive some bait. Head back to the 1st wolf's general area and automatically put down the bait.
+- Head to B3F and beat the wolf by itself. If you do not have a ranger, the wolf will automatically be dead after the end of the battle. You will have to fight the second wolf immediately after this battle, however they will have permanent buffs instead and can attack after every turn.
 - If you have a ranger, you will be given an option instead if you trapped the 1st wolf with a bear trap. For this ending, select to kill the wolf.
 - Head back to the Adventurer's Guild and turn it in.
 
 ### 4th Run - True Ending (Requires Ranger at Lvl 25)
 
 - Head into the cave and skip the 1st Wolf again. If you have a Ranger in your party, you can continue without resurrecting the dead body if you have knowledge from the previous good ending. Trap the 1st Wolf and choose to let the 1st Wolf go.
-- Head to 3F and beat the wolf. Select the option to let it go. Head back to the 1st wolf and your ranger will automatically release them.
+- Head to B3F and beat the wolf. Select the option to let it go. Head back to the 1st wolf and your ranger will automatically release them.
 - Attempt to head back to the Harken. The wolves will appear and show you the location of the buried coat they took from the dead hunter. You will reverse it into pristine condition, in which you can then turn it in.
 
 ### Rewards
