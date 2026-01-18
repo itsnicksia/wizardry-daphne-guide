@@ -1,4 +1,4 @@
-<img width="390" height="136" alt="image" src="https://github.com/user-attachments/assets/db364ef4-26f3-4773-8678-2a6469cef543" /># Achievements
+# Achievements
 
 === "Abyss"
 
