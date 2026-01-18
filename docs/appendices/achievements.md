@@ -55,8 +55,18 @@
     | Master Bouncer! Yer up!                             | Return to the gambling den and defeat the master bouncer.                          |
     | The Old Master and His Dog                          | Rescue the adventurers and reunite Bibi with Eugen.                                |
     | Ivo's Maliciousness                                 | Complete the Emergency Occurrence request.                                         |
+    | Family Reunited                                     | Alan and Lilly reuinte with Liam.                                                  |    
     | Thaaank...youuu...                                  | Becooome a Bondmmatatete with theeti scarlet Bisque Doll.                          |
     | Godslayer                                           | Win a battle against Morgus, God of Death                                          |
+    | Let us gather around Master Priest                  | Iris turns into crystal and blocks the well.                                       |
+    | A Story of Saving One Small Girl                    | Rescue Iris and stop the crystallization spellcraft.                               |
+    | A Breeze Without the Blizzard I                     | Weaken the blizzard and defeat the bigfoot on the Path of the Nullshadow.          |
+    | Mask of Slaughter                                   | Kill all the villagers who fled.                                                   |
+    | The Old Woman and the White Maiden                  | Perform the ritual with Annis and heal Iris's eyes.                                |
+    | Warped Daphnes                                      | See the field of daphnes together with Iris.                                       |
+    | Windbreak Craftsman                                 | Reverse time on all the tree stumps and reach the church.                          |
+    | The Two Are Always Together                         | Leave Maya in Marta's care.                                                        |
+    | Ultimate Ice-Wind Trout                             | Eat the most delicious trout.                                                      |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
     | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
@@ -70,6 +80,7 @@
     | Fighter Sent by the Gods                            | Conduct and Inquisition on One-Legged Ted                                          |
     | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
     | Boss Hunter                                         | Slay the boss of the gorgon herd.                                                  |
+    | You Are Permitted to Call My Name, but Only Once    | Hand the witch over to Admiral Avare.                                              |
     
 
 === "Adventurer"
@@ -125,6 +136,9 @@
     | Millennial Lord Adam                           | Vanquish Millennial Lord Adam with your ally.                      |
     | Golden-Haired Goddess Who Destroyed Everything | Complete the investigation of the island of ghosts with your ally. |
     | True-Form Skull                                | Recover Kalshum's bones with your ally.                            |
+    | Chloroan King                                  | Complete the King's Trial with your ally.                          |
+    | A Journey of Two Souls                         | See the ritual at the Shrine of Agora through to completion with your ally.|
+    | Thundersmiter's Vow                            | Bear witness to the vow of Gerard's past with your ally.           |
 
 === "Equipment"
 
@@ -134,7 +148,8 @@
     | Equipment Collector ★★                  | Acquire 50 types of equipment.                |
     | Equipment Collector ★★★                 | Acquire 100 types of equipment.               |
     | Equipment Collector ★★★★                | Acquire 200 types of equipment.               |
-    | Equipment Collector ★★★★★               | Acquire 200 types of equipment.               |
+    | Equipment Collector ★★★★★               | Acquire 350 types of equipment.               |
+    | Equipment Collector ★★★★★★               | Acquire 500 types of equipment.               | 
     | Excavator                               | Acquire a digging mattock.                    |
     | Mermaid's Necklace                      | Acquire Melgina's Choker.                     |
     | Pirates We Be                           | Acquire the Cutlass of Tyranny.               |
@@ -205,6 +220,7 @@
     | Money-Maker                         | Slay a creeping coin.                                |
     | Surprised?                          | Slay a mimic.                                        |
     | Playing with Hellfire               | Slay the greater demon sealed in the burial chamber. |
+    | Surprised?!                         | Slay a Golden Mimic.                                 |
 
 === "Explore"
 
@@ -216,6 +232,7 @@
     | All Harkens Unlocked - Beginning Abyss      | Unlock all the Harkens in the Beginning Abyss.      |
     | All Harkens Unlocked - Trade Waterway       | Unlock all the Harkens in the Trade Waterway.       |
     | All Harkens Unlocked - Impregnable Fortress | Unlock all the Harkens in the Impregnable Fortress. |
+    | All Harkens Unlocked - Deepsnow Hinterlands | Unlock all the Harkens in the Deepsnow Hinterlands. |
     | Leave Treasure Chest Locks to Me            | Unlock treasure chests 100 times.                   |
     | Treasure Chest Unlocking Veteran            | Unlock treasure chests 1,000 times.                 |
     | Treasure Hunter                             | Unlock treasure chests 3,000 times.                 |
