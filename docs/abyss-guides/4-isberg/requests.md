@@ -5,7 +5,7 @@
     - Faction requests (Witch Hunt in Elden Hill Village and Search for the Missing Persons) have been moved to a [new](./faction-requests.md) page 
     - Major spoilers ahead
 
-!!! tip "Things To Know In Advance"
+??? tip "Things To Know In Advance"
 
     - We recommend you wait to do the Guild requests until after you have beaten the Abyss at least once 
     - Several requests require: 
