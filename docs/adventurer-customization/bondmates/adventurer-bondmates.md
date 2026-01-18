@@ -7,8 +7,7 @@
 
         - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart [trust](../../mechanics/trust/trust.md) status.
         - Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, Evade, and so on.
-        - Each stat bondmate increases a specific, fixed trait. 
-        - For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
+        - Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
         - Stat bondmates range from level 1 to 5.
         - Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
         - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
@@ -84,8 +83,8 @@
         - For Tavern and Camp conversations the amount of trust points gained depends on two factors:
             - Alignment (Good-Neutral-Evil)
             - Selecting the "best" response to conversational prompts ([Trust Table](../../mechanics/trust/table.md).
-            - More trust points are earned if the MC's alignment is the same as his conversation partner. For example, Neutral MC and Yekaterina (Neutral) will earn more trust points than Neutral MC and Milana (Evil) even if you provided the "best" response to both.
-            - Few-to-no trust points are earned with Good-Evil pairings. 
+        - More trust points are earned if the MC's alignment is the same as his conversation partner. For example, Neutral MC and Yekaterina (Neutral) will earn more trust points than Neutral MC and Milana (Evil) even if you provided the "best" response to both.
+        - Few-to-no trust points are earned with Good-Evil pairings. 
 
     === ""Spillover" Trust"
 
