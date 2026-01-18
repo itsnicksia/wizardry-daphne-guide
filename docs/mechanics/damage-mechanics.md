@@ -33,6 +33,7 @@ In combat, openings are critical opportunities to deal massive damage to enemies
 
 * Openings occur when an enemy is forced into a vulnerable state, marked by a gold circle icon above their head.
 * During this state, they take increased damage from the next non-spell attack they receive.
+* Physical attacks made while the enemy is affected by an Opening are guaranteed to hit.
 
 ### Requirements to Trigger Openings:
 * Enemies uses a "melee" physical attack (so minotaur rock fling doesn't count).
