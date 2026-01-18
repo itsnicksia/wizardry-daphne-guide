@@ -133,7 +133,7 @@
         - DEX - Beast Thief (Evil) 
         - IQ - Elf Mage (Neutral)
         - SPD - Human Ninja (Evil)
-        - VIT - Dwarf Knight (Good) 
+        - VIT - Dwarf Knight (Neutral) 
         - PIE - Human Priest (Good), Elf Priest (Evil)
         - LCK - No unit - Nameless, General, or Legendary - gives Luck as a trait bonus
 
