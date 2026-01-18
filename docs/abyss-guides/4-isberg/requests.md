@@ -6,6 +6,12 @@
 
 ## Snowy Forest Minor Harken
 
+!!! warning "Bugged Request as of 1/17"
+    - As of the last patch several Discord member have reported that this request is not working properly
+    - It is possible to repeatedly visit Discovery Points
+    - Doing all the requirements correctly will not spawn the Bigfoot boss fight, which is required for the bondmate
+    - This notification will be updated as we learn more
+
 ### Recovery of Salted Pork
 
 ??? warning "Important Notes"
