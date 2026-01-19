@@ -5,6 +5,11 @@
     - Faction requests (Witch Hunt in Elden Hill Village and Search for the Missing Persons) have been moved to a [new](./faction-requests.md) page 
     - Major spoilers ahead
 
+!!! bug "All Requests Potentially Bugged as of 1/19"
+    - We have received additional reports that other pre-requisite requests are not working properly
+    - Strongly advise not doing any requests until the next patch to avoid wasting time and valuable resources  
+    - This page will be updated as we learn more
+
 ??? tip "Things To Know In Advance"
 
     - We recommend you wait to do the Guild requests until after you have beaten the Abyss at least once 
