@@ -95,7 +95,21 @@ You now are under the impression that Godefroi is controlling the children. You 
 
 Realizing that the situation occuring in this village is extremely vile, you decide to wheel back in time to prevent this problem.
 
-!!! warning "After encountering Mike it is strongly recommended that the next adult you attempt to capture is Otto on Route 6. He is arguably the most frustrating fight to have to repeat if he runs away."
+??? warning "Important Notes"
+
+    - Cursed Wheel Settings 
+    - Short Rest in the Cabin 
+        - North Lakeshore Cabin: "Fixed it up"
+        - Dwarves' Cave: Any 
+        - Village Adults: "Did not encounter them"
+
+    - Other Notes 
+    
+        - It is important that you do Mike (Route 3) first as the game can get buggy if you attempt to do them in a different order 
+        - After defeating Mike, it is recommended to do Otto (Route 6) next since he has a chance of escaping and will reset all of your progress if he runs away 
+        - For Route 4 you should see a pure white square (cart) in the middle of the map, which means the game loaded the adult fight properly. It is important that you enter from the Route 6 Harken otherwise the cart will bar your progression (if coming from the entrance)
+        - The Mayor will not appear until all the other adults are captured 
+        - There is a unique achievement for killing all of them, but for story progression you want to make sure they all survive 
 
 1. You need to cursed wheel back to when the cabin in Route 9 was fully rebuilt, Short Rest in the Cabin. Approaching the cabin has Lulunarde suggesting that we need to deal with the adults before heading towards defeating Godefroi.
 2. You need to head to Route 3's Rockhome Village. Walking towards the Mayor's house from the harken will show that the town is trapped. Head towards the house at the bottom middle of the map to find Mike. He will attempt to defend himself with goblins, which end up turning on him. You will have to fight three goblins. After winning, Lulunarde will name 3 more locations that adults may be at. You can visit any of these points in any order that you want.
