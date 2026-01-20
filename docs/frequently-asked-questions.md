@@ -78,36 +78,8 @@ If you get the answer right the teleporter will take you to a room with the exit
 ### Do I have to walk past the poison on B7F of the Beginning Abyss every time?
 Only until you get to B8F. There you can find 4 stone piles to reverse. Two of these create shortcuts to bypass the poison. Two create pathways to treasure.  For exact details see the [B8F Map page](abyss-guides/1-beginning-abyss/maps.md).
 
-### How do I increase an adventurer’s level past XX?
-At specific levels (20, 30, and 40), you need to grade up to increase the level cap.
-
-Grading up requires two items:
-
-* One grade tag for each adventurer taking the grade exam (note that this does not count adventurers in the party that have already graded up).
-* A grade marker that is obtained by taking the appropriate grade exam The specific grade tag required depends on the exam you’re taking.
-
-The current exams are Lead, Bronze, and Iron, and Steel. All exams require a tag of your current grade (so the Lead exam requires each member to have a No-Grade Tag, and the Iron exam requires each member to have a Bronze Grade Tag, etc.). Grade tags are not consumed on taking the exam - instead, they are consumed when grading up in the Training Room after you have successfully passed the exam and obtained the required grade marker.  [You can convert ungraded tags to the tag level you need from the Grade Up screen](#how-do-i-swap-lower-grade-tags-for-a-higher-grade).
-
-The TL;DR is that to grade up, each adventurer needs a grade tag of their current grade, and they need to have been a part of the exam where you obtained the next grade marker.  You can buy grade markers at the Jeweler, but this is generally considered a waste of gems.
-
-### How do I get grade tags?
-Dismiss adventurers and combine lower grade tags into higher grade tags. In addition, you get a few from the weekly request. When dismissed, all adventurers will give you a grade tag that corresponds to their current grade. General and Legendary adventurers will give an additional grade tag as well.
-
-* Anonymous Adventurers (Human-Pri, etc) give 1 grade tag that corresponds to their current grade.
-* General Adventurers (Chloe, Clarissa, Flut, etc) give 1 grade tag that corresponds to their current grade, plus an additional 1 no-grade tag when dismissed.
-* Legendary Adventurers (Lanavaille, Adam, etc) give 1 grade tag that corresponds to their current grade, plus an additional 1 iron grade tag when dismissed.
-
-Due to the fact that it costs grade tags to increase an adventurer's grade, the increased value of tags you get is offset by the cost to grade up.
-
-**There is no benefit in grading up an adventurer before dismissing them**. The weekly requests starts with a 3 tag reward and increases to 4 tags at a certain point. This isn’t confirmed, but it seems to be when your MC is level 40 in any class, possibly also requiring the MC having changed to another class.
-
-For more details about obtaining tags and the game economy please see the [Free-to-Play Resources page](./appendices/free-to-play-economy.md#guild-tags).
-
-### How do I swap lower grade tags for a higher grade?
-
-!!! info
-    ![](./img/swap-guild-tags-1.jpg)
-    ![](./img/swap-guild-tags-2.jpg)
+### How do I increase an adventurer’s level past XX and How do I get Grade Tags?
+Details about increasing one's level cap and getting Grade Tags can be found on the page [Grade Up](./appendices/grade-up/index.md).
 
 ### Help! I’m drowning! What do I do?
 You need to attempt to leave the area through both the upper left and upper right sections of the room you’re in, as well as attempt to go back the way you came into the current before you’re able to activate the statue to drain the water. Some people have reported needing to try to activate the statue, then try the three exits, then try the statue again before it would activate.  Heal with items as needed and take as few steps as possible! If you're having repeat trouble, you can try going in with just the MC so that you don't constantly have to ressurrect allies. Once this is done it never has to be done again.
