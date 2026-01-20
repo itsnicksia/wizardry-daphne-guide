@@ -63,9 +63,10 @@
 
     === "Flags" 
 
-            ??? warning "Flag Definitions"
-                - "Spotted" = Entering a corrosion sentry's field of view
-                - "Not Spotted" = Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power 
+        ??? warning "Flag Definitions"
+        
+            - "Spotted" = Entering a corrosion sentry's field of view
+            - "Not Spotted" = Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power 
                 
         - The "Spotted" and "Not Spotted" designations are hidden flags the game tracks. 
         - The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
@@ -74,15 +75,15 @@
   
     === "Registration Nodes"
             
-            ??? warning "Node Definitions"
-                
-                - Start node 
-                    - The node you wheel to first at the beginning of the process
-                    - The game requires a fresh encounter with the corrosion sentry for its flags to update
-                - Register node 
-                    - Node where you end a run and update any flags  
-                    - Node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel 
-                    - Note that you can never register a corrosion sentry by wheeling to its own node as the starting point 
+        ??? warning "Node Definitions"
+            
+            - Start node 
+                - The node you wheel to first at the beginning of the process
+                - The game requires a fresh encounter with the corrosion sentry for its flags to update
+            - Register node 
+                - Node where you end a run and update any flags  
+                - Node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel 
+                - Note that you can never register a corrosion sentry by wheeling to its own node as the starting point 
 
         - Flags need to be triggered using the correct starting and ending Cursed Wheel nodes 
         - The guide uses "Start" and "Register" nodes throughout  
