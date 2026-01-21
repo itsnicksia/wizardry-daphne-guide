@@ -160,7 +160,7 @@
     - Exit
     - Repeat this process until the flaming-heart procs on the stat bondmate. 
 
-        !!! warning "Do not start trust farming until the stat bondmates have been promoted to Bronze grade and have defeated both GWOs." 
+        !!! warning "Do not start trust farming until the stat bondmates have been promoted to Bronze grade and have defeated both GWOs (Helmut and either Melgina or Octoranus)." 
 
 ## Putting It All Together
 
