@@ -168,17 +168,22 @@ Below are the steps from start-to-finish to create a stat bondmate:
 
 - Experience grind until level 30
 - Pass the Bronze exam and promote (requires 3 No Grade tags)
-- Defeat Helmut and Melgina/Octo
-- Fastest results if the stat bondmate did not die at any point during this process 
+- Defeat Helmut and either Melgina or Octoranus
+- Note: If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears 
 - Go to the Guild > Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate 
-- Double-check that all conditions have been met and the unit is unlocked 
+- **Double-check that all conditions have been met and the unit is unlocked **
 - Dismiss
 - During the dismissal scene you will be notified that the adventurer is now a bondmate
 - The Bronze Grade tag will be refunded 
 - Check the Bondmate List to see if they turned out to be a level 4 or 5
 
 !!! warning "Do not forget to double-check you remembered to add the two, level 5 bondmates. This is the number one reason why this process can fail."
+
+## Other Notes
+
+- Historically, adding additional bondmates (3-5) before dismissal always averaged out to a 50/50 chance to get a level 4 or 5 bondmate. Whether this has changed or not in recent patches remains untested.
+- Matching elements does not provide an additional stat boost.
 
 ## Bondmate Trait Table
 
