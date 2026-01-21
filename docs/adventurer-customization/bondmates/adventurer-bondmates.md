@@ -62,7 +62,7 @@
     === "Conditions"
     
         - Bronze Grade (minimum level of 30)
-        - Defeat Helmut and Melgina or Octoranus
+        - Defeat Helmut and either Melgina or Octoranus
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
             - Melgina is safer and faster to defeat with low-level units
             - The unit must survive the fight
