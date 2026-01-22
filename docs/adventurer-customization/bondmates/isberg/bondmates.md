@@ -59,8 +59,8 @@
 
         === "Requirements" 
         
-            - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris)
-            - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) as he can appear on the right-hand side of Route 9
+            - Knowledge of [reversing nullstones](../../../abyss-guides/4-isberg/important-request-gwo.md#saving-iris)
+            - Knowledge of [shortcuts](../../../abyss-guides/4-isberg/important-request-gwo.md#learning-the-truth) as he can appear on the right-hand side of Route 9
 
         === "Guide"
         
@@ -196,7 +196,7 @@
 
     === "How to Acquire"
 
-        - [Unforgivable Wolves](../../../abyss-guides/4-isberg/request.md#unforgivable-wolves)
+        - [Unforgivable Wolves](../../../abyss-guides/4-isberg/requests.md#unforgivable-wolves)
         - Spare the final wolf pack on 2nd run onwards.
 
     === "Skill - Freeze Tolerance and Evasion"
