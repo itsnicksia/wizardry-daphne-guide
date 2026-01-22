@@ -68,7 +68,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: MediumOrchid">LUCK 6</span>  |   1   | Abyss 2:  Clear the Monster Soup quest for Pickerel |
 | <span style="color: MediumOrchid">LUCK 7</span>  |   1   | Abyss 3:  [Stop the Mastermind and Save the Duke](../abyss-guides/3-guarda-fortress/important-request-gwo.md#stop-the-mastermind-and-save-the-duke) ending in Guarda Fortress Abyss |
 | <span style="color: MediumOrchid">LUCK 8</span>  |   1   | Abyss 3:  Get the perfect ending for all three [Old District (Slum) Faction](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests) requests|
-| <span style="color: MediumOrchid">LUCK 9</span> |   1   | Abyss 4: Currently bugged, see the note under [Witch Hunt in Elden Hill Village](../abyss-guides/4-isberg/requests.md#witch-hunt-in-elden-hill-village-1st-faction-request) for details |
+| <span style="color: MediumOrchid">LUCK 9</span> |   1   | Abyss 4: Get all three best endings on [Witch Hunt in Elden Hill Village](../abyss-guides/4-isberg/faction-requests.md#witch-hunt-in-elden-hill-village-1st-faction-request) for details |
 | <span style="color: MediumOrchid">LUCK 10</span> |   1   | Abyss 4: Defeat the final version (4th fight) of the GWO |
 
 
