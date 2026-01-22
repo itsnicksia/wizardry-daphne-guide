@@ -68,10 +68,12 @@
 | [Exquisite Jewel Trout](./isberg/bondmates.md#exquisite-jewel-trout)                                   | Side Quest      | Special Local Delicacy                        | HP                             | Water   | 5         |        |        |
 | [Iris, Maiden of Rockhome](./isberg/bondmates.md#truth-of-the-beautiful-ore)                           | Main Quest      | Abyss 4 True Ending                           | Divine Power, Resistance       | Light   | 5         |        |        |
 | [Maya and Auntie Marta](./isberg/bondmates.md#maya-and-auntie-marta)                                   | Side Quest      | Find my Sister Lisa                           | Fear Tolerance                 | Air     | 5         |        |        |
-| [Stonefolk Visiting the Gravestone](./isberg/bondmates.md#stonefolk-visiting-the-gravestones)          | Route 3         | Reverse Nullstone and follow it through maps  | MP                             | Earth   | 5         |        |        |
+| [Stonefolk Visiting the Gravestone](./isberg/bondmates.md#stonefolk-visiting-the-gravestone)           | Route 3         | Reverse Nullstone and follow it through maps  | MP                             | Earth   | 5         |        |        |
 | Wandering Bunny                                                                                        | Random          | Randomly around Abyss 4                       | Crit Tolerance                 | Air     | 5         |        |        |
 | [Warg, Commander of the Deep Snow](./isberg/bondmates.md#warg-commander-of-the-deep-snow)              | Side Quest      | Unforgivable Wolves                           | Freeze Tolerance, Evasion      | Air     | 5         |        |        |
 | [William, the Remorseful Husband](./isberg/bondmates.md#william-the-remorseful-husband)                | Side Quest      | Church 2nd Faction Quest                      | Divine Power                   | Fire    | 5         |        |        |
+
+adventurer-customization/bondmates/isberg/bondmates/#stonefolk-visiting-the-gravestones
 
 ## Event Bondmates
 
