@@ -73,8 +73,6 @@
 | [Warg, Commander of the Deep Snow](./isberg/bondmates.md#warg-commander-of-the-deep-snow)              | Side Quest      | Unforgivable Wolves                           | Freeze Tolerance, Evasion      | Air     | 5         |        |        |
 | [William, the Remorseful Husband](./isberg/bondmates.md#william-the-remorseful-husband)                | Side Quest      | Church 2nd Faction Quest                      | Divine Power                   | Fire    | 5         |        |        |
 
-adventurer-customization/bondmates/isberg/bondmates/#stonefolk-visiting-the-gravestones
-
 ## Event Bondmates
 
 | Bondmate        | Event                       | Details       | Effect            | Element | Max Level | Stat 1 | Stat 2 |
