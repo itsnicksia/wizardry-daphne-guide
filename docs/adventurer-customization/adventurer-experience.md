@@ -3,10 +3,15 @@
 ## Experience Chart
 <!-- div class="nosort-table" markdown -->
 
-{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0).to_html(justify="center", na_rep="", formatters = [{'selector': 'td', 'props': [('text-align', 'center')]}] ) }}
+{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0)
+    .pipe(lambda df: df.to_html(justify="center", na_rep="", formatters={col: lambda x: f'<div style="text-align: center;">{x}</div>' for col in df.columns}))
+}}
 
 
 <!-- broken command without brackets. multi line at . for readability but doesnt matter if you 1-line it, still broke.
+
+    .to_html(justify="center", na_rep="", formatters = [{'selector': 'td', 'props': [('text-align', 'center')]}] ) 
+
 pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0)
     .style.set_table_styles([{'selector': 'th', 'props': [('text-align', 'center')]}])
     .set_properties(**{'text-align': 'center'})
