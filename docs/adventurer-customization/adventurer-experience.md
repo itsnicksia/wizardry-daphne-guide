@@ -3,7 +3,7 @@
 ## Experience Chart
 <!-- div class="nosort-table" markdown -->
 
-{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0).fillna("").to_html() }}
+{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0).to_html(justify="center", bold_rows=True, na_rep="") }}
 
 
 <!-- broken command without brackets. multi line at . for readability but doesnt matter if you 1-line it, still broke.
