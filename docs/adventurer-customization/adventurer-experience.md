@@ -1,16 +1,20 @@
 # Adventurer Experience
 
 ## Experience Chart
+<!-- div class="nosort-table" markdown -->
 
-<div class="nosort-table" markdown>
+{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0).fillna("").to_html() }}
 
-{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0)
+
+<!-- broken command without brackets. multi line at . for readability but doesnt matter if you 1-line it, still broke.
+pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0)
     .style.set_table_styles([{'selector': 'th', 'props': [('text-align', 'center')]}])
     .set_properties(**{'text-align': 'center'})
     .format(na_rep="")
-    .to_html() }}
+    .to_html() 
+-->  
 
-</div>
+<!-- /div -->
 
 ## Experience Gain Percentage
 
