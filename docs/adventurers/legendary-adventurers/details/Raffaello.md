@@ -135,7 +135,7 @@ extra text can be added between skills
     
     I am sorry I was wrong, let's not remain positive.  It is interesting that this is the first character to ever boost a raw trait (str, iq, pie, etc) as a discipline, and sure it buffs his spells damage due to it being purely Piety based, but good god it isn't useful at all otherwise.  Almost anything would have been better.
 
-    In summary this guy seems to have an awesome backstory.  His design is legitimately cool.  The concept drecom pursued for this character was honestly solid, different, very creative, and commendable.  Sadly their execution was not quite so hot.  I really wish I could say this character is good, but he isn't.  Maybe on rerun he will get a new class and that will tilt the balance.  Right now, no, just no.
+    In summary this guy seems to have an awesome backstory.  His design is legitimately cool.  The concept drecom pursued for this character was honestly solid, different, very creative, and commendable.  Sadly their execution was not quite so hot.  I really wish I could say this character is good, but he isn't.  So before I ended this by saying, who knows maybe his alt class will change this story?  It didn't, his alt class is theif.  Raffaello has been consigned to the doom of a pure support character with a weird niche of wanting to be front row with a two hand hammer as a priest.  He just doesn't work in hardly any comp, his skill is cool but nothing special plus not good on inherit, and his two classes just have horrible synergy.  This guy is a pass for any player who isn't in love with his character concept/design or obsessed with an all evil team.
 
 ??? info "Shiro's Analysis"
 
@@ -157,7 +157,7 @@ extra text can be added between skills
 ??? note "Karkarov's Pull Plan"
     If you love the design of this character or you are just someone that has to get a copy of every character for their roster, ok, I get it.  Pull 1 copy.
     
-    If you are anyone else, I can't advise you to pull.  I pulled a copy so you didn't have to, don't let my sacrifice be in vain.  If you want a solid character that really does bring something to your team as of the time of this writing (9/18/25) Shelirionach's banner is up.  Put the resources there, or save them for the upcoming October 2025 anniversay.
+    If you are anyone else, do not pull.  His alt class basically added nothing other than making him slightly better for auto farming cause it increases money item drops.  Any theif can do that.  Raffalmao is confirmed bottom tier legend at this point and not worth your gems much less real world money.
     
 ## Duplicate Usage
 
