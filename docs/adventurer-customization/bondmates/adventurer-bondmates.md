@@ -65,7 +65,7 @@
         - Defeat Helmut and either Melgina or Octoranus
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
             - Melgina is safer and faster to defeat with low-level units
-            - The unit must survive the fight
+            - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying
         - Trust farm until the flaming-heart appears
     
     === "Troubleshooting" 
