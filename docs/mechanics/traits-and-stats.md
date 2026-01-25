@@ -416,6 +416,6 @@ All info in this section credited to: [名はある冒険犬柴丸](https://www.
     | Safety Ring                                             |  Equipment             |      ?         |          N/A             |
     | Rabbit Talisman                                         |  Gacha Equipment       |      ?         |          N/A             |
     | Faith of the Wicked (Galina)                            |  Adventurer Passive    |      50        |          N/A             |
-    | Apostle of Breaking Commandments (Galina)               |  Adventurer Discipline |      20        |          5               |
+    | Apostle of Breaking Commandments (Red Beard)               |  Adventurer Discipline |      20        |          5               |
     | Flawlessly Composed Warrior Princess (Lanavaille)       |  Adventurer Discipline |      25        |          5               |
     | Abductor of Kings                                       |  Harken Blessing       |      30        |          N/A             |
