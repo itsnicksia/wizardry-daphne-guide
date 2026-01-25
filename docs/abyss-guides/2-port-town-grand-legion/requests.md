@@ -330,8 +330,8 @@ Goetia -> Admiral Route
     !!! note
         The NPC icon was in the circle but the body was bugged where the arrow points
 
-    !!! warnING
-        The friends may be in different locations. Look for person silhouettes on the maps and check them.
+    !!! warning
+        JAN 2026: A RECENT UPDATE HAS MOVED THE BODIES TO DISTRICT 2 (x:0,:14), AND DISTRICT 3 (x:9,y:10).  Note that map variations may cause rooma to move.  Look for person silhouettes on the maps and check those spots.
 
 ### Servant and Cargo Recovery
 
