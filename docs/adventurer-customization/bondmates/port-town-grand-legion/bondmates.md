@@ -28,9 +28,12 @@
     It's easiest to wait to get her bondmate until after you have reached `7th District -Pier-`
 
 1. Complete the [Water God Statue Restoration Materials Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#water-god-statue-restoration-materials)
-2. Find Regia 5 times throughout Districts 2-7 in the Trade Waterways
-    - The easiest way to do this is to Harken to the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. On the 5th time, she will mention that this was the final time she will heal you. Alternatively you can Harken to the 6th District and walk to the Pier's Harken to cover more of the map while walking in one direction.
-3. Go to the marked spot in the 2nd District to receive the bondmate.
+2. It is critical that you express interest in the stone god statue shards after submitting the request otherwise Regina will not appear.
+3. Find Regia 5 times throughout Districts 2-7 in the Trade Waterways
+    - The easiest way to do this is to Harken to the pier, search for her, return back to the Port Town, and repeat until you find her 5 times. Alternatively, you can Harken to the 6th District and walk to the Pier's Harken to cover more of the map while walking in one direction.
+    - You must pay and accept healing from her during each encounter otherwise it will not count toward the 5 required encounters.
+    - During the 5th encounter, she will mention that this was the final time she will heal you. 
+4. Go to the marked spot in the 2nd District to receive the bondmate.
 
 ??? map "Final Location"
     ![](img/regia-final-location.jpg)
