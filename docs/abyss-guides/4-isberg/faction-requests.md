@@ -1,17 +1,17 @@
-## Blizzard Blocking the Path
-
 !!! warning "Work in Progress"
     - Ctrl + F5 to refresh the page for new updates
 
+## Blizzard Blocking the Path
+
 ### Witch Hunt in Elden Hill Village (1st Faction Request)
 
-##### Overview 
+#### Overview 
 
 The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause. 
 
 - Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia
 - Go to the Guild, speak with Arna, and accept the invitation
-- If you leave immediately, then to accept the request in the future select "Talk" in the Guild
+- If you decline, then to accept the request in the future select "Talk" in the Guild
 - All of the faction requests take place in Elden Hill Village and share the same map  
 
 ??? warning "Important Notes"
@@ -20,7 +20,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
         - Supporting a faction in a previous Abyss influences certain outcomes 
         - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
-        - Max faction affinity is mandatory for the Best endings, 2 Guiding Lights (Luck), unique Calm Wind gear, and extra junk rewards
+        - Max faction affinity is mandatory for the Best endings, Guiding Light (Luck), unique Calm Wind gear, and extra junk rewards
         - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
     
             !!! note "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
@@ -30,9 +30,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         Overview
         
         - 10 unique endings across all factions have been identified 
-        - Some endings may have been missed as of 1/1 
-        - Known endings are sufficient for unlocking the 2 Guiding Lights (Luck)
-        - Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
+        - Known endings are sufficient for unlocking the Guiding Light (Luck)
+        - The Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
     
         Endings per Faction
     
@@ -45,14 +44,25 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
-        - Note: The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story 
+
+        ??? note "Notes"
+
+            - When resetting the request you have to fully jump to Deepsnow Hinterlands Entrance, go back to the Ruins, and then jump again to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you simply wheel-in-place. 
+            - The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
     
 ??? tip "Guiding Lights"
 
-    === "Unlock Conditions" 
+    === "Unlock Condition" 
 
-        !!! warning "Friendly warning in advance that 1) the unlock conditions are likely bugged and 2) the process can be time-consuming and frustrating." 
+        - As of 1/27 it seems as if the previous bugs have been fixed. 
+        - The unlock condition is to get the Best ending for all 3 factions. 
+        - Max affinity is required.
+        - The Guiding Light will dissolve if it has already been received. 
 
+    === "Bug Archive"
+    
+        This tab will be kept for the next month in case bugs appear again in the future. 
+        
         What is going on?
                 
         - The main issue is Discord members have reported wildly inconsistent unlocking conditions. 
@@ -70,15 +80,9 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Clear the 4th GWO fight + do each Best Ending until it appears
         - The Gamerch editors think that is achievement-based with a mix of Good and Best endings
 
-    === "Confirmed"
-    
-        - Max faction affinity is required 
-        - A Guiding Light will dissolve if it's already been received 
-        - The 2nd faction quests do not have a Guiding Light that has been found even with all 3 "best" ending. They also have nothing to do with unlocking the 1st faction request Guiding Light, so please do not waste your valuable gaming time testing to see if that does anything.
-
     === "Contact" 
     
-        - Please DM or ping @lightbearer on the Discord if you can confirm or provide additional information. 
+        - Please DM or ping @lightbearer on the Discord if you encounter any bugs or issues moving forward. 
 
 ??? note "The Witch's Cave"
 
@@ -110,7 +114,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         ![](./img/witchs-cave-b2f.png)
         </div>
 
-##### Chancellor Serpens (Princess) Route 
+#### Chancellor Serpens (Princess) Route 
 
 - The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch.
 - Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution, you can consult with an Herbalist, Physician, or Mystic. 
@@ -296,11 +300,11 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
         === "Offering Requests"
         
-            - Request 1 - 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
-            - Request 2 - Hen - Return to town and speak with Tenet
-            - Request 3 - Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
-            - Request 4 - Infant (Lamb) - Return to town and speak with Tenet
-            - Request 5 - Sheep - Return to town and speak with Tenet
+            - Request 1: 3 Rabbits - Defeat 3 different enemy groups with vorpal bunnies
+            - Request 2: Hen - Return to town and speak with Tenet
+            - Request 3: Living Blood - Defeat 2 different enemy groups with "monsters" (magical-beast, demi-human)
+            - Request 4: Infant (Lamb) - Return to town and speak with Tenet
+            - Request 5: Sheep - Return to town and speak with Tenet
     
         === "Tenet Offerings" 
 
@@ -330,7 +334,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Witness 4+ witch burnings = Elencia Dead
         - Requirement for triggering a witch burning scene is unclear. Based on limited testing:
             - Number of battles and/or 
-            - Returning to town after giving an offering, but _before_ accepting the next brazier request
+            - Returning to town after giving an offering, but before accepting the next brazier request
 
 ??? note "Pontiff Ending Guides"
 
@@ -342,6 +346,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 - Bad - Elencia Dead (4+ witch burnings) 
                 - Good - Elencia Alive (0-3 witch burnings) + "Tell the Truth" 
                 - Best - Elencia Alive (0-3 witch burnings) + "Condemn the Witch" 
+            - The Good and Best endings follow the same exact steps. The only difference is the final decision made at the end. They are listed separately for ease of reading.
 
             - Rewards
                 - Junk is not rewarded if any witch burnings are witnessed
@@ -366,14 +371,14 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         === "Walkthrough" 
         
             - First run: Must witness a 4th witch burning
-            - Subsequent runs: Do not speak with Tenet + witness a 4th witch burning
+            - Subsequent runs: Do not speak with Tenet and witness a 4th witch burning
             <br></br>
             - Enter the Witch's Cave 
             - Complete all 5 brazier offering requests
                 - Returning to town for only the offering requests results in 3 witch burnings and Elencia will be alive after the boss fight
                 - This is not the outcome we want as Elencia must be dead. You must make an additional trip back to town to witness a 4th witch burning 
                 - Return to town after offering the 3 Rabbits or Living Blood and exploring the unlocked room; but, do _not_ accept the next brazier request
-            - When returning to the brazier with the Sheep additional enemies will spawn ("ROAR") in the B2F hallway
+            - When returning to the brazier with the Sheep additional enemies will spawn ("Roar") in the B2F hallway
             - Offer the Sheep to the brazier and unlock the witch's room 
             - Fight the Witch boss 
             - Elencia will be dead after the boss fight 
@@ -447,7 +452,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             <br></br>
             - Enter the Witch's Cave
             - Complete all 5 brazier offering requests
-            - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
+            - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("Roar") in the B2F hallway 
             - Unlock the witch's room and defeat the boss 
             - Elencia will be alive, but unconscious after the boss fight 
                 - "Examine the body"
@@ -526,7 +531,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             <br></br>
             - Enter the Witch's Cave
             - Complete all 5 brazier offering requests
-            - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("ROAR") in the B2F hallway 
+            - When returning to the brazier with the Sheep (5th offering) additional enemies will spawn ("Roar") in the B2F hallway 
             - Unlock the witch's room and defeat the boss 
             - Elencia will be alive, but unconscious after the boss fight 
                 - "Examine the body"
@@ -608,14 +613,13 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     - The 1/8 patch has added witch burning scenes like in the Pontiff route, which are trigged when exiting the Witch's Cave or resting at the Inn 
     - It is no longer possible to enter the Witch's Cave without first speaking with Cleric Ludwin and agreeing to help 
     - Verified that the number of offerings still lead to the outcomes listed in the ending guides
-    - Currently being tested: 
-        - If the number of witch burnings witnessed has any impact on the endings or rewards
-
+    - The number of witch burning scenes witnessed do not seem to affect any of the endings, rewards, or dialogue
+    
 ??? warning "Mechanics"
 
     ??? note "Note on Initial Choices" 
     
-        - The Admiral route is deceptively structured as the initial choices of "Capture a witch" or "Threaten" have no impact on the ending
+        - The Admiral route is deceptively structured. The initial choices of "Capture a witch" or "Threaten" have no influence over the ending that you receive
         - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
         - Elencia's post-battle status (dead or alive) determines the ending
         - The "Prepare Sedative" option is self-contained and separate from the brazier offerings mechanic    
@@ -659,7 +663,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     ??? warning "Requirements"
 
         - Total of 3 confirmed endings 
-            - Possible another ending exists that has yet to be identified (as of 1/1)
+            - Possible another ending exists that has yet to be identified (as of 1/27)
             - When selecting either "Capture a witch" or "Threaten" on a first run you will always get the Best ending (Elencia Alive) since you have to collect all 5 brazier offerings
     
         - Endings 
@@ -730,7 +734,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
                 ??? warning "Note on Ending Choices" 
             
-                    - Outside a few different lines of flavor text, the 2 choices presented when consoling Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
+                    - Outside a few different lines of flavor text, the two choices presented when consoling Cleric Ludwin and reporting to the Admiral all lead to the same ending and 14,000 gold reward 
                     - This differs from the Princess route where the ending choices _do_ lead to modified sub-ending scenes and different rewards
                     - This could potentially be a bug or there is some combination of responses that has not yet been identified  
                 
@@ -915,7 +919,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ### Search for the Missing Persons (2nd Faction Request)
 
-##### Overview 
+#### Overview 
 
 The faction requests are unlocked after entering Route 9 for the first time. The objective is to search for traces of two missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
 
@@ -927,31 +931,39 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 ??? warning "Important Notes"
 
-    ??? warning "Best Ending Requirements"
+    ??? warning "Bondmate Ending Requirements"
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
-        - Cursed Wheel - Short Rest in the Cabin
+
+    ??? note "Cursed Wheel Settings" 
+    
+        - Short Rest in the Cabin
             - North Lakeshore Cabin - "Fixed it up"
             - Dwarves' Cave - Any
             - Village Adults - "Did not encounter them"
-                - If the village adults have been captured, then the first body will be in poor condition and the request will end. This outcome is a node in the Cursed Wheel and can be missed 
-        - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the Greater Warped One  
+                - If the village adults have been captured, then the first body will be in poor condition and the request will end
+        - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
+
+            !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
     
     ??? note "Reset Faction Request" 
     
         - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
         - Subsequent runs > "Did not take the request" under the "Search for..." sub-node
+
+            !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
+
     
     ??? danger "Warning! Blind Runs" 
     
-        - Strongly recommend _not_ doing a blind run
+        - Strongly recommend NOT doing a blind run
         - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
         - Interactable objects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
 
 ??? note "Bigfoot Cave"
 
-    ??? note "Summary"
+    ??? note "Overview"
     
         - Location of the second missing person for all 3 faction requests
         - Requires knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
@@ -972,74 +984,83 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 ??? note "Princess Route - Search for Missing Royal Knights"
 
-    === "1st Body (Elliot)"
+    === "Walkthrough"
     
-        - Accept the request at the Royal Capital Guild return to Isberg.
-            - Talk to the old lady NPC and pay 300 Gold. 
-            - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
-        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
-        - Head north to the two locked houses on the bottom-left side of the map. 
-            - Top house contains faction-related clothing and a body part. 
-            - Left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor.
-        - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house to find the body of the first missing Royal Knight in a cage.
-        - Return to the Royal Capital Guild and hand over the body. The revived Royal Knight, Elliot, will share that his missing brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
-
-            ??? note "Body Retrieval Troubleshooting"
-                - If the body was too damaged to revive, then double-check that Short Rest in the Cabin > Village Adults is toggled to "Did not encounter them"
-                - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild
-
-    === "2nd Body (Philip)"
-
-        - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
-        - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
-
-            ??? note "Route 3"
-            
-                - Harken to Route 3 and find the tablets in this order: 
-                    - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
-                    - (X:26, Y:24) - Few steps southeast of Route 4 entrance
-    
-            ??? note "Route 7"
-            
-                - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run 
-                - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-                    - (X:13, Y:23) - Central 3x3 room 
-                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-                - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
-                    - (X:19, Y:7) - Northwest of Route 8 stairs
-                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                    - (X:15, Y:24) - Few steps south of the Harken
-                - When finished return to the Route 7 Harken, go left, and exit to Route 9 
-    
-            ??? note "Route 9"
-            
-                - Find the tablet at: 
-                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
-                - Return to the Route 7 Harken 
-    
-            ??? note "Route 10"
-            
-                - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
-                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
-                    - (X:20, Y:6) - Tile left of the first Stone God altar
-                    - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
-                    - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                    - (X:1, Y:24) - Check the nullstone 
-                    - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
-                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed one or more of the tablets and the Bigfoot boss will not appear. 
-                - Defeat the Bigfoot boss 
-                - Examine the pile of poop in the next room
-                - Select the head with red hair (Philip)
-                - Exit the cave and bring the head back to the Royal Capital Guild to complete the request.
+        === "1st Body (Elliot)"
         
-                    ??? warning "Rewards"
+            - Accept the request at the Royal Capital Guild and return to Isberg.
+                - Talk to the old lady NPC and pay 300 Gold. 
+                - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
+            - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
+            - Head north to the two locked houses on the bottom-left side of the map. 
+                - Top house contains faction-related clothing and a body part. 
+                - Left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor along with some Lulu text that this is not the correct body.
+            - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house to find the body of the first missing Royal Knight in a cage.
+            - Return to the Royal Capital Guild and hand over the body. The revived Royal Knight, Elliot, will share that his missing brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
+    
+                ??? note "Body Retrieval Troubleshooting"
+                    - If the body was too damaged to revive, then double-check that Short Rest in the Cabin - Village Adults is toggled to "Did not encounter them". When you first zone into Route 9 you should receive a pop-up with the request from Lulu. 
+                    - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild.
+    
+        === "2nd Body (Philip)"
+    
+            - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
+            - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile to collect. 
+            - The tablets must be collected in the exact order listed otherwise the subsequent ones will not spawn.
+    
+                ??? note "Route 3"
                 
-                        - Achievement: A Brother to be Proud Of 
-                        - Bondmate: Elliot, the Lamenting Brother (Attack Power)
-                        - Gem of Org x50 (one-time only)
-                        - 30,000 Gold
-                        - Giant Beast Ape Heavy Armor (one-time only?)
+                    - Harken to Route 3 and find the tablets in this order: 
+                        - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
+                        - (X:26, Y:24) - Few steps southeast of Route 4 entrance
+        
+                ??? note "Route 7"
+                
+                    - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
+                    - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                        - (X:13, Y:23) - Central 3x3 room 
+                        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+                    - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
+                        - (X:19, Y:7) - Northwest of Route 8 stairs 
+                        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                        - (X:15, Y:24) - Few steps south of the Harken
+                    - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
+        
+                ??? note "Route 9"
+                
+                    - Find the tablet at: 
+                        - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+                    - Return to the Route 7 Harken. 
+        
+                ??? note "Route 10"
+                
+                    - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+                        - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                        - (X:20, Y:6) - Tile left of the first Stone God altar
+                        - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+                        - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+                        - (X:1, Y:24) - On the nullstone 
+    
+                            ??? note "Troubleshooting"
+        
+                                - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
+                                - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
+                                - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
+                        - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
+                    - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
+                    - Defeat the Bigfoot boss 
+                    - Examine the pile of poop in the next room
+                    - Select the head with red hair (Philip)
+                    - Exit the cave and bring the head back to the Royal Capital Guild to complete the request.
+            
+                ??? warning "Rewards"
+            
+                    - Achievement: A Brother to be Proud Of 
+                    - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+                    - Gem of Org x50 (one-time only)
+                    - 30,000 Gold
+                    - Giant Beast Ape Heavy Armor (one-time only?)
 
     === "Boss: Bigfoot"
 
@@ -1048,48 +1069,50 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - After the Bigfoot takes a certain amount of damage, he will Pound Chest and resummon any dead Bigfoot Children. If a Bigfoot Child is revived in this manner, it will immediately throw a snowball at a random unit. 
         - From this point on, the Bigfoot will repeatedly Pound Chest will taking any damage, so it's recommended to kill him first. If the fight takes too long, then the Bigfoot will summon 1-2 additional Bigfoot at roughly 10-15% HP, so it is in your best interest to burst him down before this happens.
 
-    === "Farming"
+    === "Bondmate Farming"
 
         - The search for the 1st body (Elliot) can be completely skipped
-        - Cursed Wheel: 
-            - Deepsnow Hinterlands Entrance > Ruins  
-            - Short Rest in the Cabin > Search for the Royal Knights > toggle "The older brother's body was resurrected"
-            - Note: The request cannot be reset by wheeling in place
+        - The request must be reset each time. First wheel to Deepsnow Hinterlands entrance, go to the Ruins, and select the following options in the Cursed Wheel: 
+            - Short Rest in the Cabin 
+                - North Lakeshore Cabin - "Fixed it up"
+                - Dwarves' Cave - Any 
+                - Village Adults - "Secured all of them"
+                - Search for the Royal Knights - "The older brother's body was resurrected"
         - The request will be active after wheeling to Short Rest in the Cabin 
         - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets
 
     === "Cursed Wheel Nodes"
-
-        - Each body has a set of toggles listed under Short Rest in the Cabin and Being That Dwellls in the House of God, respectively. 
-        
-            ??? note "Search for the Royal Knights"
-
-                - Requirement: Accept the request when first entering the Royal Capital 
-                - Cursed Wheel: Short Rest in the Cabin
-                - Toggles:
-                    - Did not take the request
-                        - Decline the request when you first enter the Royal Capital 
-                        - Note that it will not be offered again without resetting
-                    - Ended the search without finding them 
-                        - Accept the request
-                        - Step foot into Route 10
-                    - Brought back a body that could not be revived 
-                        - Select Village Adults - Secured all of them
-                        - Retrieve the Royal Knight's body (Elliot) in Mike's house in Route 3
-                        - Spike traps should be gone
-                    - The older brother's body was resurrected 
     
-            ??? note "Search for the Royal Knight's Brother"
+        Each body has a set of toggles listed under Short Rest in the Cabin and Being That Dwellls in the House of God, respectively. 
+        
+        ??? note "Search for the Royal Knights"
 
-                - Requirement: Revive the 1st body (Elliot) 
-                - Cursed Wheel: Being That Dwells in the House of God 
-                - Toggles:
-                    - Was not found 
-                        - Step foot into Route 11 
-                    - Body was found and brought back 
-                        - Select the red-haired head from the Bigfoot poo pile
-                    - Body was found but it was someone else
-                        - Select any of the incorrect heads from the Bigfoot poo pile
+            - Requirement: Accept the request when first entering the Royal Capital 
+            - Cursed Wheel: Short Rest in the Cabin
+            - Toggles:
+                - Did not take the request
+                    - Decline the request when you first enter the Royal Capital 
+                    - Note that it will not be offered again without resetting
+                - Ended the search without finding them 
+                    - Accept the request and step foot into Route 10
+                - Brought back a body that could not be revived 
+                    - Select Village Adults - "Secured all of them"
+                    - Spike traps should be gone
+                    - Retrieve the Royal Knight's body (Elliot) in Mike's house in Route 3 and return to the Guild
+                - The older brother's body was resurrected 
+                    - Follow the steps outlined in the walkthrough
+
+        ??? note "Search for the Royal Knight's Brother"
+
+            - Requirement: Revive the 1st body (Elliot) 
+            - Cursed Wheel: Being That Dwells in the House of God 
+            - Toggles:
+                - Was not found 
+                    - Step foot into Route 11 
+                - Body was found and brought back 
+                    - Select the red-haired head (Philip) from the Bigfoot poo pile
+                - Body was found but it was someone else
+                    - Select any of the incorrect heads from the Bigfoot poo pile
 
 ??? note "Pontiff Route - Search for Adherent Acquaintances" 
 
