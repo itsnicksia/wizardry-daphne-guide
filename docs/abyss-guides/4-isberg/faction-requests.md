@@ -598,14 +598,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
 
 #### Admiral Route
-
-??? warning "Notes on 1/8 Patch"
-
-    - The 1/8 patch has added witch burning scenes like in the Pontiff route, which are trigged when exiting the Witch's Cave or resting at the Inn 
-    - It is no longer possible to enter the Witch's Cave without first speaking with Cleric Ludwin and agreeing to help 
-    - Verified that the number of offerings still lead to the outcomes listed in the ending guides
-    - The number of witch burning scenes witnessed do not seem to affect any of the endings, rewards, or dialogue
-    
+  
 ??? warning "Mechanics"
 
     ??? note "Note on Initial Choices" 
@@ -650,6 +643,13 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Infant (Lamb): 2 
 
 ??? note "Admiral Ending Guides" 
+
+    ??? warning "1/8 Patch Changes"
+    
+        - The 1/8 patch has added witch burning scenes like in the Pontiff route, which are trigged when exiting the Witch's Cave or resting at the Inn 
+        - It is no longer possible to enter the Witch's Cave without first speaking with Cleric Ludwin and agreeing to help 
+        - Verified that the number of offerings still lead to the outcomes listed in the ending guides
+        - The number of witch burning scenes witnessed do not seem to affect any of the endings, rewards, or dialogue
 
     ??? warning "Requirements"
 
