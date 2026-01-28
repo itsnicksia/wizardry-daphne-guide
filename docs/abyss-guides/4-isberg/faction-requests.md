@@ -27,18 +27,18 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     
     === "Endings" 
 
-        Overview
+        - Overview
         
-        - 10 unique endings across all factions have been identified 
-        - Known endings are sufficient for unlocking the Guiding Light (Luck)
-        - The Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
+            - 10 unique endings across all factions have been identified 
+            - Known endings are sufficient for unlocking the Guiding Light (Luck)
+            - The Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
     
-        Endings per Faction
+        - Endings per Faction
     
-        - Princess: 4 
-        - Pontiff: 3
-        - Admiral: 3
-        - Total: 10 
+            - Princess: 4 
+            - Pontiff: 3
+            - Admiral: 3
+            - Total: 10 
 
     === "How to Reset Request" 
     
@@ -1050,7 +1050,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
                     - (X:1, Y:24) - On the nullstone 
 
-                    ??? note "Troubleshooting"
+                    ??? note "Tablet Troubleshooting"
 
                         - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
                         - If you were missing a tablet and reversed the nullstone do the following steps: 
@@ -1184,7 +1184,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
                     - (X:1, Y:24) - On the nullstone 
 
-                    ??? note "Troubleshooting"
+                    ??? note "Tablet Troubleshooting"
 
                         - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
                         - If you were missing a tablet and reversed the nullstone do the following steps: 
@@ -1346,7 +1346,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
                     - (X:1, Y:24) - Check the nullstone 
     
-                    ??? note "Troubleshooting"
+                    ??? note "Tablet Troubleshooting"
 
                         - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
                         - If you were missing a tablet and reversed the nullstone do the following steps: 
