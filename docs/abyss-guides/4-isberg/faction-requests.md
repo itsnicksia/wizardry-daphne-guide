@@ -946,7 +946,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - Dwarves' Cave - Any
                 - Village Adults - "Did not encounter them"
                     - If the village adults have been captured, then the first body will be in poor condition and the request will end
-            - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
+            
                 !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
 
         === "Reset for 1st Body"
@@ -972,8 +972,8 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             - For any reset you must always start by wheeling back to Deepsnow Hinterlands Entrance. It clears all active flags and reduces the chance of a bug appearing, which is common when you have two requests active that share the same map.
             - Always double- or triple-check that the Cursed Wheel toggles are set correctly as they have a tendency to flip back to a default setting when changing multiple toggles at the same time.  
             - As a worst case option you can wheel to "Fresh Start" in Abyss 1 to clear any broken flags or bugs, but it will reset all of your map data.
+            - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
 
-    
     ??? danger "Warning! Blind Runs" 
     
         - Strongly recommend NOT doing a blind run
@@ -1022,8 +1022,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     === "2nd Body (Philip)"
 
         - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
-        - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile to collect. 
-        - The tablets must be collected in the exact order listed otherwise the subsequent ones will not spawn.
+        - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile to collect. They must be collected in the exact order listed otherwise the subsequent ones will not spawn.
 
             ??? note "Route 3"
             
@@ -1060,11 +1059,11 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
                     - (X:1, Y:24) - On the nullstone 
 
-                        ??? note "Troubleshooting"
-    
-                            - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
-                            - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
-                            - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
+                    ??? note "Troubleshooting"
+
+                        - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
+                        - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
+                        - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
                 - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
                 - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
                 - Defeat the Bigfoot boss 
@@ -1101,7 +1100,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "Cursed Wheel Nodes"
     
-        Each body has a set of toggles listed under Short Rest in the Cabin and Being That Dwellls in the House of God, respectively. 
+        - Each body has a set of toggles listed under Short Rest in the Cabin and Being That Dwellls in the House of God, respectively. 
         
             ??? note "Search for the Royal Knights"
     
@@ -1138,7 +1137,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     === "1st Body (William)"
 
-        - Accept the request at the Royal Capital Guild return to Isberg.
+        - Accept the request at the Royal Capital Guild and return to Isberg.
             - Talk to the old lady NPC and pay 300 Gold. 
             - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
         - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
@@ -1191,7 +1190,14 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:2, Y:15) - First tile in the northwest blizzard zone 
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
                     - (X:1, Y:24) - Check the nullstone 
-                    - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
+
+                    ??? note "Troubleshooting"
+
+                        - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
+                        - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
+                        - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
+                    
+                - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
                 - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
                 - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
                 - Defeat the Bigfoot boss. 
@@ -1277,42 +1283,90 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                             - See "Best Ending (Bondmate)" for steps
                         - Body was found but it was someone else
                             - Select any of the heads from the Bigfoot poo pile
+                            
+#### Admiral Route
 
-??? note "Admiral Route - Search Bernard and Young Laurent"
+??? note "Search Bernard and Young Laurent"
 
-    1. Head back to Isberg. Talk to Old Lady NPC in town and pay 300G. Head to the Inn, talk to the NPC and pay 300G.
-    2. Head to Mayor's House in Route 3 and obtain a faction-related sword and the Rockhome Village Key.
-    3. Head to the two locked houses on the left side of the map in Route 3. The top house will contain some faction-related clothing. The left house will contain an ambush after passing by the 1st door inside. Defeat all 6 Dragonflies and collect the faction-related insignia on the floor.
-    4. Head to Route 4's Harken and walk to (X:16, Y:14). The father's body will be there.
-    5. Head back to the Royal Capital's Adventurer's Guild and turn in the body for revival. Gain some more information about the situation and about how the other person leaves Wax Tablets ("tablets") as clues.
-    6. Harken to Route 2 and enter Route 3, then look for the tablets in this order: 
-        - (X:6, Y:17) - Located behind the 2nd house by the entrance
-        - (X:2,Y:2) - Located a few steps from the Route 3 entrance
-    7. Return to Route 2 and find a tablet at: 
-        - (X:21, Y:19) - Few steps southwest of the reversal tree stump
-    8. Harken to Route 6 and enter Route 7. Find two more tablets in this order: 
-        - (X:13, Y:23) - Central 3x3 room 
-        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-    9. Return to Route 6's Harken and go to Route 7. Note: If you have mined the coal walls, then you can head directly to the tablets in this order: 
-        - (X:19, Y:7) - Northwest of Route 8 stairs 
-        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end  
-    10. From the Route 7 Harken go left and exit to Route 9. Find a tablet at:
-        - (X:1, Y:7) - Upper left-hand side of the first house in the grass 
-    11. Return to the Route 7 Harken, jump to Route 9, and then head south to Route 10. Find tablets in this order: 
-        - (X:25, Y:4) - Few steps north of Route 10 entrance 
-        - (X:20, Y:6) - Tile left of the first Stone God altar
-        - (X:4, Y:3) - On the bridge to the far left house
-        - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-        - (X:2, Y:15) - First tile in the northwest blizzard zone 
-        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-        - (X:1, Y:24) - Check the nullstone 
-    12. Reverse the nullstone and head into the Bigfoot Cave. If you have collected all the necessary tablets you should receive Lulu commentary when you step on the pool of blood by the entrance. You will need to make your way to the very last room on the bottom right.
-    13. There will be a Bigfoot boss blocking your way. The fight has a normal Bigfoot in the front row and the Elder Bigfoot in the backrow. Upon taking enough damage, the Elder Bigfoot will summon another Bigfoot. He can do this multiple times.
-    14. Look into the pile of poop in the next room. Dig deeper into the poo 3 times, in which you'll find the actual body of the son.
-    15. Head back to the Royal Capital to deliver the dead body. 
-    16. Complete the request and receive Gem of Org x50 (one-time only), 20,000 gold, Giant Beast Ape Light Armor, and Bernard, Father Restored to Life (MAG Power) as a bondmate.
+    === "1st Body (Bernard)"
+    
+        - Accept the request at the Royal Capital Guild and return to Isberg.
+            - Talk to the old lady NPC and pay 300 Gold. 
+            - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
+        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
+        - Head north to the two locked houses on the bottom-left side of the map. 
+            - Top house contains faction-related clothing and a body part. 
+            - Left house contains an ambush after entering the storage area. Defeat all 6 Dragonflies and collect the faction-related insignia on the floor along with some Lulu text that this is not the correct body.
+        - Go to Route 4's Harken and walk to the central area located at (X:16, Y:14). It is critical that Route 4 is entered via the Harken since the capture the adults request is active and a wagon will be blocking the route from the Route 4 entrance. 
+        - Return to the Royal Capital Guild and hand over the body. The revived Sea Freighter, Bernard, will share that his son, Laurent, likely left wax tablets as clues for him to follow in case they were ever separated.
 
+            ??? note "Body Retrieval Troubleshooting"
+                - If the body was too damaged to revive, then double-check that Short Rest in the Cabin - Village Adults is toggled to "Did not encounter them". When you first zone into Route 9 you should receive a pop-up with the request from Lulu. 
+                - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild.
 
+    === "2nd Body (Laurent)"
+
+        - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
+        - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile to collect. They must be collected in the exact order listed otherwise the subsequent ones will not spawn.
+
+            ??? note "Route 3"
+            
+                - Harken to Route 2 and enter Route 3, then look for the tablets in this order: 
+                    - (X:6, Y:17) - Located behind the 2nd house by the entrance
+                    - (X:2,Y:2) - Located a few steps from the Route 3 entrance
+            
+            ??? note "Route 2" 
+            
+                - Return to Route 2 and find a tablet at: 
+                    - (X:21, Y:19) - Few steps southwest of the reversal tree stump
+
+            ??? note "Route 7"
+            
+                - If all the shorcuts are open and/or you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
+                - If the shortcuts are not open, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                    - (X:13, Y:23) - Central 3x3 room 
+                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+                - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
+                    - (X:19, Y:7) - Northwest of Route 8 stairs
+                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                - When finished return to the Route 7 Harken, go left, and exit to Route 9 
+    
+            ??? note "Route 9"
+            
+                - Find the tablet at: 
+                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+    
+            ??? note "Route 10"
+        
+                - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                    - (X:20, Y:6) - Tile left of the first Stone God altar
+                    - (X:4, Y:3) - On the bridge to the far left house
+                    - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                    - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+                    - (X:1, Y:24) - Check the nullstone 
+    
+                    ??? note "Troubleshooting"
+    
+                        - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
+                        - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
+                        - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
+                        
+                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
+                - Defeat the Bigfoot boss. 
+                - Examine the pile of poop in the next room
+                - Dig deeper into the pile 3 times to discover the body of Laurent
+                - Exit the cave and return to the Royal Capital to delivery the dead body
+
+            ??? note "Rewards"
+
+                - Achievement: 
+                - Bondmate: Bernard, Father Restored to Life (Magic Power)
+                - Gem of Org x50 (one-time only)
+                - 20,000 Gold 
+                - Giant Beast Ape Light Armor (can be farmed monthly) 
+                
 
 
 
