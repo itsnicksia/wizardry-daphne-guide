@@ -45,12 +45,12 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
 
-        ??? note "Notes"
-
-            - When resetting the request you have to fully jump to Deepsnow Hinterlands Entrance, go back to the Ruins, and then jump again to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you simply wheel-in-place. 
-            - The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
+            ??? note "Notes"
     
-??? tip "Guiding Lights"
+                - When resetting the request you have to fully jump to Deepsnow Hinterlands Entrance, go back to the Ruins, and then jump again to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you simply wheel-in-place. 
+                - The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
+    
+??? tip "Guiding Light"
 
     === "Unlock Condition" 
 
@@ -279,7 +279,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 - At ~80% HP the Cyclops will summon another Bigfoot
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
 
-##### Pontiff Route
+#### Pontiff Route
 
 - The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible.
 - A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
@@ -603,7 +603,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
                 - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
 
-##### Admiral Route
+#### Admiral Route
 
 - The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village.
 - To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
@@ -619,7 +619,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     ??? note "Note on Initial Choices" 
     
-        - The Admiral route is deceptively structured. The initial choices of "Capture a witch" or "Threaten" have no influence over the ending that you receive
+        - The Admiral route is deceptively structured as the initial choices of "Capture a witch" or "Threaten" have no impact on the ending
         - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
         - Elencia's post-battle status (dead or alive) determines the ending
         - The "Prepare Sedative" option is self-contained and separate from the brazier offerings mechanic    
@@ -937,22 +937,41 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
 
     ??? note "Cursed Wheel Settings" 
-    
-        - Short Rest in the Cabin
-            - North Lakeshore Cabin - "Fixed it up"
-            - Dwarves' Cave - Any
-            - Village Adults - "Did not encounter them"
-                - If the village adults have been captured, then the first body will be in poor condition and the request will end
+
+        === "First Run"
+
+            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins
+            - Wheel to Short Rest in the Cabin with the following toggles selected:
+                - North Lakeshore Cabin - "Fixed it up"
+                - Dwarves' Cave - Any
+                - Village Adults - "Did not encounter them"
+                    - If the village adults have been captured, then the first body will be in poor condition and the request will end
         - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
-
             !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
-    
-    ??? note "Reset Faction Request" 
-    
-        - Deepsnow Hinterlands Entrance > Short Rest in the Cabin 
-        - Subsequent runs > "Did not take the request" under the "Search for..." sub-node
 
-            !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
+        === "Reset for 1st Body"
+
+            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins
+            - Wheel to Short Rest in the Cabin with the following toggles selected:
+                - North Lakeshore Cabin - "Fixed it up"
+                - Dwarves' Cave - Any
+                - Village Adults - "Did not encounter them"
+                - Search for the ... - "Did not take the request"
+
+        === "Reset for 2nd Body"
+
+            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins
+            - Wheel to Short Rest in the Cabin with the following toggles selected:
+                - North Lakeshore Cabin - "Fixed it up"
+                - Dwarves' Cave - Any 
+                - Village Adults - "Secured all of them"
+                - Search for the ... - "The older brother's body was resurrected"
+
+        === "Troubleshooting"
+
+            - For any reset you must always start by wheeling back to Deepsnow Hinterlands Entrance. It clears all active flags and reduces the chance of a bug appearing, which is common when you have two requests active that share the same map.
+            - Always double- or triple-check that the Cursed Wheel toggles are set correctly as they have a tendency to flip back to a default setting when changing multiple toggles at the same time.  
+            - Worst case wheeling to "Fresh Start" in Abyss 1 tends to clear any broken flags or bugs, but will reset all of your map data.
 
     
     ??? danger "Warning! Blind Runs" 
@@ -980,7 +999,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         ![](./img/bigfoot-cave.png)
         </div>
 
-##### Faction Request Guides 
+#### Faction Request Walkthroughs 
 
 ??? note "Princess Route - Search for Missing Royal Knights"
 
@@ -1035,6 +1054,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 ??? note "Route 10"
                 
                     - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+                    
                         - (X:25, Y:4) - Few steps north of Route 10 entrance 
                         - (X:20, Y:6) - Tile left of the first Stone God altar
                         - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
@@ -1060,7 +1080,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - Bondmate: Elliot, the Lamenting Brother (Attack Power)
                     - Gem of Org x50 (one-time only)
                     - 30,000 Gold
-                    - Giant Beast Ape Heavy Armor (one-time only?)
+                    - Giant Beast Ape Heavy Armor (can be farmed monthly)
 
     === "Boss: Bigfoot"
 
