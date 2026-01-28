@@ -116,9 +116,6 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 #### Princess Route 
 
-- The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch.
-- Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution, you can consult with an Herbalist, Physician, or Mystic. 
-
 ??? note "Princess Ending Guides"
 
     ??? note "Bad Ending - Consult with an Herbalist"
@@ -280,9 +277,6 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 - Cyclop's "Wheeling Cleave" can kill multiple team members 
 
 #### Pontiff Route
-
-- The Pontiff route is a race against time to discover the identity of the witch to stop the ongoing witch burnings. The goal is to open the door to the witch's room on B2F as fast as possible.
-- A demonic brazier blocks entry to the witch's room until you have made a certain number of offerings. However, each time you return to town for an offering an innocent person is burned.  
 
 ??? warning "Mechanics" 
 
@@ -604,9 +598,6 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
 
 #### Admiral Route
-
-- The Admiral's goal is to stop the witch hunts at the request of the elven Kinlord and his representative, Elinas, whose territory is adjacent to Elden Hill Village.
-- To put an end to the witch burnings Pickerel suggests finding a "true" witch, threatening the local cleric to bring in the Cathedral Church, or sedating the villagers.   
 
 ??? warning "Notes on 1/8 Patch"
 
@@ -939,14 +930,14 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     ??? note "Cursed Wheel Settings" 
 
         === "First Run"
-
+        
             - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins
             - Wheel to Short Rest in the Cabin with the following toggles selected:
                 - North Lakeshore Cabin - "Fixed it up"
                 - Dwarves' Cave - Any
                 - Village Adults - "Did not encounter them"
                     - If the village adults have been captured, then the first body will be in poor condition and the request will end
-            
+                    
                 !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
 
         === "Reset for 1st Body"
