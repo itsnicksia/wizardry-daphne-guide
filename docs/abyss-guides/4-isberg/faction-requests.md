@@ -40,15 +40,15 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Admiral: 3
         - Total: 10 
 
-    === "Reset Request" 
+    === "How to Reset Request" 
     
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
-
-            ??? note "Notes"
+        
+    === "Reset Notes"
     
-                - When resetting the request you have to fully jump to Deepsnow Hinterlands Entrance, go back to the Ruins, and then jump again to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you simply wheel-in-place. 
-                - The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
+        - When resetting the request you have to fully jump to Deepsnow Hinterlands Entrance, go back to the Ruins, and then jump again to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you simply wheel-in-place. 
+        - The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
     
 ??? tip "Guiding Light"
 
@@ -114,7 +114,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         ![](./img/witchs-cave-b2f.png)
         </div>
 
-#### Chancellor Serpens (Princess) Route 
+#### Princess Route 
 
 - The goal of the Princess route is to solve Rosa's mysterious affliction that the villagers believe is the work of a witch.
 - Pulgritte thinks that if Rosa is cured, then the villagers will stop the witch burnings. To develop a solution, you can consult with an Herbalist, Physician, or Mystic. 
@@ -946,8 +946,8 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - Dwarves' Cave - Any
                 - Village Adults - "Did not encounter them"
                     - If the village adults have been captured, then the first body will be in poor condition and the request will end
-        - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
-            !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
+            - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
+                !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
 
         === "Reset for 1st Body"
 
@@ -965,13 +965,13 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - North Lakeshore Cabin - "Fixed it up"
                 - Dwarves' Cave - Any 
                 - Village Adults - "Secured all of them"
-                - Search for the ... - "The older brother's body was resurrected"
+                - Search for the [Faction Missing Person] - "The older brother's body was resurrected"
 
         === "Troubleshooting"
 
             - For any reset you must always start by wheeling back to Deepsnow Hinterlands Entrance. It clears all active flags and reduces the chance of a bug appearing, which is common when you have two requests active that share the same map.
             - Always double- or triple-check that the Cursed Wheel toggles are set correctly as they have a tendency to flip back to a default setting when changing multiple toggles at the same time.  
-            - Worst case wheeling to "Fresh Start" in Abyss 1 tends to clear any broken flags or bugs, but will reset all of your map data.
+            - As a worst case option you can wheel to "Fresh Start" in Abyss 1 to clear any broken flags or bugs, but it will reset all of your map data.
 
     
     ??? danger "Warning! Blind Runs" 
@@ -1067,7 +1067,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                                 - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
                                 - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
                                 - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
-                        - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
+                    - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
                     - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
                     - Defeat the Bigfoot boss 
                     - Examine the pile of poop in the next room
