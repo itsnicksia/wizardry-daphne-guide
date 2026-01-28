@@ -999,88 +999,86 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         ![](./img/bigfoot-cave.png)
         </div>
 
-#### Faction Request Walkthroughs 
+#### Princess Route 
 
-??? note "Princess Route - Search for Missing Royal Knights"
+??? note "Search for Missing Royal Knights"
+    
+    === "1st Body (Elliot)"
+    
+        - Accept the request at the Royal Capital Guild and return to Isberg.
+            - Talk to the old lady NPC and pay 300 Gold. 
+            - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
+        - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
+        - Head north to the two locked houses on the bottom-left side of the map. 
+            - Top house contains faction-related clothing and a body part. 
+            - Left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor along with some Lulu text that this is not the correct body.
+        - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house to find the body of the first missing Royal Knight in a cage.
+        - Return to the Royal Capital Guild and hand over the body. The revived Royal Knight, Elliot, will share that his missing brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
 
-    === "Walkthrough"
-    
-        === "1st Body (Elliot)"
-        
-            - Accept the request at the Royal Capital Guild and return to Isberg.
-                - Talk to the old lady NPC and pay 300 Gold. 
-                - Go to the Inn, talk to the Innkeeper, and pay 300 Gold.
-            - Go to Route 3, enter the Mayor's House, and obtain a faction-related helmet and the Rockhome Village Key. To avoid the spike traps return to the Harken, select Route 2, and re-enter Route 3.
-            - Head north to the two locked houses on the bottom-left side of the map. 
-                - Top house contains faction-related clothing and a body part. 
-                - Left house contains an ambush after entering the storage area. Defeat all 6 Desert Insects and collect the faction-related insignia on the floor along with some Lulu text that this is not the correct body.
-            - From the two houses head north, loop around to the east, and head south to the house located at the middle-bottom part of the map. You will encounter Mike, one of the village adults, and fight 3 goblins. Enter the house to find the body of the first missing Royal Knight in a cage.
-            - Return to the Royal Capital Guild and hand over the body. The revived Royal Knight, Elliot, will share that his missing brother, Philip, likely left wax tablets as clues for him to follow in case they were ever separated.
-    
-                ??? note "Body Retrieval Troubleshooting"
-                    - If the body was too damaged to revive, then double-check that Short Rest in the Cabin - Village Adults is toggled to "Did not encounter them". When you first zone into Route 9 you should receive a pop-up with the request from Lulu. 
-                    - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild.
-    
-        === "2nd Body (Philip)"
-    
-            - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
-            - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile to collect. 
-            - The tablets must be collected in the exact order listed otherwise the subsequent ones will not spawn.
-    
-                ??? note "Route 3"
-                
-                    - Harken to Route 3 and find the tablets in this order: 
-                        - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
-                        - (X:26, Y:24) - Few steps southeast of Route 4 entrance
-        
-                ??? note "Route 7"
-                
-                    - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
-                    - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-                        - (X:13, Y:23) - Central 3x3 room 
-                        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-                    - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
-                        - (X:19, Y:7) - Northwest of Route 8 stairs 
-                        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                        - (X:15, Y:24) - Few steps south of the Harken
-                    - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
-        
-                ??? note "Route 9"
-                
-                    - Find the tablet at: 
-                        - (X:1, Y:7) - Upper left-hand side of the first house in the grass
-                    - Return to the Route 7 Harken. 
-        
-                ??? note "Route 10"
-                
-                    - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
-                    
-                        - (X:25, Y:4) - Few steps north of Route 10 entrance 
-                        - (X:20, Y:6) - Tile left of the first Stone God altar
-                        - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                        - (X:2, Y:15) - First tile in the northwest blizzard zone 
-                        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                        - (X:1, Y:24) - On the nullstone 
-    
-                            ??? note "Troubleshooting"
-        
-                                - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
-                                - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
-                                - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
-                    - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
-                    - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
-                    - Defeat the Bigfoot boss 
-                    - Examine the pile of poop in the next room
-                    - Select the head with red hair (Philip)
-                    - Exit the cave and bring the head back to the Royal Capital Guild to complete the request.
+            ??? note "Body Retrieval Troubleshooting"
+                - If the body was too damaged to revive, then double-check that Short Rest in the Cabin - Village Adults is toggled to "Did not encounter them". When you first zone into Route 9 you should receive a pop-up with the request from Lulu. 
+                - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild.
+
+    === "2nd Body (Philip)"
+
+        - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
+        - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile to collect. 
+        - The tablets must be collected in the exact order listed otherwise the subsequent ones will not spawn.
+
+            ??? note "Route 3"
             
-                ??? warning "Rewards"
+                - Harken to Route 3 and find the tablets in this order: 
+                    - (X:11, Y:25) - Northwest of the Harken on the ground by a tree
+                    - (X:26, Y:24) - Few steps southeast of Route 4 entrance
+    
+            ??? note "Route 7"
             
-                    - Achievement: A Brother to be Proud Of 
-                    - Bondmate: Elliot, the Lamenting Brother (Attack Power)
-                    - Gem of Org x50 (one-time only)
-                    - 30,000 Gold
-                    - Giant Beast Ape Heavy Armor (can be farmed monthly)
+                - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
+                - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                    - (X:13, Y:23) - Central 3x3 room 
+                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+                - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
+                    - (X:19, Y:7) - Northwest of Route 8 stairs 
+                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                    - (X:15, Y:24) - Few steps south of the Harken
+                - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
+    
+            ??? note "Route 9"
+            
+                - Find the tablet at: 
+                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+                - Return to the Route 7 Harken. 
+    
+            ??? note "Route 10"
+            
+                - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+                
+                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                    - (X:20, Y:6) - Tile left of the first Stone God altar
+                    - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                    - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+                    - (X:1, Y:24) - On the nullstone 
+
+                        ??? note "Troubleshooting"
+    
+                            - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
+                            - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
+                            - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
+                - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
+                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
+                - Defeat the Bigfoot boss 
+                - Examine the pile of poop in the next room
+                - Select the head with red hair (Philip)
+                - Exit the cave and bring the head back to the Royal Capital Guild to complete the request.
+        
+            ??? warning "Rewards"
+        
+                - Achievement: A Brother to be Proud Of 
+                - Bondmate: Elliot, the Lamenting Brother (Attack Power)
+                - Gem of Org x50 (one-time only)
+                - 30,000 Gold
+                - Giant Beast Ape Heavy Armor (can be farmed monthly)
 
     === "Boss: Bigfoot"
 
@@ -1105,36 +1103,38 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     
         Each body has a set of toggles listed under Short Rest in the Cabin and Being That Dwellls in the House of God, respectively. 
         
-        ??? note "Search for the Royal Knights"
+            ??? note "Search for the Royal Knights"
+    
+                - Requirement: Accept the request when first entering the Royal Capital 
+                - Cursed Wheel: Short Rest in the Cabin
+                - Toggles:
+                    - Did not take the request
+                        - Decline the request when you first enter the Royal Capital 
+                        - Note that it will not be offered again without resetting
+                    - Ended the search without finding them 
+                        - Accept the request and step foot into Route 10
+                    - Brought back a body that could not be revived 
+                        - Select Village Adults - "Secured all of them"
+                        - Spike traps should be gone
+                        - Retrieve the Royal Knight's body (Elliot) in Mike's house in Route 3 and return to the Guild
+                    - The older brother's body was resurrected 
+                        - Follow the steps outlined in the walkthrough
+    
+            ??? note "Search for the Royal Knight's Brother"
+    
+                - Requirement: Revive the 1st body (Elliot) 
+                - Cursed Wheel: Being That Dwells in the House of God 
+                - Toggles:
+                    - Was not found 
+                        - Step foot into Route 11 
+                    - Body was found and brought back 
+                        - Select the red-haired head (Philip) from the Bigfoot poo pile
+                    - Body was found but it was someone else
+                        - Select any of the incorrect heads from the Bigfoot poo pile
 
-            - Requirement: Accept the request when first entering the Royal Capital 
-            - Cursed Wheel: Short Rest in the Cabin
-            - Toggles:
-                - Did not take the request
-                    - Decline the request when you first enter the Royal Capital 
-                    - Note that it will not be offered again without resetting
-                - Ended the search without finding them 
-                    - Accept the request and step foot into Route 10
-                - Brought back a body that could not be revived 
-                    - Select Village Adults - "Secured all of them"
-                    - Spike traps should be gone
-                    - Retrieve the Royal Knight's body (Elliot) in Mike's house in Route 3 and return to the Guild
-                - The older brother's body was resurrected 
-                    - Follow the steps outlined in the walkthrough
+#### Pontiff Route 
 
-        ??? note "Search for the Royal Knight's Brother"
-
-            - Requirement: Revive the 1st body (Elliot) 
-            - Cursed Wheel: Being That Dwells in the House of God 
-            - Toggles:
-                - Was not found 
-                    - Step foot into Route 11 
-                - Body was found and brought back 
-                    - Select the red-haired head (Philip) from the Bigfoot poo pile
-                - Body was found but it was someone else
-                    - Select any of the incorrect heads from the Bigfoot poo pile
-
-??? note "Pontiff Route - Search for Adherent Acquaintances" 
+??? note "Search for Adherent Acquaintances" 
 
     === "1st Body (William)"
 
@@ -1149,7 +1149,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Return to the Royal Capital Guild and hand over the body. The revived Cathedral knight, William, will share that his missing wife, Agnes, likely left wax tablets as clues for him to follow in case they were ever separated.
 
             ??? note "Body Retrieval Troubleshooting"
-                - If the body was too damaged to revive, then double-check that Short Rest in the Cabin > Village Adults is toggled to "Did not encounter them"
+                - If the body was too damaged to revive, then double-check that Short Rest in the Cabin - Village Adults is toggled to "Did not encounter them". When you first zone into Route 9 you should receive a pop-up with the request from Lulu.
                 - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild
 
     === "2nd Body (Agnes)"
@@ -1234,47 +1234,49 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - The boss fight is against a lone Bigfoot. 
         - After taking a certain amount of damage, they will begin self-buffing. Each buff lasts 10 turns, and can knock previous buffs off (3 buff limit). Alternatively, you can dissipate the buffs yourself.
 
-    === "Farming"
+    === "Bondmate Farming"
 
         - The search for the 1st body (William) can be completely skipped
-        - Cursed Wheel: 
-            - Deepsnow Hinterlands Entrance > Ruins 
-            - Short Rest in the Cabin > Search for the Church Adherents > toggle "The husband's body was resurrected"
-            - Note: The request cannot be reset by wheeling in place
+        - The request must be reset each time. First wheel to Deepsnow Hinterlands entrance, go to the Ruins, and select the following options in the Cursed Wheel: 
+            - Short Rest in the Cabin 
+                - North Lakeshore Cabin - "Fixed it up"
+                - Dwarves' Cave - Any 
+                - Village Adults - "Secured all of them"
+                - Search for the Church Adherents - "The husband's body was resurrected"
         - The request will be active after wheeling to Short Rest in the Cabin 
-        - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets  
+        - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets
         
     === "Cursed Wheel Nodes"
 
         - There is a sub-node with toggles for each of the bodies listed under Short Rest in the Cabin and Being That Dwellls in the House of God. 
 
-            ??? note "Search for the Church Adherents"
-    
-                - Requirement: Accept the request when first entering the Royal Capital 
-                - Cursed Wheel: Short Rest in the Cabin
-                - Toggles: 
-                    - Did not take the request
-                        - Decline the request when you first enter the Royal Capital 
-                        - Note that it will not be offered again without resetting
-                    - Ended the search without finding them 
-                        - Accept the request
-                        - Step foot into Route 10
-                    - Brought back a body that could not be revived 
-                        - Select Village Adults - Secured all of them
-                        - Retrieve the Cathedral Knight's body (William) in Otto's backyard in Route 5
-                    - The husband's body was resurrected 
-    
-            ??? note "Search for the Church Adherent's Wife"
-                    
-                - Requirement: Revive the 1st body (William) 
-                - Cursed Wheel: Being That Dwells in the House of God 
-                - Toggles:
-                    - Was not found 
-                        - Step foot into Route 11 
-                    - Stonefolk was found and reunited with her husband 
-                        - See "Best Ending (Bondmate)" for steps
-                    - Body was found but it was someone else
-                        - Select any of the heads from the Bigfoot poo pile
+                ??? note "Search for the Church Adherents"
+        
+                    - Requirement: Accept the request when first entering the Royal Capital 
+                    - Cursed Wheel: Short Rest in the Cabin
+                    - Toggles: 
+                        - Did not take the request
+                            - Decline the request when you first enter the Royal Capital 
+                            - Note that it will not be offered again without resetting
+                        - Ended the search without finding them 
+                            - Accept the request
+                            - Step foot into Route 10
+                        - Brought back a body that could not be revived 
+                            - Select Village Adults - Secured all of them
+                            - Retrieve the Cathedral Knight's body (William) in Otto's backyard in Route 5
+                        - The husband's body was resurrected 
+        
+                ??? note "Search for the Church Adherent's Wife"
+                        
+                    - Requirement: Revive the 1st body (William) 
+                    - Cursed Wheel: Being That Dwells in the House of God 
+                    - Toggles:
+                        - Was not found 
+                            - Step foot into Route 11 
+                        - Stonefolk was found and reunited with her husband 
+                            - See "Best Ending (Bondmate)" for steps
+                        - Body was found but it was someone else
+                            - Select any of the heads from the Bigfoot poo pile
 
 ??? note "Admiral Route - Search Bernard and Young Laurent"
 
