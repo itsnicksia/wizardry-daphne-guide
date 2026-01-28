@@ -930,15 +930,14 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     ??? note "Cursed Wheel Settings - First Run and Resets" 
 
         === "First Run"
-        
-            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins
+
+            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins.
             - Wheel to Short Rest in the Cabin with the following toggles selected:
                 - North Lakeshore Cabin - "Fixed it up"
-                - Dwarves' Cave - Any
+                - Dwarves' Cave - Any 
                 - Village Adults - "Did not encounter them"
-                    - If the village adults have been captured, then the first body will be in poor condition and the request will end
-                    
-                !!! warning "Double-check that all the Cursed Wheel toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them"
+                    - If the village adults have been captured, then the first body will be in poor condition and the request will end.
+            - Double-check that all toggles are set correctly before wheeling because they have a tendency to automatically shift depending on the order you change them.
 
         === "Reset for 1st Body"
 
@@ -1099,7 +1098,6 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             ??? note "Short Rest in the Cabin - Search for the Royal Knights"
     
                 - Requirement: Accept the request when first entering the Royal Capital 
-                - Cursed Wheel: Short Rest in the Cabin
                 - Toggles:
                     - Did not take the request
                         - Decline the request when you first enter the Royal Capital 
@@ -1116,7 +1114,6 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             ??? note "Being That Dwells in the House of God - Search for the Royal Knight's Brother"
     
                 - Requirement: Revive the 1st body (Elliot) 
-                - Cursed Wheel: Being That Dwells in the House of God 
                 - Toggles:
                     - Was not found 
                         - Step foot into Route 11 
@@ -1330,7 +1327,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
                     - (X:19, Y:7) - Northwest of Route 8 stairs
                     - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                - When finished return to the Route 7 Harken, go left, and exit to Route 9 
+                - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
     
             ??? note "Route 9"
             
@@ -1338,8 +1335,9 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:1, Y:7) - Upper left-hand side of the first house in the grass
     
             ??? note "Route 10"
-        
+            
                 - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+                
                     - (X:25, Y:4) - Few steps north of Route 10 entrance 
                     - (X:20, Y:6) - Tile left of the first Stone God altar
                     - (X:4, Y:3) - On the bridge to the far left house
@@ -1349,9 +1347,11 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:1, Y:24) - Check the nullstone 
     
                     ??? note "Troubleshooting"
-    
+
                         - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
-                        - If you were missing a tablet and reversed the nullstone, then 1) find the tablet you missed and 2) re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected.
+                        - If you were missing a tablet and reversed the nullstone do the following steps: 
+                            - Find the tablet you missed 
+                            - Re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected
                         - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
                         
                 - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
@@ -1382,8 +1382,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             - Dwarves' Cave - Any 
             - Village Adults - "Secured all of them"
             - Search for the Sea Freighter Agents - "The father's body was resurrected"
-        - The request will be active after wheeling to Short Rest in the Cabin. 
-        - Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets.
+        - The request will be active after wheeling to Short Rest in the Cabin. Use the nearby Route 9 Harken to go to Route 3 to begin collecting the tablets.
 
     === "Registering Cursed Wheel Toggles"
     
@@ -1392,7 +1391,6 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             ??? note "Short Rest in the Cabin - Search for the Sea Freighter Agents"
     
                 - Requirement: Accept the request when first entering the Royal Capital 
-                - Cursed Wheel: Short Rest in the Cabin
                 - Toggles:
                     - Did not take the request
                         - Decline the request when you first enter the Royal Capital 
@@ -1409,7 +1407,6 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             ??? note "Being That Dwells in the House of God - Search for the Sea Freighter Agent's Son"
     
                 - Requirement: Revive the 1st body (Bernard) 
-                - Cursed Wheel: Being That Dwells in the House of God 
                 - Toggles:
                     - Was not found 
                         - Step foot into Route 11 
