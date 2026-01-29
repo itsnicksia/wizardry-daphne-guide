@@ -77,7 +77,7 @@ Click here for the current [Equipment Table data wishlist](./equipment-tables-wi
        {{ get_equip_table_formatted("weapon", "Sam_Odachi") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Ninjato"
-       {{ get_equip_table_formatted("weapon", "Ninja_Blade") | convert_to_md_table | add_indentation(spaces=8) }}
+       {{ get_equip_table_formatted("weapon", "Ninjato") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Ninja Throwing Weapons"
        {{ get_equip_table_formatted("weapon", "Ninja_Throw") | convert_to_md_table | add_indentation(spaces=8) }}
