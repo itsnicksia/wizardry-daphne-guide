@@ -94,14 +94,27 @@ extra text can be added between skills
         {{ get_skill_description(chardata['Alternate Discipline']) }}
 {% endif %}
 
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
+<!--
 ## Adventurer Reviews
 
-* TBD
-    
+??? info "ABC's Analysis"
+    -text-
+
+??? info "DEF's Analysis"
+    -text-
+-->
+
+<!--
 ## Adventurer Pull Plans
 
-* TBD
+??? note "ABC's Pull Plan"
+    -text-
+-->
   
+<!--  
 ## Duplicate Usage
 
-* TBD
+*  option 1
+*  option 2
+-->
