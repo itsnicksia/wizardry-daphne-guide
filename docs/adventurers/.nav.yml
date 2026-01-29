@@ -201,3 +201,6 @@ nav:
     - Human-Pri:
         - Details: './anonymous-adventurers/details/Human-Pri.md'
         - Life Story: './anonymous-adventurers/life-stories/Human-Pri.md'
+    - Human-Sam:
+        - Details: './anonymous-adventurers/details/Human-Sam.md'
+        - Life Story: './anonymous-adventurers/life-stories/Human-Sam.md'
