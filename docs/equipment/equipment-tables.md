@@ -14,22 +14,22 @@ Click here for the current [Equipment Table data wishlist](./equipment-tables-wi
     <div  class="nofilter-table nosort-table equipment-table" markdown>
 
     === "Head"
-{{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=8) }}
+        {{get_equip_table_formatted("armor", "Head") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Body"
-{{get_equip_table_formatted("armor", "Body") | convert_to_md_table | add_indentation(spaces=8) }}
+        {{get_equip_table_formatted("armor", "Body") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Feet"
-{{get_equip_table_formatted("armor", "Feet") | convert_to_md_table | add_indentation(spaces=8) }}
+        {{get_equip_table_formatted("armor", "Feet") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Hands"
-{{get_equip_table_formatted("armor", "Hands") | convert_to_md_table | add_indentation(spaces=8) }}
+        {{get_equip_table_formatted("armor", "Hands") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Shield"
-{{get_equip_table_formatted("armor", "Shield") | convert_to_md_table | add_indentation(spaces=8) }}
+        {{get_equip_table_formatted("armor", "Shield") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Accessories"
-{{get_equip_table_formatted("armor", "Accessories") | convert_to_md_table | add_indentation(spaces=8) }}
+        {{get_equip_table_formatted("armor", "Accessories") | convert_to_md_table | add_indentation(spaces=8) }}
 
     </div>
 
