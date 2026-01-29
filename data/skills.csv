@@ -172,7 +172,7 @@ Knight's Defense,Active,,Reduces all damage taken by all allies for 1 turn.,Dama
 Knight's Oath,Discipline,,"Continuously increases each stat, SP and Resistance increased further.",SP and Resistance increased further based on skill level.,,,,Clarissa,
 Knowledge of Adventurers,Discipline,,"Continuously increases each stat, Attack Power and Detect increased further.",Attack Power and Detect increased further based on skill level.,,,,Olive,
 Knowledge of the Millennial Lord,Passive,,Continuously reduces the MP/SP cost of Mage spells/skills that cost 3-10 MP/SP.,,,,,Adam,
-Kunoichi Self-Discipline,Discipline,,Continuously increases each stat.,Stats increased further based on skill level.,,,,Human-Nin,
+Kunoichi Self-Discipline,Discipline,,"Continuously increases each stat, with Action Speed increased even further.",Stats increased further based on skill level.,,,,Human-Nin,
 KUSFIS,Support,True,Words of prayer that cure 1 ally of Skill-binding or Spell-binding.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",27,Priest,,,Galina
 LACONES,Damage,,Launches countless orbs of magic power that deal moderate untyped spell damage to all enemies.,Efficacy increased based on skill level.,40,Mage,Mage-specific,,
 LAERLIK,Damage,,"Upheaves the ground, loosing a massive boulder which deals moderate earth spell damage to all enemies.",Efficacy increased based on skill level.,40,Mage,Mage-specific,,
@@ -406,6 +406,7 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
