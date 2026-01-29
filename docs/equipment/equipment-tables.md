@@ -73,7 +73,10 @@ Click here for the current [Equipment Table data wishlist](./equipment-tables-wi
     === "Samurai Katana"
        {{ get_equip_table_formatted("weapon", "Sam_Katana") | convert_to_md_table | add_indentation(spaces=8) }}
 
-    === "Ninja Blades"
+    === "Samurai Odachi"
+       {{ get_equip_table_formatted("weapon", "Sam_Odachi") | convert_to_md_table | add_indentation(spaces=8) }}
+
+    === "Ninjato"
        {{ get_equip_table_formatted("weapon", "Ninja_Blade") | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Ninja Throwing Weapons"
