@@ -102,7 +102,7 @@ Elf Mage Discipline,Discipline,,Continuously increases each stat.,Stats increase
 Elf Priest Discipline,Discipline,,Continuously increases each stat.,Stats increased further based on skill level.,,,,Elf-Pri,
 Empty Husk,Passive,,"Fixed chance of evading an enemy attack, apart from the enemy attack's standard hit determination. Evasion occurrence rate increased when wearing no armor.",Evasion occurrence rate increased based on skill level.,16,Ninja,,,
 Enlightenment of the Brink of Death,Passive,,Increases Surety for user and all adjacent evil allies.,,,,,Rinne,
-Ephemeral Illusion Stance,Active,,Enters the Ephemeral Illusion Stance for 1 turn and performs a massive air-type physical attack that bypasses Defense Power on 1 enemy. Increases own Action Speed and increases damage taken. Stance is cancelled if damage is taken during stance. Can only be used once per battle when own HP is 30% or under.,Efficacy increased based on skill level.,1,,"Samurai-specific, Katana-specific",Shiou,
+Ephemeral Illusion Stance,Active,,Enters the Ephemeral Illusion Stance for 1 turn and performs a massive air-type physical attack that bypasses Defense Power on 1 enemy. Increases own Action Speed and increases damage taken. Stance is cancelled if damage is taken during stance. Can only be used once per battle when own HP is 30% or under.,Efficacy increased based on skill level.,1,,"Samurai-specific, Katana/Odachi-specific",Shiou,
 ERLIK,Damage,,Flings gravel that deals minor earth spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 Eruption Strike,Active,True,Moderate fire type physical attack on 1 enemy. Increases Accuracy when equipped with a two-handed blunt weapon and boosts damage. Damage is reduced if learned by someone other than Gerulf.,Efficacy increased based on skill level and Accuracy increased further when equipped with a two-handed blunt weapon.,,,Close/mid-range weapon-specific,Gerulf,
 Exploit Weakness,Active,,Moderate physical attack on 1 enemy. Damage increases based on the number of status afflictions affecting the target.,Efficacy increased based on skill level.,68,Thief,Thief-specific,,
@@ -405,6 +405,7 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
