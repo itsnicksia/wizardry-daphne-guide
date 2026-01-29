@@ -40,7 +40,7 @@ Heinrico,Elf,Male,Earth,Neutral,Ranger,,,,Anticipated Attack,,Wide Volley,Wayfar
 Human-Fig,Human,Male,Water,Neutral,Fighter,,,,Passive Attack Power Up,,,Passive Attack Power Up (Innate),,Human Fighter Discipline,,Anonymous,14,13,12,13,13,11,11,,,2024-10-15,
 Human-Nin,Human,Female,Air,Evil,Ninja,,,,Passive Action Speed Up,,,Passive Action Speed Up,,Kunoichi Self-Discipline,,Anonymous,12,12,12,11,13,16,12,,,2025-07-10,
 Human-Pri,Human,Female,Fire,Good,Priest,,,,Passive MP Up,,,Passive MP Up (Innate),,Human Priest Discipline,,Anonymous,13,13,14,12,11,12,12,,,2024-10-15,
-Human-Sam,Human,Male,Water,Good,Samurai,,,,Passive Attack Power/Magic Power Up,,,Passive Attack Power/Magic Power Up (Innate),,HUMANSAMDISCSKILLNAME,,Anonymous,14,14,12,13,13,11,11,,,2026-01-29,
+Human-Sam,Human,Male,Water,Good,Samurai,,,,Passive Attack Power/Magic Power Up,,,Passive Attack Power/Magic Power Up (Innate),,Human Samurai Discipline,,Anonymous,14,14,12,13,13,11,11,,,2026-01-29,
 Iarumas,Human,Male,Null,Neutral,Mage of the Black Rod,,,,TZALIK,,,Mage of the Black Rod,,Amnesiac Corpse Retriever,,Legendary,15,13,12,14,14,12,13,Corpse Hauling Adventurer with a Black Rod,,2025-03-18,
 Jarmil,Human,Male,Air,Evil,Mage,Thief,,,FERU,,MAFERU,Air Formation,,Crafty Old Mage,,General,12,13,11,12,14,14,11,Sketchy Mage,,2024-10-15,
 Jean,Human,Male,Earth,Neutral,Thief,Mage,,,Treasure Trap Disarm Skill,,Passive Evasion Up (Thief),Earth Formation,,Locksmith's Craft,,General,12,11,11,14,14,13,12,Sooth Thief,,2024-10-15,
