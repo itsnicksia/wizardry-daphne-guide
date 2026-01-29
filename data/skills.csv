@@ -346,7 +346,7 @@ Spiritual Power of the Dark One,Discipline,,"Continuously increases each stat, w
 Stealth,Passive,True,Continuously increases Initiative rate.,Initiative rate increased further based on skill level.,15,Thief,,Amelia,
 Stirring Righteousness,Passive,,Increases damage to enemies for everyone in the user's row if it has only good or neutral allies.,,,,,Lanavaille,
 Storm-Bearer,Support,,Imbues the equipped katana with an air-type trait.,Damage dealth when striking a weak point with an air-type weapon increased based on skill level.,1/20/30/40,Samurai,"Samurai-specific, Katana-specific",,
-Strike of Righteous Fury,Damage,,"Minor physical attack on all enemies in the frontmost enemy row. Enrages the attacked enemy and has a chance to decrease their Defense Power based on the user's Strength for 2 turns. Enraged enemies will have reatly increased efficacy when attacking. The enraged status is note affected by effect duration-extending skills.  Usable only when an odachi is equipped at the start of the turn.","",999,Samurai,"Samurai-specific, Odachi-specific",,
+Strike of Righteous Fury,Damage,,"Minor physical attack on all enemies in the frontmost enemy row. Enrages the attacked enemy and has a chance to decrease their Defense Power based on the user's Strength for 2 turns. Enraged enemies will have reatly increased efficacy when attacking. The enraged status is note affected by effect duration-extending skills.  Usable only when an odachi is equipped at the start of the turn.","",58,Samurai,"Samurai-specific, Odachi-specific",,
 Strong and Gentle Priest,Discipline,,"Continuously increases each stat, Defense Power and Resistance increased further.",Defense Power and Resistance increased further based on skill level.,,,,Daniel,
 Strongest in the Village,Discipline,,"Continuously increases each stat, Attack Power and Defense Power increased further.",Attack Power and Defense Power increased further based on skill level.,,,,Benjamin,
 Strongly Selfish,Discipline,,"Continuously increases each stat, with Defense Power and Action Speed increased further.",Defense Power and Action Speed increased further based on skill level.,,,,Milana,
@@ -412,4 +412,5 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
