@@ -27,7 +27,7 @@
 
 
 ## Base Traits  
-=== "Class: {{chardata['Secondary Class']}}"
+=== "Class: {{chardata['Primary Class']}}"
 
     <div class="nofilter-table nosort-table char-traits-table" markdown>
 {{ populate_quicklist(file='adventurers.csv', return_columns=['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], filter_column="Name",filter_values=[title]) | convert_to_md_table | add_indentation(spaces=4) }}  
