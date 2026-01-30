@@ -99,5 +99,5 @@ extra text can be added between skills
 {% if chardata['Alternate Discipline'] %}
     === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Discipline']) }}
-        {% block DisciplineFreetext %}{% endblock %}
+        {% block AltDisciplineFreetext %}{% endblock %}
 {% endif %}
