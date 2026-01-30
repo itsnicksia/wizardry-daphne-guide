@@ -10,7 +10,7 @@
    title: Adam
 ---
 
-{% extends "./Adventurer_parent.md" %}
+{% extends "./Adventurer_parent" %}
 
 {% block InheritFreetext %}inheritfree{% endblock %}
 
