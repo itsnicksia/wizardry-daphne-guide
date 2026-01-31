@@ -17,7 +17,7 @@
     ??? danger "Oni Fight Details"
          - Has a lot of HP, several tens of thousands. Spawns with 2 Fire Hobbers in the same row.
          - Fire Element and does Fire Element attacks
-         - Always acts twice a turn.
+         - Acts once a turn, but after taking enough damage can move twice in a row???
          - Does extremely high damage, it's recommended to run a Knight with Knight's defense to deal with this fight.
          - Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
          - Will summon more Fire Hobbers after some turns or after taking enough damage.
