@@ -46,7 +46,8 @@ plugins:
   - glightbox
   - search
   - awesome-nav
-  - macros
+  - macros:
+      include_dir: templates/
   - table-reader
   - redirects:
       redirect_maps:
@@ -80,3 +81,6 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.6.0/dist/sorts/tablesort.number.min.js
   - https://unpkg.com/papaparse@5.4.0/papaparse.min.js
   - js/render-gsheets.js
+
+watch:
+  - main.py

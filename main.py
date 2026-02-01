@@ -161,3 +161,23 @@ def define_env(env):
                      + '(./skills-and-spells.md#' \
                      + df['Name'].str.replace(' ', '') + ')'
         return df
+
+def on_post_page_macros(env):
+    # Prints rendered markdown to debug_output folder in root of project folder
+    # for any file if 'debug_render: true' is found in header:
+
+    if not env.page.meta.get('debug_render', False):
+        return
+
+    print (f"Saving debug markdown file for page: {env.page.title}")
+
+    # Define save path off of project root, give same name as page title
+    savepath = f"{env.project_dir}/debug_output/{env.page.title}.md"
+    print (savepath)
+
+    try:
+        with open(savepath, "w") as f:
+            f.write(env.markdown)
+    except IOError as e:
+        print ("failed to write")
+

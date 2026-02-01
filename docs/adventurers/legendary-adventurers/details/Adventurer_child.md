@@ -6,42 +6,32 @@
 # name-class.jpg, name-altform.jpg, name-requestform-class.jpg
 #
 # Free text can still be added to any section, reviews at end, etc.
-
+   debug_render: true 
    title: Adam
 ---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{%+ block InheritFreetext %}
+!!! note "This skill removes the dampening from spells that deal element type damage as well as the damage caused by element type skills and when using elemental weapons."
+{% endblock %} 
 
-{% extends "Adventurer_parent.md" %}
-
-{% block InheritFreetext %}inheritfree{% endblock %}
-
-{% block AltInheritFreetext %}altinheritfree{% endblock %}
+{% block AltInheritFreetext %}
+HHHHHHHaltinheritfree
+{% endblock %}
+     
 {% block PotentialInheritFreetext %}potinheritfree{% endblock %}
 {% block UniqueSkillFreetext %}uniqueinheritfree{% endblock %}
 {% block AltUniqueSkillFreetext %}altuniqueskillfree{% endblock %}
 {% block DisciplineFreetext %}discfree{% endblock %}
 {% block AltDisciplineFreetext %}altdisc{% endblock %}
-        
+
+{% block ReviewsAndAnalysis %}        
 <!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
-<!--
 ## Adventurer Reviews
-
-??? info "ABC's Analysis"
-    -text-
-
-??? info "DEF's Analysis"
-    -text-
--->
-
-<!--
-## Adventurer Pull Plans
-
-??? note "ABC's Pull Plan"
-    -text-
--->
   
-<!--  
-## Duplicate Usage
+??? info "TheAxolotl's Analysis"
 
-*  option 1
-*  option 2
--->
+
+END OF PAGE  
+{%endblock ReviewsAndAnalysis %}
