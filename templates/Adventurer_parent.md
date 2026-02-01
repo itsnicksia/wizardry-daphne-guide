@@ -12,7 +12,6 @@
 {%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
 {%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
 
-
 ## Base Traits  
 === "Class: {{chardata['Primary Class']}}"
 
@@ -27,7 +26,6 @@
     {{ populate_quicklist(file='adventurers.csv', return_columns=['Strength2','IQ2','Piety2','Vitality2','Dexterity2','Speed2','Luck2'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
     </div>
 {% endif %}
-
 
 ??? info "Portraits"
     === "{{chardata['Primary Class']}}"
@@ -52,10 +50,6 @@
 {% endif %}
 
 ## Skills
-<!-- 
-skills will automatically fill
-extra text can be added between skills
--->
 
 {% if chardata['Alternate Style'] %}
 !!! note "Merging: If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills."
@@ -64,43 +58,51 @@ extra text can be added between skills
 !!! info "Inheritable Skill"
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Inheritable Skill']) }}
-
-        {%+ block InheritFreetext %}{% endblock %}
+        {% block InheritFreetext %}
+        {% endblock InheritFreetext %}
     
  {% if chardata['Alternate Inheritable Skill'] %}
     === "{{chardata['Alternate Inheritable Skill']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Inheritable Skill']) }}
-        {% block AltInheritFreetext %}{% endblock %}
+        {% block AltInheritFreetext %}
+        {% endblock AltInheritFreetext %}
  {% endif %}
 
 {% if chardata['Potential Inherit'] %}
 !!! info "Potential Inherit"
     === "{{chardata['Potential Inherit']}}"
         {{ get_skill_description(chardata['Potential Inherit']) }}
-        {% block PotentialInheritFreetext %}{% endblock %}
+        {% block PotentialInheritFreetext %}
+        {% endblock PotentialInheritFreetext %}
 {% endif %}
        
 !!! info "Unique Skill (Not Inheritable)"
 
     === "{{chardata['Unique Skill (Not Inheritable)']}} {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Unique Skill (Not Inheritable)']) }}
-        {% block UniqueSkillFreetext %}{% endblock %}
+        {% block UniqueSkillFreetext %}
+        {% endblock UniqueSkillFreetext %}
 
  {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}
     === "{{chardata['Alternate Unique Skill (Not Inheritable)']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Unique Skill (Not Inheritable)']) }}
-        {% block AltUniqueSkillFreetext %}{% endblock %}
+        {% block AltUniqueSkillFreetext %}
+        {% endblock AltUniqueSkillFreetext %}
  {% endif %}
 
 !!! info "Discipline Skill"
     === "{{chardata['Discipline']}} {% if chardata['Alternate Discipline'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Discipline']) }}
-        {% block DisciplineFreetext %}{% endblock %}
+        {% block DisciplineFreetext %}
+        {% endblock DisciplineFreetext %}
 
 {% if chardata['Alternate Discipline'] %}
     === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Discipline']) }}
-        {% block AltDisciplineFreetext %}{% endblock %}
+
+        {% block AltDisciplineFreetext %}
+        {% endblock AltDisciplineFreetext %}
 {% endif %}
 
-{% block ReviewsAndAnalysis %}{% endblock %}
+{% block ReviewsAndAnalysis %}
+{% endblock ReviewsAndAnalysis %}
