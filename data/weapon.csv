@@ -66,9 +66,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 128,1H_Sword!A128,1H_Sword,Ex.,Thunder God's Sword,Ebonsteel,2,,,50,0,0,0,0,4,10,0,2,0,,,,,,,,,,,80,0,0,0,0,7,10,0,2,0,,,,,,,,,,,110,0,0,0,0,9,10,0,2,0,
 134,1H_Sword!A134,1H_Sword,Ex.,Sword of Slashing,Ebonsteel,2,,,50,0,0,0,0,0,10,0,2,0,65,0,0,0,0,0,10,0,2,0,80,0,0,0,0,0,10,0,2,0,95,0,0,0,0,0,10,0,2,0,110,0,0,0,0,0,10,0,2,0,Defense Penetration
 140,1H_Sword!A140,1H_Sword,Ex.,Greed Sword,Ebonsteel,2,,,52,0,0,6,0,-2,10,0,2,0,57,0,0,8,0,-2,10,0,2,0,82,0,0,9,0,-2,10,0,2,0,97,0,0,10,0,-2,10,0,2,0,,,,,,,,,,,"Greed Force, Beast Howl Learned"
-146,1H_Sword!A146,1H_Sword,,Silver Sword,Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,,,,,,,,,,,136,0,0,0,0,0,10,0,2,0,
-152,1H_Sword!A152,1H_Sword,,Earthrend Sword,Silver,2,,,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Earth Type
-158,1H_Sword!A158,1H_Sword,,Seafoam Sword,Silver,2,,,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Water Type
+146,1H_Sword!A146,1H_Sword,,Silver Sword,Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,118,0,0,0,0,0,10,0,2,0,136,0,0,0,0,0,10,0,2,0,
+152,1H_Sword!A152,1H_Sword,,Earthrend Sword,Silver,2,,,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Earth Type
+158,1H_Sword!A158,1H_Sword,,Seafoam Sword,Silver,2,,,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Water Type
 164,1H_Sword!A164,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 170,1H_Sword!A170,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 176,1H_Sword!A176,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -102,8 +102,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 80,2H_Sword!A80,2H_Sword,162,Greatsword of Eternal Darkness,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dark Type"
 86,2H_Sword!A86,2H_Sword,Ex.,Dragon Slayer,Ebonsteel,1,,,106,0,0,0,0,-4,6,0,-2,0,129,0,0,0,0,-4,6,0,-2,0,151,0,0,0,0,-4,6,0,-2,0,174,0,0,0,0,-4,6,0,-2,0,196,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dragon Slayer, Dragon Tolerance"
 92,2H_Sword!A92,2H_Sword,,Silver Greatsword,Silver,1,,,132,0,0,0,0,-4,15,0,-2,0,165,0,0,0,0,-4,15,0,-2,0,191,0,0,0,0,-4,15,0,-2,0,214,0,0,0,0,-4,15,0,-2,0,231,0,0,0,0,-4,15,0,-2,0,Strength-Based +
-98,2H_Sword!A98,2H_Sword,,Earthrend Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,,,,,,,,,,,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Earth Type"
-104,2H_Sword!A104,2H_Sword,,Seafoam Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,,,,,,,,,,,,,,,,,,,,,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Fire Type"
+98,2H_Sword!A98,2H_Sword,,Earthrend Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Earth Type"
+104,2H_Sword!A104,2H_Sword,,Seafoam Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Fire Type"
 110,2H_Sword!A110,2H_Sword,,Beast Buster,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Magical Beast-Slayer"
 116,2H_Sword!A116,2H_Sword,,Icebreaker,Silver,1,,,130,0,0,0,0,-4,15,0,-2,0,163,0,0,0,0,-4,15,0,-2,0,189,0,0,0,0,-4,15,0,-2,0,212,0,0,0,0,-4,15,0,-2,0,229,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Vs Ice, Freeze Shatter"
 122,2H_Sword!A122,2H_Sword,,Nordic Sword,Silver,1,75000,,122,0,0,0,0,-4,35,1,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Is this supposed to be the Tundra Sword???"
@@ -148,8 +148,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 74,1H_Axe!A74,1H_Axe,150,Light Axe of the Aurora,Ebonsteel,1,,1313,79,0,0,0,0,0,6,0,0,0,95,0,0,0,0,0,6,0,0,0,111,0,0,0,0,0,6,0,0,0,127,0,0,0,0,0,6,0,0,0,144,0,0,0,0,0,6,0,0,0,"Defense Penetration, Light Type"
 80,1H_Axe!A80,1H_Axe,160,Light Axe of Eternal Darkness,Ebonsteel,1,,1313,79,0,0,0,0,0,6,0,0,0,95,0,0,0,0,0,6,0,0,0,111,0,0,0,0,0,6,0,0,0,127,0,0,0,0,0,6,0,0,0,144,0,0,0,0,0,6,0,0,0,"Defense Penetration, Dark Type"
 86,1H_Axe!A86,1H_Axe,,Silver One-Handed Axe,Silver,1,,,100,0,0,0,0,0,6,0,0,0,120,0,0,0,0,0,6,0,0,0,135,0,0,0,0,0,6,0,0,0,158,0,0,0,0,0,6,0,0,0,178,0,0,0,0,0,6,0,0,0,Defense Penetration
-92,1H_Axe!A92,1H_Axe,,Earthrend One-Handed Axe,Silver,1,,,95,0,0,0,0,0,6,0,0,0,115,0,0,0,0,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Defense Penetration, Earth Type"
-98,1H_Axe!A98,1H_Axe,,Seafoam One-Handed Axe,Silver,1,,,95,0,0,0,0,0,6,0,0,0,115,0,0,0,0,0,6,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Defense Penetration, Water Type"
+92,1H_Axe!A92,1H_Axe,,Earthrend One-Handed Axe,Silver,1,,,95,0,0,0,0,0,6,0,0,0,115,0,0,0,0,0,6,0,0,0,130,0,0,0,0,0,6,0,0,0,153,0,0,0,0,0,6,0,0,0,173,0,0,0,0,0,6,0,0,0,"Defense Penetration, Earth Type"
+98,1H_Axe!A98,1H_Axe,,Seafoam One-Handed Axe,Silver,1,,,95,0,0,0,0,0,6,0,0,0,115,0,0,0,0,0,6,0,0,0,130,0,0,0,0,0,6,0,0,0,153,0,0,0,0,0,6,0,0,0,173,0,0,0,0,0,6,0,0,0,"Defense Penetration, Water Type"
 104,1H_Axe!A104,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,1H_Axe!A110,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 116,1H_Axe!A116,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -409,7 +409,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 8,Bow!A8,Bow,22,Hardwood Bow,Bronze,1,550,88,32,0,0,0,0,0,4,0,0,0,43,0,0,0,0,0,4,0,0,0,54,0,0,0,0,0,4,0,0,0,65,0,0,0,0,0,4,0,0,0,77,0,0,0,0,0,4,0,0,0,Strength-Based +
 14,Bow!A14,Bow,64,Bow of Undead Bane,Bronze,1,,110,34,0,0,0,0,0,4,0,0,0,45,0,0,0,0,0,4,0,0,0,56,0,0,0,0,0,4,0,0,0,67,0,0,0,0,0,4,0,0,0,79,0,0,0,0,0,4,0,0,0,"Strength-Based +, Vs Undead"
 20,Bow!A20,Bow,33,Old Wood Bow,Iron,1,1650,264,52,0,0,0,0,0,4,0,0,0,67,0,0,0,0,0,4,0,0,0,82,0,0,0,0,0,4,0,0,0,97,0,0,0,0,0,4,0,0,0,112,0,0,0,0,0,4,0,0,0,Strength-Based +
-26,Bow!A26,Bow,73,Huntsman's Bow,Iron,1,,422,56,0,0,0,0,0,16,0,0,0,71,0,0,0,0,0,18,0,0,0,86,0,0,0,0,0,19,0,0,0,101,0,0,0,0,0,20,0,0,0,,,,,,,,,,,Strength-Based +
+26,Bow!A26,Bow,73,Huntsman's Bow,Iron,1,,422,56,0,0,0,0,0,16,0,0,0,71,0,0,0,0,0,18,0,0,0,86,0,0,0,0,0,19,0,0,0,101,0,0,0,0,0,20,0,0,0,116,0,0,0,0,0,21,0,0,0,Strength-Based +
 32,Bow!A32,Bow,44,Sacred Wood Bow,Steel,1,,528,68,0,0,0,0,0,4,0,0,0,86,0,0,0,0,0,4,0,0,0,104,0,0,0,0,0,4,0,0,0,123,0,0,0,0,0,4,0,0,0,143,0,0,0,0,0,4,0,0,0,Strength-Based +
 38,Bow!A38,Bow,88,Bird-Dropper,Steel,1,,825,66,0,0,0,0,0,4,0,0,0,84,0,0,0,0,0,4,0,0,0,102,0,0,0,0,0,4,0,0,0,121,0,0,0,0,0,4,0,0,0,141,0,0,0,0,0,4,0,0,0,"Strength-Based +, Aerial-Slayer"
 44,Bow!A44,Bow,120,Bow of Flame,Steel,1,,660,64,0,0,0,0,0,4,0,0,0,82,0,0,0,0,0,4,0,0,0,100,0,0,0,0,0,4,0,0,0,119,0,0,0,0,0,4,0,0,0,139,0,0,0,0,0,4,0,0,0,"Strength-Based +, Fire Type"
@@ -493,12 +493,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 146,Sam_Katana!A146,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Sam_Odachi!A2,Sam_Odachi,236,Standard Odachi,Bronze,1,2025,240,30,6,0,0,0,-8,3,10,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
-8,Sam_Odachi!A8,Sam_Odachi,Ex.,Odachi of Dusk,Silver,1,,,115,87,0,0,0,0,12,15,-6,0,154,104,0,0,0,0,12,15,-6,0,181,117,0,0,0,0,12,15,-6,0,194,127,0,0,0,0,12,15,-6,0,,,,,,,,,,,Strength-Based +
-14,Sam_Odachi!A14,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,Sam_Odachi!A20,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,Sam_Odachi!A26,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-32,Sam_Odachi!A32,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38,Sam_Odachi!A38,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Sam_Odachi!A8,Sam_Odachi,,Fine Odachi,Iron,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+14,Sam_Odachi!A14,Sam_Odachi,,Refined Odachi,Steel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+20,Sam_Odachi!A20,Sam_Odachi,,Exquisite Odachi,Ebonsteel,1,,,109,30,0,0,0,-8,3,10,-6,0,132,42,0,0,0,-8,3,10,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+26,Sam_Odachi!A26,Sam_Odachi,,Kibitsu,Silver,1,,,123,35,0,0,0,-8,3,10,-6,0,156,49,0,0,0,-8,3,10,-6,0,182,62,0,0,0,-8,3,10,-6,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Demi-Human-Slayer"
+32,Sam_Odachi!A32,Sam_Odachi,Ex.,Odachi of Dusk,Silver,1,,,115,87,0,0,0,0,12,15,-6,0,154,104,0,0,0,0,12,15,-6,0,181,117,0,0,0,0,12,15,-6,0,194,127,0,0,0,0,12,15,-6,0,,,,,,,,,,,Strength-Based +
+38,Sam_Odachi!A38,Sam_Odachi,,Masterwork Odachi,Silver,1,,,128,40,0,0,0,-8,3,10,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 44,Sam_Odachi!A44,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50,Sam_Odachi!A50,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 56,Sam_Odachi!A56,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
