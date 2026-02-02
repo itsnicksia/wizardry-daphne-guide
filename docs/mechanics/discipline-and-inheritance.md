@@ -125,6 +125,9 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     | 8                | 5                | 28                          |
     | 9                | 8                | 36                          |
 
+### Discipline after Merging:  Shared Discipline
+Recent changes to the Adventurer Merge system have introduced other Discipline considerations that apply only to characters with Alternate Styles (e.g., Lanavaille and Wandering Princess Lanavaille) that have been Merged.  For full details, please see [the Shared Discipline section of the Merging page](./merging.md#shared-discipline). In short, the significant benefits of the Shared Discipline only activate once each Style hase been disciplined once (reached Discipline level 1) after which *both styles* continue to benefit from Disciplining *either style*, and additional benefits accrue in excess of Discipline level 9. In many cases this strongly encourages Disciplining any limited style at least once before considering other duplicate uses.
+
 ## Inheritance
 Inheritance allows you to give skills from one adventurer to another or increase the level of inherited skills on an adventurer. Skills have different maximum levels. For example, Legendary and General Adventurer skills have a maximum inheritance count of 6, so depending on if an adventurer comes with that skill by default, they can get it to either level 6 or level 7. Nameless adventurer skills have a maximum inheritance count of 14. Inheritance can increase through either using duplicates of that particular adventurer or using codexes, which are much more general purpose and can be applied to any skill.
 
