@@ -2,13 +2,10 @@
 
 !!! warning "Work In Progress"
     - Ctrl + F5 to refresh the page for new updates
-    - Faction requests (Witch Hunt in Elden Hill Village and Search for the Missing Persons) have been moved to a [new](./faction-requests.md) page 
     - Major spoilers ahead
 
-!!! danger "All Requests Potentially Bugged as of 1/19"
-    - We have received additional reports that other pre-requisite requests are not working properly
-    - Strongly advise not doing any requests until the next patch to avoid wasting time and valuable resources  
-    - This page will be updated as we learn more
+!!! warning "Bugs Fixed"
+    - The bugged requests appear to be fixed as of the 1/30 patch
 
 ??? tip "Things To Know In Advance"
 
@@ -25,12 +22,6 @@
 ## Snowy Forest Minor Harken
 
 ### Recovery of Salted Pork
-
-!!! bug "Bugged Request as of 1/17"
-    - As of the last patch several Discord member have reported that this request is not working properly
-    - It is possible to repeatedly visit Discovery Points
-    - Doing all the requirements correctly will not spawn the Bigfoot boss fight, which is required for the bondmate
-    - This notification will be updated as we learn more
 
 ??? warning "Important Notes"
 
@@ -187,13 +178,18 @@
 
 ### Special Local Delicacy
 
-This request doesn't have any pre-requisites.
+??? "Important Notes"
+
+    - Pre-requisite Requests
+        - None
+    - To save time you will want to Cursed Wheel to a node where all of the blizzard zones are still active. 
+    - A few of the blizzard zones do not appear to work properly for the bondmate. Whether this is a bug or intentional is not known.
 
 ??? note "Request Guide"
 
     === "Walkthrough"
 
-        - Get the request and head to Route 5.
+        - Accept the request and go to Route 5.
         - Simply go to every Ice Storm zone, including ones that have trees that can be reversed. Typically the interaction zone is near the middle of the zones. When you enter the cutscene, you will get a description of the zone. These conditions are always randomized on every run. You are allowed to go to a spot and leave and come back later.
         - The options here are "The air here feels dry to you", "You can feel a brisk breeze, gusts rippling your clothing", "There is a slight dampness in the air here". You are looking for "The air here feels dry to you".
         - Upon selecting a spot, simply go through a 3 stage battle similar to that of previous abyss. You may tap out at any time. It is ideal to select a dry location where the Ice Storm may be removed via Right Hand of Reversal technique if possible.
