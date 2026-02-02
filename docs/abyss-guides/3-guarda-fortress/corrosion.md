@@ -808,13 +808,13 @@
 
     - Corrosion sentries [10] and [12] CANNOT be registered properly at the Zone 10 Fountain (Fortress 3rd Floor Arrival) 
     - To register:
+        - Toggle your Cursed Wheel for the GWO 8 (Blackmail) or GWO 6 (Mastermind) version of the fight
         - Wheel to the Zone 9 Harken (Fortress 2F Minor Harken)
         - Ignore both their rooms > "Not Spotted" flag triggered
-        - Defeat GWO 6 (Mastermind ending) or GWO 8 (Blackmail ending) without exiting, wheeling, or "accepting death"
-        - Discord members have reported the corrosion sentries will register even if you do not defeat the GWO (needs verification)
-    - Remember! Do not exit after reaching the Zone 10 Fountain as it will not register [10] and [12] properly
+        - Reach and defeat the GWO
+        - Update: Discord members have reported that reaching the GWO fight is sufficientp; kill the MC, "accept death", and see if it registered properly
     - The best time to do this is during the Blackmail ending since you will have encountered both and can ignore them on your way to the GWO  
-    - The guide sections of [10] and [13] have been updated to reflect the critical bug 
+    - The guide sections of [10] and [12] have been updated to reflect the critical bug 
     
 ??? warning "Important Notes for [10]-[13]"
 
@@ -855,8 +855,8 @@
             - Visiting this room is required to complete the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request
             - Inspect the bookcase and pick up the Tattered Rag (Valuable) > "Spotted" flag triggered 
 
-            !!! warning " 
-                - "It remains unclear if the "Spotted" registration node is the Zone 10 Fountain or Triumphant Return (Blackmail or Mastermind ending)
+            !!! warning "Warning" 
+                - It remains unclear if the "Spotted" registration node is the Zone 10 Fountain or Triumphant Return (Blackmail or Mastermind ending)
                 - Recommend that you do not waste time trying to defeat the GWO until AFTER you have done a "Not Spotted" run 
                 - If it does not appear in the Cursed Wheel after a "Not Spotted" run, then come back and try it again
                 
@@ -967,8 +967,8 @@
             - Visiting this room is required to complete the [Blackmail Resolution](./requests.md#blackmail-resolution) request
             - Upon entry you will be immediately "Spotted" and have to fight an Evil Eye 
             
-            !!! warning " 
-                - "It remains unclear if the "Spotted" registration node is the Zone 10 Fountain or Triumphant Return (Blackmail or Mastermind ending)
+            !!! warning "Warning" 
+                - It remains unclear if the "Spotted" registration node is the Zone 10 Fountain or Triumphant Return (Blackmail or Mastermind ending)
                 - Recommend that you do not waste time trying to defeat the GWO until AFTER you have done a "Not Spotted" run 
                 - If it does not appear in the Cursed Wheel after a "Not Spotted" run, then come back and try it again
             
