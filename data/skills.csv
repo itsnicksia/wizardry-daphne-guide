@@ -319,9 +319,9 @@ Red Spinner Mage,Discipline,,"Continuously increases each stat, with HP and Slee
 REILIS,Support,,"Words of prayer that cure 1 ally of Fear, Confusion, or Charm.","Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",23,Priest,,,
 REINIKUS,Support,,Words of prayer that cure 1 ally of Stone.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",35,Priest,,,
 Royal Knight Aspirant,Discipline,,"Continuously increases each stat, SP and Accuracy increased further.",SP and Accuracy increased further based on skill level.,,,,Alex,
-Running Blaze,Active,,"Major physical attack with high Accuracy on 1 enemy row. Usable once per battle while user has Flame-Bearer in effect. After attacking, this skill changes to Running Blaze.","SKILLPAGE2TEXT MISSING",,,,Yoizou,
-Running Flame,Active,,"Moderate physical attack with high Accuracy on 1 enemy row. Usable once per battle while user has Flame-Bearer in effect. After attacking, this skill changes to Running Blaze.","Efficacy increased based on skill level.",,,,Yoizou,
-Running Inferno,Active,,"Massive physical attack with high Accuracy on 1 enemy row. Thu user's Flame-Bearer effect is canceled, and their Evasion and Action Speed are reduced for 3 turns. Usable once per battle while user has Flame-Bearer in effect. This skill is unaffected by duration-extending skills.","SKILLPAGE2TEXT MISSING",,,,Yoizou,
+Running Blaze,Active,,"Major physical attack with high Accuracy on 1 enemy row. Usable once per battle while user has Flame-Bearer in effect. After attacking, this skill changes to Running Blaze.",Efficacy increased based on skill level.,,,,Yoizou,
+Running Flame,Active,,"Moderate physical attack with high Accuracy on 1 enemy row. Usable once per battle while user has Flame-Bearer in effect. After attacking, this skill changes to Running Blaze.",Efficacy increased based on skill level.,,,,Yoizou,
+Running Inferno,Active,,"Massive physical attack with high Accuracy on 1 enemy row. Thu user's Flame-Bearer effect is canceled, and their Evasion and Action Speed are reduced for 3 turns. Usable once per battle while user has Flame-Bearer in effect. This skill is unaffected by duration-extending skills.",Efficacy increased based on skill level.,,,,Yoizou,
 Sacred Blessing,Passive,,Reduces own damage taken from undead.,Damage decreased further based on skill level.,55,Priest,Priest-specific,,
 Sacred Healer,Passive,,Reduces the MP cost of DIOS and MADIOS.,,,,,Marianne,
 Sacred Resistance,Passive,,Increases own Resistance and Divine Power during ambushes for 2 turns.,Resistance and Divine Power increased further based on skill level.,70,Priest,,,
@@ -417,4 +417,5 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
