@@ -2,7 +2,7 @@
 # Just change title to character's name, should match filename, and all data
 # fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-   title: Eckart
+   title: CHARACTERNAME
 
 # Note image files are all lowercase, and are expected as:
 # name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
@@ -22,10 +22,10 @@
 {% extends "Adventurer_parent.md" %}   
      
 {% block InheritFreetext %}
-{% endblock %} 
+{% endblock InheritFreetext %} 
 
 {% block AltInheritFreetext %}
-{% endblock %}
+{% endblock AltInheritFreetext %}
      
 {% block PotentialInheritFreetext %}
 {% endblock PotentialInheritFreetext %}
@@ -69,4 +69,4 @@
 *  option 1
 *  option 2
 -->
-{%endblock ReviewsAndAnalysis %}
+{% endblock ReviewsAndAnalysis %}

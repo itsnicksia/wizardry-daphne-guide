@@ -1,15 +1,3 @@
----
-# Just change title to character name, should match filename, and all data
-# fields will pull from adventurers.csv, skills.csv, and image folder. 
-#
-# Note image files are all lowercase, and are expected as:
-# name-class.jpg, name-altform.jpg, name-requestform-class.jpg
-#
-# Free text can still be added to any section, reviews at end, etc.
-
-   title: Character-Name
----
-
 {% set chardata = pd_read_csv('../data/adventurers.csv', 
    index_col='Name').fillna("").loc[title] %}
 
@@ -23,7 +11,6 @@
 **Starting Class**: {{ chardata['Primary Class'] }}  
 {%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
 {%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
-
 
 ## Base Traits  
 === "Class: {{chardata['Primary Class']}}"
@@ -40,6 +27,7 @@
     </div>
 {% endif %}
 
+{% block PortraitSection %}
 
 ??? info "Portraits"
     === "{{chardata['Primary Class']}}"
@@ -63,71 +51,62 @@
         ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
 {% endif %}
 
+{% endblock PortraitSection %}
+
 ## Skills
-<!-- 
-skills will automatically fill
-extra text can be added between skills
--->
 
 {% if chardata['Alternate Style'] %}
-!!! note "If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills."
+!!! note "Merging: If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills."
 {% endif %}
 
 !!! info "Inheritable Skill"
     === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Inheritable Skill']) }}
-
+        {% block InheritFreetext %}
+        {% endblock InheritFreetext %}
+    
  {% if chardata['Alternate Inheritable Skill'] %}
     === "{{chardata['Alternate Inheritable Skill']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Inheritable Skill']) }}
+        {% block AltInheritFreetext %}
+        {% endblock AltInheritFreetext %}
  {% endif %}
 
 {% if chardata['Potential Inherit'] %}
 !!! info "Potential Inherit"
     === "{{chardata['Potential Inherit']}}"
         {{ get_skill_description(chardata['Potential Inherit']) }}
+        {% block PotentialInheritFreetext %}
+        {% endblock PotentialInheritFreetext %}
 {% endif %}
        
 !!! info "Unique Skill (Not Inheritable)"
 
     === "{{chardata['Unique Skill (Not Inheritable)']}} {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Unique Skill (Not Inheritable)']) }}
+        {% block UniqueSkillFreetext %}
+        {% endblock UniqueSkillFreetext %}
 
  {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}
     === "{{chardata['Alternate Unique Skill (Not Inheritable)']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Unique Skill (Not Inheritable)']) }}
+        {% block AltUniqueSkillFreetext %}
+        {% endblock AltUniqueSkillFreetext %}
  {% endif %}
 
 !!! info "Discipline Skill"
     === "{{chardata['Discipline']}} {% if chardata['Alternate Discipline'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Discipline']) }}
+        {% block DisciplineFreetext %}
+        {% endblock DisciplineFreetext %}
 
 {% if chardata['Alternate Discipline'] %}
     === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Discipline']) }}
+
+        {% block AltDisciplineFreetext %}
+        {% endblock AltDisciplineFreetext %}
 {% endif %}
 
-<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
-<!--
-## Adventurer Reviews
-
-??? info "ABC's Analysis"
-    -text-
-
-??? info "DEF's Analysis"
-    -text-
--->
-
-<!--
-## Adventurer Pull Plans
-
-??? note "ABC's Pull Plan"
-    -text-
--->
-  
-<!--  
-## Duplicate Usage
-
-*  option 1
-*  option 2
--->
+{% block ReviewsAndAnalysis %}
+{% endblock ReviewsAndAnalysis %}
