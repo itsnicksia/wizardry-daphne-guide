@@ -27,6 +27,8 @@
     </div>
 {% endif %}
 
+{% block PortraitSection %}
+
 ??? info "Portraits"
     === "{{chardata['Primary Class']}}"
         ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Primary Class'].replace(" ","-") | lower}}.jpg)
@@ -48,6 +50,8 @@
     === "{{chardata['Alternate Style']}}"
         ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
 {% endif %}
+
+{% endblock PortraitSection %}
 
 ## Skills
 

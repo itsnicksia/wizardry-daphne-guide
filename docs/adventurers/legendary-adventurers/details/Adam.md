@@ -1,9 +1,11 @@
 ---
 # Just change title to character's name, should match filename, and all data
 # fields will pull from adventurers.csv, skills.csv, and image folder. 
-#
+
+   title: Adam
+
 # Note image files are all lowercase, and are expected as:
-# name-class.jpg, name-altform.jpg, name-requestform-class.jpg
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
 #
 # Free text can still be added to any section in the relevant text block but
 # skill text still needs to be indented 8 spaces.
@@ -15,7 +17,6 @@
 # in a {project_dir}/debug_output folder (if that folder exists)
    debug_render: false  
 
-   title: Adam
 ---
   
 {% extends "Adventurer_parent.md" %}   
@@ -134,4 +135,4 @@
 * If you like Adam and plan to use him on your team, boosting his Discipline level will increase his damage
 * Inherit his skill on your MC for some nice QoL gains
 * Inherit his skill on your other favorite damage dealers or save for future use
-{%endblock ReviewsAndAnalysis %}
+{% endblock ReviewsAndAnalysis %}

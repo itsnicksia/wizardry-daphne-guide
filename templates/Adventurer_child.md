@@ -1,9 +1,11 @@
 ---
 # Just change title to character's name, should match filename, and all data
 # fields will pull from adventurers.csv, skills.csv, and image folder. 
-#
+
+   title: CHARACTERNAME
+
 # Note image files are all lowercase, and are expected as:
-# name-class.jpg, name-altform.jpg, name-requestform-class.jpg
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
 #
 # Free text can still be added to any section in the relevant text block but
 # skill text still needs to be indented 8 spaces.
@@ -15,16 +17,15 @@
 # in a {project_dir}/debug_output folder (if that folder exists)
    debug_render: false  
 
-   title: CHARACTERNAME
 ---
   
 {% extends "Adventurer_parent.md" %}   
      
 {% block InheritFreetext %}
-{% endblock %} 
+{% endblock InheritFreetext %} 
 
 {% block AltInheritFreetext %}
-{% endblock %}
+{% endblock AltInheritFreetext %}
      
 {% block PotentialInheritFreetext %}
 {% endblock PotentialInheritFreetext %}
@@ -68,4 +69,4 @@
 *  option 1
 *  option 2
 -->
-{%endblock ReviewsAndAnalysis %}
+{% endblock ReviewsAndAnalysis %}

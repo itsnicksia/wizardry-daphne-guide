@@ -1,99 +1,50 @@
 ---
-# Just change title to character name, should match filename, and all data
+# Just change title to character's name, should match filename, and all data
 # fields will pull from adventurers.csv, skills.csv, and image folder. 
-#
+
+   title: CHARACTERNAME
+
 # Note image files are all lowercase, and are expected as:
-# name-class.jpg, name-altform.jpg, name-requestform-class.jpg
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
 #
-# Free text can still be added to any section, reviews at end, etc.
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-   title: Milana
 ---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock %} 
 
-{% set chardata = pd_read_csv('../data/adventurers.csv', 
-   index_col='Name').fillna("").loc[title] %}
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-# {{title}}  
-## Basic Info:  
-**Rarity**: {{ chardata['Rarity'] }}  
-**Race**: {{ chardata['Race'] }}  
-**Gender**: {{ chardata['Gender'] }}  
-**Type**: {{ chardata['Type'] }}  
-**Personality**: {{ chardata['Personality'] }}  
-**Starting Class**: {{ chardata['Primary Class'] }}  
-{%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
-{%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
 
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
 
-## Base Traits  
-<div class="nofilter-table nosort-table char-traits-table" markdown>
-{{ populate_quicklist(file='adventurers.csv', return_columns=['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], filter_column="Name",filter_values=[title]) | convert_to_md_table }}  
-</div>
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
 
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
 
-??? info "Portraits"
-    === "{{chardata['Primary Class']}}"
-        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}.jpg)
-{% if chardata['Secondary Class'] %}
-    === "{{chardata['Secondary Class']}}"
-        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}.jpg)
-{% endif %}
- 
-{% if chardata['Personal Request'] %}
-    === "{{chardata['Primary Class']}} after Personal Request"
-        ![](../img/{{title | lower }}-{{chardata['Primary Class'] | lower}}-personal-request.jpg)
-  {% if chardata['Secondary Class'] %}
-    === "{{chardata['Secondary Class']}} after Personal Request"
-        ![](../img/{{title | lower }}-{{chardata['Secondary Class'] | lower}}-personal-request.jpg)
-  {% endif %}
-{% endif %}
+{% block ReviewsAndAnalysis %}
 
-{% if chardata['Alternate Style'] %}
-    === "{{chardata['Alternate Style']}}"
-        ![](../img/{{title | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
-{% endif %}
-
-## Skills
-<!-- 
-skills will automatically fill
-extra text can be added between skills
--->
-
-!!! info "Inheritable Skill"
-    === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
-        {{ get_skill_description(chardata['Inheritable Skill']) }}
-
- {% if chardata['Alternate Inheritable Skill'] %}
-    === "{{chardata['Alternate Inheritable Skill']}} ({{chardata['Alternate Style']}})"
-        {{ get_skill_description(chardata['Alternate Inheritable Skill']) }}
- {% endif %}
-
-{% if chardata['Potential Inherit'] %}
-!!! info "Potential Inherit"
-    === "{{chardata['Potential Inherit']}}"
-        {{ get_skill_description(chardata['Potential Inherit']) }}
-{% endif %}
-       
-!!! info "Unique Skill (Not Inheritable)"
-
-    === "{{chardata['Unique Skill (Not Inheritable)']}} {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}(Standard){% endif %}"
-        {{ get_skill_description(chardata['Unique Skill (Not Inheritable)']) }}
-
- {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}
-    === "{{chardata['Alternate Unique Skill (Not Inheritable)']}} ({{chardata['Alternate Style']}})"
-        {{ get_skill_description(chardata['Alternate Unique Skill (Not Inheritable)']) }}
- {% endif %}
-
-!!! info "Discipline Skill"
-    === "{{chardata['Discipline']}} {% if chardata['Alternate Discipline'] %}(Standard){% endif %}"
-        {{ get_skill_description(chardata['Discipline']) }}
-
-{% if chardata['Alternate Discipline'] %}
-    === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
-        {{ get_skill_description(chardata['Alternate Discipline']) }}
-{% endif %}
-
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
 
 ## Adventurer Reviews
 
@@ -116,3 +67,18 @@ extra text can be added between skills
         Firstly It’s physical dmg reduction that works for her and the unit in front/back. Which makes it by default better than summer Yekaterina passive that work only on Yeka and backrow. Unlike physical attacks that aim only for backrow on character that doesn’t take dmg anyway and when she does it’s almost always magical, Milana can buff your squishy frontline character as long as it’s evil (f.e Rinne). Or Milana can be stuck in front as a thief and buff your Alice survivability if for some reason you need it. 
 
         The overall Milana alter version is a really nice example of how to give alternative options without directly making them better or worse. On top of it her inheritance is precision strike which alone brings value. So for me it’s an alternative done right that's a really solid option on physical enemies that target your front (Guarda GWO, Lizardman from cave, Necrocore superboss etc.) when you need survivability over damage increase.
+<!--
+## Adventurer Pull Plans
+
+??? note "ABC's Pull Plan"
+    -text-
+-->
+
+<!--  
+## Duplicate Usage
+
+*  option 1
+*  option 2
+-->
+{% endblock ReviewsAndAnalysis %}
+
