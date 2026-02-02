@@ -36,6 +36,7 @@
         |   7   |             85            |                -               |
 
         </div>
+
 {% endblock InheritFreetext %} 
 
 {% block AltInheritFreetext %}
@@ -124,44 +125,3 @@
 * Save for future use or dismiss for Grade tags.
 
 {% endblock ReviewsAndAnalysis %}
-
-
-## Skills
-
-!!! note "If standard Lanavaille and Wandering Princess Lanavaille are merged, inheritable skills are shared by both styles, but changing styles will swap uninheritable passive and discipline skills."
-
-!!! info "Inheritable Skill"
-    === "{{chardata['Inheritable Skill']}} {% if chardata['Alternate Inheritable Skill'] %}(Standard){% endif %}"
-        {{ get_skill_description(chardata['Inheritable Skill']) }}
-
- {% if chardata['Alternate Inheritable Skill'] %}
-    === "{{chardata['Alternate Inheritable Skill']}} ({{chardata['Alternate Style']}})"
-        {{ get_skill_description(chardata['Alternate Inheritable Skill']) }}
- {% endif %}
-
-{% if chardata['Potential Inherit'] %}
-!!! info "Potential Inherit"
-    === "{{chardata['Potential Inherit']}}"
-        {{ get_skill_description(chardata['Potential Inherit']) }}
-{% endif %}
-       
-!!! info "Unique Skill (Not Inheritable)"
-
-    === "{{chardata['Unique Skill (Not Inheritable)']}} {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}(Standard){% endif %}"
-        {{ get_skill_description(chardata['Unique Skill (Not Inheritable)']) }}
-
-
- {% if chardata['Alternate Unique Skill (Not Inheritable)'] %}
-    === "{{chardata['Alternate Unique Skill (Not Inheritable)']}} ({{chardata['Alternate Style']}})"
-        {{ get_skill_description(chardata['Alternate Unique Skill (Not Inheritable)']) }}
- {% endif %}
-
-!!! info "Discipline Skill"
-    === "{{chardata['Discipline']}} {% if chardata['Alternate Discipline'] %}(Standard){% endif %}"
-        {{ get_skill_description(chardata['Discipline']) }}
-
-{% if chardata['Alternate Discipline'] %}
-    === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
-        {{ get_skill_description(chardata['Alternate Discipline']) }}
-{% endif %}
-

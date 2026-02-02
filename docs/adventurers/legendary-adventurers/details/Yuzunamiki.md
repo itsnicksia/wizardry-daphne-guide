@@ -2,7 +2,7 @@
 # Just change title to character's name, should match filename, and all data
 # fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-   title: CHARACTERNAME
+   title: Yuzunamiki
 
 # Note image files are all lowercase, and are expected as:
 # name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
