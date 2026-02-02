@@ -37,7 +37,7 @@ Beastfolk Thief Discipline,Discipline,,Continuously increases each stat.,Stats i
 Behind Cover,Passive,True,Chance to bear single-target attacks in place of allies in the back.,Physical damage reduction incrementally added based on skill level. Chance increased further and damage decreased further.,32,Knight,Knight-specific,Eulalia,
 Bestial Roar,Discipline,,"Continuously increases each stat,  with HP and Attack Power increased further.",SKILL PAGE 2 MISSING,,,,Galbadus,
 Black Beast Feint,Passive,True,Increases own Evasion and makes 1 row of enemies easier to target. Counter attack that penetrates Defense Power when evading an attack. Evasion increases amount and Defense Power penetration rate are reduced if learned by someone other than Savia.,"Evasion, efficacy, and Defense Power penetration rate incrementally increased based on skill level.",,,,Savia,
-Blazing Resplendence,Active,True,"Increases fire-type damage dealt to enemies and increases water-type damage taken from enemies for 4 turns.  Moderate physical attck on 1 enemy based on Attack Power and Magic Power. Damage and the fire-type damage inrcease amount are reduced if learned by someone other than Yoizou.","SKILLPAGE2TEXT MISSING",,,,Yoizou,
+Blazing Resplendence,Active,True,"Increases fire-type damage dealt to enemies and increases water-type damage taken from enemies for 4 turns.  Moderate physical attck on 1 enemy based on Attack Power and Magic Power. Damage and the fire-type damage inrcease amount are reduced if learned by someone other than Yoizou.",Efficacy and fire-type damage increase amount increased based on skill level.,,,,Yoizou,
 Blessing of Agora,Passive,True,Adds 1 consecutive turn to buffs and debuffs applied by the user and increases MP. MP increase amount and growth amount of consecutive turns are reduced if learned by someone other than Alice.,Incrementally adds MP Up based on skill level. MP increased further and number of continuous turns augmented.,,,,Alice,
 Blessing of Owen,Discipline,,"Continuously increases each stat, with Attack Power and Confusion/Charm Tolerance increased even further.",Attack Power and Confusion/Charm Tolerance increased further based on skill level.,,,,Abenius,
 Blessing of Renewal,Support,,Receive a blessing through prayer. Continuously restores minor HP of 1 ally for 4 turns.,Recovery amount increased based on skill level.,67,Priest,Priest-specific,,
@@ -417,5 +417,6 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
