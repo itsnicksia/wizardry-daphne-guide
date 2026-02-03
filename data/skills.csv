@@ -157,7 +157,7 @@ Hot-Blooded Adventurer,Discipline,,Continuously increases each stat. Attack Powe
 Human Fighter Discipline,Discipline,,Continuously increases each stat.,Stats increased further based on skill level.,,,,Human-Fig,
 Human Priest Discipline,Discipline,,Continuously increases each stat.,Stats increased further based on skill level.,,,,Human-Pri,
 Human Samurai Discipline,Discipline,,Continuously increases each stat.,Stats increased further based on skill level.,,,,Human-Sam,
-Ichimonji Slash,Active,,"Moderate physical attack on all enemies in the frontmost enemy row. Increases damage taken by the wielder and makes them more likely to be targeted by all enemies for 1 turn. This skill is unaffected by duration-extending skills. Usable only when an odachi is equipped at the start of the turn.","",58,Samurai,"Samurai-specific, Odachi-specific",,
+Ichimonji Slash,Active,,"Moderate physical attack on all enemies in the frontmost enemy row. Increases damage taken by the wielder and makes them more likely to be targeted by all enemies for 1 turn. This skill is unaffected by duration-extending skills. Usable only when an odachi is equipped at the start of the turn.","",48,Samurai,"Samurai-specific, Odachi-specific",,
 Illusory Mist,Active,,"A misty vapor obscures enemy sight, with a high chance of reducing the Accuracy of all enemies for 2 turns.",Probability and Accuracy Rate decrease amount increased based on skill level.,9,Ninja,,,
 Immortal Strike,Active,True,Deals a minor physical attack on 1 enemy and restores minor HP to self.,Recovery amount increased based on skill level.,51,Fighter,,,"Gaston, Olive"
 Impartial Collaborator,Passive,,Increases damage to enemies for user and allies in front of or behind them if the ally is neutral.,,,,,Elise,
@@ -417,6 +417,7 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
