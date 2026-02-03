@@ -125,23 +125,23 @@ Looking at the above charts, we can see that while primary stats (STR, IQ, etc) 
 - **Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work.   
 
 ### Class specific stat point *suggestions*
-Apart from gaining levels, the player can use Equipment, Bondmates, and other game mechanics to increase a units stats. Because ony adventurer can only have a limited number of items equipped, and those have limited stat impact, we are often asked what stats should be focused on. There is no hand ard fast rule for this as it optimal stat builds will depend somewhat on your playstyle. However, apart from some obvious recommendations (e.g., generally don't stack Attack on a Mage or Magic Power on a Thief), here are some guide community blanket recommendations by class **focused on current end-game play (currently Abyss 4)**:
+Because ony adventurer can only have a limited number of items, bondmates, etc., equipped, and those have limited stat impact, we are often asked what stats players should focus on. There is no hand ard fast rule for this as optimal stat build will depend somewhat on playstyle. However, apart from some obvious things (e.g., generally don't stack Attack on a Mage or Magic Power on a Thief), here are some guide community blanket build recommendations by class **focused on current end-game play (currently Abyss 4)**:
 
 #### Base Classes
 
 - Fighter: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss
-- Knight:  enough ASPD to make up for low base and then get in proper team turn-order, then DEF for cover. Otherwise see Fighter.
+- Knight:  enough ASPD to make up for low base, then DEF for cover. Otherwise see Fighter.
 - Thief: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss
-- Priest: ASPD > DIV > MDEF=RES.  Note some 'bishop' builds may focus on MAG instead of DIV once you have enough for heals. 
+- Priest: ASPD > DIV > MDEF=RES.  Note some 'bishop' builds with inherited Mage spells may focus on MAG instead of DIV once you have enough for heals. 
 - Mage: ASPD > MAG > MDEF=RES.
 
 #### Advanced Classes
 
 - Ninja: SUR = ATK > ASPD. You probably have enough ACC.
-- Samurai: SUR > MAG = ATK > ACC = ASPD  (ASPD enough to get into proper team turn-order)
+- Samurai: SUR > MAG = ATK > ACC = ASPD
 - Ranger:  SUR > ACC > ASPD > ATK
 
-You'll note little mention of DEF, MDEF, RES and EVA. The first two stats in general are rarely worth building because the game mechanics strongly devalue their impact relative to any other stat you could build. Similarly, RES formulas described below show why base RES suffers greatly relative to specific Tolerance boosts. Last, EVA is EXTREMELY STRONG IN ABYSSES 1 and 2, and arguably could be placed first in the list for all melee classes there, but enemies begin to counter with very high ACC in Abyss 3 and beyond. There it becomes far more important to just kill them first rather than hoping you dodge/defend, as if it is something you can't kill first, likely you also couldn't dodge it.
+You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely worth building because the game mechanics strongly devalue their impact relative to any other stat you could build. Similarly, RES formulas described below show why base RES suffers greatly relative to specific Tolerance boosts. Last, *while EVA is EXTREMELY STRONG IN ABYSSES 1 and 2, and arguably could be placed first for all melee classes at game start*, enemies start getting very high ACC in Abyss 3 and beyond. There it becomes far more important to just kill them first rather than hoping you dodge/defend. And if it is something you can't kill first, likely you also couldn't dodge it.
 
 ### Trait Boost (Commonly called IV)
 A Trait Boost/IV is manifested in one of two ways.  First, and most commonly, a Character will have clearly improved growth in one Trait.  Normally this is visible at level 1 on character creation by 1 Trait being 1 point higher than normal.  However, this is not always the case.  This is a "buff" to the Trait growth rate, not an extra Trait point.  So it's possible to recieve a single Trait Boost/IV on a Trait that has poor growth for the Character/Class.  For example: a Dwarf Knight may not show an extra point of Speed at level 1, but may have a Speed Boost/IV. The second way this can manifest is as a "Neutral" Boost, where all Traits recieve a very small increase in growth.  This variety will not be visible at level 1 as all Traits will be their normal value.  
