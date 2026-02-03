@@ -118,11 +118,11 @@ The base trait points an adventurer starts with considers multiple factors, incl
 
 Looking at the above charts, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not a direct 1:1 relationship due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be `70*1.2=84`, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of `60*1.2=72`, or a difference of `12`. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
 
-#### Errata
+#### Errata  
 
-**Detect:** Formula is correct, but multipliers might be off
-**Disarm Trap:** Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm
-**Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work. 
+- **Detect:** Formula is correct, but multipliers might be off  
+- **Disarm Trap:** Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm  
+- **Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work.   
 
 ### Trait Boost (Commonly called IV)
 A Trait Boost/IV is manifested in one of two ways.  First, and most commonly, a Character will have clearly improved growth in one Trait.  Normally this is visible at level 1 on character creation by 1 Trait being 1 point higher than normal.  However, this is not always the case.  This is a "buff" to the Trait growth rate, not an extra Trait point.  So it's possible to recieve a single Trait Boost/IV on a Trait that has poor growth for the Character/Class.  For example: a Dwarf Knight may not show an extra point of Speed at level 1, but may have a Speed Boost/IV. The second way this can manifest is as a "Neutral" Boost, where all Traits recieve a very small increase in growth.  This variety will not be visible at level 1 as all Traits will be their normal value.  
