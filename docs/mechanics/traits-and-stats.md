@@ -127,19 +127,16 @@ Looking at the above charts, we can see that while primary stats (STR, IQ, etc) 
 ### Class specific stat point *suggestions*
 Because ony adventurer can only have a limited number of items, bondmates, etc., equipped, and those have limited stat impact, we are often asked what stats players should focus on. There is no hand ard fast rule for this as optimal stat build will depend somewhat on playstyle. However, apart from some obvious things (e.g., generally don't stack Attack on a Mage or Magic Power on a Thief), here are some guide community blanket build recommendations by class **focused on current end-game play (currently Abyss 4)**:
 
-#### Base Classes
-
-- Fighter: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss
-- Knight:  enough ASPD to make up for low base, then DEF for cover. Otherwise see Fighter.
-- Thief: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss
-- Priest: ASPD > DIV > MDEF=RES.  Note some 'bishop' builds with inherited Mage spells may focus on MAG instead of DIV once you have enough for heals. 
-- Mage: ASPD > MAG > MDEF=RES.
-
-#### Advanced Classes
-
-- Ninja: SUR = ATK > ASPD. You probably have enough ACC.
-- Samurai: SUR > MAG = ATK > ACC = ASPD
-- Ranger:  SUR > ACC > ASPD > ATK
+- Base Classes  
+    - Fighter: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss  
+    - Knight:  enough ASPD to make up for low base, then DEF for cover. Otherwise see Fighter.  
+    - Thief: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss  
+    - Priest: ASPD > DIV > MDEF=RES.  Note some 'bishop' builds with inherited Mage spells may focus on MAG instead of DIV once you have enough for heals.   
+    - Mage: ASPD > MAG > MDEF=RES.  
+- Advanced Classes  
+    - Ninja: SUR = ATK > ASPD. You probably have enough ACC.  
+    - Samurai: SUR > MAG = ATK > ACC = ASPD  
+    - Ranger:  SUR > ACC > ASPD > ATK  
 
 You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely worth building because the game mechanics strongly devalue their impact relative to any other stat you could build. Similarly, RES formulas described below show why base RES suffers greatly relative to specific Tolerance boosts. Last, *while EVA is EXTREMELY STRONG IN ABYSSES 1 and 2, and arguably could be placed first for all melee classes at game start*, enemies start getting very high ACC in Abyss 3 and beyond. There it becomes far more important to just kill them first rather than hoping you dodge/defend. And if it is something you can't kill first, likely you also couldn't dodge it.
 
