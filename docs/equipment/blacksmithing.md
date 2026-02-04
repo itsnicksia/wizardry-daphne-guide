@@ -2,7 +2,7 @@
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 
-!!! warning "WARNING: The Abyss 4 release now includes REINFORCEMENT to further increase the stats of an item beyond what Enhancement can do.  DO NOT USE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance.  Updates to this guide are in progress."
+!!! warning "WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
 
 ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
 
@@ -224,6 +224,13 @@ Using a SECOND FAS on the same item repeats the process - it will again re-roll 
 As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls the stats but does not apply re-apply Milestone Blessings. They drop more frequently than Full Alteration Stones, but are still quite rare. 
 
 It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
+
+### Composite Reinforcement  
+The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it's a way of trying to enhance primary equipment stats to be in the range of equipment in a higher material rank by sacrificing items of that higher rank (or special, very expensive, silver ingots for guaranteed success).  The cost, requirements, and chances of success are a bit complicated, and we will try to provide more detail in time. But for now, in summary:
+
+*just don't. they tried. it's not worth it.*
+
+Just go get actual silver equipment. There's enough out there.
 
 Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
 
