@@ -56,11 +56,11 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 
     ### Arena Round 4
 
-    1. This fight is winnable, but like Vernant, extremely difficult to do so (Basically a big stat check fight). If you are not confident in your team or are already struggling a    bit in general, only go in with the main character.
+    1. This fight is winnable, but like Vernant, extremely difficult to do so (Basically a big stat check fight). If you are not confident in your team or are already struggling a bit in general, only go in with the main character.
     2. Head to Lower Deck 1, and head to the switch. Either fight the guard or give him a food voucher. Flip the switch to lower the water.
     3. There will be a new request at the Royal Capital, which is the [Purple Garlic Delivery Request](./requests.md#purple-garlic-delivery). Complete it and give the Garlic to the head chef and eat the garlic dish.
     4. Win the fight. You will get a bondmate if you did not do Step 2 and 3.
-
+    
     ### Arena Round 5
 
     1. You will die, so go in with the main character only.
@@ -182,14 +182,15 @@ Once you’re ready to fight Octonarus, you first need to learn about him by rea
 
 #### Battle Tips
 
-* You will have to fight Melgina twice before Octonarus, so it's beneficial to try to burst her down as soon as you can. Unconfirmed, but she appears to have lower health in this fight than in the fight with her as the Greater Warped One. When you get to his phase, Octonarus can be fought a bit more defensively
-* This fight in general is the same as the Melgina fight but with more "stuff" being thrown at you
-* Weak to earth, so `ERLIK` from Yekaterina and Den of Earth weapons will be very helpful
-* Buffing with `MASOLOTU` and `CORTU` can greatly reduce the damage you receive through evasion and spell damage reduction
-* `KINAPIC` can be useful to help prevent any issues related to your party being put to sleep, however you can still get some bad RNG here
+* You will have to fight Melgina twice before Octonarus, so it's beneficial to try to burst her down as soon as you can. Unconfirmed, but she appears to have lower health in this fight than in the fight with her as the Greater Warped One. When you get to his phase, Octonarus can be fought a bit more defensively.
+* This fight in general is the same as the Melgina fight but with more "stuff" being thrown at you.
+* Weak to earth, so `ERLIK` from Yekaterina and Den of Earth weapons will be very helpful.
+* Buffing with `MASOLOTU` and `CORTU` can greatly reduce the damage you receive through evasion and spell damage reduction.
+* `KINAPIC` can be useful to help prevent any issues related to your party being put to sleep, however you can still get some bad RNG here.
 * Make sure you reapply any crucial buffs or debuffs if Melgina clears them
 * Mages (Yekaterina in particular) should keep `Mental Unity` up so they can quickly clear any adds she spawns with a line spell.
-* If running two mages with one being Yeka, a single `KATINO` from your second mage followed by a `Mental Unity`-buffed `MAERLIK` will clear the adds out, quickly preventing any long-range bombardments
+* If running two mages with one being Yeka, a single `KATINO` from your second mage followed by a `Mental Unity`-buffed `MAERLIK` will clear the adds out, quickly preventing any long-range bombardments.
+* If you beat Gessi without Purple Garlic and selected "Melgina's Liberation",he will join you after 3-5 rounds vs Octonarus, usually sometime after he summons Allies.
 
 #### Right Arm of Reversal Usage
 
