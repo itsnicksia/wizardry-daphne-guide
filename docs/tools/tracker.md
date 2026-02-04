@@ -953,7 +953,7 @@
         {
           id: 'bird_dropper',
           title: 'Bird-Dropper',
-          details: 'Request Reward from "Hydra Plant Procurement. Respawns monthly."',
+          details: 'Request Reward from "Hydra Plant Procurement". Respawns monthly.',
           image: '',
           clickable: false,
         },
