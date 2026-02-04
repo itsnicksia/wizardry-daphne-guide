@@ -24,7 +24,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item.
 - Enhancing an item to +5 and beyond requires different grades and quantities of iron ore to be used.   
 - Enhancing items beyond +5, +10, and +15 also requires unification (see below) to increase the Strength of the item.
-- At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectievly, or an existing Blessing in that slot is improved if it already exists.
+- At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectievly, or a Blessing that already exists in that slot is improved.
 
 ### ^^Gold Cost for Enhancing^^
 #### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:
