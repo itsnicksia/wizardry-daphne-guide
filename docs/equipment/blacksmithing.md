@@ -2,7 +2,7 @@
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 
-!!! warning "WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
+!!! warning "ABYSS 4 WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
 
 ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
 
@@ -27,16 +27,26 @@ Blacksmithing becomes available early in the game after your party enters the fi
 - At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectievly, or an existing Blessing in that slot is improved if it already exists.
 
 ### ^^Gold Cost for Enhancing^^
+#### Worn-to-Ebonsteel Gear
+
+<div class="nofilter-table nosort-table narrow-table" markdown>
+| Gear Tier   |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
+|:-----------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
+|   Worn      |  150 |  300 |  500 |  750 | 1050 | 1400 | 1950 | 2550 | 3200 |  3900 |  4650 |  5700 |  6800 |  7950 |  9150 | 10400 | 12050 | 13750 | 17150 | 23950 | 127300 |
+|  Bronze     |  200 |  350 |  550 |  800 | 1100 | 1450 | 2000 | 2700 | 3550 |  4550 |  5700 |  7250 |  8950 | 10800 | 12800 | 14950 | 17700 | 20650 | 26550 | 38350 | 180950 |
+|   Iron      |  350 |  500 |  750 | 1100 | 1550 | 2100 | 2850 | 3750 | 4800 |  6050 |  7500 |  9350 | 11500 | 13950 | 16700 | 19750 | 23400 | 27350 | 39200 | 76200 | 268700 |
+|   Steel     |  500 |  700 | 1100 | 1700 | 2500 | 3500 | 4900 | 6650 | 8750 | 11200 | 14000 | 17400 | 21250 | 25550 | 30300 | 35550 | 41500 | 48050 | 67700 | 126650| 469450 |
+| Ebonsteel   |  550 |  770 | 1210 | 1870 | 2750 | 3850 | 5390 | 7315 | 9625 | 12320 | 15400 | 19140 | 23375 | 28105 | 33330 | 39050 | 45650 | 52855 | 74470 | 139315| 516340 |
+|  *Special*  |  650 |  900 | 1500 | 2450 | 3750 | 5400 | 7650 | 10500| 13950| 18000 | 22650 | 28100 | 34750 | 42600 | 51650 | 61900 | 74150 | 87800 | 128750| 251600| 848700 |
+
+#### Silver Gear
+
 <div class="nofilter-table nosort-table narrow-table" markdown>
 | Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
 |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
-|   Worn    |  150 |  300 |  500 |  750 | 1050 | 1400 | 1950 | 2550 | 3200 |  3900 |  4650 |  5700 |  6800 |  7950 |  9150 | 10400 | 12050 | 13750 | 17150 | 23950 | 127300 |
-|  Bronze   |  200 |  350 |  550 |  800 | 1100 | 1450 | 2000 | 2700 | 3550 |  4550 |  5700 |  7250 |  8950 | 10800 | 12800 | 14950 | 17700 | 20650 | 26550 | 38350 | 180950 |
-|   Iron    |  350 |  500 |  750 | 1100 | 1550 | 2100 | 2850 | 3750 | 4800 |  6050 |  7500 |  9350 | 11500 | 13950 | 16700 | 19750 | 23400 | 27350 | 39200 | 76200 | 268700 |
-|   Steel   |  500 |  700 | 1100 | 1700 | 2500 | 3500 | 4900 | 6650 | 8750 | 11200 | 14000 | 17400 | 21250 | 25550 | 30300 | 35550 | 41500 | 48050 | 67700 | 126650| 469450 |
-| Ebonsteel |  550 |  770 | 1210 | 1870 | 2750 | 3850 | 5390 | 7315 | 9625 | 12320 | 15400 | 19140 | 23375 | 28105 | 33330 | 39050 | 45650 | 52855 | 74470 | 139315| 516340 |
-|  Special  |  650 |  900 | 1500 | 2450 | 3750 | 5400 | 7650 | 10500| 13950| 18000 | 22650 | 28100 | 34750 | 42600 | 51650 | 61900 | 74150 | 87800 | 128750| 251600| 848700 |
-|	Silver	|	720	|	990	|	1650	|	2700	|	4130	|	5940	|	8420	|	11550	|	5941	|	19800	|	24920	|	30910	|	38230	|	46860	|	56820	|	?	|	?	|	?	|	?	|	?	|	?	|
+| Armor, 1H Melee, 1/2H Staff |		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|	?	|
+| 2H Melee Weapons |		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|	?	|
+| *Special* |		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|		|	?	|
 </div>
 
 ### ^^Ore Type and Amounts for Enhancing^^
