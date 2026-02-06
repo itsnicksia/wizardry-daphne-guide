@@ -788,6 +788,7 @@
           id: 'isberg_berrypatch',
           title: 'Adventurer’s Remains: Berry Patch',
           details: '[30 days]',
+          image: '',
           clickable: false
         },
         { subheader: 'Other'},
@@ -908,7 +909,7 @@
         { subheader: 'Chest Items' },
         {
           id: 'a2-district1-manapots',
-          title: 'Mana Elixer x2',
+          title: 'Mana Elixir x2',
           details: 'Chest in 1st District behind locked door (x:10, y:22). Respawns monthly.',
           image: '/tools/img/other/respawning-mana-pot-a2-district1.jpg',
           clickable: true,
@@ -957,7 +958,7 @@
         },
         {
           id: 'a2-ship2-manapots',
-          title: 'Mana Elixer x3',
+          title: 'Mana Elixir x3',
           details: 'Chest in Ship 2 Treasure Room (x:14, y:13) with 2x Deep-Water Gleaming Crystals. Respawns monthly.',
           image: '/tools/img/other/respawning-mana-pot-a2-ship2.jpg',
           clickable: true,
@@ -1058,6 +1059,13 @@
           image: '/tools/img/other/respawning-mana-pot-a3-office.jpg',
           clickable: true,
         },
+        {
+          id: 'a3_z10_scroll_sharedhealing',
+          title: 'Scroll of Shared Healing',
+          details: 'Chest in Zone 10 ("Bottom of Statue Room"). Respawns monthly.',
+          image: '',
+          clickable: true,
+        },
 
         { subheader: 'Request Rewards' },
         {
@@ -1111,8 +1119,8 @@
         },
         {
           id: 'tome_shieldbearer',
-          title: 'Book of Steadfast Shield Soldier Secrets. Respawns monthly.',
-          details: 'Princess Route Clear Reward',
+          title: 'Book of Steadfast Shield Soldier Secrets',
+          details: 'Princess Route Clear Reward.  Respawns monthly.',
           image: '',
           clickable: false,
         },
@@ -1134,6 +1142,66 @@
           id: 'everlasting_lily',
           title: 'Everlasting Lily',
           details: 'Request Reward from "Requiem for the Evil Spirit" quest. Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+        { subheader: 'Deepsnow Hinterlands' },
+        { subheader: 'Chest Items' },
+        {
+          id: 'a4_r8_nourishingpotions',
+          title: 'Nourishing Draught x2',
+          details: 'Route 10 (x:10, y:20).',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'a4_r10_mana_pots',
+          title: 'Mana Elixir x3',
+          details: 'Route 10 (x:18, y:7). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+        { subheader: 'Golden Mimics' },
+        {
+          id: 'a4_goldmimic_r7_northeast',
+          title: 'Golden Mimic - Route 7',
+          details: 'North east part of map. Respawns monthly.',
+          image: '',
+          clickable: false,
+        },        
+        {
+          id: 'a4_goldmimic_r8_poisonpool',
+          title: 'Golden Mimic - Route 8',
+          details: 'Guarded poison pool. (x:14, y:10). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },        
+        {
+          id: 'a4_goldmimic_r9_upontherooftop',
+          title: 'Golden Mimic - Route 9',
+          details: 'Top of the house. (x:12, y:24) Respawns monthly.',
+          image: '',
+          clickable: false,
+        },        
+        {
+          id: 'a4_goldmimic_r10',
+          title: 'Golden Mimic - Route 10',
+          details: 'Guarded by miniboss, next to Nourishing Draughts. (x:2, y:0). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },        
+        {
+          id: 'a4_goldmimic_church_grounds_west',
+          title: 'Golden Mimic - Church Grounds',
+          details: 'Above Church. In blizzard. (x:17, y:26). Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+        { subheader: 'Request Rewards' },
+        {
+          id: 'a4_gull_equipment_mastery',
+          title: 'Book of Steadfast Shield Soldier Secrets',
+          details: 'Admiral Route Clear Reward. Respawns monthly.',
           image: '',
           clickable: false,
         },
@@ -1177,7 +1245,7 @@
 
   // === CONTENT VERSION + REBASE/MIGRATION ===
   const CONTENT_VER_KEY = 'respawn_base_content_version_v3';
-  const BASE_CONTENT_VERSION = 7;
+  const BASE_CONTENT_VERSION = 8;
 
   const deepEqual = (a,b) => JSON.stringify(a) === JSON.stringify(b);
 
