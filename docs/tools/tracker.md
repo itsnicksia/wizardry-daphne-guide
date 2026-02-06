@@ -783,6 +783,13 @@
           image: '/tools/img/bones/respawning-bone-catacomb.jpg',
           clickable: true
         },
+        { subheader: 'Deepsnow Hinterlands' },
+        {
+          id: 'isberg_berrypatch',
+          title: 'Adventurer’s Remains: Berry Patch',
+          details: '[30 days]',
+          clickable: false
+        },
         { subheader: 'Other'},
         {
           id: 'bonepicker_bone',
