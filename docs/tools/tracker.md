@@ -907,6 +907,13 @@
           clickable: true,
         },
         {
+          id: 'a2-district2-nourishingpotions',
+          title: 'Nourishing Draught x3',
+          details: 'Chest in 2nd District southeast room (x:21, y:10). Respawns monthly.',
+          image: '/tools/img/other/respawning-sp-pot-a2-district2.jpg',
+          clickable: true,
+        },
+        {
           id: 'lightfoot_sandals',
           title: 'Light Sandals',
           details: 'Chest in 3rd District near ambush room (x:17, y:1). Respawns monthly.',
@@ -1163,7 +1170,7 @@
 
   // === CONTENT VERSION + REBASE/MIGRATION ===
   const CONTENT_VER_KEY = 'respawn_base_content_version_v3';
-  const BASE_CONTENT_VERSION = 5;
+  const BASE_CONTENT_VERSION = 7;
 
   const deepEqual = (a,b) => JSON.stringify(a) === JSON.stringify(b);
 
