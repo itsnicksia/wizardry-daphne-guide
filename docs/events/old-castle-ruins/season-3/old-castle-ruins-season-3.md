@@ -1,5 +1,8 @@
 # Old Castle Ruins - Season 3
 
+## Overview
+The Old Castle Ruins event is a seasonal competition open to all players of a certain level. Once unlocked the town is always available on the World Map, but you can only enter the Ruins when an event is ongoing. The Ruins is a multi-floor castle broken into groups of floors, each group having a common set of enemies and a boss. Each floor group ends in a boss level where you re-fight all previous bosses in that group. The MC dying causes you to be sent back outside, no in-dungeon reversal. Reaching higher floors earns rewards and currency for a Ruins shop. There are best score leaderboards where rank can earn additional rewards at the end of the season.
+
 !!! bug "It is season 3 and there are still bugs with Foray Speed. Thank you Drecom"
 
 All floors are static. Players are ranked by how fast you complete the floor, using a "Foray Speed" scoring formula described below.  Note that unlike previous seasons, shortest distance paths to the boss may not provide the lowest Foray Speed score.
@@ -9,7 +12,7 @@ Boss Rush floors always have the same order of bosses.
 Direct paths to the floor Bosses are listed below.
 
 ## How to participate:
-The main character needs to reach Bronze Grade. After advancing to Bronze Grade, visiting the Adventurers Guild will trigger a dialog for the quest after which a new location will be available on the World Map.  Note that once you've activated the event, the location will remain on your World Map even when the season ends. You will simply be denied entry to the ruins between seasons.
+The main character needs to reach Bronze Grade. After advancing to Bronze Grade, visiting the Adventurers Guild will trigger a dialogue after which a new location will be available on the World Map.
 
 ## PvP Floors:
 Every safe floor (6, 11, 16, 21), has a PvP room where you can fight against other adventurer parties. There isn't anything gained by doing so, but they can be easily defeated with a strong mage with high ASPD.
