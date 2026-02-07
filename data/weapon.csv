@@ -262,9 +262,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 74,2H_Mace!A74,2H_Mace,96,Two-Handed Mace of Expulsion,Ebonsteel,1,,1563,100,0,0,0,0,-8,0,-4,-6,0,123,0,0,0,0,-8,0,-4,-6,0,145,0,0,0,0,-8,0,-4,-6,0,168,0,0,0,0,-8,0,-4,-6,0,190,0,0,0,0,-8,0,-4,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Vs Undead"
 80,2H_Mace!A80,2H_Mace,156,Heavy Mace of the Aurora,Ebonsteel,1,,1563,100,0,0,0,0,-8,0,-4,-6,0,123,0,0,0,0,-8,0,-4,-6,0,145,0,0,0,0,-8,0,-4,-6,0,168,0,0,0,0,-8,0,-4,-6,0,190,0,0,0,0,-8,0,-4,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Light Type"
 86,2H_Mace!A86,2H_Mace,165,Heavy Mace of Eternal Darkness,Ebonsteel,1,,1563,100,0,0,0,0,-8,0,-4,-6,0,123,0,0,0,0,-8,0,-4,-6,0,145,0,0,0,0,-8,0,-4,-6,0,168,0,0,0,0,-8,0,-4,-6,0,190,0,0,0,0,-8,0,-4,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Dark Type"
-92,2H_Mace!A92,2H_Mace,,Silver Two-Handed Mace,Silver,1,,,136,0,0,0,0,-8,10,-2,-6,0,159,0,0,0,0,-8,10,-2,-6,0,185,0,0,0,0,-8,10,-2,-6,0,208,0,0,0,0,-8,10,-2,-6,0,225,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +"
-98,2H_Mace!A98,2H_Mace,,Earthrend Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Earth Type"
-104,2H_Mace!A104,2H_Mace,,Seafoam Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Fire Type"
+92,2H_Mace!A92,2H_Mace,,Silver Two-Handed Mace,Silver,1,,,126,0,0,0,0,-8,10,-2,-6,0,159,0,0,0,0,-8,10,-2,-6,0,185,0,0,0,0,-8,10,-2,-6,0,208,0,0,0,0,-8,10,-2,-6,0,225,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +"
+98,2H_Mace!A98,2H_Mace,,Earthrend Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,181,0,0,0,0,-8,10,-2,-6,0,204,0,0,0,0,-8,10,-2,-6,0,221,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Earth Type"
+104,2H_Mace!A104,2H_Mace,,Seafoam Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,181,0,0,0,0,-8,10,-2,-6,0,204,0,0,0,0,-8,10,-2,-6,0,221,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Fire Type"
 110,2H_Mace!A110,2H_Mace,,Nordic Club,Silver,1,75000,,116,0,0,0,0,-8,25,-2,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, ???"
 116,2H_Mace!A116,2H_Mace,,Cyclops Hammer,Silver,1,,,140,0,-50,0,0,-20,-20,-2,-6,0,173,0,-50,0,0,-20,-20,-2,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +"
 122,2H_Mace!A122,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -517,12 +517,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 134,Sam_Odachi!A134,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,Sam_Odachi!A140,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Ninjato!A2,Ninjato,172,Lower Ninja Blade,Bronze,1,,120,32,0,0,-1,-1,1,0,1,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
+2,Ninjato!A2,Ninjato,172,Lower Ninja Blade,Bronze,1,,120,32,0,0,-1,-1,1,0,1,1,0,47,0,0,-1,-1,1,0,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
 8,Ninjato!A8,Ninjato,173,Shadowrunner Blade,Iron,1,,380,67,0,0,-1,-1,1,0,2,2,0,87,0,0,-1,-1,1,0,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
 14,Ninjato!A14,Ninjato,82,Phantom Shadow Blade,Steel,1,,720,105,0,0,-1,-1,1,0,3,3,0,130,0,0,-1,-1,1,0,4,4,0,155,0,0,-1,-1,1,0,5,5,0,180,0,0,-1,-1,1,0,6,6,0,,,,,,,,,,,Evade Increase
 20,Ninjato!A20,Ninjato,110,Covert Blade,Ebonsteel,1,,1875,130,0,0,-1,-1,2,0,5,5,0,161,0,0,-1,-1,2,0,7,7,0,192,0,0,-1,-1,2,0,8,8,0,223,0,0,-1,-1,2,0,9,9,0,255,0,0,-1,-1,2,0,10,10,0,Evade Increase
 26,Ninjato!A26,Ninjato,,Shrouded Blade,Silver,1,,,156,0,0,0,-1,2,20,6,20,0,194,0,0,0,-1,2,20,7,21,0,231,0,0,0,-1,2,20,8,22,0,268,0,0,0,-1,2,20,9,23,0,306,0,0,0,-1,2,20,10,24,0,Evade Increase
-32,Ninjato!A32,Ninjato,,Beclouded Blade,Silver,1,,,172,0,0,-20,-1,2,20,12,20,-15,210,0,0,-20,-1,2,20,14,21,-15,247,0,0,-20,-1,2,20,15,22,-15,,,,,,,,,,,322,0,0,-20,-1,2,20,17,24,-15,Evade Increase
+32,Ninjato!A32,Ninjato,,Beclouded Blade,Silver,1,,,172,0,0,-20,-1,2,20,12,20,-15,210,0,0,-20,-1,2,20,14,21,-15,247,0,0,-20,-1,2,20,15,22,-15,284,0,0,-20,-1,2,20,16,23,-15,322,0,0,-20,-1,2,20,17,24,-15,Evade Increase
 38,Ninjato!A38,Ninjato,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 44,Ninjato!A44,Ninjato,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50,Ninjato!A50,Ninjato,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
