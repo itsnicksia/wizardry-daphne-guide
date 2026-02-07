@@ -1,5 +1,8 @@
 # Old Castle Ruins - Season 1
 
+## Overview
+The Old Castle Ruins event is a seasonal competition open to all players of a certain level. Once unlocked the town is always available on the World Map, but you can only enter the Ruins when an event is ongoing. The Ruins is a multi-floor castle broken into groups of floors, each group having a common set of enemies and a boss. Each floor group ends in a boss level where you re-fight all previous bosses in that group. The MC dying causes you to be sent back outside, no in-dungeon reversal. Reaching higher floors earns rewards and currency for a Ruins shop. There are best score leaderboards where rank can earn additional rewards at the end of the season.
+
 ## Notes about maps
 1. The maps don't seem to reset.
 2. Every 5th floor is a gauntlet map which contains 5 battles. Two normal enemy encounters and then every miniboss that you encounter before the portal of the previous floors. 
