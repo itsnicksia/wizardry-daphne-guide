@@ -30,7 +30,7 @@ The Crucible Mausoleum floor is unique in that it contains a random selection of
     
     ![](img/maus-furnace.jpg) ![](img/maus-tallow.jpg)  
     
-    By using two Tallows at an Altar of Morgus, the number of claimed bones in that Mausoleum can be reduced by one. This means that a previously 'emptied' Mausoleum could then produce one extra (random) Adventurer from that Mausoleum's list.  Other than the consumed Tallow, there is no other cost to doing this, and it is ecouraged to be done regularly as it increases the game's otherwise limited bone resource.  There are [strategy suggestions to use this to maximum advantage below](#).
+    By using two Tallows at an Altar of Morgus, the number of claimed bones in that Mausoleum can be reduced by one. This means that a previously 'emptied' Mausoleum could then produce one extra (random) Adventurer from that Mausoleum's list.  Other than the consumed Tallow, there is no other cost to doing this, and it is ecouraged to be done regularly as it increases the game's otherwise limited bone resource.  There are [strategy suggestions to use this to maximum advantage below](#mausoleum-strategies).
 
      ![](img/maus-bone-summoning-2.jpg)  
 
