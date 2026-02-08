@@ -14,7 +14,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 - If you decline, then to accept the request in the future select "Talk" in the Guild
 - All of the faction requests take place in Elden Hill Village and share the same map  
 
-??? warning "Important Notes"
+!!! warning "Important Notes"
 
     === "Faction Affinity"
     
