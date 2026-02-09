@@ -1092,7 +1092,14 @@
         {
           id: 'goats_cloak_a3reward',
           title: 'Goatskin Cloak',
-          details: 'Request Reward from "Antique Scarlet Doll". Respawns monthly.',
+          details: 'Request Reward from "Antique Scarlet Doll". Select handing all the dolls in. Respawns monthly.',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'antique_ring_a3reward',
+          title: 'Antique Ring (100k gp)',
+          details: 'Request Reward from "Antique Scarlet Doll". Select handing no dolls in. Respawns monthly.',
           image: '',
           clickable: false,
         },
