@@ -1,12 +1,12 @@
 # The Beginning Abyss
 
 ## Overview
-The Beginning Abyss is an eight level dungeon that serves as both a tutorial to the mechanics of the game and an introduction to the overaching Wizardry Variants Daphne story.  Your primary goal is to [complete the request to Save the King](./important-request-gwo.md)!  It's not as easy as it sounds, and it may take you a few tries. The key is to keep progressing in the story despite setbacks and you'll eventually learn how to get the job done right.  Each floor has a very similar square layout with various events, [side quests](./requests.md), tricks, and traps. The one exception to this is a side dungeon on the third floor called the "Goblin Den". You will be warned away from this area if your level is too low.  *Savor the risk* but DON'T IGNORE WARNINGS FROM THE GAME! 
+The Beginning Abyss is an eight level dungeon that serves as both a game tutorial and an introduction to the overaching Wizardry Variants Daphne story.  Your primary goal is to [complete the request to Save the King](./important-request-gwo.md)!  It's not as easy as it sounds, and it may take you a few tries. The key is to keep progressing in the story despite setbacks and you'll eventually learn how to get the job done right.  Each floor has a very similar square layout with various events, [side quests](./requests.md), tricks, and traps. The one exception to this is a side dungeon on the third floor called the "Goblin Den". You will be warned away from this area if your level is too low.  *Savor the risk* but DON'T IGNORE WARNINGS FROM THE GAME! 
 
 ## Maps
 
 !!! note
-    Certain floors have tile variations variations (shifts and rotations) that are randomly selected when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match what is shown. Key events on variable tiles always occur in the same rooms on those tiles, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details. 
+    Some floors have tile variations (shifts and rotations) randomly chosen when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match these. Key events on variable tiles always occur in the same rooms on those tiles, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details. 
 
 ??? map "B1F -Pit-"
 
