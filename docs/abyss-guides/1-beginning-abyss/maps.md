@@ -5,9 +5,10 @@ The Beginning Abyss is an eight level dungeon that serves as both a game tutoria
 
 ## Maps
 
-!!! note
-    Some floors have tile variations (shifts and rotations) randomly chosen when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match these. Key events on variable tiles always occur in the same rooms on those tiles, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details. 
-
+!!! warning "Map Variations"
+    - Some floors have tile variations (shifts and rotations) randomly chosen when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Two variations of the maps with tile changes are included below, but your maps and the location of certain events may not perfectly match these. 
+    - Events and items on variable tiles always occur in the same rooms on those tiles even though they may have moved and rotated, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details. 
+    
 ??? map "B1F -Pit-"
 
     !!! note
