@@ -53,7 +53,7 @@ The Beginning Abyss is an eight level dungeon that serves as both a game tutoria
 ??? map "B5F -Warped One's Nest-"
 
     !!! note
-        The top left side in the beginning of the map is the 'warped one's nest', I don't suggest going there unless you're prepared. The larger rectangular area will have a boss for you. Prepare accordingly. Also, check this map to avoid the poison tile paths unless you want the Adventurer's Remains in the chest at the end of the path.  There are also two very good iron-grade weapons to be found in the three-chest rooms.
+        The top left side in the beginning of the map is the 'warped one's nest', I don't suggest going there unless you're prepared. The larger rectangular area will have a boss for you. Prepare accordingly. Also, check this map to avoid the poison tile paths (except for maybe the Adventurer's Remains in the chest at the end of the long path).  There are also two very good iron-grade weapons to be found in the three-chest rooms.
 
     ![](./img/beginning-abyss-b5f.jpg)
 
