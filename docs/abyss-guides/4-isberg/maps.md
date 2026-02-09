@@ -1,6 +1,9 @@
 # Maps for Abyss 4
 
-!!! note "Keep in mind that these maps are just a certain variation, and that certain parts of certain maps may change"
+!!! warning "Map Variations"  
+    - Some floors have tile variations (shifts and rotations) randomly chosen when you start the abyss, and certain actions can reset the dungeon layout changing the variation you see. Your maps and the location of certain events may not perfectly match these.  
+    - Events and items on variable tiles always occur in the same rooms on those tiles even though they may have moved and rotated, so look for similar features. See [Map Variations page](../../mechanics/map-variations.md) for details.  
+    
 
 ## Main Abyss Maps
 
