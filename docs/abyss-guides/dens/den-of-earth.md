@@ -13,17 +13,17 @@
     The Earth Den provides mostly Low-Grade Ore (gray), with occasional Mid-Grade Ore (red), and rarely a piece of High-Grade Ore (blue), and is a source of Earth Type armor and weapons (useful against Water Type enemies like those found in excess in Abyss 2).  
 
 ??? info "Boss Fights"  
-    The Earth Den has a mini boss fight just outside the portal room with a Big Slime, and a final boss fight with a Hydra Plant moster (Earth type, vulnerable to Air), both accompanied by a random group of Earth Den monsters.
+    The Earth Den has a mini boss fight just outside the portal room with a Big Slime, and a final boss fight with a Hydra Plant moster (Earth type, vulnerable to Air), both accompanied by a random group of Earth Den monsters. (Both shown as stars on the main map below)
 
 ??? info "Exploration and Farming Strategy"  
-    For the Earth Den (and most other Dens) the map reset prevents auto-moving to efficiently collect chests on the map. So the most efficient ore and junk farming strategy is usually to rush straight to the boss for guaranteed chest drops while picking up any nearby spawned chests along the way.  Sprung traps are permanently revealed, however, so full exploration is of value once on each map tile variation to expose traps.  After a few rounds of exploration enough tiles should be explored and traps revealed to allow safe progress to the boss on further trips.
+    (After the January 2025 mapping update) For the Earth Den and most other Dens the initially blank map and map reset initially prevents auto-moving to efficiently collect chests on the map.  There are a fixed number of tiles, though, as explained below.  Because map exploration now persists across visits you should completely explore the map a few times. Eventually, you will have fully explored every tile variation, and the map will be fully revealed to you each time you enter.  At this point, you can auto-move to chests and/or the bosses to farm for ore and equipment.  Note that sprung traps are permanently revealed, and should be avoiding from that point on as long as 'avoid traps' is selected in your auto-move settings.
 
-    Without knowing the map layout, the fastest boss route is often to leave the entry tile from the south east room, then work west and north through the middle tiles, to enter the exit tile on the upper east side, as generally indicated on the main map below. The acutal path can vary significantly on some map variations.
+    For most map variations, the simplest boss-rush route will generally follow the red path shown on the initial map: leave the entry tile from the south east room, then work west and north through the middle tiles, to enter the exit tile on the upper east side. Note past trial-and-error has suggested the bosses have a higher 'good chest' outcome with better rates of good treasure.  If just farming for highest chest count, you should set a check mark on the bosses, auto-move to chests, then auto move to the bosses, then leave and repeat.  If the bosses are too challenging, then you can just chest dive and leave.
 
 !!! map "Den of Earth Maps"  
-    The Earth Den is a 2x3 map.  The entry map, tileset, and a several map variations are shown below. This is obviously an incomplete set of variations.  Rather than tiles 'swapping' like Abyss map variations, there appears to be at least three variations for each of the four hidden tiles, suggesting at least 3^4=81 full map combinations.  
+    The Earth Den is a 2x3 map.  The entry map, tileset, and a several example map variations are shown below. This is obviously an incomplete set of variations.  Rather than tiles 'swapping' like Abyss map variations, there appears to be at least three variations for each of the four hidden tiles, suggesting at least 3^4=81 full map combinations.  
 
-    That said, all 3x4=12 tile variations only need to be explored once for the traps to be permanently exposed for future runs. Trap and hallway layout can then tip you off as to which tile variation you've been dealt.
+    That said, all 3x4=12 tile variations only need to be explored once each to be permanently exposed for future runs.
 
     !!! map "Den of Earth - Entry Map"
         ![](./img/den-of-earth/den-of-earth-entry-map.jpg)
