@@ -230,6 +230,7 @@ Below are the steps from start-to-finish to create a stat bondmate:
 | Human-Fig    | STR                 |
 | Human-Nin    | SPD                 |
 | Human-Pri    | PIE                 |
+| Human-Sam    | STR                 |
 | Iarumas      | IQ                  |
 | Jarmil       | IQ                  |
 | Jean         | DEX                 |
@@ -249,5 +250,6 @@ Below are the steps from start-to-finish to create a stat bondmate:
 | Valdor       | IQ                  |
 | Viviana      | SPD                 |
 | Yekatarina   | IQ                  |
+| Yoizou       |                     |
 | Yrsa         |                     |
 | Yuzunamiki   |                     |
