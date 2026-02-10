@@ -1,6 +1,6 @@
 # Den of Fire  
 
-!!! note "Mapping updates in Jan 2025 changed the behavior of Den maps. Floors are no longer obscured by grey tiles. Once any tile is explored the map stays visible when it appears on subsequent visits. Auto moving to marks and chests is now viable for the whole map."
+!!! note "Mapping updates in Jan 2026 changed the behavior of Den maps. Floors are no longer obscured by grey tiles. Once any tile is explored the map stays visible when it appears on subsequent visits. Auto moving to marks and chests is now viable for the whole map."
 
 ??? info "About Dens"  
     All Dens are 1 floor element-themed dungeons with variable map tiles that randomly change layout each time the Den is entered. Only the Entrance and Exit (portal) tiles stay unchanged, and once explored stay permanently visible.  Each den has one or two Boss fights on the way to the exit portal.  
