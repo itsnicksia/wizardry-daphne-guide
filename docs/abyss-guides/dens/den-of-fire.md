@@ -1,9 +1,11 @@
 # Den of Fire  
 
-??? info "About Dens"
-    All Dens are 1 floor dungeons that are obscured each time the Den is entered, with the Entrance and Exit (portal) tiles always visible. Most/all other map tiles are variable, and randomly change layout each time the Den is entered. Each den has one or two Boss fights on the way to the exit portal.  
+!!! note "Mapping updates in Jan 2025 changed the behavior of Den maps. Floors are no longer obscured by grey tiles. Once any tile is explored the map stays visible when it appears on subsequent visits. Auto moving to marks and chests is now viable for the whole map."
 
-    Chests in Dens can give you [Blacksmithing Ore of different grades required for ehnancing gear beyond +4](../../equipment/blacksmithing.md#enhance) and Elemental armor and weapon junk matching the Den. (Earth, fire, air, and water gear are steel grade.)  
+??? info "About Dens"  
+    All Dens are 1 floor element-themed dungeons with variable map tiles that randomly change layout each time the Den is entered. Only the Entrance and Exit (portal) tiles stay unchanged, and once explored stay permanently visible.  Each den has one or two Boss fights on the way to the exit portal.  
+
+    Chests in Dens can give you the [Blacksmithing Ore of different grades required for ehnancing gear beyond +4](../../equipment/blacksmithing.md#enhance) and Elemental armor and weapon junk matching the Den. (Earth, fire, air den gear are steel grade. Light den gear is Ebonsteel grade.  Water den gear is Silver grade.)  
 
 !!! info 
     The Den of Fire is the second den available to players. It appears after unlocking a new Right Hand of Reversal ability on the fourth level of the Second Abyss - Trade Waterways.  After talking with Arna in the Royal Capital Adventurer's Guild it can be accessed from the Edge of Town.
