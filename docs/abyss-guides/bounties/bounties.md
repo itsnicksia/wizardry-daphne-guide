@@ -14,7 +14,8 @@
 | 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
 | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
-| 13 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
+| 13-14 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
+| 15 | Clear Abyss 4 (Normal Ending) |
 
 ## Abyss 1 Bounties
 
@@ -196,6 +197,24 @@
     === "Map Location"
         ![](./img/peerless-scorpionesses-loc.png)
 
+??? danger "Saige the Sacker (110 Tokens)"
+
+    === "Bounty Picture" 
+        ![](./img/saige-the-sacker.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as an NPC on the map
+        - 4800 Gold Reward
+        - 110 Token Reward
+        - Appears at Bounty Rank ???
+        
+    === "Fight Details"
+        - Only has several thousand HP
+        - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
+
+    === "Map Location"
+        ![](./img/saige-the-sacker-loc.png)
+
 ## Abyss 2 Bounties
 
 ??? danger "The Unpierceable One (40 Tokens)" 
@@ -325,6 +344,24 @@
 
     === "Map Location"
         ![](./img/ecstatic-blazing-eye-loc.png)
+
+??? danger "Monica, the Self-Proclaimed Enforcer (210 Tokens)"    
+
+    === "Bounty Picture" 
+        ![](./img/monica-the-self-proclaimed-enforcer.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as an NPC on the map.
+        - 9500 Gold Reward
+        - 210 Token Reward
+        - Appears at Bounty Rank ???
+
+    === "Fight Details"
+        - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
+        - After doing enough damage to her (~5k), she will become fatigued and you may capture her with Binding Rope
+
+    === "Map Location"
+        ![](./img/monica-the-self-proclaimed-enforcer-loc.png)
 
 ## Abyss 3 Bounties
 
@@ -506,6 +543,103 @@
     === "Map Location"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
 
+??? danger "Ross, the Twisted Knight of Justice (400 Tokens)"
+
+    === "Bounty Picture" 
+        ![](./img/ross-the-twisted-knight-of-justice.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as an NPC on the map.
+        - 12000 Gold Reward
+        - 400 Token Reward
+        - Appears at Bounty Rank ???
+
+    === "Fight Details"
+        - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
+        - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn.
+        - Ross has a lot of HP and will typically cover the backrow units. Otheriwse he himself is very weak.
+
+    === "Map Location"
+        ![](./img/ross-the-twisted-knight-of-justice-loc.png)
+
+
+## Abyss 4 Bounties
+
+??? danger "Ice Frost and Potent Venom Strangler Vine (950 Tokens)"
+
+    === "Bounty Picture"
+        ![](./img/ice-frost-and-potent-venom-strangler-vine.png)
+        
+    === "Bounty Details"
+        - Roamer, doesn't appear on the minimap.
+        - 17000 Gold Reward
+        - 950 Token Reward
+        - Appears at Bounty Rank ???
+
+    === "Fight Details"
+        - Spawns with 2 Ice Entities in the same row.
+        - Has quite a lot of HP, otherwise acts like its normal counterpart.
+
+??? danger "Dutz, the Honey Tonic Savant (1140 Tokens)"
+
+    === "Bounty Picture" 
+        ![](./img/dutz-the-honey-tonic-savant.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as an NPC on the map.
+        - 26700 Gold Reward
+        - 1140 Token Reward
+        - Appears at Bounty Rank ???
+
+    === "Fight Details"
+        - Around 20k HP.
+        - Has 3 actions per his turn. Can self buff with various drugs and perform typical thief skills. Can also cast weak magic.
+        - When he casts Night Honey, will gain permanent massive ATK, CT and MAG up buffs. Essentially all his physical skills will do over a thousand damage. In addition, he will be available to be caught with Binding Rope.
+        - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one.
+        - After defeating him, you MUST give him the Tonic or else he will die and the bounty will fail.
+
+    === "Map Location"
+        ![](./img/dutz-the-honey-tonic-savant-loc.png)
+
+??? danger "Spirit Realm Automaton (1380 Tokens)"
+
+    === "Bounty Picture" 
+        ![](./img/spirit-realm-automaton.png)
+
+    === "Bounty Details"
+        - Stationary, but not indicated on the map nor minimap.
+        - 28000 Gold Reward
+        - 1380 Token Reward
+        - Appears at Bounty Rank 14
+
+    === "Fight Details"
+        - Has around 80k HP. Has insanely high evasion that is not overcomeable by standard means.
+        - Is Dark element, but much weaker than typical golems.
+        - Extremely recommended to bring multiple fighters with 2H Maces. Badios/Foros users are okay as well if using Mental Unity. Otherwise, magic is not recommended.
+
+    === "Map Location"
+        ![](./img/spirit-realm-automaton-loc.png)
+
+??? danger "Wailing Twin Dolls (1550 Tokens)"
+
+    === "Bounty Picture" 
+        ![](./img/wailing-twin-dolls.png)
+
+    === "Bounty Details"
+        - Stationary-ish, shows up as a flying shaped enemy when you are nearby. Will be in the same area of the map every time.
+        - 32100 Gold Reward
+        - 1550 Token Reward
+        - Appears at Bounty Rank 14
+
+    === "Fight Details"
+        - There are two Our Heirlooms in the same row. They each have 50kish HP
+        - The left one will typically cast magic, while the right one typically uses physical skills. The magic casted is typically Zelos/Mazelos and can hit upwards of 500 on neutral units. 
+        - Upon taking enough damage, they can cast Ballroom Waltz (full team charm) once and then Dance (full team confuse) once out of turn.
+        - They can also summon a Stonefolk in the back row.
+
+    === "Map Location"
+        ![](./img/wailing-twin-dolls-loc.png)
+
 ## Other Bounties
 
 ??? danger "The Lurking Flutter Hunting-Fey (80 Tokens)"
@@ -532,12 +666,14 @@
 
 The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disarm Trap and unlocks at Bounty Rank 5 ("Rank"). It is a permanent item and does not reset each month. Please remember to lock each copy after purchasing to avoid accidentally bulk-selling them in the Item Shop. There is no known way to gain extra copies and you will be unable to reach max unification (3/3) and enhancement (+20).
 
+The Master Ring Unification Material is an item that is used specifically for unifying the Master Ring obtained at Rank 13 to 1/3 Strength. It cannot be used for anything else.
+
 | Item | Rank | Bounty Medals | # Copies | Total Bounty Medals |
 |:-----|:----:|:-------------:|:--------:|:-------------------:|
 | Hound Mask | 5 | 1,500 | 1  | 1,500   |  
 | Hound Mask | 5 | 3,000 | 2  | 6,000   | 
-| Hound Mask | 5 | 4,000 | 24 | 96,000  | 
-| Total      |   |       | 27 | 103,500 | 
+| Hound Mask | 5 | 4,000 | 24 | 96,000  |
+| Master Ring Unification Material | 15 | 4500 | 2 | 9000 | 
 
 ### Monthly Items
 
@@ -574,8 +710,10 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 | 10 |  | 100 | 600,000 | |  
 | 11 | 1 | 100 | 600,000 | |  
 | 12 | 3 | 300 | 800,000  |  |  
-| 13 |   | 500 | 1,000,000  | Master Ring   |  
-| Total | 11 | 2,200  |  4,530,000  |    |
+| 13 |   | 500 | 1,000,000  | Master Ring   |
+| 14 |   | 100 | 1,200,000  | |
+| 15 |   | 300 | 1,450,000  | Grip Gloves |
+| Total | 11 | 2,600  |  7,180,000  |    |
 
 ## Unique Rewards
 
