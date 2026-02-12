@@ -52,7 +52,7 @@ Milana,Elf,Female,Dark,Evil,Thief,Mage,Thief of the Silent Night,,Poison Attack,
 Olive,Elf,Female,Air,Neutral,Fighter,Thief,,,Will to Fight,,Immortal Strike,Honest Living,,Knowledge of Adventurers,,General,11,15,11,10,15,15,10,9,15,11,9,15,17,11,Stalwart Warrior,,2024-10-15,
 Ophelia,Human,Female,Air,Neutral,Fighter,Knight,,,Counterattack,,Way of the Warrior,Eye of the Hunter,,Way of the Field of Battle,,General,13,12,12,12,13,14,11,13,12,13,13,12,14,11,Deft Thief,,2024-10-15,
 Philip,Elf,Male,Water,Neutral,Thief,Fighter,,,Delay Attack,,Cunning Pursuit,Presence of Mind,,Master of the Hunt,,General,10,16,11,10,15,14,11,12,16,11,11,15,12,10,Cunning Thief,,2024-10-15,
-Raffaello,Human,Male,Fire,Evil,Priest,,,,Alchemized Anima Dissolution,,,Bones of Obsessive Love,,Alchemist of Rebirth,,Legendary,14,12,13,13,12,11,12,14,11,11,13,13,13,12,Love-Mad Alchemist that Broke the Laws of Nature,,2025-09-18,
+Raffaello,Human,Male,Fire,Evil,Priest,Thief,,,Alchemized Anima Dissolution,,,Bones of Obsessive Love,,Alchemist of Rebirth,,Legendary,14,12,13,13,12,11,12,14,11,11,13,13,13,12,Love-Mad Alchemist that Broke the Laws of Nature,,2025-09-18,
 Red Beard,Dwarf,Male,Dark,Neutral,Priest,Knight,,,Prayer of Rebellion,,,Apostle of Breaking Commandments,,Traitor to Gods,,Legendary,14,12,14,15,15,07,10,16,11,13,17,15,7,9,Priest Who Rebelled Against the Gods,,2025-01-16,
 Rinne,Elf,Female,Dark,Evil,Ninja,Thief,,,Moment of Finality,,,Enlightenment of the Brink of Death,,Inheritor of the Secret Arts,,Legendary,10,17,11,09,14,15,12,9,17,11,9,14,15,12,Shinobi Whispered to be the Decapitating Camellia,,2025-01-30,
 Savia,Beastfolk,Female,Dark,Evil,Knight,Thief,,,Black Beast Feint,,,Soaring Beast Knight,,Natural Combatant,,Legendary,12,15,09,15,13,15,09,10,15,8,13,14,17,10,Soaring Blackstar,,2025-02-13,
@@ -63,4 +63,5 @@ Viviana,Human,Female,Water,Evil,Thief,Priest,,,Hiding,,Passive Surety Up (Thief)
 Yekaterina,Human,Female,Earth,Neutral,Mage,Priest,Everdistant Summershade,True,Eye of Kalshum,Grand Burial ERLIK,,Advice of the Skull,Skull's Tutelage,Future Dreamt with the Skull,Path Walked with a Skull,Legendary,11,14,12,13,13,13,11,11,13,14,13,12,12,12,Mage Possessed by the Skull,Mage of the Seal who Mourns a Past Spirit,2024-10-15,2025-08-14
 Yoizou,Elf,Male,Fire,Good,Samurai,,,,Blazing Resplendence,,,Running Flame,,Flame of Revolt,,Legendary,14,15,10,12,15,12,10,,,,,,,,Outland Samurai Harboring the Flame of Vengeance,,2026-01-29,
 Yrsa,Dwarf,Female,Water,Good,Ranger,,,,First Arrow to Draw Blood,,,Slayer of the White Calamity,,Forest-Reading Huntcraft,,Legendary,14,12,14,14,16,9,9,,,,,,,,"White Calamity-Slaying Archer, Binder of Lost Souls",,2025-12-25,
+
 Yuzunamiki,Beastfolk,Female,Earth,Evil,Ninja,,,,Thousand Hue Blossom,,,Foxfire Assault,,Pinnacle of the Flower District,,Legendary,11,13,8,15,15,17,9,,,,,,,,Shinobi Hailed as the Top Dancing Maiden of the Flower District,,2025-10-15,
