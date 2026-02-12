@@ -366,27 +366,27 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 ## Relic Power Stat Increases
 
-The table below shows the stat increase per Relic Power level along with the level 5 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments. Note: The stat that is negatively impacted is always -1 for a maximum of -5 at level 5.
+The table below shows the stat increase per Relic Power level along with the level 6 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments. Note: The stat that is negatively impacted is always -1 for a maximum of -5 at level 5.
 
-| Stats                           | Per Level | Standard | Alignment Bonus  |
-|---------------------------------|:---------:|:--------:|:----------------:|
-| HP                              |     3     |    15    |        18        |
-| SP                              |     2     |    10    |        12        |
-| MP                              |     2     |    10    |        12        |
-| ATK                             |     2     |    10    |        12        |
-| SUR                             |     1     |     5    |         6        |
-| ACC                             |     2     |    10    |        12        |
-| EVA                             |     2     |    10    |        12        |
-| MAG                             |     2     |    10    |        12        |
-| DIV                             |     2     |    10    |        12        |
-| ASPD                            |     1     |     5    |         6        |
-| DEF                             |     4     |    20    |        24        |
-| MDEF                            |     4     |    20    |        24        |
-| RES                             |     2     |    10    |        12        |
-| Detect	     	              |     2     |    10    |        12        |
-| Disarm Trap                     |           |          |                  |
-| Evade Trap                      |           |          |                  |
-| Elemental tolerance<sup>†</sup> |    1%     |    5%    |        6%        |
-| Status tolerance<sup>†</sup>    |    1%     |    5%    |        6%        |
-
-<sup>†</sup> These are rough estimates. Could range from 0.5-1% per level
+| Stats                            | Per Level | Standard | Alignment Bonus  |
+|----------------------------------|:---------:|:--------:|:----------------:|
+| HP                               |     3     |    18    |        21        |
+| SP                               |     2     |    12    |        14        |
+| MP                               |     2     |    12    |        14        |
+| ATK                              |     2     |    12    |        14        |
+| SUR<sup>†</sup>                  |     1     |     8    |         9        |
+| ACC                              |     2     |    12    |        14        |
+| EVA                              |     2     |    12    |        14        |
+| MAG                              |     2     |    12    |        14        |
+| DIV                              |     2     |    12    |        14        |
+| ASPD                             |     1     |     6    |         7        |
+| DEF                              |     4     |    24    |        28        |
+| MDEF                             |     4     |    24    |        28        |
+| RES                              |     2     |    12    |        14        |
+| Detect	     	               |     2     |    12    |        14        |
+| Disarm Trap                      |           |          |                  |
+| Evade Trap                       |           |          |                  |
+| Elemental tolerance<sup>††</sup> |    1%     |    6%    |        7%        |
+| Status tolerance<sup>††</sup>    |    1%     |    6%    |        7%        |
+<sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6
+<sup>††</sup> These are rough estimates. Could range from 0.5-1% per level
