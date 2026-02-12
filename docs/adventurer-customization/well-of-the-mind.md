@@ -60,6 +60,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: yellow">DEX 1</span>       | 4 | Abyss 2:  4th District - Boulevard. After solving the drowning water god statue trap, go back to town and something will have changed in the Well of the Mind |
 | <span style="color: yellow">DEX 2</span>       | 1 | Abyss 3:  Get the "Good" Ending in Guarda Fortress Abyss  |
 | <span style="color: #877698">SHADOW</span>      | 1 | Abyss 3:  Complete the 2nd Part of the [Plot of the Sand Shadow Quest](../events/plot-of-the-sand-shadow/plot-of-the-sand-shadow.md#guide-for-2nd-part)  |
+| <span style="color: #990000">HONOR</span>   |    1   | Abyss 4: TBD |
 | <span style="color: MediumOrchid">LUCK 1</span>  |   1   | Abyss 1:  Get the perfect ending (+Albano quest) in Beginning Abyss  |
 | <span style="color: MediumOrchid">LUCK 2</span>  |   1   | Abyss 2:  Save [Bonnie and Clyde](../abyss-guides/2-port-town-grand-legion/requests.md#delivering-chamomile-for-the-dead) |
 | <span style="color: MediumOrchid">LUCK 3</span>  |   1   | Abyss 2: Get all three best endings on [Viscount Guane request](../abyss-guides/2-port-town-grand-legion/requests.md#viscount-guane) |
