@@ -55,3 +55,17 @@
 
 ??? map "Ascetic Grounds of the Mind"
     ![](./img/ascetic-grounds-of-the-mind.png)
+
+## Optional Boss Fight
+
+??? danger "Deranged Sword Fiend"
+
+    ![](./img/deranged-sword-fiend/png)
+
+        - Non elemental Humanoid type. Always has 3 actions per turn. Has around 40k HP. All of his attacks have a chance to apply confusion.
+        - His attacks can be entirely evaded but will need very high evasion (400+).
+        - On his first three actions he will always use an elemental-bearer skill, debuff a row with DEF and ATK down, and then give himself 40 turns of dispellable evasion up (Very high evasion boost). It's recommended to dispel this evasion buff ASAP.
+        - He will typically just use his turns to use normal samurai attacks (Decisive Torso Strike, normal attacks, Bamboo Splitter, Quickdraw Stance). The quickdraw stance does enough damage to instantly kill a unit even in the backrow that is defending, so it's recommended to cancel it with a magic damaging skill or Tactical Bola.
+        - After he takes around 8k damage, he will apply 6 turns of Self-Healing on himself out of turn, which immediately recovers 1000 HP and 500 per his action. Whenever this Self-Healing buff is naturally over, he will re-apply it.
+        - After taking around 20k damage, he will self-buff with 40 turns of DEF, MDEF, and CT UP. At this point, all of his attacks do signfiicantly more damage.
+        - Upon being defeated, he will drop some Red Gourd currency, some gold-sell items, some Unusual level junk, and a small chance at obtaining a Oni Island Yoto, which is a unique Yoto Odachi that has a chance to inflict confusion per attack at the cost of reducing self DEF/MDEF.
