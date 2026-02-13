@@ -147,10 +147,12 @@
     | Intermediate Camper                            | Camp in a dungeon 30 times.                                        |
     | Veteran Camper                                 | Camp in a dungeon 100 times.                                       |
     | Lives in the Dungeon                           | Camp in a dungeon 500 times.                                       |
+    | Camp Master                                    | Camp in a dungeon 1,00 times.                                      |
     | Cheers!                                        | Drink at the tavern with allies 1 time.                            |
     | Bonding over a Drink                           | Drink at the tavern with allies 30 times.                          |
     | It's on Me Today!                              | Drink at the tavern with allies 100 times.                         |
     | Drunken Party                                  | Drink at the tavern with allies 500 times.                         |
+    | Smile of the 1,000th Cup                       | Drink at the tavern with allies 1,000 times.                       |
     | Flames of the Demon                            | Accompany your ally to make good on the fire demon's broken pact.  |
     | Millennial Lord Adam                           | Vanquish Millennial Lord Adam with your ally.                      |
     | Golden-Haired Goddess Who Destroyed Everything | Complete the investigation of the island of ghosts with your ally. |
