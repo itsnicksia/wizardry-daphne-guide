@@ -240,7 +240,10 @@
     | Surprised?                          | Slay a mimic.                                        |
     | Playing with Hellfire               | Slay the greater demon sealed in the burial chamber. |
     | Surprised?!                         | Slay a Golden Mimic.                                 |
-
+    | Master of the Binding Rope I        | Capture 1 bounty target alive.                       |
+    | Master of the Binding Rope II       | Capture 5 bounty targets alive.                      |
+    | Master of the Binding Rope III      | Capture 10 bounty targets alive.                     |
+    
 === "Explore"
 
     | Name                                        | Description                                         |
