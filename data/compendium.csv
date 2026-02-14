@@ -1110,5 +1110,228 @@ Equipment,Accessories,Ex.,Dreamblossom Ornament
 Equipment,Accessories,Ex.,Dream-Cutting Scissors
 Equipment,Accessories,Ex.,Ring of Torment Purging
 Equipment,Accessories,Ex.,Quiver of the Ironwood Kin
-Monsters,Monsters,1,? ? ? ?
-Monsters,Key Monsters,1,? ? ? ?
+Monsters,Monsters,1,Goblin
+Monsters,Monsters,2,Hobgoblin
+Monsters,Monsters,3,Goblin Archer
+Monsters,Monsters,4,Goblin Mage
+Monsters,Monsters,5,Goblin Cleric
+Monsters,Monsters,6,Bandit
+Monsters,Monsters,7,Slime
+Monsters,Monsters,8,Abyssal Insect
+Monsters,Monsters,9,Gas Cloud
+Monsters,Monsters,10,Vorpal Bunny
+Monsters,Monsters,11,Skeleton Lady's Gloves
+Monsters,Monsters,12,Skeleton Archer
+Monsters,Monsters,13,Skeleton Mage
+Monsters,Monsters,14,Skeleton Knight
+Monsters,Monsters,15,Flying Sword
+Monsters,Monsters,16,Mimic
+Monsters,Monsters,17,Cursed Sack Doll
+Monsters,Monsters,18,Novice Fighter
+Monsters,Monsters,19,Novice Beast Thief
+Monsters,Monsters,20,Novice Dwarf Priest
+Monsters,Monsters,21,Novice Elf Mage
+Monsters,Monsters,22,Ruffian
+Monsters,Monsters,23,Snippy Adventurer
+Monsters,Monsters,24,Red Spinner Woman
+Monsters,Monsters,25,Sahuagin
+Monsters,Monsters,26,Sahuagin Archer
+Monsters,Monsters,27,Sahuagin Mage
+Monsters,Monsters,28,Water Slime
+Monsters,Monsters,29,Big Slime
+Monsters,Monsters,30,Creeping Crud
+Monsters,Monsters,31,Creeping Coin
+Monsters,Monsters,32,Lizardman
+Monsters,Monsters,33,Lizardman Champion
+Monsters,Monsters,34,Footpad
+Monsters,Monsters,35,Minotaur
+Monsters,Monsters,36,Succubus
+Monsters,Monsters,37,Pirate Berserker
+Monsters,Monsters,38,Pirate Deacon
+Monsters,Monsters,39,Average Elf Fighter
+Monsters,Monsters,40,Average Dwarf Fighter
+Monsters,Monsters,41,Average Thief
+Monsters,Monsters,42,Average Mage
+Monsters,Monsters,43,Average Knight
+Monsters,Monsters,44,Pixie
+Monsters,Monsters,45,Air Entity
+Monsters,Monsters,46,Forest Hawk
+Monsters,Monsters,47,Desert Insect
+Monsters,Monsters,48,Lesser Demon
+Monsters,Monsters,49,Greater Demon
+Monsters,Monsters,50,? ? ? ?
+Monsters,Monsters,51,Earth Pixie
+Monsters,Monsters,52,? ? ? ?
+Monsters,Monsters,53,? ? ? ?
+Monsters,Monsters,54,Dragon Fly
+Monsters,Monsters,55,Desert Fly
+Monsters,Monsters,56,? ? ? ?
+Monsters,Monsters,57,Chimera
+Monsters,Monsters,58,Gorgon
+Monsters,Monsters,59,Necromancer
+Monsters,Monsters,60,Poltergeist
+Monsters,Monsters,61,Wight
+Monsters,Monsters,62,Zkeleton Giant
+Monsters,Monsters,63,? ? ? ?
+Monsters,Monsters,64,Sand Apparition
+Monsters,Monsters,65,Green Goblin
+Monsters,Monsters,66,Green Goblin Archer
+Monsters,Monsters,67,Air Abyssal Insect
+Monsters,Monsters,68,Air Bandit
+Monsters,Monsters,69,Air Flying Sword
+Monsters,Monsters,70,Air Vorpal Bunny
+Monsters,Monsters,71,Air Lizardman
+Monsters,Monsters,72,Air Lizardman Champion
+Monsters,Monsters,73,Air Pixie
+Monsters,Monsters,74,Air Dragon Fly
+Monsters,Monsters,75,Red Goblin
+Monsters,Monsters,76,Red Goblin Archer
+Monsters,Monsters,77,Red Goblin Mage
+Monsters,Monsters,78,Red Goblin Cleric
+Monsters,Monsters,79,Red Hobgoblin
+Monsters,Monsters,80,Fire Slime
+Monsters,Monsters,81,Volcano Insect
+Monsters,Monsters,82,Fire Cloud
+Monsters,Monsters,83,Fire Pixie
+Monsters,Monsters,84,Fire Entity
+Monsters,Monsters,85,Flame Fly
+Monsters,Monsters,86,Volcano Hawk
+Monsters,Monsters,87,Earth Hobgoblin
+Monsters,Monsters,88,Earth Slime
+Monsters,Monsters,89,Earth Entity
+Monsters,Monsters,90,? ? ? ?
+Monsters,Monsters,91,? ? ? ?
+Monsters,Monsters,92,? ? ? ?
+Monsters,Monsters,93,? ? ? ?
+Monsters,Monsters,94,? ? ? ?
+Monsters,Monsters,95,? ? ? ?
+Monsters,Monsters,96,? ? ? ?
+Monsters,Monsters,97,? ? ? ?
+Monsters,Monsters,98,? ? ? ?
+Monsters,Monsters,99,? ? ? ?
+Monsters,Monsters,100,? ? ? ?
+Monsters,Monsters,101,? ? ? ?
+Monsters,Monsters,102,? ? ? ?
+Monsters,Monsters,103,? ? ? ?
+Monsters,Monsters,104,? ? ? ?
+Monsters,Monsters,105,? ? ? ?
+Monsters,Monsters,106,? ? ? ?
+Monsters,Monsters,107,? ? ? ?
+Monsters,Monsters,108,? ? ? ?
+Monsters,Monsters,109,? ? ? ?
+Monsters,Monsters,110,? ? ? ?
+Monsters,Monsters,111,Ninja
+Monsters,Monsters,112,Indigo Ninja
+Monsters,Monsters,113,Amber Ninja
+Monsters,Monsters,114,Elite Hobgoblin
+Monsters,Monsters,115,Zealot Bandit
+Monsters,Monsters,116,Earth Gas Cloud
+Monsters,Monsters,117,? ? ? ?
+Monsters,Monsters,118,? ? ? ?
+Monsters,Monsters,119,? ? ? ?
+Monsters,Monsters,120,? ? ? ?
+Monsters,Monsters,121,Earth Creeping Coins
+Monsters,Monsters,122,Earth Sahuagin
+Monsters,Monsters,123,Earth Sahuagin Archer
+Monsters,Monsters,124,? ? ? ?
+Monsters,Monsters,125,? ? ? ?
+Monsters,Monsters,126,? ? ? ?
+Monsters,Monsters,127,Earth Big Slime
+Monsters,Monsters,128,? ? ? ?
+Monsters,Monsters,129,? ? ? ?
+Monsters,Monsters,130,? ? ? ?
+Monsters,Monsters,131,? ? ? ?
+Monsters,Monsters,132,Zealot Fighter
+Monsters,Monsters,133,Zealot Dwarf Fighter
+Monsters,Monsters,134,Zealot Elf Fighter
+Monsters,Monsters,135,? ? ? ?
+Monsters,Monsters,136,Ashen-Faced Adventurer
+Monsters,Monsters,137,? ? ? ?
+Monsters,Monsters,138,? ? ? ?
+Monsters,Monsters,139,? ? ? ?
+Monsters,Monsters,140,Zealot Beastfolk Thief
+Monsters,Monsters,141,Zealot Thief
+Monsters,Monsters,142,? ? ? ?
+Monsters,Monsters,143,Arena Rival Hunter
+Monsters,Monsters,144,Zealot Dwarf Priest
+Monsters,Monsters,145,Zealot Elf Mage
+Monsters,Monsters,146,Zealot Mage
+Monsters,Monsters,147,? ? ? ?
+Monsters,Monsters,148,? ? ? ?
+Monsters,Monsters,149,? ? ? ?
+Monsters,Monsters,150,? ? ? ?
+Monsters,Monsters,151,Ninja
+Monsters,Monsters,152,Red Hobgoblin Leader
+Monsters,Monsters,153,? ? ? ?
+Monsters,Monsters,154,? ? ? ?
+Monsters,Monsters,155,? ? ? ?
+Monsters,Monsters,156,? ? ? ?
+Monsters,Monsters,157,? ? ? ?
+Monsters,Monsters,158,? ? ? ?
+Monsters,Monsters,159,? ? ? ?
+Monsters,Monsters,160,? ? ? ?
+Monsters,Monsters,161,? ? ? ?
+Monsters,Monsters,162,? ? ? ?
+Monsters,Monsters,163,? ? ? ?
+Monsters,Monsters,164,? ? ? ?
+Monsters,Monsters,165,? ? ? ?
+Monsters,Monsters,166,? ? ? ?
+Monsters,Monsters,167,? ? ? ?
+Monsters,Monsters,168,? ? ? ?
+Monsters,Monsters,169,? ? ? ?
+Monsters,Monsters,170,? ? ? ?
+Monsters,Monsters,171,? ? ? ?
+Monsters,Monsters,172,? ? ? ?
+Monsters,Monsters,173,? ? ? ?
+Monsters,Monsters,174,? ? ? ?
+Monsters,Monsters,176,? ? ? ?
+Monsters,Monsters,177,? ? ? ?
+Monsters,Monsters,178,? ? ? ?
+Monsters,Monsters,179,? ? ? ?
+Monsters,Monsters,180,? ? ? ?
+Monsters,Monsters,181,? ? ? ?
+Monsters,Monsters,182,? ? ? ?
+Monsters,Monsters,183,? ? ? ?
+Monsters,Monsters,184,? ? ? ?
+Monsters,Monsters,185,? ? ? ?
+Monsters,Monsters,186,? ? ? ?
+Monsters,Monsters,187,? ? ? ?
+Monsters,Monsters,188,? ? ? ?
+Monsters,Monsters,189,? ? ? ?
+Monsters,Monsters,190,? ? ? ?
+Monsters,Monsters,191,? ? ? ?
+Monsters,Monsters,192,? ? ? ?
+Monsters,Monsters,193,? ? ? ?
+Monsters,Key Monsters,1001,Scorpion Woman
+Monsters,Key Monsters,1002,Ruffian Boss
+Monsters,Key Monsters,1003,Gluttonous Maw
+Monsters,Key Monsters,1004,Knight-Butcher Ent
+Monsters,Key Monsters,1005,Helmut
+Monsters,Key Monsters,1006,Plague Crewman
+Monsters,Key Monsters,1007,Oar Collector
+Monsters,Key Monsters,1008,Songstress Marin
+Monsters,Key Monsters,1009,Melgina
+Monsters,Key Monsters,1010,Octonarus
+Monsters,Key Monsters,1011,Hydra Plant
+Monsters,Key Monsters,1012,Giant Monster Bird
+Monsters,Key Monsters,1013,Necrocore
+Monsters,Key Monsters,1014,? ? ? ?
+Monsters,Key Monsters,1015,? ? ? ?
+Monsters,Key Monsters,1016,? ? ? ?
+Monsters,Key Monsters,1017,? ? ? ?
+Monsters,Key Monsters,1018,? ? ? ?
+Monsters,Key Monsters,1019,? ? ? ?
+Monsters,Key Monsters,1020,? ? ? ?
+Monsters,Key Monsters,1021,? ? ? ?
+Monsters,Key Monsters,1022,? ? ? ?
+Monsters,Key Monsters,1023,? ? ? ?
+Monsters,Key Monsters,1024,? ? ? ?
+Monsters,Key Monsters,1025,? ? ? ?
+Monsters,Key Monsters,1026,? ? ? ?
+Monsters,Key Monsters,1028,? ? ? ?
+Monsters,Key Monsters,1029,? ? ? ?
+Monsters,Key Monsters,1030,? ? ? ?
+Monsters,Key Monsters,1031,? ? ? ?
+Monsters,Key Monsters,1032,? ? ? ?
+Monsters,Key Monsters,1033,? ? ? ?
+Monsters,Key Monsters,Ex,Fire Dragon
