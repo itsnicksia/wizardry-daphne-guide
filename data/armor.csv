@@ -186,7 +186,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 164,Feet!A164,Feet,Ex.,Greaves of Valor,Ebonsteel,Light,,,0,0,0,6,0,0,2,2,5,0,0,0,0,11,0,0,4,4,9,0,0,0,0,15,0,0,5,5,14,0,0,0,0,20,0,0,6,6,18,0,0,0,0,24,0,0,7,7,23,0,
 170,Feet!A170,Feet,3074,Ebonsteel Heavy Armor Boots,Ebonsteel,Heavy,,860,0,0,0,14,0,-1,0,0,-2,0,0,0,0,19,0,-1,0,0,2,0,0,0,0,23,0,-1,0,0,7,0,0,0,0,28,0,-1,0,0,11,0,0,0,0,32,0,-1,0,0,16,0,
 176,Feet!A176,Feet,3114,Desert Greaves,Ebonsteel,Heavy,32250,3225,0,0,0,15,1,-3,0,0,-2,0,0,0,0,20,1,-3,0,0,2,0,0,0,0,24,1,-3,0,0,7,0,0,0,0,29,1,-3,0,0,11,0,0,0,0,33,1,-3,0,0,16,0,
-182,Feet!A182,Feet,,Blackwing Boots,Silver,Cloth,,,0,0,0,10,0,2,0,0,2,0,,,,,,,,,,,,,,,,,,,,,0,0,0,26,0,2,0,0,23,0,,,,,,,,,,,
+182,Feet!A182,Feet,,Blackwing Boots,Silver,Cloth,,,0,0,0,10,0,2,0,0,2,0,0,0,0,15,0,2,0,0,11,0,0,0,0,18,0,2,0,0,16,0,0,0,0,26,0,2,0,0,23,0,0,0,0,32,0,2,0,0,29,0,
 188,Feet!A188,Feet,,Hunting Boots,Silver,Cloth,,,0,0,0,8,0,7,0,4,2,0,0,0,0,13,0,9,0,4,11,0,0,0,0,16,0,10,0,4,16,0,0,0,0,24,0,11,0,4,23,0,0,0,0,30,0,12,0,4,29,0,Magical Beast Resistance
 194,Feet!A194,Feet,,Sheepskin Boots,Silver,Cloth,65000,,0,0,0,8,0,2,0,0,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,30,0,2,0,0,28,0,"Freeze Tolerance, Maximum Body Temperature Increase"
 200,Feet!A200,Feet,,Deep-Snow Straw Sandals,Silver,Cloth,,,0,0,0,13,0,0,0,0,0,0,0,0,0,20,0,0,0,0,7,0,0,0,0,25,0,0,0,0,12,0,0,0,0,32,0,0,0,0,19,0,0,0,0,38,0,0,0,0,25,0,Maximum Body Temperature Increase
@@ -264,7 +264,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 218,Hands!A218,Hands,,Golden Gloves,Silver,Cloth,,,0,0,0,15,-5,3,2,0,0,0,0,0,0,20,-5,3,5,0,0,0,0,0,0,25,-5,3,10,0,0,0,0,0,0,31,-5,3,17,0,0,0,0,0,0,37,-5,3,28,0,0,0,"Disarm Trap +6/8/9/?/?, Evade Trap +?/?/7/?/?, Old values (+7/9/11/12/13) were with Treasure Trap Disarm Skill"
 224,Hands!A224,Hands,,Hunting Gloves,Silver,Cloth,,,0,0,0,8,0,3,5,2,0,0,0,0,0,13,0,3,8,2,0,0,0,0,0,18,0,3,13,2,0,0,0,0,0,24,0,3,20,2,0,0,0,0,0,30,0,3,31,2,0,0,Magical Beast Resistance
 230,Hands!A230,Hands,Ex.,Red Spinner Woman Spellwoven Cloth,Silver,Cloth,,,0,0,0,25,0,0,-2,0,0,10,0,0,0,36,0,0,-2,0,0,12,0,0,0,41,0,0,-2,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
-236,Hands!A236,Hands,,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,0,5,0,0,,,,,,,,,,,0,0,0,33,0,0,16,0,0,0,,,,,,,,,,,
+236,Hands!A236,Hands,,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,5,0,0,0,,,,,,,,,,,0,0,0,33,0,0,16,0,0,0,,,,,,,,,,,
 242,Hands!A242,Hands,3244,Calm Wind Stun Guard,Silver,Light,,,0,0,0,13,0,0,0,0,0,0,0,0,0,20,0,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Air Type Reduction, Paralysis Tolerance"
 248,Hands!A248,Hands,,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,0,0,0,30,0,0,3,0,0,0,0,0,0,35,0,0,8,0,0,0,0,0,0,42,0,0,14,0,0,0,0,0,0,48,0,0,20,0,0,0,
 254,Hands!A254,Hands,,Heavy Gauntlets of Composure,Silver,Heavy,,,0,0,0,40,-20,-5,0,0,-20,0,0,0,0,49,-20,-5,5,0,-20,0,0,0,0,54,-20,-5,10,0,-20,0,,,,,,,,,,,,,,,,,,,,,
@@ -421,22 +421,22 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 152,Accessories!A152,Accessories,3147,Enemy Spyglass,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Detect Increase +3/5/?/?/?
 158,Accessories!A158,Accessories,3198,Master Fighter's Ring,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive Strength Up
 164,Accessories!A164,Accessories,3199,Master Mage's Ring,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive I.Q. Up
-170,Accessories!A170,Accessories,3203,Master Ring,Silver,Accessory,,,13,13,13,20,24,13,13,13,13,13,13,13,13,30,24,13,13,13,13,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Passive MP Up, Passive SP Up, Detect +13 (static), Disarm Trap +13 (static)"
-176,Accessories!A176,Accessories,3204,Master Knight's Ring,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive Vitality Up
-182,Accessories!A182,Accessories,Ex.,Ring of Vengeance,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-188,Accessories!A188,Accessories,,Shining Finger Band,Ebonsteel,Accessory,,666,0,0,0,1,0,0,0,0,0,12,0,0,0,9,0,0,0,0,0,14,0,0,0,16,0,0,0,0,0,15,0,0,0,24,0,0,0,0,0,16,,,,,,,,,,,"Insta-Kill Tolerance, Dark Type Reduction"
-194,Accessories!A194,Accessories,177,Bracelet of Sealed Battle,Ebonsteel,Accessory,,,5,0,0,2,20,-10,5,0,-5,-10,7,0,0,10,20,-10,7,0,-5,-10,8,0,0,17,20,-10,8,0,-5,-10,9,0,0,25,20,-10,9,0,-5,-10,10,0,0,32,20,-10,10,0,-5,-10,
-200,Accessories!A200,Accessories,Ex.,Saintess's Ring,Ebonsteel,Accessory,,,0,0,8,0,18,0,0,0,0,0,0,0,10,0,20,0,0,0,0,0,0,0,11,0,21,0,0,0,0,0,0,0,12,0,22,0,0,0,0,0,0,0,13,0,23,0,0,0,0,0,
+170,Accessories!A170,Accessories,3203,Master Ring,Silver,Accessory,,,13,13,13,20,24,13,13,13,13,13,13,13,13,30,24,13,13,13,13,13,13,13,13,38,24,13,13,13,13,13,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Passive MP Up, Passive SP Up, All stats +13 except Surety Evasion"
+176,Accessories!A176,Accessories,177,Bracelet of Sealed Battle,Ebonsteel,Accessory,,,5,0,0,2,20,-10,5,0,-5,-10,7,0,0,10,20,-10,7,0,-5,-10,8,0,0,17,20,-10,8,0,-5,-10,9,0,0,25,20,-10,9,0,-5,-10,10,0,0,32,20,-10,10,0,-5,-10,
+182,Accessories!A182,Accessories,180,Ring of Spellbreaking,Ebonsteel,Accessory,,,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Curse Tolerance
+188,Accessories!A188,Accessories,3148,Goddess's Earrings,Ebonsteel,Accessory,,1225,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Stun Tolerance
+194,Accessories!A194,Accessories,3204,Master Knight's Ring,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Passive Vitality Up
+200,Accessories!A200,Accessories,,Shining Finger Band,Ebonsteel,Accessory,,666,0,0,0,1,0,0,0,0,0,12,0,0,0,9,0,0,0,0,0,14,0,0,0,16,0,0,0,0,0,15,0,0,0,24,0,0,0,0,0,16,,,,,,,,,,,"Insta-Kill Tolerance, Dark Type Reduction"
 206,Accessories!A206,Accessories,,Light Spirit Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Dark Type Reduction
 212,Accessories!A212,Accessories,,Umbral Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,4,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,4,0,Dark Type Reduction
-218,Accessories!A218,Accessories,,Goddess's Earrings,Ebonsteel,Accessory,,1225,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Stun Tolerance
-224,Accessories!A224,Accessories,,Rabbit Talisman,Ebonsteel,Accessory,,,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,"Critical Tolerance, DisarmTrap, Evade Trap, Detect +2 at +0"
-230,Accessories!A230,Accessories,Ex.,Knight's Cloak,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Way of the Knight
-236,Accessories!A236,Accessories,Ex.,Safety Ring,Ebonsteel,Accessory,,1225,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,Critical Tolerance
-242,Accessories!A242,Accessories,Ex.,Trollkin Ring,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement"
-248,Accessories!A248,Accessories,Ex.,Lord of the Deep's Forest Ring,Ebonsteel,Accessory,,,0,0,0,1,13,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,16,13,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Detect/Evade Trap Increase
-254,Accessories!A254,Accessories,Ex.,Old Perch,Ebonsteel,Accessory,,,0,0,0,1,17,0,0,0,6,0,0,0,0,9,17,0,0,0,8,0,0,0,0,16,17,0,0,0,9,0,0,0,0,24,17,0,0,0,10,0,0,0,0,31,17,0,0,0,11,0,"Composure of the Skilled Master, Deteck/Evade Trap Increase (+5/+5 at +10)"
-260,Accessories!A260,Accessories,180,Ring of Spellbreaking,Ebonsteel,Accessory,,,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Curse Tolerance
+218,Accessories!A218,Accessories,,Rabbit Talisman,Ebonsteel,Accessory,,,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,"Critical Tolerance, DisarmTrap, Evade Trap, Detect +2 at +0"
+224,Accessories!A224,Accessories,Ex.,Saintess's Ring,Ebonsteel,Accessory,,,0,0,8,0,18,0,0,0,0,0,0,0,10,0,20,0,0,0,0,0,0,0,11,0,21,0,0,0,0,0,0,0,12,0,22,0,0,0,0,0,0,0,13,0,23,0,0,0,0,0,
+230,Accessories!A230,Accessories,Ex.,Ring of Vengeance,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,Accessories!A236,Accessories,Ex.,Knight's Cloak,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Way of the Knight
+242,Accessories!A242,Accessories,Ex.,Safety Ring,Ebonsteel,Accessory,,1225,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,Critical Tolerance
+248,Accessories!A248,Accessories,Ex.,Trollkin Ring,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement"
+254,Accessories!A254,Accessories,Ex.,Lord of the Deep's Forest Ring,Ebonsteel,Accessory,,,0,0,0,1,13,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,16,13,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Detect/Evade Trap Increase
+260,Accessories!A260,Accessories,Ex.,Old Perch,Ebonsteel,Accessory,,,0,0,0,1,17,0,0,0,6,0,0,0,0,9,17,0,0,0,8,0,0,0,0,16,17,0,0,0,9,0,0,0,0,24,17,0,0,0,10,0,0,0,0,31,17,0,0,0,11,0,"Composure of the Skilled Master, Detect/Evade Trap Increase (+5/+5 at +10)"
 266,Accessories!A266,Accessories,,Silver Ring,Silver,Accessory,,,0,0,0,3,25,0,0,0,0,0,0,0,0,14,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,
 272,Accessories!A272,Accessories,,Shinobi's Black Seal Case,Silver,Accessory,,,0,0,0,3,23,1,0,0,0,0,0,0,0,13,23,3,0,0,0,0,0,0,0,21,23,4,0,0,0,0,0,0,0,31,23,5,0,0,0,0,,,,,,,,,,,Ninjato Mastery
 278,Accessories!A278,Accessories,,Coal Miner's Bandana,Silver,Accessory,,,0,0,0,3,15,0,0,0,0,10,0,0,0,13,15,0,0,0,0,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fire Type Reduction, Poison Tolerance"
