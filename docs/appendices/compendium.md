@@ -6,7 +6,7 @@
 
     === "All"  
 
-        {{ populate_quicklist(file='compendium.csv',filter_column='Category',filter_values=['Characters']),return_columns=['Number','Name']) | convert_to_md_table | add_indentation(spaces=8) }}
+        {{ populate_quicklist(file='compendium.csv',filter_column='Category',filter_values=['Characters'],return_columns=['Number','Name']) | convert_to_md_table | add_indentation(spaces=8) }}
 
     === "Key Characters"  
 
