@@ -209,7 +209,7 @@
         - Appears at Bounty Rank ???
         
     === "Fight Details"
-        - Only has several thousand HP
+        - Only has several thousand HP. You can start capturing him after doing around 3k damage.
         - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
 
     === "Map Location"
@@ -358,7 +358,7 @@
 
     === "Fight Details"
         - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
-        - After doing enough damage to her (~5k), she will become fatigued and you may capture her with Binding Rope
+        - After doing enough damage to her (~4k), she will become fatigued and you may capture her with Binding Rope
 
     === "Map Location"
         ![](./img/monica-the-self-proclaimed-enforcer-loc.png)
@@ -557,7 +557,7 @@
     === "Fight Details"
         - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
         - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn.
-        - Ross has a lot of HP and will typically cover the backrow units. Otheriwse he himself is very weak.
+        - Ross has a lot of HP and will typically cover the backrow units. He is capturable after taking around 20k damage.
 
     === "Map Location"
         ![](./img/ross-the-twisted-knight-of-justice-loc.png)
@@ -592,7 +592,7 @@
         - Appears at Bounty Rank ???
 
     === "Fight Details"
-        - Around 20k HP.
+        - Capturable after taking around 20k HP. It'll be around the same time he self buffs with Night Honey.
         - Has 3 actions per his turn. Can self buff with various drugs and perform typical thief skills. Can also cast weak magic.
         - When he casts Night Honey, will gain permanent massive ATK, CT and MAG up buffs. Essentially all his physical skills will do over a thousand damage. In addition, he will be available to be caught with Binding Rope.
         - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one.
