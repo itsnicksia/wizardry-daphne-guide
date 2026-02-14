@@ -2,52 +2,50 @@
 
 <small>Note that special, limited time, and gacha equipment is often numbered as "Ex." making it harder to identify missing items. [Contributions of missing items welcome. (Screenshots preferred.)]((../index.md#contributing))</small>
 
-=== "Characters"
+=== "Characters"  
 
-    === "All"
+    === "All"  
 
-    === "Key Characters"
+    === "Key Characters"  
 
-    === "Other"
+    === "Other"  
 
-    === "Allies"
+    === "Allies"  
 
-=== "Item"
+=== "Item"  
     
-    === "All"
+    === "All"  
 
-    === "Sell Only"
+    === "Sell Only"  
 
-    === "Consumables"
+    === "Consumables"  
 
-    === "Valuables"
+    === "Valuables"  
 
-    === "Other"
+    === "Other"  
 
-=== "Equipment"
+=== "Equipment"  
+     
+    === "All"  
+
+    === "Weapons"  
+
+    === "Shields"  
+
+    === "Head"  
+
+    === "Body"  
+
+    === "Hands"  
+
+    === "Feet"  
+
+    === "Accessories"  
+
+=== "Monsters"  
+    === "All"  
+
+    === "Monsters"  
+
+    === "Key Monsters"  
     
-    === "All"
-
-    === "Weapons"
-
-    === "Shields"
-
-    === "Head"
-
-    === "Body"
-
-    === "Hands"
-
-    === "Feet"
-
-    === "Accessories"
-
-=== "Monsters"
-    === "All"
-
-    === "Monsters"
-
-
-    === "Key Monsters"
-
-
