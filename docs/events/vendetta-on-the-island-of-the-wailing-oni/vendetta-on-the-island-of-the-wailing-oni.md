@@ -38,6 +38,8 @@
 
 ## Guide for 2nd Part:
 
+### Neutral or Good Route
+
 !!! note "You will need to have cleared Abyss 4 in your current route (Bad Ending is fine) to be able to unlock the 2nd part of this event. In addition, you will obviously need to have successfully completed Part 1 of this event."
 
 1. Head to Rock-Heart Style Dojo from the world map. You'll be immediately thrown into an unwinnable fight but the enemies also do not deal that much damage. Simply stay alive until the fight is over.
@@ -45,11 +47,13 @@
 3. In the second trial, you will need to carry some water to a final location without spilling too much of the water on the way there. Every time you engage in combat, upon getting hit, some of the water will spill out. If you spill all the the water, you will need to head back to the entrance to get more. The main gimmick of this trial however is that the destination is located in a room that is only accessible via teleport pads scattered throughout the map. See maps below for fastest route to the correct location. Once again, you'll fight a deputy samurai 1-on-1. Return to the entrance to unlock the next trial.
 4. In the third and final trial, you will be heading the 4 different rooms on the map and defeating a samurai 1-on-1. The fights will be similar to the previous final fights, except that you'll have more resources. Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue. They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. After defeating all 4, head to defeat the deputy samurai. You then head to the center room of the map to meet the old man, in which you will need to successfully pass three QTE events in a row. Failure has you take 300 damage, and you can essentially fail twice before you are killed. Finally, upon succeeding this event, you'll be thrown into a fight against Touma (backline) and 3 normal samurai in the frontline. While your MC is still a samurai with fixed equipment, you have access to your full team of adventurers. Successfully winning this fight unlocks the Samurai class change lantern for the MC.
 
+### Evil Route
+
 !!! caution "If your MC is evil however, a different route is presented below."
 
 1. The old man doesn't like you, so you will be siding with Touma at the start instead and fight the old man. Similar to the normal route, you only need to survive 3 rounds.
-2. Complete the three trials as before. Head to challenge the old man, but this time the three QTE events you need to block are much more difficult than that of the normal route. In addition, you cannot retry if you fail. So to make this part easier, you can kill the Touma to obtain his Talisman, which devastates the old man.
-3. Return to the Dojo and simply take the samurai relic.
+2. Complete the three trials as before. Head to challenge the old man. You will have to do the QTE event from before but this time it will get much more difficult. Afterwards, you have two options here, either to kill the old man or kill Touma. 
+3. If you killed the old man, you will receive a white 1* silver-tier katana with humanoid-slayer. If you killed Touma, you will be able to obtain the Samurai lantern instead.
 
 ??? map "Ascetic Grounds of the Body"
     ![](./img/ascetic-grounds-of-the-body.png)
