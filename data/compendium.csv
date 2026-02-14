@@ -1,24 +1,24 @@
 Category,Subcategory,Number,Name
-Characters,KeyCharacters,1,Lulunarde
-Characters,KeyCharacters,2,Knight Commander Dylyanhardt
-Characters,KeyCharacters,3,Sir Vernant
-Characters,KeyCharacters,4,Sir Elmond
-Characters,KeyCharacters,5,Sir Albano
-Characters,KeyCharacters,6,Pulgritte
-Characters,KeyCharacters,7,Princess Pulgritte
-Characters,KeyCharacters,8,King Iver
-Characters,KeyCharacters,9,Arna
-Characters,KeyCharacters,10,Walter
-Characters,KeyCharacters,11,Randolf
-Characters,KeyCharacters,12,Sister Kristel
-Characters,KeyCharacters,13,Inkeeper Dana
-Characters,KeyCharacters,14,Shagtis
-Characters,KeyCharacters,15,Tenet
-Characters,KeyCharacters,16,Admiral Avare
-Characters,KeyCharacters,17,Sagini
-Characters,KeyCharacters,18,Harri
-Characters,KeyCharacters,19,Secretary Pickerel
-Characters,KeyCharacters,20,????
+Characters,Key Characters,1,Lulunarde
+Characters,Key Characters,2,Knight Commander Dylyanhardt
+Characters,Key Characters,3,Sir Vernant
+Characters,Key Characters,4,Sir Elmond
+Characters,Key Characters,5,Sir Albano
+Characters,Key Characters,6,Pulgritte
+Characters,Key Characters,7,Princess Pulgritte
+Characters,Key Characters,8,King Iver
+Characters,Key Characters,9,Arna
+Characters,Key Characters,10,Walter
+Characters,Key Characters,11,Randolf
+Characters,Key Characters,12,Sister Kristel
+Characters,Key Characters,13,Inkeeper Dana
+Characters,Key Characters,14,Shagtis
+Characters,Key Characters,15,Tenet
+Characters,Key Characters,16,Admiral Avare
+Characters,Key Characters,17,Sagini
+Characters,Key Characters,18,Harri
+Characters,Key Characters,19,Secretary Pickerel
+Characters,Key Characters,20,????
 Characters,Other,1001,Sir Maurice
 Characters,Other,1002,Gary
 Characters,Other,1003,Marquis Alfred
@@ -176,3 +176,38 @@ Characters,Allies,2060,Heinrico
 Characters,Allies,2061,????
 Characters,Allies,2062,????
 Characters,Allies,2063,Human-Sam
+Item,Sell Only,1,Rusty Old Coin
+Item,Sell Only,2,Translucent Pebble
+Item,Sell Only,3,Azure Ore
+Item,Sell Only,4,Azure Ore Clump
+Item,Sell Only,5,Azure Lustrous Ore
+Item,Sell Only,6,Shell Coin
+Item,Sell Only,7,Sahuagin Scales
+Item,Sell Only,8,Crystal Shard
+Item,Sell Only,9,Raw Crystal
+Item,Sell Only,10,Gleaming Crystal
+Item,Sell Only,11,Deep-Water Gleaming Crystal
+Item,Sell Only,12,Shattered Insignia
+Item,Sell Only,13,Crimson Stone Fragment
+Item,Sell Only,14,Crimson Ore
+Item,Sell Only,15,Crimson Ore Clump
+Item,Sell Only,16,????
+Item,Sell Only,17,Creeping Coin's Carapace
+Item,Sell Only,18,Royal Family Ring
+Item,Sell Only,19,Twin Pearls
+Item,Sell Only,20,Pearl of Sadness
+Item,Sell Only,21,Lily of Eternity
+Item,Sell Only,22,????
+Item,Sell Only,23,????
+Item,Sell Only,24,????
+Item,Sell Only,25,????
+Item,Sell Only,26,????
+Item,Sell Only,27,????
+Item,Sell Only,28,????
+Item,Sell Only,29,Snowlight Ore Lump
+Item,Sell Only,30,????
+Item,Sell Only,31,????
+Item,Sell Only,32,????
+Item,Sell Only,33,????
+Item,Sell Only,34,????
+Item,Sell Only,35,????
