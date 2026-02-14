@@ -10,7 +10,7 @@
 
     === "Key Characters"  
 
-        {{ pd_read_csv("data/compendium.csv", dtype="str").query('Category == Characters' & 'Subcategory = KeyCharacters')[['Number','Name']] | convert_to_md_table | add_indentation(spaces=8) }}
+        {{ pd_read_csv("data/compendium.csv", dtype="str").query('Category == Characters & Subcategory = KeyCharacters')[['Number','Name']] | convert_to_md_table | add_indentation(spaces=8) }}
         
     === "Other"  
 
