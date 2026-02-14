@@ -1,5 +1,6 @@
 nav:
   - Achievements: './achievements.md'
+  - Compendium: './compendium.md'
   - Cursed Wheel Causality:
       - Beginning Abyss: './wheel-causality/beginning-abyss.md'
       - Port Town Grand Legion: './wheel-causality/port-town-grand-legion.md'
