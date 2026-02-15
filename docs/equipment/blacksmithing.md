@@ -74,6 +74,8 @@ Blacksmithing becomes available early in the game after your party enters the fi
 ### ^^Enhancement Values^^  
 As mentioned above, gear of different Grades can be found that already have from 1 to 4 Blessings applied to them.  Blessings are also added or increased in value on enhancement. Below are tables **estimating** the range of gear stat increases from blessings based on the Quality of the item.
 
+Based on the values below, most players consider 3-4 star gear to be the target to obtain/enhance, but obviously anything "better than what you have now" will improve youre team's performance.
+
 **These values are estimates.**
 
 #### Worn-through-Ebonsteel Gear
