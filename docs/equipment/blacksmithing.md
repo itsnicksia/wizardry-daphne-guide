@@ -240,9 +240,7 @@ It is highly suggested that a FAS should be saved and used on your highest rarit
 ### Composite Reinforcement  
 The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it's a way of trying to enhance primary equipment stats to be in the range of equipment in a higher material rank by sacrificing items of that higher rank (or special, very expensive, silver ingots for guaranteed success).  The cost, requirements, and chances of success are a bit complicated, and we will try to provide more detail in time. But for now, in summary:
 
-*just don't. they tried. it's not worth it.*
-
-Just go get actual silver equipment. There's enough out there.
+*just don't. they tried. it's not worth it. Just go get actual silver equipment. There's enough out there.*
 
 Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
 
