@@ -70,7 +70,7 @@ It isn't known the specific requirements for successfully fleeing, but if there 
 
 ## ^^Knight's Defense^^
 
-This is a skill learned by Knights at Lvl 51. It will effectively reduce all damage received by your team by ~50%, and is one of the few ways to survive encounters that are normally not (for example, certain enemies have full team AOE skills that hit multiple times for damage past your HP limit). The best way to utilize this is having your team all have relatively the same ASPD and being much higher than the enemy, but having the knight be the slowest of the team. This way, since the buff lasts one turn, everyone will have the buff active during the enemy's turn.
+This is a skill learned by Knights at Lvl 51. It will effectively reduce all damage received by your team (by ~40% at skill level 1), and is one of the few ways to survive encounters that you nnormally can't (for example, certain enemies have full team AOE skills that hit multiple times for damage past your HP limit). The best way to utilize this is having your team all have relatively the same ASPD and being much higher than the enemy, but having the knight be the slowest of the team. This way, since the buff lasts one turn, everyone will have the buff active during the enemy's turn.
 
 ## ^^Revival^^
 When a party member dies, you get an opportunity to revive them, but the
