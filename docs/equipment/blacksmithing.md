@@ -238,9 +238,11 @@ As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls
 It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
 
 ### Composite Reinforcement  
-The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it's a way of trying to enhance primary equipment stats to be in the range of equipment in a higher material rank by sacrificing items of that higher rank (or special, very expensive, silver ingots for guaranteed success).  The cost, requirements, and chances of success are a bit complicated, and we will try to provide more detail in time. But for now, in summary:
+The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it enhances primary equipment stats (ATK for weapons, DEF for armor) to approach that  of higher material/rank equipment by sacrificing other higher rank items (or special, very expensive, silver ingots for guaranteed success).  The cost is very high and chance of success gets very low. We will try to provide more detail in time but for now in summary:
 
 *just don't. they tried. it's not worth it. Just go get actual silver equipment. There's enough out there.*
+
+This goes doubly so for armor.  Since DEF is severely undervalued by the game mechanics, and that's about all reinforcement improves for armor, there's practically zero value to reinforcing armor. Very arguably because ATK is increased for weapons it may be worth reinfocing particualry rare, high impact (gacha) weapons.
 
 Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
 
