@@ -67,6 +67,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Thief     | 1            | 0.6         | 0.5          | 1.1      |
     | Ninja     | 1            | 0.75        | 0.3          | 1.15     |
     | Samurai   | 1            | 1           | 0.6          | 1        |
+    | Ranger    | 1            | 0.75        | 0.3          | 1.3      |
     | Priest    | 0.9          | 0.9         | 1.2          | 0.9      |
     | Mage      | 0.5          | 1.2         | 1            | 0.7      |
     | Black Rod | 1.05         | 1           | 0.6          | 1        |
@@ -82,6 +83,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Thief     | 0.95    | 0.95          | 1.1     | 0.89       |
     | Ninja     | 0.95    | 1             | 1.15    | 0.89       |
     | Samurai   | 0.95    | 0.95          | 0.9     | 0.89       |
+    | Ranger    | 0.9     | 0.9           | 0.85    | 0.89       |
     | Priest    | 1       | 1.1           | 0.8     | 1          |
     | Mage      | 0.9     | 1.1           | 0.7     | 0.9        |
     | Black Rod | 1       | 0.9           | 0.85    | 0.89       |
@@ -97,6 +99,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Thief     | 0.95   | 1.1         | 1.15       | 1            |
     | Ninja     | 0.95   | 1           | 1          | 1            |
     | Samurai   | 0.6    | 0.6         | 0.6        | 0.85         |
+    | Ranger    | 1.25   | 0.8         | 1.2        | 0.9         |
     | Priest    | 1      | 0.9         | 0.9        | 0.9          |
     | Mage      | 1.15   | 0.85        | 0.85       | 0.85         |
     | Black Rod | 0.9    | 0.9         | 0.9        | 0.85         |
