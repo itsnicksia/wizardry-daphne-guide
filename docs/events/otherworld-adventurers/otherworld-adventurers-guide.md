@@ -115,10 +115,10 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
     - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
     - Has the typical moveset of the Black Dragon such as Roar (stuns), Black Flame Breath (weakens), Claw, Tail Swipe, Morlis, etc.
-    - The dragon is immune to Chronostasis, but can be Delay Attacked or Batilgrefed.
-    - The dragon can be debuffed.
+    - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked or Batilgrefed.
+    - The dragon can be debuffed, but isn't consistent. It is also possible to apply status effects on this dragon, but isn't consistent.
     - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
-    - Defeating this dragon drops a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration.
+    - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
 ## Farming The Event
