@@ -42,7 +42,7 @@ Human-Fig,Human,Male,Water,Neutral,Fighter,,,,Passive Attack Power Up,,,Passive 
 Human-Nin,Human,Female,Air,Evil,Ninja,,,,Passive Action Speed Up,,,Passive Action Speed Up,,Kunoichi Self-Discipline,,Anonymous,12,12,12,11,13,16,12,,,,,,,,,,2025-07-10,
 Human-Pri,Human,Female,Fire,Good,Priest,,,,Passive MP Up,,,Passive MP Up (Innate),,Human Priest Discipline,,Anonymous,13,13,14,12,11,12,12,,,,,,,,,,2024-10-15,
 Human-Sam,Human,Male,Water,Good,Samurai,,,,Passive Attack Power/Magic Power Up,,,Passive Attack Power/Magic Power Up (Innate),,Human Samurai Discipline,,Anonymous,14,14,12,13,13,11,11,,,,,,,,,,2026-01-29,
-Iarumas,Human,Male,Null,Neutral,Mage of the Black Rod,Samurai of the Black Rod,,,TZALIK,,,Mage of the Black Rod,,Amnesiac Corpse Retriever,,Legendary,15,13,12,14,14,12,13,,,,,,,,Corpse Hauling Adventurer with a Black Rod,,2025-03-18,
+Iarumas,Human,Male,Null,Neutral,Mage of the Black Rod,Samurai of the Black Rod,,,TZALIK,,,Mage of the Black Rod,,Amnesiac Corpse Retriever,,Legendary,15,13,12,14,14,12,13,15,13,12,14,14,12,13,Corpse Hauling Adventurer with a Black Rod,,2025-03-18,
 Jarmil,Human,Male,Air,Evil,Mage,Thief,,,FERU,,MAFERU,Air Formation,,Crafty Old Mage,,General,12,13,11,12,14,14,11,12,11,11,12,14,15,12,Sketchy Mage,,2024-10-15,
 Jean,Human,Male,Earth,Neutral,Thief,Mage,,,Treasure Trap Disarm Skill,,Passive Evasion Up (Thief),Earth Formation,,Locksmith's Craft,,General,12,11,11,14,14,13,12,12,13,11,14,14,12,11,Sooth Thief,,2024-10-15,
 Kiriha,Human,Male,Dark,Evil,Ninja,Fighter,,,Armor Pierce,,Wild Throw,Shadowy Alignment,,Tradition in Shadows,,General,13,13,11,12,13,13,13,14,13,11,13,13,11,12,Ninja Without a Self,,2025-01-30,
@@ -65,4 +65,5 @@ Yekaterina,Human,Female,Earth,Neutral,Mage,Priest,Everdistant Summershade,True,E
 Yoizou,Elf,Male,Fire,Good,Samurai,,,,Blazing Resplendence,,,Running Flame,,Flame of Revolt,,Legendary,14,15,10,12,15,12,10,,,,,,,,Outland Samurai Harboring the Flame of Vengeance,,2026-01-29,
 Yrsa,Dwarf,Female,Water,Good,Ranger,,,,First Arrow to Draw Blood,,,Slayer of the White Calamity,,Forest-Reading Huntcraft,,Legendary,14,12,14,14,16,9,9,,,,,,,,"White Calamity-Slaying Archer, Binder of Lost Souls",,2025-12-25,
 Yuzunamiki,Beastfolk,Female,Earth,Evil,Ninja,,,,Thousand Hue Blossom,,,Foxfire Assault,,Pinnacle of the Flower District,,Legendary,11,13,8,15,15,17,9,,,,,,,,Shinobi Hailed as the Top Dancing Maiden of the Flower District,,2025-10-15,
+
 
