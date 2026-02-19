@@ -1,6 +1,6 @@
 # Blacksmithing Basics
 
-Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
+Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party. This guide tries to cover most aspects of equipment improvement along with some general equipment guidelies/suggestions.
 
 !!! warning "ABYSS 4 WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
 
@@ -21,10 +21,10 @@ Blacksmithing becomes available early in the game after your party enters the fi
 - Traits - Additional characteristics or abilities of an item, that are often specific to item type (e.g., most Daggers have the "Nimble Strike" trait) or subgroup (e.g., Undead Bane weapons all have "Vs. Undead" traits).
 
 ## ^^Enhance^^
-- Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item.
+- Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item. See [Equipment Tables](./equipment-tables.md) for catalogued stats and enhancement improvements.
 - Enhancing an item to +5 and beyond requires different grades and quantities of iron ore to be used.   
 - Enhancing items beyond +5, +10, and +15 also requires unification (see below) to increase the Strength of the item.
-- At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectievly, or a Blessing that already exists in that slot is improved.
+- At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectively, or a Blessing that already exists in that slot is improved.
 
 ### ^^Gold Cost for Enhancing^^
 #### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:
@@ -73,6 +73,8 @@ Blacksmithing becomes available early in the game after your party enters the fi
 
 ### ^^Enhancement Values^^  
 As mentioned above, gear of different Grades can be found that already have from 1 to 4 Blessings applied to them.  Blessings are also added or increased in value on enhancement. Below are tables **estimating** the range of gear stat increases from blessings based on the Quality of the item.
+
+Based on the values below, most players consider 3-4 star gear to be the target to obtain/enhance, but obviously anything "better than what you have now" will improve youre team's performance.
 
 **These values are estimates.**
 
@@ -236,11 +238,11 @@ As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls
 It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
 
 ### Composite Reinforcement  
-The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it's a way of trying to enhance primary equipment stats to be in the range of equipment in a higher material rank by sacrificing items of that higher rank (or special, very expensive, silver ingots for guaranteed success).  The cost, requirements, and chances of success are a bit complicated, and we will try to provide more detail in time. But for now, in summary:
+The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it enhances primary equipment stats (ATK for weapons, DEF for armor) to approach that  of higher material/rank equipment by sacrificing other higher rank items (or special, very expensive, silver ingots for guaranteed success).  The cost is very high and chance of success gets very low. We will try to provide more detail in time but for now in summary:
 
-*just don't. they tried. it's not worth it.*
+*just don't. they tried. it's not worth it. Just go get actual silver equipment. There's enough out there.*
 
-Just go get actual silver equipment. There's enough out there.
+This goes doubly so for armor.  Since DEF is severely undervalued by the game mechanics, and that's about all reinforcement improves for armor, there's practically zero value to reinforcing armor. Very arguably because ATK is increased for weapons it may be worth reinfocing particualry rare, high impact (gacha) weapons.
 
 Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
 

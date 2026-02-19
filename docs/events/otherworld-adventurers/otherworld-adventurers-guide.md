@@ -1,18 +1,9 @@
 # Otherworld Adventurers
 
-## Guide:
+## Guide for Part 1:
 !!! note "There is no difficulty mode for this Event Dungeon. The mobs will scale automatically to your level."
 
 There is only one ending for this event, and is relatively quick to complete (if you are strong). It takes a minimum of three cursed wheel resets to complete entirely however.
-
-??? note "Map BF1"
-    ![](img/sahuagin-cave-1.jpg)
-    
-??? note "Map BF2"
-    ![](img/sahuagin-cave-2.jpg)
-    
-??? note "Map BF3"
-    ![](img/sahuagin-cave-3.jpg)
 
 ??? note "1st Run"
     1. Watch Cutscene in Event Tab.
@@ -69,10 +60,66 @@ There is only one ending for this event, and is relatively quick to complete (if
 ??? note "Ore Locations for 3nd Run"
     ![](img/sahuagin-cave-ore-locations-2.jpg)
 
+??? map "Map BF1"
+    ![](img/sahuagin-cave-1.jpg)
+    
+??? map "Map BF2"
+    ![](img/sahuagin-cave-2.jpg)
+    
+??? map "Map BF3"
+    ![](img/sahuagin-cave-3.jpg)
+
 ??? note "Unique Event Rewards"
     ![](img/dragon-slayer.jpg)
     ![](img/trollkin-ring.jpg)
     ![](img/katana.jpg)
+
+## Guide for Part 2:
+!!! warning "You will need to have cleared the Good ending (3rd Run) in order to unlock this part"
+!!! warning "As opposed to the 1st part of the event, the second part has Silver tier versions of the Unique Event Rewards that can be bought from the shop and dropped from special junk. The gear can generate as high as Purple 4*. In addition, you may purchase 99 copies of each, so it's recommended to focus on these instead of the previous versions"
+
+??? note "1st Run"
+    1. Head to B1F, take the shortcut door, and save the civilians as normal.
+    2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the Right Door (Ainikki Door) and enter through.
+    3. B2F will be a completely different map, and various portions of the walls will have the glitched textures. Halfway through the floor, you will encounter a Knight that needs help, and interacting with them will engage a fight the Fire Dragon from Part 1. Simply defeat it as normal. Remember to rescue the singular civilian on this floor.
+    4. Head to the stairs to B3F, and find Ainikki's body. Defeat the Sahuagins and pick up her body. Continue to B3F.
+    5. Head to the Dragon location, but this time find a Black Dragon instead of a Fire Dragon. It will fog up the entire room, causing you to retreat. Head back to the Royal Capital and resurrect Ainikki. She will be assisting at the temple after being resurrected.
+    6. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
+    7. Head back to B3F and find your way back to the Black Dragon's Chamber. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up.
+    8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath (deals extremely high damage). It is recommended to come with only the MC if possible.
+    9. You will have to cursed wheel and get Ainikki's help
+
+??? note "2nd Run"
+    1. Repeat the selection at B1F and save all civilians on B1F and B2F. Rescue Ainikki and resurrect her body at the temple.
+    2. Head to the Tavern and ask Iarumas for help, as well as getting him to ask Ainikki to help as well.
+    3. Ainikki agrees, but requires equipment to defeat the dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
+    4. Head back to Blacksmith after obtaining the Ore and craf the Morningstar. Head back to defeat the Black Dragon in B3F. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
+    5. Head back to the Adventurer's Guild to turn in the request. 
+
+??? map "B2F Ore Locations for 2nd Run of Ainikki Variation"
+    ![](img/sahuagin-ore-locations-ainikki-b2f.png)
+    
+??? map "B3F Ore Locations for 2nd Run of Ainikki Variation"
+    ![](img/sahuagin-ore-locations-ainikki-b3f.png)
+
+??? danger "Black Dragon Boss Fight Details"
+    - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Silver Grade.
+    - The dark breath that it uses applies weaken on targets hits.
+
+### Post-game Black Dragon Superboss Variation:
+
+After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
+
+??? danger "Black Dragon Superboss Fight Details"
+    ![](img/black-dragon-superboss.png)
+
+    - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
+    - Has the typical moveset of the Black Dragon such as Roar (stuns), Black Flame Breath (weakens), Claw, Tail Swipe, Morlis, etc.
+    - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked or Batilgrefed.
+    - The dragon can be debuffed, but isn't consistent. It is also possible to apply status effects on this dragon, but isn't consistent.
+    - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
+    - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version.
+    - To reset this boss, you will need to cursed wheel the event entirely.
 
 ## Farming The Event
 

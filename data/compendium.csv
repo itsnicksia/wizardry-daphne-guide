@@ -176,6 +176,8 @@ Characters,Allies,2060,Heinrico
 Characters,Allies,2061,? ? ? ?
 Characters,Allies,2062,? ? ? ?
 Characters,Allies,2063,Human-Sam
+Characters,Allies,Ex.,Iarumas
+Characters,Allies,Ex.,Berkanan
 Item,Sell Only,1,Rusty Old Coin
 Item,Sell Only,2,Translucent Pebble
 Item,Sell Only,3,Azure Ore
@@ -458,64 +460,64 @@ Item,Other,4037,? ? ? ?
 Item,Other,4038,Lesser Full Alteration Stone
 Item,Other,4040,Gobber Bloodwood
 Item,Other,4041,Gobber Bowman Gleamblight
-Item,Other,4042,? ? ? ?
-Item,Other,4043,? ? ? ?
+Item,Other,4042,Gobber Sorcerer Rootcrystal
+Item,Other,4043,Gobber Soothsayer Cursefruit
 Item,Other,4044,Hobber Bloodwood
-Item,Other,4045,? ? ? ?
+Item,Other,4045,Bony Spiritcoral
 Item,Other,4046,Bony Bowman Gleamblight
 Item,Other,4047,Bony Sorcerer Rootcrystal
-Item,Other,4048,? ? ? ?
+Item,Other,4048,Bony Knight Rootcrystal
 Item,Other,4049,Dissolving Ooze Rootcrystal
 Item,Other,4050,Man-Eating Box Spiritcoral
 Item,Other,4051,Carrion Beetle Spiritcoral
 Item,Other,4052,Plunderer Bloodwood
 Item,Other,4053,Noxfume Spiritcoral
 Item,Other,4054,Dancing Blade Bloodwood
-Item,Other,4055,? ? ? ?
-Item,Other,4056,? ? ? ?
+Item,Other,4055,Venommaiden Bloodwood
+Item,Other,4056,Firebrand Legionnairre Bloodwood
 Item,Other,4057,Hellfire Warlord Cursefruit
 Item,Other,4058,Beheading Rabbit Bloodwood
-Item,Other,4059,? ? ? ?
+Item,Other,4059,Hexdoll Gleambright
 Item,Other,4060,Restless Currency Gleamblight
 Item,Other,4061,Merfolk Spiritcoral
 Item,Other,4062,Merfolk Bowman Bloodwood
-Item,Other,4063,? ? ? ?
+Item,Other,4063,Merfolk Spellcaster Cursefruit
 Item,Other,4064,Reptilian Bloodwood
-Item,Other,4065,? ? ? ?
-Item,Other,4066,? ? ? ?
-Item,Other,4067,? ? ? ?
-Item,Other,4068,? ? ? ?
+Item,Other,4065,Reptilian Monarch Bloodwood 
+Item,Other,4066,Four-Fist Bull Rootcrystal
+Item,Other,4067,Lust Demon Spiritcoral
+Item,Other,4068,Sea Mad Warrior Bloodwood
 Item,Other,4069,Salt-Teared Priestess Cursefruit
-Item,Other,4070,? ? ? ?
-Item,Other,4071,? ? ? ?
+Item,Other,4070,Great Undulating Devourer Cursefruit
+Item,Other,4071,One-Eyed Giant Bloodwood
 Item,Other,4072,Sprite Cursefruit
-Item,Other,4073,? ? ? ?
-Item,Other,4074,? ? ? ?
+Item,Other,4073,Wind Being Rootcrystal
+Item,Other,4074,Thrall of the Dark Gleambright
 Item,Other,4075,Giant Bugwing Gleamblight
-Item,Other,4076,? ? ? ?
-Item,Other,4077,? ? ? ?
-Item,Other,4078,? ? ? ?
-Item,Other,4079,? ? ? ?
-Item,Other,4080,? ? ? ?
-Item,Other,4081,? ? ? ?
+Item,Other,4076,Servant-of-the-Earth Rootcrystal
+Item,Other,4077,Chaos-Haunt Gleambright
+Item,Other,4078,Shadowhoof Cavalier Cursefruit
+Item,Other,4079,Dead-Minder Cursefruit
+Item,Other,4080,Bone Colossus Rootcrystal
+Item,Other,4081,Foxear Gleambright
 Item,Other,4082,Bonemaster Cursefruit
-Item,Other,4083,? ? ? ?
-Item,Other,4084,? ? ? ?
+Item,Other,4083,Carnivorous Plant Rootcrystal
+Item,Other,4084,Composite Beast Bloodwood
 Item,Other,4085,Stonebreath Bull Rootcrystal
-Item,Other,4086,? ? ? ?
+Item,Other,4086,Wind-Cutting Bird Spiritcoral
 Item,Other,4087,? ? ? ?
-Item,Other,4088,? ? ? ?
-Item,Other,4089,? ? ? ?
-Item,Other,4090,? ? ? ?
-Item,Other,4091,? ? ? ?
-Item,Other,4092,? ? ? ?
-Item,Other,4093,? ? ? ?
-Item,Other,4094,? ? ? ?
-Item,Other,4095,? ? ? ?
-Item,Other,4096,? ? ? ?
-Item,Other,4097,? ? ? ?
-Item,Other,4098,? ? ? ?
-Item,Other,4099,? ? ? ?
+Item,Other,4088,Flower of the Abyss
+Item,Other,4089,Snow Gobber Twisted Spiritcoral
+Item,Other,4090,Snow Hobber Twisted Rootcrystal
+Item,Other,4091,Man Eating Gold Box Twisted Rootcrystal
+Item,Other,4092,Beheading Snow Rabbit Twisted Bloodwood
+Item,Other,4093,One-Eyed White Giant's Twisted Bloodwood
+Item,Other,4094,Wind-Cutting Raptor Twisted Gleamblight
+Item,Other,4095,Snow Child Twisted Spiritcoral
+Item,Other,4096,Snow Man Twisted Bloodwood
+Item,Other,4097,Ice Wolf Twisted Cursefruit
+Item,Other,4098,Ice Wolf Lord Twisted Cursefruit
+Item,Other,4099,Abyssal Ice Twisted Core
 Item,Other,4100,? ? ? ?
 Item,Other,4115,? ? ? ?
 Equipment,Weapons,1,Worn-Out Dagger
@@ -693,67 +695,67 @@ Equipment,Weapons,173,Shadowrunner Blade
 Equipment,Weapons,174,Lower Ninja Kunai
 Equipment,Weapons,175,Shadowrunner Kunai
 Equipment,Weapons,176,Sword of Promises
-Equipment,Weapons,181,? ? ? ?
-Equipment,Weapons,182,? ? ? ?
-Equipment,Weapons,183,? ? ? ?
-Equipment,Weapons,184,? ? ? ?
-Equipment,Weapons,185,? ? ? ?
-Equipment,Weapons,186,? ? ? ?
-Equipment,Weapons,187,? ? ? ?
-Equipment,Weapons,188,? ? ? ?
-Equipment,Weapons,189,? ? ? ?
-Equipment,Weapons,190,? ? ? ?
-Equipment,Weapons,191,? ? ? ?
-Equipment,Weapons,192,? ? ? ?
-Equipment,Weapons,193,? ? ? ?
-Equipment,Weapons,194,? ? ? ?
-Equipment,Weapons,195,? ? ? ?
-Equipment,Weapons,196,? ? ? ?
-Equipment,Weapons,197,? ? ? ?
-Equipment,Weapons,198,? ? ? ?
-Equipment,Weapons,199,? ? ? ?
-Equipment,Weapons,200,? ? ? ?
-Equipment,Weapons,201,? ? ? ?
-Equipment,Weapons,202,? ? ? ?
-Equipment,Weapons,203,? ? ? ?
-Equipment,Weapons,204,? ? ? ?
-Equipment,Weapons,205,? ? ? ?
-Equipment,Weapons,206,? ? ? ?
-Equipment,Weapons,207,? ? ? ?
-Equipment,Weapons,208,? ? ? ?
-Equipment,Weapons,209,? ? ? ?
+Equipment,Weapons,181,Silver Dagger
+Equipment,Weapons,182,Earthrend Dagger
+Equipment,Weapons,183,Seafoam Dagger
+Equipment,Weapons,184,Beast Killer
+Equipment,Weapons,185,Cyclops Fang-Sword
+Equipment,Weapons,186,Silver Sword
+Equipment,Weapons,187,Earthrend Sword
+Equipment,Weapons,188,Seaform Sword
+Equipment,Weapons,189,Silver One-Handed Axe
+Equipment,Weapons,190,Earthrend One-Handed Axe
+Equipment,Weapons,191,Seafoam One-Handed Axe
+Equipment,Weapons,192,Rod of Splendor
+Equipment,Weapons,193,Silver Mace
+Equipment,Weapons,194,Earthrend Mace
+Equipment,Weapons,195,Soafoam Mace
+Equipment,Weapons,196,Beast Breaker
+Equipment,Weapons,197,Shrouded Kunai
+Equipment,Weapons,198,Beclouded Kunai
+Equipment,Weapons,199,Shrouded Blade
+Equipment,Weapons,200,Beclouded Blade
+Equipment,Weapons,201,Masterwork Katana
+Equipment,Weapons,202,Beast Hunt
+Equipment,Weapons,203,Yukihiko
+Equipment,Weapons,204,Snow-Oni Yoto
+Equipment,Weapons,205,Kagurazuki
+Equipment,Weapons,206,Silver Greatsword
+Equipment,Weapons,207,Earthrend Greatsword
+Equipment,Weapons,208,Seafoam Greatsword
+Equipment,Weapons,209,Beast Buster
 Equipment,Weapons,210,? ? ? ?
-Equipment,Weapons,211,? ? ? ?
-Equipment,Weapons,212,? ? ? ?
-Equipment,Weapons,213,? ? ? ?
-Equipment,Weapons,214,? ? ? ?
-Equipment,Weapons,215,? ? ? ?
-Equipment,Weapons,216,? ? ? ?
-Equipment,Weapons,217,? ? ? ?
-Equipment,Weapons,218,? ? ? ?
-Equipment,Weapons,219,? ? ? ?
-Equipment,Weapons,220,? ? ? ?
-Equipment,Weapons,221,? ? ? ?
-Equipment,Weapons,222,? ? ? ?
+Equipment,Weapons,211,Silver Two-Handed Spear
+Equipment,Weapons,212,Earthrend Two-Handed Spear
+Equipment,Weapons,213,Seafoam Two-Handed Spear
+Equipment,Weapons,214,Beast Penetrator
+Equipment,Weapons,215,Silver Two-Handed Axe
+Equipment,Weapons,216,Earthrend Two-Handed Axe
+Equipment,Weapons,217,Seafoam Two-Handed Axe
+Equipment,Weapons,218,Beast Crusher
+Equipment,Weapons,219,Staff of Splendor
+Equipment,Weapons,220,Silver Two-Handed Mace
+Equipment,Weapons,221,Earthrend Two-Handed Mace
+Equipment,Weapons,222,Seafoam Two-Handed Mace
 Equipment,Weapons,223,Tundra Club
 Equipment,Weapons,224,? ? ? ?
-Equipment,Weapons,225,? ? ? ?
-Equipment,Weapons,226,? ? ? ?
-Equipment,Weapons,227,? ? ? ?
-Equipment,Weapons,228,? ? ? ?
+Equipment,Weapons,225,Longbow of Splendor
+Equipment,Weapons,226,Earthrend Bow
+Equipment,Weapons,227,Soafoam Bow
+Equipment,Weapons,228,Beast Eraser
 Equipment,Weapons,229,Tundra Sword
 Equipment,Weapons,230,Tundra Axe
-Equipment,Weapons,231,? ? ? ?
-Equipment,Weapons,232,? ? ? ?
+Equipment,Weapons,231,Composite Bow
+Equipment,Weapons,232,Ice Axe
 Equipment,Weapons,233,? ? ? ?
 Equipment,Weapons,234,? ? ? ?
 Equipment,Weapons,235,? ? ? ?
 Equipment,Weapons,236,Standard Odachi
 Equipment,Weapons,237,? ? ? ?
 Equipment,Weapons,238,? ? ? ?
-Equipment,Weapons,239,? ? ? ?
-Equipment,Weapons,240,? ? ? ?
-Equipment,Weapons,241,? ? ? ?
+Equipment,Weapons,239,Exquisite Odachi
+Equipment,Weapons,240,Masterwork Odachi
+Equipment,Weapons,241,Kibitsu
 Equipment,Weapons,242,? ? ? ?
 Equipment,Weapons,Ex.,Meteor Bow
 Equipment,Weapons,Ex.,Winterthorn Bell Bow
@@ -1332,6 +1334,6 @@ Monsters,Key Monsters,1028,? ? ? ?
 Monsters,Key Monsters,1029,? ? ? ?
 Monsters,Key Monsters,1030,? ? ? ?
 Monsters,Key Monsters,1031,? ? ? ?
-Monsters,Key Monsters,1032,? ? ? ?
+Monsters,Key Monsters,1032,Seigen
 Monsters,Key Monsters,1033,? ? ? ?
 Monsters,Key Monsters,Ex,Fire Dragon
