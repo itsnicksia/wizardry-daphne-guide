@@ -368,7 +368,7 @@ Surging Will to Fight,Passive,,"Continuously increases Attack Power. When resurr
 Tactical Bola,Active,,"Entangles 1 enemy with a tactical bola. For a set number of turns, it deals continuous HP damage to the entangled enemy when it performs close-range attacks, and has a chance to inflict Poison each tim conti uous HP damage occurs.","Continuous HP damage, Poison infliction chance, and Poison damage amount increased based on skill level.",50,Ranger,,,
 Talented Trapsmith,Discipline,,"Continuously increases each stat, Disarm Trap and Evade Trap increased further.",Disarm Trap and Evade Trap increased further based on skill level.,,,,Bakesh,
 Tall Mage,Discipline,,"Continuously increases each stat, with Attack Power, SP, Defense Power, and Magic Defense increased further.","Attack Power, SP, Defense Power, and Magic Defense further increased based on skill level.",,,,Berkanan,
-Testament to a Good Life,Discipline,,"Continuously increases each stat, with HP, MP, Attack Power, and Divine Power increased even further.","SOMEONE SUBMIT PAGE 2 PLEASE",,,,Ainikki,
+Testament to a Good Life,Discipline,,"Continuously increases each stat, with HP, MP, Attack Power, and Divine Power increased even further.","HP, MP, Attack Power, and Divine Power increased even further based on skill level.",,,,Ainikki,
 The One Who Enforces,Passive,,Increases Surety and Accuracy when equipped with a two-handed axe.,,,,,Livana,
 Thief's Guild Trainee,Discipline,,Continuously increases each stat. SP and Disarm Trap increased further.,SP and Disarm Trap increased further based on skill level.,,,,Viviana,
 Thievery Proficiency,Passive,,Continuously reduces the SP cost of Thief skills.,SP cost reduced further based on skill level.,,,,,
@@ -425,5 +425,6 @@ Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
