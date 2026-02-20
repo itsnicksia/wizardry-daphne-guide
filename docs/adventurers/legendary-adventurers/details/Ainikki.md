@@ -46,6 +46,24 @@
 
 ## Adventurer Reviews
 
+??? info "TheAxolotl's Analysis"
+
+    As our latest collab adventurer Ainikki has an interesting hybrid kit that, if I were a betting man, would say teases what the Lord class will eventually look like - some combination of Knight + Priest, emphasizing a combination of defensive/support abilities while simultaneously having Div contribute towards Attack Power, similar to how the Samurai utilizes both Attack and Magic Power. Time will tell for sure, but enough about that - let's talk about her kit!
+
+    First, let's touch on her passive skill, Priest Overseeing Life and Death. This works similarly to how Iarumas works, increasing Attack and Defense while in the front row, and Div and MDef while in the back row. It also allows Divine Power to contribute to Attack Power when equipping a 1h mace. I personally haven't tested this out yet, but in theory, this would allow you to build a front line priest with a heavy Div focus and have 1h mace do better-than-garbage damage. That being said, this component of the passive doesn't mesh quite as well with the rest of her kit.
+
+    Her inheritable active spell, LITOKAN, deals moderate row-range fire damage based on Divine Power, not Magic Power. It also inflicts a fire resistance down debuff, which could get annoying to deal with when it comes to the 3 debuff limit, especially since there really aren't many, if any, folks running around with fire-heavy teams. I'm not entirely sure how the damage works on this one, but in general, Moderate damage is generally fairly respectable for a caster, however spell scaling in general is not that great.
+
+    She also has a second signature, non-inheritable spell, and this is where her kit really starts to interest me. MAPORFIC is a row-level buff that shares a slot with Knight's Defense, which means it does not conflict with the 3 buff limit. Early testing points to this buff reducing damage dealt to the row by approximately 15% and lasts innately for 8 turns. This means if you have her first two turns be to cast MAPORFIC on both rows, Ainikki can provide a party-wide 15% damage reduction for the entire duration of most battles. The downside to this? Well, MAPORFIC costs 40 mp to cast. Luckily, this is reduced by Way of the Priest, which...she does not get by default. A single inherit, though, will take the cost from 40 mp down to 36 mp, which is quite noteworthy.
+
+    The other thing I really like about her kit is that she gets access to MAKALKI. If you've ever talked to me in Discord, you'll know how much I love this spell. As of now, this makes her the only adventurer that can provide row-wide ailment immunity while simultaneously providing row-wide damage reduction (remember, both MAKALKI and KD are class-specific abilities). She also gets Recovery, which is definitely one of the better Knight passives out there.
+
+    The other thing I'll touch on with her kit is her offensive abilities. She gets access to Guardian Blow and Fortified Strike, which are relatively underused and expensive skills, however they enable a unique way to build Ainikki. By focusing her blessings on ASPD, Divine Power, Surety, and MDef/Def, she can be in a unique spot where she could use SP to contribute offensively and MP to contribute defensively to a fight, while picking up gear that up until now would largely be tossed out as useless. To top this off, she's able to wear Heavy Armor, which already has a lot of base Defense to fuel those Guardian Blows and Fort Strikes. This is in no way a meta build, but it's definitely a unique one, and it's something I'm excited to play around with.
+
+    Also, she does get access to 2h swords, but that really doesn't mesh well with the rest of her kit.
+
+    All in all, I actually really like what I'm seeing here. If Ainikki really is the teaser to Lord the way Iarumas was the teaser to Samurai, her kit makes me very excited for what Lord will bring, and I actually like her kit as it is - the combination of MAPORFIC and MAKALKI alone is exciting to me. That being said, many folks will struggle to find a place for her on their team, especially if they're already running Alice and/or a Knight.
+
 ??? info "Karkarov's Analysis"
 
     Well other than Garbage Ainikki seems to be the character everyone wanted the most for the new Blade and Bastard Collab, so how is she?  Is she the "actually a Lord class 2 hand sword DPS god who also does everything a priest can" people were predicting?  No.  Not at all.  So what is she really?  Well lets get into it.
@@ -67,6 +85,10 @@
     In closing she is a good alignment elf lady of fire element.  That about sums up the issue, fire element isn't good for casters, elf lady is better for mage than priest, good alignment doesn't play well with Alice buff and you do want Ainikki on the back row.  There just isn't much synergy on this character.
 
 ## Adventurer Pull Plans
+
+??? note "TheAxolotl's Pull Plan"
+
+    I'm going to probably pull a few copies of her - I want to experiment with the MAKALKI + MAPORFIC combination.
 
 ??? note "Karkarov's Pull Plan"
        
