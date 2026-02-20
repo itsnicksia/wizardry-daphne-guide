@@ -90,10 +90,10 @@ There is only one ending for this event, and is relatively quick to complete (if
     9. You will have to cursed wheel and get Ainikki's help
 
 ??? note "2nd Run"
-    1. Repeat the selection at B1F and save all civilians on B1F and B2F. Rescue Ainikki and resurrect her body at the temple.
+    1. Repeat the selection at B1F and save all civilians on B1F and B2F. On the second time around, you can choose to help or abandon the knight. Helping the knight will get you ambushed by the dragon, while abandoning will skip the fight entirely. Rescue Ainikki and resurrect her body at the temple.
     2. Head to the Tavern and ask Iarumas for help, as well as getting him to ask Ainikki to help as well.
     3. Ainikki agrees, but requires equipment to defeat the dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
-    4. Head back to Blacksmith after obtaining the Ore and craf the Morningstar. Head back to defeat the Black Dragon in B3F. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
+    4. Head back to Blacksmith after obtaining the Ore and craf the Morningstar. Head back to defeat the Black Dragon in B3F. Ainikki will cast Milwa for you when she is in your party. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
     5. Head back to the Adventurer's Guild to turn in the request. 
 
 ??? map "B2F Ore Locations for 2nd Run of Ainikki Variation"
@@ -104,6 +104,7 @@ There is only one ending for this event, and is relatively quick to complete (if
 
 ??? danger "Black Dragon Boss Fight Details"
     - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Silver Grade.
+    - It is dark element as its color suggests, and is weak to light. Obviously, its breath is dark type damage.
     - The dark breath that it uses applies weaken on targets hits.
 
 ### Post-game Black Dragon Superboss Variation:
@@ -115,10 +116,10 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
     - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
     - Has the typical moveset of the Black Dragon such as Roar (stuns), Black Flame Breath (weakens), Claw, Tail Swipe, Morlis, etc.
-    - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked or Batilgrefed.
-    - The dragon can be debuffed, but isn't consistent. It is also possible to apply status effects on this dragon, but isn't consistent.
+    - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked (not always) or Batilgref'd (consistent). It is recommended to try and slow the Dragon down with Batilgref and Scroll of Cascading Slowing.
+    - The dragon can be debuffed, but isn't consistent. It is also possible to apply status effects on this dragon, but it isn't consistent.
     - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
-    - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version.
+    - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. In addition, the boss may drop a rare consumable that when used reduces enemy's damage dealt. It's also entirely possible this boss drops nothing.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
 ## Farming The Event
