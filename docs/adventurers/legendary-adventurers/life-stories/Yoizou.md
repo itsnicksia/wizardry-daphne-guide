@@ -23,6 +23,17 @@ Of all that he held dear, naught remained to Lucien in the whole of the world sa
 He labored on, not by the will of his spirit, but borne forward by mere momentum. The beggars who shared his toil came to call the silent elf 'Yoizou' (vault of dusk), likening his unspoken presence to the enveloping darkness of nightfall.  
 
 ### Page 3  
+In time, a kindly soul came across Yoizou, who was living out his days as a simple beggar. This virtuous soul was none other than the young noble lady of the powerful samurai household that held dominion over the surrounding provinces. Seeing Yoizou, she pleaded with her lord father, arguing that his eyes were a spectacle of such profound misery that he could not be ignored.  
+
+Yoizou's mind was drawn back to an ancient memory: the sight of his sister, who had once shown grace and mercy to a starving dog, even in its wretched state. He knew the noble lady's gift of charity was devoid of any malice, and in his current shame, he retained none of the integrity that might have bid him refuse such mercy.  
+
+Yoizou was received into the great estate and granted station as one of the household manservants.  
+
+"Even a lowly roadside beggar may find ascension." Sneering inwardly at the bitter jest of his own plight, never speaking aloud, he rendered his service to the samurai household.  
+
+Yoizou applied himself to his low duties with unflagging diligence. He mastered the script of the Eastern lands and through patient, silent effort, he gradually acquired the means to communicate with those about him.  
+
+In time, he came to be recognized as an honest and diligent worker, and was accorded the great privilege of a small, solitary chamber. In the pre-dawn hours, Yoizou began to drill the forms of his fighting art with a simple wooden staff; when his toil was finished, he retired to his chamber to delve into the research of spellcraft. In this way, he found the sole means to momentarily escape the deep anguish of having protected nothing, and to dwell upon his lost realm.  
 
 
 ### Page 4  
