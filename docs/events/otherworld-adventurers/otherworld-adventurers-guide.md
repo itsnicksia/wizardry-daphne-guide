@@ -107,6 +107,15 @@ There is only one ending for this event, and is relatively quick to complete (if
     - It is dark element as its color suggests, and is weak to light. Obviously, its breath is dark type damage.
     - The dark breath that it uses applies weaken on targets hits.
 
+??? map "Sahuagin Cave B2F - Ainikki Variation"
+    ![](img/sahuagin-cave-ainikki-b2f.png)
+
+??? map "Sahuagin Cave B3F - Ainikki Variation"
+    ![](img/sahuagin-cave-ainikki-b3f.png)
+
+??? map "Otherworld Rift"
+    ![](img/otherworld-rift.jpg)
+
 ### Post-game Black Dragon Superboss Variation:
 
 After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
