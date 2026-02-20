@@ -354,7 +354,7 @@
         - Stationary, indicated as an NPC on the map.
         - 9500 Gold Reward
         - 210 Token Reward
-        - Appears at Bounty Rank ???
+        - Appears at Bounty Rank 6
 
     === "Fight Details"
         - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
