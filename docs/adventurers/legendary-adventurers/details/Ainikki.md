@@ -66,9 +66,10 @@
 
     In closing she is a good alignment elf lady of fire element.  That about sums up the issue, fire element isn't good for casters, elf lady is better for mage than priest, good alignment doesn't play well with Alice buff and you do want Ainikki on the back row.  There just isn't much synergy on this character.
 
-    ## Adventurer Pull Plans
+## Adventurer Pull Plans
 
 ??? note "Karkarov's Pull Plan"
+       
     I ended up with 2 copies because she is actually in all versions of the B&B Collab bones, but to be real, I was only pulling to get an Alt Berkanan Costume.  My advice is hard pass on this character unless you are a huge B&B fan or just goon for Ainikki.  If her inherit were Maporific and not Litokan that story might be different, but it isn't.  Gandolfo with fighter / priest Alt class can do anything you would ever want to do with Ainikki other than cast Maporific and he is just one example.  He just doesn't cost gems or real world money and is a whole lot easier to discipline.  Like Maporific is a great spell, but it is being gated behind a character that brings nothing to the table other than that one spell.
 
 {% endblock ReviewsAndAnalysis %}
