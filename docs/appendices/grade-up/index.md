@@ -1,12 +1,30 @@
-# Grade Exams
+# Grade Up
 
-Grade Exams are part of the process to continue leveling a character. They occur every 10 levels starting at level 20 and ending after level 60. After completing a Grade Exam an adventurer will be expected to pay a corresponding Grade Tag to complete the leveling process. (Note: the main character [MC] will be expected to pay the Grade Tag prior to Copper Grade Exam and possibly the other Exams now too.) Grade tag items may be [obtained](../../frequently-asked-questions.md#how-do-i-get-grade-tags) in various ways.
+At specific levels an adventurer needs to "Grade Up" to increase the level cap. The level caps are at 20, 30, 40, 50, and 60. Grading Up requires two items:
 
-!!! note "Grade Exams may have additional requirements besides reaching the necessary level. Requirements like completing more guild requests (to 'increase your reputation') may be needed. Arna may mention these. In these situations, adventurers should try to complete as many different requests as possible."
+1) A Grade Tag of the appropriate level for each adventurer. The Tags are labeled: No-Grade for 20, Lead for 30, Bronze for 40, Iron for 50, and Steel for 60.
+2) A Grade Marker of the appropriate level for each adventurer. The Markers are labeled: Lead for 20, Bronze for 30, Iron for 40, Steel for 50, and Copper for 60 (a bit confusing we know). 
 
-Adventures can only attempt a Grade Exam as high as the MC has attained. However, unlike the MC, they do not need to complete every grade exam in order and may simply complete the latest grade exam available (e.g., If the MC is level 60 already, and a fresh level 1 adventurer on the team completes the level 60 exam with the help of other team members, that level 1 adventurer will receive permission to grade up at every level 10 interval starting at lvl 20 without having to complete the previous exams.) If exams are skipped this way, the adventurer will still need the corresponding grade tags every 10 levels along with the corresponding level requirement to grade up.
+Grade Tags can be earned in Weekly Requests (nominal, three to four), bought at the Jeweler, or by Dismissing Adventurers: 
 
-The Grade Exam can also be passed by purchasing the corresponding Grade Marker from the Jeweler.  The marker will be made available after the Grade Exam has been successfully completed once. This allows the playern to skip repeat runs of the Grade Exam fo allies that did not accompany the MC the first time.  Visit the Jeweler for the current pricing.  Note, however, that becauee subsequent Grade Exam completions are generally much easier 5o complete with higher level MC and allies, prichasing Markers is  considered an inefficient use of resources and is not recommended.
+* Anonymous Adventurers = One Grade Tag corresponding to their current grade (Human-Pri, etc).
+* General Adventurers = One Grade Tag corresponding to their current grade plus One No-Grade Tag (Chloe, Clarissa, Flut, etc).
+* Legendary Adventurers = One Grade Tag corresponding to their current grade plus One Iron Grade Tag (Lanavaille, Adam, etc).
+
+Grade Markers can be bought at the Jeweler, or can be earned by taking a Grade Exam (a one-level boss dungeon). With the appropriate Tag and appropriate Marker one can visit the Training Room and *Grade Up* an adventurer. From the Grade Up dialog, Tags of lower value can *Swapped* (combined) to create higher Tags.
+
+!!! info
+    ![](./img/swap-guild-tags-1.jpg)
+    ![](./img/swap-guild-tags-2.jpg)
+
+Grade Exams can only be attempted as high as is the Main Character's (MC). Adventurers can take Grade Exams higher than their own level cap and pass it/them. Adventurers will still need to supply the requisite Grade Tags per Grade Up. 
+    
+**Notes:**
+
+* Level Caps only occur once per character… if you Change Class you will retain your Grade Ups.
+* Grading Up may have additional requirements besides reaching the level cap. Requirements like completing more Requests (to increase the adventurer's reputation) may be needed (Arna may mention these). In these situations, adventurers should try to complete as many different requests as possible.
+* The MC is expected to pay the Grade Tag prior to Copper Grade Exam.
+* For more details about obtaining tags and the game economy please see the [Free-to-Play Resources page](../free-to-play-economy.md#guild-tags).
 
 ## Lead Exam
 
