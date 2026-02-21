@@ -351,7 +351,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera                | Composite Beast Bloodwood               | 4084              |
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
-| Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | ????                   | Flower of the Abyss                     | 4088              |
+| Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | Relicbrew Shop         | Flower of the Abyss                     | 4088              |
 | Snow Gobber's Hard Elbow                   | Crit Tol Up, Surety Down             | Neutral     | Snowland Goblin        | Snow Gobber Twisted Spiritcoral         | 4089              |
 | Snow Hobber's Thick Hide                   | Defense Up, SP Down                  | Neutral     | Snowland Hobgoblin     | Snow Hobber Twisted Rootcrystal         | 4090              |
 | Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Twisted Rootcrystal | 4091              |
@@ -362,7 +362,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Snow Man's Energy Lump                     | SP Up, MP Down                       | Good        | Bigfoot                | Snow Man Twisted Bloodwood              | 4096              |
 | Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4097              |
 | Azure Blood of the Ice Wolf Lord           | MP Up, Fire Res Down                 | Good        | Snow Wolf Leader       | Ice Wolf Lord Twisted Cursefruit        | 4098              |
-| Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | Ice Entity             | Abyssal Ice Twisted Core                | 4099              |
+| Ice Core Crystal Shell                     | Fire Res Up, Detect Down             | Neutral     | A4 Request             | Abyssal Ice Core                        | 4099              |
 
 ## Relic Power Stat Increases
 
