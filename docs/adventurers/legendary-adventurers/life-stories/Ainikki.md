@@ -41,3 +41,12 @@ Sister Aine smiled and answered, "It was me, you know?"
 "I was a little...curious. For some reason... What were you born to do? And what did you die trying to accomplish?"  
 
 Aine guides Iarumas until the day he proves to God the value of a better life and is welcomed into the City of God.  
+
+### Page 5  
+"Well, shall we be going?"
+
+At the entrance to the dungeon, Aine waved with a cheerful smile, greeting Iarumas's party. She wore an impressive set of body armor and carried a rude mace.
+
+"When I hear you're heading off to slay a dragon, I'm not going to stay quiet about it. You're taking me with you!"
+
+And so, Aine pressed on with Iarumas and his party-into the darkness of the dungeon, where the dreadful fire dragon awaited...
