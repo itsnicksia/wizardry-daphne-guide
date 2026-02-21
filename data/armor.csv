@@ -449,7 +449,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 320,Accessories!A320,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
 326,Accessories!A326,Accessories,Ex.,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,,,,,,,,,,,0,0,0,35,21,0,19,0,0,19,0,0,0,42,21,0,21,0,0,21,,,,,,,,,,,Curse Tolerance
 332,Accessories!A332,Accessories,Ex.,Quiver of the Ironwood Kin,Silver,Accessory,,,0,0,0,8,20,0,0,0,0,12,0,0,0,20,20,0,0,0,0,17,0,0,0,28,20,0,0,0,0,21,0,0,0,35,20,0,0,0,0,23,,,,,,,,,,,Paralysis Tolerance
-338,Accessories!A338,Accessories,,Exquisite Trollkin Ring,Silver,Accessory,,,0,0,0,3,20,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Continuing Healing, Dragon Slayer Enhancement (Conditional)"
+338,Accessories!A338,Accessories,,Exquisite Trollkin Ring,Silver,Accessory,,,0,0,0,3,20,0,0,0,0,0,0,0,0,13,20,0,0,0,0,0,0,0,0,21,20,0,0,0,0,0,0,0,0,31,20,0,0,0,0,0,0,0,0,39,20,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement (Conditional)"
 344,Accessories!A344,Accessories,,Large Bag,Silver,Accessory,,,0,0,0,15,40,5,0,0,0,0,0,0,0,27,42,7,0,0,0,0,0,0,0,35,43,8,0,0,0,0,0,0,0,42,44,9,0,0,0,0,,,,,,,,,,,Dragon Resistance
 350,Accessories!A350,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 356,Accessories!A356,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
