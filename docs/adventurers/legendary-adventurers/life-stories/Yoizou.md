@@ -35,5 +35,13 @@ Yoizou applied himself to his low duties with unflagging diligence. He mastered 
 
 In time, he came to be recognized as an honest and diligent worker, and was accorded the great privilege of a small, solitary chamber. In the pre-dawn hours, Yoizou began to drill the forms of his fighting art with a simple wooden staff; when his toil was finished, he retired to his chamber to delve into the research of spellcraft. In this way, he found the sole means to momentarily escape the deep anguish of having protected nothing, and to dwell upon his lost realm.  
 
-
 ### Page 4  
+On a certain occasion, the noble lady witnessed Yoizou practicing his drills, and rejoicing that the eyes that had been full of sorrow when they first met were regaining their strength. She petitioned her lord father to grant him entry to the dojo for proper instruction. Acceding to the Lady's generosity, Yoizou learned the Eastern way of the sword. Though he was at times scorned as being born of an impure caste and envied for the blatant partiality he received, Yoizou offered no words of complaint, but instead toiled silently to hone his skills.  
+
+Though he uttered not a word himself, he listened attentively, permitting no stray whisper of the surrounding rumors and court gossip to escape his notice-such as the conditions throughout the East, the fearsome House Urabe that had subdued the surrounding domains and expanded their influence, or those of the strange magical tools they employed. From the shadowed depths of his memory, there rose the chilling image of the samurai who had brought doom upon his very father and mother.  
+
+Yoizou began sharpening his resolve. By weaving together the spellcraft of his ancestral realm with the disciplined sword arts of the East, he crafted a style of combat all his own. When there were none within the dojo who could stand with him in mastery of the blade, he came, from time to time, to be entrusted with the solemn duty of guarding the noble lady. The time spent standing sentinel over her, to whom he owed a great debt of gratitude, was the lone, subtle comfort Yoizou permitted to his heart.  
+
+In the course of time, the noble lady grew into her womanly beauty, and a marriage proposal was formally brought before her House. The one who sought her hand was none other than Yoizou's old nemesis-the lord of House Urabe.  
+
+### Page 5  
