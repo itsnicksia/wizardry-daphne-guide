@@ -22,5 +22,14 @@ As he journeyed with his father, Heinrico steadily absorbed the subtleties of de
 Yet he always held himself apart, never seeking to involve himself more than necessary in the tangled affairs of the world of humans. For he knew all too well the brevity of human life.
  
 ### Page 3  
+Heinrico carried himself as a cheerful and kind-hearted traveler. If there was someone lost in the woods, he would gather food to share with them and lend his aid in finding their way once more. If there was someone headed in the same direction, he would entertain them with stories, exchange news and information, and part with laughter, promising that they would aid one another should their paths cross again.  
+
+Sometimes he followed strange and unfamiliar animals for days on end, watching their movements carefully before making his approach to hunt. Sometimes he found himself drawn into conflict with brigands, compelled to fight by necessity rather than desire. Through it all, he navigated each with skill and grace, always ensuring his survival.  
+
+Before he knew it, Heinrico was no longer the pupil of his father's teachings, but supporting his aging parent.  
+
+Attending to his father, who had eventually succumbed to his age and become confined to his bed, Heinrich said, "I can thrive in forest or town alike. I owe that to my old man and to my mother."  
+
+Then, with a faint, tender smile upon his face, his father passed from the world.  
 
 ### Page 4  
