@@ -91,9 +91,9 @@ There is only one ending for this event, and is relatively quick to complete (if
 
 ??? note "2nd Run"
     1. Repeat the selection at B1F and save all civilians on B1F and B2F. On the second time around, you can choose to help or abandon the knight. Helping the knight will get you ambushed by the dragon, while abandoning will skip the fight entirely. Rescue Ainikki and resurrect her body at the temple.
-    2. Head to the Tavern and ask Iarumas for help, as well as getting him to ask Ainikki to help as well.
+    2. Turn in the request and accept the dragon slaying request again. Head to the Tavern and ask Iarumas for help. Leave the Adventurer's guild and ask Ainikki for help. This time, Iarumas will ask her to help as well.
     3. Ainikki agrees, but requires equipment to defeat the dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
-    4. Head back to Blacksmith after obtaining the Ore and craf the Morningstar. Head back to defeat the Black Dragon in B3F. Ainikki will cast Milwa for you when she is in your party. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
+    4. Head back to Blacksmith after obtaining the Ore and craft the Morningstar. Head back to defeat the Black Dragon in B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
     5. Head back to the Adventurer's Guild to turn in the request. 
 
 ??? map "B2F Ore Locations for 2nd Run of Ainikki Variation"
