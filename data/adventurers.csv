@@ -12,7 +12,7 @@ Bakesh,Dwarf,Male,Air,Evil,Thief,Fighter,,,Treasure Trap Detection Skill,,Passiv
 Barbara,Beastfolk,Female,Air,Neutral,Knight,Thief,,,Assault Guard,,Passive Magic Defense Up (Knight),Wild Knight,,Defense of House Zart,,General,12,13,09,15,14,17,08,10,13,8,13,15,19,9,Duty-Bound Knight,,2024-10-15,
 Beast-Thi,Beastfolk,Female,Light,Evil,Thief,,,,Passive Accuracy Up,,,Passive Accuracy Up (Innate),,Beastfolk Thief Discipline,,Anonymous,10,13,10,13,14,17,10,,,,,,,,,,2024-10-15,
 Benjamin,Dwarf,Male,Earth,Neutral,Fighter,Thief,,,Passive HP Up (Fighter),,Wild Strike,Planned Hunting,,Strongest in the Village,,General,16,09,12,18,17,07,08,14,9,12,17,17,9,9,Rousing Warrior,,2024-10-15,
-Berkanan,Human,Female,Fire,Good,Tall Mage,,Challenger Still in Training,,True Words of Fire,Challenger's Strike,,Coin of Power,Surging Will to Fight,Tall Mage,Courage to Step Forward,Legendary,14,13,12,12,12,12,11,,,,,,,,"Tall, Novice Mage",Novice Adventurer Facing Her Training,2025-03-18,2026-02-19
+Berkanan,Human,Female,Fire,Good,Tall Mage,,Challenger Still in Training,,True Words of Fire,Challenger's Strike,,Will to Resist Death,Surging Will to Fight,Tall Mage,Courage to Step Forward,Legendary,14,13,12,12,12,12,11,,,,,,,,"Tall, Novice Mage",Novice Adventurer Facing Her Training,2025-03-18,2026-02-19
 Bugen,Dwarf,Male,Earth,Good,Samurai,Priest,,,Decisive Torso Strike,,Back-against-the-Water Formation,Superior Principles,,Fulfillment of Loyalty,,General,16,10,12,18,17,07,08,14,10,14,17,16,7,9,Profoundly Loyal Saumrai,,2025-07-10,
 Chloe,Beastfolk,Female,Fire,Good,Fighter,Knight,Everdistant Summershade,,Warrior's Battle Cry,Passive Defense Power Up (Fighter),Passive Accuracy Up (Fighter),Anti-Adventurer Combat Technique,Interpersonal Combat Technique,Practical Self-Defense,Midsummer Valor,General,14,13,08,15,14,15,08,14,13,9,16,13,15,8,Brave Warrior,Beastfolk Fighter Who Knows the Sea's Roar,2024-10-15,2025-08-14
 Clarissa,Human,Female,Light,Neutral,Knight,Fighter,,,Self-Healing,,Self-Defense,Oath of Fortitude,,Knight's Oath,,General,13,12,15,13,11,12,12,13,12,14,12,12,12,12,Faithful Knight,,2024-10-15,
@@ -65,5 +65,6 @@ Yekaterina,Human,Female,Earth,Neutral,Mage,Priest,Everdistant Summershade,True,E
 Yoizou,Elf,Male,Fire,Good,Samurai,,,,Blazing Resplendence,,,Running Flame,,Flame of Revolt,,Legendary,14,15,10,12,15,12,10,,,,,,,,Outland Samurai Harboring the Flame of Vengeance,,2026-01-29,
 Yrsa,Dwarf,Female,Water,Good,Ranger,,,,First Arrow to Draw Blood,,,Slayer of the White Calamity,,Forest-Reading Huntcraft,,Legendary,14,12,14,14,16,9,9,,,,,,,,"White Calamity-Slaying Archer, Binder of Lost Souls",,2025-12-25,
 Yuzunamiki,Beastfolk,Female,Earth,Evil,Ninja,,,,Thousand Hue Blossom,,,Foxfire Assault,,Pinnacle of the Flower District,,Legendary,11,13,8,15,15,17,9,,,,,,,,Shinobi Hailed as the Top Dancing Maiden of the Flower District,,2025-10-15,
+
 
 
