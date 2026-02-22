@@ -327,11 +327,8 @@ Goetia -> Admiral Route
 ??? map "Friend Locations: 1st District \-Back Alley-"
     ![](img/image_34.jpg)
 
-    !!! note
-        The NPC icon was in the circle but the body was bugged where the arrow points
-
     !!! warning
-        JAN 2026: A RECENT UPDATE HAS MOVED THE BODIES TO DISTRICT 2 (x:0,:14), AND DISTRICT 3 (x:9,y:10).  Note that map variations may cause rooma to move.  Look for person silhouettes on the maps and check those spots.
+        JAN 2026: A RECENT UPDATE HAS MOVED THE BODIES. People have reported finding them in: District 2 (x:0,:14), District 3 (x:9,y:10), District 5 (x:15, y:15), District 6 (x:4,y:10).  Note that map variations may cause rooms to move.  Look for person silhouettes on the maps and check those spots.
 
 ### Servant and Cargo Recovery
 
