@@ -76,7 +76,7 @@ There is only one ending for this event, and is relatively quick to complete (if
 
 ## Guide for Part 2:
 !!! warning "You will need to have cleared the Good ending (3rd Run) in order to unlock this part"
-!!! warning "As opposed to the 1st part of the event, the second part has Silver tier versions of the Unique Event Rewards that can be bought from the shop and dropped from special junk. The gear can generate as high as Purple 4*. In addition, you may purchase 99 copies of each, so it's recommended to focus on these instead of the previous versions"
+!!! warning "Since the event has rerun, Silver tier versions of the Unique Event Rewards that can be bought from the shop and dropped from special junk. The gear can generate as high as Purple 4*. In addition, you may purchase 99 copies of each, so it's recommended to focus on these instead of the previous versions. Keep in mind the shop versions always generate as Blue 3*, so if you want a higher grade/quality, you will need to obtain it from junk."
 
 ??? note "1st Run"
     1. Head to B1F, take the shortcut door, and save the civilians as normal.
