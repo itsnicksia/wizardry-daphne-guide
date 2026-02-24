@@ -595,7 +595,7 @@
         - Capturable after taking around 20k HP. It'll be around the same time he self buffs with Night Honey.
         - Has 3 actions per his turn. Can self buff with various drugs and perform typical thief skills. Can also cast weak magic.
         - When he casts Night Honey, will gain permanent massive ATK, CT and MAG up buffs. Essentially all his physical skills will do over a thousand damage. In addition, he will be available to be caught with Binding Rope.
-        - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one.
+        - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one. This seems to require successfully completing the Octonarus Ending in A2.
         - After defeating him, you MUST give him the Tonic or else he will die and the bounty will fail.
 
     === "Map Location"
