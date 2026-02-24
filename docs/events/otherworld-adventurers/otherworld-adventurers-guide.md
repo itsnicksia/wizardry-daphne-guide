@@ -142,6 +142,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - The dragon can be debuffed, but it isn't consistent. It is also possible to apply status effects on this dragon, but it isn't consistent.
     - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
     - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. In addition, the boss may drop a rare consumable that when used reduces enemy's damage dealt. It's also entirely possible this boss drops nothing.
+    - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
 ## Farming The Event
