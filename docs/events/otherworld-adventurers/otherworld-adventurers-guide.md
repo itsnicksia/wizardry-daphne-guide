@@ -86,18 +86,19 @@ There is only one ending for this event, and is relatively quick to complete (if
     5. Head to the Dragon location, but this time find a Black Dragon instead of a Fire Dragon. It will fog up the entire room, causing you to retreat. Head back to the Royal Capital and resurrect Ainikki. She will be assisting at the temple after being resurrected.
     6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
     7. Head back to B3F and find your way back to the Black Dragon's Chamber. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up + possibly your device's screen brightness.
+    
+        ??? item "If you are having trouble with navigating through the fog, below are the exact steps to take when walking through it"
+            1. Start on tile (X:13, Y:17) facing the inner chamber.
+            2. Walk forward one, then turn right
+            3. Walk forward two, then turn left
+            4. Walk forward three, then turn left
+            5. Walk forward four, then turn right
+            6. Walk forward three, then turn right
+            7. Walk forward two, then turn left
+            8. Walk forward until dragon
+    
     8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath (deals extremely high damage). It is recommended to come with only the MC if possible.
     9. You will have to cursed wheel and get Ainikki's help
-
-??? item "If you are having trouble with navigating through the fog, below are the exact steps to take when walking through it"
-        1. Start on tile (X:13, Y:17) facing the inner chamber.
-        2. Walk forward one, then turn right
-        3. Walk forward two, then turn left
-        4. Walk forward three, then turn left
-        5. Walk forward four, then turn right
-        6. Walk forward three, then turn right
-        7. Walk forward two, then turn left
-        8. Walk forward until dragon
 
 ??? note "2nd Run"
     1. Repeat the selection at B1F and save all civilians on B1F and B2F. On the second time around, you can choose to help or abandon the knight. Helping the knight will get you ambushed by the dragon, while abandoning will skip the fight entirely. Rescue Ainikki and resurrect her body at the temple.
