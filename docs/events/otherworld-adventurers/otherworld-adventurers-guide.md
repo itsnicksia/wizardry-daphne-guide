@@ -1,5 +1,3 @@
-<img width="568" height="416" alt="image" src="https://github.com/user-attachments/assets/be03fd84-6913-46ef-a580-7e2c6d691625" /># Otherworld Adventurers
-
 ## Part 1 (Berkanan Route)
 
 The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1.   
