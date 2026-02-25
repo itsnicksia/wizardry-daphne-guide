@@ -115,6 +115,8 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
 ## Part 2 (Ainikki Route)
 
+### Guides
+
 !!! warning "You will need to clear the best ending (3rd Run) of Part 1 (Ainikki Route) to unlock Part 2"
 
 Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Blackdragon Superboss fight in the Otherworld side dungeon zone. 
@@ -124,7 +126,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     === "Guide" 
         1. Head to B1F, take the shortcut door, and save the 3 people like in Part 1.
         2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the right-hand door (Ainikki). If you select the left-hand door (Berkanan) you will be routed to Part 1. 
-        3. B2F will be a completely different map, and various portions of the walls will have a glitched texture. Halfway through the floor, you will encounter a Knight that needs help. Interacting with them will lead to a fight with the Fire Dragon from Part 1. If you opt to run away, then it will become a wandering mob. Remember to rescue the singular civilian on this floor.
+        3. B2F will be a completely different map, and various portions of the walls will have a glitched texture. Halfway through the floor, you will encounter a Knight that needs help. Interacting with them will lead to a fight with the Fire Dragon from Part 1. 
         4. Head to the stairs to B3F and find Ainikki's body. Defeat the Sahuagins and pick up her body. Continue to B3F. It is critical that you do not leave at this point or Ainikki will not be revived.
         5. Head to where you previously fought the Red Dragon, but this time there will be a Black Dragon. It will fog up the entire room forcing you to retreat. Head back to the Royal Capital and resurrect Ainikki who will offer to assist at the Temple.
         6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
@@ -134,45 +136,44 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
     === "Black Fog Directions"
     
-        1. Start on tile (X:13, Y:17) facing the inner chamber.
-        2. Walk forward one, then turn right
-        3. Walk forward two, then turn left
-        4. Walk forward three, then turn left
-        5. Walk forward four, then turn right
-        6. Walk forward three, then turn right
-        7. Walk forward two, then turn left
-        8. Walk forward until dragon
+        - Start on tile (X:13, Y:17) facing the inner chamber.
+        - 1 step forward, then turn right
+        - 2 forward, then turn left
+        - 3 forward, then turn left
+        - 4 forward, then turn right
+        - 3 forward, then turn right
+        - 2 forward, then turn left
+        - Walk forward until you encounter the Black Dragon
 
 ??? note "2nd Run"
-    1. Repeat the selection at B1F and save all civilians on B1F and B2F. On the second time around, you can choose to help or abandon the knight. Helping the knight will get you ambushed by the dragon, while abandoning will skip the fight entirely. Rescue Ainikki and resurrect her body at the temple.
-    2. Turn in the request and accept the dragon slaying request again. Head to the Tavern and ask Iarumas for help. Leave the Adventurer's guild and ask Ainikki for help. This time, Iarumas will ask her to help as well.
-    3. Ainikki agrees, but requires equipment to defeat the dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
-    4. Head back to Blacksmith after obtaining the Ore and craft the Morningstar. Head back to defeat the Black Dragon in B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
-    5. Head back to the Adventurer's Guild to turn in the request. 
 
-??? map "B2F Ore Locations for 2nd Run of Ainikki Variation"
-    ![](img/sahuagin-ore-locations-ainikki-b2f.png)
-    
-??? map "B3F Ore Locations for 2nd Run of Ainikki Variation"
-    ![](img/sahuagin-ore-locations-ainikki-b3f.png)
+    === "Guide"
+        1. Save all the civilians on B1F and B2F per usual. 
+        2. When you encounter the Knight on B2F you now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map.
+        3. Repeat the same steps as before. Collect Ainikki's body at the stairs to B3F, view the Black Dragon spewing fog scene on B3F, retreat, exit, and Ainikki will be revived at the Temple.
+        4. Turn in the request and accept the dragon slaying request again. Head to the Tavern and ask Iarumas for help. Leave the Adventurer's Guild and ask Ainikki for help. This time, Iarumas will ask her to help as well.
+        5. Ainikki agrees, but requires equipment to defeat the Black Dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
+        6. Return to the Blacksmith and he will craft the Morningstar. 
+        7. Return to the Black Dragon on B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. See the tab for boss fight details. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
+        8. Head back to the Adventurer's Guild to turn in the request. 
 
-??? danger "Black Dragon Boss Fight Details"
-    - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Silver Grade.
-    - It is dark element as its color suggests, and is weak to light. Obviously, its breath is dark type damage.
-    - The dark breath that it uses applies weaken on targets hits.
+    === "B2F Ore Locations"
+        ![](img/sahuagin-ore-locations-ainikki-b2f.png)
+        
+    === "B3F Ore Locations"
+        ![](img/sahuagin-ore-locations-ainikki-b3f.png)
 
-??? map "Sahuagin Cave B2F - Ainikki Variation"
-    ![](img/sahuagin-cave-ainikki-b2f.png)
-
-??? map "Sahuagin Cave B3F - Ainikki Variation"
-    ![](img/sahuagin-cave-ainikki-b3f.png)
-
-??? map "Otherworld Rift"
-    ![](img/otherworld-rift.jpg)
+    === "Black Dragon Boss Fight"
+        - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Silver Grade.
+        - It is Dark element as its color suggests, and is weak to Light. Obviously, its breath is Dark-type damage.
+        - The Dark Breath that it uses applies weaken on targets hits.
 
 ### Post-game Black Dragon Superboss Variation:
 
 After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
+
+??? map "Otherworld Rift"
+    ![](img/otherworld-rift.jpg)
 
 ??? danger "Black Dragon Superboss Fight Details"
     ![](img/black-dragon-superboss.png)
