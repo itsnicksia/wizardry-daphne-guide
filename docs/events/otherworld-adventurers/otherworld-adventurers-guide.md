@@ -191,6 +191,56 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
+## OtherWorld Adventurers II Exchange Shop 
+
+- Accessed via the Jeweler > Exchange > Otherworld Adventurers II tab
+- Farming currency is called "Strange Angular Ore" and only available in the Sahuagin's Cave
+- A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25
+- Refreshed items cannot be missed as they are added as a separate item entry in the shop
+
+### Unique Gear
+
+| Item | Cost | # Copies | Total Cost |
+|:-----|:----:|:--------:|:-------------------:|
+| Dragon Slayer           | 7,000   | 1   | 8,000  |  
+| Dragon Slayer           | 12,000  | 3   | 36,000 | 
+| Augmented Dragon Slayer | 24,000  | 99  | -      | 
+| Saber                   | 5,000   | 3   | 15,000 |  
+| Refined Saber           | 30,000  | 99  | -      | 
+| Trollkin Ring           | 10,000  | 3   | 30,000 |  
+| Exquisite Trollkin Ring | 20,000  | 99  | -      | 
+
+### Priority Items
+
+| Item | Cost | # Copies | Total Cost |
+|:-----|:----:|:--------:|:-------------------:|
+| Codex of Learning               | 2,500   | 5 | 12,500 |  
+| Intermediate Codex of Learning  | 10,000  | 2 | 20,000 | 
+| Book of Halito Secrets          | 5,000   | 1 | 5,000  |  
+| Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
+| Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
+| Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
+| Adventure's Remains I*          | 800     | 6 | 4,800  |  
+| Adventure's Remains II*         | 800     | 6 | 4,800  |  
+| Gem of Org x200                 | 1,500   | 1 | 1,500  |  
+| Total Cost                      |         |   | 73,600 |  
+
+### Basic Items
+
+| Item | Cost | # Copies | Total Cost |
+|:-----|:----:|:--------:|:-------------------:|
+| Azure Lustrous Ore              | 100   | 1  | 100   |  
+| Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
+| Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
+| Fine Grade Ore*                 | 200   | 10 | 2,000 |  
+| High Grade Ore*                 | 100   | 10 | 1,000 |  
+| Mid Grade Ore*                  | 75    | 10 | 750   |  
+| Low Grade Ore*                  | 50    | 10 | 500   |  
+| Clock Tome of the Finesser*     | 50    | 10 | 500   |  
+| Clock Tome Volume*              | 3     | 10 | 30    |  
+| Total Cost                      |       |    | 7,880 |  
+
+
 ## Farming The Event
 
 There are three major ways to farm the event, each with their own pros and cons. Use your own judgement to determine which gives you the highest currency over time ratio.
