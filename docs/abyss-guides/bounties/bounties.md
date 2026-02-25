@@ -86,8 +86,8 @@
         - Appears at Bounty Rank 2
 
     === "Fight Details"
-        - Spawns as three Cursed Dolls that can move twice each. They are extremely fast.
         - Bounty HP: 6.5k; Adds: 2.5-3K 
+        - Spawns as three Cursed Dolls that can move twice each. They are extremely fast.
         - Remember that Cursed status harms you when you attack an enemy.
         - Seems to have a week long cooldown before respawning.
         - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to reset.
@@ -209,7 +209,7 @@
         - Appears at Bounty Rank ???
         
     === "Fight Details"
-        - Only has several thousand HP. You can start capturing him after doing around 3k damage.
+        - HP: ~5k (can be captured after ~3k)
         - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
 
     === "Map Location"
@@ -229,6 +229,7 @@
         - Appears at Bounty Rank 1
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 3 Floating Coins in the back.
         - Has very high defense.
 
@@ -244,6 +245,7 @@
         - Appears at Bounty Rank 1
 
     === "Fight Details"
+        - HP: ???
         - Spawns with two rows of hostile adventurers in the front and middle row. The Pirate Deacon will be in the backmost row.
 
     === "Map Location"
@@ -261,6 +263,7 @@
         - Appears at Bounty Rank 2
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 2 Chimeras in the front row, and 1 Chimera in the middle row. The Gorgon is in the backmost row.
 
 ??? danger "The Champion (80 Tokens)" 
@@ -275,6 +278,7 @@
         - Appears at Bounty Rank 3
 
     === "Fight Details"
+        - HP: ???
         - Spawns by itself initially, but will summon two weaker Lizardman Champions, one of which is in the same row and one in the back. It can summon multiple times in a fight.
 
 ??? danger "Dungeon-Stalkers (115 Tokens)" 
@@ -289,6 +293,7 @@
         - Appears at Bounty Rank 4
 
     === "Fight Details"
+        - HP: ???
         - Spawns as 3 Bandits in the same row.
 
     === "Map Location"
@@ -306,6 +311,7 @@
         - Appears at Bounty Rank 4
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 5 hostile adventurers in the front row. The Succubus will be in the back row.
         - The succubus can move twice per turn.
 
@@ -324,6 +330,7 @@
         - Appears at Bounty Rank 6
 
     === "Fight Details"
+        - HP: ???
         - Spawns as an Oar Collector by itself.
         - When it takes enough damage, it will flood the battlefield out of turn.
         
@@ -339,8 +346,10 @@
         - Appears at Bounty Rank 8
 
     === "Fight Details"
+        - HP: ???
         - Spawns as a Corrosion Eye by itself.
         - It can move three times per turn.
+        - Can be easily cheesed with MC Ninja crit fishing.
 
     === "Map Location"
         ![](./img/ecstatic-blazing-eye-loc.png)
@@ -357,6 +366,7 @@
         - Appears at Bounty Rank 6
 
     === "Fight Details"
+        - HP: ??? (can be captured after ~3k)
         - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
         - After doing enough damage to her (~4k), she will become fatigued and you may capture her with Binding Rope
 
@@ -377,6 +387,7 @@
         - Appears at Bounty Rank 1
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 1 normal Vorpal Bunny on each side. The boss Vorpal Bunny is light element.
         - Acts twice on its turn and has extremely high evasion.
         
@@ -392,6 +403,7 @@
         - Appears at Bounty Rank 2
 
     === "Fight Details"
+        - HP: ???
         - Spawns as a group of 7 Sand Apparitions
         - There are 3 in the front row, 3 in the middle row, with the boss in the back.
         - The boss can re-summon Sand Apparitions.
@@ -408,6 +420,7 @@
         - Appears at Bounty Rank 5
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 5 Pirate Berserkers in the frontline. Ruffian boss will be in the backline.
         - They are relatively weak.
 
@@ -426,8 +439,10 @@
         - Appears at Bounty Rank 7
 
     === "Fight Details"
+        - HP: ???
         - Spawns with a row of hostile adventurers in the front and middle row. The back row has the Vampire.
         - The Vampire has extremely high evasion.
+        - Can use Dalto (Copper Grade Mage Spell) spells to freeze the vampire reducing evasion significantly.
 
     === "Map Location"
         ![](./img/timid-crimson-fang-loc.png)
@@ -444,9 +459,10 @@
         - Appears at Bounty Rank 8
 
     === "Fight Details"
+        - HP: ~30K
         - Spawns by itself as an Ent.
         - It can move twice per turn, and tends to cast Breath of Gluttony, which is a row damaging skill that guarantees Critical Poison with a chance to also Confuse.
-        
+
 ??? danger "Shadow-Lurking Operative (400 Tokens)"
 
     === "Bounty Picture" 
@@ -459,6 +475,7 @@
         - Appears at Bounty Rank 9
 
     === "Fight Details"
+        - HP: ~5K (for all)
         - Spawns with a front row and middle row of Indigo and Amber ninjas. The boss ninja will be in the backmost row.
         - This fight is very similar to that of the Sand Shadow Cave boss fight. There is a lot of confusion/critical.
 
@@ -474,10 +491,11 @@
         - Appears at Bounty Rank 9
 
     === "Fight Details"
+        - HP: 25k-30k 
         - Spawns with a front row and middle row of 3 lesser demons. The Greater Demon will be in the backmost row.
         - The Greater Demon can move twice per turn and will summon more lesser demons per turn as long as he doesn't reach the front row.
         - Once the Greater Demon reaches the front row, he will continually summon Greater Demons until the entire field is filled.
-        - The Greater Demon has a lot of surety evasion (~150) and around 25-30k HP.
+        - The Greater Demon has a lot of surety evasion (~150)
         - It is recommended to not kill all the lesser demons (don't let the Greater Demon boss reach the front row), buff front row with masolotu + use evasion gear, and carry ranged damaging options. Focus entirely on damaging the Greater Demon boss and just ignore the lesser demons.
 
     === "Map Location"
@@ -495,6 +513,7 @@
         - Appears at Bounty Rank 10
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 3 Human Knight Adventurers in the front row. She will be in the backrow.
         - She moves twice per turn and will cast Healing skills/debuffs/AOE magic.
         - The Knights have a very high chance to defend a hit on Mellie.
@@ -514,6 +533,7 @@
         - Appears at Bounty Rank 11
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 2 Necrocores in the front row. The necromancer will be in the back row.
         - Can randomly cast Lazelos.
         - When both Necrocores are dead, he can summon skeletons like a typical necromancer.
@@ -534,11 +554,11 @@
         - Appears at Bounty Rank 12
 
     === "Fight Details"
+        - HP: 57k-60k
         - Spawns with 3 Succubi in the Front Row, and 2 Chimera in the back row. The Cyclops will be in the middle row.
         - He only spams Frenzied Strike, which gives him a permanent undispellable CT buff. This attack can target his own allies as well. The attack is wind element.
         - This attack is extremely strong and can even one shot backline units if they are not defending/using knight's defense.
         - It is recommended if you are not strong enough to kill him in a timely manner with Knight's Defense spamming to simply cast Batilgref and defend to take advantage of opening damage.
-        - Has around 57k-60k HP.
 
     === "Map Location"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
@@ -555,6 +575,7 @@
         - Appears at Bounty Rank ???
 
     === "Fight Details"
+        - HP: ???
         - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
         - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn.
         - Ross has a lot of HP and will typically cover the backrow units. He is capturable after taking around 20k damage.
@@ -577,6 +598,7 @@
         - Appears at Bounty Rank ???
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 2 Ice Entities in the same row.
         - Has quite a lot of HP, otherwise acts like its normal counterpart.
 
@@ -592,7 +614,7 @@
         - Appears at Bounty Rank ???
 
     === "Fight Details"
-        - Capturable after taking around 20k HP. It'll be around the same time he self buffs with Night Honey.
+        - HP: ??? (can be captured after ~20k which is around the time he self buffs with Night Honey)
         - Has 3 actions per his turn. Can self buff with various drugs and perform typical thief skills. Can also cast weak magic.
         - When he casts Night Honey, will gain permanent massive ATK, CT and MAG up buffs. Essentially all his physical skills will do over a thousand damage. In addition, he will be available to be caught with Binding Rope.
         - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one. This seems to require successfully completing the Octonarus Ending in A2.
@@ -613,7 +635,8 @@
         - Appears at Bounty Rank 14
 
     === "Fight Details"
-        - Has around 80k HP. Has insanely high evasion that is not overcomeable by standard means.
+        - HP: ~80k
+        - Has insanely high evasion that is not overcomeable by standard means.
         - Is Dark element, but much weaker than typical golems.
         - Extremely recommended to bring multiple fighters with 2H Maces. Badios/Foros users are okay as well if using Mental Unity. Otherwise, magic is not recommended.
 
@@ -632,6 +655,7 @@
         - Appears at Bounty Rank 14
 
     === "Fight Details"
+        - HP: ~50k (each)
         - There are two Our Heirlooms in the same row. They each have 50kish HP
         - The left one will typically cast magic, while the right one typically uses physical skills. The magic casted is typically Zelos/Mazelos and can hit upwards of 500 on neutral units. 
         - Upon taking enough damage, they can cast Ballroom Waltz (full team charm) once and then Dance (full team confuse) once out of turn.
@@ -654,6 +678,7 @@
         - Appears at Bounty Rank 1
 
     === "Fight Details"
+        - HP: ???
         - Spawns with 2 Dragonflies and 2 Vorpal Bunnies in the front row. The Pixie is in the back row.
 
     === "Map Location"
