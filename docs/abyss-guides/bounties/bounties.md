@@ -717,7 +717,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
 ## Unique Rewards
 
-!!! warning "It's entirely possible to buy all the hound masks and not receive a 4* Purple"
+!!! warning "It's entirely possible to buy all the Hound Masks and not receive a 4* Purple"
 
 - Master Ring: Abyss 4 tier ring that always generates as a White 5* with 0/3 Strength Level. It provides 13 of every stat, minus Defense and Magic Defense which are a bit higher.
 - Hound Mask: Randomly generated quality and grade ebonsteel level cloth hat that has innate evasion and resistance. At +20, it gives 17 Disarm Trap. 
@@ -731,7 +731,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 - Enhance +15 = 13 Disarm Trap
 - Enhance +20 = 17 Disarm Trap
 
-**Book of Honed Ability stat boost**:
+**Book of Honed Ability Stat Boost**:
 
 - Fighter: 5 ATK, 5 ACC
 - Knight: 10 HP, 5 DEF, 5 MDEF
