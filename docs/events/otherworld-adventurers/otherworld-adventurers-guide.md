@@ -140,6 +140,11 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - 2 forward, then turn left
         - Walk forward until you encounter the Black Dragon
 
+    === "BF3 Map"
+    
+        ![](sahuagin-cave-ainikki-b3f.png)
+        - Use in conjunction with the Black Fog Directions tab
+        
 ??? note "2nd Run"
 
     === "Guide"
@@ -162,6 +167,20 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Silver Grade.
         - It is Dark element as its color suggests, and is weak to Light. Obviously, its breath is Dark-type damage.
         - The Dark Breath that it uses applies weaken on targets hits.
+
+### Maps
+
+Note that B2F and B3F are different for the Part 2 (Ainikki) route. 
+
+??? map "Map B1F"
+    ![](img/sahuagin-cave-1.jpg)
+    
+??? map "Map B2F"
+    ![](img/sahuagin-cave-ainikki-b2f.png)
+    
+??? map "Map B3F"
+    ![](sahuagin-cave-ainikki-b3f.png)
+
 
 ### Post-game Black Dragon Superboss Variation
 
