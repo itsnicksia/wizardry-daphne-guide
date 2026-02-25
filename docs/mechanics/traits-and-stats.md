@@ -50,6 +50,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |        Samurai        |    +3    |  +2 |   +1  |    +2    |     +2    |   +1  |  +1  |
 |        | Mage of the Black Rod |     ?    |  ?  |   ?   |     ?    |     ?     |   ?   |   ?  |
 |        |       Tall Mage       |    +2    |  +2 |   +1  |    +1    |     +2    |   +1  |  +1  |
+|        |   Silver-Haired Nun   |    +2    |  +2 |   +3  |    +4    |     +2    |   +1  |  +2  |
 
 ## Stats
 
