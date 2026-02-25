@@ -1,64 +1,105 @@
-# Otherworld Adventurers
+<img width="568" height="416" alt="image" src="https://github.com/user-attachments/assets/be03fd84-6913-46ef-a580-7e2c6d691625" /># Otherworld Adventurers
 
-## Guide for Part 1:
-!!! note "There is no difficulty mode for this Event Dungeon. The mobs will scale automatically to your level."
+## Part 1 (Berkanan Route)
 
-There is only one ending for this event, and is relatively quick to complete (if you are strong). It takes a minimum of three cursed wheel resets to complete entirely however.
+The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1.   
+
+### Guides 
 
 ??? note "1st Run"
-    1. Watch Cutscene in Event Tab.
-    2. Head to Adventurer's Guild in the Royal Capital.
-    3. Head to the event location, Sahuagin's Cave, via Edge of Town in the Royal Capital.
-    4. Find 3 people on B1F to save. Move to the next floor.
-    5. Find 2 people on B2F to save. They are dead already.
-    6. Find an extra burned body on the way to the next floor. It's Iarumas.
-    7. Go to the large, southern section of B3F, Fire Dragon will show up and start throwing fire everywhere (You may lag quite a bit at this part)
-    8. Move to the non-red tiles on the minimap asap or get killed instantly (do this 3 times).
-    9. Return to capital, watch cutscene, and then accept the Fire Dragon request at adventurer's guild, head to tavern to talk to Iarumas.
-    10. Head back to dungeon B3F, try to fight the dragon again, but you are unable to (this part is important)
-    11. Instead, now head to the sahuagin NPC on the minimap and kill them for a key.
-    12. You can now open previously locked doors. Move ahead to the side of the Dragon.
-    13. Have Iarumas distract the dragon and fight the dragon. However, it rages at the end and melts in the Magma.
-    14. Turn in the request and get basically nothing. Rewind time with Cursed Wheel.
 
-??? danger "Dragon Boss Fight Tips"
-    - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
-    - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
-    - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
-    - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
-    - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
-    - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
-    - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
-    - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
-    - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
-    - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
+    === "Guide"
+        1. Watch the cutscene in the Event tab (yellow shield in town menu).
+        2. Head to the Adventurer's Guild in the Royal Capital and accept the request to save the missing people.
+        3. Head to the event location, Sahuagin's Cave, via the Edge of Town in the Royal Capital.
+        4. Find 3 people on B1F to save. Their locations are shown on the map.
+        5. Find 2 people on B2F to save. They are dead already.
+        6. Find an extra burned body on the way to the next floor. It's Iarumas.
+        7. Go to the large, southern section of B3F. The Fire Dragon will show up and start throwing fire everywhere (you may lag quite a bit at this part).
+        8. Move to the non-red tiles on the minimap ASAP or get killed instantly (do this 3 times).
+        9. Return to the Royal Capital, watch the cutscene, accept the Fire Dragon request at the Adventurer's Guild, head to the Tavern, and talk to Iarumas.
+        10. Return to B3F, try to fight the dragon again, but you are unable to (this part is important).
+        11. Instead, now head to the sahuagin NPC on the minimap and kill them for the Sahuagin's Key.
+        12. You can now open previously locked doors. Take the previously locked path on B3F to reach the side of the dragon.
+        13. Select the option to have Iarumas serve as a distraction and complete the boss fight (see tab). However, it rages at the end and melts in the magma.
+        14. Turn in the request and get basically nothing. Use the Event button, select Cursed Wheel, and rewind time to reset everything.
+
+    === "Red Dragon Boss Fight"
+
+        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
+        - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
+        - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
+        - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
+        - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
+        - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
+        - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
+        - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+        - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
 ??? note "2nd Run"
-    1. Watch cutscene of Lulu looking for info. Select all the options.
-    2. Use the key to go through door on b1f. You can now save all the people without them dying now.
-    3. Find Berkanan at entrance to B3F, grab her body, and head down.
-    4. Same Fire Dragon event again, just dodge the fire.
-    5. Head back to town to resurrect Berkanan. She is quite tall.
-    6. Head to adventurers guild, turn in quest, get dragon quest, head to tavern and talk to Berkana and Iarumas.
-    7. Head to blacksmith, get request to pick up ore to make dragon slayer stuff.
-    8. Head to the 3 locations on the map below to obtain the ores for the Dragon Slayer sword.
-    9. Return to blacksmith to get sword, and then head back to the side tunnel to fight the dragon.
-    10. Dragon is successfully killed this time, but Berkanan is burned to death again.
-    11. Head back to town to turn in the request, and rewind time.
 
-??? note "Ore Locations for 2nd Run"
-    ![](img/sahuagin-cave-ore-locations.jpg)
+    === "Guide" 
+    
+        1. Watch the cutscene of Lulu asking for information about the first run. Select all the options.
+        2. For the 2nd run to trigger properly you need to immediately go through the previously locked door on B1F using the Sahuagin's Key. If you save anyone before going through the door, then you will end up on the first run.
+        3. Save the 3 people on BF1 again. 
+        3. Save the 2 people on BF2 again, however this run they will be alive since you got there early via the shortcut.
+        4. Find Berkanan at the entrance to B3F, grab her body, and head down. If Berkanan's body is not appearing, then you missed saving one of the 5 people. 
+        5. Same Fire Dragon event again, just dodge the fire.
+        6. Head back to town to resurrect Berkanan. She is quite tall. If Berkanan does not get revived, then it means you exited prematurely and need to return and do the Fire Dragon event first on B3F.
+        7. Head to the Adventurers Guild, turn in the request, accept the dragon request, go to the Tavern, and talk to Berkana and Iarumas.
+        8. Head to the Blacksmith and accept the request to collect the ore to make a Dragon Slayer sword.
+        8. Head to the 3 ore locations on the map (see tabs), which appear as shiny white stars.
+        9. Return to the Blacksmith and he will make the Dragon Slayer. Now go back to the 3F side tunnel to fight the Red Dragon. 
+        10. The Red Dragon is successfully killed this time, but Berkanan is still burned to death.
+        11. Return to town, turn in the request, and use the Event button to rewind time to find a way to save Berkanan from dying.
 
+    === "Ore Locations"
+    
+        ![](img/sahuagin-cave-ore-locations.jpg)
+
+    === "Red Dragon Boss Fight"
+
+        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
+        - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
+        - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
+        - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
+        - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
+        - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
+        - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
+        - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+        - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
+    
 ??? note "3nd Run"
-    1. Repeat everything from before up to the Blacksmith. This time you will ask for a shield as well.
-    2. Head to the 3 locations on the map to pick up the ore, along with the one extra location for the shield.
-    3. Return to blacksmith for the sword and shield to give to Berkanan.
-    4. Defeat the Dragon again and successfully kill without Berkanan dying.
-    5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
-    6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
-??? note "Ore Locations for 3nd Run"
-    ![](img/sahuagin-cave-ore-locations-2.jpg)
+    === "Guide" 
+        1. Repeat everything listed in the 2nd run up to the Blacksmith. This time you will ask for a shield as well.
+        2. Head to the 3 locations on the map to pick up the ore, along with the one extra location for the shield.
+        3. Return to blacksmith for the sword and shield to give to Berkanan.
+        4. Defeat the Dragon again and successfully kill without Berkanan dying.
+        5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
+        6. Return to town to turn in the request. Listen to Lulu yap about lore.
+
+    === "Ore Locations"
+    
+        ![](img/sahuagin-cave-ore-locations-2.jpg)
+
+    === "Red Dragon Boss Fight"
+
+        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
+        - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
+        - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
+        - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
+        - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
+        - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
+        - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
+        - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+        - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
+
+### Maps
 
 ??? map "Map BF1"
     ![](img/sahuagin-cave-1.jpg)
@@ -74,7 +115,7 @@ There is only one ending for this event, and is relatively quick to complete (if
     ![](img/trollkin-ring.jpg)
     ![](img/katana.jpg)
 
-## Guide for Part 2:
+## Part 2 (Ainikki Route)
 !!! warning "You will need to have cleared the Good ending (3rd Run) in order to unlock this part"
 !!! warning "Since the event has rerun, Silver tier versions of the Unique Event Rewards that can be bought from the shop and dropped from special junk. The gear can generate as high as Purple 4*. In addition, you may purchase 99 copies of each, so it's recommended to focus on these instead of the previous versions. Keep in mind the shop versions always generate as Blue 3*, so if you want a higher grade/quality, you will need to obtain it from junk."
 
