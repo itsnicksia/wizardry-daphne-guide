@@ -142,8 +142,9 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
     === "BF3 Map"
     
-        ![](sahuagin-cave-ainikki-b3f.png)
-        - Use in conjunction with the Black Fog Directions tab
+        ![](img/sahuagin-cave-ainikki-b3f.png)
+        
+        - Use in conjunction with the Black Fog Directions tab.
         
 ??? note "2nd Run"
 
@@ -179,7 +180,7 @@ Note that B2F and B3F are different for the Part 2 (Ainikki) route.
     ![](img/sahuagin-cave-ainikki-b2f.png)
     
 ??? map "Map B3F"
-    ![](sahuagin-cave-ainikki-b3f.png)
+    ![](img/sahuagin-cave-ainikki-b3f.png)
 
 
 ### Black Dragon Superboss 
