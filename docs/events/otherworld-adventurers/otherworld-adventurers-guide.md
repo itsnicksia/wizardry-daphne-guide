@@ -1,6 +1,6 @@
 ## Part 1 (Berkanan Route)
 
-The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1.   
+The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-down have tabs, so that all the information you need for each run is in one place.  
 
 ### Guides 
 
@@ -182,14 +182,17 @@ Note that B2F and B3F are different for the Part 2 (Ainikki) route.
     ![](sahuagin-cave-ainikki-b3f.png)
 
 
-### Post-game Black Dragon Superboss Variation
+### Black Dragon Superboss 
 
 After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
+
+!!! warning "Currently, there are many players that cannot access this fight even after clearing the second run. We suspect that there are other requirements, including being Copper Grade and/or A4 progression. It is possible that this fight was not level-scaled or is a bug that is yet to be fixed."
+
 
 ??? map "Otherworld Rift"
     ![](img/otherworld-rift.jpg)
 
-??? danger "Black Dragon Superboss Fight Details"
+??? danger "Black Dragon Superboss Fight"
     ![](img/black-dragon-superboss.png)
 
     - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
@@ -205,14 +208,46 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
+## Event Farming
+
+??? note "Overview"
+
+    - The Sahuagin's Cave is a solid farming location no matter where you are in the game. 
+    - Currency
+        - As the event is limited the average currency per chest is higher than average, which makes it easier to clear the shop for everything but the unique gear.
+        - Average currency per chest is 100-200 on B1F and B2f with an elevated rate of 200-250 on B3F.
+    - Junk 
+        - 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Other factors that might play a role are currently being tested. 
+        - Each tier of junk comes in Basic, Common, and Fey versions. Fey junk is the only type with a chance at 4* purple gear. 
+        - Junk pool includes:
+            - Weapons - 1H and 2H swords, 1H rods, 2H staffs.
+            - Armor - Cloth and light armor for the head, hand, and feet. No heavy armor. 
+            - Accessories - Basic ring versions.
+            - Unique gear - The Saber is included as a potential drop in all tiers of junk at an increasing rate. The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
+        - Luminaries junk (highest tier) is Silver-only and includes all 3 versions of the enhanced unique gear. 
+        - Treasure is, unfortunately, only Azure.
+    - For A1-A3 Players
+        - Excellent grinding location for Fey junk that gives a chance at 4* purple gear.
+        - Luminaries junk can unlock while still in A3 for farming Silver-tier gear. 
+    - For A4 Players
+        - The volume of Fey junk rivals that of Ship 2 farming. It's a solid place to stock up on extract fodder. 
+        - If your account needs 4* purple bases for basic gear it is easier to get since A4 is stingy with access to Fey junk. 
+        - If you have an OP account, then you are better off going back to farming Alabaster Wolf Den, Island of the Wailing Oni, and A4 Routes 10-11 for the current best-in-slot gear.  
+
+??? note "Optimal Farming Routes" 
+
+    - Coming Soon. 
+
+
 ## Event Exchange Shop 
 
-??? "Overview"
+??? note "Overview"
 
     - Accessed via the Jeweler- Exchange under the Otherworld Adventurers II tab. The shop currency is called "Strange Angular Ore" and only available in the Sahuagin's Cave.
-    - A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25. Refreshed items cannot be missed as they are added as a separate item entry in the shop. Tables will be updated each week.
+    - A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25. 
+    - Refreshed items cannot be missed as they are added as a separate item entry in the shop. Tables will be updated each week.
 
-??? "What Should I Buy?"
+??? note "What Should I Buy?"
 
     === Priority Items
         - The most important items to purchase first are the two sets of codex books for a total cost of 32,500. The provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
@@ -228,62 +263,53 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - The Saber is a Katana, so only relevant if you have a Samurai or plan to run one or more in the future.
         - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill multiple times in a row as it will not be useable if she is at 1 HP. 
 
+??? note "Shop List"
 
-### Unique Gear
+=== "Unique Gear" 
 
-| Item | Cost | # Copies | Total Cost |
-|:-----|:----:|:--------:|:-------------------:|
-| Dragon Slayer           | 7,000   | 1   | 8,000  |  
-| Dragon Slayer           | 12,000  | 3   | 36,000 | 
-| Augmented Dragon Slayer | 24,000  | 99  | -      | 
-| Saber                   | 5,000   | 3   | 15,000 |  
-| Refined Saber           | 30,000  | 99  | -      | 
-| Trollkin Ring           | 10,000  | 3   | 30,000 |  
-| Exquisite Trollkin Ring | 20,000  | 99  | -      | 
+    | Item | Cost | # Copies | Total Cost |
+    |:-----|:----:|:--------:|:-------------------:|
+    | Dragon Slayer           | 7,000   | 1   | 8,000  |  
+    | Dragon Slayer           | 12,000  | 3   | 36,000 | 
+    | Augmented Dragon Slayer | 24,000  | 99  | -      | 
+    | Saber                   | 5,000   | 3   | 15,000 |  
+    | Refined Saber           | 30,000  | 99  | -      | 
+    | Trollkin Ring           | 10,000  | 3   | 30,000 |  
+    | Exquisite Trollkin Ring | 20,000  | 99  | -      | 
+    
+    ??? warning "Unique Gear +0 Stats"
+        ![](img/dragon-slayer.jpg)
+        ![](img/trollkin-ring.jpg)
+        ![](img/katana.jpg)
 
-??? warning "Unique Gear +0 Stats"
-    ![](img/dragon-slayer.jpg)
-    ![](img/trollkin-ring.jpg)
-    ![](img/katana.jpg)
+=== "Priority Items"
 
-### Priority Items
+    | Item | Cost | # Copies | Total Cost |
+    |:-----|:----:|:--------:|:-------------------:|
+    | Codex of Learning               | 2,500   | 5 | 12,500 |  
+    | Intermediate Codex of Learning  | 10,000  | 2 | 20,000 | 
+    | Book of Halito Secrets          | 5,000   | 1 | 5,000  |  
+    | Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
+    | Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
+    | Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
+    | Adventure's Remains I*          | 800     | 6 | 4,800  |  
+    | Adventure's Remains II*         | 800     | 6 | 4,800  |  
+    | Gem of Org x200                 | 1,500   | 1 | 1,500  |  
+    | Total Cost                      |         |   | 73,600 |  
 
-| Item | Cost | # Copies | Total Cost |
-|:-----|:----:|:--------:|:-------------------:|
-| Codex of Learning               | 2,500   | 5 | 12,500 |  
-| Intermediate Codex of Learning  | 10,000  | 2 | 20,000 | 
-| Book of Halito Secrets          | 5,000   | 1 | 5,000  |  
-| Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
-| Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
-| Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
-| Adventure's Remains I*          | 800     | 6 | 4,800  |  
-| Adventure's Remains II*         | 800     | 6 | 4,800  |  
-| Gem of Org x200                 | 1,500   | 1 | 1,500  |  
-| Total Cost                      |         |   | 73,600 |  
+=== "Basic Items"
 
-### Basic Items
-
-| Item | Cost | # Copies | Total Cost |
-|:-----|:----:|:--------:|:-------------------:|
-| Azure Lustrous Ore              | 100   | 1  | 100   |  
-| Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
-| Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
-| Fine Grade Ore*                 | 200   | 10 | 2,000 |  
-| High Grade Ore*                 | 100   | 10 | 1,000 |  
-| Mid Grade Ore*                  | 75    | 10 | 750   |  
-| Low Grade Ore*                  | 50    | 10 | 500   |  
-| Clock Tome of the Finesser*     | 50    | 10 | 500   |  
-| Clock Tome Volume*              | 3     | 10 | 30    |  
-| Total Cost                      |       |    | 7,880 |  
+    | Item | Cost | # Copies | Total Cost |
+    |:-----|:----:|:--------:|:-------------------:|
+    | Azure Lustrous Ore              | 100   | 1  | 100   |  
+    | Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
+    | Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
+    | Fine Grade Ore*                 | 200   | 10 | 2,000 |  
+    | High Grade Ore*                 | 100   | 10 | 1,000 |  
+    | Mid Grade Ore*                  | 75    | 10 | 750   |  
+    | Low Grade Ore*                  | 50    | 10 | 500   |  
+    | Clock Tome of the Finesser*     | 50    | 10 | 500   |  
+    | Clock Tome Volume*              | 3     | 10 | 30    |  
+    | Total Cost                      |       |    | 7,880 |  
 
 
-## Farming The Event
-
-There are three major ways to farm the event, each with their own pros and cons. Use your own judgement to determine which gives you the highest currency over time ratio.
-
-* Map Reentry
-    * Farming the event in this manner simply involves entering the map, moving to all the chests you see, then harkening out. This has the least amount of dialogue and loading screens but also the least amount of chests.
-* Event Cursed Wheel
-    * This has you using the event cursed wheel to reset the map. This resets both static chests on the first two floors as well as the stationary enemy encounters that have a high likelihood of dropping chests. This option has the most amount of dialogue and loading screens but also gives the highest number of chests.
-* Main Cursed Wheel
-    * This route involves you taking the cursed wheel back to either `The King's Rescue` or `Return to the Capital` and reentering the event dungeon. This is a bit of a middle ground between the above two options, as it respawns the static chests but not the stationary enemy encounters. It has fewer loading screens than the Event Cursed Wheel route, but more than the Map Reentry.
