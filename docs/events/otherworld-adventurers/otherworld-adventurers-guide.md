@@ -251,6 +251,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 ??? note "What Should I Buy?"
 
     === Priority Items
+    
         - The most important items to purchase first are the two sets of codex books for a total cost of 32,500. The provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
         - The Adventurer's Remains I and II and Gem of Org x200 should be picked up next. Note: An additional 3 Adventurer's Remains of each type are added as part of the weekly refresh. 
         - Cones and Macones can be helpful for your MC, Iaramus, or your primary spellcaster. The only way to upgrade Halito is via the Jewler (Limited Time Offer - Daily) with purple gems. Mahalito is only from Asha's alternative style banner. The total cost for all the spell books is 30,000. 
@@ -266,51 +267,51 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
 ??? note "Shop List"
 
-=== "Unique Gear" 
-
-    | Item | Cost | # Copies | Total Cost |
-    |:-----|:----:|:--------:|:-------------------:|
-    | Dragon Slayer           | 7,000   | 1   | 8,000  |  
-    | Dragon Slayer           | 12,000  | 3   | 36,000 | 
-    | Augmented Dragon Slayer | 24,000  | 99  | -      | 
-    | Saber                   | 5,000   | 3   | 15,000 |  
-    | Refined Saber           | 30,000  | 99  | -      | 
-    | Trollkin Ring           | 10,000  | 3   | 30,000 |  
-    | Exquisite Trollkin Ring | 20,000  | 99  | -      | 
+    === "Unique Gear" 
     
-    ??? warning "Unique Gear +0 Stats"
-        ![](img/dragon-slayer.jpg)
-        ![](img/trollkin-ring.jpg)
-        ![](img/katana.jpg)
+        | Item | Cost | # Copies | Total Cost |
+        |:-----|:----:|:--------:|:-------------------:|
+        | Dragon Slayer           | 7,000   | 1   | 8,000  |  
+        | Dragon Slayer           | 12,000  | 3   | 36,000 | 
+        | Augmented Dragon Slayer | 24,000  | 99  | -      | 
+        | Saber                   | 5,000   | 3   | 15,000 |  
+        | Refined Saber           | 30,000  | 99  | -      | 
+        | Trollkin Ring           | 10,000  | 3   | 30,000 |  
+        | Exquisite Trollkin Ring | 20,000  | 99  | -      | 
+        
+        ??? warning "Unique Gear +0 Stats"
+            ![](img/dragon-slayer.jpg)
+            ![](img/trollkin-ring.jpg)
+            ![](img/katana.jpg)
 
-=== "Priority Items"
+    === "Priority Items"
+    
+        | Item | Cost | # Copies | Total Cost |
+        |:-----|:----:|:--------:|:-------------------:|
+        | Codex of Learning               | 2,500   | 5 | 12,500 |  
+        | Intermediate Codex of Learning  | 10,000  | 2 | 20,000 | 
+        | Book of Halito Secrets          | 5,000   | 1 | 5,000  |  
+        | Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
+        | Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
+        | Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
+        | Adventure's Remains I*          | 800     | 6 | 4,800  |  
+        | Adventure's Remains II*         | 800     | 6 | 4,800  |  
+        | Gem of Org x200                 | 1,500   | 1 | 1,500  |  
+        | Total Cost                      |         |   | 73,600 |  
 
-    | Item | Cost | # Copies | Total Cost |
-    |:-----|:----:|:--------:|:-------------------:|
-    | Codex of Learning               | 2,500   | 5 | 12,500 |  
-    | Intermediate Codex of Learning  | 10,000  | 2 | 20,000 | 
-    | Book of Halito Secrets          | 5,000   | 1 | 5,000  |  
-    | Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
-    | Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
-    | Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
-    | Adventure's Remains I*          | 800     | 6 | 4,800  |  
-    | Adventure's Remains II*         | 800     | 6 | 4,800  |  
-    | Gem of Org x200                 | 1,500   | 1 | 1,500  |  
-    | Total Cost                      |         |   | 73,600 |  
-
-=== "Basic Items"
-
-    | Item | Cost | # Copies | Total Cost |
-    |:-----|:----:|:--------:|:-------------------:|
-    | Azure Lustrous Ore              | 100   | 1  | 100   |  
-    | Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
-    | Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
-    | Fine Grade Ore*                 | 200   | 10 | 2,000 |  
-    | High Grade Ore*                 | 100   | 10 | 1,000 |  
-    | Mid Grade Ore*                  | 75    | 10 | 750   |  
-    | Low Grade Ore*                  | 50    | 10 | 500   |  
-    | Clock Tome of the Finesser*     | 50    | 10 | 500   |  
-    | Clock Tome Volume*              | 3     | 10 | 30    |  
-    | Total Cost                      |       |    | 7,880 |  
+    === "Basic Items"
+    
+        | Item | Cost | # Copies | Total Cost |
+        |:-----|:----:|:--------:|:-------------------:|
+        | Azure Lustrous Ore              | 100   | 1  | 100   |  
+        | Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
+        | Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
+        | Fine Grade Ore*                 | 200   | 10 | 2,000 |  
+        | High Grade Ore*                 | 100   | 10 | 1,000 |  
+        | Mid Grade Ore*                  | 75    | 10 | 750   |  
+        | Low Grade Ore*                  | 50    | 10 | 500   |  
+        | Clock Tome of the Finesser*     | 50    | 10 | 500   |  
+        | Clock Tome Volume*              | 3     | 10 | 30    |  
+        | Total Cost                      |       |    | 7,880 |  
 
 
