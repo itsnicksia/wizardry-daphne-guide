@@ -213,11 +213,22 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
 ??? note "Overview"
 
-    - The Sahuagin's Cave is a solid farming location no matter where you are in the game. 
-    - Currency
+    === "Farming" 
+    
+        - The Sahuagin's Cave is a solid farming location no matter where you are in the game. 
+        - A1-A3 Players
+            - Excellent grinding location for Fey junk that gives a chance at 4* purple gear.
+            - Luminaries junk can unlock while still in A3 for farming Silver-tier gear. 
+        - A4 Players
+            - The volume of Fey junk rivals that of Ship 2 farming. It's a solid place to stock up on extract fodder. 
+            - If your account needs 4* purple bases for basic gear it is easier to get since A4 is stingy with access to Fey junk. 
+            - If you have an OP account, then you are better off going back to farming Alabaster Wolf Den, Island of the Wailing Oni, and A4 Routes 10-11 for the current best-in-slot gear.  
+            
+    === "Currency"
         - As the event is limited the average currency per chest is higher than average, which makes it easier to clear the shop for everything but the unique gear.
         - Average currency per chest is 100-200 on B1F and B2f with an elevated rate of 200-250 on B3F.
-    - Junk 
+
+    === "Junk" 
         - 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Other factors that might play a role are currently being tested. 
         - Each tier of junk comes in Basic, Common, and Fey versions. Fey junk is the only type with a chance at 4* purple gear. 
         - Junk pool includes:
@@ -227,13 +238,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
             - Unique gear - The Saber is included as a potential drop in all tiers of junk at an increasing rate. The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
         - Luminaries junk (highest tier) is Silver-only and includes all 3 versions of the enhanced unique gear. 
         - Treasure is, unfortunately, only Azure.
-    - For A1-A3 Players
-        - Excellent grinding location for Fey junk that gives a chance at 4* purple gear.
-        - Luminaries junk can unlock while still in A3 for farming Silver-tier gear. 
-    - For A4 Players
-        - The volume of Fey junk rivals that of Ship 2 farming. It's a solid place to stock up on extract fodder. 
-        - If your account needs 4* purple bases for basic gear it is easier to get since A4 is stingy with access to Fey junk. 
-        - If you have an OP account, then you are better off going back to farming Alabaster Wolf Den, Island of the Wailing Oni, and A4 Routes 10-11 for the current best-in-slot gear.  
+
 
 ??? note "Optimal Farming Routes" 
 
