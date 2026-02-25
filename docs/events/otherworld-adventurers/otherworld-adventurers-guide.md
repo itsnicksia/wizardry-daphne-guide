@@ -185,10 +185,10 @@ Note that B2F and B3F are different for the Part 2 (Ainikki) route.
 
 ### Black Dragon Superboss 
 
-After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
-
 !!! warning "Currently, there are many players that cannot access this fight even after clearing the second run. We suspect that there are other requirements, including being Copper Grade and/or A4 progression. It is possible that this fight was not level-scaled or is a bug that is yet to be fixed."
 
+
+After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
 
 ??? map "Otherworld Rift"
     ![](img/otherworld-rift.jpg)
@@ -209,12 +209,11 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
-## Event Farming
+## Farming
 
 ??? note "Overview"
 
     === "Farming" 
-    
         - The Sahuagin's Cave is a solid farming location no matter where you are in the game. 
         - A1-A3 Players
             - Excellent grinding location for Fey junk that gives a chance at 4* purple gear.
@@ -227,25 +226,25 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Currency"
         - As the event is limited the average currency per chest is higher than average, which makes it easier to clear the shop for everything but the unique gear.
         - Average currency per chest is 100-200 on B1F and B2f with an elevated rate of 200-250 on B3F.
+        - There does not appear to be any differences in currency drop rates between Parts I (Berkanan Route) and II (Ainikki Route). 
 
     === "Junk" 
         - 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Other factors that might play a role are currently being tested. 
         - Each tier of junk comes in Basic, Common, and Fey versions. Fey junk is the only type with a chance at 4* purple gear. 
-        - Junk pool includes:
-            - Weapons - 1H and 2H swords, 1H rods, 2H staffs.
-            - Armor - Cloth and light armor for the head, hand, and feet. No heavy armor. 
-            - Accessories - Basic ring versions.
-            - Unique gear - The Saber is included as a potential drop in all tiers of junk at an increasing rate. The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
+        - Junk Pool
+            - Weapons: 1H and 2H swords, 1H rods, 2H staffs.
+            - Armor: Cloth and light armor for the head, hand, and feet. No heavy armor. 
+            - Accessories: Basic ring versions.
+            - Unique gear: The Saber is included as a potential drop in all tiers of junk at an increasing rate. The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
         - Luminaries junk (highest tier) is Silver-only and includes all 3 versions of the enhanced unique gear. 
         - Treasure is, unfortunately, only Azure.
-
 
 ??? note "Optimal Farming Routes" 
 
     - Coming Soon. 
 
 
-## Event Exchange Shop 
+## Exchange Shop 
 
 ??? note "Overview"
 
@@ -255,14 +254,14 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
 ??? note "What Should I Buy?"
 
-    === Priority Items
+    === "Priority Items"
     
         - The most important items to purchase first are the two sets of codex books for a total cost of 32,500. The provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
         - The Adventurer's Remains I and II and Gem of Org x200 should be picked up next. Note: An additional 3 Adventurer's Remains of each type are added as part of the weekly refresh. 
         - Cones and Macones can be helpful for your MC, Iaramus, or your primary spellcaster. The only way to upgrade Halito is via the Jewler (Limited Time Offer - Daily) with purple gems. Mahalito is only from Asha's alternative style banner. The total cost for all the spell books is 30,000. 
         - The total cost of all the basic items (Azure Ore, Enhancement Ores, EXP books) is 7,880. The Enhancement Ores and EXP books are refreshed on a weekly basis.  
 
-    === Unique Gear Considerations
+    === "Unique Gear Considerations"
 
         - The major determining factor is where you are in the game. 
         - If you are still in Abyss 1-3, then the enhanced versions of the weapons are worth picking up. 
