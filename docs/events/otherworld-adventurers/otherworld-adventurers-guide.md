@@ -1,6 +1,6 @@
 ## Part 1 (Berkanan Route)
 
-The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-down have tabs, so that all the information you need for each run is in one place.  
+The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-downs have tabs, so all the information you need for each run is included in one place.
 
 ### Guides 
 
@@ -226,10 +226,10 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Currency"
         - As the event is limited the average currency per chest is higher than average, which makes it easier to clear the shop for everything but the unique gear.
         - Average currency per chest is 100-200 on B1F and B2f with an elevated rate of 200-250 on B3F.
-        - There does not appear to be any differences in currency drop rates between Parts I (Berkanan Route) and II (Ainikki Route). 
+        - There does not appear to be any differences in currency drop rates between Parts 1 (Berkanan Route) and 2 (Ainikki Route). 
 
     === "Junk" 
-        - 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Other factors that might play a role are currently being tested. 
+        - There are 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Other factors that might play a role are currently being tested. 
         - Each tier of junk comes in Basic, Common, and Fey versions. Fey junk is the only type with a chance at 4* purple gear. 
         - Junk Pool
             - Weapons: 1H and 2H swords, 1H rods, 2H staffs.
@@ -240,9 +240,6 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - Treasure is, unfortunately, only Azure.
 
 ??? note "Optimal Farming Routes" 
-
-    - Coming Soon. 
-
 
 ## Exchange Shop 
 
@@ -264,10 +261,10 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Unique Gear Considerations"
 
         - The major determining factor is where you are in the game. 
-        - If you are still in Abyss 1-3, then the enhanced versions of the weapons are worth picking up. 
+        - If you are still in Abyss 1-3, then the enhanced versions are worth picking up as a "bridging" weapon to A4. 
         - If you have cleared GWO 4-4 and plan to fight the Black Dragon superboss, then the Augmented Dragon Swords are recommended for both damage mitigation and higher DPS.  
         - The Saber is a Katana, so only relevant if you have a Samurai or plan to run one or more in the future.
-        - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill multiple times in a row as it will not be useable if she is at 1 HP. 
+        - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill multiple times in a row as it cannot be used if she is at 1 HP. 
 
 ??? note "Shop List"
 
