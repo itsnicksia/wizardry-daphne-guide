@@ -41,8 +41,8 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
     
         1. Watch the cutscene of Lulu asking for information about the first run. Select all the options.
         2. For the 2nd run to trigger properly you need to immediately go through the previously locked door on B1F using the Sahuagin's Key. If you save anyone before going through the door, then you will end up on the first run.
-        3. Save the 3 people on BF1 again. 
-        3. Save the 2 people on BF2 again, however this run they will be alive since you got there early via the shortcut.
+        3. Save the 3 people on B1F again. 
+        3. Save the 2 people on B2F again, however this run they will be alive since you got there early via the shortcut.
         4. Find Berkanan at the entrance to B3F, grab her body, and head down. If Berkanan's body is not appearing, then you missed saving one of the 5 people. 
         5. Same Fire Dragon event again, just dodge the fire.
         6. Head back to town to resurrect Berkanan. She is quite tall. If Berkanan does not get revived, then it means you exited prematurely and need to return and do the Fire Dragon event first on B3F.
@@ -97,47 +97,51 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
         - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
         - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
-### Maps
-
-??? map "Map BF1"
-    ![](img/sahuagin-cave-1.jpg)
-    
-??? map "Map BF2"
-    ![](img/sahuagin-cave-2.jpg)
-    
-??? map "Map BF3"
-    ![](img/sahuagin-cave-3.jpg)
-
-??? note "Unique Event Rewards"
+??? warning "Unique Event Rewards"
     ![](img/dragon-slayer.jpg)
     ![](img/trollkin-ring.jpg)
     ![](img/katana.jpg)
 
+### Maps
+
+??? map "Map B1F"
+    ![](img/sahuagin-cave-1.jpg)
+    
+??? map "Map B2F"
+    ![](img/sahuagin-cave-2.jpg)
+    
+??? map "Map B3F"
+    ![](img/sahuagin-cave-3.jpg)
+
 ## Part 2 (Ainikki Route)
-!!! warning "You will need to have cleared the Good ending (3rd Run) in order to unlock this part"
-!!! warning "Since the event has rerun, Silver tier versions of the Unique Event Rewards that can be bought from the shop and dropped from special junk. The gear can generate as high as Purple 4*. In addition, you may purchase 99 copies of each, so it's recommended to focus on these instead of the previous versions. Keep in mind the shop versions always generate as Blue 3*, so if you want a higher grade/quality, you will need to obtain it from junk."
+
+!!! warning "You will need to clear the best ending (3rd Run) of Part 1 (Ainikki Route) to unlock Part 2"
+
+Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Blackdragon Superboss fight in the Otherworld side dungeon zone. 
 
 ??? note "1st Run"
-    1. Head to B1F, take the shortcut door, and save the civilians as normal.
-    2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the Right Door (Ainikki Door) and enter through.
-    3. B2F will be a completely different map, and various portions of the walls will have the glitched textures. Halfway through the floor, you will encounter a Knight that needs help, and interacting with them will engage a fight the Fire Dragon from Part 1. Simply defeat it as normal. Remember to rescue the singular civilian on this floor.
-    4. Head to the stairs to B3F, and find Ainikki's body. Defeat the Sahuagins and pick up her body. Continue to B3F.
-    5. Head to the Dragon location, but this time find a Black Dragon instead of a Fire Dragon. It will fog up the entire room, causing you to retreat. Head back to the Royal Capital and resurrect Ainikki. She will be assisting at the temple after being resurrected.
-    6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
-    7. Head back to B3F and find your way back to the Black Dragon's Chamber. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up + possibly your device's screen brightness.
+
+    === "Guide" 
+        1. Head to B1F, take the shortcut door, and save the 3 people like in Part 1.
+        2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the right-hand door (Ainikki). If you select the left-hand door (Berkanan) you will be routed to Part 1. 
+        3. B2F will be a completely different map, and various portions of the walls will have a glitched texture. Halfway through the floor, you will encounter a Knight that needs help. Interacting with them will lead to a fight with the Fire Dragon from Part 1. If you opt to run away, then it will become a wandering mob. Remember to rescue the singular civilian on this floor.
+        4. Head to the stairs to B3F and find Ainikki's body. Defeat the Sahuagins and pick up her body. Continue to B3F. It is critical that you do not leave at this point or Ainikki will not be revived.
+        5. Head to where you previously fought the Red Dragon, but this time there will be a Black Dragon. It will fog up the entire room forcing you to retreat. Head back to the Royal Capital and resurrect Ainikki who will offer to assist at the Temple.
+        6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
+        7. Return to the Black Dragon's chamber on B3F. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up and possibly your device's screen brightness. If you are having trouble navigating the fog, then see the tabs for step-by-step directions.
+        8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath (deals extremely high damage). It is recommended to come with only the MC if possible.
+        9. You will have to cursed wheel and get Ainikki's help
+
+    === "Black Fog Directions"
     
-        ??? item "If you are having trouble with navigating through the fog, below are the exact steps to take when walking through it"
-            1. Start on tile (X:13, Y:17) facing the inner chamber.
-            2. Walk forward one, then turn right
-            3. Walk forward two, then turn left
-            4. Walk forward three, then turn left
-            5. Walk forward four, then turn right
-            6. Walk forward three, then turn right
-            7. Walk forward two, then turn left
-            8. Walk forward until dragon
-    
-    8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath (deals extremely high damage). It is recommended to come with only the MC if possible.
-    9. You will have to cursed wheel and get Ainikki's help
+        1. Start on tile (X:13, Y:17) facing the inner chamber.
+        2. Walk forward one, then turn right
+        3. Walk forward two, then turn left
+        4. Walk forward three, then turn left
+        5. Walk forward four, then turn right
+        6. Walk forward three, then turn right
+        7. Walk forward two, then turn left
+        8. Walk forward until dragon
 
 ??? note "2nd Run"
     1. Repeat the selection at B1F and save all civilians on B1F and B2F. On the second time around, you can choose to help or abandon the knight. Helping the knight will get you ambushed by the dragon, while abandoning will skip the fight entirely. Rescue Ainikki and resurrect her body at the temple.
