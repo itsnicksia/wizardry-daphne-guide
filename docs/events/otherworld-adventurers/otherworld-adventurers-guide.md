@@ -136,7 +136,9 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
     - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
     - Has the typical moveset of the Black Dragon such as Roar (stuns), Black Flame Breath (weakens), Claw, Tail Swipe, Morlis, etc.
+    - The dragon itself is dark element, and all of its melee attacks are dark element as well. As a result, it's highly recommended to equip various pieces of light armor if possible, along with using Augmented Dragonslayer if suitable.
     - The Bite attack of the Black Dragon can potentially do 4 digit damage.
+    - The dragon tends to alternate between using Roar + Breath in one set of 3 actions, and melee attacks + casting magic in another set of 3 actions.
     - The Black Dragon's Balafeos is extremely potent, as it'll drop your physical damage to around 10% of its original damage.
     - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked (not always) or Batilgref'd (consistent). It is recommended to try and slow the Dragon down with Batilgref and Scroll of Cascading Slowing.
     - The dragon can be debuffed, but it isn't consistent. It is also possible to apply status effects on this dragon, but it isn't consistent.
