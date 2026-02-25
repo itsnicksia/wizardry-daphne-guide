@@ -97,11 +97,6 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
         - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
         - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
-??? warning "Unique Event Rewards"
-    ![](img/dragon-slayer.jpg)
-    ![](img/trollkin-ring.jpg)
-    ![](img/katana.jpg)
-
 ### Maps
 
 ??? map "Map B1F"
@@ -117,7 +112,7 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
 ### Guides
 
-!!! warning "You will need to clear the best ending (3rd Run) of Part 1 (Ainikki Route) to unlock Part 2"
+!!! warning "To access Part 2 you will need to clear the best ending (3rd Run) of Part 1 (Ainikki Route)."
 
 Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Blackdragon Superboss fight in the Otherworld side dungeon zone. 
 
@@ -132,7 +127,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
         7. Return to the Black Dragon's chamber on B3F. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up and possibly your device's screen brightness. If you are having trouble navigating the fog, then see the tabs for step-by-step directions.
         8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath (deals extremely high damage). It is recommended to come with only the MC if possible.
-        9. You will have to cursed wheel and get Ainikki's help
+        9. You will have to reset the event to get Ainikki's help on the second run.
 
     === "Black Fog Directions"
     
@@ -168,7 +163,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - It is Dark element as its color suggests, and is weak to Light. Obviously, its breath is Dark-type damage.
         - The Dark Breath that it uses applies weaken on targets hits.
 
-### Post-game Black Dragon Superboss Variation:
+### Post-game Black Dragon Superboss Variation
 
 After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
 
@@ -191,12 +186,29 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
-## OtherWorld Adventurers II Exchange Shop 
+## Event Exchange Shop 
 
-- Accessed via the Jeweler > Exchange > Otherworld Adventurers II tab
-- Farming currency is called "Strange Angular Ore" and only available in the Sahuagin's Cave
-- A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25
-- Refreshed items cannot be missed as they are added as a separate item entry in the shop
+??? "Overview"
+
+    - Accessed via the Jeweler- Exchange under the Otherworld Adventurers II tab. The shop currency is called "Strange Angular Ore" and only available in the Sahuagin's Cave.
+    - A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25. Refreshed items cannot be missed as they are added as a separate item entry in the shop. Tables will be updated each week.
+
+??? "What Should I Buy?"
+
+    === Priority Items
+        - The most important items to purchase first are the two sets of codex books for a total cost of 32,500. The provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
+        - The Adventurer's Remains I and II and Gem of Org x200 should be picked up next. Note: An additional 3 Adventurer's Remains of each type are added as part of the weekly refresh. 
+        - Cones and Macones can be helpful for your MC, Iaramus, or your primary spellcaster. The only way to upgrade Halito is via the Jewler (Limited Time Offer - Daily) with purple gems. Mahalito is only from Asha's alternative style banner. The total cost for all the spell books is 30,000. 
+        - The total cost of all the basic items (Azure Ore, Enhancement Ores, EXP books) is 7,880. The Enhancement Ores and EXP books are refreshed on a weekly basis.  
+
+    === Unique Gear Considerations
+
+        - The major determining factor is where you are in the game. 
+        - If you are still in Abyss 1-3, then the enhanced versions of the weapons are worth picking up. 
+        - If you have cleared GWO 4-4 and plan to fight the Black Dragon superboss, then the Augmented Dragon Swords are recommended for both damage mitigation and higher DPS.  
+        - The Saber is a Katana, so only relevant if you have a Samurai or plan to run one or more in the future.
+        - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill multiple times in a row as it will not be useable if she is at 1 HP. 
+
 
 ### Unique Gear
 
@@ -209,6 +221,11 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 | Refined Saber           | 30,000  | 99  | -      | 
 | Trollkin Ring           | 10,000  | 3   | 30,000 |  
 | Exquisite Trollkin Ring | 20,000  | 99  | -      | 
+
+??? warning "Unique Gear +0 Stats"
+    ![](img/dragon-slayer.jpg)
+    ![](img/trollkin-ring.jpg)
+    ![](img/katana.jpg)
 
 ### Priority Items
 
