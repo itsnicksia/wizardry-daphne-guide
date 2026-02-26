@@ -45,3 +45,14 @@ Yoizou began sharpening his resolve. By weaving together the spellcraft of his a
 In the course of time, the noble lady grew into her womanly beauty, and a marriage proposal was formally brought before her House. The one who sought her hand was none other than Yoizou's old nemesis-the lord of House Urabe.  
 
 ### Page 5  
+Should the marriage be accepted, she would become a hostage within House Urabe. But should it be rejected, it would serve as a pretext for Urabe to invade.  
+
+"I will accept."  
+
+So spoke the noble lady, her voice ringing with stern resolve. In its cadence was the echo of that day long past, when Yoizou's sister gave her own life.  
+
+Yoizou, standing sentinel in the adjoining chamber, also made his resolve upon hearing the noble lady's words. He would enact vengeance upon Urabe and honor the obligation owed to the noble lady... Yoizou donned the guise of one of the noble lady's handmaidens and accompanied her bridal palanquin. At the bottom of the wardrobe within the palanquin, he had secreted arcane implements and a great store of blasting powder.  
+
+Only a handful of days after the princess was given in marriage, the Urabe estates were engulfed in flames. As the lord of the house sought flight through a secret passage, his path was barred by a lone elf in a lady's underrobe; steel whispered free from the elf's scabbard.  
+
+The great residence was utterly consumed by fire and not a single soul was spared. With the loss of its lord, Urabe's power disintegrated. It is told that Yoizou's lord raised a stone stele for the noble lady and Yoizou, and that their names were thereafter spoken as those of heroes who, with only the two of them, rode into the heart of the enemy and won undying renown.
