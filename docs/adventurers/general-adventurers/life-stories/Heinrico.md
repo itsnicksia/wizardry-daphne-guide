@@ -33,3 +33,14 @@ Attending to his father, who had eventually succumbed to his age and become conf
 Then, with a faint, tender smile upon his face, his father passed from the world.  
 
 ### Page 4  
+Heinrico now found himself alone in the world. He thought fondly of dwelling in the woods, yet he resolved that such a life could wait until his later years. Like his father before him, he resolved to wander the lands, traveling until the day his legs could carry him no further.  
+
+He had already traveled every corner of the land of his mother's birth. And now he bore the remains of his father. He had chosen where he would go next. To return his father's bones to their ancestral home, Heinrich boarded a ship, steering northward across the waters.  
+
+There, standing on the timbers of the deck, feeling the wash of the salt-laced sea wind upon him, and watching the slowly emerging silhouette of the great continent of Valeon, he found himself recalling the words his father had spoken.  
+
+"Never have I known a terror so profound as the Abyss."  
+
+Heinrico had been given knowledge of many things by his parents, yet the one thing he had never experienced firsthand was the Abyss. What he did not know he would see for himself. With a self-assurance born from knowledge made flesh and blood, and a faint fear of the unknown stirring in his heart, he set foot upon the continent of Valeon.  
+
+And so it was that Heinrico became an adventurer.  
