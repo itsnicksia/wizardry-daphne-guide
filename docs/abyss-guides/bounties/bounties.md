@@ -575,10 +575,10 @@
         - Appears at Bounty Rank ???
 
     === "Fight Details"
-        - HP: ???
+        - HP: 20k (can be captured after 15k; ~13k Dwarf Fighter; ~12k Elf Mage)
         - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
-        - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn.
-        - Ross has a lot of HP and will typically cover the backrow units. He is capturable after taking around 20k damage.
+        - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
+        - Backline can be confused with Kantios. Ross can be stunned. 
 
     === "Map Location"
         ![](./img/ross-the-twisted-knight-of-justice-loc.png)
