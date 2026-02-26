@@ -307,7 +307,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Unique Gear" 
     
         | Item | Cost | # Copies | Total Cost |
-        |:-----|:----:|:--------:|:-------------------:|
+        |:-----|----:|--------:|-------------------:|
         | Dragon Slayer           | 7,000   | 1   | 8,000  |  
         | Dragon Slayer           | 12,000  | 3   | 36,000 | 
         | Augmented Dragon Slayer | 24,000  | 99  | -      | 
@@ -324,7 +324,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Priority Items"
     
         | Item | Cost | # Copies | Total Cost |
-        |:-----|:----:|:--------:|:-------------------:|
+        |:-----|----:|--------:|-------------------:|
         | Codex of Learning               | 2,500   | 5 | 12,500 |  
         | Intermediate Codex of Learning  | 10,000  | 2 | 20,000 | 
         | Book of Halito Secrets          | 5,000   | 1 | 5,000  |  
@@ -339,7 +339,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Basic Items"
     
         | Item | Cost | # Copies | Total Cost |
-        |:-----|:----:|:--------:|:-------------------:|
+        |:-----|----:|--------:|-------------------:|
         | Azure Lustrous Ore              | 100   | 1  | 100   |  
         | Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
         | Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
