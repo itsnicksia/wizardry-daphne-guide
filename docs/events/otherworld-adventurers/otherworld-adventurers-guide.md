@@ -1,3 +1,6 @@
+!!! warning "Work In Progress"
+    - Ctrl + F5 to refresh for updates 
+
 ## Part 1 (Berkanan Route)
 
 The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-downs have tabs, so all the information you need for each run is included in one place.
