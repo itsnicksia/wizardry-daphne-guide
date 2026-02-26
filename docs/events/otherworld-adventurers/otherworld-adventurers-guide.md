@@ -241,6 +241,42 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
 ??? note "Optimal Farming Routes" 
 
+=== "Notes"
+
+    - It is not recommended to reset the entire event or wheel-in-place to reset the fixed chests on each floor. The additional time required wheeling, random chest placement, and excessive walking reduces the overall efficiency for both currency and junk. 
+    - B1F is the least efficient due to fewer respawning chest and higher mob density. 
+    - B3F is the most efficient, see tab for details. 
+
+=== "B3F (Ainikki Route)"
+
+    - Routing: Select B2F, grab nearby chests, go to B3F, kill all the enemies, exit, and repeat until you need to recover at the Inn.
+    - Most efficient route for currency and Luminous Fey junk (9.17% versus 5.3% for B1F and B2F). It is superior to farming B1F and/or B2F due to its small size, fixed mob density, easy enemies, and higher rates of both currency and Fey Luminaries junk. 
+    - Minimum of 9 enemies per run, but up to 11.  
+    - Enemy chest drop rate is ~50% or 4.5-5 chests, on average, per run. 
+    - Clear times will depend on your account's strength, but end game users have reported 4-6 minute clear times.
+    - Requires no Cursed Wheeling or resets. 
+    - See next tab for the auto-pathing map. 
+
+=== "B3F (Ainikki Route) Auto-Path Map"
+
+    ![](img/B3F-optimal-routing.png)
+
+    - Routing path consistently gets all enemies 95% of the time unless one gets stuck in a corner. 
+    - Easy to tweak as needed if you are encountering too many ambushes.  
+    - Once you are at the final checkmark (far left) you will need to auto-exit to ensure you take the northern path back to the exit. 
+
+=== "B3F (Berkanan Route)"
+
+    - If you cannot defeat the Red Dragon (Berkanan Route) to progress to Part 2, then the best farming spot will still be B3F. 
+    - The B3F Part 1 map is smaller and only includes 5 enemy encounters. Fewer enemies can be a positive if you are using all of your MP/SP to complete a single run since you may encounter a Scorpion Lady or Minotaur, which are tougher enemies.  
+
+=== "Data Testing"
+
+    - The majority of the data testing comes from our Discord members @slimwaldi, @liezeith, and @genosis who have collectively spent dozens of hours farming, tracking, and sharing their data. 
+    - Data covers roughly 8,000 junk collected across all 3 floors with and without wheeling-in-place to reset the fixed chests on each floor. 
+    - If you are interested in learning more about the methodology please see the #B&B Event Farming Data channel.
+    - Any major corrections or new findings please contact @lightbearer or post in the Discord channel above. 
+
 ## Exchange Shop 
 
 ??? note "Overview"
