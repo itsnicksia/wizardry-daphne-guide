@@ -1,137 +1,202 @@
-# Otherworld Adventurers
+!!! warning "Work In Progress"
+    - Ctrl + F5 to refresh for updates 
 
-## Guide for Part 1:
-!!! note "There is no difficulty mode for this Event Dungeon. The mobs will scale automatically to your level."
+## Part 1 (Berkanan Route)
 
-There is only one ending for this event, and is relatively quick to complete (if you are strong). It takes a minimum of three cursed wheel resets to complete entirely however.
+The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-downs have tabs, so all the information you need for each run is included in one place.
+
+### Guides 
 
 ??? note "1st Run"
-    1. Watch Cutscene in Event Tab.
-    2. Head to Adventurer's Guild in the Royal Capital.
-    3. Head to the event location, Sahuagin's Cave, via Edge of Town in the Royal Capital.
-    4. Find 3 people on B1F to save. Move to the next floor.
-    5. Find 2 people on B2F to save. They are dead already.
-    6. Find an extra burned body on the way to the next floor. It's Iarumas.
-    7. Go to the large, southern section of B3F, Fire Dragon will show up and start throwing fire everywhere (You may lag quite a bit at this part)
-    8. Move to the non-red tiles on the minimap asap or get killed instantly (do this 3 times).
-    9. Return to capital, watch cutscene, and then accept the Fire Dragon request at adventurer's guild, head to tavern to talk to Iarumas.
-    10. Head back to dungeon B3F, try to fight the dragon again, but you are unable to (this part is important)
-    11. Instead, now head to the sahuagin NPC on the minimap and kill them for a key.
-    12. You can now open previously locked doors. Move ahead to the side of the Dragon.
-    13. Have Iarumas distract the dragon and fight the dragon. However, it rages at the end and melts in the Magma.
-    14. Turn in the request and get basically nothing. Rewind time with Cursed Wheel.
 
-??? danger "Dragon Boss Fight Tips"
-    - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
-    - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
-    - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
-    - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
-    - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
-    - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
-    - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
-    - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
-    - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
-    - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
+    === "Guide"
+        1. Watch the cutscene in the Event tab (yellow shield in town menu).
+        2. Head to the Adventurer's Guild in the Royal Capital and accept the request to save the missing people.
+        3. Head to the event location, Sahuagin's Cave, via the Edge of Town in the Royal Capital.
+        4. Find 3 people on B1F to save. Their locations are shown on the map.
+        5. Find 2 people on B2F to save. They are dead already.
+        6. Find an extra burned body on the way to the next floor. It's Iarumas.
+        7. Go to the large, southern section of B3F. The Fire Dragon will show up and start throwing fire everywhere (you may lag quite a bit at this part).
+        8. Move to the non-red tiles on the minimap ASAP or get killed instantly (do this 3 times).
+        9. Return to the Royal Capital, watch the cutscene, accept the Fire Dragon request at the Adventurer's Guild, head to the Tavern, and talk to Iarumas.
+        10. Return to B3F, try to fight the dragon again, but you are unable to (this part is important).
+        11. Instead, now head to the sahuagin NPC on the minimap and kill them for the Sahuagin's Key.
+        12. You can now open previously locked doors. Take the previously locked path on B3F to reach the side of the dragon.
+        13. Select the option to have Iarumas serve as a distraction and complete the boss fight (see tab). However, it rages at the end and melts in the magma.
+        14. Turn in the request and get basically nothing. Use the Event button, select Cursed Wheel, and rewind time to reset everything.
+
+    === "Red Dragon Boss Fight"
+
+        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
+        - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
+        - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
+        - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
+        - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
+        - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
+        - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
+        - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+        - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
 ??? note "2nd Run"
-    1. Watch cutscene of Lulu looking for info. Select all the options.
-    2. Use the key to go through door on b1f. You can now save all the people without them dying now.
-    3. Find Berkanan at entrance to B3F, grab her body, and head down.
-    4. Same Fire Dragon event again, just dodge the fire.
-    5. Head back to town to resurrect Berkanan. She is quite tall.
-    6. Head to adventurers guild, turn in quest, get dragon quest, head to tavern and talk to Berkana and Iarumas.
-    7. Head to blacksmith, get request to pick up ore to make dragon slayer stuff.
-    8. Head to the 3 locations on the map below to obtain the ores for the Dragon Slayer sword.
-    9. Return to blacksmith to get sword, and then head back to the side tunnel to fight the dragon.
-    10. Dragon is successfully killed this time, but Berkanan is burned to death again.
-    11. Head back to town to turn in the request, and rewind time.
 
-??? note "Ore Locations for 2nd Run"
-    ![](img/sahuagin-cave-ore-locations.jpg)
+    === "Guide" 
+    
+        1. Watch the cutscene of Lulu asking for information about the first run. Select all the options.
+        2. For the 2nd run to trigger properly you need to immediately go through the previously locked door on B1F using the Sahuagin's Key. If you save anyone before going through the door, then you will end up on the first run.
+        3. Save the 3 people on B1F again. 
+        3. Save the 2 people on B2F again, however this run they will be alive since you got there early via the shortcut.
+        4. Find Berkanan at the entrance to B3F, grab her body, and head down. If Berkanan's body is not appearing, then you missed saving one of the 5 people. 
+        5. Same Fire Dragon event again, just dodge the fire.
+        6. Head back to town to resurrect Berkanan. She is quite tall. If Berkanan does not get revived, then it means you exited prematurely and need to return and do the Fire Dragon event first on B3F.
+        7. Head to the Adventurers Guild, turn in the request, accept the dragon request, go to the Tavern, and talk to Berkana and Iarumas.
+        8. Head to the Blacksmith and accept the request to collect the ore to make a Dragon Slayer sword.
+        8. Head to the 3 ore locations on the map (see tabs), which appear as shiny white stars.
+        9. Return to the Blacksmith and he will make the Dragon Slayer. Now go back to the 3F side tunnel to fight the Red Dragon. 
+        10. The Red Dragon is successfully killed this time, but Berkanan is still burned to death.
+        11. Return to town, turn in the request, and use the Event button to rewind time to find a way to save Berkanan from dying.
 
+    === "Ore Locations"
+    
+        ![](img/sahuagin-cave-ore-locations.jpg)
+
+    === "Red Dragon Boss Fight"
+
+        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
+        - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
+        - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
+        - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
+        - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
+        - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
+        - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
+        - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+        - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
+    
 ??? note "3nd Run"
-    1. Repeat everything from before up to the Blacksmith. This time you will ask for a shield as well.
-    2. Head to the 3 locations on the map to pick up the ore, along with the one extra location for the shield.
-    3. Return to blacksmith for the sword and shield to give to Berkanan.
-    4. Defeat the Dragon again and successfully kill without Berkanan dying.
-    5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
-    6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
-??? note "Ore Locations for 3nd Run"
-    ![](img/sahuagin-cave-ore-locations-2.jpg)
+    === "Guide" 
+        1. Repeat everything listed in the 2nd run up to the Blacksmith. This time you will ask for a shield as well.
+        2. Head to the 3 locations on the map to pick up the ore, along with the one extra location for the shield.
+        3. Return to blacksmith for the sword and shield to give to Berkanan.
+        4. Defeat the Dragon again and successfully kill without Berkanan dying.
+        5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
+        6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
-??? map "Map BF1"
+    === "Ore Locations"
+    
+        ![](img/sahuagin-cave-ore-locations-2.jpg)
+
+    === "Red Dragon Boss Fight"
+
+        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
+        - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
+        - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
+        - Evasion helps mitigate a lot of physical moves the dragon does, but requires a large amount (possibly 200+ for Steel Grade).
+        - Water elemental weapons and spells help deal more damage to the dragon. Water armor helps resist the fire breath.
+        - Cortu can mitigate some damage from the breath and magic, as Iarumas suggests, but as the dragon can sometimes go twice in a turn with mixed damage, it may not be enough alone.
+        - If your team has enough damage, consider using Knight's Defense to mitigate damage if your team's gear is not specced to deal with the dragon specifically
+        - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
+        - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
+
+### Maps
+
+??? map "Map B1F"
     ![](img/sahuagin-cave-1.jpg)
     
-??? map "Map BF2"
+??? map "Map B2F"
     ![](img/sahuagin-cave-2.jpg)
     
-??? map "Map BF3"
+??? map "Map B3F"
     ![](img/sahuagin-cave-3.jpg)
 
-??? note "Unique Event Rewards"
-    ![](img/dragon-slayer.jpg)
-    ![](img/trollkin-ring.jpg)
-    ![](img/katana.jpg)
+## Part 2 (Ainikki Route)
 
-## Guide for Part 2:
-!!! warning "You will need to have cleared the Good ending (3rd Run) in order to unlock this part"
-!!! warning "Since the event has rerun, Silver tier versions of the Unique Event Rewards that can be bought from the shop and dropped from special junk. The gear can generate as high as Purple 4*. In addition, you may purchase 99 copies of each, so it's recommended to focus on these instead of the previous versions. Keep in mind the shop versions always generate as Blue 3*, so if you want a higher grade/quality, you will need to obtain it from junk."
+### Guides
+
+!!! warning "To access Part 2 you will need to clear the best ending (3rd Run) of Part 1 (Ainikki Route)."
+
+Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Blackdragon Superboss fight in the Otherworld side dungeon zone. 
 
 ??? note "1st Run"
-    1. Head to B1F, take the shortcut door, and save the civilians as normal.
-    2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the Right Door (Ainikki Door) and enter through.
-    3. B2F will be a completely different map, and various portions of the walls will have the glitched textures. Halfway through the floor, you will encounter a Knight that needs help, and interacting with them will engage a fight the Fire Dragon from Part 1. Simply defeat it as normal. Remember to rescue the singular civilian on this floor.
-    4. Head to the stairs to B3F, and find Ainikki's body. Defeat the Sahuagins and pick up her body. Continue to B3F.
-    5. Head to the Dragon location, but this time find a Black Dragon instead of a Fire Dragon. It will fog up the entire room, causing you to retreat. Head back to the Royal Capital and resurrect Ainikki. She will be assisting at the temple after being resurrected.
-    6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
-    7. Head back to B3F and find your way back to the Black Dragon's Chamber. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up + possibly your device's screen brightness.
-    
-        ??? item "If you are having trouble with navigating through the fog, below are the exact steps to take when walking through it"
-            1. Start on tile (X:13, Y:17) facing the inner chamber.
-            2. Walk forward one, then turn right
-            3. Walk forward two, then turn left
-            4. Walk forward three, then turn left
-            5. Walk forward four, then turn right
-            6. Walk forward three, then turn right
-            7. Walk forward two, then turn left
-            8. Walk forward until dragon
-    
-    8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath (deals extremely high damage). It is recommended to come with only the MC if possible.
-    9. You will have to cursed wheel and get Ainikki's help
 
+    === "Guide" 
+        1. Head to B1F, take the shortcut door, and save the 3 people like in Part 1.
+        2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the right-hand door (Ainikki). If you select the left-hand door (Berkanan) you will be routed to Part 1. 
+        3. B2F will be a completely different map, and various portions of the walls will have a glitched texture. Halfway through the floor, you will encounter a Knight that needs help. Interacting with them will lead to a fight with the Fire Dragon from Part 1. 
+        4. Head to the stairs to B3F and find Ainikki's body. Defeat the Sahuagins and pick up her body. Continue to B3F. It is critical that you do not leave at this point or Ainikki will not be revived.
+        5. Head to where you previously fought the Red Dragon, but this time there will be a Black Dragon. It will fog up the entire room forcing you to retreat. Head back to the Royal Capital and resurrect Ainikki who will offer to assist at the Temple.
+        6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
+        7. Return to the Black Dragon's chamber on B3F. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up and possibly your device's screen brightness. If you are having trouble navigating the fog, then see the tabs for step-by-step directions.
+        8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath (deals extremely high damage). It is recommended to come with only the MC if possible.
+        9. You will have to reset the event to get Ainikki's help on the second run.
+
+    === "Black Fog Directions"
+    
+        - Start on tile (X:13, Y:17) facing the inner chamber.
+        - 1 step forward, then turn right
+        - 2 forward, then turn left
+        - 3 forward, then turn left
+        - 4 forward, then turn right
+        - 3 forward, then turn right
+        - 2 forward, then turn left
+        - Walk forward until you encounter the Black Dragon
+
+    === "B3F Map"
+    
+        ![](img/sahuagin-cave-ainikki-b3f.png)
+        
+        - Use in conjunction with the Black Fog Directions tab.
+        
 ??? note "2nd Run"
-    1. Repeat the selection at B1F and save all civilians on B1F and B2F. On the second time around, you can choose to help or abandon the knight. Helping the knight will get you ambushed by the dragon, while abandoning will skip the fight entirely. Rescue Ainikki and resurrect her body at the temple.
-    2. Turn in the request and accept the dragon slaying request again. Head to the Tavern and ask Iarumas for help. Leave the Adventurer's guild and ask Ainikki for help. This time, Iarumas will ask her to help as well.
-    3. Ainikki agrees, but requires equipment to defeat the dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
-    4. Head back to Blacksmith after obtaining the Ore and craft the Morningstar. Head back to defeat the Black Dragon in B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
-    5. Head back to the Adventurer's Guild to turn in the request. 
 
-??? map "B2F Ore Locations for 2nd Run of Ainikki Variation"
-    ![](img/sahuagin-ore-locations-ainikki-b2f.png)
+    === "Guide"
+        1. Save all the civilians on B1F and B2F per usual. 
+        2. When you encounter the Knight on B2F you now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map.
+        3. Repeat the same steps as before. Collect Ainikki's body at the stairs to B3F, view the Black Dragon spewing fog scene on B3F, retreat, exit, and Ainikki will be revived at the Temple.
+        4. Turn in the request and accept the dragon slaying request again. Head to the Tavern and ask Iarumas for help. Leave the Adventurer's Guild and ask Ainikki for help. This time, Iarumas will ask her to help as well.
+        5. Ainikki agrees, but requires equipment to defeat the Black Dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
+        6. Return to the Blacksmith and he will craft the Morningstar. 
+        7. Return to the Black Dragon on B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. See the tab for boss fight details. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
+        8. Head back to the Adventurer's Guild to turn in the request. 
+
+    === "B2F Ore Locations"
+        ![](img/sahuagin-ore-locations-ainikki-b2f.png)
+        
+    === "B3F Ore Locations"
+        ![](img/sahuagin-ore-locations-ainikki-b3f.png)
+
+    === "Black Dragon Boss Fight"
+        - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Copper Grade.
+        - It is Dark element as its color suggests, and is weak to Light. Obviously, its breath is Dark-type damage.
+        - The Dark Breath that it uses applies weaken on targets hits.
+
+### Maps
+
+Note that B2F and B3F are different for the Part 2 (Ainikki) route. 
+
+??? map "Map B1F"
+    ![](img/sahuagin-cave-1.jpg)
     
-??? map "B3F Ore Locations for 2nd Run of Ainikki Variation"
-    ![](img/sahuagin-ore-locations-ainikki-b3f.png)
-
-??? danger "Black Dragon Boss Fight Details"
-    - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Silver Grade.
-    - It is dark element as its color suggests, and is weak to light. Obviously, its breath is dark type damage.
-    - The dark breath that it uses applies weaken on targets hits.
-
-??? map "Sahuagin Cave B2F - Ainikki Variation"
+??? map "Map B2F"
     ![](img/sahuagin-cave-ainikki-b2f.png)
-
-??? map "Sahuagin Cave B3F - Ainikki Variation"
+    
+??? map "Map B3F"
     ![](img/sahuagin-cave-ainikki-b3f.png)
+
+
+### Black Dragon Superboss 
+
+!!! warning "Currently, there are many players that cannot access this fight even after clearing the second run. We suspect that there are other requirements, including being Copper Grade and/or A4 progression. It is possible that this fight was not level-scaled or is a bug that is yet to be fixed."
+
+
+After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
 
 ??? map "Otherworld Rift"
     ![](img/otherworld-rift.jpg)
 
-### Post-game Black Dragon Superboss Variation:
-
-After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
-
-??? danger "Black Dragon Superboss Fight Details"
+??? danger "Black Dragon Superboss Fight"
     ![](img/black-dragon-superboss.png)
 
     - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
@@ -147,13 +212,147 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
-## Farming The Event
+## Farming
 
-There are three major ways to farm the event, each with their own pros and cons. Use your own judgement to determine which gives you the highest currency over time ratio.
+??? note "Overview"
 
-* Map Reentry
-    * Farming the event in this manner simply involves entering the map, moving to all the chests you see, then harkening out. This has the least amount of dialogue and loading screens but also the least amount of chests.
-* Event Cursed Wheel
-    * This has you using the event cursed wheel to reset the map. This resets both static chests on the first two floors as well as the stationary enemy encounters that have a high likelihood of dropping chests. This option has the most amount of dialogue and loading screens but also gives the highest number of chests.
-* Main Cursed Wheel
-    * This route involves you taking the cursed wheel back to either `The King's Rescue` or `Return to the Capital` and reentering the event dungeon. This is a bit of a middle ground between the above two options, as it respawns the static chests but not the stationary enemy encounters. It has fewer loading screens than the Event Cursed Wheel route, but more than the Map Reentry.
+    === "Farming" 
+        - The Sahuagin's Cave is a solid farming location no matter where you are in the game. 
+        - A1-A3 Players
+            - Excellent grinding location for Fey junk that gives a chance at 4* purple gear.
+            - Luminaries junk can unlock while still in A3 for farming Silver-tier gear. 
+        - A4 Players
+            - The volume of Fey junk rivals that of Ship 2 farming. It's a solid place to stock up on extract fodder. 
+            - If your account needs 4* purple bases for basic gear it is easier to get since A4 is stingy with access to Fey junk. 
+            - If you have an OP account, then you are better off going back to farming Alabaster Wolf Den, Island of the Wailing Oni, and A4 Routes 10-11 for the current best-in-slot gear.  
+            
+    === "Currency"
+        - As the event is limited the average currency per chest is higher than average, which makes it easier to clear the shop for everything but the unique gear.
+        - Average currency per chest is 100-200 on B1F and B2f with an elevated rate of 200-250 on B3F.
+        - There does not appear to be any differences in currency drop rates between Parts 1 (Berkanan Route) and 2 (Ainikki Route). 
+
+    === "Junk" 
+        - There are 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Other factors that might play a role are currently being tested. 
+        - Each tier of junk comes in Basic, Common, and Fey versions. Fey junk is the only type with a chance at 4* purple gear. 
+        - Junk Pool
+            - Weapons: 1H and 2H swords, 1H rods, 2H staffs.
+            - Armor: Cloth and light armor for the head, hand, and feet. No heavy armor. 
+            - Accessories: Basic ring versions.
+            - Unique gear: The Saber is included as a potential drop in all tiers of junk at an increasing rate. The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
+        - Luminaries junk (highest tier) is Silver-only and includes all 3 versions of the enhanced unique gear. 
+        - Treasure is, unfortunately, only Azure.
+
+??? note "Optimal Farming Routes" 
+
+    === "Notes"
+    
+        - It is not recommended to reset the entire event or wheel-in-place to reset the fixed chests on each floor. The additional time required wheeling, random chest placement, and excessive walking reduces the overall efficiency for both currency and junk. 
+        - B1F is the least efficient due to fewer respawning chests versus B2F and higher mob density. 
+        - B3F is the most efficient, see tab for details. 
+    
+    === "B3F (Ainikki Route)"
+    
+        - Routing: Select B2F, grab nearby chests, go to B3F, kill all the enemies, exit, and repeat until you need to recover at the Inn.
+        - Most efficient route for currency and Luminaries Fey junk (9.17% versus 5.3% for B1F and B2F). It is superior to farming B1F and/or B2F due to its small size, fixed mob density, easy enemies, and higher rates of both currency and Fey Luminaries junk. 
+        - Minimum of 9 enemies per run, but up to 11.  
+        - Enemy chest drop rate is ~50% or 4.5-5 chests, on average, per run. 
+        - Roughly ~1,000 currency per run. 
+        - Clear times will depend on your account's strength, but end game users have reported 4-6 minutes per run.
+        - Requires no Cursed Wheeling or resets. 
+        - See next tab for the auto-pathing map. 
+    
+    === "B3F (Ainikki Route) Auto-Path Map"
+    
+        ![](img/B3F-optimal-routing.png)
+    
+        - Routing path consistently gets all enemies 95% of the time unless one gets stuck in a corner. 
+        - Easy to tweak as needed if you are encountering too many ambushes.  
+        - Once you are at the final checkmark (far left) you will need to auto-exit to ensure you take the northern path back to the exit. 
+    
+    === "B3F (Berkanan Route)"
+    
+        - If you cannot defeat the Red Dragon (Berkanan Route) to progress to Part 2, then the best farming spot will still be B3F. 
+        - The B3F Part 1 map is smaller and only includes 5 enemy encounters. Fewer enemies can be a positive if you are using all of your MP/SP to complete a single run since you may encounter a Scorpion Lady or Minotaur, which are tougher enemies.  
+    
+    === "Data Testing"
+    
+        - The majority of the data testing comes from our Discord members @slimwaldi, @liezeith, and @genosis who have collectively spent dozens of hours farming, tracking, and sharing their data. 
+        - Data covers roughly 8,000 junk collected across all 3 floors with and without wheeling-in-place to reset the fixed chests on each floor. 
+        - If you are interested in learning more about the methodology please see the #B&B Event Farming Data channel.
+        - Any major corrections or new findings please contact @lightbearer or post in the Discord channel above. 
+
+## Exchange Shop 
+
+??? note "Overview"
+
+    - Accessed via the Jeweler- Exchange under the Otherworld Adventurers II tab. The shop currency is called "Strange Angular Ore" and only available in the Sahuagin's Cave.
+    - A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25. 
+    - Refreshed items cannot be missed as they are added as a separate item entry in the shop. Tables will be updated each week.
+
+??? note "What Should I Buy?"
+
+    === "Priority Items"
+    
+        - The most important items to purchase first are the two sets of codex books for a total cost of 32,500. The provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
+        - The Adventurer's Remains I and II and Gem of Org x200 should be picked up next. Note: An additional 3 Adventurer's Remains of each type are added as part of the weekly refresh. 
+        - Cones and Macones can be helpful for your MC, Iaramus, or your primary spellcaster. The only way to upgrade Halito is via the Jewler (Limited Time Offer - Daily) with purple gems. Mahalito is only from Asha's alternative style banner. The total cost for all the spell books is 30,000. 
+        - The total cost of all the basic items (Azure Ore, Enhancement Ores, EXP books) is 7,880. The Enhancement Ores and EXP books are refreshed on a weekly basis.  
+
+    === "Unique Gear Considerations"
+
+        - The major determining factor is where you are in the game. 
+        - If you are still in Abyss 1-3, then the enhanced versions are worth picking up as a "bridging" weapon to A4. 
+        - If you have cleared GWO 4-4 and plan to fight the Black Dragon superboss, then the Augmented Dragon Swords are recommended for both damage mitigation and higher DPS.  
+        - The Saber is a Katana, so only relevant if you have a Samurai or plan to run one or more in the future.
+        - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill multiple times in a row as it cannot be used if she is at 1 HP. 
+
+??? note "Shop List"
+
+    === "Unique Gear" 
+    
+        | Item | Cost | # Copies | Total Cost |
+        |:-----|----:|--------:|-------------------:|
+        | Dragon Slayer           | 7,000   | 1   | 8,000  |  
+        | Dragon Slayer           | 12,000  | 3   | 36,000 | 
+        | Augmented Dragon Slayer | 24,000  | 99  | -      | 
+        | Saber                   | 5,000   | 3   | 15,000 |  
+        | Refined Saber           | 30,000  | 99  | -      | 
+        | Trollkin Ring           | 10,000  | 3   | 30,000 |  
+        | Exquisite Trollkin Ring | 20,000  | 99  | -      | 
+        
+        ??? warning "Unique Gear +0 Stats"
+            ![](img/dragon-slayer.jpg)
+            ![](img/trollkin-ring.jpg)
+            ![](img/katana.jpg)
+
+    === "Priority Items"
+    
+        | Item | Cost | # Copies | Total Cost |
+        |:-----|----:|--------:|-------------------:|
+        | Codex of Learning               | 2,500   | 5 | 12,500 |  
+        | Intermediate Codex of Learning  | 10,000  | 2 | 20,000 | 
+        | Book of Halito Secrets          | 5,000   | 1 | 5,000  |  
+        | Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
+        | Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
+        | Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
+        | Adventure's Remains I*          | 800     | 6 | 4,800  |  
+        | Adventure's Remains II*         | 800     | 6 | 4,800  |  
+        | Gem of Org x200                 | 1,500   | 1 | 1,500  |  
+        | Total Cost                      |         |   | 73,600 |  
+
+    === "Basic Items"
+    
+        | Item | Cost | # Copies | Total Cost |
+        |:-----|----:|--------:|-------------------:|
+        | Azure Lustrous Ore              | 100   | 1  | 100   |  
+        | Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
+        | Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
+        | Fine Grade Ore*                 | 200   | 10 | 2,000 |  
+        | High Grade Ore*                 | 100   | 10 | 1,000 |  
+        | Mid Grade Ore*                  | 75    | 10 | 750   |  
+        | Low Grade Ore*                  | 50    | 10 | 500   |  
+        | Clock Tome of the Finesser*     | 50    | 10 | 500   |  
+        | Clock Tome Volume*              | 3     | 10 | 30    |  
+        | Total Cost                      |       |    | 7,880 |  
+
+
