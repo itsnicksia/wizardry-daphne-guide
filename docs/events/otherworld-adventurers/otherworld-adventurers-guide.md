@@ -168,7 +168,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         ![](img/sahuagin-ore-locations-ainikki-b3f.png)
 
     === "Black Dragon Boss Fight"
-        - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Silver Grade.
+        - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Copper Grade.
         - It is Dark element as its color suggests, and is weak to Light. Obviously, its breath is Dark-type damage.
         - The Dark Breath that it uses applies weaken on targets hits.
 
