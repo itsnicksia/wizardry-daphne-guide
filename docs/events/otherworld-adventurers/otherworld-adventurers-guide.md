@@ -143,7 +143,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - 2 forward, then turn left
         - Walk forward until you encounter the Black Dragon
 
-    === "BF3 Map"
+    === "B3F Map"
     
         ![](img/sahuagin-cave-ainikki-b3f.png)
         
@@ -247,16 +247,17 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Notes"
     
         - It is not recommended to reset the entire event or wheel-in-place to reset the fixed chests on each floor. The additional time required wheeling, random chest placement, and excessive walking reduces the overall efficiency for both currency and junk. 
-        - B1F is the least efficient due to fewer respawning chest and higher mob density. 
+        - B1F is the least efficient due to fewer respawning chests versus B2F and higher mob density. 
         - B3F is the most efficient, see tab for details. 
     
     === "B3F (Ainikki Route)"
     
         - Routing: Select B2F, grab nearby chests, go to B3F, kill all the enemies, exit, and repeat until you need to recover at the Inn.
-        - Most efficient route for currency and Luminous Fey junk (9.17% versus 5.3% for B1F and B2F). It is superior to farming B1F and/or B2F due to its small size, fixed mob density, easy enemies, and higher rates of both currency and Fey Luminaries junk. 
+        - Most efficient route for currency and Luminaries Fey junk (9.17% versus 5.3% for B1F and B2F). It is superior to farming B1F and/or B2F due to its small size, fixed mob density, easy enemies, and higher rates of both currency and Fey Luminaries junk. 
         - Minimum of 9 enemies per run, but up to 11.  
         - Enemy chest drop rate is ~50% or 4.5-5 chests, on average, per run. 
-        - Clear times will depend on your account's strength, but end game users have reported 4-6 minute clear times.
+        - Roughly ~1,000 currency per run. 
+        - Clear times will depend on your account's strength, but end game users have reported 4-6 minutes per run.
         - Requires no Cursed Wheeling or resets. 
         - See next tab for the auto-pathing map. 
     
