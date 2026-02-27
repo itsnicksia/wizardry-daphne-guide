@@ -10,17 +10,16 @@
 
 ## Overview
 
-There are two endings: 
+??? note "Endings" 
+    - The First Run ("trigger the traps") leads to the Bad ending
+    - The Second Run ("disarm the traps") leads to the True ending
+    - The Guide provides directions for both runs on a per map (floor) basis
 
-- The First Run ("trigger the traps") leads to the Bad ending
-- The Second Run ("disarm the traps") leads to the True ending
-- The Guide provides directions for both runs on a per map (floor) basis
+??? note "Important Notes"
 
-Other: 
-
-- The enemy level scales with MC's Grade
-- Large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC
-- Total of 4 floors with Harkens on B1-3F, so you can clear each floor and return to the Inn before tackling the next one
+    - The enemy level scales with MC's Grade
+    - Large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC
+    - Total of 4 floors with Harkens on B1-3F, so you can clear each floor and return to the Inn before tackling the next one
 
 ## Guides
 
