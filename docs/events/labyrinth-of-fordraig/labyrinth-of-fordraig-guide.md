@@ -12,11 +12,11 @@
 
 There are two endings: 
 
-- The First Run ("triggers the traps") leads to the Bad ending
+- The First Run ("trigger the traps") leads to the Bad ending
 - The Second Run ("disarm the traps") leads to the True ending
 - The Guide provides directions for both runs on a per map (floor) basis
 
-Other notes: 
+Other: 
 
 - The enemy level scales with MC's Grade
 - Large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC
@@ -30,8 +30,8 @@ Other notes:
 
     ![](img/labyrinthB1.jpg)
 
-- First Run - You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
-- Second Run - The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
+- First Run: You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
+- Second Run: The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
 
 ### B2F
 
@@ -39,8 +39,8 @@ Other notes:
 
     ![](img/labyrinthB2.jpg)
 
-- First Run - You end up on the bottom left half of the map from the portal trap on the first floor. You have to navigate the spike trap to the red "X" to open the next door. 
-- Second Run - The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off .
+- First Run: You end up on the bottom left half of the map from the portal trap on the first floor. You have to navigate the spike trap to the red "X" to open the next door. 
+- Second Run: The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off .
 
 ### B3F
 
@@ -48,8 +48,8 @@ Other notes:
 
     ![](img/labyrinthB3.jpg)
 
-- First Run - The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger.
-- Second Run - The yellow arrow map icon (MC's location) is your next step. Note that on a first run you will encounter another fight. On your second run with the dagger in your inventory it will activate a portal that takes you to B4F.
+- First Run: The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger.
+- Second Run: The yellow arrow map icon (MC's location) is your next step. Note that on a first run you will encounter another fight. On your second run with the dagger in your inventory it will activate a portal that takes you to B4F.
 
 ### B4F
 
@@ -67,38 +67,40 @@ Other notes:
 
 ## Farming
 
-There are two options. 
-
 ### Cursed Wheel
 
 Use the Cursed Wheel to reset the request after completion and then complete the second run (True Ending) of the request.
 
-1. You farm junk from the miniboss and boss chests.
-2. You get to farm up potentially perfect Horned Eagle Swords
+- You farm junk from the miniboss and boss chests.
+- You get to farm up potentially perfect Horned Eagle Swords
 
 ![](img/good-horned-eagle-sword.jpg)
 
 ### Farm B4F Only 
-1. You get to farm junk.
-2. You get a lot more event currency than the Curse Wheel option.
+
+- You get to farm junk.
+- You get a lot more event currency than the Curse Wheel option.
 
 ## Rewards
 
 ### Exclusive Event Equipment
 
-#### Horned Eagle Sword
-![](img/horned-eagle-sword.jpg)
+??? note "Horned Eagle Sword" 
 
-1. This sword is guaranteed to be a 3 Star Blue Rarity drop at 2/3 Strength Level
-2. This sword has elemental weapon base damage. 
-3. Magical Beasts are very common in the past Old Castle Event and the latter zones.
+    ![](img/horned-eagle-sword.jpg)
+    
+    - This sword is guaranteed to be a 3 Star Blue Rarity drop at 2/3 Strength Level
+    - This sword has elemental weapon base damage. 
+    - Magical Beasts are very common in the past Old Castle Event and the latter zones.
 
-#### Featherbronze Gauntlet
-![](img/featherbronze-gaunlet.jpg)
+??? note "Featherbronze Gauntlet" 
 
-1. Light Gauntlets
-2. Bind Tolerance Up
-3. Comes from the Event Shop or from Junk Drops From the Event
+    ![](img/featherbronze-gaunlet.jpg)
+
+    - Light Gauntlets
+    - Bind Tolerance Up
+    - Comes from the Event Shop or from Junk Drops From the Event
+
 
 ### High Rarity Junk
 
