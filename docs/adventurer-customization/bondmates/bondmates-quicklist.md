@@ -62,7 +62,7 @@
 | Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
 |:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:----------|:-------|:-------|
 | [Bernard, Father Restored to Life](./isberg/bondmates.md#bernard-father-restored-to-life)              | Side Quest      | Admiral 2nd Faction Quest                     | Magic Power                    | Water   | 5         |        |        |
-| [Bigfoot's Offspring](./isberg/bondmates.md#bigfoots-offspring)                                        | Side Quest      | Recovery of Salted Pork                       | Accuracy                       | Null    | 5         | 10     |        |
+| [Bigfoot's Offspring](./isberg/bondmates.md#bigfoots-offspring)                                        | Side Quest      | Recovery of Salted Pork                       | Accuracy                       | Void    | 5         | 10     |        |
 | [Drunken Drunkard](./isberg/bondmates.md#drunken-drunkard)                                             | Main Quest      | Drink with him until you are drunk            | Confusion Tolerance            | Water   | 1         |        |        |
 | [Elliot, the Lamenting Brother](./isberg/bondmates.md#elliot-the-lamenting-brother)                    | Side Quest      | Princess 2nd Faction Quest                    | Attack Power                   | Air     | 5         |        |        |
 | [Exquisite Jewel Trout](./isberg/bondmates.md#exquisite-jewel-trout)                                   | Side Quest      | Special Local Delicacy                        | HP                             | Water   | 5         |        |        |
@@ -79,4 +79,5 @@
 |:----------------|:----------------------------|:--------------|:------------------|:--------|:----------|:-------|:-------|
 | Mischievous Pan | Pixie and the Secret Garden | True Ending 4 | Magic Power   | Air   | 5         | 12     |        |
 | Willful Theo    | Pixie and the Secret Garden | True Ending 3 | Poison Tolerance     | Earth     | 5         | 20     |        |
+| Kanosuke, the Loyal Samurai | Vendetta on the Island of the Wailing Oni | True Ending | Bind Tolerance     | Water     | 5         |        |        |
 
