@@ -349,7 +349,8 @@
         - HP: ???
         - Spawns as a Corrosion Eye by itself.
         - It can move three times per turn.
-        - Can be easily cheesed with MC Ninja crit fishing.
+        - As the Boss does Dark Element damage, it is not recommended to bring a light element character as they will be killed easily. 
+        - The strategy [Ninja Crit Fishing](../../strategies/combat-strategies.md#ninja-crit-fishing) can be utilized to great effect to kill this bounty and save some time. Recommended aspd > ~80.
 
     === "Map Location"
         ![](./img/ecstatic-blazing-eye-loc.png)
@@ -511,9 +512,10 @@
         - 16400 Gold Reward
         - 500 Token Reward
         - Appears at Bounty Rank 10
+        - Requires A3 True Ending
 
     === "Fight Details"
-        - HP: ???
+        - HP: 11-14k (~10k for each Knight)
         - Spawns with 3 Human Knight Adventurers in the front row. She will be in the backrow.
         - She moves twice per turn and will cast Healing skills/debuffs/AOE magic.
         - The Knights have a very high chance to defend a hit on Mellie.
@@ -531,9 +533,10 @@
         - 17000 Gold Reward
         - 800 Token Reward
         - Appears at Bounty Rank 11
+        - Requires A3 True Ending
 
     === "Fight Details"
-        - HP: ???
+        - HP: ~13.5k (~8.5k Right Necrocore; ~9.5k Left Necrocore)
         - Spawns with 2 Necrocores in the front row. The necromancer will be in the back row.
         - Can randomly cast Lazelos.
         - When both Necrocores are dead, he can summon skeletons like a typical necromancer.
@@ -552,6 +555,7 @@
         - 18900 Gold Reward
         - 1200 Token Reward
         - Appears at Bounty Rank 12
+        - Requires A3 True Ending
 
     === "Fight Details"
         - HP: 57k-60k
@@ -559,6 +563,8 @@
         - He only spams Frenzied Strike, which gives him a permanent undispellable CT buff. This attack can target his own allies as well. The attack is wind element.
         - This attack is extremely strong and can even one shot backline units if they are not defending/using knight's defense.
         - It is recommended if you are not strong enough to kill him in a timely manner with Knight's Defense spamming to simply cast Batilgref and defend to take advantage of opening damage.
+        - The Succubi aspd ranges from 70-100. If they are causing charming issues, try stacking an aspd mage with at least 100 aspd and casting [Kantios](../../appendices/skills-and-spells/skills-and-spells.md#active-skills) on them.
+        - The strategy [Ninja Crit Fishing](../../strategies/combat-strategies.md#ninja-crit-fishing) can be utilized to kill this bounty target. Keep in mind, even if you kill the cyclops you will have to deal with the remaining mobs. Recommended aspd > ~90.
 
     === "Map Location"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
