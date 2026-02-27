@@ -3,7 +3,9 @@
 !!! warning "Page has been updated. Ctrl + F5 to refresh."
 
 ## Unlock Conditions
-You need to have progressed in the story until completing the Second Abyss for the first time, and then accepting the quest that appears in the Royal Capital's Adventurers Guild. After accepting the quest, a new location will be available on the World Map.
+- Full clear of Abyss 2 on any faction route
+- Request is located at Royal Capital Luknalia in the Adventurer's Guild > Requests > Featured
+- Once accepted go to the World Map and you will see a new location called the Labyrinth of Fordaig located north-northwest of the Royal Capital 
 
 ## Overview
 
