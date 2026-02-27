@@ -104,7 +104,7 @@ Saved the Duke and apprehended the mastermind.
 
 !!! warning "Caution" 
     - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
-    
+
 4. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
 5. Travel to Royal Capital Luknalia and gamble with the swindlers. If you win, you gain mastermind items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You want to make them bet first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
 6. Head back to the masterminds's room and solve the Statue Puzzle from the hints on the floor. You do this by stepping on the rubble in the corner of the mastermind's room, which will give you a random hint for the Statue Puzzle. This is similar to the statue puzzle in Abyss 1.
