@@ -27,7 +27,11 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
     === "Red Dragon Boss Fight"
 
-        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - The boss fight scales with the MC's Grade. 
+            - Steel and Iron = 15K HP (Steel may be slightly higher, under verification)
+            - Bronze = 7.5K HP
+            - Lead = 5.5K HP
+            - No Grade = ?
         - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
         - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
         - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
@@ -62,7 +66,11 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
     === "Red Dragon Boss Fight"
 
-        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - The boss fight scales with the MC's Grade. 
+            - Steel and Iron = 15K HP (Steel may be slightly higher, under verification)
+            - Bronze = 7.5K HP
+            - Lead = 5.5K HP
+            - No Grade = ?
         - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
         - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
         - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
@@ -89,7 +97,11 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
     === "Red Dragon Boss Fight"
 
-        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - The boss fight scales with the MC's Grade. 
+            - Steel and Iron = 15K HP (Steel may be slightly higher, under verification)
+            - Bronze = 7.5K HP
+            - Lead = 5.5K HP
+            - No Grade = ?
         - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
         - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
         - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
