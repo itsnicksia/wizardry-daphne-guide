@@ -58,10 +58,10 @@
 
 !!! warning "This floor is not accessible on a first run." 
 
-- The blue "x" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located directly south of your starting location. 
+- The blue "X" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located directly south of your starting location. 
 - Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).
 - After the boss fight collect all three chests (highlighted in yellow) in the area behind him, one of which has the event item needed to complete the request.
-- The portal below MC's location (yellow arrow) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.
+- The portal below MC's location (yellow arrow icon on map) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.
 - There is no Harken on this floor and have to go back to the Blue X Portal to Exit.
 
 ## Farming
