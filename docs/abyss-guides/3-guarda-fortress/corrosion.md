@@ -60,7 +60,8 @@
             - "Spotted" at least once
             - "Not Spotted" at least once
             - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
-
+        - Any corrosion sentry you have registered is permanently saved on your account and will appear as a toggle if you run a different faction. They only need to be registered once! 
+        
     === "Flags" 
 
         ??? warning "Flag Definitions"
