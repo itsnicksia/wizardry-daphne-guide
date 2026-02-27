@@ -1,5 +1,7 @@
 # Labyrinth Of Fordraig Guide
 
+!!! warning "Page has been updated. Ctrl + F5 to refresh."
+
 ## Unlock Conditions
 You need to have progressed in the story until completing the Second Abyss for the first time, and then accepting the quest that appears in the Royal Capital's Adventurers Guild. After accepting the quest, a new location will be available on the World Map.
 
