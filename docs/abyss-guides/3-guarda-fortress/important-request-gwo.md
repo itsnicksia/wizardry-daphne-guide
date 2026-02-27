@@ -87,29 +87,27 @@ Saved the Duke and apprehended the mastermind.
 
 #### Requirements
 1. Successfully saved Duke Ixion in a previous run.
-2. Meet the Duke's party.
-3. Save Liam and notify Alan when meeting the Duke's party.
-4. Give "Mastermind Evidence" to Clemente.
-5. Defeat the Greater Warped One of the Guarda Fortress Abyss.
-6. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
+2. Save Liam and notify Alan when meeting the Duke's party.
+3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
+4. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
 
 #### Walkthrough
 
-!!! warning "Key Items" 
+!!! warning "Proceeding With Caution" 
+    - It is possible to do a zero corruption run during this run. Keep in mind the note about no corruption runs, this is much more difficult. 
+    - At some point when returning to town, before interacting with the Duke's party, save Liam. 
     - Do not approach the Duke's party until you have all required key items. If you do, before you have the necessary items, you will need to cursed wheel back. Check key items to ensure you have everything, then proceed.
+    - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
 
-1. Warp to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon.
-2. Warp to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
+1. Progress (or warp if you can) to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon, he will give you a secret password (you don't need to remember it).
+2. Progress (or warp if you can) to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
 3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key. (It is not necessary to enter Elequon's room)
-
-    !!! warning "Caution" 
-          - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
-
-4. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
-5. Travel to Royal Capital Luknalia and gamble with the swindlers. If you win, you gain mastermind items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You want to make them bet first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
-6. Head back to the masterminds's room and solve the Statue Puzzle from the hints on the floor. You do this by stepping on the rubble in the corner of the mastermind's room, which will give you a random hint for the Statue Puzzle. This is similar to the statue puzzle in Abyss 1.
-7. Head to the Duke's room and give the evidence to Clemente. 
-8. Defeat the Greater Warped One.
+4. Head to Zone 10 and enter the previously locked room (the room opposite of the room containing the Teleporter that takes you back to Zone 9's Harken) and interact with all the items inside. You can get an achievement for disregarding Lulunarde's warnings.
+5. After interacting with all the shinies in the mastermind's room, take the teleporter in the mastermind's room, then take the teleporter in the room it takes you to. Take the Harken back to town (if you haven't saved Liam this is a good time to) then travel to Royal Capital Luknalia and gamble with the swindlers. They will con you with a different game this time. If you lose the gamble you can choose to attack them and if you win, you gain the mastermind's items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You want to make them bet first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
+6. Head back to the masterminds's room to get a clue on how to solve the puzzle ahead. You receive the clue by stepping on the rubble in the corner of the mastermind's room, which will give you a random hint for the Statue Puzzle (take note of this or put effort into remembering it). Proceed towards the Duke's party. As you make your away around the patrolling enemies you will find half of the statues in one room and the other half in the next room as you follow their patrol path. Note the direction the busts are facing. This is similar to the statue puzzle in Abyss 1. 
+7. Once solved, head to the Duke's party and give the evidence to Clemente. 
+8. Notify Liam's parents of their child's whereabouts. 
+9. Defeat the Greater Warped One.
 
 #### Rewards
 
