@@ -3,18 +3,21 @@
 !!! warning "Page has been updated. Ctrl + F5 to refresh."
 
 ## Unlock Conditions
+
 - Full clear of Abyss 2 on any faction route
 - Request is located at Royal Capital Luknalia in the Adventurer's Guild > Requests > Featured
-- Once accepted go to the World Map and you will see a new location called the Labyrinth of Fordaig located north-northwest of the Royal Capital 
+- Once accepted go to the World Map and you will see a new location called the Labyrinth of Fordaig located north-northwest of the Royal Capital
 
 ## Overview
 
-There are two endings to this event:
-- The First Run ("trigger the traps"), which leads to the Bad ending 
-- The Second Run ("disarm the Traps"), which leads to the True ending
-- The Guide provides directions for each floor on a per map basis
+There are two endings: 
 
-Other:
+- The First Run ("triggers the traps") leads to the Bad ending
+- The Second Run ("disarm the traps") leads to the True ending
+- The Guide provides directions for both runs on a per map (floor) basis
+
+Other notes: 
+
 - The enemy level scales with MC's Grade
 - Large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC
 - Total of 4 floors with Harkens on B1-3F, so you can clear each floor and return to the Inn before tackling the next one
@@ -23,44 +26,44 @@ Other:
 
 ### B1F
 
-??? map "B1F" 
+??? map "Map B1F" 
 
     ![](img/labyrinthB1.jpg)
 
-1. First Run - You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
-2. Second Run - The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
+- First Run - You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
+- Second Run - The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
 
 ### B2F
 
-??? map "B2F" 
+??? map "Map B2F" 
 
     ![](img/labyrinthB2.jpg)
 
-1. First Run - You end up on the bottom left half of the map from the portal trap on the first floor. You have to navigate the spike trap to the red "X" to open the next door. 
-3. Second Run - The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off .
+- First Run - You end up on the bottom left half of the map from the portal trap on the first floor. You have to navigate the spike trap to the red "X" to open the next door. 
+- Second Run - The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off .
 
 ### B3F
 
-??? map "B3F"
+??? map "Map B3F"
 
     ![](img/labyrinthB3.jpg)
 
-1. First Run - The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger.
-2. Second Run - The yellow arrow map icon (MC's location) is your next step. Note that on a first run you will encounter another fight. On your second run with the dagger in your inventory it will activate a portal that takes you to B4F.
+- First Run - The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger.
+- Second Run - The yellow arrow map icon (MC's location) is your next step. Note that on a first run you will encounter another fight. On your second run with the dagger in your inventory it will activate a portal that takes you to B4F.
 
 ### B4F
 
-??? map "B4F" 
+??? map "Map B4F" 
 
     ![](img/labyrinthB4.jpg)
 
-warning! "This floor is not accessible on a first run." 
+!!! warning "This floor is not accessible on a first run." 
 
-1. The blue "x" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located directly south of your starting location. 
-2. Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).
-3. The yellow highlights are where three chests are located, one of which has the event item needed to complete the request.
-4. The portal below MC's location (yellow arrow) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.
-5. There is no Harken on this floor and have to go back to the Blue X Portal to Exit.
+- The blue "x" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located directly south of your starting location. 
+- Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).
+- After the boss fight collect all three chests (highlighted in yellow) in the area behind him, one of which has the event item needed to complete the request.
+- The portal below MC's location (yellow arrow) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.
+- There is no Harken on this floor and have to go back to the Blue X Portal to Exit.
 
 ## Farming
 
