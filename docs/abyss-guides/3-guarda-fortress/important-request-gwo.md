@@ -103,7 +103,7 @@ Saved the Duke and apprehended the mastermind.
 3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key. (It is not necessary to enter Elequon's room)
 
     !!! warning "Caution" 
-        - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
+          - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
 
 4. Head to Zone 10 and enter the room across the room containing the Teleporter and interact with all the items inside.
 5. Travel to Royal Capital Luknalia and gamble with the swindlers. If you win, you gain mastermind items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You want to make them bet first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
