@@ -3,12 +3,12 @@
 ## Surety
 There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit. Dexterity contributes to Surety at a rate of 5 Dex = 1 Surety.
 
-By default, a sure hit acts as a 80% damage increase to the final damage you deal.
+By default, a sure hit acts as a 75% damage increase to the final damage you deal.
 
 !!! note
     Increasing your surety value does NOT increase the sure hit damage.
 
-The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.8` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
+The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.75` to `1.95`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
 
 !!! note
     Despite what was previously assumed, spells can deal Sure Hits. Most spells seem to have a very large innate negative surety value, which makes this hard to achieve. We're currently assuming it's something like -100 surety, however some spells like `TZALIK` and `True Words of Fire` appear to have a higher (possibly 0 or positive) innate surety value. We have been able to confirm that an MC Mage casting CONES is still able to land a sure hit, though, so spell surety is NOT specific to just `TZALIK` and `True Words`.
@@ -134,7 +134,7 @@ As an example, suppose you meet the following criteria:
 * You have changed your MC's type to Earth
 * You are attacking a Water enemy
 
-In this scenario, your `200` damage would become `200 * 1.1 * 1.1 * 1.1 * 1.3 * 1.25 ~= 436`. If you went on to land a sure hit, that damage would instead become `872`. Lastly, if you happened to land that sure hit on a sleeping enemy, you would be looking at `1744` damage with a simple basic attack.
+In this scenario, your `200` damage would become `200 * 1.1 * 1.1 * 1.1 * 1.3 * 1.25 ~= 436`. If you went on to land a sure hit, that damage would instead become `851`. Lastly, if you happened to land that sure hit on a sleeping enemy, you would be looking at `1702` damage with a simple basic attack.
 
 This will increase even further as you factor in the damage from skills, attack power buffs, defense debuffs, and defense penetration/ignore.
 
