@@ -9,10 +9,10 @@
 
 The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause. 
 
-- Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia
-- Go to the Guild, speak with Arna, and accept the invitation
-- If you decline, then to accept the request in the future select "Talk" in the Guild
-- All of the faction requests take place in Elden Hill Village and share the same map  
+- Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia.
+- Go to the Guild, Arna will ask if you want to meet with the faction representative, accept, and you will be taken to their location to watch a short cutscene. If this does not happen, then select the "Talk" option in the Guild menu. 
+- If you decline, then to accept the request in the future select "Talk" in the Guild.
+- All of the faction requests take place in Elden Hill Village and share the same map (The Witch's Cave).  
 
 !!! warning "Important Notes"
 
