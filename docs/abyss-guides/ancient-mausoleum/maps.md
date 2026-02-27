@@ -1,6 +1,6 @@
 # Ancient Mausoleum  
 
-!!! note "As of Jan 2025 the Mausoluem map no longer forgets previous expoloration. It still obscures tiles until you enter them, but the revealed space remembers past progress. This lets you set checkmarks and can greatly speed bone collection."
+!!! note "As of Jan 2026 the Mausoluem map no longer forgets previous expoloration. It still obscures tiles until you enter them, but the revealed space remembers past progress. This lets you set checkmarks and can greatly speed bone collection."
 
 !!! note "As of Oct 2025 the Fortitude-reducing entry traps are no longer at Mausoleum entrances removing original concerns related to Fortitude-loss, visit rationing, and increased ally revival risk."
 
