@@ -23,9 +23,8 @@ Other:
 
     ![](img/labyrinthB1.jpg)
 
-1. ~~Red X is the location of the Altar where you can change the difficulty level of the event. The difficulty level determines mob enemy level in exchange for more event currency drops from the enemy chests drops. It also affects drop rate of the higher end junk.~~ This Event no longer has a difficulty setting and scales to your team.
-2. First Run - You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
-3. Second Run - The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
+1. First Run - You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
+2. Second Run - The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
 
 ### B2F
 
