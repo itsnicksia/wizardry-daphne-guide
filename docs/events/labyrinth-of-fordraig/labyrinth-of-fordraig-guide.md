@@ -21,7 +21,7 @@
     - Large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC
     - Total of 4 floors with Harkens on B1-3F, so you can clear each floor and return to the Inn before tackling the next one
 
-## Guides
+## Guide
 
 ### B1F
 
