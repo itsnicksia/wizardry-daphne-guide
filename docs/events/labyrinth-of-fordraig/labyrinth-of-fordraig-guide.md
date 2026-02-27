@@ -52,11 +52,11 @@
 
 ### B4F
 
+!!! warning "This floor is not accessible on a first run." 
+
 ??? map "Map B4F" 
 
     ![](img/labyrinthB4.jpg)
-
-!!! warning "This floor is not accessible on a first run." 
 
 - The blue "X" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located directly south of your starting location. 
 - Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).
