@@ -4,13 +4,13 @@
 You unlock class changes after you beat the Greater Warped One of the Beginning Abyss. For summonable heroes you unlock a weekly reseting shop for class change books for your summonable heroes. For your main character certain class changes are locked behind story progression.
 
 ## Do I Keep My Skills From the Previous Class?
-Yes, you keep all the active and passive skills that you've learned from that class. However, certain skills and passives can only be used by certain classes. For instance, Behind Cover is a passive that is \<Knight-specific\>. This means you need be a knight class to have this passive active. Or take the active skill Hiding which is a \<Thief-specific\>. This means you have to be a thief class to use this skill. 
+Yes, you keep all the active and passive skills that you've learned from that class. However, certain skills and passives can only be used by certain classes. For instance, the description of the passive skill Behind Cover ends with <Knight-specific\>. This means you need be the knight class to have this passive active. Or take the active skill Hiding whose description ends with <Thief-specific\>. This means you have to be the thief class to use this skill.
 
 ## What About Passives Like Passive HP Up (Fighter)? Do I Need To Be Fighter Class For This Passive?
-No you don't need to be the specific class of passives that are in parantheses. Parantheses indicate origin of where the passive came from. Angled brackets indicate that is limited to specific classes. 
+No you don't need to be the specific class of passives that are in parantheses. Parantheses indicate origin of where the passive came from. Angled brackets indicate that is limited to specific classes.
 
 ## Can I Class Change Back?
-Your main character can freely change between classes that you have unlocked and activated in the Well of Mind. For summonable characters, you are going to either need the class change book corresponding to their original class or a special item called the class change request. Yes, you need to buy another class change book to change your class back and it's a different handbook. The class change request is given for free during class change events or purchased from certain limited packs from the jeweler.
+Your main character can freely change between classes that you have unlocked and activated in the Well of Mind. Summonable characters on the other hand cannot freely change back to a previous class. You either need to use a special item called a class change request, or use a class change book corresponding to the character's original class. Yes, you have to buy another class change book to change a character's class back and it's a different handbook. Class change requests are given for free during class change events or purchased from certain limited packs from the jeweler.
 
 ![](img/classChangeConfirmationMenu.png)
 
