@@ -1,18 +1,82 @@
 # Labyrinth Of Fordraig Guide
 
-!!! item "This event is now permanently available!"
-
-## How to participate:
+## Unlock Conditions
 You need to have progressed in the story until completing the Second Abyss for the first time, and then accepting the quest that appears in the Royal Capital's Adventurers Guild. After accepting the quest, a new location will be available on the World Map.
 
-## Notes about This Event
+## Overview
+
 There are two endings to this event:
+- The First Run ("trigger the traps"), which leads to the Bad ending 
+- The Second Run ("disarm the Traps"), which leads to the True ending
+- The Guide provides directions for each floor on a per map basis
 
-The First Run AKA Triggered the Traps Runs AKA Bad Ending Route
+Other:
+- The enemy level scales with MC's Grade
+- Large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC
+- Total of 4 floors with Harkens on B1-3F, so you can clear each floor and return to the Inn before tackling the next one
 
-The Second Run AKA Disarm the Traps Route AKA True Ending Route
+## Guides
 
-## The Rewards of the Event
+### B1F
+
+??? map "B1F" 
+
+    ![](img/labyrinthB1.jpg)
+
+1. ~~Red X is the location of the Altar where you can change the difficulty level of the event. The difficulty level determines mob enemy level in exchange for more event currency drops from the enemy chests drops. It also affects drop rate of the higher end junk.~~ This Event no longer has a difficulty setting and scales to your team.
+2. First Run - You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
+3. Second Run - The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
+
+### B2F
+
+??? map "B2F" 
+
+    ![](img/labyrinthB2.jpg)
+
+1. First Run - You end up on the bottom left half of the map from the portal trap on the first floor. You have to navigate the spike trap to the red "X" to open the next door. 
+3. Second Run - The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off .
+
+### B3F
+
+??? map "B3F"
+
+    ![](img/labyrinthB3.jpg)
+
+1. First Run - The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger.
+2. Second Run - The yellow arrow map icon (MC's location) is your next step. Note that on a first run you will encounter another fight. On your second run with the dagger in your inventory it will activate a portal that takes you to B4F.
+
+### B4F
+
+??? map "B4F" 
+
+    ![](img/labyrinthB4.jpg)
+
+warning! "This floor is not accessible on a first run." 
+
+1. The blue "x" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located directly south of your starting location. 
+2. Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).
+3. The yellow highlights are where three chests are located, one of which has the event item needed to complete the request.
+4. The portal below MC's location (yellow arrow) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.
+5. There is no Harken on this floor and have to go back to the Blue X Portal to Exit.
+
+## Farming
+
+There are two options. 
+
+### Cursed Wheel
+
+Use the Cursed Wheel to reset the request after completion and then complete the second run (True Ending) of the request.
+
+1. You farm junk from the miniboss and boss chests.
+2. You get to farm up potentially perfect Horned Eagle Swords
+
+![](img/good-horned-eagle-sword.jpg)
+
+### Farm B4F Only 
+1. You get to farm junk.
+2. You get a lot more event currency than the Curse Wheel option.
+
+## Rewards
 
 ### Exclusive Event Equipment
 
@@ -82,52 +146,6 @@ The Second Run AKA Disarm the Traps Route AKA True Ending Route
 2. The Featherbronze Gauntlet Exchange gives you a Random Grade And Star Level
 3. Priortize the Skill EXP books 25exp per book sounds very little but it adds up over time and the only way to get these as F2P is through events.
 
-## Maps and Map Guides
 
-### Floor 1
 
-![](img/labyrinthB1.jpg)
 
-1. ~~Red X is the location of the Altar where you can change the difficulty level of the event. The difficulty level determines mob enemy level in exchange for more event currency drops from the enemy chests drops. It also affects drop rate of the higher end junk.~~ This Event no longer has a difficulty setting and scales to your team.
-2. First time around you will be forced through a Portal trap. The portal above the yellow highlighter. It teleports you to a separate zone on the second floor. 
-3. Yellow Highlight is Where you Disarm the Portal Trap on the Subsequent Playthroughs. Click on the East Wall for dialogue option.
-
-### Floor 2
-
-![](img/labyrinthB2.jpg)
-
-1. You end up on the bottom left half of the map from the portal trap on the first floor.
-2. You have to navigate the spike trap to the Red X to open the next door. 
-3. The yellow highlight is where you go to Disarm the Spike Trap on the Subsequent Playthroughs. Click on the West Wall for dialogue option.
-
-### Floor 3
-
-![](img/labyrinthB3.jpg)
-
-1. Red X is where you go a miniboss fight, during the first run, the adventurers you meet as your progress through the floors will die. Interact with all three bodies to get the hints to disarm the traps as well the dagger.
-2. Yellow Arrow AKA the Player location is where you go next. On the first run AKA Triggered Traps Run, you will encounter another fight. On subsequent runs AKA Disarmed Traps Route, you will activate a portal that takes you the the fourth floor.
-
-### Floor 4
-
-![](img/labyrinthB4.jpg)
-
-1. You Arrive at this floor at the portal by the Blue X
-2. Head to Red X to fight the last boss. This boss drops the Horned Eagle Sword.
-3. The yellow highlight are where three chests are located, one of which has the event item needed to complete the request.
-4. The portal by the Yellow Arrow AKA Player Location leads to the top portal left of the Floor 2. There are two fixed chests locations in this B2 Location.
-5. There is no Harken on this floor and have to go back to the Blue X Portal to Exit.
-
-## How to farm this event?
-There are two options:
-
-### Curse Wheel
-Use Curse Wheel to Reset the Quest after completion and then Complete the Disarm Trap/Good Ending of the request.
-
-1. You farm junk from the miniboss and boss chests.
-2. You get to farm up potentially perfect Horned Eagle Swords
-
-![](img/good-horned-eagle-sword.jpg)
-
-### Farm the Floor 4 on the highest clearable difficulty
-1. You get to farm junk.
-2. You get a lot more event currency than the Curse Wheel option.
