@@ -57,7 +57,7 @@
             ??? warning "Rewards"
             
                 ??? note "Spare"
-                    - Bondmate: Bigfoot's Offspring (Accuracy) 
+                    - Bondmate: [Bigfoot's Offspring](../../adventurer-customization/bondmates/isberg/bondmates.md#bigfoots-offspring) (Accuracy) 
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold
                     - Triffia removed from inventory 
@@ -75,7 +75,7 @@
 
         - Red Star  = Discovery Point
         - Red Star (Filled) = Bigfoot Boss
-        - Green Star = Salted Pork reqeust item
+        - Green Star = Salted Pork request item
       
 ## Village Shut Away in Silence 
 

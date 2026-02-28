@@ -1,7 +1,11 @@
 !!! warning "Work in Progress"
     - Ctrl + F5 to refresh the page for new updates
 
-## Blizzard Blocking the Path
+## Blizzard Blocking the Path ( QUESTION What is this header for?)
+
+#### Expectations
+
+All routes are not required to achieve [A4](./important-request-gwo.md) true ending, but completing them offers special rewards such as items or achievements. If you don't care about these you can select the "Best" route each time. To achieve the best ending(s) you must have completed [A2](../2-port-town-grand-legion/important-request-gwo.md) and [A3](../3-guarda-fortress/important-request-gwo.md) AND be in their timeline in each abyss to achieve max affinity (read below). The [Witch Hunt in Elden Village](#witch-hunt-in-elden-hill-village-1st-faction-request) is independent from the [Search for Missing Persons](#search-for-the-missing-persons-2nd-faction-request).
 
 ### Witch Hunt in Elden Hill Village (1st Faction Request)
 
@@ -9,10 +13,10 @@
 
 The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause. 
 
-- Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia
-- Go to the Guild, speak with Arna, and accept the invitation
-- If you decline, then to accept the request in the future select "Talk" in the Guild
-- All of the faction requests take place in Elden Hill Village and share the same map  
+- Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia.
+- Go to the Guild, Arna will ask if you want to meet with the faction representative, accept, and you will be taken to their location to watch a short cutscene. If this does not happen, then select the "Talk" option in the Guild menu. 
+- If you decline, then to accept the request in the future select "Talk" in the Guild.
+- All of the faction requests take place in Elden Hill Village and share the same map. It has no direct relation to the A4 maps except needing to use the cursed wheel.
 
 !!! warning "Important Notes"
 
@@ -42,7 +46,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     === "How to Reset Request" 
     
-        - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
+        - Wheel to Deepsnow Hinterlands Entrance, exit to town. Wheel to Rockhome Village Major Harken, exit to town. The character associated with the quest should pop back up telling you of your faction's request.
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
         
     === "Reset Notes"
@@ -603,10 +607,10 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     ??? note "Note on Initial Choices" 
     
-        - The Admiral route is deceptively structured as the initial choices of "Capture a witch" or "Threaten" have no impact on the ending
+        - The Admiral route is deceptively structured as the initial choices of "Capture a witch" or "Threaten..." have no impact on the good/best ending but "Prepare Sedative" does and will produce the "bad ending"
         - The number of brazier requests determines whether Elencia is alive or dead after the boss fight
         - Elencia's post-battle status (dead or alive) determines the ending
-        - The "Prepare Sedative" option is self-contained and separate from the brazier offerings mechanic    
+        - The "Prepare Sedative" option is will separate you from interacting with the brazier mechanic  
     
     ??? note "Demonic Brazier Offerings"
 
@@ -646,16 +650,16 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     ??? warning "1/8 Patch Changes"
     
-        - The 1/8 patch has added witch burning scenes like in the Pontiff route, which are trigged when exiting the Witch's Cave or resting at the Inn 
+        - The patch on 1/8 has added witch burning scenes like in the Pontiff route, which are trigged when exiting the Witch's Cave or resting at the Inn 
         - It is no longer possible to enter the Witch's Cave without first speaking with Cleric Ludwin and agreeing to help 
         - Verified that the number of offerings still lead to the outcomes listed in the ending guides
         - The number of witch burning scenes witnessed do not seem to affect any of the endings, rewards, or dialogue
 
-    ??? warning "Requirements"
+    ??? note "Overview"
 
         - Total of 3 confirmed endings 
             - Possible another ending exists that has yet to be identified (as of 1/27)
-            - When selecting either "Capture a witch" or "Threaten" on a first run you will always get the Best ending (Elencia Alive) since you have to collect all 5 brazier offerings
+            - When selecting either "Capture a witch" or "Threaten..." on a first run you will always get the Best ending (Elencia Alive) since you have to collect all 5 brazier offerings
     
         - Endings 
     
@@ -668,6 +672,81 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - No extra junk is given as a reward on any ending
             - Full gold reward is always given
 
+    ??? danger "Combat Encounters"
+
+        === "Good and Best Route Encounters"
+            === "Enemy Gauntlet" 
+    
+                - Before picking up the Gold Ore a group of 3 enemies will appear behind you
+                - Forced to fight a series of back-to-back battles with tough enemies  
+
+                Fights 
+
+                - Fight 1:  2 Big Slime (front); Evil Eye (back)
+                - Fight 2:  Greater Demon and Lesser Demon (front); 2 Succubus (back)
+                - Fight 3:  3 Bigfoot Child (front); Bigfoot (back)
+
+            === "Boss: Witch"
+
+                === "Mechanics" 
+
+                    - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
+                    - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that     requires understanding the Witch's AI behavior. 
+
+                    - Witch 
+                        - HP: ~8,000
+                        - Opens with a non-turn action that applies Batilgref to the front row
+                        - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a   Type (element) advantage is present
+                        - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
+                        - If she casts Katino (sleep), then she will use a MA- spell on that same row
+                        - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
+
+                    - Evil Eyes
+                        - HP: ~12,000 
+                        - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
+                        - Laser Eye attack hits an entire row for physical damage that can be evaded 
+                        - Single-target laser can hit any unit for physical damage 
+                        - Can Skill- or Spell- Bind a single target 
+                        - Can Petrify a single target 
+
+                === "Low-level Strategy" 
+
+                    - Recommended units: 3 DPS, 2 Priests, 1 Knight
+                    - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
+                    - Use only single-target or row attacks on the Evil Eyes
+                    - Fighters
+                        - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
+                        - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
+                    - Priests
+                        - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with     Madios
+                        - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear     debuffs, especially Batilgref 
+                    - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual  Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
+                    - If you cannot kill her in 1 round, then: 
+                        - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
+                        - Cortu spell + Cortu scroll stack for additional spell damage mitigation
+                        - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
+
+                === "1-Round Kill Strategy" 
+
+                    - Requirements
+                        - Level 70
+                        - +20 Silver/Ebon bows or 2H spears 
+                        - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
+                    - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
+                    - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
+                    - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
+                    - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
+                    - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
+
+        === "Bad Route Encounter (optional)"
+
+            Optional Boss: Cyclops + Bigfoot
+        
+            - More details to be added soon
+            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
+            - At ~80% HP the Cyclops will summon another Bigfoot
+            - Cyclop's "Wheeling Cleave" can kill multiple team members 
+
     ??? note "Bad Ending - Prepare Sedative"
 
         === "Walkthrough" 
@@ -676,9 +755,8 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Enter the Witch's Cave 
             - Head north and down the stairs to B2F
                 - The side area with the Cyclops + Bigfoot is optional
-            - Collect the Sar-moon Herb in the northeast corner 
-            - Exit
-            - Speak with Raimi in town
+            - Collect the Sar-moon Herb in the northeast corner past the reversable rubble
+            - Exit and speak with Raimi in town
         
                 ??? warning "Rewards"
                     - 7,000 Gold
@@ -693,20 +771,13 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             
             - Located in the northeast area and requires reversing a stone to access
             - Multiple enemies will spawn after it is picked up  
-        
-        === "Optional Boss: Cyclops + Bigfoot"
-            
-            - More details to be added soon
-            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-            - At ~80% HP the Cyclops will summon another Bigfoot
-            - Cyclop's "Wheeling Cleave" can kill multiple team members 
 
     ??? note "Good Ending - Elencia Dead"
 
         === "Walkthrough" 
 
             - Can only be done on a subsequent run
-            - Select "Capture a witch" or "Threaten" it does not matter 
+            - Select "Capture a witch" or "Threaten..." it does not matter 
             - Speak with Cleric Ludwin in town and confirm you will help search for the witch
             - Speak with Elinas and pick the Infant (Lamb) 
             - Enter the Witch's Cave 
@@ -714,13 +785,11 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Go up and to the right to the large room with multiple doors and interact with the brazier. Offer the Infant (Lamb) and explore the southeast room at the end of the path until Lulu comments 
             - Return to the brazier and it will request the Gold Ore 
             - Go back upstairs to B1F  
-            - Exit 
-            - Rest at the inn to recover for the upcoming boss fight 
+            - Exit the witch's cave and return to town. Rest at the inn to recover for the upcoming boss fight 
             - Return to the brazier and offer the Gold Ore to unlock the witch's room 
             - Unlock the witch's room and defeat the boss 
             - Elencia dies after the boss fight 
-            - Exit 
-            - Return to town 
+            - Exit the witch's cave and return to town 
             - Ending sequences will begin automatically  
     
                 ??? warning "Note on Ending Choices" 
@@ -744,69 +813,6 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             </div>
                 
             - Located directly across from the entrance 
-
-        === "Enemy Gauntlet" 
-    
-            - Before picking up the Gold Ore a group of 3 enemies will appear behind you
-            - Forced to fight a series of back-to-back battles with tough enemies  
-
-            Fights 
-            
-            - Fight 1:  2 Big Slime (front); Evil Eye (back)
-            - Fight 2:  Greater Demon and Lesser Demon (front); 2 Succubus (back)
-            - Fight 3:  3 Bigfoot Child (front); Bigfoot (back)
-
-        === "Boss: Witch"
-
-            === "Mechanics" 
-
-                - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
-                - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that requires understanding the Witch's AI behavior. 
-    
-                - Witch 
-                    - HP: ~8,000
-                    - Opens with a non-turn action that applies Batilgref to the front row
-                    - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a Type (element) advantage is present
-                    - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
-                    - If she casts Katino (sleep), then she will use a MA- spell on that same row
-                    - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
-    
-                - Evil Eyes
-                    - HP: ~12,000 
-                    - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
-                    - Laser Eye attack hits an entire row for physical damage that can be evaded 
-                    - Single-target laser can hit any unit for physical damage 
-                    - Can Skill- or Spell- Bind a single target 
-                    - Can Petrify a single target 
-
-            === "Low-level Strategy" 
-
-                - Recommended units: 3 DPS, 2 Priests, 1 Knight
-                - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
-                - Use only single-target or row attacks on the Evil Eyes
-                - Fighters
-                    - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
-                    - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
-                - Priests
-                    - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with Madios
-                    - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear debuffs, especially Batilgref 
-                - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
-                - If you cannot kill her in 1 round, then: 
-                    - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
-                    - Cortu spell + Cortu scroll stack for additional spell damage mitigation
-                    - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
-
-            === "1-Round Kill Strategy" 
-
-                - Requirements
-                    - Level 70
-                    - +20 Silver/Ebon bows or 2H spears 
-                    - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
-                - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
-                - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
-                - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
-                - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
-                - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
     
     ??? tip "Best Ending - Elencia Alive"
 
@@ -815,23 +821,24 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - First run - You will always receive this ending on a first run since you have to complete all 5 offering requests 
             - Subsequent runs - Pick the Broom from Elinas in town
             <br></br>
-            - Select "Capture a witch" or "Threaten" it does not matter 
+            - Select "Capture a witch" or "Threaten..." it does not matter 
             - Speak with Cleric Ludwin in town and confirm that you will help search for the witch
             - Enter the Witch's Cave 
             - Head south and take the stairs down to B2F 
             - Go up and to the right to the large room with multiple doors  
             - Interact with the brazier 
-            - Complete the 5 offering requests 
-            - Exit and rest at the inn to recover for the upcoming boss fight 
+            - When the last offering is required (gold ore), exit the witch's caves and return to town to heal for the "Enemy Gauntlet"
+            - Attempt to claim the gold ore and get ambushed
+            - It's recommended to exit to town and rest at the inn to recover for the upcoming boss fight 
             - Return to the brazier and offer the Gold Ore to unlock the witch's room 
+            - Complete the 5 offering requests 
             - Unlock the witch's room and defeat the boss 
             - Elencia is alive, but unconscious after the boss fight 
-            - Exit 
-            - Return to town 
+            - Exit and return to town 
             - Ending sequences will begin automatically  
             
                 ??? warning "Rewards"
-                    - Achievement: You Are Permitted to Call My Name, But Only Once 
+                    - Achievement: [You Are Permitted to Call My Name, but Only Once](../../appendices/achievements.md)
                     - 19,000 Gold
                     - The Admiral is pleased with this outcome
 
@@ -843,68 +850,6 @@ The faction requests are unlocked after entering Route 4 for the first time. The
                 
             - Located directly across from the entrance 
 
-        === "Enemy Gauntlet" 
-    
-            - Before picking up the Gold Ore a group of 3 enemies will appear behind you
-            - Forced to fight a series of back-to-back battles with tough enemies  
-
-            Fights 
-            
-            - Fight 1:  2 Big Slime (front); Evil Eye (back)
-            - Fight 2:  Greater Demon and Lesser Demon (front); 2 Succubus (back)
-            - Fight 3:  3 Bigfoot Child (front); Bigfoot (back)
-
-        === "Boss: Witch"
-
-            === "Mechanics" 
-
-                - Witch (Humanoid) in the backrow and 2 Evil Eyes (Magical Being) in the frontrow 
-                - The fight presents itself as a standard DPS race - kill the Witch before she wipes out your entire party with LA- spells. In reality it is a "gimmick" fight that requires understanding the Witch's AI behavior. 
-    
-                - Witch 
-                    - HP: ~8,000
-                    - Opens with a non-turn action that applies Batilgref to the front row
-                    - If she takes any damage, then she will begin a cycle of using Mentual Unity twice followed by a LA- spell that will likely kill multiple units, especially if a Type (element) advantage is present
-                    - If she takes no damage, then she will cast a debuff or status affliction followed by a MA- spell
-                    - If she casts Katino (sleep), then she will use a MA- spell on that same row
-                    - If she casts Dilto (ACC down), then she will use the MA- spell on either row  
-    
-                - Evil Eyes
-                    - HP: ~12,000 
-                    - These enemies behave exactly like their Abyss 3 (Corrosion Eye) counterparts, but with slightly elevated stats
-                    - Laser Eye attack hits an entire row for physical damage that can be evaded 
-                    - Single-target laser can hit any unit for physical damage 
-                    - Can Skill- or Spell- Bind a single target 
-                    - Can Petrify a single target 
-
-            === "Low-level Strategy" 
-
-                - Recommended units: 3 DPS, 2 Priests, 1 Knight
-                - The key to the fight is to not attack the Witch - at all - until the Evil Eyes are dead
-                - Use only single-target or row attacks on the Evil Eyes
-                - Fighters
-                    - Earth-Splitting Strike (level 62), Heavy Attack 3-5, or Decisive Torso Strike 1-3 can do respectable damage
-                    - Full Power Strike (FPS) is powerful, but risky since the Evil Eyes could Skill-bind that unit before they act
-                - Priests
-                    - Bringing 2 Priests is recommended since you will need to remove debuffs with Abit (ideally, Abit 2, Daniel's potential inherit) and recover from row attacks with Madios
-                    - If any of your DPS are cross-classed with Priest (MC, Abenius, Bugen, Gerulf, etc.) they can also spot heal (put a 2H staff in their inventory) or help clear debuffs, especially Batilgref 
-                - Once the Evil Eyes are dead it is critical to kill the Witch as quickly as possible with FPS or your strongest attacks before she begins her cycle of 2x Mentual Unity into a LA- spell. If you brought Yuzaki now is the time to use Hue 1-3   
-                - If you cannot kill her in 1 round, then: 
-                    - Bring a Knight and use Knight's Defense to reduce her spell damage by 50%; make sure they move last in your turn order
-                    - Cortu spell + Cortu scroll stack for additional spell damage mitigation
-                    - MC's Chrono 1-2 from the Well of the Mind can serve as an emergency button to push her back in the turn order and give additional breathing room 
-
-            === "1-Round Kill Strategy" 
-
-                - Requirements
-                    - Level 70
-                    - +20 Silver/Ebon bows or 2H spears 
-                    - High-level skills (Heavy Attack 5-7, Decisive Torso Strike 3-5, Hue 3-5, All-Out Strike, Shedding etc.)
-                - The Witch has extremely low HP (~8,000) and can be killed with ranged weapons if your team is sufficiently powerful
-                - The goal is maximum damage. You can bring 5 DPS + 1 Priest or 6 DPS + recovery items to deal with the 2 Evil Eyes afterwards 
-                - The downside of bringing Yuzaki is that while Hue 3-5 is powerful it may not hit the Witch at all, but is useful for killing the Evil Eyes
-                - If you do not have highly leveled skills, then it is possible to kill her with multiple Fighters using All-Out Strike
-                - Speed strats like using Chrono 1-2, Shedding, Porto, Batilgref, etc. are less useful since it is likely the Witch will get at least 1 LA- spell off before they go into effect on the next turn
 
 ## Short Rest in the Cabin
 

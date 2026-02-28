@@ -29,7 +29,8 @@
         - Fire attacks will enrage him and can cause him to immediately cast his breath skill. However, fire attacks used after he self buffs will instead remove all his buffs and cause him to cast an undispellable infinite ATK UP and CT UP buff.
         - If Bigfoot is killed before all the baby bigfoots, the rest will be severely ATK debuffed and CT downed.
         
-6. Enter Rockhome Village, which is seemingly empty. There is some information that can be obtained in the mayor's house right next to the Harken. If you return to town via the Harken at this point, you will receive the Faction-specific side-quest. You may go complete the request now or later. If later, continue onwards to Route 4.
+6. Enter Rockhome Village, which is seemingly empty. There is some information that can be obtained in the mayor's house right next to the Harken. If you return to town via the Harken at this point, you will receive the [faction-specific side-quest](./faction-requests.md). You may go complete the request now or later. If later, continue onwards to Route 4.
+
 7. While going through Route 4, you'll be introduced to another gimmick in this abyss, which is the Nullshadow. You also meet Iris, who is a main character for this abyss. She will save you once from the Nullshadow. Continue to Route 5.
 
     !!! item "Nullshadow Mechanic"
