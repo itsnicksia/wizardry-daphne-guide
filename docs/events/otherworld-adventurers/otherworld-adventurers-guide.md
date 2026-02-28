@@ -303,7 +303,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
     - Accessed via the Jeweler- Exchange under the Otherworld Adventurers II tab. The shop currency is called "Strange Angular Ore" and only available in the Sahuagin's Cave.
     - A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25. 
-    - Refreshed items are missable with a 7-day countdown. They have been added as separate item entry in the shop. T
+    - Refreshed items are _missable_ with a 7-day countdown. They have been added as separate entry in the shop.
 
 ??? note "Buying Recommendations"
 
