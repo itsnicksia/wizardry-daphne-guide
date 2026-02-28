@@ -60,7 +60,7 @@ function createFilterInput() {
 
 function updateRowVisibility(query, rows) {
   // Ensure query is trimmed and case-insensitive
-  const regex = new RegExp(`(?<![\\w-])${query}(?![\\w-])`, 'i'); // Matches whole words only, case-insensitive
+  const regex = new RegExp(query, 'i'); // Matches whole words, or substrings of words, case-insensitive
 
   rows.forEach(row => {
     const cells = row.cells;

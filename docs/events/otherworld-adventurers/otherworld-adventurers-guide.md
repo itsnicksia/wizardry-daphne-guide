@@ -27,7 +27,11 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
     === "Red Dragon Boss Fight"
 
-        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - The boss fight scales with the MC's Grade. 
+            - Steel and Iron = 15K HP (Steel may be slightly higher, under verification)
+            - Bronze = 7.5K HP
+            - Lead = 5.5K HP
+            - No Grade = ?
         - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
         - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
         - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
@@ -62,7 +66,11 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
     === "Red Dragon Boss Fight"
 
-        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - The boss fight scales with the MC's Grade. 
+            - Steel and Iron = 15K HP (Steel may be slightly higher, under verification)
+            - Bronze = 7.5K HP
+            - Lead = 5.5K HP
+            - No Grade = ?
         - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
         - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
         - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
@@ -89,7 +97,11 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
     === "Red Dragon Boss Fight"
 
-        - The boss fight scales with the MC's adventurer grade. At Steel Grade, the dragon has about 15k HP. On the other hand, Lead Grade is maybe around 5.5k HP. Bronze Grade is around 7.5k HP.
+        - The boss fight scales with the MC's Grade. 
+            - Steel and Iron = 15K HP (Steel may be slightly higher, under verification)
+            - Bronze = 7.5K HP
+            - Lead = 5.5K HP
+            - No Grade = ?
         - It's highly recommended for players Bronze Grade or lower to farm the Dragon Slayer weapon and upgrading it to +10 or so before attempting, as it's extremely strong for that level range.
         - The dragon is susceptible to Paralyze, not Stun. This is most likely to encourage people to use Iarumas's unique skill that paralyzes. Other sources are also more effective than usual but not guaranteed (Mimic Secretion, Thunder Strike, etc).
         - The dragon can be spellbound, but it does not stop its roar or breath. However, it will be more inclined to use basic attacks that can be exploited for openings.
@@ -220,7 +232,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - The Sahuagin's Cave is a solid farming location no matter where you are in the game. 
         - A1-A3 Players
             - Excellent grinding location for Fey junk that gives a chance at 4* purple gear.
-            - Luminaries junk can unlock while still in A3 for farming Silver-tier gear. 
+            - Luminaries junk can unlock while still in A3 for farming Silver-tier gear. See next section for specifics.  
         - A4 Players
             - The volume of Fey junk rivals that of Ship 2 farming. It's a solid place to stock up on extract fodder. 
             - If your account needs 4* purple bases for basic gear it is easier to get since A4 is stingy with access to Fey junk. 
@@ -281,13 +293,17 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - If you are interested in learning more about the methodology please see the #B&B Event Farming Data channel.
         - Any major corrections or new findings please contact @lightbearer or post in the Discord channel above. 
 
+## Unlocking Junk Tiers
+
+!!! warning "Will be posted in the next 24 hours as of 2/27." 
+
 ## Exchange Shop 
 
 ??? note "Overview"
 
     - Accessed via the Jeweler- Exchange under the Otherworld Adventurers II tab. The shop currency is called "Strange Angular Ore" and only available in the Sahuagin's Cave.
     - A limited number of items (denoted by a *) refresh every Thursday at 0:00 JST through 3/25. 
-    - Refreshed items cannot be missed as they are added as a separate item entry in the shop. Tables will be updated each week.
+    - Refreshed items are missable with a 7-day countdown. They have been added as separate item entry in the shop. T
 
 ??? note "What Should I Buy?"
 
@@ -306,6 +322,13 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - The Saber is a Katana, so only relevant if you have a Samurai or plan to run one or more in the future.
         - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill multiple times in a row as it cannot be used if she is at 1 HP. 
 
+    === "Weekly Refresh Costs" 
+
+        - For the Adventurer's Remains I and II the total cost is 4,800 for both sets of 3. 
+        - For the Basic Items (Enhancement Ore, EXP books) the total cost is 2,265.
+        - If you plan to clear the shop weekly, then the total cost is 7,065.
+        - Remember that these items **are** missable and only available for 7 days. They have a countdown-timer ("Days Remaining") at the top of their listing.  
+
 ??? note "Shop List"
 
     === "Unique Gear" 
@@ -320,7 +343,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Trollkin Ring           | 10,000  | 3   | 30,000 |  
         | Exquisite Trollkin Ring | 20,000  | 99  | -      | 
         
-        ??? warning "Unique Gear +0 Stats"
+        ??? warning "Unique Gear Base Stats"
             ![](img/dragon-slayer.jpg)
             ![](img/trollkin-ring.jpg)
             ![](img/katana.jpg)
@@ -335,24 +358,36 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
         | Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
         | Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
-        | Adventure's Remains I*          | 800     | 6 | 4,800  |  
-        | Adventure's Remains II*         | 800     | 6 | 4,800  |  
+        | Adventure's Remains I           | 800     | 3 | 2,400  |  
+        | Adventure's Remains I*          | 800     | 3 | 2,400  |  
+        | Adventure's Remains II          | 800     | 3 | 2,400  |  
+        | Adventure's Remains II*         | 800     | 3 | 2,400  |  
         | Gem of Org x200                 | 1,500   | 1 | 1,500  |  
-        | Total Cost                      |         |   | 73,600 |  
+        | Total Cost of non-refreshing    |         |   | 68,800 |  
+        | Total Cost of weekly refreshing |         |   | 4,800  |  
+        
+        * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable
 
     === "Basic Items"
     
         | Item | Cost | # Copies | Total Cost |
         |:-----|----:|--------:|-------------------:|
-        | Azure Lustrous Ore              | 100   | 1  | 100   |  
-        | Azure Lustrous Ore x10          | 1,000 | 1  | 1,000 |  
-        | Azure Lustrous Ore x20          | 2,000 | 1  | 2,000 |  
-        | Fine Grade Ore*                 | 200   | 10 | 2,000 |  
-        | High Grade Ore*                 | 100   | 10 | 1,000 |  
-        | Mid Grade Ore*                  | 75    | 10 | 750   |  
-        | Low Grade Ore*                  | 50    | 10 | 500   |  
-        | Clock Tome of the Finesser*     | 50    | 10 | 500   |  
-        | Clock Tome Volume*              | 3     | 10 | 30    |  
-        | Total Cost                      |       |    | 7,880 |  
-
-
+        | Azure Lustrous Ore              | 100   | 1 | 100   |  
+        | Azure Lustrous Ore x10          | 1,000 | 1 | 1,000 |  
+        | Azure Lustrous Ore x20          | 2,000 | 1 | 2,000 |  
+        | Fine Grade Ore                  | 200   | 5 | 1,000 |  
+        | Fine Grade Ore*                 | 200   | 5 | 1,000 |  
+        | High Grade Ore                  | 100   | 5 | 500   |  
+        | High Grade Ore*                 | 100   | 5 | 500   |  
+        | Mid Grade Ore                   | 75    | 5 | 375   |  
+        | Mid Grade Ore*                  | 75    | 5 | 375   |  
+        | Low Grade Ore                   | 50    | 5 | 125   |  
+        | Low Grade Ore*                  | 50    | 5 | 125   |  
+        | Clock Tome of the Finesser      | 50    | 5 | 250   |  
+        | Clock Tome of the Finesser*     | 50    | 5 | 250   |  
+        | Clock Tome Volume               | 3     | 5 | 15    |  
+        | Clock Tome Volume*              | 3     | 5 | 15    |  
+        | Total Cost of non-refreshing    |       |   | 5,365 |  
+        | Total Cost of refreshing        |       |   | 2,265 |  
+        
+        * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable
