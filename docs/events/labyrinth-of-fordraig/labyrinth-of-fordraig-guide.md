@@ -4,17 +4,19 @@
 
 ## Unlock Conditions
 
-- Defeat Melgina (Abyss 2) on any faction route. The event does not require killing Octoranus. 
+- Defeat Melgina (Abyss 2) on any faction route. The event does not require killing Octoranus.
+- If you are looking for the limited time-event "Adventurer Retrieval" it is located [here](../recurring-events/recurring-events.md). 
 
 ## Overview
 
-??? "How to Accept and Reset the Request" 
+??? note "How to Accept and Reset the Request" 
 
     - Request is located at the Royal Capital Luknalia in the Adventurer's Guild > Requests > Featured > "Stolen Armor Retrieval".
     - Once accepted go to the World Map and you will see a new location called the Labyrinth of Fordaig located north-northwest of the Royal Capital.
     - To reset, go to the Ruins and select the Cursed Wheel. In the bottom right-hand corner is a pink button called "Special Request." Click on "The Lost Treasure of Fordaig" to reset.
 
 ??? note "Endings" 
+
     - The event only requires 2 runs for full completion. 
         - The First Run ("trigger the traps") leads to the Bad ending.
         - The Second Run ("disarm the traps") leads to the True ending.
