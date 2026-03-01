@@ -1,5 +1,3 @@
-## Gold Ore Collection 
-
 !!! warning "Do not submit the request until you have collected the maximum amount of Gold Ore. The additional Gold reward is substantial and you will miss out on it if the request is submitted prematurely."
 
 ### Overview
