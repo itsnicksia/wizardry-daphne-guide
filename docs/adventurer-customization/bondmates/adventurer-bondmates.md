@@ -1,16 +1,27 @@
 ## Overview
 
+- All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart [trust](../../mechanics/trust/trust.md) status. Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, Evade, and so on.
+- Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
+- Stat bondmates range from level 1 to 5. Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
+- Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
 
-??? note "Basics"
+??? note "Flaming-Heart Requirements" 
 
-    === "Summary"
-
-        - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart [trust](../../mechanics/trust/trust.md) status.
-        - Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, Evade, and so on.
-        - Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
-        - Stat bondmates range from level 1 to 5.
-        - Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
-        - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
+    === "Conditions"
+    
+        - Bronze Grade (minimum level of 30)
+            - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. It has no effect on your chances of getting a level 5 bondmate. 
+        - Defeat Helmut and either Melgina or Octoranus
+            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
+            - Melgina is safer and faster to defeat with low-level units
+            - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying
+        - Trust farm until the flaming-heart appears
+    
+    === "Troubleshooting" 
+    
+        - Do the conditions in the order listed. 
+        - The primary reason people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs. 
+        - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
 
     === "Flaming-Heart Icon"
 
@@ -57,24 +68,10 @@
     - For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
     - Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
 
-??? note "Flaming-Heart" 
-
-    === "Conditions"
-    
-        - Bronze Grade (minimum level of 30)
-        - Defeat Helmut and either Melgina or Octoranus
-            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
-            - Melgina is safer and faster to defeat with low-level units
-            - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying
-        - Trust farm until the flaming-heart appears
-    
-    === "Troubleshooting" 
-    
-        - Do the conditions in the order listed. 
-        - The primary reason people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs. 
-        - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
-
 ## Efficient Trust Farming 
+
+- After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receiving the flaming-heart icon your next step is to do trust farming until it procs.
+- The sub-topics below cover the basics of how the Trust system works, why Nameless Adventurers are the most efficient to use as bondmates, and the general trust farming process in Abyss 1.  
 
 ??? note "Trust"
 
@@ -171,7 +168,7 @@ Below are the steps from start-to-finish to create a stat bondmate:
 - Defeat Helmut and either Melgina or Octoranus
 - Note: If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears 
-- Go to the Guild > Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate 
+- Go to the Guild - Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate 
 - **Double-check that all conditions have been met and the unit is unlocked **
 - Dismiss
 - During the dismissal scene you will be notified that the adventurer is now a bondmate
