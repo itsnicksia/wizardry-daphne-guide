@@ -5,7 +5,7 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
 ### Unlock Condition
 
-- Clear the second run ("true" ending) of the [Stolen Armor Retrieval](../labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md) special request. 
+- Clear the second run ("True" ending) of the [Stolen Armor Retrieval](../labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md) special request. 
 
 ### Overview
 
@@ -106,6 +106,7 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
 
