@@ -1,5 +1,3 @@
-## Adventurer Retrieval (Labyrinth of Fordaig)
-
 ### Unlock Condition
 
 - Clear the second run ("True" ending) of the [Stolen Armor Retrieval](../labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md) special request. 
