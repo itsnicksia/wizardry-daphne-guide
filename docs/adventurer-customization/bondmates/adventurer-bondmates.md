@@ -72,14 +72,12 @@
             - A level 60 (Steel Grade) unit will receive +5-6 trait points
         - The trait bonus range is due to rounding and will vary by unit
 
-
-
 ## Efficient Trust Farming 
 
 - After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receiving the flaming-heart icon your next step is to do trust farming until it procs.
 - The sub-topics below cover the basics of how the Trust system works, why Nameless Adventurers are the most efficient to use as bondmates, and the general trust farming process in Abyss 1.  
 
-??? note "Trust"
+??? note "Trust Basics"
 
     === "Conversations"
 
@@ -175,7 +173,9 @@ Below are the steps from start-to-finish to create a stat bondmate:
 - Note: If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears 
 - Go to the Guild - Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate 
-- **Double-check that all conditions have been met and the unit is unlocked **
+- **Double-check they have the flaming-heart icon, 2 level 5 bondmates equipped, and are unlocked**
+- **Double-check they have the flaming-heart icon, 2 level 5 bondmates equipped, and are unlocked**
+- **Double-check they have the flaming-heart icon, 2 level 5 bondmates equipped, and are unlocked**
 - Dismiss
 - During the dismissal scene you will be notified that the adventurer is now a bondmate
 - The Bronze Grade tag will be refunded 
