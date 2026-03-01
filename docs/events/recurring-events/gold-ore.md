@@ -44,14 +44,14 @@
 
 ??? warning "Maximum Gold Ore and Rewards"
 
-| Abyss | Location | Max Ore | Max GP Reward | 
-|:----:|:----:|:----:|:-----:| 
-| Abyss 1 | ?? | 6,000 | 400,000 | 
-| Abyss 2 | District 2 | 12,000 | 600,000 | 
-| Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
-
-- There is a 2,000 Gold reward for completing the request. 
-- There is a substantial additional Gold reward based on the amount of Gold Ore collected. The additional reward scales with the Abyss you were assigned to search.  
+    | Abyss | Location | Max Ore | Max GP Reward | 
+    |:----:|:----:|:----:|:-----:| 
+    | Abyss 1 | ?? | 6,000 | 400,000 | 
+    | Abyss 2 | District 2 | 12,000 | 600,000 | 
+    | Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
+    
+    - There is a 2,000 Gold reward for completing the request. 
+    - There is a substantial additional Gold reward based on the amount of Gold Ore collected. The additional reward scales with the Abyss you were assigned to search.  
 
 ### Thief Locations
 
