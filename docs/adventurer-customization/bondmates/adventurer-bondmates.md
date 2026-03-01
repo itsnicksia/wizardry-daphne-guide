@@ -26,7 +26,8 @@
     
         - Do the conditions in the order listed. 
         - The primary reason why people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs (Helmut, Melgina or Octoranus). 
-        - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
+        - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade, 2) the GWO fights are completed, and 3) the unit did not die repeatedly while leveling them.
+        - There are very rare instances where a Nameless unit will just not proc the flaming-heart icon even after excessive trust grinding. This tends to happen with Good or Neutral MC and Evil units the most frequently. We suspect that each unit has a starting trust value range that is RNG-based and determined at creation. Some units can start with extremely low trust making them difficult to raise. In some cases it is just best to dismiss for their Grade tag. 
 
     === "Flaming-Heart Icon"
 
