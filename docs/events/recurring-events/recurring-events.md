@@ -31,13 +31,16 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
     === "Enemies"
 
-        - When collecting the bodies the enemies are a mix of all Undead enemies you have seen throughout the game. The normal Fordaig enemies remain unchanged.  
+        - When collecting the bodies the enemies are a mix of all Undead enemies (Archer, Mage, Knight, etc.) you have seen throughout the game. The normal Fordaig enemies remain unchanged.  
         - Big Skeletons are added to fights on the upper floors. Necromancers (Humanoid) only appear on B4F. 
         - Enemy levels are fixed per floor and do not scale with the MC's Grade. 
-           - B1F - Level 30
-           - B2F - Level 40 
-           - B3F - Level 49
-           - B4F - Level 61 
+
+    === "Enemy Levels" 
+    
+        - B1F - Level 30
+        - B2F - Level 40 
+        - B3F - Level 49
+        - B4F - Level 61 
 
 ### Rewards
 
@@ -108,6 +111,7 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
 
