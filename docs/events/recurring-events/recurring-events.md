@@ -16,18 +16,18 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
 ??? note "Preparation"
 
-   - Expulsion weapons from Abyss 3
-   - Yekaterina (increased damage to undead enemies; standard style)
-   - Undead Slayer nodes for the MC in the Well of the Mind
-   - The number of mobs per fight increases per floor, so strong row attacks or LA- spells can be helpful
+    - Expulsion weapons from Abyss 3 junk
+    - Yekaterina (increased damage to undead enemies; standard style)
+    - Undead Slayer nodes for the MC in the Well of the Mind
+    - The number of mobs per fight increases per floor, so bringing multiple Mages with MA- or LA- spells can be helpful
 
 ??? note "Enemy Levels"
-
-   - Enemy levels are fixed and do not scale with MC's Grade.
-      - B1F = Level 30
-      - B2F = Level 40 
-      - B3F = Level 49
-      - B4F = Level 61 
+   
+    - Enemy levels are fixed and do not scale with MC's Grade.
+       - B1F = Level 30
+       - B2F = Level 40 
+       - B3F = Level 49
+       - B4F = Level 61 
 
 ### Rewards
 
@@ -100,5 +100,6 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
