@@ -13,6 +13,7 @@ nav:
       - Purchase Evaluation: './purchase-evaluation.md'
       - Purchaseable Skill Books: './purchaseable-skill-books.md'
   - Enemies: './enemy-compendium.md'
+  - Grade Up: './grade-up/index.md'
   - Harken's Blessings: './harkens-blessings.md'
   - Skills And Spells:
       - Class Skill Quicklist: './skills-and-spells/class-skill-quicklist.md'
