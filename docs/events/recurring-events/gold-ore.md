@@ -29,7 +29,7 @@
 
 ### Guide 
 
-??? "Search Process" 
+??? note "Search Process" 
 
     - After accepting the request, go to the indicated Abyss and begin searching the correct floor (see Ore Locations).  Lulunarde will inform you of the presence of the thieves when you arrive on the correct floor. 
     - On that floor there will be a fixed number of locations that can randomly spawn an non-mobile enemy, which will be a group of thieves. After killing the thieves you will receive a small amount of Gold Ore.  
@@ -60,7 +60,7 @@
     - Forthcoming
     <!-- ![](./img/gold-ore-abyss1_locations.jpg) -->
 
-??? map "Abyss 2 - District 2 - Black Market 
+??? map "Abyss 2 - District 2 - Black Market" 
 
     === "Guide"
 
@@ -73,7 +73,7 @@
     
         ![](./img/gold-ore-abyss2_locations.jpg)  
 
-??? map "Abyss 3 - Zone 1 - Old Secret Passage 
+??? map "Abyss 3 - Zone 1 - Old Secret Passage" 
 
     === "Guide" 
 
