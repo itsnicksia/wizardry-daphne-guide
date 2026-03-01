@@ -144,17 +144,17 @@
     
         - The only General units you may want to consider using are Philip (Neutral) and Viviana (Evil) for SPD. 
         - The Human-Ninja (Evil) requires 830K EXP to reach level 30 versus 330K EXP for Philip and Viviana. 
-        - The trade-off is that Philip's inherit, Delay Attack, can be very useful if using battle speed strategies in conjunction with MC Chrono 1-2. 
+        - The trade-off is that Philip's inherit, Delay Attack, can be very useful if using speed strategies in conjunction with MC Chrono 1-2, Batilgref, and Porto. The latter two can be stacked using a spell and shop scroll.  
         - Viviana's inherit, Hiding, is no longer as attractive as it used to be, but she is one of the more difficult characters to build trust with if you are not using an Evil MC.  
         
 ??? note "Trust Farming Process"
 
     - Ensure that every unit (besides the MC) shares the same alignment as the stat bondmate. 
     - It is most efficient to raise two different stat bondmates of the same alignment simultaneously.
-        - Neutral: Human Fighter and Elf Mage 
-        - Evil: Beast Thief, Human Ninja, Elf Priest
-        - Good: Human Priest, Dwarf Knight
-    - Go to the Beginning Abyss, F7
+        - Neutral: Human Fighter (STR) and Elf Mage (IQ) 
+        - Evil: Beast Thief (DEX), Human Ninja (SPD), Elf Priest (PIE)
+        - Good: Human Priest (PIE), Dwarf Knight (VIT)
+    - Go to the Beginning Abyss, Floor 7 
     - Find a chest and have MC (ideally) fail the mini-game
         - It is not known if failing chests results in a trust penalty, but it does lower the MC's hidden Fortitude value. 
         - There is a fixed mimic chest on F6 by the stairs you can fail and run away from the mimic fight; this can be repeated.
