@@ -40,7 +40,7 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
 ### Rewards
 
-!!! warning "Do NOT turn in the request until all 11 bodies have been collected otherwise you will miss out on getting all 48 No Name tags!"
+!!! warning "Do NOT turn in the request until all 12 bodies have been collected otherwise you will miss out on getting all 48 No Name tags!"
 
 - The base reward is 4 No Name tags and 5,000 gold for collecting 1 body.
 - You receive 4 No Name tags and 5,000 gold per additional body collected. 
@@ -108,6 +108,7 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
 
