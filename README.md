@@ -41,6 +41,28 @@ docker run --rm -it -p 8000:8000 -v "%cd%":/docs squidfunk/mkdocs-material
 docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 ```
 
+### Local install with only Docker
+Use the repository Dockerfile to create a wrapper image that handles python dependency installation. Best for those who don't have or want python installed. Enables you to display a local version of the website that will reload a few seconds after you save whatever file you're working in. Terminal will indicate what you should type in to live-view changes. 
+
+First run the build-local script. When it is done, then run the run-local script. Leave the terminal open or it won't work ;)
+**Windows**
+```bash
+# Build
+./scripts/development/build-local.bat
+
+# Run
+./scripts/development/run-local.bat
+```
+
+**MacOS/Linux (Build)**
+```bash
+# Build
+./scripts/development/build-local.sh
+
+# Run
+./scripts/development/run-local.sh
+```
+
 ### Local install (POSIX)
 
 Create and activate a Python [virtual environment](https://docs.python.org/3/library/venv.html):
