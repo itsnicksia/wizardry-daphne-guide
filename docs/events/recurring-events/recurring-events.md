@@ -51,16 +51,16 @@ This page is intended to capture smaller, recurring events that usually pop up a
 - The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner).
 - There is no way to check the number of bodies you have collected. They are not shown in your Valuables or Request List. It is important that you keep track to avoid losing out on the No Name tags. 
 
-??? map "B1F - 3 Bodies "
+??? map "Map B1F - 3 Bodies "
     ![](./img/fordaig-adv-retrieval-B1F.png)
 
-??? map "B2F - 4 Bodies"
+??? map "Map B2F - 4 Bodies"
     ![](./img/fordaig-adv-retrieval-B2F.png)
    
-??? map "B3F - 3 Bodies"
+??? map "Map B3F - 3 Bodies"
     ![](./img/fordaig-adv-retrieval-B3F.png)
 
-??? map "B4F - 2 Bodies"
+??? map "Map B4F - 2 Bodies"
     ![](./img/fordaig-adv-retrieval-B4F.png)
 
 ## Gold Ore Collection 
@@ -108,6 +108,7 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
 
