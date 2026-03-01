@@ -107,7 +107,8 @@
     | Name                                           | Description                                                        |
     | ---------------------------------------------- | ------------------------------------------------------------------ |
     | Quivering Slime                                | Ghreen Jelly becomes a Bondmate.                                   |
-    | Water Got Priestess Regia                      | Priestess Regia becomes a Bondmate.                                |
+    | Water God Priestess Regia                      | Priestess Regia becomes a Bondmate.                                |
+    | Stonefolk Pilgrim                              | The Stonefolk Visiting the Gravestone becomes a Bondmate.          |
     | First Grade Up                                 | The Masked Adventurer was promoted to Lead Grade.                  |
     | Bronze Graded Adventurer                       | The Masked Adventurer was promoted to Bronze Grade.                |
     | Iron Graded Adventurer                         | The Masked Adventurer was promoted to Iron Grade.                  |

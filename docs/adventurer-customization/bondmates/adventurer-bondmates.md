@@ -1,16 +1,35 @@
 ## Overview
 
+??? note "Basics" 
 
-??? note "Basics"
+    - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart [trust](../../mechanics/trust/trust.md) status. 
+    - Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, Evade, and so on.
+    - Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
+    - Stat bondmates range from level 1 to 5. Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
+    - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
 
-    === "Summary"
+??? warning "Flaming-Heart Requirements" 
 
-        - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart [trust](../../mechanics/trust/trust.md) status.
-        - Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, Evade, and so on.
-        - Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
-        - Stat bondmates range from level 1 to 5.
-        - Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
-        - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
+    === "Conditions"
+    
+        - The goal of this process is to get the flaming-heart icon on a unit, so that they can be dismissed and turned into a stat bondmate. There are 3 requirements:
+        - Bronze Grade (minimum level of 30)
+            - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. Higher levels have no effect on your chances of getting a level 5 bondmate. 
+        - Defeat Helmut and either Melgina or Octoranus
+            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip.
+            - Melgina is safer and faster to defeat with low-level units.
+            - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying.
+        - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
+    
+    === "Troubleshooting" 
+    
+        - Do the conditions in the order listed. 
+        - The primary reason why people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs (Helmut, Melgina or Octoranus). 
+        - If you have been trust farming for more than 30 minutes, then double-check:
+            - Unit is Bronze grade
+            - The 2 GWO fights are completed
+            - The unit did not die repeatedly while leveling them.
+        - There are very rare instances where a Nameless unit will just not proc the flaming-heart icon even after excessive trust grinding. This tends to happen with Good or Neutral MC and Evil units the most frequently. We suspect that each unit has a starting trust value range that is RNG-based and determined at creation. Some units can start with extremely low trust making them difficult to raise. In some cases it is just best to dismiss for their Grade tag. 
 
     === "Flaming-Heart Icon"
 
@@ -23,12 +42,21 @@
         <div align="center">
         ![](img/adventurer-bondmate-example.jpg)
         </div>
-        
+
+??? note "Bondmate Levels"
+
+    - After dismissal the stat bondmate will receive a level from 1 to 5. It seems to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
+    - Based on extensive community testing we can confirm:
+        - If a unit has two, level 5 bondmates attached prior to dismissal it will result in a level 4 or 5 stat bondmate.
+        - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a level 5.
+    - In practice, this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that target. For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
+    - Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
+      
 ??? note "Trait Bonuses" 
 
     === "Mechanics"
 
-        - The stat bondmate trait bonus is a function of both the Grade of the adventurer being equipped and the level of the bondmate, which increase at higher levels. See examples in the tabs. 
+        - The trait bonus from the stat bondmate is a function of both the Grade of the adventurer being equipped and the level of the bondmate. See examples in the tabs. 
         - Trait bonuses cap at +7-8 at level 70. It is possible to attach a level 2 and level 3 stat bondmate to one character for the "equivalent" of a level 5 stat bondmate.
         - There is no additional trait bonus for matching elemental alignments. This holds true for story bondmates, too.
         - Nameless, General, and Legendary adventurers all provide the same exact trait bonuses.
@@ -47,36 +75,12 @@
             - A level 60 (Steel Grade) unit will receive +5-6 trait points
         - The trait bonus range is due to rounding and will vary by unit
 
-??? note "Bondmate Levels"
-
-    - After dismissal the stat bondmate will receive a level from 1 to 5. It seems to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
-    - Based on extensive community testing we can confirm:
-        - If a unit has two, level 5 bondmates attached prior to dismissal it will result in a level 4 or 5 stat bondmate.
-        - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a level 5.
-    - In practice, this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that target.
-    - For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
-    - Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
-
-??? note "Flaming-Heart" 
-
-    === "Conditions"
-    
-        - Bronze Grade (minimum level of 30)
-        - Defeat Helmut and either Melgina or Octoranus
-            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
-            - Melgina is safer and faster to defeat with low-level units
-            - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying
-        - Trust farm until the flaming-heart appears
-    
-    === "Troubleshooting" 
-    
-        - Do the conditions in the order listed. 
-        - The primary reason people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs. 
-        - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade and 2) they GWO fights are completed and they survived.
-
 ## Efficient Trust Farming 
 
-??? note "Trust"
+- After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs.
+- The sub-topics below cover the basics of how the trust system works, why Nameless Adventurers are the most efficient bondmate candidates, and the general trust farming process in Abyss 1.  
+
+??? note "Trust Basics"
 
     === "Conversations"
 
@@ -141,22 +145,26 @@
     
         - The only General units you may want to consider using are Philip (Neutral) and Viviana (Evil) for SPD. 
         - The Human-Ninja (Evil) requires 830K EXP to reach level 30 versus 330K EXP for Philip and Viviana. 
-        - The trade-off is that Philip's inherit, Delay Attack, can be very useful if using battle speed strategies in conjunction with MC Chrono 1-2. 
+        - The trade-off is that Philip's inherit, Delay Attack, can be very useful if using speed strategies in conjunction with MC Chrono 1-2, Batilgref, and Porto. The latter two can be stacked using a spell and shop scroll.  
         - Viviana's inherit, Hiding, is no longer as attractive as it used to be, but she is one of the more difficult characters to build trust with if you are not using an Evil MC.  
         
 ??? note "Trust Farming Process"
 
     - Ensure that every unit (besides the MC) shares the same alignment as the stat bondmate. 
     - It is most efficient to raise two different stat bondmates of the same alignment simultaneously.
-        - Neutral: Human Fighter and Elf Mage 
-        - Evil: Beast Thief, Human Ninja, Elf Priest
-        - Good: Human Priest, Dwarf Knight
-    - Go to the Beginning Abyss, F7
-    - Find a chest and have MC (ideally) fail the mini-game
+        - Neutral: Human Fighter (STR) and Elf Mage (IQ) 
+        - Evil: Beast Thief (DEX), Human Ninja (SPD), Elf Priest (PIE)
+        - Good: Human Priest (PIE), Dwarf Knight (VIT)
+    - Go to the Beginning Abyss, Floor 7 
+    - Find a chest and have MC (ideally) fail the mini-game.
         - It is not known if failing chests results in a trust penalty, but it does lower the MC's hidden Fortitude value. 
-        - There is a fixed mimic chest on F6 by the stairs you can fail and run away from the mimic fight; this can be repeated.
-    - Go to the F7 Fountain and Camp, use the [Trust Table](../../mechanics/trust/table.md) to select the "best" answers.
-    - Note: If the stone block to the Fountain is not reversed, then you can 1) harken to F8 and reverse them or 2) see if wheeling twice on "King's Arrival" restores them.
+        - There is a fixed mimic chest on F6 by the stairs that you can fail and run away from the battle; this can be repeated. Be careful if you are using auto-battle as you may accidentally kill the mimic. 
+        - If you do not want to use the mimic, then chests appear frequently on the path to the Fountain. You can also check Floor 6 to see if there are any chests close to the stairs. 
+        - The odds of getting a Camp conversation go up slightly, on average, if more than one chest is failed. However, this has not been extensively tested. 
+    - Go to the Floor7 Fountain and Camp, use the [Trust Table](../../mechanics/trust/table.md) to select the "best" answers.
+    - Note: If the stone block to the Fountain is not reversed, then you can:
+        - Harken to Floor 8 and reverse them 
+        - Wheel twice on "King's Arrival" in the Cursed Wheel to see if that restores them
     - Exit
     - Repeat this process until the flaming-heart procs on the stat bondmate. 
 
@@ -171,14 +179,14 @@ Below are the steps from start-to-finish to create a stat bondmate:
 - Defeat Helmut and either Melgina or Octoranus
 - Note: If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears 
-- Go to the Guild > Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate 
-- **Double-check that all conditions have been met and the unit is unlocked **
+- Go to the Guild - Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate
+
+!!! warning "**Double-check they have the flaming-heart icon, two level 5 bondmates equipped, and are unlocked**"
+
 - Dismiss
 - During the dismissal scene you will be notified that the adventurer is now a bondmate
 - The Bronze Grade tag will be refunded 
 - Check the Bondmate List to see if they turned out to be a level 4 or 5
-
-!!! warning "Do not forget to double-check you remembered to add the two, level 5 bondmates. This is the number one reason why this process can fail."
 
 ## Other Notes
 

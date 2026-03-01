@@ -4,22 +4,27 @@
 
 ## Unlock Conditions
 
-- Full clear of Abyss 2 on any faction route
-- Request is located at Royal Capital Luknalia in the Adventurer's Guild > Requests > Featured
-- Once accepted go to the World Map and you will see a new location called the Labyrinth of Fordaig located north-northwest of the Royal Capital
+- Defeat Melgina (Abyss 2) on any faction route. The event does not require killing Octoranus. 
 
 ## Overview
 
+??? "How to Accept and Reset the Request" 
+
+    - Request is located at the Royal Capital Luknalia in the Adventurer's Guild > Requests > Featured > "Stolen Armor Retrieval".
+    - Once accepted go to the World Map and you will see a new location called the Labyrinth of Fordaig located north-northwest of the Royal Capital.
+    - To reset, go to the Ruins and select the Cursed Wheel. In the bottom right-hand corner is a pink button called "Special Request." Click on "The Lost Treasure of Fordaig" to reset.
+
 ??? note "Endings" 
-    - The First Run ("trigger the traps") leads to the Bad ending
-    - The Second Run ("disarm the traps") leads to the True ending
-    - The Guide provides directions for both runs on a per map (floor) basis
+    - The event only requires 2 runs for full completion. 
+        - The First Run ("trigger the traps") leads to the Bad ending.
+        - The Second Run ("disarm the traps") leads to the True ending.
+    - The Guide provides directions for both runs on a per map (floor) basis.
 
 ??? note "Important Notes"
 
-    - The enemy level scales with MC's Grade
-    - Large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC
-    - Total of 4 floors with Harkens on B1-3F, so you can clear each floor and return to the Inn before tackling the next one
+    - The enemy level scales with MC's Grade.
+    - There are a large number of Magical Beast enemies, so Abenius, Benjamin, and Yrsa are good to field along with anti-magical beast weapons or Well of the Mind (WoM) nodes for MC.
+    - Total of 4 floors with Harkens on B1-3F, so you can clear each floor and return to the Inn before tackling the next one. Note that B4F is a large floor and you will want to conserve your resources for the boss fight. 
 
 ## Guide
 
