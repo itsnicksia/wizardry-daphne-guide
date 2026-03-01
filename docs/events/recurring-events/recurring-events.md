@@ -32,10 +32,10 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
     === "Enemy Levels (Fixed)"
    
-           - B1F = Level 30
-           - B2F = Level 40 
-           - B3F = Level 49
-           - B4F = Level 61 
+           - B1F - Level 30
+           - B2F - Level 40 
+           - B3F - Level 49
+           - B4F - Level 61 
 
 ### Rewards
 
@@ -106,6 +106,7 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
 
