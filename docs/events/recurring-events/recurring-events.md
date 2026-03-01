@@ -9,11 +9,12 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
 ### Overview
 
-??? "How to Accept the Request" 
+??? note "How to Accept the Request" 
+
     - The request is accepted in the Royal Capital under the Featured Requests tab. It is available for a limited time (until 3/11 23:59 JST).
     - The request cannot be discarded after accepting. 
 
-??? "Objectives"
+??? note "Objectives"
 
     - The goal of the request is to revisit the Labyrinth of Fordaig and collect the bodies of 12 adventurers scattered across all 4 floors.
     - When collecting the bodies you will be forced into a fight against undead enemies. The battles become increasingly more challenging as you progress. The final set of fights on B4F includes Necromancers that are roughly on par with their sentry versions (level 65) in Abyss 3.  
@@ -107,6 +108,7 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
 
