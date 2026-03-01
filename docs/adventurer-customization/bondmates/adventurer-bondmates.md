@@ -14,19 +14,21 @@
     
         - The goal of this process is to get the flaming-heart icon on a unit, so that they can be dismissed and turned into a stat bondmate. There are 3 requirements:
         - Bronze Grade (minimum level of 30)
-            - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. 
-            - Higher levels have no effect on your chances of getting a level 5 bondmate. 
+            - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. Higher levels have no effect on your chances of getting a level 5 bondmate. 
         - Defeat Helmut and either Melgina or Octoranus
-            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip
-            - Melgina is safer and faster to defeat with low-level units
-            - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying
-        - Trust farm until the flaming-heart appears
+            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip.
+            - Melgina is safer and faster to defeat with low-level units.
+            - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying.
+        - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
     
     === "Troubleshooting" 
     
         - Do the conditions in the order listed. 
         - The primary reason why people do not get the flaming-heart is because they begin trust farming prior to defeating the two GWOs (Helmut, Melgina or Octoranus). 
-        - If you have been trust farming for more than 30 minutes, then double-check that 1) the unit is Bronze grade, 2) the GWO fights are completed, and 3) the unit did not die repeatedly while leveling them.
+        - If you have been trust farming for more than 30 minutes, then double-check:
+            - Unit is Bronze grade
+            - The 2 GWO fights are completed
+            - The unit did not die repeatedly while leveling them.
         - There are very rare instances where a Nameless unit will just not proc the flaming-heart icon even after excessive trust grinding. This tends to happen with Good or Neutral MC and Evil units the most frequently. We suspect that each unit has a starting trust value range that is RNG-based and determined at creation. Some units can start with extremely low trust making them difficult to raise. In some cases it is just best to dismiss for their Grade tag. 
 
     === "Flaming-Heart Icon"
@@ -47,15 +49,14 @@
     - Based on extensive community testing we can confirm:
         - If a unit has two, level 5 bondmates attached prior to dismissal it will result in a level 4 or 5 stat bondmate.
         - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a level 5.
-    - In practice, this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that target.
-    - For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
+    - In practice, this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that target. For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
     - Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
       
 ??? note "Trait Bonuses" 
 
     === "Mechanics"
 
-        - The stat bondmate trait bonus is a function of both the Grade of the adventurer being equipped and the level of the bondmate, which increase at higher levels. See examples in the tabs. 
+        - The trait bonus from the stat bondmate is a function of both the Grade of the adventurer being equipped and the level of the bondmate. See examples in the tabs. 
         - Trait bonuses cap at +7-8 at level 70. It is possible to attach a level 2 and level 3 stat bondmate to one character for the "equivalent" of a level 5 stat bondmate.
         - There is no additional trait bonus for matching elemental alignments. This holds true for story bondmates, too.
         - Nameless, General, and Legendary adventurers all provide the same exact trait bonuses.
@@ -76,8 +77,8 @@
 
 ## Efficient Trust Farming 
 
-- After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receiving the flaming-heart icon your next step is to do trust farming until it procs.
-- The sub-topics below cover the basics of how the Trust system works, why Nameless Adventurers are the most efficient to use as bondmates, and the general trust farming process in Abyss 1.  
+- After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs.
+- The sub-topics below cover the basics of how the trust system works, why Nameless Adventurers are the most efficient bondmate candidates, and the general trust farming process in Abyss 1.  
 
 ??? note "Trust Basics"
 
