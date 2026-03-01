@@ -602,6 +602,7 @@
         - 17000 Gold Reward
         - 950 Token Reward
         - Appears at Bounty Rank ???
+        - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
 
     === "Fight Details"
         - HP: ???
