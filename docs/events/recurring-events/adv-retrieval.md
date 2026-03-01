@@ -14,13 +14,13 @@
     === "Objectives"
 
         - The goal is to revisit the Labyrinth of Fordaig and collect the bodies of 12 adventurers scattered across all 4 floors.
-        - When collecting the bodies you will be forced into a fight against undead enemies. The battles become increasingly more challenging as you progress. The final set of fights on B4F includes Necromancers that are roughly on par with their sentry versions in Abyss 3.  
+        - When collecting the bodies you will be forced into a fight against Undead enemies. The battles become increasingly more challenging as you progress. The final set of fights on B4F includes Necromancers that are roughly on par with their sentry versions in Abyss 3.  
         - The request is very straightforward. Use the maps for each floor and path to the yellow check-marks. You can exit and return at any point. It will not reset your progress. 
 
     === "Preparation" 
     
         - Undead Bane (Abyss 1) or Expulsion (Abyss 3) weapons otherwise you will do ~50% less physical damage.
-        - Yekaterina (increased damage to undead enemies; standard style).
+        - Yekaterina's unique passive (standard style) does increased damage to undead enemies.
         - The number of mobs per fight increases per floor, so bringing multiple Mages with MA- or LA- spells is helpful.
         - Undead Slayer nodes for the MC in the Well of the Mind.
 
