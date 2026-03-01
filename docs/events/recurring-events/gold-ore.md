@@ -1,6 +1,6 @@
 ## Gold Ore Collection 
 
-!!! warning "Do not submit the request until you have collected all of the Gold Ore. It is possible to get locked out of the full reward, which is substantial, if submitted prematurely."
+!!! warning "Do not submit the request until you have collected the maximum amount of Gold Ore. The additional Gold reward is substantial and you will miss out on it if the request is submitted prematurely."
 
 ### Overview
 
@@ -64,10 +64,10 @@
 
     === "Guide"
 
+        - The fastest (almost always no-combat) method is Harkening into District 2, auto-path to the two closest locations, see if any Thief spawned, then auto-exit back to the Harken. Rinse and repeat. 
         - Each group of thieves give 200 Gold Ore with another 100 if Marianne is present in your party. You need to collect 12,000 Gold Ore for the maximum Gold reward of $600K. 
             - 60 encounters without Marianne
             - 40 encounters with Marianne 
-        - The fastest (almost always no-combat) method is Harkening into District 2, auto-path to the two closest locations, see if any Thief spawned, then auto-exit back to the Harken. Rinse and repeat. 
 
     === "Thief Spawning Locations"
     
@@ -77,13 +77,13 @@
 
     === "Guide" 
 
+        - The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
         - Each group of thieves gives you 400 ore with another 200 if Marianne is present in your party. You need to collect 24,000 Gold Ore for the maximum Gold reward of $1M. 
             - 60 encounters without Marianne
             - 40 encounters with Marianne
-        - The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
-=== "Thief Spawning Locations"
-
-    ![](./img/gold-ore-abyss3_locations.jpg)
+    === "Thief Spawning Locations"
+    
+        ![](./img/gold-ore-abyss3_locations.jpg)
 
 
