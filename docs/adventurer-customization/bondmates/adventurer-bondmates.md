@@ -5,7 +5,7 @@
 - Stat bondmates range from level 1 to 5. Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
 - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
 
-??? note "Flaming-Heart Requirements" 
+??? warning "Flaming-Heart Requirements" 
 
     === "Conditions"
     
@@ -34,7 +34,17 @@
         <div align="center">
         ![](img/adventurer-bondmate-example.jpg)
         </div>
-        
+
+??? note "Bondmate Levels"
+
+    - After dismissal the stat bondmate will receive a level from 1 to 5. It seems to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
+    - Based on extensive community testing we can confirm:
+        - If a unit has two, level 5 bondmates attached prior to dismissal it will result in a level 4 or 5 stat bondmate.
+        - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a level 5.
+    - In practice, this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that target.
+    - For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
+    - Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
+      
 ??? note "Trait Bonuses" 
 
     === "Mechanics"
@@ -58,15 +68,7 @@
             - A level 60 (Steel Grade) unit will receive +5-6 trait points
         - The trait bonus range is due to rounding and will vary by unit
 
-??? note "Bondmate Levels"
 
-    - After dismissal the stat bondmate will receive a level from 1 to 5. It seems to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
-    - Based on extensive community testing we can confirm:
-        - If a unit has two, level 5 bondmates attached prior to dismissal it will result in a level 4 or 5 stat bondmate.
-        - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a level 5.
-    - In practice, this means that for whatever number of level 5 bondmates you are targeting you will need to farm double that target.
-    - For example, if you want a level 5 SPD bondmate on 6 units you should expect to farm, on average, 12 SPD bondmates.
-    - Note that the bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
 
 ## Efficient Trust Farming 
 
