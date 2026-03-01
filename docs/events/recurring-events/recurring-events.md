@@ -48,7 +48,7 @@ This page is intended to capture smaller, recurring events that usually pop up a
 
 ### Maps 
 
-- The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner), which will take you to the small sides are on B2F.
+- The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner), which will take you to the small sides areas on B2F.
 - There is no way to check the number of bodies you have collected. They are not shown in your Valuables or Requests List. Fortunately, you will get Lulu text after collecting all 12 bodies, so do not submit the request until that message appears. 
 
 ??? map "Map B1F - 3 Bodies "
@@ -108,6 +108,7 @@ In Abyss 3, each group of thieves should get you 400 ore, with another 200 if Ma
 The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
 
 ![](./img/gold-ore-abyss3_locations.jpg)
+
 
 
 
