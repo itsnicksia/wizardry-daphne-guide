@@ -156,11 +156,15 @@
         - Evil: Beast Thief (DEX), Human Ninja (SPD), Elf Priest (PIE)
         - Good: Human Priest (PIE), Dwarf Knight (VIT)
     - Go to the Beginning Abyss, Floor 7 
-    - Find a chest and have MC (ideally) fail the mini-game
+    - Find a chest and have MC (ideally) fail the mini-game.
         - It is not known if failing chests results in a trust penalty, but it does lower the MC's hidden Fortitude value. 
-        - There is a fixed mimic chest on F6 by the stairs you can fail and run away from the mimic fight; this can be repeated.
-    - Go to the F7 Fountain and Camp, use the [Trust Table](../../mechanics/trust/table.md) to select the "best" answers.
-    - Note: If the stone block to the Fountain is not reversed, then you can 1) harken to F8 and reverse them or 2) see if wheeling twice on "King's Arrival" restores them.
+        - There is a fixed mimic chest on F6 by the stairs that you can fail and run away from the battle; this can be repeated. Be careful if you are using auto-battle as you may accidentally kill the mimic. 
+        - If you do not want to use the mimic, then chests appear frequently on the path to the Fountain. You can also check Floor 6 to see if there are any chests close to the stairs. 
+        - The odds of getting a Camp conversation go up slightly, on average, if more than one chest is failed. However, this has not been extensively tested. 
+    - Go to the Floor7 Fountain and Camp, use the [Trust Table](../../mechanics/trust/table.md) to select the "best" answers.
+    - Note: If the stone block to the Fountain is not reversed, then you can:
+        - Harken to Floor 8 and reverse them 
+        - Wheel twice on "King's Arrival" in the Cursed Wheel to see if that restores them
     - Exit
     - Repeat this process until the flaming-heart procs on the stat bondmate. 
 
@@ -183,8 +187,6 @@ Below are the steps from start-to-finish to create a stat bondmate:
 - During the dismissal scene you will be notified that the adventurer is now a bondmate
 - The Bronze Grade tag will be refunded 
 - Check the Bondmate List to see if they turned out to be a level 4 or 5
-
-!!! warning "Do not forget to double-check you remembered to add the two, level 5 bondmates. This is the number one reason why this process can fail."
 
 ## Other Notes
 
