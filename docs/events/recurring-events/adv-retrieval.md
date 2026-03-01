@@ -41,7 +41,8 @@
 
 !!! warning "Do NOT turn in the request until all 12 bodies have been collected otherwise you will miss out on getting all 48 No Name tags!"
 
-- The base reward is 4 No Name tags and 5,000 gold for collecting 1 body. You receive 4 No Name tags and 5,000 gold per additional body collected. 
+- The base reward is 4 No Name tags and 5,000 gold for collecting 1 body.
+- You receive 4 No Name tags and 5,000 gold per additional body collected. 
 - A grand total of 48 No Name tags and 60,000 Gold for collecting all 12 bodies. 
 
 ### Maps 
