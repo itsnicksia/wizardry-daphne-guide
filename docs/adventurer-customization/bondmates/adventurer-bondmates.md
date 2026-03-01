@@ -2,7 +2,8 @@
 
 ??? note "Basics" 
 
-    - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart [trust](../../mechanics/trust/trust.md) status. Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, Evade, and so on.
+    - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart [trust](../../mechanics/trust/trust.md) status. 
+    - Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, Evade, and so on.
     - Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
     - Stat bondmates range from level 1 to 5. Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
     - Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
@@ -172,10 +173,10 @@ Below are the steps from start-to-finish to create a stat bondmate:
 - Defeat Helmut and either Melgina or Octoranus
 - Note: If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears 
-- Go to the Guild - Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate 
-- **Double-check they have the flaming-heart icon, 2 level 5 bondmates equipped, and are unlocked**
-- **Double-check they have the flaming-heart icon, 2 level 5 bondmates equipped, and are unlocked**
-- **Double-check they have the flaming-heart icon, 2 level 5 bondmates equipped, and are unlocked**
+- Go to the Guild - Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate
+
+!!! warning "**Double-check they have the flaming-heart icon, two level 5 bondmates equipped, and are unlocked**"
+
 - Dismiss
 - During the dismissal scene you will be notified that the adventurer is now a bondmate
 - The Bronze Grade tag will be refunded 
