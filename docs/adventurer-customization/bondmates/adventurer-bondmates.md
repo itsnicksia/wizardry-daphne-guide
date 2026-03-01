@@ -11,7 +11,7 @@
 
     === "Conditions"
     
-        The goal of this process is to get the flaming-heart icon on a unit, so that they can be dismissed and turned into a stat bondmate. There are 3 requirements:
+        - The goal of this process is to get the flaming-heart icon on a unit, so that they can be dismissed and turned into a stat bondmate. There are 3 requirements:
         - Bronze Grade (minimum level of 30)
             - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. 
             - Higher levels have no effect on your chances of getting a level 5 bondmate. 
