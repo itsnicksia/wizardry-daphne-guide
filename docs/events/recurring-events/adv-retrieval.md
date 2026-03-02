@@ -1,3 +1,5 @@
+!!! warning "Do NOT turn in the request until all 12 bodies have been collected otherwise you will miss out on getting all 48 No Name tags!"
+
 ### Unlock Condition
 
 - Clear the second run ("True" ending) of the [Stolen Armor Retrieval](../labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md) special request. 
@@ -37,18 +39,18 @@
         - B3F - Level 49
         - B4F - Level 61 
 
-### Rewards
-
-!!! warning "Do NOT turn in the request until all 12 bodies have been collected otherwise you will miss out on getting all 48 No Name tags!"
-
-- The base reward is 4 No Name tags and 5,000 gold for collecting 1 body.
-- You receive 4 No Name tags and 5,000 gold per additional body collected. 
-- A grand total of 48 No Name tags and 60,000 Gold for collecting all 12 bodies. 
+??? "Rewards"
+    
+    - The base reward is 4 No Name tags and 5,000 gold for collecting 1 body.
+    - You receive 4 No Name tags and 5,000 gold per additional body collected. 
+    - A grand total of 48 No Name tags and 60,000 Gold for collecting all 12 bodies. 
 
 ### Maps 
 
-- The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner), which will take you to the small sides areas on B2F.
-- There is no way to check the number of bodies you have collected. They are not shown in your Valuables or Requests List. Fortunately, you will get Lulu text after collecting all 12 bodies, so do not submit the request until that message appears. 
+??? note "Important Notes" 
+
+    - The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner), which will take you to the small sides areas on B2F.
+    - There is no way to check the number of bodies you have collected. They are not shown in your Valuables or Requests List. Fortunately, you will get Lulu text after collecting all 12 bodies, so do not submit the request until that message appears. 
 
 ??? map "Map B1F - 3 Bodies "
     ![](./img/fordaig-adv-retrieval-B1F.png)
