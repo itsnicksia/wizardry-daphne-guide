@@ -1,0 +1,6 @@
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    font-size: .65rem;
+    padding: 3px 8px;
+}
+

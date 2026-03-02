@@ -1,0 +1,28 @@
+.nofilter-table {}  /*placeholder style to enable disabling table filter*/
+
+.nosort-table {}    /*placeholder style to enable disabling table sorting */
+
+.md-typeset .narrow-table table th,
+.md-typeset .narrow-table table td {
+    min-width: max-content;
+    white-space: pre-line;
+}
+
+.md-typeset .equipment-table table th {
+    min-width: max-content;
+    white-space: pre;
+}
+
+.md-typeset .equipment-table table td {
+    min-width: max-content;
+    white-space: pre-line;
+}
+
+.md-typeset .char-traits-table table th,
+.md-typeset .char-traits-table table td {
+    font-size: 0.85rem;
+    min-width: max-content;
+    white-space: pre-line;
+    text-align: center !important;
+}
+
