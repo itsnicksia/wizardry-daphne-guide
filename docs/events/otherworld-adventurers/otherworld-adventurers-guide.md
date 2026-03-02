@@ -141,8 +141,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         5. Head to where you previously fought the Red Dragon, but this time there will be a Black Dragon. It will fog up the entire room forcing you to retreat. Head back to the Royal Capital and resurrect Ainikki who will offer to assist at the Temple.
         6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
         7. Return to the Black Dragon's chamber on B3F. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up and possibly your device's screen brightness. If you are having trouble navigating the fog, then see the tabs for step-by-step directions.
-        8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath attack (deals extremely high damage). It's recommended to bring as few unit as possible to cut down on revival costs. However, there are 2-3 enemies (unavoidable) in the corridor to the Black Dragon's room, so adjust accordingly based on your team's power level. A unit can survive if Sanctuary's Blessing or Sheli's passive procs, but he will continue to spam the breath attack until everyone is dead.   
-        9. You will have to reset the event to get Ainikki's help on the second run.
+        8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath attack (deals extremely high damage). It's recommended to bring as few units as possible to cut down on revival costs. However, there are 2-3 hard to avoid enemies in the corridor to the Black Dragon's room, so adjust accordingly based on your team's power level. A unit can survive if Sanctuary's Blessing or Sheli's passive activates, but the dragon will continue to spam the breath attack until everyone is dead.   
+        9. You will automatically wheel reset the event after hearing Iarumus suggest how to fix it by getting Ainikki's.
 
     === "Black Fog Directions"
     
@@ -165,7 +165,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
     === "Guide"
         1. Save all the civilians on B1F and B2F per usual. 
-        2. When you encounter the Knight on B2F you now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map.
+        2. When you encounter the Knight on B2F you now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map.  There is no other apparent negative repercussion from abandoning the Knight.
         3. Repeat the same steps as before. Collect Ainikki's body at the stairs to B3F, view the Black Dragon spewing fog scene on B3F, retreat, exit, and Ainikki will be revived at the Temple.
         4. Turn in the request and accept the dragon slaying request again. Head to the Tavern and ask Iarumas for help. Leave the Adventurer's Guild and ask Ainikki for help. This time, Iarumas will ask her to help as well.
         5. Ainikki agrees, but requires equipment to defeat the Black Dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
@@ -183,6 +183,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Copper Grade.
         - It is Dark element as its color suggests, and is weak to Light. Obviously, its breath is Dark-type damage.
         - The Dark Breath that it uses applies weaken on targets hits.
+        - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration.
 
 ### Maps
 
@@ -200,10 +201,10 @@ Note that B2F and B3F are different for the Part 2 (Ainikki) route.
 
 ### Black Dragon Superboss 
 
-!!! warning "Currently, there are many players that cannot access this fight even after clearing the second run. We suspect that there are other requirements, including being Copper Grade and/or A4 progression. It is possible that this fight was not level-scaled or is a bug that is yet to be fixed."
+!!! warning "Currently, there are many players that cannot access this fight even after clearing the second run. We suspect that there are other requirements, possibly Grade Grade and/or story progression. However, players as low as Bronze grade in Abyss 3 have accessed it. The fight does not appear to level scale as do all other fights in the event. Aspects of this could be bugs that are yet to be fixed."
 
 
-After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
+After completing the 2nd Run, a dwarf in the tavern suggests something strange is happening in the Sahuagin's Cave and Lulu suggests you head down to check it out. The screen will glitch upon entering the cave in B3F where the Black Dragon used to reside, indicating something has changed. Head to the very back of the chamber, and a path on the east side will open into the Other World. Head inside and you'll be placed in an old-school, black and white, pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
 
 ??? map "Otherworld Rift"
     ![](img/otherworld-rift.jpg)
@@ -211,7 +212,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 ??? danger "Black Dragon Superboss Fight"
     ![](img/black-dragon-superboss.png)
 
-    - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
+    - Has around 105k-120k HP (no apparent level scaling). Has three actions per turn. Does not have very high Surety Evasion.
     - Has the typical moveset of the Black Dragon such as Roar (stuns), Black Flame Breath (weakens), Claw, Tail Swipe, Morlis, etc.
     - The dragon itself is dark element, and all of its melee attacks are dark element as well. As a result, it's highly recommended to equip various pieces of light armor if possible, along with using Augmented Dragonslayer if suitable.
     - The Bite attack of the Black Dragon can potentially do 4 digit damage.
@@ -220,8 +221,9 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked (not always) or Batilgref'd (consistent). It is recommended to try and slow the Dragon down with Batilgref and Scroll of Cascading Slowing.
     - The dragon can be debuffed, but it isn't consistent. It is also possible to apply status effects on this dragon, but it isn't consistent. It is immune to Montino.
     - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
-    - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. In addition, the boss may drop a rare consumable that when used reduces enemy's damage dealt. It's also entirely possible this boss drops nothing.
+    - The dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. 
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
+    - It's also entirely possible for the boss to drop nothing.
     - To reset this boss, you will need to cursed wheel the event entirely.
 
 ## Farming
@@ -236,7 +238,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - A4 Players
             - The volume of Fey junk rivals that of Ship 2 farming. It's a solid place to stock up on extract fodder. 
             - If your account needs 4* purple bases for basic gear it is easier to get since A4 is stingy with access to Fey junk. 
-            - If you have an OP account, then you are better off going back to farming Alabaster Wolf Den, Island of the Wailing Oni, and A4 Routes 10-11 for the current best-in-slot gear.  
+            - If you have an OP account, then after getting enough event currency for any items of interest you are better off going back to farming Alabaster Wolf Den, Island of the Wailing Oni, and A4 Routes 10-11 for the current best-in-slot gear.  
             
     === "Currency"
         - As the event is limited the average currency per chest is higher than average, which makes it easier to clear the shop for everything but the unique gear.
@@ -244,14 +246,15 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - There does not appear to be any differences in currency drop rates between Parts 1 (Berkanan Route) and 2 (Ainikki Route). 
 
     === "Junk" 
-        - There are 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Other factors that might play a role are currently being tested. 
+        - There are 8 tiers of junk that unlock based on a combination of MC Grade and Abyss progression. Note that player of seemingly equal level/progress report different drop results. Resetting the event may be necessary to trigger a change of drops based on level/progress change.   Other factors that might play a role are currently being tested.
         - Each tier of junk comes in Basic, Common, and Fey versions. Fey junk is the only type with a chance at 4* purple gear. 
         - Junk Pool
             - Weapons: 1H and 2H swords, 1H rods, 2H staffs.
             - Armor: Cloth and light armor for the head, hand, and feet. No heavy armor. 
             - Accessories: Basic ring versions.
-            - Unique gear: The Saber is included as a potential drop in all tiers of junk at an increasing rate. The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
+            - Unique gear: The Saber is included as a potential drop in all tiers of junk at an increasing rate. This is likely the best available weapon for a Samurai for players in Abyss 1 and 2.  The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
         - Luminaries junk (highest tier) is Silver-only and includes all 3 versions of the enhanced unique gear. 
+        - Presently, ebonsteel tier junk only seems to appear alongside silver junk. There does not seem to be a set of level/progress conditions that will move a player from steel to ebonsteel junk drops.
         - Treasure is, unfortunately, only Azure.
 
 ??? note "Optimal Farming Routes" 
@@ -264,7 +267,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     
     === "B3F (Ainikki Route)"
     
-        - Routing: Select B2F, grab nearby chests, go to B3F, kill all the enemies, exit, and repeat until you need to recover at the Inn.
+        - Routing: Select B2F, grab any nearby chests, go to B3F, kill all the enemies, exit, and repeat until you need to recover at the Inn.
         - Most efficient route for currency and Luminaries Fey junk (9.17% versus 5.3% for B1F and B2F). It is superior to farming B1F and/or B2F due to its small size, fixed mob density, easy enemies, and higher rates of both currency and Fey Luminaries junk. 
         - Minimum of 9 enemies per run, but up to 11.  
         - Enemy chest drop rate is ~50% or 4.5-5 chests, on average, per run. 
@@ -290,7 +293,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     
         - The majority of the data testing comes from our Discord members @slimwaldi, @liezeith, and @genosis who have collectively spent dozens of hours farming, tracking, and sharing their data. 
         - Data covers roughly 8,000 junk collected across all 3 floors with and without wheeling-in-place to reset the fixed chests on each floor. 
-        - If you are interested in learning more about the methodology please see the #B&B Event Farming Data channel.
+        - If you are interested in learning more about the methodology please see the [#B&B Event Farming Data channel](https://discord.com/channels/1296602475918524507/1475643104911429864).
         - Any major corrections or new findings please contact @lightbearer or post in the Discord channel above. 
 
 ## Unlocking Junk Tiers
