@@ -28,7 +28,7 @@
 
     === "Enemies"
 
-        - When collecting the bodies the enemies are a mix of all Undead enemies (Archer, Mage, Knight, etc.) you have seen throughout the game. The normal Fordaig enemies remain unchanged.  
+        - When collecting the bodies the enemies are a mix of all Undead enemies (Archer, Mage, Knight, etc.) you have seen throughout the game. The normal Fordraig enemies remain unchanged.  
         - Big Skeletons are added to fights on the upper floors. Necromancers (Humanoid) only appear on B4F. 
         - Enemy levels are fixed per floor and do not scale with the MC's Grade. 
 
@@ -49,7 +49,7 @@
 
 ??? note "Map Notes" 
 
-    - The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner), which will take you to the small sides areas on B2F.
+    - The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner), which will take you to the small side areas on B2F.
     - There is no way to check the number of bodies you have collected. They are not shown in your Valuables or Requests List. Fortunately, you will get Lulu text after collecting all 12 bodies, so do not submit the request until that message appears. 
 
 ??? map "Map B1F - 3 Bodies "
