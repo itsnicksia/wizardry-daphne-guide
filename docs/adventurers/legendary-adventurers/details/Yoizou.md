@@ -96,7 +96,7 @@
  
 ## Duplicate Usage
 
-* Inerhiting his own skill can increase its effectiveness
+* Inherit to himself to increase the skill's effectiveness
 * Inherit to someone else for situational fire damage boosting
 * Discipline will increase his damage a bit. Keep in mind, though, that Samurai only have a ~0.65 multiplier on their Magic Power contribution to effective Attack Power, so the actual damage contribution from a Magic Power Discipline would be less than the contribution to a Mage.
 {% endblock ReviewsAndAnalysis %}
