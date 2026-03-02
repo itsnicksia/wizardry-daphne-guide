@@ -297,44 +297,46 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
 ## Unlocking Junk Tiers
 
-- Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple conditions with varying levels of importance. 
-- We have limited insight into how this system works. Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. However, these guidelines may not work for you, so know that in advance. 
-- There are 9 tiers of junk with the first 2 tiers unlocked immediately at Abyss 1, Floor 1 (A1 F1). This is the syntax that will be using to refer to Abyss progression (A = Abyss, F = Floor). 
+??? note "Overview" 
 
-??? note "Mechanics"
+    - Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple conditions with varying levels of importance. 
+    - We have limited insight into how this system works. Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. However, these guidelines may not work for you, so know that in advance. 
+    - There are 9 tiers of junk with the first 2 tiers unlocked immediately at Abyss 1, Floor 1 (A1 F1). This is the syntax that will be using to refer to Abyss progression (A = Abyss, F = Floor). 
+
+??? warning "Mechanics"
 
     === "Notes" 
     
-        - We have confirmed 3 primary variables (listed in order of importance) that can unlock junk tiers:
+        - Primary variables confirmed to unlock junk tiers: 
             - MC's Grade
-            - Abyss Progression 
-            - Reputation Level 
-                - Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
-        - The lower the MC's Grade the more Abyss progression is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
-        - A strange quirk of the system is that both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries, highest tier). The exact requirements for unlocking Ebon junk only are not known to-date.
-        - Variables we suspect might have an influence, but have not been tested include: 
-            - MC being at the max level for each Grade 
-            - The "True" endings for A1 or A2. 
-        !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel"."  
+            - Abyss progression 
+            - Reputation level. Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
+        - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
+        - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date.
+        - Variables we suspect might have an influence, but have not been tested include: 1) MC being at the max level for each Grade and 2) the "True" endings for A1 or A2. 
+            !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel"."  
 
     === "Troubleshooting" 
 
-        - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. Here are the things to test in order of importance:
-            - Increase MC's Grade to Steel or, ideally, Copper, if possible. The Sahuagin's Cave gives decent EXP, so you can form both junk at the same time you're raising MC's level.   
-            - Make more progress in your current Abyss. The game's general pattern is to unlock things once you reach a Major Harken usually located at F3-4, F6-7, and F10 (final floor) after defeating the GWO.  
-            - Get the "best" endings for the Special Requests, which are listed under the "Events" section of the site's navigation list. 
-            - Grind reputation using fast Guild requests in A1 or A2. If doing this process you can also increase bondmate levels, particularly Mel who is fast and gives +13-14 Disarm Trap at level 5.  
+        - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
+        - Below is a list of things to test in order of importance:
+            - Increase MC's Grade to Steel or Copper, ideally. 
+            - Make more progress in your current Abyss. 
+                - The game is built around unlocking new Guild requests, side dungeons, etc. once you reach a Major Harken in an Abyss or defeat the GWO. We suspect the junk unlocking system also uses these event flags. 
+                - The primary floors to test would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating the GWO.  
+            - Complete the "Best" endings for the Special Requests, which are listed under the Events section in the navigation list.
+            - Grind reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
             - Complete the "True" endings for A1 and A2. 
             - Complete all Guild requests you have access to at least once. 
-        - As noted in the last tab it is critical to reset the entire event using the "EVENT" button (yellow shield) otherwise the junk pool will not update properly. Some Discord members have it happen automatically, but many do not. 
-        - As a last resort you can send an Inquiry to Drecom (link [here](https://support.wizardry.info/en/inquiry) if you have tried everything listed above as it could be a bug. 
+        - Remember! The junk pool will not update unless you reset the entire event using the "EVENT" button (yellow shield). Some Discord members have it happen automatically, but many do not. 
+        - As a last resort you can send an Inquiry to Drecom (link [here](https://support.wizardry.info/en/inquiry)) if you have tried everything listed above as it could be a bug. 
 
 ??? note "Junk Unlocking Requirements (WIP)" 
 
     === "Junk Tiers 1-8"
     
         | Tier | Junk Name | Equipment Rank | MC Grade | Abyss Progression | Notes | 
-        |:--|:-------------:|:-------------:|:--------:|:-------------------:|:-------------------:|
+        |:--|:--------------|:--------------|:---------|:--------------------|:-------------------|
         | 1 | Junk          | Bronze | No Grade  | A1 F1 |    |  
         | 2 | Teal          | Steel  | No Grade  | A1 F1 |    | 
         | 3 | Sliver        | Iron   | Lead      | A2 F6 |    | 
@@ -351,10 +353,10 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - As previously noted, we have yet to discover any way to unlock Five Blossoms or Six Energies without also unlocking Seven Luminaries at the same time so consult the next tab.
         - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel".
 
-    === "Junk Tier 9 - Seven Luminaries" 
+    === "Junk Tier 9 (Seven Luminaries)" 
     
         | Tier | Junk Name | Equipment Rank | MC Grade | Abyss Progression | Notes | 
-        |:--|:-------------:|:-------------:|:--------:|:-------------------:|:-------------------:|
+        |:--|:-------------|:---------------|:---------|:------------------|:-------------------|
         | 9 | Seven Luminaries | Silver | Bronze | A4 F1?                         |    |  
         |   |                  | Silver | Iron   | A3 F10 - Defeat GWO 3          |    | 
         |   |                  | Silver | Steel  | A3 F7 - Defeat Doll boss       |    | 
@@ -364,10 +366,10 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - See the "Troubleshooting" tab under "Mechanics" for options that _might_ unlock Seven Luminaries junk if you do not think you will be able to increase MC's Grade or make additional Abyss progress. 
         - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel".
 
-    === "Saber Drop % by Junk Tier"
+    === "Saber Drop %"
     
         | Tier | Junk Name | Saber Drop % | Notes | 
-        |:--|:-------------:|:----:|:--------:|
+        |:--|:--------------|:-----|:--------|
         | 1 | Junk          | 0.1% | 1 in 1,000 chance |     
         | 2 | Teal          | -    |  |    
         | 3 | Sliver        | 0.5% | 1 in 200 chance |   
@@ -383,12 +385,12 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
     === "MC Grade List"
     
-        - No Grade - Level 1-20
-        - Lead - Level 21-30
-        - Bronze - Level 31-40
-        - Iron - Level 41-50
-        - Steel - Level 51-60
-        - Copper - Level 61-70
+        - No Grade: Level 1-20
+        - Lead: Level 21-30
+        - Bronze: Level 31-40
+        - Iron: Level 41-50
+        - Steel: Level 51-60
+        - Copper: Level 61-70
 
 ## Exchange Shop 
 
@@ -402,9 +404,9 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
     === "Priority Items"
     
-        - The most important items to purchase first are the two sets of codex books for a total cost of 32,500. The provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
-        - The Adventurer's Remains I and II and Gem of Org x200 should be picked up next. Note: An additional 3 Adventurer's Remains of each type are added as part of the weekly refresh. 
-        - Cones and Macones can be helpful for your MC, Iaramus, or your primary spellcaster. The only way to upgrade Halito is via the Jewler (Limited Time Offer - Daily) with purple gems. Mahalito is only from Asha's alternative style banner. The total cost for all the spell books is 30,000. 
+        - The two sets of Codex books are your top priority. The total cost is 32,500. They provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
+        - The Adventurer's Remains I and II and Gem of Org x200 should be picked up next. An additional 3 Adventurer's Remains of each type (I and II) are refreshed weekly and missable. 
+        - Cones and Macones can be helpful for your MC, Iaramus, or your primary spellcaster. The only way to upgrade Halito is via the Jewler - Limited Time Offer - Daily with purple gems. Mahalito is only from Asha's alternative style banner. The total cost for all the spell books is 30,000. 
         - The total cost of all the basic items (Azure Ore, Enhancement Ores, EXP books) is 7,880. The Enhancement Ores and EXP books are refreshed on a weekly basis.  
 
     === "Unique Gear Considerations"
