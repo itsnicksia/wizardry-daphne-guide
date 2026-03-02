@@ -5,7 +5,7 @@
 ## Unlock Conditions
 
 - Defeat Melgina (Abyss 2) on any faction route. The event does not require killing Octoranus.
-- If you are looking for the limited time-event "Adventurer Retrieval" it is located [here](../recurring-events/recurring-events.md). 
+- If you are looking for the limited time-event "Adventurer Retrieval" it is located [here](../recurring-events/adv-retrieval.md). 
 
 ## Overview
 
