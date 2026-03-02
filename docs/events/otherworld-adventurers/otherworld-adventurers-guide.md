@@ -127,7 +127,7 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
 ### Guides
 
-!!! warning "To access Part 2 you will need to clear the best ending (3rd Run) of Part 1 (Ainikki Route)."
+!!! warning "To access Part 2 you will need to clear the best ending (3rd Run) of Part 1 (Berkanan Route)."
 
 Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Blackdragon Superboss fight in the Otherworld side dungeon zone. 
 
