@@ -1,4 +1,4 @@
-!!! warning "Do NOT turn in the request until all 12 bodies have been collected otherwise you will miss out on getting all 48 No Name tags!"
+!!! warning "Do not turn in the request until all 12 bodies have been collected otherwise you will miss out on getting all 48 No Name tags!"
 
 ### Unlock Condition
 
@@ -39,7 +39,7 @@
         - B3F - Level 49
         - B4F - Level 61 
 
-??? "Rewards"
+??? warning "Rewards"
     
     - The base reward is 4 No Name tags and 5,000 gold for collecting 1 body.
     - You receive 4 No Name tags and 5,000 gold per additional body collected. 
