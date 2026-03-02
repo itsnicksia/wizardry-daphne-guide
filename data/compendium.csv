@@ -119,11 +119,11 @@ Characters,Allies,2003,Yekaterina
 Characters,Allies,2004,Lanavaille
 Characters,Allies,2005,Alice
 Characters,Allies,2006,Debra
-Characters,Allies,2007,? ? ? ?
-Characters,Allies,2008,? ? ? ?
+Characters,Allies,2007,Gerard
+Characters,Allies,2008,Abenius
 Characters,Allies,2009,Red Beard
 Characters,Allies,2010,Rinne
-Characters,Allies,2011,? ? ? ?
+Characters,Allies,2011,Savia
 Characters,Allies,2012,Arboris
 Characters,Allies,2013,Gaston
 Characters,Allies,2014,Gandalfo
@@ -178,6 +178,7 @@ Characters,Allies,2062,? ? ? ?
 Characters,Allies,2063,Human-Sam
 Characters,Allies,Ex.,Iarumas
 Characters,Allies,Ex.,Berkanan
+Characters,Allies,Ex.,Ainikki
 Item,Sell Only,1,Rusty Old Coin
 Item,Sell Only,2,Translucent Pebble
 Item,Sell Only,3,Azure Ore
@@ -240,11 +241,12 @@ Item,Consumables,1024,? ? ? ?
 Item,Consumables,1025,? ? ? ?
 Item,Consumables,1026,? ? ? ?
 Item,Consumables,1027,? ? ? ?
-Item,Consumables,1028,? ? ? ?
-Item,Consumables,1029,? ? ? ?
-Item,Consumables,1030,? ? ? ?
-Item,Consumables,1031,? ? ? ?
+Item,Consumables,1028,Binding Rope
+Item,Consumables,1029,Snow Honey
+Item,Consumables,1030,Lunar Honey
+Item,Consumables,1031,Floral Honey
 Item,Consumables,Ex.,Elegant Chocolatt
+Item,Consumables,Ex.,Royal Chocolatl
 Item,Consumables,Ex.,Festival Chocolatt
 Item,Consumables,Ex.,Chocolat Succubus
 Item,Consumables,Ex.,Chocolat Ambrosia
@@ -376,17 +378,17 @@ Item,Valuables,2125,? ? ? ?
 Item,Valuables,2126,? ? ? ?
 Item,Valuables,2127,? ? ? ?
 Item,Valuables,2128,? ? ? ?
-Item,Valuables,2129,? ? ? ?
-Item,Valuables,2130,? ? ? ?
-Item,Valuables,2131,? ? ? ?
-Item,Valuables,2132,? ? ? ?
-Item,Valuables,2133,? ? ? ?
+Item,Valuables,2129,Smallish Heavy White Stone
+Item,Valuables,2130,Stone with Yellow Specks
+Item,Valuables,2131,Dried Fish Fragment
+Item,Valuables,2132,Daphnes
+Item,Valuables,2133,Godefroi's Relic
 Item,Valuables,2134,? ? ? ?
 Item,Valuables,2135,? ? ? ?
 Item,Valuables,2136,? ? ? ?
 Item,Valuables,2137,? ? ? ?
-Item,Valuables,2138,? ? ? ?
-Item,Valuables,2139,? ? ? ?
+Item,Valuables,2138,Rabbit
+Item,Valuables,2139,Fresh Monster Blood
 Item,Valuables,2140,? ? ? ?
 Item,Valuables,2141,? ? ? ?
 Item,Valuables,2142,? ? ? ?
@@ -1161,10 +1163,10 @@ Monsters,Monsters,46,Forest Hawk
 Monsters,Monsters,47,Desert Insect
 Monsters,Monsters,48,Lesser Demon
 Monsters,Monsters,49,Greater Demon
-Monsters,Monsters,50,? ? ? ?
+Monsters,Monsters,50,Cyclops
 Monsters,Monsters,51,Earth Pixie
-Monsters,Monsters,52,? ? ? ?
-Monsters,Monsters,53,? ? ? ?
+Monsters,Monsters,52,Evil Eye
+Monsters,Monsters,53,Vampire
 Monsters,Monsters,54,Dragon Fly
 Monsters,Monsters,55,Desert Fly
 Monsters,Monsters,56,? ? ? ?
@@ -1220,8 +1222,8 @@ Monsters,Monsters,105,? ? ? ?
 Monsters,Monsters,106,? ? ? ?
 Monsters,Monsters,107,? ? ? ?
 Monsters,Monsters,108,? ? ? ?
-Monsters,Monsters,109,? ? ? ?
-Monsters,Monsters,110,? ? ? ?
+Monsters,Monsters,109,Dark Entity
+Monsters,Monsters,110,Dark Golem
 Monsters,Monsters,111,Ninja
 Monsters,Monsters,112,Indigo Ninja
 Monsters,Monsters,113,Amber Ninja
@@ -1229,7 +1231,7 @@ Monsters,Monsters,114,Elite Hobgoblin
 Monsters,Monsters,115,Zealot Bandit
 Monsters,Monsters,116,Earth Gas Cloud
 Monsters,Monsters,117,? ? ? ?
-Monsters,Monsters,118,? ? ? ?
+Monsters,Monsters,118,Master Dicer
 Monsters,Monsters,119,? ? ? ?
 Monsters,Monsters,120,? ? ? ?
 Monsters,Monsters,121,Earth Creeping Coins
@@ -1278,16 +1280,16 @@ Monsters,Monsters,163,? ? ? ?
 Monsters,Monsters,164,? ? ? ?
 Monsters,Monsters,165,? ? ? ?
 Monsters,Monsters,166,? ? ? ?
-Monsters,Monsters,167,? ? ? ?
-Monsters,Monsters,168,? ? ? ?
-Monsters,Monsters,169,? ? ? ?
-Monsters,Monsters,170,? ? ? ?
+Monsters,Monsters,167,Water Big Slime
+Monsters,Monsters,168,Snowpeak Cyclops
+Monsters,Monsters,169,Water Pixie
+Monsters,Monsters,170,Ice Entity
 Monsters,Monsters,171,? ? ? ?
-Monsters,Monsters,172,? ? ? ?
-Monsters,Monsters,173,? ? ? ?
-Monsters,Monsters,174,? ? ? ?
-Monsters,Monsters,176,? ? ? ?
-Monsters,Monsters,177,? ? ? ?
+Monsters,Monsters,172,Snow Hawk
+Monsters,Monsters,173,Big Snow Hawk
+Monsters,Monsters,174,Bigfoot Child
+Monsters,Monsters,176,Stonefolk
+Monsters,Monsters,177,Lamenting Snowfolk
 Monsters,Monsters,178,? ? ? ?
 Monsters,Monsters,179,? ? ? ?
 Monsters,Monsters,180,? ? ? ?
@@ -1317,7 +1319,7 @@ Monsters,Key Monsters,1010,Octonarus
 Monsters,Key Monsters,1011,Hydra Plant
 Monsters,Key Monsters,1012,Giant Monster Bird
 Monsters,Key Monsters,1013,Necrocore
-Monsters,Key Monsters,1014,? ? ? ?
+Monsters,Key Monsters,1014,Our Heirlooms
 Monsters,Key Monsters,1015,? ? ? ?
 Monsters,Key Monsters,1016,? ? ? ?
 Monsters,Key Monsters,1017,? ? ? ?
@@ -1331,12 +1333,11 @@ Monsters,Key Monsters,1024,Snow Wolf Leader
 Monsters,Key Monsters,1025,Godefroi
 Monsters,Key Monsters,1026,Witch
 Monsters,Key Monsters,1028,Alabaster Balewolf
-Monsters,Key Monsters,1029,? ? ? ?
+Monsters,Key Monsters,1029,Lightning-Clad Monster Bird
 Monsters,Key Monsters,1030,? ? ? ?
-Monsters,Key Monsters,1031,Touma
+Monsters,Key Monsters,1031,Tauma
 Monsters,Key Monsters,1032,Seigen
 Monsters,Key Monsters,1033,Deranged Sword Fiend
 Monsters,Key Monsters,Ex,Fire Dragon
 Monsters,Key Monsters,Ex,Black Dragon
 Monsters,Key Monsters,Ex,Black Dragon of the Depths
-
