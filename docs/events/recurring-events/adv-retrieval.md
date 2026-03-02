@@ -47,7 +47,7 @@
 
 ### Guide 
 
-??? note "Important Notes" 
+??? note "Map Notes" 
 
     - The yellow check-marks are the locations of each body. Note that 2 of the bodies are accessed via the purple teleporters located on B1F (by the Harken) and B4F (SE corner), which will take you to the small sides areas on B2F.
     - There is no way to check the number of bodies you have collected. They are not shown in your Valuables or Requests List. Fortunately, you will get Lulu text after collecting all 12 bodies, so do not submit the request until that message appears. 
