@@ -137,6 +137,7 @@ def define_env(env):
 
         # add linebreak to long title columns
         eqdata.rename(columns={'Compendium Number': 'Compendium<br>Number'}, inplace=True)
+        eqdata.rename(columns={'Enhance level': 'Enhance<br>Level'}, inplace=True)
 
         # insert blank spacer rows
         if itemcount > 1:
