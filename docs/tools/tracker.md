@@ -938,7 +938,7 @@
         {
           id: 'a2-dist4-dagger_of_the_soil',
           title: 'Dagger of the Soil',
-          details: 'Chest in 4th District in the northwest room (x:0, y:22). Respawns monthly.',
+          details: 'Chest in 4th District in the northwest room (x:0, y:22). Respawns weekly.',
           image: '/tools/img/other/respawning-earth-dagger-a2-district4.jpg',
           clickable: true,
         },
