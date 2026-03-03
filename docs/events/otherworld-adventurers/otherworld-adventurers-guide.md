@@ -11,7 +11,7 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 
     === "Guide"
     
-        1. Watch the cutscene in the Event tab (yellow shield in town menu).
+        1. Watch the cutscene using the Event button (yellow shield in town menu).
         2. Head to the Adventurer's Guild in the Royal Capital and accept the request to save the missing people.
         3. Head to the event location, Sahuagin's Cave, via the Edge of Town in the Royal Capital.
         4. Find 3 people on B1F to save. Their locations are shown on the map.
@@ -161,7 +161,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
         7. Return to the Black Dragon's chamber on B3F. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up and possibly your device's screen brightness. If you are having trouble navigating the fog, then see the tabs for step-by-step directions.
         8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath attack (deals extremely high damage). It's recommended to bring as few unit as possible to cut down on revival costs. However, there are 2-3 enemies (unavoidable) in the corridor to the Black Dragon's room, so adjust accordingly based on your team's power level. A unit can survive if Sanctuary's Blessing or Sheli's passive procs, but he will continue to spam the breath attack until everyone is dead.   
-        9. You will have to reset the event to get Ainikki's help on the second run.
+        9. You will have to reset using the Event button (yellow shield icon) to get Ainikki's help on the second run.
 
     === "B1F"
         ![](img/sahuagin-cave-1.jpg)
@@ -169,14 +169,13 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     === "B2F"
         ![](img/sahuagin-cave-ainikki-b2f.png)
         
-    ==== "B3F"
+    === "B3F"
         ![](img/sahuagin-cave-ainikki-b3f.png)
 
     === "Black Fog Directions"
 
         ![](img/sahuagin-cave-ainikki-b3f.png)
-
-    
+        
         - Start on tile (X:13, Y:17) facing the inner chamber.
         - 1 step forward, then turn right
         - 2 forward, then turn left
@@ -201,10 +200,10 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     === "B1F"
         ![](img/sahuagin-cave-1.jpg)
         
-    === "B2F Map + Ore Locations"
+    === "B2F + Ore Locations"
         ![](img/sahuagin-ore-locations-ainikki-b2f.png)
         
-    === "B3F Map + Ore Locations"
+    === "B3F + Ore Locations"
         ![](img/sahuagin-ore-locations-ainikki-b3f.png)
 
     === "Black Dragon Boss Fight"
@@ -237,7 +236,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
     - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. In addition, the boss may drop a rare consumable that when used reduces enemy's damage dealt. It's also entirely possible this boss drops nothing.
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
-    - To reset this boss, you will need to cursed wheel the event entirely.
+    - To reset this boss, you will need to use the Event button (yellow shield icon). 
 
 ## Farming
 
@@ -275,7 +274,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Notes"
     
         - This section has been updated and the optimal farming routes are slightly different than last year. 
-        - It is not recommended to reset the entire event or wheel-in-place to reset the fixed chests on each floor. The additional time required wheeling, random chest placement, and excessive walking reduces the overall efficiency for both currency and junk. The only exception is if you are still in an early Abyss and find farming B3F consistently too challenging or time-intensive.  
+        - It is not recommended to reset using the Event button (yellow shield icon) or wheel-in-place to reset the fixed chests on each floor. The additional time required wheeling, random chest placement, and excessive walking reduces the overall efficiency for both currency and junk. The only exception is if you are still in an early Abyss and find farming B3F consistently too challenging or time-intensive.  
         - B1F is the least efficient due to fewer respawning chests versus B2F and higher mob density. 
         - B3F is the most efficient, see tab for details. 
     
@@ -330,7 +329,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
             - Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
         - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
         
-        !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel"."  
+        !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield icon) and select Cursed Wheel."  
 
     === "Other Notes" 
     
@@ -351,8 +350,8 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
             - Grind reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
             - Complete the "True" endings for A1 and A2. 
             - Complete all Guild requests you have access to at least once. 
-        - Remember! The junk pool will not update unless you reset the entire event using the "Event" button (yellow shield). Some Discord members have it happen automatically, but many do not. 
-        - As a last resort you can send an Inquiry to Drecom (link [here](https://support.wizardry.info/en/inquiry)) if you have tried everything listed above as it could be a bug. 
+        - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
+        - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
 
 ??? note "Unlocking Requirements" 
 
@@ -372,9 +371,8 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | 8 | Six Energies  | Ebon   |           |       | See Seven Luminaries | 
         
         - Multiple entries are due to different combinations of MC Grade's and Abyss progression.
-        - All event junk has the "Scorched" prefix. 
-        - As previously noted, we have yet to discover any way to unlock Five Blossoms or Six Energies without also unlocking Seven Luminaries at the same time so consult the next tab.
-        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the EVENT button (yellow shield) and select Cursed Wheel.
+        - We have yet to discover any way to unlock Five Blossoms or Six Energies without also unlocking Seven Luminaries at the same time so consult the next tab.
+        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield) and select Cursed Wheel.
 
     === "Junk Tier 9 (Seven Luminaries)" 
     
@@ -387,7 +385,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         
         - These are general guidelines that might not work for your account. 
         - See the Troubleshooting tab under Mechanics for options that _might_ unlock Seven Luminaries junk if you do not think you will be able to increase MC's Grade or make additional Abyss progress. 
-        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the EVENT button (yellow shield) and select Cursed Wheel.
+        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield icon) and select Cursed Wheel.
 
     === "Saber Drop %"
     
