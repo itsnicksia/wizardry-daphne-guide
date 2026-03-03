@@ -10,6 +10,7 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
 ??? note "1st Run"
 
     === "Guide"
+    
         1. Watch the cutscene in the Event tab (yellow shield in town menu).
         2. Head to the Adventurer's Guild in the Royal Capital and accept the request to save the missing people.
         3. Head to the event location, Sahuagin's Cave, via the Edge of Town in the Royal Capital.
@@ -134,6 +135,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 ??? note "1st Run"
 
     === "Guide" 
+    
         1. Head to B1F, take the shortcut door, and save the 3 people like in Part 1.
         2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the right-hand door (Ainikki). If you select the left-hand door (Berkanan) you will be routed to Part 1. 
         3. B2F will be a completely different map, and various portions of the walls will have a glitched texture. Halfway through the floor, you will encounter a Knight that needs help. Interacting with them will lead to a fight with the Fire Dragon from Part 1. 
@@ -205,7 +207,7 @@ Note that B2F and B3F are different for the Part 2 (Ainikki) route.
 
 After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
 
-??? map "Otherworld Rift"
+??? map "Map Otherworld Rift"
     ![](img/otherworld-rift.jpg)
 
 ??? danger "Black Dragon Superboss Fight"
@@ -297,6 +299,8 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
 ## Unlocking Junk Tiers
 
+!!! warning "This is a WIP and will be updated regularly."
+
 ??? note "Overview" 
 
     - Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple conditions with varying levels of importance. 
@@ -305,16 +309,20 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
 ??? warning "Mechanics"
 
-    === "Notes" 
+    === "Primary Variables" 
     
-        - Primary variables confirmed to unlock junk tiers: 
             - MC's Grade
             - Abyss progression 
-            - Reputation level. Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
-        - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
+            - Reputation level
+                - Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
+            - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
+
+            !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel"."  
+
+    === "Other Notes" 
+    
         - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date.
         - Variables we suspect might have an influence, but have not been tested include: 1) MC being at the max level for each Grade and 2) the "True" endings for A1 or A2. 
-            !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel"."  
 
     === "Troubleshooting" 
 
@@ -328,15 +336,15 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
             - Grind reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
             - Complete the "True" endings for A1 and A2. 
             - Complete all Guild requests you have access to at least once. 
-        - Remember! The junk pool will not update unless you reset the entire event using the "EVENT" button (yellow shield). Some Discord members have it happen automatically, but many do not. 
+        - Remember! The junk pool will not update unless you reset the entire event using the "Event" button (yellow shield). Some Discord members have it happen automatically, but many do not. 
         - As a last resort you can send an Inquiry to Drecom (link [here](https://support.wizardry.info/en/inquiry)) if you have tried everything listed above as it could be a bug. 
 
-??? note "Junk Unlocking Requirements (WIP)" 
+??? note "Unlocking Requirements" 
 
     === "Junk Tiers 1-8"
     
         | Tier | Junk Name | Equipment Rank | MC Grade | Abyss Progression | Notes | 
-        |:--|:--------------|:--------------|:---------|:--------------------|:-------------------|
+        |:--:|:--------------|:--------------|:---------|:-------------------:|:-------------------|
         | 1 | Junk          | Bronze | No Grade  | A1 F1 |    |  
         | 2 | Teal          | Steel  | No Grade  | A1 F1 |    | 
         | 3 | Sliver        | Iron   | Lead      | A2 F6 |    | 
@@ -348,10 +356,10 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | 7 | Five Blossoms | Ebon   |           |       | See Seven Luminaries | 
         | 8 | Six Energies  | Ebon   |           |       | See Seven Luminaries | 
         
-        - This table is a WIP and will be updated as we gather more information.
         - Multiple entries are due to different combinations of MC Grade's and Abyss progression.
+        - All event junk has the "Scorched" prefix. 
         - As previously noted, we have yet to discover any way to unlock Five Blossoms or Six Energies without also unlocking Seven Luminaries at the same time so consult the next tab.
-        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel".
+        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the EVENT button (yellow shield) and select Cursed Wheel.
 
     === "Junk Tier 9 (Seven Luminaries)" 
     
@@ -363,8 +371,8 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         |   |                  | Silver | Copper | A3 F3 - Defeat Necrocore boss  |    | 
         
         - These are general guidelines that might not work for your account. 
-        - See the "Troubleshooting" tab under "Mechanics" for options that _might_ unlock Seven Luminaries junk if you do not think you will be able to increase MC's Grade or make additional Abyss progress. 
-        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel".
+        - See the Troubleshooting tab under Mechanics for options that _might_ unlock Seven Luminaries junk if you do not think you will be able to increase MC's Grade or make additional Abyss progress. 
+        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the EVENT button (yellow shield) and select Cursed Wheel.
 
     === "Saber Drop %"
     
@@ -422,7 +430,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - For the Adventurer's Remains I and II the total cost is 4,800 for both sets of 3. 
         - For the Basic Items (Enhancement Ore, EXP books) the total cost is 2,265.
         - If you plan to clear the shop weekly, then the total cost is 7,065.
-        - Remember that these items **are** missable and only available for 7 days. They have a countdown-timer ("Days Remaining") at the top of their listing.  
+        - Remember that these items **are** missable and only available for 7 days. They have a countdown-timer (Days Remaining) at the top of their listing.  
 
 ??? note "Shop List"
 
