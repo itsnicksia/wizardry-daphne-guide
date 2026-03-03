@@ -113,6 +113,7 @@
     | Bronze Graded Adventurer                       | The Masked Adventurer was promoted to Bronze Grade.                |
     | Iron Graded Adventurer                         | The Masked Adventurer was promoted to Iron Grade.                  |
     | Steel Graded Adventurer                        | The Masked Adventurer was promoted to Steel Grade.                 |
+    | Copper Graded Adventurer                       | The Masked Adventurer was promoted to copper Grade.                |
     | Lead Grade Party                               | 5 allies promoted to Lead Grade.                                   |
     | Lead Grade 2nd Party                           | 11 allies promoted to Lead Grade.                                  |
     | Lead Grade 3rd Party                           | 17 allies promoted to Lead Grade.                                  |
@@ -129,21 +130,31 @@
     | Steel Grade 2nd Party                          | 11 allies promoted to Steel Grade.                                 |
     | Steel Grade 3rd Party                          | 17 allies promoted to Steel Grade.                                 |
     | Steel Grade 4th Party                          | 23 allies promoted to Steel Grade.                                 |
+    | Copper Grade Party                             | 5 allies promoted to Copper Grade.                                 |
+    | Copper Grade 2nd Party                         | 11 allies promoted to Copper Grade.                                |
+    | Copper Grade 3rd Party                         | 17 allies promoted to Copper Grade.                                |
+    | Copper Grade 4th Party                         | 23 allies promoted to Copper Grade.                                |
     | First Discipline                               | Attain Discipline Level 1.                                         |
     | Awakening to Talent                            | Attain Discipline Level 3.                                         |
     | State of Enlightenment                         | Attain Discipline Level 6.                                         |
+    | Perfect Discipline                             | Attain Discipline Level 9.                                         |
     | Those Who Attain Self-Discipline               | 5 allies have attained Discipline Level 1.                         |
     | Those Who Attain Self-Discipline II            | 5 allies have attained Discipline Level 3.                         |
     | Those Who Attain Self-Discipline III           | 5 allies have attained Discipline Level 6.                         |
+    | Those Who Attain Self-Discipline IV            | 5 allies have attained Discipline Level 9.                         |
     | Into the Well of the Mind                      | Unlock a Domain in the Well of the Mind.                           |
     | Seeker of the Mind                             | Unlock Domains in the Well of the Mind 5 times.                    |
     | Mind that Transcends All Deaths                | Unlock Domains in the Well of the Mind 12 times.                   |
+    | Mental Plane                                   | Unlock Domains in the Well of the Mind 20 times.                   |
     | Meeting a Bondmate                             | Someone you meet on your adventure becomes a Bondmate.             |
     | Meeting a Bondmate II                          | 10 people you meet on your adventure become Bondmates.             |
     | Meeting a Bondmate III                         | 20 people you meet on your adventure become Bondmates.             |
+    | Meeting a Bondmate IV                          | 30 people you meet on your adventure become Bondmates.             |
+    | Meeting a Bondmate V                           | 50 people you meet on your adventure become Bondmates.             |
     | Deepening Bond                                 | A Bondmate you made on your adventure becomes Bond Level 5.        |
     | In Traveling, a Companion, in Life, Compassion | 10 Bondmates you made on your adventure become Bond Level 5.       |
     | Fate-Bonding Journey                           | 30 Bondmates you made on your adventure become Bond Level 5.       |
+    | To Meet and Then Walk Together                 | 50 Bondmates you made on your adventure become Bond Level 5.       |
     | First Camp                                     | Camp in a dungeon 1 time.                                          |
     | Intermediate Camper                            | Camp in a dungeon 30 times.                                        |
     | Veteran Camper                                 | Camp in a dungeon 100 times.                                       |
@@ -167,36 +178,51 @@
     | Name                                    | Description                                   |
     | --------------------------------------- | --------------------------------------------- |
     | Equipment Collector ★                   | Acquire 30 types of equipment.                |
-    | Equipment Collector ★★                  | Acquire 50 types of equipment.                |
-    | Equipment Collector ★★★                 | Acquire 100 types of equipment.               |
-    | Equipment Collector ★★★★                | Acquire 200 types of equipment.               |
-    | Equipment Collector ★★★★★               | Acquire 350 types of equipment.               |
-    | Equipment Collector ★★★★★★               | Acquire 500 types of equipment.               | 
+    | Equipment Collector ★★                 | Acquire 50 types of equipment.                |
+    | Equipment Collector ★★★                | Acquire 100 types of equipment.               |
+    | Equipment Collector ★★★★              | Acquire 200 types of equipment.               |
+    | Equipment Collector ★★★★★             | Acquire 350 types of equipment.               |
+    | Equipment Collector ★★★★★★           | Acquire 500 types of equipment.               | 
     | Excavator                               | Acquire a digging mattock.                    |
     | Mermaid's Necklace                      | Acquire Melgina's Choker.                     |
     | Pirates We Be                           | Acquire the Cutlass of Tyranny.               |
     | Preference for Daggers                  | Acquire 5 types of daggers.                   |
     | Dagger Collector                        | Acquire 10 types of daggers.                  |
+    | Dagger Maniac                           | Acquire 20 types of daggers.                  |
     | Preference for One-Handed Swords        | Acquire 5 types of one-handed swords.         |
     | One-Handed Sword Collector              | Acquire 10 types of one-handed swords.        |
+    | One-Handed Sword Maniac                 | Acquire 20 types of one-handed swords.        |
     | Preference for One-Handed Axes          | Acquire 5 types of one-handed axes.           |
     | One-Handed Axe Collector                | Acquire 10 types of one-handed axes.          |
+    | One-Handed Axe Maniac                   | Acquire 20 types of one-handed axes.          |
     | Preference for One-Handed Staves        | Acquire 5 types of one-handed staves.         |
     | One-Handed Staff Collector              | Acquire 10 types of one-handed staves.        |
+    | One-Handed Staff Maniac                 | Acquire 20 types of one-handed staves.        |
     | Preference for One-Handed Blunt Weapons | Acquire 5 types of one-handed blunt weapons.  |
     | One-Handed Blunt Weapon Collector       | Acquire 10 types of one-handed blunt weapons. |
+    | One-Handed Blunt Weapon Maniac          | Acquire 20 types of one-handed blunt weapons. |
+    | Preference for Ninja Tools              | Acquire 5 types of throwing weapons.          |
+    | Preference for Ninja Katanas            | Acquire 5 types of ninja katanas.             |
+    | Preference for Katanas                  | Acquire 5 types of katanas.                   |
     | Preference for Two-Handed Swords        | Acquire 5 types of two-handed swords.         |
     | Two-Handed Sword Collector              | Acquire 10 types of two-handed swords.        |
+    | Two-Handed Sword Maniac                 | Acquire 20 types of two-handed swords.        |
     | Preference for Two-Handed Spears        | Acquire 5 types of two-handed spears.         |
     | Two-Handed Spear Collector              | Acquire 10 types of two-handed spears.        |
+    | Two-Handed Spear Maniac                 | Acquire 20 types of two-handed spears.        |
     | Preference for Two-Handed Axes          | Acquire 5 types of two-handed axes.           |
     | Two-Handed Axe Collector                | Acquire 10 types of two-handed axes.          |
+    | Two-Handed Axe Maniac                   | Acquire 20 types of two-handed axes.          |
+    
     | Preference for Two-Handed Staves        | Acquire 5 types of two-handed staves.         |
     | Two-Handed Staff Collector              | Acquire 10 types of two-handed staves.        |
+    | Two-Handed Staff Maniac                 | Acquire 20 types of two-handed staves.        |
     | Preference for Two-Handed Blunt Weapons | Acquire 5 types of two-handed blunt weapons.  |
     | Two-Handed Blunt Weapon Collector       | Acquire 10 types of two-handed blunt weapons. |
+    | Two-Handed Blunt Weapon Maniac          | Acquire 20 types of two-handed blunt weapons. |
     | Preference for Bows                     | Acquire 5 types of bows.                      |
     | Bow Collector                           | Acquire 10 types of bows.                     |
+    | Bow Maniac                              | Acquire 20 types of bows.                     |
     | Preference for Small Shields            | Acquire 3 types of small shields.             |
     | Preference for Light Shields            | Acquire 3 types of light shields.             |
     | Preference for Heavy Shields            | Acquire 3 types of heavy shields.             |
