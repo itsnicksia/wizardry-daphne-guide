@@ -213,7 +213,6 @@
     | Preference for Two-Handed Axes          | Acquire 5 types of two-handed axes.           |
     | Two-Handed Axe Collector                | Acquire 10 types of two-handed axes.          |
     | Two-Handed Axe Maniac                   | Acquire 20 types of two-handed axes.          |
-    
     | Preference for Two-Handed Staves        | Acquire 5 types of two-handed staves.         |
     | Two-Handed Staff Collector              | Acquire 10 types of two-handed staves.        |
     | Two-Handed Staff Maniac                 | Acquire 20 types of two-handed staves.        |
@@ -254,13 +253,15 @@
     | Battle-Hardened                     | Achieve 100 victories in battle.                     |
     | Warrior of a Thousand Battles       | Achieve 1,000 victories in battle.                   |
     | Man Loved by the Goddess of Victory | Achieve 5,000 victories in battle.                   |
+    | Legendary Hero                      | Achieve 50,000 victories in battle.                  |
     | Honor of Valor                      | Slay 200 enemies.                                    |
     | Blood-Spattered Mask                | Slay 2,000 enemies.                                  |
     | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.                                 |
     | Endless Trail of Blood              | Slay 100,000 enemies.                                |
+    | Undying Valor                       | Slay 1,000,000 enemies.                              |
     | Warped One-Hunter ★                 | Slay 100 warped ones.                                |
-    | Warped One-Hunter ★★                | Slay 300 warped ones.                                |
-    | Warped One-Hunter ★★★               | Slay 500 warped ones.                                |
+    | Warped One-Hunter ★★                | Slay 300 warped ones.                               |
+    | Warped One-Hunter ★★★               | Slay 500 warped ones.                               |
     | Boss of the Poison Swamp            | Slay a giant monster bird.                           |
     | The Rare One Quick to Run           | Slay a cursed sack doll.                             |
     | Inescapable Consequences            | Slay a red spinner woman.                            |
@@ -269,6 +270,10 @@
     | Surprised?                          | Slay a mimic.                                        |
     | Playing with Hellfire               | Slay the greater demon sealed in the burial chamber. |
     | Surprised?!                         | Slay a Golden Mimic.                                 |
+    | Bounty-Chaser I                     | Slay 5 bounty targets.                               |
+    | Bounty-Chaser II                    | Slay 10 bounty targets.                              |
+    | Bounty-Chaser III                   | Slay 20 bounty targets.                              |
+    | Bounty-Chaser IV                    | Slay 30 bounty targets.                              |
     | Master of the Binding Rope I        | Capture 1 bounty target alive.                       |
     | Master of the Binding Rope II       | Capture 5 bounty targets alive.                      |
     | Master of the Binding Rope III      | Capture 10 bounty targets alive.                     |
