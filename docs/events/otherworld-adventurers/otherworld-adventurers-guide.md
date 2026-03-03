@@ -3,7 +3,7 @@
 
 ## Part 1 (Berkanan Route)
 
-The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-downs have tabs, so all the information you need for each run is included in one place.
+The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-downs have tabs, including the maps of each floor, ore locations, and boss strategies. All the information you need for each run is included under its section.
 
 ### Guides 
 
@@ -163,7 +163,19 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath attack (deals extremely high damage). It's recommended to bring as few unit as possible to cut down on revival costs. However, there are 2-3 enemies (unavoidable) in the corridor to the Black Dragon's room, so adjust accordingly based on your team's power level. A unit can survive if Sanctuary's Blessing or Sheli's passive procs, but he will continue to spam the breath attack until everyone is dead.   
         9. You will have to reset the event to get Ainikki's help on the second run.
 
+    === "B1F"
+        ![](img/sahuagin-cave-1.jpg)
+        
+    === "B2F"
+        ![](img/sahuagin-cave-ainikki-b2f.png)
+        
+    ==== "B3F"
+        ![](img/sahuagin-cave-ainikki-b3f.png)
+
     === "Black Fog Directions"
+
+        ![](img/sahuagin-cave-ainikki-b3f.png)
+
     
         - Start on tile (X:13, Y:17) facing the inner chamber.
         - 1 step forward, then turn right
@@ -174,12 +186,6 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - 2 forward, then turn left
         - Walk forward until you encounter the Black Dragon
 
-    === "B3F Map"
-    
-        ![](img/sahuagin-cave-ainikki-b3f.png)
-        
-        - Use in conjunction with the Black Fog Directions tab.
-        
 ??? note "2nd Run"
 
     === "Guide"
@@ -192,10 +198,13 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         7. Return to the Black Dragon on B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. See the tab for boss fight details. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
         8. Head back to the Adventurer's Guild to turn in the request. 
 
-    === "B2F Ore Locations"
+    === "B1F"
+        ![](img/sahuagin-cave-1.jpg)
+        
+    === "B2F Map + Ore Locations"
         ![](img/sahuagin-ore-locations-ainikki-b2f.png)
         
-    === "B3F Ore Locations"
+    === "B3F Map + Ore Locations"
         ![](img/sahuagin-ore-locations-ainikki-b3f.png)
 
     === "Black Dragon Boss Fight"
@@ -205,8 +214,9 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
 ### Black Dragon Superboss 
 
-!!! warning "Currently, there are many players that cannot access this fight even after clearing the second run. We suspect that there are other requirements, including being Copper Grade and/or A4 progression. It is possible that this fight was not level-scaled or is a bug that is yet to be fixed."
-
+!!! warning "Potential Bug" 
+    - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Copper Grade that has been able to get the fight. 
+    - Unclear if this is a bug or there are additional requirements that have yet to be identified. 
 
 After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
 
