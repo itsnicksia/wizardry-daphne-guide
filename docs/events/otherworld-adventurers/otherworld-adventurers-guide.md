@@ -168,11 +168,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         
     === "B2F"
         ![](img/sahuagin-cave-ainikki-b2f.png)
-        
-    === "B3F"
-        ![](img/sahuagin-cave-ainikki-b3f.png)
 
-    === "Black Fog Directions"
+    === "B3F + Black Fog Directions"
 
         ![](img/sahuagin-cave-ainikki-b3f.png)
         
