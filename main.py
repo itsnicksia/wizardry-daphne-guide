@@ -134,7 +134,10 @@ def define_env(env):
            eqdata.rename(columns={'TEMP': 'Rank<br>#Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
         else:
            eqdata.rename(columns={'TEMP': 'Rank<br>ArmorType<br>Buy Price<br>Sell Price'}, inplace=True)
- 
+
+        # add linebreak to long title columns
+        eqdata.rename(columns={'Compendium Number': 'Compendium<br>Number'}, inplace=True)
+
         # insert blank spacer rows
         if itemcount > 1:
             for n in range(itemrows*(itemcount-1), 0, -itemrows):
