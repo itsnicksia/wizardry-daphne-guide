@@ -601,7 +601,8 @@
         - Roamer, doesn't appear on the minimap.
         - 17000 Gold Reward
         - 950 Token Reward
-        - Appears at Bounty Rank ???
+        - Appears at Bounty Rank 13
+        - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
 
     === "Fight Details"
         - HP: ???
