@@ -26,6 +26,15 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
         13. Select the option to have Iarumas serve as a distraction and complete the boss fight (see tab). However, it rages at the end and melts in the magma.
         14. Turn in the request and get basically nothing. Use the Event button, select Cursed Wheel, and rewind time to reset everything.
 
+    === "B1F" 
+        ![](img/sahuagin-cave-1.jpg)
+
+    === "B2F" 
+        ![](img/sahuagin-cave-2.jpg)
+
+    === "B3F" 
+        ![](img/sahuagin-cave-3.jpg)
+
     === "Red Dragon Boss Fight"
 
         - The boss fight scales with the MC's Grade. 
@@ -61,8 +70,16 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
         10. The Red Dragon is successfully killed this time, but Berkanan is still burned to death.
         11. Return to town, turn in the request, and use the Event button to rewind time to find a way to save Berkanan from dying.
 
+    === "B1F" 
+        ![](img/sahuagin-cave-1.jpg)
+
+    === "B2F" 
+        ![](img/sahuagin-cave-2.jpg)
+
+    === "B3F" 
+        ![](img/sahuagin-cave-3.jpg)
+        
     === "Ore Locations"
-    
         ![](img/sahuagin-cave-ore-locations.jpg)
 
     === "Red Dragon Boss Fight"
@@ -92,6 +109,15 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
         5. Bid farewell to Berkanan and Iarumas as you can't seem to follow them into the strange dungeon.
         6. Return to town to turn in the request. Listen to Lulu yap about lore.
 
+    === "B1F" 
+        ![](img/sahuagin-cave-1.jpg)
+
+    === "B2F" 
+        ![](img/sahuagin-cave-2.jpg)
+
+    === "B3F" 
+        ![](img/sahuagin-cave-2.jpg)
+
     === "Ore Locations"
     
         ![](img/sahuagin-cave-ore-locations-2.jpg)
@@ -113,16 +139,7 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
         - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
         - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
-### Maps
 
-??? map "Map B1F"
-    ![](img/sahuagin-cave-1.jpg)
-    
-??? map "Map B2F"
-    ![](img/sahuagin-cave-2.jpg)
-    
-??? map "Map B3F"
-    ![](img/sahuagin-cave-3.jpg)
 
 ## Part 2 (Ainikki Route)
 
@@ -185,20 +202,6 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - The fight is similar to the Fire Dragon, but it has slightly more HP (20k) at Copper Grade.
         - It is Dark element as its color suggests, and is weak to Light. Obviously, its breath is Dark-type damage.
         - The Dark Breath that it uses applies weaken on targets hits.
-
-### Maps
-
-Note that B2F and B3F are different for the Part 2 (Ainikki) route. 
-
-??? map "Map B1F"
-    ![](img/sahuagin-cave-1.jpg)
-    
-??? map "Map B2F"
-    ![](img/sahuagin-cave-ainikki-b2f.png)
-    
-??? map "Map B3F"
-    ![](img/sahuagin-cave-ainikki-b3f.png)
-
 
 ### Black Dragon Superboss 
 
@@ -307,22 +310,24 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - We have limited insight into how this system works. Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. However, these guidelines may not work for you, so know that in advance. 
     - There are 9 tiers of junk with the first 2 tiers unlocked immediately at Abyss 1, Floor 1 (A1 F1). This is the syntax that will be using to refer to Abyss progression (A = Abyss, F = Floor). 
 
-??? warning "Mechanics"
+??? note "Mechanics"
 
     === "Primary Variables" 
     
-            - MC's Grade
-            - Abyss progression 
-            - Reputation level
-                - Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
-            - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
-
-            !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel"."  
+        - MC's Grade
+        - Abyss progression 
+        - Reputation level
+            - Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
+        - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
+        
+        !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the "EVENT" button (yellow shield) and select "Cursed Wheel"."  
 
     === "Other Notes" 
     
         - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date.
-        - Variables we suspect might have an influence, but have not been tested include: 1) MC being at the max level for each Grade and 2) the "True" endings for A1 or A2. 
+        - Variables we suspect might have an influence, but have not been tested include: 
+            - MC being at the max level for each Grade 
+            - "True" endings for A1 or A2
 
     === "Troubleshooting" 
 
@@ -364,11 +369,11 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     === "Junk Tier 9 (Seven Luminaries)" 
     
         | Tier | Junk Name | Equipment Rank | MC Grade | Abyss Progression | Notes | 
-        |:--|:-------------|:---------------|:---------|:------------------|:-------------------|
+        |:-:|:-------------|:---------------|:---------|:------------------|:-------------------|
         | 9 | Seven Luminaries | Silver | Bronze | A4 F1?                         |    |  
-        |   |                  | Silver | Iron   | A3 F10 - Defeat GWO 3          |    | 
-        |   |                  | Silver | Steel  | A3 F7 - Defeat Doll boss       |    | 
-        |   |                  | Silver | Copper | A3 F3 - Defeat Necrocore boss  |    | 
+        |   |                  |        | Iron   | A3 F10 - Defeat GWO 3          |    | 
+        |   |                  |        | Steel  | A3 F7 - Defeat Doll boss       |    | 
+        |   |                  |        | Copper | A3 F3 - Defeat Necrocore boss  |    | 
         
         - These are general guidelines that might not work for your account. 
         - See the Troubleshooting tab under Mechanics for options that _might_ unlock Seven Luminaries junk if you do not think you will be able to increase MC's Grade or make additional Abyss progress. 
@@ -494,3 +499,29 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Total Cost of refreshing        |       |   | 2,265 |  
         
         * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
+
+## Maps
+
+### Part I (Berkanan Route)
+
+??? map "Map B1F"
+    ![](img/sahuagin-cave-1.jpg)
+    
+??? map "Map B2F"
+    ![](img/sahuagin-cave-2.jpg)
+    
+??? map "Map B3F"
+    ![](img/sahuagin-cave-3.jpg)
+
+### Part II (Ainikki Route)
+
+Note that B2F and B3F are different for the Part 2 (Ainikki) route. 
+
+??? map "Map B1F"
+    ![](img/sahuagin-cave-1.jpg)
+    
+??? map "Map B2F"
+    ![](img/sahuagin-cave-ainikki-b2f.png)
+    
+??? map "Map B3F"
+    ![](img/sahuagin-cave-ainikki-b3f.png)
