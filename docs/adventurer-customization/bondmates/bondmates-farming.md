@@ -1,4 +1,4 @@
-# Bondmate Levelling
+# Bondmate Leveling
 
 ## Bondmate Levels
 
