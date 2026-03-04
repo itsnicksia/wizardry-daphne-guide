@@ -139,8 +139,6 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
         - It's suggested to have two priests as the dragon can hit the entire team all at once, so having heals for both rows helps a lot.
         - You need a minimum of 43 ASPD to outspeed the dragon at Steel Grade.
 
-
-
 ## Part 2 (Ainikki Route)
 
 ### Guides
@@ -198,7 +196,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         ![](img/sahuagin-cave-1.jpg)
         
     === "B2F + Ore Locations"
-        ![](img/sahuagin-ore-locations-ainikki-b2f.png)
+        ![](img/sahuagin-ore-locations-ainikki-b2f.jpg)
         
     === "B3F + Ore Locations"
         ![](img/sahuagin-ore-locations-ainikki-b3f.png)
@@ -315,37 +313,38 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple conditions with varying levels of importance. 
     - We have limited insight into how this system works. Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. However, these guidelines may not work for you, so know that in advance. 
     - There are 9 tiers of junk with the first 2 tiers unlocked immediately at Abyss 1, Floor 1 (A1 F1). This is the syntax that will be using to refer to Abyss progression (A = Abyss, F = Floor). 
+    - At the maximum junk level you will always get a mix of Four Scales (20%), Five Blossoms (30%), Six Energies (30%), and Seven Luminaries (20%).   
 
 ??? note "Mechanics"
 
-    === "Primary Variables" 
+    === "Confirmed Primary Variables" 
     
         - MC's Grade
         - Abyss progression 
         - Reputation level
             - Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
+        - A2 True Ending 
         - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
         
         !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield icon) and select Cursed Wheel."  
 
     === "Other Notes" 
     
-        - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date.
+        - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date although some Discord members have been able to do so. 
         - Variables we suspect might have an influence, but have not been tested include: 
             - MC being at the max level for each Grade 
-            - "True" endings for A1 or A2
+            - Completing all the request in each Abyss as a seperate, but related trigger to reputation level 
 
     === "Troubleshooting" 
 
         - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
-        - Below is a list of things to test in order of importance:
+        - If your junk is not updating, then here is a list of things to test in order of importance:
             - Increase MC's Grade to Steel or Copper, ideally. 
             - Make more progress in your current Abyss. 
                 - The game is built around unlocking new Guild requests, side dungeons, etc. once you reach a Major Harken in an Abyss or defeat the GWO. We suspect the junk unlocking system also uses these event flags. 
-                - The primary floors to test would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating the GWO.  
+                - The primary floors to progress toward would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating a GWO.  
             - Complete the "Best" endings for the Special Requests, which are listed under the Events section in the navigation list.
             - Grind reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
-            - Complete the "True" endings for A1 and A2. 
             - Complete all Guild requests you have access to at least once. 
         - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
         - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
@@ -422,25 +421,38 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
 
     === "Priority Items"
     
-        - The two sets of Codex books are your top priority. The total cost is 32,500. They provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
-        - The Adventurer's Remains I and II and Gem of Org x200 should be picked up next. An additional 3 Adventurer's Remains of each type (I and II) are refreshed weekly and missable. 
-        - Cones and Macones can be helpful for your MC, Iaramus, or your primary spellcaster. The only way to upgrade Halito is via the Jewler - Limited Time Offer - Daily with purple gems. Mahalito is only from Asha's alternative style banner. The total cost for all the spell books is 30,000. 
-        - The total cost of all the basic items (Azure Ore, Enhancement Ores, EXP books) is 7,880. The Enhancement Ores and EXP books are refreshed on a weekly basis.  
-
-    === "Unique Gear Considerations"
-
-        - The major determining factor is where you are in the game. 
-        - If you are still in Abyss 1-3, then the enhanced versions are worth picking up as a "bridging" weapon to A4. 
-        - If you have cleared GWO 4-4 and plan to fight the Black Dragon superboss, then the Augmented Dragon Swords are recommended for both damage mitigation and higher DPS.  
-        - The Saber is a Katana, so only relevant if you have a Samurai or plan to run one or more in the future.
-        - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill multiple times in a row as it cannot be used if she is at 1 HP. 
+        - Codexes
+            - The two sets of Codex books are your top priority. The total cost is 32,500. 
+            - They provide a total of 325 EXP that can be used to upgrade any passive, skill, or spell in the game. They are critical for long-term account progression. 
+        - Adventurer's Remains I and II 
+            - Total of 6 permanent bones (3 of each type). Total cost is 4,800.
+            - Total of 6 bones refreshed on a weekly basis and are _missable_. Total cost is 4,800. 
+        - Gem of Org x 200 
+            - Total cost is 1,500. 
+            - Has not refreshed to-date, but may in the future. 
+        - Spell Books
+            - Cones (5,000) and Macones (10,000) can be helpful for your MC, Iaramus, or primary spellcaster. 
+            - Halito (5,000) can only be upgraded via the Jewler (Limited Time Offer - Daily) with 240 purple gems. Mahalito (10,000) is only from Asha's alternative style banner. 
+            - Maerlik (10,000) is best-suited for Yekaterina or a multi-element Mage. 
+            - Dialko (5,000) is helpful on any support unit or Knight that does not have access to the Priest class for clearing Sleep or Stun. 
+            - Porto (10,000) is best-suited for a support Knight or to round out Ainikki's spell kit. It is one of the best spells in the game and can only be bought (rarely) on limited banners for 30 tokens.
+            - Total cost for all spell books is 55,000.
+        - Total cost for all permanent items is 93,800. 
 
     === "Weekly Refresh Costs" 
 
         - For the Adventurer's Remains I and II the total cost is 4,800 for both sets of 3. 
         - For the Basic Items (Enhancement Ore, EXP books) the total cost is 2,265.
         - If you plan to clear the shop weekly, then the total cost is 7,065.
-        - Remember that these items **are** missable and only available for 7 days. They have a countdown-timer (Days Remaining) at the top of their listing.  
+        - Remember that these items are _missable_ and only available for 7 days. They have a countdown-timer (Days Remaining) at the top of their listing. Refresh is every Thursday at 0:00 JST  
+
+    === "Unique Gear Considerations"
+
+        - The major determining factor is where you are in the game. 
+        - If you are still in Abyss 1-3, then the Refined Saber or Augmented Dragon Slayer are worth picking up as a "bridging" weapon to A4. 
+        - If you have cleared GWO 4-4 and plan to fight the Black Dragon superboss, then the Augmented Dragon Swords are highly recommended for both damage mitigation and higher DPS.  
+        - The Saber is a Katana, so only relevant if you have a Samurai or plan to run one or more in the future.
+        - The Trollkin Ring can be used with Shiou's Lingering Blossom to use the skill each turn as it cannot be used if she is at 1 HP. It is one of the few ways to consistently (70-80%) draw a boss's aggro as a defense strategy.  
 
 ??? note "Shop List"
 
@@ -471,13 +483,16 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Book of Mahalito Secrets        | 10,000  | 1 | 10,000 | 
         | Book of Cones Secrets           | 5,000   | 1 | 5,000  |  
         | Book of Macones Secrets         | 10,000  | 1 | 10,000 | 
+        | Book of Maerlik Secrets         | 10,000  | 1 | 10,000 |  
+        | Book of Dialko Secrets          | 5,000   | 1 | 5,000  | 
+        | Book of Porto Secrets           | 10,000  | 1 | 10,000 |  
         | Adventure's Remains I           | 800     | 3 | 2,400  |  
         | Adventure's Remains I*          | 800     | 3 | 2,400  |  
         | Adventure's Remains II          | 800     | 3 | 2,400  |  
         | Adventure's Remains II*         | 800     | 3 | 2,400  |  
         | Gem of Org x200                 | 1,500   | 1 | 1,500  |  
-        | Total Cost of non-refreshing    |         |   | 68,800 |  
-        | Total Cost of weekly refreshing |         |   | 4,800  |  
+        | Total Cost of Permanent         |         |   | 93,800 |  
+        | Total Cost of Refreshing        |         |   | 4,800  |  
         
         * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
 
@@ -485,6 +500,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     
         | Item | Cost | # Copies | Total Cost |
         |:-----|----:|--------:|-------------------:|
+        | Amulet Shard**                  | 1,000 | 99 | -   |  
         | Azure Lustrous Ore              | 100   | 1 | 100   |  
         | Azure Lustrous Ore x10          | 1,000 | 1 | 1,000 |  
         | Azure Lustrous Ore x20          | 2,000 | 1 | 2,000 |  
@@ -500,10 +516,11 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Clock Tome of the Finesser*     | 50    | 5 | 250   |  
         | Clock Tome Volume               | 3     | 5 | 15    |  
         | Clock Tome Volume*              | 3     | 5 | 15    |  
-        | Total Cost of non-refreshing    |       |   | 5,365 |  
-        | Total Cost of refreshing        |       |   | 2,265 |  
+        | Total Cost of Permanent         |       |   | 5,365 |  
+        | Total Cost of Refreshing        |       |   | 2,265 |  
         
         * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
+        ** Calculations do not include the Amulet Shard. 
 
 ## Maps
 
