@@ -494,7 +494,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Total Cost of Permanent         |         |   | 93,800 |  
         | Total Cost of Refreshing        |         |   | 4,800  |  
         
-        * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
+        *Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
 
     === "Basic Items"
     
@@ -519,8 +519,8 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Total Cost of Permanent         |       |   | 5,365 |  
         | Total Cost of Refreshing        |       |   | 2,265 |  
         
-        * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
-        ** Calculations do not include the Amulet Shard. 
+        *Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
+        **Calculations do not include the Amulet Shard. 
 
 ## Maps
 
