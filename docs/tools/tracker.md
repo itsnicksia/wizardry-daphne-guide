@@ -1207,7 +1207,7 @@
         { subheader: 'Request Rewards' },
         {
           id: 'a4_gull_equipment_mastery',
-          title: 'Book of Steadfast Shield Soldier Secrets',
+          title: 'Book of Gull's Equipment Mastery',
           details: 'Admiral Route Clear Reward. Respawns monthly.',
           image: '',
           clickable: false,
