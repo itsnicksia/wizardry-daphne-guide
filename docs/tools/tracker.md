@@ -851,7 +851,7 @@
         {
           id: 'bracelet_of_impurity',
           title: 'Bracelet of Impurity',
-          details: 'Chest in B8F (x:0, y:22)',
+          details: 'Chest in B8F (x:0, y:22) - respawns daily',
           image: '/tools/img/other/respawning-impurity-bracelet-a1-b8f.jpg',
           clickable: true,
         },
