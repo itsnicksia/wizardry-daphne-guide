@@ -23,7 +23,8 @@
 
     === "Preparation" 
 
-        - If Marianne is in your party it will increase the amount of Gold Ore you find after each fight. This speeds up the time it takes to complete the request. Her presence is not required to get the full reward. 
+        - If Marianne is in your party it will increase the amount of Gold Ore you find after each fight (an additional 50% of the base amount). Her presences reduces the total amount of fights from 60 to 40 if you do not pay the Old Man for the location of the buried Gold Ore. 
+        - She is not mandatory to use to get the maximum reward.  
         - The Thief battles are not particularly difficult and should not require any changes to your current team. Note that if Marianne is at a low level she might be at risk of dying.  
         - There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
