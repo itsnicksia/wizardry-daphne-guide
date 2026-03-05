@@ -5,7 +5,7 @@
 ??? note "How to Accept the Request" 
 
     - Available in the Royal Capital under the Featured Requests tab. 
-    - The request will be available for a limited time, and cannot be discarded after acceptance. 
+    - The request will be available for a limited time, and cannot be discarded after accepting. 
 
 ??? note "Important Notes" 
 
@@ -13,6 +13,10 @@
     
         - The goal of the request is to find buried Gold Ore that thieves are guarding in certain Abyss location. Upon accepting the request, Arna will direct you to the correct Abyss to search, which is based on your current progression.
         - After accepting the request, you can meet an Old Man in the Guild Tavern who you can pay to mark your map with a location of buried Gold Ore.  This is not required, but will speed up the collection process. Every few days he will provide you with an additional locations for another payment.
+        - A1 Fee: ? 
+        - A2 Fee: ?
+        - A3 Fee: ?
+        - A4 Fee: 4,000 Gold 
         - The request is completed the first time you turn it in and cannot be continued/repeated during the event period.  *Do not turn it in early.*
 
     === "Preparation" 
@@ -31,7 +35,7 @@
 
     - After accepting the request, go to the indicated Abyss and begin searching the correct floor (see Ore Locations).  Lulunarde will inform you of the presence of the thieves when you arrive on the correct floor. 
     - On that floor there will be a fixed number of locations that can randomly spawn an non-mobile enemy, which will be a group of thieves. After killing the thieves you will receive a small amount of Gold Ore.  
-    - Each time you exit the Abyss the location of the thieves will change. However, there are only a small number of fixed locations where they will respawn.      
+    - Each time you exit the Abyss the location of the thieves will change. However, there are only a small number of fixed locations where they will respawn.  
     - If you paid the Old Man in the Guild Tavern, then the buried Gold Ore location will be marked on your map. Once you reach the location it will appear as a glowing, white object indicator (a "shiny") on the floor. It provides an amount of Gold Ore several times larger than the group of thieves.  
     - After collecting any amount of Gold Ore: 
         - Lulunarde will let you know it is up to you if want to search for more
@@ -47,6 +51,8 @@
     | Abyss 1 | ?? | 6,000 | 400,000 | 
     | Abyss 2 | District 2 | 12,000 | 600,000 | 
     | Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
+    | Abyss 4 | Zone 1 | ? | ? | 
+
     
     - There is a 2,000 Gold reward for completing the request. 
     - There is a substantial additional Gold reward based on the amount of Gold Ore collected. The additional reward scales with the Abyss you were assigned to search.  
@@ -84,4 +90,7 @@
     
         ![](./img/gold-ore-abyss3_locations.jpg)
 
+??? map "Abyss 4 - Route 1 - Deepsnow Hinterlands Entrance" 
+
+    - Forthcoming
 
