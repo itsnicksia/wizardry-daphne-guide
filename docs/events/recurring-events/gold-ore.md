@@ -103,12 +103,17 @@
         - Each group of thieves gives you 800 Gold Ore with another 400 if Marianne is present in your party. You need to collect 48,000? Gold Ore for the maximum Gold reward of X?.
             - 60? encounters without Marianne
             - 40? encounters with Marianne
+        - Thank you to Discord member @windsoothe (Wrio) for the interim location and routing maps. 
+
 
     === "Thief Spawning Locations"
     
-        ![](./img/gold-ore-abyss4-part1-locations.jpg)
-        ![](./img/gold-ore-abyss4-part2-locations.jpg)
-
-        - Big thank you to Discord member @windsoothe (Wrio) for the posted maps. 
+        === "Spawn Points" 
         
+            ![](./img/gold-ore-abyss4-part1-locations.jpg)
+            ![](./img/gold-ore-abyss4-part2-locations.png)
+
+        === "Routing" 
+        
+            ![](./img/gold-ore-abyss4-routing.jpg)
 
