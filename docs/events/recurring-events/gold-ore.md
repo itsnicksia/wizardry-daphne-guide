@@ -15,17 +15,18 @@
     === "Summary" 
     
         - Objective
-            - The goal of the request is to reclaim Gold Ore that a group of thieves have stolen and are now hiding in the Abyss. 
+            - The goal of the request is to reclaim the Gold Ore that a group of thieves have stolen. They are now hiding in the Abyss and it is your job to track them down. 
             - Upon accepting the request, Arna will direct you to the correct Abyss to search, which is based on your current progression. 
         - Task
-            - Search the appropriate floor in the Abyss until you find one of the groups of thieves. After defeating them you will recover a small amount of Gold Ore. 
-            - After killing your first group of thieves the request will be completed. However, is strongly recommended that you do NOT turn it in early as you will lose out on the max gold reward. If you submit the request accidentally there is no way to re-activate the request.  
+            - Search the appropriate floor in the Abyss until you find a groups of thieves. After defeating them you will recover a small amount of Gold Ore. 
+            - After defeating your first group the request will be completed. 
+            - It is strongly recommended that you do NOT turn it in early as you will lose out on the max gold reward. If you submit the request accidentally there is no way to re-activate the request.  
 
     === "Preparation" 
 
         - If Marianne is in your party it will increase the amount of Gold Ore you find after each fight (an additional 50% of the base amount). Her presences reduces the total amount of fights from 60 to 40 if you do not pay the Old Man for the location of the buried Gold Ore. 
         - She is not mandatory to use to get the maximum reward.  
-        - The Thief battles are not particularly difficult and should not require any changes to your current team. Note that if Marianne is at a low level she might be at risk of dying.  
+        - The battles are not particularly difficult and should not require any changes to your current team. Note that if Marianne is at a low level she might be at risk of dying.  
         - There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
     === "Request Picture"
@@ -33,32 +34,36 @@
         ![](./img/gold-ore-request.jpg)
 
 ??? note "Old Man's Buried Treasure (Optional)"
-
-        - After accepting the request you can speak with an Old Man in the Tavern. If you pay him a small fee he will mark your map with a "!" to denote the location of a buried Gold Ore cache. 
-        - This step is optional, but it will greatly speed up the collection process. He will re-mark your map after killing a group of thieves 4 times, however you must return to the Royal Capital and speak with him. 
-            - A1 Fee: ? 
-            - A2 Fee: ?
-            - A3 Fee: 2,000 Gold?
-            - A4 Fee: 4,000 Gold 
+         
+         - After accepting the request you can speak with an Old Man in the Tavern. If you pay him a small fee he will mark your map with a "!" to denote the location of a buried Gold Ore cache. 
+         - This step is optional, but it will greatly speed up the collection process. He will re-mark your map after killing a group of thieves 4 times, however you must return to the Royal Capital and speak with him. 
+             - A1 Fee: ? 
+             - A2 Fee: ?
+             - A3 Fee: 2,000 Gold?
+             - A4 Fee: 4,000 Gold 
 
 ??? note "Search Process" 
-
+    
     - After accepting the request go to the indicated Abyss (your current one) and begin searching the correct floor. Lulunarde will inform you of the presence of thieves when you enter. 
-    - On that floor there will be a fixed number of locations that can potentially spawn a group of thieves. It appears as a small goblin on the map and it will not move or aggro your group.  
-    - The fight will be against a group of Bandits or Adventurers. After killing them you will receive a small amount of Gold Ore. If you have Marianne in the party the amount will be increased.   
-    - Each time you exit the Abyss the game will re-roll the location of the thieves across all the fixed spawn points. You can sometimes have multiple thieves spawn and other times none. It is entirely RNG-based.
-    - If you paid the Old Man in the Tavern, then the buried Gold Ore location will be marked on your map with a "!" and is usually located near the entrance. Once you reach the marked location you will see a glowing, white object indicator (a "shiny") on the floor. It provides an amount of Gold Ore several times larger (4x) than the group of thieves.  
-    - After collecting any amount of Gold Ore: 
-        - Lulunarde will let you know that you can submit the request, but can also continue collecting Gold Ore if you want.
-        - A "Request Complete" message will pop up.
-        - At any point after this you can turn in your Gold Ore at the Guild. The size of the additional reward is based on the total collected. Do not submit prematurely! 
-    - After collecting 50% of the maximum Gold Ore you will receive Lulu text. 
-    - At 100% you will receive Lulu text and the thieves will stop appearing at the spawn locations. Return to the Royal Capital Guild, submit the request, and receive the maximum additional gold reward. 
+    - Respawn Mechanics 
+        - There are a fixed number of locations that can spawn a group of thieves. Whether they appear or not is RNG-based. You might have some runs that spawn multiple groups or none. The game re-rolls their appearance every time you enter the Abyss. 
+        - The thieves only appear as the small goblin enemy icon on the map. They will never move or aggro you. This is the fastest way to tell you have found the correct enemy to fight.  
+        - You must fully exit back to the floor selection screen, re-enter, go to the marked locations (see Thieves Locations) to see if a group spawned.
+        - Rinse and repeat until you have collected the maximum amount of Gold Ore. 
+    - Battle
+        - The fight will be against a group of Bandits or Adventurers. After killing them you will receive a small amount of Gold Ore. If you have Marianne in the party the amount will be increased by 50% of the base amount. 
+    - Old Man's Buried Goal
+        - If you paid the Old Man in the Tavern, then the buried Gold Ore location will be marked on your map with a "!" and is usually located near the entrance. O
+        - Once you reach the marked location you will see a glowing, white object indicator (a "shiny") on the floor. It provides an amount of Gold Ore several times larger (4x) than the group of thieves.  
+    - Lulu Text Triggers
+        - After collecting any amount of Gold Ore you will get Lulu text letting you know the request is complete. You can return to town or continue to search. You will also receive a "Request Complete" message. Do not submit prematurely if you want the maximum reward. 
+        - After collecting 50% of the maximum Gold Ore. 
+        - After collecting 100%. The thieves will also stop appearing at the spawn locations. Return to the Royal Capital Guild, submit the request, and receive the maximum additional gold reward. 
 
 ??? warning "Maximum Gold Ore and Rewards"
 
     | Abyss | Location | Max Ore | Max GP Reward | 
-    |:----:|:----:|:----:|:-----:| 
+    |:----:|:----|:----|:-----| 
     | Abyss 1 | ?? | 6,000 | 400,000 | 
     | Abyss 2 | District 2 | 12,000 | 600,000 | 
     | Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
