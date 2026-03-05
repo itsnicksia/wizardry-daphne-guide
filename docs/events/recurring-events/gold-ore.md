@@ -22,25 +22,37 @@
             - After defeating your first group the request will be completed. 
             - It is strongly recommended that you do NOT turn it in early as you will lose out on the max gold reward. If you submit the request accidentally there is no way to re-activate the request.  
 
-    === "Preparation" 
+    === "Bringing Marianne (Optional)" 
 
         - If Marianne is in your party it will increase the amount of Gold Ore you find after each fight (an additional 50% of the base amount). Her presences reduces the total amount of fights from 60 to 40 if you do not pay the Old Man for the location of the buried Gold Ore. 
         - She is not mandatory to use to get the maximum reward.  
         - The battles are not particularly difficult and should not require any changes to your current team. Note that if Marianne is at a low level she might be at risk of dying.  
         - There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
-    === "Request Picture"
-
-        ![](./img/gold-ore-request.jpg)
-
-??? note "Old Man's Buried Treasure (Optional)"
-         
-         - After accepting the request you can speak with an Old Man in the Tavern. If you pay him a small fee he will mark your map with a "!" to denote the location of a buried Gold Ore cache. 
-         - This step is optional, but it will greatly speed up the collection process. He will re-mark your map after killing a group of thieves 4 times, however you must return to the Royal Capital and speak with him. 
+=== "Old Man's Buried Treasure (Optional)"
+    
+    - After accepting the request you can speak with an Old Man in the Tavern. If you pay him a small fee he will mark your map with a "!" to denote the location of a buried Gold Ore cache. 
+    - He will re-mark your map after killing a group of thieves 4 times, however you must return to the Royal Capital and speak with him. 
              - A1 Fee: ? 
              - A2 Fee: ?
              - A3 Fee: 2,000 Gold?
              - A4 Fee: 4,000 Gold 
+
+=== "Total Fights for Maximum Gold Ore"
+
+    - Total Fights 
+        - No Marianne or Old Man it will take 60 fights total.
+        - Marianne only (no Old Man) it is 40 fights total. 
+        - Old Man only and re-marking your map after every 4 fights results in 30 fights total. 
+        - Marianne + Old Man is 20 fights total.
+    - This pattern holds true across every Abyss. 
+    - You can substantially speed up the time to reach the maximum amount of Gold Ore by using both of them.  
+
+    === "Request Picture"
+
+        ![](./img/gold-ore-request.jpg)
+
+
 
 ??? note "Search Process" 
     
