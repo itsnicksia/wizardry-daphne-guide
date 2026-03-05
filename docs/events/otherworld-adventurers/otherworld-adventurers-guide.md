@@ -520,7 +520,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Total Cost of Refreshing        |       |   | 2,265 |  
         
         *Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.    
-        &nbsp**Calculations do not include the Amulet Shard. 
+        **Calculations do not include the Amulet Shard. 
 
 ## Maps
 
