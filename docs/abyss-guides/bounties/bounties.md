@@ -1,11 +1,41 @@
 # Bounties
 
-!!! warning "Please bear with us as this page is under construction. More and more details will be added."
+!!! warning "This page is a Work in Progress and updated regular (Ctrl + F5 to refresh)."
 
-??? note "Requirements - Complete the Second Abyss for the first time and talk with Arna in the Royal Capital Adventurer's Guild."  
-    Once the requirements are fulfilled a new tab, "Bounties", will appear in the Requests section of the Adventurer's Guild. Each town has its own set of bounties, which requires the player to find and defeat a specific enemy. Submitting a defeated bounty at the Guild will reward the player with gold and Bounty Medals to redeem for items at the Jeweler under Exchange > Bounty Medal. Each bounty provides Bounty Marks (one-time only) that serve as experience points to increase the player's Bounty Rank. The Bounty Rank ranges from 1-13 with higher ranks unlocking new bounties, adding new items to the Bounty Medal shop, and granting milestone rewards that can be viewed under the Bounty List > Check Rewards menu.
 
-!!! note "Note that some event locations can change due to some maps having layout variations, but events always stay fixed to their relative room location. See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations."
+### How to Unlock the Bounties Feature
+
+    - Clear Abyss 2 (Port Town Grand Legion). 
+
+### Overview 
+
+??? note "How to Accept Bounties" 
+
+    - After clearing Abyss 2 go to the Royal Capital Guild and speak with Arna.
+    - Select Requests and you will see a new tab called Bounties. 
+
+??? note "Basics" 
+
+    - Each town has its own set of bounties, which requires the player to find and defeat a specific enemy. Submitting a defeated bounty at the Guild will reward the player with gold and Bounty Medals to redeem for items at the Jeweler under Exchange > Bounty Medal. 
+    - Each bounty provides Bounty Marks (one-time only) that serve as experience points to increase the player's Bounty Rank. The Bounty Rank ranges from 1-13 with higher ranks unlocking new bounties, adding new items to the Bounty Medal shop, and granting milestone rewards that can be viewed under the Bounty List > Check Rewards menu.
+    - To reset bounties you need to Cursed Wheel on the node where it first unlocks or later. Next, you need to return to the Guild and view the Bounties page for the bounty to appear again in the Abyss. 
+    - Bounties cannot ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
+    - Bounties can be run away from 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to re-appear.
+    - Bounties fall into 3 types:
+        - Wandering: Can appear anywhere on the floor map, but can be reset with changing floors or re-entering. They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
+        - Fixed: Populate on a specific tile set and will never move. A handful (like Minotaur) can be aggro'd and will chase you. 
+        - Event: There will be a brief interaction before the battle where you will be offered the option to fight or let them go. 
+    - Bounties can drop relics, but only if they are in the front row. Event bounties will never drop relics. 
+    - Do not forget to turn in your bounties before Cursed Wheeling to reset them!
+
+??? note "Capturing Mechanics" 
+
+    - Forthcoming. 
+
+??? note "Map Variations" 
+
+    - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
+    - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations.
 
 ### Bounty Rank Unlock Conditions
 
@@ -523,15 +553,16 @@
     === "Map Location"
         ![](./img/mellie-the-coin-counting-killer-loc.png)
 
-??? danger "Veigar, the Sorceror Who Rules the Dead (800 Tokens)"
+??? danger "Veigar, the Sorceror Who Rules the Dead (800 Tokens, 1,200 Captured)"
 
     === "Bounty Picture" 
         ![](./img/veigar-the-sorcerer-who-rules-the-dead.png)
 
     === "Bounty Details"
-        - Stationary, appears as an NPC on the map in a specific 2x1 room.
-        - 17000 Gold Reward
-        - 800 Token Reward
+        - Stationary, appears as an NPC on the map in a specific 2x1 room
+        - Requires very low corrosion level (max 1 "Spotted") to ensure a direct path to him
+        - 17,000 Gold Reward
+        - 800 Token Reward; 1,200 if captured alive
         - Appears at Bounty Rank 11
         - Requires A3 True Ending
 
@@ -749,32 +780,53 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
 ## Unique Rewards
 
-!!! warning "It's entirely possible to buy all the Hound Masks and not receive a 4* Purple"
 
-- Master Ring: Abyss 4 tier ring that always generates as a White 5* with 0/3 Strength Level. It provides 13 of every stat, minus Defense and Magic Defense which are a bit higher.
-- Hound Mask: Randomly generated quality and grade ebonsteel level cloth hat that has innate evasion and resistance. At +20, it gives 17 Disarm Trap. 
-- Book of Honed Ability Secrets: Provides a few stats that vary depending on class.
+??? note "Master Ring" 
 
-**Hound Mask**:
+    -Silver-rank ring that is fixed at 5* White and 0/3 Strength level.  
+    - +13 to every stat aside from DEF and MDEF, which are higher. 
+    - If the first blessing line at +5 rolls an undesirable blessing you can use an LFAS to re-roll. Not recommended for the average player. Do not attempt to use a FAS as you will not get the additional enhancement bonus. 
+    - Primarily used on the team's chest opener (for the Detect and Disarm) or to boost a stat that may be seriously lagging. 
+    - It is now possible to purchase unification Unification Material to take the ring to +10, which unlocks a second blessing slot. 
 
-- Enhance +0 = 5 Disarm Trap
-- Enhance +5 = 8 Disarm Trap
-- Enhance +10 = 11 Disarm Trap
-- Enhance +15 = 13 Disarm Trap
-- Enhance +20 = 17 Disarm Trap
+??? note "Hound Mask" 
 
-**Book of Honed Ability Stat Boost**:
+    - Enhance +0 = 5 Disarm Trap
+    - Enhance +5 = 8 Disarm Trap
+    - Enhance +10 = 11 Disarm Trap
+    - Enhance +15 = 13 Disarm Trap
+    - Enhance +20 = 17 Disarm Trap
 
-- Fighter: 5 ATK, 5 ACC
-- Knight: 10 HP, 5 DEF, 5 MDEF
-- Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
-- Ninja: 5 ATK, 5 EVA, 5 ASPD
-- Samurai: 5 ATK, 5 MAG, 5 ACC
-- Ranger: 5 ACC, 5 ASPD
-- Priest: 5 DIV, 5 RES
-- Mage: 10 MP, 5 MAG
+    !!! warning "It's entirely possible to buy all 27 Hound Masks and not receive a 4* Purple."
+
+??? "Book of Honed Ability Secrets" 
+
+    - Stats vary by the unit's class. 
+    - Fighter: 5 ATK, 5 ACC
+    - Knight: 10 HP, 5 DEF, 5 MDEF
+    - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
+    - Ninja: 5 ATK, 5 EVA, 5 ASPD
+    - Samurai: 5 ATK, 5 MAG, 5 ACC
+    - Ranger: 5 ACC, 5 ASPD
+    - Priest: 5 DIV, 5 RES
+    - Mage: 10 MP (bugged), 5 MAG
 
 ## Farming Information
+
+??? "Overview"
+
+    - There are a handful of well-established farming loops depending on your team's power level and Abyss progression.
+    - To reset a bounty you need to: 
+        - Wheel-in-place to the node where the bounty first unlocks or later
+        - Return to the Guild > Requests > Bounties in order for the bounty to show up. 
+    - It is strongly recommend you do a little each day as part of your daily routine versus long marathon sessions. 
+    - It costs 45,000 points (40,500 with no ore) to buy out the respawning items in the shop every month.
+
+??? "Scorpion Lady + Minotaur (460 Bounty Medals)"
+
+    - Most straight forward loop as both bounties are located right next to their Harkens in A1 at F2 and F5, respectively. 
+    - Morgus ATK contract can be run safely if the MC is put in the backrow. This allows you to kill both in 1 round depending on your team's power level. However, you can be ambushed with it active. 
+
 
 - It's possible to farm a specific bounty by cursed wheeling in place, typically to Triumphant Return
 - There is no limit to the number of Bounty Medals you can farm
