@@ -81,7 +81,7 @@
 
     === "Guide" 
 
-        - The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
+        - The fastest farming route is to Harken into Zone 1, check the closest spot directly north, exit, and return.  
         - Each group of thieves gives you 400 Gold Ore with another 200 if Marianne is present in your party. You need to collect 24,000 Gold Ore for the maximum Gold reward of $1M. 
             - 60 encounters without Marianne
             - 40 encounters with Marianne
@@ -94,8 +94,13 @@
 
     === "Guide" 
 
-        - The fastest farming route seems to be going from the entrance directly north and checking the spawning point, exiting, and repeating. 
-        - Each group of thieves gives you 800 Gold Ore with another 4000 if Marianne is present in your party. You need to collect X? Gold Ore for the maximum Gold reward of X?.
+        - WIP as this is brand new content added for A4. 
+        - Buried treasure is right next to the entrance and marked with a "!" mark and gives 4,800 Gold Ore. 
+        - The fastest farming route seems to be going from the entrance directly north and checking the spawning point, exiting, and repeating. Currently being tested to see if the fixed location respawn mechanic still works. 
+        - Thief fight is against Skilled Thief, Skilled Elf Mage, Skilled Elf Priest, and Skilled Dwarf Knight (all level 69).    
+        - Each group of thieves gives you 800 Gold Ore with another 400 if Marianne is present in your party. You need to collect 48,000? Gold Ore for the maximum Gold reward of X?.
+            - 60? encounters without Marianne
+            - 40? encounters with Marianne
 
     === "Thief Spawning Locations"
     
