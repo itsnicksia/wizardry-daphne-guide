@@ -15,15 +15,15 @@
     
         - The goal of the request is to find buried Gold Ore that thieves are guarding in certain Abyss location. Upon accepting the request, Arna will direct you to the correct Abyss to search, which is based on your current progression.
         - After accepting the request, you can meet an Old Man in the Guild Tavern who you can pay to mark your map with a location of buried Gold Ore.  This is not required, but will speed up the collection process. Every few days he will provide you with an additional locations for another payment.
-        - A1 Fee: ? 
-        - A2 Fee: ?
-        - A3 Fee: ?
-        - A4 Fee: 4,000 Gold 
+            - A1 Fee: ? 
+            - A2 Fee: ?
+            - A3 Fee: ?
+            - A4 Fee: 4,000 Gold 
         - The request is completed the first time you turn it in and cannot be continued/repeated during the event period.  *Do not turn it in early.*
 
     === "Preparation" 
 
-        - If Marianne is in your adventuring party it will increase the amount of Gold Ore you find at each location. This speeds up the time it takes to complete the request. However, her presence is not required to get the full reward. 
+        - If Marianne is in your party it will increase the amount of Gold Ore you find at each location. This speeds up the time it takes to complete the request. However, her presence is not required to get the full reward. 
         - The Thief battles are not particularly difficult and should not require any changes to your current team. 
         - There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
@@ -36,14 +36,18 @@
 ??? note "Search Process" 
 
     - After accepting the request, go to the indicated Abyss and begin searching the correct floor (see Ore Locations).  Lulunarde will inform you of the presence of the thieves when you arrive on the correct floor. 
-    - On that floor there will be a fixed number of locations that can randomly spawn an non-mobile enemy, which will be a group of thieves. After killing the thieves you will receive a small amount of Gold Ore.  
+    - On that floor there will be a fixed number of locations that can randomly spawn an non-mobile enemy with the small gobling map icon. The fight will be against a group of thieves (Bandits, Adventurers). After killing them you will receive a small amount of Gold Ore. If you have Marianne in the party the amount will be increased.   
     - Each time you exit the Abyss the location of the thieves will change. However, there are only a small number of fixed locations where they will respawn.  
-    - If you paid the Old Man in the Guild Tavern, then the buried Gold Ore location will be marked on your map. Once you reach the location it will appear as a glowing, white object indicator (a "shiny") on the floor. It provides an amount of Gold Ore several times larger than the group of thieves.  
+    - If you paid the Old Man in the Guild Tavern, then the buried Gold Ore location will be marked on your map. Once you reach the location it will appear as a glowing, white object indicator (a "shiny") on the floor. It provides an amount of Gold Ore several times larger (4x) than the group of thieves.  
     - After collecting any amount of Gold Ore: 
         - Lulunarde will let you know it is up to you if want to search for more
         - A "Request Complete" message will pop up
         - At any point after this you can turn in your Gold Ore at the Guild. The size of the additional reward is based on the total collected. 
-    - However, you do NOT want to submit the request prematurely as you will be missing out on a substantial amount of Gold (Abyss 1, $400K; Abyss 2, $600K; Abyss 3, $1M) that is given for collecting all of the Gold Ore. 
+    - However, you do NOT want to submit the request prematurely as you will be missing out on a substantial amount of Gold:
+        - Abyss 1: $400K 
+        - Abyss 2: $600K
+        - Abyss 3: $1M 
+        - Abyss 4: $2M?
     - After collecting the maximum amount of Gold Ore you will receive Lulu text letting you know that you are finished. The thieves will stop appearing at the spawn locations. Return to the Royal Capital Guild and submit the request and receive the maximum additional god reward. 
 
 ??? warning "Maximum Gold Ore and Rewards"
@@ -53,9 +57,8 @@
     | Abyss 1 | ?? | 6,000 | 400,000 | 
     | Abyss 2 | District 2 | 12,000 | 600,000 | 
     | Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
-    | Abyss 4 | Zone 1 | ? | ? | 
+    | Abyss 4 | Zone 1 | 48,000? | 2,000,000? | 
 
-    
     - There is a 2,000 Gold reward for completing the request. 
     - There is a substantial additional Gold reward based on the amount of Gold Ore collected. The additional reward scales with the Abyss you were assigned to search.  
 
@@ -111,6 +114,7 @@
         === "Spawn Points" 
         
             ![](./img/gold-ore-abyss4-part1-locations.jpg)
+            
             ![](./img/gold-ore-abyss4-part2-locations.png)
 
         === "Routing" 
