@@ -444,7 +444,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - For the Adventurer's Remains I and II the total cost is 4,800 for both sets of 3. 
         - For the Basic Items (Enhancement Ore, EXP books) the total cost is 2,265.
         - If you plan to clear the shop weekly, then the total cost is 7,065.
-        - Remember that these items are _missable_ and only available for 7 days. They have a countdown-timer (Days Remaining) at the top of their listing. Refresh is every Thursday at 0:00 JST  
+        - Remember that these items are _missable_ and only available for 7 days. They have a countdown-timer (Days Remaining) at the top of their listing. Refresh is every Thursday at 0:00 JST.  
 
     === "Unique Gear Considerations"
 
@@ -520,7 +520,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Total Cost of Refreshing        |       |   | 2,265 |  
         
         *Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.    
-        **Calculations do not include the Amulet Shard. 
+        &nbsp**Calculations do not include the Amulet Shard. 
 
 ## Maps
 
