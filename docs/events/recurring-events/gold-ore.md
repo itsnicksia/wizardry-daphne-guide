@@ -82,7 +82,7 @@
     === "Guide" 
 
         - The fastest farming route is to Harken into Zone 1, check the closest spot, exit, and return.  
-        - Each group of thieves gives you 400 ore with another 200 if Marianne is present in your party. You need to collect 24,000 Gold Ore for the maximum Gold reward of $1M. 
+        - Each group of thieves gives you 400 Gold Ore with another 200 if Marianne is present in your party. You need to collect 24,000 Gold Ore for the maximum Gold reward of $1M. 
             - 60 encounters without Marianne
             - 40 encounters with Marianne
 
@@ -92,5 +92,16 @@
 
 ??? map "Abyss 4 - Route 1 - Deepsnow Hinterlands Entrance" 
 
-    - Forthcoming
+    === "Guide" 
+
+        - The fastest farming route seems to be going from the entrance directly north and checking the spawning point, exiting, and repeating. 
+        - Each group of thieves gives you 800 Gold Ore with another 4000 if Marianne is present in your party. You need to collect X? Gold Ore for the maximum Gold reward of X?.
+
+    === "Thief Spawning Locations"
+    
+        ![](./img/gold-ore-abyss4-part1-locations.jpg)
+        ![](./img/gold-ore-abyss4-part2-locations.jpg)
+
+        - Big thank you to Discord member @windsoothe (Wrio) for the posted maps. 
+        
 
