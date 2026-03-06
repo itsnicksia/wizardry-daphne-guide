@@ -1,6 +1,6 @@
 !!! warning "Warning - Read Me"
     - Do not submit the request until you have collected the maximum amount of Gold Ore. Do not listen to Lulu.  
-    - The additional gold reward is substantial. You will miss out on it if the request is submitted prematurely.
+    - The additional gold reward is substantial and can be missed if the request is submitted prematurely.
     - This is a WIP and being updated for Abyss 4. Ctrl + F5 to refresh. 
 
 ### Overview
@@ -9,26 +9,29 @@
 
     - Accept at the Royal Capital under the Featured Requests tab. 
     - Available for a limited time through 3/18 (23:59) and cannot be discarded after accepting. 
-    - This is not a daily request. You have the entire 2-week period to complete. 
+    - This is not a Daily request. You have the entire 2-week period to complete. 
 
 ??? note "Important Notes" 
 
     === "Summary" 
     
         - Objective
-            - The goal is to reclaim the Gold Ore that a group of thieves has stolen. They are now hiding in the Abyss and it is your job to track them down and recover as much Gold Ore as possible.
-            - After accepting the request, Arna will direct you to the correct Abyss to search, which will be the highest Abyss you have reached to-date. There are no changes to the enemies or their levels in the Abyss while the requests is active. 
+            - The goal is to reclaim the Gold Ore that a group of thieves has stolen. They are now hiding in the Abyss and it is your job to track them down and recover as much of it as possible.
+            - After accepting the request Arna will direct you to the correct Abyss to search, which will be the highest Abyss you have reached to-date. There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
         - Task
             - Go to Abyss floor listed under the Guides section. You will know you are on the correct floor because Lulu will comment that she senses the presence of thieves in the area.
-            - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading. If you submit early and do not collect the maximum amount of Gold Ore you will lose out on 400,000 (Abyss 1) to 2,000,000 (Abyss 4) Gold as part of your additional reward. 
+            - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading. Do not submit at this point! See Additional Reward Mechanic for details.
 
     === "Additional Reward Mechanic"
 
-        - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportional to the % of the maximum Gold Ore you collected. For example, the maximum in Abyss 3 is 24,000. If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 versus 1,000,000 Gold as an additional reward.  
+        - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportional to the % of the maximum Gold Ore you collected. 
+        - Abyss 3 Example
+            - The maximum Gold Ore you can collect is 24,000. 
+            - If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 Gold versus 1,000,000 Gold as an additional reward.  
         - You can check how much total Gold Ore you have collected under your Valuables inventory. 
         - It takes 60 encounters to collect the maximum amount. Fortunately, there are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see Optional tabs). 
-        - If you submit the request accidentally or prematurely you will be locked out for the rest of the event. It cannot be reactivated. We strongly recommend you do not submit until you have gathered the maximum amount of Gold Ore.
+        - If you submit the request accidentally or prematurely you will be locked out for the rest of the event. It cannot be reactivated. 
 
     === "Marianne (Optional)" 
 
@@ -85,12 +88,13 @@
     
     === "Respawn Mechanic"         
         
-        - There are a fixed number of locations (tile sets) that can spawn a group of thieves, which do not ever change even if you roll a different map variation. Whether a group spawns at these fixed locations is RNG-based and re-rolls every time you enter the Abyss. Some runs might spawn multiple groups or none at all. The latter is normal and can happen several times in a row although it is rare. 
+        - There are a fixed number of locations (tile sets) that have the potential to spawn a group of thieves. These tiles sets can move or rotate if you get a different map variation than what is shown in the Guides. 
+        - Whether a group spawns at these fixed locations is RNG-based and re-rolls every time you enter the Abyss. A single run might spawn multiple groups or none at all. The latter is normal and can happen several times in a row although it is rare. 
         - The thieves _only_ appear as a small goblin enemy on the field map. They will never move or aggro even if you are standing directly in front of them. Once detected they will appear on your mini-map as a green arrowhead.
         - Steps for a typical run:
-            - Enter the Abyss and check all their fixed locations to see if any groups spawned. Use the map markers (yellow check-mark) to denote their locations so you can auto-move to them.   
-            - If they spawn, then fight them and collect the Gold Ore.
-            - When done exit to the floor selection screen. Re-enter and repeat the process until you have collected the maximum amount of Gold Ore. 
+            - Enter the Abyss and check all the fixed locations to see if any groups spawned. Use the map markers (yellow check-marks) to denote their locations so you can auto-move to them.   
+            - If they spawn, then defeat them and collect the Gold Ore.
+            - When done exit the Abyss to the floor selection screen. Re-enter and repeat the process until you have collected the maximum amount of Gold Ore. 
         - Some players prefer to check only the locations closest to the Harken or entrance and repeatedly re-enter (re-roll) until a group appears. See Guides for efficient routing tips. 
         
     === "Thieves Battle"
@@ -126,8 +130,10 @@
         - The Old Man's stash has 5 locations ("!" on your map) and gives 400 Gold Ore. They are located throughout the floor. 
     
     === "Spawning Locations"
-        
+
+        <div align="center">
         ![](./img/gold-ore-abyss1_locations.png)  
+        </div>
 
 ??? map "Abyss 2 - District 2 - Black Market" 
 
@@ -139,8 +145,10 @@
         - The Old Man's stash has 5 locations ("!" on your map) and gives 800 Gold Ore. They are located throughout the floor. 
 
     === "Spawning Locations"
-    
+
+        <div align="center">
         ![](./img/gold-ore-abyss2_locations.jpg)  
+        </div>
 
 ??? map "Abyss 3 - Zone 1 - Old Secret Passage" 
 
@@ -152,8 +160,11 @@
         - The Old Man's stash has 5 locations ("!" on your map) and gives 1,600 Gold Ore. They are located throughout the floor. 
 
     === "Spawning Locations"
-    
+
+        <div align="center">
         ![](./img/gold-ore-abyss3_locations.jpg)
+        </div>
+
 
 ??? map "Abyss 4 - Route 1 - Deepsnow Hinterlands Entrance" 
 
