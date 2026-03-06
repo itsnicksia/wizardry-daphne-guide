@@ -212,7 +212,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Bronze Grade (level 40) that has been able to enter the Otherworld Rift and encounter the superboss. 
     - Unclear if this is a bug or there are additional requirements that have yet to be identified. 
 
-??? "How to accesss the Other World Rift"
+??? note "How to accesss the Other World Rift"
 
     === "Guide" 
 
@@ -238,7 +238,9 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
     - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. In addition, the boss may drop a rare consumable that when used reduces enemy's damage dealt. It's also entirely possible this boss drops nothing.
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
-    - To reset this boss, you will need to use the Event button (yellow shield icon). 
+    - For max Compendium pips you need to fight him 5 times. 
+    - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. Normal Cursed Wheeling does not work, but it will reset the 2 chests. 
+
 
 ## Farming
 
