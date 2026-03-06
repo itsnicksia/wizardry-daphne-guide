@@ -3,7 +3,7 @@
     - The additional gold reward is substantial. You will miss out on it if the request is submitted prematurely.
     - This is a WIP and being updated for Abyss 4. Ctrl + F5 to refresh. 
 
-### Guide
+### Overview
 
 ??? note "How to Accept the Request" 
 
@@ -63,6 +63,20 @@
         ![](./img/gold-ore-request.jpg)
         </div>
 
+??? warning "Maximum Gold Ore and Rewards"
+
+    | Abyss | Location | Max Gold Ore | Max Gold Reward | 
+    |:----|:----|:----:|:-----:| 
+    | Abyss 1 | ?? | 6,000 | 400,000 | 
+    | Abyss 2 | District 2 | 12,000 | 600,000 | 
+    | Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
+    | Abyss 4 | Route 1 | 48,000 | 2,000,000 | 
+
+    - There is a 2,000 Gold reward for completing the request. 
+    - As previously detailed the additional gold reward is proportional to the total amount of Gold Ore collected.
+
+### Guide
+
 ??? note "Thieves Search Process" 
     
     === "Respawn Mechanic"         
@@ -98,20 +112,6 @@
 
         - You can encounter a group of thieves, but the battle will not start even if you are standing directly on top of them. They are "stuck in the wall." Seems to happen the most frequently in the Abyss 4 blizzard zones. 
         - Exit the game and restart and that should allow you to fight them. 
-
-??? warning "Maximum Gold Ore and Rewards"
-
-    | Abyss | Location | Max Gold Ore | Max Gold Reward | 
-    |:----|:----|:----:|:-----:| 
-    | Abyss 1 | ?? | 6,000 | 400,000 | 
-    | Abyss 2 | District 2 | 12,000 | 600,000 | 
-    | Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
-    | Abyss 4 | Route 1 | 48,000 | 2,000,000 | 
-
-    - There is a 2,000 Gold reward for completing the request. 
-    - As previously detailed the additional gold reward is proportional to the total amount of Gold Ore collected.
-
-### Thieves Spawning Locations
 
 ??? map "Abyss 1"
 
