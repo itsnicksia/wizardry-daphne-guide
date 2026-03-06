@@ -21,9 +21,9 @@
 
         - Task
             - Go to Abyss floor listed under the Guides section. You will know you are on the correct floor because Lulu will comment that she senses the presence of thieves in the area.
-            - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading. Do not submit at this point! See Additional Reward Mechanic for details.
+            - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading. Do not submit at this point! See Additional Reward tab for details.
 
-    === "Additional Reward Mechanic"
+    === "Additional Reward"
 
         - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportional to the % of the maximum Gold Ore you collected. 
         - Abyss 3 Example
@@ -82,7 +82,7 @@
     - There is a 2,000 Gold reward for completing the request. 
     - As previously detailed the additional gold reward is proportional to the total amount of Gold Ore collected.
 
-### Guide
+### Guides
 
 ??? note "Thieves Search Process" 
     
