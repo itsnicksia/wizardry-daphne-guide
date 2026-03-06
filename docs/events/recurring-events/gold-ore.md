@@ -16,80 +16,87 @@
     
         - Objective
             - The goal of the request is to reclaim Gold Ore that a group of thieves have stolen. They are now hiding in the Abyss and it is your job to track them down and reclaim as much Gold Ore as possible.
-            - Upon accepting the request, Arna will direct you to the correct Abyss to search, which will be the highest Abyss you have reached to-date. 
-            - There are no changes to the enemies or their levels in the Abyss while the requests is active. 
+            - After accepting the request, Arna will direct you to the correct Abyss to search, which will be the highest Abyss you have reached to-date. There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
         - Task
-            - Go to the correct Abyss and floor (see Thieves Locations). You will know you are in the correct location as Lulu will comment that she senses the presence of thieves in the area.
-            - Search the Abyss floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. 
-            - After defeating your first group the request will be completed. While "technically" true it is misleading.
-        - Reward Mechanics
-            - Each Abyss has a maximum amount of Gold Ore that can recovered, which gives a substantial amount of additional gold as a reward. Fortunately, there are ways to speed up this process with Marianne and the Old Man in the Tavern (see tabs).  
-            - The size of your additional reward is roughly proportionate to the % of the maximum Gold Ore you collected. For example, the maximum Gold Ore in Abyss 3 is 24,000. If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 versus 1M Gold.  
-            - If you submit the request prematurely you will be locked out until the event ends. It cannot be reactivated.
-            - We strongly recommend you do not submit until you have gathered the maximum amount of Gold Ore.
+            - Go to the correct Abyss and floor (see Thieves Spawning Locations). You will know you are in the correct location as Lulu will comment that she senses the presence of thieves in the area.
+            - Search the Abyss floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading.
+        - Additional Reward Mechanics
+            - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportionate to the % of the maximum Gold Ore you collected. For example, the maximum Gold Ore in Abyss 3 is 24,000. If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 versus 1M Gold.  
+            - The challenge is that it takes 60 encounters with the thieves to collect the maximum amount. Fortunately, there are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see Optional tabs). 
+            - If you submit the request accidentally or prematurely you will be locked out until the event ends. It cannot be reactivated. We strongly recommend you do not submit until you have gathered the maximum amount of Gold Ore.
 
     === "Marianne (Optional)" 
 
-        - If Marianne is in your party it will increase the amount of Gold Ore you find after each fight by an additional 50% of the base amount. 
-        - She reduces the number of total fights from 60 to 40 if you do not pay the Old Man for the location of the buried Gold Ore. 
-        - She is not mandatory to use to get the maximum amount of Gold Ore.  
-        - If Marianne is at a low level she might be at risk of dying, especially in Abyss 3 or 4. Give her EXP books and/or strong gear to make sure can survive all of the fights.
+        - If Marianne is in your party it will increase the amount of Gold Ore collected after each fight by an additional 50% of the base amount. Note that Marianne is not required to get the maximum amount of Gold Ore.  
+        - A low level Marianne might be at risk of dying, especially in Abyss 3 or 4. Give her EXP books and/or strong gear to make sure can survive all of the encounters.
 
-    === "Old Man's Buried Gold (Optional)"
+    === "Old Man's Stash (Optional)"
         
-        - After accepting the request in the Guild you can speak with an Old Man in the Tavern. If you pay him a small fee he will mark your map with a "!" to denote the location of a buried Gold Ore cache. There are 2 locations in each Abyss (under verification).
-        - Once you reach the marked location you will see a glowing, white object indicator (a "shiny") on the ground. The hidden cache contains 4x the amount of Gold Ore that you recieve from a single fight against a group of thieves.
-        - You will get Lulu text after killing 4 groups suggesting that you return to the Old man to check-in with him. You must return to the Royal Capital, speak with him again at the Tavern, pay him, and he will re-mark your map. 
+        - After accepting the request head to the Tavern and speak with the Old Man. For a small fee he will mark your map with a "!" to denote the location of his hidden Gold Ore stash. There are 5 locations in each Abyss.
+        - Once you reach the marked "!" location you will see a glowing, white object indicator (a "shiny") on the ground. The stash contains 4x the amount of Gold Ore that you recieve from a single fight.
+        - After killing 4 groups you will get Lulu text to check-in with the Old Man. You must return to the Royal Capital and he will re-mark your map with the next stash location. 
              - A1 Fee: ? 
              - A2 Fee: ?
              - A3 Fee: 2,000 Gold?
              - A4 Fee: 4,000 Gold 
-         - We strongly recommend that you have him re-mark your map every 4 fights to speed up the time it takes to complete the request.
+         - We strongly recommend that you have him re-mark your map every 4 fights. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 fights for an equivalent amount of Gold Ore.
 
     === "Total Fights for Maximum Gold Ore"
-    
-        - Total Fights 
-            - No Marianne + No Old Man - 60 fights.
-            - Marianne + No Old Man - 40 fights. 
-            - No Marianne + Old Man (re-marking after every 4 fights) - 30 fights. 
-            - Marianne + Old Man (re-marking) - 20 fights.
+
+        | Marianne | Old Man | Total Fights | 
+        |:--------:|:-------:|:------------:|
+        | No  | No  | 60 |  
+        | Yes | No  | 40 |  
+        | No  | Yes | 30 |  
+        | Yes | Yes | 20 |  
+
+        - The "Yes" refers to:
+            - Using Marianne in your party for every fight.
+            - Speaking with the Old Man after every 4 fights and having him re-mark your map 5 times. 
+        - Doing both reduces the total amount of fights from 60 to 20, which is a significant IRL time-savings. 
         - The number of total fights holds true across every Abyss. 
 
     === "Request Picture"
-
+          
+        <div align="center">
         ![](./img/gold-ore-request.jpg)
+        </div>
 
-??? note "Search Process" 
+??? note "Thieves Search Process" 
     
-    === "Respawn Mechanics"         
+    === "Respawn Mechanic"         
         
-        - There are a fixed number of locations that can spawn a group of thieves. These locations (tile sets) do not ever change even if you roll a different map variation. 
-        - Whether a group spawns at these fixed locations is RNG-based and is re-rolled every time you enter the Abyss. You might have some runs that spawn multiple groups or none at all.
-        - The thieves _only_ appear as a small goblin enemy icon on the field map. They will never move or chase you. Once detected they will appear on your mini-map as a green arrowhead.
-        - To re-respawn: Exit the Abyss, re-enter using the floor selection screen, go to the marked (fixed) spawning locations (see Thieves Locations), see if a group appeared, fight them, and collect the Gold Ore.
-        - Rinse and repeat until you have collected the maximum amount of Gold Ore. 
-
+        - There are a fixed number of locations (tile sets) that can spawn a group of thieves, which do not ever change even if you roll a different map variation. Whether a group spawns at these fixed locations is RNG-based and re-rolls every time you enter the Abyss. 
+        - Some runs might spawn multiple groups or none at all. The latter is normal and can happen several times in a row although it is rare. 
+        - The thieves _only_ appear as a small goblin enemy on the field map. They will never move or aggro even if you are standing directly in front of them. Once detected they will appear on your mini-map as a green arrowhead.
+        - Below are the steps for a typical run:
+            - Enter the Abyss and check all their fixed locations to see if any groups spawned. Use the map markers (yellow check-mark) to denote their locations so you can auto-move to them.   
+            - If they spawn, then fight them and collect the Gold Ore.
+            - When done exit to the floor selection screen. Re-enter and repeat the process until you have collected the maximum amount of Gold Ore. 
+        - Some players prefer to check only the locations closest to the Harken and repeatedly re-enter (or re-roll) until a group appears. See Thieves Spawning Locations for efficient routing tips. 
+        
     === "Thieves Battle"
     
         - The fight will be against a group of Bandits or Adventurers. The number of enemies can range from 3 to 5. 
-        - There is nothing notable about these fights as they are scaled to your MC's Grade and Abyss. They tend to have higher-than-average ASPD. 
-        - After killing them you will receive a small amount of Gold Ore. If you have Marianne in the party the amount will be increased by 50% of the base amount. 
+        - The enemy level and difficulty is scaled to your MC's Grade and Abyss progression. 
+        - There is nothing notable about the fights. They do not have higher HP or unique move sets. If they are moving before your party, then you may want to speed-tune your team's ASPD for more efficient fights.   
+        - After killing them you will receive a small amount of Gold Ore. If you have Marianne in the party, then the amount will be increased by 50% of the base amount. 
 
     === "Lulu Text Triggers" 
 
-        - After collecting any amount of Gold Ore: 
-            - Lulu will let you know that the request is completed; and, that you can return to the Royal Capital or continue to search. 
-            - A "Request Completed" message will pop-up. 
-        - After collecting 50% of the maximum Gold Ore: 
-            - Nothing notable aside from her asking if you want to continue searching.
-        - After collecting 100%:
-            - The thieves will also stop appearing at the spawn locations. 
-            - Return to the Royal Capital Guild, submit the request, and receive the maximum additional gold reward. 
+        - After collecting Gold Ore for the first time: 
+            - She will inform you that the request is completed and that you can return to the Royal Capital or continue to search. 
+            - A "Request Complete" pop-up will appear and your Request List will be updated. 
+            - Do not immediately submit the request. This is a trap.
+        - After every fight she will give the same text that you can submit or continue to search. This behavior is new and was not present during past events.  
+        - At 50% of the maximum Gold Ore collected you will get unique text that you are at the halfway point.
+        - At 100% she will let you know that you have reached the limit and the thieves will stop re-spawning. At this point it is safe to return to the Royal Capital and submit the request. 
+        - Be careful as it is very easy to accidentally submit the request if you are not paying attention. 
 
-    === "Known Bugs"
+    === "Bugs"
 
-        - You can encounter a group of thieves, but the battle will not start even if you are standing directly on top of them. They are "stuck in the wall." Seems to happen the most frequently in blizzard zones. 
+        - You can encounter a group of thieves, but the battle will not start even if you are standing directly on top of them. They are "stuck in the wall." Seems to happen the most frequently in the Abyss 4 blizzard zones. 
         - Exit the game and restart and that should allow you to fight them. 
 
 ??? warning "Maximum Gold Ore and Rewards"
@@ -102,23 +109,26 @@
     | Abyss 4 | Route 1 | 48,000 | 2,000,000 | 
 
     - There is a 2,000 Gold reward for completing the request. 
-    - The reward is reduced if you submit a lower amount of Gold Ore. For example, if you were doing the A4 version and submitted 24,000 Gold Ore (50% of max) you would receive 1,000,000 gold as your additional reward. 
+    - As previously detailed the additional gold reward is proportional to the total amount of Gold Ore collected.
 
-### Thieves Locations
+### Thieves Spawning Locations
 
 ??? map "Abyss 1"
 
-    - Forthcoming
+    - Forthcoming.
+    - If any new players are active on the Discord and have the maps, please do share them with us in chat or ping @lightbearer.
     <!-- ![](./img/gold-ore-abyss1_locations.jpg) -->
 
 ??? map "Abyss 2 - District 2 - Black Market" 
 
     === "Guide"
 
-        - The fastest (almost always no-combat) method is Harkening to District 2, auto-path to the two closest locations, see if any groups spawned, then auto-exit back to the Harken. Rinse and repeat. 
-        - Each group gives 200 Gold Ore with another 100 if Marianne is present in your party. You need to collect 12,000 Gold Ore for the maximum Gold reward of 600K. 
+        - The fastest method (low combat) is to Harken to District 2, auto-path to the 2 closest locations, see if any groups spawned, and then auto-exit back to the Harken. Rinse and repeat.   
+        - Each group gives 200 Gold Ore with another 100 if Marianne is present in your party. 
+        - You need to collect 12,000 Gold Ore for the maximum additional reward of 600,000 Gold. 
+        - The Old Man's stash has 5 locations ("!" on your map) and gives 800 Gold Ore. They are located throughout the floor. 
 
-    === "Thief Spawning Locations"
+    === "Thieves Spawning Locations"
     
         ![](./img/gold-ore-abyss2_locations.jpg)  
 
@@ -126,10 +136,12 @@
 
     === "Guide" 
 
-        - The fastest farming route is to Harken to Zone 1, check the spawn location directly east of the Harken, exit, and repeat. You can also check the southwest corner as there are no enemies along that pathway.   
-        - Each group gives 400 Gold Ore with another 200 if Marianne is present in your party. You need to collect 24,000 Gold Ore for the maximum Gold reward of 1M. 
+        - The fastest method is to Harken to Zone 1, check the spawn location directly east of the Harken, exit, and repeat. You can also check the southwest corner as there are no enemies along that pathway.   
+        - Each group gives 400 Gold Ore with another 200 if Marianne is present in your party. 
+        - You need to collect 24,000 Gold Ore for the maximum additional reward of 1,000,000 Gold.
+        - The Old Man's stash has 5 locations ("!" on your map) and gives 1,600 Gold Ore. They are located throughout the floor. 
 
-    === "Thief Spawning Locations"
+    === "Thieves Spawning Locations"
     
         ![](./img/gold-ore-abyss3_locations.jpg)
 
@@ -137,11 +149,14 @@
 
     === "Guide" 
 
-        - WIP as this is brand new content added for Abyss 4. 
-        - See the "Routing" tab for an efficient routing path. This will be refined and updated in the coming days.
-        - Thieves fight is against a mix of 3-5 Skilled Adventurers of any type (level 69 at Copper Grade). These are the same exact mobs you have been fighting throughout all of Abyss 4.     
-        - Each group gives 800 Gold Ore with another 400 if Marianne is present in your party. You need to collect 48,000 Gold Ore for the maximum Gold reward of 2M.
-        - The Old Man's buried gold has 2 locations. The first is directly north of the entrance and the second is northeast of the hot springs. They will be marked with a "!" and give 4,800 Gold Ore. 
+        - This is a WIP. Complete maps and routing paths will be updated soon.  
+        - A potentially fast re-spawning method is to check the first group by the entrance, exit, re-enter, and repeat. However, CMRIDQ has reported that their spawn rate is extremely low. 
+        - See the "Routing" tab for an alternative approach that starts at the Route 1 Harken. 
+        - Some groups are located in the blizzard zones. If you are Frozen, then it is possible for them to move before you even with 100+ ASPD so be careful if you have a low-level Marianne or a low HP front row. 
+        - The fight is against a random mix of 3-5 Skilled Adventurers (level 69 at Copper Grade). These are the same exact mobs you have been fighting throughout all of Abyss 4.   
+        - Each group gives 800 Gold Ore with another 400 if Marianne is present in your party. 
+        - You need to collect 48,000 Gold Ore for the maximum additional reward of 2,000,000 Gold.
+        - The Old Man's stash has 5 locations ("!" on your map) and gives 4,800 Gold Ore. The first 2 locations are included on the Routing map.
 
     === "Thief Spawning Locations"
     
