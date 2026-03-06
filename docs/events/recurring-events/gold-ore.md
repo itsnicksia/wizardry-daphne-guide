@@ -24,18 +24,18 @@
             - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading. Do not submit at this point! See Additional Reward tab for details.
 
     === "Additional Reward"
-
+    
         - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportional to the % of the maximum Gold Ore you collected. 
-        - Abyss 3 Example
+        - Abyss 3 Example:
             - The maximum Gold Ore you can collect is 24,000. 
             - If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 Gold versus 1,000,000 Gold as an additional reward.  
+        - It takes 60 encounters to collect the maximum amount. Fortunately, there are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see tabs). 
         - You can check how much total Gold Ore you have collected under your Valuables inventory. 
-        - It takes 60 encounters to collect the maximum amount. Fortunately, there are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see Optional tabs). 
         - If you submit the request accidentally or prematurely you will be locked out for the rest of the event. It cannot be reactivated. 
 
     === "Marianne (Optional)" 
 
-        - If Marianne is in your party it will increase the amount of Gold Ore collected after each fight by 50% of the base amount. Note that she is not required to get the maximum amount of Gold Ore.  
+        - If Marianne is in your party it will increase the amount of Gold Ore collected after each fight by 50% of the base amount. She is not required to get the maximum amount of Gold Ore.  
         - A low-level Marianne might be at risk of dying, especially in Abyss 3 or 4. Give her EXP books and/or strong gear to make sure can survive all of the encounters.
 
     === "Old Man's Stash (Optional)"
@@ -49,7 +49,7 @@
         - After killing 4 groups Lulu will prompt you to check back-in with the Old Man. You must return to the Royal Capital. If you pay the fee again, then he will re-mark your map with the next stash location. 
          - We strongly recommend that you have him re-mark your map every 4 fights. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 fights for an equivalent amount of Gold Ore.
 
-    === "Total Fights for Maximum Gold Ore"
+    === "Total Required Fights"
 
         | Marianne | Old Man | Total Fights | 
         |:--------:|:-------:|:------------:|
@@ -58,6 +58,7 @@
         | No  | Yes | 30 |  
         | Yes | Yes | 20 |  
 
+        - The table above refers to the number of total fights required to collect the maximum amount of Gold Ore using Marianne and/or the Old Man. 
         - The "Yes" refers to:
             - Using Marianne in your party for every fight.
             - Speaking with the Old Man after every 4 fights and having him re-mark your map 5 times. 
@@ -80,7 +81,7 @@
     | Abyss 4 | Route 1 | 48,000 | 2,000,000 | 
 
     - There is a 2,000 Gold reward for completing the request. 
-    - As previously detailed the additional gold reward is proportional to the total amount of Gold Ore collected.
+    - The additional Gold reward is proportional to the total amount of Gold Ore collected.
 
 ### Guides
 
