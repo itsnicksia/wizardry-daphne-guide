@@ -209,13 +209,20 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 ### Black Dragon Superboss 
 
 !!! warning "Potential Bug" 
-    - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Copper Grade that has been able to get the fight. 
+    - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Bronze Grade (level 40) that has been able to enter the Otherworld Rift and encounter the superboss. 
     - Unclear if this is a bug or there are additional requirements that have yet to be identified. 
 
-After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
+??? "How to accesss the Other World Rift"
 
-??? map "Map Otherworld Rift"
-    ![](img/otherworld-rift.jpg)
+    === "Guide" 
+
+        - After completing the 2nd Run return to the Black Dragon's chamber in B3F. The screen will glitch upon entering, indicating something has changed.
+        - Head south to the very end of the chamber where you said goodbye to Ainikki and Iarumas. A path to the side in the far south-east corner is the entry point to the Otherworld Rift. 
+        - Head inside and you will be placed in an old-school pixelated dungeon where you can pick up 2 chests. The Black Dragon Superboss is located in the SE room. You cannot miss him. His field map enemy icon takes up the entire room. 
+
+    === "Map Otherworld Rift" 
+    
+        ![](img/otherworld-rift.jpg)
 
 ??? danger "Black Dragon Superboss Fight"
     ![](img/black-dragon-superboss.png)
