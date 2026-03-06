@@ -212,11 +212,11 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Bronze Grade (level 40) that has been able to enter the Otherworld Rift and encounter the superboss. 
     - Unclear if this is a bug or there are additional requirements that have yet to be identified. 
 
-??? note "How to accesss the Other World Rift"
+??? note "How to Enter the Other World Rift"
 
     === "Guide" 
 
-        - After completing the 2nd Run return to the Black Dragon's chamber in B3F. The screen will glitch upon entering, indicating something has changed.
+        - After completing Ainikki's 2nd Run return to the Black Dragon's chamber in B3F. The screen will glitch upon entering, indicating something has changed. Note that speaking with the dwarf in the Tavern is not a required step.
         - Head south to the very end of the chamber where you said goodbye to Ainikki and Iarumas. A path to the side in the far south-east corner is the entry point to the Otherworld Rift. 
         - Head inside and you will be placed in an old-school pixelated dungeon where you can pick up 2 chests. The Black Dragon Superboss is located in the SE room. You cannot miss him. His field map enemy icon takes up the entire room. 
 
