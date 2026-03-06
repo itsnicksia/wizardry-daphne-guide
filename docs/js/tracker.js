@@ -194,7 +194,7 @@
   let overrides = loadOverrides(currentTabId);
 
   /* ==========================
-     DOM REFERENCES (must exist in tracker.md)
+     DOM REFERENCES
      ========================== */
   const tbody = document.querySelector('#tracker tbody');
   const modal = document.getElementById('modal');
@@ -782,7 +782,6 @@
       tabsRow.appendChild(reset);
     }
 
-    // IMPORTANT: No READ ME widget here anymore.
     syncCt.append(syncGrid, tabsRow);
   }
 
