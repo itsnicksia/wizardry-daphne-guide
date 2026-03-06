@@ -7,28 +7,30 @@
 
 ??? note "How to Accept the Request" 
 
-    - Royal Capital under the Featured Requests tab. 
+    - Accept at the Royal Capital under the Featured Requests tab. 
     - Available for a limited time through 3/18 (23:59) and cannot be discarded after accepting. 
+    - This is not a daily request. You have the entire 2-week period to complete. 
 
 ??? note "Important Notes" 
 
     === "Summary" 
     
         - Objective
-            - The goal of the request is to reclaim Gold Ore that a group of thieves have stolen. They are now hiding in the Abyss and it is your job to track them down and reclaim as much Gold Ore as possible.
+            - The goal is to reclaim the Gold Ore that a group of thieves has stolen. They are now hiding in the Abyss and it is your job to track them down and recover as much Gold Ore as possible.
             - After accepting the request, Arna will direct you to the correct Abyss to search, which will be the highest Abyss you have reached to-date. There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
         - Task
-            - Go to the correct Abyss and floor (see Thieves Spawning Locations). You will know you are in the correct location as Lulu will comment that she senses the presence of thieves in the area.
-            - Search the Abyss floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading.
+            - Go to the correct Abyss and floor (see Guide). You will know you are in the correct location as Lulu will comment that she senses the presence of thieves in the area.
+            - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading.
         - Additional Reward Mechanics
-            - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportionate to the % of the maximum Gold Ore you collected. For example, the maximum Gold Ore in Abyss 3 is 24,000. If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 versus 1M Gold.  
-            - The challenge is that it takes 60 encounters with the thieves to collect the maximum amount. Fortunately, there are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see Optional tabs). 
-            - If you submit the request accidentally or prematurely you will be locked out until the event ends. It cannot be reactivated. We strongly recommend you do not submit until you have gathered the maximum amount of Gold Ore.
+            - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportional to the % of the maximum Gold Ore you collected. For example, the maximum in Abyss 3 is 24,000. If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 versus 1,000,000 Gold as an additional reward.  
+            - You can check how much total Gold Ore you have collected under your Valuables inventory. 
+            - It takes 60 encounters to collect the maximum amount. Fortunately, there are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see Optional tabs). 
+            - If you submit the request accidentally or prematurely you will be locked out for the rest of the event. It cannot be reactivated. We strongly recommend you do not submit until you have gathered the maximum amount of Gold Ore.
 
     === "Marianne (Optional)" 
 
-        - If Marianne is in your party it will increase the amount of Gold Ore collected after each fight by an additional 50% of the base amount. Note that Marianne is not required to get the maximum amount of Gold Ore.  
+        - If Marianne is in your party it will increase the amount of Gold Ore collected after each fight by 50% of the base amount. Note that she is not required to get the maximum amount of Gold Ore.  
         - A low level Marianne might be at risk of dying, especially in Abyss 3 or 4. Give her EXP books and/or strong gear to make sure can survive all of the encounters.
 
     === "Old Man's Stash (Optional)"
@@ -36,10 +38,10 @@
         - After accepting the request head to the Tavern and speak with the Old Man. For a small fee he will mark your map with a "!" to denote the location of his hidden Gold Ore stash. There are 5 locations in each Abyss.
         - Once you reach the marked "!" location you will see a glowing, white object indicator (a "shiny") on the ground. The stash contains 4x the amount of Gold Ore that you recieve from a single fight.
         - After killing 4 groups you will get Lulu text to check-in with the Old Man. You must return to the Royal Capital and he will re-mark your map with the next stash location. 
-             - A1 Fee: ? 
-             - A2 Fee: ?
-             - A3 Fee: 2,000 Gold?
-             - A4 Fee: 4,000 Gold 
+             - Abyss 1: 500 Gold 
+             - Abyss 2: 1,000 Gold
+             - Abyss 3: 2,000 Gold
+             - Abyss 4: 4,000 Gold 
          - We strongly recommend that you have him re-mark your map every 4 fights. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 fights for an equivalent amount of Gold Ore.
 
     === "Total Fights for Maximum Gold Ore"
@@ -67,7 +69,7 @@
 
     | Abyss | Location | Max Gold Ore | Max Gold Reward | 
     |:----|:----|:----:|:-----:| 
-    | Abyss 1 | ?? | 6,000 | 400,000 | 
+    | Abyss 1 | B4F | 6,000 | 400,000 | 
     | Abyss 2 | District 2 | 12,000 | 600,000 | 
     | Abyss 3 | Zone 1 | 24,000 | 1,000,000 | 
     | Abyss 4 | Route 1 | 48,000 | 2,000,000 | 
@@ -104,7 +106,7 @@
             - A "Request Complete" pop-up will appear and your Request List will be updated. 
             - Do not immediately submit the request. This is a trap.
         - After every fight she will give the same text that you can submit or continue to search. This behavior is new and was not present during past events.  
-        - At 50% of the maximum Gold Ore collected you will get unique text that you are at the halfway point.
+        - At 50% of the maximum Gold Ore collected she will tell you that you will get a "decent reward"
         - At 100% she will let you know that you have reached the limit and the thieves will stop re-spawning. At this point it is safe to return to the Royal Capital and submit the request. 
         - Be careful as it is very easy to accidentally submit the request if you are not paying attention. 
 
@@ -113,11 +115,18 @@
         - You can encounter a group of thieves, but the battle will not start even if you are standing directly on top of them. They are "stuck in the wall." Seems to happen the most frequently in the Abyss 4 blizzard zones. 
         - Exit the game and restart and that should allow you to fight them. 
 
-??? map "Abyss 1"
+??? map "Abyss 1 - B4F - Labyrinth "
 
-    - Forthcoming.
-    - If any new players are active on the Discord and have the maps, please do share them with us in chat or ping @lightbearer.
-    <!-- ![](./img/gold-ore-abyss1_locations.jpg) -->
+        === "Guide"
+    
+            - The fastest method (1 enemy encounter) is to Harken to B4F, go north, and check the spawning location in the hallway to B5F. Rinse and repeat. The other locations are concentrated in the center of the floor and require a lot of walking and enemy encounters.    
+            - Each group gives 100 Gold Ore with another 200 if Marianne is present in your party. 
+            - You need to collect 6,000 Gold Ore for the maximum additional reward of 400,000 Gold. 
+            - The Old Man's stash has 5 locations ("!" on your map) and gives 400 Gold Ore. They are located throughout the floor. 
+    
+        === "Thieves Spawning Locations"
+        
+            ![](./img/gold-ore-abyss1_locations.png)  
 
 ??? map "Abyss 2 - District 2 - Black Market" 
 
@@ -170,8 +179,8 @@
         
             ![](./img/gold-ore-abyss4-routing.jpg)
 
-    === "Credits" 
-    
-        - Thank you to Discord member @windsoothe (Wrio) for putting together the interim location and routing maps. 
+        === "Credits" 
+        
+            - Thank you to Discord member @windsoothe (Wrio) for putting together the interim location and routing maps. 
 
 
