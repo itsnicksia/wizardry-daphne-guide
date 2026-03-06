@@ -1,0 +1,615 @@
+/* ====== LAYOUT / WRAPPERS ======
+   The outer containers that hold the tracker and sync controls.
+*/
+
+#tracker-container {
+  overflow-x: auto; /* Allow horizontal scroll on small screens */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling */
+}
+
+/* ====== TABLE BASE STYLES ======
+*/
+#tracker-container table {
+  border: 1px solid rgba(221, 209, 183, 0.3);
+  width: 100%;
+  table-layout: fixed; /* Important for fixed column widths */
+  border-collapse: collapse; /* Merge borders */
+}
+
+/* ====== COLUMN WIDTHS ======
+   First column is the largest (entry + details), others are smaller.
+*/
+#tracker-container th:nth-child(1),
+#tracker-container td:nth-child(1) {
+  width: 60%;
+}
+
+#tracker-container th:nth-child(2),
+#tracker-container td:nth-child(2) {
+  width: 20%;
+}
+
+#tracker-container th:nth-child(3),
+#tracker-container td:nth-child(3) {
+  width: 20%;
+  white-space: nowrap; 
+}
+
+/* ====== CELL STYLING ======
+   Shared styles for header and data cells.
+*/
+#tracker-container th,
+#tracker-container td {
+  border: 1px solid var(--md-typeset-fg-color--light);
+  padding: 0.4rem 0.8rem;
+  vertical-align: top;
+  font-size: 0.9rem;
+  text-align: left;
+  word-wrap: break-word;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+/* Header row styling */
+#tracker-container thead th {
+  background-color: rgba(51,51,51,0.15);
+  color: var(--md-default-fg-color--light);
+  font-weight: 600;
+}
+
+/* ====== SECTION / SUBSECTION ROWS ======
+   rows injected by JS to visually group items.
+*/
+#tracker-container .section-header td {
+  background-color: rgba(51,51,51,0.8);
+  color: var(--md-default-fg-color--light);
+  font-weight: bold;
+  text-align: center;
+  padding: 0.6rem;
+  position: relative; /* for the collapse caret */
+}
+
+#tracker-container .subsection-header td {
+  background-color: rgba(94,139,222,0.1);
+  border: 1px solid #5e8bde;
+  color: var(--md-default-fg-color--light);
+  font-style: italic;
+  padding: 0.4rem 0.6rem;
+  position: relative; /* for the collapse caret */
+}
+
+/* ====== SECONDARY TEXT (DETAILS) ======
+   Shown under an entry's title (tips, reset timing, etc.).
+*/
+#tracker-container .details {
+  margin-top: 0.25rem;
+  font-size: 0.8rem;
+  color: var(--md-typeset-fg-color--light);
+  padding-left: 0.6rem;
+}
+
+/* Reset label: block with a tight top margin so it sits just under details */
+#tracker-container .reset-label {
+  display: inline-block;
+  margin-top: 0.15rem;
+  font-size: 0.90em;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+/* ====== LINKS (OPEN IMAGE MODAL) ====== */
+#tracker-container .entry-link {
+  color: var(--md-typeset-a-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+#tracker-container .entry-link:hover,
+#tracker-container .entry-link:focus {
+  text-decoration: underline;
+  outline: 2px solid var(--md-typeset-a-color);
+  outline-offset: 2px;
+}
+
+/* ====== CHECKMARK STATE ======
+   Row gets 'collected' class after user clicks 'Collect'/'Update'.
+*/
+#tracker-container .checkmark {
+  margin-right: 0.4rem;
+  font-size: 1.6rem;
+  color: var(--md-typeset-fg-color--light); /* default gray */
+  vertical-align: middle;
+  line-height: 1;
+}
+
+#tracker-container tr.collected .checkmark {
+  color: #2fb170; /* green when collected */
+}
+
+/* Ready highlight (applied to label and since) */
+.ready-to-collect {
+  color: #3fcf6f !important;
+  font-weight: 600;
+  text-shadow: 0 0 4px rgba(63, 207, 111, 0.5);
+}
+
+.ready-to-collect .since {
+  color: #57ff99 !important;
+  font-weight: 500;
+}
+
+/* ====== BUTTONS (COLLECT / UPDATE / UNDO) ====== */
+#tracker-container button {
+  padding: 0.2rem 0.4rem;
+  font-size: 0.75rem;
+  border: 1px solid var(--md-typeset-fg-color--light);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+#tracker-container button:hover,
+#tracker-container button:focus {
+  background: var(--md-typeset-a-color);
+  color: var(--md-default-fg-color--light);
+  outline: none;
+}
+
+#tracker-container button:focus {
+  outline: 2px solid var(--md-typeset-a-color);
+  outline-offset: 2px;
+}
+
+#tracker-container .details {
+  margin-top: 0.15rem;
+  line-height: 1.25;
+}
+
+#tracker-container .details br {
+  display: none;
+}
+
+#tracker-container .details .reset-label {
+  display: block;
+  margin-top: 0.12rem;
+  line-height: 1.2;
+}
+
+#tracker-container .details > div {
+  margin: 0;
+  padding: 0;
+}
+
+/* Tiny caret buttons for collapse */
+.caret-btn {
+  position: absolute;
+  right: 8px;
+  top: 6px;
+  font-size: 0.85rem;
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+  opacity: 0.85;
+}
+
+/* ====== MODAL OVERLAY (IMAGE PREVIEW) ====== */
+#modal {
+  display: none; /* Hidden until a link is clicked */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.6);
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+#modal .modal-content {
+  background: var(--md-default-bg-color--light);
+  padding: 1rem;
+  border-radius: 6px;
+  max-width: 90%;
+  max-height: 80vh;
+  overflow: auto;
+  position: relative;
+}
+
+#modal .modal-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+#modal img {
+  max-width: 100%;
+  max-height: 60vh;
+  display: block;
+  margin: 0 auto;
+}
+
+/* ====== MOBILE TWEAKS ====== */
+@media (max-width: 600px) {
+  #tracker-container p {
+    font-size: 0.85rem;
+  }
+
+  #tracker-container th,
+  #tracker-container td {
+    font-size: 0.75rem;
+    padding: 0.2rem 0.4rem;
+  }
+
+  #tracker-container .section-header td {
+    font-size: 0.9rem;
+    padding: 0.4rem;
+  }
+
+  #tracker-container .details {
+    font-size: 0.7rem;
+  }
+
+  #tracker-container button,
+  #tracker-container .entry-link {
+    font-size: 0.75rem;
+  }
+
+  /* Let the table decide widths automatically on very small screens */
+  #tracker-container table {
+    table-layout: auto;
+  }
+
+  #tracker-container th:nth-child(1),
+  #tracker-container td:nth-child(1),
+  #tracker-container th:nth-child(2),
+  #tracker-container td:nth-child(2),
+  #tracker-container th:nth-child(3),
+  #tracker-container td:nth-child(3) {
+    width: auto;
+  }
+}
+
+/* ====== DAYS-SINCE SUBLINE ====== */
+#tracker-container .since {
+  margin-top: 0.15rem;
+  font-size: 0.8rem;
+  opacity: 0.9;
+}
+
+/* ====== Tabs Bar ====== */
+#tabs-bar {
+  display:flex;
+  gap:.5rem;
+  align-items:center;
+  margin:.75rem 0 1rem;
+  flex-wrap: wrap;
+}
+
+#tabs-bar .tab {
+  border:1px solid var(--md-typeset-fg-color--light);
+  background:transparent;
+  color:var(--md-default-fg-color--light);
+  padding:.25rem .6rem;
+  border-radius:6px;
+  cursor:pointer;
+  font-size:.85rem;
+}
+
+#tabs-bar .tab.active {
+  background: var(--md-typeset-a-color);
+  color: var(--md-default-fg-color--light);
+}
+
+#tabs-bar .spacer {
+  flex:1;
+}
+
+#tabs-bar .small {
+  font-size:.8rem;
+  padding:.2rem .5rem;
+  opacity:.9;
+}
+
+/* Edit mode */
+.edit-pill {
+  display:inline-block;
+  margin-left:.5rem;
+  font-size:.7rem;
+  padding:.08rem .4rem;
+  border-radius:999px;
+  border:1px solid var(--md-typeset-fg-color--light);
+  opacity:.85;
+}
+
+.edit-btn,
+.mini-btn {
+  margin-left:.35rem;
+  font-size:.7rem;
+  padding:.05rem .35rem;
+  border-radius:4px;
+  border:1px solid var(--md-typeset-fg-color--light);
+  background:transparent;
+  cursor:pointer;
+}
+
+.hidden-row {
+  opacity:.45;
+}
+
+/* ====== Sync UI layout helpers ====== */
+.sync-grid {
+  display: grid;
+  grid-template-columns: max-content 16rem max-content;
+  column-gap: 0.5rem;
+  row-gap: 0.5rem;
+  align-items: center;
+}
+
+.sync-label {
+  color: var(--md-default-fg-color--light); /* match header color */
+}
+
+.sync-label-spacer {
+  visibility: hidden; /* reserves label width */
+}
+
+.sync-input {
+  width: 16rem;
+}
+
+/* ====== STYLED CONFIRM MODAL ====== */
+.confirm-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  animation: confirm-fade-in .15s ease-out;
+}
+
+.confirm-overlay.closing {
+  animation: confirm-fade-out .15s ease-in forwards;
+}
+
+.confirm-dialog {
+  background: var(--md-default-bg-color, #1b1b1f);
+  color: var(--md-typeset-color, #e6e6e6);
+  border: 1px solid var(--md-typeset-fg-color--light, rgba(255,255,255,.15));
+  border-radius: 10px;
+  min-width: 280px;
+  max-width: 520px;
+  padding: 16px 16px 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.4);
+  transform: translateY(4px);
+  animation: confirm-pop .15s ease-out;
+}
+
+.confirm-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.confirm-message {
+  opacity: .95;
+  line-height: 1.4;
+  margin-bottom: 14px;
+}
+
+.confirm-actions {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.confirm-overlay .btn {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--md-typeset-fg-color--light, rgba(255,255,255,.15));
+  background: rgba(128,128,128, .08);
+  color: inherit;
+  cursor: pointer;
+}
+
+.confirm-overlay .btn:hover {
+  background: rgba(255,255,255,.08);
+}
+
+.confirm-overlay .btn-primary {
+  background: rgba(94,139,222,.25);
+  box-shadow: inset 0 0 0 1px rgba(94,139,222,.35);
+}
+
+.confirm-overlay .btn-primary:hover {
+  background: rgba(94,139,222,.35);
+}
+
+@keyframes confirm-fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes confirm-fade-out {
+  to { opacity: 0; }
+}
+
+@keyframes confirm-pop {
+  from { transform: translateY(8px); opacity: 0; }
+  to { transform: translateY(4px); opacity: 1; }
+}
+
+/* =========================================
+   READ ME ADDITIONS
+   ========================================= */
+
+#tracker-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1rem;
+  width: 100%;
+  margin-bottom: .5rem;
+}
+
+#tracker-title {
+  margin: 0;
+  flex: 0 0 auto;
+}
+
+#tracker-readme-container {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  z-index: 2400 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  gap: 0.25rem !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  pointer-events: auto;
+  isolation: isolate;
+  visibility: hidden;
+  opacity: 0;
+}
+
+#tracker-readme-container.is-positioned {
+  visibility: visible;
+  opacity: 1;
+}
+
+#tracker-readme-label {
+  all: unset;
+  display: block;
+  font-weight: 800;
+  color: #ff3b3b;
+  letter-spacing: 0.03em;
+  font-size: 0.9rem;
+  line-height: 1;
+  text-align: center;
+}
+
+#tracker-readme-button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border: 1px solid rgba(221, 209, 183, 0.35) !important;
+  background: rgba(255, 255, 255, 0.04) !important;
+  border-radius: 10px !important;
+  padding: 6px !important;
+  cursor: pointer !important;
+}
+
+#tracker-readme-button:hover {
+  background: rgba(255, 255, 255, 0.08) !important;
+  box-shadow: 0 0 0 2px rgba(255, 59, 59, 0.25) !important;
+}
+
+#tracker-readme-button * {
+  box-sizing: border-box;
+}
+
+.tracker-readme-art {
+  display: block;
+  width: 52px;
+  height: 52px;
+  background-image: url('/img/readme.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  pointer-events: none;
+}
+
+#tracker-readme-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+  align-items: center;
+  justify-content: center;
+  z-index: 2147483647;
+}
+
+#tracker-readme-box {
+  background: var(--md-default-bg-color);
+  border-radius: 12px;
+  padding: 1rem 1.5rem 1.5rem;
+  width: min(92vw, 720px);
+  max-height: 80vh;
+  overflow: auto;
+  border: 1px solid rgba(221, 209, 183, 0.25);
+  position: relative;
+}
+
+#tracker-readme-close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+  line-height: 1;
+  color: var(--md-typeset-fg-color);
+  border: 0;
+  background: transparent;
+}
+
+#tracker-readme-content {
+  padding-top: 0.25rem;
+  line-height: 1.5;
+}
+
+#tracker-readme-content > :first-child {
+  margin-top: 0;
+}
+
+#tracker-readme-content h1,
+#tracker-readme-content h2,
+#tracker-readme-content h3,
+#tracker-readme-content h4 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
+
+#tracker-readme-content p {
+  margin: 0 0 1rem;
+}
+
+#tracker-readme-content ul,
+#tracker-readme-content ol {
+  margin: 0.5rem 0 1rem 1.4rem;
+  padding: 0;
+}
+
+#tracker-readme-content li + li {
+  margin-top: 0.45rem;
+}
+
+.readme-loading {
+  opacity: 0.85;
+}
+
+.readme-error {
+  padding: 0.75rem;
+  border: 1px solid rgba(255, 59, 59, 0.35);
+  background: rgba(255, 59, 59, 0.08);
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  #tracker-readme-container {
+    display: none !important;
+  }
+
+  #tracker-readme-box {
+    padding: 0.9rem 1rem 1rem;
+  }
+}

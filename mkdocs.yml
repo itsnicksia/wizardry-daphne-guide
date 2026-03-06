@@ -73,6 +73,7 @@ extra_css:
   - stylesheets/admonition-note.css
   - stylesheets/admonition-info.css
   - stylesheets/table-extras.css
+  - stylesheets/tracker.css
 
 extra_javascript:
   - js/tablefilter.js
