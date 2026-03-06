@@ -92,10 +92,12 @@
         - There are a fixed number of locations (tile sets) that have the potential to spawn a group of thieves. These tiles sets can move or rotate if you get a different map variation than what is shown in the Guides. 
         - Whether a group spawns at these fixed locations is RNG-based and re-rolls every time you enter the Abyss. A single run might spawn multiple groups or none at all. The latter is normal and can happen several times in a row although it is rare. 
         - The thieves _only_ appear as a small goblin enemy on the field map. They will never move or aggro even if you are standing directly in front of them. Once detected they will appear on your mini-map as a green arrowhead.
-        - Steps for a typical run:
-            - Enter the Abyss and check all the fixed locations to see if any groups spawned. Use the map markers (yellow check-marks) to denote their locations so you can auto-move to them.   
-            - If they spawn, then defeat them and collect the Gold Ore.
-            - When done exit the Abyss to the floor selection screen. Re-enter and repeat the process until you have collected the maximum amount of Gold Ore. 
+
+    === "Run Steps"
+    
+        - Enter the Abyss and check all the fixed locations to see if any groups spawned. Use the map markers (yellow check-marks) to denote their locations so you can auto-move to them.   
+        - If they spawn, then defeat them and collect the Gold Ore.
+        - When done exit the Abyss to the floor selection screen. Re-enter and repeat the process until you have collected the maximum amount of Gold Ore. 
         - Some players prefer to check only the locations closest to the Harken or entrance and repeatedly re-enter (re-roll) until a group appears. See Guides for efficient routing tips. 
         
     === "Thieves Battle"
