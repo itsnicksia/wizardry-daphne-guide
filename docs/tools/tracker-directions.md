@@ -39,11 +39,11 @@
 
     === "Troubleshooting"
     
-            - If you have followed the steps and nothing is working, then it is likely one of the following from most to least likely:
-                - The cooldown timer has not yet reached zero ("0"). If you are not using the Respawn Tracker tool or recording the dates in time in Excel, Notepad, etc. then it is likely you may be overestimating the amount of time that has passed since you last opened the chest. Wait a few more days and try again. 
-                - The steps need to be completed exactly as written.
-                - A recent maintenance update has reset the cooldown timers or disabled them. 
-                - Your game is bugged and you may want to consider sending an Inquiry to Drecom so it can be investigated. This would be in an extreme situation where no items have respawned after 30 to 60 days. 
+        - If items are not respawning it is likely due to one of the following: 
+        - The cooldown timer has not yet reached zero ("0"). If you are not using the Respawn Tracker tool or recording the dates in time in Excel, Notepad, etc. then it is likely you may be overestimating the amount of time that has passed since you last opened the chest. Wait a few more days and try again. 
+        - The steps need to be completed exactly as written.
+        - A recent maintenance update has reset the cooldown timers or disabled them. 
+        - Your game is bugged and you may want to consider sending an Inquiry to Drecom so it can be investigated. This would be in an extreme situation where no items have respawned after 30 to 60 days. 
     
     === "Issues with A2"
 
