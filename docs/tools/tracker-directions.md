@@ -24,6 +24,7 @@
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
 
     === "Abbreviations" 
+    
         <div class="nofilter-table nosort-table" markdown>
         | Term | Abbreviation | 
         |:-|:-|
@@ -38,7 +39,6 @@
         </div>
     
     === "Troubleshooting"
-    
         - If items are not respawning it is likely due to one of the following: 
         - The cooldown timer has not yet reached zero ("0"). If you are not using the Respawn Tracker tool or recording the dates in time in Excel, Notepad, etc. then it is likely you may be overestimating the amount of time that has passed since you last opened the chest. Wait a few more days and try again. 
         - The steps need to be completed exactly as written.
@@ -46,7 +46,6 @@
         - Your game is bugged and you may want to consider sending an Inquiry to Drecom so it can be investigated. This would be in an extreme situation where no items have respawned after 30 to 60 days. 
     
     === "Issues with A2"
-
         - Respawning items in A2 has been a long-running problem in the community and it is due to how the event flags are programmed. 
         - Items will only appear on a timeline where Melgina is the GWO. The event flags used to turn "on" Octoranus likely disable or break the cd timers. 
         - A2 has its own sub-section as it requires additional steps. 
@@ -75,7 +74,6 @@
 ??? note "Map Chests - A2 Only"
 
     === "Guide" 
-
         - Go to the Ruins and select the CW.
         - Use the arrows at the top of the screen to toggle left or right to A2 (Port Town Grand Legion).
         - Scroll down to "Return to the Capital" and toggle "Melgina Defeated". 
@@ -89,7 +87,6 @@
         - Use the nearby Harken and go to your desired floor. 
 
     === "Technical Notes" 
-
         - Bounties
             - If you are above Bounty Rank 8 you will need to toggle "Octoranus Defeated" or the higher rank bounties may not appear. 
         - Pier (District 7) Bone 
@@ -124,22 +121,23 @@
 
     === "Cursed Wheel Settings" 
 
-         === "A2"
-             - Coming soon.
-            
-         === "A3"
-             - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
-             - Corrosion Sentry Toggles
-                 - If you registered all 13 Corrosion Sentries in the CW, then toggle 8 of them to "Spotted" before "Leaping". 
-                 - Any Corrosion Sentries not registered in the CW are automatically counted as "Spotted."
-         === "A4"
-             - Requirement: Clearing GWO 4-2  
-             - Short Rest in the Cabin
-                 - North Lakeshore Cabin - Fixed it up
-                 - Dwarves' Cave - Does not matter
-                 - Village Adults - Did not encounter them 
-             - Being That Dwells in the House of God
-                 - Iris's Eyes - Eyesight was not restored 
+        === "A2" 
+            - Coming soon.
+
+        === "A3" 
+            - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
+            - Corrosion Sentry Toggles
+                - If you registered all 13 Corrosion Sentries in the CW, then toggle 8 of them to "Spotted" before "Leaping". 
+                - Any Corrosion Sentries not registered in the CW are automatically counted as "Spotted."
+
+        === "A4" 
+            - Requirement: Clearing GWO 4-2  
+            - Short Rest in the Cabin
+                - North Lakeshore Cabin - Fixed it up
+                - Dwarves' Cave - Does not matter
+                - Village Adults - Did not encounter them 
+            - Being That Dwells in the House of God
+                - Iris's Eyes - Eyesight was not restored 
 
 ## Other
 
