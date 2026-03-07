@@ -24,9 +24,7 @@
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
 
     === "Abbreviations" 
-
-        **Abysses**
-        
+        <div class="nofilter-table nosort-table" markdown>
         | Term | Abbreviation | 
         |:-|:-|
         | The Beginning Abyss    | A1 |   
@@ -37,7 +35,8 @@
         | Cooldown               | cd    |     
         | Cursed Wheel           | CW    |   
         | Greater Warped One     | GWO   |     
-
+        </div>
+    
     === "Troubleshooting"
     
         - If items are not respawning it is likely due to one of the following: 
