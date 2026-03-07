@@ -1,6 +1,4 @@
-# Knight Proving Grounds
-
-!!! item "This event is permanently available!"
+# Knight Trials
 
 ## Guide:
 
