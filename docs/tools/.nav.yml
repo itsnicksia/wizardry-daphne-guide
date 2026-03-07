@@ -1,4 +1,5 @@
 nav:
   - Respawn Tracker: './tracker.md'
+  - Respawn Tracker Directions: './tracker-directions.md'
   - Loot Finder: './loot-finder.md'
   - Equipment Enhancement (Beta): './equipment-enhancement.md'
