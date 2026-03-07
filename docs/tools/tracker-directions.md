@@ -25,16 +25,25 @@
         - The A1 CW node "Fresh Start" functions as an univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs.
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
 
-    === "Terminology" 
-        - Abysses 
-            - The Beginning Abyss - A1
-            - Port Town Grand Legion - A2
-            - Impregnable Fortress - A3
-            - Deepsnow Hinterlands - A4
-        - Adventurer's Remains - bones 
-        - Cooldown - cd
-        - Cursed Wheel - CW
-        - Greater Warped One - GWO 
+    === "Abbreviations" 
+
+        **Abysses**
+        
+        | Term | Abbreviation | 
+        |:-|:-|
+        | The Beginning Abyss    | A1 |   
+        | Port Town Grand Legion | A2 |     
+        | Impregnable Fortress   | A3 |     
+        | Deepsnow Hinterlands   | A4 |   
+        
+        **Other**
+        
+        | Term | Abbreviation |  
+        |:-|:-|
+        | Adventurer's Remains | Bones |     
+        | Cooldown             | cd |     
+        | Cursed Wheel         | CW |   
+        | Greater Warped One   | GWO |     
 
     === "Troubleshooting"
     
@@ -160,10 +169,6 @@
     - A1, Floor 8: Nourishing Draught x3 (SP Pot) - Every 24 hours. 
     - Weekly Bonepicker Bone and Tallow: Every 7 days (same as the Ancient Mausoleum Tallow whose cd timer is visible).
     - Weekly Enemy Chest Bone: Every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
-
-
-
- 
 
 ### Contact
 
