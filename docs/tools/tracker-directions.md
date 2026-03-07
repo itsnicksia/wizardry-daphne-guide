@@ -16,11 +16,9 @@
 - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
 - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
 
-### Forced Respawning
+!!! warning "Read Me"
 
-!!! warning "Forced Respawning - Read Me"
-
-    === "Definition"
+    === "Forced Respawning"
         - The game does not consistently respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
         - The A1 CW node "Fresh Start" functions as an univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs.
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
@@ -35,15 +33,10 @@
         | Port Town Grand Legion | A2 |     
         | Impregnable Fortress   | A3 |     
         | Deepsnow Hinterlands   | A4 |   
-        
-        **Other**
-        
-        | Term | Abbreviation |  
-        |:-|:-|
-        | Adventurer's Remains | Bones |     
-        | Cooldown             | cd |     
-        | Cursed Wheel         | CW |   
-        | Greater Warped One   | GWO |     
+        | Adventurer's Remains   | Bones |     
+        | Cooldown               | cd    |     
+        | Cursed Wheel           | CW    |   
+        | Greater Warped One     | GWO   |     
 
     === "Troubleshooting"
     
@@ -130,23 +123,25 @@
             - Specific toggles must be set to ensure you get at least the "Good" ending to fulfill the request. 
             - The "Good" endings are faster than the "True" endings since the GWO is easier to defeat.
 
-    === "A2 CW Settings"
-        - Coming soon.
-        
-    === "A3 CW Settings"
-        - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
-        - Corrosion Sentry Toggles
-            - If you registered all 13 Corrosion Sentries in the CW, then toggle 8 of them to "Spotted" before "Leaping". 
-            - Any Corrosion Sentries not registered in the CW are automatically counted as "Spotted."
+    === "Cursed Wheel Settings" 
 
-    === "A4 CW Settings"
-        - Requirement: Clearing GWO 4-2  
-        - Short Rest in the Cabin
-            - North Lakeshore Cabin - Fixed it up
-            - Dwarves' Cave - Does not matter
-            - Village Adults - Did not encounter them 
-        - Being That Dwells in the House of God
-            - Iris's Eyes - Eyesight was not restored 
+        === "A2"
+            - Coming soon.
+            
+        === "A3"
+            - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
+            - Corrosion Sentry Toggles
+                - If you registered all 13 Corrosion Sentries in the CW, then toggle 8 of them to "Spotted" before "Leaping". 
+                - Any Corrosion Sentries not registered in the CW are automatically counted as "Spotted."
+        
+        === "A4"
+            - Requirement: Clearing GWO 4-2  
+            - Short Rest in the Cabin
+                - North Lakeshore Cabin - Fixed it up
+                - Dwarves' Cave - Does not matter
+                - Village Adults - Did not encounter them 
+            - Being That Dwells in the House of God
+                - Iris's Eyes - Eyesight was not restored 
 
 ## Other
 
