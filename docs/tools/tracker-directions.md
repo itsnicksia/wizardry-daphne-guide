@@ -25,6 +25,17 @@
         - The A1 CW node "Fresh Start" functions as an univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs.
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
 
+    === "Terminology" 
+        - Abysses 
+            - The Beginning Abyss - A1
+            - Port Town Grand Legion - A2
+            - Impregnable Fortress - A3
+            - Deepsnow Hinterlands - A4
+        - Adventurer's Remains - bones 
+        - Cooldown - cd
+        - Cursed Wheel - CW
+        - Greater Warped One - GWO 
+
     === "Troubleshooting"
     
         - If items are not respawning it is likely due to one of the following: 
@@ -105,17 +116,21 @@
         - The ending sequence cannot be skipped or speed up.
 
     === "Ending Requirements"
-        - A3 and A4 both have "Bad" endings where the MC dies, the Important Request fails, and you do not receive a reward.  
-        - Specific toggles must be set to ensure you get at least the "Good" ending to fulfill the request. 
-        - The "Good" endings are faster than the "True" endings since the GWO is easier to defeat.
+        - A2 you will receive the Important Request reward killing Melgina or Octoranus. 
+        - A3 and A4 both have "Bad" endings where the MC dies, the Important Request fails, and you do not receive the reward.  
+            - Specific toggles must be set to ensure you get at least the "Good" ending to fulfill the request. 
+            - The "Good" endings are faster than the "True" endings since the GWO is easier to defeat.
 
-    === "A3 Cursed Wheel Settings"
+    === "A2 CW Settings"
+        - Coming soon.
+        
+    === "A3 CW Settings"
         - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
         - Corrosion Sentry Toggles
             - If you registered all 13 Corrosion Sentries in the CW, then toggle 8 of them to "Spotted" before "Leaping". 
             - Any Corrosion Sentries not registered in the CW are automatically counted as "Spotted."
 
-    === "A4 Cursed Wheel Settings"
+    === "A4 CW Settings"
         - Requirement: Clearing GWO 4-2  
         - Short Rest in the Cabin
             - North Lakeshore Cabin - Fixed it up
@@ -124,39 +139,33 @@
         - Being That Dwells in the House of God
             - Iris's Eyes - Eyesight was not restored 
 
+## Other
+
+??? warning "Cooldown Formula" 
+
+    - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations.
+    - Minimum Number of Days
+        - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
+        - 21 Days functions as a fixed value in the formula.
+    - "Yes or No" Respawn Roll
+        - After the minimum number of days (21) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
+        - The data suggests that the "Yes" % chance starts at a low value on Day 21 and increases after each roll until it reaches 100% on Day 30.
+        - The time interval between each "Yes or No" roll is likely 12 to 24 hours.
+    - Game Maintenance
+        - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
+        - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.   
+
 ??? note "Fixed Cooldown Items" 
 
     - A1, Floor 8: Nourishing Draught x3 (SP Pot) - Every 24 hours. 
     - Weekly Bonepicker Bone and Tallow: Every 7 days (same as the Ancient Mausoleum Tallow whose cd timer is visible).
     - Weekly Enemy Chest Bone: Every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
 
-??? tip "Terminology" 
 
-    - Abysses
-        - A1 - The Beginning Abyss
-        - A2 - Port Town Grand Legion
-        - A3 - Impregnable Fortress (Guarda)
-        - A4 - Deepsnow Hinterlands
-    - Adventurer's Remains - Bones 
-    - Cooldown - cd
-    - Cursed Wheel - CW
-    - Greater Warped One - GWO 
-    
-## Cooldown Formula 
 
-- We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations.
-- Minimum Number of Days
-    - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
-    - 21 Days functions as a fixed value in the formula.
-- "Yes or No" Respawn Roll
-    - After the minimum number of days (21) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
-    - The data suggests that the "Yes" % chance starts at a low value on Day 21 and increases after each roll until it reaches 100% on Day 30.
-    - The time interval between each "Yes or No" roll is likely 12 to 24 hours.
-- Game Maintenance
-    - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
-    - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.    
+ 
 
-## Contact
+### Contact
 
 - For respawning items you have discovered that are not listed on the Respawn Tracker page please contact @nrjank on the Discord.
 - For questions, comments, or corrections to this page please contact @lightbearer on the Discord.
