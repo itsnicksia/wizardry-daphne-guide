@@ -64,7 +64,7 @@ window.RESPAWN_SECTIONS = [
         {
           id: 'b4f_rubble',
           title: 'Adventurer’s Remains: B4F',
-          details: 'Assuming you wheeled to Kings Rescue already, head to the location. It is in the left chest. If you take the one on the right, the bone chest disappears! [30 Days]',
+          details: 'Assuming you wheeled to Kings Rescue already, head to the location. It\'s in the Left chest. If you take the one on the Right, the bone chest disappears! [30 days]',
           image: '/tools/img/bones/respawning-bone-b4f.jpg',
           clickable: true
         },
@@ -116,7 +116,7 @@ window.RESPAWN_SECTIONS = [
         {
           id: 'isberg_berrypatch',
           title: 'Adventurer’s Remains: Berry Patch',
-          details: 'After accepting the berry request go the SE corner, reverse the stonefolk, and it will spawn after collecting the berries from all 5 bushes. [30 Days]',
+          details: '[30 days]',          
           image: '',
           clickable: false
         },
@@ -414,7 +414,7 @@ window.RESPAWN_SECTIONS = [
         {
           id: 'demonic_crystal',
           title: 'Magic-Made Crystal',
-          details: 'Request Reward from "Forbidden Area Search Escort". Select "I know all about your family's sins" (4th option) at the end of the quest. [30 Days]',
+          details: 'Request Reward from "Forbidden Area Search Escort". Select "I know all about your family\'s sins" (4th option) at the end of the quest. Respawns monthly.',
           image: '',
           clickable: false,
         },
