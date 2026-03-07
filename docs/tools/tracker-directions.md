@@ -8,7 +8,7 @@
 ??? note "Mechanics" 
 
     - Each Abyss has a small number of items from chests or Guild requests that will respawn after a certain amount of time has passed. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
-    - The cooldown timer starts when a chest is opened. The game does not use a universal daily, weekly, or monthly cooldown system outside a handful of items listed under Exceptions. 
+    - The cooldown timer starts when a chest is opened. The game does not use a universal daily, weekly, or monthly cooldown system outside a handful of items listed at the end of the page. 
     
 ??? note "Respawn Intervals" 
 
@@ -28,8 +28,6 @@
     - Cursed Wheel - CW
     - Greater Warped One - GWO 
     
-
-
 ### How to Respawn Items
 
 ??? warning "Forced Respawning - Read Me"
@@ -136,12 +134,12 @@
             - Being That Dwells in the House of God
                 - Iris's Eyes - Eyesight was not restored 
 
-??? note "Exceptions" 
+??? note "Fixed Cooldown Items" 
 
     - There are some items in the game that have a fixed cooldown period, including:
-        - Abyss 1, Floor 8: Nourishing Draught x3 (SP pot) - every 24 hours. 
-        - Bonepicker Weekly Bone and Tallow: Every 7 days (same as the Ancient Mausoleum Tallow whose cd timer is visible).
-        - Enemy Weekly Chest Bone: Every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
+        - A1, Floor 8: Nourishing Draught x3 (SP pot) - Every 24 hours. 
+        - Weekly Bonepicker Bone and Tallow: Every 7 days (same as the Ancient Mausoleum Tallow whose cd timer is visible).
+        - Weekly Enemy Chest Bone: Every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
 
 ### Cooldown Formula 
 
