@@ -1,6 +1,4 @@
-# Fighter Proving Grounds
-
-!!! item "This event is now permanently available!"
+# Fighter Trials
 
 ## Guide:
 
