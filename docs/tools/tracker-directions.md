@@ -3,7 +3,7 @@
     - Contains spoilers for the later Abysses. 
     - Ctrl + F5 to refresh the page for new updates.
 
-### Basics 
+### Overview 
 
 ??? note "Mechanics" 
 
