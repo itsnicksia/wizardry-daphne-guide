@@ -53,7 +53,7 @@
        
 ## Respawning Guides
 
-??? note "Map Chests - A1, A3-4" 
+??? note "Map Chests" 
 
     === "Guide" 
         - Go to the Ruins and select the CW.
@@ -72,7 +72,7 @@
             - The Catacombs is bugged. 
             - The monthly bone chest will not appear on your mini-map. You have to traverse the entire floor, do the candle puzzle, and check to see if it respawned. 
 
-??? note "Map Chests - A2"
+??? note "Map Chests - A2 Only"
 
     === "Guide" 
 
@@ -124,23 +124,22 @@
 
     === "Cursed Wheel Settings" 
 
-        === "A2"
-            - Coming soon.
+         === "A2"
+             - Coming soon.
             
-        === "A3"
-            - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
-            - Corrosion Sentry Toggles
-                - If you registered all 13 Corrosion Sentries in the CW, then toggle 8 of them to "Spotted" before "Leaping". 
-                - Any Corrosion Sentries not registered in the CW are automatically counted as "Spotted."
-        
-        === "A4"
-            - Requirement: Clearing GWO 4-2  
-            - Short Rest in the Cabin
-                - North Lakeshore Cabin - Fixed it up
-                - Dwarves' Cave - Does not matter
-                - Village Adults - Did not encounter them 
-            - Being That Dwells in the House of God
-                - Iris's Eyes - Eyesight was not restored 
+         === "A3"
+             - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
+             - Corrosion Sentry Toggles
+                 - If you registered all 13 Corrosion Sentries in the CW, then toggle 8 of them to "Spotted" before "Leaping". 
+                 - Any Corrosion Sentries not registered in the CW are automatically counted as "Spotted."
+         === "A4"
+             - Requirement: Clearing GWO 4-2  
+             - Short Rest in the Cabin
+                 - North Lakeshore Cabin - Fixed it up
+                 - Dwarves' Cave - Does not matter
+                 - Village Adults - Did not encounter them 
+             - Being That Dwells in the House of God
+                 - Iris's Eyes - Eyesight was not restored 
 
 ## Other
 
