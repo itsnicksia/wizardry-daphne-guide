@@ -3,20 +3,20 @@
     - Contains spoilers for the later Abysses. 
     - Ctrl + F5 to refresh the page for new updates.
 
-### Overview 
+## Overview 
 
-#### Basics
+### Basics
 
 - Each Abyss has a small number of map chests and Guild request rewards that can respawn. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
 - The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does not use a universal cooldown timer that resets items on the first of the month or week. 
     
-#### Respawn Intervals 
+### Respawn Intervals 
 
 - Most items respawn monthly [30 days] and have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
 - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
 - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
 
-#### Forced Respawning
+### Forced Respawning
 
 !!! warning "Forced Respawning - Read Me"
 
@@ -39,9 +39,7 @@
         - Items will only appear on a timeline where Melgina is the GWO. The event flags used to turn "on" Octoranus likely disable or break the cd timers. 
         - A2 has its own sub-section as it requires additional steps. 
        
-### Respawning Guides
-
-
+## Respawning Guides
 
 ??? note "Map Chests - A1, A3-4" 
 
@@ -144,7 +142,7 @@
     - Cursed Wheel - CW
     - Greater Warped One - GWO 
     
-### Cooldown Formula 
+## Cooldown Formula 
 
 - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations.
 - Minimum Number of Days
@@ -158,7 +156,7 @@
     - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
     - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.    
 
-### Contact
+## Contact
 
 - For respawning items you have discovered that are not listed on the Respawn Tracker page please contact @nrjank on the Discord.
 - For questions, comments, or corrections to this page please contact @lightbearer on the Discord.
