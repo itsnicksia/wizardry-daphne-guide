@@ -5,32 +5,20 @@
 
 ### Overview 
 
-??? note "Basics" 
+#### Basics
 
-    - Each Abyss has a small number of map chests and Guild request rewards that can respawn. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
-    - The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does not use a universal cooldown timer that resets items on the first of the month or week. 
+- Each Abyss has a small number of map chests and Guild request rewards that can respawn. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
+- The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does not use a universal cooldown timer that resets items on the first of the month or week. 
     
-??? note "Respawn Intervals" 
+#### Respawn Intervals 
 
-    - Most items respawn monthly [30 days] and have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
-    - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
-    - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
-    
-??? note "Terminology" 
+- Most items respawn monthly [30 days] and have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
+- Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
+- We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
 
-    - Abysses
-        - A1 - The Beginning Abyss
-        - A2 - Port Town Grand Legion
-        - A3 - Impregnable Fortress (Guarda)
-        - A4 - Deepsnow Hinterlands
-    - Adventurer's Remains - Bones 
-    - Cooldown - cd
-    - Cursed Wheel - CW
-    - Greater Warped One - GWO 
-    
-### Respawning Guides
+#### Forced Respawning
 
-??? warning "Forced Respawning - Read Me"
+!!! warning "Forced Respawning - Read Me"
 
     === "Definition"
         - The game does not consistently respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
@@ -50,6 +38,10 @@
         - Respawning items in A2 has been a long-running problem in the community and it is due to how the event flags are programmed. 
         - Items will only appear on a timeline where Melgina is the GWO. The event flags used to turn "on" Octoranus likely disable or break the cd timers. 
         - A2 has its own sub-section as it requires additional steps. 
+       
+### Respawning Guides
+
+
 
 ??? note "Map Chests - A1, A3-4" 
 
@@ -140,21 +132,31 @@
     - Weekly Bonepicker Bone and Tallow: Every 7 days (same as the Ancient Mausoleum Tallow whose cd timer is visible).
     - Weekly Enemy Chest Bone: Every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
 
+??? tip "Terminology" 
+
+    - Abysses
+        - A1 - The Beginning Abyss
+        - A2 - Port Town Grand Legion
+        - A3 - Impregnable Fortress (Guarda)
+        - A4 - Deepsnow Hinterlands
+    - Adventurer's Remains - Bones 
+    - Cooldown - cd
+    - Cursed Wheel - CW
+    - Greater Warped One - GWO 
+    
 ### Cooldown Formula 
 
-??? note "Technical Notes" 
-
-    - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations.
-    - Minimum Number of Days
-        - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
-        - 21 Days functions as a fixed value in the formula.
-    - "Yes or No" Respawn Roll
-        - After the minimum number of days (21) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
-        - The data suggests that the "Yes" % chance starts at a low value on Day 21 and increases after each roll until it reaches 100% on Day 30.
-        - The time interval between each "Yes or No" roll is likely 12 to 24 hours.
-    - Game Maintenance
-        - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
-        - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.    
+- We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations.
+- Minimum Number of Days
+    - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
+    - 21 Days functions as a fixed value in the formula.
+- "Yes or No" Respawn Roll
+    - After the minimum number of days (21) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
+    - The data suggests that the "Yes" % chance starts at a low value on Day 21 and increases after each roll until it reaches 100% on Day 30.
+    - The time interval between each "Yes or No" roll is likely 12 to 24 hours.
+- Game Maintenance
+    - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
+    - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.    
 
 ### Contact
 
