@@ -159,11 +159,11 @@
 
 ??? note "Fixed Cooldown Items" 
 
-    - A1, Floor 8: Nourishing Draught x3 (SP Pot) - Every 24 hours. 
-    - Weekly Bonepicker Bone and Tallow: Every 7 days (same as the Ancient Mausoleum Tallow whose cd timer is visible).
-    - Weekly Enemy Chest Bone: Every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
+    - A1, Floor 8: Nourishing Draught x3 - Every 24 hours. A great resource for new players to build a stock early on for challenging floors and bosses. 
+    - Bone Picker Bone and Tallow: Every 7 days. It operates on a similar cd timer as the Ancient Mausoleum Tallow whose cd timer is visible.
+    - Enemy Chest Bone: Every 7 days. The drop will overwrite whatever was previously going to be in the chest, including relics and unique gear.
 
-## Contact
+### Contact
 
 - For respawning items you have discovered that are not listed on the Respawn Tracker page please contact @nrjank on the Discord.
 - For questions, comments, or corrections to this page please contact @lightbearer on the Discord.
