@@ -45,9 +45,9 @@
              - Abyss 2: 1,000 Gold
              - Abyss 3: 2,000 Gold
              - Abyss 4: 4,000 Gold 
-        - Once you reach the marked "!" location you will see a glowing, white object indicator (a "shiny") on the ground. The stash contains 4x the amount of Gold Ore that you recieve from a single fight.
-        - After killing 4 groups Lulu will prompt you to check back-in with the Old Man. You must return to the Royal Capital. If you pay the fee again, then he will re-mark your map with the next stash location. 
-         - We strongly recommend that you have him re-mark your map every 4 fights. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 fights for an equivalent amount of Gold Ore.
+        - Once you reach the marked "!" location you will see a glowing, white object (a "shiny") on the ground. The stash contains 4x the amount of Gold Ore that you recieve from a single fight.
+        - After 6 fights (4 with Marianne in the party) Lulu will prompt you to visit the Old Man. You must return to the Royal Capital. He will re-mark your map with the location of the next stash. 
+        - We strongly recommend that you have him re-mark your map every 4 fights. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 fights for an equivalent amount of Gold Ore.
 
     === "Total Required Fights"
 
@@ -81,24 +81,23 @@
     | Abyss 4 | Route 1 | 48,000 | 2,000,000 | 
 
     - There is a 2,000 Gold reward for completing the request. 
-    - The additional Gold reward is proportional to the total amount of Gold Ore collected.
-
+    
 ### Guides
 
 ??? note "Thieves Search Process" 
     
     === "Respawn Mechanic"         
         
-        - There are a fixed number of locations (tile sets) that have the potential to spawn a group of thieves. These tiles sets can move or rotate if you get a different map variation than what is shown in the Guides. 
-        - Whether a group spawns at these fixed locations is RNG-based and re-rolls every time you enter the Abyss. A single run might spawn multiple groups or none at all. The latter is normal and can happen several times in a row although it is rare. 
-        - The thieves _only_ appear as a small goblin enemy on the field map. They will never move or aggro even if you are standing directly in front of them. Once detected they will appear on your mini-map as a green arrowhead.
+        - There are a fixed number of locations (tile sets) that can potentially spawn a group of thieves. These tiles sets can move or rotate if you get a different map variation than what is shown in the Guides. 
+        - It is RNG-based whether a group spawns at these fixed locations and re-rolls every time you enter the Abyss. A single run might spawn multiple groups or none at all. The latter is normal and can happen several times in a row although it is rare. 
+        - The thieves _only_ appear as a small goblin enemy on the field map. They will never move or aggro even if you are standing directly in front of them. Once detected they will appear as a green arrow on your mini-map.
 
     === "Run Steps"
     
         - Enter the Abyss and check all the fixed locations to see if any groups spawned. Use the map markers (yellow check-marks) to denote their locations so you can auto-move to them.   
         - If they spawn, then defeat them and collect the Gold Ore.
-        - When done exit the Abyss to the floor selection screen. Re-enter and repeat the process until you have collected the maximum amount of Gold Ore. 
-        - Some players prefer to check only the locations closest to the Harken or entrance and repeatedly re-enter (re-roll) until a group appears. See Guides for efficient routing tips. 
+        - When done exit the Abyss to the floor selection screen. Rinse and repeat until you have reached your desired amount of Gold Ore. 
+        - Some players prefer to check only the locations closest to the entrance or Harken and repeatedly re-enter (re-roll) until a group appears. See Guides for efficient routing tips. 
         
     === "Thieves Battle"
     
@@ -114,7 +113,7 @@
             - Do not immediately submit the request. This is a trap.
         - After every fight she will give the same text that you can submit or continue to search. 
         - At 50% of the maximum Gold Ore collected she will tell you that you will get a "decent reward", but not the full amount.
-        - At 100% she will let you know that you have reached the limit and the thieves will stop re-spawning. At this point it is safe to return to the Royal Capital and submit the request. 
+        - At 100% she will let you know that you have collected the maximum amount of Gold Ore and the thieves will stop spawning. At this point it is safe to return to the Royal Capital and submit the request. 
         - Be careful as it is very easy to accidentally submit the request if you are not paying attention. 
 
     === "Bugs"
