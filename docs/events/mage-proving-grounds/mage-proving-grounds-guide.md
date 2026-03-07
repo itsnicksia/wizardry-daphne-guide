@@ -1,6 +1,4 @@
-# Mage Proving Grounds
-
-!!! item "This event is permanently available!"
+# Mage Trials
 
 ## Guide:
 
