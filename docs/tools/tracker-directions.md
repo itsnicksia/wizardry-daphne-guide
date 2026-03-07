@@ -39,7 +39,7 @@
             - A recent maintenance update has reset the cooldown timers or disabled them. 
             - Your game is bugged and you may want to consider sending an Inquiry to Drecom so it can be investigated. This would be in an extreme situation where no items have respawned after 30 to 60 days. 
 
-??? note "Map Chests Steps" 
+??? note "Map Chests" 
 
     === "Steps" 
         - Go to the Ruins and select the Cursed Wheel.
@@ -53,7 +53,7 @@
         - For Abyss 1 to get the platforms to re-appear on Floor 7 you will need to wheel twice on "King's Arrival" or the final node of your most recently cleared Abyss (i.e., the GWO has been defeated). You can also Harken to Floor 8 and reverse the two closest stones.  
         - The Catacombs is bugged. The chest that contains the monthly bone will not appear on your mini-map. That means you have to go through the entire floor, do the candle puzzle, and check to see if the chest respawned. 
 
-??? note "Abyss 2 Map Chests Steps"
+??? note "Map Chests - Abyss 2"
 
     === "Steps" 
 
@@ -81,7 +81,7 @@
             - If nothing you are doing is working, then you can toggle to The Beginning Abyss and "Leap" to "Awakening". 
             - You will have to go through the entire tutorial area again, which can take 10 to 15 minutes. 
 
-??? note "Important Requests Steps"
+??? note "Important Requests"
 
     === "Steps" 
         - These steps are for the the Important Request faction rewards for defeating a Greater Warped One ("GWO"). 
@@ -117,27 +117,28 @@
         - Being That Dwells in the House of God
             - Iris's Eyes - Eyesight was not restored 
 
+??? note "Exceptions" 
+
+    - There are some items in the game that have a fixed cooldown period, including:
+        - Abyss 1, Floor 8 - Nourishing Draught x3 (SP pot) - every 24 hours. 
+        - Bonepicker Weekly Bone and Tallow - every 7 days (same as the Ancient Mausoleum Tallow whose cooldown timer is visible).
+        - Enemy Weekly Chest Bone - every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
+
 ### Cooldown Formula 
 
-- We do not know the exact cooldown formula that Drecom uses. Wowever we do have several months of user's data that allows us to make some approximations.
-- Minimum Number of Days
-    - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
-    - 21 Days functions as a fixed value in the formula.
-- "Yes or No" Respawn Roll
-    - After the minimum number of days (21 Days) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
-    - The data suggests that the "Yes" % chance starts at a low value at Day 21 and increases after each roll until it reaches 100% on Day 30.
-    - The time interval between each "Yes or No" roll is likely 12 to 24 hours.
-- Game Maintenance
-    - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
-    - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.      
+??? note "Technical Notes" 
 
-### Exceptions
-
-There are some items in the game that have a fixed cooldown period, including:
-
-- Abyss 1, Floor 8 - Nourishing Draught x3 (SP pot) - every 24 hours. 
-- Bonepicker Weekly Bone and Tallow - every 7 days (same as the Ancient Mausoleum Tallow whose cooldown timer is visible).
-- Enemy Weekly Chest Bone - every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
+    - We do not know the exact cooldown formula that Drecom uses. Wowever we do have several months of user's data that allows us to make some approximations.
+    - Minimum Number of Days
+        - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
+        - 21 Days functions as a fixed value in the formula.
+    - "Yes or No" Respawn Roll
+        - After the minimum number of days (21 Days) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
+        - The data suggests that the "Yes" % chance starts at a low value at Day 21 and increases after each roll until it reaches 100% on Day 30.
+        - The time interval between each "Yes or No" roll is likely 12 to 24 hours.
+    - Game Maintenance
+        - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
+        - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.    
 
 ### Contact
 
