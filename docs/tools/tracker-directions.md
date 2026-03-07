@@ -147,13 +147,13 @@
 
 ??? note "Technical Notes" 
 
-    - We do not know the exact cooldown formula that Drecom uses. Wowever we do have several months of user's data that allows us to make some approximations.
+    - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations.
     - Minimum Number of Days
         - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
         - 21 Days functions as a fixed value in the formula.
     - "Yes or No" Respawn Roll
-        - After the minimum number of days (21 Days) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
-        - The data suggests that the "Yes" % chance starts at a low value at Day 21 and increases after each roll until it reaches 100% on Day 30.
+        - After the minimum number of days (21) condition has been met the game will make a binary roll - "Yes" or "No" - that determines whether the item will respawn or not.
+        - The data suggests that the "Yes" % chance starts at a low value on Day 21 and increases after each roll until it reaches 100% on Day 30.
         - The time interval between each "Yes or No" roll is likely 12 to 24 hours.
     - Game Maintenance
         - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
