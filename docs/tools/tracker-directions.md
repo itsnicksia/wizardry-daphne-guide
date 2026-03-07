@@ -1,4 +1,4 @@
-!!! warning "Work in Progress"
+!!! warning "Work In Progress"
     - This is a new page and under review. Important information may change or be revised. 
     - Contains spoilers for the later Abysses. 
     - Ctrl + F5 to refresh the page for new updates.
