@@ -40,7 +40,7 @@
     === "Issues with A2"
 
         - Respawning items consistently in A2 has been a long-running problem in the community and is due to how the event flags are programmed. 
-        - Forced respawning only works when the CW toggles are set to ending where Melgina is defeated. We suspect that the event flags that trigger Octoranus's appearance effectively turn off or disable the cd timers. 
+        - Forced respawning only works when the CW toggles are set to the ending where Melgina is defeated. We suspect that the event flags that trigger Octoranus's appearance effectively turn off or disable the cd timers. 
         - A2 has its own sub-section as it requires additional steps. 
 
     === "Troubleshooting"
@@ -55,8 +55,9 @@
 
     === "Steps" 
         - Go to the Ruins and select the Cursed Wheel.
-        - Using the arrows at the top of the screen toggle left to A1 (The Beginning Abyss). Select the "Fresh Start" node and then "Leap".
-        - The fastest dialogue options are "No problem" and "Do nothing".
+        - Using the arrows at the top of the screen toggle left to A1 (The Beginning Abyss). 
+        - Select the "Fresh Start" node and then "Leap".
+        - Once you have zoned in the fastest dialogue options are "No problem" and "Do nothing".
         - Return to the Ruins and Leap to your furthest node.
         - Go the appropriate Abyss and collect your items.
 
@@ -79,7 +80,7 @@
         - Do NOT "Leap" yet. This is important.
         - Return to the top of the screen and toggle left to A1 (The Beginning Abyss). 
         - Select "Fresh Start" and "Leap". 
-        - The fastest dialogue options are "No problem" and "Do nothing".
+        - Once you have zoned in the fastest dialogue options are "No problem" and "Do nothing".
         - Return to the Ruins and toggle back to A2. 
         - Scroll down to "Rickert's Shop" and "Leap". 
         - If you want the Mana Elixir x3 that is located in the Treasure Room via the deck hatch you will need to select "Arena 5". 
@@ -105,7 +106,7 @@
         - Use the arrows at the top of the screen to toggle left or right to your desired Abyss.
         - The second node for every Abyss has a toggle called "Client" that lets you select your faction. Note: That faction route needs to have defeated the GWO for this process to work. 
         - Select your desired faction. Do NOT Leap at this point. This is important.
-        - Scroll down to the second-to-last node. These nodes are the ones right before you fight a GWO.
+        - Scroll down to the second-to-last node. These nodes are the ones right before you fight the GWO.
             - A2 - Arena Round 5
             - A3 - Fortress 3rd Floor Arrival
             - A4 - Truth of the Beautiful Ore     
@@ -116,10 +117,11 @@
     === "Ending Requirements"
         - A3 and A4 both have "Bad" endings where the MC fails and the Important Request is not fulfilled. 
         - In the CW you will need to set specific toggles to ensure the conditions are correct for the minimum requirements to complete the Important Request. 
-        - It does not matter if it is the "Good" or "True" ending as the reward is the same. The "Good" endings are generally faster since that version of the GWO is weaker.
+        - It does not matter if it is the "Good" or "True" ending as the reward is the same. 
+        - The "Good" endings are generally faster since that version of the GWO is weaker.
 
     === "A3 Cursed Wheel Settings"
-        - You need an overall Abyss corrosion level of 8 for the Blackmail Ending ("GWO 8").
+        - You need an overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
         - Corrosion Sentry Toggles
             - Assuming you have all 13 Corrosion Sentry toggles set 8 of them to "Spotted" before "Leaping". 
             - Any sentries that you have not registered are automatically counted as "Spotted."
@@ -137,7 +139,7 @@
 ??? note "Fixed Cooldown Items" 
 
     - There are some items in the game that have a fixed cooldown period, including:
-        - A1, Floor 8: Nourishing Draught x3 (SP pot) - Every 24 hours. 
+        - A1, Floor 8: Nourishing Draught x3 (SP Pot) - Every 24 hours. 
         - Weekly Bonepicker Bone and Tallow: Every 7 days (same as the Ancient Mausoleum Tallow whose cd timer is visible).
         - Weekly Enemy Chest Bone: Every 7 days. Note that it will overwrite whatever was previously in that chest, including relics, rare enemy drops, or boss items.
 
