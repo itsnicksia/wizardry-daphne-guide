@@ -16,6 +16,8 @@
 - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
 - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
 
+### Forced Respawning 
+
 !!! warning "Read Me"
 
     === "Forced Respawning"
@@ -25,7 +27,6 @@
 
     === "Abbreviations" 
     
-        <div class="nofilter-table nosort-table" markdown>
         | Term | Abbreviation | 
         |:-|:-|
         | The Beginning Abyss    | A1 |   
@@ -36,7 +37,6 @@
         | Cooldown               | cd    |     
         | Cursed Wheel           | CW    |   
         | Greater Warped One     | GWO   |     
-        </div>
     
     === "Troubleshooting"
         - If items are not respawning it is likely due to one of the following: 
