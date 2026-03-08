@@ -22,7 +22,7 @@
 
     === "Basics"
         - The game does not consistently respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
-        - The "Fresh Start" CW node serves as a univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs. More serious bugs require sending an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom, but it is a useful tool for smaller issues. 
+        - The "Fresh Start" CW node serves as a univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs. 
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
 
     === "Abbreviations" 
