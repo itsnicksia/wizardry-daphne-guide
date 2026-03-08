@@ -171,6 +171,7 @@
 
 - For respawning items you have discovered that are not listed on the Respawn Tracker page please contact @nrjank on the Discord.
 - For questions, comments, or corrections to this page please contact @lightbearer on the Discord.
+- Discord link [here](https://discord.gg/y7HZRvxD). 
  
 
 
