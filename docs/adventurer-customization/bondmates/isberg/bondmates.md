@@ -3,7 +3,7 @@
 !!! warning "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met."
 
 !!! warning "Work in Progress. To be added soon:"
-    - Wandering Bunny
+    - Betrayer Bunny
 
 ## Snowy Forest Minor Harken
 
