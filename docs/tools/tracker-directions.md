@@ -8,11 +8,11 @@
 ### Basics
 
 - Each Abyss has a small number of map chests and Guild request rewards that can respawn. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
-- The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does not use a universal cooldown timer that resets items on the first of the month or week. 
+- The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does not use a universal cooldown timer that resets items on the first of the month or a specific day of the week. 
     
 ### Respawn Intervals 
 
-- Most items respawn monthly [30 days] and have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
+- Most items respawn monthly [30 days]. They have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
 - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
 - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
 
@@ -22,7 +22,7 @@
 
     === "Basics"
         - The game does not consistently respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
-        - The "Fresh Start" CW node serves as a univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs.
+        - The "Fresh Start" CW node serves as a univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs. More serious bugs require sending an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom, but it is a useful tool for smaller issues. 
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
 
     === "Abbreviations" 
@@ -42,10 +42,12 @@
     
         If items are not respawning it is likely due to one of the following: 
         
-        - The cooldown timer has not yet reached zero ("0"). If you are not using the Respawn Tracker tool or recording the dates in time in Excel, Notepad, etc. then it is likely you may be overestimating the amount of time that has passed since you last opened the chest. Wait a few more days and try again. 
-        - The steps need to be completed exactly as written.
+        - The cooldown timer has not yet reached zero ("0"). 
+            - If you are not using the Respawn Tracker tool or recording the dates and times in Excel, Notepad, etc. then it is likely you may be overestimating the amount of time that has passed. 
+            - Wait a few more days and try again. 
+        - The steps in the Respawning Guides need to be completed exactly as written.
         - A recent maintenance update has reset the cooldown timers or disabled them. 
-        - Your game is bugged and you may want to consider sending an Inquiry to Drecom so it can be investigated. This would be in an extreme situation where no items have respawned after 30 to 60 days. 
+        - Your game is bugged and you may want to consider sending an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom so it can be investigated. This would be in an extreme situation where an item has not respawned after 30 to 60 days. 
     
     === "Issues with A2"
         - Respawning items in A2 has been a long-running problem in the community and it is due to how the event flags are programmed. 
@@ -145,7 +147,7 @@
 
 ??? warning "Cooldown Formula" 
 
-    - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations.
+    - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations. 
     - Minimum Number of Days
         - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
         - 21 Days functions as a fixed value in the formula.
