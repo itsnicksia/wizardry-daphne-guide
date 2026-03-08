@@ -1,9 +1,23 @@
 !!! warning "Work In Progress"
     - Ctrl + F5 to refresh for updates 
 
+!!! tip "Before You Begin" 
+
+    === "Basics" 
+    
+        - Enemies level with MC's Grade. Avoid doing the Red or Black Dragon boss fights after a recent promotion due to the jump in HP and difficulty. 
+        - The drop-downs have tabs. Each Run includes a complete guide, maps, Ore locations, and boss strategies. All the information you need is included under its section.
+        - There are dedicated sections to farming, junk tiers, and the Exchange Shop that covers buying priorities and recommendations. 
+    
+    === "Event Reset" 
+    
+        - There is a dedicated event reset button. It is a yellow shield icon that says "EVENT". This is the button to  use to access the next Run. 
+        - The term "wheel-in-place" or "Cursed Wheel x2" refers to leaping to your current Cursed Wheel node again. This is for farming purposes to reset the floor chests.  
+        - The Event button must be used to see if you have unlocked the next tier of junk.
+    
 ## Part 1 (Berkanan Route)
 
-The best ending for Part 1 requires three complete runs. Each run is relatively fast if you are strong. Note that you cannot progress to Part 2 of the event without fully completing Part 1. The drop-downs have tabs, including the maps of each floor, ore locations, and boss strategies. All the information you need for each run is included under its section.
+Part 1 requires 3 complete runs. You cannot unlock Part 2 until Part 1 is fully completed. If you completed Part 1 last year you will have immediate access to Part 2. 
 
 ### Guides 
 
@@ -12,19 +26,20 @@ The best ending for Part 1 requires three complete runs. Each run is relatively 
     === "Guide"
     
         1. Watch the cutscene using the Event button (yellow shield in town menu).
-        2. Head to the Adventurer's Guild in the Royal Capital and accept the request to save the missing people.
-        3. Head to the event location, Sahuagin's Cave, via the Edge of Town in the Royal Capital.
+        2. Head to the Guild in the Royal Capital and accept the request to save the missing people.
+        3. Go to the Edge of Town in the Royal Capital to access the event dungeon, Sahuagin's Cave. 
         4. Find 3 people on B1F to save. Their locations are shown on the map.
-        5. Find 2 people on B2F to save. They are dead already.
-        6. Find an extra burned body on the way to the next floor. It's Iarumas.
-        7. Go to the large, southern section of B3F. The Fire Dragon will show up and start throwing fire everywhere (you may lag quite a bit at this part).
-        8. Move to the non-red tiles on the minimap ASAP or get killed instantly (do this 3 times).
-        9. Return to the Royal Capital, watch the cutscene, accept the Fire Dragon request at the Adventurer's Guild, head to the Tavern, and talk to Iarumas.
-        10. Return to B3F, try to fight the dragon again, but you are unable to (this part is important).
-        11. Instead, now head to the sahuagin NPC on the minimap and kill them for the Sahuagin's Key.
-        12. You can now open previously locked doors. Take the previously locked path on B3F to reach the side of the dragon.
-        13. Select the option to have Iarumas serve as a distraction and complete the boss fight (see tab). However, it rages at the end and melts in the magma.
-        14. Turn in the request and get basically nothing. Use the Event button, select Cursed Wheel, and rewind time to reset everything.
+        5. Find 2 people on B2F to save. They are both dead.
+        6. At the end of B2F you will a burned body. It is Iarumas. Head down to the next floor. 
+        7. Go to the large, southern section of B3F. The Fire Dragon will appear and start breathing fire everywhere (the game may lag at this point depending on your device).
+        8. You must quickly reach the non-red tiles on the mini-map otherwise you will be killed instantly (do this 3 times). You have a few seconds to reach each one. It is not as stressful as it sounds. 
+        9. Return to the Royal Capital and watch the cutscene. Next, head to the Guild and accept the Fire Dragon request. 
+        10. Go to the Tavern and talk to Iarumas.
+        11. Return to B3F, try to fight the Red Dragon again, but you are unable to (this part is important).
+        12. Head to the sahuagin NPC on the minimap and kill them for the Sahuagin's Key.
+        13. You can now open previously locked doors. Take the previously locked path on B3F to reach the side of the Red Dragon.
+        13. Select the option to have Iarumas serve as a distraction and complete the boss fight (see tab). However, it rages at the end and melts into the magma.
+        14. Turn in the request. This Run is complete. To reset use the Event button, select Cursed Wheel, and rewind time to begin your 2nd Run.
 
     === "B1F" 
         ![](img/sahuagin-cave-1.jpg)
@@ -241,7 +256,6 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     - For max Compendium pips you need to fight him 5 times. 
     - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. Normal Cursed Wheeling does not work, but it will reset the 2 chests. 
 
-
 ## Farming
 
 ??? note "Overview"
@@ -272,6 +286,23 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
             - Unique gear: The Saber is included as a potential drop in all tiers of junk at an increasing rate. The Trollkin Ring and Dragon Slayer must be purchased from the shop.   
         - Seven Luminaries junk (highest tier) is Silver-only and includes all 3 versions of the enhanced unique gear. 
         - Treasure is, unfortunately, only Azure.
+
+    === "Saber Drop %"
+    
+        | Tier | Junk Name | Saber Drop % | Notes | 
+        |:--|:--------------|:-----|:--------|
+        | 1 | Junk          | 0.1% | 1 in 1,000 chance |     
+        | 2 | Teal          | -    |  |    
+        | 3 | Sliver        | 0.5% | 1 in 200 chance |   
+        | 4 | Seedling      | 0.5% | 1 in 200 chance |    
+        | 5 | Three-Color   | 2.5% |  |    
+        | 6 | Four Scales   | 5.0% |  |    
+        | 7 | Five Blossoms | 5.5% |  |    
+        | 8 | Six Energies  | 6.0% |  |    
+        | 9 | Luminaries*   | 5.8% | Only drops the enhanced version |   
+        
+        - *Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollin King. The chance to get at least one of these items is 17.5439%. 
+        - To see the detailed drop rate % chances for all items, please go to offical website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
 
 ??? note "Optimal Farming Routes" 
 
@@ -313,54 +344,83 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - If you are interested in learning more about the methodology please see the #B&B Event Farming Data channel.
         - Any major corrections or new findings please contact @lightbearer or post in the Discord channel above. 
 
-## Unlocking Junk Tiers
+## Junk Tiers
 
 !!! warning "This is a WIP and will be updated regularly."
 
-??? note "Overview" 
+### Unlocking System 
 
-    - Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple conditions with varying levels of importance. 
-    - We have limited insight into how this system works. Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. However, these guidelines may not work for you, so know that in advance. 
-    - There are 9 tiers of junk with the first 2 tiers unlocked immediately at Abyss 1, Floor 1 (A1 F1). This is the syntax that will be using to refer to Abyss progression (A = Abyss, F = Floor). 
-    - At the maximum junk level you will always get a mix of Four Scales (20%), Five Blossoms (30%), Six Energies (30%), and Seven Luminaries (20%).   
+- Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple variables that require a minimum amount of progress for each one. 
+- We have limited insight into how this system works. 
+    - Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. 
+    - Know in advance that these guidlines may not work for you.
+- Primary Variables
+    - MC's Grade, Abyss progression, and reputation level are the primary factors in determining your junk tier.
+    - Each one appears to have equal weighting.
 
-??? note "Mechanics"
+!!! Warning "What does this mean for you?"
 
-    === "Confirmed Primary Variables" 
+    - The unlocking system requires a minimum amount of progress across _all_ 3 primary variables. For example, the lower your level of reputation the higher the requirements for Grade and Abyss progression.   
+    - Newer players tend to get stuck at Four Scales (Steel) junk because they meet the requirements for Grade and Abyss progression, but have a low reputation level if Guild requests or Special Requests have been deprioritized.
+    - The Event button (yellow shield icon) is required to see if a new tier of junk has unlocked. The game is inconsistent with updating junk tiers automatically. **Wheeling-in-place does not work**. 
+
+??? warning "Primary Variables" 
+
+    ??? note "Grade"
     
-        - MC's Grade
-        - Abyss progression 
-        - Reputation level
-            - Completion of the Special Requests with their "best" ending seems to have a greater effect compared to grinding standard Guild requests. 
-        - A2 True Ending 
-        - The lower the MC's Grade the greater the Abyss progression that is required to unlock the next tier of junk. This pattern has held true for all Discord members that have reported data.  
+        - The most straight forward variable to progress. It is based only on the MC's Grade and not the rest of your team. 
+        - Passing the Grade Exam is not sufficient. You must spend the tags and promote your MC. 
+        - Most players will want to target Steel Grade, if possible, if the goal is to unlock Luminaries junk. 
+        - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your reputation level is lagging. You will likely have to do additional reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Luminaries. 
+    
+    ??? note "Abyss Progression" 
+    
+        - Key Abyss Milestones:
+            - Clear A3 F3 Necrocore - be sure to progress to F5 before exiting. 
+            - Clear A3 F7 Doll - step foot into F8 before exiting. 
+            - Reach A3 F10 Fountain 
+            - First clear of GWO 3 
+        - True Endings
+            - Getting the True endings for both A1 and A2 count as "points" towards unlocking higher tiers of junk. 
+            - If you have a strong team these are both easy to do fairly quickly since you can auto-battle through all the enemies. 
+            - For A2 we strongly recommend starting a new faction since the Mermaid statues are located on each of the lower floors. 
+    
+    ??? note "Reputation Level" 
+    
+        === "Basics" 
         
-        !!! warning "To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield icon) and select Cursed Wheel."  
+            - Reputation level is a hidden mechanic in the game. You receive reputation points every time you complete a Guild Request or a Special Request.
+            - Arna will not offer you the next Grade Exam until you have accumulated a certain amount of reputation points.  
+            - Special Requests, particularly the True endings, seem to give more "points" than standard Guild Requests. 
+            - We do not know:
+                - If you get more reputation points from the later Abysses. 
+                - If completing all Guild request in an Abyss gives you extra reputation points as a "bonus". 
+        
+        === "Priorities" 
+        
+            - If you are grinding reputation points we recommend you start with getting the True endings for the Special Requests (Fordaig, Malice, etc.). Note that these are reset in the Ruins > Cursed Wheel > Special Request button located at the bottom-right of the page.  
+            - The standard approach has been to pick fast A1 Guild requests and repeat them over and over again until the next Grade Exam or junk tier unlocks. 
+            - If you are going to be putting in the time to grind reputation points, then we recommend you at least pick up the Mel (+13-14 Trap Disarm) and Mudd (+10 Detect) bondmates and take them to level 5. They are both useful for your chest opener and long-term account development. 
 
-    === "Other Notes" 
-    
-        - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date although some Discord members have been able to do so. 
-        - Variables we suspect might have an influence, but have not been tested include: 
-            - MC being at the max level for each Grade 
-            - Completing all the request in each Abyss as a seperate, but related trigger to reputation level 
+??? note "Troubleshooting" 
 
-    === "Troubleshooting" 
+    - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
+    - If your junk is not updating, then here is a list of things to test in order of importance:
+        - Increase MC's Grade to Steel or Copper, ideally. 
+        - Make more progress in your current Abyss. 
+            - The game is built around unlocking new Guild requests, side dungeons, etc. once you reach a Major Harken in an Abyss or defeat the GWO. We suspect the junk unlocking system also uses these event flags. 
+            - The primary floors to progress toward would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating a GWO.  
+        - Complete the "Best" endings for the Special Requests, which are listed under the Events section in the navigation list.
+        - Grind reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
+        - Complete all Guild requests you have access to at least once. 
+    - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
+    - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
 
-        - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
-        - If your junk is not updating, then here is a list of things to test in order of importance:
-            - Increase MC's Grade to Steel or Copper, ideally. 
-            - Make more progress in your current Abyss. 
-                - The game is built around unlocking new Guild requests, side dungeons, etc. once you reach a Major Harken in an Abyss or defeat the GWO. We suspect the junk unlocking system also uses these event flags. 
-                - The primary floors to progress toward would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating a GWO.  
-            - Complete the "Best" endings for the Special Requests, which are listed under the Events section in the navigation list.
-            - Grind reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
-            - Complete all Guild requests you have access to at least once. 
-        - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
-        - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
+### Unlocking Requirements
 
-??? note "Unlocking Requirements" 
+??? note "Junk Tiers 1-8"
 
-    === "Junk Tiers 1-8"
+    === "Unlocking Table"
     
         | Tier | Junk Name | Equipment Rank | MC Grade | Abyss Progression | Notes | 
         |:--:|:--------------|:--------------|:---------|:-------------------:|:-------------------|
@@ -378,46 +438,27 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - Multiple entries are due to different combinations of MC Grade's and Abyss progression.
         - We have yet to discover any way to unlock Five Blossoms or Six Energies without also unlocking Seven Luminaries at the same time so consult the next tab.
         - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield) and select Cursed Wheel.
-
-    === "Junk Tier 9 (Seven Luminaries)" 
-    
-        | Tier | Junk Name | Equipment Rank | MC Grade | Abyss Progression | Notes | 
-        |:-:|:-------------|:---------------|:---------|:------------------|:-------------------|
-        | 9 | Seven Luminaries | Silver | Bronze | A4 F1?                         |    |  
-        |   |                  |        | Iron   | A3 F10 - Defeat GWO 3          |    | 
-        |   |                  |        | Steel  | A3 F7 - Defeat Doll boss       |    | 
-        |   |                  |        | Copper | A3 F3 - Defeat Necrocore boss  |    | 
         
-        - These are general guidelines that might not work for your account. 
-        - See the Troubleshooting tab under Mechanics for options that _might_ unlock Seven Luminaries junk if you do not think you will be able to increase MC's Grade or make additional Abyss progress. 
-        - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield icon) and select Cursed Wheel.
-
-    === "Saber Drop %"
+    === "Notes" 
     
-        | Tier | Junk Name | Saber Drop % | Notes | 
-        |:--|:--------------|:-----|:--------|
-        | 1 | Junk          | 0.1% | 1 in 1,000 chance |     
-        | 2 | Teal          | -    |  |    
-        | 3 | Sliver        | 0.5% | 1 in 200 chance |   
-        | 4 | Seedling      | 0.5% | 1 in 200 chance |    
-        | 5 | Three-Color   | 2.5% |  |    
-        | 6 | Four Scales   | 5.0% |  |    
-        | 7 | Five Blossoms | 5.5% |  |    
-        | 8 | Six Energies  | 6.0% |  |    
-        | 9 | Luminaries*   | 5.8% | Only drops the enhanced version |   
-        
-        - *Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollin King. The chance to get at least one of these items is 17.5439%. 
-        - To see the detailed drop rate % chances for all items, please go to offical website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
+        - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date although some Discord members have been able to do so. 
+        - Variables we suspect might have an influence, but have not been tested include: 
+            - MC being at the max level for each Grade 
+            - Completing all the request in each Abyss as a seperate, but related trigger to reputation level 
 
-    === "MC Grade List"
+??? note "Junk Tier 9 (Seven Luminaries)" 
+
+    | Tier | Junk Name | Equipment Rank | MC Grade | Abyss Progression | Notes | 
+    |:-:|:-------------|:---------------|:---------|:------------------|:-------------------|
+    | 9 | Seven Luminaries | Silver | Bronze | A4 F1?                         |    |  
+    |   |                  |        | Iron   | A3 F10 - Defeat GWO 3          |    | 
+    |   |                  |        | Steel  | A3 F7 - Defeat Doll boss       |    | 
+    |   |                  |        | Copper | A3 F3 - Defeat Necrocore boss  |    | 
     
-        - No Grade: Level 1-20
-        - Lead: Level 21-30
-        - Bronze: Level 31-40
-        - Iron: Level 41-50
-        - Steel: Level 51-60
-        - Copper: Level 61-70
-
+    - These are general guidelines that might not work for your account. 
+    - See the Troubleshooting tab under Mechanics for options that _might_ unlock Seven Luminaries junk if you do not think you will be able to increase MC's Grade or make additional Abyss progress. 
+    - Remember! To see if you have unlocked a new tier of junk you need to reset everything using the Event button (yellow shield icon) and select Cursed Wheel.
+    
 ## Exchange Shop 
 
 ??? note "Overview"
