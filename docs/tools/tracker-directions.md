@@ -136,6 +136,8 @@
 
         === "A4" 
             - Requirement: Clearing GWO 4-2  
+            - Passed Through the Coal Mine
+                - Nero and the children accompanied you 
             - Short Rest in the Cabin
                 - North Lakeshore Cabin - Fixed it up
                 - Dwarves' Cave - Does not matter
