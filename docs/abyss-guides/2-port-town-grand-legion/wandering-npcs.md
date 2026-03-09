@@ -24,15 +24,15 @@ There are a number of characters that wander the Abyss who you may encounter.  T
 ## Faction NPC   
 This wandering NPC will be a differnt character on each Faction route, but the interactions are the same. He will first greet you several times,then ask for aid, and eventually reward you with small items and treasures.  
 
-=== Pontiff Route
+=== "Pontiff Route"
     ![](./img/a2-cathedral-knight.jpg)  
     Cathedral Knight  
     
-=== Princess Route  
+=== "Princess Route"  
     ![](./img/a2-cathedral-knight.jpg)  
     Royal Knight  
     
-=== Admiral Route  
+=== "Admiral Route"  
     ![](./img/a2-cathedral-knight.jpg)  
     Sea Freighter Agent
 
