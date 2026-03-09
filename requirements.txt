@@ -4,3 +4,4 @@ mkdocs-awesome-nav
 mkdocs-macros-plugin
 mkdocs-redirects
 mkdocs-table-reader-plugin
+mkdocs-git-revision-date-localized-plugin
