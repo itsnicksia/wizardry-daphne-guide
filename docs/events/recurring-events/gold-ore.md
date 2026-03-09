@@ -42,12 +42,12 @@
         
         - After accepting the request head to the Tavern and speak with the Old Man. For a small fee he will mark your map with a "!" to denote the location of a Gold Ore stash. There are 5 locations in each Abyss.
             - Abyss 1: 500 Gold 
-             - Abyss 2: 1,000 Gold
-             - Abyss 3: 2,000 Gold
-             - Abyss 4: 4,000 Gold 
+            - Abyss 2: 1,000 Gold
+            - Abyss 3: 2,000 Gold
+            - Abyss 4: 4,000 Gold 
         - Once you reach the marked "!" location you will see a glowing, white object (a "shiny") on the ground. The stash contains 4x the amount of Gold Ore that you recieve from a single fight.
-        - After 6 fights (4 with Marianne in the party) Lulu will prompt you to visit the Old Man. You must return to the Royal Capital. He will re-mark your map with the location of the next stash. 
-        - We strongly recommend that you have him re-mark your map every 4 fights. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 fights for an equivalent amount of Gold Ore.
+        - After 10% of the max Gold Ore is collected Lulu will prompt you to check-in with the Old Man. This happens after 6 fights or 4 with Marianne in the party. You must return to the Royal Capital. He will re-mark your map with the location of the next stash. You can do this up to 5 times. 
+        - We recommend you collect all 5 stashes. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 or 6 fights for an equivalent amount of Gold Ore.
 
     === "Total Required Fights"
 
@@ -61,7 +61,7 @@
         - The table above refers to the number of total fights required to collect the maximum amount of Gold Ore using Marianne and/or the Old Man. 
         - The "Yes" refers to:
             - Using Marianne in your party for every fight.
-            - Speaking with the Old Man after every 4 fights and having him re-mark your map 5 times. 
+            - Speaking with the Old Man after every 4 fights with Marianne in the party (6 fights without her) and having him re-mark your map 5 times. 
         - Using both of them reduces the total number of fights from 60 to 20, which is a significant IRL time-savings. 
         - The number of total required fights holds true across every Abyss. 
 
@@ -114,7 +114,7 @@
         - After every fight she will give the same text that you can submit or continue to search. 
         - At 50% of the maximum Gold Ore collected she will tell you that you will get a "decent reward", but not the full amount.
         - At 100% she will let you know that you have collected the maximum amount of Gold Ore and the thieves will stop spawning. At this point it is safe to return to the Royal Capital and submit the request. 
-        - Be careful as it is very easy to accidentally submit the request if you are not paying attention. 
+        - Be careful as it is very easy to accidentally submit the request in the Guild if you are not paying attention. 
 
     === "Bugs"
 
