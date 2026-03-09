@@ -926,14 +926,15 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     ??? warning "Requirements"
     
-        - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
+        - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear GWO 4-3)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
 
     ??? note "Cursed Wheel Settings - First Run and Resets" 
 
         === "First Run"
 
-            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins.
+            - Before starting your first run you need to set-up your Cursed Wheel properly otherwise the 1st body will not appear
+            - Wheel to Deepsnow Hinterlands Entrance
             - Wheel to Short Rest in the Cabin with the following toggles selected:
                 - North Lakeshore Cabin - "Fixed it up"
                 - Dwarves' Cave - Any 
@@ -968,8 +969,9 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
     ??? note "Warning! Blind Runs" 
     
-        - Strongly recommend NOT doing a blind run. When A4 launched it tooks several hours across multiple people to find all of them. Save your sanity.
-        - The majority of the request is searching for interactable objects (white shiny stars). They are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tiles.  
+        - Strongly recommend NOT doing a blind run. 
+        - The majority of the second part of the request is searching for interactable objects (white shiny stars) on 4-5 floors. They are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tiles.  
+        - When A4 launched it tooks several hours across multiple people to find all of them. Save your sanity.
 
 ??? note "Bigfoot Cave"
 
