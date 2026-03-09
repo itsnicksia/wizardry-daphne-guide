@@ -2,6 +2,9 @@
 
 !!! warning "**Warning: This guide contains spoilers.**"
 
+!!! warning "**Disclaimer:**"
+    Since this is a community-maintained site, there is only so much we are able to do during our free time. There may be out of date content on multiple pages here.We do our best to keep things up to date, but stuff does slip through the cracks. When in doubt, reach out to us in Discord or submit a pull request to update content as needed.
+
 <div class="grid cards" markdown>
 
 -   __New to Wizardry Variants: Daphne?__

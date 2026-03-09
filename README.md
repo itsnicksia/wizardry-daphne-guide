@@ -1,6 +1,6 @@
 # Wizardry Variants Daphne Community Guide
 
-This guide is maintained by the community of the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) and is a collaborative, ongoing work in progress.
+This guide is maintained by the community of the [Wizardry Variants Daphne Discord Server](https://discord.gg/YjYmUCkBXK) and is a collaborative, ongoing work in progress. As a general disclaimer, you might find information that is out of date on here. When you do, don't hesitate to submit a pull request to update it or reach out to us in Discord!
 
 We welcome contributions and corrections by the community\!
 
