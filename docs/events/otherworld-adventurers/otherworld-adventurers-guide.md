@@ -6,18 +6,20 @@
     === "Basics" 
     
         - Enemies level with MC's Grade. Avoid doing the Red or Black Dragon boss fights after a recent promotion due to the jump in HP and difficulty. 
-        - The drop-downs have tabs. Each Run includes a complete guide, maps, Ore locations, and boss strategies. All the information you need is included under its section.
+        - The drop-downs have tabs. Each run includes a complete guide, maps, ore locations, and boss strategies. All the information you need is included under its section.
         - There are dedicated sections to farming, junk tiers, and the Exchange Shop that covers buying priorities and recommendations. 
     
     === "Event Reset" 
     
         - There is a dedicated event reset button. It is a yellow shield icon that says "EVENT". This is the button to  use to access the next Run. 
         - The term "wheel-in-place" or "Cursed Wheel x2" refers to leaping to your current Cursed Wheel node again. This is for farming purposes to reset the floor chests.  
-        - The Event button must be used to see if you have unlocked the next tier of junk.
+        - The Event button must be used if you are checking to see if a new junk tier has been unlocked. 
     
 ## Part 1 (Berkanan Route)
 
-Part 1 requires 3 complete runs. You cannot unlock Part 2 until Part 1 is fully completed. If you completed Part 1 last year you will have immediate access to Part 2. 
+This is the same exact event than ran last year with no known changes to its requirements or structure. 
+- Part 1 requires 3 complete runs. Part 2 is not unlocked until Part 1 is fully completed.
+- If you completed Part 1 last year you will have immediate access to Part 2. 
 
 ### Guides 
 
@@ -31,7 +33,7 @@ Part 1 requires 3 complete runs. You cannot unlock Part 2 until Part 1 is fully 
         4. Find 3 people on B1F to save. Their locations are shown on the map.
         5. Find 2 people on B2F to save. They are both dead.
         6. At the end of B2F you will a burned body. It is Iarumas. Head down to the next floor. 
-        7. Go to the large, southern section of B3F. The Fire Dragon will appear and start breathing fire everywhere (the game may lag at this point depending on your device).
+        7. Go to the large, southern section of B3F. The Fire Dragon will appear and start breathing fire everywhere. Tthe game may lag at this point depending on your device.
         8. You must quickly reach the non-red tiles on the mini-map otherwise you will be killed instantly (do this 3 times). You have a few seconds to reach each one. It is not as stressful as it sounds. 
         9. Return to the Royal Capital and watch the cutscene. Next, head to the Guild and accept the Fire Dragon request. 
         10. Go to the Tavern and talk to Iarumas.
@@ -224,8 +226,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 ### Black Dragon Superboss 
 
 !!! warning "Potential Bug" 
-    - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Bronze Grade (level 40) that has been able to enter the Otherworld Rift and encounter the superboss. 
-    - Unclear if this is a bug or there are additional requirements that have yet to be identified. 
+    - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord member at Bronze Grade (level 40) that has been able to enter the Otherworld Rift and encounter the superboss. 
+    - It is unclear if this is a bug or there are additional requirements that have yet to be identified. 
 
 ??? note "How to Enter the Other World Rift"
 
@@ -301,8 +303,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         | 8 | Six Energies  | 6.0% |  |    
         | 9 | Luminaries*   | 5.8% | Only drops the enhanced version |   
         
-        - *Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollin King. The chance to get at least one of these items is 17.5439%. 
-        - To see the detailed drop rate % chances for all items, please go to offical website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
+        *Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollin King. The chance to get at least one of these items is 17.5439%. 
+        To see the detailed drop rate % chances for all items, please go to offical website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
 
 ??? note "Optimal Farming Routes" 
 
@@ -358,7 +360,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     - MC's Grade, Abyss progression, and reputation level are the primary factors in determining your junk tier.
     - Each one appears to have equal weighting.
 
-!!! Warning "What does this mean for you?"
+!!! tip "What does this mean for you?"
 
     - The unlocking system requires a minimum amount of progress across _all_ 3 primary variables. For example, the lower your level of reputation the higher the requirements for Grade and Abyss progression.   
     - Newer players tend to get stuck at Four Scales (Steel) junk because they meet the requirements for Grade and Abyss progression, but have a low reputation level if Guild requests or Special Requests have been deprioritized.
@@ -375,9 +377,9 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     
     ??? note "Abyss Progression" 
     
-        - Key Abyss Milestones:
-            - Clear A3 F3 Necrocore - be sure to progress to F5 before exiting. 
-            - Clear A3 F7 Doll - step foot into F8 before exiting. 
+        - Key Abyss milestones for Seven Luminaries junk:
+            - Clear A3 F3 Necrocore - Step foot into F5 before exiting. 
+            - Clear A3 F7 Doll - Step foot into F8 before exiting. 
             - Reach A3 F10 Fountain 
             - First clear of GWO 3 
         - True Endings
