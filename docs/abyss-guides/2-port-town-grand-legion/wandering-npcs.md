@@ -32,9 +32,9 @@ This wandering NPC will be a differnt character on each Faction route, but the i
     ![](./img/a2-cathedral-knight.jpg)  
     Royal Knight  
     
-=== Princess Route  
+=== Admiral Route  
     ![](./img/a2-cathedral-knight.jpg)  
-    Sailor  
+    Sea Freighter Agent
 
 ??? note "Details"  
     - Location: All levels except Ship Arena.  
