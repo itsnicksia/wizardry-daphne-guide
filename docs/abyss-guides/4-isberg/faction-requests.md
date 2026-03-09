@@ -910,19 +910,21 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ### Search for the Missing Persons (2nd Faction Request)
 
+!!! warning "You cannot complete both parts of this request until you have cleared GWO 4-3. It is not worth the time or energy to do it any earlier."
+
 #### Overview 
 
 The faction requests are unlocked after entering Route 9 for the first time. The objective is to search for traces of two missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
 
 Upon entering the Royal Capital, the faction representative will appear to discuss the missing persons. 
 
-- Agree to help twice when prompted
-- Head to the Guild and accept the request under the Royal Capital tab 
-- If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset
+- Agree to help twice when prompted.
+- Head to the Guild and accept the request under the Royal Capital tab. 
+- If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset.
 
-??? warning "Important Notes"
+!!! warning "Important Notes - Read Me"
 
-    ??? warning "Bondmate Ending Requirements"
+    ??? warning "Requirements"
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear 3rd GWO fight)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
@@ -964,11 +966,10 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             - As a worst case option you can wheel to "Fresh Start" in Abyss 1 to clear any broken flags or bugs, but it will reset all of your map data.
             - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
 
-    ??? danger "Warning! Blind Runs" 
+    ??? note "Warning! Blind Runs" 
     
-        - Strongly recommend NOT doing a blind run
-        - The majority of the request is searching for interactable objects (white shiny stars) across multiple floors
-        - Interactable objects are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tile  
+        - Strongly recommend NOT doing a blind run. When A4 launched it tooks several hours across multiple people to find all of them. Save your sanity.
+        - The majority of the request is searching for interactable objects (white shiny stars). They are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tiles.  
 
 ??? note "Bigfoot Cave"
 
