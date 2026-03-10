@@ -1,9 +1,9 @@
 nav:
   - Alabaster Hunting: './alabaster-hunting/alabaster-hunting.md'
   - Class Trials: 
-    - Fighter Trials: './fighter-proving-grounds/fighter-proving-grounds-guide.md'
-    - Mage Trials: './mage-proving-grounds/mage-proving-grounds-guide.md'
-    - Knight Trials: './knight-proving-grounds/knight-proving-grounds-guide.md'
+    - Fighter: './trials/fighter.md'
+    - Knight: './trials/knight.md'
+    - Mage: './trials/mage.md'
   - Labyrinth of Fordraig: './labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
   - Lamp of Malice: './lamp-of-malice/lamp-of-malice-text-guide.md'
   - Old Castle Ruins:
