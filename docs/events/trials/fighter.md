@@ -8,6 +8,8 @@ You can obtain up to 600 Seals of the Fighter by completing the trials up the Ad
 
 There are several map variations, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end and defeat the floor boss. Keep in mind, it only counts as a clear upon talking to the old man with the mask beside the portal. There is a fountain that is guarded by a Benjamin-NPC on each side.
 
+!!! note "All the maps here are the same as all the Trials."
+
 ??? note "Map Variation 1"
     ![](img/map-1.jpg)
 

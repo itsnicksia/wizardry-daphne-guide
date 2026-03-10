@@ -10,7 +10,7 @@ There are several map variations, and are random upon entering. It is not necess
 
 Keep in mind unique adventurer classes that are "mages" can enter such as Iarumas and Berkanan.
 
-!!! note "All the maps here are the same as that of the Fighter Proving Grounds."
+!!! note "All the maps here are the same as all the Trials."
 
 ??? note "Map Variation 1"
     ![](img/map-1.jpg)
