@@ -13,16 +13,16 @@ Keep in mind unique adventurer classes that are "mages" can enter such as Iaruma
 !!! note "All the maps here are the same as that of the Fighter Proving Grounds."
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.jpg)
+    ![](img/map-1.jpg)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.jpg)
+    ![](img/map-2.jpg)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-4.jpg)
+    ![](img/map-4.jpg)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-5.jpg)
+    ![](img/map-5.jpg)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
