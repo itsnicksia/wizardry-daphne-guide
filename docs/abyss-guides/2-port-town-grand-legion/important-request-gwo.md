@@ -142,7 +142,7 @@ From here, you have two options.
 
 1. The first is to use the wheel to go back to the start and do a different faction request. This will effectively start you over in the Port Town Grand Legion and you will have to progress through the maps as if it was your first time, except you will have the lexicon, so you can read the mermaid statues as you come across them and pick up some very valuable information.
 
-    !!! caution "Keep in mind that whenever selecting a choice of faction, cursed wheel progress in that timeline will not carry over to other faction timelines, and thus you will have to complete all progress in order to see any progress made previously in the cursed wheel. For example, if you have completed Princess Route in both Abyss 2 and Abyss 3, then cursed wheel back to select the Admiral Route in Abyss 2, you will not be able to cursed wheel to your Abyss 3 Progress until the Abyss 2 progress + Abyss 3 has been caught up in the Admiral Routes."
+    !!! caution "Keep in mind that whenever selecting a choice of faction, cursed wheel progress in that timeline will not carry over to other faction timelines, and thus you will have to complete all progress in order to see any progress made previously in the cursed wheel. For example, if you have completed Princess Route in both Abyss 2 and Abyss 3, then cursed wheel back to select the Admiral Route in Abyss 2, you will not be able to cursed wheel to your Abyss 3 Progress until the Abyss 2 + Abyss 3 progress has been caught up in the Admiral Routes."
    
 3. The second is to not start on a new faction request. Instead, within the same completed path, go around and read all the mermaid statues again, pick up some very valuable information.
 
