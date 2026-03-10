@@ -33,7 +33,7 @@ This wandering NPC will be a differnt character on each Faction route, but the i
     Royal Knight  
     
 === "Admiral Route"  
-    ![](./img/a2-cathedral-knight.jpg)  
+    ![](./img/a2-sea-freighter-agent.jpg)  
     Sea Freighter Agent
 
 ??? note "Details"  
