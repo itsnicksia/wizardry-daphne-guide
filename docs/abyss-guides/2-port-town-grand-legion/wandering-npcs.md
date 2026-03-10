@@ -29,7 +29,7 @@ This wandering NPC will be a differnt character on each Faction route, but the i
     Cathedral Knight  
     
 === "Princess Route"  
-    ![](./img/a2-cathedral-knight.jpg)  
+    ![](./img/a2-royal-knight.jpg)  
     Royal Knight  
     
 === "Admiral Route"  
