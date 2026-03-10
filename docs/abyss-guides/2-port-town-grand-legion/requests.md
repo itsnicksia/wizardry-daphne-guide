@@ -518,7 +518,7 @@ Goetia -> Admiral Route
 ??? info "Tip"
     If you still have an incomplete Relentless Massacre Rabbit quest, you can repeatedly interact with the same body and fight the rabbit until you collect all the mats without needing to look for them.  
 
-- Go to Valeon Grasslands and gather 1 Wild Carrot, they grow near white flowers.  
+- Go to Valeon Grasslands and gather 1 Wild Carrot, they grow near white flowers.  Your map isnt very useful here but it does show your coordinates. The flowers are usually near x:172, y:88.
 
 ??? info "White Flowers"
     ![](img/image_64.jpg)
