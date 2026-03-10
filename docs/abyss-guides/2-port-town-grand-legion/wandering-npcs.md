@@ -66,9 +66,9 @@ This adventurer is apparently interested in checking out the competition, and ma
         - You can then [find Regia in District 2 to get her as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#water-god-priestess-regia). 
         - After getting her as a bondmate she will not appear as a wandering NPC any more.  
 
-## Ugo
+## Ugo in the Ship's Hold
 "Don't ask me how I havent been eaten yet."
-![](./img/a2-ugo.jpg)  
+![](./img/a2-ugo-in-the-ships-hold.jpg)  
 ??? note "Details"  
     - Location: Ship 1 and 2 
     - Ugo appears as a wandering NPC after you've fully completed the [Oar Collector Extermination request](./requests.md#oar-collector-extermination) in Ship 1.  
