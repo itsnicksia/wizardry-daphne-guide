@@ -141,7 +141,10 @@ Congratulations \- you lived, completed your request, and more importantly, rece
 From here, you have two options.
 
 1. The first is to use the wheel to go back to the start and do a different faction request. This will effectively start you over in the Port Town Grand Legion and you will have to progress through the maps as if it was your first time, except you will have the lexicon, so you can read the mermaid statues as you come across them and pick up some very valuable information.
-2. The second is to not start on a new faction request. Instead, within the same completed path, go around and read all the mermaid statues again, pick up some very valuable information.
+
+    !!! caution "Keep in mind that whenever selecting a choice of faction, cursed wheel progress in that timeline will not carry over to other faction timelines, and thus you will have to complete all progress in order to see any progress made previously in the cursed wheel. For example, if you have completed Princess Route in both Abyss 2 and Abyss 3, then cursed wheel back to select the Admiral Route in Abyss 2, you will not be able to cursed wheel to your Abyss 3 Progress until the Abyss 2 progress has been caught up in the Admiral Routes."
+   
+3. The second is to not start on a new faction request. Instead, within the same completed path, go around and read all the mermaid statues again, pick up some very valuable information.
 
 The path you choose is ultimately yours, and the only difference is with option 1, you will have to fight Melgina again before you are really able to fight Octonarus. Note that if you are trying to get the IQ Guiding Light, you’ll need to fight Melgina (not Octonarus) a second time anyway, so I personally took the first option because it made sense to me to just collect the mermaid statue knowledge as I went through the maps again. If you do take option 1, this same decision point applies at the end where you can either repeat option 1 for the third faction or move on to option 2\.
 
