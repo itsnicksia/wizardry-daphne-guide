@@ -419,13 +419,14 @@ Wild Strike,Active,,"Major physical attack on 1 enemy. Afterward, own Action Spe
 Wild Throw,Active,,Minor physical attack on 3 random enemies.,Efficacy increased based on skill level.,10,Ninja,"Long-range weapon-specific, Ninja-specific",,Kiriha
 Will of the Millennial Lord,Discipline,,Continuously increases each stat. Magic Power and Action Speed increased further.,Magic Power and Action Speed increased further based on skill level.,,,,Adam,
 Will to Fight,Passive,True,"Increases Accuracy, Evasion, and Surety when HP is below a certain level.",Adds more affected stats based on skill level and Effects increased further.,36,Fighter,,Olive,
-Will to Resist Death,Passive,,PLEASE SUBMIT SKILL PAGE 1,PLEASE SUBMIT SKILL PAGE 2,,,,Berkanan,
+Will to Resist Death,Passive,,"Continuously increases Magic Power. When resurrected during battle, Magic Power/Action Speed are increased for 2 turns.",,,,,Berkanan,
 Wisdom of the Crafty Old Dwarf,Discipline,,"Coninuously increases Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance. Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance increase amounts are reduced if learned by someone other than Aldric.","Detect, Evade Trap, Disarm Trap, and Trapophobia Tolerance increased further based on skill level.",,,,Aldric,
 Wisdom of Truth,Passive,True,Eliminates dampening of damage from types the user is at a disadvantage with a chance to reduce damage when user is attacked (affected by Luck). Damage reduction amount/rate are reduced if learned by someone other than Adam.,"Incrementally adds MP up, with a chance to reduce damage when attacked, based on skill level. Probability increased and damage further reduced.",,,,Adam,
 Witching Wisdom,Passive,,Increases the success of status afflictions and debuffs inflicted by the user.,,,,,Asha,
 Young Spell Prodigy,Discipline,,"Continuously increases each stat, MP and Magic Power increased further.",MP and Magic Power increased further based on skill level.,,,,Flut,
 ZELOS,Damage,,Launches an orb of condensed spite that deals minor dark spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,,
 ZILFIS,Support,,Words of prayer that cure 1 ally of Curse.,"Resistance up and HP recovery incrementally added based on skill level. Increased Resistance, area of Effects. and recovery amount.",29,Priest,,,
+
 
 
 
