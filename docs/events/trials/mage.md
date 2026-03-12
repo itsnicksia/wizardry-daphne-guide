@@ -1,8 +1,6 @@
-# Mage Trials
+The Trials are class tests used for advancing adventurers. They test adventurer strength and offer rewards for success. They limit entrance to three adventurers at a time. They only allow their respective class entrance or the Wanderer class. Each trial offers a Beginner, Intermediate, and Advanced level. Each level is a one-floor dungeon with a boss-fight. The first trial will show up as a request sometime after finishing the First Abyss1. It will appear at the Royal Capitol under the Featured tab. When the request is accepted it will be marked on the world map. The trials lack having an introduction so keep an eye out for them.
 
-## Guide:
-
-There is no introduction to this event. Simply start the event by heading to the Royal Capital and accepting Beginner Mage Trial in the Featured tab. This will mark the location on your map.
+## Mage
 
 You can obtain up to 600 Seals of the Mage by completing the trials up the Advanced. Specifically, 100 for Beginner, 150 for Intermediate, and 350 for Advanced. There are no missions for this event in particular.
 
