@@ -1,4 +1,4 @@
-The Trials are class tests used for advancing adventurers. They test adventurer strength and offer rewards for success. They limit entrance to three adventurers at a time. They only allow their respective class entrance or the Wanderer class. Each trial offers a Beginner, Intermediate, and Advanced level. Each level is a one-floor dungeon with a boss-fight. The first trial will show up as a request sometime after finishing the First Abyss1. It will appear at the Royal Capitol under the Featured tab. When the request is accepted it will be marked on the world map. The trials lack having an introduction so keep an eye out for them.
+The Trials are class tests used for advancing adventurers. They test adventurer's strength and offer rewards for success. They limit entrance to three adventurers. They permit entrance to their respective class and the Wanderer class. Each trial offers a Beginner, Intermediate, and Advanced level. Each level is a one-floor dungeon with a boss-fight. The first trial will show up as a request sometime after finishing the First Abyss[^cnf]. It will appear at the Royal Capitol under the Featured tab. When the request is accepted it will be marked on the world map. The trials lack having an introduction so keep an eye out for them.
 
 ## Mage
 
@@ -43,4 +43,6 @@ Keep in mind unique adventurer classes that are "mages" can enter such as Iaruma
 
 ??? note "Master Mage's Ring"
     ![](img/mage-ring.jpg)
-    - The Mage ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines.
+    - The Mage ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines
+
+[^cnf]: Confirmation required..
