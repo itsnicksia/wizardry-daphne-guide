@@ -28,21 +28,21 @@ This is the same exact event than ran last year with no known changes to its req
 
     === "Guide"
     
-        1. Watch the cutscene using the Event button (yellow shield in town menu).
-        2. Head to the Guild in the Royal Capital and accept the request to save the missing people.
+        1. Select the Event button (yellow shield in town menu) and Watch the introductory cutscene. 
+        2. Head to the Royal Capital Guild > Featured tab and accept Retrieval of Abuducted People request. 
         3. Go to the Edge of Town in the Royal Capital to access the event dungeon, Sahuagin's Cave. 
         4. Find 3 people on B1F to save. Their locations are shown on the map.
         5. Find 2 people on B2F to save. They are both dead.
-        6. At the end of B2F you will a burned body. It is Iarumas. Head down to the next floor. 
-        7. Go to the large, southern section of B3F. The Fire Dragon will appear and start breathing fire everywhere. Tthe game may lag at this point depending on your device.
+        6. At the end of B2F you will see a burned body. It is Iarumas. Head down to B3F. 
+        7. Go to the large, southern area of B3F. The Fire Dragon will appear and start breathing fire everywhere. Tthe game may lag at this point depending on your device.
         8. You must quickly reach the non-red tiles on the mini-map otherwise you will be killed instantly (do this 3 times). You have a few seconds to reach each one. It is not as stressful as it sounds. 
-        9. Return to the Royal Capital and watch the cutscene. Next, head to the Guild and accept the Fire Dragon request. 
+        9. Return to the Royal Capital and watch the cutscene. Next, head to the Guild, turn in the abducted people request, and accept the new Slay the Fire Dragon request. 
         10. Go to the Tavern and talk to Iarumas.
-        11. Return to B3F, try to fight the Red Dragon again, but you are unable to (this part is important).
+        11. Return to B3F, try to fight the Red Dragon again, but you are unable to (viewing this scene is required to trigger the next step).
         12. Head to the sahuagin NPC on the minimap and kill them for the Sahuagin's Key.
-        13. You can now open previously locked doors. Take the previously locked path on B3F to reach the side of the Red Dragon.
-        13. Select the option to have Iarumas serve as a distraction and complete the boss fight (see tab). However, it rages at the end and melts into the magma.
-        14. Turn in the request. This Run is complete. To reset use the Event button, select Cursed Wheel, and rewind time to begin your 2nd Run.
+        13. You can now open all the locked doors. Take the previously locked path on B3F to reach the side of the Red Dragon.
+        13. Select the option to have Iarumas serve as a distraction and kill the Red Dragon. However, it rages at the end and melts into the magma.
+        14. Return to the Guild and turn in the request. The 1st Run is now complete. To reset use the Event button (yellow shield icon), select Cursed Wheel, and rewind time to begin your 2nd Run.
 
     === "B1F" 
         ![](img/sahuagin-cave-1.jpg)
@@ -171,13 +171,17 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     
         1. Head to B1F, take the shortcut door, and save the 3 people like in Part 1.
         2. Upon reaching the stairs to B2F, the screen will glitch and provide 2 door choices. Select the right-hand door (Ainikki). If you select the left-hand door (Berkanan) you will be routed to Part 1. 
-        3. B2F will be a completely different map, and various portions of the walls will have a glitched texture. Halfway through the floor, you will encounter a Knight that needs help. Interacting with them will lead to a fight with the Fire Dragon from Part 1. 
+        3. B2F will be a completely different map and portions of the walls will have a glitched texture. Halfway through the floor, you will encounter a Knight that needs help. Interacting with them will lead to a fight with the Fire Dragon from Part 1. 
         4. Head to the stairs to B3F and find Ainikki's body. Defeat the Sahuagins and pick up her body. Continue to B3F. It is critical that you do not leave at this point or Ainikki will not be revived.
         5. Head to where you previously fought the Red Dragon, but this time there will be a Black Dragon. It will fog up the entire room forcing you to retreat. Head back to the Royal Capital and resurrect Ainikki who will offer to assist at the Temple.
-        6. Turn in the original request and pick up the dragon slaying request. Head to the Tavern in the Adventurer's Guild to talk to Iarumas and ask for his help in killing the Black Dragon.
-        7. Return to the Black Dragon's chamber on B3F. You will need to navigate nearly blindly unless you have a Ranger to cast Milwa, but it should be somewhat clear to go through the darkness especially if you turn the game's brightness up and possibly your device's screen brightness. If you are having trouble navigating the fog, then see the tabs for step-by-step directions.
+        6. Turn in the abducted people request and accept the Slay the Fire Dragon request. Head to the Tavern, talk to Iarumas, and ask for his help in killing the Black Dragon.
+        7. [Warning! Forced Loss Ahead] Return to the Black Dragon's chamber on B3F. You will need to navigate the black fog to reach the boss fight. If you bump into the wall 3 times, then you will be instantly killed. 
+            - You can bring a Ranger with Milwa to improve visibility. 
+            - There are white glowing interactable on the floor that serve as guide points that signal when you you need to turn. 
+            - If you are on PC you can increase the game's brightness settings.
+            - Mobile players may not be able to see _anything_ even with device and in-game brightness settings set to max. There are step-by-step directions in the B3F map tab.
         8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath attack (deals extremely high damage). It's recommended to bring as few unit as possible to cut down on revival costs. However, there are 2-3 enemies (unavoidable) in the corridor to the Black Dragon's room, so adjust accordingly based on your team's power level. A unit can survive if Sanctuary's Blessing or Sheli's passive procs, but he will continue to spam the breath attack until everyone is dead.   
-        9. You will have to reset using the Event button (yellow shield icon) to get Ainikki's help on the second run.
+        9. You will have to reset using the Event button (yellow shield icon) to get Ainikki's help on the 2nd Run. 
 
     === "B1F"
         ![](img/sahuagin-cave-1.jpg)
@@ -201,14 +205,14 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 ??? note "2nd Run"
 
     === "Guide"
-        1. Save all the civilians on B1F and B2F per usual. 
-        2. When you encounter the Knight on B2F you now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map.
-        3. Repeat the same steps as before. Collect Ainikki's body at the stairs to B3F, view the Black Dragon spewing fog scene on B3F, retreat, exit, and Ainikki will be revived at the Temple.
-        4. Turn in the request and accept the dragon slaying request again. Head to the Tavern and ask Iarumas for help. Leave the Adventurer's Guild and ask Ainikki for help. This time, Iarumas will ask her to help as well.
-        5. Ainikki agrees, but requires equipment to defeat the Black Dragon. Head to the Blacksmith in the Royal Capital to help her craft a Morningstar. You will need several ore on B2F and B3F. Consult the maps listed for locations.
+        1. Go to the Guild, accept the abducted people request, and save all of them on B1F and B2F per usual. 
+        2. When you encounter the Knight on B2F you will now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map. Note: Some users have reported the MC's alignment shifting toward Evil if you opt to abandom him, but this has not been verified.
+        3. Collect Ainikki's body in front of the stairs to B3F, view the Black Dragon spewing fog scene on B3F, retreat, exit, and Ainikki will be automatically revived at the Temple.
+        4. Turn in the request and accept the Slay the Fire Dragon request. Head to the Tavern and ask Iarumas for help. Leave the Guild and an automatic cutscene will start where you can ask Ainikki for help. This time, Iarumas will ask her to help as well.
+        5. Ainikki agrees, but requires equipment to defeat the Black Dragon. Head to the Blacksmith to help her craft a Morningstar. You will need several ore on B2F and B3F. See map tabs for locations.
         6. Return to the Blacksmith and he will craft the Morningstar. 
-        7. Return to the Black Dragon on B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. See the tab for boss fight details. After the fight is won, Ainikki will slice the head off of the dragon. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
-        8. Head back to the Adventurer's Guild to turn in the request. 
+        7. Return to the Black Dragon on B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. Kill the Black Dragon. It will attempt one final attack but Ainikki will cut off its head. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
+        8. Return to the Guild to turn in the request. 
 
     === "B1F"
         ![](img/sahuagin-cave-1.jpg)
