@@ -5,9 +5,9 @@
 
     === "Basics" 
     
-        - Enemies level with MC's Grade. Avoid doing the Red or Black Dragon boss fights after a recent promotion due to the jump in HP and difficulty. 
-        - The drop-downs have tabs. Each run includes a complete guide, maps, ore locations, and boss strategies. All the information you need is included under its section.
-        - There are dedicated sections to farming, junk tiers, and the Exchange Shop that covers buying priorities and recommendations. 
+        - Enemies level with MC's Grade. Avoid doing the Red or Black Dragon boss fights after a recent promotion due to the inicrease in HP and difficulty. 
+        - The drop-downs have tabs. Each run includes a complete guide, maps, ore locations, and boss strategies. All the information you need is in one place.
+        - There are dedicated sections for farming, junk tiers, and the Exchange Shop that covers buying priorities and recommendations. 
     
     === "Event Reset" 
     
@@ -17,7 +17,8 @@
     
 ## Part 1 (Berkanan Route)
 
-This is the same exact event than ran last year with no known changes to its requirements or structure. 
+This is the same exact event than ran last year with no known changes to its requirements or structure.
+
 - Part 1 requires 3 complete runs. Part 2 is not unlocked until Part 1 is fully completed.
 - If you completed Part 1 last year you will have immediate access to Part 2. 
 
@@ -160,7 +161,7 @@ This is the same exact event than ran last year with no known changes to its req
 
 ### Guides
 
-!!! warning "To access Part 2 you will need to clear the best ending (3rd Run) of Part 1 (Ainikki Route)."
+!!! warning "To access Part 2 you will need to clear the best ending (3rd Run) of Part 1 (Berkanan Route)."
 
 Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Blackdragon Superboss fight in the Otherworld side dungeon zone. 
 
@@ -338,7 +339,6 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     
         - If you cannot defeat the Red Dragon (Berkanan Route) to progress to Part 2, then the best farming spot will still be B3F. 
         - The B3F Part 1 map is smaller and only includes 5 enemy encounters. Fewer enemies can be a positive if you are using all of your MP/SP to complete a single run since you may encounter a Scorpion Lady or Minotaur, which are tougher enemies.  
-    
     === "Data Testing"
     
         - The majority of the data testing comes from our Discord members @slimwaldi, @liezeith, and @genosis who have collectively spent dozens of hours farming, tracking, and sharing their data. 
@@ -352,17 +352,17 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
 ### Unlocking System 
 
-- Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple variables that require a minimum amount of progress for each one. 
+Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple variables that require a minimum amount of progress for each one. 
+
 - We have limited insight into how this system works. 
     - Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. 
     - Know in advance that these guidlines may not work for you.
 - Primary Variables
-    - MC's Grade, Abyss progression, and reputation level are the primary factors in determining your junk tier.
-    - Each one appears to have equal weighting.
+    - MC's Grade, Abyss progression, and reputation level are the primary factors in determining your junk tier. Each one appears to have equal weighting.
 
-!!! tip "What does this mean for you?"
+!!! tip "New Players - Read Me"
 
-    - The unlocking system requires a minimum amount of progress across _all_ 3 primary variables. For example, the lower your level of reputation the higher the requirements for Grade and Abyss progression.   
+    - The unlocking system requires a minimum amount of progress across **all** 3 primary variables. For example, the lower your reputation level the higher the requirements for Grade and Abyss progression.   
     - Newer players tend to get stuck at Four Scales (Steel) junk because they meet the requirements for Grade and Abyss progression, but have a low reputation level if Guild requests or Special Requests have been deprioritized.
     - The Event button (yellow shield icon) is required to see if a new tier of junk has unlocked. The game is inconsistent with updating junk tiers automatically. **Wheeling-in-place does not work**. 
 
@@ -370,9 +370,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
     ??? note "Grade"
     
-        - The most straight forward variable to progress. It is based only on the MC's Grade and not the rest of your team. 
-        - Passing the Grade Exam is not sufficient. You must spend the tags and promote your MC. 
-        - Most players will want to target Steel Grade, if possible, if the goal is to unlock Luminaries junk. 
+        - The most straight forward variable to progress. It is based only on the MC's Grade and not the rest of your team. Passing the Grade Exam is not sufficient. You must spend the tags and promote your MC. 
+        - New players will want to target Steel Grade, if possible. If you already at Copper Grade, then you will likely have Luminaries junk unlocked. 
         - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your reputation level is lagging. You will likely have to do additional reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Luminaries. 
     
     ??? note "Abyss Progression" 
