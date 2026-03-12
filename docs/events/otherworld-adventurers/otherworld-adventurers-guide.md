@@ -5,7 +5,7 @@
 
     === "Basics" 
     
-        - Enemies level with MC's Grade. Avoid doing the Red or Black Dragon boss fights after a recent promotion due to the inicrease in HP and difficulty. 
+        - Enemies level with MC's Grade. Avoid doing the Red or Black Dragon boss fights after a recent promotion due to the increase in HP and difficulty. 
         - The drop-downs have tabs. Each run includes a complete guide, maps, ore locations, and boss strategies. All the information you need is in one place.
         - There are dedicated sections for farming, junk tiers, and the Exchange Shop that covers buying priorities and recommendations. 
     
