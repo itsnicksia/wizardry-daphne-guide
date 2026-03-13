@@ -11,7 +11,7 @@
 ??? map "Dwarves' Cave Safest Route"
     ![](./img/forbidden-area-exploration.png)
 
-### Guide
+### Steps
 
 !!! danger "At the current level cap of 70, this request is extremely difficult as the enemies are level 80 and have extremely high stats. In addition, the boss is extremely brutal, much more than any other superboss introduced before it. It's highly recommended to bring a Hook of Harken, a full inventory of SP Pots and MP Pots, and have extremely invested units with Dragon Resist gear/Silver Tier water equipment"
 
