@@ -6,8 +6,6 @@
 
 ## Guide
 
-Three runs are necessary to fully complete the request "Bring Me an Alabaster Pelt". You gain knowledge on the 1st and 2nd runs that allows you to fulfill the conditions for the Good and True endings. Having a Ranger in the party will change the dialogue of the story and help provide directions towards where to go at certain points in the game. You do not need a Ranger on accepting the request, simply only before reviving the dead hunter and obtaining the knowledge.
-
 ##### Dwarves' Cave
 
 ??? map "Dwarves' Cave Safest Route"
