@@ -39,4 +39,5 @@
     - It's highly recommended to be high ASPD for this fight, to match or have higher ASPD than the dragon on most if not all of your characters as the fight is very long and it's very likely that the dragon will start to lap your team if you're too slow.
     - It's possible to apply opening on the dragon on any of its normal physical moves like bite, claw, and tail swipe. It will deal about 18k damage when hitting the opening.
     - It's recommended to bring Seafoam Armor, Firesmith's Gauntlets (Gerulf's Personal Request equipment), Augmented Dragonslayer (if applicable), and/or Alt Berkanan's Gacha Equipement (Large Bag + Challenger's Training Garb). 
+    - It's highly recommended to have Way of the Knight, Sanctuary's Blessing, Wisdom of Truth, and/or Eyes that Know the Future inherited on most if not all characters attempting this dragon as the stacking reductions will give you much more breathing room on your resources. If you have stats to spare, it's possible to consider using Knight's Cloak as well.
 
