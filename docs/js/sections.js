@@ -501,7 +501,7 @@ window.RESPAWN_SECTIONS = [
         {
           id: 'a4_goldmimic_r7_northeast',
           title: 'Golden Mimic - Route 7',
-          details: 'North east part of map. [30 Days]',
+          details: 'North east part of map (x:26, y:19). [30 Days]',
           image: '',
           clickable: false,
         },        
