@@ -134,9 +134,9 @@
         - The dragon can cast all elements of the LA-spells and MA-spells.
         - It can cast all mage debuffs such as Balafeos, Batilgref, Nofis, Morlis. Its Balafeos and Batilgref are extremely strong.
         - Occasionally and randomly it can cast an empowering roar that self buffs it with a surety buff and an extremely huge CT up buff.
-        - It's mandatory to bring characters with equipment that reduce fire damage or reduce damage from dragons. It's preferable to not bring low HP classes such as mages and rangers as they are very prone to dying, especially after being inflicted with weaken.
         
     === "Some Recommendations"
+        - It's mandatory to bring characters with equipment that reduce fire damage or reduce damage from dragons. It's preferable to not bring low HP classes such as mages and rangers as they are very prone to dying, especially after being inflicted with weaken.
         - It's mandatory to bring multiple characters with dissipation/malefic wind, as the defense buff the dragon applies to itself is extremely strong and can waste a few turns. In addition, you must dispel the CT buff immediately, otherwise the dragon will begin to lap your entire team and take multiple turns.
         - It's highly recommended to bring a knight with very high SP in order to Knights Defense various turns. Ainikki is also a good choice if you have very high reductions and elementally advantaged characters.
         - It's highly recommended to be high ASPD for this fight, to match or have higher ASPD than the dragon on most if not all of your characters as the fight is very long and it's very likely that the dragon will start to lap your team if you're too slow.
