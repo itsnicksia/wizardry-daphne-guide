@@ -23,7 +23,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 
 |        |                       | Strength |  IQ | Piety | Vitality | Dexterity | Speed | Luck |
 |:------:|:---------------------:|:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
-|  Base  |                       |    10    |  10 |   10  |    10    |     10    |   10  |  10  |
+|  Base  |                       |    11    |  11 |   11  |    11    |     11    |   11  |  11  |
 |        |                       |          |     |       |          |           |       |      |
 | Gender |          Male         |    +1    |     |       |    +1    |     +1    |       |      |
 |        |         Female        |          |  +1 |   +1  |          |           |   +1  |      |
@@ -41,16 +41,17 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |          Dark         |          |  +2 |       |          |           |       |  +1  |
 |        |          Void         |     ?    |  ?  |   ?   |     ?    |     ?     |   ?   |   ?  |
 |        |                       |          |     |       |          |           |       |      |
-|  Class |        Fighter        |    +3    |  +1 |   +1  |    +2    |     +2    |   +1  |  +1  |
-|        |         Knight        |    +3    |  +1 |   +2  |    +3    |     +1    |   +1  |  +1  |
-|        |         Thief         |    +1    |  +1 |   +1  |    +1    |     +2    |   +3  |  +2  |
-|        |         Priest        |    +1    |  +2 |   +3  |    +1    |     +1    |   +1  |  +2  |
-|        |          Mage         |    +1    |  +3 |   +1  |    +1    |     +2    |   +2  |  +1  |
-|        |         Ninja         |    +2    |  +1 |   +1  |    +1    |     +2    |   +3  |  +2  |
-|        |        Samurai        |    +3    |  +2 |   +1  |    +2    |     +2    |   +1  |  +1  |
+|  Class |        Fighter        |    +2    |     |       |    +1    |     +1    |       |      |
+|        |         Knight        |    +2    |     |   +1  |    +2    |           |       |      |
+|        |         Thief         |          |     |       |          |     +1    |   +2  |  +1  |
+|        |         Priest        |          |  +1 |   +2  |          |           |       |  +1  |
+|        |          Mage         |          |  +2 |       |          |     +1    |   +1  |      |
+|        |         Ninja         |    +1    |     |       |          |     +1    |   +2  |  +1  |
+|        |        Samurai        |    +2    |  +1 |       |    +1    |     +1    |       |      |
+|        |         Ranger        |    +1    |     |       |          |     +2    |   +1  |  +1  |
 |        | Mage of the Black Rod |     ?    |  ?  |   ?   |     ?    |     ?     |   ?   |   ?  |
-|        |       Tall Mage       |    +2    |  +2 |   +1  |    +1    |     +2    |   +1  |  +1  |
-|        |   Silver-Haired Nun   |    +2    |  +2 |   +3  |    +4    |     +2    |   +1  |  +2  |
+|        |       Tall Mage       |    +1    |  +1 |       |          |     +1    |       |      |
+|        |   Silver-Haired Nun   |    +1    |  +1 |   +2  |    +2    |     +1    |       |  +1  |
 
 ## Stats
 
