@@ -8,8 +8,11 @@
 
 ##### Dwarves' Cave
 
-??? map "Dwarves' Cave Safest Route"
-    ![](./img/forbidden-area-exploration.png)
+??? map "Dwarves' Cave B1F"
+    ![](./img/dwarves-cave-b1f.jpg)
+
+??? map "Dwarves' Cave B2F"
+    ![](./img/dwarves-cave-b2f.png)
 
 ### Steps
 
@@ -17,9 +20,105 @@
 
 1. Head back to the Dwarves' Cave after True Ending for Abyss 4 is completed in a timeline where the monsters are all repelled.
 2. You should see only 1 Dwarf in the room before the locked door. He will ask you for help saving his dwarven friends from the monsters behind the door.
-3. You will enter a region that has various paths to a staircase going downwards. There is a fight at the very start that is necessary to defeat in order to proceed among any of the paths. Certain paths have stationary enemies that must be defeated in order to proceed. However, if you follow the route listed in the map above, you can safely avoid most fights if you try to sneak around the wandering enemies. There are 3 enemies in the "outer ring" path that must be avoided. You can flee from them if needed.
-4. Upon reaching the staircase, it's recommended to replenish your SP, MP, and HP to full. Walk down the staircase and you will see a fire dragon in the distance. Walk a few tiles forward into the room to engage in a fight with the dragon.
-5. After defeating the dragon, you will have successfully saved the dwarves and completed the request. You can pick up the seven chests in the room for a total of 5 Forbidden Area Rare Six Energies Junk, several hundred thousand gold, and a randomly generated "Ring of Tactics Infused with Power" and a randomly generated "Bracelet of Spellcraft Infused with Power". You can walk back through the monster maze (not recommended) or just Hook of Harken out and re-enter the Dwarves' Cave. Talk to the same dwarf at the start and claim your rewards.
+3. You will enter a region that has various paths to a staircase going downwards. There is a fight at the very start that is necessary to defeat in order to proceed among any of the paths (see first checkmark on B1F map). Certain paths have stationary enemies that must be defeated in order to proceed. However, if you follow the route listed in the map above, you can safely avoid most fights if you try to sneak around the wandering enemies. There are 3 enemies in the "outer ring" path that must be avoided. You can flee from them if needed.
+
+    ??? map "Dwarves' Cave Safest Route"
+        ![](./img/forbidden-area-exploration.png)
+
+    ??? danger "Dwarves' Cave Initial Fight"
+
+        === "Fight Picture"
+            ![](./img/forbidden-area-first-fight.png)
+
+        === "Fight Details"
+            - 2 Fire Hobbers in the frontline. ~15k HP each. Has typical moveset.
+            - 1 Fire Goblin Archer, 1 Fire Goblin Mage, 1 Fire Goblin Shaman in the backline. ~3k HP each.
+            - Fire Goblin Mage typically casts LAHALITO. Fire Goblin Shaman likely to cast KATINO.
+            - Fire Goblin Archer has very high ASPD.
+
+        === "Some Tips"
+            - It's possible to abuse opening in this fight, as openings seem to do a lot more damage to the Hobbers in general (5k minimum).
+            - The little goblins should be taken care of ASAP as they do a lot of damage.
+            - The goblin casters are extremely vulnerable to MONTINO. Strangely they are very resistant to magic.
+            - All of the hobbers and gobbers are very vulnerable to confuse. KANTIOS and Oni Island Yoto are very good options.
+            - Hamstring with Odachis, especially with an Oni Island Yoto, as well as BATILGREF can buy a lot of time if cast on the Hobbers.
+
+    ??? danger "Dwarves' Cave Random Encounter (Ninjas)"
+
+        === "Fight Picture"
+            ![](./img/forbidden-area-mid-fight3.png)
+
+        === "Fight Details"
+            - 3 rows of 4 Scarlet Ninjas in each row. ~4k HP each. Has typical moveset like those in the final fight in Sand Shadow Cave/Bounty.
+            - Ninjas have very high ASPD.
+
+        === "Some Tips"
+            - It's recommended to simply defend with the front-line and kill with backline as the Ninjas typically just use armor pierce. 
+            - They sometimes use Sever Jugular, but not regularly. However, it has a very high application chance.
+            - All-Around Cover is very useful here if you have a Knight that has very high critical tolerance.
+
+        === "Variations"
+            - There is a variation that tends to spawn near the bottom hard path that only has 4 ninjas in one row.
+
+    ??? danger "Dwarves' Cave Random Encounter (Lesser Demons)"
+    
+        === "Fight Picture"
+            ![](./img/forbidden-area-mid-fight2.png)
+
+        === "Fight Details"
+            - 2 Minotaurs in the frontline. Has ~20k HP each. Has typical moveset.
+            - 3 Lesser demons in the middle. Has ~5k HP each. Typically casts debuff spells.
+            - 1 Fire Goblin Archer, 1 Fire Goblin Mage, 1 Fire Goblin Shaman in the backline. Has ~3k HP each.
+            - The goblins are similar to those in the first fight.
+            - The lesser demons tend to cast ZELOS or some magic debuffs.
+
+        === "Some Tips"
+            - See previous for tips on similar enemies.
+            - Lesser demons are also very vulnerable to MONTINO. Try to cast it ASAP.
+            - Minotaurs are vulnerable to confusion. You can apply the previous strategy on Hobbers with these minotaur.
+
+        === "Variations"
+            - The Minotaurs could be replaced with Fire Hobbers instead.
+        
+    ??? danger "Dwarves' Cave Random Encounter (Hobbers and Gobbers)"
+    
+        === "Fight Picture"
+            ![](./img/forbidden-area-mid-fight1.png)
+
+        === "Fight Details"
+            - 3 Fire Hobbers in the frontline. Has ~15k HP each. Has typical moveset.
+            - 3 Fire Goblin Archers in the middle. Has ~3k HP each.
+            - 2 Fire Goblin Mages, 2 Fire Goblin Shamans in the backline. Has ~3K HP each. 
+            - Functionally similar to the first mandatory fight, but there's a lot more of them now.
+
+        === "Some Tips"
+            - Same as previous posts. Generally just MONTINO the magic row and KANTIOS the archer rows.
+
+    ??? danger "Dwarves' Cave Stationary Encounter (2x Greater Demons)"
+
+        === "Fight Picture"
+            ![](./img/forbidden-area-hard-fight1.png)
+
+        === "Fight Details"
+            - 3 Fire Hobbers in the frontline. Has ~15k HP each. Has typical moveset.
+            - 1 Fire Goblin Archer, 1 Fire Goblin Mage, 1 Fire Goblin Shaman in the backline. Has ~3k HP each.
+            - 2 Greater Demons in the backline. Has ~55-60k HP each.
+            - The hobbers and goblins are similar to those before.
+            - If in the variation with Vampires, they have around 6.5k HP each and typically move twice. They have a typical moveset.
+            - The Greater Demons act similarly to normal greater demons. They have very high ASPD. They also seem to be immune or highly resistant to Chronostasis and Delay Attack, but not Batilgref. In addition, they have Purgatory Strike, which is a fire-element physical damaging skill hitting 3 targets that can include the backline randomly. In addition, they can begin concentrating, which takes two turns before they begin casting extremely powerful row magic. This can be cancelled by doing enough damage. Finally, when they take enough damage, they will self-buff with 30 turns of EVA, MDEF, and MAG. They are dispelled in the order of MAG, DEF, and then EVA. The buffs all provide extremely high values to the greater demon.
+            - This fight will always drop junk and a randomly generated Bracelet of Spellcraft Infused with Power.
+
+        === "Some Tips"
+            - It is recommended to BATILGREF the greater demons first and then take care of all the mobs in the front. The Greater Demons don't pose too much of a threat until they start coming closer in the rows.
+            - After taking care of the front and/or middle rows, it's highly recommended to only focus on killing one Greater Demon at a time, as it requires a lot of resources to deal with them before they start getting very dangerous.
+
+        === "Variations"
+            - One variation has 3 Fire Hobbers in the frontline, 1 Fire Goblin Mage + Fire Goblin Shaman + 2 Greater Demons in the backline.
+            - One variation has 3 Fire Hobbers in the frontline, 2 Vampires in the middle, and 2 Greater Demons in the backline.
+            - One variation has 3 Lesser Demons in the frontline, and 2 Greater Demons in the backline.
+    
+5. Upon reaching the staircase, it's recommended to replenish your SP, MP, and HP to full. Walk down the staircase and you will see a fire dragon in the distance. Walk a few tiles forward into the room to engage in a fight with the dragon.
+6. After defeating the dragon, you will have successfully saved the dwarves and completed the request. You can pick up the seven chests in the room for a total of 5 Forbidden Area Rare Six Energies Junk, several hundred thousand gold, and a randomly generated "Ring of Tactics Infused with Power" and a randomly generated "Bracelet of Spellcraft Infused with Power". You can walk back through the monster maze (not recommended) or just Hook of Harken out and re-enter the Dwarves' Cave. Talk to the same dwarf at the start and claim your rewards.
 
 ??? Danger "Forbidden Area Fire Dragon"
 
