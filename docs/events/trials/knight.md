@@ -8,19 +8,19 @@ You can obtain up to 600 Seals of the Knight by completing the trials up the Adv
 
 There are several map variations, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end, defeat a certain number of enemies, and defeat the floor boss. Keep in mind, it only counts as a clear upon talking to the masked knight at the end.
 
-!!! note "All the maps here are the same as that of the Fighter/Mage Proving Grounds."
+!!! note "All the maps here are the same as all the Trials."
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.png)
+    ![](img/map-1.jpg)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.png)
+    ![](img/map-2.jpg)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-3.png)
+    ![](img/map-3.jpg)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-4.png)
+    ![](img/map-4.jpg)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.

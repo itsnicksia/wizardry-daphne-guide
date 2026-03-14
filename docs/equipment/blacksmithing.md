@@ -29,7 +29,6 @@ Blacksmithing becomes available early in the game after your party enters the fi
 ### ^^Gold Cost for Enhancing^^
 #### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
 | Gear Tier   |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
 |:-----------:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:| 
 |   Worn      |  150 |  300 |   500 |   750 | 1,050 | 1,400 | 1,950 |  2,550 |  3,200 |  3,900 |  4,650 |  5,700 |  6,800 |  7,950 |  9,150 | 10,400 | 12,050 | 13,750 | 17,150  | 23,950  | 127,300 |
@@ -41,28 +40,25 @@ Blacksmithing becomes available early in the game after your party enters the fi
 
 #### Silver Rank Equipment:
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
 | Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
 |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
 | Armor, 1H&nbsp;Melee, 1+2H&nbsp;Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
 | 2H&nbsp;Melee Weapons |640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
 | *Special* |	720|	990|	1,650|	2,700|	4,130|	5,940|	8,420|	11,550|	15,941|	19,800|	24,920|	30,910|	38,230|	46,860|	56,820	|	?	|	?	|	?	|	?	|	?	|	?	|
-</div>
 
 ### ^^Ore Type and Amounts for Enhancing^^
 
-#### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:  
-<div class="nofilter-table nosort-table narrow-table" markdown>
+#### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:
+
 | Ore Grade         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
 | Low Grade<br>(gray)  |   0  |   0  |   0  |   0  |   1  |   2  |   3  |   4  |   5  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
 | Mid Grade<br>(red)   |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   1   |   2   |   3   |   4   |   5   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
 | High Grade<br>(blue) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   1   |   2   |   3   |   4   |   5   |   0   |    15   |
 | Fine Grade<br>(gold) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
-</div>
 
 #### Silver Rank Equipment:  
-<div class="nofilter-table nosort-table narrow-table" markdown>
+
 | Ore Grade         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
 | Mid Grade<br>(red)  |   0  |   0  |   0  |   0  |   1  |   2  |   3  |   4  |   5  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
@@ -71,7 +67,8 @@ Blacksmithing becomes available early in the game after your party enters the fi
 | Sliver Grade<br>(silver) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
 </div>
 
-### ^^Enhancement Values^^  
+### ^^Enhancement Values^^
+
 As mentioned above, gear of different Grades can be found that already have from 1 to 4 Blessings applied to them.  Blessings are also added or increased in value on enhancement. Below are tables **estimating** the range of gear stat increases from blessings based on the Quality of the item.
 
 Based on the values below, most players consider 3-4 star gear to be the target to obtain/enhance, but obviously anything "better than what you have now" will improve youre team's performance.
@@ -80,7 +77,6 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 #### Worn-through-Ebonsteel Gear
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
 |   BASE (as found) STAT                              |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:---------------------------------------------------:|:---:|:---:|:---:|:----:|:-----:|
 | **ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES**         | 2-3 | 3~5 | 5~7 | 8~10 | 11~13 |
@@ -107,7 +103,8 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 |                   **ASPD%**                   | 1   | 1   | 2-3 |  3   |  4   |
 -->
 
-#### Silver Gear  
+#### Silver Gear
+
 !!! note "Silver gear appears to provide larger blessings than those shown above. Data is being collected and we will add information when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
 
 ## ^^Enhancement Inheritance^^
@@ -153,8 +150,7 @@ Equipment can be found with, or receive through enhancement, additional **Blessi
 |    SUR   |    O    |       |    O    |         |       |     O     |   O   |
 |   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
 
-!!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
-
+!!! note "Bows have implicit, additional ASPD and ASPD% values. Bows are the only weapons with additional values."
 
 ## ^^Refine^^
 
@@ -187,14 +183,14 @@ Items that fail extraction are lost.  There is a small chance that a Refinement 
 ### ^^Extraction Values^^
 
 **These values may be inaccurate, and should be treated as estimates.**
-<div class="nofilter-table nosort-table narrow-table" markdown>
+
 |                                               | 1 ★ | 2 ★ | 3 ★ | 4 ★ | 5 ★ |
 |:---------------------------------------------:|:---:|:---:|:---:|:---:|:---:|
 |     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~4 | 3~5 | 4~6 | 5~7 |
 | **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 4~6 |
 |                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 3~5 | 4~6 |
 |                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 4~6 |
-</div>
+
 ## ^^Unification^^
 
 Unification is the process of increasing the Strength of an item it increase its allowable enhancement limit.
@@ -235,7 +231,7 @@ Using a SECOND FAS on the same item repeats the process - it will again re-roll 
 
 As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls the stats but does not apply re-apply Milestone Blessings. They drop more frequently than Full Alteration Stones, but are still quite rare. 
 
-It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
+It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Trials (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
 
 ### Composite Reinforcement  
 The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it enhances primary equipment stats (ATK for weapons, DEF for armor) to approach that  of higher material/rank equipment by sacrificing other higher rank items (or special, very expensive, silver ingots for guaranteed success).  The cost is very high and chance of success gets very low. We will try to provide more detail in time but for now in summary:

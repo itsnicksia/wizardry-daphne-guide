@@ -1,8 +1,6 @@
-# Mage Trials
+The Trials are class tests used for advancing adventurers. They test the adventurer's strength and offer rewards for success. They limit entry to three adventurers of it's respective class (the MC can use the Wanderer class). Each trial offers a Beginner, Intermediate, and Advanced level. Each level is a one-floor dungeon with a boss-fight. The first trial will show up as a request sometime after finishing the First Abyss[^cnf]. It will appear at the Royal Capitol under the request-featured tab. When the request is accepted it will be marked on the world map. The trials lack having an introduction so keep an eye out for them.
 
-## Guide:
-
-There is no introduction to this event. Simply start the event by heading to the Royal Capital and accepting Beginner Mage Trial in the Featured tab. This will mark the location on your map.
+## Mage
 
 You can obtain up to 600 Seals of the Mage by completing the trials up the Advanced. Specifically, 100 for Beginner, 150 for Intermediate, and 350 for Advanced. There are no missions for this event in particular.
 
@@ -10,19 +8,19 @@ There are several map variations, and are random upon entering. It is not necess
 
 Keep in mind unique adventurer classes that are "mages" can enter such as Iarumas and Berkanan.
 
-!!! note "All the maps here are the same as that of the Fighter Proving Grounds."
+!!! note "All the maps here are the same as all the Trials."
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.jpg)
+    ![](img/map-1.jpg)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.jpg)
+    ![](img/map-2.jpg)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-4.jpg)
+    ![](img/map-4.jpg)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-5.jpg)
+    ![](img/map-5.jpg)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
@@ -45,4 +43,6 @@ Keep in mind unique adventurer classes that are "mages" can enter such as Iaruma
 
 ??? note "Master Mage's Ring"
     ![](img/mage-ring.jpg)
-    - The Mage ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines.
+    - The Mage ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines
+
+[^cnf]: Confirmation required..
