@@ -4,6 +4,8 @@
 
 !!! warning "Complete the True Ending for Abyss 4. You will also need to have successfully repelled all the monsters in the Dwarves' Cave during the main story line."
 
+As of the current level cap, [this](https://store.wizardry.info) will also be nearly mandatory in successfully clearing this request.
+
 ## Guide
 
 ##### Dwarves' Cave
