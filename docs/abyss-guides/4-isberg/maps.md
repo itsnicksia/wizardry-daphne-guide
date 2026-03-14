@@ -111,9 +111,13 @@
 
 ## Miscellaneous Maps
 
-??? map "Dwarves Cave"
+??? map "Dwarves Cave B1F"
 
-    ![](./img/dwarves-cave.png)
+    ![](./img/dwarves-cave-b1f.jpg)
+    
+??? map "Dwarves Cave B2F"
+
+    ![](./img/dwarves-cave-b2f.png)
 
 ??? map "Herbalist Shrine B1F"
 
