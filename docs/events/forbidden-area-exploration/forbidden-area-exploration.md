@@ -151,8 +151,8 @@ You will need to complete this request by moving through the bottommost route in
 
 ??? note "True Ending Rewards"
 
-    === Dolgan Bondmate
+    === "Dolgan Bondmate"
         ![](./img/dolgan-bondmate.png)
 
-    === Achievement
+    === "Achievement"
         ![](./img/dolgan-achievement.png)
