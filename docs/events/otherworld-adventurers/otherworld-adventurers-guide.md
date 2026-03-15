@@ -296,7 +296,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
                 - Bite
                 - Tail
                 - ST physical attack (Claw or basic attack) 
-            - Magical Phase
+            - Magic Phase
                 - 2x MA spell on either row (RNG-based). If it uses a Type advantage MA spell on your backrow it is likely one or more units will die if it targes the same row again. 
                 - Debuff spell on a row. These need to be removed immediately. They are extremely powerful and reduce the stat by roughly 90%. 
             - Low HP Trigger
@@ -325,6 +325,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
             - Other
                 - Putting a 2H staff in the inventory of anyone that can cast Madios will be helpful for emergency healing.  
                 - If using MC Chrono (highly recommended), then make sure you bring a multi-hit weapon. The A4 Item Shop sells the Ice Axe (4x hits) for 55,000 gold.  
+        
         === "Items"
         
             - Amulet Shard
@@ -348,9 +349,39 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     
     === "Strategy"
 
-        - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
-        - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked (not always) or Batilgref'd (consistent). It is recommended to try and slow the Dragon down with Batilgref and Scroll of Cascading Slowing.
-        - Additional information to be added soon.
+        - Stack Damage Reduction
+            - 2x Light gear on everyone reduces Dark damage by 30%. This applies to all of its physical attacks and Mazelos. Note that its physical attacks cannot hit the backrow.  
+            - 3x Augmented Dragon Slayers on the front row provides an additional 15% damage reduction from _all_ of its attacks.  
+            - Use the Amulet Shard at the start of battle to reduce all incoming damage by 25-30%. It will remain for the entire fight unless knocked off by another debuff. 
+            - Dark units receive less damage from Dark attacks. You can change the MC's Type (element) in the Well of the Mind. Dark units such as Sheli, Red Beard, Gillion, etc. do well. Fighter Kiriha has access to Shedding, which is particularly useful in this fight. Elda, a niche pick, has Dark-Kin blessing that reduces Dark damage for all elves in the same row.  
+        - Maximize Extra Actions 
+            - It is possible to "lap" the dragon during this fight. This means a unit can get an extra action before the dragon's next turn, but requires everyone to be over 105-110 ASPD. Mage/Priests can easily hit 130-150 ASPD using a 1H Staff and Shield. 
+            - Chrono 2 (40 SP, Well of the Mind) with a multi-hit weapon like Ice Axe (4x hits, A4 Item Shop) is the key to getting extra actions. Chrono 2 is significantly stronger than Chrono 1 (do not use this version). You will see an immediate difference during the dragon's next turn. The effect is active even if you do not see the pop-up message. If you do receive the message (~5% of the time), then the effect is even more magnified. The best time to use Chrono 2 is during your first turn. If you see it wearing off the safest time to reapply is during its Magic phase. Do not forget to re-equip MC's Augmented Dragon Slayer on your next turn.   
+            - Batilgref (spell and/or scroll) _must be kept up at all times_. Alice with Agora 5 or 7 gives you 6 or 7 turns, respectively. This means the dragon can take 2 turns before you need to refresh. 
+            - Astral Break can trivialize this fight, especially with Alice and Agora 5 or 7. 
+            - Shedding (MC, Yuzu, Kiriha) will give your units more turns and, equally important, +50 SUR to maximize your DPS. 
+            - Mage/Priests can use their extra turns to apply Porto to your other units. Scrolls can also be used to self-buff. 
+            - Extra turns for your Mage/Priests give you more breathing room to heal, buff, or reapply Batilgref before its next turn. 
+        - Dragon Debuffs
+            - Amulet and Batilgref should be sufficient for the fight. 
+            - Adding a third debuff can be tricky. The EVA down portion of Batilgref will sometimes land, which can knock off the Amulet debuff. Yuzu's Foxfire debuff can also cause problems. Bring extra Amulets just in case. 
+            - If you do not plan to use the Amulet, then 2x Batilgref (spell and scroll) is easy to maintain the entire fight if you keep track of when to refresh each one. 
+        - Knight's Defense 
+            - With the Amulet you do not need to use each round. This helps conserve SP for the DPS race at the end of the fight (~10-15% HP left). 
+            - The Unique phase (Roar + BFB) is the most dangerous if any of your units are low HP or get stunned. 
+            - It may be helpful during its Physical phase if it uses Bite on MC and a defensive passives does not proc. It's Tail attack will likely finish off a unit. 
+            - Generally not needed for its Magic phase. If you are having issues, then you can use Cortu. If the dragon uses a Type advantage spell - even with KD up - the unit may still die, especially if Weakened has been stacked. This is pure RNG and difficult to control or mitigate. 
+            - At some point in the fight your team's action order is going to get screwed up with units moving after your Knight. It is manageable, but just know in advance that some units will not always be under KD's protection. If this becomes a major issue, then running 2x Knights (high ASPD, low ASPD) is an option. 
+        - Buffs 
+            - You will need to pick a lane on your approach to the fight. Trying to manage DPS, speed, and protection buffs at the same time means something important will get knocked off at the worst possible time. 
+            - To maximize damage, then run Prayer of Rebellion (PoR) and Macaldia in that order on your DPS. Shop scrolls are an alternative since it only applies ATK up. 
+            - To maximize the number of extra turn, then Porto and Macaldia is the best combination for ASPD and DPS. 
+            - To minimize damage, then use Cortu or Makalatu on whatever phase is giving you more problems. Note that Agora applies to all shop scrolls, so you can get 8 turns of Cortu with Agora 7.  
+        - Other
+            - This battle is a marathon not a race. Get comfortable using your DPS to provide support. The goal is to never have more than one unit die at a time. 
+            - The dragon's debuffs _must be removed immediately_ using Abit 1-2. This is a top priority.
+            - You can strategically kill units off to remove the effects of Weakening. This is best done when 2 units in a row are at full health and frees up your Mage/Priest from using Madios that round. 
+            - When it starts to use Roar or BFB as its third action during any of its phases the fight is almost over. Use your most powerful attacks and try to keep KD up as much as possible. 
 
     === "Other"
 
