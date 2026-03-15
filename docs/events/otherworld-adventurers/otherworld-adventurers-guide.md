@@ -411,8 +411,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         | 8 | Six Energies  | 6.0% |  |    
         | 9 | Luminaries*   | 5.8% | Only drops the enhanced version |   
         
-        *Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollin King. The chance to get at least one of these items is 17.5439%. 
-        To see the detailed drop rate % chances for all items, please go to offical website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
+        - Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollin King. The chance to get at least one of these items is 17.5439%. 
+        - To see the detailed drop rate % chances for all items, please go to offical website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
 
 ??? note "Optimal Farming Routes" 
 
@@ -465,12 +465,12 @@ Since the event is available to all players at every stage of the game Drecom ha
     - Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. 
     - Know in advance that these guidlines may not work for you.
 - Primary Variables
-    - MC's Grade, Abyss progression, and reputation level are the primary factors in determining your junk tier. Each one appears to have equal weighting.
+    - MC's Grade, Abyss progression, and Reputation level are the primary factors in determining your junk tier. Each one appears to have equal weighting.
 
-!!! tip "New Players - Read Me"
+!!! tip "New and Returning Players - Read Me"
 
-    - The unlocking system requires a minimum amount of progress across **all** 3 primary variables. For example, the lower your reputation level the higher the requirements for Grade and Abyss progression.   
-    - Newer players tend to get stuck at Four Scales (Steel) junk because they meet the requirements for Grade and Abyss progression, but have a low reputation level if Guild requests or Special Requests have been deprioritized.
+    - The unlocking system requires a minimum amount of progress across **all** 3 primary variables. For example, the lower your Reputation level the higher the requirements for Grade and Abyss progression.   
+    - Newer players tend to get stuck at Four Scales (Steel) junk because they meet the requirements for Grade and Abyss progression, but have a low Reputation level if Guild requests or Special Requests have been deprioritized.
     - The Event button (yellow shield icon) is required to see if a new tier of junk has unlocked. The game is inconsistent with updating junk tiers automatically. **Wheeling-in-place does not work**. 
 
 ??? warning "Primary Variables" 
@@ -479,7 +479,7 @@ Since the event is available to all players at every stage of the game Drecom ha
     
         - The most straight forward variable to progress. It is based only on the MC's Grade and not the rest of your team. Passing the Grade Exam is not sufficient. You must spend the tags and promote your MC. 
         - New players will want to target Steel Grade, if possible. If you already at Copper Grade, then you will likely have Luminaries junk unlocked. 
-        - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your reputation level is lagging. You will likely have to do additional reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Luminaries. 
+        - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your Reputation level is lagging. You will likely have to do additional Reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Luminaries. 
     
     ??? note "Abyss Progression" 
     
@@ -497,18 +497,18 @@ Since the event is available to all players at every stage of the game Drecom ha
     
         === "Basics" 
         
-            - Reputation level is a hidden mechanic in the game. You receive reputation points every time you complete a Guild Request or a Special Request.
-            - Arna will not offer you the next Grade Exam until you have accumulated a certain amount of reputation points.  
+            - Reputation level is a hidden mechanic in the game. You receive Reputation points every time you complete a Guild Request or a Special Request.
+            - Arna will not offer you the next Grade Exam until you have accumulated a certain amount of Reputation points.  
             - Special Requests, particularly the True endings, seem to give more "points" than standard Guild Requests. 
             - We do not know:
-                - If you get more reputation points from the later Abysses. 
-                - If completing all Guild request in an Abyss gives you extra reputation points as a "bonus". 
+                - If you get more Reputation points from the later Abysses. 
+                - If completing all Guild request in an Abyss gives you extra Reputation points as a one-time "bonus". 
         
         === "Priorities" 
         
-            - If you are grinding reputation points we recommend you start with getting the True endings for the Special Requests (Fordaig, Malice, etc.). Note that these are reset in the Ruins > Cursed Wheel > Special Request button located at the bottom-right of the page.  
+            - If you are grinding Reputation points we recommend you start with getting the True endings for the Special Requests (Fordaig, Malice, etc.). Note that these are reset in the Ruins > Cursed Wheel > Special Request button located at the bottom-right of the page.  
             - The standard approach has been to pick fast A1 Guild requests and repeat them over and over again until the next Grade Exam or junk tier unlocks. 
-            - If you are going to be putting in the time to grind reputation points, then we recommend you at least pick up the Mel (+13-14 Trap Disarm) and Mudd (+10 Detect) bondmates and take them to level 5. They are both useful for your chest opener and long-term account development. 
+            - If you are going to be putting in the time to grind Reputation points, then we recommend you at least pick up the Mel (+13-14 Trap Disarm) and Mudd (+10 Detect) bondmates and take them to level 5. They are both useful for your chest opener and long-term account development. 
 
 ??? note "Troubleshooting" 
 
@@ -519,7 +519,7 @@ Since the event is available to all players at every stage of the game Drecom ha
             - The game is built around unlocking new Guild requests, side dungeons, etc. once you reach a Major Harken in an Abyss or defeat the GWO. We suspect the junk unlocking system also uses these event flags. 
             - The primary floors to progress toward would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating a GWO.  
         - Complete the "Best" endings for the Special Requests, which are listed under the Events section in the navigation list.
-        - Grind reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
+        - Grind Reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
         - Complete all Guild requests you have access to at least once. 
     - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
     - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
@@ -552,7 +552,7 @@ Since the event is available to all players at every stage of the game Drecom ha
         - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date although some Discord members have been able to do so. 
         - Variables we suspect might have an influence, but have not been tested include: 
             - MC being at the max level for each Grade 
-            - Completing all the request in each Abyss as a seperate, but related trigger to reputation level 
+            - Completing all the request in each Abyss as a seperate, but related trigger to Reputation level 
 
 ??? note "Junk Tier 9 (Seven Luminaries)" 
 
