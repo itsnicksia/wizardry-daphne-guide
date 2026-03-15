@@ -478,8 +478,8 @@ Since the event is available to all players at every stage of the game Drecom ha
     ??? note "Grade"
     
         - The most straight forward variable to progress. It is based only on the MC's Grade and not the rest of your team. Passing the Grade Exam is not sufficient. You must spend the tags and promote your MC. 
-        - New players will want to target Steel Grade, if possible. If you already at Copper Grade, then you will likely have Luminaries junk unlocked. 
-        - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your Reputation level is lagging. You will likely have to do additional Reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Luminaries. 
+        - New players will want to target Steel Grade, if possible. If you already at Copper Grade, then you will likely have Seven Luminaries junk unlocked. 
+        - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your Reputation level is lagging. You will likely have to do additional Reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Seven Luminaries. 
     
     ??? note "Abyss Progression" 
     
@@ -517,7 +517,8 @@ Since the event is available to all players at every stage of the game Drecom ha
         - Increase MC's Grade to Steel or Copper, ideally. 
         - Make more progress in your current Abyss. 
             - The game is built around unlocking new Guild requests, side dungeons, etc. once you reach a Major Harken in an Abyss or defeat the GWO. We suspect the junk unlocking system also uses these event flags. 
-            - The primary floors to progress toward would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating a GWO.  
+            - The primary floors to progress toward would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating a GWO. 
+        - Complete the "True" endings for A1 and A2. 
         - Complete the "Best" endings for the Special Requests, which are listed under the Events section in the navigation list.
         - Grind Reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
         - Complete all Guild requests you have access to at least once. 
