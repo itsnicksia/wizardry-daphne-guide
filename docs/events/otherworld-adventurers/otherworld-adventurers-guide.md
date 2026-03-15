@@ -343,7 +343,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
             - Level 4-5 SPD bondmates on everyone if possible. 
             - Story bondmate Ugo (A2) provides ASPD. 
             - Story bondmates Harry (A1) and Liam (A3) both provide Stun Tolerance. 
-            - DIV bondmates (Ira, Melgina, Iris, and William) can help your Mage/Priest hit 300 DIV with a 1H Staff.  
+            - DIV bondmates (Ira, Melgina, Iris, and William) can help your Mage/Priest hit 300 DIV with a 1H Staff and Shield.  
     
     === "Strategy"
 
@@ -351,7 +351,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
     === "Other"
 
-        - Can drop OtherWorld Dragon Blood, which is a one-time consumable that lower's a target's damage by ~10% for 4 turns. Drop rate seems to be about 20-25%. 
+        - Can drop Otherworld Dragon Blood, which is a one-time consumable that lower's a target's damage by ~10% for 4 turns. Drop rate seems to be about 20-25%. 
         - Can drop a unique Ebonsteel tier 2H Mace (Black Dragon Warhammer). 
             - It has -25 Surety, but comes with Defense Penetration. 
             - Can drop from the normal Black Dragon (~6-7% drop rate) 
