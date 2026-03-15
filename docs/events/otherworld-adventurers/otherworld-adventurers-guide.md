@@ -211,7 +211,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         4. Turn in the request and accept the Slay the Fire Dragon request. Head to the Tavern and ask Iarumas for help. Leave the Guild and an automatic cutscene will start where you can ask Ainikki for help. This time, Iarumas will ask her to help as well.
         5. Ainikki agrees, but requires equipment to defeat the Black Dragon. Head to the Blacksmith to help her craft a Morningstar. You will need several ore on B2F and B3F. See map tabs for locations.
         6. Return to the Blacksmith and he will craft the Morningstar. 
-        7. Return to the Black Dragon on B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. Kill the Black Dragon. It will attempt one final attack but Ainikki will cut off its head. Iarumas and Ainikki head into the Other World, but you are still unable to follow them. You bid each other farewell.
+        7. Return to the Black Dragon on B3F. Ainikki will cast Milwa for you when she is in your party to clear the dark fog. Kill the Black Dragon. It will attempt one final attack but Ainikki will cut off its head. Iarumas and Ainikki head into the Otherworld, but you are still unable to follow them. You bid each other farewell.
         8. Return to the Guild to turn in the request. 
 
     === "B1F"
@@ -234,7 +234,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord member at Bronze Grade (level 40) that has been able to enter the Otherworld Rift and encounter the superboss. 
     - It is unclear if this is a bug or there are additional requirements that have yet to be identified. 
 
-??? note "How to Enter the Other World Rift"
+??? note "How to Enter the Otherworld Rift"
 
     === "Guide" 
 
@@ -279,15 +279,14 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
             - Basic attack: Very low damage ST attack. 
         - Magical 
             - Can cast any elemental MA spell aside from Mabadios and Maforos. Mazelos is used the most frequently. 
-            - Can cast any debuff in the game. Batilgref (ASPD down) is the most dangerous and Balafeos (ATK down) is the most annoying if it cannot be removed before your DPS acts. To remove debuffs use Abit 1-2. There is no shop item.  
+            - Can cast any debuff in the game (Balafeos, Batilgref, Dilto, Morlis, and Nofis). Batilgref (ASPD down) is the most dangerous and Balafeos (ATK down) is the most annoying if it cannot be removed before your DPS acts. To remove debuffs use Abit 1-2. There is no shop item.  
         - One-time Speed Boost
             - Triggers at roughly 50% HP. 
             - It is not linked to a specific skill and there is no pop-up to indicate that its ASPD has changed. 
 
     === "Attack Pattern"
 
-        - Follows a strict pattern until it is at low health (15-20% HP). 
-        - The pattern is as follows (Unique > Physical > Magical > Unique):
+        - Follows a strict pattern until it is at low health (15-20% HP). The pattern is as follows (Unique > Physical > Magical > Unique):
             - Unique Phase
                 - Roar
                 - BFB
@@ -297,7 +296,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
                 - Tail
                 - ST physical attack (Claw or basic attack) 
             - Magical Phase
-                - 2x MA spell on either row. Seems completely RNG-based. If it uses a Type advantage MA spell on your backrow it is likely one or more units will die if it targes the same row again. 
+                - 2x MA spell on either row (RNG-based). If it uses a Type advantage MA spell on your backrow it is likely one or more units will die if it targes the same row again. 
                 - Debuff spell on a row. These need to be removed immediately. They are extremely powerful and reduce the stat by roughly 90%. 
             - Low HP Trigger
                 - At low HP it will use Roar, BFB, or Bite for its third action during _any_ phase. 
@@ -347,15 +346,18 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     
     === "Strategy"
 
+        - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
+        - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked (not always) or Batilgref'd (consistent). It is recommended to try and slow the Dragon down with Batilgref and Scroll of Cascading Slowing.
         - Forthcoming. 
 
     === "Other"
 
-        - Can drop Otherworld Dragon Blood, which is a one-time consumable that lower's a target's damage by ~10% for 4 turns. Drop rate seems to be about 20-25%. 
-        - Can drop a unique Ebonsteel tier 2H Mace (Black Dragon Warhammer). 
-            - It has -25 Surety, but comes with Defense Penetration. 
-            - Can drop from the normal Black Dragon (~6-7% drop rate) 
-        - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. Cursed Wheeling from the Ruins does not work, but it will reset the 2 chests. 
+        - Unique Drops 
+            - Otherworld Dragon Blood, which is a one-time consumable that lower's a target's damage by ~10% for 4 turns. Drop rate seems to be about 20-25%. 
+            - Ebonsteel tier 2H Mace (Black Dragon Warhammer). It has -25 Surety, but comes with Defense Penetration. Can also drop from the normal Black Dragon (~6-7% drop rate).  
+        - How to Reset
+            - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. 
+            - Cursed Wheeling from the Ruins does not work, but it will reset the 2 chests. 
         - Requires 5 fights for max Compendium pips and 3D viewer. 
 
     === "Handsome Boi"
