@@ -57,7 +57,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 332,Head!A332,Head,,Earthrend Headband,Silver,Cloth,,,0,0,0,9,0,0,0,0,6,6,0,0,0,14,0,0,0,0,0,11,0,0,0,19,0,0,0,0,0,16,0,0,0,25,0,0,0,0,0,21,0,0,0,31,0,0,0,0,6,26,Water Type Reduction
 338,Head!A338,Head,,Seafoam Headband,Silver,Cloth,,,0,0,0,9,0,0,0,0,6,6,0,0,0,14,0,0,0,0,0,11,0,0,0,19,0,0,0,0,0,16,0,0,0,25,0,0,0,0,0,21,0,0,0,31,0,0,0,0,6,26,Fire Type Reduction
 344,Head!A344,Head,3213,Snow Wolf Trapper Hat,Silver,Cloth,,,0,0,0,9,0,1,0,0,6,6,0,0,0,14,0,1,0,0,6,11,0,0,0,19,0,1,0,0,6,16,0,0,0,25,0,1,0,0,6,21,0,0,0,31,0,1,0,0,6,26,Freeze Tolerance
-350,Head!A350,Head,3214,Great Snow Wolf Trapper Hat,Silver,Cloth,,1275,0,0,0,9,0,3,0,0,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Freeze Tolerance
+350,Head!A350,Head,3214,Great Snow Wolf Trapper Hat,Silver,Cloth,,1275,0,0,0,9,0,3,0,0,6,6,0,0,0,14,0,3,0,0,6,11,0,0,0,19,0,3,0,0,6,16,,,,,,,,,,,,,,,,,,,,,Freeze Tolerance
 356,Head!A356,Head,,Dire Snowbird's Crest Feathers,Silver,Cloth,,,0,0,0,1,0,5,0,0,10,6,0,0,0,6,0,7,0,0,12,11,0,0,0,11,0,8,0,0,13,16,0,0,0,17,0,9,0,0,14,21,0,0,0,23,0,10,0,0,15,26,
 362,Head!A362,Head,,Snow Beastfolk Fur Mask,Silver,Cloth,,,0,0,0,20,0,-10,2,0,0,0,0,0,0,25,0,-10,4,0,0,5,0,0,0,30,0,-10,7,0,0,10,,,,,,,,,,,,,,,,,,,,,"Maximum Body Temperature Increase, Detect +1/?/?/?/?"
 368,Head!A368,Head,Ex.,Glasses of Calm,Silver,Cloth,,,0,7,0,12,0,0,0,0,0,10,0,12,0,18,0,0,0,0,0,16,0,16,0,24,0,0,0,0,0,22,,,,,,,,,,,,,,,,,,,,,Passive I.Q. Up
@@ -264,7 +264,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 218,Hands!A218,Hands,,Golden Gloves,Silver,Cloth,,,0,0,0,15,-5,3,2,0,0,0,0,0,0,20,-5,3,5,0,0,0,0,0,0,25,-5,3,10,0,0,0,0,0,0,31,-5,3,17,0,0,0,0,0,0,37,-5,3,28,0,0,0,"Disarm Trap +6/8/9/?/?, Evade Trap +?/?/7/?/?, Old values (+7/9/11/12/13) were with Treasure Trap Disarm Skill"
 224,Hands!A224,Hands,,Hunting Gloves,Silver,Cloth,,,0,0,0,8,0,3,5,2,0,0,0,0,0,13,0,3,8,2,0,0,0,0,0,18,0,3,13,2,0,0,0,0,0,24,0,3,20,2,0,0,0,0,0,30,0,3,31,2,0,0,Magical Beast Resistance
 230,Hands!A230,Hands,Ex.,Red Spinner Woman Spellwoven Cloth,Silver,Cloth,,,0,0,0,25,0,0,-2,0,0,10,0,0,0,36,0,0,-2,0,0,12,0,0,0,41,0,0,-2,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
-236,Hands!A236,Hands,,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,5,0,0,0,0,0,0,26,0,0,10,0,0,0,0,0,0,33,0,0,16,0,0,0,,,,,,,,,,,
+236,Hands!A236,Hands,,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,5,0,0,0,0,0,0,26,0,0,10,0,0,0,0,0,0,33,0,0,16,0,0,0,0,0,0,39,0,0,22,0,0,0,
 242,Hands!A242,Hands,3244,Calm Wind Stun Guard,Silver,Light,,,0,0,0,13,0,0,0,0,0,0,0,0,0,20,0,0,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Air Type Reduction, Paralysis Tolerance"
 248,Hands!A248,Hands,3244,Gauntlets of Cardinal Silver,Silver,Light,,,0,0,5,20,0,0,0,0,0,0,0,0,5,26,0,0,6,0,0,0,,,,,,,,,,,0,0,5,36,0,0,16,0,0,0,,,,,,,,,,,Blunt Weapon Proficiency
 254,Hands!A254,Hands,,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,0,0,0,30,0,0,3,0,0,0,0,0,0,35,0,0,8,0,0,0,0,0,0,42,0,0,14,0,0,0,0,0,0,48,0,0,20,0,0,0,
@@ -369,7 +369,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 434,Body!A434,Body,Ex.,Crimson Blossom Domaru Cuirass,Silver,Light,,,0,0,0,58,12,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,0,0,0,90,36,-1,-2,0,-2,0,,,,,,,,,,,Passive I.Q. Up
 440,Body!A440,Body,Ex.,Breastplate of Cardinal Hope,Silver,Light,,,0,0,5,62,6,-1,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,0,0,5,94,30,-1,-2,0,-2,0,,,,,,,,,,,Piety Barrier
 446,Body!A446,Body,,Silver Heavy Armor,Silver,Heavy,,,0,0,0,79,0,-2,-2,0,-4,0,0,0,0,95,9,-2,-2,0,-4,0,0,0,0,107,17,-2,-2,0,-4,0,0,0,0,122,26,-2,-2,0,-4,0,0,0,0,135,36,-2,-2,0,-4,0,
-452,Body!A452,Body,,Snow Beastfolk Fur Armor,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-8,0,0,0,0,92,9,-2,-2,0,-8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Maximum Body Temperature Increase"
+452,Body!A452,Body,,Snow Beastfolk Fur Armor,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-8,0,0,0,0,92,9,-2,-2,0,-8,0,0,0,0,104,17,-2,-2,0,-8,0,,,,,,,,,,,,,,,,,,,,,"Passive HP Up, Maximum Body Temperature Increase"
 458,Body!A458,Body,,Earthrend Heavy Mail,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,Water Type Reduction
 464,Body!A464,Body,,Seafoam Heavy Mail,Silver,Heavy,,,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,Fire Type Reduction
 470,Body!A470,Body,Ex.,Heavy Armor of Bloodrage,Silver,Heavy,,,0,0,0,93,0,-2,-2,0,-4,15,0,0,0,112,11,-2,-2,0,-4,20,0,0,0,125,19,-2,-2,0,-4,24,0,0,0,134,24,-2,-2,0,-4,26,,,,,,,,,,,HP Absorption on Defeat
@@ -452,7 +452,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 338,Accessories!A338,Accessories,,Exquisite Trollkin Ring,Silver,Accessory,,,0,0,0,3,20,0,0,0,0,0,0,0,0,13,20,0,0,0,0,0,0,0,0,21,20,0,0,0,0,0,0,0,0,31,20,0,0,0,0,0,0,0,0,39,20,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement (Conditional)"
 344,Accessories!A344,Accessories,,Large Bag,Silver,Accessory,,,0,0,0,15,40,5,0,0,0,0,0,0,0,27,42,7,0,0,0,0,0,0,0,35,43,8,0,0,0,0,0,0,0,42,44,9,0,0,0,0,,,,,,,,,,,Dragon Resistance
 350,Accessories!A350,Accessories,,Bracelet of Spellcraft Infused with Power,Silver,Accessory,,,0,10,0,30,5,-10,-5,0,10,-10,0,12,0,30,13,-10,-5,0,12,-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-356,Accessories!A356,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+356,Accessories!A356,Accessories,,Ring of Tactics Infused with Power,Silver,Accessory,,,0,-5,0,-20,30,0,10,5,10,-10,0,-5,0,-20,30,0,12,7,12,-10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 362,Accessories!A362,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 368,Accessories!A368,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 374,Accessories!A374,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

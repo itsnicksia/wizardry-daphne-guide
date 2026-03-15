@@ -492,7 +492,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,Sam_Katana!A140,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,Sam_Katana!A146,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Sam_Odachi!A2,Sam_Odachi,236,Standard Odachi,Bronze,1,2025,240,30,6,0,0,0,-8,3,10,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+2,Sam_Odachi!A2,Sam_Odachi,236,Standard Odachi,Bronze,1,2025,240,30,6,0,0,0,-8,3,10,-6,0,41,12,0,0,0,-8,3,10,-6,0,52,17,0,0,0,-8,3,10,-6,0,63,23,0,0,0,-8,3,10,-6,0,75,29,0,0,0,-8,3,10,-6,0,Strength-Based +
 8,Sam_Odachi!A8,Sam_Odachi,,Fine Odachi,Iron,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 14,Sam_Odachi!A14,Sam_Odachi,,Refined Odachi,Steel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 20,Sam_Odachi!A20,Sam_Odachi,239,Exquisite Odachi,Ebonsteel,1,,,109,30,0,0,0,-8,3,10,-6,0,132,42,0,0,0,-8,3,10,-6,0,154,53,0,0,0,-8,3,10,-6,0,177,64,0,0,0,-8,3,10,-6,0,,,,,,,,,,,Strength-Based +
