@@ -249,19 +249,111 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 ??? danger "Black Dragon Superboss Fight"
     ![](img/black-dragon-superboss.png)
 
-    - Has around 105k-120k HP. Has three actions per turn. Does not have very high Surety Evasion.
-    - Has the typical moveset of the Black Dragon such as Roar (stuns), Black Flame Breath (weakens), Claw, Tail Swipe, Morlis, etc.
-    - The dragon itself is dark element, and all of its melee attacks are dark element as well. As a result, it's highly recommended to equip various pieces of light armor if possible, along with using Augmented Dragonslayer if suitable.
-    - The Bite attack of the Black Dragon can potentially do 4 digit damage.
-    - The dragon tends to alternate between using Roar + Breath in one set of 3 actions, and melee attacks + casting magic in another set of 3 actions.
-    - The Black Dragon's Balafeos is extremely potent, as it'll drop your physical damage to around 10% of its original damage.
-    - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked (not always) or Batilgref'd (consistent). It is recommended to try and slow the Dragon down with Batilgref and Scroll of Cascading Slowing.
-    - The dragon can be debuffed, but it isn't consistent. It is also possible to apply status effects on this dragon, but it isn't consistent. It is immune to Montino.
-    - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
-    - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. In addition, the boss may drop a rare consumable that when used reduces enemy's damage dealt. It's also entirely possible this boss drops nothing.
-    - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
-    - For max Compendium pips you need to fight him 5 times. 
-    - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. Normal Cursed Wheeling does not work, but it will reset the 2 chests. 
+    === "Stats"
+
+        - Type: Dark 
+        - Race: Dragon 
+        - HP: 105-120K 
+        - 3 actions per turn. 
+        - High ASPD (need 93 ASPD, minimum on the entire team). At roughly 50% HP he will gain an ASPD boost that is not shown and has the potential to start lapping your units. Similar to the Sealed Greater Demon its HP and ASPD are RNG-based within a certain band. It is possible to get a "high" HP and/or ASPD version of the fight.
+        - Low SUR EVA. Possible to get SUR attacks on a regular basis. 
+        - Amulet Shard works 100% of the time. The debuff lasts the entire battle and reduces all damage by 25-30%. Can be purchased at the Exchange Shop for 1,000 currency. 
+        - Immune to Openings. 
+        - Immune to Montino. Debuff and status effect applications do not consistently land aside from Batilgref. 
+        - Immune to Delay Attack. 
+        - Highly resistant to Chrono 1-2. It still works even if you do not see the pop-up message, but the effect is weaker. Stronger with a multi-hit weapon like Cuisinart or Raven Dagger since it seems it apply the effect per attack.    
+
+    === "Moveset"
+
+        - Unique
+            - Roar - Party-wide attack that can stun. 
+            - Black Flame Breath (BFB) - Causes Weaken, which reduces MAX HP by 10% and can stack up to 30%. It can only be removed by dying. 
+        - Physical
+            - All its physical attacks are Dark Type (element). 
+            - Bite - Extremely high damage (up to 4-digits) ST attack. 
+            - Tail - Medium damage row attack.
+            - Claw - Low damage ST attack that can cause Bleed that causes damage each time a unit takes an action. 
+            - Basic attack - Very low damage ST attack. 
+        - Magical 
+            - Can cast any elemental MA spell aside from Mabadios and Maforos. Mazelos is used the most frequently. 
+            - Can cast any debuff in the game. Batilgref (ASPD down) is the most dangerous and Balafeos (ATK down) is the most annoying if it cannot be removed before your DPS acts. To remove debuffs use Abit 1-2. There is no shop item.  
+        - One-time Speed Boost
+            - Triggers at roughly 50% HP. 
+            - It is not linked to a specific skill and there is no pop-up to indicate that its ASPD has changed. 
+
+    === "Attack Pattern"
+
+        - Follows a strict pattern until it is at low health (15-20% HP). 
+        - The pattern is as follows:
+            - Unique phase
+                - Roar
+                - BFB
+                - ST physical attack (Claw or basic attack)
+            - Physical phase
+                - Bite
+                - Tail
+                - ST physical attack (Claw or basic attack) 
+            - Magical phase
+                - 2x MA spell on either row. Seems completely RNG-based. If it uses a Type advantage MA spell on your backrow it is likely one or more units will die if it targes the same row again. 
+                - Debuff spell on a row. These need to be removed immediately. They are extremely powerful and reduce the stat by roughly 90%. 
+            - Low HP changes
+                - At low HP it will use Roar, BFB, or Bite for its third action during _any_ phase. 
+                - At this point the fight becomes a DPS race. Multiple Roars or BFBs in a row with Weaken stacked can wipe out your entire team even with Knight's Defense and other buffs up. 
+
+        === "Preparation"
+
+            === "Gear"
+            
+                - Dark Resistance 
+                    - 2x Light Gear (Heady, Body, Accessory) is mandatory on everyone. Each piece of Light gear reduces damage from all sources by roughly ~15% and can be stacked up to ~45% with a full set. 
+                    - Light gear can be farmed from the Cave of Separation or Den of Light (dungeon or dispatch). 
+                    - Perfect gear is not required. We recommend that you enhance the gear to +5-10, if possible, and alter ASPD.
+                    - For end game players with +15-20 pieces your Morgus loadout will work well for this fight.  
+                    - Depending on your account and a unit's HP you can add or remove a piece of Light gear, but 2x for your first fight can give you a good baseline.  
+                - Dragon Resistance 
+                    - Augmented Dragon Sword on the entire front line provides an additional 15% damage reduction. 
+                    - For spenders the Large Bag and Challenger's Training Garb from the "Those Who Came from Beyond" banner both provide Dragon Resistance. 
+                    - Note: The Trollkin Ring _increases_ damage done _to_ Dragons, but does not reduce damage from its attacks. 
+                - ASPD
+                    - Having all units above 100+ ASPD is borderline mandatory for this fight. 
+                    - 3x ASPD Boots and Body pieces are the easiest to build. Note that if you use a 3X ASPD Body piece, then you are locked into use use a Light Head and/or Accessory. Boots have no conflicts with damage reduction gear. 
+                    - Mage/Priest can use a 1H Staff and Shield to maximize their ASPD. 
+                - Other
+                    - Putting a 2H staff in the inventory of anyone that can cast Madios will be helpful for an emergency Madios.  
+                    - If using MC Chrono (highly recommended), then make sure you bring a multi-hit weapon. The A4 Item Shop sells the Ice Axe (4x hits) for 55,000 gold.  
+            === "Items"
+            
+                - Amulet Shard
+                    - Purchased from the Exchange Shop for 1,000 currency. Makes the fight significantly easier for F2P as its 25-30% damage reduction from all sources and lasts the entire battle. 
+                    - May want to bring more than one in case the debuff gets knocked off.  
+                - SP pots 
+                    - Maintain Knight's Defense, refresh MC if using Chrono 2, or top-off any unit that is running low.
+                    - There are 6 SP pots that you can farm faily from A1 and A3. See Respawning Tracker for details. 
+                - MP pots (optional)
+                - 1x Sacred Tree Sap (600 HP) for emergency healing on everyone.
+                - 1x Batilgref scrolls on every unit and multiple (3-5x) copies on your Mage/Priests.
+                - Other buff scrolls for Macaldia, Porto, Cortu, Makalatu, etc. depending on your personal play style.  
+                - 1x Bell of Vigor on anyone that cannot cast Dialko to remove Stun. 
+            
+            === "Bondmates"
+            
+                - Level 4-5 SPD bondmates on everyone if possible. 
+                - Story bondmate Ugo (A2) provides ASPD. 
+                - Story bondmates Harry (A1) and Liam (A3) both provide Stun Tolerance. 
+                - DIV bondmates (Ira, Melgina, Iris, and William) can help your Mage/Priest hit 300 DIV with a 1H Staff.  
+        
+        === "Strategy"
+
+            - Forthcoming. 
+
+        === "Other"
+
+            - Can drop OtherWorld Dragon Blood, which is a one-time consumable that lower's a target's damage by ~10% for 4 turns. Drop rate seems to be about 20-25%. 
+            - Can drop a unique Ebonsteel tier 2H Mace (Black Dragon Warhammer). 
+                - It has -25 Surety, but comes with Defense Penetration. 
+                - Can drop from the normal Black Dragon (~6-7% drop rate) 
+            - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. Cursed Wheeling from the Ruins does not work, but it will reset the 2 chests. 
+            - Requires 5 fights for max Compendium pips and 3D viewer. 
 
 ## Farming
 
