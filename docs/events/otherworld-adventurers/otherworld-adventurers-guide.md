@@ -270,12 +270,12 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
         - Unique 
             - Roar: Party-wide attack that can stun. 
-            - Black Flame Breath (BFB): Causes Weaken, which reduces MAX HP by 10% and can stack up to 30%. It can only be removed by dying. 
+            - Black Flame Breath (BFB): Causes Weaken, which reduces Max HP by 10% and can stack up to 30%. It can only be removed by dying. 
         - Physical
             - All its physical attacks are Dark Type (element). 
             - Bite: Extremely high damage (up to 4-digits) ST attack. 
             - Tail: Medium damage row attack.
-            - Claw: Low damage ST attack that can cause Bleed that causes damage each time a unit takes an action. 
+            - Claw: Low damage ST attack. Can cause Bleed, which damages a unit each time they take an action.
             - Basic attack: Very low damage ST attack. 
         - Magical 
             - Can cast any elemental MA spell aside from Mabadios and Maforos. Mazelos is used the most frequently. 
@@ -286,7 +286,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
     === "Attack Pattern"
 
-        - Follows a strict pattern until it is at low health (15-20% HP). The pattern is as follows (Unique > Physical > Magical > Unique):
+        - Follows a strict pattern until it is at low health (15-20% HP). 
+        - The pattern is as follows (Unique > Physical > Magical > Unique):
             - Unique Phase
                 - Roar
                 - BFB
@@ -314,14 +315,15 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
                 - Depending on your account and a unit's HP you can add or remove a piece of Light gear, but 2x for your first fight can give you a good baseline.  
             - Dragon Resistance 
                 - Augmented Dragon Sword on the entire front line provides an additional 15% damage reduction. 
-                - For spenders the Large Bag and Challenger's Training Garb from the "Those Who Came from Beyond" banner both provide Dragon Resistance. 
-                - Note: The Trollkin Ring _increases_ damage done to Dragons, but does _not_ reduce damage from their attacks. 
+                - For spenders, the Large Bag and Challenger's Training Garb from the "Those Who Came from Beyond" banner both provide Dragon Resistance. 
+                - Note: The Trollkin Ring _increases_ damage done to Dragons, but does _not_ reduce damage from their attacks. High HP units may be able to use this in lieu of a Light Amulet.  
             - ASPD
                 - Having all units above 100+ ASPD is borderline mandatory for this fight. 
-                - 3x ASPD Boots and Body pieces are the easiest to build. Note that if you use a 3X ASPD Body piece, then you are locked into use use a Light Head and/or Accessory. Boots have no conflicts with damage reduction gear. 
-                - Mage/Priest can use a 1H Staff and Shield to maximize their ASPD. 
+                - 3x ASPD Boots and Body pieces are the easiest to build. Note that if you use a 3X ASPD Body piece, then you are locked into using use a Light Head and/or Accessory. 
+                - Boots have no conflicts with damage reduction gear. 
+                - Mage/Priest can use a 1H Staff and Shield to maximize their ASPD. It is fairly easy to stack 3x Light gear on them since all you care about for this fight in their ASPD and being able to move before the rest of the team.  
             - Other
-                - Putting a 2H staff in the inventory of anyone that can cast Madios will be helpful for an emergency Madios.  
+                - Putting a 2H staff in the inventory of anyone that can cast Madios will be helpful for emergency healing.  
                 - If using MC Chrono (highly recommended), then make sure you bring a multi-hit weapon. The A4 Item Shop sells the Ice Axe (4x hits) for 55,000 gold.  
         === "Items"
         
@@ -348,7 +350,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
         - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
         - The dragon is immune or highly resistant to Chronostasis, but can be Delay Attacked (not always) or Batilgref'd (consistent). It is recommended to try and slow the Dragon down with Batilgref and Scroll of Cascading Slowing.
-        - Forthcoming. 
+        - Additional information to be added soon.
 
     === "Other"
 
