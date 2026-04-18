@@ -238,6 +238,144 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Skeleton Archer 2x
+        - Backline: Poltergeist 2x
+
+=== "Match 2"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Vorpal Bunny 3x
+        - Backline: Evil Eye 1x
+
+=== "Match 3"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Chimera 1x
+        - Backline: Indigo Ninja 2x
+
+=== "Match 4"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Ninja 3x
+        
+=== "Match 5"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Greater Demon 1x
+        - Backline: Skeleton Archer 3x
+
+=== "Match 6"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Fire Goblin 3x
+        - Backline: Fire Pixie 2x
+
+=== "Match 7"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Fire Insect 3x
+        - Backline: Fire Entity 2x
+
+=== "Match 8"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Fire Fly 3x
+        - Backline: Fire Hawk 2x
+
+=== "Match 9"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Fire Slime 3x
+        - Middle: Fire Cloud 3x
+        - Backline: 2x Fire Goblin Archer, 1x Fire Goblin Mage
+
+=== "Match 10"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Minotaur 2x
+        - Backline: Fire Entity 3x
+        - Debuff Applied: Beastfolk Stats Down
+
+=== "Match 11"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Earth Cloud 4x
+
+=== "Match 12"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Gorgon 2x
+        - Backline: Earth Pixie 3x
+
+=== "Match 13"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Earth Big Slime 1x
+        - Backline: Earth Entity 2x
+
+=== "Match 14"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Wight 2x
+        - Backline: Desert Fly 2x, Earth Big Slime 1x
+
+=== "Match 15"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: Light Succubi 2x, Necrocore 1x
+        - Backline: Necromancer 1x
+        - Debuff Applied: Elf Stats Down
+
+### Heroic League
+
+=== "Match 1"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
 
 === "Match 2"
 
@@ -302,8 +440,6 @@
 
     === "Fight Details"
 
-
-
 === "Match 11"
 
     === "Fight Image"
@@ -339,9 +475,41 @@
 
     === "Fight Details"
 
-### Heroic League
+=== "Match 16"
 
-??? danger "Match 1"
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 17"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 18"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 19"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 20"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
 
 
 
