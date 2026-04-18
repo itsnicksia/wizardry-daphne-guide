@@ -140,7 +140,7 @@
 
 ### Adept League
 
-=== danger "Match 1"
+=== "Match 1"
 
     === "Fight Image"
         ![](./img/)
@@ -149,7 +149,7 @@
         - Frontline: Earth Hobgoblin 2x
         - Backline: Earth Creeping Coin 2x
 
-=== danger "Match 2"
+=== "Match 2"
 
     === "Fight Image"
         ![](./img/)
@@ -158,7 +158,7 @@
         - Frontline: Earth Sahuagin 3x
         - Backline: Earth Cloud 2x
         
-=== danger "Match 3"
+=== "Match 3"
 
     === "Fight Image"
         ![](./img/)
@@ -167,7 +167,7 @@
         - Frontline: Earth Big Slime 1x
         - Backline: Earth Entity 4x
         
-=== danger "Match 4"
+=== "Match 4"
 
     === "Fight Image"
         ![](./img/)
@@ -176,7 +176,7 @@
         - Frontline: Desert Fly 3x
         - Backline: Earth Sahuagin Archer 2x, Earth Creeping Coin 1x
 
-=== danger "Match 5"
+=== "Match 5"
 
     === "Fight Image"
         ![](./img/)
@@ -185,7 +185,7 @@
         - Frontline: Earth Pixie 4x
         - Backline: Earth Pixie 1x, Hydra Plant 1x
 
-=== danger "Match 6"
+=== "Match 6"
 
     === "Fight Image"
         ![](./img/)
@@ -194,7 +194,7 @@
         - Frontline: Water Sahuagin 2x, Water Lizardman 1x
         - Backline: Sahuagin Archer 1x, Sahuagin Mage 1x
 
-=== danger "Match 7"
+=== "Match 7"
 
     === "Fight Image"
         ![](./img/)
@@ -203,7 +203,7 @@
         - Frontline: Scorpion Lady 1x
         - Backline: Earth Entity 3x
 
-=== danger "Match 8"
+=== "Match 8"
 
     === "Fight Image"
         ![](./img/)
@@ -212,7 +212,7 @@
         - Frontline: Pirate Berserker 2x
         - Backline: Gluttonous Maw 2x
 
-=== danger "Match 9"
+=== "Match 9"
 
     === "Fight Image"
         ![](./img/)
@@ -221,7 +221,7 @@
         - Frontline: Water Lizardman Champion 
         - Backline: Pirate Deacon 2x
 
-=== danger "Match 10"
+=== "Match 10"
 
     === "Fight Image"
         ![](./img/)
