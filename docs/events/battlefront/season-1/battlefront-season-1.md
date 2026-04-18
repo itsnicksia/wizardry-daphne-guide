@@ -376,6 +376,12 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Hobgoblin 2x, Goblin 1x
+        - Backline: Goblin Mage 1x, Goblin Shaman 1x, Goblin Archer 1x
+
+    === "Fight Tips"
+        - All the enemies use their standard skillsets. All of them are evadable with Dark Element units with 230+ EVA.
+        - Kill the magic casting backline units first. Kill the rest with basic attacks to conserve SP.
 
 === "Match 2"
 
@@ -383,6 +389,13 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Hobgoblin 3x
+        - Backline: Mage Adventurer 3x
+
+    === "Fight Tips"
+        - Mage Adventurers tend to prioritze casting BALAFES first on any rows without ATK debuff. They also prefer casting other debuff spells, but can cast single-target attack spells sometimes. The BALAFEOS is quite strong so ABIT it ASAP on ATK-scaling units.
+        - Hobgoblins use their standard skillset. Can be evaded with Dark Element units with 230+ EVA.
+        - Kill the mages first ASAP. Kill the rest with basic attacks to conserve SP.
 
 === "Match 3"
 
@@ -390,6 +403,16 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Vorpal Bunny 2x, Large Slime 1x
+        - Middle: Wind Entity 2x, Water Slime 2x
+        - Backline: Ninja 2x
+
+    === "Fight Tips"
+        - Bunnies have extremely high evasion and decently high HP. they can be instantly frozen with MADALTO and then killed in one with with a 700-800 ATK 2H Sword Lvl 1 ESS or Poised.
+        - The Big Slime and Water Slimes can be evaded entirely with Dark Element units with 230+ EVA.
+        - The Entities can be evaded if they are not casting magic with the previously mentioned stats.
+        - The Ninjas tend to cast low accuracy row status effects or low damage row magic. They can be evaded otherwise.
+        - It's recommended to kill in the order of Bunnies, Ninjas, Entities, and Slimes.
 
 === "Match 4"
 
@@ -397,13 +420,27 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
+        - Backline: Mage Adventurer 1x, Ninja 2x
 
+    === "Fight Tips"
+        - It's recommended to clear the backline first. See previous entries for how these enemies function. They will be consistent throughout the run.
+        - It's possible to evade the Red Spinner Woman and Scorpion Lady but they might require MASOLOTU + DILTO applied as they are a bit more accurate. BATILGREF also helps buy a lot of time to kill the backline first before dealing with the frontline.
+        - It's recommended to kill in the order of Mage, Ninja, Red Spinner Woman, Scorpion Lady.
+        
 === "Match 5"
 
     === "Fight Image"
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Giant Monster Bird 1x
+        - Backline: Air Hawk 3x
+
+    === "Fight Tips"
+        - This is probably one of the more annoying fights for a majority of the runs, as it drains a lot of resources. It's recommended to deal with the Hawks immediately by using KATINO, which is nearly guaranteed on them. If they are not taken care of they can easily surety for over 1K damage. Otherwise, they have rather low HP and can be killed with ESS or Poised after being slept despite being in the backline.
+        - The Monster Bird itself has very high HP, perhaps around 100k or higher. It's also extremely evasive, so it's recommended to apply MACALDIA to your DPS and debuff it's evasion via BATILGREF and Chill. The Monster Bird is immune to the CT debuffing effects of BATILGREF but not the EVA debuffing portion. The single target attack of the Monster Bird is evadable.
+        - Knights can be employed here if necessary to survive its full team AOE attack. Alternatively, you can simply equip every unit with Magical Beast Resistance Gear and have two Priests, preferably Dark Element for maximum HP.
 
 === "Match 6"
 
@@ -411,6 +448,7 @@
         ![](./img/)
 
     === "Fight Details"
+        - 
 
 === "Match 7"
 
