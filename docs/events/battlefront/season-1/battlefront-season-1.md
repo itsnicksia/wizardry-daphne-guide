@@ -232,7 +232,110 @@
 
 ### Elite League
 
-??? danger "Match 1"
+=== "Match 1"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 2"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 3"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 4"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 5"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 6"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 7"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 8"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 9"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 10"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 11"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 12"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 13"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 14"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+
+=== "Match 15"
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
 
 ### Heroic League
 
