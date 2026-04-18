@@ -302,6 +302,8 @@
 
     === "Fight Details"
 
+
+
 === "Match 11"
 
     === "Fight Image"
