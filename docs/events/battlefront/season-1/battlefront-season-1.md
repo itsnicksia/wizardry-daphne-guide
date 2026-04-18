@@ -93,50 +93,50 @@
 
 ### Aspirant League
 
-    === "Match 1"
+=== "Match 1"
 
-        === "Fight Image"
-            ![](./img/)
+    === "Fight Image"
+        ![](./img/)
 
-        === "Fight Details"
-            - Frontline: Air Cloud 2x, Skeleton 1x
-            - Backline: Goblin Mage 2x
+    === "Fight Details"
+        - Frontline: Air Cloud 2x, Skeleton 1x
+        - Backline: Goblin Mage 2x
 
-    === "Match 2"
+=== "Match 2"
 
-        === "Fight Image"
-            ![](./img/)
+    === "Fight Image"
+        ![](./img/)
 
-        === "Fight Details"
-            - Frontline: Vorpal Bunny 2x
-            - Backline: Skeleton Archer 3x
+    === "Fight Details"
+        - Frontline: Vorpal Bunny 2x
+        - Backline: Skeleton Archer 3x
 
-    === "Match 3"
+=== "Match 3"
 
-        === "Fight Image"
-            ![](./img/)
+    === "Fight Image"
+         ![](./img/)
 
-        === "Fight Details"
-            - Frontline: Skeleton Knight 2x
-            - Backline: Red Spinner Woman 2x
+    === "Fight Details"
+        - Frontline: Skeleton Knight 2x
+        - Backline: Red Spinner Woman 2x
 
-    === "Match 4"
+=== "Match 4"
 
-        === "Fight Image"
-            ![](./img/)
+    === "Fight Image"
+        ![](./img/)
 
-        === "Fight Details"
-            - Frontline: Scorpion Lady 1x, Goblin Archer 1x
-            - Backline: Goblin Archer 1x
+    === "Fight Details"
+        - Frontline: Scorpion Lady 1x, Goblin Archer 1x
+        - Backline: Goblin Archer 1x
 
-    === "Match 5"
+=== "Match 5"
 
-        === "Fight Image"
-            ![](./img/)
+    === "Fight Image"
+        ![](./img/)
 
-        === "Fight Details"
-            - Frontline: Knight-Butcher Ent 2x
-            - Backline: Skeleton Mage 1x
+    === "Fight Details"
+        - Frontline: Knight-Butcher Ent 2x
+        - Backline: Skeleton Mage 1x
 
 ### Adept League
 
