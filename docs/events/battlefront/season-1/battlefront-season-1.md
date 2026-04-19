@@ -48,7 +48,6 @@
     - <span style="color: #F2473A">Warning!</span> There is a massive difficulty spike between the Elite and Hero Leagues. Only a handful of players globally have been able to clear the content. It is unclear if Drecom plans to adjust the difficulty or leave as-is. 
     - The Hero League is the only exception and can be repeated for the weekly [Hero's Mission](#heros-mission) achievements. 
 
-    
 === "Registration" 
     
     - For the first League, Aspirant, you can register up to 8 members. You can add +4 more members with each additional League up to a maximum of 20.
@@ -157,7 +156,7 @@
 
 ### Hero's Sigil: Dark
 
-!!! danger "Warning"
+!!! danger "Critical Warnings"
 
     - Review this section carefully before registering for the Aspirant League as the medal levels are one-time only. 
     - The Hero League is unpassable for 99.9% of players in its current state. Operate on the assumption that L3 is the maximum that can be reached. Drecom has indicated they will add other ways to increase medal levels in the future. 
