@@ -175,9 +175,8 @@
 
 === "Leveling Mechanics"
 
-    - <span style="color: #F2473A">Warning!</span> As a one-time reward it cannot be farmed or transferred to another unit.  
-    - Each time you clear a league all the units in the battlefront roster recieve 100 EXP (or 1 level) toward the passive skill. 
-    - Since you cannot go back and redo an already cleared league this means that only the first 8 units you selected for the Aspirant league have the potential to reach L4. 
+    - Each time you clear a league all the units in the Battlefront roster recieve 100 EXP (or 1 Level) toward the passive skill. 
+    - Since you cannot redo an already cleared league this means that only the first 8 units you selected for the Aspirant League have the potential to reach L4. 
     - The roster expands by +4 each league, so you can continue to add 4 new members to receive the medal, but at a lower max level. See the table in the next tab.
     - We recommend you think very carefully about what units you want to prioritize, especially with the 2x bonus for Dark units. 
 
