@@ -15,9 +15,11 @@
 
 ## Unlock Requirements
 
-!!! warning "Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King."
+=== "Unlock" 
 
-??? note "How to Accept the Request" 
+    - Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King
+
+=== "How to Accept" 
 
     - Enter the Royal Capital for a brief cutscene. Go to the Beginning Abyss - BF2.
     - Speak with the noble. Your choice does not matter. 
