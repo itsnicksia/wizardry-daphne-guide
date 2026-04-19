@@ -3,55 +3,130 @@
 !!! warning " Work In Progress"
 
     - The page will be heavily updated over the coming days with more details. 
+    - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
+
+# Battlefront of Heroes - Season 1
+
+!!! warning " Work In Progress"
+
+    - The page will be heavily updated over the coming days with more details. 
     - For the next 24 hours we have included the most critical information to know upfront in the red box below.
     - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
 
-!!! danger "Critical Information"
-
-    - You can leave after any match - you are not permanently barred if you need to exit. The game will automatically Cursed Wheel you back to the point before you registered for your latest League. 
-    - Once you clear all matches in a League you are automatically advanced to the next tier. You cannot Cursed Wheel or re-accept the invitation to reattempt a previously cleared League. 
-    - The Hero's Sigil: Dark ("medal")
-        - One-time only reward for the units in your battlefront roster. It cannot be reset, farmed, or transferred to another unit.  
-        - Think -very- carefully about what units would benefit the most as you receive an additional level per league clear. 
-    - There is a significant difficulty spike from the Elite to Hero Leagues. It does not appear to be clearable for F2P or even long-term, highly-invested "dolphins". This may change with more refined strategies over the next week or two. 
-    - The Hero's Award mission requires a total of 6,500 points. For F2P there are weekly missions that allow you to gain additional points. 
-    - There are some serious issues to know in advance:
-        - If you clear the Elite League, then you are permanently locked into the Hero League for weekly missions or completing any remaining achievements under the Hero's Award mission. 
-        - Strongly recommend the average player wait to clear the Elite League until the end of the season. 
-        - Use the Aspirant and Adept Leagues to complete the damage, class (Knight, Mage), race (Human), and Type (Dark) achievements. These may not be feasible for the average player if you are locked into the Elite or Hero Leagues. 
-        - It is possible to get all 6,500 points right now without doing any Hero League matches.  
-    - Fortitude does not recover between matches. It does increase in the background and will be applied after exiting the arena. 
-    - Recovery items of any kind are prohibited.
-
-----------------Work-in-Progress----------------
-
-## Unlock Condition
-
-- Go to Royal Capital Luknalia for a short cutscene and proceed to the Beginning Abyss - BF2.
-- After speaking with the noble you can accept or refuse their offer. It does not matter as you will be taken to the Battlefront of Heroes arena either way.
-- Speak to the receptionist, Beth, to learn more about the arena mechanics.
-- Register your first 8-member team.    
-
 ## Overview
 
-### Arena Buffs 
+!!! warning "Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King."
 
-- Forthcoming. 
+- Battlefront of Heroes was released on 4/16. The first season runs until 6/10. Drecom has announced that they plan to release future seasons on an ongoing basis.  
+- Standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
+- Each season spotlights a subset of units that are granted a special buff based on certain attributes. For Season 1, it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
+- Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. Future seasons will also rewards medals, but only one can be equipped at a time. 
+- The Hero's Award mission offers up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
 
-### League Structure 
+??? note "How to Accept the Request" 
 
-- There are 4 leagues this season. You can register 4 additional units per league up to a maximum of 20. Each league has +5 additional matches.
+    - Enter the Royal Capital for a brief cutscene. Go to the Beginning Abyss - BF2.
+    - Speak with the noble. Your choice does not matter. 
+    - Speak to the receptionist, Beth, to learn more about the arena's rules and mechanics. 
+    - Select "Participate", choose up to 8 members for your roster, and head to the right-hand room to begin your first match. 
 
-<div class="nofilter-table nosort-table equipment-table" markdown>
+## Mechanics
 
-| League Name &emsp; &emsp; &emsp;     | # of Combatants  | # of Matches | 
-|:-------------------------------------|:----------------:|:------------:|
-| Aspirant                             | 8                | 5            | 
-| Adept                                | 12               | 10           | 
-| Elite                                | 16               | 15           | 
-| Hero                                 | 20               | 20           | 
- 
-</div>
+=== "League Structure"
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    | League Name &emsp; &emsp; &emsp;     | # of Combatants  | # of Matches | 
+    |:-------------------------------------|:----------------:|:------------:|
+    | Aspirant                             | 8                | 5            | 
+    | Adept                                | 12               | 10           | 
+    | Elite                                | 16               | 15           | 
+    | Hero                                 | 20               | 20           | 
+     
+    </div>
+
+    - There are 4 Leagues this season. The number of matches starts at 5 and grows by +5 per League to a maximum of 20. 
+    - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. The Hero League is the only exception. 
+    - Drecom's intended design is for you to use units that benefit from the special buff. This becomes increasingly important in the later Leagues.
+    - Do not be afraid to let units die to help you clear certain fights or to preserve resources for your primary team. 
+    
+=== "Registration" 
+    
+    - For the first League (Aspirant) you can register up to 8 members. You can add +4 more members with each additional League up to a maximum of 20.
+    - Dispatched units cannot be registered. 
+    - You do not have to use the same units for each League, but it is -highly- recommended due to how the [medal](#heros-sigil-dark) system works. 
+    - If you fully exit and reset the Battlefront of Heroes, then you must re-register all units for your current League. 
+    
+=== "Pre-Battle"
+
+    - Before each match you can re-arrange your active party using the red "people" icon in the upper right-hand corner.
+    - Speak to the Blackiron Warden for information about the upcoming fight. 
+    - To heal between matches a unit must be in your active party. It is helpful to bring additional healers to conserve your team's MP. 
+    - To change equipment the unit does not need to be in your active party. 
+    - You can use a RES buff while in the waiting room. It will remain active even after accepting the next match. 
+
+=== "During Battle" 
+
+    - Referee Intervention 
+        - The Referee can implement additional buffs or debuffs at the start of the match. Fortunately, it is limited to a small number of fights per League. 
+        - Debuffs can be removed with Abit, but it is usually best to not bring an affected unit as they are very powerful. 
+    - Flee 
+        - You can flee at any point during the match with 100% success. Any effects sustained in combat will carry over. 
+        - No progress is lost. You are sent back to your prior match, which can you can do over again. 
+    
+=== "Death" 
+
+    - MC Death
+        - "Rise again": You will be transported to the waiting room with no impact on your team's HP, MP, or SP. 
+        - "Be carried out": MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored to its pre-match level. Match progress is not lost. 
+        - Death of any kind does not seem to lower the MC's hidden Fortitude value. 
+        - You can gain up to 2 Embers of Resurgence in the Well of the Mind, allowing you to revive up to 5 times. 
+    - Unit Death     
+        - If a unit dies and is revived they will lose 30 Fortitude. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
+        - Fortitude does not recover between matches. 
+        - If you exit the arena via the receptionist Beth, the Fortitude of all units is restored to its original level when you first entered the arena. 
+
+### Battlefront Rules 
+
+- Each season will have a different set of rules and restrictions.
+- Season 1 provides a special buffs to units that are Dark, Human, or use a 2H sword. The buffs are significant and scale as you progress through each League. 
+- You can change MC's Type to Dark in the Well of the Mind to receive the buff. 
+
+=== "Special Buff" 
+
+    === "Table" 
+    
+        | Requirement     | Description                       | Aspirant | Adept | Elite | Hero |
+        |:----------------|:---------------------------------:|:--------:|:-----:|:-----:|------|
+        | Dark Type       | All stats increased               | 1.2x     | 1.3x  | 1.4x  | 1.5x |
+        | Human           | Attack and Magic Power increased  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
+        | 2H Sword        | Damage increased                  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
+
+        - We are in the process of verifying whether buffs stack or not. And, how they interact with Lana, Alice, Milana, and Elise's damage passives. 
+        - The scaling factor (1.X) per buff is the same for each League. 
+
+    === "Battle Character Screen" 
+
+        - If you click on a character you can see what buffs are currently active. 
+        ![](./img/battlefront-rules.png)
+
+    === "Buff Indicator"
+
+        - The red diamonds during battle show you the number of active buffs. 
+         ![](./img/battlefront-rules-flamg.png)
+
+=== "Restrictions" 
+
+    - Use of consumable and support items is prohibited. 
+    - The game update states that you cannot leave during a match, but this is not true. You can flee if you need to restart the match.
+
+=== "Dark + Human Units" 
+
+    - Gandolfo
+    - Gerard (both styles)
+    - Gillion
+    - Kiriha 
+    - Linaria 
 
 ### Hero's Sigil: Dark
 
@@ -84,8 +159,6 @@
     | Hero                                 |          |       |       | +1   | 1         | 4              |
      
     </div>
-
-
 
 ## League Matches
 
