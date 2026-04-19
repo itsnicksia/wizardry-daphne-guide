@@ -190,8 +190,6 @@
 
 ### Hero's Mission 
 
-- Forthcoming.
-
 !!! danger "Critical Warnings" 
 
     - Mission achievements and progress can only be viewed while in the Battlefront of Heroes arena. 
@@ -200,6 +198,8 @@
     - The Hero League is a massive increase in difficulty and it may not be possible to fulfill achievement requirements if your units are not strong enough.
     - For normal players it is strongly recommended to -not- clear Elite until the Hero's Mission is completed (6,500 points).
     - Current bug: If you max out the Hero's Mission without clearing Hero you cannot (currently) get the Doppel Quicksilver. We expect this to be patched in the near future. 
+
+- More details forthcoming.
 
 ## League Matches
 
