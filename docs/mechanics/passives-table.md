@@ -27,8 +27,7 @@
     | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Way of the Warrior | <span style="color: DarkOrange">Gandolfo P</span> <br> <span style="color: DarkOrange">Ophelia P</span>    | 1.08x  | 1.09x  | 1.11x  | 1.12x  | 1.15x  |   |   |
-
-    
+ 
      </div>
      
 === "Knight"
@@ -42,7 +41,6 @@
     | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Way of the Knight |          |   |    |    |   |   |   |   |
-
     
      </div>
 
@@ -59,7 +57,6 @@
     | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Way of the Thief      |          | 2.0x  |  2.1x  | 2.2x   |   |   |   |   |
 
-    
      </div>
 
 === "Priest"
@@ -136,6 +133,12 @@
     | Human-Sam     | Attack + Magic Power &emsp; &emsp; &emsp; | 1 | 2 | 3 | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
     
     </div>
+
+## Chest Opening
+
+- Treasure Trap Detect
+- Treasure Trap Disarm
+- Forthcoming
 
 ### Legendary 
 
