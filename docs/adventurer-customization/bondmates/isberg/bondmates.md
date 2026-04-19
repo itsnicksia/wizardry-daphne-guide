@@ -6,7 +6,7 @@
 
 ### Betrayer Bunny 
 
-??? "Details" 
+??? note "Details" 
 
     === "How to Acquire"
     
