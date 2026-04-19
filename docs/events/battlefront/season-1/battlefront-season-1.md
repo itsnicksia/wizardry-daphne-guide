@@ -45,6 +45,7 @@
 
     - There are 4 Leagues this season. The number of matches starts at 5 and grows by +5 per League to a maximum of 20. 
     - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. 
+    - <span style="color: #F2473A">Warning!</span> There is a massive difficulty spike between the Elite and Hero Leagues. Only a handful of players globally have been able to clear the content. It is unclear if Drecom plans to adjust the difficulty or leave as-is. 
     - The Hero League is the only exception and can be repeated for the weekly [Hero's Mission](#heros-mission) achievements. 
 
     
@@ -156,7 +157,10 @@
 
 ### Hero's Sigil: Dark
 
-!!! danger "Review this section carefully before registering for the Aspirant League."
+!!! danger "Warning"
+
+    - Review this section carefully before registering for the Aspirant League as the medal levels are one-time only. 
+    - The Hero League is unpassable for 99.9% of players in its current state. Operate on the assumption that L3 is the maximum that can be reached. Drecom has indicated they will add other ways to increase medal levels in the future. 
 
 === "Basics" 
 
