@@ -93,6 +93,13 @@
     - To exit you must speak with Beth, the receptionist, and confirm that you want to leave. You will be Cursed Wheel back to the registration desk. You can exit freely at that point or re-register for your current League. 
     - Progress in the current League is not saved so you will start over at the first match. 
 
+=== "Cursed Wheel"
+
+    - If you need to Cursed Wheel, then the Battlefront of Heroes will disappear from the map. 
+    - Enter the Royal Capital from the map to see the invitation cutscene again. 
+    - If your Cursed Wheel node places you in the Royal Capital, then the request should automatically trigger. If not, simply exit to the map and re-enter. 
+
+
 ### Battlefront Rules 
 
 === "Summary" 
