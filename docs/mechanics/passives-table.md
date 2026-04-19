@@ -1,8 +1,8 @@
 # Passives Skill Levels
 
 !!! warning "Work in Progress"
-    - Data is being reviewed and updated on an ongoing basis. 
-    - If you can confirm values please share in the comments or on the [Discord](https://discord.gg/CQETxvUW). 
+    - This is a brand new page. There will be errors and missing information. More information will be added on a regular basis. 
+    - If you can confirm values please share in the comments, ping @Lightbearer on the [Discord](https://discord.gg/CQETxvUW), or post in the Theorycrafting - Skill Values channel.  
 
 ### Overview
 
@@ -10,7 +10,7 @@
 - A blank space `   ` means that we have no information on that entry.
 - A `-` means that nothing is gained at that level. 
 - Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
-- Inherits with <span style="color: cyan">Name A*</span> refer to inherits from their alternative style. 
+- Inherits with <span style="color: cyan">Name A*</span> refer to inherits from an alternative style. 
 - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
 - Inherits - max is level 6 if not the class or legendary unit (self values). 
 
@@ -94,7 +94,6 @@
 === "Samurai" 
 
     - To be added
-
 
 ### Anonymous 
 
@@ -213,9 +212,6 @@
 
 #### Lanaville - Queen of Love and War 
 
-- Note 1
-- Note 2
-- 
 === "Self" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
