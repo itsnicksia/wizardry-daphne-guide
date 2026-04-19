@@ -146,9 +146,8 @@
 
 === "Basics" 
 
-    - Referred to as a "medal" that gives a permanent passive skill ("Sigil"). It is isted under a unit's Stat page. 
-    - One-time only reward for clearing each league. Each clear gives an additional level to a maximum of L4.   
-    - The passive reduces Dark-type damage and gives a small boost to HP, MP, and SP. The bonuses for Dark units are doubled. See the next tab for specifics. 
+    - <span style="color: #F2473A">Warning!</span> The medal is a one-time reward after clearing a League. Each clear gives an additional level up to L4. It cannot be farmed or reassigned to a different unit. 
+    - The medal gives a passive (Hero's Sigil: Dark) that reduces Dark-type damage and gives a small boost to HP, MP, and SP. The bonuses for Dark units are doubled. See the next tab for specifics. 
     - All members in your Battlefront roster receive the medal even if they do not participate. 
     - Future seasons will offer additional medals, but only one can be equipped at a time. 
 
@@ -164,7 +163,7 @@
                  
     </div>
 
-    - Dark units receive a 2x bonus to each stat. 
+    - Dark units receive a 2x bonus to each stat. Those values are listed as (#). 
     - It is unknown if the Dark-type damage reduction increases with each level.  
 
 === "Leveling Mechanics"
