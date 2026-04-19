@@ -114,15 +114,19 @@
 
     === "Battle Character Screen" 
 
-        - If you click on a character you can see what buffs are currently active. 
-        
+        <div align="center">
         ![](./img/battlefront-rules.png)
+        </div>
+
+        - If you click on a character you can see what buffs are currently active.
 
     === "Buff Indicator"
 
-        - The red diamonds during battle show you the number of active buffs. 
-        
-         ![](./img/battlefront-rules-flamg.png)
+        <div align="center">
+         ![](./img/battlefront-rules-flames.png)
+         </div>
+
+        - The red diamonds represent the number of active special buffs. 
 
 === "Restrictions" 
 
@@ -136,7 +140,7 @@
     - Gillion
     - Kiriha 
     - Linaria 
-    - See the [Adventurer Quicklist](../../../adventurers/adventurer-quicklist/) for a list of all Human units. 
+    - See the [Adventurer Quicklist](../../../../adventurers/adventurer-quicklist/) for a list of all Human units. 
 
 ### Hero's Sigil: Dark
 
