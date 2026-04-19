@@ -17,7 +17,7 @@
 
 === "Unlock" 
 
-    - Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King
+    - Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King.
 
 === "How to Accept" 
 
