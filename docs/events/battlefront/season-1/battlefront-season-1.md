@@ -191,7 +191,10 @@
 ### Hero's Mission 
 
 - Forthcoming.
-- <span style="color: #F2473A">Warning!</span>
+
+!!! danger "Critical Warnings" 
+
+    - Mission achievements and progress can only be viewed while in the Battlefront of Heroes arena. 
     - Strong recommend you complete the 5 Dark, 3 Mage, 3 Knight, and 10,000 damage achievements during the Aspirant or the Adept Leagues.
     - MC does not count toward the Dark achievement. 
     - The Hero League is a massive increase in difficulty and it may not be possible to fulfill achievement requirements if your units are not strong enough.
