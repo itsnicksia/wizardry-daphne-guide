@@ -161,9 +161,6 @@
 
 #### Alice - Blessings of Agora
 
-- Note 1
-- Note 2
-
 === "Self" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
