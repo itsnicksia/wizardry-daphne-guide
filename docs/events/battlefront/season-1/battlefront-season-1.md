@@ -45,7 +45,7 @@
 
     - There are 4 Leagues this season. The number of matches starts at 5 and grows by +5 per League to a maximum of 20. 
     - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. 
-    - The Hero League is the only exception and can be repeated for the weekly mission achievements. 
+    - The Hero League is the only exception and can be repeated for the weekly [Hero's Mission](#heros-mission) achievements. 
 
     
 === "Registration" 
