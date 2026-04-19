@@ -7,15 +7,15 @@
 
 ## Overview
 
-- Battlefront of Heroes was released on 4/16. The first season runs until 6/10. Drecom has announced that they plan to release future seasons on an ongoing basis.  
+- Battlefront of Heroes was released on 4/16 and runs until 6/10. Drecom has announced that they plan to release future seasons on an ongoing basis.  
 - Standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
 - Each season spotlights a subset of units that are granted a special buff based on certain attributes. For Season 1, it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. Future seasons will also rewards medals, but only one can be equipped at a time. 
 - The Hero's Award mission offers up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
 
-## Unlock Requirements
+## Requirements
 
-=== "Unlock" 
+=== "How to Unlock" 
 
     - Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King.
 
@@ -34,7 +34,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | League Name &emsp; &emsp; &emsp;     | # of Combatants  | # of Matches | 
+    | League Name &emsp; &emsp;            | # of Combatants  | # of Matches | 
     |:-------------------------------------|:----------------:|:------------:|
     | Aspirant                             | 8                | 5            | 
     | Adept                                | 12               | 10           | 
@@ -44,13 +44,13 @@
     </div>
 
     - There are 4 Leagues this season. The number of matches starts at 5 and grows by +5 per League to a maximum of 20. 
-    - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. The Hero League is the only exception. 
-    - Drecom's intended design is for you to use units that benefit from the special buff. This becomes increasingly important in the later Leagues.
-    - Do not be afraid to let units die to help you clear certain fights or to preserve resources for your primary team. 
+    - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. 
+    - The Hero League is the only exception and can be repeated for the weekly mission achievements. 
+
     
 === "Registration" 
     
-    - For the first League (Aspirant) you can register up to 8 members. You can add +4 more members with each additional League up to a maximum of 20.
+    - For the first League, Aspirant, you can register up to 8 members. You can add +4 more members with each additional League up to a maximum of 20.
     - Dispatched units cannot be registered. 
     - You do not have to use the same units for each League, but it is -highly- recommended due to how the [medal](#heros-sigil-dark) system works. 
     - If you fully exit and reset the Battlefront of Heroes, then you must re-register all units for your current League. 
@@ -61,46 +61,55 @@
     - Speak to the Blackiron Warden for information about the upcoming fight. 
     - To heal between matches a unit must be in your active party. It is helpful to bring additional healers to conserve your team's MP. 
     - To change equipment the unit does not need to be in your active party. 
-    - You can use a RES buff while in the waiting room. It will remain active even after accepting the next match. 
+    - You can use a Resistance buff while in the waiting room. It will remain active even after accepting the next match. 
 
 === "During Battle" 
 
     - Referee Intervention 
         - The Referee can implement additional buffs or debuffs at the start of the match. Fortunately, it is limited to a small number of fights per League. 
-        - Debuffs can be removed with Abit, but it is usually best to not bring an affected unit as they are very powerful. 
+        - The debuffs are extremely strong, but can be removed with Abit. It is usually best to not use an affected unit. 
     - Flee 
         - You can flee at any point during the match with 100% success. Any effects sustained in combat will carry over. 
         - No progress is lost. You are sent back to your prior match, which can you can do over again. 
     
 === "Death" 
 
-    - MC Death
-        - "Rise again": You will be transported to the waiting room with no impact on your team's HP, MP, or SP. 
-        - "Be carried out": MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored to its pre-match level. Match progress is not lost. 
-        - Death of any kind does not seem to lower the MC's hidden Fortitude value. 
-        - You can gain up to 2 Embers of Resurgence in the Well of the Mind, allowing you to revive up to 5 times. 
-    - Unit Death     
+    - MC 
+        - "Rise again" 
+            - Revived and transported to the waiting room with no impact on your team's HP, MP, or SP. 
+            - Consumes a Flame of Reawakening. 
+        - "Be carried out" 
+            - MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored to its pre-match level. 
+            - Match progress is not lost.
+            - Does not consume a Flame of Reawakening. 
+        - Death of any kind does not appear to lower the MC's hidden Fortitude value. 
+        - You can gain up to 2 Flames of Reawakening in the Well of the Mind, allowing you to revive up to 5 times. 
+    - Party Member     
         - If a unit dies and is revived they will lose 30 Fortitude. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
         - Fortitude does not recover between matches. 
-        - If you exit the arena via the receptionist Beth, the Fortitude of all units is restored to its original level when you first entered the arena. 
+        - If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
 
 ### Battlefront Rules 
 
 === "Summary" 
 
-    - Each season will have a different set of rules and restrictions.
-    - Season 1 provides a special buffs to units that are Dark, Human, or use a 2H sword. The buffs are significant and scale as you progress through each League. 
-    - You can change MC's Type to Dark in the Well of the Mind to receive the buff. 
-
+    - The arena provides a special buff, called a "Battlefront Rule", for units that are Dark, Human, or use a 2H sword. The buff is significant and scales with each League to a maximum of 1.5x. 
+    - We are currently testing to see if they stack and how they interact with other damage passives. 
+    - Recommend changing MC's Type to Dark in the Well of the Mind. 
+    
 === "Special Buff" 
 
     === "Table" 
-    
-        | Requirement     | Description                       | Aspirant | Adept | Elite | Hero |
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+
+        | Requirement &emsp;    | Description &emsp;                      | Aspirant | Adept | Elite | Hero |
         |:----------------|:----------------------------------|--------- |-------|-------|------|
         | Dark Type       | All stats increased               | 1.2x     | 1.3x  | 1.4x  | 1.5x |
         | Human           | Attack and Magic Power increased  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
         | 2H Sword        | Damage increased                  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
+
+        </div>
 
         - We are in the process of verifying whether buffs stack or not. And, how they interact with Lana, Alice, Milana, and Elise's damage passives. 
         - The scaling factor (1.X) per buff is the same for each League. 
@@ -108,11 +117,13 @@
     === "Battle Character Screen" 
 
         - If you click on a character you can see what buffs are currently active. 
+        
         ![](./img/battlefront-rules.png)
 
     === "Buff Indicator"
 
         - The red diamonds during battle show you the number of active buffs. 
+        
          ![](./img/battlefront-rules-flamg.png)
 
 === "Restrictions" 
@@ -127,17 +138,34 @@
     - Gillion
     - Kiriha 
     - Linaria 
+    - See the [Adventurer Quicklist](../adventurers/adventurer-quicklist/) for a list of all Human units. 
 
 ### Hero's Sigil: Dark
 
-!!! warning "Review this section carefully before registering for the Aspirant League."
+!!! danger "Review this section carefully before registering for the Aspirant League."
 
 === "Basics" 
 
-    - Referred to in-game as both a sigil and a "medal". It is a passive skill listed under a unit's Stat page. Future seasons will offer additional medals, but only one can be equipped at a time. 
+    - Referred to as a "medal" that gives a permanent passive skill ("Sigil"). It is isted under a unit's Stat page. 
     - One-time only reward for clearing each league. Each clear gives an additional level to a maximum of L4.   
-    - The medal reduces Dark-type damage and gives +5 HP at L1, +5 MP at L2, +5 SP at L3, and another +5 HP at L4. These bonuses are doubled for Dark units. It is unknown if the Dark-type damage reduction scales with each level.  
-    - All members in your battlefront roster receive the medal even if they do not participate. 
+    - The passive reduces Dark-type damage and gives a small boost to HP, MP, and SP. The bonuses for Dark units are doubled. See the next tab for specifics. 
+    - All members in your Battlefront roster receive the medal even if they do not participate. 
+    - Future seasons will offer additional medals, but only one can be equipped at a time. 
+
+=== "Stat Gains per Level" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    | Stat &emsp; &emsp;  | L1     | L2     | L3     | L4     | Totals  | 
+    |:--------------------|--------|--------|--------|--------|---------|
+    | HP                  | 5 (10) |        |        | 5 (10) | 10 (20) |
+    | MP                  |        | 5 (10) |        |        | 5 (10)  | 
+    | SP                  |        |        | 5 (10) |        | 5 (10)  |  
+                 
+    </div>
+
+    - Dark units receive a 2x bonus to each stat. 
+    - It is unknown if the Dark-type damage reduction increases with each level.  
 
 === "Leveling Mechanics"
 
@@ -160,6 +188,11 @@
      
     </div>
 
+### Hero's Mission 
+
+- Forthcoming. 
+
+
 ## League Matches
 
 ### Aspirant League
@@ -167,7 +200,7 @@
 === "Match 1"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/aspirant/aspirant-match-1.png)
 
     === "Fight Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -176,7 +209,7 @@
 === "Match 2"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/aspirant/aspirant-match-2.png)
 
     === "Fight Details"
         - Frontline: Vorpal Bunny 2x
@@ -185,7 +218,7 @@
 === "Match 3"
 
     === "Fight Image"
-         ![](./img/)
+        ![](./img/aspirant/aspirant-match-3.png)
 
     === "Fight Details"
         - Frontline: Skeleton Knight 2x
@@ -194,7 +227,7 @@
 === "Match 4"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/aspirant/aspirant-match-4.png)
 
     === "Fight Details"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
@@ -203,7 +236,7 @@
 === "Match 5"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/aspirant/aspirant-match-5.png)
 
     === "Fight Details"
         - Frontline: Knight-Butcher Ent 2x
