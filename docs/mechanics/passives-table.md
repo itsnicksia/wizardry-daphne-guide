@@ -26,6 +26,8 @@
     | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Accuracy Up     | <span style="color: DarkOrange">Chloe P*</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Defense Up      | <span style="color: cyan">Chloe A*</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Way of the Warrior | <span style="color: DarkOrange">Gandolfo P*</span> <span style="color: DarkOrange">Ophelia P*</span>    | 8%  |  1% (9%)  | 2% (11%)  | 1% (12%)  | 3% (15%)  |   |   |
+
     
      </div>
      
