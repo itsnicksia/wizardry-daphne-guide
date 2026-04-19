@@ -438,7 +438,7 @@
         - Backline: Air Hawk 3x
 
     === "Fight Tips"
-        - This is probably one of the more annoying fights for a majority of the runs, as it drains a lot of resources. It's recommended to deal with the Hawks immediately by using KATINO, which is nearly guaranteed on them. If they are not taken care of they can easily surety for over 1K damage. Otherwise, they have rather low HP and can be killed with ESS or Poised after being slept despite being in the backline.
+        - This is probably one of the more annoying fights for a majority of the runs, as it drains a lot of resources. It's recommended to deal with the Hawks immediately by using KATINO, which is nearly guaranteed on them. If they are not taken care of they can easily surety for over 1K damage. Otherwise, they have rather low HP and can be killed with ESS or Poised after being slept despite being in the backline. 
         - The Monster Bird itself has very high HP, perhaps around 100k or higher. It's also extremely evasive, so it's recommended to apply MACALDIA to your DPS and debuff it's evasion via BATILGREF and Chill. The Monster Bird is immune to the CT debuffing effects of BATILGREF but not the EVA debuffing portion. The single target attack of the Monster Bird is evadable.
         - Knights can be employed here if necessary to survive its full team AOE attack. Alternatively, you can simply equip every unit with Magical Beast Resistance Gear and have two Priests, preferably Dark Element for maximum HP.
 
@@ -448,7 +448,12 @@
         ![](./img/)
 
     === "Fight Details"
-        - 
+        - Frontline: Skeleton Knight 2x, Skeleton Giant
+        - Backline: Skeleton Mage 2x, Skeleton Archer
+
+    === "Fight Tips"
+        - Every enemy has extremely high accuracy, otherwise relatively low HP compared to most fights in this mode. They all have standard movesets, just very high physical damage.
+        - MAREIN isnt suggested, it's better to BATILGREF the frontline and then focus on wiping the backline ASAP.
 
 === "Match 7"
 
@@ -456,6 +461,12 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Plague Crewman 2x, Cursed Sack Doll 2x
+        - Backline: Ninja 2x, Necromancer 1x
+
+    === "Fight Tips"
+        - The Cursed Sack Dolls guaranteed go first (even if u have 500 ASPD), and will typically either use Cursed Ritual to apply Curse to everyone or do a lot of damage. They are somewhat hard to evade.
+        - Everything has a standard moveset, but main issue are the Cursed Sack Dolls. They are extremely fast and evasive, but can be taken care of instantly with MADALTO and ESS/Poised with a 2H Sword. Afterwards it's recommended to kill the Necromancer and Ninjas. You can also KATINO the Plague Crewman, as they are one of the few enemies that can sleep for multiple turns while you take care of the rest. Alternatively, BATILGREF works too.
 
 === "Match 8"
 
@@ -463,6 +474,13 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Necrocore 1x, Lesser Demon 2x
+        - Backline: Dark Slime 4x
+
+    === "Fight Tips"
+        - You can evade all of the enemies here with previously mentioned EVA build. They mainly just use physical attacks.
+        - Ideally just BATILGREF both rows and kill them with basic attacks to replenish some SP with Debra's inherit skill if possible.
+        - Focus the front row before killing the backrow.
 
 === "Match 9"
 
@@ -470,6 +488,12 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Chimera 2x
+        - Backline: Ninja 2x, Mage Adventurer 2x
+
+    === "Fight Tips"
+        - The Chimeras are extremely fast, accurate, and have very high surety chance. You essentially have to pray your damage reduction passives (WOTK, Sanctuary's Blessing, Wisdom of Truth, Eyes that Know the Future) will proc here or they can instantly kill. It's very recommended that your entire frontline has Magical Beast Resist gear.
+        - Ideally just BATILGREF the Chimeras and defend with your frontline. Try to kill enemies with your backline. Focus on clearing the enemy backline first, particularly the mages so they don't keep debuffing you.
 
 === "Match 10"
 
@@ -477,6 +501,13 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Minotaur 1x, Our Heirlooms 1x
+        - Backline: Ninja 2x, Mage Adventurer 1x
+
+    === "Fight Tips"
+        - It's recommended to immediately BATILGREF the enemy frontline, then deal with the backline first as per usual
+        - The Minotaur has relatively high accuracy, and does very high damage so deal with it first. Very recommended to use Magical Beast Resist gear for your frontline.
+        - Our Heirlooms has a standard moveset and isn't that strong. Preferably do not use low fortitude units for this fight though.
 
 === "Match 11"
 
