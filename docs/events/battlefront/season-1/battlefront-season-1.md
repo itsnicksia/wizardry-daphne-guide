@@ -136,7 +136,7 @@
     - Gillion
     - Kiriha 
     - Linaria 
-    - See the [Adventurer Quicklist](../adventurers/adventurer-quicklist/) for a list of all Human units. 
+    - See the [Adventurer Quicklist](../../../adventurers/adventurer-quicklist/) for a list of all Human units. 
 
 ### Hero's Sigil: Dark
 
