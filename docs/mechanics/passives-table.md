@@ -50,9 +50,9 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
-    | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
-    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
+    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Disarm Trap Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Way of the Thief      |          | 2.0x  |  2.1x  | 2.2x   |   |   |   |   |
