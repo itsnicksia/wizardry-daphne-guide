@@ -464,7 +464,7 @@
         - Backline: Mage Adventurer 3x
 
     === "Fight Tips"
-        - Mage Adventurers tend to prioritze casting BALAFES first on any rows without ATK debuff. They also prefer casting other debuff spells, but can cast single-target attack spells sometimes. The BALAFEOS is quite strong so ABIT it ASAP on ATK-scaling units.
+        - Mage Adventurers tend to prioritze casting BALAFEOS first on any rows without ATK debuff. They also prefer casting other debuff spells, but can cast single-target attack spells sometimes. The BALAFEOS is quite strong so ABIT it ASAP on ATK-scaling units.
         - Hobgoblins use their standard skillset. Can be evaded with Dark Element units with 230+ EVA.
         - Kill the mages first ASAP. Kill the rest with basic attacks to conserve SP.
 
@@ -586,6 +586,14 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Lamenting Snowfolk 2x
+        - Middle: Pixie 2x
+        - Backline: Gorgon 2x
+
+    === "Fight Tips"
+        - MADALTO the pixies immediately and get rid of them, as they can apply Sleep which can easily get you killed.
+        - It's recommended to BATILGREF both rows and then quickly deal with the columns. If possible, kill the Gorgon before the Lamenting Snowfolk as the Gorgons can instantly stone a row if both aim their breath at the same row. The Gorgons also frequently Lunge, which switches a frontline unit with the backline.
+        - The Gorgons have very high accuracy and do quite a lot of damage with Lunge as they move closer. It may be favorable to bring Magical Beast Resistance gear.
 
 === "Match 12"
 
@@ -593,6 +601,14 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Evil Eye 1x, Earth Slime 2x
+        - Backline: Hydra Plant 2x, Mage Adventurer 1x
+
+    === "Fight Tips"
+        - It goes without saying, immediately kill the Mage Adventurer. Then it's preferable to focus on killing the Evil Eye, as it gets two actions a turn, and can potentially wipe an entire row at once. It's somewhat evadable, but very risky if it starts targetting the backline, which may not have very high evasion. In addition, it has a very high chance of calling for an Ally randomly, which is another Evil Eye but with significantly less HP.
+        - The Hydra Plants have a standard moveset, and don't really do much damage. However, that row damage cannot be evaded.
+        - The Earth Slimes are evadable and very weak, so they are the least priority to deal with.
+        - It's preferable to run a lot of damage for this stage to end it quickly.
 
 === "Match 13"
 
@@ -600,6 +616,12 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Big Snow Hawk 2x
+        - Backline: Snow Hawk 2x, Pixie 2x
+
+    === "Fight Tips"
+        - This match is pretty easy, everything can be evaded. MADALTO the backline and immediately kill the pixies. The Snow Hawks however, require 3 DALTOs to freeze.
+        - Can BATILGREF/MADALTO to reduce their evasion. It's not recommended to use Dissipation or Malefic Wind unless you have plenty of resources remaining to remove their CT/EVA buffs.
 
 === "Match 14"
 
@@ -607,6 +629,12 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Succubi 3x
+        - Backline: Earth Cloud 2x, Mage Adventurer 1x
+
+    === "Fight Tips"
+        - The clouds have very high defense, especially in the backline and seem to always go first. However, they can generally be evaded. Deal with these last.
+        - MADALTO the front row, as the Succubi are very evasive but freeze immediately. Kill them and the Mage Adventurer. Then focus on chipping away on the clouds.
 
 === "Match 15"
 
@@ -614,6 +642,12 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Bigfoot 1x, Cyclops 1x
+        - Backline: Bigfoot Child 3x
+        - Debuff Applied: Beastfolk Stats Down
+
+    === "Fight Tips"
+        - Not clear yet
 
 === "Match 16"
 
@@ -621,6 +655,11 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Mimic 1x, Stonefolk 1x
+        - Backline: Lamenting Snowfolk 2x
+
+    === "Fight Tips"
+        - Not clear yet
 
 === "Match 17"
 
@@ -628,6 +667,11 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Lizardman 2x, Fire Slime 2x
+        - Backline: Fire Entity 2x, Lizardman Champion 1x
+
+    === "Fight Tips"
+        - Not clear yet
 
 === "Match 18"
 
@@ -635,6 +679,11 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Vampire 2x, Sand Apparition 2x
+        - Backline: Mage Adventurer 3x
+
+    === "Fight Tips"
+        - Not clear yet
 
 === "Match 19"
 
@@ -642,6 +691,11 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Snow Wolf Leader 1x, Alabaster Balewolf 3x
+        - Backline: Alabaster Balewolf 4x
+
+    === "Fight Tips"
+        - Not clear yet
 
 === "Match 20"
 
@@ -649,7 +703,11 @@
         ![](./img/)
 
     === "Fight Details"
+        - Frontline: Defense Golem 1x, Attack Golem 1x
+        - Backline: Greater Demon 2x
 
+    === "Fight Tips"
+        - Not clear yet
 
 
 
