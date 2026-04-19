@@ -196,7 +196,7 @@
     - Strong recommend you complete the 5 Dark, 3 Mage, 3 Knight, and 10,000 damage achievements during the Aspirant or the Adept Leagues. Note that MC does not count toward the Dark party-member achievements. 
     - The Hero League is a massive increase in difficulty and it may not be possible to fulfill achievement requirements.
     - For normal players it is strongly recommended to -not- clear Elite until the Hero's Mission is completed (6,500 points).
-    - Current bug: If you max out the Hero's Mission without clearing Hero you cannot (currently) get the Doppel Quicksilver. We expect this to be patched in the near future. 
+    - Current bug: If you max out the Hero's Mission prior to clearing the Hero League you cannot get the Doppel Quicksilver reward. We expect this to be patched in the near future. 
 
 - More details forthcoming.
 
