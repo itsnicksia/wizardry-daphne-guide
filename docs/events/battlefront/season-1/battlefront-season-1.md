@@ -205,6 +205,10 @@
 
 - More details forthcoming.
 
+## General Strategies
+
+- Forthcoming.
+
 ## League Matches
 
 ### Aspirant League
