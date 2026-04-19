@@ -220,7 +220,6 @@
     - To save time you will want to Cursed Wheel to a node where all of the blizzard zones are still active. 
     - A few of the blizzard zones do not appear to work properly for the bondmate. Whether this is a bug or intentional is not known.
 
-
 ??? note "Request Guide"
 
     === "Walkthrough"
@@ -265,8 +264,18 @@
 
     === "Bondmate" 
 
-        - The conditions are not entirely known, but some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen).
-        - Upon completion, you will get the "Exquisite Jewel Trout" (HP) bondmate and Ultimate Ice-Wind Trout consumable item. 
+        === "Conditions" 
+
+            - The location must have "The air here feels dry to you."
+            - All 3 fights must be completed in an active blizzard zone.
+            - Only 2 confirmed locations that work 100% of the time. See map tab. 
+            - Upon completion, you will get the "Exquisite Jewel Trout" (HP) bondmate and Ultimate Ice-Wind Trout consumable item. 
+
+        === "Locations" 
+
+            <div align="center">
+            ![](./img/special-delicacy-bondmate-zones.png)
+            </div>
 
 ## Slaying the White Wolves
 
