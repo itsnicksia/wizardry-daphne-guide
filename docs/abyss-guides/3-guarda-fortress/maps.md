@@ -149,9 +149,10 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
         ![](./img/golem-answer-6.jpg)
 
-    ??? note "3 Painting Locations" 
+    ??? note "Painting Locations" 
 
         ![](./img/zone-6-paintings.png)
+        *Note: Requires a low Abyss corrosion level to remove the gunk on the walls. 
 
 ??? map "Zone 7 -Prehistoric Corridor B1F-"
     ![](./img/zone-7-complete.jpg)
