@@ -12,7 +12,7 @@
 - Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
 - Inherits with <span style="color: cyan">Name A*</span> refer to inherits from an alternative style. 
 - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
-- Legendary inherits can only be leveled to L6 if inherited on anyone other than the original unit. 
+- Legendary and class passives max out at L6 if the unit does not have access to the listed class or is not self-inheriting. 
 
 ### Class  
 
