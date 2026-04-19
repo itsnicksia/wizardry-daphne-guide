@@ -26,6 +26,8 @@
 
 ## Mechanics
 
+### Basics 
+
 === "League Structure"
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
