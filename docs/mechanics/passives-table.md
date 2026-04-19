@@ -7,7 +7,7 @@
 ### Overview
 
 - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
-- A blank space `U+200B U+200B U+200B` means that we have no information on that entry.
+- A blank space `     ` means that we have no information on that entry.
 - A `-` means that nothing is gained at that level. 
 - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
 - Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
