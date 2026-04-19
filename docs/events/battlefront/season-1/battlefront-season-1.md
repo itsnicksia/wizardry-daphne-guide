@@ -80,14 +80,12 @@
             - Consumes a Flame of Reawakening. 
         - "Be carried out" 
             - MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored to its pre-match level. 
-            - Match progress is not lost.
-            - Does not consume a Flame of Reawakening. 
+            - Match progress is not lost. Does not consume a Flame of Reawakening. 
         - Death of any kind does not appear to lower the MC's hidden Fortitude value. 
         - You can gain up to 2 Flames of Reawakening in the Well of the Mind, allowing you to revive up to 5 times. 
     - Party Member     
         - If a unit dies and is revived they will lose 30 Fortitude. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
-        - Fortitude does not recover between matches. 
-        - If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
+        - Fortitude does not recover between matches. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
 
 ### Battlefront Rules 
 
@@ -103,10 +101,10 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
 
-        | Requirement &emsp;    | Description &emsp;                      | Aspirant | Adept | Elite | Hero |
+        | Requirement &emsp; &emsp;    | Description          | Aspirant | Adept | Elite | Hero |
         |:----------------|:----------------------------------|--------- |-------|-------|------|
         | Dark Type       | All stats increased               | 1.2x     | 1.3x  | 1.4x  | 1.5x |
-        | Human           | Attack and Magic Power increased  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
+        | Human           | Attack and Magic Power increased &emsp; &emsp;  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
         | 2H Sword        | Damage increased                  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
 
         </div>
