@@ -91,10 +91,9 @@
 
 === "Summary" 
 
-    - The arena provides a special buff, called a "Battlefront Rule", for units that are Dark, Human, or use a 2H sword. The buff is significant and scales with each League to a maximum of 1.5x. 
-    - We are currently testing to see if they stack and how they interact with other damage passives. 
-    - Recommend changing MC's Type to Dark in the Well of the Mind. 
-    
+    - The arena provides a special buff during combat called a "Battlefront Rule" for units that are Dark, Human, or use a 2H sword. 
+    - The buff is significant and scales with each League. It becomes increasingly more important for the Elite and Hero Leagues. 
+    - We recommend you change MC's Type to Dark in the Well of the Mind. While the Type nodes do not change the 3 elements that are rolled each time you reset are randomly determined.      
 === "Special Buff" 
 
     === "Table" 
@@ -109,8 +108,8 @@
 
         </div>
 
-        - We are in the process of verifying whether buffs stack or not. And, how they interact with Lana, Alice, Milana, and Elise's damage passives. 
-        - The scaling factor (1.X) per buff is the same for each League. 
+        - We are in the process of verifying whether buffs stack or not and their interactions with other damage passives. 
+        - The scaling factor (1.2-1.5x) per buff is the same for each League. 
 
     === "Battle Character Screen" 
 
@@ -191,8 +190,13 @@
 
 ### Hero's Mission 
 
-- Forthcoming. 
-
+- Forthcoming.
+- <span style="color: #F2473A">Warning!</span>
+    - Strong recommend you complete the 5 Dark, 3 Mage, 3 Knight, and 10,000 damage achievements during the Aspirant or the Adept Leagues.
+    - MC does not count toward the Dark achievement. 
+    - The Hero League is a massive increase in difficulty and it may not be possible to fulfill achievement requirements if your units are not strong enough.
+    - For normal players it is strongly recommended to -not- clear Elite until the Hero's Mission is completed (6,500 points).
+    - Current bug: If you max out the Hero's Mission without clearing Hero you cannot (currently) get the Doppel Quicksilver. We expect this to be patched in the near future. 
 
 ## League Matches
 
