@@ -91,7 +91,7 @@
 
     - Ignore the warnings that you are permanently barred from competing if you leave the arena. 
     - To exit you must speak with Beth, the receptionist, and confirm that you want to leave. You will be Cursed Wheel back to the registration desk. You can exit freely at that point or re-register for your current League. 
-    - Progress is the current League is not saved so you will start over at the first match. 
+    - Progress in the current League is not saved so you will start over at the first match. 
 
 ### Battlefront Rules 
 
