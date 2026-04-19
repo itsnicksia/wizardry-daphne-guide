@@ -9,8 +9,8 @@
 
 - Battlefront of Heroes was released on 4/16 and runs until 6/10. Drecom has announced that they plan to release future seasons on an ongoing basis.  
 - Standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
-- Each season spotlights a subset of units that are granted a special buff based on certain attributes. For Season 1, it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
-- Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. Future seasons will also rewards medals, but only one can be equipped at a time. 
+- Each season spotlights a subset of units that are granted a special buff based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
+- Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
 - The Hero's Award mission offers up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
 
 ## Requirements
@@ -104,9 +104,10 @@
 
 === "Summary" 
 
-    - The arena provides a special buff during combat called a "Battlefront Rule" for units that are Dark, Human, or use a 2H sword. 
+    - The arena provides a special buff during combat called a "Battlefront Rule" for units that are Dark, Human, or use a 2H Sword. 
     - The buff is significant and scales with each League. It becomes increasingly more important for the Elite and Hero Leagues. 
-    - We recommend you change MC's Type to Dark in the Well of the Mind. While the Type nodes do not change the 3 elements that are rolled each time you reset are randomly determined.      
+    - We recommend you change MC's Type to Dark in the Well of the Mind. While the Type node locations do not change the 3 elements that are rolled each time you reset are randomly determined.      
+    
 === "Special Buff" 
 
     === "Table" 
@@ -121,8 +122,8 @@
 
         </div>
 
-        - We are in the process of verifying whether buffs stack or not and their interactions with other damage passives. 
-        - The scaling factor (1.2-1.5x) per buff is the same for each League. 
+        - We are in the process of verifying whether the buffs stack and how they interact with other damage passives. 
+        - The scaling factor per buff is the same for each League. 
 
     === "Battle Character Screen" 
 
@@ -185,9 +186,9 @@
 
 === "Leveling Mechanics"
 
-    - Each time you clear a league all the units in the Battlefront roster recieve 100 EXP (or 1 Level) toward the passive skill. 
-    - Since you cannot redo an already cleared league this means that only the first 8 units you selected for the Aspirant League have the potential to reach L4. 
-    - The roster expands by +4 each league, so you can continue to add 4 new members to receive the medal, but at a lower max level. See the table in the next tab.
+    - Each time you clear a League your entire Battlefront roster recieves 100 EXP (or 1 Level) toward the passive skill. 
+    - You cannot redo an already cleared League. Consequently, only the first 8 units you registered for the Aspirant League have the potential to reach L4. 
+    - The roster expands by +4 each League, so you can continue to add 4 new members to receive the medal, but at a lower max level. See the table in the next tab.
     - We recommend you think very carefully about what units you want to prioritize, especially with the 2x bonus for Dark units. 
 
 === "Max Level per League Entry Point"
@@ -209,7 +210,7 @@
 
     - Mission achievements and progress can only be viewed while in the Battlefront of Heroes arena. 
     - Strongly recommend you complete the 5 Dark, 3 Mage, 3 Knight, and 10,000 damage achievements during the Aspirant or the Adept Leagues. Note that MC does not count toward the Dark party-member achievements. 
-    - The Hero League is a massive increase in difficulty and it may not be possible to fulfill achievement requirements.
+    - The Hero League is a -massive- increase in difficulty and it may not be possible to fulfill achievement requirements.
     - For normal players it is strongly recommended to -not- clear Elite until the Hero's Mission is completed (6,500 points).
     - Current bug: If you max out the Hero's Mission prior to clearing the Hero League you cannot get the Doppel Quicksilver reward. We expect this to be patched in the near future. 
 
