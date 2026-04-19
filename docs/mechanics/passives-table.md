@@ -9,8 +9,8 @@
 - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
 - A blank space `U+200B U+200B U+200B` means that we have no information on that entry.
 - A `-` means that nothing is gained at that level. 
-- Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
-- Inherits with <span style="color: cyan">Name A*</span> refer to inherits from an alternative style. 
+- Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
+- Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
 - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
 - Legendary and class passives max out at L6 if the unit does not have access to the listed class or is not self-inheriting. 
 
@@ -24,9 +24,9 @@
     |:----------------|:---------|----|----|----|----|----|----|----|
     | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
     | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Accuracy Up     | <span style="color: DarkOrange">Chloe P*</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Defense Up      | <span style="color: cyan">Chloe A*</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Way of the Warrior | <span style="color: DarkOrange">Gandolfo P*</span> <span style="color: DarkOrange">Ophelia P*</span>    | 1.08x  | 1.09x  | 1.11x  | 1.12x  | 1.15x  |   |   |
+    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Way of the Warrior | <span style="color: DarkOrange">Gandolfo P</span> <br> <span style="color: DarkOrange">Ophelia P</span>    | 1.08x  | 1.09x  | 1.11x  | 1.12x  | 1.15x  |   |   |
 
     
      </div>
@@ -39,8 +39,10 @@
     |:------------------|:---------|----|----|----|----|----|----|----|
     | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
     | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P*</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Way of the Knight |          |   |    |    |   |   |   |   |
+
     
      </div>
 
