@@ -5,23 +5,17 @@
     - The page will be heavily updated over the coming days with more details. 
     - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
 
-# Battlefront of Heroes - Season 1
-
-!!! warning " Work In Progress"
-
-    - The page will be heavily updated over the coming days with more details. 
-    - For the next 24 hours we have included the most critical information to know upfront in the red box below.
-    - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
-
 ## Overview
-
-!!! warning "Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King."
 
 - Battlefront of Heroes was released on 4/16. The first season runs until 6/10. Drecom has announced that they plan to release future seasons on an ongoing basis.  
 - Standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
 - Each season spotlights a subset of units that are granted a special buff based on certain attributes. For Season 1, it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. Future seasons will also rewards medals, but only one can be equipped at a time. 
 - The Hero's Award mission offers up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
+
+## Unlock Requirements
+
+!!! warning "Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King."
 
 ??? note "How to Accept the Request" 
 
@@ -88,16 +82,18 @@
 
 ### Battlefront Rules 
 
-- Each season will have a different set of rules and restrictions.
-- Season 1 provides a special buffs to units that are Dark, Human, or use a 2H sword. The buffs are significant and scale as you progress through each League. 
-- You can change MC's Type to Dark in the Well of the Mind to receive the buff. 
+=== "Summary" 
+
+    - Each season will have a different set of rules and restrictions.
+    - Season 1 provides a special buffs to units that are Dark, Human, or use a 2H sword. The buffs are significant and scale as you progress through each League. 
+    - You can change MC's Type to Dark in the Well of the Mind to receive the buff. 
 
 === "Special Buff" 
 
     === "Table" 
     
         | Requirement     | Description                       | Aspirant | Adept | Elite | Hero |
-        |:----------------|:---------------------------------:|:--------:|:-----:|:-----:|------|
+        |:----------------|:----------------------------------|--------- |-------|-------|------|
         | Dark Type       | All stats increased               | 1.2x     | 1.3x  | 1.4x  | 1.5x |
         | Human           | Attack and Magic Power increased  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
         | 2H Sword        | Damage increased                  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
@@ -123,7 +119,7 @@
 === "Dark + Human Units" 
 
     - Gandolfo
-    - Gerard (both styles)
+    - Gerard 
     - Gillion
     - Kiriha 
     - Linaria 
@@ -161,8 +157,6 @@
     </div>
 
 ## League Matches
-
-!!! warning "Details for each match will be forthcoming. These entries are placeholders." 
 
 ### Aspirant League
 
