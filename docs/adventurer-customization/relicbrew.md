@@ -97,7 +97,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - Relic Power history via a small bottle icon over the class name
             - Golden bottle: Currently equipped Relic Power
             - Dark grey bottle: Extracted Relic Power 
-        -  Up to 6 people can consume a relicbrew, but the MC is always a fixed member that can be de-selected
+        - MC and 5 other party members can drink a relicbrew. MC is always a required member, but can be deselected. 
     
     === "Guide" 
     
