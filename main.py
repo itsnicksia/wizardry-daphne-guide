@@ -58,7 +58,7 @@ def define_env(env):
                 name = row['Name']
                 rarity = row['Rarity'].strip().lower()
                 name_slug = name.replace(' ', '-')
-                return f"[{name}](./{rarity}-adventurers/details/{name_slug}.md)"
+                return f"[{name}](../../adventurers/{rarity}-adventurers/details/{name_slug}.md)"
             results['Name'] = results.apply(linkify, axis=1)
 
         return results[return_columns]
