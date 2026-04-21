@@ -53,7 +53,7 @@
             - Each stat bondmate costs 3 tags; 1x for Lead and 2x for Bronze.
             - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 stat bondmate. 
             - <span style="color: #F2473A">Lead Grade at Level 30 will -not- work</span>.
-        - Defeat any two Greater Warped Ones (GWOs) - usually Helmut and either Melgina or Octoranus.
+        - Defeat any two Greater Warped Ones (GWOs) - easiest are Helmut and either Melgina or Octoranus.
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip. Melgina is safer for low HP units.
             - The unit does not need to survive the fight, but it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing a GWO more than once does -not- give you extra trust</span>.
