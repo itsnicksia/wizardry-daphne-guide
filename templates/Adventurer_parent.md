@@ -8,10 +8,10 @@
 **Gender**: {{ chardata['Gender'] }}  
 **Type**: {{ chardata['Type'] }}  
 **Personality**: {{ chardata['Personality'] }}  
+**Bondmate Trait**: {{ chardata['Bondmate Trait'] }}  
 **Starting Class**: {{ chardata['Primary Class'] }}  
 {%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
 {%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
-**Bondmate Trait**: {{ chardata['Bondmate Trait'] }}  
 
 ## Base Traits  
 === "Class: {{chardata['Primary Class']}}"
