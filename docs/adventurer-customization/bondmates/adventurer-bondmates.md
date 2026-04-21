@@ -22,7 +22,7 @@
 
         - The trait bonus is a function of both the Grade of the unit being equipped and the level of the stat bondmate. See examples in the tabs. 
         - Trait bonuses cap at +7-8 at Level 70. It is possible to attach a Level 2 and Level 3 of the same stat bondmate to one character for the "equivalent" trait bonus of a Level 5 stat bondmate.
-        - SPD bondmates are an exception. All of their values are -1, so the max at Level 70 would be +6-7. 
+        - SPD bondmates are an exception. All of their values are one lower, so the max at Level 70 would be +6-7. 
         - There is no additional trait bonus for matching elemental alignments. This holds true for story bondmates, too.
         - Nameless, General, and Legendary adventurers all provide the exact same trait bonuses.
 
@@ -265,6 +265,7 @@
 | Jean         | DEX                 |
 | Kiriha       | DEX                 |
 | Lanaville    | VIT                 |
+| Linaria      |                     |
 | Livana       |                     |
 | Marianne     | PIE                 |
 | Milana       | DEX                 |
