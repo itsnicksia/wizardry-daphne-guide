@@ -707,7 +707,9 @@
         - Debuff Applied: Beastfolk Stats Down
 
     === "Fight Tips"
-        - Not clear yet
+        - The Cyclops is evadable, but the rest of the enemies are not. It's highly recommended to cast BATILGREF and MADALTO on the frontline + backline in order to buy as much time as possible.
+        - Kill the Bigfoot first, as this will apply an additional CT and ATK down on the Bigfoot children. You can then focus on killing the Cyclops and then the rest of the Bigfoot children.
+        - It's almost mandatory to run a large amount of Stun/Paralysis Tolerance for this as the breath from the Bigfoot can easily end the run. It's recommended to bring Asha and Eldorado for this if possible, as they can both also help apply MADALTO.
 
 === "Match 16"
 
@@ -751,8 +753,8 @@
         ![](./img/)
 
     === "Fight Details"
-        - Frontline: Snow Wolf Leader 1x, Alabaster Balewolf 3x
-        - Backline: Alabaster Balewolf 4x
+        - Frontline: Snow Wolf Leader 1x, Snow Wolf 3x
+        - Backline: Snow Wolf 4x
 
     === "Fight Tips"
         - Not clear yet
