@@ -737,7 +737,7 @@
 
     === "Fight Tips"
         - All the enemies have standard movesets in here. The Lizardman Champion will cast Merfolk Command on its first turn, which gives 4 turns of ACC,CT,EVA up on itself and the Lizardman. It's highly recommended to cleanse the ACC buff ASAP, as the strategy for this fight will be evasion. Keep in mind however, the Lizardman still have relatively high accuracy, so they hit you.
-        - Kill the Fire Slimes first, as they have little HP and can apply evasion down. This will also move the Lizardman Champion to the same row as the Lizardman, where you can dispel all their buffs at once with Malefic Wind and/or Lvl 2 Dissiption. You can also now BATILGREF all of them at once. Kill the Fire Entities ASAP as well as they can cast magic. Afterwards, continue working on the rest of the enemies.
+        - Kill the Fire Slimes first, as they have little HP and can apply evasion down. This will also move the Lizardman Champion to the same row as the Lizardman, where you can dispel all their buffs at once with Malefic Wind and/or Lvl 2 Dissiption. You can also now BATILGREF + MADALTO (chill reduces accuracy) all of them at once. Kill the Fire Entities ASAP as well as they can cast magic. Afterwards, continue working on the rest of the enemies.
 
 === "Match 18"
 
