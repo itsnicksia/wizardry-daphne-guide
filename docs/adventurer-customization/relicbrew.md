@@ -234,7 +234,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
         - The MC has a hidden Fortitude value. The current, but not maximum, Fortitude can be viewed by your friends in the Tavern under Friendships.
         - Recommendations:
             - Remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
-            - Use Nameless units to consume less desirable relicbrews to register the Relic Power effects in the Drink Relicbrews menu.  
+            - Use Anonymous units to consume less desirable relicbrews to register the Relic Power effects in the Drink Relicbrews menu.  
     
     === "Penalty Stage Icons"
     
