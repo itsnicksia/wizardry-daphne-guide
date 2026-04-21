@@ -67,7 +67,7 @@
             - Unit is Bronze grade
             - The 2 GWO fights are completed
             - The unit did not die repeatedly while leveling 
-        - There are very rare instances where a Nameless unit will just not proc the flaming-heart icon even after excessive trust grinding. This tends to happen with a Good or Neutral MC and Evil units the most frequently. We suspect that each unit has a starting trust value range that is RNG-based and determined at creation. Some units can start with extremely low trust making them difficult to raise. In some cases it is just best to dismiss for their Grade tag. 
+        - There are very rare instances where an Anonymous unit will just not proc the flaming-heart icon even after excessive trust grinding. This tends to happen with a Good or Neutral MC and Evil units the most frequently. We suspect that each unit has a starting trust value range that is RNG-based and determined at creation. Some units can start with extremely low trust making them difficult to raise. In some cases it is just best to dismiss for their Grade tag. 
 
     === "Flaming-Heart Icon"
 
@@ -90,7 +90,7 @@
 ### Efficient Trust Farming 
 
 - Trust farming is the last step. It is done after promoting to Bronze Grade and defeating both GWOs if the stat bondmate did not receive the flaming-heart.
-- This guide is built around using Nameless units. If you opt for General or Legendary units, then this process can take 2-4x as long depending on your MC's alignment. 
+- This guide is built around using Anonymous units. If you opt for General or Legendary units, then this process can take 2-4x as long depending on your MC's alignment. 
 
 ??? note "How to Build Trust"
 
@@ -116,7 +116,7 @@
      
         - Battles provide an extremely small amount of trust. It requires 100+ battles before you begin to see pips added to the Compendium. It is unknown whether a character needs to be present or take an action during combat to earn trust points. 
         - <span style="color: #F2473A">The death of a stat bondmate comes with a significant trust penalty. It should be avoided at all costs while leveling or during the GWO fights</span>.
-        - Death penalty for Nameless units:
+        - Death penalty for Anonymous units:
             - Same alignment as MC: 1-3 additional Camp conversations
             - Different alignment: 2-5 additional Camp conversations
         - If a stat bondmate dies, then kill MC during the revival mini-game. The "Rise again" or "Accept death" options will negate any trust loss.
@@ -131,19 +131,19 @@
         - Lana (Good), Yekaterina (Neutral), and Alice (Evil) are excellent companions to bring along as they will frequently proc camp conversations.
         - This process can be tag-intensive. Remember that you are refunded a Bronze tag at the end of this process, but you cannot downgrade tags!
 
-??? note "Nameless Adventurers"
+??? note "Anonymous Adventurers"
 
-    === "Why Nameless?"
+    === "Why Anonymous?"
 
-        - Always use Nameless adventurers (Human Fighter, Elf Mage, etc.) as they have lower trust requirements for a flaming-heart than their General or Legendary counterparts.
-        - General or Legendary adventurers can take 2-3x as long to reach flaming-heart status even if their alignment matches the MC. They also give the same trait bonus amounts as Nameless.
+        - Always use Anonymous adventurers (Human Fighter, Elf Mage, etc.) as they have lower trust requirements for a flaming-heart than their General or Legendary counterparts.
+        - General or Legendary adventurers can take 2-3x as long to reach flaming-heart status even if their alignment matches the MC. They also give the same trait bonus amounts as Anonymous.
         - A warning that raising a Legendary unit to flaming-heart status can take up to 20-25+ camp conversations if the alignments do not match. 
 
-    === "Nameless Basics"
+    === "Anonymous Basics"
 
         - Cannot join Tavern conversations, but are present during Camp conversations. <span style="color: LimeGreen">This is the key to efficient stat bondmate farming</span>.
-        - Nameless receive "spill over" trust points from Camp conversations from adventurer's with the same alignment.
-        - Nameless that share the MC's alignment receive an additional trust boost and require few-to-no Camp conversations. 
+        - Anonymous receive "spill over" trust points from Camp conversations from adventurer's with the same alignment.
+        - Anonymous that share the MC's alignment receive an additional trust boost and require few-to-no Camp conversations. 
             - 90% of the time they will receive a flaming-heart after defeating the second GWO - as long as they did not die at any point during the battle or while leveling.
             - If they do not instantly receive the flaming-heart, then it usually requires 1-2 Camp conversations.
         - Putting all BP into SPD is recommended to ensure the stat bondmates can move before Melgina or Octoranus to defend against their attacks.
@@ -156,7 +156,7 @@
         - SPD - Human Ninja (Evil)
         - VIT - Dwarf Knight (Neutral) 
         - PIE - Human Priest (Good), Elf Priest (Evil)
-        - LCK - No unit - Nameless, General, or Legendary - gives Luck as a trait bonus
+        - LCK - No unit - Anonymous, General, or Legendary - gives Luck as a trait bonus
 
     === "Alternative Options" 
     
@@ -194,7 +194,7 @@
 - Pass the Bronze exam and promote to Bronze Grade (requires 3 No Grade tags).
 - Defeat Helmut and either Melgina or Octoranus. 
     - Killing them repeatedly does not give extra trust.    
-    - If the Nameless bondmate candidate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
+    - If the Anonymous bondmate candidate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears.
 - Go to the Guild - Training Room and attach any 2x Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
 
@@ -216,4 +216,4 @@
 
 ### Bondmate Trait Table
 
-{{ populate_quicklist(file='adventurers.csv', return_columns=['Name','Bondmate Trait','Personality']).set_axis(['Bondmate','Increased Trait','Personality'], axis=1)  | convert_to_md_table }}  
+{{ populate_quicklist(file='adventurers.csv', return_columns=['Name','Bondmate Trait','Personality','Rarity']).set_axis(['Bondmate','Increased Trait','Personality','Rarity'], axis=1)  | convert_to_md_table }}  
