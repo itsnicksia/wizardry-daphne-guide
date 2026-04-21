@@ -1,5 +1,5 @@
 nav:
-  - Adventurer Quicklist: './adventurer-quicklist.md'
+  - Adventurer Quicklist: './quicklist/adventurer-quicklist.md'
   - Legendary Adventurers:
     - Adventurer Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
     - Abenius:
