@@ -100,8 +100,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 68,2H_Sword!A68,2H_Sword,100,Demonbane Greatsword,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Demon Slayer"
 74,2H_Sword!A74,2H_Sword,152,Two-Handed Sword of the Aurora,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Light Type"
 80,2H_Sword!A80,2H_Sword,162,Greatsword of Eternal Darkness,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dark Type"
-86,2H_Sword!A86,2H_Sword,Ex.,Dragon Slayer,Ebonsteel,1,,,106,0,0,0,0,-4,6,0,-2,0,129,0,0,0,0,-4,6,0,-2,0,151,0,0,0,0,-4,6,0,-2,0,174,0,0,0,0,-4,6,0,-2,0,196,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dragon Slayer, Dragon Tolerance"
-92,2H_Sword!A92,2H_Sword,,Heavy Warblade of Honor,Ebonsteel,1,,,54,0,0,0,0,-4,6,10,-2,0,77,0,0,0,0,-4,6,10,-2,0,114,0,0,0,0,-4,6,10,-2,0,186,0,0,0,0,-4,6,10,-2,0,219,0,0,0,0,-4,18,22,-2,0,"Strength-Based +, Passive SP Up, Battlefront Resonance I, Hero's Crest, always starts 3* Blue ATK/ACC. other blessings random"
+86,2H_Sword!A86,2H_Sword,243,Heavy Warblade of Honor,Ebonsteel,1,,1688,54,0,0,0,0,-4,6,10,-2,0,77,0,0,0,0,-4,6,10,-2,0,114,0,0,0,0,-4,6,10,-2,0,186,0,0,0,0,-4,6,10,-2,0,219,0,0,0,0,-4,18,22,-2,0,"Strength-Based +, Passive SP Up, Battlefront Resonance I, Hero's Crest, always starts 3* Blue ATK/ACC. other blessings random"
+92,2H_Sword!A92,2H_Sword,Ex.,Dragon Slayer,Ebonsteel,1,,,106,0,0,0,0,-4,6,0,-2,0,129,0,0,0,0,-4,6,0,-2,0,151,0,0,0,0,-4,6,0,-2,0,174,0,0,0,0,-4,6,0,-2,0,196,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dragon Slayer, Dragon Tolerance"
 98,2H_Sword!A98,2H_Sword,206,Silver Greatsword,Silver,1,,,132,0,0,0,0,-4,15,0,-2,0,165,0,0,0,0,-4,15,0,-2,0,191,0,0,0,0,-4,15,0,-2,0,214,0,0,0,0,-4,15,0,-2,0,231,0,0,0,0,-4,15,0,-2,0,Strength-Based +
 104,2H_Sword!A104,2H_Sword,207,Earthrend Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Earth Type"
 110,2H_Sword!A110,2H_Sword,208,Seafoam Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Fire Type"
@@ -517,7 +517,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 134,Sam_Odachi!A134,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,Sam_Odachi!A140,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Ninjato!A2,Ninjato,172,Lower Ninja Blade,Bronze,1,,120,32,0,0,-1,-1,1,0,1,1,0,47,0,0,-1,-1,1,0,2,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
+2,Ninjato!A2,Ninjato,172,Lower Ninja Blade,Bronze,1,,120,32,0,0,-1,-1,1,0,1,1,0,47,0,0,-1,-1,1,0,2,2,0,62,0,0,-1,-1,1,0,3,3,0,,,,,,,,,,,,,,,,,,,,,Evade Increase
 8,Ninjato!A8,Ninjato,173,Shadowrunner Blade,Iron,1,,380,67,0,0,-1,-1,1,0,2,2,0,87,0,0,-1,-1,1,0,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
 14,Ninjato!A14,Ninjato,82,Phantom Shadow Blade,Steel,1,,720,105,0,0,-1,-1,1,0,3,3,0,130,0,0,-1,-1,1,0,4,4,0,155,0,0,-1,-1,1,0,5,5,0,180,0,0,-1,-1,1,0,6,6,0,,,,,,,,,,,Evade Increase
 20,Ninjato!A20,Ninjato,110,Covert Blade,Ebonsteel,1,,1875,130,0,0,-1,-1,2,0,5,5,0,161,0,0,-1,-1,2,0,7,7,0,192,0,0,-1,-1,2,0,8,8,0,223,0,0,-1,-1,2,0,9,9,0,255,0,0,-1,-1,2,0,10,10,0,Evade Increase
