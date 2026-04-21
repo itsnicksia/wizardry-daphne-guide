@@ -216,6 +216,9 @@
 
 ### Bondmate Trait Table
 
+{{ populate_quicklist(file='adventurers.csv', return_columns=['Name','Bondmate Trait']).set_axis(['Bondmate','Increased Trait'], axis=1)  | convert_to_md_table }}
+
+<!--
 | Bondmate     | Increased Trait |
 | ------------ | ------------------- |
 | Abenius      | STR                 |
@@ -283,3 +286,5 @@
 | Yoizou       |                     |
 | Yrsa         |                     |
 | Yuzunamiki   |                     |
+
+-->
