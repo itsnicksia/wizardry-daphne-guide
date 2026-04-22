@@ -5,6 +5,11 @@
     - The page will be heavily updated over the coming days with more details. 
     - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
 
+!!! danger "Before you Begin"
+    - It is possible to lock yourself out of being able to complete the Hero Mission achievements and rewards. [Here](#heros-mission) for details. 
+    - The medals are one-time only and cannot be farmed or transferred. [Here](#heros-sigil-dark) for details. 
+    - Read all the warnings carefully before proceeding. 
+
 ## Overview
 
 - Battlefront of Heroes was released on 4/16 and runs until 6/10. Drecom has announced that they plan to release future seasons on an ongoing basis.  
