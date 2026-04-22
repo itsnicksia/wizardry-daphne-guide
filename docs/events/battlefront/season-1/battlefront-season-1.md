@@ -166,7 +166,7 @@
 !!! danger "Critical Warnings"
 
     - The Hero League is unpassable for 99.9% of players in its current state. Operate on the assumption that L3 is the maximum that can be reached. Drecom has stated they will add other ways to increase medal levels in the future. 
-    - This means that only the first 8 units that you register for the Aspirant League will have access to the +5 SP (+10 for Dark) at L3. 
+    - You cannot redo an already cleared League. Consequently, only the first 8 units registered for the Aspirant League will have access to the +5 SP (+10 for Dark) at L3. 
 
 === "Basics" 
 
@@ -193,8 +193,7 @@
 === "Leveling Mechanics"
 
     - Each time you clear a League your entire Battlefront roster recieves 100 EXP (or 1 Level) toward the passive skill. 
-    - You cannot redo an already cleared League. Consequently, only the first 8 units you registered for the Aspirant League have the potential to reach L4. 
-    - The roster expands by +4 each League, so you can continue to add 4 new members to receive the medal, but at a lower max level. See the table in the next tab.
+    - The roster expands by 4 each League. New members can receive the medal, but at a lower max level. See the table in the next tab.
     - We recommend you think very carefully about what units you want to prioritize, especially with the 2x bonus for Dark units. 
 
 === "Max Level per League Entry Point"
@@ -210,7 +209,15 @@
      
     </div>
 
-### Hero's Mission 
+=== "Trade-offs"
+
+    Unit selection can be complicated, but here are some things to consider:
+    - Prioritize your core, long-term units for the incremental stat bonuses and Dark damage reduction. 
+    - Maximize the 2x stat bonus for Dark units. 
+    - Dark Knights gain +10 SP at L3, which is extremely helpful due to their low SP pools even with high discipline. 
+    - Improve the survivability of Light units by giving them at least L1 of the medal. Dark bosses and super bosses are very common. 
+
+### Hero's Reward Mission 
 
 !!! danger "Critical Warnings" 
 
@@ -220,7 +227,116 @@
     - For normal players it is strongly recommended to -not- clear Elite until the Hero's Mission is completed (6,500 points).
     - Current bug: If you max out the Hero's Mission prior to clearing the Hero League you cannot get the Doppel Quicksilver reward. We expect this to be patched in the near future. 
 
-- More details forthcoming.
+=== "Basics" 
+
+    - Mission achievements, progress, and rewards can only be accessed while in the arena. 
+    - It takes 6,500 points to clear the entire mission. It is meant to be done over the 2 month event period. 
+    - Winning a round is 100 points. Clearing a League is worth 200 points.
+    - There are weekly achievements worth 180 points. There are 7 weeks during the period for a total of 1,260 points. 
+
+### Point Breakdowns 
+
+=== "League"
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
+    | League Name &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
+    |:-------------------------------------|:------:|:-----:|:-----:|:----------:|
+    | Aspirant                             | 500    | 200   | 700   | 700        |      
+    | Adept                                | 1,000  | 200   | 1,200 | 1,900      |  
+    | Elite                                | 1,500  | 200   | 1,700 | 3,600      | 
+    | Hero                                 | 2,000  | 200   | 2,200 | 5,800      | 
+
+    </div>
+
+    - Clearing all the matches through Elite gives you 3,600 points. 
+    - Need 2,900 points from special and weekly achievements to reach 6,500 points. 
+
+=== "Special" 
+
+    | Category    &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
+    |:-------------------------------------|:---:|:---:|:---:|:---:|:---:|:-----:|
+    | Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
+    | Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
+    | 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
+    | Knight                               | 100 | 100 | 100 |     |     | 300   |   
+    | Mage                                 | 100 | 100 | 100 |     |     | 300   |      
+    | Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
+
+    - Number of party members are the column headings. 
+    - The special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching the 6,500 total points. 
+
+=== "Damage: One-Hit" 
+
+    | Damage Amount    &emsp; &emsp; &emsp;   | Total| Cumulative |  
+    |:----------------------------------------|:-------:|:------------:|
+    | 200                                     | 100 | 100   |       
+    | 400                                     | 100 | 200   | 
+    | 600                                     | 100 | 300   |    
+    | 900                                     | 100 | 400   | 
+    | 1,500                                   | 100 | 500   |       
+    | 1,800                                   | 100 | 600   | 
+    | 2,200                                   | 100 | 700   |    
+    | 2,600                                   | 100 | 800   | 
+    | 3,000                                   | 100 | 900   |       
+    | 5,000                                   | 100 | 1,000 | 
+    | 7,000                                   | 100 | 1,100 |    
+    | 10,000                                  | 100 | 1,200 | 
+
+    - Each achievement is worth 100 points for a total of 1,200 points. 
+    - Multi-hit weapons and attacks such as Hue count as "one-hit". 
+    - Strongly recommend doing the 10,000 damage achievement on a lower League. Sleep or freeze a weak enemy and hit them with your strongest skill using a Dark Human equipped with a 2H sword. 
+
+=== "Damage: Total" 
+
+    | Damage Amount    &emsp; &emsp; &emsp;   | Total| Cumulative |  
+    |:----------------------------------------|:-------:|:------------:|
+    | 3,000                                   | 100 | 100   |       
+    | 6,000                                   | 100 | 200   | 
+    | 9,000                                   | 100 | 300   |    
+    | 30,000                                  | 100 | 400   | 
+    | 60,000                                  | 100 | 500   |       
+    | 90,000                                  | 100 | 600   | 
+    | 120,000                                 | 100 | 700   |    
+    | 160,000                                 | 100 | 800   | 
+    | 200,000                                 | 100 | 900   |       
+    | 300,000                                 | 100 | 1,000 | 
+    | 600,000                                 | 100 | 1,100 |    
+
+    - Each achievement is worth 100 points for a total of 1,100 points. 
+    - Even if you lose the damage done in a round is still counted. (Needs additional verification). 
+    - Strongly recommend farming the total damage achievements in the Aspirant and Adept Leagues depending on your Abyss progress and account power. 
+
+=== "Weekly" 
+
+    | Requirement    &emsp; &emsp; &emsp;   | Total| Cumulative |  
+    |:----------------------------------------|:-------:|:------------:|
+    | Defeat 5 monsters                       | 30 | 30  |       
+    | Defeat 10 monsters                      | 30 | 60  | 
+    | Defeat 20 monsters                      | 30 | 90  |    
+    | Deal a total of 5,000 damage            | 30 | 120 | 
+    | Deal a total of 10,000 damage           | 30 | 150 |       
+    | Deal a total of 20,000 damage           | 30 | 180 | 
+
+    - There will be 7 weekly achievements during the season. 
+    - Each achievement is worth 30 points for a total of 180 points per week. 
+    - Weekly achievements are worth a total of 1,260 points. 
+
+== "All Sources"
+
+    | Category    &emsp; &emsp; &emsp;   | Total  | 
+    |:-----------------------------------|:------:|
+    | Aspirant                           | 700    |  
+    | Adept                              | 1,200  | 
+    | Elite                              | 1,700  | 
+    | Hero                               | 2,200  | 
+    | Special                            | 2,700  |     
+    | Damage: One-Hit                    | 1,200  |
+    | Damage: Total                      | 1,100  |    
+    | Weekly                             | 1,260  | 
+    | Grand Total                        | 12,060 |    
+
+### Rewards
 
 ## General Strategies
 
@@ -233,7 +349,7 @@
 === "Round 1"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-1.png){ width="380" }
+        ![](./img/aspirant/aspirant-round-1.png){ width="390" }
 
     === "Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -242,7 +358,7 @@
 === "Round 2"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-2.png){ width="380" }
+        ![](./img/aspirant/aspirant-round-2.png){ width="390" }
 
     === "Details"
         - Frontline: Vorpal Bunny 2x
@@ -251,7 +367,7 @@
 === "Round 3"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-3.png){ width="380" }
+        ![](./img/aspirant/aspirant-round-3.png){ width="390" }
 
     === "Details"
         - Frontline: Skeleton Knight 2x
@@ -260,7 +376,7 @@
 === "Round 4"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-4.png){ width="380" }
+        ![](./img/aspirant/aspirant-round-4.png){ width="390" }
 
     === "Details"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
@@ -269,7 +385,7 @@
 === "Round 5"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-5.png){ width="380" }
+        ![](./img/aspirant/aspirant-round-5.png){ width="390" }
 
     === "Details"
         - Frontline: Knight-Butcher Ent 2x
@@ -280,7 +396,7 @@
 === "Round 1"
 
     === "Preview"
-        ![](./img/adept/adept-round-1.png){ width="380" }
+        ![](./img/adept/adept-round-1.png){ width="390" }
 
     === "Details"
         - Frontline: Earth Hobgoblin 2x
@@ -289,7 +405,7 @@
 === "Round 2"
 
     === "Preview"
-        ![](./img/adept/adept-round-2.png){ width="380" }
+        ![](./img/adept/adept-round-2.png){ width="390" }
 
     === "Details"
         - Frontline: Earth Sahuagin 3x
@@ -298,7 +414,7 @@
 === "Round 3"
 
     === "Preview"
-        ![](./img/adept/adept-round-3.png){ width="380" }
+        ![](./img/adept/adept-round-3.png){ width="390" }
 
     === "Details"
         - Frontline: Earth Big Slime 1x
@@ -307,7 +423,7 @@
 === "Round 4"
 
     === "Preview"
-        ![](./img/adept/adept-round-4.png){ width="380" }
+        ![](./img/adept/adept-round-4.png){ width="390" }
 
     === "Details"
         - Frontline: Desert Fly 3x
@@ -316,7 +432,7 @@
 === "Round 5"
 
     === "Preview"
-        ![](./img/adept/adept-round-5.png){ width="380" }
+        ![](./img/adept/adept-round-5.png){ width="390" }
 
     === "Details"
         - Frontline: Earth Pixie 4x
@@ -325,7 +441,7 @@
 === "Round 6"
 
     === "Preview"
-        ![](./img/adept/adept-round-6.png){ width="380" }
+        ![](./img/adept/adept-round-6.png){ width="390" }
 
     === "Details"
         - Frontline: Water Sahuagin 2x, Water Lizardman 1x
@@ -334,7 +450,7 @@
 === "Round 7"
 
     === "Preview"
-        ![](./img/adept/adept-round-7.png){ width="380" }
+        ![](./img/adept/adept-round-7.png){ width="390" }
 
     === "Details"
         - Frontline: Scorpion Lady 1x
@@ -343,7 +459,7 @@
 === "Round 8"
 
     === "Preview"
-        ![](./img/adept/adept-round-8.png){ width="380" }
+        ![](./img/adept/adept-round-8.png){ width="390" }
 
     === "Details"
         - Frontline: Pirate Berserker 2x
@@ -352,7 +468,7 @@
 === "Round 9"
 
     === "Preview"
-        ![](./img/adept/adept-round-9.png){ width="380" }
+        ![](./img/adept/adept-round-9.png){ width="390" }
 
     === "Details"
         - Frontline: Water Lizardman Champion 
@@ -361,7 +477,7 @@
 === "Round 10"
 
     === "Preview"
-        ![](./img/adept/adept-round-10.png){ width="380" }
+        ![](./img/adept/adept-round-10.png){ width="390" }
 
     === "Details"
         - Frontline: Plague Crewman 3x
@@ -372,7 +488,7 @@
 === "Round 1"
 
     === "Preview"
-        ![](./img/elite/elite-round-1.png){ width="380" }
+        ![](./img/elite/elite-round-1.png){ width="390" }
 
     === "Details"
         - Frontline: Skeleton Archer 2x
@@ -381,7 +497,7 @@
 === "Round 2"
 
     === "Preview"
-        ![](./img/elite/elite-round-2.png){ width="380" }
+        ![](./img/elite/elite-round-2.png){ width="390" }
 
     === "Details"
         - Frontline: Vorpal Bunny 3x
@@ -390,7 +506,7 @@
 === "Round 3"
 
     === "Preview"
-        ![](./img/elite/elite-round-3.png){ width="380" }
+        ![](./img/elite/elite-round-3.png){ width="390" }
 
     === "Details"
         - Frontline: Chimera 1x
@@ -399,7 +515,7 @@
 === "Round 4"
 
     === "Preview"
-        ![](./img/elite/elite-round-4.png){ width="380" }
+        ![](./img/elite/elite-round-4.png){ width="390" }
 
     === "Details"
         - Frontline: Ninja 3x
@@ -407,7 +523,7 @@
 === "Round 5"
 
     === "Preview"
-        ![](./img/elite/elite-round-5.png){ width="380" }
+        ![](./img/elite/elite-round-5.png){ width="390" }
 
     === "Details"
         - Frontline: Greater Demon 1x
@@ -416,7 +532,7 @@
 === "Round 6"
 
     === "Preview"
-        ![](./img/elite/elite-round-6.png){ width="380" }
+        ![](./img/elite/elite-round-6.png){ width="390" }
 
     === "Details"
         - Frontline: Fire Goblin 3x
@@ -425,7 +541,7 @@
 === "Round 7"
 
     === "Preview"
-        ![](./img/elite/elite-round-7.png){ width="380" }
+        ![](./img/elite/elite-round-7.png){ width="390" }
 
     === "Details"
         - Frontline: Fire Insect 3x
@@ -434,7 +550,7 @@
 === "Round 8"
 
     === "Preview"
-        ![](./img/elite/elite-round-8.png){ width="380" }
+        ![](./img/elite/elite-round-8.png){ width="390" }
 
     === "Details"
         - Frontline: Fire Fly 3x
@@ -443,7 +559,7 @@
 === "Round 9"
 
     === "Preview"
-        ![](./img/elite/elite-round-9.png){ width="380" }
+        ![](./img/elite/elite-round-9.png){ width="390" }
 
     === "Details"
         - Frontline: Fire Slime 3x
@@ -453,7 +569,7 @@
 === "Round 10"
 
     === "Preview"
-        ![](./img/elite/elite-round-10.png){ width="380" }
+        ![](./img/elite/elite-round-10.png){ width="390" }
 
     === "Details"
         - Frontline: Minotaur 2x
@@ -463,7 +579,7 @@
 === "Round 11"
 
     === "Preview"
-        ![](./img/elite/elite-round-11.png){ width="380" }
+        ![](./img/elite/elite-round-11.png){ width="390" }
 
     === "Details"
         - Frontline: Earth Cloud 4x
@@ -471,7 +587,7 @@
 === "Round 12"
 
     === "Preview"
-        ![](./img/elite/elite-round-12.png){ width="380" }
+        ![](./img/elite/elite-round-12.png){ width="390" }
 
     === "Details"
         - Frontline: Gorgon 2x
@@ -480,7 +596,7 @@
 === "Round 13"
 
     === "Preview"
-        ![](./img/elite/elite-round-13.png){ width="380" }
+        ![](./img/elite/elite-round-13.png){ width="390" }
 
     === "Details"
         - Frontline: Earth Big Slime 1x
@@ -489,7 +605,7 @@
 === "Round 14"
 
     === "Preview"
-        ![](./img/elite/elite-round-14.png){ width="380" }
+        ![](./img/elite/elite-round-14.png){ width="390" }
 
     === "Details"
         - Frontline: Wight 2x
@@ -498,7 +614,7 @@
 === "Round 15"
 
     === "Preview"
-        ![](./img/elite/elite-round-15.png){ width="380" }
+        ![](./img/elite/elite-round-15.png){ width="390" }
 
     === "Details"
         - Frontline: Light Succubi 2x, Necrocore 1x
@@ -510,7 +626,7 @@
 === "Round 1"
 
     === "Preview"
-        ![](./img/hero/hero-round-1.png){ width="380" }
+        ![](./img/hero/hero-round-1.png){ width="390" }
 
     === "Details"
         - Frontline: Hobgoblin 2x, Goblin 1x
@@ -523,7 +639,7 @@
 === "Round 2"
 
     === "Preview"
-        ![](./img/hero/hero-round-2.png){ width="380" }
+        ![](./img/hero/hero-round-2.png){ width="390" }
 
     === "Details"
         - Frontline: Hobgoblin 3x
@@ -537,7 +653,7 @@
 === "Round 3"
 
     === "Preview"
-        ![](./img/hero/hero-round-3.png){ width="380" }
+        ![](./img/hero/hero-round-3.png){ width="390" }
 
     === "Details"
         - Frontline: Vorpal Bunny 2x, Large Slime 1x
@@ -554,7 +670,7 @@
 === "Round 4"
 
     === "Preview"
-        ![](./img/hero/hero-round-4.png){ width="380" }
+        ![](./img/hero/hero-round-4.png){ width="390" }
 
     === "Details"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
@@ -568,7 +684,7 @@
 === "Round 5"
 
     === "Preview"
-        ![](./img/hero/hero-round-5.png){ width="380" }
+        ![](./img/hero/hero-round-5.png){ width="390" }
 
     === "Details"
         - Frontline: Giant Monster Bird 1x
@@ -582,7 +698,7 @@
 === "Round 6"
 
     === "Preview"
-        ![](./img/hero/hero-round-6.png){ width="380" }
+        ![](./img/hero/hero-round-6.png){ width="390" }
 
     === "Details"
         - Frontline: Skeleton Knight 2x, Skeleton Giant
@@ -595,7 +711,7 @@
 === "Round 7"
 
     === "Preview"
-        ![](./img/hero/hero-round-7.png){ width="380" }
+        ![](./img/hero/hero-round-7.png){ width="390" }
 
     === "Details"
         - Frontline: Plague Crewman 2x, Cursed Sack Doll 2x
@@ -608,7 +724,7 @@
 === "Round 8"
 
     === "Preview"
-        ![](./img/hero/hero-round-8.png){ width="380" }
+        ![](./img/hero/hero-round-8.png){ width="390" }
 
     === "Details"
         - Frontline: Necrocore 1x, Lesser Demon 2x
@@ -622,7 +738,7 @@
 === "Round 9"
 
     === "Preview"
-        ![](./img/hero/hero-round-9.png){ width="380" }
+        ![](./img/hero/hero-round-9.png){ width="390" }
 
     === "Details"
         - Frontline: Chimera 2x
@@ -635,7 +751,7 @@
 === "Round 10"
 
     === "Preview"
-        ![](./img/hero/hero-round-10.png){ width="380" }
+        ![](./img/hero/hero-round-10.png){ width="390" }
 
     === "Details"
         - Frontline: Minotaur 1x, Our Heirlooms 1x
@@ -649,7 +765,7 @@
 === "Round 11"
 
     === "Preview"
-        ![](./img/hero/hero-round-11.png){ width="380" }
+        ![](./img/hero/hero-round-11.png){ width="390" }
 
     === "Details"
         - Frontline: Lamenting Snowfolk 2x
@@ -664,7 +780,7 @@
 === "Round 12"
 
     === "Preview"
-        ![](./img/hero/hero-round-12.png){ width="380" }
+        ![](./img/hero/hero-round-12.png){ width="390" }
 
     === "Details"
         - Frontline: Evil Eye 1x, Earth Slime 2x
@@ -679,7 +795,7 @@
 === "Round 13"
 
     === "Preview"
-        ![](./img/hero/hero-round-13.png){ width="380" }
+        ![](./img/hero/hero-round-13.png){ width="390" }
 
     === "Details"
         - Frontline: Big Snow Hawk 2x
@@ -692,7 +808,7 @@
 === "Round 14"
 
     === "Preview"
-        ![](./img/hero/hero-round-14.png){ width="380" }
+        ![](./img/hero/hero-round-14.png){ width="390" }
 
     === "Details"
         - Frontline: Succubi 3x
@@ -705,7 +821,7 @@
 === "Round 15"
 
     === "Preview"
-        ![](./img/hero/hero-round-15.png){ width="380" }
+        ![](./img/hero/hero-round-15.png){ width="390" }
 
     === "Details"
         - Frontline: Bigfoot 1x, Cyclops 1x
@@ -720,7 +836,7 @@
 === "Round 16"
 
     === "Preview"
-        ![](./img/hero/hero-round-16.png){ width="380" }
+        ![](./img/hero/hero-round-16.png){ width="390" }
 
     === "Details"
         - Frontline: Mimic 1x, Stonefolk 1x
@@ -735,7 +851,7 @@
 === "Round 17"
 
     === "Preview"
-        ![](./img/hero/hero-round-17.png){ width="380" }
+        ![](./img/hero/hero-round-17.png){ width="390" }
 
     === "Details"
         - Frontline: Lizardman 2x, Fire Slime 2x
@@ -748,7 +864,7 @@
 === "Round 18"
 
     === "Preview"
-        ![](./img/hero/hero-round-18.png){ width="380" }
+        ![](./img/hero/hero-round-18.png){ width="390" }
 
     === "Details"
         - Frontline: Vampire 2x, Sand Apparition 2x
@@ -760,7 +876,7 @@
 === "Round 19"
 
     === "Preview"
-        ![](./img/hero/hero-round-19.png){ width="380" }
+        ![](./img/hero/hero-round-19.png){ width="390" }
 
     === "Details"
         - Frontline: Snow Wolf Leader 1x, Snow Wolf 3x
@@ -772,7 +888,7 @@
 === "Round 20"
 
     === "Preview"
-        ![](./img/hero/hero-round-20.png){ width="380" }
+        ![](./img/hero/hero-round-20.png){ width="390" }
 
     === "Details"
         - Frontline: Defense Golem 1x, Attack Golem 1x
