@@ -221,9 +221,10 @@
 
 !!! danger "Critical Warnings" 
 
-    - It is possible to lock yourself out of receiving all mission rewards. If you neglect to do the Special, Damage: One-hit, and Damge: Total achievements in a lower League, then you are stuck with the first round of either Elite or Hero depending on your progress. This also applies to the Weekly achievements.   
-    - We -strongly- recommend you finish at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
-    - We -strongly- recommend you wait to clear the Elite League until after you have finished the Hero's Reward Mission, which requires 6,500 points. 
+    - It is possible to lock yourself out of receiving all the Mission rewards. If you neglect to do the Special, Damage: One-hit, and Damge: Total achievements in a lower League, then you are stuck with the first round of either Elite or Hero depending on your progress. This also applies to the Weekly achievements.   
+    - We -strongly- recommend: 
+        - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
+        - Wait to clear the Elite League until after you have finished the Hero's Reward Mission. 
     - The 4th Doppel Quicksilver is locked behind clearing the Hero League. For most players this means a maximum of 3 Doppel Quicksilvers or 75 Discipline experience. 
     
 ### Basics  
@@ -231,8 +232,6 @@
 - Mission achievements, progress, and rewards can only be accessed while in the arena. 
 - To receive all the achievement rewards requires a total of 6,500 points. 
 - There is a maximum of 12,060 points from all sources. It is possible to clear the entire mission before reaching the Hero League.
-- 
-  
 
 ### Point Breakdowns 
 
@@ -258,7 +257,7 @@
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Category    &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
-    |:-------------------------------------|:---:|:---:|:---:|:---:|:---:|-------|
+    |:-------------------------------------|-----|-----|-----|-----|-----|-------|
     | Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
     | Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
     | 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
@@ -275,20 +274,20 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage Amount    &emsp; &emsp; | Total| Cumulative |  
+    | Damage     &emsp; &emsp;          | Total   | Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
-    | &emsp; 200                      | 100 | 100   |       
-    | &emsp; 400                      | 100 | 200   | 
-    | &emsp; 600                      | 100 | 300   |    
-    | &emsp; &emsp; 900               | 100 | 400   | 
-    | &emsp; &emsp; 1,500             | 100 | 500   |       
-    | 1,800                           | 100 | 600   | 
-    | 2,200                           | 100 | 700   |    
-    | 2,600                           | 100 | 800   | 
-    | 3,000                           | 100 | 900   |       
-    | 5,000                           | 100 | 1,000 | 
-    | 7,000                           | 100 | 1,100 |    
-    | 10,000                          | 100 | 1,200 | 
+    | &emsp; 200                              | 100 | 100   |       
+    | &emsp; 400                              | 100 | 200   | 
+    | &emsp; 600                              | 100 | 300   |    
+    | &emsp; 900                              | 100 | 400   | 
+    | &emsp; 1,500                            | 100 | 500   |       
+    | &emsp; 1,800                            | 100 | 600   | 
+    | &emsp; 2,200                            | 100 | 700   |    
+    | &emsp; 2,600                            | 100 | 800   | 
+    | &emsp; 3,000                            | 100 | 900   |       
+    | &emsp; 5,000                            | 100 | 1,000 | 
+    | &emsp; 7,000                            | 100 | 1,100 |    
+    | &emsp; 10,000                           | 100 | 1,200 | 
 
     </div>
 
@@ -300,19 +299,19 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage Amount    &emsp; &emsp;         | Total| Cumulative |  
-    |:----------------------------------------|:-------:|:------------:|
-    | 3,000                                   | 100 | 100   |       
-    | 6,000                                   | 100 | 200   | 
-    | 9,000                                   | 100 | 300   |    
-    | 30,000                                  | 100 | 400   | 
-    | 60,000                                  | 100 | 500   |       
-    | 90,000                                  | 100 | 600   | 
-    | 120,000                                 | 100 | 700   |    
-    | 160,000                                 | 100 | 800   | 
-    | 200,000                                 | 100 | 900   |       
-    | 300,000                                 | 100 | 1,000 | 
-    | 600,000                                 | 100 | 1,100 |    
+    | Damage     &emsp; &emsp;                       | Total| Cumulative |  
+    |:-----------------------------------------------|:-------:|:------------:|
+    | &emsp; 3,000                                   | 100 | 100   |       
+    | &emsp; 6,000                                   | 100 | 200   | 
+    | &emsp; 9,000                                   | 100 | 300   |    
+    | &emsp; 30,000                                  | 100 | 400   | 
+    | &emsp; 60,000                                  | 100 | 500   |       
+    | &emsp; 90,000                                  | 100 | 600   | 
+    | &emsp; 120,000                                 | 100 | 700   |    
+    | &emsp; 160,000                                 | 100 | 800   | 
+    | &emsp; 200,000                                 | 100 | 900   |       
+    | &emsp; 300,000                                 | 100 | 1,000 | 
+    | &emsp; 600,000                                 | 100 | 1,100 |    
 
     </div>
 
@@ -331,7 +330,7 @@
     | Defeat 20 monsters                      | 30 | 90  |    
     | Deal a total of 5,000 damage            | 30 | 120 | 
     | Deal a total of 10,000 damage           | 30 | 150 |       
-    | Deal a total of 20,000 damage &emsp; &emsp;           | 30 | 180 | 
+    | Deal a total of 20,000 damage &emsp; &emsp;  &emsp;           | 30 | 180 | 
 
     </div>
 
@@ -343,14 +342,14 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Main Category                      | Total  | 
+    | Main Category  &emsp;  &emsp;  &emsp;                      | Total  | 
     |:-----------------------------------|--------|
     | Aspirant                           | 700    |  
     | Adept                              | 1,200  | 
     | Elite                              | 1,700  | 
     | Hero                               | 2,200  | 
     | Special                            | 2,700  |     
-    | Damage: One-Hit &emsp; &emsp;                   | 1,200  |
+    | Damage:                            | 1,200  |
     | Damage: Total                      | 1,100  |    
     | Weekly                             | 1,260  | 
     | Grand Total                        | 12,060 |    
@@ -358,6 +357,36 @@
     </div>
 
 ### Rewards
+
+=== "Important Milestones" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
+    | Total Points                       | Reward  | 
+    |:-----------------------------------|--------|
+    | 100                                | Savage Warrior Remains    |  
+    | Adept                              | 1,200  | 
+    | Elite                              | 1,700  | 
+    | Hero                               | 2,200  | 
+    | Special                            | 2,700  |     
+    | Damage: One-Hit &emsp; &emsp;                   | 1,200  |
+    | Damage: Total                      | 1,100  |    
+    | Weekly                             | 1,260  | 
+    | Grand Total                        | 12,060 |   
+
+    </div>
+
+
+=== "Doppel Quicksilver" 
+
+    ![](./img/doppel){ width="390" }
+    ![](./img/doppel-disc.png){ width="390" }
+
+=== "Heavy Warblade of Honor" 
+
+
+    
+
 
 ## General Strategies
 
