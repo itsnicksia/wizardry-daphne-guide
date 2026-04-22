@@ -232,9 +232,7 @@
 === "Round 1"
 
     === "Fight Image"
-        <div style="width: 30%">
-        ![](./img/aspirant/aspirant-round-1.png)
-        </div>
+        ![](./img/aspirant/aspirant-round-1.png =500x)
 
     === "Fight Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -243,7 +241,7 @@
 === "Round 2"
 
     === "Fight Image"
-        <div style="width: 30%">
+        <div style=width: "30%">
         ![](./img/aspirant/aspirant-round-2.png)
         </div>
 
@@ -254,7 +252,7 @@
 === "Round 3"
 
     === "Fight Image"
-        <div style="width: 100%">
+        <div style= "width: 200%">
         ![](./img/aspirant/aspirant-round-3.png)
         </div>
 
@@ -265,7 +263,7 @@
 === "Round 4"
 
     === "Fight Image"
-        <div style="width: 30%">
+        <div style= "width: 30%">
         ![](./img/aspirant/aspirant-round-4.png)
         </div>
 
@@ -276,9 +274,7 @@
 === "Round 5"
 
     === "Fight Image"
-        <div style="width: 30%">
-        ![](./img/aspirant/aspirant-round-5.png)
-        </div>
+        ![](./img/aspirant/aspirant-round-5.png =999x)
 
     === "Fight Details"
         - Frontline: Knight-Butcher Ent 2x
