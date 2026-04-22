@@ -12,9 +12,9 @@
 
 ## Overview
 
-- Battlefront of Heroes was released on 4/16 and runs until 6/10. Drecom has announced plans to release future seasons on an ongoing basis.  
-- It is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
-- Each season spotlights a subset of units that are granted a special buff based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
+- Event Period: 4/16 - 6/10. Drecom has announced plans to release future seasons on an ongoing basis.  
+- Battlefront of Heroes is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
+- Each season spotlights a subset of units that are granted a special set of buffs based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
 - The Hero's Award mission offers up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
 
@@ -217,22 +217,22 @@
     - Dark Knights gain +10 SP at L3, which is extremely helpful due to their low SP pools even with high discipline. 
     - Improve the survivability of Light units by giving them at least L1 of the medal. Dark bosses and super bosses are very common. 
 
-### Hero's Reward Mission 
+## Hero's Reward Mission 
 
 !!! danger "Critical Warnings" 
 
-    - Mission achievements and progress can only be viewed while in the Battlefront of Heroes arena. 
-    - Strongly recommend you complete the 5 Dark, 3 Mage, 3 Knight, and 10,000 damage achievements during the Aspirant or the Adept Leagues. Note that MC does not count toward the Dark party-member achievements. 
-    - The Hero League is a -massive- increase in difficulty and it may not be possible to fulfill achievement requirements.
-    - For normal players it is strongly recommended to -not- clear Elite until the Hero's Mission is completed (6,500 points).
-    - Current bug: If you max out the Hero's Mission prior to clearing the Hero League you cannot get the Doppel Quicksilver reward. We expect this to be patched in the near future. 
+    - It is possible to lock yourself out of receiving all mission rewards. If you neglect to do the Special, Damage: One-hit, and Damge: Total achievements in a lower League, then you are stuck with the first round of either Elite or Hero depending on your progress. This also applies to the Weekly achievements.   
+    - We -strongly- recommend you finish at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
+    - We -strongly- recommend you wait to clear the Elite League until after you have finished the Hero's Reward Mission, which requires 6,500 points. 
+    - The 4th Doppel Quicksilver is locked behind clearing the Hero League. For most players this means a maximum of 3 Doppel Quicksilvers or 75 Discipline experience. 
+    
+### Basics  
 
-=== "Basics" 
-
-    - Mission achievements, progress, and rewards can only be accessed while in the arena. 
-    - It takes 6,500 points to clear the entire mission. It is meant to be done over the 2 month event period. 
-    - Winning a round is 100 points. Clearing a League is worth 200 points.
-    - There are weekly achievements worth 180 points. There are 7 weeks during the period for a total of 1,260 points. 
+- Mission achievements, progress, and rewards can only be accessed while in the arena. 
+- To receive all the achievement rewards requires a total of 6,500 points. 
+- There is a maximum of 12,060 points from all sources. It is possible to clear the entire mission before reaching the Hero League.
+- 
+  
 
 ### Point Breakdowns 
 
@@ -241,7 +241,7 @@
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | League Name &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
-    |:-------------------------------------|:------:|:-----:|:-----:|:----------:|
+    |:-------------------------------------|--------|-------|-------|------------|
     | Aspirant                             | 500    | 200   | 700   | 700        |      
     | Adept                                | 1,000  | 200   | 1,200 | 1,900      |  
     | Elite                                | 1,500  | 200   | 1,700 | 3,600      | 
@@ -249,15 +249,16 @@
 
     </div>
 
+    - Each round is worth 100 points. Clearing a League is worth 200 points. 
     - Clearing all the matches through Elite gives you 3,600 points. 
-    - Need 2,900 points from special and weekly achievements to reach 6,500 points. 
+    - If you do not progress to the Hero League, then you will need 2,900 points from special and weekly achievements to reach 6,500 points. 
 
 === "Special" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Category    &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
-    |:-------------------------------------|:---:|:---:|:---:|:---:|:---:|:-----:|
+    |:-------------------------------------|:---:|:---:|:---:|:---:|:---:|-------|
     | Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
     | Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
     | 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
@@ -267,27 +268,27 @@
 
     </div>
 
-    - Number of party members are the column headings. 
-    - The special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching the 6,500 total points. 
+    - The number of required adventurers are the column headings. 
+    - The special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all mission rewards. 
 
 === "Damage: One-Hit" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage Amount    &emsp; &emsp; &emsp;   | Total| Cumulative |  
+    | Damage Amount    &emsp; &emsp; | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
-    | 200                                     | 100 | 100   |       
-    | 400                                     | 100 | 200   | 
-    | 600                                     | 100 | 300   |    
-    | 900                                     | 100 | 400   | 
-    | 1,500                                   | 100 | 500   |       
-    | 1,800                                   | 100 | 600   | 
-    | 2,200                                   | 100 | 700   |    
-    | 2,600                                   | 100 | 800   | 
-    | 3,000                                   | 100 | 900   |       
-    | 5,000                                   | 100 | 1,000 | 
-    | 7,000                                   | 100 | 1,100 |    
-    | 10,000                                  | 100 | 1,200 | 
+    | &emsp; 200                      | 100 | 100   |       
+    | &emsp; 400                      | 100 | 200   | 
+    | &emsp; 600                      | 100 | 300   |    
+    | &emsp; &emsp; 900               | 100 | 400   | 
+    | &emsp; &emsp; 1,500             | 100 | 500   |       
+    | 1,800                           | 100 | 600   | 
+    | 2,200                           | 100 | 700   |    
+    | 2,600                           | 100 | 800   | 
+    | 3,000                           | 100 | 900   |       
+    | 5,000                           | 100 | 1,000 | 
+    | 7,000                           | 100 | 1,100 |    
+    | 10,000                          | 100 | 1,200 | 
 
     </div>
 
@@ -299,7 +300,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage Amount    &emsp; &emsp; &emsp;   | Total| Cumulative |  
+    | Damage Amount    &emsp; &emsp;         | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
     | 3,000                                   | 100 | 100   |       
     | 6,000                                   | 100 | 200   | 
@@ -323,33 +324,33 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Requirement    &emsp; &emsp; &emsp;   | Total| Cumulative |  
+    | Requirement                             | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
     | Defeat 5 monsters                       | 30 | 30  |       
     | Defeat 10 monsters                      | 30 | 60  | 
     | Defeat 20 monsters                      | 30 | 90  |    
     | Deal a total of 5,000 damage            | 30 | 120 | 
     | Deal a total of 10,000 damage           | 30 | 150 |       
-    | Deal a total of 20,000 damage           | 30 | 180 | 
+    | Deal a total of 20,000 damage &emsp; &emsp;           | 30 | 180 | 
 
     </div>
 
-    - There will be 7 weekly achievements during the season. 
-    - Each achievement is worth 30 points for a total of 180 points per week. 
+    - There will be 7 weekly achievements during the season. Each achievement is worth 30 points for a total of 180 points per week. 
     - Weekly achievements are worth a total of 1,260 points. 
+    - Note: We do not know if the requirements will change week-to-week or if these will stay constant.
 
-=== "All Sources"
+=== "All"
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Category    &emsp; &emsp; &emsp;   | Total  | 
-    |:-----------------------------------|:------:|
+    | Main Category                      | Total  | 
+    |:-----------------------------------|--------|
     | Aspirant                           | 700    |  
     | Adept                              | 1,200  | 
     | Elite                              | 1,700  | 
     | Hero                               | 2,200  | 
     | Special                            | 2,700  |     
-    | Damage: One-Hit                    | 1,200  |
+    | Damage: One-Hit &emsp; &emsp;                   | 1,200  |
     | Damage: Total                      | 1,100  |    
     | Weekly                             | 1,260  | 
     | Grand Total                        | 12,060 |    
