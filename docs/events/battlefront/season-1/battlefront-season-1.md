@@ -139,10 +139,10 @@
         - If you click on a character you can see what buffs are currently active.
 
     === "Buff Indicator"
-
+    
         <div align="center">
-         ![](./img/battlefront-rules-flames.png)
-         </div>
+        ![](./img/battlefront-rules-flames.png)
+        </div>
 
         - The red diamonds represent the number of active special buffs. 
 
@@ -232,9 +232,8 @@
 === "Round 1"
 
     === "Fight Image"
-        <div style="width:50%">
-        ![](./img/aspirant/aspirant-round-1.png)
-        </div>
+    
+        <div style="width:50%">![](./img/aspirant/aspirant-round-1.png)</div>
 
     === "Fight Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -243,6 +242,7 @@
 === "Round 2"
 
     === "Fight Image"
+    
         <div style="width:50%">
         ![](./img/aspirant/aspirant-round-2.png)
         </div>
@@ -254,6 +254,7 @@
 === "Round 3"
 
     === "Fight Image"
+    
         <div style="width:50%">
         ![](./img/aspirant/aspirant-round-3.png)
         </div>
@@ -265,6 +266,7 @@
 === "Round 4"
 
     === "Fight Image"
+    
         <div style="width:50%">
         ![](./img/aspirant/aspirant-round-4.png)
         </div>
@@ -276,6 +278,10 @@
 === "Round 5"
 
     === "Fight Image"
+
+<div style="height: 100px; background-color: rgba(255,0,0,0.1);">
+
+    
         <div style="width:50%">
         ![](./img/aspirant/aspirant-round-5.png)
         </div>
