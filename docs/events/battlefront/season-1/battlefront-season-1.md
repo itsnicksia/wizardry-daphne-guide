@@ -12,8 +12,8 @@
 
 ## Overview
 
-- Battlefront of Heroes was released on 4/16 and runs until 6/10. Drecom has announced that they plan to release future seasons on an ongoing basis.  
-- Standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
+- Battlefront of Heroes was released on 4/16 and runs until 6/10. Drecom has announced plans to release future seasons on an ongoing basis.  
+- It is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
 - Each season spotlights a subset of units that are granted a special buff based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
 - The Hero's Award mission offers up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
@@ -55,10 +55,10 @@
 
 === "Registration" 
     
-    - For the first League, Aspirant, you can register up to 8 members. You can add +4 more members with each additional League up to a maximum of 20.
+    - For the first League you can register up to 8 members. Each subsequent League lets you add 4 more members up to a maximum of 20. 
     - Dispatched units cannot be registered. 
     - You do not have to use the same units for each League, but it is -highly- recommended due to how the [medal](#heros-sigil-dark) leveling system works. 
-    - If you fully exit and reset the Battlefront of Heroes, then you must re-register all units for your current League. 
+    - If you fully exit and reset the Battlefront of Heroes, then you must re-register all units.  
     
 === "Pre-Battle"
 
@@ -72,9 +72,9 @@
 
     - Referee Intervention 
         - The Referee can implement additional buffs or debuffs at the start of the match. Fortunately, it is limited to a small number of fights per League. 
-        - The debuffs are extremely strong and we recommend not bringing an affect unit if possible. 
         - The debuffs are not permanent and can be removed with Abit. Priests learn Abit at Level 40 and it is Daniel's potential inherit. Note that Abit 2 can remove 2 debuffs from an entire row.  
-        - The racial debuffs (Beastfolk, Elf) seem to lower all of a unit's stat by a % amount. 
+        - The debuffs are extremely powerful. We recommend clearing them immediately or not bringing affected units. 
+        - The racial debuffs (Beastfolk, Elf) seem to lower all of a unit's stats by a % amount. 
     - Flee 
         - You can flee at any point with 100% success. Any effects sustained in combat will carry over. 
         - No progress is lost. You are sent back to your prior round, which can you can do over again. 
@@ -235,7 +235,7 @@
 
     === "Preview"
     
-        <img src="../img/aspirant/aspirant-round-1.png" width="50%">
+        ![](./img/aspirant/aspirant-round-1.png){ width="100" }
 
     === "Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
