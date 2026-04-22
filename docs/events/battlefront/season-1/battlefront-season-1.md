@@ -283,7 +283,7 @@
 === "Round 2"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-2.png)
 
     === "Fight Details"
         - Frontline: Earth Sahuagin 3x
@@ -292,7 +292,7 @@
 === "Round 3"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-3.png)
 
     === "Fight Details"
         - Frontline: Earth Big Slime 1x
@@ -301,7 +301,7 @@
 === "Round 4"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-4.png)
 
     === "Fight Details"
         - Frontline: Desert Fly 3x
@@ -310,7 +310,7 @@
 === "Round 5"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-5.png)
 
     === "Fight Details"
         - Frontline: Earth Pixie 4x
@@ -319,7 +319,7 @@
 === "Round 6"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-6.png)
 
     === "Fight Details"
         - Frontline: Water Sahuagin 2x, Water Lizardman 1x
@@ -328,7 +328,7 @@
 === "Round 7"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-7.png)
 
     === "Fight Details"
         - Frontline: Scorpion Lady 1x
@@ -337,7 +337,7 @@
 === "Round 8"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-8.png)
 
     === "Fight Details"
         - Frontline: Pirate Berserker 2x
@@ -346,7 +346,7 @@
 === "Round 9"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-9.png)
 
     === "Fight Details"
         - Frontline: Water Lizardman Champion 
@@ -355,7 +355,7 @@
 === "Round 10"
 
     === "Fight Image"
-        ![](./img/adept/adept-round-1.png)
+        ![](./img/adept/adept-round-10.png)
 
     === "Fight Details"
         - Frontline: Plague Crewman 3x
