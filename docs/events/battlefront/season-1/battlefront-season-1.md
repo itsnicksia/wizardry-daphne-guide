@@ -237,6 +237,8 @@
 
 === "League"
 
+    <br>
+
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | League Name &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
@@ -253,6 +255,8 @@
     - If you do not progress to the Hero League, then you will need 2,900 points from special and weekly achievements to reach 6,500 points. 
 
 === "Special" 
+
+    <br>
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
@@ -362,17 +366,28 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Total Points                       | Reward  | 
-    |:-----------------------------------|--------|
-    | 100                                | Savage Warrior Remains    |  
-    | Adept                              | 1,200  | 
-    | Elite                              | 1,700  | 
-    | Hero                               | 2,200  | 
-    | Special                            | 2,700  |     
-    | Damage: One-Hit &emsp; &emsp;                   | 1,200  |
-    | Damage: Total                      | 1,100  |    
-    | Weekly                             | 1,260  | 
-    | Grand Total                        | 12,060 |   
+    | Total Points &emsp;  &emsp;  &emsp;                     | Reward                              | 
+    |:----------------------------------|-------------------------------------|
+    | &emsp; 100                        | Savage Warrior Remains (Gandolfo)   |  
+    | &emsp; 200                        | Heavy Warblade of Honor (HWH)       | 
+    | &emsp; 1,000                      | Zelos Skill Scroll                  |  
+    | &emsp; 1,600                      | 100x Gems of Org                    | 
+    | &emsp; 1,700                      | 1x HWH Unification Material         |  
+    | &emsp; 2,500                      | 1x HWH Unification Material         |  
+    | &emsp; 3,100                      | 1x Adv Remains I                    |   
+    | &emsp; 3,200                      | 3x HWH Unification Material         |  
+    | &emsp; 3,800                      | Mazelos Skill Scroll                |  
+    | &emsp; 4,000                      | Full Power Strike Skill Scroll      |  
+    | &emsp; 4,600                      | 1x Adv Remains II                   |  
+    | &emsp; 4,700                      | 3x HWH Unification Material         |  
+    | &emsp; 5,300                      | 1x Codex of Learning                |  
+    | &emsp; 5,400                      | 1x Silver Ore                       |  
+    | &emsp; 5,400                      | 1x Lesser Full Alteration Stone     |  
+    | &emsp; 5,600                      | 1x Adv Remains I                    |  
+    | &emsp; 6,000                      | 1x Adv Remains II                   |  
+    | &emsp; 6,100                      | Earth-Splitting Strike Skill Scroll |  
+    | &emsp; 6,400                      | 2x Silver Ore                       |  
+    | &emsp; 6,500                      | 1x Lesser Full Alteration Stone     |  
 
     </div>
 
