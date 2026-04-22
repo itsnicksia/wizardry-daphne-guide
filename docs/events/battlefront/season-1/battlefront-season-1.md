@@ -5,14 +5,27 @@
     - The page will be heavily updated over the coming days with more details. 
     - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
 
-!!! danger "Before you Begin"
-    - It is possible to lock yourself out of being able to complete the Hero Mission achievements and rewards. [Here](#heros-reward-mission) for details. 
-    - The medals are one-time only and cannot be farmed or transferred. [Here](#heros-sigil-dark) for details. 
-    - Read all the warnings carefully before proceeding. 
+!!! danger "Critical Warnings - Read Me"
+    - Major Constraints
+        - Once a League has been cleared it cannot be reset. You are automatically advanced to the next League.  
+        - The Hero League is a massive difficulty spike. It may not be possible for a normal player to clear the first round. Only a handful of players globally have cleared it to-date. 
+        - These two constraints have serious implications on the event's other mechanics. 
+    - [Hero's Sigil: Dark](#heros-sigil-dark) 
+        - The medal is a one-time only reward. It cannot be farmed, removed, or transferred to another unit. Every time you clear a League the units in your roster gain +1 Level to the passive. 
+        - Operate on the assumption that L3 is the effective maximum and plan what units you want to register and in what order. 
+        - Only the first 8 units registered in the Aspirant League have the potential to reach L3 or L4. 
+    - [Hero's Reward Missions](#heros-reward-missions)
+        - It is possible to lock yourself out of receiving all the Mission rewards if you do not complete the Special, Damage: One-hit, and Damge: Total achievements in a lower League. 
+        - We -strongly- recommend: 
+            - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
+            - Wait to clear the Elite League until after you have finished all of the Hero's Reward Missions, which requires 6,500 points. 
+    - Doppel Quicksilver 
+        - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Discipline experience. 
+        - Paid pass holders can get up to 5 prior to the Hero League. 
 
 ## Overview
 
-- Event Period: 4/16 - 6/10. Drecom has announced plans to release future seasons on an ongoing basis.  
+- Event Period: April 16 - June 10. Drecom has announced plans to release future seasons on an ongoing basis.  
 - Battlefront of Heroes is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
 - Each season spotlights a subset of units that are granted a special set of buffs based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
@@ -39,7 +52,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | League Name &emsp; &emsp;            | # of Combatants  | # of Rounds  | 
+    | League Name &emsp; &emsp; &emsp;            | # of Combatants  | # of Rounds  | 
     |:-------------------------------------|:----------------:|:------------:|
     | Aspirant                             | 8                | 5            | 
     | Adept                                | 12               | 10           | 
@@ -93,7 +106,7 @@
         - If revived they will lose 30 Fortitude per usual. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
         - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
 
-=== "Exiting the Arena"
+=== "How to Exit the Arena"
 
     - Ignore the warnings that you are permanently barred from competing if you leave the arena. 
     - To exit you must speak with Beth, the receptionist, and confirm that you want to leave. You will be Cursed Wheel back to the registration desk. You can exit freely at that point or re-register for your current League. 
@@ -104,7 +117,6 @@
     - If you need to Cursed Wheel outside your current Abyss, then the Battlefront of Heroes event will reset and disappear from the world map.
     - After Cursed Wheeling enter the Royal Capital from the world map to see the invitiation cutscene again. 
     - If your Cursed Wheel node places you in the Royal Capital, then the request should automatically trigger. If not, simply exit to the world map and re-enter. 
-
 
 ### Battlefront Rules 
 
@@ -120,10 +132,10 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
 
-        | Requirement &emsp; &emsp;    | Description          | Aspirant | Adept | Elite | Hero |
+        | Requirement &emsp; &emsp; &emsp;    | Description          | Aspirant | Adept | Elite | Hero |
         |:----------------|:----------------------------------|--------- |-------|-------|------|
         | Dark Type       | All stats increased               | 1.2x     | 1.3x  | 1.4x  | 1.5x |
-        | Human           | Attack and Magic Power increased &emsp; &emsp;  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
+        | Human           | Attack and Magic Power increased &emsp; &emsp; &emsp;  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
         | 2H Sword        | Damage increased                  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
 
         </div>
@@ -161,12 +173,7 @@
     - Linaria 
     - See the [Adventurer Quicklist](../../../../adventurers/adventurer-quicklist/) for a list of all Human units. 
 
-### Hero's Sigil: Dark
-
-!!! danger "Critical Warnings"
-
-    - The Hero League is unpassable for 99.9% of players in its current state. Operate on the assumption that L3 is the maximum that can be reached. Drecom has stated they will add other ways to increase medal levels in the future. 
-    - You cannot redo an already cleared League. Consequently, only the first 8 units registered for the Aspirant League will have access to the +5 SP (+10 for Dark) at L3. 
+## Hero's Sigil: Dark
 
 === "Basics" 
 
@@ -179,7 +186,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Stat &emsp; &emsp;  | L1     | L2     | L3     | L4     | Totals  | 
+    | Stat &emsp; &emsp; &emsp; | L1     | L2     | L3     | L4     | Totals  | 
     |:--------------------|--------|--------|--------|--------|---------|
     | HP                  | 5 (10) |        |        | 5 (10) | 10 (20) |
     | MP                  |        | 5 (10) |        |        | 5 (10)  | 
@@ -217,21 +224,13 @@
     - Dark Knights gain +10 SP at L3, which is extremely helpful due to their low SP pools even with high discipline. 
     - Improve the survivability of Light units by giving them at least L1 of the medal. Dark bosses and super bosses are very common. 
 
-## Hero's Reward Mission 
-
-!!! danger "Critical Warnings" 
-
-    - It is possible to lock yourself out of receiving all the Mission rewards. If you neglect to do the Special, Damage: One-hit, and Damge: Total achievements in a lower League, then you are stuck with the first round of either Elite or Hero depending on your progress. This also applies to the Weekly achievements.   
-    - We -strongly- recommend: 
-        - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
-        - Wait to clear the Elite League until after you have finished the Hero's Reward Mission. 
-    - The 4th Doppel Quicksilver is locked behind clearing the Hero League. For most players this means a maximum of 3 Doppel Quicksilvers or 75 Discipline experience. 
+## Hero's Reward Missions 
     
 ### Basics  
 
-- Mission achievements, progress, and rewards can only be accessed while in the arena. 
 - To receive all the achievement rewards requires a total of 6,500 points. 
 - There is a maximum of 12,060 points from all sources. It is possible to clear the entire mission before reaching the Hero League.
+- Mission achievements, progress, and rewards can only be accessed while in the arena. 
 
 ### Point Breakdowns 
 
@@ -241,12 +240,12 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | &emsp; League Name &emsp; &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
+    | League Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
     |:-------------------------------------|--------|-------|-------|------------|
-    | &emsp; Aspirant                             | 500    | 200   | 700   | 700        |      
-    | &emsp; Adept                                | 1,000  | 200   | 1,200 | 1,900      |  
-    | &emsp; Elite                                | 1,500  | 200   | 1,700 | 3,600      | 
-    | &emsp; Hero                                 | 2,000  | 200   | 2,200 | 5,800      | 
+    | Aspirant                             | 500    | 200   | 700   | 700        |      
+    | Adept                                | 1,000  | 200   | 1,200 | 1,900      |  
+    | Elite                                | 1,500  | 200   | 1,700 | 3,600      | 
+    | Hero                                 | 2,000  | 200   | 2,200 | 5,800      | 
 
     </div>
 
@@ -260,14 +259,14 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Category    &emsp; &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
+    | Category &emsp; &emsp; &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
     |:-------------------------------------|-----|-----|-----|-----|-----|-------|
-    | &emsp; Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
-    | &emsp; Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
-    | &emsp; 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
-    | &emsp; Knight                               | 100 | 100 | 100 |     |     | 300   |   
-    | &emsp; Mage                                 | 100 | 100 | 100 |     |     | 300   |      
-    | &emsp; Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
+    | Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
+    | Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
+    | 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
+    | Knight                               | 100 | 100 | 100 |     |     | 300   |   
+    | Mage                                 | 100 | 100 | 100 |     |     | 300   |      
+    | Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
 
     </div>
 
@@ -278,20 +277,20 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage     &emsp; &emsp;          | Total   | Cumulative |  
+    | Damage &emsp; &emsp; &emsp; &emsp; &emsp;          | Total   | Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
-    | &emsp; 200                              | 100 | 100   |       
-    | &emsp; 400                              | 100 | 200   | 
-    | &emsp; 600                              | 100 | 300   |    
-    | &emsp; 900                              | 100 | 400   | 
-    | &emsp; 1,500                            | 100 | 500   |       
-    | &emsp; 1,800                            | 100 | 600   | 
-    | &emsp; 2,200                            | 100 | 700   |    
-    | &emsp; 2,600                            | 100 | 800   | 
-    | &emsp; 3,000                            | 100 | 900   |       
-    | &emsp; 5,000                            | 100 | 1,000 | 
-    | &emsp; 7,000                            | 100 | 1,100 |    
-    | &emsp; 10,000                           | 100 | 1,200 | 
+    | 200                              | 100 | 100   |       
+    | 400                              | 100 | 200   | 
+    | 600                              | 100 | 300   |    
+    | 900                              | 100 | 400   | 
+    | 1,500                            | 100 | 500   |       
+    | 1,800                            | 100 | 600   | 
+    | 2,200                            | 100 | 700   |    
+    | 2,600                            | 100 | 800   | 
+    | 3,000                            | 100 | 900   |       
+    | 5,000                            | 100 | 1,000 | 
+    | 7,000                            | 100 | 1,100 |    
+    | 10,000                           | 100 | 1,200 | 
 
     </div>
 
@@ -303,19 +302,19 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage     &emsp; &emsp;                       | Total| Cumulative |  
+    | Damage &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total| Cumulative |  
     |:-----------------------------------------------|:-------:|:------------:|
-    | &emsp; 3,000                                   | 100 | 100   |       
-    | &emsp; 6,000                                   | 100 | 200   | 
-    | &emsp; 9,000                                   | 100 | 300   |    
-    | &emsp; 30,000                                  | 100 | 400   | 
-    | &emsp; 60,000                                  | 100 | 500   |       
-    | &emsp; 90,000                                  | 100 | 600   | 
-    | &emsp; 120,000                                 | 100 | 700   |    
-    | &emsp; 160,000                                 | 100 | 800   | 
-    | &emsp; 200,000                                 | 100 | 900   |       
-    | &emsp; 300,000                                 | 100 | 1,000 | 
-    | &emsp; 600,000                                 | 100 | 1,100 |    
+    | 3,000                                   | 100 | 100   |       
+    | 6,000                                   | 100 | 200   | 
+    | 9,000                                   | 100 | 300   |    
+    | 30,000                                  | 100 | 400   | 
+    | 60,000                                  | 100 | 500   |       
+    | 90,000                                  | 100 | 600   | 
+    | 120,000                                 | 100 | 700   |    
+    | 160,000                                 | 100 | 800   | 
+    | 200,000                                 | 100 | 900   |       
+    | 300,000                                 | 100 | 1,000 | 
+    | 600,000                                 | 100 | 1,100 |    
 
     </div>
 
@@ -327,14 +326,14 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | &emsp; Requirement                             | Total| Cumulative |  
+    | Requirement                             | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
-    | &emsp; Defeat 5 monsters                       | 30 | 30  |       
-    | &emsp; Defeat 10 monsters                      | 30 | 60  | 
-    | &emsp; Defeat 20 monsters                      | 30 | 90  |    
-    | &emsp; Deal a total of 5,000 damage            | 30 | 120 | 
-    | &emsp; Deal a total of 10,000 damage           | 30 | 150 |       
-    | &emsp; Deal a total of 20,000 damage &emsp; &emsp;  &emsp; &emsp;           | 30 | 180 | 
+    | Defeat 5 monsters                       | 30 | 30  |       
+    | Defeat 10 monsters                      | 30 | 60  | 
+    | Defeat 20 monsters                      | 30 | 90  |    
+    | Deal a total of 5,000 damage            | 30 | 120 | 
+    | Deal a total of 10,000 damage           | 30 | 150 |       
+    | Deal a total of 20,000 damage &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;           | 30 | 180 | 
 
     </div>
 
@@ -346,17 +345,17 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | &emsp; Main Category  &emsp;  &emsp;  &emsp;                      | Total  | 
+    | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total  | 
     |:-----------------------------------|--------|
-    | &emsp; Aspirant                           | 700    |  
-    | &emsp; Adept                              | 1,200  | 
-    | &emsp; Elite                              | 1,700  | 
-    | &emsp; Hero                               | 2,200  | 
-    | &emsp; Special                            | 2,700  |     
-    | &emsp; Damage:                            | 1,200  |
-    | &emsp; Damage: Total                      | 1,100  |    
-    | &emsp; Weekly                             | 1,260  | 
-    | &emsp; Grand Total                        | 12,060 |    
+    | Aspirant                           | 700    |  
+    | Adept                              | 1,200  | 
+    | Elite                              | 1,700  | 
+    | Hero                               | 2,200  | 
+    | Special                            | 2,700  |     
+    | Damage:                            | 1,200  |
+    | Damage: Total                      | 1,100  |    
+    | Weekly                             | 1,260  | 
+    | Grand Total                        | 12,060 |    
 
     </div>
 
@@ -366,31 +365,30 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | &emsp; Total Points &emsp;  &emsp;  &emsp;                     | Reward                              | 
+    | Total Points Required &emsp; &emsp; &emsp; &emsp; &emsp;                     | Milestone Reward                              | 
     |:----------------------------------|-------------------------------------|
-    | &emsp; 100                        | Savage Warrior Remains (Gandolfo)   |  
-    | &emsp; 200                        | Heavy Warblade of Honor (HWH)       | 
-    | &emsp; 1,000                      | Zelos Skill Scroll                  |  
-    | &emsp; 1,600                      | 100x Gems of Org                    | 
-    | &emsp; 1,700                      | 1x HWH Unification Material         |  
-    | &emsp; 2,500                      | 1x HWH Unification Material         |  
-    | &emsp; 3,100                      | 1x Adv Remains I                    |   
-    | &emsp; 3,200                      | 3x HWH Unification Material         |  
-    | &emsp; 3,800                      | Mazelos Skill Scroll                |  
-    | &emsp; 4,000                      | Full Power Strike Skill Scroll      |  
-    | &emsp; 4,600                      | 1x Adv Remains II                   |  
-    | &emsp; 4,700                      | 3x HWH Unification Material         |  
-    | &emsp; 5,300                      | 1x Codex of Learning                |  
-    | &emsp; 5,400                      | 1x Silver Ore                       |  
-    | &emsp; 5,400                      | 1x Lesser Full Alteration Stone     |  
-    | &emsp; 5,600                      | 1x Adv Remains I                    |  
-    | &emsp; 6,000                      | 1x Adv Remains II                   |  
-    | &emsp; 6,100                      | Earth-Splitting Strike Skill Scroll |  
-    | &emsp; 6,400                      | 2x Silver Ore                       |  
-    | &emsp; 6,500                      | 1x Lesser Full Alteration Stone     |  
+    | 100                        | Savage Warrior Remains (Gandolfo)   |  
+    | 200                        | Heavy Warblade of Honor (HWH)       | 
+    | 1,000                      | Zelos Skill Scroll                  |  
+    | 1,600                      | 100x Gems of Org                    | 
+    | 1,700                      | 1x HWH Unification Material         |  
+    | 2,500                      | 1x HWH Unification Material         |  
+    | 3,100                      | 1x Adv Remains I                    |   
+    | 3,200                      | 3x HWH Unification Material         |  
+    | 3,800                      | Mazelos Skill Scroll                |  
+    | 4,000                      | Full Power Strike Skill Scroll      |  
+    | 4,600                      | 1x Adv Remains II                   |  
+    | 4,700                      | 3x HWH Unification Material         |  
+    | 5,300                      | 1x Codex of Learning                |  
+    | 5,400                      | 1x Silver Ore                       |  
+    | 5,400                      | 1x Lesser Full Alteration Stone     |  
+    | 5,600                      | 1x Adv Remains I                    |  
+    | 6,000                      | 1x Adv Remains II                   |  
+    | 6,100                      | Earth-Splitting Strike Skill Scroll |  
+    | 6,400                      | 2x Silver Ore                       |  
+    | 6,500                      | 1x Lesser Full Alteration Stone     |  
 
     </div>
-
 
 === "Doppel Quicksilver" 
 
@@ -399,10 +397,16 @@
 
 === "Heavy Warblade of Honor" 
 
+    ![](./img/heavy-warblade-of-honor){ width="390" }
 
+=== "F2P Considerations"
+
+    - Forthcoming.
+
+=== "Paid Pass Considerations"
+
+    - Forthcoming.
     
-
-
 ## General Strategies
 
 - Forthcoming.
