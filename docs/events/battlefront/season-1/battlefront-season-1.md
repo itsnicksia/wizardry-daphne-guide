@@ -254,6 +254,8 @@
 
 === "Special" 
 
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
     | Category    &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
     |:-------------------------------------|:---:|:---:|:---:|:---:|:---:|:-----:|
     | Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
@@ -263,10 +265,14 @@
     | Mage                                 | 100 | 100 | 100 |     |     | 300   |      
     | Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
 
+    </div>
+
     - Number of party members are the column headings. 
     - The special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching the 6,500 total points. 
 
 === "Damage: One-Hit" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Damage Amount    &emsp; &emsp; &emsp;   | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
@@ -283,11 +289,15 @@
     | 7,000                                   | 100 | 1,100 |    
     | 10,000                                  | 100 | 1,200 | 
 
+    </div>
+
     - Each achievement is worth 100 points for a total of 1,200 points. 
     - Multi-hit weapons and attacks such as Hue count as "one-hit". 
     - Strongly recommend doing the 10,000 damage achievement on a lower League. Sleep or freeze a weak enemy and hit them with your strongest skill using a Dark Human equipped with a 2H sword. 
 
 === "Damage: Total" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Damage Amount    &emsp; &emsp; &emsp;   | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
@@ -303,11 +313,15 @@
     | 300,000                                 | 100 | 1,000 | 
     | 600,000                                 | 100 | 1,100 |    
 
+    </div>
+
     - Each achievement is worth 100 points for a total of 1,100 points. 
     - Even if you lose the damage done in a round is still counted. (Needs additional verification). 
     - Strongly recommend farming the total damage achievements in the Aspirant and Adept Leagues depending on your Abyss progress and account power. 
 
 === "Weekly" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Requirement    &emsp; &emsp; &emsp;   | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
@@ -318,11 +332,15 @@
     | Deal a total of 10,000 damage           | 30 | 150 |       
     | Deal a total of 20,000 damage           | 30 | 180 | 
 
+    </div>
+
     - There will be 7 weekly achievements during the season. 
     - Each achievement is worth 30 points for a total of 180 points per week. 
     - Weekly achievements are worth a total of 1,260 points. 
 
-== "All Sources"
+=== "All Sources"
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Category    &emsp; &emsp; &emsp;   | Total  | 
     |:-----------------------------------|:------:|
@@ -335,6 +353,8 @@
     | Damage: Total                      | 1,100  |    
     | Weekly                             | 1,260  | 
     | Grand Total                        | 12,060 |    
+
+    </div>
 
 ### Rewards
 
