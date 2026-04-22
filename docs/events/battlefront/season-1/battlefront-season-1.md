@@ -231,53 +231,53 @@
 
 === "Round 1"
 
-    === "Fight Image"
+    === "Preview"
     
-        <div style="width:50%">![](./img/aspirant/aspirant-round-1.png)</div>
+        <img src="./img/aspirant/aspirant-round-1.png" width="50%">
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
         - Backline: Goblin Mage 2x
 
 === "Round 2"
 
-    === "Fight Image"
+    === "Preview"
     
         <div style="width:50%">
         ![](./img/aspirant/aspirant-round-2.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Vorpal Bunny 2x
         - Backline: Skeleton Archer 3x
 
 === "Round 3"
 
-    === "Fight Image"
+    === "Preview"
     
         <div style="width:50%">
         ![](./img/aspirant/aspirant-round-3.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Skeleton Knight 2x
         - Backline: Red Spinner Woman 2x
 
 === "Round 4"
 
-    === "Fight Image"
+    === "Preview"
     
         <div style="width:50%">
         ![](./img/aspirant/aspirant-round-4.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
         - Backline: Goblin Archer 1x
 
 === "Round 5"
 
-    === "Fight Image"
+    === "Preview"
 
         <!--div style="height: 100px; background-color: rgba(255,0,0,0.1);"-->
 
@@ -286,7 +286,7 @@
         ![](./img/aspirant/aspirant-round-5.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Knight-Butcher Ent 2x
         - Backline: Skeleton Mage 1x
 
@@ -294,99 +294,99 @@
 
 === "Round 1"
 
-    === "Fight Image"
+    === "Preview"
         <div style="width:50%">
         ![](./img/adept/adept-round-1.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Earth Hobgoblin 2x
         - Backline: Earth Creeping Coin 2x
 
 === "Round 2"
 
-    === "Fight Image"
+    === "Preview"
         <div style="width:50%">
         ![](./img/adept/adept-round-2.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Earth Sahuagin 3x
         - Backline: Earth Cloud 2x
         
 === "Round 3"
 
-    === "Fight Image"
+    === "Preview"
         <div style="width:50%">
         ![](./img/adept/adept-round-3.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Earth Big Slime 1x
         - Backline: Earth Entity 4x
         
 === "Round 4"
 
-    === "Fight Image"
+    === "Preview"
         <div style="width:50%">
         ![](./img/adept/adept-round-4.png)
         </div>
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Desert Fly 3x
         - Backline: Earth Sahuagin Archer 2x, Earth Creeping Coin 1x
 
 === "Round 5"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/adept/adept-round-5.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Earth Pixie 4x
         - Backline: Earth Pixie 1x, Hydra Plant 1x
 
 === "Round 6"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/adept/adept-round-6.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Water Sahuagin 2x, Water Lizardman 1x
         - Backline: Sahuagin Archer 1x, Sahuagin Mage 1x
 
 === "Round 7"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/adept/adept-round-7.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Scorpion Lady 1x
         - Backline: Earth Entity 3x
 
 === "Round 8"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/adept/adept-round-8.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Pirate Berserker 2x
         - Backline: Gluttonous Maw 2x
 
 === "Round 9"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/adept/adept-round-9.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Water Lizardman Champion 
         - Backline: Pirate Deacon 2x
 
 === "Round 10"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/adept/adept-round-10.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Plague Crewman 3x
         - Backline: Oar Collector 1x
 
@@ -394,136 +394,136 @@
 
 === "Round 1"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-1.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Skeleton Archer 2x
         - Backline: Poltergeist 2x
 
 === "Round 2"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-2.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Vorpal Bunny 3x
         - Backline: Evil Eye 1x
 
 === "Round 3"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-3.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Chimera 1x
         - Backline: Indigo Ninja 2x
 
 === "Round 4"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-4.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Ninja 3x
         
 === "Round 5"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-5.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Greater Demon 1x
         - Backline: Skeleton Archer 3x
 
 === "Round 6"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-6.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Fire Goblin 3x
         - Backline: Fire Pixie 2x
 
 === "Round 7"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-7.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Fire Insect 3x
         - Backline: Fire Entity 2x
 
 === "Round 8"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-8.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Fire Fly 3x
         - Backline: Fire Hawk 2x
 
 === "Round 9"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-9.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Fire Slime 3x
         - Middle: Fire Cloud 3x
         - Backline: 2x Fire Goblin Archer, 1x Fire Goblin Mage
 
 === "Round 10"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-10.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Minotaur 2x
         - Backline: Fire Entity 3x
         - Debuff Applied: Beastfolk Stats Down
 
 === "Round 11"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-11.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Earth Cloud 4x
 
 === "Round 12"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-12.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Gorgon 2x
         - Backline: Earth Pixie 3x
 
 === "Round 13"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-13.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Earth Big Slime 1x
         - Backline: Earth Entity 2x
 
 === "Round 14"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-14.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Wight 2x
         - Backline: Desert Fly 2x, Earth Big Slime 1x
 
 === "Round 15"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/elite/elite-round-15.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Light Succubi 2x, Necrocore 1x
         - Backline: Necromancer 1x
         - Debuff Applied: Elf Stats Down
@@ -532,42 +532,42 @@
 
 === "Round 1"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/hero/hero-round-1.png)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Hobgoblin 2x, Goblin 1x
         - Backline: Goblin Mage 1x, Goblin Shaman 1x, Goblin Archer 1x
 
-    === "Fight Tips"
+    === "Tips"
         - All the enemies use their standard skillsets. All of them are evadable with Dark Element units with 230+ EVA.
         - Kill the magic casting backline units first. Kill the rest with basic attacks to conserve SP.
 
 === "Round 2"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Hobgoblin 3x
         - Backline: Mage Adventurer 3x
 
-    === "Fight Tips"
+    === "Tips"
         - Mage Adventurers tend to prioritze casting BALAFEOS first on any rows without ATK debuff. They also prefer casting other debuff spells, but can cast single-target attack spells sometimes. The BALAFEOS is quite strong so ABIT it ASAP on ATK-scaling units.
         - Hobgoblins use their standard skillset. Can be evaded with Dark Element units with 230+ EVA.
         - Kill the mages first ASAP. Kill the rest with basic attacks to conserve SP.
 
 === "Round 3"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Vorpal Bunny 2x, Large Slime 1x
         - Middle: Wind Entity 2x, Water Slime 2x
         - Backline: Ninja 2x
 
-    === "Fight Tips"
+    === "Tips"
         - Bunnies have extremely high evasion and decently high HP. they can be instantly frozen with MADALTO and then killed in one with with a 700-800 ATK 2H Sword Lvl 1 ESS or Poised.
         - The Big Slime and Water Slimes can be evaded entirely with Dark Element units with 230+ EVA.
         - The Entities can be evaded if they are not casting magic with the previously mentioned stats.
@@ -576,124 +576,124 @@
 
 === "Round 4"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
         - Backline: Mage Adventurer 1x, Ninja 2x
 
-    === "Fight Tips"
+    === "Tips"
         - It's recommended to clear the backline first. See previous entries for how these enemies function. They will be consistent throughout the run.
         - It's possible to evade the Red Spinner Woman and Scorpion Lady but they might require MASOLOTU + DILTO applied as they are a bit more accurate. BATILGREF also helps buy a lot of time to kill the backline first before dealing with the frontline.
         - It's recommended to kill in the order of Mage, Ninja, Red Spinner Woman, Scorpion Lady.
         
 === "Round 5"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Giant Monster Bird 1x
         - Backline: Air Hawk 3x
 
-    === "Fight Tips"
+    === "Tips"
         - This is probably one of the more annoying fights for a majority of the runs, as it drains a lot of resources. It's recommended to deal with the Hawks immediately by using KATINO, which is nearly guaranteed on them. If they are not taken care of they can easily surety for over 1K damage. Otherwise, they have rather low HP and can be killed with ESS or Poised after being slept despite being in the backline. 
         - The Monster Bird itself has very high HP, perhaps around 100k or higher. It's also extremely evasive, so it's recommended to apply MACALDIA to your DPS and debuff it's evasion via BATILGREF and Chill. The Monster Bird is immune to the CT debuffing effects of BATILGREF but not the EVA debuffing portion. The single target attack of the Monster Bird is evadable.
         - Knights can be employed here if necessary to survive its full team AOE attack. Alternatively, you can simply equip every unit with Magical Beast Resistance Gear and have two Priests, preferably Dark Element for maximum HP.
 
 === "Round 6"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Skeleton Knight 2x, Skeleton Giant
         - Backline: Skeleton Mage 2x, Skeleton Archer
 
-    === "Fight Tips"
+    === "Tips"
         - Every enemy has extremely high accuracy, otherwise relatively low HP compared to most fights in this mode. They all have standard movesets, just very high physical damage.
         - MAREIN isnt suggested, it's better to BATILGREF the frontline and then focus on wiping the backline ASAP.
 
 === "Round 7"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Plague Crewman 2x, Cursed Sack Doll 2x
         - Backline: Ninja 2x, Necromancer 1x
 
-    === "Fight Tips"
+    === "Tips"
         - The Cursed Sack Dolls guaranteed go first (even if u have 500 ASPD), and will typically either use Cursed Ritual to apply Curse to everyone or do a lot of damage. They are somewhat hard to evade.
         - Everything has a standard moveset, but main issue are the Cursed Sack Dolls. They are extremely fast and evasive, but can be taken care of instantly with MADALTO and ESS/Poised with a 2H Sword. Afterwards it's recommended to kill the Necromancer and Ninjas. You can also KATINO the Plague Crewman, as they are one of the few enemies that can sleep for multiple turns while you take care of the rest. Alternatively, BATILGREF works too.
 
 === "Round 8"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Necrocore 1x, Lesser Demon 2x
         - Backline: Dark Slime 4x
 
-    === "Fight Tips"
+    === "Tips"
         - You can evade all of the enemies here with previously mentioned EVA build. They mainly just use physical attacks.
         - Ideally just BATILGREF both rows and kill them with basic attacks to replenish some SP with Debra's inherit skill if possible.
         - Focus the front row before killing the backrow.
 
 === "Round 9"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Chimera 2x
         - Backline: Ninja 2x, Mage Adventurer 2x
 
-    === "Fight Tips"
+    === "Tips"
         - The Chimeras are extremely fast, accurate, and have very high surety chance. You essentially have to pray your damage reduction passives (WOTK, Sanctuary's Blessing, Wisdom of Truth, Eyes that Know the Future) will proc here or they can instantly kill. It's very recommended that your entire frontline has Magical Beast Resist gear.
         - Ideally just BATILGREF the Chimeras and defend with your frontline. Try to kill enemies with your backline. Focus on clearing the enemy backline first, particularly the mages so they don't keep debuffing you.
 
 === "Round 10"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Minotaur 1x, Our Heirlooms 1x
         - Backline: Ninja 2x, Mage Adventurer 1x
 
-    === "Fight Tips"
+    === "Tips"
         - It's recommended to immediately BATILGREF the enemy frontline, then deal with the backline first as per usual
         - The Minotaur has relatively high accuracy, and does very high damage so deal with it first. Very recommended to use Magical Beast Resist gear for your frontline.
         - Our Heirlooms has a standard moveset and isn't that strong. Preferably do not use low fortitude units for this fight though.
 
 === "Round 11"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Lamenting Snowfolk 2x
         - Middle: Pixie 2x
         - Backline: Gorgon 2x
 
-    === "Fight Tips"
+    === "Tips"
         - MADALTO the pixies immediately and get rid of them, as they can apply Sleep which can easily get you killed.
         - It's recommended to BATILGREF both rows and then quickly deal with the columns. If possible, kill the Gorgon before the Lamenting Snowfolk as the Gorgons can instantly stone a row if both aim their breath at the same row. The Gorgons also frequently Lunge, which switches a frontline unit with the backline.
         - The Gorgons have very high accuracy and do quite a lot of damage with Lunge as they move closer. It may be favorable to bring Magical Beast Resistance gear.
 
 === "Round 12"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Evil Eye 1x, Earth Slime 2x
         - Backline: Hydra Plant 2x, Mage Adventurer 1x
 
-    === "Fight Tips"
+    === "Tips"
         - It goes without saying, immediately kill the Mage Adventurer. Then it's preferable to focus on killing the Evil Eye, as it gets two actions a turn, and can potentially wipe an entire row at once. It's somewhat evadable, but very risky if it starts targetting the backline, which may not have very high evasion. In addition, it has a very high chance of calling for an Ally randomly, which is another Evil Eye but with significantly less HP.
         - The Hydra Plants have a standard moveset, and don't really do much damage. However, that row damage cannot be evaded.
         - The Earth Slimes are evadable and very weak, so they are the least priority to deal with.
@@ -701,55 +701,55 @@
 
 === "Round 13"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Big Snow Hawk 2x
         - Backline: Snow Hawk 2x, Pixie 2x
 
-    === "Fight Tips"
+    === "Tips"
         - This match is pretty easy, everything can be evaded. MADALTO the backline and immediately kill the pixies. The Snow Hawks however, require 3 DALTOs to freeze.
         - Can BATILGREF/MADALTO to reduce their evasion. It's not recommended to use Dissipation or Malefic Wind unless you have plenty of resources remaining to remove their CT/EVA buffs.
 
 === "Round 14"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Succubi 3x
         - Backline: Earth Cloud 2x, Mage Adventurer 1x
 
-    === "Fight Tips"
+    === "Tips"
         - The clouds have very high defense, especially in the backline and seem to always go first. However, they can generally be evaded. Deal with these last.
         - MADALTO the front row, as the Succubi are very evasive but freeze immediately. Kill them and the Mage Adventurer. Then focus on chipping away on the clouds.
 
 === "Round 15"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Bigfoot 1x, Cyclops 1x
         - Backline: Bigfoot Child 3x
         - Debuff Applied: Beastfolk Stats Down
 
-    === "Fight Tips"
+    === "Tips"
         - The Cyclops is evadable, but the rest of the enemies are not. It's highly recommended to cast BATILGREF and MADALTO on the frontline + backline in order to buy as much time as possible.
         - Kill the Bigfoot first, as this will apply an additional CT and ATK down on the Bigfoot children. You can then focus on killing the Cyclops and then the rest of the Bigfoot children.
         - It's almost mandatory to run a large amount of Stun/Paralysis Tolerance for this as the breath from the Bigfoot can easily end the run. It's recommended to bring Asha and Eldorado for this if possible, as they can both also help apply MADALTO.
 
 === "Round 16"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Mimic 1x, Stonefolk 1x
         - Backline: Lamenting Snowfolk 2x
 
-    === "Fight Tips"
+    === "Tips"
         - The Stonefolk typically just uses physical attack, and it has insanely high damage, basically unsurvivable if not defending. It has very high defense as well, but has very little HP.
         - The Lamenting Snowfolk will prioritize casting single-target magic, which includes DALTO, which can mess with evasion strategies. Keep in mind though, that they can also use Clamp which does a lot of damage if they move to the frontline.
         - The Mimic has its usual moveset. Its physical moves can be evaded, but it can occasionally cast low damage magic.
@@ -757,51 +757,51 @@
 
 === "Round 17"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Lizardman 2x, Fire Slime 2x
         - Backline: Fire Entity 2x, Lizardman Champion 1x
 
-    === "Fight Tips"
+    === "Tips"
         - All the enemies have standard movesets in here. The Lizardman Champion will cast Merfolk Command on its first turn, which gives 4 turns of ACC,CT,EVA up on itself and the Lizardman. It's highly recommended to cleanse the ACC buff ASAP, as the strategy for this fight will be evasion. Keep in mind however, the Lizardman still have relatively high accuracy, so they hit you.
         - Kill the Fire Slimes first, as they have little HP and can apply evasion down. This will also move the Lizardman Champion to the same row as the Lizardman, where you can dispel all their buffs at once with Malefic Wind and/or Lvl 2 Dissiption. You can also now BATILGREF + MADALTO (chill reduces accuracy) all of them at once. Kill the Fire Entities ASAP as well as they can cast magic. Afterwards, continue working on the rest of the enemies.
 
 === "Round 18"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Vampire 2x, Sand Apparition 2x
         - Backline: Mage Adventurer 3x
 
-    === "Fight Tips"
+    === "Tips"
         - Not clear yet
 
 === "Round 19"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Snow Wolf Leader 1x, Snow Wolf 3x
         - Backline: Snow Wolf 4x
 
-    === "Fight Tips"
+    === "Tips"
         - Not clear yet
 
 === "Round 20"
 
-    === "Fight Image"
+    === "Preview"
         ![](./img/)
 
-    === "Fight Details"
+    === "Details"
         - Frontline: Defense Golem 1x, Attack Golem 1x
         - Backline: Greater Demon 2x
 
-    === "Fight Tips"
+    === "Tips"
         - Not clear yet
 
 
