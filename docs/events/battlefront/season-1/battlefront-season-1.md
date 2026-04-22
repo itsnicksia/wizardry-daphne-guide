@@ -370,11 +370,11 @@
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Total Points Required &emsp; &emsp; &emsp; &emsp; &emsp;                     | Milestone Reward                              | 
-    |:----------------------------------|-------------------------------------|
-    | 100                        | Savage Warrior Remains (Gandolfo)   |  
-    | 200                        | Heavy Warblade of Honor (HWH)       | 
-    | 1,000                      | Zelos Skill Scroll                  |  
-    | 1,600                      | 100x Gems of Org                    | 
+    |----------------------------------|-------------------------------------|
+    | &emsp; 100                        | Savage Warrior Remains (Gandolfo)   |  
+    | &emsp; 200                        | Heavy Warblade of Honor (HWH)       | 
+    | &emsp; 1,000                      | Zelos Skill Scroll                  |  
+    | &emsp; 1,600                      | 100x Gems of Org                    | 
     | 1,700                      | 1x HWH Unification Material         |  
     | 2,500                      | 1x HWH Unification Material         |  
     | 3,100                      | 1x Adv Remains I                    |   
@@ -416,17 +416,20 @@
 
         ![](./img/doppel-quicksilver-description.png){ width="390" }
 
-    === "Training Room" 
+    === "Discipline Screen" 
 
         ![](./img/doppel-quicksilver-training-room.png){ width="390" }
+
+        - When you go to the Training Room - Discipline with a unit you will now see the Doppel Quicksilver as an available option. 
 
 === "Heavy Warblade of Honor" 
 
     ![](./img/heavy-warblade-of-honor){ width="390" }
 
-=== "F2P Considerations"
+=== "F2P"
 
-    - Forthcoming.
+    - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
+    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Discipline experience. 
 
 === "Paid Pass Considerations"
 
