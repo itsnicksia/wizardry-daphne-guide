@@ -57,29 +57,31 @@
     
     - For the first League, Aspirant, you can register up to 8 members. You can add +4 more members with each additional League up to a maximum of 20.
     - Dispatched units cannot be registered. 
-    - You do not have to use the same units for each League, but it is -highly- recommended due to how the [medal](#heros-sigil-dark) system works. 
+    - You do not have to use the same units for each League, but it is -highly- recommended due to how the [medal](#heros-sigil-dark) leveling system works. 
     - If you fully exit and reset the Battlefront of Heroes, then you must re-register all units for your current League. 
     
 === "Pre-Battle"
 
-    - Before each match you can re-arrange your active party using the red "people" icon in the upper right-hand corner.
-    - Speak to the Blackiron Warden for information about the upcoming fight. 
-    - To heal between matches a unit must be in your active party. It is helpful to bring additional healers to conserve your team's MP. 
+    - Before each round you can re-arrange your active party using the red "people" icon in the upper right-hand corner.
+    - Speak to the Blackiron Warden for a preview of the enemies for the next round. It does not include enemy row placements.  
+    - To heal the unit must be in your active party. 
     - To change equipment the unit does not need to be in your active party. 
-    - You can use a Resistance buff while in the waiting room. It will remain active even after accepting the next match. 
-
+    - You can use a Resistance buff while in the waiting room or while in the arena before engaging with the enemy. 
+    
 === "During Battle" 
 
     - Referee Intervention 
         - The Referee can implement additional buffs or debuffs at the start of the match. Fortunately, it is limited to a small number of fights per League. 
-        - The debuffs are extremely strong, but can be removed with Abit. It is usually best to not use an affected unit. 
+        - The debuffs are extremely strong and we recommend not bringing an affect unit if possible. 
+        - The debuffs are not permanent and can be removed with Abit. Priests learn Abit at Level 40 and it is Daniel's potential inherit. Note that Abit 2 can remove 2 debuffs from an entire row.  
+        - The racial debuffs (Beastfolk, Elf) seem to lower all of a unit's stat by a % amount. 
     - Flee 
-        - You can flee at any point during the match with 100% success. Any effects sustained in combat will carry over. 
-        - No progress is lost. You are sent back to your prior match, which can you can do over again. 
+        - You can flee at any point with 100% success. Any effects sustained in combat will carry over. 
+        - No progress is lost. You are sent back to your prior round, which can you can do over again. 
     
 === "Death" 
 
-    - MC 
+    - If MC dies:  
         - "Rise again" 
             - Revived and transported to the waiting room with no impact on your team's HP, MP, or SP. 
             - Consumes a Flame of Reawakening. 
@@ -88,9 +90,9 @@
             - Progress is not lost. Does not consume a Flame of Reawakening. 
         - Death of any kind does not appear to lower the MC's hidden Fortitude value. 
         - You can gain up to 2 Flames of Reawakening in the Well of the Mind, allowing you to revive up to 5 times. 
-    - Party Member     
-        - If a unit dies and is revived they will lose 30 Fortitude. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
-        - Fortitude does not recover between matches. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
+    - If a party member dies:   
+        - If revived they will lose 30 Fortitude. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
+        - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
 
 === "Exiting"
 
@@ -233,7 +235,7 @@
 
     === "Preview"
     
-        <img src="./img/aspirant/aspirant-round-1.png" width="50%">
+        <img src="../img/aspirant/aspirant-round-1.png" width="50%">
 
     === "Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
