@@ -112,7 +112,7 @@
 
     - The arena provides a set of special buffs during combat called "Battlefront Rules" for units that are Dark, Human, or use a 2H Sword. 
     - The buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues. 
-    - We recommend you change MC's Type to Dark in the [Well of the Mind](. While the Type node locations do not change the 3 elements that are rolled each time you reset are randomly determined.      
+    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../../docs/adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
     
 === "Special Buff" 
 
@@ -150,7 +150,7 @@
 === "Restrictions" 
 
     - Use of consumable and support items is prohibited. 
-    - The game update states that you cannot leave during a match, but this is not true. You can flee if you need to restart the match.
+    - The game update states that you cannot leave during a match, but this is not true. You can flee if you need to restart a match.
 
 === "Dark + Human Units" 
 
@@ -233,7 +233,7 @@
 === "Round 1"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-1.png){ width="375" }
+        ![](./img/aspirant/aspirant-round-1.png){ width="385" }
 
     === "Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -242,7 +242,7 @@
 === "Round 2"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-2.png){ width="375" }
+        ![](./img/aspirant/aspirant-round-2.png){ width="385" }
 
     === "Details"
         - Frontline: Vorpal Bunny 2x
@@ -251,7 +251,7 @@
 === "Round 3"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-3.png){ width="375" }
+        ![](./img/aspirant/aspirant-round-3.png){ width="385" }
 
     === "Details"
         - Frontline: Skeleton Knight 2x
@@ -260,7 +260,7 @@
 === "Round 4"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-4.png){ width="375" }
+        ![](./img/aspirant/aspirant-round-4.png){ width="385" }
 
     === "Details"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
@@ -269,7 +269,7 @@
 === "Round 5"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-5.png){ width="375" }
+        ![](./img/aspirant/aspirant-round-5.png){ width="385" }
 
     === "Details"
         - Frontline: Knight-Butcher Ent 2x
@@ -280,7 +280,7 @@
 === "Round 1"
 
     === "Preview"
-        ![](./img/adept/adept-round-1.png){ width="375" }
+        ![](./img/adept/adept-round-1.png){ width="385" }
 
     === "Details"
         - Frontline: Earth Hobgoblin 2x
@@ -289,9 +289,7 @@
 === "Round 2"
 
     === "Preview"
-        <div style="width:50%">
-        ![](./img/adept/adept-round-2.png)
-        </div>
+        ![](./img/adept/adept-round-2.png){ width="385" }
 
     === "Details"
         - Frontline: Earth Sahuagin 3x
@@ -300,9 +298,7 @@
 === "Round 3"
 
     === "Preview"
-        <div style="width:50%">
-        ![](./img/adept/adept-round-3.png)
-        </div>
+        ![](./img/adept/adept-round-3.png){ width="385" }
 
     === "Details"
         - Frontline: Earth Big Slime 1x
@@ -311,9 +307,7 @@
 === "Round 4"
 
     === "Preview"
-        <div style="width:50%">
-        ![](./img/adept/adept-round-4.png)
-        </div>
+        ![](./img/adept/adept-round-4.png){ width="385" }
 
     === "Details"
         - Frontline: Desert Fly 3x
@@ -322,7 +316,7 @@
 === "Round 5"
 
     === "Preview"
-        ![](./img/adept/adept-round-5.png)
+        ![](./img/adept/adept-round-5.png){ width="385" }
 
     === "Details"
         - Frontline: Earth Pixie 4x
@@ -331,7 +325,7 @@
 === "Round 6"
 
     === "Preview"
-        ![](./img/adept/adept-round-6.png)
+        ![](./img/adept/adept-round-6.png){ width="385" }
 
     === "Details"
         - Frontline: Water Sahuagin 2x, Water Lizardman 1x
@@ -340,7 +334,7 @@
 === "Round 7"
 
     === "Preview"
-        ![](./img/adept/adept-round-7.png)
+        ![](./img/adept/adept-round-7.png){ width="385" }
 
     === "Details"
         - Frontline: Scorpion Lady 1x
