@@ -6,7 +6,7 @@
     - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
 
 !!! danger "Before you Begin"
-    - It is possible to lock yourself out of being able to complete the Hero Mission achievements and rewards. [Here](#heros-mission) for details. 
+    - It is possible to lock yourself out of being able to complete the Hero Mission achievements and rewards. [Here](#heros-reward-mission) for details. 
     - The medals are one-time only and cannot be farmed or transferred. [Here](#heros-sigil-dark) for details. 
     - Read all the warnings carefully before proceeding. 
 
@@ -241,12 +241,12 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | League Name &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
+    | &emsp; League Name &emsp; &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
     |:-------------------------------------|--------|-------|-------|------------|
-    | Aspirant                             | 500    | 200   | 700   | 700        |      
-    | Adept                                | 1,000  | 200   | 1,200 | 1,900      |  
-    | Elite                                | 1,500  | 200   | 1,700 | 3,600      | 
-    | Hero                                 | 2,000  | 200   | 2,200 | 5,800      | 
+    | &emsp; Aspirant                             | 500    | 200   | 700   | 700        |      
+    | &emsp; Adept                                | 1,000  | 200   | 1,200 | 1,900      |  
+    | &emsp; Elite                                | 1,500  | 200   | 1,700 | 3,600      | 
+    | &emsp; Hero                                 | 2,000  | 200   | 2,200 | 5,800      | 
 
     </div>
 
@@ -260,14 +260,14 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Category    &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
+    | Category    &emsp; &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
     |:-------------------------------------|-----|-----|-----|-----|-----|-------|
-    | Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
-    | Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
-    | 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
-    | Knight                               | 100 | 100 | 100 |     |     | 300   |   
-    | Mage                                 | 100 | 100 | 100 |     |     | 300   |      
-    | Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
+    | &emsp; Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
+    | &emsp; Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
+    | &emsp; 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
+    | &emsp; Knight                               | 100 | 100 | 100 |     |     | 300   |   
+    | &emsp; Mage                                 | 100 | 100 | 100 |     |     | 300   |      
+    | &emsp; Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
 
     </div>
 
@@ -327,14 +327,14 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Requirement                             | Total| Cumulative |  
+    | &emsp; Requirement                             | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
-    | Defeat 5 monsters                       | 30 | 30  |       
-    | Defeat 10 monsters                      | 30 | 60  | 
-    | Defeat 20 monsters                      | 30 | 90  |    
-    | Deal a total of 5,000 damage            | 30 | 120 | 
-    | Deal a total of 10,000 damage           | 30 | 150 |       
-    | Deal a total of 20,000 damage &emsp; &emsp;  &emsp;           | 30 | 180 | 
+    | &emsp; Defeat 5 monsters                       | 30 | 30  |       
+    | &emsp; Defeat 10 monsters                      | 30 | 60  | 
+    | &emsp; Defeat 20 monsters                      | 30 | 90  |    
+    | &emsp; Deal a total of 5,000 damage            | 30 | 120 | 
+    | &emsp; Deal a total of 10,000 damage           | 30 | 150 |       
+    | &emsp; Deal a total of 20,000 damage &emsp; &emsp;  &emsp; &emsp;           | 30 | 180 | 
 
     </div>
 
@@ -346,27 +346,27 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Main Category  &emsp;  &emsp;  &emsp;                      | Total  | 
+    | &emsp; Main Category  &emsp;  &emsp;  &emsp;                      | Total  | 
     |:-----------------------------------|--------|
-    | Aspirant                           | 700    |  
-    | Adept                              | 1,200  | 
-    | Elite                              | 1,700  | 
-    | Hero                               | 2,200  | 
-    | Special                            | 2,700  |     
-    | Damage:                            | 1,200  |
-    | Damage: Total                      | 1,100  |    
-    | Weekly                             | 1,260  | 
-    | Grand Total                        | 12,060 |    
+    | &emsp; Aspirant                           | 700    |  
+    | &emsp; Adept                              | 1,200  | 
+    | &emsp; Elite                              | 1,700  | 
+    | &emsp; Hero                               | 2,200  | 
+    | &emsp; Special                            | 2,700  |     
+    | &emsp; Damage:                            | 1,200  |
+    | &emsp; Damage: Total                      | 1,100  |    
+    | &emsp; Weekly                             | 1,260  | 
+    | &emsp; Grand Total                        | 12,060 |    
 
     </div>
 
 ### Rewards
 
-=== "Important Milestones" 
+=== "Milestone Rewards" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Total Points &emsp;  &emsp;  &emsp;                     | Reward                              | 
+    | &emsp; Total Points &emsp;  &emsp;  &emsp;                     | Reward                              | 
     |:----------------------------------|-------------------------------------|
     | &emsp; 100                        | Savage Warrior Remains (Gandolfo)   |  
     | &emsp; 200                        | Heavy Warblade of Honor (HWH)       | 
