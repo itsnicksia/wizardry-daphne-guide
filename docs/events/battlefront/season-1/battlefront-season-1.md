@@ -232,7 +232,7 @@
 === "Round 1"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/aspirant/aspirant-round-1.png)
         </div>
 
@@ -243,7 +243,7 @@
 === "Round 2"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/aspirant/aspirant-round-2.png)
         </div>
 
@@ -254,7 +254,7 @@
 === "Round 3"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/aspirant/aspirant-round-3.png)
         </div>
 
@@ -265,7 +265,7 @@
 === "Round 4"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/aspirant/aspirant-round-4.png)
         </div>
 
@@ -276,7 +276,7 @@
 === "Round 5"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/aspirant/aspirant-round-5.png)
         </div>
 
@@ -289,7 +289,7 @@
 === "Round 1"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/adept/adept-round-1.png)
         </div>
 
@@ -300,7 +300,7 @@
 === "Round 2"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/adept/adept-round-2.png)
         </div>
 
@@ -311,7 +311,7 @@
 === "Round 3"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/adept/adept-round-3.png)
         </div>
 
@@ -322,7 +322,7 @@
 === "Round 4"
 
     === "Fight Image"
-        <div style= "width: 50%">
+        <div style="width:50%">
         ![](./img/adept/adept-round-4.png)
         </div>
 
