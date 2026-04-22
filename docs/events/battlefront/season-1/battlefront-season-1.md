@@ -227,7 +227,9 @@
 === "Round 1"
 
     === "Fight Image"
+        <div style="width: 50%;">
         ![](./img/aspirant/aspirant-round-1.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -236,7 +238,9 @@
 === "Round 2"
 
     === "Fight Image"
+        <div style="width: 60%;">
         ![](./img/aspirant/aspirant-round-2.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Vorpal Bunny 2x
@@ -245,7 +249,9 @@
 === "Round 3"
 
     === "Fight Image"
+        <div style="width: 70%;">
         ![](./img/aspirant/aspirant-round-3.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Skeleton Knight 2x
@@ -254,7 +260,9 @@
 === "Round 4"
 
     === "Fight Image"
+        <div style="width: 40%;">
         ![](./img/aspirant/aspirant-round-4.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
@@ -263,7 +271,9 @@
 === "Round 5"
 
     === "Fight Image"
+        <div style="width: 30%;">
         ![](./img/aspirant/aspirant-round-5.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Knight-Butcher Ent 2x
