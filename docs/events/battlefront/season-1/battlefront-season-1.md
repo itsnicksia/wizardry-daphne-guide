@@ -445,46 +445,46 @@
 
 === "Round 1"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/aspirant/aspirant-round-1.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Air Cloud 2x, Skeleton 1x
         - Backline: Goblin Mage 2x
 
 === "Round 2"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/aspirant/aspirant-round-2.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Vorpal Bunny 2x
         - Backline: Skeleton Archer 3x
 
 === "Round 3"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/aspirant/aspirant-round-3.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Skeleton Knight 2x
         - Backline: Red Spinner Woman 2x
 
 === "Round 4"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/aspirant/aspirant-round-4.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
         - Backline: Goblin Archer 1x
 
 === "Round 5"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/aspirant/aspirant-round-5.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Knight-Butcher Ent 2x
         - Backline: Skeleton Mage 1x
 
@@ -492,91 +492,91 @@
 
 === "Round 1"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-1.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Earth Hobgoblin 2x
         - Backline: Earth Creeping Coin 2x
 
 === "Round 2"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-2.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Earth Sahuagin 3x
         - Backline: Earth Cloud 2x
         
 === "Round 3"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-3.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Earth Big Slime 1x
         - Backline: Earth Entity 4x
         
 === "Round 4"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-4.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Desert Fly 3x
         - Backline: Earth Sahuagin Archer 2x, Earth Creeping Coin 1x
 
 === "Round 5"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-5.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Earth Pixie 4x
         - Backline: Earth Pixie 1x, Hydra Plant 1x
 
 === "Round 6"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-6.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Water Sahuagin 2x, Water Lizardman 1x
         - Backline: Sahuagin Archer 1x, Sahuagin Mage 1x
 
 === "Round 7"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-7.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Scorpion Lady 1x
         - Backline: Earth Entity 3x
 
 === "Round 8"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-8.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Pirate Berserker 2x
         - Backline: Gluttonous Maw 2x
 
 === "Round 9"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-9.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Water Lizardman Champion 
         - Backline: Pirate Deacon 2x
 
 === "Round 10"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/adept/adept-round-10.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Plague Crewman 3x
         - Backline: Oar Collector 1x
 
@@ -584,136 +584,136 @@
 
 === "Round 1"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-1.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Skeleton Archer 2x
         - Backline: Poltergeist 2x
 
 === "Round 2"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-2.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Vorpal Bunny 3x
         - Backline: Evil Eye 1x
 
 === "Round 3"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-3.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Chimera 1x
         - Backline: Indigo Ninja 2x
 
 === "Round 4"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-4.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Ninja 3x
         
 === "Round 5"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-5.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Greater Demon 1x
         - Backline: Skeleton Archer 3x
 
 === "Round 6"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-6.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Fire Goblin 3x
         - Backline: Fire Pixie 2x
 
 === "Round 7"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-7.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Fire Insect 3x
         - Backline: Fire Entity 2x
 
 === "Round 8"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-8.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Fire Fly 3x
         - Backline: Fire Hawk 2x
 
 === "Round 9"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-9.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Fire Slime 3x
         - Middle: Fire Cloud 3x
         - Backline: 2x Fire Goblin Archer, 1x Fire Goblin Mage
 
 === "Round 10"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-10.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Minotaur 2x
         - Backline: Fire Entity 3x
         - Debuff Applied: Beastfolk Stats Down
 
 === "Round 11"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-11.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Earth Cloud 4x
 
 === "Round 12"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-12.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Gorgon 2x
         - Backline: Earth Pixie 3x
 
 === "Round 13"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-13.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Earth Big Slime 1x
         - Backline: Earth Entity 2x
 
 === "Round 14"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-14.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Wight 2x
         - Backline: Desert Fly 2x, Earth Big Slime 1x
 
 === "Round 15"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/elite/elite-round-15.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Light Succubi 2x, Necrocore 1x
         - Backline: Necromancer 1x
         - Debuff Applied: Elf Stats Down
@@ -722,10 +722,10 @@
 
 === "Round 1"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-1.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Hobgoblin 2x, Goblin 1x
         - Backline: Goblin Mage 1x, Goblin Shaman 1x, Goblin Archer 1x
 
@@ -735,10 +735,10 @@
 
 === "Round 2"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-2.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Hobgoblin 3x
         - Backline: Mage Adventurer 3x
 
@@ -749,10 +749,10 @@
 
 === "Round 3"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-3.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Vorpal Bunny 2x, Large Slime 1x
         - Middle: Wind Entity 2x, Water Slime 2x
         - Backline: Ninja 2x
@@ -766,10 +766,10 @@
 
 === "Round 4"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-4.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
         - Backline: Mage Adventurer 1x, Ninja 2x
 
@@ -780,10 +780,10 @@
         
 === "Round 5"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-5.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Giant Monster Bird 1x
         - Backline: Air Hawk 3x
 
@@ -794,10 +794,10 @@
 
 === "Round 6"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-6.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Skeleton Knight 2x, Skeleton Giant
         - Backline: Skeleton Mage 2x, Skeleton Archer
 
@@ -807,10 +807,10 @@
 
 === "Round 7"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-7.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Plague Crewman 2x, Cursed Sack Doll 2x
         - Backline: Ninja 2x, Necromancer 1x
 
@@ -820,10 +820,10 @@
 
 === "Round 8"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-8.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Necrocore 1x, Lesser Demon 2x
         - Backline: Dark Slime 4x
 
@@ -834,10 +834,10 @@
 
 === "Round 9"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-9.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Chimera 2x
         - Backline: Ninja 2x, Mage Adventurer 2x
 
@@ -847,10 +847,10 @@
 
 === "Round 10"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-10.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Minotaur 1x, Our Heirlooms 1x
         - Backline: Ninja 2x, Mage Adventurer 1x
 
@@ -861,10 +861,10 @@
 
 === "Round 11"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-11.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Lamenting Snowfolk 2x
         - Middle: Pixie 2x
         - Backline: Gorgon 2x
@@ -876,10 +876,10 @@
 
 === "Round 12"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-12.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Evil Eye 1x, Earth Slime 2x
         - Backline: Hydra Plant 2x, Mage Adventurer 1x
 
@@ -891,10 +891,10 @@
 
 === "Round 13"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-13.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Big Snow Hawk 2x
         - Backline: Snow Hawk 2x, Pixie 2x
 
@@ -904,10 +904,10 @@
 
 === "Round 14"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-14.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Succubi 3x
         - Backline: Earth Cloud 2x, Mage Adventurer 1x
 
@@ -917,10 +917,10 @@
 
 === "Round 15"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-15.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Bigfoot 1x, Cyclops 1x
         - Backline: Bigfoot Child 3x
         - Debuff Applied: Beastfolk Stats Down
@@ -932,10 +932,10 @@
 
 === "Round 16"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-16.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Mimic 1x, Stonefolk 1x
         - Backline: Lamenting Snowfolk 2x
 
@@ -947,10 +947,10 @@
 
 === "Round 17"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-17.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Lizardman 2x, Fire Slime 2x
         - Backline: Fire Entity 2x, Lizardman Champion 1x
 
@@ -960,10 +960,10 @@
 
 === "Round 18"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-18.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Vampire 2x, Sand Apparition 2x
         - Backline: Mage Adventurer 3x
 
@@ -972,10 +972,10 @@
 
 === "Round 19"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-19.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Snow Wolf Leader 1x, Snow Wolf 3x
         - Backline: Snow Wolf 4x
 
@@ -984,10 +984,10 @@
 
 === "Round 20"
 
-    === "Preview"
+    === "Fight Preview"
         ![](./img/hero/hero-round-20.png){ width="390" }
 
-    === "Details"
+    === "Enemy Formation"
         - Frontline: Defense Golem 1x, Attack Golem 1x
         - Backline: Greater Demon 2x
 
