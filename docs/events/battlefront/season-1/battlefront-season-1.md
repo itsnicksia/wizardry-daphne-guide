@@ -232,7 +232,9 @@
 === "Round 1"
 
     === "Fight Image"
-        ![](./img/aspirant/aspirant-round-1.png =500x)
+        <div style= "width: 50%">
+        ![](./img/aspirant/aspirant-round-1.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -241,7 +243,7 @@
 === "Round 2"
 
     === "Fight Image"
-        <div style=width: "30%">
+        <div style= "width: 50%">
         ![](./img/aspirant/aspirant-round-2.png)
         </div>
 
@@ -252,7 +254,7 @@
 === "Round 3"
 
     === "Fight Image"
-        <div style= "width: 200%">
+        <div style= "width: 50%">
         ![](./img/aspirant/aspirant-round-3.png)
         </div>
 
@@ -263,7 +265,7 @@
 === "Round 4"
 
     === "Fight Image"
-        <div style= "width: 30%">
+        <div style= "width: 50%">
         ![](./img/aspirant/aspirant-round-4.png)
         </div>
 
@@ -274,7 +276,9 @@
 === "Round 5"
 
     === "Fight Image"
-        ![](./img/aspirant/aspirant-round-5.png =999x)
+        <div style= "width: 50%">
+        ![](./img/aspirant/aspirant-round-5.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Knight-Butcher Ent 2x
@@ -285,7 +289,9 @@
 === "Round 1"
 
     === "Fight Image"
+        <div style= "width: 50%">
         ![](./img/adept/adept-round-1.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Earth Hobgoblin 2x
@@ -294,7 +300,9 @@
 === "Round 2"
 
     === "Fight Image"
+        <div style= "width: 50%">
         ![](./img/adept/adept-round-2.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Earth Sahuagin 3x
@@ -303,7 +311,9 @@
 === "Round 3"
 
     === "Fight Image"
+        <div style= "width: 50%">
         ![](./img/adept/adept-round-3.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Earth Big Slime 1x
@@ -312,7 +322,9 @@
 === "Round 4"
 
     === "Fight Image"
+        <div style= "width: 50%">
         ![](./img/adept/adept-round-4.png)
+        </div>
 
     === "Fight Details"
         - Frontline: Desert Fly 3x
