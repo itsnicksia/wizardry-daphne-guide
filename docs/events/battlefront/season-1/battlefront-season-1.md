@@ -76,25 +76,24 @@
         - The debuffs are extremely powerful. We recommend clearing them immediately or not bringing affected units. 
         - The racial debuffs (Beastfolk, Elf) seem to lower all of a unit's stats by a % amount. 
     - Flee 
-        - You can flee at any point with 100% success. Any effects sustained in combat will carry over. 
+        - You can flee with 100% success. Any effects sustained in combat will carry over. 
         - No progress is lost. You are sent back to your prior round, which can you can do over again. 
     
 === "Death" 
 
     - If MC dies:  
         - "Rise again" 
-            - Revived and transported to the waiting room with no impact on your team's HP, MP, or SP. 
-            - Consumes a Flame of Reawakening. 
+            - Revived and transported to the waiting room in your pre-battle condition.  
+            - Consumes a Flame of Reawakening. Progress is not lost.  
         - "Be carried out" 
-            - MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored to its pre-match level. 
-            - Progress is not lost. Does not consume a Flame of Reawakening. 
-        - Death of any kind does not appear to lower the MC's hidden Fortitude value. 
+            - MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored. Units that were not revived prior to the MC's death stay dead.
+            - Does not consume a Flame of Reawakening. Progress is not lost.  
         - You can gain up to 2 Flames of Reawakening in the Well of the Mind, allowing you to revive up to 5 times. 
     - If a party member dies:   
-        - If revived they will lose 30 Fortitude. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
+        - If revived they will lose 30 Fortitude per usual. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
         - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
 
-=== "Exiting"
+=== "Exiting the Arena"
 
     - Ignore the warnings that you are permanently barred from competing if you leave the arena. 
     - To exit you must speak with Beth, the receptionist, and confirm that you want to leave. You will be Cursed Wheel back to the registration desk. You can exit freely at that point or re-register for your current League. 
@@ -102,18 +101,18 @@
 
 === "Cursed Wheel"
 
-    - If you need to Cursed Wheel, then the Battlefront of Heroes will disappear from the map. 
-    - Enter the Royal Capital from the map to see the invitation cutscene again. 
-    - If your Cursed Wheel node places you in the Royal Capital, then the request should automatically trigger. If not, simply exit to the map and re-enter. 
+    - If you need to Cursed Wheel outside your current Abyss, then the Battlefront of Heroes event will reset and disappear from the world map.
+    - After Cursed Wheeling enter the Royal Capital from the world map to see the invitiation cutscene again. 
+    - If your Cursed Wheel node places you in the Royal Capital, then the request should automatically trigger. If not, simply exit to the world map and re-enter. 
 
 
 ### Battlefront Rules 
 
 === "Summary" 
 
-    - The arena provides a special buff during combat called a "Battlefront Rule" for units that are Dark, Human, or use a 2H Sword. 
-    - The buff is significant and scales with each League. It becomes increasingly more important for the Elite and Hero Leagues. 
-    - We recommend you change MC's Type to Dark in the Well of the Mind. While the Type node locations do not change the 3 elements that are rolled each time you reset are randomly determined.      
+    - The arena provides a set of special buffs during combat called "Battlefront Rules" for units that are Dark, Human, or use a 2H Sword. 
+    - The buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues. 
+    - We recommend you change MC's Type to Dark in the [Well of the Mind](. While the Type node locations do not change the 3 elements that are rolled each time you reset are randomly determined.      
     
 === "Special Buff" 
 
@@ -234,7 +233,7 @@
 === "Round 1"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-1.png){ width="300" }
+        ![](./img/aspirant/aspirant-round-1.png){ width="375" }
 
     === "Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -243,7 +242,7 @@
 === "Round 2"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-2.png){ width="350" }
+        ![](./img/aspirant/aspirant-round-2.png){ width="375" }
 
     === "Details"
         - Frontline: Vorpal Bunny 2x
@@ -252,7 +251,7 @@
 === "Round 3"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-3.png){ width="400" }
+        ![](./img/aspirant/aspirant-round-3.png){ width="375" }
 
     === "Details"
         - Frontline: Skeleton Knight 2x
@@ -261,7 +260,7 @@
 === "Round 4"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-4.png){ width="450" }
+        ![](./img/aspirant/aspirant-round-4.png){ width="375" }
 
     === "Details"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
@@ -270,7 +269,7 @@
 === "Round 5"
 
     === "Preview"
-        ![](./img/aspirant/aspirant-round-5.png){ width="500" }
+        ![](./img/aspirant/aspirant-round-5.png){ width="375" }
 
     === "Details"
         - Frontline: Knight-Butcher Ent 2x
@@ -281,9 +280,7 @@
 === "Round 1"
 
     === "Preview"
-        <div style="width:50%">
-        ![](./img/adept/adept-round-1.png)
-        </div>
+        ![](./img/adept/adept-round-1.png){ width="375" }
 
     === "Details"
         - Frontline: Earth Hobgoblin 2x
