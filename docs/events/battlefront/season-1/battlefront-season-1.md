@@ -229,7 +229,7 @@
 ### Basics  
 
 - To receive all the achievement rewards requires a total of 6,500 points. 
-- There is a maximum of 12,060 points from all sources. It is possible to clear the entire mission before reaching the Hero League.
+- There is a maximum of 12,160 points from all sources. It is possible to clear the entire mission before reaching the Hero League.
 - Mission achievements, progress, and rewards can only be accessed while in the arena. 
 
 ### Point Breakdowns 
@@ -242,16 +242,17 @@
 
     | League Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
     |:-------------------------------------|--------|-------|-------|------------|
-    | Aspirant                             | 500    | 200   | 700   | 700        |      
-    | Adept                                | 1,000  | 200   | 1,200 | 1,900      |  
-    | Elite                                | 1,500  | 200   | 1,700 | 3,600      | 
-    | Hero                                 | 2,000  | 200   | 2,200 | 5,800      | 
+    | Sign-up                              |        |       |       | 100        | 
+    | Aspirant                             | 500    | 200   | 700   | 800        |      
+    | Adept                                | 1,000  | 200   | 1,200 | 2,000      |  
+    | Elite                                | 1,500  | 200   | 1,700 | 3,700      | 
+    | Hero                                 | 2,000  | 200   | 2,200 | 5,900      | 
 
     </div>
 
     - Each round is worth 100 points. Clearing a League is worth 200 points. 
-    - Clearing all the matches through Elite gives you 3,600 points. 
-    - If you do not progress to the Hero League, then you will need 2,900 points from special and weekly achievements to reach 6,500 points. 
+    - Clearing everything through Elite gives you 3,700 points. 
+    - If you do not progress to the Hero League, then you will need 2,800 points from Special and Weekly achievements to reach 6,500 points. 
 
 === "Special" 
 
@@ -277,7 +278,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage &emsp; &emsp; &emsp; &emsp; &emsp;          | Total   | Cumulative |  
+    | Damage Required &emsp; &emsp; &emsp; &emsp; &emsp;          | Total   | Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
     | 200                              | 100 | 100   |       
     | 400                              | 100 | 200   | 
@@ -302,7 +303,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total| Cumulative |  
+    | Damage Required &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total| Cumulative |  
     |:-----------------------------------------------|:-------:|:------------:|
     | 3,000                                   | 100 | 100   |       
     | 6,000                                   | 100 | 200   | 
@@ -347,6 +348,7 @@
 
     | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total  | 
     |:-----------------------------------|--------|
+    | Registration                       | 100    | 
     | Aspirant                           | 700    |  
     | Adept                              | 1,200  | 
     | Elite                              | 1,700  | 
@@ -355,11 +357,13 @@
     | Damage:                            | 1,200  |
     | Damage: Total                      | 1,100  |    
     | Weekly                             | 1,260  | 
-    | Grand Total                        | 12,060 |    
+    | Grand Total                        | 12,160 |    
 
     </div>
 
 ### Rewards
+
+- Additional information forthcoming. 
 
 === "Milestone Rewards" 
 
@@ -392,8 +396,29 @@
 
 === "Doppel Quicksilver" 
 
-    ![](./img/doppel){ width="390" }
-    ![](./img/doppel-disc.png){ width="390" }
+    === "Requirements"
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+        | Requirement &emsp; &emsp; &emsp; &emsp; &emsp;                     | #  | 
+        |:----------------------------------|-------------------------------------|
+        | Clear the Aspirant League           | 1x |  
+        | Clear the Adept League              | 1x | 
+        | Clear the Elite League              | 1x |  
+        | Clear the Hero League               | 1x | 
+        | Paid Pass Only:                     |    |  
+        | Awarded at 1,500 Points             | 1x |  
+        | Awarded at 3,000 Points             | 1x |  
+    
+        </div>
+
+    === "Description" 
+
+        ![](./img/doppel-quicksilver-description.png){ width="390" }
+
+    === "Training Room" 
+
+        ![](./img/doppel-quicksilver-training-room.png){ width="390" }
 
 === "Heavy Warblade of Honor" 
 
