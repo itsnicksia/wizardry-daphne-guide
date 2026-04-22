@@ -279,7 +279,7 @@
 
     === "Fight Image"
 
-<!--div style="height: 100px; background-color: rgba(255,0,0,0.1);"-->
+        <!--div style="height: 100px; background-color: rgba(255,0,0,0.1);"-->
 
     
         <div style="width:50%">
