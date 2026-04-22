@@ -234,8 +234,7 @@
 === "Round 1"
 
     === "Preview"
-    
-        ![](./img/aspirant/aspirant-round-1.png){ width="100" }
+        ![](./img/aspirant/aspirant-round-1.png){ width="300" }
 
     === "Details"
         - Frontline: Air Cloud 2x, Skeleton 1x
@@ -244,10 +243,7 @@
 === "Round 2"
 
     === "Preview"
-    
-        <div style="width:50%">
-        ![](./img/aspirant/aspirant-round-2.png)
-        </div>
+        ![](./img/aspirant/aspirant-round-2.png){ width="350" }
 
     === "Details"
         - Frontline: Vorpal Bunny 2x
@@ -256,10 +252,7 @@
 === "Round 3"
 
     === "Preview"
-    
-        <div style="width:50%">
-        ![](./img/aspirant/aspirant-round-3.png)
-        </div>
+        ![](./img/aspirant/aspirant-round-3.png){ width="400" }
 
     === "Details"
         - Frontline: Skeleton Knight 2x
@@ -268,10 +261,7 @@
 === "Round 4"
 
     === "Preview"
-    
-        <div style="width:50%">
-        ![](./img/aspirant/aspirant-round-4.png)
-        </div>
+        ![](./img/aspirant/aspirant-round-4.png){ width="450" }
 
     === "Details"
         - Frontline: Scorpion Lady 1x, Goblin Archer 1x
@@ -280,13 +270,7 @@
 === "Round 5"
 
     === "Preview"
-
-        <!--div style="height: 100px; background-color: rgba(255,0,0,0.1);"-->
-
-    
-        <div style="width:50%">
-        ![](./img/aspirant/aspirant-round-5.png)
-        </div>
+        ![](./img/aspirant/aspirant-round-5.png){ width="500" }
 
     === "Details"
         - Frontline: Knight-Butcher Ent 2x
