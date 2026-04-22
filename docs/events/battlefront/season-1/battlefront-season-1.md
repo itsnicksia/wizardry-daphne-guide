@@ -395,7 +395,7 @@
 === "Round 1"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-1.png)
 
     === "Fight Details"
         - Frontline: Skeleton Archer 2x
@@ -404,7 +404,7 @@
 === "Round 2"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-2.png)
 
     === "Fight Details"
         - Frontline: Vorpal Bunny 3x
@@ -413,7 +413,7 @@
 === "Round 3"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-3.png)
 
     === "Fight Details"
         - Frontline: Chimera 1x
@@ -422,7 +422,7 @@
 === "Round 4"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-4.png)
 
     === "Fight Details"
         - Frontline: Ninja 3x
@@ -430,7 +430,7 @@
 === "Round 5"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-5.png)
 
     === "Fight Details"
         - Frontline: Greater Demon 1x
@@ -439,7 +439,7 @@
 === "Round 6"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-6.png)
 
     === "Fight Details"
         - Frontline: Fire Goblin 3x
@@ -448,7 +448,7 @@
 === "Round 7"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-7.png)
 
     === "Fight Details"
         - Frontline: Fire Insect 3x
@@ -457,7 +457,7 @@
 === "Round 8"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-8.png)
 
     === "Fight Details"
         - Frontline: Fire Fly 3x
@@ -466,7 +466,7 @@
 === "Round 9"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-9.png)
 
     === "Fight Details"
         - Frontline: Fire Slime 3x
@@ -476,7 +476,7 @@
 === "Round 10"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-10.png)
 
     === "Fight Details"
         - Frontline: Minotaur 2x
@@ -486,7 +486,7 @@
 === "Round 11"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-11.png)
 
     === "Fight Details"
         - Frontline: Earth Cloud 4x
@@ -494,7 +494,7 @@
 === "Round 12"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-12.png)
 
     === "Fight Details"
         - Frontline: Gorgon 2x
@@ -503,7 +503,7 @@
 === "Round 13"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-13.png)
 
     === "Fight Details"
         - Frontline: Earth Big Slime 1x
@@ -512,7 +512,7 @@
 === "Round 14"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-14.png)
 
     === "Fight Details"
         - Frontline: Wight 2x
@@ -521,7 +521,7 @@
 === "Round 15"
 
     === "Fight Image"
-        ![](./img/)
+        ![](./img/elite/elite-round-15.png)
 
     === "Fight Details"
         - Frontline: Light Succubi 2x, Necrocore 1x
