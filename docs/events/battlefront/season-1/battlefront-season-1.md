@@ -7,12 +7,12 @@
 
 !!! danger "Critical Warnings - Read Me"
     - Major Constraints
-        - Once a League has been cleared it cannot be reset. You are automatically advanced to the next League.  
-        - The Hero League is a massive difficulty spike. It may not be possible for a normal player to clear the first round. Only a handful of players globally have cleared it to-date. 
+        - Once a League has been cleared it cannot be reset. You are automatically advanced to the next one.  
+        - The Hero League is a massive difficulty spike. It may not be possible for a normal player to survive the first round. Only a handful of players globally have cleared it to-date. 
         - These two constraints have serious implications on the event's other mechanics. 
     - [Hero's Sigil: Dark](#heros-sigil-dark) 
         - The medal is a one-time only reward. It cannot be farmed, removed, or transferred to another unit. Every time you clear a League the units in your roster gain +1 Level to the passive. 
-        - Operate on the assumption that L3 is the effective maximum and plan what units you want to register and in what order. 
+        - Operate on the assumption that L3 is the effective maximum and plan what units you want to register and in what League order. 
         - Only the first 8 units registered in the Aspirant League have the potential to reach L3 or L4. 
     - [Hero's Reward Missions](#heros-reward-missions)
         - It is possible to lock yourself out of receiving all the Mission rewards if you do not complete the Special, Damage: One-hit, and Damge: Total achievements in a lower League. 
@@ -29,7 +29,7 @@
 - Battlefront of Heroes is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
 - Each season spotlights a subset of units that are granted a special set of buffs based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
-- The Hero's Award mission offers up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
+- The Hero's Reward Missions offer up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
 
 ## Requirements
 
@@ -52,7 +52,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | League Name &emsp; &emsp; &emsp;            | # of Combatants  | # of Rounds  | 
+    | League Name &emsp; &emsp;             | # of Combatants  | # of Rounds  | 
     |:-------------------------------------|:----------------:|:------------:|
     | Aspirant                             | 8                | 5            | 
     | Adept                                | 12               | 10           | 
@@ -61,22 +61,21 @@
      
     </div>
 
-    - There are 4 Leagues this season. The number of matches starts at 5 and grows by +5 per League to a maximum of 20. 
-    - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. 
-    - <span style="color: #F2473A">Warning!</span> There is a massive difficulty spike between the Elite and Hero Leagues. Only a handful of players globally have been able to clear the content. It is unclear if Drecom plans to adjust the difficulty or leave as-is. 
-    - The Hero League is the only exception and can be repeated for the weekly [Hero's Mission](#heros-mission) achievements. 
+    - There are 4 Leagues this season. The number of rounds starts at 5 and grows by +5 per League to a maximum of 20. 
+    - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. The Hero League is the only exception and can be repeated for the weekly [Hero's Mission](#heros-mission) achievements. 
+    - <span style="color: #F2473A">Warning!</span> The Hero League is a massive difficulty spike. Even the biggest "whales" are having a difficult time clearing it without exploits. It is unclear if Drecom plans to adjust the difficulty or leave as-is. 
 
 === "Registration" 
     
-    - For the first League you can register up to 8 members. Each subsequent League lets you add 4 more members up to a maximum of 20. 
+    - For the first League you can register up to 8 members. Each subsequent League lets you add +4 more members up to a maximum of 20. 
+    - You do not have to use the same units for each League, but it is -highly- recommended due to how the [medal](#heros-sigil-dark) leveling system works.
     - Dispatched units cannot be registered. 
-    - You do not have to use the same units for each League, but it is -highly- recommended due to how the [medal](#heros-sigil-dark) leveling system works. 
     - If you fully exit and reset the Battlefront of Heroes, then you must re-register all units.  
     
 === "Pre-Battle"
 
     - Before each round you can re-arrange your active party using the red "people" icon in the upper right-hand corner.
-    - Speak to the Blackiron Warden for a preview of the enemies for the next round. It does not include enemy row placements.  
+    - Speak to the Blackiron Warden for a preview of the enemies for the next round. It does not show enemy row placements.  
     - To heal the unit must be in your active party. 
     - To change equipment the unit does not need to be in your active party. 
     - You can use a Resistance buff while in the waiting room or while in the arena before engaging with the enemy. 
@@ -84,24 +83,24 @@
 === "During Battle" 
 
     - Referee Intervention 
-        - The Referee can implement additional buffs or debuffs at the start of the match. Fortunately, it is limited to a small number of fights per League. 
-        - The debuffs are not permanent and can be removed with Abit. Priests learn Abit at Level 40 and it is Daniel's potential inherit. Note that Abit 2 can remove 2 debuffs from an entire row.  
+        - The Referee can set buffs or debuffs at the start of a match. It is limited to a small number of fights per League and not randomized. 
+        - The debuffs are not permanent and can be removed with Abit. Priests learn Abit at Level 40 and it is Daniel's Potential inherit. Note that Abit 2 can remove 2 debuffs from an entire row.  
         - The debuffs are extremely powerful. We recommend clearing them immediately or not bringing affected units. 
         - The racial debuffs (Beastfolk, Elf) seem to lower all of a unit's stats by a % amount. 
     - Flee 
-        - You can flee with 100% success. Any effects sustained in combat will carry over. 
+        - You can Flee at any time with 100% success. Any effects sustained in combat will carry over. 
         - No progress is lost. You are sent back to your prior round, which can you can do over again. 
     
 === "Death" 
 
     - If MC dies:  
         - "Rise again" 
-            - Revived and transported to the waiting room in your pre-battle condition.  
-            - Consumes a Flame of Reawakening. Progress is not lost.  
+            - Revived and transported back to the waiting room in your pre-battle condition.  
+            - Consumes a Flame of Reawakening. League progress is not lost.  
         - "Be carried out" 
             - MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored. Units that were not revived prior to the MC's death stay dead.
-            - Does not consume a Flame of Reawakening. Progress is not lost.  
-        - You can gain up to 2 Flames of Reawakening in the Well of the Mind, allowing you to revive up to 5 times. 
+            - Does not consume a Flame of Reawakening. League progress is not lost.  
+        - You can gain up to 2 additional Flames of Reawakening in the [Well of the Mind](../../../docs/adventurer-customization/well-of-the-mind), allowing you to revive up to 5 times. 
     - If a party member dies:   
         - If revived they will lose 30 Fortitude per usual. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
         - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
@@ -110,21 +109,21 @@
 
     - Ignore the warnings that you are permanently barred from competing if you leave the arena. 
     - To exit you must speak with Beth, the receptionist, and confirm that you want to leave. You will be Cursed Wheel back to the registration desk. You can exit freely at that point or re-register for your current League. 
-    - Progress in the current League is not saved so you will start over at the first match. 
+    - League progress is not saved so you will start over at the first round. 
 
 === "Cursed Wheel"
 
     - If you need to Cursed Wheel outside your current Abyss, then the Battlefront of Heroes event will reset and disappear from the world map.
-    - After Cursed Wheeling enter the Royal Capital from the world map to see the invitiation cutscene again. 
-    - If your Cursed Wheel node places you in the Royal Capital, then the request should automatically trigger. If not, simply exit to the world map and re-enter. 
+    - After Cursed Wheeling enter the Royal Capital from the world map to see the invitiation cutscene again. You will need to re-do the steps to accept the request.  
+    - If your Cursed Wheel node places you in the Royal Capital, then the request cutscene should automatically trigger. If not, then exit to the world map and re-enter. 
 
 ### Battlefront Rules 
 
 === "Summary" 
 
     - The arena provides a set of special buffs during combat called "Battlefront Rules" for units that are Dark, Human, or use a 2H Sword. 
-    - The buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues. 
-    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../../docs/adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
+    - Each special buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues as the lower Leagues can be cleared with just about any team composition. 
+    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../docs/adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
     
 === "Special Buffs" 
 
@@ -177,10 +176,17 @@
 
 === "Basics" 
 
-    - <span style="color: #F2473A">Warning!</span> The medal is a one-time reward after clearing a League. Each clear gives an additional level up to L4. It cannot be farmed or reassigned to a different unit. 
-    - The medal gives a passive (Hero's Sigil: Dark) that reduces Dark-type damage along with a small boost to HP, MP, and SP. The bonuses for Dark units are doubled. See the next tab for specifics. 
-    - All members in your Battlefront roster receive the medal even if they do not participate. 
+    - <span style="color: #F2473A">Warning!</span> The medal is a one-time reward after completing all rounds in a League. Each League clear gives an additional level up to L4. It cannot be farmed or reassigned to a different unit. 
+    - The medal gives a passive, Hero's Sigil: Dark, that reduces Dark-type damage along with a small boost to HP, MP, and SP. The bonuses for Dark units are doubled. 
+    - All members in your Battlefront roster receive the medal even if they do not participate. We recommend you think carefully about what units you want to prioritize before beginning.  
+    - It can be viewed on a unit's Stats page under Passive Skills. 
+    - Drecom has stated that they will provide alternative methods for increasing the passive's level in a future update. 
     - Future seasons will offer additional medals, but only one can be equipped at a time. 
+
+=== "Leveling Mechanics"
+
+    - Each time you clear a League your entire Battlefront roster recieves 100 EXP (or 1 Level) toward the passive skill. 
+    - The roster expands by +4 each League. New members can receive the medal, but at a lower max level. 
 
 === "Stat Gains per Level" 
 
@@ -196,12 +202,6 @@
 
     - Dark units receive a 2x bonus to each stat. Those values are listed as (#). 
     - It is unknown if the Dark-type damage reduction increases with each level.  
-
-=== "Leveling Mechanics"
-
-    - Each time you clear a League your entire Battlefront roster recieves 100 EXP (or 1 Level) toward the passive skill. 
-    - The roster expands by 4 each League. New members can receive the medal, but at a lower max level. See the table in the next tab.
-    - We recommend you think very carefully about what units you want to prioritize, especially with the 2x bonus for Dark units. 
 
 === "Max Level per League Entry Point"
 
@@ -219,6 +219,7 @@
 === "Trade-offs"
 
     Unit selection can be complicated, but here are some things to consider:
+    
     - Prioritize your core, long-term units for the incremental stat bonuses and Dark damage reduction. 
     - Maximize the 2x stat bonus for Dark units. 
     - Dark Knights gain +10 SP at L3, which is extremely helpful due to their low SP pools even with high discipline. 
@@ -232,17 +233,15 @@
 - There is a maximum of 12,160 points from all sources. It is possible to clear the entire mission before reaching the Hero League.
 - Mission achievements, progress, and rewards can only be accessed while in the arena. 
 
-### Point Breakdowns 
+### Points by Category 
 
 === "League"
 
-    <br>
-
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | League Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Rounds | Clear | Total | Cumulative |  
+    | League Name &emsp; &emsp; &emsp; &emsp;      | Rounds | Clear | Total | Cumulative |  
     |:-------------------------------------|--------|-------|-------|------------|
-    | Sign-up                              |        |       |       | 100        | 
+    | Sign-up                              |        |       | 100   | 100        | 
     | Aspirant                             | 500    | 200   | 700   | 800        |      
     | Adept                                | 1,000  | 200   | 1,200 | 2,000      |  
     | Elite                                | 1,500  | 200   | 1,700 | 3,700      | 
@@ -256,11 +255,9 @@
 
 === "Special" 
 
-    <br>
-
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Category &emsp; &emsp; &emsp; &emsp; &emsp;     | 1   | 2   | 3   | 4   | 5   | Total |  
+    | Requirement &emsp; &emsp; &emsp; &emsp;      | 1   | 2   | 3   | 4   | 5   | Total |  
     |:-------------------------------------|-----|-----|-----|-----|-----|-------|
     | Dark-type                            | 100 | 100 | 100 | 100 | 200 | 600   |      
     | Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
@@ -271,15 +268,15 @@
 
     </div>
 
-    - The number of required adventurers are the column headings. 
+    - The number of required Adventurers are the column headings. 
     - The special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all mission rewards. 
 
 === "Damage: One-Hit" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage Required &emsp; &emsp; &emsp; &emsp; &emsp;          | Total   | Cumulative |  
-    |:----------------------------------------|:-------:|:------------:|
+    | Damage Required &emsp; &emsp; &emsp;          | Total   | Cumulative |  
+    |:--------------------------------:|:-------:|:------------:|
     | 200                              | 100 | 100   |       
     | 400                              | 100 | 200   | 
     | 600                              | 100 | 300   |    
@@ -303,8 +300,8 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Damage Required &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total| Cumulative |  
-    |:-----------------------------------------------|:-------:|:------------:|
+    | Damage Required &emsp; &emsp; &emsp;                      | Total| Cumulative |  
+    |:---------------------------------------:|:-------:|:------------:|
     | 3,000                                   | 100 | 100   |       
     | 6,000                                   | 100 | 200   | 
     | 9,000                                   | 100 | 300   |    
@@ -334,7 +331,7 @@
     | Defeat 20 monsters                      | 30 | 90  |    
     | Deal a total of 5,000 damage            | 30 | 120 | 
     | Deal a total of 10,000 damage           | 30 | 150 |       
-    | Deal a total of 20,000 damage &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;           | 30 | 180 | 
+    | Deal a total of 20,000 damage &emsp; &emsp; &emsp; &emsp; &emsp;           | 30 | 180 | 
 
     </div>
 
@@ -346,7 +343,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total  | 
+    | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total | 
     |:-----------------------------------|--------|
     | Registration                       | 100    | 
     | Aspirant                           | 700    |  
@@ -369,12 +366,12 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Total Points Required &emsp; &emsp; &emsp; &emsp; &emsp;                     | Milestone Reward                              | 
-    |----------------------------------|-------------------------------------|
-    | &emsp; 100                        | Savage Warrior Remains (Gandolfo)   |  
-    | &emsp; 200                        | Heavy Warblade of Honor (HWH)       | 
-    | &emsp; 1,000                      | Zelos Skill Scroll                  |  
-    | &emsp; 1,600                      | 100x Gems of Org                    | 
+    | Total Points Required &emsp; &emsp; &emsp; &emsp;                      | Milestone Reward | 
+    |:--------------------------:|-------------------------------------|
+    | 100                        | Savage Warrior Remains (Gandolfo)   |  
+    | 200                        | Heavy Warblade of Honor (HWH)       | 
+    | 1,000                      | Zelos Skill Scroll                  |  
+    | 1,600                      | 100x Gems of Org                    | 
     | 1,700                      | 1x HWH Unification Material         |  
     | 2,500                      | 1x HWH Unification Material         |  
     | 3,100                      | 1x Adv Remains I                    |   
@@ -400,9 +397,9 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
     
-        | Requirement &emsp; &emsp; &emsp; &emsp; &emsp;                     | #  | 
-        |:----------------------------------|-------------------------------------|
-        | Clear the Aspirant League           | 1x |  
+        | Requirement                         | #  | 
+        |:------------------------------------|----|
+        | Clear the Aspirant League &emsp; &emsp; &emsp;           | 1x |  
         | Clear the Adept League              | 1x | 
         | Clear the Elite League              | 1x |  
         | Clear the Hero League               | 1x | 
@@ -414,24 +411,41 @@
 
     === "Description" 
 
-        ![](./img/doppel-quicksilver-description.png){ width="390" }
+        <div align="center">
+        ![](./img/doppel-quicksilver-description.png){ width="410" }
+        </div>
 
-    === "Discipline Screen" 
+    === "Discipline Menu" 
 
-        ![](./img/doppel-quicksilver-training-room.png){ width="390" }
+        <div align="center">
+        ![](./img/doppel-quicksilver-training-room.png){ width="410" }
+        </div>
 
         - When you go to the Training Room - Discipline with a unit you will now see the Doppel Quicksilver as an available option. 
 
 === "Heavy Warblade of Honor" 
 
-    ![](./img/heavy-warblade-of-honor){ width="390" }
+    === "Stats" 
+
+        === "+0"
+
+                ![](./img/heavy-warblade-of-honor){ width="390" }
+
+
+        === "+15"
+
+        === "+20"
+
+    === "Traits" 
+
+    === "Review" 
 
 === "F2P"
 
     - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
     - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Discipline experience. 
 
-=== "Paid Pass Considerations"
+=== "Paid Pass"
 
     - Forthcoming.
     
@@ -723,7 +737,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-1.png){ width="390" }
+        ![](./img/hero/hero-round-1.png){ width="400" }
 
     === "Enemy Formation"
         - Frontline: Hobgoblin 2x, Goblin 1x
