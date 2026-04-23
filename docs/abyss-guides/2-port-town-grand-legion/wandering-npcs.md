@@ -9,7 +9,7 @@ There are a number of characters that wander the Abyss who you may encounter.  T
     - Location: Most floors (Districts 1-7 and Ship levels 1 & 2)  
     - Interaction Options:  
         - The Bone Picker has several items he'll sell to the player:  
-            - Healing Potions - Always available  
+            - Healing Potions - 100gp - Usually Potion of Greater Healing - Always available  
             - Adventurer's Remains - 1,000gp - Once every 7 days  
             - (If unlocked) Mausoleum Bone Tallow - 10,000gp - Once every 7 days   
     - Notes: The cooldown timer on Remains and Tallow appear to be 7 days from the last time collected, not tied to the weekly game reset.  If you have insufficient gold, the interaction will be dismissed without affecting any cooldown timers.  
