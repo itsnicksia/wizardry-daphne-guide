@@ -351,7 +351,7 @@
     | Elite                              | 1,700  | 
     | Hero                               | 2,200  | 
     | Special                            | 2,700  |     
-    | Damage:                            | 1,200  |
+    | Damage: One-Hit                    | 1,200  |
     | Damage: Total                      | 1,100  |    
     | Weekly                             | 1,260  | 
     | Grand Total                        | 12,160 |    
