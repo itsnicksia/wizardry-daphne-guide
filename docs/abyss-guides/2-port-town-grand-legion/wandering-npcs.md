@@ -3,7 +3,7 @@
 There are a number of characters that wander the Abyss who you may encounter.  They may be a help, a threat, or simply a distraction. These chance encounters often present you with a choice of interactions that may bring you additional riches or even personality changes.  
 
 ## Bone Picker  
-"Might I interest you in some slightly used body parts?" (again)
+"Might I interest you in some slightly used body parts?" (again)  
 ![](../1-beginning-abyss/img/a1-bone-picker.jpg)  
 ??? note "Details"  
     - Location: Most floors (Districts 1-7 and Ship levels 1 & 2)  
@@ -15,7 +15,7 @@ There are a number of characters that wander the Abyss who you may encounter.  T
     - Notes: The cooldown timer on Remains and Tallow appear to be 7 days from the last time collected, not tied to the weekly game reset.  If you have insufficient gold, the interaction will be dismissed without affecting any cooldown timers.  
 
 ## Shady Merchant  
-"These top-quality artifacts can be yours today for the bargain price of 5,000... no only 2,000 gp! Quantities limited, act now before they're gone!"
+"These top-quality artifacts can be yours today for the bargain price of 5,000... no only 2,000 gp! Quantities limited, act now before they're gone!"  
 ![](./img/a2-shady-merchant.jpg)  
 ??? note "Details"  
     - Location: Port Town Districts 1-7  
@@ -24,7 +24,7 @@ There are a number of characters that wander the Abyss who you may encounter.  T
 ## Faction NPC   
 This wandering NPC will be a differnt character on each Faction route, but the interactions are the same. He will first greet you several times,then ask for aid, and eventually reward you with small items and treasures.  
 
-=== "Pontiff Route"
+=== "Pontiff Route"  
     ![](./img/a2-cathedral-knight.jpg)  
     Cathedral Knight  
     
@@ -67,7 +67,7 @@ This adventurer is apparently interested in checking out the competition, and ma
         - After getting her as a bondmate she will not appear as a wandering NPC any more.  
 
 ## Ugo in the Ship's Hold
-"Don't ask me how I havent been eaten yet."
+"Don't ask me how I havent been eaten yet."  
 ![](./img/a2-ugo-in-the-ships-hold.jpg)  
 ??? note "Details"  
     - Location: Ship 1 and 2 
