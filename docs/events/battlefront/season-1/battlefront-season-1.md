@@ -411,7 +411,6 @@
         | Clear the Elite League              | 1 |  
         | Clear the Hero League               | 1 | 
         | F2P Total                           | 4 | 
-
         | Paid Pass Only:                     |   |  
         | Awarded at 1,500 Points             | 1 |  
         | Awarded at 3,000 Points             | 1 |  
