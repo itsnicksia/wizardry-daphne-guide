@@ -742,7 +742,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-1.png){ width="400" }
+        ![](./img/hero/hero-round-1.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Hobgoblin 2x, Goblin 1x
