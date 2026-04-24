@@ -604,7 +604,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-1.png){ width="430" }
+        ![](./img/elite/elite-round-1.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Skeleton Archer 2x
