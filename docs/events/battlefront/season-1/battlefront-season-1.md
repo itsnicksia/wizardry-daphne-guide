@@ -376,13 +376,13 @@
     | Total Points Required &emsp; &emsp; &emsp; &emsp;                      | Milestone Reward | 
     |:--------------------------:|-------------------------------------|
     | 100                        | Savage Warrior Remains (Gandolfo)   |  
-    | 200                        | Heavy Warblade of Honor (HWH)       | 
+    | 200                        | Heavy Warblade of Honor (HWoH)       | 
     | 1,000                      | Zelos Skill Scroll                  |  
     | 1,600                      | 100x Gems of Org                    | 
-    | 1,700                      | 1x HWH Unification Material         |  
-    | 2,500                      | 1x HWH Unification Material         |  
+    | 1,700                      | 1x HWoH Unification Material         |  
+    | 2,500                      | 1x HWoH Unification Material         |  
     | 3,100                      | 1x Adv Remains I                    |   
-    | 3,200                      | 3x HWH Unification Material         |  
+    | 3,200                      | 3x HWoH Unification Material         |  
     | 3,800                      | Mazelos Skill Scroll                |  
     | 4,000                      | Full Power Strike Skill Scroll      |  
     | 4,600                      | 1x Adv Remains II                   |  
@@ -439,11 +439,19 @@
 
         === "+0 (Base)"
 
+            ![](./img/hwoh-base.png)
+
         === "+15"
+
+            ![](./img/hwoh-15.png)
 
         === "+20"
 
+            ![](./img/hwoh-20.png)
+
     === "Traits" 
+
+        ![](./img/hwoh-traits.png)
 
     === "Review" 
 
@@ -606,7 +614,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-1.png){ width="410" }
+        ![](./img/elite/elite-round-1.png){ width="405" }
 
     === "Enemy Formation"
         - Frontline: Skeleton Archer 2x
@@ -744,7 +752,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-1.png){ width="430" }
+        ![](./img/hero/hero-round-1.png){ width="435" }
 
     === "Enemy Formation"
         - Frontline: Hobgoblin 2x, Goblin 1x
