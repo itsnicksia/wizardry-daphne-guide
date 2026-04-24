@@ -101,10 +101,14 @@
         - "Be carried out" 
             - MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored. Units that were not revived prior to the MC's death stay dead.
             - Does not consume a Flame of Reawakening. League progress is not lost.  
-        - You can gain up to 2 additional Flames of Reawakening in the [Well of the Mind](../../../docs/adventurer-customization/well-of-the-mind), allowing you to revive up to 5 times. 
     - If a party member dies:   
         - If revived they will lose 30 Fortitude per usual. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
-        - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered. 
+
+=== "Fortitude and Flames"
+
+    - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered.
+    - You can gain up to 2 additional Flames of Reawakening in the [Well of the Mind](../../../../adventurer-customization/well-of-the-mind), allowing you to revive up to 5 times. 
+    - We are verifying whether Flames of Reawakening recharge while in the waiting room. 
 
 === "How to Exit the Arena"
 
@@ -124,7 +128,7 @@
 
     - The arena provides a set of special buffs during combat called "Battlefront Rules" for units that are Dark, Human, or use a 2H Sword. 
     - Each special buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues as the lower Leagues can be cleared with just about any team composition. 
-    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../docs/adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
+    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../../adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
     
 === "Special Buffs" 
 
