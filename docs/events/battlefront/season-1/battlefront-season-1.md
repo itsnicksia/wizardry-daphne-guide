@@ -1013,6 +1013,38 @@
     === "Tips"
         - Not clear yet
 
+## Drecom Game Updates
+
+=== "April 16"
+
+    === "BoH Released, P1"
+
+        ![](./img/updates/apr-16-page-1.png)
+
+    === "BoH Released, P2"
+        
+        ![](./img/updates/apr-16-page-2.png)
+
+    === "About Medals" 
+
+        ![](./img/updates/apr-16-page-3.png)
+        
+    === "Notable Items" 
+
+        ![](./img/updates/apr-16-page-4.png)
+
+    === "Battlefront Rules"
+        
+        ![](./img/updates/apr-16-page-5.png)
+
+    === "Hero's Reward Mission, P1" 
+
+        ![](./img/updates/apr-16-page-6.png)
+        
+    === "Hero's Reward Mission, P2" 
+
+        ![](./img/updates/apr-16-page-7.png)
+
 
 
 
