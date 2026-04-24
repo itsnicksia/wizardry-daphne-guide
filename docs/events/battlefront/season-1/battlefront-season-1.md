@@ -512,7 +512,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-1.png){ width="390" }
+        ![](./img/adept/adept-round-1.png){ width="400" }
 
     === "Enemy Formation"
         - Frontline: Earth Hobgoblin 2x
@@ -604,7 +604,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-1.png){ width="390" }
+        ![](./img/elite/elite-round-1.png){ width="430" }
 
     === "Enemy Formation"
         - Frontline: Skeleton Archer 2x
