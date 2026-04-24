@@ -274,6 +274,7 @@
     </div>
 
     - The number of required Adventurers are the column headings. 
+    - MC does not count toward the number of Dark units achievement. 
     - The special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all mission rewards. 
 
 === "Damage: One-Hit" 
@@ -350,11 +351,12 @@
 
     | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total | 
     |:-----------------------------------|--------|
-    | Registration                       | 100    | 
-    | Aspirant                           | 700    |  
-    | Adept                              | 1,200  | 
-    | Elite                              | 1,700  | 
-    | Hero                               | 2,200  | 
+    | From League:                       |        | 
+    | &emsp; Registration                       | 100    | 
+    | &emsp; Aspirant                           | 700    |  
+    | &emsp; Adept                              | 1,200  | 
+    | &emsp; Elite                              | 1,700  | 
+    | &emsp; Hero                               | 2,200  | 
     | Special                            | 2,700  |     
     | Damage: One-Hit                    | 1,200  |
     | Damage: Total                      | 1,100  |    
@@ -404,13 +406,17 @@
     
         | Requirement                         | #  | 
         |:------------------------------------|----|
-        | Clear the Aspirant League &emsp; &emsp; &emsp;           | 1x |  
-        | Clear the Adept League              | 1x | 
-        | Clear the Elite League              | 1x |  
-        | Clear the Hero League               | 1x | 
-        | Paid Pass Only:                     |    |  
-        | Awarded at 1,500 Points             | 1x |  
-        | Awarded at 3,000 Points             | 1x |  
+        | Clear the Aspirant League &emsp; &emsp; &emsp;  &emsp;           | 1 |  
+        | Clear the Adept League              | 1 | 
+        | Clear the Elite League              | 1 |  
+        | Clear the Hero League               | 1 | 
+        | F2P Total                           | 4 | 
+
+        | Paid Pass Only:                     |   |  
+        | Awarded at 1,500 Points             | 1 |  
+        | Awarded at 3,000 Points             | 1 |  
+        | Paid Pass Total                     | 6 |  
+
     
         </div>
 
@@ -432,10 +438,7 @@
 
     === "Stats" 
 
-        === "+0"
-
-                ![](./img/heavy-warblade-of-honor){ width="390" }
-
+        === "+0 (Base)"
 
         === "+15"
 
