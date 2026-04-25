@@ -789,6 +789,10 @@
 
     === "Video" 
 
+        <video width="640" height="360" controls>
+        <source src="'./img/hero/hero-round-1.mp4'.mp4" type="video/mp4">
+        </video>
+
         <video src='./img/hero/hero-round-1.mp4'>
 
 === "Round 2"
