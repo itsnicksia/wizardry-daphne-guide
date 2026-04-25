@@ -450,23 +450,23 @@
 
         === "+0 (Base)"
 
-            ![](./img/hwoh/hwoh-base.png){ width="400" }
+            ![](./img/hwoh/hwoh-base.png)
 
         === "+5"
 
-            ![](./img/hwoh/hwoh-5.png){ width="400" }
+            ![](./img/hwoh/hwoh-5.png)
 
         === "+10"
 
-            ![](./img/hwoh/hwoh-10.png){ width="400" }
+            ![](./img/hwoh/hwoh-10.png)
 
         === "+15"
 
-            ![](./img/hwoh/hwoh-15.png){ width="400" }
+            ![](./img/hwoh/hwoh-15.png)
 
         === "+20"
 
-            ![](./img/hwoh/hwoh-20.png){ width="600" }
+            ![](./img/hwoh/hwoh-20.png){ width="550" }
 
     === "Traits" 
 
