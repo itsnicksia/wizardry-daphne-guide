@@ -247,16 +247,16 @@
     | League Name &emsp; &emsp; &emsp; &emsp;      | Rounds | Clear | Total | Cumulative |  
     |:-------------------------------------|--------|-------|-------|------------|
     | Sign-up                              |        |       | 100   | 100        | 
-    | Aspirant                             | 500    | 200   | 700   | 800        |      
-    | Adept                                | 1,000  | 200   | 1,200 | 2,000      |  
-    | Elite                                | 1,500  | 200   | 1,700 | 3,700      | 
-    | Hero                                 | 2,000  | 200   | 2,200 | 5,900      | 
+    | Aspirant                             | 400    | 200   | 600   | 700        |      
+    | Adept                                | 400    | 200   | 600   | 1,300      |  
+    | Elite                                | 400    | 200   | 600   | 1,900      | 
+    | Hero                                 | 400    | 200   | 600   | 2,500      | 
 
     </div>
 
-    - Each round is worth 100 points. Clearing a League is worth 200 points. 
-    - Clearing everything through Elite gives you 3,700 points. 
-    - If you do not progress to the Hero League, then you will need 2,800 points from Special and Weekly achievements to reach 6,500 points. 
+    - The round achievements are worth 100 points. Clearing a League is worth 200 points. 
+    - Clearing everything through Elite gives you 1,900 points. 
+    - If you do not progress to the Hero League, then you will need 4,600 points to reach 6,500 points for all Mission rewards. 
 
 === "Special" 
 
@@ -273,9 +273,10 @@
 
     </div>
 
-    - The number of required Adventurers are the column headings. 
-    - MC does not count toward the number of Dark units achievement. 
-    - The special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all mission rewards. 
+    - The "Special achievements refer to the "Win using at least X adventurers". 
+    - The number of required members are the column headings. 
+    - MC does not count toward the Dark units achievement. 
+    - The Special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all Mission rewards. 
 
 === "Damage: One-Hit" 
 
@@ -352,16 +353,19 @@
     | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total | 
     |:-----------------------------------|--------|
     | From League:                       |        | 
-    | &emsp; Registration                       | 100    | 
-    | &emsp; Aspirant                           | 700    |  
-    | &emsp; Adept                              | 1,200  | 
-    | &emsp; Elite                              | 1,700  | 
-    | &emsp; Hero                               | 2,200  | 
-    | Special                            | 2,700  |     
-    | Damage: One-Hit                    | 1,200  |
-    | Damage: Total                      | 1,100  |    
-    | Weekly                             | 1,260  | 
-    | Grand Total                        | 12,160 |    
+    | &emsp; Registration                       | 100   | 
+    | &emsp; Aspirant                           | 600   |  
+    | &emsp; Adept                              | 600   | 
+    | &emsp; Elite                              | 600   | 
+    | &emsp; Hero                               | 600   | 
+    | Special                            | 2,700 |     
+    | Damage: One-Hit                    | 1,200 |
+    | Damage: Total                      | 1,100 |    
+    | Weekly                             | 1,260 | 
+    | Grand Total                        | 8,760 |    
+
+    - There are a total of 8,760 total points available. Reduce that number by 600 due to Hero being unclearable and the net result is 8,160. 
+    - That leaves a buffer of 1,660 points (8,160 - 6,500), so you can have some flexibility on what achievements you can ignore and/or unable to fulfill if you're stuck on the first round of Elite or Hero. 
 
     </div>
 
