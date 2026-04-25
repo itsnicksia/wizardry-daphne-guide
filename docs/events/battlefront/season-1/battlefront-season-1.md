@@ -415,7 +415,7 @@
     === "Description" 
 
         <div align="center">
-        ![](./img/doppel-quicksilver-description.png){ width="450" }
+        ![](./img/doppel-quicksilver-description.png){ width="550" }
         </div>
 
     === "Requirements"
@@ -439,7 +439,7 @@
     === "Discipline Menu" 
 
         <div align="center">
-        ![](./img/doppel-quicksilver-training-room.png){ width="450" }
+        ![](./img/doppel-quicksilver-training-room.png){ width="550" }
         </div>
 
         - When you go to the Training Room - Discipline with a unit you will now see the Doppel Quicksilver as an available option. 
@@ -450,19 +450,19 @@
 
         === "+0 (Base)"
 
-            ![](./img/hwoh/hwoh-base.png){ width="500" }
+            ![](./img/hwoh/hwoh-base.png){ width="550" }
 
         === "+5"
 
-            ![](./img/hwoh/hwoh-5.png){ width="500" }
+            ![](./img/hwoh/hwoh-5.png){ width="550" }
 
         === "+10"
 
-            ![](./img/hwoh/hwoh-10.png){ width="500" }
+            ![](./img/hwoh/hwoh-10.png){ width="550" }
 
         === "+15"
 
-            ![](./img/hwoh/hwoh-15.png){ width="500" }
+            ![](./img/hwoh/hwoh-15.png){ width="550" }
 
         === "+20"
 
