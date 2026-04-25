@@ -377,7 +377,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Total Points Required &emsp; &emsp; &emsp; &emsp;                      | Milestone Reward | 
+    | &emsp; Total Points Required &emsp; &emsp; &emsp; &emsp;                      | Milestone Reward | 
     |:--------------------------:|-------------------------------------|
     | 100                        | Savage Warrior Remains (Gandolfo)   |  
     | 200                        | Heavy Warblade of Honor (HWoH)      | 
@@ -448,23 +448,23 @@
 
         === "+0 (Base)"
 
-            ![](./img/hwoh/hwoh-base.png)
+            ![](./img/hwoh/hwoh-base.png){ width="400" }
 
         === "+5"
 
-            ![](./img/hwoh/hwoh-5.png)
+            ![](./img/hwoh/hwoh-5.png){ width="400" }
 
         === "+10"
 
-            ![](./img/hwoh/hwoh-10.png)
+            ![](./img/hwoh/hwoh-10.png){ width="400" }
 
         === "+15"
 
-            ![](./img/hwoh/hwoh-15.png)
+            ![](./img/hwoh/hwoh-15.png){ width="400" }
 
         === "+20"
 
-            ![](./img/hwoh/hwoh-20.png){ width="450" }
+            ![](./img/hwoh/hwoh-20.png){ width="600" }
 
     === "Traits" 
 
