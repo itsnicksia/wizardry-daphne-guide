@@ -371,36 +371,38 @@
 
 ### Rewards
 
-- Additional information forthcoming. 
-
-=== "Milestone Rewards" 
+=== "F2P Milestone Rewards" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | Total Points Required &emsp; &emsp; &emsp; &emsp;                      | Milestone Reward | 
     |:--------------------------:|-------------------------------------|
     | 100                        | Savage Warrior Remains (Gandolfo)   |  
-    | 200                        | Heavy Warblade of Honor (HWoH)       | 
+    | 200                        | Heavy Warblade of Honor (HWoH)      | 
     | 1,000                      | Zelos Skill Scroll                  |  
     | 1,600                      | 100x Gems of Org                    | 
-    | 1,700                      | 1x HWoH Unification Material         |  
-    | 2,500                      | 1x HWoH Unification Material         |  
-    | 3,100                      | 1x Adv Remains I                    |   
-    | 3,200                      | 3x HWoH Unification Material         |  
+    | 1,700                      | 1x HWoH Unification Material        |  
+    | 2,500                      | 1x HWoH Unification Material        |  
+    | 3,100                      | 1x Adventurer Remains I             |   
+    | 3,200                      | 3x HWoH Unification Material        |  
     | 3,800                      | Mazelos Skill Scroll                |  
     | 4,000                      | Full Power Strike Skill Scroll      |  
-    | 4,600                      | 1x Adv Remains II                   |  
+    | 4,600                      | 1x Adventurer Remains II            |  
     | 4,700                      | 3x HWH Unification Material         |  
     | 5,300                      | 1x Codex of Learning                |  
     | 5,400                      | 1x Silver Ore                       |  
     | 5,400                      | 1x Lesser Full Alteration Stone     |  
-    | 5,600                      | 1x Adv Remains I                    |  
-    | 6,000                      | 1x Adv Remains II                   |  
+    | 5,600                      | 1x Adventurer Remains I             |  
+    | 6,000                      | 1x Adventurer Remains II            |  
     | 6,100                      | Earth-Splitting Strike Skill Scroll |  
     | 6,400                      | 2x Silver Ore                       |  
     | 6,500                      | 1x Lesser Full Alteration Stone     |  
 
     </div>
+
+=== "Paid Mission Pass" 
+
+    ![](./img/mission-pass.png)
 
 === "Doppel Quicksilver" 
 
@@ -420,7 +422,6 @@
         | Awarded at 3,000 Points             | 1 |  
         | Paid Pass Total                     | 6 |  
 
-    
         </div>
 
     === "Description" 
@@ -443,21 +444,35 @@
 
         === "+0 (Base)"
 
-            ![](./img/hwoh-base.png)
+            ![](./img/hwoh/hwoh-base.png)
+
+        === "+5"
+
+            ![](./img/hwoh/hwoh-5.png)
+
+        === "+10"
+
+            ![](./img/hwoh/hwoh-10.png)
 
         === "+15"
 
-            ![](./img/hwoh-15.png)
+            ![](./img/hwoh/hwoh-15.png)
 
         === "+20"
 
-            ![](./img/hwoh-20.png)
+            ![](./img/hwoh/hwoh-20.png)
 
     === "Traits" 
 
-        ![](./img/hwoh-traits.png)
+        ![](./img/hwoh/hwoh-traits.png)
 
     === "Review" 
+
+        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (ACC, SUR, SP) outside Gillion's gacha weapon.  
+        - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
+        - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. 
+        - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
+        - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
 
 === "F2P"
 
