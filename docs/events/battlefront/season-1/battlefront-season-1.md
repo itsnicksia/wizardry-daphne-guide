@@ -22,7 +22,7 @@
             - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
             - Wait to clear the Elite League until after you have finished all of the Hero's Reward Missions, which requires 6,500 points. 
     - Doppel Quicksilver 
-        - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Mastery (Discipline experience). 
+        - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Mastery (Discipline) experience. 
         - Paid pass holders can get up to 5 prior to the Hero League at 1,500 and 3,000 points, respectively. 
 
 ## Overview
@@ -31,7 +31,7 @@
 - Battlefront of Heroes is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
 - Each season spotlights a subset of units that are granted a special set of buffs based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
-- The Hero's Reward Missions offer up to 4 Doppel Quicksilver, a new item, which gives 25 Mastery (Discipline experience) to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
+- The Hero's Reward Missions offer up to 4 Doppel Quicksilver, a new item, which gives 25 Mastery (Discipline) experience to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
 
 ## Requirements
 
@@ -375,7 +375,9 @@
 
 ### Rewards
 
-=== "F2P Milestone Rewards" 
+#### Achievements 
+
+=== "Milestone Rewards" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
@@ -404,21 +406,35 @@
 
     </div>
 
-=== "Paid Mission Pass" 
+=== "All Rewards" 
+
+    - Forthcoming. 
+
+=== "Paid Mission Pass Extras" 
 
     ![](./img/mission-pass.png)
 
+#### Notable Items
+
 === "Doppel Quicksilver" 
+
+    === "Basics" 
+
+        - First time that Drecom has released an item that gives Mastery (Discipline) experience. Each one gives 25 Mastery.
+        - As noted F2P will only be able to get 3 copies (75 Mastery) unless you can clear the Hero League. The paid pass provides 2 additional ones for a total of 5.
+        - Recommended uses:
+            - Limited banner unit that you want to invest in long-term. Future seasons are likely to provide additional copies. 
+            - Alternative style unit to reach D1 for [Shared Discipline](../../../../mechanics/merging/#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
 
     === "Description" 
 
         ![](./img/doppel-quicksilver-description.png){ width="500" }
 
-    === "Requirements"
+    === "How to Obtain"
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
     
-        |                                     | #  | 
+        | Requirement                                     | #  | 
         |:------------------------------------|----|
         | Clear the Aspirant League &emsp; &emsp; &emsp;  &emsp;           | 1 |  
         | Clear the Adept League              | 1 | 
@@ -477,10 +493,12 @@
         - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
         - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
 
+#### Other 
+
 === "F2P"
 
     - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
-    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline experience). 
+    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline) experience. 
 
 === "Paid Pass Review"
 
