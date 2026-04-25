@@ -426,10 +426,6 @@
             - Limited banner unit that you want to invest in long-term. Future seasons are likely to provide additional copies. 
             - Alternative style unit to reach D1 for [Shared Discipline](../../../../mechanics/merging/#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
 
-    === "Description" 
-
-        ![](./img/doppel-quicksilver-description.png){ width="500" }
-
     === "How to Obtain"
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
@@ -447,6 +443,11 @@
         | Paid Pass Total                     | 6 |  
 
         </div>
+
+    === "Description" 
+
+        ![](./img/doppel-quicksilver-description.png){ width="500" }
+
 
     === "Discipline Menu" 
 
