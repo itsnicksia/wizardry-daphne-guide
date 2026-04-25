@@ -20,7 +20,7 @@
             - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
             - Wait to clear the Elite League until after you have finished all of the Hero's Reward Missions, which requires 6,500 points. 
     - Doppel Quicksilver 
-        - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Discipline experience. 
+        - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Mastery (Discipline experience). 
         - Paid pass holders can get up to 5 prior to the Hero League. 
 
 ## Overview
@@ -29,7 +29,7 @@
 - Battlefront of Heroes is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
 - Each season spotlights a subset of units that are granted a special set of buffs based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
 - Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
-- The Hero's Reward Missions offer up to 4 Doppel Quicksilver, a new item, which gives 25 Discipline experience points to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
+- The Hero's Reward Missions offer up to 4 Doppel Quicksilver, a new item, which gives 25 Mastery (Discipline experience) to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
 
 ## Requirements
 
@@ -118,9 +118,12 @@
 
 === "Cursed Wheel"
 
-    - If you need to Cursed Wheel outside your current Abyss, then the Battlefront of Heroes event will reset and disappear from the world map.
-    - After Cursed Wheeling enter the Royal Capital from the world map to see the invitiation cutscene again. You will need to re-do the steps to accept the request.  
-    - If your Cursed Wheel node places you in the Royal Capital, then the request cutscene should automatically trigger. If not, then exit to the world map and re-enter. 
+    - If you need to Cursed Wheel outside your current Abyss, then the Battlefront of Heroes will disappear from the world map.
+    - If your Cursed Wheel node:
+        - Puts you in the Royal Capital, then the invitation cutscene will automatically trigger. 
+        - In a different city, the enter the Royal Capital from the world map. 
+    - If it fails to trigger, then enter a different town or dungeon and re-enter the Royal Capital. 
+    - Unfortunately, you will have to go to the Beginning Abyss - BF2 and rewatch the scenes again with the noble. 
 
 ### Battlefront Rules 
 
@@ -227,7 +230,7 @@
     
     - Prioritize your core, long-term units for the incremental stat bonuses and Dark damage reduction. 
     - Maximize the 2x stat bonus for Dark units. 
-    - Dark Knights gain +10 SP at L3, which is extremely helpful due to their low SP pools even with high discipline. 
+    - Dark Knights gain +10 SP at L3, which is extremely helpful due to their low SP pools even with high Discipline levels. 
     - Improve the survivability of Light units by giving them at least L1 of the medal. Dark bosses and super bosses are very common. 
 
 ## Hero's Reward Missions 
@@ -235,7 +238,7 @@
 ### Basics  
 
 - To receive all the achievement rewards requires a total of 6,500 points. 
-- There is a maximum of 12,160 points from all sources. It is possible to clear the entire mission before reaching the Hero League.
+- There is a maximum of 8,760 total points from all sources. It is possible to clear the entire Mission before reaching the Hero League.
 - Mission achievements, progress, and rewards can only be accessed while in the arena. 
 
 ### Points by Category 
@@ -273,8 +276,7 @@
 
     </div>
 
-    - The "Special achievements refer to the "Win using at least X adventurers". 
-    - The number of required members are the column headings. 
+    - These achievements refer to the "Win using at least X adventurers". The number of required members are the column headings (1-5). 
     - MC does not count toward the Dark units achievement. 
     - The Special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all Mission rewards. 
 
@@ -342,8 +344,8 @@
 
     </div>
 
-    - There will be 7 weekly achievements during the season. Each achievement is worth 30 points for a total of 180 points per week. 
-    - Weekly achievements are worth a total of 1,260 points. 
+    - There are 7 weekly missions during the season. Each achievement is worth 30 points for a total of 180 points per week. 
+    - Weekly mission achievements are worth a total of 1,260 points. 
     - Note: We do not know if the requirements will change week-to-week or if these will stay constant.
 
 === "All"
@@ -402,7 +404,9 @@
 
 === "Paid Mission Pass" 
 
+    <div align="center">
     ![](./img/mission-pass.png)
+    </div>
 
 === "Doppel Quicksilver" 
 
@@ -427,13 +431,13 @@
     === "Description" 
 
         <div align="center">
-        ![](./img/doppel-quicksilver-description.png){ width="410" }
+        ![](./img/doppel-quicksilver-description.png){ width="450" }
         </div>
 
     === "Discipline Menu" 
 
         <div align="center">
-        ![](./img/doppel-quicksilver-training-room.png){ width="410" }
+        ![](./img/doppel-quicksilver-training-room.png){ width="450" }
         </div>
 
         - When you go to the Training Room - Discipline with a unit you will now see the Doppel Quicksilver as an available option. 
@@ -460,15 +464,17 @@
 
         === "+20"
 
-            ![](./img/hwoh/hwoh-20.png)
+            ![](./img/hwoh/hwoh-20.png){ width="450" }
 
     === "Traits" 
 
+        <div align="center">
         ![](./img/hwoh/hwoh-traits.png)
+        </div>
 
     === "Review" 
 
-        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (ACC, SUR, SP) outside Gillion's gacha weapon.  
+        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (Accuracy, Surety, SP) outside Devourer of Ruin, Gillion's gacha weapon.  
         - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
         - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. 
         - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
@@ -477,9 +483,9 @@
 === "F2P"
 
     - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
-    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Discipline experience. 
+    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline experience). 
 
-=== "Paid Pass"
+=== "Paid Pass Review"
 
     - Forthcoming.
     
