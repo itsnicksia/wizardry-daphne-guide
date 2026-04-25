@@ -129,7 +129,7 @@
 
 ### Battlefront Rules 
 
-=== "Summary" 
+=== "Basics" 
 
     - The arena provides a set of special buffs during combat called "Battlefront Rules" for units that are Dark, Human, or use a 2H Sword. 
     - Each special buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues as the lower Leagues can be cleared with just about any team composition. 
@@ -412,11 +412,17 @@
 
 === "Doppel Quicksilver" 
 
+    === "Description" 
+
+        <div align="center">
+        ![](./img/doppel-quicksilver-description.png){ width="450" }
+        </div>
+
     === "Requirements"
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
     
-        | Requirement                         | #  | 
+        |                                     | #  | 
         |:------------------------------------|----|
         | Clear the Aspirant League &emsp; &emsp; &emsp;  &emsp;           | 1 |  
         | Clear the Adept League              | 1 | 
@@ -428,12 +434,6 @@
         | Awarded at 3,000 Points             | 1 |  
         | Paid Pass Total                     | 6 |  
 
-        </div>
-
-    === "Description" 
-
-        <div align="center">
-        ![](./img/doppel-quicksilver-description.png){ width="450" }
         </div>
 
     === "Discipline Menu" 
@@ -450,19 +450,19 @@
 
         === "+0 (Base)"
 
-            ![](./img/hwoh/hwoh-base.png){ width="450" }
+            ![](./img/hwoh/hwoh-base.png){ width="500" }
 
         === "+5"
 
-            ![](./img/hwoh/hwoh-5.png){ width="450" }
+            ![](./img/hwoh/hwoh-5.png){ width="500" }
 
         === "+10"
 
-            ![](./img/hwoh/hwoh-10.png){ width="450" }
+            ![](./img/hwoh/hwoh-10.png){ width="500" }
 
         === "+15"
 
-            ![](./img/hwoh/hwoh-15.png){ width="450" }
+            ![](./img/hwoh/hwoh-15.png){ width="500" }
 
         === "+20"
 
@@ -470,9 +470,7 @@
 
     === "Traits" 
 
-        <div align="center">
         ![](./img/hwoh/hwoh-traits.png)
-        </div>
 
     === "Review" 
 
@@ -791,7 +789,7 @@
 
     === "Video" 
 
-        ![](./img/hero/hero-round-1.mp4)
+        <video src='./img/hero/hero-round-1.mp4'>
 
 === "Round 2"
 
