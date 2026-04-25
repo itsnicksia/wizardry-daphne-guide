@@ -23,7 +23,7 @@
             - Wait to clear the Elite League until after you have finished all of the Hero's Reward Missions, which requires 6,500 points. 
     - Doppel Quicksilver 
         - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Mastery (Discipline experience). 
-        - Paid pass holders can get up to 5 prior to the Hero League. 
+        - Paid pass holders can get up to 5 prior to the Hero League at 1,500 and 3,000 points, respectively. 
 
 ## Overview
 
@@ -788,6 +788,10 @@
     === "Tips"
         - All the enemies use their standard skillsets. All of them are evadable with Dark Element units with 230+ EVA.
         - Kill the magic casting backline units first. Kill the rest with basic attacks to conserve SP.
+
+    === "Video" 
+
+        ![](./img/hero/hero-round-1.mp4)
 
 === "Round 2"
 
