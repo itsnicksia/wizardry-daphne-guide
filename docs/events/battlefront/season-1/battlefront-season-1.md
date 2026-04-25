@@ -110,7 +110,7 @@
 
     - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered.
     - You can gain up to 2 additional Flames of Reawakening in the [Well of the Mind](../../../../adventurer-customization/well-of-the-mind), allowing you to revive up to 5 times. 
-    - We are verifying whether Flames of Reawakening recharge while in the waiting room. 
+    - Flames of Reawakening recharge while in the waiting room. 
 
 === "How to Exit the Arena"
 
@@ -406,17 +406,13 @@
 
 === "Paid Mission Pass" 
 
-    <div align="center">
     ![](./img/mission-pass.png)
-    </div>
 
 === "Doppel Quicksilver" 
 
     === "Description" 
 
-        <div align="center">
-        ![](./img/doppel-quicksilver-description.png){ width="550" }
-        </div>
+        ![](./img/doppel-quicksilver-description.png){ width="500" }
 
     === "Requirements"
 
@@ -438,9 +434,7 @@
 
     === "Discipline Menu" 
 
-        <div align="center">
-        ![](./img/doppel-quicksilver-training-room.png){ width="550" }
-        </div>
+        ![](./img/doppel-quicksilver-training-room.png){ width="500" }
 
         - When you go to the Training Room - Discipline with a unit you will now see the Doppel Quicksilver as an available option. 
 
@@ -451,6 +445,9 @@
         === "+0 (Base)"
 
             ![](./img/hwoh/hwoh-base.png){ width="550" }
+
+            - The weapon will always roll ATK and ACC on the first and second line, respectively. 
+            - The value is RNG, but can range from +5-7. 
 
         === "+5"
 
@@ -772,7 +769,7 @@
         - Backline: Necromancer 1x
         - Debuff Applied: Elf Stats Down
 
-### Heroic League
+### Hero League
 
 === "Round 1"
 
