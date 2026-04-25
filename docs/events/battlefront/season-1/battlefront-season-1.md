@@ -450,19 +450,19 @@
 
         === "+0 (Base)"
 
-            ![](./img/hwoh/hwoh-base.png)
+            ![](./img/hwoh/hwoh-base.png){ width="450" }
 
         === "+5"
 
-            ![](./img/hwoh/hwoh-5.png)
+            ![](./img/hwoh/hwoh-5.png){ width="450" }
 
         === "+10"
 
-            ![](./img/hwoh/hwoh-10.png)
+            ![](./img/hwoh/hwoh-10.png){ width="450" }
 
         === "+15"
 
-            ![](./img/hwoh/hwoh-15.png)
+            ![](./img/hwoh/hwoh-15.png){ width="450" }
 
         === "+20"
 
