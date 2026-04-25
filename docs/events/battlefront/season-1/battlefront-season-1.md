@@ -395,7 +395,7 @@
     | 4,700                      | 3x HWH Unification Material         |  
     | 5,300                      | 1x Codex of Learning                |  
     | 5,400                      | 1x Silver Ore                       |  
-    | 5,400                      | 1x Lesser Full Alteration Stone     |  
+    | 5,500                      | 1x Lesser Full Alteration Stone     |  
     | 5,600                      | 1x Adventurer Remains I             |  
     | 6,000                      | 1x Adventurer Remains II            |  
     | 6,100                      | Earth-Splitting Strike Skill Scroll |  
