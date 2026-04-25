@@ -5,7 +5,9 @@
     - The page will be heavily updated over the coming days with more details. 
     - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
 
-!!! danger "Critical Warnings - Read Me"
+## Critical Warnings
+
+!!! danger "Before You Begin - Read Me"
     - Major Constraints
         - Once a League has been cleared it cannot be reset. You are automatically advanced to the next one.  
         - The Hero League is a massive difficulty spike. It may not be possible for a normal player to survive the first round. Only a handful of players globally have cleared it to-date. 
