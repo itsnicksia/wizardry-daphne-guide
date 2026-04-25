@@ -777,7 +777,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-1.png){ width="435" }
+        ![](./img/hero/hero-round-1.png){ width="425" }
 
     === "Enemy Formation"
         - Frontline: Hobgoblin 2x, Goblin 1x
@@ -790,7 +790,7 @@
 === "Round 2"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-2.png){ width="390" }
+        ![](./img/hero/hero-round-2.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Hobgoblin 3x
@@ -804,7 +804,7 @@
 === "Round 3"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-3.png){ width="390" }
+        ![](./img/hero/hero-round-3.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Vorpal Bunny 2x, Large Slime 1x
@@ -821,7 +821,7 @@
 === "Round 4"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-4.png){ width="390" }
+        ![](./img/hero/hero-round-4.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
@@ -835,7 +835,7 @@
 === "Round 5"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-5.png){ width="390" }
+        ![](./img/hero/hero-round-5.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Giant Monster Bird 1x
@@ -849,7 +849,7 @@
 === "Round 6"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-6.png){ width="390" }
+        ![](./img/hero/hero-round-6.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Skeleton Knight 2x, Skeleton Giant
@@ -862,7 +862,7 @@
 === "Round 7"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-7.png){ width="390" }
+        ![](./img/hero/hero-round-7.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Plague Crewman 2x, Cursed Sack Doll 2x
@@ -875,7 +875,7 @@
 === "Round 8"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-8.png){ width="390" }
+        ![](./img/hero/hero-round-8.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Necrocore 1x, Lesser Demon 2x
@@ -889,7 +889,7 @@
 === "Round 9"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-9.png){ width="390" }
+        ![](./img/hero/hero-round-9.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Chimera 2x
@@ -902,7 +902,7 @@
 === "Round 10"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-10.png){ width="390" }
+        ![](./img/hero/hero-round-10.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Minotaur 1x, Our Heirlooms 1x
@@ -916,7 +916,7 @@
 === "Round 11"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-11.png){ width="390" }
+        ![](./img/hero/hero-round-11.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Lamenting Snowfolk 2x
@@ -931,7 +931,7 @@
 === "Round 12"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-12.png){ width="390" }
+        ![](./img/hero/hero-round-12.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Evil Eye 1x, Earth Slime 2x
@@ -946,7 +946,7 @@
 === "Round 13"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-13.png){ width="390" }
+        ![](./img/hero/hero-round-13.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Big Snow Hawk 2x
@@ -959,7 +959,7 @@
 === "Round 14"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-14.png){ width="390" }
+        ![](./img/hero/hero-round-14.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Succubi 3x
@@ -972,7 +972,7 @@
 === "Round 15"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-15.png){ width="390" }
+        ![](./img/hero/hero-round-15.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Bigfoot 1x, Cyclops 1x
@@ -987,7 +987,7 @@
 === "Round 16"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-16.png){ width="390" }
+        ![](./img/hero/hero-round-16.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Mimic 1x, Stonefolk 1x
@@ -1002,7 +1002,7 @@
 === "Round 17"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-17.png){ width="390" }
+        ![](./img/hero/hero-round-17.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Lizardman 2x, Fire Slime 2x
@@ -1015,7 +1015,7 @@
 === "Round 18"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-18.png){ width="390" }
+        ![](./img/hero/hero-round-18.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Vampire 2x, Sand Apparition 2x
@@ -1027,7 +1027,7 @@
 === "Round 19"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-19.png){ width="390" }
+        ![](./img/hero/hero-round-19.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Snow Wolf Leader 1x, Snow Wolf 3x
@@ -1039,7 +1039,7 @@
 === "Round 20"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-20.png){ width="390" }
+        ![](./img/hero/hero-round-20.png){ width="420" }
 
     === "Enemy Formation"
         - Frontline: Defense Golem 1x, Attack Golem 1x
