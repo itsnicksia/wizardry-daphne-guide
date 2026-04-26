@@ -373,11 +373,128 @@
 
     </div>
 
-### Rewards
+### Arena Rewards
 
-#### Achievements 
+Arena rewards are only obtainable by completing Missions.  
+Not all rewards can be obtained by Free 2 Play players.  
 
-=== "Milestone Rewards" 
+
+#### Notable Items
+
+=== "Heavy Warblade of Honor" 
+
+    === "Basics" 
+
+        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (Accuracy, Surety, SP) outside Devourer of Ruin, Gillion's gacha weapon.  
+        - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
+        - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. 
+        - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
+        - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
+
+    === "Stats" 
+
+        === "+0 (Base)"
+
+            ![](./img/hwoh/hwoh-base.png){ width="550" }
+
+            - The weapon will always roll ATK and ACC on the first and second line, respectively. 
+            - The value is RNG, but can range from +5-7. 
+
+        === "+5"
+
+            ![](./img/hwoh/hwoh-5.png){ width="550" }
+
+        === "+10"
+
+            ![](./img/hwoh/hwoh-10.png){ width="550" }
+
+        === "+15"
+
+            ![](./img/hwoh/hwoh-15.png){ width="550" }
+
+        === "+20"
+
+            ![](./img/hwoh/hwoh-20.png){ width="550" }
+
+    === "Traits" 
+
+        ![](./img/hwoh/hwoh-traits.png)
+
+
+=== "Doppel Quicksilver" 
+
+    === "Basics" 
+
+        - First time that Drecom has released an item that gives Mastery (Discipline) experience. Each one gives 25 Mastery.
+        - As noted F2P will only be able to get 3 copies (75 Mastery) unless you can clear the Hero League. The paid pass provides 2 additional ones for a total of 5.
+        - Recommended uses:
+            - Limited banner unit that you want to invest in long-term. Future seasons are likely to provide additional copies. 
+            - Alternative style unit to reach D1 for [Shared Discipline](../../../../mechanics/merging/#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
+
+    === "How to Obtain"
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+        | Requirement                                     | #  | 
+        |:------------------------------------|----|
+        | Clear the Aspirant League &emsp; &emsp; &emsp;  &emsp;           | 1 |  
+        | Clear the Adept League              | 1 | 
+        | Clear the Elite League              | 1 |  
+        | Clear the Hero League               | 1 | 
+        | F2P Total                           | 4 | 
+        | Paid Pass Only:                     |   |  
+        | Awarded at 1,500 Points             | 1 |  
+        | Awarded at 3,000 Points             | 1 |  
+        | Paid Pass Total                     | 6 |  
+
+        </div>
+
+    === "Description" 
+
+        ![](./img/doppel-quicksilver-description.png){ width="500" }
+
+
+    === "Discipline Menu" 
+
+        ![](./img/doppel-quicksilver-training-room.png){ width="500" }
+
+        - When you go to the Training Room - Discipline with a unit you will now see the Doppel Quicksilver as an available option. 
+
+#### Rewards List 
+
+=== "Summary"  
+
+    - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
+    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline) experience. 
+
+    *Free to play rewards:*  
+    
+    - 3x Doppel Quicksilver (4x if you can clear Hero)  
+    - up to +15 Hero Warblade of Honor  
+    - Gold: 660,000gp  
+    - Gems: 200 Gems of Org  
+    - Bones: Gandolfo, 2 Adv. Remains I, 2 Adv. Remains II  
+    - Ore: 30 Low, 30 Mid, 30 High, 5 Fine, 3 Silver  
+    - XP Books: 64 Maneuver Tomes (36,480xp each)  
+    - Skill Items: ZELOS, MAZELOS, ESS, 1 25xp Codex  
+    - Guild Tags: 6 Ungraded Tags  
+    - Stones: 2 Lesser Full Alteration Stones  
+
+    *Mission Pass Additional Rewards:*    
+    
+    - 2x Doppel Quicksilver  
+    - Up to +20 Hero Warblade of Honor  
+    - Gold: 220,000gp  
+    - Gems: 2,900 Gems of Org  
+    - Bones: 2 Adv. Remains , 2 Adv. Remains II  
+    - Ore:  15  Mid, 15 High, 5 Fine, 3 Silver  
+    - XP Books: 5 Maneuver Tomes (36,480xp each)  
+    - Guild Tags: 7 Ungraded Tags  
+    - Stones: 1 LFAS , 1 FAS   
+
+    ![](./img/mission-pass.png)  
+
+=== "Milestone Rewards"  
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
@@ -479,103 +596,6 @@
     | 6,500                 | 1x Lesser Full Alteration Stone       | 1x Full Alteration Stone             |  
 
     </div>  
-
-
-
-=== "Paid Mission Pass Extras" 
-
-    ![](./img/mission-pass.png)
-
-#### Notable Items
-
-=== "Doppel Quicksilver" 
-
-    === "Basics" 
-
-        - First time that Drecom has released an item that gives Mastery (Discipline) experience. Each one gives 25 Mastery.
-        - As noted F2P will only be able to get 3 copies (75 Mastery) unless you can clear the Hero League. The paid pass provides 2 additional ones for a total of 5.
-        - Recommended uses:
-            - Limited banner unit that you want to invest in long-term. Future seasons are likely to provide additional copies. 
-            - Alternative style unit to reach D1 for [Shared Discipline](../../../../mechanics/merging/#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
-
-    === "How to Obtain"
-
-        <div class="nofilter-table nosort-table equipment-table" markdown>
-    
-        | Requirement                                     | #  | 
-        |:------------------------------------|----|
-        | Clear the Aspirant League &emsp; &emsp; &emsp;  &emsp;           | 1 |  
-        | Clear the Adept League              | 1 | 
-        | Clear the Elite League              | 1 |  
-        | Clear the Hero League               | 1 | 
-        | F2P Total                           | 4 | 
-        | Paid Pass Only:                     |   |  
-        | Awarded at 1,500 Points             | 1 |  
-        | Awarded at 3,000 Points             | 1 |  
-        | Paid Pass Total                     | 6 |  
-
-        </div>
-
-    === "Description" 
-
-        ![](./img/doppel-quicksilver-description.png){ width="500" }
-
-
-    === "Discipline Menu" 
-
-        ![](./img/doppel-quicksilver-training-room.png){ width="500" }
-
-        - When you go to the Training Room - Discipline with a unit you will now see the Doppel Quicksilver as an available option. 
-
-=== "Heavy Warblade of Honor" 
-
-    === "Basics" 
-
-        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (Accuracy, Surety, SP) outside Devourer of Ruin, Gillion's gacha weapon.  
-        - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
-        - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. 
-        - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
-        - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
-
-    === "Stats" 
-
-        === "+0 (Base)"
-
-            ![](./img/hwoh/hwoh-base.png){ width="550" }
-
-            - The weapon will always roll ATK and ACC on the first and second line, respectively. 
-            - The value is RNG, but can range from +5-7. 
-
-        === "+5"
-
-            ![](./img/hwoh/hwoh-5.png){ width="550" }
-
-        === "+10"
-
-            ![](./img/hwoh/hwoh-10.png){ width="550" }
-
-        === "+15"
-
-            ![](./img/hwoh/hwoh-15.png){ width="550" }
-
-        === "+20"
-
-            ![](./img/hwoh/hwoh-20.png){ width="550" }
-
-    === "Traits" 
-
-        ![](./img/hwoh/hwoh-traits.png)
-
-#### Other 
-
-=== "F2P"
-
-    - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
-    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline) experience. 
-
-=== "Paid Pass Review"
-
-    - Forthcoming.
     
 ## General Strategies
 
@@ -1179,16 +1199,3 @@
 === "Hero's Reward Mission, P2" 
 
     ![](./img/updates/apr16-page-7.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
