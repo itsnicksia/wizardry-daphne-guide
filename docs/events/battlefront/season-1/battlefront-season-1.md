@@ -375,9 +375,8 @@
 
 ### Arena Rewards
 
-- Complete Missions.  
-- Not all rewards can be obtained by F2P players.  
-
+- Complete Mission achievements to earn points to unlock rewards. Rewards are granted every 100 points.   
+- Note that not all rewards can be obtained by F2P players.
 
 #### Notable Items
 
@@ -462,8 +461,12 @@
 
 #### Rewards List 
 
-- Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
-- Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline) experience. 
+=== "Summary" 
+
+    - The Reward Lists are organized into F2P and Paid Pass columns. 
+    - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
+    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline) experience. Paid pass members receive 2 extra at 1,500 and 3,000 points, respectively. 
+    - Rewards are given automatically after the achievement has been submitted as complete. 
 
 === "F2P Rewards"  
 
