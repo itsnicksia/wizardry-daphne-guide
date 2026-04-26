@@ -3,7 +3,7 @@
 
 ## Blizzard Blocking the Path
 
-### Witch Hunt in Elden Hill Village (1st Faction Request)
+### Witch Hunt in Elden Hill Village (Faction 1 Requests)
 
 #### Overview 
 
@@ -11,24 +11,28 @@
 
     === "How to Unlock" 
     
-        - The faction requests are unlocked after entering Route 4 for the first time. Upon returning to Isberg a messenger will ask you to return to the Royal Capital.
-        - Go to the Guild, Arna will ask if you want to meet with the faction representative, accept, and you will be taken to their location to watch a short cutscene. If this does not happen, then select the "Talk" option in the Guild menu. 
+        - The faction requests are unlocked after entering Route 4 for the first time. 
+        - Upon returning to Isberg a messenger will ask you to return to the Royal Capital.
+        - Go to the Guild, Arna will automatically speak with you. Accept the invitation.
         - If you decline, then to accept the request in the future select "Talk" in the Guild.
-        - All of the faction requests take place in Elden Hill Village and share the same map (The Witch's Cave).  
+        - Notes: 
+            - All of the faction requests take place in Elden Hill Village and share the same map (The Witch's Cave).  
+            - Boss content is challenging. You may struggle if you just reached A4 or with a low-level team. 
 
     === "Faction Affinity"
     
-        - Supporting a faction in a previous Abyss influences certain outcomes. It requires selecting that faction in the Cursed Wheel for Abyss 2 and 3.
+        - Supporting a faction in a previous Abyss influences certain outcomes. **It only applies to Faction 1 requests.** 
+        - To set max faction affinity: Toggle the faction in the Cursed Wheel for A2 and A3 before jumping to A4 and accepting the request.
         - Max faction affinity -is- required for:
             - Each of the Faction 1 Best endings for the Luck Guiding Light. 
-            - Calm Wind equipment rewarded on Pontiff 1 and Admiral 1. 
+            - Calm Wind equipment rewarded on Pontiff and Admiral routes. 
             - Extra junk rewards.
-        - Max faction affinity is -not- required for: 
-            - Anything related to Faction 2 including Bondmates and the unique gear rewards.
-            - The Calm Wind Crest for Faction 1, Princess - Mystic - Bad, otherwise you will be automatically routed to the Aegon Route (Best Ending). 
+        - Max faction affinity - is not- required for: 
+            - Anything related to Faction 2 requests, including Bondmates and the unique gear.
+            - The Calm Wind Crest for Princess-Mystic-Bad, otherwise you will be automatically routed to the Aegon Route (Best Ending). 
         - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
     
-            !!! note "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending." 
+            !!! tip "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending." 
 
     === "Luck Guiding Light" 
 
@@ -41,8 +45,8 @@
 
         - Overview
         
-            - 10 unique endings across all factions have been identified 
-            - Known endings are sufficient for unlocking the Guiding Light (Luck)
+            - 10 unique endings across all factions have been identified. 
+            - Known endings are sufficient for unlocking the Luck Guiding Light.
             - The Princess faction is listed with 4 endings as the Best ending has 2 distinct sub-endings with different rewards and scenes 
     
         - Endings per Faction
@@ -52,15 +56,15 @@
             - Admiral: 3
             - Total: 10 
 
-    === "How to Reset Faction 1 Requests" 
+    === "How to Reset" 
     
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
         
     === "Reset Notes"
     
-        - When resetting the request you have to fully jump to Deepsnow Hinterlands Entrance, go back to the Ruins, and then jump again to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you simply wheel-in-place. 
-        - The Faction 1 requests are technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
+        - When resetting the request you have to jump to Deepsnow Hinterlands Entrance, return to the Ruins, and then jump to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you wheel-in-place. 
+        - The Faction 1 requests are technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. To save time, reach one of those 2 floors if you plan to do all of the endings before progressing the main story. 
 
     === "Contact"
 
@@ -892,7 +896,7 @@
 
 !!! warning "You cannot complete both parts of any Faction 2 request until you have cleared GWO 4-3."
 
-### Search for the Missing Persons (2nd Faction Request)
+### Search for the Missing Persons (Faction 2 Requests)
 
 #### Overview 
 
@@ -900,24 +904,25 @@
 
     === "Requirements"
     
-        - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear GWO 4-3)
-        - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
+        - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear GWO 4-3).
+        - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional).
+        - Note: Max faction affinity is not required. 
 
     === "How to Unlock" 
 
         - The Faction 2 requests are unlocked after entering Route 9 for the first time.
         - The objective is to search for traces of 2 missing people. The guide is structured around finding each of the bodies (1st Body, 2nd Body).  
-        - Upon entering the Royal Capital, the faction representative will appear to discuss the missing persons. 
+        - Upon entering the Royal Capital, the faction representative will appear and request your help. 
             - Agree to help twice when prompted.
             - Head to the Guild and accept the request under the Royal Capital tab. 
-            - If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset.
+            - If you decline, then the faction representative will not appear again and the Cursed Wheel must be reset.
         
-    === "Cursed Wheel Settings - First Run and Resets" 
+    === "Cursed Wheel Settings" 
 
         === "First Run"
 
-            - Before starting your first run you need to set-up your Cursed Wheel properly otherwise the 1st body will not appear
-            - Wheel to Deepsnow Hinterlands Entrance
+            - Before starting your first run you need to set-up your Cursed Wheel properly otherwise the 1st body will not appear. 
+            - Wheel to Deepsnow Hinterlands Entrance. 
             - Wheel to Short Rest in the Cabin with the following toggles selected:
                 - North Lakeshore Cabin - "Fixed it up"
                 - Dwarves' Cave - Any 
@@ -927,7 +932,7 @@
 
         === "Reset for 1st Body"
 
-            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins
+            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins.
             - Wheel to Short Rest in the Cabin with the following toggles selected:
                 - North Lakeshore Cabin - "Fixed it up"
                 - Dwarves' Cave - Any
@@ -936,7 +941,7 @@
 
         === "Reset for 2nd Body"
 
-            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins
+            - Wheel to Deepsnow Hinterlands Entrance and go to the Ruins.
             - Wheel to Short Rest in the Cabin with the following toggles selected:
                 - North Lakeshore Cabin - "Fixed it up"
                 - Dwarves' Cave - Any 
@@ -945,10 +950,10 @@
 
         === "Troubleshooting"
 
-            - For any reset you must always start by wheeling back to Deepsnow Hinterlands Entrance. It clears all active flags and reduces the chance of a bug appearing, which is common when you have two requests active that share the same map.
-            - Always double- or triple-check that the Cursed Wheel toggles are set correctly as they have a tendency to flip back to a default setting when changing multiple toggles at the same time.  
-            - As a worst case option you can wheel to "Fresh Start" in Abyss 1 to clear any broken flags or bugs, but it will reset all of your map data.
-            - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
+            - For any reset you must always start by wheeling back to Deepsnow Hinterlands Entrance. 
+            - Always double- or triple-check that the Cursed Wheel toggles are set correctly. They have a tendency to flip back to a default setting when changing multiple toggles at the same time.  
+            - For bugs or broken flags you can wheel to Fresh Start in Abyss 1. However, this will rest your map data. 
+            - Wheeling-in-place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear. 
 
     === "Warning! Blind Runs" 
     
@@ -1162,7 +1167,8 @@
                 - If the body cannot be collected, then the request was not accepted at the Royal Capital Guild.
 
     === "2nd Body (Agnes)"
-    
+
+        - New! There is a workaround to skip the majority of the steps. See the next drop-down. It still works as of 4/26.  
         - The second half of the request involves searching Routes 3, 7, 9, and 10 for wax tablets ("tablets"). 
         - The tablets appear as shiny, white interactables on the map. A few of them require standing directly on their tile in order to see and/or collect them. 
 
@@ -1322,7 +1328,36 @@
                         - See "Best Ending (Bondmate)"
                     - Body was found but it was someone else
                         - Select any of the heads from the Bigfoot poo pile and return them to the Royal Capital Guild
-                            
+
+??? tip "New - 2nd Body (Agnes) Workaround"
+
+    === "Description"
+    
+        - It is possible to skip the tablet gaterhing and Big Foot boss fight for the 2nd Body (Agnes). 
+        - The 1st Body (William) must be completed normally and the toggle registered in the Cursed Wheel. 
+        - This is a bug and may be patched in the future. As of 4/26 it still works. 
+    
+    === "Steps" 
+    
+        - Reset the request for the 2nd Body (Agnes). Double-check the request is active. 
+        - When you zone in on R9 head straight to the end of the Big Foot Cave on R10. 
+        - Reverse the Stonefolk. Type in "Noah". The request is now completed. 
+        - Exit back to town. 
+        - Head to the Royal Capital to submit the request. William will run off. 
+        - Return to the end of the Big Foot Cave and speak with William for the Bondmate ending. You will be automatically teleported outside the cave. 
+        - Rinse and repeat if Bondmate farming. 
+
+    === "Bondmate Farming" 
+
+        - If your team is strong enough it is more time efficient to -not- reverse the shortcut in the middle of R10. 
+        - If the Frozen status is making it difficult to progress through the Big Foot Cave, then use the hotsprings in advance and open the shortcut. Note that the Null Shadow will appear in that area. 
+        - We have yet to find a way to keep the shortcut open each time you reset. 
+
+    === "Contact"
+
+        - Ping @Lightbearer on the Discord if you run into any issues or if this no longer works with a future patch. 
+        - A Discord member has discovered an additional "workaround" that we are currently verifying that could further speed up the bondmate farming process for the other 2 factions. 
+
 #### Admiral Route
 
 ??? note "Search Bernard and Young Laurent"
