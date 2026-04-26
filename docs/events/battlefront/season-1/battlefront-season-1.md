@@ -1046,7 +1046,9 @@
         - Backline: Mage Adventurer 3x
 
     === "Tips"
-        - Not clear yet
+        - Sand Apparitions may cast sandstorm which will do extremely high amounts of damage that cannot be dodged. Cortu may help a little bit here with survivability. Otherwise, they don't do much if they use any other skill. They cannot be chilled.
+        - The Vampires can be frozen immediately, but have somewhat higher HP than previously encountered evasive enemies, so it's recommended to Poised them after being frozen. ESS lvl 1 may not be enough in some cases.
+        - The mages should be taken care of ASAP as they are quite annoying as usual.
 
 === "Round 19"
 
@@ -1058,7 +1060,9 @@
         - Backline: Snow Wolf 4x
 
     === "Tips"
-        - Not clear yet
+        - The normal snow wolves will summon other wolves and buff the entire team with ACC,EVA, and ATK up. This basically makes them nearly unevadable unless you have an extremely evasive frontline.
+        - A common strategy is to use a Knight, preferably a Dark element one with magical beast resistance gear, and Line Cover/All-Around Cover for your front row. This way you can abuse openings and quickly thin out the wolves. It's recommended to kill the Snow Wolf Leader ASAP as it's much more of a threat than the other wolves.
+        - All the wolves including the leader are somewhat vulnerable to sleep. The leader is a bit more resistant, but KATINO can typically sleep several in a row.
 
 === "Round 20"
 
@@ -1070,7 +1074,7 @@
         - Backline: Greater Demon 2x
 
     === "Tips"
-        - Not clear yet
+        - One of the easiest fights. All the enemies here can be fully evaded with 180 EVA + MASOLOTU LVL 1 + DILTO LVL 1. You just need to MONTINO both Greater Demons and then dissipate the ACC buff whenever the Golems buff themselves. It's recommended to take out the Attack Golem first, then the rest in whatever order.
 
 ## Drecom Game Updates
 
