@@ -217,22 +217,22 @@
     - Pre-requisites
         - MC has been promoted to Copper Grade. 
     - Must step foot into Route 6 and then exit. 
-    - To save time you will want to Cursed Wheel to a node where all of the blizzard zones are still active. 
-    - A few of the blizzard zones do not appear to work properly for the bondmate. Whether this is a bug or intentional is not known.
+    - Make sure all blizzard zones are active. 
+    - The Bondmate ending has specific requirements. See the Bondmate tab.
 
 ??? note "Request Guide"
 
     === "Walkthrough"
 
         - Talk to Vigo, accept the request, and go to Route 5.
-        - Each blizzard zone has an area you can check to find the best spot to dry his fish. 
-        - The prompt generally shows up upon entering a blizzard zone and you will be given a brief description. The conditions are randomized on every run. You can decline and re-accept any location. 
+        - Each blizzard zone can be used as a location for Vigo to dry his fish.  
+        - Once you enter a blizzard zone a message will appear that describes its current condition. The conditions are randomized each run. You can decline and re-accept any location. 
         - Conditions: 
             - "The air here feels dry to you" 
             - "You can feel a brisk breeze, gusts rippling your clothing" 
             - "There is a slight dampness in the air here"
-        - The bondmate ending requires 1) an active blizzard zone and 2) a location with "The air here feels dry to you." The zones directly beneath the Harken and the Fountain work 100% of the time. During testing the other locations have given inconsistent results or may be bugged. 
-        - Upon selecting a spot, you will be forced into 3 back-to-back fights. You may leave at any time, but your reward will be impacted. 
+            - Note: Conditions only matter for the Bondmate ending. See tab for details.
+        - After selecting a spot, you will be forced into 3 back-to-back fights. You may leave at any time, but your reward will be impacted. 
         - If you cannot complete the fights while frozen, then you can reverse the blizzard zone before confirming the location. This does lock you out of the bondmate ending. 
         - Once all 3 battles are completed, you will be teleported back to the Tavern to watch a brief cutscene and receive your reward. 
 
@@ -266,9 +266,10 @@
 
         === "Conditions" 
 
-            - The location must have "The air here feels dry to you."
-            - All 3 fights must be completed in an active blizzard zone.
-            - Only 2 confirmed locations that work 100% of the time. See map tab. 
+            - Blizzard zone: Must be active 
+            - Condition: "The air here feels dry to you"
+            - Location: The blizzard zones directly beneath the Harken and the Fountain area. See Locations tab.
+            - This works 100% of the time as long as -all- of the above conditions are met. During testing the other locations have given inconsistent results or may be bugged. 
             - Upon completion, you will get the "Exquisite Jewel Trout" (HP) bondmate and Ultimate Ice-Wind Trout consumable item. 
 
         === "Locations" 
