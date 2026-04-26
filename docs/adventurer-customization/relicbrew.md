@@ -340,17 +340,17 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Bony Knight's Armored Bones                | Def Up, Accuracy Down                | Evil        | Skeleton Knight        | Bony Knight Rootcrystal                 | 4048              |
 | Dissolving Ooze's Defensive Core           | Def Up, Evasion Down                 | Good        | Slime                  | Dissolving Ooze Rootcrystal             | 4049              |
 | Man Eating Box's Sturdy Jaw                | All Elemental Res Up, Eva Down       | Neutral     | Mimic                  | Man-Eating Box Spiritcoral              | 4050              |
-| Carrion Beetle's Carapace                  | Earth Res Up, Mp Down                | Good        | Abyssal Insect         | Carrion Beetle Spiritcoral              | 4051              |
+| Carrion Beetle's Carapace                  | Earth Res Up, MP Down                | Good        | Abyssal Insect         | Carrion Beetle Spiritcoral              | 4051              |
 | Plunderer's Deft Hand                      | Surety Up, Magic Down                | Evil        | Bandit                 | Plunderer Bloodwood                     | 4052              |
 | Noxfume's Shelled Lungs                    | Air Res Up, Disarm Trap Down         | Evil        | Cloud                  | Noxfume Spiritcoral                     | 4053              |
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           | Dancing Blade Bloodwood                 | 4054              |
 | Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady          | Venommaiden Bloodwood                   | 4055              |
-| Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Bloodwood         | 4056              |
+| Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Res Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Bloodwood         | 4056              |
 | Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          | Hellfire Warlord Cursefruit             | 4057              |
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Bloodwood            | 4058              |
 | Hexdoll's Fleeing Step                     | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       | Hexdoll Gleamblight                     | 4059              |
 | Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          | Restless Currency Gleambright           | 4060              |
-| Merfolk's Scaleskin                        | Water Resist Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Spiritcoral                     | 4061              |
+| Merfolk's Scaleskin                        | Water Res Up, Divine Power Down   | Good        | Sahuagin               | Merfolk Spiritcoral                     | 4061              |
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer        | Merfolk Bowman Bloodwood                | 4062              |
 | Merfolk Spellcaster's Spirit Flow          | Magic Up, Res Down                   | Neutral     | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4063              |
 | Reptilian's Pupils                         | Accuracy Up, Air Res Down            | Good        | Lizardman              | Reptilian Bloodwood                     | 4064              |
@@ -369,11 +369,11 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleambright                 | 4077              |
 | Shadowhoof Cavalier's Ghostsoul            | Magic Up, Dark Res Up, Divine Down   | Evil        | Necrocore              | Shadowhoof Cavalier Cursefruit          | 4078              |
 | Dead-Minder's Spirit Essence               | MP Up, Def Down                      | Evil        | Wight                  | Dead-Minder Cursefruit                  | 4079              |
-| Bone Colossus's Hardened Bones             | Def Up, Mp Down                      | Neutral     | Skeleton Giant         | Bone Colossus Rootcrystal               | 4080              |
+| Bone Colossus's Hardened Bones             | Def Up, MP Down                      | Neutral     | Skeleton Giant         | Bone Colossus Rootcrystal               | 4080              |
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Gleambright                      | 4081              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Cursefruit                   | 4082              |
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Rootcrystal           | 4083              |
-| Composite Beast's Mighty Arm               | Attack Up, Water Resist Down         | Good        | Chimera                | Composite Beast Bloodwood               | 4084              |
+| Composite Beast's Mighty Arm               | Attack Up, Water Res Down         | Good        | Chimera                | Composite Beast Bloodwood               | 4084              |
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4085              |
 | Wind-Cutting Fowl's Wingfeathers           | Critical Tol Up, Evade Trap Down     | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4086              |
 | Abyssal Blossom High Blood                 | MP Up, SP Up, ASPD Down              | Neutral     | Relicbrew Shop         | Flower of the Abyss                     | 4088              |
