@@ -457,6 +457,14 @@
 
 === "Heavy Warblade of Honor" 
 
+    === "Basics" 
+
+        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (Accuracy, Surety, SP) outside Devourer of Ruin, Gillion's gacha weapon.  
+        - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
+        - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. 
+        - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
+        - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
+
     === "Stats" 
 
         === "+0 (Base)"
@@ -485,14 +493,6 @@
     === "Traits" 
 
         ![](./img/hwoh/hwoh-traits.png)
-
-    === "Review" 
-
-        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (Accuracy, Surety, SP) outside Devourer of Ruin, Gillion's gacha weapon.  
-        - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
-        - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. 
-        - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
-        - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
 
 #### Other 
 
