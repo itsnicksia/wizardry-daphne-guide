@@ -375,21 +375,13 @@
 
 ### Arena Rewards
 
-- Arena rewards are only obtainable by completing Missions.  
-- Not all rewards can be obtained by Free 2 Play players.  
+- Complete Missions.  
+- Not all rewards can be obtained by F2P players.  
 
 
 #### Notable Items
 
 === "Heavy Warblade of Honor" 
-
-    === "Basics" 
-
-        - Overall, a useful weapon if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (Accuracy, Surety, SP) outside Devourer of Ruin, Gillion's gacha weapon.  
-        - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
-        - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. 
-        - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
-        - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
 
     === "Stats" 
 
@@ -419,6 +411,14 @@
     === "Traits" 
 
         ![](./img/hwoh/hwoh-traits.png)
+
+    === "Review" 
+
+        - Overall, a useful Ebon-tier 2H Sword if you are still progressing in A3 or below. For A4 players it can reach 240 ATK at +10 with Composite Reinforcement and it has the best inherent stats (Accuracy, Surety, SP) outside Devourer of Ruin, Gillion's gacha weapon.  
+        - Drecom has decided to lock the remaining 18 unification material behind the paid pass, which is where the ATK "boost" comes from at +16. 
+        - It gives +6 Accuracy and +10 SUR at +15, which is effectively an additional Blessing slot. However, at +20 it jumps to +18 Accuracy and +22 SUR, which might make it attractive for some end game players. Note that the STR-modifier for Ebon-tier is 2.0x versus 2.1x for Silver-tier.  
+        - The extra +6 SP is nice, but like all weapons with "Passive SP Up" it does not scale with enhancement. 
+        - The extra damage against Undead enemies is marginally helpful, but the most dangerous enemies especially in the Elite and Hero Leagues are other races. 
 
 
 === "Doppel Quicksilver" 
@@ -462,64 +462,66 @@
 
 #### Rewards List 
 
-=== "Summary"  
+- Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
+- Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline) experience. 
 
-    - Without the paid pass you will only receive enough unification material (x9) to take the Heavy Warblade of Honor to +15. 
-    - Since the Hero League is effectively impossible to clear it means most players will only receive 3x Doppel Quicksilvers or 75 Mastery (Discipline) experience. 
+=== "F2P Rewards"  
 
-    *Free to play rewards:*  
-    
     - 3x Doppel Quicksilver (4x if you can clear Hero)  
-    - up to +15 Hero Warblade of Honor  
-    - Gold: 660,000gp  
+    - Heavy Warblade of Honor (HWoH), Unique 2H Sword
+    - 9x HWoH Unification Material, up to +15  
+    - Gold: 660,000  
     - Gems: 200 Gems of Org  
-    - Bones: Gandolfo, 2 Adv. Remains I, 2 Adv. Remains II  
-    - Ore: 30 Low, 30 Mid, 30 High, 5 Fine, 3 Silver  
-    - XP Books: 64 Maneuver Tomes (36,480xp each)  
-    - Skill Items: ZELOS, MAZELOS, ESS, 1x Codex of Learning (25xp)  
-    - Guild Tags: 6 Ungraded Tags  
-    - Stones: 2 Lesser Full Alteration Stones  
+    - Bones: Gandolfo, 2 Adventurer Remains I, 2 Adventurer Remains II  
+    - Ore: 30x Low, 30x Mid, 30x High, 5x Fine, 3x Silver  
+    - EXP Books: 64x Maneuver Tomes (36,480 EXP each)  
+    - Skill Scrolls: Zelos, Mazelos, Earth-Splitting Strike, 1x Codex of Learning (25 EXP)  
+    - Guild Tags: 6x Ungraded Tags  
+    - Alteration Stones: 2x Lesser Full Alteration Stones  
+    
+=== "Mission Pass Additional Rewards"    
 
-    *Mission Pass Additional Rewards:*    
-<!--    
-    - 2x Doppel Quicksilver  
-    - Up to +20 Hero Warblade of Honor  
-    - Gold: 220,000gp  
-    - Gems: 2,900 Gems of Org  
-    - Bones: 2 Adv. Remains , 2 Adv. Remains II  
-    - Ore:  15  Mid, 15 High, 5 Fine, 3 Silver  
-    - XP Books: 5 Maneuver Tomes (36,480xp each)  
-    - Guild Tags: 7 Ungraded Tags  
-    - Stones: 1 LFAS , 1 FAS   
--->
     ![](./img/mission-pass.png)  
+
+    <!--    
+        - 2x Doppel Quicksilver  
+        - Up to +20 Hero Warblade of Honor  
+        - Gold: 220,000gp  
+        - Gems: 2,900 Gems of Org  
+        - Bones: 2 Adv. Remains , 2 Adv. Remains II  
+        - Ore:  15  Mid, 15 High, 5 Fine, 3 Silver  
+        - XP Books: 5 Maneuver Tomes (36,480xp each)  
+        - Guild Tags: 7 Ungraded Tags  
+        - Stones: 1 LFAS , 1 FAS   
+    -->
 
 === "F2P Reward Milestones"  
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | &emsp; Total Points Required &emsp; &emsp; &emsp; &emsp;                      | Milestone Reward | 
-    |:--------------------------:|-------------------------------------|
-    | 100                        | Savage Warrior Remains (Gandolfo)   |  
-    | 200                        | Heavy Warblade of Honor (HWoH)      | 
-    | 1,000                      | Zelos Skill Scroll                  |  
-    | 1,600                      | 100x Gems of Org                    | 
-    | 1,700                      | 1x HWoH Unification Material        |  
-    | 2,500                      | 1x HWoH Unification Material        |  
-    | 3,100                      | 1x Adventurer Remains I             |   
-    | 3,200                      | 3x HWoH Unification Material        |  
-    | 3,800                      | Mazelos Skill Scroll                |  
-    | 4,000                      | Full Power Strike Skill Scroll      |  
-    | 4,600                      | 1x Adventurer Remains II            |  
-    | 4,700                      | 3x HWH Unification Material         |  
-    | 5,300                      | 1x Codex of Learning                |  
-    | 5,400                      | 1x Silver Ore                       |  
-    | 5,500                      | 1x Lesser Full Alteration Stone     |  
-    | 5,600                      | 1x Adventurer Remains I             |  
-    | 6,000                      | 1x Adventurer Remains II            |  
-    | 6,100                      | Earth-Splitting Strike Skill Scroll |  
-    | 6,400                      | 2x Silver Ore                       |  
-    | 6,500                      | 1x Lesser Full Alteration Stone     |  
+    | &emsp; Total Points Required &emsp; &emsp; &emsp; &emsp;                      | F2P Reward | Mission Pass Reward | 
+    |:--------------------------:|-------------------------------------|---------------------------------|
+    | 100                        | Savage Warrior Remains (Gandolfo)   | 100x Gems of Org                |
+    | 200                        | Heavy Warblade of Honor (HWoH)      | 50x Gems of Org                 |
+    | 1,000                      | Zelos Skill Scroll                  | 100x Gems of Org                |
+    | 1,500                      | 1x Ungraded Guild Tag               | 1x Doppel Quicksilver           |
+    | 1,600                      | 100x Gems of Org                    | 100x Gems of Org                |
+    | 1,700                      | 1x HWoH Unification Material        | 50x Gems of Org                 |
+    | 2,500                      | 1x HWoH Unification Material        | 100x Gems of Org                |
+    | 3,100                      | 1x Adventurer Remains I             | 1x Adventurer Remains I         |
+    | 3,200                      | 3x HWoH Unification Material        | 9x HWoH Unification Material    |
+    | 3,800                      | Mazelos Skill Scroll                | 100x Gems of Org                |   
+    | 4,000                      | Full Power Strike Skill Scroll      | 2x Ungraded Guild Tag           |
+    | 4,600                      | 1x Adventurer Remains II            | 1x Adventurer Remains II        |
+    | 4,700                      | 3x HWH Unification Material         | 9x HWH Unification Material     |
+    | 5,300                      | 1x Codex of Learning                | 200x Gems of Org                |
+    | 5,400                      | 1x Silver Ore                       | 1x Silver Ore                   |
+    | 5,500                      | 1x Lesser Full Alteration Stone     | 1x Lesser Full Alteration Stone |
+    | 5,600                      | 1x Adventurer Remains I             | 1x Adventurer Remains I         |
+    | 6,000                      | 1x Adventurer Remains I             | 1x Adventurer Remains I         | 
+    | 6,100                      | Earth-Splitting Strike Skill Scroll | 1x Ungraded Guild Tag           |
+    | 6,400                      | 2x Silver Ore                       | 2x Silver Ore                   |
+    | 6,500                      | 1x Lesser Full Alteration Stone     | 1x Full Alteration Stone        | 
 
     </div>
 
