@@ -630,24 +630,16 @@
 
 ??? note "Admiral Ending Guides" 
 
-    ??? warning "1/8 Patch Changes"
-    
-        - The 1/8 patch has added witch burning scenes like in the Pontiff route, which are trigged when exiting the Witch's Cave or resting at the Inn 
-        - It is no longer possible to enter the Witch's Cave without first speaking with Cleric Ludwin and agreeing to help 
-        - Verified that the number of offerings still lead to the outcomes listed in the ending guides
-        - The number of witch burning scenes witnessed do not seem to affect any of the endings, rewards, or dialogue
-
     ??? warning "Requirements"
 
         - Total of 3 confirmed endings 
-            - Possible another ending exists that has yet to be identified (as of 1/27)
-            - When selecting either "Capture a witch" or "Threaten" on a first run you will always get the Best ending (Elencia Alive) since you have to collect all 5 brazier offerings
-    
+        
         - Endings 
     
             - Bad - Prepare Sedative 
             - Good - Elencia Dead (Pick Infant (Lamb) on subsequent runs)
             - Best - Elencia Alive (Pick Broom on subsequent runs)
+            - Note: When selecting either "Capture a witch" or "Threaten" on a first run you will always get the Best ending (Elencia Alive) since you have to collect all 5 brazier offerings
             
         - Rewards
         
