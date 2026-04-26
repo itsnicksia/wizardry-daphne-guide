@@ -476,7 +476,7 @@
     - Bones: Gandolfo, 2 Adv. Remains I, 2 Adv. Remains II  
     - Ore: 30 Low, 30 Mid, 30 High, 5 Fine, 3 Silver  
     - XP Books: 64 Maneuver Tomes (36,480xp each)  
-    - Skill Items: ZELOS, MAZELOS, ESS, 1 25xp Codex  
+    - Skill Items: ZELOS, MAZELOS, ESS, 1x Codex of Learning (25xp)  
     - Guild Tags: 6 Ungraded Tags  
     - Stones: 2 Lesser Full Alteration Stones  
 
