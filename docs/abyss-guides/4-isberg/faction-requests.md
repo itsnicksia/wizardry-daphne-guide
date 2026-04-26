@@ -18,13 +18,24 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
     === "Faction Affinity"
     
-        - Supporting a faction in a previous Abyss influences certain outcomes 
-        - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
-        - Max faction affinity is mandatory for the Best endings, Guiding Light (Luck), unique Calm Wind gear, and extra junk rewards
-        - The only exception is for the Calm Wind Crest (Princess - Mystic - Bad) where you do -not- want max faction affinity 
+        - Supporting a faction in a previous Abyss influences certain outcomes. It requires selecting that faction in the Cursed Wheel for Abyss 2 and 3.
+        - Max faction affinity -is- required for:
+            - Each of the Faction 1 Best endings for the Luck Guiding Light. 
+            - Calm Wind equipment rewarded on Pontiff 1 and Admiral 1. 
+            - Extra junk rewards.
+        - Max faction affinity is -not- required for: 
+            - Anything related to Faction 2 including Bondmates and the unique gear rewards.
+            - The Calm Wind Crest for Faction 1, Princess - Mystic - Bad, otherwise you will be automatically routed to the Aegon Route (Best Ending). 
         - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
     
-            !!! note "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
+            !!! note "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending." 
+
+    === "Luck Guiding Light" 
+
+        - Complete the Best ending for all 3 factions. 
+        - Max faction affinity is required.
+        - The Guiding Light will dissolve if it has already been received. 
+        - Note: The unlock condition had serious bugs during the first 2 months of A4, but seems to be fixed now. If you run into any issues you can send Drecom an Inquiry. 
     
     === "Endings" 
 
@@ -41,7 +52,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
             - Admiral: 3
             - Total: 10 
 
-    === "How to Reset Request" 
+    === "How to Reset Faction 1 Requests" 
     
         - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
         - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
@@ -49,41 +60,11 @@ The faction requests are unlocked after entering Route 4 for the first time. The
     === "Reset Notes"
     
         - When resetting the request you have to fully jump to Deepsnow Hinterlands Entrance, go back to the Ruins, and then jump again to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you simply wheel-in-place. 
-        - The 1st faction request is technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
-    
-??? tip "Guiding Light"
+        - The Faction 1 requests are technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. It is in your best interest to reach one of those two floors if you plan to do all of the endings before progressing with the main story. 
 
-    === "Unlock Condition" 
+    === "Contact"
 
-        - As of 1/27 it seems as if the previous bugs have been fixed. 
-        - The unlock condition is to get the Best ending for all 3 factions. 
-        - Max affinity is required.
-        - The Guiding Light will dissolve if it has already been received. 
-
-    === "Bug Archive"
-    
-        This tab will be kept for the next month in case bugs appear again in the future. 
-        
-        What is going on?
-                
-        - The main issue is Discord members have reported wildly inconsistent unlocking conditions. 
-        - As of 1/3/26 we have confirmed that there is only 1 Guiding Light (Luck) tied to the 1st faction requests. 
-        - The problem is that for some members it only unlocks _after_ clearing the 3rd or 4th GWO fight. For others it's been unlocked on their first run before the GWO is ever encountered. 
-        - Clearing the 4th GWO fight has been giving a Guiding Light (Luck) consistently, so that does not appear to be bugged.  
-        - Until this is addressed all we can do is list the conditions that have been reported as "working". These might not work for you. 
-        - It is also possible that this was shadow-patched at some point and is driving the inconsistencies between the older and newer reports. I have no idea.  
-        - Remember to double-check that "max faction affinity" is set-up in your Cursed Wheel before you begin as it is a requirement. 
-                
-        Potential Unlock Conditions  
-                
-        - Any Best ending
-        - All 3 Best endings (Note: This is likely the the intended condition)
-        - Clear the 4th GWO fight + do each Best Ending until it appears
-        - The Gamerch editors think that is achievement-based with a mix of Good and Best endings
-
-    === "Contact" 
-    
-        - Please DM or ping @lightbearer on the Discord if you encounter any bugs or issues moving forward. 
+        - Any feedback, issues, or steps that need clarification contact @Lightbearer on the Discord. 
 
 ??? note "The Witch's Cave"
 
