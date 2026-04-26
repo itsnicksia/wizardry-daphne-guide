@@ -481,7 +481,7 @@
     - Stones: 2 Lesser Full Alteration Stones  
 
     *Mission Pass Additional Rewards:*    
-    
+<!--    
     - 2x Doppel Quicksilver  
     - Up to +20 Hero Warblade of Honor  
     - Gold: 220,000gp  
@@ -491,7 +491,7 @@
     - XP Books: 5 Maneuver Tomes (36,480xp each)  
     - Guild Tags: 7 Ungraded Tags  
     - Stones: 1 LFAS , 1 FAS   
-
+-->
     ![](./img/mission-pass.png)  
 
 === "Milestone Rewards"  
