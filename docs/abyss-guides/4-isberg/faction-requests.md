@@ -1333,17 +1333,16 @@
 
     === "Description"
     
-        - It is possible to skip the tablet gaterhing and Big Foot boss fight for the 2nd Body (Agnes). 
+        - It is possible to skip the tablet gathering and Big Foot boss fight for the 2nd Body (Agnes). 
         - The 1st Body (William) must be completed normally and the toggle registered in the Cursed Wheel. 
         - This is a bug and may be patched in the future. As of 4/26 it still works. 
     
     === "Steps" 
     
-        - Reset the request for the 2nd Body (Agnes). Double-check the request is active. 
-        - When you zone in on R9 head straight to the end of the Big Foot Cave on R10. 
+        - Reset the request for the 2nd Body (Agnes). 
+        - When you zone in on R9 head straight to the end of the Big Foot Cave on R10. Remember to double-check the request is active. 
         - Reverse the Stonefolk. Type in "Noah". The request is now completed. 
-        - Exit back to town. 
-        - Head to the Royal Capital to submit the request. William will run off. 
+        - Exit back to town. Head to the Royal Capital to submit the request. William will run off. 
         - Return to the end of the Big Foot Cave and speak with William for the Bondmate ending. You will be automatically teleported outside the cave. 
         - Rinse and repeat if Bondmate farming. 
 
