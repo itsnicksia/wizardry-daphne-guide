@@ -7,14 +7,14 @@
 
 #### Overview 
 
-The faction requests are unlocked after entering Route 4 for the first time. The objectives of each faction are slightly different, but they all focus on stopping the witch burnings in Elden Hill Village and identifying the underlying cause. 
-
-- Upon returning to Isberg a messenger will ask you to return to Royal Capital Luknalia.
-- Go to the Guild, Arna will ask if you want to meet with the faction representative, accept, and you will be taken to their location to watch a short cutscene. If this does not happen, then select the "Talk" option in the Guild menu. 
-- If you decline, then to accept the request in the future select "Talk" in the Guild.
-- All of the faction requests take place in Elden Hill Village and share the same map (The Witch's Cave).  
-
 !!! warning "Important Notes"
+
+    === "How to Unlock" 
+    
+        - The faction requests are unlocked after entering Route 4 for the first time. Upon returning to Isberg a messenger will ask you to return to the Royal Capital.
+        - Go to the Guild, Arna will ask if you want to meet with the faction representative, accept, and you will be taken to their location to watch a short cutscene. If this does not happen, then select the "Talk" option in the Guild menu. 
+        - If you decline, then to accept the request in the future select "Talk" in the Guild.
+        - All of the faction requests take place in Elden Hill Village and share the same map (The Witch's Cave).  
 
     === "Faction Affinity"
     
@@ -890,19 +890,11 @@ The faction requests are unlocked after entering Route 4 for the first time. The
 
 ## Short Rest in the Cabin
 
+!!! warning "You cannot complete both parts of any Faction 2 request until you have cleared GWO 4-3."
+
 ### Search for the Missing Persons (2nd Faction Request)
 
-!!! warning "You cannot complete both parts of this request until you have cleared GWO 4-3. It is not worth the time or energy to do it any earlier."
-
 #### Overview 
-
-The faction requests are unlocked after entering Route 9 for the first time. The objective is to search for traces of two missing people and to discover why the faction called upon you, the Masked Adventurer, instead of employing their own members. 
-
-Upon entering the Royal Capital, the faction representative will appear to discuss the missing persons. 
-
-- Agree to help twice when prompted.
-- Head to the Guild and accept the request under the Royal Capital tab. 
-- If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset.
 
 !!! warning "Important Notes - Read Me"
 
@@ -911,6 +903,15 @@ Upon entering the Royal Capital, the faction representative will appear to discu
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear GWO 4-3)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
 
+    === "How to Unlock" 
+
+        - The Faction 2 requests are unlocked after entering Route 9 for the first time.
+        - The objective is to search for traces of 2 missing people. The guide is structured around finding each of the bodies (1st Body, 2nd Body).  
+        - Upon entering the Royal Capital, the faction representative will appear to discuss the missing persons. 
+            - Agree to help twice when prompted.
+            - Head to the Guild and accept the request under the Royal Capital tab. 
+            - If you decline at any point the faction representative will not appear again and the Cursed Wheel must be reset.
+        
     === "Cursed Wheel Settings - First Run and Resets" 
 
         === "First Run"
