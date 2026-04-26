@@ -957,7 +957,7 @@
 
     === "Warning! Blind Runs" 
     
-        - Strongly recommend NOT doing a blind run. 
+        - Strongly recommend -not- doing a blind run. 
         - The majority of the second part of the request is searching for interactable objects (white shiny stars) on 4-5 floors. They are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tiles.  
         - When A4 launched it tooks several hours across multiple people to find all of them. Save your sanity.
 
