@@ -375,8 +375,8 @@
 
 ### Arena Rewards
 
-Arena rewards are only obtainable by completing Missions.  
-Not all rewards can be obtained by Free 2 Play players.  
+- Arena rewards are only obtainable by completing Missions.  
+- Not all rewards can be obtained by Free 2 Play players.  
 
 
 #### Notable Items
