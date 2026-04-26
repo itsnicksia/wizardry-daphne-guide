@@ -494,7 +494,7 @@
 -->
     ![](./img/mission-pass.png)  
 
-=== "Milestone Rewards"  
+=== "F2P Reward Milestones"  
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
