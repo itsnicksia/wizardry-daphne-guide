@@ -876,7 +876,7 @@
         - 1,380 Bounty Medals
         - 21 Bounty Markers
         - Appears at Bounty Rank 14
-        - Requires clearing GWO 4-3
+        - Requires clearing GWO 4-2 although some people did not have it appear until defeating 4-3
 
     === "Fight Details"
         - HP: ~80k
