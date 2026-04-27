@@ -520,7 +520,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | &emsp; Total Points Required &emsp; &emsp; &emsp; &emsp;                      | F2P Reward | Mission Pass Reward | 
+    | Total Points Required &emsp; &emsp; &emsp;                      | F2P Reward | Mission Pass Reward | 
     |:--------------------------:|-------------------------------------|---------------------------------|
     | 100                        | Savage Warrior Remains (Gandolfo)   | 100x Gems of Org                |
     | 200                        | Heavy Warblade of Honor (HWoH)      | 50x Gems of Org                 |
@@ -550,7 +550,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
  
-    | Total Points Required | F2P Reward                            | Mission Pass Reward                  |
+    | Total Points Required  &emsp; &emsp; &emsp; | F2P Reward                            | Mission Pass Reward                  |
     |:---------------------:| ------------------------------------- | ------------------------------------ |
     | 100                   | Savage Warrior Remains (Gandolfo)     | 100x Gems of Org                     |
     | 200                   | Heavy Warblade of Honor (HWoH)        | 50x Gems of Org                      |
