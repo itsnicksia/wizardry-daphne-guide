@@ -382,30 +382,28 @@
 
 === "Heavy Warblade of Honor" 
 
-    === "Stats" 
+    === "+0 (Base)"
 
-        === "+0 (Base)"
+        ![](./img/hwoh/hwoh-base.png){ width="550" }
 
-            ![](./img/hwoh/hwoh-base.png){ width="550" }
+        - The weapon will always roll ATK and ACC on the first and second line, respectively. 
+        - The value is RNG, but can range from +5-7. 
 
-            - The weapon will always roll ATK and ACC on the first and second line, respectively. 
-            - The value is RNG, but can range from +5-7. 
+    === "+5"
 
-        === "+5"
+        ![](./img/hwoh/hwoh-5.png){ width="550" }
 
-            ![](./img/hwoh/hwoh-5.png){ width="550" }
+    === "+10"
 
-        === "+10"
+        ![](./img/hwoh/hwoh-10.png){ width="550" }
 
-            ![](./img/hwoh/hwoh-10.png){ width="550" }
+    === "+15"
 
-        === "+15"
+        ![](./img/hwoh/hwoh-15.png){ width="550" }
 
-            ![](./img/hwoh/hwoh-15.png){ width="550" }
+    === "+20"
 
-        === "+20"
-
-            ![](./img/hwoh/hwoh-20.png){ width="550" }
+        ![](./img/hwoh/hwoh-20.png){ width="550" }
 
     === "Traits" 
 
