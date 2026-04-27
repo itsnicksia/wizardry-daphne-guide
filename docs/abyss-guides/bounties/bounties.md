@@ -835,7 +835,9 @@
         - 13 Bounty Markers 
         - Appears at Bounty Rank 11
         - Available slightly after Rockhome Village Major Harken and interacting with Nullshadow for the first time
+        - Does -not- require A3 Mastermind Ending
 
+        
     === "Fight Details"
         - HP: 38.5k
         - Spawns with 2 Ice Entities in the same row.
@@ -874,6 +876,7 @@
         - 1,380 Bounty Medals
         - 21 Bounty Markers
         - Appears at Bounty Rank 14
+        - Requires clearing GWO 4-3
 
     === "Fight Details"
         - HP: ~80k
@@ -895,6 +898,7 @@
         - 1,550 Bounty Medals
         - 23 Bounty Markers
         - Appears at Bounty Rank 14
+        - Requires clearing GWO 4-4
 
     === "Fight Details"
         - HP: ~50k (each)
