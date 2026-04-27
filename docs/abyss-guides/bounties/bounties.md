@@ -783,7 +783,7 @@
         - 17,000 Gold Reward
         - 800 Bounty Medals; 1,200 if Captured
         - Appears at Bounty Rank 11
-        - Requires A3 True Ending
+        - Requires A3 Mastermind Ending
 
     === "Fight Details"
         - HP: 15-16K (~8.5k Right Necrocore; ~9.5k Left Necrocore)
@@ -834,7 +834,7 @@
         - 950 Bounty Medals
         - 13 Bounty Markers 
         - Appears at Bounty Rank 11
-        - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
+        - Available slightly after Rockhome Village Major Harken and interacting with Nullshadow for the first time
 
     === "Fight Details"
         - HP: 38.5k
