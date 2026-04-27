@@ -469,7 +469,26 @@
     - Rewards are given automatically after the achievement has been submitted as complete. 
 
 === "F2P Rewards"  
+ 
 
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    | Category                            | Description                                                                    | 
+    |:------------------------------------|--------------------------------------------------------------------------------|
+    | Doppel Quicksilver                  | 4x (The 4th is locked behind clearing Hero League)                             |  
+    | Heavy Warblade of Honor (HwOH) &emsp; &emsp;  &emsp;      | 1x Ebonsteel, 2H Sword with unique traits                |
+    | HWoH Unification Material           | 9x (Enhance up to +15.                                                         |
+    | Gold                                | 600,000                                                                        |
+    | Gems of Org                         | 200                                                                            |
+    | Bones                               | 1x Gandolfo, 2x Adventurer Remains I, 2x Adventurer Remains II                 |
+    | Iron Ore                            | 30x Low, 30x Mid, 30x High, 5x Fine, 3x Silver                                 |
+    | Skill Scrolls                       | 1x Zelos, 1x Mazelos, 1x Earth-Splitting Strike, 1x Codex of Learning (25 EXP) |
+    | Guild Tags                          | 6x Ungraded Tags                                                               |
+    | Alteration Stones                   | 2x Lesser Full Alteration Stones                                               |
+    
+    </div>
+
+    <!--    
     - 3x Doppel Quicksilver (4x if you can clear Hero)  
     - Heavy Warblade of Honor (HWoH), Unique 2H Sword
     - 9x HWoH Unification Material, up to +15  
@@ -481,7 +500,8 @@
     - Skill Scrolls: Zelos, Mazelos, Earth-Splitting Strike, 1x Codex of Learning (25 EXP)  
     - Guild Tags: 6x Ungraded Tags  
     - Alteration Stones: 2x Lesser Full Alteration Stones  
-    
+    -->
+
 === "Mission Pass Additional Rewards"    
 
     ![](./img/mission-pass.png)  
