@@ -542,7 +542,7 @@
     | 5,500                      | 1x Lesser Full Alteration Stone     | 1x Lesser Full Alteration Stone |
     | 5,600                      | 1x Adventurer Remains I             | 1x Adventurer Remains I         |
     | 6,000                      | 1x Adventurer Remains I             | 1x Adventurer Remains I         | 
-    | 6,100                      | Earth-Splitting Strike Skill Scroll | 1x Ungraded Guild Tag           |
+    | 6,100                      | Earth-Splitting Strike Skill Scroll &emsp;  &emsp;  | 1x Ungraded Guild Tag           |
     | 6,400                      | 2x Silver Ore                       | 2x Silver Ore                   |
     | 6,500                      | 1x Lesser Full Alteration Stone     | 1x Full Alteration Stone        | 
 
@@ -556,7 +556,7 @@
     |:---------------------:| ------------------------------------- | ------------------------------------ |
     | 100                   | Savage Warrior Remains (Gandolfo)     | 100x Gems of Org                     |
     | 200                   | Heavy Warblade of Honor (HWoH)        | 50x Gems of Org                      |
-    | 300                   | 2x Clock Time of Maneuver (36,480xp)  | 50x Gems of Org                      |
+    | 300                   | 2x Clock Time of Maneuver (36,480xp) &emsp;  &emsp;  | 50x Gems of Org                      |
     | 400                   | 25,000gp                              | 100x Gems of Org                     |
     | 500                   | 10x Low Grade Ore                     | 50x Gems of Org                      |
     | 600                   | 2x Clock Time of Maneuver (36,480xp)  | 50x Gems of Org                      |
