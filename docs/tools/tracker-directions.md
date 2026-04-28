@@ -7,14 +7,29 @@
 
 ### Basics
 
-- Each Abyss has a small number of map chests and Guild request rewards that can respawn. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
-- The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does not use a universal cooldown timer that resets items on the first of the month or a specific day of the week. 
-    
-### Respawn Intervals 
+=== "What is it?" 
 
-- Most items respawn monthly [30 days]. They have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
-- Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
-- We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
+    - Each Abyss has a small number of map chests and Guild request rewards that can respawn after a certain amount of real-world time has passed. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
+    - The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does -not- use a universal cooldown timer that resets items on the first of the month or on a specific day of the week. 
+    
+=== "Respawn Intervals" 
+
+    - Most items respawn monthly [30 days]. They have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
+    - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
+    - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
+
+=== "Abbreviations" 
+
+    | Term | Abbreviation | 
+    |:-|:-|
+    | The Beginning Abyss    | A1 |   
+    | Port Town Grand Legion | A2 |     
+    | Impregnable Fortress   | A3 |     
+    | Deepsnow Hinterlands   | A4 |   
+    | Adventurer's Remains   | Bones |     
+    | Cooldown               | cd    |     
+    | Cursed Wheel           | CW    |   
+    | Greater Warped One     | GWO   |     
 
 ### Forced Respawning 
 
@@ -24,19 +39,7 @@
         - The game does not consistently respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
         - The "Fresh Start" CW node serves as a univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs. 
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
-
-    === "Abbreviations" 
     
-        | Term | Abbreviation | 
-        |:-|:-|
-        | The Beginning Abyss    | A1 |   
-        | Port Town Grand Legion | A2 |     
-        | Impregnable Fortress   | A3 |     
-        | Deepsnow Hinterlands   | A4 |   
-        | Adventurer's Remains   | Bones |     
-        | Cooldown               | cd    |     
-        | Cursed Wheel           | CW    |   
-        | Greater Warped One     | GWO   |     
     
     === "Troubleshooting"
     
