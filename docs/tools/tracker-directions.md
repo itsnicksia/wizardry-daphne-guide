@@ -125,9 +125,6 @@
 
     === "Cursed Wheel Settings" 
 
-        === "A2" 
-            - Coming soon.
-
         === "A3" 
             - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
             - Corrosion Sentry Toggles
@@ -147,7 +144,7 @@
 
 ## Other
 
-??? warning "Cooldown Formula" 
+=== "Cooldown Formula" 
 
     - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations. 
     - Minimum Number of Days
@@ -161,16 +158,16 @@
         - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
         - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.   
 
-??? note "Fixed Cooldown Items" 
+=== "Fixed Cooldown Items" 
 
     - A1, Floor 8: Nourishing Draught x3 - Every 24 hours. A great resource for new players to build a stock early on for challenging floors and bosses. 
     - Bone Picker Bone and Tallow: Every 7 days. It operates on a similar cd timer as the Ancient Mausoleum Tallow whose cd timer is visible.
-    - Enemy Chest Bone: Every 7 days. The drop will overwrite whatever was previously going to be in the chest, including relics and unique gear.
+    - Enemy Chest Bone: Every 7 days. The drop will overwrite unique gear drops. This may have been recently patched. Under investigation. 
 
 ### Contact
 
 - For respawning items you have discovered that are not listed on the Respawn Tracker page please contact @nrjank on the Discord.
-- For questions, comments, or corrections to this page please contact @lightbearer on the Discord.
+- For questions, comments, or corrections to this page please contact @Lightbearer on the Discord.
 - Discord link [here](https://discord.gg/y7HZRvxD). 
  
 
