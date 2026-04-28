@@ -230,16 +230,15 @@
     - You can repeat this for every battle. There appear to be no negative consequences.  
 
 === "Adept League" 
+    - Information pending.
 
-    - <em>Information pending.</em>  
 
 === "Elite League" 
-
-    - <em>Information pending.</em>  
+    - Information pending. 
     
 === "Hero League" 
 
-    - Assistance appears unavailable. After fleeing from battle, the Lurking Crow tells you, "This battle is yours and yours alone to suffer through."  
+    - Assistance appears to be unavailable. After fleeing from a battle and speaking with the Lurking Crow he will say, "This battle is yours and yours alone to suffer through."  
     - Unclear if there is any way to get additional Hero League assistance, or if this will be adjusted during the season.  
     
 ## Hero's Sigil: Dark
