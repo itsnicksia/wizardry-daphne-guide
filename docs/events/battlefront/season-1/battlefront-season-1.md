@@ -135,7 +135,7 @@
     - Each special buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues as the lower Leagues can be cleared with just about any team composition. 
     - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../../adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
     
-=== "Special Buffs" 
+=== "Modifiers" 
 
     === "Table" 
 
@@ -160,7 +160,7 @@
 
         - If you click on a character during battle you can see what buffs and debuffs are currently active.
 
-    === "Buff Indicator"
+    === "Battle Indicator"
     
         <div align="center">
         ![](./img/battlefront-rules-flames.png)
@@ -190,9 +190,8 @@
 
     - If you are struggling there is a hidden set of Battlefront Rules. They are only available for the first 3 Leagues.  
     - In the waiting room there is an old man, the Lurking Crow, who will normally ignore you. If you flee a battle and then speak with him he will offer his assistance. 
-    - For a fee he will offer an additional set of Battlefront Rules that will buff your team and debuff the enemy for the upcoming round. 
-    - The assistance is only offered on a per round basis. The steps above must be repeated each time. 
-    - See the next tab for details. 
+    - For a fee he will offer an additional set of Battlefront Rules that will buff your team and debuff the enemy for the upcoming round. The assistance is only offered on a per round basis. The steps above must be repeated each time. 
+    - See next tab for details. 
 
 === "Crow's Battlefront Rules" 
 
@@ -207,7 +206,7 @@
         - Goes into effect once the battle starts. 
         - It can be repeated for each round, but you must flee and repeat the process. 
         - There does not appear to be any negative consequences or limit to the number of times it can be used. (Under Investigation).  
-        - Stacks with the standard Battlefront Rules. (Under Investigation). 
+        - Appears to stack with the standard Battlefront Rules. (Under Investigation). 
 
     === "Crow Compendium"
 
@@ -227,7 +226,6 @@
     - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
     - Talk Crow and select "I want to win". Pay the 2,000 Gold fee. 
     - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
-    - The buffs appear to stack with the normal Arena buffs.  
     - After winning the battle, the crow resets to ignoring you again.  
     - You can repeat this for every battle. There appear to be no negative consequences.  
 
