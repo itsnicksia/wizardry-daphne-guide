@@ -184,24 +184,36 @@
 
 ### Lurking Crow Assistance  
 
-!!! warning "Under investigation.  Behavior varies by League.  
+!!! warning "Under investigation.  Behavior varies by League."  
 
 === "Basics"
 
     - If you are struggling there is a hidden set of Battlefront Rules. They are only available for the first 3 Leagues.  
     - In the waiting room there is an old man, the Lurking Crow, who will normally ignore you. If you flee a battle and then speak with him he will offer his assistance. 
-    - For a fee he will buff your team and debuff the enemy for the upcoming round. 
-    - Crow's Battlefront Rules
-        - Dark-Type Ally Stats Up  
-        - Ally Two-Handed Sword Damage Up  
-        - Human Ally Attack and Magic Power Up  
-        - Enemy Max HP Down  
-        - Enemy Damage Dealt Down  
-    - Mechanics
+    - For a fee he will offer an additional set of Battlefront Rules that will buff your team and debuff the enemy for the upcoming round. 
+    - The assistance is only offered on a per round basis. The steps above must be repeated each time. 
+    - See the next tab for details. 
+
+=== "Crow's Battlefront Rules" 
+
+    === "List"
+
+        <div align="center">
+        ![](./img/lurking-crow-battlefront-rules.png)
+        </div>
+
+    === "Mechanics" 
+
         - Goes into effect once the battle starts. 
         - It can be repeated for each round, but you must flee and repeat the process. 
-        - There does not appear to be any negative consequences. 
-        - Stacks with the standard Battlefront Rules.
+        - There does not appear to be any negative consequences or limit to the number of times it can be used. (Under Investigation).  
+        - Stacks with the standard Battlefront Rules. (Under Investigation). 
+
+    === "Crow Compendium"
+
+        <div align="center">
+        ![](./img/lurking-crow-compendium.png)
+        </div>
 
 === "Under Investigation"
 
@@ -219,8 +231,7 @@
 === "Aspirant League"
 
     - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
-    - When you talk to the Crow and say "I want to win", he will offer to add additional arena buffs/debuffs to the next battle for a price:  
-    - Price: 2,000gp  
+    - Talk Crow and select "I want to win". Pay the 2,000 Gold fee. 
     - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
     - The buffs appear to stack with the normal Arena buffs.  
     - After winning the battle, the crow resets to ignoring you again.  
