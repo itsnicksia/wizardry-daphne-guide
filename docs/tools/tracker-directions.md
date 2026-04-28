@@ -195,9 +195,25 @@
 
 === "Fixed Cooldown Items" 
 
-    - A1, Floor 8: Nourishing Draught x3 - Every 24 hours. A great resource for new players to build a stock early on for challenging floors and bosses. 
-    - Bone Picker Bone and Tallow: Every 7 days. It operates on a similar cd timer as the Ancient Mausoleum Tallow whose cd timer is visible.
-    - Enemy Chest Bone: Every 7 days. The drop will overwrite unique gear drops. This may have been recently patched. Under investigation. 
+    === "Nourishing Draught x3"
+        - 2 Locations:
+            - A1, Floor 8. (X:19, Y:12).
+            - A3, Zone 2. (X:4, Y:15) 
+        - The A1 chest is every 24 hours. The A3 chest can take 24-36 hours.  
+        - The A1 location is a great resource for new players to build a stock early on for challenging floors and bosses. 
+
+    === "Bone Picker" 
+        - Every 7 Days. 
+        - Sells 1x Bone and 1x Tallow. You have to encounter him twice per week for both items.  
+        - Costs Gold to purchase. Price increases based on Abyss progression. 
+        - Can appear on any floor in an Abyss. Will never appear in side dungeon. 
+        - Spamming the A2 Pier (Floor 7) is a fast way to get him to appear.  
+        - Operates on a similar cd timer as the Ancient Mausoleum Tallow whose cd timer is visible.
+
+    === "Enemy Chest Bone" 
+        - Every 7 days. 
+        - Can come from -any- enemy chest drop, including super bosses. 
+        - It it appears it can overwrite unique gear drops. This may have been recently patched. Under investigation. 
 
 ### Contact
 
