@@ -20,16 +20,20 @@
 
 === "Abbreviations" 
 
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
     | Term | Abbreviation | 
     |:-|:-|
     | The Beginning Abyss    | A1 |   
-    | Port Town Grand Legion | A2 |     
+    | Port Town Grand Legion &emsp; &emsp; &emsp;| A2 |     
     | Impregnable Fortress   | A3 |     
     | Deepsnow Hinterlands   | A4 |   
     | Adventurer's Remains   | Bones |     
     | Cooldown               | cd    |     
     | Cursed Wheel           | CW    |   
     | Greater Warped One     | GWO   |     
+
+    </div>
 
 ### Forced Respawning 
 
