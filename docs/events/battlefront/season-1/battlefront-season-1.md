@@ -202,7 +202,6 @@
     - You can repeat this for every battle. There appear to be no negative consequences.  
 - Adept League: <em>information pending.</em>  
 - Elite League: <em>information pending.</em>  
-- Adept League: <em>information pending.</em>  
 - Hero League:
     - Assistance appears unavailable. After fleeing from battle, the Lurking Crow tells you: "This battle is yours and yours alone to suffer through."  
     - Unclear if there is any way to get additional Hero League assistance, or if this will be adjusted during the season.  
