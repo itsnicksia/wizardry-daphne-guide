@@ -9,7 +9,7 @@
 
 === "What is it?" 
 
-    - Each Abyss has a small number of map chests and Guild request rewards that can respawn after a certain amount of real-world time has passed. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
+    - Each Abyss has a small number of map chests and Guild request rewards that can respawn after a certain amount of real-world time has passed. The game uses a hidden cooldown timer. When it reaches zero ("cd = 0") the item will respawn and can be collected again.
     - The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does -not- use a universal cooldown timer that resets items on the first of the month or on a specific day of the week. 
     
 === "Respawn Intervals" 
@@ -75,8 +75,7 @@
             - CW twice on "King's Arrival" or the final node of your most recently cleared Abyss. 
             - You can also Harken to Floor 8 and reverse the two closest stones.  
         - Catacombs 
-            - The Catacombs is bugged. 
-            - The monthly bone chest will not appear on your mini-map. You have to traverse the entire floor, do the candle puzzle, and check to see if it respawned. 
+            - The Catacombs bugged appears to be fixed and the chests in the locked room should now show on the mini-map when you enter. 
 
 ??? note "Map Chests - A2 Only"
 
@@ -104,7 +103,31 @@
             - If nothing you are doing is working, then you can CW to A1 and "Leap" to "Awakening". 
             - You will have to go through the entire tutorial area again, which can take 10 to 15 minutes. 
 
-??? note "Important Requests"
+??? note "A4 Berry Bone"
+
+    === "Requirements"
+
+        - Shortcut knowledge from R7. Requires clearing GWO 4-1. 
+        - Stonefolk reversal power. Requies clearing GWO 4-2 and doing the first part of Iris's personal request. 
+
+    === "Guide" 
+
+        - Go to the Ruins and select the CW.
+        - Use the arrows at the top of the screen to toggle left to A1. 
+        - Select "Fresh Start" and then "Leap".
+        - Fastest dialogue options are "No problem" and "Do nothing".
+        - Returns to the Ruins, use the arrows at the top of the screen to toggle right to A4. 
+        - Select "Minor Harken Beyond the Blizzard" and then "Leap". 
+        - You will zone in at the Route 5 Harken. Go right and enter Route 6. 
+        - Immediately head to the right and go through the shortcut. 
+        - Head north and reverse the blizzard zones along the way. The Null Shadow will appear. Exit the blizzard zone to despawn him. 
+        - Speak with Iris and accept the berry collection request. 
+        - Warning! If you collect any berries on your way to the berry patch the bone will not spawn.
+        - Go back the way you came and reverse the Stonefolk blocking the berry patch. 
+        - Interact with all 5 berry patches. The last one will trigger a chest with the monthly bone. 
+        - Return to the Route 5 Harken to exit. 
+        
+??? note "Important Requests - Faction Rewards"
 
     === "Guide" 
         - These steps are for the Important Request faction rewards for defeating a GWO. 
