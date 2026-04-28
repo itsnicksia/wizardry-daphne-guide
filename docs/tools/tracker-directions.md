@@ -1,6 +1,4 @@
-!!! warning "Work In Progress"
-    - This is a new page and under review. Important information may change or be revised. 
-    - Contains spoilers for the later Abysses. 
+!!! warning "Work In Progress". 
     - Ctrl + F5 to refresh the page for new updates.
 
 ## Overview 
@@ -179,7 +177,7 @@
 
 ## Other
 
-=== "Cooldown Formula" 
+??? note "Cooldown Formula" 
 
     - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations. 
     - Minimum Number of Days
@@ -193,7 +191,7 @@
         - It is not uncommon for chests to respawn immediately after a maintenance update. This has become less frequent over time.
         - We suspect that it is because the maintenance updates forces all (or some) cooldown timers to zero ("0") in order for the new code, bug fixes, etc. to work properly.   
 
-=== "Fixed Cooldown Items" 
+??? note "Fixed Cooldown Items" 
 
     === "Nourishing Draught x3"
         - 2 Locations:
