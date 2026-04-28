@@ -175,12 +175,12 @@
 
 === "Dark + Human Units" 
 
-    - Gandolfo
-    - Gerard 
-    - Gillion
-    - Kiriha 
-    - Linaria 
-    - See the [Adventurer Quicklist](../../../../adventurers/adventurer-quicklist/) for a list of all Human units. 
+    - [Gandolfo](../../../adventurers/general-adventurers/details/Gandolfo.md)
+    - [Gerard](../../../adventurers/legendary-adventurers/details/Gerard.md) 
+    - [Gillion](../../../adventurers/legendary-adventurers/details/Gillion.md)
+    - [Kiriha](../../../adventurers/general-adventurers/details/Kiriha.md) 
+    - [Linaria](../../../adventurers/legendary-adventurers/details/Linaria.md) 
+    - See the [Adventurer Quicklist](../../../../adventurers/adventurer-quicklist/) for a list of all Human or Dark units. 
 
 ### Lurking Crow Assistance  
 
@@ -528,7 +528,6 @@
     - Rewards are given automatically after the achievement has been submitted as complete. 
 
 === "F2P Rewards"  
- 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
@@ -1255,7 +1254,7 @@
     === "Tips"
         - One of the easiest fights. All the enemies here can be fully evaded with 180 EVA + MASOLOTU LVL 1 + DILTO LVL 1. You just need to MONTINO both Greater Demons and then dissipate the ACC buff whenever the Golems buff themselves. It's recommended to take out the Attack Golem first, then the rest in whatever order.
 
-## Drecom Game Updates
+## Game Updates
 
 ### April 16
 
