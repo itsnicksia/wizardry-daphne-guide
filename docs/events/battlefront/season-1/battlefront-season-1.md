@@ -221,25 +221,27 @@
     - Whether there is a cap on the number of times it can be used on the Adept and Elite Leagues. 
     - Whether it is available on the Hero League under certain circumstances. 
 
-=== "Aspirant League"
+=== "League Guides" 
 
-    - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
-    - Talk Crow and select "I want to win". Pay the 2,000 Gold fee. 
-    - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
-    - After winning the battle, the crow resets to ignoring you again.  
-    - You can repeat this for every battle. There appear to be no negative consequences.  
-
-=== "Adept League" 
-    - Information pending.
-
-
-=== "Elite League" 
-    - Information pending. 
+    === "Aspirant"
     
-=== "Hero League" 
-
-    - Assistance appears to be unavailable. After fleeing from a battle and speaking with the Lurking Crow he will say, "This battle is yours and yours alone to suffer through."  
-    - Unclear if there is any way to get additional Hero League assistance, or if this will be adjusted during the season.  
+        - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
+        - Talk Crow and select "I want to win". Pay the 2,000 Gold fee. 
+        - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
+        - After winning the battle, the crow resets to ignoring you again.  
+        - You can repeat this for every battle. There appear to be no negative consequences.  
+    
+    === "Adept" 
+        - Information pending.
+    
+    
+    === "Elite" 
+        - Information pending. 
+        
+    === "Hero" 
+    
+        - Assistance appears to be unavailable. After fleeing from a battle and speaking with the Lurking Crow he will say, "This battle is yours and yours alone to suffer through."  
+        - Unclear if there is any way to get additional Hero League assistance, or if this will be adjusted during the season.  
     
 ## Hero's Sigil: Dark
 
