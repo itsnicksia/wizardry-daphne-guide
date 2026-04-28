@@ -184,29 +184,61 @@
 
 ### Lurking Crow Assistance  
 
-- Note: Specific details are still being explored.  Behavior varies by League.  
-- In the room with the arena entrance is an old man, the Lurking Crow, who will normally ignore you.  He will only interact with you after you have fled from an arena battle in shame.  
-- Aspirant League:  
-    - If you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
-    - When you talk to the Crow and say "I want to win", he will offer to add additional arena buffs/debuffs to the next battle for a price:  
-    - Price: 2,000gp  
-    - Additional buffs/debuffs:  
+!!! warning "Under investigation.  Behavior varies by League.  
+
+=== "Basics"
+
+    - If you are struggling there is a hidden set of Battlefront Rules. They are only available for the first 3 Leagues.  
+    - In the waiting room there is an old man, the Lurking Crow, who will normally ignore you. If you flee a battle and then speak with him he will offer his assistance. 
+    - For a fee he will buff your team and debuff the enemy for the upcoming round. 
+    - Crow's Battlefront Rules
         - Dark-Type Ally Stats Up  
         - Ally Two-Handed Sword Damage Up  
-        - Human Ally Attack/Magic Power Up  
+        - Human Ally Attack and Magic Power Up  
         - Enemy Max HP Down  
         - Enemy Damage Dealt Down  
+    - Mechanics
+        - Goes into effect once the battle starts. 
+        - It can be repeated for each round, but you must flee and repeat the process. 
+        - There does not appear to be any negative consequences. 
+        - Stacks with the standard Battlefront Rules.
+
+=== "Under Investigation"
+
+    - The fee cost per League. 
+    - The buff and debuff modifiers (1.x) and whether they scale per League like the standard Battlefront Rules. 
+    - Whether there is a cap on the number of times it can be used on the Adept and Elite Leagues. 
+    - Whether it is available on the Hero League under certain circumstances. 
+
+=== "Crow's Battlefront Rules"
+
+        <div align="center">
+        ![](./img/lurking-crow-battlefront-rules.png)
+        </div>
+
+=== "Aspirant League"
+
+    - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
+    - When you talk to the Crow and say "I want to win", he will offer to add additional arena buffs/debuffs to the next battle for a price:  
+    - Price: 2,000gp  
     - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
     - The buffs appear to stack with the normal Arena buffs.  
     - After winning the battle, the crow resets to ignoring you again.  
     - You can repeat this for every battle. There appear to be no negative consequences.  
-- Adept League: <em>information pending.</em>  
-- Elite League: <em>information pending.</em>  
-- Hero League:
-    - Assistance appears unavailable. After fleeing from battle, the Lurking Crow tells you: "This battle is yours and yours alone to suffer through."  
+
+=== "Adept League" 
+
+    - <em>Information pending.</em>  
+
+=== "Elite League" 
+
+    - <em>Information pending.</em>  
+    
+=== "Hero League" 
+
+    - Assistance appears unavailable. After fleeing from battle, the Lurking Crow tells you, "This battle is yours and yours alone to suffer through."  
     - Unclear if there is any way to get additional Hero League assistance, or if this will be adjusted during the season.  
-
-
+    
 ## Hero's Sigil: Dark
 
 === "Basics" 
