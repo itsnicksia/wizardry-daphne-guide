@@ -44,7 +44,6 @@
         - The "Fresh Start" CW node serves as a univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs. 
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
     
-    
     === "Troubleshooting"
     
         If items are not respawning it is likely due to one of the following: 
@@ -52,7 +51,7 @@
         - The cooldown timer has not yet reached zero ("0"). 
             - If you are not using the Respawn Tracker tool or recording the dates and times in Excel, Notepad, etc. then it is likely you may be overestimating the amount of time that has passed. 
             - Wait a few more days and try again. 
-        - The steps in the Respawning Guides need to be completed exactly as written.
+        - Do the steps in the Respawning Guides exactly as written.
         - A recent maintenance update has reset the cooldown timers or disabled them. 
         - Your game is bugged and you may want to consider sending an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom so it can be investigated. This would be in an extreme situation where an item has not respawned after 30 to 60 days. 
     
@@ -130,6 +129,12 @@
         - Go back the way you came and reverse the Stonefolk blocking the berry patch. 
         - Interact with all 5 berry patches. The last one will trigger a chest with the monthly bone. 
         - Return to the Route 5 Harken to exit. 
+
+    === "Potential Bug"
+
+        - Several Discord member have reported this bone not appearing even after 30 days have passed. 
+        - Leaping to "Awakening" versus "Fresh Start" can sometimes fix stubborn or broken flags. 
+        - If you continue to have problems we encourage you to send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom so a staff member can investigate your account. 
         
 ??? note "Important Requests - Faction Rewards"
 
@@ -138,14 +143,14 @@
         - Go to the Ruins and select the CW.
         - Use the arrows at the top of the screen to toggle left or right to your desired Abyss.
         - Go to the second node and toggle ("Client") your desired faction. 
-        - Do NOT Leap at this point. 
+        - Do -not- Leap at this point. 
         - Scroll down to the second-to-last node.
             - A2 - Arena Round 5
             - A3 - Fortress 3rd Floor Arrival
             - A4 - Truth of the Beautiful Ore     
         - "Leap" to this node.
         - Go through the required steps to reach and defeat the GWO, which may require some Abyss traversal. 
-        - The ending sequence cannot be skipped or speed up.
+        - The ending sequence cannot be skipped or sped up.
 
     === "Ending Requirements"
         - A2 you will receive the Important Request reward killing Melgina or Octoranus. 
