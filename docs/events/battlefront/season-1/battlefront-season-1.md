@@ -660,7 +660,10 @@
 
     === "Enemy Formation"
         - Frontline: Air Cloud 2x, Skeleton 1x
-        - Backline: Goblin Mage 2x
+        - Backline: Goblin Mage 2x  
+        
+    === "Tips"
+        - The easiest fight to set up high damage attacks to clear all single-hit damage missions, even for lower level players. The Goblin Mages are susceptible to MONTINO and KATINO. So MONTINO them to start, clear the front line, take whatever time you need to stack all the buffs/debuffs you have, KATINO them for double damage, and take your biggest swing.  If you low roll, miss Surety, etc, just reset and try again.  If you're patient you can even clear the total damage and weekly missions just spamming this fight with max damage tactics.
 
 === "Round 2"
 
