@@ -25,7 +25,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,Dagger!A140,Dagger,184,Beast Killer,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Magical Beast-Slayer"
 146,Dagger!A146,Dagger,183,Seafoam Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Water Type"
 152,Dagger!A152,Dagger,182,Earthrend Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Earth Type"
-158,Dagger!A158,Dagger,185,Cyclops Fang Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Evasion Damage, VERIFY WEAPON CATEGORY"
+158,Dagger!A158,Dagger,185,Cyclops Fang Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,124,0,0,0,0,-5,0,9,2,0,,,,,,,,,,,"Nimble Strike, Evasion Damage"
 164,Dagger!A164,Dagger,Ex.,Sword Stealer,Silver,2,,,64,0,0,0,0,8,10,4,8,0,,,,,,,,,,,,,,,,,,,,,117,0,0,0,0,8,14,4,8,0,,,,,,,,,,,"Nimble Strike (Major), Passive Dexterity Up"
 170,Dagger!A170,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 176,Dagger!A176,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
