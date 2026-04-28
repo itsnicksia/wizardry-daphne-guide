@@ -222,12 +222,6 @@
     - Whether there is a cap on the number of times it can be used on the Adept and Elite Leagues. 
     - Whether it is available on the Hero League under certain circumstances. 
 
-=== "Crow's Battlefront Rules"
-
-        <div align="center">
-        ![](./img/lurking-crow-battlefront-rules.png)
-        </div>
-
 === "Aspirant League"
 
     - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
