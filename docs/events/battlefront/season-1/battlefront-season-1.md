@@ -182,6 +182,32 @@
     - Linaria 
     - See the [Adventurer Quicklist](../../../../adventurers/adventurer-quicklist/) for a list of all Human units. 
 
+### Lurking Crow Assistance  
+
+- Note: Specific details are still being explored.  Behavior varies by League.  
+- In the room with the arena entrance is an old man, the Lurking Crow, who will normally ignore you.  He will only interact with you after you have fled from an arena battle in shame.  
+- Aspirant League:  
+    - If you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
+    - When you talk to the Crow and say "I want to win", he will offer to add additional arena buffs/debuffs to the next battle for a price:  
+    - Price: 2,000gp  
+    - Additional buffs/debuffs:  
+        - Dark-Type Ally Stats Up  
+        - Ally Two-Handed Sword Damage Up  
+        - Human Ally Attack/Magic Power Up  
+        - Enemy Max HP Down  
+        - Enemy Damage Dealt Down  
+    - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
+    - The buffs appear to stack with the normal Arena buffs.  
+    - After winning the battle, the crow resets to ignoring you again.  
+    - You can repeat this for every battle. There appear to be no negative consequences.  
+- Adept League: <em>information pending.</em>  
+- Elite League: <em>information pending.</em>  
+- Adept League: <em>information pending.</em>  
+- Hero League:
+    - Assistance appears unavailable. After fleeing from battle, the Lurking Crow tells you: "This battle is yours and yours alone to suffer through."  
+    - Unclear if there is any way to get additional Hero League assistance, or if this will be adjusted during the season.  
+
+
 ## Hero's Sigil: Dark
 
 === "Basics" 
