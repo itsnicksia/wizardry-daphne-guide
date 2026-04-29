@@ -1,8 +1,8 @@
-### Overview
-
 !!! warning "Updates"
     - We are current investigating the impact of the 4/28 patch.
     - An alternative, potentially faster method for the Flaming-Heart is now posted.
+
+### Overview
 
 === "What is a Stat Bondmate?" 
 
