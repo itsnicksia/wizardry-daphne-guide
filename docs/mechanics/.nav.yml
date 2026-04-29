@@ -4,7 +4,7 @@ nav:
   - Merging: './merging.md'
   - Damage Mechanics: './damage-mechanics.md'
   - Skill Levels: 
-    - Passives: './passives-table.md' 
+    - Passives: './passive-skills.md' 
   - Map Variations: './map-variations.md'
   - Trust: 
     - Guide: './trust/trust.md'
