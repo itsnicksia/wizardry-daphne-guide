@@ -170,13 +170,14 @@
 === "Example: LV0"
 
     - Detect: 50
-    - Treasure Trap Detect Level: 0 (no passive) 
+    - Treasure Trap Detection Level: 0 (no passive) 
     - Find Trap = (50 x 1.0) + 0 = 50
     - Detect = Find Trap with no passive levels in the skill.
 
 === "Example: L5" 
 
-    - MC has 50 Detect and LV5 in Treasure Trap Detect.
+    - Detect: 50 
+    - Treasure Trap Detection Level: 5
     - Find Trap = (50 x 1.14) + 46 = 103
     - With L5 in the passives the MC's Find Trap is twice as large as his base Detect value.
 
