@@ -547,35 +547,11 @@
     
     </div>
 
-    <!--    
-    - 3x Doppel Quicksilver (4x if you can clear Hero)  
-    - Heavy Warblade of Honor (HWoH), Unique 2H Sword
-    - 9x HWoH Unification Material, up to +15  
-    - Gold: 660,000  
-    - Gems: 200 Gems of Org  
-    - Bones: Gandolfo, 2 Adventurer Remains I, 2 Adventurer Remains II  
-    - Ore: 30x Low, 30x Mid, 30x High, 5x Fine, 3x Silver  
-    - EXP Books: 64x Maneuver Tomes (36,480 EXP each)  
-    - Skill Scrolls: Zelos, Mazelos, Earth-Splitting Strike, 1x Codex of Learning (25 EXP)  
-    - Guild Tags: 6x Ungraded Tags  
-    - Alteration Stones: 2x Lesser Full Alteration Stones  
-    -->
 
 === "Mission Pass Additional Rewards"    
 
     ![](./img/mission-pass.png)  
 
-    <!--    
-        - 2x Doppel Quicksilver  
-        - Up to +20 Hero Warblade of Honor  
-        - Gold: 220,000gp  
-        - Gems: 2,900 Gems of Org  
-        - Bones: 2 Adv. Remains , 2 Adv. Remains II  
-        - Ore:  15  Mid, 15 High, 5 Fine, 3 Silver  
-        - XP Books: 5 Maneuver Tomes (36,480xp each)  
-        - Guild Tags: 7 Ungraded Tags  
-        - Stones: 1 LFAS , 1 FAS   
-    -->
 
 === "F2P Reward Milestones"  
 
