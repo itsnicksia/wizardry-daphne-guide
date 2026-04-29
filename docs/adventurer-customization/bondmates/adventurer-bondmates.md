@@ -1,5 +1,9 @@
 ### Overview
 
+!!! warning "Updates"
+    - We are current investigating the impact of the 4/28 patch.
+    - An alternative, potentially faster method for the Flaming-Heart is now posted.
+
 === "What is a Stat Bondmate?" 
 
     - <span style="color: LimeGreen">All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status</span>.
@@ -44,20 +48,23 @@
             - And so on
         - The trait bonus range is due to rounding and will vary by unit
 
-!!! warning "Flaming-Heart Requirements" 
+### Flaming-Heart Requirements
 
-    === "Conditions"
+!!! warning "Summary" 
+
+    === "Requirements"
     
-        - Promoted to Bronze Grade
+        1) Promoted to Bronze Grade
             - The Bronze Grade exam is offered at Level 30. 
             - Each stat bondmate costs 3 tags; 1x for Lead and 2x for Bronze.
             - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 stat bondmate. 
             - <span style="color: #F2473A">Lead Grade at Level 30 will -not- work</span>.
-        - Defeat any two Greater Warped Ones (GWOs) - easiest are Helmut and either Melgina or Octoranus.
+        2) Defeat any two Greater Warped Ones (GWOs). 
+            - The easiest GWOs are Helmut and either Melgina or Octoranus.
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip. Melgina is safer for low HP units.
             - The unit does not need to survive the fight, but it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing a GWO more than once does -not- give you extra trust</span>.
-        - Trust farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
+        3) Trust farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
     
     === "Troubleshooting" 
     
@@ -87,6 +94,31 @@
         ![](img/bondmate-list-example.PNG)
         </div>
 
+??? warning "New! Flaming-Heart Alternative Method" 
+
+    === "Requirements" 
+    
+        1) Promoted to Bronze Grade.  
+        2) Defeat the first 3 GWOs.
+            - A1: Helmut
+            - A2: Melgina or Octoranus
+            - A3: Gatekeeper
+
+    === "Additional Information"
+
+        Context: 
+        
+        - This was shared in late April by Discord member @Genosis. It is currently undergoing additional testing. 
+        - Historically, defeating 3 GWOs did not trigger the flaming-heart on Nameless, General, or Legendary units. We suspect at some point in the past a patch altered the trust gain from defeating a GWO. 
+
+        Technical Notes: 
+        
+        - The flaming-heart is instant after killing the third GWO (kill order does not matter) for both Nameless and General units. Genosis tested this with a Good MC and Evil bondmate candidates. 
+        - MC and team alignment does not seem to matter. Genosis tested with a Good MC and Evil bondmate candidates. 
+        - Bondmate death during the Gatekeeper battle did not have an impact, but we suggest you try to keep your units alive if possible. 
+        - With a strong team it takes ~15-20 minutes from the Zone 10 Fountain to the ending cutscene. If your trust farming via Camping is take longer than this, then we suggest trying out this method. 
+        - Legendary units have not been tested to-date.  
+        
 ### Efficient Trust Farming 
 
 - Trust farming is the last step. It is done after promoting to Bronze Grade and defeating both GWOs if the stat bondmate did not receive the flaming-heart.
