@@ -54,17 +54,17 @@
 
     === "Requirements"
     
-        1) Promoted to Bronze Grade
+        - Promoted to Bronze Grade
             - The Bronze Grade exam is offered at Level 30. 
             - Each stat bondmate costs 3 tags; 1x for Lead and 2x for Bronze.
             - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 stat bondmate. 
             - <span style="color: #F2473A">Lead Grade at Level 30 will -not- work</span>.
-        2) Defeat any two Greater Warped Ones (GWOs). 
+        - Defeat any two Greater Warped Ones (GWOs). 
             - The easiest GWOs are Helmut and either Melgina or Octoranus.
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip. Melgina is safer for low HP units.
             - The unit does not need to survive the fight, but it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing a GWO more than once does -not- give you extra trust</span>.
-        3) Trust farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
+        - Trust farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
     
     === "Troubleshooting" 
     
@@ -94,7 +94,7 @@
         ![](img/bondmate-list-example.PNG)
         </div>
 
-??? warning "New! Flaming-Heart Alternative Method" 
+??? warning "New! Flaming-Heart - No Trust Farming Method" 
 
     === "Requirements" 
     
@@ -109,7 +109,7 @@
         Context: 
         
         - This was shared in late April by Discord member @Genosis. It is currently undergoing additional testing. 
-        - Historically, defeating 3 GWOs did not trigger the flaming-heart on Nameless, General, or Legendary units. We suspect at some point in the past a patch altered the trust gain from defeating a GWO. 
+        - Historically, defeating 3 GWOs did not trigger the flaming-heart on Nameless, General, or Legendary units. We suspect at some point in the past a patch altered the one-time trust gain from defeating a GWO. 
 
         Technical Notes: 
         
