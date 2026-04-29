@@ -1,7 +1,7 @@
 !!! warning "Updates"
     - We are current investigating the impact of the 4/28 patch.
     - An alternative, potentially faster method for the Flaming-Heart is now posted.
-    - Ctrl + F5 to refresh page for updates.
+    - Ctrl + F5 to refresh page.
 
 ### Overview
 
