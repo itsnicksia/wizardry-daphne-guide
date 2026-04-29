@@ -99,8 +99,8 @@
 
     === "Requirements" 
     
-        1) Promoted to Bronze Grade.  
-        2) Defeat the first 3 GWOs.
+        - Promoted to Bronze Grade.  
+        - Defeat the first 3 GWOs.
             - A1: Helmut
             - A2: Melgina or Octoranus
             - A3: Gatekeeper
