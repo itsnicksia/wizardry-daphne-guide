@@ -53,11 +53,12 @@
     | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
     | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Disarm Trap Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Way of the Thief      |          | 2.0x  |  2.1x  | 2.2x   |   |   |   |   |
 
      </div>
+
+    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
 
 === "Priest"
 
@@ -136,9 +137,60 @@
 
 ## Chest Opening
 
-- Treasure Trap Detect
-- Treasure Trap Disarm
-- Forthcoming
+### Treasure Trap Detection
+
+=== "Skill Levels"
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    |                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
+    |:----------------|-------|-------|-------|-------|-------|-------|-------|
+    | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+    | Flat Bonus &emsp; &emsp; &emsp;    | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
+    
+     </div>
+
+=== "Basics"
+
+    - Find Trap: A derived stat (from Detect) used to identify whether a chest contains a trap. If a trap is present and detected, then it will trigger the trap disarm mini-game. If not, then the trap will go off, causing damage or inflicting status effects.  
+    - Detect: Listed on a unit's Stat page. It is the primary input in the Find Trap formula. The Treasure Trap Detect passive modifies the Detect value, which results in the Find Trap number that you see when you open a chest.    
+    - The Treasure Trap Detect passive at L1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
+    - Only the Thief class is able to reach L7. The maximum for other classes is L6. 
+
+=== "Formulas"
+
+    - Detect 
+        - Detect = (IQ x 0.70) + (Luck x 0.30)
+        - Each class has a different set of [modifiers](./traits-and-stats.md/#class-multiplier) for all of the primary Traits, including IQ and Luck. 
+        - The Detect value will change when a unit change's classes even if they are both at the same level. 
+    - Find Trap 
+        - Find Trap = (Detect x Multiplier) + Flat Bonus
+        - If the unit does not have the Treasure Trap Detect passive (L0), then the multiplier is 1.0 and Detect = Find Trap. 
+
+=== "Example: LV0"
+
+    - Detect: 50
+    - Treasure Trap Detect Level: 0 (no passive) 
+    - Find Trap = (50 x 1.0) + 0 = 50
+    - Detect = Find Trap with no passive levels in the skill.
+
+=== "Example: L5" 
+
+    - MC has 50 Detect and LV5 in Treasure Trap Detect.
+    - Find Trap = (50 x 1.14) + 46 = 103
+    - With L5 in the passives the MC's Find Trap is twice as large as his base Detect value.
+
+### Treasure Trap Disarm
+
+
+<div class="nofilter-table nosort-table equipment-table" markdown>
+
+|                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
+|:----------------|-------|-------|-------|-------|-------|-------|-------|
+| Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+| Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
+
+ </div>
 
 ### Legendary 
 
