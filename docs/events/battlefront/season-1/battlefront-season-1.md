@@ -1067,9 +1067,10 @@
 
     === "Enemy Formation"
         - Frontline: Skeleton Knight 2x, Skeleton Giant
-        - Backline: Skeleton Mage 2x, Skeleton Archer
+        - Backline: Skeleton Mage 2x, Skeleton Archer 2x
 
     === "Tips"
+        - Skeleton Mages have around 2.5k HP. Skeleton Archers have around 3k HP. Skeleton Knights have around 4.5k-5k HP Each. Skeleton Giant has around 10k HP.
         - Every enemy has extremely high accuracy, otherwise relatively low HP compared to most fights in this mode. They all have standard movesets, just very high physical damage.
         - MAREIN isnt suggested, it's better to BATILGREF the frontline and then focus on wiping the backline ASAP.
 
@@ -1083,6 +1084,10 @@
         - Backline: Ninja 2x, Necromancer 1x
 
     === "Tips"
+        - Ninjas have around 5k HP. Can be crit.
+        - Necromancer has 12.5k-15k HP. Tends to cast Mazelos for 400 damage to a row. Can also cast KANTIOS. Can be crit.
+        - Plague Crewman have around 30k HP. Basic attack can be evaded. Scurvy Breath does 100-200 damage to row. Can be crit.
+        - Cursed Sack Dolls have around 10k HP. Freeze instantly but not guaranteed application (high chance though). Sleep not guaranteed and will always wake up immediately on next turn.
         - The Cursed Sack Dolls guaranteed go first (even if u have 500 ASPD), and will typically either use Cursed Ritual to apply Curse to everyone or do a lot of damage. They are somewhat hard to evade.
         - Everything has a standard moveset, but main issue are the Cursed Sack Dolls. They are extremely fast and evasive, but can be taken care of instantly with MADALTO and ESS/Poised with a 2H Sword. Afterwards it's recommended to kill the Necromancer and Ninjas. You can also KATINO the Plague Crewman, as they are one of the few enemies that can sleep for multiple turns while you take care of the rest. Alternatively, BATILGREF works too.
 
@@ -1096,6 +1101,9 @@
         - Backline: Dark Slime 4x
 
     === "Tips"
+        - Lesser Demons have ~17.5k HP. Can basic attack or ZELOS for decent damage (400).
+        - Necrocore has ~28k HP. Can cast ZELOS or MAZELOS for decent damage (400).
+        - Dark Slimes have ~5k HP. Very low accuracy. Can be crit.
         - You can evade all of the enemies here with previously mentioned EVA build. They mainly just use physical attacks.
         - Ideally just BATILGREF both rows and kill them with basic attacks to replenish some SP with Debra's inherit skill if possible.
         - Focus the front row before killing the backrow.
@@ -1110,7 +1118,9 @@
         - Backline: Ninja 2x, Mage Adventurer 2x
 
     === "Tips"
-        - The Chimeras are extremely fast, accurate, and have very high surety chance. You essentially have to pray your damage reduction passives (WOTK, Sanctuary's Blessing, Wisdom of Truth, Eyes that Know the Future) will proc here or they can instantly kill. It's very recommended that your entire frontline has Magical Beast Resist gear.
+        - Ninjas have 5k HP. Mage Adventurers have 7k HP. Same as before.
+        - Chimeras have around 50k HP each. They are immune to KANTIOS. KATINO rarely lands.
+        - The Chimeras are extremely fast, accurate, and have very high surety chance. You essentially have to pray your damage reduction passives (WOTK, Sanctuary's Blessing, Wisdom of Truth, Eyes that Know the Future) will proc here or they can instantly kill. It's very recommended that your entire frontline has Magical Beast Resist gear. They also can be consistently evaded with 250 EVA + MASOLOTU + chill status. 350-400 EVA may also be enough alone.
         - Ideally just BATILGREF the Chimeras and defend with your frontline. Try to kill enemies with your backline. Focus on clearing the enemy backline first, particularly the mages so they don't keep debuffing you.
 
 === "Round 10"
@@ -1123,8 +1133,11 @@
         - Backline: Ninja 2x, Mage Adventurer 1x
 
     === "Tips"
-        - It's recommended to immediately BATILGREF the enemy frontline, then deal with the backline first as per usual
-        - The Minotaur has relatively high accuracy, and does very high damage so deal with it first. Very recommended to use Magical Beast Resist gear for your frontline.
+        - Ninjas have 5k HP. Mages have 7k HP. Same as before.
+        - Minotaur has around 54k HP. All of its attacks can effectively instantly kill everyone (1-1.2k damage without surety). Debris Hurl also effectively does 1k per hit. Can be Frozen in 2 DALTOS or 1 with Snow Oni Yoto Iarumas. However, not guaranteed to apply chill.
+        - Our Heirlooms has around 80k HP. Does very heavy damage with magic and physical moves (around 800 on everything). The Physical moves however can be easily evaded. Occasionally will cast full team charm or confuse.
+        - It's recommended to immediately freeze the Minotaur, as it can be frozen with 2 DALTOs. Freezing the Our Heirlooms is also very recommended after dealing with the backline. BATILGREF also helps delay them further.
+        - The Minotaur has relatively high accuracy, and does very high damage so deal with it first. Very recommended to use Magical Beast Resist gear for your frontline. Can be evaded consistently with enough evasion (e.g. 230 EVA + DILTO + Frozen OR 350+ EVA)
         - Our Heirlooms has a standard moveset and isn't that strong. Preferably do not use low fortitude units for this fight though.
 
 === "Round 11"
