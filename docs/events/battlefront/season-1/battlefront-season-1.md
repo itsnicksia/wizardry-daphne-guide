@@ -366,6 +366,7 @@
 
     - Each achievement is worth 100 points for a total of 1,200 points. 
     - Multi-hit weapons and attacks such as Hue count as "one-hit". 
+    - Even if you flee or lose, the damage done in a round is still counted. (Needs verification) 
     - Strongly recommend doing the 10,000 damage achievement on a lower League. Sleep or freeze a weak enemy and hit them with your strongest skill using a Dark Human equipped with a 2H sword. 
 
 === "Damage: Total" 
@@ -389,7 +390,7 @@
     </div>
 
     - Each achievement is worth 100 points for a total of 1,100 points. 
-    - Even if you lose the damage done in a round is still counted. (Needs additional verification). 
+    - Even if you flee or lose, the damage done in a round is still counted. 
     - Strongly recommend farming the total damage achievements in the Aspirant and Adept Leagues depending on your Abyss progress and account power. 
 
 === "Weekly" 
