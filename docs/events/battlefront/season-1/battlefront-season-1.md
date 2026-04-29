@@ -969,6 +969,8 @@
 
 ### Hero League
 
+!!! danger "This content is extremely difficult. It's essentially mandatory to have many dark element units invested to some degree to even attempt a run. In addition, it's essential for the player to have multiple sets of EVA gear, Ninja weapons, and 2H weapons for this. Dark Element frontline should have an recommended minimum requirement of ~180 EVA, ~750 2H ATK or ~350x3 1H ATK, and ~650-700 HP to tackle this. However, more EVA is extremely recommended if possible, especially with evasive classes like thieves and ninjas, or specific cases like highly disciplined Savias. It's also highly recommended to bring many priests AND mages with healing capabilities, with their own set of EVA and/or ASPD gear."
+
 === "Round 1"
 
     === "Fight Preview"
@@ -979,7 +981,8 @@
         - Backline: Goblin Mage 1x, Goblin Shaman 1x, Goblin Archer 1x
 
     === "Tips"
-        - All the enemies use their standard skillsets. All of them are evadable with Dark Element units with 230+ EVA.
+        - Goblins have around 5k HP each. Hobgoblins have similar amounts of HP. 
+        - All the enemies use their standard skillsets. All of them are evadable with Dark Element units with 180+ EVA + MASOLOTU 1.
         - Kill the magic casting backline units first. Kill the rest with basic attacks to conserve SP.
 
     === "Video" 
@@ -1000,8 +1003,11 @@
         - Backline: Mage Adventurer 3x
 
     === "Tips"
-        - Mage Adventurers tend to prioritze casting BALAFEOS first on any rows without ATK debuff. They also prefer casting other debuff spells, but can cast single-target attack spells sometimes. The BALAFEOS is quite strong so ABIT it ASAP on ATK-scaling units.
-        - Hobgoblins use their standard skillset. Can be evaded with Dark Element units with 230+ EVA.
+        - There is referee intervention at the start of the match, which gives all of the enemies an ATK up buff.
+        - Mage Adventurers have around 7k HP each. They can be critted.
+        - The middle Hobgoblin has around 16-18k HP and high defense (need 2h or defense penetration weapons). The side ones have around 5k HP.
+        - Mage Adventurers tend to prioritze casting BALAFEOS first on any rows without ATK debuff. They also prefer casting other debuff spells, but can cast extremely high damage MIGAL (800ish). The BALAFEOS is quite strong so ABIT it ASAP on ATK-scaling units. It seems like they can be outsped if a unit has over 190-200 ASPD.
+        - Hobgoblins use their standard skillset. Can be evaded with Dark Element units with 180+ EVA.
         - Kill the mages first ASAP. Kill the rest with basic attacks to conserve SP.
 
 === "Round 3"
@@ -1015,10 +1021,10 @@
         - Backline: Ninja 2x
 
     === "Tips"
-        - Bunnies have extremely high evasion and decently high HP. they can be instantly frozen with MADALTO and then killed in one with with a 700-800 ATK 2H Sword Lvl 1 ESS or Poised.
-        - The Big Slime and Water Slimes can be evaded entirely with Dark Element units with 230+ EVA.
-        - The Entities can be evaded if they are not casting magic with the previously mentioned stats.
-        - The Ninjas tend to cast low accuracy row status effects or low damage row magic. They can be evaded otherwise.
+        - Bunnies have around 5k HP. They have extremely high evasion, but can be slept very easily. It's not recommended to freeze them. 
+        - Ninjas have around 5k HP. They tend to cast low accuracy row status effects or low damage row magic. They can be evaded otherwise. They also can be critted.
+        - The Big Slime has around 8k HP. The water slimes have around 6-7k HP. The Big Slime and Water Slimes can be evaded, but the water slimes can be somewhat accurate. The water slimes can be critted.
+        - The Entities have around 5.5k HP. They can be evaded if they are not casting magic with the previously mentioned stats.
         - It's recommended to kill in the order of Bunnies, Ninjas, Entities, and Slimes.
 
 === "Round 4"
@@ -1031,6 +1037,9 @@
         - Backline: Mage Adventurer 1x, Ninja 2x
 
     === "Tips"
+        - The Red Spinner Woman has around 13-14k HP. Has very high accuracy. Can be crit.
+        - The Mages have around 7k HP each, ninjas have 5k each like previous rounds.
+        - The Scorpion Lady has around 40-42k HP. Has very high accuracy.
         - It's recommended to clear the backline first. See previous entries for how these enemies function. They will be consistent throughout the run.
         - It's possible to evade the Red Spinner Woman and Scorpion Lady but they might require MASOLOTU + DILTO applied as they are a bit more accurate. BATILGREF also helps buy a lot of time to kill the backline first before dealing with the frontline.
         - It's recommended to kill in the order of Mage, Ninja, Red Spinner Woman, Scorpion Lady.
@@ -1045,9 +1054,11 @@
         - Backline: Air Hawk 3x
 
     === "Tips"
-        - This is probably one of the more annoying fights for a majority of the runs, as it drains a lot of resources. It's recommended to deal with the Hawks immediately by using KATINO, which is nearly guaranteed on them. If they are not taken care of they can easily surety for over 1K damage. Otherwise, they have rather low HP and can be killed with ESS or Poised after being slept despite being in the backline. 
-        - The Monster Bird itself has very high HP, perhaps around 100k or higher. It's also extremely evasive, so it's recommended to apply MACALDIA to your DPS and debuff it's evasion via BATILGREF and Chill. The Monster Bird is immune to the CT debuffing effects of BATILGREF but not the EVA debuffing portion. The single target attack of the Monster Bird is evadable.
-        - Knights can be employed here if necessary to survive its full team AOE attack. Alternatively, you can simply equip every unit with Magical Beast Resistance Gear and have two Priests, preferably Dark Element for maximum HP.
+        - Giant Monster Bird has around 110k HP. It is very vulnerable to chill, and freezes in two DALTOs. Iarumas can also instantly freeze it if equipped with a Snow Oni Yoto and casting DALTO. 
+        - Air Hawks have around 6k HP each. They do massive amounts of single target damage, but can be evaded. They can be crit.
+        - This is probably one of the more annoying fights for a majority of the runs, as it can drain a lot of resources. It's recommended to deal with the Hawks immediately by using KATINO, which is nearly guaranteed on them. If they are not taken care of they can easily surety for over 1K damage. Otherwise, they have rather low HP and can be killed with ESS or Poised after being slept despite being in the backline. 
+        - The Monster Bird is very evasive even with the accuracy buff on dark element units, so it's recommended to apply MACALDIA to your DPS and debuff it's evasion via BATILGREF and Chill. Freezing it is the recommended strategy though, as it skips its turn and makes it take more damage. The Monster Bird is immune to the CT debuffing effects of BATILGREF but not the EVA debuffing portion. The single target attack of the Monster Bird is evadable, but all of its AOEs are not. Trample can easily surety and kill a unit (1.2k damage), while its AOEs can deal up to 700-750 damage.
+        - Knights can be employed here if necessary to survive its full team AOE attack. Alternatively, you can simply equip every unit with Magical Beast Resistance Gear and have two Priests, preferably Dark Element for maximum HP. If your backline is too slow, it's recommended to also equip evasion gear in order to survive the first round of Air Hawk attacks, as well as any single target attacks from the Giant Monster Bird.
 
 === "Round 6"
 
