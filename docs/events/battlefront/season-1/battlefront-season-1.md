@@ -1127,6 +1127,9 @@
         - Backline: Gorgon 2x
 
     === "Tips"
+        - Lamenting Snowfolk have around 27k HP each. They can cast MAERLIK/ERLIK for 500-600 damage. Their Clamp also does around 500. 
+        - Pixies have around 10k HP. They can hit for 500-600 with physical attacks. 
+        - Gorgons have around 21-22k HP. They can be critted. Their Stone Breath generally hits around 400-500. Their Lunge can hit up to 1000.
         - MADALTO the pixies immediately and get rid of them, as they can apply Sleep which can easily get you killed.
         - It's recommended to BATILGREF both rows and then quickly deal with the columns. If possible, kill the Gorgon before the Lamenting Snowfolk as the Gorgons can instantly stone a row if both aim their breath at the same row. The Gorgons also frequently Lunge, which switches a frontline unit with the backline.
         - The Gorgons have very high accuracy and do quite a lot of damage with Lunge as they move closer. It may be favorable to bring Magical Beast Resistance gear.
@@ -1141,6 +1144,10 @@
         - Backline: Hydra Plant 2x, Mage Adventurer 1x
 
     === "Tips"
+        - Mage Adventurers have 7k HP. Can be crit.
+        - Earth Slimes have around 5-6k HP each. They typically hit for around 700.
+        - The Evil Eye has around 41-44k HP. Scintillating Laser can easily hit for 1k.
+        - The Hydra Plants have around 20k HP each. They typically hit for around 700-800. Digestive Juices does around 300-400.
         - It goes without saying, immediately kill the Mage Adventurer. Then it's preferable to focus on killing the Evil Eye, as it gets two actions a turn, and can potentially wipe an entire row at once. It's somewhat evadable, but very risky if it starts targetting the backline, which may not have very high evasion. In addition, it has a very high chance of calling for an Ally randomly, which is another Evil Eye but with significantly less HP.
         - The Hydra Plants have a standard moveset, and don't really do much damage. However, that row damage cannot be evaded.
         - The Earth Slimes are evadable and very weak, so they are the least priority to deal with.
@@ -1156,6 +1163,9 @@
         - Backline: Snow Hawk 2x, Pixie 2x
 
     === "Tips"
+        - Pixies have around 10k HP each. FERU can hit for 700-800.
+        - Snow Hawks have around 6k HP each. 
+        - Big Snow Hawks have around 19-20k HP. Their Frost Blades can hit for 1000.
         - This match is pretty easy, everything can be evaded. MADALTO the backline and immediately kill the pixies. The Snow Hawks however, require 3 DALTOs to freeze.
         - Can BATILGREF/MADALTO to reduce their evasion. It's not recommended to use Dissipation or Malefic Wind unless you have plenty of resources remaining to remove their CT/EVA buffs.
 
@@ -1169,6 +1179,9 @@
         - Backline: Earth Cloud 2x, Mage Adventurer 1x
 
     === "Tips"
+        - The Succubi have around 10k HP each. 
+        - The Clouds have around 15-16k HP each.
+        - Mage Adventurer has 7k HP.
         - The clouds have very high defense, especially in the backline and seem to always go first. However, they can generally be evaded. Deal with these last.
         - MADALTO the front row, as the Succubi are very evasive but freeze immediately. Kill them and the Mage Adventurer. Then focus on chipping away on the clouds.
 
@@ -1183,7 +1196,11 @@
         - Debuff Applied: Beastfolk Stats Down
 
     === "Tips"
-        - The Cyclops is evadable, but the rest of the enemies are not. It's highly recommended to cast BATILGREF and MADALTO on the frontline + backline in order to buy as much time as possible.
+        - Referee Intervention happens at the very beginning of the stage. It debuffs everyone's DEF and MDEF for 5 turns, as well as reducing ASPD for 1 turn.
+        - Bigfoot has around 30-34k HP. Only really spams its breath move on either row.
+        - Bigfoot Children have around 17-18k HP each. They have extremely high accuracy. When the Bigfoot dies, they get a permanent ATK and CT debuff. Their damage drops in half.
+        - Cyclops has around 100k HP. Its basic attacks are evadable, but Wheeling Cleave and Gale Strike are not. They can also surety.
+        - Majority of the enemies generally cannot be evaded. It's highly recommended to cast BATILGREF and MADALTO on the frontline + backline in order to buy as much time as possible.
         - Kill the Bigfoot first, as this will apply an additional CT and ATK down on the Bigfoot children. You can then focus on killing the Cyclops and then the rest of the Bigfoot children.
         - It's almost mandatory to run a large amount of Stun/Paralysis Tolerance for this as the breath from the Bigfoot can easily end the run. It's recommended to bring Asha and Eldorado for this if possible, as they can both also help apply MADALTO.
 
