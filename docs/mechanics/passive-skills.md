@@ -6,19 +6,16 @@
 
 ### Overview
 
-=== "Page Contents" 
-
-    - Forthcoming. 
-
-=== "Technical Notes" 
+=== "Table Guide" 
 
     - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
     - A blank space `&#8203;&#8203;`  means that we have no information on that entry.
     - A `-` means that nothing is gained at that level. 
+    - L refers to the level of the passive. L4 = Level 4. 
     - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
     - Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
     - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
-    - Legendary and class passives max out at L6 if the unit does not have access to the listed class or is not self-inheriting. 
+    - Legendary and class passives max out at L6. If the unit does not have access to the listed class or is not self-inheriting. 
 
 ### Class  
 
@@ -32,7 +29,6 @@
     | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Way of the Warrior | <span style="color: DarkOrange">Gandolfo P</span> <br> <span style="color: DarkOrange">Ophelia P</span>    | 1.08x  | 1.09x  | 1.11x  | 1.12x  | 1.15x  |   |   |
  
      </div>
      
@@ -46,7 +42,6 @@
     | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Way of the Knight |          |   |    |    |   |   |   |   |
     
      </div>
 
@@ -60,7 +55,6 @@
     | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Way of the Thief      |          | 2.0x  |  2.1x  | 2.2x   |   |   |   |   |
 
      </div>
 
@@ -105,25 +99,6 @@
 
     - Forthcoming.
 
-    <!--
-
-
-    <div class="nofilter-table nosort-table equipment-table" markdown>
-    
-    | Passive Name &emsp; &emsp; &emsp;         | Inherit | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
-    |:------------------------------------------|---------|----|----|----|----|----|----|----|
-    | Concentration                             |         | | | | | | | |
-    | Divine Path                               |         | | | | | | | |
-    | True Eye Stance                           |         | | | | | | | |
-    | Back-Against-The-Water-Formation          |         | | | | | | | |
-    | Anticipation                              |         | | | | | | | |
-    | Thousandfold Grip                         |         | | | | | | | |
-    | Mysta Energy Manipulation                 |         | | | | | | | |
-
-     </div>
-
-     -->
-
 === "Ranger" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
@@ -136,7 +111,7 @@
     
      </div>
 
-### "Way of... Class Passives"  
+### "Way of..." Class Passives
 
 === "Way of the Warrior"
 
