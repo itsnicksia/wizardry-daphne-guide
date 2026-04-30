@@ -223,6 +223,5 @@
 
         If you use Alice in her normal form you should at least try to pull two copies of Shrine Maiden Alice, one to merge, and one to feed for that level 1 discipline on the Alt Skin.  That's what I did, and I don't really think you need to do more than that unless you want to go ham to really push the discipline.  Her skill is not super great due to the very low proc rate, so you don't need to worry about leveling that. 
 
-## Duplicate Usage
        
 {% endblock ReviewsAndAnalysis %}

@@ -65,11 +65,5 @@
     -text-
 -->
 
-<!--  
-## Duplicate Usage
-
-*  option 1
-*  option 2
--->
 {% endblock ReviewsAndAnalysis %}
 
