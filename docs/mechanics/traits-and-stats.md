@@ -32,6 +32,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |          Elf          |    -2    |  +3 |   -1  |    -2    |     +2    |   +1  |  -1  |
 |        |         Dwarf         |    +2    |  -2 |   +1  |    +3    |     +3    |   -4  |  -3  |
 |        |       Beastfolk       |    -1    |  +1 |   -4  |    +2    |     +2    |   +3  |  -3  |
+|        |         Fairy         |    -5    |  +3 |   -2  |    -3    |     +2    |   +6  |  +2  |
 |        |                       |          |     |       |          |           |       |      |
 |  Type  |          Fire         |    +2    |     |       |    +1    |           |       |      |
 |        |          Air          |          |     |       |          |     +1    |   +2  |      |
@@ -48,6 +49,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |         Ninja         |    +1    |     |       |          |     +1    |   +2  |  +1  |
 |        |        Samurai        |    +2    |  +1 |       |    +1    |     +1    |       |      |
 |        |         Ranger        |    +1    |     |       |          |     +2    |   +1  |  +1  |
+|        |         Healer        |    +1    |  +3 |   +3  |    +1    |     +1    |   +2  |  +1  |
 |        |       Tall Mage       |    +1    |  +1 |       |          |     +1    |       |      |
 |        |   Silver-Haired Nun   |    +1    |  +1 |   +2  |    +2    |     +1    |       |  +1  |
 
