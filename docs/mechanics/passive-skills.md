@@ -4,7 +4,7 @@
     - This is a brand new page. There will be errors and missing information. More information will be added on a regular basis. 
     - If you can confirm values please share in the comments, ping @Lightbearer on the [Discord](https://discord.gg/CQETxvUW), or post in the Theorycrafting - Skill Values channel.  
 
-### Overview
+## Overview
 
 === "Table Guide" 
 
@@ -17,7 +17,7 @@
     - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
     - Legendary and class passives max out at L6. If the unit does not have access to the listed class or is not self-inheriting. 
 
-### Class  
+## Class  
 
 === "Fighter"
 
@@ -111,96 +111,7 @@
     
      </div>
 
-### "Way of..." Class Passives
-
-=== "Way of the Warrior"
-
-    === "Skill Levels" 
-
-        <div class="nofilter-table nosort-table equipment-table" markdown>
-        
-        |                          | L0    | L1    | L2    | L3    | L4    | L5    | L6 | L7 | 
-        |:-------------------------|:------|-------|-------|-------|-------|-------|----|----|
-        | Total - DMG modifier     | 1.00x | 1.08x | 1.09x | 1.11x | 1.12x | 1.15x |    |    |
-        | Per Level - DMG modifier &emsp; &emsp; &emsp; | -     | 0.08x | 0.01x | 0.02x | 0.01x | 0.03x |    |    |   
-
-         </div>
-
-    === "Details"
-
-        - Damage modifier for basic attacks and skills. 
-        - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
-        - Inhherit from:
-             - <span style="color: DarkOrange">Gandolfo P</span>
-             - <span style="color: DarkOrange">Ophelia P</span>
-
-=== "Way of the Thief"
-
-    === "Skill Levels" 
-
-        <div class="nofilter-table nosort-table equipment-table" markdown>
-        
-        |                          | L0    | L1    | L2    | L3    | L4    | L5 | L6 | L7 | 
-        |:-------------------------|-------|-------|-------|-------|-------|----|----|----|
-        | Total - SUR Modifier     | 1.75x | 1.95x | 2.05x | 2.15x | 2.20x |    |    |    |
-        | Per Level - Sur Modifier &emsp; &emsp; &emsp;| -     | 0.20x | 0.10x | 0.10x | 0.05x |    |    |    |
-    
-        </div>
-
-    === "Details"
-
-        - SUR Damage = Damage x SUR Modifier 
-        - Standard SUR damage modifier is 1.75x at L0 
-        - No way to inherit to non-Thiefs
-        - No way to increase the passive's levels outside of codexes
-
-=== "Way of the Knight" 
-
-    === "Skill Levels" 
-
-    === "Technical Notes"
-
-
-=== "Way of the Priest"
-
-    === "Skill Levels" 
-
-        <div class="nofilter-table nosort-table equipment-table" markdown>
-        
-        |                           | L1  | L2     | L3     | L4     | L5     | L6     | L7     | 
-        |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
-        | Total - MP% Reduction     | 10% | 14.14% | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
-        | Per Level - MP% Reduction &emsp; &emsp; &emsp; | 10% | 4.14%  | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
-    
-        </div>
-
-        - Flat 10% reduction at Level 1. 
-        - Roughly 4% reduction per level. 
-        - To forecast specific combinations of spell and Way of the Priest levels see the next tab. 
-
-    === "Derived Formula"
-
-        - Estimated formula: 
-            - MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋
-        - Terms
-            - Base MP = The cost of the spell at any level. 
-            - WL = The level of Way of the Priest on a unit.    
-        - Floor Function (⌊ ⌋)  
-            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
-            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
-            - MP cost can never go below 1. 
-        - Data 
-            - Base MP data from 63 spells from L1-7 against L1-7 Way of the Priest. Total of 441 data points. 
-            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
-            - The Way of the Mage uses the exact same formula. 
-
-=== "Way of the Mage" 
-
-    === "Skill Levels" 
-
-    === "Technical Notes"
-
-### Anonymous 
+## Anonymous 
 
 === "Per Level" 
 
@@ -235,64 +146,6 @@
     | Human-Sam     | Attack + Magic Power &emsp; &emsp; &emsp; | 1 | 2 | 3 | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
     
     </div>
-
-## Chest Opening
-
-### Treasure Trap Detection
-
-=== "Skill Levels"
-
-    <div class="nofilter-table nosort-table equipment-table" markdown>
-    
-    |                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
-    |:----------------|-------|-------|-------|-------|-------|-------|-------|
-    | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
-    | Flat Bonus &emsp; &emsp; &emsp;    | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
-    
-     </div>
-
-=== "Basics"
-
-    - Find Trap: A derived stat (from Detect) used to identify whether a chest contains a trap. If a trap is present and detected, then it will trigger the trap disarm mini-game. If not, then the trap will go off, causing damage or inflicting status effects.  
-    - Detect: Listed on a unit's Stat page. It is the primary input in the Find Trap formula. The Treasure Trap Detect passive modifies the Detect value, which results in the Find Trap number that you see when you open a chest.    
-    - The Treasure Trap Detect passive at L1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
-    - Only the Thief class is able to reach L7. The maximum for other classes is L6. 
-
-=== "Formulas"
-
-    - Detect 
-        - Detect = (IQ x 0.70) + (Luck x 0.30)
-        - Each class has a different set of [modifiers](./traits-and-stats.md/#class-multiplier) for all of the primary Traits, including IQ and Luck. 
-        - The Detect value will change when a unit change's classes even if they are both at the same level. 
-    - Find Trap 
-        - Find Trap = (Detect x Multiplier) + Flat Bonus
-        - If the unit does not have the Treasure Trap Detect passive (L0), then the multiplier is 1.0 and Detect = Find Trap. 
-
-=== "Example: LV0"
-
-    - Detect: 50
-    - Treasure Trap Detection Level: 0 (no passive) 
-    - Find Trap = (50 x 1.0) + 0 = 50
-    - Detect = Find Trap with no passive levels in the skill.
-
-=== "Example: L5" 
-
-    - Detect: 50 
-    - Treasure Trap Detection Level: 5
-    - Find Trap = (50 x 1.14) + 46 = 103
-    - With L5 in the passives the MC's Find Trap is twice as large as his base Detect value.
-
-### Treasure Trap Disarm
-
-
-<div class="nofilter-table nosort-table equipment-table" markdown>
-
-|                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
-|:----------------|-------|-------|-------|-------|-------|-------|-------|
-| Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
-| Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
-
- </div>
 
 ## Legendary 
 
@@ -391,3 +244,152 @@
     | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
 
     </div> 
+
+## Other
+
+### "Way of..." 
+
+=== "Way of the Warrior"
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+        
+        |                          | L0    | L1    | L2    | L3    | L4    | L5    | L6 | L7 | 
+        |:-------------------------|:------|-------|-------|-------|-------|-------|----|----|
+        | Total - DMG modifier     | 1.00x | 1.08x | 1.09x | 1.11x | 1.12x | 1.15x |    |    |
+        | Per Level - DMG modifier &emsp; &emsp; &emsp; | -     | 0.08x | 0.01x | 0.02x | 0.01x | 0.03x |    |    |   
+
+         </div>
+
+    === "Details"
+
+        - Damage modifier for basic attacks and skills. 
+        - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
+        - Inhherit from:
+             - <span style="color: DarkOrange">Gandolfo P</span>
+             - <span style="color: DarkOrange">Ophelia P</span>
+
+=== "Way of the Thief"
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+        
+        |                          | L0    | L1    | L2    | L3    | L4    | L5 | L6 | L7 | 
+        |:-------------------------|-------|-------|-------|-------|-------|----|----|----|
+        | Total - SUR Modifier     | 1.75x | 1.95x | 2.05x | 2.15x | 2.20x |    |    |    |
+        | Per Level - Sur Modifier &emsp; &emsp; &emsp;| -     | 0.20x | 0.10x | 0.10x | 0.05x |    |    |    |
+    
+        </div>
+
+    === "Details"
+
+        - SUR Damage = Damage x SUR Modifier 
+        - Standard SUR damage modifier is 1.75x at L0 
+        - No way to inherit to non-Thiefs
+        - No way to increase the passive's levels outside of codexes
+
+=== "Way of the Knight" 
+
+    === "Skill Levels" 
+
+    === "Technical Notes"
+
+
+=== "Way of the Priest"
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+        
+        |                           | L1  | L2     | L3     | L4     | L5     | L6     | L7     | 
+        |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
+        | Total - MP% Reduction     | 10% | 14.14% | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
+        | Per Level - MP% Reduction &emsp; &emsp; &emsp; | 10% | 4.14%  | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
+    
+        </div>
+
+        - Flat 10% reduction at Level 1. 
+        - Roughly 4% reduction per level. 
+        - To forecast specific combinations of spell and Way of the Priest levels see the next tab. 
+
+    === "Derived Formula"
+
+        - Estimated formula: 
+            - MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋
+        - Terms
+            - Base MP = The cost of the spell at any level. 
+            - WL = The level of Way of the Priest on a unit.    
+        - Floor Function (⌊ ⌋)  
+            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
+            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
+            - MP cost can never go below 1. 
+        - Data 
+            - Base MP data from 63 spells from L1-7 against L1-7 Way of the Priest. Total of 441 data points. 
+            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
+            - The Way of the Mage uses the exact same formula. 
+
+=== "Way of the Mage" 
+
+    === "Skill Levels" 
+
+    === "Technical Notes"
+
+### Chest Opening
+
+#### Treasure Trap Detection
+
+=== "Skill Levels"
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    |                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
+    |:----------------|-------|-------|-------|-------|-------|-------|-------|
+    | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+    | Flat Bonus &emsp; &emsp; &emsp;    | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
+    
+     </div>
+
+=== "Basics"
+
+    - Find Trap: A derived stat (from Detect) used to identify whether a chest contains a trap. If a trap is present and detected, then it will trigger the trap disarm mini-game. If not, then the trap will go off, causing damage or inflicting status effects.  
+    - Detect: Listed on a unit's Stat page. It is the primary input in the Find Trap formula. The Treasure Trap Detect passive modifies the Detect value, which results in the Find Trap number that you see when you open a chest.    
+    - The Treasure Trap Detect passive at L1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
+    - Only the Thief class is able to reach L7. The maximum for other classes is L6. 
+
+=== "Formulas"
+
+    - Detect 
+        - Detect = (IQ x 0.70) + (Luck x 0.30)
+        - Each class has a different set of [modifiers](./traits-and-stats.md/#class-multiplier) for all of the primary Traits, including IQ and Luck. 
+        - The Detect value will change when a unit change's classes even if they are both at the same level. 
+    - Find Trap 
+        - Find Trap = (Detect x Multiplier) + Flat Bonus
+        - If the unit does not have the Treasure Trap Detect passive (L0), then the multiplier is 1.0 and Detect = Find Trap. 
+
+=== "Example: L0"
+
+    - Detect: 50
+    - Treasure Trap Detection Level: 0 (no passive) 
+    - Find Trap = (50 x 1.0) + 0 = 50
+    - Detect = Find Trap with no passive levels in the skill.
+
+=== "Example: L5" 
+
+    - Detect: 50 
+    - Treasure Trap Detection Level: 5
+    - Find Trap = (50 x 1.14) + 46 = 103
+    - With L5 in the passives the MC's Find Trap is twice as large as his base Detect value.
+
+#### Treasure Trap Disarm
+
+
+<div class="nofilter-table nosort-table equipment-table" markdown>
+
+|                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
+|:----------------|-------|-------|-------|-------|-------|-------|-------|
+| Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+| Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
+
+ </div>
