@@ -73,6 +73,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Ranger            | 1            | 0.75        | 0.3          | 1.3      | 0.2    |
     | Priest            | 0.9          | 0.9         | 1.2          | 0.9      | 0.2    |
     | Mage              | 0.5          | 1.2         | 1            | 0.7      | 0.2    |
+    | Healer            | 0.4          | 1.1         | 1.1          | 0.6      | 0.2    |
     | Black Rod         | 1.05         | 1           | 0.6          | 1        | 0.2    |
     | Tall Mage         | 1            | 1           | 0.8          | 1.1      | 0.2    |
     | Silver-Haired Nun | 1            | 0.75        | 1.1          | 1        | 0.2    |
@@ -90,6 +91,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Ranger            | 0.9     | 0.9           | 0.85    | 0.89       |
     | Priest            | 1       | 1.1           | 0.8     | 1          |
     | Mage              | 0.9     | 1.1           | 0.7     | 0.9        |
+    | Healer            | 0.95    | 1.1           | 1       | 1.35       |    
     | Black Rod         | 1       | 0.9           | 0.85    | 0.89       |
     | Tall Mage         | 1       | 0.95          | 0.7     | 0.85       |
     | Silver-Haired Nun | 1.15    | 1.15          | 0.7     | 1          |
@@ -107,6 +109,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Ranger            | 1.25   | 0.8         | 1.2        | 0.9          |
     | Priest            | 1      | 0.9         | 0.9        | 0.9          |
     | Mage              | 1.15   | 0.85        | 0.85       | 0.85         |
+    | Healer            | 0.5    | 0.5         | 0.5        | 0.95         |
     | Black Rod         | 0.9    | 0.9         | 0.9        | 0.85         |
     | Tall Mage         | 0.8    | 0.85        | 0.8        | 0.85         |
     | Silver-Haired Nun | 0.9    | 0.9         | 0.9        | 0.8          |
