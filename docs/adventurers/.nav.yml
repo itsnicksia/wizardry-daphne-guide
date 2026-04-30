@@ -17,6 +17,9 @@ nav:
     - Alice:
         - Details: './legendary-adventurers/details/Alice.md'
         - Life Story: './legendary-adventurers/life-stories/Alice.md'
+    - Anemone:
+        - Details: './legendary-adventurers/details/Anemone.md'
+        - Life Story: './legendary-adventurers/life-stories/Anemone.md'
     - Arboris:
         - Details: './legendary-adventurers/details/Arboris.md'
         - Life Story: './legendary-adventurers/life-stories/Arboris.md'
@@ -114,6 +117,9 @@ nav:
     - Bugen:
         - Details: './general-adventurers/details/Bugen.md'
         - Life Story: './general-adventurers/life-stories/Bugen.md'
+    - Camille:
+        - Details: './general-adventurers/details/Camille.md'
+        - Life Story: './general-adventurers/life-stories/Camille.md'
     - Chloe:
         - Details: './general-adventurers/details/Chloe.md'
         - Life Story: './general-adventurers/life-stories/Chloe.md'
