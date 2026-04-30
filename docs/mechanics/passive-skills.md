@@ -6,13 +6,19 @@
 
 ### Overview
 
-- The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
-- A blank space `     `  means that we have no information on that entry.
-- A `-` means that nothing is gained at that level. 
-- Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
-- Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
-- The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
-- Legendary and class passives max out at L6 if the unit does not have access to the listed class or is not self-inheriting. 
+=== "Page Contents" 
+
+    - Forthcoming. 
+
+=== "Technical Notes" 
+
+    - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
+    - A blank space `&#8203;&#8203;`  means that we have no information on that entry.
+    - A `-` means that nothing is gained at that level. 
+    - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
+    - Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
+    - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
+    - Legendary and class passives max out at L6 if the unit does not have access to the listed class or is not self-inheriting. 
 
 ### Class  
 
@@ -79,7 +85,7 @@
     |:------------------|:---------|----|----|----|----|----|----|----|
     | MP Up             |          | 4  |   |   |   |   |  |   |
     | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Detect Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -97,7 +103,127 @@
 
 === "Samurai" 
 
-    - To be added
+    - Forthcoming.
+
+    <!--
+
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;         | Inherit | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    |:------------------------------------------|---------|----|----|----|----|----|----|----|
+    | Concentration                             |         | | | | | | | |
+    | Divine Path                               |         | | | | | | | |
+    | True Eye Stance                           |         | | | | | | | |
+    | Back-Against-The-Water-Formation          |         | | | | | | | |
+    | Anticipation                              |         | | | | | | | |
+    | Thousandfold Grip                         |         | | | | | | | |
+    | Mysta Energy Manipulation                 |         | | | | | | | |
+
+     </div>
+
+     -->
+
+=== "Ranger" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    |:----------------|:---------|----|----|----|----|----|----|----|
+    | Accuracy Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detection Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evade Trap Up   |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    
+     </div>
+
+### "Way of... Class Passives"  
+
+=== "Way of the Warrior"
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+        
+        |                          | L0    | L1    | L2    | L3    | L4    | L5    | L6 | L7 | 
+        |:-------------------------|:------|-------|-------|-------|-------|-------|----|----|
+        | Total - DMG modifier     | 1.00x | 1.08x | 1.09x | 1.11x | 1.12x | 1.15x |    |    |
+        | Per Level - DMG modifier | -     | 0.08x | 0.01x | 0.02x | 0.01x | 0.03x |    |    |   
+
+         </div>
+
+    === "Details"
+
+        - Damage modifier for basic attacks and skills. 
+        - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
+        - Inhherit from:
+             - <span style="color: DarkOrange">Gandolfo P</span>
+             - <span style="color: DarkOrange">Ophelia P</span>
+
+=== "Way of the Thief"
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+        
+        |                          | L0    | L1    | L2    | L3    | L4    | L5 | L6 | L7 | 
+        |:-------------------------|-------|-------|-------|-------|-------|----|----|----|
+        | Total - SUR Modifier     | 1.75x | 1.95x | 2.05x | 2.15x | 2.20x |    |    |    |
+        | Per Level - Sur Modifier | -     | 0.20x | 0.10x | 0.10x | 0.05x |    |    |    |
+    
+        </div>
+
+    === "Details"
+
+        - SUR Damage = Damage x SUR Modifier 
+        - Standard SUR damage modifier is 1.75x at L0 
+        - No way to inherit to non-Thiefs
+        - No way to increase the passive's levels outside of codexes
+
+=== "Way of the Knight" 
+
+    === "Skill Levels" 
+
+    === "Technical Notes"
+
+
+=== "Way of the Priest"
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table equipment-table" markdown>
+        
+        |                           | L1  | L2     | L3     | L4     | L5     | L6     | L7     | 
+        |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
+        | Total - MP% Reduction     | 10% | 14.14% | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
+        | Per Level - MP% Reduction | 10% | 4.14%  | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
+    
+        </div>
+
+        - Flat 10% reduction at Level 1. 
+        - Roughly 4% reduction per level. 
+        - To forecast specific combinations of spell and Way of the Priest levels see the next tab. 
+
+    === "Derived Formula"
+
+        - Estimated formula: 
+            - MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋
+        - Terms
+            - Base MP = The cost of the spell at any level. 
+            - WL = The level of Way of the Priest on a unit.    
+        - Floor Function (⌊ ⌋)  
+            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
+            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
+            - MP cost can never go below 1. 
+        - Data 
+            - Base MP data from 63 spells from L1-7 against L1-7 Way of the Priest. Total of 441 data points. 
+            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
+            - The Way of the Mage uses the exact same formula. 
+
+=== "Way of the Mage" 
+
+    === "Skill Levels" 
+
+    === "Technical Notes"
 
 ### Anonymous 
 
