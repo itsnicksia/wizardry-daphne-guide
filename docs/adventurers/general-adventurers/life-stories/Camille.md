@@ -19,3 +19,8 @@ Camille sought to hearten her own spirit by adding labor upon labor in the arts 
 And on her day of parting, which fell upon her unlooked-for, Camille was out upon such an errand.  
 
 ### Page 4  
+In a village hard by, she stilled the cough of an elder, gave ease to the weary back of a laborer, and cooled the burning fever of a child. Her healing being finished, Camille was making her way back to her village when a sudden blast of unseasonable cold smote her, and a boding of ill stirred within her breast.  
+Hastening back to her village, she found that it was already encircled by soldiers bearing the banner of the lord who ruled those nearby lands. Lost in uncertainty and holding her breath as she crouched amidst a wild glade of healing herbs far from the road, and there before her a Matron appeared. The Matron spoke then and told how all the folk of the village had aided in her flight that she might escape.  
+"The lord of the land seeks to capture all Healers and keep them prisoner for his own ends. He cannot bear that the hearts of the people turn to us for solace rather than to him."  
+The Matron bade Camille that they should part ways and flee in separate directions. It was her purpose to better the chance of survival for anyone who had attained mastery in the arts of healing.  
+Camille fled, weeping from a sense of helpless loneliness. She believed that if she endured and continued her healing arts somewhere in the wide world, she would yet honor the debt she owed to the Matron who had trained her.  
