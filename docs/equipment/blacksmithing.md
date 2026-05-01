@@ -261,9 +261,9 @@
 
 ## Extract
 
-- Only weapons, armor, and accessories that have a Blessing can be extracted. The extraction process can yield an Alteration Stone, Refinement Stone, Refinement Stone Fragment, or nothing.
-- The type of stone extracted is randomly selected from one of the Blessings on the piece of equipment. 
-- Refinement stone fragments can be redeemed for Refinment Stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each.
+- Equipment that has one or more Blessings can be "extracted". The extraction process <em>destroys the item</em> and can yield an Alteration Stone, Refinement Stone, Refinement Stone Fragments, or nothing.
+- The type of stone extracted is randomly selected from one of the Blessings on the piece of equipment. Current estimates put extraction liklihood at about 20% per Blessing.
+- Refinement stone fragments can be redeemed for Refinment Stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each for a 3* equivalent stone.
 
 ### ^^Alteration and Refinement Stone Values^^
 
