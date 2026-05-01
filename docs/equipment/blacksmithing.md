@@ -262,7 +262,7 @@
     - Many players regularly enhancing equipment to +20 deliberately use 26 'unification fodder' items to build up a stock of "Strength 2 (17/18)" items ready to take a good base item right to Strength 3.
     - Such fodder items only take 1 storage slot instead of the 6 slots previously needed to quickly +20 an item.
 
-!!! warning "There is 'partially unified' visual indicator"
+!!! warning "There is NO 'partially unified' visual indicator"
     
     - A "Strength 2 (0/18)" item looks identical to a "Strength 2(17/18)" item, despite one being a lot more value than the other.
     - The unification screen would let you select either of those items for use with 2 other Strength 2 items to make a Strength 3 item.
