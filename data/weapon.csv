@@ -111,7 +111,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 134,2H_Sword!A134,2H_Sword,Ex.,Devourer of Ruin,Silver,1,,,152,0,0,0,0,-4,20,15,-2,0,,,,,,,,,,,218,0,0,0,0,-4,29,24,-2,0,231,0,0,0,0,-4,31,26,-2,0,,,,,,,,,,,"Strength-Based +, Status Affliction/Debuff Exploit, Attack Power Up"
 140,2H_Sword!A140,2H_Sword,Ex.,Augmented Dragon Slayer,Silver,1,,,120,0,0,0,0,-4,15,0,-2,0,153,0,0,0,0,-4,15,0,-2,0,179,0,0,0,0,-4,15,0,-2,0,202,0,0,0,0,-4,15,0,-2,0,219,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Dragon Slayer, Dragon Resistance"
 146,2H_Sword!A146,2H_Sword,Ex.,Saint Bastard,Silver,1,,,147,0,0,0,0,-4,0,10,-2,0,186,0,0,0,0,-4,0,15,-2,0,213,0,0,0,0,-4,0,19,-2,0,226,0,0,0,0,-4,0,21,-2,0,,,,,,,,,,,"Strength-Based +, Magic Power Heavy Strike"
-152,2H_Sword!A152,2H_Sword,Ex.,Durendal,Silver,1,,,150,0,0,0,0,-4,10,5,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Way-Clearing, Art of Swordcraft"
+152,2H_Sword!A152,2H_Sword,Ex.,Durendal,Silver,1,,,150,0,0,0,0,-4,10,5,-2,0,,,,,,,,,,,,,,,,,,,,,229,0,0,0,0,-4,10,5,-2,0,,,,,,,,,,,"Strength-Based +, Way-Clearing, Art of Swordcraft"
 158,2H_Sword!A158,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 164,2H_Sword!A164,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 170,2H_Sword!A170,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -347,10 +347,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 56,1H_Staff!A56,1H_Staff,Ex.,Black Rod,Ebonsteel,1,,,80,53,0,0,0,0,0,0,2,0,96,69,0,0,0,0,0,0,2,0,112,85,0,0,0,0,0,0,2,0,128,101,0,0,0,0,0,0,2,0,145,118,0,0,0,0,0,0,2,0,
 62,1H_Staff!A62,1H_Staff,Ex.,Staff of Recurrence,Ebonsteel,1,,,11,50,50,0,0,0,0,0,2,0,27,66,66,0,0,0,0,0,2,0,43,82,82,0,0,0,0,0,2,0,59,98,98,0,0,0,0,0,2,0,76,115,115,0,0,0,0,0,2,0,Blessing of Reversal
 68,1H_Staff!A68,1H_Staff,192,Rod of Splendor,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,
-74,1H_Staff!A74,1H_Staff,,Staff of the Long-Cherished Wish,Silver,1,,,20,60,60,0,0,0,0,0,-1,5,40,80,80,0,0,0,0,0,-1,7,,,,,,,,,,,,,,,,,,,,,98,138,138,0,0,0,0,0,-1,15,
+74,1H_Staff!A74,1H_Staff,,Staff of the Long-Cherished Wish,Silver,1,,,20,60,60,0,0,0,0,0,-1,5,40,80,80,0,0,0,0,0,-1,7,59,99,99,0,0,0,0,0,-1,10,78,118,118,0,0,0,0,0,-1,12,98,138,138,0,0,0,0,0,-1,15,
 80,1H_Staff!A80,1H_Staff,Ex.,Librarian Rod,Silver,1,,,36,70,70,0,0,0,0,0,3,0,,,,,,,,,,,80,114,114,0,0,0,0,0,3,0,,,,,,,,,,,,,,,,,,,,,Memory Enhancement
 86,1H_Staff!A86,1H_Staff,Ex.,Drug-Stirrer,Silver,1,,,15,77,77,0,0,0,0,0,0,3,,,,,,,,,,,59,121,121,0,0,0,0,0,0,3,,,,,,,,,,,,,,,,,,,,,Efficient Compounding
-92,1H_Staff!A92,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,1H_Staff!A92,1H_Staff,,Fine Flower Petal Baton,Silver,1,,,27,64,64,0,0,0,0,0,0,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
 98,1H_Staff!A98,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,1H_Staff!A104,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 110,1H_Staff!A110,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
