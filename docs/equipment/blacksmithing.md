@@ -28,7 +28,7 @@
 === "Terminology - Equipment Screen"
 
     <div align="center">
-    ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
+    ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment_new.jpg)
     </div>
 
 === "Blacksmithing Video Tutorial"
