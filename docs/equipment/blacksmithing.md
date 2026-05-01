@@ -253,11 +253,22 @@
     ![](img/unifying-equipment.jpg)
     </div>
 
-- As of March 2026, Unification no longer needs to be done step-by-step from 1 to 2 to 3.
-- In the Unificaton selection screen, you can now select as many items as you want to 'feed' into the item being strengthened. The total item count still works the same (27 items unified produces a single Strength 3 item), but for example you can take an item from Strength 0 to 2 by unifying it with 8 other items (for a total of 9 including the improved item) all in one unification step.
-- Items can now be 'partially' strengthened, e.g., only feeding the previously mentioned item 7 other items will leave it at Strength 1 and 5/6 of the way to Strength 2.  It will stay this way until you unify it with one more item, at which point it will become Strength 2.  Many players regularly enhancing equipment to +20 will deliberately build up a stock of "Strength 2 (17/18)" unification 'fodder' items ready to be unified to Strength 3 with just one good base item. Such fodder items only take 1 storage slot instead of the 6 slots they used to occupy.
+- Update March 2026: Unification no longer needs to be done step-by-step from 1 to 2 to 3, you can now select as many items as you want to 'feed' into the item being strengthened.  
+    - The total item count still works the same (27 items unified produces a single Strength 3 item)
+    - For example: you can take an item from Strength 0 to 2 by unifying it with 8 other items (for a total of 9 including the improved item) all in one unification step.
+- Items can now be 'partially' strengthened:
+    - Only feeding an item 7 other items will leave it at Strength 1 and 5/6 of the way to Strength 2.
+    - It will stay this way until unified with one more item, at which point it will become Strength 2.
+    - Many players regularly enhancing equipment to +20 deliberately use 26 'unification fodder' items to build up a stock of "Strength 2 (17/18)" items ready to take a good base item right to Strength 3.
+    - Such fodder items only take 1 storage slot instead of the 6 slots previously needed to quickly +20 an item.
 
-!!! warning "There is no visual indicator that an item is 'partially unified'.  A "Strength 2 (0/18)" item looks identical to a "Strength 2(17/18)" item, despite one being a lot more value than the other. Either of those items could be selected for use with 2 other Strength 2 items to make a Strength 3 and the game will provide zero indication that you're 'over-unifying' the item. If the wrong one is selected when unifying equipment, you've wasted those unified fodder items. That might not matter for a shop-bought helm, but could be quite frustrating for painstakingly acquired rare items, and Drecom will not restore lost items from such user-error no matter how much you beg."
+!!! warning "There is 'partially unified' visual indicator"
+    
+    - A "Strength 2 (0/18)" item looks identical to a "Strength 2(17/18)" item, despite one being a lot more value than the other.
+    - The unification screen would let you select either of those items for use with 2 other Strength 2 items to make a Strength 3 item.
+    - The game will provide zero indication that you're 'over-unifying' the item. Selecting the wrong one will wasted those unified fodder items.
+    - This might not matter for a shop-bought helm, but could be quite frustrating for painstakingly acquired rare items.
+    - Drecom will not restore lost items from such user-error no matter how much you beg.
 
 ## Extract
 
