@@ -6,6 +6,10 @@ It was in such a village of Healers that Camille was born. In her girlhood, when
 Ere long, Camille was taken into apprenticeship of the Healers, and thus she entered into her long years of training.  
 
 ### Page 2  
+In the company of her fellow apprentices, Camille gleaned much lore and craft from the Matrons of the Healers.  
+She learned to discern the plants of healing and their proper use, and at times put their virtues to the test upon her own flesh. She came to know the structure of the body, learning the sealing of wounds and the setting of bones that had been broken. She learned to hold the entities in reverence, and to offer up her prayers to them... Camille devoted herself to her learning, that she might one day save others as the Matron who had once saved her.  
+In time, with every returning of the spring, each of her fellow apprentices who had acquired sufficient knowledge and skill departed on their journeys one by one. For such is the custom of the village.  
+Camille offered her prayers to the entities, that her companions might bring healing to many a soul in the lands of their travels. Camille alone remained among the Healers' apprentices. Now at the long last, the hour had come for Camille herself to depart. However, as the spring-tide drew near, Camille yet lacked trust in her own strength, and a shadow of doubt remained upon her heart.  
 
 ### Page 3  
 
