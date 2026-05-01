@@ -11,7 +11,7 @@
 
 | **Term** &emsp;  &emsp;                   | **Definition** &emsp;                                                                                                                                                     |
 |:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Innate Attributes  &emsp;  &emsp;     | Stats that are inherent to a piece of equipment at +0 such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.                                      |
+| Innate Attributes      | Stats inherent to a piece of equipment before any special blessings are applied, such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.           |
 | Blessings              | Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".                                       |
 | Grade                  | The color of the gear that corresponds to the number of Blessings. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.                                                                      |   
 | Rank (Tier)            | Item material such as Bronze, Iron, Steel, etc. that determine the size of the innate attributes. Commonly referred to as "Tier".                                                            |
