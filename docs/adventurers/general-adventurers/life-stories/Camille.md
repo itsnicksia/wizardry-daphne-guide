@@ -12,5 +12,10 @@ In time, with every returning of the spring, each of her fellow apprentices who 
 Camille offered her prayers to the entities, that her companions might bring healing to many a soul in the lands of their travels. Camille alone remained among the Healers' apprentices. Now at the long last, the hour had come for Camille herself to depart. However, as the spring-tide drew near, Camille yet lacked trust in her own strength, and a shadow of doubt remained upon her heart.  
 
 ### Page 3  
+To Camille, who could not find it in her heart to take up the road, the Matron spoke with gentle words.  
+"Your spirit is a jewel of rare beauty marred only by the blemish of your doubt. But fret not. You possess the most essential aptitude that a Healer must hold-the love you bear for all things. Your lack of confidence stems from your fear of hurting those you love."  
+The healing wrought by Camille's hands was steeped in compassion. So heedful was she to spare her charges all pain and sorrow, and so constant was her solace, that neither the smallest child nor the wordless beasts of the field felt any dread when Camille's hands were upon them.  
+Camille sought to hearten her own spirit by adding labor upon labor in the arts of healing. When those she had healed turned to her with smiles and gave her their thanks, a flicker of new courage kindled within her. Ere long, Camille had become capable enough to at least handle errands in those places nearby the village.  
+And on her day of parting, which fell upon her unlooked-for, Camille was out upon such an errand.  
 
 ### Page 4  
