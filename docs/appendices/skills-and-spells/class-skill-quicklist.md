@@ -2,29 +2,29 @@
 
 [List of Skill Descriptions](./skills-and-spells.md)
 
-=== "Fighter Skills"
+=== "Fighter"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Fighter']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Knight Skills"
+=== "Knight"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Knight']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Thief Skills"
+=== "Thief"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Thief']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Priest Skills"
+=== "Priest"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Priest']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Mage Skills"
+=== "Mage"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Mage']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Healer Skills"
+=== "Healer"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Healer']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Ninja Skills"
+=== "Ninja"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Ninja']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Samurai Skills"
+=== "Samurai"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Samurai']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
-=== "Ranger Skills"
+=== "Ranger"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Ranger']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
