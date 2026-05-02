@@ -17,6 +17,9 @@
 === "Mage Skills"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Mage']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
+=== "Healer Skills"
+    {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Healer']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
+
 === "Ninja Skills"
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Type','Level'],filter_column='Class',filter_values=['Ninja']) | linkify_quicklist_skillnames | convert_to_md_table | add_indentation(spaces=4) }}
 
