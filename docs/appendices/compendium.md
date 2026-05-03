@@ -63,7 +63,7 @@
     === "All"  
        {{ pd_read_csv("data/compendium.csv", dtype="str", header=0)
         .query('Category == "Equipment"')
-        .sort_values(by='Number')[['Number', 'Name']]
+        .sort_index()[['Number', 'Name']]
         | convert_to_md_table(colalign=["center","left"]) 
         | add_indentation(spaces=8) }}
 
@@ -124,7 +124,7 @@
         | add_indentation(spaces=8) }}
 
     === "Key Monsters"  
-           {{ pd_read_csv("data/compendium.csv", dtype="str", header=0)
+        {{ pd_read_csv("data/compendium.csv", dtype="str", header=0)
         .query('Category == "Monsters" & Subcategory == "Key Monsters"')[['Number', 'Name']]
         | convert_to_md_table(colalign=["center","left"]) 
         | add_indentation(spaces=8) }}
