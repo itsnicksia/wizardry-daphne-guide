@@ -271,7 +271,7 @@
 
     === "How to Acquire"
 
-        - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-faction-2-requests)
         - Admiral Route
         - Requires finding the second missing person
 
@@ -293,7 +293,7 @@
 
     === "How to Acquire"
 
-        - [Search for Missing Royal Knights](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - [Search for Missing Royal Knights](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-faction-2-requests)
         - Princess Route
         - Requires finding the second missing person
 
@@ -315,7 +315,7 @@
 
     === "How to Acquire"
 
-        - [Search for Adherent Acquaintances](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - [Search for Adherent Acquaintances](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-faction-2-requests)
         - Pontiff Route
         - Requires finding the second missing person
 

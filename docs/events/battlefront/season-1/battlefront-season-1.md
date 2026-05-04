@@ -109,7 +109,7 @@
 === "Fortitude and Flames"
 
     - Fortitude does not recover between rounds. If you exit the arena, then the Fortitude of all units is restored to its original level when you first entered.
-    - You can gain up to 2 additional Flames of Reawakening in the [Well of the Mind](../../../../adventurer-customization/well-of-the-mind), allowing you to revive up to 5 times. 
+    - You can gain up to 2 additional Flames of Reawakening in the [Well of the Mind](../../../adventurer-customization/well-of-the-mind.md), allowing you to revive up to 5 times. 
     - Flames of Reawakening recharge while in the waiting room. 
 
 === "How to Exit the Arena"
@@ -133,7 +133,7 @@
 
     - The arena provides a set of special buffs during combat called "Battlefront Rules" for units that are Dark, Human, or use a 2H Sword. 
     - Each special buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues as the lower Leagues can be cleared with just about any team composition. 
-    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../../adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
+    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../adventurer-customization/well-of-the-mind.md). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
     
 === "Modifiers" 
 
@@ -180,7 +180,7 @@
     - [Gillion](../../../adventurers/legendary-adventurers/details/Gillion.md)
     - [Kiriha](../../../adventurers/general-adventurers/details/Kiriha.md) 
     - [Linaria](../../../adventurers/legendary-adventurers/details/Linaria.md) 
-    - See the [Adventurer Quicklist](../../../../adventurers/adventurer-quicklist/) for a list of all Human or Dark units. 
+    - See the [Adventurer Quicklist](../../../adventurers/quicklist/adventurer-quicklist.md) for a list of all Human or Dark units. 
 
 ### Lurking Crow Assistance  
 
@@ -488,7 +488,7 @@
         - As noted F2P will only be able to get 3 copies (75 Mastery) unless you can clear the Hero League. The paid pass provides 2 additional ones for a total of 5.
         - Recommended uses:
             - Limited banner unit that you want to invest in long-term. Future seasons are likely to provide additional copies. 
-            - Alternative style unit to reach D1 for [Shared Discipline](../../../../mechanics/merging/#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
+            - Alternative style unit to reach D1 for [Shared Discipline](../../../mechanics/merging.md#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
 
     === "How to Obtain"
 
