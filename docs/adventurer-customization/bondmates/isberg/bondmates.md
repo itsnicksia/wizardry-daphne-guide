@@ -315,7 +315,7 @@
 
     === "How to Acquire"
 
-        - [Search for Adherent Acquaintances](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - [Search for Adherent Acquaintances](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-faction-2-requests)
         - Pontiff Route
         - Requires finding the second missing person
 
