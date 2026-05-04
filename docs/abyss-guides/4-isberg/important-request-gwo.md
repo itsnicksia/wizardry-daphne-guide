@@ -73,7 +73,7 @@
         - However, rockfalls with no poison gas nearby can SOMETIMES generate poison gas. (consult map)
         - Poison gas tiles act effectively the same as a poison tile.
         
-12. There is nothing very notable from Route 7 Harken to Route 9 to the Church on the first run. However, it is quite a slog after the Route 9 Harken so be prepared and play it smart. You will unlock the cursed wheel selection [Short Rest in the Cabin](../../appendices/wheel-causality/isberg.md#short-rest-in-the-cabin) when you get the Route 9 Harken, [Dutz, the Honey Tonic Savant](../bounties/bounties.md#abyss-4-bounties) (if you have the rank).
+12. There is nothing very notable from Route 7 Harken to Route 9 to the Church on the first run. However, it is quite a slog after the Route 9 Harken so be prepared and play it smart. You will unlock the cursed wheel selection [Short Rest in the Cabin](../../appendices/wheel-causality/isberg.md#short-rest-in-the-cabin) when you get the Route 9 Harken, [Dutz, the Honey Tonic Savant](../bounties/bounties.md#abyss-4) (if you have the rank).
 13. Upon reaching the church, enter and interact with all the dead bodies on the floor. Head into the main church room and encounter the Greater Warped One. All the children will turn against you and the fight begins.
 
     ??? danger "Godefroi 1st Run"
