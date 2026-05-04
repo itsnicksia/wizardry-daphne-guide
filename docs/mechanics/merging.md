@@ -117,7 +117,7 @@
 		- [Chloe](../adventurers/general-adventurers/details/Chloe.md)
 		- [Flut](../adventurers/general-adventurers/details/Flut.md)
 		- [Marianne](../adventurers/general-adventurers/details/Marianne.md)
-		- [Milana](../adventurers/legendary-adventurers/details/Milana.md)
+		- [Milana](../adventurers/general-adventurers/details/Milana.md)
 
 ## Shared Discipline
 
