@@ -271,7 +271,7 @@
 
     === "How to Acquire"
 
-        - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-2nd-faction-request)
+        - [Search Bernard and Young Laurent](../../../abyss-guides/4-isberg/faction-requests.md#search-for-the-missing-persons-2nd-faction-requests)
         - Admiral Route
         - Requires finding the second missing person
 
