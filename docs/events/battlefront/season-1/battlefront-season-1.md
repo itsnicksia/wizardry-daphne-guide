@@ -133,7 +133,7 @@
 
     - The arena provides a set of special buffs during combat called "Battlefront Rules" for units that are Dark, Human, or use a 2H Sword. 
     - Each special buff is significant and scales with each League. It is most impactful and useful for the Elite and Hero Leagues as the lower Leagues can be cleared with just about any team composition. 
-    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../../adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
+    - We recommend you change MC's Type to Dark in the [Well of the Mind](../../../adventurer-customization/well-of-the-mind). The Type node locations do not change, but the 3 elements are randomly determined each time you reset.      
     
 === "Modifiers" 
 
@@ -180,7 +180,7 @@
     - [Gillion](../../../adventurers/legendary-adventurers/details/Gillion.md)
     - [Kiriha](../../../adventurers/general-adventurers/details/Kiriha.md) 
     - [Linaria](../../../adventurers/legendary-adventurers/details/Linaria.md) 
-    - See the [Adventurer Quicklist](../../../../adventurers/adventurer-quicklist/) for a list of all Human or Dark units. 
+    - See the [Adventurer Quicklist](../../../adventurers/quicklist/adventurer-quicklist/) for a list of all Human or Dark units. 
 
 ### Lurking Crow Assistance  
 
