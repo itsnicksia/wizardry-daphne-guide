@@ -555,6 +555,20 @@ window.RESPAWN_SECTIONS = [
           image: '',
           clickable: false,
         },
+        {
+          id: 'a4_radiant_crown_royal_crest_brooch',
+          title: 'Radiant Crown Royal Crest Brooch',
+          details: 'Princess Route Clear Reward. Sell Value 200,000gp [30 Days]',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'a4_large_shield_of_sacred_life',
+          title: 'Large Shield of Sacred Life',
+          details: 'Pontiff Route Clear Reward. [30 Days]',
+          image: '',
+          clickable: false,
+        },
       ]
     }
   ];
