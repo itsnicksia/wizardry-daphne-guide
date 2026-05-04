@@ -172,6 +172,13 @@ def define_env(env):
                      + df['Name'].str.replace(' ', '') + ')'
         return df
 
+    @env.filter
+    def sort_mixed_values(df, sortcol):
+        df = df.sort_values(by=sortcol, key=lambda col: pd.to_numeric(col, errors='coerce'))
+        return df
+
+
+
 def on_post_page_macros(env):
     # Prints rendered markdown to debug_output folder in root of project folder
     # for any file if 'debug_render: true' is found in header:
