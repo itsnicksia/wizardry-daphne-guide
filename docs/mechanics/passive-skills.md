@@ -362,7 +362,7 @@
 
     - Detect 
         - Detect = (IQ x 0.70) + (Luck x 0.30)
-        - Each class has a different set of [modifiers](./traits-and-stats.md/#class-multiplier) for all of the primary Traits, including IQ and Luck. 
+        - Each class has a different set of [modifiers](./traits-and-stats.md#class-multipliers) for all of the primary Traits, including IQ and Luck. 
         - The Detect value will change when a unit change's classes even if they are both at the same level. 
     - Find Trap 
         - Find Trap = (Detect x Multiplier) + Flat Bonus
