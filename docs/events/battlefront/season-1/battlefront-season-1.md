@@ -65,7 +65,7 @@
 
     - There are 4 Leagues this season. The number of rounds starts at 5 and grows by +5 per League to a maximum of 20. 
     - Enemy levels scale based on the MC's Grade level. 
-    - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. The Hero League is the only exception and can be repeated for the weekly [Hero's Mission](#heros-mission) achievements. 
+    - <span style="color: #F2473A">Warning!</span> After a League is cleared it cannot be re-attempted. You are automatically advanced to the next tier. The Hero League is the only exception and can be repeated for the weekly [Hero's Mission](#heros-reward-missions) achievements. 
     - <span style="color: #F2473A">Warning!</span> The Hero League is a massive difficulty spike. Even the biggest "whales" are having a difficult time clearing it without exploits. It is unclear if Drecom plans to adjust the difficulty or leave as-is. 
 
 === "Registration" 
