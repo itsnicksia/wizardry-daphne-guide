@@ -11,7 +11,7 @@
     - Base unit
 	
 		- The unit selected in the Training Room. It serves as the “base” of the merge and either the standard or alternative style can be used.
-		- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-commonly-called-iv) and its current class carry over to the merged adventurer.
+		- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-iv) and its current class carry over to the merged adventurer.
 	
     - Fodder unit
 	
