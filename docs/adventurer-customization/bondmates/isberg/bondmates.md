@@ -177,7 +177,7 @@
 
     === "How to Acquire"
 
-        - Rewarded automatically at the end of [Recovery of Oni Treasure](../../../../events/vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni). 
+        - Rewarded automatically at the end of [Recovery of Oni Treasure](../../../events/vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni). 
 
     === "Skill - Bind Tolerance"
 
