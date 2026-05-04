@@ -488,7 +488,7 @@
         - As noted F2P will only be able to get 3 copies (75 Mastery) unless you can clear the Hero League. The paid pass provides 2 additional ones for a total of 5.
         - Recommended uses:
             - Limited banner unit that you want to invest in long-term. Future seasons are likely to provide additional copies. 
-            - Alternative style unit to reach D1 for [Shared Discipline](../../../../mechanics/merging.md#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
+            - Alternative style unit to reach D1 for [Shared Discipline](../../../mechanics/merging.md#shared-discipline). This can help avoid having to pity (100 pulls) an extra copy and save your green gems for other banners.
 
     === "How to Obtain"
 
