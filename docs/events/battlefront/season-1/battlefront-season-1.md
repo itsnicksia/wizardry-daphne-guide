@@ -302,7 +302,7 @@
 ### Basics  
 
 - To receive all the achievement rewards requires a total of 6,500 points. 
-- There is a maximum of 8,760 total points from all sources. It is possible to clear the entire Mission before reaching the Hero League.
+- There is a maximum of 8,960 total points from all sources. It is possible to clear the entire Mission before reaching the Hero League.
 - Mission achievements, progress, and rewards can only be accessed while in the arena. 
 
 ### Points by Category 
@@ -318,6 +318,7 @@
     | Adept                                | 400    | 200   | 600   | 1,300      |  
     | Elite                                | 400    | 200   | 600   | 1,900      | 
     | Hero                                 | 400    | 200   | 600   | 2,500      | 
+    | Hero - no deaths                     |        |       | 200   | 2,700      | 
 
     </div>
 
@@ -335,7 +336,8 @@
     | Human                                | 100 | 100 | 100 | 100 | 200 | 600   |  
     | 2H Swords                            | 100 | 100 | 100 | 100 | 200 | 600   |   
     | Knight                               | 100 | 100 | 100 |     |     | 300   |   
-    | Mage                                 | 100 | 100 | 100 |     |     | 300   |      
+    | Mage                                 | 100 | 100 | 100 |     |     | 300   | 
+    |                                      | --- | --- | --- | --- | --- | ---   |     
     | Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
 
     </div>
@@ -367,7 +369,7 @@
 
     - Each achievement is worth 100 points for a total of 1,200 points. 
     - Multi-hit weapons and attacks such as Hue count as "one-hit". 
-    - Even if you flee or lose, the damage done in a round is still counted. (Needs verification) 
+    - Even if you flee or lose, the damage done in a round is still counted.
     - Strongly recommend doing the 10,000 damage achievement on a lower League. Sleep or freeze a weak enemy and hit them with your strongest skill using a Dark Human equipped with a 2H sword. 
 
 === "Damage: Total" 
@@ -420,18 +422,20 @@
     | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total | 
     |:-----------------------------------|--------|
     | From League:                       |        | 
-    | &emsp; Registration                       | 100   | 
-    | &emsp; Aspirant                           | 600   |  
-    | &emsp; Adept                              | 600   | 
-    | &emsp; Elite                              | 600   | 
-    | &emsp; Hero                               | 600   | 
+    | &emsp; Registration                | 100   | 
+    | &emsp; Aspirant                    | 600   |  
+    | &emsp; Adept                       | 600   | 
+    | &emsp; Elite                       | 600   | 
+    | &emsp; Hero                        | 600   | 
+    | &emsp; Hero - no deaths            | 200   |     
     | Special                            | 2,700 |     
     | Damage: One-Hit                    | 1,200 |
     | Damage: Total                      | 1,100 |    
     | Weekly                             | 1,260 | 
-    | Grand Total                        | 8,760 |    
+    |                                    | ----- |
+    | Grand Total                        | 8,960 |    
 
-    - There are a total of 8,760 total points available. Reduce that number by 600 due to Hero being unclearable and the net result is 8,160. 
+    - There are a total of 8,960 total points available. Reduce that number by 800 due to Hero being unclearable for most players and the net result is 8,160. 
     - That leaves a buffer of 1,660 points (8,160 - 6,500), so you can have some flexibility on what achievements you can ignore and/or unable to fulfill if you're stuck on the first round of Elite or Hero. 
 
     </div>
@@ -658,9 +662,6 @@
 
     </div>  
     
-## General Strategies
-
-- Forthcoming.
 
 ## League Battles
 
@@ -676,7 +677,7 @@
         - Backline: Goblin Mage 2x  
         
     === "Tips"
-        - The easiest fight to set up high damage attacks to clear all single-hit damage missions, even for lower level players. The Goblin Mages are susceptible to MONTINO and KATINO. So MONTINO them to start, clear the front line, take whatever time you need to stack all the buffs/debuffs you have, KATINO them for double damage, and take your biggest swing.  If you low roll, miss Surety, etc, just reset and try again.  If you're patient you can even clear the total damage and weekly missions just spamming this fight with max damage tactics.
+        - The easiest fight to set up high damage attacks to clear all single-hit damage missions, even for lower level players. For maximum damage, use a 2H sword with a Dark element Human. For even more, flee from the battle and get the Lurking Crow for double buffs, then proceed. The Goblin Mages are susceptible to MONTINO and KATINO. So MONTINO them to start, clear the front line, take whatever time you need to stack all the ATK buffs/ DEF-down debuffs you have, KATINO them for double damage, and take your biggest swings.   If you low roll, miss Surety, etc, just reset and try again. Additionally, you can save one enemy, flee from the battle after doing max damage, then re-enter the fight and repeat.   If you're patient you can even clear the total and weekly damage missions just spamming this one fight with max damage tactics.
 
 === "Round 2"
 
