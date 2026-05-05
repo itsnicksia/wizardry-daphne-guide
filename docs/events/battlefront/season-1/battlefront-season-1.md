@@ -389,6 +389,7 @@
     | 200,000                                 | 100 | 900   |       
     | 300,000                                 | 100 | 1,000 | 
     | 600,000                                 | 100 | 1,100 |    
+    | 900,000                                 | 100 | 1,200 |    
 
     </div>
 
@@ -430,13 +431,13 @@
     | &emsp; Hero - no deaths            | 200   |     
     | Special                            | 2,700 |     
     | Damage: One-Hit                    | 1,200 |
-    | Damage: Total                      | 1,100 |    
+    | Damage: Total                      | 1,200 |    
     | Weekly                             | 1,260 | 
     |                                    | ----- |
-    | Grand Total                        | 8,960 |    
+    | Grand Total                        | 9,060 |    
 
-    - There are a total of 8,960 total points available. Reduce that number by 800 due to Hero being unclearable for most players and the net result is 8,160. 
-    - That leaves a buffer of 1,660 points (8,160 - 6,500), so you can have some flexibility on what achievements you can ignore and/or unable to fulfill if you're stuck on the first round of Elite or Hero. 
+    - There are a total of 9,060 total points available. Reduce that number by 800 due to Hero being unclearable for most players and the net result is 8,260. 
+    - That leaves a buffer of 1,760 points (8,260 - 6,500), so you can have some flexibility on what achievements you can ignore and/or unable to fulfill if you're stuck on the first round of Elite or Hero. 
 
     </div>
 
