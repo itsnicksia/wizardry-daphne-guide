@@ -1,43 +1,43 @@
-# Battlefront of Heroes - Season 1
+# Battlefront of Heroes - Season 1  
 
-!!! warning " Work In Progress"
+!!! warning " Work In Progress"  
 
-    - The page will be heavily updated over the coming days with more details. 
-    - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
+    - The page will be heavily updated over the coming days with more details.  
+    - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies.  
 
-## Critical Warnings
+## Critical Warnings  
 
-!!! danger "Before You Begin - Read Me"
-    - Major Constraints
+!!! danger "Before You Begin - Read Me"  
+    - Major Constraints  
         - Once a League has been cleared it cannot be reset. You are automatically advanced to the next one.  
-        - The Hero League is a massive difficulty spike. It may not be possible for a normal player to survive the first round. Only a handful of players globally have cleared it to-date. 
-        - These two constraints have serious implications on the event's other mechanics. 
-    - [Hero's Sigil: Dark](#heros-sigil-dark) 
-        - The medal is a one-time only reward. It cannot be farmed, removed, or transferred to another unit. Every time you clear a League the units in your roster gain +1 Level to the passive. 
-        - Operate on the assumption that L3 is the effective maximum and plan what units you want to register and in what League order. 
-        - Only the first 8 units registered in the Aspirant League have the potential to reach L3 or L4. 
-    - [Hero's Reward Missions](#heros-reward-missions)
-        - It is possible to lock yourself out of receiving all the Mission rewards if you do not complete the Special, Damage: One-hit, and Damge: Total achievements in a lower League. 
-        - We -strongly- recommend: 
-            - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues. 
-            - Wait to clear the Elite League until after you have finished all of the Hero's Reward Missions, which requires 6,500 points. 
-    - Doppel Quicksilver 
-        - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Mastery (Discipline) experience. 
-        - Paid pass holders can get up to 5 prior to the Hero League at 1,500 and 3,000 points, respectively. 
+        - The Hero League is a massive difficulty spike. It may not be possible for a normal player to survive the first round. Only a handful of players globally have cleared it to-date.  
+        - These two constraints have serious implications on the event's other mechanics.  
+    - [Hero's Sigil: Dark](#heros-sigil-dark)   
+        - The medal is a one-time only reward. It cannot be farmed, removed, or transferred to another unit. Every time you clear a League the units in your roster gain +1 Level to the passive.  
+        - Operate on the assumption that L3 is the effective maximum and plan what units you want to register and in what League order.  
+        - Only the first 8 units registered in the Aspirant League have the potential to reach L3 or L4.  
+    - [Hero's Reward Missions](#heros-reward-missions)  
+        - It is possible to lock yourself out of receiving all the Mission rewards if you do not complete the Special, Damage: One-hit, and Damge: Total achievements in a lower League.  
+        - We -strongly- recommend:  
+            - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues.  
+            - Wait to clear the Elite League until after you have finished all of the Hero's Reward Missions, which requires 6,500 points.  
+    - Doppel Quicksilver  
+        - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Mastery (Discipline) experience.  
+        - Paid pass holders can get up to 5 prior to the Hero League at 1,500 and 3,000 points, respectively.  
 
 ## Overview
 
 - Event Period: April 16 - June 10. Drecom has announced plans to release future seasons on an ongoing basis.  
-- Battlefront of Heroes is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress. 
-- Each season spotlights a subset of units that are granted a special set of buffs based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.
-- Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details. 
-- The Hero's Reward Missions offer up to 4 Doppel Quicksilver, a new item, which gives 25 Mastery (Discipline) experience to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.
+- Battlefront of Heroes is a standard, arena-style challenge with 4 Leagues. The difficulty level, number of matches, and roster size increases as you progress.  
+- Each season spotlights a subset of units that are granted a special set of buffs based on certain attributes. For Season 1 it is Dark, Human, and 2H Swords. Class or alignment may be added in future seasons.  
+- Clearing a League rewards a medal that gives a permanent passive, which can be leveled up. See [Hero's Sigil: Dark](#heros-sigil-dark) for details.  
+- The Hero's Reward Missions offer up to 4 Doppel Quicksilver, a new item, which gives 25 Mastery (Discipline) experience to any unit. The other unique reward is a 2H Sword, the Heavy Warblade of Honor.  
 
 ## Requirements
 
-=== "How to Unlock" 
+=== "How to Unlock"  
 
-    - Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King.
+    - Battlefront of Heroes unlocks after defeating the first Greater Warped One and saving the King.  
 
 === "How to Accept" 
 
