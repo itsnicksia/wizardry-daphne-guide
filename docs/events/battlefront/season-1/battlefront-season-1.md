@@ -190,7 +190,7 @@
 
     - If you are struggling there is a hidden set of Battlefront Rules. They are only available for the first 3 Leagues.  
     - In the waiting room there is an old man, the Lurking Crow, who will normally ignore you. If you flee a battle and then speak with him he will offer his assistance. 
-    - For a fee he will offer an additional set of Battlefront Rules that will buff your team and debuff the enemy for the upcoming round. The assistance is only offered on a per round basis. The steps above must be repeated each time. 
+    - For a fee he will offer an additional set of Battlefront Rules that will buff your team and debuff the enemy for the upcoming round. The assistance is only offered on a per round basis. The steps above must be repeated for each battle. 
     - See next tab for details. 
 
 === "Crow's Battlefront Rules" 
@@ -204,7 +204,8 @@
     === "Mechanics" 
 
         - Goes into effect once the battle starts. 
-        - It can be repeated for each round, but you must flee and repeat the process. 
+        - It can be repeated for each round, but you must flee and repeat the process.  
+        - Once applied, it will continue to be applied to this battle round even if you again flee and re-enter the battle.  
         - There does not appear to be any negative consequences or limit to the number of times it can be used. (Under Investigation).  
         - Appears to stack with the standard Battlefront Rules. (Under Investigation). 
 
