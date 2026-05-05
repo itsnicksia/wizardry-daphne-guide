@@ -301,9 +301,10 @@
     
 ### Basics  
 
-- To receive all the achievement rewards requires a total of 6,500 points. 
-- There is a maximum of 8,960 total points from all sources. It is possible to clear the entire Mission before reaching the Hero League.
-- Mission achievements, progress, and rewards can only be accessed while in the arena. 
+- To receive all the achievement rewards requires a total of 6,500 points.  
+- There is a maximum of 9,420 total points from all sources. It is possible to clear the entire Mission set before even leaving Aspirant league.  
+- Mission achievements, progress, and rewards can only be accessed while in the arena.  
+- Many mission achievements that don't specify winning can be completed even if you flee or lose the battles.  
 
 ### Points by Category 
 
@@ -324,7 +325,7 @@
 
     - The round achievements are worth 100 points. Clearing a League is worth 200 points. 
     - Clearing everything through Elite gives you 1,900 points. 
-    - If you do not progress to the Hero League, then you will need 4,600 points to reach 6,500 points for all Mission rewards. 
+    - If you do not progress through the Hero League, then you will need 4,600 points to reach the 6,500 points for all Mission rewards. 
 
 === "Special" 
 
@@ -395,7 +396,7 @@
 
     - Each achievement is worth 100 points for a total of 1,100 points. 
     - Even if you flee or lose, the damage done in a round is still counted. 
-    - Strongly recommend farming the total damage achievements in the Aspirant and Adept Leagues depending on your Abyss progress and account power. 
+    - Strongly recommend farming the total damage achievements in the Aspirant and Adept Leagues depending on your Abyss progress and account power.  Stacking high power attacks like you would use for the One-Hit missions will accumulate total damage quickly.
 
 === "Weekly" 
 
@@ -413,7 +414,7 @@
     </div>
 
     - There are 8-9 weekly missions during the season (depending on how partial weeks are handled. Following calculations will assume 9).  
-    - Each achievement is worth 30 points for a total of 180 points per week (total: 1,620 points).  
+    - Each achievement is worth 30 points for a total of 180 points per week (total: 1,620 points over 9 weeks).  
     - Note: We do not know if the requirements will change week-to-week or if these will stay constant.  
 
 === "All"
@@ -436,10 +437,10 @@
     |                                    | ----- |
     | Grand Total                        | 9,420 |    
 
-    - There are a total of 9,420 total points available. Reduce that number by 800 due to Hero being unclearable for most players and the net result is 8,620. 
-    - That leaves a buffer of 2,120 points (8,620 - 6,500), giving quite some flexibility on what achievements you can ignore and/or unable to fulfill if you're stuck on the first round of Elite or Hero. 
-    - Note that 6,560 points can be earned by Registering, completing all Special, Damage:One-Hit, Damage:Total, and 7 Weekly Missions, and only beating the first Aspirant battle.
-    - So even if the event cannot be completed, _all Event rewards except the Hero's Sigil are achievable_ by anyone eligible to enter the Arena.
+    - There are a total of 9,420 points available. Reduce that number by 800 if Hero is unclearable for you and the net result is 8,620. 
+    - That leaves a buffer of 2,120 points (8,620 - 6,500), giving quite some flexibility on what achievements you can ignore and/or be unable to fulfill if you're stuck in a high-difficulty League. 
+    - Note: 6,560 points can be earned by Registering, completing all Special, Damage:One-Hit, Damage:Total, and 7 Weekly Missions, and only beating the first Aspirant battle.  
+        - So even if the event cannot be completed, _all Event rewards except the Hero's Sigil are achievable_ by anyone eligible to enter the Arena.
 
     </div>
 
