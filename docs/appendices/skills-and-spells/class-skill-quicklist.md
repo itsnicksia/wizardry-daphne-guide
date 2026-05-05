@@ -1,9 +1,16 @@
 # List of Skills per Class
 
-[List of Skill Descriptions](./skills-and-spells.md)  
+- Restrictions:  
+    - Skills marked <em>class</em>-resctricted can only be used by that class, and become unusable if the adventurer changes to another class.
+    - <em>Item</em>-restricted means the adventurer must be using that particular piece of equipment to use the skill.
+- Mage spells:
+    - Mages will learn Single-target, row-target (MA-) and all-targets (LA-) version attack spells according to their type (element).  
+    - Elemental types will learn spells of their element and the element they are weak against (e.g., fire and water). Light, Dark, and Void types will only learn their spell types.
+- Special classes:
+    - Special event characters with unique classes do not exactly follow any of the skill or level progressions listed below.
+    - This includes: Mage of the Black Rod, Samurai of the Black Rod, Tall Mage, and Silver-Haired Nun.
 
-- Restrictions: Skills marked <em>class</em>-resctricted can only be used by that class, and become unusable if the adventurer changes to another class.  <em>Item</em>-restricted means the adventurer must be using that particular piece of equipment to use the skill.
-- Mages will learn Single-target, row-target (MA-) and all-targets (LA-) version attack spells according to their type (element).  Elemental types will learn spells of their element and the element they are weak against (e.g., fire and water). Light, Dark, and Void types will only learn their spell types.  
+[List of Skill Descriptions](./skills-and-spells.md)  
 
 === "Fighter"
 
