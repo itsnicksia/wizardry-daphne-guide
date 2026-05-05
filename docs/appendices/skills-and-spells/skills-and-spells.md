@@ -1,6 +1,7 @@
 # Skills and Spells
- 
-## Active Skills
+
+## Skills:  
+### Active Skills  
 
 === "Skill Description"
     
@@ -10,8 +11,7 @@
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Active']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
-
-## Passive Skills    
+### Passive Skills    
 
 === "Skill Description"
 
@@ -21,7 +21,8 @@
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Discipline','Passive']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
-## Damage Spells
+## Spells:  
+### Damage Spells  
 
 === "Spell Description"
 
@@ -31,7 +32,7 @@
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Damage']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
-## Support Spells
+## Support Spells  
 
 === "Spell Description"
 
@@ -41,7 +42,7 @@
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Support']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
-## Debuff Spells
+## Debuff Spells  
 
 === "Spell Description"
 
