@@ -412,9 +412,9 @@
 
     </div>
 
-    - There are 7 weekly missions during the season. Each achievement is worth 30 points for a total of 180 points per week. 
-    - Weekly mission achievements are worth a total of 1,260 points. 
-    - Note: We do not know if the requirements will change week-to-week or if these will stay constant.
+    - There are 8-9 weekly missions during the season (depending on how partial weeks are handled. Following calculations will assume 9).  
+    - Each achievement is worth 30 points for a total of 180 points per week (total: 1,620 points).  
+    - Note: We do not know if the requirements will change week-to-week or if these will stay constant.  
 
 === "All"
 
@@ -432,12 +432,14 @@
     | Special                            | 2,700 |     
     | Damage: One-Hit                    | 1,200 |
     | Damage: Total                      | 1,200 |    
-    | Weekly                             | 1,260 | 
+    | Weekly                             | 1,620 | 
     |                                    | ----- |
-    | Grand Total                        | 9,060 |    
+    | Grand Total                        | 9,420 |    
 
-    - There are a total of 9,060 total points available. Reduce that number by 800 due to Hero being unclearable for most players and the net result is 8,260. 
-    - That leaves a buffer of 1,760 points (8,260 - 6,500), so you can have some flexibility on what achievements you can ignore and/or unable to fulfill if you're stuck on the first round of Elite or Hero. 
+    - There are a total of 9,420 total points available. Reduce that number by 800 due to Hero being unclearable for most players and the net result is 8,620. 
+    - That leaves a buffer of 2,120 points (8,620 - 6,500), giving quite some flexibility on what achievements you can ignore and/or unable to fulfill if you're stuck on the first round of Elite or Hero. 
+    - Note that 6,560 points can be earned by Registering, completing all Special, Damage:One-Hit, Damage:Total, and 7 Weekly Missions, and only beating the first Aspirant battle.
+    - So even if the event cannot be completed, _all Event rewards except the Hero's Sigil are achievable_ by anyone eligible to enter the Arena.
 
     </div>
 
