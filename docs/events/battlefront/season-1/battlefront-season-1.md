@@ -227,17 +227,18 @@
     === "Aspirant"
     
         - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
-        - Talk Crow and select "I want to win". Pay the 2,000 Gold fee. 
+        - Talk Crow and select "I want to win". Pay the 2,000 gp fee. 
         - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
         - After winning the battle, the crow resets to ignoring you again.  
         - You can repeat this for every battle. There appear to be no negative consequences.  
     
     === "Adept" 
+        - Crow fee: 10,000 gp
         - Information pending.
     
     
     === "Elite" 
-        - Information pending. 
+        - Crow fee: 50,000 gp
         
     === "Hero" 
     
