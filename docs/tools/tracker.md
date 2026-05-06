@@ -59,7 +59,7 @@
 </div>
 
 <!-- Scripts -->
-<script src="/js/sections.js"></script>
+<script src="/js/tracker-sections.js"></script>
 <script src="/js/tracker.js"></script>
 <script src="/js/readme.js"></script>
 <!--
