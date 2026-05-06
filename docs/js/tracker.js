@@ -1,5 +1,5 @@
 (function () {
-  // === AUTO-REBASE when sections.js changes ===
+  // === AUTO-REBASE when tracker-sections.js changes ===
   const SECTIONS_SIG_KEY = 'respawn_sections_signature_v1';
 
   function computeSectionsSignature(sections) {
@@ -32,12 +32,12 @@
   };
 
   /* ==========================
-     DATA MODEL (loaded from sections.js)
+     DATA MODEL (loaded from tracker-sections.js)
      ========================== */
   const SECTIONS = window.RESPAWN_SECTIONS;
 
   if (!Array.isArray(SECTIONS)) {
-    console.error('[Respawn Tracker] SECTIONS module failed to load. Ensure /js/sections.js is included before /js/tracker.js');
+    console.error('[Respawn Tracker] SECTIONS module failed to load. Ensure /js/tracker-sections.js is included before /js/tracker.js');
     return;
   }
 
