@@ -122,9 +122,11 @@
 
 ## Shared Discipline
 
-- Shared discipline levels between styles is one of the greatest benefits of the merging system.
-- This mechanic does not activate until both styles have been disciplined at least once to D1.
-- Consequently, it means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your resources and team composition.
+=== "Summary" 
+
+	- Shared discipline levels between styles is one of the greatest benefits of the merging system.
+	- This mechanic does not activate until both styles have been disciplined at least once to D1.
+	- Consequently, it means you need to pull at least 2 copies of limited banner units, so plan accordingly based on your resources and team composition.
 
 === "Mechanics" 
 
