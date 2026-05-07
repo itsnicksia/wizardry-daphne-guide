@@ -74,22 +74,22 @@
 
 === "Unique Skill and Discipline" 
 		
-    === "Summary"
-    
-        - The style you select as “active” in the Training Room determines what unique passive skill and discipline (“featured stats”) is available to the adventurer.
-        - Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. In the tabs is an example that compares standard Asha and Witching Mage Asha.
-        - It is important to switch between styles depending on the situation or enemy you are facing. 
+	=== "Summary"
+	
+		- The style you select as “active” in the Training Room determines what unique passive skill and discipline (“featured stats”) is available to the adventurer.
+		- Each style has a unique pair that is unavailable to the other version. They are mutually exclusive. In the tabs is an example that compares standard Asha and Witching Mage Asha.
+		- It is important to switch between styles depending on the situation or enemy you are facing. 
 		- For example, if you are fighting a boss that employs constant poison attacks you would opt for the standard Asha style. Why? Her passive increases poison tolerance for adjacent Good team members; and, her discipline skill increases it even further for herself. 
-    
-    === "Asha - Unique Skill (Passive)"
-    
-        - Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
-        - Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
-    
-    === "Asha - Discipline Skill (Featured Stats)"   
-    
-        - Standard Asha: HP and Poison Tolerance 
-        - Witching Mage Asha: HP and Sleep Tolerance 
+
+	=== "Asha - Unique Skill (Passive)"
+	
+		- Standard Asha: Increases tolerance of poison, paralysis, and stone for user and all adjacent Good allies
+		- Witching Mage Asha: Increases the success rate of status afflictions and debuffs inflicted by the user
+
+	=== "Asha - Discipline Skill (Featured Stats)"   
+	
+		- Standard Asha: HP and Poison Tolerance 
+		- Witching Mage Asha: HP and Sleep Tolerance 
 
 === "How to Change Styles" 
 
@@ -111,9 +111,9 @@
 		- [Gerard](../adventurers/legendary-adventurers/details/Gerard.md)
 		- [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md)
 		- [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md)
-
+	
 	=== "General" 
-
+	
 		- [Asha](../adventurers/general-adventurers/details/Asha.md)
 		- [Chloe](../adventurers/general-adventurers/details/Chloe.md)
 		- [Flut](../adventurers/general-adventurers/details/Flut.md)
