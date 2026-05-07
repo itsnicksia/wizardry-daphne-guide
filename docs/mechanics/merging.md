@@ -91,34 +91,34 @@
         - Standard Asha: HP and Poison Tolerance 
         - Witching Mage Asha: HP and Sleep Tolerance 
 
-	=== "How to Change Styles" 
+=== "How to Change Styles" 
+
+1. Adventure’s Guild - Training Room.
+2. Select the merged unit.
+3. Select “Change Style” at the bottom of the list.
+4. Select the preferred style.
+5. Confirm.
 	
-	1. Adventure’s Guild - Training Room.
-	2. Select the merged unit.
-	3. Select “Change Style” at the bottom of the list.
-	4. Select the preferred style.
-	5. Confirm.
+=== "Adventurers with Alternative Styles"  
+
+	=== "Legendary"
 	
-	=== "Adventurers with Alternative Styles"  
-	
-		=== "Legendary"
-		
-			- [Abenius](../adventurers/legendary-adventurers/details/Abenius.md)
-			- [Adam](../adventurers/legendary-adventurers/details/Adam.md)
-			- [Alice](../adventurers/legendary-adventurers/details/Alice.md)
-			- [Berkanan](../adventurers/legendary-adventurers/details/Berkanan.md)
-			- [Debra](../adventurers/legendary-adventurers/details/Debra.md)
-			- [Gerard](../adventurers/legendary-adventurers/details/Gerard.md)
-			- [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md)
-			- [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md)
-	
-		=== "General" 
-	
-			- [Asha](../adventurers/general-adventurers/details/Asha.md)
-			- [Chloe](../adventurers/general-adventurers/details/Chloe.md)
-			- [Flut](../adventurers/general-adventurers/details/Flut.md)
-			- [Marianne](../adventurers/general-adventurers/details/Marianne.md)
-			- [Milana](../adventurers/general-adventurers/details/Milana.md)
+		- [Abenius](../adventurers/legendary-adventurers/details/Abenius.md)
+		- [Adam](../adventurers/legendary-adventurers/details/Adam.md)
+		- [Alice](../adventurers/legendary-adventurers/details/Alice.md)
+		- [Berkanan](../adventurers/legendary-adventurers/details/Berkanan.md)
+		- [Debra](../adventurers/legendary-adventurers/details/Debra.md)
+		- [Gerard](../adventurers/legendary-adventurers/details/Gerard.md)
+		- [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md)
+		- [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md)
+
+	=== "General" 
+
+		- [Asha](../adventurers/general-adventurers/details/Asha.md)
+		- [Chloe](../adventurers/general-adventurers/details/Chloe.md)
+		- [Flut](../adventurers/general-adventurers/details/Flut.md)
+		- [Marianne](../adventurers/general-adventurers/details/Marianne.md)
+		- [Milana](../adventurers/general-adventurers/details/Milana.md)
 
 ## Shared Discipline
 
