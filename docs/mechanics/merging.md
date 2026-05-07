@@ -8,66 +8,66 @@
 
 ??? warning "Basics - Read Me"
 
-=== "Important Terms"
-
-    - Base Unit
+	=== "Important Terms"
 	
-		- The unit selected in the Training Room. It serves as the “base” of the merge and either the standard or alternative style can be used.
-		- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-iv) and its current class carry over to the merged adventurer.
+	    - Base Unit
+		
+			- The unit selected in the Training Room. It serves as the “base” of the merge and either the standard or alternative style can be used.
+			- The base unit is important because its [IV or “boosted trait”](./traits-and-stats.md#trait-boost-iv) and its current class carry over to the merged adventurer.
+		
+	    - Fodder Unit
+		
+			- The unit selected in the Merging screen that will be absorbed "into" the base unit. Ideally, it will have a different IV or boosted Trait than the base unit. This generally, but not always, leads to higher Trait growth rates with the “Contiguous States of Mind” passive.
+		
+	    - Discipline Skill 
+		
+			- Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed on the [Discipline and Inheritance](./discipline-and-inheritance.md) page. 
+			- Note: The featured stats of Legendary units are higher than General units. 
 	
-    - Fodder Unit
+	=== "Mechanics"
 	
-		- The unit selected in the Merging screen that will be absorbed "into" the base unit. Ideally, it will have a different IV or boosted Trait than the base unit. This generally, but not always, leads to higher Trait growth rates with the “Contiguous States of Mind” passive.
+		- <span style="color: #F2473A">Warning!</span> Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy.
+		- The highest value from either the base or fodder determines: 
+		
+			- Fortitude
+			- Bonus Points (BP), which can be re-allocated immediately after merging or in the Training Room 
+			- Grade level
+			- Class EXP, including the secondary class if unlocked 
+		
+		- Experience is added together for: 
+		
+			- Active Skills
+			- Passive Skills
+			- Spells 
+			- Relic Powers, both equipped and extracted 
+		
+		- Base unit determines: 
+		
+			- IV or "boosted" Trait, if present
+			- Current class 
+			- Trust level (see Technical Notes) and Flaming-Heart, if present
+			- Equipped bondmates and Favorites hotbar  
 	
-    - Discipline Skill 
+	=== "How to Merge" 
 	
-		- Each character has a unique set of 2-3 stats or status tolerances that receive a small boost per discipline level. They are generally referred to as “featured stats” and their bonus per discipline level can be viewed on the [Discipline and Inheritance](./discipline-and-inheritance.md) page. 
-		- Note: The featured stats of Legendary units are higher than General units. 
-
-=== "Mechanics"
-
-	- <span style="color: #F2473A">Warning!</span> Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy.
-	- The highest value from either the base or fodder determines: 
+		1. Go to Adventure’s Guild - Training Room.
+		2. Select the base unit from your current party or Adventurer List. This unit must be registered.
+		3. Select “Merge” at the bottom of the Training Room menu.
+		4. In the Merge menu select the fodder unit from the available copies to merge into the base unit. Fodder units do not have to be registered.
+		5. Select “Merge” at the bottom of the screen.  
+		6. Reallocate BP (Optional: You can hold off on the very last point to re-allocate all BP to something different if you wish).
 	
-		- Fortitude
-		- Bonus Points (BP), which can be re-allocated immediately after merging or in the Training Room 
-		- Grade level
-		- Class EXP, including the secondary class if unlocked 
+	=== "Technical Notes" 
 	
-	- Experience is added together for: 
-	
-		- Active Skills
-		- Passive Skills
-		- Spells 
-		- Relic Powers, both equipped and extracted 
-	
-	- Base unit determines: 
-	
-		- IV or "boosted" Trait, if present
-		- Current class 
-		- Trust level (see Technical Notes) and Flaming-Heart, if present
-		- Equipped bondmates and Favorites hotbar  
-
-=== "How to Merge" 
-
-	1. Go to Adventure’s Guild - Training Room.
-	2. Select the base unit from your current party or Adventurer List. This unit must be registered.
-	3. Select “Merge” at the bottom of the Training Room menu.
-	4. In the Merge menu select the fodder unit from the available copies to merge into the base unit. Fodder units do not have to be registered.
-	5. Select “Merge” at the bottom of the screen.  
-	6. Reallocate BP (Optional: You can hold off on the very last point to re-allocate all BP to something different if you wish).
-
-=== "Technical Notes" 
-
-	- Relic Powers 
-		- Equipped Relic Powers stack on the merged unit. 
-		- For example, if both the base and fodder have 4 different relic powers equipped, then the merged unit will have all 8. This results in Stage 4 penalties with an immediate hit to Fortitude and requires extraction, which can be expensive.
-		- Strongly recommended removing the Relic Powers you do not want before merging. 
-	- Class 
-		- The base unit's current class carries over to the merged unit. This means you may have to use a class handbook or class change request to switch back to your preferred class. Plan accordingly, especially with the new level 70 cap or if you are a newer player with limited class change items
-	- Trust
-		- (Under verification) If you use a high-trust unit (level 60-70) as fodder, then it seems as if some portion (60-70%) of its trust carries over to the merged unit. The merged unit is treated as a "new" adventurer with its own trust level. The number of unlocked Life Story pages and voice-lines can be used as a useful proxy. 
-		- (Under verification) If the high-trust fodder had a flaming-heart, then it should be immediately restored after defeating GWO 1 and 2 again on the merged unit. 
+		- Relic Powers 
+			- Equipped Relic Powers stack on the merged unit. 
+			- For example, if both the base and fodder have 4 different relic powers equipped, then the merged unit will have all 8. This results in Stage 4 penalties with an immediate hit to Fortitude and requires extraction, which can be expensive.
+			- Strongly recommended removing the Relic Powers you do not want before merging. 
+		- Class 
+			- The base unit's current class carries over to the merged unit. This means you may have to use a class handbook or class change request to switch back to your preferred class. Plan accordingly, especially with the new level 70 cap or if you are a newer player with limited class change items
+		- Trust
+			- (Under verification) If you use a high-trust unit (level 60-70) as fodder, then it seems as if some portion (60-70%) of its trust carries over to the merged unit. The merged unit is treated as a "new" adventurer with its own trust level. The number of unlocked Life Story pages and voice-lines can be used as a useful proxy. 
+			- (Under verification) If the high-trust fodder had a flaming-heart, then it should be immediately restored after defeating GWO 1 and 2 again on the merged unit. 
 
 
 ## Alternative Styles 
@@ -91,13 +91,13 @@
         - Standard Asha: HP and Poison Tolerance 
         - Witching Mage Asha: HP and Sleep Tolerance 
 
- === "How to Change Styles" 
+=== "How to Change Styles" 
 
-	1. Adventure’s Guild - Training Room.
-	2. Select the merged unit.
-	3. Select “Change Style” at the bottom of the list.
-	4. Select the preferred style.
-	5. Confirm.
+1. Adventure’s Guild - Training Room.
+2. Select the merged unit.
+3. Select “Change Style” at the bottom of the list.
+4. Select the preferred style.
+5. Confirm.
 
 === "Adventurers with Alternative Styles"  
 
