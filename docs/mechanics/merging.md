@@ -93,11 +93,11 @@
 
 === "How to Change Styles" 
 
-1. Adventure’s Guild - Training Room.
-2. Select the merged unit.
-3. Select “Change Style” at the bottom of the list.
-4. Select the preferred style.
-5. Confirm.
+	1. Adventure’s Guild - Training Room.
+	2. Select the merged unit.
+	3. Select “Change Style” at the bottom of the list.
+	4. Select the preferred style.
+	5. Confirm.
 	
 === "Adventurers with Alternative Styles"  
 
