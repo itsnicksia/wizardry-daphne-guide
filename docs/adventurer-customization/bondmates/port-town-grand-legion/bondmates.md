@@ -207,19 +207,19 @@
     ![](img/image_102.jpg)
 
 - Complete the [Murder Investigation Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#murder-investigation) from Rickert.
-- Marin has various locations that she can spawn on the map. However, only one location will drop her hairpin. If she doesn't spawn in the correct location, you need to cursed wheel. 
-- She will only drop the Hairpin in the checked location below (lower middle room).
+- Marin has various locations that she can spawn on the map. However, only one location will drop her hairpin. If she doesn't spawn in the correct location, you still need to complete the request before you can use the cursed wheel to reset and try again. 
+- She will only drop the Hairpin in the checked location below (bottom left room).
 
 ??? map "Marin's Location"
     ![](img/image_76.jpg)
 
-- After getting the hairpin, Cursed Wheel back and show the hairpin to Rickert once accepting the Murder Investigation request.  
-- Once you show Rickert the hairband she’ll leave, if you head to Lower Deck 2 -Lounge-, you’ll find her speaking with Marin. Go there to receive the bondmate.  
+- After getting the hairpin, Cursed Wheel back and show the hairpin to Rickert after accepting the Murder Investigation request.  
+- Once you show Rickert the hairpin she’ll leave, if you head to Lower Deck 2 -Lounge-, you’ll find her speaking with Marin. Go there to receive the bondmate.  
 
 ??? map "Final Location"
     ![](img/image_77.jpg)
 
-!!! note "To farm, Cursed Wheel to Arena Round 5 and repeat the request"
+!!! note "To farm, Cursed Wheel to Arena Round 5 and repeat the request."
 
 ## Return to the Capital
 
