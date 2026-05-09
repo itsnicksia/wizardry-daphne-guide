@@ -9,7 +9,7 @@
 === "Table Guide" 
 
     - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
-    - A blank space `&#8203;&#8203;`  means that we have no information on that entry.
+    - A blank space means that we have no information on that entry.
     - A `-` means that nothing is gained at that level. 
     - L refers to the level of the passive. L4 = Level 4. 
     - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
