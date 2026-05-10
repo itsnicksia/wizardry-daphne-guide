@@ -420,7 +420,7 @@ Tide-Bearer,Support,,Imbues the equipped katana with a water-type trait.,Damage 
 Tincture of Unwaning,Support,,"A medicinal compound blended from various herbs with fortifying effects, preventing 1 ally from stat debuffs 2 times for 3 turns.",The number of stat debuffs prevented/turns added increased based on skill level. Can also be used underwater.,38,Healer,Healer-specific,,
 Tradition in Shadows,Discipline,,"Continuously increases each stat, with Accuracy and Evasion increased further.",Accuracy and Evasion increased further based on skill level.,,,,Kiriha,
 Traitor to Gods,Discipline,,"Continuously increases each stat, Divine Power and Attack Power increased further.",Divine Power and Attack Power increased further based on skill level.,,,,Red Beard,
-Trap Disarm Master's Resolve,Passive,,Low chance of curing own Trapophobia when an ally successfully disarms a trap.,Probability increased based on skill level.,54,Thief,,,
+Trap Disarm Master's Resolve,Passive,,Low chance of curing own Trapophobia when an ally successfully disarms a trap.,Probability increased based on skill level.,54,Thief,Thief-specific,,
 Trap Traversal,Active,,"While exploring, nullifies discerned floor traps that deal damage until a certain distance has been traveled (some trapscannot be nullified).",Movement distance for which the effect persists increased based on skill level.,60,Ranger,,,
 Treasure Master,Passive,,Continuously increases the number of trap disarm attempts.,,63,Thief,Thief-specific,,
 Treasure Trap Detection Skill,Passive,True,Continuously increases Trap Detection rate.,Trap detection rate increased further based on skill level.,1,Thief,,Bakesh,
