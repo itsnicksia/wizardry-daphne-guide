@@ -93,24 +93,24 @@
 </div>
 
 ⚪ Base only ⚫ Fine only 🟢 Both  
+
 Note: Table's default organization is by Abss (location). 
 
-<div class="narrow-table" markdown>
 
 Farming Locations
 
 | Abyss          | Abyss   |         | Other           |                 |              |   |   |   |   |
 |----------------|---------|---------|-----------------|-----------------|--------------|---|---|---|---|
-| Flower Petal   | Route 7 | Route 8 | Alabaster       | Ancient Grounds | Den of Water |   |   |   |   |
-| Toadskin       | Route 7 | Route 8 | Alabaster       | Ancient Grounds |              |   |   |   |   |
-| Windrider      | Route 7 | Route 8 | Alabaster       | Ancient Grounds |              |   |   |   |   |
-| Bone-Adorned   | Zone 8  |         | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
-| Fur            | Zone 8  |         | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
-| Greenleaf      | Zone 8  |         | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
-| Sacred Tree    | Zone 2  | Zone 3  | Den of Wind     |                 |              |   |   |   |   |
-| Winged Insect  | Zone 2  | Zone 3  | Den of Wind     |                 |              |   |   |   |   |
+| Flower Petal   | R7      | R8      | Alabaster       | Ancient Grounds | Den of Water |   |   |   |   |
+| Toadskin       | R7      | R8      | Alabaster       | Ancient Grounds |              |   |   |   |   |
+| Windrider      | R7      | R8      | Alabaster       | Ancient Grounds |              |   |   |   |   |
+| Bone-Adorned   | Z8      |         | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
+| Fur            | Z8      |         | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
+| Greenleaf      | Z8      |         | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
+| Sacred Tree    | Z2      | Z3      | Den of Wind     |                 |              |   |   |   |   |
+| Winged Insect  | Z2      | Z3      | Den of Wind     |                 |              |   |   |   |   |
 | Insect Husk    | D?      |         | Den of Fire     |                 |              |   |   |   |   |
 | Oldwood Bark   | D?      |         | Den of Fire     |                 |              |   |   |   |   |
-| Budleaf        | BF?     | D?      | Den of Earth    |                 |              |   |   |   |   |
-| Small Feathers | BF?     | D?      | Den of Earth    |                 |              |   |   |   |   |
+| Budleaf        | BF?     | D1-3    | Den of Earth    |                 |              |   |   |   |   |
+| Small Feathers | BF?     | D1-3    | Den of Earth    |                 |              |   |   |   |   |
      
