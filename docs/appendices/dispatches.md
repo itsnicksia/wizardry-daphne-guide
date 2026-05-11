@@ -68,7 +68,7 @@
 
 ### Legendary Adventurer Personal Request Dispatches  
 
-After completing some Lenendary Adventurers Personal Requests, they have gotten special dispatches with very specific party requirements and the opportunity for some (extremely rare) drops of previous banner equipment. 
+!!! note "After completing some Lenendary Adventurers Personal Requests, they have gotten special dispatches with very specific party requirements and the opportunity for some (extremely rare) drops of previous banner equipment.  It has been observed that appearance of the junk type with a chance to produce the rare drops seems strongly dependent on the Power level of the party sent on the dispatch."
 
 | Dispatch Name                        | Reward    | Rare Drop | Stars    | Level | Duration | Dispatch Conditions | Availability                                         |  
 | ------------------------------------ | ---------| ----- |:--------:|:-----:|:---------| ------------------  | ---------------------------------------------------- |  
