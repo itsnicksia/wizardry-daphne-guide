@@ -21,37 +21,10 @@ WIP - Ignore please
 
 </div>
 
-     ⦾ = Base only
-     ⦿ = Fine only
-     ● = Both
+⚪ = Base only, 🟣 = Fine only, 🟢 = Both  
 
-◯ = Base
-⭘ = Base
-⦿ = Fine
-⬤ = Both
+⚪ = Base only
+🟣 = Fine only
+🟢 = Both  
 
-     ◯ = Base
-     ⦾ = Fine
-     ⦿ = Both
-     ⬤
-
-◉
-
-⚪
-⚫
-🟢
-🟣
-⬤
-🞚
-🞛
-⯌
-⯁
-◯
-◯ = Base
-⭘ = Base
-⬤ = Fine
-⬤
-★⏺
-star = both
-⦾
      
