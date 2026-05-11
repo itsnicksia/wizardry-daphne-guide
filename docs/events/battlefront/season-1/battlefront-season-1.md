@@ -189,8 +189,8 @@
 === "Basics"
 
     - If you are struggling there is a hidden set of Battlefront Rules. They are only available for the first 3 Leagues.  
-    - In the waiting room there is an old man, the Lurking Crow, who will normally ignore you. If you flee a battle and then speak with him he will offer his assistance. 
-    - For a fee he will offer an additional set of Battlefront Rules that will buff your team and debuff the enemy for the upcoming round. The assistance is only offered on a per round basis. The steps above must be repeated for each battle. 
+    - In the waiting room there is an old man, the Lurking Crow, who will normally ignore you. If you flee a battle and speak with the Blackiron Warden (dwarf) afterward he will suggest you speak with Crow.    
+    - Interact with Crow and you will get a new set of dialogue. For a fee he will offer an additional set of Battlefront Rules that will buff your team and debuff the enemy for the upcoming round. The assistance is only offered on a per round basis. The steps above must be repeated for each battle. 
     - See next tab for details. 
 
 === "Crow's Battlefront Rules" 
@@ -227,6 +227,7 @@
     === "Aspirant"
     
         - Afer fleeing, if you try to re-enter the arena, the Blackiron Warden will say you arent ready and should go talk to the Lurking Crow.  
+        - Note you must speak with the Blackiron Warden first, otherwise Crow will not offer you the buff. 
         - Talk Crow and select "I want to win". Pay the 2,000 gp fee. 
         - If you pay the fee, when you re-enter the arena the new Crow buffs will take effect right after the battle starts.  
         - After winning the battle, the crow resets to ignoring you again.  
