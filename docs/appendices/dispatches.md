@@ -49,26 +49,26 @@
 | Wolf Territory Investigation               | Junk and Exp |  4  |   65  | 20 hours | 3 humans, 3 beastfolk         | Slaying the White Wolves                          |
 | Church Vicinity Monster Extermination      | Junk and Exp |  4  |   67  | 20 hours | None                          | Truth of the Beautiful Ore                        |
 
-## Event Specific Dispatches
+## Event Specific Dispatches  
 
-### Den Dispatches
-
-| Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
-| ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
-| Den of Earth B1F Exploration         | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once |
-| Den of Fire B1F Exploration          | Ore            | 2     | 28    | 12 hours | 6 people            | Must complete Fire Den B1F once  |
-| Den of Wind B1F Exploration          | Ore            | 3     | 36    | 16 hours | 6 people            | Must complete Wind Den B1F once  |
-| Den of Light B1F Exploration         | Ore            | 4     | 50    | 16 hours | 6 people            | Must complete Light Den B1F once |
-
-### Event Dungeon Dispatches
+### Den Dispatches  
 
 | Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
 | ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
-| Securing the Cave of Malice Entrance | Event Currency and Junk | 3     | 30    | 20 hours | 6 people            | Complete the Cave of Malice Event once |
+| Den of Earth B1F Exploration         | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete [Earth Den B1F](../abyss-guides/dens/den-of-earth.md) once |
+| Den of Fire B1F Exploration          | Ore            | 2     | 28    | 12 hours | 6 people            | Must complete [Fire Den B1F](../abyss-guides/dens/den-of-fire.md) once  |
+| Den of Wind B1F Exploration          | Ore            | 3     | 36    | 16 hours | 6 people            | Must complete [Wind Den B1F](../abyss-guides/dens/den-of-wind.md) once  |
+| Den of Light B1F Exploration         | Ore            | 4     | 50    | 16 hours | 6 people            | Must complete [Light Den B1F](../abyss-guides/dens/den-of-light.md) once |
 
-### Legendary Adventurer Personal Request Dispatches
+### Event Dungeon Dispatches  
+
+| Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
+| ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
+| Securing the Cave of Malice Entrance | Event Currency and Junk | 3     | 30    | 20 hours | 6 people            | Complete the [Lamp of Malice Event](../events/lamp-of-malice/lamp-of-malice-text-guide.md) once |
+
+### Legendary Adventurer Personal Request Dispatches  
 
 | Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                                         |
 | ------------------------------------ | -------------- |:-----:|:-----:|:--------| ----------------------  | ---------------------------------------------------- |
-| Investigation of Legend: The King Trial | Junk, extremely rare Blade Cuisinart drop | 4     | ?    | X hours  | 6 people - Lanavaille + 4 Knights, no evil | Must complete Lanavaille's Personal Request |
-| Investigation of Legend: Something about house of Owen | Junk, extremely rare Sword of Slashing drop | 4     | ?    | X hours  | 6 people - Abenius + ... | Must complete Abenius's Personal Request |
+| Investigation of Legend: The King Trial | Junk, extremely rare Blade Cuisinart drop | 4     | ?    | X hours  | 6 people - Lanavaille + 4 Knights, no evil | Must complete [Lanavaille's Personal Request](../adventurers/legendary-adventurers/legendary-requests/lanavaille/lanavaille-request.md) |
+| Investigation of Legend: Something about house of Owen | Junk, extremely rare Sword of Slashing drop | 4     | ?    | X hours  | 6 people - Abenius + ... | Must complete [Abenius's Personal Request](../adventurers/legendary-adventurers/legendary-requests/abenius/abenius-request.md) |
