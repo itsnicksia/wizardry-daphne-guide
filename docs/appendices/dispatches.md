@@ -51,10 +51,24 @@
 
 ## Event Specific Dispatches
 
+### Den Dispatches
+
+| Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
+| ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
+| Den of Earth B1F Exploration         | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once |
+| Den of Fire B1F Exploration          | Ore            | 2     | 28    | 12 hours | 6 people            | Must complete Fire Den B1F once  |
+| Den of Wind B1F Exploration          | Ore            | 3     | 36    | 16 hours | 6 people            | Must complete Wind Den B1F once  |
+| Den of Light B1F Exploration         | Ore            | 4     | 50    | 16 hours | 6 people            | Must complete Light Den B1F once |
+
+### Event Dungeon Dispatches
+
+| Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
+| ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
+| Securing the Cave of Malice Entrance | Event Currency and Junk | 3     | 30    | 20 hours | 6 people            | Complete the Cave of Malice Event once |
+
+### Legendary Adventurer Personal Request Dispatches
+
 | Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                                         |
-| ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | ---------------------------------------------------- |
-| Den of Earth B1F Exploration         | Ore            | 2     | 22    | 8 hours  | 6 people            | Must complete Earth Den B1F once during event period |
-| Den of Fire B1F Exploration          | Ore            | 2     | 28    | 12 hours | 6 people            | Must complete Fire Den B1F once during event period  |
-| Den of Wind B1F Exploration          | Ore            | 3     | 36    | 16 hours | 6 people            | Must complete Wind Den B1F once during event period  |
-| Den of Light B1F Exploration         | Ore            | 4     | 50    | 16 hours | 6 people            | Must complete Light Den B1F once during event period |
-| Securing the Cave of Malice Entrance | Event Currency | 3     | 30    | 20 hours | 6 people            | Complete the Cave of Malice Event                    |
+| ------------------------------------ | -------------- |:-----:|:-----:|:--------| ----------------------  | ---------------------------------------------------- |
+| Investigation of Legend: The King Trial | Junk, extremely rare Blade Cuisinart drop | 4     | ?    | X hours  | 6 people - Lanavaille + 4 Knights, no evil | Must complete Lanavaille's Personal Request |
+| Investigation of Legend: Something about house of Owen | Junk, extremely rare Sword of Slashing drop | 4     | ?    | X hours  | 6 people - Abenius + ... | Must complete Abenius's Personal Request |
