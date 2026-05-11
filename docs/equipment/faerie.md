@@ -116,19 +116,19 @@ Item Shop
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Set Name       | Abyss      |              | Other           |                 |              |   |   |   |   |
-    |----------------|------------|--------------|-----------------|-----------------|--------------|---|---|---|---|
-    | Flower Petal   | Route 7    | Route 8      | Alabaster       | Ancient Grounds | Den of Water |   |   |   |   |
-    | Toadskin       | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   |   |   |   |
-    | Windrider      | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   |   |   |   |
-    | Bone-Adorned   | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
-    | Fur            | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
-    | Greenleaf      | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   |   |   |   |
-    | Sacred Tree    | Zone 2     | Zone 3       | Den of Wind     |                 |              |   |   |   |   |
-    | Winged Insect  | Zone 2     | Zone 3       | Den of Wind     |                 |              |   |   |   |   |
-    | Insect Husk    | District ? |              | Den of Fire     |                 |              |   |   |   |   |
-    | Oldwood Bark   | District ? |              | Den of Fire     |                 |              |   |   |   |   |
-    | Budleaf        | BF ?       | District 1-3 | Den of Earth    |                 |              |   |   |   |   |
-    | Small Feathers | BF ?       | District 1-3 | Den of Earth    |                 |              |   |   |   |   |
+    | Set Name       | Abyss      |              | Other           |                 |              |  
+    |----------------|------------|--------------|-----------------|-----------------|--------------|
+    | Flower Petal   | Route 7    | Route 8      | Alabaster       | Ancient Grounds | Den of Water |   
+    | Toadskin       | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   
+    | Windrider      | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   
+    | Bone-Adorned   | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
+    | Fur            | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
+    | Greenleaf      | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
+    | Sacred Tree    | Zone 2     | Zone 3       | Den of Wind     |                 |              |   
+    | Winged Insect  | Zone 2     | Zone 3       | Den of Wind     |                 |              |   
+    | Insect Husk    | District ? |              | Den of Fire     |                 |              |   
+    | Oldwood Bark   | District ? |              | Den of Fire     |                 |              |   
+    | Budleaf        | BF ?       | District 1-3 | Den of Earth    |                 |              |   
+    | Small Feathers | BF ?       | District 1-3 | Den of Earth    |                 |              |   
     
     </div>
