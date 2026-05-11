@@ -2,7 +2,7 @@
 
 ### Unlock Condition
 
-- Step foot into Route 1 of Abyss 4, Deepsnow Hinterlands of Isberg.
+- Reach the first Harken in Abyss 4, Deepsnow Hinterlands of Isberg.
 
 ### Overview
 
