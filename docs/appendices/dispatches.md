@@ -2,6 +2,8 @@
 
 ## The Beginning Abyss
 
+<div class="nofilter-table nosort-table" markdown>
+
 | Dispatch Name                               | Reward       | Stars | Level | Duration | Dispatch Conditions   | Wheel Availability |
 | ------------------------------------------  | ------------ |:----:|:-----:|:--------| --------------------------------------- | ------------------ |
 | Beginning Abyss B1F Exploration             | Junk         | 1     | 1     | 4 hours  | 1 person                                |                    |
@@ -49,9 +51,13 @@
 | Wolf Territory Investigation               | Junk and Exp |  4  |   65  | 20 hours | 3 humans, 3 beastfolk         | Slaying the White Wolves                          |
 | Church Vicinity Monster Extermination      | Junk and Exp |  4  |   67  | 20 hours | None                          | Truth of the Beautiful Ore                        |
 
+</div>
+
 ## Event Specific Dispatches  
 
 ### Den Dispatches  
+
+<div class="nofilter-table nosort-table" markdown>
 
 | Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
 | ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
@@ -60,17 +66,27 @@
 | Den of Wind B1F Exploration          | Ore            | 3     | 36    | 16 hours | 6 people            | Must complete [Wind Den B1F](../abyss-guides/dens/den-of-wind.md) once  |
 | Den of Light B1F Exploration         | Ore            | 4     | 50    | 16 hours | 6 people            | Must complete [Light Den B1F](../abyss-guides/dens/den-of-light.md) once |
 
+</div>
+
 ### Event Dungeon Dispatches  
 
+<div class="nofilter-table nosort-table" markdown>
+  
 | Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
 | ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
 | Securing the Cave of Malice Entrance | Event Currency and Junk | 3     | 30    | 20 hours | 6 people            | Complete the [Lamp of Malice Event](../events/lamp-of-malice/lamp-of-malice-text-guide.md) once |
+
+</div>
 
 ### Legendary Adventurer Personal Request Dispatches  
 
 !!! note "After completing some Lenendary Adventurers Personal Requests, they have gotten special dispatches with very specific party requirements and the opportunity for some (extremely rare) drops of previous banner equipment.  It has been observed that appearance of the junk type with a chance to produce the rare drops seems strongly dependent on the Power level of the party sent on the dispatch."
 
+<div class="nofilter-table nosort-table narrow-table" markdown>
+  
 | Dispatch Name                        | Reward    | Rare Drop | Stars    | Level | Duration | Dispatch Conditions | Availability                                         |  
 | ------------------------------------ | ---------| ----- |:--------:|:-----:|:---------| ------------------  | ---------------------------------------------------- |  
 | Investigation of Legend: The King Trial | Steel and Ebon Grade Junk | Blade Cuisinart | 5    | 40    | 20 hours  | 5 or more good Knights<br> 3 or more fire-type<br>Good or Neutral Only<br>6 level 40 or higher<br>Must include Lanavaille | Must complete [Lanavaille's Personal Request](../adventurers/legendary-adventurers/legendary-requests/lanavaille/lanavaille-request.md) |  
 | Investigation of Legend: Temple of the Old Owen Lands | Steel and Ebon Grade Junk, including Aurora element gear| Sword of Slashing, Mace of Pounding, Tanto of Slicing | 5     | 40    | 20 hours  | 4 or more Light Type<br>2 or more Humans<br>Good or Neutral Only<br>6 level 40 or higher<br>Must include Abenius | Must complete [Abenius's Personal Request](../adventurers/legendary-adventurers/legendary-requests/abenius/abenius-request.md) |  
+
+</div>
