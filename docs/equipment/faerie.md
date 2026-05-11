@@ -1,5 +1,3 @@
-<img width="542" height="393" alt="image" src="https://github.com/user-attachments/assets/d18b04d2-9fb4-4093-9cdb-70a9445969dc" /># Faerie Equipment
-
 ## Overview
 
 ### Basics
@@ -75,13 +73,13 @@
 
 <div class="narrow-table" markdown>
     
-|Abyss | Set Name       | Set Skill        | Effect           | Rank &emsp; &emsp; | 1H Rod | Shield | Head | Body | Glove | Shoe | Acc | 
+|Abyss | Set Name       | Set Skill        | Effect           | Rank  &emsp; | 1H Rod | Shield | Head | Body | Glove | Shoe | Acc | 
 |:----:|:---------------|:-----------------|:-----------------|:-------|:------:|:------:|:----:|:----:|:-----:|:----:|:---:|
 | A4   | Flower Petal   | Compassion       | Heal Boost       | Silver |🟣|   |🟣|🟣|🟣|   |🟣|
 | A4   | Windrider      | Hawk's Eye       | Acc-Eva-Luck     | Silver |   |🟢|🟣|🟢|🟢|   |   |
 | A4   | Toadskin       | Warding          | Res-Luck         | Silver |  |   |   |🟣|⚪|🟢|🟢|
 | A3   | Greenleaf      | Motivation       | MP-SP-Luck       | Ebon   |   |🟢|🟣|🟢|🟢|   |   | 
-| A3   | Fur            | Perserverance    | Damage Reduction &emsp; | Ebon   |🟣|   |⚪|   |🟢|  |🟢|
+| A3   | Fur            | Perserverance    | Dmg Reduction &emsp; | Ebon   |🟣|   |⚪|   |🟢|  |🟢|
 | A3   | Bone-Adorned   | Soul-Soothing &emsp; | Undead Slayer    | Ebon   |🟣|   |⚪|⚪|🟣|   |🟢|
 | A3*  | Winged Insect  | Stoneskin        | Acc-Eva-Luck     | Steel  |   |   |🟣|🟢|🟢|🟢|   |
 | A3*  | Sacred Tree    | Inspiration      | Div-Mag-Luck     | Steel  |🟣|   |🟢|   |   |🟢|🟢|
