@@ -1,12 +1,38 @@
 ## Basics
 
+How to unlock
+- Must pull Anemone
+- Must enter Royal Capital and watch short cutscene
+- Do not need to speak with the Tavern expert elf
+- Item shop will start selling gear
 
+Capricious Pixie 
+- Appears in each Abyss and side dungeons
+- Only joins specific enemy icon (small, big, slime, flying, bear) and composition
+- Each enemy icon can roll multiple enemy comp variations
+- Standard, Earth, Fire, Air, Water, Light, and Dark varieties (compendium # x-y)
+- % chance to join, estimated at roughly 3-4%
+- They are extremely rare!
 
 - Access to Faerie-exclusive gear, but requires having pulled Anemone. She does not need to be registered or in your party 
 - Faeries can equip normal gear, but all inheret stats are fixed at 0 only sub-stats (blessings) apply 
 - Restricted to 1H rods and Cloth (?) gear 
 - Acccessory passives work properly
 
+Fair Junk
+- 2 Groups
+- Group 1: 30%
+- Group 2: 70%
+- Group 1 is always base gear
+- Group 2 is always Fine
+
+Exceptions
+- Flower Petal is unique in that it is the only set without a base version
+- Bone-Adorned (no Fine hat)
+
+Item Shop
+- No set bonuses?
+- 
 
 ### Set Skill Effects
 
