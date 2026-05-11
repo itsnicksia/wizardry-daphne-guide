@@ -1,9 +1,10 @@
-## Overview
-
-### Basics
+## Basics
 
 === "Basics" 
-    - x
+    - Access to Faerie-exclusive gear, but requires having pulled Anemone. She does not need to be registered or in your party 
+    - Faeries can equip normal gear, but all inheret stats are fixed at 0 only sub-stats (blessings) apply 
+    - Restricted to 1H rods and Cloth (?) gear 
+    - Acccessory passives work properly
     - x
 
 === "Set Skills"
