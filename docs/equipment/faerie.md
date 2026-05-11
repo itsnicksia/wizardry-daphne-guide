@@ -1,6 +1,79 @@
 # Faerie Equipment
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+## Overview
+
+### Basics
+
+=== "Basics" 
+    - x
+    - x
+
+=== "Set Skills"
+    - x
+    - x
+    
+=== "Locations"
+    - x
+    - x
+
+=== "Farming" 
+    - x
+    - x
+
+### Set Skill Effects
+
+=== "Compassion"
+
+    <div align="center">
+    ![](img/compassion.png)
+    </div>
+
+=== "Hawk's Eye"
+
+    <div align="center">
+    ![](img/hawks-eye.png)
+    </div>
+
+=== "Inspiration"
+
+    <div align="center">
+    ![](img/inspiration.png)
+    </div>
+
+=== "Motivation"
+
+    <div align="center">
+    ![](img/motivation.png)
+    </div>
+
+=== "Perserverance" 
+
+    <div align="center">
+    ![](img/perserverance.png)
+    </div>
+
+=== "Stoneskin"
+
+    <div align="center">
+    ![](img/stone-skin.png)
+    </div>
+
+=== "Soul-Soothing"
+
+    <div align="center">
+    ![](img/soul-soothing.png)
+    </div>
+
+=== "Warding"
+
+    <div align="center">
+    ![](img/warding.png)
+    </div>
+
+
+### Summary Table
+
+<div class="narrow-table" markdown>
     
 |Abyss| Set Name       | Set Skill        | Effect           | Rank &emsp; &emsp; | 1H Rod | Shield | Head | Body | Glove | Shoe | Acc | 
 |:----|:---------------|:-----------------|:-----------------|:-------|:------:|:------:|:----:|:----:|:-----:|:----:|:---:|
