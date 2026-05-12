@@ -247,9 +247,9 @@
 
 ## Other
 
-### "Way of..." 
+### "Way of the..." 
 
-=== "Way of the Warrior"
+=== "Warrior"
 
     === "Skill Levels" 
 
@@ -266,11 +266,11 @@
 
         - Damage modifier for basic attacks and skills. 
         - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
-        - Inhherit from:
+        - Inherit from:
              - <span style="color: DarkOrange">Gandolfo P</span>
              - <span style="color: DarkOrange">Ophelia P</span>
 
-=== "Way of the Thief"
+=== "Thief"
 
     === "Skill Levels" 
 
@@ -279,7 +279,7 @@
         |                          | L0    | L1    | L2    | L3    | L4    | L5 | L6 | L7 | 
         |:-------------------------|-------|-------|-------|-------|-------|----|----|----|
         | Total - SUR Modifier     | 1.75x | 1.95x | 2.05x | 2.15x | 2.20x |    |    |    |
-        | Per Level - Sur Modifier &emsp; &emsp; &emsp;| -     | 0.20x | 0.10x | 0.10x | 0.05x |    |    |    |
+        | Per Level - SUR Modifier &emsp; &emsp; &emsp;| -     | 0.20x | 0.10x | 0.10x | 0.05x |    |    |    |
     
         </div>
 
@@ -287,17 +287,16 @@
 
         - SUR Damage = Damage x SUR Modifier 
         - Standard SUR damage modifier is 1.75x at L0 
-        - No way to inherit to non-Thiefs
+        - No way to inherit to non-Thieves
         - No way to increase the passive's levels outside of codexes
 
-=== "Way of the Knight" 
+=== "Knight" 
 
     === "Skill Levels" 
 
     === "Technical Notes"
 
-
-=== "Way of the Priest"
+=== "Priest"
 
     === "Skill Levels" 
 
@@ -305,9 +304,9 @@
         
         |                           | L1  | L2     | L3     | L4     | L5     | L6     | L7     | 
         |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
-        | Total - MP% Reduction     | 10% | 14.14% | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
-        | Per Level - MP% Reduction &emsp; &emsp; &emsp; | 10% | 4.14%  | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
-    
+        | Total - MP% Reduction     | 10% | 14.14% | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
+        | Per Level - MP% Reduction  &emsp; &emsp; &emsp;  | 10% | 4.14%  | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
+
         </div>
 
         - Flat 10% reduction at Level 1. 
@@ -330,7 +329,7 @@
             - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
             - The Way of the Mage uses the exact same formula. 
 
-=== "Way of the Mage" 
+=== "Mage" 
 
     === "Skill Levels" 
 
