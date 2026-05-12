@@ -1,6 +1,7 @@
 ## Basics
 
 !!! "How to Unlock"
+
     - Faerie-exclusive equipment only unlocks after Anemone has been pulled. She does not need to be registered or in the active party.
     - Must enter the Royal Capital and watch a brief cutscene between two Adventurers. 
     - Do not need to speak with the Guild elf expert. 
