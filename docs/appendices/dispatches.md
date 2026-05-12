@@ -50,6 +50,7 @@
 | Errand to Rockhome Village                 | Gold         |  3  |   62  | 20 hours | 3 people, 3 fire-type         | Rockhome Village Major Harken                     |
 | Wolf Territory Investigation               | Junk and Exp |  4  |   65  | 20 hours | 3 humans, 3 beastfolk         | Slaying the White Wolves                          |
 | Church Vicinity Monster Extermination      | Junk and Exp |  4  |   67  | 20 hours | None                          | Truth of the Beautiful Ore                        |
+| Large-Scale Snow Beastfolk Eradication     | Junk and Exp |  5  |   70  | 20 hours | 2 Mages. No Evil              | Truth of the Beautiful Ore node + "completed" (even failed counts) Salted Pork Recovery |
 
 </div>
 
