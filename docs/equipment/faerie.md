@@ -93,18 +93,18 @@ Item Shop
         
     |Abyss | Set Name       | Set Skill        | Effect           | Rank  &emsp; | 1H Rod | Shield | Head | Body | Glove | Shoe | Acc | 
     |:----:|:---------------|:-----------------|:-----------------|:-------|:------:|:------:|:----:|:----:|:-----:|:----:|:---:|
-    | A4   | Flower Petal   | Compassion       | Heal Boost       | Silver |⚫|   |⚫|⚫|⚫|   |⚫|
-    | A4   | Toadskin       | Warding          | Res-Luck         | Silver |  |   |   |⚫|⚪|🟢|🟢|
-    | A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck     | Silver |   |🟢|⚫|🟢|🟢|   |   |
-    | A3   | Bone-Adorned   | Soul-Soothing    | Undead Slayer    | Ebon   |⚫|   |⚪|⚪|⚫|   |🟢|
-    | A3   | Fur            | Perserverance    | Dmg Reduction    | Ebon   |⚫|   |⚪|   |🟢|  |🟢|
-    | A3   | Greenleaf      | Motivation       | MP-SP-Luck       | Ebon   |   |🟢|⚫|🟢|🟢|   |   | 
-    | A3   | Sacred Tree    | Inspiration      | Div-Mag-Luck     | Steel  |⚫|   |🟢|   |   |🟢|🟢|
-    | A3   | Winged Insect  | Stoneskin        | Acc-Eva-Luck     | Steel  |   |   |⚫|🟢|🟢|🟢|   |
-    | A2   | Insect Husk    | Stoneskin        | Acc-Eva-Luck     | Iron   |   |   |   |🟢|🟢|🟢|   |
-    | A2   | Oldwood Bark   | Inspiration      | Div-Mag-Luck     | Iron   |⚫|   |🟢|   |  |🟢|🟢|
-    | A1-2 | Budleaf        | Motivation       | MP-SP-Luck       | Bronze |   |🟢|⚫|🟢|🟢|   |   | 
-    | A1-2 | Small Feathers | Hawk's Eye       | Acc-Eva-Luck     | Bronze |   |🟢|⚫|🟢|🟢|   |   |
+    | A4   | Flower Petal   | Compassion       | Heal Boost           | Silver |⚫|   |⚫|⚫|⚫|   |⚫|
+    | A4   | Toadskin       | Warding          | Res - Luck           | Silver |  |   |   |⚫|⚪|🟢|🟢|
+    | A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp;     | Silver |   |🟢|⚫|🟢|🟢|   |   |
+    | A3   | Bone-Adorned   | Soul-Soothing  &emsp;   | Undead Slayer        | Ebon   |⚫|   |⚪|⚪|⚫|   |🟢|
+    | A3   | Fur            | Perserverance    | Dmg Reduction        | Ebon   |⚫|   |⚪|   |🟢|  |🟢|
+    | A3   | Greenleaf      | Motivation       | MP - SP - Luck       | Ebon   |   |🟢|⚫|🟢|🟢|   |   | 
+    | A3   | Sacred Tree    | Inspiration      | Div - Mag - Luck     | Steel  |⚫|   |🟢|   |   |🟢|🟢|
+    | A3   | Winged Insect  | Stoneskin        | Acc - Eva - Luck     | Steel  |   |   |⚫|🟢|🟢|🟢|   |
+    | A2   | Insect Husk    | Stoneskin        | Acc - Eva - Luck     | Iron   |   |   |   |🟢|🟢|🟢|   |
+    | A2   | Oldwood Bark   | Inspiration      | Div - Mag - Luck     | Iron   |⚫|   |🟢|   |  |🟢|🟢|
+    | A1-2 | Budleaf        | Motivation       | MP - SP - Luck       | Bronze |   |🟢|⚫|🟢|🟢|   |   | 
+    | A1-2 | Small Feathers &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|⚫|🟢|🟢|   |   |
     
     </div>
 
@@ -116,19 +116,19 @@ Item Shop
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Set Name       | Abyss      |              | Other           |                 |              |  
-    |----------------|------------|--------------|-----------------|-----------------|--------------|
-    | Flower Petal   | Route 7    | Route 8      | Alabaster       | Ancient Grounds | Den of Water |   
-    | Toadskin       | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   
-    | Windrider      | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   
-    | Bone-Adorned   | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
-    | Fur            | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
-    | Greenleaf      | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
-    | Sacred Tree    | Zone 2     | Zone 3       | Den of Wind     |                 |              |   
-    | Winged Insect  | Zone 2     | Zone 3       | Den of Wind     |                 |              |   
-    | Insect Husk    | District ? |              | Den of Fire     |                 |              |   
-    | Oldwood Bark   | District ? |              | Den of Fire     |                 |              |   
-    | Budleaf        | BF ?       | District 1-3 | Den of Earth    |                 |              |   
-    | Small Feathers | BF ?       | District 1-3 | Den of Earth    |                 |              |   
+    | Set Name       | Abyss | Floor      |              | Other           |                 |              |  
+    |----------------|-------|------------|---------- ---|-----------------|-----------------|--------------|
+    | Flower Petal   | A4    | Route 7    | Route 8      | Alabaster       | Ancient Grounds  &emsp; | Den of Water  &emsp; |   
+    | Toadskin       | A4    | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   
+    | Windrider      | A4    | Route 7    | Route 8      | Alabaster       | Ancient Grounds |              |   
+    | Bone-Adorned   | A3    | Zone 8     | Zone 9       | Cave of Flowers  &emsp; | Den of Light    | Catacomb     |   
+    | Fur            | A3    | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
+    | Greenleaf      | A3    | Zone 8     | Zone 9       | Cave of Flowers | Den of Light    | Catacomb     |   
+    | Sacred Tree    | A3    | Zone 2     | Zone 3       | Den of Wind     |                 |              |   
+    | Winged Insect  | A3    | Zone 2     | Zone 3       | Den of Wind     |                 |              |   
+    | Insect Husk    | A3    | District ? |              | Den of Fire     |                 |              |   
+    | Oldwood Bark   | A3    | District ?  &emsp; |              | Den of Fire     |                 |              |   
+    | Budleaf        | A1-2  | Floor ?    | District 1-3  &emsp; | Den of Earth    |                 |              |   
+    | Small Feathers  &emsp; | A1-2  &emsp;  | Floor ?    | District 1-3 | Den of Earth    |                 |              |   
     
     </div>
