@@ -1,10 +1,13 @@
 ## Basics
 
-How to unlock
-- Must pull Anemone
-- Must enter Royal Capital and watch short cutscene
-- Do not need to speak with the Tavern expert elf
-- Item shop will start selling gear
+!!! "How to Unlock"
+    - Faerie-exclusive equipment only unlocks after Anemone has been pulled. She does not need to be registered or in the active party.
+    - Must enter the Royal Capital and watch a brief cutscene between two Adventurers. 
+    - Do not need to speak with the Guild elf expert. 
+    - The Item Shop in each city will now sell basic gear of various tiers. None of these pieces come with Set Effects. 
+
+
+
 
 Capricious Pixie 
 - Appears in each Abyss and side dungeons
