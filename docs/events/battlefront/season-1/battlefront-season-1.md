@@ -21,6 +21,7 @@
         - We -strongly- recommend:  
             - Complete at least the Special and Damage: One-Hit achievements in either the Aspirant or Adept Leagues.  
             - Wait to clear the Elite League until after you have finished all of the Hero's Reward Missions, which requires 6,500 points.  
+        - There is a 1,820 point margin before needing to touch the Hero League. This is helpful if you cannot clear Elite, fulfill certain requirements, or miss the weekly points. 
     - Doppel Quicksilver  
         - For F2P the 4th Doppel Quicksilver is locked behind clearing the Hero League. This means a maximum of 75 Mastery (Discipline) experience.  
         - Paid pass holders can get up to 5 prior to the Hero League at 1,500 and 3,000 points, respectively.  
@@ -303,10 +304,13 @@
     
 ### Basics  
 
-- To receive all the achievement rewards requires a total of 6,500 points.  
-- There is a maximum of 9,420 total points from all sources. It is possible to clear the entire Mission set before even leaving Aspirant league.  
-- Mission achievements, progress, and rewards can only be accessed while in the arena.  
-- Many mission achievements that don't specify winning can be completed even if you flee or lose the battles.  
+!!! warning "Summary" 
+
+    - It requires a total of 6,500 point to clear the Hero's Reward Mission.  
+    - There is a maximum of 9,120 total points from all sources. It is possible to clear the entire Mission set before even leaving Aspirant League.  
+    - Excluding the Hero League, you have a 1,820 point buffer in case you are unable to complete certain achievements or miss points from the Weekly achievements.
+    - Mission achievements, progress, and rewards can only be accessed while in the arena.  
+    - Many mission achievements that don't specify winning can be completed even if you flee or lose the battles.  
 
 ### Points by Category 
 
@@ -321,7 +325,7 @@
     | Adept                                | 400    | 200   | 600   | 1,300      |  
     | Elite                                | 400    | 200   | 600   | 1,900      | 
     | Hero                                 | 400    | 200   | 600   | 2,500      | 
-    | Hero - no deaths                     |        |       | 200   | 2,700      | 
+    | Hero - No Deaths                     |        |       | 200   | 2,700      | 
 
     </div>
 
@@ -341,13 +345,13 @@
     | Knight                               | 100 | 100 | 100 |     |     | 300   |   
     | Mage                                 | 100 | 100 | 100 |     |     | 300   | 
     |                                      | --- | --- | --- | --- | --- | ---   |     
-    | Total                                | 500 | 500 | 500 | 300 | 600 | 2,700 |      
+    | Total                                | 500 | 500 | 500 | 300 | 600 | 2,400 |      
 
     </div>
 
     - These achievements refer to the "Win using at least X adventurers". The number of required members are the column headings (1-5). 
     - MC does not count toward the Dark units achievement. 
-    - The Special achievements are worth a total of 2,700 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all Mission rewards. 
+    - The Special achievements are worth a total of 2,400 points. If you cannot make progress on the Hero League this will be one of your primary sources for reaching 6,500 points for all Mission rewards. 
 
 === "Damage: One-Hit" 
 
@@ -373,7 +377,7 @@
     - Each achievement is worth 100 points for a total of 1,200 points. 
     - Multi-hit weapons and attacks such as Hue count as "one-hit". 
     - Even if you flee or lose, the damage done in a round is still counted.
-    - Strongly recommend doing the 10,000 damage achievement on a lower League. Sleep or freeze a weak enemy and hit them with your strongest skill using a Dark Human equipped with a 2H sword. 
+    - Strongly recommend doing the 10,000 damage achievement on a lower League. Have the Lurking Crow buff active, sleep or freeze a weak enemy, and hit them with your strongest skill using a Dark Human equipped with a 2H sword. 
 
 === "Damage: Total" 
 
@@ -396,7 +400,7 @@
 
     </div>
 
-    - Each achievement is worth 100 points for a total of 1,100 points. 
+    - Each achievement is worth 100 points for a total of 1,200 points. 
     - Even if you flee or lose, the damage done in a round is still counted. 
     - Strongly recommend farming the total damage achievements in the Aspirant and Adept Leagues depending on your Abyss progress and account power.  Stacking high power attacks like you would use for the One-Hit missions will accumulate total damage quickly.
 
@@ -416,7 +420,7 @@
     </div>
 
     - There are 8-9 weekly missions during the season (depending on how partial weeks are handled. Following calculations will assume 9).  
-    - Each achievement is worth 30 points for a total of 180 points per week (total: 1,620 points over 9 weeks).  
+    - Each achievement is worth 30 points for a total of 180 points per week (Total: 1,620 points over 9 weeks).  
     - Note: We do not know if the requirements will change week-to-week or if these will stay constant.  
 
 === "All"
@@ -431,17 +435,18 @@
     | &emsp; Adept                       | 600   | 
     | &emsp; Elite                       | 600   | 
     | &emsp; Hero                        | 600   | 
-    | &emsp; Hero - no deaths            | 200   |     
-    | Special                            | 2,700 |     
+    | &emsp; Hero - No Deaths            | 200   |     
+    | Special                            | 2,400 |     
     | Damage: One-Hit                    | 1,200 |
     | Damage: Total                      | 1,200 |    
     | Weekly                             | 1,620 | 
     |                                    | ----- |
     | Grand Total                        | 9,420 |    
 
-    - There are a total of 9,420 points available. Reduce that number by 800 if Hero is unclearable for you and the net result is 8,620. 
-    - That leaves a buffer of 2,120 points (8,620 - 6,500), giving quite some flexibility on what achievements you can ignore and/or be unable to fulfill if you're stuck in a high-difficulty League. 
-    - Note: 6,560 points can be earned by Registering, completing all Special, Damage:One-Hit, Damage:Total, and 7 Weekly Missions, and only beating the first Aspirant battle.  
+    - There are a total of 9,120 points available. Reduce that number by 800 if Hero is unclearable for you and the net result is 8,320. 
+    - That leaves a buffer of 1,820 points (8,320 - 6,500), giving quite some flexibility on what achievements you can ignore and/or be unable to fulfill if you're stuck in a high-difficulty League. 
+    - Note: 
+        - 6,560 points can be earned by Registering, completing all Special, Damage: One-Hit, Damage: Total, and 7 Weekly Missions, and only beating the first Aspirant battle.  
         - So even if the event cannot be completed, _all Event rewards except the Hero's Sigil are achievable_ by anyone eligible to enter the Arena.
 
     </div>
