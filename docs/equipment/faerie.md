@@ -7,18 +7,23 @@
     - Do not need to speak with the Guild elf expert. 
     - The Item Shop in each city will now sell basic gear of various tiers. None of these pieces come with Set Effects. 
 
-Capricious Pixie 
+## Capricious Pixie 
 
 === "Basics" 
 
-    - The Capricious Pixie is the only enemy that can drop Fairy junk. They were added as part of the [date] update, which introduced the Faerie race and new Healer class.   
-    - They are an extremely rare enemy encounter and only appear in certain locations. See Mechanics for details.
-    - 
-    - Compendium entries 194-200. There is a normal Capricious Pixie and one version for each of the 6 Types (elements). 
+    - The -only- enemy that can drop a chest with Fairy junk after a battle. It does -not- drop from normal Pixies. They are the singular source for Faerie equipment outside the Item Shop.  
+    - Extremely rare encounter. Rates are similar to a Ninja, Mimic, or Relic monster, estimated at 1-2%. 
+    - Guaranteed to drop at least 1x basic Fairy junk. The maximum is 2x basic and 1x rare (Unusual) junk. The amount of junk appears to be purely RNG-based.
+    - Can appear in every Abyss and elemental Den, and a handful of side dungeons.
+    - 7 different varieties. A base version and one for each of the 6 different Types (elements). Compendium entries are No. 194-200. 
+    - Do not appear to have higher HP or unique attacks compared to normal Pixies.  
 
 === "Mechanics" 
 
     - 
+
+
+Faerie equipment is not part of the normal junk pool and does not dilute your chances at rolling other types of gear.     
 
 Capricious Pixie 
 - Appears in each Abyss and side dungeons
