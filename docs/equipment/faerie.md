@@ -1,4 +1,8 @@
+# Faerie Equipment
+
 ## Basics
+
+### How to Unlock 
 
 !!! warning "How to Unlock"
 
@@ -7,7 +11,7 @@
     - Do not need to speak with the Guild elf expert. 
     - The Item Shop in each city will now sell basic gear of various tiers. None of these pieces come with Set Effects. 
 
-## Faerie Equipment
+### Non-Fine (?) versus Fine 
 
 - Equipment penalties 
 - Sets
@@ -15,7 +19,6 @@
 - Set effects
     - How they work
  
-
 ### Sets 
 
 - x
