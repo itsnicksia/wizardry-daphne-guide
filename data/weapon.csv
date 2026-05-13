@@ -396,7 +396,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 50,1H_Staff!A50,1H_Staff,80,Holy Staff of the Millenial Tree,Steel,1,10500,420,16,32,32,0,0,0,0,0,2,16,30,46,46,0,0,0,0,0,2,18,43,59,59,0,0,0,0,0,2,19,57,73,73,0,0,0,0,0,2,20,71,87,87,0,0,0,0,0,2,21,
 56,1H_Staff!A56,1H_Staff,,Fine Sacred Tree Baton,Steel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Inspiration"
 62,1H_Staff!A62,1H_Staff,53,Arcane Rod,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,
-68,1H_Staff!A68,1H_Staff,,Arcane Wand,Ebonsteel,1,94500,,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie Exclusive
+68,1H_Staff!A68,1H_Staff,247,Arcane Wand,Ebonsteel,1,94500,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie Exclusive
 74,1H_Staff!A74,1H_Staff,,Fine Bone Baton,Ebonsteel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie Exclusive, Gift of Soul-Soothing"
 80,1H_Staff!A80,1H_Staff,,Fine Tail Baton,Ebonsteel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie Exclusive, Promise of Perseverence"
 86,1H_Staff!A86,1H_Staff,107,Staff of Weakness,Ebonsteel,1,,875,11,51,51,-1,-1,-1,0,0,3,0,27,67,67,-1,-1,-1,0,0,3,0,43,83,83,-1,-1,-1,0,0,3,0,59,99,99,-1,-1,-1,0,0,3,0,76,116,116,-1,-1,-1,0,0,3,0,Attack Power Decrease

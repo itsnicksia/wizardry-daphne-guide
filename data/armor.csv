@@ -49,7 +49,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 284,Head!A284,Head,3178,Headcloth of the Light Spirit,Ebonsteel,Cloth,,850,0,0,0,7,0,0,0,0,5,5,0,0,0,12,0,0,0,0,5,9,0,0,0,16,0,0,0,0,5,14,0,0,0,21,0,0,0,0,5,18,0,0,0,25,0,0,0,0,5,23,Dark Type Reduction
 290,Head!A290,Head,3184,Umbral Headcloth,Ebonsteel,Cloth,,850,0,0,0,7,0,0,0,0,5,5,0,0,0,12,0,0,0,0,5,9,0,0,0,16,0,0,0,0,5,14,0,0,0,21,0,0,0,0,5,18,0,0,0,25,0,0,0,0,5,23,Light Type Reduction
 296,Head!A296,Head,3202,Hound Mask,Ebonsteel,Cloth,,,0,0,0,7,0,0,0,0,5,5,0,0,0,12,0,0,0,0,5,9,0,0,0,16,0,0,0,0,5,14,0,0,0,21,0,0,0,0,5,18,0,0,0,25,0,0,0,0,5,23,"Disarm Trap +5/8/11/12/15,  "
-302,Head!A302,Head,,Petite Veil Hat,Ebonsteel,Cloth,91800,,0,0,0,8,0,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive,  "
+302,Head!A302,Head,3279,Petite Veil Hat,Ebonsteel,Cloth,91800,680,0,0,0,8,0,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive,  "
 308,Head!A308,Head,,Bone-Adorned Hat,Ebonsteel,Cloth,,,0,0,0,8,0,0,0,0,0,5,0,0,0,13,0,0,0,0,0,9,0,0,0,17,0,0,0,0,0,14,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Gift of Soul-Soothing,  "
 314,Head!A314,Head,,Fur Hat,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Perseverence,  "
 320,Head!A320,Head,,Fine Greenleaf Hat,Ebonsteel,Cloth,,,0,0,0,8,0,0,0,0,0,5,0,0,0,13,0,0,0,0,0,9,0,0,0,17,0,0,0,0,0,14,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Motivation,  "
@@ -142,7 +142,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 134,Shield!A134,Shield,3050,Steel Large Shield,Steel,Heavy,,470,0,0,0,18,0,-1,-2,0,-2,0,0,0,0,22,4,-1,-2,0,-2,0,0,0,0,26,8,-1,-2,0,-2,0,0,0,0,30,12,-1,-2,0,-2,0,0,0,0,34,16,-1,-2,0,-2,0,
 140,Shield!A140,Shield,3103,Shield of the Covenant,Steel,Heavy,,735,0,0,0,19,0,-1,-2,0,-2,0,0,0,0,23,4,-1,-2,0,-2,2,0,0,0,27,8,-1,-2,0,-2,3,0,0,0,31,12,-1,-2,0,-2,4,0,0,0,35,16,-1,-2,0,-2,5,
 146,Shield!A146,Shield,3076,Veil Shield ,Ebonsteel,Cloth,,,0,0,0,10,0,0,0,0,0,0,0,0,0,15,4,0,0,0,0,0,0,0,0,19,9,0,0,0,0,0,0,0,0,24,13,0,0,0,0,0,0,0,0,28,18,0,0,0,0,0,
-152,Shield!A152,Shield,,Petite Veil Shield ,Ebonsteel,Cloth,83700,,0,0,0,10,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
+152,Shield!A152,Shield,3277,Petite Veil Shield ,Ebonsteel,Cloth,83700,620,0,0,0,10,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
 158,Shield!A158,Shield,,Greenleaf Shield,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Motivation"
 164,Shield!A164,Shield,,Fine Greenleaf Shield,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Motivation"
 170,Shield!A170,Shield,3065,Ebonsteel Shield,Ebonsteel,Light,,780,0,0,0,18,0,0,0,0,0,0,0,0,0,23,4,0,0,0,0,0,0,0,0,27,9,0,0,0,0,0,0,0,0,32,13,0,0,0,0,0,0,0,0,36,18,0,0,0,0,0,
@@ -316,7 +316,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 296,Hands!A296,Hands,3240,Shrouded Arm Wraps,Silver,Cloth,,,0,0,0,4,0,1,1,0,1,0,0,0,0,8,0,1,4,0,3,0,0,0,0,10,0,1,9,0,4,0,0,0,0,18,0,1,16,0,5,0,0,0,0,30,0,1,27,0,6,0,
 302,Hands!A302,Hands,3241,Golden Gloves,Silver,Cloth,,,0,0,0,15,-5,3,2,0,0,0,0,0,0,20,-5,3,5,0,0,0,0,0,0,25,-5,3,10,0,0,0,0,0,0,31,-5,3,17,0,0,0,0,0,0,37,-5,3,28,0,0,0,"Disarm Trap +6/8/9/?/?, Evade Trap +?/?/7/?/?, Old values (+7/9/11/12/13) were with Treasure Trap Disarm Skill"
 308,Hands!A308,Hands,3265,Hunting Gloves,Silver,Cloth,,,0,0,0,8,0,3,5,2,0,0,0,0,0,13,0,3,8,2,0,0,0,0,0,18,0,3,13,2,0,0,0,0,0,24,0,3,20,2,0,0,0,0,0,30,0,3,31,2,0,0,Magical Beast Resistance
-314,Hands!A314,Hands,,Petite Black Feather Gloves,Silver,Cloth,139200,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie Exclusive
+314,Hands!A314,Hands,3284,Petite Black Feather Gloves,Silver,Cloth,139200,870,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie Exclusive
 320,Hands!A320,Hands,,Toadskin Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of Warding Off Evil"
 326,Hands!A326,Hands,,Windrider Feather Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of the Hawk's Eye"
 332,Hands!A332,Hands,,Fine Windrider Feather Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of the Hawk's Eye"
@@ -401,14 +401,14 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 272,Body!A272,Body,3181,Cloak of Light Spirit,Ebonsteel,Cloth,,1100,0,0,0,17,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,37,13,0,0,0,0,0,0,0,0,47,19,0,0,0,0,0,0,0,0,57,26,0,0,0,0,0,Dark Type Reduction
 278,Body!A278,Body,3186,Umbral Cloak,Ebonsteel,Cloth,,1100,0,0,0,17,0,0,0,0,0,0,0,0,0,27,6,0,0,0,0,0,0,0,0,37,13,0,0,0,0,0,0,0,0,47,19,0,0,0,0,0,0,0,0,57,26,0,0,0,0,0,Light Type Reduction
 284,Body!A284,Body,3190,Covert Garb,Ebonsteel,Cloth,,1100,0,0,0,14,-2,1,0,0,1,0,0,0,0,19,1,1,0,0,3,0,0,0,0,29,7,1,0,0,4,0,0,0,0,41,16,1,0,0,5,0,0,0,0,58,27,1,0,0,6,0,
-290,Body!A290,Body,Ex.,Vorpal Coat,Ebonsteel,Cloth,,,0,0,0,13,0,5,0,0,3,0,0,0,0,23,6,5,0,0,3,0,0,0,0,33,13,5,0,0,3,0,0,0,0,43,19,5,0,0,3,0,0,0,0,53,26,5,0,0,3,0,
-296,Body!A296,Body,Ex.,Sacred Healer's Vestments,Ebonsteel,Cloth,,,0,0,6,11,3,0,0,0,0,0,0,0,8,16,9,0,0,0,0,0,0,0,9,22,16,0,0,0,0,0,0,0,10,33,22,0,0,0,0,0,,,,,,,,,,,
-302,Body!A302,Body,Ex.,Lord of the Deep Forest's Thief Garb,Ebonsteel,Cloth,,,0,0,0,16,0,1,0,0,4,0,0,0,0,26,6,1,0,0,4,0,0,0,0,36,13,1,0,0,4,0,0,0,0,46,19,1,0,0,4,0,0,0,0,56,26,1,0,0,4,0,
-308,Body!A308,Body,Ex.,Comfort of the Endless Rain,Ebonsteel,Cloth,,,0,6,0,11,0,2,0,0,0,5,0,8,0,16,6,2,0,0,0,10,0,9,0,22,13,2,0,0,0,14,,,,,,,,,,,,,,,,,,,,,
-314,Body!A314,Body,,Petite Veil Robe,Ebonsteel,Cloth,118800,,0,0,0,19,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
-320,Body!A320,Body,,Bone-Adorned Garment,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Gift of Soul-Soothing"
-326,Body!A326,Body,,Greenleaf Garment,Ebonsteel,Cloth,,,0,0,0,19,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Motvation"
-332,Body!A332,Body,,Fine Greenleaf Garment,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Motivation"
+290,Body!A290,Body,3281,Petite Veil Robe,Ebonsteel,Cloth,118800,880,0,0,0,19,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
+296,Body!A296,Body,,Bone-Adorned Garment,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Gift of Soul-Soothing"
+302,Body!A302,Body,,Greenleaf Garment,Ebonsteel,Cloth,,,0,0,0,19,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Motvation"
+308,Body!A308,Body,,Fine Greenleaf Garment,Ebonsteel,Cloth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Motivation"
+314,Body!A314,Body,Ex.,Vorpal Coat,Ebonsteel,Cloth,,,0,0,0,13,0,5,0,0,3,0,0,0,0,23,6,5,0,0,3,0,0,0,0,33,13,5,0,0,3,0,0,0,0,43,19,5,0,0,3,0,0,0,0,53,26,5,0,0,3,0,
+320,Body!A320,Body,Ex.,Sacred Healer's Vestments,Ebonsteel,Cloth,,,0,0,6,11,3,0,0,0,0,0,0,0,8,16,9,0,0,0,0,0,0,0,9,22,16,0,0,0,0,0,0,0,10,33,22,0,0,0,0,0,,,,,,,,,,,
+326,Body!A326,Body,Ex.,Lord of the Deep Forest's Thief Garb,Ebonsteel,Cloth,,,0,0,0,16,0,1,0,0,4,0,0,0,0,26,6,1,0,0,4,0,0,0,0,36,13,1,0,0,4,0,0,0,0,46,19,1,0,0,4,0,0,0,0,56,26,1,0,0,4,0,
+332,Body!A332,Body,Ex.,Comfort of the Endless Rain,Ebonsteel,Cloth,,,0,6,0,11,0,2,0,0,0,5,0,8,0,16,6,2,0,0,0,10,0,9,0,22,13,2,0,0,0,14,,,,,,,,,,,,,,,,,,,,,
 338,Body!A338,Body,3069,Ebonsteel Light Armor,Ebonsteel,Light,,1310,0,0,0,35,0,-1,-2,0,-2,0,0,0,0,45,6,-1,-2,0,-2,0,0,0,0,55,13,-1,-2,0,-2,0,0,0,0,65,19,-1,-2,0,-2,0,0,0,0,75,26,-1,-2,0,-2,0,
 344,Body!A344,Body,3113,Desert Mail,Ebonsteel,Light,49125,4913,0,0,0,37,1,-3,-2,0,-2,0,0,0,0,47,7,-3,-2,0,-2,0,0,0,0,57,14,-3,-2,0,-2,0,0,0,0,67,20,-3,-2,0,-2,0,0,0,0,77,27,-3,-2,0,-2,0,
 350,Body!A350,Body,3116,Exorcism Mail,Ebonsteel,Light,,1310,0,0,0,33,0,-1,-2,0,-2,0,0,0,0,43,6,-1,-2,0,-2,0,0,0,0,53,13,-1,-2,0,-2,0,0,0,0,63,19,-1,-2,0,-2,0,0,0,0,73,26,-1,-2,0,-2,0,Demon Resistance
