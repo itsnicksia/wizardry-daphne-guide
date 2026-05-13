@@ -168,8 +168,8 @@ Upon stepping foot into Zone 5 and returning, you will receive a message from th
 
 ##### Royal Family Route (Perfect Run)
 - Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
-- Go to the slums and talk to everyone. Take the little girl with you for Elmon to clean up. Disagree with Princess Pulgritte.
-- Go to West Cave (on the World Map) to gather food for the slums. 
+- Go to the slums and talk to everyone.  Talk to and disagree with Princess Pulgritte. Take the little girl with you for Elmon to clean up.
+- Go to West Cave (on the World Map) to gather meat for the slums. 
 - It does not matter where you get the meat or if you go over the necessary meat (3, Lulu will inform you when you have enough), but if the head Gorgon is too difficult, you may kill the random Gorgon around the cave or walk around the head Gorgon and farm meat from the dead ones through a crack in the wall.
 - Return to the slums to receive your gold reward after the cutscene.
 
