@@ -25,7 +25,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,Dagger!A140,Dagger,184,Beast Killer,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Magical Beast-Slayer"
 146,Dagger!A146,Dagger,183,Seafoam Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Water Type"
 152,Dagger!A152,Dagger,182,Earthrend Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Earth Type"
-158,Dagger!A158,Dagger,185,Cyclops Fang Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,124,0,0,0,0,-5,0,9,2,0,,,,,,,,,,,"Nimble Strike, Evasion Damage"
+158,Dagger!A158,Dagger,185,Cyclops Fang Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,124,0,0,0,0,-5,0,9,2,0,142,0,0,0,0,-5,0,10,2,0,"Nimble Strike, Evasion Damage"
 164,Dagger!A164,Dagger,Ex.,Sword Stealer,Silver,2,,,64,0,0,0,0,8,10,4,8,0,,,,,,,,,,,,,,,,,,,,,117,0,0,0,0,8,14,4,8,0,,,,,,,,,,,"Nimble Strike (Major), Passive Dexterity Up"
 170,Dagger!A170,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 176,Dagger!A176,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -317,7 +317,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 104,2H_Mace!A104,2H_Mace,221,Earthrend Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,181,0,0,0,0,-8,10,-2,-6,0,204,0,0,0,0,-8,10,-2,-6,0,221,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Earth Type"
 110,2H_Mace!A110,2H_Mace,222,Seafoam Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,181,0,0,0,0,-8,10,-2,-6,0,204,0,0,0,0,-8,10,-2,-6,0,221,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Water Type"
 116,2H_Mace!A116,2H_Mace,223,Tundra Club,Silver,1,75000,,116,0,0,0,0,-8,25,-2,-15,0,149,0,0,0,0,-8,25,-2,-15,0,175,0,0,0,0,-8,25,-2,-15,0,198,0,0,0,0,-8,25,-2,-15,0,215,0,0,0,0,-8,25,-2,-15,0,"Inflict Stun, Evasion Damage, Strength Based +"
-122,2H_Mace!A122,2H_Mace,224,Cyclops Hammer,Silver,1,,,140,0,-50,0,0,-20,-20,-2,-6,0,173,0,-50,0,0,-20,-20,-2,-6,0,199,0,-50,0,0,-20,-20,-2,-6,0,222,0,-50,0,0,-20,-20,-2,-6,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +"
+122,2H_Mace!A122,2H_Mace,224,Cyclops Hammer,Silver,1,,,140,0,-50,0,0,-20,-20,-2,-6,0,173,0,-50,0,0,-20,-20,-2,-6,0,199,0,-50,0,0,-20,-20,-2,-6,0,222,0,-50,0,0,-20,-20,-2,-6,0,239,0,-50,0,0,-20,-20,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +"
 128,2H_Mace!A128,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 134,2H_Mace!A134,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Mace!A140,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -159,8 +159,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 236,Shield!A236,Shield,3261,Calm Wind Crest,Silver,Light,,1470,0,0,0,23,0,0,0,0,0,0,0,0,0,30,5,0,0,0,0,0,0,0,0,36,10,0,0,0,0,0,0,0,0,42,15,0,0,0,0,0,0,0,0,48,20,0,0,0,0,0,"Air Type Reduction, Poison Tolerance"
 242,Shield!A242,Shield,3208,Silver Large Shield,Silver,Heavy,,,0,0,0,38,0,-1,-2,0,-1,0,0,0,0,47,5,-1,-2,0,-1,0,0,0,0,53,10,-1,-2,0,-1,0,0,0,0,59,15,-1,-2,0,-1,0,0,0,0,65,20,-1,-2,0,-1,0,
 248,Shield!A248,Shield,3262,Large Shield of Sacred Life,Silver,Heavy,,,-20,0,0,35,0,-1,-2,0,-10,0,-20,0,0,44,5,-1,-2,0,-10,0,-20,0,0,50,10,-1,-2,0,-10,0,-20,0,0,56,15,-1,-2,0,-10,0,,,,,,,,,,,Vitality Barrier
-254,Shield!A254,Shield,Ex.,Guardian Shield,Silver,Heavy,,,0,0,0,46,3,-2,-2,0,-5,0,0,0,0,51,8,-2,-2,0,-5,0,0,0,0,55,13,-2,-2,0,-5,0,0,0,0,60,18,-2,-2,0,-5,0,,,,,,,,,,,Guardian's Resolve
-260,Shield!A260,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+254,Shield!A254,Shield,,Small Shield of Last Will,Silver,Cloth,,,0,10,10,2,5,0,-25,0,-25,5,0,10,10,2,9,0,-25,0,-25,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Healer only
+260,Shield!A260,Shield,Ex.,Guardian Shield,Silver,Heavy,,,0,0,0,46,3,-2,-2,0,-5,0,0,0,0,51,8,-2,-2,0,-5,0,0,0,0,55,13,-2,-2,0,-5,0,0,0,0,60,18,-2,-2,0,-5,0,,,,,,,,,,,Guardian's Resolve
 266,Shield!A266,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 272,Shield!A272,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 278,Shield!A278,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
