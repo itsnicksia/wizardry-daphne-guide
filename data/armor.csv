@@ -80,8 +80,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 470,Head!A470,Head,Ex.,Direbear Hat,Silver,Cloth,,,0,0,0,5,5,0,0,0,0,12,0,0,0,11,10,0,0,0,0,18,0,0,0,17,14,0,0,0,0,24,0,0,0,21,17,0,0,0,0,27,,,,,,,,,,,Stun Tolerance
 476,Head!A476,Head,Ex.,Triumph,Silver,Cloth,,,2,0,0,4,4,0,0,0,0,6,4,0,0,10,9,0,0,0,0,12,5,0,0,16,13,0,0,0,0,18,6,0,0,20,16,0,0,0,0,21,,,,,,,,,,,Blessing of Insight (Two-Handed Sword)
 482,Head!A482,Head,,Ancient Grounds of Materia Medical Hood,Silver,Cloth,,,0,2,0,7,-1,0,0,0,-1,7,0,4,0,12,-1,0,0,0,-1,12,,,,,,,,,,,0,9,0,22,-1,0,0,0,-1,23,,,,,,,,,,,Paralysis Tolerance
-488,Head!A488,Head,,Fine Flower Petal Hat,Silver,Cloth,,,0,0,0,10,0,0,0,0,0,6,0,0,0,15,0,0,0,0,0,11,0,0,0,20,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,21,0,0,0,32,0,0,0,0,0,26,"Faerie exclusive, Promise of Compassion"
-494,Head!A494,Head,,Fine Windrider Feather Hat,Silver,Cloth,,,0,0,0,10,0,0,0,0,0,6,0,0,0,15,0,0,0,0,0,11,0,0,0,20,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,21,0,0,0,32,0,0,0,0,0,26,"Faerie exclusive, Gift of the Hawk's Eye"
+488,Head!A488,Head,3351,Fine Flower Petal Hat,Silver,Cloth,,1025,0,0,0,10,0,0,0,0,0,6,0,0,0,15,0,0,0,0,0,11,0,0,0,20,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,21,0,0,0,32,0,0,0,0,0,26,"Faerie exclusive, Promise of Compassion"
+494,Head!A494,Head,3357,Fine Windrider Feather Hat,Silver,Cloth,,1025,0,0,0,10,0,0,0,0,0,6,0,0,0,15,0,0,0,0,0,11,0,0,0,20,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,21,0,0,0,32,0,0,0,0,0,26,"Faerie exclusive, Gift of the Hawk's Eye"
 500,Head!A500,Head,3218,Silver Light Helmet,Silver,Light,,,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,0,0,0,38,0,-1,-2,0,-2,19,0,0,0,45,0,-1,-2,0,-2,24,
 506,Head!A506,Head,3219,Earthrend Helm,Silver,Light,,,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Water Type Reduction
 512,Head!A512,Head,3220,Seafoam Helm,Silver,Light,,,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Fire Type Reduction
@@ -152,14 +152,14 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 194,Shield!A194,Shield,3125,Holy Knight's Shield ,Ebonsteel,Heavy,,1225,0,0,0,25,0,-2,-2,0,-2,0,0,0,0,30,4,-2,-2,0,-2,0,0,0,0,34,9,-2,-2,0,-2,0,0,0,0,39,13,-2,-2,0,-2,0,0,0,0,43,18,-2,-2,0,-2,0,Undead Resistance
 200,Shield!A200,Shield,Ex.,Lionheart Shield,Ebonsteel,Heavy,,,6,0,0,24,5,-3,-2,0,-2,0,0,0,0,29,9,-3,-2,0,-2,0,9,0,0,33,14,-3,-2,0,-2,0,10,0,0,38,18,-3,-2,0,-2,0,0,0,0,42,23,-3,-2,0,-2,0,Beast Marking
 206,Shield!A206,Shield,3205,Blackwing Small Shield,Silver,Cloth,,,0,0,0,12,0,0,0,0,0,0,0,0,0,17,5,0,0,0,0,0,0,0,0,22,10,0,0,0,0,0,0,0,0,28,15,0,0,0,0,0,0,0,0,34,20,0,0,0,0,0,
-212,Shield!A212,Shield,,Windrider Feather Shield,Silver,Cloth,,,0,0,0,12,0,0,0,0,0,0,0,0,0,17,5,0,0,0,0,0,0,0,0,22,10,0,0,0,0,0,0,0,0,28,15,0,0,0,0,0,0,0,0,34,20,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
-218,Shield!A218,Shield,,Fine Windrider Feather Shield,Silver,Cloth,,,0,0,0,12,0,0,0,0,0,0,0,0,0,17,5,0,0,0,0,0,0,0,0,22,10,0,0,0,0,0,0,0,0,28,15,0,0,0,0,0,0,0,0,34,20,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
+212,Shield!A212,Shield,3355,Windrider Feather Shield,Silver,Cloth,,930,0,0,0,12,0,0,0,0,0,0,0,0,0,17,5,0,0,0,0,0,0,0,0,22,10,0,0,0,0,0,0,0,0,28,15,0,0,0,0,0,0,0,0,34,20,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
+218,Shield!A218,Shield,,Fine Windrider Feather Shield,Silver,Cloth,,930,0,0,0,12,0,0,0,0,0,0,0,0,0,17,5,0,0,0,0,0,0,0,0,22,10,0,0,0,0,0,0,0,0,28,15,0,0,0,0,0,0,0,0,34,20,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
 224,Shield!A224,Shield,3206,Twisted Shield,Silver,Cloth,,1170,-60,0,0,-40,0,-20,-60,0,-40,0,-60,5,5,-40,0,-20,-60,0,-40,0,-60,10,10,-40,0,-20,-60,0,-40,0,-60,15,15,-40,0,-20,-60,0,-40,0,-60,20,20,-40,0,-20,-60,0,-40,0,
-230,Shield!A230,Shield,3207,Silver Shield,Silver,Light,,1170,0,0,0,25,0,0,0,0,0,0,0,0,0,32,5,0,0,0,0,0,0,0,0,38,10,0,0,0,0,0,0,0,0,44,15,0,0,0,0,0,0,0,0,50,20,0,0,0,0,0,
-236,Shield!A236,Shield,3261,Calm Wind Crest,Silver,Light,,1470,0,0,0,23,0,0,0,0,0,0,0,0,0,30,5,0,0,0,0,0,0,0,0,36,10,0,0,0,0,0,0,0,0,42,15,0,0,0,0,0,0,0,0,48,20,0,0,0,0,0,"Air Type Reduction, Poison Tolerance"
-242,Shield!A242,Shield,3208,Silver Large Shield,Silver,Heavy,,,0,0,0,38,0,-1,-2,0,-1,0,0,0,0,47,5,-1,-2,0,-1,0,0,0,0,53,10,-1,-2,0,-1,0,0,0,0,59,15,-1,-2,0,-1,0,0,0,0,65,20,-1,-2,0,-1,0,
-248,Shield!A248,Shield,3262,Large Shield of Sacred Life,Silver,Heavy,,,-20,0,0,35,0,-1,-2,0,-10,0,-20,0,0,44,5,-1,-2,0,-10,0,-20,0,0,50,10,-1,-2,0,-10,0,-20,0,0,56,15,-1,-2,0,-10,0,,,,,,,,,,,Vitality Barrier
-254,Shield!A254,Shield,,Small Shield of Last Will,Silver,Cloth,,,0,10,10,2,5,0,-25,0,-25,5,0,10,10,2,9,0,-25,0,-25,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Healer only
+230,Shield!A230,Shield,,Small Shield of Last Will,Silver,Cloth,,,0,10,10,2,5,0,-25,0,-25,5,0,10,10,2,9,0,-25,0,-25,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Healer only
+236,Shield!A236,Shield,3207,Silver Shield,Silver,Light,,1170,0,0,0,25,0,0,0,0,0,0,0,0,0,32,5,0,0,0,0,0,0,0,0,38,10,0,0,0,0,0,0,0,0,44,15,0,0,0,0,0,0,0,0,50,20,0,0,0,0,0,
+242,Shield!A242,Shield,3261,Calm Wind Crest,Silver,Light,,1470,0,0,0,23,0,0,0,0,0,0,0,0,0,30,5,0,0,0,0,0,0,0,0,36,10,0,0,0,0,0,0,0,0,42,15,0,0,0,0,0,0,0,0,48,20,0,0,0,0,0,"Air Type Reduction, Poison Tolerance"
+248,Shield!A248,Shield,3208,Silver Large Shield,Silver,Heavy,,,0,0,0,38,0,-1,-2,0,-1,0,0,0,0,47,5,-1,-2,0,-1,0,0,0,0,53,10,-1,-2,0,-1,0,0,0,0,59,15,-1,-2,0,-1,0,0,0,0,65,20,-1,-2,0,-1,0,
+254,Shield!A254,Shield,3262,Large Shield of Sacred Life,Silver,Heavy,,,-20,0,0,35,0,-1,-2,0,-10,0,-20,0,0,44,5,-1,-2,0,-10,0,-20,0,0,50,10,-1,-2,0,-10,0,-20,0,0,56,15,-1,-2,0,-10,0,,,,,,,,,,,Vitality Barrier
 260,Shield!A260,Shield,Ex.,Guardian Shield,Silver,Heavy,,,0,0,0,46,3,-2,-2,0,-5,0,0,0,0,51,8,-2,-2,0,-5,0,0,0,0,55,13,-2,-2,0,-5,0,0,0,0,60,18,-2,-2,0,-5,0,,,,,,,,,,,Guardian's Resolve
 266,Shield!A266,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 272,Shield!A272,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -230,8 +230,8 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 260,Feet!A260,Feet,3264,Sheepskin Boots,Silver,Cloth,65000,,0,0,0,8,0,2,0,0,1,0,0,0,0,13,0,2,0,0,10,0,0,0,0,18,0,2,0,0,15,0,0,0,0,24,0,2,0,0,22,0,0,0,0,30,0,2,0,0,28,0,"Freeze Tolerance, Maximum Body Temperature Increase"
 266,Feet!A266,Feet,3266,Hunting Boots,Silver,Cloth,,,0,0,0,8,0,7,0,4,2,0,0,0,0,13,0,9,0,4,11,0,0,0,0,18,0,10,0,4,16,0,0,0,0,24,0,11,0,4,23,0,0,0,0,30,0,12,0,4,29,0,Magical Beast Resistance
 272,Feet!A272,Feet,3287,Petite Black Feather Shoes,Silver,Cloth,139200,870,0,0,0,15,0,2,0,0,2,0,0,0,0,20,0,2,0,0,11,0,0,0,0,20,0,2,0,0,16,0,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
-278,Feet!A278,Feet,,Toadskin Shoes,Silver,Cloth,,,0,0,0,10,0,2,0,0,2,0,0,0,0,15,0,2,0,0,11,0,0,0,0,20,0,2,0,0,16,0,0,0,0,26,0,2,0,0,23,0,0,0,0,32,0,2,0,0,29,0,"Faerie exclusive, Gift of Warding Off Evil"
-284,Feet!A284,Feet,,Fine Toadskin Shoes,Silver,Cloth,,,0,0,0,10,0,2,0,0,2,0,0,0,0,15,0,2,0,0,11,0,0,0,0,20,0,2,0,0,16,0,0,0,0,26,0,2,0,0,23,0,0,0,0,32,0,2,0,0,29,0,"Faerie exclusive, Gift of Warding Off Evil"
+278,Feet!A278,Feet,3347,Toadskin Shoes,Silver,Cloth,,870,0,0,0,10,0,2,0,0,2,0,0,0,0,15,0,2,0,0,11,0,0,0,0,20,0,2,0,0,16,0,0,0,0,26,0,2,0,0,23,0,0,0,0,32,0,2,0,0,29,0,"Faerie exclusive, Gift of Warding Off Evil"
+284,Feet!A284,Feet,3348,Fine Toadskin Shoes,Silver,Cloth,,870,0,0,0,10,0,2,0,0,2,0,0,0,0,15,0,2,0,0,11,0,0,0,0,20,0,2,0,0,16,0,0,0,0,26,0,2,0,0,23,0,0,0,0,32,0,2,0,0,29,0,"Faerie exclusive, Gift of Warding Off Evil"
 290,Feet!A290,Feet,Ex.,High Boots of the Winter Night,Silver,Cloth,,,0,0,0,8,0,8,0,0,2,0,0,0,0,14,0,10,0,0,13,0,0,0,0,20,0,11,0,0,18,0,0,0,0,24,0,12,0,0,23,0,,,,,,,,,,,Stone Tolerance
 296,Feet!A296,Feet,Ex.,Boots of the First Wind,Silver,Cloth,,,0,0,5,5,0,2,0,0,4,0,0,0,7,11,0,2,0,0,15,0,,,,,,,,,,,0,0,9,21,0,2,0,0,25,0,0,0,10,24,0,2,0,0,27,0,Pious Swiftness
 302,Feet!A302,Feet,Ex.,Boots of the Vanishing,Silver,Cloth,,,0,0,0,12,0,4,0,0,4,0,0,0,0,18,0,6,0,0,15,0,0,0,0,24,0,7,0,0,20,0,0,0,0,28,0,8,0,0,25,0,,,,,,,,,,,Agile Heavy Strike
@@ -317,10 +317,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 302,Hands!A302,Hands,3241,Golden Gloves,Silver,Cloth,,,0,0,0,15,-5,3,2,0,0,0,0,0,0,20,-5,3,5,0,0,0,0,0,0,25,-5,3,10,0,0,0,0,0,0,31,-5,3,17,0,0,0,0,0,0,37,-5,3,28,0,0,0,"Disarm Trap +6/8/9/?/?, Evade Trap +?/?/7/?/?, Old values (+7/9/11/12/13) were with Treasure Trap Disarm Skill"
 308,Hands!A308,Hands,3265,Hunting Gloves,Silver,Cloth,,,0,0,0,8,0,3,5,2,0,0,0,0,0,13,0,3,8,2,0,0,0,0,0,18,0,3,13,2,0,0,0,0,0,24,0,3,20,2,0,0,0,0,0,30,0,3,31,2,0,0,Magical Beast Resistance
 314,Hands!A314,Hands,3284,Petite Black Feather Gloves,Silver,Cloth,139200,870,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie Exclusive
-320,Hands!A320,Hands,,Toadskin Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of Warding Off Evil"
-326,Hands!A326,Hands,,Windrider Feather Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of the Hawk's Eye"
-332,Hands!A332,Hands,,Fine Windrider Feather Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of the Hawk's Eye"
-338,Hands!A338,Hands,,Fine Flower Petal Gloves,Silver,Cloth,,,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Promise of Compassion"
+320,Hands!A320,Hands,3346,Toadskin Gloves,Silver,Cloth,,870,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of Warding Off Evil"
+326,Hands!A326,Hands,3360,Windrider Feather Gloves,Silver,Cloth,,870,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of the Hawk's Eye"
+332,Hands!A332,Hands,3361,Fine Windrider Feather Gloves,Silver,Cloth,,870,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Gift of the Hawk's Eye"
+338,Hands!A338,Hands,3353,Fine Flower Petal Gloves,Silver,Cloth,,870,0,0,0,10,0,1,2,0,0,0,0,0,0,15,0,1,5,0,0,0,0,0,0,20,0,1,10,0,0,0,0,0,0,26,0,1,17,0,0,0,0,0,0,32,0,1,28,0,0,0,"Faerie Exclusive, Promise of Compassion"
 344,Hands!A344,Hands,Ex.,Red Spinner Woman Spellwoven Cloth,Silver,Cloth,,,0,0,0,25,0,0,-2,0,0,10,0,0,0,36,0,0,-2,0,0,12,0,0,0,41,0,0,-2,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
 350,Hands!A350,Hands,3243,Silver Light Gauntlets,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,5,0,0,0,0,0,0,26,0,0,10,0,0,0,0,0,0,33,0,0,16,0,0,0,0,0,0,39,0,0,22,0,0,0,
 356,Hands!A356,Hands,3244,Calm Wind Stun Guard,Silver,Light,,,0,0,0,13,0,0,0,0,0,0,0,0,0,20,0,0,5,0,0,0,0,0,0,25,0,0,10,0,0,0,,,,,,,,,,,,,,,,,,,,,"Air Type Reduction, Paralysis Tolerance"
@@ -432,10 +432,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 458,Body!A458,Body,3228,Giant Beast Ape Robe,Silver,Cloth,,,0,0,0,22,0,0,0,0,0,0,0,0,0,32,9,0,0,0,0,0,0,0,0,44,17,0,0,0,0,0,0,0,0,55,26,0,0,0,0,0,0,0,0,70,36,0,0,0,0,0,"Freeze Tolerance, Maximum Body Temperature Increase"
 464,Body!A464,Body,3263,Wool Sweater,Silver,Cloth,,,0,0,0,20,0,0,0,0,0,0,0,0,0,30,9,0,0,0,0,0,0,0,0,42,17,0,0,0,0,0,0,0,0,53,26,0,0,0,0,0,0,0,0,68,36,0,0,0,0,0,"Freeze Tolerance, Maximum Body Temperature Increase"
 470,Body!A470,Body,,Ancient Grounds of Materia Medica Robe,Silver,Cloth,,,0,0,3,15,-2,0,0,0,-1,3,0,0,5,25,7,0,0,0,-1,3,0,0,8,37,15,0,0,0,-1,3,0,0,10,48,24,0,0,0,-1,3,,,,,,,,,,,Paralysis Tolerance
-476,Body!A476,Body,,Windrider Feather Garment,Silver,Cloth,,,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
-482,Body!A482,Body,,Fine Windrider Feather Garment,Silver,Cloth,,,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
-488,Body!A488,Body,,Fine Toadskin Garment,Silver,Cloth,,,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Gift of Warding Off Evil"
-494,Body!A494,Body,,Fine Flower Petal Garment,Silver,Cloth,,,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Promise of Compassion"
+476,Body!A476,Body,3358,Windrider Feather Garment,Silver,Cloth,,1320,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
+482,Body!A482,Body,3359,Fine Windrider Feather Garment,Silver,Cloth,,1320,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Gift of the Hawk's Eye"
+488,Body!A488,Body,3345,Fine Toadskin Garment,Silver,Cloth,,1320,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Gift of Warding Off Evil"
+494,Body!A494,Body,3354,Fine Flower Petal Garment,Silver,Cloth,,1320,0,0,0,23,0,0,0,0,0,0,0,0,0,33,9,0,0,0,0,0,0,0,0,45,17,0,0,0,0,0,0,0,0,56,26,0,0,0,0,0,0,0,0,71,36,0,0,0,0,0,"Faerie exclusive, Promise of Compassion"
 500,Body!A500,Body,Ex.,Floral Uchikake,Silver,Cloth,,,0,0,0,25,-2,5,0,0,0,0,0,0,0,37,4,7,0,0,0,0,0,0,0,50,10,8,0,0,0,0,0,0,0,57,13,9,0,0,0,0,0,0,0,65,16,10,0,0,0,0,Bewitching Fragrance
 506,Body!A506,Body,Ex.,Robe of the Millenium,Silver,Cloth,,,0,8,0,29,0,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I.Q. Obstruction
 512,Body!A512,Body,Ex.,Vestments of the Divine Grace,Silver,Cloth,,,0,0,2,20,0,0,0,0,0,0,0,0,7,32,6,0,0,0,0,0,0,0,11,45,12,0,0,0,0,0,0,0,13,52,15,0,0,0,0,0,,,,,,,,,,,Piety Obstruction
@@ -540,9 +540,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 326,Accessories!A326,Accessories,3255,Earthrend Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,21,23,0,0,0,0,0,0,0,0,31,23,0,0,0,0,0,0,0,0,39,23,0,0,0,0,0,Water Type Reduction
 332,Accessories!A332,Accessories,3256,Seafoam Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,21,23,0,0,0,0,0,0,0,0,31,23,0,0,0,0,0,0,0,0,39,23,0,0,0,0,0,Fire Type Reduction
 338,Accessories!A338,Accessories,3257,Miner's Ring of Protection,Silver,Accessory,,,0,0,0,3,22,0,0,0,0,0,0,0,0,13,22,0,0,0,0,0,0,0,0,21,22,0,0,0,0,0,0,0,0,31,22,0,0,0,0,0,0,0,0,39,22,0,0,0,0,0,"Paralysis Tolerance, Stun Tolerance"
-344,Accessories!A344,Accessories,,Toadskin Bracelet,Silver,Accessory,,,0,0,0,3,25,0,0,0,0,5,0,0,0,13,25,0,0,0,0,5,0,0,0,21,25,0,0,0,0,5,0,0,0,31,25,0,0,0,0,5,0,0,0,39,25,0,0,0,0,5,"Faerie exclusive, Gift of Warding Off Evil"
-350,Accessories!A350,Accessories,,Fine Toadskin Bracelet,Silver,Accessory,,,0,0,0,3,25,0,0,0,0,5,0,0,0,13,25,0,0,0,0,5,0,0,0,21,25,0,0,0,0,5,0,0,0,31,25,0,0,0,0,5,,,,,,,,,,,"Faerie exclusive, Gift of Warding Off Evil"
-356,Accessories!A356,Accessories,,Fine Flower Petal Bracelet,Silver,Accessory,,,0,0,0,3,25,0,0,0,0,5,0,0,0,13,25,0,0,0,0,5,0,0,0,21,25,0,0,0,0,5,0,0,0,31,25,0,0,0,0,5,0,0,0,39,25,0,0,0,0,5,"Faerie exclusive, Promise of Compassion"
+344,Accessories!A344,Accessories,3349,Toadskin Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,5,0,0,0,13,25,0,0,0,0,5,0,0,0,21,25,0,0,0,0,5,0,0,0,31,25,0,0,0,0,5,0,0,0,39,25,0,0,0,0,5,"Faerie exclusive, Gift of Warding Off Evil"
+350,Accessories!A350,Accessories,3350,Fine Toadskin Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,5,0,0,0,13,25,0,0,0,0,5,0,0,0,21,25,0,0,0,0,5,0,0,0,31,25,0,0,0,0,5,,,,,,,,,,,"Faerie exclusive, Gift of Warding Off Evil"
+356,Accessories!A356,Accessories,3354,Fine Flower Petal Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,5,0,0,0,13,25,0,0,0,0,5,0,0,0,21,25,0,0,0,0,5,0,0,0,31,25,0,0,0,0,5,0,0,0,39,25,0,0,0,0,5,"Faerie exclusive, Promise of Compassion"
 362,Accessories!A362,Accessories,Ex.,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
 368,Accessories!A368,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,,,,,,,,,,,,,,,,,,,,,Sleep Tolerance
 374,Accessories!A374,Accessories,Ex.,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,,,,,,,,,,,0,0,0,35,21,0,19,0,0,19,0,0,0,42,21,0,21,0,0,21,,,,,,,,,,,Curse Tolerance
