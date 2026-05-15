@@ -11,14 +11,14 @@
 
 .md-typeset .equipment-table table th {
     font-size: .70rem;
-    padding: 3px 8px
+    padding: 0px 0px
     min-width: max-content;
     white-space: pre;
 }
 
 .md-typeset .equipment-table table td {
     font-size: .70rem;
-    padding: 3px 8px
+    padding: 0px 0px
     min-width: max-content;
     white-space: pre-line;
 }
