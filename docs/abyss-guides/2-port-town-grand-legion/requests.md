@@ -588,8 +588,12 @@ Goetia -> Admiral Route
 ??? info "Holly Location"
     ![](img/image_68.jpg)
 
-- Expose Marin as the warped one and defeat her.   
-- Marin can at any location with an NPC icon on the minimap. If you talk to people, they will point you to where she went.
+- Expose Marin as a warped one and defeat her.
+    - After talking to the Head Cook, NPCs will appear at different locations around the floor. You can talk to each one, ask details about the murder, and "accuse them" by striking them with the holly. Some NPC will hint that the singer Marin is the murderer and/or point you toward the correct room.
+    - You only get 2 pieces of holly, and they can only be used once each. If you guess wrong both times you will be surprised and killed by Marin, and have to use a Flame or Accept Death. Using a Flame gives you 1 piece of holly to try again.
+    - Marin can only appear at few of the NPC icon locations on the minimap.  She will only be in a room by herself, sometimes underwater. In those cases you should use the statue to drain the room first.
+    - Marin's warped one form os a unique Knight Butcher Ent with typical attacks and about 6-7k HP.
+    - If none of the NPCs are Marin, then the NPCs will point you toward the empty murder room. Lowering the water will cause Marin to appear in Warped One form behind you. It is unclear if this can happen the first time attempting this request or if that grants you the knowledge that Marin is the murdered.
 
 ### Gathering Sahuagin Scales
 
