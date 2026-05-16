@@ -206,12 +206,14 @@
 ??? info "Skill"
     ![](img/image_102.jpg)
 
-- Complete the [Murder Investigation Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#murder-investigation) from Rickert.
-- Marin has various locations that she can spawn on the map. However, only one location will drop her hairpin. If she doesn't spawn in the correct location, you still need to complete the request before you can use the cursed wheel to reset and try again.
-    - Lulunarde will not let you leave through syairs or Harkin.
-    - Harkin hooks are disabled.
-    - Using up both pieces of holly on the wrong people just gets you ambushed by Marin and killed, wasting a Flame, and forcing you to continue the investigation.  
-- She will only drop the Hairpin in the checked location below (bottom left room).
+- Complete the [Murder Investigation Request](../../../abyss-guides/2-port-town-grand-legion/requests.md#murder-investigation) from Rickert.  
+- Marin has various locations that she can spawn on the map. However, only one location will drop her hairpin.  
+    - This is incredibly tedious to farm. You may only find her in that location once in every 5-15 attempts.  Bondmate level 5 requires finding her hairpin 11 times. That could mean 50-150 attempts.  
+    - If she doesn't spawn in the correct location, you still need to complete the request before you can use the cursed wheel to reset and try again.  
+        - Lulunarde will not let you leave through syairs or Harkin.  
+        - Harkin hooks are disabled.  
+        - Using up both pieces of holly on the wrong people just gets you ambushed by Marin and killed, wasting a Flame, and forcing you to continue the investigation.  
+- She will only drop the Hairpin in the checked location below (bottom left room).  
 
 ??? map "Marin's Location"
     ![](img/image_76.jpg)
@@ -222,7 +224,9 @@
 ??? map "Final Location"
     ![](img/image_77.jpg)
 
-!!! note "To farm, Cursed Wheel to Arena Round 5 and repeat the request."
+- In some NPC configuration, Marin will not be at any of the NPC locations. Talking to the NPCs will point you to the empty, flooded murder room. Drain the water in that room, ad Warped One Marin will appear behind you to let you complete the request.
+
+!!! note "To farm, Cursed Wheel to Arena Round 5, ensure 'Did not strategize' is selected for Guezens Magical Beasts, and repeat the request."  
 
 ## Return to the Capital
 
