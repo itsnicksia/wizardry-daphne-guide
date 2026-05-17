@@ -115,8 +115,8 @@ After completing the request, the little kid will give you a key for the locked 
 
 ### Boss Rewards
 
-    ??? danger "Small Shield of Last Will"
+??? danger "Small Shield of Last Will"
 
-        ![](./img/small-shield-of-last-will.png)
+    ![](./img/small-shield-of-last-will.png)
 
 
