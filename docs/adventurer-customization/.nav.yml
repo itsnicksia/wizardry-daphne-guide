@@ -9,7 +9,7 @@ nav:
         - Port Town Grand Legion: './bondmates/port-town-grand-legion/bondmates.md'
         - Guarda Fortress: './bondmates/guarda-fortress/bondmates.md'
         - Isberg: './bondmates/isberg/bondmates.md'
-      - Stat Bondmates: './bondmates/adventurer-bondmates.md'
+      - Trait Bondmates: './bondmates/trait-bondmates.md'
   - Class Change: './class-changes.md'
   - Contracts: './contracts.md'
   - Relicbrews: './relicbrew.md'
