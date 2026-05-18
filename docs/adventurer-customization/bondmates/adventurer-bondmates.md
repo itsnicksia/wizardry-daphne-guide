@@ -1,53 +1,79 @@
-!!! warning "Updates"
-    - We are current investigating the impact of the 4/28 patch.
-    - An alternative, potentially faster method for the Flaming-Heart is now posted.
-    - Ctrl + F5 to refresh page.
+!!! warning "4/28 Update"
+
+    === "What is it?"
+        - The 4/28 update added an RNG element to the Trust system. When a unit is first pulled a RNG roll is made, which can add or substract Trust points from a unit's starting value. 
+        - The new system only applies to units pulled after the patch. Registered units are not affected.   
+        - Example
+            - Starting Trust: 50
+            - RNG roll: -10
+            - Adjusted Value: 40
+        - Numbers in the example are arbitrary. We do not know Drecom's scale or the points values for different actions. 
+
+    === "What do we know?"
+        - Data is limited, but we do have some initial findings. 
+        - The +/- range of the RNG roll is significantly higher than expected. We have no information on the % chance distribution of "positive" or "negative" rolls. 
+        - Existing farming methods are taking 2-3x as long if a unit gets a "negative" roll. 
+        - A unit's voice lines can be used to identify a "negative" roll. We strongly recommend you not use these units as bondmate candidates.  
+        - Killing 3 different GWOs no longer works for an instant flaming-heart on Anonymous units. 
+        - The underlying Trust mechanics still operate normally. 
+        - More information will be added as we learn more. 
+
+    === "Game Notes"
+
+        <div align="center">
+        ![](img/starting-trust.png)
+        </div>
+
 
 ### Overview
 
-=== "What is a Stat Bondmate?" 
+=== "What is a Trait Bondmate?" 
 
-    - <span style="color: LimeGreen">All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status</span>.
-    - Stat bondmates are -not- the same as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
-    - Stat bondmates help to augment your units since story bondmates are limited. 
+    - <span style="color: LimeGreen">All adventurers can become bondmates ("trait bondmates") if they are dismissed after reaching flaming-heart status</span>.
+    - Trait bondmates are -not- the same as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
+    - Trait bondmates help to augment your units since story bondmates are limited. 
     - Equipped from the Training Room - Bondmates menu. 
     
 === " Bondmate Levels" 
 
-    - After dismissing a stat bondmate it will roll a Level from 1 to 5. The level that is rolled appears to be a function of the bondmates attached to it prior to dismissal. It is a mechanic that is not fully understood to-date. 
+    - After dismissing a trait bondmate it will roll a Level from 1 to 5. The level that is rolled appears to be a function of the bondmates attached to it prior to dismissal. It is a mechanic that is not fully understood to-date. 
     - Based on extensive community testing we can confirm:
         - If a unit has 2x Level 5 bondmates attached prior to dismissal it will result in a Level 4 or 5 stat bondmate.
         - The odds are roughly 50/50. There is no known, consistent way to guarantee a Level 5.
+        - Any Level 5 bondmate - trait or story - can be used. 
     - Rule of thumb: You will need to farm 2x the number of units to reach a target number of Level 5 bondmates . For example, if you want 6x Level 5 SPD bondmates, then you should expect to farm, on average, 12 SPD bondmates.
-    - Bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
+    - Attached bondmates are not lost, but are returned to the Bondmate List.
 
 === "Trait Bonuses" 
     
     === "Mechanics"
 
-        - The trait bonus is a function of both the Grade of the unit being equipped and the level of the stat bondmate. See examples in the tabs. 
-        - Trait bonuses cap at +7-8 at Level 70. It is possible to attach a Level 2 and Level 3 of the same stat bondmate to one character for the "equivalent" trait bonus of a Level 5 stat bondmate.
-        - SPD bondmates are an exception. All of their values are one lower, so the max at Level 70 would be +6-7. 
+        - The trait bonus is a function of both the Grade of the unit being equipped and the level of the trait bondmate. See examples in the tabs. 
+        - Trait bonuses cap at +7-8 at Level 70. 
+            - A IV trait and matching trait bondmate is +8 points.
+            - A Neutral IV is +7 points.
+            - SPD bondmates are an exception. All of their values are one lower, so the max is +6-7. 
+        - It is possible to attach a Level 2 and Level 3 of the same stat bondmate to one character for the "equivalent" trait bonus of a Level 5 stat bondmate.
         - There is no additional trait bonus for matching elemental alignments. This holds true for story bondmates, too.
         - Nameless, General, and Legendary adventurers all provide the exact same trait bonuses.
 
-    === "Example: Level 5 Stat Bondmate"
+    === "Example: Level 5 Trait Bondmate"
 
-        - A Level 5 stat bondmate +
+        - A Level 5 trait bondmate +
             - A Level 70 (Copper Grade) unit will receive +7-8 trait points
             - A Level 60 (Steel Grade) unit will receive +6-7 trait points
             - A Level 50 (Iron Grade) until withh receive +5-6 trait points
             - And so on 
-        - The trait bonus range is due to rounding and will vary by unit
+        - The trait bonus range is due to rounding and will vary by unit.
 
-    === "Example: Level 4 Stat Bondmate"
+    === "Example: Level 4 Trait Bondmate"
     
-        - A Level 4 stat bondmate +
+        - A Level 4 trait bondmate +
             - A Level 70 (Copper Grade) unit will receive +6-7 trait points
             - A Level 60 (Steel Grade) unit will receive +5-6 trait points
             - A Level 50 (Iron Grade) until withh receive +4-5 trait points
             - And so on
-        - The trait bonus range is due to rounding and will vary by unit
+        - The trait bonus range is due to rounding and will vary by unit.
 
 ### Flaming-Heart Requirements
 
@@ -57,8 +83,8 @@
     
         - Promoted to Bronze Grade
             - The Bronze Grade exam is offered at Level 30. 
-            - Each stat bondmate costs 3 tags; 1x for Lead and 2x for Bronze.
-            - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 stat bondmate. 
+            - Each trait bondmate costs 3 tags; 1x for Lead and 2x for Bronze.
+            - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 trait bondmate. 
             - <span style="color: #F2473A">Lead Grade at Level 30 will -not- work</span>.
         - Defeat any two Greater Warped Ones (GWOs). 
             - The easiest GWOs are Helmut and either Melgina or Octoranus.
@@ -66,6 +92,14 @@
             - The unit does not need to survive the fight, but it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing a GWO more than once does -not- give you extra trust</span>.
         - Trust farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
+
+    === "Alternative Method" 
+
+        - Prior to the 4/28 update, killing 3 GWOs would result in an instant flaming-heart for any Anonymous unit. This is no longer the case. 
+        - This approach is likely to still be more efficient than killing 2 GWOs. The one-time trust bonus from defeating GWO 3 should cut down on the total number of required Camp conversations. 
+        - We recommend you only do this if you can kill GWO 3 quickly and ensure the bondmate candidate does not die during the fight. 
+        - The GWO 3 version (8, 6, 0) does not seem to make any difference.
+        - This section will be updated as we learn more. 
     
     === "Troubleshooting" 
     
@@ -83,7 +117,7 @@
         ![](img/adventurer-trust-icon.jpg)
         </div>
     
-    === "Stat Bondmate Example"
+    === "Trait Bondmate Example"
 
         <div align="center">
         ![](img/stat-bondmate-example.jpg)
@@ -95,34 +129,9 @@
         ![](img/bondmate-list-example.PNG)
         </div>
 
-??? warning "New! Flaming-Heart - No Trust Farming Method" 
-
-    === "Requirements" 
-    
-        - Promoted to Bronze Grade.  
-        - Defeat the first 3 GWOs.
-            - A1: Helmut
-            - A2: Melgina or Octoranus
-            - A3: Gatekeeper
-
-    === "Additional Information"
-
-        Context: 
-        
-        - This was shared in late April by Discord member @Genosis. It is currently undergoing additional testing. 
-        - Historically, defeating 3 GWOs did not trigger the flaming-heart on Nameless, General, or Legendary units. We suspect at some point in the past a patch altered the one-time trust gain from defeating a GWO. 
-
-        Technical Notes: 
-        
-        - The flaming-heart is instant after killing the third GWO (kill order does not matter) for both Nameless and General units. Genosis tested this with a Good MC and Evil bondmate candidates. 
-        - MC and team alignment does not seem to matter. Genosis tested with a Good MC and Evil bondmate candidates. 
-        - Bondmate death during the Gatekeeper battle did not have an impact, but we suggest you try to keep your units alive if possible. 
-        - With a strong team it takes ~15-20 minutes from the Zone 10 Fountain to the ending cutscene. If your trust farming via Camping is take longer than this, then we suggest trying out this method. 
-        - Legendary units have not been tested to-date.  
-        
 ### Efficient Trust Farming 
 
-- Trust farming is the last step. It is done after promoting to Bronze Grade and defeating both GWOs if the stat bondmate did not receive the flaming-heart.
+- Trust farming is the last step. It is done after promoting to Bronze Grade and defeating both GWOs if the trait bondmate did not receive the flaming-heart.
 - This guide is built around using Anonymous units. If you opt for General or Legendary units, then this process can take 2-4x as long depending on your MC's alignment. 
 
 ??? note "How to Build Trust"
@@ -148,19 +157,19 @@
     === "Battles and Death Penalty"
      
         - Battles provide an extremely small amount of trust. It requires 100+ battles before you begin to see pips added to the Compendium. It is unknown whether a character needs to be present or take an action during combat to earn trust points. 
-        - <span style="color: #F2473A">The death of a stat bondmate comes with a significant trust penalty. It should be avoided at all costs while leveling or during the GWO fights</span>.
+        - <span style="color: #F2473A">The death of a trait bondmate comes with a significant trust penalty. It should be avoided at all costs while leveling or during the GWO fights</span>.
         - Death penalty for Anonymous units:
             - Same alignment as MC: 1-3 additional Camp conversations
             - Different alignment: 2-5 additional Camp conversations
-        - If a stat bondmate dies, then kill MC during the revival mini-game. The "Rise again" or "Accept death" options will negate any trust loss.
+        - If a trait bondmate dies, then kill MC during the revival mini-game. The "Rise again" or "Accept death" options will negate any trust loss.
         - If you have access to the Martial Training (Guarda Fortress) dispatch this is a safe alternative to manually leveling.
 
     === "Other Tips" 
 
-        - Neutral MC is the optimal alignment when stat bondmate farming. 
+        - Neutral MC is the optimal alignment when trait bondmate farming. 
         - Good MC is arguably the worst alignment to trust farm with for two reasons: 
-            - VIT or PIE stat bondmates have a negligble impact on battle performance, so most people do not raise them.  
-            - Raising trust with Good MC and Evil stat bondmates can be extremely time-consuming, taking up to 2-4x as long.
+            - VIT or PIE trait bondmates have a negligble impact on battle performance, so most people do not raise them.  
+            - Raising trust with Good MC and Evil trait bondmates can be extremely time-consuming, taking up to 2-4x as long.
         - Lana (Good), Yekaterina (Neutral), and Alice (Evil) are excellent companions to bring along as they will frequently proc camp conversations.
         - This process can be tag-intensive. Remember that you are refunded a Bronze tag at the end of this process, but you cannot downgrade tags!
 
@@ -174,12 +183,12 @@
 
     === "Anonymous Basics"
 
-        - Cannot join Tavern conversations, but are present during Camp conversations. <span style="color: LimeGreen">This is the key to efficient stat bondmate farming</span>.
+        - Cannot join Tavern conversations, but are present during Camp conversations. <span style="color: LimeGreen">This is the key to efficient trait bondmate farming</span>.
         - Anonymous receive "spill over" trust points from Camp conversations from adventurer's with the same alignment.
         - Anonymous that share the MC's alignment receive an additional trust boost and require few-to-no Camp conversations. 
             - 90% of the time they will receive a flaming-heart after defeating the second GWO - as long as they did not die at any point during the battle or while leveling.
             - If they do not instantly receive the flaming-heart, then it usually requires 1-2 Camp conversations.
-        - Putting all BP into SPD is recommended to ensure the stat bondmates can move before Melgina or Octoranus to defend against their attacks.
+        - Putting all BP into SPD is recommended to ensure the trait bondmates can move before Melgina or Octoranus to defend against their attacks.
 
     === "Trait Bonuses"
 
@@ -200,8 +209,8 @@
         
 ??? note "Trust Farming Steps"
 
-    1. Ensure that every unit (besides the MC) shares the same alignment as the stat bondmate. 
-    2. It is most efficient to raise two different stat bondmates of the same alignment simultaneously.
+    1. Ensure that every unit (besides the MC) shares the same alignment as the trait bondmate. 
+    2. It is most efficient to raise two different trait bondmates of the same alignment simultaneously.
         - Neutral: Human Fighter (STR) and Elf Mage (IQ) 
         - Evil: Beast Thief (DEX), Human Ninja (SPD), Elf Priest (PIE)
         - Good: Human Priest (PIE), Dwarf Knight (VIT)
@@ -217,9 +226,9 @@
         - Harken to Floor 8 and reverse them. 
         - Wheel twice on "King's Arrival" in the Cursed Wheel to see if that restores them.
     7. Exit
-    8. Repeat this process until the flaming-heart procs on the stat bondmate. 
+    8. Repeat this process until the flaming-heart procs on the trait bondmate. 
 
-        !!! warning "Do not start trust farming until the stat bondmates have been promoted to Bronze grade and have defeated both GWOs (Helmut and either Melgina or Octoranus)." 
+        !!! warning "Do not start trust farming until the triat bondmates have been promoted to Bronze grade and have defeated both GWOs (Helmut and either Melgina or Octoranus)." 
 
 ### Putting It All Together
 
@@ -229,7 +238,7 @@
     - Killing them repeatedly does not give extra trust.    
     - If the Anonymous bondmate candidate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears.
-- Go to the Guild - Training Room and attach any 2x Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
+- Go to the Guild - Training Room and attach any 2x Level 5 bondmates (story or trait bondmate does not matter) to the trait bondmate.
 
 !!! danger "**DOUBLE-CHECK WARNING**"
 
@@ -239,7 +248,7 @@
 
 - Dismiss.
 - During the dismissal scene you will be notified that the adventurer is now a bondmate.
-- The Bronze Grade tag will be refunded.
+- The Bronze Grade tag will be refunded. Note that you cannot trade higher-tier tags for lower ones.
 - Check the Bondmate List to see if they rolled a Level 4 or 5.
 
 ### Other Notes
