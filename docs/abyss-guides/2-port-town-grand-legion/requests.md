@@ -563,7 +563,7 @@ Goetia -> Admiral Route
     ![](img/lock-vernant-up.jpg)
 
 - Beat Vernant twice, once where he has his herbs and once where you've swapped them out
-- Complete the Monster Bird Soup request
+- Complete the [Monster Bird Soup](requests.md#monster-bird-soup) request
 - Wheel back and complete [Pickerel's Report](requests.md#pickerels-report) again
 - Once you report back to Pickerel, you will have a new dialog option to trick Vernant and lock him away
 - (Optional) Find the first merchant in the 2nd District (room immediately north of the mermaid statue you see when you enter). ~~You will have to disable the current to get there.~~
