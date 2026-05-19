@@ -547,12 +547,12 @@ Goetia -> Admiral Route
 
 - Complete all three important request routes (Princess, Pontiff, and Admiral). You will also need to have to sabotaged the Vernant fight via Pickerel replacing his potion with onion soup in a different route.
 - Wheel back to Round 3 Pontiff and talk to the goblin so you can see that you're fighting Pickerel.  
-- Go to x and find him at the location in the image to overhear him talking to the head chef  
-- Speak with the head chef and he’ll tell you where to pick up the ingredients to make the soup  
-- Head to Valeon Grasslands and you’ll see a slave that runs away, just run a bit forward and you’ll see him on a hill then talk to him  
-- Follow the slaves instructions to get to the poison swamps  
-- Fight the bird and kill it  
-- Use your right hand to restore the bird nest then head to the eggs left of the nest to restore them and head out by using the cart  
+- Go to the spot with the check mark in the "Pickerel's Location" map below, and listen to him talking to the head chef.  
+- Speak with the head chef and he’ll tell you where to pick up the ingredients to make the soup.  
+- Head to Valeon Grasslands and you’ll see a slave that runs away, just run a bit forward and you’ll see him on a hill then talk to him.  
+- Follow the slaves instructions to get to the poison swamps.  
+- Fight the bird and kill it.  
+- Use your right hand to restore the bird nest then head to the eggs left of the nest to restore them and head out by using the cart.  
     
 ??? map "Pickerel's Location" 
     ![](img/image_66.jpg)
