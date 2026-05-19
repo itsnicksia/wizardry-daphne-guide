@@ -138,7 +138,7 @@ The path you choose is ultimately yours, and the only difference is with option 
 
 ## Octonarus
 
-Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina after the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
+Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of Melgina's after the 5th arena battle, you will end up in a battle with Octonarus where he will keep resurrecting Melgina and you'll have to kill her six times. Not fun\!
 
 1. Use the wheel to travel back to **One-Eyed Sahuagin** and speak to the Gessi destroying the statue using the “**Don’t you want to save Melgina**” option
 2. Use the wheel to travel back to **Flooded Town** and speak with Melgina using the “**Do you want to be free from Octonarus**” option
@@ -148,9 +148,9 @@ Once you’re ready to fight Octonarus, you first need to learn about him by rea
 6. Complete the [Obtaining Titanium Ore](./requests.md#obtaining-titanium-ore) request
     1. Note that if you want Gessi’s help against Octo, when you do the next step, make sure you configure the wheel so that you did not give the Purple Garlic to the head cook
 7. Use the wheel to travel back to **Arena Round 5** and after defeating Geuzan, engage Melgina with the “**Melgina's liberation**” option
-8. You now get to fight Octonarus
-    1. As part of this fight, you will still have to fight Melgina first, and she will resurrect once (you will have to fight her twice), however she will refuse resurrection after that
-    2. You cannot request healing prior to this fight, so make sure you conserve what you can while fighting Geuzan, and bring some potions to heal up as needed before engaging Melgina
+8. You now get to fight Octonarus:
+    1. As part of this fight, you will still have to fight Melgina first, and she will resurrect once (you will have to fight her twice), however she will refuse resurrection after that.
+    2. You cannot request healing prior to this fight, so make sure you conserve what you can while fighting Geuzan, and bring some potions to heal up as needed before engaging Melgina.
 
 ## Greater Warped One
 
@@ -167,7 +167,7 @@ Once you’re ready to fight Octonarus, you first need to learn about him by rea
 
 #### Right Arm of Reversal Usage
 
-* Use it on one the statue to drain the water.
+* Use it on the statue to drain the water.
 
 ### Octonarus
 
@@ -181,7 +181,7 @@ Once you’re ready to fight Octonarus, you first need to learn about him by rea
 * Make sure you reapply any crucial buffs or debuffs if Melgina clears them
 * Mages (Yekaterina in particular) should keep `Mental Unity` up so they can quickly clear any adds she spawns with a line spell.
 * If running two mages with one being Yeka, a single `KATINO` from your second mage followed by a `Mental Unity`-buffed `MAERLIK` will clear the adds out, quickly preventing any long-range bombardments.
-* If you beat Gessi without Purple Garlic and selected "Melgina's Liberation",he will join you after 3-5 rounds vs Octonarus, usually sometime after he summons Allies.
+* If you beat Gessi without Purple Garlic and selected "Melgina's Liberation", he will join you after 3-5 rounds vs Octonarus, usually sometime after he summons Allies.
 
 #### Right Arm of Reversal Usage
 
