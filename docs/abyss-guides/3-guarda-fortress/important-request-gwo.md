@@ -1,6 +1,8 @@
 # Guarda Fortress - Important Request and Greater Warped One
 
-!!! warning "Major spoilers ahead."
+!!! warning "Read Me"
+    - Major spoilers ahead.
+    - We are working on adding additional information on key steps and requirements for each ending.
 
 ## Endings Overview
 
@@ -24,83 +26,84 @@
 === "Abbreviations"
 
     - A3: Abyss 3
+    - A4: Abyss 4
     - CW: Cursed Wheel
     - GWO: Greater Warped One
      
-    
 
 ## Stabbed - Bad Ending 1
 
-### Summary 
+=== "Summary" 
 
-- This is the default ending from normal progression. It is mandatory and cannot be skipped.
-- During your first run you do not have the Golem Reversal power or the requisite Knowledge to complete the other endings.
-- For a per floor guide see [Maps](./maps.md).
-- There is no way to avoid being "spotted" by the corrosion sentries and is required to register them properly.
+    - This is the default ending from normal progression. It is mandatory and cannot be skipped.
+    - During your first run you do not have the Golem Reversal power or the requisite Knowledge to complete the other endings.
+    - For a per floor guide see [Maps](./maps.md).
+    - There is no way to avoid being "spotted" by the corrosion sentries and is required to register them properly.
 
-### Requirements
+=== "Requirements"
 
-- On your first run, after exiting Ixion's Room, you will gain access to the balcony. This is the point of no return. Approach the giant lever and an alarm will go off.
-- You will be surrounded by flying enemies. Do not panic. They move extremely slowly and can be easily avoided.
-- Your goal now is to make your way to the other side of the golem, which requires walking around the perimeter of the balcony. There are 2 forced encounters against 2x Evil Eye enemies. If you take too long they can summon a third. 
-- Once you reach the golem, Lulu will ask for a password. The answer is "Golem", which you need to type in.
-- Afterward you will gain a new reversal power and the golem will pull the lever. Walk over to the golem to set off the flare. Next, make your way back to the balcony and jump off. If you take too long the corrosion will catch up to you and push you off. You will not incur any HP damage if this happens. 
-- Defeat the GWO.
+    - On your first run, after exiting Ixion's Room, you will gain access to the balcony. This is the point of no return. Approach the giant lever and an alarm will go off.
+    - You will be surrounded by flying enemies. Do not panic. They move extremely slowly and can be easily avoided.
+    - Your goal now is to make your way to the other side of the golem, which requires walking around the perimeter of the balcony. There are 2 forced encounters against 2x Evil Eye enemies. If you take too long they can summon a third. 
+    - Once you reach the golem, Lulu will ask for a password. The answer is "Golem", which you need to type in.
+    - Afterward you will gain a new reversal power and the golem will pull the lever. Walk over to the golem to set off the flare. Next, make your way back to the balcony and jump off. If you take too long the corrosion will catch up to you and push you off. You will not incur any HP damage if this happens. 
+    - Defeat the GWO.
 
-Note
-- If you do not have enough resources to defeat the GWO -after- getting the Golem reversal power, then have MC die to an Evil Eye or the GWO and "Accept death".
-- CW to "Fortress 3rd Floor Arrival", which will take you to the Z10 Fountain. You can avoid all enemies except for a mandatory fight against an Evil Eye (instead of two), reverse the golem, and then fight the GWO. 
+    Note
+    
+    - If you do not have enough resources to defeat the GWO -after- getting the Golem reversal power, then have MC die to an Evil Eye or the GWO and "Accept death".
+    - CW to "Fortress 3rd Floor Arrival", which will take you to the Z10 Fountain. You can avoid all enemies except for a mandatory fight against an Evil Eye (instead of two), reverse the golem, and then fight the GWO. 
 
-### Outcome
+=== "Outcome"
 
-- <span style="color: #F2473A">Warning!</span> Be sure to speak with the servant's Lily and Allen immediately after defeating the GWO to gain important Knowledge for your second run.  
-- Once you leave the front entrace area the Duke's servant, Lily, will stab you.
-- Her daughter, Liam, has been kidnapped and is being used to coerce her and Alan into killing Duke Ixion.  
+    - <span style="color: #F2473A">Warning!</span> Be sure to speak with the servant's Lily and Allen immediately after defeating the GWO to gain important Knowledge for your second run.  
+    - Once you leave the front entrace area the Duke's servant, Lily, will stab you.
+    - Her daughter, Liam, has been kidnapped and is being used to coerce her and Alan into killing Duke Ixion.  
 
-### Rewards
+=== "Rewards"
 
-- Well of the Mind Lantern (VIT)
-- The lantern is given when reversing the Golem, just before the GWO fight. 
+    - Well of the Mind Lantern (VIT)
+    - The lantern is given when reversing the Golem, just before the GWO fight. 
 
 ## Executed - Bad Ending 2
 
-### Summary 
+=== "Summary" 
 
-- This is a mandatory ending and cannot be skipped.
-- After being stabbed, time will rewind and you will end up in front of the Fortress at CW node "Infiltrating the Fortress". Speak with Lulu about what you could have done differently for a hint.
-- For the second run you have three primary objectives:
-    - Save Liam to avoid being stabbed.
-    - Register corrosion sentries using the Golem reversal power, which you can use to kill them or block their line of sight for the "Not spotted" flag. 
-    - Lower the overall Abyss corrosion level by setting corrosion sentry CW nodes to "Not spotted" to gain access to new areas that were previously inaccessible.
-- Some players opt to start a new faction for their second run to more easily register corrosion sentries and to gain additional EXP, junk, etc. Subsequent runs will go faster since your team is stronger and you have more familiarity with each floor's layout.
-- If you want to progress to A4 quickly, then stay with your current faction. 
+    - This is a mandatory ending and cannot be skipped.
+    - After being stabbed, time will rewind and you will end up in front of the Fortress at CW node "Infiltrating the Fortress". Speak with Lulu about what you could have done differently for a hint.
+    - For the second run you have three primary objectives:
+        - Save Liam to avoid being stabbed.
+        - Register corrosion sentries using the Golem reversal power, which you can use to kill them or block their line of sight for the "Not spotted" flag. 
+        - Lower the overall Abyss corrosion level by setting corrosion sentry CW nodes to "Not spotted" to gain access to new areas that were previously inaccessible.
+    - Some players opt to start a new faction for their second run to more easily register corrosion sentries and to gain additional EXP, junk, etc. Subsequent runs will go faster since your team is stronger and you have more familiarity with each floor's layout.
+    - If you want to progress to A4 quickly, then stay with your current faction. 
 
-### Requirements
+=== "Requirements"
 
-- Complete [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request.
-    - The request is offered at the Guild, but requires Knowledge that Liam has been kidnapped. See the request details for how to unlock.      
-    - You only need to rescue Liam in "critical condition" to progress. Rescuing her safely gives her bondmate (Stun Tolerance) if you speak to the family after defeating the GWO. It is fixed at Level 1.
-    - Once Liam is rescued in "critical condition" or "safely" it will be permanently registered in the CW under "Fortress 3rd Floor Arrival - Abducted Child." You do -not- need to repeat this request on subsequent runs or for a different faction. Just make sure it is toggled correctly before defeating the GWO.
-- The overall Abyss corrosion level needs to be at 8 or lower otherwise everyone in Ixion's Room will be dead. See [Corrosion Mechanics](./corrosion.md/#corrosion-mechanics) under the "Duke's Room" tab.
-- Once Liam is saved you can CW directly to "Fortress 3rd Floor Arrival" to defeat the GWO. Double-check the toggle for "Abducted Child" is set properly before jumping.
-- In Ixion's Room you must speak with Alan to let him know that Liam is alive (there is a brief cutscene) before exiting.
-- Defeat the GWO. 
+    - Complete [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request.
+        - The request is offered at the Guild, but requires Knowledge that Liam has been kidnapped. See the request details for how to unlock.      
+        - You only need to rescue Liam in "critical condition" to progress. Rescuing her safely gives her bondmate (Stun Tolerance) if you speak to the family after defeating the GWO. It is fixed at Level 1.
+        - Once Liam is rescued in "critical condition" or "safely" it will be permanently registered in the CW under "Fortress 3rd Floor Arrival - Abducted Child." You do -not- need to repeat this request on subsequent runs or for a different faction. Just make sure it is toggled correctly before defeating the GWO.
+    - The overall Abyss corrosion level needs to be at 8 or lower otherwise everyone in Ixion's Room will be dead. See [Corrosion Mechanics](./corrosion.md/#corrosion-mechanics) under the "Duke's Room" tab.
+    - Once Liam is saved you can CW directly to "Fortress 3rd Floor Arrival" to defeat the GWO. Double-check the toggle for "Abducted Child" is set properly before jumping.
+    - In Ixion's Room you must speak with Alan to let him know that Liam is alive (there is a brief cutscene) before exiting.
+    - Defeat the GWO. 
 
-### Outcome
+=== "Outcome"
 
-- You saved Liam, but Guardian Knight Dalian accuses you of being Ixion's murderer because you are wearing a mask.
+    - You saved Liam, but Guardian Knight Dalian accuses you of being Ixion's murderer because you are wearing a mask.
 
-### Rewards
+=== "Rewards"
 
-- As a reward you get your head chopped off, congrats.
+    - As a reward you get your head chopped off, congrats.
 
-### Alternate Ending
+=== "Alternate Ending"
 
-- Conditions:
-    - You were aware that Liam was kidnapped, but did -not- save her; or,
-    - Saved Liam in any condition, but did -not- tell Alan she was rescued safely.
--  After defeating the GWO, Alan will stab you. It is the same outcome as Bad Ending 1, but with Alan killing you versus Lily. 
-- If you did save Liam, but still got stabbed, then double-check your "Abducted Child" toggle and make sure it is set properly. 
+    - Conditions:
+        - You were aware that Liam was kidnapped, but did -not- save her; or,
+        - Saved Liam in any condition, but did -not- tell Alan she was rescued safely.
+    -  After defeating the GWO, Alan will stab you. It is the same outcome as Bad Ending 1, but with Alan killing you versus Lily. 
+    - If you did save Liam, but still got stabbed, then double-check your "Abducted Child" toggle and make sure it is set properly. 
 
 ## Stop the Blackmailer and Save the Duke
 
