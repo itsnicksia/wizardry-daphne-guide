@@ -1,6 +1,21 @@
 # Guarda Fortress - Important Request and Greater Warped One
 
-## Endings
+!!! warning "Major spoilers ahead."
+
+## Endings Overview
+
+=== "Basics" 
+
+    - A3 has a total of 4 endings. They referred to as Stabbed (Bad 1), Executed (Bad 2), Blackmail (Good), and Mastermind (True). You will see these terms used interchangeably on the Discord, Reddit, and other places.
+    - To progress to A4 you need to clear the Blackmail ending.
+    - The overall Abyss corrosion level determines what version of the GWO you fight. Those mechanics are desribed [here](./corrosion.md). The Blackmail (GWO 8) and Mastermind (GWO 6) require a specific number of corrosion sentries to be registered.
+    - Corrosion sentries only need to be registered once in the Cursed Wheel. They are "globally" turned on if you start a new run with a different faction.
+    - Most players do a different faction for each ending. However, it is possible to complete all 4 on the same faction. 
+    
+=== "Special Endings" 
+
+    - The Mastermind ending with GWO 0 (all 13 corrosion sentries set to "Not Spotted") gives a secret achievement ("Guardian of Guarda") and unlocks the Rank 12 Cyclops bounty if all other bounties are completed and you have not yet reached A4. 
+    - On the Mastermind ending if you give the Mastermind Evidence to Alberio instead of Clemente you will get a secret ending and hidden achievement ("Heads Aligned, Fates Sealed"). 
 
 ### Mandatory - Getting Murdered
 
