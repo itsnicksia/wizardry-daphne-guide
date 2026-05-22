@@ -96,7 +96,7 @@ Note
 
 ### Alternate Ending
 
-- Two conditions:
+- Conditions:
     - You were aware that Liam was kidnapped, but did -not- save her; or,
     - Saved Liam in any condition, but did -not- tell Alan she was rescued safely.
 -  After defeating the GWO, Alan will stab you. It is the same outcome as Bad Ending 1, but with Alan killing you versus Lily. 
