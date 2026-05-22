@@ -1141,7 +1141,7 @@
 
     === "Tips"
         - Lamenting Snowfolk have around 27k HP each. They can cast MAERLIK/ERLIK for 500-600 damage. Their Clamp also does around 500. 
-        - Pixies have around 8k HP. They can hit for 500-600 with physical attacks. 
+        - Pixies have around 7.5k HP. They can hit for 500-600 with physical attacks. 
         - Gorgons have around 21-22k HP. They can be critted. Their Stone Breath generally hits around 400-500. Their Lunge can hit up to 1000.
         - MADALTO the pixies immediately and get rid of them, as they can apply Sleep which can easily get you killed.
         - It's recommended to BATILGREF both rows and then quickly deal with the columns. If possible, kill the Gorgon before the Lamenting Snowfolk as the Gorgons can instantly stone a row if both aim their breath at the same row. The Gorgons also frequently Lunge, which switches a frontline unit with the backline.
@@ -1176,7 +1176,7 @@
         - Backline: Snow Hawk 2x, Pixie 2x
 
     === "Tips"
-        - Pixies have around 10k HP each. FERU can hit for 700-800.
+        - Pixies have around 7.5k HP each. FERU can hit for 700-800.
         - Snow Hawks have around 6k HP each. 
         - Big Snow Hawks have around 19-20k HP. Their Frost Blades can hit for 1000.
         - This match is pretty easy, everything can be evaded. MADALTO the backline and immediately kill the pixies. The Snow Hawks however, require 3 DALTOs to freeze.
