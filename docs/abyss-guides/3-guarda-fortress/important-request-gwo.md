@@ -6,7 +6,11 @@
 
 === "Basics" 
 
-    - A3 has a total of 4 endings. They are referred to as Stabbed (Bad 1), Executed (Bad 2), Blackmail (Good), and Mastermind (True). You will see these terms used interchangeably on the Discord, Reddit, and other places.
+    - A3 has a total of 4 endings. The ending names are used interchangeably on the Discord, Reddit, and other places.
+        - Stabbed (Bad 1)
+        - Executed (Bad 2)
+        - Blackmail (Good)
+        - Mastermind (True)
     - To progress to A4 you need to clear the Blackmail ending.
     - The overall Abyss corrosion level determines what version of the GWO you fight. Those mechanics are desribed [here](./corrosion.md). The Blackmail (GWO 8) and Mastermind (GWO 6) require a specific number of corrosion sentries to be registered.
     - Corrosion sentries only need to be registered once in the Cursed Wheel. They are "globally" turned on if you start a new run with a different faction.
@@ -17,59 +21,88 @@
     - The Mastermind ending with GWO 0 (all 13 corrosion sentries set to "Not Spotted") gives a secret achievement ("Guardian of Guarda") and unlocks the Rank 12 Cyclops bounty if all other bounties are completed and you have not yet reached A4. 
     - On the Mastermind ending if you give the Mastermind Evidence to Alberio instead of Clemente you will get a secret ending and hidden achievement ("Heads Aligned, Fates Sealed"). 
 
-### Mandatory - Getting Murdered
+=== "Abbreviations"
 
-This mandatory ending is triggered when killing the Greater Warped One for the first time.
+    - A3: Abyss 3
+    - CW: Cursed Wheel
+    - GWO: Greater Warped One
+     
+    
 
-You don't have the ability to activate **Golems**, nor the requisite **Knowledge** to complete requests required for [Stopping the Blackmailer](#stop-the-blackmailer-and-save-the-duke).
+## Stabbed - Bad Ending 1
 
-#### Outcome
+### Summary 
 
-Killed by the Duke's servant, Lily.
+- This is the default ending from normal progression. It is mandatory and cannot be skipped.
+- During your first run you do not have the Golem Reversal power or the requisite Knowledge to complete the other endings.
+- For a per floor guide see [Maps](./maps.md).
+- There is no way to avoid being "spotted" by the corrosion sentries and is required to register them properly.
 
-#### Requirements
+### Requirements
 
-1. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+- On your first run, after exiting Ixion's Room, you will gain access to the balcony. This is the point of no return. Approach the giant lever and an alarm will go off.
+- You will be surrounded by flying enemies. Do not panic. They move extremely slowly and can be easily avoided.
+- Your goal now is to make your way to the other side of the golem, which requires walking around the perimeter of the balcony. There are 2 forced encounters against 2x Evil Eye enemies. If you take too long they can summon a third. 
+- Once you reach the golem, Lulu will ask for a password. The answer is "Golem", which you need to type in.
+- Afterward you will gain a new reversal power and the golem will pull the lever. Walk over to the golem to set off the flare. Next, make your way back to the balcony and jump off. If you take too long the corrosion will catch up to you and push you off. You will not incur any HP damage if this happens. 
+- Defeat the GWO.
 
-#### Rewards
+Note
+- If you do not have enough resources to defeat the GWO -after- getting the Golem reversal power, then have MC die to an Evil Eye or the GWO and "Accept death".
+- CW to "Fortress 3rd Floor Arrival", which will take you to the Z10 Fountain. You can avoid all enemies except for a mandatory fight against an Evil Eye (instead of two), reverse the golem, and then fight the GWO. 
+
+### Outcome
+
+- <span style="color: #F2473A">Warning!</span> Be sure to speak with the servant's Lily and Allen immediately after defeating the GWO to gain important Knowledge for your second run.  
+- Once you leave the front entrace area the Duke's servant, Lily, will stab you.
+- Her daughter, Liam, has been kidnapped and is being used to coerce her and Alan into killing Duke Ixion.  
+
+### Rewards
 
 - Well of the Mind Lantern (VIT)
-- The lantern is given when reversing the Golem, just before the fight against the Greater Warped One.
+- The lantern is given when reversing the Golem, just before the GWO fight. 
 
-### Alternate - Getting Murdered
+## Executed - Bad Ending 2
 
-#### Outcome
+### Summary 
 
-Killed by the Duke's servant, Alan.
+- This is a mandatory ending and cannot be skipped.
+- After being stabbed, time will rewind and you will end up in front of the Fortress at CW node "Infiltrating the Fortress". Speak with Lulu about what you could have done differently for a hint.
+- For the second run you have three primary objectives:
+    - Save Liam to avoid being stabbed.
+    - Register corrosion sentries using the Golem reversal power, which you can use to kill them or block their line of sight for the "Not spotted" flag. 
+    - Lower the overall Abyss corrosion level by setting corrosion sentry CW nodes to "Not spotted" to gain access to new areas that were previously inaccessible.
+- Some players opt to start a new faction for their second run to more easily register corrosion sentries and to gain additional EXP, junk, etc. Subsequent runs will go faster since your team is stronger and you have more familiarity with each floor's layout.
+- If you want to progress to A4 quickly, then stay with your current faction. 
 
-#### Requirements
+### Requirements
 
-1. Meet the Duke's party.
-2. Fail to save Liam or fail to notify Alan that she was saved.
-3. Defeat the Greater Warped One of the Guarda Fortress Abyss.
+- Complete [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request.
+    - The request is offered at the Guild, but requires Knowledge that Liam has been kidnapped. See the request details for how to unlock.      
+    - You only need to rescue Liam in "critical condition" to progress. Rescuing her safely gives her bondmate (Stun Tolerance) if you speak to the family after defeating the GWO. It is fixed at Level 1.
+    - Once Liam is rescued in "critical condition" or "safely" it will be permanently registered in the CW under "Fortress 3rd Floor Arrival - Abducted Child." You do -not- need to repeat this request on subsequent runs or for a different faction. Just make sure it is toggled correctly before defeating the GWO.
+- The overall Abyss corrosion level needs to be at 8 or lower otherwise everyone in Ixion's Room will be dead. See [Corrosion Mechanics](./corrosion.md/#corrosion-mechanics) under the "Duke's Room" tab.
+- Once Liam is saved you can CW directly to "Fortress 3rd Floor Arrival" to defeat the GWO. Double-check the toggle for "Abducted Child" is set properly before jumping.
+- In Ixion's Room you must speak with Alan to let him know that Liam is alive (there is a brief cutscene) before exiting.
+- Defeat the GWO. 
 
-#### Rewards
+### Outcome
 
-- None
+- You saved Liam, but Guardian Knight Dalian accuses you of being Ixion's murderer because you are wearing a mask.
 
-### Mandatory - Getting Executed
+### Rewards
 
-#### Outcome
+- As a reward you get your head chopped off, congrats.
 
-Executed in town due to accusations by Guardian Knight Dalian.
+### Alternate Ending
 
-#### Requirements
+- Two conditions:
+    - You were aware that Liam was kidnapped, but did -not- save her; or,
+    - Saved Liam in any condition, but did -not- tell Alan she was rescued safely.
+-  After defeating the GWO, Alan will stab you. It is the same outcome as Bad Ending 1, but with Alan killing you versus Lily. 
+- If you did save Liam, but still got stabbed, then double-check your "Abducted Child" toggle and make sure it is set properly. 
 
-1. Meet the Duke's party.
-2. Save a young girl named Liam (Alan and Lily's daughter) and notify Alan when meeting the Duke's party.
-3. Fail to give "Blackmail Evidence" to Guardian Knight Dalian.
-4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
-
-#### Rewards
-
-- None
-
-### Stop the Blackmailer and Save the Duke
+## Stop the Blackmailer and Save the Duke
 
 This is the first ending you will obtain that successfully completes the "Duke Ixion" request.
 
@@ -88,13 +121,13 @@ Saved the Duke, but did not find the culprit behind the sinister events in Guard
 
 You can save Liam once you receive "Lily and Alan's Guild Request".
 
-See [Search for the Missing Girl Request](./requests.md#search-for-the-missing-girl)
+See 
 
 #### Rewards
 
 - Well of the Mind Lantern (DEX)
 
-### Stop the Mastermind and Save the Duke
+## Stop the Mastermind and Save the Duke
 
 #### Outcome
 
