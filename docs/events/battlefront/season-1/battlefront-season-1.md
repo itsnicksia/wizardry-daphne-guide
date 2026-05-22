@@ -1023,7 +1023,7 @@
 
     === "Enemy Formation"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
-        - Backline: Mage Adventurer 1x, Ninja 2x
+        - Backline: Mage Adventurer 2x, Ninja 2x
 
     === "Tips"
         - The Red Spinner Woman has around 13-14k HP. Has very high accuracy. Can be crit.
