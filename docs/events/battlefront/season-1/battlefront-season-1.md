@@ -993,7 +993,7 @@
 
     === "Tips"
         - There is referee intervention at the start of the match, which gives all of the enemies an ATK up buff.
-        - Mage Adventurers have around 7k HP each. They can be critted.
+        - Mage Adventurers have around 7k HP each. They can be critted. They take 3 DALTOs to freeze.
         - The middle Hobgoblin has around 16-18k HP and high defense (need 2h or defense penetration weapons). The side ones have around 5k HP.
         - Mage Adventurers tend to prioritze casting BALAFEOS first on any rows without ATK debuff. They also prefer casting other debuff spells, but can cast extremely high damage MIGAL (800ish). The BALAFEOS is quite strong so ABIT it ASAP on ATK-scaling units. It seems like they can be outsped if a unit has over 190-200 ASPD.
         - Hobgoblins use their standard skillset. Can be evaded with Dark Element units with 180+ EVA.
@@ -1011,7 +1011,7 @@
 
     === "Tips"
         - Bunnies have around 5k HP. They have extremely high evasion, but can be slept very easily. It's not recommended to freeze them. 
-        - Ninjas have around 5k HP. They tend to cast low accuracy row status effects or low damage row magic. They can be evaded otherwise. They also can be critted.
+        - Ninjas have around 5k HP. They tend to cast low accuracy row status effects or low damage row magic. They can be evaded otherwise. They also can be critted. They take 3 DALTOs to freeze.
         - The Big Slime has around 8k HP. The water slimes have around 6-7k HP. The Big Slime and Water Slimes can be evaded, but the water slimes can be somewhat accurate. The water slimes can be critted.
         - The Entities have around 5.5k HP. They can be evaded if they are not casting magic with the previously mentioned stats.
         - It's recommended to kill in the order of Bunnies, Ninjas, Entities, and Slimes.
@@ -1108,9 +1108,10 @@
 
     === "Tips"
         - Ninjas have 5k HP. Mage Adventurers have 7k HP. Same as before.
-        - Chimeras have around 50k HP each. They are immune to KANTIOS. KATINO rarely lands.
+        - Chimeras have around 50k HP each. They are immune to KANTIOS. KATINO rarely lands. They can be evaded with 350 EVA if unbuffed.
         - The Chimeras are extremely fast, accurate, and have very high surety chance. You essentially have to pray your damage reduction passives (WOTK, Sanctuary's Blessing, Wisdom of Truth, Eyes that Know the Future) will proc here or they can instantly kill. It's very recommended that your entire frontline has Magical Beast Resist gear. They also can be consistently evaded with 250 EVA + MASOLOTU + chill status. 350-400 EVA may also be enough alone.
         - Ideally just BATILGREF the Chimeras and defend with your frontline. Try to kill enemies with your backline. Focus on clearing the enemy backline first, particularly the mages so they don't keep debuffing you.
+        - All enemies can be Frozen if necessary.
 
 === "Round 10"
 
@@ -1128,6 +1129,7 @@
         - It's recommended to immediately freeze the Minotaur, as it can be frozen with 2 DALTOs. Freezing the Our Heirlooms is also very recommended after dealing with the backline. BATILGREF also helps delay them further.
         - The Minotaur has relatively high accuracy, and does very high damage so deal with it first. Very recommended to use Magical Beast Resist gear for your frontline. Can be evaded consistently with enough evasion (e.g. 230 EVA + DILTO + Frozen OR 350+ EVA)
         - Our Heirlooms has a standard moveset and isn't that strong. Preferably do not use low fortitude units for this fight though.
+        - All enemies can be Frozen if necessary.
 
 === "Round 11"
 
@@ -1159,7 +1161,7 @@
     === "Tips"
         - Mage Adventurers have 7k HP. Can be crit.
         - Earth Slimes have around 5-6k HP each. They typically hit for around 700.
-        - The Evil Eye has around 41-44k HP. Scintillating Laser can easily hit for 1k.
+        - The Evil Eye has around 41-44k HP. Scintillating Laser can easily hit for 1k. It is very resistant to freezing.
         - The Hydra Plants have around 20k HP each. They typically hit for around 700-800. Digestive Juices does around 300-400.
         - It goes without saying, immediately kill the Mage Adventurer. Then it's preferable to focus on killing the Evil Eye, as it gets two actions a turn, and can potentially wipe an entire row at once. It's somewhat evadable, but very risky if it starts targetting the backline, which may not have very high evasion. In addition, it has a very high chance of calling for an Ally randomly, which is another Evil Eye but with significantly less HP.
         - The Hydra Plants have a standard moveset, and don't really do much damage. However, that row damage cannot be evaded.
@@ -1181,7 +1183,7 @@
         - Big Snow Hawks have around 19-20k HP. Their Frost Blades can hit for 1000.
         - This match is pretty easy, everything can be evaded. MADALTO the backline and immediately kill the pixies. The Snow Hawks however, require 3 DALTOs to freeze.
         - Can BATILGREF/MADALTO to reduce their evasion. It's not recommended to use Dissipation or Malefic Wind unless you have plenty of resources remaining to remove their CT/EVA buffs.
-
+        - All enemies can be Frozen if necessary.
 === "Round 14"
 
     === "Fight Preview"
@@ -1197,6 +1199,7 @@
         - Mage Adventurer has 7k HP.
         - The clouds have very high defense, especially in the backline and seem to always go first. However, they can generally be evaded. Deal with these last.
         - MADALTO the front row, as the Succubi are very evasive but freeze immediately. Kill them and the Mage Adventurer. Then focus on chipping away on the clouds.
+        - All enemies can be Frozen if necessary.
 
 === "Round 15"
 
@@ -1209,13 +1212,14 @@
         - Debuff Applied: Beastfolk Stats Down
 
     === "Tips"
-        - Referee Intervention happens at the very beginning of the stage. It debuffs everyone's DEF and MDEF for 5 turns, as well as reducing ASPD for 1 turn.
+        - Referee Intervention happens at the very beginning of the stage. It debuffs everyone's DEF and MDEF for 5 turns, as well as reducing ASPD for 1 turn. It can be resisted.
         - Bigfoot has around 30-34k HP. Only really spams its breath move on either row.
         - Bigfoot Children have around 17-18k HP each. They have extremely high accuracy. When the Bigfoot dies, they get a permanent ATK and CT debuff. Their damage drops in half.
         - Cyclops has around 100k HP. Its basic attacks are evadable, but Wheeling Cleave and Gale Strike are not. They can also surety.
         - Majority of the enemies generally cannot be evaded. It's highly recommended to cast BATILGREF and MADALTO on the frontline + backline in order to buy as much time as possible.
         - Kill the Bigfoot first, as this will apply an additional CT and ATK down on the Bigfoot children. You can then focus on killing the Cyclops and then the rest of the Bigfoot children.
         - It's almost mandatory to run a large amount of Stun/Paralysis Tolerance for this as the breath from the Bigfoot can easily end the run. It's recommended to bring Asha and Eldorado for this if possible, as they can both also help apply MADALTO.
+        - All enemies can be Frozen if necessary.
 
 === "Round 16"
 
@@ -1230,11 +1234,12 @@
         - You can farm this floor for SP if you keep killing the Stonefolk with a Debra inherited skill unit and fleeing.
         - The Stonefolk has around 5k HP, but has very high defenses. It hits very hard, but typically dies very quickly.
         - The Mimic has around 81-82k HP. It moves twice a turn and has a standard moveset. It can easily hit for 900+ per physical attack.
-        - The Lamenting Snowfolk have around 30k HP each. They have a standard moveset. Its ERLIK can easily hit for 800+.
+        - The Lamenting Snowfolk have around 30k HP each. They have a standard moveset. Its ERLIK can easily hit for 800+. They freeze instantly.
         - The Stonefolk typically just uses physical attack, and it has insanely high damage, basically unsurvivable if not defending. It has very high defense as well, but has very little HP.
         - The Lamenting Snowfolk will prioritize casting single-target magic, which includes DALTO, which can mess with evasion strategies. Keep in mind though, that they can also use Clamp which does a lot of damage if they move to the frontline.
         - The Mimic has its usual moveset. Its physical moves can be evaded, but it can occasionally cast low damage magic.
         - It's recommended to BATILGREF both rows and take care of the Stonefolk and Mimic first before dealing with the Lamenting Snowfolk.
+        - All enemies can be Frozen if necessary.
 
 === "Round 17"
 
@@ -1253,6 +1258,7 @@
         - There is a Referee Intervention giving 5 turns of ATK and CT up to all enemies on their 2nd turn.
         - All the enemies have standard movesets in here. They are also relatively slow. The Lizardman Champion may cast Merfolk Command on its first turn, which gives 4 turns of ACC,CT,EVA up on itself and the Lizardman. It's highly recommended to cleanse the ACC buff ASAP, as the strategy for this fight will be evasion. Keep in mind however, the Lizardman still have relatively high accuracy, so they hit you. 
         - It's recommended to kill the Lizardman first as they're the biggest threats here. Then kill the Fire Entities as they can cast magic. The rest can be evaded.
+        - All enemies can be Frozen if necessary.
 
 === "Round 18"
 
@@ -1286,6 +1292,7 @@
         - The normal snow wolves will summon other wolves and buff the entire team with ACC,EVA, and ATK up. This basically makes them nearly unevadable unless you have an extremely evasive frontline.
         - A common strategy is to use a Knight, preferably a Dark element one with magical beast resistance gear, and Line Cover/All-Around Cover for your front row. This way you can abuse openings and quickly thin out the wolves. It's recommended to kill the Snow Wolf Leader ASAP as it's much more of a threat than the other wolves. However, thinning out some normal wolves first is also very ideal. 350 EVA is enough to evade the Snow Wolves frequently.
         - All the wolves including the leader are somewhat vulnerable to sleep. The leader is a bit more resistant, but KATINO can typically sleep several normal wolves in a row.
+        - All enemies can be frozen if necessary.
 
 === "Round 20"
 
@@ -1297,7 +1304,12 @@
         - Backline: Greater Demon 2x
 
     === "Tips"
+        - The Attack Golem has ~87k HP. It will cast Offensive Mechanism (4 turns of ATK/ACC up) when 35k damage has been dealt. It will basically kill anything instantly if it lands a hit.
+        - The Defense Golem has ~30k HP. It does Core Activation at 14k Damage dealt. It will cast Defensive Mechanism at 17k Damage dealt (cleanse debuffs + extremely high def).
+        - The Greater Demons have around 50-52k HP each. They have a standard skillset. They prefer to cast MONTINO if they are not spellbound.
+        - Referee Intervention immediately applies 5 turns of a strong ATK, MAG, and ACC down on everyone. It can be resisted.
         - One of the easiest fights. All the enemies here can be fully evaded with 180 EVA + MASOLOTU LVL 1 + DILTO LVL 1. You just need to MONTINO both Greater Demons and then dissipate the ACC buff whenever the Golems buff themselves. It's recommended to take out the Attack Golem first, then the rest in whatever order.
+        - All enemies can be Frozen if necessary.
 
 ## Game Updates
 
