@@ -1281,9 +1281,11 @@
         - Backline: Snow Wolf 4x
 
     === "Tips"
+        - The Snow Wolves have ~10k HP each. Fangs does around 400 damage and can surety. They typically prefer to summon other wolves or buff an entire row on their first turn. They can be crit.
+        - Snow Wolf Leader has ~63k HP. Frost Fangs can do 1000 and applies 5 stacks of chill. Breath of Cold does 200-300 and applies 3 stacks of chill to a row. It is somewhat evasive, especially after applying chill. It's recommended to MACALDIA and/or apply EVA down on the boss.
         - The normal snow wolves will summon other wolves and buff the entire team with ACC,EVA, and ATK up. This basically makes them nearly unevadable unless you have an extremely evasive frontline.
-        - A common strategy is to use a Knight, preferably a Dark element one with magical beast resistance gear, and Line Cover/All-Around Cover for your front row. This way you can abuse openings and quickly thin out the wolves. It's recommended to kill the Snow Wolf Leader ASAP as it's much more of a threat than the other wolves.
-        - All the wolves including the leader are somewhat vulnerable to sleep. The leader is a bit more resistant, but KATINO can typically sleep several in a row.
+        - A common strategy is to use a Knight, preferably a Dark element one with magical beast resistance gear, and Line Cover/All-Around Cover for your front row. This way you can abuse openings and quickly thin out the wolves. It's recommended to kill the Snow Wolf Leader ASAP as it's much more of a threat than the other wolves. However, thinning out some normal wolves first is also very ideal. 350 EVA is enough to evade the Snow Wolves frequently.
+        - All the wolves including the leader are somewhat vulnerable to sleep. The leader is a bit more resistant, but KATINO can typically sleep several normal wolves in a row.
 
 === "Round 20"
 
