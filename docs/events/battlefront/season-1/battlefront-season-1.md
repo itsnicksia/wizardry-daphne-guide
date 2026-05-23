@@ -1227,6 +1227,10 @@
         - Backline: Lamenting Snowfolk 2x
 
     === "Tips"
+        - You can farm this floor for SP if you keep killing the Stonefolk with a Debra inherited skill unit and fleeing.
+        - The Stonefolk has around 5k HP, but has very high defenses. It hits very hard, but typically dies very quickly.
+        - The Mimic has around 81-82k HP. It moves twice a turn and has a standard moveset. It can easily hit for 900+ per physical attack.
+        - The Lamenting Snowfolk have around 30k HP each. They have a standard moveset. Its ERLIK can easily hit for 800+.
         - The Stonefolk typically just uses physical attack, and it has insanely high damage, basically unsurvivable if not defending. It has very high defense as well, but has very little HP.
         - The Lamenting Snowfolk will prioritize casting single-target magic, which includes DALTO, which can mess with evasion strategies. Keep in mind though, that they can also use Clamp which does a lot of damage if they move to the frontline.
         - The Mimic has its usual moveset. Its physical moves can be evaded, but it can occasionally cast low damage magic.
@@ -1242,8 +1246,13 @@
         - Backline: Fire Entity 2x, Lizardman Champion 1x
 
     === "Tips"
-        - All the enemies have standard movesets in here. The Lizardman Champion will cast Merfolk Command on its first turn, which gives 4 turns of ACC,CT,EVA up on itself and the Lizardman. It's highly recommended to cleanse the ACC buff ASAP, as the strategy for this fight will be evasion. Keep in mind however, the Lizardman still have relatively high accuracy, so they hit you.
-        - Kill the Fire Slimes first, as they have little HP and can apply evasion down. This will also move the Lizardman Champion to the same row as the Lizardman, where you can dispel all their buffs at once with Malefic Wind and/or Lvl 2 Dissiption. You can also now BATILGREF + MADALTO (chill reduces accuracy) all of them at once. Kill the Fire Entities ASAP as well as they can cast magic. Afterwards, continue working on the rest of the enemies.
+        - Lizardmans have around 15-16k HP each. They are very accurate and their swipe hits twice for ~800 each.
+        - The Lizardman Champion has around 25k HP. It has very high defense, which gets even higher when its HP is very low.
+        - The Fire Slimes have around 7k HP. Standard moveset.
+        - Entities have around 5k HP. Their HALITO hits for around 400.
+        - There is a Referee Intervention giving 5 turns of ATK and CT up to all enemies on their 2nd turn.
+        - All the enemies have standard movesets in here. They are also relatively slow. The Lizardman Champion may cast Merfolk Command on its first turn, which gives 4 turns of ACC,CT,EVA up on itself and the Lizardman. It's highly recommended to cleanse the ACC buff ASAP, as the strategy for this fight will be evasion. Keep in mind however, the Lizardman still have relatively high accuracy, so they hit you. 
+        - It's recommended to kill the Lizardman first as they're the biggest threats here. Then kill the Fire Entities as they can cast magic. The rest can be evaded.
 
 === "Round 18"
 
@@ -1255,8 +1264,11 @@
         - Backline: Mage Adventurer 3x
 
     === "Tips"
+        - Mage Adventurers have 7k HP each. Same as usual.
+        - Vampires have ~15-19k HP each (basically need to freeze and use a skill). They also take two actions a turn. They do a lot of damage with Vampire Bats, but otherwise have low accuracy on their Eye of Torpor.
+        - Sand Apparitions have 19-20k HP each. Their ERLIK does around 500. Their Sandstorm can do 700-800 to a row. They can cast BATILGREF. Theycan be crit.
         - Sand Apparitions may cast sandstorm which will do extremely high amounts of damage that cannot be dodged. Cortu may help a little bit here with survivability. Otherwise, they don't do much if they use any other skill. They cannot be chilled.
-        - The Vampires can be frozen immediately, but have somewhat higher HP than previously encountered evasive enemies, so it's recommended to Poised them after being frozen. ESS lvl 1 may not be enough in some cases.
+        - The Vampires can be frozen immediately, but have somewhat higher HP than previously encountered evasive enemies, so it's recommended to Poised them after being frozen. ESS lvl 1 may not be enough in some cases. They also may not freeze immediately.
         - The mages should be taken care of ASAP as they are quite annoying as usual.
 
 === "Round 19"
