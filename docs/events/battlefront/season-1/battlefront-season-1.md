@@ -1271,7 +1271,7 @@
 
     === "Tips"
         - Mage Adventurers have 7k HP each. Same as usual.
-        - Vampires have ~15-19k HP each (basically need to freeze and use a skill). They also take two actions a turn. They do a lot of damage with Vampire Bats, but otherwise have low accuracy on their Eye of Torpor.
+        - Vampires have ~18k HP each (basically need to freeze and use a skill). They also take two actions a turn. They do a lot of damage with Vampire Bats, but otherwise have low accuracy on their Eye of Torpor.
         - Sand Apparitions have 19-20k HP each. Their ERLIK does around 500. Their Sandstorm can do 700-800 to a row. They can cast BATILGREF. Theycan be crit.
         - Sand Apparitions may cast sandstorm which will do extremely high amounts of damage that cannot be dodged. Cortu may help a little bit here with survivability. Otherwise, they don't do much if they use any other skill. They cannot be chilled.
         - The Vampires can be frozen immediately, but have somewhat higher HP than previously encountered evasive enemies, so it's recommended to Poised them after being frozen. ESS lvl 1 may not be enough in some cases. They also may not freeze immediately.
