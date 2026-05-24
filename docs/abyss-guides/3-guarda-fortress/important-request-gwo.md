@@ -26,7 +26,7 @@
 === "Other"
 
     - A3 is a significant jump in difficulty. It is normal to struggle in Z1-3 until you have better gear and higher levels. 
-    - A3 has the largest number of floors with [map variations](../mechanics/map-variations.md) 
+    - A3 has the largest number of floors with [map variations](../../../mechanics/map-variations.md) 
     - With normal progression you should reach Level 60 by the end of your first run. With the addition of A4 you have the option to take the Copper exam that raises the level cap to 70. 
     - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
     - None of the Important Request faction rewards are particularly valuable.
@@ -67,8 +67,8 @@
 
     - From the Z10 Fountain head south to Ixion's room. All the wandering sentries can be avoided. 
     - Watch the brief scene in Ixion's room and proceed to the southern balcony area. This is the point of no return. Be careful as there are 2 wandering sentries roaming the area. 
-    - Approach the giant lever and an alarm will go off. Flying enemies (Evil Eyes) will surrounding you and corrosion will block the exit. Do not panic. They move extremely slowly and can be avoided. To progress you need to reach the other side of the golem via looping around the perimeter of the balcony.  
-    - <span style="color: #F2473A">Warning!</span> On the balcony there is a forced encounter against 2x Evil Eye enemies. On future runs there is only 1 forced encounter.  
+    - Approach the giant lever and an alarm will go off. Flying enemies (Evil Eyes) will surround you and corrosion will block the exit. Do not panic. They move extremely slowly and can be avoided. To progress, you need to reach the other side of the golem via looping around the perimeter of the balcony.  
+    - <span style="color: #F2473A">Warning!</span> On the balcony there is a forced encounter against 2x Evil Eyes. On future runs there is only 1 forced encounter.  
     - Interact with the golem for a brief cutscene with Lulu. Type in "Golem" to gain the Golem reversal power. You will have another forced encounter against 2x Evil Eyes. Reverse the golem and move forward as there is another enemy to your immediate left.  
     - Walk over to the golem to set off the Singal Rocket. Now head back to the balcony and jump off. You will be forced off the balcony if the corrosion catches up to you, but will not incur any HP damage. 
     - Defeat the GWO. 
@@ -76,7 +76,7 @@
 
 === "Tip"
     
-    - If you do not have enough resources to defeat the GWO -after- getting the Golem reversal power, then have MC die to an Evil Eye or the GWO and "Accept death".
+    - If you do not have enough resources to defeat the GWO -after- getting the Golem reversal power, then have the MC die to an Evil Eye or the GWO and "Accept death". Have the rest of your team defend to cut down on revival costs.
     - After zoning back in, heal at the Inn. 
     - Go to the Ruins - Cursed Wheel and jump to Fortress 3rd Floor Arrival, which will take you to the Z10 Fountain. 
     - With the Golem reversal power learned there is only one forced encounter with the 2x Evil Eyes, which should help preserve your resources. Bringing additional MP and SP pots is recommended. 
