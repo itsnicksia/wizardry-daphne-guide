@@ -25,7 +25,7 @@
 
 === "Other"
 
-    - A3 is a significant jump in difficulty. It is normal to struggle in Z1-3 until you have better gear and higher levels. It also has the largest number of floors with [map variations](../../../mechanics/map-variations.md). Your maps may not always match what is shown on the site. 
+    - A3 is a significant jump in difficulty. It is normal to struggle in Z1-3 until you have better gear and higher levels. It also has the largest number of floors with [map variations](../../../mechanics/map-variations). Your maps may not always match what is shown on the site. 
     - With normal progression you should reach Level 60 by the end of your first run. With the addition of A4 you have the option to take the Copper exam that raises the level cap to 70. 
     - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
     - None of the Important Request faction rewards are particularly valuable.
