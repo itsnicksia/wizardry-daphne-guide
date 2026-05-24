@@ -11,11 +11,11 @@
     - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
     - A blank space means that we have no information on that entry.
     - A `-` means that nothing is gained at that level. 
-    - L refers to the level of the passive. L4 = Level 4. 
+    - L refers to the level of the passive. Lv4 = Level 4. 
     - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
     - Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
     - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
-    - Legendary and class passives max out at L6. If the unit does not have access to the listed class or is not self-inheriting. 
+    - Legendary and class passives max out at Lv6. If the unit does not have access to the listed class or is not self-inheriting. 
 
 ## Class  
 
@@ -23,7 +23,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
     | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
     | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -36,7 +36,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
     | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -49,7 +49,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
     | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
     | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -64,7 +64,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
     | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -75,7 +75,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | MP Up             |          | 4  |   |   |   |   |  |   |
     | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -87,7 +87,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
     | SP Up           |          | 4  | 6 (10)  | 8 (18)  |    |    |    |    |
     | Surety Up       |          | 2  | 2 (4)  | 4 (8)  |    |    |    |    |
@@ -103,7 +103,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
     | Accuracy Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Detection Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -117,7 +117,7 @@
 
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Name &emsp; &emsp; &emsp; &emsp;           | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name &emsp; &emsp; &emsp; &emsp;           | Stat     | Lv1| Lv2| Lv3| Lv4 | Lv5 | Lv6 | Lv7 | L8 | L9 | Lv10| Lv11| Lv12| Lv13| Lv14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Beast-Thi     | Accuracy            | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  | 
     | Dwarf-Kni     | HP                  | 4 | 2 | 2 | 2  | 4  | 2  | 2  | 2  | 2  | 6  | 2  | 2  | 4  | 4  |
@@ -134,7 +134,7 @@
 
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Name &emsp; &emsp; &emsp; &emsp;         | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name &emsp; &emsp; &emsp; &emsp;         | Stat     | Lv1| Lv2| Lv3| Lv4 | Lv5 | Lv6 | Lv7 | L8 | L9 | Lv10| Lv11| Lv12| Lv13| Lv14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Beast-Thi     | Accuracy           | 2 | 3 | 4 | 5  | 7  | 9  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Dwarf-Kni     | HP                 | 4 | 6 | 8 | 10 | 14 | 16 | 18 | 20 | 22 | 28 | 30 | 32 | 36 | 40 |
@@ -155,7 +155,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    |                   | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|----|----|----|----|----|----|----|
     | Detect            | 2  |    |    |    |    |    |    |   
     | Disarm Trap &emsp; &emsp; &emsp; &emsp;      | 5  |    |    |    |    |    |    |       
@@ -167,7 +167,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    |                   | L1 | L2 | L3 | L4 | L5 | L6 |  
+    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 |  
     |:------------------|----|----|----|----|----|----|
     | Detect            | 1  | 1 (2) | 2 (4)  | 2 (6)  | 2 (8)  | 2 (10)  |       
     | Disarm Trap &emsp; &emsp; &emsp; &emsp;       | 3  | 2 (5) | 4 (9)  | 2 (11)  | 4 (15)  | 2 (17)  |           
@@ -181,7 +181,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    |                                | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    |                                | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:-------------------------------|----|----|----|----|----|----|----|
     | Turn Count Increase            | 1  | -  | 1  | -  | 1  | -  | 1  |   
     | Cumulative Turn Count Increase  &emsp;  &emsp;  | 1  | 1  | 2  | 2  | 3  | 3  | 4  |       
@@ -192,7 +192,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    |                                | L1 | L2 | L3 | L4 | L5 | L6 | 
+    |                                | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
     |:-------------------------------|----|----|----|----|----|----|
     | Turn Count Increase            | 1  | -  | -  | -  | 1  | -  | 
     | Cumulative Turn Count Increase  &emsp;  &emsp;  | 1  | 1  | 1  | 1  | 2  | 2  |      
@@ -205,7 +205,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    |                                | L1 | L2    | L3    | L4    | L5     | L6     | L7     | 
+    |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | Lv7     | 
     |:-------------------------------|----|-------|-------|-------|--------|--------|--------|
     | SP Recovery                    | 4  | 1 (5) | 2 (7) | 1 (8) | 2 (10) |        | 3 (13) |   
     | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |        |        |        |       
@@ -216,7 +216,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    |                                | L1 | L2    | L3    | L4    | L5     | L6    | 
+    |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6    | 
     |:-------------------------------|----|-------|-------|-------|-------|--------|
     | SP Recovery                    | 2  | 1 (3) | 1 (4) | 1 (5) | 1 (6) | 1 (7)  |    
     | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |       |        |      
@@ -229,7 +229,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    |                                | L1  | L2      | L3      | L4      | L5      | L6      | L7      | 
+    |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
     | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 12  | 10 (22) | 12 (34) | 10 (44) | 14 (58) | 10 (68) | 17 (85) |
 
@@ -239,7 +239,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    |                                | L1  | L2      | L3      | L4      | L5      | L6      | L7      | 
+    |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
     | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
 
@@ -255,7 +255,7 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
         
-        |                          | L0    | L1    | L2    | L3    | L4    | L5    | L6 | L7 | 
+        |                          | L0    | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6 | Lv7 | 
         |:-------------------------|:------|-------|-------|-------|-------|-------|----|----|
         | Total - DMG modifier     | 1.00x | 1.08x | 1.09x | 1.11x | 1.12x | 1.15x |    |    |
         | Per Level - DMG modifier &emsp; &emsp; &emsp; | -     | 0.08x | 0.01x | 0.02x | 0.01x | 0.03x |    |    |   
@@ -276,12 +276,17 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
         
-        |                          | L0    | L1    | L2    | L3    | L4    | L5 | L6 | L7 | 
-        |:-------------------------|-------|-------|-------|-------|-------|----|----|----|
-        | Total - SUR Modifier     | 1.75x | 1.95x | 2.05x | 2.15x | 2.20x |    |    |    |
-        | Per Level - SUR Modifier &emsp; &emsp; &emsp;| -     | 0.20x | 0.10x | 0.10x | 0.05x |    |    |    |
+        |                          | L0    | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   | 
+        |:-------------------------|-------|-------|-------|-------|-------|-------|-------|-------|
+        | Total - SUR Modifier     | -     | 0.20x | 0.24x | 0.30x | 0.34x | 0.38x | 0.42x | 0.45x |
+        | Per Level - SUR Modifier | -     | 0.20x | 0.04x | 0.06x | 0.04x | 0.04x | 0.04x | 0.03x |
+        | Total - w/ base SUR      | 1.75x | 1.95x | 1.99x | 2.05x | 2.09x | 2.13x | 2.17x | 2.20x |
+
     
         </div>
+
+&emsp; &emsp; &emsp;
+
 
     === "Details"
 
@@ -302,7 +307,7 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
         
-        |                           | L1  | L2     | L3     | L4     | L5     | L6     | L7     | 
+        |                           | Lv1  | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | 
         |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
         | Total - MP% Reduction     | 10% | 14.14% | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
         | Per Level - MP% Reduction  &emsp; &emsp; &emsp;  | 10% | 4.14%  | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
@@ -325,7 +330,7 @@
             - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
             - MP cost can never go below 1. 
         - Data 
-            - Base MP data from 63 spells from L1-7 against L1-7 Way of the Priest. Total of 441 data points. 
+            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
             - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
             - The Way of the Mage uses the exact same formula. 
 
@@ -343,7 +348,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    |                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
+    |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
     |:----------------|-------|-------|-------|-------|-------|-------|-------|
     | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
     | Flat Bonus &emsp; &emsp; &emsp;    | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
@@ -354,8 +359,8 @@
 
     - Find Trap: A derived stat (from Detect) used to identify whether a chest contains a trap. If a trap is present and detected, then it will trigger the trap disarm mini-game. If not, then the trap will go off, causing damage or inflicting status effects.  
     - Detect: Listed on a unit's Stat page. It is the primary input in the Find Trap formula. The Treasure Trap Detect passive modifies the Detect value, which results in the Find Trap number that you see when you open a chest.    
-    - The Treasure Trap Detect passive at L1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
-    - Only the Thief class is able to reach L7. The maximum for other classes is L6. 
+    - The Treasure Trap Detect passive at Lv1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
+    - Only the Thief class is able to reach Lv7. The maximum for other classes is Lv6. 
 
 === "Formulas"
 
@@ -374,19 +379,19 @@
     - Find Trap = (50 x 1.0) + 0 = 50
     - Detect = Find Trap with no passive levels in the skill.
 
-=== "Example: L5" 
+=== "Example: Lv5" 
 
     - Detect: 50 
     - Treasure Trap Detection Level: 5
     - Find Trap = (50 x 1.14) + 46 = 103
-    - With L5 in the passives the MC's Find Trap is twice as large as his base Detect value.
+    - With Lv5 in the passives the MC's Find Trap is twice as large as his base Detect value.
 
 #### Treasure Trap Disarm
 
 
 <div class="nofilter-table nosort-table equipment-table" markdown>
 
-|                 | L1    | L2    | L3    | L4    | L5    | L6    | L7    | 
+|                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
 |:----------------|-------|-------|-------|-------|-------|-------|-------|
 | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
 | Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
