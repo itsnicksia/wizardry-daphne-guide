@@ -16,8 +16,17 @@
     - The objective is to save Duke Ixion and solve the mystery of who is trying to assassinate him. The first 2 "bad" endings are mandatory, but you gain key information to avoid dying on subsequent runs.
     - After your first run there is a major story request tied to each of the endings that must be completed before fighting the GWO. 
     - To progress to A4 you need to clear the Blackmail ending.
-    - Unique to A3 is the corrosion mechanic. The GWO generates corrosion, which is visually represented by the amount of white "goo" on the walls. You will eventually gain the power to lower the overall Abyss corrosion level to access new areas. The mechanic is confusing and bug-ridden, and will take time to fully understand.  
+
+=== "Corrosion Mechanic" 
+
+    - Unique to A3 is the corrosion mechanic. The GWO generates corrosion, which is visually represented by the amount of white "goo" on the walls. 
+    - You will eventually gain the power to lower the overall Abyss corrosion level to access new areas. The mechanic is confusing and bug-ridden, and will take time to fully understand.  
     - The dedicated corrosion mechanic page is located [here](./corrosion.md). It is not relevant on your first run, but mandatory reading after you acquire the Golem reversal power.  
+
+=== "Other"
+
+    - A3 is a significant jump in difficulty. It is normal to struggle in Z1-3 until you have better gear and higher levels. 
+    - With normal progression you should reach Level 60 by the end of your first run. With the addition of A4 you have the option to take the Copper exam that raises the level cap to 70. 
     - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
     - None of the Important Request faction rewards are particularly valuable.
 
@@ -32,11 +41,11 @@
 
 === "Special Endings" 
 
-    - Defeating GWO 0 on the Mastermind ending.  
+    - Defeat GWO 0 on the Mastermind ending.  
         - GWO 0 requires all 13 corrosion sentries to be registered and toggled to "Not Spotted" in the CW. 
         - Gives a secret achievement (Guardian of Guarda). 
         - Unlocks the Rank 12 Cyclops bounty. All other bounties must be completed. You do not need to defeat GWO 0, but simply reach the fight and let MC die. This may be patched in the future.  
-    - Give Mastermind Evidence to Alberio 
+    - Give Mastermind Evidence to Alberio. 
         - On the Mastermind ending when you reach Ixion's room you will be prompted to give the evidence to either Clemente or Alberio. 
         - Giving it to Alberio leads to a secret ending and hidden achievement (Heads Aligned, Fates Sealed). 
         - You will lose the Mastermind Evidence from your Valuables and will have to reset the CW and redo the steps again.  
