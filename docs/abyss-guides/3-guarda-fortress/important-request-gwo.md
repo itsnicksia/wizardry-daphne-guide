@@ -26,18 +26,19 @@
 === "Other"
 
     - A3 is a significant jump in difficulty. It is normal to struggle in Z1-3 until you have better gear and higher levels. 
+    - A3 has the largest number of floors with [map variations](/../../mechanics/map-variations.md) 
     - With normal progression you should reach Level 60 by the end of your first run. With the addition of A4 you have the option to take the Copper exam that raises the level cap to 70. 
     - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
     - None of the Important Request faction rewards are particularly valuable.
 
 === "Abbreviations"
     
-    - A3: Abyss 3
-    - A4: Abyss 4
-    - CW: Cursed Wheel
-    - GWO: Greater Warped One
-    - Z: Zone, A3 refers to floors as "Zones"
-    - Z#: Floor number (1-10)
+    - A3 - Abyss 3
+    - A4 - Abyss 4
+    - CW - Cursed Wheel
+    - GWO - Greater Warped One
+    - Z - Zone, Abyss 3 refers to floors as "Zones"
+    - Z# - Floor number (1-10)
 
 === "Special Endings" 
 
@@ -54,8 +55,8 @@
 
 === "Summary" 
 
-    - Mandatory ending from normal progression, it cannot be skipped. 
-    - The first run is a tutorial for A3. The goal is to get familiar with each floor, new enemies, and the wandering sentries. A3 is a significant jump in difficulty compared to A1 and A2. It is normal to struggle in the beginning and may require some farming for better gear. 
+    - Mandatory ending, it cannot be skipped. 
+    - The first run is a tutorial for A3. The goal is to get familiar with each floor, new enemies, and the wandering sentries. 
     - For a per floor guide see [Maps](./maps.md).
     - Do not waste your time:
         - Trying to activate the dormant golems. The Golem reversal power is learned right before the GWO fight.  
