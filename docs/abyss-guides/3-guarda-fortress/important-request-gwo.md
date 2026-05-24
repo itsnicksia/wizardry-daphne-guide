@@ -8,57 +8,71 @@
 
 === "Basics" 
 
-    - A3 has a total of 4 endings. The ending names are used interchangeably on the Discord, Reddit, and other places.
+    - A3 has a total of 4 endings. The ending names (or "runs") are used interchangeably on the Discord, Reddit, and other places.
         - Stabbed - Bad 1
         - Executed - Bad 2
         - Blackmail - Good
         - Mastermind - True
+    - The objective is to save Duke Ixion and solve the mystery of who is trying to assassinate him. The first 2 "bad" endings are mandatory, but you gain key information to avoid dying on subsequent runs.
+    - After your first run there is a major story request tied to each of the endings that must be completed before fighting the GWO. 
     - To progress to A4 you need to clear the Blackmail ending.
-    - The overall Abyss corrosion level determines what version of the GWO you fight. Those mechanics are desribed [here](./corrosion.md). The Blackmail (GWO 8) and Mastermind (GWO 6) require a specific number of corrosion sentries to be registered.
-    - Corrosion sentries only need to be registered once in the Cursed Wheel. They are "globally" turned on if you start a new run with a different faction.
-    - Most players do a different faction for each ending. However, it is possible to complete all 4 on the same faction. 
-    
-=== "Special Endings" 
-
-    - The Mastermind ending with GWO 0 (all 13 corrosion sentries set to "Not Spotted") gives a secret achievement ("Guardian of Guarda") and unlocks the Rank 12 Cyclops bounty if all other bounties are completed and you have not yet reached A4. 
-    - On the Mastermind ending if you give the Mastermind Evidence to Alberio instead of Clemente you will get a secret ending and hidden achievement ("Heads Aligned, Fates Sealed"). 
+    - Unique to A3 is the corrosion mechanic. The GWO generates corrosion, which is visually represented by the amount of white "goo" on the walls. You will eventually gain the power to lower the overall Abyss corrosion level to access new areas. The mechanic is confusing and bug-ridden, and will take time to fully understand.  
+    - The dedicated corrosion mechanic page is located [here](./corrosion.md). It is not relevant on your first run, but mandatory reading after you acquire the Golem reversal power.  
+    - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
+    - None of the Important Request faction rewards are particularly valuable.
 
 === "Abbreviations"
-
+    
     - A3: Abyss 3
     - A4: Abyss 4
     - CW: Cursed Wheel
     - GWO: Greater Warped One
-     
+    - Z: Zone, A3 refers to floors as "Zones"
+    - Z#: Floor number (1-10)
+
+=== "Special Endings" 
+
+    - Defeating GWO 0 on the Mastermind ending.  
+        - GWO 0 requires all 13 corrosion sentries to be registered and toggled to "Not Spotted" in the CW. 
+        - Gives a secret achievement (Guardian of Guarda). 
+        - Unlocks the Rank 12 Cyclops bounty. All other bounties must be completed. You do not need to defeat GWO 0, but simply reach the fight and let MC die. This may be patched in the future.  
+    - Give Mastermind Evidence to Alberio 
+        - On the Mastermind ending when you reach Ixion's room you will be prompted to give the evidence to either Clemente or Alberio. 
+        - Giving it to Alberio leads to a secret ending and hidden achievement (Heads Aligned, Fates Sealed). 
+        - You will lose the Mastermind Evidence from your Valuables and will have to reset the CW and redo the steps again.  
 
 ## Stabbed - Bad Ending 1
 
 === "Summary" 
 
-    - This is the default ending from normal progression. It is mandatory and cannot be skipped.
-    - During your first run you do not have the Golem Reversal power or the requisite Knowledge to complete the other endings.
+    - Mandatory ending from normal progression, it cannot be skipped. 
+    - The first run is a tutorial for A3. The goal is to get familiar with each floor, new enemies, and the wandering sentries. A3 is a significant jump in difficulty compared to A1 and A2. It is normal to struggle in the beginning and may require some farming for better gear. 
     - For a per floor guide see [Maps](./maps.md).
-    - There is no way to avoid being "spotted" by the corrosion sentries and is required to register them properly.
+    - Do not waste your time:
+        - Trying to activate the dormant golems. The Golem reversal power is learned right before the GWO fight.  
+        - Finding a way into areas blocked by corrosion. They will be accessible on future runs.  
+        - Avoiding the corrosion sentries. Corrosion sentries are the stationary, flying enemies that will sound an alarm when you step into their field of vision. This is intended and a required step to register them properly in the CW. 
 
 === "Requirements"
 
-    - On your first run, after exiting Ixion's Room, you will gain access to the balcony. This is the point of no return. Approach the giant lever and an alarm will go off.
-    - You will be surrounded by flying enemies. Do not panic. They move extremely slowly and can be easily avoided.
-    - Your goal now is to make your way to the other side of the golem, which requires walking around the perimeter of the balcony. There are 2 forced encounters against 2x Evil Eye enemies. If you take too long they can summon a third. 
-    - Once you reach the golem, Lulu will ask for a password. The answer is "Golem", which you need to type in.
-    - Afterward you will gain a new reversal power and the golem will pull the lever. Walk over to the golem to set off the flare. Next, make your way back to the balcony and jump off. If you take too long the corrosion will catch up to you and push you off. You will not incur any HP damage if this happens. 
-    - Defeat the GWO.
+    - From the Z10 Fountain head south to Ixion's room. All the wandering sentries can be avoided. 
+    - Watch the brief scene in Ixion's room and proceed to the southern balcony area. This is the point of no return. Be careful as there are 2 wandering sentries roaming the area. 
+    - Approach the giant lever and an alarm will go off. Flying enemies (Evil Eyes) will surrounding you and corrosion will block the exit. Do not panic. They move extremely slowly and can be avoided. To progress you need to reach the other side of the golem via looping around the perimeter of the balcony.  
+    - <span style="color: #F2473A">Warning!</span> On the balcony there is a forced encounter against 2x Evil Eye enemies. On future runs there is only 1 forced encounter.  
+    - Interact with the golem for a brief cutscene with Lulu. Type in "Golem" to gain the Golem reversal power. You will have another forced encounter against 2x Evil Eyes. Reverse the golem and move forward as there is another enemy to your immediate left.  
+    - Walk over to the golem to set off the Singal Rocket. Now head back to the balcony and jump off. You will be forced off the balcony if the corrosion catches up to you, but will not incur any HP damage. 
+    - Defeat the GWO. 
+    - <span style="color: #F2473A">Warning!</span> Speak with the servant's Lily and Allen immediately after defeating the GWO to gain important Knowledge for your second run. If you exit the front entrance camp area the ending cutscene will begin.   
 
-    Note
+=== "Tip"
     
     - If you do not have enough resources to defeat the GWO -after- getting the Golem reversal power, then have MC die to an Evil Eye or the GWO and "Accept death".
-    - CW to "Fortress 3rd Floor Arrival", which will take you to the Z10 Fountain. You can avoid all enemies except for a mandatory fight against an Evil Eye (instead of two), reverse the golem, and then fight the GWO. 
+    - After zoning back in you can heal at the Inn. CW to "Fortress 3rd Floor Arrival", which will take you to the Z10 Fountain. With the Golem reversal power learned there is only one forced encounter with the Evil Eyes, which should help preserve your resources. Bringing additional MP and SP pots is recommended. 
 
 === "Outcome"
 
-    - <span style="color: #F2473A">Warning!</span> Be sure to speak with the servant's Lily and Allen immediately after defeating the GWO to gain important Knowledge for your second run.  
-    - Once you leave the front entrace area the Duke's servant, Lily, will stab you.
-    - Her daughter, Liam, has been kidnapped and is being used to coerce her and Alan into killing Duke Ixion.  
+    - Once you leave the front entrance area the Duke's servant, Lily, will stab you.
+    - Her daughter, Liam, has been kidnapped and is being used as leverage to coerce her and Alan into killing Duke Ixion.  
 
 === "Rewards"
 
@@ -69,24 +83,52 @@
 
 === "Summary" 
 
-    - This is a mandatory ending and cannot be skipped.
-    - After being stabbed, time will rewind and you will end up in front of the Fortress at CW node "Infiltrating the Fortress". Speak with Lulu about what you could have done differently for a hint.
-    - For the second run you have three primary objectives:
+    - This is a mandatory ending and cannot be skipped.  
+    - For the second run there are 3 primary objectives:
         - Save Liam to avoid being stabbed.
-        - Register corrosion sentries using the Golem reversal power, which you can use to kill them or block their line of sight for the "Not spotted" flag. 
-        - Lower the overall Abyss corrosion level by setting corrosion sentry CW nodes to "Not spotted" to gain access to new areas that were previously inaccessible.
-    - Some players opt to start a new faction for their second run to more easily register corrosion sentries and to gain additional EXP, junk, etc. Subsequent runs will go faster since your team is stronger and you have more familiarity with each floor's layout.
-    - If you want to progress to A4 quickly, then stay with your current faction. 
+        - Collect key Knowledge. This requires lowering the overall Abyss corrosion level to access new areas. It is best to do this step now versus backtracking in the future. 
+        - Register corrosion sentries in the CW. With the the Golem reversal power you can now destroy or block the line of sight of the corrosion sentries that "spotted" you on your first run. 
+    - Before you begin, review the corrosion sentry registration mechanics [here](./corrosion.md) and all 13 locations. 
+
+=== "Saving Liam" 
+
+    - [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) is the primary request for the second run.
+    - It is a Guild request, but requires Knowledge that Liam has been kidnapped. See the request page for details on how to unlock.        
+    - The request has multiple endings. To progress you only need to rescue Liam in "critical condition". The "rescued safely" endings gives Liam's bondmate (Stun Tolerance) if you speak to hear after defeating the GWO. It is fixed at Level 1. 
+    - Only needs to be completed once. The outcome is saved as a toggle in the CW under Fortress 3rd Floor Arrival - Abducted Child sub-node. Make sure you speak with Graham and Remi at the front entrance (tent by the well entrance) after saving Liam to make sure it registers properly.  
+    
+=== "Key Knowledge and Items"
+
+    === "Leto Paintings" 
+
+        === "Z6 Locations" 
+
+            - Leto Painting 1 - Z6 - This location can vary depending on your map variation, see map tab for the tile set.
+            - Leto Painting 2 - Z6 - Northwest of the Fountain. 
+            - Leto Painting 3 - Z6 - Next to stairs to Z7, requires low Abyss corrosion level to view.
+
+        === "Z6 Map" 
+        
+            <div align="center">
+            ![](./img/zone-6-paintings.png)
+            </div>
+
+    === "Tale of Bordaon" 
+
+        - Tale of Bordaon 1 - Speak with the SE skelete in the central room. 
+        - Tale of Bordaon 2 - Speak with NE skeleton in the central room after acquiring the Knowledge of Leto Paintings 1-3.
 
 === "Requirements"
 
-    - Complete [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request.
-        - The request is offered at the Guild, but requires Knowledge that Liam has been kidnapped. See the request details for how to unlock.      
-        - You only need to rescue Liam in "critical condition" to progress. Rescuing her safely gives her bondmate (Stun Tolerance) if you speak to the family after defeating the GWO. It is fixed at Level 1.
-        - Once Liam is rescued in "critical condition" or "safely" it will be permanently registered in the CW under "Fortress 3rd Floor Arrival - Abducted Child." You do -not- need to repeat this request on subsequent runs or for a different faction. Just make sure it is toggled correctly before defeating the GWO.
-    - The overall Abyss corrosion level needs to be at 8 or lower otherwise everyone in Ixion's Room will be dead. See [Corrosion Mechanics](./corrosion.md/#corrosion-mechanics) under the "Duke's Room" tab.
-    - Once Liam is saved you can CW directly to "Fortress 3rd Floor Arrival" to defeat the GWO. Double-check the toggle for "Abducted Child" is set properly before jumping.
-    - In Ixion's Room you must speak with Alan to let him know that Liam is alive (there is a brief cutscene) before exiting.
+    - Cursed Wheel Settings
+        - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
+        - At least 8 corrosion sentries are toggled to "Spotted". Any corrosion sentry (out of 13) not registered is automatically counted as "Spotted." For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).
+        - If you do not have at least 8 "Spotted" corrosion sentries toggled, then everyone in Ixion's room will be dead. See [here](./corrosion.md#__tabbed_1_4). 
+    - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room, which should now have fewer corrosion tiles than before.  
+    - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
+    - Speak with everyone in the room for additional information about what is going on. Exit and head south. 
+    - On your second run you do not need to examine the lever. Head directly to the outer balcony to reach the back of the golem. There is now only 1 forced encounter against the 2x Evil Eyes. 
+    - Reverse the golem and repeat the same steps as before. 
     - Defeat the GWO. 
 
 === "Outcome"
@@ -95,15 +137,15 @@
 
 === "Rewards"
 
-    - As a reward you get your head chopped off, congrats.
+    - As a reward you get your head chopped off, congrats!
 
 === "Alternate Ending"
 
     - Conditions:
-        - You were aware that Liam was kidnapped, but did -not- save her; or,
+        - You have the Knowledge that Liam was kidnapped, but did -not- save her; or,
         - Saved Liam in any condition, but did -not- tell Alan she was rescued safely.
     -  After defeating the GWO, Alan will stab you. It is the same outcome as Bad Ending 1, but with Alan killing you versus Lily. 
-    - If you did save Liam, but still got stabbed, then double-check your "Abducted Child" toggle and make sure it is set properly. 
+    - If you did save Liam, but still got stabbed, then double-check your Abducted Child sub-node was toggled correctly. 
 
 ## Stop the Blackmailer and Save the Duke
 
