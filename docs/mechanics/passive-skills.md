@@ -21,7 +21,7 @@
 
 === "Fighter"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
@@ -34,7 +34,7 @@
      
 === "Knight"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
@@ -47,7 +47,7 @@
 
 === "Thief"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
@@ -62,7 +62,7 @@
 
 === "Priest"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
@@ -73,7 +73,7 @@
 
 === "Mage"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
@@ -85,7 +85,7 @@
 
 === "Ninja"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
@@ -101,7 +101,7 @@
 
 === "Ranger" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
@@ -153,7 +153,7 @@
 
 === "Self" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|----|----|----|----|----|----|----|
@@ -165,7 +165,7 @@
 
 === "Inherited" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 |  
     |:------------------|----|----|----|----|----|----|
@@ -179,7 +179,7 @@
 
 === "Self" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     |                                | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:-------------------------------|----|----|----|----|----|----|----|
@@ -190,8 +190,8 @@
 
 === "Inherited" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
-    
+    <div class="nofilter-table nosort-table" markdown>
+
     |                                | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
     |:-------------------------------|----|----|----|----|----|----|
     | Turn Count Increase            | 1  | -  | -  | -  | 1  | -  | 
@@ -203,7 +203,7 @@
 
 === "Self" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | Lv7     | 
     |:-------------------------------|----|-------|-------|-------|--------|--------|--------|
@@ -214,7 +214,7 @@
 
 === "Inherited" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
 
     |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6    | 
     |:-------------------------------|----|-------|-------|-------|-------|--------|
@@ -227,7 +227,7 @@
 
 === "Self" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
@@ -237,7 +237,7 @@
 
 === "Inherited" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
 
     |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
@@ -253,12 +253,12 @@
 
     === "Skill Levels" 
 
-        <div class="nofilter-table nosort-table equipment-table" markdown>
-        
-        |                          | L0    | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6 | Lv7 | 
-        |:-------------------------|:------|-------|-------|-------|-------|-------|----|----|
-        | Total - DMG modifier     | 1.00x | 1.08x | 1.09x | 1.11x | 1.12x | 1.15x |    |    |
-        | Per Level - DMG modifier &emsp; &emsp; &emsp; | -     | 0.08x | 0.01x | 0.02x | 0.01x | 0.03x |    |    |   
+        <div class="nofilter-table nosort-table" markdown>
+
+        | Damage Modifier          | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:-------------------------|-----|-----|-----|-----|-----|-----|-----|
+        | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
+        | Per Level                | 8%  | 1%  | 2%  | 1%  | 3%  | 2%  | 3%  |
 
          </div>
 
@@ -274,8 +274,8 @@
 
     === "Skill Levels" 
 
-        <div class="nofilter-table nosort-table equipment-table" markdown>
-        
+        <div class="nofilter-table nosort-table" markdown>
+
         | SUR Modifier             | L0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
         |:-------------------------|-------|------|------|------|------|------|------|------|
         | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
@@ -303,10 +303,10 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
         
-        |                           | Lv1  | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | 
+        | MP% Reduction             | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
         |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
-        | Total - MP% Reduction     | 10% | 14.14% | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
-        | Per Level - MP% Reduction  &emsp; &emsp; &emsp;  | 10% | 4.14%  | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
+        | Total                     | 10% | 14.14% | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
+        | Per Level                 | 10% | 4.14%  | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
 
         </div>
 
