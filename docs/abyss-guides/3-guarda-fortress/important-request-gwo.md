@@ -19,7 +19,7 @@
 
 === "Corrosion Mechanic" 
 
-    - Unique to A3 is the corrosion mechanic. The GWO generates corrosion, which is visually represented by the amount of white "goo" on the walls. 
+    - Unique to A3 is the corrosion mechanic. The GWO generates corrosion, which is visually represented by the amount of white "goo" on the walls. High levels of corrosion will also block off entire areas, which contain important NPCs, Knowledge, request items, etc.  
     - You will eventually gain the power to lower the overall Abyss corrosion level to access new areas. The mechanic is confusing and bug-ridden, and will take time to fully understand.  
     - The dedicated corrosion mechanic page is located [here](./corrosion.md). It is not relevant on your first run, but mandatory reading after you acquire the Golem reversal power.  
 
