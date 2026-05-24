@@ -63,7 +63,7 @@
         - Finding a way into areas blocked by corrosion. They will be accessible on future runs.  
         - Avoiding the corrosion sentries. Corrosion sentries are the stationary, flying enemies that will sound an alarm when you step into their field of vision. This is intended and a required step to register them properly in the CW. 
 
-=== "Requirements"
+=== "Guide"
 
     - From the Z10 Fountain head south to Ixion's room. All the wandering sentries can be avoided. 
     - Watch the brief scene in Ixion's room and proceed to the southern balcony area. This is the point of no return. Be careful as there are 2 wandering sentries roaming the area. 
@@ -128,7 +128,7 @@
         - Tale of Bordaon 1 - Speak with the SE skelete in the central room. 
         - Tale of Bordaon 2 - Speak with NE skeleton in the central room after acquiring the Knowledge of Leto Paintings 1-3.
 
-=== "Requirements"
+=== "Guide"
 
     - Cursed Wheel Settings
         - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
