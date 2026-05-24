@@ -25,11 +25,11 @@
 
 === "Other"
 
-    - A3 is a significant jump in difficulty. It is normal to struggle in Z1-3 until you have better gear and higher levels. 
-    - A3 has the largest number of floors with [map variations](../../../mechanics/map-variations.md) 
+    - A3 is a significant jump in difficulty. It is normal to struggle in Z1-3 until you have better gear and higher levels. It also has the largest number of floors with [map variations](../../../mechanics/map-variation.md). Your maps may not always match what is shown on the site. 
     - With normal progression you should reach Level 60 by the end of your first run. With the addition of A4 you have the option to take the Copper exam that raises the level cap to 70. 
     - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
     - None of the Important Request faction rewards are particularly valuable.
+    - Faction requests are located [here](./requests.md##old-district-slum-faction-quests). 
 
 === "Abbreviations"
     
@@ -55,7 +55,7 @@
 
 === "Summary" 
 
-    - Mandatory ending, it cannot be skipped. 
+    - This is a mandatory ending and cannot be skipped. 
     - The first run is a tutorial for A3. The goal is to get familiar with each floor, new enemies, and the wandering sentries. 
     - For a per floor guide see [Maps](./maps.md).
     - Do not waste your time:
@@ -95,7 +95,7 @@
 
 === "Summary" 
 
-    - This is a mandatory ending and cannot be skipped.  
+    - This is a mandatory ending and cannot be skipped. 
     - For the second run there are 3 primary objectives:
         - Save Liam to avoid being stabbed.
         - Collect key Knowledge. This requires lowering the overall Abyss corrosion level to access new areas. It is best to do this step now versus backtracking in the future. 
