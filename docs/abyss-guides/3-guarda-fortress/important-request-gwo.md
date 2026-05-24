@@ -77,7 +77,9 @@
 === "Tip"
     
     - If you do not have enough resources to defeat the GWO -after- getting the Golem reversal power, then have MC die to an Evil Eye or the GWO and "Accept death".
-    - After zoning back in you can heal at the Inn. CW to "Fortress 3rd Floor Arrival", which will take you to the Z10 Fountain. With the Golem reversal power learned there is only one forced encounter with the Evil Eyes, which should help preserve your resources. Bringing additional MP and SP pots is recommended. 
+    - After zoning back in, heal at the Inn. 
+    - Go to the Ruins - Cursed Wheel and jump to Fortress 3rd Floor Arrival, which will take you to the Z10 Fountain. 
+    - With the Golem reversal power learned there is only one forced encounter with the 2x Evil Eyes, which should help preserve your resources. Bringing additional MP and SP pots is recommended. 
 
 === "Outcome"
 
