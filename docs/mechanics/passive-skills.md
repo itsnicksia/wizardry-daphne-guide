@@ -263,7 +263,7 @@
          </div>
 
     === "Details"
-
+    
         - Damage modifier for basic attacks and skills. 
         - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
         - Inherit from:
@@ -276,17 +276,13 @@
 
         <div class="nofilter-table nosort-table equipment-table" markdown>
         
-        |                          | L0    | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   | 
-        |:-------------------------|-------|-------|-------|-------|-------|-------|-------|-------|
-        | Total - SUR Modifier     | -     | 0.20x | 0.24x | 0.30x | 0.34x | 0.38x | 0.42x | 0.45x |
-        | Per Level - SUR Modifier | -     | 0.20x | 0.04x | 0.06x | 0.04x | 0.04x | 0.04x | 0.03x |
-        | Total - w/ base SUR      | 1.75x | 1.95x | 1.99x | 2.05x | 2.09x | 2.13x | 2.17x | 2.20x |
+        | SUR Modifier             | L0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
+        |:-------------------------|-------|------|------|------|------|------|------|------|
+        | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
+        | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%  |
+        | Total w/ base SUR  &emsp; &emsp; &emsp; | 175%  | 195% | 199% | 205% | 2095 | 213% | 217% | 220% |
 
-    
         </div>
-
-&emsp; &emsp; &emsp;
-
 
     === "Details"
 
