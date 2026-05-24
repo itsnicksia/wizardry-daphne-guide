@@ -280,7 +280,7 @@
         |:-------------------------|-------|------|------|------|------|------|------|------|
         | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
         | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%  |
-        | Total w/ base SUR  &emsp; &emsp; &emsp; | 175%  | 195% | 199% | 205% | 2095 | 213% | 217% | 220% |
+        | Total w/ base SUR  &emsp; &emsp; &emsp; | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
 
         </div>
 
@@ -301,7 +301,7 @@
 
     === "Skill Levels" 
 
-        <div class="nofilter-table nosort-table equipment-table" markdown>
+        <div class="nofilter-table nosort-table" markdown>
         
         | MP% Reduction             | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
         |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
@@ -342,7 +342,7 @@
 
 === "Skill Levels"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
     
     |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
     |:----------------|-------|-------|-------|-------|-------|-------|-------|
@@ -385,7 +385,7 @@
 #### Treasure Trap Disarm
 
 
-<div class="nofilter-table nosort-table equipment-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
 |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
 |:----------------|-------|-------|-------|-------|-------|-------|-------|
