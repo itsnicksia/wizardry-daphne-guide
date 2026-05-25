@@ -19,6 +19,9 @@
 
 ## Class  
 
+- The majority of class passives that increase a stat follow the 2/2/4/4/4/4/5 format.
+- For HP/MP/SP it is 4/6/8/10/12/14/6.
+
 === "Fighter"
 
     <div class="nofilter-table nosort-table" markdown>
@@ -27,7 +30,7 @@
     |:----------------|:---------|----|----|----|----|----|----|----|
     | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
     | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  
     | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
  
      </div>
@@ -53,9 +56,10 @@
     |:----------------------|:---------|----|----|----|----|----|----|----|
     | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
     | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-
+    
      </div>
 
     - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
@@ -77,27 +81,40 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
-    | MP Up             |          | 4  |   |   |   |   |  |   |
-    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    
+    | Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25)  |
+    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60)  |
+
      </div>
 
 === "Ninja"
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-    |:----------------|:---------|----|----|----|----|----|----|----|
-    | SP Up           |          | 4  | 6 (10)  | 8 (18)  |    |    |    |    |
-    | Surety Up       |          | 2  | 2 (4)  | 4 (8)  |    |    |    |    |
-    | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    
-     </div>
+    === "Stats"
+
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:----------------|:---------|----|----|----|----|----|----|----|
+        | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60)  |
+        | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+        | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+        | Vitality Jutsu  |          | 10%  | 11%  | 13%    | 14%     | 16%     | 17%     | 20%     |
+        
+         </div>
+
+    === "Art of Assasination" 
+
+
+    === "Empty Husk" 
+
+    === "Ninja Dual Wield" 
 
 === "Samurai" 
 
-    - Forthcoming.
+    === "Back Against the Water Formation"
+
+    === "Mysta Energy Manipulation"
 
 === "Ranger" 
 
@@ -242,8 +259,31 @@
     |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
     | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
-
     </div> 
+
+### Yekaterina - Eye of Kalshum
+
+    === "Self" 
+    
+        <div class="nofilter-table nosort-table" markdown>
+        
+        |                       | Lv1 | Lv2  | Lv3   | Lv4    | Lv5    | Lv6    | Lv7    |
+        |:----------------------|-----|------|-------|--------|--------|--------|--------|
+        | Detect Up             | 2   | 2 (4)| 4 (8) | 4 (12) | 4 (16) | 4 (20) | 4 (25) |
+        | Ambush Nullification &emsp; &emsp; &emsp; | 33% | 36%  | 41%   | 45%    | 50%    | 54%    | 60%    |
+        
+        </div>
+    
+    === "Inherited" 
+    
+        <div class="nofilter-table nosort-table" markdown>
+        
+        |                       | Lv1 | Lv2   | Lv3   | Lv4    | Lv5   | Lv6    | 
+        |:----------------------|-----|-------|-------|--------|-------|--------|
+        | Detect Up             | 1   | 1 (2) | 2 (4) | 2 (6)  | 2 (8) | 2 (10) | 
+        | Ambush Nullification &emsp; &emsp; &emsp;  | 16% | 19%   | 23%   | 26%    | 31%   | 35%    | 
+        
+        </div>
 
 ## Other
 
@@ -257,8 +297,8 @@
 
         | Damage Modifier          | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
         |:-------------------------|-----|-----|-----|-----|-----|-----|-----|
-        | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
         | Per Level                | 8%  | 1%  | 2%  | 1%  | 3%  | 2%  | 3%  |
+        | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
 
          </div>
 
@@ -276,11 +316,11 @@
 
         <div class="nofilter-table nosort-table" markdown>
 
-        | SUR Modifier             | L0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
+        | SUR Modifier &emsp; &emsp; &emsp;             | L0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
         |:-------------------------|-------|------|------|------|------|------|------|------|
+        | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%   |
         | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
-        | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%  |
-        | Total w/ base SUR  &emsp; &emsp; &emsp; | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
+        | Total with base SUR      | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
 
         </div>
 
@@ -303,16 +343,16 @@
 
         <div class="nofilter-table nosort-table" markdown>
         
-        | MP% Reduction             | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
-        |:--------------------------|-----|--------|--------|--------|--------|--------|--------|
-        | Total                     | 10% | 14.14% | 17.32% | 20.00% | 22.36% | 24.49% | 26.45% |    
-        | Per Level                 | 10% | 4.14%  | 3.18%  | 2.68%  | 2.36%  | 2.13%  | 1.96%  |    
+        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
+        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
+        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
 
         </div>
 
-        - Flat 10% reduction at Level 1. 
-        - Roughly 4% reduction per level. 
-        - To forecast specific combinations of spell and Way of the Priest levels see the next tab. 
+        - 10% reduction at Level 1. 
+        - All subsequent levels are an additional 4% and 5% at Level 1. 
+        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
 
     === "Derived Formula"
 
@@ -334,7 +374,22 @@
 
     === "Skill Levels" 
 
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
+        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
+        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
+
+        </div>
+
+        - 10% reduction at Level 1. 
+        - All subsequent levels are an additional 4% and 5% at Level 1. 
+        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
+
     === "Technical Notes"
+
+        - The derived formula is the same as Way of the Priest.
 
 ### Chest Opening
 
@@ -344,10 +399,10 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
+    |                 | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   | 
     |:----------------|-------|-------|-------|-------|-------|-------|-------|
+    | Flat Bonus      | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
     | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
-    | Flat Bonus &emsp; &emsp; &emsp;    | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
     
      </div>
 
@@ -389,7 +444,7 @@
 
 |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
 |:----------------|-------|-------|-------|-------|-------|-------|-------|
-| Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
 | Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
+| Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
 
  </div>
