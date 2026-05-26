@@ -173,7 +173,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 326,2H_Sword!A326,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 332,2H_Sword!A332,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,1H_Axe!A2,1H_Axe,3,Worn-Out One-Handed Axe,Worn,1,,21,11,0,0,0,0,0,6,0,0,0,17,0,0,0,0,0,6,0,0,0,23,0,0,0,0,0,6,0,0,0,29,0,0,0,0,0,6,0,0,0,36,0,0,0,0,0,6,0,0,0,Defense Penetration
+2,1H_Axe!A2,1H_Axe,3,Worn-Out One-Handed Axe,1,,,21,11,0,0,0,0,0,6,0,0,0,17,0,0,0,0,0,6,0,0,0,23,0,0,0,0,0,6,0,0,0,29,0,0,0,0,0,6,0,0,0,36,0,0,0,0,0,6,0,0,0,Defense Penetration
 8,1H_Axe!A8,1H_Axe,14,Bronze One-Handed Axe,Bronze,1,525,84,26,0,0,0,0,0,6,0,0,0,35,0,0,0,0,0,6,0,0,0,43,0,0,0,0,0,6,0,0,0,52,0,0,0,0,0,6,0,0,0,61,0,0,0,0,0,6,0,0,0,Defense Penetration
 14,1H_Axe!A14,1H_Axe,58,One-Handed Axe of Undead Bane,Bronze,1,,105,28,0,0,0,0,0,6,0,0,0,37,0,0,0,0,0,6,0,0,0,45,0,0,0,0,0,6,0,0,0,54,0,0,0,0,0,0,0,0,0,63,0,0,0,0,0,6,0,0,0,"Defense Penetration, Vs Undead"
 20,1H_Axe!A20,1H_Axe,25,Iron One-Handed Axe,Iron,1,1575,252,41,0,0,0,0,0,6,0,0,0,52,0,0,0,0,0,6,0,0,0,63,0,0,0,0,0,6,0,0,0,74,0,0,0,0,0,6,0,0,0,86,0,0,0,0,0,6,0,0,0,Defense Penetration
@@ -386,24 +386,24 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 254,2H_Spear!A254,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,1H_Staff!A2,1H_Staff,9,Worn-Out Staff,Worn,1,,14,8,3,3,0,0,0,0,0,2,0,14,9,9,0,0,0,0,0,2,0,20,15,15,0,0,0,0,0,2,0,26,21,21,0,0,0,0,0,2,0,33,28,28,0,0,0,0,0,2,0,
-8,1H_Staff!A8,1H_Staff,,Petite Weathered Baton,Worn,1,,,8,3,3,0,0,0,0,0,2,0,14,9,9,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
+8,1H_Staff!A8,1H_Staff,245,Petite Weathered Baton,Worn,1,,,8,3,3,0,0,0,0,0,2,0,14,9,9,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie exclusive
 14,1H_Staff!A14,1H_Staff,20,Hardwood Staff,Bronze,1,350,56,10,8,8,0,0,0,0,0,2,0,19,17,17,0,0,0,0,0,2,0,27,25,25,0,0,0,0,0,2,0,36,34,34,0,0,0,0,0,2,0,45,43,43,0,0,0,0,0,2,0,
 20,1H_Staff!A20,1H_Staff,66,Twisted Staff,Bronze,1,,70,10,8,8,0,0,0,0,0,2,0,19,17,17,0,0,0,0,0,2,0,27,25,25,0,0,0,0,0,2,0,36,34,34,0,0,0,0,0,2,0,45,43,43,0,0,0,0,0,2,0,
-26,1H_Staff!A26,1H_Staff,,Petite Hardwood Batonelle,Bronze,1,3360,,10,8,8,0,0,0,0,0,2,0,19,17,17,0,0,0,0,0,2,0,27,25,25,0,0,0,0,0,2,0,36,34,34,0,0,0,0,0,2,0,45,43,43,0,0,0,0,0,2,0,Faerie exclusive
+26,1H_Staff!A26,1H_Staff,246,Petite Hardwood Batonelle,Bronze,1,3360,,10,8,8,0,0,0,0,0,2,0,19,17,17,0,0,0,0,0,2,0,27,25,25,0,0,0,0,0,2,0,36,34,34,0,0,0,0,0,2,0,45,43,43,0,0,0,0,0,2,0,Faerie exclusive
 32,1H_Staff!A32,1H_Staff,31,Old Wood Staff,Iron,1,1050,168,13,20,20,0,0,0,0,0,2,0,24,31,31,0,0,0,0,0,2,0,35,42,42,0,0,0,0,0,2,0,46,53,53,0,0,0,0,0,2,0,58,65,65,0,0,0,0,0,2,0,
-38,1H_Staff!A38,1H_Staff,,Fine Oldwood Bark Baton,Iron,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Inspiration"
+38,1H_Staff!A38,1H_Staff,248,Fine Oldwood Bark Baton,Iron,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Inspiration"
 44,1H_Staff!A44,1H_Staff,42,Sacred Wood Staff,Steel,1,,336,16,32,32,0,0,0,0,0,2,0,30,46,46,0,0,0,0,0,2,0,43,59,59,0,0,0,0,0,2,0,57,73,73,0,0,0,0,0,2,0,71,87,87,0,0,0,0,0,2,0,
 50,1H_Staff!A50,1H_Staff,80,Holy Staff of the Millenial Tree,Steel,1,10500,420,16,32,32,0,0,0,0,0,2,16,30,46,46,0,0,0,0,0,2,18,43,59,59,0,0,0,0,0,2,19,57,73,73,0,0,0,0,0,2,20,71,87,87,0,0,0,0,0,2,21,
-56,1H_Staff!A56,1H_Staff,,Fine Sacred Tree Baton,Steel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Inspiration"
+56,1H_Staff!A56,1H_Staff,249,Fine Sacred Tree Baton,Steel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie exclusive, Promise of Inspiration"
 62,1H_Staff!A62,1H_Staff,53,Arcane Rod,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,
 68,1H_Staff!A68,1H_Staff,247,Arcane Wand,Ebonsteel,1,94500,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Faerie Exclusive
-74,1H_Staff!A74,1H_Staff,,Fine Bone Baton,Ebonsteel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie Exclusive, Gift of Soul-Soothing"
-80,1H_Staff!A80,1H_Staff,,Fine Tail Baton,Ebonsteel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Faerie Exclusive, Promise of Perseverence"
+74,1H_Staff!A74,1H_Staff,250,Fine Bone Baton,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Gift of Soul-Soothing"
+80,1H_Staff!A80,1H_Staff,251,Fine Tail Baton,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Promise of Perseverence"
 86,1H_Staff!A86,1H_Staff,107,Staff of Weakness,Ebonsteel,1,,875,11,51,51,-1,-1,-1,0,0,3,0,27,67,67,-1,-1,-1,0,0,3,0,43,83,83,-1,-1,-1,0,0,3,0,59,99,99,-1,-1,-1,0,0,3,0,76,116,116,-1,-1,-1,0,0,3,0,Attack Power Decrease
 92,1H_Staff!A92,1H_Staff,Ex.,Black Rod,Ebonsteel,1,,,80,53,0,0,0,0,0,0,2,0,96,69,0,0,0,0,0,0,2,0,112,85,0,0,0,0,0,0,2,0,128,101,0,0,0,0,0,0,2,0,145,118,0,0,0,0,0,0,2,0,
 98,1H_Staff!A98,1H_Staff,Ex.,Staff of Recurrence,Ebonsteel,1,,,11,50,50,0,0,0,0,0,2,0,27,66,66,0,0,0,0,0,2,0,43,82,82,0,0,0,0,0,2,0,59,98,98,0,0,0,0,0,2,0,76,115,115,0,0,0,0,0,2,0,Blessing of Reversal
 104,1H_Staff!A104,1H_Staff,192,Rod of Splendor,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,
-110,1H_Staff!A110,1H_Staff,,Staff of the Long-Cherished Wish,Silver,1,,,20,60,60,0,0,0,0,0,-1,5,40,80,80,0,0,0,0,0,-1,7,59,99,99,0,0,0,0,0,-1,10,78,118,118,0,0,0,0,0,-1,12,98,138,138,0,0,0,0,0,-1,15,
+110,1H_Staff!A110,1H_Staff,244,Staff of the Long-Cherished Wish,Silver,1,,,20,60,60,0,0,0,0,0,-1,5,40,80,80,0,0,0,0,0,-1,7,59,99,99,0,0,0,0,0,-1,10,78,118,118,0,0,0,0,0,-1,12,98,138,138,0,0,0,0,0,-1,15,
 116,1H_Staff!A116,1H_Staff,252,Fine Flower Petal Baton,Silver,1,,1050,27,64,64,0,0,0,0,0,0,3,47,84,84,0,0,0,0,0,0,3,66,103,103,0,0,0,0,0,0,3,85,122,122,0,0,0,0,0,0,3,105,142,142,0,0,0,0,0,0,3,"Faerie exclusive, Promise of Compassion"
 122,1H_Staff!A122,1H_Staff,Ex.,Librarian Rod,Silver,1,,,36,70,70,0,0,0,0,0,3,0,,,,,,,,,,,80,114,114,0,0,0,0,0,3,0,,,,,,,,,,,,,,,,,,,,,Memory Enhancement
 128,1H_Staff!A128,1H_Staff,Ex.,Drug-Stirrer,Silver,1,,,15,77,77,0,0,0,0,0,0,3,39,101,101,0,0,0,0,0,0,3,59,121,121,0,0,0,0,0,0,3,71,133,133,0,0,0,0,0,0,3,,,,,,,,,,,Efficient Compounding
@@ -574,7 +574,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 236,Sam_Katana!A236,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Sam_Odachi!A2,Sam_Odachi,236,Standard Odachi,Bronze,1,2025,240,30,6,0,0,0,-8,3,10,-6,0,41,12,0,0,0,-8,3,10,-6,0,52,17,0,0,0,-8,3,10,-6,0,63,23,0,0,0,-8,3,10,-6,0,75,29,0,0,0,-8,3,10,-6,0,Strength-Based +
-8,Sam_Odachi!A8,Sam_Odachi,237,Fine Odachi,Iron,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+8,Sam_Odachi!A8,Sam_Odachi,237,Fine Odachi,Iron,1,,760,50,10,0,0,0,-8,3,10,-6,0,65,18,0,0,0,-8,3,10,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 14,Sam_Odachi!A14,Sam_Odachi,238,Refined Odachi,Steel,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
 20,Sam_Odachi!A20,Sam_Odachi,239,Exquisite Odachi,Ebonsteel,1,,,109,30,0,0,0,-8,3,10,-6,0,132,42,0,0,0,-8,3,10,-6,0,154,53,0,0,0,-8,3,10,-6,0,177,64,0,0,0,-8,3,10,-6,0,,,,,,,,,,,Strength-Based +
 26,Sam_Odachi!A26,Sam_Odachi,240,Masterwork Odachi,Silver,1,,,128,40,0,0,0,-8,3,10,-6,0,161,54,0,0,0,-8,3,10,-6,0,187,67,0,0,0,-8,3,10,-6,0,210,81,0,0,0,-8,3,10,-6,0,227,94,0,0,0,-8,3,10,-6,0,Strength-Based +
@@ -599,7 +599,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,Sam_Odachi!A140,Sam_Odachi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Ninjato!A2,Ninjato,172,Lower Ninja Blade,Bronze,1,,120,32,0,0,-1,-1,1,0,1,1,0,47,0,0,-1,-1,1,0,2,2,0,62,0,0,-1,-1,1,0,3,3,0,,,,,,,,,,,,,,,,,,,,,Evade Increase
-8,Ninjato!A8,Ninjato,173,Shadowrunner Blade,Iron,1,,380,67,0,0,-1,-1,1,0,2,2,0,87,0,0,-1,-1,1,0,3,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Evade Increase
+8,Ninjato!A8,Ninjato,173,Shadowrunner Blade,Iron,1,,380,67,0,0,-1,-1,1,0,2,2,0,87,0,0,-1,-1,1,0,3,3,0,107,0,0,-1,-1,1,0,4,4,0,,,,,,,,,,,,,,,,,,,,,Evade Increase
 14,Ninjato!A14,Ninjato,82,Phantom Shadow Blade,Steel,1,,720,105,0,0,-1,-1,1,0,3,3,0,130,0,0,-1,-1,1,0,4,4,0,155,0,0,-1,-1,1,0,5,5,0,180,0,0,-1,-1,1,0,6,6,0,,,,,,,,,,,Evade Increase
 20,Ninjato!A20,Ninjato,110,Covert Blade,Ebonsteel,1,,1875,130,0,0,-1,-1,2,0,5,5,0,161,0,0,-1,-1,2,0,7,7,0,192,0,0,-1,-1,2,0,8,8,0,223,0,0,-1,-1,2,0,9,9,0,255,0,0,-1,-1,2,0,10,10,0,Evade Increase
 26,Ninjato!A26,Ninjato,199,Shrouded Blade,Silver,1,,,156,0,0,0,-1,2,20,6,20,0,194,0,0,0,-1,2,20,7,21,0,231,0,0,0,-1,2,20,8,22,0,268,0,0,0,-1,2,20,9,23,0,306,0,0,0,-1,2,20,10,24,0,Evade Increase
