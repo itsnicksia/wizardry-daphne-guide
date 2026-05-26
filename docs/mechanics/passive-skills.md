@@ -11,14 +11,15 @@
 - A `-` means that nothing is gained at that level. 
 - L refers to the level of the passive. Lv4 = Level 4. 
 - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
-- Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
-- The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
-- Legendary and class passives max out at Lv6. If the unit does not have access to the listed class or is not self-inheriting. 
+- Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style.
 
 ## Class  
 
-- The majority of class passives that increase a stat follow the 2/2/4/4/4/4/5 format.
-- For HP/MP/SP it is 4/6/8/10/12/14/6.
+- Class passives that increase a stat follow the same exact progression with a total of 25 at Level 7.
+- For HP, MP, and SP are the same as well with a total of 60 at Level 7.
+- Class passives do not increase Traits, but derived stats.
+- The "Way of..." passives have their own section [here](#way-of-the).
+- Some classes have additional tabs for passives that effect multiple stats or require a more in-depth explanation.
 
 === "Fighter"
 
@@ -287,7 +288,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
 
-    |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
+    |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      |
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
     | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
     
@@ -296,18 +297,26 @@
 ### Shelirionach — Eyes That Know the Future
  
 === "Self"
+
+    <div class="nofilter-table nosort-table" markdown>
  
-    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 ★ |
+    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |:--------------------------|-----|-----|-----|-----|-----|-----|--------|
     | Partial Reduction Rate    | 60% | 65% | 70% | 75% | 80% | 85% | 90%    |
     | Full Evasion Rate         | 25% | 29% | 33% | 37% | 41% | 45% | 50%    |
+
+    </div>
  
 === "Inherited"
+
+    <div class="nofilter-table nosort-table" markdown>
  
     | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6  | 
     |:--------------------------|-----|-----|-----|-----|------|------|
     | Partial Reduction Rate    | 15% | 17% | 19% | 21% | 23%  | 25%  | 
     | Full Evasion Rate         | 5%  | 6%  | 7%  | 8%  | 9%   | 10%  |
+
+    </div>
 
 ### Yekaterina - Eye of Kalshum
 
@@ -478,17 +487,21 @@
 
 === "Example: Lv0"
 
-    - Detect: 50
-    - Treasure Trap Detection Skill, Level: 0 (no passive) 
+    - Assumptions
+        - Detect: 50
+        - Treasure Trap Detection Skill Level: 0 (no passive) 
+    - Formula: Find Trap = (Detect x Multiplier) + Flat Bonus
     - Find Trap = (50 x 1.0) + 0 = 50
-    - Detect = Find Trap with no passive levels in the skill.
+    - Result: Detect = Find Trap with no passive levels in the skill.
 
 === "Example: Lv5" 
 
-    - Detect: 50 
-    - Treasure Trap Detection Skill, Level: 5
+    - Assumptions
+        - Detect: 50 
+        - Treasure Trap Detection Skill Level: 5
+    - Formula: Find Trap = (Detect x Multiplier) + Flat Bonus
     - Find Trap = (50 x 1.14) + 46 = 103
-    - With Lv5 in the passives the MC's Find Trap is twice as large as his base Detect value.
+    - Result: with Lv5 in the passives the MC's Find Trap is twice as large as his base Detect value.
 
 #### Treasure Trap Disarm Skill
 
@@ -517,14 +530,18 @@
 
 === "Example: Lv0"
 
-    - Treasure Trap Disarm Skill, Level: 0 (no passive)
-    - Disarm Trap = 50 (from Stats page)
+    - Assumptions
+        - Treasure Trap Disarm Skill Level: 0 (no passive)
+        - Disarm Trap: 50 (from Stats page)
+    - Formula: Disarm = (Disarm Trap x Multiplier) + Flat Bonus
     - Disarm = (50 x 1.0) + 0 = 50
 
 === "Example: Lv5" 
 
-    - Treasure Trap Disarm Skill, Level: 5
-    - Disarm Trap = 50 (from Stats page)
+    - Assumptions
+        - Treasure Trap Disarm Skill Level: 5
+        - Disarm Trap: 50 (from Stats page)
+    - Formula: Disarm = (Disarm Trap x Multiplier) + Flat Bonus 
     - Disarm = (50 x 1.14) + 24 = 81
 
 
