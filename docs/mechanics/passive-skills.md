@@ -239,7 +239,7 @@
     | MP Up             | -   | -   | -   | -   | -   | -   | 20  |
 
     </div>
-'
+    
 === "Inherited"
 
     <div class="nofilter-table nosort-table" markdown>
