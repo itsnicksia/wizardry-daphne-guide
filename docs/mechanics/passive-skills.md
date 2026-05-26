@@ -49,19 +49,42 @@
 
 === "Thief"
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-    |:----------------------|:---------|----|----|----|----|----|----|----|
-    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
-    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    
-     </div>
+    === "Stats" 
 
-    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:----------------------|:---------|----|----|----|----|----|----|----|
+        | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
+        | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+        | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+        | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+        | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+        
+         </div>
+    
+        - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
+
+=== "Cunning Pursuit" 
+
+    |                   | Lv1 | Lv2    | Lv3   | Lv4    | Lv5    | Lv6   | Lv7    |
+    |:------------------|-----|--------|-------|--------|--------|-------|--------|
+    | Surety &emsp; &emsp; &emsp;            | 10  | 2 (12) | 3 (15)| 2 (17) | 3 (20) | 2 (23) | 2 (25) |
+
+    - Only procs if an enemy is debuffed or has a status ailment. 
+    - There is a risk that the translation is incorrect and it is only active when an enemy is debuffed. We have noticed inconsistencies with status ailments.
+
+=== "Nose for Treasure" 
+
+    |                   | Lv1 | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      |
+    |:------------------|-----|----------|----------|----------|----------|----------|----------|
+    | % Chance          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
+    | Number of Items &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
+
+    - Only triggers if a treasure (sellable item drops). 
+    - Stacks with the "Treasures of the Abyss" event blessing. 
+    - Per level gain is exactly 5% until Level 7, which is 2%. 
+    - At Level 7 the number of items increases to 2. 
 
 === "Priest"
 
