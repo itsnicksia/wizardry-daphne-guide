@@ -83,8 +83,7 @@
 
     - Only triggers if a treasure (sellable item drops). 
     - Stacks with the "Treasures of the Abyss" event blessing. 
-    - Per level gain is exactly 5% until Level 7, which is 2%. 
-    - At Level 7 the number of items increases to 2. 
+    - Per level gain is exactly 5% until Level 7, which is 2%. At Level 7 the number of items increases to 2. 
 
 === "Priest"
 
@@ -159,8 +158,8 @@
         </div>
     
         - Samurai damage scales off both ATK Power and MAG Power. 
-        - Effective Damage = (ATK Power x Modifier) + (MAG Power x Modifier) 
-        - At Level 1, Effective Damage = (ATK Power x 0.65) + (MAG Power x 0.65)
+        - `Effective Damage = (ATK Power x Modifier) + (MAG Power x Modifier)` 
+        - At Level 1, `Effective Damage = (ATK Power x 0.65) + (MAG Power x 0.65)`
         - Higher levels increase the modifier % being used. Each level is a 1% increase. 
 
     === "Concentration" 
@@ -254,8 +253,8 @@
 === "Proc Chance Formula" 
 
     - The community-derived formulas for Level 1 are: 
-        - Adam: '10 + 0.30 x Luck'
-        - Inherited: '5 + 0.30 x Luck'
+        - Adam: `10 + 0.30 x Luck`
+        - Inherited: `5 + 0.30 x Luck`
     - Deriving a more accurate formula that scales with higher levels is being worked on. 
     - We suspect that higher levels increase the flat (base) portion of the formula with 1-2% increases to the 30% Luck modifier. Many passives follow this split structure. 
 
@@ -474,10 +473,10 @@
         - All subsequent levels are an additional 4% and 5% at Level 1. 
         - To calculate the exact value of a spell at different levels of the passive see the next tab. 
 
-    === "Derived Formula"
+    === "Formula"
 
-        - Estimated formula: 
-            - MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋
+        - Formula 
+            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
         - Terms
             - Base MP = The cost of the spell at any level. 
             - WL = The level of Way of the Priest on a unit.    
@@ -507,9 +506,21 @@
         - All subsequent levels are an additional 4% and 5% at Level 1. 
         - To calculate the exact value of a spell at different levels of the passive see the next tab. 
 
-    === "Technical Notes"
+    === "Formula"
 
-        - The derived formula is the same as Way of the Priest.
+        - Formula 
+            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
+        - Terms
+            - Base MP = The cost of the spell at any level. 
+            - WL = The level of Way of the Mage on a unit.    
+        - Floor Function (⌊ ⌋)  
+            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
+            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
+            - MP cost can never go below 1. 
+        - Data 
+            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
+            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
+            - The Way of the Priest uses the exact same formula. 
 
 ### Chest Opening
 
@@ -541,11 +552,11 @@
 === "Formulas"
 
     - Detect 
-        - 'Detect = (IQ x 0.70) + (Luck x 0.30)'
+        - `Detect = (IQ x 0.70) + (Luck x 0.30)`
         - Each class has a different set of [modifiers](./traits-and-stats.md#class-multipliers) for all of the primary Traits, including IQ and Luck. 
         - The Detect value will change when a unit change's classes even if they are both at the same level. 
     - Find Trap 
-        - Find Trap = (Detect x Multiplier) + Flat Bonus
+        - `Find Trap = (Detect x Multiplier) + Flat Bonus`
         - If the unit does not have the Treasure Trap Detect passive (Lv0), then the multiplier is 1.0 and Detect = Find Trap. 
 
 === "Example: Lv0"
@@ -553,8 +564,8 @@
     - Assumptions
         - Detect: 50
         - Treasure Trap Detection Skill Level: 0 (no passive) 
-    - Formula: 'Find Trap = (Detect x Multiplier) + Flat Bonus
-    - Find Trap = (50 x 1.0) + 0 = 50
+    - Formula: `Find Trap = (Detect x Multiplier) + Flat Bonus`
+    - `Find Trap = (50 x 1.0) + 0 = 50`
     - Result: Detect = Find Trap with no passive levels in the skill.
 
 === "Example: Lv5" 
@@ -562,8 +573,8 @@
     - Assumptions
         - Detect: 50 
         - Treasure Trap Detection Skill Level: 5
-    - Formula: Find Trap = (Detect x Multiplier) + Flat Bonus
-    - Find Trap = (50 x 1.14) + 46 = 103
+    - Formula: `Find Trap = (Detect x Multiplier) + Flat Bonus`
+    - `Find Trap = (50 x 1.14) + 46 = 103`
     - Result: with Lv5 in the passives the MC's Find Trap is twice as large as his base Detect value.
 
 #### Treasure Trap Disarm Skill
@@ -587,7 +598,7 @@
 
 === "Formula"
 
-    - Disarm = (Disarm Trap x Multiplier) + Flat Bonus
+    - `Disarm = (Disarm Trap x Multiplier) + Flat Bonus`
     - The multiplier and flat bonus is based on the level of the passive. 
     - If the unit does not have the Treasure Trap Disarm passive (Lv0), then the multiple is 1.0 and the flat bonus = 0. 
 
@@ -596,15 +607,15 @@
     - Assumptions
         - Treasure Trap Disarm Skill Level: 0 (no passive)
         - Disarm Trap: 50 (from Stats page)
-    - Formula: Disarm = (Disarm Trap x Multiplier) + Flat Bonus
-    - Disarm = (50 x 1.0) + 0 = 50
+    - Formula: `Disarm = (Disarm Trap x Multiplier) + Flat Bonus`
+    - `Disarm = (50 x 1.0) + 0 = 50`
 
 === "Example: Lv5" 
 
     - Assumptions
         - Treasure Trap Disarm Skill Level: 5
         - Disarm Trap: 50 (from Stats page)
-    - Formula: Disarm = (Disarm Trap x Multiplier) + Flat Bonus 
-    - Disarm = (50 x 1.14) + 24 = 81
+    - `Formula: Disarm = (Disarm Trap x Multiplier) + Flat Bonus`
+    - `Disarm = (50 x 1.14) + 24 = 81`
 
 
