@@ -23,17 +23,39 @@
 
 ### Fighter 
 
-<div class="nofilter-table nosort-table" markdown>
+=== "Stats"
 
-| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-|:----------------|:---------|----|----|----|----|----|----|----|
-| HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
-| Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-| Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-| Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------|:---------|----|----|----|----|----|----|----|
+    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+    
+    </div>
 
- </div>
-     
+=== "Armsmanship" 
+
+=== "Counterattack" 
+
+=== "Follow-Up Attack" 
+
+=== "Way of the Warrior"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Damage Modifier &emsp; &emsp; &emsp;          | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:-------------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Per Level                | 8%  | 1%  | 2%  | 1%  | 3%  | 2%  | 3%  |
+    | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
+    
+     </div>    
+
+=== "Will to Fight" 
+
+
 ### Knight
 
 <div class="nofilter-table nosort-table" markdown>
@@ -408,18 +430,7 @@
 
 ### "Way of the..." 
 
-=== "Warrior"
 
-    === "Skill Levels" 
-
-        <div class="nofilter-table nosort-table" markdown>
-
-        | Damage Modifier &emsp; &emsp; &emsp;          | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-        |:-------------------------|-----|-----|-----|-----|-----|-----|-----|
-        | Per Level                | 8%  | 1%  | 2%  | 1%  | 3%  | 2%  | 3%  |
-        | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
-
-         </div>
 
     === "Details"
     
