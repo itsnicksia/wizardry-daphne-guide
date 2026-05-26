@@ -61,19 +61,26 @@
 
 === "Will to Fight" 
 
-
 ### Knight
 
-<div class="nofilter-table nosort-table" markdown>
+=== "Stats"
 
-| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-|:------------------|:---------|----|----|----|----|----|----|----|
-| HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
-| Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-| Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-| Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:------------------|:---------|----|----|----|----|----|----|----|
+    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+    | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    
+     </div>
 
- </div>
+=== "Way of the Knight" 
+
+    === "Skill Levels"
+
+    === "Details" 
 
 ### Thief
 
@@ -474,9 +481,9 @@
 
     <div class="nofilter-table nosort-table" markdown>
 
-    |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      |
-    |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
-    | HP Recovery &emsp;  &emsp; &emsp; &emsp; | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
+    |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    |
+    |:-------------------------------|-----|--------|--------|--------|--------|--------|
+    | HP Recovery                    | 6   | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
     
     </div> 
 
