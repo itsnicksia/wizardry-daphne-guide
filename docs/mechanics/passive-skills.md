@@ -250,6 +250,7 @@
         - Adam: '10 + 0.30 x Luck'
         - Inherited: '5 + 0.30 x Luck'
     - Deriving a more accurate formula that scales with higher levels is being worked on. 
+    - We suspect that higher levels increase the flat (base) portion of the formula with 1-2% increases to the 30% Luck modifier. Many passives follow this split structure. 
 
 ### Aldric: Wisdom of the Crafty Dwarf 
 
