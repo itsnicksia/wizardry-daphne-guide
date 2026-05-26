@@ -6,16 +6,14 @@
 
 ## Overview
 
-=== "Table Guide" 
-
-    - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
-    - A blank space means that we have no information on that entry.
-    - A `-` means that nothing is gained at that level. 
-    - L refers to the level of the passive. Lv4 = Level 4. 
-    - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
-    - Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
-    - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
-    - Legendary and class passives max out at Lv6. If the unit does not have access to the listed class or is not self-inheriting. 
+- The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
+- A blank space means that we have no information on that entry.
+- A `-` means that nothing is gained at that level. 
+- L refers to the level of the passive. Lv4 = Level 4. 
+- Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
+- Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style. 
+- The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
+- Legendary and class passives max out at Lv6. If the unit does not have access to the listed class or is not self-inheriting. 
 
 ## Class  
 
@@ -105,12 +103,30 @@
 
     === "Art of Assasination" 
 
-
     === "Empty Husk" 
 
     === "Ninja Dual Wield" 
 
 === "Samurai" 
+
+    === "Divine Path" 
+
+        <div class="nofilter-table nosort-table" markdown>
+    
+        |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+        |:------------------|-----|-----|-----|-----|-----|-----|-----|
+        | Modifier          | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
+    
+        </div>
+    
+        - Samurai damage scales off both ATK Power and MAG Power. 
+        - Effective Damage = (ATK Power x Modifier) + (MAG Power x Modifier) 
+        - At Level 1, Effective Damage = (ATK Power x 0.65) + (MAG Power x 0.65)
+        - Increasing the level of the passive increases the modifier % being used. Each level gives a 1% increase. 
+
+    === "Concentration" 
+
+    === "Thousandfold Grip"
 
     === "Back Against the Water Formation"
 
@@ -187,7 +203,7 @@
     <div class="nofilter-table nosort-table" markdown>
 
     | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
-    |:------------------|-----|---------|---------|---------|---------|---------|--------|
+    |:------------------|-----|---------|---------|---------|---------|---------|
     | Detect            | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
     | Disarm Trap       | 2   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 2 (12)  | 
     | Evade Trap        | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
@@ -220,7 +236,6 @@
     </div>  
 
 ### Debra - Blessings of the Beastfolk Goddess 
-
 
 === "Self"
 
@@ -263,7 +278,24 @@
     |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
     | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
+    
     </div> 
+
+### Shelirionach — Eyes That Know the Future
+ 
+=== "Self"
+ 
+    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 ★ |
+    |:--------------------------|-----|-----|-----|-----|-----|-----|--------|
+    | Partial Reduction Rate    | 60% | 65% | 70% | 75% | 80% | 85% | 90%    |
+    | Full Evasion Rate         | 25% | 29% | 33% | 37% | 41% | 45% | 50%    |
+ 
+=== "Inherited"
+ 
+    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6  | 
+    |:--------------------------|-----|-----|-----|-----|------|------|
+    | Partial Reduction Rate    | 15% | 17% | 19% | 21% | 23%  | 25%  | 
+    | Full Evasion Rate         | 5%  | 6%  | 7%  | 8%  | 9%   | 10%  |
 
 ### Yekaterina - Eye of Kalshum
 
@@ -397,6 +429,10 @@
 
 ### Chest Opening
 
+- The two primary passives related to chest opening are Treasure Trap Detection (Bakesh inherit) and Treasure Trap Disarm (Jean inherit). They are both learned by the Thief Class. Only the Thief class can reach Level 7 in both passives.
+- These passives feed into the two stats - Find and Disarm - that you see when opening a chest.
+- It takes 32 copies of Jean and Bakesh to max out the passive. It is a significant investment. We suggest you think carefully about who you want to use as your long-term chest opener. 
+
 #### Treasure Trap Detection
 
 === "Skill Levels"
@@ -425,9 +461,9 @@
         - The Detect value will change when a unit change's classes even if they are both at the same level. 
     - Find Trap 
         - Find Trap = (Detect x Multiplier) + Flat Bonus
-        - If the unit does not have the Treasure Trap Detect passive (L0), then the multiplier is 1.0 and Detect = Find Trap. 
+        - If the unit does not have the Treasure Trap Detect passive (Lv0), then the multiplier is 1.0 and Detect = Find Trap. 
 
-=== "Example: L0"
+=== "Example: Lv0"
 
     - Detect: 50
     - Treasure Trap Detection Level: 0 (no passive) 
@@ -443,12 +479,39 @@
 
 #### Treasure Trap Disarm
 
+=== "Skill Levels" 
 
-<div class="nofilter-table nosort-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
+    |:----------------|-------|-------|-------|-------|-------|-------|-------|
+    | Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
+    | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+    
+     </div>
 
-|                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
-|:----------------|-------|-------|-------|-------|-------|-------|-------|
-| Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
-| Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+=== "Basics"
 
- </div>
+    - Disarm Trap: Located on the Stats page. Only comes into effect if a trap has been successfully identified. It governs the size of the yellow bars during the chest opening mini-game. 
+    - Treasure Trap Detect at Lv1 provides a moderate boost and should be inherited to your chest opener if the unit is not a Thief. 
+    - Only the Thief class is able to reach Lv7. The maximum for other classes is Lv6. 
+
+=== "Formula"
+
+    - Disarm = (Trap Disarm x Multiplier) + Flat Bonus
+    - The multiplier and flat bonus is based on the level of the passive. 
+    - If the unit does not have the Treasure Trap Disarm passive (Lv0), then the multiple is 1.0 and the flat bonus = 0. 
+
+=== "Example: Lv0"
+
+    - Treasure Trap Disarm Level: 0 (no passive)
+    - Disarm Trap = 50 (from Stats page)
+    - Disarm = (50 x 1.0) + 0 = 50
+
+=== "Example: Lv5" 
+
+    - Treasure Trap Detection Level: 5
+    - Disarm Trap = 50 (from Stats page)
+    - Disarm = (50 x 1.14) + 24 = 81
+
+
