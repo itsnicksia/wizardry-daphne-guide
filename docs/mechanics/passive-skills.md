@@ -104,11 +104,14 @@
 
     === "Art of Assasination" 
 
+        <div class="nofilter-table nosort-table" markdown>
 
-        | % Critical Chance &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-        |:----------------|:---------|----|----|----|----|----|-----|-----|
-        | Weapon          |          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
-        | Bare-Handed     |          | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
+        | % Critical Chance &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:----------------|----|----|----|----|----|-----|-----|
+        | Weapon          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
+        | Bare-Handed     | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
+
+        </div>
 
         - Only activates on normal attacks. It is rolled per hit, so multi-hit gacha weapons like the Citrus-Blossom Hairpin (Yuzu) and Raven Daggers (Aldric) increase your chances.    
         - Scales off Dexterity, not Luck. 
@@ -202,12 +205,12 @@
 
     <div class="nofilter-table nosort-table" markdown>
  
-    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |:------------------|-----|---------|---------|---------|---------|---------|---------|
     | Detect            | 2   | 2 (4)   | 4 (8)   | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Disarm Trap       | 4   | 2 (6)   | 4 (10)  | 2 (12)  | 2 (14)  | 6 (20)  | 4 (24)  |
     | Evade Trap        | 2   | 2 (4)   | 4 (8)   | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Traphobia Resist  | 15  | 5 (20)  | 5 (25)  | 5 (30)  | 5 (35)  | 5 (40)  | 5 (45)  |
+    | Traphobia Resist &emsp; &emsp; &emsp;  | 15  | 5 (20)  | 5 (25)  | 5 (30)  | 5 (35)  | 5 (40)  | 5 (45)  |
 
     </div>  
  
@@ -215,12 +218,12 @@
 
     <div class="nofilter-table nosort-table" markdown>
 
-    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
+    |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
     |:------------------|-----|---------|---------|---------|---------|---------|
     | Detect            | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
     | Disarm Trap       | 2   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 2 (12)  | 
     | Evade Trap        | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
-    | Traphobia Resist  | 10  | 3 (13)  | 2 (15)  | 3 (18)  | 2 (20)  | 5 (25)  | 
+    | Traphobia Resist &emsp; &emsp; &emsp;   | 10  | 3 (13)  | 2 (15)  | 3 (18)  | 2 (20)  | 5 (25)  | 
 
     </div>  
 
@@ -233,7 +236,7 @@
     |                                | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:-------------------------------|----|----|----|----|----|----|----|
     | Turn Count Increase            | 1  | -  | 1  | -  | 1  | -  | 1  |   
-    | Cumulative Turn Count Increase  &emsp;  &emsp;  | 1  | 1  | 2  | 2  | 3  | 3  | 4  |       
+    | Cumulative Increase  &emsp;  &emsp;  &emsp;  | 1  | 1  | 2  | 2  | 3  | 3  | 4  |       
     
     </div>  
 
@@ -244,7 +247,7 @@
     |                                | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
     |:-------------------------------|----|----|----|----|----|----|
     | Turn Count Increase            | 1  | -  | -  | -  | 1  | -  | 
-    | Cumulative Turn Count Increase  &emsp;  &emsp;  | 1  | 1  | 1  | 1  | 2  | 2  |      
+    | Cumulative  Increase  &emsp;  &emsp;  &emsp;  | 1  | 1  | 1  | 1  | 2  | 2  |      
     
     </div>  
 
@@ -254,10 +257,10 @@
 
     <div class="nofilter-table nosort-table" markdown>
  
-    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | Lv7     |
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | Lv7     |
     |:------------------|-----|--------|--------|--------|---------|---------|---------|
     | SP Recovery       | 4   | 1 (5)  | 2 (7)  | 1 (8)  | 2 (10)  | 1 (11)  | 2 (13)  |
-    | Attack Power      | -   | -      | 6      | 2 (8)  | 4 (12)  | 2 (14)  | 4 (18)  |
+    | Attack Power &emsp; &emsp; &emsp;      | -   | -      | 6      | 2 (8)  | 4 (12)  | 2 (14)  | 4 (18)  |
 
     </div>
  
@@ -265,10 +268,10 @@
 
     <div class="nofilter-table nosort-table" markdown>
  
-    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | 
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | 
     |:------------------|-----|--------|--------|--------|---------|---------|
     | SP Recovery       | 2   | 1 (3)  | 1 (4)  | 1 (5)  | 1 (6)   | 1 (7)   | 
-    | Attack Power      | -   | -      | 5      | 2 (7)  | 3 (10)  | 2 (12)  | 
+    | Attack Power &emsp; &emsp; &emsp;      | -   | -      | 5      | 2 (7)  | 3 (10)  | 2 (12)  | 
 
     </div>
 
@@ -280,7 +283,7 @@
     
     |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
-    | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 12  | 10 (22) | 12 (34) | 10 (44) | 14 (58) | 10 (68) | 17 (85) |
+    | HP Recovery &emsp;  &emsp; &emsp; &emsp;  | 12  | 10 (22) | 12 (34) | 10 (44) | 14 (58) | 10 (68) | 17 (85) |
 
     </div> 
 
@@ -290,7 +293,7 @@
 
     |                                | Lv1  | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      |
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
-    | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
+    | HP Recovery &emsp;  &emsp; &emsp; &emsp; | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
     
     </div> 
 
@@ -300,10 +303,10 @@
 
     <div class="nofilter-table nosort-table" markdown>
  
-    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
-    |:--------------------------|-----|-----|-----|-----|-----|-----|--------|
-    | Partial Reduction Rate    | 60% | 65% | 70% | 75% | 80% | 85% | 90%    |
-    | Full Evasion Rate         | 25% | 29% | 33% | 37% | 41% | 45% | 50%    |
+    |                           | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |:--------------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Partial Reduction Rate &emsp; &emsp; &emsp;    | 60% | 65% | 70% | 75% | 80% | 85% | 90% |
+    | Full Evasion Rate         | 25% | 29% | 33% | 37% | 41% | 45% | 50% |
 
     </div>
  
@@ -311,9 +314,9 @@
 
     <div class="nofilter-table nosort-table" markdown>
  
-    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6  | 
+    |                           | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6  | 
     |:--------------------------|-----|-----|-----|-----|------|------|
-    | Partial Reduction Rate    | 15% | 17% | 19% | 21% | 23%  | 25%  | 
+    | Partial Reduction Rate &emsp; &emsp; &emsp;   | 15% | 17% | 19% | 21% | 23%  | 25%  | 
     | Full Evasion Rate         | 5%  | 6%  | 7%  | 8%  | 9%   | 10%  |
 
     </div>
@@ -352,7 +355,7 @@
 
         <div class="nofilter-table nosort-table" markdown>
 
-        | Damage Modifier          | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        | Damage Modifier &emsp; &emsp; &emsp;          | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
         |:-------------------------|-----|-----|-----|-----|-----|-----|-----|
         | Per Level                | 8%  | 1%  | 2%  | 1%  | 3%  | 2%  | 3%  |
         | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
@@ -464,7 +467,7 @@
     |                 | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   | 
     |:----------------|-------|-------|-------|-------|-------|-------|-------|
     | Flat Bonus      | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
-    | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+    | Multiplier &emsp; &emsp; &emsp; &emsp;       | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
     
      </div>
 
@@ -511,8 +514,8 @@
     
     |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
     |:----------------|-------|-------|-------|-------|-------|-------|-------|
-    | Flat Bonus &emsp; &emsp; &emsp;     | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
-    | Multiplier      | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+    | Flat Bonus      | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
+    | Multiplier &emsp; &emsp; &emsp; &emsp; | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
     
      </div>
 
