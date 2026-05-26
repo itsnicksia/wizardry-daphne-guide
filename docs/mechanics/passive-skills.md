@@ -21,49 +21,49 @@
 - The "Way of..." passives have their own section [here](#way-of-the).
 - Some classes have additional tabs for passives that effect multiple stats or require a more in-depth explanation.
 
-=== "Fighter"
+### Fighter 
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-    |:----------------|:---------|----|----|----|----|----|----|----|
-    | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
-    | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
- 
-     </div>
+<div class="nofilter-table nosort-table" markdown>
+
+| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+|:----------------|:---------|----|----|----|----|----|----|----|
+| HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+| Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+| Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+| Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+
+ </div>
      
-=== "Knight"
+### Knight
+
+<div class="nofilter-table nosort-table" markdown>
+
+| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+|:------------------|:---------|----|----|----|----|----|----|----|
+| HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+| Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+| Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+| Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+
+ </div>
+
+### Thief
+
+=== "Stats" 
 
     <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-    |:------------------|:---------|----|----|----|----|----|----|----|
-    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
-    | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    |:----------------------|:---------|----|----|----|----|----|----|----|
+    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
+    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
-=== "Thief"
-
-    === "Stats" 
-
-        <div class="nofilter-table nosort-table" markdown>
-        
-        | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-        |:----------------------|:---------|----|----|----|----|----|----|----|
-        | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
-        | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-        | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-        | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-        | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-        
-         </div>
-    
-        - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
+    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
 
 === "Cunning Pursuit" 
 
@@ -85,102 +85,102 @@
     - Stacks with the "Treasures of the Abyss" event blessing. 
     - Per level gain is exactly 5% until Level 7, which is 2%. At Level 7 the number of items increases to 2. 
 
-=== "Priest"
+### Priest
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-    |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
-    | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    
-     </div>
+<div class="nofilter-table nosort-table" markdown>
 
-=== "Mage"
+| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+|:-----------------|:---------|----|----|----|-----|-----|-----|-----|
+| Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+| Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-    |:------------------|:---------|----|----|----|----|----|----|----|
-    | Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25) |
-    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
+ </div>
 
-     </div>
+### Mage
 
-=== "Ninja"
+<div class="nofilter-table nosort-table" markdown>
 
-    === "Stats"
+| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+|:------------------|:---------|----|----|----|----|----|----|----|
+| Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+| Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25) |
+| Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+| MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
 
-        <div class="nofilter-table nosort-table" markdown>
-        
-        | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-        |:----------------|:---------|----|----|----|----|----|----|----|
-        | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
-        | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-        | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-        | Vitality Jutsu  |          | 10%  | 11%  | 13%    | 14%     | 16%     | 17%     | 20%    |
-        
-         </div>
+ </div>
 
-    === "Art of Assasination" 
+### Ninja
 
-        <div class="nofilter-table nosort-table" markdown>
-
-        | % Critical Chance &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-        |:----------------|----|----|----|----|----|-----|-----|
-        | Weapon          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
-        | Bare-Handed     | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
-
-        </div>
-
-        - Only activates on normal attacks. It is rolled per hit, so multi-hit gacha weapons like the Citrus-Blossom Hairpin (Yuzu) and Raven Daggers (Aldric) increase your chances.    
-        - Scales off Dexterity, not Luck. 
-        - Fixed cap of 50%. 
-        - "Bare-handed" means not having a weapon equipped in either hand. 
-        - In addition to the flat % rates listed there is an additional modifier that is added, which scales off DEX. The actual % Critical Chance would be Fixed % + Modifer %. The modifier is likely % = DEX/# (Fixed Constant).   
-
-    === "Empty Husk" 
-
-    === "Ninja Dual Wield" 
-
-=== "Samurai" 
-
-    === "Divine Path" 
-
-        <div class="nofilter-table nosort-table" markdown>
-    
-        |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
-        |:------------------|-----|-----|-----|-----|-----|-----|-----|
-        | Modifier          | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
-    
-        </div>
-    
-        - Samurai damage scales off both ATK Power and MAG Power. 
-        - `Effective Damage = (ATK Power x Modifier) + (MAG Power x Modifier)` 
-        - At Level 1, `Effective Damage = (ATK Power x 0.65) + (MAG Power x 0.65)`
-        - Higher levels increase the modifier % being used. Each level is a 1% increase. 
-
-    === "Concentration" 
-
-    === "Thousandfold Grip"
-
-    === "Back Against the Water Formation"
-
-    === "Mysta Energy Manipulation"
-
-=== "Ranger" 
+=== "Stats"
 
     <div class="nofilter-table nosort-table" markdown>
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
-    | Accuracy Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Detection Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Evade Trap Up   |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
+    | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Vitality Jutsu  |          | 10%  | 11%  | 13%    | 14%     | 16%     | 17%     | 20%    |
     
      </div>
+
+=== "Art of Assasination" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    | % Critical Chance &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------|----|----|----|----|----|-----|-----|
+    | Weapon          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
+    | Bare-Handed     | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
+
+    </div>
+
+    - Only activates on normal attacks. It is rolled per hit, so multi-hit gacha weapons like the Citrus-Blossom Hairpin (Yuzu) and Raven Daggers (Aldric) increase your chances.    
+    - Scales off Dexterity, not Luck. 
+    - Fixed cap of 50%. 
+    - "Bare-handed" means not having a weapon equipped in either hand. 
+    - In addition to the flat % rates listed there is an additional modifier that is added, which scales off DEX. The actual % Critical Chance would be Fixed % + Modifer %. The modifier is likely % = DEX/# (Fixed Constant).   
+
+=== "Empty Husk" 
+
+=== "Ninja Dual Wield" 
+
+### Samurai 
+
+=== "Divine Path" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |:------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Modifier          | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
+
+    </div>
+
+    - Samurai damage scales off both ATK Power and MAG Power. 
+    - `Effective Damage = (ATK Power x Modifier) + (MAG Power x Modifier)` 
+    - At Level 1, `Effective Damage = (ATK Power x 0.65) + (MAG Power x 0.65)`
+    - Higher levels increase the modifier % being used. Each level is a 1% increase. 
+
+=== "Concentration" 
+
+=== "Thousandfold Grip"
+
+=== "Back Against the Water Formation"
+
+=== "Mysta Energy Manipulation"
+
+### Ranger
+
+<div class="nofilter-table nosort-table" markdown>
+
+| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+|:----------------|:---------|----|----|----|----|----|----|----|
+| Accuracy Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+| Detection Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+| Evade Trap Up   |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+
+ </div>
 
 ## Anonymous 
 
