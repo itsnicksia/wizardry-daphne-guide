@@ -223,8 +223,35 @@
 
 ### Adam: Wisdom of Truth
 
-### Aldric: Wisdom of the Crafty Dwarf 
+- Wisdom of Truth provides two benefits:
+    - Nullifies the damage penalty of attacking an enemy with an element it is resistant to.
+    - Fixed damage reduction (DR) % that procs off the Luck stat.
+- The DR % is fixed at all levels. It is 50% for Adam and 30% as an inherit. This DR applies to any source of damage.
+- Stacks with Way of the Knight, Sanctuary's Blessing, and the Knight Cloak accessory.
+- We do not currently know the exact proc rate formula. But, what we -do- know is that it roughly doubles at Level 4. This is one of the single most powerful things you can do to improve a unit's survivability. 
 
+=== "Self"
+
+    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |:------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Damage Reduction &emsp; &emsp; &emsp;  | 50% | 50% | 50% | 50% | 50% | 50% | 50% |
+    | MP Up             | -   | -   | -   | -   | -   | -   | 20  |
+
+'
+=== "Inherited"
+
+    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
+    |:------------------|-----|-----|-----|-----|-----|-----|
+    | Damage Reduction &emsp; &emsp; &emsp; | 30% | 30% | 30% | 30% | 30% | 30% | 
+
+=== "Proc Chance Formula" 
+
+    - The community-derived formulas for Level 1 are: 
+        - Adam: '10 + 0.30 x Luck'
+        - Inherited: '5 + 0.30 x Luck'
+    - Deriving a more accurate formula that scales with higher levels is being worked on. 
+
+### Aldric: Wisdom of the Crafty Dwarf 
 
 === "Self"
 
@@ -506,7 +533,7 @@
 === "Formulas"
 
     - Detect 
-        - Detect = (IQ x 0.70) + (Luck x 0.30)
+        - 'Detect = (IQ x 0.70) + (Luck x 0.30)'
         - Each class has a different set of [modifiers](./traits-and-stats.md#class-multipliers) for all of the primary Traits, including IQ and Luck. 
         - The Detect value will change when a unit change's classes even if they are both at the same level. 
     - Find Trap 
@@ -518,7 +545,7 @@
     - Assumptions
         - Detect: 50
         - Treasure Trap Detection Skill Level: 0 (no passive) 
-    - Formula: Find Trap = (Detect x Multiplier) + Flat Bonus
+    - Formula: 'Find Trap = (Detect x Multiplier) + Flat Bonus
     - Find Trap = (50 x 1.0) + 0 = 50
     - Result: Detect = Find Trap with no passive levels in the skill.
 
