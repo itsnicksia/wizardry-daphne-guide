@@ -198,7 +198,9 @@
 
 ## Legendary 
 
-### Aldric - Wisdom of the Crafty Dwarf 
+### Adam — Wisdom of Truth
+
+### Aldric — Wisdom of the Crafty Dwarf 
 
 
 === "Self"
@@ -227,7 +229,7 @@
 
     </div>  
 
-### Alice - Blessings of Agora
+### Alice — Blessings of Agora
 
 === "Self" 
 
@@ -251,7 +253,7 @@
     
     </div>  
 
-### Debra - Blessings of the Beastfolk Goddess 
+### Debra — Blessings of the Beastfolk Goddess 
 
 === "Self"
 
@@ -275,7 +277,7 @@
 
     </div>
 
-### Lanaville - Queen of Love and War 
+### Lanaville — Queen of Love and War 
 
 === "Self" 
 
@@ -321,7 +323,7 @@
 
     </div>
 
-### Yekaterina - Eye of Kalshum
+### Yekaterina — Eye of Kalshum
 
 === "Self" 
 
