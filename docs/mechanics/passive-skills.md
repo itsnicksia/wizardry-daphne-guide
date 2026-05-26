@@ -124,7 +124,7 @@
 
     </div>
 
-    - Only triggers if a treasure (sellable item drops). 
+    - Only triggers if a treasure (sellable item) drops. 
     - Stacks with the "Treasures of the Abyss" event blessing. 
     - Per level gain is exactly 5% until Level 7, which is 2%. At Level 7 the number of items increases to 2. 
 
