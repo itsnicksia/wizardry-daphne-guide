@@ -220,7 +220,7 @@
 
 ## Legendary 
 
-### Adam: Wisdom of Truth
+### Adam - Wisdom of Truth
 
 - Wisdom of Truth provides two benefits:
     - Nullifies the damage penalty of attacking an enemy with an element it is resistant to.
@@ -258,7 +258,7 @@
     - Deriving a more accurate formula that scales with higher levels is being worked on. 
     - We suspect that higher levels increase the flat (base) portion of the formula with 1-2% increases to the 30% Luck modifier. Many passives follow this split structure. 
 
-### Aldric: Wisdom of the Crafty Dwarf 
+### Aldric - Wisdom of the Crafty Dwarf 
 
 === "Self"
 
@@ -286,7 +286,7 @@
 
     </div>  
 
-### Alice: Blessings of Agora
+### Alice - Blessings of Agora
 
 === "Self" 
 
@@ -310,7 +310,7 @@
     
     </div>  
 
-### Debra: Blessings of the Beastfolk Goddess 
+### Debra - Blessings of the Beastfolk Goddess 
 
 === "Self"
 
@@ -334,7 +334,7 @@
 
     </div>
 
-### Lanaville: Queen of Love and War 
+### Lanaville - Queen of Love and War 
 
 === "Self" 
 
@@ -356,7 +356,7 @@
     
     </div> 
 
-### Shelirionach: Eyes That Know the Future
+### Shelirionach - Eyes That Know the Future
  
 === "Self"
 
@@ -380,7 +380,7 @@
 
     </div>
 
-### Yekaterina: Eye of Kalshum
+### Yekaterina - Eye of Kalshum
 
 === "Self" 
 
