@@ -232,17 +232,24 @@
 
 === "Self"
 
+    <div class="nofilter-table nosort-table" markdown>
+
     |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |:------------------|-----|-----|-----|-----|-----|-----|-----|
     | Damage Reduction &emsp; &emsp; &emsp;  | 50% | 50% | 50% | 50% | 50% | 50% | 50% |
     | MP Up             | -   | -   | -   | -   | -   | -   | 20  |
 
+    </div>
 '
 === "Inherited"
+
+    <div class="nofilter-table nosort-table" markdown>
 
     |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
     |:------------------|-----|-----|-----|-----|-----|-----|
     | Damage Reduction &emsp; &emsp; &emsp; | 30% | 30% | 30% | 30% | 30% | 30% | 
+
+    </div>
 
 === "Proc Chance Formula" 
 
