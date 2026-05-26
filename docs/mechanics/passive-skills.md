@@ -103,6 +103,18 @@
 
     === "Art of Assasination" 
 
+
+        | % Critical Chance &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:----------------|:---------|----|----|----|----|----|-----|-----|
+        | Weapon          |          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
+        | Bare-Handed     |          | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
+
+        - Only activates on normal attacks. It is rolled per hit, so multi-hit gacha weapons like the Citrus-Blossom Hairpin (Yuzu) and Raven Daggers (Aldric) increase your chances.    
+        - Scales off Dexterity, not Luck. 
+        - Fixed cap of 50%. 
+        - "Bare-handed" means not having a weapon equipped in either hand. 
+        - In addition to the flat % rates listed there is an additional modifier that is added, which scales off DEX. The actual % Critical Chance would be Fixed % + Modifer %. The modifier is likely % = DEX/# (Fixed Constant).   
+
     === "Empty Husk" 
 
     === "Ninja Dual Wield" 
@@ -122,7 +134,7 @@
         - Samurai damage scales off both ATK Power and MAG Power. 
         - Effective Damage = (ATK Power x Modifier) + (MAG Power x Modifier) 
         - At Level 1, Effective Damage = (ATK Power x 0.65) + (MAG Power x 0.65)
-        - Increasing the level of the passive increases the modifier % being used. Each level gives a 1% increase. 
+        - Higher levels increase the modifier % being used. Each level is a 1% increase. 
 
     === "Concentration" 
 
@@ -352,7 +364,7 @@
 
         <div class="nofilter-table nosort-table" markdown>
 
-        | SUR Modifier &emsp; &emsp; &emsp;             | L0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
+        | SUR Modifier &emsp; &emsp; &emsp;              | Lv0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
         |:-------------------------|-------|------|------|------|------|------|------|------|
         | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%   |
         | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
@@ -363,7 +375,7 @@
     === "Details"
 
         - SUR Damage = Damage x SUR Modifier 
-        - Standard SUR damage modifier is 1.75x at L0 
+        - Standard SUR damage modifier is 1.75x at Lv0 
         - No way to inherit to non-Thieves
         - No way to increase the passive's levels outside of codexes
 
@@ -429,11 +441,12 @@
 
 ### Chest Opening
 
-- The two primary passives related to chest opening are Treasure Trap Detection (Bakesh inherit) and Treasure Trap Disarm (Jean inherit). They are both learned by the Thief Class. Only the Thief class can reach Level 7 in both passives.
-- These passives feed into the two stats - Find and Disarm - that you see when opening a chest.
-- It takes 32 copies of Jean and Bakesh to max out the passive. It is a significant investment. We suggest you think carefully about who you want to use as your long-term chest opener. 
+- The two primary passives related to chest opening are Treasure Trap Detection Skill (Bakesh inherit) and Treasure Trap Disarm Skill (Jean inherit). They are both learned by the Thief class. 
+- The passives increase the two stats - Find and Disarm - that you see when opening a chest.
+- It takes 32 copies of Jean and Bakesh to max out the passive. It is a significant investment. We suggest you think carefully about who you want to use as your long-term chest opener.
+- The exact in-game terms are used. 
 
-#### Treasure Trap Detection
+#### Treasure Trap Detection Skill
 
 === "Skill Levels"
 
@@ -450,7 +463,7 @@
 
     - Find Trap: A derived stat (from Detect) used to identify whether a chest contains a trap. If a trap is present and detected, then it will trigger the trap disarm mini-game. If not, then the trap will go off, causing damage or inflicting status effects.  
     - Detect: Listed on a unit's Stat page. It is the primary input in the Find Trap formula. The Treasure Trap Detect passive modifies the Detect value, which results in the Find Trap number that you see when you open a chest.    
-    - The Treasure Trap Detect passive at Lv1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
+    - The Treasure Trap Detection Skill at Lv1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
     - Only the Thief class is able to reach Lv7. The maximum for other classes is Lv6. 
 
 === "Formulas"
@@ -466,18 +479,18 @@
 === "Example: Lv0"
 
     - Detect: 50
-    - Treasure Trap Detection Level: 0 (no passive) 
+    - Treasure Trap Detection Skill, Level: 0 (no passive) 
     - Find Trap = (50 x 1.0) + 0 = 50
     - Detect = Find Trap with no passive levels in the skill.
 
 === "Example: Lv5" 
 
     - Detect: 50 
-    - Treasure Trap Detection Level: 5
+    - Treasure Trap Detection Skill, Level: 5
     - Find Trap = (50 x 1.14) + 46 = 103
     - With Lv5 in the passives the MC's Find Trap is twice as large as his base Detect value.
 
-#### Treasure Trap Disarm
+#### Treasure Trap Disarm Skill
 
 === "Skill Levels" 
 
@@ -493,24 +506,24 @@
 === "Basics"
 
     - Disarm Trap: Located on the Stats page. Only comes into effect if a trap has been successfully identified. It governs the size of the yellow bars during the chest opening mini-game. 
-    - Treasure Trap Detect at Lv1 provides a moderate boost and should be inherited to your chest opener if the unit is not a Thief. 
+    - Treasure Trap Disarm Skill at Lv1 provides a moderate boost and should be inherited to your chest opener if the unit is not a Thief. 
     - Only the Thief class is able to reach Lv7. The maximum for other classes is Lv6. 
 
 === "Formula"
 
-    - Disarm = (Trap Disarm x Multiplier) + Flat Bonus
+    - Disarm = (Disarm Trap x Multiplier) + Flat Bonus
     - The multiplier and flat bonus is based on the level of the passive. 
     - If the unit does not have the Treasure Trap Disarm passive (Lv0), then the multiple is 1.0 and the flat bonus = 0. 
 
 === "Example: Lv0"
 
-    - Treasure Trap Disarm Level: 0 (no passive)
+    - Treasure Trap Disarm Skill, Level: 0 (no passive)
     - Disarm Trap = 50 (from Stats page)
     - Disarm = (50 x 1.0) + 0 = 50
 
 === "Example: Lv5" 
 
-    - Treasure Trap Detection Level: 5
+    - Treasure Trap Disarm Skill, Level: 5
     - Disarm Trap = 50 (from Stats page)
     - Disarm = (50 x 1.14) + 24 = 81
 
