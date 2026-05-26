@@ -52,6 +52,12 @@
     | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
     
      </div>    
+    
+    - Damage modifier for basic attacks and skills. 
+    - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
+    - Inherit from:
+         - <span style="color: DarkOrange">Gandolfo P</span>
+         - <span style="color: DarkOrange">Ophelia P</span>
 
 === "Will to Fight" 
 
@@ -89,47 +95,143 @@
 
 === "Cunning Pursuit" 
 
+    <div class="nofilter-table nosort-table" markdown>
+
     |                   | Lv1 | Lv2    | Lv3   | Lv4    | Lv5    | Lv6   | Lv7    |
     |:------------------|-----|--------|-------|--------|--------|-------|--------|
     | Surety &emsp; &emsp; &emsp;            | 10  | 2 (12) | 3 (15)| 2 (17) | 3 (20) | 2 (23) | 2 (25) |
+
+    </div>
 
     - Only procs if an enemy is debuffed or has a status ailment. 
     - There is a risk that the translation is incorrect and it is only active when an enemy is debuffed. We have noticed inconsistencies with status ailments.
 
 === "Nose for Treasure" 
 
+    <div class="nofilter-table nosort-table" markdown>
+
     |                   | Lv1 | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      |
     |:------------------|-----|----------|----------|----------|----------|----------|----------|
     | % Chance          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
     | Number of Items &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
 
+    </div>
+
     - Only triggers if a treasure (sellable item drops). 
     - Stacks with the "Treasures of the Abyss" event blessing. 
     - Per level gain is exactly 5% until Level 7, which is 2%. At Level 7 the number of items increases to 2. 
 
+=== "Way of the Thief" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    | SUR Modifier &emsp; &emsp; &emsp;              | Lv0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
+    |:-------------------------|-------|------|------|------|------|------|------|------|
+    | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%   |
+    | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
+    | Total with base SUR      | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
+
+    </div>
+
+    - SUR Damage = Damage x SUR Modifier 
+    - Standard SUR damage modifier is 1.75x at Lv0 
+    - No way to inherit to non-Thieves
+    - No way to increase the passive's levels outside of codexes
+
 ### Priest
 
-<div class="nofilter-table nosort-table" markdown>
+=== "Stats" 
 
-| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-|:-----------------|:---------|----|----|----|-----|-----|-----|-----|
-| Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-| Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
+    | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    
+     </div>
 
- </div>
+=== "Way of the Priest" 
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
+        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
+        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
+
+        </div>
+
+        - 10% reduction at Level 1. 
+        - All subsequent levels are an additional 4% and 5% at Level 1. 
+        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
+
+    === "Formula"
+
+        - Formula 
+            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
+        - Terms
+            - Base MP = The cost of the spell at any level. 
+            - WL = The level of Way of the Priest on a unit.    
+        - Floor Function (⌊ ⌋)  
+            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
+            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
+            - MP cost can never go below 1. 
+        - Data 
+            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
+            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
+            - The Way of the Mage uses the exact same formula. 
+
 
 ### Mage
 
-<div class="nofilter-table nosort-table" markdown>
+=== "Stats" 
 
-| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-|:------------------|:---------|----|----|----|----|----|----|----|
-| Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-| Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25) |
-| Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-| MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:------------------|:---------|----|----|----|----|----|----|----|
+    | Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25) |
+    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
+    
+     </div>
 
- </div>
+=== " Way of the Mage" 
+
+    === "Skill Levels" 
+    
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
+        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
+        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
+    
+        </div>
+    
+        - 10% reduction at Level 1. 
+        - All subsequent levels are an additional 4% and 5% at Level 1. 
+        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
+    
+    === "Formula"
+    
+        - Formula 
+            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
+        - Terms
+            - Base MP = The cost of the spell at any level. 
+            - WL = The level of Way of the Mage on a unit.    
+        - Floor Function (⌊ ⌋)  
+            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
+            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
+            - MP cost can never go below 1. 
+        - Data 
+            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
+            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
+            - The Way of the Priest uses the exact same formula. 
 
 ### Ninja
 
@@ -427,111 +529,6 @@
     </div>
 
 ## Other
-
-### "Way of the..." 
-
-
-
-    === "Details"
-    
-        - Damage modifier for basic attacks and skills. 
-        - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
-        - Inherit from:
-             - <span style="color: DarkOrange">Gandolfo P</span>
-             - <span style="color: DarkOrange">Ophelia P</span>
-
-=== "Thief"
-
-    === "Skill Levels" 
-
-        <div class="nofilter-table nosort-table" markdown>
-
-        | SUR Modifier &emsp; &emsp; &emsp;              | Lv0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
-        |:-------------------------|-------|------|------|------|------|------|------|------|
-        | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%   |
-        | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
-        | Total with base SUR      | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
-
-        </div>
-
-    === "Details"
-
-        - SUR Damage = Damage x SUR Modifier 
-        - Standard SUR damage modifier is 1.75x at Lv0 
-        - No way to inherit to non-Thieves
-        - No way to increase the passive's levels outside of codexes
-
-=== "Knight" 
-
-    === "Skill Levels" 
-
-    === "Technical Notes"
-
-=== "Priest"
-
-    === "Skill Levels" 
-
-        <div class="nofilter-table nosort-table" markdown>
-        
-        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
-        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
-        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
-
-        </div>
-
-        - 10% reduction at Level 1. 
-        - All subsequent levels are an additional 4% and 5% at Level 1. 
-        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
-
-    === "Formula"
-
-        - Formula 
-            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
-        - Terms
-            - Base MP = The cost of the spell at any level. 
-            - WL = The level of Way of the Priest on a unit.    
-        - Floor Function (⌊ ⌋)  
-            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
-            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
-            - MP cost can never go below 1. 
-        - Data 
-            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
-            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
-            - The Way of the Mage uses the exact same formula. 
-
-=== "Mage" 
-
-    === "Skill Levels" 
-
-        <div class="nofilter-table nosort-table" markdown>
-        
-        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
-        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
-        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
-
-        </div>
-
-        - 10% reduction at Level 1. 
-        - All subsequent levels are an additional 4% and 5% at Level 1. 
-        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
-
-    === "Formula"
-
-        - Formula 
-            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
-        - Terms
-            - Base MP = The cost of the spell at any level. 
-            - WL = The level of Way of the Mage on a unit.    
-        - Floor Function (⌊ ⌋)  
-            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
-            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
-            - MP cost can never go below 1. 
-        - Data 
-            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
-            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
-            - The Way of the Priest uses the exact same formula. 
 
 ### Chest Opening
 
