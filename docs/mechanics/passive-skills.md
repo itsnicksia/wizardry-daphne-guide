@@ -28,10 +28,10 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
-    | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
-    | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  
-    | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+    | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
  
      </div>
      
@@ -41,10 +41,10 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
-    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
-    | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+    | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     
      </div>
 
@@ -54,7 +54,7 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
-    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
+    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
     | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -70,8 +70,8 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
-    | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     
      </div>
 
@@ -81,10 +81,10 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
-    | Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25)  |
-    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60)  |
+    | Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25) |
+    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
 
      </div>
 
@@ -96,10 +96,10 @@
         
         | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
         |:----------------|:---------|----|----|----|----|----|----|----|
-        | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60)  |
-        | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-        | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-        | Vitality Jutsu  |          | 10%  | 11%  | 13%    | 14%     | 16%     | 17%     | 20%     |
+        | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
+        | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+        | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+        | Vitality Jutsu  |          | 10%  | 11%  | 13%    | 14%     | 16%     | 17%     | 20%    |
         
          </div>
 
@@ -168,27 +168,30 @@
 
 ### Aldric - Wisdom of the Crafty Dwarf 
 
-=== "Self" 
+
+=== "Self"
 
     <div class="nofilter-table nosort-table" markdown>
-    
-    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-    |:------------------|----|----|----|----|----|----|----|
-    | Detect            | 2  |    |    |    |    |    |    |   
-    | Disarm Trap &emsp; &emsp; &emsp; &emsp;      | 5  |    |    |    |    |    |    |       
-    | Evade Trap        | 2  |    |    |    |    |    |    |       
+ 
+    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |:------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Detect            | 2   | 2 (4)   | 4 (8)   | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Disarm Trap       | 4   | 2 (6)   | 4 (10)  | 2 (12)  | 2 (14)  | 6 (20)  | 4 (24)  |
+    | Evade Trap        | 2   | 2 (4)   | 4 (8)   | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Traphobia Resist  | 15  | 5 (20)  | 5 (25)  | 5 (30)  | 5 (35)  | 5 (40)  | 5 (45)  |
 
     </div>  
-
-=== "Inherited" 
+ 
+=== "Inherited"
 
     <div class="nofilter-table nosort-table" markdown>
-    
-    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 |  
-    |:------------------|----|----|----|----|----|----|
-    | Detect            | 1  | 1 (2) | 2 (4)  | 2 (6)  | 2 (8)  | 2 (10)  |       
-    | Disarm Trap &emsp; &emsp; &emsp; &emsp;       | 3  | 2 (5) | 4 (9)  | 2 (11)  | 4 (15)  | 2 (17)  |           
-    | Evade Trap        | 1  | 1 (2) | 2 (4)  | 2 (6) | 2 (8)  | 2 (10)  |           
+
+    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
+    |:------------------|-----|---------|---------|---------|---------|---------|--------|
+    | Detect            | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
+    | Disarm Trap       | 2   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 2 (12)  | 
+    | Evade Trap        | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
+    | Traphobia Resist  | 10  | 3 (13)  | 2 (15)  | 3 (18)  | 2 (20)  | 5 (25)  | 
 
     </div>  
 
@@ -218,27 +221,28 @@
 
 ### Debra - Blessings of the Beastfolk Goddess 
 
-=== "Self" 
+
+=== "Self"
 
     <div class="nofilter-table nosort-table" markdown>
-    
-    |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | Lv7     | 
-    |:-------------------------------|----|-------|-------|-------|--------|--------|--------|
-    | SP Recovery                    | 4  | 1 (5) | 2 (7) | 1 (8) | 2 (10) |        | 3 (13) |   
-    | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |        |        |        |       
+ 
+    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | Lv7     |
+    |:------------------|-----|--------|--------|--------|---------|---------|---------|
+    | SP Recovery       | 4   | 1 (5)  | 2 (7)  | 1 (8)  | 2 (10)  | 1 (11)  | 2 (13)  |
+    | Attack Power      | -   | -      | 6      | 2 (8)  | 4 (12)  | 2 (14)  | 4 (18)  |
 
-    </div> 
-
-=== "Inherited" 
+    </div>
+ 
+=== "Inherited"
 
     <div class="nofilter-table nosort-table" markdown>
+ 
+    | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6     | 
+    |:------------------|-----|--------|--------|--------|---------|---------|
+    | SP Recovery       | 2   | 1 (3)  | 1 (4)  | 1 (5)  | 1 (6)   | 1 (7)   | 
+    | Attack Power      | -   | -      | 5      | 2 (7)  | 3 (10)  | 2 (12)  | 
 
-    |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5     | Lv6    | 
-    |:-------------------------------|----|-------|-------|-------|-------|--------|
-    | SP Recovery                    | 2  | 1 (3) | 1 (4) | 1 (5) | 1 (6) | 1 (7)  |    
-    | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |       |        |      
-
-    </div> 
+    </div>
 
 ### Lanaville - Queen of Love and War 
 
@@ -263,27 +267,27 @@
 
 ### Yekaterina - Eye of Kalshum
 
-    === "Self" 
+=== "Self" 
+
+    <div class="nofilter-table nosort-table" markdown>
     
-        <div class="nofilter-table nosort-table" markdown>
-        
-        |                       | Lv1 | Lv2  | Lv3   | Lv4    | Lv5    | Lv6    | Lv7    |
-        |:----------------------|-----|------|-------|--------|--------|--------|--------|
-        | Detect Up             | 2   | 2 (4)| 4 (8) | 4 (12) | 4 (16) | 4 (20) | 4 (25) |
-        | Ambush Nullification &emsp; &emsp; &emsp; | 33% | 36%  | 41%   | 45%    | 50%    | 54%    | 60%    |
-        
-        </div>
+    |                       | Lv1 | Lv2  | Lv3   | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:----------------------|-----|------|-------|--------|--------|--------|--------|
+    | Detect Up             | 2   | 2 (4)| 4 (8) | 4 (12) | 4 (16) | 4 (20) | 4 (25) |
+    | Ambush Nullification &emsp; &emsp; &emsp; | 33% | 36%  | 41%   | 45%    | 50%    | 54%    | 60%    |
     
-    === "Inherited" 
+    </div>
     
-        <div class="nofilter-table nosort-table" markdown>
-        
-        |                       | Lv1 | Lv2   | Lv3   | Lv4    | Lv5   | Lv6    | 
-        |:----------------------|-----|-------|-------|--------|-------|--------|
-        | Detect Up             | 1   | 1 (2) | 2 (4) | 2 (6)  | 2 (8) | 2 (10) | 
-        | Ambush Nullification &emsp; &emsp; &emsp;  | 16% | 19%   | 23%   | 26%    | 31%   | 35%    | 
-        
-        </div>
+=== "Inherited" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                       | Lv1 | Lv2   | Lv3   | Lv4    | Lv5   | Lv6    | 
+    |:----------------------|-----|-------|-------|--------|-------|--------|
+    | Detect Up             | 1   | 1 (2) | 2 (4) | 2 (6)  | 2 (8) | 2 (10) | 
+    | Ambush Nullification &emsp; &emsp; &emsp;  | 16% | 19%   | 23%   | 26%    | 31%   | 35%    | 
+    
+    </div>
 
 ## Other
 
