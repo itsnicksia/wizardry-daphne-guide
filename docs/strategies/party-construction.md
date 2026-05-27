@@ -267,7 +267,7 @@ These are some parties I have personally and successfully used to clear progress
 
 ??? note "Linaria Release"
 
-    Planned:
+    Party 1:
         - Front Row
             - Shiou (Samurai/Fighter)
             - Linaria (Thief)
@@ -276,6 +276,38 @@ These are some parties I have personally and successfully used to clear progress
             - MC (Priest)
             - Yuzunamiki (Ninja)
             - Shelirionach (Mage/Priest)
+
+    Party 2:
+        - Front Row
+            - MC (Priest)
+            - Rinne (Ninja/Thief)
+            - Shiou (Samurai/Fighter)
+        - Back Row
+            - Yuzunamiki (Ninja)
+            - Linaria (Thief)
+            - Shelirionach (Mage/Priest)
+
+??? note "Anemone Release"
+
+    Party 1:
+        - Front Row
+            - Shiou (Samurai/Fighter)
+            - Linaria (Thief)
+            - Rinne (Ninja/Thief)
+        - Back Row
+            - MC (Priest)
+            - Yuzunamiki (Ranger/Ninja)
+            - Anemone (Healer)
+
+    Party 2:
+        - Front Row
+            - MC (Priest)
+            - Rinne (Ninja/Thief)
+            - Shiou (Samurai/Fighter)
+        - Back Row
+            - Yuzunamiki (Ranger/Ninja)
+            - Linaria (Thief)
+            - Anemone (Healer)
 
 ### Additional Considerations
 
