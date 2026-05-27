@@ -297,6 +297,20 @@
     
      </div>
 
+=== "Thaumaturgy"
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Damage Reduction % &emsp; &emsp; &emsp;&emsp; &emsp;  | 10% | 2% (12%)| 4% (16%)| 2% (18%)| 5% (23%)| 2% (25%)| 5% (30%)|
+
+    </div>
+
+    - Damage reduction %s are the same across all Types (elements). 
+    - Largest gains are at Level 5 and Level 7. 
+    - Only applies to Type skill and spells, not normal attacks. The only exceptions are the Black Dragon, Fire Dragon, and Black Dragon of the Depths whose normal attacks also do Type damage.   
+
 === " Way of the Mage" 
 
     === "Skill Levels" 
