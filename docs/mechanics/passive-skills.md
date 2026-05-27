@@ -45,7 +45,7 @@
         |                   | Lv1 | Lv2    | Lv3    | Lv4     | Lv5     | Lv6     | Lv7     |
         |:------------------|-----|--------|--------|---------|---------|---------|---------|
         | Accuracy          |  7  | 1 (8)  | 1 (9)  | 1 (10)  | 1 (11)  | 1 (12)  | 1 (13)  |
-        | Action Speed &emsp; &emsp; &emsp;      |  7  | 1 (8)  | 1 (9)  | 1 (10)  | 1 (11)  | 1 (12)  | 1 (13)  |
+        | Action Speed &emsp; &emsp; &emsp; &emsp; &emsp;       |  7  | 1 (8)  | 1 (9)  | 1 (10)  | 1 (11)  | 1 (12)  | 1 (13)  |
 
         </div>
 
@@ -58,7 +58,7 @@
         |                   | Lv1 | Lv2    | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
         |:------------------|-----|--------|---------|---------|---------|---------|---------|
         | Accuracy          |  9  | 1 (10) | 1 (11)  | 1 (12)  | 1 (13)  | 1 (14)  | 1 (15)  |
-        | Attack Power &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;       |  9  | 1 (10) | 1 (11)  | 1 (12)  | 1 (13)  | 1 (14)  | 1 (15)  |
+        | Attack Power &emsp; &emsp; &emsp; &emsp; &emsp;      |  9  | 1 (10) | 1 (11)  | 1 (12)  | 1 (13)  | 1 (14)  | 1 (15)  |
 
         </div>
 
@@ -72,7 +72,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    | Damage Modifier &emsp; &emsp; &emsp;          | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    | Damage Modifier &emsp; &emsp; &emsp; &emsp;         | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:-------------------------|-----|-----|-----|-----|-----|-----|-----|
     | Per Level                | 8%  | 1%  | 2%  | 1%  | 3%  | 2%  | 3%  |
     | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
@@ -115,6 +115,21 @@
     | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     
      </div>
+
+=== "Behind Cover" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Proc Chance       | 20% | 3%(23%)| 2%(25%)| 3%(28%)| 2%(30%)| 2%(32%)| 3%(35%)|
+    | Defense (self) &emsp; &emsp; &emsp; &emsp; &emsp;    |  —  |   —    |  10    |   10   | 2 (20) | 2 (20) |10 (30) |
+
+    </div>
+
+    - As noted in the description the proc chance is not based off a Trait like Luck, it is static. 
+    - The additional Defense is not granted until Level 3. 
+    - If building a long-term Knight, the main thresholds are at Level 3 (25% proc rate) and Level 5 (30% proc rate). Taking the skill to Level 6-7 becomes extremely expensive for only an extra 5% gain. 
 
 === "Way of the Knight" 
 
@@ -192,8 +207,7 @@
 
     - SUR Damage = `Damage x SUR Modifier` 
     - SUR damage modifier is 1.75x at Lv0. 
-    - No way to inherit to non-Thieves.
-    - Codexes are the only way to increase its level.
+    - No way to inherit to non-Thieves. Codexes are the only way to increase its level.
 
 ### Priest
 
@@ -214,7 +228,7 @@
 
     |                              | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |:-----------------------------|-----|-----|-----|-----|-----|-----|-----|
-    | % &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  | 20% | 24% | 30% | 34% | 40% | 44% | 50% |
+    | % PIE &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  | 20% | 24% | 30% | 34% | 40% | 44% | 50% |
 
     </div>
     
@@ -230,11 +244,9 @@
 
     </div>
 
-    - Only applies to damage from Undead enemies. 
-    - Reduces all types of damage.
+    - Only applies to Undead enemies. Reduces damage from all sources.
     - Must be in the Priest class for it to be active.
     
-
 === "Sacred Resistance" 
 
     <div class="nofilter-table nosort-table" markdown>
@@ -247,7 +259,7 @@
     </div>
 
     - Only triggers when ambushed.
-    - Lasts 2 rounds, higher levels do not increase the turn length.
+    - Turn duration is 2 rounds. Higher levels do not increase the turn duration.
 
 === "Way of the Priest" 
 
@@ -269,7 +281,7 @@
     === "Formula"
 
         - Formula 
-            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
+            - MP Cost (Base MP, WL) = `⌊Base MP x (0.094 - (0.04*WL))⌋`
         - Terms
             - Base MP = The cost of the spell at any level. 
             - WL = The level of Way of the Priest on a unit.    
@@ -296,6 +308,8 @@
     | MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
     
      </div>
+
+     - Note that Magic Detection is <Mage Specific> and does not apply if the unit has been class changed. 
 
 === "Thaumaturgy"
 
@@ -331,7 +345,7 @@
     === "Formula"
     
         - Formula 
-            - `MP Cost (Base MP, WL) = ⌊Base MP x (0.094 - (0.04*WL))⌋`
+            - MP Cost (Base MP, WL) = `⌊Base MP x (0.094 - (0.04*WL))⌋`
         - Terms
             - Base MP = The cost of the spell at any level. 
             - WL = The level of Way of the Mage on a unit.    
