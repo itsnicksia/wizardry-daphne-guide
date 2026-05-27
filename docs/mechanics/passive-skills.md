@@ -38,7 +38,7 @@
 
 === "Armsmanship" 
 
-    === "One-Handed Weapon" 
+    === "1H Weapon" 
 
         <div class="nofilter-table nosort-table" markdown>
     
@@ -51,7 +51,7 @@
 
         - Applies to only Dagger, Sword, Axe, Staff, Blunt, Throwing, Ninjato, and Katana
     
-    === Two-Handed Weapon 
+    === "2H Weapon" 
 
         <div class="nofilter-table nosort-table" markdown>
     
