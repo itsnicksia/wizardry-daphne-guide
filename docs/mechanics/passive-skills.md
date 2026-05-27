@@ -38,6 +38,32 @@
 
 === "Armsmanship" 
 
+    === "One-Handed Weapon" 
+
+        <div class="nofilter-table nosort-table" markdown>
+    
+        |                   | Lv1 | Lv2    | Lv3    | Lv4     | Lv5     | Lv6     | Lv7     |
+        |:------------------|-----|--------|--------|---------|---------|---------|---------|
+        | Accuracy          |  7  | 1 (8)  | 1 (9)  | 1 (10)  | 1 (11)  | 1 (12)  | 1 (13)  |
+        | Action Speed      |  7  | 1 (8)  | 1 (9)  | 1 (10)  | 1 (11)  | 1 (12)  | 1 (13)  |
+
+        </div>
+
+        - Applies to only Dagger, Sword, Axe, Staff, Blunt, Throwing, Ninjato, and Katana
+    
+    === Two-Handed Weapon 
+
+        <div class="nofilter-table nosort-table" markdown>
+    
+        |                   | Lv1 | Lv2    | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+        |:------------------|-----|--------|---------|---------|---------|---------|---------|
+        | Accuracy          |  9  | 1 (10) | 1 (11)  | 1 (12)  | 1 (13)  | 1 (14)  | 1 (15)  |
+        | Attack Power      |  9  | 1 (10) | 1 (11)  | 1 (12)  | 1 (13)  | 1 (14)  | 1 (15)  |
+
+        </div>
+
+        - Applies to only Sword, Spear, Axe, Staff, Blunt, Bow, and Odachi
+
 === "Counterattack" 
 
 === "Follow-Up Attack" 
@@ -127,6 +153,16 @@
     - Only triggers if a treasure (sellable item) drops. 
     - Stacks with the "Treasures of the Abyss" event blessing. 
     - Per level gain is exactly 5% until Level 7, which is 2%. At Level 7 the number of items increases to 2. 
+
+=== "Stealth" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Initiative Rate   |  2  | 1 (3)  | 2 (5)  | 1 (6)  | 2 (8)  | 1 (9)  | 2 (11) |
+    
+    </div>
 
 === "Way of the Thief" 
 
