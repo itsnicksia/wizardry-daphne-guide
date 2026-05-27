@@ -146,7 +146,7 @@
 
     |                   | Lv1 | Lv2    | Lv3   | Lv4    | Lv5    | Lv6   | Lv7    |
     |:------------------|-----|--------|-------|--------|--------|-------|--------|
-    | Surety &emsp; &emsp; &emsp;            | 10  | 2 (12) | 3 (15)| 2 (17) | 3 (20) | 2 (23) | 2 (25) |
+    | Surety &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;            | 10  | 2 (12) | 3 (15)| 2 (17) | 3 (20) | 2 (23) | 2 (25) |
 
     </div>
 
@@ -160,7 +160,7 @@
     |                   | Lv1 | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      |
     |:------------------|-----|----------|----------|----------|----------|----------|----------|
     | % Chance          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
-    | Number of Items &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
+    | # of Items &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
 
     </div>
 
@@ -174,7 +174,7 @@
 
     |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
     |:------------------|-----|--------|--------|--------|--------|--------|--------|
-    | Initiative Rate   |  2  | 1 (3)  | 2 (5)  | 1 (6)  | 2 (8)  | 1 (9)  | 2 (11) |
+    | Initiative Rate &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;   |  2  | 1 (3)  | 2 (5)  | 1 (6)  | 2 (8)  | 1 (9)  | 2 (11) |
     
     </div>
 
@@ -182,18 +182,18 @@
 
     <div class="nofilter-table nosort-table" markdown>
 
-    | SUR Modifier &emsp; &emsp; &emsp;              | Lv0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
+    |                          | Lv0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
     |:-------------------------|-------|------|------|------|------|------|------|------|
     | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%   |
     | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
-    | Total with base SUR      | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
+    | Total with base SUR &emsp; &emsp; &emsp;   | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
 
     </div>
 
-    - SUR Damage = Damage x SUR Modifier 
-    - Standard SUR damage modifier is 1.75x at Lv0 
+    - SUR Damage = `Damage x SUR Modifier` 
+    - SUR damage modifier is 1.75x at Lv0 
     - No way to inherit to non-Thieves
-    - No way to increase the passive's levels outside of codexes
+    - Codexes are the only way to increase its level
 
 ### Priest
 
@@ -212,11 +212,13 @@
 
     <div class="nofilter-table nosort-table" markdown>
 
-    |                              | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
-    |:-----------------------------|-----|---------|---------|---------|---------|---------|---------|
-    | % of PIE added to ATK Power &emsp; &emsp; &emsp;  | 20% | 4% (24%)| 6% (30%)| 4% (34%)| 6% (40%)| 4% (44%)| 6% (50%)|
+    |                              | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |:-----------------------------|-----|-----|-----|-----|-----|-----|-----|
+    | % &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;  | 20% | 24% | 30% | 34% | 40% | 44% | 50% |
 
     </div>
+    
+    - The table shows the % of PIE added to ATK Power
 
 === "Way of the Priest" 
 
