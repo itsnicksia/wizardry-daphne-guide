@@ -206,6 +206,16 @@
     
      </div>
 
+=== "Priest Weapon Mastery"
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                              | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:-----------------------------|-----|---------|---------|---------|---------|---------|---------|
+    | % of PIE added to ATK Power &emsp; &emsp; &emsp;  | 20% | 4% (24%)| 6% (30%)| 4% (34%)| 6% (40%)| 4% (44%)| 6% (50%)|
+
+    </div>
+
 === "Way of the Priest" 
 
     === "Skill Levels" 
