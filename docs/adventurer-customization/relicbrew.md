@@ -183,6 +183,19 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
         - Recommend to always use Special Extraction when possible.
 
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | Skill Level | Emergency | Standard | Special |        
+        |:-----------:|:---------:|:--------:|:-------:|
+        | 1           | 1,000     | 2,000    | 4,000   |
+        | 2           | 2,500     | 5,000    | 10,000  |
+        | 3           | 5,000     | 10,000   | 20,000  |
+        | 4           | 15,000    | 30,000   | 60,000  |
+        | 5           | 25,000    | 50,000   | 100,000 |
+        | 6           | 30,000    | 60,000   | 120,000 |
+
+        </div>
+
     === "Example" 
     
         <div align="center">
