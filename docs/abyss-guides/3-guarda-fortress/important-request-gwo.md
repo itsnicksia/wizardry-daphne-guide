@@ -72,7 +72,7 @@
     - Interact with the golem for a brief cutscene with Lulu. Type in "Golem" to gain the Golem reversal power. You will have another forced encounter against 2x Evil Eyes. Reverse the golem and move forward as there is another enemy to your immediate left.  
     - Walk over to the golem to set off the Singal Rocket. Now head back to the balcony and jump off. You will be forced off the balcony if the corrosion catches up to you, but will not incur any HP damage. 
     - Defeat the GWO. 
-    - <span style="color: #F2473A">Warning!</span> Speak with the servant's Lily and Allen immediately after defeating the GWO to gain important Knowledge for your second run. If you exit the front entrance camp area the ending cutscene will begin.   
+    - <span style="color: #F2473A">Warning!</span> Speak with the servant's Lily and Allen immediately after defeating the GWO to gain important Knowledge for your second run. If you exit the front entrance camp area the ending cutscene will begin. [Editor's Note: Whether this conversation procs or not on your first run has been inconsistent. There are other ways to gain the Knowledge, see the next run for details].    
 
 === "Tip"
     
