@@ -419,8 +419,8 @@
     </div>
 
     - Samurai damage scales off both ATK Power and MAG Power. 
-    - `Effective Damage = (ATK Power x Modifier) + (MAG Power x Modifier)` 
-    - At Level 1, `Effective Damage = (ATK Power x 0.65) + (MAG Power x 0.65)`
+    - Effective Damage = `(ATK Power x Modifier) + (MAG Power x Modifier)` 
+    - At Level 1, Effective Damage = `(ATK Power x 0.65) + (MAG Power x 0.65)`
     - Higher levels increase the modifier % being used. Each level is a 1% increase. 
 
 === "Concentration" 
