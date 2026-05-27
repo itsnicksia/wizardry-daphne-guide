@@ -100,8 +100,22 @@
         - Save Liam to avoid being stabbed.
         - Collect key Knowledge. This requires lowering the overall Abyss corrosion level to access new areas. It is best to do this step now versus backtracking in the future. 
         - Register corrosion sentries in the CW. With the the Golem reversal power you can now destroy or block the line of sight of the corrosion sentries that "spotted" you on your first run. 
+        - Note that the Saving Liam request gives you access to corrosion sentry [[10]](./corrosion.md##1f-servants-quarters-corrosion-sentry) and requires a low Abyss corrosion level otherwise the door will be inaccessible. 
     - Before you begin, review the corrosion sentry registration mechanics [here](./corrosion.md) and all 13 locations. 
 
+=== "Guide"
+
+    - Cursed Wheel Settings
+        - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
+        - At least 8 corrosion sentries are toggled to "Spotted". Any corrosion sentry (out of 13) not registered is automatically counted as "Spotted." For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).
+        - If you do not have at least 8 "Spotted" corrosion sentries toggled, then everyone in Ixion's room will be dead. See [here](./corrosion.md#__tabbed_1_4). 
+    - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room, which should now have fewer corrosion tiles than before.  
+    - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
+    - Speak with everyone in the room for additional information about what is going on. Exit and head south. 
+    - On your second run you do not need to examine the lever. Head directly to the outer balcony to reach the back of the golem. There is now only 1 forced encounter against the 2x Evil Eyes. 
+    - Reverse the golem and repeat the same steps as before. 
+    - Defeat the GWO. 
+    
 === "Saving Liam" 
 
     - [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) is the primary request for the second run.
@@ -130,19 +144,6 @@
         - Tale of Bordaon 1 - Speak with the SE skelete in the central room. 
         - Tale of Bordaon 2 - Speak with NE skeleton in the central room after acquiring the Knowledge of Leto Paintings 1-3.
 
-=== "Guide"
-
-    - Cursed Wheel Settings
-        - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
-        - At least 8 corrosion sentries are toggled to "Spotted". Any corrosion sentry (out of 13) not registered is automatically counted as "Spotted." For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).
-        - If you do not have at least 8 "Spotted" corrosion sentries toggled, then everyone in Ixion's room will be dead. See [here](./corrosion.md#__tabbed_1_4). 
-    - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room, which should now have fewer corrosion tiles than before.  
-    - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
-    - Speak with everyone in the room for additional information about what is going on. Exit and head south. 
-    - On your second run you do not need to examine the lever. Head directly to the outer balcony to reach the back of the golem. There is now only 1 forced encounter against the 2x Evil Eyes. 
-    - Reverse the golem and repeat the same steps as before. 
-    - Defeat the GWO. 
-
 === "Outcome"
 
     - You saved Liam, but Guardian Knight Dalian accuses you of being Ixion's murderer because you are wearing a mask.
@@ -159,30 +160,43 @@
     -  After defeating the GWO, Alan will stab you. It is the same outcome as Bad Ending 1, but with Alan killing you versus Lily. 
     - If you did save Liam, but still got stabbed, then double-check your Abducted Child sub-node was toggled correctly. 
 
-## Stop the Blackmailer and Save the Duke
+## Blackmail - Good Ending
 
-This is the first ending you will obtain that successfully completes the "Duke Ixion" request.
+=== "Summary" 
 
-#### Outcome
+    - This is a mandatory ending and cannot be skipped. Once cleared it will unlock A4 since Ixion survives and completes the requirements for the major faction request. 
+    - The primary objective is to complete all steps associated with the request [Blackmail Resolution](./requests.md##blackmail-resolution). Securing the Blackmail Evidence will gain Dalian's trust so that you can avoid being executed. 
+    - The Blackmail Resolution request:
+        - Is a multi-chain request that will take you to several different locations.
+        - Has the "Gambler's" boss fight, which some players consider more difficult than the Doll or the GWO.  
+        - Gives you access to Corrosion sentry [[12]](./corrosion.md#2f-soldiers-room-corrosion-sentry). Note that it has a bugged registration requirement. See the page for details. 
+    - Continue to register corrosion sentries that you may have missed if you plan to do the Mastermind GWO 0 ending. 
+    - The GWO 8 fight will be a step-up in difficulty from what you have experienced so far, but is still manageable. 
 
-Saved the Duke, but did not find the culprit behind the sinister events in Guarda.
+=== "Guide"
 
-#### Requirements
-1. Meet the Duke's party.
-2. Save Liam and notify Alan when meeting the Duke's party.
-3. Give Guardian Knight Dalian evidence of the Duke's betrayal.
-4. Defeat the Greater Warped One of the Guarda Fortress Abyss.
-5. Have a Maximum of 8 Corruption Levels (Spotted 8 Times)
+    - <span style="color: #F2473A">Warning!</span> Make sure the Blackmail Evidence is in your Valuables inventory before beginning otherwise you will default to Bad Ending 2.  
+    - Cursed Wheel Settings
+        - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
+        - At least 8 corrosion sentries are toggled to "Spotted". Any corrosion sentry (out of 13) not registered is automatically counted as "Spotted." For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).
+        - If you do not have at least 8 "Spotted" corrosion sentries toggled, then everyone in Ixion's room will be dead. See [here](./corrosion.md#__tabbed_1_4). 
+        - At this point you likely have several corrosion sentries registered. You can opt to have fewer "Spotted", but GWO 6 and below is a significantly more difficult fight and is not necessary for this ending. 
+    - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room. 
+    - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
+    - Next, speak with Dalian and hand over the Blackmail Evidence. 
+    - Head directly to the outer balcony to reach the back of the golem. Per usual there is only 1 forced encounter against the 2x Evil Eyes. 
+    - Reverse the golem and repeat the same steps as before. 
+    - Defeat the GWO. 
 
-##### Saving Liam
+=== "Outcome"
 
-You can save Liam once you receive "Lily and Alan's Guild Request".
+    - Ixion is saved and you can now progress to A4. 
+    - A new CW node called Triumphant Return is now unlocked. To unlock the Harken you need to manually walk from the Z9 Harken. Once completed it should be permanently unlocked, but people have reported bugs in the past. 
+    - Several post-GWO requests are now available at the A3 Guild. 
 
-See 
+=== "Rewards"
 
-#### Rewards
-
-- Well of the Mind Lantern (DEX)
+    - Well of the Mind Lantern (DEX).
 
 ## Stop the Mastermind and Save the Duke
 
@@ -196,7 +210,17 @@ Saved the Duke and apprehended the mastermind.
 3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
 4. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
 
-#### Walkthrough
+#### Outcome
+
+Saved the Duke and apprehended the mastermind.
+
+#### Requirements
+1. Successfully saved Duke Ixion in a previous run.
+2. Save Liam and notify Alan when meeting the Duke's party.
+3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
+4. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
+
+#### Guide
 
 !!! warning "Proceeding With Caution" 
     - It is possible to do a zero corruption run during this run. Keep in mind the note about no corruption runs, this is much more difficult. 
