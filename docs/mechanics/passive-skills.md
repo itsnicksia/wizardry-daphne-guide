@@ -2,7 +2,12 @@
 
 !!! warning "Work in Progress"
     - This is a brand new page. There will be errors and missing information. More information will be added on a regular basis. 
-    - If you can confirm values please share in the comments, ping @Lightbearer on the [Discord](https://discord.gg/CQETxvUW), or post in the Theorycrafting - Skill Values channel.  
+    - The majority of the passives that give flat stats have been confirmed by community members. 
+    - Passives that have % values, proc chances, or scale off a Trait are generally best estimates based on extensive testing. 
+    - If you want to help: 
+        - Leave a comment at the bottom of this page.
+        - Contact @Lightbearer on the [Discord](https://discord.gg/CQETxvUW).
+        - Post in the dedicated Discord Forum called Theorycrafting. 
 
 ## Overview
 
