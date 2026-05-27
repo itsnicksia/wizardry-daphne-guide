@@ -134,12 +134,12 @@
     |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
     |:------------------|-----|--------|--------|--------|--------|--------|--------|
     | Proc Chance       | 20% | 3% (23%)| 2% (25%)| 3% (28%)| 2% (30%)| 2% (32%)| 3% (35%)|
-    | Defense (self) &emsp; &emsp; &emsp; &emsp; &emsp;    |  -  |   -    |  10    |   10   | 2 (20) | 2 (20) |10 (30) |
+    | Defense (self) &emsp; &emsp; &emsp; &emsp; &emsp;    |  -  |   -    |  10    | - (10)   | 10 (20) | - (20) | 10 (30) |
 
     </div>
 
     - As noted in the description the proc chance is not based off a Trait like Luck, it is static. 
-    - The additional Defense is not granted until Level 3. 
+    - Defense is not added until Level 3, which is not how it is described in the passive description. You gain an additional 10 DEF at Level 5 and Level 7.  
     - If building a long-term Knight, the main thresholds are at Level 3 (25% proc rate) and Level 5 (30% proc rate). Taking the skill to Level 6-7 becomes extremely expensive for only an extra 5% gain. 
 
 === "Way of the Knight" 
