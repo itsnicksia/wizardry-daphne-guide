@@ -616,30 +616,6 @@
     
     </div> 
 
-### Shelirionach - Eyes That Know the Future
- 
-=== "Self"
-
-    <div class="nofilter-table nosort-table" markdown>
- 
-    |                           | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
-    |:--------------------------|-----|-----|-----|-----|-----|-----|-----|
-    | Partial Reduction Rate &emsp; &emsp; &emsp;    | 60% | 65% | 70% | 75% | 80% | 85% | 90% |
-    | Full Evasion Rate         | 25% | 29% | 33% | 37% | 41% | 45% | 50% |
-
-    </div>
- 
-=== "Inherited"
-
-    <div class="nofilter-table nosort-table" markdown>
- 
-    |                           | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6  | 
-    |:--------------------------|-----|-----|-----|-----|------|------|
-    | Partial Reduction Rate &emsp; &emsp; &emsp;   | 15% | 17% | 19% | 21% | 23%  | 25%  | 
-    | Full Evasion Rate         | 5%  | 6%  | 7%  | 8%  | 9%   | 10%  |
-
-    </div>
-
 ### Yekaterina - Eye of Kalshum
 
 === "Self" 
