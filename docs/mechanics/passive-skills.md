@@ -49,7 +49,7 @@
 
         </div>
 
-        - Applies to only Dagger, Sword, Axe, Staff, Blunt, Throwing, Ninjato, and Katana
+        - Applies to only Dagger, Sword, Axe, Staff, Blunt, Throwing, Ninjato, and Katana.
     
     === "2H Weapon" 
 
@@ -62,7 +62,7 @@
 
         </div>
 
-        - Applies to only Sword, Spear, Axe, Staff, Blunt, Bow, and Odachi
+        - Applies to only Sword, Spear, Axe, Staff, Blunt, Bow, and Odachi.
 
 === "Counterattack" 
 
@@ -191,9 +191,9 @@
     </div>
 
     - SUR Damage = `Damage x SUR Modifier` 
-    - SUR damage modifier is 1.75x at Lv0 
-    - No way to inherit to non-Thieves
-    - Codexes are the only way to increase its level
+    - SUR damage modifier is 1.75x at Lv0. 
+    - No way to inherit to non-Thieves.
+    - Codexes are the only way to increase its level.
 
 ### Priest
 
@@ -218,7 +218,22 @@
 
     </div>
     
-    - The table shows the % of PIE added to ATK Power
+    - The table shows the % of PIE added to ATK Power.
+
+=== "Sacred Blessing" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                              | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:-----------------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Damage Reduction % &emsp; &emsp; &emsp;&emsp; &emsp;           | 10% | 3% (13%)| 3% (16%)| 3% (19%)| 3% (22%)| 3% (25%)| 5% (30%)|
+
+    </div>
+
+    - Only applies to damage from Undead enemies. 
+    - Reduces all types of damage.
+    - Must be in the Priest class for it to be active.
+    
 
 === "Sacred Resistance" 
 
@@ -231,8 +246,8 @@
 
     </div>
 
-    - Only triggers when ambushed
-    - Lasts 2 rounds, higher levels do not increase the turn length
+    - Only triggers when ambushed.
+    - Lasts 2 rounds, higher levels do not increase the turn length.
 
 === "Way of the Priest" 
 
@@ -266,8 +281,7 @@
             - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
             - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
             - The Way of the Mage uses the exact same formula. 
-
-
+            
 ### Mage
 
 === "Stats" 
