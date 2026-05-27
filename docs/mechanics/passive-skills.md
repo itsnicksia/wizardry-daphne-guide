@@ -109,8 +109,7 @@
 
     </div>
     
-    - Activates at or below 50% HP. 
-    - The HP threshold does not change with higher skill levels. 
+    - Activates at or below 50% HP. The HP threshold does not change with higher skill levels. 
     - Inherited from Olive.
 
 ### Knight
