@@ -18,8 +18,7 @@
 - Class passives that increase a stat follow the same exact progression with a total of 25 at Level 7.
 - For HP, MP, and SP are the same as well with a total of 60 at Level 7.
 - Class passives do not increase Traits, but derived stats.
-- The "Way of..." passives have their own section [here](#way-of-the).
-- Some classes have additional tabs for passives that effect multiple stats or require a more in-depth explanation.
+- Additional tabs are for passives that effect multiple stats or require a more in-depth explanation.
 
 ### Fighter 
 
