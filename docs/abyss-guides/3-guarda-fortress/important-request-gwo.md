@@ -100,7 +100,7 @@
         - Save Liam to avoid being stabbed.
         - Collect key Knowledge. This requires lowering the overall Abyss corrosion level to access new areas. It is best to do this step now versus backtracking in the future. 
         - Register corrosion sentries in the CW. With the the Golem reversal power you can now destroy or block the line of sight of the corrosion sentries that "spotted" you on your first run. 
-        - Note that the Saving Liam request gives you access to corrosion sentry [[10]](./corrosion.md##1f-servants-quarters-corrosion-sentry) and requires a low Abyss corrosion level otherwise the door will be inaccessible. 
+        - Note that the Saving Liam request gives you access to corrosion sentry [[10]](./corrosion.md#1f-servants-quarters-corrosion-sentry) and requires a low Abyss corrosion level otherwise the door will be inaccessible. 
     - Before you begin, review the corrosion sentry registration mechanics [here](./corrosion.md) and all 13 locations. 
 
 === "Guide"
