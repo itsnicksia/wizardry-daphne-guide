@@ -95,7 +95,7 @@
 
     |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7     |
     |:------------------|-----|--------|--------|--------|--------|--------|---------|
-    | Accuracy &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;          | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
+    | Accuracy &emsp; &emsp; &emsp; &emsp; &emsp;          | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
     | Evasion           | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
     | Surety            | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
 
@@ -126,8 +126,8 @@
 
     |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
     |:------------------|-----|--------|--------|--------|--------|--------|--------|
-    | Proc Chance       | 20% | 3%(23%)| 2%(25%)| 3%(28%)| 2%(30%)| 2%(32%)| 3%(35%)|
-    | Defense (self) &emsp; &emsp; &emsp; &emsp; &emsp;    |  —  |   —    |  10    |   10   | 2 (20) | 2 (20) |10 (30) |
+    | Proc Chance       | 20% | 3% (23%)| 2% (25%)| 3% (28%)| 2% (30%)| 2% (32%)| 3% (35%)|
+    | Defense (self) &emsp; &emsp; &emsp; &emsp; &emsp;    |  -  |   -    |  10    |   10   | 2 (20) | 2 (20) |10 (30) |
 
     </div>
 
@@ -165,7 +165,7 @@
 
     |                   | Lv1 | Lv2    | Lv3   | Lv4    | Lv5    | Lv6   | Lv7    |
     |:------------------|-----|--------|-------|--------|--------|-------|--------|
-    | Surety &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;            | 10  | 2 (12) | 3 (15)| 2 (17) | 3 (20) | 2 (23) | 2 (25) |
+    | Surety &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;            | 10  | 2 (12) | 3 (15)| 2 (17) | 3 (20) | 2 (23) | 2 (25) |
 
     </div>
 
@@ -178,8 +178,8 @@
 
     |                   | Lv1 | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      |
     |:------------------|-----|----------|----------|----------|----------|----------|----------|
-    | % Chance          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
-    | # of Items &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
+    | Proc Chance          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
+    | # of Items &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
 
     </div>
 
@@ -193,7 +193,7 @@
 
     |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
     |:------------------|-----|--------|--------|--------|--------|--------|--------|
-    | Initiative Rate &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;   |  2  | 1 (3)  | 2 (5)  | 1 (6)  | 2 (8)  | 1 (9)  | 2 (11) |
+    | Initiative Rate &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   |  2  | 1 (3)  | 2 (5)  | 1 (6)  | 2 (8)  | 1 (9)  | 2 (11) |
     
     </div>
 
@@ -232,7 +232,7 @@
 
     |                              | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |:-----------------------------|-----|-----|-----|-----|-----|-----|-----|
-    | % PIE &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;  | 20% | 24% | 30% | 34% | 40% | 44% | 50% |
+    | % PIE Added &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  | 20% | 24% | 30% | 34% | 40% | 44% | 50% |
 
     </div>
     
@@ -271,7 +271,7 @@
 
         <div class="nofilter-table nosort-table" markdown>
         
-        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        | MP Reduction % &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
         |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
         | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
         | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
@@ -335,7 +335,7 @@
     
         <div class="nofilter-table nosort-table" markdown>
         
-        | MP% Reduction &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        | MP Reduction % &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
         |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
         | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
         | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
@@ -381,7 +381,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
 
-    | % Critical Chance &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    | Critical Chance % &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|----|----|----|----|----|-----|-----|
     | Weapon          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
     | Bare-Handed     | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
