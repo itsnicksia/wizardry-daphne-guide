@@ -220,6 +220,20 @@
     
     - The table shows the % of PIE added to ATK Power
 
+=== "Sacred Resistance" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Resistance        | 45  | 5 (50) | 7 (57) | 5 (62) | 6 (68) | 4 (72) | 5 (77) |
+    | Divine Power &emsp; &emsp; &emsp; &emsp; &emsp;      | 30  | 5 (35) | 7 (42) | 5 (47) | 6 (53) | 4 (57) | 5 (62) |
+
+    </div>
+
+    - Only triggers when ambushed
+    - Lasts 2 rounds, higher levels do not increase the turn length
+
 === "Way of the Priest" 
 
     === "Skill Levels" 
