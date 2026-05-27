@@ -87,6 +87,18 @@
 
 === "Will to Fight" 
 
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7     |
+    |:------------------|-----|--------|--------|--------|--------|--------|---------|
+    | Accuracy          | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
+    | Evasion           | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
+    | Surety            | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
+
+    </div?
+    - Activates at or below 50% HP. 
+    - The HP threshold does not change with higher skill levels. 
+
 ### Knight
 
 === "Stats"
