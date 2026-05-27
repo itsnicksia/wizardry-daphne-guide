@@ -1,9 +1,8 @@
 # Passives Skill Levels
 
 !!! warning "Work in Progress"
-    - This is a brand new page. There will be errors and missing information. More information will be added on a regular basis. 
-    - The majority of the flat stat values have been confirmed by community members. 
-    - Passives that have % values, proc chances, or scale off a Trait are generally best estimates based on extensive testing. 
+    - This is a brand new page. There will be errors and missing information. 
+    - Ctrl + F5 to refresh. The page is updated regularly. 
     - If you want to help: 
         - Leave a comment at the bottom of this page.
         - Contact @Lightbearer on the [Discord](https://discord.gg/CQETxvUW).
@@ -11,12 +10,21 @@
 
 ## Overview
 
-- The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
-- A blank space means that we have no information on that entry.
-- A `-` means that nothing is gained at that level. 
-- L refers to the level of the passive. Lv4 = Level 4. 
-- Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
-- Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style.
+=== "Table Guide" 
+
+    - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
+    - A blank space means that we have no information on that entry.
+    - A `-` means that nothing is gained at that level. 
+    - L refers to the level of the passive. Lv4 = Level 4. 
+    - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
+    - Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style.
+
+=== "How accurate are the numbers?"
+
+    - Drecom shares very little information on exact values or the inner workings of its formulas. Almost everything we know about the game is due to dedicated fans across multiple online communities.  
+    - We have a high level of confidence the flat stats are correct. Most of them are easy to confirm. 
+    - Passives that have % values, proc chances, or scale off a Trait are generally best estimates based on extensive testing. 
+    - Drecom tends to use the same per level pattern across similar passive "families". In the future, we plan to annotate what passives are confirmed, based on testing, or are simply well-educated projections.
 
 ## Class  
 
