@@ -185,6 +185,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
         <div class="nofilter-table nosort-table" markdown>
         
+        **Extraction costs:**  
         | Skill Level | Emergency | Standard | Special |        
         |:-----------:|:---------:|:--------:|:-------:|
         | 1           | 1,000     | 2,000    | 4,000   |
