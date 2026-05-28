@@ -5,8 +5,7 @@
     - Ctrl + F5 to refresh. The page is updated regularly. 
     - If you want to help: 
         - Leave a comment at the bottom of this page.
-        - Contact @Lightbearer on the [Discord](https://discord.gg/CQETxvUW).
-        - Post in the dedicated Discord Forum called Theorycrafting. 
+        - Post in the dedicated [Discord](https://discord.gg/CQETxvUW) Forum called Theorycrafting.
 
 ## Overview
 
