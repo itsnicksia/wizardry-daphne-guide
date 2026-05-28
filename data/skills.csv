@@ -460,6 +460,7 @@ Way of the Warrior,Passive,True,Increases close/mid-range damage when equipped w
 Wayfaring Hunter's Savvy,Passive,,"If there are 4 or more enemies during an ambush, for 1 turn, all allies greatly reduce damage taken 1 time.",,,,,Heinrico,
 Weaponmaster,Discipline,,Continuously increases each stat. Accuracy and Surety increased further.,Accuracy and Surety increased further based on skill level.,,,,Gandolfo,
 Wide Volley,Active,True,Minor physical attack on 1 enemy row. Efficacy Increases with Attack Power and Accuracy.,Efficacy increased based on skill level.,10,Ranger,Bow-specific,,Heinrico
+Wild Beast Knight,Discipline,,"Continuously increases each stat, with Attack Power and Evasion increased even further.","Attack Power and Evasion increased further based on skill level.",,,,Savia,
 Wild Knight,Passive,,Continuously reduces the MP/SP cost of Knight spells/skills that cost 3-10 MP/SP.,,,,,Barbara,
 Wild Strike,Active,,"Major physical attack on 1 enemy. Afterward, own Action Speed is reduced.",Recovery amount increased based on skill level.,31,Fighter,Close/mid-range weapon-specific,,"Benjamin, Elise"
 Wild Throw,Active,,Minor physical attack on 3 random enemies.,Efficacy increased based on skill level.,10,Ninja,"Long-range weapon-specific, Ninja-specific",,Kiriha
