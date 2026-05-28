@@ -22,9 +22,17 @@
 === "How accurate are the numbers?"
 
     - Drecom shares very little information on exact values or the inner workings of its formulas. Almost everything we know about the game is due to dedicated fans across multiple online communities.  
-    - We have a high level of confidence the flat stats are correct. Most of them are easy to confirm. 
-    - Passives that have % values, proc chances, or scale off a Trait are generally best estimates based on extensive testing. 
-    - Drecom tends to use the same per level pattern across similar passive "families". In the future, we plan to annotate what passives are confirmed, based on testing, or are simply well-educated projections.
+    - Confirmed 
+        - Any passive that gives a flat stat gain per level. 
+        - Level 1-3 on the vast majority of passives. 
+    - Estimates 
+        - Passives that have % values, proc chances, or scale off a Trait. We are actively working on scaling formulas to fit the collected data. 
+        - Drecom tends to use consistent per level patterns across similar passive "families". 
+        - Passives that see little to no change per level are defaulted to +1-2 per level and are generally not worth further investment. 
+    - Testing
+        - Most passives have at least 1-200 observations under controlled conditions. Several passives have 500-1,000 observations. 
+        - Testing is not "kill 10 enemies and call it a day". The community has many dedicated fans that use their free time to collect this information to benefit everyone. 
+        - Even with the best community-gathered data there are going to be errors due to damage variance and the nature of RNG. This page does not and cannot give exact values for everything, outside of the flat stats. 
 
 ## Class  
 
@@ -78,6 +86,19 @@
 
 === "Counterattack" 
 
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Proc Chance       | 15  | 2 (17)  | 3 (20)  | 2 (22)  | 3 (25)  | 2 (27)  | 6 (33)  |
+
+    </div>
+
+    - Only procs after successfuly evading an enemy attack. Must be equipped with a close or mid-ranged weapon. 
+    - Table values are the base proc chance and does not include the scaling bonus for Luck. 
+    - Best estimate is that the Luck contribution is Luck/10. 
+
+
 === "Follow-Up Attack" 
 
 === "Way of the Warrior"
@@ -126,6 +147,20 @@
     | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     
      </div>
+
+=== "Assault Guard" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:-------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Defense            |  30 | 5 (35) | 7 (42) | 5 (47) | 6 (53) | 4 (57) | 5 (62) |
+    | Duration (turns) &emsp; &emsp; &emsp; &emsp; &emsp;    |   2 |      2 |      2 |      2 |      2 |      2 |      3 |
+
+    </div> 
+
+    - Triggers on an ambush and lasts for 2 turns with an additional turn gained at Level 7. 
+    - Inherited from Barbara. 
 
 === "Behind Cover" 
 
@@ -407,13 +442,30 @@
 
 ### Samurai 
 
+=== "Back-Against-the-Water-Formation" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7     |
+    |:------------------|-----|--------|--------|--------|--------|--------|---------|
+    | Attack Power      |  4  | 1 (5)  | 1 (6)  | 1 (7)  | 1 (8)  | 1 (9)  | 1 (10)  |
+    | Magic Power       |  4  | 1 (5)  | 1 (6)  | 1 (7)  | 1 (8)  | 1 (9)  | 1 (10)  |
+    | Total             |  8  | 2 (10) | 2 (12) | 2 (14) | 2 (16) | 2 (18) | 2 (20)  |
+    | Effective ATK &emsp; &emsp; &emsp; &emsp; &emsp;     |  5  | 7      | 8      | 9      | 10     | 12     | 13      |
+
+    </div>
+
+    - Must be under 50% HP to activate. HP% is evaluated at the start of each turn and can trigger multiple times in a fight. 
+    - The passive gives flat stat gains. It does not produce the damage values that would be consistent with a % modifier at higher skill levels. The listed values assume a +1 gain for both Attack and Magic Power. 
+    - The Effective Attack row is the `Total (Attack Power + Magic Power) x 0.65` for Level 1 of Divine Path. 
+    
 === "Divine Path" 
 
     <div class="nofilter-table nosort-table" markdown>
 
     |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |:------------------|-----|-----|-----|-----|-----|-----|-----|
-    | Modifier          | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
+    | Modifier &emsp; &emsp; &emsp; &emsp; &emsp;         | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
 
     </div>
 
@@ -424,9 +476,21 @@
 
 === "Concentration" 
 
-=== "Thousandfold Grip"
+    <div class="nofilter-table nosort-table" markdown>
 
-=== "Back Against the Water Formation"
+    |                          | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:-------------------------|-----|--------|--------|--------|--------|--------|--------|
+    | ATK gained per turn &emsp; &emsp; &emsp; &emsp; &emsp;      |  15 | 1 (16) | 0 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) |
+    | MAG gained per turn      |  15 | 1 (16) | 0 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) |
+    | Stat cap                 |  30 |     30 |     30 |     30 |     30 |     30 |     30 |
+
+    - Attack and Magic power increase each turn. The effect is negated if you change weapons. 
+    - Based on testing there seems to be a fixed cap of 30 per stat across all levels. At Level 1 it takes 2 turns to reach. 
+    - The Level 1 stat values are confirmed. Level 2-7 are estimates at +1 per level as Level 7 does not reach the stat cap on its own after one turn. 
+
+    </div>
+
+=== "Thousandfold Grip"
 
 === "Mysta Energy Manipulation"
 
