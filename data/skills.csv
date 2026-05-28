@@ -69,7 +69,7 @@ CONES,Damage,,Launches an orb of pure magic power that deals minor untyped spell
 Contiguous States of Mind,Passive,,Continuously increases some stats.,Adds more affected stats based on skill level and Effects increased further.,,,,,
 CORTU,Support,,Raises a barrier that reduces spell damage received by all allies for 2 turns.,Spell damage incrementally decreased further based on skill level. More turns added.,18,Mage,,,
 Counterattack,Passive,True,Chance to counter attack when evading a single-target close/mid-range attack (affected by luck).,Probability increased based on skill level.,12,Fighter,Close/mid-range weapon-specific,Ophelia,
-Counter-offensive,Passive,"Attack Power/Surety increase for 3 turns upon evading an attack. This enhancement can stack up to 5 times, further increasing Attack Power/Surety.",,,,,,Savia,
+Counter-offensive,Passive,,"Attack Power/Surety increase for 3 turns upon evading an attack. This enhancement can stack up to 5 times, further increasing Attack Power/Surety.",,,,,Savia,
 Courage to Step Forward,Discipline,,"Continuously increases each stat, with HP, SP, Attack Power, and Surety increased even further.","HP, SP, Attack Power, and Surety increased even further based on skill level.",,,,Berkanan,
 Cover,Active,True,Chance to intercept single-target attacks directed at 1 designated ally for 2 turns.,Defense Power Up incrementally added based on skill level. Probability and Defense Power increased further. More turns added.,1,Knight,Knight-specific,Eldorado,
 Cover Defense,Passive,,Continuously grants a chance for the user to apply a defensive effect when intercepting a single-target attack directed at an ally by a cover skill (affected by Luck).,Probability increased based on skill level.,61,Knight,Knight-specific,,
