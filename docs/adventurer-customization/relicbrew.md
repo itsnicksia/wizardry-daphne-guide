@@ -176,26 +176,29 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
             - The more expensive extraction services have a lower rate of failure. 
             - A Fortitude penalty notification appear after the cutscene, if incurred.
     
-    === "Payment"
+    === "Extraction costs"
+
+        === "Table" 
+
+            <div class="nofilter-table nosort-table" markdown>
+            
+            | Level       | Emergency | Standard | Special |        
+            |:-----------:|:---------:|:--------:|:-------:|
+            | 1           | 1,000     | 2,000    | 4,000   |
+            | 2           | 2,500     | 5,000    | 10,000  |
+            | 3           | 5,000     | 10,000   | 20,000  |
+            | 4           | 15,000    | 30,000   | 60,000  |
+            | 5           | 25,000    | 50,000   | 100,000 |
+            | 6           | 30,000    | 60,000   | 120,000 |
     
-        - Extraction services can be paid with purple gems, green gems, or gold.
-        - No reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
-        - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
-        - Recommend to always use Special Extraction when possible.
+            </div>
 
-        <div class="nofilter-table nosort-table" markdown>
-        
-        **Extraction costs:**  
-        | Skill Level | Emergency | Standard | Special |        
-        |:-----------:|:---------:|:--------:|:-------:|
-        | 1           | 1,000     | 2,000    | 4,000   |
-        | 2           | 2,500     | 5,000    | 10,000  |
-        | 3           | 5,000     | 10,000   | 20,000  |
-        | 4           | 15,000    | 30,000   | 60,000  |
-        | 5           | 25,000    | 50,000   | 100,000 |
-        | 6           | 30,000    | 60,000   | 120,000 |
-
-        </div>
+        === "Notes" 
+    
+            - Extraction services can be paid with purple gems, green gems, or gold.
+            - No reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
+            - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
+            - Recommend to always use Special Extraction when possible.
 
     === "Example" 
     
