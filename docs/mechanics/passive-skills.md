@@ -200,6 +200,11 @@
 
     - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
 
+=== "Calm Mind Technique" 
+
+    - Straight forward passive with only one level. 
+    - Reduces Fortitude loss from failing a chest by 2 (normally -4 or -5). 
+
 === "Cunning Pursuit" 
 
     <div class="nofilter-table nosort-table" markdown>
@@ -536,8 +541,8 @@
     
     |                   | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   |
     |:------------------|-------|-------|-------|-------|-------|-------|-------|
-    | Attack Power &emsp; &emsp; &emsp; &emsp; &emsp;      | 0.50× | 0.50× | 0.50× | 0.50× | 0.50× | 0.50× | 0.50× |
-    | Accuracy          | 1.50× | 1.52× | 1.54x | 1.56× | 1.58× | 1.60× | 1.62× |
+    | Attack Power &emsp; &emsp; &emsp; &emsp; &emsp;      | 0.50x | 0.50x | 0.50x | 0.50x | 0.50x | 0.50x | 0.50x |
+    | Accuracy          | 1.50x | 1.52x | 1.54x | 1.56x | 1.58x | 1.60x | 1.62x |
     
     </div> 
 
