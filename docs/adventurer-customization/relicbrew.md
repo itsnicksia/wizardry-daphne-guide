@@ -160,23 +160,8 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
         - The Extraction service removes a currently equipped Relic Power for a fee.
         - There are 3 types of extraction services: Emergency, Standard, and Special.
         - An extracted Relic Power does not lose its level or accumulated experience, but must be reactivated with a new relicbrew of any ★ quality.
-    
-    === "Fortitude Penalty" 
-    
-        - When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. 
-    
-        - Possible Extraction Outcomes
-    
-            - Failure: Lose 5 max Fortitude for 2 weeks.
-            - Success: Lose 1 max Fortitude for 2 weeks.
-            - Great Success: No Fortitude loss.
-    
-        - Notes
-        
-            - The more expensive extraction services have a lower rate of failure. 
-            - A Fortitude penalty notification appear after the cutscene, if incurred.
-    
-    === "Extraction costs"
+
+    === "Extraction Costs"
 
         === "Table" 
 
@@ -199,6 +184,21 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
             - No reason to use gems for extraction as the gold costs are generally affordable as you progress through the game.
             - Costs increase significantly (up to 100K) the higher the level of the Relic Power being removed.
             - Recommend to always use Special Extraction when possible.
+    
+    === "Fortitude Penalty" 
+    
+        - When extracting a Relic Power there is a chance that something might go wrong and the adventurer will receive a temporary Fortitude penalty. 
+    
+        - Possible Extraction Outcomes
+    
+            - Failure: Lose 5 max Fortitude for 2 weeks.
+            - Success: Lose 1 max Fortitude for 2 weeks.
+            - Great Success: No Fortitude loss.
+    
+        - Notes
+        
+            - The more expensive extraction services have a lower rate of failure. 
+            - A Fortitude penalty notification appear after the cutscene, if incurred.
 
     === "Example" 
     
