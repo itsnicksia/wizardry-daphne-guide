@@ -140,8 +140,8 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
-    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
     | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
     | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     
@@ -190,11 +190,11 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
-    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
     | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
     
      </div>
 
@@ -298,8 +298,8 @@
 
     |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
     |:------------------|-----|--------|--------|--------|--------|--------|--------|
-    | Resistance        | 45  | 5 (50) | 7 (57) | 5 (62) | 6 (68) | 4 (72) | 5 (77) |
     | Divine Power &emsp; &emsp; &emsp; &emsp; &emsp;      | 30  | 5 (35) | 7 (42) | 5 (47) | 6 (53) | 4 (57) | 5 (62) |
+    | Resistance        | 45  | 5 (50) | 7 (57) | 5 (62) | 6 (68) | 4 (72) | 5 (77) |
 
     </div>
 
@@ -411,9 +411,9 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
+    | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
     | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     | Vitality Jutsu  |          | 10%  | 11%  | 13%    | 14%     | 16%     | 17%     | 20%    |
     
      </div>
@@ -456,7 +456,23 @@
 
     - Must be under 50% HP to activate. HP% is evaluated at the start of each turn and can trigger multiple times in a fight. 
     - The passive gives flat stat gains. It does not produce the damage values that would be consistent with a % modifier at higher skill levels. The listed values assume a +1 gain for both Attack and Magic Power. 
-    - The Effective Attack row is the `Total (Attack Power + Magic Power) x 0.65` for Level 1 of Divine Path. 
+    - The Effective Attack row is `Total (Attack Power + Magic Power) x 0.65` for Level 1 of Divine Path. 
+
+=== "Concentration" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                          | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:-------------------------|-----|--------|--------|--------|--------|--------|--------|
+    | ATK gained per turn &emsp; &emsp; &emsp; &emsp; &emsp;     |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
+    | MAG gained per turn      |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
+    | Estimated cap            |  30 |     30 |     30 |     30 |     30 |     30 |     30 |
+
+    - Attack and Magic power increase each turn. The effect is negated if you change weapons. 
+    - Based on testing there seems to be a fixed cap of 30 per stat across all levels. At Level 1 it takes 2 turns to reach. 
+    - The Level 1 stat values are confirmed. Level 2-7 are estimates at +1 per level as Level 7 does not reach the stat cap on its own after one turn. 
+
+    </div>
     
 === "Divine Path" 
 
@@ -472,38 +488,63 @@
     - Effective Damage = `(ATK Power x Modifier) + (MAG Power x Modifier)` 
     - At Level 1, Effective Damage = `(ATK Power x 0.65) + (MAG Power x 0.65)`
     - Higher levels increase the modifier % being used. Each level is a 1% increase. 
-
-=== "Concentration" 
+    
+=== "Thousandfold Grip"
 
     <div class="nofilter-table nosort-table" markdown>
-
-    |                          | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
-    |:-------------------------|-----|--------|--------|--------|--------|--------|--------|
-    | ATK gained per turn &emsp; &emsp; &emsp; &emsp; &emsp;      |  15 | 1 (16) | 0 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) |
-    | MAG gained per turn      |  15 | 1 (16) | 0 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) |
-    | Stat cap                 |  30 |     30 |     30 |     30 |     30 |     30 |     30 |
-
-    - Attack and Magic power increase each turn. The effect is negated if you change weapons. 
-    - Based on testing there seems to be a fixed cap of 30 per stat across all levels. At Level 1 it takes 2 turns to reach. 
-    - The Level 1 stat values are confirmed. Level 2-7 are estimates at +1 per level as Level 7 does not reach the stat cap on its own after one turn. 
-
+    
+    |                   | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Surety % &emsp; &emsp; &emsp; &emsp; &emsp; |  10% | 1% (11%) | 1% (12%) | 1% (13%) | 1% (14%) | 1% (15%) | 1% (17%) |
+    
     </div>
 
-=== "Thousandfold Grip"
+    - Unique passive that operates as a Surety % modifier. It does not give flat Surety. 
+    - Formula: `Base SUR + (1 + Surety %)`
+    - Tested through Level 5. Each level gives exactly 1%. It is possible Level 7 gives a larger bonus. 
+    - Note that this passive has several restrictions before it will activate.
 
 === "Mysta Energy Manipulation"
 
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Magic Power &emsp; &emsp; &emsp; &emsp; &emsp;       |  30 | 3 (33) | 5 (38) | 3 (41) | 5 (46) | 3 (49) | 5 (54) |
+
+    </div>
+
 ### Ranger
 
-<div class="nofilter-table nosort-table" markdown>
+=== "Stats" 
 
-| Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
-|:----------------|:---------|----|----|----|----|----|----|----|
-| Accuracy Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-| Detection Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-| Evade Trap Up   |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------|:---------|----|----|----|----|----|----|----|
+    | Accuracy Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detection Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evade Trap Up   |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    
+     </div>
 
- </div>
+=== "Second Arrow" 
+
+=== "Sniper" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                   | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   |
+    |:------------------|-------|-------|-------|-------|-------|-------|-------|
+    | Attack Power &emsp; &emsp; &emsp; &emsp; &emsp;      | 0.50× | 0.50× | 0.50× | 0.50× | 0.50× | 0.50× | 0.50× |
+    | Accuracy          | 1.50× | 1.52× | 1.54x | 1.56× | 1.58× | 1.60× | 1.62× |
+    
+    </div> 
+
+    - Ranger uses a completely different damage formula that other classes. 
+    - Formula: Effective Attack = `(Attack Power x 0.50) + (Accuracy x 1.50)`
+    - The Attack power modifier is held constant at 0.50 for all levels. Only the Accuracy modifier increases. 
+    - Based on testing it is roughly 2% per level. Level 7 might see a 2-5% jump. 
 
 ## Anonymous 
 
