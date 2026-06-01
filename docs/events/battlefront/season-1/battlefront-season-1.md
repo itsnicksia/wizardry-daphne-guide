@@ -92,8 +92,10 @@
         - The debuffs are extremely powerful. We recommend clearing them immediately or not bringing affected units. 
         - The racial debuffs (Beastfolk, Elf) seem to lower all of a unit's stats by a % amount. 
     - Flee 
-        - You can Flee at any time with 100% success. Any effects sustained in combat will carry over. 
-        - No progress is lost. You are sent back to your prior round, which can you can do over again. 
+        - You can Flee at any time with 100% success. Any effects sustained in combat will carry over. This includes regenerated SP/MP from skills, an effect which can be abused to recharge mid-way through the league.
+        - No progress is lost.  Any damage done or enemies killed add to totals for mission completion requirements.
+        - You are sent back to the waiting area, and can repeat the attempt an unlimited number of times. 
+        - In earlier leagues the Blackiron Warden may require you go talk to the Lurking Crow before re-entering.
     
 === "Death" 
 
