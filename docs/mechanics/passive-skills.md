@@ -755,6 +755,8 @@
 
 ## Unique Skills 
 
+!!! warning "This is a brand new section. More entries and descriptions will be added. Tables are not formatted. Will be cleaned up in the coming days, but here are the raw numbers." 
+
 ### Synergy 
 
 - Unique Skills cannot be inherited. They can be attack skills, spells, or passives. This page only covers passives. Permanently at Level 1.
