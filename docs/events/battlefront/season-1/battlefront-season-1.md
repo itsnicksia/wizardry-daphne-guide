@@ -107,7 +107,7 @@
             - MC is revived with 1 HP. Any MP or SP used in the previous fight is not restored. Units that were not revived prior to the MC's death stay dead.
             - Does not consume a Flame of Reawakening. League progress is not lost.  
     - If a party member dies:   
-        - If revived they will lose 30 Fortitude per usual. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. 
+        - If revived they will lose 30 Fortitude as usual. Once Fortitude reaches 0 the unit is "dead" and can no longer be used. Fortitude does not recover while in the arena or waiting area.
 
 === "Fortitude and Flames"
 
