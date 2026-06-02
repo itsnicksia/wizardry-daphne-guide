@@ -768,7 +768,7 @@
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name &emsp;&emsp;&emsp;    | Rarity &emsp;    | Passive Name &emsp;           | Condition &emsp;          | Formation &emsp; | DMG % &emsp; | Notes &emsp;                                              | 
+| Name &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;    | Rarity &emsp; &emsp;&emsp;&emsp;    | Passive Name &emsp; &emsp;&emsp;&emsp;           | Condition &emsp; &emsp;&emsp;&emsp;          | Formation &emsp; &emsp;&emsp;&emsp; | DMG % &emsp; &emsp;&emsp;&emsp; | Notes &emsp; &emsp;&emsp;&emsp;                                              | 
 |----------|-----------|------------------------|--------------------|-----------|-------|----------------------------------------------------|
 | <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light              | Column    | 10%   | Additional 15% damage against Dark enemies.        |
 | Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                    |
@@ -816,7 +816,7 @@
 | Olive     | General   | Honest Living                     | Good      | Adjacent  | Curse, Fear, Skill-Binding               | +50    |
 | Red Beard | Legendary | Apostle of Breaking Commandments  | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding | +70    |
 
-- Note that units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 
+- Note that units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
 
 </div>
 
