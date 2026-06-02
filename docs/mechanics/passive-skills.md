@@ -764,11 +764,11 @@
 - This section is organized into broad categories based on the type of Synergy effect. 
 - Adjacent means that allies must be to the left, right, in front of, or behind the named unit. The maximum number of units that can be covered is 4, arranged in a "T" shape with the named unit in the center (front or back). 
 
-#### Damage % Increase
+#### Damage Increase
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Rarity    | Passive Name           | Condition          | Formation | DMG % | Notes                                              | 
+| Name &emsp;&emsp;&emsp;    | Rarity &emsp;    | Passive Name &emsp;           | Condition &emsp;          | Formation &emsp; | DMG % &emsp; | Notes &emsp;                                              | 
 |----------|-----------|------------------------|--------------------|-----------|-------|----------------------------------------------------|
 | <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light              | Column    | 10%   | Additional 15% damage against Dark enemies.        |
 | Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                    |
@@ -780,17 +780,6 @@
 
 </div>
 
-#### Flat Stats
-
-<div class="nofilter-table nosort-table narrow-table" markdown>
-
-| Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Amt | Stat 2       | Amt |
-|----------|-----------|---------------------------------------|---------------|-----------|---------|-----|--------------|-----|
-| Arboris  | Legendary | Lord of the Deep Forest's Leadership  | Evil, Neutral | Adjacent  | Evasion | +6  | Action Speed | +4  |
-| Rinne    | Legendary | Enlightenment of the Brink of Death   | Evil          | Adjacent  | Surety  | +10 |              |     |
-
-</div>
-
 #### Damage Reduction 
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
@@ -799,7 +788,18 @@
 |---------------|-----------|--------------------|----------------|-----------|------|----------|-------------------|
 | <span style="color: cyan">Alice A</span>       | Legendary | Heretical Blessing | Neutral, Evil  | Row       | 5%   | All      |                   |
 | <span style="color: cyan">Milana A</span>      | General   | Calculated Charity | Evil           | Row       | 10%  | Physical |                   | 
-| <span style="color: cyan">Yekaterina A</span> A  | Legendary | Skull's Tutelage   | Self Only      | Back Row  | 30%  | Physical | Also gives 10% HP |
+| <span style="color: cyan">Yekaterina A</span>  | Legendary | Skull's Tutelage   | Self Only      | Back Row  | 30%  | Physical | Also gives 10% HP |
+
+</div>
+
+#### Flat Stats
+
+<div class="nofilter-table nosort-table narrow-table" markdown>
+
+| Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Amt | Stat 2       | Amt |
+|----------|-----------|---------------------------------------|---------------|-----------|---------|-----|--------------|-----|
+| Arboris  | Legendary | Lord of the Deep Forest's Leadership  | Evil, Neutral | Adjacent  | Evasion | +6  | Action Speed | +4  |
+| Rinne    | Legendary | Enlightenment of the Brink of Death   | Evil          | Adjacent  | Surety  | +10 |              |     |
 
 </div>
 
