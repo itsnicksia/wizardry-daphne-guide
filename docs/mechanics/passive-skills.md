@@ -224,7 +224,7 @@
 
     |                   | Lv1 | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      |
     |:------------------|-----|----------|----------|----------|----------|----------|----------|
-    | Proc Chance          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
+    | Proc Chance %          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
     | # of Items &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
 
     </div>
@@ -435,11 +435,16 @@
     </div>
 
     - Only activates on normal attacks. It is rolled per hit, so multi-hit gacha weapons like the Citrus-Blossom Hairpin (Yuzu) and Raven Daggers (Aldric) increase your chances.    
-    - Scales off Dexterity, not Luck. 
-    - Fixed cap of 50%. 
-    - "Bare-handed" means not having a weapon equipped in either hand. 
-    - In addition to the flat % rates listed there is an additional modifier that is added, which scales off DEX. The actual % Critical Chance would be Fixed % + Modifer %. The modifier is likely % = DEX/# (Fixed Constant).   
-
+    - We do not know the actual % chance because the formula has two parts. 
+        - Base % (Values in the table)
+        - DEX Scaling % (Formula unknown)
+        - Actual % = Base % + DEX Scaling %
+    - Things become more complicated because each enemy has its own level of Critical Tolerance. For example, we do not know how much +20 Critical Tolerance reduces the Actual % value. Collecting this data is not practical or possible at this point since there are so many unknowns. 
+    - Other
+        - Scales off Dexterity, not Luck. 
+        - Fixed cap of 50%. 
+        - "Bare-handed" means not having a weapon equipped in either hand. 
+    
 === "Empty Husk" 
 
 === "Ninja Dual Wield" 
@@ -629,8 +634,8 @@
     
     |                     | Lv1  | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
     |---------------------|------|---------|---------|---------|---------|---------|---------|
-    | Turn Count          | 1    | -       | 1       | -       | 1       | -       | 1       |
-    | Total turns &emsp;  &emsp;  &emsp;        |      | 1       | 2       | 3       | 3       | 4       |         |
+    | Additional Turns &emsp; &emsp; &emsp;    | 1    | -       | 1       | -       | 1       | -       | 1       |
+    | Total Turns         | 1    | 1       | 2       | 2       | 3       | 3       | 4       |
     | MP Up               | 10   | 4 (14)  | 4 (18)  | 4 (22)  | 4 (26)  | 4 (30)  | 4 (34)  |
     
     </div>
@@ -641,8 +646,8 @@
     
     |                     | Lv1  | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     |
     |---------------------|------|---------|---------|---------|---------|---------|
-    | Turn Count          | 1    | -       | -       | -       | 1       | -       |
-    | Total turns &emsp;  &emsp;  &emsp;         |      | 1       | 1       | 1       | 2       | 2       |
+    | Additional Turns &emsp; &emsp; &emsp;   | 1    | -       | -       | -       | 1       | -       |
+    | Total Turns         | 1    | 1       | 1       | 1       | 2       | 2       |
     | MP Up               | -    | 4       | 4 (8)   | 4 (12)  | 4 (16)  | 4 (20)  |
     
     </div>
