@@ -20,18 +20,19 @@
 
 === "How accurate are the numbers?"
 
-    - Drecom shares very little information on exact values or the inner workings of its formulas. Almost everything we know about the game is due to dedicated fans across multiple online communities.  
+    - Drecom does not publicly share any information on exact values or formulas. All data is from dedicated fans across multiple online communities and the unofficial [Discord](https://discord.gg/CQETxvUW).  
+    - To set expectations up-front - even with perfect data there are going to be errors due to damage variance and RNG. Drecom uses sophisticated formulas, scaling, and weighted variables, which are difficult to parse even with advanced statistical tools. This is not a definitive, 100% accurate source and should not be viewed in that way. 
     - Confirmed 
         - Any passive that gives a flat stat gain per level. 
         - Level 1-3 on the vast majority of passives. 
-    - Estimates 
+    - Approximations 
         - Passives that have % values, proc chances, or scale off a Trait. We are actively working on scaling formulas to fit the collected data. 
-        - Drecom tends to use consistent per level patterns across similar passive "families". 
-        - Passives that see little to no change per level are defaulted to +1-2 per level and are generally not worth further investment. 
-    - Testing
+        - Drecom tends to use consistent per level patterns across similar passive families. 
+        - Some passives have no measurable change per level. Those are defaulted to +1 per level and are generally not worth further investment. 
+    - Testing    
         - Most passives have at least 1-200 observations under controlled conditions. Several passives have 500-1,000 observations. 
         - Testing is not "kill 10 enemies and call it a day". The community has many dedicated fans that use their free time to collect this information to benefit everyone. 
-        - Even with the best community-gathered data there are going to be errors due to damage variance and the nature of RNG. This page does not and cannot give exact values for everything, outside of the flat stats. 
+        - A special thanks to our high-spending members (whales) that have generously used codexes to take certain skills to Level 7 for testing. 
 
 ## Class  
 
@@ -447,7 +448,38 @@
     
 === "Empty Husk" 
 
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Proc Chance % &emsp; &emsp; &emsp;                         | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |--------------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Armor                    | 8%  | 10% | 12% | 14% | 16% | 18% | 20% |
+    | No Armor                 | 15% | 17% | 19% | 21% | 23% | 25% | 30% |
+    
+    </div>
+
+    Mechanics
+    - Only applies to physical attacks. If you fail the Evasion check, then Empty Husk will roll. It is completely independent.
+    - Values are a fixed % and do not scale with any Trait. 
+    - Based on testing, the "No Armor" requirement means having no defensive gear equipped (Head, Hand, Body, Shield, Foot, Accessory). 
+    - Stacks with Concealment, which uses a similar mechanism.
+
 === "Ninja Dual Wield" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                              | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
+    |------------------------------|------|------|------|------|------|------|------|
+    | Main-Hand: DMG % Reduction   | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
+    | Off-Hand: ATK % Contribution % &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
+    | Evasion Penalty              | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
+    | Action Speed Penalty         | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
+    
+    </div>
+
+    - Daggers and Kunai only.
+    - Dual-wielding comes with a penalty to Main Hand (MH) damage. At Level 1, the penalty is 55%, meaning only 45% of ATK Power is being used. The penalty decreases as the skill level increases. 
+    - The Off-Hand weapon gives additional ATK Power, but only when skills are used. The ATK % contribution increases with skill levels. 
+    - The Evasion and Action Speed penalty is a flat -15 across all levels. 
 
 ### Samurai 
 
