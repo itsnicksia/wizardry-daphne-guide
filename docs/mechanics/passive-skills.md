@@ -487,7 +487,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-                                   | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
+    |                              | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
     |------------------------------|------|------|------|------|------|------|------|
     | ATK Power % &emsp; &emsp; &emsp; &emsp; | 10%  | 11%  | 13%  | 14%  | 16%  | 17%  | 20%  |
 
