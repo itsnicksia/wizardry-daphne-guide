@@ -422,7 +422,6 @@
     | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
     | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
-    | Vitality Jutsu  |          | 10%  | 11%  | 13%    | 14%     | 16%     | 17%     | 20%    |
     
      </div>
 
@@ -460,6 +459,7 @@
     </div>
 
     Mechanics
+    
     - Only applies to physical attacks. If you fail the Evasion check, then Empty Husk will roll. It is completely independent.
     - Values are a fixed % and do not scale with any Trait. 
     - Based on testing, the "No Armor" requirement means having no defensive gear equipped (Head, Hand, Body, Shield, Foot, Accessory). 
@@ -483,6 +483,19 @@
     - The Off-Hand weapon gives additional ATK Power, but only when skills are used. The ATK % contribution increases with skill levels. 
     - The Evasion and Action Speed penalty is a flat -15 across all levels. 
 
+=== "Vitality Jutsu" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+                                   | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
+    |------------------------------|------|------|------|------|------|------|------|
+    | ATK Power %                  | 10%  | 11%  | 13%  | 14%  | 16%  | 17%  | 20%  |
+
+    </div>
+
+    - Values are for 100% HP. The effect is roughly halfed at low HP. 
+    - Testing shows that the passive also applies to Spell damage. It is likely coded as a universal damage modifier versus ATK Power per its description. 
+
 ### Samurai 
 
 === "Back-Against-the-Water-Formation" 
@@ -494,7 +507,7 @@
     | Attack Power      |  4  | 1 (5)  | 1 (6)  | 1 (7)  | 1 (8)  | 1 (9)  | 1 (10)  |
     | Magic Power       |  4  | 1 (5)  | 1 (6)  | 1 (7)  | 1 (8)  | 1 (9)  | 1 (10)  |
     | Total             |  8  | 2 (10) | 2 (12) | 2 (14) | 2 (16) | 2 (18) | 2 (20)  |
-    | Effective ATK &emsp; &emsp; &emsp; &emsp; &emsp;     |  5  | 7      | 8      | 9      | 10     | 12     | 13      |
+    | Effective ATK &emsp; &emsp; &emsp; &emsp;     |  5  | 7      | 8      | 9      | 10     | 12     | 13      |
 
     </div>
 
@@ -508,8 +521,8 @@
 
     |                          | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
     |:-------------------------|-----|--------|--------|--------|--------|--------|--------|
-    | ATK gained per turn &emsp; &emsp; &emsp; &emsp; &emsp;     |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
-    | MAG gained per turn      |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
+    | ATK per turn &emsp; &emsp; &emsp; &emsp;      |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
+    | MAG per turn      |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
     | Estimated cap            |  30 |     30 |     30 |     30 |     30 |     30 |     30 |
 
     - Attack and Magic power increase each turn. The effect is negated if you change weapons. 
@@ -524,13 +537,13 @@
 
     |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |:------------------|-----|-----|-----|-----|-----|-----|-----|
-    | Modifier &emsp; &emsp; &emsp; &emsp; &emsp;         | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
+    | Modifier &emsp; &emsp; &emsp; &emsp;          | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
 
     </div>
 
     - Samurai damage scales off both ATK Power and MAG Power. 
-    - Effective Damage = `(ATK Power x Modifier) + (MAG Power x Modifier)` 
-    - At Level 1, Effective Damage = `(ATK Power x 0.65) + (MAG Power x 0.65)`
+    - Effective Damage = `Modifier x (ATK Power + MAG Power)` 
+    - At Level 1, Effective Damage = `0.65 x (ATK Power + MAG Power)`
     - Higher levels increase the modifier % being used. Each level is a 1% increase. 
     
 === "Thousandfold Grip"
@@ -539,7 +552,7 @@
     
     |                   | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
     |:------------------|-----|---------|---------|---------|---------|---------|---------|
-    | Surety % &emsp; &emsp; &emsp; &emsp; &emsp; |  10% | 1% (11%) | 1% (12%) | 1% (13%) | 1% (14%) | 1% (15%) | 1% (17%) |
+    | Surety % &emsp; &emsp; &emsp; &emsp; |  10% | 1% (11%) | 1% (12%) | 1% (13%) | 1% (14%) | 1% (15%) | 1% (17%) |
     
     </div>
 
@@ -554,9 +567,11 @@
 
     |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
     |:------------------|-----|--------|--------|--------|--------|--------|--------|
-    | Magic Power &emsp; &emsp; &emsp; &emsp; &emsp;       |  30 | 3 (33) | 5 (38) | 3 (41) | 5 (46) | 3 (49) | 5 (54) |
+    | Magic Power &emsp; &emsp; &emsp; &emsp;       |  30 | 3 (33) | 5 (38) | 3 (41) | 5 (46) | 3 (49) | 5 (54) |
 
     </div>
+
+    - Flat increase to MAG Power. 
 
 ### Ranger
 
