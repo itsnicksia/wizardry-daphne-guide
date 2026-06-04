@@ -20,8 +20,10 @@
 
 === "How accurate are the numbers?"
 
-    - Drecom does not publicly share any information on exact values or formulas. All data is from dedicated fans across multiple online communities and the unofficial [Discord](https://discord.gg/CQETxvUW).  
-    - To set expectations up-front - even with perfect data there are going to be errors due to damage variance and RNG. Drecom uses sophisticated formulas, scaling, and weighted variables, which are difficult to parse even with advanced statistical tools. This is not a definitive, 100% accurate source and should not be viewed in that way. 
+    - Expectation Setting
+        - Drecom does not publicly share any information on exact values or formulas. All data is from dedicated fans across multiple online communities and the unofficial [Discord](https://discord.gg/CQETxvUW).  
+        - Even with perfect data there are going to be errors due to damage variance and RNG. Drecom uses sophisticated formulas, scaling, and weighted variables, which are difficult to parse even with advanced statistical tools. 
+        - This is not a definitive, 100% accurate source and should not be viewed in that way. 
     - Confirmed 
         - Any passive that gives a flat stat gain per level. 
         - Level 1-3 on the vast majority of passives. 
@@ -415,7 +417,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    | Passive Name &emsp; &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
     | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
@@ -428,7 +430,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
 
-    | Critical Chance % &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    | Critical Chance % &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
     |:----------------|----|----|----|----|----|-----|-----|
     | Weapon          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
     | Bare-Handed     | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
@@ -450,7 +452,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    | Proc Chance % &emsp; &emsp; &emsp;                         | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    | Proc Chance % &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |--------------------------|-----|-----|-----|-----|-----|-----|-----|
     | Armor                    | 8%  | 10% | 12% | 14% | 16% | 18% | 20% |
     | No Armor                 | 15% | 17% | 19% | 21% | 23% | 25% | 30% |
@@ -469,8 +471,8 @@
     
     |                              | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
     |------------------------------|------|------|------|------|------|------|------|
-    | Main-Hand: DMG % Reduction   | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
-    | Off-Hand: ATK % Contribution % &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
+    | Main-Hand DMG % Reduction   | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
+    | Off-Hand ATK % Contribution % &emsp; &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
     | Evasion Penalty              | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
     | Action Speed Penalty         | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
     
