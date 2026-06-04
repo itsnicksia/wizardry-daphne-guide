@@ -409,7 +409,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 ## Relic Power Stat Increases
 
 The table below shows the stat increase per Relic Power level along with the level 6 totals of both non-matching ("Standard") and matching ("Alignment Bonus") alignments.
-Note: The stat that is negatively impacted is usually -1 per level (max of -6 at level 6), except HP, DEF and MDEF which are -2 per level (max of -12 at level 6).
+Note: The stat that is negatively impacted is usually -1 per level (max of -6 at level 6), except HP, DEF and MDEF which are -2 per level (max of -12 at level 6). ASPD is -1 from Level 1-4 and -2 for Level 5 (-6 ASPD) and Level 6 (-8 ASPD). 
 
 | Stats                            | Per Level | Standard | Alignment Bonus  |
 |----------------------------------|:---------:|:--------:|:----------------:|
