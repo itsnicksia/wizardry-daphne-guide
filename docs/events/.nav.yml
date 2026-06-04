@@ -1,20 +1,33 @@
 nav:
-  - Alabaster Hunting: './alabaster-hunting/alabaster-hunting.md'
-  - Class Trials: 
+
+  - Special Requests: 
+    - Alabaster Hunting: './alabaster-hunting/alabaster-hunting.md'
+    - Forbidden Area Exploration: './forbidden-area-exploration/forbidden-area-exploration.md'
+    - Forgotten Craft of the Medicinal Arts: './forgotten-craft-of-the-medicinal-arts/forgotten-craft-of-the-medicinal-arts.md'
+    - Labyrinth of Fordraig: './labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
+    - Lamp of Malice: './lamp-of-malice/lamp-of-malice-text-guide.md'
+    - Otherworld Adventurers: './otherworld-adventurers/otherworld-adventurers-guide.md'
+    - Pixie and the Secret Garden: './pixie-and-the-secret-garden/pixie-and-the-secret-garden-guide.md'
+    - Plot of the Sand Shadow: './plot-of-the-sand-shadow/plot-of-the-sand-shadow.md'
+    - Vendetta on the Island of the Wailing Oni: './vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni.md'
+  - Battlefront of Heroes: 
+    - Season 1: './battlefront/season-1/battlefront-season-1.md' 
+  - Class Trials:
     - Fighter Trials: './fighter-proving-grounds/fighter-proving-grounds-guide.md'
     - Mage Trials: './mage-proving-grounds/mage-proving-grounds-guide.md'
     - Knight Trials: './knight-proving-grounds/knight-proving-grounds-guide.md'
-  - Labyrinth of Fordraig: './labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
-  - Lamp of Malice: './lamp-of-malice/lamp-of-malice-text-guide.md'
-  - Old Castle Ruins:
+  - Old Castle Ruins: 
     - Season 1: './old-castle-ruins/season-1/old-castle-ruins-season-1.md'
     - Season 2: './old-castle-ruins/season-2/old-castle-ruins-season-2.md'
     - Season 3: './old-castle-ruins/season-3/old-castle-ruins-season-3.md'
-  - Otherworld Adventurers: './otherworld-adventurers/otherworld-adventurers-guide.md'
-  - Pixie and the Secret Garden: './pixie-and-the-secret-garden/pixie-and-the-secret-garden-guide.md'
-  - Plot of the Sand Shadow: './plot-of-the-sand-shadow/plot-of-the-sand-shadow.md'
-  - Recurring Requests: 
+  - Requests from an Ally: 
+    - Symbol of Alliance: './abyss-guides/request-from-an-ally/symbol-of-alliance.md'
+    - Arna's Past: './abyss-guides/request-from-an-ally/arnas-past.md'
+    - Memories of Charlotte: './abyss-guides/request-from-an-ally/memories-of-charlotte.md'
+  - Recurring:
     - Adventurer Retrieval: './recurring-events/adv-retrieval.md'
     - Gold Ore Collection: './recurring-events/gold-ore.md'
-  - Vendetta on the Island of the Wailing Oni: './vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni.md'
-  - Forbidden Area Exploration: './forbidden-area-exploration/forbidden-area-exploration.md'
+
+  
+
+

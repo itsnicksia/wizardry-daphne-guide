@@ -18,7 +18,7 @@ Your main character can freely change between classes that you have unlocked and
 Levels are independent to each class so you are going to have to relevel. 
 
 ## Why Are Some Characters Missing A Class Change?
-Nameless units such as Human-pri can not class change. As of now newer released units don't come with their class change. Drecom will announce when their class change will come.
+Anonymous units such as Human-pri can not class change. As of now newer released units don't come with their class change. Drecom will announce when their class change will come.
 
 ## When Should I Class Change?
 For your main character, class change as soon as possible. The Wanderer Class doesn't get any new skills after level 20. For your other party members, it's up to personal preference. However, with new level caps coming, this means new potential skills so you might as well level the class to max before changing classes.

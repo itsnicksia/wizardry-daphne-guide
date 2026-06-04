@@ -24,7 +24,7 @@ There are multiple endings for this event, but overall the event is very quick t
     11. Flower patch on B1f has no seeds and the way forward in B2F is blocked, so you must Cursed Wheel.
 
 ??? note "2nd Run"
-    1. Go to tavern again, and give flowers to the addicts this time so they stay.
+    1. Go to tavern again, and give flowers to the addicts this time so they don't get in your way in the cave.
     2. Take request but this time lulu says to wait a bit for her, basically donabelles are invading the capital.
     3. Pick up the request again, and head back to the cave. Theo will not stay despite the new dialogue.
     4. As you pass by points of interest, you can choose not to investigate and simply tell Theo. This is just flavor text and has no importance.
@@ -37,15 +37,15 @@ There are multiple endings for this event, but overall the event is very quick t
 
 ??? note "3rd Run"
     1. Repeat every step as the previous runs until Theo is poisoned again. Make sure you are carrying a Medicinal Herb.
-    2. Head to the middle rightmost open room in B2F and immediately attack the merchants.
+    2. Head to the middle rightmost open room in B2F and immediately attack the merchants (do not waste time telling them to let her go).
     3. You will be fighting about 5 masked thieves, with the main one having somewhat high evasion.
     4. Upon finishing the fight, receive a bag of seeds and a key for the door on B1F.
-    5. Talk to Pan afterwards and hand them the Medicinal Herb. They will thank you and tell you to thank Theo.
+    5. Talk to Pan afterwards, hand them the Medicinal Herb, and get them as a bondmate. They will thank you and tell you to thank Theo.
     6. Return to Royal Capital and give the seeds to the father, and Theo will be cured and talk to you afterwards.
-    7. You will gain both Theo and Pan as a bondmate (Ending 4), who are a earth element bondmate with Poison Tolerance and a air element bondmate with Magic Power respectively.
+    7. You will gain both Theo (Poison Tolerance) and Pan (Magic Power) as bondmates (Ending 4).
 
 ??? note "Endings"
-    - Ending 1 : Obtained when Pan dies and Theo is partially cured
+    - Ending 1 : Obtained when Pan dies and Theo is only partially cured
     - Ending 2 : Obtained when Pan dies because the merchants were not ambushed.
     - Ending 3 : Obtained when Pan survives but is not handed a medicinal herb.
     - Ending 4 : Obtained when Pan survives and is handed a medicinal herb.

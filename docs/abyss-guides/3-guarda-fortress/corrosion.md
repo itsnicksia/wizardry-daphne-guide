@@ -824,7 +824,7 @@
         === "Overview"
         
             - The locations of the 3 winding keys are marked on your map with a yellow "!" symbol
-            - The keys are always in the same location (tile set) even with different map variations 
+            - The keys are always at the same coordinates even with different map variations 
             - There are 2 keys in Zone 8 and 1 key in Zone 9
 
         === "Winding Key 1 - Zone 9"
@@ -833,7 +833,7 @@
             ![](./img/corr-zone-9-winding-key-1.jpg)
             </div>
 
-            - Located in Zone 9
+            - Located in Zone 9 at x:7, y:12
             - There is a roaming sentry circling the outer area
 
         === "Winding Key 2 - Zone 8"
@@ -842,7 +842,7 @@
             ![](./img/corr-zone-8-winding-key-2.jpg)
             </div>
 
-            - Located in Zone 8
+            - Located in Zone 8 at x:7, y:19
             - Next to the room with a golem and 3 breakable walls
             
         === "Winding Key 3 - Zone 8"
@@ -851,7 +851,7 @@
             ![](./img/corr-zone-8-winding-key-3.jpg)
             </div>
 
-            - Located in Zone 8
+            - Located in Zone at x:4, y:9
             - In the hallway with 3 roaming sentries that move back-and-forth through the hallways
             - Be careful as it is easy to be spotted
 

@@ -74,14 +74,5 @@
     -text-
 -->
 
-## Duplicate Usage:
-
-* If you use her Mage of the Silent Night style
-    * Inherit her standard style dupes to her own skill to increase its damage.
-    * Mage of the Silent Night dupes can either go towards Discipline or inherit. While Discipline boosts are minimal, you'll likely reach inheritance cap eventually from standard Flut pulls over time.
-* If you use her standard style and not her Mage of the Silent Night style, Discipline and skill inherit are both okay options.
-* Inherit her skill to your favorite mage to give them MIGAL or increase its damage.
-* Save for future use or dismiss for Grade tags.
-
 {% endblock ReviewsAndAnalysis %}
 

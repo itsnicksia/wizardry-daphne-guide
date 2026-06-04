@@ -1,6 +1,6 @@
-.nofilter-table {}  /*placeholder style to enable disabling table filter*/
+.nofilter-table {}  /*placeholder style to allow disabling table filter*/
 
-.nosort-table {}    /*placeholder style to enable disabling table sorting */
+.nosort-table {}    /*placeholder style to allow disabling table sorting */
 
 .md-typeset .narrow-table table th,
 .md-typeset .narrow-table table td {
@@ -11,15 +11,13 @@
 
 .md-typeset .equipment-table table th {
     font-size: .70rem;
-    padding: 3px 8px
-    min-width: max-content;
+    min-width: 0;
     white-space: pre;
 }
 
 .md-typeset .equipment-table table td {
     font-size: .70rem;
-    padding: 3px 8px
-    min-width: max-content;
+    min-width: 0;
     white-space: pre-line;
 }
 

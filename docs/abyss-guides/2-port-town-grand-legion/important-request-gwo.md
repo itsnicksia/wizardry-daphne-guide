@@ -75,59 +75,48 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 4. Proceed ahead with the remaining arena battles. 
 5. You won - time to claim your reward!
 
-![Melgina's Arena Reward](./img/melgina-reward.jpg)
+### Arena Rewards  
+After winning Arena Round 5, you get your wish granted. The options you see depend on if it's your first victory and/or if you've gathered all information needed to discover who the real GWO is. See image below:  
 
-### Arena Reward (First Victory)
+=== "First Victory"
+    ![Melgina's Arena Reward](./img/melgina-reward_1.jpg)
 
-#### Recovery items
+=== "Second Loop before challenging Octonarus"
+    ![Melgina's Arena Reward](./img/melgina-reward_2.jpg)
 
-Prerequisite: Gave Mackarel Sandwich to Melgina (there will be no reward if you gave her the knife)
+Some reward choices will result in gaining an item or access to a new area after defeating the GWO.  Also, some choices require you to "Reverse" either the GWO (left) or the Ship (right) after the battle. 
 
-Reward: Recover HP/MP/SP to full before fighting Octonarus.
+#### First Victory Rewards
 
-Which side to reverse: Right
+- Recovery Items
+    - Reward: Recover HP/MP/SP to full before GWO fight.
+    - Prerequisite: Gave Mackarel Sandwich to Melgina (no reward if you gave her the knife)
 
-#### Rich treasures
+- Rich Treasures
+    - Reward:  Treasurey chest key - unlocks trapdoor on Ship's deck.
+ 
+-  Battle with the Greater Warped One
+    - Reward:
+        - Melgina’s Choker (if you gave Melgina the sandwich)
+        - Octonarus' necklace (if you gave Melgina the knife)
+    - Which side to reverse: Right
 
-Prerequisite: None
+#### 2nd Victory Rewards
 
-Reward: Treasury chest key (access via trapdoor on the ship‘s deck)
+- Melgina’s liberation
+    - Reward: Melgina Bondmate
+    - Prerequisite: Gave Titanium knife to Melgina and Gave Titanium Ore to Gessi.
+    - Which side to reverse: Right, and then check Octonarus’s hand.
 
-#### Battle with the Greater Warped One
+- Octonarus‘s Cherished Sword
+    - Reward: Cutlass of Tyranny
+    - Prerequisite: Gave Titanium knife to Melgina
+    - Which side to reverse: Left
 
-Prerequisite: None
-
-Reward: 
- - Melgina’s Choker (if you gave Melgina the sandwich)
- - Octonarus' necklace (if you gave her the knife)
-
-Which side to reverse: Right
-
-### Arena Reward (2nd Loop after Defeating Octonarus)
-
-#### Melgina’s liberation
-
-Prerequisite: Gave Titanium knife to Melgina, Gave Titanium Ore to Gessi
-
-Reward: Melgina Bondmate
-
-Which side to reverse: Right, check Octonarus’s hand
-
-#### Octonarus‘s cherished sword
-
-Prerequisite: Gave Titanium knife to Melgina
-
-Reward: Cutlass of Tyranny
-
-Which side to reverse: Left
-
-#### Octonarus‘s secret room
-
-Prerequisite: Gave Titanium knife to Melgina
-
-Reward: Access to Forgotten Pirate Harbor (via the underwater grate in the underwater section of the pier area, only accessible directly after the battle)
-
-Which side to reverse: Left, go to grate
+- Octonarus‘s Secret Room
+    - Reward: Access Forgotten Pirate Harbor (via the underwater grate in the underwater section of the pier area, only accessible directly after the battle)
+    - Prerequisite: Gave Titanium knife to Melgina
+    - Which side to reverse: Left, then go to grate before returning to town.
 
 ## Epilogue
 
@@ -149,7 +138,7 @@ The path you choose is ultimately yours, and the only difference is with option 
 
 ## Octonarus
 
-Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
+Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of Melgina's after the 5th arena battle, you will end up in a battle with Octonarus where he will keep resurrecting Melgina and you'll have to kill her six times. Not fun\!
 
 1. Use the wheel to travel back to **One-Eyed Sahuagin** and speak to the Gessi destroying the statue using the “**Don’t you want to save Melgina**” option
 2. Use the wheel to travel back to **Flooded Town** and speak with Melgina using the “**Do you want to be free from Octonarus**” option
@@ -159,9 +148,9 @@ Once you’re ready to fight Octonarus, you first need to learn about him by rea
 6. Complete the [Obtaining Titanium Ore](./requests.md#obtaining-titanium-ore) request
     1. Note that if you want Gessi’s help against Octo, when you do the next step, make sure you configure the wheel so that you did not give the Purple Garlic to the head cook
 7. Use the wheel to travel back to **Arena Round 5** and after defeating Geuzan, engage Melgina with the “**Melgina's liberation**” option
-8. You now get to fight Octonarus
-    1. As part of this fight, you will still have to fight Melgina first, and she will resurrect once (you will have to fight her twice), however she will refuse resurrection after that
-    2. You cannot request healing prior to this fight, so make sure you conserve what you can while fighting Geuzan, and bring some potions to heal up as needed before engaging Melgina
+8. You now get to fight Octonarus:
+    1. As part of this fight, you will still have to fight Melgina first, and she will resurrect once (you will have to fight her twice), however she will refuse resurrection after that.
+    2. You cannot request healing prior to this fight, so make sure you conserve what you can while fighting Geuzan, and bring some potions to heal up as needed before engaging Melgina.
 
 ## Greater Warped One
 
@@ -178,7 +167,7 @@ Once you’re ready to fight Octonarus, you first need to learn about him by rea
 
 #### Right Arm of Reversal Usage
 
-* Use it on one the statue to drain the water.
+* Use it on the statue to drain the water.
 
 ### Octonarus
 
@@ -192,7 +181,7 @@ Once you’re ready to fight Octonarus, you first need to learn about him by rea
 * Make sure you reapply any crucial buffs or debuffs if Melgina clears them
 * Mages (Yekaterina in particular) should keep `Mental Unity` up so they can quickly clear any adds she spawns with a line spell.
 * If running two mages with one being Yeka, a single `KATINO` from your second mage followed by a `Mental Unity`-buffed `MAERLIK` will clear the adds out, quickly preventing any long-range bombardments.
-* If you beat Gessi without Purple Garlic and selected "Melgina's Liberation",he will join you after 3-5 rounds vs Octonarus, usually sometime after he summons Allies.
+* If you beat Gessi without Purple Garlic and selected "Melgina's Liberation", he will join you after 3-5 rounds vs Octonarus, usually sometime after he summons Allies.
 
 #### Right Arm of Reversal Usage
 

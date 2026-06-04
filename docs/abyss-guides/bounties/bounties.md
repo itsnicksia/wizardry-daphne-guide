@@ -5,16 +5,17 @@
 
 ## Overview
 
-### How to Unlock 
+!!! warning "How to Unlock" 
 
-- Defeat the GWO of Abyss 2 (Port Town Grand Legion), go to the Royal Capital, and speak with Arna who will give an introduction to the bounty system.
-- At the Guild select Requests and you will see a new tab called Bounties. Every Guild in each major city has its own set of bounties for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
+    - Defeat the GWO of Abyss 2 (Port Town Grand Legion), go to the Royal Capital, and speak with Arna who will give an introduction to the bounty system.
+    - At the Guild select Requests and you will see a new tab called Bounties. Every Guild in each major city has its own set of bounties for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
 
 ### Bounty System
 
 === "Wanted Posters"
 
-    - Wanted Posters provide the following information:
+    === "Details"
+    
         - Name
         - Gold Reward
         - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
@@ -28,14 +29,31 @@
             - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
             - Note that 5 small stars are equal to 1 large, glowing star. 
 
+    === "Wanted Dead"
+        <div align="center">
+        ![](./img/bp-wanted-dead.png)
+        </div>
+
+    === "Capture Alive" 
+        <div align="center">
+        ![](./img/bp-capture-alive.png)
+        </div>
+
+    === "Capture Alive (Optional)"
+        <div align="center">
+        ![](./img/bp-capture-alive-optional.png)
+        </div>
+        
 === "How to Accept, Submit, and Reset"
 
+    - The Bounties tab is located under Guild - Requests.
     - Accept 
-        - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check what bounties are active you can check your Log - Bounty List. 
+        - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check your active bounties go to Log - Bounty List. 
         - Active bounties are denoted by a black skull on both the world map and the dungeon floor selection screen.  
     - Submit 
-        - After defeating or capturing a bounty return to the appropriate Guild, select the Bounties tab, and you will see that the wanted poster is glowing.
+        - After defeating or capturing a bounty return to the appropriate Guild, select the Bounties tab, and the wanted poster will be glowing.
         - Select the wanted poster to submit the bounty and receive your rewards. 
+        - Warning! If you wheel outside of the current Abyss, then the bounty will be reset.
     - Reset 
         - Bounties can be reset by wheeling-in-place on the same Cursed Wheel node. 
         - To wheel-in-place go to the Ruins - Cursed Wheel, select your current or furthest node, and Leap. 
@@ -51,47 +69,51 @@
     - Each Bounty Rank generally requires defeating all the available bounties in each city. If you are stuck, then revisit each location or make additional Abyss progression. 
     - Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](#one-time-bounty-rank-rewards) select "Check Rewards".  
 
-??? warning "Mechanics"
+### Mechanics
 
-    === "Battle" 
+=== "Battle" 
+
+    - You cannot be ambushed you unless you have a Morgus contract active. You can literally walk into them backwards. 
+    - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
+    - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (pink-purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
+
+=== "Capturing"
+
+    - Only human bounties can be captured. It is easy to accidentally kill a target, tracking its HP is recommended.   
+    - Steps
+        - Weaken an enemy to 10-15% of its HP.
+        - Use a Binding Rope (consumable item) until it is successfully captured.  
+        - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
+    - Binding Rope
+        - Sold at the Item Shop for 200 gold. 
+        - DEX is the single most critical factor for capturing a bounty. Ninjas and Thiefs are recommended. The Grip Gloves seem to provide a small, marginal benefit based on limited testing. 
+        - The rope message is a helpful indicator:
+            - Knocked away means that its HP is still too high. 
+            - A "Miss" means the bounty can be captured, but that the unit's DEX is too low for a 100% guarantee. 
+            - Each time you throw a rope the game rolls against the unit's DEX stat for a % capture rate. You can try again with that unit, but if their DEX is too low the effective capture rate might be 0%. 
+        - It may take several attempts to successfully capture a bounty even at very low HP. 
+    - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
+    - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
     
-        - You cannot be ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
-        - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
-        - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
-    
-    === "Capturing"
-    
-        - Only human bounties can be captured. The process can be tedious since it is easy to accidentally kill a bounty unless you are tracking its HP.  
-        - Steps
-            - Weaken an enemy to 10-15% of its HP.
-            - Use a Binding Rope (consumable item) until it is successfully captured.  
-            - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
-        - Binding Rope
-            - Sold at the Item Shop for 200 gold. 
-            - The capture rate is (allegedly) higher if used by a high DEX unit, so Ninjas and Thiefs are good candidates. 
-            - It make take several attempts to successfully capture a bounty even at very low HP. 
-        - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
-        - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
-        
-    === "Map Types"
-    
-        - Fixed
-            - Populate on a specific tile set and will never move. 
-            - Displayed on the mini-map as a green arrow. 
-        - Wandering
-            - Can appear anywhere on the floor map, but their spawning location can be reset with changing floors or exiting and re-entering.  
-            - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
-            - Not displayed on the mini-map. 
-        - Person
-            - Populate on a specific tile set and will never move. 
-            - Appear as a "person icon" on the mini-map if that part of the floor has been explored.
-            - These encounters are always against human enemies. There will often be a brief interaction when you encounter them where you will be offered the choice to fight or let them go. 
-            - Can never drop relics. 
-    
-    === "Map Variations" 
-    
-        - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
-        - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations
+=== "Map Types"
+
+    - Fixed
+        - Populate on a specific tile set and will never move. 
+        - Displayed on the mini-map as a green arrow. 
+    - Wandering
+        - Can appear anywhere on the floor map, but their spawning location can be reset with changing floors or exiting and re-entering.  
+        - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
+        - Not displayed on the mini-map. 
+    - Person
+        - Populate on a specific tile set and will never move. 
+        - Appear as a "person icon" on the mini-map if that part of the floor has been explored.
+        - These encounters are always against human enemies. There will often be a brief interaction when you encounter them where you will be offered the choice to fight or let them go. 
+        - Can never drop relics. 
+
+=== "Map Variations" 
+
+    - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
+    - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations
 
 ### Bounties Summary Tables
 
@@ -679,9 +701,10 @@
         - Appears at Bounty Rank 8
 
     === "Fight Details"
-        - HP: 20k (can be captured after 15k; ~13k Dwarf Fighter; ~12k Elf Mage)
-        - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
-        - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
+        - HP: 20k (can be captured after 18k; ~13k Dwarf Fighter; ~12k Elf Mage)
+        - Ross has a fairly high DEX capturing requirement of ~82+.
+        - Ross is in the front row. Dwarf Fighter and Elf Mage are in the backrow. 
+        - Dwarf Fighter uses standard skills. The Elf Mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
         - Backline can be confused with Kantios. Ross can be stunned. 
 
     === "Map Location"
@@ -760,7 +783,7 @@
         - 17,000 Gold Reward
         - 800 Bounty Medals; 1,200 if Captured
         - Appears at Bounty Rank 11
-        - Requires A3 True Ending
+        - Requires A3 Mastermind Ending
 
     === "Fight Details"
         - HP: 15-16K (~8.5k Right Necrocore; ~9.5k Left Necrocore)
@@ -811,8 +834,10 @@
         - 950 Bounty Medals
         - 13 Bounty Markers 
         - Appears at Bounty Rank 11
-        - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
+        - Available slightly after Rockhome Village Major Harken and interacting with Nullshadow for the first time
+        - Does -not- require A3 Mastermind Ending
 
+        
     === "Fight Details"
         - HP: 38.5k
         - Spawns with 2 Ice Entities in the same row.
@@ -851,6 +876,7 @@
         - 1,380 Bounty Medals
         - 21 Bounty Markers
         - Appears at Bounty Rank 14
+        - Requires clearing GWO 4-2 although some people did not have it appear until defeating 4-3
 
     === "Fight Details"
         - HP: ~80k
@@ -872,6 +898,7 @@
         - 1,550 Bounty Medals
         - 23 Bounty Markers
         - Appears at Bounty Rank 14
+        - Requires clearing GWO 4-4
 
     === "Fight Details"
         - HP: ~50k (each)

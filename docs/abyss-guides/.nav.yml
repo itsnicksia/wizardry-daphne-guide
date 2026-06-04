@@ -33,8 +33,4 @@ nav:
       - Den of Light: './dens/den-of-light.md'
       - Den of Water: './dens/den-of-water.md'
   - Grade Exams: './grade-exams/maps.md'
-  - Request from an Ally:
-      - Symbol of Alliance: './request-from-an-ally/symbol-of-alliance.md'
-      - Arna's Past: './request-from-an-ally/arnas-past.md'
-      - Memories of Charlotte: './request-from-an-ally/memories-of-charlotte.md'
-  - Bounties: './bounties/bounties.md'
+

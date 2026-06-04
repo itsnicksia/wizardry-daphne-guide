@@ -7,21 +7,51 @@
 ??? tip "Things To Know In Advance"
 
     - We recommend you wait to do the Guild requests until after you have beaten the Abyss at least once. Several requests require: 
-        - The second reversal power, which requires clearing GWO 4-3 
-        - Completion of other requests, which are listed as "pre-requisites" 
-    - The enemy difficulty is on par or higher than mobs found on the final set of floors
-    - All requests are reset if you Cursed Wheel to a different Abyss 
-    - The game saves the state of the entrire map after defeating the GWO, including unlocked shortcuts (stumps, mines)
-        - To update the map you have to "wheel-in-place" 2x on Truth of the Beautiful Ore
-        - Before starting a request (or multiple requests) do the above step and then Cursed Wheel to your desired node
+        - The second reversal power, which requires clearing GWO 4-3. 
+        - Completion of other requests, which are listed as pre-requisites. 
+    - The enemy difficulty is on par or higher than mobs found on the final set of floors.
+    - All requests are reset if you Cursed Wheel to a different Abyss. 
+    - The game saves the state of the entrire map after defeating the GWO, including unlocked shortcuts (stumps, mines).
+        - To update the map you have to "wheel-in-place" 2x on Truth of the Beautiful Ore.
+        - Before starting a request (or multiple requests) do the above step and then Cursed Wheel to your desired node.
     
 ## Snowy Forest Minor Harken
 
 ### Recovery of Salted Pork
 
-!!! danger "Bug - Automatic Failure"
-    - Confirmed 3/25 that even if you retrieve the Salted Pork correctly the request will auto-fail when you return to the Guild.
-    - The Bigfoot's Offspring bondmate cannot be farmed either.
+??? danger "Bug - Bondmate Workaround"
+
+    === "Current Status" 
+    
+        - As of 4/12 the request is working normally if you choose to slay both of them at the end.
+        - Current bug: Bondmate ending (spare both of them) will automatically fail even if you do everything perfectly. 
+        - See next steps for the workaround.
+
+    === "Bondmate Ending Steps"
+    
+        - Part I 
+            - Cursed Wheel to Rockhome Village Major Harken. 
+            - Accept the request. 
+            - Complete all the steps as normal. Choose to "Slay them both" at the end. Don't forget to pick up the Salted Pork. 
+            - Submit the request. 
+
+        - Reset Request
+            - Cursed Wheel to Deepsnow Hinterlands Entrance. 
+            - Cursed Wheel back to Rockhome Village Major Harken. 
+
+        - Part II 
+            - Accept the request. 
+            - Be sure to pick up a Trifia mushroom at one of the discovery points.
+            - This time choose to "Spare" (bondmate ending) at the end. Don't forget to pick up the Salted Pork. 
+            - Instead of the request automatically failing you should be able to submit. 
+
+    === "Other"
+
+        - We have limited insight into what is causing this bug. It appears as if an event flag is broken that requires doing it the "normal" (slay/kill) way first to reset things. 
+        - It is possible that this is -not- a bug and intended to work this way moving forward. Historically, you could do either ending successfully on your first run. 
+        - Whether or not you have to repeat these steps if you Cursed Wheel outside of A4 has not been tested. If you are planning to level the bondmate, we recommend you do it in one sitting. 
+        - Credit: Big thank-you to @liezeithl for discovering the workaround. 
+        - Contact: Ping or DM @lightbearer on the Discord if you are running into any problems or discover any new information.  
 
 ??? warning "Important Notes"
 
@@ -45,27 +75,28 @@
             ??? quote "Bigfoot Child Audio Cues"
             
                 - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
-                - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
-                - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom  
+                - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" high-pitched sound = Trifia 
+                - "Kyoh! Kyoh!" text with a "Kyoh!" low-pitched sound = Deep-snow Mushroom  
                 
-        - "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
+        - Routing Tip: From the entrance if you auto-move to the hotspring it will take you through the first set of Discovery Points. Select the auto-resume button (upper-left boot icon) to continue. Auto-move to the Fountain and exit next.  
+        - To spawn the Bigfoot boss you will need 1) a Trifia mushroom in your inventory and 2) encounter a Bigfoot fight. If these conditions are not met, then the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
-        - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The former gives a new bondmate and the latter gives additional gold. 
-        - Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
+        - After the fight you will be given the option to "Let them go" or "Slay them both". The former gives a new bondmate and the latter gives additional gold. 
+        - <span style="color: #F2473A">Warning!</span> Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
         - Return to the Guild and submit the request.
 
             ??? warning "Rewards"
             
-                ??? note "Spare"
+                ??? note "Let them go"
                     - Bondmate: Bigfoot's Offspring (Accuracy) 
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold
-                    - Triffia removed from inventory 
+                    - Trifia removed from inventory 
                 
-                ??? note "Kill" 
+                ??? note "Slay them both" 
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold 
-                    - Additional gold from request giver
+                    - Additional gold from request giver if you have a Trifia mushroom in your inventory
                     
     === "Discovery Points"
         
@@ -89,7 +120,7 @@
     - "Perfect" Ending Requirements
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) 
-            - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
+            - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request.
         - Cursed Wheel: Short Rest in the Cabin
             - North Lakeshore Cabin: "Fixed it up" (Maya needs to be accessible) 
             - Dwarves' Cave: Any 
@@ -100,16 +131,20 @@
     === "Walkthrough"
     
         - Accept the request from Marta at the Guild and go to Route 3.
+        - <span style="color: #F2473A">Warning!</span> Reverse the Stonefolk in the NW corner -before- entering the Mayor's House to avoid unnecessary fights.
         - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box (Box Carved with a Snowdrop Motif), Crude Map, and a Doll. Step outside and watch a cutscene of hostile animals and monsters invading the town. All of the enemy groups can be avoided and are not mandatory for successful completion. 
-        - The objective is to find the 3 hidden boxes drawn on the crude map. Note that the final (third) box is not accessible until the end of the request. 
-        - Go to the far northwest house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting. If you have finished all the listed steps, then Lulu will inform you the request is completed.
+        - The goal is to find the 2 hidden boxes drawn on the crude map. It is possible to collect both boxes without fighting any enemies. Note that the final (3rd) box is not accessible until the end of the request.  
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
+
+         Additional bondmate ending steps: 
+        
         - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return to Route 3 and take her to the reversed nullstone for a cutscene. The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
         - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
         - Head back to the Guild and submit the request to view the bondmate ending. 
 
             ??? warning "Rewards"
-    
+
+                - Gem of Org x20 (first-time only)
                 - Achievement: The Two are Always Together
                 - Bondmate: Maya and Auntie Marta (Fear Tolerance)
                 - 12,000 Gold   
@@ -143,27 +178,26 @@
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
     - Request Failure
-        - Pre-requisites requests not completed 
-        - Did not receive the Dried Fish Fragment from the little girl at the Guild 
-        - Exiting to the world map and returning
+        - Pre-requisites requests not completed. 
+        - Did not receive the Dried Fish Fragment from the little girl at the Guild. 
+        - Exiting to the world map and returning.
+        - Using all of your flames ("Rise again") and being forced to "Accept death". 
     - Reset Request
-        - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed
+        - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed.
 
 ??? note "Request Guide" 
 
     === "Walkthrough"
 
         - Accept the request. If both prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment. 
-        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search.
-        - Running away more than twice results in request failure. 
-        - Note: As of 1/5, Discord members have reported that if the Nullshadow kills you and you revive, then instead of despawning it will result in request failure. This is currently undergoing verification.
+        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search. Running away more than twice results in request failure. 
         - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎.  The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
         - Find the kitty once in each of the 3 blizzard zones. The first two times it will run away. On the third attempt you will be prompted to use the Dried Fish Fragment as bait and the request will be completed.
         - The kitty is now permanently located at the Guild. It can also see Lulu!
     
             ??? warning "Rewards"
         
-                - Gem of Org x20
+                - Gem of Org x20 (first-time only)
                 - 12,500 Gold
                 - Deepsnow Hinterlands Roar Junk
                 - Deepsnow Hinterlands Fey Roar Junk 
@@ -178,22 +212,44 @@
 
 ### Special Local Delicacy
 
-??? "Important Notes"
+??? warning "Important Notes"
 
-    - Pre-requisite Requests
-        - None
-    - To save time you will want to Cursed Wheel to a node where all of the blizzard zones are still active. 
-    - A few of the blizzard zones do not appear to work properly for the bondmate. Whether this is a bug or intentional is not known.
+    - Pre-requisites
+        - MC has been promoted to Copper Grade. 
+    - Must step foot into Route 6 and then exit. 
+    - Make sure all blizzard zones are active. 
+    - The Bondmate ending has specific requirements. See the Bondmate tab.
 
 ??? note "Request Guide"
 
     === "Walkthrough"
 
-        - Accept the request and go to Route 5.
-        - Simply go to every Ice Storm zone, including ones that have trees that can be reversed. Typically the interaction zone is near the middle of the zones. When you enter the cutscene, you will get a description of the zone. These conditions are always randomized on every run. You are allowed to go to a spot and leave and come back later.
-        - The options here are "The air here feels dry to you", "You can feel a brisk breeze, gusts rippling your clothing", "There is a slight dampness in the air here". You are looking for "The air here feels dry to you".
-        - Upon selecting a spot, simply go through a 3 stage battle similar to that of previous abyss. You may tap out at any time. It is ideal to select a dry location where the Ice Storm may be removed via Right Hand of Reversal technique if possible.
-        - Once all 3 battles are completed, you are teleported back to the tavern with the request completed. You will obtain some gold and an ice-wind trout.
+        - Talk to Vigo, accept the request, and go to Route 5.
+        - Each blizzard zone can be used as a location for Vigo to dry his fish.  
+        - Once you enter a blizzard zone a message will appear that describes its current condition. The conditions are randomized each run. You can decline and re-accept any location. 
+        - Conditions: 
+            - "The air here feels dry to you" 
+            - "You can feel a brisk breeze, gusts rippling your clothing" 
+            - "There is a slight dampness in the air here"
+            - Note: Conditions only matter for the Bondmate ending. See tab for details.
+        - After selecting a spot, you will be forced into 3 back-to-back fights. You may leave at any time, but your reward will be impacted. 
+        - If you cannot complete the fights while frozen, then you can reverse the blizzard zone before confirming the location. This does lock you out of the bondmate ending. 
+        - Once all 3 battles are completed, you will be teleported back to the Tavern to watch a brief cutscene and receive your reward. 
+
+            ??? warning "Rewards"
+
+                === "Normal Ending" 
+
+                    - Gem of Org x20 (first-time only)
+                    - 6,000 Gold base + bonus of 4,000 Gold or 6,000 Gold if completed in an active blizzard zone
+                    - Ice-Wind Trout (restores 150 HP to one row)
+                    
+                === "Bondmate Ending" 
+            
+                    - Gem of Org x20 (first-time only)
+                    - Bondmate: Exquisite Jewel Trout (HP)
+                    - 13,000 Gold (6,000 base + 7,000 bonus)
+                    - Ultimate Ice-Wind Trout (restores 250 HP to one row)
 
     === "Battle Variations"
 
@@ -206,13 +262,21 @@
             - 2nd battle = 3 Snow Slimes frontline, 3 Ice Clouds in the middle, 2 Ice Clouds backline
             - 3rd Battle = 2 Snow Hawks frontline, 2 Snow Hawks in the middle, 2 Big Snow Hawks backline
 
-    === "Bondmate"
+    === "Bondmate" 
 
-        ??? warning "Ultimate Ice-Wind Trout"
+        === "Conditions" 
 
-            - The conditions are not entirely known, but some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen).
-            - Upon completion, you will get an Ultimate Ice-Wind Trout instead, which heals slightly more than the normal trout.
-            - In addition, you will get the bondmate "Exquisite Jewel Trout" (HP).
+            - Blizzard zone: Must be active 
+            - Condition: "The air here feels dry to you"
+            - Location: The blizzard zones directly beneath the Harken and the Fountain area. See Locations tab.
+            - This works 100% of the time as long as -all- of the above conditions are met. During testing the other locations have given inconsistent results or may be bugged. 
+            - Upon completion, you will get the "Exquisite Jewel Trout" (HP) bondmate and Ultimate Ice-Wind Trout consumable item. 
+
+        === "Locations" 
+
+            <div align="center">
+            ![](./img/special-delicacy-bondmate-zones.png)
+            </div>
 
 ## Slaying the White Wolves
 

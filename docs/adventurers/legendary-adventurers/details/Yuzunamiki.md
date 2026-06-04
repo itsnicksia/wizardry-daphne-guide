@@ -73,6 +73,8 @@
 
 ??? info "Karkarov's Analysis"
 
+    So, lets just add a statement about the Yuzu class change upfront.  As of 4/9/26 Yuzu now has Ranger as an alt class.  Thats cool.  This makes literally no difference and has no impact on the analysis or eval, if you get her class change you will want to just round trip her back to ninja.  Why?  Because Hue works best with multi hit ranged weapons, and the only multi hit ranged weapon is kunais.  So this class change gives her Bolas (a good skill), free accuracy passive (cant compomplain), and some stuff to deal with floor traps.  Better than nothing, and not a concern if you never do the class change to see it.
+
     The anniversary unit has landed and the gooners have been blessed with their fox lady beast folk evil Ninja with Japanese Geisha vibes, and her name is Yuzunamiki!  Is she actually a good character though or just all looks?  Good news, she is definitely not all looks.
 
     So the good, as a Beastfolk Yuzu is the statistically best suited race for the Ninja class.  With her banner including a gacha Kunai (which happens to be insanely powerful) and changes to allow the purchasing of heat haze junk with ration points, and ability to just buy a bronze kunai in the item shop, it's no longer difficult to get a kunai either.  This means you can easily slot this evil geishi fox on the back row and be fully effective while working with the Alice row buff if desired.  Her discipline for those who want to push it is +attack power and SP.  I guess it could have been Surety instead of SP but this is still a great discipline for Ninja.  Her one question mark will be the element, as she is Earth.  Abyss 4 has not been revealed yet (10/16/25 as of writing) but there is a strong suspicion it will be a Wind element dungeon, and that is bad for Earth characters.
@@ -85,7 +87,7 @@
     
     So how is it as an inherit?  While it does suffer some damage loss and lose the ability to charm it still easily out performs HA 3 for the same SP cost.  Inherit this on a bow wielding Fighter or Thief = profit.  How about on the MC as Ninja with his own Kunai?  This skill gets even uglier at level 3 as even inherited it keeps pace with the HA5 damage bonus.  God forbid you go Mody Dick mode and get 2 Gacha Kunai for a total of x12 hits value of damage on Yuzu or a different Ninja.
 
-    Seriously "Thousand Hue Blossom" is a fantastic skill on Yuzu, and really really good as an inherit.  This skill alone is enough to make this banner something any player should consider.  The only problem is that it is ranged only.  Maybe if we all submit bug reports and claim it should have worked on melee Drecom will cave and change it?  It wouldn't be the first time...
+    Seriously "Thousand Hue Blossom" is a fantastic skill on Yuzu, and really really good as an inherit.  This skill alone is enough to make this banner something any player should consider.
 
     What about her uninheritable unique skill "Foxfire Assault"?  Well one it has a cool as hell name, but is it a good skill?  Lets break down the wall of text game descprition.
     
@@ -97,9 +99,7 @@
 
     ...
 
-    She could have been male for slightly more meta trait bonuses?  She can't use a two hander?  I don't know what you want me to say?  Oh wait there is one thing... other Abyss Guides for this wiki have advised me she is low tier on the Panty tier list due to the black color.  That's definitely a let down.
-    
-    But seriously her skills are awesome and she is now easily the best Ninja in the game.  She doesn't even really need any special inherits you wouldn't want to give to any other Ninja.  Drecom knew exactly what they were doing this time and they delievered a great character that has a very clear DPS and CC role synergy that can work well in both manual and auto play.  Also yeah, her design is great I can't lie.  They did the anniversay character reveal right with Yuzunamiki.
+    I am updating this section to say... yeah not really anything.  Sorry.  Yuzu simply gets one of (if not the) best DPS skills in the game with Hue.  Her banner gacha Kunai is definitely worth getting, it is still the best kunai in the game easily 6 months later.  Her design is cool and her class change was ok with a nice design too. She doesn't really need much investment either.  Just a good kunai (preferably her gacha kunai "hairpin"), good ninja gear, some scrolls/extra pulls to level hue to 3-5, and basic inherits you would give to any physical attacker.  She isn't even really bothered by being Disc 0, though a couple discipline levels wont hurt.
 
 ??? info "Shiro's Analysis"
 
@@ -121,9 +121,11 @@
 
 ??? note "Karkarov's Pull Plan"
 
-    This is a simple question.  Do you like Ninja's?  If yes, you need to pull on this banner.  Yuzu is the clear queen of the ninja class now, and as of writing this (10/16/25) her gacha Kunai even at 1 star white is not only the best Kunai in the game... it's the best one hand weapon in the game.  Even a brand new player should consider pulling here as she can be a great long term party member option, you wont be in abyss 1/2 forever.  The only reason you would not pull on this banner is you just have no gems and refuse to spend, or you hate the Ninja class.  If so fair enough, hate Ninja's = pass on this banner.
+    Updated 4/9/26 
+    
+    This is a simple question.  Do you like DPS (who cares about Ninja)?  If yes, you need to pull on this banner.  Yuzu continues to be the best Ninja in the game, is probably the best Ranger now too, and her gacha Kunai even at 1 star white is stil the best Kunai in the game by a wide margin.  Even a brand new player should consider pulling here as she can be a great long term party member option, and will likely delete most things in early game with hue even at leve l with a store bought kunai.  The only reason you would not pull on this banner is you just have no gems and refuse to spend real money, or you already got all you needed off her original banner run.  If so fair enough.
 
-    My advice?  Pull 3 copies of Yuzunamiki.  1 to use, 2 to level her "Hue" skill to level 3.  If you can justify it, get a Kunai too.  Even at just 1 copy she can be a great unit, a great inherit, or a big boost to your auto farming party.  She is definitely getting slotted into my team.
+    My advice?  Pull at least enough to get 1 copy of the character and 1 hairpin.  Even at just 1 copy she is a great unit, or a great inherit.  She was slotted into my team on her original run, and other than a few specific situations (like Abyss 4 GWO) she has pretty much stayed there and I dont see that changing.  She is as close as this game game has gotten to a must pull unit.
 
 ??? note "Lynd's Pull Plan"
 

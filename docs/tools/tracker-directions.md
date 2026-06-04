@@ -1,20 +1,37 @@
 !!! warning "Work In Progress"
-    - This is a new page and under review. Important information may change or be revised. 
-    - Contains spoilers for the later Abysses. 
     - Ctrl + F5 to refresh the page for new updates.
 
 ## Overview 
 
 ### Basics
 
-- Each Abyss has a small number of map chests and Guild request rewards that can respawn. The game uses a hidden cooldown timer and when it reaches zero ("cd = 0") the item will respawn and can be collected again.
-- The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does not use a universal cooldown timer that resets items on the first of the month or a specific day of the week. 
-    
-### Respawn Intervals 
+=== "What is it?" 
 
-- Most items respawn monthly [30 days]. They have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
-- Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
-- We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
+    - Each Abyss has a small number of map chests and Guild request rewards that can respawn after a certain amount of real-world time has passed. The game uses a hidden cooldown timer. When it reaches zero ("cd = 0") the item will respawn and can be collected again.
+    - The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does -not- use a universal cooldown timer that resets items on the first of the month or on a specific day of the week. 
+    
+=== "Respawn Intervals" 
+
+    - Most items respawn monthly [30 days]. They have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
+    - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
+    - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
+
+=== "Abbreviations" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
+    | Term | Abbreviation | 
+    |:-|:-|
+    | The Beginning Abyss    | A1 |   
+    | Port Town Grand Legion &emsp; &emsp; &emsp;| A2 |     
+    | Impregnable Fortress   | A3 |     
+    | Deepsnow Hinterlands   | A4 |   
+    | Adventurer's Remains   | Bones |     
+    | Cooldown               | cd    |     
+    | Cursed Wheel           | CW    |   
+    | Greater Warped One     | GWO   |     
+
+    </div>
 
 ### Forced Respawning 
 
@@ -24,19 +41,6 @@
         - The game does not consistently respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
         - The "Fresh Start" CW node serves as a univeral reset button. It can respawn respawn map chests, fix broken flags, or resolve minor bugs. 
         - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
-
-    === "Abbreviations" 
-    
-        | Term | Abbreviation | 
-        |:-|:-|
-        | The Beginning Abyss    | A1 |   
-        | Port Town Grand Legion | A2 |     
-        | Impregnable Fortress   | A3 |     
-        | Deepsnow Hinterlands   | A4 |   
-        | Adventurer's Remains   | Bones |     
-        | Cooldown               | cd    |     
-        | Cursed Wheel           | CW    |   
-        | Greater Warped One     | GWO   |     
     
     === "Troubleshooting"
     
@@ -45,7 +49,7 @@
         - The cooldown timer has not yet reached zero ("0"). 
             - If you are not using the Respawn Tracker tool or recording the dates and times in Excel, Notepad, etc. then it is likely you may be overestimating the amount of time that has passed. 
             - Wait a few more days and try again. 
-        - The steps in the Respawning Guides need to be completed exactly as written.
+        - Do the steps in the Respawning Guides exactly as written.
         - A recent maintenance update has reset the cooldown timers or disabled them. 
         - Your game is bugged and you may want to consider sending an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom so it can be investigated. This would be in an extreme situation where an item has not respawned after 30 to 60 days. 
     
@@ -72,8 +76,7 @@
             - CW twice on "King's Arrival" or the final node of your most recently cleared Abyss. 
             - You can also Harken to Floor 8 and reverse the two closest stones.  
         - Catacombs 
-            - The Catacombs is bugged. 
-            - The monthly bone chest will not appear on your mini-map. You have to traverse the entire floor, do the candle puzzle, and check to see if it respawned. 
+            - The Catacombs bugged appears to be fixed and the chests in the locked room should now show on the mini-map when you enter. 
 
 ??? note "Map Chests - A2 Only"
 
@@ -101,21 +104,51 @@
             - If nothing you are doing is working, then you can CW to A1 and "Leap" to "Awakening". 
             - You will have to go through the entire tutorial area again, which can take 10 to 15 minutes. 
 
-??? note "Important Requests"
+??? note "A4 Berry Bone"
+
+    === "Requirements"
+
+        - Shortcut knowledge from R7. Requires clearing GWO 4-1. 
+        - Stonefolk reversal power. Requies clearing GWO 4-2 and doing the first part of Iris's personal request. 
+
+    === "Guide" 
+
+        - Go to the Ruins and select the CW.
+        - Use the arrows at the top of the screen to toggle left to A1. 
+        - Select "Fresh Start" and then "Leap".
+        - Fastest dialogue options are "No problem" and "Do nothing".
+        - Returns to the Ruins, use the arrows at the top of the screen to toggle right to A4. 
+        - Select "Minor Harken Beyond the Blizzard" and then "Leap". 
+        - You will zone in at the Route 5 Harken. Go right and enter Route 6. 
+        - Immediately head to the right and go through the shortcut. 
+        - Head north and reverse the blizzard zones along the way. The Null Shadow will appear. Exit the blizzard zone to despawn him. 
+        - Speak with Iris and accept the berry collection request. 
+        - Warning! If you collect any berries on your way to the berry patch the bone will not spawn.
+        - Go back the way you came and reverse the Stonefolk blocking the berry patch. 
+        - Interact with all 5 berry patches. The last one will trigger a chest with the monthly bone. 
+        - Return to the Route 5 Harken to exit. 
+
+    === "Potential Bug"
+
+        - Several Discord member have reported this bone not appearing even after 30 days have passed. 
+        - Leaping to "Awakening" versus "Fresh Start" can sometimes fix stubborn or broken flags. 
+        - If you continue to have problems we encourage you to send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom so a staff member can investigate your account. 
+        
+??? note "Important Requests - Faction Rewards"
 
     === "Guide" 
         - These steps are for the Important Request faction rewards for defeating a GWO. 
         - Go to the Ruins and select the CW.
         - Use the arrows at the top of the screen to toggle left or right to your desired Abyss.
         - Go to the second node and toggle ("Client") your desired faction. 
-        - Do NOT Leap at this point. 
+        - Do -not- Leap at this point. 
         - Scroll down to the second-to-last node.
             - A2 - Arena Round 5
             - A3 - Fortress 3rd Floor Arrival
             - A4 - Truth of the Beautiful Ore     
         - "Leap" to this node.
         - Go through the required steps to reach and defeat the GWO, which may require some Abyss traversal. 
-        - The ending sequence cannot be skipped or speed up.
+        - The ending sequence cannot be skipped or sped up.
 
     === "Ending Requirements"
         - A2 you will receive the Important Request reward killing Melgina or Octoranus. 
@@ -124,9 +157,6 @@
             - The "Good" endings are faster than the "True" endings since the GWO is easier to defeat.
 
     === "Cursed Wheel Settings" 
-
-        === "A2" 
-            - Coming soon.
 
         === "A3" 
             - Requirement: Overall Abyss corrosion level of 8 for the Blackmail Ending (GWO 8).
@@ -147,7 +177,7 @@
 
 ## Other
 
-??? warning "Cooldown Formula" 
+??? note "Cooldown Formula" 
 
     - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations. 
     - Minimum Number of Days
@@ -163,14 +193,30 @@
 
 ??? note "Fixed Cooldown Items" 
 
-    - A1, Floor 8: Nourishing Draught x3 - Every 24 hours. A great resource for new players to build a stock early on for challenging floors and bosses. 
-    - Bone Picker Bone and Tallow: Every 7 days. It operates on a similar cd timer as the Ancient Mausoleum Tallow whose cd timer is visible.
-    - Enemy Chest Bone: Every 7 days. The drop will overwrite whatever was previously going to be in the chest, including relics and unique gear.
+    === "Nourishing Draught x3"
+        - 2 Locations:
+            - A1, Floor 8. (X:19, Y:12).
+            - A3, Zone 2. (X:4, Y:15) 
+        - The A1 chest is every 24 hours. The A3 chest can take 24-36 hours.  
+        - The A1 location is a great resource for new players to build a stock early on for challenging floors and bosses. 
+
+    === "Bone Picker" 
+        - Every 7 Days. 
+        - Sells 1x Bone and 1x Tallow. You have to encounter him twice per week for both items.  
+        - Costs Gold to purchase. Price increases based on Abyss progression. 
+        - Can appear on any floor in an Abyss. Will never appear in side dungeon. 
+        - Spamming the A2 Pier (Floor 7) is a fast way to get him to appear.  
+        - Operates on a similar cd timer as the Ancient Mausoleum Tallow whose cd timer is visible.
+
+    === "Enemy Chest Bone" 
+        - Every 7 days. 
+        - Can come from -any- enemy chest drop, including super bosses. 
+        - It it appears it can overwrite unique gear drops. This may have been recently patched. Under investigation. 
 
 ### Contact
 
 - For respawning items you have discovered that are not listed on the Respawn Tracker page please contact @nrjank on the Discord.
-- For questions, comments, or corrections to this page please contact @lightbearer on the Discord.
+- For questions, comments, or corrections to this page please contact @Lightbearer on the Discord.
 - Discord link [here](https://discord.gg/y7HZRvxD). 
  
 

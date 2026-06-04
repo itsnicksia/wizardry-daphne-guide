@@ -547,12 +547,12 @@ Goetia -> Admiral Route
 
 - Complete all three important request routes (Princess, Pontiff, and Admiral). You will also need to have to sabotaged the Vernant fight via Pickerel replacing his potion with onion soup in a different route.
 - Wheel back to Round 3 Pontiff and talk to the goblin so you can see that you're fighting Pickerel.  
-- Go to x and find him at the location in the image to overhear him talking to the head chef  
-- Speak with the head chef and he’ll tell you where to pick up the ingredients to make the soup  
-- Head to Valeon Grasslands and you’ll see a slave that runs away, just run a bit forward and you’ll see him on a hill then talk to him  
-- Follow the slaves instructions to get to the poison swamps  
-- Fight the bird and kill it  
-- Use your right hand to restore the bird nest then head to the eggs left of the nest to restore them and head out by using the cart  
+- Go to the spot with the check mark in the "Pickerel's Location" map below, and listen to him talking to the head chef.  
+- Speak with the head chef and he’ll tell you where to pick up the ingredients to make the soup.  
+- Head to Valeon Grasslands and you’ll see a slave that runs away, just run a bit forward and you’ll see him on a hill then talk to him.  
+- Follow the slaves instructions to get to the poison swamps.  
+- Fight the bird and kill it.  
+- Use your right hand to restore the bird nest then head to the eggs left of the nest to restore them and head out by using the cart.  
     
 ??? map "Pickerel's Location" 
     ![](img/image_66.jpg)
@@ -563,7 +563,7 @@ Goetia -> Admiral Route
     ![](img/lock-vernant-up.jpg)
 
 - Beat Vernant twice, once where he has his herbs and once where you've swapped them out
-- Complete the Monster Bird Soup request
+- Complete the [Monster Bird Soup](requests.md#monster-bird-soup) request
 - Wheel back and complete [Pickerel's Report](requests.md#pickerels-report) again
 - Once you report back to Pickerel, you will have a new dialog option to trick Vernant and lock him away
 - (Optional) Find the first merchant in the 2nd District (room immediately north of the mermaid statue you see when you enter). ~~You will have to disable the current to get there.~~
@@ -588,8 +588,12 @@ Goetia -> Admiral Route
 ??? info "Holly Location"
     ![](img/image_68.jpg)
 
-- Expose Marin as the warped one and defeat her.   
-- Marin can at any location with an NPC icon on the minimap. If you talk to people, they will point you to where she went.
+- Expose Marin as a warped one and defeat her.
+    - After talking to the Head Cook, NPCs will appear at different locations around the floor. You can talk to each one, ask details about the murder, and "accuse them" by striking them with the holly. Some NPC will hint that the singer Marin is the murderer and/or point you toward the correct room.
+    - You only get 2 pieces of holly, and they can only be used once each. If you guess wrong both times you will be surprised and killed by Marin, and have to use a Flame or Accept Death. Using a Flame gives you 1 piece of holly to try again.
+    - Marin can only appear at few of the NPC icon locations on the minimap.  She will only be in a room by herself, sometimes underwater. In those cases you should use the statue to drain the room first.
+    - Marin's warped one form os a unique Knight Butcher Ent with typical attacks and about 6-7k HP.
+    - If none of the NPCs are Marin, then the NPCs will point you toward the empty murder room. Lowering the water will cause Marin to appear in Warped One form behind you. It is unclear if this can happen the first time attempting this request or if that grants you the knowledge that Marin is the murdered.
 
 ### Gathering Sahuagin Scales
 

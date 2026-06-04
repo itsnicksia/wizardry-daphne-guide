@@ -40,7 +40,26 @@ For the first time since her birth, she found herself encircled by the villagers
 
 Night after night, Linaria struck the strings of her lute. The people rejoiced. Adored and lauded by all, Linaria stood upon the heights of bliss. It was on the seventh night that the change began.
 
-### Page 4
+### Page 4  
+The innkeeper, who had been clapping along as he listened to the lute, stabbed the woman beside him with a fork, laughing all the while. The young woman, from whom Linaria had once stolen that fine pair of shoes, turned upon her own fiance and struck him, a look of pure joy upon her face.  
 
+The villagers fell upon one another-beating, stabbing, strangling, and crushing. Immersed in the tones of the lute, they seemed utterly enraptured, as if they wehaving the time of their lives. Though Linaria stilled her hands, the lute continued to play on of its own accord. Voices that could be taken for either shrieks of terror or roars of applause echoed throughout the village, all muddled into a great cacophony. Once every soul save for Linaria lay perfectly still, the lute's melody at last came to an end.
 
+Her parents, who had cherished the little outcast-her grandparents, who had been her constant protectors-Linaria stood motionless before their lifeless bodies, unable to look away. From within the depths of the lute, the spirit manifested once more, its face breaking into a vile grin for Linaria.
 
+"I must render thee my thanks for these many sacrifices. It is that which has allowed me to walk free once more." And with that, the spirit and the lute itself, vanished as if they'd never been.
+
+The sole survivor in a village of the dead, Linaria turned her back on her home and set out on a journey. Her path led her in search of the elderly mage, the man who had first carried that cursed lute into her life.  
+  
+### Page 5  
+In the course of her journey, she obtained a proper lute, free of any spiritual influence, and busked in taverns to pay her way. At long last, she finally cornered the old mage, demanding the truth about the instrument.  
+
+"That lute was bound to a demon-it was the lute of the demon. It was you who were played by him, to his own ends."  
+
+The demon would fill the air with hauntingly beautiful melodies, and any who might listen paid with their very lives. The mage had been on a journey to exorcise the demon bound to the lute, but once the instrument had been stolen from him, he chose to wash his hands of the matter entirely.  
+
+"If you hadn't brought that lute with you, none of this would've happened!"  
+
+Rousing the mage into action, Linaria forced him to accompany her on a quest to hunt down and destroy the demon. The duo made their way across the land, bickering incessantly. So they traveled from place to place, Linaria playing her lute and singing the tale of her doomed village and the demon of the lute to gather information.  
+
+The ballad of 'The Doomed Village and the Demon of the Lute' remains in every corner of the continent. Yet, within a single frontier village to the south, the verses of 'The Demon of the Lute and Its Undoing' are the only ones passed down. And so it is said by poets of old that in those distant frontiers, the wandering minstrel finally brought the demon to its knees.  

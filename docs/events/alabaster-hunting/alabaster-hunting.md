@@ -1,7 +1,4 @@
 # Alabaster Hunting
-
-!!! warning "Work in Progress"
-    - Ctrl + F5 to refresh the page for new updates
     
 ### Unlock Condition 
 

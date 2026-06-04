@@ -1,5 +1,5 @@
 nav:
-  - Adventurer Quicklist: './adventurer-quicklist.md'
+  - Adventurer Quicklist: './quicklist/adventurer-quicklist.md'
   - Legendary Adventurers:
     - Adventurer Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
     - Abenius:
@@ -17,6 +17,9 @@ nav:
     - Alice:
         - Details: './legendary-adventurers/details/Alice.md'
         - Life Story: './legendary-adventurers/life-stories/Alice.md'
+    - Anemone:
+        - Details: './legendary-adventurers/details/Anemone.md'
+        - Life Story: './legendary-adventurers/life-stories/Anemone.md'
     - Arboris:
         - Details: './legendary-adventurers/details/Arboris.md'
         - Life Story: './legendary-adventurers/life-stories/Arboris.md'
@@ -91,6 +94,7 @@ nav:
     - Lanavaille - Unnamed Request: './legendary-adventurers/legendary-requests/lanavaille/lanavaille-request.md'
     - Alice - Preparation of an Offering to My God: './legendary-adventurers/legendary-requests/alice/alice-request.md'
     - Gerard - Visit to My Homeland: './legendary-adventurers/legendary-requests/gerard/gerard-request.md'
+    - Abenius - Accompany Me to the Old Temple in My Homeland: './legendary-adventurers/legendary-requests/abenius/abenius-request.md'
   - General Adventurers:
     - Alex:
         - Details: './general-adventurers/details/Alex.md'
@@ -113,6 +117,9 @@ nav:
     - Bugen:
         - Details: './general-adventurers/details/Bugen.md'
         - Life Story: './general-adventurers/life-stories/Bugen.md'
+    - Camille:
+        - Details: './general-adventurers/details/Camille.md'
+        - Life Story: './general-adventurers/life-stories/Camille.md'
     - Chloe:
         - Details: './general-adventurers/details/Chloe.md'
         - Life Story: './general-adventurers/life-stories/Chloe.md'

@@ -20,7 +20,7 @@ The Grade Exam can also be passed by purchasing the corresponding Grade Marker f
 - Boss is undead. Bring undead slayer weapons if possible, or a lot of magic scrolls.  
 - Boss sometimes skips turn.  
 - Boss only has 2 moves, both attack 1 unit on the front row. 1 is a multihit, 1 is a normal hit. Not really threatening, just heal up after.
-- Defrnding for "Openings" is a viable strategy.
+- Defending for "Openings" is a viable strategy.
 - Running away from the fight will reset the additiona enemies he starts the battle with. You can use this to your advantage and keep running away until he spawns with only Vorpal Bunnies, as they can be killed very quickly and easily.
 
 ## Bronze Exam

@@ -58,7 +58,7 @@ def define_env(env):
                 name = row['Name']
                 rarity = row['Rarity'].strip().lower()
                 name_slug = name.replace(' ', '-')
-                return f"[{name}](./{rarity}-adventurers/details/{name_slug}.md)"
+                return f"[{name}](../../adventurers/{rarity}-adventurers/details/{name_slug}.md)"
             results['Name'] = results.apply(linkify, axis=1)
 
         return results[return_columns]
@@ -143,7 +143,7 @@ def define_env(env):
 
         # add linebreak to long title columns
         eqdata.rename(columns={'Compendium Number': 'Compendium<br>Number'}, inplace=True)
-        eqdata.rename(columns={'Enhance level': 'Enhance<br>Level'}, inplace=True)
+        eqdata.rename(columns={'Enhance Level': 'Enhance<br>Level'}, inplace=True)
 
         # insert blank spacer rows
         if itemcount > 1:
@@ -171,6 +171,13 @@ def define_env(env):
                      + '(./skills-and-spells.md#' \
                      + df['Name'].str.replace(' ', '') + ')'
         return df
+
+    @env.filter
+    def sort_mixed_values(df, sortcol):
+        df = df.sort_values(by=sortcol, key=lambda col: pd.to_numeric(col, errors='coerce'))
+        return df
+
+
 
 def on_post_page_macros(env):
     # Prints rendered markdown to debug_output folder in root of project folder

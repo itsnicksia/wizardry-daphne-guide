@@ -11,7 +11,7 @@
 
 | **Term** &emsp;  &emsp;                   | **Definition** &emsp;                                                                                                                                                     |
 |:-----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Innate Attributes  &emsp;  &emsp;     | Stats that are inherent to a piece of equipment at +0 such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.                                      |
+| Innate Attributes      | Stats inherent to a piece of equipment before any special blessings are applied, such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.           |
 | Blessings              | Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".                                       |
 | Grade                  | The color of the gear that corresponds to the number of Blessings. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.                                                                      |   
 | Rank (Tier)            | Item material such as Bronze, Iron, Steel, etc. that determine the size of the innate attributes. Commonly referred to as "Tier".                                                            |
@@ -28,7 +28,7 @@
 === "Terminology - Equipment Screen"
 
     <div align="center">
-    ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
+    ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment_new.jpg)
     </div>
 
 === "Blacksmithing Video Tutorial"
@@ -229,7 +229,7 @@
     | Percent (%)                                         | 2-5 | 4-10  | 7-16 | 12-21 | 15-26 |
     | ASPD                                                | 2-4 | 3-7   | 5-12 | 7-16  | 9-20  |
     | ASPD%                                               | 2-3 | 3-7   | 6-12 | 9-16  | 12-19 |
-    | SUR                                                 | 2-3 | 3-6   | 4-7  | 5-10  | 6-12  |
+    | SUR                                                 | 2-3 | 3-6   | 4-7  | 5-11  | 6-13  |
 </div>
 
 <!-- PREVIOUS Note
@@ -246,18 +246,35 @@
 
 ## Unify
 
-- Unification is the process of increasing the Strength of an item to increase its allowable enhancement limit.
+- Unification is the process of increasing the Strength of an item to increase its allowable enhancement limit by 'unifying' it with <em>identically named</em> items. Those items don't need to be enhanced in any way, and are consumed in the process.  
 
 ??? note "Unification Visual Guide" 
     <div align="center">
     ![](img/unifying-equipment.jpg)
     </div>
 
+- Update March 2026: Unification no longer needs to be done step-by-step from 1 to 2 to 3, you can now select as many items as you want to 'feed' into the item being strengthened.  
+    - The total item count still works the same (27 items unified produces a single Strength 3 item)
+    - For example: you can take an item from Strength 0 to 2 by unifying it with 8 other items (for a total of 9 including the improved item) all in one unification step.
+- Items can now be 'partially' strengthened:
+    - Only feeding an item 7 other items will leave it at Strength 1 and 5/6 of the way to Strength 2.
+    - It will stay this way until unified with one more item, at which point it will become Strength 2.
+    - Many players regularly enhancing equipment to +20 deliberately use 26 'unification fodder' items to build up a stock of "Strength 2 (17/18)" items ready to take a good base item right to Strength 3.
+    - Such fodder items only take 1 storage slot instead of the 6 slots previously needed to quickly +20 an item.
+
+!!! warning "There is NO 'partially unified' visual indicator"
+    
+    - A "Strength 2 (0/18)" item looks identical to a "Strength 2(17/18)" item, despite one being a lot more value than the other.
+    - The unification screen would let you select either of those items for use with 2 other Strength 2 items to make a Strength 3 item.
+    - The game will provide zero indication that you're 'over-unifying' the item. Selecting the wrong one will wasted those unified fodder items.
+    - This might not matter for a shop-bought helm, but could be quite frustrating for painstakingly acquired rare items.
+    - Drecom will not restore lost items from such user-error no matter how much you beg.
+
 ## Extract
 
-- Only weapons, armor, and accessories that have a Blessing can be extracted. The extraction process can yield an Alteration Stone, Refinement Stone, Refinement Stone Fragment, or nothing.
-- The type of stone extracted is randomly selected from one of the Blessings on the piece of equipment. 
-- Refinement stone fragments can be redeemed for Refinment Stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each.
+- Equipment that has one or more Blessings can be "extracted". The extraction process <em>destroys the item</em> and can yield an Alteration Stone, Refinement Stone, Refinement Stone Fragments, or nothing.
+- The type of stone extracted is randomly selected from one of the Blessings on the piece of equipment. Current estimates put extraction liklihood at about 20% per Blessing.
+- Refinement stone fragments can be redeemed for Refinment Stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each for a 3* equivalent stone.
 
 ### ^^Alteration and Refinement Stone Values^^
 
@@ -326,7 +343,7 @@ Using a SECOND FAS on the same item repeats the process - it will again re-roll 
 
 As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls the stats but does not apply re-apply Milestone Blessings. They drop more frequently than Full Alteration Stones, but are still quite rare. 
 
-It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
+It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring with <em>fixed blessing types</em>, so using a LFAS or FAS just rerolls the values - and FAS adds an bonus Blessing - but doesn't change the blessing types.) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
 
 ## Composite Reinforcement  
 

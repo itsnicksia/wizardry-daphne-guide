@@ -8,6 +8,7 @@
 **Gender**: {{ chardata['Gender'] }}  
 **Type**: {{ chardata['Type'] }}  
 **Personality**: {{ chardata['Personality'] }}  
+**Bondmate Trait**: {{ chardata['Bondmate Trait'] }}  
 **Starting Class**: {{ chardata['Primary Class'] }}  
 {%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
 {%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
@@ -25,7 +26,7 @@
     <div class="nofilter-table nosort-table char-traits-table" markdown>
     {{ populate_quicklist(file='adventurers.csv', return_columns=['Strength2','IQ2','Piety2','Vitality2','Dexterity2','Speed2','Luck2'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
     </div>
-{% endif %}
+{% endif %}  
 
 {% block PortraitSection %}
 

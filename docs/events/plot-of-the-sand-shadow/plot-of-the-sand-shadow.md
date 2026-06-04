@@ -9,6 +9,8 @@
 
 ## Guide for 1st Part:
 
+!!! warning "Leaving the cave at any time during the mission will result in the bad ending of not reaching the room in time"
+
 1. Start in the Royal Capital and accept the quest "Paulownia Box Recovery"
 2. Head to Sand Shadow Cave and begin exploring.
 3. There will be a poison path that initiates dialogue with Lulunarde. You must cross over the poison path. Keep heading over a few poison tiles and fight the ninjas you see. The dialogue option here does not matter. Press forward to the staircase at the top left of the map.
