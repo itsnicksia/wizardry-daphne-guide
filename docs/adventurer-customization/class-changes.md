@@ -10,7 +10,7 @@ Yes, you keep all the active and passive skills that you've learned from that cl
 No you don't need to be the specific class of passives that are in parantheses. Parantheses indicate origin of where the passive came from. Angled brackets indicate that is limited to specific classes.
 
 ## Can I Class Change Back?
-Your main character can freely change between classes that you have unlocked and activated in the Well of Mind. Summonable characters on the other hand cannot freely change back to a previous class. You either need to use a special item called a class change request, or use a class change book corresponding to the character's original class. Yes, you have to buy another class change book to change a character's class back and it's a different handbook. Class change requests are given for free during class change events or purchased from certain limited packs from the jeweler.
+Your main character can freely change between classes that you have unlocked and activated in the Well of Mind. Allies on the other hand cannot freely change back to a previous class. You either need another class change book corresponding to the character's original class, or a special item called a class change request that lets you change back to a previous class. Again, <em>yes</em>, you have to obtain or buy another class change item to change a character back to a previous class, and for handbooks it's a different handbook than you used to change the first time (the name of the book tells you the class you can use it to change <em>to</em>. Class change request items are given for free during class change events and purchased from certain limited packs from the jeweler.
 
 ![](img/classChangeConfirmationMenu.png)
 
