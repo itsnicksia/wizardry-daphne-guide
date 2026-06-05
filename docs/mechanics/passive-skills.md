@@ -179,6 +179,14 @@
     - Defense is not added until Level 3, which is not how it is described in the passive description. You gain an additional 10 DEF at Level 5 and Level 7.  
     - If building a long-term Knight, the main thresholds are at Level 3 (25% proc rate) and Level 5 (30% proc rate). Taking the skill to Level 6-7 becomes extremely expensive for only an extra 5% gain. 
 
+=== "Cover Defense" 
+
+=== "Magic Guard" 
+
+=== "Recovery"
+
+=== "Unyielding Will to Fight" 
+
 === "Way of the Knight" 
 
     === "Skill Levels"
@@ -246,6 +254,19 @@
     
     </div>
 
+=== "Trap Disarm Master's Resolve" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |               | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |---------------|-----|-----|-----|-----|-----|-----|-----|
+    | Proc Chance % &emsp; &emsp; &emsp; &emsp; | 20% | 25% | 30% | 35% | 40% | 45% | 50% |
+    
+    </div> 
+
+    - Borderline usefulness in A3 if your primary chest opener is struggling and getting Traphophobia frequently. 
+    - Based on testing through Level 4 it seems like a flat +5% per level. 
+
 === "Way of the Thief" 
 
     <div class="nofilter-table nosort-table" markdown>
@@ -272,6 +293,7 @@
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
     | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Resistance Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
     
      </div>
 
