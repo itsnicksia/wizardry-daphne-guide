@@ -150,6 +150,16 @@
     
      </div>
 
+=== "Data Accuracy Note"
+
+    - The Knight class has the largest number of passives that scale off of Luck. Passives with a proc chance % that scale off of a Trait are the most difficult to test. 
+    - We have confirmed that all proc-based skills and passives have two parts.
+        - Base % when Trait = 0 
+        - Scaling % linked to a specific Trait
+        - Actual % = `[Base %] + [Scaling %]`
+    - For testing we used low Luck units to approximate the Base %, which is what you see in the tables. Your actual rates will be higher, view these as minimum values. 
+    - We are in the process of collecting more data and deriving a Luck scaling formula per level, which will be added in the future.  
+
 === "Assault Guard" 
 
     <div class="nofilter-table nosort-table" markdown>
@@ -181,11 +191,59 @@
 
 === "Cover Defense" 
 
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6 | Lv7 |
+    |--------------------|-----|-----|-----|-----|------|-----|-----|
+    | Base Proc Chance % &emsp; &emsp; &emsp; &emsp; | 5%  | 6%  | 8%  | 9%  | 12%  | 14% | 18% |
+
+    </div>
+
+    - The values in the table are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %. 
+    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula. 
+    - Note: The base proc chance % is nearly identical to Unyielding Will to Fight. We suspect that they are using the same formula. 
+
 === "Magic Guard" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:-------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Magic Defense &emsp; &emsp; &emsp; &emsp;      |  10 | 2 (12) | 3 (15) | 2 (17) | 3 (20) | 2 (22) | 3 (25) |
+
+    </div> 
+
+    - Heavy Armor and Heavy Shield only. 
+    - Effect is per piece of equipment and stacks. 
 
 === "Recovery"
 
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |--------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Base Proc Chance % &emsp; &emsp; &emsp; | 15% | 18% | 23% | 26% | 31% | 35% | 40% |
+
+    </div> 
+    
+    - Values are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %.
+    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula.
+    - The Knight Trial exchange shop has 1 skill scroll (100 EXP). Strongly suggesting using it on MC. 
+
 === "Unyielding Will to Fight" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6 | Lv7 |
+    |--------------------|-----|-----|-----|-----|------|-----|-----|
+    | Base Proc Chance % &emsp; &emsp; &emsp; &emsp; | 5%  | 6%  | 8%  | 9%  | 12%  | 14% | 18% |
+
+    </div>
+
+    - The values in the table are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %. 
+    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula. 
+    - Inherited from Eulalia. 
+    - Note: The base proc chance % is nearly identical to the passive Cover Defense. We suspect that they are using the same formula. 
 
 === "Way of the Knight" 
 
@@ -765,7 +823,7 @@
 
     |                                | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    |
     |:-------------------------------|-----|--------|--------|--------|--------|--------|
-    | HP Recovery                    | 6   | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
+    | HP Recovery &emsp;  &emsp; &emsp; &emsp; | 6   | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
     
     </div> 
 
@@ -778,7 +836,7 @@
     |                       | Lv1 | Lv2  | Lv3   | Lv4    | Lv5    | Lv6    | Lv7    |
     |:----------------------|-----|------|-------|--------|--------|--------|--------|
     | Detect Up             | 2   | 2 (4)| 4 (8) | 4 (12) | 4 (16) | 4 (20) | 4 (25) |
-    | Ambush Nullification &emsp; &emsp; &emsp; | 33% | 36%  | 41%   | 45%    | 50%    | 54%    | 60%    |
+    | Ambush Nullification &emsp; &emsp; &emsp; &emsp; | 33% | 36%  | 41%   | 45%    | 50%    | 54%    | 60%    |
     
     </div>
     
@@ -789,7 +847,7 @@
     |                       | Lv1 | Lv2   | Lv3   | Lv4    | Lv5   | Lv6    | 
     |:----------------------|-----|-------|-------|--------|-------|--------|
     | Detect Up             | 1   | 1 (2) | 2 (4) | 2 (6)  | 2 (8) | 2 (10) | 
-    | Ambush Nullification &emsp; &emsp; &emsp;  | 16% | 19%   | 23%   | 26%    | 31%   | 35%    | 
+    | Ambush Nullification &emsp; &emsp; &emsp; &emsp;  | 16% | 19%   | 23%   | 26%    | 31%   | 35%    | 
     
     </div>
 
