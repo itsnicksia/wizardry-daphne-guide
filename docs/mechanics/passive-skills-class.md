@@ -267,7 +267,7 @@
     
      </div>
 
-    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
+    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](###chest-opening). 
 
 === "Calm Mind Technique" 
 
@@ -688,6 +688,104 @@
 ### Healer
 
 - Forthcoming. 
+
+## Deep Dive
+
+### Chest Opening
+
+- The 2 primary passives related to chest opening are Treasure Trap Detection Skill (Bakesh inherit) and Treasure Trap Disarm Skill (Jean inherit). They are both learned by the Thief class. 
+- The passives increase the two stats - Find and Disarm - that you see when opening a chest.
+- It takes 32 copies of Jean and Bakesh to max out the passive. It is a significant investment. We suggest you think carefully about who you want to use as your long-term chest opener.
+- The exact in-game terms are used. 
+
+#### Treasure Trap Detection Skill
+
+=== "Skill Levels"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                 | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   | 
+    |:----------------|-------|-------|-------|-------|-------|-------|-------|
+    | Flat Bonus      | 30    | 34    | 38    | 42    | 46    | 50    | 55    |
+    | Multiplier &emsp; &emsp; &emsp; &emsp;       | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+    
+     </div>
+
+=== "Basics"
+
+    - Find Trap: A derived stat (from Detect) used to identify whether a chest contains a trap. If a trap is present and detected, then it will trigger the trap disarm mini-game. If not, then the trap will go off, causing damage or inflicting status effects.  
+    - Detect: Listed on a unit's Stat page. It is the primary input in the Find Trap formula. The Treasure Trap Detect passive modifies the Detect value, which results in the Find Trap number that you see when you open a chest.    
+    - The Treasure Trap Detection Skill at Lv1 provides a significant boost and should be inherited immediately if the unit is not a Thief. 
+    - Only the Thief class is able to reach Lv7. The maximum for other classes is Lv6. 
+
+=== "Formulas"
+
+    - Detect 
+        - `Detect = (IQ x 0.70) + (Luck x 0.30)`
+        - Each class has a different set of [modifiers](./traits-and-stats.md#class-multipliers) for all of the primary Traits, including IQ and Luck. 
+        - The Detect value will change when a unit change's classes even if they are both at the same level. 
+    - Find Trap 
+        - `Find Trap = (Detect x Multiplier) + Flat Bonus`
+        - If the unit does not have the Treasure Trap Detect passive (Lv0), then the multiplier is 1.0 and Detect = Find Trap. 
+
+=== "Example: Lv0"
+
+    - Assumptions
+        - Detect: 50
+        - Treasure Trap Detection Skill Level: 0 (no passive) 
+    - Formula: `Find Trap = (Detect x Multiplier) + Flat Bonus`
+    - `Find Trap = (50 x 1.0) + 0 = 50`
+    - Result: Detect = Find Trap with no passive levels in the skill.
+
+=== "Example: Lv5" 
+
+    - Assumptions
+        - Detect: 50 
+        - Treasure Trap Detection Skill Level: 5
+    - Formula: `Find Trap = (Detect x Multiplier) + Flat Bonus`
+    - `Find Trap = (50 x 1.14) + 46 = 103`
+    - Result: with Lv5 in the passives the MC's Find Trap is twice as large as his base Detect value.
+
+#### Treasure Trap Disarm Skill
+
+=== "Skill Levels" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                 | Lv1    | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    | 
+    |:----------------|-------|-------|-------|-------|-------|-------|-------|
+    | Flat Bonus      | 10    | 12    | 16    | 18    | 24    | 26    | 30    |
+    | Multiplier &emsp; &emsp; &emsp; &emsp; | 1.10x | 1.10x | 1.12x | 1.12x | 1.14x | 1.14x | 1.16x |
+    
+     </div>
+
+=== "Basics"
+
+    - Disarm Trap: Located on the Stats page. Only comes into effect if a trap has been successfully identified. It governs the size of the yellow bars during the chest opening mini-game. 
+    - Treasure Trap Disarm Skill at Lv1 provides a moderate boost and should be inherited to your chest opener if the unit is not a Thief. 
+    - Only the Thief class is able to reach Lv7. The maximum for other classes is Lv6. 
+
+=== "Formula"
+
+    - `Disarm = (Disarm Trap x Multiplier) + Flat Bonus`
+    - The multiplier and flat bonus is based on the level of the passive. 
+    - If the unit does not have the Treasure Trap Disarm passive (Lv0), then the multiple is 1.0 and the flat bonus = 0. 
+
+=== "Example: Lv0"
+
+    - Assumptions
+        - Treasure Trap Disarm Skill Level: 0 (no passive)
+        - Disarm Trap: 50 (from Stats page)
+    - Formula: `Disarm = (Disarm Trap x Multiplier) + Flat Bonus`
+    - `Disarm = (50 x 1.0) + 0 = 50`
+
+=== "Example: Lv5" 
+
+    - Assumptions
+        - Treasure Trap Disarm Skill Level: 5
+        - Disarm Trap: 50 (from Stats page)
+    - `Formula: Disarm = (Disarm Trap x Multiplier) + Flat Bonus`
+    - `Disarm = (50 x 1.14) + 24 = 81`
 
 
 
