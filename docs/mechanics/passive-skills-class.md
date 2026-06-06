@@ -1,1 +1,694 @@
+# Passives Skills: Class
+
+!!! warning "Work in Progress"
+    - This is a brand new page. There will be errors and missing information. 
+    - Ctrl + F5 to refresh. The page is updated regularly. 
+    - If you want to help: 
+        - Leave a comment at the bottom of this page.
+        - Post in the dedicated [Discord](https://discord.gg/CQETxvUW) Forum called Theorycrafting.
+
+## Overview
+
+=== "Table Guide" 
+
+    - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
+    - A blank space means that we have no information on that entry.
+    - A `-` means that nothing is gained at that level. 
+    - L refers to the level of the passive. Lv4 = Level 4. 
+    - Inherits with <span style="color: DarkOrange">Name P</span> refer to Potential inherits. Full list [here](../adventurers/quicklist/adventurer-quicklist.md#__tabbed_1_4).
+    - Inherits with <span style="color: cyan">Name A</span> refer to inherits from an alternative style.
+
+=== "How accurate are the numbers?"
+
+    - Expectation Setting
+        - Drecom does not publicly share any information on exact values or formulas. All data is from dedicated fans across multiple online communities and the unofficial [Discord](https://discord.gg/CQETxvUW).  
+        - Even with perfect data there are going to be errors due to damage variance and RNG. Drecom uses sophisticated formulas, scaling, and weighted variables, which are difficult to parse even with advanced statistical tools. 
+        - This is not a definitive, 100% accurate source and should not be viewed in that way. 
+    - Confirmed 
+        - Any passive that gives a flat stat gain per level. 
+        - Level 1-3 on the vast majority of passives. 
+    - Approximations 
+        - Passives that have % values, proc chances, or scale off a Trait. We are actively working on scaling formulas to fit the collected data. 
+        - Drecom tends to use consistent per level patterns across similar passive families. 
+        - Some passives have no measurable change per level. Those are defaulted to +1 per level and are generally not worth further investment. 
+    - Testing    
+        - Most passives have at least 1-200 observations under controlled conditions. Several passives have 500-1,000 observations. 
+        - Testing is not "kill 10 enemies and call it a day". The community has many dedicated fans that use their free time to collect this information to benefit everyone. 
+        - A special thanks to our high-spending members (whales) that have generously used codexes to take certain skills to Level 7 for testing. 
+
+## Class  
+
+- Class passives that increase a stat follow the same exact progression with a total of 25 at Level 7.
+- For HP, MP, and SP are the same as well with a total of 60 at Level 7.
+- Class passives do not increase Traits, but derived stats.
+- Additional tabs are for passives that effect multiple stats or require a more in-depth explanation.
+
+### Fighter 
+
+=== "Stats"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------|:---------|----|----|----|----|----|----|----|
+    | Accuracy Up     | <span style="color: DarkOrange">Chloe P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Defense Up      | <span style="color: cyan">Chloe A</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+    
+    </div>
+
+=== "Armsmanship" 
+
+    === "1H Weapon" 
+
+        <div class="nofilter-table nosort-table" markdown>
+    
+        |                   | Lv1 | Lv2    | Lv3    | Lv4     | Lv5     | Lv6     | Lv7     |
+        |:------------------|-----|--------|--------|---------|---------|---------|---------|
+        | Accuracy          |  7  | 1 (8)  | 1 (9)  | 1 (10)  | 1 (11)  | 1 (12)  | 1 (13)  |
+        | Action Speed &emsp; &emsp; &emsp; &emsp; &emsp;       |  7  | 1 (8)  | 1 (9)  | 1 (10)  | 1 (11)  | 1 (12)  | 1 (13)  |
+
+        </div>
+
+        - Applies to only Dagger, Sword, Axe, Staff, Blunt, Throwing, Ninjato, and Katana.
+    
+    === "2H Weapon" 
+
+        <div class="nofilter-table nosort-table" markdown>
+    
+        |                   | Lv1 | Lv2    | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+        |:------------------|-----|--------|---------|---------|---------|---------|---------|
+        | Accuracy          |  9  | 1 (10) | 1 (11)  | 1 (12)  | 1 (13)  | 1 (14)  | 1 (15)  |
+        | Attack Power &emsp; &emsp; &emsp; &emsp; &emsp;      |  9  | 1 (10) | 1 (11)  | 1 (12)  | 1 (13)  | 1 (14)  | 1 (15)  |
+
+        </div>
+
+        - Applies to only Sword, Spear, Axe, Staff, Blunt, Bow, and Odachi.
+
+=== "Counterattack" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Proc Chance       | 15  | 2 (17)  | 3 (20)  | 2 (22)  | 3 (25)  | 2 (27)  | 6 (33)  |
+
+    </div>
+
+    - Only procs after successfuly evading an enemy attack. Must be equipped with a close or mid-ranged weapon. 
+    - Table values are the base proc chance and does not include the scaling bonus for Luck. 
+    - Best estimate is that the Luck contribution is Luck/10. 
+
+
+=== "Follow-Up Attack" 
+
+=== "Way of the Warrior"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Damage Modifier &emsp; &emsp; &emsp; &emsp;         | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:-------------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Per Level                | 8%  | 1%  | 2%  | 1%  | 3%  | 2%  | 3%  |
+    | Total                    | 8%  | 9%  | 11% | 12% | 15% | 17% | 20% |
+    
+     </div>    
+    
+    - Damage modifier for basic attacks and skills. 
+    - Only applies when using a short- or medium-range weapon. Does not apply to Bows or Kunais. 
+    - Inherit from:
+         - <span style="color: DarkOrange">Gandolfo P</span>
+         - <span style="color: DarkOrange">Ophelia P</span>
+
+=== "Will to Fight" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7     |
+    |:------------------|-----|--------|--------|--------|--------|--------|---------|
+    | Accuracy &emsp; &emsp; &emsp; &emsp; &emsp;          | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
+    | Evasion           | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
+    | Surety            | 15  | 2 (17) | 3 (20) | 2 (22) | 3 (25) | 3 (28) | 7 (35)  |
+
+    </div>
+    
+    - Activates at or below 50% HP. The HP threshold does not change with higher skill levels. 
+    - Inherited from Olive.
+
+### Knight
+
+=== "Stats"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:------------------|:---------|----|----|----|----|----|----|----|
+    | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60) |
+    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    
+     </div>
+
+=== "Data Accuracy Note"
+
+    - The Knight class has the largest number of passives that scale off of Luck. Passives with a proc chance % that scale off of a Trait are the most difficult to test. 
+    - We have confirmed that all proc-based skills and passives have two parts.
+        - Base % when Trait = 0 
+        - Scaling % linked to a specific Trait
+        - Actual % = `[Base %] + [Scaling %]`
+    - For testing we used low Luck units to approximate the Base %, which is what you see in the tables. Your actual rates will be higher, view these as minimum values. 
+    - We are in the process of collecting more data and deriving a Luck scaling formula per level, which will be added in the future.  
+
+=== "Assault Guard" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:-------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Defense            |  30 | 5 (35) | 7 (42) | 5 (47) | 6 (53) | 4 (57) | 5 (62) |
+    | Duration (turns) &emsp; &emsp; &emsp; &emsp; &emsp;    |   2 |      2 |      2 |      2 |      2 |      2 |      3 |
+
+    </div> 
+
+    - Triggers on an ambush and lasts for 2 turns with an additional turn gained at Level 7. 
+    - Inherited from Barbara. 
+
+=== "Behind Cover" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Proc Chance       | 20% | 3% (23%)| 2% (25%)| 3% (28%)| 2% (30%)| 2% (32%)| 3% (35%)|
+    | Defense (self) &emsp; &emsp; &emsp; &emsp; &emsp;    |  -  |   -    |  10    | - (10)   | 10 (20) | - (20) | 10 (30) |
+
+    </div>
+
+    - As noted in the description the proc chance is not based off a Trait like Luck, it is static. 
+    - Defense is not added until Level 3, which is not how it is described in the passive description. You gain an additional 10 DEF at Level 5 and Level 7.  
+    - If building a long-term Knight, the main thresholds are at Level 3 (25% proc rate) and Level 5 (30% proc rate). Taking the skill to Level 6-7 becomes extremely expensive for only an extra 5% gain. 
+
+=== "Cover Defense" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6 | Lv7 |
+    |--------------------|-----|-----|-----|-----|------|-----|-----|
+    | Base Proc Chance % &emsp; &emsp; &emsp; &emsp; | 5%  | 6%  | 8%  | 9%  | 12%  | 14% | 18% |
+
+    </div>
+
+    - The values in the table are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %. 
+    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula. 
+    - Note: The base proc chance % is nearly identical to Unyielding Will to Fight. We suspect that they are using the same formula. 
+
+=== "Magic Guard" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:-------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Magic Defense &emsp; &emsp; &emsp; &emsp;      |  10 | 2 (12) | 3 (15) | 2 (17) | 3 (20) | 2 (22) | 3 (25) |
+
+    </div> 
+
+    - Heavy Armor and Heavy Shield only. 
+    - Effect is per piece of equipment and stacks. 
+
+=== "Recovery"
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |--------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Base Proc Chance % &emsp; &emsp; &emsp; | 15% | 18% | 23% | 26% | 31% | 35% | 40% |
+
+    </div> 
+    
+    - Values are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %.
+    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula.
+    - The Knight Trial exchange shop has 1 skill scroll (100 EXP). Strongly suggesting using it on MC. 
+
+=== "Unyielding Will to Fight" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6 | Lv7 |
+    |--------------------|-----|-----|-----|-----|------|-----|-----|
+    | Base Proc Chance % &emsp; &emsp; &emsp; &emsp; | 5%  | 6%  | 8%  | 9%  | 12%  | 14% | 18% |
+
+    </div>
+
+    - The values in the table are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %. 
+    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula. 
+    - Inherited from Eulalia. 
+    - Note: The base proc chance % is nearly identical to the passive Cover Defense. We suspect that they are using the same formula. 
+
+=== "Way of the Knight" 
+
+    === "Skill Levels"
+
+    === "Details" 
+
+### Thief
+
+=== "Stats" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------------|:---------|----|----|----|----|----|----|----|
+    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detect Up             |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evasion Up            | <span style="color: DarkOrange">Jean P</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Surety Up             | <span style="color: DarkOrange">Viviana P</span> | 2  | 2 (4)  | 4 (8)  | 4 (12) | 4 (16)  | 4 (20)  | 5 (25) |  
+    
+     </div>
+
+    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
+
+=== "Calm Mind Technique" 
+
+    - Straight forward passive with only one level. 
+    - Reduces Fortitude loss from failing a chest by 2 (normally -4 or -5). 
+
+=== "Cunning Pursuit" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3   | Lv4    | Lv5    | Lv6   | Lv7    |
+    |:------------------|-----|--------|-------|--------|--------|-------|--------|
+    | Surety &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;            | 10  | 2 (12) | 3 (15)| 2 (17) | 3 (20) | 2 (23) | 2 (25) |
+
+    </div>
+
+    - Only procs if an enemy is debuffed or has a status ailment. 
+    - There is a risk that the translation is incorrect and it is only active when an enemy is debuffed. We have noticed inconsistencies with status ailments.
+
+=== "Nose for Treasure" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2      | Lv3      | Lv4      | Lv5      | Lv6      | Lv7      |
+    |:------------------|-----|----------|----------|----------|----------|----------|----------|
+    | Proc Chance %          | 30% | 5% (35%) | 5% (40%) | 5% (45%) | 5% (50%) | 5% (55%) | 2% (57%) |
+    | # of Items &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | 1   | 1        | 1        | 1        | 1        | 1        | 2        |
+
+    </div>
+
+    - Only triggers if a treasure (sellable item) drops. 
+    - Stacks with the "Treasures of the Abyss" event blessing. 
+    - Per level gain is exactly 5% until Level 7, which is 2%. At Level 7 the number of items increases to 2. 
+
+=== "Stealth" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Initiative Rate &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   |  2  | 1 (3)  | 2 (5)  | 1 (6)  | 2 (8)  | 1 (9)  | 2 (11) |
+    
+    </div>
+
+=== "Trap Disarm Master's Resolve" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |               | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |---------------|-----|-----|-----|-----|-----|-----|-----|
+    | Proc Chance % &emsp; &emsp; &emsp; &emsp; | 20% | 25% | 30% | 35% | 40% | 45% | 50% |
+    
+    </div> 
+
+    - Borderline usefulness in A3 if your primary chest opener is struggling and getting Traphophobia frequently. 
+    - Based on testing through Level 4 it seems like a flat +5% per level. 
+
+=== "Way of the Thief" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                          | Lv0    | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  | 
+    |:-------------------------|-------|------|------|------|------|------|------|------|
+    | Per Level                | -     | 20%  | 4%   | 6%   | 4%   | 4%   | 4%   | 3%   |
+    | Total                    | -     | 20%  | 24%  | 30%  | 34%  | 38%  | 42%  | 45%  |
+    | Total with base SUR &emsp; &emsp; &emsp;   | 175%  | 195% | 199% | 205% | 209% | 213% | 217% | 220% |
+
+    </div>
+
+    - SUR Damage = `Damage x SUR Modifier` 
+    - SUR damage modifier is 1.75x at Lv0. 
+    - No way to inherit to non-Thieves. Codexes are the only way to increase its level.
+
+### Priest
+
+=== "Stats" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
+    | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Resistance Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    
+     </div>
+
+=== "Priest Weapon Mastery"
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                              | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |:-----------------------------|-----|-----|-----|-----|-----|-----|-----|
+    | % PIE Added &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;  | 20% | 24% | 30% | 34% | 40% | 44% | 50% |
+
+    </div>
+    
+    - The table shows the % of PIE added to ATK Power.
+
+=== "Sacred Blessing" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                              | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:-----------------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Damage Reduction % &emsp; &emsp; &emsp;&emsp; &emsp;           | 10% | 3% (13%)| 3% (16%)| 3% (19%)| 3% (22%)| 3% (25%)| 5% (30%)|
+
+    </div>
+
+    - Only applies to Undead enemies. Reduces damage from all sources.
+    - Must be in the Priest class for it to be active.
+    
+=== "Sacred Resistance" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Divine Power &emsp; &emsp; &emsp; &emsp; &emsp;      | 30  | 5 (35) | 7 (42) | 5 (47) | 6 (53) | 4 (57) | 5 (62) |
+    | Resistance        | 45  | 5 (50) | 7 (57) | 5 (62) | 6 (68) | 4 (72) | 5 (77) |
+
+    </div>
+
+    - Only triggers when ambushed.
+    - Turn duration is 2 rounds. Higher levels do not increase the turn duration.
+
+=== "Way of the Priest" 
+
+    === "Skill Levels" 
+
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | MP Reduction % &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
+        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
+        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
+
+        </div>
+
+        - 10% reduction at Level 1. 
+        - All subsequent levels are an additional 4% and 5% at Level 1. 
+        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
+
+    === "Formula"
+
+        - Formula 
+            - MP Cost (Base MP, WL) = `⌊Base MP x (0.094 - (0.04*WL))⌋`
+        - Terms
+            - Base MP = The cost of the spell at any level. 
+            - WL = The level of Way of the Priest on a unit.    
+        - Floor Function (⌊ ⌋)  
+            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
+            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
+            - MP cost can never go below 1. 
+        - Data 
+            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
+            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
+            - The Way of the Mage uses the exact same formula. 
+            
+### Mage
+
+=== "Stats" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:------------------|:---------|----|----|----|----|----|----|----|
+    | Detection Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | Magic Detection   |          | 6  | 2 (8)  | 4 (12) | 2 (14)  | 4 (18)  | 2 (20)  | 5 (25) |
+    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | MP Up             |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
+    
+     </div>
+
+     - Note that Magic Detection is <Mage Specific> and does not apply if the unit has been class changed. 
+
+=== "Thaumaturgy"
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Damage Reduction % &emsp; &emsp; &emsp;&emsp; &emsp;  | 10% | 2% (12%)| 4% (16%)| 2% (18%)| 5% (23%)| 2% (25%)| 5% (30%)|
+
+    </div>
+
+    - Damage reduction %s are the same across all Types (elements). 
+    - Largest gains are at Level 5 and Level 7. 
+    - Only applies to Type skill and spells, not normal attacks. The only exceptions are the Black Dragon, Fire Dragon, and Black Dragon of the Depths whose normal attacks also do Type damage.   
+
+=== " Way of the Mage" 
+
+    === "Skill Levels" 
+    
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | MP Reduction % &emsp; &emsp; &emsp;            | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+        |:--------------------------|-----|- ---|-----|-- --|-----|-----|-----|
+        | Per Level                 | 10% | 4%  | 4%  | 4%  | 4%  | 4%  | 5%  |    
+        | Total                     | 10% | 14% | 18% | 22% | 26% | 30% | 35% |    
+    
+        </div>
+    
+        - 10% reduction at Level 1. 
+        - All subsequent levels are an additional 4% and 5% at Level 1. 
+        - To calculate the exact value of a spell at different levels of the passive see the next tab. 
+    
+    === "Formula"
+    
+        - Formula 
+            - MP Cost (Base MP, WL) = `⌊Base MP x (0.094 - (0.04*WL))⌋`
+        - Terms
+            - Base MP = The cost of the spell at any level. 
+            - WL = The level of Way of the Mage on a unit.    
+        - Floor Function (⌊ ⌋)  
+            - The formula uses a floor function. The calculated value is rounded -down- to the nearest whole number independent of its decimal value. 
+            - For example, if the calculated MP Cost = 3.84, then the MP cost would be rounded down to 3.  
+            - MP cost can never go below 1. 
+        - Data 
+            - Base MP data from 63 spells from Lv1-7 against Lv1-7 Way of the Priest. Total of 441 data points. 
+            - The formula fit 437/441 observations. There is likely a small correction or a conditional override on a handful of spells. 
+            - The Way of the Priest uses the exact same formula. 
+
+### Ninja
+
+=== "Stats"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------|:---------|----|----|----|----|----|----|----|
+    | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    | SP Up           |          | 4  | 6 (10) | 8 (18) | 10 (28) | 12 (40) | 14 (54) | 6 (60) |
+    | Surety Up       |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25) |
+    
+     </div>
+
+=== "Art of Assasination" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    | Critical Chance % &emsp; &emsp; &emsp; &emsp; | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------|----|----|----|----|----|-----|-----|
+    | Weapon          | 2% | 3% | 4% | 5% | 6% | 7%  | 8%  |
+    | Bare-Handed     | 2% | 3% | 4% | 5% | 9% | 10% | 12% |
+
+    </div>
+
+    - Only activates on normal attacks. It is rolled per hit, so multi-hit gacha weapons like the Citrus-Blossom Hairpin (Yuzu) and Raven Daggers (Aldric) increase your chances.    
+    - We do not know the actual % chance because the formula has two parts. 
+        - Base % (Values in the table)
+        - DEX Scaling % (Formula unknown)
+        - Actual % = Base % + DEX Scaling %
+    - Things become more complicated because each enemy has its own level of Critical Tolerance. For example, we do not know how much +20 Critical Tolerance reduces the Actual % value. Collecting this data is not practical or possible at this point since there are so many unknowns. 
+    - Other
+        - Scales off Dexterity, not Luck. 
+        - Fixed cap of 50%. 
+        - "Bare-handed" means not having a weapon equipped in either hand. 
+    
+=== "Empty Husk" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Proc Chance % &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |--------------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Armor                    | 8%  | 10% | 12% | 14% | 16% | 18% | 20% |
+    | No Armor                 | 15% | 17% | 19% | 21% | 23% | 25% | 30% |
+    
+    </div>
+
+    Mechanics
+    
+    - Only applies to physical attacks. If you fail the Evasion check, then Empty Husk will roll. It is completely independent.
+    - Values are a fixed % and do not scale with any Trait. 
+    - Based on testing, the "No Armor" requirement means having no defensive gear equipped (Head, Hand, Body, Shield, Foot, Accessory). 
+    - Stacks with Concealment, which uses a similar mechanism.
+
+=== "Ninja Dual Wield" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                              | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
+    |------------------------------|------|------|------|------|------|------|------|
+    | Main-Hand DMG % Reduction   | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
+    | Off-Hand ATK % Contribution % &emsp; &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
+    | Evasion Penalty              | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
+    | Action Speed Penalty         | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
+    
+    </div>
+
+    - Daggers and Kunai only.
+    - Dual-wielding comes with a penalty to Main Hand (MH) damage. At Level 1, the penalty is 55%, meaning only 45% of ATK Power is being used. The penalty decreases as the skill level increases. 
+    - The Off-Hand weapon gives additional ATK Power, but only when skills are used. The ATK % contribution increases with skill levels. 
+    - The Evasion and Action Speed penalty is a flat -15 across all levels. 
+
+=== "Vitality Jutsu" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                              | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
+    |------------------------------|------|------|------|------|------|------|------|
+    | ATK Power % &emsp; &emsp; &emsp; &emsp; | 10%  | 11%  | 13%  | 14%  | 16%  | 17%  | 20%  |
+
+    </div>
+
+    - Values are for 100% HP. The effect is roughly halfed at low HP. 
+    - Testing shows that the passive also applies to Spell damage. It is likely coded as a universal damage modifier versus ATK Power per its description. 
+
+### Samurai 
+
+=== "Back-Against-the-Water-Formation" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7     |
+    |:------------------|-----|--------|--------|--------|--------|--------|---------|
+    | Attack Power      |  4  | 1 (5)  | 1 (6)  | 1 (7)  | 1 (8)  | 1 (9)  | 1 (10)  |
+    | Magic Power       |  4  | 1 (5)  | 1 (6)  | 1 (7)  | 1 (8)  | 1 (9)  | 1 (10)  |
+    | Total             |  8  | 2 (10) | 2 (12) | 2 (14) | 2 (16) | 2 (18) | 2 (20)  |
+    | Effective ATK &emsp; &emsp; &emsp; &emsp;     |  5  | 7      | 8      | 9      | 10     | 12     | 13      |
+
+    </div>
+
+    - Must be under 50% HP to activate. HP% is evaluated at the start of each turn and can trigger multiple times in a fight. 
+    - The passive gives flat stat gains. It does not produce the damage values that would be consistent with a % modifier at higher skill levels. The listed values assume a +1 gain for both Attack and Magic Power. 
+    - The Effective Attack row is `Total (Attack Power + Magic Power) x 0.65` for Level 1 of Divine Path. 
+
+=== "Concentration" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                          | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:-------------------------|-----|--------|--------|--------|--------|--------|--------|
+    | ATK per turn &emsp; &emsp; &emsp; &emsp;      |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
+    | MAG per turn      |  15 | 1 (16) | 1 (17) | 1 (18) | 1 (19) | 1 (20) | 1 (21) |
+    | Estimated cap            |  30 |     30 |     30 |     30 |     30 |     30 |     30 |
+
+    - Attack and Magic power increase each turn. The effect is negated if you change weapons. 
+    - Based on testing there seems to be a fixed cap of 30 per stat across all levels. At Level 1 it takes 2 turns to reach. 
+    - The Level 1 stat values are confirmed. Level 2-7 are estimates at +1 per level as Level 7 does not reach the stat cap on its own after one turn. 
+
+    </div>
+    
+=== "Divine Path" 
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |:------------------|-----|-----|-----|-----|-----|-----|-----|
+    | Modifier &emsp; &emsp; &emsp; &emsp;          | 65% | 66% | 67% | 68% | 69% | 70% | 71% |
+
+    </div>
+
+    - Samurai damage scales off both ATK Power and MAG Power. 
+    - Effective Damage = `Modifier x (ATK Power + MAG Power)` 
+    - At Level 1, Effective Damage = `0.65 x (ATK Power + MAG Power)`
+    - Higher levels increase the modifier % being used. Each level is a 1% increase. 
+    
+=== "Thousandfold Grip"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                   | Lv1 | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     |
+    |:------------------|-----|---------|---------|---------|---------|---------|---------|
+    | Surety % &emsp; &emsp; &emsp; &emsp; |  10% | 1% (11%) | 1% (12%) | 1% (13%) | 1% (14%) | 1% (15%) | 1% (17%) |
+    
+    </div>
+
+    - Unique passive that operates as a Surety % modifier. It does not give flat Surety. 
+    - Formula: `Base SUR + (1 + Surety %)`
+    - Tested through Level 5. Each level gives exactly 1%. It is possible Level 7 gives a larger bonus. 
+    - Note that this passive has several restrictions before it will activate.
+
+=== "Mysta Energy Manipulation"
+
+    <div class="nofilter-table nosort-table" markdown>
+
+    |                   | Lv1 | Lv2    | Lv3    | Lv4    | Lv5    | Lv6    | Lv7    |
+    |:------------------|-----|--------|--------|--------|--------|--------|--------|
+    | Magic Power &emsp; &emsp; &emsp; &emsp;       |  30 | 3 (33) | 5 (38) | 3 (41) | 5 (46) | 3 (49) | 5 (54) |
+
+    </div>
+
+    - Flat increase to MAG Power. 
+
+### Ranger
+
+=== "Stats" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | 
+    |:----------------|:---------|----|----|----|----|----|----|----|
+    | Accuracy Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detection Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evade Trap Up   |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    
+     </div>
+
+=== "Second Arrow" 
+
+=== "Sniper" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                   | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   |
+    |:------------------|-------|-------|-------|-------|-------|-------|-------|
+    | Attack Power &emsp; &emsp; &emsp; &emsp; &emsp;      | 0.50x | 0.50x | 0.50x | 0.50x | 0.50x | 0.50x | 0.50x |
+    | Accuracy          | 1.50x | 1.52x | 1.54x | 1.56x | 1.58x | 1.60x | 1.62x |
+    
+    </div> 
+
+    - Ranger uses a completely different damage formula that other classes. 
+    - Formula: Effective Attack = `(Attack Power x 0.50) + (Accuracy x 1.50)`
+    - The Attack power modifier is held constant at 0.50 for all levels. Only the Accuracy modifier increases. 
+    - Based on testing it is roughly 2% per level. Level 7 might see a 2-5% jump. 
+
+### Healer
+
+- Forthcoming. 
+
+
+
 
