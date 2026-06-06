@@ -94,6 +94,10 @@
     
     </div>
 
+### Alt Alice - Grace of the Dark One 
+
+- Forthcoming. 
+    
 ### Debra - Blessings of the Beastfolk Goddess 
 
 === "Self"
@@ -166,6 +170,9 @@
 
 ## General 
 
+- All General unit passives are covered under the [Passive Skills: Class] page.
+- For a complete list of all inherits see [here]. 
+
 ## Anonymous 
 
 === "Per Level" 
@@ -195,7 +202,7 @@
     | Dwarf-Kni     | HP                 | 4 | 6 | 8 | 10 | 14 | 16 | 18 | 20 | 22 | 28 | 30 | 32 | 36 | 40 |
     | Elf-Mag       | Magic Power        | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Elf-Pri       | Divine Power       | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
-    | Human-Fig     | Attack Power      | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
+    | Human-Fig     | Attack Power       | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Human-Nin     | Action Speed       | 1 | 2 | 3 | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
     | Human-Pri     | MP                 | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Human-Sam     | Attack + Magic Power &emsp; &emsp; &emsp; | 1 | 2 | 3 | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
