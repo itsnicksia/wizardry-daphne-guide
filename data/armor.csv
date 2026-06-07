@@ -236,12 +236,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 296,Feet!A296,Feet,Ex.,High Boots of the Winter Night,Silver,Cloth,,,0,0,0,8,0,8,0,0,2,0,0,0,0,14,0,10,0,0,13,0,0,0,0,20,0,11,0,0,18,0,0,0,0,24,0,12,0,0,23,0,0,0,0,27,0,13,0,0,25,0,Stone Tolerance
 302,Feet!A302,Feet,Ex.,Boots of the First Wind,Silver,Cloth,,,0,0,5,5,0,2,0,0,4,0,0,0,7,11,0,2,0,0,15,0,0,0,8,17,0,2,0,0,20,0,0,0,9,21,0,2,0,0,25,0,0,0,10,24,0,2,0,0,27,0,Pious Swiftness
 308,Feet!A308,Feet,Ex.,Boots of Vanishing,Silver,Cloth,,,0,0,0,12,0,4,0,0,4,0,0,0,0,18,0,6,0,0,15,0,0,0,0,24,0,7,0,0,20,0,0,0,0,28,0,8,0,0,25,0,0,0,0,31,0,9,0,0,27,0,Agile Heavy Strike
-314,Feet!A314,Feet,3250,Silver Light Armor Boots,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,0,0,7,0,0,0,0,26,0,0,0,0,12,0,0,0,0,33,0,0,0,0,19,0,0,0,0,39,0,0,0,0,25,0,
-320,Feet!A320,Feet,Ex.,Flame Demon Greaves,Silver,Light,,,0,0,0,17,8,0,0,0,2,0,0,0,0,26,8,0,0,0,11,0,0,0,0,31,8,0,0,0,16,0,0,0,0,36,8,0,0,0,21,0,0,0,0,38,8,0,0,0,23,0,Passive MP Up
-326,Feet!A326,Feet,Ex. ,Mountain-Runner's Gaiters,Silver,Light,,,0,0,0,15,0,0,0,0,3,0,0,0,0,24,0,0,0,0,12,0,0,0,0,29,0,0,0,0,17,0,,,,,,,,,,,,,,,,,,,,,Vitality Insight
-332,Feet!A332,Feet,3252,Silver Heavy Armor Boots,Silver,Heavy,,,0,0,0,21,0,0,0,0,-2,0,0,0,0,30,0,0,0,0,3,0,0,0,0,35,0,0,0,0,8,0,0,0,0,42,0,0,0,0,14,0,0,0,0,48,0,0,0,0,20,0,
-338,Feet!A338,Feet,3253,Hard Snow Heavy Armor Boots,Silver,Heavy,,,0,0,0,39,0,-10,0,0,-10,0,0,0,0,48,0,-10,0,0,-10,0,0,0,0,53,0,-10,0,0,-10,0,0,0,0,60,0,-10,0,0,-10,0,0,0,0,66,0,-10,0,0,-10,0,Ice-Break Damage Reduction
-344,Feet!A344,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+314,Feet!A314,Feet,Ex.,Floating-Leaf Zori Sandals,Silver,Cloth,,,0,0,0,19,0,3,0,0,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Passive Speed Up
+320,Feet!A320,Feet,3250,Silver Light Armor Boots,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,0,0,7,0,0,0,0,26,0,0,0,0,12,0,0,0,0,33,0,0,0,0,19,0,0,0,0,39,0,0,0,0,25,0,
+326,Feet!A326,Feet,Ex.,Flame Demon Greaves,Silver,Light,,,0,0,0,17,8,0,0,0,2,0,0,0,0,26,8,0,0,0,11,0,0,0,0,31,8,0,0,0,16,0,0,0,0,36,8,0,0,0,21,0,0,0,0,38,8,0,0,0,23,0,Passive MP Up
+332,Feet!A332,Feet,Ex. ,Mountain-Runner's Gaiters,Silver,Light,,,0,0,0,15,0,0,0,0,3,0,0,0,0,24,0,0,0,0,12,0,0,0,0,29,0,0,0,0,17,0,,,,,,,,,,,,,,,,,,,,,Vitality Insight
+338,Feet!A338,Feet,3252,Silver Heavy Armor Boots,Silver,Heavy,,,0,0,0,21,0,0,0,0,-2,0,0,0,0,30,0,0,0,0,3,0,0,0,0,35,0,0,0,0,8,0,0,0,0,42,0,0,0,0,14,0,0,0,0,48,0,0,0,0,20,0,
+344,Feet!A344,Feet,3253,Hard Snow Heavy Armor Boots,Silver,Heavy,,,0,0,0,39,0,-10,0,0,-10,0,0,0,0,48,0,-10,0,0,-10,0,0,0,0,53,0,-10,0,0,-10,0,0,0,0,60,0,-10,0,0,-10,0,0,0,0,66,0,-10,0,0,-10,0,Ice-Break Damage Reduction
 350,Feet!A350,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 356,Feet!A356,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 362,Feet!A362,Feet,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -556,7 +556,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 422,Accessories!A422,Accessories,Ex.,Legato Cape,Silver,Accessory,,,0,0,0,8,15,5,0,0,5,0,0,0,0,20,15,7,0,0,7,0,0,0,0,28,15,8,0,0,8,0,0,0,0,35,15,9,0,0,9,0,0,0,0,38,15,10,0,0,10,0,Dexterity Barrier
 428,Accessories!A428,Accessories,Ex.,Bracelet of Life,Silver,Accessory,,,0,0,0,5,30,0,0,0,0,0,0,0,0,17,30,0,0,0,0,0,0,0,0,25,30,0,0,0,0,0,0,0,0,32,30,0,0,0,0,0,0,0,0,35,30,0,0,0,0,0,"Faerie exclusive, Promise of Compassion, Passive HP Up"
 434,Accessories!A434,Accessories,Ex.,Unsullied Flower Ornament,Silver,Accessory,,,0,0,0,6,15,0,0,0,0,5,0,0,0,12,20,0,0,0,0,11,0,0,0,18,24,0,0,0,0,17,0,0,0,22,27,0,0,0,0,20,0,0,0,25,29,0,0,0,0,22,"Faerie exclusive, Charm Tolerance, Confusion Tolerance"
-440,Accessories!A440,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+440,Accessories!A440,Accessories,Ex.,Crest of Ouka's Lineage,Silver,Accessory,,,0,0,0,9,20,0,0,0,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Passive SP Up
 446,Accessories!A446,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 452,Accessories!A452,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 458,Accessories!A458,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
