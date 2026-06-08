@@ -12,17 +12,21 @@
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;    | Rarity &emsp; &emsp;&emsp;&emsp;    | Passive Name &emsp; &emsp;&emsp;&emsp;           | Condition &emsp; &emsp;&emsp;&emsp;          | Formation &emsp; &emsp;&emsp;&emsp; | DMG % &emsp; &emsp;&emsp;&emsp; | Notes &emsp; &emsp;&emsp;&emsp;                                              | 
-|----------|-----------|------------------------|--------------------|-----------|-------|----------------------------------------------------|
-| <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light              | Column    | 10%   | Additional 15% damage against Dark enemies.        |
-| Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                    |
-| Anemone  | Legendary | Helping Uphold Justice | Good, Neutral      | Row       | 13%   | Does not apply to Anemone. Only skills and spells. |
-| Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    |
-| Lanavaille     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    |
-| <span style="color: cyan">Lanavaille A</span>   | Legendary | Stirring Righteousness | Good, Neutral      | Row       | 10%   |                                                    |
-| Milana   | General   | Mutual Interests       | Evil               | Column    | 10%   |                                                    |
+| Name     | Rarity     | Passive Name         | Condition          | Formation  | DMG % | 
+|----------|-----------|------------------------|--------------------|-----------|-------|
+| <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light              | Column    | 10%   | 
+| Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                
+| Anemone  | Legendary | Helping Uphold Justice | Good, Neutral      | Row       | 13%   | 
+| Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
+| Lanavaille     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
+| <span style="color: cyan">Lanavaille A</span>   | Legendary | Stirring Righteousness | Good, Neutral      | Row       | 10%   |                                                    
+| Milana   | General   | Mutual Interests       | Evil               | Column    | 10%   |                                                    
 
 </div>
+
+- 
+- 
+-
 
 ### Damage Reduction 
 
