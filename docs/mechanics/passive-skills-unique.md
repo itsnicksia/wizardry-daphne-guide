@@ -2,11 +2,24 @@
 
 - Unique Skills cannot be inherited. They can be attack skills, spells, or passives. This page only covers passives. Permanently at Level 1.
 
-## Synergy 
+## Synergy Skills
 
-- Synergy skills provide a positive benefit to surrounding units. Most have alignment, race, or Type (element) restrictions. 
-- This section is organized into broad categories based on the type of Synergy effect. 
-- Adjacent means that allies must be to the left, right, in front of, or behind the named unit. The maximum number of units that can be covered is 4, arranged in a "T" shape with the named unit in the center (front or back). 
+=== "Basics" 
+
+    - Synergy skills provide a positive benefit to surrounding units. Each has certain conditions that must be fulfilled before it activates.
+    - Conditions are normally related to some combination of formation, alignment, and/or Type (element). 
+    - This section is organized into broad categories based on the type of Synergy effect. 
+
+=== "Row"
+
+=== "Column"
+
+=== "Adjacent" 
+
+    - Adjacent means that allies must be to the left, right, in front of, or behind the named unit. The maximum number of units that can be covered is 4, arranged in a "T" shape with the named unit in the center (front or back).
+
+=== "Battle Menu" 
+
 
 ### Damage Increase
 
@@ -14,19 +27,19 @@
 
 | Name     | Rarity    | Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | 
 |----------|-----------|------------------------|--------------------|-----------|:-----:|
-| <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light | Column    | 10%   | 
+| <span style="color: cyan">Adam A</span>       | Legendary   | Light Shaft's Radiance | Light | Column    | 10%   | 
 | Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                
 | Anemone  | Legendary | Helping Uphold Justice | Good, Neutral      | Row       | 13%   | 
 | Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
 | Lanavaille &emsp; &emsp; &emsp;     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
-| <span style="color: cyan">Lanavaille A</span>   | Legendary &emsp; &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Good, Neutral &emsp; &emsp;      | Row       | 10%   |                                                    
+| <span style="color: cyan">Lanavaille A</span>   | Legendary &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Good, Neutral &emsp; &emsp;      | Row       | 10%   |                                                    
 | Milana   | General   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   |                                                    
 
 </div>
 
-- 
-- 
--
+- Each is a % buff to any type of damage. 
+- Anemone's synergy does not include herself and is restricted to skills and spells only. 
+- Alt Adam's synergy provides an additional 15% boost against Dark enemies for a total damage boost of 25%. 
 
 ### Damage Reduction 
 
