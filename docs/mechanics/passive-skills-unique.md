@@ -12,7 +12,7 @@
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Rarity    | Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % | 
+| Name     | Rarity    | Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | 
 |----------|-----------|------------------------|--------------------|-----------|:-----:|
 | <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light | Column    | 10%   | 
 | Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                
