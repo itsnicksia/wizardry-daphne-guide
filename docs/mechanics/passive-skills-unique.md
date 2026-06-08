@@ -18,7 +18,7 @@
 | Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                
 | Anemone  | Legendary | Helping Uphold Justice | Good, Neutral      | Row       | 13%   | 
 | Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
-| Lanavaille &emsp; &emsp;     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
+| Lanavaille &emsp; &emsp; &emsp;     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
 | <span style="color: cyan">Lanavaille A</span>   | Legendary &emsp; &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Good, Neutral &emsp; &emsp;      | Row       | 10%   |                                                    
 | Milana   | General   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   |                                                    
 
