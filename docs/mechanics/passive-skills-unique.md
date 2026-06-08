@@ -45,11 +45,11 @@
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name          | Rarity    | Passive Name       | Condition      | Formation | DR % | DMG Type | Notes             |
+| Name          | Rarity    | Passive Name       | Condition      | Formation | DR % &emsp; &emsp; | DMG Type &emsp; &emsp; | Notes             |
 |---------------|-----------|--------------------|----------------|-----------|------|----------|-------------------|
-| <span style="color: cyan">Alice A</span>       | Legendary | Heretical Blessing | Neutral, Evil  | Row       | 5%   | All      |                   |
-| <span style="color: cyan">Milana A</span>      | General   | Calculated Charity | Evil           | Row       | 10%  | Physical |                   | 
-| <span style="color: cyan">Yekaterina A</span>  | Legendary | Skull's Tutelage   | Self Only      | Back Row  | 30%  | Physical | Also gives 10% HP |
+| <span style="color: cyan">Alice A</span>       | Legendary | Heretical Blessing | Neutral, Evil &emsp; &emsp;  | Row       | 5%   | All      |                   |
+| <span style="color: cyan">Milana A</span>      | General   | Calculated Charity &emsp; &emsp; | Evil           | Row       | 10%  | Physical |                   | 
+| <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only &emsp; &emsp;      | Backrow  | 30%  | Physical | Also gives 10% HP |
 
 </div>
 
