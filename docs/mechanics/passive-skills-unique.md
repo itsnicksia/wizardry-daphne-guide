@@ -31,8 +31,8 @@
 | Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                
 | Anemone  | Legendary | Helping Uphold Justice | Good, Neutral      | Row       | 13%   | 
 | Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
-| Lanavaille &emsp; &emsp; &emsp;     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
-| <span style="color: cyan">Lanavaille A</span>   | Legendary &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Good, Neutral &emsp; &emsp;      | Row       | 10%   |                                                    
+| Lanavaille      | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
+| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; &emsp;   | Legendary &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Good, Neutral &emsp; &emsp;      | Row       | 10%   |                                                    
 | Milana   | General   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   |                                                    
 
 </div>
@@ -45,11 +45,11 @@
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name          | Rarity    | Passive Name       | Condition      | Formation | DR % &emsp; &emsp; | DMG Type &emsp; &emsp; | Notes             |
-|---------------|-----------|--------------------|----------------|-----------|------|----------|-------------------|
+| Name          | Rarity    | Passive Name       | Condition      | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | Notes             |
+|---------------|-----------|--------------------|----------------|-----------|:----:|----------|-------------------|
 | <span style="color: cyan">Alice A</span>       | Legendary | Heretical Blessing | Neutral, Evil &emsp; &emsp;  | Row       | 5%   | All      |                   |
 | <span style="color: cyan">Milana A</span>      | General   | Calculated Charity &emsp; &emsp; | Evil           | Row       | 10%  | Physical |                   | 
-| <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only &emsp; &emsp;      | Backrow  | 30%  | Physical | Also gives 10% HP |
+| <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only       | Backrow  | 30%  | Physical | Also gives 10% HP |
 
 </div>
 
