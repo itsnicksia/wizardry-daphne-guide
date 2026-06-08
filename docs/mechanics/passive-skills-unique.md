@@ -12,15 +12,15 @@
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Rarity     | Passive Name         | Condition          | Formation  | DMG % | 
+| Name     | Rarity &emsp; &emsp;    | Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % | 
 |----------|-----------|------------------------|--------------------|-----------|-------|
-| <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light              | Column    | 10%   | 
+| <span style="color: cyan">Adam A</span>       | General   | Light Shaft's Radiance | Light | Column    | 10%   | 
 | Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                
 | Anemone  | Legendary | Helping Uphold Justice | Good, Neutral      | Row       | 13%   | 
 | Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
-| Lanavaille     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
-| <span style="color: cyan">Lanavaille A</span>   | Legendary | Stirring Righteousness | Good, Neutral      | Row       | 10%   |                                                    
-| Milana   | General   | Mutual Interests       | Evil               | Column    | 10%   |                                                    
+| Lanavaille &emsp; &emsp;     | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
+| <span style="color: cyan">Lanavaille A</span>   | Legendary | Stirring Righteousness &emsp; &emsp; | Good, Neutral &emsp; &emsp;      | Row       | 10%   |                                                    
+| Milana   | General   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   |                                                    
 
 </div>
 
