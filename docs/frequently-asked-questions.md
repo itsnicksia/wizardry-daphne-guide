@@ -58,7 +58,7 @@ You can, but you need another scroll or other class changing item to do so. Thos
 Many dungeon floors have known variations and can even change over the course of your game. For more informaiton please see the [detailed guide on Map Variatons](./mechanics/map-variations.md).
 
 ### Wait, it’s possible to get an adventurer as a bondmate?
-Yes! **But you must dismiss (lose) that adventurer**. As such this is not recommded until reaching an advanced part of the game.  Please see the detailed [Adventurer Bondmates guide](./adventurer-customization/bondmates/adventurer-bondmates.md).
+Yes! **But you must dismiss (lose) that adventurer**. As such this is not recommded until reaching an advanced part of the game.  Please see the detailed [Adventurer Bondmates guide](./adventurer-customization/bondmates/trait-bondmates.md).
 
 ### How do I know which teleporters to take on B6F of the Beginning Abyss?
 Look around for the corpses near each teleporter room. They’ll give you a clue about which teleporter to take. Think about the position of the sun in the sky to help guide you. The first body flat out tells you to ignore one room. The second body mentions something about the light ahead. Think North. The third body mentions following the dying light. Think about a setting sun.
