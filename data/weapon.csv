@@ -362,7 +362,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 110,2H_Spear!A110,2H_Spear,214,Beast Penetrator,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Magical Beast-Slayer"
 116,2H_Spear!A116,2H_Spear,212,Earthrend Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Earth Type"
 122,2H_Spear!A122,2H_Spear,213,Seafoam Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Water Type"
-128,2H_Spear!A128,2H_Spear,Ex.,Whilring Tiger,Silver,1,,,115,0,0,0,0,0,10,3,7,0,,,,,,,,,,,160,0,0,0,0,0,10,3,7,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Evasive Heavy Strike"
+128,2H_Spear!A128,2H_Spear,Ex.,Whilring Tiger,Silver,1,,,115,0,0,0,0,0,10,3,7,0,138,0,0,0,0,0,10,3,7,0,160,0,0,0,0,0,10,3,7,0,183,0,0,0,0,0,10,3,7,0,205,0,0,0,0,0,10,3,7,0,"Strength-Based +, Evasive Heavy Strike"
 134,2H_Spear!A134,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Spear!A140,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Spear!A146,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -546,7 +546,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 68,Sam_Katana!A68,Sam_Katana,202,Beast Hunt,Silver,2,,,82,76,0,0,0,0,10,0,0,0,100,96,0,0,0,0,10,0,0,0,118,115,0,0,0,0,10,0,0,0,136,134,0,0,0,0,10,0,0,0,154,154,0,0,0,0,10,0,0,0,Magical Beast-Slayer
 74,Sam_Katana!A74,Sam_Katana,234,Clear Mind,Silver,2,,,82,76,0,0,0,0,10,0,0,0,100,96,0,0,0,0,10,0,0,0,118,115,0,0,0,0,10,0,0,0,136,134,0,0,0,0,10,0,0,0,154,154,0,0,0,0,10,0,0,0,Humanoid-Slayer
 80,Sam_Katana!A80,Sam_Katana,Ex.,Refined Saber,Silver,2,,,60,36,0,0,0,0,6,0,0,0,78,56,0,0,0,0,6,0,0,0,96,75,0,0,0,0,6,0,0,0,114,94,0,0,0,0,6,0,0,0,132,114,0,0,0,0,6,0,0,0,One Sword Style
-86,Sam_Katana!A86,Sam_Katana,Ex.,Cherry Blossom of the Other Shore,,Silver,2,,100,75,0,8,8,0,6,0,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clear Mind, Still Water"
+86,Sam_Katana!A86,Sam_Katana,Ex.,Cherry Blossom of the Other Shore,Silver,2,,,100,75,0,8,8,0,6,0,10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Clear Mind, Still Water"
 92,Sam_Katana!A92,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,Sam_Katana!A98,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 104,Sam_Katana!A104,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -628,9 +628,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 8,Ninja_Throw!A8,Ninja_Throw,175,Shadowrunner Kunai,Iron,2,,380,21,0,0,-1,-1,0,-6,1,0,0,36,0,0,-1,-1,0,-6,1,0,0,51,0,0,-1,-1,0,-6,1,0,0,66,0,0,-1,-1,0,-6,1,0,0,81,0,0,-1,-1,0,-6,1,0,0,
 14,Ninja_Throw!A14,Ninja_Throw,81,Phantom Shadow Kunai,Steel,2,,720,30,0,0,-1,-1,0,-6,1,0,0,40,0,0,-1,-1,0,-6,1,0,0,50,0,0,-1,-1,0,-6,1,0,0,60,0,0,-1,-1,0,-6,1,0,0,70,0,0,-1,-1,0,-6,1,0,0,
 20,Ninja_Throw!A20,Ninja_Throw,109,Covert Kunai,Ebonsteel,2,,1875,40,0,0,-1,-1,0,-5,2,0,0,55,0,0,-1,-1,0,-5,2,0,0,70,0,0,-1,-1,0,-5,2,0,0,85,0,0,-1,-1,0,-5,2,0,0,100,0,0,-1,-1,0,-5,2,0,0,
-26,Ninja_Throw!A26,Ninja_Throw,Ex.,Citrus-Blossom Hairpin ,Silver,3,,,40,0,0,-1,-1,0,0,5,0,0,62,0,0,-1,-1,0,0,5,0,0,80,0,0,-1,-1,0,0,5,0,0,93,0,0,-1,-1,0,0,5,0,0,99,0,0,-1,-1,0,0,5,0,0,"Inflict Charm, Defense Penetration"
-32,Ninja_Throw!A32,Ninja_Throw,197,Shrouded Kunai,Silver,2,,,48,0,0,-1,-1,0,-5,2,0,0,66,0,0,-1,-1,0,-5,2,0,0,84,0,0,-1,-1,0,-5,2,0,0,102,0,0,-1,-1,0,-5,2,0,0,120,0,0,-1,-1,0,-5,2,0,0,
-38,Ninja_Throw!A38,Ninja_Throw,198,Beclouded Kunai,Silver,2,,,54,0,0,-20,-1,0,-5,7,0,-15,72,0,0,-20,-1,0,-5,9,0,-15,90,0,0,-20,-1,0,-5,10,0,-15,108,0,0,-20,-1,0,-5,11,0,-15,126,0,0,-20,-1,0,-5,12,0,-15,Evade Increase
+26,Ninja_Throw!A26,Ninja_Throw,197,Shrouded Kunai,Silver,2,,,48,0,0,-1,-1,0,-5,2,0,0,66,0,0,-1,-1,0,-5,2,0,0,84,0,0,-1,-1,0,-5,2,0,0,102,0,0,-1,-1,0,-5,2,0,0,120,0,0,-1,-1,0,-5,2,0,0,
+32,Ninja_Throw!A32,Ninja_Throw,198,Beclouded Kunai,Silver,2,,,54,0,0,-20,-1,0,-5,7,0,-15,72,0,0,-20,-1,0,-5,9,0,-15,90,0,0,-20,-1,0,-5,10,0,-15,108,0,0,-20,-1,0,-5,11,0,-15,126,0,0,-20,-1,0,-5,12,0,-15,Evade Increase
+38,Ninja_Throw!A38,Ninja_Throw,Ex.,Citrus-Blossom Hairpin ,Silver,3,,,40,0,0,-1,-1,0,0,5,0,0,62,0,0,-1,-1,0,0,5,0,0,80,0,0,-1,-1,0,0,5,0,0,93,0,0,-1,-1,0,0,5,0,0,99,0,0,-1,-1,0,0,5,0,0,"Inflict Charm, Defense Penetration"
 44,Ninja_Throw!A44,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50,Ninja_Throw!A50,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 56,Ninja_Throw!A56,Ninja_Throw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
