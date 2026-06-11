@@ -65,6 +65,18 @@
         Her Discipline skill is a decent defensive boost, but not having any extra offensive boost is less than ideal.
 
         Overall, she's received quite a bit of indirect love since she was released, and she's certainly more viable now. Her longevity will depend quite a bit on how many future encounters rely on single target physical attacks and how many incorporate regular spell damage and MA/LA targeting physical attacks. In addition, she's still a Knight and will be fairly SP-starved.
+        
+    === "Lone Star of the Shattered Sky"
+
+        Alt Savia brings some nice additions to the standard Savia kit and makes her better at doing what she already does.
+
+        Luring Fang of the Black Beast is a solid damage skill that will help increase her likelihood of being attacked. The damage gets contributions from both Attack and Evasion, which continues to cement her in place as your back row evasion tank. You can think of this as a much harder-hitting Attract Hit.
+
+        Her new passive, Counter-Offensive, gives a stackable Attack and Surety buff when she gets attacked, which will in turn contribute to increased damage.
+
+        Her discipline gives some solid Attack and Evasion.
+
+        All in all, if you're a big Savia fan, you should definitely snag her alt form so you can give her more tools to supplement her strong evasion tanking. Keep in mind, though, evasion tanking won't really help you in magic or physical aoe heavy fights.
 
 ??? info "Frobro's Analysis"
 
