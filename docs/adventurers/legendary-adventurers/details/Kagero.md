@@ -58,11 +58,11 @@
 
         His discipline boosts Attack and Evasion, which is fairly solid for his kit if you're into that.
 
-        All in all, I really like the Nine-Seal mechanic, and Return from the Six Realms seems fun, but probably not practical in most fights. The biggest thing to consider is that he's Evil and needs to be in the front row, which makes him harder to slip into the average player's party, particularly if they're running a Lana-centric Good/Neutral front row. If you do run an Evil/Neutral front row, he's a solid addition. Nine-Seal opens up some interesting ninja evasion taking combinations, particularly if you combine it with an inherited Luring Fang to help draw that enemy attention. 
+        All in all, I really like the Nine-Seal mechanic, and Return from the Six Realms seems fun, but probably not practical in most fights. The biggest thing to consider is that he's Evil and needs to be in the front row, which makes him harder to slip into the average player's party, particularly if they're running a Lana-centric Good/Neutral front row. If you do run an Evil/Neutral front row, he's a solid addition. Nine-Seal opens up some interesting ninja evasion tanking combinations, particularly if you combine it with an inherited Luring Fang to help draw that enemy attention.   [11 JUN 2026]
 
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
-    I'll likely pull a copy to give to Rinne for the evasion buff. I might pull a second copy to give to Shiou for funzies, but undecided now.
+    I'll likely pull a copy to give to Rinne for the evasion buff. I might pull a second copy to give to Shiou for funzies, but undecided now.  [11 JUN 2026]
 
 {% endblock ReviewsAndAnalysis %}
