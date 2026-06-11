@@ -245,7 +245,7 @@ These are some parties I have personally and successfully used to clear progress
 
 ??? note "Godefroi Round 4 Fight"
 
-    Party 1:
+    - Party 1
         - Front Row
             - MC (Priest)
             - Rinne (Ninja/Thief)
@@ -255,7 +255,7 @@ These are some parties I have personally and successfully used to clear progress
             - Yuzunamiki (Ninja)
             - Shelirionach (Mage/Priest)
 
-    Party 2:
+    - Party 2
         - Front Row
             - Ainikki
             - Rinne (Ninja/Thief)
@@ -267,7 +267,7 @@ These are some parties I have personally and successfully used to clear progress
 
 ??? note "Linaria Release"
 
-    Party 1:
+    - Party 1
         - Front Row
             - Shiou (Samurai/Fighter)
             - Linaria (Thief)
@@ -277,7 +277,7 @@ These are some parties I have personally and successfully used to clear progress
             - Yuzunamiki (Ninja)
             - Shelirionach (Mage/Priest)
 
-    Party 2:
+    - Party 2
         - Front Row
             - MC (Priest)
             - Rinne (Ninja/Thief)
@@ -289,7 +289,7 @@ These are some parties I have personally and successfully used to clear progress
 
 ??? note "Anemone Release"
 
-    Party 1:
+    - Party 1
         - Front Row
             - Shiou (Samurai/Fighter)
             - Linaria (Thief)
@@ -299,7 +299,7 @@ These are some parties I have personally and successfully used to clear progress
             - Yuzunamiki (Ranger/Ninja)
             - Anemone (Healer)
 
-    Party 2:
+    - Party 2
         - Front Row
             - MC (Priest)
             - Rinne (Ninja/Thief)

@@ -126,6 +126,7 @@
         - Warning! If you collect any berries on your way to the berry patch the bone will not spawn.
         - Go back the way you came and reverse the Stonefolk blocking the berry patch. 
         - Interact with all 5 berry patches. The last one will trigger a chest with the monthly bone. 
+        - Return to Iris and give her the 5 berries. The reason you do this is so that next month your run does not end prematurely because you will still have berries in your Valuables inventory. 
         - Return to the Route 5 Harken to exit. 
 
     === "Potential Bug"
