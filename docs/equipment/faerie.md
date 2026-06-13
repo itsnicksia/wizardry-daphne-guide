@@ -1,15 +1,22 @@
 # Faerie Equipment
 
-## Basics
-
-### How to Unlock 
-
 !!! warning "How to Unlock"
 
-    - Faerie-exclusive equipment only unlocks after Anemone has been pulled. She does not need to be registered or in the active party.
-    - Must enter the Royal Capital and watch a brief cutscene between two Adventurers. 
-    - Do not need to speak with the Guild elf expert. 
-    - The Item Shop in each city will now sell basic gear of various tiers. None of these pieces come with Set Effects. 
+    - Faerie-exclusive equipment only unlocks after Anemone has been pulled. She does not need to be registered or in the active party. 
+    - Enter the Royal Capital from the map to watch a brief cutscene between two random Adventurers. This is the sign that Faerie gear is now added to your account. 
+    - Speaking with the Guild elf expert is not required. 
+    - The Item Shops in all towns should now sell generic Faerie gear. None of these pieces come with Set Effects. 
+    
+## Basics
+
+- Faerie gear is race exclusive and cannot be used by other units. Class restrictions still apply. For Anemone, as a Healer, this means she can only equip 1H Staffs and Cloth armor. 
+- Faeries can equip normal Cloth gear, but it comes with a serious penalty. All inherent stats are reduced to zero (0). Stat increases only come from your Blessing lines (sub-stats).
+- This forces you to use Faerie weapons since the majority of your 
+
+
+
+
+
 
 ### Non-Fine (?) versus Fine 
 
