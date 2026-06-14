@@ -1,0 +1,18 @@
+.md-main__inner.md-grid {
+    max-width: 80rem;
+}
+
+.md-typeset {
+    font-size: .85rem;
+    padding: 3px 8px;
+    line-height: 1.4;
+}
+
+.md-typeset details {
+    font-size: .80rem;
+    padding: 3px 8px;
+}
+
+.md-typeset .admonition {
+    font-size: .80rem;
+}
