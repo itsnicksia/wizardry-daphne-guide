@@ -46,6 +46,7 @@ function buildTableFromSheet({containerElementId, url, columnRange, plugins = []
         {
             download: true,
             header: false,
+            dynamicTyping: false,
             complete: ({ data, meta }) => {
                 let html = [
                     "<div class='md-typeset__scrollwrap'>",
