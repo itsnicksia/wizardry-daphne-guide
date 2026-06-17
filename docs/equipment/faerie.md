@@ -12,11 +12,15 @@
 - Faerie gear is race restricted and cannot be used by other units. Class restrictions still apply. For Anemone, as a Healer, this means she can only equip 1H Staffs and Cloth armor. 
 - Faeries can equip normal Cloth armor, but it comes with a serious penalty. All inherent stats are reduced to zero (0). Stat increases only come from your Blessing lines (sub-stats). The only exceptions are accessories and inherent gear passives. 
 - Faerie units will under perform without a Faerie weapon equipped since they will lose out on 200+ points to their primary class stat. Weapons have the lowest drop rate at 2.5%.
-- All Faerie equipment comes at 1/3 [Strength (Unification)](). This means you need 3 copies for +15 enhancement and 9 copies for +20.    
+
 ## Sets 
 
-- Faerie equipment comes in sets. There are a total of 12 as of Anemone's release.
-- Each has a Set Name, Set Skill, and Set Effect. The Set Skill provides a unique passive (Set Effect) that provides an additional benefit. 
+=== "Basics" 
+
+    - Faerie equipment comes in sets. There are a total of 12 as of Anemone's release.
+    - Each has a Set Name, Set Skill, and Set Effect. 
+    - The Set Skill provides a unique passive (Set Effect) that provides an additional benefit. 
+    - All Faerie equipment comes at 1/3 [Strength (Unification)](./blacksmithing.md#unify). This means you need 3 copies for +15 enhancement and 9 copies for +20.    
 
 === "Set Skills and Activation" 
 
@@ -39,35 +43,37 @@
     - It is possible to have 2 different Set Effects active at one time but requires careful planning.  
     - The Faerie Set system is inherently confusing. See the next set of tabs for examples. 
 
-=== "Set Level Example 1"
+=== "Set Level Examples"
 
-    - Equipped 
-        - 3 Base (Non-Fine)
-        - Set Skill Level: 0 
-    - Explanation 
-        - The minimum requirement of at least 3 pieces equipped is met. 
-        - Missing at least 1 Fine piece to activate the Set Skill. 
-        - Solution: Replace one of the 3 Base pieces with a Fine version or add a 4th Fine piece. 
+    === "Example 1" 
+    
+        - Equipped 
+            - 3 Base (Non-Fine)
+            - Set Skill Level: 0 
+        - Explanation 
+            - The minimum requirement of at least 3 pieces equipped is met. 
+            - Missing at least 1 Fine piece to activate the Set Skill. 
+            - Solution: Replace one of the 3 Base pieces with a Fine version or add a 4th Fine piece. 
 
-=== "Set Level Example 2"
+    === "Example 2"
+    
+        - Equipped
+            - 2 Base (Non-Fine)
+            - 2 Fine 
+            - Set Skill Level: 2
+        - Explanation 
+            - The minimum requirement of at least 3 pieces equipped is met. 
+            - Each Fine piece provides +1 to the Set Skill Level.  
 
-    - Equipped
-        - 2 Base (Non-Fine)
-        - 2 Fine 
-        - Set Skill Level: 2
-    - Explanation 
-        - The minimum requirement of at least 3 pieces equipped is met. 
-        - Each Fine piece provides +1 to the Set Skill Level.  
-
-=== "Set Level Example 3"
-
-     - Equipped
-         - 5 Fine 
-         - Set Skill Level: 4 
-    - Explanation
-        - The minimum requirement of at least 3 pieces equipped is met.
-        - The Set Skill Level has a maximum of Level 4. 
-        - Solution: Remove 1 of the pieces and see if you can add a second set, which would be capped at Level 3 as there are only 7 equipment slots available. 
+    === "Example 3"
+    
+         - Equipped
+             - 5 Fine 
+             - Set Skill Level: 4 
+        - Explanation
+            - The minimum requirement of at least 3 pieces equipped is met.
+            - The Set Skill Level has a maximum of Level 4. 
+            - Solution: Remove 1 of the pieces and see if you can add a second set, which would be capped at Level 3 as there are only 7 equipment slots available. 
 
 ### Faerie Set Table 
 
@@ -77,7 +83,7 @@
 |:----:|:---------------|:-----------------|:-----------------|:-------|:------:|:------:|:----:|:----:|:-----:|:----:|:---:|
 | A4   | Flower Petal   | Compassion       | Heal Boost           | Silver |🟣|   |🟣|🟣|🟣|   |🟣|
 | A4   | Toadskin       | Warding          | Res - Luck           | Silver |  |   |   |🟣|⚪|🟢|🟢|
-| A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp;     | Silver |   |🟢|🟣|🟢|🟢|   |   |
+| A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp; &emsp;     | Silver |   |🟢|🟣|🟢|🟢|   |   |
 | A3   | Bone-Adorned   | Soul-Soothing  &emsp;   | Undead Slayer        | Ebon   |🟣|   |⚪|⚪|🟣|   |🟢|
 | A3   | Fur            | Perserverance    | Dmg Reduction        | Ebon   |🟣|   |⚪|   |🟢|  |🟢|
 | A3   | Greenleaf      | Motivation       | MP - SP - Luck       | Ebon   |   |🟢|🟣|🟢|🟢|   |   | 
@@ -86,7 +92,7 @@
 | A2   | Insect Husk    | Stoneskin        | Acc - Eva - Luck     | Iron   |   |   |🟣|🟢|🟢|🟢|   |
 | A2   | Oldwood Bark   | Inspiration      | Div - Mag - Luck     | Iron   |🟣|   |🟢|   |  |🟢|🟢|
 | A1-2 | Budleaf        | Motivation       | MP - SP - Luck       | Bronze |   |🟢|🟣|🟢|🟢|   |   | 
-| A1-2 | Small Feathers &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🟣|🟢|🟢|   |   |
+| A1-2  &emsp; | Small Feathers &emsp; &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🟣|🟢|🟢|   |   |
 
 </div>
 
