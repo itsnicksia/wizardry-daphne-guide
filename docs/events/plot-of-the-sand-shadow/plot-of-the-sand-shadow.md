@@ -101,10 +101,10 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 
 ### Box Locations
 
-!!! note "Ninjas that are hiding as objects will instant kill you. Otherwise it's a 2 ninja fight. Ninjas waiting in ambush behind doors will be a 4 ninja fight.
+!!! note "Ninjas that are hiding as objects will instant kill you or deplete your party's HP into an ambush. Otherwise it's a 2 ninja fight. Ninjas waiting in ambush behind doors will be a 4 ninja fight.
 
 - B1F. (X:10, Y:12). Past the fake wall will be a dead body on floor. Don't walk over it, as it will result in an instant death. Click on the body instead.
-- B1F. (X:7, Y:18). There will be a ninja on the bridge. However it's an illusion and will be a forced ambush fight.
+- B1F. (X:7, Y:18). There will be a ninja on the bridge. However it's an illusion and will be a forced ambush fight. You can avoid this by going on the bridge from the north end.
 - B3F. (X:23, Y:4). There will be a training dummy in this area. Attempting to leave this area will result in an instant death. Click on the training dummy.
 - B2F. (X:24, Y:4). Past the door in bottom right room. The ninja in your party will indicate a ninja behind the door when attempting to go through. You have to go all the way around and not through the staircase from the 1st Floor. Instead, take the pitfall on B1F in the bottom left room. Then take the pitfall again, then walk all the way from the left to the right.
 - B3F. (X:5, Y:13). There will be a sandbag in this area. Attempting to leave this area will result in an instant death. Click on the sandbag.
