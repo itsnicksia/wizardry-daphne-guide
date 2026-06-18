@@ -21,7 +21,7 @@
 
 === "Basics" 
 
-    - Faerie equipment comes in sets. There are a total of 12 as of Anemone's release.
+    - Faerie equipment comes in sets. There is a total of 12 as of Anemone's release.
     - Each has a Set Name, Set Skill, and Set Effect. 
     - The Set Skill provides a unique passive (Set Effect) that provides an additional benefit. 
     - All Faerie equipment comes at 1/3 [Strength (Unification)](./blacksmithing.md#unify). This means you need 3 copies for +15 enhancement and 9 copies for +20.    
@@ -93,7 +93,7 @@
 | A4   | Toadskin       | Warding          | Res - Luck           | Silver |  |   |   |🔵|⚪|🟢|🟢|
 | A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp; &emsp;     | Silver |   |🟢|🔵|🟢|🟢|   |   |
 | A3   | Bone-Adorned   | Soul-Soothing  &emsp;   | Undead Slayer        | Ebon   |🔵|   |⚪|⚪|🔵|   |🟢|
-| A3   | Fur            | Perserverance    | Dmg Reduction        | Ebon   |🔵|   |⚪|   |🟢|  |🟢|
+| A3   | Fur            | Perseverance    | Dmg Reduction        | Ebon   |🔵|   |⚪|   |🟢|  |🟢|
 | A3   | Greenleaf      | Motivation       | MP - SP - Luck       | Ebon   |   |🟢|🔵|🟢|🟢|   |   | 
 | A3   | Sacred Tree    | Inspiration      | Div - Mag - Luck     | Steel  |🔵|   |🟢|   |   |🟢|🟢|
 | A3   | Winged Insect  | Stoneskin        | Acc - Eva - Luck     | Steel  |   |   |🔵|🟢|🟢|🟢|   |
@@ -130,7 +130,7 @@
     ![](img/motivation.png){ width="450" }
     </div>
 
-=== "Perserverance" 
+=== "Perseverance" 
 
     <div align="center">
     ![](img/perserverance.png){ width="450" }
@@ -187,8 +187,6 @@
     - This number is misleading. If you are looking for a 4* Purple, 1H rod for Anemone the actual drop rate is 30% (Group 2) x 2.5% = 0.75%. Note that this is only from Unusual Fairy junk, so it would take several hundred to get 9 copies in order to +20 any weapon.
       
 ## Farming
-
-### Overview
 
 !!! warning "This section is a WIP and will be updated over time." 
 
