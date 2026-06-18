@@ -373,8 +373,9 @@
         1. Small Heavy White Stone = Silver, which coins are made of.
         2. Stone with Yellow Specks = Gold, but small amount so only worth 1/10th of a coin.
         3. Large Reddish Brown Stone = Iron (in high demand)
-        4. Large Brownish-Green Stone = Copper (not worth much)
-        5. Black Stone = Coal (not worth much)
+        4. Shiny Black Stone = Tin (cheap rock after copper and coal)
+        5. Large Brownish-Green Stone = Copper (not worth much)
+        6. Small Dark Stone = Coal (not worth much)
 
 ## Being That Dwells in the Home of God
 
