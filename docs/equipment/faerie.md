@@ -84,7 +84,7 @@
 | A4   | Flower Petal   | Compassion       | Heal Boost           | Silver |🟣|   |🟣|🟣|🟣|   |🟣|
 | A4   | Toadskin       | Warding          | Res - Luck           | Silver |  |   |   |🟣|⚪|🟢|🟢|
 | A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp; &emsp;     | Silver |   |🟢|🟣|🟢|🟢|   |   |
-| A3   | Bone-Adorned   | Soul-Soothing  &emsp;   | Undead Slayer        | Ebon   |🟣|   |⚪|⚪|🟣|   |🟢|
+| A3   | Bone-Adorned   | Soul-Soothing  &emsp; &emsp;   | Undead Slayer        | Ebon   |🟣|   |⚪|⚪|🟣|   |🟢|
 | A3   | Fur            | Perserverance    | Dmg Reduction        | Ebon   |🟣|   |⚪|   |🟢|  |🟢|
 | A3   | Greenleaf      | Motivation       | MP - SP - Luck       | Ebon   |   |🟢|🟣|🟢|🟢|   |   | 
 | A3   | Sacred Tree    | Inspiration      | Div - Mag - Luck     | Steel  |🟣|   |🟢|   |   |🟢|🟢|
@@ -92,38 +92,36 @@
 | A2   | Insect Husk    | Stoneskin        | Acc - Eva - Luck     | Iron   |   |   |🟣|🟢|🟢|🟢|   |
 | A2   | Oldwood Bark   | Inspiration      | Div - Mag - Luck     | Iron   |🟣|   |🟢|   |  |🟢|🟢|
 | A1-2 | Budleaf        | Motivation       | MP - SP - Luck       | Bronze |   |🟢|🟣|🟢|🟢|   |   | 
-| A1-2  &emsp; | Small Feathers &emsp; &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🟣|🟢|🟢|   |   |
+| A1-2 | Small Feathers &emsp; &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🟣|🟢|🟢|   |   |
 
 </div>
 
 ⚪ Base only 🟣 Fine only 🟢 Both  
-
-Note: Table's default organization is by Abyss. 
 
 ### Set Skill Effects 
 
 === "Compassion"
 
     <div align="center">
-    ![](img/compassion.png)
+    ![](img/compassion.png){ width="550" }
     </div>
 
 === "Hawk's Eye"
 
     <div align="center">
-    ![](img/hawks-eye.png)
+    ![](img/hawks-eye.png){ width="550" }
     </div>
 
 === "Inspiration"
 
     <div align="center">
-    ![](img/inspiration.png)
+    ![](img/inspiration.png){ width="550" }
     </div>
 
 === "Motivation"
 
     <div align="center">
-    ![](img/motivation.png)
+    ![](img/motivation.png){ width="550" }
     </div>
 
 === "Perserverance" 
