@@ -102,21 +102,15 @@
 
 === "Compassion"
 
-    <div align="center">
     ![](img/compassion.png){ width="550" }
-    </div>
 
 === "Hawk's Eye"
 
-    <div align="center">
     ![](img/hawks-eye.png){ width="550" }
-    </div>
 
 === "Inspiration"
 
-    <div align="center">
     ![](img/inspiration.png){ width="550" }
-    </div>
 
 === "Motivation"
 
@@ -145,17 +139,8 @@
 === "Warding"
 
     <div align="center">
-    ![](img/warding.png)
+    ![](img/warding.png){ width="550" }
     </div>
-
-
-
-
-
-### Item Shop
-
-- Just need a table of what's available?
-
 
 ## Faerie Junk  
 
