@@ -82,7 +82,7 @@
 ### Faerie Set Table 
 
 <div style="text-align: right;">
-⚪ Base only 🔵 Fine only 🟢 Both  
+<span style="font-size: 0.70em;">⚪ Base only 🔵 Fine only 🟢 Both</span>
 </div>
 
 <div class="narrow-table" markdown>
