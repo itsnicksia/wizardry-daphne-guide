@@ -79,12 +79,12 @@
 
 <div class="narrow-table" markdown>
     
-|Abyss | Set Name       | Set Skill        | Effect           | Rank  &emsp; | 1H Rod | Shield | Head | Body | Glove | Shoe | Acc | 
+|Abyss | Set Name       | Set Skill        | Effect           | Rank  &emsp; | Wpn | Shield | Head | Body | Glove | Shoe | Acc | 
 |:----:|:---------------|:-----------------|:-----------------|:-------|:------:|:------:|:----:|:----:|:-----:|:----:|:---:|
 | A4   | Flower Petal   | Compassion       | Heal Boost           | Silver |🟣|   |🟣|🟣|🟣|   |🟣|
 | A4   | Toadskin       | Warding          | Res - Luck           | Silver |  |   |   |🟣|⚪|🟢|🟢|
 | A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp; &emsp;     | Silver |   |🟢|🟣|🟢|🟢|   |   |
-| A3   | Bone-Adorned   | Soul-Soothing  &emsp; &emsp;   | Undead Slayer        | Ebon   |🟣|   |⚪|⚪|🟣|   |🟢|
+| A3   | Bone-Adorned   | Soul-Soothing  &emsp;   | Undead Slayer        | Ebon   |🟣|   |⚪|⚪|🟣|   |🟢|
 | A3   | Fur            | Perserverance    | Dmg Reduction        | Ebon   |🟣|   |⚪|   |🟢|  |🟢|
 | A3   | Greenleaf      | Motivation       | MP - SP - Luck       | Ebon   |   |🟢|🟣|🟢|🟢|   |   | 
 | A3   | Sacred Tree    | Inspiration      | Div - Mag - Luck     | Steel  |🟣|   |🟢|   |   |🟢|🟢|
@@ -102,7 +102,9 @@
 
 === "Compassion"
 
+    <div align="center">
     ![](img/compassion.png){ width="550" }
+    </div>
 
 === "Hawk's Eye"
 
@@ -121,19 +123,19 @@
 === "Perserverance" 
 
     <div align="center">
-    ![](img/perserverance.png)
+    ![](img/perserverance.png){ width="550" }
     </div>
 
 === "Stoneskin"
 
     <div align="center">
-    ![](img/stone-skin.png)
+    ![](img/stone-skin.png){ width="550" }
     </div>
 
 === "Soul-Soothing"
 
     <div align="center">
-    ![](img/soul-soothing.png)
+    ![](img/soul-soothing.png){ width="550" }
     </div>
 
 === "Warding"
