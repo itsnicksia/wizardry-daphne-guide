@@ -7,13 +7,17 @@
     - Speaking with the Guild elf expert is not required. 
     - The Item Shops in all towns should now sell generic Faerie gear. None of these pieces come with Set Effects. 
     
-## Basics
+### Basics
 
 - Faerie gear is race restricted and cannot be used by other units. Class restrictions still apply. For Anemone, as a Healer, this means she can only equip 1H Staffs and Cloth armor. 
-- Faeries can equip normal Cloth armor, but it comes with a serious penalty. All inherent stats are reduced to zero (0). Stat increases only come from your Blessing lines (sub-stats). The only exceptions are accessories and inherent gear passives. 
-- Faerie units will under perform without a Faerie weapon equipped since they will lose out on 200+ points to their primary class stat. Weapons have the lowest drop rate at 2.5%.
+- Faeries can equip normal equipment, but it comes with a serious penalty.
+    - All inherent stats are reduced to zero (0).
+    - Stat increases only come from your Blessing lines.
+    - The only exceptions are accessories and inherent gear passives. 
+- Faerie units will underperform without a Faerie weapon equipped since they will lose out on 200+ points to their primary class stat. Weapons have the lowest drop rate at 2.5%.
+- Faerie equipment only comes from Faerie Junk, which is dropped by a rare enemy called the Capricious Pixie.  
 
-## Sets 
+### Sets 
 
 === "Basics" 
 
@@ -83,7 +87,7 @@
 |:----:|:---------------|:-----------------|:-----------------|:-------|:------:|:------:|:----:|:----:|:-----:|:----:|:---:|
 | A4   | Flower Petal   | Compassion       | Heal Boost           | Silver |🟣|   |🟣|🟣|🟣|   |🟣|
 | A4   | Toadskin       | Warding          | Res - Luck           | Silver |  |   |   |🟣|⚪|🟢|🟢|
-| A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp; &emsp;     | Silver |   |🟢|🟣|🟢|🟢|   |   |
+| A4   | Windrider      | Hawk's Eye       | Acc - Eva - Luck  &emsp;     | Silver |   |🟢|🟣|🟢|🟢|   |   |
 | A3   | Bone-Adorned   | Soul-Soothing  &emsp;   | Undead Slayer        | Ebon   |🟣|   |⚪|⚪|🟣|   |🟢|
 | A3   | Fur            | Perserverance    | Dmg Reduction        | Ebon   |🟣|   |⚪|   |🟢|  |🟢|
 | A3   | Greenleaf      | Motivation       | MP - SP - Luck       | Ebon   |   |🟢|🟣|🟢|🟢|   |   | 
@@ -92,7 +96,7 @@
 | A2   | Insect Husk    | Stoneskin        | Acc - Eva - Luck     | Iron   |   |   |🟣|🟢|🟢|🟢|   |
 | A2   | Oldwood Bark   | Inspiration      | Div - Mag - Luck     | Iron   |🟣|   |🟢|   |  |🟢|🟢|
 | A1-2 | Budleaf        | Motivation       | MP - SP - Luck       | Bronze |   |🟢|🟣|🟢|🟢|   |   | 
-| A1-2 | Small Feathers &emsp; &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🟣|🟢|🟢|   |   |
+| A1-2 | Small Feathers &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🟣|🟢|🟢|   |   |
 
 </div>
 
@@ -107,12 +111,16 @@
     </div>
 
 === "Hawk's Eye"
-
+  
+    <div align="center">
     ![](img/hawks-eye.png){ width="550" }
+    </div>
 
 === "Inspiration"
 
+    <div align="center">
     ![](img/inspiration.png){ width="550" }
+    </div>
 
 === "Motivation"
 
