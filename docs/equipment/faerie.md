@@ -107,89 +107,71 @@
 === "Compassion"
 
     <div align="center">
-    ![](img/compassion.png){ width="550" }
+    ![](img/compassion.png){ width="500" }
     </div>
 
 === "Hawk's Eye"
   
     <div align="center">
-    ![](img/hawks-eye.png){ width="550" }
+    ![](img/hawks-eye.png){ width="500" }
     </div>
 
 === "Inspiration"
 
     <div align="center">
-    ![](img/inspiration.png){ width="550" }
+    ![](img/inspiration.png){ width="500" }
     </div>
 
 === "Motivation"
 
     <div align="center">
-    ![](img/motivation.png){ width="550" }
+    ![](img/motivation.png){ width="500" }
     </div>
 
 === "Perserverance" 
 
     <div align="center">
-    ![](img/perserverance.png){ width="550" }
+    ![](img/perserverance.png){ width="500" }
     </div>
 
 === "Stoneskin"
 
     <div align="center">
-    ![](img/stone-skin.png){ width="550" }
+    ![](img/stone-skin.png){ width="500" }
     </div>
 
 === "Soul-Soothing"
 
     <div align="center">
-    ![](img/soul-soothing.png){ width="550" }
+    ![](img/soul-soothing.png){ width="500" }
     </div>
 
 === "Warding"
 
     <div align="center">
-    ![](img/warding.png){ width="550" }
+    ![](img/warding.png){ width="500" }
     </div>
 
-## Faerie Junk  
+### Faerie Junk  
 
-### Capricious Pixie 
+#### Capricious Pixie 
 
 === "Basics" 
 
-    - The -only- enemy that can drop a chest with Fairy junk after a battle. It does -not- drop from normal Pixies. They are the singular source for Faerie equipment outside the Item Shop.  
-    - Extremely rare encounter. Rates are similar to a Ninja, Mimic, or Relic monster, estimated at 1-2%. 
-    - Guaranteed to drop at least 1x basic Fairy junk. The maximum is 2x basic and 1x rare (Unusual) junk. The amount of junk appears to be purely RNG-based.
-    - Can appear in every Abyss and elemental Den, and a handful of side dungeons.
-    - 7 different varieties. A base version and one for each of the 6 different Types (elements). Compendium entries are No. 194-200. 
-    - Do not appear to have higher HP or unique attacks compared to normal Pixies.  
+    - The Capricious Pixie is the only source of Fairy Junk in the game outside limited-time events. It does not drop from normal Pixies. The only source for Faerie equipment is the Item Shop.   
+    - Extremely rare. Encounter rates are similar to a Ninja, Mimic, or Relic monster, estimated at 1-2%. 
+    - Guaranteed to drop at least 1x basic Fairy junk. The maximum is 2x basic and 1x Unusual junk. The amount of junk appears to be purely RNG-based.
+    - Appears in every Abyss on select floors, Dens, and a handful of side dungeons.
+    - 7 different varieties. A base version and one for each of the 6 different Types. Compendium entries are No. 194-200. 
+    - Does not have higher HP or unique attacks compared to normal Pixies.  
 
 === "Mechanics" 
 
+    - Only appear in a specific sub-set of enemy formations for a given floor. 
+    - When those enemy formations are encountered it appears the game does an RNG roll for adding a Capricious Pixie to the battle. 
+    - Discord members have reported encountering 1 Caprcious Pixie every ~2 hours, on average. Consequently, building a full set of +20 gear is a long-term project given their low appearance rates. 
 
-Faerie equipment is not part of the normal junk pool and does not dilute your chances at rolling other types of gear.     
-
-Capricious Pixie 
-- Appears in each Abyss and side dungeons
-- Only joins specific enemy icon (small, big, slime, flying, bear) and composition
-- Each enemy icon can roll multiple enemy comp variations
-- Standard, Earth, Fire, Air, Water, Light, and Dark varieties (compendium # x-y)
-- % chance to join, estimated at roughly 3-4%
-- They are extremely rare!
-
-- Access to Faerie-exclusive gear, but requires having pulled Anemone. She does not need to be registered or in your party 
-- Faeries can equip normal gear, but all inheret stats are fixed at 0 only sub-stats (blessings) apply 
-- Restricted to 1H rods and Cloth (?) gear 
-- Acccessory passives work properly
-
-
-
-Item Shop
-- No set bonuses?
-
-
-### Junk Details
+#### Junk Details
 
 - 2 Groups
 - Group 1: 30%
