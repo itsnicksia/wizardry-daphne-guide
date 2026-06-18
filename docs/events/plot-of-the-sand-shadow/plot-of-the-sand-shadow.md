@@ -87,3 +87,30 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
     ![](img/ssc-farm-no-boss-3.png)
 
     To do the farm, please follow the arrows from the entrance and the corresponding numbers
+
+## Guide for Follow Up Request of the Same Name
+
+!!! warning "This request must be completed all in one go. Any boxes collected during the request will be removed upon entering the cave."
+
+!!! note "Bringing a Ninja will make this request a lot easier on the first time around, as they will indicate ninjas in certain areas."
+
+1. Start in the Royal Capital and accept the quest "Paulownia Box Recovery". It will have the same name but will be a different request.
+2. Head to Sand Shadow Cave and begin exploring.
+3. Basically you will need to collect minimum 5 boxes from hiding ninjas around the cave. There are 7 possible locations however. Collecting more than 5 will make the final boss fight easier. There are two typical encounters, either finding a ninja within a certain location or dealing with a ninja hiding behind a door waiting to ambush you. Typically, failing to find the ninja will result in being instantly killed, while failing to deal with the ninja behind the door will result in being ambushed with a ninja fight.
+4. After collecting a minimum of 5 boxes, head to the final room of the cave to talk to the Heat Haze Ninja and turn in the boxes. This will result in a boss fight similar to that of the 1st request. Collecting more boxes will reduce the number of ninjas that need to be fought. 5 Boxes will result in the final boss fight having to fight 7 ninjas (3 rows), and every box after that reduces the ninjas by 2 per box.
+
+### Box Locations
+
+!!! note "Ninjas that are hiding as objects will instant kill you or deplete your party's HP into an ambush. Otherwise it's a 2 ninja fight. Ninjas waiting in ambush behind doors will be a 4 ninja fight.
+
+- B1F. (X:10, Y:12). Past the fake wall will be a dead body on floor. Don't walk over it, as it will result in an instant death. Click on the body instead.
+- B1F. (X:7, Y:18). There will be a ninja on the bridge. However it's an illusion and will be a forced ambush fight. You can avoid this by going on the bridge from the north end.
+- B3F. (X:23, Y:4). There will be a training dummy in this area. Attempting to leave this area will result in an instant death. Click on the training dummy.
+- B2F. (X:24, Y:4). Past the door in bottom right room. The ninja in your party will indicate a ninja behind the door when attempting to go through. You have to go all the way around and not through the staircase from the 1st Floor. Instead, take the pitfall on B1F in the bottom left room. Then take the pitfall again, then walk all the way from the left to the right.
+- B3F. (X:5, Y:13). There will be a sandbag in this area. Attempting to leave this area will result in an instant death. Click on the sandbag.
+- B2F. (X:1, Y:16). There will be a barrel in this area. Attempting to leave this area will result in an instant death. Click on the barrel.
+- B1F. (X:11, Y:24). You will get notification from your ninja if attempting to come through right door. Instead, go through bottom door.
+
+### Reward
+
+![](img/heat-haze-headguard.png)

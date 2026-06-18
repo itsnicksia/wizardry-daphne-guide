@@ -391,7 +391,7 @@ window.RESPAWN_SECTIONS = [
         {
           id: 'a3_z10_scroll_sharedhealing',
           title: 'Scroll of Shared Healing',
-          details: 'Chest in Zone 10 ("Bottom of Statue Room"). [30 Days]',
+          details: 'Chest in Zone 10 ("Bottom of Statue Room"). [7 Days]',
           image: '',
           clickable: true,
         },
