@@ -81,6 +81,10 @@
 
 ### Faerie Set Table 
 
+<div style="text-align: right;">
+⚪ Base only 🔵 Fine only 🟢 Both  
+</div>
+
 <div class="narrow-table" markdown>
     
 |Abyss | Set Name       | Set Skill        | Effect           | Rank   | Wpn | Shield | Head | Body | Glove | Shoe | Acc | 
@@ -95,12 +99,10 @@
 | A3   | Winged Insect  | Stoneskin        | Acc - Eva - Luck     | Steel  |   |   |🔵|🟢|🟢|🟢|   |
 | A2   | Insect Husk    | Stoneskin        | Acc - Eva - Luck     | Iron   |   |   |🔵|🟢|🟢|🟢|   |
 | A2   | Oldwood Bark   | Inspiration      | Div - Mag - Luck     | Iron   |🔵|   |🟢|   |  |🟢|🟢|
-| A1-2 | Budleaf        | Motivation       | MP - SP - Luck       | Bronze |   |🟢|🔵|🟢|🟢|   |   | 
-| A1-2 | Small Feathers &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🔵|🟢|🟢|   |   |
+| A1   | Budleaf        | Motivation       | MP - SP - Luck       | Bronze |   |🟢|🔵|🟢|🟢|   |   | 
+| A1   | Small Feathers &emsp; | Hawk's Eye       | Acc - Eva - Luck     | Bronze |   |🟢|🔵|🟢|🟢|   |   |
 
 </div>
-
-⚪ Base only 🔵 Fine only 🟢 Both  
 
 ### Set Skill Effects 
 
