@@ -110,6 +110,8 @@
 		- [Debra](../adventurers/legendary-adventurers/details/Debra.md)
 		- [Gerard](../adventurers/legendary-adventurers/details/Gerard.md)
 		- [Lanavaille](../adventurers/legendary-adventurers/details/Lanavaille.md)
+		- [Savia](../adventurers/legendary-adventurers/details/Savia.md)
+		- [Shiou](../adventurers/legendary-adventurers/details/Shiou.md)
 		- [Yekaterina](../adventurers/legendary-adventurers/details/Yekaterina.md)
 	
 	=== "General" 
@@ -145,7 +147,22 @@
 	- For General units the same logic applies. Chloe’s featured stats are SP and RES. Her alternative version, Summer Chloe, has SP and SUR, which is more desirable for both her classes.
 	- The shared discipline system also allows you to switch styles without sacrificing stats (D0 versus Dx) if you need a particular Unique or Discipline Skill depending on what you are facing. For instance you can use standard Adam for auto-farming due to his higher MAG, ASPD, and lower MP costs; then switch styles to Millennial Lord Adam when fighting a Dark boss to take advantage of his unique skill. 
 
-## Merging Bonus Traits 
+## Advanced Topics 
+
+### Fixing a IV 
+
+- If you are regularly on the Discord or Reddit you will often see veterans talk about using the merging system to "fix" a unit's IV Trait.
+- Most new players immediately begin building the first set of Legendaries that they pull without fully understanding how the Trait or system works. This is totally normal and impossible to know in advance without reading up on the game.
+- Other times you are stuck with whatever Legendary copy you pull due to limited gems or not wanting to do a full 100 pull.
+- Alternative style banners provide a second opportunity to "fix" your standard unit as well as re-allocate their BP.
+- Steps
+	- Double-check that the alternative style you pulled has the IV Trait that you want. See the [IV section](./traits-and-stats#trait-boost-iv.md) for details.
+ 	- Use the alternative style as the base of the merge
+  	- Re-allocate BP as desired   
+
+### Merging Bonus Traits 
+
+!!! warning "(Posted: 6/20) This section will soon have a major overhaul. The information listed is correct, but we now have more insight and data into the actual Trait, stat, and growth formulas."
 
 === "Mechanics"
 
