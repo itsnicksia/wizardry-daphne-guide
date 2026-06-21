@@ -156,7 +156,7 @@
 - Other times you are stuck with whatever Legendary copy you pull due to limited gems or not wanting to do a full 100 pull.
 - Alternative style banners provide a second opportunity to "fix" your standard unit as well as re-allocate their BP.
 - Steps
-	- Double-check that the alternative style you pulled has the IV Trait that you want. See the [IV section](./traits-and-stats#trait-boost-iv.md) for details.
+	- Double-check that the alternative style you pulled has the IV Trait that you want. See the [IV section](../traits-and-stats.md) for details.
  	- Use the alternative style as the base of the merge
   	- Re-allocate BP as desired   
 
