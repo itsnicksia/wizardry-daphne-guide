@@ -58,3 +58,16 @@ There are multiple endings for this event, but overall the event is very quick t
 
 ??? item "Unique Item Drop"
     ![](img/mauve_shield.jpg)
+
+## I Want You to Find an Old Cohort - Follow-up Request
+
+You will need to have defeated Our Heirlooms in the Third Abyss to unlock this portion of the request, as well as having unlocked relicbrews.
+
+## Guide for follow-up request
+
+1. Pick up the request in the Royal Capital under the Featured Tab.
+2. Head to the Black Barrel Tavern for more information about the request.
+3. Head to the Cave of Flowers Entrance. There will be a cutscene upon walking forward a bit. There will be fixed mobs that drop 1* Relicbrews on the way to the location. 
+4. You will need to first head to the bottom left staircase on B1F. You'll then need to head to (X:2, Y:10) and interact with the desk to get more information.
+5. Head to the Grasslands and walk forwards. You should see an NPC on the left that you need to interact with. This will begin a relic Monster Bird fight.
+6. After defeating the Monster Bird, head back to the Black Barrel Tavern. Request will be completed, and you can now head back to the Royal Capital to turn in the request.

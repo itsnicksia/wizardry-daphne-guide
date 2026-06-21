@@ -390,6 +390,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Gleambright                      | 4076              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Cursefruit                   | 4077              |
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Rootcrystal           | 4078              |
+| Laughing Bird's Divine Songcall            | Divine Up, Magic Up, Crit Tol down   | ?           | Laughing Bird          | Laughing Bird Cursefruit                | 4079              |
 | Composite Beast's Mighty Arm               | Attack Up, Water Res Down            | Good        | Chimera                | Composite Beast Bloodwood               | 4080              |
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4081              |
 | Wind-Cutting Fowl's Wingfeathers           | Crit Tol Up, Evade Trap Down         | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4082              |
@@ -399,7 +400,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Golden Husk of the Man-Eating Gold Box     | Def Up, Magic Def Up, Evasion Down   | Good        | Golden Mimic           | Man Eating Gold Box Twisted Rootcrystal | 4087              |
 | Sharp Claws of the Beheading Snow Hare     | Surety Up, Divine Down               | Neutral     | Snow Bunny             | Beheading Snow Rabbit Twisted Bloodwood | 4088              |
 | One-Eyed White Giant's Mighty Arm          | Attack Up, Surety Up, ASPD Down      | Evil        | Snowpeak Cyclops       | One-Eyed White Giant's Twisted Bloodwood| 4089              |
-| Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol down         | Good        | Big Snow Hawk          | Wind-Cutting Raptor Twisted Gleamblight | 4090              |
+| Wind-Cutting Fowl's Keen Eye               | Evade Trap up, Crit Tol Down         | Good        | Big Snow Hawk          | Wind-Cutting Raptor Twisted Gleamblight | 4090              |
 | Snow Child's White Fur                     | Res Up, Def Down                     | Evil        | Bigfoot Child          | Snow Child Twisted Spiritcoral          | 4091              |
 | Snow Man's Energy Lump                     | SP Up, MP Down                       | Good        | Bigfoot                | Snow Man Twisted Bloodwood              | 4092              |
 | Spirit Flow of the Ice Wolf                | Magic Up, Fire Res Down              | Good        | Snow Wolf              | Ice Wolf Twisted Cursefruit             | 4093              |

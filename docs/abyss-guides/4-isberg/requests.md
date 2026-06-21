@@ -391,8 +391,6 @@
 
 You need to complete Ore Mining. Otherwise, this request will automatically fail.
 
-!!! warning "The exact mechanics of this request isn't known for sure, but what's listed is perhaps how it works"
-
 ??? note "Request Guide"
 
     === "Walkthrough"
@@ -425,8 +423,6 @@ You need to complete Ore Mining. Otherwise, this request will automatically fail
 ### Trial of the Stone God
 
 This request requires Ore Mining and Find my Kitty (including all their pre-reqs obviously). You also need to have completed at least the 3rd ending for this abyss?
-
-!!! bug "After the 2nd completion, Lulunarde will glitch onscreen briefly before disappearing and no longer calling out the request giver"
 
 ??? note "Request Guide"
 
@@ -478,3 +474,101 @@ This request requires Ore Mining and Find my Kitty (including all their pre-reqs
             - The entire ordeal will play out the same, except you can skip the 1st Trial by closing your eyes.
             - When returning to the tavern, you can give the stone to the requester for some gold and junk. She will promptly be chased out by the ore merchant.
             - You will actually keep the Devotional Stone. Its use is not yet known.
+
+### Arena Tourney Hosted by Avare! Chase Back-to-Back Wins!
+
+This request requires Trial of the Stone God and Arena Tourney Hosted by Avare! completed for this to show up.
+
+??? note "Request Guide"
+
+    === "Walkthrough"
+
+        - The request is quite straightforward. Pick up the request in Isberg and accept going to the tourney.
+        - There are 4 rounds in the Tournament. It's similar to the one in A2, except obviously it's scaled to A4 difficulty.
+        - After winning all 4 rounds, receive the Dragon's Keen Talon and bring it back to Balsamo.
+
+            ??? warning "Rewards"
+                - Some Gold
+                - Balsamo will become a Bondmate. He gives Trap Detect.
+
+    === "Battle Composition Per Round"
+
+        ??? danger "Round 1"
+
+            ![](./img/avare-1.png)
+
+            - Ninjas have typical moveset. Low HP, should prioritize taking them out. Can be evaded.
+            - Samurai have a lot of HP. After taking enough damage, they will self-buff with Self-Healing, and 40 turns of CT up, DEF up and MDEF up. They will also do much more damage.
+    
+        ??? danger "Round 2"
+
+            ![](./img/avare-2.png)
+
+            - The Elf Priest will immediately cast 5 Turns of Makaltu on the frontline.
+            - All the beasts have moderate amounts of HP, with the Elf Priest having very little HP
+            - The Elf Priest can cast Makalki and Madios, which heals for 5.5k HP.
+    
+        ??? danger "Round 3"
+
+            ![](./img/avare-3.png)
+
+            - The Necromancer immediately summons 2 Wights and 2 Skeleton Mages in the back row and permanently buffs them with DEF Up.
+            - Vampires have very low HP
+            - Wights prioritize using SP drain, Skeleton mage and Necromancer have typical moveset.
+            - Necromancer is immune to CT Down.
+    
+        ??? danger "Round 4"
+
+            ![](./img/avare-4.png)
+
+            - Cyclops has around 80k HP. It is also effectively surety immune (just very high surety evasion)
+            - Has 2 actions a turn. Otherwise, typical Cyclops moveset.
+            - After taking enough damage, gains a permanent ATK, ACC, and CT up buff.
+        -
+
+### Rebuilding Rockhome Village
+
+This request requires you to save all the children successfully after A4 is completed.
+
+??? note "Request Guide"
+
+    === "Walkthrough"
+
+        - Head to Route 9 shack and talk to Nero. Agree to help rebuild Rockhome.
+        - Head to Route 3 and listen to the conversation on selecting a new Mayor. Agree to help clear route 6.
+        - Head to Route 6. Walking away from the Harken will spawn many groups of mobs. You need to clear all of them. Lulunarde will tell you when you are making progress and when you are completed with the area. All the mobs that need to be killed are visible on the minimap, and normal mobs will not spawn in the area. After clearing the group around the Harken and top right of the map, you'll need to head to the top left of the map. There will be more groups that need to be killed. All these fights must also be done in one go, otherwise this part of the request fails. Lulunarde will tell you when all the groups are killed.
+        - Head back to Route 3 and talk to the Timid Mayor Candidate. He will head to Route 9 to look around. Head to Route 9 via the Route 7 Harken. Walk to the bottom left of the map. This will spawn more groups of enemies. Before fighting them, head into the shack to talk to the Timid Mayor Candidate. He may be on the same exact tile as the Dutz bounty target. After talking to him and he disappears, clear out the groups of mobs around this area. These mobs will be much more difficult than the ones on Route 6, but there are fewer that need to be killed. Lulunarde will let you know when you are done.
+        - Head back to Route 3 and talk to Nero to let them know that all the monsters have been cleared. Once again talk to Nero, who asks you to find an outsider to bring to Rockhome. Talk to the Timid Mayor Candidate who will give you are recommendation to go to the Port Town Grand Legion to find a candidate, as they may have fishing skills. Head to Port Town and enter Lower Deck 2 and talk to the NPC at (x:1, Y:17). Recruit him to go to Rockhome
+        - Head back to Route 3 in Isberg and talk to Nero. Talk to him again and select the Timid Mayor Candidate.
+
+            ??? warning "Rewards"
+                - A Fey junk from A4
+                - Some Gold
+                - Nero will become a bondmate. He gives ATK and Stun Tolerance.
+
+    === "Possible Monster Fights"
+
+        ??? danger "South Lakeshore Right Side (8 fights)"
+
+            - 3 Snow Bunnies in front, 3 Snow Wolves in back
+            - 3 Ice Clouds in front, 3 Ice Entities in back
+            - 3 Ice Slimes in front, 3 Ice Entities in back
+            - 3 Snow Wolves in front, 2 Snow Wolf Leaders in middle, 2 Stonefolk in back
+            - 2 Snowland Goblin + 1 Snowland Hobgoblin in front, 2 Snowland Goblin Mages + 1 Snowland Goblin Shaman in back
+            - 3 Snowland Goblins in front, 2 Snowland Goblin Archers + 1 Snowland Goblin Mage in back
+
+        ??? danger "South Lakeshore Left Side (6 fights)"
+
+            - 2 Snow Hawks in front, 1 Frost Plant in back
+            - 2 Bigfoot in front, 2 Stonefolk in back
+            - 2 Big Snow Hawks
+            - 3 Baby Bigfoot
+
+        ??? danger "North Lakeshore (5 fights)"
+
+            - 1 Bigfoot, 3 Baby Bigfoot in front, 1 Stonefolk in middle, 1 Snowpeak Cyclops in back
+            - 4 Snow Slimes in front, 4 Baby Bigfoot in back
+            - 4 Snow Wolves in front, 4 Snow Wolves in back
+            - 2 Snowland Goblins + 1 Snowland Hobgoblin in front, 3 Snowland Goblin Archers in middle, 2 Ice Entities in back
+            - 1 Snow Wolf Leader + 3 Snow Wolves in front, 1 Stonefolk in middle, 1 Snowpeak Cyclops in back
+        
