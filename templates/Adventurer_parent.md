@@ -3,7 +3,7 @@
 
 # {{title}}  
 [{{title}}'s Life Story](../life-stories/{{title.replace(" ","-")}}.md)  
-{%if chardata['Personal Request'] %}[{{title}}'s Personal Request](../legendary-requests/{{title.replace(" ","-") | lower}}-request.md)  {% endif %}  
+{%if chardata['Personal Request'] %}[{{title}}'s Personal Request](../../legendary-requests/{{title.replace(" ","-") | lower}}-request.md)  {% endif %}  
 
 ## Basic Info:  
 **Rarity**: {{ chardata['Rarity'] }}  
