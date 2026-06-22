@@ -2,6 +2,8 @@
    index_col='Name').fillna("").loc[title] %}
 
 # {{title}}  
+[{{title}}'s Life Story](../life-stories/{{title}}.md)  
+
 ## Basic Info:  
 **Rarity**: {{ chardata['Rarity'] }}  
 **Race**: {{ chardata['Race'] }}  
@@ -57,7 +59,7 @@
 ## Skills
 
 {% if chardata['Alternate Style'] %}
-!!! note "Merging: If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills."
+!!! note "Merging: If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills. [See Merging Guide](/mechanics/merging.md)."
 {% endif %}
 
 !!! info "Inheritable Skill"
