@@ -4,7 +4,7 @@
 
 ### Fresh Start
 
-??? note "1. Complete the Sweet Walnut Delivery request before getting to the first minor harken so you can send Elmon away."
+??? note "1. Complete the Sweet Walnut Delivery request before getting to the first minor harken, and ask for a favor so you can send Elmon away."
     --8<-- "abyss-guides/1-beginning-abyss/requests.md:sweet-walnut-delivery"
 
 ??? note "2. Complete the Light Shield Material Collection request so you can give the shields to the Defenders."
