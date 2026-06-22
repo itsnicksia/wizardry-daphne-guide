@@ -2,7 +2,7 @@
    index_col='Name').fillna("").loc[title] %}
 
 # {{title}}  
-[{{title}}'s Life Story](../life-stories/{{title}}.md)  
+[{{title}}'s Life Story](../life-stories/{{title.replace(" ","-")}}.md)  
 
 ## Basic Info:  
 **Rarity**: {{ chardata['Rarity'] }}  
