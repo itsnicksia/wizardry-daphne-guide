@@ -10,8 +10,9 @@
 ??? info "Request"
     ![](img/image_1.jpg)
 
-- Talk to the Smirking Adventurer in the tavern  
+- After "Fresh Start" dialog with Lulunarde, "Step Aside" to trigger the conversation with the Petite Woman in town, then accept the new Sweet Walnuts request in the guild.
 - Go to Beginning Abyss -Entrance- and gather the Walnuts
+- Turn in the request to get a choice of rewards.
 
 ??? map "Location"
     ![](img/image_2.jpg)
