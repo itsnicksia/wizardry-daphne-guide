@@ -129,7 +129,8 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | STP | Staff Proficiency - Increases Magic Power and Divine Power when equipped with a one-handed or two-handed staff |
 | BWP | Blunt Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a one-handed or two-handed blunt weapon |
 | RWP | Ranged Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a bow |
-| NWP | Ninja Weapon Proficiency - Increases Attack Power and Surety when equipped with a dagger, kunai, or ninja katana |
+| NWP | Ninja Weapon Proficiency - Increases Attack Power and Surety when equipped with a dagger, kunai, or ninjato |
+| SWP | Samurai Weapon Proficiency - Increases X when equipped with a Y |
 | | |
 | CP | Cloth Proficiency - Increases Defense Power and Magic Defense when equipped with cloth |
 | LAP | Light Armor Proficiency - Increases Defense Power and Magic Defense when equipped with light armor |
