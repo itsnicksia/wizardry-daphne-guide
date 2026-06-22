@@ -1,7 +1,7 @@
 nav:
   - Adventurer Quicklist: './quicklist/adventurer-quicklist.md'
+  - Adventurer Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
   - Legendary Adventurers:
-    - Adventurer Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
     - Abenius: './legendary-adventurers/details/Abenius.md'
     - Adam: './legendary-adventurers/details/Adam.md'
     - Ainikki: './legendary-adventurers/details/Ainikki.md'
