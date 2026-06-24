@@ -198,7 +198,7 @@
 If you have already stopped the Mastermind of Abyss 3, then follow these steps to reset:
 
 1. Successfully rescue the Duke in Abyss 3 at least once.
-2. Cursed Wheel back and defeat the Greater Warped One at 7-8 corruption level. Do not hand evidence to Dalian or Clemente. Talk to Alan after saving Liam.
+2. Cursed Wheel back and defeat the Greater Warped One at 7-8 Corrosion level. Do not hand evidence to Dalian or Clemente. Talk to Alan after saving Liam.
 3. Get the execution ending. Upon reviving, chase Dalian's maid to the Temple. Answer all questions correctly and accept the blackmail request.
 4. Cursed Wheel back to Fresh Start (this resets the beginning abyss area). Cursed Wheel to Return to Capital. Accept any faction quest to unlock Guarda Fortress. Head to Guarda Fortress entrance (this resets the entrance zone). Cursed Wheel to Fortress Basement Arrival.
 5. Head to Beginning Abyss Entrance. Make your way to the Gamblers near the cave entrance. Talk to them and lose. When prompted, select the option "They are blowing on the dice", then accuse them of cheating. This will begin a fight against them. After winning, select the option that says cheating is not good.
