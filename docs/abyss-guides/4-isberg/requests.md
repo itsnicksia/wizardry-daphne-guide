@@ -23,29 +23,28 @@
 
     === "Current Status" 
     
-        - As of 4/12 the request is working normally if you choose to slay both of them at the end.
-        - Current bug: Bondmate ending (spare both of them) will automatically fail even if you do everything perfectly. 
-        - See next steps for the workaround.
+        - As of 4/12 the request is working normally ~~if you choose to slay both of them at the end~~.
+        - Bug Description: Bondmate ending (spare both of them) will automatically fail even if you do everything perfectly. See next steps for the workaround.
 
-    === "Bondmate Ending Steps"
+    === "Workaround"
     
         - Part I 
             - Cursed Wheel to Rockhome Village Major Harken. 
             - Accept the request. 
-            - Complete all the steps as normal. Choose to "Slay them both" at the end. Don't forget to pick up the Salted Pork. 
+            - Complete all the steps as normal. Choose to "Slay them both" at the end. Remember to pick up the Salted Pork. 
             - Submit the request. 
 
         - Reset Request
-            - Cursed Wheel to Deepsnow Hinterlands Entrance. 
-            - Cursed Wheel back to Rockhome Village Major Harken. 
+            - Cursed Wheel to Village Shut Away in Silence
+            - ~~Cursed Wheel to Deepsnow Hinterlands Entrance, then Cursed Wheel back to Rockhome Village Major Harken.~~ 
 
         - Part II 
             - Accept the request. 
             - Be sure to pick up a Trifia mushroom at one of the discovery points.
-            - This time choose to "Spare" (bondmate ending) at the end. Don't forget to pick up the Salted Pork. 
+            - This time choose to "Let them go" (bondmate ending) at the end. Remember to pick up the Salted Pork. 
             - Instead of the request automatically failing you should be able to submit. 
 
-    === "Other"
+    === "Explanation"
 
         - We have limited insight into what is causing this bug. It appears as if an event flag is broken that requires doing it the "normal" (slay/kill) way first to reset things. 
         - It is possible that this is -not- a bug and intended to work this way moving forward. Historically, you could do either ending successfully on your first run. 
@@ -53,14 +52,14 @@
         - Credit: Big thank-you to @liezeithl for discovering the workaround. 
         - Contact: Ping or DM @lightbearer on the Discord if you are running into any problems or discover any new information.  
 
-??? warning "Important Notes"
+??? warning "Preparation"
 
     - Pre-requisite Requests
         - None    
         
     - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point. Entering from the Route 2 Harken has the boss fight commence in a blizzard zone, which makes the fight significantly more difficult
     - Bigfoot fights at Discovery Points can be as challenging as the boss and you may encounter more than one in a single run
-    - Side areas do not contain Discovery Points
+    - ~~Side areas do not contain Discovery Points. ~~
     - Bring SP items in case of multiple Bigfoot fights
 
 ??? note "Request Guide"
@@ -69,8 +68,7 @@
     
         - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
         - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-        - The Bigfoot Child will stop and make a sound at 6 Discovery Points along the main path. You have the option to "Let it go" or "Stop it". 
-        - If you let it explore, then 3 randomized events can occur:  
+        - The Bigfoot Child will stop and make a sound at the six/eight Discovery Points on the map. A randomized sound will hint at what it has discovered. If you "Let it go":
 
             ??? quote "Bigfoot Child Audio Cues"
             
@@ -78,11 +76,14 @@
                 - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" high-pitched sound = Trifia 
                 - "Kyoh! Kyoh!" text with a "Kyoh!" low-pitched sound = Deep-snow Mushroom  
                 
-        - Routing Tip: From the entrance if you auto-move to the hotspring it will take you through the first set of Discovery Points. Select the auto-resume button (upper-left boot icon) to continue. Auto-move to the Fountain and exit next.  
-        - To spawn the Bigfoot boss you will need 1) a Trifia mushroom in your inventory and 2) encounter a Bigfoot fight. If these conditions are not met, then the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
+        - Routing Tip: From the entrance if you auto-move to the hotspring it will take you through the first set of Discovery Points. Select the auto-resume button (upper-left boot icon) to continue. Auto-move to the Fountain and exit nex 
+        - Bigfoot Parent spawning requires:
+            1) a Trifia mushroom in inventory
+            2) a Bigfoot fight previously won
+        -. If these conditions fail, only a standard Bigfoot fight will occur and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
         - After the fight you will be given the option to "Let them go" or "Slay them both". The former gives a new bondmate and the latter gives additional gold. 
-        - <span style="color: #F2473A">Warning!</span> Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
+        - <span style="color: #F2473A">Warning!</span>Remember to pick up the Salted Pork request item next to the Harken before exiting---it is easy to miss.
         - Return to the Guild and submit the request.
 
             ??? warning "Rewards"
@@ -106,8 +107,18 @@
 
         - Red Star  = Discovery Point
         - Red Star (Filled) = Bigfoot Boss
-        - Green Star = Salted Pork reqeust item
-      
+        - Green Star = Salted Pork request item
+
+    === "Discovery Points (Southbound)"===
+
+        <div align="center">
+        ![](./img/salted-pork-sb.png)
+        </div>
+
+        - Check = Discovery Point
+        - Checkx2 = Bigfoot Boss
+        - Checkx3 = Salted Pork request item
+
 ## Village Shut Away in Silence 
 
 ### Find My Sister Lisa
@@ -116,9 +127,7 @@
 
     - Pre-requisite Requests
         - None
-        
-    - "Perfect" Ending Requirements
-    
+    - "Perfect" Ending Requirements <span style="color: #F2473A">(contains spoilers)</span>
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) 
             - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request.
         - Cursed Wheel: Short Rest in the Cabin
@@ -131,7 +140,7 @@
     === "Walkthrough"
     
         - Accept the request from Marta at the Guild and go to Route 3.
-        - <span style="color: #F2473A">Warning!</span> Reverse the Stonefolk in the NW corner -before- entering the Mayor's House to avoid unnecessary fights.
+        - <span style="color: #F2473A">Warning!</span>Reverse the Stonefolk in the NW corner -before- entering the Mayor's House to avoid unnecessary fights.
         - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box (Box Carved with a Snowdrop Motif), Crude Map, and a Doll. Step outside and watch a cutscene of hostile animals and monsters invading the town. All of the enemy groups can be avoided and are not mandatory for successful completion. 
         - The goal is to find the 2 hidden boxes drawn on the crude map. It is possible to collect both boxes without fighting any enemies. Note that the final (3rd) box is not accessible until the end of the request.  
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
@@ -177,26 +186,25 @@
     - Pre-requisite Requests
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
-    - Request Failure
-        - Pre-requisites requests not completed. 
-        - Did not receive the Dried Fish Fragment from the little girl at the Guild. 
-        - Exiting to the world map and returning.
-        - Using all of your flames ("Rise again") and being forced to "Accept death". 
+    - Request Requirements
+        - Pre-requisites requests are completed. 
+        - Staying within the world map (Lulu will warn).
+        - The Nullshadow can only be Fled from twice.
+        - Avoiding 'Accept Death' option after dieing as this will CW you to a previous timepoint
     - Reset Request
-        - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed.
+        - Cursed Wheel to 'Blizzard Blocking the Path' which will keep the pre-requisite requests flagged as completed.
 
 ??? note "Request Guide" 
 
     === "Walkthrough"
 
         - Accept the request. If both prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment. 
-        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search. Running away more than twice results in request failure. 
-        - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎.  The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
+        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For added drama the Nullshadow will usually appear behind you after entering a blizzard zone and stalk you throughout the search.
+        - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎. The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
         - Find the kitty once in each of the 3 blizzard zones. The first two times it will run away. On the third attempt you will be prompted to use the Dried Fish Fragment as bait and the request will be completed.
         - The kitty is now permanently located at the Guild. It can also see Lulu!
     
             ??? warning "Rewards"
-        
                 - Gem of Org x20 (first-time only)
                 - 12,500 Gold
                 - Deepsnow Hinterlands Roar Junk
@@ -205,7 +213,7 @@
     === "Meow-chanics ₍^. .^₎"
     
         - You catch a faint, barely audible cray of some unseen creature = Several tiles away, usually when you first enter the blizzard zone
-        - You catch a soft, thin mewing from somewhere. It sounds like a cat = Few tiles away 
+        - You catch a soft, thin mewing from somewhere. It sounds like a cat = Few tiles away
         - You catch the sound of a mewing cat nearby. It seems somewhere close by = Within 1-2 tiles
 
 ## Minor Harken Beyond the Blizzard

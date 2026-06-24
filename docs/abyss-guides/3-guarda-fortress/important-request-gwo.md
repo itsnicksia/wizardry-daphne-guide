@@ -215,6 +215,7 @@ Saved the Duke and apprehended the mastermind.
 Saved the Duke and apprehended the mastermind.
 
 #### Requirements
+
 1. Successfully saved Duke Ixion in a previous run.
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
@@ -228,14 +229,14 @@ Saved the Duke and apprehended the mastermind.
     - Do not approach the Duke's party until you have all required key items. If you do, before you have the necessary items, you will need to cursed wheel back. Check key items to ensure you have everything, then proceed.
     - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
 
-1. Progress (or warp if you can) to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon, he will give you a secret password (you don't need to remember it).
-2. Progress (or warp if you can) to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
-3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key. (It is not necessary to enter Elequon's room)
-4. Head to Zone 10 and enter the previously locked room (the room opposite of the room containing the Teleporter that takes you back to Zone 9's Harken) and interact with all the items inside. You can get an achievement for disregarding Lulunarde's warnings.
-5. After interacting with all the shinies in the mastermind's room, take the teleporter in the mastermind's room, then take the teleporter in the room it takes you to. Take the Harken back to town (if you haven't saved Liam this is a good time to) then travel to Royal Capital Luknalia and gamble with the swindlers. They will con you with a different game this time. If you lose the gamble you can choose to attack them and if you win, you gain the mastermind's items. If you cannot win, you can die and then tell Lulu that they are blowing on the dice. You want to make them bet first. Tell them you know Lady Luck afterwards, and you can avoid the fight.
-6. Head back to the masterminds's room to get a clue on how to solve the puzzle ahead. You receive the clue by stepping on the rubble in the corner of the mastermind's room, which will give you a random hint for the Statue Puzzle (take note of this or put effort into remembering it). Proceed towards the Duke's party. As you make your away around the patrolling enemies you will find half of the statues in one room and the other half in the next room as you follow their patrol path. Note the direction the busts are facing. This is similar to the statue puzzle in Abyss 1. 
-7. Once solved, head to the Duke's party and give the evidence to Clemente. 
-8. Notify Liam's parents of their child's whereabouts. 
+1. Progress to Zone 4 Tunnels (or warp if you can \[Fortress Basement Arrival is nearest\]) and talk to the amnesiac skeleton Duke Elequon. He will give you a secret password (you don't need to remember it).
+2. Progress (or warp if you can) to Zone 6 and speak with a NPC Sand Ghost. Give it the password to gain access to a hidden room.
+3. Enter room and interact with all the items in the room. Make sure to pick up the Master Key. (Note: entering Elequon's room, on the westside of Zone 10, is solely fiscal).
+4. Progress to Zone 10 and enter the locked room (the room opposite of the one containing the Teleporter). Interact with all the items inside the mastermind's room. (You can get an achievement for disregarding Lulunarde's warnings.) After interacting with all the shinies (the tapestry and bedstand) you will find Alberio's *Deposit Ticket*. Take the teleporter in the room opposite and then the Harken back to town. (If you have yet to save Liam, this is a good time to do so.)
+5. Travel to Royal Capital Luknalia and gamble with the swindlers. When they question your authority either answer will do. They will play a slightly different game this time. It is impossible to win this game, even after resurgence---they are 'rigging the rules'. You will be forced into a tough fight (~8000+/char). If you win, you gain *Alberio's Secret Note*. If you die, you chose to tell Lulu that they are 'blowing on the dice', make them bet first, betray '*Lady Luck*' to them, and then receive *Alberio's Secret Note*.
+6. To get a clue on how to solve the puzzle ahead ('Buried in a mound of forgotten remnants, the path to a hidden door awaits') head back to Alberio's room. 'The mound' refers to stepping on the rubble in the corner of the room. It will give you a random hint for the Statue Puzzle. Proceed towards the Duke's party. As you make your away around the patrolling enemies you will find half of the statues in one room and the other half in the next room as you follow their patrol path. Note the direction the busts are facing. This is similar to the statue puzzle in Abyss 1. Answers: One who moves slowly is one who knows contemplation---Speed Lowest; Ye who boasts of mighty strength---Strength Highest; The utmost life reveals the true path---HP Highest, The one who mastered foolishness will see the truth---IQ Lowest; Only one of fleeting life knows the proper choice---(Fortitude Lowest?). With the correct bust intact head back to Alberio's room. The item that was superfluous now has a use, taking it will lead to Alberio's Secret Room. Here can be found the 'Mastermind's Evidence'. (Achievement---You Mustn't Touch! Mustn't Ever Touch: Touch both cursed items.)
+7. Once solved, head to the Duke's party and give the evidence to Clemente[^1].
+8. Notify Liam's parents of their child's whereabouts.
 9. Defeat the Greater Warped One.
 
 #### Rewards
@@ -295,3 +296,13 @@ Saved the Duke and apprehended the mastermind.
 * You must essentially also "gather your last strength" and throw all the damage you can onto him at this point. Continue using Full Power Strike, but switch to your strongest moves if possible.
 * Depending on the difficulty based on route and corruption, he may also respawn both tentacles.
 * If you do not do enough damage in time, he will inevitably spam Deep Roar, which will switch rows and stun most of your team, effectively ending your run.
+
+??? note "Note about no Corruption Runs" 
+
+    ![](./img/no_corruption_true_ending_achievement.jpg)
+
+    It is extremely difficult to attempt a no corruption run. There is an achievement to obtain + this route is required for unlocking the cyclops bounty at bounty rank 12.
+
+<!-- Footnotes -->
+
+[^1]: Presenting the evidence to Alberio has yet to be tried.
