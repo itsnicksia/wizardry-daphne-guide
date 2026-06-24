@@ -71,7 +71,7 @@
         - The "Spotted" and "Not Spotted" designations are hidden flags the game tracks. 
         - The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
         - During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered
-        - The golem reveral power can be used to block a corrosion sentry's field of view or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss corruption level
+        - The golem reveral power can be used to block a corrosion sentry's field of view or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss Corrosion level
   
     === "Registration Nodes"
             
@@ -469,7 +469,7 @@
             Directions
             
             - From the Zone 2 Fountain head south through the door and follow the path to the right to the large room
-            - Ignore the golem directly in front of you and head north. The corruption sentry is in an alcove in the upper right-hand corner 
+            - Ignore the golem directly in front of you and head north. The Corrosion Sentry is in an alcove in the upper right-hand corner 
             - Stand in its field of view > "Spotted" flag triggered
             - To register defeat the Necrocore boss (Secret Path Keeper Vanquished) located at the end of Zone 3
             - To exit use the the Zone 3 Harken
@@ -557,7 +557,7 @@
         ![](./img/corrosion-golem/golem-corr-5-fortress-lower-floors-cleared.jpg)
         </div>
             
-        - Push the bottom (1) golem to the right to block the corruption sentry's field of view
+        - Push the bottom (1) golem to the right to block the Corrosion Sentry's field of view
         - Push the top (2) golem up to block the sentry's field of view 
         - Danger! There is a sentry (blue ★) directly north of the corrosion sentry"
 
@@ -576,7 +576,7 @@
             Directions
 
             - Proceed through Zone 5 until you reach the corrosion sentry. Its location does not change even with different map variations 
-            - Push the bottom golem to the right to block the corruption sentry's field of view > "Not Spotted" flag triggered
+            - Push the bottom golem to the right to block the Corrosion Sentry's field of view > "Not Spotted" flag triggered
             - Push the top golem up to block the sentry's field of view  
             - To register go up the stairs to Zone 6 (Fortress Lower Floors Cleared) 
             - To exit go back downstairs and use the Zone 5 Harken
@@ -1115,7 +1115,7 @@
 
         - Push the golem (1) closest to the room entrance to the right onto the switch
         - Go into the next room and push the golem (2) up to break the wall 
-        - Push the golem (3) in this room to the left to crush the corruption sentry 
+        - Push the golem (3) in this room to the left to crush the Corrosion Sentry 
         - Push the final golem (4) to the left to open the door to the switch room
         - Flip the switch and all the remaining doors will unlock
 
@@ -1145,7 +1145,7 @@
 
             Notes
 
-            - Danger! There is a sentry in the corruption sentry room
+            - Danger! There is a sentry in the Corrosion Sentry room
 
     ??? note "Cursed Wheel Entry"
     
