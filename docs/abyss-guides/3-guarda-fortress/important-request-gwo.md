@@ -208,7 +208,7 @@ Saved the Duke and apprehended the mastermind.
 1. Successfully saved Duke Ixion in a previous run.
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
-4. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
+4. Have a Maximum of 6 Corrosion Levels (Spotted 6 Times) 
 
 #### Outcome
 
@@ -218,15 +218,15 @@ Saved the Duke and apprehended the mastermind.
 1. Successfully saved Duke Ixion in a previous run.
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
-4. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
+4. Have a Maximum of 6 Corrosion Levels (Spotted 6 Times) 
 
 #### Guide
 
 !!! warning "Proceeding With Caution" 
-    - It is possible to do a zero corruption run during this run. Keep in mind the note about no corruption runs, this is much more difficult. 
+    - It is possible to do a zero Corrosion run during this run. Keep in mind the note about no Corrosion runs, this is much more difficult. 
     - At some point when returning to town, before interacting with the Duke's party, save Liam. 
     - Do not approach the Duke's party until you have all required key items. If you do, before you have the necessary items, you will need to cursed wheel back. Check key items to ensure you have everything, then proceed.
-    - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
+    - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a Corrosion Sentry, potentially ruining a no Corrosion run.
 
 1. Progress (or warp if you can) to Zone 4 Tunnels and talk to the amnesiac skeleton Duke Elequon, he will give you a secret password (you don't need to remember it).
 2. Progress (or warp if you can) to Zone 6 and speak with an NPC sand ghost. Give it the password to gain access to a hidden room.
@@ -250,13 +250,13 @@ Saved the Duke and apprehended the mastermind.
 
 * The Gatekeeper himself has no elemental weaknesses
 * Has high defense. When attacking the body, it's recommended to use moves with defense penetration.
-* Will scale in difficulty depending on the ending and amount of "corruption" from being spotted by the sentries.
+* Will scale in difficulty depending on the ending and amount of Corrosion from being spotted by the Corrosion Sentries.
 * Has a very large array of skills that he can use, and as such battles can vary quite drastically.
 * Fight is somewhat long, has around ~3 main discernable phases.
 
-??? note "Approximate HP Thresholds for certain corruption levels"
-    - 6 Corruption: Phase 1: 5k HP | Phase 2: 19k HP | Phase 3: 3.5k HP
-    - 0 Corruption: Phase 1: 8k HP | Phase 2: 34k HP | Phase 3: 8k HP
+??? note "Approximate HP Thresholds for certain Corrosion levels"
+    - 6 Corrosion: Phase 1: 5k HP | Phase 2: 19k HP | Phase 3: 3.5k HP
+    - 0 Corrosion: Phase 1: 8k HP | Phase 2: 34k HP | Phase 3: 8k HP
 
 #### Battle Tips
 
@@ -290,8 +290,8 @@ Saved the Duke and apprehended the mastermind.
 ##### Phase 3
 
 * He enters this phase typically when he gets a free roar off when it's not his turn and "Gathering his last strength". In doing so he will gain some undispellable damage, CT, and damage reduction buffs. You will get 2 free turns as he will be attempting to close the door. Attacks from him at this point deal fatal levels of damage.
-* If you have more than 4 Corruption, he will not get a free roar, but rather just "ROAR" in text.
+* If you have more than 4 Corrosion, he will not get a free roar, but rather just "ROAR" in text.
 * There is another golem throw around this time.
 * You must essentially also "gather your last strength" and throw all the damage you can onto him at this point. Continue using Full Power Strike, but switch to your strongest moves if possible.
-* Depending on the difficulty based on route and corruption, he may also respawn both tentacles.
+* Depending on the difficulty based on route and Corrosion, he may also respawn both tentacles.
 * If you do not do enough damage in time, he will inevitably spam Deep Roar, which will switch rows and stun most of your team, effectively ending your run.
