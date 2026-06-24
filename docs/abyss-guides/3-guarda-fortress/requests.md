@@ -9,8 +9,8 @@
 
 ??? note "Requirements"
     - Finish first run of Abyss 3 (you get stabbed)
-    - Obtain knowledge of Lily and Alan (Talk to them after defeating the GWO in 1st run, when you can limp around talking to people) OR talk to NPC on Zone 9 on low corruption.
-    - Subsequently enter servant's room on low corruption, which is located right after you drop down at the end of the hallway from the Zone 9 Harken. Get the information on the table, and optionally the tattered rag (you may cursed wheel the corruption away if you'd like)
+    - Obtain knowledge of Lily and Alan (Talk to them after defeating the GWO in 1st run, when you can limp around talking to people) OR talk to NPC on Zone 9 on low corrosion.
+    - Subsequently enter servant's room on low corrosion, which is located right after you drop down at the end of the hallway from the Zone 9 Harken. Get the information on the table, and optionally the tattered rag (you may cursed wheel the corrosion away if you'd like)
 
 ##### Rescuing the little girl in Critical Condition (No dog)
 
@@ -26,7 +26,7 @@
 1. Select the 1550 gold option when posting the request and having the tattered rag.
 2. The 1st option when talking to the dogkeeper is not important, but the second option is. Ask him what you need to get for the dog.
 3. Get 10 meat directly from an NPC in Guarda.
-4. Get to the wheat room in Zone 8. You need low corruption for the door to not be blocked. There will be a battle with 3 Succubi and 2 Minotaur. The Succubi can drain mana to 0.
+4. Get to the wheat room in Zone 8. You need low corrosion for the door to not be blocked. There will be a battle with 3 Succubi and 2 Minotaur. The Succubi can drain mana to 0.
 5. Obtain the rights to the dog on return to Guarda. Remember that the innkeeper was the one who told you about the kidnappers, so head there.
 6. Thrown into the fight again with various thieves and 2 mages. Dog dies from getting kicked and little girl is not doing so well.
 7. Talk to Raimi at the tent. Once again, remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (this is a lie again).
@@ -247,7 +247,7 @@ Upon stepping foot into Zone 5 and returning, you will receive a message from th
 
 ### Water Hauling
 
-!!! warning "Requirement: Overall Abyss corruption must be at 0 or 1 ("Spotted") out of 13 registered corrosion sentries." 
+!!! warning "Requirement: Overall Abyss corrosion must be at 0 or 1 ("Spotted") out of 13 registered corrosion sentries." 
 
 - Harken to Zone 9 and walk all the way to the indicated location (maps may be different due to Abyss 3 variation, so look for similar room formats).
 - You will need to fetch water from the Zone 10 fountain. Head over there, but make sure you know the path back and forth very well.
