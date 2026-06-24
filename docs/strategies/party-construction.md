@@ -199,7 +199,7 @@ These are some parties I have personally and successfully used to clear progress
             - Shelirionach (Mage)
             
 
-??? note "0 Corruption Gatekeeper"
+??? note "0 Corrosion Gatekeeper"
 
     - Front Row
         - MC (Ninja)
