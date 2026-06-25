@@ -82,14 +82,14 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 482,Head!A482,Head,Ex.,Winterthorn Wreath,Silver,Cloth,,5005,0,0,0,9,0,5,0,0,0,6,0,0,0,15,0,5,0,0,0,12,0,0,0,21,0,5,0,0,0,18,0,0,0,25,0,5,0,0,0,21,0,0,0,28,0,5,0,0,0,23,Stone Tolerance
 488,Head!A488,Head,Ex.,Direbear Hat,Silver,Cloth,,5005,0,0,0,5,5,0,0,0,0,12,0,0,0,11,10,0,0,0,0,18,0,0,0,17,14,0,0,0,0,24,0,0,0,21,17,0,0,0,0,27,0,0,0,24,19,0,0,0,0,29,Stun Tolerance
 494,Head!A494,Head,Ex.,Triumph,Silver,Cloth,,5005,2,0,0,4,4,0,0,0,0,6,4,0,0,10,9,0,0,0,0,12,5,0,0,16,13,0,0,0,0,18,6,0,0,20,16,0,0,0,0,21,7,0,0,23,18,0,0,0,0,23,Blessing of Insight (Two-Handed Sword)
-500,Head!A500,Head,3218,Silver Light Helmet,Silver,Light,,1200,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,0,0,0,38,0,-1,-2,0,-2,19,0,0,0,44,0,-1,-2,0,-2,24,
-506,Head!A506,Head,3219,Earthrend Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Water Type Reduction
-512,Head!A512,Head,3220,Seafoam Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Fire Type Reduction
-518,Head!A518,Head,3221,Silver Heavy Helmet,Silver,Heavy,,1425,0,0,0,29,0,-2,-2,0,-4,4,0,0,0,38,0,-2,-2,0,-4,9,0,0,0,43,0,-2,-2,0,-4,14,0,0,0,50,0,-2,-2,0,-4,19,0,0,0,56,0,-2,-2,0,-4,24,
-524,Head!A524,Head,3222,Earthrend Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Water Type Reduction
-530,Head!A530,Head,3223,Seafoam Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Fire Type Reduction
-536,Head!A536,Head,,Heat -Haze Headgear,Silver,Cloth,,,0,0,0,13,0,0,-1,-2,-2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magical Beast Resistance, Stun Tolerance"
-542,Head!A542,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+500,Head!A500,Head,Ex.,Unsullied Flower Ornament,Silver,Accessory,,,0,0,0,6,15,0,0,0,0,5,0,0,0,12,20,0,0,0,0,11,0,0,0,18,24,0,0,0,0,17,0,0,0,22,27,0,0,0,0,20,0,0,0,25,29,0,0,0,0,22,"Faerie exclusive, Charm Tolerance, Confusion Tolerance"
+506,Head!A506,Head,3218,Silver Light Helmet,Silver,Light,,1200,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,0,0,0,38,0,-1,-2,0,-2,19,0,0,0,44,0,-1,-2,0,-2,24,
+512,Head!A512,Head,3219,Earthrend Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Water Type Reduction
+518,Head!A518,Head,3220,Seafoam Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Fire Type Reduction
+524,Head!A524,Head,3221,Silver Heavy Helmet,Silver,Heavy,,1425,0,0,0,29,0,-2,-2,0,-4,4,0,0,0,38,0,-2,-2,0,-4,9,0,0,0,43,0,-2,-2,0,-4,14,0,0,0,50,0,-2,-2,0,-4,19,0,0,0,56,0,-2,-2,0,-4,24,
+530,Head!A530,Head,3222,Earthrend Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Water Type Reduction
+536,Head!A536,Head,3223,Seafoam Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Fire Type Reduction
+542,Head!A542,Head,,Heat -Haze Headgear,Silver,Cloth,,,0,0,0,13,0,0,-1,-2,-2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Magical Beast Resistance, Stun Tolerance"
 548,Head!A548,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 554,Head!A554,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 560,Head!A560,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -555,9 +555,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 416,Accessories!A416,Accessories,Ex.,White Wolf Cape,Silver,Accessory,,,0,0,0,25,12,2,0,0,0,0,0,0,0,37,12,4,0,0,0,0,0,0,0,45,12,5,0,0,0,0,0,0,0,52,12,6,0,0,0,0,0,0,0,55,12,7,0,0,0,0,Skillful Defense
 422,Accessories!A422,Accessories,Ex.,Legato Cape,Silver,Accessory,,,0,0,0,8,15,5,0,0,5,0,0,0,0,20,15,7,0,0,7,0,0,0,0,28,15,8,0,0,8,0,0,0,0,35,15,9,0,0,9,0,0,0,0,38,15,10,0,0,10,0,Dexterity Barrier
 428,Accessories!A428,Accessories,Ex.,Bracelet of Life,Silver,Accessory,,,0,0,0,5,30,0,0,0,0,0,0,0,0,17,30,0,0,0,0,0,0,0,0,25,30,0,0,0,0,0,0,0,0,32,30,0,0,0,0,0,0,0,0,35,30,0,0,0,0,0,"Faerie exclusive, Promise of Compassion, Passive HP Up"
-434,Accessories!A434,Accessories,Ex.,Unsullied Flower Ornament,Silver,Accessory,,,0,0,0,6,15,0,0,0,0,5,0,0,0,12,20,0,0,0,0,11,0,0,0,18,24,0,0,0,0,17,0,0,0,22,27,0,0,0,0,20,0,0,0,25,29,0,0,0,0,22,"Faerie exclusive, Charm Tolerance, Confusion Tolerance"
-440,Accessories!A440,Accessories,Ex.,Crest of Ouka's Lineage,Silver,Accessory,,,0,0,0,9,20,0,0,0,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Passive SP Up
-446,Accessories!A446,Accessories,Ex.,Lapis Crystal Earrings,Silver,Accessory,,,0,0,0,5,20,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fire Type Reduction, Blessing of Insight (Two-Handed Axe)"
+434,Accessories!A434,Accessories,Ex.,Crest of Ouka's Lineage,Silver,Accessory,,,0,0,0,9,20,0,0,0,8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Passive SP Up
+440,Accessories!A440,Accessories,Ex.,Lapis Crystal Earrings,Silver,Accessory,,,0,0,0,5,20,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Fire Type Reduction, Blessing of Insight (Two-Handed Axe)"
+446,Accessories!A446,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 452,Accessories!A452,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 458,Accessories!A458,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 464,Accessories!A464,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
