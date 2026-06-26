@@ -399,7 +399,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 === "Weapons"
 
     === "Star Mismatch = 0"
-        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
         |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
         | 1                          | 100    | 100  | 100   | 100  | 100       | 100       | 80               | 80               |
         | 2                          | 80     | 80   | 80    | 90   | 90        | 90        | 70               | 70               |
@@ -413,7 +413,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 10                         | --     | --   | --    | 20   | 20        | 20        | 5                | 5                |
     
     === "Star Mismatch = 1"
-        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
         |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
         | 1                          | 50     | 50   | 50    | 50   | 50        | 50        | 40               | 40               |
         | 2                          | 40     | 40   | 40    | 45   | 45        | 45        | 35               | 35               |
@@ -427,7 +427,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 10                         | --     | --   | --    | 10   | 10        | 10        | 2.5              | 2.5              |
     
     === "Star Mismatch = 2"
-        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
         |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
         | 1                          | 30     | 30   | 30    | 30   | 30        | 30        | 24               | 24               |
         | 2                          | 24     | 24   | 24    | 27   | 27        | 27        | 21               | 21               |
@@ -441,7 +441,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 10                         | --     | --   | --    | 6    | 6         | 6         | 1.5              | 1.5              |
             
     === "Star Mismatch = 3"
-        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
         |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
         | 1                          | 15     | 15   | 15    | 15   | 15        | 15        | 12               | 12               |
         | 2                          | 12     | 12   | 12    | 13.5 | 13.5      | 13.5      | 10.5             | 10.5             |
@@ -455,7 +455,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 10                         | --     | --   | --    | 3    | 3         | 3         | 0.75             | 0.75             |
         
     === "Star Mismatch = 4"
-        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
         |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
         | 1                          | 5      | 5    | 5     | 5    | 5         | 5         | 4                | 4                |
         | 2                          | 4      | 4    | 4     | 4.5  | 4.5       | 4.5       | 3.5              | 3.5              |
@@ -468,12 +468,14 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 9                          | --     | --   | --    | 1.1  | 1.1       | 1.1       | 0.5              | 0.5              |
         | 10                         | --     | --   | --    | 1    | 1         | 1         | 0.25             | 0.25             |
 
+<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe.  
+
 
     
 === "Armor"
 
     === "Star Mismatch = 0"
-        | Level Target \\ Rank Target | Bronze | Iron | Steel | Ebon | Silver | Banner |
+        | Level Target \\ Rank Target | Bronze | Iron | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
         |:---------------------------:|:------:|:----:|:-----:|:----:|:------:|:------:|
         | 1                           | 100    | 100  | 100   | 100  | 100    | 80     |
         | 2                           | 50     | 50   | 50    | 80   | 80     | 70     |
@@ -484,7 +486,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 7                           | \-\-   | \-\- | \-\-  | 20   | 20     | 5      |
     
     === "Star Mismatch = 1"
-        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Banner |
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
         |:---------------------------:|:------:|:-----:|:-----:|:----:|:------:|:------:|
         | 1                           | 50     | 50    | 50    | 50   | 50     | 40     |
         | 2                           | 25     | 25    | 25    | 40   | 40     | 35     |
@@ -495,7 +497,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 7                           | \-\-   | \-\-  | \-\-  | 10   | 10     | 2\.5   |
     
     === "Star Mismatch = 2"
-        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Banner |
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
         |:---------------------------:|:------:|:-----:|:-----:|:----:|:------:|:------:|
         | 1                           | 30     | 30    | 30    | 30   | 30     | 24     |
         | 2                           | 15     | 15    | 15    | 24   | 24     | 21     |
@@ -506,7 +508,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 7                           | \-\-   | \-\-  | \-\-  | 6    | 6      | 1\.5   |
     
     === "Star Mismatch = 3"
-        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon  | Silver | Banner |
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon  | Silver | Silver Special<sup>\*</sup> |
         |:---------------------------:|:------:|:-----:|:-----:|:-----:|:------:|:------:|
         | 1                           | 15     | 15    | 15    | 15    | 15     | 12     |
         | 2                           | 7\.5   | 7\.5  | 7\.5  | 12    | 12     | 10\.5  |
@@ -517,7 +519,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 7                           | \-\-   | \-\-  | \-\-  | 3     | 3      | 0\.75  |
     
     === "Star Mismatch = 4"
-        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Banner |
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
         |:---------------------------:|:------:|:-----:|:-----:|:----:|:------:|:------:|
         | 1                           | 5      | 5     | 5     | 5    | 5      | 4      |
         | 2                           | 2\.5   | 2\.5  | 2\.5  | 4    | 4      | 3\.5   |
@@ -530,7 +532,10 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 
 </div>
 
+<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> armor: Master's Armor. 
 
-Credits to Discord users samuraidoc for experimenting with FAS + Guide writeup and L'Montes for lots of very expensive trial and error to generate data for Composite Reinforcement.
+#### Credits
+
+Thanks to Discord users samuraidoc for experimenting with FAS + Guide writeup and L'Montes for lots of very expensive trial and error to generate data for Composite Reinforcement.
 
 
