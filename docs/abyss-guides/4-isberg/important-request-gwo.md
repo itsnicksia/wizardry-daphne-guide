@@ -2,6 +2,14 @@
 
 !!! warning "This page is currently under construction. We are still refining and correcting details"
 
+!!! note "Overview"  
+    - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Ore Recovery"), and not just killing the dungeon's final boss.  
+    - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
+    - Reward:  After completing the Ore Recovery request, you receive a reward based on the which Faction request you chose:
+        - Pontiff Route: Large Shield of Sacred Life
+        - Princess Route: Radiant Crown Royal Crest Brooch
+        - Admiral Route: Book of Gull's Equipment Mastery
+
 ## Main Story Request Walkthrough:
 
 ### First Run through the Deepsnow Hinterlands
