@@ -361,7 +361,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 ### Mechanics and Example:   
 *pending*
 
-### Cost:
+### Cost
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
     
@@ -394,7 +394,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 
 <sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. 
 
-### Percent Success Rate:
+### Percent Success Rate
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
     
