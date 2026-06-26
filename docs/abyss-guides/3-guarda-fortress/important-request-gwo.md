@@ -1,7 +1,7 @@
 # Guarda Fortress - Important Request and Greater Warped One
 
 !!! note "Overview"  
-    - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Save the Duke"), and not just killing the dungeon's final boss.  
+    - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Save the Duke"), and not just killing the Abyss's final boss.  
     - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
     - Reward:  After Saving the Duke, you receive a reward based on the which Faction request you chose:
         - Pontiff Route: Holy White Stone (Sell for Gold)
