@@ -391,6 +391,6 @@ Reinforcement Cost:
 
 </div>
 
-Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.  Credits to L'Montes for a lot of very expensive trial and error to generate data for Composite Reinforcement.
+Credits to Discord users samuraidoc for experimenting with FAS + Guide writeup and L'Montes for lots of very expensive trial and error to generate data for Composite Reinforcement.
 
 
