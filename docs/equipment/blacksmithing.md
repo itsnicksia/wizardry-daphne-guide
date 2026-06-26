@@ -358,7 +358,8 @@ Abyss 4 and Silver Tier equipment introduced a new method of improving lower ran
 
 Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's practically zero value to reinforcing armor. Because ATK, the primary stat of value, is increased for weapons it may be worth reinfocing particualry rare, very high impact Banner (Gacha) weapons.
 
-Mechanics and Example: *pending*
+### Mechanics and Example:   
+*pending*
 
 ### Cost:
 
