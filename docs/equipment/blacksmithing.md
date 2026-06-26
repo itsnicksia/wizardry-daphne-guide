@@ -352,12 +352,43 @@ It is highly suggested that a FAS should be saved and used on your highest rarit
 
 !!! warning "ABYSS 4 WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
 
-The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it enhances primary equipment stats (ATK for weapons, DEF for armor) to approach that  of higher material/rank equipment by sacrificing other higher rank items (or special, very expensive, silver ingots for guaranteed success).  The cost is very high and chance of success gets very low. We will try to provide more detail in time but for now in summary:
+Abyss 4 and Silver Tier equipment introduced a new method of improving lower rank equipment called **Composite Reinforcement**.  To over-simplify, it lets you attempt to improve primary equipment stats stats (ATK/MAG/DIV for weapons, DEF/MDEF for armor) to that of the next material/rank equipment.  You do this by paying a fairly steep price and sacrificing other items of the target rank (you can also use special, very expensive, Silver Ingots for guaranteed success).  The cost is very high and chance of success gets very low. More details below but in summary:
 
-*just don't. they tried. it's not worth it. Just go get actual silver equipment. There's enough out there.*
+*Just don't. They tried. It's almost never worth it. Just go get actual silver equipment. There's enough out there. This goes double for armor.*
 
-This goes doubly so for armor.  Since DEF is severely undervalued by the game mechanics, and that's about all reinforcement improves for armor, there's practically zero value to reinforcing armor. Very arguably because ATK is increased for weapons it may be worth reinfocing particualry rare, high impact (gacha) weapons.
+Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's practically zero value to reinforcing armor. Because ATK, the primary stat of value, is increased for weapons it may be worth reinfocing particualry rare, very high impact Banner (Gacha) weapons.
 
-Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
+Mechanics and Example: *pending*
+
+Reinforcement Cost:
+
+=== "Weapons"
+    | Level Target \\ Rank Target | Bronze | Iron    | Steel   | Ebon    | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
+    | :---------------------------: | :------: | :-------: | :-------: | :-------: | :---------: | :---------: | :----------------: | :----------------: |
+    | 1                           | 30,200 | 44,800  | 78,300  | 51,700  | 58,600    | 146,500   | 72,300           | 180,800          |
+    | 2                           | 33,200 | 49,300  | 86,100  | 54,300  | 61,500    | 153,800   | 77,200           | 192,800          |
+    | 3                           | 36,200 | 53,800  | 93,900  | 56,800  | 64,500    | 161,100   | 82,000           | 204,900          |
+    | 4                           | 42,300 | 62,700  | 109,600 | 62,000  | 70,300    | 175,700   | 86,800           | 216,900          |
+    | 5                           | 75,400 | 112,000 | 195,600 | 67,200  | 76,200    | 190,400   | 96,400           | 241,000          |
+    | 6                           | 90,500 | 134,400 | 234,700 | 72,300  | 82,000    | 205,000   | 120,500          | 301,200          |
+    | 7                           | \--    | \--     | \--     | 77,500  | 87,900    | 219,700   | 144,600          | 361,500          |
+    | 8                           | \--    | \--     | \--     | 103,300 | 117,200   | 292,900   | 192,800          | 482,000          |
+    | 9                           | \--    | \--     | \--     | 129,100 | 146,500   | 366,100   | 241,000          | 602,400          |
+    | 10                          | \--    | \--     | \--     | 155,000 | 175,700   | 439,300   | 289,200          | 722,900          |
+
+=== "Armor"
+    | Level Target \\ Rank Target | Bronze | Iron   | Steel  | Ebon   | Silver | Gacha  |
+    | :---------------------------: | :------: | :------: | :------: | :------: | :------: | :------: |
+    | 1                           | 60400  | 89600  | 156500 | 51700  | 58600  | 77200  |
+    | 2                           | 78500  | 116500 | 203500 | 56800  | 64500  | 82000  |
+    | 3                           | 150800 | 224000 | 391200 | 62000  | 70300  | 86800  |
+    | 4                           | \--    | \--    | \--    | 67200  | 76200  | 96400  |
+    | 5                           | \--    | \--    | \--    | 77500  | 87900  | 192800 |
+    | 6                           | \--    | \--    | \--    | 129100 | 146500 | 241000 |
+    | 7                           | \--    | \--    | \--    | 155000 | 175700 | 289200 |
+
+
+
+Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.  Credits to L'Montes for a lot of very expensive trial and error to generate data for Composite Reinforcement.
 
 
