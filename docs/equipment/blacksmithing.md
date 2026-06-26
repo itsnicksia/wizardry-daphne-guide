@@ -392,6 +392,8 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 
 </div>
 
+<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. 
+
 ### Percent Success Rate:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
@@ -468,10 +470,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
         | 9                          | --     | --   | --    | 1.1  | 1.1       | 1.1       | 0.5              | 0.5              |
         | 10                         | --     | --   | --    | 1    | 1         | 1         | 0.25             | 0.25             |
 
-<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe.  
-
-
-    
+   
 === "Armor"
 
     === "Star Mismatch = 0"
@@ -532,7 +531,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 
 </div>
 
-<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> armor: Master's Armor. 
+<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. 
 
 #### Credits
 
