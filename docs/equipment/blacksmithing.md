@@ -362,6 +362,8 @@ Mechanics and Example: *pending*
 
 Reinforcement Cost:
 
+<div class="nofilter-table nosort-table narrow-table" markdown>
+    
 === "Weapons"
     | Level Target \\ Rank Target | Bronze | Iron    | Steel   | Ebon    | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
     | :---------------------------: | :------: | :-------: | :-------: | :-------: | :---------: | :---------: | :----------------: | :----------------: |
@@ -387,7 +389,7 @@ Reinforcement Cost:
     | 6                           | \--    | \--    | \--    | 129100 | 146500 | 241000 |
     | 7                           | \--    | \--    | \--    | 155000 | 175700 | 289200 |
 
-
+</div>
 
 Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.  Credits to L'Montes for a lot of very expensive trial and error to generate data for Composite Reinforcement.
 
