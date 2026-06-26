@@ -1,10 +1,14 @@
 # Guarda Fortress - Important Request and Greater Warped One
 
-!!! warning "Read Me"
-    - Major spoilers ahead.
-    - We are working on adding additional information on key steps and requirements for each ending.
+!!! note "Overview"  
+    - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Save the Duke"), and not just killing the dungeon's final boss.  
+    - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
+    - Reward:  After Saving the Duke, you receive a reward based on the which Faction request you chose:
+        - Pontiff Route: Holy White Stone (Sell for Gold)
+        - Princess Route:  Book of Steadfast Shield Soldier Secrets (Skill that gives +DEF/MDEF with Heavy Shield)
+        - Admiral Route:  Elegant Dancer (Ebonsteel Shoes, 1* white, with Charm Tolerance, +5 ASPD fixed, -2DEF and +3EVA vs Veil Boots)
 
-## Endings Overview
+## Multiple Endings
 
 === "Basics" 
 
