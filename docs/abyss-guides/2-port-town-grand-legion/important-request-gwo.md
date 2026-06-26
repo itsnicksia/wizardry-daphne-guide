@@ -1,5 +1,13 @@
 # Port Town Grand Legion - Important Request and Greater Warped One
 
+!!! note "Overview"  
+    - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Find the Missing Person"), and not just killing the dungeon's final boss.  
+    - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
+    - Reward:  After Finding the Missing Person, you receive a reward based on the which Faction request you chose:
+        - Pontiff Route: Book of Sanctuary's Blessing Secrets (Skill book that gives chance to reduce damage based on PIE)
+        - Princess Route:  Shield of Honor (Steel light shield, with fixed +4 RES and -2MDEF vs standard light shield)
+        - Admiral Route:  Twin Pearls (sell only)
+
 ## Mechanics
 
 - Recommended Level: 30+
