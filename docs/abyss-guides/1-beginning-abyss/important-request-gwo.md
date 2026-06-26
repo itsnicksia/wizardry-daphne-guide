@@ -1,7 +1,7 @@
 # The Beginning Abyss - Important Request and Greater Warped One
 
 !!! note "Overview"  
-    - This page walks you through successfully completing the Beginning Abyss by finishing the primary Request ("Save the King"), not just killing the dungeon's final boss.  
+    - This page walks you through successfully completing the Beginning Abyss by finishing the primary Request ("Save the King"), not just killing the Abyss's final boss.  
     - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
     - Reward:  After saving the king, you receive a Royal Herald Amulet (Steel, 1* white Accessory, regular Steel Ring DEF, fixed +1 to every other Stat except SUREVA)  
 
