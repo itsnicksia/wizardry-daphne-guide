@@ -397,6 +397,7 @@ Sneak Attack,Active,,Major physical attack on 1 enemy. Bypasses Defense Power an
 Sniper,Passive,,"When performing a physical attack, deals damage based on Attack Power and Accuracy.",,1,Ranger,Ranger-specific,,
 Soaring Beast Knight,Passive,,Increases Evasion when equipped with a two-handed spear and light armor.,,,,,Savia,
 Solid Devotion,Discipline,,"Continuously increases each stat, Magic Defense and Stun Tolerance increased further.",Magic Defense and Stun Tolerance increased further based on skill level.,,,,Eldorado,
+Spell-Quenching Mirror-Mere,Passive,,"Magic Defense and Action Speed are increased when equipped with a two-handed axe, and the damage dealt when exploiting a weakness with a water-type attack is increased.",,,,,Livana,
 Spellcraft Bookmark,Passive,,Reduces the MP/SP cost and increases damage dealt to enemies if the same spell attack as in the previous action is selected.,,,,,Erwin,
 Spiritual Power of the Dark One,Discipline,,"Continuously increases each stat, with MP and Divine Power increased even further.",MP and Divine Power increased further based on skill level.,,,,Alice,
 Stealth,Passive,True,Continuously increases Initiative rate.,Initiative rate increased further based on skill level.,15,Thief,,Amelia,
