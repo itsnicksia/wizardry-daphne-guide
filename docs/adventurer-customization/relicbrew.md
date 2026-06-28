@@ -390,7 +390,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Gleambright                      | 4076              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Cursefruit                   | 4077              |
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Rootcrystal           | 4078              |
-| Laughing Bird's Divine Songcall            | Divine Up, Magic Up, Crit Tol down   | ?           | Laughing Bird          | Laughing Bird Cursefruit                | 4079              |
+| Laughing Bird's Divine Songcall            | Divine Up, Magic Up, Crit Tol down   | Good        | Laughing Bird          | Laughing Bird Cursefruit                | 4079              |
 | Composite Beast's Mighty Arm               | Attack Up, Water Res Down            | Good        | Chimera                | Composite Beast Bloodwood               | 4080              |
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4081              |
 | Wind-Cutting Fowl's Wingfeathers           | Crit Tol Up, Evade Trap Down         | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4082              |
