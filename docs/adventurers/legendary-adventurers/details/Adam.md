@@ -35,7 +35,7 @@
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}
-        !!! note "This damage increase is two-part, with the first part being approximately 10% and the second part being approximately 15%."
+        !!! note "This damage increase is two-part, with the light-type ally damage increase being approximately 15%, and the dark-type enemy damage increase being approximately 10%."
 {% endblock AltUniqueSkillFreetext %}
 
 {% block DisciplineFreetext %}
