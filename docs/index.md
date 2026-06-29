@@ -92,16 +92,18 @@ Good Luck, and **Savor the Risk!**
 - [Feedback and Suggestions (Discord: #guide-contributions)](https://discord.com/channels/1296602475918524507/1310256313720377364)
 - [GitHub Contributions](./CONTRIBUTING.md)
 
-
 ## Maintainers
 
-- Baldcat
 - Gagging
-- Lynd
-- TheAxolotl
-- SocialX
-- nrjank
 - Lightbearer
+- Lynd
+- nrjank
+- seVen
+- TheAxolotl
+
+## Domain Owner
+
+- Baldcat
 
 ## Additional Resources
 
