@@ -26,7 +26,7 @@
 <div class="nofilter-table nosort-table" markdown>
 
 | Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % | Notes                            |  
-|-----------------------------------------|------------------------|--------------|--------|-------|---------------------------------------------------|
+|-----------------------------------------|------------------------|--------------|--------|:-----:|---------------------------------------------------|
 | <span style="color: cyan">Adam A</span> | Light Shaft's Radiance | Light        | Column | 15%   | Additional 10% against Dark enemies.              |
 | Alice                                   | Agent  of Heresy       | Neutral-Evil | Row    | 10%   |                                                   |                                                
 | Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
@@ -56,10 +56,10 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                   | Passive Name                                       | Condition           | Formation &emsp; &emsp;       | Stat Bonus | | |  | 
-|------------------------|----------------------------------------------------|---------------------|-----------------|---------------|---------------|---------------|-----------------|
-| Arboris &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent        | EVA           | +6            | ASPD          | +4              |
-| Rinne                  | Enlightenment of the Brink of Death                | Evil                | Adjacent        | SUR           | +10           |               |                 |
+| Name                   | Passive Name                                       | Condition           | Formation &emsp; | Stat Bonus |          |  
+|------------------------|----------------------------------------------------|---------------------|------------------|------------|----------|
+| Arboris &emsp;   | Lord of the Deep Forest's Leadership &emsp;  | Neutral-Evil &emsp; &emsp;      | Adjacent         | EVA +6     |  ASPD +4 |
+| Rinne                  | Enlightenment of the Brink of Death                | Evil                | Adjacent         | SUR +10    |          |               
 
 </div>
 
