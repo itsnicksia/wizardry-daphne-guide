@@ -83,54 +83,56 @@ Notes:
  - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
 
 
-### Type Formations 
+### Type Formations (Damage Increase)
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name   | Passive Name      | Condition       | Formation | DMG To     | DMG % |
+| Name &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp;  | Formation &emsp; &emsp; &emsp; | DMG To &emsp; &emsp; &emsp;     | DMG % |
 |--------|-------------------|-----------------|-----------|------------|:-----:|
 | Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air Type   | 15%   |
 | Flut   | Water Formation   | Self + 2 Water  | Row       | Fire Type  | 15%   |
-| Jarmil &emsp; &emsp; &emsp; &emsp; | Air Formation &emsp; &emsp; &emsp;     | Self + 2 Air &emsp; &emsp; &emsp;    | Row &emsp; &emsp; &emsp;       | Earth Type &emsp; &emsp; &emsp; | 15%   |
+| Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth Type | 15%   |
 | Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water Type | 15%   |
 
 </div>
 
-### Type-Kin Blessing
+### Type-Kin Blessing (Damage Reduction)
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name    | Passive Name          | Condition &emsp; &emsp; &emsp;  | Formation &emsp; &emsp; &emsp;  | DR From &emsp; &emsp; &emsp;     | DR % |
+| Name &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp;  | Formation &emsp; &emsp; &emsp;  | DR From &emsp; &emsp; &emsp;     | DR % |
 |---------|-----------------------|-----------|-----------|------------|:----:|
 | Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air Type   | 15%  |
 | Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth Type | 15%  |
 | Daniel  | Water-Kin Blessing    | Human     | Row       | Water Type | 15%  |
 | Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark Type  | 15%  |
 | Emil    | Light-Kin Blessing    | Elf       | Row       | Light Type | 15%  |
-| Eulalia &emsp; &emsp; &emsp; &emsp; | Fire-Kin Blessing &emsp; &emsp; &emsp;    | Elf       | Row       | Fire Type  | 15%  |
+| Eulalia | Fire-Kin Blessing     | Elf       | Row       | Fire Type  | 15%  |
 
 </div> 
 
 ## Slayer
 
+<div class="nofilter-table nosort-table" markdown>
+
+| Name        | Passive Name                        | Race          | DMG % | DR % |
+|-------------|-------------------------------------|---------------|-------|------|
+| Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
+| Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
+| Chloe       | Anti-Adventurer Combat Technique    | Adventurer    | 20%   | 20%  |
+| <span style="color: cyan">Chloe A</span>     |  Interpersonal Combat Technique      | Humanoid      | 20%   | 20%  |
+| Dino        | Magical Being Knowledge             | Magical Being | 20%   | 20%  |
+| Gaston      | Gnawing Doubt                       | Demi-Human    | 20%   | 20%  |
+| Yekaterina  | Advice of the Skull                 | Undead        | 20%   | 20%  |
+| Yrsa        | Slayer of the White Calamity        | Magical Beast | 20%   | 20%  |
+
+</div>
+
+Notes: 
+
 - Slayer passives increase damage to and decrease damage from a specific enemy race.
 - It is a 20% boost for both General and Legendary units. It can stack with Slayer passives from both weapons and equipment.
 - The damage reduction (DR) % covers all damage types. 
-
-<div class="nofilter-table nosort-table" markdown>
-
-| Name        | Rarity    | Passive Name                        | Race          | DMG % | DR % |
-|-------------|-----------|-------------------------------------|---------------|-------|------|
-| Abenius     | Legendary | Flickering Fang                     | Magical Beast | 20%   | 20%  |
-| Benjamin    | General   | Planned Hunting                     | Magical Beast | 20%   | 20%  |
-| Chloe       | General   | Anti-Adventurer Combat Technique    | Adventurer    | 20%   | 20%  |
-| <span style="color: cyan">Chloe A</span>     | General   | Interpersonal Combat Technique      | Humanoid      | 20%   | 20%  |
-| Dino        | General   | Magical Being Knowledge             | Magical Being | 20%   | 20%  |
-| Gaston      | General   | Gnawing Doubt                       | Demi-Human    | 20%   | 20%  |
-| Yekaterina  | Legendary | Advice of the Skull                 | Undead        | 20%   | 20%  |
-| Yrsa        | Legendary | Slayer of the White Calamity        | Magical Beast | 20%   | 20%  |
-
-</div>
 
 ## Equipment Bonuses 
 
