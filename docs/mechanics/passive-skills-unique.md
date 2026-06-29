@@ -21,35 +21,36 @@
 === "Battle Menu" 
 
 
-### Damage Increase
+### Damage % Increase
 
 <div class="nofilter-table nosort-table" markdown>
 
 | Name     | Rarity    | Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | 
-|----------|-----------|------------------------|--------------------|-----------|:-----:|
+|----------|-----------|------------------------|--------------------|-----------|-------|
 | <span style="color: cyan">Adam A</span>       | Legendary   | Light Shaft's Radiance | Light | Column    | 10%   | 
 | Alice    | Legendary | Agent  of Heresy       | Neutral-Evil      | Row       | 10%   |                                                
 | Anemone  | Legendary | Helping Uphold Justice | Neutral-Good      | Row       | 13%   | 
 | Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
 | Lanavaille      | Legendary | Valiant Righteousness  | Neutral-Good      | Row       | 10%   |                                                    
-| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; &emsp;   | Legendary &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   |                                                    
+| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Legendary &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   |                                                    
 | Milana   | General   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   |                                                    
 
 </div>
 
-- Each is a % buff to any type of damage. 
+Notes:
+
+- The damage % increase applies to all sources of damage. 
 - Anemone's synergy does not include herself and is restricted to skills and spells only. 
 - Alt Adam's synergy provides an additional 15% boost against Dark enemies for a total damage boost of 25%. 
 
-### Damage Reduction 
+### Damage % Reduction 
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name          | Rarity    | Passive Name       | Condition      | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | Notes             |
-|---------------|-----------|--------------------|----------------|-----------|:----:|----------|-------------------|
-| <span style="color: cyan">Alice A</span>       | Legendary | Heretical Blessing | Neutral, Evil &emsp; &emsp;  | Row       | 5%   | All      |                   |
-| <span style="color: cyan">Milana A</span>      | General   | Calculated Charity &emsp; &emsp; | Evil           | Row       | 10%  | Physical |                   | 
-| <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only       | Backrow  | 30%  | Physical | Also gives 10% HP |
+| Name          | Rarity    | Passive Name       | Condition      | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
+|---------------|-----------|--------------------|----------------|-----------|------|----------|
+| <span style="color: cyan">Alice A</span>       | Legendary &emsp; &emsp; | Heretical Blessing | Neutral, Evil &emsp; &emsp;  | Row       | 5%   | All      |                   
+| <span style="color: cyan">Milana A</span> &emsp; &emsp;      | General   | Calculated Charity &emsp; &emsp; | Evil           | Row       | 10%  | Physical |                   
 
 </div>
 
@@ -57,9 +58,9 @@
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Amt | Stat 2       | Amt |
+| Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Value | Stat 2       | Value |
 |----------|-----------|---------------------------------------|---------------|-----------|---------|-----|--------------|-----|
-| Arboris  | Legendary | Lord of the Deep Forest's Leadership  | Evil, Neutral | Adjacent  | Evasion | +6  | Action Speed | +4  |
+| Arboris &emsp;  | Legendary &emsp; | Lord of the Deep Forest's Leadership &emsp; | Neutral - Evil &emsp; | Adjacent &emsp;  | Evasion &emsp; | +6  | Action Speed | +4  |
 | Rinne    | Legendary | Enlightenment of the Brink of Death   | Evil          | Adjacent  | Surety  | +10 |              |     |
 
 </div>
@@ -157,6 +158,10 @@
 - Forthcoming. 
 
 ## Special
+
+
+| <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only       | Backrow  | 30%  | Physical | 
+
 
 - This section covers Unique Skills that have complex mechanics, benefit multiple stats, and/or require additional information to fully understand. 
 - Forthcoming. 
