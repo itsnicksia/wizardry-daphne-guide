@@ -25,15 +25,15 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name     |  Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | Notes |  
-|----------|------------------------|--------------------|-----------|-------|
-| <span style="color: cyan">Adam A</span>       | Light Shaft's Radiance | Light | Column    | 15%   | Additional 10% against Dark enemies. |
-| Alice    | Agent  of Heresy       | Neutral-Evil      | Row       | 10%   | |                                                
-| Anemone  | Helping Uphold Justice | Neutral-Good      | Row       | 13%   | Does not include Anemone, only skills and spells. | 
-| Elise    | Impartial Collaborator | Neutral            | Column    | 10%   | |                                                   
-| Lanavaille      | Valiant Righteousness  | Neutral-Good      | Row       | 10%   | |                                                    
+| Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % &emsp; | Notes                     |  
+|-----------------------------------------|------------------------|--------------|--------|-------|---------------------------------------------------|
+| <span style="color: cyan">Adam A</span> | Light Shaft's Radiance | Light        | Column | 15%   | Additional 10% against Dark enemies.              |
+| Alice                                   | Agent  of Heresy       | Neutral-Evil | Row    | 10%   |                                                   |                                                
+| Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
+| Elise                                   | Impartial Collaborator | Neutral      | Column | 10%   |                                                   |                                                   
+| Lanavaille                              | Valiant Righteousness  | Neutral-Good | Row    | 10%   |                                                   |                                                    
 | <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
-| Milana   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   ||                                                    
+| Milana                                  | Mutual Interests       | Evil         | Column &emsp; &emsp; | 10%   | |                                                    
 
 </div>
 
@@ -45,10 +45,10 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name          | Passive Name       | Condition      | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
-|---------------|-----------|--------------------|----------------|-----------|------|----------|
-| <span style="color: cyan">Alice A</span>       | Heretical Blessing | Neutral-Evil &emsp; &emsp;  | Row       | 5%   | All      |                   
-| <span style="color: cyan">Milana A</span> &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil           | Row       | 10%  | Physical |                   
+| Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
+|---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
+| <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
+| <span style="color: cyan">Milana A</span> &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                        | Row                     | 10%                | Physical        |                   
 
 </div>
 
