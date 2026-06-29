@@ -58,7 +58,7 @@ Notes:
 
 | Name                         | Passive Name                                       | Condition                  | Formation &emsp; &emsp; | Stat Bonus |                  |  
 |------------------------------|----------------------------------------------------|----------------------------|-------------------------|------------|------------------|
-| Arboris &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent                | Evasion +6 |  Action Speed +4 |
+| Arboris &emsp; &emsp; &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent                | Evasion +6 |  Action Speed +4 |
 | Rinne                        | Enlightenment of the Brink of Death                | Evil                       | Adjacent                | Surety +10 |                  |               
 
 </div>
@@ -87,8 +87,8 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp;  | Formation &emsp; &emsp; &emsp; | DMG To &emsp; &emsp; &emsp;     | DMG % |
-|--------|-------------------|-----------------|-----------|------------|:-----:|
+| Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
+|--------|-------------------|-----------------|:---------:|------------|:-----:|
 | Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air Type   | 15%   |
 | Flut   | Water Formation   | Self + 2 Water  | Row       | Fire Type  | 15%   |
 | Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth Type | 15%   |
@@ -96,12 +96,12 @@ Notes:
 
 </div>
 
-### Type-Kin Blessing (Damage Reduction)
+### Type-Kin Blessing 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp;  | Formation &emsp; &emsp; &emsp;  | DR From &emsp; &emsp; &emsp;     | DR % |
-|---------|-----------------------|-----------|-----------|------------|:----:|
+| Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
+|---------|-----------------------|-----------|:---------:|------------|:----:|
 | Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air Type   | 15%  |
 | Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth Type | 15%  |
 | Daniel  | Water-Kin Blessing    | Human     | Row       | Water Type | 15%  |
@@ -115,13 +115,13 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name        | Passive Name                        | Race          | DMG % | DR % |
-|-------------|-------------------------------------|---------------|-------|------|
+| Name &emsp; &emsp; &emsp; &emsp;        | Passive Name                        | Race          | DMG % &emsp; &emsp; | DR % &emsp; &emsp; |
+|-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
 | Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
-| Chloe       | Anti-Adventurer Combat Technique    | Adventurer    | 20%   | 20%  |
+| Chloe       | Anti-Adventurer Combat Technique &emsp; &emsp;    | Adventurer    | 20%   | 20%  |
 | <span style="color: cyan">Chloe A</span>     |  Interpersonal Combat Technique      | Humanoid      | 20%   | 20%  |
-| Dino        | Magical Being Knowledge             | Magical Being | 20%   | 20%  |
+| Dino        | Magical Being Knowledge             | Magical Being &emsp; &emsp;| 20%   | 20%  |
 | Gaston      | Gnawing Doubt                       | Demi-Human    | 20%   | 20%  |
 | Yekaterina  | Advice of the Skull                 | Undead        | 20%   | 20%  |
 | Yrsa        | Slayer of the White Calamity        | Magical Beast | 20%   | 20%  |
