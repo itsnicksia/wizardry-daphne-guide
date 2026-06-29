@@ -25,32 +25,30 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name     |  Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | 
+| Name     |  Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | Notes |  
 |----------|------------------------|--------------------|-----------|-------|
-| <span style="color: cyan">Adam A</span>       | Light Shaft's Radiance | Light | Column    | 15%   | 
-| Alice    | Agent  of Heresy       | Neutral-Evil      | Row       | 10%   |                                                
-| Anemone  | Helping Uphold Justice | Neutral-Good      | Row       | 13%   | 
-| Elise    | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
-| Lanavaille      | Valiant Righteousness  | Neutral-Good      | Row       | 10%   |                                                    
-| <span style="color: cyan">Lanavaille A</span> &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   |                                                    
-| Milana   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   |                                                    
+| <span style="color: cyan">Adam A</span>       | Light Shaft's Radiance | Light | Column    | 15%   | Additional 10% against Dark enemies. |
+| Alice    | Agent  of Heresy       | Neutral-Evil      | Row       | 10%   | |                                                
+| Anemone  | Helping Uphold Justice | Neutral-Good      | Row       | 13%   | Does not include Anemone, only skills and spells. | 
+| Elise    | Impartial Collaborator | Neutral            | Column    | 10%   | |                                                   
+| Lanavaille      | Valiant Righteousness  | Neutral-Good      | Row       | 10%   | |                                                    
+| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
+| Milana   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   ||                                                    
 
 </div>
 
 Notes:
 
 - The damage % increase applies to all sources of damage. 
-- Anemone's synergy does not include herself and is restricted to skills and spells only. 
-- Alt Adam's synergy provides an additional 10% boost against Dark enemies for a total of 25%. 
 
 ### Damage % Reduction 
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name          | Rarity    | Passive Name       | Condition      | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
+| Name          | Passive Name       | Condition      | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
 |---------------|-----------|--------------------|----------------|-----------|------|----------|
-| <span style="color: cyan">Alice A</span>       | Legendary &emsp; &emsp; | Heretical Blessing | Neutral, Evil &emsp; &emsp;  | Row       | 5%   | All      |                   
-| <span style="color: cyan">Milana A</span> &emsp; &emsp;      | General   | Calculated Charity &emsp; &emsp; | Evil           | Row       | 10%  | Physical |                   
+| <span style="color: cyan">Alice A</span>       | Heretical Blessing | Neutral-Evil &emsp; &emsp;  | Row       | 5%   | All      |                   
+| <span style="color: cyan">Milana A</span> &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil           | Row       | 10%  | Physical |                   
 
 </div>
 
@@ -60,8 +58,8 @@ Notes:
 
 | Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Amount | Stat 2       | Amount |
 |----------|-----------|---------------------------------------|---------------|-----------|---------|-----|--------------|-----|
-| Arboris &emsp;  | Legendary &emsp; | Lord of the Deep Forest's Leadership &emsp; | Neutral - Evil &emsp; | Adjacent &emsp;  | Evasion &emsp; | +6  | Action Speed | +4  |
-| Rinne    | Legendary | Enlightenment of the Brink of Death   | Evil          | Adjacent  | Surety  | +10 |              |     |
+| Arboris &emsp;  | Lord of the Deep Forest's Leadership &emsp; | Neutral-Evil &emsp; | Adjacent &emsp;  | EVA &emsp; | +6 &emsp;  | ASPD &emsp; | +4 &emsp;  |
+| Rinne    | Enlightenment of the Brink of Death   | Evil          | Adjacent  | SUR  | +10 |              |     |
 
 </div>
 
@@ -69,13 +67,13 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name      | Rarity    | Passive Name                      | Condition | Formation | Status Ailments                          | Amount |
-|-----------|-----------|-----------------------------------|-----------|-----------|------------------------------------------|--------|
-| Asha      | General   | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
-| Clarissa  | General   | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
-| Eldorado  | General   | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
-| Galina    | General   | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
-| Olive     | General   | Honest Living                     | Good      | Adjacent &emsp;  | Curse, Fear, Skill-Binding               | +50    |
+| Name      | Passive Name                      | Condition &emsp; | Formation &emsp; | Status Ailments                          | Amount |
+|-----------|-----------------------------------|-----------|-----------|------------------------------------------|--------|
+| Asha      | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
+| Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
+| Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
+| Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
+| Olive     | Honest Living                     | Good      | Adjacent &emsp;  | Curse, Fear, Skill-Binding               | +50    |
 | Red Beard &emsp; | Legendary &emsp; | Apostle of Breaking Commandments &emsp;  | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
 
 </div>
