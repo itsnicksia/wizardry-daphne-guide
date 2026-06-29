@@ -27,7 +27,7 @@
 
 | Name     | Rarity    | Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | 
 |----------|-----------|------------------------|--------------------|-----------|-------|
-| <span style="color: cyan">Adam A</span>       | Legendary   | Light Shaft's Radiance | Light | Column    | 10%   | 
+| <span style="color: cyan">Adam A</span>       | Legendary   | Light Shaft's Radiance | Light | Column    | 15%   | 
 | Alice    | Legendary | Agent  of Heresy       | Neutral-Evil      | Row       | 10%   |                                                
 | Anemone  | Legendary | Helping Uphold Justice | Neutral-Good      | Row       | 13%   | 
 | Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
@@ -41,7 +41,7 @@ Notes:
 
 - The damage % increase applies to all sources of damage. 
 - Anemone's synergy does not include herself and is restricted to skills and spells only. 
-- Alt Adam's synergy provides an additional 15% boost against Dark enemies for a total damage boost of 25%. 
+- Alt Adam's synergy provides an additional 10% boost against Dark enemies for a total of 25%. 
 
 ### Damage % Reduction 
 
@@ -58,7 +58,7 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Value | Stat 2       | Value |
+| Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Amount | Stat 2       | Amount |
 |----------|-----------|---------------------------------------|---------------|-----------|---------|-----|--------------|-----|
 | Arboris &emsp;  | Legendary &emsp; | Lord of the Deep Forest's Leadership &emsp; | Neutral - Evil &emsp; | Adjacent &emsp;  | Evasion &emsp; | +6  | Action Speed | +4  |
 | Rinne    | Legendary | Enlightenment of the Brink of Death   | Evil          | Adjacent  | Surety  | +10 |              |     |
@@ -75,12 +75,15 @@ Notes:
 | Clarissa  | General   | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
 | Eldorado  | General   | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
 | Galina    | General   | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
-| Olive     | General   | Honest Living                     | Good      | Adjacent  | Curse, Fear, Skill-Binding               | +50    |
-| Red Beard | Legendary | Apostle of Breaking Commandments  | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding | +70    |
-
-- Note that units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
+| Olive     | General   | Honest Living                     | Good      | Adjacent &emsp;  | Curse, Fear, Skill-Binding               | +50    |
+| Red Beard &emsp; | Legendary &emsp; | Apostle of Breaking Commandments &emsp;  | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
 
 </div>
+
+ Notes:
+ 
+ - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
+
 
 ### Type Formations 
 
