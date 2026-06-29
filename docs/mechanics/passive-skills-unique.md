@@ -21,11 +21,11 @@
 === "Battle Menu" 
 
 
-### Damage % Increase
+### Damage Increase
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % &emsp; | Notes                     |  
+| Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % | Notes                            |  
 |-----------------------------------------|------------------------|--------------|--------|-------|---------------------------------------------------|
 | <span style="color: cyan">Adam A</span> | Light Shaft's Radiance | Light        | Column | 15%   | Additional 10% against Dark enemies.              |
 | Alice                                   | Agent  of Heresy       | Neutral-Evil | Row    | 10%   |                                                   |                                                
@@ -41,7 +41,7 @@ Notes:
 
 - The damage % increase applies to all sources of damage. 
 
-### Damage % Reduction 
+### Damage Reduction 
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
@@ -56,10 +56,10 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Rarity    | Passive Name                          | Condition     | Formation | Stat 1  | Amount | Stat 2       | Amount |
-|----------|-----------|---------------------------------------|---------------|-----------|---------|-----|--------------|-----|
-| Arboris &emsp;  | Lord of the Deep Forest's Leadership &emsp; | Neutral-Evil &emsp; | Adjacent &emsp;  | EVA &emsp; | +6 &emsp;  | ASPD &emsp; | +4 &emsp;  |
-| Rinne    | Enlightenment of the Brink of Death   | Evil          | Adjacent  | SUR  | +10 |              |     |
+| Name                   | Passive Name                                       | Condition           | Formation       | Stat 1 &emsp; | Amount &emsp; | Stat 2 &emsp; | Amount 2 &emsp; | 
+|------------------------|----------------------------------------------------|---------------------|-----------------|---------------|---------------|---------------|-----------------|
+| Arboris &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; | Adjacent &emsp; | EVA           | +6            | ASPD          | +4              |
+| Rinne                  | Enlightenment of the Brink of Death                | Evil                | Adjacent        | SUR           | +10           |               |                 |
 
 </div>
 
@@ -67,14 +67,14 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name      | Passive Name                      | Condition &emsp; | Formation &emsp; | Status Ailments                          | Amount |
+| Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments            | Amount |
 |-----------|-----------------------------------|-----------|-----------|------------------------------------------|--------|
 | Asha      | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
 | Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
 | Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
 | Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
-| Olive     | Honest Living                     | Good      | Adjacent &emsp;  | Curse, Fear, Skill-Binding               | +50    |
-| Red Beard &emsp; | Legendary &emsp; | Apostle of Breaking Commandments &emsp;  | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
+| Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
+| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; &emsp;  | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; &emsp; | +70    |
 
 </div>
 
