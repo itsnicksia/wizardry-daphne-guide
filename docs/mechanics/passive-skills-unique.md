@@ -23,16 +23,16 @@
 
 ### Damage Increase
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
 | Name     | Rarity    | Passive Name           | Condition          | Formation &emsp; &emsp; | DMG % &emsp; | 
 |----------|-----------|------------------------|--------------------|-----------|:-----:|
 | <span style="color: cyan">Adam A</span>       | Legendary   | Light Shaft's Radiance | Light | Column    | 10%   | 
-| Alice    | Legendary | Agent  of Heresy       | Evil, Neutral      | Row       | 10%   |                                                
-| Anemone  | Legendary | Helping Uphold Justice | Good, Neutral      | Row       | 13%   | 
+| Alice    | Legendary | Agent  of Heresy       | Neutral-Evil      | Row       | 10%   |                                                
+| Anemone  | Legendary | Helping Uphold Justice | Neutral-Good      | Row       | 13%   | 
 | Elise    | General   | Impartial Collaborator | Neutral            | Column    | 10%   |                                                    
-| Lanavaille      | Legendary | Valiant Righteousness  | Good, Neutral      | Row       | 10%   |                                                    
-| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; &emsp;   | Legendary &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Good, Neutral &emsp; &emsp;      | Row       | 10%   |                                                    
+| Lanavaille      | Legendary | Valiant Righteousness  | Neutral-Good      | Row       | 10%   |                                                    
+| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; &emsp;   | Legendary &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   |                                                    
 | Milana   | General   | Mutual Interests       | Evil               | Column &emsp; &emsp;   | 10%   |                                                    
 
 </div>
