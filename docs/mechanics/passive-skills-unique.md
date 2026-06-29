@@ -43,29 +43,29 @@ Notes:
 
 ### Damage Reduction 
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
 | Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
 |---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
 | <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
-| <span style="color: cyan">Milana A</span> &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                        | Row                     | 10%                | Physical        |                   
+| <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                        | Row                     | 10%                | Physical        |                   
 
 </div>
 
 ### Flat Stats
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
-| Name                   | Passive Name                                       | Condition           | Formation       | Stat 1 &emsp; | Amount &emsp; | Stat 2 &emsp; | Amount 2 &emsp; | 
+| Name                   | Passive Name                                       | Condition           | Formation &emsp; &emsp;       | Stat Bonus | | |  | 
 |------------------------|----------------------------------------------------|---------------------|-----------------|---------------|---------------|---------------|-----------------|
-| Arboris &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; | Adjacent &emsp; | EVA           | +6            | ASPD          | +4              |
+| Arboris &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent        | EVA           | +6            | ASPD          | +4              |
 | Rinne                  | Enlightenment of the Brink of Death                | Evil                | Adjacent        | SUR           | +10           |               |                 |
 
 </div>
 
 ### Status Ailment Tolerance
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
 | Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments            | Amount |
 |-----------|-----------------------------------|-----------|-----------|------------------------------------------|--------|
@@ -74,7 +74,7 @@ Notes:
 | Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
 | Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
 | Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
-| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; &emsp;  | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; &emsp; | +70    |
+| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; &emsp; | +70    |
 
 </div>
 
@@ -85,29 +85,29 @@ Notes:
 
 ### Type Formations 
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
-| Name   | Rarity  | Passive Name      | Condition       | Formation | DMG To     | DMG % |
-|--------|---------|-------------------|-----------------|-----------|------------|-------|
-| Alex   | General | Fire Formation    | Self + 2 Fire   | Row       | Air Type   | 15%   |
-| Flut   | General | Water Formation   | Self + 2 Water  | Row       | Fire Type  | 15%   |
-| Jarmil | General | Air Formation     | Self + 2 Air    | Row       | Earth Type | 15%   |
-| Jean   | General | Earth Formation   | Self + 2 Earth  | Row       | Water Type | 15%   |
+| Name   | Passive Name      | Condition       | Formation | DMG To     | DMG % |
+|--------|-------------------|-----------------|-----------|------------|-------|
+| Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air Type   | 15%   |
+| Flut   | Water Formation   | Self + 2 Water  | Row       | Fire Type  | 15%   |
+| Jarmil &emsp; &emsp; | Air Formation &emsp; &emsp;     | Self + 2 Air &emsp; &emsp;    | Row &emsp; &emsp;       | Earth Type &emsp; &emsp; | 15%   |
+| Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water Type | 15%   |
 
 </div>
 
 ### Type-Kin Blessing
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
-| Name    | Rarity  | Passive Name          | Condition | Formation | DR From    | DR % |
-|---------|---------|-----------------------|-----------|-----------|------------|------|
-| Amelia  | General | Air-Kin Blessing      | Beastfolk | Row       | Air Type   | 15%  |
-| Bakesh  | General | Earth-Kin Blessing    | Dwarf     | Row       | Earth Type | 15%  |
-| Daniel  | General | Water-Kin Blessing    | Human     | Row       | Water Type | 15%  |
-| Elda    | General | Dark-Kin Blessing     | Elf       | Row       | Dark Type  | 15%  |
-| Emil    | General | Light-Kin Blessing    | Elf       | Row       | Light Type | 15%  |
-| Eulalia | General | Fire-Kin Blessing     | Elf       | Row       | Fire Type  | 15%  |
+| Name    | Passive Name          | Condition &emsp; &emsp; | Formation &emsp; &emsp; | DR From &emsp; &emsp;    | DR % |
+|---------|-----------------------|-----------|-----------|------------|------|
+| Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air Type   | 15%  |
+| Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth Type | 15%  |
+| Daniel  | Water-Kin Blessing    | Human     | Row       | Water Type | 15%  |
+| Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark Type  | 15%  |
+| Emil    | Light-Kin Blessing    | Elf       | Row       | Light Type | 15%  |
+| Eulalia &emsp; &emsp; | Fire-Kin Blessing &emsp; &emsp;     | Elf       | Row       | Fire Type  | 15%  |
 
 </div> 
 
@@ -117,7 +117,7 @@ Notes:
 - It is a 20% boost for both General and Legendary units. It can stack with Slayer passives from both weapons and equipment.
 - The damage reduction (DR) % covers all damage types. 
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
 | Name        | Rarity    | Passive Name                        | Race          | DMG % | DR % |
 |-------------|-----------|-------------------------------------|---------------|-------|------|
@@ -163,6 +163,7 @@ Notes:
 
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only       | Backrow  | 30%  | Physical | 
 
+| Name                   | Passive Name                                       | Condition           | Formation &emsp; &emsp;       | Stat 1 &emsp; &emsp; | Amount &emsp; &emsp; | Stat 2 &emsp; &emsp; | Amount 2 &emsp; &emsp; | 
 
 - This section covers Unique Skills that have complex mechanics, benefit multiple stats, and/or require additional information to fully understand. 
 - Forthcoming. 
