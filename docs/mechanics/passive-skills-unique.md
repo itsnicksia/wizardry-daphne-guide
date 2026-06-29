@@ -46,9 +46,9 @@ Notes:
 <div class="nofilter-table nosort-table" markdown>
 
 | Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
-|---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
+|---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|:------------------:|-----------------|
 | <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
-| <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                        | Row                     | 10%                | Physical        |                   
+| <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                 | Row                     | 10%                | Physical        |                   
 
 </div>
 
@@ -56,10 +56,10 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                   | Passive Name                                       | Condition           | Formation &emsp; | Stat Bonus |          |  
-|------------------------|----------------------------------------------------|---------------------|------------------|------------|----------|
-| Arboris &emsp;   | Lord of the Deep Forest's Leadership &emsp;  | Neutral-Evil &emsp; &emsp;      | Adjacent         | EVA +6     |  ASPD +4 |
-| Rinne                  | Enlightenment of the Brink of Death                | Evil                | Adjacent         | SUR +10    |          |               
+| Name                         | Passive Name                                       | Condition                  | Formation &emsp; &emsp; | Stat Bonus |                  |  
+|------------------------------|----------------------------------------------------|----------------------------|-------------------------|------------|------------------|
+| Arboris &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent                | Evasion +6 |  Action Speed +4 |
+| Rinne                        | Enlightenment of the Brink of Death                | Evil                       | Adjacent                | Surety +10 |                  |               
 
 </div>
 
@@ -67,14 +67,14 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments            | Amount |
-|-----------|-----------------------------------|-----------|-----------|------------------------------------------|--------|
+| Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments             | Amount |
+|-----------|-----------------------------------|-----------|-----------|------------------------------------------|:------:|
 | Asha      | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
 | Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
 | Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
 | Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
 | Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
-| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; &emsp; | +70    |
+| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; &emsp; | +70    |
 
 </div>
 
@@ -88,10 +88,10 @@ Notes:
 <div class="nofilter-table nosort-table" markdown>
 
 | Name   | Passive Name      | Condition       | Formation | DMG To     | DMG % |
-|--------|-------------------|-----------------|-----------|------------|-------|
+|--------|-------------------|-----------------|-----------|------------|:-----:|
 | Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air Type   | 15%   |
 | Flut   | Water Formation   | Self + 2 Water  | Row       | Fire Type  | 15%   |
-| Jarmil &emsp; &emsp; | Air Formation &emsp; &emsp;     | Self + 2 Air &emsp; &emsp;    | Row &emsp; &emsp;       | Earth Type &emsp; &emsp; | 15%   |
+| Jarmil &emsp; &emsp; &emsp; &emsp; | Air Formation &emsp; &emsp; &emsp;     | Self + 2 Air &emsp; &emsp; &emsp;    | Row &emsp; &emsp; &emsp;       | Earth Type &emsp; &emsp; &emsp; | 15%   |
 | Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water Type | 15%   |
 
 </div>
@@ -100,14 +100,14 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name    | Passive Name          | Condition &emsp; &emsp; | Formation &emsp; &emsp; | DR From &emsp; &emsp;    | DR % |
-|---------|-----------------------|-----------|-----------|------------|------|
+| Name    | Passive Name          | Condition &emsp; &emsp; &emsp;  | Formation &emsp; &emsp; &emsp;  | DR From &emsp; &emsp; &emsp;     | DR % |
+|---------|-----------------------|-----------|-----------|------------|:----:|
 | Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air Type   | 15%  |
 | Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth Type | 15%  |
 | Daniel  | Water-Kin Blessing    | Human     | Row       | Water Type | 15%  |
 | Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark Type  | 15%  |
 | Emil    | Light-Kin Blessing    | Elf       | Row       | Light Type | 15%  |
-| Eulalia &emsp; &emsp; | Fire-Kin Blessing &emsp; &emsp;     | Elf       | Row       | Fire Type  | 15%  |
+| Eulalia &emsp; &emsp; &emsp; &emsp; | Fire-Kin Blessing &emsp; &emsp; &emsp;    | Elf       | Row       | Fire Type  | 15%  |
 
 </div> 
 
