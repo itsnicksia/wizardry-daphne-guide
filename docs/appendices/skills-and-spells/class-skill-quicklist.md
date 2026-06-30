@@ -11,7 +11,6 @@
 
 === "Main Classes"  
     === "Fighter"
-    
         {{ populate_quicklist(filter_values=['Fighter'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -19,10 +18,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
+        | add_indentation(spaces=8) }}
     
     === "Knight"
-    
         {{ populate_quicklist(filter_values=['Knight'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -30,10 +28,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
+        | add_indentation(spaces=8) }}
     
     === "Thief"
-    
         {{ populate_quicklist(filter_values=['Thief'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -41,10 +38,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
+        | add_indentation(spaces=8) }}
     
     === "Priest"
-    
         {{ populate_quicklist(filter_values=['Priest'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -52,11 +48,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
-    
-    
+        | add_indentation(spaces=8) }}
+
     === "Mage"
-    
         {{ populate_quicklist(filter_values=['Mage'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -64,11 +58,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
-    
-    
+        | add_indentation(spaces=8) }}
+
     === "Healer"
-    
         {{ populate_quicklist(filter_values=['Healer'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -76,11 +68,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
-    
+        | add_indentation(spaces=8) }}
     
     === "Ninja"
-    
         {{ populate_quicklist(filter_values=['Ninja'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -88,11 +78,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
-    
-    
+        | add_indentation(spaces=8) }}
+        
     === "Samurai"
-    
         {{ populate_quicklist(filter_values=['Samurai'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -100,10 +88,9 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
+        | add_indentation(spaces=8) }}
     
     === "Ranger"
-    
         {{ populate_quicklist(filter_values=['Ranger'], 
         file='skills.csv',
         return_columns=['Name','Type','Level','Restriction'],
@@ -111,7 +98,7 @@
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
-        | add_indentation(spaces=4) }}
+        | add_indentation(spaces=8) }}
 
 === "Unique Classes"
     === "Mage of the Black Rod"
