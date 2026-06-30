@@ -34,7 +34,7 @@
     | Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
     | Elise                                   | Impartial Collaborator | Neutral      | Column | 10%   |                                                   |                                                   
     | Lanavaille                              | Valiant Righteousness  | Neutral-Good | Row    | 10%   |                                                   |                                                    
-    | <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
+    | <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
     | Milana                                  | Mutual Interests       | Evil         | Column &emsp; &emsp; | 10%   | |                                                    
     
     </div>
