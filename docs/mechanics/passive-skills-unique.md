@@ -144,7 +144,7 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Passive Name              | Condition &emsp; &emsp; &emsp;              | Stat Bonus 1 &emsp;         | Stat Bonus 2 &emsp; | 
+| Name     | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; &emsp;         | Stat Bonus 2 &emsp; | 
 |----------|---------------------------|------------------------|----------------|------|
 | Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy +10      |      |               
 | <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;   | 2H Staff               | Magic Power +7 | Magic Defense +7 |                           
@@ -153,7 +153,7 @@ Notes:
 | <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD +20 | |  
 | Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion +8        |             |    
 | Livana   | The One Who Enforces      | 2H Axe                 | Surety +7         | Accuracy +7 |
-| Savia    | Soaring Beast Knight      | 2H Spear, Light Armor  | Evasion +8        |             |        
+| Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;  | Evasion +8        |             |        
 | Valdor   | Miracle of Faith          | Light Armor            | Magic Defense +10 |             |                      
 | Viviana  | Sidestep                  | Cloth Armor            | Evasion +10       |             |     
 
