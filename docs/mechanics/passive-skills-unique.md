@@ -46,7 +46,7 @@ Notes:
 <div class="nofilter-table nosort-table" markdown>
 
 | Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
-|---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|:------------------:|-----------------|
+|---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
 | <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
 | <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                 | Row                     | 10%                | Physical        |                   
 
@@ -73,8 +73,8 @@ Notes:
 | Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
 | Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
 | Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
-| Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
-| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; &emsp; | +70    |
+| Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
+| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
 
 </div>
 
@@ -83,12 +83,12 @@ Notes:
  - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
 
 
-### Type Formations (Damage Increase)
+### Type Formations 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
-|--------|-------------------|-----------------|:---------:|------------|:-----:|
+| Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
+|--------|-------------------|-----------------|-----------|------------|:-----:|
 | Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air Type   | 15%   |
 | Flut   | Water Formation   | Self + 2 Water  | Row       | Fire Type  | 15%   |
 | Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth Type | 15%   |
@@ -100,8 +100,8 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
-|---------|-----------------------|-----------|:---------:|------------|:----:|
+| Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
+|---------|-----------------------|-----------|-----------|------------|:----:|
 | Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air Type   | 15%  |
 | Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth Type | 15%  |
 | Daniel  | Water-Kin Blessing    | Human     | Row       | Water Type | 15%  |
@@ -116,12 +116,12 @@ Notes:
 <div class="nofilter-table nosort-table" markdown>
 
 | Name &emsp; &emsp; &emsp; &emsp;        | Passive Name                        | Race          | DMG % &emsp; &emsp; | DR % &emsp; &emsp; |
-|-------------|-------------------------------------|---------------|:-----:|:----:|
+|-------------|-------------------------------------|---------------|-------|------|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
 | Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
-| Chloe       | Anti-Adventurer Combat Technique &emsp; &emsp;    | Adventurer    | 20%   | 20%  |
+| Chloe       | Anti-Adventurer Combat Technique &emsp; &emsp; &emsp;    | Adventurer    | 20%   | 20%  |
 | <span style="color: cyan">Chloe A</span>     |  Interpersonal Combat Technique      | Humanoid      | 20%   | 20%  |
-| Dino        | Magical Being Knowledge             | Magical Being &emsp; &emsp;| 20%   | 20%  |
+| Dino        | Magical Being Knowledge             | Magical Being &emsp; &emsp; &emsp;| 20%   | 20%  |
 | Gaston      | Gnawing Doubt                       | Demi-Human    | 20%   | 20%  |
 | Yekaterina  | Advice of the Skull                 | Undead        | 20%   | 20%  |
 | Yrsa        | Slayer of the White Calamity        | Magical Beast | 20%   | 20%  |
