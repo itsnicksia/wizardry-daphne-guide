@@ -118,7 +118,7 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp;        | Passive Name                        | Race          | DMG % &emsp; &emsp; &emsp; | DR % &emsp; &emsp; &emsp; |
+| Name &emsp; &emsp; &emsp; &emsp;        | Passive Name                        | Race          | DMG % | DR % |
 |-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
 | Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
@@ -144,10 +144,10 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Passive Name              | Condition &emsp; &emsp;              | Stat Bonus 1         | Stat Bonus 2 | 
+| Name     | Passive Name              | Condition &emsp; &emsp; &emsp;              | Stat Bonus 1 &emsp;         | Stat Bonus 2 &emsp; | 
 |----------|---------------------------|------------------------|----------------|------|
 | Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy +10      |      |               
-| <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp;   | 2H Staff               | Magic Power +7 | Magic Defense +7 |                           
+| <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;   | 2H Staff               | Magic Power +7 | Magic Defense +7 |                           
 | Gerulf   | Branded Hands             | Any 2H                 | Accuracy +10      | Chill Limit +3 |
 | Gerard   | Lightning Celerity        | 1H Sword               | Evasion +10       |      |                                                
 | <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD +20 | |  
