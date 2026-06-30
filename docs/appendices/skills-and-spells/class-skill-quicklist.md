@@ -110,7 +110,7 @@
     === "Silver-Haired Nun"
         {{ populate_quicklist(filter_values=['Silver-Haired Nun'], 
         file='unique-class-skills.csv',
-        return_columns=['Name','Level'],
+        return_columns=['Name','Type','Level','Restrictions"],
         filter_column='Class')
         | linkify_quicklist_skillnames
         | sort_mixed_values(sortcol="Level")
