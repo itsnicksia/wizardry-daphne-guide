@@ -23,102 +23,92 @@
 
 ### Synergy Skills
 
-=== "Damage Increase"
+#### Damage Increase 
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % | Notes                            |  
-    |-----------------------------------------|------------------------|--------------|--------|:-----:|---------------------------------------------------|
-    | <span style="color: cyan">Adam A</span> | Light Shaft's Radiance | Light        | Column | 15%   | Additional 10% against Dark enemies.              |
-    | Alice                                   | Agent  of Heresy       | Neutral-Evil | Row    | 10%   |                                                   |                                                
-    | Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
-    | Elise                                   | Impartial Collaborator | Neutral      | Column | 10%   |                                                   |                                                   
-    | Lanavaille                              | Valiant Righteousness  | Neutral-Good | Row    | 10%   |                                                   |                                                    
-    | <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
-    | Milana                                  | Mutual Interests       | Evil         | Column &emsp; &emsp; | 10%   | |                                                    
-    
-    </div>
-    
-    Notes:
-    
-    - The damage % increase applies to all sources of damage. 
+<div class="nofilter-table nosort-table" markdown>
 
-=== "Damage Reduction" 
+| Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % | Notes                            |  
+|-----------------------------------------|------------------------|--------------|--------|:-----:|---------------------------------------------------|
+| <span style="color: cyan">Adam A</span> | Light Shaft's Radiance | Light        | Column | 15%   | Additional 10% against Dark enemies.              |
+| Alice                                   | Agent  of Heresy       | Neutral-Evil | Row    | 10%   |                                                   |                                                
+| Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
+| Elise                                   | Impartial Collaborator | Neutral      | Column | 10%   |                                                   |                                                   
+| Lanavaille                              | Valiant Righteousness  | Neutral-Good | Row    | 10%   |                                                   |                                                    
+| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
+| Milana                                  | Mutual Interests       | Evil         | Column &emsp; &emsp; | 10%   | |                                                    
 
+</div>
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
-    |---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
-    | <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
-    | <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                 | Row                     | 10%                | Physical        |                   
-    
-    </div>
+#### Damage Reduction
 
-=== "Flat Stats" 
+<div class="nofilter-table nosort-table" markdown>
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Name                         | Passive Name                                       | Condition                  | Formation &emsp; &emsp; | Stat Bonus |                  |  
-    |------------------------------|----------------------------------------------------|----------------------------|-------------------------|------------|------------------|
-    | Arboris &emsp; &emsp; &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent                | Evasion +6 |  &emsp; Action Speed +4 |
-    | Rinne                        | Enlightenment of the Brink of Death                | Evil                       | Adjacent                | Surety +10 |                  |               
-    
-    </div>
+| Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
+|---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
+| <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
+| <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                 | Row                     | 10%                | Physical        |                   
 
-=== "Status Ailment Tolerance"
+</div>
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments             | Amount |
-    |-----------|-----------------------------------|-----------|-----------|------------------------------------------|:------:|
-    | Asha      | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
-    | Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
-    | Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
-    | Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
-    | Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
-    | Red Beard &emsp; &emsp; &emsp;  |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
-    
-    </div>
-    
-     Notes:
-     
-     - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
+#### Flat Stats
 
+<div class="nofilter-table nosort-table" markdown>
 
-=== "Type Formations" 
+| Name                         | Passive Name                                       | Condition                  | Formation &emsp; &emsp; | Stat Bonus 1 |     | Stat Bonus 2 |    |  
+|------------------------------|----------------------------------------------------|----------------------------|-------------------------|--------------|-----|--------------|----|
+| Arboris &emsp; &emsp; &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent        | Evasion      | +6  | Action Speed | +4 |
+| Rinne                        | Enlightenment of the Brink of Death                | Evil                       | Adjacent                | Surety       | +10 |              |    |  
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
-    |--------|-------------------|-----------------|-----------|------------|:-----:|
-    | Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air        | 15%   |
-    | Flut   | Water Formation   | Self + 2 Water  | Row       | Fire       | 15%   |
-    | Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth      | 15%   |
-    | Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water      | 15%   |
-    
-    </div>
+</div>
 
-=== "Type-Kin Blessing" 
+#### Status Ailment Tolerance 
 
-    <div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
+
+| Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments             | Amount |
+|-----------|-----------------------------------|-----------|-----------|------------------------------------------|:------:|
+| Asha      | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
+| Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
+| Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
+| Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
+| Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
+| Red Beard &emsp; &emsp; &emsp;  |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
+
+</div>
     
-    | Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
-    |---------|-----------------------|-----------|-----------|------------|:----:|
-    | Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air        | 15%  |
-    | Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth      | 15%  |
-    | Daniel  | Water-Kin Blessing    | Human     | Row       | Water      | 15%  |
-    | Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark       | 15%  |
-    | Emil    | Light-Kin Blessing    | Elf       | Row       | Light      | 15%  |
-    | Eulalia | Fire-Kin Blessing     | Elf       | Row       | Fire       | 15%  |
-    
-    </div> 
+#### Type Formation 
+
+<div class="nofilter-table nosort-table" markdown>
+
+| Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
+|--------|-------------------|-----------------|-----------|------------|:-----:|
+| Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air        | 15%   |
+| Flut   | Water Formation   | Self + 2 Water  | Row       | Fire       | 15%   |
+| Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth      | 15%   |
+| Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water      | 15%   |
+
+</div>
+
+#### Type-Kin Blessing 
+
+<div class="nofilter-table nosort-table" markdown>
+
+| Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
+|---------|-----------------------|-----------|-----------|------------|:----:|
+| Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air        | 15%  |
+| Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth      | 15%  |
+| Daniel  | Water-Kin Blessing    | Human     | Row       | Water      | 15%  |
+| Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark       | 15%  |
+| Emil    | Light-Kin Blessing    | Elf       | Row       | Light      | 15%  |
+| Eulalia | Fire-Kin Blessing     | Elf       | Row       | Fire       | 15%  |
+
+</div> 
 
 ## Slayer
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp;        | Passive Name                        | Race          | DMG % | DR % |
+| Name &emsp; &emsp; &emsp; &emsp; | Passive Name   | Race          | DMG % | DR % |
 |-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
 | Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
@@ -139,25 +129,26 @@ Notes:
 
 ## Equipment Bonuses 
 
+<div class="nofilter-table nosort-table narrow-table" markdown>
+
+| Name     | Passive Name              | Condition              | Stat Bonus 1  |     | Stat Bonus 2 |     | 
+|----------|---------------------------|------------------------|---------------|-----|--------------|-----|
+| Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |              |     |               
+| <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;   | 2H Staff | Magic Power | +7 | Magic Defense | +7 |                           
+| Gerulf   | Branded Hands             | Any 2H                 | Accuracy      | +10 | Chill Limit | +3 |
+| Gerard   | Lightning Celerity        | 1H Sword               | Evasion       | +10 |             |    |                                                
+| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD | +20 |   |   |  
+| Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |     |  |    
+| Livana   | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy | +7 |
+| Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;   | Evasion  | +8 |  |  |        
+| Valdor   | Miracle of Faith          | Light Armor            | Magic Defense | +10 |          |    |                      
+| Viviana  | Sidestep                  | Cloth Armor            | Evasion       | +10 |          |    |    
+
+</div> 
+
 - Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
 - For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
-
-| Name     | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; &emsp;         | Stat Bonus 2 &emsp; | 
-|----------|---------------------------|------------------------|----------------|------|
-| Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy +10      |      |               
-| <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;   | 2H Staff               | Magic Power +7 | Magic Defense +7 |                           
-| Gerulf   | Branded Hands             | Any 2H                 | Accuracy +10      | Chill Limit +3 |
-| Gerard   | Lightning Celerity        | 1H Sword               | Evasion +10       |      |                                                
-| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD +20 | |  
-| Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion +8        |             |    
-| Livana   | The One Who Enforces      | 2H Axe                 | Surety +7         | Accuracy +7 |
-| Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;  | Evasion +8        |             |        
-| Valdor   | Miracle of Faith          | Light Armor            | Magic Defense +10 |             |                      
-| Viviana  | Sidestep                  | Cloth Armor            | Evasion +10       |             |     
-
-</div> 
 
 ## MP/SP 
 
@@ -171,4 +162,8 @@ Notes:
 | Name                   | Passive Name                                       | Condition           | Formation &emsp; &emsp;       | Stat 1 &emsp; &emsp; | Amount &emsp; &emsp; | Stat 2 &emsp; &emsp; | Amount 2 &emsp; &emsp; | 
 
 - This section covers Unique Skills that have complex mechanics, benefit multiple stats, and/or require additional information to fully understand. 
-- Forthcoming. 
+- Forthcoming.
+
+-      Notes:
+     
+     - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
