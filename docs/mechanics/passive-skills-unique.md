@@ -23,45 +23,48 @@
 
 ### Damage Increase
 
-<div class="nofilter-table nosort-table" markdown>
+=== "Damage Increase"
 
-| Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % | Notes                            |  
-|-----------------------------------------|------------------------|--------------|--------|:-----:|---------------------------------------------------|
-| <span style="color: cyan">Adam A</span> | Light Shaft's Radiance | Light        | Column | 15%   | Additional 10% against Dark enemies.              |
-| Alice                                   | Agent  of Heresy       | Neutral-Evil | Row    | 10%   |                                                   |                                                
-| Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
-| Elise                                   | Impartial Collaborator | Neutral      | Column | 10%   |                                                   |                                                   
-| Lanavaille                              | Valiant Righteousness  | Neutral-Good | Row    | 10%   |                                                   |                                                    
-| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
-| Milana                                  | Mutual Interests       | Evil         | Column &emsp; &emsp; | 10%   | |                                                    
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % | Notes                            |  
+    |-----------------------------------------|------------------------|--------------|--------|:-----:|---------------------------------------------------|
+    | <span style="color: cyan">Adam A</span> | Light Shaft's Radiance | Light        | Column | 15%   | Additional 10% against Dark enemies.              |
+    | Alice                                   | Agent  of Heresy       | Neutral-Evil | Row    | 10%   |                                                   |                                                
+    | Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
+    | Elise                                   | Impartial Collaborator | Neutral      | Column | 10%   |                                                   |                                                   
+    | Lanavaille                              | Valiant Righteousness  | Neutral-Good | Row    | 10%   |                                                   |                                                    
+    | <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
+    | Milana                                  | Mutual Interests       | Evil         | Column &emsp; &emsp; | 10%   | |                                                    
+    
+    </div>
+    
+    Notes:
+    
+    - The damage % increase applies to all sources of damage. 
 
-</div>
+=== "Damage Reduction" 
 
-Notes:
 
-- The damage % increase applies to all sources of damage. 
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
+    |---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
+    | <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
+    | <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                 | Row                     | 10%                | Physical        |                   
+    
+    </div>
 
-### Damage Reduction 
+=== "Flat Stats" 
 
-<div class="nofilter-table nosort-table" markdown>
-
-| Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
-|---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
-| <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
-| <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                 | Row                     | 10%                | Physical        |                   
-
-</div>
-
-### Flat Stats
-
-<div class="nofilter-table nosort-table" markdown>
-
-| Name                         | Passive Name                                       | Condition                  | Formation &emsp; &emsp; | Stat Bonus |                  |  
-|------------------------------|----------------------------------------------------|----------------------------|-------------------------|------------|------------------|
-| Arboris &emsp; &emsp; &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent                | Evasion +6 |  Action Speed +4 |
-| Rinne                        | Enlightenment of the Brink of Death                | Evil                       | Adjacent                | Surety +10 |                  |               
-
-</div>
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name                         | Passive Name                                       | Condition                  | Formation &emsp; &emsp; | Stat Bonus |                  |  
+    |------------------------------|----------------------------------------------------|----------------------------|-------------------------|------------|------------------|
+    | Arboris &emsp; &emsp; &emsp; &emsp;  | Lord of the Deep Forest's Leadership &emsp; &emsp; | Neutral-Evil &emsp; &emsp; | Adjacent                | Evasion +6 |  &emsp; Action Speed +4 |
+    | Rinne                        | Enlightenment of the Brink of Death                | Evil                       | Adjacent                | Surety +10 |                  |               
+    
+    </div>
 
 ### Status Ailment Tolerance
 
@@ -74,7 +77,7 @@ Notes:
 | Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
 | Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
 | Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
-| Red Beard &emsp; &emsp; |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
+| Red Beard &emsp; &emsp; &emsp;  |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
 
 </div>
 
@@ -89,10 +92,10 @@ Notes:
 
 | Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
 |--------|-------------------|-----------------|-----------|------------|:-----:|
-| Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air Type   | 15%   |
-| Flut   | Water Formation   | Self + 2 Water  | Row       | Fire Type  | 15%   |
-| Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth Type | 15%   |
-| Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water Type | 15%   |
+| Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air        | 15%   |
+| Flut   | Water Formation   | Self + 2 Water  | Row       | Fire       | 15%   |
+| Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth      | 15%   |
+| Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water      | 15%   |
 
 </div>
 
@@ -102,12 +105,12 @@ Notes:
 
 | Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
 |---------|-----------------------|-----------|-----------|------------|:----:|
-| Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air Type   | 15%  |
-| Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth Type | 15%  |
-| Daniel  | Water-Kin Blessing    | Human     | Row       | Water Type | 15%  |
-| Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark Type  | 15%  |
-| Emil    | Light-Kin Blessing    | Elf       | Row       | Light Type | 15%  |
-| Eulalia | Fire-Kin Blessing     | Elf       | Row       | Fire Type  | 15%  |
+| Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air        | 15%  |
+| Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth      | 15%  |
+| Daniel  | Water-Kin Blessing    | Human     | Row       | Water      | 15%  |
+| Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark       | 15%  |
+| Emil    | Light-Kin Blessing    | Elf       | Row       | Light      | 15%  |
+| Eulalia | Fire-Kin Blessing     | Elf       | Row       | Fire       | 15%  |
 
 </div> 
 
@@ -115,13 +118,13 @@ Notes:
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp;        | Passive Name                        | Race          | DMG % &emsp; &emsp; | DR % &emsp; &emsp; |
-|-------------|-------------------------------------|---------------|-------|------|
+| Name &emsp; &emsp; &emsp; &emsp;        | Passive Name                        | Race          | DMG % &emsp; &emsp; &emsp; | DR % &emsp; &emsp; &emsp; |
+|-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
 | Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
 | Chloe       | Anti-Adventurer Combat Technique &emsp; &emsp; &emsp;    | Adventurer    | 20%   | 20%  |
 | <span style="color: cyan">Chloe A</span>     |  Interpersonal Combat Technique      | Humanoid      | 20%   | 20%  |
-| Dino        | Magical Being Knowledge             | Magical Being &emsp; &emsp; &emsp;| 20%   | 20%  |
+| Dino        | Magical Being Knowledge             | Magical Being &emsp; &emsp; &emsp; &emsp;| 20%   | 20%  |
 | Gaston      | Gnawing Doubt                       | Demi-Human    | 20%   | 20%  |
 | Yekaterina  | Advice of the Skull                 | Undead        | 20%   | 20%  |
 | Yrsa        | Slayer of the White Calamity        | Magical Beast | 20%   | 20%  |
