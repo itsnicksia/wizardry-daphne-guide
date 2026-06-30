@@ -2,7 +2,7 @@
 
 - Unique Skills cannot be inherited. They can be attack skills, spells, or passives. This page only covers passives. Permanently at Level 1.
 
-## Synergy Skills
+## Synergy Overview
 
 === "Basics" 
 
@@ -21,7 +21,7 @@
 === "Battle Menu" 
 
 
-### Damage Increase
+### Synergy Skills
 
 === "Damage Increase"
 
