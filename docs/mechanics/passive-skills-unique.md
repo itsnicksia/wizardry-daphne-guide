@@ -66,53 +66,53 @@
     
     </div>
 
-### Status Ailment Tolerance
+=== "Status Ailment Tolerance"
 
-<div class="nofilter-table nosort-table" markdown>
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments             | Amount |
+    |-----------|-----------------------------------|-----------|-----------|------------------------------------------|:------:|
+    | Asha      | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
+    | Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
+    | Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
+    | Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
+    | Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
+    | Red Beard &emsp; &emsp; &emsp;  |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
+    
+    </div>
+    
+     Notes:
+     
+     - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
 
-| Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments             | Amount |
-|-----------|-----------------------------------|-----------|-----------|------------------------------------------|:------:|
-| Asha      | Compassionate Apothecary          | Good      | Adjacent  | Paralysis, Petrification, Poison         | +50    |
-| Clarissa  | Oath of Fortitude                 | Neutral   | Adjacent  | Charm, Confusion, Fear                   | +50    |
-| Eldorado  | Nameless Loyalty                  | Good      | Adjacent  | Sleep, Stun                              | +50    |
-| Galina    | Faith of the Wicked               | Evil      | Adjacent  | Critical, Insta-Kill                     | +50    |
-| Olive     | Honest Living                     | Good      | Adjacent &emsp; &emsp; &emsp;  | Curse, Fear, Skill-Binding               | +50    |
-| Red Beard &emsp; &emsp; &emsp;  |  Apostle of Breaking Commandments &emsp; &emsp; | Dark      | Adjacent  | Insta-Kill, Skill-Binding, Spell-Binding &emsp; | +70    |
 
-</div>
+=== "Type Formations" 
 
- Notes:
- 
- - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
+    |--------|-------------------|-----------------|-----------|------------|:-----:|
+    | Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air        | 15%   |
+    | Flut   | Water Formation   | Self + 2 Water  | Row       | Fire       | 15%   |
+    | Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth      | 15%   |
+    | Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water      | 15%   |
+    
+    </div>
 
+=== "Type-Kin Blessing" 
 
-### Type Formations 
-
-<div class="nofilter-table nosort-table" markdown>
-
-| Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
-|--------|-------------------|-----------------|-----------|------------|:-----:|
-| Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air        | 15%   |
-| Flut   | Water Formation   | Self + 2 Water  | Row       | Fire       | 15%   |
-| Jarmil | Air Formation     | Self + 2 Air    | Row       | Earth      | 15%   |
-| Jean   | Earth Formation   | Self + 2 Earth  | Row       | Water      | 15%   |
-
-</div>
-
-### Type-Kin Blessing 
-
-<div class="nofilter-table nosort-table" markdown>
-
-| Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
-|---------|-----------------------|-----------|-----------|------------|:----:|
-| Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air        | 15%  |
-| Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth      | 15%  |
-| Daniel  | Water-Kin Blessing    | Human     | Row       | Water      | 15%  |
-| Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark       | 15%  |
-| Emil    | Light-Kin Blessing    | Elf       | Row       | Light      | 15%  |
-| Eulalia | Fire-Kin Blessing     | Elf       | Row       | Fire       | 15%  |
-
-</div> 
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
+    |---------|-----------------------|-----------|-----------|------------|:----:|
+    | Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air        | 15%  |
+    | Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth      | 15%  |
+    | Daniel  | Water-Kin Blessing    | Human     | Row       | Water      | 15%  |
+    | Elda    | Dark-Kin Blessing     | Elf       | Row       | Dark       | 15%  |
+    | Emil    | Light-Kin Blessing    | Elf       | Row       | Light      | 15%  |
+    | Eulalia | Fire-Kin Blessing     | Elf       | Row       | Fire       | 15%  |
+    
+    </div> 
 
 ## Slayer
 
