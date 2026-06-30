@@ -108,5 +108,11 @@
     === "Tall Mage"
         w.i.p.
     === "Silver-Haired Nun"
-        w.i.p.
-    
+        {{ populate_quicklist(filter_values=['Silver-Haired Nun'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Level'],
+        filter_column='Class')
+        | linkify_quicklist_skillnames
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }}    
