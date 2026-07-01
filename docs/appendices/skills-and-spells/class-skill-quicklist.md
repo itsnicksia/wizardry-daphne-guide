@@ -102,11 +102,35 @@
 
 === "Unique Classes"
     === "Mage of the Black Rod"
-        w.i.p.
+        {{ populate_quicklist(filter_values=['Mage of the Black Rod'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Type','Level','Restriction'],
+        filter_column='Class')
+        | linkify_quicklist_skillnames
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }} 
+        
     === "Samurai of the Black Rod"
-        w.i.p.
+        {{ populate_quicklist(filter_values=['Samurai of the Black Rod'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Type','Level','Restriction'],
+        filter_column='Class')
+        | linkify_quicklist_skillnames
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }} 
+        
     === "Tall Mage"
-        w.i.p.
+        {{ populate_quicklist(filter_values=['Tall Mage'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Type','Level','Restriction'],
+        filter_column='Class')
+        | linkify_quicklist_skillnames
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }} 
+        
     === "Silver-Haired Nun"
         {{ populate_quicklist(filter_values=['Silver-Haired Nun'], 
         file='unique-class-skills.csv',
