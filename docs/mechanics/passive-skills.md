@@ -685,9 +685,7 @@
     - The Attack power modifier is held constant at 0.50 for all levels. Only the Accuracy modifier increases. 
     - Based on testing it is roughly 2% per level. Level 7 might see a 2-5% jump. 
 
-## Inherited Skills 
-
-### Legendary
+## Legendary 
 
 ### Adam - Wisdom of Truth
 
@@ -873,7 +871,7 @@
     
     </div>
 
-### Anonymous 
+## Anonymous 
 
 === "Per Level" 
 
