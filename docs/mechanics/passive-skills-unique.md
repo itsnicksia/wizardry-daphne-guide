@@ -128,13 +128,13 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
+| Name     | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
 |----------|---------------------------|------------------------|---------------|-----|--------------|-----|
 | Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |              |     |               
 | <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;   | 2H Staff | Magic Power | +7 | Magic Defense | +7 |                           
 | Gerulf   | (Blazing) Branded Hands             | Any 2H                 | Accuracy      | +10 | Chill Limit | +3 |
 | Gerard   | Lightning Celerity        | 1H Sword               | Evasion       | +10 |             |    |                                                
-| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD | +20 &emsp; &emsp &emsp; &emsp &emsp; &emsp |   |   |  
+| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD | +20 &emsp; &emsp; &emsp;  |   |   |  
 | Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |     |  |    
 | Livana   | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy | +7 |
 | Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;   | Evasion  | +8 |  |  |        
