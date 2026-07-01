@@ -781,6 +781,28 @@
     
     </div>
 
+### Alt Alice - Grace of the Dark One
+
+=== "Self" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                     | Lv1  | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |---------------------|------|-----|-----|-----|-----|-----|-----|
+    | Proc Chance % &emsp; &emsp; &emsp;      | 6%   | 7%  | 8%  | 9%  | 10% | 11% | 12% |
+    
+    </div>
+
+=== "Inherited"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                     | Lv1  | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
+    |---------------------|------|-----|-----|-----|-----|-----|
+    | Proc Chance % &emsp; &emsp; &emsp;      | 4%   | 5%  | 6%  | 7%  | 8%  | 9%  | 
+    
+    </div>
+
 ### Debra - Blessings of the Beastfolk Goddess 
 
 === "Self"
