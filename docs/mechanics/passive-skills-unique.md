@@ -20,10 +20,7 @@
 
 === "Battle Menu" 
 
-
-### Synergy Skills
-
-#### Damage Increase 
+### Damage Increase 
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -39,7 +36,7 @@
 
 </div>
 
-#### Damage Reduction
+### Damage Reduction
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -50,7 +47,7 @@
 
 </div>
 
-#### Flat Stats
+### Flat Stats
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -61,7 +58,7 @@
 
 </div>
 
-#### Status Ailment Tolerance 
+### Status Ailment Tolerance 
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -76,11 +73,11 @@
 
 </div>
     
-#### Type Formation 
+### Type Formation 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
+| Name &emsp; &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
 |--------|-------------------|-----------------|-----------|------------|:-----:|
 | Alex   | Fire Formation    | Self + 2 Fire   | Row       | Air        | 15%   |
 | Flut   | Water Formation   | Self + 2 Water  | Row       | Fire       | 15%   |
@@ -89,11 +86,11 @@
 
 </div>
 
-#### Type-Kin Blessing 
+### Type-Kin Blessing 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
+| Name &emsp; &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
 |---------|-----------------------|-----------|-----------|------------|:----:|
 | Amelia  | Air-Kin Blessing      | Beastfolk | Row       | Air        | 15%  |
 | Bakesh  | Earth-Kin Blessing    | Dwarf     | Row       | Earth      | 15%  |
@@ -131,18 +128,18 @@ Notes:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-| Name     | Passive Name              | Condition              | Stat Bonus 1  |     | Stat Bonus 2 |     | 
+| Name     | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
 |----------|---------------------------|------------------------|---------------|-----|--------------|-----|
 | Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |              |     |               
 | <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;   | 2H Staff | Magic Power | +7 | Magic Defense | +7 |                           
-| Gerulf   | Branded Hands             | Any 2H                 | Accuracy      | +10 | Chill Limit | +3 |
+| Gerulf   | (Blazing) Branded Hands             | Any 2H                 | Accuracy      | +10 | Chill Limit | +3 |
 | Gerard   | Lightning Celerity        | 1H Sword               | Evasion       | +10 |             |    |                                                
 | <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD | +20 |   |   |  
 | Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |     |  |    
 | Livana   | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy | +7 |
 | Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;   | Evasion  | +8 |  |  |        
 | Valdor   | Miracle of Faith          | Light Armor            | Magic Defense | +10 |          |    |                      
-| Viviana  | Sidestep                  | Cloth Armor            | Evasion       | +10 |          |    |    
+| Viviana  | Sidestep                  | Cloth Armor            | Evasion       | +10  |          |    |    
 
 </div> 
 
