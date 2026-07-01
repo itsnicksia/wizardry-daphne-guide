@@ -2,7 +2,7 @@
 
 - Unique Skills cannot be inherited. They can be attack skills, spells, or passives. This page only covers passives. Permanently at Level 1.
 
-## Synergy Overview
+## Synergy 
 
 === "Basics" 
 
@@ -101,7 +101,23 @@
 
 </div> 
 
-## Slayer
+## Individual
+
+### Damage Increase
+
+- Counter-Offensive - Alt Savia
+- Cursed Blood Resonance - Gillion
+- Feat of Switfness
+- Foxfire Assault
+- Superior Principles
+
+### Damage Reduction
+
+- Yekaterina
+- Wayfaring Hunter's Savvy 
+
+
+### Slayer
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -118,13 +134,15 @@
 
 </div>
 
+- Add Eye of the Hunter
+
 Notes: 
 
 - Slayer passives increase damage to and decrease damage from a specific enemy race.
 - It is a 20% boost for both General and Legendary units. It can stack with Slayer passives from both weapons and equipment.
 - The damage reduction (DR) % covers all damage types. 
 
-## Equipment Bonuses 
+### Equipment Bonuses 
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
@@ -134,7 +152,7 @@ Notes:
 | <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;   | 2H Staff | Magic Power | +7 | Magic Defense | +7 |                           
 | Gerulf   | (Blazing) Branded Hands             | Any 2H                 | Accuracy      | +10 | Chill Limit | +3 |
 | Gerard   | Lightning Celerity        | 1H Sword               | Evasion       | +10 |             |    |                                                
-| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | ASPD | +20 &emsp; &emsp; &emsp;  |   |   |  
+| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | Action Speed | +20 &emsp; &emsp;  |   |   |  
 | Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |     |  |    
 | Livana   | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy | +7 |
 | Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;   | Evasion  | +8 |  |  |        
@@ -143,15 +161,32 @@ Notes:
 
 </div> 
 
+- Add Dance of the Bold Advance
+
 - Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
 - For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
 
 
-## MP/SP 
+### MP and SP Reduction 
 
-- Forthcoming. 
+- Bones of Obsessive Love
+- Dream of the Sleeping Witch
+- Frugal Faith
+- Guard Experience
+- Knowledge of the Millenial Lord
+- Sacred Healer
+- Skull Study
+- Spellcraft Bookmark
+- Wild Knight
 
-## Special
+
+### Other
+
+- Latent Power of Benevolence
+- Presence of Mind
+- Tyrant's Gravity
+- Encore
+- Witching Wisdom
 
 
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only       | Backrow  | 30%  | Physical | 
