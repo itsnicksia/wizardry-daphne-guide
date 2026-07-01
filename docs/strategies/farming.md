@@ -271,4 +271,6 @@ but this requires stacking Magic Power up to around 200 for each.
         2. The ideal way to farm exp is simply going to the first star indicated on the map closest to the entrance (guaranteed fight with 3 ninjas) and then leaving + re-entering. You could technically fight every sentry on the floor up to the teleporter, but they will be slightly more difficult than the non-sentry fight near the entrance and give the same EXP.
         3. It's recommended not to go past level 50 to maximize EXP gains for this farm.
 
-    
+## Relicbrew Farming
+
+For suggested places to farm relics (used to make Relicbrews), see [Where to farm](../adventurer-customization/relicbrew.md#where-to-farm) in the Relicbrews guide.
