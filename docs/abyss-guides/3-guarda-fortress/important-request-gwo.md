@@ -33,7 +33,7 @@
     - With normal progression you should reach Level 60 by the end of your first run. With the addition of A4 you have the option to take the Copper exam that raises the level cap to 70. 
     - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
     - None of the Important Request faction rewards are particularly valuable.
-    - Faction requests are located [here](./requests.md##old-district-slum-faction-quests). 
+    - Faction requests are located [here](./requests.md#old-district-slum-faction-quests). 
 
 === "Abbreviations"
     
@@ -180,7 +180,7 @@
 === "Summary" 
 
     - This is a mandatory ending and cannot be skipped. Once cleared it will unlock A4 since Ixion survives and completes the requirements for the major faction request. 
-    - The primary objective is to complete all steps associated with the request [Blackmail Resolution](./requests.md##blackmail-resolution). Securing the Blackmail Evidence will gain Dalian's trust so that you can avoid being executed. 
+    - The primary objective is to complete all steps associated with the request [Blackmail Resolution](./requests.md#blackmail-resolution). Securing the Blackmail Evidence will gain Dalian's trust so that you can avoid being executed. 
     - The Blackmail Resolution request:
         - Is a multi-chain request that will take you to several different locations.
         - Has the "Gambler's" boss fight, which some players consider more difficult than the Doll or the GWO.  

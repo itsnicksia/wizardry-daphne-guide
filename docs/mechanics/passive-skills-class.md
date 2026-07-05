@@ -267,7 +267,7 @@
     
      </div>
 
-    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](###chest-opening). 
+    - For the Treasure Trap Detection Skill (Bakesh) and Treasure Trap Disarm Skill (Jean) see the dedicated section [here](#chest-opening). 
 
 === "Calm Mind Technique" 
 
