@@ -177,7 +177,12 @@ def define_env(env):
         df = df.sort_values(by=sortcol, key=lambda col: pd.to_numeric(col, errors='coerce'))
         return df
 
-
+    @env.filter
+    def complete_unique_skills_list(df):
+        allskills = pd_read_csv(f'./data/skills.csv')
+        df = pd.merge(df,allskills[['Name','Type','Restriction']], on="Name", how="left").fillna('')
+        df = df[['Level', 'Name', 'Type', 'Restriction']]
+        return df
 
 def on_post_page_macros(env):
     # Prints rendered markdown to debug_output folder in root of project folder
