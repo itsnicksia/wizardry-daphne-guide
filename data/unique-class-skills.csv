@@ -1,100 +1,100 @@
-Class,Level,Name
-Silver-Haired Nun,1,DIOS
-Silver-Haired Nun,3,Self-Healing
-Silver-Haired Nun,6,LATUMOFIS
-Silver-Haired Nun,8,Stun Bash
-Silver-Haired Nun,10,DIADOR
-Silver-Haired Nun,12,MADIOS
-Silver-Haired Nun,14,DIALKO
-Silver-Haired Nun,17,REILIS
-Silver-Haired Nun,20,KUSFIS
-Silver-Haired Nun,23,ZILFIS
-Silver-Haired Nun,27,MONTINO
-Silver-Haired Nun,29,Recovery
-Silver-Haired Nun,35,REINIKUS
-Silver-Haired Nun,40,ABIT
-Silver-Haired Nun,45,MAPORFIC
-Silver-Haired Nun,51,BADI
-Silver-Haired Nun,54,Fortified Strike
-Silver-Haired Nun,64,Guardian Blow
-Silver-Haired Nun,65,MAKALKI
-Silver-Haired Nun,67,Blessing of Renewal
-Silver-Haired Nun,70,Sacred Resistance
-Tall Mage,20,Coin of Power
-Tall Mage,21,Heavy Attack
-Tall Mage,22,KATINO
-Tall Mage,23,Warrior's Battle Cry
-Tall Mage,24,Passive Detection Up (Mage)
-Tall Mage,25,Counterattack
-Tall Mage,26,DILTO
-Tall Mage,27,Armor Break
-Tall Mage,28,Passive MP Up (Mage)
-Tall Mage,30,MAHALITO
-Tall Mage,31,Follow-Up Attack
-Tall Mage,32,BATILGREF
-Tall Mage,34,Passive Magic Power Up (Mage)
-Tall Mage,35,Way of the Warrior
-Tall Mage,36,BALAFEOS
-Tall Mage,38,CORTU
-Tall Mage,39,Wild Strike
-Tall Mage,40,Mental Unity
-Tall Mage,42,MORLIS
-Tall Mage,44,Way of the Mage
-Tall Mage,46,MONTINO
-Tall Mage,48,KANTIOS
-Tall Mage,51,MAKANITO
-Tall Mage,52,Immortal Strike
-Tall Mage,53,NOFIS
-Tall Mage,55,Fire Type Thaumaturgy
-Tall Mage,58,LAHALITO
-Tall Mage,61,Malefic Wind
-Tall Mage,62,Earth-Splitting Strike
-Tall Mage,63,DALTO
-Tall Mage,65,MADALTO
-Tall Mage,67,Will to Fight
-Tall Mage,68,Fire Resistance Weakening
-Tall Mage,70,Magic Detection
-Mage of the Black Rod,1,CONES
-Mage of the Black Rod,3,KATINO
-Mage of the Black Rod,4,Heavy Attack
-Mage of the Black Rod,5,DILTO
-Mage of the Black Rod,9,MACONES
-Mage of the Black Rod,12,Counterattack
-Mage of the Black Rod,13,BATILGREF
-Mage of the Black Rod,14,Armor Break
-Mage of the Black Rod,17,BALAFEOS
-Mage of the Black Rod,18,CORTU
-Mage of the Black Rod,20,Follow-Up Attack
-Mage of the Black Rod,22,Mental Unity
-Mage of the Black Rod,24,MORLIS
-Mage of the Black Rod,27,MONTINO
-Mage of the Black Rod,34,KANTIOS
-Mage of the Black Rod,36,Will to Fight
-Mage of the Black Rod,40,LACONES
-Mage of the Black Rod,51,MAKANITO
-Mage of the Black Rod,53,NOFIS
-Mage of the Black Rod,61,Malefic Wind
-Mage of the Black Rod,63,DALTO
-Mage of the Black Rod,65,MADALTO
-Mage of the Black Rod,68,Untyped Resistance Weakening
-Mage of the Black Rod,69,Poised All-Out Strike
-Mage of the Black Rod,70,Magic Detection
-Samurai of the Black Rod,1,Divine Path
-Samurai of the Black Rod,1,True Eye Stance
-Samurai of the Black Rod,1,Creeping Coin
-Samurai of the Black Rod,1,Fist of God Stance
-Samurai of the Black Rod,5,Decisive Torso Strike
-Samurai of the Black Rod,10,Cresting Wave Stance
-Samurai of the Black Rod,20,Flame-Bearer
-Samurai of the Black Rod,25,Bamboo Splitter
-Samurai of the Black Rod,28,Hamstring
-Samurai of the Black Rod,30,Tide-Bearer
-Samurai of the Black Rod,35,Quickdraw Stance
-Samurai of the Black Rod,40,Storm-Bearer
-Samurai of the Black Rod,48,Ichimonji Slash
-Samurai of the Black Rod,50,Monolith-Bearer
-Samurai of the Black Rod,58,Strike of Righteous Fury
-Samurai of the Black Rod,61,Anticipation
-Samurai of the Black Rod,62,Thousandfold Grip
-Samurai of the Black Rod,64,Mist of Reversal Stance
-Samurai of the Black Rod,70,Mysta Energy Manipulation
+Class,Level,Name,"INSTRUCTION: just complete cols A,B,C, save as unique-class-skills.csv, upload to data folder. other columns will get pulled from skills.csv. will error if any skills missing from skills.csv"
+Silver-Haired Nun,1,DIOS,
+Silver-Haired Nun,3,Self-Healing,
+Silver-Haired Nun,6,LATUMOFIS,
+Silver-Haired Nun,8,Stun Bash,
+Silver-Haired Nun,10,DIADOR,
+Silver-Haired Nun,12,MADIOS,
+Silver-Haired Nun,14,DIALKO,
+Silver-Haired Nun,17,REILIS,
+Silver-Haired Nun,20,KUSFIS,
+Silver-Haired Nun,23,ZILFIS,
+Silver-Haired Nun,27,MONTINO,
+Silver-Haired Nun,29,Recovery,
+Silver-Haired Nun,35,REINIKUS,
+Silver-Haired Nun,40,ABIT,
+Silver-Haired Nun,45,MAPORFIC,
+Silver-Haired Nun,51,BADI,
+Silver-Haired Nun,54,Fortified Strike,
+Silver-Haired Nun,64,Guardian Blow,
+Silver-Haired Nun,65,MAKALKI,
+Silver-Haired Nun,67,Blessing of Renewal,
+Silver-Haired Nun,70,Sacred Resistance,
+Tall Mage,20,Coin of Power,
+Tall Mage,21,Heavy Attack,
+Tall Mage,22,KATINO,
+Tall Mage,23,Warrior's Battle Cry,
+Tall Mage,24,Passive Detection Up (Mage),
+Tall Mage,25,Counterattack,
+Tall Mage,26,DILTO,
+Tall Mage,27,Armor Break,
+Tall Mage,28,Passive MP Up (Mage),
+Tall Mage,30,MAHALITO,
+Tall Mage,31,Follow-Up Attack,
+Tall Mage,32,BATILGREF,
+Tall Mage,34,Passive Magic Power Up (Mage),
+Tall Mage,35,Way of the Warrior,
+Tall Mage,36,BALAFEOS,
+Tall Mage,38,CORTU,
+Tall Mage,39,Wild Strike,
+Tall Mage,40,Mental Unity,
+Tall Mage,42,MORLIS,
+Tall Mage,44,Way of the Mage,
+Tall Mage,46,MONTINO,
+Tall Mage,48,KANTIOS,
+Tall Mage,51,MAKANITO,
+Tall Mage,52,Immortal Strike,
+Tall Mage,53,NOFIS,
+Tall Mage,55,Fire Type Thaumaturgy,
+Tall Mage,58,LAHALITO,
+Tall Mage,61,Malefic Wind,
+Tall Mage,62,Earth-Splitting Strike,
+Tall Mage,63,DALTO,
+Tall Mage,65,MADALTO,
+Tall Mage,67,Will to Fight,
+Tall Mage,68,Fire Resistance Weakening,
+Tall Mage,70,Magic Detection,
+Mage of the Black Rod,1,CONES,
+Mage of the Black Rod,3,KATINO,
+Mage of the Black Rod,4,Heavy Attack,
+Mage of the Black Rod,5,DILTO,
+Mage of the Black Rod,9,MACONES,
+Mage of the Black Rod,12,Counterattack,
+Mage of the Black Rod,13,BATILGREF,
+Mage of the Black Rod,14,Armor Break,
+Mage of the Black Rod,17,BALAFEOS,
+Mage of the Black Rod,18,CORTU,
+Mage of the Black Rod,20,Follow-Up Attack,
+Mage of the Black Rod,22,Mental Unity,
+Mage of the Black Rod,24,MORLIS,
+Mage of the Black Rod,27,MONTINO,
+Mage of the Black Rod,34,KANTIOS,
+Mage of the Black Rod,36,Will to Fight,
+Mage of the Black Rod,40,LACONES,
+Mage of the Black Rod,51,MAKANITO,
+Mage of the Black Rod,53,NOFIS,
+Mage of the Black Rod,61,Malefic Wind,
+Mage of the Black Rod,63,DALTO,
+Mage of the Black Rod,65,MADALTO,
+Mage of the Black Rod,68,Untyped Resistance Weakening,
+Mage of the Black Rod,69,Poised All-Out Strike,
+Mage of the Black Rod,70,Magic Detection,
+Samurai of the Black Rod,1,Divine Path,
+Samurai of the Black Rod,1,True Eye Stance,
+Samurai of the Black Rod,1,Creeping Coin,
+Samurai of the Black Rod,1,Fist of God Stance,
+Samurai of the Black Rod,5,Decisive Torso Strike,
+Samurai of the Black Rod,10,Cresting Wave Stance,
+Samurai of the Black Rod,20,Flame-Bearer,
+Samurai of the Black Rod,25,Bamboo Splitter,
+Samurai of the Black Rod,28,Hamstring,
+Samurai of the Black Rod,30,Tide-Bearer,
+Samurai of the Black Rod,35,Quickdraw Stance,
+Samurai of the Black Rod,40,Storm-Bearer,
+Samurai of the Black Rod,48,Ichimonji Slash,
+Samurai of the Black Rod,50,Monolith-Bearer,
+Samurai of the Black Rod,58,Strike of Righteous Fury,
+Samurai of the Black Rod,61,Anticipation,
+Samurai of the Black Rod,62,Thousandfold Grip,
+Samurai of the Black Rod,64,Mist of Reversal Stance,
+Samurai of the Black Rod,70,Mysta Energy Manipulation,
