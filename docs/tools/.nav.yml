@@ -1,5 +1,6 @@
 nav:
   - Respawn Tracker: './tracker.md'
   - Respawn Mechanics: './tracker-directions.md'
+  - Yekaterina Ambush Prevention Calculator: './ambush-calculator.md'
   - Loot Finder: './loot-finder.md'
   - Equipment Enhancement (Beta): './equipment-enhancement.md'
