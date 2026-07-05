@@ -495,7 +495,7 @@
     - Pre-requisite requests: 
         - [Trial of the Stone God](#trial-of-the-stone-god) 
         - Arena Tourney Hosted by Avare! (The A2 post-GWO request) 
-        - Note that this request is offered in Isberg, not Port Town. 
+    - This request is offered in Isberg, not Port Town. 
     - To reset the request, CW on Truth of the Beautiful Ore. You will have to complete the Trial of the Stone God each time. 
   
 ??? note "Request Guide"
