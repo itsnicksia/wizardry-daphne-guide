@@ -50,7 +50,9 @@
 
 #### Flowchart 
 
-![](./img/corr-register-corrosion-sentry-steps.png){ width="500" }
+<p align="center">
+  ![](./img/corr-register-corrosion-sentry-steps.png){ width="1000" }
+</p>
 
 - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted").
 - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel. 
