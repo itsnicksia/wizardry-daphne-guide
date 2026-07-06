@@ -1,5 +1,5 @@
 # List of Skills Learned by Each Class
-
+ 
 - Restrictions:  
     - <em>Class</em>-restricted skills become unusable if the adventurer changes to another class.
     - <em>Item</em>-restricted skills are only usable when that particular piece of equipment is equipped.
@@ -10,12 +10,12 @@
 [List of Skill Descriptions](./skills-and-spells.md)  
 
 === "Main Classes"  
-    === "Fighter"
+    === "Fighter" 
         {{ populate_quicklist(filter_values=['Fighter'], 
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -25,7 +25,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -35,7 +35,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -45,7 +45,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -55,7 +55,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -65,7 +65,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -75,7 +75,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -85,7 +85,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -95,7 +95,7 @@
         file='skills.csv',
         return_columns=['Level','Name','Type','Restriction'],
         filter_column='Class')
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
@@ -107,7 +107,7 @@
         return_columns=['Name','Level'],
         filter_column='Class')
         | complete_unique_skills_list
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }} 
@@ -118,7 +118,7 @@
         return_columns=['Name','Level'],
         filter_column='Class')
         | complete_unique_skills_list
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }} 
@@ -129,7 +129,7 @@
         return_columns=['Name','Level'],
         filter_column='Class')
         | complete_unique_skills_list
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }} 
@@ -140,7 +140,8 @@
         return_columns=['Name','Level'],
         filter_column='Class')
         | complete_unique_skills_list
-        | linkify_quicklist_skillnames
+        | linkify_quicklist_skillnames(page.file.src_uri)
         | sort_mixed_values(sortcol="Level")
         | convert_to_md_table 
         | add_indentation(spaces=8) }}    
+

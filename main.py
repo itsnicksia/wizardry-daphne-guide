@@ -166,9 +166,14 @@ def define_env(env):
         return df
 
     @env.filter
-    def linkify_quicklist_skillnames(df):
+    def linkify_quicklist_skillnames(df, srcloc):
+        if len(srcloc)>28 and srcloc[0:29] == "appendices/skills-and-spells/":
+            sklpath = '(skills-and-spells.md#'
+        else:
+            sklpath = '(/appendices/skills-and-spells/skills-and-spells.md#'
+
         df['Name'] = '[' + df['Name'].astype(str) + ']'\
-                     + '(./skills-and-spells.md#' \
+                     + sklpath \
                      + df['Name'].str.replace(' ', '') + ')'
         return df
 
