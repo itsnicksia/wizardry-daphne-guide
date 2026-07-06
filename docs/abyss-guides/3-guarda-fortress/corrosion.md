@@ -53,9 +53,7 @@
 
 #### Flowchart 
 
-<div align="center">
 ![](./img/corr-register-corrosion-sentry-steps.png){ width="500" }
-</div>
 
 - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted").
 - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel. 
@@ -171,6 +169,8 @@
     <div align="center">
     ![](./img/corruption-levels.png)
     </div>
+
+## Corrosion Sentries
 
 ### Secret Passage Minor Harken
 
