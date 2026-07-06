@@ -1,10 +1,7 @@
 # Corrosion Sentries 
 
 !!! warning "Work in Progress" 
-    
-    - Major format overhaul 
-    - Corrosion sentries [10] and [12] are bugged - workaround solution added
-    - DM or ping @lightbearer on the Discord for any corrections or feedback
+    - DM or ping @Lightbearer on the Discord for any corrections or feedback.
 
 ## Overview 
 
