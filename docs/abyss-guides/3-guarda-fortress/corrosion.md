@@ -43,20 +43,10 @@
 
 ??? note "Golems"
     - Golems are the inanimate piles of rock that look like they have machine parts. 
-    - Golems move forward in a straight line when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
+    - Golems move forward in a straight line when activated, destroying traps, damaged walls, and sentries in their path.
     - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the GWO.
 
 ### Corrosion Sentry Registration
-
-#### Flowchart 
-
-<p align="center">
-  ![](./img/corr-register-corrosion-sentry-steps.png){ width="1000" }
-</p>
-
-- Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted").
-- Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel. 
-- Corrosion sentries in the Cursed Wheel can be toggled ("Spotted" or "Not Spotted") to manipulate the Fortress's overall corrosion level.
 
 #### Requirements
 
@@ -95,6 +85,16 @@
 
     - Flags need to be triggered using the correct starting and ending Cursed Wheel nodes. 
     - The guide uses "Start" and "Register" nodes throughout.  
+
+#### Flowchart 
+
+<div align="center">
+  ![](./img/corr-register-corrosion-sentry-steps.png){ width="2000" }
+</div>
+
+- Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted").
+- Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel. 
+- Corrosion sentries in the Cursed Wheel can be toggled ("Spotted" or "Not Spotted") to manipulate the Fortress's overall corrosion level.
             
 ## Corrosion Sentry Guide
 
