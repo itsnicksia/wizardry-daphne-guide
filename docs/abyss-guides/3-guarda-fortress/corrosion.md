@@ -54,17 +54,17 @@
     
     - To register a corrosion sentry the following must be true:
     
-        - "Spotted" at least once
-        - "Not Spotted" at least once
-        - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
+        - "Spotted" at least once.
+        - "Not Spotted" at least once.
+        - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death".
     - Any corrosion sentry you have registered is permanently saved on your account and will appear as a toggle if you run a different faction. They only need to be registered once! 
     
 === "Game Flags" 
 
     === "Definitions" 
         
-        - "Spotted" = Entering a corrosion sentry's field of view.
-        - "Not Spotted" = Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power. 
+        - "Spotted": Entering a corrosion sentry's field of view.
+        - "Not Spotted": Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power. 
 
     === "Mechanics" 
 
@@ -88,7 +88,7 @@
 
 #### Flowchart 
 
-![](./img/corr-register-corrosion-sentry-steps.png){ width="2000" }
+![](./img/corr-register-corrosion-sentry-steps.png){ width="1500" }
 
 - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted").
 - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel. 
@@ -96,7 +96,7 @@
             
 ## Corrosion Sentry Guide
 
-### Topics Covered
+#### Topics Covered
 
 === "Overview" 
 
@@ -125,7 +125,7 @@
     - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
     - We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems. 
 
-### Greater Warped One Variations
+#### Greater Warped One Variations
 
 === "Basics" 
 
