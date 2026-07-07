@@ -2,7 +2,7 @@
 
 !!! note "Overview"  
     - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Save the Duke"), and not just killing the Abyss's final boss.  
-    - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
+    - Specific requirements are listed in order of the Cursed Wheel point needed to reset the event.  
     - Reward:  After Saving the Duke, you receive a reward based on the which Faction request you chose:
         - Pontiff Route: Holy White Stone (Sell for Gold)
         - Princess Route:  Book of Steadfast Shield Soldier Secrets (Skill that gives +DEF/MDEF with Heavy Shield)
@@ -136,7 +136,7 @@
     - [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) is the primary request for the second run.
     - It is a Guild request, but requires Knowledge that Liam has been kidnapped. See the request page for details on how to unlock.        
     - The request has multiple endings. To progress you only need to rescue Liam in "critical condition". The "rescued safely" endings gives Liam's bondmate (Stun Tolerance) if you speak to hear after defeating the GWO. It is fixed at Level 1. 
-    - Only needs to be completed once. The outcome is saved as a toggle in the CW under Fortress 3rd Floor Arrival - Abducted Child sub-node. Make sure you speak with Graham and Remi at the front entrance (tent by the well entrance) after saving Liam to make sure it registers properly.  
+    - Only needs to be completed once. The outcome is saved as a toggle in the CW under Fortress 3rd Floor Arrival - Abducted Child sub-node. Make sure you speak with Graham and Remi at the front entrance (tent by the well entrance) after saving Liam. Next, return to the Guild and submit the request as completed to make sure it registers in the CW properly.  
     
 === "Key Knowledge and Items"
 
