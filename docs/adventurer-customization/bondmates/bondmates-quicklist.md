@@ -1,6 +1,6 @@
-# Bondmates
+# Story Bondmates
 
-## The Beginning Abyss Bondmates
+## The Beginning Abyss 
 
 | Bondmate                                                                                         | Location         | Details                                                                                                                                                                                                                                           | Effect                          | Element | Max Level | Stat 1 | Stat 2 |
 |:------------------------------------------------------------------------------------------------ |:---------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------- |:------- |:---------:|--------|--------|
@@ -20,7 +20,7 @@
 | [The Pleading Boss Goblin](./beginning-abyss/bondmates.md#the-pleading-boss-goblin)              | B3F Goblin Den   | After saving the king, find him and fight him several times in the den.                                                                                                                                                                           | Surety                  | Void    | 5         | 5      |        |
 
 
-## Port Town Grand Legion Bondmates
+## Port Town Grand Legion 
 
 | Bondmate | Location | Details | Effect | Element | Max Level | Stat 1 | Stat 2 |
 |:----------------------------------------------------------------------------------------------|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------|:--------|:---------:|--------|--------|
@@ -38,7 +38,7 @@
 | [Ugo in the Ship's Hold](./port-town-grand-legion/bondmates.md#ugo-in-the-ships-hold)         | Ship deck   | Complete the Oar Collector Extermination request.                                                                                                                                             | ASPD                          | Air     | 5         | 6      |        |
 | [Water God Priestess Regia](./port-town-grand-legion/bondmates.md#water-god-priestess-regia)  | District 2  | Found after completing Water God Statue Restoration Materials                                                                                                                                 | MP                          | Water   | 5         | 12     |        |
 
-## Guarda Fortress Bondmates
+## Guarda Fortress 
 
 | Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
 |:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:---------:|--------|--------|
@@ -57,7 +57,7 @@
 | [Singing Skeleton in the Tunnel](./guarda-fortress/bondmates.md#singing-skeleton-in-the-tunnel)        | Side quest      | Search for Missing Person                     | Defense Power                  | Dark    | 5         | 10     |        |
 | [Young Lord Ixion](./guarda-fortress/bondmates.md#duke-ixion)                                          | Side quest      | Expedition to Clear the Fortress Lower Levels | Magic Power, MP                | Light   | 5         | 10     | 8      |
 
-## Isberg Bondmates
+## Isberg 
 
 | Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
 |:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:---------:|--------|--------|
@@ -70,13 +70,14 @@
 | [Elliot, the Lamenting Brother](./isberg/bondmates.md#elliot-the-lamenting-brother)                    | Side Quest      | Princess 2nd Faction Quest                    | Attack Power                   | Air     | 5         | 16     |        |
 | [Exquisite Jewel Trout](./isberg/bondmates.md#exquisite-jewel-trout)                                   | Side Quest      | Special Local Delicacy                        | HP                             | Water   | 5         | 20     |        |
 | [Iris, Maiden of Rockhome](./isberg/bondmates.md#truth-of-the-beautiful-ore)                           | Main Quest      | Abyss 4 True Ending                           | Divine Power, Resistance       | Light   | 5         | 12     | 10     |
+| Kitty, the White Cat                                                                                   | Side Quest      | Feed caught fish from mini-game               | Detect                         | Air     | 5         | 10     |        |
 | Nero, A Boy of Rockhome                                                                                | Side Quest      | Rebuilding Rockhome Village                   | Attack Power, Stun Tolerance   | Air     | 5         | 14     | 22     |
 | [Maya and Auntie Marta](./isberg/bondmates.md#maya-and-auntie-marta)                                   | Side Quest      | Find my Sister Lisa                           | Fear Tolerance                 | Air     | 5         | 27     |        |
 | [Stonefolk Visiting the Gravestone](./isberg/bondmates.md#stonefolk-visiting-the-gravestone)           | Route 3         | Reverse Nullstones on R3-10                   | MP                             | Earth   | 5         | 12     |        |
 | [Warg, Commander of the Deep Snow](./isberg/bondmates.md#warg-commander-of-the-deep-snow)              | Side Quest      | Unforgivable Wolves                           | Evasion, Freeze Tolerance      | Air     | 5         | 10     | 27     |
 | [William, the Remorseful Husband](./isberg/bondmates.md#william-the-remorseful-husband)                | Side Quest      | Church 2nd Faction Quest                      | Divine Power                   | Fire    | 5         | 12     |        |
 
-## Event Bondmates
+## Special Requests 
 
 | Bondmate                    | Event                                     | Details       | Effect            | Element | Max Level | Stat 1 | Stat 2 |
 |:----------------------------|:------------------------------------------|:--------------|:------------------|:--------|:----------|:-------|:-------|
