@@ -150,26 +150,27 @@
     
      </div>
 
-=== "Data Accuracy Note"
-
-    - The Knight class has the largest number of passives that scale off of Luck. Passives with a proc chance % that scale off of a Trait are the most difficult to test. 
-    - We have confirmed that all proc-based skills and passives have two parts.
-        - Base % when Trait = 0 
-        - Scaling % based on Luck 
-        - Actual % = `[Base %] + [Scaling %]`
-    - For testing we used low Luck units to approximate the Base %, which is what you see in the tables. Your actual rates will be higher, view these as minimum values. 
 
 === "Formula Estimate" 
 
-    - Components
-        - Base % when Trait = 0  
-        - Scaling % based on unit's Luck stat
-        - Actual % = [Base %] + [Scaling %]
-    - Scaling % 
-        - Scaling % = ([Unit's Luck] x [Scaling Factor])/100
-        - The [Scaling Factor] seems to double at Lv4 for almost all passives and skills 
-        - The [Scaling Factor] estimate for Lv 1-3 is 35% and Lv 4-7 is 70%
-    - Example - Cover Defense 
+    === "Data Accuracy" 
+
+        - The Knight class has the largest number of passives that scale off of Luck. Passives with a proc chance % that scale off of a Trait are the most difficult to test. 
+        - For testing we used low Luck units to approximate the Base %, which is what you see in the tables. Your actual rates will be higher, view these as minimum values. 
+        - The [Scaling Factor] is inferred from collected data, but we do know there is a significant jump (almost 2x) at level 4 for every single skill or passive that scales off of a Trait for its effect. 
+
+    === "Components" 
+    
+        - Assumptions
+            - Base % when Trait = 0  
+            - Scaling % based on unit's Luck stat
+            - Actual % = [Base %] + [Scaling %]
+        - Scaling % 
+            - Scaling % = ([Unit's Luck] x [Scaling Factor])/100
+            - The [Scaling Factor] estimate for Lv 1-3 is 35% and Lv 4-7 is 70%
+
+    === "Example - Cover Defense" 
+    
         - Assumptions
             - Unit with 50 Luck 
             - Skill Level 4 
