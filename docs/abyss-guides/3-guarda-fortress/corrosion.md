@@ -5,12 +5,12 @@
 
 ## Corrosion Sentry Guide
 
-### Topics Covered
-
 !!! warning "Introduction" 
 
     - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel. It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops.
     - The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries.
+
+### Topics Covered
 
 === "Overview" 
 
@@ -81,9 +81,7 @@
     ![](./img/corruption-levels.png)
     </div>
 
-## Corrosion Mechanics
-
-??? note "Corrosion"
+## Corrosion and Golem Mechanics
 
     === "Basics"
 
@@ -112,10 +110,11 @@
             ![](./img/corruption-levels.png)
             </div>
 
-??? note "Golems"
-    - Golems are the inanimate piles of rock that look like they have machine parts. 
-    - Golems move forward in a straight line when activated, destroying traps, damaged walls, and sentries in their path.
-    - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the GWO.
+    === "Golems" 
+
+        - Golems are the inanimate piles of rock that look like they have machine parts. 
+        - Golems move forward in a straight line when activated, destroying traps, damaged walls, and sentries in their path.
+        - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the GWO.
 
 ## Corrosion Sentry Registration
 
@@ -159,7 +158,7 @@
 
 ### Flowchart 
 
-![](./img/corr-register-corrosion-sentry-steps.png){ width="975" style="display: block; margin: 0 auto;" }
+![](./img/corr-register-corrosion-sentry-steps.png){ width="925" style="display: block; margin: 0 auto;" }
 
 - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted").
 - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel. 
