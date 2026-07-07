@@ -2,7 +2,7 @@
 
 ## The Beginning Abyss 
 
-| Bondmate                                                                                         | Location         | Details                                                                                                                                                                                                                                           | Effect                          | Element | Max Level | Stat 1 | Stat 2 |
+| Bondmate                                                                                         | Location         | Details                                                                                                                                                                                                                                           | Effect                          | Element | Max Lv  | Stat 1 | Stat 2 |
 |:------------------------------------------------------------------------------------------------ |:---------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |:------------------------------- |:------- |:---------:|--------|--------|
 | [Beheading Bunny](./beginning-abyss/bondmates.md#beheading-bunny)                                | Side quest       | Complete "Relentless Massacre Rabbit" request, defeat all 4 waves on B4F                                                                                                                                                           | Critical Tolerance            | Void    | 5         | 6  |        |
 | [Chris the Considerate](./beginning-abyss/bondmates.md#chris-the-considerate)                    | Hidden quest     | 2nd loop only. Loop to Fresh start. After entering the first floor, speak to him to left of entrance. Do his quest to retrieve his friend's guild tags, and he'll join.                                                                           | MP                            | Light   | 5         | 10     |        |
@@ -22,7 +22,7 @@
 
 ## Port Town Grand Legion 
 
-| Bondmate | Location | Details | Effect | Element | Max Level | Stat 1 | Stat 2 |
+| Bondmate | Location | Details | Effect | Element | Max Lv  | Stat 1 | Stat 2 |
 |:----------------------------------------------------------------------------------------------|:------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------|:--------|:---------:|--------|--------|
 | [Birgier the Fisherman](./port-town-grand-legion/bondmates.md#bergier-the-fisherman)          | Side quest  | Rescue the fisherman quest. They're at the 4th district- Boulevard, south from the harken. Needs to defeat one wave of monsters quickly                                                       | Magic Defense                 | Earth   | 5         | 10     |        |
 | [Caterwaul Crew](./port-town-grand-legion/bondmates.md#caterwaul-crew)                        | Side quest  | Repel the Enemy Forces Quest, late in the chapter. Needs to defeat 3 waves of monsters in the pier.                                                                                           | Fear Tolerance                | Water   | 5         | 20     |        |
@@ -40,7 +40,7 @@
 
 ## Guarda Fortress 
 
-| Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
+| Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Lv    | Stat 1 | Stat 2 |
 |:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:---------:|--------|--------|
 | [Brita the Lazy Handmaiden](./guarda-fortress/bondmates.md#brita-the-lazy-handmaiden)                  | Side quest      | Water Hauling                                 | Charm Tolerance                | Water   | 5         | 20     |        |
 | [Cheating Gambler Faile](./guarda-fortress/bondmates.md#cheating-gambler-faile)                        | Guarda Entrance | Specific Gambler Blackmail Minigame           | Accuracy                       | Dark    | 5         | 10     |        |
@@ -59,7 +59,7 @@
 
 ## Isberg 
 
-| Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Level | Stat 1 | Stat 2 |
+| Bondmate                                                                                               | Location        | Details                                       | Effect                         | Element | Max Lv    | Stat 1 | Stat 2 |
 |:-------------------------------------------------------------------------------------------------------|:----------------|:----------------------------------------------|:-------------------------------|:--------|:---------:|--------|--------|
 | Balsamo, the Forked-Tongued                                                                            | Side Quest      | Arena Tourney Hosted by Avare!                | Accuracy, Trap Find            | Fire    | 5         | 10     | 46     |
 | [Bernard, Father Restored to Life](./isberg/bondmates.md#bernard-father-restored-to-life)              | Side Quest      | Admiral 2nd Faction Quest                     | Magic Power                    | Water   | 5         | 16     |        |
@@ -79,9 +79,9 @@
 
 ## Special Requests 
 
-| Bondmate                    | Event                                     | Details       | Effect            | Element | Max Level | Stat 1 | Stat 2 |
-|:----------------------------|:------------------------------------------|:--------------|:------------------|:--------|:----------|:-------|:-------|
-| Kanosuke, the Loyal Samurai | Vendetta on the Island of the Wailing Oni | True Ending   | Bind Tolerance    | Water   | 5         | 20     |        |
-| Mischievous Pan             | Pixie and the Secret Garden               | True Ending 4 | Magic Power       | Air     | 5         | 12     |        |
-| Willful Theo                | Pixie and the Secret Garden               | True Ending 3 | Poison Tolerance  | Earth   | 5         | 20     |        |
+| Bondmate                    | Event                                     | Details       | Effect            | Element | Max Lv  | Stat 1 | Stat 2 |
+|:----------------------------|:------------------------------------------|:--------------|:------------------|:--------|:-------:|--------|--------|
+| Kanosuke, the Loyal Samurai | Vendetta on the Island of the Wailing Oni | True Ending   | Bind Tolerance    | Water   | 5       | 20     |        |
+| Mischievous Pan             | Pixie and the Secret Garden               | True Ending 4 | Magic Power       | Air     | 5       | 12     |        |
+| Willful Theo                | Pixie and the Secret Garden               | True Ending 3 | Poison Tolerance  | Earth   | 5       | 20     |        |
 
