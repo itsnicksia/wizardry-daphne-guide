@@ -198,7 +198,7 @@
 | Name                                                                | Passive Name             | Condition                    | DR % &emsp; &emsp;  | DMG Type &emsp; &emsp;  | Notes                                     | 
 |---------------------------------------------------------------------|--------------------------|------------------------------|--------------------|-----------------|-------------------------------------------|
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Skull's Tutelage         | Back Row                     | 30%                | Physical        | Increases HP by 10%.                      | 
-| Heinrico                                                            | Wayfaring Hunter's Savvy &emsp; &emsp; | Ambushed, ≥ 4 enemies &emsp; &emsp; | 50%      | All             | DR % for all members. First turn only.        |  
+| Heinrico                                                            | Wayfaring Hunter's Savvy &emsp; &emsp; | Ambushed ≥ 4 enemies &emsp; &emsp; | 50%      | All             | DR % for all members. First turn only.        |  
 
 </div>
 
@@ -237,7 +237,7 @@
 | Gillion                                 | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15 | Action Speed  | +8 |    
 | Kiriha                                  | Shadowy Alignment         | Kunai or Dagger          | Evasion       | +8  |               |    |    
 | Livana                                  | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy      | +7 |
-| Savia                                   | Soaring Beast Knight      | 2H Spear or Light Armor &emsp; &emsp; &emsp;  | Evasion       | +8  |               |    |        
+| Savia                                   | Soaring Beast Knight      | 2H Spear or Light Armor &emsp; &emsp;   | Evasion       | +8  |               |    |        
 | Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
 | Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
 
@@ -246,68 +246,45 @@
 - Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
 - For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
 
-
 ### MP and SP Reduction 
 
-COMPARISON — JOB SP COST REDUCTION FAMILY (kind 2380, p2=10, p3=20)
---------------------------------------------------------------------------------
-Skill                            | Unit      | Job     | job_id
----------------------------------+-----------+---------+-------
-Guard Experience                 | Gandolfo  | Fighter |   100    Fighter
-Skull Study                      | Debra     | Thief   |   101    Skull Study - reduces MP/SP cost of Thief spells/skills that cost 3-10 MP/SP; Chinese wiki says -1 MP/SP, so is it 10%?
-Frugal Faith                     | Marianne  | Priest  |   102    Priest
-Knowledge of the Millennial Lord | Adam      | Mage    |   103    Mage
-Wild Knight                      | Barb      |  Knight      
+=== "Flat %" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name     | Passive Name                    | Class   | Range      |
+    |----------|---------------------------------|---------|------------|
+    | Adam     | Knowledge of the Millenial Lord  &emsp; &emsp; | Mage    |            |
+    | Barbara  | Wild Knight                     | Knight  &emsp; &emsp; &emsp;  |            |
+    | Debra    | Skull Study                     | Thief   | 3-10 MP/SP  &emsp; &emsp; &emsp; | 
+    | Gandolfo  &emsp; &emsp; &emsp; | Guard Experience                | Fighter |            | 
+    | Marianne | Frugal Faith                    | Priest  |            |
+    
+    </div> 
+    
+    - Exact same passive across all units, representing each of the 5 starter classes. 
+    - Applies to any skill or spell from the designated class.
+    - Provides a 10% MP or SP reduction, rounded down as a floor function (i.e., 3.9 > 3.0).
+    - Continuously reduces the MP/SP cost of [Class] spells or skills that cost 3-10 MP/SP.
+    - Maybe it's something like any class skill capped at 10 SP/MP is reduced by 20%? Clearly a floor/ceiling function going on 
+
+=== "Erwin - Spellcraft Bookmark" 
+
+    - 10% DMG when the same spell is cast consecutively.
+    - -2 MP cost
+    - The damage and MP reduction does not improve with subsequent uses. 
+
+=== "Marianne A - Sacred Healer" 
+
+    - -2 MP for Dios only?
+
+=== "Raffaello - Bones of Obsessive Love" 
+
+    - Restores minor MP to self when defeating an enemy.
+    
+=== "Shelirionach - Dream of the Sleeping Witch" 
 
 
-Maybe it's something like any class skill capped at 10 SP/MP is reduced by 20%? Clearly a floor/ceiling function going on 
-
-skill__sub_effect (id: 19400218001238)
-  kind:                         2380 (JobSkillCostDown / 職業スキルコスト減少)
-                                Translation: "Class skill cost reduction"
-  turn:                         0
-  is_synergy:                   false (self only)
-  skill_target_id:              101 (self)
-  param_1:                      101  -> job_id = Thief
-  param_2:                      10   -> cost reduction amount (-10 SP)
-  param_3:                      20   -> SP cost threshold (applies to skills
-                                        costing >= 20 SP)
-
-All four: -10 SP on class skills costing >= 20 SP. PassiveStatus,
-always-on, self only.
-
-This makes no sense, it must be a 10% reduction in the skill cost. Need to compare + verify all of these 
-
-- Bones of Obsessive Love
-- Dream of the Sleeping Witch
-- Sacred Healer
-
--2 MP for Dios only?
-
-  NOTE: p1 vs p2 mapping for cost reduction amount is an inference based
-  on cross-referencing the 4 kind 2192 sub_effects. The other 3 entries
-  use p2=10 for their cost reduction. This may indicate p1 and p2 serve
-  different roles (e.g. p1=flat reduction, p2=% reduction) or that the
-  parameter order differs by variant.
-  
-- Baseline values only
-
-
-
-
-
-
-- Spellcraft Bookmark
-
-Increases damage dealt when using a magic-damage skill consecutively, and
-reduces the SP cost of magic-damage skills used consecutively.
-
-10% extra damage
--2 MP, need to confirm 
-Does this keep stacking on a 3rd, 4th turn?
-Minimum MP = 1?
-
-CONFIRMED - 10% extra damage, -2 MP, this NEVER changes 
 
 ### Other
 
