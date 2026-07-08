@@ -109,7 +109,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    | ASPD Difference &emsp; &emsp; | DMG % |
+    | ASPD Lead &emsp; &emsp; | DMG % |
     |:---------:|:-----------:|
     | 0         | +0%         |
     | 1         | +11%        |
@@ -187,16 +187,18 @@
     - Only activates during the first 3 rounds of combat. If more than one enemy is present the target is randomly selected. 
     - Enemy damage is 150% of Attack Power. The hit is guaranteed and cannot be evaded.  
     - The debuff increases damage to enemies by 10% and lasts for 3 enemy turns. Note: Foxfire obeys the 3 debuff limit on enemies and can be knocked off. 
-    - Not confirmed: When Yuzu is in the Ranger class, Foxfire seems to use the class's effective damage formula (1.5 x ACC + 0.50 x ATK Power). The 150% damage modifier likely applies to the effective damage (the final value) and not the (0.50) ATK Power portion. Otherwise we would be observing much lower damage values.    
+    - Not confirmed: 
+        - When Yuzu is in the Ranger class, Foxfire seems to use the class's effective damage formula (1.5 x ACC + 0.50 x ATK Power). 
+        - The 150% damage modifier likely applies to the effective damage (the final value) and not the (0.50) ATK Power portion. Otherwise we would be observing much lower damage values.    
 
 ### Damage Reduction
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                                                                | Passive Name             | Condition                    | DR % &emsp; &emsp; | DMG Type &emsp; | Notes                                     | 
+| Name                                                                | Passive Name             | Condition                    | DR % &emsp; &emsp; &emsp; | DMG Type &emsp; &emsp; &emsp; | Notes                                     | 
 |---------------------------------------------------------------------|--------------------------|------------------------------|--------------------|-----------------|-------------------------------------------|
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Skull's Tutelage         | Back Row                     | 30%                | Physical        | Increases HP by 10%.                      | 
-| Heinrico                                                            | Wayfaring Hunter's Savvy &emsp; &emsp; | Ambushed, at least 4 enemies &emsp; &emsp; | 50% (1 turn)       | All             | DR % applies to all party members.        |  
+| Heinrico                                                            | Wayfaring Hunter's Savvy &emsp; &emsp; | Ambushed, ≥ 4 enemies &emsp; &emsp; | 50%      | All             | DR % applies to all party members. First turn only.        |  
 
 </div>
 
@@ -225,17 +227,17 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                                    | Passive Name &emsp; &emsp; &emsp; &emsp;              | Condition &emsp; &emsp; &emsp; &emsp;             | Stat Bonus 1 &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; &emsp; |  &emsp; &emsp; &emsp;   | 
+| Name                                    | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp;     | Stat Bonus 2 &emsp; &emsp;  |  &emsp; &emsp;    | 
 |-----------------------------------------|---------------------------|------------------------|---------------|-----|---------------|----|
 | Eckart                                  | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |               |    |               
 | <span style="color: cyan">Flut A</span> | Grace of the Great Tree   | 2H Staff               | Magic Power   | +7  | Magic Defense | +7 |                           
 | Gerulf                                  | (Blazing) Branded Hands   | Any 2H                 | Accuracy      | +10 | Chill Limit   | +3 |
 | Gerard                                  | Lightning Celerity        | 1H Sword               | Evasion       | +10 |               |    |                                                
-| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
+| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught &emsp; &emsp; &emsp;  | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
 | Gillion                                 | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15 | Action Speed  | +8 |    
 | Kiriha                                  | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |               |    |    
 | Livana                                  | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy      | +7 |
-| Savia                                   | Soaring Beast Knight      | 2H Spear, Light Armor  | Evasion       | +8  |               |    |        
+| Savia                                   | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;  | Evasion       | +8  |               |    |        
 | Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
 | Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
 
@@ -310,7 +312,7 @@ reduces the SP cost of magic-damage skills used consecutively.
 Does this keep stacking on a 3rd, 4th turn?
 Minimum MP = 1?
 
-
+CONFIRMED - 10% extra damage, -2 MP, this NEVER changes 
 
 ### Other
 
@@ -318,17 +320,12 @@ Minimum MP = 1?
 
 | Name     | Passive Name                                          | Condition | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
 |----------|-------------------------------------------------------|-----------|--------------|-----|---------------|-----|
-| Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Front Row | Attack       | +15 | Defense       | +30 |
+| Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Front Row | Attack Power | +15 | Defense       | +30 |
 | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Back Row  | Divine Power | +15 | Magic Defense | +30 |
 
-- 1H Blunt adds 10% of Divine Power to ATK up to 100 ATK. 
+- Equipping a 1H Blunt weapon adds 10% of Divine Power to ATK Power up to +100.
+- If a 1H Blunt weapon is equipped the effect stacks with her row-dependent stat bonuses. 
 
-
-Front row
-+15 ATK, +30 DEF
-
-Back row
-+15 DIV +30 MDEF
 
 #### Camille - Latent Power of Benevolence
 
@@ -336,17 +333,17 @@ Back row
 
 | Target HP%           | Recovery % |  
 |----------------------|------------|
-| 100% HP (0% Lost)    | +0%        | 
-| 90% HP  (10% Lost) &emsp; &emsp; &emsp;   | +8%        | 
-| 80% HP  (20% Lost)   | +16%       | 
-| 70% HP  (30% Lost)   | +24%       | 
-| 60% HP  (40% Lost)   | +32%       | 
-| 50% HP  (50% Lost)   | +40%       | 
-| 40% HP  (60% Lost)   | +48%       | 
-| 30% HP  (70% Lost)   | +56%       | 
-| 20% HP  (80% Lost)   | +64%       | 
-| 10% HP  (90% Lost)   | +72%       | 
-| 1% HP   (99% Lost)   | +72%       | 
+| 100% HP | +0%        | 
+| 90% HP  &emsp; &emsp; &emsp;   | +8%        | 
+| 80% HP  | +16%       | 
+| 70% HP  | +24%       | 
+| 60% HP  | +32%       | 
+| 50% HP  | +40%       | 
+| 40% HP  | +48%       | 
+| 30% HP  | +56%       | 
+| 20% HP  | +64%       | 
+| 10% HP  | +72%       | 
+| 1% HP   | +72%       | 
 
 </div>
 
