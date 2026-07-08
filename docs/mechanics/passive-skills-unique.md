@@ -40,7 +40,7 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; | 
+| Name                                                    | Passive Name                     | Condition                   | Formation &emsp; &emsp; | DR % &emsp; &emsp; | DMG Type &emsp; &emsp; | 
 |---------------------------------------------------------|----------------------------------|-----------------------------|-------------------------|--------------------|-----------------|
 | <span style="color: cyan">Alice A</span>                | Heretical Blessing               | Neutral-Evil &emsp; &emsp;  | Row                     | 5%                 | All             |                   
 | <span style="color: cyan">Milana A</span> &emsp; &emsp; &emsp; | Calculated Charity &emsp; &emsp; | Evil                 | Row                     | 10%                | Physical        |                   
@@ -58,7 +58,7 @@
 
 </div>
 
-### Status Ailment Tolerance 
+### Status Tolerance 
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -204,7 +204,7 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp; | Passive Name   | Race          | DMG % | DR % |
+| Name &emsp; &emsp; &emsp; &emsp; &emsp; | Passive Name   | Race          | DMG % | DR % |
 |-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
 | Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
@@ -225,27 +225,24 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name     | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
-|----------|---------------------------|------------------------|---------------|-----|--------------|-----|
-| Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |              |     |               
-| <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;    | 2H Staff | Magic Power | +7 | Magic Defense | +7 |                           
-| Gerulf   | (Blazing) Branded Hands             | Any 2H                 | Accuracy      | +10 | Chill Limit | +3 |
-| Gerard   | Lightning Celerity        | 1H Sword               | Evasion       | +10 |             |    |                                                
-| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | Action Speed | +20 &emsp; &emsp;  |   |   |  
-| Gillion  | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15  | Action Speed | +8    |    
-| Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |     |  |    
-| Livana   | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy | +7 |
-| Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;   | Evasion  | +8 |  |  |        
-| Valdor   | Miracle of Faith          | Light Armor            | Magic Defense &emsp; &emsp; | +10 |          |    |                      
-| Viviana  | Sidestep                  | Cloth Armor            | Evasion       | +10  |          |    |    
+| Name                                    | Passive Name &emsp; &emsp; &emsp; &emsp;              | Condition &emsp; &emsp; &emsp; &emsp;             | Stat Bonus 1 &emsp; &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; &emsp; |  &emsp; &emsp; &emsp;   | 
+|-----------------------------------------|---------------------------|------------------------|---------------|-----|---------------|----|
+| Eckart                                  | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |               |    |               
+| <span style="color: cyan">Flut A</span> | Grace of the Great Tree   | 2H Staff               | Magic Power   | +7  | Magic Defense | +7 |                           
+| Gerulf                                  | (Blazing) Branded Hands   | Any 2H                 | Accuracy      | +10 | Chill Limit   | +3 |
+| Gerard                                  | Lightning Celerity        | 1H Sword               | Evasion       | +10 |               |    |                                                
+| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
+| Gillion                                 | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15 | Action Speed  | +8 |    
+| Kiriha                                  | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |               |    |    
+| Livana                                  | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy      | +7 |
+| Savia                                   | Soaring Beast Knight      | 2H Spear, Light Armor  | Evasion       | +8  |               |    |        
+| Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
+| Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
 
 </div> 
 
 
 
-
-1H Blunt
-SP = 10% of ATK stat, capped at +100 SP or is it +10 SP, DIVINE POWER, NOT SP
 
 - Add Dance of the Bold Advance
 
