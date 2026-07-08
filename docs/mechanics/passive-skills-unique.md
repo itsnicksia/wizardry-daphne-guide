@@ -196,7 +196,7 @@
 | Name                                                                | Passive Name             | Condition                    | DR % &emsp; &emsp; | DMG Type &emsp; | Notes                                     | 
 |---------------------------------------------------------------------|--------------------------|------------------------------|--------------------|-----------------|-------------------------------------------|
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Skull's Tutelage         | Back Row                     | 30%                | Physical        | Increases HP by 10%.                      | 
-| Heinrico                                                            | Wayfaring Hunter's Savvy | Ambushed, at least 4 enemies | 50% (1 turn)       | All             | DR % applies to all party members.        |  
+| Heinrico                                                            | Wayfaring Hunter's Savvy &emsp; &emsp; | Ambushed, at least 4 enemies &emsp; &emsp; | 50% (1 turn)       | All             | DR % applies to all party members.        |  
 
 </div>
 
