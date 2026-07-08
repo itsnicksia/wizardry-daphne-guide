@@ -171,7 +171,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    |           | Stack 1 &emsp; | Stack 2 &emsp; | Stack 3 &emsp; | Stack 4 &emsp; | Stack 5 &emsp;  |
+    |           | Stack 1 &emsp; &emsp; | Stack 2 &emsp; &emsp; | Stack 3 &emsp; &emsp; | Stack 4 &emsp; &emsp; | Stack 5 &emsp; &emsp;  |
     |-----------|---------|---------|---------|---------|----------|
     | Attack Power &emsp; &emsp; &emsp;    |  +20    | +21     | +22     | +23     | +25      |
     | Surety                               |  +10    | +11     | +12     | +13     | +15      |
