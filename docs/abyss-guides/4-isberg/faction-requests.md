@@ -161,7 +161,7 @@
     
     ??? tip "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
         
-        - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires max faction affinity
+        - The Aegon Route<span style="color: MediumOrchid">*</span> leads to the Best ending and requires the Princess route selected for A2
         - The default Mystic Route has a different map layout and quest giver
         - The Fellwisp will only spawn on the Aegon Route although the Cyclops + Bigfoot fight is available on both 
         
