@@ -109,7 +109,7 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    | ASPD Diff &emsp; &emsp; | DMG % |
+    | ASPD Difference &emsp; &emsp; | DMG % |
     |:---------:|:-----------:|
     | 0         | +0%         |
     | 1         | +11%        |
@@ -122,9 +122,10 @@
     
     </div>
     
-    - The DMG % is based on Abenius's ASPD lead over the target at the moment of the attack. The wording of the passive is ambiguous whether it resets per turn or active only during the first round of combat. We assume the latter, but this is currently being tested.
-    - The scaling is roughly 1% of bonus DMG for every 10 ASPD with a cap of 20% at 100+ ASPD.
-    - While the DMG% scaling caps at 20%, you are guaranteed an extra 11% damage with just a 1 point ASPD lead.
+    - The DMG % is based on Abenius's ASPD lead over the target at the moment of the attack. 
+    - The wording of the passive is ambiguous whether it reset per round or only once-per-battle during the opening round. We assume the latter, but this is currently being tested.
+    - The scaling is roughly 1% DMG for every 10 ASPD with a cap of 20% DMG at 100+ ASPD.
+    - While the DMG % scaling caps at 20%, you are guaranteed an extra 11% damage with just a 1 point ASPD lead.
 
 === "Bugen - Superior Principles" 
 
@@ -142,9 +143,9 @@
 
     === "Effect" 
     
-        - Only in effect if the enemy is classified as a "flying enemy". See second tab. 
-        - 20% DMG
-        - +20 Accuracy 
+        - Enemy must be classified as "Flying". See "Flying Enemy List" tab. 
+        - +20% DMG and +20 Accuracy.
+        - Always active. There are no other conditions that need to be met. 
 
     === "Flying Enemy List" 
 
@@ -158,10 +159,13 @@
         | Dragon Fly                      | Dragon Fly, Desert Fly, Flame Fly, Air Dragon Fly                       |
         | Hawk                            | Forest, Volcano, Snow, Big Snow                                         |
         | Giant Monster Bird              | Includes Lightning-Clad variant                                         |
-        | The Lurking Flutter Hunting-Fey &emsp; &emsp; | Bounty enemy                                                            |
+        | The Lurking Flutter Hunting-Fey &emsp; &emsp; &emsp; | Bounty enemy                                                            |
         | Millennial Lord                 | Variant of Earth Entity                                                 |
         
         </div>
+
+        - Drecom confirmed these enemy families directly when inquiried. 
+        - Note that it does not cover all enemies with wings or that float in mid-air such as Greater Demons, Succubuses, etc.
 
 === "<span style="color: cyan">Savia A</span> - Counter-Offensive" 
 
@@ -169,22 +173,32 @@
     
     |           | Stack 1 &emsp; | Stack 2 &emsp; | Stack 3 &emsp; | Stack 4 &emsp; | Stack 5 &emsp;  |
     |-----------|---------|---------|---------|---------|----------|
-    | Attack &emsp; &emsp;    |  +20    | +21     | +22     | +23     | +25      |
-    | Surety &emsp; &emsp;    |  +10    | +11     | +12     | +13     | +15      |
+    | Attack Power &emsp; &emsp; &emsp;    |  +20    | +21     | +22     | +23     | +25      |
+    | Surety                               |  +10    | +11     | +12     | +13     | +15      |
     
     </div>
     
     - Activates after evading an enemy attack.
-    - The stacks are not additive. Each subsequent evade overwrites the previous values. Consequently, the maximum stat increases at 5 stacks are +25 Attack and +15 Surety. 
+    - The stacks are not additive. Each subsequent evade overwrites the previous values. 
+    - The maximum stat increase at 5 stacks is +25 Attack and +15 Surety. 
 
 === "Yuzunamiki - Foxfire Assault" 
 
+    - Only activates during the first 3 rounds of combat. If more than one enemy is present the target is randomly selected. 
+    - Enemy damage is 150% of Attack Power. The hit is guaranteed and cannot be evaded.  
+    - The debuff increases damage to enemies by 10% and lasts for 3 enemy turns. Note: Foxfire obeys the 3 debuff limit on enemies and can be knocked off. 
+    - Not confirmed: When Yuzu is in the Ranger class, Foxfire seems to use the class's effective damage formula (1.5 x ACC + 0.50 x ATK Power). The 150% damage modifier likely applies to the effective damage (the final value) and not the (0.50) ATK Power portion. Otherwise we would be observing much lower damage values.    
+
 ### Damage Reduction
+
+<div class="nofilter-table nosort-table" markdown>
 
 | Name                                                                | Passive Name             | Condition                    | DR % &emsp; &emsp; | DMG Type &emsp; | Notes                                     | 
 |---------------------------------------------------------------------|--------------------------|------------------------------|--------------------|-----------------|-------------------------------------------|
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Skull's Tutelage         | Back Row                     | 30%                | Physical        | Increases HP by 10%.                      | 
 | Heinrico                                                            | Wayfaring Hunter's Savvy | Ambushed, at least 4 enemies | 50% (1 turn)       | All             | DR % applies to all party members.        |  
+
+</div>
 
 ### Slayer
 
@@ -203,13 +217,9 @@
 
 </div>
 
-- Add Eye of the Hunter
-
-Notes: 
-
-- Slayer passives increase damage to and decrease damage from a specific enemy race.
-- It is a 20% boost for both General and Legendary units. It can stack with Slayer passives from both weapons and equipment.
-- The damage reduction (DR) % covers all damage types. 
+- Slayer passives increase DMG to and decrease DMG from a specific enemy race.
+- It is a 20% DMG boost for both General and Legendary units. It can stack with Slayer passives from both weapons and equipment.
+- The damage reduction (DR) % covers all sources of damage.
 
 ### Equipment Bonuses 
 
@@ -218,7 +228,7 @@ Notes:
 | Name     | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
 |----------|---------------------------|------------------------|---------------|-----|--------------|-----|
 | Eckart   | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |              |     |               
-| <span style="color: cyan">Flut A</span> | Grace of the Great Tree    | 2H Staff | Magic Power | +7 | Magic Defense | +7 |                           
+| <span style="color: cyan">Flut A</span> | Grace of the Great Tree &emsp; &emsp; &emsp;    | 2H Staff | Magic Power | +7 | Magic Defense | +7 |                           
 | Gerulf   | (Blazing) Branded Hands             | Any 2H                 | Accuracy      | +10 | Chill Limit | +3 |
 | Gerard   | Lightning Celerity        | 1H Sword               | Evasion       | +10 |             |    |                                                
 | <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught | 1H Sword, Axe, Blunt | Action Speed | +20 &emsp; &emsp;  |   |   |  
@@ -226,18 +236,13 @@ Notes:
 | Kiriha   | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |     |  |    
 | Livana   | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy | +7 |
 | Savia    | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;   | Evasion  | +8 |  |  |        
-| Valdor   | Miracle of Faith          | Light Armor            | Magic Defense | +10 |          |    |                      
+| Valdor   | Miracle of Faith          | Light Armor            | Magic Defense &emsp; &emsp; | +10 |          |    |                      
 | Viviana  | Sidestep                  | Cloth Armor            | Evasion       | +10  |          |    |    
 
 </div> 
 
 
 
-Front row
-+15 ATK, +30 DEF
-
-Back row
-+15 DIV +30 MDEF
 
 1H Blunt
 SP = 10% of ATK stat, capped at +100 SP or is it +10 SP, DIVINE POWER, NOT SP
@@ -320,6 +325,13 @@ Minimum MP = 1?
 | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Back Row  | Divine Power | +15 | Magic Defense | +30 |
 
 - 1H Blunt adds 10% of Divine Power to ATK up to 100 ATK. 
+
+
+Front row
++15 ATK, +30 DEF
+
+Back row
++15 DIV +30 MDEF
 
 #### Camille - Latent Power of Benevolence
 
