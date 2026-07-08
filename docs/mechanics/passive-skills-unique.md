@@ -31,7 +31,7 @@
 | Anemone                                 | Helping Uphold Justice | Neutral-Good | Row    | 13%   | Does not include Anemone, only skills and spells. | 
 | Elise                                   | Impartial Collaborator | Neutral      | Column | 10%   |                                                   |                                                   
 | Lanavaille                              | Valiant Righteousness  | Neutral-Good | Row    | 10%   |                                                   |                                                    
-| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; &emsp; | Neutral-Good &emsp; &emsp;      | Row       | 10%   | |                                                   
+| <span style="color: cyan">Lanavaille A</span> &emsp; &emsp; | Stirring Righteousness &emsp; &emsp; &emsp; | Neutral-Good &emsp; &emsp; &emsp;      | Row       | 10%   | |                                                   
 | Milana                                  | Mutual Interests       | Evil         | Column &emsp; &emsp; | 10%   | |                                                    
 
 </div>
@@ -107,54 +107,77 @@
 
 === "<span style="color: cyan">Abenius A</span> - Feat of Swiftness"
 
-This gives tiers at WaitTurn differences of 10, 20, 30 ... up to 100:
-WaitTurn difference (Abenius faster by...)Damage bonus< 10+0%10–19+10%20–29+20%30–39+30%40–49+40%50–59+50%60–69+60%70–79+70%80–89+80%90–99+90%≥ 100+100% (cap)
-
-=== "<span style="color: cyan">Savia A</span> - Counter-Offensive" 
-
-|           | Stack 1 | Stack 2 | Stack 3 | Stack 4 | Stack 5  |
-|-----------|:-------:|:-------:|:--------|---------|:--------:|
-| Attack    |  +20    | +21     | +22     | +23     | +25      |
-| Surety    |  +10    | +11     | +12     | +13     | +15      |
-
-- Activates after evading an enemy attack.
-- The stacks are not additive. Each subsequent evade overwrites the previous values. Consequently, the maximum stat increases at 5 stacks are +25 Attack and +15 Surety. 
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | ASPD Diff &emsp; &emsp; | DMG % |
+    |:---------:|:-----------:|
+    | 0         | +0%         |
+    | 1         | +11%        |
+    | 10        | +11%        |
+    | 30        | +13%        |
+    | 50        | +15%        |
+    | 70        | +17%        |
+    | 90        | +19%        |
+    | 100+      | +20%        |
+    
+    </div>
+    
+    - The DMG % is based on Abenius's ASPD lead over the target at the moment of the attack. The wording of the passive is ambiguous whether it resets per turn or active only during the first round of combat. We assume the latter, but this is currently being tested.
+    - The scaling is roughly 1% of bonus DMG for every 10 ASPD with a cap of 20% at 100+ ASPD.
+    - While the DMG% scaling caps at 20%, you are guaranteed an extra 11% damage with just a 1 point ASPD lead.
 
 === "Bugen - Superior Principles" 
 
-- 20% extra damage when using a weapon, skill, or spell with a Type Advantage against an enemy.
-- For example, using Flame-Bearer against an Air-Type enemy.
-- Stacks with Type Formation synergies for a total of 35% extra damage.   
+    - 20% extra damage when using a weapon, skill, or spell with a Type Advantage against an enemy.
+    - For example, using Flame-Bearer against an Air-Type enemy.
+    - Stacks with Type Formation synergies for a total of 35% extra damage.   
 
 === "Gillion - Cursed Blood Resonance" 
 
-- 5% of Max HP consumed per attack.
-- 15% damage to all enemy types. This is always active and not equipment dependent. 
-- Equipping any 2H weapon or Odachi gives +15 Accuracy and +8 Action Speed.  
+    - 5% of Max HP consumed per attack.
+    - 15% damage to all enemy types. This is always active and not equipment dependent. 
+    - Equipping any 2H weapon or Odachi gives +15 Accuracy and +8 Action Speed.  
 
-- Cursed Blood Resonance - Gillion
-- Feat of Switfness
-- Foxfire Assault
-- Bugen - Superior Principles - 20% damage increase
+=== "Ophelia - Eye of the Hunter" 
 
+    === "Effect" 
+    
+        - Only in effect if the enemy is classified as a "flying enemy". See second tab. 
+        - 20% DMG
+        - +20 Accuracy 
 
-SUMMARY BY ENEMY FAMILY
-================================================================================
+    === "Flying Enemy List" 
 
-  Family            | Count | Notes
-  ------------------+-------+-------------------------------
-  Pixie (all types) |   39  | Base, Earth, Fire, Air, Light, Dark, Water
-                    |       | + Capricious/Clever variants
-  Entity (all types)|   22  | Air, Fire, Earth, Light, Dark, Ice, Water
-                    |       | + Millennial Lord
-  Flying Sword      |   14  | Standard + Air variant
-  Dragon Fly family |   20  | Dragon Fly, Desert Fly, Flame Fly, Air Dragon Fly
-  Hawk family       |   16  | Forest, Volcano, Snow, Big Snow
-  Giant Monster Bird|    3  | Including Lightning-Clad variant
-  The Lurking Flutter Hunting-Fey | 1 | Unique
-  Bird-type Floor Boss | 1  | Internal symbol enemy (id=205)
-  Millennial Lord   |    1  | Listed under Earth Entity family (id=135021000)
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | Enemy Family                    | Notes                                                                   |
+        |---------------------------------|-------------------------------------------------------------------------|
+        | Pixie                           | Base, Earth, Fire, Air, Light, Dark, Water + Capricious variants        |
+        | Entity                          | Air, Fire, Earth, Light, Dark, Ice, Water                               |
+        | Flying Sword                    | Base + Air variant                                                      |
+        | Dragon Fly                      | Dragon Fly, Desert Fly, Flame Fly, Air Dragon Fly                       |
+        | Hawk                            | Forest, Volcano, Snow, Big Snow                                         |
+        | Giant Monster Bird              | Includes Lightning-Clad variant                                         |
+        | The Lurking Flutter Hunting-Fey &emsp; &emsp; | Bounty enemy                                                            |
+        | Millennial Lord                 | Variant of Earth Entity                                                 |
+        
+        </div>
 
+=== "<span style="color: cyan">Savia A</span> - Counter-Offensive" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |           | Stack 1 &emsp; | Stack 2 &emsp; | Stack 3 &emsp; | Stack 4 &emsp; | Stack 5 &emsp;  |
+    |-----------|---------|---------|---------|---------|----------|
+    | Attack &emsp; &emsp;    |  +20    | +21     | +22     | +23     | +25      |
+    | Surety &emsp; &emsp;    |  +10    | +11     | +12     | +13     | +15      |
+    
+    </div>
+    
+    - Activates after evading an enemy attack.
+    - The stacks are not additive. Each subsequent evade overwrites the previous values. Consequently, the maximum stat increases at 5 stacks are +25 Attack and +15 Surety. 
+
+=== "Yuzunamiki - Foxfire Assault" 
 
 ### Damage Reduction
 
