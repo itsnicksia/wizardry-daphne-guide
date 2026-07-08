@@ -6,18 +6,34 @@
 
 ## Key Mechanics
 
-??? note "Corruption"
-    - Corruption is a central mechanic of this Abyss, with major changes depending on the level of Corruption.
-    - Corruption is increased when your party enters the sight area of a Corruption Sentry.
-    - Corruption cannot be decreased whilst in the Abyss, but can be changed by modifying Causality in the **Cursed Wheel**.
+??? note "Sentries"
+    - There are two types of monsters keeping watch in areas of this Abyss: Combat Sentries and Corrosion Sentries.
+    - All sentries have a sight area in which they can see you. Once you 'see' the Sentry, their sight area will be shown in red on your minimap.
+    - Once a Sentry triggers if you enter their sight area, the effect will depend on the Sentry type.  
+    - Corrosion Sentries are generally fixed in location and sight area. See "Corrosion" below for the effect of getting seen by a Corrosion Sentry.
+    - Combat Sentries cover or moving patrol area and their moving sight area shown on your minimap. You can trigger multiple Combat Sentries at once if their sight areas overlap.
+    - A Combat Sentry will pursue you and attack if they spot you.  Like most monsters, they have a set pursuit range after which they will return to their normal position/path.
+    - <em><b>Combat Sentries are meant to be avoided, not fought.</b> By watching and timing their paths and moving sight areas, it is possible to avoid fighting any Sentries in Abyss 3</em>. 
+    - Avoiding many sentries requires timing and sometimes deliberately triggering and running away from a Sentry so that you can get around it while returning to its normal path. The player can move faster than Sentries whether triggered or untriggered and sometimes you can just run right past them. 
+    - Be careful trying to use 'Auto-move' to pass Sentries, as the game's chosen auto-path can sometimes be unpredictable and take you right into their path. 
+    - Combat Sentries can be a variety of monster types, but will be much more powerful than the same type of monster encountered as a normal wandering monster.  See type descriptions with each map below.
+    - As of June 2026, it is possible to attempt to flee from a fight with a Combat Sentry. Reports are that fleeing has a low success rate, and failed attempts do lose a character turn.  
+    - Be aware both fleeing from a Combat Sentry and getting killed by one in battle and Rising Again can result in unexpected dungeon placement for you and the Sentry, who will often still be triggered and pursue you again.
+    - Ranger traps: Most Sentries after Zone 4 are Large creatures, making Bear Traps ineffective in freezing a Combat Sentry.  A Log trap may move and alter the path of a Combat Sentry, which could possibly be a useful tool for navigation past them except reports of effectiveness are mixed (especially with a Triggered Sentry).
+    - Farming Sentries can be a high Experience activity once you're powerful enough to do it. 
 
-    ??? note "Corruption Effects"
-        - **Fortress Appearance:** Slime becomes more prominent with high Corruption.
-        - **Quest Availability:** Some quest-lines become unavailable as essential NPCs are driven insane or die as a result of high Corruption. This affects which endings are available.
-        - **Monsters:** Different monsters spawn, with stronger monsters at lower Corruption. 
-        - **Greater Warped One:** The Greater Warped One is much stronger at lower Corruption, gaining new abilities and increased damage and health.
+??? note "Corrosion"
+    - Corrosion is a central mechanic of this Abyss, with major changes depending on the level of Corrosion.
+    - Corrosion is increased when your party enters the sight area of a Corrosion Sentry.
+    - Corrosion cannot be decreased whilst in the Abyss, but can be changed by modifying Causality in the **Cursed Wheel**.
 
-        ??? note "How to tell corruption level based on the Duke's room:"
+    ??? note "Corrosion Effects"
+        - **Fortress Appearance:** Slime becomes more prominent with high Corrosion.
+        - **Quest Availability:** Some quest-lines become unavailable as essential NPCs are driven insane or die as a result of high Corrosion. This affects which endings are available.
+        - **Monsters:** Different monsters spawn, with stronger monsters at lower Corrosion. 
+        - **Greater Warped One:** The Greater Warped One is much stronger at lower Corrosion, gaining new abilities and increased damage and health.
+
+        ??? note "How to tell Corrosion level based on the Duke's room:"
     
             ![](./img/corruption-levels.png)
 
@@ -43,13 +59,13 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
     ??? note "Combat Sentry"
         - Combat Sentries are dangerous enemy spawns that patrol around the map in short fixed routes.
-        - Once spotted, you will be able to see their sight area highlighted in orange on the map.
-        - Entering their sight area will cause the sentry to chase your party, however their movement is much slower than regular enemies.
-        - These encounters can be challenging for the unprepared party, featuring new enemies such as the Cyclops, and more powerful versions of regular enemies with increased health and damage.
+        - Once you see them, you will be able to see their sight area highlighted in orange on the map.
+        - Entering their sight area will cause the Sentry to chase your party, however their movement is much slower than regular enemies.
+        - These encounters can be challenging for the unprepared party, as they are more powerful versions of regular enemies with increased health and damage.
 
-    ??? note "Corruption Sentry"
-        - Entering the sight area of a Corruption Sentry will trigger a short cutscene and increase Corruption.
-        - See [Corruption](#key-mechanics) for more information about Corruption Sentries.
+    ??? note "Corrosion Sentry"
+        - Entering the sight area of a Corrosion Sentry will trigger a short cutscene and increase Corrosion.
+        - See [Corrosion](#key-mechanics) for more information about Corrosion Sentries.
 
     ??? note "Walkthrough 1st Run"
         1. Fight your way through B1F until you pass a Sentry to reach the **Minor Harken**. 
@@ -88,7 +104,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
             ![](./img/zone-3-path.jpg)
 
     ??? note "Walkthrough 2nd Run and onwards"
-        1. This will be about the same, except the golems can be used to block the Corruption Sentry's line of view. The top golem is optional but the bottom golem is necessary to block the view of the sentry in the way.
+        1. This will be about the same, except the golems can be used to block the Corrosion Sentry's line of view. The top golem is optional but the bottom golem is necessary to block the view of the sentry in the way.
         2. Continue as usual.
 
 ??? map "Zone 3 -Old Secret Passage B3F-"
@@ -103,7 +119,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Race: Undead
         - Abilities: Instant-Death
 
-        This undead horse is a more powerful version of the enemy found in Crucible Mausoleum, carrying a similar array of instant-death skills like "Spear of Doom".
+        This undead horse is a more powerful version of the enemy found in Crucible Mausoleum, carrying a similar array of instant-death skills like "Spear of Doom" as well as Mazelos and multi-ally targeting spear attacks.
 
     ??? note "Walkthrough 1st Run"
         - See Zone 2 Walkthrough 1st Run.
@@ -120,8 +136,9 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
     ??? note "Sentry Types"
         - Combat Sentry: Cyclops + 2-3 Banshees
-        - Combat Sentry: Scorpion Queen + (3 Chimeras or 2 Banshees)
         - Combat Sentry: 2x Minotaurs + 1 Chimera
+        - Combat Sentry: Scorpion Woman + (3 Chimeras or 2 Banshees)
+        - Combat Sentry: Necrocore + 3-6 Poltergeists
 
     ??? note "Walkthrough 1st Run"
         - Upon returning from this floor to town, the slum faction request will become available.
@@ -141,10 +158,10 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
 
     ??? note "Walkthrough 1st Run"
         - There are three paintings on this floor that give key knowledge. The painting at the very end will not be available to view until the second run onwards. 
-        - Alarm traps are introduced on this floor. Generally, they just spawn 1 or 2 hostile enemies nearby, but they can be easily avoided. The very last alarm trap on the floor before the Cross Intersection will spawn a Corruption Sentry that is unavoidable without the Right Hand power of this abyss.
+        - Alarm traps are introduced on this floor. Generally, they just spawn 1 or 2 hostile enemies nearby, but they can be easily avoided. The very last alarm trap on the floor before the Cross Intersection will spawn a Corrosion Sentry that is unavoidable on the 1st Run.
         
     ??? note "Walkthrough 2nd Run and onwards"
-        1. The concept of crushing alarm traps is introduced in this map. You need to crush the alarm trap near the end to prevent it from spawning the Corruption Sentry.
+        1. The concept of crushing alarm traps is introduced in this map. You need to crush the alarm trap near the end to prevent it from spawning the Corrosion Sentry.
         2. Remember to view the painting near the end of the map.
 
         ![](./img/golem-answer-6.jpg)
@@ -166,7 +183,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - A somewhat difficult floor due to being a battle of attrition in saving resources to fight the floor boss. There is no need to enter any one-way doors and it's not necessary to step on any poison tiles on the first run through.
 
     ??? note "Walkthrough 2nd Run and onwards"
-        1. The concept of crushing sentries is introduced on this map. You will need to do so to pass by the Corruption Sentry in the room with 6 Golems in two parallel lines.
+        1. The concept of crushing sentries is introduced on this map. You will need to do so to pass by the Corrosion Sentry in the room with 6 Golems in two parallel lines.
         2. Near the end, you can skip the Doll boss entirely by crushing them with a Golem.
 
         ![](./img/golem-answer-7.jpg)
@@ -230,13 +247,13 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         2. Luckily, you won't need to explore a whole floor each time but rather just small portions of each floor. It is recommended however to carry a lot of consumables before continuing, as the Sentries on this floor are a lot stronger than previous floors.
 
     ??? note "Walkthrough 1st Run (2nd Half from Zone 9 to Zone 8 back to Zone 9)"
-        - You will drop down and the nearby door is blocked by corruption. Ignore this for now and continue onwards. You're forced to pass by a Corruption Sentry in the bottom left of the map.
+        - You will drop down and the nearby door is blocked by corrosion. Ignore this for now and continue onwards. You're forced to pass by a Corrosion Sentry in the bottom left of the map.
 
     ??? note "Walkthrough 2nd Run and onwards (1st Half from Zone 8 to 9)"
         - There is not much difference from the 1st run, you simply walk through as usual. There will be a demonstration of using the Right Hand Reversal mechanic to use Golems to step on buttons near the end of this half.
 
     ??? note "Walkthrough 2nd Run and onwards (2nd Half from Zone 9 to Zone 8 back to Zone 9)"
-        1. When dropping down this time, the room that was previously blocked by corruption is now open. You must go into this room to obtain the request for saving Liam. There is also a rag in this room that triggers a Corruption Sentry if obtained, but is necessary for saving Liam unharmed. You can Cursed Wheel away the corruption stack from this encounter.          2. In addition, you can use the Right Hand Reversal mechanic to bypass the Corruption Sentry in the bottom left of the map.
+        1. When dropping down this time, the room that was previously blocked by corrosion is now open. You must go into this room to obtain the request for saving Liam. There is also a rag in this room that triggers a Corrosion Sentry if obtained, but is necessary for saving Liam unharmed. You can Cursed Wheel away the corrosion stack from this encounter.          2. In addition, you can use the Right Hand Reversal mechanic to bypass the Corrosion Sentry in the bottom left of the map.
 
         ![](./img/golem-answer-8.jpg)
 
@@ -249,20 +266,20 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Combat Sentry: 1 Greater Demon + 1 Minotaur'
 
     ??? note "Walkthrough 1st Run (1st Half from Zone 9 to Zone 10)"
-        - There may be a room that will lock behind you on this floor. There is a rotating sentry and corruption sentry inside. You will need to get seen by the corruption sentry to access the door with the switch that opens the door out of this room. Otherwise it will be straightforward.
+        - There may be a room that will lock behind you on this floor. There is a rotating sentry and Corrosion Sentry inside. You will need to get seen by the Corrosion Sentry to access the door with the switch that opens the door out of this room. Otherwise it will be straightforward.
 
     ??? note "Walkthrough 1st Run (2nd Half from Zone 8 to Zone 10)"
         - Similar to the 1st Half depending on map generation.
 
     ??? note "Walkthrough 2nd Run and onwards (Both Halves)"
-        - The trap room that previously locked you in with a corruption sentry can be solved now. This room may show up on either half of this floor.
+        - The trap room that previously locked you in with a Corrosion Sentry can be solved now. This room may show up on either half of this floor.
 
         ![](./img/golem-answer-9.jpg)
 
 ??? map "Zone 10 -Fortress 3F Lord's Room-"
     ![](./img/zone-10-complete.jpg)
     
-    If your corruption level is not too high, you will find the Duke's party on this floor.
+    If your Corrosion level is not too high, you will find the Duke's party on this floor.
 
     ??? note "Enemies"
         - Combat Sentry: Cyclops + (2 Succubus + 1 Vampire or 1 Minotaur + 1 Succubus)
@@ -270,16 +287,16 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         - Combat Sentry: 1 Greater Demon + 1 Minotaur
 
     ??? note "Walkthrough 1st Run (1st Half Zone 9 to Zone 10 to Zone 9)"
-        - It's a relatively chill walk to the top middle room. You are forced to trigger a Corruption Sentry while passing by. Upon reaching the top middle room, you'll need to drop down via a hole on the bottom left of the room. This drop you into the sight of the Corruption Sentry, but right outside of the Zone 9 Harken.
+        - It's a relatively chill walk to the top middle room. You are forced to trigger a Corrosion Sentry while passing by. Upon reaching the top middle room, you'll need to drop down via a hole on the bottom left of the room. This drop you into the sight of the Corrosion Sentry, but right outside of the Zone 9 Harken.
 
     ??? note "Walkthrough 1st Run (2nd Half Straight to the Duke)"
         - There is a fountain to heal up at before heading to the final room. There are a lot of sentry patrols on this floor, but they can all be avoided by carefully tailing behind them. The statue rooms are not relevant on the 1st run but can be used to hide from the sentries if you get seen. After arriving at the final room, you can begin the GWO fight by interacting with the lever further down from the room.
 
     ??? note "Walkthrough 2nd Run and onwards (1st Half Zone 9 to Zone 10 to Zone 9)"
-        1. The Corruption Sentry in this path can be avoided now. You will need to do the puzzle that is initiated by pushing the golem in the room nearby through the wall. There will be a skeleton on the floor that needs to be interacted with, which will then spawn a doll and map on the floor nearby. The map will mark 3 locations on the previous two floors that you will need to backtrack to in order to pick up wind-up keys for the doll automaton. The 3 locations will always be the same regardless of map configuration. After obtaining 3 wind-up keys, return to the doll in the Zone 10 room and interact with it. Afterwards, walk to the tile right outside of the Corruption Sentry's sight.
+        1. The Corrosion Sentry in this path can be avoided now. You will need to do the puzzle that is initiated by pushing the golem in the room nearby through the wall. There will be a skeleton on the floor that needs to be interacted with, which will then spawn a doll and map on the floor nearby. The map will mark 3 locations on the previous two floors that you will need to backtrack to in order to pick up wind-up keys for the doll automaton. The 3 locations will always be the same regardless of map configuration. After obtaining 3 wind-up keys, return to the doll in the Zone 10 room and interact with it. Afterwards, walk to the tile right outside of the Corrosion Sentry's sight.
             - Zone 9: X:7, Y:12
             - Zone 8: X:4, Y:9 | X:7, Y:19
-        2. In the room before dropping down to the Corruption Sentry, you can open a different hole with a Golem so you don't get seen. 
+        2. In the room before dropping down to the Corrosion Sentry, you can open a different hole with a Golem so you don't get seen. 
 
             ![](./img/golem-answer-10-2.jpg)
 

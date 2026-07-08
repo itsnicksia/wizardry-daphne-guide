@@ -1,10 +1,15 @@
 # The Beginning Abyss - Important Request and Greater Warped One
 
+!!! note "Overview"  
+    - This page walks you through successfully completing the Beginning Abyss by finishing the primary Request ("Save the King"), not just killing the Abyss's final boss.  
+    - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
+    - Reward:  After saving the king, you receive a Royal Herald Amulet (Steel, 1* white Accessory, regular Steel Ring DEF, fixed +1 to every other Stat except SUREVA)  
+
 ## Saving the King And Not Losing Your Head
 
 ### Fresh Start
 
-??? note "1. Complete the Sweet Walnut Delivery request before getting to the first minor harken so you can send Elmon away."
+??? note "1. Complete the Sweet Walnut Delivery request before getting to the first minor harken, and ask for a favor so you can send Elmon away."
     --8<-- "abyss-guides/1-beginning-abyss/requests.md:sweet-walnut-delivery"
 
 ??? note "2. Complete the Light Shield Material Collection request so you can give the shields to the Defenders."

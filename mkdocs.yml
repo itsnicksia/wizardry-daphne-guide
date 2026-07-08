@@ -86,3 +86,7 @@ extra_javascript:
 
 watch:
   - main.py
+
+validation:
+  links:
+    absolute_links: relative_to_docs

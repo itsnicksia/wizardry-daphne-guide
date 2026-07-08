@@ -58,22 +58,25 @@
 
     | Equipment Rank &emsp;  &emsp;             |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
     |:------------|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:| 
-    |   Worn      |  150 |  300 |   500 |   750 | 1,050 | 1,400 | 1,950 |  2,550 |  3,200 |  3,900 |  4,650 |  5,700 |  6,800 |  7,950 |  9,150 | 10,400 | 12,050 | 13,750 | 17,150  | 23,950  | 127,300 |
-    |  Bronze     |  200 |  350 |   550 |   800 | 1,100 | 1,450 | 2,000 |  2,700 |  3,550 |  4,550 |  5,700 |  7,250 |  8,950 | 10,800 | 12,800 | 14,950 | 17,700 | 20,650 | 26,550  | 38,350  | 180,950 |
-    |   Iron      |  350 |  500 |   750 | 1,100 | 1,550 | 2,100 | 2,850 |  3,750 |  4,800 |  6,050 |  7,500 |  9,350 | 11,500 | 13,950 | 16,700 | 19,750 | 23,400 | 27,350 | 39,200  | 76,200  | 268,700 |
-    |   Steel     |  500 |  700 | 1,100 | 1,700 | 2,500 | 3,500 | 4,900 |  6,650 |  8,750 | 11,200 | 14,000 | 17,400 | 21,250 | 25,550 | 30,300 | 35,550 | 41,500 | 48,050 | 6,7700  | 126,650 | 469,450 |
-    | Ebonsteel   |  550 |  770 | 1,210 | 1,870 | 2,750 | 3,850 | 5,390 |  7,315 |  9,625 | 12,320 | 15,400 | 19,140 | 23,375 | 28,105 | 33,330 | 39,050 | 45,650 | 52,855 | 74,470  | 139,315 | 516,340 |
-    |  Special    |  650 |  900 | 1,500 | 2,450 | 3,750 | 5,400 | 7,650 | 10,500 | 13,950 | 18,000 | 22,650 | 28,100 | 34,750 | 42,600 | 51,650 | 61,900 | 74,150 | 87,800 | 128,750 | 251,600 | 848,700 |
-
+    | Worn        |  150 |  300 | 500   | 750   | 1,050 | 1,400 | 1,950 | 2,550  | 3,200  | 3,900  | 4,650  | 5,700  | 6,800  | 7,950  | 9,150  | 10,400 | 12,050 | 13,750 | 17,150  | 23,950  | 127,300 |
+    | Bronze      |  200 |  350 | 550   | 800   | 1,100 | 1,450 | 2,000 | 2,700  | 3,550  | 4,550  | 5,700  | 7,250  | 8,950  | 10,800 | 12,800 | 14,950 | 17,700 | 20,650 | 26,550  | 38,350  | 180,950 |
+    | Iron        |  350 |  500 | 750   | 1,100 | 1,550 | 2,100 | 2,850 | 3,750  | 4,800  | 6,050  | 7,500  | 9,350  | 11,500 | 13,950 | 16,700 | 19,750 | 23,400 | 27,350 | 39,200  | 76,200  | 268,700 |
+    | Steel       |  500 |  700 | 1,100 | 1,700 | 2,500 | 3,500 | 4,900 | 6,650  | 8,750  | 11,200 | 14,000 | 17,400 | 21,250 | 25,550 | 30,300 | 35,500 | 41,500 | 48,050 | 67,700  | 126,650 | 469,400 |
+    | Ebonsteel   |  550 |  770 | 1,210 | 1,870 | 2,750 | 3,850 | 5,390 | 7,315  | 9,625  | 12,320 | 15,400 | 19,140 | 23,375 | 28,105 | 33,330 | 39,050 | 45,650 | 52,855 | 74,470  | 139,315 | 516,340 |
+    | Special<sup>\*</sup>     |  650 |  900 | 1,500 | 2,450 | 3,750 | 5,400 | 7,650 | 10,500 | 13,950 | 18,000 | 22,650 | 28,100 | 34,750 | 42,600 | 51,650 | 61,900 | 74,150 | 87,800 | 128,750 | 251,600 | 848,700 |
+    
 === "Silver Rank Equipment"
 
     | Type &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;                         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
-    |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
-    | Armor, 1H Weapons, 2H Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
-    | 2H Weapons                  | 640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
-    | Special                     |	720|	990|	1,650|	2,700|	4,130|	5,940|	8,420|	11,550|	15,941|	19,800|	24,920|	30,910|	38,230|	46,860|	56,820	|	?	|	?	|	?	|	?	|	?	|	?	|
+    |:-----------------------------|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:|:-------:|:-------:|:---------:| 
+    | Armor, 1H Weapon, 1/2H Staff | 610 | 850 | 1,340 | 2,060 | 3,030 | 4,240 | 5,930 | 8,050  | 10,590 | 13,560 | 16,940 | 21,060 | 25,720 | 30,920 | 36,670 | 44,910  | 52,500  | 60,790  | 85,650  | 160,220 | 585,640   |
+    | 2H Weapons                   | 640 | 940 | 1,560 | 2,500 | 3,830 | 5,330 | 7,600 | 10,500 | 14,080 | 18,360 | 27,400 | 36,120 | 46,670 | 59,210 | 73,930 | 112,590 | 142,280 | 177,160 | 254,790 | 468,610 | 1,464,100 |
+    | Special<sup>\*</sup> | 720 | 990 | 1,650 | 2,700 | 4,130 | 5,940 | 8,420 | 11,550 | 15,350 | 19,800 | 24,920 | 30,910 | 38,230 | 46,860 | 56,820 | 71,190  | 85,280  | 100,970 | 148,070 | 289,340 | 963,840   |
+    | Special 2H Weapons<sup>\*</sup> | 750|	1,100|	1,920|	3,260|	5,200|	7,450	|10,770	|15,040	|20,370|	26,770	|40,090	|52,820	|69,040	|89,140	|113,570	|175,450|	226,690	|288,190|	430,720	|831,260	|2,409,600|  
+</div>  
 
-</div>
+<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. Not all banner weapons and armor sort exactly by those descriptions. The 1st level enhancement cost will confirm for you what tier it falls into.
+
 
 ### ^^Ore Cost^^
 
@@ -349,12 +352,189 @@ It is highly suggested that a FAS should be saved and used on your highest rarit
 
 !!! warning "ABYSS 4 WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
 
-The release of Abyss 4 and Silver Tier equipment includes a new method of improving equipment called **Composite Reinforcement**.  To over-simplify, it enhances primary equipment stats (ATK for weapons, DEF for armor) to approach that  of higher material/rank equipment by sacrificing other higher rank items (or special, very expensive, silver ingots for guaranteed success).  The cost is very high and chance of success gets very low. We will try to provide more detail in time but for now in summary:
+Abyss 4 and Silver Tier equipment introduced a new method of improving lower rank equipment called **Composite Reinforcement**.  To over-simplify, it lets you attempt to improve primary equipment stats stats (ATK/MAG/DIV for weapons, DEF/MDEF for armor) to that of the next material/rank equipment.  You do this by paying a fairly steep price and sacrificing other items of the target rank (you can also use special, very expensive, Silver Ingots for guaranteed success).  The cost is very high and chance of success gets very low. More details below but in summary:
 
-*just don't. they tried. it's not worth it. Just go get actual silver equipment. There's enough out there.*
+*Just don't. They tried. It's almost never worth it. Just go get actual silver equipment. There's enough out there. This goes double for armor.*
 
-This goes doubly so for armor.  Since DEF is severely undervalued by the game mechanics, and that's about all reinforcement improves for armor, there's practically zero value to reinforcing armor. Very arguably because ATK is increased for weapons it may be worth reinfocing particualry rare, high impact (gacha) weapons.
+Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's practically zero value to reinforcing armor. Because ATK, the primary stat of value, is increased for weapons it may be worth reinfocing particualry rare, very high impact Banner (Gacha) weapons.
 
-Credits to samuraidoc on Discord for experimenting with FAS + Guide writeup.
+### Mechanics and Example:   
+*pending*
+
+### Cost
+
+<div class="nofilter-table nosort-table narrow-table" markdown>
+    
+=== "Weapons"
+    | Level Target \\ Rank Target | Bronze | Iron    | Steel   | Ebon    | Silver 1H | Silver 2H | Silver Banner 1H | Silver Banner 2H |
+    | :---------------------------: | :------: | :-------: | :-------: | :-------: | :---------: | :---------: | :----------------: | :----------------: |
+    | 1                           | 30,200 | 44,800  | 78,300  | 51,700  | 58,600    | 146,500   | 72,300           | 180,800          |
+    | 2                           | 33,200 | 49,300  | 86,100  | 54,300  | 61,500    | 153,800   | 77,200           | 192,800          |
+    | 3                           | 36,200 | 53,800  | 93,900  | 56,800  | 64,500    | 161,100   | 82,000           | 204,900          |
+    | 4                           | 42,300 | 62,700  | 109,600 | 62,000  | 70,300    | 175,700   | 86,800           | 216,900          |
+    | 5                           | 75,400 | 112,000 | 195,600 | 67,200  | 76,200    | 190,400   | 96,400           | 241,000          |
+    | 6                           | 90,500 | 134,400 | 234,700 | 72,300  | 82,000    | 205,000   | 120,500          | 301,200          |
+    | 7                           | \--    | \--     | \--     | 77,500  | 87,900    | 219,700   | 144,600          | 361,500          |
+    | 8                           | \--    | \--     | \--     | 103,300 | 117,200   | 292,900   | 192,800          | 482,000          |
+    | 9                           | \--    | \--     | \--     | 129,100 | 146,500   | 366,100   | 241,000          | 602,400          |
+    | 10                          | \--    | \--     | \--     | 155,000 | 175,700   | 439,300   | 289,200          | 722,900          |
+
+=== "Armor"
+    | Level Target \\ Rank Target | Bronze | Iron   | Steel  | Ebon   | Silver | Gacha  |
+    | :---------------------------: | :------: | :------: | :------: | :------: | :------: | :------: |
+    | 1                           | 60400  | 89600  | 156500 | 51700  | 58600  | 77200  |
+    | 2                           | 78500  | 116500 | 203500 | 56800  | 64500  | 82000  |
+    | 3                           | 150800 | 224000 | 391200 | 62000  | 70300  | 86800  |
+    | 4                           | \--    | \--    | \--    | 67200  | 76200  | 96400  |
+    | 5                           | \--    | \--    | \--    | 77500  | 87900  | 192800 |
+    | 6                           | \--    | \--    | \--    | 129100 | 146500 | 241000 |
+    | 7                           | \--    | \--    | \--    | 155000 | 175700 | 289200 |
+
+</div>
+
+<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. 
+
+### Percent Success Rate
+
+<div class="nofilter-table nosort-table narrow-table" markdown>
+    
+=== "Weapons"
+
+    === "Star Mismatch = 0"
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
+        |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
+        | 1                          | 100    | 100  | 100   | 100  | 100       | 100       | 80               | 80               |
+        | 2                          | 80     | 80   | 80    | 90   | 90        | 90        | 70               | 70               |
+        | 3                          | 70     | 70   | 70    | 80   | 80        | 80        | 60               | 60               |
+        | 4                          | 35     | 35   | 35    | 70   | 70        | 70        | 50               | 50               |
+        | 5                          | 22     | 22   | 22    | 40   | 40        | 40        | 30               | 30               |
+        | 6                          | 20     | 20   | 20    | 35   | 35        | 35        | 25               | 25               |
+        | 7                          | --     | --   | --    | 30   | 30        | 30        | 20               | 20               |
+        | 8                          | --     | --   | --    | 25   | 25        | 25        | 15               | 15               |
+        | 9                          | --     | --   | --    | 22   | 22        | 22        | 10               | 10               |
+        | 10                         | --     | --   | --    | 20   | 20        | 20        | 5                | 5                |
+    
+    === "Star Mismatch = 1"
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
+        |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
+        | 1                          | 50     | 50   | 50    | 50   | 50        | 50        | 40               | 40               |
+        | 2                          | 40     | 40   | 40    | 45   | 45        | 45        | 35               | 35               |
+        | 3                          | 35     | 35   | 35    | 40   | 40        | 40        | 30               | 30               |
+        | 4                          | 17.5   | 17.5 | 17.5  | 35   | 35        | 35        | 25               | 25               |
+        | 5                          | 11     | 11   | 11    | 20   | 20        | 20        | 15               | 15               |
+        | 6                          | 10     | 10   | 10    | 17.5 | 17.5      | 17.5      | 12.5             | 12.5             |
+        | 7                          | --     | --   | --    | 15   | 15        | 15        | 10               | 10               |
+        | 8                          | --     | --   | --    | 12.5 | 12.5      | 12.5      | 7.5              | 7.5              |
+        | 9                          | --     | --   | --    | 11   | 11        | 11        | 5                | 5                |
+        | 10                         | --     | --   | --    | 10   | 10        | 10        | 2.5              | 2.5              |
+    
+    === "Star Mismatch = 2"
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
+        |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
+        | 1                          | 30     | 30   | 30    | 30   | 30        | 30        | 24               | 24               |
+        | 2                          | 24     | 24   | 24    | 27   | 27        | 27        | 21               | 21               |
+        | 3                          | 21     | 21   | 21    | 24   | 24        | 24        | 18               | 18               |
+        | 4                          | 10.5   | 10.5 | 10.5  | 21   | 21        | 21        | 15               | 15               |
+        | 5                          | 6.6    | 6.6  | 6.6   | 12   | 12        | 12        | 9                | 9                |
+        | 6                          | 6      | 6    | 6     | 10.5 | 10.5      | 10.5      | 7.5              | 7.5              |
+        | 7                          | --     | --   | --    | 9    | 9         | 9         | 6                | 6                |
+        | 8                          | --     | --   | --    | 7.5  | 7.5       | 7.5       | 4.5              | 4.5              |
+        | 9                          | --     | --   | --    | 6.6  | 6.6       | 6.6       | 3                | 3                |
+        | 10                         | --     | --   | --    | 6    | 6         | 6         | 1.5              | 1.5              |
+            
+    === "Star Mismatch = 3"
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
+        |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
+        | 1                          | 15     | 15   | 15    | 15   | 15        | 15        | 12               | 12               |
+        | 2                          | 12     | 12   | 12    | 13.5 | 13.5      | 13.5      | 10.5             | 10.5             |
+        | 3                          | 10.5   | 10.5 | 10.5  | 12   | 12        | 12        | 9                | 9                |
+        | 4                          | 5.25   | 5.25 | 5.25  | 10.5 | 10.5      | 10.5      | 7.5              | 7.5              |
+        | 5                          | 3.3    | 3.3  | 3.3   | 6    | 6         | 6         | 4.5              | 4.5              |
+        | 6                          | 3      | 3    | 3     | 5.25 | 5.25      | 5.25      | 3.75             | 3.75             |
+        | 7                          | --     | --   | --    | 4.5  | 4.5       | 4.5       | 3                | 3                |
+        | 8                          | --     | --   | --    | 3.75 | 3.75      | 3.75      | 2.25             | 2.25             |
+        | 9                          | --     | --   | --    | 3.3  | 3.3       | 3.3       | 1.5              | 1.5              |
+        | 10                         | --     | --   | --    | 3    | 3         | 3         | 0.75             | 0.75             |
+        
+    === "Star Mismatch = 4"
+        | Level Target \ Rank Target | Bronze | Iron | Steel | Ebon | Silver 1H | Silver 2H | Silver Special<sup>\*</sup> 1H | Silver Special<sup>\*</sup> 2H |
+        |:--------------------------:|:------:|:----:|:-----:|:----:|:---------:|:---------:|:----------------:|:----------------:|
+        | 1                          | 5      | 5    | 5     | 5    | 5         | 5         | 4                | 4                |
+        | 2                          | 4      | 4    | 4     | 4.5  | 4.5       | 4.5       | 3.5              | 3.5              |
+        | 3                          | 3.5    | 3.5  | 3.5   | 4    | 4         | 4         | 3                | 3                |
+        | 4                          | 1.75   | 1.75 | 1.75  | 3.5  | 3.5       | 3.5       | 2.5              | 2.5              |
+        | 5                          | 1.1    | 1.1  | 1.1   | 2    | 2         | 2         | 1.5              | 1.5              |
+        | 6                          | 1      | 1    | 1     | 1.75 | 1.75      | 1.75      | 1.25             | 1.25             |
+        | 7                          | --     | --   | --    | 1.5  | 1.5       | 1.5       | 1                | 1                |
+        | 8                          | --     | --   | --    | 1.25 | 1.25      | 1.25      | 0.75             | 0.75             |
+        | 9                          | --     | --   | --    | 1.1  | 1.1       | 1.1       | 0.5              | 0.5              |
+        | 10                         | --     | --   | --    | 1    | 1         | 1         | 0.25             | 0.25             |
+
+   
+=== "Armor"
+
+    === "Star Mismatch = 0"
+        | Level Target \\ Rank Target | Bronze | Iron | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
+        |:---------------------------:|:------:|:----:|:-----:|:----:|:------:|:------:|
+        | 1                           | 100    | 100  | 100   | 100  | 100    | 80     |
+        | 2                           | 50     | 50   | 50    | 80   | 80     | 70     |
+        | 3                           | 35     | 35   | 35    | 70   | 70     | 60     |
+        | 4                           | \-\-   | \-\- | \-\-  | 40   | 40     | 40     |
+        | 5                           | \-\-   | \-\- | \-\-  | 30   | 30     | 25     |
+        | 6                           | \-\-   | \-\- | \-\-  | 22   | 22     | 10     |
+        | 7                           | \-\-   | \-\- | \-\-  | 20   | 20     | 5      |
+    
+    === "Star Mismatch = 1"
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
+        |:---------------------------:|:------:|:-----:|:-----:|:----:|:------:|:------:|
+        | 1                           | 50     | 50    | 50    | 50   | 50     | 40     |
+        | 2                           | 25     | 25    | 25    | 40   | 40     | 35     |
+        | 3                           | 17\.5  | 17\.5 | 17\.5 | 35   | 35     | 30     |
+        | 4                           | \-\-   | \-\-  | \-\-  | 20   | 20     | 20     |
+        | 5                           | \-\-   | \-\-  | \-\-  | 15   | 15     | 12\.5  |
+        | 6                           | \-\-   | \-\-  | \-\-  | 11   | 11     | 5      |
+        | 7                           | \-\-   | \-\-  | \-\-  | 10   | 10     | 2\.5   |
+    
+    === "Star Mismatch = 2"
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
+        |:---------------------------:|:------:|:-----:|:-----:|:----:|:------:|:------:|
+        | 1                           | 30     | 30    | 30    | 30   | 30     | 24     |
+        | 2                           | 15     | 15    | 15    | 24   | 24     | 21     |
+        | 3                           | 10\.5  | 10\.5 | 10\.5 | 21   | 21     | 18     |
+        | 4                           | \-\-   | \-\-  | \-\-  | 12   | 12     | 12     |
+        | 5                           | \-\-   | \-\-  | \-\-  | 9    | 9      | 7\.5   |
+        | 6                           | \-\-   | \-\-  | \-\-  | 6\.6 | 6\.6   | 3      |
+        | 7                           | \-\-   | \-\-  | \-\-  | 6    | 6      | 1\.5   |
+    
+    === "Star Mismatch = 3"
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon  | Silver | Silver Special<sup>\*</sup> |
+        |:---------------------------:|:------:|:-----:|:-----:|:-----:|:------:|:------:|
+        | 1                           | 15     | 15    | 15    | 15    | 15     | 12     |
+        | 2                           | 7\.5   | 7\.5  | 7\.5  | 12    | 12     | 10\.5  |
+        | 3                           | 5\.25  | 5\.25 | 5\.25 | 10\.5 | 10\.5  | 9      |
+        | 4                           | \-\-   | \-\-  | \-\-  | 6     | 6      | 6      |
+        | 5                           | \-\-   | \-\-  | \-\-  | 4\.5  | 4\.5   | 3\.75  |
+        | 6                           | \-\-   | \-\-  | \-\-  | 3\.3  | 3\.3   | 1\.5   |
+        | 7                           | \-\-   | \-\-  | \-\-  | 3     | 3      | 0\.75  |
+    
+    === "Star Mismatch = 4"
+        | Level Target \\ Rank Target | Bronze | Iron  | Steel | Ebon | Silver | Silver Special<sup>\*</sup> |
+        |:---------------------------:|:------:|:-----:|:-----:|:----:|:------:|:------:|
+        | 1                           | 5      | 5     | 5     | 5    | 5      | 4      |
+        | 2                           | 2\.5   | 2\.5  | 2\.5  | 4    | 4      | 3\.5   |
+        | 3                           | 1\.75  | 1\.75 | 1\.75 | 3\.5 | 3\.5   | 3      |
+        | 4                           | \-\-   | \-\-  | \-\-  | 2    | 2      | 2      |
+        | 5                           | \-\-   | \-\-  | \-\-  | 1\.5 | 1\.5   | 1\.25  |
+        | 6                           | \-\-   | \-\-  | \-\-  | 1\.1 | 1\.1   | 0\.5   |
+        | 7                           | \-\-   | \-\-  | \-\-  | 1    | 1      | 0\.25  |
+
+
+</div>
+
+<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. 
+
+#### Credits
+
+Thanks to Discord users samuraidoc for experimenting with FAS + Guide writeup and L'Montes for lots of very expensive trial and error to generate data for Composite Reinforcement.
 
 

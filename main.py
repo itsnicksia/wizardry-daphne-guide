@@ -50,7 +50,7 @@ def define_env(env):
         results = pd_read_csv(f'./data/{file}')
         if filter_column != None and filter_values:
             results = results.query(f'`{filter_column}` in {filter_values}')
-        results = results.infer_objects(copy=False).fillna('')
+        results = results.infer_objects().fillna('')
 
         # Only linkify names if file is adventurers.csv and required fields exist
         if file == 'adventurers.csv' and 'Name' in return_columns and 'Rarity' in results.columns:
@@ -155,7 +155,6 @@ def define_env(env):
 
         # blank any empty cells
         eqdata.fillna('', inplace = True) 
-        
 
         return eqdata
 
@@ -166,9 +165,14 @@ def define_env(env):
         return df
 
     @env.filter
-    def linkify_quicklist_skillnames(df):
+    def linkify_quicklist_skillnames(df, srcloc):
+        if len(srcloc)>28 and srcloc[0:29] == "appendices/skills-and-spells/":
+            sklpath = '(skills-and-spells.md#'
+        else:
+            sklpath = '(/appendices/skills-and-spells/skills-and-spells.md#'
+
         df['Name'] = '[' + df['Name'].astype(str) + ']'\
-                     + '(./skills-and-spells.md#' \
+                     + sklpath \
                      + df['Name'].str.replace(' ', '') + ')'
         return df
 
@@ -177,7 +181,86 @@ def define_env(env):
         df = df.sort_values(by=sortcol, key=lambda col: pd.to_numeric(col, errors='coerce'))
         return df
 
+    @env.filter
+    def complete_unique_skills_list(df):
+        allskills = pd_read_csv(f'./data/skills.csv')
+        df = pd.merge(df,allskills[['Name','Type','Restriction']], on="Name", how="left").fillna('')
+        df = df[['Level', 'Name', 'Type', 'Restriction']]
+        return df
 
+    @env.filter
+    def mage_element_trim(df, charclass, element):
+        # parse skill list and trim to ones matching an mage's element
+        # make a list of all spells by type, remove ones that should be
+        # kept by that mage's type, then remove all spells left from the
+        # overall spell list.  Need to add any new element-limited spells
+        # to the list.
+
+        if charclass == 'Mage':
+            elementspells = [
+                ['CONES', 'void'],
+                ['FERU', 'air'],
+                ['ERLIK', 'earth'],
+                ['FOROS', 'light'],
+                ['HALITO', 'fire'],
+                ['MIGAL', 'water'],
+                ['ZELOS', 'dark'],
+                ['MACONES', 'void'],
+                ['MAFERU', 'air'],
+                ['MAERLIK', 'earth'],
+                ['MAFOROS', 'light'],
+                ['MAHALITO', 'fire'],
+                ['MAMIGAL', 'water'],
+                ['MAZELOS', 'dark'],
+                ['LACONES', 'void'],
+                ['LAFERU', 'air'],
+                ['LAERLIK', 'earth'],
+                ['LAFOROS', 'light'],
+                ['LAHALITO', 'fire'],
+                ['LAMIGAL', 'water'],
+                ['LAZELOS', 'dark'],
+                ['Untyped Thaumaturgy', 'void'],
+                ['Air Type Thaumaturgy', 'air'],
+                ['Earth Type Thaumaturgy', 'earth'],
+                ['Light Type Thaumaturgy', 'light'],
+                ['Fire Type Thaumaturgy', 'fire'],
+                ['Water Type Thaumaturgy', 'water'],
+                ['Dark Type Thaumaturgy', 'dark'],
+                ['Untyped Resistance Weakening', 'void'],
+                ['Air Resistance Weakening', 'air'],
+                ['Earth Resistance Weakening', 'earth'],
+                ['Light Resistance Weakening', 'light'],
+                ['Fire Resistance Weakening', 'fire'],
+                ['Water Resistance Weakening', 'water'],
+                ['Dark Resistance Weakening', 'dark']
+                ]
+            elementlist = pd.DataFrame(elementspells, columns = ['Name', 'Type'])
+
+            # remove all type matching spells
+            elementlist = elementlist[elementlist['Type'] != element.lower()]
+
+            # remove single and ma- secondary (strong against) element spells 
+            match element.lower():
+                case 'air': #earth
+                    elementlist = elementlist[~elementlist['Name'].isin(['ERLIK','MAERLIK'])]                    
+                case 'earth': #water
+                    elementlist = elementlist[~elementlist['Name'].isin(['MIGAL','MAMIGAL'])]                    
+                case 'fire': #air
+                    elementlist = elementlist[~elementlist['Name'].isin(['FERU','MAFERU'])]                    
+                case 'water': #fire
+                    elementlist = elementlist[~elementlist['Name'].isin(['HALITO','MAHALITO'])]                    
+                case 'light' | 'dark' | 'void':
+                    # no secondary element, nothing to do 
+                    pass
+                case _:
+                    raise ValueError("Unknown Mage element for spell list adjustment")
+
+            #remove all spells left in elementlist from df
+            df = df[~df['Name'].isin(elementlist['Name'])]                    
+            return df
+
+        else:
+            return df
 
 def on_post_page_macros(env):
     # Prints rendered markdown to debug_output folder in root of project folder

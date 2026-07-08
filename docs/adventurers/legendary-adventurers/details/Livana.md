@@ -60,7 +60,7 @@
 
     One potential use case of inheriting `Moonlit Pool of the White Daemon` to a non-Livana adventurer would be to give it to a back-row adventurer (such as a mage, priest, knight, or thief) using the Staff of Weakness. Since this is a skill and not a spell, it would allow the adventurer to apply the Staff of Weakness debuff from the back row without an accuracy loss. Likely not the best action for a turn in most cases, but could occasionally be useful. With the latest 2h weapon changes, this becomes a substantial damage dealer even when inherited, and is widely considered a Priest's best source of single target damage.
 
-    Also with the release of her second class as a Knight, she's arguably one of the best Legendary Knights in the game. On encounters such as 0 Corruption, superbosses, and sentries, it's practically impossible for Knight Livana to have a dead turn. Moonlit Pool allows her to deal full damage with her signature skill from the back row on turns when using Knight's Defense or Cover skills are not needed, which is a massive boon over many other Knights.
+    Also with the release of her second class as a Knight, she's arguably one of the best Legendary Knights in the game. On encounters such as 0 Corrosion, superbosses, and sentries, it's practically impossible for Knight Livana to have a dead turn. Moonlit Pool allows her to deal full damage with her signature skill from the back row on turns when using Knight's Defense or Cover skills are not needed, which is a massive boon over many other Knights.
 
 ??? info "Frobro's Analysis"
 

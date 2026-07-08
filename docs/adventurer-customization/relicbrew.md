@@ -390,7 +390,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Gleambright                      | 4076              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Cursefruit                   | 4077              |
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Rootcrystal           | 4078              |
-| Laughing Bird's Divine Songcall            | Divine Up, Magic Up, Crit Tol down   | ?           | Laughing Bird          | Laughing Bird Cursefruit                | 4079              |
+| Laughing Bird's Divine Songcall            | Divine Up, Magic Up, Crit Tol down   | Good        | Laughing Bird          | Laughing Bird Cursefruit                | 4079              |
 | Composite Beast's Mighty Arm               | Attack Up, Water Res Down            | Good        | Chimera                | Composite Beast Bloodwood               | 4080              |
 | Stonebreath Bull's Hardened Horns          | Def Up, MP Down                      | Evil        | Gorgon                 | Stonebreath Bull Rootcrystal            | 4081              |
 | Wind-Cutting Fowl's Wingfeathers           | Crit Tol Up, Evade Trap Down         | Good        | Hawk                   | Wind-Cutting Bird Spiritcoral           | 4082              |
@@ -435,3 +435,12 @@ Note: The stat that is negatively impacted is usually -1 per level (max of -6 at
 
 <small><sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6. The matching alignment bonus level is +1 SUR.<br> 
 <sup>††</sup> These are rough estimates. Could range from 0.5-1% per level.</small> 
+
+## Farming Locations
+
+- See the [List of Relic Power Effects](#list-of-relic-power-effects) for which monster drops each relic, and [How to Obtain Relics](#how-to-obtain-relics) for the mechanics behind when a monster can drop one.
+- The document below has a summary of relic farming locations **updated to Abyss 3** courtesy of BeautifulDemise.
+- To view the document in a new tab click [here](https://docs.google.com/document/d/e/2PACX-1vSCQD8aLcDjKdQ2NbvgWx8_spmZP5XW7g3HoFHKZLAXiF9bjwxojl_VUX7Uk4_c-bVkadrNGy-PZxWb/pub){target="_blank" rel="noopener"}.
+
+??? note "Relic Farming List"
+    <iframe style="width: 100%; height: 40rem;" src="https://docs.google.com/document/d/e/2PACX-1vSCQD8aLcDjKdQ2NbvgWx8_spmZP5XW7g3HoFHKZLAXiF9bjwxojl_VUX7Uk4_c-bVkadrNGy-PZxWb/pub?embedded=true" loading="lazy"></iframe>

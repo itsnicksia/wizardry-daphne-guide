@@ -230,7 +230,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 110,2H_Axe!A110,2H_Axe,218,Beast Crusher,Silver,1,,,132,0,0,0,0,-8,6,0,-6,0,165,0,0,0,0,-8,6,0,-6,0,191,0,0,0,0,-8,6,0,-6,0,214,0,0,0,0,-8,6,0,-6,0,231,0,0,0,0,-8,6,0,-6,0,"Defense Penetration, Strength-Based +, Magical Beast-Slayer"
 116,2H_Axe!A116,2H_Axe,216,Earthrend Two-Handed Axe,Silver,1,,,132,0,0,0,0,-8,6,0,-6,0,165,0,0,0,0,-8,6,0,-6,0,191,0,0,0,0,-8,6,0,-6,0,214,0,0,0,0,-8,6,0,-6,0,231,0,0,0,0,-8,6,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
 122,2H_Axe!A122,2H_Axe,217,Seafoam Two-Handed Axe,Silver,1,,,132,0,0,0,0,-8,6,0,-6,0,165,0,0,0,0,-8,6,0,-6,0,191,0,0,0,0,-8,6,0,-6,0,214,0,0,0,0,-8,6,0,-6,0,231,0,0,0,0,-8,6,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
-128,2H_Axe!A128,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,2H_Axe!A128,2H_Axe,Ex.,Greataxe of the Azure Moon,Silver,1,,,150,0,0,0,0,-8,-15,0,-12,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Defense Penetration, Strength-Based +, Clean Hit"
 134,2H_Axe!A134,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Axe!A140,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Axe!A146,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -604,7 +604,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 20,Ninjato!A20,Ninjato,110,Covert Blade,Ebonsteel,1,,1875,130,0,0,-1,-1,2,0,5,5,0,161,0,0,-1,-1,2,0,7,7,0,192,0,0,-1,-1,2,0,8,8,0,223,0,0,-1,-1,2,0,9,9,0,255,0,0,-1,-1,2,0,10,10,0,Evade Increase
 26,Ninjato!A26,Ninjato,199,Shrouded Blade,Silver,1,,,156,0,0,0,-1,2,20,6,20,0,194,0,0,0,-1,2,20,7,21,0,231,0,0,0,-1,2,20,8,22,0,268,0,0,0,-1,2,20,9,23,0,306,0,0,0,-1,2,20,10,24,0,Evade Increase
 32,Ninjato!A32,Ninjato,200,Beclouded Blade,Silver,1,,,172,0,0,-20,-1,2,20,12,20,-15,210,0,0,-20,-1,2,20,14,21,-15,247,0,0,-20,-1,2,20,15,22,-15,284,0,0,-20,-1,2,20,16,23,-15,322,0,0,-20,-1,2,20,17,24,-15,Evade Increase
-38,Ninjato!A38,Ninjato,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Ninjato!A38,Ninjato,Ex.,Neckreaper,Silver,1,,,188,0,0,0,-1,2,15,8,26,0,,,,,,,,,,,,,,,,,,,,,296,0,0,0,-1,2,15,12,29,0,,,,,,,,,,,"Evade Increase, Defense Penetration, Passive Speed Up"
 44,Ninjato!A44,Ninjato,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 50,Ninjato!A50,Ninjato,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 56,Ninjato!A56,Ninjato,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

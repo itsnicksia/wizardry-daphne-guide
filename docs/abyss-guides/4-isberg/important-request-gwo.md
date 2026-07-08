@@ -2,6 +2,14 @@
 
 !!! warning "This page is currently under construction. We are still refining and correcting details"
 
+!!! note "Overview"  
+    - This page walks you through successfully completing the 4th Abyss by finishing the primary Request ("Ore Recovery"), and not just killing the Abyss's final boss.  
+    - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
+    - Reward:  After completing the Ore Recovery request, you receive a reward based on the which Faction request you chose:  
+        - Pontiff Route: Large Shield of Sacred Life (Silver Heavy Shield, 1\* white with Vitality Barrier (VIT->DEF). -3 DEF vs Large Shield, fixed -20 ATK -10 EVA)  
+        - Princess Route: Radiant Crown Royal Crest Brooch  (Sell only for 200k gp)  
+        - Admiral Route: Book of Gull's Equipment Mastery (Passive skill that increases certain combat stats each turn)  
+
 ## Main Story Request Walkthrough:
 
 ### First Run through the Deepsnow Hinterlands

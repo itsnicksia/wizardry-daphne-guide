@@ -3,7 +3,7 @@
 
 !!! note "The Requests on this page are listed in order of the Cursed Wheel point needed to 'reset' the request, not necessarily the order in which they will be activated or completed."
 
-## Watery Obstacle
+## Merfolk Myth
 
 ### Defend My Shop from Goblins
 
@@ -14,6 +14,8 @@
 
 ??? map "Location"
     ![](img/image_2.jpg)
+
+## Watery Obstacle
 
 ### Water God Statue Restoration Materials
 

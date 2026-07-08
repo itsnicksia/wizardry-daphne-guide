@@ -1,10 +1,14 @@
 # Guarda Fortress - Important Request and Greater Warped One
 
-!!! warning "Read Me"
-    - Major spoilers ahead.
-    - We are working on adding additional information on key steps and requirements for each ending.
+!!! note "Overview"  
+    - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Save the Duke"), and not just killing the Abyss's final boss.  
+    - Specific requirements are listed in order of the Cursed Wheel point needed to reset the event.  
+    - Reward:  After Saving the Duke, you receive a reward based on the which Faction request you chose:
+        - Pontiff Route: Holy White Stone (Sell for Gold)
+        - Princess Route:  Book of Steadfast Shield Soldier Secrets (Skill that gives +DEF/MDEF with Heavy Shield)
+        - Admiral Route:  Elegant Dancer (Ebonsteel Shoes, 1* white, with Charm Tolerance, +5 ASPD fixed, -2DEF and +3EVA vs Veil Boots)
 
-## Endings Overview
+## Multiple Endings
 
 === "Basics" 
 
@@ -29,7 +33,7 @@
     - With normal progression you should reach Level 60 by the end of your first run. With the addition of A4 you have the option to take the Copper exam that raises the level cap to 70. 
     - Most players do a different faction for each ending. It is possible to complete all 4 on the same faction. 
     - None of the Important Request faction rewards are particularly valuable.
-    - Faction requests are located [here](./requests.md##old-district-slum-faction-quests). 
+    - Faction requests are located [here](./requests.md#old-district-slum-faction-quests). 
 
 === "Abbreviations"
     
@@ -105,23 +109,34 @@
 
 === "Guide"
 
-    - Cursed Wheel Settings
-        - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
-        - At least 8 corrosion sentries are toggled to "Spotted". Any corrosion sentry (out of 13) not registered is automatically counted as "Spotted." For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).
-        - If you do not have at least 8 "Spotted" corrosion sentries toggled, then everyone in Ixion's room will be dead. See [here](./corrosion.md#__tabbed_1_4). 
-    - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room, which should now have fewer corrosion tiles than before.  
-    - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
-    - Speak with everyone in the room for additional information about what is going on. Exit and head south. 
-    - On your second run you do not need to examine the lever. Head directly to the outer balcony to reach the back of the golem. There is now only 1 forced encounter against the 2x Evil Eyes. 
-    - Reverse the golem and repeat the same steps as before. 
-    - Defeat the GWO. 
+    === "Directions"
+    
+        - Cursed Wheel Settings
+            - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
+            - Toggle 0 to 8 (recommended) corrosion sentries to "Spotted" in the Cursed Wheel. See the second tab for more detailed instructions.
+            - For this ending you do not gain anything extra from defeating a more difficult version of the GWO. 
+        - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room, which should now have fewer corrosion tiles than before.  
+        - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
+        - Speak with everyone in the room for additional information about what is going on. Exit and head south. 
+        - On your second run you do not need to examine the lever. Head directly to the outer balcony to reach the back of the golem. There is now only 1 forced encounter against the 2x Evil Eyes. 
+        - Reverse the golem and repeat the same steps as before. 
+        - Defeat the GWO. 
+    
+    === "Note on Corrosion Sentry Toggles"
+    
+        - There are a total of 13 corrosion sentries that can be registered in the CW. See [here](./corrosion.md) for the dedicated page.  
+        - Any corrosion sentry not registered is automatically counted as "Spotted". 
+        - For the remaining endings you must have a certain number of "Spotted" corrosion sentries toggled before leaping in order for the NPCs to still be alive. The lower the Abyss corrison level, the more survivors you can rescue. 
+        - This ending only triggers when there are 0 to 8 corrosion sentries toggled to "Spotted." The GWO becomes progressively more difficult as you lower the number of "Spotted" toggles. That is, GWO 8 (8 "Spotted") is easier than GWO 6 (6 "Spotted"), which is easier than GWO 2 or GWO 0. 
+        - Unless you are looking for a challenge, then set your CW to 8 "Spotted". Again, remember, that any not registered already count toward the "Spotted" total. For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).  
+        - Another way to double-check you have the correct number toggled is to observe the size of Ixion's room when you first jump to the Z10 Fountain. See [here](./corrosion.md#__tabbed_1_4). 
     
 === "Saving Liam" 
 
     - [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) is the primary request for the second run.
     - It is a Guild request, but requires Knowledge that Liam has been kidnapped. See the request page for details on how to unlock.        
     - The request has multiple endings. To progress you only need to rescue Liam in "critical condition". The "rescued safely" endings gives Liam's bondmate (Stun Tolerance) if you speak to hear after defeating the GWO. It is fixed at Level 1. 
-    - Only needs to be completed once. The outcome is saved as a toggle in the CW under Fortress 3rd Floor Arrival - Abducted Child sub-node. Make sure you speak with Graham and Remi at the front entrance (tent by the well entrance) after saving Liam to make sure it registers properly.  
+    - Only needs to be completed once. The outcome is saved as a toggle in the CW under Fortress 3rd Floor Arrival - Abducted Child sub-node. Make sure you speak with Graham and Remi at the front entrance (tent by the well entrance) after saving Liam. Next, return to the Guild and submit the request as completed to make sure it registers in the CW properly.  
     
 === "Key Knowledge and Items"
 
@@ -165,7 +180,7 @@
 === "Summary" 
 
     - This is a mandatory ending and cannot be skipped. Once cleared it will unlock A4 since Ixion survives and completes the requirements for the major faction request. 
-    - The primary objective is to complete all steps associated with the request [Blackmail Resolution](./requests.md##blackmail-resolution). Securing the Blackmail Evidence will gain Dalian's trust so that you can avoid being executed. 
+    - The primary objective is to complete all steps associated with the request [Blackmail Resolution](./requests.md#blackmail-resolution). Securing the Blackmail Evidence will gain Dalian's trust so that you can avoid being executed. 
     - The Blackmail Resolution request:
         - Is a multi-chain request that will take you to several different locations.
         - Has the "Gambler's" boss fight, which some players consider more difficult than the Doll or the GWO.  
@@ -175,18 +190,28 @@
 
 === "Guide"
 
-    - <span style="color: #F2473A">Warning!</span> Make sure the Blackmail Evidence is in your Valuables inventory before beginning otherwise you will default to Bad Ending 2.  
-    - Cursed Wheel Settings
-        - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
-        - At least 8 corrosion sentries are toggled to "Spotted". Any corrosion sentry (out of 13) not registered is automatically counted as "Spotted." For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).
-        - If you do not have at least 8 "Spotted" corrosion sentries toggled, then everyone in Ixion's room will be dead. See [here](./corrosion.md#__tabbed_1_4). 
-        - At this point you likely have several corrosion sentries registered. You can opt to have fewer "Spotted", but GWO 6 and below is a significantly more difficult fight and is not necessary for this ending. 
-    - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room. 
-    - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
-    - Next, speak with Dalian and hand over the Blackmail Evidence. 
-    - Head directly to the outer balcony to reach the back of the golem. Per usual there is only 1 forced encounter against the 2x Evil Eyes. 
-    - Reverse the golem and repeat the same steps as before. 
-    - Defeat the GWO. 
+    === "Directions" 
+    
+        - <span style="color: #F2473A">Warning!</span> Make sure the Blackmail Evidence is in your Valuables inventory before beginning otherwise you will default to Bad Ending 2.  
+        - Cursed Wheel Settings
+            - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
+            - Toggle 0 to 8 (recommended) corrosion sentries to "Spotted" in the Cursed Wheel. See the second tab for more detailed instructions.
+            - For this ending you do not gain anything extra from defeating a more difficult version of the GWO. 
+        - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room. 
+        - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
+        - Next, speak with Dalian and hand over the Blackmail Evidence. 
+        - Head directly to the outer balcony to reach the back of the golem. Per usual there is only 1 forced encounter against the 2x Evil Eyes. 
+        - Reverse the golem and repeat the same steps as before. 
+        - Defeat the GWO. 
+
+    === "Note on Corrosion Sentry Toggles"
+    
+        - There are a total of 13 corrosion sentries that can be registered in the CW. See [here](./corrosion.md) for the dedicated page.  
+        - Any corrosion sentry not registered is automatically counted as "Spotted". 
+        - For the remaining endings you must have a certain number of "Spotted" corrosion sentries toggled before leaping in order for the NPCs to still be alive. The lower the Abyss corrison level, the more survivors you can rescue. 
+        - This ending only triggers when there are 0 to 8 corrosion sentries toggled to "Spotted." The GWO becomes progressively more difficult as you lower the number of "Spotted" toggles. That is, GWO 8 (8 "Spotted") is easier than GWO 6 (6 "Spotted"), which is easier than GWO 2 or GWO 0. 
+        - Unless you are looking for a challenge, then set your CW to 8 "Spotted". Again, remember, that any not registered already count toward the "Spotted" total. For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).  
+        - Another way to double-check you have the correct number toggled is to observe the size of Ixion's room when you first jump to the Z10 Fountain. See [here](./corrosion.md#__tabbed_1_4). 
 
 === "Outcome"
 
@@ -208,7 +233,7 @@ Saved the Duke and apprehended the mastermind.
 1. Successfully saved Duke Ixion in a previous run.
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
-4. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
+4. Have a Maximum of 6 Corrosion Levels (Spotted 6 Times) 
 
 #### Outcome
 
@@ -219,15 +244,15 @@ Saved the Duke and apprehended the mastermind.
 1. Successfully saved Duke Ixion in a previous run.
 2. Save Liam and notify Alan when meeting the Duke's party.
 3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
-4. Have a Maximum of 6 Corruption Levels (Spotted 6 Times) 
+4. Have a Maximum of 6 Corrosion Levels (Spotted 6 Times) 
 
 #### Guide
 
 !!! warning "Proceeding With Caution" 
-    - It is possible to do a zero corruption run during this run. Keep in mind the note about no corruption runs, this is much more difficult. 
+    - It is possible to do a zero Corrosion run during this run. Keep in mind the note about no Corrosion runs, this is much more difficult. 
     - At some point when returning to town, before interacting with the Duke's party, save Liam. 
     - Do not approach the Duke's party until you have all required key items. If you do, before you have the necessary items, you will need to cursed wheel back. Check key items to ensure you have everything, then proceed.
-    - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a corruption sentry, potentially ruining a no corruption run.
+    - When passing Zone 9, do not enter the blackmail evidence room, as it will trigger a Corrosion Sentry, potentially ruining a no Corrosion run.
 
 1. Progress to Zone 4 Tunnels (or warp if you can \[Fortress Basement Arrival is nearest\]) and talk to the amnesiac skeleton Duke Elequon. He will give you a secret password (you don't need to remember it).
 2. Progress (or warp if you can) to Zone 6 and speak with a NPC Sand Ghost. Give it the password to gain access to a hidden room.
@@ -251,13 +276,13 @@ Saved the Duke and apprehended the mastermind.
 
 * The Gatekeeper himself has no elemental weaknesses
 * Has high defense. When attacking the body, it's recommended to use moves with defense penetration.
-* Will scale in difficulty depending on the ending and amount of "corruption" from being spotted by the sentries.
+* Will scale in difficulty depending on the ending and amount of Corrosion from being spotted by the Corrosion Sentries.
 * Has a very large array of skills that he can use, and as such battles can vary quite drastically.
 * Fight is somewhat long, has around ~3 main discernable phases.
 
-??? note "Approximate HP Thresholds for certain corruption levels"
-    - 6 Corruption: Phase 1: 5k HP | Phase 2: 19k HP | Phase 3: 3.5k HP
-    - 0 Corruption: Phase 1: 8k HP | Phase 2: 34k HP | Phase 3: 8k HP
+??? note "Approximate HP Thresholds for certain Corrosion levels"
+    - 6 Corrosion: Phase 1: 5k HP | Phase 2: 19k HP | Phase 3: 3.5k HP
+    - 0 Corrosion: Phase 1: 8k HP | Phase 2: 34k HP | Phase 3: 8k HP
 
 #### Battle Tips
 
@@ -291,10 +316,10 @@ Saved the Duke and apprehended the mastermind.
 ##### Phase 3
 
 * He enters this phase typically when he gets a free roar off when it's not his turn and "Gathering his last strength". In doing so he will gain some undispellable damage, CT, and damage reduction buffs. You will get 2 free turns as he will be attempting to close the door. Attacks from him at this point deal fatal levels of damage.
-* If you have more than 4 Corruption, he will not get a free roar, but rather just "ROAR" in text.
+* If you have more than 4 Corrosion, he will not get a free roar, but rather just "ROAR" in text.
 * There is another golem throw around this time.
 * You must essentially also "gather your last strength" and throw all the damage you can onto him at this point. Continue using Full Power Strike, but switch to your strongest moves if possible.
-* Depending on the difficulty based on route and corruption, he may also respawn both tentacles.
+* Depending on the difficulty based on route and Corrosion, he may also respawn both tentacles.
 * If you do not do enough damage in time, he will inevitably spam Deep Roar, which will switch rows and stun most of your team, effectively ending your run.
 
 ??? note "Note about no Corruption Runs" 
