@@ -195,10 +195,10 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                                                                | Passive Name             | Condition                    | DR % &emsp; &emsp; &emsp; | DMG Type &emsp; &emsp; &emsp; | Notes                                     | 
+| Name                                                                | Passive Name             | Condition                    | DR % &emsp; &emsp;  | DMG Type &emsp; &emsp;  | Notes                                     | 
 |---------------------------------------------------------------------|--------------------------|------------------------------|--------------------|-----------------|-------------------------------------------|
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Skull's Tutelage         | Back Row                     | 30%                | Physical        | Increases HP by 10%.                      | 
-| Heinrico                                                            | Wayfaring Hunter's Savvy &emsp; &emsp; | Ambushed, ≥ 4 enemies &emsp; &emsp; | 50%      | All             | DR % applies to all party members. First turn only.        |  
+| Heinrico                                                            | Wayfaring Hunter's Savvy &emsp; &emsp; | Ambushed, ≥ 4 enemies &emsp; &emsp; | 50%      | All             | DR % for all members. First turn only.        |  
 
 </div>
 
@@ -227,26 +227,21 @@
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Name                                    | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp;     | Stat Bonus 2 &emsp; &emsp;  |  &emsp; &emsp;    | 
+| Name                                    | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; |      | Stat Bonus 2 &emsp; &emsp;  |     | 
 |-----------------------------------------|---------------------------|------------------------|---------------|-----|---------------|----|
 | Eckart                                  | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |               |    |               
 | <span style="color: cyan">Flut A</span> | Grace of the Great Tree   | 2H Staff               | Magic Power   | +7  | Magic Defense | +7 |                           
-| Gerulf                                  | (Blazing) Branded Hands   | Any 2H                 | Accuracy      | +10 | Chill Limit   | +3 |
+| Gerulf                                  | (Blazing) Branded Hands &emsp; &emsp; &emsp;  | Any 2H                 | Accuracy      | +10 | Chill Limit   | +3 |
 | Gerard                                  | Lightning Celerity        | 1H Sword               | Evasion       | +10 |               |    |                                                
-| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught &emsp; &emsp; &emsp;  | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
+| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught    | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
 | Gillion                                 | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15 | Action Speed  | +8 |    
-| Kiriha                                  | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |               |    |    
+| Kiriha                                  | Shadowy Alignment         | Kunai or Dagger          | Evasion       | +8  |               |    |    
 | Livana                                  | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy      | +7 |
-| Savia                                   | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp; &emsp;  | Evasion       | +8  |               |    |        
+| Savia                                   | Soaring Beast Knight      | 2H Spear or Light Armor &emsp; &emsp; &emsp;  | Evasion       | +8  |               |    |        
 | Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
 | Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
 
 </div> 
-
-
-
-
-- Add Dance of the Bold Advance
 
 - Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
 - For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
@@ -262,7 +257,7 @@ Guard Experience                 | Gandolfo  | Fighter |   100    Fighter
 Skull Study                      | Debra     | Thief   |   101    Skull Study - reduces MP/SP cost of Thief spells/skills that cost 3-10 MP/SP; Chinese wiki says -1 MP/SP, so is it 10%?
 Frugal Faith                     | Marianne  | Priest  |   102    Priest
 Knowledge of the Millennial Lord | Adam      | Mage    |   103    Mage
-Wild Knight                        Barb        Knight             Knight 
+Wild Knight                      | Barb      |  Knight      
 
 
 Maybe it's something like any class skill capped at 10 SP/MP is reduced by 20%? Clearly a floor/ceiling function going on 
@@ -325,6 +320,16 @@ CONFIRMED - 10% extra damage, -2 MP, this NEVER changes
 
 - Equipping a 1H Blunt weapon adds 10% of Divine Power to ATK Power up to +100.
 - If a 1H Blunt weapon is equipped the effect stacks with her row-dependent stat bonuses. 
+
+
+|Name     | Passive Name              | Condition 1           | Condition 2 | Stat Bonus 1 |     | Stat Bonus 2 |    | Stat Bonus 3 |     |
+|---------|---------------------------|-----------------------|-------------|--------------|-----|--------------|----|--------------|-----|
+| Debra A | Dance of the Bold Advance | Melee Weapon + Shield | Front Row   | Evasion      | +8  | Surety       | +8 | Surety DMG % | 10% |
+
+- Melee Weapon: Any 1H or 2H weapon. Bows excluded. 
+- Shield: Any
+
+
 
 
 #### Camille - Latent Power of Benevolence
