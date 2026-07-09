@@ -1,4 +1,4 @@
-# Fighter Trials
+# Thief Trials
 
 ## Guide:
 
@@ -47,7 +47,7 @@ Chests are typically static throughout the map variations and difficulties (They
     - It can be evaded after the initial attack.
 
 ??? note "Master Thief Ring"
-    ![](img/thief-ring.jpg)
+    ![](img/thief-ring.png)
     - The Thief ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.
 
 
