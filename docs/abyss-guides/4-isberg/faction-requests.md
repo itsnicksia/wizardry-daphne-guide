@@ -57,14 +57,12 @@
             - Total: 10 
 
     === "How to Reset" 
-    
-        - Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken
-        - Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken
-        
-    === "Reset Notes"
-    
-        - When resetting the request you have to jump to Deepsnow Hinterlands Entrance, return to the Ruins, and then jump to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you wheel-in-place. 
-        - The Faction 1 requests are technically first unlocked when you enter Route 3 for the first time. However, it can only be reset using the Route 4 or 5 Cursed Wheel node. To save time, reach one of those 2 floors if you plan to do all of the endings before progressing the main story. 
+
+        - ~~Deepsnow Hinterlands Entrance > Blizzard Blocking the Path (Route 4 entrance) > Exit via Route 3 Harken, or~~
+        - ~~Deepsnow Hinterlands Entrance > Minor Harken Beyond the Blizzard (Route 5 Harken) > Exit via nearby Harken~~
+        - ~~Reset Notes: When resetting the request you have to jump to Deepsnow Hinterlands Entrance, return to the Ruins, and then jump to Blizzard Blocking the Path or Minor Harken Beyond the Blizzard. The request will not reset if you wheel-in-place.~~
+        - Cursed Wheel to Village Shut Away in Silence, south-entrance exit, and use Harken.
+        - The Faction 1 requests are first unlocked when you enter Route 3 for the first time. However, ~~it can only be reset using the Route 4 or 5 Cursed Wheel node.~~ to save time, reach one of those 2 floors if you plan to do all of the endings before progressing the main story. 
 
     === "Contact"
 

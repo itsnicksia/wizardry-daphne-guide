@@ -23,29 +23,28 @@
 
     === "Current Status" 
     
-        - As of 4/12 the request is working normally if you choose to slay both of them at the end.
-        - Current bug: Bondmate ending (spare both of them) will automatically fail even if you do everything perfectly. 
-        - See next steps for the workaround.
+        - As of 4/12 the request is working normally ~~if you choose to slay both of them at the end~~.
+        - Bug Description: Bondmate ending (spare both of them) will automatically fail even if you do everything perfectly. See next steps for the workaround.
 
-    === "Bondmate Ending Steps"
+    === "Workaround"
     
         - Part I 
             - Cursed Wheel to Rockhome Village Major Harken. 
             - Accept the request. 
-            - Complete all the steps as normal. Choose to "Slay them both" at the end. Don't forget to pick up the Salted Pork. 
+            - Complete all the steps as normal. Choose to "Slay them both" at the end. Remember to pick up the Salted Pork. 
             - Submit the request. 
 
         - Reset Request
-            - Cursed Wheel to Deepsnow Hinterlands Entrance. 
-            - Cursed Wheel back to Rockhome Village Major Harken. 
+            - Cursed Wheel to Village Shut Away in Silence
+            - ~~Cursed Wheel to Deepsnow Hinterlands Entrance, then Cursed Wheel back to Rockhome Village Major Harken.~~ 
 
         - Part II 
             - Accept the request. 
             - Be sure to pick up a Trifia mushroom at one of the discovery points.
-            - This time choose to "Spare" (bondmate ending) at the end. Don't forget to pick up the Salted Pork. 
+            - This time choose to "Let them go" (bondmate ending) at the end. Remember to pick up the Salted Pork. 
             - Instead of the request automatically failing you should be able to submit. 
 
-    === "Other"
+    === "Explanation"
 
         - We have limited insight into what is causing this bug. It appears as if an event flag is broken that requires doing it the "normal" (slay/kill) way first to reset things. 
         - It is possible that this is -not- a bug and intended to work this way moving forward. Historically, you could do either ending successfully on your first run. 
@@ -53,14 +52,14 @@
         - Credit: Big thank-you to @liezeithl for discovering the workaround. 
         - Contact: Ping or DM @lightbearer on the Discord if you are running into any problems or discover any new information.  
 
-??? warning "Important Notes"
+??? warning "Preparation"
 
     - Pre-requisite Requests
         - None    
         
     - Recommend entering Route 2 from the Route 1 Harken as the boss's location is based on your starting point. Entering from the Route 2 Harken has the boss fight commence in a blizzard zone, which makes the fight significantly more difficult
     - Bigfoot fights at Discovery Points can be as challenging as the boss and you may encounter more than one in a single run
-    - Side areas do not contain Discovery Points
+    - ~~Side areas do not contain Discovery Points. ~~
     - Bring SP items in case of multiple Bigfoot fights
 
 ??? note "Request Guide"
@@ -69,8 +68,7 @@
     
         - Accept the request and enter Route 2 via the Route 1 Harken (recommended) or the Route 2 Harken. 
         - The objective is to traverse all of Route 2 from beginning to end to locate the stolen Salted Pork.
-        - The Bigfoot Child will stop and make a sound at 6 Discovery Points along the main path. You have the option to "Let it go" or "Stop it". 
-        - If you let it explore, then 3 randomized events can occur:  
+        - The Bigfoot Child will stop and make a sound at the six/eight Discovery Points on the map. A randomized sound will hint at what it has discovered. If you "Let it go":
 
             ??? quote "Bigfoot Child Audio Cues"
             
@@ -78,11 +76,14 @@
                 - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" high-pitched sound = Trifia 
                 - "Kyoh! Kyoh!" text with a "Kyoh!" low-pitched sound = Deep-snow Mushroom  
                 
-        - Routing Tip: From the entrance if you auto-move to the hotspring it will take you through the first set of Discovery Points. Select the auto-resume button (upper-left boot icon) to continue. Auto-move to the Fountain and exit next.  
-        - To spawn the Bigfoot boss you will need 1) a Trifia mushroom in your inventory and 2) encounter a Bigfoot fight. If these conditions are not met, then the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
+        - Routing Tip: From the entrance if you auto-move to the hotspring it will take you through the first set of Discovery Points. Select the auto-resume button (upper-left boot icon) to continue. Auto-move to the Fountain and exit nex 
+        - Bigfoot Parent spawning requires:
+            1) a Trifia mushroom in inventory
+            2) a Bigfoot fight previously won
+        -. If these conditions fail, only a standard Bigfoot fight will occur and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
         - After the fight you will be given the option to "Let them go" or "Slay them both". The former gives a new bondmate and the latter gives additional gold. 
-        - <span style="color: #F2473A">Warning!</span> Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
+        - <span style="color: #F2473A">Warning!</span>Remember to pick up the Salted Pork request item next to the Harken before exiting---it is easy to miss.
         - Return to the Guild and submit the request.
 
             ??? warning "Rewards"
@@ -106,8 +107,18 @@
 
         - Red Star  = Discovery Point
         - Red Star (Filled) = Bigfoot Boss
-        - Green Star = Salted Pork reqeust item
-      
+        - Green Star = Salted Pork request item
+
+    === "Discovery Points (Southbound)"===
+
+        <div align="center">
+        ![](./img/salted-pork-sb.png)
+        </div>
+
+        - Check = Discovery Point
+        - Checkx2 = Bigfoot Boss
+        - Checkx3 = Salted Pork request item
+
 ## Village Shut Away in Silence 
 
 ### Find My Sister Lisa
@@ -116,9 +127,7 @@
 
     - Pre-requisite Requests
         - None
-        
-    - "Perfect" Ending Requirements
-    
+    - "Perfect" Ending Requirements <span style="color: #F2473A">(contains spoilers)</span>
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) 
             - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request.
         - Cursed Wheel: Short Rest in the Cabin
@@ -131,7 +140,7 @@
     === "Walkthrough"
     
         - Accept the request from Marta at the Guild and go to Route 3.
-        - <span style="color: #F2473A">Warning!</span> Reverse the Stonefolk in the NW corner -before- entering the Mayor's House to avoid unnecessary fights.
+        - <span style="color: #F2473A">Warning!</span>Reverse the Stonefolk in the NW corner -before- entering the Mayor's House to avoid unnecessary fights.
         - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box (Box Carved with a Snowdrop Motif), Crude Map, and a Doll. Step outside and watch a cutscene of hostile animals and monsters invading the town. All of the enemy groups can be avoided and are not mandatory for successful completion. 
         - The goal is to find the 2 hidden boxes drawn on the crude map. It is possible to collect both boxes without fighting any enemies. Note that the final (3rd) box is not accessible until the end of the request.  
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
@@ -177,26 +186,25 @@
     - Pre-requisite Requests
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
-    - Request Failure
-        - Pre-requisites requests not completed. 
-        - Did not receive the Dried Fish Fragment from the little girl at the Guild. 
-        - Exiting to the world map and returning.
-        - Using all of your flames ("Rise again") and being forced to "Accept death". 
+    - Request Requirements
+        - Pre-requisites requests are completed. 
+        - Staying within the world map (Lulu will warn).
+        - The Nullshadow can only be Fled from twice.
+        - Avoiding 'Accept Death' option after dieing as this will CW you to a previous timepoint
     - Reset Request
-        - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed.
+        - Cursed Wheel to 'Blizzard Blocking the Path' which will keep the pre-requisite requests flagged as completed.
 
 ??? note "Request Guide" 
 
     === "Walkthrough"
 
         - Accept the request. If both prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment. 
-        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search. Running away more than twice results in request failure. 
-        - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎.  The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
+        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For added drama the Nullshadow will usually appear behind you after entering a blizzard zone and stalk you throughout the search.
+        - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎. The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
         - Find the kitty once in each of the 3 blizzard zones. The first two times it will run away. On the third attempt you will be prompted to use the Dried Fish Fragment as bait and the request will be completed.
         - The kitty is now permanently located at the Guild. It can also see Lulu!
     
             ??? warning "Rewards"
-        
                 - Gem of Org x20 (first-time only)
                 - 12,500 Gold
                 - Deepsnow Hinterlands Roar Junk
@@ -205,7 +213,7 @@
     === "Meow-chanics ₍^. .^₎"
     
         - You catch a faint, barely audible cray of some unseen creature = Several tiles away, usually when you first enter the blizzard zone
-        - You catch a soft, thin mewing from somewhere. It sounds like a cat = Few tiles away 
+        - You catch a soft, thin mewing from somewhere. It sounds like a cat = Few tiles away
         - You catch the sound of a mewing cat nearby. It seems somewhere close by = Within 1-2 tiles
 
 ## Minor Harken Beyond the Blizzard
@@ -216,24 +224,24 @@
 
     - Pre-requisites
         - MC has been promoted to Copper Grade. 
-    - Must step foot into Route 6 and then exit. 
-    - Make sure all blizzard zones are active. 
-    - The Bondmate ending has specific requirements. See the Bondmate tab.
+        - Blizzard zones make sure are active. 
+    - Enabling: Route 6 enter.
+    - Bondmate: The Bondmate ending has specific requirements, see the Bondmate tab.
 
 ??? note "Request Guide"
 
     === "Walkthrough"
 
         - Talk to Vigo, accept the request, and go to Route 5.
-        - Each blizzard zone can be used as a location for Vigo to dry his fish.  
-        - Once you enter a blizzard zone a message will appear that describes its current condition. The conditions are randomized each run. You can decline and re-accept any location. 
-        - Conditions: 
+        - Each blizzard zone can be used as a location for Vigo to dry his fish.
+        - Once you enter a blizzard zone a message will appear that describes its current condition. The conditions are randomized each run. You can decline and re-accept any location.
+        - Conditions:
             - "The air here feels dry to you" 
             - "You can feel a brisk breeze, gusts rippling your clothing" 
             - "There is a slight dampness in the air here"
             - Note: Conditions only matter for the Bondmate ending. See tab for details.
         - After selecting a spot, you will be forced into 3 back-to-back fights. You may leave at any time, but your reward will be impacted. 
-        - If you cannot complete the fights while frozen, then you can reverse the blizzard zone before confirming the location. This does lock you out of the bondmate ending. 
+        - If you cannot complete the fights while frozen, then you can reverse the blizzard zone before confirming the location (this does lock you out of the bondmate ending). 
         - Once all 3 battles are completed, you will be teleported back to the Tavern to watch a brief cutscene and receive your reward. 
 
             ??? warning "Rewards"
@@ -266,11 +274,11 @@
 
         === "Conditions" 
 
-            - Blizzard zone: Must be active 
-            - Condition: "The air here feels dry to you"
-            - Location: The blizzard zones directly beneath the Harken and the Fountain area. See Locations tab.
-            - This works 100% of the time as long as -all- of the above conditions are met. During testing the other locations have given inconsistent results or may be bugged. 
-            - Upon completion, you will get the "Exquisite Jewel Trout" (HP) bondmate and Ultimate Ice-Wind Trout consumable item. 
+            - Location: The blizzard zones directly beneath the Harken and the Fountain area (see the Locations tab).
+            - Blizzard Zone: Must be active.
+            - Judgment: "The air here feels dry to you."
+            - This works 100% of the time as long as *all* of the above conditions are met. During testing the other locations have given inconsistent results or may be bugged. On two test runs, entering from Route 4 and using the blizzard zone below the fountain, gave the 'dry' condition and the Bondmate upon completion.
+            - Upon completion, you will get the "Exquisite Jewel Trout" (HP) bondmate and Ultimate Ice-Wind Trout consumable item.
 
         === "Locations" 
 
@@ -284,24 +292,22 @@
 
 ??? warning "Important Notes"
 
-    - Pre-requisite request: 
-        - [Special Local Delicacy](./requests.md#special-local-delicacy) 
-        - If not completed the request will automatically fail  
-    - Entering from the Route 6 Harken allows you to reverse the blizzard zones in advance before fighting
-    - Cursed Wheeling twice on Truth of the Beautiful Ore and then wheeling to Slaying the White Wolves will automatically reverse all blizzard zones
-    - There is no special text, sound, or battle music to signal a wolf pack encounter aside from the boss fight
-    - Route 6 is extremely enemy dense with a high respawn rate, so try to avoid enemies or prepare accordingly
-    - The Snow Wolf Leader is on par difficulty-wise as the Route 6 boss
+    - Prerequisite: Request [Special Local Delicacy](./requests.md#special-local-delicacy). If not completed, accepting the request will fail.
+    - Recommendation: Entering from the Route 6 Harken as all blizzard zones will be reversed.
+    - Automatic reversal of blizzard zones can be enacted by using the Cursed Wheeling twice on 'Truth of the Beautiful Ore' and then wheeling to 'Slaying the White Wolves'.
+    - Wolf pack encounters have the same text, sound, and battle music as regular encounters, only the boss fight has special prompts.
+    - Route 6 is extremely enemy dense with a high respawn rate. Try to avoid enemies and prepare accordingly.
+    - The Snow Wolf Leader is on par difficulty-wise as the Route 6 boss.
 
 ??? note "Request Guide"
 
     === "Walkthrough" 
 
-        - The objective is to hunt 4 wolf packs scattered across Route 6. The wolf pack locations are static, do not move on the field, and the order fought does not matter. Note that while there are 6 possible locations where they could spawn you will only get 4/6 to appear on a given run.  
-        - The enemy composition of each fight progresses in a fixed order.
-        - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone and close to the Fountain. Recommend saving either for the boss fight. Do not leave the wolf pack in the bottom left at (X:4, Y:1) for last otherwise the boss will be fought in a blizzard.  
-        - After defeating 3 wolf packs the 4th encounter will be a boss fight against the Snow Wolf Leader.
-        - (Subsequent runs) A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives a bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
+        - Objective: Hunt wolf packs scattered across Route 6, locations are static, and can be fought in any order. There are six possible locations but only four are valid.
+        - The enemy composition is fixedly, progressively harder per fight.
+        - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone area and close to the Fountain. It is recommend to save either for the boss fight. The wolf pack in the bottom left at (X:4, Y:1) is the least recommenced to save for last as it will require fighting the boss in a blizzard.
+        - After defeating three wolf packs, the fourth encounter will be a boss fight against the Snow Wolf Leader (Warg).
+        - Subsequent Runs: A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives the bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
         - Exit and return to the Guild to submit the request.
 
             ??? warning "Rewards"
@@ -310,7 +316,7 @@
                 - Snow Wolf Trapper Hat
                 - 5,000 Gold 
                 - Additional reward - 22,000 Gold 
-                - Bondmate - Warg, Commander of the Deep Snow (subsequent runs only)
+                - Bondmate: Warg, Commander of the Deep Snow (subsequent runs only)
 
     === "Wolf Pack Locations" 
     
@@ -324,7 +330,7 @@
         - (X:4,Y:1) - Southwest corner in blizzard zone (cannot reverse)
         - (X:1, Y:23) - Far northwest corner 
 
-    === "Battle Composition"
+    === "Enemy Composition"
     
         - Wolf Pack 1 - 4 Snow Wolves in a row
         - Wolf Pack 2 - 5 Snow Wolves, 3 in the front, 2 in the back
@@ -343,9 +349,7 @@
 
 ??? warning "Important Notes" 
 
-    - Pre-requisite request: 
-        - [Unforgivable Wolves](./requests.md#unforgivable-wolves) 
-        - If not completed the request will automatically fail  
+    - Prerequisite: Request [Unforgivable Wolves](./requests.md#unforgivable-wolves). If not completed, accepting the request will fail.
     - The ore you are collecting is located on Route 8, which is split into two parts that are not connected to each other. 
     - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) is helpful to traverse the area easier, but it is not required. 
 
@@ -353,9 +357,9 @@
 
     === "Walkthrough"
 
-        - The goal of this request is to collect 5 rocks (white, shiny objects on the floor) scattered throughout Route 8.
+        - The goal of this request is to collect 5 rocks scattered throughout Route 8 (portrayed as white, shiny objects on the floor).
         - You have two options on your preferred starting point:
-            - Select Route 6 and then enter Route 7 to access the stairways to Route 8.
+            - Select Route 6 to enter Route 7, then access the stairways to Route 8.
             - Select Route 7 and use the shortcuts to access the stairways to Route 8.
             - As previously noted, you have to explore both parts of Route 8 to collect all 5 stones and the order you do them in does not matter. 
         - The location of several high-value rocks are typically static. For example, (X:4,Y:8) and (X:26,Y:21) are guarded by 2 Stonefolk frontline, and 2 Lamenting Snowfolk backline. They have much higher HP and DEF than randomly encountered ones. These rocks are Silver Ore.
@@ -366,6 +370,7 @@
 
         <div align="center">
         ![](./img/ore-mining-loc.jpg)
+        ![](./img/ore-mining-loc2.png)
         </div>
 
         - Double marks = Boss enemy guarding ore
@@ -379,7 +384,7 @@
         5. Large Brownish-Green Stone = Copper (not worth much)
         6. Small Dark Stone = Coal (not worth much)
 
-## Being That Dwells in the Home of God
+## Being That Dwells in the House of God
 
 ### Traces of Indigenous People
 
@@ -395,31 +400,25 @@
 
     === "Walkthrough"
 
-        - Accept the Guild request and then head to Route 10 via the Route 9 Harken.
-        - The goal is to collect Warm Stone Fragments, which appear as shiny objects on the ground. Total of 4 static locations. See tab for details. 
-        - Once a stone is picked up you will be given the option to put it back down. Picking it up will lead to a battle against a group of Stonefolk. 
-        - After collecting 3 Warm Stone Fragments the 4th location will spawn (X:6, Y:24) for the Large Warm Stone Fragment. This is a significantly more challenging fight. 
-        - The reward is based on the total number of Warm Stone Fragments collected without leaving the floor. When finished return to the Guild and submit the request. 
-    
-            ??? warning "Rewards"
-    
-                - Less than 3x Warm Stone Fragments = Gold
-                - 3x Warm Stone Fragments = Gold and Junk
-                - 3x Warm Stone Fragments + 1x Large Warm Stone Fragment  = Gold + 2 types of Junk + Icebreaker Sword (1/3 Strength and -30 Shatter value)
+        - Accept the request at the tavern then head to Route 10 via the Route 9 Harken.
+        - Look for the stone fragments in the snow (presented as shiny objects). Their locations on the map are static (see locations tab).
+        - Upon picking up the stone fragment an enemy will appear. An option will be presented: to fight or leave. One can come back later but it is necessary to fight them and win to take the fragment. The battle is with stonefolk and varies per engagement (see locations tab). The stonefolk are a number of times more difficult than their normal counterparts (15,000 HP?). The rear stonefolk can curse, crit poison…; they have some chance of being confused or silenced (10%, 5%?).
+        - The final stone will spawn following the retrieval of the first three fragments at (X:6, Y:24)
 
     === "Stone Locations"
 
-        <div align="center">
-        ![](./img/traces-shiny-locations.png)
-        </div>
+        | Location | Enemies | Status Effect |
+        |----------|---------|---------------|
+        | (X:17, Y:9) | 1 Stonefolk | Whole team starts Cursed |
+        | (X:13, Y:0) | 2 Stonefolk | Whole team starts with Paralysis |
+        | (X:7, Y:9) | 3 Stonefolk | Whole team starts with Critical Poison |
+        | (X:6, Y:24) | 4 Stonefolk | Whole team starts with Fear |
 
-        | Location    | Enemies     | Status Effect                          |
-        |-------------|-------------|----------------------------------------|
-        | (X:17, Y:9) | 1 Stonefolk | Whole team starts Cursed               |
-        | (X:7, Y:9)  | 3 Stonefolk | Whole team starts with Critical Poison |
-        | (X:13, Y:0) | 2 Stonefolk | Whole team starts with Paralysis       |
-        | (X:6, Y:24) | 4 Stonefolk | Whole team starts with Fear            |          
-
+    === "Rewards"
+    
+                - < 3 Fragments = Gold, bare amount
+                - 3 Fragments = Gold, + 1 Junk
+                - 3 Fragments + 1 Large Stone = Gold, + 2 Junk, + Icebreaker Sword
 
 ## Truth of the Beautiful Ore 
 

@@ -1,31 +1,31 @@
 # Vendetta on the Island of the Wailing Oni
 
-!!! item "This event is permanently available."
+!!! item "This was once an event, it is now a featured request."
 
 ## How to enable:
 
-- Complete Abyss 4 Up to a certain part.
+- It gets enabled in Abyss 4 at around the time you reach the 'Rockhome Village Major Harken'.
 
-## Guide for 1st Part:
+## Part 1---Recovery of Oni Treasure
 
-!!! warning "If you get killed by the Oni in the first run, it will completely reset your request and you will not have a chance to revive with Flames of Resurrection"
+1. Go to Royal Capital, obtain the request "Recovery of Oni Treasure" in the featured tab. You will be given an 'Embarkation Token Half'. Head to the Port Town Grand Legion from the World Map and talk to the sailor in town with the chat bubble. He will bring you to the Island of the Wailing Oni. You may leave immediately if you wish, as the location is now unlocked on the world map.
+2. Enter B1F and interact with the Samurai. Help him (it is necessary for progression, and give him a Medicinal Herb or Dried Abalone (you can give from your storage).
+3. Head to center-south B2F and pick up the letter from the dead Samurai. Ask Kanosuke to to help translate it (this is a key item for later). Fight the Floor Boss on the bottom right, head to B3F. Head to the bottom left room to fight the Oni. This is a serious fight, essentially a Cyclops that can summon---dying is seriously a possibility.
 
-1. Go to Royal Capital, obtain the request "Recovery of Oni Treasure" in the featured tab. You will be given a pass key item. Head to the Port Town Grand Legion from the World Map and talk to the sailor in town with the chat bubble. He will bring you to the Island of the Wailing Oni. You may leave immediately if you wish, as the location is now unlocked on the world map.
-2. Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (You can give from storage) or Dried Abalone. It doesn't really matter which one you do, as long as he has something to eat. 
-3. Head to B2F, pick up the paper from a dead samurai. Ask Kanosuke to to help translate it. This is now a key item for later. Head to fight the Oni in the bottom left room. After he takes a certain amount of damage, he will be finished off by Kanosuke. However, Kanosuke will turn into an Oni. Pick up the key where the Oni used to be and use the key on every locked room in the dungeon. You will need to pick up the diary/book in the locked room in B3F. You might also need to interact with the shrine in B3F which is at the bottom of the stairs in the top right region in B1F that is accessed via the top middle locked door. Lulunarde will tell you when it's time to cursed wheel and your request will tell you the request is not completable and that you will need to cursed wheel. If you somehow skip Lulunarde's text or weren't paying attention, you can bring up the request in the request list and see if it mentions that nothing else can be done and that you need to cursed wheel.
+   ??? danger "Oni Fight Details"
+        - <span style="color: #F2473A">Warning: </span>If you get killed by the Oni on the first run, the request will be reset and you will be returned you the royal capitol (the Flames of Resurrection will be unavailable)."
+        - Has a lot of HP, several tens of thousands (possibly 25,000), spawns with 2 Red Hobgoblins in the same row.
+        - Fire Element and does Fire Element attacks.
+        - Has two actions per turn, though they may be spread out.
+        - Does extremely high damage, it's recommended to run a Knight with Knight's Defense to deal with this fight.
+        - Can be Crit, can be delayed, and Batlegref may need to be used on him.
+        - Occasionally eliminate a Red Hobgoblin---this will require the Oni to use an action to summon another one.
 
-    ??? danger "Oni Fight Details"
-         - Has a lot of HP, several tens of thousands. Spawns with 2 Fire Hobbers in the same row.
-         - Fire Element and does Fire Element attacks
-         - Acts once a turn, but after taking enough damage can move twice in a row???
-         - Does extremely high damage, it's recommended to run a Knight with Knight's defense to deal with this fight.
-         - Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
-         - Will summon more Fire Hobbers after some turns or after taking enough damage.
-
-5. Cursed Wheel the event and head to the island again. Save Kanosuke from hunger and hand him the letter that you got previously and he will now follow you so you can read the foreign language.
-6. Head to the Archive Room (top left locked room) on B1F. It will be locked but there will be a clue to the key. The clue will be on B2F at (X:1, Y:17). Kanosuke will then mark the location of the key on your map with an exclamation mark (X:18, Y:13). Head back to the Archive Room and read all the texts on the shelves. You will need to stop the oni transformation via the shrine.
-7. Head to the shrine via the middle locked room in B1F. You will need paper seals from the Archive Room (top left locked room in B1F) and salt from the Pantry (bottom left room in B2F). Head back to the shrine and let Kanosuke fix the shrine.
-8. Head to the Oni and fight it again. Upon winning, head to the middle locked room in B3F and read the diary. Head back to the oni room and go into the treasure room to receive Kanosuke as a bondmate (Bind Tolerance), the gold statue for the request, and a recommendation from Kanosuke for his Samurai Dojo.
+4. After he takes the prescribed damage, he will be finished off by Kanosuke. However, Kanosuke will turn into an Oni and backtrack to guard the treasure room. Pick up the key where the Oni used to be. Travel back to use the key on the locked rooms---it will open all the doors except the top-left room on B1F. It is only necessary, at this time, to enter the center room on B3F and read the diary/book there. Lulunarde will inform you that the request needs to be reset. (If you somehow skip Lulunarde's text or weren't paying attention, you can bring up the request in the request list and see if it mentions that nothing else can be done and that you need to Cursed Wheel.)
+5. Cursed Wheel the event and head to the island again. Save Kanosuke from hunger, hand him the letter that you got previously, tell him of his lord's (Lord Tsunahiko) illness, and accompany him (so he will read the foreign language scripts).
+6. Head to the top-left room on B1F (the Archive Room). It will be locked but Kanosuke will posit that her knows a key is hidden somewhere. It may have been noticed before that there is a wall etching in this 'castle'. Head to that etching which provides the location of the key (it is at BF2X1Y17). At the etching, Kanosuke will mark the location of the key on your map with an exclamation mark (X:18, Y:13). Grab the key and head back to the Archive Room. Read the the texts (right to left) on the shelves. In them it is learned that the Oni curse (inheritance by it's vanquisher) can be interrupted by a seal at the shrine.
+7. Head to the shrine via the middle-upper door (once locked) on B1F to the upper-right of B3F. At the shrine it is learned that the seal has been broken. A new paper seal will need to be retrieved from the Archive Room (top left locked room in B1F) and salt from the Pantry (bottom left room in B2F). Head back to the shrine and let Kanosuke fix the seal.
+8. Head to the Oni and fight it again. Upon winning, Kanosuke needs time to sort the personal affects in the Treasure Room. Head to the middle locked room in B3F and read the diary. Head back to the Oni room and go into the treasure room. Here you will receive the request item (Gold Statue) for your help, Kanosuke as a Bondmate (Bind Tolerance), and a missive from Kanosuke to be sent to his Samurai Dojo. The Rock-Heart Style Dojo will appear on the map (to be able to enter it, Abyss Four must be cleared).
 
 ??? map "B1F"
     ![](./img/island-of-the-wailing-oni-b1f.jpg)
@@ -36,11 +36,13 @@
 ??? map "B3F"
     ![](./img/island-of-the-wailing-oni-b3f.jpg)
 
-## Guide for 2nd Part:
+## Part 2---The Samurai Trials
+
+To make the Samurai Class available to the MC, the Samurai Trails must be completed.
 
 ### Neutral or Good Route
 
-!!! note "You will need to have cleared Abyss 4 in your current route (Bad Ending is fine) to be able to unlock the 2nd part of this event. In addition, you will obviously need to have successfully completed Part 1 of this event."
+!!! note "You will need to have cleared Abyss 4 in your current route (Bad Ending is fine) to be able to unlock the 2nd part of this event. In addition, you need to have successfully completed Part 1 of this event."
 
 1. Head to Rock-Heart Style Dojo from the world map. You'll be immediately thrown into an unwinnable fight but the enemies also do not deal that much damage. Simply stay alive until the fight is over.
 2. You will need to go through three different trials in order to unlock the Samurai class for the MC. Head into the first trial, which will place you in a map with a lot of candles all over the map. The first candle by the entrance will always be the first candle that needs to be lit. Upon lighting the candle, it will indicate the direction you need to go to light the next candle and so on. If you forgot the instructions or skipped over them, you can interact with the last candle lit again in order to get instructions. The next candle that needs to be lit will always be on the same X or Y axis as the previous candle, and not simply just the closest candle in that general direction. After successfully completing the puzzle, the final room will unlock and you will fight a deputy samurai 1-on-1 as samurai MC. After winning the fight, head back to the entrance to unlock the next trial.
