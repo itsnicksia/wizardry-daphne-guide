@@ -259,14 +259,20 @@
     | Debra    | Skull Study                     | Thief   | 3-10 MP/SP  &emsp; &emsp; &emsp; | 
     | Gandolfo  &emsp; &emsp; &emsp; | Guard Experience                | Fighter |            | 
     | Marianne | Frugal Faith                    | Priest  |            |
+
+    </div>
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |               |   |   |   |   |   |   |   |    |
+    |---------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|
+    | Original Cost | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+    | Adjusted Cost  &emsp; &emsp; &emsp; | 2 | 3 | 4 | 4 | 5 | 6 | 7 | 8  |
     
     </div> 
     
-    - Exact same passive across all units, representing each of the 5 starter classes. 
-    - Applies to any skill or spell from the designated class.
-    - Provides a 10% MP or SP reduction, rounded down as a floor function (i.e., 3.9 > 3.0).
-    - Continuously reduces the MP/SP cost of [Class] spells or skills that cost 3-10 MP/SP.
-    - Maybe it's something like any class skill capped at 10 SP/MP is reduced by 20%? Clearly a floor/ceiling function going on 
+    - Exact same passive across all units, covering each of the 5 starter classes for spells or skills that cost 3-10 MP/SP. 
+    - Provides a 20% MP or SP reduction, rounded down as a floor function (i.e., 3.9 > 3.0).
 
 === "Erwin - Spellcraft Bookmark" 
 
