@@ -22,7 +22,7 @@
 
 ### Damage Increase 
 
-<div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table" markdown>
 
 | Name                                    |  Passive Name          | Condition    | Formation &emsp; &emsp; | DMG % | Notes                            |  
 |-----------------------------------------|------------------------|--------------|--------|:-----:|---------------------------------------------------|
@@ -60,7 +60,7 @@
 
 ### Status Tolerance 
 
-<div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table" markdown>
 
 | Name      | Passive Name                      | Condition &emsp; &emsp; | Formation| Status Ailments             | Amount |
 |-----------|-----------------------------------|-----------|-----------|------------------------------------------|:------:|
@@ -75,7 +75,7 @@
     
 ### Type Formation 
 
-<div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table" markdown>
 
 | Name &emsp; &emsp; &emsp; &emsp; &emsp;   | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;  | DMG To &emsp; &emsp; &emsp;     | DMG % |
 |--------|-------------------|-----------------|-----------|------------|:-----:|
@@ -88,7 +88,7 @@
 
 ### Type-Kin Blessing 
 
-<div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table" markdown>
 
 | Name &emsp; &emsp; &emsp; &emsp; &emsp;    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;          | Condition &emsp; &emsp; &emsp; &emsp;   | Formation &emsp; &emsp; &emsp;   | DR From &emsp; &emsp; &emsp;     | DR % |
 |---------|-----------------------|-----------|-----------|------------|:----:|
@@ -204,6 +204,8 @@
 
 ### Slayer
 
+<div class="nofilter-table" markdown>
+
 | Name &emsp; &emsp; &emsp; &emsp; &emsp; | Passive Name   | Race          | DMG % | DR % |
 |-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
@@ -215,6 +217,7 @@
 | Yekaterina  | Advice of the Skull                 | Undead        | 20%   | 20%  |
 | Yrsa        | Slayer of the White Calamity        | Magical Beast | 20%   | 20%  |
 
+</div>
 
 - Slayer passives increase DMG to and decrease DMG from a specific enemy race.
 - It is a 20% DMG boost for both General and Legendary units. It can stack with Slayer passives from both weapons and equipment.
@@ -222,6 +225,7 @@
 
 ### Equipment Bonuses 
 
+<div class="nofilter-table" markdown>
 
 | Name                                    | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; |      | Stat Bonus 2 &emsp; &emsp;  |     | 
 |-----------------------------------------|---------------------------|------------------------|---------------|-----|---------------|----|
@@ -237,6 +241,8 @@
 | Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
 | Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
 
+</div>
+
 - Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
 - For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
 
@@ -244,35 +250,39 @@
 
 === "% Cost Reductions" 
 
-    <div class="nofilter-table nosort-table" markdown>
+    === "Units" 
     
-    | Name     | Passive Name                    | Class   |
-    |----------|---------------------------------|---------|
-    | Adam     | Knowledge of the Millenial Lord  &emsp; &emsp; | Mage |          
-    | Barbara  | Wild Knight                     | Knight  |          
-    | Debra    | Skull Study                     | Thief   | 
-    | Gandolfo  &emsp; &emsp; &emsp; | Guard Experience  | Fighter |             
-    | Marianne | Frugal Faith                    | Priest  |            
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | Name     | Passive Name                    | Class   |
+        |----------|---------------------------------|---------|
+        | Adam     | Knowledge of the Millenial Lord  &emsp; &emsp; | Mage |          
+        | Barbara  | Wild Knight                     | Knight  |          
+        | Debra    | Skull Study                     | Thief   | 
+        | Gandolfo  &emsp; &emsp; &emsp; | Guard Experience  | Fighter |             
+        | Marianne | Frugal Faith                    | Priest  |            
+    
+        </div>
 
-    </div>
+        - Exact same passive across all units, covering each of the 5 starter classes for spells or skills that cost 3-10 MP/SP. 
+        - Provides a 20% MP or SP reduction. Adjust cost value is rounded down as a floor function (i.e., 3.9 > 3.0).
 
-    <div class="nofilter-table nosort-table" markdown>
-    
-    | Normal Cost   | Adj. Cost |
-    |:-------------:|:---------:|
-    | 3             | 2         |
-    | 4             | 3         |
-    | 5             | 4         |
-    | 6             | 4         |
-    | 7             | 5         |
-    | 8             | 6         |
-    | 9             | 7         |
-    | 10            | 8         |
-    
-    </div> 
-    
-    - Exact same passive across all units, covering each of the 5 starter classes for spells or skills that cost 3-10 MP/SP. 
-    - Provides a 20% MP or SP reduction. Adjust cost value is rounded down as a floor function (i.e., 3.9 > 3.0).
+    === "Cost Reduction" 
+
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | Normal Cost   | Adj. Cost |
+        |:-------------:|:---------:|
+        | 3             | 2         |
+        | 4             | 3         |
+        | 5             | 4         |
+        | 6             | 4         |
+        | 7             | 5         |
+        | 8             | 6         |
+        | 9             | 7         |
+        | 10            | 8         |
+        
+        </div> 
 
 === "Flat Reductions and Refunds" 
 
@@ -280,8 +290,8 @@
     
     | Name       | Passive Name             | Description                                              |
     |------------|--------------------------|----------------------------------------------------------|
-    | Erwin      | Spellcraft Bookmark      | 10% DMG and -2 MP when casting the same spell.           |
-    | Marianne A &emsp; &emsp; &emsp; | Sacred Healer            | -2 MP when casting Dios.                                 |
+    | Erwin      | Spellcraft Bookmark      | 10% DMG and -2 MP when casting the same spell consecutively.           |
+    | Marianne A &emsp; &emsp; &emsp; | Sacred Healer            | -2 MP when casting Dios or Madios at any skill level.                                 |
     | Raffaello  | Bones of Obsessive Love &emsp; &emsp; &emsp;  | 4 MP per enemy kill. Once per turn.                      |
     
     </div>
