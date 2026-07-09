@@ -252,7 +252,7 @@
     | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp;        | Front Row &emsp; &emsp;   |      | Attack Power &emsp; &emsp; | +15 | Defense &emsp; &emsp;       | +30 |              |      |
     | Ainikki  | Priest Overseeing Life and Death                      | Back Row    |                    | Divine Power | +15 | Magic Defense | +30 |              |      |  
     | Ainikki  | Priest Overseeing Life and Death                      |             | 1H Blunt           | See Notes    |     |               | +30 |              |      |  
-    | Debra A  | Dance of the Bold Advance                             | Front Row   | Any Melee + Shield &emsp; &emsp; | Evasion      | +8  | Surety        | +8  | Surety DMG % | +10% |
+    | <span style="color: cyan">Debra A</span>  | Dance of the Bold Advance                             | Front Row   | Any Melee + Shield &emsp; &emsp; | Evasion      | +8  | Surety        | +8  | Surety DMG % | +10% |
     
     </div>
     
@@ -270,10 +270,10 @@
         
         | Name     | Passive Name                    | Class   |
         |----------|---------------------------------|---------|
-        | Adam     | Knowledge of the Millenial Lord  &emsp; &emsp; | Mage |          
+        | Adam     | Knowledge of the Millenial Lord  &emsp; &emsp; &emsp; &emsp; | Mage |          
         | Barbara  | Wild Knight                     | Knight  |          
         | Debra    | Skull Study                     | Thief   | 
-        | Gandolfo  &emsp; &emsp; &emsp; | Guard Experience  | Fighter |             
+        | Gandolfo  &emsp; &emsp; &emsp; &emsp; | Guard Experience  | Fighter |             
         | Marianne | Frugal Faith                    | Priest  |            
     
         </div>
@@ -285,16 +285,16 @@
 
         <div class="nofilter-table nosort-table" markdown>
         
-        | Normal MP/SP Cost   | Adj. MP/SP Cost |
-        |:-------------:|:---------:|
-        | 3             | 2         |
-        | 4             | 3         |
-        | 5             | 4         |
-        | 6             | 4         |
-        | 7             | 5         |
-        | 8             | 6         |
-        | 9             | 7         |
-        | 10            | 8         |
+        | Standard MP/SP Cost &emsp; &emsp;   | | Adj. MP/SP Cost |
+        |:-------------:|--|:---------:|
+        | 3             |  | 2         |
+        | 4             |  | 3         |
+        | 5             |  | 4         |
+        | 6             |  | 4         |
+        | 7             |  | 5         |
+        | 8             |  | 6         |
+        | 9             |  | 7         |
+        | 10            |  | 8         |
         
         </div> 
 
@@ -316,17 +316,24 @@
 
 
 
-### Other
+### Special/Other
 
+### Galbadus - Tyrant's Gravity 
+
+- Fundamentally different than the other aggro skills like Attract Hit.
+- The aggro unit of measurement is called "Hate" and ranges from  
+-
+- --Unlike Attract Hit where you attract a specific enemy's attention *to* a party member, 
+- Any enemy targeting
 
 
 #### Camille - Latent Power of Benevolence
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Target HP%           | Recovery % |  
+| Target HP% &emsp; &emsp;          | Recovery % |  
 |:--------------------:|:----------:|
-| 90% &emsp; &emsp; &emsp;   | +8%        | 
+| 90%   | +8%        | 
 | 80%   | +16%       | 
 | 70%   | +24%       | 
 | 60%   | +32%       | 
@@ -343,9 +350,8 @@
 - Caps at +72% additional HP recovery. 
 
 - Presence of Mind
-- Tyrant's Gravity
 - Encore
-- Witching Wisdom
+- Witching Wisdom - Have this need to do a write-up
 
 
 | <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only       | Backrow  | 30%  | Physical | 
