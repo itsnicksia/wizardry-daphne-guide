@@ -231,9 +231,9 @@
     | Gerard                                  | Lightning Celerity        | 1H Sword               | Evasion       | +10 |               |    |                                                
     | <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; | Stormy Onslaught    | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
     | Gillion                                 | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15 | Action Speed  | +8 |    
-    | Kiriha                                  | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |               |    |    
+    | Kiriha                                  | Shadowy Alignment         | Kunai or Dagger        | Evasion       | +8  |               |    |    
     | Livana                                  | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy      | +7 |
-    | Savia                                   | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp;   | Evasion       | +8  |               |    |        
+    | Savia                                   | Soaring Beast Knight      | 2H Spear or Light Armor &emsp; &emsp;   | Evasion       | +8  |               |    |        
     | Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
     | Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
     
@@ -245,21 +245,20 @@
 === "Equipment and Row Conditions"
 
 
-    | Name     | Passive Name                                          | Condition | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
-    |----------|-------------------------------------------------------|-----------|--------------|-----|---------------|-----|
-    | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Front Row | Attack Power | +15 | Defense       | +30 |
-    | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Back Row  | Divine Power | +15 | Magic Defense | +30 |
+    <div class="nofilter-table" markdown>
     
+    | Name     | Passive Name                                          | Row         | Equipment          | Stat Bonus 1 |     | Stat Bonus 2  |     | Stat Bonus 3 |      | 
+    |----------|-------------------------------------------------------|-------------|--------------------|--------------|-----|---------------|-----|--------------|------|
+    | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp;        | Front Row &emsp; &emsp;   |      | Attack Power &emsp; &emsp; | +15 | Defense &emsp; &emsp;       | +30 |              |      |
+    | Ainikki  | Priest Overseeing Life and Death                      | Back Row    |                    | Divine Power | +15 | Magic Defense | +30 |              |      |  
+    | Ainikki  | Priest Overseeing Life and Death                      |             | 1H Blunt           | See Notes    |     |               | +30 |              |      |  
+    | Debra A  | Dance of the Bold Advance                             | Front Row   | Any Melee + Shield &emsp; &emsp; | Evasion      | +8  | Surety        | +8  | Surety DMG % | +10% |
+    
+    </div>
+    
+    Ainikki Notes:
+    - The row bonus is completely separate from the 1H Blunt weapon bonus. The effects stack. 
     - Equipping a 1H Blunt weapon adds 10% of Divine Power to ATK Power up to +100.
-    - If a 1H Blunt weapon is equipped the effect stacks with her row-dependent stat bonuses. 
-    
-    
-    |Name     | Passive Name              | Condition 1           | Condition 2 | Stat Bonus 1 |     | Stat Bonus 2 |    | Stat Bonus 3 |     |
-    |---------|---------------------------|-----------------------|-------------|--------------|-----|--------------|----|--------------|-----|
-    | Debra A | Dance of the Bold Advance | Melee Weapon + Shield | Front Row   | Evasion      | +8  | Surety       | +8 | Surety DMG % | 10% |
-    
-    - Melee Weapon: Any 1H or 2H weapon. Bows excluded. 
-    - Shield: Any
 
 ### MP and SP  
 
