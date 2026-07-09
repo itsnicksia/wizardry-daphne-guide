@@ -180,10 +180,10 @@
 
     - Only activates during the first 3 rounds of combat. If more than one enemy is present the target is randomly selected. 
     - Enemy damage is 150% of Attack Power. The hit is guaranteed and cannot be evaded.  
-    - The debuff increases damage to enemies by 10% and lasts for 3 enemy turns. Note: Foxfire obeys the 3 debuff limit on enemies and can be knocked off. 
+    - The debuff increases damage to enemies by 10% and lasts for 3 enemy turns. Foxfire obeys the 3 debuff limit and can be knocked off. 
     - Not confirmed: 
-        - When Yuzu is in the Ranger class, Foxfire seems to use the class's effective damage formula (1.5 x ACC + 0.50 x ATK Power). 
-        - The 150% damage modifier likely applies to the effective damage (the final value) and not the (0.50) ATK Power portion. Otherwise we would be observing much lower damage values.    
+        - Ranger Yuzu's Foxfire damage seems to use the class's Effective Damage formula = (1.50 x ACC + 0.50 x ATK Power). 
+        - The 150% Attack Power modifier is likely applied *after* Effective Damage is calculated and not to Attack Power directly. Otherwise we would be observing much lower damage values.    
 
 ### Damage Reduction
 
