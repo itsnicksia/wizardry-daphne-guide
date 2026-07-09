@@ -27,7 +27,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 152,Dagger!A152,Dagger,182,Earthrend Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Earth Type"
 158,Dagger!A158,Dagger,185,Cyclops Fang-Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,124,0,0,0,0,-5,0,9,2,0,142,0,0,0,0,-5,0,10,2,0,"Nimble Strike, Evasion Damage"
 164,Dagger!A164,Dagger,Ex.,Sword Stealer,Silver,2,,,64,0,0,0,0,8,10,4,8,0,86,0,0,0,0,8,12,4,8,0,104,0,0,0,0,8,13,4,8,0,117,0,0,0,0,8,14,4,8,0,123,0,0,0,0,8,15,4,8,0,"Nimble Strike (Major), Passive Dexterity Up"
-170,Dagger!A170,Dagger,Ex.,Unenlightenment,Silver,2,,,69,0,0,0,0,4,15,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Humanoid-Slayer, Adventurer-Slayer"
+170,Dagger!A170,Dagger,Ex.,Unenlightenment,Silver,2,,5520,69,0,0,0,0,4,15,0,2,0,91,0,0,0,0,4,17,0,2,0,109,0,0,0,0,4,18,0,2,0,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Humanoid-Slayer, Adventurer-Slayer"
 176,Dagger!A176,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 182,Dagger!A182,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 188,Dagger!A188,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -230,7 +230,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 110,2H_Axe!A110,2H_Axe,218,Beast Crusher,Silver,1,,,132,0,0,0,0,-8,6,0,-6,0,165,0,0,0,0,-8,6,0,-6,0,191,0,0,0,0,-8,6,0,-6,0,214,0,0,0,0,-8,6,0,-6,0,231,0,0,0,0,-8,6,0,-6,0,"Defense Penetration, Strength-Based +, Magical Beast-Slayer"
 116,2H_Axe!A116,2H_Axe,216,Earthrend Two-Handed Axe,Silver,1,,,132,0,0,0,0,-8,6,0,-6,0,165,0,0,0,0,-8,6,0,-6,0,191,0,0,0,0,-8,6,0,-6,0,214,0,0,0,0,-8,6,0,-6,0,231,0,0,0,0,-8,6,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
 122,2H_Axe!A122,2H_Axe,217,Seafoam Two-Handed Axe,Silver,1,,,132,0,0,0,0,-8,6,0,-6,0,165,0,0,0,0,-8,6,0,-6,0,191,0,0,0,0,-8,6,0,-6,0,214,0,0,0,0,-8,6,0,-6,0,231,0,0,0,0,-8,6,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
-128,2H_Axe!A128,2H_Axe,Ex.,Greataxe of the Azure Moon,Silver,1,,,150,0,0,0,0,-8,-15,0,-12,0,189,0,0,0,0,-8,-15,0,-12,0,216,0,0,0,0,-8,-15,0,-12,0,,,,,,,,,,,,,,,,,,,,,"Defense Penetration, Strength-Based +, Clean Hit"
+128,2H_Axe!A128,2H_Axe,Ex.,Greataxe of the Azure Moon,Silver,1,,,150,0,0,0,0,-8,-15,0,-12,0,189,0,0,0,0,-8,-15,0,-12,0,216,0,0,0,0,-8,-15,0,-12,0,229,0,0,0,0,-8,-15,0,-12,0,,,,,,,,,,,"Defense Penetration, Strength-Based +, Clean Hit"
 134,2H_Axe!A134,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Axe!A140,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Axe!A146,2H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
