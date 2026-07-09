@@ -105,6 +105,40 @@
 
 ### Damage Increase
 
+=== "DMG % Increase" 
+
+    === "Table" 
+
+        <div class="nofilter-table nosort-table" markdown>
+            
+        | Name &emsp; &emsp; &emsp; &emsp; &emsp;       | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp; | Description|
+        |------------|--------------------------|----------------------------------------------------------|
+        | Bugen      | Superior Principles      | 20% DMG when using any weapon, skill, or spell with a Type advantage against an enemy. |
+        | Gillion    | Cursed Blood Resonance   | 15% DMG against all enemy types. Not equipment dependent. 5% HP consumed per attack.   |
+        | Ophelia    | Eye of the Hunter        | 20% DMG and +20 Accuracy against Flying enemies. See tab for full list.                |
+            
+        </div>
+
+    === "Flying Enemy List" 
+
+        <div class="nofilter-table nosort-table" markdown>
+        
+        | Enemy Family                    | Notes                                                                   |
+        |---------------------------------|-------------------------------------------------------------------------|
+        | Pixie                           | Base, Earth, Fire, Air, Light, Dark, Water + Capricious variants        |
+        | Entity                          | Air, Fire, Earth, Light, Dark, Ice, Water                               |
+        | Flying Sword                    | Base + Air variant                                                      |
+        | Dragon Fly                      | Dragon Fly, Desert Fly, Flame Fly, Air Dragon Fly                       |
+        | Hawk                            | Forest, Volcano, Snow, Big Snow                                         |
+        | Giant Monster Bird              | Includes Lightning-Clad variant                                         |
+        | The Lurking Flutter Hunting-Fey &emsp; &emsp; &emsp; | Bounty enemy                                                            |
+        | Millennial Lord                 | Variant of Earth Entity                                                 |
+        
+        </div>
+
+        - Drecom confirmed these enemy families directly when inquiried. 
+        - Note that it does not cover all enemies with wings or that float in mid-air such as Greater Demons, Succubuses, etc.
+
 === "<span style="color: cyan">Abenius A</span> - Feat of Swiftness"
 
     <div class="nofilter-table nosort-table" markdown>
@@ -126,46 +160,6 @@
     - The wording of the passive is ambiguous whether it reset per round or only once-per-battle during the opening round. We assume the latter, but this is currently being tested.
     - The scaling is roughly 1% DMG for every 10 ASPD with a cap of 20% DMG at 100+ ASPD.
     - While the DMG % scaling caps at 20%, you are guaranteed an extra 11% damage with just a 1 point ASPD lead.
-
-=== "Bugen - Superior Principles" 
-
-    - 20% extra damage when using a weapon, skill, or spell with a Type Advantage against an enemy.
-    - For example, using Flame-Bearer against an Air-Type enemy.
-    - Stacks with Type Formation synergies for a total of 35% extra damage.   
-
-=== "Gillion - Cursed Blood Resonance" 
-
-    - 5% of Max HP consumed per attack.
-    - 15% damage to all enemy types. This is always active and not equipment dependent. 
-    - Equipping any 2H weapon or Odachi gives +15 Accuracy and +8 Action Speed.  
-
-=== "Ophelia - Eye of the Hunter" 
-
-    === "Effect" 
-    
-        - Enemy must be classified as "Flying". See "Flying Enemy List" tab. 
-        - +20% DMG and +20 Accuracy.
-        - Always active. There are no other conditions that need to be met. 
-
-    === "Flying Enemy List" 
-
-        <div class="nofilter-table nosort-table" markdown>
-        
-        | Enemy Family                    | Notes                                                                   |
-        |---------------------------------|-------------------------------------------------------------------------|
-        | Pixie                           | Base, Earth, Fire, Air, Light, Dark, Water + Capricious variants        |
-        | Entity                          | Air, Fire, Earth, Light, Dark, Ice, Water                               |
-        | Flying Sword                    | Base + Air variant                                                      |
-        | Dragon Fly                      | Dragon Fly, Desert Fly, Flame Fly, Air Dragon Fly                       |
-        | Hawk                            | Forest, Volcano, Snow, Big Snow                                         |
-        | Giant Monster Bird              | Includes Lightning-Clad variant                                         |
-        | The Lurking Flutter Hunting-Fey &emsp; &emsp; &emsp; | Bounty enemy                                                            |
-        | Millennial Lord                 | Variant of Earth Entity                                                 |
-        
-        </div>
-
-        - Drecom confirmed these enemy families directly when inquiried. 
-        - Note that it does not cover all enemies with wings or that float in mid-air such as Greater Demons, Succubuses, etc.
 
 === "<span style="color: cyan">Savia A</span> - Counter-Offensive" 
 
@@ -206,7 +200,7 @@
 
 <div class="nofilter-table" markdown>
 
-| Name &emsp; &emsp; &emsp; &emsp; &emsp; | Passive Name   | Race          | DMG % | DR % |
+| Name &emsp; &emsp; &emsp; &emsp;  | Passive Name   | Race          | DMG % | DR % |
 |-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
 | Benjamin    | Planned Hunting                     | Magical Beast | 20%   | 20%  |
@@ -225,26 +219,47 @@
 
 ### Equipment Bonuses 
 
-<div class="nofilter-table" markdown>
+=== "Equipment Only" 
 
-| Name                                    | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; |      | Stat Bonus 2 &emsp; &emsp;  |     | 
-|-----------------------------------------|---------------------------|------------------------|---------------|-----|---------------|----|
-| Eckart                                  | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |               |    |               
-| <span style="color: cyan">Flut A</span> | Grace of the Great Tree   | 2H Staff               | Magic Power   | +7  | Magic Defense | +7 |                           
-| Gerulf                                  | (Blazing) Branded Hands &emsp; &emsp; &emsp;  | Any 2H                 | Accuracy      | +10 | Chill Limit   | +3 |
-| Gerard                                  | Lightning Celerity        | 1H Sword               | Evasion       | +10 |               |    |                                                
-| <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; &emsp; | Stormy Onslaught    | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
-| Gillion                                 | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15 | Action Speed  | +8 |    
-| Kiriha                                  | Shadowy Alignment         | Kunai or Dagger          | Evasion       | +8  |               |    |    
-| Livana                                  | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy      | +7 |
-| Savia                                   | Soaring Beast Knight      | 2H Spear or Light Armor &emsp; &emsp;   | Evasion       | +8  |               |    |        
-| Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
-| Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
+    <div class="nofilter-table" markdown>
+    
+    | Name                                    | Passive Name              | Condition              | Stat Bonus 1 &emsp;  |      | Stat Bonus 2 &emsp;   |     | 
+    |-----------------------------------------|---------------------------|------------------------|---------------|-----|---------------|----|
+    | Eckart                                  | Eyes of a Hero            | 1H Sword               | Accuracy      | +10 |               |    |               
+    | <span style="color: cyan">Flut A</span> | Grace of the Great Tree   | 2H Staff               | Magic Power   | +7  | Magic Defense | +7 |                           
+    | Gerulf                                  | (Blazing) Branded Hands &emsp; &emsp;              | Any 2H                 | Accuracy      | +10 | Chill Limit   | +3 |
+    | Gerard                                  | Lightning Celerity        | 1H Sword               | Evasion       | +10 |               |    |                                                
+    | <span style="color: cyan">Gerard A</span> &emsp; &emsp; &emsp; | Stormy Onslaught    | 1H Sword, Axe, Blunt | Action Speed | +20  |   |   |  
+    | Gillion                                 | Cursed Blood Resonance    | Any 2H                 | Accuracy      | +15 | Action Speed  | +8 |    
+    | Kiriha                                  | Shadowy Alignment         | Kunai, Dagger          | Evasion       | +8  |               |    |    
+    | Livana                                  | The One Who Enforces      | 2H Axe                 | Surety        | +7  | Accuracy      | +7 |
+    | Savia                                   | Soaring Beast Knight      | 2H Spear, Light Armor &emsp; &emsp;   | Evasion       | +8  |               |    |        
+    | Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
+    | Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
+    
+    </div>
+    
+    - Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
+    - For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
 
-</div>
+=== "Equipment and Row Conditions"
 
-- Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
-- For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
+
+    | Name     | Passive Name                                          | Condition | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
+    |----------|-------------------------------------------------------|-----------|--------------|-----|---------------|-----|
+    | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Front Row | Attack Power | +15 | Defense       | +30 |
+    | Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Back Row  | Divine Power | +15 | Magic Defense | +30 |
+    
+    - Equipping a 1H Blunt weapon adds 10% of Divine Power to ATK Power up to +100.
+    - If a 1H Blunt weapon is equipped the effect stacks with her row-dependent stat bonuses. 
+    
+    
+    |Name     | Passive Name              | Condition 1           | Condition 2 | Stat Bonus 1 |     | Stat Bonus 2 |    | Stat Bonus 3 |     |
+    |---------|---------------------------|-----------------------|-------------|--------------|-----|--------------|----|--------------|-----|
+    | Debra A | Dance of the Bold Advance | Melee Weapon + Shield | Front Row   | Evasion      | +8  | Surety       | +8 | Surety DMG % | 10% |
+    
+    - Melee Weapon: Any 1H or 2H weapon. Bows excluded. 
+    - Shield: Any
 
 ### MP and SP  
 
@@ -267,11 +282,11 @@
         - Exact same passive across all units, covering each of the 5 starter classes for spells or skills that cost 3-10 MP/SP. 
         - Provides a 20% MP or SP reduction. Adjust cost value is rounded down as a floor function (i.e., 3.9 > 3.0).
 
-    === "Cost Reduction" 
+    === "Cost Reduction Table" 
 
         <div class="nofilter-table nosort-table" markdown>
         
-        | Normal Cost   | Adj. Cost |
+        | Normal MP/SP Cost   | Adj. MP/SP Cost |
         |:-------------:|:---------:|
         | 3             | 2         |
         | 4             | 3         |
@@ -291,34 +306,20 @@
     | Name       | Passive Name             | Description                                              |
     |------------|--------------------------|----------------------------------------------------------|
     | Erwin      | Spellcraft Bookmark      | 10% DMG and -2 MP when casting the same spell consecutively.           |
-    | Marianne A &emsp; &emsp; &emsp; | Sacred Healer            | -2 MP when casting Dios or Madios at any skill level.                                 |
+    | <span style="color: cyan">Marianne A</span> &emsp; &emsp; &emsp; | Sacred Healer            | -2 MP when casting Dios or Madios at any skill level.                                 |
     | Raffaello  | Bones of Obsessive Love &emsp; &emsp; &emsp;  | 4 MP per enemy kill. Once per turn.                      |
     
     </div>
     
 === "Shelirionach - Dream of the Sleeping Witch" 
 
+    - To be added.
+
 
 
 ### Other
 
-**Ainikki**
 
-| Name     | Passive Name                                          | Condition | Stat Bonus 1 &emsp; &emsp; | &emsp; &emsp; &emsp;    | Stat Bonus 2 &emsp; &emsp; |  &emsp; &emsp;   | 
-|----------|-------------------------------------------------------|-----------|--------------|-----|---------------|-----|
-| Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Front Row | Attack Power | +15 | Defense       | +30 |
-| Ainikki  | Priest Overseeing Life and Death &emsp; &emsp; &emsp; | Back Row  | Divine Power | +15 | Magic Defense | +30 |
-
-- Equipping a 1H Blunt weapon adds 10% of Divine Power to ATK Power up to +100.
-- If a 1H Blunt weapon is equipped the effect stacks with her row-dependent stat bonuses. 
-
-
-|Name     | Passive Name              | Condition 1           | Condition 2 | Stat Bonus 1 |     | Stat Bonus 2 |    | Stat Bonus 3 |     |
-|---------|---------------------------|-----------------------|-------------|--------------|-----|--------------|----|--------------|-----|
-| Debra A | Dance of the Bold Advance | Melee Weapon + Shield | Front Row   | Evasion      | +8  | Surety       | +8 | Surety DMG % | 10% |
-
-- Melee Weapon: Any 1H or 2H weapon. Bows excluded. 
-- Shield: Any
 
 #### Camille - Latent Power of Benevolence
 
