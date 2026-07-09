@@ -204,8 +204,6 @@
 
 ### Slayer
 
-<div class="nofilter-table nosort-table" markdown>
-
 | Name &emsp; &emsp; &emsp; &emsp; &emsp; | Passive Name   | Race          | DMG % | DR % |
 |-------------|-------------------------------------|---------------|:-----:|:----:|
 | Abenius     | Flickering Fang                     | Magical Beast | 20%   | 20%  |
@@ -217,7 +215,6 @@
 | Yekaterina  | Advice of the Skull                 | Undead        | 20%   | 20%  |
 | Yrsa        | Slayer of the White Calamity        | Magical Beast | 20%   | 20%  |
 
-</div>
 
 - Slayer passives increase DMG to and decrease DMG from a specific enemy race.
 - It is a 20% DMG boost for both General and Legendary units. It can stack with Slayer passives from both weapons and equipment.
@@ -225,7 +222,6 @@
 
 ### Equipment Bonuses 
 
-<div class="nofilter-table nosort-table" markdown>
 
 | Name                                    | Passive Name              | Condition              | Stat Bonus 1 &emsp; &emsp; |      | Stat Bonus 2 &emsp; &emsp;  |     | 
 |-----------------------------------------|---------------------------|------------------------|---------------|-----|---------------|----|
@@ -241,52 +237,54 @@
 | Valdor                                  | Miracle of Faith          | Light Armor            | Magic Defense | +10 |               |    |                      
 | Viviana                                 | Sidestep                  | Cloth Armor            | Evasion       | +10 |               |    |    
 
-</div> 
-
 - Several units get flat stat bonuses from equipping specific gear. The gains are quite small, unfortunately.
 - For units that have both weapon and equipment conditions, they effects are separate. You do not need to equip both pieces of gear. 
 
-### MP and SP Reduction 
+### MP and SP  
 
-=== "Flat %" 
+=== "% Cost Reductions" 
 
     <div class="nofilter-table nosort-table" markdown>
     
-    | Name     | Passive Name                    | Class   | Range      |
-    |----------|---------------------------------|---------|------------|
-    | Adam     | Knowledge of the Millenial Lord  &emsp; &emsp; | Mage    |            |
-    | Barbara  | Wild Knight                     | Knight  &emsp; &emsp; &emsp;  |            |
-    | Debra    | Skull Study                     | Thief   | 3-10 MP/SP  &emsp; &emsp; &emsp; | 
-    | Gandolfo  &emsp; &emsp; &emsp; | Guard Experience                | Fighter |            | 
-    | Marianne | Frugal Faith                    | Priest  |            |
+    | Name     | Passive Name                    | Class   |
+    |----------|---------------------------------|---------|
+    | Adam     | Knowledge of the Millenial Lord  &emsp; &emsp; | Mage |          
+    | Barbara  | Wild Knight                     | Knight  |          
+    | Debra    | Skull Study                     | Thief   | 
+    | Gandolfo  &emsp; &emsp; &emsp; | Guard Experience  | Fighter |             
+    | Marianne | Frugal Faith                    | Priest  |            
 
     </div>
 
     <div class="nofilter-table nosort-table" markdown>
     
-    |               |   |   |   |   |   |   |   |    |
-    |---------------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|
-    | Original Cost | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-    | Adjusted Cost  &emsp; &emsp; &emsp; | 2 | 3 | 4 | 4 | 5 | 6 | 7 | 8  |
+    | Normal Cost   | Adj. Cost |
+    |:-------------:|:---------:|
+    | 3             | 2         |
+    | 4             | 3         |
+    | 5             | 4         |
+    | 6             | 4         |
+    | 7             | 5         |
+    | 8             | 6         |
+    | 9             | 7         |
+    | 10            | 8         |
     
     </div> 
     
     - Exact same passive across all units, covering each of the 5 starter classes for spells or skills that cost 3-10 MP/SP. 
-    - Provides a 20% MP or SP reduction, rounded down as a floor function (i.e., 3.9 > 3.0).
+    - Provides a 20% MP or SP reduction. Adjust cost value is rounded down as a floor function (i.e., 3.9 > 3.0).
 
-=== "Erwin - Spellcraft Bookmark" 
+=== "Flat Reductions and Refunds" 
 
-    - 10% DMG when the same spell is cast consecutively.
-    - -2 MP cost
-    - The damage and MP reduction does not improve with subsequent uses. 
-
-=== "Marianne A - Sacred Healer" 
-
-    - -2 MP for Dios only?
-
-=== "Raffaello - Bones of Obsessive Love" 
-
-    - Restores minor MP to self when defeating an enemy.
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Name       | Passive Name             | Description                                              |
+    |------------|--------------------------|----------------------------------------------------------|
+    | Erwin      | Spellcraft Bookmark      | 10% DMG and -2 MP when casting the same spell.           |
+    | Marianne A &emsp; &emsp; &emsp; | Sacred Healer            | -2 MP when casting Dios.                                 |
+    | Raffaello  | Bones of Obsessive Love &emsp; &emsp; &emsp;  | 4 MP per enemy kill. Once per turn.                      |
+    
+    </div>
     
 === "Shelirionach - Dream of the Sleeping Witch" 
 
@@ -312,26 +310,22 @@
 - Melee Weapon: Any 1H or 2H weapon. Bows excluded. 
 - Shield: Any
 
-
-
-
 #### Camille - Latent Power of Benevolence
 
 <div class="nofilter-table nosort-table" markdown>
 
 | Target HP%           | Recovery % |  
-|----------------------|------------|
-| 100% HP | +0%        | 
-| 90% HP  &emsp; &emsp; &emsp;   | +8%        | 
-| 80% HP  | +16%       | 
-| 70% HP  | +24%       | 
-| 60% HP  | +32%       | 
-| 50% HP  | +40%       | 
-| 40% HP  | +48%       | 
-| 30% HP  | +56%       | 
-| 20% HP  | +64%       | 
-| 10% HP  | +72%       | 
-| 1% HP   | +72%       | 
+|:--------------------:|:----------:|
+| 90% &emsp; &emsp; &emsp;   | +8%        | 
+| 80%   | +16%       | 
+| 70%   | +24%       | 
+| 60%   | +32%       | 
+| 50%   | +40%       | 
+| 40%   | +48%       | 
+| 30%   | +56%       | 
+| 20%   | +64%       | 
+| 10%   | +72%       | 
+| 1%    | +72%       | 
 
 </div>
 
