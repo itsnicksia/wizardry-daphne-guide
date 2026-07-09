@@ -13,16 +13,16 @@ Specifically for this trial, there are no wandering enemies. Upon failing any ch
 Chests are typically static throughout the map variations and difficulties (They are in the same spots at every same map chunk)
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.jpg)
+    ![](img/fighter-map-1.png)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.jpg)
+    ![](img/fighter-map-2.png)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-4.jpg)
+    ![](img/fighter-map-4.png)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-5.jpg)
+    ![](img/fighter-map-5.png)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
