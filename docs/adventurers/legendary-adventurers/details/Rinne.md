@@ -70,7 +70,7 @@
 
         Her new passive is interesting. First, it's a Dagger-focused passive which is a bit of a letdown after the latest Ninjato changes, but it does enable something very unique that hasn't been done before. Skill-based Criticals. While unique, the trigger rate is low enough that it won't often be worth using over her standard Surety-providing passive. The passive itself is only active during Rinne's first action, which based on the description, excludes triggers such as Flutterdream.
 
-        Her Discipline similarly trades Surety for ASPD which is not a great swap, except in very rare cases where the ASPD disc is just enough to get you to your target ASPD threshold.
+        Her Discipline similarly trades Surety for ASPD which is a pretty bad trade since a focused stat of Surety at D9 will result in a +20 surety gain, while a focused stat of ASPD at D9 will result in a +2 ASPD gain over the standard Discipline growth for ASPD.
 
         All in all, her new active skill supplements her base form solidly but the rest of her kit is weaker in general than her standard form, so if you pull, you'll likely want to merge and then swap back.
 
