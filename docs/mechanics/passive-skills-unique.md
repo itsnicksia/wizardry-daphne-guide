@@ -314,53 +314,49 @@
 
     - To be added.
 
+### Healing 
+
+=== "Camille - Latent Power of Benevolence"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Target HP% &emsp; &emsp;          | Recovery % |  
+    |:--------------------:|:----------:|
+    | 90%   | +8%        | 
+    | 80%   | +16%       | 
+    | 70%   | +24%       | 
+    | 60%   | +32%       | 
+    | 50%   | +40%       | 
+    | 40%   | +48%       | 
+    | 30%   | +56%       | 
+    | 20%   | +64%       | 
+    | 10%   | +72%       | 
+    | 1%    | +72%       | 
+    
+    </div>
+    
+    - For every 10% HP lost the recovery amount is increased by 8%.
+    - Caps at +72% additional HP recovery. 
 
 
-### Special/Other
+### Taunt
 
-### Galbadus - Tyrant's Gravity 
+=== "Galbadus - Tyrant's Gravity" 
 
-- Fundamentally different than the other aggro skills like Attract Hit.
-- The aggro unit of measurement is called "Hate" and ranges from  
--
-- --Unlike Attract Hit where you attract a specific enemy's attention *to* a party member, 
-- Any enemy targeting
+    - Taunt Mechanic
+        - The enemy AI uses a hidden stat called "Hate" to determine what unit it attacks. The "taunt" or "aggro" family of skills (Attract Hit, Black Beast Feint (BBF), Lingering Blossom, and so on) manipulates this value so that the odds of being targeted are weighed more heavily toward the user. 
+        - Tyrant's Gravity functions a little differently. Instead of hi-jacking one enemy's decision-making directly it applies a global Hate increase to all enemies at the very start of battle.
+        - The strength of the Hate generated is toward the upper end of the spectrum when compared to other skills, but it is not 100% guaranteed.
+    - Effect Limit
+        - The "effects ends if the user is attacked 3 times" has been a standing point of confusion. What is really means is any enemy that *targets* Galbadus counts toward the 3 action limit.
+        - Even if Galbadus evades an attack or a debuff does not land it still counts. 
+    - The passive shines where you need a unit to absorb the opening attacks from a group of enemies. To take advantage of the passive, most people build him as an Evasion tank for farming or for the Battlefront of Heroes.
 
+### Debuff 
 
-#### Camille - Latent Power of Benevolence
-
-<div class="nofilter-table nosort-table" markdown>
-
-| Target HP% &emsp; &emsp;          | Recovery % |  
-|:--------------------:|:----------:|
-| 90%   | +8%        | 
-| 80%   | +16%       | 
-| 70%   | +24%       | 
-| 60%   | +32%       | 
-| 50%   | +40%       | 
-| 40%   | +48%       | 
-| 30%   | +56%       | 
-| 20%   | +64%       | 
-| 10%   | +72%       | 
-| 1%    | +72%       | 
-
-</div>
-
-- For every 10% HP lost the recovery amount is increased by 8%.
-- Caps at +72% additional HP recovery. 
-
-- Presence of Mind
-- Encore
-- Witching Wisdom - Have this need to do a write-up
+=== "Alt Asha - Witching Wisdom"
 
 
-| <span style="color: cyan">Yekaterina A</span> &emsp; &emsp; &emsp;  | Legendary &emsp; &emsp; | Skull's Tutelage   | Self Only       | Backrow  | 30%  | Physical | 
-
-| Name                   | Passive Name                                       | Condition           | Formation &emsp; &emsp;       | Stat 1 &emsp; &emsp; | Amount &emsp; &emsp; | Stat 2 &emsp; &emsp; | Amount 2 &emsp; &emsp; | 
-
-- This section covers Unique Skills that have complex mechanics, benefit multiple stats, and/or require additional information to fully understand. 
-- Forthcoming.
-
--      Notes:
+Where the hell to put Encore?
      
      - Units with status ailment tolerances as part of their Discipline Skill start at +25 at D1 and gain +5 per level. At D9 the total Tolerance is +65. 
