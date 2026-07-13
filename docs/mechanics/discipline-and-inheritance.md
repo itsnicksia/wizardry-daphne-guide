@@ -142,14 +142,14 @@ Note that inheritance skill level is actually measured in Skill Experience Point
 
 === "Legendary"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 1                | 2                           |
-    | 3                 | 2                | 4                           |
-    | 4                 | 2                | 6                           |
-    | 5                 | 3                | 9                           |
-    | 6                 | 3                | 12                          |
+    | Inheritance Count | Number of Copies | Skill XP | # Cumulative Copies | Cumulatove Skill XP |
+    | ----------------- | ---------------- | ---------| ------------------- | ----- |
+    | 1                 | 1                |      100 | 1                   | 100   |
+    | 2                 | 1                |      100 | 2                   | 200  |
+    | 3                 | 2                |      200 | 4                   | 400   |
+    | 4                 | 2                |      200 | 6                   | 600  |
+    | 5                 | 3                |      300 | 9                   | 900   |
+    | 6                 | 3                |      300 | 12                  | 1,200 |
 
 === "General"
 
