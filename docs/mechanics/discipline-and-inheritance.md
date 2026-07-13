@@ -136,7 +136,7 @@ Skill Inheritance allows an adventurer to both acquire a skill not normally lear
 
 Most Legendary and General Adventurer skills have a maximum inheritance level count of 6 (after reaching maximum inheritance the game will prevent you from further inheriting that skill to that adventurer).  If an adventurer comes with or learns that skill by default, they can reach a maximum level of 7. Anonymous adventurer skills, all of which are passive stat boosts, have a maximum inheritance count of 14 (with very strongly diminishing returns at high level).
 
-Note that inheritance skill level is actually measured in Skill Experience Points (XP).  One character used for inheritance is equivalent to 100 Skill XP. Higher levels of inheritance require more Skill XP to raise skill level.  You can also acquire skill scrolls and books that provide XP (typically 25 or 100) for a specific skill, or codexes of dimilar XP value and can be applied to any skill. The latter are highly valued as rheh are the only way to raise the level of certain skills otherwise unavailable through character inheritance.
+Note that inheritance skill level is actually measured in Skill Experience Points (XP).  One character used for inheritance is equivalent to 100 Skill XP. Higher levels of inheritance require more Skill XP to raise skill level.  You can also acquire skill scrolls and books that provide XP (typically 25 or 100) for a specific skill, or codexes of similar XP value and can be applied to any skill. The latter are highly valued as they are the only way to raise the level of certain skills not otherwise available through character inheritance.
 
 ### Copies Per Inheritance Count
 
