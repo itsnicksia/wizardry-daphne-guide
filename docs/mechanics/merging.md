@@ -3,9 +3,9 @@
 ## Overview
 
 - A limited number of adventurers have alternative versions ("styles") that come with different skills. Merging allows you to combine the standard and alternative style into one adventurer, which can be switched at any time in the Training Room.
-- Merging requires at least one copy of the standard and the alternative style in your Adventure List or Log. After merging, the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits.
+- Merging requires one copy of the standard and the alternative style in your Adventure List or Log. After merging, the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits.
 - There is no downside to merging. Nothing is lost. Merging can be done immediately after pulling a new standard or alternative style copy since no additional merging bonus points are gained from leveling beforehand.
-- The few cases where you might not want to merge are usually related waiting for a character cooy with a higher Fortitude or "Bonus Trait" (see Mechanics in table below), but once the desired characrer is acquired thee is no reason nkt to merge immediately. 
+- The few cases where you might not want to merge are usually related to waiting for a character copy with a higher Fortitude or "Bonus Trait" (see Mechanics in table below), but once the desired character is acquired there is no reason not to merge immediately. 
 
 !!! warning "Basics - Read Me"
 
@@ -27,7 +27,7 @@
 	
 	=== "Mechanics"
 	
-		- <span style="color: #F2473A">Warning!</span> Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy.
+		- <span style="color: #F2473A">Warning!</span> Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy.  
 		- The highest value from either the base or fodder determines: 
 		
 			- Fortitude
@@ -48,9 +48,9 @@
 			- Inherited Skill level XP for Active and Passive Skills and Spells   
 			- Class-learned skills are retained but not "summed".  Examples:  
 			
-				- Both styles are priests, one learned FERU level 1 through inheritance (100 skill XP) and one learned FERU level 2 (100+300=400 skill XP), the merged adventurer will be a priest with 100+400=500 FERU skill XP, or level 2 FERU with 100 XP toward level 3.
-				- If both styles are mages with learned FERU level 1 as part of their class, the merged characters will just have FERU level 1.
-				- If both styles are mages who learned FERU 1 as part of their class, one learned an extra FERU level through inheritance (100 skill XP) to reach FERU level 2, and one learned two FERU levels thriugh inheritance (100+300=400 skill XP) to reach FERU level 3, the merged adventurer will be a mage with 1 class learned FERU plus 100+400=500 FERU skill XP, resulting in level 3 FERU with 100 XP toward level 4.
+				- Both priests, one inherited FERU 1 (100 skill XP) and the other inherited FERU 2 (100+300=400 skill XP). Merged adventurer will have 100+400=500 FERU skill XP, or FERU 2 with 100 XP toward FERU 3.
+				- Both mages learned FERU 1 as part of their classs. Merged characters will just have FERU 1.
+				- Both mages learned FERU 1 as part of their class, one inherited an extra FERU level (100 skill XP) to reach FERU 2, and the other inherited two FERU levels (100+300=400 skill XP) to reach FERU 3. Merged adventurer will have class learned FERU level plus 100+400=500 FERU skill XP, resulting in FERU 3 with 100 XP toward FERU 4.
 	
 	=== "How to Merge" 
 	
