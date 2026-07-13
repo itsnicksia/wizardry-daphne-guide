@@ -154,7 +154,7 @@ Note that inheritance skill level is actually measured in Skill Experience Point
 === "General"
 
     | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulative Skill XP |
-    | ----------------- | ---------------- | --------------------------- | --- |
+    | ----------------- | ---------------- | ----- | ---------------------- | --- |
     | 1                 | 1                | 100 | 1                           | 100 |
     | 2                 | 3                | 300 | 4                           | 400 |
     | 3                 | 5                | 500 | 9                           | 900 |
@@ -164,22 +164,22 @@ Note that inheritance skill level is actually measured in Skill Experience Point
 
 === "Anonymous"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 2                | 3                           |
-    | 3                 | 3                | 6                           |
-    | 4                 | 4                | 10                          |
-    | 5                 | 6                | 16                          |
-    | 6                 | 8                | 24                          |
-    | 7                 | 10               | 34                          |
-    | 8                 | 12               | 46                          |
-    | 9                 | 14               | 60                          |
-    | 10                | 18               | 78                          |
-    | 11                | 20               | 98                          |
-    | 12                | 22               | 120                         |
-    | 13                | 24               | 144                         |
-    | 14                | 26               | 170                         |
+    | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulative Skill XP |
+    | ----------------- | ---------------- | ------ | --------------------- | --- |
+    | 1                 | 1                | 100 | 1                           | 100 |
+    | 2                 | 2                | 200 | 3                           | 300 |
+    | 3                 | 3                | 300 | 6                          | 600 |
+    | 4                 | 4                | 400 | 10                          | 1,000 |
+    | 5                 | 6                | 600 | 16                          | 1,600 |
+    | 6                 | 8                | 800 | 24                          | 2,400 |
+    | 7                 | 10               | 1,000 | 34                          | 3,400 |
+    | 8                 | 12               | 1,200 | 46                          | 4,600 |
+    | 9                 | 14               | 1,400 | 60                          | 6,000 |
+    | 10                | 18               | 1,800 | 78                          | 7,800 |
+    | 11                | 20               | 2,000 | 98                          | 9,800 |
+    | 12                | 22               | 2,200 | 120                         | 12,000 |
+    | 13                | 24               | 2,400 | 144                         | 14,400 |
+    | 14                | 26               | 2,600 | 170                         | 17,000 |
 
 ## Should I use my duplicates for Discipline or Inheritance?
 This is an extremely frequently asked and hotly debated question, and there is no general, community-wide consensus. Both are potentially solid options, and here are some pros and cons of each.
