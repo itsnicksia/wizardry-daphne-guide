@@ -74,4 +74,106 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
 
 ## Fish Details
 
-## Cat Bondmate
+!!! "Rockhome Bass"
+
+    === "Small"
+        - Depth Preference: 5m
+        - Bait Preference: Paste Bait
+        - Distance Preference: Near
+        - Direction Preference: Any
+        - Fight Characteristics: Nothing of note.
+
+    === "Medium"
+        - Depth Preference: 5m
+        - Bait Preference: Earthworm, Red Wiggler
+        - Distance Preference: Any
+        - Direction Preference: Any
+        - Fight Characteristics: Moves side to side, can Frenzy.
+
+!!! "Snowy Redfin"
+
+    === "Small"
+        - Depth Preference: 5m
+        - Bait Preference: Paste Bait
+        - Distance Preference: Any
+        - Direction Preference: Any
+        - Fight Characteristics: Nothing of note.
+
+    === "Medium"
+        - Depth Preference: 5m
+        - Bait Preference: Earthworm, Red Wiggler
+        - Distance Preference: Far
+        - Direction Preference: Any
+        - Fight Characteristics: Nothing of note, can Frenzy.
+
+!!! "Chillbottom Catfish"
+
+    === "Small"
+        - Depth Preference: 15m
+        - Bait Preference: Paste Bait
+        - Distance Preference: Near
+        - Direction Preference: Any
+        - Fight Characteristics: Nothing of note.
+
+    === "Medium"
+        - Depth Preference: 15m
+        - Bait Preference: Earthworm, Red Wiggler
+        - Distance Preference: Any
+        - Direction Preference: Right
+        - Fight Characteristics: Nothing of note, can Frenzy.
+
+!!! "Fatty Winter Salmon"
+
+    === "Small"
+        - Depth Preference: 13m
+        - Bait Preference: Garlic Infused Bait
+        - Distance Preference: Far
+        - Direction Preference: Left or Right
+        - Fight Characteristics: Moves side to side, can Frenzy
+
+    === "Medium"
+        - Depth Preference: 13
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Far
+        - Direction Preference: Any
+        - Fight Characteristics: Moves side to side, occasionally Frenzies.
+
+!!! "Demon Eel"
+
+    === "Small"
+        - Depth Preference: 15m
+        - Bait Preference: Garlic Infused Bait
+        - Distance Preference: Medium or Far
+        - Direction Preference: Middle
+        - Fight Characteristics: Nothing of note.
+
+    === "Medium"
+        - Depth Preference: 15m
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Medium
+        - Direction Preference: Any
+        - Fight Characteristics: Occasionally Frenzies.
+
+!!! "Winter Trout"
+
+    === "Small"
+        - Depth Preference: 9m
+        - Bait Preference: Special Paste Bait
+        - Distance Preference: Close
+        - Direction Preference: Any
+        - Fight Characteristics: Moves side to side, can Frenzy
+
+    === "Medium"
+        - Depth Preference: 9m
+        - Bait Preference: Red Wiggler
+        - Distance Preference: Medium or Far
+        - Direction Preference: Middle
+        - Fight Characteristics: Moves side to side, occasionally Frenzies.
+
+    === "Big"
+        - Depth Preference: 8m
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Far
+        - Direction Preference: Center or Left
+        - Fight Characteristics: Almost always in Frenzy.
+
