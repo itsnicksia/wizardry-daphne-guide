@@ -73,7 +73,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 428,Head!A428,Head,3213,Snow Wolf Trapper Hat,Silver,Cloth,,1275,0,0,0,9,0,1,0,0,6,6,0,0,0,14,0,1,0,0,6,11,0,0,0,19,0,1,0,0,6,16,0,0,0,25,0,1,0,0,6,21,0,0,0,31,0,1,0,0,6,26,Freeze Tolerance
 434,Head!A434,Head,3214,Great Snow Wolf Trapper Hat,Silver,Cloth,,1275,0,0,0,9,0,3,0,0,6,6,0,0,0,14,0,3,0,0,6,11,0,0,0,19,0,3,0,0,6,16,0,0,0,25,0,3,0,0,6,21,0,0,0,31,0,3,0,0,6,26,Freeze Tolerance
 440,Head!A440,Head,3215,Dire Snowbird's Crest Feathers,Silver,Cloth,,1275,0,0,0,1,0,5,0,0,10,6,0,0,0,6,0,7,0,0,12,11,0,0,0,11,0,8,0,0,13,16,0,0,0,17,0,9,0,0,14,21,0,0,0,23,0,10,0,0,15,26,
-446,Head!A446,Head,3216,Snow Beastfolk Fur Mask,Silver,Cloth,,1275,0,0,0,20,0,-10,2,0,0,0,0,0,0,25,0,-10,4,0,0,5,0,0,0,30,0,-10,7,0,0,10,0,0,0,36,0,-10,9,0,0,15,0,0,0,42,0,-10,12,0,0,20,"Maximum Body Temperature Increase, Detect +1/?/?/?/?"
+446,Head!A446,Head,3216,blackwing,Silver,Cloth,,1275,0,0,0,20,0,-10,2,0,0,0,0,0,0,25,0,-10,4,0,0,5,0,0,0,30,0,-10,7,0,0,10,0,0,0,36,0,-10,9,0,0,15,0,0,0,42,0,-10,12,0,0,20,"Maximum Body Temperature Increase, Detect +1/?/?/?/?"
 452,Head!A452,Head,3217,Calm Wind Resistram,Silver,Cloth,,2550,0,0,0,9,0,0,0,0,6,6,0,0,0,14,0,0,0,0,6,11,0,0,0,19,0,0,0,0,6,16,0,0,0,25,0,0,0,0,6,21,0,0,0,31,0,0,0,0,6,26,"Air Type Reduction, Stun Tolerance"
 458,Head!A458,Head,3271,Ancient Grounds of Materia Medica Hood,Silver,Cloth,,1275,0,2,0,7,-1,0,0,0,-1,7,0,4,0,12,-1,0,0,0,-1,12,0,7,0,17,-1,0,0,0,-1,17,0,9,0,22,-1,0,0,0,-1,23,0,12,0,27,-1,0,0,0,-1,29,Paralysis Tolerance
 464,Head!A464,Head,3351,Fine Flower Petal Hat,Silver,Cloth,,1025,0,0,0,10,0,0,0,0,0,6,0,0,0,15,0,0,0,0,0,11,0,0,0,20,0,0,0,0,0,16,0,0,0,26,0,0,0,0,0,21,0,0,0,32,0,0,0,0,0,26,"Faerie exclusive, Promise of Compassion"
@@ -83,14 +83,14 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 488,Head!A488,Head,Ex.,Direbear Hat,Silver,Cloth,,5005,0,0,0,5,5,0,0,0,0,12,0,0,0,11,10,0,0,0,0,18,0,0,0,17,14,0,0,0,0,24,0,0,0,21,17,0,0,0,0,27,0,0,0,24,19,0,0,0,0,29,Stun Tolerance
 494,Head!A494,Head,Ex.,Triumph,Silver,Cloth,,5005,2,0,0,4,4,0,0,0,0,6,4,0,0,10,9,0,0,0,0,12,5,0,0,16,13,0,0,0,0,18,6,0,0,20,16,0,0,0,0,21,7,0,0,23,18,0,0,0,0,23,Blessing of Insight (Two-Handed Sword)
 500,Head!A500,Head,Ex.,Unsullied Flower Ornament,Silver,Cloth,,,0,0,0,6,15,0,0,0,0,5,0,0,0,12,20,0,0,0,0,11,0,0,0,18,24,0,0,0,0,17,0,0,0,22,27,0,0,0,0,20,0,0,0,25,29,0,0,0,0,22,"Faerie exclusive, Charm Tolerance, Confusion Tolerance"
-506,Head!A506,Head,3218,Silver Light Helmet,Silver,Light,,1200,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,0,0,0,38,0,-1,-2,0,-2,19,0,0,0,44,0,-1,-2,0,-2,24,
-512,Head!A512,Head,3219,Earthrend Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Water Type Reduction
-518,Head!A518,Head,3220,Seafoam Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Fire Type Reduction
-524,Head!A524,Head,3362,Heat -Haze Headguard,Silver,Light,,,0,0,0,13,0,-1,-2,0,-2,2,0,0,0,20,0,-1,-2,0,-2,7,0,0,0,25,0,-1,-2,0,-2,12,0,0,0,32,0,-1,-2,0,-2,17,0,0,0,38,0,-1,-2,0,-2,22,"Magical Beast Resistance, Stun Tolerance"
-530,Head!A530,Head,3221,Silver Heavy Helmet,Silver,Heavy,,1425,0,0,0,29,0,-2,-2,0,-4,4,0,0,0,38,0,-2,-2,0,-4,9,0,0,0,43,0,-2,-2,0,-4,14,0,0,0,50,0,-2,-2,0,-4,19,0,0,0,56,0,-2,-2,0,-4,24,
-536,Head!A536,Head,3222,Earthrend Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Water Type Reduction
-542,Head!A542,Head,3223,Seafoam Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Fire Type Reduction
-548,Head!A548,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+506,Head!A506,Head,Ex.,Nightshroud Broad-Brimmed Hat,Silver,Cloth,,5005,0,0,0,8,0,3,0,0,5,8,0,0,0,14,0,5,0,0,7,14,0,0,0,20,0,6,0,0,8,20,,,,,,,,,,,,,,,,,,,,,Obscurement
+512,Head!A512,Head,3218,Silver Light Helmet,Silver,Light,,1200,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,0,0,0,38,0,-1,-2,0,-2,19,0,0,0,44,0,-1,-2,0,-2,24,
+518,Head!A518,Head,3219,Earthrend Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Water Type Reduction
+524,Head!A524,Head,3220,Seafoam Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Fire Type Reduction
+530,Head!A530,Head,3362,Heat -Haze Headguard,Silver,Light,,,0,0,0,13,0,-1,-2,0,-2,2,0,0,0,20,0,-1,-2,0,-2,7,0,0,0,25,0,-1,-2,0,-2,12,0,0,0,32,0,-1,-2,0,-2,17,0,0,0,38,0,-1,-2,0,-2,22,"Magical Beast Resistance, Stun Tolerance"
+536,Head!A536,Head,3221,Silver Heavy Helmet,Silver,Heavy,,1425,0,0,0,29,0,-2,-2,0,-4,4,0,0,0,38,0,-2,-2,0,-4,9,0,0,0,43,0,-2,-2,0,-4,14,0,0,0,50,0,-2,-2,0,-4,19,0,0,0,56,0,-2,-2,0,-4,24,
+542,Head!A542,Head,3222,Earthrend Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Water Type Reduction
+548,Head!A548,Head,3223,Seafoam Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Fire Type Reduction
 554,Head!A554,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 560,Head!A560,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 566,Head!A566,Head,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -329,11 +329,11 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 374,Hands!A374,Hands,Ex.,Gauntlets of Cardinal Silver,Silver,Light,,,0,0,5,20,0,0,0,0,0,0,0,0,5,26,0,0,6,0,0,0,0,0,5,32,0,0,12,0,0,0,0,0,5,36,0,0,16,0,0,0,0,0,5,39,0,0,19,0,0,0,Blunt Weapon Proficiency
 380,Hands!A380,Hands,Ex.,Crimson Cloth Armguards,Silver,Light,,,0,0,0,15,0,0,0,0,3,0,0,0,0,21,0,0,6,0,3,0,0,0,0,27,0,0,12,0,3,0,0,0,0,31,0,0,16,0,3,0,0,0,0,34,0,0,19,0,3,0,Master Provocateur
 386,Hands!A386,Hands,Ex.,Shadowstrike Gauntlets,Silver,Light,,,0,0,0,17,0,4,0,0,0,0,0,0,0,23,0,4,6,0,0,0,0,0,0,29,0,4,12,0,0,0,0,0,0,33,0,4,16,0,0,0,0,0,0,36,0,4,19,0,0,0,Agile Offensive
-392,Hands!A392,Hands,3245,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,0,0,0,30,0,0,3,0,0,0,0,0,0,35,0,0,8,0,0,0,0,0,0,42,0,0,14,0,0,0,0,0,0,48,0,0,20,0,0,0,
-398,Hands!A398,Hands,3246,Heavy Gauntlets of Composure,Silver,Heavy,,,0,0,0,40,-20,-5,0,0,-20,0,0,0,0,49,-20,-5,5,0,-20,0,0,0,0,54,-20,-5,10,0,-20,0,0,0,0,61,-20,-5,16,0,-20,0,0,0,0,67,-20,-5,22,0,-20,0,
-404,Hands!A404,Hands,3267,Grip Gloves,Silver,,,,0,0,0,22,0,1,34,0,0,0,0,0,0,25,0,1,34,0,0,0,0,0,0,27,0,1,34,0,0,0,0,0,0,30,0,1,34,0,0,0,0,0,0,32,0,1,34,0,0,0,"Capture-Alive Rate Up, Detect +5/7/8/9/10"
-410,Hands!A410,Hands,3242,Thick Gloves,Silver,,,6500,0,0,0,8,0,0,2,0,0,0,0,0,0,13,0,0,5,0,0,0,0,0,0,18,0,0,10,0,0,0,0,0,0,24,0,0,17,0,0,0,0,0,0,30,0,0,28,0,0,0,"Freeze Tolerance, Maximum Body Temperature Increase"
-416,Hands!A416,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+392,Hands!A392,Hands,Ex.,Shinobi Gauntlets of Obscurement,Silver,Light,,5299,0,0,0,11,0,3,0,0,3,0,0,0,0,17,0,3,6,0,3,0,0,0,0,23,0,3,12,0,3,0,,,,,,,,,,,,,,,,,,,,,Master of Lying in Wait
+398,Hands!A398,Hands,3245,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,0,0,0,30,0,0,3,0,0,0,0,0,0,35,0,0,8,0,0,0,0,0,0,42,0,0,14,0,0,0,0,0,0,48,0,0,20,0,0,0,
+404,Hands!A404,Hands,3246,Heavy Gauntlets of Composure,Silver,Heavy,,,0,0,0,40,-20,-5,0,0,-20,0,0,0,0,49,-20,-5,5,0,-20,0,0,0,0,54,-20,-5,10,0,-20,0,0,0,0,61,-20,-5,16,0,-20,0,0,0,0,67,-20,-5,22,0,-20,0,
+410,Hands!A410,Hands,3267,Grip Gloves,Silver,,,,0,0,0,22,0,1,34,0,0,0,0,0,0,25,0,1,34,0,0,0,0,0,0,27,0,1,34,0,0,0,0,0,0,30,0,1,34,0,0,0,0,0,0,32,0,1,34,0,0,0,"Capture-Alive Rate Up, Detect +5/7/8/9/10"
+416,Hands!A416,Hands,3242,Thick Gloves,Silver,,,6500,0,0,0,8,0,0,2,0,0,0,0,0,0,13,0,0,5,0,0,0,0,0,0,18,0,0,10,0,0,0,0,0,0,24,0,0,17,0,0,0,0,0,0,30,0,0,28,0,0,0,"Freeze Tolerance, Maximum Body Temperature Increase"
 422,Hands!A422,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 428,Hands!A428,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 434,Hands!A434,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -442,7 +442,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 518,Body!A518,Body,Ex.,Challenger's Training Garb,Silver,Cloth,,,0,0,0,23,3,0,0,0,5,0,0,0,0,35,9,0,0,0,7,0,0,0,0,48,15,0,0,0,8,0,0,0,0,55,18,0,0,0,9,0,0,0,0,63,21,0,0,0,10,0,Dragon Resistance
 524,Body!A524,Body,Ex.,Triumphant Finery,Silver,Cloth,,,3,0,0,17,0,0,0,0,0,0,5,0,0,29,6,0,0,0,0,0,6,0,0,42,12,0,0,0,0,0,7,0,0,49,15,0,0,0,0,0,8,0,0,57,18,0,0,0,0,0,Passive SP Up
 530,Body!A530,Body,Ex.,Blood-Gorging Garment,Silver,Cloth,,,0,0,0,18,-2,1,0,0,10,0,0,0,0,26,4,1,0,0,12,0,0,0,0,38,10,1,0,0,13,0,0,0,0,50,13,1,0,0,14,0,0,0,0,62,16,1,0,0,15,0,HP Absorption on Defeat
-536,Body!A536,Body,Ex.,Garment of the Waterways,Silver,Cloth,,,0,0,0,17,13,0,0,0,0,0,0,0,0,29,19,0,0,0,0,0,0,0,0,42,25,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,"Fire Type Reduction, Magic-Erosion Safeguard"
+536,Body!A536,Body,Ex.,Garment of the Waterways,Silver,Cloth,,,0,0,0,17,13,0,0,0,0,0,0,0,0,29,19,0,0,0,0,0,0,0,0,42,25,0,0,0,0,0,0,0,0,49,28,0,0,0,0,0,0,0,0,57,31,0,0,0,0,0,"Fire Type Reduction, Magic-Erosion Safeguard"
 542,Body!A542,Body,3229,Silver Light Armor,Silver,Light,,,0,0,0,48,0,-1,-2,0,-2,0,0,0,0,62,9,-1,-2,0,-2,0,0,0,0,74,17,-1,-2,0,-2,0,0,0,0,89,26,-1,-2,0,-2,0,0,0,0,102,36,-1,-2,0,-2,0,
 548,Body!A548,Body,3230,Earthrend Mail,Silver,Light,,,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,Water Type Reduction
 554,Body!A554,Body,3231,Seafoam Mail,Silver,Light,,,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,Fire Type Reduction
@@ -524,42 +524,42 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 230,Accessories!A230,Accessories,3332,Fine Bone-Adorned Bracelet,Ebonsteel,Accessory,,,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,"Faerie exclusive, Give of Soul-Soothing"
 236,Accessories!A236,Accessories,3336,Fur Bracelet,Ebonsteel,Accessory,,,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,"Faerie exclusive, Promise of Perseverence"
 242,Accessories!A242,Accessories,3337,Fine Fur Bracelet,Ebonsteel,Accessory,,,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,"Faerie exclusive, Promise of Perseverence"
-248,Accessories!A248,Accessories,?,Light Spirit Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Dark Type Reduction
-254,Accessories!A254,Accessories,?,Umbral Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,4,0,0,0,0,10,15,0,0,0,4,0,0,0,0,17,15,0,0,0,4,0,0,0,0,25,15,0,0,0,4,0,0,0,0,32,15,0,0,0,4,0,Dark Type Reduction
-260,Accessories!A260,Accessories,Ex.,Rabbit Talisman,Ebonsteel,Accessory,,,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,"Critical Tolerance, DisarmTrap, Evade Trap, Detect +2 at +0"
-266,Accessories!A266,Accessories,Ex.,Saintess's Ring,Ebonsteel,Accessory,,,0,0,8,0,18,0,0,0,0,0,0,0,10,0,20,0,0,0,0,0,0,0,11,0,21,0,0,0,0,0,0,0,12,0,22,0,0,0,0,0,0,0,13,0,23,0,0,0,0,0,
-272,Accessories!A272,Accessories,Ex.,Ring of Vengeance,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,7,0,0,0,8,16,0,0,0,0,7,0,0,0,15,16,0,0,0,0,7,0,0,0,21,16,0,0,0,0,7,0,0,0,28,16,0,0,0,0,7,
-278,Accessories!A278,Accessories,Ex.,Knight's Cloak,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Way of the Knight
-284,Accessories!A284,Accessories,Ex.,Safety Ring,Ebonsteel,Accessory,,1225,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,Critical Tolerance
-290,Accessories!A290,Accessories,Ex.,Trollkin Ring,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement"
-296,Accessories!A296,Accessories,Ex.,Lord of the Deep Forest's Ring,Ebonsteel,Accessory,,,0,0,0,1,13,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,16,13,0,0,0,0,0,0,0,0,24,13,0,0,0,0,0,0,0,0,31,13,0,0,0,0,0,Detect/Evade Trap Increase
-302,Accessories!A302,Accessories,Ex.,Old Perch,Ebonsteel,Accessory,,,0,0,0,1,17,0,0,0,6,0,0,0,0,9,17,0,0,0,8,0,0,0,0,16,17,0,0,0,9,0,0,0,0,24,17,0,0,0,10,0,0,0,0,31,17,0,0,0,11,0,"Composure of the Skilled Master, Detect/Evade Trap Increase (+5/+5 at +10)"
-308,Accessories!A308,Accessories,3203,Master Ring,Silver,Accessory,,,13,13,13,20,24,13,13,13,13,13,13,13,13,30,24,13,13,13,13,13,13,13,13,38,24,13,13,13,13,13,13,13,13,48,24,13,13,13,13,13,13,13,13,56,24,13,13,13,13,13,"Passive HP Up, Passive MP Up, Passive SP Up, All stats +13 except Surety Evasion"
-314,Accessories!A314,Accessories,3254,Silver Ring,Silver,Accessory,,,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,
-320,Accessories!A320,Accessories,3260,Shinobi's Black Seal Case,Silver,Accessory,,,0,0,0,3,23,1,0,0,0,0,0,0,0,13,23,3,0,0,0,0,0,0,0,21,23,4,0,0,0,0,0,0,0,31,23,5,0,0,0,0,0,0,0,39,23,6,0,0,0,0,Ninjato Mastery
-326,Accessories!A326,Accessories,3258,Godefroi Holy Relic,Silver,Accessory,,,0,0,5,0,23,0,0,0,0,5,0,0,7,8,23,0,0,0,0,5,0,0,8,15,23,0,0,0,0,5,0,0,9,23,23,0,0,0,0,5,0,0,10,30,23,0,0,0,0,5,
-332,Accessories!A332,Accessories,3259,Slime Core Crystal,Silver,Accessory,,,0,0,0,20,-50,-8,0,0,0,5,0,0,0,34,-50,-8,0,0,0,9,0,0,0,46,-50,-8,0,0,0,13,0,0,0,60,-50,-8,0,0,0,16,0,0,0,71,-50,-8,0,0,0,20,
-338,Accessories!A338,Accessories,3255,Earthrend Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,21,23,0,0,0,0,0,0,0,0,31,23,0,0,0,0,0,0,0,0,39,23,0,0,0,0,0,Water Type Reduction
-344,Accessories!A344,Accessories,3256,Seafoam Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,21,23,0,0,0,0,0,0,0,0,31,23,0,0,0,0,0,0,0,0,39,23,0,0,0,0,0,Fire Type Reduction
-350,Accessories!A350,Accessories,3257,Miner's Ring of Protection,Silver,Accessory,,,0,0,0,3,22,0,0,0,0,0,0,0,0,13,22,0,0,0,0,0,0,0,0,21,22,0,0,0,0,0,0,0,0,31,22,0,0,0,0,0,0,0,0,39,22,0,0,0,0,0,"Paralysis Tolerance, Stun Tolerance"
-356,Accessories!A356,Accessories,3349,Toadskin Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,"Faerie exclusive, Gift of Warding Off Evil"
-362,Accessories!A362,Accessories,3350,Fine Toadskin Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,"Faerie exclusive, Gift of Warding Off Evil"
-368,Accessories!A368,Accessories,3354,Fine Flower Petal Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,"Faerie exclusive, Promise of Compassion"
-374,Accessories!A374,Accessories,3269,Bracelet of Spellcraft Infused with Power,Silver,Accessory,,,0,10,0,30,5,-10,-5,0,10,-10,0,12,0,30,13,-10,-5,0,12,-10,0,13,0,30,20,-10,-5,0,13,-10,0,14,0,30,28,-10,-5,0,14,-10,0,15,0,30,35,-10,-5,0,15,-10,
-380,Accessories!A380,Accessories,3270,Ring of Tactics Infused with Power,Silver,Accessory,,,0,-5,0,-20,30,0,10,5,10,-10,0,-5,0,-20,30,0,12,7,12,-10,0,-5,0,-20,30,0,13,8,13,-10,0,-5,0,-20,30,0,14,9,14,-10,0,-5,0,-20,30,0,15,10,15,-10,
-386,Accessories!A386,Accessories,?,Coal Miner's Bandana,Silver,Accessory,,,0,0,0,3,15,0,0,0,0,10,0,0,0,13,15,0,0,0,0,12,0,0,0,21,15,0,0,0,0,13,0,0,0,31,15,0,0,0,0,14,0,0,0,39,15,0,0,0,0,15,"Fire Type Reduction, Poison Tolerance"
-392,Accessories!A392,Accessories,Ex.,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
-398,Accessories!A398,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,0,0,0,52,39,0,0,0,0,14,0,0,0,55,40,0,0,0,0,15,Sleep Tolerance
-404,Accessories!A404,Accessories,Ex.,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,0,0,0,27,21,0,15,0,0,15,0,0,0,35,21,0,19,0,0,19,0,0,0,42,21,0,21,0,0,21,0,0,0,45,21,0,23,0,0,23,Curse Tolerance
-410,Accessories!A410,Accessories,Ex.,Quiver of the Ironwood Kin,Silver,Accessory,,,0,0,0,8,20,0,0,0,0,12,0,0,0,20,20,0,0,0,0,17,0,0,0,28,20,0,0,0,0,21,0,0,0,35,20,0,0,0,0,23,0,0,0,38,20,0,0,0,0,25,Paralysis Tolerance
-416,Accessories!A416,Accessories,Ex.,Exquisite Trollkin Ring,Silver,Accessory,,,0,0,0,3,20,0,0,0,0,0,0,0,0,13,20,0,0,0,0,0,0,0,0,21,20,0,0,0,0,0,0,0,0,31,20,0,0,0,0,0,0,0,0,39,20,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement (Conditional)"
-422,Accessories!A422,Accessories,Ex.,Large Bag,Silver,Accessory,,,0,0,0,15,40,5,0,0,0,0,0,0,0,27,42,7,0,0,0,0,0,0,0,35,43,8,0,0,0,0,0,0,0,42,44,9,0,0,0,0,0,0,0,45,45,10,0,0,0,0,Dragon Resistance
-428,Accessories!A428,Accessories,Ex.,White Wolf Cape,Silver,Accessory,,,0,0,0,25,12,2,0,0,0,0,0,0,0,37,12,4,0,0,0,0,0,0,0,45,12,5,0,0,0,0,0,0,0,52,12,6,0,0,0,0,0,0,0,55,12,7,0,0,0,0,Skillful Defense
-434,Accessories!A434,Accessories,Ex.,Legato Cape,Silver,Accessory,,,0,0,0,8,15,5,0,0,5,0,0,0,0,20,15,7,0,0,7,0,0,0,0,28,15,8,0,0,8,0,0,0,0,35,15,9,0,0,9,0,0,0,0,38,15,10,0,0,10,0,Dexterity Barrier
-440,Accessories!A440,Accessories,Ex.,Bracelet of Life,Silver,Accessory,,,0,0,0,5,30,0,0,0,0,0,0,0,0,17,30,0,0,0,0,0,0,0,0,25,30,0,0,0,0,0,0,0,0,32,30,0,0,0,0,0,0,0,0,35,30,0,0,0,0,0,"Faerie exclusive, Promise of Compassion, Passive HP Up"
-446,Accessories!A446,Accessories,Ex.,Crest of Ouka's Lineage,Silver,Accessory,,,0,0,0,9,20,0,0,0,8,0,0,0,0,21,20,0,0,0,10,0,0,0,0,29,20,0,0,0,11,0,0,0,0,36,20,0,0,0,12,0,0,0,0,39,20,0,0,0,13,0,Passive SP Up
-452,Accessories!A452,Accessories,Ex.,Lapis Crystal Earrings,Silver,Accessory,,,0,0,0,5,20,0,0,0,0,5,0,0,0,17,22,0,0,0,0,5,0,0,0,25,23,0,0,0,0,5,,,,,,,,,,,,,,,,,,,,,"Fire Type Reduction, Blessing of Insight (Two-Handed Axe)"
-458,Accessories!A458,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+248,Accessories!A248,Accessories,3364,Master Thief's Ring,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,"Passive Luck Up, Detect/disarm +10/+10 (fixed)"
+254,Accessories!A254,Accessories,?,Light Spirit Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,0,0,0,0,0,10,15,0,0,0,0,0,0,0,0,17,15,0,0,0,0,0,0,0,0,25,15,0,0,0,0,0,0,0,0,32,15,0,0,0,0,0,Dark Type Reduction
+260,Accessories!A260,Accessories,?,Umbral Amulet,Ebonsteel,Accessory,,,0,0,0,2,15,0,0,0,4,0,0,0,0,10,15,0,0,0,4,0,0,0,0,17,15,0,0,0,4,0,0,0,0,25,15,0,0,0,4,0,0,0,0,32,15,0,0,0,4,0,Dark Type Reduction
+266,Accessories!A266,Accessories,Ex.,Rabbit Talisman,Ebonsteel,Accessory,,,0,0,0,2,18,0,0,0,0,0,0,0,0,10,18,0,0,0,0,0,0,0,0,17,18,0,0,0,0,0,0,0,0,25,18,0,0,0,0,0,0,0,0,32,18,0,0,0,0,0,"Critical Tolerance, DisarmTrap, Evade Trap, Detect +2 at +0"
+272,Accessories!A272,Accessories,Ex.,Saintess's Ring,Ebonsteel,Accessory,,,0,0,8,0,18,0,0,0,0,0,0,0,10,0,20,0,0,0,0,0,0,0,11,0,21,0,0,0,0,0,0,0,12,0,22,0,0,0,0,0,0,0,13,0,23,0,0,0,0,0,
+278,Accessories!A278,Accessories,Ex.,Ring of Vengeance,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,7,0,0,0,8,16,0,0,0,0,7,0,0,0,15,16,0,0,0,0,7,0,0,0,21,16,0,0,0,0,7,0,0,0,28,16,0,0,0,0,7,
+284,Accessories!A284,Accessories,Ex.,Knight's Cloak,Ebonsteel,Accessory,,1225,0,0,0,2,17,0,0,0,0,0,0,0,0,10,17,0,0,0,0,0,0,0,0,17,17,0,0,0,0,0,0,0,0,25,17,0,0,0,0,0,0,0,0,32,17,0,0,0,0,0,Way of the Knight
+290,Accessories!A290,Accessories,Ex.,Safety Ring,Ebonsteel,Accessory,,1225,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,Critical Tolerance
+296,Accessories!A296,Accessories,Ex.,Trollkin Ring,Ebonsteel,Accessory,,,0,0,0,2,16,0,0,0,0,0,0,0,0,10,16,0,0,0,0,0,0,0,0,17,16,0,0,0,0,0,0,0,0,25,16,0,0,0,0,0,0,0,0,32,16,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement"
+302,Accessories!A302,Accessories,Ex.,Lord of the Deep Forest's Ring,Ebonsteel,Accessory,,,0,0,0,1,13,0,0,0,0,0,0,0,0,9,13,0,0,0,0,0,0,0,0,16,13,0,0,0,0,0,0,0,0,24,13,0,0,0,0,0,0,0,0,31,13,0,0,0,0,0,Detect/Evade Trap Increase
+308,Accessories!A308,Accessories,Ex.,Old Perch,Ebonsteel,Accessory,,,0,0,0,1,17,0,0,0,6,0,0,0,0,9,17,0,0,0,8,0,0,0,0,16,17,0,0,0,9,0,0,0,0,24,17,0,0,0,10,0,0,0,0,31,17,0,0,0,11,0,"Composure of the Skilled Master, Detect/Evade Trap Increase (+5/+5 at +10)"
+314,Accessories!A314,Accessories,3203,Master Ring,Silver,Accessory,,,13,13,13,20,24,13,13,13,13,13,13,13,13,30,24,13,13,13,13,13,13,13,13,38,24,13,13,13,13,13,13,13,13,48,24,13,13,13,13,13,13,13,13,56,24,13,13,13,13,13,"Passive HP Up, Passive MP Up, Passive SP Up, All stats +13 except Surety Evasion"
+320,Accessories!A320,Accessories,3254,Silver Ring,Silver,Accessory,,,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,
+326,Accessories!A326,Accessories,3260,Shinobi's Black Seal Case,Silver,Accessory,,,0,0,0,3,23,1,0,0,0,0,0,0,0,13,23,3,0,0,0,0,0,0,0,21,23,4,0,0,0,0,0,0,0,31,23,5,0,0,0,0,0,0,0,39,23,6,0,0,0,0,Ninjato Mastery
+332,Accessories!A332,Accessories,3258,Godefroi Holy Relic,Silver,Accessory,,,0,0,5,0,23,0,0,0,0,5,0,0,7,8,23,0,0,0,0,5,0,0,8,15,23,0,0,0,0,5,0,0,9,23,23,0,0,0,0,5,0,0,10,30,23,0,0,0,0,5,
+338,Accessories!A338,Accessories,3259,Slime Core Crystal,Silver,Accessory,,,0,0,0,20,-50,-8,0,0,0,5,0,0,0,34,-50,-8,0,0,0,9,0,0,0,46,-50,-8,0,0,0,13,0,0,0,60,-50,-8,0,0,0,16,0,0,0,71,-50,-8,0,0,0,20,
+344,Accessories!A344,Accessories,3255,Earthrend Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,21,23,0,0,0,0,0,0,0,0,31,23,0,0,0,0,0,0,0,0,39,23,0,0,0,0,0,Water Type Reduction
+350,Accessories!A350,Accessories,3256,Seafoam Amulet,Silver,Accessory,,,0,0,0,3,23,0,0,0,0,0,0,0,0,13,23,0,0,0,0,0,0,0,0,21,23,0,0,0,0,0,0,0,0,31,23,0,0,0,0,0,0,0,0,39,23,0,0,0,0,0,Fire Type Reduction
+356,Accessories!A356,Accessories,3257,Miner's Ring of Protection,Silver,Accessory,,,0,0,0,3,22,0,0,0,0,0,0,0,0,13,22,0,0,0,0,0,0,0,0,21,22,0,0,0,0,0,0,0,0,31,22,0,0,0,0,0,0,0,0,39,22,0,0,0,0,0,"Paralysis Tolerance, Stun Tolerance"
+362,Accessories!A362,Accessories,3349,Toadskin Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,"Faerie exclusive, Gift of Warding Off Evil"
+368,Accessories!A368,Accessories,3350,Fine Toadskin Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,"Faerie exclusive, Gift of Warding Off Evil"
+374,Accessories!A374,Accessories,3354,Fine Flower Petal Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,"Faerie exclusive, Promise of Compassion"
+380,Accessories!A380,Accessories,3269,Bracelet of Spellcraft Infused with Power,Silver,Accessory,,,0,10,0,30,5,-10,-5,0,10,-10,0,12,0,30,13,-10,-5,0,12,-10,0,13,0,30,20,-10,-5,0,13,-10,0,14,0,30,28,-10,-5,0,14,-10,0,15,0,30,35,-10,-5,0,15,-10,
+386,Accessories!A386,Accessories,3270,Ring of Tactics Infused with Power,Silver,Accessory,,,0,-5,0,-20,30,0,10,5,10,-10,0,-5,0,-20,30,0,12,7,12,-10,0,-5,0,-20,30,0,13,8,13,-10,0,-5,0,-20,30,0,14,9,14,-10,0,-5,0,-20,30,0,15,10,15,-10,
+392,Accessories!A392,Accessories,?,Coal Miner's Bandana,Silver,Accessory,,,0,0,0,3,15,0,0,0,0,10,0,0,0,13,15,0,0,0,0,12,0,0,0,21,15,0,0,0,0,13,0,0,0,31,15,0,0,0,0,14,0,0,0,39,15,0,0,0,0,15,"Fire Type Reduction, Poison Tolerance"
+398,Accessories!A398,Accessories,Ex.,Dreamblossom Ornament,Silver,Accessory,,,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
+404,Accessories!A404,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,0,0,0,52,39,0,0,0,0,14,0,0,0,55,40,0,0,0,0,15,Sleep Tolerance
+410,Accessories!A410,Accessories,Ex.,Ring of Torment Purging,Silver,Accessory,,,0,0,0,15,21,0,10,0,0,10,0,0,0,27,21,0,15,0,0,15,0,0,0,35,21,0,19,0,0,19,0,0,0,42,21,0,21,0,0,21,0,0,0,45,21,0,23,0,0,23,Curse Tolerance
+416,Accessories!A416,Accessories,Ex.,Quiver of the Ironwood Kin,Silver,Accessory,,,0,0,0,8,20,0,0,0,0,12,0,0,0,20,20,0,0,0,0,17,0,0,0,28,20,0,0,0,0,21,0,0,0,35,20,0,0,0,0,23,0,0,0,38,20,0,0,0,0,25,Paralysis Tolerance
+422,Accessories!A422,Accessories,Ex.,Exquisite Trollkin Ring,Silver,Accessory,,,0,0,0,3,20,0,0,0,0,0,0,0,0,13,20,0,0,0,0,0,0,0,0,21,20,0,0,0,0,0,0,0,0,31,20,0,0,0,0,0,0,0,0,39,20,0,0,0,0,0,"Continuing Healing, Dragon Slayer Enhancement (Conditional)"
+428,Accessories!A428,Accessories,Ex.,Large Bag,Silver,Accessory,,,0,0,0,15,40,5,0,0,0,0,0,0,0,27,42,7,0,0,0,0,0,0,0,35,43,8,0,0,0,0,0,0,0,42,44,9,0,0,0,0,0,0,0,45,45,10,0,0,0,0,Dragon Resistance
+434,Accessories!A434,Accessories,Ex.,White Wolf Cape,Silver,Accessory,,,0,0,0,25,12,2,0,0,0,0,0,0,0,37,12,4,0,0,0,0,0,0,0,45,12,5,0,0,0,0,0,0,0,52,12,6,0,0,0,0,0,0,0,55,12,7,0,0,0,0,Skillful Defense
+440,Accessories!A440,Accessories,Ex.,Legato Cape,Silver,Accessory,,,0,0,0,8,15,5,0,0,5,0,0,0,0,20,15,7,0,0,7,0,0,0,0,28,15,8,0,0,8,0,0,0,0,35,15,9,0,0,9,0,0,0,0,38,15,10,0,0,10,0,Dexterity Barrier
+446,Accessories!A446,Accessories,Ex.,Bracelet of Life,Silver,Accessory,,,0,0,0,5,30,0,0,0,0,0,0,0,0,17,30,0,0,0,0,0,0,0,0,25,30,0,0,0,0,0,0,0,0,32,30,0,0,0,0,0,0,0,0,35,30,0,0,0,0,0,"Faerie exclusive, Promise of Compassion, Passive HP Up"
+452,Accessories!A452,Accessories,Ex.,Crest of Ouka's Lineage,Silver,Accessory,,,0,0,0,9,20,0,0,0,8,0,0,0,0,21,20,0,0,0,10,0,0,0,0,29,20,0,0,0,11,0,0,0,0,36,20,0,0,0,12,0,0,0,0,39,20,0,0,0,13,0,Passive SP Up
+458,Accessories!A458,Accessories,Ex.,Lapis Crystal Earrings,Silver,Accessory,,,0,0,0,5,20,0,0,0,0,5,0,0,0,17,22,0,0,0,0,5,0,0,0,25,23,0,0,0,0,5,0,0,0,32,24,0,0,0,0,5,0,0,0,35,25,0,0,0,0,5,"Fire Type Reduction, Blessing of Insight (Two-Handed Axe)"
 464,Accessories!A464,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 470,Accessories!A470,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 476,Accessories!A476,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

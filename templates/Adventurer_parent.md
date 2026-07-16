@@ -1,11 +1,11 @@
 {% set chardata = pd_read_csv('../data/adventurers.csv', 
    index_col='Name').fillna("").loc[title] %}
 
-# {{title}}  
+# {{title}}  ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Primary Class'].replace(" ","-") | lower}}.jpg){align=right width="350" height=auto}  
 [{{title}}'s Life Story](../life-stories/{{title.replace(" ","-")}}.md)  
 {%if chardata['Personal Request'] %}[{{title}}'s Personal Request](../legendary-requests/{{title.replace(" ","-") | lower}}/{{title.replace(" ","-") | lower}}-request.md)  {% endif %}  
 
-## Basic Info:  
+## Basic Info  
 **Rarity**: {{ chardata['Rarity'] }}  
 **Race**: {{ chardata['Race'] }}  
 **Gender**: {{ chardata['Gender'] }}  
@@ -60,7 +60,7 @@
 ## Skills
 
 {% if chardata['Alternate Style'] %}
-!!! note "Merging: If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills. [See Merging Guide](/mechanics/merging.md)."
+!!! note "Merging: If standard {{title}} and {{chardata['Alternate Style']}} {{title}} are merged, inheritable skills are shared by both styles, but changing styles will swap any style-specific uninheritable passive and discipline skills. [See Merging Guide](../../../mechanics/merging.md)."
 {% endif %}
 
 !!! info "Inheritable Skill"
@@ -111,6 +111,29 @@
         {% block AltDisciplineFreetext %}
         {% endblock AltDisciplineFreetext %}
 {% endif %}
+
+??? info "Class-learned Skills List"
+    === "Class: {{chardata['Primary Class']}}"
+{% if chardata['Primary Class'] in 
+ ["Samurai of the Black Rod", "Mage of the Black Rod",
+  "Tall Mage", "Silver-Haired Nun"]%}
+        {{ populate_quicklist(filter_values=[chardata['Primary Class']], filter_column='Class', file='unique-class-skills.csv', return_columns=['Name','Level']) | complete_unique_skills_list | sort_mixed_values(sortcol="Level") | linkify_quicklist_skillnames(page.file.src_uri)| convert_to_md_table | add_indentation(spaces=8) }} 
+{% else %}
+        {{ populate_quicklist(filter_values=[chardata['Primary Class']], filter_column='Class', file='skills.csv', return_columns=['Level','Name','Type','Restriction']) | sort_mixed_values(sortcol="Level") | mage_element_trim(chardata['Primary Class'], chardata['Type']) | linkify_quicklist_skillnames(page.file.src_uri) | convert_to_md_table | add_indentation(spaces=8) }}
+{% endif %}
+
+
+{% if chardata['Secondary Class'] %}
+    === "Class: {{chardata['Secondary Class']}}" 
+{% if chardata['Secondary Class'] in 
+ ["Samurai of the Black Rod", "Mage of the Black Rod",
+  "Tall Mage", "Silver-Haired Nun"]%}
+        {{ populate_quicklist(filter_values=[chardata['Secondary Class']], filter_column='Class', file='unique-class-skills.csv', return_columns=['Name','Level']) | complete_unique_skills_list | sort_mixed_values(sortcol="Level") | linkify_quicklist_skillnames(page.file.src_uri)| convert_to_md_table | add_indentation(spaces=8) }} 
+{% else %}
+        {{ populate_quicklist(filter_values=[chardata['Secondary Class']], filter_column='Class', file='skills.csv', return_columns=['Level','Name','Type','Restriction']) | sort_mixed_values(sortcol="Level") | mage_element_trim(chardata['Secondary Class'], chardata['Type']) | linkify_quicklist_skillnames(page.file.src_uri) | convert_to_md_table | add_indentation(spaces=8) }}
+{% endif %}
+{% endif %}  
+
 
 {% block ReviewsAndAnalysis %}
 {% endblock ReviewsAndAnalysis %}

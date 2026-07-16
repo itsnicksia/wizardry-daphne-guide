@@ -93,13 +93,16 @@
         - If you want the Mana Elixir x3 that is located in the Treasure Room via the deck hatch you will need to select "Arena 5". 
         - Use the nearby Harken and go to your desired floor. 
 
-    === "Technical Notes" 
+    === "Trouble-Shooting" 
         - Bounties
             - If you are above Bounty Rank 8 you will need to toggle "Octoranus Defeated" or the higher rank bounties may not appear. 
         - Pier (District 7) Bone 
             - If the listed steps do not work, then there is an alternative method. 
             - Follow all of the steps listed previously, but instead of "Leaping" to "Rickert's Shop" instead select "One-Eyed Sahuagin", traverse all of District 6, reach the Pier, and see if the chest respawned. 
             - Wheeling to a point before you encounter the map chest tends to "unstick" stubborn flags. 
+        - 2x CW Solution
+            - Another alternative is after doing all the steps in the "Guide" section simply "Leap" to the same node one more time. 
+            - For example, if you ended on "Rickert's Shop" or "Arena 5", then just leap on that same node again and see if it populates the chest. 
         - Last Resort Solution
             - If nothing you are doing is working, then you can CW to A1 and "Leap" to "Awakening". 
             - You will have to go through the entire tutorial area again, which can take 10 to 15 minutes. 

@@ -436,11 +436,11 @@ Note: The stat that is negatively impacted is usually -1 per level (max of -6 at
 <small><sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6. The matching alignment bonus level is +1 SUR.<br> 
 <sup>††</sup> These are rough estimates. Could range from 0.5-1% per level.</small> 
 
-## Where to farm
+## Farming Locations
 
-See the [List of Relic Power Effects](#list-of-relic-power-effects) for which monster drops each relic, and [How to Obtain Relics](#how-to-obtain-relics) for the mechanics behind when a monster can drop one.
+- See the [List of Relic Power Effects](#list-of-relic-power-effects) for which monster drops each relic, and [How to Obtain Relics](#how-to-obtain-relics) for the mechanics behind when a monster can drop one.
+- The document below has a summary of relic farming locations **updated to Abyss 3** courtesy of BeautifulDemise.
+- To view the document in a new tab click [here](https://docs.google.com/document/d/e/2PACX-1vSCQD8aLcDjKdQ2NbvgWx8_spmZP5XW7g3HoFHKZLAXiF9bjwxojl_VUX7Uk4_c-bVkadrNGy-PZxWb/pub){target="_blank" rel="noopener"}.
 
-The document below suggests places to farm some of these relics. It is **updated up to Abyss 3**, so it only covers relics and spots available up to that point. Expand it to view it inline, or [open it in a new tab](https://docs.google.com/document/d/e/2PACX-1vSCQD8aLcDjKdQ2NbvgWx8_spmZP5XW7g3HoFHKZLAXiF9bjwxojl_VUX7Uk4_c-bVkadrNGy-PZxWb/pub){target="_blank" rel="noopener"}. Document courtesy of BeautifulDemise.
-
-??? note "Show BeautifulDemise's relicbrew farming list"
+??? note "Relic Farming List"
     <iframe style="width: 100%; height: 40rem;" src="https://docs.google.com/document/d/e/2PACX-1vSCQD8aLcDjKdQ2NbvgWx8_spmZP5XW7g3HoFHKZLAXiF9bjwxojl_VUX7Uk4_c-bVkadrNGy-PZxWb/pub?embedded=true" loading="lazy"></iframe>

@@ -273,4 +273,4 @@ but this requires stacking Magic Power up to around 200 for each.
 
 ## Relicbrew Farming
 
-For suggested places to farm relics (used to make Relicbrews), see [Where to farm](../adventurer-customization/relicbrew.md#where-to-farm) in the Relicbrews guide.
+For suggested places to farm relics (used to make Relicbrews), see [Where to farm](../adventurer-customization/relicbrew.md#farming-locations) in the Relicbrews guide.

@@ -333,7 +333,9 @@
 
     === "Bondmate"
 
-        - Details coming soon or see Isberg - Bondmate page
+        - Farming the bondmate is straight forward. Reset the request by wheeling back-and-forth to Minor Harken Beyond the Blizzard. 
+        - Choose to spare (not fight) the Snow Wolf Leader for the bondmate. 
+        - The new request, Rebuild Rockhome Village, has removed several enemies from Route 6. This may be patched in the future, but currently present as of 7/5. 
 
 ## Passed Through the Coal Mine
 
@@ -381,57 +383,75 @@
 
 ### Traces of Indigenous People
 
-You need to complete Ore Mining. Otherwise, this request will automatically fail.
+??? warning "Important Notes" 
 
+    - Pre-requisite request: 
+        - [Ore Mining](./requests.md#ore-mining) 
+        - If not completed the request will automatically fail  
+    - The 4 fights have Stonefolk with extremely high HP and Defense, particularly the final fight. There is a Fountain on the floor if you need to recover. 
+    - Each fight begins with an unavoidable status ailment. We recommend bringing a Healer, Priest, or items to clear the ailments as quickly as possible. 
+    
 ??? note "Request Guide"
 
     === "Walkthrough"
 
-        - Accept request at tavern then head to Route 10 via Route 9 Harken.
-        - You will essentially be looking for shiny objects on the floor.
-        - Locations of all shiny objects are static: (X:17, Y:9), (X:7, Y:9), (X:13, Y:0)
-        - Final shiny object will spawn after all 3 objects are collected at (X:6, Y:24)
-        - Upon collection you will engage in a battle with Stonefolk. You can choose to decline the fight by putting the stone down, in which you may pick it up again. After winning the fight, the request will be marked as completed. You must return and turn it in.
-
+        - Accept the Guild request and then head to Route 10 via the Route 9 Harken.
+        - The goal is to collect Warm Stone Fragments, which appear as shiny objects on the ground. Total of 4 static locations. See tab for details. 
+        - Once a stone is picked up you will be given the option to put it back down. Picking it up will lead to a battle against a group of Stonefolk. 
+        - After collecting 3 Warm Stone Fragments the 4th location will spawn (X:6, Y:24) for the Large Warm Stone Fragment. This is a significantly more challenging fight. 
+        - The reward is based on the total number of Warm Stone Fragments collected without leaving the floor. When finished return to the Guild and submit the request. 
+    
             ??? warning "Rewards"
     
-                - Turning in less than 3 stones = Just some gold
-                - Turning in 3 stones = Gold and some junk
-                - Turning in 3 stones + 1 large stone = Gold + 2 types of junk + Icebreaker sword
+                - Less than 3x Warm Stone Fragments = Gold
+                - 3x Warm Stone Fragments = Gold and Junk
+                - 3x Warm Stone Fragments + 1x Large Warm Stone Fragment  = Gold + 2 types of Junk + Icebreaker Sword (1/3 Strength and -30 Shatter value)
 
     === "Stone Locations"
 
-        | Location | Enemies | Status Effect |
-        |----------|---------|---------------|
-        | (X:17, Y:9) | 1 Stonefolk | Whole team starts Cursed |
-        | (X:7, Y:9) | 3 Stonefolk | Whole team starts with Critical Poison |
-        | (X:13, Y:0) | 2 Stonefolk | Whole team starts with Paralysis |
-        | (X:6, Y:24) | 4 Stonefolk | Whole team starts with Fear |
+        <div align="center">
+        ![](./img/traces-shiny-locations.png)
+        </div>
 
-        - The Stonefolk in these fights all have extremely high HP and DEF. The last battle will be even moreso, especially the ones in the back.
+        | Location    | Enemies     | Status Effect                          |
+        |-------------|-------------|----------------------------------------|
+        | (X:17, Y:9) | 1 Stonefolk | Whole team starts Cursed               |
+        | (X:7, Y:9)  | 3 Stonefolk | Whole team starts with Critical Poison |
+        | (X:13, Y:0) | 2 Stonefolk | Whole team starts with Paralysis       |
+        | (X:6, Y:24) | 4 Stonefolk | Whole team starts with Fear            |          
+
 
 ## Truth of the Beautiful Ore 
 
 ### Trial of the Stone God
 
-This request requires Ore Mining and Find my Kitty (including all their pre-reqs obviously). You also need to have completed at least the 3rd ending for this abyss?
+??? warning "Important Notes" 
+
+    - Pre-requisite requests: 
+        - [Special Local Delicacy](./requests.md#special-local-delicacy) 
+        - [Unforgivable Wolves](./requests.md#unforgivable-wolves) 
+        - [Ore Mining](./requests.md#ore-mining) 
+    - After completing Ore Mining you can CW forward to Truth of the Beautiful Ore with GWO 4-3 or 4-4 ending toggles. 
+    - You do not need to complete [Find My Kitty](#find-my-kitty) or its associated pre-requisite requests. 
+    - To reset the request, CW again on Truth of the Beautiful Ore. If you CW anywhere outside of A4 you will have to redo all of the pre-requisite requests. 
 
 ??? note "Request Guide"
 
     === "Walkthrough"
 
-        - Request requires you to go to Route 10 to pick the warped daphnes and bring them to the Church Grounds altar at the bottom right of the map.
-        - It's recommended to take the Church Grounds Harken and walk backwards to Route 10 as it is closer with less enemies.
-        - The daphnes are consumed upon being placed on the altar, so any subsequent runs require you to pick them again.
-        - Entering the altar will lock the door behind you. There will be several trials that must be overcome.
+        - Request requires you to go to Route 10 to pick the Daphnes and bring them to the Church Grounds altar at the bottom right of the map.
+        - It is recommended to take the Church Grounds Harken and walk backwards to Route 10 as it is closer with fewer enemies.
+        - The Daphnes are consumed upon being placed on the altar, so any subsequent runs require you to pick them again.
+        - Once you enter the Chapel the door will lock behind you. Proceed forward for the trials. There are no roaming enemies at this stage. 
+        - You will gain additional options on your second run. 
 
     === "Trials"
 
         ??? danger "Trial 1 - Ambush"
 
-            - You will be jumped by 5 Stonefolk (3 in front, 2 in back). They have very high HP and DEF compared to random encounter ones.
-            - (2nd run onwards) You may close your eyes to skip this fight.
-
+            - You will be ambushed by 5 Stonefolk (3 in front, 2 in back). They have very high HP and DEF compared to random encounter ones.
+            - (2nd run onwards) Close your eyes to skip the fight.
+            
         ??? danger "Trial 2 - Name"
 
             - The trial will ask for your name.
@@ -449,39 +469,47 @@ This request requires Ore Mining and Find my Kitty (including all their pre-reqs
             - The altar allows you to pray or not.
             - **Pray** = Instant death
             - **Do nothing** = Receive a Devotional Stone
-            - After exiting the altar room, all the previous stationary Stonefolk become "sentries" that will force you into a difficult fight if you enter their line of sight. They can only see in a straight line in front of them and other Stonefolk block their line of sight. There will also be roaming enemies that are relatively weak.
+            - After exiting the altar room, all the stationary Stonefolk are now map hazards. If you step into their line of sight, even from several tiles away, you will be forced into a difficult fight that you cannot flee. 
+            - There are a few roaming enemies that are relatively weak. Do not try to avoid them if it means stepping in front of a stationary Stonefolk. 
             - Upon reaching the entrance of the altar, the door will unlock.
 
     === "Turn-in"
 
         ??? note "1st Run"
 
-            - The request giver has ran away. Instead, the merchant from the Ore Mining request will appear.
+            - The request giver runs away. Instead, Balsamo, the merchant from the Ore Mining request will appear.
             - He will tell you that you got scammed and ask to buy the Devotional Stone.
             - Selling it will give some flavor text that indicates the dwarves may want to use this stone.
 
         ??? note "2nd Run"
 
-            - Lulunarde will ask you to try to sus out the person, but the new option doesn't really do anything.
+            - Lulunarde will ask you to try to sus out the request giver, but the new option doesn't really do anything.
             - The entire ordeal will play out the same, except you can skip the 1st Trial by closing your eyes.
-            - When returning to the tavern, you can give the stone to the requester for some gold and junk. She will promptly be chased out by the ore merchant.
-            - You will actually keep the Devotional Stone. Its use is not yet known.
+            - When returning to the Guild, you can give the stone to the requester for some Gold and Junk. Balsamo will appear and chase her away. 
+            - You can keep the Devotional Stone. Its use is not yet known.
 
 ### Arena Tourney Hosted by Avare! Chase Back-to-Back Wins!
 
-This request requires Trial of the Stone God and Arena Tourney Hosted by Avare! completed for this to show up.
+??? warning "Important Notes" 
 
+    - Pre-requisite requests: 
+        - [Trial of the Stone God](#trial-of-the-stone-god) 
+        - Arena Tourney Hosted by Avare! (The A2 post-GWO request) 
+    - This request is offered in Isberg, not Port Town. 
+    - To reset the request, CW on Truth of the Beautiful Ore. You will have to complete the Trial of the Stone God each time. 
+  
 ??? note "Request Guide"
 
     === "Walkthrough"
 
-        - The request is quite straightforward. Pick up the request in Isberg and accept going to the tourney.
+        - The request is straightforward. Accept the request in Isberg, go to A2, and then the Upper Deck - Arena.   
         - There are 4 rounds in the Tournament. It's similar to the one in A2, except obviously it's scaled to A4 difficulty.
+        - After each round you will be given the option to leave. There are unique Valuable rewards if you exit after Round 2 or Round 3 for compendium completion. 
         - After winning all 4 rounds, receive the Dragon's Keen Talon and bring it back to Balsamo.
 
             ??? warning "Rewards"
-                - Some Gold
-                - Balsamo will become a Bondmate. He gives Trap Detect.
+                - 40,000 Gold
+                - Balsamo will become a Bondmate. He gives +30 Trap Find at Level 1.
 
     === "Battle Composition Per Round"
 
@@ -505,9 +533,10 @@ This request requires Trial of the Stone God and Arena Tourney Hosted by Avare! 
             ![](./img/avare-3.png)
 
             - The Necromancer immediately summons 2 Wights and 2 Skeleton Mages in the back row and permanently buffs them with DEF Up.
-            - Vampires have very low HP
-            - Wights prioritize using SP drain, Skeleton mage and Necromancer have typical moveset.
-            - Necromancer is immune to CT Down.
+            - Vampires have very low HP. They will usually use a basic attack (Dark Type) or try to put your units to Sleep. 
+            - Wights act twice per round and prioritize using MP and SP drain. These attacks are painful and can take off 50-60 MP or SP per hit. Unless you have brought SP potions, it is critical to take them out immediately. 
+            - Skeleton Mages can cast Lazelos, which can 1-shot any Light unit. They are fairly susceptible to Scrolls of Purification (Marein).  
+            - Necromancer has a typical moveset and can re-summon the entire backrow. Immune to Chrono and Delay Attack. 
     
         ??? danger "Round 4"
 
@@ -516,7 +545,8 @@ This request requires Trial of the Stone God and Arena Tourney Hosted by Avare! 
             - Cyclops has around 80k HP. It is also effectively surety immune (just very high surety evasion)
             - Has 2 actions a turn. Otherwise, typical Cyclops moveset.
             - After taking enough damage, gains a permanent ATK, ACC, and CT up buff.
-        -
+            - Requires 20 Chill in order to Freeze and has 30 Freeze stacks before it can be shattered. 
+            - Keeping it Frozen through its Rampage cycle while also defending (to proc openings) can help with survivability. 
 
 ### Rebuilding Rockhome Village
 

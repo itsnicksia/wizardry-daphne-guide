@@ -150,15 +150,34 @@
     
      </div>
 
-=== "Data Accuracy Note"
 
-    - The Knight class has the largest number of passives that scale off of Luck. Passives with a proc chance % that scale off of a Trait are the most difficult to test. 
-    - We have confirmed that all proc-based skills and passives have two parts.
-        - Base % when Trait = 0 
-        - Scaling % linked to a specific Trait
-        - Actual % = `[Base %] + [Scaling %]`
-    - For testing we used low Luck units to approximate the Base %, which is what you see in the tables. Your actual rates will be higher, view these as minimum values. 
-    - We are in the process of collecting more data and deriving a Luck scaling formula per level, which will be added in the future.  
+=== "Formula Estimate" 
+
+    === "Data Accuracy" 
+
+        - The Knight class has the largest number of passives that scale off of Luck. Passives with a proc chance % that scale off of a Trait are the most difficult to test. 
+        - For testing we used low Luck units to approximate the Base %, which is what you see in the tables. Your actual rates will be higher, view these as minimum values. 
+        - The [Scaling Factor] is inferred from collected data, but we do know there is a significant jump (almost 2x) at level 4 for every single skill or passive that scales off of a Trait for its effect. 
+
+    === "Components" 
+    
+        - Assumptions
+            - Base % when Trait = 0  
+            - Scaling % based on unit's Luck stat
+            - Actual % = [Base %] + [Scaling %]
+        - Scaling % 
+            - Scaling % = ([Unit's Luck] x [Scaling Factor])/100
+            - The [Scaling Factor] estimate for Lv 1-3 is 35% and Lv 4-7 is 70%
+
+    === "Example - Cover Defense" 
+    
+        - Assumptions
+            - Unit with 50 Luck 
+            - Skill Level 4 
+        - Calculation
+            - Base % at Lv 4 = 9%
+            - Scaling % at Lv 4 = ([50] x [70%])/100 = 35%
+            - Actual % = [Base %] + [Scaling %] = 9% + 35% = 44%
 
 === "Assault Guard" 
 
@@ -196,12 +215,9 @@
     |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6 | Lv7 |
     |--------------------|-----|-----|-----|-----|------|-----|-----|
     | Base Proc Chance % &emsp; &emsp; &emsp; &emsp; | 5%  | 6%  | 8%  | 9%  | 12%  | 14% | 18% |
+    | Scaling Factor     | 35%  | 35%  | 35%  | 70%  | 70%  | 70% | 70% |
 
     </div>
-
-    - The values in the table are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %. 
-    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula. 
-    - Note: The base proc chance % is nearly identical to Unyielding Will to Fight. We suspect that they are using the same formula. 
 
 === "Magic Guard" 
 
@@ -223,12 +239,10 @@
     |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
     |--------------------|-----|-----|-----|-----|-----|-----|-----|
     | Base Proc Chance % &emsp; &emsp; &emsp; | 15% | 18% | 23% | 26% | 31% | 35% | 40% |
+    | Scaling Factor     | 35%  | 35%  | 35%  | 70%  | 70%  | 70% | 70% |
+
 
     </div> 
-    
-    - Values are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %.
-    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula.
-    - The Knight Trial exchange shop has 1 skill scroll (100 EXP). Strongly suggesting using it on MC. 
 
 === "Unyielding Will to Fight" 
 
@@ -237,19 +251,19 @@
     |                    | Lv1 | Lv2 | Lv3 | Lv4 | Lv5  | Lv6 | Lv7 |
     |--------------------|-----|-----|-----|-----|------|-----|-----|
     | Base Proc Chance % &emsp; &emsp; &emsp; &emsp; | 5%  | 6%  | 8%  | 9%  | 12%  | 14% | 18% |
+    | Scaling Factor     | 35%  | 35%  | 35%  | 70%  | 70%  | 70% | 70% |
 
     </div>
-
-    - The values in the table are the estimated base proc chance % if Luck = 0. The passive scales with Luck and provides an additional proc chance %. 
-    - The additional proc chance % from Luck is quite small. We are currently working on deriving a more clear formula. 
-    - Inherited from Eulalia. 
-    - Note: The base proc chance % is nearly identical to the passive Cover Defense. We suspect that they are using the same formula. 
 
 === "Way of the Knight" 
 
     === "Skill Levels"
 
+        - Forthcoming.
+
     === "Details" 
+
+        - Forthcoming. 
 
 ### Thief
 
@@ -685,9 +699,7 @@
     - The Attack power modifier is held constant at 0.50 for all levels. Only the Accuracy modifier increases. 
     - Based on testing it is roughly 2% per level. Level 7 might see a 2-5% jump. 
 
-## Inherited Skills 
-
-### Legendary
+## Legendary 
 
 ### Adam - Wisdom of Truth
 
@@ -781,6 +793,28 @@
     
     </div>
 
+### Alt Alice - Grace of the Dark One
+
+=== "Self" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                     | Lv1  | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 |
+    |---------------------|------|-----|-----|-----|-----|-----|-----|
+    | Proc Chance % &emsp; &emsp; &emsp;      | 6%   | 7%  | 8%  | 9%  | 10% | 11% | 12% |
+    
+    </div>
+
+=== "Inherited"
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    |                     | Lv1  | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | 
+    |---------------------|------|-----|-----|-----|-----|-----|
+    | Proc Chance % &emsp; &emsp; &emsp;      | 4%   | 5%  | 6%  | 7%  | 8%  | 9%  | 
+    
+    </div>
+
 ### Debra - Blessings of the Beastfolk Goddess 
 
 === "Self"
@@ -851,7 +885,7 @@
     
     </div>
 
-### Anonymous 
+## Anonymous 
 
 === "Per Level" 
 

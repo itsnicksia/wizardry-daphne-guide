@@ -1,5 +1,8 @@
 # Discipline and Inheritance
 
+!!! note "Overview"  
+    Discipline and inheritance are two ways to use extra (and duplicate) character copies to strengthen your main party by conferring some skill or stat improvement to another character.  Items and equipment for registered adventurers are returned to storage, but the used character copies are permanently consumed in the process. Adventurers are one of the game-limited resources needed to advance in the game, so be judicious about your choices. There is generally no downside to waiting until you're sure how you want to use them.
+
 ## Discipline
 Discipline boosts all of your stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. The below tables highlight the increase in stats at a particular Discipline level. The key thing to note is that most stats follow the same scaling, with `HP`, `Surety`, and `ASPD` being different. Also at most, a featured non-HP stat will only increase the total value by `36`, while a non-featured non-HP stat will only increase the value by `28`. The lower level you are, the more impactful it is, but since these are static increases, they will significantly lose their value as our overall stats increase due to higher levels and grades in the future.
 
@@ -129,50 +132,54 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
 Recent changes to the Adventurer Merge system have introduced other Discipline considerations that apply only to characters with Alternate Styles (e.g., Lanavaille and Wandering Princess Lanavaille) that have been Merged.  For full details, please see [the Shared Discipline section of the Merging page](./merging.md#shared-discipline). In short, the significant benefits of the Shared Discipline only activate once each Style hase been disciplined once (reached Discipline level 1) after which *both styles* continue to benefit from Disciplining *either style*, and additional benefits accrue in excess of Discipline level 9. In many cases this strongly encourages Disciplining any limited style at least once before considering other duplicate uses.
 
 ## Inheritance
-Inheritance allows you to give skills from one adventurer to another or increase the level of inherited skills on an adventurer. Skills have different maximum levels. For example, Legendary and General Adventurer skills have a maximum inheritance count of 6, so depending on if an adventurer comes with that skill by default, they can get it to either level 6 or level 7. Anonymous adventurer skills have a maximum inheritance count of 14. Inheritance can increase through either using duplicates of that particular adventurer or using codexes, which are much more general purpose and can be applied to any skill.
+Skill Inheritance allows an adventurer to both acquire a skill not normally learned by their class as well as increase the level of skills. Skills with higher level will generally have stronger effects, making your team more powerful.  
+
+Most Legendary and General Adventurer skills have a maximum inheritance level count of 6 (after reaching maximum inheritance the game will prevent you from further inheriting that skill to that adventurer).  If an adventurer comes with or learns that skill by default, they can reach a maximum level of 7. Anonymous adventurer skills, all of which are passive stat boosts, have a maximum inheritance count of 14 (with very strongly diminishing returns at high level).
+
+Note that inheritance skill level is actually measured in Skill Experience Points (XP).  One character used for inheritance is equivalent to 100 Skill XP. Higher levels of inheritance require more Skill XP to raise skill level.  You can also acquire skill scrolls and books that provide XP (typically 25 or 100) for a specific skill, or codexes of similar XP value and can be applied to any skill. The latter are highly valued as they are the only way to raise the level of certain skills not otherwise available through character inheritance.
 
 ### Copies Per Inheritance Count
 
 === "Legendary"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 1                | 2                           |
-    | 3                 | 2                | 4                           |
-    | 4                 | 2                | 6                           |
-    | 5                 | 3                | 9                           |
-    | 6                 | 3                | 12                          |
+    | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulatove Skill XP |
+    | ----------------- | ---------------- | ---------| ------------------- | ----- |
+    | 1                 | 1                |      100 | 1                   | 100   |
+    | 2                 | 1                |      100 | 2                   | 200  |
+    | 3                 | 2                |      200 | 4                   | 400   |
+    | 4                 | 2                |      200 | 6                   | 600  |
+    | 5                 | 3                |      300 | 9                   | 900   |
+    | 6                 | 3                |      300 | 12                  | 1,200 |
 
 === "General"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 3                | 4                           |
-    | 3                 | 5                | 9                           |
-    | 4                 | 5                | 14                          |
-    | 5                 | 9                | 23                          |
-    | 6                 | 9                | 32                          |
+    | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulative Skill XP |
+    | ----------------- | ---------------- | ----- | ---------------------- | --- |
+    | 1                 | 1                | 100 | 1                           | 100 |
+    | 2                 | 3                | 300 | 4                           | 400 |
+    | 3                 | 5                | 500 | 9                           | 900 |
+    | 4                 | 5                | 500 | 14                          | 1,400 |
+    | 5                 | 9                | 900 | 23                          | 2,300 |
+    | 6                 | 9                | 900 | 32                          | 3,200 |
 
 === "Anonymous"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 2                | 3                           |
-    | 3                 | 3                | 6                           |
-    | 4                 | 4                | 10                          |
-    | 5                 | 6                | 16                          |
-    | 6                 | 8                | 24                          |
-    | 7                 | 10               | 34                          |
-    | 8                 | 12               | 46                          |
-    | 9                 | 14               | 60                          |
-    | 10                | 18               | 78                          |
-    | 11                | 20               | 98                          |
-    | 12                | 22               | 120                         |
-    | 13                | 24               | 144                         |
-    | 14                | 26               | 170                         |
+    | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulative Skill XP |
+    | ----------------- | ---------------- | ------ | --------------------- | --- |
+    | 1                 | 1                | 100 | 1                           | 100 |
+    | 2                 | 2                | 200 | 3                           | 300 |
+    | 3                 | 3                | 300 | 6                          | 600 |
+    | 4                 | 4                | 400 | 10                          | 1,000 |
+    | 5                 | 6                | 600 | 16                          | 1,600 |
+    | 6                 | 8                | 800 | 24                          | 2,400 |
+    | 7                 | 10               | 1,000 | 34                          | 3,400 |
+    | 8                 | 12               | 1,200 | 46                          | 4,600 |
+    | 9                 | 14               | 1,400 | 60                          | 6,000 |
+    | 10                | 18               | 1,800 | 78                          | 7,800 |
+    | 11                | 20               | 2,000 | 98                          | 9,800 |
+    | 12                | 22               | 2,200 | 120                         | 12,000 |
+    | 13                | 24               | 2,400 | 144                         | 14,400 |
+    | 14                | 26               | 2,600 | 170                         | 17,000 |
 
 ## Should I use my duplicates for Discipline or Inheritance?
 This is an extremely frequently asked and hotly debated question, and there is no general, community-wide consensus. Both are potentially solid options, and here are some pros and cons of each.

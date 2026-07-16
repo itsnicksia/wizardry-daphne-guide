@@ -1,181 +1,174 @@
 # Corrosion Sentries 
 
 !!! warning "Work in Progress" 
-    
-    - Major format overhaul 
-    - Corrosion sentries [10] and [12] are bugged - workaround solution added
-    - DM or ping @lightbearer on the Discord for any corrections or feedback
+    - DM or ping @Lightbearer on the Discord for any corrections or feedback.
 
-## Overview 
+## Corrosion Sentry Guide
 
 !!! warning "Introduction" 
 
     - The purpose of this page is to assist any players that are missing a corrosion sentry in their Cursed Wheel. It is a mechanic that is poorly explained, but critical to the endings and access to the Rank 12 Bounty - Cyclops.
     - The "True" version of the Greater Warped One (GWO) can only be fought after registering all 13 Corrosion Sentries.
 
-### Corrosion Mechanics
+### Topics Covered
 
-??? note "Corrosion"
+=== "Overview" 
 
-    === "Basics"
+    - Locations of all 13 corrosion sentries 
+    - Pathing instructions for confusing areas with all steps based on the cardinal directions of the map
+    - Golem power reversal directions 
+    - Registration nodes and directions for "Spotted" and "Not Spotted" runs 
+    - Important time-saving tips, warnings, and other notes
+    - Picture of the Cursed Wheel entry 
+    - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
-        - Central mechanic of the Fortress with major changes to what areas are accessible depending on its level
-        - Increased when your party enters the field of view of a corrosion sentry
-        - Cannot be decreased while in the Fortress, but can be changed in the Cursed Wheel
+=== "Terms" 
 
-    === "Abyss Corrosion Level"
+    - The guide uses the full name where possible of each floor and Cursed Wheel node. 
+    - In Abyss 3 the floors are called "Zones". 
+    - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
+    - Common Abbreviations:
+        - Abyss #: Abyss 3 would be "A3"
+        - Cursed Wheel: CW 
+        - Greater Warped One: GWO
+        - GWO #: The # refers to the number of "Spotted" corrosion sentries out of 13
+
+=== "Low Corrosion Level [LC]<span style="color: LimeGreen">*</span> Required"
+
+    - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room. 
+    - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
+    - We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems. 
+
+## Corrosion and Golem Mechanics
+
+=== "Basics"
+
+    - Central mechanic of the Fortress with major changes to what areas are accessible depending on its level.
+    - Increased when your party enters the field of view of a corrosion sentry.
+    - Cannot be decreased while in the Fortress, but can be changed in the Cursed Wheel.
+
+=== "Abyss Corrosion Level"
+
+    - Fortress Appearance: Wall goo becomes more prominent with higher corrosion.
+    - Requests: Some requests become unavailable as essential NPCs are driven insane or die as a result of higher corrosion, which affects what endings are available.
+    - Monsters: Different monsters spawn, with stronger monsters at lower corrosion. 
+    - Greater Warped One: The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health.
+
+=== "13 Corrosion Sentries"
+    - Total of 13 corrosion sentries that appear as stationary flying enemies.
+    - Stepping into their field of view sounds an alarm, increases the Fortress's corrosion level, and counts as a "Spotted" flag in the Cursed Wheel.
+    - Corrosion sentries are not the same as standard floor sentries, which are simply powered-up normal enemies. 
+
+=== "Duke's Room"
+
+    - Easy way to tell your level of corrosion during the end game. 
+    - Cursed Wheel to Fortress 3rd Floor Arrival and check the map.  
     
-        - Fortress Appearance: Wall goo becomes more prominent with higher corrosion
-        - Requests: Some requests become unavailable as essential NPCs are driven insane or die as a result of higher corrosion, which affects what endings are available
-        - Monsters: Different monsters spawn, with stronger monsters at lower corrosion 
-        - Greater Warped One: The Greater Warped One is much stronger at lower corrosion, gaining new abilities and increased damage and health
-
-    === "13 Corrosion Sentries"
-        - Total of 13 corrosion sentries that appear as stationary flying enemies
-        - Stepping into their field of view sounds an alarm, increases the Fortress's corrosion level, and counts as a "Spotted" flag in the Cursed Wheel
-        - Corrosion sentries are not the same as standard floor sentries, which are simply powered-up normal enemies 
-
-    === "Duke's Room"
-
-        - Easy way to tell your level of corrosion during the end game 
-        - Cursed Wheel to Fortress 3rd Floor Arrival and check the map  
-        
-            <div align="center">
-            ![](./img/corruption-levels.png)
-            </div>
-
-??? note "Golems"
-    - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door
-    - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the GWO
-
-### Corrosion Sentry Registration
-
-??? note "Requirements" 
-
-    === "Summary" 
-        
-        - To register a corrosion sentry the following must be true:
-        
-            - "Spotted" at least once
-            - "Not Spotted" at least once
-            - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death"
-        - Any corrosion sentry you have registered is permanently saved on your account and will appear as a toggle if you run a different faction. They only need to be registered once! 
-        
-    === "Flags" 
-
-        ??? warning "Flag Definitions"
-        
-            - "Spotted" = Entering a corrosion sentry's field of view
-            - "Not Spotted" = Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power 
-                
-        - The "Spotted" and "Not Spotted" designations are hidden flags the game tracks. 
-        - The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
-        - During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered
-        - The golem reveral power can be used to block a corrosion sentry's field of view or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss Corrosion level
-  
-    === "Registration Nodes"
-            
-        ??? warning "Node Definitions"
-            
-            - Start node 
-                - The node you wheel to first at the beginning of the process
-                - The game requires a fresh encounter with the corrosion sentry for its flags to update
-            - Register node 
-                - Node where you end a run and update any flags  
-                - Node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel 
-                - Note that you can never register a corrosion sentry by wheeling to its own node as the starting point 
-
-        - Flags need to be triggered using the correct starting and ending Cursed Wheel nodes 
-        - The guide uses "Start" and "Register" nodes throughout  
-            
-??? note "Putting it All Together" 
-
-    === "Summary" 
-    
-        - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted")
-        - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel 
-        - Corrosion sentries in the Cursed Wheel can be toggled ("Spotted" or "Not Spotted") to manipulate the Fortress's overall corrosion level
-
-    === "Registration Flowchart"
-
-        <div align="center">
-        ![](./img/corr-register-corrosion-sentry-steps.png)
-        </div>
-
-## Corrosion Sentry Guide
-
-### Before You Begin
-
-??? warning "Topics Covered"
-
-    === "Overview" 
-    
-        - Locations of all 13 corrosion sentries 
-        - Pathing instructions for confusing areas with all steps based on the cardinal directions of the map
-        - Golem power reversal directions 
-        - Registration nodes and directions for "Spotted" and "Not Spotted" runs 
-        - Important time-saving tips, warnings, and other notes
-        - Picture of the Cursed Wheel entry 
-        - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
-
-    === "Terms" 
-    
-        - The guide uses the full name where possible of each floor and Cursed Wheel node. 
-        - In Abyss 3 the floors are called "Zones". 
-        - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
-        - Common Abbreviations:
-            - Abyss #: Abyss 3 would be "A3"
-            - Cursed Wheel: CW 
-            - Greater Warped One: GWO
-            - GWO #: The # refers to the number of "Spotted" corrosion sentries out of 13
-
-    === "Low Corrosion Level [LC]<span style="color: LimeGreen">*</span> Required"
-    
-        - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room. 
-        - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
-        - We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems. 
-
-??? warning "Greater Warped One Variations"
-
-    === "Basics" 
-    
-        - The overall Abyss corrosion level impacts what version of the GWO you fight, which becomes more challenging at lower corrosion levels.
-        - You will often see references on this website, Discord, and Reddit to GWO #. This refers to the number of corrosion sentries that need to be set to "Spotted" (out of 13) for that specific version of the fight.  
-        - GWO 8: Required for the Blackmail ending. 
-        - GWO 6: Required for the Mastermind ending. 
-        - GWO 0: Required on the Mastermind ending to get the "super" version of the fight for the hidden achievement and access to the Rank 12 Bounty Cyclops. 
-            - Fighting GWO 0 on the Blackmail ending is a different, easier fight and does not count. 
-            - GWO 0 means that every single toggle is set to "Not Spotted" aka zero (0) set to "Spotted". 
-        - A low Abyss corrosion level is needed to access some rooms or side areas throughout the Abyss. 
-
-    === "How to Calculate"
-
-        - If you have registered all 13 corrosion sentries, then things are straight forward - just toggle the desired number of corrosion sentries to "Spotted". 
-        - If you do _not_ have all 13 registered, then you need to do a little math. 
-        - Any corrosion sentry that you have not registered is automatically counted as "Spotted". 
-        - You need to change your toggles _before_ you jump to Fortress Third Floor Arrival (Zone 10 Fountain) to fight the GWO. 
-        - See Example tabs for the basic math. 
-        - There is another way to quickly double-check you have the correct room size by jumping to Zone 10 and looking at the size of Ixion's room. See tabs for the picture. 
-
-    === "Example 1"
-        - You have 10 registered and want to fight GWO 8. 
-        - The 3 (out of 13) not registered count toward the "Spotted" total. 
-        - Therefore, you would need to toggle 5 to "Spotted" and 5 to "Not Spotted". 
-        - 3 not registered (automatically set to "Spotted") + 5 registered and set to "Spotted" = 8 total "Spotted"
-
-    === "Example 2" 
-        - You have 8 registered and want to fight GWO 6. 
-        - The 5 (out of 13) not registered count toward the "Spotted" total. 
-        - You would toggle 1 of your registered sentries to "Spotted" and the other 7 to "Not Spotted". 
-        - 5 not registered (automatically set to "Spotted") + 1 registered and set to "Spotted" = 6 total "Spotted"
-            
-    === "Ixion's Room Size "
-        
-        - The red numbers refer to how many sentries have been toggled (or defaulted) to "Spotted." 
-        
         <div align="center">
         ![](./img/corruption-levels.png)
         </div>
+
+=== "Golems" 
+
+    - Golems are the inanimate piles of rock that look like they have machine parts. 
+    - Golems move forward in a straight line when activated, destroying traps, damaged walls, and sentries in their path.
+    - Golems are only available after reaching Zone 10 on a first run and acquiring the golem reversal power before fighting the GWO.
+
+## Corrosion Sentry Registration
+
+### Requirements
+
+=== "Basics" 
+    
+    - To register a corrosion sentry the following must be true:
+    
+        - "Spotted" at least once.
+        - "Not Spotted" at least once.
+        - Started at a Cursed Wheel node BEFORE encountering the corrosion sentry on the normal progression path AND made it to the next Cursed Wheel node without exiting, wheeling, or "accepting death".
+    - Any corrosion sentry you have registered is permanently saved on your account and will appear as a toggle if you run a different faction. They only need to be registered once! 
+    
+=== "Game Flags" 
+
+    === "Definitions" 
+        
+        - "Spotted": Entering a corrosion sentry's field of view.
+        - "Not Spotted": Moving past a corrosion sentry without entering its field of view, which requires the golem reversal power. 
+
+    === "Mechanics" 
+
+        - The "Spotted" and "Not Spotted" designations are hidden flags the game tracks. 
+        - The flags are only permanently saved after reaching the next Cursed Wheel node along the normal progression route.
+        - During a first run you will be automatically "Spotted" by every corrosion sentry in order to progress. A small number of corrosion sentries are located in areas that cannot be accessed until the overall Abyss corrosion level is lowered.
+        - The golem reveral power can be used to block a corrosion sentry's field of view or crush them outright. Note that normal sentries have no effect on flags, registration, or the Abyss Corrosion level.
+
+=== "Registration Nodes"
+            
+    - Start node 
+        - The node you wheel to first at the beginning of the process.
+        - The game requires a fresh encounter with the corrosion sentry for its flags to update.
+    - Register node 
+        - Node where you end a run and update any flags.  
+        - Node that the corrosion sentry is listed under when it becomes available in the Cursed Wheel. 
+        - Note that you can never register a corrosion sentry by wheeling to its own node as the starting point. 
+
+    - Flags need to be triggered using the correct starting and ending Cursed Wheel nodes. 
+    - The guide uses "Start" and "Register" nodes throughout.  
+
+### Flowchart 
+
+&emsp;
+
+![](./img/corr-register-corrosion-sentry-steps.png){ width="925" style="display: block; margin: 0 auto;" }
+
+!!! warning "Important - Read Me"
+
+    - Each corrosion sentry requires a separate run (Start node > Register node) for each flag ("Spotted" and "Not Spotted").
+    - Once both flags are registered correctly the corrosion sentry will appear in the Cursed Wheel. 
+    - Corrosion sentries in the Cursed Wheel can be toggled ("Spotted" or "Not Spotted") to manipulate the Fortress's overall corrosion level.
+
+## Greater Warped One Variations
+
+=== "Basics" 
+
+    - The overall Abyss corrosion level impacts what version of the GWO you fight, which becomes more challenging at lower corrosion levels.
+    - You will often see references on this website, Discord, and Reddit to GWO #. This refers to the number of corrosion sentries that need to be set to "Spotted" (out of 13) for that specific version of the fight.  
+    - GWO 8: Required for the Blackmail ending. 
+    - GWO 6: Required for the Mastermind ending. 
+    - GWO 0: Required on the Mastermind ending to get the "super" version of the fight for the hidden achievement and access to the Rank 12 Bounty Cyclops. 
+        - Fighting GWO 0 on the Blackmail ending is a different, easier fight and does not count. 
+        - GWO 0 means that every single toggle is set to "Not Spotted" aka zero (0) set to "Spotted". 
+    - A low Abyss corrosion level is needed to access some rooms or side areas throughout the Abyss. 
+
+=== "How to Calculate"
+
+    - If you have registered all 13 corrosion sentries, then things are straight forward - just toggle the desired number of corrosion sentries to "Spotted". 
+    - If you do _not_ have all 13 registered, then you need to do a little math. 
+    - Any corrosion sentry that you have not registered is automatically counted as "Spotted". 
+    - You need to change your toggles _before_ you jump to Fortress Third Floor Arrival (Zone 10 Fountain) to fight the GWO. 
+    - See Example tabs for the basic math. 
+    - There is another way to quickly double-check you have the correct room size by jumping to Zone 10 and looking at the size of Ixion's room. See tabs for the picture. 
+
+=== "Example 1"
+    - You have 10 registered and want to fight GWO 8. 
+    - The 3 (out of 13) not registered count toward the "Spotted" total. 
+    - Therefore, you would need to toggle 5 to "Spotted" and 5 to "Not Spotted". 
+    - 3 not registered (automatically set to "Spotted") + 5 registered and set to "Spotted" = 8 total "Spotted"
+
+=== "Example 2" 
+    - You have 8 registered and want to fight GWO 6. 
+    - The 5 (out of 13) not registered count toward the "Spotted" total. 
+    - You would toggle 1 of your registered sentries to "Spotted" and the other 7 to "Not Spotted". 
+    - 5 not registered (automatically set to "Spotted") + 1 registered and set to "Spotted" = 6 total "Spotted"
+        
+=== "Ixion's Room Size "
+    
+    - The red numbers refer to how many sentries have been toggled (or defaulted) to "Spotted." 
+    
+    <div align="center">
+    ![](./img/corruption-levels.png)
+    </div>
+    
+## Corrosion Sentries
 
 ### Secret Passage Minor Harken
 
@@ -866,10 +859,11 @@
 !!! danger "Read Me - Critical Bug"
 
     === "What is the bug?"
-        - Corrosion sentries [10] and [12] _cannot_ be registered properly at the Zone 10 Fountain (Fortress 3rd Floor Arrival)
+        - Corrosion sentries [10] and [12] _cannot_ be registered properly at the Zone 10 Fountain (Fortress 3rd Floor Arrival).
         - Normally you would reach the Fountain and take the nearby portal to register, which works properly with [11] and [13]. 
-        - The actual registration node is reaching the GWO fight. You do not have to kill him or survive the battle. You can let your MC die and "Accept Death" to speed things up
-        - This bug has been present since A3 launched and it is unlikely that it will be fixed in a future patch
+        - The actual registration node is reaching the GWO fight. You do not have to kill him or survive the battle. You can let your MC die and "Accept Death" to speed things up.
+        - Update! Some players have reported successfully registering sentries after reaching Ixion's room and interacting with the NPCs inside. Instead of heading to the GWO fight you would return to the Fountain and take the portal to the Z9 Harken to exit. This has not been tested extensively, so do so at your own risk.  
+        - This bug has been present since A3 launched and it is unlikely that it will be fixed in a future patch.
     
     === "How to Register"
     
@@ -880,38 +874,28 @@
         
         Cursed Wheel Settings
         
-        - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending
-        - See ["Greater Warped One Variations"](./corrosion.md#before-you-begin) for details instructions
-        - Toggle Abducted Child to "Rescued Safely"
-        - Leap to Fortress 2F Minor Harken (Zone 9 Harken)
+        - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending.
+        - See ["Greater Warped One Variations"](./corrosion.md#before-you-begin) for detailed instructions.
+        - Toggle Abducted Child to "Rescued Safely".
+        - Leap to Fortress 2F Minor Harken (Zone 9 Harken).
         
         Guide
         
-        - The goal is to go from the Zone 9 Harken, rest at the Zone 10 Fountain, and proceed onward to Ixion's room and the GWO fight
-        - It is critical that you _not_ enter the Solider's Room or Servant's Quarters
-        - When you reach Ixion's speak to Dalian (GWO 8, Blackmail) or Clemente (GWO 6, Mastermind) and have over the evidence
-        - Proceed to the GWO and either kill it or let MC die ("Accept death")
-        - When you're back in town check to see if the corrosion sentries were registered properly 
+        - The goal is to go from the Zone 9 Harken, rest at the Zone 10 Fountain, and proceed onward to Ixion's room and the GWO fight.
+        - It is critical that you _not_ enter the Solider's Room or Servant's Quarters.
+        - When you reach Ixion's speak to Dalian (GWO 8, Blackmail) or Clemente (GWO 6, Mastermind) and hand over the evidence.
+        - Proceed to the GWO and either kill it or let MC die ("Accept death").
+        - When you're back in town check to see if the corrosion sentries were registered properly.
 
+    === "Other Notes" 
     
-??? warning "Important Notes for [10]-[13]"
-        
-    === "Before you Begin "
-    
-        - Corrosion sentries [10]-[13] are the most time-intensive to register 
-        - Corrosion sentries [10] and [12] you will not be "Spotted" on a first run as they are inaccessible and tied to requests related to the endings
+        - Corrosion sentries [10]-[13] are the most time-intensive to register. 
+        - Corrosion sentries [10] and [12] you will not be "Spotted" on a first run as they are inaccessible and tied to requests related to the endings.
         - Corrosion sentry [10]: [Search for the Missing Girl](./requests.md#search-for-the-missing-girl)
-            - Request must be active
             - Requires low Abyss corrosion to enter the door 
+            - Each of the 3 endings (outcomes) has a Cursed Wheel toggle. You do not need to repeat it every time you fight the GWO. 
         - Corrosion sentry [12]: [Blackmail Resolution](./requests.md#blackmail-resolution)        
-            - Request must be active
-            - Requires a key to enter that you will receive as part of the request
-    === "Register" 
-    
-        - It is more time efficient to register all 4 corrosion sentries using the steps listed under "Read Me - Critical Bug"
-        - When you go to register [10] and [12] their ([11] and [13] rooms are required to pass through to reach the GWO 
-        - You still need to take the steps to block their field of view or crush them ("Not Spotted")
-        - Remember that you cannot exit, wheel, or "accept death" at any point on this run until you reach the GWO 
+            - Requires a key to enter the room below the Z9 Harken that you will receive as part of the request.
 
 #### 1F Servant's Quarters Corrosion Sentry 
 
@@ -1094,8 +1078,6 @@
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
         </div>
-
-
 
 #### 2F Imprisoning Trap Corrosion Sentry 
 
