@@ -1,7 +1,11 @@
 # Discipline and Inheritance
 
 !!! note "Overview"  
-    Discipline and inheritance are two ways to use extra (and duplicate) character copies to strengthen your main party by conferring some skill or stat improvement to another character.  Items and equipment for registered adventurers are returned to storage, but the used character copies are permanently consumed in the process. Adventurers are one of the game-limited resources needed to advance in the game, so be judicious about your choices. There is generally no downside to waiting until you're sure how you want to use them.
+    Discipline and inheritance are two ways to use extra (and duplicate) character copies to strengthen your main party by conferring some skill or stat improvement to another character. Adventurers are one of the game-limited resources needed to advance in the game, so be judicious about your choices. There is generally no downside to waiting until you're sure how you want to use them.
+
+!!! warning "Character is lost"
+    The adventurers used for Discipline and Inheritance are permanently consumed (lost) in the process.  Items and equipment for registered adventurers are returned to storage. But if a character is leveled, merged, has been graded up with guild tags, has themselves had been disciplined or taught skills via inheritance, or just cost you 18,000 gems to get, that character is gone and none of those investments are returned to you. The game does warn you first, but the game also leaves you free to make bad choices, and the developers won't reverse those choices for you.  
+    You can Lock any adventurer from their stat screen, and set auto-lock settings in the Settings (gear) menu. Do that any time you get a character you sant to keep.
 
 ## Discipline
 Discipline boosts all of your stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. The below tables highlight the increase in stats at a particular Discipline level. The key thing to note is that most stats follow the same scaling, with `HP`, `Surety`, and `ASPD` being different. Also at most, a featured non-HP stat will only increase the total value by `36`, while a non-featured non-HP stat will only increase the value by `28`. The lower level you are, the more impactful it is, but since these are static increases, they will significantly lose their value as our overall stats increase due to higher levels and grades in the future.
