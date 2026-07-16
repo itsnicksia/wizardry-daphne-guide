@@ -9,15 +9,12 @@ Made a deal with Morgus, now making deals with you.
 ![](./img/a3-corpse-scavenging-skeleton.jpg)  
 ??? note "Details"  
     - Location: Zones 1 - ?
-    - Interaction Options:  
-       
-            - The Corpse-Scavenging Skeleton has several items he'll sell you:  
-            - Premium Potion (Greater Healing) - 100gp - Always available              
-            - Strange  Potion (Extra Healing) - 1,000gp - Once every 7 days  
-            - Mysterious Potion (Extreme Healing)- 1,500gp - Once every 7 days  
-            - Adventurer's Remains - 1,000gp - Once every 7 days  
-            - (If unlocked) Mausoleum Bone Tallow - 10,000gp - Once every 7 days  
-    
+    - The Corpse-Scavenging Skeleton has several items he'll sell you:  
+        - Premium Potion (Greater Healing) - 100gp - Always available              
+        - Strange  Potion (Extra Healing) - 1,000gp - Once every 7 days  
+        - Mysterious Potion (Extreme Healing)- 1,500gp - Once every 7 days  
+        - Adventurer's Remains - 1,000gp - Once every 7 days  
+        - (If unlocked) Mausoleum Bone Tallow - 10,000gp - Once every 7 days  
     - Personality Impact: None known.  
     - Notes: The cooldown timer on Remains and Tallow appear to be 7 days from the last time collected, not tied to the weekly game reset.  If you have insufficient gold, the interaction will be dismissed without affecting any cooldown timers.  
 
