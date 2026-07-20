@@ -56,8 +56,9 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
     2. After completing any version of the Round 2 fight, when asking about Round 3 the missing person you are looking for is blown up in a fight with Butch.  
     3. To keep him from getting blown up (and yourself from being murdered later) follow the steps below:
 
-    !!! note "Saving the Missing Person and Not Being Murdered"
-        A dead missing person results in a dead you even after defeating the GWO. (Your actual request WAS to retrieve him, after all.) You have two options to keep the missing person, and yourself, alive.  After winning your second arena battle and watching the missing person get blown up, either:
+    #### "Saving the Missing Person and Not Being Murdered"  
+        A dead missing person results in a dead you even after defeating the GWO. (Your actual request WAS to retrieve him, after all.) You have two options to keep the missing person, and yourself, alive.  After winning your second arena battle and watching the missing person get blown up, either:  
+        
         1. Disable Butch's explosives:  
             1. Use the Cursed Wheel to go back in time to before fighting the second battle.  
             2. Find Butch and complete the [Obtaining KnightQuil request](./requests.md#obtaining-knightquil).  
