@@ -39,10 +39,11 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 
     ### Arena Round 1
 
-    1. You will die due to being stunlocked and instant killed. Only go in with the main character.
+    1. You will die due to being stunlocked by bad breath and instant killed by his magic weapon. Only go in with the main character.
     2. Pay some gold or complete [Eradicate Warped Ones Request](./requests.md#eradicate-warped-ones-belowdecks) to remove the instant kill.
-    3. Return to town and complete [Exterminate Farm Monsters Request](./requests.md#exterminate-farm-monsters) to give the Mimint to the head chef. Consume Mimint Potage to remove the stun lock.
-    4. Beat up stinky boi.
+    3. Talk to the chef across from Reprobus on Lower Deck 1.
+    4  Return to town and complete [Exterminate Farm Monsters Request](./requests.md#exterminate-farm-monsters) to give the Mimint to the head chef. Consume Mimint Potage to remove his ability to stunlock you.
+    5. Beat up stinky boi.
    
     ### Arena Round 2
 
@@ -52,18 +53,34 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
         - After having attempting to save each with equipment, you can try a new option to [equip both with Arena Survival Gear](./requests.md#battle-item-set-delivery), after which you will finally face them both in the arena. **Warning, after defeating them they attempt the Butch gunpowder technique to take you all out in a damaging explosion after you win rhe fight. Do not end the fight low on HP.**  
         - Last, after learning they both die no matter what, you can finally try to [convince them to leave town](./requests.md#delivering-chamomile-for-the-dead). If you succeed, they both live and leave, and you again fight a group of not-too-difficult Warped Ones.  
         - After returning to town you will learn of their fate and gain both an Achievement and a Luck Lamp for the Well of the Mind.  
-    2. After completing any version of he Round 2 fight, when asking about Round 3 the missing person you are looking for is blown up in a fight with Butch.  
-    3. See below for additional steps (Saving the Missing Person and Not Being Murdered)  
+    2. After completing any version of the Round 2 fight, when asking about Round 3 the missing person you are looking for is blown up in a fight with Butch.  
+    3. To keep him from getting blown up (and yourself from being murdered later) follow the steps below:
 
+    !!! note "Saving the Missing Person and Not Being Murdered"
+        A dead missing person results in a dead you even after defeating the GWO. (Your actual request WAS to retrieve him, after all.) You have two options to keep the missing person, and yourself, alive.  After winning your second arena battle and watching the missing person get blown up, either:
+        1. Disable Butch's explosives:  
+            1. Use the Cursed Wheel to go back in time to before fighting the second battle.  
+            2. Find Butch and complete the [Obtaining KnightQuil request](./requests.md#obtaining-knightquil).  
+            3. After completing the request, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time!   ("Defeated Butch" appears as an Arena 3 Cursed Wheel option.)  
+        2. Flood the Arena (Unconfirmed: you may need to have played through strategizing for the Arena 4 fight first.)  
+            1. Use the Cursed Wheel to go back in time to before the second battle.  
+            2. Immediately after your Arena Round 2 fight, before talking to the goblin to ask about Round 3, head straight down to Lower Deck 1 where the guard is waiting in front of the switch. Either fight the guard or give him a food voucher. Flip the switch so that the arena floods for the next fight.  
+            3. Go back upstairs and talk to the arena goblin. Re-watch the scene. This time the arena floods and the fight ends in a draw. Your missing person lives this time! ("Ended in a Draw" appears as an Arena 3 Cursed Wheel option.)  
+
+        If the missing person is alive, don't forget to go talk to him. 
+        
     ### Arena Round 3
 
-    1. You may die depending on who it is. Shagtis is a scripted death, whereas Vernant is extremely difficult but killable (not recommended at this point). Pickerel is relatively straightforward. Go in with the main character only if you're sure you're going to lose.
-    2. If Vernant or Shagtis, talk to Pickerel and complete [Temple Food Assistance Request](./requests.md#temple-food-assistance) for Pickerel's help in the fight. If Pickerel, then just kill him and move on, unless you would like a relatively difficult boss fight (probably more difficult than the GWO of this abyss) which requires you to complete [Monster Bird Soup Request](./requests.md#monster-bird-soup).  To avoid killing Vernant on the Admiral route, you must first complete tbe Monster Bird Soup request on the Pontiff Route. Then you can [Prevent Vernant from Entering the Arena](./requests.md#prevent-vernant-from-entering-the-arena).
+    1. On first attempt you may die depending on who it is. Go in with the main character only if you're sure of or worried about losing:  
+        - Pickerel (Pontiff Route) is relatively straightforward.  
+        - Vernant (Admiral Route) is extremely difficult but killable (not recommended on first attempt).  
+        - Shagtis (Princess Route) is the only forced death.          
+    2. If Vernant or Shagtis: talk to Pickerel and complete [Temple Food Assistance Request](./requests.md#temple-food-assistance) for Pickerel's help in the fight. If Pickerel, then just kill him and move on, unless you would like a relatively difficult boss fight (probably more difficult than the GWO of this abyss) which requires you to complete a rather long [Monster Bird Soup Request](./requests.md#monster-bird-soup).  To avoid killing Vernant on the Admiral route, you must first complete tbe Monster Bird Soup request on the Pontiff Route. Then you can [Prevent Vernant from Entering the Arena](./requests.md#prevent-vernant-from-entering-the-arena).
     3. Win the fight and continue.
 
     ### Arena Round 4
 
-    1. This fight is winnable, but like Vernant, extremely difficult to do so (Basically a big stat check fight). If you are not confident in your team or are already struggling a bit in general, only go in with the main character.
+    1. This fight is winnable, but like Vernant, extremely difficult (basically a big stat check fight). If you are not confident in your team or are already struggling a bit in general, only go in with the main character.
     2. Head to Lower Deck 1, and head to the switch. Either fight the guard or give him a food voucher. Flip the switch to lower the water.
     3. There will be a new request at the Royal Capital, which is the [Purple Garlic Delivery Request](./requests.md#purple-garlic-delivery). Complete it and give the Garlic to the head chef and eat the garlic dish.
     4. Win the fight. You will get a bondmate if you did not do Step 2 and 3.
@@ -75,13 +92,6 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
     3. Talk to the Under Cook in the food hall to obtain [Gathering Sahuagin Scales Request](./requests.md#gathering-sahuagin-scales) at the Royal Capital. Give the peppers to the Under Cook to turn off Geuzen's singing.
     4. Win the fight.
 
-## Saving the Missing Person and Not Being Murdered
-
-1. After winning your second arena battle and watching your missing person get blown up, use the wheel to go back in time to before fighting the second battle.
-2. Find Butch and complete the [Obtaining KnightQuil](./requests.md#obtaining-knightquil) request
-3. After completing the quest, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time\!
-4. Proceed ahead with the remaining arena battles. 
-5. You won - time to claim your reward!
 
 ### Arena Rewards  
 After winning Arena Round 5, you get your wish granted. The options you see depend on if it's your first victory and/or if you've gathered all information needed to discover who the real GWO is. See image below:  
