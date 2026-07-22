@@ -27,10 +27,14 @@
     **Adventurer and Party Customization**
 
     - [Building Your Party](./strategies/party-construction.md)
-    - [Blacksmithing](equipment/blacksmithing.md)
+    - Better Equipment:
+        - [Blacksmithing](equipment/blacksmithing.md)
+        - [Equipment stat tables](equipment/equipment-tables.md)
     - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)
-    - [Relicbrew](./adventurer-customization/relicbrew.md)
+    - [Relicbrew Guide](./adventurer-customization/relicbrew.md)
+    - Stat/Skill Enhancement: [Discipline](mechanics/discipline-and-inheritance.md#discipline), [Inheritance](mechanics/discipline-and-inheritance.md#Inheritance),
+    - [Merging Styles](mechanics/merging.md)
     - [Class Change](./adventurer-customization/class-changes.md)
     - **Raising Trust** - [Trust Guide](./mechanics/trust/trust.md), [Trust Dialogue Chart](./mechanics/trust/table.md)
 
