@@ -1,10 +1,8 @@
-# [Wizardry Variants Equipment Table (click here to edit)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit).
+# [Wizardry Variants Equipment Table (click here to open Google Sheet)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit).
 
 The embedded Google Sheet below lists the armor and weapons found in the game and shows attribute improvement with enhancement. There is one tab for each type of armor and weapon, loosely sorted in order of item material and power, weakest first.  
 
-Please feel free to use the link above to contribute data to fill in the blanks (especially compendium numbers to help with sorting and reducing duplicates.)
-
-Click here for the current [Equipment Table data wishlist](./equipment-tables-wishlist.md).
+Tables are now mostly complete, but here is the current [Equipment Table data wishlist](./equipment-tables-wishlist.md).
 
 If the embedded version is not displaying properly, please try the [exported Equipment Tables](./equipment-tables.md) page.
 
