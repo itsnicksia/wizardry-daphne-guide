@@ -41,15 +41,18 @@
     - Golems walk forwards when activated, destroying traps, damaged walls, and sentries in their path until they reach a solid wall or door.
     - Golems are only available after defeating the Greater Warped One at least once.
 
-### Saving the Duke
+## Maps
 
-There are three routes to choose for the Gaurda Fortress Abyss:
+As is Abyss 2, there are three request choices to choose from for the Gaurda Fortress Abyss:
 
 1. Princess Pulgritte
 2. Pontiff Leaufonde
 3. Admiral Avare
 
-You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" request from the **Royal Capital Luknalia** Adventurer's Guild.
+You gain access to the Gaurda Fortress town once accepting one of those "Duke Ixion" requests from the **Royal Capital Luknalia** Adventurer's Guild.
+
+??? map "Entrance Area"
+    pending
 
 ??? map "Zone 1 -Old Secret Passage B1F-"
     ![](./img/zone-1-old-secret-passage-b1f.jpg)
