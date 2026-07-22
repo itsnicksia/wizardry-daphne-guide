@@ -1,7 +1,9 @@
 # Equipment Tables
 The tables below contain attributes for the weapons and armor found in the game as well as how those attributes improve with enhancement.  
 
-The data is regularly exported from the Google Sheet [Wizardry Variants Equipment Table (publicly editable)](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit). 
+The data is regularly exported from the Google Sheet [Wizardry Variants Equipment Table](https://docs.google.com/spreadsheets/d/1j9gmngMUitaMAESlcCNeWJ5vAdMo_-yo8KkPxiMr1ZY/edit). 
+
+Tables are now mostly copmlete, but here is the current [Equipment Table data wishlist](./equipment-tables-wishlist.md).
 
 If the table does not display correctly, try the [embedded version](./equipment-tables-embed.md).
 
