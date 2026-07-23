@@ -53,7 +53,8 @@ As is Abyss 2, there are three request choices to choose from for the Gaurda For
 You gain access to the Gaurda Fortress town once accepting one of those "Duke Ixion" requests from the **Royal Capital Luknalia** Adventurer's Guild.  
 
 ??? map "Entrance Area"  
-    pending  
+    ![](./img/entrance-impenetrable-fortress-gate.jpg)  
+
 
 ??? map "Zone 1 -Old Secret Passage B1F-"  
     ![](./img/zone-1-old-secret-passage-b1f.jpg)
