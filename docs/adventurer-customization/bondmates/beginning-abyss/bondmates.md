@@ -282,7 +282,7 @@
 - Can be randomly found in the Beginning Abyss (does not show on the map).
 - Feed it translucent stones or azure ore. The higher the value of ore given, the faster it will become a bondmate.
 
-!!! note "Ghreen Jelly is permanently at level 1."
+!!! note "Ghreen Jelly was previously limited to level 1. As of June 2026 he can now reach level 5."
 
 ??? info "Appearance"
     ![](img/image_69.jpg)
