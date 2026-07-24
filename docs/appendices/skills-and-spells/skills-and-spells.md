@@ -13,7 +13,7 @@
 
 === "Skill Costs"
 
-    {{ populate_quicklist(file='skills.csv',return_columns=['Name','Effects','Cost Type','CostL1','CostL2','CostL3','CostL4','CostL5','CostL6','CostL7'],filter_column='Type',filter_values=['Active']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
+    {{ populate_quicklist(file='skills.csv',return_columns=['Name','Cost Type','CostL1','CostL2','CostL3','CostL4','CostL5','CostL6','CostL7'],filter_column='Type',filter_values=['Active']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
 
 ### Passive Skills    
@@ -37,6 +37,10 @@
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Damage']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
+=== "Skill Costs"
+
+    {{ populate_quicklist(file='skills.csv',return_columns=['Name','Cost Type','CostL1','CostL2','CostL3','CostL4','CostL5','CostL6','CostL7'],filter_column='Type',filter_values=['Damage']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
+    
 ## Support Spells  
 
 === "Spell Description"
@@ -47,6 +51,10 @@
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Support']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
 
+=== "Skill Costs"
+
+    {{ populate_quicklist(file='skills.csv',return_columns=['Name','Cost Type','CostL1','CostL2','CostL3','CostL4','CostL5','CostL6','CostL7'],filter_column='Type',filter_values=['Support']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
+    
 ## Debuff Spells  
 
 === "Spell Description"
@@ -56,3 +64,8 @@
 === "Spell Source"
 
     {{ populate_quicklist(file='skills.csv',return_columns=['Name','Inheritable','Source','Potential Source'],filter_column='Type',filter_values=['Debuff']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Skill Costs"
+
+    {{ populate_quicklist(file='skills.csv',return_columns=['Name','Cost Type','CostL1','CostL2','CostL3','CostL4','CostL5','CostL6','CostL7'],filter_column='Type',filter_values=['Debuff']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
+    
