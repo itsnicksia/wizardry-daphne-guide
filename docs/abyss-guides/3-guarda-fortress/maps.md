@@ -55,6 +55,13 @@ You gain access to the Gaurda Fortress town once accepting one of those "Duke Ix
 ??? map "Entrance Area"  
     ![](./img/entrance-impenetrable-fortress-gate.jpg)  
 
+    ??? note "Meet the new GWO"  
+        -Welcome to Guarda Fortress. You see that big scary thing in the map background? Yeah, that's the Big Bad Guy of the Third Abyss.  We waste no time getting to know him.  In fact, you get to fight him with your faction ally at first meeting.  
+            - His attacks are all physical, so defend and use MAKALTU while laughing at your ally's ineffective swipes. 
+            - Keep playing defensive until you cover the soldiers' escape.
+            - Get the heck outta there after his Roar attack.
+        - Talk to everyone, learn about a back way into the fortress, and get ready to go find the Duke.
+        - If you get too close to him you will enter combat again, but he is easy to flee from. (What's he gonna do chase you? He's the freaking gate!)
 
 ??? map "Zone 1 -Old Secret Passage B1F-"  
     ![](./img/zone-1-old-secret-passage-b1f.jpg)
