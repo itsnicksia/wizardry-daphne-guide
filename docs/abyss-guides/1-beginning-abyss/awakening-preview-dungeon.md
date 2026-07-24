@@ -22,6 +22,14 @@ Later you unlock the Cursed Wheel and can leap back in time to Awakening, relivi
 
 !!! map "Cave of Snow"
     ![???](./img/cave-of-snow-map.jpg)  
-    The Cave of Snow contains a wintery landscape with billowing mist/ice that cannot be passed, and a big tree stump.  One can assume that on release of Abyss 4, we'll be learning another use for our Right Hand to progress further and unlock a preview of the Fifth Abyss.
+    The Cave of Snow contains a wintery landscape with billowing mist/ice that cannot be passed, and a big tree stump. And snowy footprints. Turns out that's a unique feature of this Abyss, as you and monsters (even ones you havent detected yet) leave tracks.  Once you progress through Abyss 4 and learn how to use your Right Habd of Reversal to grow the tree and calm the storm, you can explore further, meet snd Abyss 4 resident, and reach the teleporter to the amazingly named Fifth Abyss.
+
+
+!!! map "Cave of ... Snow?"
+    ![???](./img/not-cave-of-snow-map.jpg)  
+    So it appears someone in Quality Control was taking a nap because the Abyss 5 preview map is also titled Cave of Snow.  (Yes, we reported it. Let us know if it changes.) It is, however, most definitely NOT a cave of snow.  It appears to be a prison. A strangley modern-looking prison. With posters of the king.  And just like last preview gave us the first person to interact with, this one gives you the first Preview Dungeon combat with a prisoner. 
+    
+    One can assume that on release of Abyss 5 we'll be learning another use for our Right Hand to progress further and unlock a preview of the Sixth Abyss.
+
 
 *To Be Continued ...*
