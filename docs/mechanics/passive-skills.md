@@ -150,7 +150,6 @@
     
      </div>
 
-
 === "Formula Estimate" 
 
     === "Data Accuracy" 
@@ -563,19 +562,21 @@
 
     <div class="nofilter-table nosort-table" markdown>
     
-    |                              | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
+    | Off-Hand Only                | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
     |------------------------------|------|------|------|------|------|------|------|
-    | Main-Hand DMG % Reduction   | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
-    | Off-Hand ATK % Contribution % &emsp; &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
-    | Evasion Penalty              | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
-    | Action Speed Penalty         | -15  | -15  | -15  | -15  | -15  | -15  | -15  |
+    | Basic Attack: DMG % Reduction | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
+    | Skills: ATK % Contribution &emsp; &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
+    | Evasion Penalty              | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  |
+    | Action Speed Penalty         | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  |
     
     </div>
 
     - Daggers and Kunai only.
-    - Dual-wielding comes with a penalty to Main Hand (MH) damage. At Level 1, the penalty is 55%, meaning only 45% of ATK Power is being used. The penalty decreases as the skill level increases. 
-    - The Off-Hand weapon gives additional ATK Power, but only when skills are used. The ATK % contribution increases with skill levels. 
-    - The Evasion and Action Speed penalty is a flat -15 across all levels. 
+    - Dual-wielding has no impact on your Main Hand (MH) damage. It does have 2 sets of penalties for the Off-Hand (OH) depending on the type of attack.  
+    - For basic attacks the damage is reduced by 55% at Level 1. Example: A 100 damage attack would be reduced to 45 damage at Level 1. The penalty decreases per skill level. 
+    - For attack skills things become more complicated. A percent of the OH's Attack Power (20% at Level 1) is added to the MH Attack Power before it goes through the damage pipeline calculation. 
+    - In practice, higher OH Attack Power lets you hit a skill's soft caps faster. The % added increases with each skill level. 
+    - Evasion and Action Speed are both derived stats from the SPD trait. The -15% penalty applies to the SPD trait, which indirectly reduces the unit's Evasion and Action Speed stat. The wording of the in-game description is confusing. We are still testing to see if there is any other factor involved.  
 
 === "Vitality Jutsu" 
 
