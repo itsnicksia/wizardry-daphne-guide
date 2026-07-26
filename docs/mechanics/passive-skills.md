@@ -564,10 +564,10 @@
     
     | Off-Hand Only                | Lv1  | Lv2  | Lv3  | Lv4  | Lv5  | Lv6  | Lv7  |
     |------------------------------|------|------|------|------|------|------|------|
-    | Basic Attack: DMG % Reduction | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
-    | Skills: ATK % Contribution &emsp; &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
-    | Evasion Penalty              | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  |
-    | Action Speed Penalty         | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  | -15%  |
+    | Basic Attack: DMG Reduction | 55%  | 51%  | 47%  | 43%  | 39%  | 35%  | 31%  |
+    | Skills: ATK Contribution &emsp; &emsp; &emsp; &emsp; | 20%  | 24%  | 28%  | 32%  | 36%  | 40%  | 45%  |
+    | Evasion Penalty              | 15%  | 15%  | 15%  | 15%  | 15%  | 15%  | 15%  |
+    | Action Speed Penalty         | 15%  | 15%  | 15%  | 15%  | 15%  | 15%  | 15%  |
     
     </div>
 
