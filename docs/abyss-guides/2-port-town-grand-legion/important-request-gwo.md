@@ -3,10 +3,10 @@
 !!! note "Overview"  
     - This page walks you through successfully completing the Second Abyss by finishing the primary Request ("Find the Missing Person"), and not just killing the Abyss's final boss.  
     - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
-    - Reward:  After Finding the Missing Person, you receive a reward based on the which Faction request you chose:
-        - Pontiff Route: Book of Sanctuary's Blessing Secrets (Skill book that gives chance to reduce damage based on PIE)
-        - Princess Route:  Shield of Honor (Steel light shield, with fixed +4 RES and -2MDEF vs standard light shield)
-        - Admiral Route:  Twin Pearls (sell only)
+    - Reward:  After Finding the Missing Person, you receive a reward based on the which Faction request you chose:  
+        - Pontiff Route: Book of Sanctuary's Blessing Secrets (Skill book that gives chance to reduce damage based on PIE)  
+        - Princess Route:  Shield of Honor (Steel light shield, with fixed +4 RES and -2MDEF vs standard light shield)  
+        - Admiral Route:  Twin Pearls (sell only)  
 
 ## Mechanics
 
@@ -39,31 +39,50 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 
     ### Arena Round 1
 
-    1. You will die due to being stunlocked and instant killed. Only go in with the main character.
+    1. You will die due to being stunlocked by bad breath and instant killed by his magic weapon. Only go in with the main character.
     2. Pay some gold or complete [Eradicate Warped Ones Request](./requests.md#eradicate-warped-ones-belowdecks) to remove the instant kill.
-    3. Return to town and complete [Exterminate Farm Monsters Request](./requests.md#exterminate-farm-monsters) to give the Mimint to the head chef. Consume Mimint Potage to remove the stun lock.
-    4. Beat up stinky boi.
+    3. Talk to the chef across from Reprobus on Lower Deck 1.
+    4  Return to town and complete [Exterminate Farm Monsters Request](./requests.md#exterminate-farm-monsters) to give the Mimint to the head chef. Consume Mimint Potage to remove his ability to stunlock you.
+    5. Beat up stinky boi.
    
     ### Arena Round 2
 
-    1. Who you fight in Round 2 changes by talking to Bonnie and Clyde in the 7th District - Pier.  If you haven't talked to them yet, or you have perfectly completed their story arc, you will face  a group of not-too-difficult Warped Ones.  Otherwise who you fight will depend on where you are in their story progression. At any point simply defeating whoever you face in this battle allows you to move on to Round 3. The Bonnie and Clyde side story is tedious but completely optional.        - Changing this fight involves wheeling back in time to where B&C appear at the Pier (Arena 1 or earlier) then progressing through several changes to their dialog. You will need to wheel back to and refight Arena 1 for the dialog change to register for the Abyss 2 fight.  
-        - The first time you talk to Bonnie and Clyde at the Pier, you must choose one to encourage. You will fight the one you chose and if you win you will then gain knowledge about why the other died. To complete their story you'll need to have rewound and encouraged each once to gain both pieces of knowledge.  
-        - After learning why they died, you will be able to, one at a time, take requests from them to [get Clyde a better sword](./requests.md#pirates-cutlass-delivery) and [get Bonnie some wire for chain mail](./requests.md#steel-wire-delivery) so they (individually) survive. You will then again face each one separately (slightly buffed wkth the equipment you gave them) in the Arena, but kn both cases you'll learn that only helping one still allows the other to die.  
-        - After having attempting to save each with equipment, you can try a new option to [equip both with Arena Survival Gear](./requests.md#battle-item-set-delivery), after which you will finally face them both in the arena. **Warning, after defeating them they attempt the Butch gunpowder technique to take you all out in a damaging explosion after you win rhe fight. Do not end the fight low on HP.**  
-        - Last, after learning they both die no matter what, you can finally try to [convince them to leave town](./requests.md#delivering-chamomile-for-the-dead). If you succeed, they both live and leave, and you again fight a group of not-too-difficult Warped Ones.  
+    1. The Round 2 enemy changes by talking to Bonnie and Clyde in the 7th District - Pier.  If you never talked to them, or you perfectly completed their story arc, you will face  a group of not-too-difficult Warped Ones.  Otherwise you will fight some combination of Bonnie and/or Clyde.  Simply defeating whichever enemy you face allows you to move on to Round 3. The Bonnie and Clyde side story is tedious but completely optional:  
+        - To change this fight, wheel back to where B&C appear at the Pier (Arena 1 or earlier) and talk to them. Then wheel back to and refight Arena 1 for the dialog change to register for the Abyss 2 fight.  
+        - First time talkign to B&C, you choose one to encourage. You will fight that one in Arena 2 and gain knowledge about why the other died. Complete their story arc requires you to have encouraged each once to gain both pieces of knowledge.  
+        - After learning why each one died you can, one at a time, take requests from them to [get Clyde a better sword](./requests.md#pirates-cutlass-delivery) and [get Bonnie some wire for chain mail](./requests.md#steel-wire-delivery) so they (individually) survive. You will then again face each one separately (slightly buffed with better equipment) in the Arena, but you learn that only helping one still allows the other to die.  
+        - After having attempting to save each separately, you can try a new option to [equip both with Arena Survival Gear](./requests.md#battle-item-set-delivery). Then you will  finally face them both in the arena with better gear. **Warning, after winning the fight they attempt the Butch technique of blowing you all up in a damaging explosion. Do not end the fight low on HP or you could die anyway.**  
+        - Last, after learning they both die no matter what you do, you can finally try to [convince them to leave town](./requests.md#delivering-chamomile-for-the-dead). If you succeed, they both live and leave, and you go back to fighting a group of not-too-difficult Warped Ones.  
         - After returning to town you will learn of their fate and gain both an Achievement and a Luck Lamp for the Well of the Mind.  
-    2. After completing any version of he Round 2 fight, when asking about Round 3 the missing person you are looking for is blown up in a fight with Butch.  
-    3. See below for additional steps (Saving the Missing Person and Not Being Murdered)  
+    2. After completing any version of the Round 2 fight, when asking about Round 3 the missing person you are looking for is blown up in a fight with Butch.  
+    3. To keep him from getting blown up (and yourself from being murdered later) follow the steps below:
 
+        #### "Saving the Missing Person and Not Being Murdered"  
+        A dead missing person results in a dead you even after defeating the GWO. (Your actual request WAS to retrieve him, after all.) You have two options to keep the missing person, and yourself, alive.  After winning your second arena battle and watching the missing person get blown up, either:  
+        
+        1. Disable Butch's explosives:  
+            1. Use the Cursed Wheel to go back in time to before fighting the second battle.  
+            2. Find Butch and complete the [Obtaining KnightQuil request](./requests.md#obtaining-knightquil).  
+            3. After completing the request, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time!   ("Defeated Butch" appears as an Arena 3 Cursed Wheel option.)  
+        2. Flood the Arena (Unconfirmed: you may need to have played through strategizing for the Arena 4 fight first.)  
+            1. Use the Cursed Wheel to go back in time to before the second battle.  
+            2. Immediately after your Arena Round 2 fight, before talking to the goblin to ask about Round 3, head straight down to Lower Deck 1 where the guard is waiting in front of the switch. Either fight the guard or give him a food voucher. Flip the switch so that the arena floods for the next fight.  
+            3. Go back upstairs and talk to the arena goblin. Re-watch the scene. This time the arena floods and the fight ends in a draw. Your missing person lives this time! ("Ended in a Draw" appears as an Arena 3 Cursed Wheel option.)  
+
+        If the missing person is alive, don't forget to go talk to him. 
+        
     ### Arena Round 3
 
-    1. You may die depending on who it is. Shagtis is a scripted death, whereas Vernant is extremely difficult but killable (not recommended at this point). Pickerel is relatively straightforward. Go in with the main character only if you're sure you're going to lose.
-    2. If Vernant or Shagtis, talk to Pickerel and complete [Temple Food Assistance Request](./requests.md#temple-food-assistance) for Pickerel's help in the fight. If Pickerel, then just kill him and move on, unless you would like a relatively difficult boss fight (probably more difficult than the GWO of this abyss) which requires you to complete [Monster Bird Soup Request](./requests.md#monster-bird-soup).  To avoid killing Vernant on the Admiral route, you must first complete tbe Monster Bird Soup request on the Pontiff Route. Then you can [Prevent Vernant from Entering the Arena](./requests.md#prevent-vernant-from-entering-the-arena).
+    1. On first attempt you may die depending on who it is. Go in with the main character only if you're sure of or worried about losing:  
+        - Pickerel (Pontiff Route) is relatively straightforward.  
+        - Vernant (Admiral Route) is extremely difficult but killable (not recommended on first attempt).  
+        - Shagtis (Princess Route) is the only forced death.          
+    2. If Vernant or Shagtis: talk to Pickerel and complete [Temple Food Assistance Request](./requests.md#temple-food-assistance) for Pickerel's help in the fight. If Pickerel, then just kill him and move on, unless you would like a relatively difficult boss fight (probably more difficult than the GWO of this abyss) which requires you to complete a rather long [Monster Bird Soup Request](./requests.md#monster-bird-soup).  To avoid killing Vernant on the Admiral route, you must first complete tbe Monster Bird Soup request on the Pontiff Route. Then you can [Prevent Vernant from Entering the Arena](./requests.md#prevent-vernant-from-entering-the-arena).
     3. Win the fight and continue.
 
     ### Arena Round 4
 
-    1. This fight is winnable, but like Vernant, extremely difficult to do so (Basically a big stat check fight). If you are not confident in your team or are already struggling a bit in general, only go in with the main character.
+    1. This fight is winnable, but like Vernant, extremely difficult (basically a big stat check fight). If you are not confident in your team or are already struggling a bit in general, only go in with the main character.
     2. Head to Lower Deck 1, and head to the switch. Either fight the guard or give him a food voucher. Flip the switch to lower the water.
     3. There will be a new request at the Royal Capital, which is the [Purple Garlic Delivery Request](./requests.md#purple-garlic-delivery). Complete it and give the Garlic to the head chef and eat the garlic dish.
     4. Win the fight. You will get a bondmate if you did not do Step 2 and 3.
@@ -75,13 +94,6 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
     3. Talk to the Under Cook in the food hall to obtain [Gathering Sahuagin Scales Request](./requests.md#gathering-sahuagin-scales) at the Royal Capital. Give the peppers to the Under Cook to turn off Geuzen's singing.
     4. Win the fight.
 
-## Saving the Missing Person and Not Being Murdered
-
-1. After winning your second arena battle and watching your missing person get blown up, use the wheel to go back in time to before fighting the second battle.
-2. Find Butch and complete the [Obtaining KnightQuil](./requests.md#obtaining-knightquil) request
-3. After completing the quest, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time\!
-4. Proceed ahead with the remaining arena battles. 
-5. You won - time to claim your reward!
 
 ### Arena Rewards  
 After winning Arena Round 5, you get your wish granted. The options you see depend on if it's your first victory and/or if you've gathered all information needed to discover who the real GWO is. See image below:  

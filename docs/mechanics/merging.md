@@ -2,9 +2,10 @@
 
 ## Overview
 
-- A limited number of adventurers have alternative versions ("styles") that come with different skills and disciplines. Merging allows you to combine the standard and alternative style into one adventurer, which can be changed at any time in the Training Room.
-- Merging requires at least one copy of the standard and the alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits.
-- There is no downside to merging. Nothing is lost. Merging can be done immediately after pulling a new standard or alternative style copy since no additional merging bonus points are gained from leveling.
+- A limited number of adventurers have alternative versions ("styles") that come with different skills. Merging allows you to combine the standard and alternative style into one adventurer, which can be switched at any time in the Training Room.
+- Merging requires one copy of the standard and the alternative style in your Adventure List or Log. After merging, the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits.
+- There is no downside to merging. Nothing is lost. Merging can be done immediately after pulling a new standard or alternative style copy since no additional merging bonus points are gained from leveling beforehand.
+- The few cases where you might not want to merge are usually related to waiting for a character copy with a higher Fortitude or "Bonus Trait" (see Mechanics in table below), but once the desired character is acquired there is no reason not to merge immediately. 
 
 !!! warning "Basics - Read Me"
 
@@ -26,27 +27,30 @@
 	
 	=== "Mechanics"
 	
-		- <span style="color: #F2473A">Warning!</span> Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy.
+		- <span style="color: #F2473A">Warning!</span> Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy.  
 		- The highest value from either the base or fodder determines: 
 		
 			- Fortitude
 			- Bonus Points (BP), which can be re-allocated immediately after merging or in the Training Room 
 			- Grade level
 			- Class EXP, including the secondary class if unlocked 
-		
-		- Experience is added together for: 
-		
-			- Active Skills
-			- Passive Skills
-			- Spells 
-			- Relic Powers, both equipped and extracted 
-		
-		- Base unit determines: 
+
+        - Base unit determines: 
 		
 			- IV or "boosted" Trait, if present
 			- Current class 
 			- Trust level (see Technical Notes) and Flaming-Heart, if present
 			- Equipped bondmates and Favorites hotbar  
+		
+		- Experience is added together for: 
+		
+			- Relic Powers, both equipped and extracted 
+			- Inherited Skill level XP for Active and Passive Skills and Spells   
+			- Class-learned skills are retained but not "summed".  Examples:  
+			
+				- Both priests, one inherited FERU 1 (100 skill XP) and the other inherited FERU 2 (100+300=400 skill XP). Merged adventurer will have 100+400=500 FERU skill XP, or FERU 2 with 100 XP toward FERU 3.
+				- Both mages learned FERU 1 as part of their classs. Merged characters will just have FERU 1.
+				- Both mages learned FERU 1 as part of their class, one inherited an extra FERU level (100 skill XP) to reach FERU 2, and the other inherited two FERU levels (100+300=400 skill XP) to reach FERU 3. Merged adventurer will have class learned FERU level plus 100+400=500 FERU skill XP, resulting in FERU 3 with 100 XP toward FERU 4.
 	
 	=== "How to Merge" 
 	
