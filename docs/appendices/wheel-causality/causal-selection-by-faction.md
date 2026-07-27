@@ -4,31 +4,33 @@ Causal Selection by Faction is a subset of the wheel that only appears when sele
 
 Registering each ending is a very tedious process that requires killing that abyss' GWO to properly register. Similarly, the `Causal Selection by Faction` option won't show up until you've registered at least two outcomes per faction per abyss, and any given node won't show up until you've gotten at least two outcomes of that sub-node recorded. For example, to even see the `Causal Selection by Faction` option for Abyss 2, you need to successfully complete and record two different endings.
 
-The process of recording an ending consists of the following:
+??? note "Process of recording an ending"
 
-1. Wheel to a point in the respective abyss prior to the availability of the faction request
-2. Wheel forward to a node after the request becomes available but before the GWO is killed
-3. Complete the request, aiming for the desired outcome
-4. Wheel to the appropriate node to kill the GWO
-5. Kill the GWO - you'll notice during the ending video, the dialog surrounding the respective abyss' faction request will change based on the outcome
-6. Repeat for as many endings as you want to record
+    1. Wheel to a point in the respective abyss prior to the availability of the faction request
+    2. Wheel forward to a node after the request becomes available but before the GWO is killed
+    3. Complete the request, aiming for the desired outcome
+    4. Wheel to the appropriate node to kill the GWO
+    5. Kill the GWO - you'll notice during the ending video, the dialog surrounding the respective abyss' faction request will change based on the outcome
+    6. Repeat for as many endings as you want to record
 
-This process can be extremely tedious, and while you don't get anything outside of the wheel entries for doing it right now, it's very possible that future faction requests will require selecting specific node options to properly proceed. To properly record all endings for each abyss, you can expect the following minimum completion counts:
+While you don't get anything outside of the wheel entries for doing it right now, it's very possible that future faction requests will require selecting specific node options to properly proceed.
 
-- Abyss 2:
-    - Princess: 5
-    - Pontiff: 3
-    - Admiral: 3
-- Abyss 3:
-    - Princess: 5
-    - Pontiff: 3
-    - Admiral: 4
-- Abyss 4:
-    - Princess: 5
-    - Pontiff: 3
-    - Admiral: 3
+??? note "To properly record all endings for each abyss, you can expect the following minimum completion counts"
 
-The Princess endings are easily the most tedious because they each have multiple branching options that depend on the previous choices you made. She really needs to get better at leading her kingdom.
+    - Abyss 2:
+        - Princess: 5
+        - Pontiff: 3
+        - Admiral: 3
+    - Abyss 3:
+        - Princess: 5
+        - Pontiff: 3
+        - Admiral: 4
+    - Abyss 4:
+        - Princess: 5
+        - Pontiff: 3
+        - Admiral: 3
+
+The Princess endings are easily the most annoying because they each have multiple branching options that depend on the previous choices you made. She really needs to get better at leading her kingdom.
 
 ## Return to the Capital
 
