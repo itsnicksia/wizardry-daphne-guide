@@ -83,7 +83,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 488,Head!A488,Head,Ex.,Direbear Hat,Silver,Cloth,,5005,0,0,0,5,5,0,0,0,0,12,0,0,0,11,10,0,0,0,0,18,0,0,0,17,14,0,0,0,0,24,0,0,0,21,17,0,0,0,0,27,0,0,0,24,19,0,0,0,0,29,Stun Tolerance
 494,Head!A494,Head,Ex.,Triumph,Silver,Cloth,,5005,2,0,0,4,4,0,0,0,0,6,4,0,0,10,9,0,0,0,0,12,5,0,0,16,13,0,0,0,0,18,6,0,0,20,16,0,0,0,0,21,7,0,0,23,18,0,0,0,0,23,Blessing of Insight (Two-Handed Sword)
 500,Head!A500,Head,Ex.,Unsullied Flower Ornament,Silver,Cloth,,,0,0,0,6,15,0,0,0,0,5,0,0,0,12,20,0,0,0,0,11,0,0,0,18,24,0,0,0,0,17,0,0,0,22,27,0,0,0,0,20,0,0,0,25,29,0,0,0,0,22,"Faerie exclusive, Charm Tolerance, Confusion Tolerance"
-506,Head!A506,Head,Ex.,Nightshroud Broad-Brimmed Hat,Silver,Cloth,,5005,0,0,0,8,0,3,0,0,5,8,0,0,0,14,0,5,0,0,7,14,0,0,0,20,0,6,0,0,8,20,,,,,,,,,,,,,,,,,,,,,Obscurement
+506,Head!A506,Head,Ex.,Nightshroud Broad-Brimmed Hat,Silver,Cloth,,5005,0,0,0,8,0,3,0,0,5,8,0,0,0,14,0,5,0,0,7,14,0,0,0,20,0,6,0,0,8,20,0,0,0,24,0,7,0,0,9,23,0,0,0,27,0,8,0,0,10,25,Obscurement
 512,Head!A512,Head,3218,Silver Light Helmet,Silver,Light,,1200,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,0,0,0,38,0,-1,-2,0,-2,19,0,0,0,44,0,-1,-2,0,-2,24,
 518,Head!A518,Head,3219,Earthrend Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Water Type Reduction
 524,Head!A524,Head,3220,Seafoam Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Fire Type Reduction
@@ -331,7 +331,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 386,Hands!A386,Hands,Ex.,Gauntlets of Cardinal Silver,Silver,Light,,,0,0,5,20,0,0,0,0,0,0,0,0,5,26,0,0,6,0,0,0,0,0,5,32,0,0,12,0,0,0,0,0,5,36,0,0,16,0,0,0,0,0,5,39,0,0,19,0,0,0,Blunt Weapon Proficiency
 392,Hands!A392,Hands,Ex.,Crimson Cloth Armguards,Silver,Light,,,0,0,0,15,0,0,0,0,3,0,0,0,0,21,0,0,6,0,3,0,0,0,0,27,0,0,12,0,3,0,0,0,0,31,0,0,16,0,3,0,0,0,0,34,0,0,19,0,3,0,Master Provocateur
 398,Hands!A398,Hands,Ex.,Shadowstrike Gauntlets,Silver,Light,,,0,0,0,17,0,4,0,0,0,0,0,0,0,23,0,4,6,0,0,0,0,0,0,29,0,4,12,0,0,0,0,0,0,33,0,4,16,0,0,0,0,0,0,36,0,4,19,0,0,0,Agile Offensive
-404,Hands!A404,Hands,Ex.,Shinobi Gauntlets of Obscurement,Silver,Light,,5299,0,0,0,11,0,3,0,0,3,0,0,0,0,17,0,3,6,0,3,0,0,0,0,23,0,3,12,0,3,0,,,,,,,,,,,,,,,,,,,,,Master of Lying in Wait
+404,Hands!A404,Hands,Ex.,Shinobi Gauntlets of Obscurement,Silver,Light,,5299,0,0,0,11,0,3,0,0,3,0,0,0,0,17,0,3,6,0,3,0,0,0,0,23,0,3,12,0,3,0,0,0,0,27,0,3,16,0,3,0,0,0,0,30,0,3,19,0,3,0,Master of Lying in Wait
 410,Hands!A410,Hands,3245,Silver Heavy Gauntlets,Silver,Heavy,,,0,0,0,21,0,0,-2,0,0,0,0,0,0,30,0,0,3,0,0,0,0,0,0,35,0,0,8,0,0,0,0,0,0,42,0,0,14,0,0,0,0,0,0,48,0,0,20,0,0,0,
 416,Hands!A416,Hands,3246,Heavy Gauntlets of Composure,Silver,Heavy,,,0,0,0,40,-20,-5,0,0,-20,0,0,0,0,49,-20,-5,5,0,-20,0,0,0,0,54,-20,-5,10,0,-20,0,0,0,0,61,-20,-5,16,0,-20,0,0,0,0,67,-20,-5,22,0,-20,0,
 422,Hands!A422,Hands,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
