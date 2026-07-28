@@ -1,6 +1,6 @@
 # Introduction
 
-## Tutorial Dungeon
+## Tutorial Dungeon  
 
 After starting the game, you find yourself in a tough situation.
 
