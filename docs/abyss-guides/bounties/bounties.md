@@ -194,7 +194,7 @@
 
 ### Abyss 1
 
-??? danger "Goblin Daddy - B3F - 45 Bounty Medals" 
+??? danger "Goblin Daddy - B3F - 45 Medals" 
 
     === "Wanted Poster" 
         ![](./img/goblin-daddy.png)
@@ -229,10 +229,10 @@
         - HP: 9.5-10K
         - Spawns as a Red Spinner Woman by itself.
 
-    === "Map - B1F"
+    === "Map: B1F"
         ![](./img/warped-one-burning-with-vengeance-loc.png)
         
-??? danger "Jhael, The Novice Slayer - B4F - 30 Bounty Medals" 
+??? danger "Jhael, The Novice Slayer - B4F - 30 Medals" 
 
     === "Wanted Poster" 
         ![](./img/jhael-the-novice-slayer.png)
@@ -248,10 +248,10 @@
         - HP: 5.5-6K
         - Spawns as an Elf Fighter Adventurer by himself.
 
-    === "Map - B4F"
+    === "Map: B4F"
         ![](./img/jhael-the-novice-slayer-loc.png)
 
-??? danger "Grudge-Bearing Sack Doll - B5F - 100 Bounty Medals" 
+??? danger "Grudge-Bearing Sack Doll - B5F - 100 Medals" 
 
     === "Wanted Poster" 
          ![](./img/grudge-bearing-sack-doll.png)
@@ -271,7 +271,7 @@
         - Seems to have a 7-day cooldown before respawning.
         - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to respawn.
         
-??? danger "Brokk, The Shrewd Swindler - B3F - 55 Bounty Medals (105 Captured)" 
+??? danger "Brokk, The Shrewd Swindler - B3F - 55 Medals (105 Captured)" 
 
     === "Wanted Poster" 
         ![](./img/brokk-the-shrewd-swindler.png)
@@ -290,10 +290,10 @@
         - HP: 11-11.5K 
         - Spawns as a Dwarf Fighter by himself.
 
-    === "Map - B3F"
+    === "Map: B3F"
         ![](./img/brokk-the-shrewd-swindler-loc.png)
         
-??? danger "Skeleton Archmage - B7F - 90 Bounty Medals" 
+??? danger "Skeleton Archmage - B7F - 90 Medals" 
 
     === "Wanted Poster" 
         ![](./img/skeleton-archmage.png)
@@ -314,7 +314,7 @@
         - Can be silenced.
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
 
-??? danger "Saige the Sacker - B6F - 110 Bounty Medals"
+??? danger "Saige the Sacker - B6F - 110 Medals"
 
     === "Wanted Poster" 
         ![](./img/saige-the-sacker.png)
@@ -330,10 +330,10 @@
         - HP: ~5k (can be captured after ~3k)
         - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
 
-    === "Map - B6F"
+    === "Map: B6F"
         ![](./img/saige-the-sacker-loc.png)
 
-??? danger "Six-Limbed Storm - B5F - 180 Bounty Medals" 
+??? danger "Six-Limbed Storm - B5F - 180 Medals" 
 
     === "Wanted Poster" 
         ![](./img/six-limbed-storm.png)
@@ -354,10 +354,10 @@
         - Maces are useful as they cannot miss.
         - Will get stronger and faster as the fight progresses. 
         
-    === "Map - B5F"
+    === "Map: B5F"
         ![](./img/six-limbed-storm-loc.png)
 
-??? danger "Host of the Cursed Banquet (200 Bounty Medals)" 
+??? danger "Host of the Cursed Banquet - B6F - 200 Medals" 
 
     === "Wanted Poster" 
         ![](./img/host-of-the-cursed-banquet.png)
@@ -375,10 +375,10 @@
         - The wight acts twice per turn.
         - It's highly recommended to simply cast LA- spells to clear this. They are also all susceptible to Marein.
 
-    === "Map Location"
+    === "Map: B6F"
         ![](./img/host-of-the-cursed-banquet-loc.png)
         
-??? danger "Peerless Scorpionesses - B2F - 280 Bounty Medals" 
+??? danger "Peerless Scorpionesses - B2F - 280 Medals" 
 
     === "Wanted Poster" 
         ![](./img/peerless-scorpionesses.png)
