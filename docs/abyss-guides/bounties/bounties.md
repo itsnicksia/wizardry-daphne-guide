@@ -194,7 +194,7 @@
 
 ### Abyss 1
 
-??? danger "Goblin Daddy (45 Bounty Medals)" 
+??? danger "Goblin Daddy - B3F - 45 Bounty Medals" 
 
     === "Wanted Poster" 
         ![](./img/goblin-daddy.png)
@@ -210,10 +210,10 @@
         - HP: 5.5-6K
         - Spawns with many goblin enemies (HP: ~500) and can resummon them if killed.
 
-    === "Map Location"
+    === "Map - B3F "
         ![](./img/goblin-daddy-loc.png)
 
-??? danger "Warped One Burning with Vengeance (30 Bounty Medals)" 
+??? danger "Warped One Burning with Vengeance - B1F - 30 Bounty Medals" 
 
     === "Wanted Poster" 
         ![](./img/warped-one-burning-with-vengeance.png)
@@ -229,10 +229,10 @@
         - HP: 9.5-10K
         - Spawns as a Red Spinner Woman by itself.
 
-    === "Map Location"
+    === "Map - B1F"
         ![](./img/warped-one-burning-with-vengeance-loc.png)
         
-??? danger "Jhael, The Novice Slayer (30 Bounty Medals)" 
+??? danger "Jhael, The Novice Slayer - B4F - 30 Bounty Medals" 
 
     === "Wanted Poster" 
         ![](./img/jhael-the-novice-slayer.png)
@@ -248,10 +248,10 @@
         - HP: 5.5-6K
         - Spawns as an Elf Fighter Adventurer by himself.
 
-    === "Map Location"
+    === "Map - B4F"
         ![](./img/jhael-the-novice-slayer-loc.png)
 
-??? danger "Grudge-Bearing Sack Doll (100 Bounty Medals)" 
+??? danger "Grudge-Bearing Sack Doll - B5F - 100 Bounty Medals" 
 
     === "Wanted Poster" 
          ![](./img/grudge-bearing-sack-doll.png)
@@ -271,7 +271,7 @@
         - Seems to have a 7-day cooldown before respawning.
         - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to respawn.
         
-??? danger "Brokk, The Shrewd Swindler (55 Bounty Medals, 105 if Captured)" 
+??? danger "Brokk, The Shrewd Swindler - B3F - 55 Bounty Medals (105 Captured)" 
 
     === "Wanted Poster" 
         ![](./img/brokk-the-shrewd-swindler.png)
@@ -290,10 +290,10 @@
         - HP: 11-11.5K 
         - Spawns as a Dwarf Fighter by himself.
 
-    === "Map Location"
+    === "Map - B3F"
         ![](./img/brokk-the-shrewd-swindler-loc.png)
         
-??? danger "Skeleton Archmage (90 Bounty Medals)" 
+??? danger "Skeleton Archmage - B7F - 90 Bounty Medals" 
 
     === "Wanted Poster" 
         ![](./img/skeleton-archmage.png)
@@ -314,7 +314,7 @@
         - Can be silenced.
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
 
-??? danger "Saige the Sacker (110 Bounty Medals)"
+??? danger "Saige the Sacker - B6F - 110 Bounty Medals"
 
     === "Wanted Poster" 
         ![](./img/saige-the-sacker.png)
@@ -330,10 +330,10 @@
         - HP: ~5k (can be captured after ~3k)
         - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
 
-    === "Map Location"
+    === "Map - B6F"
         ![](./img/saige-the-sacker-loc.png)
 
-??? danger "Six-Limbed Storm (180 Bounty Medals)" 
+??? danger "Six-Limbed Storm - B5F - 180 Bounty Medals" 
 
     === "Wanted Poster" 
         ![](./img/six-limbed-storm.png)
@@ -354,7 +354,7 @@
         - Maces are useful as they cannot miss.
         - Will get stronger and faster as the fight progresses. 
         
-    === "Map Location"
+    === "Map - B5F"
         ![](./img/six-limbed-storm-loc.png)
 
 ??? danger "Host of the Cursed Banquet (200 Bounty Medals)" 
@@ -378,7 +378,7 @@
     === "Map Location"
         ![](./img/host-of-the-cursed-banquet-loc.png)
         
-??? danger "Peerless Scorpionesses (280 Bounty Medals)" 
+??? danger "Peerless Scorpionesses - B2F - 280 Bounty Medals" 
 
     === "Wanted Poster" 
         ![](./img/peerless-scorpionesses.png)
@@ -397,7 +397,7 @@
         - After a certain HP threshold is reached (~4K), either Scorpion Lady will cast Rage, which allows it to move 5 times in one turn
         - Fight can be ended without the second Scorpion Lady being summoned.
 
-    === "Map Location"
+    === "Map B2F"
         ![](./img/peerless-scorpionesses-loc.png)
 
 ### Abyss 2 
