@@ -213,7 +213,7 @@
     === "Map B3F "
         ![](./img/goblin-daddy-loc.png)
 
-??? danger "Warped One Burning with Vengeance - B1F - 30 Bounty Medals" 
+??? danger "Warped One Burning with Vengeance - B1F - 30 Medals" 
 
     === "Wanted Poster" 
         ![](./img/warped-one-burning-with-vengeance.png)
@@ -710,7 +710,7 @@
     === "Map Z10"
         ![](./img/ross-the-twisted-knight-of-justice-loc.png)
 
-??? danger "Shadow-Lurking Operative - Z7 - 400 Bounty Medals"
+??? danger "Shadow-Lurking Operative - Z7 - 400 Medals"
 
     === "Wanted Poster" 
         ![](./img/shadow-lurking-operative.png)
@@ -823,7 +823,7 @@
 
 ### Abyss 4
 
-??? danger "Ice Frost and Potent Venom Strangler Vine - R4 - 950 Medals)"
+??? danger "Ice Frost and Potent Venom Strangler Vine - R4 - 950 Medals"
 
     === "Wanted Poster"
         ![](./img/ice-frost-and-potent-venom-strangler-vine.png)
