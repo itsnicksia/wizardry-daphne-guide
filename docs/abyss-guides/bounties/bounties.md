@@ -210,7 +210,7 @@
         - HP: 5.5-6K
         - Spawns with many goblin enemies (HP: ~500) and can resummon them if killed.
 
-    === "Map - B3F "
+    === "Map B3F "
         ![](./img/goblin-daddy-loc.png)
 
 ??? danger "Warped One Burning with Vengeance - B1F - 30 Bounty Medals" 
@@ -248,7 +248,7 @@
         - HP: 5.5-6K
         - Spawns as an Elf Fighter Adventurer by himself.
 
-    === "Map: B4F"
+    === "Map B4F"
         ![](./img/jhael-the-novice-slayer-loc.png)
 
 ??? danger "Grudge-Bearing Sack Doll - B5F - 100 Medals" 
@@ -271,7 +271,7 @@
         - Seems to have a 7-day cooldown before respawning.
         - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to respawn.
         
-??? danger "Brokk, The Shrewd Swindler - B3F - 55 Medals (105 Captured)" 
+??? danger "Brokk, The Shrewd Swindler - B3F - 55 Medals (+50 Captured)" 
 
     === "Wanted Poster" 
         ![](./img/brokk-the-shrewd-swindler.png)
@@ -290,7 +290,7 @@
         - HP: 11-11.5K 
         - Spawns as a Dwarf Fighter by himself.
 
-    === "Map: B3F"
+    === "Map B3F"
         ![](./img/brokk-the-shrewd-swindler-loc.png)
         
 ??? danger "Skeleton Archmage - B7F - 90 Medals" 
@@ -330,7 +330,7 @@
         - HP: ~5k (can be captured after ~3k)
         - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
 
-    === "Map: B6F"
+    === "Map B6F"
         ![](./img/saige-the-sacker-loc.png)
 
 ??? danger "Six-Limbed Storm - B5F - 180 Medals" 
@@ -375,7 +375,7 @@
         - The wight acts twice per turn.
         - It's highly recommended to simply cast LA- spells to clear this. They are also all susceptible to Marein.
 
-    === "Map: B6F"
+    === "Map B6F"
         ![](./img/host-of-the-cursed-banquet-loc.png)
         
 ??? danger "Peerless Scorpionesses - B2F - 280 Medals" 
@@ -402,7 +402,7 @@
 
 ### Abyss 2 
 
-??? danger "The Unpierceable One (40 Bounty Medals)" 
+??? danger "The Unpierceable One - D3 - 40 Medals" 
 
     === "Wanted Poster" 
         ![](./img/the-unpierceable-one.png)
@@ -420,7 +420,7 @@
         - Has very high defense.
         - Susceptible to Kantios (Confusion). 
 
-??? danger "Patti, Apostate of the Sea (35 Bounty Medals)" 
+??? danger "Patti, Apostate of the Sea - D5 - 35 Medals" 
 
     === "Wanted Poster" 
         ![](./img/patti-apostate-of-the-sea.png)
@@ -438,10 +438,10 @@
         - The adds have roughly 1-1.5K HP. 
         - Susceptible to be Kantios (Confusion). 
 
-    === "Map Location"
+    === "Map D5"
         ![](./img/patti-apostate-of-the-sea-loc.png)
 
-??? danger "The Lurking Flutter Hunting-Fey (80 Bounty Medals)"
+??? danger "The Lurking Flutter Hunting-Fey - Valeon Plains - 80 Medals"
 
     === "Wanted Poster" 
         ![](./img/the-lurking-flutter-hunting-fey.png)
@@ -461,7 +461,7 @@
         - Looking south from entrance:
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
-??? danger "The Unending Breath of Stone (70 Bounty Medals)" 
+??? danger "The Unending Breath of Stone - D1 - 70 Medals" 
 
     === "Wanted Poster" 
         ![](./img/the-unending-breath-of-stone.png)
@@ -477,7 +477,7 @@
         - Spawns with 2 Chimeras (5.5K HP) in the front row, and 1 Chimera in the middle row. The Gorgon is in the backmost row.
         - Extremely weak to Kantios (Confuse), which will disable its stone breath and force it to use physical attacks. Have your Kantios user move last, but before the Gorgon to keep it applied each turn.  
 
-??? danger "The Champion (80 Bounty Medals)" 
+??? danger "The Champion - D2 - 80 Medals" 
 
     === "Wanted Poster" 
         ![](./img/the-champion.png)
@@ -495,7 +495,7 @@
         - Acts twice per turn. 
         - Susceptible to Kantios (Confusion). 
 
-??? danger "Dungeon-Stalkers (115 Bounty Medals)" 
+??? danger "Dungeon-Stalkers - D6 - 115 Medals" 
 
     === "Wanted Poster" 
         ![](./img/dungeon-stalkers.png)
@@ -511,10 +511,10 @@
         - HP: ???
         - Spawns as 3 Bandits in the same row.
 
-    === "Map Location"
+    === "Map D6"
         ![](./img/dungeon-stalkers-loc.png)
 
-??? danger "Fallen Princess of Bewitching Dreams (120 Bounty Medals)" 
+??? danger "Fallen Princess of Bewitching Dreams - Ship 1 - 120 Medals" 
 
     === "Wanted Poster" 
         ![](./img/fallen-princess-of-bewitching-dreams.png)
@@ -531,10 +531,10 @@
         - Spawns with 5 hostile adventurers in the front row. The Succubus will be in the back row.
         - The succubus can move twice per turn.
 
-    === "Map Location"
+    === "Map Ship 1"
         ![](./img/fallen-princess-of-bewitching-dreams-loc.png)
 
-??? danger "Monica, the Self-Proclaimed Enforcer (210 Bounty Medals)"    
+??? danger "Monica, the Self-Proclaimed Enforcer - D1 - 210 Medals"    
 
     === "Wanted Poster" 
         ![](./img/monica-the-self-proclaimed-enforcer.png)
@@ -551,10 +551,10 @@
         - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
         - After doing enough damage to her (~4k), she will become fatigued and you may capture her with Binding Rope
 
-    === "Map Location"
+    === "Map D1"
         ![](./img/monica-the-self-proclaimed-enforcer-loc.png)
       
-??? danger "Dolan, the Long-Lost Sailor (215 Bounty Medals)" 
+??? danger "Dolan, the Long-Lost Sailor - D3 - 215 Medals" 
 
     === "Wanted Poster" 
         ![](./img/dolan-the-long-lost-sailor.png)
@@ -571,7 +571,7 @@
         - Spawns as an Oar Collector by itself.
         - At ~3K HP it will flood the battlefield out of turn.
         
-??? danger "Ecstatic Blazing Eye (310 Bounty Medals)" 
+??? danger "Ecstatic Blazing Eye - Ship 2 - 310 Medals" 
 
     === "Wanted Poster" 
         ![](./img/ecstatic-blazing-eye.png)
@@ -590,7 +590,7 @@
         - Does Dark Type (element) damage and will easily kill any Light Type units (Abenius, Debra, Clarissa, etc.)
         - The strategy [Ninja Crit Fishing](../../strategies/combat-strategies.md#ninja-crit-fishing) can be utilized to great effect to kill this bounty and save some time. Recommended aspd > ~80.
 
-    === "Map Location"
+    === "Map Ship 2"
         ![](./img/ecstatic-blazing-eye-loc.png)
 
 ### Abyss 3 
