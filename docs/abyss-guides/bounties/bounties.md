@@ -595,7 +595,7 @@
 
 ### Abyss 3 
 
-??? danger "Reaper Bunny (65 Bounty Medals)" 
+??? danger "Reaper Bunny - Z2 - 65 Medals" 
     
     === "Wanted Poster" 
         ![](./img/reaper-bunny.png)
@@ -612,7 +612,7 @@
         - Spawns with 1 normal Vorpal Bunny on each side (3K HP). The boss Vorpal Bunny is Light Type (element).
         - Acts twice on its turn and has extremely high evasion.
         
-??? danger "Sand Shadow that Calls Scorched Earth (60 Bounty Medals)"
+??? danger "Sand Shadow that Calls Scorched Earth - Z1 - 60 Medals"
 
     === "Wanted Poster" 
         ![](./img/sand-shadow-that-calls-scorched-earth.png)
@@ -630,7 +630,7 @@
         - There are 3 in the front row, 3 in the middle row, with the boss in the back.
         - The minions will do a suicide attack at low HP, which can be defended against. 
         
-??? danger "Petz, the Mook who Flaunts Authority (145 Bounty Medals)"
+??? danger "Petz, the Mook who Flaunts Authority - Z3 - 145 Medals"
 
     === "Wanted Poster" 
         ![](./img/petz-the-mook-who-flaunts-authority.png)
@@ -647,10 +647,10 @@
         - Spawns with 5 Pirate Berserkers in the frontline. Ruffian boss will be in the backline.
         - They are relatively weak.
 
-    === "Map Location"
+    === "Map Z3"
         ![](./img/petz-the-mook-who-flaunts-authority-loc.png)
 
-??? danger "Timid Crimson Fang (240 Bounty Medals)"
+??? danger "Timid Crimson Fang - Z5 - 240  Medals"
 
     === "Wanted Poster" 
         ![](./img/timid-crimson-fang.png)
@@ -668,10 +668,10 @@
         - The Vampire has extremely high evasion.
         - Can use Dalto (Copper Grade Mage Spell) spells to freeze the vampire reducing evasion significantly.
 
-    === "Map Location"
+    === "Map Z5"
         ![](./img/timid-crimson-fang-loc.png)
 
-??? danger "Insatiable Gorger (360 Bounty Medals)"
+??? danger "Insatiable Gorger - Z8 - 360 Medals"
 
     === "Wanted Poster" 
         ![](./img/insatiable-gorger.png)
@@ -688,7 +688,7 @@
         - Spawns by itself as an Ent.
         - It can move twice per turn, and tends to cast Breath of Gluttony, which is a row damaging skill that guarantees Critical Poison with a chance to also Confuse.
 
-??? danger "Ross, the Twisted Knight of Justice (400 Bounty Medals)"
+??? danger "Ross, the Twisted Knight of Justice - Z10 - 400 Medals"
 
     === "Wanted Poster" 
         ![](./img/ross-the-twisted-knight-of-justice.png)
@@ -707,10 +707,10 @@
         - Dwarf Fighter uses standard skills. The Elf Mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
         - Backline can be confused with Kantios. Ross can be stunned. 
 
-    === "Map Location"
+    === "Map Z10"
         ![](./img/ross-the-twisted-knight-of-justice-loc.png)
 
-??? danger "Shadow-Lurking Operative (400 Bounty Medals)"
+??? danger "Shadow-Lurking Operative - Z7 - 400 Bounty Medals"
 
     === "Wanted Poster" 
         ![](./img/shadow-lurking-operative.png)
@@ -727,7 +727,7 @@
         - Spawns with a front row and middle row of Indigo and Amber ninjas. The boss ninja will be in the backmost row.
         - This fight is very similar to that of the Sand Shadow Cave boss fight. There is a lot of confusion/critical.
 
-??? danger "Indolent Demon Marquis (425 Bounty Medals)"
+??? danger "Indolent Demon Marquis - Z6 - 425 Medals"
 
     === "Wanted Poster" 
         ![](./img/indolent-demon-marquis.png)
@@ -747,10 +747,10 @@
         - The Greater Demon has a lot of surety evasion (~150)
         - It is recommended to not kill all the lesser demons (don't let the Greater Demon boss reach the front row), buff front row with masolotu + use evasion gear, and carry ranged damaging options. Focus entirely on damaging the Greater Demon boss and just ignore the lesser demons.
 
-    === "Map Location"
+    === "Map Z6"
         ![](./img/indolent-demon-marquis-loc.png)
 
-??? danger "Mellie, the Coin-Counting Killer (500 Bounty Medals)"
+??? danger "Mellie, the Coin-Counting Killer - Z6 - 500 Medals"
 
     === "Wanted Poster" 
         ![](./img/mellie-the-coin-counting-killer.png)
@@ -769,10 +769,10 @@
         - She moves twice per turn and will cast Healing skills/debuffs/AOE magic.
         - The Knights have a very high chance to defend a hit on Mellie.
 
-    === "Map Location"
+    === "Map Z6"
         ![](./img/mellie-the-coin-counting-killer-loc.png)
 
-??? danger "Veigar, the Sorceror Who Rules the Dead (800 Bounty Medals, 1,200 Captured)"
+??? danger "Veigar, the Sorceror Who Rules the Dead - Z2 - 800 Medals (+400 Captured)"
 
     === "Wanted Poster" 
         ![](./img/veigar-the-sorcerer-who-rules-the-dead.png)
@@ -793,10 +793,10 @@
         - Both Necromancer + Necrocore cannot spawn as a relic monster.
         - 2H Expulsion weapons are helpful to bring for the Necrocores. 
 
-    === "Map Location"
+    === "Map Z2"
         ![](./img/veigar-the-sorcerer-who-rules-the-dead-loc.png)
 
-??? danger "Mad, Rampaging, Thunderous Fiend (1,200 Bounty Medals)"
+??? danger "Mad, Rampaging, Thunderous Fiend - Z10 - 1,200 Medals"
 
     === "Wanted Poster" 
         ![](./img/mad-rampaging-thunderous-fiend.png)
@@ -818,12 +818,12 @@
         - The Succubi aspd ranges from 70-100. If they are causing charming issues, try stacking an aspd mage with at least 100 aspd and casting [Kantios](../../appendices/skills-and-spells/skills-and-spells.md#active-skills) on them.
         - The strategy [Ninja Crit Fishing](../../strategies/combat-strategies.md#ninja-crit-fishing) can be utilized to kill this bounty target. Keep in mind, even if you kill the cyclops you will have to deal with the remaining mobs. Recommended aspd > ~90.
 
-    === "Map Location"
+    === "Map Z10"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
 
 ### Abyss 4
 
-??? danger "Ice Frost and Potent Venom Strangler Vine (950 Bounty Medals)"
+??? danger "Ice Frost and Potent Venom Strangler Vine - R4 - 950 Medals)"
 
     === "Wanted Poster"
         ![](./img/ice-frost-and-potent-venom-strangler-vine.png)
@@ -837,13 +837,12 @@
         - Available slightly after Rockhome Village Major Harken and interacting with Nullshadow for the first time
         - Does -not- require A3 Mastermind Ending
 
-        
     === "Fight Details"
         - HP: 38.5k
         - Spawns with 2 Ice Entities in the same row.
         - High HP, but otherwise acts like its normal counterpart.
 
-??? danger "Dutz, the Honey Tonic Savant (1,140 Bounty Medals)"
+??? danger "Dutz, the Honey Tonic Savant - R9 - 1,140 Medals"
 
     === "Wanted Poster" 
         ![](./img/dutz-the-honey-tonic-savant.png)
@@ -862,10 +861,10 @@
         - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one. This seems to require successfully completing the Octonarus Ending in A2.
         - After defeating him, you MUST give him the Tonic or else he will die and the bounty will fail.
 
-    === "Map Location"
+    === "Map R9"
         ![](./img/dutz-the-honey-tonic-savant-loc.png)
 
-??? danger "Spirit Realm Automaton (1,380 Bounty Medals)"
+??? danger "Spirit Realm Automaton - R1 - 1,380 Medals"
 
     === "Wanted Poster" 
         ![](./img/spirit-realm-automaton.png)
@@ -884,10 +883,10 @@
         - Is Dark element, but much weaker than typical golems.
         - Extremely recommended to bring multiple fighters with 2H Maces. Badios/Foros users are okay as well if using Mental Unity. Otherwise, magic is not recommended.
 
-    === "Map Location"
+    === "Map R1"
         ![](./img/spirit-realm-automaton-loc.png)
 
-??? danger "Wailing Twin Dolls (1,550 Bounty Medals)"
+??? danger "Wailing Twin Dolls - R3 - 1,550 Medals"
 
     === "Wanted Poster" 
         ![](./img/wailing-twin-dolls.png)
@@ -907,7 +906,7 @@
         - Upon taking enough damage, they can cast Ballroom Waltz (full team charm) once and then Dance (full team confuse) once out of turn.
         - They can also summon a Stonefolk in the back row.
 
-    === "Map Location"
+    === "Map R3"
         ![](./img/wailing-twin-dolls-loc.png)
 
 ## Bounty Medal Exchange Shop
