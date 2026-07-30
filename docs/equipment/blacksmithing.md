@@ -134,7 +134,7 @@
     | ASPD%                                               | 1   | 1-2 | 2-3 |   3  | 3-4  |
     | SUR                                                 | 1   | 1-2 | 1-2 | 1-3  | 1-4  |
 
-=== "Initial + Enhancement Totals"
+=== "Initial + Enhance (or Init + FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -144,7 +144,7 @@
     | ASPD%                                               | 2-3 | 3-6  | 6-9  | 9-12  | 12-15 |
     | SUR                                                 | 2-3 | 3-5  | 4-6  | 5-8   | 6-10  |
 
-=== "Initial + FAS Totals"
+=== "Initial + FAS + Enhance Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -156,14 +156,6 @@
 
 </div>
 
-<!-- PREVIOUS TABLE
-|                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
-|:---------------------------------------------:|:---:|:---:|:---:|:----:|:----:|
-|     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~6 | 3~9 | 4~10 | 5~15 |
-| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1   | 1   | 2-3 |  3   |  4   |
-|                 **ASPD, SUR**                 | 1   | 1~2 | 1~3 | 1~3  | 2~5  |
-|                   **ASPD%**                   | 1   | 1   | 2-3 |  3   |  4   |
--->
 
 #### ^^Silver^^ 
 
@@ -189,7 +181,7 @@
     | ASPD%                                               | 1   | 1-2 | 2-4 | 3-4   | 3-5  |
     | SUR                                                 | 1   | 1-2 | 1-2 | 1-4   | 1-5  |
 
-=== "Initial + Enhancement Totals"
+=== "Initial + Enhance (or Init + FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -198,6 +190,17 @@
     | ASPD                                                | 2-4 | 3-7  | 5-11 | 7-15  | 9-18  |
     | ASPD%                                               | 2-3 | 3-7  | 6-11 | 9-15  | 12-18 |
     | SUR                                                 | 2-3 | 3-6  | 4-7  | 5-10  | 6-12  |
+
+=== "Initial + FAS + Enhance Totals"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-8 | 7-18 | 9-28 | 14-36 | 17-44 |
+    | Percent (%)                                         | 3-6 | 5-11 | 9-19 | 15-24 | 18-29 |
+    | ASPD                                                | 3-6 | 4-9  | 6-15 | 8-20  | 10-24 |
+    | ASPD%                                               | 3-4 | 4-9  | 8-15 | 12-19 | 15-23 |
+    | SUR                                                 | 3-4 | 4-8  | 5-9  | 6-14  | 7-17  |
+    
 </div>
 
 #### ^^Silver 2H Weapons^^  
@@ -224,7 +227,7 @@
     | ASPD%                                               | 1   | 1-2 | 2-4  | 3-4  | 3-5  |
     | SUR                                                 | 1   | 1-2 | 1-2  | 1-4  | 1-5  |
 
-=== "Initial + Enhancement Totals"
+=== "Initial + Enhance (or Init + FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -233,6 +236,18 @@
     | ASPD                                                | 2-4 | 3-7   | 5-12 | 7-16  | 9-20  |
     | ASPD%                                               | 2-3 | 3-7   | 6-12 | 9-16  | 12-19 |
     | SUR                                                 | 2-3 | 3-6   | 4-7  | 5-11  | 6-13  |
+
+    
+=== "Initial + FAS + Enhance Totals"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-8 | 7-21 | 9-31 | 14-39 | 17-47 |
+    | Percent (%)                                         | 3-6 | 5-12 | 9-20 | 15-25 | 18-31 |
+    | ASPD                                                | 3-6 | 4-9  | 6-16 | 8-21  | 10-27 |
+    | ASPD%                                               | 3-4 | 4-9  | 8-16 | 12-20 | 15-24 |
+    | SUR                                                 | 3-4 | 4-8  | 5-9  | 6-15  | 7-18  |
+    
 </div>
 
 <!-- PREVIOUS Note

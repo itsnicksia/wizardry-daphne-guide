@@ -987,18 +987,30 @@
 ??? note "Book of Honed Ability Secrets" 
 
     - Stats vary by the unit's class and will be updated automatically when class changing a unit, including the MC. 
-    - Fighter: 5 ATK, 5 ACC
-    - Knight: 10 HP, 5 DEF, 5 MDEF
-    - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
-    - Ninja: 5 ATK, 5 EVA, 5 ASPD
-    - Samurai: 5 ATK, 5 MAG, 5 ACC
-    - Ranger: 5 ACC, 5 ASPD
-    - Priest: 5 DIV, 5 RES
-    - Mage: 10 MP, 5 MAG
-
+    - General Classes:  
+        - Fighter: 5 ATK, 5 ACC
+        - Knight: 10 HP, 5 DEF, 5 MDEF
+        - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
+        - Ninja: 5 ATK, 5 EVA, 5 ASPD
+        - Samurai: 5 ATK, 5 MAG, 5 ACC
+        - Ranger: 5 ACC, 5 ASPD
+        - Priest: 5 DIV, 5 RES
+        - Mage: 10 MP, 5 MAG
+        - Healer:  5 DIV, 5 MAG, 5 ASPD
+    - Unique Classes:  
+        - Wanderer: ?  
+        - Mage of the Black Rod: ?  
+        - Samurai of the Black Rod: ?  
+        - Tall Mage: ?  
+        - Silver-Haired Nun: ?  
+        - Dark Knight of Bastok: 10 HP, 5 ATK, 5 DEF  
+        - Abhorrent One of Tavnazia: ?  
+        - Priestess of the Far East: ?  
+        
+    
 ??? note "Grip Gloves"
 
-    - Forthcoming. 
+    - Silver rank, cloth gloves. Starts at +22 DEF, fixed 34 ACC, Detect from +5 to +10, with "Capture-Alive Rate Up" Trait.  
 
 ## Farming 
 
