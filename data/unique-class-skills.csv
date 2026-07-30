@@ -1,4 +1,56 @@
 Class,Level,Name,"INSTRUCTION: just complete cols A,B,C, save as unique-class-skills.csv, upload to data folder. other columns will get pulled from skills.csv. will error if any skills missing from skills.csv"
+Dark Knight of Bastok,1,Blood Weapon,yes
+Dark Knight of Bastok,8,Attack Bonus,yes
+Dark Knight of Bastok,10,Last Resort,yes
+Dark Knight of Bastok,15,Smite,yes
+Dark Knight of Bastok,27,Abyssal Drain,yes
+Dark Knight of Bastok,40,Absorb-TP,yes
+Dark Knight of Bastok,54,Full Power Strike,yes
+Dark Knight of Bastok,62,Drastic Strike,yes
+Dark Knight of Bastok,65,Poised All-Out Strike,yes
+Abhorrent One of Tavnazia,1,Combo,yes
+Abhorrent One of Tavnazia,3,Martial Arts,yes
+Abhorrent One of Tavnazia,6,Hundred Fists,yes
+Abhorrent One of Tavnazia,8,Magic Defense Bonus,yes
+Abhorrent One of Tavnazia,10,Counter,yes
+Abhorrent One of Tavnazia,15,Max HP Boost,yes
+Abhorrent One of Tavnazia,16,Dodge,yes
+Abhorrent One of Tavnazia,18,Cure,yes
+Abhorrent One of Tavnazia,22,Carnal Incense,yes
+Abhorrent One of Tavnazia,25,Tranquility,yes
+Abhorrent One of Tavnazia,31,One Inch Punch,yes
+Abhorrent One of Tavnazia,40,Smite,yes
+Abhorrent One of Tavnazia,51,Max HP Boost II,yes
+Abhorrent One of Tavnazia,54,Spiritual Incense,yes
+Abhorrent One of Tavnazia,60,Skillchain Bonus,yes
+Abhorrent One of Tavnazia,65,Impetus,yes
+Abhorrent One of Tavnazia,68,Auroral Uppercut,yes
+Priestess of the Far East,1,Rise From Ashes,yes
+Priestess of the Far East,6,Magic Defense Bonus,yes
+Priestess of the Far East,8,Third Eye,yes
+Priestess of the Far East,10,Hasso,yes
+Priestess of the Far East,43,Overwhelm,yes
+Priestess of the Far East,48,Hamanoha,yes
+Priestess of the Far East,54,Full Power Strike,yes
+Priestess of the Far East,60,Skillchain Bonus,yes
+Priestess of the Far East,62,Earth-Splitting Strike,yes
+Priestess of the Far East,68,Poised All-Out Strike,yes
+Dark Knight of Bastok,4,Heavy Attack,
+Dark Knight of Bastok,18,Counterattack,
+Dark Knight of Bastok,23,Follow-Up Attack,
+Dark Knight of Bastok,31,Wild Strike,
+Dark Knight of Bastok,36,Will to Fight,
+Dark Knight of Bastok,43,Critical Attack Bonus,
+Dark Knight of Bastok,48,Arcana Killer,
+Dark Knight of Bastok,51,Immortal Strike,
+Dark Knight of Bastok,60,Ground Strike,
+Priestess of the Far East,4,Heavy Attack,
+Priestess of the Far East,12,Counterattack,
+Priestess of the Far East,14,Armor Break,
+Priestess of the Far East,18,Follow-Up Attack,
+Priestess of the Far East,31,Wild Strike,
+Priestess of the Far East,36,Will to Fight,
+Priestess of the Far East,51,Immortal Strike,
 Silver-Haired Nun,1,DIOS,
 Silver-Haired Nun,3,Self-Healing,
 Silver-Haired Nun,6,LATUMOFIS,
