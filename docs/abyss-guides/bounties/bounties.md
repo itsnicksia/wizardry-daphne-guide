@@ -1002,7 +1002,7 @@
         - Mage of the Black Rod: ?  
         - Samurai of the Black Rod: ?  
         - Tall Mage: ?  
-        - Silver-Haired Nun: ?  
+        - Silver-Haired Nun: 5 DIV, 5 RES  
         - Dark Knight of Bastok: 10 HP, 5 ATK, 5 DEF  
         - Abhorrent One of Tavnazia: 5 ATK, 5 ASPD
         - Priestess of the Far East: ?  
