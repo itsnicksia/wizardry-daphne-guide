@@ -1004,7 +1004,7 @@
         - Tall Mage: ?  
         - Silver-Haired Nun: ?  
         - Dark Knight of Bastok: 10 HP, 5 ATK, 5 DEF  
-        - Abhorrent One of Tavnazia: ?  
+        - Abhorrent One of Tavnazia: 5 ATK, 5 ASPD
         - Priestess of the Far East: ?  
         
     
