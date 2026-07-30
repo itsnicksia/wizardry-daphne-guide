@@ -996,6 +996,7 @@
         - Ranger: 5 ACC, 5 ASPD
         - Priest: 5 DIV, 5 RES
         - Mage: 10 MP, 5 MAG
+        - Healer:  5 DIV, 5 MAG, 5 ASPD
     - Unique Classes:  
         - Wanderer: ?  
         - Mage of the Black Rod: ?  
