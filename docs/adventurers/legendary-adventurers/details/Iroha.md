@@ -44,23 +44,22 @@
 
 {% block ReviewsAndAnalysis %}
 
-<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
-
-<!--
 ## Adventurer Reviews
 
-??? info "ABC's Analysis"
-    -text-
+??? info "TheAxolotl's Analysis"
+    
+    All three of the collab reviews here will be fairly similar and pretty succinct - all of the new adventurers are effectively Fighters with unique mechanics. Iroha's mechanic is effectively a repeatable version of Yoizou's ramp, which is...interesting. The first and fourth steps of the ramp are single target physical fire, with the second being row physical fire and the third being row magic light, yet still based on attack power. This gives her a unique niche of being able to deal multiple element types of damage, as well as both physical and magical damage, all with the same skill. Unfortunately, early indication points to the typical Fighter approach of alternating Poised and ESS being roughly comparable in damage to her ramp, and potentially surpassing it unless you're capitalizing on the Fire/Light damage elements.
 
-??? info "DEF's Analysis"
-    -text-
--->
+    Iroha also has a cheat death mechanic that could occasionally be nice, but probably won't see much practical value.
 
-<!--
+    Like Prishe, her inheritable skill becomes utter garbage when inherited to someone that's not her, so just don't do it!
+
+    She, like Prishe, has a heal, but hers is a row heal that also gives a resistance boost, which is...something.
+
 ## Adventurer Pull Plans
 
-??? note "ABC's Pull Plan"
-    -text-
--->
+??? note "TheAxolotl's Pull Plan"
+    
+    I'll likely be pulling on the collab - not sure how much yet, and not sure how much I'll use any of the adventurers. Like Prishe, Iroha seems like she could be fun to play with!
 
 {% endblock ReviewsAndAnalysis %}
