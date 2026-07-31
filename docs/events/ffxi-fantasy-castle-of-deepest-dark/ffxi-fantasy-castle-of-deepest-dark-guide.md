@@ -1,5 +1,7 @@
 # FFXI - Fantasy Castle of Deepest Dark
 
+!!! warning "This page is under construction as we get more details and clear information"
+
 ## Free Event Unit
 
 When heading to the Royal Capital for the first time, there will be a cutscene for the start of the event. Afterwards, there may be an adventurer you can talk to who talks about a suspicious looking man in the Beginning Abyss. Alternatively, if you enter the Royal Capital again after viewing the initial cutscene for the event, the cutscene for the adventurers talking about the suspicious man will automatically trigger.
@@ -30,11 +32,28 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 ### 2nd Run Good Ending?
 
-1. go back to cait sith at entrance of castle. it runs away
-2. go to zone 2 and feed prishe and continue to help iroha at the door. but this time u need to find cait sith instead of opening the door. head to x:20, y:12. she will run. head to x:14,y:15. she will run. head to x:12 ,y:10. she will talk to u about shi and give u guidelight bugs. you need to then look nearby when the guidelight bugs glow purple. u might need to find her one more time at x:19 y:16
-3. head to zone 3, go to gorgon statue, either one, offer urself and ur allies wont get pissed at u, continue forward. hold the crystal up and then enter fight. lion and zeid are saved. head to zone 4. 
-4. in zone 4, there is a crystal on this floor. it is in random spots, so u need to check each portal. You may need to look up on the wall for it. For the puzzle, you will need to bring a party of only 1 alignment and go through that door. go forward and u have to fight a bunch of enemies, then u pull crystal out like a sword and save ulmia, go to floor 5
-5. find the crystal on floor 5, and do the puzzles and head to floor 6. on floor 6 u have to beat up tenzen and hold the crystal up. head to floor 7
+1. Accept the request in the Royal Capital and head back to the Entrance of Zone 1. Cait Sith will be there again but avoid you.
+2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map and you will need to find them 3-4 times before they will talk to you. They will give you Guidelight Bugs which will allow you to find Crystals of Hopes that will basically prevent the Shadow Lord from absorbing everyone. You will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The locations are random.
+3. Head to Zone 3 and complete the puzzle again. However, this time you only need to sacrifice one of your allies as you offer yourself up as the second. This prevents your allies from getting angry at you. Continue to the cutscene, but this time choose the option of holding the crystal up like a sword. You will enter a fight afterwards, but Lion and Zeid will be saved. Before you continue to Zone 4 however....
+
+!!! note "To properly solve this puzzle, you will need to make sure everyone in the party are the same personality type, and then pick the door that matches. This way, no one is punished and no one gets angry at you."
+
+4. There is a Crystal of Hope in Zone 4 for Ulmia. You may need to look up on the wall for it. As per usual, it is randomly located so check every portal. For the puzzle, you will need to bring a party of only 1 alignment and go through that door. Continue onwards, and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.
+5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
+
+!!! note "It is recommended to bring at least one physical and one magical damage dealer for this fight, as the Shadow Lord can become immune to one or the other during the fight"
+
+6. Because you saved every single group of adventurers, you are able to assign each to protect someone, which allows you to freely fight the Shadow Lord.
+
+??? danger "Shadow Lord"
+
+    - Can be suretied relatively easily.
+    - Typically will telegraph what attacks will be used. A knight would make things easier here.
+    - He will randomly enrage some of your allies during the fight, which makes them attack allies, albeit with a big damage penalty. After a few turns, the Crystals will cleanse this debuff from your allies.
+    - Some time into the fight, he will become invulnerable to physical attacks or magical attacks. A sword symbol indicates immunity to physical attacks. A swirly symbol indicates immunity to magical attacks.
+
+7. Talk to every NPC in Zone 7 after defeating the Shadow Lord. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
+
 
 ### 3rd Run
 
