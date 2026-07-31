@@ -62,7 +62,7 @@ This is unavailable for now and will be unlocked later during the event.
 ### Maps
 
 ??? map "Zone 1"
-    ![](./img/zone-1-baileysjpg)
+    ![](./img/zone-1-baileys.jpg)
     
 ??? map "Zone 2"
     ![](./img/zone-2-keep-1f.jpg)
