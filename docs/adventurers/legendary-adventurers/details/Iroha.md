@@ -48,7 +48,7 @@
 
 ??? info "TheAxolotl's Analysis"
     
-    All three of the collab reviews here will be fairly similar and pretty succinct - all of the new adventurers are effectively Fighters with unique mechanics. Iroha's mechanic is effectively a repeatable version of Yoizou's ramp, which is...interesting. The first and fourth steps of the ramp are single target physical fire, with the second being row physical fire and the third being row magic light, yet still based on attack power. This gives her a unique niche of being able to deal multiple element types of damage, as well as both physical and magical damage, all with the same skill. Unfortunately, early indication points to the typical Fighter approach of alternating Poised and ESS being roughly comparable in damage to her ramp, and potentially surpassing it unless you're capitalizing on the Fire/Light damage elements.
+    Iroha's is effectively a Fighter with a repeatable version of Yoizou's ramp, which is...interesting. The first and fourth steps of the ramp are single target physical fire, with the second being row physical fire and the third being row magic light, yet still based on attack power. This gives her a unique niche of being able to deal multiple element types of damage, as well as both physical and magical damage, all with the same skill. Unfortunately, early indication points to the typical Fighter approach of alternating Poised and ESS being roughly comparable in damage to her ramp, and potentially surpassing it unless you're capitalizing on the Fire/Light damage elements.
 
     Iroha also has a cheat death mechanic that could occasionally be nice, but probably won't see much practical value.
 

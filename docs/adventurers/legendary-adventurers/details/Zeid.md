@@ -48,7 +48,7 @@
 
 ??? info "TheAxolotl's Analysis"
     
-    All three of the collab reviews here will be fairly similar and pretty succinct - all of the new adventurers are effectively Fighters with unique mechanics. Zeid is...a single target Gillion? His mechanic is all about HP manipulation - he loses HP to buff himself, and he can buff himself to gain HP back while attacking. He does dark damage with his own personal ESS-style attack. He also has a unique spell that lets him restore his own SP, which is pretty great!
+    Like Iroha, Zeid is pretty much a Fighter. More specifically, he's really a single target Gillion. His mechanic is all about HP manipulation - he loses HP to buff himself, and he can buff himself to gain HP back while attacking. He does dark damage with his own personal ESS-style attack. He also has a unique spell that lets him restore his own SP, which is pretty great!
 
     One big unknown, though, is just how valuable his buffs (both the offense boost at the cost of HP and the HP restore while dealing damage) would be in a fight. Self buffs usually have questionable turn economy, so Zeid runs the risk of having a very small amount of his kit be used in a given fight.
 
