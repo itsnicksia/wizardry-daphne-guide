@@ -59,8 +59,41 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 This is unavailable for now and will be unlocked later during the event.
 
+### Maps
+
+??? map "Zone 1"
+    ![](./img/zone-1-baileysjpg)
+    
+??? map "Zone 2"
+    ![](./img/zone-2-keep-1f.jpg)
+    
+??? map "Zone 3"
+    ![](./img/zone-3-keep-2f.jpg)
+    
+??? map "Zone 4"
+    ![](./img/zone-4-keep-2f-depths.jpg)
+    
+??? map "Zone 5"
+    ![](./img/zone-5-keep-2f-innermost-depths.jpg)
+    
+??? map "Zone 6"
+    ![](./img/zone-6-great-bridge.jpg)
+    
+??? map "Zone 7"
+    ![](./img/zone-7-throne-room.jpg)
+    
+??? map "Goblin's Abode"
+    ![](./img/goblins-abode.jpg)
+
+
 ## Trading
+
+    To be added
 
 ## Relic Weapons
 
+    To be added
+
 ## Farming
+
+    To be added
