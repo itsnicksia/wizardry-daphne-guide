@@ -93,7 +93,10 @@ This is unavailable for now and will be unlocked later during the event.
 
 ## Relic Equipment  
 
-The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material).  These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more powerful items in the game.  More will be added on this process but for now, here is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
+The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material).  These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more powerful items in the game.  More info will be added on this process but for now, here is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
+
+The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each.  Reforging materials can be obtained by farming the event dungeon.  
+
     ![](./img/collab_relic_equipment_fodder.png)
 
 ## Farming
