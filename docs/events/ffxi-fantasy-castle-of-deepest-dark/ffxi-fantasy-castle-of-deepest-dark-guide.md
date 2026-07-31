@@ -97,7 +97,7 @@ The event has added unique equipment called "Relic Weapons and Armor" (not in an
 
 The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each.  Reforging materials can be obtained by farming the event dungeon.  
 
-    ![](./img/collab_relic_equipment_fodder.png)
+![](./img/collab_relic_equipment_fodder.png)
 
 ## Farming
 
