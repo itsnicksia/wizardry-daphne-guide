@@ -74,7 +74,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
         - Provides 8 extra ATK if put on Prishe at +5
 
     === "Tenzen Bondmate"
-        ![](./img/Tenzen-bondmate.png)
+        ![](./img/tenzen-bondmate.png)
 
         - Provides about 17% Paralysis Tolerance at +5
         - Provides 4 extra ATK and DIV if put on Iroha at +5
