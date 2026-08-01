@@ -37,7 +37,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map and you will need to find them 3-4 times before they will talk to you. They will give you Guidelight Bugs which will allow you to find Crystals of Hope that will basically prevent the Shadow Lord from absorbing everyone. You will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The locations are random.
 3. Head to Zone 3 and complete the puzzle again. However, this time you only need to sacrifice one of your allies as you offer yourself up as the second. This prevents your allies from getting angry at you. Continue to the cutscene, but this time choose the option of holding the crystal up like a sword. You will enter a fight afterwards, but Lion and Zeid will be saved. Before you continue to Zone 4 however....
 
-!!! note "To properly solve this puzzle, you will need to make sure everyone in the party are the same personality type, and then pick the door that matches. This way, no one is punished and no one gets angry at you."
+!!! note "To properly solve this puzzle, you will need to make sure everyone besides the MC in the party are the same personality type, and then pick the door that matches that type. This way, no one is punished and no one gets angry at you."
 
 4. There is a Crystal of Hope in Zone 4 for Ulmia. You may need to look up on the wall for it. As per usual, it is randomly located so check every portal. For the puzzle, you will need to bring a party of only 1 alignment and go through that door. Continue onwards, and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.
 5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
@@ -51,13 +51,12 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
     ![](./img/shadowlord.png)
 
     - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
-    - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies, albeit with a big damage penalty. After a few turns, the Crystals will cleanse this effect from your allies.
-    - Gigaslash is a physical row attack doing ~150-200 damage. Implosion does ~400 damage to everyone. He can cast row magic as well with -ga spells doing ~200 damage. He can also normal attack someone for ~150 damage.
-    - Can be suretied relatively easily. Is immune to CT down, but can be debuffed with other status downs.
-    - Typically will telegraph what attacks will be used. A knight would make things easier here if needed.
-    - Some time into the fight, he will become invulnerable to physical attacks or magical attacks. A sword symbol indicates immunity to physical attacks. A swirly symbol indicates immunity to magical attacks.
+    - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
+    - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies, albeit with a big damage penalty.
+    - All of his moves are telegraphed. He will typically alternate between Dark Nova and Giga Slash. Dark Nova is a full team dark AOE. Giga Slash is a physical row AOE to either front or back row.
+    - After doing enough damage, he will become invulnerable to physical attacks. After doing enough magic damage, he will swap to a magic barrier instead, but also any allies that are enraged in your team will be cleansed by the Crystal's Powers (cutscene). After this, he will ready Swath of Silence which on his next turn will cast Implosion, which is a full team dark AOE, and then follow up immediately with Aeroga, a magic row AOE.
 
-7. Talk to every NPC in Zone 7 after defeating the Shadow Lord. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
+7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
 
 
 ### 3rd Run
