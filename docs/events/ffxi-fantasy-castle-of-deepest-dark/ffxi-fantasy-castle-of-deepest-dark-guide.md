@@ -59,6 +59,25 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
 
+??? warning "Rewards for 2nd Run Completion"
+
+    === "Lion Bondmate"
+        ![](./img/lion-bondmate.png)
+
+        - Provides about 17% Stun Tolerance at +5
+        - Provides 4 extra Surety if put on Zeid at +5
+
+    === "Ulmia Bondmate"
+        ![](./img/ulmia-bondmate.png)
+
+        - Provides 8 Resistance at +5
+        - Provides 8 extra ATK if put on Prishe at +5
+
+    === "Tenzen Bondmate"
+        ![](./img/Tenzen-bondmate.png)
+
+        - Provides about 17% Paralysis Tolerance at +5
+        - Provides 4 extra ATK and DIV if put on Iroha at +5
 
 ### 3rd Run
 
