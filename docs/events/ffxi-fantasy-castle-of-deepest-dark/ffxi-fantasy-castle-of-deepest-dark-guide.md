@@ -17,7 +17,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 1. Head to the Royal Capital, which will trigger a cutscene about some men going to the Adventurer's Guild. Head into the Adventurer's Guild and play out the cutscene. The options selected here does not matter. 
 2. Go into the Featured Tab and accept the Request. Select the option that you'll do it and you'll gain access to the event town from the World Map.
 3. Head to the Village of Northern Hollow from the event map. You'll need to go into the Tavern and talk to some people to get some information. This will unlock the Ghost Castle of the Northcleft on the World Map. Head there into Zone 1.
-4. The golbin blocking your way wants a healing item. Any will do.
+4. The goblin blocking your way wants an item. Any will do.
 5. Make your way to the entrance of the castle at the very north of the Map, in which you'll see Cait Sith. She will ignore you and simply run inside. Follow her, and upon traversing to a certain point in Zone 2, you will be ambushed but saved by Prishe. However, she will promptly block your path by sitting down being hungry. If you have a Mackerel Sandwich from Abyss 2, you can simply talk to her again and give it to her, which opens the path. Skip to Step 7 if so, otherwise go to Step 6.
 6. Head back to Northern Hollow's Tavern and talk to the Chef. He will request rabbit meat and barley. Head outside talk to a man who requests help clearing goblins. You will be sent into a fight with some goblins and Hobbers, but afterwards he wants you to eliminate all the goblins in a nearby cave to solve the problem. This will unlock the Goblin Abode on the world map. Simple head to the cave and defeat all the enemies in the cave. Returning to the town will complete the request and give you some Barley and some gold. Rabbit Meat can be obtained from any area with Vorpal Rabbits. Upon collecting both meat and barley, head back to the Tavern and turn in the ingredients to receive a sandwich and some soup. Head back to Prishe and give her either food item.
 7. Go into the hallway that Prishe was blocking and step on the switch to open the door. Make your way to the top right side of Zone 2, and you will meet Iroha. She will open the door for you. Head to Zone 3.
@@ -122,7 +122,7 @@ The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil 
 
 ![](./img/collab_relic_equipment_fodder.png)
 
-## Relic Equipment Information Tables
+### Relic Equipment Information Tables
 
 === "Reforge Materials By Tier"
 
