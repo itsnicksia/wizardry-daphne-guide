@@ -112,13 +112,37 @@ This is unavailable for now and will be unlocked later during the event.
 
 ## Trading
 
-    To be added
+Trading unlocks after the 1st Run of the event is completed. Arriving in the town will show a cutscene. Head into the tavern and talk to the merchant to begin trading.
+
+![](./img/trader.png)
+
+Trading is the main source of obtaining the event currency, Gil, and a reliable way to obtain materials you need for reforging relic equipment. There are two options, Delivery Support and Procurement Request.
+
+### Delivery Support
+
+This allows you to help fulfill other people's requests for certain items. There will typically be a reward of some sorts for providing a specific item, with Gil always being given to the player providing support. Usually, more Gil is given the higher the tier of the materials. Buying the trading pass from the Jeweler's shop will boost Gil gain from these transactions by 50%.
+
+Players in the list will typically prioritize those on your friends list before strangers, so it can be easy to help friends or coordinate trading materials for Gil. However, there is a 24 HR limit to the refreshing of the list, which can be bypassed by spending 300 green gems.
+
+### Procurement Request
+
+There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for relic equipment material in gold. However, Attestations can only be traded for Attestations of other weapon types, and Fragments can only be traded for Fragments/Attestations of other weapon types. 
+
+One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request. These bots are typically denoted by the "!" at the end of their names. This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
+
+![](./img/bots.png)
 
 ## Relic Equipment  
 
-The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material).  These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more powerful items in the game.  More info will be added on this process but for now, here is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
+The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
 
-The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each.  Reforging materials can be obtained by farming the event dungeon.  
+The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 4 Harken has been reached. Reforging materials can be obtained by farming the event dungeon.  
+
+Some quick facts:
+- Statwise, they are effectively equivalent to normal silver items. However, they have a passive and active skill.
+- They are always Red 4* with Silver level substats. So it's possible to FAS them before they reach max tier.
+- Their substats are locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.
+- The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.
 
 ![](./img/collab_relic_equipment_fodder.png)
 
