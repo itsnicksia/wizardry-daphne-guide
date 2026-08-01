@@ -48,9 +48,13 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 ??? danger "Shadow Lord"
 
-    - Can be suretied relatively easily.
-    - Typically will telegraph what attacks will be used. A knight would make things easier here.
-    - He will randomly enrage some of your allies during the fight, which makes them attack allies, albeit with a big damage penalty. After a few turns, the Crystals will cleanse this debuff from your allies.
+    ![](./img/shadowlord.png)
+
+    - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
+    - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies, albeit with a big damage penalty. After a few turns, the Crystals will cleanse this effect from your allies.
+    - Gigaslash is a physical row attack doing ~150-200 damage. Implosion does ~400 damage to everyone. He can cast row magic as well with -ga spells doing ~200 damage. He can also normal attack someone for ~150 damage.
+    - Can be suretied relatively easily. Is immune to CT down, but can be debuffed with other status downs.
+    - Typically will telegraph what attacks will be used. A knight would make things easier here if needed.
     - Some time into the fight, he will become invulnerable to physical attacks or magical attacks. A sword symbol indicates immunity to physical attacks. A swirly symbol indicates immunity to magical attacks.
 
 7. Talk to every NPC in Zone 7 after defeating the Shadow Lord. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
