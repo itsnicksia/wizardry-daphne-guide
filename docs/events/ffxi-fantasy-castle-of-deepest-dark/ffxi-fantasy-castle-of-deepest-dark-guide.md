@@ -139,10 +139,11 @@ The event has added unique equipment called "Relic Weapons and Armor" (not in an
 The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 4 Harken has been reached. Reforging materials can be obtained by farming the event dungeon.  
 
 Some quick facts:
-- Statwise, they are effectively equivalent to normal silver items. However, they have a passive and active skill.
-- They are always Red 4* with Silver level substats. So it's possible to FAS them before they reach max tier.
-- Their substats are locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.
-- The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.
+
+    - Statwise, they are effectively equivalent to normal silver items. However, they have a passive and active skill.
+    - They are always Red 4* with Silver level substats. So it's possible to FAS them before they reach max tier.
+    - Their substats are locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.
+    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.
 
 ![](./img/collab_relic_equipment_fodder.png)
 
