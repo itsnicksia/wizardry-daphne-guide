@@ -136,7 +136,7 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
 
-The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 4 Harken has been reached. Reforging materials can be obtained by farming the event dungeon.  
+The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon.  
 
 Some quick facts:
 
