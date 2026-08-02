@@ -140,11 +140,18 @@ The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil 
 
 Some quick facts:  
 
-- The top level items are silver rank items that have an extra passive and active skill in addition to the normal item-type traits.   
-- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level substats. Enhancement and FAS also apply silver-level blessing increases. So it's possible to enhance and FAS them before they reach the highest level without any loss of potential stat range.  
-- Enhancement levels are preserved when Reforging to another level. Higher level items have higher enhancement limits.Levels 3 and 4 (Ebonsteel and Silver) can be enhanced to +20.  
+- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level substats.  
 - Their blessings are all locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.  
-- The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
+- Enhancement:  
+    - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
+    - Enhancement costs for all levels follow the Silver tables.  
+    - Enhancement levels are preserved when Reforging to a higher item level.  
+    - Enhancement blessing increases also follow Silver level table ranges.  
+    - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
+    - (unverified) "Reset"-ing a Level 4 item seems like it would be equivalent to using a LFAS to reroll blessings. It is expected but unconfirmed if this would include reapplying milestone blessings or a FAS-like bonus milestone blessing.  
+- Silver Tier Skills:  
+    - At reforging to Level 4, items gain traits granting an active and a passive skill to the bearer.  
+    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
 
 ![](./img/collab_relic_equipment_fodder.png)
 
