@@ -136,14 +136,14 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
 
-The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon.  
+The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
 
-Some quick facts:
+Some quick facts:  
 
-    - Statwise, they are effectively equivalent to normal silver items. However, they have a passive and active skill.
-    - They are always Red 4* with Silver level substats. So it's possible to FAS them before they reach max tier.
-    - Their substats are locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.
-    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.
+- Stat-wise, the top level items are approximately equivalent to normal silver rank items. However, they have a passive and active skill.   
+- They are always Red 4* with Silver level substats. So it's possible to FAS them before they reach max tier.
+- Their substats are locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.
+- The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.
 
 ![](./img/collab_relic_equipment_fodder.png)
 
