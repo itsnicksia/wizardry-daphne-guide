@@ -141,12 +141,12 @@ The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil 
 Some quick facts:  
 
 - Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level substats.  
-- Their blessings are all locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.  
+- Their blessings types are all locked, so FASing them will keep the blessing types the same and just reroll the values, similar to Master Rings from class trials.  
 - Enhancement:  
     - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
     - Enhancement costs for all levels follow the Silver tables.  
-    - Enhancement levels are preserved when Reforging to a higher item level.  
     - Enhancement blessing increases also follow Silver level table ranges.  
+    - Enhancement levels are preserved when Reforging to a higher item level.  
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
     - (unverified) "Reset"-ing a Level 4 item seems like it would be equivalent to using a LFAS to reroll blessings. It is expected but unconfirmed if this would include reapplying milestone blessings or a FAS-like bonus milestone blessing.  
 - Silver Tier Skills:  
