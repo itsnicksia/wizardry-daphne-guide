@@ -286,16 +286,16 @@ Some quick facts:
 
 === "Weapon Attack Skills"
 
-    | Type     | Weapon         | Skill            | Description                                                                                                                                              | Turns | Effect                            |
+    | Type     | Weapon         | Skill            | Cost  | Description                                                                                                                                              | Turns | Effect                            |
     |----------|----------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|-----------------------------------|
-    | Dagger   | Mandau         | Mercy Stroke     | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
-    | 1H Sword | Excalibur [XI] | Knights of Round | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor HP to self for 3 turns.                                                 | 3     | HP regen                          |
-    | Katana   | Amanomurakumo  | Tachi: Kaiten    | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor SP to self for 3 turns.                                                 | 3     | +3 SP per turn                    |
-    | 2H Sword | Ragnarok       | Scourge          | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
-    | 2H Staff | Claustrum      | Gate of Tartarus | Major untyped spell attack on 1 enemy. Chance to reduce the Attack Power of 1 enemy for 3 turns, and continuously restores minor MP to self for 3 turns. | 3     | -15% Attack Power; +3 MP per turn |
-    | Bow      | Yoichinoyumi   | Namas Arrow      | Major physical attack with high Accuracy on 1 enemy. Increases own Accuracy for 3 turns.                                                                 | 3     | +13 ACC                           |
+    | Dagger   | Mandau         | Mercy Stroke     | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
+    | 1H Sword | Excalibur [XI] | Knights of Round | 31 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor HP to self for 3 turns.                                                 | 3     | HP regen                          |
+    | Katana   | Amanomurakumo  | Tachi: Kaiten    | 34 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor SP to self for 3 turns.                                                 | 3     | +3 SP per turn                    |
+    | 2H Sword | Ragnarok       | Scourge          | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
+    | 2H Staff | Claustrum      | Gate of Tartarus | 35 MP | Major untyped spell attack on 1 enemy. Chance to reduce the Attack Power of 1 enemy for 3 turns, and continuously restores minor MP to self for 3 turns. | 3     | -15% Attack Power; +3 MP per turn |
+    | Bow      | Yoichinoyumi   | Namas Arrow      | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Accuracy for 3 turns.                                                                 | 3     | +13 ACC                           |
 
-=== "Weapon Passives"
+=== "Weapon Passive Skills"
 
     | Type         | Weapon         | Passive                | Effect                                                                                            | Values                     |
     |--------------|----------------|------------------------|---------------------------------------------------------------------------------------------------|----------------------------|
