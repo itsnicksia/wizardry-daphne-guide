@@ -140,10 +140,11 @@ The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil 
 
 Some quick facts:  
 
-- Stat-wise, the top level items are approximately equivalent to normal silver rank items. However, they have a passive and active skill.   
-- They are always Red 4* with Silver level substats. So it's possible to FAS them before they reach max tier.
-- Their substats are locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.
-- The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.
+- The top level items are silver rank items that have an extra passive and active skill in addition to the normal item-type traits.   
+- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level substats. Enhancement and FAS also apply silver-level blessing increases. So it's possible to enhance and FAS them before they reach the highest level without any loss of potential stat range.  
+- Enhancement levels are preserved when Reforging to another level. Higher level items have higher enhancement limits.Levels 3 and 4 (Ebonsteel and Silver) can be enhanced to +20.  
+- Their blessings are all locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.  
+- The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
 
 ![](./img/collab_relic_equipment_fodder.png)
 
