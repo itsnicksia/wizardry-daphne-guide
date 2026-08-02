@@ -138,7 +138,7 @@ The event has added unique equipment called "Relic Weapons and Armor" (not in an
 
 The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
 
-There appears to be no level or story progress restriction to obtaining any of the relic upgrade materials, so even the lowest level event participant can theoretically finish the event with a set of Silver rank equipment.
+There appears to be no level or story progress restriction to obtaining any of the relic upgrade materials, so even the lowest level event participant can theoretically finish the event with a set of Silver rank equipment.  
 
 Some quick facts:  
 
