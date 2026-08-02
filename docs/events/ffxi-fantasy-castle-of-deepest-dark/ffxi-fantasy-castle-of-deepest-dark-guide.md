@@ -138,9 +138,11 @@ The event has added unique equipment called "Relic Weapons and Armor" (not in an
 
 The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
 
+There appears to be no level or story progress restriction to obtaining any of the relic upgrade materials, so even the lowest level event participant can theoretically finish the event with a set of Silver rank equipment.
+
 Some quick facts:  
 
-- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level substats.  
+- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings.  
 - Their blessings types are all locked, so FASing them will keep the blessing types the same and just reroll the values, similar to Master Rings from class trials.  
 - Enhancement:  
     - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
