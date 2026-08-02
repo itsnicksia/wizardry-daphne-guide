@@ -128,7 +128,7 @@ Players in the list will typically prioritize those on your friends list before 
 
 There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for relic equipment material in gold. However, Attestations can only be traded for Attestations of other weapon types, and Fragments can only be traded for Fragments/Attestations of other weapon types. 
 
-One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request. These bots are typically denoted by the "!" at the end of their names. This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
+One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request.This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
 
 ![](./img/bots.png)
 
