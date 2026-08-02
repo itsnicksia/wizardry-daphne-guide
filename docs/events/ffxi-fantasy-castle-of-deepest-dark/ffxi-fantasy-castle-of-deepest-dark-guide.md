@@ -39,8 +39,6 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 !!! note "To solve the 3-door puzzle you need to bring a team that matches MC's alignment and choose the corresponding door (Good-Neutral-Evil). Everyone must be the same alignment. For the Cursed Wheel toggle to register properly you need to defeat Ulmia and unlock the next Harken. It operates very similarly to the corrosion sentry registration in A3."  
 
-To properly solve this puzzle, you will need to make sure everyone besides the MC in the party are the same personality type, and then pick the door that matches that type. This way, no one is punished and no one gets angry at you. This will also register a toggle in the CW."
-
 4. There is a Crystal of Hope in Zone 4 for Ulmia. You may need to look up on the wall for it. As per usual, it is randomly located so check every portal. For the puzzle, you will need to bring a party of only 1 alignment and go through that door. Continue onwards, and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.
 5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
 
