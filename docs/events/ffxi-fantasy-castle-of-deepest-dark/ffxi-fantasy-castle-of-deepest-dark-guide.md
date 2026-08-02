@@ -284,6 +284,18 @@ Some quick facts:
     | Heavy Shield | Aegis          | Silver | +15   |           |           |           | -2  | -1  |     | 59 (+6) | 60 (+5) |
     | Heavy Shield | Aegis          | Silver | +20   |           |           |           | -2  | -1  |     | 65 (+6) | 65 (+5) |
 
+=== "Weapon Fixed Blessings"
+
+    | Type         | Weapon         | Slot 1 | Slot 2 | Slot 3 | Slot 4 |
+    |--------------|----------------|:------:|:------:|:------:|:------:|
+    | Dagger       | Mandau         | ATK    | SUR    | EVA    | ATK%   |
+    | 1H Sword     | Excalibur [XI] | ATK    | ACC    | EVA    | ATK%   |
+    | Katana       | Amanomurakumo  | ATK    | MAG    | EVA    | ATK%   |
+    | 2H Sword     | Ragnarok       | ATK    | SUR    | EVA    | ATK%   |
+    | 2H Staff     | Claustrum      | MAG    | DIV    | MAG%   | DIV%   |
+    | Bow          | Yoichinoyumi   | ATK    | ACC    | ASPD   | ATK%   |
+    | Heavy Shield | Aegis          | MDEF   | MDEF%  | EVA    | DEF    |
+
 === "Weapon Attack Skills"
 
     | Type     | Weapon         | Skill            | Cost  | Description                                                                                                                                              | Turns | Effect                            |
@@ -306,6 +318,7 @@ Some quick facts:
     | 2H Staff     | Claustrum      | Power of Claustrum     | Chance to dispel 1 buff off an enemy on a direct hit.                                             |                            |
     | Bow          | Yoichinoyumi   | Power of Yoichinoyumi  | Increases damage and Accuracy against flying enemies.                                             | +20% DMG, +20 ACC          |
     | Heavy Shield | Aegis          | Power of Aegis         | Continuously increases Magic Defense.                  
+
 
 ## Farming
 
