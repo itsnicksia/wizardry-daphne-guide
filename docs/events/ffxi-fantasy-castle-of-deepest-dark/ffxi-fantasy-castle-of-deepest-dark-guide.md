@@ -27,9 +27,9 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 11. You will meet Iroha in Zone 5, simply head to the middle of the floor and head slightly south to find two portals. You will need to head into each one and step on a pressure plate, which will unlock the door of Zone 5. Head to Zone 6.
 12. Zone 6 is a straight bridge. Simply head to the middle and see a cutscene between Iroha and Tenzen. Defeat Tenzen then watch both Tenzen and Iroha get absorbed by the Shadow Lord. Heading further across, you will see the eldest sibling of whom you are trying to rescue get absorbed by the Shadow Lord. Before continuing to Zone 7...
 
-!!! danger "As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring only one teammate with you, as the game requires you to bring at least one, and preferably someone you do not care about."
+!!! danger "As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins."
 
-12. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. However, this is a scripted loss, as he will enrage your entire party and slowly absorb them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
+12. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via grade obviously) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
 
 ### 2nd Run Good Ending?
 
