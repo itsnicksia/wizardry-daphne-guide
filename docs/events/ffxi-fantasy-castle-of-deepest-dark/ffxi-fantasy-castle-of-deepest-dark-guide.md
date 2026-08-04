@@ -134,7 +134,10 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 ## Relic Equipment  
 
-The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
+!!! note "Availability"
+    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken. Lulu hints to you at Zone 3 you should return to see if anything has changed. Players have reported continuing to progress through the story without returning and the unlock conditions not occurring. It is recommended you return to town at each Harken in between each new floor to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed to far.
+
+The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Remake" the highest/Silver level (essentially undoing its milestone blessings if you aren't happy with them the first time around.)  
 
 The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
 
@@ -150,7 +153,7 @@ Some quick facts:
     - Enhancement blessing increases also follow Silver level table ranges.  
     - Enhancement levels are preserved when Reforging to a higher item level.  
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
-    - (unverified) "Reset"-ing a Level 4 item seems like it would be equivalent to using a LFAS to reroll blessings. It is expected but unconfirmed if this would include reapplying milestone blessings or a FAS-like bonus milestone blessing.  
+    - (unverified) "Remake"-ing a Level 4 item seems to return an enhanced item to +0 so you can enhance snd reroll milestone blessings again. It is unconfirmed how this interacts with FAS bonus milestone blessing.  
 - Silver Tier Skills:  
     - At reforging to Level 4, items gain traits granting an active and a passive skill to the bearer.  
     - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
