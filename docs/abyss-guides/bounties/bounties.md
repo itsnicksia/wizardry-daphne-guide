@@ -1001,12 +1001,11 @@
         - Wanderer: 5 ATK, 5 ACC  
         - Mage of the Black Rod: 10 MP, 5 MAG  
         - Samurai of the Black Rod: ?  
-        - Tall Mage: 10 MP, 5 MAG
+        - Tall Mage: 10 MP, 5 MAG  
         - Silver-Haired Nun: 5 DIV, 5 RES  
         - Dark Knight of Bastok: 10 HP, 5 ATK, 5 DEF  
-        - Abhorrent One of Tavnazia: 5 ATK, 5 ASPD, 5 EVA  
-        - Priestess of the Far East: ?  
-        
+        - Abhorrent One of Tavnazia: 5 ATK, 5 ASPD, 5 EVA   
+        - Priestess of the Far East: 5 DIV, 5 ATK, 5 ACC    
     
 ??? note "Grip Gloves"
 
