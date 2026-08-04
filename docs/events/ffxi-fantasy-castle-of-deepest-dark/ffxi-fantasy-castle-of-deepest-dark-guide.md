@@ -99,6 +99,7 @@ This is unavailable for now and will be unlocked later during the event.
 - These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).
 
 !!! note "FFXI Bondmate Details"  
+
     !!!! note "Lion, Pirate's Daughter"  
         ![](./img/lion-bondmate.jpg)  
         
