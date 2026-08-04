@@ -150,12 +150,12 @@
             ![](./img/princess-hole.png)
             </div>
 
-        === "Optional Boss: Cyclops + Bigfoot"
-            
-            - More details to be added soon
-            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-            - At ~80% HP the Cyclops will summon another Bigfoot
-            - Cyclop's "Wheeling Cleave" can kill multiple team members 
+            === "Optional Boss: Cyclops + Bigfoot"
+                
+                - *More details to be added.*
+                - Battle starts with a Cyclops (25,000HP) and a Bigfoot (12,500HP), both at level 70.
+                - Cyclops will summon another Bigfoot soon, at 80% HP.
+                - Cyclop's 'Wheeling Cleave’ can kill multiple team members.
     
     ??? tip "Best Ending - Consult with a Mystic<span style="color: MediumOrchid">*</span>"
         
@@ -205,7 +205,7 @@
                 </div>
     
                 - Located in B2F in a side room 
-                - Defeating the Cyclops + Bigfoot is required for the Best ending and will not respawn once defeated
+                - The Cyclops + Bigfoot fight is singular, once defeated it will fail to show again.
 
             === "Sar-moon Herb Location"
             
@@ -218,10 +218,10 @@
                               
             === "Boss: Cyclops + Bigfoot"
                 
-                - More details to be added soon
-                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-                - At ~80% HP the Cyclops will summon another Bigfoot
-                - Cyclop's "Wheeling Cleave" can kill multiple team members 
+                - *More details to be added.*
+                - Battle starts with a Cyclops (25,000HP) and a Bigfoot (12,500HP), both at level 70.
+                - Cyclops will summon another Bigfoot soon, at 80% HP.
+                - Cyclop's 'Wheeling Cleave’ can kill multiple team members.
     
         ??? note "Bad Ending - Mystic Route"
 
@@ -231,7 +231,7 @@
                 - Head south to the person icon on the map, speak with the Mystic, and select "Talk about Elden Hill Village"
                 - The Mystic recommends using Sar-moon Herb to calm the villagers 
                 - Head downstairs to B2F 
-                    - The side area with the Cyclops + Bigfoot fight is optional
+                    - The side area with the Cyclops + Bigfoot fight is optional.
                 - Collect the Sar-moon Herb in the northeast corner 
                 - Return to B1F 
                 - Speak to the Mystic and give her the Sar-Moon Herb 
@@ -251,14 +251,14 @@
                 </div>
                 
                 - Located in the northeast area and requires reversing a stone to access
-                - Multiple enemies will spawn after it is picked up  
-
+                - Multiple enemies will spawn after it is picked up.
+                
             === "Optional Boss: Cyclops + Bigfoot"
                 
-                - More details to be added soon
-                - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-                - At ~80% HP the Cyclops will summon another Bigfoot
-                - Cyclop's "Wheeling Cleave" can kill multiple team members 
+                - *More details to be added.*
+                - Battle starts with a Cyclops (25,000HP) and a Bigfoot (12,500HP), both at level 70.
+                - Cyclops will summon another Bigfoot soon, at 80% HP.
+                - Cyclop's 'Wheeling Cleave’ can kill multiple team members.
 
 #### Pontiff Route
 
@@ -651,7 +651,7 @@
             - Speak to Raimi in town who recommends Sar-moon Herb in the Witch's Cave to calm the villagers
             - Enter the Witch's Cave 
             - Head north and down the stairs to B2F
-                - The side area with the Cyclops + Bigfoot is optional
+                - The side area with the Cyclops + Bigfoot is optional.
             - Collect the Sar-moon Herb in the northeast corner 
             - Exit
             - Speak with Raimi in town
@@ -669,13 +669,13 @@
             
             - Located in the northeast area and requires reversing a stone to access
             - Multiple enemies will spawn after it is picked up  
-        
-        === "Optional Boss: Cyclops + Bigfoot"
-            
-            - More details to be added soon
-            - Battle is against a Cyclops (~25,000 HP) and a Bigfoot, both level 70 
-            - At ~80% HP the Cyclops will summon another Bigfoot
-            - Cyclop's "Wheeling Cleave" can kill multiple team members 
+
+            === "Optional Boss: Cyclops + Bigfoot"
+                
+                - *More details to be added.*
+                - Battle starts with a Cyclops (25,000HP) and a Bigfoot (12,500HP), both at level 70.
+                - Cyclops will summon another Bigfoot soon, at 80% HP.
+                - Cyclop's 'Wheeling Cleave’ can kill multiple team members.
 
     ??? note "Good Ending - Elencia Dead"
 

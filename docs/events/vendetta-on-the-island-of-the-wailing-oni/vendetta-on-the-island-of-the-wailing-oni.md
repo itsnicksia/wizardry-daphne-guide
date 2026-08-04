@@ -4,28 +4,28 @@
 
 ## How to enable:
 
-- It gets enabled in Abyss 4 at around the time you reach the 'Rockhome Village Major Harken'.
+- This request gets enabled in Abyss 4 around the time one reaches the the 'Rockhome Village Major Harken'.
 
-## Part 1---Recovery of Oni Treasure
+## Part One---Recovery of Oni Treasure
 
 1. Go to Royal Capital, obtain the request "Recovery of Oni Treasure" in the featured tab. You will be given an 'Embarkation Token Half'. Head to the Port Town Grand Legion from the World Map and talk to the sailor in town with the chat bubble. He will bring you to the Island of the Wailing Oni. You may leave immediately if you wish, as the location is now unlocked on the world map.
 2. Enter B1F and interact with the Samurai. Help him (it is necessary for progression, and give him a Medicinal Herb or Dried Abalone (you can give from your storage).
-3. Head to center-south B2F and pick up the letter from the dead Samurai. Ask Kanosuke to to help translate it (this is a key item for later). Fight the Floor Boss on the bottom right, head to B3F. Head to the bottom left room to fight the Oni. This is a serious fight, essentially a Cyclops that can summon---dying is seriously a possibility.
+3. Head to center-south B2F and pick up the letter from the dead Samurai. Ask Kanosuke to help translate it (this is a key item for later). Fight the Floor Boss on the bottom right, head to B3F. Head to the bottom left room to fight the Oni. This is a serious fight, essentially a Cyclops that can summon---dying is seriously a possibility.
 
    ??? danger "Oni Fight Details"
         - <span style="color: #F2473A">Warning: </span>If you get killed by the Oni on the first run, the request will be reset and you will be returned you the royal capitol (the Flames of Resurrection will be unavailable)."
         - Has a lot of HP, several tens of thousands (possibly 25,000), spawns with 2 Red Hobgoblins in the same row.
         - Fire Element and does Fire Element attacks.
         - Has two actions per turn, though they may be spread out.
-        - Does extremely high damage, it's recommended to run a Knight with Knight's Defense to deal with this fight.
+        - Does extremely high damage, it's recommended to use a skill like Knight's Defense to deal with this fight.
         - Can be Crit, can be delayed, and Batlegref may need to be used on him.
         - Occasionally eliminate a Red Hobgoblin---this will require the Oni to use an action to summon another one.
 
 4. After he takes the prescribed damage, he will be finished off by Kanosuke. However, Kanosuke will turn into an Oni and backtrack to guard the treasure room. Pick up the key where the Oni used to be. Travel back to use the key on the locked rooms---it will open all the doors except the top-left room on B1F. It is only necessary, at this time, to enter the center room on B3F and read the diary/book there. Lulunarde will inform you that the request needs to be reset. (If you somehow skip Lulunarde's text or weren't paying attention, you can bring up the request in the request list and see if it mentions that nothing else can be done and that you need to Cursed Wheel.)
 5. Cursed Wheel the event and head to the island again. Save Kanosuke from hunger, hand him the letter that you got previously, tell him of his lord's (Lord Tsunahiko) illness, and accompany him (so he will read the foreign language scripts).
-6. Head to the top-left room on B1F (the Archive Room). It will be locked but Kanosuke will posit that her knows a key is hidden somewhere. It may have been noticed before that there is a wall etching in this 'castle'. Head to that etching which provides the location of the key (it is at BF2X1Y17). At the etching, Kanosuke will mark the location of the key on your map with an exclamation mark (X:18, Y:13). Grab the key and head back to the Archive Room. Read the the texts (right to left) on the shelves. In them it is learned that the Oni curse (inheritance by it's vanquisher) can be interrupted by a seal at the shrine.
+6. Head to the top-left room on B1F (the Archive Room). It will be locked but Kanosuke will posit that her knows a key is hidden somewhere. It may have been noticed before that there is a wall etching in this 'castle'. Head to that etching which provides the location of the key (it is at BF2X1Y17). Derived from the etching, Kanosuke will mark the location of the key on your map with an exclamation mark (X:18, Y:13). Grab the key and head back to the Archive Room. Read the the texts (right to left) on the shelves. In them it is learned that the Oni curse (inheritance by it's vanquisher) is interrupted by a seal at the shrine.
 7. Head to the shrine via the middle-upper door (once locked) on B1F to the upper-right of B3F. At the shrine it is learned that the seal has been broken. A new paper seal will need to be retrieved from the Archive Room (top left locked room in B1F) and salt from the Pantry (bottom left room in B2F). Head back to the shrine and let Kanosuke fix the seal.
-8. Head to the Oni and fight it again. Upon winning, Kanosuke needs time to sort the personal affects in the Treasure Room. Head to the middle locked room in B3F and read the diary. Head back to the Oni room and go into the treasure room. Here you will receive the request item (Gold Statue) for your help, Kanosuke as a Bondmate (Bind Tolerance), and a missive from Kanosuke to be sent to his Samurai Dojo. The Rock-Heart Style Dojo will appear on the map (to be able to enter it, Abyss Four must be cleared).
+8. Head to the Oni and fight it again. Upon winning, Kanosuke needs time to sort the personal affects in the Treasure Room. Head to the middle locked room in B3F and read the diary. Head back to the treasure room. Here you will receive the request item (Gold Statue) for your help, Kanosuke as a Bondmate (Bind Tolerance), and a missive from Kanosuke to be sent to his Samurai Dojo. The Rock-Heart Style Dojo will appear on the map (to be able to enter it, Abyss Four must be cleared).
 
 ??? map "B1F"
     ![](./img/island-of-the-wailing-oni-b1f.jpg)
@@ -36,22 +36,24 @@
 ??? map "B3F"
     ![](./img/island-of-the-wailing-oni-b3f.jpg)
 
-## Part 2---The Samurai Trials
+## Part Two---The Samurai Trials
 
-To make the Samurai Class available to the MC, the Samurai Trails must be completed.
+??? warning "Important Notes" 
 
-### Neutral or Good Route
+    - The Samurai Trials make the Samurai Class available to the MC. Three trials must be passed.
+    - Alignment of the MC offers two different routes: a good/neutral route, and an evil route.
 
-!!! note "You will need to have cleared Abyss 4 in your current route (Bad Ending is fine) to be able to unlock the 2nd part of this event. In addition, you need to have successfully completed Part 1 of this event."
+    - Prerequisite: Part One of this Request.
+    - Prerequisite: Abyss Four (Bad Ending is fine).
+
+### Good/Neutral Route
 
 1. Head to Rock-Heart Style Dojo from the world map. You'll be immediately thrown into an unwinnable fight but the enemies also do not deal that much damage. Simply stay alive until the fight is over.
-2. You will need to go through three different trials in order to unlock the Samurai class for the MC. Head into the first trial, which will place you in a map with a lot of candles all over the map. The first candle by the entrance will always be the first candle that needs to be lit. Upon lighting the candle, it will indicate the direction you need to go to light the next candle and so on. If you forgot the instructions or skipped over them, you can interact with the last candle lit again in order to get instructions. The next candle that needs to be lit will always be on the same X or Y axis as the previous candle, and not simply just the closest candle in that general direction. After successfully completing the puzzle, the final room will unlock and you will fight a deputy samurai 1-on-1 as samurai MC. After winning the fight, head back to the entrance to unlock the next trial.
-3. In the second trial, you will need to carry some water to a final location without spilling too much of the water on the way there. Every time you engage in combat, upon getting hit, some of the water will spill out. If you spill all the the water, you will need to head back to the entrance to get more. The main gimmick of this trial however is that the destination is located in a room that is only accessible via teleport pads scattered throughout the map. See maps below for fastest route to the correct location. Once again, you'll fight a deputy samurai 1-on-1. Return to the entrance to unlock the next trial.
-4. In the third and final trial, you will be heading the 4 different rooms on the map and defeating a samurai 1-on-1. The fights will be similar to the previous final fights, except that you'll have more resources. Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue. They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. After defeating all 4, head to defeat the deputy samurai in the bottom left room that has been unlocked. You then head to the center room of the map to meet the old man, in which you will need to successfully pass three QTE events in a row. Failure has you take damage, and you can essentially fail twice before you are killed. However, you may select the withdraw option to heal up before trying again. Finally, upon succeeding this event, you'll be thrown into a fight against Touma (backline) and 3 normal samurai in the frontline. While your MC is still a samurai with fixed equipment, you have access to your full team of adventurers. Successfully winning this fight unlocks the Samurai class change lantern for the MC.
+2. Head into the first trial (the trial of the body), which will place you in a map with a lot of candles all over the map. The candle by the entrance will always be the first candle that needs to be lit. Upon lighting the candle, it will indicate the direction you need to go to light the next candle and so on. (If you forgot the instructions or skipped over them, you can interact with the last candle lit again in order to get instructions.) The next candle that needs to be lit will always be on the same X or Y axis as the previous candle, though if there are multiple candles on that axis the proper candle may be the nearest candle.. After successfully completing the puzzle, the final room will unlock and you will fight a deputy Samurai 1-on-1 as Samurai MC. After winning the fight, head back to the entrance to unlock the next trial.
+3. In the second trial (the trial of technique), you will need to carry some water to a final location without spilling too much of the water on the way there. Every time upon getting hit in combat, some of the water will spill out. If you spill all the the water, you will need to head back to the entrance to get more. The main gimmick of this trial is: that the destination is located in a room that is only accessible via a single teleporter with numerous scattered throughout the map. For help with the fastest route see the map below. Once again, you'll fight a deputy samurai 1-on-1. Return to the entrance to unlock the next trial.
+4. In the third and final trial (of the mind), you will be heading to 4 different rooms on the map and fighting a Samurai one-on-one The fights will be similar to the previous final fights, except that you'll have more resources. Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue. They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. After defeating the fourth, two rooms will unlock: one on the mid-right, and another on the bottom-left. The mid-right room has a small treasure chest. The bottom-left room is where to fight the Deputy Master Samurai. After that, return to the old man, the Master Samurai, guarding the level entrance. He will say to meet him in the Main Hall (the large, room at the middle of the map). In the Main Hall the Master will require three QTE events be passedin a row (hint: setting a higher refresh rate can help). Failure results in physical damage, which will give approximately to attempts before getting killed. However, the 'Withdraw' option can be used to heal up before trying again. Upon succeeding this event, a fight sequence will trigger that must be won or the QTE event will restart. It is against Deputy Touma (rearguard) and summoned cronies (three normal samurai, in the vanguard). The MC will remain a Samurai with fixed equipment, and the adventurers you came into the Dojo with. Successfully winning this fight gifts the Lantern of Honor which unlocks the Samurai class tile in the Well of the Mind for the MC.
 
 ### Evil Route
-
-!!! caution "If your MC is evil however, a different route is presented below."
 
 1. The old man doesn't like you, so you will be siding with Touma at the start instead and fight the old man. Similar to the normal route, you only need to survive 3 rounds.
 2. Complete the three trials as before. Head to challenge the old man. You will have to do the QTE event from before but this time it will get much more difficult. Afterwards, you have two options here, either to kill the old man or kill Touma. 
