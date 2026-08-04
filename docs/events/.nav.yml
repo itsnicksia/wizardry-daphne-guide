@@ -1,21 +1,23 @@
 nav:
 
   - Special Requests: 
+    - FFXI Fantasy Castle of Deepest Dark: './ffxi-fantasy-castle-of-deepest-dark/ffxi-fantasy-castle-of-deepest-dark-guide.md'
     - Alabaster Hunting: './alabaster-hunting/alabaster-hunting.md'
     - Forbidden Area Exploration: './forbidden-area-exploration/forbidden-area-exploration.md'
     - Forgotten Craft of the Medicinal Arts: './forgotten-craft-of-the-medicinal-arts/forgotten-craft-of-the-medicinal-arts.md'
-    - Labyrinth of Fordraig: './labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
-    - Lamp of Malice: './lamp-of-malice/lamp-of-malice-text-guide.md'
     - Otherworld Adventurers: './otherworld-adventurers/otherworld-adventurers-guide.md'
-    - Pixie and the Secret Garden: './pixie-and-the-secret-garden/pixie-and-the-secret-garden-guide.md'
-    - Plot of the Sand Shadow: './plot-of-the-sand-shadow/plot-of-the-sand-shadow.md'
     - Vendetta on the Island of the Wailing Oni: './vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni.md'
+    - Plot of the Sand Shadow: './plot-of-the-sand-shadow/plot-of-the-sand-shadow.md'
+    - Pixie and the Secret Garden: './pixie-and-the-secret-garden/pixie-and-the-secret-garden-guide.md'
+    - Labyrinth of Fordraig: './labyrinth-of-fordraig/labyrinth-of-fordraig-guide.md'
+    - Lamp of Malice: './lamp-of-malice/lamp-of-malice-text-guide.md'    
   - Battlefront of Heroes: 
     - Season 1: './battlefront/season-1/battlefront-season-1.md' 
   - Class Trials:
     - Fighter Trials: './fighter-proving-grounds/fighter-proving-grounds-guide.md'
     - Mage Trials: './mage-proving-grounds/mage-proving-grounds-guide.md'
     - Knight Trials: './knight-proving-grounds/knight-proving-grounds-guide.md'
+    - Thief Trials: './thief-proving-grounds/thief-proving-grounds-guide.md'
   - Old Castle Ruins: 
     - Season 1: './old-castle-ruins/season-1/old-castle-ruins-season-1.md'
     - Season 2: './old-castle-ruins/season-2/old-castle-ruins-season-2.md'

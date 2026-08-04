@@ -100,6 +100,17 @@
         | convert_to_md_table 
         | add_indentation(spaces=8) }}
 
+    === "Wanderer"
+        {{ populate_quicklist(filter_values=['Wanderer'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Level'],
+        filter_column='Class')
+        | complete_unique_skills_list
+        | linkify_quicklist_skillnames(page.file.src_uri)
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }} 
+
 === "Unique Classes"
     === "Mage of the Black Rod"
         {{ populate_quicklist(filter_values=['Mage of the Black Rod'], 

@@ -42,8 +42,9 @@
 
 ### Despicable Trap
 
-   1. Choose the dialogue “They’re already dead.” when checking on the rooted knights  
-   2. Choose the dialogue “Leave it to Elmon.” when checking on the second rooted knights  
+   1. Choose the dialogue “They’re already dead.” when checking on the rooted knights.    
+   2. Choose the dialogue “Leave it to Elmon.” when checking on the second rooted knights.  
+       - On your second playthrough, the first time working through this part you will fail and be sent back to town where you will unlock the Cursed Wheel in the Ruins.  
 
 ??? warning "BOSS - Scorpion Lady"
 

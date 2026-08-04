@@ -31,9 +31,6 @@
 {% endblock PotentialInheritFreetext %}
 
 {% block UniqueSkillFreetext %}
-    === "MAPORFIC"
-        {{ get_skill_description("MAPORFIC") }}
-    
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}

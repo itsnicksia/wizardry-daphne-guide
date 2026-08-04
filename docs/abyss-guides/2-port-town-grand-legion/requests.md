@@ -278,7 +278,7 @@ Goetia -> Admiral Route
 1. Select options "You can start over now" and "If you go to the arena, you will die".
 2. Head to Royal Capital Item Shop.
 3. Head to Edge of Town and to Abyss entrance. Talk to suspicious man.
-4. Talk to the human knight, the suspicious man again, and then the human knight again.
+4. Talk to the 'earnest adventurer', the suspicious man again, and then the 'earnest adventurer' again.
 5. Defeat the enemy at the end of the road.
 6. Return to the Item Shop and obtain combat tools.
 7. Give them to Bonnie and Clyde.
@@ -290,19 +290,19 @@ Goetia -> Admiral Route
     ![](img/image_28.jpg)
 
 ??? info "Requirements"
-    - Defeat Bonnie and Clyde after defeating them each once per cursed wheel return.
+    - Defeat Bonnie and Clyde (together) after defeating them each separately to unlock necessary knowledge.
 
-- Warp to Grand Galleon (or anytime  between that and before Round 2) and talk to Bonnie and Clyde.
-- Select the options: "You can start over now" → "You can run outside now".
-- You will now receive a request from the Adventurer's Guild in the Royal Capital after heading there.
-- After accepting the request go speak to Dana, the innkeeper  
-- Go to Port Town Grand Legion and speak with Hille  
+- Warp to Grand Galleon (or anytime between that and before Round 2) and talk to Bonnie and Clyde.
+- Select the options: "You can start over now" and "You can run outside now".
+- You will then receive a request from the Adventurer's Guild in the Royal Capital.
+- After accepting the request go speak to Dana, the innkeeper.  
+- Go to Port Town Grand Legion and speak with Hille.  
 
 ??? info "Hille"
     ![](img/image_29.jpg)
 
-- Go to the world map and head to Rain Shelter Cave  
-- Beat the boss and take the exit in front of you
+- Go to the world map and head to Rain Shelter Cave. 
+- Beat the boss and take the exit in front of you.
 
 ??? map "Location"
     ![](img/image_30.jpg)

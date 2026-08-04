@@ -1,7 +1,7 @@
 nav:
-  - Adventurer Quicklist: './quicklist/adventurer-quicklist.md'
-  - Adventurer Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
-  - Legendary Adventurers:
+  - Quicklist: './quicklist/adventurer-quicklist.md'
+  - Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
+  - Legendary:
     - Abenius: './legendary-adventurers/details/Abenius.md'
     - Adam: './legendary-adventurers/details/Adam.md'
     - Ainikki: './legendary-adventurers/details/Ainikki.md'
@@ -17,10 +17,12 @@ nav:
     - Gerulf: './legendary-adventurers/details/Gerulf.md'
     - Gillion: './legendary-adventurers/details/Gillion.md'
     - Iarumas: './legendary-adventurers/details/Iarumas.md'
+    - Iroha: './legendary-adventurers/details/Iroha.md'
     - Kagero: './legendary-adventurers/details/Kagero.md'
     - Lanavaille: './legendary-adventurers/details/Lanavaille.md'
     - Livana: './legendary-adventurers/details/Livana.md'
     - Linaria: './legendary-adventurers/details/Linaria.md'
+    - Prishe: './legendary-adventurers/details/Prishe.md'
     - Raffaello: './legendary-adventurers/details/Raffaello.md'
     - Red Beard: './legendary-adventurers/details/Red-Beard.md'
     - Rinne: './legendary-adventurers/details/Rinne.md'
@@ -31,6 +33,7 @@ nav:
     - Yoizou: './legendary-adventurers/details/Yoizou.md'
     - Yrsa: './legendary-adventurers/details/Yrsa.md'
     - Yuzunamiki: './legendary-adventurers/details/Yuzunamiki.md'
+    - Zeid: './legendary-adventurers/details/Zeid.md'
   - Legendary Requests:
     - Adam - Unnamed Request: './legendary-adventurers/legendary-requests/adam/adam-request.md'
     - Debra - Investigate the Island of Ghosts: './legendary-adventurers/legendary-requests/debra/debra-request.md'
@@ -40,7 +43,7 @@ nav:
     - Alice - Preparation of an Offering to My God: './legendary-adventurers/legendary-requests/alice/alice-request.md'
     - Gerard - Visit to My Homeland: './legendary-adventurers/legendary-requests/gerard/gerard-request.md'
     - Abenius - Accompany Me to the Old Temple in My Homeland: './legendary-adventurers/legendary-requests/abenius/abenius-request.md'
-  - General Adventurers:
+  - General:
     - Alex: './general-adventurers/details/Alex.md'
     - Amelia: './general-adventurers/details/Amelia.md'
     - Asha: './general-adventurers/details/Asha.md'
@@ -74,7 +77,7 @@ nav:
     - Philip: './general-adventurers/details/Philip.md'
     - Valdor: './general-adventurers/details/Valdor.md'
     - Viviana: './general-adventurers/details/Viviana.md'
-  - Anonymous Adventurers:
+  - Anonymous:
     - Beast-Thi: './anonymous-adventurers/details/Beast-Thi.md'
     - Dwarf-Kni: './anonymous-adventurers/details/Dwarf-Kni.md'
     - Elf-Mag: './anonymous-adventurers/details/Elf-Mag.md'

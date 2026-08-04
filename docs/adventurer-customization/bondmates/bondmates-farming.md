@@ -58,6 +58,9 @@ Using the Cursed Wheel, "Leaping" back to Fresh Start will reset most bondmate l
     16. Enter Abyss to B7F, win all 4 undead waves. Get bond. (Automatically return to town.)  
     17. Repeat Cursed Wheel Leaps.  
 
+??? note "Ghreen Jelly"
+    In June 2026 the [Ghreen Jelly](./beginning-abyss/bondmates.md#ghreen-jelly) bondmate was changed so that it could be increased up to level 5. This is a Wandering NPC that randomly appears on a currently unknown set of Beginning Abyss floors. After getting his bondmate, you won't see him again until you reset the Abyss with the Cursed Wheel. To add him to this farming cycle, be sure you are carrying around at least one Azure Ore clump so that any time you see him you can feed him one.  We haven't tracked how many gems are needed the to get his bondmate the first time, but on subsequent encounters a single Azure Ore clump has been enough to re-acquire the bond. The Beginning Abyss doesn't have a great Wandering NPC grinding location like Abyss 2 does, but you could try using B5F and the Harken-connected west hallway/rooms as a low combat probability area to check, Return, repeat.
+
 ## Trade Waterways Bondmates
 Work in progress.  [Contributions welcome](../../index.md#contributing).
 

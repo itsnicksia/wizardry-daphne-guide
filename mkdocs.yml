@@ -8,7 +8,7 @@ theme:
   font:
     text: Zen Old Mincho
   logo: img/logo_red.webp
-  favicon: img/favicon.ico
+  favicon: https://wizardry.fasterthoughts.io/img/favicon.ico
   features:
     - content.footnote.tooltips
     - content.tooltips

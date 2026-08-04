@@ -194,7 +194,7 @@
 
 ### Abyss 1
 
-??? danger "Goblin Daddy (45 Bounty Medals)" 
+??? danger "Goblin Daddy - B3F - 45 Medals" 
 
     === "Wanted Poster" 
         ![](./img/goblin-daddy.png)
@@ -210,10 +210,10 @@
         - HP: 5.5-6K
         - Spawns with many goblin enemies (HP: ~500) and can resummon them if killed.
 
-    === "Map Location"
+    === "Map B3F "
         ![](./img/goblin-daddy-loc.png)
 
-??? danger "Warped One Burning with Vengeance (30 Bounty Medals)" 
+??? danger "Warped One Burning with Vengeance - B1F - 30 Medals" 
 
     === "Wanted Poster" 
         ![](./img/warped-one-burning-with-vengeance.png)
@@ -229,10 +229,10 @@
         - HP: 9.5-10K
         - Spawns as a Red Spinner Woman by itself.
 
-    === "Map Location"
+    === "Map: B1F"
         ![](./img/warped-one-burning-with-vengeance-loc.png)
         
-??? danger "Jhael, The Novice Slayer (30 Bounty Medals)" 
+??? danger "Jhael, The Novice Slayer - B4F - 30 Medals" 
 
     === "Wanted Poster" 
         ![](./img/jhael-the-novice-slayer.png)
@@ -248,10 +248,10 @@
         - HP: 5.5-6K
         - Spawns as an Elf Fighter Adventurer by himself.
 
-    === "Map Location"
+    === "Map B4F"
         ![](./img/jhael-the-novice-slayer-loc.png)
 
-??? danger "Grudge-Bearing Sack Doll (100 Bounty Medals)" 
+??? danger "Grudge-Bearing Sack Doll - B5F - 100 Medals" 
 
     === "Wanted Poster" 
          ![](./img/grudge-bearing-sack-doll.png)
@@ -271,7 +271,7 @@
         - Seems to have a 7-day cooldown before respawning.
         - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to respawn.
         
-??? danger "Brokk, The Shrewd Swindler (55 Bounty Medals, 105 if Captured)" 
+??? danger "Brokk, The Shrewd Swindler - B3F - 55 Medals (+50 Captured)" 
 
     === "Wanted Poster" 
         ![](./img/brokk-the-shrewd-swindler.png)
@@ -290,10 +290,10 @@
         - HP: 11-11.5K 
         - Spawns as a Dwarf Fighter by himself.
 
-    === "Map Location"
+    === "Map B3F"
         ![](./img/brokk-the-shrewd-swindler-loc.png)
         
-??? danger "Skeleton Archmage (90 Bounty Medals)" 
+??? danger "Skeleton Archmage - B7F - 90 Medals" 
 
     === "Wanted Poster" 
         ![](./img/skeleton-archmage.png)
@@ -314,7 +314,7 @@
         - Can be silenced.
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
 
-??? danger "Saige the Sacker (110 Bounty Medals)"
+??? danger "Saige the Sacker - B6F - 110 Medals"
 
     === "Wanted Poster" 
         ![](./img/saige-the-sacker.png)
@@ -330,10 +330,10 @@
         - HP: ~5k (can be captured after ~3k)
         - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
 
-    === "Map Location"
+    === "Map B6F"
         ![](./img/saige-the-sacker-loc.png)
 
-??? danger "Six-Limbed Storm (180 Bounty Medals)" 
+??? danger "Six-Limbed Storm - B5F - 180 Medals" 
 
     === "Wanted Poster" 
         ![](./img/six-limbed-storm.png)
@@ -354,10 +354,10 @@
         - Maces are useful as they cannot miss.
         - Will get stronger and faster as the fight progresses. 
         
-    === "Map Location"
+    === "Map: B5F"
         ![](./img/six-limbed-storm-loc.png)
 
-??? danger "Host of the Cursed Banquet (200 Bounty Medals)" 
+??? danger "Host of the Cursed Banquet - B6F - 200 Medals" 
 
     === "Wanted Poster" 
         ![](./img/host-of-the-cursed-banquet.png)
@@ -375,10 +375,10 @@
         - The wight acts twice per turn.
         - It's highly recommended to simply cast LA- spells to clear this. They are also all susceptible to Marein.
 
-    === "Map Location"
+    === "Map B6F"
         ![](./img/host-of-the-cursed-banquet-loc.png)
         
-??? danger "Peerless Scorpionesses (280 Bounty Medals)" 
+??? danger "Peerless Scorpionesses - B2F - 280 Medals" 
 
     === "Wanted Poster" 
         ![](./img/peerless-scorpionesses.png)
@@ -397,12 +397,12 @@
         - After a certain HP threshold is reached (~4K), either Scorpion Lady will cast Rage, which allows it to move 5 times in one turn
         - Fight can be ended without the second Scorpion Lady being summoned.
 
-    === "Map Location"
+    === "Map B2F"
         ![](./img/peerless-scorpionesses-loc.png)
 
 ### Abyss 2 
 
-??? danger "The Unpierceable One (40 Bounty Medals)" 
+??? danger "The Unpierceable One - D3 - 40 Medals" 
 
     === "Wanted Poster" 
         ![](./img/the-unpierceable-one.png)
@@ -420,7 +420,7 @@
         - Has very high defense.
         - Susceptible to Kantios (Confusion). 
 
-??? danger "Patti, Apostate of the Sea (35 Bounty Medals)" 
+??? danger "Patti, Apostate of the Sea - D5 - 35 Medals" 
 
     === "Wanted Poster" 
         ![](./img/patti-apostate-of-the-sea.png)
@@ -438,10 +438,10 @@
         - The adds have roughly 1-1.5K HP. 
         - Susceptible to be Kantios (Confusion). 
 
-    === "Map Location"
+    === "Map D5"
         ![](./img/patti-apostate-of-the-sea-loc.png)
 
-??? danger "The Lurking Flutter Hunting-Fey (80 Bounty Medals)"
+??? danger "The Lurking Flutter Hunting-Fey - Valeon Plains - 80 Medals"
 
     === "Wanted Poster" 
         ![](./img/the-lurking-flutter-hunting-fey.png)
@@ -461,7 +461,7 @@
         - Looking south from entrance:
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
-??? danger "The Unending Breath of Stone (70 Bounty Medals)" 
+??? danger "The Unending Breath of Stone - D1 - 70 Medals" 
 
     === "Wanted Poster" 
         ![](./img/the-unending-breath-of-stone.png)
@@ -477,7 +477,7 @@
         - Spawns with 2 Chimeras (5.5K HP) in the front row, and 1 Chimera in the middle row. The Gorgon is in the backmost row.
         - Extremely weak to Kantios (Confuse), which will disable its stone breath and force it to use physical attacks. Have your Kantios user move last, but before the Gorgon to keep it applied each turn.  
 
-??? danger "The Champion (80 Bounty Medals)" 
+??? danger "The Champion - D2 - 80 Medals" 
 
     === "Wanted Poster" 
         ![](./img/the-champion.png)
@@ -495,7 +495,7 @@
         - Acts twice per turn. 
         - Susceptible to Kantios (Confusion). 
 
-??? danger "Dungeon-Stalkers (115 Bounty Medals)" 
+??? danger "Dungeon-Stalkers - D6 - 115 Medals" 
 
     === "Wanted Poster" 
         ![](./img/dungeon-stalkers.png)
@@ -511,10 +511,10 @@
         - HP: ???
         - Spawns as 3 Bandits in the same row.
 
-    === "Map Location"
+    === "Map D6"
         ![](./img/dungeon-stalkers-loc.png)
 
-??? danger "Fallen Princess of Bewitching Dreams (120 Bounty Medals)" 
+??? danger "Fallen Princess of Bewitching Dreams - Ship 1 - 120 Medals" 
 
     === "Wanted Poster" 
         ![](./img/fallen-princess-of-bewitching-dreams.png)
@@ -531,10 +531,10 @@
         - Spawns with 5 hostile adventurers in the front row. The Succubus will be in the back row.
         - The succubus can move twice per turn.
 
-    === "Map Location"
+    === "Map Ship 1"
         ![](./img/fallen-princess-of-bewitching-dreams-loc.png)
 
-??? danger "Monica, the Self-Proclaimed Enforcer (210 Bounty Medals)"    
+??? danger "Monica, the Self-Proclaimed Enforcer - D1 - 210 Medals"    
 
     === "Wanted Poster" 
         ![](./img/monica-the-self-proclaimed-enforcer.png)
@@ -551,10 +551,10 @@
         - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
         - After doing enough damage to her (~4k), she will become fatigued and you may capture her with Binding Rope
 
-    === "Map Location"
+    === "Map D1"
         ![](./img/monica-the-self-proclaimed-enforcer-loc.png)
       
-??? danger "Dolan, the Long-Lost Sailor (215 Bounty Medals)" 
+??? danger "Dolan, the Long-Lost Sailor - D3 - 215 Medals" 
 
     === "Wanted Poster" 
         ![](./img/dolan-the-long-lost-sailor.png)
@@ -571,7 +571,7 @@
         - Spawns as an Oar Collector by itself.
         - At ~3K HP it will flood the battlefield out of turn.
         
-??? danger "Ecstatic Blazing Eye (310 Bounty Medals)" 
+??? danger "Ecstatic Blazing Eye - Ship 2 - 310 Medals" 
 
     === "Wanted Poster" 
         ![](./img/ecstatic-blazing-eye.png)
@@ -590,12 +590,12 @@
         - Does Dark Type (element) damage and will easily kill any Light Type units (Abenius, Debra, Clarissa, etc.)
         - The strategy [Ninja Crit Fishing](../../strategies/combat-strategies.md#ninja-crit-fishing) can be utilized to great effect to kill this bounty and save some time. Recommended aspd > ~80.
 
-    === "Map Location"
+    === "Map Ship 2"
         ![](./img/ecstatic-blazing-eye-loc.png)
 
 ### Abyss 3 
 
-??? danger "Reaper Bunny (65 Bounty Medals)" 
+??? danger "Reaper Bunny - Z2 - 65 Medals" 
     
     === "Wanted Poster" 
         ![](./img/reaper-bunny.png)
@@ -612,7 +612,7 @@
         - Spawns with 1 normal Vorpal Bunny on each side (3K HP). The boss Vorpal Bunny is Light Type (element).
         - Acts twice on its turn and has extremely high evasion.
         
-??? danger "Sand Shadow that Calls Scorched Earth (60 Bounty Medals)"
+??? danger "Sand Shadow that Calls Scorched Earth - Z1 - 60 Medals"
 
     === "Wanted Poster" 
         ![](./img/sand-shadow-that-calls-scorched-earth.png)
@@ -630,7 +630,7 @@
         - There are 3 in the front row, 3 in the middle row, with the boss in the back.
         - The minions will do a suicide attack at low HP, which can be defended against. 
         
-??? danger "Petz, the Mook who Flaunts Authority (145 Bounty Medals)"
+??? danger "Petz, the Mook who Flaunts Authority - Z3 - 145 Medals"
 
     === "Wanted Poster" 
         ![](./img/petz-the-mook-who-flaunts-authority.png)
@@ -647,10 +647,10 @@
         - Spawns with 5 Pirate Berserkers in the frontline. Ruffian boss will be in the backline.
         - They are relatively weak.
 
-    === "Map Location"
+    === "Map Z3"
         ![](./img/petz-the-mook-who-flaunts-authority-loc.png)
 
-??? danger "Timid Crimson Fang (240 Bounty Medals)"
+??? danger "Timid Crimson Fang - Z5 - 240  Medals"
 
     === "Wanted Poster" 
         ![](./img/timid-crimson-fang.png)
@@ -668,10 +668,10 @@
         - The Vampire has extremely high evasion.
         - Can use Dalto (Copper Grade Mage Spell) spells to freeze the vampire reducing evasion significantly.
 
-    === "Map Location"
+    === "Map Z5"
         ![](./img/timid-crimson-fang-loc.png)
 
-??? danger "Insatiable Gorger (360 Bounty Medals)"
+??? danger "Insatiable Gorger - Z8 - 360 Medals"
 
     === "Wanted Poster" 
         ![](./img/insatiable-gorger.png)
@@ -688,7 +688,7 @@
         - Spawns by itself as an Ent.
         - It can move twice per turn, and tends to cast Breath of Gluttony, which is a row damaging skill that guarantees Critical Poison with a chance to also Confuse.
 
-??? danger "Ross, the Twisted Knight of Justice (400 Bounty Medals)"
+??? danger "Ross, the Twisted Knight of Justice - Z10 - 400 Medals"
 
     === "Wanted Poster" 
         ![](./img/ross-the-twisted-knight-of-justice.png)
@@ -707,10 +707,10 @@
         - Dwarf Fighter uses standard skills. The Elf Mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
         - Backline can be confused with Kantios. Ross can be stunned. 
 
-    === "Map Location"
+    === "Map Z10"
         ![](./img/ross-the-twisted-knight-of-justice-loc.png)
 
-??? danger "Shadow-Lurking Operative (400 Bounty Medals)"
+??? danger "Shadow-Lurking Operative - Z7 - 400 Medals"
 
     === "Wanted Poster" 
         ![](./img/shadow-lurking-operative.png)
@@ -727,7 +727,7 @@
         - Spawns with a front row and middle row of Indigo and Amber ninjas. The boss ninja will be in the backmost row.
         - This fight is very similar to that of the Sand Shadow Cave boss fight. There is a lot of confusion/critical.
 
-??? danger "Indolent Demon Marquis (425 Bounty Medals)"
+??? danger "Indolent Demon Marquis - Z6 - 425 Medals"
 
     === "Wanted Poster" 
         ![](./img/indolent-demon-marquis.png)
@@ -747,10 +747,10 @@
         - The Greater Demon has a lot of surety evasion (~150)
         - It is recommended to not kill all the lesser demons (don't let the Greater Demon boss reach the front row), buff front row with masolotu + use evasion gear, and carry ranged damaging options. Focus entirely on damaging the Greater Demon boss and just ignore the lesser demons.
 
-    === "Map Location"
+    === "Map Z6"
         ![](./img/indolent-demon-marquis-loc.png)
 
-??? danger "Mellie, the Coin-Counting Killer (500 Bounty Medals)"
+??? danger "Mellie, the Coin-Counting Killer - Z6 - 500 Medals"
 
     === "Wanted Poster" 
         ![](./img/mellie-the-coin-counting-killer.png)
@@ -769,10 +769,10 @@
         - She moves twice per turn and will cast Healing skills/debuffs/AOE magic.
         - The Knights have a very high chance to defend a hit on Mellie.
 
-    === "Map Location"
+    === "Map Z6"
         ![](./img/mellie-the-coin-counting-killer-loc.png)
 
-??? danger "Veigar, the Sorceror Who Rules the Dead (800 Bounty Medals, 1,200 Captured)"
+??? danger "Veigar, the Sorceror Who Rules the Dead - Z2 - 800 Medals (+400 Captured)"
 
     === "Wanted Poster" 
         ![](./img/veigar-the-sorcerer-who-rules-the-dead.png)
@@ -793,10 +793,10 @@
         - Both Necromancer + Necrocore cannot spawn as a relic monster.
         - 2H Expulsion weapons are helpful to bring for the Necrocores. 
 
-    === "Map Location"
+    === "Map Z2"
         ![](./img/veigar-the-sorcerer-who-rules-the-dead-loc.png)
 
-??? danger "Mad, Rampaging, Thunderous Fiend (1,200 Bounty Medals)"
+??? danger "Mad, Rampaging, Thunderous Fiend - Z10 - 1,200 Medals"
 
     === "Wanted Poster" 
         ![](./img/mad-rampaging-thunderous-fiend.png)
@@ -818,12 +818,12 @@
         - The Succubi aspd ranges from 70-100. If they are causing charming issues, try stacking an aspd mage with at least 100 aspd and casting [Kantios](../../appendices/skills-and-spells/skills-and-spells.md#active-skills) on them.
         - The strategy [Ninja Crit Fishing](../../strategies/combat-strategies.md#ninja-crit-fishing) can be utilized to kill this bounty target. Keep in mind, even if you kill the cyclops you will have to deal with the remaining mobs. Recommended aspd > ~90.
 
-    === "Map Location"
+    === "Map Z10"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
 
 ### Abyss 4
 
-??? danger "Ice Frost and Potent Venom Strangler Vine (950 Bounty Medals)"
+??? danger "Ice Frost and Potent Venom Strangler Vine - R4 - 950 Medals"
 
     === "Wanted Poster"
         ![](./img/ice-frost-and-potent-venom-strangler-vine.png)
@@ -837,13 +837,12 @@
         - Available slightly after Rockhome Village Major Harken and interacting with Nullshadow for the first time
         - Does -not- require A3 Mastermind Ending
 
-        
     === "Fight Details"
         - HP: 38.5k
         - Spawns with 2 Ice Entities in the same row.
         - High HP, but otherwise acts like its normal counterpart.
 
-??? danger "Dutz, the Honey Tonic Savant (1,140 Bounty Medals)"
+??? danger "Dutz, the Honey Tonic Savant - R9 - 1,140 Medals"
 
     === "Wanted Poster" 
         ![](./img/dutz-the-honey-tonic-savant.png)
@@ -862,10 +861,10 @@
         - After defeating him, you MUST give him the Tonic or else he will die and the bounty will fail.
         - Tonics (Honeys) may be bought from him (Snow, Moon, Flower, and Night) upon meeting him again. Their uses are of yet unknown. He will disappear after the purchase. Prerequisite: this seems to require successfully completing the Octonarus Ending in A2. Access: Travel Easiest: CW > 'Passed Through the Coal Mine'.
 
-    === "Map Location"
+    === "Map R9"
         ![](./img/dutz-the-honey-tonic-savant-loc.png)
 
-??? danger "Spirit Realm Automaton (1,380 Bounty Medals)"
+??? danger "Spirit Realm Automaton - R1 - 1,380 Medals"
 
     === "Wanted Poster" 
         ![](./img/spirit-realm-automaton.png)
@@ -884,10 +883,10 @@
         - Is Dark element, but much weaker than typical golems.
         - Extremely recommended to bring multiple fighters with 2H Maces. Badios/Foros users are okay as well if using Mental Unity. Otherwise, magic is not recommended.
 
-    === "Map Location"
+    === "Map R1"
         ![](./img/spirit-realm-automaton-loc.png)
 
-??? danger "Wailing Twin Dolls (1,550 Bounty Medals)"
+??? danger "Wailing Twin Dolls - R3 - 1,550 Medals"
 
     === "Wanted Poster" 
         ![](./img/wailing-twin-dolls.png)
@@ -907,7 +906,7 @@
         - Upon taking enough damage, they can cast Ballroom Waltz (full team charm) once and then Dance (full team confuse) once out of turn.
         - They can also summon a Stonefolk in the back row.
 
-    === "Map Location"
+    === "Map R3"
         ![](./img/wailing-twin-dolls-loc.png)
 
 ## Bounty Medal Exchange Shop
@@ -988,18 +987,29 @@
 ??? note "Book of Honed Ability Secrets" 
 
     - Stats vary by the unit's class and will be updated automatically when class changing a unit, including the MC. 
-    - Fighter: 5 ATK, 5 ACC
-    - Knight: 10 HP, 5 DEF, 5 MDEF
-    - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
-    - Ninja: 5 ATK, 5 EVA, 5 ASPD
-    - Samurai: 5 ATK, 5 MAG, 5 ACC
-    - Ranger: 5 ACC, 5 ASPD
-    - Priest: 5 DIV, 5 RES
-    - Mage: 10 MP, 5 MAG
-
+    - General Classes:  
+        - Fighter: 5 ATK, 5 ACC
+        - Knight: 10 HP, 5 DEF, 5 MDEF
+        - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
+        - Ninja: 5 ATK, 5 EVA, 5 ASPD
+        - Samurai: 5 ATK, 5 MAG, 5 ACC
+        - Ranger: 5 ACC, 5 ASPD
+        - Priest: 5 DIV, 5 RES
+        - Mage: 10 MP, 5 MAG
+        - Healer:  5 DIV, 5 MAG, 5 ASPD
+    - Unique Classes:  
+        - Wanderer: 5 ATK, 5 ACC  
+        - Mage of the Black Rod: 10 MP, 5 MAG  
+        - Samurai of the Black Rod: ?  
+        - Tall Mage: 10 MP, 5 MAG  
+        - Silver-Haired Nun: 5 DIV, 5 RES  
+        - Dark Knight of Bastok: 10 HP, 5 ATK, 5 DEF  
+        - Abhorrent One of Tavnazia: 5 ATK, 5 ASPD, 5 EVA   
+        - Priestess of the Far East: 5 DIV, 5 ATK, 5 ACC    
+    
 ??? note "Grip Gloves"
 
-    - Forthcoming. 
+    - Silver rank, cloth gloves. Starts at +22 DEF, fixed 34 ACC, Detect from +5 to +10, with "Capture-Alive Rate Up" Trait.  
 
 ## Farming 
 
