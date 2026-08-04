@@ -61,19 +61,19 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 ??? warning "Rewards for 2nd Run Completion"
 
-    === "Lion Bondmate"
+    === "Lion, Pirate's Daughter"
         ![](./img/lion-bondmate.png)
 
         - Provides about 17% Stun Tolerance at +5
         - Provides 4 extra Surety if put on Zeid at +5
 
-    === "Ulmia Bondmate"
+    === "Ulmia the Songstress"
         ![](./img/ulmia-bondmate.png)
 
         - Provides 8 Resistance at +5
         - Provides 8 extra ATK if put on Prishe at +5
 
-    === "Tenzen Bondmate"
+    === "Tenzen, Samurai of the Far East"
         ![](./img/tenzen-bondmate.png)
 
         - Provides about 17% Paralysis Tolerance at +5
