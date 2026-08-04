@@ -114,7 +114,18 @@ This is unavailable for now and will be unlocked later during the event.
 - Lion, Tenzen, and Ulima will become bondmates after achieving the Good Ending.  
 - Bonds can be leveled by simply using the Cursed Wheel to leap back to right before the final fight, winning the battle, and turning in the Request.  
 - Bonds can achieve level 5 with 11 completions.  
-- These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).  
+- These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).
+
+!!! note "FFXI Bondmate Details"
+    !!!! note "Lion"
+        ![](./img/bondmates-lion.jpg)
+
+    !!!! note "Ulmia"
+        ![](./img/bondmates-ulmia.jpg)
+        
+    !!!! note "Tenzen"
+        ![](./img/bondmates-tenzen.jpg)
+
 
 ## Trading
 
