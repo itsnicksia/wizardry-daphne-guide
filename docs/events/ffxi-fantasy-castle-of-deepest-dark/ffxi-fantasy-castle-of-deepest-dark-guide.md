@@ -149,173 +149,175 @@ Some quick facts:
     - At reforging to Level 4, items gain traits granting an active and a passive skill to the bearer.  
     - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
 
-### Relic Equipment Reforge Material Table
+??? tip "Relic Equipment Reforge Material Table"
 
-![](./img/collab_relic_equipment_fodder.png)
+    ![](./img/collab_relic_equipment_fodder.png)
 
 ### Relic Equipment Information Tables
 
-=== "Reforge Materials By Tier"
-
-    | Type         | Stage      | Weapon           | Rank      | Materials                                                                                                  |
-    |--------------|------------|------------------|-----------|------------------------------------------------------------------------------------------------------------|
-    | Dagger       | T1         | Relic Dagger     | Bronze    | -                                                                                                          |
-    | Dagger       | T2         | Malefic Dagger   | Iron      | 100 Byne Bill ×12                                                                                          |
-    | Dagger       | T3         | Dynamis Dagger   | Steel     | Montiont Silverpiece ×45                                                                                   |
-    | Dagger       | T4         | Batardeau        | Ebonsteel | Attestation of Celerity ×45; Lungo-Nango Jadeshell ×180                                                    |
-    | Dagger       | T5 (Final) | Mandau           | Silver    | Ornate Fragment ×45; Necropsyche ×45; 10,000 Byne Bill ×60                                                 |
-    | Dagger       | Remake     | Mandau           | Silver    | Ouroboros Ore ×10; Attestation of Celerity ×22; Ornate Fragment ×22; 10,000 Byne Bill ×75                  |
-    | 1H Sword     | T1         | Relic Sword      | Bronze    | -                                                                                                          |
-    | 1H Sword     | T2         | Glyptic Sword    | Iron      | Montiont Silverpiece ×12                                                                                   |
-    | 1H Sword     | T3         | Dynamis Sword    | Steel     | 100 Byne Bill ×45                                                                                          |
-    | 1H Sword     | T4         | Caliburn         | Ebonsteel | Attestation of Glory ×45; Lungo-Nango Jadeshell ×180                                                       |
-    | 1H Sword     | T5 (Final) | Excalibur [XI]   | Silver    | Holy Fragment ×45; Necropsyche ×45; 10,000 Byne Bill ×60                                                   |
-    | 1H Sword     | Remake     | Excalibur [XI]   | Silver    | Ouroboros Ore ×10; Attestation of Glory ×22; Holy Fragment ×22; 10,000 Byne Bill ×75                       |
-    | Katana       | T1         | Ito              | Bronze    | -                                                                                                          |
-    | Katana       | T2         | Hayatemaru       | Iron      | Montiont Silverpiece ×10                                                                                   |
-    | Katana       | T3         | Oboromaru        | Steel     | Lungo-Nango Jadeshell ×45                                                                                  |
-    | Katana       | T4         | Totsukanotsurugi | Ebonsteel | Attestation of Decisiveness ×45; 100 Byne Bill ×180                                                        |
-    | Katana       | T5 (Final) | Amanomurakumo    | Silver    | Divine Fragment ×45; Necropsyche ×45; Ranperre Goldpiece ×60                                               |
-    | Katana       | Remake     | Amanomurakumo    | Silver    | Ouroboros Ore ×10; Attestation of Decisiveness ×22; Divine Fragment ×22; Ranperre Goldpiece ×75            |
-    | 2H Sword     | T1         | Relic Blade      | Bronze    | -                                                                                                          |
-    | 2H Sword     | T2         | Gilded Blade     | Iron      | Montiont Silverpiece ×12                                                                                   |
-    | 2H Sword     | T3         | Dynamis Blade    | Steel     | Lungo-Nango Jadeshell ×50                                                                                  |
-    | 2H Sword     | T4         | Valhalla         | Ebonsteel | Attestation of Righteousness ×45; 100 Byne Bill ×180                                                       |
-    | 2H Sword     | T5 (Final) | Ragnarok         | Silver    | Intricate Fragment ×45; Necropsyche ×45; Ranperre Goldpiece ×60                                            |
-    | 2H Sword     | Remake     | Ragnarok         | Silver    | Ouroboros Ore ×10; Attestation of Righteousness ×22; Intricate Fragment ×22; Ranperre Goldpiece ×75        |
-    | 2H Staff     | T1         | Relic Staff      | Bronze    | -                                                                                                          |
-    | 2H Staff     | T2         | Sage's Staff     | Iron      | Lungo-Nango Jadeshell ×16                                                                                  |
-    | 2H Staff     | T3         | Dynamis Staff    | Steel     | 100 Byne Bill ×50                                                                                          |
-    | 2H Staff     | T4         | Thyrus           | Ebonsteel | Attestation of Virtue ×45; Montiont Silverpiece ×180                                                       |
-    | 2H Staff     | T5 (Final) | Claustrum        | Silver    | Celestial Fragment ×45; Necropsyche ×45; Rimilala Stripeshell ×60                                          |
-    | 2H Staff     | Remake     | Claustrum        | Silver    | Ouroboros Ore ×10; Attestation of Virtue ×22; Celestial Fragment ×22; Rimilala Stripeshell ×75             |
-    | Bow          | T1         | Relic Bow        | Bronze    | -                                                                                                          |
-    | Bow          | T2         | Wolver Bow       | Iron      | Montiont Silverpiece ×12                                                                                   |
-    | Bow          | T3         | Dynamis Bow      | Steel     | Montiont Silverpiece ×45                                                                                   |
-    | Bow          | T4         | Futatokoroto     | Ebonsteel | Attestation of Transcendence ×45; Lungo-Nango Jadeshell ×180                                               |
-    | Bow          | T5 (Final) | Yoichinoyumi     | Silver    | Snarled Fragment ×45; Necropsyche ×45; Rimilala Stripeshell ×60                                            |
-    | Bow          | Remake     | Yoichinoyumi     | Silver    | Ouroboros Ore ×10; Attestation of Transcendence ×22; Snarled Fragment ×22; Rimilala Stripeshell ×75        |
-    | Heavy Shield | T1         | Relic Shield     | Bronze    | -                                                                                                          |
-    | Heavy Shield | T2         | Bulwark Shield   | Iron      | 100 Byne Bill ×4; Montiont Silverpiece ×4; Lungo-Nango Jadeshell ×4                                        |
-    | Heavy Shield | T3         | Dynamis Shield   | Steel     | 100 Byne Bill ×12; Montiont Silverpiece ×12; Lungo-Nango Jadeshell ×12                                     |
-    | Heavy Shield | T4         | Ancile           | Ebonsteel | Attestation of Invulnerability ×45; 100 Byne Bill ×60; Montiont Silverpiece ×60; Lungo-Nango Jadeshell ×60 |
-    | Heavy Shield | T5 (Final) | Aegis            | Silver    | Supernal Fragment ×45; Necropsyche ×45; Ranperre Goldpiece ×60                                             |
-    | Heavy Shield | Remake     | Aegis            | Silver    | Ouroboros Ore ×10; Attestation of Invulnerability ×22; Supernal Fragment ×22; Necropsyche ×45              |
-
-=== "+0 Base Stats By Tier"
-
-    | Type         | Tier       | Weapon           | Rank      | ATK       | MAG       | DIV       | ACC     | EVA     | SUR     | DEF      | MDEF     |
-    |--------------|------------|------------------|-----------|-----------|-----------|-----------|---------|---------|---------|----------|----------|
-    | Dagger       | T1         | Relic Dagger     | Bronze    | 8         |           |           | 15      | -6      | -4      |          |          |
-    | Dagger       | T2         | Malefic Dagger   | Iron      | 19 (+11)  |           |           | 15      | -4 (+2) | -3 (+1) |          |          |
-    | Dagger       | T3         | Dynamis Dagger   | Steel     | 29 (+10)  |           |           | 15      | -2 (+2) | -2 (+1) |          |          |
-    | Dagger       | T4         | Batardeau        | Ebonsteel | 43 (+14)  |           |           | 15      | 0 (+2)  | -1 (+1) |          |          |
-    | Dagger       | T5 (Final) | Mandau           | Silver    | 53 (+10)  |           |           | 20 (+5) | 2 (+2)  | 0 (+1)  |          |          |
-    | 1H Sword     | T1         | Relic Sword      | Bronze    | 12        |           |           | 2       | -6      |         |          |          |
-    | 1H Sword     | T2         | Glyptic Sword    | Iron      | 24 (+12)  |           |           | 4 (+2)  | -4 (+2) |         |          |          |
-    | 1H Sword     | T3         | Dynamis Sword    | Steel     | 36 (+12)  |           |           | 6 (+2)  | -2 (+2) |         |          |          |
-    | 1H Sword     | T4         | Caliburn         | Ebonsteel | 51 (+15)  |           |           | 8 (+2)  | 0 (+2)  |         |          |          |
-    | 1H Sword     | T5 (Final) | Excalibur [XI]   | Silver    | 64 (+13)  |           |           | 10 (+2) | 2 (+2)  |         |          |          |
-    | Katana       | T1         | Ito              | Bronze    | 12        | 9         |           | 6       | -8      |         |          |          |
-    | Katana       | T2         | Hayatemaru       | Iron      | 26 (+14)  | 20 (+11)  |           | 8 (+2)  | -6 (+2) |         |          |          |
-    | Katana       | T3         | Oboromaru        | Steel     | 45 (+19)  | 41 (+21)  |           | 10 (+2) | -4 (+2) |         |          |          |
-    | Katana       | T4         | Totsukanotsurugi | Ebonsteel | 68 (+23)  | 63 (+22)  |           | 10      | -2 (+2) |         |          |          |
-    | Katana       | T5 (Final) | Amanomurakumo    | Silver    | 82 (+14)  | 76 (+13)  |           | 10      | 0 (+2)  |         |          |          |
-    | 2H Sword     | T1         | Relic Blade      | Bronze    | 25        |           |           | 6       | -10     | -4      |          |          |
-    | 2H Sword     | T2         | Gilded Blade     | Iron      | 48 (+23)  |           |           | 6       | -8 (+2) | -3 (+1) |          |          |
-    | 2H Sword     | T3         | Dynamis Blade    | Steel     | 68 (+20)  |           |           | 6       | -6 (+2) | -2 (+1) |          |          |
-    | 2H Sword     | T4         | Valhalla         | Ebonsteel | 108 (+40) |           |           | 6       | -4 (+2) | -1 (+1) |          |          |
-    | 2H Sword     | T5 (Final) | Ragnarok         | Silver    | 132 (+24) |           |           | 15 (+9) | -2 (+2) | 0 (+1)  |          |          |
-    | 2H Staff     | T1         | Relic Staff      | Bronze    | 14        | 8         | 8         |         | -4      |         |          |          |
-    | 2H Staff     | T2         | Sage's Staff     | Iron      | 20 (+6)   | 32 (+24)  | 32 (+24)  |         | -4      |         |          |          |
-    | 2H Staff     | T3         | Dynamis Staff    | Steel     | 25 (+5)   | 56 (+24)  | 56 (+24)  |         | -4      |         |          |          |
-    | 2H Staff     | T4         | Thyrus           | Ebonsteel | 33 (+8)   | 88 (+32)  | 88 (+32)  |         | -4      |         |          |          |
-    | 2H Staff     | T5 (Final) | Claustrum        | Silver    | 40 (+7)   | 108 (+20) | 108 (+20) |         | -4      |         |          |          |
-    | Bow          | T1         | Relic Bow        | Bronze    | 24        |           |           | -4      |         |         |          |          |
-    | Bow          | T2         | Wolver Bow       | Iron      | 46 (+22)  |           |           | -2 (+2) |         |         |          |          |
-    | Bow          | T3         | Dynamis Bow      | Steel     | 64 (+18)  |           |           | 0 (+2)  |         |         |          |          |
-    | Bow          | T4         | Futatokoroto     | Ebonsteel | 92 (+28)  |           |           | 2 (+2)  |         |         |          |          |
-    | Bow          | T5 (Final) | Yoichinoyumi     | Silver    | 113 (+21) |           |           | 4 (+2)  |         |         |          |          |
-    | Heavy Shield | T1         | Relic Shield     | Bronze    |           |           |           | -2      | -10     |         | 1        | -8       |
-    | Heavy Shield | T2         | Bulwark Shield   | Iron      |           |           |           | -2      | -8 (+2) |         | 8 (+7)   | -6 (+2)  |
-    | Heavy Shield | T3         | Dynamis Shield   | Steel     |           |           |           | -2      | -6 (+2) |         | 14 (+6)  | -4 (+2)  |
-    | Heavy Shield | T4         | Ancile           | Ebonsteel |           |           |           | -2      | -4 (+2) |         | 24 (+10) | -2 (+2)  |
-    | Heavy Shield | T5 (Final) | Aegis            | Silver    |           |           |           | -2      | -1 (+3) |         | 38 (+14) | 45 (+47) |
-
-=== "T5 Enhancement Values"
-
-    | Type         | Weapon         | Rank   | Level | ATK       | MAG       | DIV       | ACC | EVA | SUR | DEF     | MDEF    |
-    |--------------|----------------|--------|-------|-----------|-----------|-----------|-----|-----|-----|---------|---------|
-    | Dagger       | Mandau         | Silver | +0    | 53        |           |           | 20  | 2   |     |         |         |
-    | Dagger       | Mandau         | Silver | +5    | 71 (+18)  |           |           | 20  | 2   |     |         |         |
-    | Dagger       | Mandau         | Silver | +10   | 89 (+18)  |           |           | 20  | 2   |     |         |         |
-    | Dagger       | Mandau         | Silver | +15   | 107 (+18) |           |           | 20  | 2   |     |         |         |
-    | Dagger       | Mandau         | Silver | +20   | 125 (+18) |           |           | 20  | 2   |     |         |         |
-    | 1H Sword     | Excalibur [XI] | Silver | +0    | 64        |           |           | 10  | 2   |     |         |         |
-    | 1H Sword     | Excalibur [XI] | Silver | +5    | 82 (+18)  |           |           | 10  | 2   |     |         |         |
-    | 1H Sword     | Excalibur [XI] | Silver | +10   | 100 (+18) |           |           | 10  | 2   |     |         |         |
-    | 1H Sword     | Excalibur [XI] | Silver | +15   | 118 (+18) |           |           | 10  | 2   |     |         |         |
-    | 1H Sword     | Excalibur [XI] | Silver | +20   | 136 (+18) |           |           | 10  | 2   |     |         |         |
-    | Katana       | Amanomurakumo  | Silver | +0    | 82        | 76        |           | 10  |     |     |         |         |
-    | Katana       | Amanomurakumo  | Silver | +5    | 100 (+18) | 96 (+20)  |           | 10  |     |     |         |         |
-    | Katana       | Amanomurakumo  | Silver | +10   | 118 (+18) | 115 (+19) |           | 10  |     |     |         |         |
-    | Katana       | Amanomurakumo  | Silver | +15   | 136 (+18) | 134 (+19) |           | 10  |     |     |         |         |
-    | Katana       | Amanomurakumo  | Silver | +20   | 154 (+18) | 154 (+20) |           | 10  |     |     |         |         |
-    | 2H Sword     | Ragnarok       | Silver | +0    | 132       |           |           | 15  | -2  |     |         |         |
-    | 2H Sword     | Ragnarok       | Silver | +5    | 165 (+33) |           |           | 15  | -2  |     |         |         |
-    | 2H Sword     | Ragnarok       | Silver | +10   | 191 (+26) |           |           | 15  | -2  |     |         |         |
-    | 2H Sword     | Ragnarok       | Silver | +15   | 214 (+23) |           |           | 15  | -2  |     |         |         |
-    | 2H Sword     | Ragnarok       | Silver | +20   | 231 (+17) |           |           | 15  | -2  |     |         |         |
-    | 2H Staff     | Claustrum      | Silver | +0    | 40        | 108       | 108       |     | -4  |     |         |         |
-    | 2H Staff     | Claustrum      | Silver | +5    | 73 (+33)  | 136 (+28) | 136 (+28) |     | -4  |     |         |         |
-    | 2H Staff     | Claustrum      | Silver | +10   | 99 (+26)  | 162 (+26) | 162 (+26) |     | -4  |     |         |         |
-    | 2H Staff     | Claustrum      | Silver | +15   | 122 (+23) | 190 (+28) | 190 (+28) |     | -4  |     |         |         |
-    | 2H Staff     | Claustrum      | Silver | +20   | 139 (+17) | 216 (+26) | 216 (+26) |     | -4  |     |         |         |
-    | Bow          | Yoichinoyumi   | Silver | +0    | 113       |           |           | 4   |     |     |         |         |
-    | Bow          | Yoichinoyumi   | Silver | +5    | 146 (+33) |           |           | 4   |     |     |         |         |
-    | Bow          | Yoichinoyumi   | Silver | +10   | 172 (+26) |           |           | 4   |     |     |         |         |
-    | Bow          | Yoichinoyumi   | Silver | +15   | 195 (+23) |           |           | 4   |     |     |         |         |
-    | Bow          | Yoichinoyumi   | Silver | +20   | 212 (+17) |           |           | 4   |     |     |         |         |
-    | Heavy Shield | Aegis          | Silver | +0    |           |           |           | -2  | -1  |     | 38      | 45      |
-    | Heavy Shield | Aegis          | Silver | +5    |           |           |           | -2  | -1  |     | 47 (+9) | 50 (+5) |
-    | Heavy Shield | Aegis          | Silver | +10   |           |           |           | -2  | -1  |     | 53 (+6) | 55 (+5) |
-    | Heavy Shield | Aegis          | Silver | +15   |           |           |           | -2  | -1  |     | 59 (+6) | 60 (+5) |
-    | Heavy Shield | Aegis          | Silver | +20   |           |           |           | -2  | -1  |     | 65 (+6) | 65 (+5) |
-
-=== "Weapon Fixed Blessings"
-
-    | Type         | Weapon         | Slot 1 | Slot 2 | Slot 3 | Slot 4 |
-    |--------------|----------------|:------:|:------:|:------:|:------:|
-    | Dagger       | Mandau         | ATK    | SUR    | EVA    | ATK%   |
-    | 1H Sword     | Excalibur [XI] | ATK    | ACC    | EVA    | ATK%   |
-    | Katana       | Amanomurakumo  | ATK    | MAG    | EVA    | ATK%   |
-    | 2H Sword     | Ragnarok       | ATK    | SUR    | EVA    | ATK%   |
-    | 2H Staff     | Claustrum      | MAG    | DIV    | MAG%   | DIV%   |
-    | Bow          | Yoichinoyumi   | ATK    | ACC    | ASPD   | ATK%   |
-    | Heavy Shield | Aegis          | MDEF   | MDEF%  | EVA    | DEF    |
-
-=== "Weapon Attack Skills"
-
-    | Type     | Weapon         | Skill            | Cost  | Description                                                                                                                                              | Turns | Effect                            |
-    |----------|----------------|------------------|:-----:|----------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|-----------------------------------|
-    | Dagger   | Mandau         | Mercy Stroke     | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
-    | 1H Sword | Excalibur [XI] | Knights of Round | 31 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor HP to self for 3 turns.                                                 | 3     | HP regen                          |
-    | Katana   | Amanomurakumo  | Tachi: Kaiten    | 34 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor SP to self for 3 turns.                                                 | 3     | +3 SP per turn                    |
-    | 2H Sword | Ragnarok       | Scourge          | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
-    | 2H Staff | Claustrum      | Gate of Tartarus | 35 MP | Major untyped spell attack on 1 enemy. Chance to reduce the Attack Power of 1 enemy for 3 turns, and continuously restores minor MP to self for 3 turns. | 3     | -15% Attack Power; +3 MP per turn |
-    | Bow      | Yoichinoyumi   | Namas Arrow      | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Accuracy for 3 turns.                                                                 | 3     | +13 ACC                           |
-
-=== "Weapon Passive Skills"
-
-    | Type         | Weapon         | Passive                | Effect                                                                                            | Values                     |
-    |--------------|----------------|------------------------|---------------------------------------------------------------------------------------------------|----------------------------|
-    | Dagger       | Mandau         | Power of Mandau        | Chance to inflict Poison on a direct hit with a normal attack or attack skill.                    |                            |
-    | 1H Sword     | Excalibur [XI] | Power of Excalibur     | Low chance of dealing increased damage on direct hits; bonus scales with the user's remaining HP. | Up to +20% DMG             |
-    | Katana       | Amanomurakumo  | Power of Amanomurakumo | Chance to reduce enemy Attack Power on a direct hit.                                              | -20% Attack Power, 4 turns |
-    | 2H Sword     | Ragnarok       | Power of Ragnarok      | Continuously increases Surety.                                                                    | +12 SUR                    |
-    | 2H Staff     | Claustrum      | Power of Claustrum     | Chance to dispel 1 buff off an enemy on a direct hit.                                             |                            |
-    | Bow          | Yoichinoyumi   | Power of Yoichinoyumi  | Increases damage and Accuracy against flying enemies.                                             | +20% DMG, +20 ACC          |
-    | Heavy Shield | Aegis          | Power of Aegis         | Continuously increases Magic Defense.                  
+??? tip "Relic Weapons and Armor full details"
+    
+    === "Reforge Materials By Tier"
+    
+        | Type         | Stage      | Weapon           | Rank      | Materials                                                                                                  |
+        |--------------|------------|------------------|-----------|------------------------------------------------------------------------------------------------------------|
+        | Dagger       | T1         | Relic Dagger     | Bronze    | -                                                                                                          |
+        | Dagger       | T2         | Malefic Dagger   | Iron      | 100 Byne Bill ×12                                                                                          |
+        | Dagger       | T3         | Dynamis Dagger   | Steel     | Montiont Silverpiece ×45                                                                                   |
+        | Dagger       | T4         | Batardeau        | Ebonsteel | Attestation of Celerity ×45; Lungo-Nango Jadeshell ×180                                                    |
+        | Dagger       | T5 (Final) | Mandau           | Silver    | Ornate Fragment ×45; Necropsyche ×45; 10,000 Byne Bill ×60                                                 |
+        | Dagger       | Remake     | Mandau           | Silver    | Ouroboros Ore ×10; Attestation of Celerity ×22; Ornate Fragment ×22; 10,000 Byne Bill ×75                  |
+        | 1H Sword     | T1         | Relic Sword      | Bronze    | -                                                                                                          |
+        | 1H Sword     | T2         | Glyptic Sword    | Iron      | Montiont Silverpiece ×12                                                                                   |
+        | 1H Sword     | T3         | Dynamis Sword    | Steel     | 100 Byne Bill ×45                                                                                          |
+        | 1H Sword     | T4         | Caliburn         | Ebonsteel | Attestation of Glory ×45; Lungo-Nango Jadeshell ×180                                                       |
+        | 1H Sword     | T5 (Final) | Excalibur [XI]   | Silver    | Holy Fragment ×45; Necropsyche ×45; 10,000 Byne Bill ×60                                                   |
+        | 1H Sword     | Remake     | Excalibur [XI]   | Silver    | Ouroboros Ore ×10; Attestation of Glory ×22; Holy Fragment ×22; 10,000 Byne Bill ×75                       |
+        | Katana       | T1         | Ito              | Bronze    | -                                                                                                          |
+        | Katana       | T2         | Hayatemaru       | Iron      | Montiont Silverpiece ×10                                                                                   |
+        | Katana       | T3         | Oboromaru        | Steel     | Lungo-Nango Jadeshell ×45                                                                                  |
+        | Katana       | T4         | Totsukanotsurugi | Ebonsteel | Attestation of Decisiveness ×45; 100 Byne Bill ×180                                                        |
+        | Katana       | T5 (Final) | Amanomurakumo    | Silver    | Divine Fragment ×45; Necropsyche ×45; Ranperre Goldpiece ×60                                               |
+        | Katana       | Remake     | Amanomurakumo    | Silver    | Ouroboros Ore ×10; Attestation of Decisiveness ×22; Divine Fragment ×22; Ranperre Goldpiece ×75            |
+        | 2H Sword     | T1         | Relic Blade      | Bronze    | -                                                                                                          |
+        | 2H Sword     | T2         | Gilded Blade     | Iron      | Montiont Silverpiece ×12                                                                                   |
+        | 2H Sword     | T3         | Dynamis Blade    | Steel     | Lungo-Nango Jadeshell ×50                                                                                  |
+        | 2H Sword     | T4         | Valhalla         | Ebonsteel | Attestation of Righteousness ×45; 100 Byne Bill ×180                                                       |
+        | 2H Sword     | T5 (Final) | Ragnarok         | Silver    | Intricate Fragment ×45; Necropsyche ×45; Ranperre Goldpiece ×60                                            |
+        | 2H Sword     | Remake     | Ragnarok         | Silver    | Ouroboros Ore ×10; Attestation of Righteousness ×22; Intricate Fragment ×22; Ranperre Goldpiece ×75        |
+        | 2H Staff     | T1         | Relic Staff      | Bronze    | -                                                                                                          |
+        | 2H Staff     | T2         | Sage's Staff     | Iron      | Lungo-Nango Jadeshell ×16                                                                                  |
+        | 2H Staff     | T3         | Dynamis Staff    | Steel     | 100 Byne Bill ×50                                                                                          |
+        | 2H Staff     | T4         | Thyrus           | Ebonsteel | Attestation of Virtue ×45; Montiont Silverpiece ×180                                                       |
+        | 2H Staff     | T5 (Final) | Claustrum        | Silver    | Celestial Fragment ×45; Necropsyche ×45; Rimilala Stripeshell ×60                                          |
+        | 2H Staff     | Remake     | Claustrum        | Silver    | Ouroboros Ore ×10; Attestation of Virtue ×22; Celestial Fragment ×22; Rimilala Stripeshell ×75             |
+        | Bow          | T1         | Relic Bow        | Bronze    | -                                                                                                          |
+        | Bow          | T2         | Wolver Bow       | Iron      | Montiont Silverpiece ×12                                                                                   |
+        | Bow          | T3         | Dynamis Bow      | Steel     | Montiont Silverpiece ×45                                                                                   |
+        | Bow          | T4         | Futatokoroto     | Ebonsteel | Attestation of Transcendence ×45; Lungo-Nango Jadeshell ×180                                               |
+        | Bow          | T5 (Final) | Yoichinoyumi     | Silver    | Snarled Fragment ×45; Necropsyche ×45; Rimilala Stripeshell ×60                                            |
+        | Bow          | Remake     | Yoichinoyumi     | Silver    | Ouroboros Ore ×10; Attestation of Transcendence ×22; Snarled Fragment ×22; Rimilala Stripeshell ×75        |
+        | Heavy Shield | T1         | Relic Shield     | Bronze    | -                                                                                                          |
+        | Heavy Shield | T2         | Bulwark Shield   | Iron      | 100 Byne Bill ×4; Montiont Silverpiece ×4; Lungo-Nango Jadeshell ×4                                        |
+        | Heavy Shield | T3         | Dynamis Shield   | Steel     | 100 Byne Bill ×12; Montiont Silverpiece ×12; Lungo-Nango Jadeshell ×12                                     |
+        | Heavy Shield | T4         | Ancile           | Ebonsteel | Attestation of Invulnerability ×45; 100 Byne Bill ×60; Montiont Silverpiece ×60; Lungo-Nango Jadeshell ×60 |
+        | Heavy Shield | T5 (Final) | Aegis            | Silver    | Supernal Fragment ×45; Necropsyche ×45; Ranperre Goldpiece ×60                                             |
+        | Heavy Shield | Remake     | Aegis            | Silver    | Ouroboros Ore ×10; Attestation of Invulnerability ×22; Supernal Fragment ×22; Necropsyche ×45              |
+    
+    === "+0 Base Stats By Tier"
+    
+        | Type         | Tier       | Weapon           | Rank      | ATK       | MAG       | DIV       | ACC     | EVA     | SUR     | DEF      | MDEF     |
+        |--------------|------------|------------------|-----------|-----------|-----------|-----------|---------|---------|---------|----------|----------|
+        | Dagger       | T1         | Relic Dagger     | Bronze    | 8         |           |           | 15      | -6      | -4      |          |          |
+        | Dagger       | T2         | Malefic Dagger   | Iron      | 19 (+11)  |           |           | 15      | -4 (+2) | -3 (+1) |          |          |
+        | Dagger       | T3         | Dynamis Dagger   | Steel     | 29 (+10)  |           |           | 15      | -2 (+2) | -2 (+1) |          |          |
+        | Dagger       | T4         | Batardeau        | Ebonsteel | 43 (+14)  |           |           | 15      | 0 (+2)  | -1 (+1) |          |          |
+        | Dagger       | T5 (Final) | Mandau           | Silver    | 53 (+10)  |           |           | 20 (+5) | 2 (+2)  | 0 (+1)  |          |          |
+        | 1H Sword     | T1         | Relic Sword      | Bronze    | 12        |           |           | 2       | -6      |         |          |          |
+        | 1H Sword     | T2         | Glyptic Sword    | Iron      | 24 (+12)  |           |           | 4 (+2)  | -4 (+2) |         |          |          |
+        | 1H Sword     | T3         | Dynamis Sword    | Steel     | 36 (+12)  |           |           | 6 (+2)  | -2 (+2) |         |          |          |
+        | 1H Sword     | T4         | Caliburn         | Ebonsteel | 51 (+15)  |           |           | 8 (+2)  | 0 (+2)  |         |          |          |
+        | 1H Sword     | T5 (Final) | Excalibur [XI]   | Silver    | 64 (+13)  |           |           | 10 (+2) | 2 (+2)  |         |          |          |
+        | Katana       | T1         | Ito              | Bronze    | 12        | 9         |           | 6       | -8      |         |          |          |
+        | Katana       | T2         | Hayatemaru       | Iron      | 26 (+14)  | 20 (+11)  |           | 8 (+2)  | -6 (+2) |         |          |          |
+        | Katana       | T3         | Oboromaru        | Steel     | 45 (+19)  | 41 (+21)  |           | 10 (+2) | -4 (+2) |         |          |          |
+        | Katana       | T4         | Totsukanotsurugi | Ebonsteel | 68 (+23)  | 63 (+22)  |           | 10      | -2 (+2) |         |          |          |
+        | Katana       | T5 (Final) | Amanomurakumo    | Silver    | 82 (+14)  | 76 (+13)  |           | 10      | 0 (+2)  |         |          |          |
+        | 2H Sword     | T1         | Relic Blade      | Bronze    | 25        |           |           | 6       | -10     | -4      |          |          |
+        | 2H Sword     | T2         | Gilded Blade     | Iron      | 48 (+23)  |           |           | 6       | -8 (+2) | -3 (+1) |          |          |
+        | 2H Sword     | T3         | Dynamis Blade    | Steel     | 68 (+20)  |           |           | 6       | -6 (+2) | -2 (+1) |          |          |
+        | 2H Sword     | T4         | Valhalla         | Ebonsteel | 108 (+40) |           |           | 6       | -4 (+2) | -1 (+1) |          |          |
+        | 2H Sword     | T5 (Final) | Ragnarok         | Silver    | 132 (+24) |           |           | 15 (+9) | -2 (+2) | 0 (+1)  |          |          |
+        | 2H Staff     | T1         | Relic Staff      | Bronze    | 14        | 8         | 8         |         | -4      |         |          |          |
+        | 2H Staff     | T2         | Sage's Staff     | Iron      | 20 (+6)   | 32 (+24)  | 32 (+24)  |         | -4      |         |          |          |
+        | 2H Staff     | T3         | Dynamis Staff    | Steel     | 25 (+5)   | 56 (+24)  | 56 (+24)  |         | -4      |         |          |          |
+        | 2H Staff     | T4         | Thyrus           | Ebonsteel | 33 (+8)   | 88 (+32)  | 88 (+32)  |         | -4      |         |          |          |
+        | 2H Staff     | T5 (Final) | Claustrum        | Silver    | 40 (+7)   | 108 (+20) | 108 (+20) |         | -4      |         |          |          |
+        | Bow          | T1         | Relic Bow        | Bronze    | 24        |           |           | -4      |         |         |          |          |
+        | Bow          | T2         | Wolver Bow       | Iron      | 46 (+22)  |           |           | -2 (+2) |         |         |          |          |
+        | Bow          | T3         | Dynamis Bow      | Steel     | 64 (+18)  |           |           | 0 (+2)  |         |         |          |          |
+        | Bow          | T4         | Futatokoroto     | Ebonsteel | 92 (+28)  |           |           | 2 (+2)  |         |         |          |          |
+        | Bow          | T5 (Final) | Yoichinoyumi     | Silver    | 113 (+21) |           |           | 4 (+2)  |         |         |          |          |
+        | Heavy Shield | T1         | Relic Shield     | Bronze    |           |           |           | -2      | -10     |         | 1        | -8       |
+        | Heavy Shield | T2         | Bulwark Shield   | Iron      |           |           |           | -2      | -8 (+2) |         | 8 (+7)   | -6 (+2)  |
+        | Heavy Shield | T3         | Dynamis Shield   | Steel     |           |           |           | -2      | -6 (+2) |         | 14 (+6)  | -4 (+2)  |
+        | Heavy Shield | T4         | Ancile           | Ebonsteel |           |           |           | -2      | -4 (+2) |         | 24 (+10) | -2 (+2)  |
+        | Heavy Shield | T5 (Final) | Aegis            | Silver    |           |           |           | -2      | -1 (+3) |         | 38 (+14) | 45 (+47) |
+    
+    === "T5 Enhancement Values"
+    
+        | Type         | Weapon         | Rank   | Level | ATK       | MAG       | DIV       | ACC | EVA | SUR | DEF     | MDEF    |
+        |--------------|----------------|--------|-------|-----------|-----------|-----------|-----|-----|-----|---------|---------|
+        | Dagger       | Mandau         | Silver | +0    | 53        |           |           | 20  | 2   |     |         |         |
+        | Dagger       | Mandau         | Silver | +5    | 71 (+18)  |           |           | 20  | 2   |     |         |         |
+        | Dagger       | Mandau         | Silver | +10   | 89 (+18)  |           |           | 20  | 2   |     |         |         |
+        | Dagger       | Mandau         | Silver | +15   | 107 (+18) |           |           | 20  | 2   |     |         |         |
+        | Dagger       | Mandau         | Silver | +20   | 125 (+18) |           |           | 20  | 2   |     |         |         |
+        | 1H Sword     | Excalibur [XI] | Silver | +0    | 64        |           |           | 10  | 2   |     |         |         |
+        | 1H Sword     | Excalibur [XI] | Silver | +5    | 82 (+18)  |           |           | 10  | 2   |     |         |         |
+        | 1H Sword     | Excalibur [XI] | Silver | +10   | 100 (+18) |           |           | 10  | 2   |     |         |         |
+        | 1H Sword     | Excalibur [XI] | Silver | +15   | 118 (+18) |           |           | 10  | 2   |     |         |         |
+        | 1H Sword     | Excalibur [XI] | Silver | +20   | 136 (+18) |           |           | 10  | 2   |     |         |         |
+        | Katana       | Amanomurakumo  | Silver | +0    | 82        | 76        |           | 10  |     |     |         |         |
+        | Katana       | Amanomurakumo  | Silver | +5    | 100 (+18) | 96 (+20)  |           | 10  |     |     |         |         |
+        | Katana       | Amanomurakumo  | Silver | +10   | 118 (+18) | 115 (+19) |           | 10  |     |     |         |         |
+        | Katana       | Amanomurakumo  | Silver | +15   | 136 (+18) | 134 (+19) |           | 10  |     |     |         |         |
+        | Katana       | Amanomurakumo  | Silver | +20   | 154 (+18) | 154 (+20) |           | 10  |     |     |         |         |
+        | 2H Sword     | Ragnarok       | Silver | +0    | 132       |           |           | 15  | -2  |     |         |         |
+        | 2H Sword     | Ragnarok       | Silver | +5    | 165 (+33) |           |           | 15  | -2  |     |         |         |
+        | 2H Sword     | Ragnarok       | Silver | +10   | 191 (+26) |           |           | 15  | -2  |     |         |         |
+        | 2H Sword     | Ragnarok       | Silver | +15   | 214 (+23) |           |           | 15  | -2  |     |         |         |
+        | 2H Sword     | Ragnarok       | Silver | +20   | 231 (+17) |           |           | 15  | -2  |     |         |         |
+        | 2H Staff     | Claustrum      | Silver | +0    | 40        | 108       | 108       |     | -4  |     |         |         |
+        | 2H Staff     | Claustrum      | Silver | +5    | 73 (+33)  | 136 (+28) | 136 (+28) |     | -4  |     |         |         |
+        | 2H Staff     | Claustrum      | Silver | +10   | 99 (+26)  | 162 (+26) | 162 (+26) |     | -4  |     |         |         |
+        | 2H Staff     | Claustrum      | Silver | +15   | 122 (+23) | 190 (+28) | 190 (+28) |     | -4  |     |         |         |
+        | 2H Staff     | Claustrum      | Silver | +20   | 139 (+17) | 216 (+26) | 216 (+26) |     | -4  |     |         |         |
+        | Bow          | Yoichinoyumi   | Silver | +0    | 113       |           |           | 4   |     |     |         |         |
+        | Bow          | Yoichinoyumi   | Silver | +5    | 146 (+33) |           |           | 4   |     |     |         |         |
+        | Bow          | Yoichinoyumi   | Silver | +10   | 172 (+26) |           |           | 4   |     |     |         |         |
+        | Bow          | Yoichinoyumi   | Silver | +15   | 195 (+23) |           |           | 4   |     |     |         |         |
+        | Bow          | Yoichinoyumi   | Silver | +20   | 212 (+17) |           |           | 4   |     |     |         |         |
+        | Heavy Shield | Aegis          | Silver | +0    |           |           |           | -2  | -1  |     | 38      | 45      |
+        | Heavy Shield | Aegis          | Silver | +5    |           |           |           | -2  | -1  |     | 47 (+9) | 50 (+5) |
+        | Heavy Shield | Aegis          | Silver | +10   |           |           |           | -2  | -1  |     | 53 (+6) | 55 (+5) |
+        | Heavy Shield | Aegis          | Silver | +15   |           |           |           | -2  | -1  |     | 59 (+6) | 60 (+5) |
+        | Heavy Shield | Aegis          | Silver | +20   |           |           |           | -2  | -1  |     | 65 (+6) | 65 (+5) |
+    
+    === "Weapon Fixed Blessings"
+    
+        | Type         | Weapon         | Slot 1 | Slot 2 | Slot 3 | Slot 4 |
+        |--------------|----------------|:------:|:------:|:------:|:------:|
+        | Dagger       | Mandau         | ATK    | SUR    | EVA    | ATK%   |
+        | 1H Sword     | Excalibur [XI] | ATK    | ACC    | EVA    | ATK%   |
+        | Katana       | Amanomurakumo  | ATK    | MAG    | EVA    | ATK%   |
+        | 2H Sword     | Ragnarok       | ATK    | SUR    | EVA    | ATK%   |
+        | 2H Staff     | Claustrum      | MAG    | DIV    | MAG%   | DIV%   |
+        | Bow          | Yoichinoyumi   | ATK    | ACC    | ASPD   | ATK%   |
+        | Heavy Shield | Aegis          | MDEF   | MDEF%  | EVA    | DEF    |
+    
+    === "Weapon Attack Skills"
+    
+        | Type     | Weapon         | Skill            | Cost  | Description                                                                                                                                              | Turns | Effect                            |
+        |----------|----------------|------------------|:-----:|----------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|-----------------------------------|
+        | Dagger   | Mandau         | Mercy Stroke     | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
+        | 1H Sword | Excalibur [XI] | Knights of Round | 31 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor HP to self for 3 turns.                                                 | 3     | HP regen                          |
+        | Katana   | Amanomurakumo  | Tachi: Kaiten    | 34 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor SP to self for 3 turns.                                                 | 3     | +3 SP per turn                    |
+        | 2H Sword | Ragnarok       | Scourge          | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
+        | 2H Staff | Claustrum      | Gate of Tartarus | 35 MP | Major untyped spell attack on 1 enemy. Chance to reduce the Attack Power of 1 enemy for 3 turns, and continuously restores minor MP to self for 3 turns. | 3     | -15% Attack Power; +3 MP per turn |
+        | Bow      | Yoichinoyumi   | Namas Arrow      | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Accuracy for 3 turns.                                                                 | 3     | +13 ACC                           |
+    
+    === "Weapon Passive Skills"
+    
+        | Type         | Weapon         | Passive                | Effect                                                                                            | Values                     |
+        |--------------|----------------|------------------------|---------------------------------------------------------------------------------------------------|----------------------------|
+        | Dagger       | Mandau         | Power of Mandau        | Chance to inflict Poison on a direct hit with a normal attack or attack skill.                    |                            |
+        | 1H Sword     | Excalibur [XI] | Power of Excalibur     | Low chance of dealing increased damage on direct hits; bonus scales with the user's remaining HP. | Up to +20% DMG             |
+        | Katana       | Amanomurakumo  | Power of Amanomurakumo | Chance to reduce enemy Attack Power on a direct hit.                                              | -20% Attack Power, 4 turns |
+        | 2H Sword     | Ragnarok       | Power of Ragnarok      | Continuously increases Surety.                                                                    | +12 SUR                    |
+        | 2H Staff     | Claustrum      | Power of Claustrum     | Chance to dispel 1 buff off an enemy on a direct hit.                                             |                            |
+        | Bow          | Yoichinoyumi   | Power of Yoichinoyumi  | Increases damage and Accuracy against flying enemies.                                             | +20% DMG, +20 ACC          |
+        | Heavy Shield | Aegis          | Power of Aegis         | Continuously increases Magic Defense.                  
 
 ### Material Trading
 
