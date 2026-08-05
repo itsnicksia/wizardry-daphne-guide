@@ -2,9 +2,9 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,Dagger!A2,Dagger,1,Worn-Out Dagger,Worn,2,,15,8,0,0,0,0,4,15,0,2,0,13,0,0,0,0,4,15,0,2,0,18,0,0,0,0,4,15,0,2,0,23,0,0,0,0,4,15,0,2,0,28,0,0,0,0,4,15,0,2,0,Nimble Strike
 8,Dagger!A8,Dagger,12,Bronze Dagger,Bronze,2,375,60,16,0,0,0,0,4,15,0,2,0,24,0,0,0,0,4,15,0,2,0,31,0,0,0,0,4,15,0,2,0,39,0,0,0,0,4,15,0,2,0,46,0,0,0,0,4,15,0,2,0,Nimble Strike
 14,Dagger!A14,Dagger,56,Dagger of Undead Bane,Bronze,2,,75,17,0,0,0,0,4,15,0,2,0,25,0,0,0,0,4,15,0,2,0,32,0,0,0,0,4,15,0,2,0,40,0,0,0,0,4,15,0,2,0,47,0,0,0,0,4,15,0,2,0,"Nimble Strike, Vs Undead"
-20,Dagger!A20,Dagger,Ex.,Relic Dagger,Bronze,2,,,8,0,0,0,0,4,15,-4,-6,0,16,0,0,0,0,4,15,-4,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nimble Strike
+20,Dagger!A20,Dagger,Ex.,Relic Dagger,Bronze,2,,,8,0,0,0,0,4,15,-4,-6,0,16,0,0,0,0,4,15,-4,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Nimble Strike"
 26,Dagger!A26,Dagger,23,Iron Dagger,Iron,2,1125,180,25,0,0,0,0,4,15,0,2,0,35,0,0,0,0,4,15,0,2,0,45,0,0,0,0,4,15,0,2,0,55,0,0,0,0,4,15,0,2,0,65,0,0,0,0,4,15,0,2,0,Nimble Strike
-32,Dagger!A32,Dagger,Ex.,Malefic Dagger,Iron,2,,,19,0,0,0,0,4,15,-3,-4,0,29,0,0,0,0,4,15,-3,-4,0,39,0,0,0,0,4,15,-3,-4,0,,,,,,,,,,,,,,,,,,,,,Nimble Strike
+32,Dagger!A32,Dagger,Ex.,Malefic Dagger,Iron,2,,,19,0,0,0,0,4,15,-3,-4,0,29,0,0,0,0,4,15,-3,-4,0,39,0,0,0,0,4,15,-3,-4,0,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Nimble Strike"
 38,Dagger!A38,Dagger,34,Steel Dagger,Steel,2,,360,33,0,0,0,0,4,15,0,2,0,46,0,0,0,0,4,15,0,2,0,58,0,0,0,0,4,15,0,2,0,71,0,0,0,0,4,15,0,2,0,83,0,0,0,0,4,15,0,2,0,Nimble Strike
 44,Dagger!A44,Dagger,74,Mage Knife,Steel,2,,450,28,0,0,0,0,4,15,0,2,0,41,0,0,0,0,4,15,0,2,0,53,0,0,0,0,4,15,0,2,0,66,0,0,0,0,4,15,0,2,0,78,0,0,0,0,4,15,0,2,0,"Nimble Strike, I.Q. Conversion"
 50,Dagger!A50,Dagger,75,Dagger of Corrosion,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,44,0,0,0,0,4,15,0,2,0,56,0,0,0,0,4,15,0,2,0,69,0,0,0,0,4,15,0,2,0,81,0,0,0,0,4,15,0,2,0,"Nimble Strike, Defense Power Decrease"
@@ -13,7 +13,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 68,Dagger!A68,Dagger,121,Dagger of the Water Drop,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,44,0,0,0,0,4,15,0,2,0,56,0,0,0,0,4,15,0,2,0,69,0,0,0,0,4,15,0,2,0,81,0,0,0,0,4,15,0,2,0,"Nimble Strike, Water Type"
 74,Dagger!A74,Dagger,130,Dagger of the Gale,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,44,0,0,0,0,4,15,0,2,0,56,0,0,0,0,4,15,0,2,0,69,0,0,0,0,4,15,0,2,0,81,0,0,0,0,4,15,0,2,0,"Nimble Strike, Air Type"
 80,Dagger!A80,Dagger,139,Dagger of the Soil,Steel,2,,450,31,0,0,0,0,4,15,0,2,0,44,0,0,0,0,4,15,0,2,0,56,0,0,0,0,4,15,0,2,0,69,0,0,0,0,4,15,0,2,0,81,0,0,0,0,4,15,0,2,0,"Nimble Strike, Earth Type"
-86,Dagger!A86,Dagger,Ex.,Dynamis Dagger,Steel,2,,,29,0,0,0,0,4,15,-2,-2,0,42,0,0,0,0,4,15,-2,-2,0,54,0,0,0,0,4,15,-2,-2,0,67,0,0,0,0,4,15,-2,-2,0,,,,,,,,,,,Nimble Strike
+86,Dagger!A86,Dagger,Ex.,Dynamis Dagger,Steel,2,,,29,0,0,0,0,4,15,-2,-2,0,42,0,0,0,0,4,15,-2,-2,0,54,0,0,0,0,4,15,-2,-2,0,67,0,0,0,0,4,15,-2,-2,0,,,,,,,,,,,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Nimble Strike"
 92,Dagger!A92,Dagger,Ex.,Tanto of Slicing,Steel,2,,,33,0,0,0,0,4,15,6,2,0,46,0,0,0,0,4,15,8,2,0,58,0,0,0,0,4,15,11,2,0,71,0,0,0,0,4,15,13,2,0,83,0,0,0,0,4,15,16,2,0,Nimble Strike
 98,Dagger!A98,Dagger,45,Ebonsteel Dagger,Ebonsteel,2,,750,45,0,0,0,0,4,15,0,2,0,60,0,0,0,0,4,15,0,2,0,75,0,0,0,0,4,15,0,2,0,90,0,0,0,0,4,15,0,2,0,105,0,0,0,0,4,15,0,2,0,Nimble Strike
 104,Dagger!A104,Dagger,89,Dagger of Expulsion,Ebonsteel,2,,938,43,0,0,0,0,4,15,0,2,0,58,0,0,0,0,4,15,0,2,0,73,0,0,0,0,4,15,0,2,0,88,0,0,0,0,4,15,0,2,0,103,0,0,0,0,4,15,0,2,0,"Nimble Strike, Vs Undead"
@@ -24,7 +24,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 134,Dagger!A134,Dagger,Ex.,Azure Songstress,Ebonsteel,2,,,25,49,0,0,0,0,30,0,0,0,40,65,0,0,0,0,30,0,0,0,55,81,0,0,0,0,30,0,0,0,70,97,0,0,0,0,30,0,0,0,85,114,0,0,0,0,30,0,0,0,"Nimble Strike, Inflict Charm, I.Q. Barrier"
 140,Dagger!A140,Dagger,Ex.,Jade Ceremonial Blade,Ebonsteel,2,,,48,0,0,0,0,4,15,0,5,0,63,0,0,0,0,4,15,0,7,0,78,0,0,0,0,4,15,0,8,0,93,0,0,0,0,4,15,0,9,0,108,0,0,0,0,4,15,0,10,0,"Nimble Strike, Evasive Strike, Evasive Heavy Strike, Critical on Normal Attacks"
 146,Dagger!A146,Dagger,Ex.,Raven Dagger,Ebonsteel,3,,,20,0,0,0,0,10,15,0,2,0,35,0,0,0,0,10,15,0,2,0,50,0,0,0,0,10,15,0,2,0,65,0,0,0,0,10,15,0,2,0,80,0,0,0,0,10,15,0,2,0,"Nimble Strike, Air Type"
-152,Dagger!A152,Dagger,Ex.,Batardeau,Ebonsteel,2,,,43,0,0,0,0,4,15,-1,0,0,58,0,0,0,0,4,15,-1,0,0,73,0,0,0,0,4,15,-1,0,0,88,0,0,0,0,4,15,-1,0,0,103,0,0,0,0,4,15,-1,0,0,Nimble Strike
+152,Dagger!A152,Dagger,Ex.,Batardeau,Ebonsteel,2,,,43,0,0,0,0,4,15,-1,0,0,58,0,0,0,0,4,15,-1,0,0,73,0,0,0,0,4,15,-1,0,0,88,0,0,0,0,4,15,-1,0,0,103,0,0,0,0,4,15,-1,0,0,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Nimble Strike"
 158,Dagger!A158,Dagger,181,Silver Dagger,Silver,2,,,54,0,0,0,0,4,20,0,2,0,72,0,0,0,0,4,20,0,2,0,90,0,0,0,0,4,20,0,2,0,108,0,0,0,0,4,20,0,2,0,126,0,0,0,0,4,20,0,2,0,Nimble Strike
 164,Dagger!A164,Dagger,184,Beast Killer,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Magical Beast-Slayer"
 170,Dagger!A170,Dagger,183,Seafoam Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Water Type"
@@ -32,7 +32,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 182,Dagger!A182,Dagger,185,Cyclops Fang-Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,124,0,0,0,0,-5,0,9,2,0,142,0,0,0,0,-5,0,10,2,0,"Nimble Strike, Evasion Damage"
 188,Dagger!A188,Dagger,Ex.,Sword Stealer,Silver,2,,,64,0,0,0,0,8,10,4,8,0,86,0,0,0,0,8,12,4,8,0,104,0,0,0,0,8,13,4,8,0,117,0,0,0,0,8,14,4,8,0,123,0,0,0,0,8,15,4,8,0,"Nimble Strike (Major), Passive Dexterity Up"
 194,Dagger!A194,Dagger,Ex.,Unenlightenment,Silver,2,,5520,69,0,0,0,0,4,15,0,2,0,91,0,0,0,0,4,17,0,2,0,109,0,0,0,0,4,18,0,2,0,122,0,0,0,0,4,19,0,2,0,128,0,0,0,0,4,20,0,2,0,"Nimble Strike, Humanoid-Slayer, Adventurer-Slayer"
-200,Dagger!A200,Dagger,Ex.,Mandau,Silver,2,,,53,0,0,0,0,4,20,0,2,0,71,0,0,0,0,4,20,0,2,0,89,0,0,0,0,4,20,0,2,0,107,0,0,0,0,4,20,0,2,0,125,0,0,0,0,4,20,0,2,0,Nimble Strike
+200,Dagger!A200,Dagger,Ex.,Mandau,Silver,2,,,53,0,0,0,0,4,20,0,2,0,71,0,0,0,0,4,20,0,2,0,89,0,0,0,0,4,20,0,2,0,107,0,0,0,0,4,20,0,2,0,125,0,0,0,0,4,20,0,2,0,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Nimble Strike, Mercy Stroke, Power of Mandau"
 206,Dagger!A206,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 212,Dagger!A212,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 218,Dagger!A218,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -59,11 +59,11 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,1H_Sword!A2,1H_Sword,2,Worn-Out Sword,Worn,2,,20,10,0,0,0,0,0,10,0,2,0,15,0,0,0,0,0,10,0,2,0,20,0,0,0,0,0,10,0,2,0,25,0,0,0,0,0,10,0,2,0,30,0,0,0,0,0,10,0,2,0,
 8,1H_Sword!A8,1H_Sword,13,Bronze Sword,Bronze,2,500,80,20,0,0,0,0,0,10,0,2,0,28,0,0,0,0,0,10,0,2,0,35,0,0,0,0,0,10,0,2,0,43,0,0,0,0,0,10,0,2,0,50,0,0,0,0,0,10,0,2,0,
 14,1H_Sword!A14,1H_Sword,57,Sword of Undead Bane,Bronze,2,,100,22,0,0,0,0,0,10,0,2,0,30,0,0,0,0,0,10,0,2,0,37,0,0,0,0,0,10,0,2,0,45,0,0,0,0,0,10,0,2,0,52,0,0,0,0,0,10,0,2,0,Vs Undead
-20,1H_Sword!A20,1H_Sword,Ex.,Relic Sword,Bronze,2,,,12,0,0,0,0,0,2,0,-6,0,20,0,0,0,0,0,2,0,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,1H_Sword!A20,1H_Sword,Ex.,Relic Sword,Bronze,2,,,12,0,0,0,0,0,2,0,-6,0,20,0,0,0,0,0,2,0,-6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Always 4* Red with fixed type ATK/ACC/EVA/ATK%
 26,1H_Sword!A26,1H_Sword,24,Iron Sword,Iron,2,1500,240,30,0,0,0,0,0,10,0,2,0,40,0,0,0,0,0,10,0,2,0,50,0,0,0,0,0,10,0,2,0,60,0,0,0,0,0,10,0,2,0,70,0,0,0,0,0,10,0,2,0,
 32,1H_Sword!A32,1H_Sword,70,Sword of the Breeze,Iron,2,,384,28,0,0,0,0,0,10,0,2,0,38,0,0,0,0,0,10,0,2,0,48,0,0,0,0,0,10,0,2,0,58,0,0,0,0,0,10,0,2,0,68,0,0,0,0,0,10,0,2,0,Air Type
 38,1H_Sword!A38,1H_Sword,71,Royal Knight's Sword,Iron,2,7500,1500,32,0,0,0,0,0,10,0,2,0,42,0,0,0,0,0,10,0,2,0,52,0,0,0,0,0,10,0,2,0,62,0,0,0,0,0,10,0,2,0,72,0,0,0,0,0,10,0,2,0,
-44,1H_Sword!A44,1H_Sword,Ex.,Glyptic Sword,Iron,2,,,24,0,0,0,0,0,4,0,-4,0,34,0,0,0,0,0,4,0,-4,0,44,0,0,0,0,0,4,0,-4,0,,,,,,,,,,,,,,,,,,,,,
+44,1H_Sword!A44,1H_Sword,Ex.,Glyptic Sword,Iron,2,,,24,0,0,0,0,0,4,0,-4,0,34,0,0,0,0,0,4,0,-4,0,44,0,0,0,0,0,4,0,-4,0,,,,,,,,,,,,,,,,,,,,,Always 4* Red with fixed type ATK/ACC/EVA/ATK%
 50,1H_Sword!A50,1H_Sword,35,Steel Sword,Steel,2,,480,40,0,0,0,0,0,10,0,2,0,53,0,0,0,0,0,10,0,2,0,65,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,90,0,0,0,0,0,10,0,2,0,
 56,1H_Sword!A56,1H_Sword,77,Man-Eater,Steel,2,,768,38,0,0,0,0,0,10,0,2,0,51,0,0,0,0,0,10,0,2,0,63,0,0,0,0,0,10,0,2,0,76,0,0,0,0,0,10,0,2,0,88,0,0,0,0,0,10,0,2,0,Humanoid-Slayer
 62,1H_Sword!A62,1H_Sword,78,Cutlass of Tyranny,Steel,2,,1400,40,0,0,0,0,0,15,0,2,0,53,0,0,0,0,0,17,0,2,0,65,0,0,0,0,0,18,0,2,0,78,0,0,0,0,0,19,0,2,0,90,0,0,0,0,0,20,0,2,0,Evasion Decrease
@@ -72,7 +72,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 80,1H_Sword!A80,1H_Sword,122,Sword of the Water Drop,Steel,2,,600,38,0,0,0,0,0,10,0,2,0,51,0,0,0,0,0,10,0,2,0,63,0,0,0,0,0,10,0,2,0,76,0,0,0,0,0,10,0,2,0,88,0,0,0,0,0,10,0,2,0,Water Type
 86,1H_Sword!A86,1H_Sword,131,Sword of the Gale,Steel,2,,600,38,0,0,0,0,0,10,0,2,0,51,0,0,0,0,0,10,0,2,0,63,0,0,0,0,0,10,0,2,0,76,0,0,0,0,0,10,0,2,0,88,0,0,0,0,0,10,0,2,0,Air Type
 92,1H_Sword!A92,1H_Sword,140,Sword of the Soil,Steel,2,,600,38,0,0,0,0,0,10,0,2,0,51,0,0,0,0,0,10,0,2,0,63,0,0,0,0,0,10,0,2,0,76,0,0,0,0,0,10,0,2,0,88,0,0,0,0,0,10,0,2,0,Earth Type
-98,1H_Sword!A98,1H_Sword,Ex.,Dynamis Sword,Steel,2,,600,36,0,0,0,0,0,6,0,-2,0,49,0,0,0,0,0,6,0,-2,0,61,0,0,0,0,0,6,0,-2,0,74,0,0,0,0,0,6,0,-2,0,,,,,,,,,,,
+98,1H_Sword!A98,1H_Sword,Ex.,Dynamis Sword,Steel,2,,600,36,0,0,0,0,0,6,0,-2,0,49,0,0,0,0,0,6,0,-2,0,61,0,0,0,0,0,6,0,-2,0,74,0,0,0,0,0,6,0,-2,0,,,,,,,,,,,Always 4* Red with fixed type ATK/ACC/EVA/ATK%
 104,1H_Sword!A104,1H_Sword,46,Ebonsteel Sword,Ebonsteel,2,,1000,53,0,0,0,0,0,10,0,2,0,68,0,0,0,0,0,10,0,2,0,83,0,0,0,0,0,10,0,2,0,98,0,0,0,0,0,10,0,2,0,113,0,0,0,0,0,10,0,2,0,
 110,1H_Sword!A110,1H_Sword,90,Sword of Expulsion,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,67,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Vs. Undead
 116,1H_Sword!A116,1H_Sword,99,Demonbane Sword,Ebonsteel,2,,1250,52,0,0,0,0,0,10,0,2,0,67,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,97,0,0,0,0,0,10,0,2,0,112,0,0,0,0,0,10,0,2,0,Demon Slayer
@@ -83,12 +83,12 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 146,1H_Sword!A146,1H_Sword,Ex.,Thunder God's Sword,Ebonsteel,2,,,50,0,0,0,0,4,10,0,2,0,65,0,0,0,0,6,10,0,2,0,80,0,0,0,0,7,10,0,2,0,95,0,0,0,0,8,10,0,2,0,110,0,0,0,0,9,10,0,2,0,
 152,1H_Sword!A152,1H_Sword,Ex.,Sword of Slashing,Ebonsteel,2,,,50,0,0,0,0,0,10,0,2,0,65,0,0,0,0,0,10,0,2,0,80,0,0,0,0,0,10,0,2,0,95,0,0,0,0,0,10,0,2,0,110,0,0,0,0,0,10,0,2,0,Defense Penetration
 158,1H_Sword!A158,1H_Sword,Ex.,Greed Sword,Ebonsteel,2,,,52,0,0,6,0,-2,10,0,2,0,67,0,0,8,0,-2,10,0,2,0,82,0,0,9,0,-2,10,0,2,0,97,0,0,10,0,-2,10,0,2,0,112,0,0,11,0,-2,10,0,2,0,"Greed Force, Beast Howl Learned"
-164,1H_Sword!A164,1H_Sword,Ex.,Caliburn,Ebonsteel,2,,,51,0,0,0,0,0,8,0,0,0,66,0,0,0,0,0,8,0,0,0,81,0,0,0,0,0,8,0,0,0,96,0,0,0,0,0,8,0,0,0,111,0,0,0,0,0,8,0,0,0,
+164,1H_Sword!A164,1H_Sword,Ex.,Caliburn,Ebonsteel,2,,,51,0,0,0,0,0,8,0,0,0,66,0,0,0,0,0,8,0,0,0,81,0,0,0,0,0,8,0,0,0,96,0,0,0,0,0,8,0,0,0,111,0,0,0,0,0,8,0,0,0,Always 4* Red with fixed type ATK/ACC/EVA/ATK%
 170,1H_Sword!A170,1H_Sword,186,Silver Sword,Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,118,0,0,0,0,0,10,0,2,0,136,0,0,0,0,0,10,0,2,0,
 176,1H_Sword!A176,1H_Sword,187,Earthrend Sword,Silver,2,,,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Earth Type
 182,1H_Sword!A182,1H_Sword,188,Seafoam Sword,Silver,2,,,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Water Type
 188,1H_Sword!A188,1H_Sword,Ex.,Stormbringer,Silver,2,,,75,0,0,0,0,2,10,0,1,0,97,0,0,0,0,4,10,0,1,0,115,0,0,0,0,5,10,0,1,0,128,0,0,0,0,6,10,0,1,0,134,0,0,0,0,7,10,0,1,0,"Air Type, Inflict Paralysis"
-194,1H_Sword!A194,1H_Sword,Ex.,Excalibur [XI],Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,118,0,0,0,0,0,10,0,2,0,136,0,0,0,0,0,10,0,2,0,
+194,1H_Sword!A194,1H_Sword,Ex.,Excalibur [XI],Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,118,0,0,0,0,0,10,0,2,0,136,0,0,0,0,0,10,0,2,0,"Always 4* Red with fixed type ATK/ACC/EVA/ATK%, Knights of Round, Power of Excalibur"
 200,1H_Sword!A200,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,1H_Sword!A206,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 212,1H_Sword!A212,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -119,15 +119,15 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,2H_Sword!A2,2H_Sword,5,Worn-Out Greatsword,Worn,1,,27,13,0,0,0,0,-4,6,0,-2,0,21,0,0,0,0,-4,6,0,-2,0,28,0,0,0,0,-4,6,0,-2,0,36,0,0,0,0,-4,6,0,-2,0,43,0,0,0,0,-4,6,0,-2,0,Strength-Based +
 8,2H_Sword!A8,2H_Sword,16,Bronze Greatsword,Bronze,1,675,108,33,0,0,0,0,-4,6,0,-2,0,44,0,0,0,0,-4,6,0,-2,0,55,0,0,0,0,-4,6,0,-2,0,66,0,0,0,0,-4,6,0,-2,0,78,0,0,0,0,-4,6,0,-2,0,Strength-Based +
 14,2H_Sword!A14,2H_Sword,60,The Greatsword of Undead Bane,Bronze,1,,135,35,0,0,0,0,-4,6,0,-2,0,46,0,0,0,0,-4,6,0,-2,0,57,0,0,0,0,-4,6,0,-2,0,68,0,0,0,0,-4,6,0,-2,0,80,0,0,0,0,-4,6,0,-2,0,Strength-Based +
-20,2H_Sword!A20,2H_Sword,Ex.,Relic Blade,Bronze,1,,,25,0,0,0,0,-4,6,-4,-10,0,36,0,0,0,0,-4,6,-4,-10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+20,2H_Sword!A20,2H_Sword,Ex.,Relic Blade,Bronze,1,,,25,0,0,0,0,-4,6,-4,-10,0,36,0,0,0,0,-4,6,-4,-10,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Strength-Based +"
 26,2H_Sword!A26,2H_Sword,27,Iron Greatsword,Iron,1,2025,324,54,0,0,0,0,-4,6,0,-2,0,69,0,0,0,0,-4,6,0,-2,0,84,0,0,0,0,-4,6,0,-2,0,99,0,0,0,0,-4,6,0,-2,0,114,0,0,0,0,-4,6,0,-2,0,Strength-Based +
-32,2H_Sword!A32,2H_Sword,Ex.,Gilded Blade,Iron,1,,,48,0,0,0,0,-4,6,-3,-8,0,63,0,0,0,0,-4,6,-3,-8,0,78,0,0,0,0,-4,6,-3,-8,0,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+32,2H_Sword!A32,2H_Sword,Ex.,Gilded Blade,Iron,1,,,48,0,0,0,0,-4,6,-3,-8,0,63,0,0,0,0,-4,6,-3,-8,0,78,0,0,0,0,-4,6,-3,-8,0,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Strength-Based +"
 38,2H_Sword!A38,2H_Sword,38,Steel Greatsword,Steel,1,,648,72,0,0,0,0,-4,6,0,-2,0,90,0,0,0,0,-4,6,0,-2,0,108,0,0,0,0,-4,6,0,-2,0,127,0,0,0,0,-4,6,0,-2,0,147,0,0,0,0,-4,6,0,-2,0,Strength-Based +
 44,2H_Sword!A44,2H_Sword,115,Two-Handed Sword of the Flame,Steel,1,,810,68,0,0,0,0,-4,6,0,-2,0,86,0,0,0,0,-4,6,0,-2,0,104,0,0,0,0,-4,6,0,-2,0,123,0,0,0,0,-4,6,0,-2,0,143,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Fire Type"
 50,2H_Sword!A50,2H_Sword,125,Two-Handed Sword of the Water Drop,Steel,1,,810,68,0,0,0,0,-4,6,0,-2,0,86,0,0,0,0,-4,6,0,-2,0,104,0,0,0,0,-4,6,0,-2,0,123,0,0,0,0,-4,6,0,-2,0,143,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Water Type"
 56,2H_Sword!A56,2H_Sword,134,Two-Handed Sword of the Gale,Steel,1,,810,68,0,0,0,0,-4,6,0,-2,0,86,0,0,0,0,-4,6,0,-2,0,104,0,0,0,0,-4,6,0,-2,0,123,0,0,0,0,-4,6,0,-2,0,143,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Air Type"
 62,2H_Sword!A62,2H_Sword,143,Two-Handed Sword of the Soil,Steel,1,,810,68,0,0,0,0,-4,6,0,-2,0,86,0,0,0,0,-4,6,0,-2,0,104,0,0,0,0,-4,6,0,-2,0,123,0,0,0,0,-4,6,0,-2,0,143,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Earth Type"
-68,2H_Sword!A68,2H_Sword,Ex.,Dynamis Blade,Steel,1,,,68,0,0,0,0,-4,6,-2,-6,0,86,0,0,0,0,-4,6,-2,-6,0,104,0,0,0,0,-4,6,-2,-6,0,123,0,0,0,0,-4,6,-2,-6,0,,,,,,,,,,,Strength-Based +
+68,2H_Sword!A68,2H_Sword,Ex.,Dynamis Blade,Steel,1,,,68,0,0,0,0,-4,6,-2,-6,0,86,0,0,0,0,-4,6,-2,-6,0,104,0,0,0,0,-4,6,-2,-6,0,123,0,0,0,0,-4,6,-2,-6,0,,,,,,,,,,,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Strength-Based +"
 74,2H_Sword!A74,2H_Sword,49,Ebonsteel Greatsword,Ebonsteel,1,,1350,110,0,0,0,0,-4,6,0,-2,0,133,0,0,0,0,-4,6,0,-2,0,155,0,0,0,0,-4,6,0,-2,0,178,0,0,0,0,-4,6,0,-2,0,200,0,0,0,0,-4,6,0,-2,0,Strength-Based +
 80,2H_Sword!A80,2H_Sword,93,Greatsword of Expulsion,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Vs Undead"
 86,2H_Sword!A86,2H_Sword,100,Demonbane Greatsword,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Demon Slayer"
@@ -135,7 +135,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 98,2H_Sword!A98,2H_Sword,162,Greatsword of Eternal Darkness,Ebonsteel,1,,1688,105,0,0,0,0,-4,6,0,-2,0,128,0,0,0,0,-4,6,0,-2,0,150,0,0,0,0,-4,6,0,-2,0,173,0,0,0,0,-4,6,0,-2,0,195,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dark Type"
 104,2H_Sword!A104,2H_Sword,243,Heavy Warblade of Honor,Ebonsteel,1,,1688,54,0,0,0,0,-4,6,10,-2,0,77,0,0,0,0,-4,6,10,-2,0,114,0,0,0,0,-4,6,10,-2,0,186,0,0,0,0,-4,6,10,-2,0,213,0,0,0,0,-4,18,22,-2,0,"Strength-Based +, Passive SP Up, Battlefront Resonance I, Hero's Crest, always starts 3* Blue ATK/ACC. other blessings random"
 110,2H_Sword!A110,2H_Sword,Ex.,Dragon Slayer,Ebonsteel,1,,,106,0,0,0,0,-4,6,0,-2,0,129,0,0,0,0,-4,6,0,-2,0,151,0,0,0,0,-4,6,0,-2,0,174,0,0,0,0,-4,6,0,-2,0,196,0,0,0,0,-4,6,0,-2,0,"Strength-Based +, Dragon Slayer, Dragon Tolerance"
-116,2H_Sword!A116,2H_Sword,Ex.,Valhalla,Ebonsteel,1,,,108,0,0,0,0,-4,6,-1,-4,0,131,0,0,0,0,-4,6,-1,-4,0,153,0,0,0,0,-4,6,-1,-4,0,176,0,0,0,0,-4,6,-1,-4,0,198,0,0,0,0,-4,6,-1,-4,0,Strength-Based +
+116,2H_Sword!A116,2H_Sword,Ex.,Valhalla,Ebonsteel,1,,,108,0,0,0,0,-4,6,-1,-4,0,131,0,0,0,0,-4,6,-1,-4,0,153,0,0,0,0,-4,6,-1,-4,0,176,0,0,0,0,-4,6,-1,-4,0,198,0,0,0,0,-4,6,-1,-4,0,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Strength-Based +"
 122,2H_Sword!A122,2H_Sword,206,Silver Greatsword,Silver,1,,,132,0,0,0,0,-4,15,0,-2,0,165,0,0,0,0,-4,15,0,-2,0,191,0,0,0,0,-4,15,0,-2,0,214,0,0,0,0,-4,15,0,-2,0,231,0,0,0,0,-4,15,0,-2,0,Strength-Based +
 128,2H_Sword!A128,2H_Sword,207,Earthrend Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Earth Type"
 134,2H_Sword!A134,2H_Sword,208,Seafoam Greatsword,Silver,1,,,128,0,0,0,0,-4,15,0,-2,0,161,0,0,0,0,-4,15,0,-2,0,187,0,0,0,0,-4,15,0,-2,0,210,0,0,0,0,-4,15,0,-2,0,227,0,0,0,0,-4,15,0,-2,0,"Strength-Based +, Water Type"
@@ -147,7 +147,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 170,2H_Sword!A170,2H_Sword,Ex.,Saint Bastard,Silver,1,,,147,0,0,0,0,-4,0,10,-2,0,186,0,0,0,0,-4,0,15,-2,0,213,0,0,0,0,-4,0,19,-2,0,226,0,0,0,0,-4,0,21,-2,0,230,0,0,0,0,-4,0,23,-2,0,"Strength-Based +, Magic Power Heavy Strike"
 176,2H_Sword!A176,2H_Sword,Ex.,Durendal,Silver,1,,,150,0,0,0,0,-4,10,5,-2,0,189,0,0,0,0,-4,10,5,-2,0,216,0,0,0,0,-4,10,5,-2,0,229,0,0,0,0,-4,10,5,-2,0,233,0,0,0,0,-4,10,5,-2,0,"Strength-Based +, Way-Clearing, Art of Swordcraft"
 182,2H_Sword!A182,2H_Sword,Ex.,Abyssbringer,Silver,1,,,135,50,0,0,0,-4,10,5,-2,0,174,83,0,0,0,-4,10,5,-2,0,201,110,0,0,0,-4,10,5,-2,0,214,129,0,0,0,-4,10,5,-2,0,,,,,,,,,,,"Strength-Based +, Dark Elemental Enhancement"
-188,2H_Sword!A188,2H_Sword,Ex.,Ragnarok,Silver,1,,,132,0,0,0,0,-4,15,0,-2,0,165,0,0,0,0,-4,15,0,-2,0,191,0,0,0,0,-4,15,0,-2,0,214,0,0,0,0,-4,15,0,-2,0,231,0,0,0,0,-4,15,0,-2,0,Strength-Based +
+188,2H_Sword!A188,2H_Sword,Ex.,Ragnarok,Silver,1,,,132,0,0,0,0,-4,15,0,-2,0,165,0,0,0,0,-4,15,0,-2,0,191,0,0,0,0,-4,15,0,-2,0,214,0,0,0,0,-4,15,0,-2,0,231,0,0,0,0,-4,15,0,-2,0,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Strength-Based +, Scourge, Power of Ragnarok"
 194,2H_Sword!A194,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 200,2H_Sword!A200,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,2H_Sword!A206,2H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -429,15 +429,15 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,2H_Staff!A2,2H_Staff,10,Worn-Out Two-Handed Staff,Worn,1,,24,9,4,4,0,0,0,0,0,-4,0,17,12,12,0,0,0,0,0,-4,0,24,19,19,0,0,0,0,0,-4,0,32,27,27,0,0,0,0,0,-4,0,39,34,34,0,0,0,0,0,-4,0,Strength-Based +
 8,2H_Staff!A8,2H_Staff,21,Hardwood Two-Handed Staff,Bronze,1,600,96,14,16,16,0,0,0,0,0,-4,0,25,27,27,0,0,0,0,0,-4,0,36,38,38,0,0,0,0,0,-4,0,47,49,49,0,0,0,0,0,-4,0,59,61,61,0,0,0,0,0,-4,0,Strength-Based +
-14,2H_Staff!A14,2H_Staff,Ex.,Relic Staff,Bronze,1,,,14,8,8,0,0,0,0,0,-4,0,25,19,19,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+14,2H_Staff!A14,2H_Staff,Ex.,Relic Staff,Bronze,1,,,14,8,8,0,0,0,0,0,-4,0,25,19,19,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +"
 20,2H_Staff!A20,2H_Staff,32,Old Wood Two-Handed Staff,Iron,1,1800,288,20,38,38,0,0,0,0,0,-4,0,35,53,53,0,0,0,0,0,-4,0,50,68,68,0,0,0,0,0,-4,0,65,83,83,0,0,0,0,0,-4,0,80,98,98,0,0,0,0,0,-4,0,Strength-Based +
 26,2H_Staff!A26,2H_Staff,72,Silverworked Staff,Iron,1,9000,1800,20,38,38,0,0,0,0,0,-4,0,35,53,53,0,0,0,0,0,-4,0,50,68,68,0,0,0,0,0,-4,0,65,83,83,0,0,0,0,0,-4,0,80,98,98,0,0,0,0,0,-4,0,Strength-Based +
-32,2H_Staff!A32,2H_Staff,Ex.,Sage's Staff,Iron,1,,,20,32,32,0,0,0,0,0,-4,0,35,47,47,0,0,0,0,0,-4,0,50,62,62,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+32,2H_Staff!A32,2H_Staff,Ex.,Sage's Staff,Iron,1,,,20,32,32,0,0,0,0,0,-4,0,35,47,47,0,0,0,0,0,-4,0,50,62,62,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +"
 38,2H_Staff!A38,2H_Staff,43,Sacred Wood Two-Handed Staff,Steel,1,,576,25,60,60,0,0,0,0,0,-4,0,43,78,78,0,0,0,0,0,-4,0,61,96,96,0,0,0,0,0,-4,0,80,115,115,0,0,0,0,0,-4,0,100,135,135,0,0,0,0,0,-4,0,Strength-Based +
 44,2H_Staff!A44,2H_Staff,85,Spiritual Staff,Steel,1,,720,30,65,0,0,0,0,0,0,-4,0,48,83,0,0,0,0,0,0,-4,0,66,101,0,0,0,0,0,0,-4,0,85,120,0,0,0,0,0,0,-4,0,105,140,0,0,0,0,0,0,-4,0,Strength-Based +
 50,2H_Staff!A50,2H_Staff,86,Holy Wand,Steel,1,,720,30,0,65,0,0,0,0,0,-4,0,48,0,83,0,0,0,0,0,-4,0,66,0,101,0,0,0,0,0,-4,0,85,0,120,0,0,0,0,0,-4,0,105,0,140,0,0,0,0,0,-4,0,Strength-Based +
 56,2H_Staff!A56,2H_Staff,Ex.,Two-Handed Wreath Staff,Steel,1,,922,25,70,70,0,0,-4,0,0,-4,0,43,88,88,0,0,-4,0,0,-4,0,61,106,106,0,0,-4,0,0,-4,0,80,125,125,0,0,-4,0,0,-4,0,100,145,145,0,0,-4,0,0,-4,0,"Strength-Based +, I.Q. Barrier"
-62,2H_Staff!A62,2H_Staff,Ex.,Dynamis Staff,Steel,1,,,25,56,56,0,0,0,0,0,-4,0,43,74,74,0,0,0,0,0,-4,0,61,92,92,0,0,0,0,0,-4,0,80,111,111,0,0,0,0,0,-4,0,,,,,,,,,,,Strength-Based +
+62,2H_Staff!A62,2H_Staff,Ex.,Dynamis Staff,Steel,1,,,25,56,56,0,0,0,0,0,-4,0,43,74,74,0,0,0,0,0,-4,0,61,92,92,0,0,0,0,0,-4,0,80,111,111,0,0,0,0,0,-4,0,,,,,,,,,,,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +"
 68,2H_Staff!A68,2H_Staff,54,Arcane Staff,Ebonsteel,1,,1200,33,90,90,0,0,0,0,0,-4,0,56,113,113,0,0,0,0,0,-4,0,78,135,135,0,0,0,0,0,-4,0,101,158,158,0,0,0,0,0,-4,0,123,180,180,0,0,0,0,0,-4,0,Strength-Based +
 74,2H_Staff!A74,2H_Staff,105,Desert Staff,Ebonsteel,1,45000,4500,33,99,99,0,0,-2,0,0,-6,0,56,122,122,0,0,-2,0,0,-6,0,78,144,144,0,0,-2,0,0,-6,0,101,167,167,0,0,-2,0,0,-6,0,123,189,189,0,0,-2,0,0,-6,0,Strength-Based +
 80,2H_Staff!A80,2H_Staff,Ex.,Studly Staff,Ebonsteel,1,,,33,90,90,15,15,0,0,0,-4,0,56,113,113,15,15,0,0,0,-4,0,78,135,135,15,15,0,0,0,-4,0,101,158,158,15,15,0,0,0,-4,0,123,180,180,15,15,0,0,0,-4,0,Strength-Based +
@@ -445,11 +445,11 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 92,2H_Staff!A92,2H_Staff,Ex.,Two-Handed Staff of Compassion,Ebonsteel,1,,,18,40,95,0,0,0,0,0,-4,0,41,63,118,0,0,0,0,0,-4,0,63,85,140,0,0,0,0,0,-4,0,86,108,163,0,0,0,0,0,-4,0,108,130,185,0,0,0,0,0,-4,0,"Strength-Based +, Holy Light of Healing"
 98,2H_Staff!A98,2H_Staff,Ex.,Two-Handed Staff of The Spirit Realm,Ebonsteel,1,,,18,104,50,0,0,0,0,0,-4,0,41,127,73,0,0,0,0,0,-4,0,63,149,95,0,0,0,0,0,-4,0,86,172,118,0,0,0,0,0,-4,0,108,194,140,0,0,0,0,0,-4,0,"Strength-Based +, Passive HP Up, Calamitous Rockfall Learned"
 104,2H_Staff!A104,2H_Staff,Ex.,Quicksilver Crosier,Ebonsteel,1,,,18,50,104,0,0,0,0,0,-4,0,41,73,127,0,0,0,0,0,-4,0,63,95,149,0,0,0,0,0,-4,0,86,118,172,0,0,0,0,0,-4,0,108,140,194,0,0,0,0,0,-4,0,"Strength-Based +, MP Absorption on Defeat"
-110,2H_Staff!A110,2H_Staff,Ex.,Thyrus,Ebonsteel,1,,,33,88,88,0,0,0,0,0,-4,0,56,111,111,0,0,0,0,0,-4,0,78,133,133,0,0,0,0,0,-4,0,101,156,156,0,0,0,0,0,-4,0,123,178,178,0,0,0,0,0,-4,0,Strength-Based +
+110,2H_Staff!A110,2H_Staff,Ex.,Thyrus,Ebonsteel,1,,,33,88,88,0,0,0,0,0,-4,0,56,111,111,0,0,0,0,0,-4,0,78,133,133,0,0,0,0,0,-4,0,101,156,156,0,0,0,0,0,-4,0,123,178,178,0,0,0,0,0,-4,0,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +"
 116,2H_Staff!A116,2H_Staff,219,Staff of Splendor,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,Strength-Based +
 122,2H_Staff!A122,2H_Staff,Ex.,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,135,212,200,0,0,0,0,0,-4,0,139,222,210,0,0,0,0,0,-4,0,"Strength-Based +, Status Affliction/Debuff Exploit"
 128,2H_Staff!A128,2H_Staff,Ex.,Ritual Staff of Effulgence,Silver,1,,,46,123,141,0,0,0,0,0,-4,0,85,156,174,0,0,0,0,0,-4,0,112,183,201,0,0,0,0,0,-4,0,125,202,220,0,0,0,0,0,-4,0,129,212,230,0,0,0,0,0,-4,0,"Strength-Based +, Searing Light of Purification"
-134,2H_Staff!A134,2H_Staff,Ex.,Claustrum,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,Strength-Based +
+134,2H_Staff!A134,2H_Staff,Ex.,Claustrum,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +, Gate of Tartarus, Power of Claustrum"
 140,2H_Staff!A140,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Staff!A146,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,2H_Staff!A152,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -474,17 +474,17 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 2,Bow!A2,Bow,11,Worn-Out Bow,Worn,1,,22,16,0,0,0,0,0,4,0,0,0,24,0,0,0,0,0,4,0,0,0,31,0,0,0,0,0,4,0,0,0,39,0,0,0,0,0,4,0,0,0,46,0,0,0,0,0,4,0,0,0,Strength-Based +
 8,Bow!A8,Bow,22,Hardwood Bow,Bronze,1,550,88,32,0,0,0,0,0,4,0,0,0,43,0,0,0,0,0,4,0,0,0,54,0,0,0,0,0,4,0,0,0,65,0,0,0,0,0,4,0,0,0,77,0,0,0,0,0,4,0,0,0,Strength-Based +
 14,Bow!A14,Bow,64,Bow of Undead Bane,Bronze,1,,110,34,0,0,0,0,0,4,0,0,0,45,0,0,0,0,0,4,0,0,0,56,0,0,0,0,0,4,0,0,0,67,0,0,0,0,0,4,0,0,0,79,0,0,0,0,0,4,0,0,0,"Strength-Based +, Vs Undead"
-20,Bow!A20,Bow,Ex.,Relic Bow,Bronze,1,,,24,0,0,0,0,-6,-4,0,0,0,35,0,0,0,0,-6,-4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+20,Bow!A20,Bow,Ex.,Relic Bow,Bronze,1,,,24,0,0,0,0,-6,-4,0,0,0,35,0,0,0,0,-6,-4,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type ATK/ACC/ASPD/ATK%, Strength-Based +"
 26,Bow!A26,Bow,33,Old Wood Bow,Iron,1,1650,264,52,0,0,0,0,0,4,0,0,0,67,0,0,0,0,0,4,0,0,0,82,0,0,0,0,0,4,0,0,0,97,0,0,0,0,0,4,0,0,0,112,0,0,0,0,0,4,0,0,0,Strength-Based +
 32,Bow!A32,Bow,73,Huntsman's Bow,Iron,1,,422,56,0,0,0,0,0,16,0,0,0,71,0,0,0,0,0,18,0,0,0,86,0,0,0,0,0,19,0,0,0,101,0,0,0,0,0,20,0,0,0,116,0,0,0,0,0,21,0,0,0,Strength-Based +
-38,Bow!A38,Bow,Ex.,Wolver Bow,Iron,1,,,46,0,0,0,0,-4,-2,0,0,0,61,0,0,0,0,-4,-2,0,0,0,76,0,0,0,0,-4,-2,0,0,0,,,,,,,,,,,,,,,,,,,,,Strength-Based +
+38,Bow!A38,Bow,Ex.,Wolver Bow,Iron,1,,,46,0,0,0,0,-4,-2,0,0,0,61,0,0,0,0,-4,-2,0,0,0,76,0,0,0,0,-4,-2,0,0,0,,,,,,,,,,,,,,,,,,,,,"Always 4* Red with fixed type ATK/ACC/ASPD/ATK%, Strength-Based +"
 44,Bow!A44,Bow,44,Sacred Wood Bow,Steel,1,,528,68,0,0,0,0,0,4,0,0,0,86,0,0,0,0,0,4,0,0,0,104,0,0,0,0,0,4,0,0,0,123,0,0,0,0,0,4,0,0,0,143,0,0,0,0,0,4,0,0,0,Strength-Based +
 50,Bow!A50,Bow,88,Bird-Dropper,Steel,1,,825,66,0,0,0,0,0,4,0,0,0,84,0,0,0,0,0,4,0,0,0,102,0,0,0,0,0,4,0,0,0,121,0,0,0,0,0,4,0,0,0,141,0,0,0,0,0,4,0,0,0,"Strength-Based +, Aerial-Slayer"
 56,Bow!A56,Bow,120,Bow of Flame,Steel,1,,660,64,0,0,0,0,0,4,0,0,0,82,0,0,0,0,0,4,0,0,0,100,0,0,0,0,0,4,0,0,0,119,0,0,0,0,0,4,0,0,0,139,0,0,0,0,0,4,0,0,0,"Strength-Based +, Fire Type"
 62,Bow!A62,Bow,129,Bow of the Water Drop,Steel,1,,660,64,0,0,0,0,0,4,0,0,0,82,0,0,0,0,0,4,0,0,0,100,0,0,0,0,0,4,0,0,0,119,0,0,0,0,0,4,0,0,0,139,0,0,0,0,0,4,0,0,0,"Strength-Based +, Water Type"
 68,Bow!A68,Bow,138,Bow of the Gale,Steel,1,,660,64,0,0,0,0,0,4,0,0,0,82,0,0,0,0,0,4,0,0,0,100,0,0,0,0,0,4,0,0,0,119,0,0,0,0,0,4,0,0,0,139,0,0,0,0,0,4,0,0,0,"Strength-Based +, Air Type"
 74,Bow!A74,Bow,147,Bow of the Soil,Steel,1,,660,64,0,0,0,0,0,4,0,0,0,82,0,0,0,0,0,4,0,0,0,100,0,0,0,0,0,4,0,0,0,119,0,0,0,0,0,4,0,0,0,139,0,0,0,0,0,4,0,0,0,"Strength-Based +, Earth Type"
-80,Bow!A80,Bow,Ex.,Dynamis Bow,Steel,1,,,64,0,0,0,0,-2,0,0,0,0,82,0,0,0,0,-2,0,0,0,0,100,0,0,0,0,-2,0,0,0,0,119,0,0,0,0,-2,0,0,0,0,,,,,,,,,,,Strength-Based +
+80,Bow!A80,Bow,Ex.,Dynamis Bow,Steel,1,,,64,0,0,0,0,-2,0,0,0,0,82,0,0,0,0,-2,0,0,0,0,100,0,0,0,0,-2,0,0,0,0,119,0,0,0,0,-2,0,0,0,0,,,,,,,,,,,"Always 4* Red with fixed type ATK/ACC/ASPD/ATK%, Strength-Based +"
 86,Bow!A86,Bow,55,Arcane Elm Bow,Ebonsteel,1,,1100,94,0,0,0,0,0,4,0,0,0,117,0,0,0,0,0,4,0,0,0,139,0,0,0,0,0,4,0,0,0,162,0,0,0,0,0,4,0,0,0,184,0,0,0,0,0,4,0,0,0,Strength-Based +
 92,Bow!A92,Bow,97,Bow of Expulsion,Ebonsteel,1,,1375,90,0,0,0,0,0,4,0,0,0,113,0,0,0,0,0,4,0,0,0,135,0,0,0,0,0,4,0,0,0,158,0,0,0,0,0,4,0,0,0,180,0,0,0,0,0,4,0,0,0,"Strength-Based +, Vs. Undead"
 98,Bow!A98,Bow,103,Hunting Arrow,Ebonsteel,1,,1375,90,0,0,0,0,0,4,0,0,0,113,0,0,0,0,0,4,0,0,0,135,0,0,0,0,0,4,0,0,0,158,0,0,0,0,0,4,0,0,0,180,0,0,0,0,0,4,0,0,0,"Strength-Based +, Magical Beast-Slayer"
@@ -492,7 +492,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 110,Bow!A110,Bow,157,Bow of the Aurora,Ebonsteel,1,,1375,90,0,0,0,0,0,4,0,0,0,113,0,0,0,0,0,4,0,0,0,135,0,0,0,0,0,4,0,0,0,158,0,0,0,0,0,4,0,0,0,180,0,0,0,0,0,4,0,0,0,"Strength-Based +, Light Type"
 116,Bow!A116,Bow,166,Bow of Eternal Darkness,Ebonsteel,1,,1375,90,0,0,0,0,0,4,0,0,0,113,0,0,0,0,0,4,0,0,0,135,0,0,0,0,0,4,0,0,0,158,0,0,0,0,0,4,0,0,0,180,0,0,0,0,0,4,0,0,0,"Strength-Based +, Dark Type"
 122,Bow!A122,Bow,Ex.,Meteor Bow,Ebonsteel,1,,,92,0,0,0,0,2,4,0,0,0,115,0,0,0,0,2,4,0,0,0,137,0,0,0,0,2,4,0,0,0,160,0,0,0,0,2,4,0,0,0,182,0,0,0,0,2,4,0,0,0,"Strength-Based +, Passive SP Up"
-128,Bow!A128,Bow,Ex.,Futatokoroto,Ebonsteel,1,,,92,0,0,0,0,-1,2,0,0,0,115,0,0,0,0,-1,2,0,0,0,137,0,0,0,0,-1,2,0,0,0,160,0,0,0,0,-1,2,0,0,0,182,0,0,0,0,-1,2,0,0,0,Strength-Based +
+128,Bow!A128,Bow,Ex.,Futatokoroto,Ebonsteel,1,,,92,0,0,0,0,-1,2,0,0,0,115,0,0,0,0,-1,2,0,0,0,137,0,0,0,0,-1,2,0,0,0,160,0,0,0,0,-1,2,0,0,0,182,0,0,0,0,-1,2,0,0,0,"Always 4* Red with fixed type ATK/ACC/ASPD/ATK%, Strength-Based +"
 134,Bow!A134,Bow,225,Longbow of Splendor,Silver,1,,,113,0,0,0,0,0,4,0,0,0,146,0,0,0,0,0,4,0,0,0,172,0,0,0,0,0,4,0,0,0,195,0,0,0,0,0,4,0,0,0,212,0,0,0,0,0,4,0,0,0,Strength-Based +
 140,Bow!A140,Bow,231,Composite Bow,Silver,1,75000,,90,0,0,0,0,0,40,0,0,0,113,0,0,0,0,0,40,0,0,0,135,0,0,0,0,0,40,0,0,0,158,0,0,0,0,0,40,0,0,0,180,0,0,0,0,0,40,0,0,0,Strength-Based +
 146,Bow!A146,Bow,228,Beast Eraser,Silver,1,,,109,0,0,0,0,0,4,0,0,0,142,0,0,0,0,0,4,0,0,0,168,0,0,0,0,0,4,0,0,0,191,0,0,0,0,0,4,0,0,0,208,0,0,0,0,0,4,0,0,0,"Strength-Based +, Magical Beast-Slayer"
@@ -501,7 +501,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 164,Bow!A164,Bow,233,Verdant Frost Branch Bow,Silver,1,,,113,0,0,0,0,0,10,0,0,0,146,0,0,0,0,0,10,0,0,0,172,0,0,0,0,0,10,0,0,0,195,0,0,0,0,0,10,0,0,0,212,0,0,0,0,0,10,0,0,0,"Strength-Based +, Passive SP Up"
 170,Bow!A170,Bow,Ex.,Winterthorn Bell Bow,Silver,1,,,120,0,0,0,0,0,12,0,0,0,159,0,0,0,0,0,17,0,0,0,186,0,0,0,0,0,21,0,0,0,199,0,0,0,0,0,23,0,0,0,203,0,0,0,0,0,25,0,0,0,"Strength-Based +, Attack Power Decrease"
 176,Bow!A176,Bow,Ex.,Mountain Huntsman's Trick Bow,Silver,1,,,80,0,0,0,0,0,50,0,0,0,119,0,0,0,0,0,55,0,0,0,146,0,0,0,0,0,59,0,0,0,159,0,0,0,0,0,61,0,0,0,163,0,0,0,0,0,63,0,0,0,"Strength-Based +, Area-of-Effect Attack Enhancement"
-182,Bow!A182,Bow,Ex.,Yoichinoyumi,Silver,1,,,113,0,0,0,0,0,4,0,0,0,146,0,0,0,0,0,4,0,0,0,172,0,0,0,0,0,4,0,0,0,195,0,0,0,0,0,4,0,0,0,212,0,0,0,0,0,4,0,0,0,Strength-Based +
+182,Bow!A182,Bow,Ex.,Yoichinoyumi,Silver,1,,,113,0,0,0,0,0,4,0,0,0,146,0,0,0,0,0,4,0,0,0,172,0,0,0,0,0,4,0,0,0,195,0,0,0,0,0,4,0,0,0,212,0,0,0,0,0,4,0,0,0,"Always 4* Red with fixed type ATK/ACC/ASPD/ATK%, Strength-Based +, Namas Arrow, Power of Yoichinoyumi"
 188,Bow!A188,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 194,Bow!A194,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 200,Bow!A200,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -534,15 +534,15 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Sam_Katana!A2,Sam_Katana,167,Well-Worn Katana,Worn,2,,,11,8,0,0,0,0,5,0,0,0,16,14,0,0,0,0,5,0,0,0,21,20,0,0,0,0,5,0,0,0,26,26,0,0,0,0,5,0,0,0,31,33,0,0,0,0,5,0,0,0,
 8,Sam_Katana!A8,Sam_Katana,168,Standard Katana,Bronze,2,,120,20,17,0,0,0,0,6,0,0,0,28,26,0,0,0,0,6,0,0,0,35,34,0,0,0,0,6,0,0,0,43,43,0,0,0,0,6,0,0,0,50,52,0,0,0,0,6,0,0,0,
-14,Sam_Katana!A14,Sam_Katana,Ex.,Ito,Bronze,2,,,12,9,0,0,0,0,6,0,-8,0,20,18,0,0,0,0,6,0,-8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Sam_Katana!A14,Sam_Katana,Ex.,Ito,Bronze,2,,,12,9,0,0,0,0,6,0,-8,0,20,18,0,0,0,0,6,0,-8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Always 4* Red with fixed type ATK/MAG/EVA/ATK%
 20,Sam_Katana!A20,Sam_Katana,169,Fine Katana,Iron,2,,380,32,26,0,0,0,0,8,0,0,0,42,37,0,0,0,0,8,0,0,0,52,48,0,0,0,0,8,0,0,0,62,59,0,0,0,0,8,0,0,0,72,71,0,0,0,0,8,0,0,0,
-26,Sam_Katana!A26,Sam_Katana,Ex.,Hayatemaru,Iron,2,,,26,20,0,0,0,0,8,0,-6,0,36,31,0,0,0,0,8,0,-6,0,46,42,0,0,0,0,8,0,-6,0,,,,,,,,,,,,,,,,,,,,,
+26,Sam_Katana!A26,Sam_Katana,Ex.,Hayatemaru,Iron,2,,,26,20,0,0,0,0,8,0,-6,0,36,31,0,0,0,0,8,0,-6,0,46,42,0,0,0,0,8,0,-6,0,,,,,,,,,,,,,,,,,,,,,Always 4* Red with fixed type ATK/MAG/EVA/ATK%
 32,Sam_Katana!A32,Sam_Katana,170,Refined Katana,Steel,2,,900,45,49,0,0,0,0,10,0,0,0,58,63,0,0,0,0,10,0,0,0,70,76,0,0,0,0,10,0,0,0,83,90,0,0,0,0,10,0,0,0,95,104,0,0,0,0,10,0,0,0,
-38,Sam_Katana!A38,Sam_Katana,Ex.,Oboromaru,Steel,2,,,45,41,0,0,0,0,10,0,-4,0,58,55,0,0,0,0,10,0,-4,0,70,68,0,0,0,0,10,0,-4,0,83,82,0,0,0,0,10,0,-4,0,,,,,,,,,,,
+38,Sam_Katana!A38,Sam_Katana,Ex.,Oboromaru,Steel,2,,,45,41,0,0,0,0,10,0,-4,0,58,55,0,0,0,0,10,0,-4,0,70,68,0,0,0,0,10,0,-4,0,83,82,0,0,0,0,10,0,-4,0,,,,,,,,,,,Always 4* Red with fixed type ATK/MAG/EVA/ATK%
 44,Sam_Katana!A44,Sam_Katana,171,Exquisite Katana,Ebonsteel,2,,2813,70,65,0,0,0,0,10,0,0,0,85,81,0,0,0,0,10,0,0,0,100,97,0,0,0,0,10,0,0,0,115,113,0,0,0,0,10,0,0,0,130,130,0,0,0,0,10,0,0,0,
 50,Sam_Katana!A50,Sam_Katana,Ex.,Saber,Ebonsteel,2,,2400,50,30,0,0,0,0,6,0,0,0,65,46,0,0,0,0,6,0,0,0,80,62,0,0,0,0,6,0,0,0,95,78,0,0,0,0,6,0,0,0,110,95,0,0,0,0,6,0,0,0,One Sword Style
 56,Sam_Katana!A56,Sam_Katana,Ex.,Kiku-Ichimonji,Ebonsteel,2,,,65,60,0,0,0,5,15,5,0,0,80,76,0,0,0,6,15,7,0,0,95,92,0,0,0,7,15,8,0,0,110,108,0,0,0,8,15,9,0,0,125,125,0,0,0,9,15,10,0,0,Masterwork Hamon
-62,Sam_Katana!A62,Sam_Katana,Ex.,Totsukanotsurugi,Ebonsteel,2,,,68,63,0,0,0,0,10,0,-2,0,83,79,0,0,0,0,10,0,-2,0,98,95,0,0,0,0,10,0,-2,0,113,111,0,0,0,0,10,0,-2,0,128,128,0,0,0,0,10,0,-2,0,
+62,Sam_Katana!A62,Sam_Katana,Ex.,Totsukanotsurugi,Ebonsteel,2,,,68,63,0,0,0,0,10,0,-2,0,83,79,0,0,0,0,10,0,-2,0,98,95,0,0,0,0,10,0,-2,0,113,111,0,0,0,0,10,0,-2,0,128,128,0,0,0,0,10,0,-2,0,Always 4* Red with fixed type ATK/MAG/EVA/ATK%
 68,Sam_Katana!A68,Sam_Katana,203,Yukihiko,Silver,2,75000,,90,78,0,0,0,-5,10,0,0,0,108,98,0,0,0,-5,10,0,0,0,126,117,0,0,0,-5,10,0,0,0,144,136,0,0,0,-5,10,0,0,0,162,156,0,0,0,-5,10,0,0,0,
 74,Sam_Katana!A74,Sam_Katana,201,Masterwork Katana,Silver,2,,,84,78,0,0,0,0,10,0,0,0,102,98,0,0,0,0,10,0,0,0,120,117,0,0,0,0,10,0,0,0,138,136,0,0,0,0,10,0,0,0,156,156,0,0,0,0,10,0,0,0,
 80,Sam_Katana!A80,Sam_Katana,204,Snow-Oni Yoto,Silver,2,,,32,26,0,0,0,0,18,0,0,0,50,46,0,0,0,0,18,0,0,0,86,85,0,0,0,0,18,0,0,0,127,128,0,0,0,0,18,0,0,0,176,182,0,0,0,0,18,0,0,0,Chilling Curse
@@ -551,7 +551,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 98,Sam_Katana!A98,Sam_Katana,234,Clear Mind,Silver,2,,,82,76,0,0,0,0,10,0,0,0,100,96,0,0,0,0,10,0,0,0,118,115,0,0,0,0,10,0,0,0,136,134,0,0,0,0,10,0,0,0,154,154,0,0,0,0,10,0,0,0,Humanoid-Slayer
 104,Sam_Katana!A104,Sam_Katana,Ex.,Refined Saber,Silver,2,,,60,36,0,0,0,0,6,0,0,0,78,56,0,0,0,0,6,0,0,0,96,75,0,0,0,0,6,0,0,0,114,94,0,0,0,0,6,0,0,0,132,114,0,0,0,0,6,0,0,0,One Sword Style
 110,Sam_Katana!A110,Sam_Katana,Ex.,Cherry Blossom of the Other Shore,Silver,2,,,100,75,0,8,8,0,6,0,10,0,122,99,0,8,8,0,6,0,10,0,140,119,0,8,8,0,6,0,10,0,153,131,0,8,8,0,6,0,10,0,159,139,0,8,8,0,6,0,10,0,"Clear Mind, Still Water"
-116,Sam_Katana!A116,Sam_Katana,Ex.,Amanomurakumo,Silver,2,,,82,76,0,0,0,0,10,0,0,0,100,96,0,0,0,0,10,0,0,0,118,115,0,0,0,0,10,0,0,0,136,134,0,0,0,0,10,0,0,0,154,154,0,0,0,0,10,0,0,0,
+116,Sam_Katana!A116,Sam_Katana,Ex.,Amanomurakumo,Silver,2,,,82,76,0,0,0,0,10,0,0,0,100,96,0,0,0,0,10,0,0,0,118,115,0,0,0,0,10,0,0,0,136,134,0,0,0,0,10,0,0,0,154,154,0,0,0,0,10,0,0,0,"Always 4* Red with fixed type ATK/MAG/EVA/ATK%, Tachi: Kaiten, Power of Amanomurakumo"
 122,Sam_Katana!A122,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 128,Sam_Katana!A128,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 134,Sam_Katana!A134,Sam_Katana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

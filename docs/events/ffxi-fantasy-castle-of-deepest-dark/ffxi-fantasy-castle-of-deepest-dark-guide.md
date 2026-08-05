@@ -1,6 +1,6 @@
 # FFXI - Fantasy Castle of Deepest Dark
 
-!!! warning "This page is under construction as we get more details and clear information"
+!!! warning "This page is a WIP and frequently updated. Ctrl + F5 to refresh."
 
 ## Free Event Unit
 
@@ -8,7 +8,7 @@ When heading to the Royal Capital for the first time, there will be a cutscene f
 
 Head to entrance of the Beginning Abyss and head inside to the 1st floor. There will an NPC right beside you (X:5, Y:1) that will give you a choice of any one of the Legendary Event adventurers (Zeid, Iroha, Prishe), Abenius, Red Beard, or Arboris. 
 
-## Quick Guide
+## Guide 
 
 ### 1st Run - Bad Ending
 
@@ -27,17 +27,19 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 11. You will meet Iroha in Zone 5, simply head to the middle of the floor and head slightly south to find two portals. You will need to head into each one and step on a pressure plate, which will unlock the door of Zone 5. Head to Zone 6.
 12. Zone 6 is a straight bridge. Simply head to the middle and see a cutscene between Iroha and Tenzen. Defeat Tenzen then watch both Tenzen and Iroha get absorbed by the Shadow Lord. Heading further across, you will see the eldest sibling of whom you are trying to rescue get absorbed by the Shadow Lord. Before continuing to Zone 7...
 
-!!! danger "As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring only one teammate with you, as the game requires you to bring at least one, and preferably someone you do not care about."
+!!! danger "As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins."
 
-12. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. However, this is a scripted loss, as he will enrage your entire party and slowly absorb them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
+12. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via grade obviously) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
 
 ### 2nd Run Good Ending?
 
 1. Accept the request in the Royal Capital and head back to the Entrance of Zone 1. Cait Sith will be there again but avoid you.
-2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map and you will need to find them 3-4 times before they will talk to you. They will give you Guidelight Bugs which will allow you to find Crystals of Hope that will basically prevent the Shadow Lord from absorbing everyone. You will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The locations are random.
+
+2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map. The options do not seem to matter, it is random. If you do not successfully catch her, she will just walk a few tiles away and you will need to attempt to catch her a few more times. They will give you Guidelight Bugs which will allow you to find Crystals of Hope that will basically prevent the Shadow Lord from absorbing everyone. For the first one, you will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The Location will be random. You will need to do this two more times on later floors for their respective encounters.
+
 3. Head to Zone 3 and interact with one of the Gorgons. You will be offered a new option to sacrifice yourself. Select this option, you will be turned to stone, and your team will drag you to the door. Sacrificing yourself prevents your team from becoming angry with you. You can now proceed to through the door and do not need to interact with the 2nd Gorgon. Continue to the cutscene, but this time choose the option of holding the crystal up like a sword. (If you do not choose this option, then you will get the "bad" ending). You will enter a fight afterwards, but Lion and Zeid will be saved. Before you continue to Zone 4 however....
 
-!!! note "To solve the 3-door puzzle you need to bring a team that matches MC's alignment and choose the corresponding door (Good-Neutral-Evil). Everyone must be the same alignment. For the Cursed Wheel toggle to register properly you need to defeat Ulmia and unlock the next Harken. It operates very similarly to the corrosion sentry registration in A3."  
+!!! note "To solve the 3-door puzzle (Good-Neutral-Evil) everyone must be the same alignment, including the MC. You will get special Lulu text ("Did you change our party lineup specifically for this door, by chance?") if done correctly. The good news is that defeating Ulmia is not required. You can exit back to town if you need to change your team for the boss fight. This toggle also prevents any of your units from being enraged during the boss fight as everyone is at 0 "Hate"."  
 
 4. There is a Crystal of Hope in Zone 4 for Ulmia. You may need to look up on the wall for it. As per usual, it is randomly located so check every portal. For the puzzle, you will need to bring a party of only 1 alignment and go through that door. Continue onwards, and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.
 5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
@@ -59,25 +61,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
 
-??? warning "Rewards for 2nd Run Completion"
-
-    === "Lion Bondmate"
-        ![](./img/lion-bondmate.png)
-
-        - Provides about 17% Stun Tolerance at +5
-        - Provides 4 extra Surety if put on Zeid at +5
-
-    === "Ulmia Bondmate"
-        ![](./img/ulmia-bondmate.png)
-
-        - Provides 8 Resistance at +5
-        - Provides 8 extra ATK if put on Prishe at +5
-
-    === "Tenzen Bondmate"
-        ![](./img/tenzen-bondmate.png)
-
-        - Provides about 17% Paralysis Tolerance at +5
-        - Provides 4 extra ATK and DIV if put on Iroha at +5
+Rewards:  Completing the request will reward you with [Lion, Ulmia, and Tenzen bondmates](#Bondmates).
 
 ### 3rd Run
 
@@ -109,6 +93,33 @@ This is unavailable for now and will be unlocked later during the event.
 ??? map "Goblin's Abode"
     ![](./img/goblins-abode.jpg)
 
+## Bondmates
+
+- Lion, Tenzen, and Ulima will become bondmates after achieving the Good Ending.  
+- Bonds can be leveled by simply using the Cursed Wheel to leap back to right before the final fight, winning the battle, and turning in the Request.  
+- Bonds can achieve level 5 with 11 completions.  
+- These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).
+
+!!! note "FFXI Bondmate Details"  
+
+    !!!! note "Lion, Pirate's Daughter"  
+        ![](./img/lion-bondmate.jpg)  
+        
+        - Lion's Determination: Provides about 17% Stun Tolerance at +5  
+        - The Bond Between Lion and Zeid: Provides 4 extra Surety if put on Zeid at +5  
+
+    !!!! note "Ulmia the Songstress"  
+        ![](./img/ulmia-bondmate.jpg)  
+
+        - Ulmia's Song of Prayer: Provides 8 Resistance at +5  
+        - The Bond Between Ulmia and Prishe: Provides 8 extra ATK if put on Prishe at +5  
+
+    !!!! note "Tenzen, Samurai of the Far East"  
+        ![](./img/tenzen-bondmate.jpg)  
+
+        - Tenzen's Ultimate Aim: Provides about 17% Paralysis Tolerance at +5  
+        - The Bond Between Tenzen and Iroha: Provides 4 extra ATK and DIV if put on Iroha at +5  
+
 
 ## Trading
 
@@ -134,16 +145,31 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 ## Relic Equipment  
 
-The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Reset" the highest/Silver level (essentially rerolling it's blessings if you aren't happy with it the first time around.)  
+!!! note "Availability"
+    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken. Lulu hints to you at Zone 3 you should return to see if anything has changed. Players have reported continuing to progress through the story without returning and the unlock conditions not occurring. It is recommended you return to town at each Harken in between each new floor to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed to far.
 
-The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 4 Harken has been reached. Reforging materials can be obtained by farming the event dungeon.  
+The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Remake" the highest/Silver level (essentially undoing its milestone blessings if you aren't happy with them the first time around.)  
 
-Some quick facts:
+The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
 
-    - Statwise, they are effectively equivalent to normal silver items. However, they have a passive and active skill.
-    - They are always Red 4* with Silver level substats. So it's possible to FAS them before they reach max tier.
-    - Their substats are locked, so FASing them will keep the stats the same, similar to Master Rings from class trials.
-    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.
+There appears to be no level or story progress restriction to obtaining any of the relic upgrade materials, so even the lowest level event participant can theoretically finish the event with a set of Silver rank equipment.  
+
+Some quick facts:  
+
+- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings.  
+- Their blessings types are all locked, so FASing them will keep the blessing types the same and just reroll the values, similar to Master Rings from class trials.  
+- Enhancement:  
+    - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
+    - Enhancement costs for all levels follow the Silver tables.  
+    - Enhancement blessing increases also follow Silver level table ranges.  
+    - Enhancement levels are preserved when Reforging to a higher item level.  
+    - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
+    - (unverified) "Remake"-ing a Level 4 item seems to return an enhanced item to +0 so you can enhance snd reroll milestone blessings again. It is unconfirmed how this interacts with FAS bonus milestone blessing.  
+- Silver Tier Skills:  
+    - At reforging to Level 4, items gain traits granting an active and a passive skill to the bearer.  
+    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
+
+### Relic Equipment Reforge Material Table
 
 ![](./img/collab_relic_equipment_fodder.png)
 
@@ -276,18 +302,30 @@ Some quick facts:
     | Heavy Shield | Aegis          | Silver | +15   |           |           |           | -2  | -1  |     | 59 (+6) | 60 (+5) |
     | Heavy Shield | Aegis          | Silver | +20   |           |           |           | -2  | -1  |     | 65 (+6) | 65 (+5) |
 
+=== "Weapon Fixed Blessings"
+
+    | Type         | Weapon         | Slot 1 | Slot 2 | Slot 3 | Slot 4 |
+    |--------------|----------------|:------:|:------:|:------:|:------:|
+    | Dagger       | Mandau         | ATK    | SUR    | EVA    | ATK%   |
+    | 1H Sword     | Excalibur [XI] | ATK    | ACC    | EVA    | ATK%   |
+    | Katana       | Amanomurakumo  | ATK    | MAG    | EVA    | ATK%   |
+    | 2H Sword     | Ragnarok       | ATK    | SUR    | EVA    | ATK%   |
+    | 2H Staff     | Claustrum      | MAG    | DIV    | MAG%   | DIV%   |
+    | Bow          | Yoichinoyumi   | ATK    | ACC    | ASPD   | ATK%   |
+    | Heavy Shield | Aegis          | MDEF   | MDEF%  | EVA    | DEF    |
+
 === "Weapon Attack Skills"
 
-    | Type     | Weapon         | Skill            | Description                                                                                                                                              | Turns | Effect                            |
-    |----------|----------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|-----------------------------------|
-    | Dagger   | Mandau         | Mercy Stroke     | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
-    | 1H Sword | Excalibur [XI] | Knights of Round | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor HP to self for 3 turns.                                                 | 3     | HP regen                          |
-    | Katana   | Amanomurakumo  | Tachi: Kaiten    | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor SP to self for 3 turns.                                                 | 3     | +3 SP per turn                    |
-    | 2H Sword | Ragnarok       | Scourge          | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
-    | 2H Staff | Claustrum      | Gate of Tartarus | Major untyped spell attack on 1 enemy. Chance to reduce the Attack Power of 1 enemy for 3 turns, and continuously restores minor MP to self for 3 turns. | 3     | -15% Attack Power; +3 MP per turn |
-    | Bow      | Yoichinoyumi   | Namas Arrow      | Major physical attack with high Accuracy on 1 enemy. Increases own Accuracy for 3 turns.                                                                 | 3     | +13 ACC                           |
+    | Type     | Weapon         | Skill            | Cost  | Description                                                                                                                                              | Turns | Effect                            |
+    |----------|----------------|------------------|:-----:|----------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|-----------------------------------|
+    | Dagger   | Mandau         | Mercy Stroke     | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
+    | 1H Sword | Excalibur [XI] | Knights of Round | 31 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor HP to self for 3 turns.                                                 | 3     | HP regen                          |
+    | Katana   | Amanomurakumo  | Tachi: Kaiten    | 34 SP | Major physical attack with high Accuracy on 1 enemy. Continuously restores minor SP to self for 3 turns.                                                 | 3     | +3 SP per turn                    |
+    | 2H Sword | Ragnarok       | Scourge          | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Surety for 3 turns.                                                                   | 3     | +13 SUR                           |
+    | 2H Staff | Claustrum      | Gate of Tartarus | 35 MP | Major untyped spell attack on 1 enemy. Chance to reduce the Attack Power of 1 enemy for 3 turns, and continuously restores minor MP to self for 3 turns. | 3     | -15% Attack Power; +3 MP per turn |
+    | Bow      | Yoichinoyumi   | Namas Arrow      | 31 SP | Major physical attack with high Accuracy on 1 enemy. Increases own Accuracy for 3 turns.                                                                 | 3     | +13 ACC                           |
 
-=== "Weapon Passives"
+=== "Weapon Passive Skills"
 
     | Type         | Weapon         | Passive                | Effect                                                                                            | Values                     |
     |--------------|----------------|------------------------|---------------------------------------------------------------------------------------------------|----------------------------|
@@ -298,6 +336,7 @@ Some quick facts:
     | 2H Staff     | Claustrum      | Power of Claustrum     | Chance to dispel 1 buff off an enemy on a direct hit.                                             |                            |
     | Bow          | Yoichinoyumi   | Power of Yoichinoyumi  | Increases damage and Accuracy against flying enemies.                                             | +20% DMG, +20 ACC          |
     | Heavy Shield | Aegis          | Power of Aegis         | Continuously increases Magic Defense.                  
+
 
 ## Farming
 
