@@ -102,21 +102,21 @@ This is unavailable for now and will be unlocked later during the event.
 
 !!! note "FFXI Bondmate Details"  
     
-    !!!! note "Lion, Pirate's Daughter"  
+    !!! note "Lion, Pirate's Daughter"  
         
         ![](./img/lion-bondmate.jpg)  
         
         - Lion's Determination: Provides about 17% Stun Tolerance at +5  
         - The Bond Between Lion and Zeid: Provides 4 extra Surety if put on Zeid at +5  
         
-    !!!! note "Ulmia the Songstress"  
+    !!! note "Ulmia the Songstress"  
         
         ![](./img/ulmia-bondmate.jpg)  
         
         - Ulmia's Song of Prayer: Provides 8 Resistance at +5  
         - The Bond Between Ulmia and Prishe: Provides 8 extra ATK if put on Prishe at +5  
         
-    !!!! note "Tenzen, Samurai of the Far East"  
+    !!! note "Tenzen, Samurai of the Far East"  
         
         ![](./img/tenzen-bondmate.jpg)  
         
