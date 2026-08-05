@@ -149,7 +149,7 @@ Some quick facts:
     - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
     - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
 
-??? tip "Relic Equipment Reforge Material Table"
+??? tip "Relic Material Count Table"
 
     ![](./img/collab_relic_equipment_fodder.png)
 
