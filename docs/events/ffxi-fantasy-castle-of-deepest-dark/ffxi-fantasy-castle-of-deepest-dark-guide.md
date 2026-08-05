@@ -61,7 +61,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
 
-Rewards:  Completing the request will reward you with [Lion, Ulmia, and Tenzen bondmates](#Bondmates).
+Rewards:  Completing the request will reward you with a bondmate for each of [Lion, Ulmia, and Tenzen](#Bondmates) that you saved each with a Crystal.
 
 ### 3rd Run
 
@@ -95,7 +95,7 @@ This is unavailable for now and will be unlocked later during the event.
 
 ## Bondmates
 
-- Lion, Tenzen, and Ulima will become bondmates after achieving the Good Ending.  
+- Lion, Tenzen, and Ulima will become bondmates after saving them with Crystals of Hope and completing the Good Ending.  
 - Bonds can be leveled by simply using the Cursed Wheel to leap back to right before the final fight, winning the battle, and turning in the Request.  
 - Bonds can achieve level 5 with 11 completions.  
 - These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).
