@@ -102,21 +102,21 @@ This is unavailable for now and will be unlocked later during the event.
 
 !!! note "FFXI Bondmate Details"  
     
-    !!! note "Lion, Pirate's Daughter"  
+    ??? note "Lion, Pirate's Daughter"  
         
         ![](./img/lion-bondmate.jpg)  
         
         - Lion's Determination: Provides about 17% Stun Tolerance at +5  
         - The Bond Between Lion and Zeid: Provides 4 extra Surety if put on Zeid at +5  
         
-    !!! note "Ulmia the Songstress"  
+    ??? note "Ulmia the Songstress"  
         
         ![](./img/ulmia-bondmate.jpg)  
         
         - Ulmia's Song of Prayer: Provides 8 Resistance at +5  
         - The Bond Between Ulmia and Prishe: Provides 8 extra ATK if put on Prishe at +5  
         
-    !!! note "Tenzen, Samurai of the Far East"  
+    ??? note "Tenzen, Samurai of the Far East"  
         
         ![](./img/tenzen-bondmate.jpg)  
         
@@ -137,16 +137,16 @@ There appears to be no level or story progress restriction to obtaining any of t
 Some quick facts:  
 
 - Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings.  
-- Their blessings types are all locked, so FASing them will keep the blessing types the same and just reroll the values, similar to Master Rings from class trials.  
+- Blessing types are all locked, so L/FASing them will keep blessing types the same and just reroll the values, similar to Master Rings from class trials.  
 - Enhancement:  
     - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-    - Enhancement costs for all levels follow the Silver tables.  
-    - Enhancement blessing increases also follow Silver level table ranges.  
-    - Enhancement levels are preserved when Reforging to a higher item level.  
+    - Enhancement costs for all levels follow the Silver (Special) item tables. (~1M for 1H, Staff, and shield, 2.4M gp for 2H weapons).
+    - Enhancement blessing increases also follow Silver level table ranges for 1H and 2H items.  
+    - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
-    - (unverified) "Remake"-ing a Level 4 item seems to return an enhanced item to +0 so you can enhance snd reroll milestone blessings again. It is unconfirmed how this interacts with FAS bonus milestone blessing.  
+    - (unverified) "Remake"-ing a Level 4 item returns an enhanced item to +0 so you can enhance and reroll milestone blessings again. Base blessings and any FAS extra blessings are unchanged by Remaking. You will have to pay gp and ore for enhancing to +20 again. 
 - Silver Tier Skills:  
-    - At reforging to Level 4, items gain traits granting an active and a passive skill to the bearer.  
+    - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
     - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
 
 ??? tip "Relic Equipment Reforge Material Table"
