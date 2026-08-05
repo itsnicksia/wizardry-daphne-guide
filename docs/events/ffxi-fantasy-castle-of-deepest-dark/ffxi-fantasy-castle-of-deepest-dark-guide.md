@@ -375,8 +375,21 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 
 ### Relic Materials
+- Info pending
+  
 ### Chest / Junk Drops
+
+- Chests will drop some combination of sellable items (translucent gems, azure ore, etc.), relic materials, and unique consumables, equipment junk, and event currency (Gil).
+- Unique consumables include:
+    - Potion and Hi-Potion: 55hp and 300hp heal, respectively (can also be thrown as weapons at Undead).
+    - Elixir and Megalixir: restores all HP/SP/MP to 1 ally or whole party, respectively.
+    - Gold Needle: Cures one ally of Stone.
+    - Fool's Drink: Renders 1 ally immune to magical damage for 3 turns.
+    - Scroll of Instant Stonega: deals minor earth damage to 1 enemy row.
+    - Scroll of Instant Blizzaga: deals minor untyped damage to 1 enemy row with a chance to inflict Chill.
+- The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade/Level and main story progress. More details pending.
+  
 ### Bondmates  
 
--After having saved each bondmate with a Crystal of Hope once, you can farm just by Cursed Wheel leaping to just before the final battle, defeating the Shadow Lord, and turning in the completed request.  
+- After having saved each bondmate with a Crystal of Hope once, you can farm just by Cursed Wheel leaping to just before the final battle, defeating the Shadow Lord, and turning in the completed request.  
 
