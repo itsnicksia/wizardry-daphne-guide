@@ -339,7 +339,7 @@ There are three slots here that allow you to post requests for certain items, wi
 
 One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request.This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
 
-![](./img/bots.png)
+![](./img/bots.jpg)
 
 ## Farming
 (Work in Progress)
