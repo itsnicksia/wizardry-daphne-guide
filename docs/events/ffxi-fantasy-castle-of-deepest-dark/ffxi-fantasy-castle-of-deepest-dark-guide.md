@@ -101,22 +101,25 @@ This is unavailable for now and will be unlocked later during the event.
 - These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).
 
 !!! note "FFXI Bondmate Details"  
-
+    
     !!!! note "Lion, Pirate's Daughter"  
+        
         ![](./img/lion-bondmate.jpg)  
         
         - Lion's Determination: Provides about 17% Stun Tolerance at +5  
         - The Bond Between Lion and Zeid: Provides 4 extra Surety if put on Zeid at +5  
-
+        
     !!!! note "Ulmia the Songstress"  
+        
         ![](./img/ulmia-bondmate.jpg)  
-
+        
         - Ulmia's Song of Prayer: Provides 8 Resistance at +5  
         - The Bond Between Ulmia and Prishe: Provides 8 extra ATK if put on Prishe at +5  
-
+        
     !!!! note "Tenzen, Samurai of the Far East"  
+        
         ![](./img/tenzen-bondmate.jpg)  
-
+        
         - Tenzen's Ultimate Aim: Provides about 17% Paralysis Tolerance at +5  
         - The Bond Between Tenzen and Iroha: Provides 4 extra ATK and DIV if put on Iroha at +5  
 
