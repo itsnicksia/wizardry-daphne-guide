@@ -123,30 +123,7 @@ This is unavailable for now and will be unlocked later during the event.
         - Tenzen's Ultimate Aim: Provides about 17% Paralysis Tolerance at +5  
         - The Bond Between Tenzen and Iroha: Provides 4 extra ATK and DIV if put on Iroha at +5  
 
-
-## Trading
-
-Trading unlocks after the 1st Run of the event is completed. Arriving in the town will show a cutscene. Head into the tavern and talk to the merchant to begin trading.
-
-![](./img/trader.png)
-
-Trading is the main source of obtaining the event currency, Gil, and a reliable way to obtain materials you need for reforging relic equipment. There are two options, Delivery Support and Procurement Request.
-
-### Delivery Support
-
-This allows you to help fulfill other people's requests for certain items. There will typically be a reward of some sorts for providing a specific item, with Gil always being given to the player providing support. Usually, more Gil is given the higher the tier of the materials. Buying the trading pass from the Jeweler's shop will boost Gil gain from these transactions by 50%.
-
-Players in the list will typically prioritize those on your friends list before strangers, so it can be easy to help friends or coordinate trading materials for Gil. However, there is a 24 HR limit to the refreshing of the list, which can be bypassed by spending 300 green gems.
-
-### Procurement Request
-
-There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for relic equipment material in gold. However, Attestations can only be traded for Attestations of other weapon types, and Fragments can only be traded for Fragments/Attestations of other weapon types. 
-
-One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request.This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
-
-![](./img/bots.png)
-
-## Relic Equipment  
+## Relic Equipment and Materials 
 
 !!! note "Availability"
     Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken. Lulu hints to you at Zone 3 you should return to see if anything has changed. Players have reported continuing to progress through the story without returning and the unlock conditions not occurring. It is recommended you return to town at each Harken in between each new floor to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed to far.
@@ -340,6 +317,27 @@ Some quick facts:
     | Bow          | Yoichinoyumi   | Power of Yoichinoyumi  | Increases damage and Accuracy against flying enemies.                                             | +20% DMG, +20 ACC          |
     | Heavy Shield | Aegis          | Power of Aegis         | Continuously increases Magic Defense.                  
 
+### Material Trading
+
+Trading for relic materials unlocks after the 1st Run of the event is completed. Arriving in the town will show a cutscene. Head into the tavern and talk to the merchant to begin trading.
+
+![](./img/trader.png)
+
+Trading is the main source of obtaining the event currency, Gil, and a reliable way to obtain materials you need for reforging relic equipment. There are two options, Delivery Support and Procurement Request.
+
+#### Delivery Support
+
+This allows you to help fulfill other people's requests for certain items. There will typically be a reward of some sorts for providing a specific item, with Gil always being given to the player providing support. Usually, more Gil is given the higher the tier of the materials. Buying the trading pass from the Jeweler's shop will boost Gil gain from these transactions by 50%.
+
+Players in the list will typically prioritize those on your friends list before strangers, so it can be easy to help friends or coordinate trading materials for Gil. However, there is a 24 HR limit to the refreshing of the list, which can be bypassed by spending 300 green gems.
+
+#### Procurement Request
+
+There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for relic equipment material in gold. However, Attestations can only be traded for Attestations of other weapon types, and Fragments can only be traded for Fragments/Attestations of other weapon types. 
+
+One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request.This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
+
+![](./img/bots.png)
 
 ## Farming
 
