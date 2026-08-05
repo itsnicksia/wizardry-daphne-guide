@@ -50,7 +50,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 ??? danger "Shadow Lord"
 
-    ![](./img/shadowlord.png)
+    ![](./img/shadowlord.jpg)
 
     - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
     - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
@@ -323,7 +323,7 @@ Some quick facts:
 
 Trading for relic materials unlocks after reaching the 5th or 6th Harken (confirmation needed). Arriving back in the town will show a cutscene. Head into the tavern and talk to the merchant for a short tutorial and to begin trading.  
 
-![](./img/trader.png)
+![](./img/trader.jpg)
 
 Trading is the main source of obtaining the event currency, Gil, and a reliable way to obtain materials you need for reforging relic equipment. There are two options, Delivery Support and Procurement Request.
 
