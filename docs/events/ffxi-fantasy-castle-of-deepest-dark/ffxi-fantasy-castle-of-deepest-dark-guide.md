@@ -378,5 +378,5 @@ One notable thing is that while real players can fulfill your requests, there ar
 ### Chest / Junk Drops
 ### Bondmates  
 
-- Bondmate farming for this event simply requires having saved each bondmate with a Crystal of Hope, then repeat leaping with the Cursed Wheel to right before the final battle, defeating the Shadow Lord, and turning in the completed request. No special story choices or bondmate actions are required to repeat obtaining the bonds.  
+-After having saved each bondmate with a Crystal of Hope once, you can farm just by Cursed Wheel leaping to just before the final battle, defeating the Shadow Lord, and turning in the completed request.  
 
