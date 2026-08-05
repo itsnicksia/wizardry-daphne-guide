@@ -346,14 +346,33 @@ One notable thing is that while real players can fulfill your requests, there ar
   
 ### Mining for Ore  
 
-- After unlocking Relics and the special blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items.  There will also be Golden Pickaxes in the Jeweler Exchange.  
-- In the Castle, if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. See locations on the Maps below. You will almost always get one or two types of items from the list below.  
+- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items.  There will also be Golden Pickaxes in the Jeweler Exchange.  
+- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. See locations on the Maps below. You will almost always get one or two types of items from the list below.  
 - Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes will last longer, but they do cost valuable event currency (Gil). At least at the start while you're still accumulating currency, it's probably best to stick to just loading up on as many regular ones as you can carry.  
 
     - enhancement ore: low, mid, high, fine, and silver grade  
     - sellables: mainly translucent gems  
     - Ouroboros Ore (see Relic Material list above)  
-    - Alteration and refinement stones (includig LFAS / FAS)  
+    - Alteration and refinement stones (includig LFAS / FAS)
+ 
+??? map "Mining Maps"
+    Mining locations marked with checkmarks below.
+   
+    === "Floor 1"  
+        ![](./img/z1-mining.jpg)  
+        
+    === "Floor 2"  
+        ![](./img/z2-mining.jpg)  
+
+    === "Floor 3"  
+        ![](./img/z3-mining.jpg)  
+
+    === "Floor 4"  
+        ![](./img/z4-mining.jpg)  
+
+    === "Floor 5"  
+        ![](./img/z5-mining.jpg)  
+
 
 ### Relic Materials
 ### Chest / Junk Drops
