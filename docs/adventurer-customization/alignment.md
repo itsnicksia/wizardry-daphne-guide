@@ -48,7 +48,7 @@ Dishonorable, selfish, or unethical acts will shift your alignment towards **Evi
 - When prompted before combat, select "Attack" (+1 evil)  
 - When prompted before combat, select "Plead" (+1 evil)  
 - Sacrificing an adventurer in a certain request for unlocking the Ninja class (See [Plot of the Sand Shadow](../events/plot-of-the-sand-shadow/plot-of-the-sand-shadow.md)) (+?? evil)  
-- Stealing flowers from the little girl in a certain request. (See [Memories of Charlotte](../abyss-guides/request-from-an-ally/memories-of-charlotte/)) (+?? evil)  
+- Stealing flowers from the little girl in a certain request. (See [Memories of Charlotte](../abyss-guides/request-from-an-ally/memories-of-charlotte.md)) (+?? evil)  
 
 ### Unknown (contributions welcome)  
 Recent changes to the game have suggested that addition Story related choices can impact your Alignment. If you note specific changes resulting from these choices, and can document those with screenshots or recordings, please consider contributing that information to the guide via the [Discord Server Personality Changes channel](https://discord.com/channels/1296602475918524507/1387794859724767333)  
