@@ -52,7 +52,7 @@
 
 ### ^^Gold Cost for Enhancing^^
 
-<div class="nofilter-table nosort-table equipment-table" markdown>
+<div class="nofilter-table nosort-table narrow-table" markdown>
 
 === "Worn - Ebonsteel Rank Equipment"
 
