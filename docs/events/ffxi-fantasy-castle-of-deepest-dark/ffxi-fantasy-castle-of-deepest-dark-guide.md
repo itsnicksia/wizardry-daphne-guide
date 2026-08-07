@@ -93,6 +93,21 @@ This is unavailable for now and will be unlocked later during the event.
 ??? map "Goblin's Abode"
     ![](./img/goblins-abode.jpg)
 
+## Harken's Blessings  
+The Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
+
+| Name                        | Description                                                                                                    |  
+|-----------------------------|----------------------------------------------------------------------------------------------------------------|  
+| Blessing of Earthstrike     | Harken's Blessing has increased your earth-type damage.                                                        |  
+| Blessing of Lightstrike     | Harken's Blessing has increased your light-type damage.                                                        |  
+| Blessing of Waterstrike     | Harken's Blessing has increased your water-type damage.                                                        |  
+| Hammer of Kindred Demons    | Harken's Blessing has increased the damage you do to Kindred demons.                                           |  
+| Kindred Demon Rejection     | Harken's Blessing has reduced the damage you take from Kindred demons.                                         |  
+| Blessing of Earthstrike II  | Harken's Blessing has increased your earth-type damage.                                                        |  
+| Blessing of Lightstrike II  | Harken's Blessing has increased your light-type damage.                                                        |  
+| Blessing of Waterstrike II  | Harken's Blessing has increased your water-type damage.                                                        |  
+| (Blue) Kindred Demon Hunter | Harken's Blessing has increased the damage you do to Kindred demons and reduced the damage you take from them. |  
+
 ## Bondmates
 
 - Lion, Tenzen, and Ulima will become bondmates after saving them with Crystals of Hope and completing the Good Ending.  
