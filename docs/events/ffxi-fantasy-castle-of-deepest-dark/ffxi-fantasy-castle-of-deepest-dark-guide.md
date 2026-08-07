@@ -164,9 +164,17 @@ Some quick facts:
     - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
     - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
 
+### Relic Material Totals
 ??? tip "Relic Material Count Table"
 
     ![](./img/collab_relic_equipment_fodder.png)
+
+Total material required to make all Relic items:
+
+Item | 100 Byne Bill 	| Montiont Silverpiece 	| Lungo-Nango Jadeshell 	| 10,000 Byne Bill 	| Ranperre Goldpiece 	| Rimilala Stripeshell 	| Ouroboros Ore 	| Necropsyche 	| Attestation of Celerity 	| Attestation of Glory 	| Attestation of Righteousness 	| Attestation of Virtue 	| Attestation of Transcendence 	| Attestation of Decisiveness 	| Attestation of Invulnerability 	| Ornate Fragment 	| Holy Fragment 	| Intricate Fragment 	| Celestial Fragment 	| Snarled Fragment 	| Divine Fragment 	| Supernal Fragment |  
+|----| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| --------- |  
+| Total to build each item | 543 	| 392 	| 727 	| 120 	| 180 	| 120 	| 0 	| 315 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	 |  
+| Total with one Remake each | 543 	| 392 	| 727 	| 270 	| 330 	| 270 	| 70 	| 360 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	 |  
 
 ### Relic Equipment Information Tables
 
