@@ -171,10 +171,14 @@ Some quick facts:
 
 Total material required to make all Relic items:
 
+<div class="nofilter-table nosort-table" markdown>
+
 Item | 100 Byne Bill 	| Montiont Silverpiece 	| Lungo-Nango Jadeshell 	| 10,000 Byne Bill 	| Ranperre Goldpiece 	| Rimilala Stripeshell 	| Ouroboros Ore 	| Necropsyche 	| Attestation of Celerity 	| Attestation of Glory 	| Attestation of Righteousness 	| Attestation of Virtue 	| Attestation of Transcendence 	| Attestation of Decisiveness 	| Attestation of Invulnerability 	| Ornate Fragment 	| Holy Fragment 	| Intricate Fragment 	| Celestial Fragment 	| Snarled Fragment 	| Divine Fragment 	| Supernal Fragment |  
 |----| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| --------- |  
 | Total to build each item | 543 	| 392 	| 727 	| 120 	| 180 	| 120 	| 0 	| 315 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	 |  
 | Total with one Remake each | 543 	| 392 	| 727 	| 270 	| 330 	| 270 	| 70 	| 360 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	 |  
+
+</div>
 
 ### Relic Equipment Information Tables
 
