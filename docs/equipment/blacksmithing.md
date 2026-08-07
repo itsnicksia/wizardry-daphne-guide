@@ -131,10 +131,10 @@
     | Flat                                                | 1-2 | 2-5 | 2-8 | 3-10 | 3-12 |
     | Percent (%)                                         | 1   | 1-2 | 2-3 |  3   | 3-4  |
     | ASPD                                                | 1-2 | 1-2 | 1-3 | 1-4  | 1-5  |
-    | ASPD%                                               | 1   | 1-2 | 2-3 |   3  | 3-4  |
+    | ASPD%                                               | 1   | 1-2 | 2-3 |  3   | 3-4  |
     | SUR                                                 | 1   | 1-2 | 1-2 | 1-3  | 1-4  |
 
-=== "Initial + Enhance (or Init + FAS) Totals"
+=== "Initial + (Enhance or FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -154,6 +154,26 @@
     | ASPD%                                               | 3-4 | 4-8  | 8-12 | 12-15 | 15-19 |
     | SUR                                                 | 3-4 | 4-7  | 5-8  | 6-11  | 7-14  |
 
+=== "Initial + (Enhance or FAS) + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-12 | 6-17 | 8-22 | 12-27 | 15-32 |
+    | Percent (%)                                         | 3-10 | 5-14 | 8-18 | 13-22 | 16-26 |
+    | ASPD                                                | 3-10 | 4-12  | 6-15 | 8-18  | 10-21 |
+    | ASPD%                                               | 3-9 | 4-12  | 7-15 | 10-18 | 13-21 |
+    | SUR                                                 | 3-9 | 4-11  | 5-12  | 6-14  | 7-16  |
+
+=== "Initial + Enhance + FAS + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 5-14 | 8-22 | 10-30 | 15-37 | 18-44 |
+    | Percent (%)                                         | 4-11 | 6-16 | 10-21 | 16-25 | 19-30 |
+    | ASPD                                                | 4-12 | 5-14  | 7-18 | 9-22  | 11-26 |
+    | ASPD%                                               | 4-10 | 5-14  | 9-18 | 13-21 | 16-25 |
+    | SUR                                                 | 4-10 | 5-13  | 6-14  | 7-17  | 8-20  |
+    
 </div>
 
 
@@ -250,9 +270,6 @@
     
 </div>
 
-<!-- PREVIOUS Note
-!!! note "Silver gear appears to provide larger blessings than those shown above. Data is being collected and we will add information when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
--->
 
 ## Enhancement Inheritance
 
