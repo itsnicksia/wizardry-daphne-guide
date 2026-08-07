@@ -201,7 +201,7 @@
     | ASPD%                                               | 1   | 1-2 | 2-4 | 3-4   | 3-5  |
     | SUR                                                 | 1   | 1-2 | 1-2 | 1-4   | 1-5  |
 
-=== "Initial + Enhance (or Init + FAS) Totals"
+=== "Initial + (Enhance or FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -220,10 +220,30 @@
     | ASPD                                                | 3-6 | 4-9  | 6-15 | 8-20  | 10-24 |
     | ASPD%                                               | 3-4 | 4-9  | 8-15 | 12-19 | 15-23 |
     | SUR                                                 | 3-4 | 4-8  | 5-9  | 6-14  | 7-17  |
+
+=== "Initial + (Enhance or FAS) + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-13 | 6-19 | 8-25 | 12-31 | 15-37 |
+    | Percent (%)                                         | 3-11 | 5-15 | 8-21 | 13-26 | 16-30 |
+    | ASPD                                                | 3-10 | 4-13  | 6-17 | 8-21  | 10-24 |
+    | ASPD%                                               | 3-9 | 4-13  | 7-17 | 10-21 | 13-24 |
+    | SUR                                                 | 3-9 | 4-12  | 5-13  | 6-16  | 7-18  |
+
+=== "Initial + Enhance + FAS + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 5-15 | 8-25 | 10-35 | 15-43 | 18-51 |
+    | Percent (%)                                         | 4-12 | 6-17 | 10-25 | 16-30 | 19-35 |
+    | ASPD                                                | 4-12 | 5-15  | 7-21 | 9-26  | 11-30 |
+    | ASPD%                                               | 4-10 | 5-15  | 9-21 | 13-25 | 16-29 |
+    | SUR                                                 | 4-10 | 5-14  | 6-15  | 7-20  | 8-23 |
     
 </div>
 
-#### ^^Silver 2H Weapons^^  
+#### ^^Silver 2H Melee Weapons^^  
 
 <div class="nofilter-table nosort-table" markdown>
 
