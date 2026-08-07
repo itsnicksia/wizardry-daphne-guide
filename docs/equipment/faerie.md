@@ -190,7 +190,7 @@
 
 !!! warning "This section is a WIP and will be updated over time." 
 
-<div class="nofilter-table nosort-table equipment-table" markdown>
+<div class="nofilter-table nosort-table not-equipment-table" markdown>
 
 | Set Name       | Abyss | Floor      |              | Other           |                 |              |  
 |----------------|-------|------------|---------- ---|-----------------|-----------------|--------------|

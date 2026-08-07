@@ -129,7 +129,7 @@
 
 === "Bounties List" 
 
-    <div class="equipment-table" markdown>
+    <div class="not-equipment-table" markdown>
 
     | Bounty Name &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;                               | Rank | Guild &emsp;         | Location | Floor  | Markers | Medals | Gold   | Capture? |
     |:------------------------------------------|:----:|:--------------|:---------|:-------|:-------:|:------:|--------|:--------:|
