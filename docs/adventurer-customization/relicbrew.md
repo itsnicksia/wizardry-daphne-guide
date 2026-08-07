@@ -10,7 +10,7 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 
 === "Terminology List"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
     
     | **Term** &emsp;  &emsp;                   | **Definition** &emsp;                                                                                                                              |
     |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
