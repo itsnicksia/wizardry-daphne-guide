@@ -18,7 +18,7 @@
 
 === "Abbreviations" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | Term | Abbreviation | 
     |:-|:-|
