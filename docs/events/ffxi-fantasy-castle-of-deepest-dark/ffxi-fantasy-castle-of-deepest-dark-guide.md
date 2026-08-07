@@ -96,17 +96,17 @@ This is unavailable for now and will be unlocked later during the event.
 ## Harken's Blessings  
 The Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
 
-| Name                        | Description                                                                                                    |  
-|-----------------------------|----------------------------------------------------------------------------------------------------------------|  
-| Blessing of Earthstrike     | Harken's Blessing has increased your earth-type damage.                                                        |  
-| Blessing of Lightstrike     | Harken's Blessing has increased your light-type damage.                                                        |  
-| Blessing of Waterstrike     | Harken's Blessing has increased your water-type damage.                                                        |  
-| Hammer of Kindred Demons    | Harken's Blessing has increased the damage you do to Kindred demons.                                           |  
-| Kindred Demon Rejection     | Harken's Blessing has reduced the damage you take from Kindred demons.                                         |  
-| Blessing of Earthstrike II  | Harken's Blessing has increased your earth-type damage.                                                        |  
-| Blessing of Lightstrike II  | Harken's Blessing has increased your light-type damage.                                                        |  
-| Blessing of Waterstrike II  | Harken's Blessing has increased your water-type damage.                                                        |  
-| (Blue) Kindred Demon Hunter | Harken's Blessing has increased the damage you do to Kindred demons and reduced the damage you take from them. |  
+| Name                        | Description                                                                                                                             |  
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|  
+| <span class="green">Blessing of Earthstrike</span>   | Harken's Blessing has increased your earth-type damage.                                                        |  
+| <span class="green">Blessing of Lightstrike</span>   | Harken's Blessing has increased your light-type damage.                                                        |  
+| <span class="green">Blessing of Waterstrike</span>   | Harken's Blessing has increased your water-type damage.                                                        |  
+| <span class="green">Hammer of Kindred Demons</span>  | Harken's Blessing has increased the damage you do to Kindred demons.                                           |  
+| <span class="green">Kindred Demon Rejection</span>   | Harken's Blessing has reduced the damage you take from Kindred demons.                                         |  
+| <span class="blue">Blessing of Earthstrike II</span> | Harken's Blessing has increased your earth-type damage.                                                        |  
+| <span class="blue">Blessing of Lightstrike II</span> | Harken's Blessing has increased your light-type damage.                                                        |  
+| <span class="blue">Blessing of Waterstrike II</span> | Harken's Blessing has increased your water-type damage.                                                        |  
+| <span class="blue">Kindred Demon Hunter</span>       | Harken's Blessing has increased the damage you do to Kindred demons and reduced the damage you take from them. |  
 
 ## Bondmates
 
