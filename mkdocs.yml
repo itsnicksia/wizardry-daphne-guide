@@ -6,8 +6,7 @@ theme:
     scheme: slate
     primary: black
   font:
-    text: Roboto
-    code: Roboto Mono
+     text: Zen Old Mincho
   logo: img/logo_red.webp
   favicon: https://wizardry.fasterthoughts.io/img/favicon.ico
   features:
