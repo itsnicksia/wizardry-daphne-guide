@@ -267,7 +267,7 @@
     | ASPD%                                               | 1   | 1-2 | 2-4  | 3-4  | 3-5  |
     | SUR                                                 | 1   | 1-2 | 1-2  | 1-4  | 1-5  |
 
-=== "Initial + Enhance (or Init + FAS) Totals"
+=== "Initial + (Enhance or FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -287,6 +287,26 @@
     | ASPD                                                | 3-6 | 4-9  | 6-16 | 8-21  | 10-27 |
     | ASPD%                                               | 3-4 | 4-9  | 8-16 | 12-20 | 15-24 |
     | SUR                                                 | 3-4 | 4-8  | 5-9  | 6-15  | 7-18  |
+
+=== "Initial + (Enhance or FAS) + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-13 | 6-21 | 8-27 | 12-33 | 15-39 |
+    | Percent (%)                                         | 3-11 | 5-16 | 8-22 | 13-27 | 16-32 |
+    | ASPD                                                | 3-10 | 4-13  | 6-18 | 8-22  | 10-26 |
+    | ASPD%                                               | 3-9 | 4-13  | 7-18 | 10-22 | 13-25 |
+    | SUR                                                 | 3-9 | 4-12  | 5-13  | 6-17  | 7-19  |
+
+=== "Initial + Enhance + FAS + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 5-15 | 8-28 | 10-38 | 15-46 | 18-54 |
+    | Percent (%)                                         | 4-12 | 6-18 | 10-26 | 16-31 | 19-37 |
+    | ASPD                                                | 4-12 | 5-15  | 7-22 | 9-27  | 11-33 |
+    | ASPD%                                               | 4-10 | 5-15  | 9-22 | 13-26 | 16-30 |
+    | SUR                                                 | 4-10 | 5-14  | 6-15  | 7-21  | 8-24 |
     
 </div>
 
