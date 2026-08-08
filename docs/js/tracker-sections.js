@@ -392,8 +392,8 @@ window.RESPAWN_SECTIONS = [
           id: 'a3_z10_scroll_sharedhealing',
           title: 'Scroll of Shared Healing',
           details: 'Chest in Zone 10 ("Bottom of Statue Room"). [7 Days]',
-          image: '',
-          clickable: false,
+          image: '/tools/img/other/respawning-shared-healing-a3-z10.jpg',
+          clickable: true,
         },
 
         { subheader: 'Request Rewards' },
