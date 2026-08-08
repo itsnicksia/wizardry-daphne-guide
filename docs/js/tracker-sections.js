@@ -393,7 +393,7 @@ window.RESPAWN_SECTIONS = [
           title: 'Scroll of Shared Healing',
           details: 'Chest in Zone 10 ("Bottom of Statue Room"). [7 Days]',
           image: '',
-          clickable: true,
+          clickable: false,
         },
 
         { subheader: 'Request Rewards' },
