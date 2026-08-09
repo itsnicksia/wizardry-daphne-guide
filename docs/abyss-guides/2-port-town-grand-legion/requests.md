@@ -494,7 +494,7 @@ Goetia -> Admiral Route
 
 - This will cause the request to show up in the Royal Capital Adventurer's Guild.   
 - At the farm, selecting the option to wait will cause you to be ambushed, while the other option will give you iniative.
-- Defeat the Warped One and turn in the request to receive Mimint. You may now give this ingredient to the Head Chef on Lower Deck 2 for Mimint Potage.
+- Either way, defeat the Warped One and turn in the request to receive Mimint. You may now give this ingredient to the Head Chef on Lower Deck 2 for Mimint Potage.
 
 ## Arena Round 3
 
@@ -504,7 +504,7 @@ Goetia -> Admiral Route
     ![](img/image_62.jpg)
 
 - Go to Adventurer’s guild in the Royal City Capital.  
-- Complete Temple Food Assistance Request.  
+- Complete [Temple Food Assistance](#temple-food-assistance) Request.  
 - Speak to Pickerel at Upper Deck \-Arena-.
 
 !!! info "Tip"
@@ -520,13 +520,13 @@ Goetia -> Admiral Route
 ??? info "Tip"
     If you still have an incomplete Relentless Massacre Rabbit quest, you can repeatedly interact with the same body and fight the rabbit until you collect all the mats without needing to look for them.  
 
-- Go to Valeon Grasslands and gather 1 Wild Carrot, they grow near white flowers.  Your map isnt very useful here but it does show your coordinates. The flowers are usually near x:172, y:88.
+- Go to Valeon Grasslands and gather 1 Wild Carrot, they grow near white flowers.  Your map isn't very useful here but it does show your coordinates. The flowers are usually near x:172, y:88.
 
 ??? info "White Flowers"
     ![](img/image_64.jpg)
 
     !!! warning
-        You need to walk around this patch until you get 3 dialog prompts. If get frozen in dialog, toggling the "Auto" switch will unlock you.
+        You need to walk around this patch until you get 3 dialog prompts. If you get frozen in dialog, toggling the "Auto" switch will unlock you.
 
 - Turn in the materials at the Temple in Port Town Grand Legion. You can then complete the request back at the Royal Capital, then head back to Pickerel on the ship.
 
@@ -547,7 +547,7 @@ Goetia -> Admiral Route
         - Wheel to Arena 3 of the Pontiff route
         - Find Pickerel at the marked location
 
-- Complete all three important request routes (Princess, Pontiff, and Admiral). You will also need to have to sabotaged the Vernant fight via Pickerel replacing his potion with onion soup in a different route.
+- Complete all three important request routes (Princess, Pontiff, and Admiral). You will also need to have sabotaged the Vernant fight via Pickerel replacing his potion with onion soup in a different route.
 - Wheel back to Round 3 Pontiff and talk to the goblin so you can see that you're fighting Pickerel.  
 - Go to the spot with the check mark in the "Pickerel's Location" map below, and listen to him talking to the head chef.  
 - Speak with the head chef and he’ll tell you where to pick up the ingredients to make the soup.  
@@ -591,11 +591,11 @@ Goetia -> Admiral Route
     ![](img/image_68.jpg)
 
 - Expose Marin as a warped one and defeat her.
-    - After talking to the Head Cook, NPCs will appear at different locations around the floor. You can talk to each one, ask details about the murder, and "accuse them" by striking them with the holly. Some NPC will hint that the singer Marin is the murderer and/or point you toward the correct room.
+    - After talking to the Head Cook, NPCs will appear at different locations around the floor. You can talk to each one, ask details about the murder, and "accuse them" by striking them with the holly. Some NPCs will hint that the singer Marin is the murderer and/or point you toward the correct room.
     - You only get 2 pieces of holly, and they can only be used once each. If you guess wrong both times you will be surprised and killed by Marin, and have to use a Flame or Accept Death. Using a Flame gives you 1 piece of holly to try again.
-    - Marin can only appear at few of the NPC icon locations on the minimap.  She will only be in a room by herself, sometimes underwater. In those cases you should use the statue to drain the room first.
+    - Marin can only appear at a few of the NPC icon locations on the minimap.  She will only be in a room by herself, sometimes underwater. In those cases you should use the nearby statue to drain the room first.
     - Marin's warped one form os a unique Knight Butcher Ent with typical attacks and about 6-7k HP.
-    - If none of the NPCs are Marin, then the NPCs will point you toward the empty murder room. Lowering the water will cause Marin to appear in Warped One form behind you. It is unclear if this can happen the first time attempting this request or if that grants you the knowledge that Marin is the murdered.
+    - If none of the NPCs are Marin, then the NPCs will point you toward the empty murder room. Lowering the water will cause Marin to appear in Warped One form behind you. It is unclear either if this can happen the first time attempting this request or if that grants you the knowledge that Marin is the murderer.
 
 ### Gathering Sahuagin Scales
 
@@ -606,9 +606,11 @@ Goetia -> Admiral Route
 ??? info "Request"
     ![](img/image_71.jpg)
 
-- Defeat any Sahuagin in Port Town Grand Legion Abyss to collect scales.
-
-## Return to the Capital
+- Collect Sahuagin Scales in Port Town Grand Legion Abyss through any means available to you.
+    - Defeat Sahuagin for scales as parts of loot drops
+    - Find them in random chests
+    - Get them as token gifts from the Faction Wandering NPC
+    -Return to the Capital
 
 ### Arena Tourney Hosted by Avare\!
 
