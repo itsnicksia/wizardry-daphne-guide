@@ -609,7 +609,7 @@ Goetia -> Admiral Route
 - Collect Sahuagin Scales in Port Town Grand Legion Abyss through any means available to you.
     - Defeat Sahuagin for scales as parts of loot drops
     - Find them in random chests
-    - Get them as token gifts from the Faction Wandering NPC  
+    - Get them as token gifts from the [Faction Wandering NPC](./wandering-npcs.md/#faction-npc)  
     -Return to the Capital, turn in the request, then talk to Rickert.
 
 ### Arena Tourney Hosted by Avare\!
