@@ -1,3 +1,5 @@
+!!! note "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met."
+
 # Impregnable Fortress
 
 ## Request to Rescue the Duke
@@ -5,30 +7,30 @@
 ### Kidnapped Girl Liam
 
 ??? info "Kidnapped Girl Liam"
-    ![](img/kidnapped-girl-liam.png)
+    ![](img/kidnapped-girl-liam.jpg)
 
 ??? info "Skill"
-    ![](img/kidnapped-girl-liam-skill.png)
+    ![](img/kidnapped-girl-liam-skill.jpg)
 
 - Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-the-missing-girl) request perfectly.
 
 !!! note "Kidnapped Girl Liam is permanently lvl 1."
 
 ??? info "Sam the Rascally Dog"
-    ![](img/sam-the-rascally-dog-1.png)
+    ![](img/sam-the-rascally-dog-1.jpg)
     
 ??? info "Skill"
-    ![](img/sam-the-rascally-dog-skill.png)
+    ![](img/sam-the-rascally-dog-skill.jpg)
 
 - Complete the [Search for the Missing Girl](../../../abyss-guides/3-guarda-fortress/requests.md#obtaining-sam-the-rascally-dog) request incorrectly.
 
 ### Guardian Knight Dalian
 
 ??? info "Guardian Knight Dalian"
-    ![](img/guardian-knight-dalian.png)
+    ![](img/guardian-knight-dalian.jpg)
 
 ??? info "Skill"
-    ![](img/guardian-knight-dalian-skill.png)
+    ![](img/guardian-knight-dalian-skill.jpg)
 
 - Complete the [Blackmail Resolution](../../../abyss-guides/3-guarda-fortress/requests.md#blackmail-resolution) request.
 
@@ -45,10 +47,10 @@
 ### Enthusiastic Carpenter Hans
 
 ??? info "Enthusiastic Carpenter Hans"
-    ![](img/enthusiastic-carpenter-hans.png)
+    ![](img/enthusiastic-carpenter-hans.jpg)
 
 ??? info "Skill"
-    ![](img/enthusiastic-carpenter-hans-skill.png)
+    ![](img/enthusiastic-carpenter-hans-skill.jpg)
 
 - Complete the [Bodyguard for Ruins Exploration](../../../abyss-guides/3-guarda-fortress/requests.md#bodyguard-for-ruins-exploration) request.
 
@@ -61,10 +63,10 @@
 ### Endy the Mage
 
 ??? info "Endy the Mage"
-    ![](img/endy-the-mage.png)
+    ![](img/endy-the-mage.jpg)
 
 ??? info "Skill"
-    ![](img/endy-the-mage-skill.png)
+    ![](img/endy-the-mage-skill.jpg)
 
 - Complete the [Forbidden Area Search Escort](../../../abyss-guides/3-guarda-fortress/requests.md#forbidden-area-search-escort) request.
 
@@ -77,14 +79,14 @@
 ### Singing Skeleton in the Tunnel
 
 ??? info "Singing Skeleton in the Tunnel"
-    ![](img/singing-skeleton-in-the-tunnel.png)
+    ![](img/singing-skeleton-in-the-tunnel.jpg)
 
 ??? info "Skill"
-    ![](img/singing-skeleton-in-the-tunnel-skill.png)
+    ![](img/singing-skeleton-in-the-tunnel-skill.jpg)
 
 - Complete the [Search for Missing Person](../../../abyss-guides/3-guarda-fortress/requests.md#search-for-missing-person) request.
 
-!!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
+!!! note "To farm Cursed Wheel to Fortress Lower Floors Cleared and complete the request again"
 
 ## Ghosts of Yore Vanquished
 
@@ -93,14 +95,14 @@
 ### Brita the Lazy Handmaiden
 
 ??? info "Brita the Lazy Handmaiden"
-    ![](img/brita-the-lazy-handmaiden1.png)
+    ![](img/brita-the-lazy-handmaiden1.jpg)
 
 ??? info "Skill"
-    ![](img/brita-the-lazy-handmaiden-skill.png)
+    ![](img/brita-the-lazy-handmaiden-skill.jpg)
 
 - Complete the [Water Hauling](../../../abyss-guides/3-guarda-fortress/requests.md#water-hauling) request.
 
-!!! note "To farm, Cursed Wheel to Request to Rescue the Duke, then Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
+!!! note "To farm Cursed Wheel to Fortress 2F Minor Harken and complete the request again"
 
 ## Fortress 3rd Floor Arrival
 
@@ -109,10 +111,10 @@
 ### Prophetic Scarlet Bisque Doll
 
 ??? info "Prophetic Scarlet Bisque Doll"
-    ![](img/prophetic-scarlet-bisque-doll.png)
+    ![](img/prophetic-scarlet-bisque-doll.jpg)
 
 ??? info "Skill"
-    ![](img/prophetic-scarlet-bisque-doll-skill.png)
+    ![](img/prophetic-scarlet-bisque-doll-skill.jpg)
 
 - Complete the [Doll of Fortune](../../../abyss-guides/3-guarda-fortress/requests.md#doll-of-fortune) request.
 
@@ -121,10 +123,10 @@
 ### Duke Ixion
 
 ??? info "Duke Ixion"
-    ![](img/duke-ixion1.png)
+    ![](img/duke-ixion1.jpg)
 
 ??? info "Skill"
-    ![](img/duke-ixion-skill.png)
+    ![](img/duke-ixion-skill.jpg)
 
 - Complete the [Expedition to Clear the Fortress Lower Levels](../../../abyss-guides/3-guarda-fortress/requests.md#expedition-to-clear-the-fortress-lower-levels) request.
 
@@ -133,20 +135,20 @@
 ### Eugen and Bibi
 
 ??? info "Eugen and Bibi"
-    ![](img/eugen-and-bibi.png)
+    ![](img/eugen-and-bibi.jpg)
 
 ??? info "Skill"
-    ![](img/eugen-and-bibi-skill.png)
+    ![](img/eugen-and-bibi-skill.jpg)
 
 - Complete the [Missing Companion](../../../abyss-guides/3-guarda-fortress/requests.md#missing-companion) request.
 
 ### Graham, Knight Commander of Guarda
 
 ??? info "Graham, Knight Commander of Guarda"
-    ![](img/graham-knight-commander-of-guarda.png)
+    ![](img/graham-knight-commander-of-guarda.jpg)
 
 ??? info "Skill"
-    ![](img/graham-knight-commander-of-guarda-skill.png)
+    ![](img/graham-knight-commander-of-guarda-skill.jpg)
 
 - Complete the [Emergency Occurrence](../../../abyss-guides/3-guarda-fortress/requests.md#emergency-occurrence) request.
 
@@ -155,10 +157,10 @@
 ### Concerned Brother Elequon
 
 ??? info "Concerned Brother Elequon"
-    ![](img/concerned-brother-elequon.png)
+    ![](img/concerned-brother-elequon.jpg)
 
 ??? info "Skill"
-    ![](img/concerned-brother-elequon-skill.png)
+    ![](img/concerned-brother-elequon-skill.jpg)
 
 1. Obtain Mini Golem Doll from the golem skeleton besides the Harken in Zone 4.
 2. Trade the Mini Golem Doll to Dr. Raimi at Guarda Fortress Entrance for a Mysterious Root.
@@ -175,10 +177,10 @@
 ### Old Mage's Lingering Fixation
 
 ??? info "Old Mage's Lingering Fixation"
-    ![](img/old-mages-lingering-fixation.png)
+    ![](img/old-mages-lingering-fixation.jpg)
 
 ??? info "Skill"
-    ![](img/old-mages-lingering-fixation-skill.png)
+    ![](img/old-mages-lingering-fixation-skill.jpg)
 
 - He will randomly spawn throughout Abyss 3 from Zone 1 - 6 (with the exception of 4)
 - Help him with his spell (battle him) 3 times and he will eventually become a bondmate.
@@ -188,20 +190,20 @@
 ### Cheating Gambler Faile
 
 ??? info "Cheating Gambler Faile"
-    ![](img/cheating-gambler-faile.png)
+    ![](img/cheating-gambler-faile.jpg)
 
 ??? info "Skill"
-    ![](img/cheating-gambler-faile-skill.png)
+    ![](img/cheating-gambler-faile-skill.jpg)
 
 If you have already stopped the Mastermind of Abyss 3, then follow these steps to reset:
 
 1. Successfully rescue the Duke in Abyss 3 at least once.
-2. Cursed Wheel back and defeat the Greater Warped One at 7-8 corruption level. Do not hand evidence to Dalian or Clemente. Talk to Alan after saving Liam.
+2. Cursed Wheel back and defeat the Greater Warped One at 7-8 Corrosion level. Do not hand evidence to Dalian or Clemente. Talk to Alan after saving Liam.
 3. Get the execution ending. Upon reviving, chase Dalian's maid to the Temple. Answer all questions correctly and accept the blackmail request.
 4. Cursed Wheel back to Fresh Start (this resets the beginning abyss area). Cursed Wheel to Return to Capital. Accept any faction quest to unlock Guarda Fortress. Head to Guarda Fortress entrance (this resets the entrance zone). Cursed Wheel to Fortress Basement Arrival.
 5. Head to Beginning Abyss Entrance. Make your way to the Gamblers near the cave entrance. Talk to them and lose. When prompted, select the option "They are blowing on the dice", then accuse them of cheating. This will begin a fight against them. After winning, select the option that says cheating is not good.
 6. Cursed Wheel to Triumphant Return. Head to Guarda Entrance. There are two gamblers. Talk to them and accept the gambling minigame
-7. This time, you have to WIN the gambling minigame. It is highly recommended to simply bet it all on odd/even until you win. If you get to 200 coins, just bet 100 at a time to minimize losses.
+7. This time, you have to WIN the gambling minigame. It is highly recommended to simply bet it all on singles. If you fail the minigame entirely, you can restart the app and get to redo the gambling minigame.
 8. If you lose completely (you get a few retries if you drop to 0), simply pay the gold (other option engages in a fight and messes up the reset). Cursed Wheel to Triumphant return to reset.
 9. If you win, you will face Thatcher, who is a Pirate Berserker that either basic attacks or uses stun bash. He will never attack the backrow and only gets one action per turn. This does 1100+ damage on 300 defense adventurers with Makaltu 7. The strategy is rather to defend and abuse openings. He is vulnerable to sleep and is EXTREMELY fast, so you may lose someone if you they don't have over ~95 action speed. He has around 15k HP or so. He can still easily hit ~550 against a blocking unit, so be careful. He can also self buff with an ATK Up buff, which will allow him to do enough damage to kill units that are defending, so bring a ninja with dissipation if possible. He also has very little to no surety evasion.
 10. Upon winning, protect the gambler from being attacked by Thatcher. He will become reformed and you will gain his bondmate.

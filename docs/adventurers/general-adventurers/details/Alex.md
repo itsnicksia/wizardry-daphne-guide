@@ -1,31 +1,66 @@
-# Alex
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Human  
-**Gender**: Male  
-**Type**: Fire  
-**Personality**: Good  
-**Starting Class**: Knight  
-**Class Change**: Fighter  
-**Role**: Support, Damage
+   title: Alex
 
-??? info "Portraits"
-    === "Knight"
-        ![](../img/alex-knight.png)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-    === "Fighter"
-        ![](../img/alex-fighter.jpg)
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-## Skills
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock %} 
 
-!!! info "Inheritable Skill"
-    === "Stun Bash"
-        Moderate physical attack on 1 enemy. Chance to stun based on Defense Power. Efficacy and probability increased based on skill level.
-        <Close/mid-range weapon-specific/>
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Fire Formation"
-        Increases damage to air type enemies for user and adjacent fire type allies if there are at least 2 fire type allies adjacent to the user.
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
 
-!!! info "Discipline Skill"
-    === "Royal Knight Aspirant"
-        Continuously increases each stat, SP and Accuracy increased further.
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
+
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
+
+<!--
+## Adventurer Reviews
+
+??? info "ABC's Analysis"
+    -text-
+
+??? info "DEF's Analysis"
+    -text-
+-->
+
+<!--
+## Adventurer Pull Plans
+
+??? note "ABC's Pull Plan"
+    -text-
+-->
+
+{%endblock ReviewsAndAnalysis %}

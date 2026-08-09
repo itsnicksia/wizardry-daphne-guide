@@ -1,28 +1,31 @@
 # Grade Exams
 
-Grade exams are necessary for an adventurer to increase their level limits by 10 for each subsequent grade exam completed. This feature is unlocked at level 20, and a new one is available every 10 levels up to level 60 currently. Upon passing the exam without dying, an adventurer may increase their level limit with the corresponding grade tag item. Grade tag items may [be obtained in various ways](../../frequently-asked-questions.md#how-do-i-get-grade-tags). 
+Grade Exams are part of the process to continue leveling a character. They occur every 10 levels starting at level 20 and ending after level 60. After completing a Grade Exam an adventurer will be expected to pay a corresponding Grade Tag to complete the leveling process. (Note: the main character [MC] will be expected to pay the Grade Tag prior to Copper Grade Exam and possibly the other Exams now too.) Grade tag items may be [obtained](../../frequently-asked-questions.md#how-do-i-get-grade-tags) in various ways.
 
-In addition, adventurers may not grade up past the highest grade the MC is currently at. However, unlike the MC, they do not need to complete every grade exam in order and may simply complete the latest grade exam available (e.g., If the MC is level 60 already, and a fresh level 1 adventurer on the team completes the level 60 exam with the help of other team members, that level 1 adventurer will receive permission to grade up at every level 10 interval starting at lvl 20 without having to complete the previous exams.) If exams are skipped this way, the adventurer will still need the corresponding grade tags every 10 levels along with the corresponding level requirement to grade up.
+!!! note "Grade Exams may have additional requirements besides reaching the necessary level. Requirements like completing more guild requests (to 'increase your reputation') may be needed. Arna may mention these. In these situations, adventurers should try to complete as many different requests as possible."
 
-It is possible to skip the exam by purchasing grade exam pass items from the Jeweler's Shop (After completing the equivalent grade exam once), but this method is overpriced and inefficient.
+Adventures can only attempt a Grade Exam as high as the MC has attained. However, unlike the MC, they do not need to complete every grade exam in order and may simply complete the latest grade exam available (e.g., if the MC is level 60 already, and a fresh level 1 adventurer on the team completes the level 60 exam with the help of other team members, that level 1 adventurer will receive permission to grade up at every level 10 interval starting at lvl 20 without having to complete the previous exams.) If exams are skipped this way, the adventurer will still need the corresponding grade tags every 10 levels along with the corresponding level requirement to grade up.
+
+The Grade Exam can also be passed by purchasing the corresponding Grade Marker from the Jeweler.  The marker will be made available after the Grade Exam has been successfully completed once. This allows the player to skip repeat runs of the Grade Exam for allies that did not accompany the MC the first time.  Visit the Jeweler for the current pricing.  Note, however, that because subsequent Grade Exam completions are generally much easier to complete with higher level MC and allies, purchasing Markers is considered an inefficient use of resources and is not recommended.
 
 ## Lead Exam
 
-![](img/lead-grade-exam.png)
+![](img/lead-grade-exam.jpg)
 
 *Images courtesy of [https://www.youtube.com/@Grafarya89](https://www.youtube.com/@Grafarya89)*
 
 **Special Notes:**
 
-- Boss summons adds every few rounds. Save AoE clears for them. If have legendary units with Secret Arts, place them in back middle position to use them here.  
+- Boss summons additional enemies every few rounds. Save AoE clears for them. If you have legendary units with Secret Arts, place them in back middle position to use them here.  
 - Boss is undead. Bring undead slayer weapons if possible, or a lot of magic scrolls.  
 - Boss sometimes skips turn.  
 - Boss only has 2 moves, both attack 1 unit on the front row. 1 is a multihit, 1 is a normal hit. Not really threatening, just heal up after.
-- Running away from the fight will reset the adds he spawns with. You can use this to your advantage and keep running away until he spawns with only Vorpal Bunnies, as they can be killed very quickly and easily.
+- Defending for "Openings" is a viable strategy.
+- Running away from the fight will reset the additiona enemies he starts the battle with. You can use this to your advantage and keep running away until he spawns with only Vorpal Bunnies, as they can be killed very quickly and easily.
 
 ## Bronze Exam
 
-![](img/bronze-grade-exam.png)
+![](img/bronze-grade-exam.jpg)
 
 *Images courtesy of [https://www.youtube.com/@Grafarya89](https://www.youtube.com/@Grafarya89)*
 
@@ -31,7 +34,8 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 - Boss doesn’t summon any adds  
 - Boss is weak to air  
 - Boss is susceptible to Opening
-- Mobs on the way to boss can mostly be dealt with Scroll of Rockfall, except Air Entities. Those need Fire.  
+- Mobs on the way to boss can mostly be dealt with Scroll of Rockfall, except Air Entities. Those need Fire.
+- Large groups of casters can be handled at low cost with Montino.
 - Boss hits like a truck.  
   - Tail Swipe AoE hits all front row with chance to stun.  
   - Jump attack hits 1 front row, swaps that column’s front and back.  
@@ -40,7 +44,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 ## Iron Exam
 
-![](img/iron-grade-map.png)
+![](img/iron-grade-map.jpg)
 
 **Special Notes**:
 
@@ -49,7 +53,7 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 
 ## Steel Exam
 
-![](img/steel-grade-map.png)
+![](img/steel-grade-map.jpg)
 
 **Special Notes**
 
@@ -62,3 +66,19 @@ It is possible to skip the exam by purchasing grade exam pass items from the Jew
 - The boss encounter consists of a Minotaur and a Succubus together
     - Kill the succubus first, then the Minotaur.
     - Leverage DILTO, MORLIS, MACALDIA, and any other buff/debuff spells at your disposal.
+
+## Copper Exam
+
+![](img/copper-grade-exam.jpg)
+
+**Special Notes**
+
+- Necrocore boss is in north central room
+- Rooms with teleporters have mini bosses
+- Teleporters return you to the entrance
+- You have two options to clear this exam:
+  - Go to boss room and fight the Necrocore + minibosses
+    - This leads to a more difficult Necrocore fight, but there is no need to conserve resources
+  - Go to each teleporter room, clear out minibosses, then go fight Necrocore alone
+    - This leads to a trivial Necrocore fight, but you need to be able to conserve resources
+    - You don't have to clear every miniboss room, but each one you clear lessens what joins the Necrocore fight

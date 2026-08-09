@@ -1,0 +1,126 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Equipment Drop Rates",
+  "description": "Wizardry: Daphne equipment drop rates by garakuta type",
+  "type": "object",
+  "required": ["garakuta"],
+  "properties": {
+    "garakuta": {
+      "type": "array",
+      "description": "List of garakuta (junk item) types that can be converted to equipment",
+      "items": {
+        "type": "object",
+        "required": ["name", "nameJp", "groups"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "English name of the garakuta type"
+          },
+          "nameJp": {
+            "type": "string",
+            "description": "Japanese name of the garakuta type"
+          },
+          "groups": {
+            "type": "array",
+            "description": "Equipment groups within this garakuta type",
+            "items": {
+              "type": "object",
+              "required": ["groupNumber", "dropRate", "equipment"],
+              "properties": {
+                "groupNumber": {
+                  "type": "integer",
+                  "minimum": 1,
+                  "description": "Group number for this equipment pool"
+                },
+                "dropRate": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 100,
+                  "description": "Percentage chance to roll this group"
+                },
+                "equipment": {
+                  "type": "array",
+                  "description": "Equipment items in this group",
+                  "items": {
+                    "type": "object",
+                    "required": ["name", "nameJp", "dropRate", "quality", "grade"],
+                    "properties": {
+                      "name": {
+                        "type": "string",
+                        "description": "English name of the equipment"
+                      },
+                      "nameJp": {
+                        "type": "string",
+                        "description": "Japanese name of the equipment"
+                      },
+                      "dropRate": {
+                        "type": "number",
+                        "minimum": 0,
+                        "maximum": 100,
+                        "description": "Percentage chance to get this item within the group"
+                      },
+                      "quality": {
+                        "type": "object",
+                        "description": "Quality tier drop rates (star ratings)",
+                        "required": ["star1", "star2", "star3", "star4", "star5"],
+                        "properties": {
+                          "star1": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for ★1 quality"
+                          },
+                          "star2": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for ★2 quality"
+                          },
+                          "star3": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for ★3 quality"
+                          },
+                          "star4": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for ★4 quality"
+                          },
+                          "star5": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for ★5 quality"
+                          }
+                        }
+                      },
+                      "grade": {
+                        "type": "object",
+                        "description": "Grade tier drop rates",
+                        "required": ["g1", "g2", "g3", "g4", "g5"],
+                        "properties": {
+                          "g1": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for grade 1"
+                          },
+                          "g2": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for grade 2"
+                          },
+                          "g3": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for grade 3"
+                          },
+                          "g4": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for grade 4"
+                          },
+                          "g5": {
+                            "type": ["number", "null"],
+                            "description": "Percentage chance for grade 5"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

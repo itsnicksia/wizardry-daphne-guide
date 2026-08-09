@@ -1,27 +1,66 @@
-# Jarmil
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Human  
-**Gender**: Male  
-**Type**: Air  
-**Personality**: Evil  
-**Starting Class**: Mage  
-**Class Change**: Thief   
-**Role**: Damage, Support
+   title: Jarmil
 
-??? info "Portraits"
-    === "Mage"
-        ![](../img/jarmil-mage.png)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-## Skills
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-!!! info "Inheritable Skill"
-    === "FERU"
-        Launches an orb of air that deals minor air spell damage to 1 enemy. Efficacy increased based on skill level.
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock %} 
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Air Formation"
-        Boost damage dealt to earth type enemies to self and adjacent air type allies when there are at least 2 air type allies adjacent to the user.
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-!!! info "Discipline Skill"
-    === "Crafty Old Mage"
-        Continuously increases each stat. Magic Defense and Magic Power increased further.
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
+
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
+
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
+
+<!--
+## Adventurer Reviews
+
+??? info "ABC's Analysis"
+    -text-
+
+??? info "DEF's Analysis"
+    -text-
+-->
+
+<!--
+## Adventurer Pull Plans
+
+??? note "ABC's Pull Plan"
+    -text-
+-->
+
+{% endblock ReviewsAndAnalysis %}

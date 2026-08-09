@@ -4,7 +4,7 @@
     - Clear [Expose the Intruder Request](../requests.md#expose-the-intruder)
 
 !!! danger "Morgus, God of Death"
-    ![](./img/morgus.png)
+    ![](./img/morgus.jpg)
 
 ## ^^Boss Characteristics^^
 - He is Dark Element and No Race.
@@ -51,8 +51,8 @@
 ## Reward
     
 ??? note "Rewards for beating Morgus"
-    ![](./img/morgus-salty.png)
-    ![](./img/morgus-reward.png)
-    ![](./img/morgus-achievement.png)
+    ![](./img/morgus-salty.jpg)
+    ![](./img/morgus-reward.jpg)
+    ![](./img/morgus-achievement.jpg)
 
     !!! note "As of now, it seems the ring can possibly spawn up to 4* and purple"

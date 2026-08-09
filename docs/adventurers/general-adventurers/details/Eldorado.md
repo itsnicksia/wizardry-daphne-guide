@@ -1,30 +1,66 @@
-# Eldorado
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Elf  
-**Gender**: Male  
-**Type**: Dark  
-**Personality**: Good  
-**Starting Class**: Knight  
-**Class Change**: Mage  
-**Role**: Support, Damage
+   title: Eldorado
 
-??? info "Portraits"
-    === "Knight"
-        ![](../img/eldorado-knight.jpg)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-    === "Mage"
-        ![](../img/eldorado-mage.png)
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-## Skills
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock %} 
 
-!!! info "Inheritable Skill"
-    === "Cover"
-        Chance to intercept single-target attacks directed at 1 designated ally for 2 turns. Defense Power Up incrementally added based on skill level. Probability and Defense Power increased further. More turns added.
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Nameless Loyalty"
-        Increases Tolerance of Sleep and Stun for user and all adjacent good allies.
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
 
-!!! info "Discipline Skill"
-    === "Solid Devotion"
-        Continuously increases each stat, Magic Defense and Stun Tolerance increased further.
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
+
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
+
+<!--
+## Adventurer Reviews
+
+??? info "ABC's Analysis"
+    -text-
+
+??? info "DEF's Analysis"
+    -text-
+-->
+
+<!--
+## Adventurer Pull Plans
+
+??? note "ABC's Pull Plan"
+    -text-
+-->
+
+{%endblock ReviewsAndAnalysis %}

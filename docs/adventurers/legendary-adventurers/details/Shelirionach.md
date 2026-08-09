@@ -1,30 +1,48 @@
-# Shelirionach
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Elf  
-**Gender**: Female  
-**Type**: Dark  
-**Personality**: Evil  
-**Starting Class**: Mage  
-**Class Change**:  
-**Role**: Damage, Support
+   title: Shelirionach
 
-??? info "Portraits"
-    === "Mage"
-        ![](../img/shelirionach-mage.png)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-## Skills
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-!!! info "Unique Skill (Inheritable)"
-    === "Eyes That Know the Future"
-        {{ get_skill_description('Eyes That Know the Future') }}
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock InheritFreetext %} 
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Dream of the Sleeping Witch"
-        {{ get_skill_description('Dream of the Sleeping Witch') }}
+{% block AltInheritFreetext %}
+{% endblock AltInheritFreetext %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-!!! info "Discipline Skill"
-    === "Child of the Sacred Tree"
-        {{ get_skill_description('Child of the Sacred Tree') }}
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
+
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
 
 ## Adventurer Reviews
 
@@ -70,6 +88,36 @@
 
     In conclusion, Drecom realized that legendaries need to be compelling and finally made something worth investing in. Do not listen to the downplay. What other mage can do even half of this nonsense?
 
+??? info "Karkarov's Analysis"
+
+    So the queen Sheli has gotten her rerun and a new class, Priest!
+
+    So I am going to front load this analysis right now, if you are expecting to hear a lot of negative info, or for there to be catch 22's with Shelirionach... uh there really aren't any catches and I wont have much negative to say beyond "she is a banner character so you have to spend limited reources".  Sheli is simply put the best caster in the game at this point.  She was already the best mage, with the priest alt class she is now top of the world in the casting role.  So as of 9/11/25 (when I started writing this) there is no better mage/priest in this game, no, not even Alice, it isn't even close actually.
+
+    So lets go into why that is.  First off is her unique passive skill which does a large number of different functions.  So "Dream of the sleeping witch" causes her to go to sleep if she falls to 20% max mp.  While asleep she will do a few different things.  First, she regens MP every round she takes a nap.  No other character in the game right now can regen MP outside potions (rare and hard to farm) and rest spots in dungeons.  Second she starts casting a single target bomb dark attack that is equivalent to roughly Zelos level 5-6... and she casts it for 0 MP.  To add insult to injury she also does not take bonus damage when asleep, unlike every other character in the game.  Being asleep also makes you immune to other mind effecting spells like Charm.  Best part... this counts for when enemies put her to sleep too, these effects are not tied to her 20% MP threshold, it just happens for sure at that point.  Vampire put Sheli to sleep?  Vampire just made a VERY big mistake, because to Sheli, Sleep is a buff.
+
+    Then there is her inheritable skill "Eyes that know the future".  This skill is actually one of the most powerful tanking skills in the game.  When Sheli is hit with an attack that takes over half her health she will either A: dramatically mitigate the damage making it do significaly less than 50% of her HP or more, or B: Go "nah I win" and simply dodge the attack taking no damage at all.  The dodge happens at give or take around 20-25% rate, but the mitigation at level 1 of the skill on Sheli is basically 100% proc rate or so close it doesn't matter.  Also funny story, this mitigation/dodge CAN proc while she is asleep, and it works on any attack that targets her including spells.  This means Sheli has one of the only means in the game of dodging spells, all the evade stacking in the world cant do that for you.  Also somewhat sadly, as an inherit this skill is basically worthless.  The mitigation falls to sub 25ish% activation, and the dodge is single digit percent chance maybe not even 5%.  Leveling it also seems to have little to no benefit so the moral of the story is .... Sheli is not a good character to pull for using as an inherit.  This includes on Sheli herself, leveling the skill basically only improves the dodge rate for her, and not by much.
+
+    This brings us to the reality of how meta Sheli is for traits / stats.  As a dark element female elf she gets the best possible base stats for a mage, and elf generally have the best caster stats for their racial growths.  Then her discipline is greatly improves Magic Attack and Action Speed.... the best possible discipline for a mage.  You pull a Sheli with an IQ boosted stat at level 1, good bonus points, invest it all in IQ, and she can easily break 90 IQ by herself.  She also has really strong action speed growth normally. So with a weak inherit, and absolutely meta discipline, it is obvious any dupes should go straight to pumping the discipline level of Sheli.
+
+    Then last but maybe not least... she now has Priest as her alt class.  So if you want a tankier but still strong caster Sheli you can do that with priest.  This means she will also learn all the buffs, debuffs, heals, and attack spells (dark element at least) of mage and priest.  So she is a casting powerhouse.  Oh no!  She doesn't have a buff/debuff extention!  Ok, inherit one Alice on her, now she does.  She is also evil alignment so works with Alice's damage buff on the back row if you want to use both.  Or Milana's damage buff if you put her in front row as theif.  Or a few different dark element or elf based buffs, etc etc.  She is simply very easy to fit into your party comp, unless you are just an auto attack farmer where you don't want casters at all.
+
+    The most critical thing about Sheli is she is one of the VERY short list of characters in this game where pulling one copy IS good enough to just put them in your team.  Her discipline is top tier, but she does not "need" her discipline levels to be good.  She doesn't "need" any inherits other than the inherits any caster would want.  You can pull her and she is instantly good to go to do her job, she just needs some gear, some levels, and some normal caster inherits.  Just like every other character.  She just doesn't need discipline, to level her own skill, or to inherit skills from other characters that aren't normal "Mage" inerhits etc.  There is no "gimmick" to make her work, she just works outright.
+
+    There are no must pull characters in this game.  Shelirionach is really, really, really close to meeting that requirement though.  This is a character that has no real weakness, has the best MP economy in the game, and has a meta set up for their class and role from a traits perspective.  There is no catch 22, everything about her is good.  Other than her alignment, that's evil.
+
+??? info "Shiro's Analysis"
+
+    Let’s start with her inheritance. It's a really great passive source of survivability similar to Adam’s. There’s no reason why you wouldn’t want to inherit it just for a bit more of a chance for a better survivability because while combined with Adam inheritance, priest book and WotK your character suddenly becomes something way tankier than you could expect.
+
+    Moving to her passive. While it's amazing on first glance and definitely great for all around purpose it can be a double edged sword. It surely works great on more regular enemies and bosses. Being basically “cheat” ability for farming purposes. Especially after auto changes as a priest. But what happens when you get into an actual hard boss fight where mages simply don’t perform well as damage dealers and she goes to sleep instead of being able to cast important buff/debuff or heal? Just pray that whoever else in your team also fits this role will make up for that dead turn or few. 
+
+    Going to her discipline, it’s the same as Adam. Nothing much to say. It’s really good but it doesn’t bring anything specific to be worth chasing over her inheritance.
+
+    Her class change is priest which is completely pushing her further into an amazing position as generalist. Because you can go for endless farming routes spamming DIOS or cleanses as much as you want because she’ll always regen MP. Also the best of course class change for mage.
+
+    To sum it up. While Sheli is best generalist caster doing an amazing job at farming/clearing abyss she falls on boss scenarios not bringing anything as important as Alice gamebreaking buff duration or Madam/Miliana buff for the team. On top of that her passive ability can sometimes be an issue and ruin harder fights with bosses if you run out of mana fast. She’s unarguably the best caster for general abyss and farming by breaking game mechanics with MP regen but it becomes unimportant/problematic in boss fights where it eats one turn for just 8MP and skill that comes nowhere close to what fighters can hit. In short, she’s falling behind the best caster we have - Alice and options like Madam or Miliana when we’re dealing with a really hard fight despite her min-maxed female-elf-dark setup. Going for knight “recovery” passive is some sort of way to deal with it but then it’s basically ruining the purpose of what Sheli is - QoL for general content that’s not made for bosses in main idea.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -77,9 +125,8 @@
 
 ??? note "Lynd's Pull Plan"
     Despite her name, I still pulled because she's cool. Should I have pulled more? Maybe, maybe. Did I? Nope.
-    
-## Duplicate Usage
 
-* Discipline to improve her Magic Power and Action Speed
-* Inherit to herself to improve the activation rate of her "one-shot-prevention" skill
-* Inherit her skill to other adventurers to give them a very low chance of triggering the "one-shot-prevention" skill
+??? note "Karkarov's Pull Plan"
+    Shelirionach is the best caster in the game as of writing this pull plan (9/11/25).  I recomended pulling, the end, I dont care if you are new, a long time player, abyss 1, abyss 3, etc.  It does not matter, you can find a spot in your team for Sheli she is that good.  If you have the resources and can justify it you absolutely should consider getting 3-5 copies to get her to Discipline 2 or higher.  Again, if you have the resources and can afford it.  Everything about her is hitting all all cylinders, she has no weakness or "this could have been better" aspects.  If you are someone who is of the "I dont care, I dont need another caster" mindset, cool, pass on the banner.  Just know she is better than the casters you have if you give her a similar level of investment to what you gave them.
+
+{% endblock ReviewsAndAnalysis %}

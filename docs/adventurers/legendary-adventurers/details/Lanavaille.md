@@ -1,32 +1,30 @@
-# Lanavaille
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Human  
-**Gender**: Female  
-**Type**: Fire  
-**Personality**: Good  
-**Starting Class**: Knight  
-**Class Change**: Fighter  
-**Role**: Support, Damage
+   title: Lanavaille
 
-??? info "Portraits"
-    === "Knight"
-        ![](../img/lanavaille-knight.jpg)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-    === "Fighter"
-        ![](../img/lanavaille-fighter.png)
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-    === "Wandering Princess"
-        ![](../img/lanavaille-wandering.jpg)
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
 
-## Skills
-
-!!! note
-    If standard Lanavaille and Wandering Princess Lanavaille are merged, changing styles will swap each skill.
-
-!!! info "Unique Skill (Inheritable)"
-    === "Queen of War and Love"
-        {{ get_skill_description('Queen of War and Love') }}
-
+        <div class = "nosort-table nofilter-table" markdown>
+        
         | Level | HP recovery amount (self) | HP recovery amount (inherited) |
         |:-----:|:-------------------------:|:------------------------------:|
         |   1   |             12            |                6               |
@@ -36,23 +34,32 @@
         |   5   |             58            |               30?              |
         |   6   |             68            |               38               |
         |   7   |             85            |                -               |
-        
-!!! info "Unique Skill (Not Inheritable)"
-    === "Stirring Righteousness (Standard)"
-        {{ get_skill_description('Stirring Righteousness') }}
-        
-        !!! note
-            This damage increase is approximately 8%.
 
-    === "Valiant Righteousness (Wandering Princess)"
-        {{ get_skill_description('Valiant Righteousness') }}
+        </div>
 
-!!! info "Discipline Skill"
-    === "Warrior Princess of Resolution and Love (Standard)"
-        {{ get_skill_description('Warrior Princess of Resolution and Love') }}
+{% endblock InheritFreetext %} 
 
-    === "Flawlessly Composed Warrior Princess (Wandering Princess)"
-        {{ get_skill_description('Flawlessly Composed Warrior Princess') }}
+{% block AltInheritFreetext %}
+{% endblock AltInheritFreetext %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
+
+{% block UniqueSkillFreetext %}
+        !!! note "This damage increase is approximately 8%."
+{% endblock UniqueSkillFreetext %}
+
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
+
 ## Adventurer Reviews
 
 ??? info "TheAxolotl's Analysis"
@@ -79,20 +86,33 @@
 
 ??? info "Frobro's Analysis"
 
-    Do I even need to explain this one? One of the few well-aligned party buffs in the game. That post-battle healing is incredibly strong. At level 1 it falls off after the early game which makes people think lowly of it, but it is great even at level 60 with just a few more levels. Assuming you use Lana, this isn’t the worst use of Codexs around. I don’t even bring a healer when auto-farming events anymore.
+    === "Standard"
 
-    The real kicker here is that to reach her full potential, you gotta switch Lana to fighter. (After learning all the knight stuff first) The downside is having to look at dork fighter Lana. The upside is that Wana exists. Besides looking better as a fighter, Wana also gets an ASPD boost with a gear-based conditional and turns Lana’s “whatever” discipline focus into “whatever…but better”. When merged, you only need to level the Queen of War and Love skill on one unit to apply it to both styles.
+        Do I even need to explain this one? One of the few well-aligned party buffs in the game. That post-battle healing is incredibly strong. At level 1 it falls off after the early game which makes people think lowly of it, but it is great even at level 60 with just a few more levels. Assuming you use Lana, this isn’t the worst use of Codexs around. I don’t even bring a healer when auto-farming events anymore.
+
+        The real kicker here is that to reach her full potential, you gotta switch Lana to fighter. (After learning all the knight stuff first) The downside is having to look at dork fighter Lana. The upside is that Wana exists. Besides looking better as a fighter, Wana also gets an ASPD boost with a gear-based conditional and turns Lana’s “whatever” discipline focus into “whatever…but better”. When merged, you only need to level the Queen of War and Love skill on one unit to apply it to both styles.
+
+??? info "Shiro's Analysis"
+
+    === "Standard"
+
+        Starting with inheritance. It's a really strong one for the early part of the game-mostly abyss one and two. But even when maxed out in the third abyss it feels like QoL at best and having it on her or your MC will rarely make difference in long run despite halved healing. Because either enemies don’t do enough DMG and healing won’t matter or they hit too hard and it’s not enough. Never in the sweet spot to justify using Lana alone for it.
+
+        Moving to her passive. It’s good. Massively overrated to a point where people lose their heads saying you’re not allowed to run an evil front but still good. But in practice? Unless you stack it with other % bonus passives like Madam or Elise you’ll barely feel any difference in fights outside that light dopamine kick from slightly bigger numbers. Definitely not worth worrying about team comp just to run around it.
+
+        Her discipline felt like absolute ass for a really long time till we got to the third abyss. And now it turned out to be actually a good one. Having charm/conf resistance will never go wrong and allows you to build faster immunity. Definitely worth investment after you’re done maxing out her inheritance on her.
+
+        Her class change is a fighter which is a massive upgrade to her. Once you’ll get it there’s no reason to go back to knight. Her lane buff starts to become more useful on her too as she’ll be one of your main damage dealers with access to it.
+
+        To sum it up. Lana is not game changing by any means but she’s still a great solid pick. If you’re running an evil team, kick her out or use her in the backlane for some auto farming setups with Abenius, Debra or whoever else you might use in the back as a neutral/good damage dealer. It was nice to have “Lana meta” back in the days when we didn’t have that many strong evil options and when her buff somehow makes for gaps in your equipment. Otherwise? Nothing worth losing your head about or panicking that you don’t have her. But hey. She’s good at buffing Liviana backlane damage.
+
+    === "Wandering Princess"
+
+        She gets some bonus ASPD from 1h sword, light armor and slightly more bulk on discipline. Nothing to write there over it. It's an upgrade especially for speed tuning but that’s all.
 
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
     I pulled for a couple copies of Wandering Lana. My main goal was a base copy plus a single copy for the OCD Discipline. Getting rid fo the OG Lana's voice was a big enough reason for me to pull.
 
-## Duplicate Usage:
-
-* If you use her Wandering Princess style
-    * Inherit her standard style dupes to her own skill to increase its healing power.
-    * Wandering Princess dupes can either go towards Discipline or inherit. While Discipline boosts are minimal, you'll likely reach inheritance cap eventually from standard Lana pulls over time.
-* If you use her standard style and not her Wandering Princess style, Discipline and skill inherit are both good options, although I'd probably slightly favor skill inherits.
-* Inherit her skill to the MC.
-* Save for future use or dismiss for Grade tags.
+{% endblock ReviewsAndAnalysis %}

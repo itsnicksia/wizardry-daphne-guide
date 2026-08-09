@@ -1,0 +1,160 @@
+Class,Level,Name,"INSTRUCTION: just complete cols A,B,C, save as unique-class-skills.csv, upload to data folder. other columns will get pulled from skills.csv. will error if any skills missing from skills.csv"
+Dark Knight of Bastok,1,Blood Weapon,yes
+Dark Knight of Bastok,8,Attack Bonus,yes
+Dark Knight of Bastok,10,Last Resort,yes
+Dark Knight of Bastok,15,Smite,yes
+Dark Knight of Bastok,27,Abyssal Drain,yes
+Dark Knight of Bastok,40,Absorb-TP,yes
+Dark Knight of Bastok,54,Full Power Strike,yes
+Dark Knight of Bastok,62,Drastic Strike,yes
+Dark Knight of Bastok,65,Poised All-Out Strike,yes
+Abhorrent One of Tavnazia,1,Combo,yes
+Abhorrent One of Tavnazia,3,Martial Arts,yes
+Abhorrent One of Tavnazia,6,Hundred Fists,yes
+Abhorrent One of Tavnazia,8,Magic Defense Bonus,yes
+Abhorrent One of Tavnazia,10,Counter,yes
+Abhorrent One of Tavnazia,15,Max HP Boost,yes
+Abhorrent One of Tavnazia,16,Dodge,yes
+Abhorrent One of Tavnazia,18,Cure,yes
+Abhorrent One of Tavnazia,22,Carnal Incense,yes
+Abhorrent One of Tavnazia,25,Tranquility,yes
+Abhorrent One of Tavnazia,31,One Inch Punch,yes
+Abhorrent One of Tavnazia,40,Smite,yes
+Abhorrent One of Tavnazia,51,Max HP Boost II,yes
+Abhorrent One of Tavnazia,54,Spiritual Incense,yes
+Abhorrent One of Tavnazia,60,Skillchain Bonus,yes
+Abhorrent One of Tavnazia,65,Impetus,yes
+Abhorrent One of Tavnazia,68,Auroral Uppercut,yes
+Priestess of the Far East,1,Rise From Ashes,yes
+Priestess of the Far East,6,Magic Defense Bonus,yes
+Priestess of the Far East,8,Third Eye,yes
+Priestess of the Far East,10,Hasso,yes
+Priestess of the Far East,43,Overwhelm,yes
+Priestess of the Far East,48,Hamanoha,yes
+Priestess of the Far East,54,Full Power Strike,yes
+Priestess of the Far East,60,Skillchain Bonus,yes
+Priestess of the Far East,62,Earth-Splitting Strike,yes
+Priestess of the Far East,68,Poised All-Out Strike,yes
+Dark Knight of Bastok,4,Heavy Attack,
+Dark Knight of Bastok,18,Counterattack,
+Dark Knight of Bastok,23,Follow-Up Attack,
+Dark Knight of Bastok,31,Wild Strike,
+Dark Knight of Bastok,36,Will to Fight,
+Dark Knight of Bastok,43,Critical Attack Bonus,
+Dark Knight of Bastok,48,Arcana Killer,
+Dark Knight of Bastok,51,Immortal Strike,
+Dark Knight of Bastok,60,Ground Strike,
+Priestess of the Far East,4,Heavy Attack,
+Priestess of the Far East,12,Counterattack,
+Priestess of the Far East,14,Armor Break,
+Priestess of the Far East,18,Follow-Up Attack,
+Priestess of the Far East,31,Wild Strike,
+Priestess of the Far East,36,Will to Fight,
+Priestess of the Far East,51,Immortal Strike,
+Silver-Haired Nun,1,DIOS,
+Silver-Haired Nun,3,Self-Healing,
+Silver-Haired Nun,6,LATUMOFIS,
+Silver-Haired Nun,8,Stun Bash,
+Silver-Haired Nun,10,DIADOR,
+Silver-Haired Nun,12,MADIOS,
+Silver-Haired Nun,14,DIALKO,
+Silver-Haired Nun,17,REILIS,
+Silver-Haired Nun,20,KUSFIS,
+Silver-Haired Nun,23,ZILFIS,
+Silver-Haired Nun,27,MONTINO,
+Silver-Haired Nun,29,Recovery,
+Silver-Haired Nun,35,REINIKUS,
+Silver-Haired Nun,40,ABIT,
+Silver-Haired Nun,45,MAPORFIC,
+Silver-Haired Nun,51,BADI,
+Silver-Haired Nun,54,Fortified Strike,
+Silver-Haired Nun,64,Guardian Blow,
+Silver-Haired Nun,65,MAKALKI,
+Silver-Haired Nun,67,Blessing of Renewal,
+Silver-Haired Nun,70,Sacred Resistance,
+Tall Mage,20,Coin of Power,
+Tall Mage,21,Heavy Attack,
+Tall Mage,22,KATINO,
+Tall Mage,23,Warrior's Battle Cry,
+Tall Mage,24,Passive Detection Up (Mage),
+Tall Mage,25,Counterattack,
+Tall Mage,26,DILTO,
+Tall Mage,27,Armor Break,
+Tall Mage,28,Passive MP Up (Mage),
+Tall Mage,30,MAHALITO,
+Tall Mage,31,Follow-Up Attack,
+Tall Mage,32,BATILGREF,
+Tall Mage,34,Passive Magic Power Up (Mage),
+Tall Mage,35,Way of the Warrior,
+Tall Mage,36,BALAFEOS,
+Tall Mage,38,CORTU,
+Tall Mage,39,Wild Strike,
+Tall Mage,40,Mental Unity,
+Tall Mage,42,MORLIS,
+Tall Mage,44,Way of the Mage,
+Tall Mage,46,MONTINO,
+Tall Mage,48,KANTIOS,
+Tall Mage,51,MAKANITO,
+Tall Mage,52,Immortal Strike,
+Tall Mage,53,NOFIS,
+Tall Mage,55,Fire Type Thaumaturgy,
+Tall Mage,58,LAHALITO,
+Tall Mage,61,Malefic Wind,
+Tall Mage,62,Earth-Splitting Strike,
+Tall Mage,63,DALTO,
+Tall Mage,65,MADALTO,
+Tall Mage,67,Will to Fight,
+Tall Mage,68,Fire Resistance Weakening,
+Tall Mage,70,Magic Detection,
+Mage of the Black Rod,1,CONES,
+Mage of the Black Rod,3,KATINO,
+Mage of the Black Rod,4,Heavy Attack,
+Mage of the Black Rod,5,DILTO,
+Mage of the Black Rod,9,MACONES,
+Mage of the Black Rod,12,Counterattack,
+Mage of the Black Rod,13,BATILGREF,
+Mage of the Black Rod,14,Armor Break,
+Mage of the Black Rod,17,BALAFEOS,
+Mage of the Black Rod,18,CORTU,
+Mage of the Black Rod,20,Follow-Up Attack,
+Mage of the Black Rod,22,Mental Unity,
+Mage of the Black Rod,24,MORLIS,
+Mage of the Black Rod,27,MONTINO,
+Mage of the Black Rod,34,KANTIOS,
+Mage of the Black Rod,36,Will to Fight,
+Mage of the Black Rod,40,LACONES,
+Mage of the Black Rod,51,MAKANITO,
+Mage of the Black Rod,53,NOFIS,
+Mage of the Black Rod,61,Malefic Wind,
+Mage of the Black Rod,63,DALTO,
+Mage of the Black Rod,65,MADALTO,
+Mage of the Black Rod,68,Untyped Resistance Weakening,
+Mage of the Black Rod,69,Poised All-Out Strike,
+Mage of the Black Rod,70,Magic Detection,
+Samurai of the Black Rod,1,Divine Path,
+Samurai of the Black Rod,1,True Eye Stance,
+Samurai of the Black Rod,1,Creeping Coin,
+Samurai of the Black Rod,1,Fist of God Stance,
+Samurai of the Black Rod,5,Decisive Torso Strike,
+Samurai of the Black Rod,10,Cresting Wave Stance,
+Samurai of the Black Rod,20,Flame-Bearer,
+Samurai of the Black Rod,25,Bamboo Splitter,
+Samurai of the Black Rod,28,Hamstring,
+Samurai of the Black Rod,30,Tide-Bearer,
+Samurai of the Black Rod,35,Quickdraw Stance,
+Samurai of the Black Rod,40,Storm-Bearer,
+Samurai of the Black Rod,48,Ichimonji Slash,
+Samurai of the Black Rod,50,Monolith-Bearer,
+Samurai of the Black Rod,58,Strike of Righteous Fury,
+Samurai of the Black Rod,61,Anticipation,
+Samurai of the Black Rod,62,Thousandfold Grip,
+Samurai of the Black Rod,64,Mist of Reversal Stance,
+Samurai of the Black Rod,70,Mysta Energy Manipulation,
+Wanderer,3,Heavy Attack,
+Wanderer,5,Passive HP Up (Fighter),
+Wanderer,7,Warrior's Battle Cry,
+Wanderer,9,Passive Attack Power Up (Fighter),
+Wanderer,11,Counterattack,
+Wanderer,13,Armor Break,
+Wanderer,15,Passive Accuracy Up (Fighter),
+Wanderer,17,Follow-Up Attack,

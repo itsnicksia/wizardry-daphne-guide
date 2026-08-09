@@ -1,5 +1,12 @@
 # Discipline and Inheritance
 
+!!! note "Overview"  
+    Discipline and inheritance are two ways to use extra (and duplicate) character copies to strengthen your main party by conferring some skill or stat improvement to another character. Adventurers are one of the game-limited resources needed to advance in the game, so be judicious about your choices. There is generally no downside to waiting until you're sure how you want to use them.
+
+!!! warning "Character is lost"
+    The adventurers used for Discipline and Inheritance are permanently consumed (lost) in the process.  Items and equipment for registered adventurers are returned to storage. But if a character is leveled, merged, has been graded up with guild tags, has themselves had been disciplined or taught skills via inheritance, or just cost you 18,000 gems to get, that character is gone and none of those investments are returned to you. The game does warn you first, but the game also leaves you free to make bad choices, and the developers won't reverse those choices for you.  
+    You can Lock any adventurer from their stat screen, and set auto-lock settings in the Settings (gear) menu. Do that any time you get a character you sant to keep.
+
 ## Discipline
 Discipline boosts all of your stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. The below tables highlight the increase in stats at a particular Discipline level. The key thing to note is that most stats follow the same scaling, with `HP`, `Surety`, and `ASPD` being different. Also at most, a featured non-HP stat will only increase the total value by `36`, while a non-featured non-HP stat will only increase the value by `28`. The lower level you are, the more impactful it is, but since these are static increases, they will significantly lose their value as our overall stats increase due to higher levels and grades in the future.
 
@@ -7,30 +14,30 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
 
 === "Legendary Adventurer Stats"
 
-    |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
-    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-    |       HP      |  10 |  18 |  30 |  43 |  56 |  75 |  88 | 101 | 120 |
-    |       MP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |       SP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |  Attack Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |  Magic Power  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |  Divine Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |    Defense    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    | Magic Defense |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |     Surety    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-    |  Sure Evasion |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
-    |     Detect    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |  Disarm Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |   Evade Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |  Action Speed |   2 |   3 |   6 |   7 |   8 |  11 |  13 |  15 |  18 |
-    |    Accuracy   |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |    Evasion    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |   Resistance  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |      Stat      |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
+    |:---------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |  HP            |  10 |  18 |  30 |  43 |  56 |  75 |  88 | 101 | 120 |
+    |  MP            |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  SP            |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Attack Power  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Magic Power   |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Divine Power  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Defense       |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Magic Defense |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Surety        |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |  Sure Evasion  |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |  Detect        |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Disarm Trap   |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Evade Trap    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Action Speed  |   2 |   3 |   6 |   7 |   8 |  11 |  13 |  15 |  18 |
+    |  Accuracy      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Evasion       |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+    |  Resistance    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
 
 === "Legendary Adventurer Featured Stats"
 
     |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
-    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |:--------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
     |       HP      |  12 |  22 |  36 |  52 |  68 |  90 | 106 | 122 | 144 |
     |       MP      |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |       SP      |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
@@ -39,8 +46,8 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     |  Divine Power |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |    Defense    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     | Magic Defense |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
-    |     Surety    |  2  |  3  |  6  |  8  |  10 |  13 |  15 |  17 |  20 |
-    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Surety    |  2  |  3  |   6 |   8 |  10 |  13 |  15 |  17 |  20 |
+    |  Sure Evasion |  0  |  0  |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
     |     Detect    |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |  Disarm Trap  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
     |   Evade Trap  |  4  |  6  |  10 |  12 |  14 |  20 |  24 |  28 |  36 |
@@ -52,7 +59,7 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
 === "General Adventurer Stats"
 
     |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
-    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |:--------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
     |       HP      |   6 |  12 |  20 |  28 |  36 |  50 |  64 |  78 | 100 |
     |       MP      |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
     |       SP      |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
@@ -74,7 +81,7 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
 === "General Adventurer Featured Stats"
 
     |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
-    |:-------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |:--------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
     |       HP      |  10 |  18 |  30 |  43 |  56 |  75 |  88 | 101 | 120 |
     |       MP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |       SP      |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
@@ -83,8 +90,8 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     |  Divine Power |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |    Defense    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     | Magic Defense |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
-    |     Surety    |     |     |     |     |     |     |     |     |     |
-    |  Sure Evasion |     |     |     |     |     |     |     |     |     |
+    |     Surety    |   1 |   2 |   4 |   5 |   6 |   9 |  10 |  11 |     |
+    |  Sure Evasion |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |  0  |
     |     Detect    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |  Disarm Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |   Evade Trap  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
@@ -125,51 +132,58 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     | 8                | 5                | 28                          |
     | 9                | 8                | 36                          |
 
+### Discipline after Merging:  Shared Discipline
+Recent changes to the Adventurer Merge system have introduced other Discipline considerations that apply only to characters with Alternate Styles (e.g., Lanavaille and Wandering Princess Lanavaille) that have been Merged.  For full details, please see [the Shared Discipline section of the Merging page](./merging.md#shared-discipline). In short, the significant benefits of the Shared Discipline only activate once each Style hase been disciplined once (reached Discipline level 1) after which *both styles* continue to benefit from Disciplining *either style*, and additional benefits accrue in excess of Discipline level 9. In many cases this strongly encourages Disciplining any limited style at least once before considering other duplicate uses.
+
 ## Inheritance
-Inheritance allows you to give skills from one adventurer to another or increase the level of inherited skills on an adventurer. Skills have different maximum levels. For example, Legendary and General Adventurer skills have a maximum inheritance count of 6, so depending on if an adventurer comes with that skill by default, they can get it to either level 6 or level 7. Anonymous adventurer skills have a maximum inheritance count of 14, which leads to a maximum level of either 14 or 15, again depending on if an adventurer comes with that skill by default.
+Skill Inheritance allows an adventurer to both acquire a skill not normally learned by their class as well as increase the level of skills. Skills with higher level will generally have stronger effects, making your team more powerful.  
+
+Most Legendary and General Adventurer skills have a maximum inheritance level count of 6 (after reaching maximum inheritance the game will prevent you from further inheriting that skill to that adventurer).  If an adventurer comes with or learns that skill by default, they can reach a maximum level of 7. Anonymous adventurer skills, all of which are passive stat boosts, have a maximum inheritance count of 14 (with very strongly diminishing returns at high level).
+
+Note that inheritance skill level is actually measured in Skill Experience Points (XP).  One character used for inheritance is equivalent to 100 Skill XP. Higher levels of inheritance require more Skill XP to raise skill level.  You can also acquire skill scrolls and books that provide XP (typically 25 or 100) for a specific skill, or codexes of similar XP value and can be applied to any skill. The latter are highly valued as they are the only way to raise the level of certain skills not otherwise available through character inheritance.
 
 ### Copies Per Inheritance Count
 
 === "Legendary"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 1                | 2                           |
-    | 3                 | 2                | 4                           |
-    | 4                 | 2                | 6                           |
-    | 5                 | 3                | 9                           |
-    | 6                 | 3                | 12                          |
+    | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulatove Skill XP |
+    | ----------------- | ---------------- | ---------| ------------------- | ----- |
+    | 1                 | 1                |      100 | 1                   | 100   |
+    | 2                 | 1                |      100 | 2                   | 200  |
+    | 3                 | 2                |      200 | 4                   | 400   |
+    | 4                 | 2                |      200 | 6                   | 600  |
+    | 5                 | 3                |      300 | 9                   | 900   |
+    | 6                 | 3                |      300 | 12                  | 1,200 |
 
 === "General"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 3                | 4                           |
-    | 3                 | 5                | 9                           |
-    | 4                 | 5                | 14                          |
-    | 5                 | 9                | 23                          |
-    | 6                 | 9                | 32                          |
+    | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulative Skill XP |
+    | ----------------- | ---------------- | ----- | ---------------------- | --- |
+    | 1                 | 1                | 100 | 1                           | 100 |
+    | 2                 | 3                | 300 | 4                           | 400 |
+    | 3                 | 5                | 500 | 9                           | 900 |
+    | 4                 | 5                | 500 | 14                          | 1,400 |
+    | 5                 | 9                | 900 | 23                          | 2,300 |
+    | 6                 | 9                | 900 | 32                          | 3,200 |
 
 === "Anonymous"
 
-    | Inheritance Count | Number of Copies | Number of Cumulative Copies |
-    | ----------------- | ---------------- | --------------------------- |
-    | 1                 | 1                | 1                           |
-    | 2                 | 2                | 3                           |
-    | 3                 | 3                | 6                           |
-    | 4                 | 4                | 10                          |
-    | 5                 | 6                | 16                          |
-    | 6                 | 8                | 24                          |
-    | 7                 | 10               | 34                          |
-    | 8                 | 12               | 46                          |
-    | 9                 | 14               | 60                          |
-    | 10                | 18               | 78                          |
-    | 11                | 20               | 98                          |
-    | 12                | 22               | 120                         |
-    | 13                | 24               | 144                         |
-    | 14                | 26               | 170                         |
+    | Inheritance Level Count | # Copies | Skill XP | # Cumulative Copies | Cumulative Skill XP |
+    | ----------------- | ---------------- | ------ | --------------------- | --- |
+    | 1                 | 1                | 100 | 1                           | 100 |
+    | 2                 | 2                | 200 | 3                           | 300 |
+    | 3                 | 3                | 300 | 6                          | 600 |
+    | 4                 | 4                | 400 | 10                          | 1,000 |
+    | 5                 | 6                | 600 | 16                          | 1,600 |
+    | 6                 | 8                | 800 | 24                          | 2,400 |
+    | 7                 | 10               | 1,000 | 34                          | 3,400 |
+    | 8                 | 12               | 1,200 | 46                          | 4,600 |
+    | 9                 | 14               | 1,400 | 60                          | 6,000 |
+    | 10                | 18               | 1,800 | 78                          | 7,800 |
+    | 11                | 20               | 2,000 | 98                          | 9,800 |
+    | 12                | 22               | 2,200 | 120                         | 12,000 |
+    | 13                | 24               | 2,400 | 144                         | 14,400 |
+    | 14                | 26               | 2,600 | 170                         | 17,000 |
 
 ## Should I use my duplicates for Discipline or Inheritance?
 This is an extremely frequently asked and hotly debated question, and there is no general, community-wide consensus. Both are potentially solid options, and here are some pros and cons of each.
@@ -217,3 +231,21 @@ What do I do with my dupes? I have a general process of:
 1. First dupe - Discipline 1, strictly for my OCD. I don't like locked skills.
 2. Additional duplicates - inherit to the MC or other adventurers OR get the featured Legendary's skill to an odd level (3 is a great target, 5 or 7 are good if you have a lot of dupes) for a noticeable damage boost
 3. Once I hit the skill levels I want on whatever adventurers I want to give it to, only then will I consider going for more Discipline levels
+
+## Should I pull for duplicates?
+
+This is a much harder question to answer, as it will depend on what you plan to use those duplicates for and what your budget is. To help you make this decision, let's look at some probabilities, courtesy of Memento in the Wizardry Variants Discord.
+
+The rate up for the featured legendary adventurer is 2% with no pity system or 50/50 system. The probabilities below rely on the assumption that at 100 pulls, you spend your tokens on a duplicate. If you spend them on equipment instead, you can assume you will have different numbers here. Below is a look at how many pulls you need for a specific percentage chance of getting the number of copies you want.
+
+![](./img/gacha-probability.png)
+
+For those that like to see this information graphed, here's the cumulative pull probability distributions that correspond with the data above.
+
+![](./img/discipline-probability-distribution.png)
+
+Regarding Discipline in particular, many people consider the HP you get with Discipline as one of the main reasons to increase the Discipline levels. Here's a look at the average HP gained per pull at different Discipline levels. We're also including MP per pull for funzies and because Memento did this analysis when Sheli was released. It's...not great. That's not to say that the HP at those Discipline levels isn't great, rather the gain per pull is extremely small.
+
+![](./img/hp-mp-averages-per-pull.png)
+
+So what does this all mean in summary? Well, chasing duplicates is very expensive and chasing Discipline for HP is only really advisable for whales as the value you get for the cost you incur is extremely small.

@@ -2,6 +2,7 @@
 <!--Abbreviations-->
 *[AoE]: Area of Effect; something with multiple targets.
 *[Nuke]: All-rows AoE attack.
+*[LFAS]: Lesser Full Alteration Stone
 *[FAS]: Full Alteration Stone
 *[FPS]: Full Power Strike
 *[MC]: Main Character, you

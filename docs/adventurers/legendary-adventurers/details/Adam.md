@@ -1,56 +1,50 @@
-# Adam
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Elf  
-**Gender**: Male  
-**Type**: Light  
-**Personality**: Evil  
-**Starting Class**: Mage  
-**Class Change**: Priest  
-**Role**: Damage, Support
+   title: Adam
 
-??? info "Portraits"
-    === "Mage"
-        ![](../img/adam-mage.jpg)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-    === "Priest"
-        ![](../img/adam-priest.jpg)
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-    === "Mage After Personal Request"
-        ![](../img/adam-mage-personal-request.png)
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+        !!! note "This skill removes the dampening from spells that deal element type damage as well as the damage caused by element type skills and when using elemental weapons."
+{% endblock %} 
 
-    === "Priest After Personal Request"
-        ![](../img/adam-priest-personal-request.png)
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-    === "Millennial Lord"
-        ![](../img/adam-millennial-lord.png)
-        
-## Skills
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
 
-!!! note
-    If standard Adam and Millennial Lord Adam are merged, changing styles will swap each skill.
+{% block AltUniqueSkillFreetext %}
+        !!! note "This damage increase is two-part, with the light-type ally damage increase being approximately 15%, and the dark-type enemy damage increase being approximately 10%."
+{% endblock AltUniqueSkillFreetext %}
 
-!!! info "Unique Skill (Inheritable)"
-    === "Wisdom of Truth"
-        {{ get_skill_description('Wisdom of Truth') }}
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
 
-    ??? note "This skill removes the dampening from spells that deal element type damage as well as the damage caused by element type skills and when using elemental weapons."
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Knowledge of the Millennial Lord"
-        {{ get_skill_description('Knowledge of the Millennial Lord') }}
-    
-    === "Light Shaft's Radiance"
-        {{ get_skill_description("Light Shaft's Radiance") }}
-
-        !!! note
-            This damage increase is two-part, with the first part being approximately 10% and the second part being approximately 15%.
-
-!!! info "Discipline Skill"
-    === "Will of the Millennial Lord"
-        {{ get_skill_description('Will of the Millennial Lord') }}
-
-    === "Twilight of the Long-Lived Race"
-        {{ get_skill_description('Twilight of the Long-Lived Race') }}
+{% block ReviewsAndAnalysis %}
 
 ## Adventurer Reviews
 
@@ -106,6 +100,28 @@
 
         Ultimately I think Madam is a better character than Adam, and I would rate him from a ""just the character"" evaluation as the second best Mage in the game at this time (6/19/25).  He is still not up to par with our Sleepy Queen Sheli, but he is closer than other Mages.  Madam is a character that will show their true value months after their release, it will depend on what Drecom releases and if more strong Light front liners are imminent."									
 
+??? info "Shiro's Analysis"
+
+    === "Standard"
+
+        Starting with inheritance we got one of best possible picks in the game that I absolutely recommend to have on everyone you use on at least lvl 1. Not only it removes dampening of damage but it gives you (rng based) reduction of damage and bonus MP. The removal of dampening is game changing for any elemental skills/weapons/mages which lets you go against enemies that usually would resist you without DMG drop. On top of that damage reduction while rng based gives you better long run survivability especially if you have other sources of damage reducing passives/skills. At the same time it’s Adam's weak point because his inheritance is so good that it’s generally better to invest it in your team over investing in him.
+
+        Moving on his passive it's a great economy helper that shines mostly in first and second abyss. Sadly for whatever reason it’s capped on 10 cost abilities thus reducing its impact on third abyss. Unless the values won’t change it basically means that from the third abyss onward his passive is basically non existent.
+
+        Moving to discipline while it’s great to have magic power and SPD the difference between it and base disc stat growth is minimal so it’s nothing to write poems about. It’s nice but that’s all.
+
+        His class change is priest which is the best available class change for mages. It gives access to MP based cleanse and supportive skillset. And if you don’t have good gear for mages but you have some good light armor gear pieces it allows you for more flexibility when you stay in this class. Absolutely one of best class synergies in the game.
+
+        To sum it up Adam is an amazing mage and I’d say he’s among five best mages we have in the game right now (2025). If you do like him then he’s definitely worth investing and using. But if you want to go for the best pick it might be better to use him as inheritance and go with other mages like Alice, Miliana or Sheli. In the end it's a matter of personal preference. But Adam is never a wrong choice or bad pull.
+
+    === "Millennial Lord"
+    
+        Madam is a great alternative to Adam. That’s if you use his passive. Basically if you use Debra, Clarissa or Abenius as damage dealer you can push their DMG really hard against dark enemies just by having him behind them which is a really solid option and upgrade over his normal passive in later parts of the game. But that’s only if you have a light adventurer to support.
+
+        As for his discipline it’s downgraded for mage class while it’s upgraded towards his priest class. You can’t go wrong with more MP and having a bit more resistance even if highly unlikely might make a difference one day.
+
+        To sum up Adam's alternative costume is much less of a solo/ego character and seems to lean to be a good priest option, and honestly? It’s one of the best ones if you can make use of it. Definitely a must pull for Adam fans but in the end it matters how well you can fill him in the team and whenever you have or not other options that fit you better.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -114,8 +130,4 @@
 ??? note "Karkarov's Pull Plan"
     Do you love goth boys with a strong boot game and cape?  Is Abenius a mainstay in your parties front line?  Do you actually need a strong Mage and have not fully invested in one yet, and this banner is running?  Then Madam is the man for you!  However if none of that applies... then you should give this banner a pass in my opinion. Madam on his own is not strong enough to be a recommended pull, but if your party comp synergies with his unique skill you should definitely consider pulling for this fine gentleman.									
 
-## Duplicate Usage
-
-* If you like Adam and plan to use him on your team, boosting his Discipline level will increase his damage
-* Inherit his skill on your MC for some nice QoL gains
-* Inherit his skill on your other favorite damage dealers or save for future use
+{% endblock ReviewsAndAnalysis %}

@@ -23,11 +23,16 @@
     | Trade Waterway Shipboard 1st Level Cleared          | Make it all the way through the first level of the galleon in the Trade Waterway.  |
     | Trade Waterway Shipboard 2nd Level Cleared          | Make it all the way through the second level of the galleon in the Trade Waterway. |
     | Trade Waterway Greater Warped One Slain             | Slay the greater warped one of the Trade Waterway.                                 |
+    | Trade Waterway Search Complete                      | Search for the missing person in the Trade Waterway and complete the request.      |  
     | Impregnable Fortress -Old Secret Passage- Cleared   | Make it all the way through the Impregnable Fortress -Old Secret Passage-.         |
     | Impregnable Fortress -Prehistoric Corridor- Cleared | Make it all the way through the Impregnable Fortress -Prehistoric Corridor-.       |
     | Impregnable Fortress -Fortress- Cleared             | Make it all the way through the Impregnable Fortress -Fortress-.                   |
     | Impregnable Fortress Greater Warped One Slain       | Slay the Greater Warped One of the Impregnable Fortress.                           |
     | Impregnable Fortress, The Duke Rescued              | Slay the Greater Warped One of the Impregnable Fortress and rescue Duke Ixion.     |
+    | Deepsnow Hinterlands Route 3 -Rockhome Village- Cleared | Make it all the way through the Deepsnow Hinterlands Route 3 -Rockhome Village -.   |
+    | Deepsnow Hinterlands Route 6 -South Lakeshore- Cleared  | Make it all the way through the Deepsnow Hinterlands Route 6 -South Lakeshore-.     |
+    | Deepsnow Hinterlands Church Reached                 | Reach the church in the Deepsnow Hinterlands.                                           |
+    | Deepsnow Hinterlands Greater Warped One Slain       | Slay the Greater Warped One of the Deepsnow Hinterlands and deliver the canary crystals.|
     | They All Made it Out Alive                          | Successfully complete the mission without any of the knights dying.                |
     | Reconciled with His Uncle                           | Albano and his uncle reconcile.                                                    |
     | Leave It to Me                                      | Take on and slay two Knight-Butcher Ents.                                          |
@@ -44,9 +49,11 @@
     | Glug Glug Glug...                                   | Win the match against Vernant in an underwater battle.                             |
     | No Ruses                                            | Win the match against Vernant without using any tricks.                            |
     | You Mustn't Touch! Mustn't Ever Touch!              | Take on all of Belkadia's curses.                                                  |
+    | The Lulunarde Special                               | Go with Lulunarde's best dish.                                                     | 
     | The Tea Party is Over                               | Win by ramming a golem into Our Heirlooms.                                         |
     | Heads Aligned, Fates Sealed                         | Hand over the evidence to Alberio and be executed.                                 |
     | Who's the Mastermind?                               | Get framed by Dalian and be executed.                                              |
+    | Conspiracy Exposed                                  | Expose Alberio's evil deeds and complete the request.                              |
     | Missing Handmaiden and Servant                      | Upon reaching the great hall, only a few captives are still alive.                 |
     | The Last Seven Survivors                            | Upon reaching the great hall, seven captives are still alive.                      |
     | So Close, Yet So Far                                | Upon reaching the great hall, most of the captives are still alive.                |
@@ -55,8 +62,24 @@
     | Master Bouncer! Yer up!                             | Return to the gambling den and defeat the master bouncer.                          |
     | The Old Master and His Dog                          | Rescue the adventurers and reunite Bibi with Eugen.                                |
     | Ivo's Maliciousness                                 | Complete the Emergency Occurrence request.                                         |
+    | Family Reunited                                     | Alan and Lilly reuinte with Liam.                                                  |    
     | Thaaank...youuu...                                  | Becooome a Bondmmatatete with theeti scarlet Bisque Doll.                          |
     | Godslayer                                           | Win a battle against Morgus, God of Death                                          |
+    | Let us gather around Master Priest                  | Iris turns into crystal and blocks the well.                                       |
+    | A Story of Saving One Small Girl                    | Rescue Iris and stop the crystallization spellcraft.                               |
+    | Snowberry Hunter                                    | Find the snowberry patch and gather many.                                          |
+    | A Breeze Without the Blizzard I                     | Weaken the blizzard and defeat the bigfoot on the Path of the Nullshadow.          |
+    | A Breeze Without the Blizzard II                    | Weaken the blizzard and defeat the snow wolf leader at the south lakeshore.        |
+    | Mask of Slaughter                                   | Kill all the villagers who fled.                                                   |
+    | The Old Woman and the White Maiden                  | Perform the ritual with Annis and heal Iris's eyes.                                |
+    | Warped Daphnes                                      | See the field of daphnes together with Iris.                                       |
+    | Windbreak Craftsman                                 | Reverse time on all the tree stumps and reach the church.                          |
+    | The Carpenter and His Daughter                      | Clear up Greta's misunderstanding, and have Olaf fix up the cabin.                 |
+    | The Two Are Always Together                         | Leave Maya in Marta's care.                                                        |
+    | Ultimate Ice-Wind Trout                             | Eat the most delicious trout.                                                      |
+    | A Brother to Be Proud Of                            | Find Phillip's body and return it to Elliot.                                       |
+    | Speaking to His Stone Wife                          | Reunite William and Agnes.                                                         |
+    | Father's Teachings                                  | Find Laurent's body and return it to Bernard.                                      |
     | The Search for Aegon the Wise Complete              | Escort Aegon the Wise to the Royal Family.                                         |
     | The Search for Egolion Complete                     | Deliver Egolion to the Cathedral Church.                                           |
     | The Search for Goetia the Mage Complete             | Deliver Goetia the Mage to the Admiral.                                            |
@@ -70,18 +93,28 @@
     | Fighter Sent by the Gods                            | Conduct and Inquisition on One-Legged Ted                                          |
     | Just Take What You're Given                         | Deliver the child, Leo the Urchin, to the Admiral.                                 |
     | Boss Hunter                                         | Slay the boss of the gorgon herd.                                                  |
-    
+    | [Royal Family] Canary Crystal Delivery Complete     | Deliver the canary crystals on the royal family's request.                         |
+    | [Pontiff] Canary Crystal Delivery Complete          | Deliver the canary crystals on the Pontiff's request.                              |
+    | [Admiral] Canary Crystal Delivery Complete          | Deliver the canary crystals on the Admiral's request.                              |
+    | One Who Carries the Future of Her Land              | Consult with Aegon and put an end to the witch hunts.                              |
+    | A Terrible Nightmare                                | Together with Raimi, put an end to the witch hunts.                                |
+    | Condemn the Witch                                   | Burn the witch at the stake and put an end to the witch hunts.                     |
+    | You Are Permitted to Call My Name, but Only Once    | Hand the witch over to Admiral Avare.                                              |
+    | A Witch There Was                                   | Slay the witch and conclude the witch trial.                                       |
 
 === "Adventurer"
 
     | Name                                           | Description                                                        |
     | ---------------------------------------------- | ------------------------------------------------------------------ |
     | Quivering Slime                                | Ghreen Jelly becomes a Bondmate.                                   |
-    | Water Got Priestess Regia                      | Priestess Regia becomes a Bondmate.                                |
+    | Water God Priestess Regia                      | Priestess Regia becomes a Bondmate.                                |
+    | Lucky Rabbit                                   | Betrayer Bunny becomes a Bondmate.                                 |
+    | Stonefolk Pilgrim                              | The Stonefolk Visiting the Gravestone becomes a Bondmate.          |
     | First Grade Up                                 | The Masked Adventurer was promoted to Lead Grade.                  |
     | Bronze Graded Adventurer                       | The Masked Adventurer was promoted to Bronze Grade.                |
     | Iron Graded Adventurer                         | The Masked Adventurer was promoted to Iron Grade.                  |
     | Steel Graded Adventurer                        | The Masked Adventurer was promoted to Steel Grade.                 |
+    | Copper Graded Adventurer                       | The Masked Adventurer was promoted to copper Grade.                |
     | Lead Grade Party                               | 5 allies promoted to Lead Grade.                                   |
     | Lead Grade 2nd Party                           | 11 allies promoted to Lead Grade.                                  |
     | Lead Grade 3rd Party                           | 17 allies promoted to Lead Grade.                                  |
@@ -98,66 +131,99 @@
     | Steel Grade 2nd Party                          | 11 allies promoted to Steel Grade.                                 |
     | Steel Grade 3rd Party                          | 17 allies promoted to Steel Grade.                                 |
     | Steel Grade 4th Party                          | 23 allies promoted to Steel Grade.                                 |
+    | Copper Grade Party                             | 5 allies promoted to Copper Grade.                                 |
+    | Copper Grade 2nd Party                         | 11 allies promoted to Copper Grade.                                |
+    | Copper Grade 3rd Party                         | 17 allies promoted to Copper Grade.                                |
+    | Copper Grade 4th Party                         | 23 allies promoted to Copper Grade.                                |
     | First Discipline                               | Attain Discipline Level 1.                                         |
     | Awakening to Talent                            | Attain Discipline Level 3.                                         |
     | State of Enlightenment                         | Attain Discipline Level 6.                                         |
+    | Perfect Discipline                             | Attain Discipline Level 9.                                         |
     | Those Who Attain Self-Discipline               | 5 allies have attained Discipline Level 1.                         |
     | Those Who Attain Self-Discipline II            | 5 allies have attained Discipline Level 3.                         |
     | Those Who Attain Self-Discipline III           | 5 allies have attained Discipline Level 6.                         |
+    | Those Who Attain Self-Discipline IV            | 5 allies have attained Discipline Level 9.                         |
     | Into the Well of the Mind                      | Unlock a Domain in the Well of the Mind.                           |
     | Seeker of the Mind                             | Unlock Domains in the Well of the Mind 5 times.                    |
     | Mind that Transcends All Deaths                | Unlock Domains in the Well of the Mind 12 times.                   |
+    | Mental Plane                                   | Unlock Domains in the Well of the Mind 20 times.                   |
     | Meeting a Bondmate                             | Someone you meet on your adventure becomes a Bondmate.             |
     | Meeting a Bondmate II                          | 10 people you meet on your adventure become Bondmates.             |
     | Meeting a Bondmate III                         | 20 people you meet on your adventure become Bondmates.             |
+    | Meeting a Bondmate IV                          | 30 people you meet on your adventure become Bondmates.             |
+    | Meeting a Bondmate V                           | 50 people you meet on your adventure become Bondmates.             |
     | Deepening Bond                                 | A Bondmate you made on your adventure becomes Bond Level 5.        |
     | In Traveling, a Companion, in Life, Compassion | 10 Bondmates you made on your adventure become Bond Level 5.       |
     | Fate-Bonding Journey                           | 30 Bondmates you made on your adventure become Bond Level 5.       |
+    | To Meet and Then Walk Together                 | 50 Bondmates you made on your adventure become Bond Level 5.       |
     | First Camp                                     | Camp in a dungeon 1 time.                                          |
     | Intermediate Camper                            | Camp in a dungeon 30 times.                                        |
+    | Veteran Camper                                 | Camp in a dungeon 100 times.                                       |
+    | Lives in the Dungeon                           | Camp in a dungeon 500 times.                                       |
+    | Camp Master                                    | Camp in a dungeon 1,00 times.                                      |
     | Cheers!                                        | Drink at the tavern with allies 1 time.                            |
     | Bonding over a Drink                           | Drink at the tavern with allies 30 times.                          |
     | It's on Me Today!                              | Drink at the tavern with allies 100 times.                         |
     | Drunken Party                                  | Drink at the tavern with allies 500 times.                         |
+    | Smile of the 1,000th Cup                       | Drink at the tavern with allies 1,000 times.                       |
     | Flames of the Demon                            | Accompany your ally to make good on the fire demon's broken pact.  |
     | Millennial Lord Adam                           | Vanquish Millennial Lord Adam with your ally.                      |
     | Golden-Haired Goddess Who Destroyed Everything | Complete the investigation of the island of ghosts with your ally. |
     | True-Form Skull                                | Recover Kalshum's bones with your ally.                            |
+    | Chloroan King                                  | Complete the King's Trial with your ally.                          |
+    | A Journey of Two Souls                         | See the ritual at the Shrine of Agora through to completion with your ally.|
+    | Thundersmiter's Vow                            | Bear witness to the vow of Gerard's past with your ally.           |
+    | Sentiments of the Owen Family                  | Leqrn the true intentions of House Owen with your ally.            |
 
 === "Equipment"
 
     | Name                                    | Description                                   |
     | --------------------------------------- | --------------------------------------------- |
     | Equipment Collector ★                   | Acquire 30 types of equipment.                |
-    | Equipment Collector ★★                  | Acquire 50 types of equipment.                |
-    | Equipment Collector ★★★                 | Acquire 100 types of equipment.               |
-    | Equipment Collector ★★★★                | Acquire 200 types of equipment.               |
-    | Equipment Collector ★★★★★               | Acquire 200 types of equipment.               |
+    | Equipment Collector ★★                 | Acquire 50 types of equipment.                |
+    | Equipment Collector ★★★                | Acquire 100 types of equipment.               |
+    | Equipment Collector ★★★★              | Acquire 200 types of equipment.               |
+    | Equipment Collector ★★★★★             | Acquire 350 types of equipment.               |
+    | Equipment Collector ★★★★★★           | Acquire 500 types of equipment.               | 
     | Excavator                               | Acquire a digging mattock.                    |
     | Mermaid's Necklace                      | Acquire Melgina's Choker.                     |
     | Pirates We Be                           | Acquire the Cutlass of Tyranny.               |
     | Preference for Daggers                  | Acquire 5 types of daggers.                   |
     | Dagger Collector                        | Acquire 10 types of daggers.                  |
+    | Dagger Maniac                           | Acquire 20 types of daggers.                  |
     | Preference for One-Handed Swords        | Acquire 5 types of one-handed swords.         |
     | One-Handed Sword Collector              | Acquire 10 types of one-handed swords.        |
+    | One-Handed Sword Maniac                 | Acquire 20 types of one-handed swords.        |
     | Preference for One-Handed Axes          | Acquire 5 types of one-handed axes.           |
     | One-Handed Axe Collector                | Acquire 10 types of one-handed axes.          |
+    | One-Handed Axe Maniac                   | Acquire 20 types of one-handed axes.          |
     | Preference for One-Handed Staves        | Acquire 5 types of one-handed staves.         |
     | One-Handed Staff Collector              | Acquire 10 types of one-handed staves.        |
+    | One-Handed Staff Maniac                 | Acquire 20 types of one-handed staves.        |
     | Preference for One-Handed Blunt Weapons | Acquire 5 types of one-handed blunt weapons.  |
     | One-Handed Blunt Weapon Collector       | Acquire 10 types of one-handed blunt weapons. |
+    | One-Handed Blunt Weapon Maniac          | Acquire 20 types of one-handed blunt weapons. |
+    | Preference for Ninja Tools              | Acquire 5 types of throwing weapons.          |
+    | Preference for Ninja Katanas            | Acquire 5 types of ninja katanas.             |
+    | Preference for Katanas                  | Acquire 5 types of katanas.                   |
     | Preference for Two-Handed Swords        | Acquire 5 types of two-handed swords.         |
     | Two-Handed Sword Collector              | Acquire 10 types of two-handed swords.        |
+    | Two-Handed Sword Maniac                 | Acquire 20 types of two-handed swords.        |
     | Preference for Two-Handed Spears        | Acquire 5 types of two-handed spears.         |
     | Two-Handed Spear Collector              | Acquire 10 types of two-handed spears.        |
+    | Two-Handed Spear Maniac                 | Acquire 20 types of two-handed spears.        |
     | Preference for Two-Handed Axes          | Acquire 5 types of two-handed axes.           |
     | Two-Handed Axe Collector                | Acquire 10 types of two-handed axes.          |
+    | Two-Handed Axe Maniac                   | Acquire 20 types of two-handed axes.          |
     | Preference for Two-Handed Staves        | Acquire 5 types of two-handed staves.         |
     | Two-Handed Staff Collector              | Acquire 10 types of two-handed staves.        |
+    | Two-Handed Staff Maniac                 | Acquire 20 types of two-handed staves.        |
     | Preference for Two-Handed Blunt Weapons | Acquire 5 types of two-handed blunt weapons.  |
     | Two-Handed Blunt Weapon Collector       | Acquire 10 types of two-handed blunt weapons. |
+    | Two-Handed Blunt Weapon Maniac          | Acquire 20 types of two-handed blunt weapons. |
     | Preference for Bows                     | Acquire 5 types of bows.                      |
     | Bow Collector                           | Acquire 10 types of bows.                     |
+    | Bow Maniac                              | Acquire 20 types of bows.                     |
     | Preference for Small Shields            | Acquire 3 types of small shields.             |
     | Preference for Light Shields            | Acquire 3 types of light shields.             |
     | Preference for Heavy Shields            | Acquire 3 types of heavy shields.             |
@@ -184,32 +250,47 @@
 
 === "Battle"
 
-    | Name                                | Description                        |
-    | ----------------------------------- | ---------------------------------- |
-    | Battle-Hardened                     | Achieve 100 victories in battle.   |
-    | Warrior of a Thousand Battles       | Achieve 1,000 victories in battle. |
-    | Man Loved by the Goddess of Victory | Achieve 5,000 victories in battle. |
-    | Honor of Valor                      | Slay 200 enemies.                  |
-    | Blood-Spattered Mask                | Slay 2,000 enemies.                |
-    | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.               |
-    | Endless Trail of Blood              | Slay 100,000 enemies.              |
-    | Warped One-Hunter ★                 | Slay 100 warped ones.              |
-    | Warped One-Hunter ★★                | Slay 300 warped ones.              |
-    | Warped One-Hunter ★★★               | Slay 500 warped ones.              |
-    | Boss of the Poison Swamp            | Slay a giant monster bird.         |
-    | The Rare One Quick to Run           | Slay a cursed sack doll.           |
-    | Inescapable Consequences            | Slay a red spinner woman.          |
-    | He'll Do You up a Treat, Mate.      | Slay a vorpal bunny.               |
-    | Money-Maker                         | Slay a creeping coin.              |
-    | Surprised?                          | Slay a mimic.                      |
-
+    | Name                                | Description                                          |
+    | ----------------------------------- | ---------------------------------------------------- |
+    | Battle-Hardened                     | Achieve 100 victories in battle.                     |
+    | Warrior of a Thousand Battles       | Achieve 1,000 victories in battle.                   |
+    | Man Loved by the Goddess of Victory | Achieve 5,000 victories in battle.                   |
+    | Legendary Hero                      | Achieve 50,000 victories in battle.                  |
+    | Honor of Valor                      | Slay 200 enemies.                                    |
+    | Blood-Spattered Mask                | Slay 2,000 enemies.                                  |
+    | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.                                 |
+    | Endless Trail of Blood              | Slay 100,000 enemies.                                |
+    | Undying Valor                       | Slay 1,000,000 enemies.                              |
+    | Warped One-Hunter ★                 | Slay 100 warped ones.                                |
+    | Warped One-Hunter ★★                | Slay 300 warped ones.                               |
+    | Warped One-Hunter ★★★               | Slay 500 warped ones.                               |
+    | Boss of the Poison Swamp            | Slay a giant monster bird.                           |
+    | The Rare One Quick to Run           | Slay a cursed sack doll.                             |
+    | Inescapable Consequences            | Slay a red spinner woman.                            |
+    | He'll Do You up a Treat, Mate.      | Slay a vorpal bunny.                                 |
+    | Money-Maker                         | Slay a creeping coin.                                |
+    | Surprised?                          | Slay a mimic.                                        |
+    | Playing with Hellfire               | Slay the greater demon sealed in the burial chamber. |
+    | Surprised?!                         | Slay a Golden Mimic.                                 |
+    | Bounty-Chaser I                     | Slay 5 bounty targets.                               |
+    | Bounty-Chaser II                    | Slay 10 bounty targets.                              |
+    | Bounty-Chaser III                   | Slay 20 bounty targets.                              |
+    | Bounty-Chaser IV                    | Slay 30 bounty targets.                              |
+    | Master of the Binding Rope I        | Capture 1 bounty target alive.                       |
+    | Master of the Binding Rope II       | Capture 5 bounty targets alive.                      |
+    | Master of the Binding Rope III      | Capture 10 bounty targets alive.                     |
+    
 === "Explore"
 
     | Name                                        | Description                                         |
     | ------------------------------------------- | --------------------------------------------------- |
+    | Acknowledged Fighter                        | Complete all fighter trials.                        |
+    | The Chosen Mage                             | Complete all mage trials.                           |
+    | Acknowledged Knight                         | Complete all knight trials.                         |
     | All Harkens Unlocked - Beginning Abyss      | Unlock all the Harkens in the Beginning Abyss.      |
     | All Harkens Unlocked - Trade Waterway       | Unlock all the Harkens in the Trade Waterway.       |
     | All Harkens Unlocked - Impregnable Fortress | Unlock all the Harkens in the Impregnable Fortress. |
+    | All Harkens Unlocked - Deepsnow Hinterlands | Unlock all the Harkens in the Deepsnow Hinterlands. |
     | Leave Treasure Chest Locks to Me            | Unlock treasure chests 100 times.                   |
     | Treasure Chest Unlocking Veteran            | Unlock treasure chests 1,000 times.                 |
     | Treasure Hunter                             | Unlock treasure chests 3,000 times.                 |
@@ -231,6 +312,7 @@
     | Full Belly               | Eat all dishes other than the daily special.                       |
     | 100th Login              | Log in for a total of 100 days.                                    |
     | 300th Login              | Log in for a total of 300 days.                                    |
+    | 500th Login              | Log in for a total of 500 days.                                    |
     | Character Aficionado     | Record 10 characters in the Characters category of the Compendium. |
     | Character Aficionado II  | Record 30 characters in the Characters category of the Compendium. |
     | Character Aficionado III | Record 50 characters in the Characters category of the Compendium. |

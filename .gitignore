@@ -8,3 +8,5 @@ node_modules/
 .venv/
 
 __pycache__/
+
+debug_output/

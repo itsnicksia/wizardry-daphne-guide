@@ -26,10 +26,10 @@ Request is a dive into Adam's backstory, consisting of three explorable maps. If
 ### Map
 
 ??? map "The World Map Locations"
-    ![](img/adam-world-map.png)
+    ![](img/adam-world-map.jpg)
 
 ??? map "Adam's Hometown"
-    ![](img/adam-hometown.png)
+    ![](img/adam-hometown.jpg)
 
 ## Rewards
 

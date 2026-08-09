@@ -85,6 +85,11 @@
 * Spotted
 * Not spotted
 
+### 2F Soldier's Room Corrosion Sentry
+
+* Spotted
+* Not spotted
+
 ### 2F Imprisoning Trap Corrosion Sentry
 
 * Spotted

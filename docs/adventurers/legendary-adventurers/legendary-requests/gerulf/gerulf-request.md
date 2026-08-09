@@ -59,6 +59,6 @@ the weapon has base Attack Power 92x1, other stats unchanged.
 
 ??? item "Rewards"
     === ":wiz-sword:  Firesmith's Mace"
-        ![](img/mace.png)
+        ![](img/mace.jpg)
     === ":wiz-shield:  Firesmith's Gauntlets"
-        ![](img/firesmiths-gauntlets.png)
+        ![](img/firesmiths-gauntlets.jpg)

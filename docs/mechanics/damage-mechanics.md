@@ -1,14 +1,14 @@
 # Damage and Skill Mechanics
 
 ## Surety
-There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit.
+There has been a lot of confusion around Surety and what exactly it does. Surety is simply the chance to deal a sure hit. When you increase your surety value, you increase your chance to land a sure hit. Dexterity contributes to Surety at a rate of 5 Dex = 1 Surety.
 
-By default, a sure hit acts as a 80% damage increase to the final damage you deal.
+By default, a sure hit acts as a 75% damage increase to the final damage you deal.
 
 !!! note
     Increasing your surety value does NOT increase the sure hit damage.
 
-The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.8` to `2`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
+The only skill that currently exists to increase your sure hit damage is `Way of the Thief`. At skill level 1, this increases the sure hit damage multiplier from `1.75` to `1.95`. It is possible to increase the level of this skill, however this can currently only be done through the `Codex of Learning` items that add skill experience to any skill. We'll update this when we know the multipliers for subsequent skill levels.
 
 !!! note
     Despite what was previously assumed, spells can deal Sure Hits. Most spells seem to have a very large innate negative surety value, which makes this hard to achieve. We're currently assuming it's something like -100 surety, however some spells like `TZALIK` and `True Words of Fire` appear to have a higher (possibly 0 or positive) innate surety value. We have been able to confirm that an MC Mage casting CONES is still able to land a sure hit, though, so spell surety is NOT specific to just `TZALIK` and `True Words`.
@@ -33,21 +33,25 @@ In combat, openings are critical opportunities to deal massive damage to enemies
 
 * Openings occur when an enemy is forced into a vulnerable state, marked by a gold circle icon above their head.
 * During this state, they take increased damage from the next non-spell attack they receive.
+* Physical attacks made while the enemy is affected by an Opening are guaranteed to hit.
 
-### How to Trigger Openings:
-* When a character successfully blocks or evades an attack while using `Defend`, or receives reduced damage through a passive skill like `Sanctuary's Blessing` or `Way of the Knight`, an opening is created. Magic attacks cannot create openings, but both single-target and multi-target physical attacks can. There is still a bit of uncertainty around when Openings become available with multi-target attacks, but generally it takes 2 or 3 in a row Defending to enable it. For example, some enemies seem to get put in Opening state if two people Defend, even if the third takes full, unprotected damage from an attack.
+### Requirements to Trigger Openings:
+* Enemies uses a "melee" physical attack (so minotaur rock fling doesn't count).
+* If this move can cause debuffs, then their targets must not receive debuffs from this attack.
+* Target is alive after being attacked.
+* Enemy did not get an Opening from their previous turn.
+* If this move is an AOE, you'll need a majority of the targets to be defending to obtain an opening.
+
+### Some more Opening Details:
+* Opening created through 1st action of 2 consecutive actions/turns will not be lost because of what happened with the 2nd action.
+* If defending members simultaneously gets attacked by multiple enemies, you can inflict Opening on all attackers.
 * The Opening is available to hit any time between when it pops up and the enemy's next turn. If you do not hit the Opening before the enemy moves next, the Opening disappears.
 * Note that the Knight class skills Cover and Cover All do not create openings.
 
 Openings work on all types of enemies, from basic mobs to bosses, although bosses that regularly use multi-target attacks are harder to create openings against, particularly when they mostly cast spells or multi-target attacks that hit both of your rows.
 
-!!! note
-    Opening can only be triggered on every other turn. You cannot get two consecutive turns of Opening being triggered.
-
 ### Opening Damage
-We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers, however there is a chance that it can be a sure hit. This is something that we're currently trying to test out.
-
-Assuming this formula is correct, it explains some interesting behavior we've seen in the past, such as an attack missing but still dealing some amount of Opening damage. In addition, assuming the `HP%Damage` portion can be a sure hit, it also explains why sometimes an Opening attack just seems to deal a larger than normal amount of damage against an enemy. More to come here as we test it and determine the actual behavior.
+We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers.
 
 ### Way of the Thief Modifier
 
@@ -130,7 +134,7 @@ As an example, suppose you meet the following criteria:
 * You have changed your MC's type to Earth
 * You are attacking a Water enemy
 
-In this scenario, your `200` damage would become `200 * 1.1 * 1.1 * 1.1 * 1.3 * 1.25 ~= 436`. If you went on to land a sure hit, that damage would instead become `872`. Lastly, if you happened to land that sure hit on a sleeping enemy, you would be looking at `1744` damage with a simple basic attack.
+In this scenario, your `200` damage would become `200 * 1.1 * 1.1 * 1.1 * 1.3 * 1.25 ~= 436`. If you went on to land a sure hit, that damage would instead become `851`. Lastly, if you happened to land that sure hit on a sleeping enemy, you would be looking at `1702` damage with a simple basic attack.
 
 This will increase even further as you factor in the damage from skills, attack power buffs, defense debuffs, and defense penetration/ignore.
 

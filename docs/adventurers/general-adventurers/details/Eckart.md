@@ -1,30 +1,66 @@
-# Eckart
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Dwarf  
-**Gender**: Male  
-**Type**: Fire  
-**Personality**: Good  
-**Starting Class**: Knight  
-**Class Change**: Priest  
-**Role**: Support
+   title: Eckart
 
-??? info "Portraits"
-    === "Knight"
-        ![](../img/eckart-knight.png)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-    === "Priest"
-        ![](../img/eckart-priest.png)
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-## Skills
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock %} 
 
-!!! info "Inheritable Skill"
-    === "Attract Hit"
-        Minor physical attack on 1 enemy. User becomes more easily targeted by the affected enemy for 3 turns. Efficacy increased and user becomes more easily targeted by enemies, based on skill level.
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Eyes of a Hero"
-        Increases Accuracy when equipped with a one-handed or two-handed sword.
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
 
-!!! info "Discipline Skill"
-    === "Knight's Creed"
-        Continuously increases each stat, Attack Power and Stun Tolerance increased further.
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
+
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
+
+<!--
+## Adventurer Reviews
+
+??? info "ABC's Analysis"
+    -text-
+
+??? info "DEF's Analysis"
+    -text-
+-->
+
+<!--
+## Adventurer Pull Plans
+
+??? note "ABC's Pull Plan"
+    -text-
+-->
+
+{%endblock ReviewsAndAnalysis %}

@@ -1,5 +1,8 @@
 # Old Castle Ruins - Season 2
 
+## Overview
+The Old Castle Ruins event is a seasonal competition open to all players of a certain level. Once unlocked the town is always available on the World Map, but you can only enter the Ruins when an event is ongoing. The Ruins is a multi-floor castle broken into groups of floors, each group having a common set of enemies and a boss. Each floor group ends in a boss level where you re-fight all previous bosses in that group. The MC dying causes you to be sent back outside, no in-dungeon reversal. Reaching higher floors earns rewards and currency for a Ruins shop. There are best score leaderboards where rank can earn additional rewards at the end of the season.
+
 !!! bug "Due to the overwhelming amount of bugs for season 2, the leaderboards have been wiped and everyone will be receiving rank 1 rewards. Thank you Drecom"
 
 All floors are static. Efficiency is measured by how fast you complete the floor
@@ -21,36 +24,36 @@ The main character needs to reach Bronze Grade. After advancing to Bronze Grade,
 
 ## Boss Rush Floors (5,10,15,20)
 
-![](img/boss-rush.png)
+![](img/boss-rush.jpg)
 
 ## Floor 2-4
-![](img/floor2.png)
+![](img/floor2.jpg)
 
-![](img/floor3.png)
+![](img/floor3.jpg)
 
-![](img/floor4.png)
+![](img/floor4.jpg)
 
 ## Floor 7-9
-![](img/floor7.png)
+![](img/floor7.jpg)
 
-![](img/floor8.png)
+![](img/floor8.jpg)
 
-![](img/floor9-1.png)
+![](img/floor9-1.jpg)
 
 ## Floor 12-14
-![](img/floor12.png)
+![](img/floor12.jpg)
 
-![](img/floor13.png)
+![](img/floor13.jpg)
 
-![](img/floor14.png)
+![](img/floor14.jpg)
 
 ## Floor 17-19
 
-![](img/floor17-1.png)
+![](img/floor17-1.jpg)
 
-![](img/floor18.png)
+![](img/floor18.jpg)
 
-![](img/floor19-1.png)
+![](img/floor19-1.jpg)
 
 ### Floor 20 Bosses
 1. Mimic + Succubus

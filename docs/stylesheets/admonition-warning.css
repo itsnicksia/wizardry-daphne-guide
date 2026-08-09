@@ -15,6 +15,3 @@
   -webkit-mask-image: var(--md-admonition-icon--warning);
           mask-image: var(--md-admonition-icon--warning);
 }
-.md-typeset .admonition, .md-typeset details {
-  font-size: .85rem;
-}

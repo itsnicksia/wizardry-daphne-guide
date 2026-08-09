@@ -2,6 +2,9 @@
 
 !!! warning "**Warning: This guide contains spoilers.**"
 
+!!! warning "**Disclaimer:**"
+    Since this is a community-maintained site, there is only so much we are able to do during our free time. There may be out of date content on multiple pages here.We do our best to keep things up to date, but stuff does slip through the cracks. When in doubt, reach out to us in Discord or submit a pull request to update content as needed.
+
 <div class="grid cards" markdown>
 
 -   __New to Wizardry Variants: Daphne?__
@@ -11,35 +14,35 @@
     **Abyss Guides**
 
     - [Introduction](./abyss-guides/0-introduction/index.md)
-    - [Beginning Abyss](./abyss-guides/1-beginning-abyss/important-request-gwo.md)
-    - [Port Town Legion](./abyss-guides/2-port-town-grand-legion/important-request-gwo.md)
-    - [Guarda Fortress](./abyss-guides/3-guarda-fortress/important-request-gwo.md)
+    - Beginning Abyss: [Maps](./abyss-guides/1-beginning-abyss/maps.md), [Main Quest Guide](./abyss-guides/1-beginning-abyss/important-request-gwo.md)
+    - Port Town Legion: [Maps](./abyss-guides/2-port-town-grand-legion/maps.md), [Main Quest Guide](./abyss-guides/2-port-town-grand-legion/important-request-gwo.md)
+    - Guarda Fortress: [Maps](./abyss-guides/3-guarda-fortress/maps.md), [Main Quest Guide](./abyss-guides/3-guarda-fortress/important-request-gwo.md)
+    - Isberg: [Maps](./abyss-guides/4-isberg/maps.md), [Main Quest Guide](./abyss-guides/4-isberg/important-request-gwo.md)
 
 
 -   __How Do I Get Stronger?__
 
     ---
 
-    **Adventurer Customization**
+    **Adventurer and Party Customization**
 
-    - [Building Your Party](./adventurer-customization/party-construction.md)
-    - [Blacksmithing](./adventurer-customization/blacksmithing/index.md)
-    - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)
-    - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)
-
--   __Raising Trust__
-
-    ---
-
-    - [Trust Guide](./mechanics/trust/trust.md)
-    - [Trust Dialogue](./mechanics/trust/table.md)
+    - [Building Your Party](./strategies/party-construction.md)  
+    - Better Equipment: - [Blacksmithing](equipment/blacksmithing.md), [Equipment stat tables](equipment/equipment-tables.md)  
+    - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)  
+    - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)  
+    - [Relicbrew Guide](./adventurer-customization/relicbrew.md)  
+    - Stat/Skill Enhancement: [Discipline](mechanics/discipline-and-inheritance.md#discipline), [Inheritance](mechanics/discipline-and-inheritance.md#Inheritance)  
+    - [Merging Styles](mechanics/merging.md)  
+    - [Class Change](./adventurer-customization/class-changes.md)  
+    - **Raising Trust** - [Trust Guide](./mechanics/trust/trust.md), [Trust Dialogue Chart](./mechanics/trust/table.md)  
 
 -   __Tools__
 
     ---
 
     - [Respawn Tracker](./tools/tracker.md)
-    - [Blacksmithing Simulator (preview)](./tools/blacksmith-simulator.md)
+    - [Loot Finder](./tools/loot-finder.md)
+    - [Equipment Enhancement (Beta)](./tools/equipment-enhancement.md)
 
 -   __Game Download__
 
@@ -56,6 +59,19 @@
     - [Frequently Asked Questions](frequently-asked-questions.md)
 
 </div>
+
+## Promotional Codes
+
+Promotional codes can be entered via the [Official Wizardry Store](https://store.wizardry.info/)
+
+![Promo Code Entry](img/promo-codes.png)
+
+### Active Codes
+| Code       | Contents       | Source             |
+|------------|----------------|--------------------|
+| `834ZG0vew8` | 200 Gem of Org | Social Media Event |
+| `FhjW4rRMy1` | 200 Gem of Org | Social Media Event |
+| `mfQ3tBS7lb` | 200 Gem of Org | Social Media Event |
 
 ## About the Guide
 
@@ -78,20 +94,38 @@ Good Luck, and **Savor the Risk!**
 - [Feedback and Suggestions (Discord: #guide-contributions)](https://discord.com/channels/1296602475918524507/1310256313720377364)
 - [GitHub Contributions](./CONTRIBUTING.md)
 
-
 ## Maintainers
 
-- Baldcat
 - Gagging
+- Lightbearer
 - Lynd
-- TheAxolotl
-- SocialX
 - nrjank
+- seVen
+- TheAxolotl
 
-## Resources
+## Domain Owner
+
+- Baldcat
+
+## Additional Resources
 
 [Official Wizardry Portal](https://wizardry.info/en)  
 [Wizardry Subreddit](https://www.reddit.com/r/wizardry/)  
 [Wizardry Daphne Subreddit](https://www.reddit.com/r/WizardryDaphne/)  
 [Wizardry Wiki](https://wizardry.wiki.gg/wiki/Wizardry_Wiki)  
 [Wizardry Subreddit and Wiki Discord](https://discord.gg/cknNfGG7YC)
+
+## Additional Community Links
+
+While we love that you come to this site for your Wizardry Variants Daphne needs, we recognize that there are many folks in the community out there that have their own spreadsheets, Discord servers, and various other resources. Below is a list of helpful resources that we encourage you to explore. If you're interested in having a link to your stuff here, feel free to reach out to any of the Fasterthoughts maintainers in Discord above!
+
+- [Beautiful Demise's Relic Database](https://docs.google.com/document/d/17V8hpp1BenAwvIckacvj4JCiiFsNsTq1QPmNFXlaAjw/edit?tab=t.0)
+    - We'll eventually absorb this one into the site, but until then, check out out!
+- [Beautiful Demise's Solo MC Adventurers](https://drive.google.com/drive/u/1/folders/1DqcTdBC1u6NfRLZzvsJ-z3CRWtWX_N0p)
+    - Follow along with her in this commented directory of images and videos as she takes MC through as much content as possible solo
+- [CQ's Jeweler Price Evaluator](https://docs.google.com/spreadsheets/d/1ITOduyH5KIfmxcwUk7lXLROQUHE0v4iJXKY7bJ3MwIU/edit?gid=1551869307#gid=1551869307)
+    - We'll also eventually absorb this one into the site, but for now, look at it here
+- [Shiro's Not So Short Guide Spreadsheet](https://docs.google.com/spreadsheets/d/1ft6ovj212BiTIBlWihbFX2robYwwevsi0jJzkzo6E3s/edit?gid=1465709314#gid=1465709314)
+
+!!! warning "Obligatory Disclaimer"
+    We cannot guarantee the accuracy of other community member's work and do not endorse any recommendations on team compositions or individual units.

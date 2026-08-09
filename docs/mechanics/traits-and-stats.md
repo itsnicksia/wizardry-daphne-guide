@@ -15,15 +15,15 @@ Trait Points are the core seven attributes that influence an adventurer's stats.
 * **Luck**: Affects the outcome of various actions.
 
 !!! note
-    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, it's not entirely clear how `Dexterity` affects `Surety`, but the increase does appear to be very small. In addition, despite the game telling us that HP, MP, and SP are influenced by some traits, the actual amounts appear to be too small to be easily noticeable.
+    The exact influence of the trait points on stats depends in part of an adventurer's class multiplier, but there are also quite a few unknown factors. For example, we know that `Dexterity` increases `Surety` at a rate of 5 `Dexterity` = 1 `Surety`, but we don't know exactly how HP, MP, and SP are influenced by traits.
 
 ### Base Trait Points
 
-The base trait points an adventurer starts with considers multiple factors, including gender, race, class, and element type. Using this table, we can calculate the base traits for an given adventurer.
+The base trait points an adventurer starts with considers multiple factors, including gender, race, class, and element type. Using this table, we can calculate the base traits for any given adventurer.
 
 |        |                       | Strength |  IQ | Piety | Vitality | Dexterity | Speed | Luck |
-|:------:|:---------------------:|:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
-|  Base  |                       |    10    |  10 |   10  |    10    |     10    |   10  |  10  |
+|:-------|:----------------------|:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
+|  Base  |                       |    11    |  11 |   11  |    11    |     11    |   11  |  11  |
 |        |                       |          |     |       |          |           |       |      |
 | Gender |          Male         |    +1    |     |       |    +1    |     +1    |       |      |
 |        |         Female        |          |  +1 |   +1  |          |           |   +1  |      |
@@ -32,6 +32,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |          Elf          |    -2    |  +3 |   -1  |    -2    |     +2    |   +1  |  -1  |
 |        |         Dwarf         |    +2    |  -2 |   +1  |    +3    |     +3    |   -4  |  -3  |
 |        |       Beastfolk       |    -1    |  +1 |   -4  |    +2    |     +2    |   +3  |  -3  |
+|        |         Fairy         |    -5    |  +3 |   -2  |    -3    |     +2    |   +6  |  +2  |
 |        |                       |          |     |       |          |           |       |      |
 |  Type  |          Fire         |    +2    |     |       |    +1    |           |       |      |
 |        |          Air          |          |     |       |          |     +1    |   +2  |      |
@@ -39,17 +40,19 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |         Water         |          |  +2 |   +1  |          |           |       |      |
 |        |         Light         |          |     |   +2  |          |           |       |  +1  |
 |        |          Dark         |          |  +2 |       |          |           |       |  +1  |
-|        |          Void         |     ?    |  ?  |   ?   |     ?    |     ?     |   ?   |   ?  |
 |        |                       |          |     |       |          |           |       |      |
-|  Class |        Fighter        |    +3    |  +1 |   +1  |    +2    |     +2    |   +1  |  +1  |
-|        |         Knight        |    +3    |  +1 |   +2  |    +3    |     +1    |   +1  |  +1  |
-|        |         Thief         |    +1    |  +1 |   +1  |    +1    |     +2    |   +3  |  +2  |
-|        |         Priest        |    +1    |  +2 |   +3  |    +1    |     +1    |   +1  |  +2  |
-|        |          Mage         |    +1    |  +3 |   +1  |    +1    |     +2    |   +2  |  +1  |
-|        |         Ninja         |    +2    |  +1 |   +1  |    +1    |     +2    |   +3  |  +2  |
-|        |        Samurai        |    +3    |  +2 |   +1  |    +2    |     +2    |   +1  |  +1  |
-|        | Mage of the Black Rod |     ?    |  ?  |   ?   |     ?    |     ?     |   ?   |   ?  |
-|        |       Tall Mage       |    +2    |  +2 |   +1  |    +1    |     +2    |   +1  |  +1  |
+|  Class |        Fighter        |    +2    |     |       |    +1    |     +1    |       |      |
+|        |         Knight        |    +2    |     |   +1  |    +2    |           |       |      |
+|        |         Thief         |          |     |       |          |     +1    |   +2  |  +1  |
+|        |         Priest        |          |  +1 |   +2  |          |           |       |  +1  |
+|        |          Mage         |          |  +2 |       |          |     +1    |   +1  |      |
+|        |         Ninja         |    +1    |     |       |          |     +1    |   +2  |  +1  |
+|        |        Samurai        |    +2    |  +1 |       |    +1    |     +1    |       |      |
+|        |         Ranger        |    +1    |     |       |          |     +2    |   +1  |  +1  |
+|        |         Healer        |    +1    |  +3 |   +3  |    +1    |     +1    |   +2  |  +1  |
+|        |       Tall Mage       |    +1    |  +1 |       |          |     +1    |       |      |
+|        |   Silver-Haired Nun   |    +1    |  +1 |   +2  |    +2    |     +1    |       |  +1  |
+
 
 ## Stats
 
@@ -59,48 +62,57 @@ The base trait points an adventurer starts with considers multiple factors, incl
 
 === "Offensive Stats"
 
-    | Class     | Attack Power | Magic Power | Divine Power | Accuracy |
-    | --------- | ------------ | ----------- | ------------ | -------- |
-    | Wanderer  | 1.1          | 0.7         | 0.7          | 1        |
-    | Knight    | 1.1          | 0.5         | 1            | 1        |
-    | Fighter   | 1.2          | 0.5         | 0.6          | 1        |
-    | Thief     | 1            | 0.6         | 0.5          | 1.1      |
-    | Ninja     | 1            | 0.75        | 0.3          | 1.15     |
-    | Samurai   | 1            | 1           | 0.6          | 1        |
-    | Priest    | 0.9          | 0.9         | 1.2          | 0.9      |
-    | Mage      | 0.5          | 1.2         | 1            | 0.7      |
-    | Black Rod | 1.05         | 1           | 0.6          | 1        |
-    | Tall Mage | 1            | 1           | 0.8          | 1.1      |
+    | Class             | Attack Power | Magic Power | Divine Power | Accuracy | Surety |
+    | ----------------- | ------------ | ----------- | ------------ | -------- | ------ |
+    | Wanderer          | 1.1          | 0.7         | 0.7          | 1        | 0.2    |
+    | Knight            | 1.1          | 0.5         | 1            | 1        | 0.2    |
+    | Fighter           | 1.2          | 0.5         | 0.6          | 1        | 0.2    |
+    | Thief             | 1            | 0.6         | 0.5          | 1.1      | 0.2    |
+    | Ninja             | 1            | 0.75        | 0.3          | 1.15     | 0.2    |
+    | Samurai           | 1            | 1           | 0.6          | 1        | 0.2    |
+    | Ranger            | 1            | 0.75        | 0.3          | 1.3      | 0.2    |
+    | Priest            | 0.9          | 0.9         | 1.2          | 0.9      | 0.2    |
+    | Mage              | 0.5          | 1.2         | 1            | 0.7      | 0.2    |
+    | Healer            | 0.4          | 1.1         | 1.1          | 0.6      | 0.2    |
+    | Black Rod         | 1.05         | 1           | 0.6          | 1        | 0.2    |
+    | Tall Mage         | 1            | 1           | 0.8          | 1.1      | 0.2    |
+    | Silver-Haired Nun | 1            | 0.75        | 1.1          | 1        | 0.2    |
 
 === "Defensive Stats"
 
-    | Class     | Defense | Magic Defense | Evasion | Resistance |
-    | --------- | ------- | ------------- | ------- | ---------- |
-    | Wanderer  | 1.05    | 0.9           | 0.9     | 0.9        |
-    | Knight    | 1.15    | 1.15          | 0.7     | 1.05       |
-    | Fighter   | 1.05    | 0.9           | 0.9     | 0.9        |
-    | Thief     | 0.95    | 0.95          | 1.1     | 0.89       |
-    | Ninja     | 0.95    | 1             | 1.15    | 0.89       |
-    | Samurai   | 0.95    | 0.95          | 0.9     | 0.89       |
-    | Priest    | 1       | 1.1           | 0.8     | 1          |
-    | Mage      | 0.9     | 1.1           | 0.7     | 0.9        |
-    | Black Rod | 1       | 0.9           | 0.85    | 0.89       |
-    | Tall Mage | 1       | 0.95          | 0.7     | 0.85       |
+    | Class             | Defense | Magic Defense | Evasion | Resistance |
+    | ----------------- | ------- | ------------- | ------- | ---------- |
+    | Wanderer          | 1.05    | 0.9           | 0.9     | 0.9        |
+    | Knight            | 1.15    | 1.15          | 0.7     | 1.05       |
+    | Fighter           | 1.05    | 0.9           | 0.9     | 0.9        |
+    | Thief             | 0.95    | 0.95          | 1.1     | 0.89       |
+    | Ninja             | 0.95    | 1             | 1.15    | 0.89       |
+    | Samurai           | 0.95    | 0.95          | 0.9     | 0.89       |
+    | Ranger            | 0.9     | 0.9           | 0.85    | 0.89       |
+    | Priest            | 1       | 1.1           | 0.8     | 1          |
+    | Mage              | 0.9     | 1.1           | 0.7     | 0.9        |
+    | Healer            | 0.95    | 1.1           | 1       | 1.35       |    
+    | Black Rod         | 1       | 0.9           | 0.85    | 0.89       |
+    | Tall Mage         | 1       | 0.95          | 0.7     | 0.85       |
+    | Silver-Haired Nun | 1.15    | 1.15          | 0.7     | 1          |
 
 === "Utility Stats"
 
-    | Class     | Detect | Disarm Trap | Evade Trap | Action Speed |
-    | --------- | ------ | ----------- | ---------- | ------------ |
-    | Wanderer  | 1      | 1           | 1          | 0.9          |
-    | Knight    | 0.8    | 0.8         | 0.8        | 0.75         |
-    | Fighter   | 0.9    | 0.9         | 0.9        | 0.9          |
-    | Thief     | 0.95   | 1.1         | 1.15       | 1            |
-    | Ninja     | 0.95   | 1           | 1          | 1            |
-    | Samurai   | 0.6    | 0.6         | 0.6        | 0.85         |
-    | Priest    | 1      | 0.9         | 0.9        | 0.9          |
-    | Mage      | 1.15   | 0.85        | 0.85       | 0.85         |
-    | Black Rod | 0.9    | 0.9         | 0.9        | 0.85         |
-    | Tall Mage | 0.8    | 0.85        | 0.8        | 0.85         |
+    | Class             | Detect | Disarm Trap | Evade Trap | Action Speed |
+    | ----------------- | ------ | ----------- | ---------- | ------------ |
+    | Wanderer          | 1      | 1           | 1          | 0.9          |
+    | Knight            | 0.8    | 0.8         | 0.8        | 0.75         |
+    | Fighter           | 0.9    | 0.9         | 0.9        | 0.9          |
+    | Thief             | 0.95   | 1.1         | 1.15       | 1            |
+    | Ninja             | 0.95   | 1           | 1          | 1            |
+    | Samurai           | 0.6    | 0.6         | 0.6        | 0.85         |
+    | Ranger            | 1.25   | 0.8         | 1.2        | 0.9          |
+    | Priest            | 1      | 0.9         | 0.9        | 0.9          |
+    | Mage              | 1.15   | 0.85        | 0.85       | 0.85         |
+    | Healer            | 0.5    | 0.5         | 0.5        | 0.95         |
+    | Black Rod         | 0.9    | 0.9         | 0.9        | 0.85         |
+    | Tall Mage         | 0.8    | 0.85        | 0.8        | 0.85         |
+    | Silver-Haired Nun | 0.9    | 0.9         | 0.9        | 0.8          |
 
 #### Formulae
 - **Attack Power**: (X * STR)
@@ -118,23 +130,142 @@ The base trait points an adventurer starts with considers multiple factors, incl
 
 Looking at the above charts, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not a direct 1:1 relationship due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be `70*1.2=84`, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of `60*1.2=72`, or a difference of `12`. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
 
-#### Errata
+#### Errata  
 
-**Detect:** Formula is correct, but multipliers might be off
-**Disarm Trap:** Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm
-**Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work. 
+- **Detect:** Formula is correct, but multipliers might be off  
+- **Disarm Trap:** Treasure Trap Disarm Skill Lv1 adds 10 + 10% of disarm  
+- **Resistance:** There is almost definitely a rounding bug of some kind here but these are the numbers that work.   
 
-### IVs
-An IV is an extra bonus Trait Point that exists on an adventurer when you create them, and it shows up as something we previously termed a "hidden bonus point." There is some evidence that this impacts Trait Point growth, with an IV in a Trait Point leading towards an adventurer having a higher value for that Trait Point than a copy of that adventurer without the IV. The biggest unknown around IVs, though, is exactly what the IV means for long-term adventurer development. Assuming we will eventually be at a maximum level of 130, it's possible that the IV means a particular Trait Point will get to a "maximum value" faster but by level 130, all copies of an adventurer will have the same Trait Point values.
+### Class specific stat point *suggestions*
+Because one adventurer can only have a limited number of items, bondmates, etc., equipped, and those have limited stat impact, we are often asked what stats players should focus on. There is no hand ard fast rule for this as optimal stat build will depend somewhat on playstyle. However, apart from some obvious things (e.g., generally don't stack Attack on a Mage or Magic Power on a Thief), here are some guide community blanket build recommendations by class **focused on current end-game play (currently Abyss 4)**:
 
-TheAxolotl's personal opinion on IVs is that when you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
+- Base Classes  
+    - Fighter: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss  
+    - Knight:  enough ASPD to make up for low base, then DEF for cover. Otherwise see Fighter.  
+    - Thief: SUR > ATK > ASPD, while ensuring enough ACC to rarely miss  
+    - Priest: ASPD > DIV > MDEF=RES.  Note some 'bishop' builds with inherited Mage spells may focus on MAG instead of DIV once you have enough for heals.   
+    - Mage: ASPD > MAG > MDEF=RES.  
+- Advanced Classes  
+    - Ninja: SUR = ATK > ASPD. You probably have enough ACC.  
+    - Samurai: SUR > MAG = ATK > ACC = ASPD  
+    - Ranger:  SUR > ACC > ASPD > ATK  
 
-!!! note "You will never ruin an adventurer by selecting one with no IV or a less than ideal IV."
+You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely worth building because the game mechanics strongly devalue their impact. Similarly, RES formulas described below show base RES suffers greatly versus specific Tolerance boosts. Last, while EVA is EXTREMELY STRONG IN ABYSSES 1 and 2, and arguably could be placed first for all melee classes at game start, in Abyss 3 and beyond enemies start getting very high ACC. There it becomes far more important to just kill them first rather than hoping you dodge/defend. And if it is something you can't kill first, likely you also couldn't dodge it.
+
+### Trait Boost (IV)
+
+!!! warning "You will never ruin an Adventurer by using one with no IV or a less than ideal IV."
+
+#### Overview
+
+=== "IV Definition" 
+
+    - At creation a unit's trait growth rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
+    - The elevated growth rate translate to 5-10 additional trait points, on average, at Level 70 absent BP allocation. 
+    - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
+    - A unit can only ever have one IV trait.
+
+=== "How to Identify a IV" 
+
+    === "At Level 1" 
+    
+        - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
+        - There are two primary ways to check for a IV:
+            - When first pulled at the Ruins. 
+            - When registering a unit from the Adventure Log.
+
+    === "At Level 2+"
+    
+        - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
+        - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
+        - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
+        - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
+
+=== "IV Example"
+    
+    === "Gandolfo Base Traits"
+
+        - These are Gandolfo's default trait or Neutral IV values.
+
+        <div align="center">
+        ![](./img/gandolfo-neutral-iv.PNG)
+        </div>
+
+    === "Gandolfo IV Strength"
+
+        - Gandolfo's standard base Strength is 14. 
+        - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
+        
+        <div align="center">
+        ![](./img/gandolfo-str-iv.PNG)
+        </div>
+
+=== "Hidden IVs" 
+
+    - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits.
+    - The Drecom official tables (see next tab) can be used to confirm whether a unit has a Hidden IV or not in their default class. 
+    - To check for a Hidden IV:
+        - Go to the Training Room - Class Change. 
+        - Select their second class and see if they have a +1 to the trait you are targeting. Note that this only works if their second class is at Level 1.  
+        - Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
+    - They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
+    - Mechanically, the class modifier is depressing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
+
+=== "Drecom Official Tables"
+
+    === "How to Navigate" 
+
+        - Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=Stat%20Drop%20Rates%20by%20Adventurer).
+        - If that link is not working properly, then scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
+
+    === "Trait Pattern System" 
+
+        - Total of 8 possible "patterns" (P#) with a 12.5% chance for each.
+        - The pattern entries show whether a IV is possible in the following order:
+            - P1: Strength
+            - P2: IQ
+            - P3: Piety
+            - P4: Vitality
+            - P5: Dexterity
+            - P6: Speed
+            - P7: Luck
+            - P8: Base or Neutral IV
+        - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) [entry](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=10%20(75.0000%25)-,11%20(25.0000%25),-16) for an example.
+            - Some units have "Hidden IVs", which means they are not visible in their default class. 
+
+#### Perspectives 
+
+Whether a IV is present or not will never make-or-break a unit. It is just a small bonus. Class and Race are the primary drivers of trait growth. For example: 
+
+- An Elf Mage will always have excellent IQ growth even if they are a IV DEX.
+- A IV SPD Dwarf Fighter will still have low SPD at level 70 since the additional IV growth is modifying an already low base growth rate.
+- In summary, even if you have a IV with a high degree of synergy (e.g., Beastfolk Thief with IV SPD) the difference will only be 5-10 additional SPD points over a Neutral IV copy. With poor synergy (e.g., Human Ninja with IV VIT) the difference, on average, is 5-7 points. 
+
+One of the biggest unknowns is the value of a IV trait over the long-term. For example, assuming the final level cap is set to 130, it could be the case that all units will eventually hit some maximum trait value, but that a IV gets you to the cap faster. Conversely, we might see growing differences in total stat differences between IV and Neutral IV copies at each new level cap. There is also the possibility that Drecom might rework the entire trait scaling system in the future.   
+
+??? note "Personal Opinions" 
+
+    === "TheAxolotl"
+    
+        When you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
+
+    === "Karkarov" 
+    
+        Personal opinion is much the same as TheAxolotl's.  Ultimately it depends on the player, those who are happy to spend money and "whale" should absolutely be picky and wait for that perfect Character copy with the desired meta level 1 Traits.  For the average player who is Free to Play you should just use what you have and know that this is not going to make or break a Character. There are many ways to tweak your ultimate Trait values, from gear, to bondmates, to brews, etc etc.  There is no such thing as a "bad Character" in Daphne.
 
 ### Trait Point Variance
-Trait Points can vary across two copies of the same Adventurer, and this is due to a combination of level growth, which have an element of randomness, and bonus points. For example, one level 50 Adam could end up with 59 IQ, while another could end up with 73 IQ. We don't have a full understanding of the degree of variance, but when looking at those two Adams, using the chart above, you can see that there's only a difference in Magic Power of `(73-59)*1.2=16.8`. That is not a large difference, especially as our Magic Power increases through equipment.
+
+Trait Points can vary across two copies of the same Adventurer, and this is due to a combination of level growth, which have an element of randomness, how bonus points were spent, and Boost/IV. For example, one level 50 Adam could end up with 59 IQ, while another could end up with 73 IQ. We don't have a full understanding of the degree of variance from level growth and Boost/IV, but when looking at those two Adams, using the chart above, you can see that there's only a difference in Magic Power of `(73-59)*1.2=16.8`. That is not a large difference, especially as our Magic Power increases through equipment.
 
 What does that mean? Ultimately, the impact of trait points on stats is significantly smaller than the impact of equipment on stats.
+
+One popular myth to be aware of, "Lower Fortitude = Highter Trait Growth".  This is a popular theory on Social Media based on anecdotal observations but is not true. A lower Fortitude Adventurer does not benefit from extra Trait growth and is no more likely to have high Trait growth than a 100 Fortitude character.
+
+What about Legendary VS General VS Anonymous Adventurers, is there a difference?  Advanced Classes VS Normal Classes?  Yes, there is a difference on both counts.
+
+Legendary Adventurers generally have slightly higher overall Trait growth VS General and Anonymous Adventurers, while General and Anonymous Adventurers have the same growth.  Likewise Advanced Classes (Samurai and Ninja) generally have higher Trait growth than the Standard Classes.
+
+Please understand this will not massively impact a non Legendary or Advanced Class Adventurers potential.  You could potentially see gaps around 20 total Trait points comparing say Shiou to Olive at level 60.  For a more fair comparison, Livana compared to Olive at 60 would be around a 5-8 point total difference on average.  
 
 ## What Do Trait Points And Stats Mean For Bonus Points?
 We've often found ourselves saying bonus points don't matter. This is both true and not true. In one sense, it's not true because there can be a large visible difference between primary stats across Adventurers, however in another sense, it is true because the overall in-battle impact of bonus points is small.
@@ -144,13 +275,24 @@ There aren't really any bad options here, but the community tends to recommend e
 
 TheAxolotl generally (but not always) does the following for his bonus points:
 
-* Fighter: Strength or Luck
+* Fighter: Strength, Dexterity, or Luck
 * Knight: Luck
 * Thief: Strength, Dexterity, Speed, or Luck
 * Mage: IQ or Speed
 * Priest: Speed, but it largely depends on what its second class is, if one exists
 * Ninja: Strength, Dexterity, or Luck if planning on inheriting Follow Up Attack and Counterattack
-* Samurai: Strength, IQ, Speed, or Luck (if factoring in inherited passive skills)
+* Samurai: Strength, IQ, Dexterity, Speed, or Luck (if factoring in inherited passive skills)
+
+Karkarov typically suggests spending bonus points as follows:
+
+* Fighter: Strength or Dexterity... Unless the Character will only be used for Auto Farming, then go Luck.
+* Knight: Strength Speed.  Luck if you want more survivability/Knight Skill synergy.
+* Thief: Strength.
+* Mage: IQ or Speed.
+* Priest: Speed.
+* Ninja: Strength.
+* Samurai: Strength, IQ, or Speed are all viable.
+* NOTE: If you plan to long term permanently Class change the Character, choose based on the destination Class, not the base Class.
 
 !!! note "You will never ruin an adventurer with your bonus point assignment."
 
@@ -162,9 +304,10 @@ Your stats page power is calculated through the following formula, which factors
 ### Power Formula
 
 !!! note
-    The formula has been updated now that we have another tier of gear to look at, and it appears to be correct for both Ebonsteel tier gear and lower. 
+    The formula has been updated now that we have another tier of gear to look at, and it appears to be correct for both Ebonsteel tier gear and lower.
+    This formula has also been updated and simplified to incorporate the new `Strength+` calculations. 
 
-`StatsPagePowerValue = SpecialCeiling(MainStat * ClassMod * Sum(%BlessingValues)) + Sum(ScalarBlessingValues) + Sum(ScalarEquipmentValues) + Sum(ScalarSkillValues) + Sum(ScalarTraitMods)`
+`StatsPagePowerValue = (SpecialCeiling(TraitPoint * ClassMod * Sum(%BlessingValues)) + Sum(ScalarBlessingValues)) * (1 + Strength+WeaponMod) + Sum(OtherValues)`
 
 ### Power Formula Variable Definitions
 * `StatsPagePowerValue` is the final power value you see displayed on the stats page.
@@ -172,23 +315,222 @@ Your stats page power is calculated through the following formula, which factors
     * For example, if you have a Fighter with `51` Strength, the naked, skill-less attack power is `62` instead of the expected `61.2` or even `61` as normal rounding would work. This is the same value you get if you completely unequip a character, then subtract the parenthesized value on the stats page.
     * Continuing the example above, if I completely unequip my Fighter MC, his Strength shows `51(+0)` on the stats page, while his Attack Power shows `93(+31)` on the stats page. Subtracting the `31` from the `93` gives us the `62` that matches `Ceiling(51*1.2)`.
         * This does mean that when reading your stats page, a value of `93(+31)` simply says that `31` points of those `93` total points came from skills. It does not mean that you add the `31` to the `93`. Weird, right?
-* `MainStat` is `Strength`, `IQ`, or `Piety`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, or `Divine Power` respectively.
+* `TraitPoint` is `Strength`, `IQ`, or `Piety`, depending on if you're trying to calculate `Attack Power`, `Magic Power`, or `Divine Power` respectively.
 * `ClassMod` is based on the stats chart above. As an example, Fighters have a `ClassMod` for `Strength` of `1.2`.
 * `Sum(%BlessingValues)` is self-explanatory, but it's the addition of all percentage (example `ATK+19%`) blessing values from your equipment.
 * `Sum(ScalarBlessingValues)` is self-explanatory, but it's the addition of all scalar (example `ATK+11`) blessing values from your equipment.
-* `Sum(ScalarEquipmentValues)` is the summation of the baseline power value of all your equipment. For example, this value is `118` for a `+15 Steel Two-Handed Spear`.
-* `Sum(ScalarSkillValues)` is the sum of all stat values from skills. This ultimately just that parenthesized value on your stats page, and it does adjust automatically to factor in conditional skills such as `2h Weapon Proficiency`.
-    * `Priest Weapon Mastery` falls under this category and is already calculated and displayed for you in the parenthesized value. This calculation adds `PIE * 0.2` to Attack Power
-* `Sum(ScalarTraitMods)` is the final component and unique. In most cases, this value will be `0`, but this captures additional bonuses like `Strength+` and `I.Q. Conversion`. Note that due to these factoring in the class multiplier, these are also subject to the `SpecialCeiling` rounding.
-    * `Strength+` - see table below.
-    * `I.Q. Conversion` adds `I.Q. * 0.2` rounded down.
-    * `Nimble Strike` appears to be `DEX * 0.1` rounded down.
+* `Sum(OtherValues)` is pretty much everything else that increases the stat. Examples of this are:
+    * The flat, non-blessing values found on equipment, including a weapon's attack/magic power.
+    * Stat values from passive skills such as `2h Weapon Proficiency` or `Priest Weapon Mastery`. This is largely just the parenthesized value on your stats page, but see below for the oddity with Strength+.
+        * `Priest Weapon Mastery` adds a rounded `PIE * 0.2` to Attack Power.
+    * Stat values from passive weapon properties such as `I.Q. Conversion`.
+        * `I.Q. Conversion` adds a rounded `IQ * 0.2` to Attack Power.
+    * Relicbrews.
+    * Stat-boosting bondmates. Note that trait-boosting bondmates actually modify the `TraitPoint` value.
 
 ### Strength+
 
-Strength+ is a unique property that appears on 2h weapons that adds a portion of the adventurer's STR value to the attack power. This value factors in the Strength trait, the class multiplier, and a scalar value that changes based on the "tier" of the weapon.
+Strength+ is a unique property that appears on 2h weapons that adds a portion of the adventurer's STR value to the attack power. This value factors in the Strength trait, the class multiplier, all blessings, and a scalar value that changes based on the "tier" of the weapon. It shows up in parentheses as an additive component, however it doesn't show the full additive value because that would make too much sense. Instead, it only shows the `STR * ClassMod * WeaponMod` value.
 
-| Weapon Tier    | Attack Power from Strength+ |
-| -------------- | --------------------------- |
-| Steel or Lower | STR * ClassMod * 0.75       |
-| Ebonsteel      | STR * ClassMod * 1          |
+| Weapon Tier    | Strength+ Weapon Mod | ParenthesizedVisibleValue |
+| -------------- | -------------------- | ------------------------- |
+| Steel or Lower | 0.75                 | STR * ClassMod * 0.75     |
+| Ebonsteel      | 1                    | STR * ClassMod * 1        |
+| Silver         | 1.1                  | STR * ClassMod * 1.1      |
+
+## Resistance
+
+!!! warning "The information about resistance is not exact, what we know is gathered through empirical evidence"
+
+Resistance is a stat that contributes to resisting status effects (in the case of poison, it also reduces poison damage). There are two main sources of resistance, which is the RES stat itself and Tolerances that come from passive skills and gear.
+
+All info in this section credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
+
+### Resistance Formula
+
+![](./img/res-formula.png)
+
+- Estimated formula, not exact calculations. End result is probably multiplicative to the base chance of status affliction application.
+- RES stat has very high diminishing returns relative to effort obtaining RES. 
+- RES and Tolerance are multiplicative to each other (50% from RES and 50% from Tolerance = 75% reduction in status affliction chance)
+- Fortitude Adjustment is a flat additive chance added to status affliction chance after multipliers.
+
+### Estimated Tolerances
+
+=== "Skill-Bind Tolerance"
+
+    |        Name                                  |     Type               |     Base %     |   % Increase Per Level   |
+    | -------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Gessi                                        |  Bondmate              |     15 (lvl 5) |          ?               |
+    | Featherbronze Gauntlets                      |  Equipment             |      30        |          N/A             |
+    | Protection Charm                             |  Equipment             |      30        |          N/A             |
+    | Master Armor                                 |  Gacha Equipment       |      ?         |          N/A             |
+    | Prediction Hood                              |  Gacha Equipment       |      ?         |          N/A             |
+    | Honest Living (Olive)                        |  Adventurer Passive    |      50        |          N/A             |
+    | Apostle of Breaking Commandments (Red Beard) |  Adventurer Passive    |     70-80      |          N/A             |
+    | Future Dreamt With the Skull (Yekaterina)    |  Adventurer Discipline |      25        |          5               |
+    | Bind Tolerance Up (Mind)                     |  Well of Mind          |      30        |          3-4             |
+    | Bind Resistance                              |  Harken Blessing       |      30        |          N/A             |
+
+=== "Curse Tolerance"
+
+    |        Name                                  |     Type               |     Base %     |   % Increase Per Level   |
+    | -------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Ring of Spellbreaking                        |  Equipment             |      20        |          N/A             |
+    | Honest Living (Olive)                        |  Adventurer Passive    |      50        |          N/A             |
+    | Salvation through Wealth (Marianne)          |  Adventurer Discipline |      20        |          5               |
+    | Curse Tolerance Up (Mind)                    |  Well of Mind          |      30        |          3-4             |
+
+=== "Stone Tolerance"
+
+    |        Name                                  |     Type               |     Base %     |   % Increase Per Level   |
+    | -------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Graham, Knight Commander of Guarda           |  Bondmate              |      ?         |           ?              |
+    | Goatskin Cloak                               |  Equipment             |      ?         |          N/A             |
+    | Master Armor                                 |  Gacha Equipment       |      ?         |          N/A             |
+    | Compassionate Apothecary (Asha)              |  Adventurer Passive    |      50        |          N/A             |
+    | Blessing of Insta-Kill/Stone Tolerance       |  Harken Blessing       |      30        |          N/A             |
+    | Memory of Bordaon's Battle                   |  Harken Blessing       |      30        |          N/A             |
+
+=== "Charm Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Brita                                                   |  Bondmate              |     20 (lvl 5) |          ?               |
+    | Circlet                                                 |  Equipment             |      30        |          N/A             |
+    | Light Helmet of Separation                              |  Equipment             |      20        |          N/A             |
+    | Light Gauntlets of Separation                           |  Equipment             |      20        |          N/A             |
+    | Heat Haze Light Armor Boots                             |  Equipment             |      20        |          N/A             |
+    | Elegant Dancer                                          |  Equipment             |      20        |          N/A             |
+    | Oath of Fortitude (Clarissa)                            |  Adventurer Passive    |      50        |          N/A             |
+    | Warrior Princess of Resolution and Love (Lanavaille)    |  Adventurer Discipline |      25        |          5               |
+    | Flawlessly Composed Warrior Princess (Lanavaille)       |  Adventurer Discipline |      25        |          5               |
+    | Blessing of Owen (Abenius)                              |  Adventurer Discipline |      25        |          5               |
+    | Charm Tolerance Up (Mind)                               |  Well of Mind          |      30        |          3-4             |
+    | Blessing of Confusion/Charm Tolerance                   |  Harken Blessing       |      30        |          N/A             |
+    | Memory of Bordaon's Battle                              |  Harken Blessing       |      30        |          N/A             |
+
+=== "Confuse Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Gigi                                                    |  Bondmate              |     10 (lvl 1) |          N/A             |
+    | Eugen and Bibi                                          |  Bondmate              |     27 (lvl 5) |           ?              |
+    | Circlet                                                 |  Equipment             |      30        |          N/A             |
+    | Light Helmet of Separation                              |  Equipment             |      20        |          N/A             |
+    | Light Gauntlets of Separation                           |  Equipment             |      20        |          N/A             |
+    | Heat Haze Light Armor Boots                             |  Equipment             |      20        |          N/A             |
+    | Mauve Shield                                            |  Equipment             |      30        |          N/A             |
+    | Oath of Fortitude (Clarissa)                            |  Adventurer Passive    |      50        |          N/A             |
+    | Warrior Princess of Resolution and Love (Lanavaille)    |  Adventurer Discipline |      25        |          5               |
+    | Flawlessly Composed Warrior Princess (Lanavaille)       |  Adventurer Discipline |      25        |          5               |
+    | Blessing of Owen (Abenius)                              |  Adventurer Discipline |      25        |          5               |
+    | Confusion Tolerance Up (Mind)                           |  Well of Mind          |      30        |          3-4             |
+    | Blessing of Confusion/Charm Tolerance                   |  Harken Blessing       |      30        |          N/A             |
+    | Memory of Bordaon's Battle                              |  Harken Blessing       |      30        |          N/A             | 
+
+=== "Paralysis Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Royal Knight Albano                                     |  Bondmate              |     10 (lvl 5) |           ?              |
+    | Head Cook                                               |  Bondmate              |     17 (lvl 5) |           ?              |
+    | Plague Mask                                             |  Equipment             |      30        |          N/A             |
+    | Bracelet of Impurity                                    |  Equipment             |      40        |          N/A             |
+    | Compassionate Apothecary (Asha)                         |  Adventurer Passive    |      50        |          N/A             |
+    | Blessing of the Beast God (Debra)                       |  Adventurer Discipline |      25        |          5               |
+    | Paralysis Tolerance Up (Mind)                           |  Well of Mind          |      30        |          3-4             |
+    | Blessing of Poison Paralysis                            |  Harken Blessing       |      30        |          N/A             |
+    | Abductor of Kings                                       |  Harken Blessing       |      30        |          N/A             |
+
+=== "Sleep Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Doris, the Frightened Maid                              |  Bondmate              |     20 (lvl 5) |           ?              |
+    | Melgina                                                 |  Bondmate              |     17 (lvl 5) |           ?              |
+    | Sam the Rascally Dog                                    |  Bondmate              |      12        |           2              |
+    | Pearl of the Sea God                                    |  Equipment             |      20        |          N/A             |
+    | Circlet                                                 |  Equipment             |      30        |          N/A             |
+    | Bracelet of Urgency                                     |  Equipment             |      50        |          N/A             |
+    | Nameless Loyalty (Eldorado)                             |  Adventurer Passive    |      50        |          N/A             |
+    | Cold-Blooded Elf (Elda)                                 |  Adventurer Discipline |      20        |          5               |
+    | Sleep Tolerance Up (Mind)                               |  Well of Mind          |      30        |          3-4             |
+    | Blessing of Unsleeping Will                             |  Harken Blessing       |      30        |          N/A             |
+    | Bind Rejecting Immunity                                 |  Harken Blessing       |      30        |          N/A             |
+    | Mermaid Aboard the Ship                                 |  Harken Blessing       |      30        |          N/A             |
+    | Memory of Bordaon's Battle                              |  Harken Blessing       |      30        |          N/A             |
+
+=== "Poison Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Willful Theo                                            |  Bondmate              |     20 (lvl 5) |           ?              |
+    | Songstress Marin                                        |  Bondmate              |     17 (lvl 5) |           ?              |
+    | Plague Mask                                             |  Equipment             |      30        |          N/A             |
+    | Antivenom Shield                                        |  Equipment             |      50        |          N/A             |
+    | Bracelet of Impurity                                    |  Equipment             |      40        |          N/A             |
+    | Compassionate Apothecary (Asha)                         |  Adventurer Passive    |      50        |          N/A             |
+    | Apothecary's Knowledge (Asha)                           |  Adventurer Discipline |      20        |          5               |
+    | Hot-Blooded Adventurer (Gaston)                         |  Adventurer Discipline |      20        |          5               |
+    | Poison Tolerance Up (Mind)                              |  Well of Mind          |      30        |          3-4             |
+    | Poison Resistance Blessing                              |  Harken Blessing       |      30        |          N/A             |
+    | Blessing of Poison Paralysis                            |  Harken Blessing       |      30        |          N/A             |
+    | Abductor of Kings                                       |  Harken Blessing       |      30        |          N/A             |
+    | Dwarf Race                                              |  Race                  |      20        |          N/A             |
+
+=== "Fear Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Caterwaul Crew                                          |  Bondmate              |     20 (lvl 5) |           ?              |
+    | Pearl of the Sea God                                    |  Equipment             |      20        |          N/A             |
+    | Peony Hair Ornament                                     |  Gacha Equipment       |      ?         |          N/A             |
+    | Breastplate of Hope                                     |  Gacha Equipment       |      ?         |          N/A             |
+    | Renegade's Sabatons                                     |  Gacha Equipment       |      ?         |          N/A             |
+    | Oath of Fortitude (Clarissa)                            |  Adventurer Passive    |      50        |          N/A             |
+    | Honest Living (Olive)                                   |  Adventurer Passive    |      50        |          N/A             |
+    | Unstoppable Curiosity (Dino)                            |  Adventurer Discipline |      20        |          5               |
+    | Fear Tolerance Up (Mind)                                |  Well of Mind          |      30        |          3-4             |
+    | Blessing of Unsleeping Will                             |  Harken Blessing       |      30        |          N/A             |
+    | Abductor of Kings                                       |  Harken Blessing       |      30        |          N/A             |
+    | Beastfolk Race                                          |  Race                  |      20        |          N/A             |
+
+=== "Stun Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Harry, the Wandering Adventurer                         |  Bondmate              |      ?         |           ?              |
+    | Kidnapped Girl Liam                                     |  Bondmate              |      ?         |          N/A             |
+    | Plague Mask                                             |  Equipment             |      30        |          N/A             |
+    | Goddess's Earrings                                      |  Equipment             |      ?         |          N/A             |
+    | Nameless Loyalty (Eldorado)                             |  Adventurer Passive    |      50        |          N/A             |
+    | Knight's Creed (Eckart)                                 |  Adventurer Discipline |      20        |          5               |
+    | Solid Devotion (Eldorado)                               |  Adventurer Discipline |      20        |          5               |
+    | Stun Tolerance Up (Mind)                                |  Well of Mind          |      30        |          3-4             |
+    | Memory of Bordaon's Battle                              |  Harken Blessing       |      30        |          N/A             |
+
+=== "Instakill Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Concerned Brother Elequon                               |  Bondmate              |      ?         |           ?              |
+    | Helmet of Malice                                        |  Equipment             |      ?         |          N/A             |
+    | Skull Necklace                                          |  Equipment             |      ?         |          N/A             |
+    | Shining Finger Band                                     |  Equipment             |      ?         |          N/A             |
+    | Faith of the Wicked (Galina)                            |  Adventurer Passive    |      50        |          N/A             |
+    | Apostle of Breaking Commandments (Red Beard)            |  Adventurer Passive    |      70-80     |          N/A             |
+    | Instakill Tolerance Up (Mind)                           |  Well of Mind          |      30        |          3-4             |
+    | Blessing of Instakill/Stone Tolerance                   |  Harken Blessing       |      30        |          N/A             |
+
+=== "Critical Tolerance"
+
+    |        Name                                             |     Type               |     Base %     |   % Increase Per Level   |
+    | ------------------------------------------------------- | ---------------------- | -------------- | ------------------------ |
+    | Beheading Bunny                                         |  Bondmate              |      ?         |           ?              |
+    | Safety Ring                                             |  Equipment             |      ?         |          N/A             |
+    | Rabbit Talisman                                         |  Gacha Equipment       |      ?         |          N/A             |
+    | Faith of the Wicked (Galina)                            |  Adventurer Passive    |      50        |          N/A             |
+    | Apostle of Breaking Commandments (Red Beard)               |  Adventurer Discipline |      20        |          5               |
+    | Flawlessly Composed Warrior Princess (Lanavaille)       |  Adventurer Discipline |      25        |          5               |
+    | Abductor of Kings                                       |  Harken Blessing       |      30        |          N/A             |

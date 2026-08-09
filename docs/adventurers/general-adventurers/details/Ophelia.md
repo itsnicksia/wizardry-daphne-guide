@@ -1,30 +1,66 @@
-# Ophelia
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Human  
-**Gender**: Female  
-**Type**: Air  
-**Personality**: Neutral  
-**Starting Class**: Fighter  
-**Class Change**: Knight  
-**Role**: Damage, Support
+   title: Ophelia
 
-??? info "Portraits"
-    === "Fighter"
-        ![](../img/ophelia-fighter.jpg)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-    === "Knight"
-        ![](../img/ophelia-knight.png)
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-## Skills
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock %} 
 
-!!! info "Inheritable Skill"
-    === "Counterattack"
-        Chance to counter attack when evading a close-range attack (affected by Luck). <Close/mid-range weapon-specific\>. Probability increased based on skill level.
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Eye of the Hunter"
-        Increases damage and Accuracy against flying enemies.
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
 
-!!! info "Discipline Skill"
-    === "Way of the Field of Battle"
-        Continuously increases each stat, Evasion and Action Speed increased further.
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
+
+<!-- any Character Reviews and pull plans go down here. Just uncomment sections -->
+
+<!--
+## Adventurer Reviews
+
+??? info "ABC's Analysis"
+    -text-
+
+??? info "DEF's Analysis"
+    -text-
+-->
+
+<!--
+## Adventurer Pull Plans
+
+??? note "ABC's Pull Plan"
+    -text-
+-->
+
+{% endblock ReviewsAndAnalysis %}

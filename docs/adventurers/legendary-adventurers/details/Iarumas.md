@@ -1,30 +1,48 @@
-# Iarumas
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Human  
-**Gender**: Male  
-**Type**: Void  
-**Personality**: Neutral  
-**Starting Class**: Mage of the Black Rod  
-**Class Change**:  
-**Role**: Damage, Support
+   title: Iarumas
 
-??? info "Portraits"
-    === "Mage of the Black Rod"
-        ![](../img/iarumas-mage-of-the-black-rod.png)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-## Skills
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-!!! info "Unique Spell (Inheritable)"
-    === "TZALIK"
-        {{ get_skill_description('TZALIK') }}
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+{% endblock InheritFreetext %} 
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Mage of the Black Rod"
-        {{ get_skill_description('Mage of the Black Rod') }}
+{% block AltInheritFreetext %}
+{% endblock AltInheritFreetext %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-!!! info "Discipline Skill"
-    === "Amnesiac Corpse Retriever"
-        {{ get_skill_description('Amnesiac Corpse Retriever') }}
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
+
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
 
 ## Adventurer Reviews
 
@@ -55,6 +73,16 @@
 
     Judging him as he is, not bad. Drecom loaded his passives and gear with stats to ensure he could at least keep up with mages as a caster and fighters as a basic physical attacker. They did everything in their power to make him interesting. Tzalik is extremely strong and stat-creep-proof with the magic defense penetration effect and I guess the ability for it to surety is intended since they never patched it out. Being void is…different, and being neutral aligned makes him splashable with most team comps.
 
+??? info "Shiro's Analysis"
+
+    Starting with his inheritance it’s amazing. The only issue with it is… it wants surety… so you probably will never bring full potential from it on your mages… unless you build them around surety. Which collides with their skillset. The other issue with it is that it costs 20 MP. Less of an issue in abyss 3 but definitely an issue earlier on in the game. But if you build Iarumas as mage with 2h staff he’s going to be able to burst some bulkier enemies.
+
+    Moving to his passive. Not only is there a lot of text but there are some decent values. I’m unsure if I would go with Saber over the option to run him with 2h staff as for now but it’s still a great chunk of stats to make building him easier.
+
+    Moving to his discipline. I don’t have much to say there. Definitely one of the best ones we have as for now quite fitting the protagonist. A bit disappointed in no SUR in it despite TZALIK being SUR oriented skill but it’s still a really good one thanks to how many stats it upgrades.
+
+    To sum it up… Iarumas is a bit weird. His passives are more fighter-like oriented while abilities  he learns belong to a mage. His class also belongs to a mage letting him to be used in mage trials. It would be better if he had full access to fighter-mage passives but it’s what it is. His spells are void type which is… quite bad. Sure you don’t need to use Adam inherit to counter possible resistance but you’ll also never have elemental advantage. Still, you can build him as a fighter and he works perfectly fine as one. Or you can build him like a samurai chasing as much mag and ATK as you can to run him with HA/DTS while having access to TZALIK. Overall I feel like they made Iarumas fitting his protagonist title and I do hope that he’ll get access to samurai class when we get a rerun of the collaboration. After all, Iarumas without Samurai access feels kind of void. Joking aside, Iarumas is still a really solid option to use.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -63,8 +91,4 @@
 ??? note "Lynd's Pull Plan"
     Mostly Tzalik bait but he looked cool too so I threw some to get a meager maxed discipline because I'm inefficient.
 
-## Duplicate Usage:
-
-* Inherit his spell to himself for increased damage on his heavy hitting single target spell
-* Discipline for small gains to four very important stats
-* Inherit his spell to the MC. Even with a ~40% damage reduction, the Major base damage and Magic Defense piercing should still result in a very respectable single target damage spell
+{% endblock ReviewsAndAnalysis %}

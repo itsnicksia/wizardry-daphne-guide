@@ -1,6 +1,6 @@
 # Introduction
 
-## Tutorial Dungeon
+## Tutorial Dungeon  
 
 After starting the game, you find yourself in a tough situation.
 
@@ -53,13 +53,16 @@ You'll be shown the result and prompted for confirmation after answering the que
         - Loot and flee - EVIL
         - Help her across but ask for a reward - EVIL
 
-If you made a mistake or decide you want a different alignment, just retake the quiz at the end. You can do this as many times as you want, but once you've chosen your alignment, it can't be changed and you'll regain control of your character.
+If you made a mistake or decide you want a different alignment, just retake the quiz at the end. You can do this as many times as you want ([it can be gradually changed later in the game](../../adventurer-customization/alignment.md)) and then you'll regain control of your character.
 
-Explore the dungeon until you meet a ghostly Girl - have a chat with her and follow her instructions. 
+Explore the dungeon (see below) until you meet a ghostly Girl - have a chat with her and follow her instructions. Don't worry about the rubble and that purple circle yet.  You will be able to come back later to explore that area. 
+
+??? map "Place of Awakening"
+    ![Place of Awakening map](img/place-of-awakening.jpg)
 
 ### Combat!
 
-Before long, you'll find yourself in combat with a Goblin - kick it's ass.
+Before long, you'll find yourself in combat with a Goblin - kick it's ass.  Make sure you pick up *and equip* all of the equipment scattered about the dungeon; it makes the combat a bit easier.
 
 ### Freedom?
 
@@ -71,11 +74,11 @@ Kick their asses.
 
 After another cutscene, you enter a city - Royal Capital Luknalia.
 
-![Royal Capital Luknalia](img/town.png)
+![Royal Capital Luknalia](img/town.jpg)
 
 Lets head to the Adventurer's Guild, and meet the nice lady - Arna!
 
-![Guildswoman Arna](img/arna.png)
+![Guildswoman Arna](img/arna.jpg)
 
 She'll tell us a bit of information, and most importantly, show us how to summon Adventurers.
 

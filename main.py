@@ -6,32 +6,278 @@ def define_env(env):
 
     @env.macro
     def get_skill_description(skill_name):
-        
-        skill = pd.DataFrame(pd_read_csv('data/skills.csv').query(f'Name == "{skill_name}"'))
-        
-        effect = skill['Effects'].iloc[0]
-        details = skill['Detail'].fillna('').iloc[0]
-        
-        return f"{effect} {details}"
-    
+
+        df = pd_read_csv('data/skills.csv')
+
+        skill = df[df['Name'].str.strip().str.lower() == skill_name.strip().lower()]
+
+        # Guard: no matching skill → don’t crash MkDocs
+        if skill.empty:
+            return f"<i>Unknown skill: {skill_name}</i>"
+
+        effect = (
+            skill['Effects'].iloc[0]
+            if 'Effects' in skill.columns and not skill['Effects'].isna().all()
+            else ''
+        )
+
+        details = (
+            skill['Detail'].fillna('').iloc[0]
+            if 'Detail' in skill.columns
+            else ''
+        )
+
+        restriction = (
+            skill['Restriction'].fillna('').iloc[0]
+            if 'Restriction' in skill.columns
+            else ''
+        )
+
+        # Normalizer as safety against hidden spaces and stuff
+        restriction = str(restriction).strip()
+
+        # Removes issue of being treated like html and safeguards against formatting issues
+        parts = [effect, details]
+        if restriction:
+            parts.append(f"({restriction})")
+
+        # Keeps spacing clean in case of trailing spaces or leading spaces because I don't wish to be welcomed to the space jam
+        return " ".join(part for part in parts if part).strip()
+
     @env.macro
     def populate_quicklist(file,return_columns,filter_column=None,filter_values=[]):
 
         results = pd_read_csv(f'./data/{file}')
         if filter_column != None and filter_values:
             results = results.query(f'`{filter_column}` in {filter_values}')
-        results = results.fillna('')
+        results = results.infer_objects().fillna('')
 
         # Only linkify names if file is adventurers.csv and required fields exist
         if file == 'adventurers.csv' and 'Name' in return_columns and 'Rarity' in results.columns:
             def linkify(row):
                 name = row['Name']
                 rarity = row['Rarity'].strip().lower()
-                if rarity == "anonymous":
-                    return name  # Don't linkify anonymous
                 name_slug = name.replace(' ', '-')
-                return f"[{name}](./{rarity}-adventurers/details/{name_slug}.md)"
-
+                return f"[{name}](../../adventurers/{rarity}-adventurers/details/{name_slug}.md)"
             results['Name'] = results.apply(linkify, axis=1)
 
         return results[return_columns]
+        
+    @env.macro
+    def get_equip_table_quicklist(armor_or_weapon, itemtype):
+        equipcols = range(2,60)
+        eqdata = pd_read_csv(f'./data/{armor_or_weapon}.csv',
+                              usecols=equipcols, 
+                              dtype='str',
+                              skip_blank_lines=True)
+        eqdata = eqdata.fillna('')
+        results = eqdata
+        return results
+
+    @env.macro
+    def get_equip_table_formatted(armor_or_weapon, itemtype):
+        equipcols = range(2,60) # skip first two columns just used for spreadsheet to create csv
+
+        # read google sheet csv. all elements processed as strings for display
+        # and ignore any blank lines between sections.
+        eqdata = pd_read_csv(f'./data/{armor_or_weapon}.csv',
+                              usecols=equipcols,
+                              dtype='str', 
+                              skip_blank_lines=True,
+                              index_col=False)
+
+        # trim dataframe to only the type requested
+        eqdata.drop(eqdata[eqdata['Type'] != itemtype].index, inplace=True)
+
+        # drop any lines from item section without an actual item
+        eqdata.dropna(subset = ['Item Name'], inplace = True)        
+        
+        # blank any empty cells
+        eqdata.fillna('', inplace = True) 
+
+        # drop all but requested type
+        eqdata.drop(eqdata.iloc[:,0:1],axis=1, inplace = True) 
+
+        # name the id column for later use keeping things sorted
+        eqdata.index.name = 'itemnumber'
+        itemcount = len(eqdata.index)
+      
+        # Get headers from the dataframe
+        headers_to_use = eqdata.iloc[:,:16].columns  #Index object    
+        html_headers = pd.DataFrame(headers_to_use).T.to_html(index=False, header=False)
+
+        # get titles, details, and attribdata 
+        unstackedcols = ['Compendium Number', 'Item Name', 'Traits / Special Effects']
+        
+        if armor_or_weapon == "weapon":
+            stackedcols = ['Rank', '# of Attacks', 'Buy Price', 'Sell Price']        
+        else:
+            stackedcols = ['Rank', 'Armor Type', 'Buy Price', 'Sell Price']        
+
+        attribnames = ['ATK', 'MAG', 'DIV', 'DEF', 'MDEF',
+                       'ASPD', 'ACC', 'SUR', 'EVA', 'RES']
+
+        rename_cols = ['TEMP0', 'TEMP5', 'TEMP10', 'TEMP15']
+
+        eqdata.rename(columns=dict(zip(stackedcols, rename_cols)), inplace=True)
+  
+        attribnames = ['TEMP'] + attribnames
+        
+        eqdata.reset_index(inplace=True)
+        eqdata = pd.wide_to_long(eqdata, attribnames, i='itemnumber', j='Enhance Level', suffix=r'\d+')
+        itemrows = eqdata.index.get_level_values(1).nunique()
+        eqdata.sort_index(level ='itemnumber', sort_remaining = True, inplace=True)
+        eqdata.reset_index(inplace=True)
+        eqdata = eqdata[unstackedcols[:2] + attribnames[:1]+['Enhance Level'] + attribnames[1:] + unstackedcols[2:]]
+
+        # blank the duplicate title and effects cells in unstackedcols
+        for n in range (1, itemcount+1, 1):
+            eqdata.loc[1+5*(n-1) : 4+5*(n-1), unstackedcols] = ''
+
+        # change title of stacked column
+        
+        if armor_or_weapon == "weapon":
+           eqdata.rename(columns={'TEMP': 'Rank<br>#Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
+        else:
+           eqdata.rename(columns={'TEMP': 'Rank<br>ArmorType<br>Buy Price<br>Sell Price'}, inplace=True)
+
+        # add linebreak to long title columns
+        eqdata.rename(columns={'Compendium Number': 'Compendium<br>Number'}, inplace=True)
+        eqdata.rename(columns={'Enhance Level': 'Enhance<br>Level'}, inplace=True)
+
+        # insert blank spacer rows
+        if itemcount > 1:
+            for n in range(itemrows*(itemcount-1), 0, -itemrows):
+                blank_row = pd.DataFrame({col: None for col in eqdata.columns}, index=[n])
+                eqdata = pd.concat([eqdata.iloc[:n], blank_row, eqdata.iloc[n:]])
+               
+            eqdata.reset_index(drop=True, inplace=True)
+
+        # blank any empty cells
+        eqdata.fillna('', inplace = True) 
+
+        return eqdata
+
+    @env.filter
+    def make_skillnames_linkable(df):
+        df['Name'] ='<span id = "' + df['Name'].str.replace(' ', '') + '">' + \
+                    df['Name'].astype(str) + '</span>'
+        return df
+
+    @env.filter
+    def linkify_quicklist_skillnames(df, srcloc):
+        if len(srcloc)>28 and srcloc[0:29] == "appendices/skills-and-spells/":
+            sklpath = '(skills-and-spells.md#'
+        else:
+            sklpath = '(/appendices/skills-and-spells/skills-and-spells.md#'
+
+        df['Name'] = '[' + df['Name'].astype(str) + ']'\
+                     + sklpath \
+                     + df['Name'].str.replace(' ', '') + ')'
+        return df
+
+    @env.filter
+    def sort_mixed_values(df, sortcol):
+        df = df.sort_values(by=sortcol, key=lambda col: pd.to_numeric(col, errors='coerce'))
+        return df
+
+    @env.filter
+    def complete_unique_skills_list(df):
+        allskills = pd_read_csv(f'./data/skills.csv')
+        df = pd.merge(df,allskills[['Name','Type','Restriction']], on="Name", how="left").fillna('')
+        df = df[['Level', 'Name', 'Type', 'Restriction']]
+        return df
+
+    @env.filter
+    def mage_element_trim(df, charclass, element):
+        # parse skill list and trim to ones matching an mage's element
+        # make a list of all spells by type, remove ones that should be
+        # kept by that mage's type, then remove all spells left from the
+        # overall spell list.  Need to add any new element-limited spells
+        # to the list.
+
+        if charclass == 'Mage':
+            elementspells = [
+                ['CONES', 'void'],
+                ['FERU', 'air'],
+                ['ERLIK', 'earth'],
+                ['FOROS', 'light'],
+                ['HALITO', 'fire'],
+                ['MIGAL', 'water'],
+                ['ZELOS', 'dark'],
+                ['MACONES', 'void'],
+                ['MAFERU', 'air'],
+                ['MAERLIK', 'earth'],
+                ['MAFOROS', 'light'],
+                ['MAHALITO', 'fire'],
+                ['MAMIGAL', 'water'],
+                ['MAZELOS', 'dark'],
+                ['LACONES', 'void'],
+                ['LAFERU', 'air'],
+                ['LAERLIK', 'earth'],
+                ['LAFOROS', 'light'],
+                ['LAHALITO', 'fire'],
+                ['LAMIGAL', 'water'],
+                ['LAZELOS', 'dark'],
+                ['Untyped Thaumaturgy', 'void'],
+                ['Air Type Thaumaturgy', 'air'],
+                ['Earth Type Thaumaturgy', 'earth'],
+                ['Light Type Thaumaturgy', 'light'],
+                ['Fire Type Thaumaturgy', 'fire'],
+                ['Water Type Thaumaturgy', 'water'],
+                ['Dark Type Thaumaturgy', 'dark'],
+                ['Untyped Resistance Weakening', 'void'],
+                ['Air Resistance Weakening', 'air'],
+                ['Earth Resistance Weakening', 'earth'],
+                ['Light Resistance Weakening', 'light'],
+                ['Fire Resistance Weakening', 'fire'],
+                ['Water Resistance Weakening', 'water'],
+                ['Dark Resistance Weakening', 'dark']
+                ]
+            elementlist = pd.DataFrame(elementspells, columns = ['Name', 'Type'])
+
+            # remove all type matching spells
+            elementlist = elementlist[elementlist['Type'] != element.lower()]
+
+            # remove single and ma- secondary (strong against) element spells 
+            match element.lower():
+                case 'air': #earth
+                    elementlist = elementlist[~elementlist['Name'].isin(['ERLIK','MAERLIK'])]                    
+                case 'earth': #water
+                    elementlist = elementlist[~elementlist['Name'].isin(['MIGAL','MAMIGAL'])]                    
+                case 'fire': #air
+                    elementlist = elementlist[~elementlist['Name'].isin(['FERU','MAFERU'])]                    
+                case 'water': #fire
+                    elementlist = elementlist[~elementlist['Name'].isin(['HALITO','MAHALITO'])]                    
+                case 'light' | 'dark' | 'void':
+                    # no secondary element, nothing to do 
+                    pass
+                case _:
+                    raise ValueError("Unknown Mage element for spell list adjustment")
+
+            #remove all spells left in elementlist from df
+            df = df[~df['Name'].isin(elementlist['Name'])]                    
+            return df
+
+        else:
+            return df
+
+def on_post_page_macros(env):
+    # Prints rendered markdown to debug_output folder in root of project folder
+    # for any file if 'debug_render: true' is found in header:
+
+    if not env.page.meta.get('debug_render', False):
+        return
+
+    print (f"Saving debug markdown file for page: {env.page.title}")
+
+    # Define save path off of project root, give same name as page title
+    savepath = f"{env.project_dir}/debug_output/{env.page.title}.md"
+    print (savepath)
+
+    try:
+        with open(savepath, "w") as f:
+            f.write(env.markdown)
+    except IOError as e:
+        print ("failed to write")
+

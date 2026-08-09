@@ -1,22 +1,29 @@
-# Aldric
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-**Race**: Dwarf  
-**Gender**: Male  
-**Type**: Air  
-**Personality**: Neutral  
-**Starting Class**: Thief  
-**Class Change**:  
-**Role**: Support, Damage
+   title: Aldric
 
-??? info "Portraits"
-    === "Thief"
-        ![](../img/aldric-thief.png)
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-## Skills
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-!!! info "Unique Skill (Inheritable)"
-    === "Wisdom of the Crafty Old Dwarf"
-        {{ get_skill_description('Wisdom of the Crafty Old Dwarf') }}
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
+
+        <div class = "nosort-table nofilter-table" markdown>
 
         | Level | Detect/Disarm Trap/Evade Trap (self) | Detect/Disarm Trap/Evade Trap (inherited) |
         |:-----:|:------------------------------------:|:-----------------------------------------:|
@@ -28,13 +35,29 @@
         |   6   |                                      |                  10/17/10                 |
         |   7   |                                      |                     -                     |
 
-!!! info "Unique Skill (Not Inheritable)"
-    === "Blunt Combo Strike"
-        {{ get_skill_description('Blunt Combo Strike') }}
+        </div>
 
-!!! info "Discipline Skill"
-    === "Adept's Rule of Thumb"
-        {{ get_skill_description("Adept's Rule of Thumb") }}
+{% endblock InheritFreetext%} 
+
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
+
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
+
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
+
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
+
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
+
+{% block ReviewsAndAnalysis %}
 
 ## Adventurer Reviews
 
@@ -74,8 +97,5 @@
 
 ??? note "TheAxolotl's Pull Plan"
     I'm likely going to skip him. Maybe I'll get lucky with the free bones, but unless his damage proves to be somehow incredible at higher power levels, I don't see a good way to fit him into my current party. His inherit would be nice to throw on my Rinne, but I don't think the actual value increases are enough for me to want to spend my gems on.
-    
-## Duplicate Usage
 
-* If you use him, increasing his Discipline is potentially going to be more effective for his disarming capabilities than his inherit is, but not 100% sure on this yet.
-* If you don't plan to use him but end up pulling a few copies, might as well give them to your favorite established disarmer.
+{% endblock ReviewsAndAnalysis %}

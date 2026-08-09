@@ -1,4 +1,5 @@
 # Impregnable Fortress
+!!! note "Key locations can change due to some maps having variable layouts. See [Map Variations page](../../mechanics/map-variations.md) for details. "
 
 ## Request to Rescue the Duke
 
@@ -8,8 +9,8 @@
 
 ??? note "Requirements"
     - Finish first run of Abyss 3 (you get stabbed)
-    - Obtain knowledge of Lily and Alan (Talk to them after defeating the GWO in 1st run, when you can limp around talking to people) OR talk to NPC on Zone 9 on low corruption.
-    - Subsequently enter servant's room on low corruption, which is located right after you drop down at the end of the hallway from the Zone 9 Harken. Get the information on the table, and optionally the tattered rag (you may cursed wheel the corruption away if you'd like)
+    - Obtain knowledge of Lily and Alan (Talk to them after defeating the GWO in 1st run, when you can limp around talking to people) OR talk to NPC on Zone 9 on low corrosion.
+    - Subsequently enter servant's room on low corrosion, which is located right after you drop down at the end of the hallway from the Zone 9 Harken. Get the information on the table, and optionally the tattered rag (you may cursed wheel the corrosion away if you'd like)
 
 ##### Rescuing the little girl in Critical Condition (No dog)
 
@@ -25,13 +26,13 @@
 1. Select the 1550 gold option when posting the request and having the tattered rag.
 2. The 1st option when talking to the dogkeeper is not important, but the second option is. Ask him what you need to get for the dog.
 3. Get 10 meat directly from an NPC in Guarda.
-4. Get to the wheat room in Zone 8. You need low corruption for the door to not be blocked. There will be a battle with 3 Succubi and 2 Minotaur. The Succubi can drain mana to 0.
+4. Get to the wheat room in Zone 8. You need low corrosion for the door to not be blocked. There will be a battle with 3 Succubi and 2 Minotaur. The Succubi can drain mana to 0.
 5. Obtain the rights to the dog on return to Guarda. Remember that the innkeeper was the one who told you about the kidnappers, so head there.
 6. Thrown into the fight again with various thieves and 2 mages. Dog dies from getting kicked and little girl is not doing so well.
 7. Talk to Raimi at the tent. Once again, remember to talk to Lily and Alan in the Duke's room later to show them the child is safe (this is a lie again).
 
 ??? map "Location of Wheat Room"
-    ![](./img/wheat_room.png)
+    ![](./img/wheat_room.jpg)
 
 ##### Rescuing the little girl safely
 
@@ -53,7 +54,7 @@
 4. Go back to Guarda and get the Sam from dog keeper then move around city to trigger 2 fights, both of which will be ambushes. After that the 3rd location will take you to kidnapper fight where you will rescue the girl.
 5. Go back to dog keeper to get the bond and a funny achievement.
 
-![](./img/lulunarde-special.png)
+![](./img/lulunarde-special.jpg)
 
 ### Blackmail Resolution
 
@@ -139,7 +140,7 @@
 - You will automatically be sent back to town and will be asked a question by Endy. The correct answer to Endy's final question is "Nothing is more precious than life".
 
 ??? map "Locations"
-    ![](./img/forbidden-search-area-escort-locations.png)
+    ![](./img/forbidden-search-area-escort-locations.jpg)
 
 ??? note "Answers to the Old Man's questions"
 
@@ -163,17 +164,17 @@
 
 ### Old District (Slum) Faction Quests
 
-Upon reaching Zone 4's Harken and returning, you will receive a message from the respective faction to return to the Royal Capital to receive a request, all of which take part in a slum and then immediately a cave. Normally, the reward for all of them are just gold, but upon doing them all correctly, not only do you receive more gold in general but also receive a LUK lantern if all are done perfectly.
+Upon stepping foot into Zone 5 and returning, you will receive a message from the respective faction to return to the Royal Capital to receive a request, all of which take part in a slum and then immediately a cave. Normally, the reward for all of them are just gold, but upon doing them all correctly, not only do you receive more gold in general but also receive a LUK lantern if all are done perfectly.
 
 ##### Royal Family Route (Perfect Run)
 - Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
-- Go to the slums and talk to everyone. Take the little girl with you for Elmon to clean up. Disagree with Princess Pulgritte.
-- Leave to West Cave to gather food for the slums. 
+- Go to the slums and talk to everyone. Take the little girl with you. Disagree with Princess Pulgritte. Suggest cleaning the girl up to Elmon.
+- Go to West Cave (on the World Map) to gather meat for the slums. 
 - It does not matter where you get the meat or if you go over the necessary meat (3, Lulu will inform you when you have enough), but if the head Gorgon is too difficult, you may kill the random Gorgon around the cave or walk around the head Gorgon and farm meat from the dead ones through a crack in the wall.
 - Return to the slums to receive your gold reward after the cutscene.
 
 ??? map "Western Cave Map"
-    ![](./img/western-cave.png)
+    ![](./img/western-cave.jpg)
 
 ##### Pontiff Route
 - Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
@@ -188,7 +189,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 !!! note "If you do not have a mage, you can also farm LA- level spell scrolls from the Greater Demon that spawns in Abyss 1 after completing the B8F request"
 
 ??? map "Cursed Cave Map"
-    ![](./img/cursed-cave.png)
+    ![](./img/cursed-cave.jpg)
 
 ##### Admiral Route
 
@@ -200,15 +201,11 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - You will receive your gold reward after the cutscene.
 
 ??? map "Southern Cave Map"
-    ![](./img/southern-cave.png)
+    ![](./img/southern-cave.jpg)
 
 ## Fortress Lower Floors Cleared
 
-## Portrait Gallery Minor Harken
-
 ### Search for Missing Person
-
-!!! warning "As of version 1.4.0, this quest is bugged sometimes. The trigger for the quest does not activate properly, and is instead in a different room"
 
 - Go to **Zone 4 -Underground Tunnel-** to talk to the Singing Skeleton right next to the Harken to accept the request.
 - Go to **Zone 5 -Prehistoric Corridor B3F-** via stairs from Zone 4, as this is usually closer to quest location.
@@ -218,7 +215,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - Return to Zone 4 and talk to the Singing Skeleton for the reward.
 
 ??? map "Locations"
-    ![](./img/missing_person_location.png)
+    ![](./img/missing_person_location.jpg)
 
     ??? note
         The map location shown is what the hallway looks like. It can be in different locations depending on the map variation. If the quest does not trigger at that spot, it will trigger in topmost room across from the hallway.
@@ -226,11 +223,11 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ??? note "Rewards"
     Returning the skeleton's friend will grant 2 random Abyss 3 junks and the bondmate "Singing Skeleton in the Tunnel", who is a dark element bondmate that gives defense power.
 
+## Portrait Gallery Minor Harken
+
 ## Ghosts of Yore Vanquished
 
 ### Antique Scarlet Doll
-
-!!! warning "As of version 1.4.0, this quest is bugged sometimes. The spot with the Grey Doll spawn is inaccessible if cursed wheeling from Ghosts Of Yore Vanquished or beyond. One must Cursed wheel to Portait Gallery Minor Harken, clear the floor boss, then attempt the request. Alternatively, you can just set corrosion to being spotted for that floor to prevent overlapping of the golem with the mob."
 
 - Teleport to Zone 6 Harken and walk up the stairs to Zone 7.
 - Go to each location indicated (maps might be different due to Abyss 3 variation, so look for similar room formats). Each location is not indicated on the map, but will be shown as stationary monster encounters on the minimap.
@@ -239,7 +236,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - You have the choice of handing a singular doll, handing all the dolls, or handing no dolls. Pick an option.
 
 ??? map "Locations"
-    ![](./img/antique_scarlet_doll_request_location.png)
+    ![](./img/antique_scarlet_doll_request_location.jpg)
 
 ??? note "Rewards"
     - Select handing a singular doll will grant a measly crimson ore
@@ -250,7 +247,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 
 ### Water Hauling
 
-!!! note "To get the bondmate for this request, you will need to have low to no corrosion levels (not sure exact cut-off)"
+!!! warning "Requirement: Overall Abyss corrosion must be at 0 or 1 ("Spotted") out of 13 registered corrosion sentries." 
 
 - Harken to Zone 9 and walk all the way to the indicated location (maps may be different due to Abyss 3 variation, so look for similar room formats).
 - You will need to fetch water from the Zone 10 fountain. Head over there, but make sure you know the path back and forth very well.
@@ -259,7 +256,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 - In order to get the true reward for this, you must select the second option in her dialogue, where you say everyone is angry at her for shirking her duties.
 
 ??? map "Locations"
-    ![](./img/water_hauling_request_location.png)
+    ![](./img/water_hauling_request_location.jpg)
 
 ??? note "Rewards"
     - If you select the correct option, you will obtain "Brita the Lazy Handmaiden" as a bondmate, who is a water element bondmate that grants Charm Tolerance.
@@ -271,7 +268,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Doll of Fortune
 
 ??? note "Requirements"
-    - [Stop the Blackmailer](important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
+    - [Stop the Blackmailer](important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
     - Completed Antique Scarlet Doll Request in this "run" (You may complete the request, then wheel forward to after beating the GWO)
 
 - Accept the request at the Tavern and head to Zone 9 from Guarda Fortress Entrance
@@ -284,7 +281,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Expose the Intruder
 
 ??? note "Requirements"
-    [Stop the Blackmailer](important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
+    [Stop the Blackmailer](important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
 
 - Accept the request at the Tavern and head to **Zone 10 -Fortress 3F Lord's Room-**. Talk to the NPC on the map nearby the Greater Harken.
 - Warp to the Zone 7 Harken and walk upwards to Zone 10's Library and talk to the NPC. Choose the Investigate option.
@@ -318,7 +315,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Expedition to Clear the Fortress Lower Levels
 
 ??? note "Requirements"
-    [Stop the Blackmailer](important-request-gwo.md#stop-the-blackmailer-and-save-the-duke)
+    [Stop the Blackmailer](important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
 
 - Go to **Zone 6 -Prehistoric Corridor B2F-** and walk a few steps out of the Harken room
 - Engage in 3 back-to-back fights and win.
@@ -337,49 +334,45 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ### Missing Companion
 
 ??? note "Requirements"
-    - [Stopped the Mastermind](./important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
+    - [Stopped the Blackmailer](./important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
     - Attained [Rescuing Liam Safely](./requests.md#rescuing-the-little-girl-safely)
+    
+??? map "Map chunk containing the encounter"
+    ![](./img/golem-loc.png)
 
 !!! warning "This request leads to a boss fight that is possibly very time-consuming and arguably more difficult than that of the average fight with the GWO of this abyss."
 
 1. After accepting the quest, head to Edge of Town to receive more information.
-2. Head to **Zone 5 -Prehistoric Corridor B3F-** and seek out the dog and adventurers.
+2. Head to **Zone 5 -Prehistoric Corridor B3F-** and seek out the dog and adventurers. Because maps are randomized, look for the specific map chunk provided.
 
 ??? note "Enemies"
 
     !!! danger "Enemies"
-        ![](./img/golem_request_fight.png)
+        ![](./img/golem_request_fight.jpg)
 
     **Boss: Offensive Golem**
 
-    Will buff itself with an attack + accuracy buff for 4 turns, and it will have the capacity to one shot even tanks that are defending. It will generally spam an AOE frontline attack, but can sometimes do a column attack. Very rarely, it will decide to basic attack. Every 4 turns, it will rebuff itself for another 4 turns. When it's about to die, it will buff itself with an accuracy buff and damage buff for 4 turns that isn't as strong as its usual buff. However, the attack buff does not stack with the other attack buff, but the accuracy buffs stack.
+    Will buff itself with an attack + accuracy buff for 4 turns, and it will have the capacity to one shot even tanks that are defending. It will generally spam an AOE frontline attack, but can sometimes do a column attack. Very rarely, it will decide to basic attack. Every 4 turns, it will rebuff itself for another 4 turns. When it's about to die, it will buff itself with an accuracy buff and damage buff for 4 turns that isn't as strong as its usual buff. However, the attack buff does not stack with the other attack buff, but the accuracy buffs stack. This golem has around 24k HP and uses Core Activation when it has around 5-6k HP remaining.
 
     **Boss: Defensive Golem**
 
-    It will buff itself on turn 1 with extremely high defense/magic defense (it will take 0 damage in almost all cases). It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the def/mdef buff (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns.
+    It will buff itself on turn 1 for extremely high defense/magic defense. It also has the same moveset as the Offensive Golem in which it spams an AOE frontline attack or a column attack. It occasionally uses basic attacks. Every 4 turns, it will rebuff itself with the def/mdef buff (despite it having no duration). When it's about to die, it will buff itself with an accuracy buff and damage buff that are very mild for 4 turns. This golem has around 10k HP and uses Core Activation when it has around 2k HP remaining.
 
 ??? note "Saving the Dog and Adventurers"
     If you choose to save both the dog and adventurers at the same time, you will need to fight BOTH, and the def/mdef buff of the defensive golem applies to the offensive golem (but not the other way around for the offensive buff). If you choose to save only either one, you will still need to fight both golems, but one at a time instead.
 
 ??? note "Strategy"
-    ^^Frontline:^^
-    Frontline preferably 3 Knights/Fighters/Priest (any combination) with 300+ DEF. Ideally they should have the skill Self-healing with a Divine Power Staff switch for bonus healing. It's also preferable to have entire inventories of Ultra Healing. If possible, 180 evasion or higher is helpful for dodging attacks.
-
-    ^^Backline:^^
-    Backline preferably 1 Priest, 1 opening-hitter DPS, 1 Ninja. Ninja and Priest are required, all 3 backline should have self-healing with a Divine Power switch if they're not healers. Bring as many SP and MP pots as possible. This can be a long battle.
 
     ^^Strategy:^^
-    If your team is fast enough, you have 1 turn to burn the defense golem for as much HP as possible in 1 turn. You need to use defense penetration skills or extremely high level skills, otherwise you will do nothing substantial. 
+    If your team is fast enough, you have 1 turn to burn the golems for as much HP as possible in 1 turn. You need to use defense penetration skills or have relatively high attack preferably using 2h Weapons with enough substats.
 
-    Once the golems buff, ==you must have the ninja use dissipation on the offensive golem==. All units should defend at this point and wait for one of the golems to cause an opening. On average, the offensive golem hits for 200-250 to defending frontline without his damage buff.
+    Once the golems buff, ==you should have the ninja use dissipation on the offensive golem==. You can further reduce their damage by casting Balafeos or smacking the golems with Staff of Weakness.
 
-    Once an opening is created, have your backline opening-hitter do their strongest move against the golem. Every 4 turns, the golems will rebuff. You can tell when they are about to rebuff when the offensive golem has 1 turn of accuracy buff left. At this time it is safe to not defend with frontline and use Self-healing or Potions. This will keep MP costs down, but if you don't have a lot of MP, then it's okay to run another priest/mage with heals. 
+    Repeat until both are dead. Use heals as often as possible. It's entirely possible to evade the golems as well with enough evasion (180+) especially if the accuracy buff is dissipated as well (the attack buff is removed first).
 
-    Repeat until both are dead. Use heals as often as possible. Makaltu might be worth using at low levels to reduce ur overall mp cost in the fight by a bit but it's not necessary, and you will die regardless if the offensive golem moves to the frontline and attacks with the damage buff up. 
+    The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reaches near death because of Core Activation. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left. 
 
-    The defensive golem will likely die first, and the offensive golem will actually remove its invulnerability buff once it reache's near death. Dissipation still removes the damage buff first. It will still have quite a bit of HP so continue the strategy and only attack when it has 1 turn of accuracy left.
-
-    It is possible to speed up this fight by using Morlis, as that enables physical damage dealers to hit on the golems, but is generally not recommended unless your characters have a lot of evasion to avoid getting hit (180+). Defense penetration weapons or skills do not work, only Morlis appears to do so.
+    It's generally recommended to use 2H for this fight as these golems have very high defense. If you'd like to play it safe, Knight's Defense is an option here to tank 1 turn of undissipated damage. Samurai quickdraw stance here is also very effective as the golems can only cast physical attacks.
 
 ??? note "Additional Notes"
     - If you only save the dog, you get nothing but the stated gold in the request.
@@ -400,7 +393,7 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ??? note "Enemies"
 
     !!! danger "Enemies"
-        ![](./img/necrocore_request_fight.png)
+        ![](./img/necrocore_request_fight.jpg)
 
     **Boss: Necrocore**
 
@@ -409,14 +402,14 @@ Upon reaching Zone 4's Harken and returning, you will receive a message from the
 ##### Strategy
 
 ^^Frontline:^^
-    Preferably very tanky damage dealers Fighters are preferred (as they have Full Power Strike), but Knights can be used too for DPS purposes if they have high level damage skills. Try not to use Light element adventurers, as all the damage done by the enemies are Dark. It's almost MANDATORY to have Assault guard level 1 on all the frontline (Not necessary if you have Undead Resistance and/or Dark Element).
+    Preferably very tanky damage dealers Fighters are preferred (as they have Full Power Strike), but Knights can be used too for DPS purposes if they have high level damage skills. Try not to use Light element adventurers, as all the damage done by the enemies are Dark. It's very recommended to have Assault guard level 1 on all the frontline (Not necessary if you have multiple light gear)
 
 ^^Backline:^^
-    Two priests are preferred, especially if at least one of them can cast mage skills (Kantios). They ideally should both have Madios LvL 3+ and Makaltu Lvl 3+. If you do not have a Knight in the frontline OR are using the Knight for DPS purposes only, you ==WILL need a knight SPECIFICALLY to cast Knight's Defense.== Assault Guard is preferred on all the backline as well.
+    Two priests are preferred, especially if at least one of them can cast mage skills (Kantios). They ideally should both have Madios LvL 3+ and Makaltu Lvl 3+. If you do not have a Knight in the frontline OR are using the Knight for DPS purposes only, you ==WILL need a knight SPECIFICALLY to cast Knight's Defense.== Assault Guard is preferred on all the backline as well. (You do not need a knight if you have multiple pieces of light gear)
 
 ==The Knight casting Knight's Defense needs to be slower than all other party members==, but still be around ~70 ASPD give or take a few to not be outsped later in the fight by the Necrocore. 
 
-Generally speaking, you should try to have Undead Slayer gear for the boss if normal gear isn't doing enough damage.
+Generally speaking, you should try to have Light gear (dark resistance) for the boss if normal gear isn't doing enough damage.
 
 ^^Strategy:^^
     Essentially, this fight is a DPS race to see whether your team can kill the Necrocore before it wipes your team. The fight will ALWAYS start out as an Ambush, and as such, the Necrocore always gets a free hit on your party. He hits EXTREMELY hard and easily deals 500+ damage on an assault guarded frontline with 300+ defense. It's acceptable to restart if he does Spear Thrust instead of Zelos or Mazelos, as those are not affected by the attack buff he casts. Essentially you will be spamming Full Power Strike on Fighters OR Heavy Attack/Precision Strike/Armor Pierce LVL 3+ every turn on ONLY the Necrocore, as the fight will end once the Necrocore dies. Makaltu will help a lot with surviving the onslaught of damage every turn, as it's quite a lot EVEN with Knight's Defense. Two priests are preferred, as you often will need to cast Madios Lvl 3+ on both rows. When you do not need to heal, attempt to cast Kantios on the back row and then the front row. This will reduce the amount of damage you may take, as most of the basic enemies have Instant Kill moves or skills that deal a lot of AOE damage. It's also preferrable for the support adventurers to carry nourishing draught if you need more turns to deal with the Necrocore.

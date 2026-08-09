@@ -70,7 +70,7 @@ It isn't known the specific requirements for successfully fleeing, but if there 
 
 ## ^^Knight's Defense^^
 
-This is a skill learned by Knights at Lvl 51. It will effectively reduce all damage received by your team by ~50%, and is one of the few ways to survive encounters that are normally not (for example, certain enemies have full team AOE skills that hit multiple times for damage past your HP limit). The best way to utilize this is having your team all have relatively the same ASPD and being much higher than the enemy, but having the knight be the slowest of the team. This way, since the buff lasts one turn, everyone will have the buff active during the enemy's turn.
+This is a skill learned by Knights at Lvl 51. It will effectively reduce all damage received by your team (by ~40% at skill level 1), and is one of the few ways to survive encounters that you nnormally can't (for example, certain enemies have full team AOE skills that hit multiple times for damage past your HP limit). The best way to utilize this is having your team all have relatively the same ASPD and being much higher than the enemy, but having the knight be the slowest of the team. This way, since the buff lasts one turn, everyone will have the buff active during the enemy's turn.
 
 ## ^^Revival^^
 When a party member dies, you get an opportunity to revive them, but the
@@ -92,3 +92,8 @@ There are two tricks to doing it consistently that people have had luck with:
 * Adapt your strategies to available resources:
     * Use counterattacks and defense when overwhelmed.
     * Focus on action economy to increase survivability in challenging encounters.
+
+## ^^Ninja Crit Fishing^^
+* Takes advantage of the many attacks a level 25+ (relevant because ninjas learn [Ninja Dual Wield](../appendices/skills-and-spells/skills-and-spells.md#NinjaDualWield)) ninja can produce to trigger [Art of Assassination](../appendices/skills-and-spells/skills-and-spells.md#ArtofAssassination). 
+* The strategy often entails bringing multiple ninjas with high aspd/acc to normal attack a boss/bounty enemy in hopes of "fishing" out a critical hit, ending the fight (or at least the most lethal unit(s)) in one go. Be careful to not bring too weak of a team if the remaining enemies must still be cleared out. 
+* When facing bounty targets, you have a 100% chance to flee from combat - so, it is a good idea to have a single ally aspd tuned to go after your ninjas so you can decide to progress the fight or flee. If you flee from a bounty you must return to town or move to another zone to reset the zone the bounty target resides in, causing them to reappear. 
