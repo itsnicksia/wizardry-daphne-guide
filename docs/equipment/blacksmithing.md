@@ -403,6 +403,7 @@ A **Full Alteration Stone** allows you to reroll all unlocked substats on an ite
     - As of April 1st, 2025, can be purchased from the monthly pack: ^^Jeweler Curated Collection Set^^ for 74.99 USD.
     - From Old Castle Ruins Event Shop for 10000 event tokens.
     - Occasionally appear in Limited-Time Offers as an exclusive sale item in packs during events.
+    - Can be bought from the Guild Shop for 12500 Tokens.
 
 It re-rolls all blessings currently on an item. This process is subject to the same RNG that all items are subject to when generating stats on Reversal from junk. It also applies a bonus amount to each blessing that will be the same range as the enhancement bonus you get when enhancing an item to +5/10/15/20. This allows you to "double-dip" on stats when enhancing a piece of gear altered with FAS if it hasn't been enhanced already. Using this method will allow gear to receive stats significantly higher than naturally possible, even in ideal circumstances.
 
