@@ -93,6 +93,30 @@ This is unavailable for now and will be unlocked later during the event.
 ??? map "Goblin's Abode"
     ![](./img/goblins-abode.jpg)
 
+## Notorious Monsters
+
+### Potential Spawning Locations 
+
+=== "Zone 1" 
+
+    ![](./img/Zone 1 - NM.png)
+
+=== "Zone 2"
+
+    ![](./img/Zone 2 - NM.png)
+    
+=== "Zone 3"
+
+    ![](./img/Zone 3 - NM.png)
+
+=== "Zone 4"
+
+    ![](./img/Zone 4 - NM.png)
+
+=== "Zone 5" 
+
+    ![](./img/Zone 5 - NM.png)
+
 ## Harken's Blessings  
 The Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
 
