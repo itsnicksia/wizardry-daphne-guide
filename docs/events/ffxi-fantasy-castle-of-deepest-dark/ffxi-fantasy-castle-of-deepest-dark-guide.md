@@ -159,7 +159,16 @@ Some quick facts:
     - Enhancement blessing increases also follow Silver level table ranges for 1H and 2H items.  
     - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
-    - (unverified) "Remake"-ing a Level 4 item returns an enhanced item to +0 so you can enhance and reroll milestone blessings again. Base blessings and any FAS extra blessings are unchanged by Remaking. You will have to pay gp and ore for enhancing to +20 again. 
+- Remaking:
+  - Can be done only on max-reforged (Level 4) equipment at enhancement level 1 or higher
+  - What it does:
+    - Reverts enhancement level to 0
+    - Allows you to reroll ONLY milestone blessing boosts after enhancing equipment again
+    - Removes ALL blessing refinements (Boosts from refinement stones)
+  - Does not modify
+    - Reforge level (No need to farm materials again)
+    - Base blessing values (Need a LFAS or FAS for this)
+    - Altered blessings (Through common alteration stones)
 - Silver Tier Skills:  
     - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
     - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
