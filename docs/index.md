@@ -31,7 +31,7 @@
     - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)  
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)  
     - [Relicbrew Guide](./adventurer-customization/relicbrew.md)  
-    - Stat/Skill Enhancement: [Discipline](mechanics/discipline-and-inheritance.md#discipline), [Inheritance](mechanics/discipline-and-inheritance.md#Inheritance)  
+    - Stat/Skill Enhancement: [Discipline](mechanics/discipline-and-inheritance.md#discipline), [Inheritance](mechanics/discipline-and-inheritance.md#inheritance)  
     - [Merging Styles](mechanics/merging.md)  
     - [Class Change](./adventurer-customization/class-changes.md)  
     - **Raising Trust** - [Trust Guide](./mechanics/trust/trust.md), [Trust Dialogue Chart](./mechanics/trust/table.md)  
