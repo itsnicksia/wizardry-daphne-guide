@@ -875,7 +875,7 @@
         Cursed Wheel Settings
         
         - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending.
-        - See ["Greater Warped One Variations"](./corrosion.md#before-you-begin) for detailed instructions.
+        - See ["Greater Warped One Variations"](#greater-warped-one-variations) for detailed instructions.
         - Toggle Abducted Child to "Rescued Safely".
         - Leap to Fortress 2F Minor Harken (Zone 9 Harken).
         
