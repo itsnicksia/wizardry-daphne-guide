@@ -554,7 +554,8 @@ Goetia -> Admiral Route
 - Head to Valeon Grasslands and you’ll see a slave that runs away, just run a bit forward and you’ll see him on a hill then talk to him.  
 - Follow the slaves instructions to get to the poison swamps.  
 - Fight the bird and kill it.  
-- Use your right hand to restore the bird nest then head to the eggs left of the nest to restore them and head out by using the cart.  
+- Use your right hand to restore the bird nest then head to the eggs left of the nest to restore them and head out by using the cart.
+- Return to the head chef with tbe ingredients… prompting a chat with Pickerel where he agrees to withdraw from the fight after five rounds (you can just Defend for five rounds).
     
 ??? map "Pickerel's Location" 
     ![](img/image_66.jpg)
