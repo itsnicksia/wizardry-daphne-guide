@@ -22,7 +22,7 @@ Chests are typically static throughout the map variations and difficulties (They
     ![](img/fighter-map-4.png)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-5.png)
+    ![](img/fighter-map-4.png)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
