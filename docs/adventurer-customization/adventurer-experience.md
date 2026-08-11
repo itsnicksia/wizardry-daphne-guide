@@ -4,7 +4,13 @@
 
 <div class="nosort-table nofilter-table" markdown>
 
-{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0).to_html(justify="center", na_rep="", border=0).replace(' class="dataframe"', '') }}
+{{ pd_read_csv("data/exp-table.csv", dtype="str", header=[0,1], index_col=0)
+    .to_html( na_rep="", border=0)
+    .replace(' class="dataframe"', '')
+    .replace('<th>', '<th style="text-align: center;">')
+    .replace('<th colspan', '<th style="text-align: center;" colspan')
+    .replace('<td>', '<td style="text-align: center;">')
+    }}
 
 </div>
 
