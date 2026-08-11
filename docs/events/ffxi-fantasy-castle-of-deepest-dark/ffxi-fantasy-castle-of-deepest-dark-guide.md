@@ -63,7 +63,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
 
-Rewards:  Completing the request will reward you with a bondmate for each of [Lion, Ulmia, and Tenzen](#Bondmates) that you saved each with a Crystal.
+Rewards:  Completing the request will reward you with a bondmate for each of [Lion, Ulmia, and Tenzen](#bondmates) that you saved each with a Crystal.
 
 ### 3rd Run
 
