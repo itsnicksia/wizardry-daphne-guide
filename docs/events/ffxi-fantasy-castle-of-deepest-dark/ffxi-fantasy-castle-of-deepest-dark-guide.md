@@ -181,8 +181,8 @@ Some quick facts:
 - Blessing types are all locked, so L/FASing them will keep blessing types the same and just reroll the values, similar to Master Rings from class trials.  
 - Enhancement:  
     - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-    - Enhancement costs for all levels follow the Silver (Special) item tables. (~1M for 1H, Staff, and shield, 2.4M gp for 2H weapons).
-    - Enhancement blessing increases also follow Silver level table ranges for 1H and 2H items.  
+    - Enhancement costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).
+    - Enhancement blessing increases also give the Silver level table ranges for 1H and 2H items (even if you enhance at lower levels).  
     - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
 - Remaking:
