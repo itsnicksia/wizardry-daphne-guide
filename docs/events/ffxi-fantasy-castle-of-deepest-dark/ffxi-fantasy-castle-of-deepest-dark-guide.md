@@ -204,10 +204,10 @@ Some quick facts:
 ### Relic Material Totals
 ??? tip "Relic Material Count Table"
     === "by type"
-        ![](./img/collab_relic_equipment_fodder_bytype.png){width="300" height=auto}
+        ![](./img/collab_relic_equipment_fodder_bytype.png){width="400" height=auto}
     
     === "by rank"
-        ![](./img/collab_relic_equipment_fodder_byrank.png){width="300" height=auto}
+        ![](./img/collab_relic_equipment_fodder_byrank.png){width="400" height=auto}
 
 Total material required to make all Relic items:
 
