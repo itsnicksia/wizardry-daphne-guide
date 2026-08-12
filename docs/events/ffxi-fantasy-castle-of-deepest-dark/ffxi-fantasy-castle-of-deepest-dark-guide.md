@@ -197,7 +197,9 @@ Some quick facts:
         - Altered blessings (Through common alteration stones)
 - Silver Tier Skills:  
     - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
-    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
+    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon.
+    - The buffs/debuffs from the effects are not affected by turn-extending effects.
+    - The cost of the active skillse are 31-34 SP (or MP for the staff).
 
 ### Relic Material Totals
 ??? tip "Relic Material Count Table"
