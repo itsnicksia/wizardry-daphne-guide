@@ -202,7 +202,7 @@ Some quick facts:
     - The cost of the active skillse are 31-34 SP (or MP for the staff).
 
 ### Relic Material Totals
-??? tip "Relic Material Count Table"
+???+ tip "Relic Material Count Table"
     === "by type"
         ![](./img/collab_relic_equipment_fodder_bytype.png){width="400" height=auto}
     
