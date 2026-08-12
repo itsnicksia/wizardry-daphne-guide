@@ -2,7 +2,7 @@
 
 ## Tutorial Dungeon  
 
-After starting the game, you find yourself in a tough situation.
+After starting the game, you find yourself in a tough situation.  Don't worry about things going well. They won't. It's okay.
 
 Follow the on-screen instructions and after some spooky scenes, you'll be prompted with a personality quiz.
 
