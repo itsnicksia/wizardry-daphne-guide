@@ -55,7 +55,8 @@ You'll be shown the result and prompted for confirmation after answering the que
 
 If you made a mistake or decide you want a different alignment, just retake the quiz at the end. You can do this as many times as you want ([it can be gradually changed later in the game](../../adventurer-customization/alignment.md)) and then you'll regain control of your character.
 
-![](./img/lulunarde.jpg){align=right width="250" height=auto} Explore the dungeon (see below) until you meet a ghostly Girl - have a chat with her and follow her instructions.     
+### Welcome back, let's explore.
+![Lulunarde](./img/lulunarde.jpg){align=right width="250" height=auto} Explore the dungeon (see below) until you meet a ghostly Girl - Lulunarde.  Have a chat with her and follow her instructions. You two are going to be spending a lot of time together.
 
 Don't worry about the rubble and that purple circle yet.  You will be able to come back later to explore that area. 
 
