@@ -60,8 +60,10 @@ If you made a mistake or decide you want a different alignment, just retake the 
 
 Don't worry about the rubble and that purple circle yet.  You will be able to come back later to explore that area. 
 
+<div class = "alight = left">
 ??? map "Place of Awakening"
     ![Place of Awakening map](img/place-of-awakening.jpg)
+</div>
 
 ### Combat!
 
