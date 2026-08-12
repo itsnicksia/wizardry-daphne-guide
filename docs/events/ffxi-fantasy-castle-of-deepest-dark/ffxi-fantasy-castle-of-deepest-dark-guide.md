@@ -203,8 +203,11 @@ Some quick facts:
 
 ### Relic Material Totals
 ??? tip "Relic Material Count Table"
-
-    ![](./img/collab_relic_equipment_fodder.png){width="300" height=auto}
+    === "by type"
+        ![](./img/collab_relic_equipment_fodder_bytype.png){width="300" height=auto}
+    
+    === "by rank"
+        ![](./img/collab_relic_equipment_fodder_byrank.png){width="300" height=auto}
 
 Total material required to make all Relic items:
 
@@ -412,7 +415,8 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 - After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items.  There will also be Golden Pickaxes in the Jeweler Exchange.  
 - In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. See locations on the Maps below. You will almost always get one or two types of items from the list below.  
-- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes will last longer, but they do cost valuable event currency (Gil). At least at the start while you're still accumulating currency, it's probably best to stick to just loading up on as many regular ones as you can carry.  
+- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, but they provide 3x the mining return per use. They do cost valuable event currency (Gil). At least at the start while you're still accumulating currency, it's probably best to stick to just loading up on as many regular ones as you can carry.
+- Mining results are not limited by player progress or rank, so this is one of the few free-to-play ways to get early access to higher levels of ore than you can find in the regular game.
 
     - enhancement ore: low, mid, high, fine, and silver grade  
     - sellables: mainly translucent gems  
