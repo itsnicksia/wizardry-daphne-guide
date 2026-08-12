@@ -59,9 +59,9 @@ If you made a mistake or decide you want a different alignment, just retake the 
 !!! info inline end "Lulunarde"
     ![Lulunarde](./img/lulunarde.jpg)  
 
-Explore the dungeon (see below) until you meet a ghostly Girl - Lulunarde.  Have a chat with her and follow her instructions. You two are going to be spending a lot of time together.
+You'll wake up in a dungeon (see below).  Explore the nearby area until you meet a ghostly Girl - Lulunarde.  Have a chat with her and follow her instructions. Maybe give yourself a name, or accept one as a suggestion.  Later you may get a chance to change it if you want.  In the meantime you two are going to be spending a lot of time together.
 
-Don't worry about the rubble and that purple circle yet.  You will be able to come back later to explore that area. 
+Don't worry about the rubble and that purple circle you see on the map. You can't do anything with that yet.  Later, you will get the opportunity to come back later and explore that area. 
 
 !!! map inline "Place of Awakening"
     ![Place of Awakening map](img/place-of-awakening.jpg)
@@ -69,13 +69,13 @@ Don't worry about the rubble and that purple circle yet.  You will be able to co
 
 ### Combat!
 
-Before long, you'll find yourself in combat with a Goblin - kick it's ass.  Make sure you pick up *and equip* all of the equipment scattered about the dungeon; it makes the combat a bit easier.
+Before long, you'll get some free stuff and then find yourself in combat with a vicious Goblin - learn how that works and kick its ass.  Make sure you pick up *and equip* all of the equipment scattered about this dungeon floor; it's not the best, but makes the combat a bit easier.  You'll get to replace some of it soon.
 
 ### Freedom?
 
-After the cutscene you appear outdoors, rewarded with fresh air and... some bandits.
+Lulunarde will keep offering you some flavor text, background, and cutscenes as you head your way out of the dungeon. You will soon find your way outdoors, where you will be rewarded with fresh air and... some bandits.
 
-Kick their asses.
+Kick their asses.  (Starting to sense a pattern?)  Then go find Lulunarde who wandered off somewhere.  The location is random, so just walk everywhere on the small map until you run into her.  Then head up and out. 
 
 ### Royal Capital Luknalia
 
