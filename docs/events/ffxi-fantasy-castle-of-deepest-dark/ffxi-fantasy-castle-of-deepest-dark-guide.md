@@ -13,7 +13,8 @@
 
     - [Zeid](../../../adventurers/legendary-adventurers/details/Zeid.md) 
     - [Iroha](../../../adventurers/legendary-adventurers/details/Iroha.md) 
-    - [Prishe](../../../adventurers/legendary-adventurers/details/Prishe.md)  
+    - [Prishe](../../../adventurers/legendary-adventurers/details/Prishe.md)
+
 
 === "Free Event Unit"
 
@@ -31,20 +32,28 @@
 
 === "Event Unlock Triggers"
 
-    - The event has several new systems that unlock based on progression. On your first run it is **very critical that you exit back to Northern Hollow (event town) every time you unlock a new Harken** as they can be missed and require CW-ing to fix. 
-    - Zone 3 - Goblin Blacksmith and Relic Weapons
-        - Unlock the Zone 3 Harken. Exit back to the Royal Capital (or any town with a Jeweler). 
-        - The Jeweler now offers 7 relic weapons for 500 Gil each. Purchase all of them. 
-        - Return to Northern Hollow and watch the cutscene. Click on the new Blacksmithing icon for a cutscene with your new goblin blacksmith! 
-        - Now you have access to the Reforge and Remake options for the Relic Weapons. Dedicated section [here](#relic-weapopns). 
-    -  Zone 4 - Mining 
-        - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
-        - In the item shop you can now purchase a consumable item called the Northcleft Pickaxe. The Jeweler sells the Gold Northcleft Pickaxe for 500 Gil. The gold version triples (3x) anything that you mine. As of the 8/13 update they also work on the event dispatches. 
-        - Mining nodes are scattered across each floor. Pickaxes have a roughly 50% chance to break per swing. And they will always break on the 2nd swing. 
-    - Zone 6 - Trading 
-        - This is the Harken right before the final event boss. 
-        - Return to Northern Hollow and go to the Tavern. The Trader will give you a brief tutorial on how the process works. 
-        - Trading is the primary way of upgrading your Relic weapons. 
+    === "Systems" 
+    
+        - The event has several new systems that unlock based on progression. On your first run it is **critical that you exit back to Northern Hollow every time you unlock a new Harken** as the cutscenes can be missed and require CW-ing to fix. 
+        - Zone 3 - Goblin Blacksmith and Relic Weapons
+            - Unlock the Zone 3 Harken. Go to any town that has a Jeweler.  
+            - Go to Jeweler > Exchange > Fantasy Castle of the Deepest Dark tab, which will now offer 7 relic weapons for 500 Gil each. Purchase all of them. 
+            - Return to Northern Hollow and watch the cutscene. Click on the new Blacksmithing icon for a cutscene with your new goblin blacksmith! 
+            - Now you have access to the Reforge and Remake options for the Relic Weapons. Dedicated section [here](#relic-weapopns). 
+        -  Zone 4 - Mining 
+            - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
+            - In the Item shop you can now purchase a consumable item called the Northcleft Pickaxe. Northern Hollow is the only location in the game where these can be purchased. 
+            - The Jeweler will now exchange 500 Gil for 1 Gold Northcleft Pickaxe. The gold version triples (3x) anything that you mine. As of the 8/13 update they also work on the event dispatches. 
+            - Mining nodes are scattered across each floor. Both types of pickaxes have a 50% chance to break on the first swing and a 100% chance to break on the second swing.
+        - Zone 6 - Trading 
+            - The Zone 6 Harken is right before the final event boss. 
+            - Return to Northern Hollow and go to the Tavern. The Trader will give you a brief tutorial on how the process works. 
+            - Trading is the primary way of upgrading your Relic weapons. 
+
+    === "Dispatches"
+
+        - There are a total of 3 special dispatches that can be accepted in the Royal Capital. They are blue-colored and near the center of the dispatch list, so they are easy to miss if you are scrolling quickly. 
+        - The dispatches are tied to having the Harkens unlocked on Zone 2, 3, and 5. The 8/13 patch fixed Harken's reverting back to being unlocked if you CW. If a dispatch disappears, you will have to manually go back to each floor and restore the Harken again. 
 
 ## Guide 
 
@@ -58,29 +67,33 @@
         4. Enter Zone 1 and speak with the goblin blocking your way. Give him any basic healing item or scroll.
         5. Take the left or right path and head north. They both connect at the Keep entrance along with the first Harken.
         6. At the Keep entrance you will see Cait Sith. She will ignore you and run inside. Proceed to Zone 2 and you will get into a scripted ambush fight. Prishe will show up to assist. After the battle she will tell you that she is hungry and will not move until you give her something to eat. You have several options at this point. If you have a Mackerel sandwich from A2 you can speak with her again to progress. If not, you will have to complete 1 of 2 side quests. See "Feeding Prishe Sidequest" for details. 
-        7. After feeding Prishe head north to step on a switch to unlock the door. Zone 2 is a large area with several side areas. Head to the top right-side of the map where you will meet Iroha who will open the door for you. Unlock the nearby Harken and proceed to Zone 3. It is important that you return back to town every time you unlock a Harken on a floor as new features (blacksmithing, trading, etc.) are triggered at these specific points and can be missed. 
+        7. After feeding Prishe head north to step on a switch to unlock the door. Zone 2 is a large area with several side areas. Head to the top right-side of the map where you will meet Iroha who will open the door for you. Unlock the nearby Harken and proceed to Zone 3. It is important that you return back to town every time you unlock a Harken on a floor as new features (blacksmithing, trading, etc.) are triggered at these specific points and can be missed. Exiting at Zone 3 unlocks the Goblin Blacksmith and Relic Weapon systems.  
         8. Proceed through Zone 3 until you reach the central area where you will meet Zeid. Unlocking the door requires completing a mini-puzzle that requires temporarily sacrificing 2 party members. The Gorgon statues are located at (X:6, Y:17) and (X:20, Y:17). You will not lose any party members permanently. The only effect is that it increases their "hatred" toward you, which you cannot do anything about on your first run.  
         9. After unlocking the door, proceed north to see a cutscene between Lion and Zeid. The Shadowlord will appear and absorb both of them. Unlock the nearby Harken, go back to town, and then return and head to Zone 4. 
         10. In Zone 4 there are 3 portals, which take you do self-contained areas on the map. The left-most takes you to the left area; the central portal takes you to the bottom-right area; and, the right-hand portal takes you to the 3 Doors puzzle, which is where we want to go to proceed with the main story. The side areas have NM spawn locations, so they are worth investigating on a regular basis if you are farming for Attestations or Fragment drops.  
         11. Take the right-hand portal where you will encounter Prishe again in front of the 3 Doors puzzle. The basic idea is that each door corresponds to an alignment (Good-Neutral-Evil). Whatever party members do not match that alignment will incur a penalty and an increase in hatred toward the MC. The door you select does not matter for this run (but does matter on the second run). If you return to this area in the future on your first run the entire mechanic is disabled so you can explore and farm freely. 
-        12. Go through the portal after the 3 Doors and proceed until you encounter a cutscene between Prishe and Ulmia. There will be a mini-boss fight. Afterward the Shadowlord will appear again and absorb both of them. Unlock the nearby Harken, return to town, and then proceed to Zone 5. 
+        12. Go through the portal after the 3 Doors and proceed until you encounter a cutscene between Prishe and Ulmia. There will be a mini-boss fight. The Shadowlord will appear again and absorb both of them. Unlock the nearby Harken, return to town, and then proceed to Zone 5. The Mining system is now unlocked and you can purchase pickaxes at the Northern Hollow's Item Shop. Or, the gold version at any Jeweler in exchange for 500 Gil.   
         13. In Zone 5 you will meet Iroha again. After the brief conversation proceed to the central area where you will see 2 portals. Each has a pressure plate you need to step on to unlock the door. Once that is done unlock the Harken, return to town, etc. When you are ready proceed to Zone 6. 
-        14. Zone 6 is a straight bridge. Continue north until the cutscene between Iroha and Tenzen triggers. Another mini-boss fight against Tenzen will ensue. The Shadowlord will appear again and absorb both of them. Proceed north afterward for another cutscene where the eldest brother will also be absorbed by the Shadowlord. 
-        15. Warning! As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins.
-        16. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via MC's Grade) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
-
+        14. Zone 6 is a straight bridge. Continue north until the cutscene between Iroha and Tenzen triggers. Another mini-boss fight against Tenzen will ensue. The Shadowlord will appear again and absorb both of them. Proceed north afterward for another cutscene where the eldest brother will also be absorbed by the Shadowlord. Unlock the Harken, exit, and return to Northern Hollow to unlock the Trading system in the Tavern.  
+        15. Warning! Per usual, the first run is a "bad" ending. The upcoming fight is a scripted loss and your entire team will die and need to be revived. You will need to do enough damage to the Shadowlord to trigger the cutscene where he begins to absorb your teammates. If you are strong enough you can bring fewer party members or units that you do not care about. This is not recommended for newer players as you may not be able to do enough damage to trigger the scripted loss scene. As you are dying Lulu will comment that you should seek out Cait Sith for answers. Upon death you will be forced back to the CW to reset the event for your 2nd run.  
+        
     === "Tips" 
     
-        - It is highly recommended to have completed Abyss 2 at least to the point in which you receive a Mackerel Sandwich (and have an extra one in your inventory) before proceeding with the 1st Run. This will save some time in this event.
+        - To avoid having to do the Feed Prishe sidequest you can get a Mackerel Sandwich in the Port Town if you have completed A2. 
 
     === "Feeding Prishe Sidequest"
     
-        1. After speaking with Prishe exit the event dungeon and head back to Northern Hollow. Go to the Tavern and talk to the Chef.
-        2. He will request rabbit meat or barley as ingredients. These are 2 separate side quests and either are sufficient to feed Prishe.
-        3. Rabbit meat can be obtained from any fight against Vorpal Bunnies, which are in almost every Abyss and side dungeon.
-        4. The barley request is more involved. Exit the Tavern and speak with the NPC asking for help against a pack of goblins. Accept and after the fight he requests that you eliminate all the goblins in a nearby cave as a long-term solution. This will unlock the Goblin Abode on the world map. Proceed inside and kill every enemy. You will get Lulu text when you are done and it is easy to miss some of the mobs, so comb the area carefully.
-        5. After you are done speak with the NPC back in town and the request will be completed and he will hand over the barley and a small Gold reward.
-        6. Return to the chef and had over the rabbit meat and/or barley. He will give you a sandwich and soup in return. Return to Prishe and feed her either item to proceed to the rest of Zone 2. 
+        - After speaking with Prishe exit the event dungeon and head back to Northern Hollow. Go to the Tavern and talk to the Chef.
+        - He will request rabbit meat or barley as ingredients. These are 2 separate side quests and either are sufficient to feed Prishe.
+        - Option 1: Rabbit Meat 
+            - Rabbit meat can be obtained from any fight against Vorpal Bunnies, which are in almost every Abyss and side dungeon.
+        - Option 2: Barley 
+            - The barley request is more involved. Exit the Tavern and speak with the NPC asking for help against a pack of goblins. 
+            - Accept and after the fight he requests that you eliminate all the goblins in a nearby cave as a long-term solution. This will unlock the Goblin Abode on the world map. 
+            - The Goblin Abode is a small side dungeon. The goal is to kill every enemy. Lulu will comment when you are done. Note that it is easy to miss some of the mobs, so comb the area carefully.
+            - After you are done speak with the NPC back in town and the request will be completed and he will hand over the barley and a small Gold reward.
+        - When finished with either option return to the chef and had over the rabbit meat and/or barley. He will give you a sandwich and soup in return. 
+        - Return to Prishe and give her either item and proceed to the rest of Zone 2. 
 
     === "Goblin's Abode Map"
         ![](./img/goblins-abode.jpg)
@@ -88,39 +101,64 @@
 
 ??? note "2nd Run"
 
-    1. Accept the request in the Royal Capital and head back to the Entrance of Zone 1. Cait Sith will be there again but avoid you.
+    === "Guide" 
+    
+        1. Full reset the event CW. Repeat all of the steps from the 1st run and head to the Keep entrance in Zone 1. Cait Sith will be there, but disappears.
+        2. Redo the Feed Prishe sidequest. At the end of Zone 2 you will encounter Iroha again. Unlike the 1st run you can now try to catch Caith Sith. Return to the large central room. Her locations are randomized and she can sometimes be hard to see if she is standing next to a pillar so search carefully. The options you select do not seem to matter. After 3-4 encounters you will be offered the Guidelight Bugs (Valuable item), which will light up when you are in close proximity to a Crystal of Hope. It will turn green when you are several tiles away and purple when it is in close proximity. The crystals appear as shiny, white interactable objects. They can be on the floor or walls and are easy to miss.   
+        3. For the 2nd run you have 3 primary objectives:
+            - Collect all 3 Crystals of Hope that correspond to each event unit's companion (Lion, Ulmia, Tenzen). 
+            - Use the corresponding crystal before the mini-boss fight ("Hold it up like a sword") to prevent the Shadowlord from absorbing each pair. 
+            - Eliminate the party's "hatred" toward the MC by successfully completing the Stone Gorgon and 3 Doors puzzles, which will create new toggles on your CW. 
+        4. Lion's crystal is in Zone 2. There are 3 different locations where it can randomly appear. They are all located in the side areas branching out from the central room.  
+        5. Go to Zone 3 and interact with one of the Gorgon statues. You will now be offered the option to sacrifice yourself. This action prevents the team's "hatred" from growing. There is no need to interact with the 2nd Gorgon as the door will now be open. If you do -not- sacrifice yourself, then the CW toggle will not register properly. 
+        6. Procced through the door and watch the scene between Zeid and Lion. This time you will be offered 3 options. Select "Hold it up like a sword". If you do not select this option, then the crystal will break and you will see the "bad" ending again where both of them are absorbed. 
+        7. Warning! Before entering Zone 4 read the 3 Doors Puzzle tab and decide how you would like to proceed. 
+        8. When you enter Zone 4 your two tasks are to 1) find Ulmia's crystal and 2) complete the 3 Doors puzzle correctly if you want the CW toggle. The location of Ulmia's crystal is randomized, but tends to appear in the area immediately after stepping on one of the 3 portals from the central zone. This is the elevated area with a fixed enemy a few spaces away. To proceed to the mini-boss fight take the right-hand portal from the central area. 
+        9. Same process as before. Hold up the crystal and clear all the enemies. Remember that your formation will be moved around. The Shadowlord will appear again but will be unable to absorb Prishe or Ulmia. 
+        10. Tenzen's crystal is located in Zone 5. It generally appears in one of the side areas to the left or right, including the 1-way rooms. An enemy may be standing on its tile. Like last time you will need to unlock the door by taking the central 2 portals and stepping on their respective switches. Proceed to Zone 6. 
+        11. Same process. Hold up the crystal and defeat Tenzen. Both are saved. Unlock the Harken and prepare for the Shadowlord boss fight. When ready enter Zone 7. 
+        12. Before the fight starts you will need to assign a pair of collab units to protect each of the 3 brothers. Assignments do not seem to matter outside brief flavor text. 
+        12. See Boss: Shadowlord tab for details.
+        13. After the fight speak with the 3 brother NPCs. You will be automatically returned to town. Return to the Royal Capital to turn in the request.
+        14. Lulu comments that things do not seem right and that you should speak with Cait Sith. 
+        15. CW back to the second node and head to the Keep entrance. Since you now have possession of the 3 Crystals of Hope she will tell you to come back later. Exit the dungeon, re-enter, and speak with her again. This is the start of the 3rd run. 
 
-    2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map. The options do not seem to matter, it is random. If you do not successfully catch her, she will just walk a few tiles away and you will need to attempt to catch her a few more times. They will give you Guidelight Bugs which will allow you to find Crystals of Hope that will basically prevent the Shadow Lord from absorbing everyone. For the first one, you will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The Location will be random. You will need to do this two more times on later floors for their respective encounters.
+    === "3 Doors Puzzle"
+    
+        - To register the CW toggle correctly everyone in your party must be the -same- alignment as MC. A party size of 2-3 works fine if you are strong enough to kill the fixed mobs blocking the path. 
+        - As previously noted, each of the 3 doors corresponds to Good-Neutral-Evil alignment. Make sure you read the text when you interact with the door to go through the correct one. 
+        - If completed successfully you will get new Lulu text ("Did you change our party lineup specifically for this door, by chance?"). You can return back to town before the Ulmia mini-boss fight. 
+        - Notes 
+            - You can still progress the main story with a mixed alignment team. The only consequence is 1) the penalty to non-matching units and 2) the CW toggle not registering.
+            - After going through the door once the mechanic is disabled, so it is safe to farm the area for NMs and mining in the future. 
+            - If you completed -both- the Stone Gorgon and 3 Doors puzzles correctly, then none of your teammates should turn on you during the Shadowlord boss fight. 
 
-    3. Head to Zone 3 and interact with one of the Gorgons. You will be offered a new option to sacrifice yourself. Select this option, you will be turned to stone, and your team will drag you to the door. Sacrificing yourself prevents your team from becoming angry with you. You can now proceed to through the door and do not need to interact with the 2nd Gorgon. Continue to the cutscene, but this time choose the option of holding the crystal up like a sword. (If you do not choose this option, then you will get the "bad" ending). You will enter a fight afterwards, but Lion and Zeid will be saved. Before you continue to Zone 4 however....
+    === "Boss: Shadowlord" 
+    
+        === "Dark Lord Immunity" 
+        
+            - The second run adds a new gimmick to the fight. He can completely nullify all physical or magical attacks depending on his current state. 
+            - He will rotate back-and-forth between both states. It is clearly sign-posted and you will see an icon above his head letting you know which type of attack will be nullified. 
+            - Recommend you bring at least 1 physical and 1 magical DPS unit to the fight
+            - Alternatively, you can bring mainly physical DPS with support units. When he has physical immunity you can use those turns to heal, buff, defbuff, etc. 
+        
+        === "Strategy" 
+        
+            - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
+            - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
+            - Does not have conventional HP amount. Rather, a certain amount of damage needs to be dealt per phase, otherwise the battle does not seem to progress. The phases are before he casts the physical barrier, before he casts implosion, and after it is cast.
+            - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies albeit with a big damage penalty.
+            - All of his moves are telegraphed. He will typically alternate between Dark Nova and Giga Slash. Dark Nova is a full team dark AOE. Giga Slash is a physical row AOE to either front or back row.
+            - After doing enough damage, he will become invulnerable to physical attacks. After doing enough magic damage, he will swap to a magic barrier instead on his next turn, but also any allies that are enraged in your team will be cleansed by the Crystal's Powers (cutscene). After this, he will ready Swath of Silence which on his next turn will cast Implosion, which is a full team dark AOE, and then follow up immediately with a -ga spell (Aeroga, Firaga, etc), a magic row AOE. After this point it's possible for him to swap immunities again if you take long enough.
+        
+        === "Picture"
+        
+            ![](./img/shadowlord.jpg)
 
-    !!! note "The 3-door puzzle (Good-Neutral-Evil)"
-      Everyone in the party must be the same alignment, including the MC, and you must go through tbe correct door with them to have no bad effects. You will get special Lulu text ("Did you change our party lineup specifically for this door, by chance?") if done correctly. There is a teleporter near the door to confront Ulmia that you can use to return to the center of the room, exit back to town, and reassemble your usual party before the boss fight. Passing this puzzle correctly also prevents any of your units from being enraged during the boss fight as everyone is at 0 "Hate". The alignment trap only triggers on your first trip through any of the three doors. Subsequent trips can be done with any party configuration without any ill effect.  
-        
-    4. There is a Crystal of Hope in Zone 4 for Ulmia you need to find before confronting her. You may need to look up on the wall for it. As per usual, it is randomly located souse the indicator to see when you get close and check every portal. For the puzzle, bring a party of only 1 alignment and go through that door. Use the teleporter to leave and change back to your nmregular party if necessary, then continue onwards through thr door and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.  
-
-    5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
-        
-    !!! note "Dark Lord Immunity"  
-        It is recommended to bring at least one physical and one magical damage dealer for this fight, as the Shadow Lord can become immune to one or the other during the fight. Alternatively, use any turns where you cannot significantly damage him to heal, buff, and wait for thr immunity to end.  
-        
-    6. Because you saved every single group of adventurers, you are able to assign each to protect someone, which allows you to freely fight the Shadow Lord.
-        
-    ??? danger "Shadow Lord"
-        
-        ![](./img/shadowlord.jpg)
-        
-        - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
-        - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
-        - Does not have conventional HP amount. Rather, a certain amount of damage needs to be dealt per phase, otherwise the battle does not seem to progress. The phases are before he casts the physical barrier, before he casts implosion, and after it is cast.
-        - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies albeit with a big damage penalty.
-        - All of his moves are telegraphed. He will typically alternate between Dark Nova and Giga Slash. Dark Nova is a full team dark AOE. Giga Slash is a physical row AOE to either front or back row.
-        - After doing enough damage, he will become invulnerable to physical attacks. After doing enough magic damage, he will swap to a magic barrier instead on his next turn, but also any allies that are enraged in your team will be cleansed by the Crystal's Powers (cutscene). After this, he will ready Swath of Silence which on his next turn will cast Implosion, which is a full team dark AOE, and then follow up immediately with a -ga spell (Aeroga, Firaga, etc), a magic row AOE. After this point it's possible for him to swap immunities again if you take long enough.
-        
-    7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. 
-    8. Lulunarde will recommend you to go talk to Cait Sith. Cursed Wheel to before you first saw her at the castle entrance in Zone 1. Talk to her while in possession of all three crystals and she'll tell you to come back to visit later after she's thought through how to really fix things.   (Note - this started as a countdown to Mid August when part two would release.)
-        
-    Rewards:  Completing the request after saving all three friends will reward you with a bondmate for each of [Lion, Ulmia, and Tenzen](#bondmates) that you saved each with a Crystal.
+    === "Bondmates" 
+    
+        - Completing the request will reward you with a bondmate for each of the side companions (Lion, Ulmia, and Tenzen). 
+        - We do -not- recommend that you farm these bondmates until the 3rd run, which is more efficient and allows you to level up the 4th and final bondmate at the same time. 
 
 ??? note "3rd Run" 
 
@@ -137,7 +175,7 @@
 
     Rewards: Completing the request with all six crystals and having saved all three friends will reward you with [the same bondmates as before plus Cait Sith as a bondmate](#bondmates).
     
-### Maps
+## Maps
 
 ??? map "Zone 1"
     ![](./img/zone-1-baileys.jpg){ width="500" }
