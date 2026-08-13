@@ -30,22 +30,18 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
         12. Go through the portal after the 3 Doors and proceed until you encounter a cutscene between Prishe and Ulmia. There will be a mini-boss fight. Afterward the Shadowlord will appear again and absorb both of them. Unlock the nearby Harken, return to town, and then proceed to Zone 5. 
         13. In Zone 5 you will meet Iroha again. After the brief conversation proceed to the central area where you will see 2 portals. Each has a pressure plate you need to step on to unlock the door. Once that is done unlock the Harken, return to town, etc. When you are ready proceed to Zone 6. 
         14. Zone 6 is a straight bridge. Continue north until the cutscene between Iroha and Tenzen triggers. Another mini-boss fight against Tenzen will ensue. The Shadowlord will appear again and absorb both of them. Proceed north afterward for another cutscene where the eldest brother will also be absorbed by the Shadowlord. 
-
-        !!! danger "As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins."
-
-        15. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via MC's Grade) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
+        15. Warning! As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins.
+        16. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via MC's Grade) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
 
 
     === "Feeding Prishe Sidequest"
     
-      1. After speaking with Prishe exit the event dungeon and head back to Northern Hollow. Go to the Tavern and talk to the Chef.
-      2. He will request rabbit meat or barley as ingredients. These are 2 separate side quests and either are sufficient to feed Prishe.
-      3. Rabbit meat can be obtained from any fight against Vorpal Bunnies, which are in almost every Abyss and side dungeon.
-      4. The barley request is more involved. Exit the Tavern and speak with the NPC asking for help against a pack of goblins. Accept and after the fight he requests that you eliminate all the goblins in a nearby cave as a long-term solution. This will unlock the Goblin Abode on the world map. Proceed inside and kill every enemy. You will get Lulu text when you are done and it is easy to miss some of the mobs, so comb the area carefully.
-      5. After you are done speak with the NPC back in town and the request will be completed and he will hand over the barley and a small Gold reward.
-      6. Return to the chef and had over the rabbit meat and/or barley. He will give you a sandwich and soup in return. Return to Prishe and feed her either item to proceed to the rest of Zone 2. 
-
-
+        1. After speaking with Prishe exit the event dungeon and head back to Northern Hollow. Go to the Tavern and talk to the Chef.
+        2. He will request rabbit meat or barley as ingredients. These are 2 separate side quests and either are sufficient to feed Prishe.
+        3. Rabbit meat can be obtained from any fight against Vorpal Bunnies, which are in almost every Abyss and side dungeon.
+        4. The barley request is more involved. Exit the Tavern and speak with the NPC asking for help against a pack of goblins. Accept and after the fight he requests that you eliminate all the goblins in a nearby cave as a long-term solution. This will unlock the Goblin Abode on the world map. Proceed inside and kill every enemy. You will get Lulu text when you are done and it is easy to miss some of the mobs, so comb the area carefully.
+        5. After you are done speak with the NPC back in town and the request will be completed and he will hand over the barley and a small Gold reward.
+        6. Return to the chef and had over the rabbit meat and/or barley. He will give you a sandwich and soup in return. Return to Prishe and feed her either item to proceed to the rest of Zone 2. 
 
 ??? note "2nd Run"
 
