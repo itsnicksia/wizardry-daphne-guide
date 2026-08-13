@@ -206,18 +206,18 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 - The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Some reforging materials can be obtained at the Event Jeweler Exchange, some by farming the event dungeon, and some through the trading mechanism described above.  
 - There is no level or story progress restriction to possessing any of the relic upgrade materials, but getting drops of the highest level does seem limited for lowest level players. But through various means it is possible for even the lowest level event participant to theoretically finish with some Silver rank equipment.  
 
-!!! tip "Quick Relic Item facts"  
+???+ tip "Quick Relic Item facts"  
 
     - Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings. 
+    - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
     - Blessing types are fixed. L/FASing them keeps blessing types the same and just rerolls the values, similar to Master Rings from class trials.  
     - Enhancement:  
-        - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-        - Enhancement costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).  
-        - Enhancement blessing increases follow the Silver level table ranges for 1H and 2H items (even if you enhance at lower levels).  
-        - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
-        - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
+        - Limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
+        - Costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).  
+        - Blessings and increases all follow the Silver level table ranges for 1H and 2H items (even if you enhance at lower relic level).  
+        - Reforging has no affect on enhancement level or blessings.  
     - Remaking:  
-        - Can be done only on max-reforged, Silver level equipment
+        - Can be done only on max-reforged, Silver level (Level 4) equipment
         - What it does:
             - Reverts enhancement level to 0
             - Allows you to reroll ONLY milestone blessing boosts when enhancing equipment again
@@ -228,10 +228,10 @@ The Harkens in the event can provide both the basic blessings and unique Event b
             - Altered blessings (Through common alteration stones)
             - FAS bonus blessing amounts
     - Silver Tier Skills:  
-        - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
-        - The active skill damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon.
-        - The buffs/debuffs from the effects are not affected by turn-extending effects.
-        - The cost of the active skillse are 31-34 SP (or MP for the staff).
+        - At Silver Reforge Level, items gain an active and a passive skill for to the bearer when equipped.  
+        - Active skill damage is approximately equivalent to Lvl 6 Heavy Attack on physical weapons, and Lvl 6 Cones for the staff.
+        - Buffs/debuffs from the effects are not affected by turn-extending effects.
+        - Active Skill costs are 31-34 SP (or MP for the staff).
 
 ### Relic item upgrade strategy
 !!! tip ""  
