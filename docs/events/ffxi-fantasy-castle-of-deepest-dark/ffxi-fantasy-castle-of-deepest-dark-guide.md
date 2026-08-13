@@ -45,43 +45,54 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 ??? note "2nd Run"
 
-    === "Guide" 
-    
-        1. Accept the request in the Royal Capital and head back to the Entrance of Zone 1. Cait Sith will be there again but avoid you.
+    1. Accept the request in the Royal Capital and head back to the Entrance of Zone 1. Cait Sith will be there again but avoid you.
+
+    2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map. The options do not seem to matter, it is random. If you do not successfully catch her, she will just walk a few tiles away and you will need to attempt to catch her a few more times. They will give you Guidelight Bugs which will allow you to find Crystals of Hope that will basically prevent the Shadow Lord from absorbing everyone. For the first one, you will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The Location will be random. You will need to do this two more times on later floors for their respective encounters.
+
+    3. Head to Zone 3 and interact with one of the Gorgons. You will be offered a new option to sacrifice yourself. Select this option, you will be turned to stone, and your team will drag you to the door. Sacrificing yourself prevents your team from becoming angry with you. You can now proceed to through the door and do not need to interact with the 2nd Gorgon. Continue to the cutscene, but this time choose the option of holding the crystal up like a sword. (If you do not choose this option, then you will get the "bad" ending). You will enter a fight afterwards, but Lion and Zeid will be saved. Before you continue to Zone 4 however....
+
+    !!! note "The 3-door puzzle (Good-Neutral-Evil)"
+      Everyone in the party must be the same alignment, including the MC, and you must go through tbe correct door with them to have no bad effects. You will get special Lulu text ("Did you change our party lineup specifically for this door, by chance?") if done correctly. There is a teleporter near the door to confront Ulmia that you can use to return to the center of the room, exit back to town, and reassemble your usual party before the boss fight. Passing this puzzle correctly also prevents any of your units from being enraged during the boss fight as everyone is at 0 "Hate". The alignment trap only triggers on your first trip through any of the three doors. Subsequent trips can be done with any party configuration without any ill effect.  
         
-        2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map. The options do not seem to matter, it is random. If you do not successfully catch her, she will just walk a few tiles away and you will need to attempt to catch her a few more times. They will give you Guidelight Bugs which will allow you to find Crystals of Hope that will basically prevent the Shadow Lord from absorbing everyone. For the first one, you will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The Location will be random. You will need to do this two more times on later floors for their respective encounters.
+    4. There is a Crystal of Hope in Zone 4 for Ulmia you need to find before confronting her. You may need to look up on the wall for it. As per usual, it is randomly located souse the indicator to see when you get close and check every portal. For the puzzle, bring a party of only 1 alignment and go through that door. Use the teleporter to leave and change back to your nmregular party if necessary, then continue onwards through thr door and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.  
+
+    5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
         
-        3. Head to Zone 3 and interact with one of the Gorgons. You will be offered a new option to sacrifice yourself. Select this option, you will be turned to stone, and your team will drag you to the door. Sacrificing yourself prevents your team from becoming angry with you. You can now proceed to through the door and do not need to interact with the 2nd Gorgon. Continue to the cutscene, but this time choose the option of holding the crystal up like a sword. (If you do not choose this option, then you will get the "bad" ending). You will enter a fight afterwards, but Lion and Zeid will be saved. Before you continue to Zone 4 however....
+    !!! note "Dark Lord Immunity"  
+        It is recommended to bring at least one physical and one magical damage dealer for this fight, as the Shadow Lord can become immune to one or the other during the fight. Alternatively, use any turns where you cannot significantly damage him to heal, buff, and wait for thr immunity to end.  
         
-        !!! note "The 3-door puzzle (Good-Neutral-Evil)"
-          Everyone in the party must be the same alignment, including the MC, and you must go through tbe correct door with them to have no bad effects. You will get special Lulu text ("Did you change our party lineup specifically for this door, by chance?") if done correctly. There is a teleporter near the door to confront Ulmia that you can use to return to the center of the room, exit back to town, and reassemble your usual party before the boss fight. Passing this puzzle correctly also prevents any of your units from being enraged during the boss fight as everyone is at 0 "Hate". The alignment trap only triggers on your first trip through any of the three doors. Subsequent trips can be done with any party configuration without any ill effect.  
+    6. Because you saved every single group of adventurers, you are able to assign each to protect someone, which allows you to freely fight the Shadow Lord.
         
-        4. There is a Crystal of Hope in Zone 4 for Ulmia you need to find before confronting her. You may need to look up on the wall for it. As per usual, it is randomly located souse the indicator to see when you get close and check every portal. For the puzzle, bring a party of only 1 alignment and go through that door. Use the teleporter to leave and change back to your nmregular party if necessary, then continue onwards through thr door and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.  
-        5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
+    ??? danger "Shadow Lord"
         
-        !!! note "Dark Lord Immunity"  
-            It is recommended to bring at least one physical and one magical damage dealer for this fight, as the Shadow Lord can become immune to one or the other during the fight. Alternatively, use any turns where you cannot significantly damage him to heal, buff, and wait for thr immunity to end.  
+        ![](./img/shadowlord.jpg)
         
-        6. Because you saved every single group of adventurers, you are able to assign each to protect someone, which allows you to freely fight the Shadow Lord.
+        - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
+        - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
+        - Does not have conventional HP amount. Rather, a certain amount of damage needs to be dealt per phase, otherwise the battle does not seem to progress. The phases are before he casts the physical barrier, before he casts implosion, and after it is cast.
+        - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies albeit with a big damage penalty.
+        - All of his moves are telegraphed. He will typically alternate between Dark Nova and Giga Slash. Dark Nova is a full team dark AOE. Giga Slash is a physical row AOE to either front or back row.
+        - After doing enough damage, he will become invulnerable to physical attacks. After doing enough magic damage, he will swap to a magic barrier instead on his next turn, but also any allies that are enraged in your team will be cleansed by the Crystal's Powers (cutscene). After this, he will ready Swath of Silence which on his next turn will cast Implosion, which is a full team dark AOE, and then follow up immediately with a -ga spell (Aeroga, Firaga, etc), a magic row AOE. After this point it's possible for him to swap immunities again if you take long enough.
         
-        ??? danger "Shadow Lord"
+    7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. 
+    8. Lulunarde will recommend you to go talk to Cait Sith. Cursed Wheel to before you first saw her at the castle entrance in Zone 1. Talk to her while in possession of all three crystals and she'll tell you to come back to visit later after she's thought through how to really fix things.   (Note - this started as a countdown to Mid August when part two would release.)
         
-            ![](./img/shadowlord.jpg)
-        
-            - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
-            - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
-            - Does not have conventional HP amount. Rather, a certain amount of damage needs to be dealt per phase, otherwise the battle does not seem to progress. The phases are before he casts the physical barrier, before he casts implosion, and after it is cast.
-            - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies albeit with a big damage penalty.
-            - All of his moves are telegraphed. He will typically alternate between Dark Nova and Giga Slash. Dark Nova is a full team dark AOE. Giga Slash is a physical row AOE to either front or back row.
-            - After doing enough damage, he will become invulnerable to physical attacks. After doing enough magic damage, he will swap to a magic barrier instead on his next turn, but also any allies that are enraged in your team will be cleansed by the Crystal's Powers (cutscene). After this, he will ready Swath of Silence which on his next turn will cast Implosion, which is a full team dark AOE, and then follow up immediately with a -ga spell (Aeroga, Firaga, etc), a magic row AOE. After this point it's possible for him to swap immunities again if you take long enough.
-        
-        7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
-        
-        Rewards:  Completing the request will reward you with a bondmate for each of [Lion, Ulmia, and Tenzen](#bondmates) that you saved each with a Crystal.
+    Rewards:  Completing the request after saving all three friends will reward you with a bondmate for each of [Lion, Ulmia, and Tenzen](#bondmates) that you saved each with a Crystal.
 
 ??? note "3rd Run" 
 
-    Will be unlocked after the 8/13 maintenance. 
+    1. Cursed wheel again to the point where you can talk to Cait Sith at the Zone 1 castle entrance.  
+    2. Leave through the Harken and come back to talk to Cait Sith again. You'll learn that this time you need to find six ~~FFXI expansion advertisements~~ Crystals this time instead of three.  
+    3. Continue through the request as normal.  (Meet and feed Prishe in Zone 2.)  
+    4. There are crystals in both Zones 2 and 3 before Zeid now.  Get both of them before doing the Gorgon puzzle.  
+    5. Continue through the request as before. (Hold up the Crystal like a sword, defeat Lion).  
+    6. On Zone 4, there are also two crystals this time.  Find them both and bring a single alignment party before taking the right teleporter so that you can proceed through the doors without setting off the trap.  Again, you can use the teleporter to get your regular party back before confronting Ulmia.  
+    7. On Zone 5, there are also two crystals this time. Find them, the activate both switches, then go to zone 6.  
+    8. Meet and beat up Tenzen in zone 6.  
+    9. Go to zone 7, confront the Arch Shadow Lord.  Same general fight, this time he'll cast a second implosion so avoid letting HP get too low especially for the MC.  
+    10. You win.  
+
+    Rewards: Completing the request with all six crystals and having saved all three friends will reward you with [the same bondmates as before plus Cait Sith as a bondmate](#bondmates).
     
 ### Maps
 
