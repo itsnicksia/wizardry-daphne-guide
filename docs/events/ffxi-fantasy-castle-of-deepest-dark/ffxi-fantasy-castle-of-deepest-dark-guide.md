@@ -10,7 +10,7 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 
 ## Guide 
 
-!!! note "It's highly recommended to have completed Abyss 2 at least to the point in which you receive a Mackerel Sandwich (and have an extra one in your inventory) before proceeding with the 1st Run. This will save some time in this event."
+!!! note "It's recommended but not required to have completed Abyss 2 at least to the point in which you receive a Mackerel Sandwich (and have an extra one in your inventory) before proceeding with the 1st Run. This will save some time in this event."
 
 ??? note "1st Run"
 
@@ -32,7 +32,6 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
         14. Zone 6 is a straight bridge. Continue north until the cutscene between Iroha and Tenzen triggers. Another mini-boss fight against Tenzen will ensue. The Shadowlord will appear again and absorb both of them. Proceed north afterward for another cutscene where the eldest brother will also be absorbed by the Shadowlord. 
         15. Warning! As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins.
         16. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via MC's Grade) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
-
 
     === "Feeding Prishe Sidequest"
     
@@ -161,10 +160,11 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 
 ## Bondmates
 
-- Lion, Tenzen, and Ulima will become bondmates after saving them with Crystals of Hope and completing the Good Ending.  
+- Lion, Tenzen, and Ulima will become bondmates after saving them with Crystals of Hope and completing the Good Ending.
+- Cait Sith will become a bondmate after completing the 3rd run with all six crystals.  (This will also give the other three bondmates if they are saved.)
 - Bonds can be leveled by simply using the Cursed Wheel to leap back to right before the final fight, winning the battle, and turning in the Request.  
 - Bonds can achieve level 5 with 11 completions.  
-- These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).
+- These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha, and Cait Sith with any of those three).
 
 !!! note "FFXI Bondmate Details"  
     
