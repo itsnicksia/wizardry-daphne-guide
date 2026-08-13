@@ -84,9 +84,9 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
     1. Cursed wheel again to the point where you can talk to Cait Sith at the Zone 1 castle entrance.  
     2. Leave through the Harken and come back to talk to Cait Sith again. You'll learn that this time you need to find six ~~FFXI expansion advertisements~~ Crystals this time instead of three.  
     3. Continue through the request as normal.  (Meet and feed Prishe in Zone 2.)  
-    4. There are crystals in both Zones 2 and 3 before Zeid now.  Get both of them before doing the Gorgon puzzle.  
+    4. There are crystals randomly located in both Zones 2 and 3 before Zeid now.  Get both of them before doing the Gorgon puzzle.  
     5. Continue through the request as before. (Hold up the Crystal like a sword, defeat Lion).  
-    6. On Zone 4, there are also two crystals this time.  Find them both and bring a single alignment party before taking the right teleporter so that you can proceed through the doors without setting off the trap.  Again, you can use the teleporter to get your regular party back before confronting Ulmia.  
+    6. On Zone 4, there are also two crystals this time, again randomly located.  Find them both and don't forget to bring a single alignment party before taking the right teleporter so that you can proceed through the doors without setting off the trap.  Again, you can use the teleporter to return to the middle of the room both to get your regular party back and find any other crystals you missed before going through the north door to confront Ulmia.  *Note* a crystal can spawn in the room leading to the 3 doors. You'll see the indicator light up on nearby hallways, and should be able to home in on it's general location. Just don't go in there the first time without a single-alignment party.
     7. On Zone 5, there are also two crystals this time. Find them, the activate both switches, then go to zone 6.  
     8. Meet and beat up Tenzen in zone 6.  
     9. Go to zone 7, confront the Arch Shadow Lord.  Same general fight, this time he'll cast a second implosion so avoid letting HP get too low especially for the MC.  
