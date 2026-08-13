@@ -202,38 +202,63 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 !!! note "Availability"
     Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken. Lulu hints at Zone 3 that you should return to town to see if anything has changed. (Never ignore blatant game hints like that!)  Players have reported continuing to progress through the story without returning and the unlock conditions not occurring. It is recommended you return to town at each Harken after floor 3 to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed to far.
 
-The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Remake" the highest/Silver level (essentially undoing its milestone blessings if you aren't happy with them the first time around.)  
+- The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Remake" the highest/Silver level (essentially undoing its milestone blessings if you aren't happy with them the first time around.)  
 
-The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
+- The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
 
-There appears to be no level or story progress restriction to obtaining any of the relic upgrade materials, so even the lowest level event participant can theoretically finish the event with a set of Silver rank equipment.  
+- There appears to be no level or story progress restriction to obtaining any of the relic upgrade materials, so even the lowest level event participant can theoretically finish the event with a set of Silver rank equipment.  
 
-Some quick facts:  
+- Quick facts:  
 
-- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings.  
-- Blessing types are all locked, so L/FASing them will keep blessing types the same and just reroll the values, similar to Master Rings from class trials.  
-- Enhancement:  
-    - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-    - Enhancement costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).
-    - Enhancement blessing increases also give the Silver level table ranges for 1H and 2H items (even if you enhance at lower levels).  
-    - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
-    - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
-- Remaking:  
-    - Can be done only on max-reforged (Level 4) equipment at enhancement level 1 or higher
-    - What it does:
-        - Reverts enhancement level to 0
-        - Allows you to reroll ONLY milestone blessing boosts after enhancing equipment again
-        - Removes ALL blessing refinements (Boosts from refinement stones)
-    - Does not modify
-        - Reforge level (No need to farm materials again)
-        - Base blessing values (Need a LFAS or FAS for this)
-        - Altered blessings (Through common alteration stones)
-- Silver Tier Skills:  
-    - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
-    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon.
-    - The buffs/debuffs from the effects are not affected by turn-extending effects.
-    - The cost of the active skillse are 31-34 SP (or MP for the staff).
+    - Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings.  
+    - Blessing types are all locked, so L/FASing them will keep blessing types the same and just reroll the values, similar to Master Rings from class trials.  
+    - Enhancement:  
+        - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
+        - Enhancement costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).
+        - Enhancement blessing increases also give the Silver level table ranges for 1H and 2H items (even if you enhance at lower levels).  
+        - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
+        - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
+    - Remaking:  
+        - Can be done only on max-reforged (Level 4) equipment at enhancement level 1 or higher
+        - What it does:
+            - Reverts enhancement level to 0
+            - Allows you to reroll ONLY milestone blessing boosts after enhancing equipment again
+            - Removes ALL blessing refinements (Boosts from refinement stones)
+        - Does not modify
+            - Reforge level (No need to farm materials again)
+            - Base blessing values (Need a LFAS or FAS for this)
+            - Altered blessings (Through common alteration stones)
+    - Silver Tier Skills:  
+        - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
+        - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon.
+        - The buffs/debuffs from the effects are not affected by turn-extending effects.
+        - The cost of the active skillse are 31-34 SP (or MP for the staff).
 
+### Relic item upgrade strategy
+!!! tip ""
+   There were a lot of unknowns regarding the mechanics of reforging, enhancing, remaking, L/FAS'ing, etc. these items when the event started.  This has been almost entirely cleared up. Key details are that *Reforge Level has Zero Impact* on when you can enhance and alter your relic item. You cannot brick your item by enhancing at the wrong time.  Items will use Silver cost and Blessing tables at any Reforge level.  
+
+- Relics being 4-star, Red,with fixed blessing types makes them prime candidates to use L/FAS to maximize your blessing roles since you don't have to worry about rolling useless blessing types.  
+- Items have a maximum of four components to blessing scores:  (1) Initial roll, (2) +5/10/15/20 Milestone enhancment increase, (3) FAS bonus if you used one, (4) Refinement bonus. (A FAS bonus has the same values as a Milestone bonus).  
+- What makes Relics different than similar items like a Master Fighter or Mage Ring is the Remake option.  The only thing Remake does is set the item back to +0 removing the (2) Milestone enhancement blessing component. All other blessing components remain unchaged. The game keeps track of the individual components even though the player only sees the total value.  
+- So if you never remake, general strategry is similar to the Master Fighter/Mage Ring: L/FAS to roll the best stats you care to gamble for, Alter away one stat to a better type if you want, then enhance and hope for good milestone rolls. (Always Alter after L/FAS, as L/FAS will replace any Alteration.) If rolls are bad, you always have the option to re-FAS, understanding that any altered slot will revert to its original type. After all of that is complete and you're happy, you keep refining with the best stones you have.  
+- If you want to take advantage of Remake, you want to only L/FAS before enhancing because:  
+    - If you FAS before enhancing, you can note the milestone increase values and decide if they're worth keeping.  
+    - If you FAS after enhancing, Milestone blessings gets rerolled along with everything else, you don't know if that piece was high or low and wether a Remake will be worthwhile.  
+
+!!! tip "TL;DR: recommended Relic improvement process"  
+
+    1. Note your starting values from when you first got the item. Compare to the [possible 4\* initial values for the blessing type](/equipment/blacksmithing/#silver).   
+    2. If you are going to L/FAS do it before enhancing to +5.  For LFAS just compare to initial values.  For FAS compare with Initial+FAS ranges.  
+    3. Repeat (2) until happy with the rolls or out of L/FAS.  
+    4. Alter any slot you want to change with a good alter stone. Reroll Alter until you are happy with the roll.  
+    5. Before enhancement note (screenshot) your blessing values.  *This is what a Remake will return you to*.
+    6. Begin enhancing to +20. Note your milestone blessing increases.  *This is what Remake will remove*.
+    7. At any time, if you get a bad milestone roll you can decide to try again. Stop enhancing. Remake (or finish Reforging to Silver first). No sense wasting gp enhancing to +20 if you low rolled on the +10 blessing and know you're going to Remake.
+    8. After Remake, you'll return to 5. Continue from there. 
+
+    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  
+    
 ### Relic Material Totals  
 ??? tip "Relic Material Count Table"  
     === "Materals by item type"  
