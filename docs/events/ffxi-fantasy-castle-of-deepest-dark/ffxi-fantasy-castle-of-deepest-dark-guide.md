@@ -2,15 +2,51 @@
 
 !!! warning "This page is a WIP and frequently updated. Ctrl + F5 to refresh."
 
-## Free Event Unit
+## Before You Begin
 
-When heading to the Royal Capital for the first time, there will be a cutscene for the start of the event. Afterwards, there may be an adventurer you can talk to who talks about a suspicious looking man in the Beginning Abyss. Alternatively, if you enter the Royal Capital again after viewing the initial cutscene for the event, the cutscene for the adventurers talking about the suspicious man will automatically trigger.
+=== "Event Duration"
 
-Head to entrance of the Beginning Abyss and head inside to the 1st floor. There will an NPC right beside you (X:5, Y:1) that will give you a choice of any one of the Legendary Event adventurers (Zeid, Iroha, Prishe), Abenius, Red Beard, or Arboris. 
+    - The event runs from 7/30/26 (17:00 JST) to 9/10/26 (12:59 JST). 
+    - Part II of the event, which covers the third run was released on 8/13/26. 
+
+=== "FFXI Legendary Adventurers"
+
+    - [Zeid](../../../adventurers/legendary-adventurers/details/Zeid.md) 
+    - [Iroha](../../../adventurers/legendary-adventurers/details/Iroha.md) 
+    - [Prishe](../../../adventurers/legendary-adventurers/details/Prishe.md)  
+
+=== "Free Event Unit"
+
+    - When heading to the Royal Capital for the first time, there will be a cutscene for the start of the event. Afterwards, there may be an adventurer you can talk to who talks about a suspicious looking man in the Beginning Abyss. 
+    - Alternatively, if you enter the Royal Capital again after viewing the initial cutscene for the event, the cutscene for the adventurers talking about the suspicious man will automatically trigger.
+    - Head to entrance of the Beginning Abyss and head inside to the 1st floor. There will an NPC right beside you (X:5, Y:1) that will give you a choice of any one of the Legendary Event adventurers (Zeid, Iroha, Prishe), Abenius, Red Beard, or Arboris. 
+
+=== "Event Cursed Wheel"
+
+    - The event has its own Cursed Wheel (CW). It can be accessed via the EVENT (yellow shield) button. Note that it is not accessible if you are in a dungeon. 
+    - The collaboration has a total of 3 runs and each will require you to do a full reset. Here are the steps:
+        - Select the EVENT button and then click the purple Cursed Wheel button at the bottom of the page. 
+        - Click the Errand from Northern Hollow node. This will take you back to the Royal Capital where you will need to re-watch the opening cutscenes and re-accept the primary request from the Tavern > Requests > Featured tab. 
+        - Each node has multiple toggles that register key decisions throughout each run. Before resetting, make sure they are all toggled properly to the "good" outcomes to avoid subsequent runs not triggering properly.  
+
+=== "Event Unlock Triggers"
+
+    - The event has several new systems that unlock based on progression. On your first run it is **very critical that you exit back to Northern Hollow (event town) every time you unlock a new Harken** as they can be missed and require CW-ing to fix. 
+    - Zone 3 - Goblin Blacksmith and Relic Weapons
+        - Unlock the Zone 3 Harken. Exit back to the Royal Capital (or any town with a Jeweler). 
+        - The Jeweler now offers 7 relic weapons for 500 Gil each. Purchase all of them. 
+        - Return to Northern Hollow and watch the cutscene. Click on the new Blacksmithing icon for a cutscene with your new goblin blacksmith! 
+        - Now you have access to the Reforge and Remake options for the Relic Weapons. Dedicated section [here](#relic-weapopns). 
+    -  Zone 4 - Mining 
+        - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
+        - In the item shop you can now purchase a consumable item called the Northcleft Pickaxe. The Jeweler sells the Gold Northcleft Pickaxe for 500 Gil. The gold version triples (3x) anything that you mine. As of the 8/13 update they also work on the event dispatches. 
+        - Mining nodes are scattered across each floor. Pickaxes have a roughly 50% chance to break per swing. And they will always break on the 2nd swing. 
+    - Zone 6 - Trading 
+        - This is the Harken right before the final event boss. 
+        - Return to Northern Hollow and go to the Tavern. The Trader will give you a brief tutorial on how the process works. 
+        - Trading is the primary way of upgrading your Relic weapons. 
 
 ## Guide 
-
-!!! note "It's recommended but not required to have completed Abyss 2 at least to the point in which you receive a Mackerel Sandwich (and have an extra one in your inventory) before proceeding with the 1st Run. This will save some time in this event."
 
 ??? note "1st Run"
 
@@ -33,6 +69,10 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
         15. Warning! As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins.
         16. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via MC's Grade) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
 
+    === "Tips" 
+    
+        - It is highly recommended to have completed Abyss 2 at least to the point in which you receive a Mackerel Sandwich (and have an extra one in your inventory) before proceeding with the 1st Run. This will save some time in this event.
+
     === "Feeding Prishe Sidequest"
     
         1. After speaking with Prishe exit the event dungeon and head back to Northern Hollow. Go to the Tavern and talk to the Chef.
@@ -41,6 +81,10 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
         4. The barley request is more involved. Exit the Tavern and speak with the NPC asking for help against a pack of goblins. Accept and after the fight he requests that you eliminate all the goblins in a nearby cave as a long-term solution. This will unlock the Goblin Abode on the world map. Proceed inside and kill every enemy. You will get Lulu text when you are done and it is easy to miss some of the mobs, so comb the area carefully.
         5. After you are done speak with the NPC back in town and the request will be completed and he will hand over the barley and a small Gold reward.
         6. Return to the chef and had over the rabbit meat and/or barley. He will give you a sandwich and soup in return. Return to Prishe and feed her either item to proceed to the rest of Zone 2. 
+
+    === "Goblin's Abode Map"
+        ![](./img/goblins-abode.jpg)
+
 
 ??? note "2nd Run"
 
