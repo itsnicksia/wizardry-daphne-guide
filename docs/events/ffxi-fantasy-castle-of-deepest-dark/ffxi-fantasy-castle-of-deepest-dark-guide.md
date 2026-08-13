@@ -167,7 +167,7 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 ## Relic Equipment and Materials 
 
 !!! note "Availability"
-    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken. Lulu hints to you at Zone 3 you should return to see if anything has changed. Players have reported continuing to progress through the story without returning and the unlock conditions not occurring. It is recommended you return to town at each Harken in between each new floor to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed to far.
+    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken. Lulu hints at Zone 3 that you should return to town to see if anything has changed. (Never ignore blatant game hints like that!)  Players have reported continuing to progress through the story without returning and the unlock conditions not occurring. It is recommended you return to town at each Harken after floor 3 to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed to far.
 
 The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Remake" the highest/Silver level (essentially undoing its milestone blessings if you aren't happy with them the first time around.)  
 
@@ -181,37 +181,42 @@ Some quick facts:
 - Blessing types are all locked, so L/FASing them will keep blessing types the same and just reroll the values, similar to Master Rings from class trials.  
 - Enhancement:  
     - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-    - Enhancement costs for all levels follow the Silver (Special) item tables. (~1M for 1H, Staff, and shield, 2.4M gp for 2H weapons).
-    - Enhancement blessing increases also follow Silver level table ranges for 1H and 2H items.  
+    - Enhancement costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).
+    - Enhancement blessing increases also give the Silver level table ranges for 1H and 2H items (even if you enhance at lower levels).  
     - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
-- Remaking:
-  - Can be done only on max-reforged (Level 4) equipment at enhancement level 1 or higher
-  - What it does:
-    - Reverts enhancement level to 0
-    - Allows you to reroll ONLY milestone blessing boosts after enhancing equipment again
-    - Removes ALL blessing refinements (Boosts from refinement stones)
-  - Does not modify
-    - Reforge level (No need to farm materials again)
-    - Base blessing values (Need a LFAS or FAS for this)
-    - Altered blessings (Through common alteration stones)
+- Remaking:  
+    - Can be done only on max-reforged (Level 4) equipment at enhancement level 1 or higher
+    - What it does:
+        - Reverts enhancement level to 0
+        - Allows you to reroll ONLY milestone blessing boosts after enhancing equipment again
+        - Removes ALL blessing refinements (Boosts from refinement stones)
+    - Does not modify
+        - Reforge level (No need to farm materials again)
+        - Base blessing values (Need a LFAS or FAS for this)
+        - Altered blessings (Through common alteration stones)
 - Silver Tier Skills:  
     - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
-    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon. The buffs/debuffs from the effects are not affected by turn-extending effects.  
+    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon.
+    - The buffs/debuffs from the effects are not affected by turn-extending effects.
+    - The cost of the active skillse are 31-34 SP (or MP for the staff).
 
 ### Relic Material Totals
 ??? tip "Relic Material Count Table"
-
-    ![](./img/collab_relic_equipment_fodder.png)
+    === "Materals by item type"
+        ![](./img/collab_relic_equipment_fodder_bytype.png)
+    
+    === "Materials by rank"
+        ![](./img/collab_relic_equipment_fodder_byrank.png)
 
 Total material required to make all Relic items:
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 
-Item | 100 Byne Bill 	| Montiont Silverpiece 	| Lungo-Nango Jadeshell 	| 10,000 Byne Bill 	| Ranperre Goldpiece 	| Rimilala Stripeshell 	| Ouroboros Ore 	| Necropsyche 	| Attestation of Celerity 	| Attestation of Glory 	| Attestation of Righteousness 	| Attestation of Virtue 	| Attestation of Transcendence 	| Attestation of Decisiveness 	| Attestation of Invulnerability 	| Ornate Fragment 	| Holy Fragment 	| Intricate Fragment 	| Celestial Fragment 	| Snarled Fragment 	| Divine Fragment 	| Supernal Fragment |  
+Item | 100 Byne Bill 	| Montiont Silverpiece 	| Lungo-Nango Jadeshell 	| 10,000 Byne Bill 	| Ranperre Goldpiece 	| Rimilala Stripeshell 	| Attestation of Celerity 	| Attestation of Glory 	| Attestation of Righteousness 	| Attestation of Virtue 	| Attestation of Transcendence 	| Attestation of Decisiveness 	| Attestation of Invulnerability 	| Ornate Fragment 	| Holy Fragment 	| Intricate Fragment 	| Celestial Fragment 	| Snarled Fragment 	| Divine Fragment 	| Supernal Fragment |  Necropsyche 	| Ouroboros Ore 	|  
 |----| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| ---------	| --------- |  
-| Total to build each item | 543 	| 392 	| 727 	| 120 	| 180 	| 120 	| 0 	| 315 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	 |  
-| Total with one Remake each | 543 	| 392 	| 727 	| 270 	| 330 	| 270 	| 70 	| 360 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	 |  
+| Total to build each item | 543 	| 392 	| 727 	| 120 	| 180 	| 120 	|  45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	| 45 	 |  315 	| 0 	|   
+| Total with one Remake each | 543 	| 392 	| 727 	| 270 	| 330 	| 270 	|  67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	| 67 	 |  360 	| 70 	|   
 
 </div>
 
@@ -410,7 +415,8 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 - After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items.  There will also be Golden Pickaxes in the Jeweler Exchange.  
 - In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. See locations on the Maps below. You will almost always get one or two types of items from the list below.  
-- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes will last longer, but they do cost valuable event currency (Gil). At least at the start while you're still accumulating currency, it's probably best to stick to just loading up on as many regular ones as you can carry.  
+- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, but they provide 3x the mining return per use. They do cost valuable event currency (Gil). At least at the start while you're still accumulating currency, it's probably best to stick to just loading up on as many regular ones as you can carry.
+- Mining results are not limited by player progress or rank, so this is one of the few free-to-play ways to get early access to higher levels of ore than you can find in the regular game.
 
     - enhancement ore: low, mid, high, fine, and silver grade  
     - sellables: mainly translucent gems  
