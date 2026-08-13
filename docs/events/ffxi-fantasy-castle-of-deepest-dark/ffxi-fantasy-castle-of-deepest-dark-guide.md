@@ -206,7 +206,7 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 - The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Some reforging materials can be obtained at the Event Jeweler Exchange, some by farming the event dungeon, and some through the trading mechanism described above.  
 - There is no level or story progress restriction to possessing any of the relic upgrade materials, but getting drops of the highest level does seem limited for lowest level players. But through various means it is possible for even the lowest level event participant to theoretically finish with some Silver rank equipment.  
 
-???+ tip "Quick Relic Item facts"  
+???+ tip "Relic Item details"  
 
     - Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings. 
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
@@ -237,26 +237,28 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 !!! tip ""  
     There were many unknowns regarding the relic reforging, enhancing, remaking, L/FAS'ing, etc. mechanics when the event started.  This has been almost entirely cleared up. Key details are that *Reforge Level has Zero Impact* on potential blessings and when you can enhance and alter your relic item. You cannot brick your item by enhancing early.  Items will use Silver cost and Blessing tables *at any Reforge level*.  
 
-- Relic items are them prime candidates to use L/FAS to maximize blessing rolls since you don't have to worry about the blessing types.  
-- Items have a maximum of four blessing score components:  (1) Initial roll, (2) +5/10/15/20 Milestone enhancment increase, (3) FAS bonus if you used one, (4) Refinement bonus. (A FAS bonus has the same values as a Milestone enhancement bonus).  
-- What makes Relics different than similar items like a Master Fighter or Mage Ring is the Remake option.  The only thing Remake does is set the item back to +0 removing the (2) Milestone enhancement blessing component. All other blessing components remain unchaged. The game keeps track of the individual components even though the player only sees the total value.  
-- So if you never remake, general strategry is similar to the Master Fighter/Mage Ring: L/FAS to roll the best stats you care to gamble for, Alter away one stat to a better type if you want, then enhance and hope for good milestone rolls. (Always Alter after L/FAS, as L/FAS will replace any Alteration.) If rolls are bad, you always have the option to re-FAS, understanding that any altered slot will revert to its original type. After all of that is complete and you're happy, you keep refining with the best stones you have.  
-- If you want to take advantage of Remake, you want to only L/FAS before enhancing because:  
-    - If you FAS before enhancing, you can note the milestone increase values and decide if they're worth keeping.  
-    - If you FAS after enhancing, Milestone blessings gets rerolled along with everything else, you don't know if that piece was high or low and wether a Remake will be worthwhile.  
+- Relic items are prime candidates for using L/FAS to maximize blessing rolls since you don't have to worry about the blessing types.  
+- Items have a maximum of four blessing score components:  (#1) Initial roll, (#2) +5/10/15/20 Milestone enhancment increase, (#3) FAS bonus if you used one, (#4) Refinement bonus. (A FAS bonus has the same values as a Milestone enhancement bonus).  
+- Relics are unique because of the Remake option. Remake sets the item enhancement back to +0 removing the Milestone enhancement blessing component (#2) and any Refinement bonuses (#4). All other blessing components remain unchaged. The game keeps track of the individual components even though the player only sees the total value.  
+-If you never remake, general strategy is the same as for Master Fighter/Mage Ring: (1) L/FAS until you're happy with the stats, (2) Alter away one stat if desired, (3) enhance and hope for good milestone rolls (If rolls are bad, you always have the option to re-FAS, understanding that any altered slot will revert to its original type.) (4) finally Refine. 
+- To take advantage of Remake, you want to only L/FAS before enhancing because:  
+    - FAS before enhancing - you can note the milestone increase values and decide if they're worth keeping.  
+    - FAS after enhancing - Milestone blessings are rerolled along with everything else and you don't know if that piece was high or low and whether a Remake will be worthwhile.  
 
 !!! tip "TL;DR: recommended Relic improvement process"  
-
-    1. Note your starting values from when you first got the item. Compare to the [possible 4\* initial values for the blessing type](/equipment/blacksmithing/#silver).   
-    2. If you are going to L/FAS do it before enhancing to +5.  For LFAS just compare to initial values.  For FAS compare with Initial+FAS ranges.  
+    *Use the [Blacksmithing Enhancement tables for Silver items](/equipment/blacksmithing/#silver) to determine how good your rolls are.*
+    1. Note the starting blessings from when you first got the item.  
+    2. If you are going to L/FAS do it before enhancing to +5.  
+        - For LFAS just compare to initial values.  For FAS compare with Initial+FAS ranges.  
     3. Repeat (2) until happy with the rolls or out of L/FAS.  
-    4. Alter any slot you want to change with a good alter stone. Reroll Alter until you are happy with the roll.  
+    4. Alter any one slot you want with a good alter stone. Reroll Alter until you are happy with the roll.  
     5. Before enhancement note (screenshot) your blessing values.  *This is what a Remake will return you to*.
     6. Begin enhancing to +20. Note your milestone blessing increases.  *This is what Remake will remove*.
-    7. At any time, if you get a bad milestone roll you can decide to try again. Stop enhancing. Remake (or finish Reforging to Silver first). No sense wasting gp enhancing to +20 if you low rolled on the +10 blessing and know you're going to Remake.
-    8. After Remake, you'll return to 5. Continue from there. 
+    7. On the way to +20, if you get a bad milestone decide if you want to try again. If so, *stop enhancing*. No sense wasting gp enhancing further if you know you're going to Remake. If you are happy with your blessings, you're done.
+    8. Remake if unhappy with 7. (finish Reforging to Silver level if necessary). 
+    9. Return to step 5. Continue from there. 
 
-    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  
+    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your possible item totals will be unchanged.  You just won't know until your first Remake what values you will return to in set 5.
     
 ### Relic Material Totals  
 ??? tip "Relic Material Count Table"  
