@@ -418,15 +418,15 @@ Trading is the main source of obtaining the event currency, Gil, and a reliable 
 
 #### Delivery Support
 
-This allows you to help fulfill other people's requests for certain items. There will typically be a reward of some sorts for providing a specific item, with Gil always being given to the player providing support. Usually, more Gil is given the higher the tier of the materials. Buying the trading pass from the Jeweler's shop will boost Gil gain from these transactions by 50%.
+This allows you to help fulfill other people's requests for certain items. There will typically be a reward of some sorts for providing a specific item, with Gil always being given to the player providing support. Usually, more Gil is given the higher the tier of the materials. Buying the trading pass from the Jeweler's shop will boost Gil gain from these transactions by 50%.  Blue dots highlight requests that you have the ability to fulfill.
 
-Players in the list will typically prioritize those on your friends list before strangers, so it can be easy to help friends or coordinate trading materials for Gil. However, there is a 24 HR limit to the refreshing of the list, which can be bypassed by spending 300 green gems.
+Players in the list will typically prioritize those on your friends list before strangers, so it can be easy to help friends or coordinate trading materials for Gil. However, there is a 24 HR limit to the refreshing of the list, which can be bypassed by spending 300 green gems.  Note that only the general materials can be exchnaged for gold, so difficult-to-obtain materials will not be lost in the process, they will simply be traded for other equal-value items (in addition to getting a Gil reward for completing the exchange.) Note that Attestations exchanged for Fragments at a 10:1 ratio, but you can only place requests to go from Attestations to Fragments.  To exchange Fragments back to Attestations you need to fulfill someone else's requset on this Delivery Support page.
 
 #### Procurement Request
 
-There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for relic equipment material in gold. However, Attestations can only be traded for Attestations of other weapon types, and Fragments can only be traded for Fragments/Attestations of other weapon types. 
+There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for general relic materials with gold or by exchanging for similarly valued material.  Attestations and Fragments, however, can only be traded for other Attestations and Fragments.  Attestations can be traded up for Fragments at a 10:1 ratio. You cannot request to get Attestations back for Fragments, that conversion can only be done by fulfilling someone else' Delivery Support request. 
 
-One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request.This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
+One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request. This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.  For Attestations and Fragments in particular where the process of getting the specific weapon type you need in-dungeon can be difficult, with Requests you can slowly but surly convert anything you do find to what you actually need.
 
 ![](./img/bots.jpg)
 
@@ -435,16 +435,21 @@ One notable thing is that while real players can fulfill your requests, there ar
   
 ### Mining for Ore  
 
-- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items.  There will also be Golden Pickaxes in the Jeweler Exchange.  
-- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. See locations on the Maps below. You will almost always get one or two types of items from the list below.  
-- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, but they provide 3x the mining return per use. They do cost valuable event currency (Gil). At least at the start while you're still accumulating currency, it's probably best to stick to just loading up on as many regular ones as you can carry.
-- Mining results are not limited by player progress or rank, so this is one of the few free-to-play ways to get early access to higher levels of ore than you can find in the regular game.
-
-    - enhancement ore: low, mid, high, fine, and silver grade  
-    - sellables: mainly translucent gems  
+- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items for 100gp.  There will also be Golden Pickaxes in the Jeweler Exchange for 500 Gil.  
+- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. Black formations are 'dead' and cannot be mined. See locations on the Maps below. You will almost always get one type of ore/stone and one type of sellable each mining attempt.  
+- After a certain number of mining attemptes, the rock formation will 'shatter' and be 'dead' for the rest of that time in the dungeon. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
+- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, and they do cost event currency (500 Gil), but they produce 3x the mining return per use.
+- Mining products:
+    - Enhancement ore: low, mid, high, fine, and silver grade  
     - Ouroboros Ore (see Relic Material list above)  
-    - Alteration and refinement stones (includig LFAS / FAS)
- 
+    - Alteration and refinement stones (includig LFAS / FAS) ranging from 1-5 star quality.
+    - Sellables: mainly translucent gems
+- Tips:
+    - Mining products are not limited by player progress or rank. This is one of the few free-to-play ways in the game to get early access to higher levels of ore than you can normally find. This is especially valuable if you are trying to Reforge Relic items to material Ranks higher tha your current main story progress allows.  
+    - Keeping a supply of Mining Pickaxes in storage lets you quickly refill from the inventory screen outside the castle without heading back to town.
+    - At least at the start while you're still accumulating currency, it's probably best to just stick to loading up on as many regular pickaxes as you can carry.  Later, after you have cleared out the Exchnage shop, you can splurge on the Golden ones to triple your mining output.
+    - There are several locations with one or two mining spots and no mobs near entrances and Harkens (Zone 1 Main entrance , Zone 2-5 Harkens). If you want to do nothing but mine, you can repeatedly jump in and out of those locations to mine when they refresh.  
+
 ??? map "Mining Maps"
     Mining locations marked with checkmarks below.
    
@@ -465,7 +470,14 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 
 ### Relic Materials
-- Info pending
+- Note - as of Aug 14 some relic materials are available in the Exchange. Likely you will still need far more than are available.  
+- There are ~four general categories of relic items, each of which needs to be farmed in different ways:  
+    1. General relic materials: Byrne Bills, Shells, and Silver/Goldpieces needed to reforge items up to Steel rank. These materials drop from regular chests either spawed on entering the dungeon or from random mob chests. See Chest/Junk Drop section for farming details.  
+    2. Attestations (papers) and Fragments (boxes): Specific to each relic item, these are needed to Reforge items to Ebonsteel and Silver ranks, respectively and to Remake silver-rank items. These items only drop from two sources: encounters with Notorious monsters (non-wandering demons with a random chance at occurring at set spawn points on Zones 1-5), and roaming packs of 8 demons that spawn in the farthest southern corners of the big rooms on Zone 5 (only appearing on second and subsequent dungeon resets). Depending on your junk/level/progress tier all of these encounters have a chance of dropping 4-5 of each item.  The NMs are named, and each has set spawn locations and types of items dropped.  See [NM location maps](#potential-spawning-locations) above.  
+        - It has been noted that the 8-demon packs always spawn closest to the farthest southern corners of the big rooms. Additionally, while auto-walking you can bring up the map and all mobs stop moving (you can still run into them.) The west room has a generally mob-free straight path to the corner if you auto-walk from the floor entrance.  If you set an auto walk point to the corner, upon entering the floor you can immediately walk-to-check then bring up the map and you should walk there uninterrupted. Then on arrival you can quickly find and attack the closest mob, likely to be the 8-demon pack. Note this seems to also avoid aggro-ing as many other mobs on your way in. Doing both rooms with this method, the second room will likely have had mobs wandering decreasing effectiveness of the approach.  
+        - Certain NMs only spawn once daily. Others have a chance to repsawn once each time you enter the dungeon, and each time you re-enter the floor that chance of them appearing re-rolls. So you can clear the general mobs from a floor, if no NM switch floors, go back to that floor and see if the demon has spawned. (If he hasn't another random mob will be there instead.) E.g., this can be done on Zone 1 by clearing the northeast room, stepping through the gate into Zone 2, stepping back into Zone 1, checking that NE room again for the demon, repeating until he appears, after defeating him leaving the dungeon, and then repeating the process.  Other floors provide similar farming opportunities, such as the big rooms on Zone 5. (more details pending)  
+    3. Necropsyche: lanterns carried by Tonberrys needed to Reforge items to silver rank and to Remake silver-rank items - Tonberrys randomly spawn throughout zones 2-5 as smaller enemies and can appear alone, with other random monsters, or as a group of three tonberries. Each battle will drop 4-5 necropsyche, no matter how many Tonberrys in the battle. Tonberrysare light-type and have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack. They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x). MONTINO/Voice Theft can prevent the counterattack, but MONTINO can be removed. They are susceptible to sleep and stun. Encountering one? Terminate with extreme prejudice.  Encountering three? Flee.  Just not worth it.  You're gonna need to kill a lot of these guys to get all relics up to Silver.
+    4. Ouroboros Ore: Special ore needed only for Remaking an item. Can be rarely obtained by [Mining for Ore(see above)](#mining-for-ore) in the castle. Also available in unlimited quantities in the Exchange Shop for 15,000 Gil (Each Remake requires 10 Ore, so 150,000 Gil each). If you're lucky with your enhancement rolls you may never need to Remake a Relic.  In the process of mining for other rare drops, you may get what you need.  But with the ease of farming Gil through the Trader, it may be easist to just plan to Exchange for whatever ore you need. 
   
 ### Chest / Junk Drops
 
@@ -477,7 +489,8 @@ One notable thing is that while real players can fulfill your requests, there ar
     - Fool's Drink: Renders 1 ally immune to magical damage for 3 turns.
     - Scroll of Instant Stonega: deals minor earth damage to 1 enemy row.
     - Scroll of Instant Blizzaga: deals minor untyped damage to 1 enemy row with a chance to inflict Chill.
-- The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade/Level and main story progress. More details pending.
+- The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade and main story progress.  
+- More details pending.
   
 ### Bondmates  
 
