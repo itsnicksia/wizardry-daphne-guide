@@ -97,25 +97,25 @@ Head to entrance of the Beginning Abyss and head inside to the 1st floor. There 
 ### Maps
 
 ??? map "Zone 1"
-    ![](./img/zone-1-baileys.jpg)
+    ![](./img/zone-1-baileys.jpg){ width="500" }
     
 ??? map "Zone 2"
-    ![](./img/zone-2-keep-1f.jpg)
+    ![](./img/zone-2-keep-1f.jpg){ width="600" }
     
 ??? map "Zone 3"
-    ![](./img/zone-3-keep-2f.jpg)
+    ![](./img/zone-3-keep-2f.jpg){ width="700" }
     
 ??? map "Zone 4"
-    ![](./img/zone-4-keep-2f-depths.jpg)
+    ![](./img/zone-4-keep-2f-depths.jpg){ width="800" }
     
 ??? map "Zone 5"
-    ![](./img/zone-5-keep-2f-innermost-depths.jpg)
+    ![](./img/zone-5-keep-2f-innermost-depths.jpg){ width="900" }
     
 ??? map "Zone 6"
-    ![](./img/zone-6-great-bridge.jpg)
+    ![](./img/zone-6-great-bridge.jpg){ width="1000" }
     
 ??? map "Zone 7"
-    ![](./img/zone-7-throne-room.jpg)
+    ![](./img/zone-7-throne-room.jpg){ width="1100" }
     
 ??? map "Goblin's Abode"
     ![](./img/goblins-abode.jpg)
