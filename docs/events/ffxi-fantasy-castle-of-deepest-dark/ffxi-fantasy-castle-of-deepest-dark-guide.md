@@ -169,14 +169,22 @@ The Harkens in the event can provide both the basic blessings and unique Event b
         ![](./img/ulmia-bondmate.jpg)  
         
         - Ulmia's Song of Prayer: Provides 8 Resistance at +5  
-        - The Bond Between Ulmia and Prishe: Provides 8 extra ATK if put on Prishe at +5  
+        - The Bond Between Ulmia and Prishe: Also provides 8 extra ATK if put on Prishe at +5  
         
     ??? note "Tenzen, Samurai of the Far East"  
         
         ![](./img/tenzen-bondmate.jpg)  
         
         - Tenzen's Ultimate Aim: Provides about 17% Paralysis Tolerance at +5  
-        - The Bond Between Tenzen and Iroha: Provides 4 extra ATK and DIV if put on Iroha at +5  
+        - The Bond Between Tenzen and Iroha: Also provides 4 extra ATK and DIV if put on Iroha at +5  
+
+    ??? note "Cait Sith"  
+        
+        ![](./img/caitsith-bondmate.jpg)  
+        
+        - Cait Sith's Guidance: Increases HP.
+        - The Bond Between Cait Sith and Heroes: Also increases SP and MP if put on Prishe, Iroha, or Zeid
+        
 
 ## Relic Equipment and Materials 
 
