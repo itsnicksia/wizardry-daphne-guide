@@ -282,11 +282,12 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 ## Relic Equipment and Materials 
 
 !!! note "Availability"
-    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken where Lulu hints you should return to see if anything has changed. (*Never ignore blatant game hints like that!*)  Players have reported continuing through the story without returning and unlock conditions not occurring. It is recommended you return to town at each Harken after floor 3 to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed too far.
+    Relic items, the relic blacksmith, and mining unlock at various points after restoring the Zone 3 Harken where Lulu hints you should go see if anything has changed. (*Never ignore blatant game hints!*)  
+    Players have reported things not unlocking after continuing through the story without returning. We recommend you return to town at each new Harken after floor 3.  Wheeling back to these points may be necessary for unlock if you've progressed too far.
 
-- The event includes unique "Relic Weapons and Armor" (completely unrelated to Relicbrews and related material). These items start as low stat, low rank items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items and materials needed to improved them (through Reforging and Remaking).  
-- The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Some reforging materials can be obtained at the Event Jeweler Exchange, some by farming the event dungeon, and some through the trading mechanism described above.  
-- There is no level or story progress restriction to possessing any of the relic upgrade materials, but getting drops of the highest level does seem limited for lowest level players. But through various means it is possible for even the lowest level event participant to theoretically finish with some Silver rank equipment.  
+- The event includes unique "Relic Weapons and Armor" (completely unrelated to Relicbrews and related material). These items start as low rank items but can be gradually upgraded (through Reforging and Remaking) into some of the more interesting items in the game.   
+- The starting items are obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained at the Event Jeweler Exchange, by farming the event dungeon, and through the trading mechanism described above.  
+- There is no level or story progress restriction to possessing any of the relic upgrade materials, but getting drops of the highest level does seem limited for lowest level players. Through various means it is still possible for even the lowest level event participant to finish with some Silver rank equipment.  
 
 ???+ tip "Relic Item details"  
 
@@ -341,7 +342,7 @@ The Harkens in the event can provide both the basic blessings and unique Event b
     8. Remake if unhappy with 7. (finish Reforging to Silver level if necessary).  
     9. Return to step 5. Continue from there.  
 
-    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your possible item totals will be unchanged.  You just won't know until your first Remake what values you will return to in set 5.  
+    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your possible item totals will be unchanged.  You just won't know until your first Remake what values you will return to in step 5.  
     
 ### Relic Material Totals  
 ??? tip "Relic Material Count Table"  
