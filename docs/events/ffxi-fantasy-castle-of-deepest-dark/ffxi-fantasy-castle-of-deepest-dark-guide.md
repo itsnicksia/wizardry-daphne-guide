@@ -338,11 +338,12 @@ The Harkens in the event can provide both the basic blessings and unique Event b
     4. Alter any one slot you want with a good alter stone. Reroll Alter until you are happy with the roll.  
     5. Before enhancement note (screenshot) your blessing values.  *This is what a Remake will return you to*.  
     6. Begin enhancing to +20. Note your milestone blessing increases.  *This is what Remake will remove*.  
-    7. On the way to +20, if you get a bad milestone decide if you want to try again. If so, *stop enhancing*. No sense wasting gp enhancing further if you know you're going to Remake. If you are happy with your blessings, you're done.  
-    8. Remake if unhappy with 7. (finish Reforging to Silver level if necessary).  
-    9. Return to step 5. Continue from there.  
+    7. On the way to +20, if you get a bad milestone decide if you want to try again. If so, *stop enhancing*. Don't waste gp if you know you're going to Remake. 
+    8. If you're happy with 7, Refine and you're done.  
+    9. Remake if unhappy with 7. (finish Reforging to Silver level if necessary).  
+    10. Return to step 5. Continue from there.  
 
-    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your possible item totals will be unchanged.  You just won't know until your first Remake what values you will return to in step 5.  
+    This process isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your can still get roll the same range of blessings.  You just won't know until your first Remake what values you will return to in step 5.  
     
 ### Relic Material Totals  
 ??? tip "Relic Material Count Table"  
