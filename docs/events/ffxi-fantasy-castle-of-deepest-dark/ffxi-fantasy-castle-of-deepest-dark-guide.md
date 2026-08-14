@@ -11,9 +11,9 @@
 
 === "FFXI Legendary Adventurers"
 
-    - [Zeid](../../../adventurers/legendary-adventurers/details/Zeid.md) 
-    - [Iroha](../../../adventurers/legendary-adventurers/details/Iroha.md) 
-    - [Prishe](../../../adventurers/legendary-adventurers/details/Prishe.md)
+    - [Zeid](/adventurers/legendary-adventurers/details/Zeid.md) 
+    - [Iroha](/adventurers/legendary-adventurers/details/Iroha.md) 
+    - [Prishe](/adventurers/legendary-adventurers/details/Prishe.md)
 
 
 === "Free Event Unit"
