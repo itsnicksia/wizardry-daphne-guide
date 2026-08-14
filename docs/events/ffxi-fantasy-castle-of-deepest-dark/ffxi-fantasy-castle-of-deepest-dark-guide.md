@@ -11,9 +11,9 @@
 
 === "FFXI Legendary Adventurers"
 
-    - [Zeid](../../../adventurers/legendary-adventurers/details/Zeid.md) 
-    - [Iroha](../../../adventurers/legendary-adventurers/details/Iroha.md) 
-    - [Prishe](../../../adventurers/legendary-adventurers/details/Prishe.md)
+    - [Zeid](/adventurers/legendary-adventurers/details/Zeid.md) 
+    - [Iroha](/adventurers/legendary-adventurers/details/Iroha.md) 
+    - [Prishe](/adventurers/legendary-adventurers/details/Prishe.md)
 
 
 === "Free Event Unit"
@@ -282,11 +282,12 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 ## Relic Equipment and Materials 
 
 !!! note "Availability"
-    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken where Lulu hints you should return to see if anything has changed. (*Never ignore blatant game hints like that!*)  Players have reported continuing through the story without returning and unlock conditions not occurring. It is recommended you return to town at each Harken after floor 3 to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed too far.
+    Relic items, the relic blacksmith, and mining unlock at various points after restoring the Zone 3 Harken where Lulu hints you should go see if anything has changed. (*Never ignore blatant game hints!*)  
+    Players have reported things not unlocking after continuing through the story without returning. We recommend you return to town at each new Harken after floor 3.  Wheeling back to these points may be necessary for unlock if you've progressed too far.
 
-- The event includes unique "Relic Weapons and Armor" (completely unrelated to Relicbrews and related material). These items start as low stat, low rank items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items and materials needed to improved them (through Reforging and Remaking).  
-- The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Some reforging materials can be obtained at the Event Jeweler Exchange, some by farming the event dungeon, and some through the trading mechanism described above.  
-- There is no level or story progress restriction to possessing any of the relic upgrade materials, but getting drops of the highest level does seem limited for lowest level players. But through various means it is possible for even the lowest level event participant to theoretically finish with some Silver rank equipment.  
+- The event includes unique "Relic Weapons and Armor" (completely unrelated to Relicbrews and related material). These items start as low rank items but can be gradually upgraded (through Reforging and Remaking) into some of the more interesting items in the game.   
+- The starting items are obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained at the Event Jeweler Exchange, by farming the event dungeon, and through the trading mechanism described above.  
+- There is no level or story progress restriction to possessing any of the relic upgrade materials, but getting drops of the highest level does seem limited for lowest level players. Through various means it is still possible for even the lowest level event participant to finish with some Silver rank equipment.  
 
 ???+ tip "Relic Item details"  
 
@@ -329,18 +330,20 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 
 !!! tip "TL;DR: recommended Relic improvement process"  
     *Use the [Blacksmithing Enhancement tables for Silver items](/equipment/blacksmithing/#silver) to determine how good your rolls are.*
+    
     1. Note the starting blessings from when you first got the item.  
     2. If you are going to L/FAS do it before enhancing to +5.  
         - For LFAS just compare to initial values.  For FAS compare with Initial+FAS ranges.  
     3. Repeat (2) until happy with the rolls or out of L/FAS.  
     4. Alter any one slot you want with a good alter stone. Reroll Alter until you are happy with the roll.  
-    5. Before enhancement note (screenshot) your blessing values.  *This is what a Remake will return you to*.
-    6. Begin enhancing to +20. Note your milestone blessing increases.  *This is what Remake will remove*.
-    7. On the way to +20, if you get a bad milestone decide if you want to try again. If so, *stop enhancing*. No sense wasting gp enhancing further if you know you're going to Remake. If you are happy with your blessings, you're done.
-    8. Remake if unhappy with 7. (finish Reforging to Silver level if necessary). 
-    9. Return to step 5. Continue from there. 
+    5. Before enhancement note (screenshot) your blessing values.  *This is what a Remake will return you to*.  
+    6. Begin enhancing to +20. Note your milestone blessing increases.  *This is what Remake will remove*.  
+    7. On the way to +20, if you get a bad milestone decide if you want to try again. If so, *stop enhancing*. Don't waste gp if you know you're going to Remake. 
+    8. If you're happy with 7, Refine and you're done.  
+    9. Remake if unhappy with 7. (finish Reforging to Silver level if necessary).  
+    10. Return to step 5. Continue from there.  
 
-    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your possible item totals will be unchanged.  You just won't know until your first Remake what values you will return to in set 5.
+    This process isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your can still get roll the same range of blessings.  You just won't know until your first Remake what values you will return to in step 5.  
     
 ### Relic Material Totals  
 ??? tip "Relic Material Count Table"  
