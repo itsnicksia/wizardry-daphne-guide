@@ -2,95 +2,201 @@
 
 !!! warning "This page is a WIP and frequently updated. Ctrl + F5 to refresh."
 
-## Free Event Unit
+## Before You Begin
 
-When heading to the Royal Capital for the first time, there will be a cutscene for the start of the event. Afterwards, there may be an adventurer you can talk to who talks about a suspicious looking man in the Beginning Abyss. Alternatively, if you enter the Royal Capital again after viewing the initial cutscene for the event, the cutscene for the adventurers talking about the suspicious man will automatically trigger.
+=== "Event Duration"
 
-Head to entrance of the Beginning Abyss and head inside to the 1st floor. There will an NPC right beside you (X:5, Y:1) that will give you a choice of any one of the Legendary Event adventurers (Zeid, Iroha, Prishe), Abenius, Red Beard, or Arboris. 
+    - The event runs from 7/30/26 (17:00 JST) to 9/10/26 (12:59 JST). 
+    - Part II of the event, which covers the third run was released on 8/13/26. 
+
+=== "FFXI Legendary Adventurers"
+
+    - [Zeid](../../../adventurers/legendary-adventurers/details/Zeid.md) 
+    - [Iroha](../../../adventurers/legendary-adventurers/details/Iroha.md) 
+    - [Prishe](../../../adventurers/legendary-adventurers/details/Prishe.md)
+
+
+=== "Free Event Unit"
+
+    - When heading to the Royal Capital for the first time, there will be a cutscene for the start of the event. Afterwards, there may be an adventurer you can talk to who talks about a suspicious looking man in the Beginning Abyss. 
+    - Alternatively, if you enter the Royal Capital again after viewing the initial cutscene for the event, the cutscene for the adventurers talking about the suspicious man will automatically trigger.
+    - Head to entrance of the Beginning Abyss and head inside to the 1st floor. There will an NPC right beside you (X:5, Y:1) that will give you a choice of any one of the Legendary Event adventurers (Zeid, Iroha, Prishe), Abenius, Red Beard, or Arboris. 
+
+=== "Event Cursed Wheel"
+
+    - The event has its own Cursed Wheel (CW). It can be accessed via the EVENT (yellow shield) button. Note that it is not accessible if you are in a dungeon. 
+    - The collaboration has a total of 3 runs and each will require you to do a full reset. Here are the steps:
+        - Select the EVENT button and then click the purple Cursed Wheel button at the bottom of the page. 
+        - Click the Errand from Northern Hollow node. This will take you back to the Royal Capital where you will need to re-watch the opening cutscenes and re-accept the primary request from the Tavern > Requests > Featured tab. 
+        - Each node has multiple toggles that register key decisions throughout each run. Before resetting, make sure they are all toggled properly to the "good" outcomes to avoid subsequent runs not triggering properly.  
+
+=== "Event Unlock Triggers"
+
+    === "Systems" 
+    
+        - The event has several new systems that unlock based on progression. On your first run it is **critical that you exit back to Northern Hollow every time you unlock a new Harken** as the cutscenes can be missed and require CW-ing to fix. 
+        - Zone 3 - Goblin Blacksmith and Relic Weapons
+            - Unlock the Zone 3 Harken. Go to any town that has a Jeweler.  
+            - Go to Jeweler > Exchange > Fantasy Castle of the Deepest Dark tab, which will now offer 7 relic weapons for 500 Gil each. Purchase all of them. 
+            - Return to Northern Hollow and watch the cutscene. Click on the new Blacksmithing icon for a cutscene with your new goblin blacksmith! 
+            - Now you have access to the Reforge and Remake options for the Relic Weapons. Dedicated section [here](#relic-weapopns). 
+        -  Zone 4 - Mining 
+            - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
+            - In the Item shop you can now purchase a consumable item called the Northcleft Pickaxe. Northern Hollow is the only location in the game where these can be purchased. 
+            - The Jeweler will now exchange 500 Gil for 1 Gold Northcleft Pickaxe. The gold version triples (3x) anything that you mine. As of the 8/13 update they also work on the event dispatches. 
+            - Mining nodes are scattered across each floor. Both types of pickaxes have a 50% chance to break on the first swing and a 100% chance to break on the second swing.
+        - Zone 6 - Trading 
+            - The Zone 6 Harken is right before the final event boss. 
+            - Return to Northern Hollow and go to the Tavern. The Trader will give you a brief tutorial on how the process works. 
+            - Trading is the primary way of upgrading your Relic weapons. 
+
+    === "Dispatches"
+
+        - There are a total of 3 special dispatches that can be accepted in the Royal Capital. They are blue-colored and near the center of the dispatch list, so they are easy to miss if you are scrolling quickly. 
+        - The dispatches are tied to having the Harkens unlocked on Zone 2, 3, and 5. The 8/13 patch fixed Harken's reverting back to being unlocked if you CW. If a dispatch disappears, you will have to manually go back to each floor and restore the Harken again. 
 
 ## Guide 
 
-### 1st Run - Bad Ending
+??? note "1st Run"
 
-!!! note "It's highly recommended to have completed Abyss 2 at least to the point in which you receive a Mackerel Sandwich (and have an extra one in your inventory) before proceeding with the 1st Run. This will save some time in this event."
+    === "Guide" 
+    
+        1. Go to the Royal Capital to trigger a cutscene. Next, enter the Guild to watch another set of cutscenes. The choice does not matter. 
+        2. At the Guild select Request > Featured tab and accept the event request, which will unlock Village of Northern Hollow on the world map. 
+        3. Select the world map and go to the Village of Northern Hollow. Speak with all the NPCS, then go to the Tavern and speak with everyone. This will unlock Ghost Castle of the Northcleft on the world map. 
+        4. Enter Zone 1 and speak with the goblin blocking your way. Give him any basic healing item or scroll.
+        5. Take the left or right path and head north. They both connect at the Keep entrance along with the first Harken.
+        6. At the Keep entrance you will see Cait Sith. She will ignore you and run inside. Proceed to Zone 2 and you will get into a scripted ambush fight. Prishe will show up to assist. After the battle she will tell you that she is hungry and will not move until you give her something to eat. You have several options at this point. If you have a Mackerel sandwich from A2 you can speak with her again to progress. If not, you will have to complete 1 of 2 side quests. See "Feeding Prishe Sidequest" for details. 
+        7. After feeding Prishe head north to step on a switch to unlock the door. Zone 2 is a large area with several side areas. Head to the top right-side of the map where you will meet Iroha who will open the door for you. Unlock the nearby Harken and proceed to Zone 3. It is important that you return back to town every time you unlock a Harken on a floor as new features (blacksmithing, trading, etc.) are triggered at these specific points and can be missed. Exiting at Zone 3 unlocks the Goblin Blacksmith and Relic Weapon systems.  
+        8. Proceed through Zone 3 until you reach the central area where you will meet Zeid. Unlocking the door requires completing a mini-puzzle that requires temporarily sacrificing 2 party members. The Gorgon statues are located at (X:6, Y:17) and (X:20, Y:17). You will not lose any party members permanently. The only effect is that it increases their "hatred" toward you, which you cannot do anything about on your first run.  
+        9. After unlocking the door, proceed north to see a cutscene between Lion and Zeid. The Shadowlord will appear and absorb both of them. Unlock the nearby Harken, go back to town, and then return and head to Zone 4. 
+        10. In Zone 4 there are 3 portals, which take you do self-contained areas on the map. The left-most takes you to the left area; the central portal takes you to the bottom-right area; and, the right-hand portal takes you to the 3 Doors puzzle, which is where we want to go to proceed with the main story. The side areas have NM spawn locations, so they are worth investigating on a regular basis if you are farming for Attestations or Fragment drops.  
+        11. Take the right-hand portal where you will encounter Prishe again in front of the 3 Doors puzzle. The basic idea is that each door corresponds to an alignment (Good-Neutral-Evil). Whatever party members do not match that alignment will incur a penalty and an increase in hatred toward the MC. The door you select does not matter for this run (but does matter on the second run). If you return to this area in the future on your first run the entire mechanic is disabled so you can explore and farm freely. 
+        12. Go through the portal after the 3 Doors and proceed until you encounter a cutscene between Prishe and Ulmia. There will be a mini-boss fight. The Shadowlord will appear again and absorb both of them. Unlock the nearby Harken, return to town, and then proceed to Zone 5. The Mining system is now unlocked and you can purchase pickaxes at the Northern Hollow's Item Shop. Or, the gold version at any Jeweler in exchange for 500 Gil.   
+        13. In Zone 5 you will meet Iroha again. After the brief conversation proceed to the central area where you will see 2 portals. Each has a pressure plate you need to step on to unlock the door. Once that is done unlock the Harken, return to town, etc. When you are ready proceed to Zone 6. 
+        14. Zone 6 is a straight bridge. Continue north until the cutscene between Iroha and Tenzen triggers. Another mini-boss fight against Tenzen will ensue. The Shadowlord will appear again and absorb both of them. Proceed north afterward for another cutscene where the eldest brother will also be absorbed by the Shadowlord. Unlock the Harken, exit, and return to Northern Hollow to unlock the Trading system in the Tavern.  
+        15. Warning! Per usual, the first run is a "bad" ending. The upcoming fight is a scripted loss and your entire team will die and need to be revived. You will need to do enough damage to the Shadowlord to trigger the cutscene where he begins to absorb your teammates. If you are strong enough you can bring fewer party members or units that you do not care about. This is not recommended for newer players as you may not be able to do enough damage to trigger the scripted loss scene. As you are dying Lulu will comment that you should seek out Cait Sith for answers. Upon death you will be forced back to the CW to reset the event for your 2nd run.  
+        
+    === "Tips" 
+    
+        - To avoid having to do the Feed Prishe sidequest you can get a Mackerel Sandwich in the Port Town if you have completed A2. 
 
-1. Head to the Royal Capital, which will trigger a cutscene about some men going to the Adventurer's Guild. Head into the Adventurer's Guild and play out the cutscene. The options selected here does not matter. 
-2. Go into the Featured Tab and accept the Request. Select the option that you'll do it and you'll gain access to the event town from the World Map.
-3. Head to the Village of Northern Hollow from the event map. You'll need to go into the Tavern and talk to some people to get some information. This will unlock the Ghost Castle of the Northcleft on the World Map. Head there into Zone 1.
-4. The goblin blocking your way wants an item. Any potion or scroll should do.
-5. Make your way to the entrance of the castle at the very north of the Map, in which you'll see Cait Sith. She will ignore you and simply run inside. Follow her, and upon traversing to a certain point in Zone 2, you will be ambushed but saved by Prishe. However, she will promptly block your path by sitting down being hungry. If you have a Mackerel Sandwich from Abyss 2, you can simply talk to her again and give it to her, which opens the path. Skip to Step 7 if so, otherwise go to Step 6.
-6. Head back to Northern Hollow's Tavern and talk to the Chef. He will request rabbit meat and barley. Head outside talk to a man who requests help clearing goblins. You will be sent into a fight with some goblins and Hobbers, but afterwards he wants you to eliminate all the goblins in a nearby cave to solve the problem. This will unlock the Goblin Abode on the world map. Simple head to the cave and defeat all the enemies in the cave. Returning to the town will complete the request and give you some Barley and some gold. Rabbit Meat can be obtained from any area with Vorpal Rabbits. Upon collecting both meat and barley, head back to the Tavern and turn in the ingredients to receive a sandwich and some soup. Head back to Prishe and give her either food item.
-7. Go into the hallway that Prishe was blocking and step on the switch to open the door. Make your way to the top right side of Zone 2, and you will meet Iroha. She will open the door for you. Head to Zone 3.
-8. Head to the top middle of Zone 3 and meet Zeid. There will be a puzzle blocking the door that requires you to temporarily sacrifice two party members, one at each statue, in order to open the door. Doing so will make your party members temporarily at minimum trust level with you, but will go back to normal upon leaving the castle. The locations in which to sacrifice your team members are located at (X:6, Y:17) and (X:20, Y:17). 
-9. Go past the door and see a cutscene between Lion and Zeid. The Shadow Lord will unfortunately absorb both of them. Continue on to Zone 4.
-10. In Zone 4, move to the center of the floor and go through the right portal. There will be some enemies blocking the way. Prishe will be in front of a new puzzle, where there are three doors. It does not matter which door you go through at this point, but basically any allies with the wrong alignment will simply take 200ish damage and temporarily be set to minimum trust with you. (This only occurs the first time passing through any one door. Subsequent trips through thr door won't trigger the trap no matter your party's alignment. You can just walk through without issue.)  Continue onwards to the end of Zone 4, where you will see a cutscene of Prishe and Ulmia. You will have to fight here. In the end, the Shadow Lord absorbs both of them.
-11. You will meet Iroha in Zone 5, simply head to the middle of the floor and head slightly south to find two portals. You will need to head into each one and step on a pressure plate, which will unlock the door of Zone 5. Head to Zone 6.
-12. Zone 6 is a straight bridge. Simply head to the middle and see a cutscene between Iroha and Tenzen. Defeat Tenzen then watch both Tenzen and Iroha get absorbed by the Shadow Lord. Heading further across, you will see the eldest sibling of whom you are trying to rescue get absorbed by the Shadow Lord. Before continuing to Zone 7...
+    === "Feeding Prishe Sidequest"
+    
+        - After speaking with Prishe exit the event dungeon and head back to Northern Hollow. Go to the Tavern and talk to the Chef.
+        - He will request rabbit meat or barley as ingredients. These are 2 separate side quests and either are sufficient to feed Prishe.
+        - Option 1: Rabbit Meat 
+            - Rabbit meat can be obtained from any fight against Vorpal Bunnies, which are in almost every Abyss and side dungeon.
+        - Option 2: Barley 
+            - The barley request is more involved. Exit the Tavern and speak with the NPC asking for help against a pack of goblins. 
+            - Accept and after the fight he requests that you eliminate all the goblins in a nearby cave as a long-term solution. This will unlock the Goblin Abode on the world map. 
+            - The Goblin Abode is a small side dungeon. The goal is to kill every enemy. Lulu will comment when you are done. Note that it is easy to miss some of the mobs, so comb the area carefully.
+            - After you are done speak with the NPC back in town and the request will be completed and he will hand over the barley and a small Gold reward.
+        - When finished with either option return to the chef and had over the rabbit meat and/or barley. He will give you a sandwich and soup in return. 
+        - Return to Prishe and give her either item and proceed to the rest of Zone 2. 
 
-!!! danger "As per usual with Wizardry Variants Daphne, the first run typically results in a Bad Ending. In this case it is a scripted loss, with all teammates typically being killed. It's highly recommended to bring as few teammates as possible, preferably ones you don't care about, as you will still need to do enough damage to enter the phase where the scripted loss begins."
+    === "Goblin's Abode Map"
+        ![](./img/goblins-abode.jpg)
 
-12. Go to Zone 7, and watch a cutscene and engage the Shadow Lord. You will need to do enough damage (varies via grade obviously) for him to begin enraging your allies. This is a scripted loss, as he will begin one-shotting your entire party and slowly absorbing them one by one. As you die, Lulunarde will tell you to probably seek out Cait Sith for some answers. You now will be forcibly Cursed Wheeled to the beginning of the event.
 
-### 2nd Run Good Ending?
+??? note "2nd Run"
 
-1. Accept the request in the Royal Capital and head back to the Entrance of Zone 1. Cait Sith will be there again but avoid you.
+    === "Guide" 
+    
+        1. Full reset the event CW. Repeat all of the steps from the 1st run and head to the Keep entrance in Zone 1. Cait Sith will be there, but disappears.
+        2. Redo the Feed Prishe sidequest. At the end of Zone 2 you will encounter Iroha again. Unlike the 1st run you can now try to catch Caith Sith. Return to the large central room. Her locations are randomized and she can sometimes be hard to see if she is standing next to a pillar so search carefully. The options you select do not seem to matter. After 3-4 encounters you will be offered the Guidelight Bugs (Valuable item), which will light up when you are in close proximity to a Crystal of Hope. It will turn green when you are several tiles away and purple when it is in close proximity. The crystals appear as shiny, white interactable objects. They can be on the floor or walls and are easy to miss.   
+        3. For the 2nd run you have 3 primary objectives:
+            - Collect all 3 Crystals of Hope that correspond to each event unit's companion (Lion, Ulmia, Tenzen). 
+            - Use the corresponding crystal before the mini-boss fight ("Hold it up like a sword") to prevent the Shadowlord from absorbing each pair. 
+            - Eliminate the party's "hatred" toward the MC by successfully completing the Stone Gorgon and 3 Doors puzzles, which will create new toggles on your CW. 
+        4. Lion's crystal is in Zone 2. There are 3 different locations where it can randomly appear. They are all located in the side areas branching out from the central room.  
+        5. Go to Zone 3 and interact with one of the Gorgon statues. You will now be offered the option to sacrifice yourself. This action prevents the team's "hatred" from growing. There is no need to interact with the 2nd Gorgon as the door will now be open. If you do -not- sacrifice yourself, then the CW toggle will not register properly. 
+        6. Procced through the door and watch the scene between Zeid and Lion. This time you will be offered 3 options. Select "Hold it up like a sword". If you do not select this option, then the crystal will break and you will see the "bad" ending again where both of them are absorbed. 
+        7. Warning! Before entering Zone 4 read the 3 Doors Puzzle tab and decide how you would like to proceed. 
+        8. When you enter Zone 4 your two tasks are to 1) find Ulmia's crystal and 2) complete the 3 Doors puzzle correctly if you want the CW toggle. The location of Ulmia's crystal is randomized, but tends to appear in the area immediately after stepping on one of the 3 portals from the central zone. This is the elevated area with a fixed enemy a few spaces away. To proceed to the mini-boss fight take the right-hand portal from the central area. 
+        9. Same process as before. Hold up the crystal and clear all the enemies. Remember that your formation will be moved around. The Shadowlord will appear again but will be unable to absorb Prishe or Ulmia. 
+        10. Tenzen's crystal is located in Zone 5. It generally appears in one of the side areas to the left or right, including the 1-way rooms. An enemy may be standing on its tile. Like last time you will need to unlock the door by taking the central 2 portals and stepping on their respective switches. Proceed to Zone 6. 
+        11. Same process. Hold up the crystal and defeat Tenzen. Both are saved. Unlock the Harken and prepare for the Shadowlord boss fight. When ready enter Zone 7. 
+        12. Before the fight starts you will need to assign a pair of collab units to protect each of the 3 brothers. Assignments do not seem to matter outside brief flavor text. 
+        12. See Boss: Shadowlord tab for details.
+        13. After the fight speak with the 3 brother NPCs. You will be automatically returned to town. Return to the Royal Capital to turn in the request.
+        14. Lulu comments that things do not seem right and that you should speak with Cait Sith. 
+        15. CW back to the second node and head to the Keep entrance. Since you now have possession of the 3 Crystals of Hope she will tell you to come back later. Exit the dungeon, re-enter, and speak with her again. This is the start of the 3rd run. 
 
-2. Everything is the same except upon reaching the end of Zone 2, where you meet Iroha again. Instead of continuing, you will now try to catch Cait Sith. They will typically be located randomly around the big room in the center of the map. The options do not seem to matter, it is random. If you do not successfully catch her, she will just walk a few tiles away and you will need to attempt to catch her a few more times. They will give you Guidelight Bugs which will allow you to find Crystals of Hope that will basically prevent the Shadow Lord from absorbing everyone. For the first one, you will need to walk around Zone 2 and find a Crystal of Hope when the Guidelight Bugs glow purple. The Location will be random. You will need to do this two more times on later floors for their respective encounters.
+    === "3 Doors Puzzle"
+    
+        - To register the CW toggle correctly everyone in your party must be the -same- alignment as MC. A party size of 2-3 works fine if you are strong enough to kill the fixed mobs blocking the path. 
+        - As previously noted, each of the 3 doors corresponds to Good-Neutral-Evil alignment. Make sure you read the text when you interact with the door to go through the correct one. 
+        - If completed successfully you will get new Lulu text ("Did you change our party lineup specifically for this door, by chance?"). You can return back to town before the Ulmia mini-boss fight. 
+        - Notes 
+            - You can still progress the main story with a mixed alignment team. The only consequence is 1) the penalty to non-matching units and 2) the CW toggle not registering.
+            - After going through the door once the mechanic is disabled, so it is safe to farm the area for NMs and mining in the future. 
+            - If you completed -both- the Stone Gorgon and 3 Doors puzzles correctly, then none of your teammates should turn on you during the Shadowlord boss fight. 
 
-3. Head to Zone 3 and interact with one of the Gorgons. You will be offered a new option to sacrifice yourself. Select this option, you will be turned to stone, and your team will drag you to the door. Sacrificing yourself prevents your team from becoming angry with you. You can now proceed to through the door and do not need to interact with the 2nd Gorgon. Continue to the cutscene, but this time choose the option of holding the crystal up like a sword. (If you do not choose this option, then you will get the "bad" ending). You will enter a fight afterwards, but Lion and Zeid will be saved. Before you continue to Zone 4 however....
+    === "Boss: Shadowlord" 
+    
+        === "Dark Lord Immunity" 
+        
+            - The second run adds a new gimmick to the fight. He can completely nullify all physical or magical attacks depending on his current state. 
+            - He will rotate back-and-forth between both states. It is clearly sign-posted and you will see an icon above his head letting you know which type of attack will be nullified. 
+            - Recommend you bring at least 1 physical and 1 magical DPS unit to the fight
+            - Alternatively, you can bring mainly physical DPS with support units. When he has physical immunity you can use those turns to heal, buff, defbuff, etc. 
+        
+        === "Strategy" 
+        
+            - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
+            - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
+            - Does not have conventional HP amount. Rather, a certain amount of damage needs to be dealt per phase, otherwise the battle does not seem to progress. The phases are before he casts the physical barrier, before he casts implosion, and after it is cast.
+            - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies albeit with a big damage penalty.
+            - All of his moves are telegraphed. He will typically alternate between Dark Nova and Giga Slash. Dark Nova is a full team dark AOE. Giga Slash is a physical row AOE to either front or back row.
+            - After doing enough damage, he will become invulnerable to physical attacks. After doing enough magic damage, he will swap to a magic barrier instead on his next turn, but also any allies that are enraged in your team will be cleansed by the Crystal's Powers (cutscene). After this, he will ready Swath of Silence which on his next turn will cast Implosion, which is a full team dark AOE, and then follow up immediately with a -ga spell (Aeroga, Firaga, etc), a magic row AOE. After this point it's possible for him to swap immunities again if you take long enough.
+        
+        === "Picture"
+        
+            ![](./img/shadowlord.jpg)
 
-!!! note "The 3-door puzzle (Good-Neutral-Evil)"
-  Everyone in the party must be the same alignment, including the MC, and you must go through tbe correct door with them to have no bad effects. You will get special Lulu text ("Did you change our party lineup specifically for this door, by chance?") if done correctly. There is a teleporter near the door to confront Ulmia that you can use to return to the center of the room, exit back to town, and reassemble your usual party before the boss fight. Passing this puzzle correctly also prevents any of your units from being enraged during the boss fight as everyone is at 0 "Hate". The alignment trap only triggers on your first trip through any of the three doors. Subsequent trips can be done with any party configuration without any ill effect.  
+    === "Bondmates" 
+    
+        - Completing the request will reward you with a bondmate for each of the side companions (Lion, Ulmia, and Tenzen). 
+        - We do -not- recommend that you farm these bondmates until the 3rd run, which is more efficient and allows you to level up the 4th and final bondmate at the same time. 
 
-4. There is a Crystal of Hope in Zone 4 for Ulmia you need to find before confronting her. You may need to look up on the wall for it. As per usual, it is randomly located souse the indicator to see when you get close and check every portal. For the puzzle, bring a party of only 1 alignment and go through that door. Use the teleporter to leave and change back to your nmregular party if necessary, then continue onwards through thr door and engage in a fight with some demons. Afterwards, like with Lion and Zeid, hold up the crystal up like a sword to save both Ulmia and Prishe. Head onwards to Zone 5.  
-5. There will be Crystal of Hope in Zone 5 for Tenzen. You may need to fight an enemy standing on the same tile as it. As per usual, it is randomly located in the map. Unlock the door and head to Zone 6. You will need to fight Tenzen, and once again hold the crystal up. Tenzen and Iroha are saved. Continue onwards to Zone 7.
+??? note "3rd Run" 
 
-!!! note "Dark Lord Immunity"  
-    It is recommended to bring at least one physical and one magical damage dealer for this fight, as the Shadow Lord can become immune to one or the other during the fight. Alternatively, use any turns where you cannot significantly damage him to heal, buff, and wait for thr immunity to end.  
+    1. Cursed wheel again to the point where you can talk to Cait Sith at the Zone 1 castle entrance.  
+    2. Leave through the Harken and come back to talk to Cait Sith again. You'll learn that this time you need to find six ~~FFXI expansion advertisements~~ Crystals this time instead of three.  
+    3. Continue through the request as normal.  (Meet and feed Prishe in Zone 2.)  
+    4. There are crystals randomly located in both Zones 2 and 3 before Zeid now.  Get both of them before doing the Gorgon puzzle.  
+    5. Continue through the request as before. (Hold up the Crystal like a sword, defeat Lion).  
+    6. On Zone 4, there are also two crystals this time, again randomly located.  Find them both and don't forget to bring a single alignment party before taking the right teleporter so that you can proceed through the doors without setting off the trap.  Again, you can use the teleporter to return to the middle of the room both to get your regular party back and find any other crystals you missed before going through the north door to confront Ulmia.  *Note* a crystal can spawn in the room leading to the 3 doors. You'll see the indicator light up on nearby hallways, and should be able to home in on it's general location. Just don't go in there the first time without a single-alignment party.
+    7. On Zone 5, there are also two crystals this time. Find them, the activate both switches, then go to zone 6.  
+    8. Meet and beat up Tenzen in zone 6.  
+    9. Go to zone 7, confront the Arch Shadow Lord.  Same general fight, this time he'll cast a second implosion so avoid letting HP get too low especially for the MC.  
+    10. You win.  
 
-6. Because you saved every single group of adventurers, you are able to assign each to protect someone, which allows you to freely fight the Shadow Lord.
-
-??? danger "Shadow Lord"
-
-    ![](./img/shadowlord.jpg)
-
-    - You will have the collab units as guest allies during the fight. If you own any collab units, they will not be listed as an guest unit.
-    - Can be suretied relatively easily. Is immune to CT down and turn delaying effect, but can be debuffed with other status downs.
-    - Does not have conventional HP amount. Rather, a certain amount of damage needs to be dealt per phase, otherwise the battle does not seem to progress. The phases are before he casts the physical barrier, before he casts implosion, and after it is cast.
-    - He will randomly enrage two of your allies during the fight, including guest units, which makes them attack allies albeit with a big damage penalty.
-    - All of his moves are telegraphed. He will typically alternate between Dark Nova and Giga Slash. Dark Nova is a full team dark AOE. Giga Slash is a physical row AOE to either front or back row.
-    - After doing enough damage, he will become invulnerable to physical attacks. After doing enough magic damage, he will swap to a magic barrier instead on his next turn, but also any allies that are enraged in your team will be cleansed by the Crystal's Powers (cutscene). After this, he will ready Swath of Silence which on his next turn will cast Implosion, which is a full team dark AOE, and then follow up immediately with a -ga spell (Aeroga, Firaga, etc), a magic row AOE. After this point it's possible for him to swap immunities again if you take long enough.
-
-7. Talk to the three brother NPCs in Zone 7 after defeating the Shadow Lord to leave. Head back to the town to view a cutscene. Return to the Royal Capital to turn in the request. Lulunarde will recommend you to go talk to Cait Sith, which requires you to Cursed Wheel a third time to talk to Cait Sith at the entrance to the Castle in Zone 1 again.
-
-Rewards:  Completing the request will reward you with a bondmate for each of [Lion, Ulmia, and Tenzen](#bondmates) that you saved each with a Crystal.
-
-### 3rd Run
-
-This is unavailable for now and will be unlocked later during the event.
-
-### Maps
+    Rewards: Completing the request with all six crystals and having saved all three friends will reward you with [the same bondmates as before plus Cait Sith as a bondmate](#bondmates).
+    
+## Maps
 
 ??? map "Zone 1"
-    ![](./img/zone-1-baileys.jpg)
+    ![](./img/zone-1-baileys.jpg){ width="500" }
     
 ??? map "Zone 2"
-    ![](./img/zone-2-keep-1f.jpg)
+    ![](./img/zone-2-keep-1f.jpg){ width="600" }
     
 ??? map "Zone 3"
-    ![](./img/zone-3-keep-2f.jpg)
+    ![](./img/zone-3-keep-2f.jpg){ width="700" }
     
 ??? map "Zone 4"
-    ![](./img/zone-4-keep-2f-depths.jpg)
+    ![](./img/zone-4-keep-2f-depths.jpg){ width="800" }
     
 ??? map "Zone 5"
-    ![](./img/zone-5-keep-2f-innermost-depths.jpg)
+    ![](./img/zone-5-keep-2f-innermost-depths.jpg){ width="900" }
     
 ??? map "Zone 6"
-    ![](./img/zone-6-great-bridge.jpg)
+    ![](./img/zone-6-great-bridge.jpg){ width="1000" }
     
 ??? map "Zone 7"
-    ![](./img/zone-7-throne-room.jpg)
+    ![](./img/zone-7-throne-room.jpg){ width="1100" }
     
 ??? map "Goblin's Abode"
     ![](./img/goblins-abode.jpg)
@@ -136,10 +242,11 @@ The Harkens in the event can provide both the basic blessings and unique Event b
 
 ## Bondmates
 
-- Lion, Tenzen, and Ulima will become bondmates after saving them with Crystals of Hope and completing the Good Ending.  
+- Lion, Tenzen, and Ulima will become bondmates after saving them with Crystals of Hope and completing the Good Ending.
+- Cait Sith will become a bondmate after completing the 3rd run with all six crystals.  (This will also give the other three bondmates if they are saved.)
 - Bonds can be leveled by simply using the Cursed Wheel to leap back to right before the final fight, winning the battle, and turning in the Request.  
 - Bonds can achieve level 5 with 11 completions.  
-- These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha).
+- These event bonds are unique, in that they provide one set of benefits for all adventurers, but also an bonus set of benefits if bonded to their specific friend (Lion with Zeid, Ulmia with Prishe, and Tenzen with Iroha, and Cait Sith with any of those three).
 
 !!! note "FFXI Bondmate Details"  
     
@@ -155,59 +262,93 @@ The Harkens in the event can provide both the basic blessings and unique Event b
         ![](./img/ulmia-bondmate.jpg)  
         
         - Ulmia's Song of Prayer: Provides 8 Resistance at +5  
-        - The Bond Between Ulmia and Prishe: Provides 8 extra ATK if put on Prishe at +5  
+        - The Bond Between Ulmia and Prishe: Also provides 8 extra ATK if put on Prishe at +5  
         
     ??? note "Tenzen, Samurai of the Far East"  
         
         ![](./img/tenzen-bondmate.jpg)  
         
         - Tenzen's Ultimate Aim: Provides about 17% Paralysis Tolerance at +5  
-        - The Bond Between Tenzen and Iroha: Provides 4 extra ATK and DIV if put on Iroha at +5  
+        - The Bond Between Tenzen and Iroha: Also provides 4 extra ATK and DIV if put on Iroha at +5  
+
+    ??? note "Cait Sith"  
+        
+        ![](./img/caitsith-bondmate.jpg)  
+        
+        - Cait Sith's Guidance: Increases HP.
+        - The Bond Between Cait Sith and Heroes: Also increases SP and MP if put on Prishe, Iroha, or Zeid
+        
 
 ## Relic Equipment and Materials 
 
 !!! note "Availability"
-    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken. Lulu hints at Zone 3 that you should return to town to see if anything has changed. (Never ignore blatant game hints like that!)  Players have reported continuing to progress through the story without returning and the unlock conditions not occurring. It is recommended you return to town at each Harken after floor 3 to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed to far.
+    Relic equipment availability, the special blacksmith for reforging, and mining for materials unlock at various points after restoring the Zone 3 Harken where Lulu hints you should return to see if anything has changed. (*Never ignore blatant game hints like that!*)  Players have reported continuing through the story without returning and unlock conditions not occurring. It is recommended you return to town at each Harken after floor 3 to ensure conditions activate.  Wheeling back to these points may be necessary for unlock if you've progressed too far.
 
-The event has added unique equipment called "Relic Weapons and Armor" (not in any way related to Relicbrews and related material). These items start as rather poor, low stat items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items along with the materials needed to "Reforge" them to the next item/material level, or to "Remake" the highest/Silver level (essentially undoing its milestone blessings if you aren't happy with them the first time around.)  
+- The event includes unique "Relic Weapons and Armor" (completely unrelated to Relicbrews and related material). These items start as low stat, low rank items, but can be gradually upgraded at a special Forge to become some of the more interesting items in the game. Below is a table of items and materials needed to improved them (through Reforging and Remaking).  
+- The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Some reforging materials can be obtained at the Event Jeweler Exchange, some by farming the event dungeon, and some through the trading mechanism described above.  
+- There is no level or story progress restriction to possessing any of the relic upgrade materials, but getting drops of the highest level does seem limited for lowest level players. But through various means it is possible for even the lowest level event participant to theoretically finish with some Silver rank equipment.  
 
-The starting items can be obtained from the Event Jeweler Exchange for 1000 Gil each after the Zone 3 Harken has been reached. Reforging materials can be obtained by farming the event dungeon and through the trading mechanism described above.  
+???+ tip "Relic Item details"  
 
-There appears to be no level or story progress restriction to obtaining any of the relic upgrade materials, so even the lowest level event participant can theoretically finish the event with a set of Silver rank equipment.  
-
-Some quick facts:  
-
-- Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings.  
-- Blessing types are all locked, so L/FASing them will keep blessing types the same and just reroll the values, similar to Master Rings from class trials.  
-- Enhancement:  
-    - Enhancement is limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-    - Enhancement costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).
-    - Enhancement blessing increases also give the Silver level table ranges for 1H and 2H items (even if you enhance at lower levels).  
-    - Enhancement levels and blessings are unchanged when Reforging to a higher item level.  
+    - Relic items of all levels are always 4* Red (4 unlocked blessings) with Silver level blessings. 
     - FAS also apply silver-level blessing increases. You can enhance and FAS at any time at any level with no loss of potential stat range.  
-- Remaking:  
-    - Can be done only on max-reforged (Level 4) equipment at enhancement level 1 or higher
-    - What it does:
-        - Reverts enhancement level to 0
-        - Allows you to reroll ONLY milestone blessing boosts after enhancing equipment again
-        - Removes ALL blessing refinements (Boosts from refinement stones)
-    - Does not modify
-        - Reforge level (No need to farm materials again)
-        - Base blessing values (Need a LFAS or FAS for this)
-        - Altered blessings (Through common alteration stones)
-- Silver Tier Skills:  
-    - At reforging to Level 4, items gain an active and a passive skill for to the bearer when equipped.  
-    - The active skill's damage typically is equivalent to Lvl 6 Heavy Attack on physical weapons, and lvl 6 Cones for the magic weapon.
-    - The buffs/debuffs from the effects are not affected by turn-extending effects.
-    - The cost of the active skillse are 31-34 SP (or MP for the staff).
+    - Blessing types are fixed. L/FASing them keeps blessing types the same and just rerolls the values, similar to Master Rings from class trials.  
+    - Enhancement:  
+        - Limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
+        - Costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).  
+        - Blessings and increases all follow the Silver level table ranges for 1H and 2H items (even if you enhance at lower relic level).  
+        - Reforging has no affect on enhancement level or blessings.  
+    - Remaking:  
+        - Can be done only on max-reforged, Silver level (Level 4) equipment
+        - What it does:
+            - Reverts enhancement level to 0
+            - Allows you to reroll ONLY milestone blessing boosts when enhancing equipment again
+            - Removes ALL blessing refinements (Boosts from refinement stones)
+        - Does not modify:
+            - Reforge level (No need to farm materials again)
+            - Base blessing values (Need a LFAS or FAS for this)
+            - Altered blessings (Through common alteration stones)
+            - FAS bonus blessing amounts
+    - Silver Tier Skills:  
+        - At Silver Reforge Level, items gain an active and a passive skill for to the bearer when equipped.  
+        - Active skill damage is approximately equivalent to Lvl 6 Heavy Attack on physical weapons, and Lvl 6 Cones for the staff.
+        - Buffs/debuffs from the effects are not affected by turn-extending effects.
+        - Active Skill costs are 31-34 SP (or MP for the staff).
 
-### Relic Material Totals
-??? tip "Relic Material Count Table"
-    === "Materals by item type"
-        ![](./img/collab_relic_equipment_fodder_bytype.png)
+### Relic item upgrade strategy
+!!! tip ""  
+    There were many unknowns regarding the relic reforging, enhancing, remaking, L/FAS'ing, etc. mechanics when the event started.  This has been almost entirely cleared up. Key details are that *Reforge Level has Zero Impact* on potential blessings and when you can enhance and alter your relic item. You cannot brick your item by enhancing early.  Items will use Silver cost and Blessing tables *at any Reforge level*.  
+
+- Relic items are prime candidates for using L/FAS to maximize blessing rolls since you don't have to worry about the blessing types.  
+- Items have a maximum of four blessing score components:  (#1) Initial roll, (#2) +5/10/15/20 Milestone enhancment increase, (#3) FAS bonus if you used one, (#4) Refinement bonus. (A FAS bonus has the same values as a Milestone enhancement bonus).  
+- Relics are unique because of the Remake option. Remake sets the item enhancement back to +0 removing the Milestone enhancement blessing component (#2) and any Refinement bonuses (#4). All other blessing components remain unchaged. The game keeps track of the individual components even though the player only sees the total value.  
+-If you never remake, general strategy is the same as for Master Fighter/Mage Ring: (1) L/FAS until you're happy with the stats, (2) Alter away one stat if desired, (3) enhance and hope for good milestone rolls (If rolls are bad, you always have the option to re-FAS, understanding that any altered slot will revert to its original type.) (4) finally Refine. 
+- To take advantage of Remake, you want to only L/FAS before enhancing because:  
+    - FAS before enhancing - you can note the milestone increase values and decide if they're worth keeping.  
+    - FAS after enhancing - Milestone blessings are rerolled along with everything else and you don't know if that piece was high or low and whether a Remake will be worthwhile.  
+
+!!! tip "TL;DR: recommended Relic improvement process"  
+    *Use the [Blacksmithing Enhancement tables for Silver items](/equipment/blacksmithing/#silver) to determine how good your rolls are.*
+    1. Note the starting blessings from when you first got the item.  
+    2. If you are going to L/FAS do it before enhancing to +5.  
+        - For LFAS just compare to initial values.  For FAS compare with Initial+FAS ranges.  
+    3. Repeat (2) until happy with the rolls or out of L/FAS.  
+    4. Alter any one slot you want with a good alter stone. Reroll Alter until you are happy with the roll.  
+    5. Before enhancement note (screenshot) your blessing values.  *This is what a Remake will return you to*.
+    6. Begin enhancing to +20. Note your milestone blessing increases.  *This is what Remake will remove*.
+    7. On the way to +20, if you get a bad milestone decide if you want to try again. If so, *stop enhancing*. No sense wasting gp enhancing further if you know you're going to Remake. If you are happy with your blessings, you're done.
+    8. Remake if unhappy with 7. (finish Reforging to Silver level if necessary). 
+    9. Return to step 5. Continue from there. 
+
+    The process above isolates the milestone enhancement from the FAS related rerolls, giving you more control and allowing you to preserve good FAS results rather than rerolling everything from one bad component.  If you did enhance before using FAS, your possible item totals will be unchanged.  You just won't know until your first Remake what values you will return to in set 5.
     
-    === "Materials by rank"
-        ![](./img/collab_relic_equipment_fodder_byrank.png)
+### Relic Material Totals  
+??? tip "Relic Material Count Table"  
+    === "Materals by item type"  
+        ![](./img/collab_relic_equipment_fodder_bytype.png)  
+    
+    === "Materials by rank"  
+        ![](./img/collab_relic_equipment_fodder_byrank.png)  
 
 Total material required to make all Relic items:
 
@@ -396,15 +537,15 @@ Trading is the main source of obtaining the event currency, Gil, and a reliable 
 
 #### Delivery Support
 
-This allows you to help fulfill other people's requests for certain items. There will typically be a reward of some sorts for providing a specific item, with Gil always being given to the player providing support. Usually, more Gil is given the higher the tier of the materials. Buying the trading pass from the Jeweler's shop will boost Gil gain from these transactions by 50%.
+This allows you to help fulfill other people's requests for certain items. There will typically be a reward of some sorts for providing a specific item, with Gil always being given to the player providing support. Usually, more Gil is given the higher the tier of the materials. Buying the trading pass from the Jeweler's shop will boost Gil gain from these transactions by 50%.  Blue dots highlight requests that you have the ability to fulfill.
 
-Players in the list will typically prioritize those on your friends list before strangers, so it can be easy to help friends or coordinate trading materials for Gil. However, there is a 24 HR limit to the refreshing of the list, which can be bypassed by spending 300 green gems.
+Players in the list will typically prioritize those on your friends list before strangers, so it can be easy to help friends or coordinate trading materials for Gil. However, there is a 24 HR limit to the refreshing of the list, which can be bypassed by spending 300 green gems.  Note that only the general materials can be exchnaged for gold, so difficult-to-obtain materials will not be lost in the process, they will simply be traded for other equal-value items (in addition to getting a Gil reward for completing the exchange.) Note that Attestations exchanged for Fragments at a 10:1 ratio, but you can only place requests to go from Attestations to Fragments.  To exchange Fragments back to Attestations you need to fulfill someone else's requset on this Delivery Support page.
 
 #### Procurement Request
 
-There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for relic equipment material in gold. However, Attestations can only be traded for Attestations of other weapon types, and Fragments can only be traded for Fragments/Attestations of other weapon types. 
+There are three slots here that allow you to post requests for certain items, with a three hour cooldown per successful request. Typically, you can pay for general relic materials with gold or by exchanging for similarly valued material.  Attestations and Fragments, however, can only be traded for other Attestations and Fragments.  Attestations can be traded up for Fragments at a 10:1 ratio. You cannot request to get Attestations back for Fragments, that conversion can only be done by fulfilling someone else' Delivery Support request. 
 
-One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request.This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.
+One notable thing is that while real players can fulfill your requests, there are bots that will also guarantee that your request is fulfilled within the 3 hour cooldown of each request. This guarantees a stable source of certain materials that are difficult to get if you simply just wait for the trades to be fulfilled.  For Attestations and Fragments in particular where the process of getting the specific weapon type you need in-dungeon can be difficult, with Requests you can slowly but surly convert anything you do find to what you actually need.
 
 ![](./img/bots.jpg)
 
@@ -413,16 +554,21 @@ One notable thing is that while real players can fulfill your requests, there ar
   
 ### Mining for Ore  
 
-- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items.  There will also be Golden Pickaxes in the Jeweler Exchange.  
-- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. See locations on the Maps below. You will almost always get one or two types of items from the list below.  
-- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, but they provide 3x the mining return per use. They do cost valuable event currency (Gil). At least at the start while you're still accumulating currency, it's probably best to stick to just loading up on as many regular ones as you can carry.
-- Mining results are not limited by player progress or rank, so this is one of the few free-to-play ways to get early access to higher levels of ore than you can find in the regular game.
-
-    - enhancement ore: low, mid, high, fine, and silver grade  
-    - sellables: mainly translucent gems  
+- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items for 100gp.  There will also be Golden Pickaxes in the Jeweler Exchange for 500 Gil.  
+- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. Black formations are 'dead' and cannot be mined. See locations on the Maps below. You will almost always get one type of ore/stone and one type of sellable each mining attempt.  
+- After a certain number of mining attemptes, the rock formation will 'shatter' and be 'dead' for the rest of that time in the dungeon. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
+- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, and they do cost event currency (500 Gil), but they produce 3x the mining return per use.
+- Mining products:
+    - Enhancement ore: low, mid, high, fine, and silver grade  
     - Ouroboros Ore (see Relic Material list above)  
-    - Alteration and refinement stones (includig LFAS / FAS)
- 
+    - Alteration and refinement stones (includig LFAS / FAS) ranging from 1-5 star quality.
+    - Sellables: mainly translucent gems
+- Tips:
+    - Mining products are not limited by player progress or rank. This is one of the few free-to-play ways in the game to get early access to higher levels of ore than you can normally find. This is especially valuable if you are trying to Reforge Relic items to material Ranks higher tha your current main story progress allows.  
+    - Keeping a supply of Mining Pickaxes in storage lets you quickly refill from the inventory screen outside the castle without heading back to town.
+    - At least at the start while you're still accumulating currency, it's probably best to just stick to loading up on as many regular pickaxes as you can carry.  Later, after you have cleared out the Exchnage shop, you can splurge on the Golden ones to triple your mining output.
+    - There are several locations with one or two mining spots and no mobs near entrances and Harkens (Zone 1 Main entrance , Zone 2-5 Harkens). If you want to do nothing but mine, you can repeatedly jump in and out of those locations to mine when they refresh.  
+
 ??? map "Mining Maps"
     Mining locations marked with checkmarks below.
    
@@ -443,7 +589,14 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 
 ### Relic Materials
-- Info pending
+- Note - as of Aug 14 some relic materials are available in the Exchange. Likely you will still need far more than are available.  
+- There are ~four general categories of relic items, each of which needs to be farmed in different ways:  
+    1. General relic materials: Byrne Bills, Shells, and Silver/Goldpieces needed to reforge items up to Steel rank. These materials drop from regular chests either spawed on entering the dungeon or from random mob chests. See Chest/Junk Drop section for farming details.  
+    2. Attestations (papers) and Fragments (boxes): Specific to each relic item, these are needed to Reforge items to Ebonsteel and Silver ranks, respectively and to Remake silver-rank items. These items only drop from two sources: encounters with Notorious monsters (non-wandering demons with a random chance at occurring at set spawn points on Zones 1-5), and roaming packs of 8 demons that spawn in the farthest southern corners of the big rooms on Zone 5 (only appearing on second and subsequent dungeon resets). Depending on your junk/level/progress tier all of these encounters have a chance of dropping 4-5 of each item.  The NMs are named, and each has set spawn locations and types of items dropped.  See [NM location maps](#potential-spawning-locations) above.  
+        - It has been noted that the 8-demon packs always spawn closest to the farthest southern corners of the big rooms. Additionally, while auto-walking you can bring up the map and all mobs stop moving (you can still run into them.) The west room has a generally mob-free straight path to the corner if you auto-walk from the floor entrance.  If you set an auto walk point to the corner, upon entering the floor you can immediately walk-to-check then bring up the map and you should walk there uninterrupted. Then on arrival you can quickly find and attack the closest mob, likely to be the 8-demon pack. Note this seems to also avoid aggro-ing as many other mobs on your way in. Doing both rooms with this method, the second room will likely have had mobs wandering decreasing effectiveness of the approach.  
+        - Certain NMs only spawn once daily. Others have a chance to repsawn once each time you enter the dungeon, and each time you re-enter the floor that chance of them appearing re-rolls. So you can clear the general mobs from a floor, if no NM switch floors, go back to that floor and see if the demon has spawned. (If he hasn't another random mob will be there instead.) E.g., this can be done on Zone 1 by clearing the northeast room, stepping through the gate into Zone 2, stepping back into Zone 1, checking that NE room again for the demon, repeating until he appears, after defeating him leaving the dungeon, and then repeating the process.  Other floors provide similar farming opportunities, such as the big rooms on Zone 5. (more details pending)  
+    3. Necropsyche: lanterns carried by Tonberrys needed to Reforge items to silver rank and to Remake silver-rank items - Tonberrys randomly spawn throughout zones 2-5 as smaller enemies and can appear alone, with other random monsters, or as a group of three tonberries. Each battle will drop 4-5 necropsyche, no matter how many Tonberrys in the battle. Tonberrysare light-type and have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack. They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x). MONTINO/Voice Theft can prevent the counterattack, but MONTINO can be removed. They are susceptible to sleep and stun. Encountering one? Terminate with extreme prejudice.  Encountering three? Flee.  Just not worth it.  You're gonna need to kill a lot of these guys to get all relics up to Silver.
+    4. Ouroboros Ore: Special ore needed only for Remaking an item. Can be rarely obtained by [Mining for Ore (see above)](#mining-for-ore) in the castle. Also available in unlimited quantities in the Exchange Shop for 15,000 Gil (Each Remake requires 10 Ore, so 150,000 Gil each). If you're lucky with your enhancement rolls you may never need to Remake a Relic.  In the process of mining for other rare drops, you may get what you need.  But with the ease of farming Gil through the Trader, it may be easist to just plan to Exchange for whatever ore you need. 
   
 ### Chest / Junk Drops
 
@@ -455,7 +608,8 @@ One notable thing is that while real players can fulfill your requests, there ar
     - Fool's Drink: Renders 1 ally immune to magical damage for 3 turns.
     - Scroll of Instant Stonega: deals minor earth damage to 1 enemy row.
     - Scroll of Instant Blizzaga: deals minor untyped damage to 1 enemy row with a chance to inflict Chill.
-- The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade/Level and main story progress. More details pending.
+- The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade and main story progress.  
+- More details pending.
   
 ### Bondmates  
 
