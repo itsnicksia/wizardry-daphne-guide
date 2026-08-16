@@ -26,6 +26,10 @@ Note that these are not comprehensive lists, and other buffs and debuffs are sit
 
 One important thing to note is that there is a limit of 3 buffs and a limit of 3 debuffs that can be applied to a target. Applying more buffs/debuffs will cause earlier-applied ones to drop off. This means that you can accidentally remove an important buff or debuff if you're not paying too much attention to what you're applying. Afflictions (sleep, confuse, taunt, etc) do not count towards the debuff limit.
 
+## Pre-buffs  
+
+Note that all of the combat buffs/debuffs mentioned above can only be applied in combat, using turns to invoke the skill/spell effect.  Whether intentional or not, the game does allow some very limited pre-buffing.  Any status cure spell that can be cast outside of combat (e.g., LATUMKFIS, KUSFIS, etc) and gives a RES buff at spell level 2 or higher will also provide that RES buff outside of combat. You can stack RES buffs from up to 3 different spells, and the RES increases goes up at levels 2, 4, and 6, and lasts for the first 2 rounds of combat. Tbe amount of the increase is a fixed amount plus a fraction of the receiving character's base RES.  the prebuff will persist for a few steps, but cancel if you change equipment, rest, and likely other actions too.  See the [Resistance](./traits-and-stats.md#resistance) section for more details.  
+
 ## Openings
 
 ### What Are Openings?
