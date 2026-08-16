@@ -119,7 +119,7 @@
         11. Same process. Hold up the crystal and defeat Tenzen. Both are saved. Unlock the Harken and prepare for the Shadowlord boss fight. When ready enter Zone 7. 
         12. Before the fight starts you will need to assign a pair of collab units to protect each of the 3 brothers. Assignments do not seem to matter outside brief flavor text. 
         12. See Boss: Shadowlord tab for details.
-        13. After the fight speak with the 3 brother NPCs. You will be automatically returned to town. Return to the Royal Capital to turn in the request.
+        13. After the fight speak with everyone and you will be automatically returned to town. Return to the Royal Capital to turn in the request.
         14. Lulu comments that things do not seem right and that you should speak with Cait Sith. 
         15. CW back to the second node and head to the Keep entrance. Since you now have possession of the 3 Crystals of Hope she will tell you to come back later. Exit the dungeon, re-enter, and speak with her again. This is the start of the 3rd run. 
 
