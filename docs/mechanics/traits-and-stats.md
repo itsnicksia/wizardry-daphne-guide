@@ -344,9 +344,22 @@ Strength+ is a unique property that appears on 2h weapons that adds a portion of
 
 Resistance is a stat that contributes to resisting status effects (in the case of poison, it also reduces poison damage). There are two main sources of resistance, which is the RES stat itself and Tolerances that come from passive skills and gear.
 
-All info in this section credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
+Resistance increases primarily come from equipment with RES stats and spells that include RES buffs as primary or secondary effects.  The primary RES buff spellall priests learn is KINAPIC. Prayer of Rebellion (Red Beard inheritable) also increases RES along with ATK. Many status curing spells like LATUMOFIS, KUSFIS, DIADOR, etc., when cast at level 2 and higher also provide a temporary RES buff.  
 
-### Resistance Formula
+### RES Pre-buffing
+
+Any of the RES buffing spells that can be cast out of combat (e.g., curing poison with LATUMOFIS 2+, or paralysis with DIADOR 2+) will provide an out of combat RES boost. Up to 3 such separate spells can be stacked, and RES boost is a fixed amount plus a fraction of receiving character base RES, and the boost has increased effect at spell levels 2, 4, and 6. The boost persists whole walking in tbe dungeon, and is canceled by changing equipment, resting at an inn or camp, and maybe other actions as well (Note it has never been clear if pre-buffing was intentionally designed behavior.). 
+
+Additionally. while the exact amount of RES increase from any spells cast in combat is not shown to the player, any pre-buff RES increase can be seen in the character's stat page. From this Spell RES increases can be estimated as:  
+
+    For `N` prebuff spells of Spell Level `L`
+    +RES = ceil(N*(base_RES/2 + 10*(floor(L/2))))   
+
+It is unclear if this is the same RES increase when the same spells are cast in combat, or whether spells only castable in combat have the same effect.
+
+All info in this section below credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
+
+### Resistance Impact Formula
 
 ![](./img/res-formula.png)
 
