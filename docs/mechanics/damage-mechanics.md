@@ -90,10 +90,20 @@ The final current skill that falls into this category is `Way of the Warrior`. L
 |      6      |                 |
 |      7      |                 |
 
-## Type Advantage Modifiers
-When you hit a type advantage on an enemy, you deal roughly 30% more damage (a modifier of 1.3). If you happen to be hitting a type advantage with an adventurer that shares its type with the weapon or spell, that advantage increases by an additional 25% (a modifier of ~1.6).
+## Type Advantage, Disadvantage, and Armor Modifiers
 
-For example, if you deal `200` damage against a neutral enemy with an Earth weapon, if that same enemy were Water type, you would be dealing `200 * 1.3 = 260` damage instead. If the adventurer that was hitting the weakness happened to also be an Earth type, you would instead be dealing `200 * 1.3 * 1.25 = 325` damage.
+### Type Advantage/Disadvantage
+When you hit a type advantage on an enemy, you deal 30% more damage (a modifier of 1.3). If you happen to be hitting a type advantage with an adventurer that shares its type with the weapon or spell, that advantage increases by an additional 25% (a modifier of ~1.6).
+
+For example, if you deal `200` damage against a neutral enemy with an Earth weapon, if that same enemy were Water type, you would be dealing `200 * 1.3 = 260` damage instead. If the adventurer that was hitting the weakness happened to also be an Earth type, you would instead be dealing `200 * 1.3 * 1.25 = 325` damage.  
+
+Note that "Type-Formation" skills (e.g. Fire Formation) provide similar effect, with the boost being ~10%.  
+
+The same damage modifiers apply when taking damage.  If an Earth-type attack is made against your Water-type ally, the damage taken will be multiplied by 1.3.  
+
+Similarly, a type disadvantage occurs when the attacker is using a disadvantageous type combination, in which case a 30% damage reduction occurs.  E.g., of a water-type attack is made against an earth type enemy, 
+
+
 
 ### Element Type Chart
 
