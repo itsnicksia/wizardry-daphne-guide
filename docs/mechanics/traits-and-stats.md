@@ -352,8 +352,10 @@ Any of the RES buffing spells that can be cast out of combat (e.g., curing poiso
 
 Additionally. while the exact amount of RES increase from any spells cast in combat is not shown to the player, any pre-buff RES increase can be seen in the character's stat page. From this Spell RES increases can be estimated as:  
 
-    For `N prebuff sspellsof Spell Level `L`
-    +RES = ceil(N*(base_RES/2 + 10*(floor(L/2))))
+    For `N` prebuff spells of Spell Level `L`
+    +RES = ceil(N*(base_RES/2 + 10*(floor(L/2))))   
+
+It is unclear if this is the same RES increase when the same spells are cast in combat, or whether spells only castable in combat have the same effect.
 
 All info in this section below credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
 
