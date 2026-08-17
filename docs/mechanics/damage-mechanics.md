@@ -109,9 +109,26 @@ If, however, the adventurer's type is disadvantaged _to the attack type_, the ad
 
 There is no stacking with disadvantaged attacks.
 
-### Element Type Charts
+### Element Type Advantage Relationship
+
+The following graphic shows the advantage and disadvantage relationships between different types.  For material elements (air, earth, fire, and water) each type has an advantage over one other type (red arrow) and a disadvantage over another (blue arrow).  The light and dark types are different, as they have advantage over the opposite type but disadvateagd to themselves.
 
 ![Element Chart](./img/element-chart.png)
+
+This is also laid out in the table below that specifies when a particular attacking element  attacks with advantage or disadvantage.
+
+| Attacker | Advantage<br>over | Disadvantage<br>to | Neutral<br>versus |
+|:---:|:---:|:---:|:----|
+| Fire | Wind | Water | Fire (self), Earth Light, Dark |
+| Water | Fire | Earth | Water (self), Wind, Light, Dark |
+| Wind | Earth | Fire | Wind (self), Water, Light, Dark |
+| Earth | Water | Wind | Earth (self), Fire, Light, Dark |
+| Light | Dark | Light (self) | Fire, Water, Wind, Earth |
+| Dark | Light | Dark (self) | Fire, Water, Wind, Earth |
+
+
+
+
 
 ## Status Affliction Modifiers
 There are two status afflictions that currently allow you to deal increased damage.
