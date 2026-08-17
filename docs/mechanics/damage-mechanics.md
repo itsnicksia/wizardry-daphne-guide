@@ -136,61 +136,60 @@ The following table summarizes attack advantage/disadvantage and stacking.
 
 <table style="text-align: center;">
     <tr>
-        <th colspan=2>Attack details</th>
-        <th colspan=2>Advantage?</th>
-        <th colspan=2>Stacked Effect?</th>
+        <th colspan=3>Attack Advantage?</th>
+        <th colspan=3>Stacked Effect?</th>
         <th></th>
     </tr>
     <tr>
-        <th>Attack element vs enemy</th>
-        <th>Attacker Element vs attack element</th>
+        <th>Attack Element vs Enemy</th>
         <th>Type</th>
         <th>Amount</th>
+        <th>Attacker Element vs Attack Element</th>        
         <th>Type</th>
         <th>Amount</th>
         <th>Net Advantage</th>
     </tr>
     <tr>
         <td>Strong</td>
-        <td>Same as attack</td>
         <td>Advantage</td>
         <td>+30%</td>
+        <td>Same as attack</td>
         <td>Positive</td>
         <td>+30%</td>
         <td>+60%</td>
     </tr>
     <tr>
         <td>Strong</td>
-        <td>Weak to attack</td>
         <td>Advantage</td>
         <td>+30%</td>
+        <td>Weak to attack</td>
         <td>Negative</td>
         <td>-20%</td>
         <td>+10%</td>
     </tr>
     <tr>
         <td>Strong</td>
-        <td>Other</td>
         <td>Advantage</td>
         <td>+30%</td>
+        <td>Other</td>
         <td>None</td>
         <td>0%</td>
         <td>+30%</td>
     </tr>
     <tr>
         <td>Weak</td>
-        <td>Any</td>
         <td>Disadvantage</td>
         <td>-30%</td>
+        <td>Any</td>
         <td>None</td>
         <td>0%</td>
         <td>0%</td>
     </tr>
     <tr>
         <td>Neutral</td>
-        <td>Any</td>
         <td>None</td>
         <td>0%</td>
+        <td>Any</td>
         <td>None</td>
         <td>0%</td>
         <td>0%</td>
