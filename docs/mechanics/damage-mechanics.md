@@ -126,7 +126,7 @@ This is also laid out in the table below that specifies when a particular attack
 | Light | Dark | Light (self) | Fire, Water, Wind, Earth |
 | Dark | Light | Dark (self) | Fire, Water, Wind, Earth |
 
-
+The following table summarizes the attack advantage/disadvantage stacking.
 
 
 
