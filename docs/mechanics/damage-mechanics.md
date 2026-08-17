@@ -117,6 +117,8 @@ The following graphic shows the advantage and disadvantage relationships between
 
 This is also laid out in the table below that specifies when a particular attacking element  attacks with advantage or disadvantage.
 
+<div class="nosort-table nofilter-table>
+
 | Attacker | Advantage<br>over | Disadvantage<br>to | Neutral<br>versus |
 |:---:|:---:|:---:|:----|
 | Fire | Wind | Water | Fire (self), Earth Light, Dark |
@@ -125,6 +127,8 @@ This is also laid out in the table below that specifies when a particular attack
 | Earth | Water | Wind | Earth (self), Fire, Light, Dark |
 | Light | Dark | Light (self) | Fire, Water, Wind, Earth |
 | Dark | Light | Dark (self) | Fire, Water, Wind, Earth |
+
+</div>
 
 The following table summarizes the attack advantage/disadvantage stacking.
 
