@@ -201,9 +201,31 @@
 ??? map "Goblin's Abode"
     ![](./img/goblins-abode.jpg)
 
-## Notorious Monsters
+## Enemies  
+- Enemies in the Castle to scale with player level/grade.  
+- A mix of traditional monsters include Goblins, Hobgoblins, Slimes, and Rabbits in rhe Entrance region.  Undead skeletons and specters also appear inside the castle.  
+- New enemies include Kindred Demons and Tonberry.  
+    - Kindred Demons:  
+        - Considered a different race than traditional Demons, they are not affected by regular demon-slayer weapons or demon-resistant armor.  They are all dark-type and respond as expected to dark and light type attacks and allies. See Type Advantage, Disadvantage, and Armor Modifiers.  
+        - There are several classes and varieties of Kindred demons.  The stronger types have glowing purple chests. Additionally the Warlocks carry staves while the others carry weapons.  
+        - Among the Kindred Demons there are special minibosses called [Notorious Monsters](#notorious-monsters) that appear as non moving demons in the dungeon.  
+    - Tonberry:
+        - Tonberrys are small, light-type green creatures in robes carrying a knife and lantern.  
+        - They can appear alone, in groups of three, or with other regular monsters.  
+        - They have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack.
+        - They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x).  By the end of the event you should expect the counterattack to 1-shot kill any ally of any level.  
+        -  They will always drop some [Necropsyche (lantern) relic materials](#relic-equipment-and-materials).  
+        -  There is a Tonberry King that can be fought once certain conditions are met. (more info pending).  
+  
+### Notorious Monsters  
 
-### Potential Spawning Locations 
+- There are a number of unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
+- These Demons are much more powerful than the random wandering Kindred demons. They are individually named, and each has slightly different combat behaviors. (more details pending)  
+    - All of them have high speed, a large HP pool, can start the combat with multiple attacks, and can cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
+    - Some will be alone, others will start with several regular mobs, others can summon other monsters and entities throughout the fight.  
+- Defeated NMs always leave a chest and have a high chance of dropping [Attestation or Fragment relic materials](#relic-equipment-and-materials).  
+
+#### Potential Spawning Locations 
 
 === "Zone 1" 
 
@@ -262,7 +284,7 @@ The Harkens in the event can provide both the basic blessings and unique Event b
         ![](./img/ulmia-bondmate.jpg)  
         
         - Ulmia's Song of Prayer: Provides 8 Resistance at +5  
-        - The Bond Between Ulmia and Prishe: Also provides 8 extra ATK if put on Prishe at +5  
+        - The Bond Between Ulmia on Prishe: Also provides 8 extra ATK if put on Prishe at +5  
         
     ??? note "Tenzen, Samurai of the Far East"  
         
@@ -598,7 +620,7 @@ One notable thing is that while real players can fulfill your requests, there ar
     2. Attestations (papers) and Fragments (boxes): Specific to each relic item, these are needed to Reforge items to Ebonsteel and Silver ranks, respectively and to Remake silver-rank items. These items only drop from two sources: encounters with Notorious monsters (non-wandering demons with a random chance at occurring at set spawn points on Zones 1-5), and roaming packs of 8 demons that spawn in the farthest southern corners of the big rooms on Zone 5 (only appearing on second and subsequent dungeon resets). Depending on your junk/level/progress tier all of these encounters have a chance of dropping 4-5 of each item.  The NMs are named, and each has set spawn locations and types of items dropped.  See [NM location maps](#potential-spawning-locations) above.  
         - It has been noted that the 8-demon packs always spawn closest to the farthest southern corners of the big rooms. Additionally, while auto-walking you can bring up the map and all mobs stop moving (you can still run into them.) The west room has a generally mob-free straight path to the corner if you auto-walk from the floor entrance.  If you set an auto walk point to the corner, upon entering the floor you can immediately walk-to-check then bring up the map and you should walk there uninterrupted. Then on arrival you can quickly find and attack the closest mob, likely to be the 8-demon pack. Note this seems to also avoid aggro-ing as many other mobs on your way in. Doing both rooms with this method, the second room will likely have had mobs wandering decreasing effectiveness of the approach.  
         - Certain NMs only spawn once daily. Others have a chance to repsawn once each time you enter the dungeon, and each time you re-enter the floor that chance of them appearing re-rolls. So you can clear the general mobs from a floor, if no NM switch floors, go back to that floor and see if the demon has spawned. (If he hasn't another random mob will be there instead.) E.g., this can be done on Zone 1 by clearing the northeast room, stepping through the gate into Zone 2, stepping back into Zone 1, checking that NE room again for the demon, repeating until he appears, after defeating him leaving the dungeon, and then repeating the process.  Other floors provide similar farming opportunities, such as the big rooms on Zone 5. (more details pending)  
-    3. Necropsyche: lanterns carried by Tonberrys needed to Reforge items to silver rank and to Remake silver-rank items - Tonberrys randomly spawn throughout zones 2-5 as smaller enemies and can appear alone, with other random monsters, or as a group of three tonberries. Each battle will drop 4-5 necropsyche, no matter how many Tonberrys in the battle. Tonberrysare light-type and have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack. They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x). MONTINO/Voice Theft can prevent the counterattack, but MONTINO can be removed. They are susceptible to sleep and stun. Encountering one? Terminate with extreme prejudice.  Encountering three? Flee.  Just not worth it.  You're gonna need to kill a lot of these guys to get all relics up to Silver.
+    3. Necropsyche: lanterns carried by Tonberrys needed to Reforge items to silver rank and to Remake silver-rank items - Tonberrys randomly spawn throughout zones 2-5 as smaller enemies and can appear alone, with other random monsters, or as a group of three tonberries. Each battle will drop 4-5 Necropsyche, no matter how many Tonberrys in the battle. Tonberrys are light-type and have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack. They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x). MONTINO/Voice Theft can prevent the counterattack, but MONTINO can be removed. They are susceptible to sleep and stun. Encountering one? Terminate with extreme prejudice.  Encountering three? Flee.  Just not worth it.  You're gonna need to kill a lot of these guys to get all relics up to Silver.
     4. Ouroboros Ore: Special ore needed only for Remaking an item. Can be rarely obtained by [Mining for Ore (see above)](#mining-for-ore) in the castle. Also available in unlimited quantities in the Exchange Shop for 15,000 Gil (Each Remake requires 10 Ore, so 150,000 Gil each). If you're lucky with your enhancement rolls you may never need to Remake a Relic.  In the process of mining for other rare drops, you may get what you need.  But with the ease of farming Gil through the Trader, it may be easist to just plan to Exchange for whatever ore you need. 
   
 ### Chest / Junk Drops
