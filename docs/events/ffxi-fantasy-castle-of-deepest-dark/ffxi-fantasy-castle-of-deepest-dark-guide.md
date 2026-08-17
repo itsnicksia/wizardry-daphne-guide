@@ -37,8 +37,9 @@
         - The event has several new systems that unlock based on progression. On your first run it is **critical that you exit back to Northern Hollow every time you unlock a new Harken** as the cutscenes can be missed and require CW-ing to fix. 
         - Zone 3 - Goblin Blacksmith and Relic Weapons
             - Unlock the Zone 3 Harken. Go to any town that has a Jeweler.  
-            - Go to Jeweler > Exchange > Fantasy Castle of the Deepest Dark tab, which will now offer 7 relic weapons for 500 Gil each. Purchase all of them. 
-            - Return to Northern Hollow and watch the cutscene. Click on the new Blacksmithing icon for a cutscene with your new goblin blacksmith! 
+            - Go to Jeweler > Exchange > Fantasy Castle of the Deepest Dark tab, which will now offer 7 relic weapons for 1,000 Gil each. Purchase all of them. 
+            - Go to the event dungeon for a cutscene. This plays while you are on the floor selection screen. 
+            - Return to Northern Hollow and click on the Remote Blacksmith icon for a cutscene with your new goblin blacksmith! 
             - Now you have access to the Reforge and Remake options for the Relic Weapons. Dedicated section [here](#relic-weapopns). 
         -  Zone 4 - Mining 
             - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
