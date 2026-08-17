@@ -90,14 +90,113 @@ The final current skill that falls into this category is `Way of the Warrior`. L
 |      6      |                 |
 |      7      |                 |
 
-## Type Advantage Modifiers
-When you hit a type advantage on an enemy, you deal roughly 30% more damage (a modifier of 1.3). If you happen to be hitting a type advantage with an adventurer that shares its type with the weapon or spell, that advantage increases by an additional 25% (a modifier of ~1.6).
+## Type Advantage, Disadvantage, and Armor Modifiers
 
-For example, if you deal `200` damage against a neutral enemy with an Earth weapon, if that same enemy were Water type, you would be dealing `200 * 1.3 = 260` damage instead. If the adventurer that was hitting the weakness happened to also be an Earth type, you would instead be dealing `200 * 1.3 * 1.25 = 325` damage.
+Type (element) can have strong effects on increasing and decreasing damage inflicted in the game.
 
-### Element Type Chart
+### Attack Type Advantage/Disadvantage
+When your spell or element-type weapon attack has a type advantage against an enemy you deal 30% more damage (a multiplier of 1.3).  Conversely, a type disadvantage will deal 30% less damage (a multiplier of 0.7).  For example, if you deal `200` damage against a neutral enemy with an Earth spell, if that same enemy was Water type you would deal `200 * 1.3 = 260` damage instead.  If that same enemy was Air type, you would only deal `200 * 0.7 = 140` damage.  
+
+The same advantage/disadvantage modifiers apply when taking damage.  E.g., an Earth-type attack's damage will have a 1.3x multiplier against your Water-type ally, but a 0.7x multiplier  against your Air-type ally.
+
+Note that the "Type-Formation" skills (e.g. Fire Formation) mentioned previously provide similar type advantage effect, with the boost being ~10%.  
+
+### Type Advantage/Disadvantage Stacking
+
+An adventurer's own type match or mismatch can increase or reduce an advantaged attack. If the advantaged attack is delivered by an adventurer with the same advantaged type, that advantage increases by an additional 30% (total multiplier of 1.6). In the above example, an Earth-type caster of the Earth-spell would deal  `200 * 1.6 = 320` damage.
+
+If, however, the adventurer's type is disadvantaged _to the attack type_, the advantage is reduced by 20% to only 10% (total multiplier reduced to 1.1).  In the above example, a Water-type caster of the Earth spell would only deal  `200 * 1.1 = 220` damage.  
+
+There is no stacking with disadvantaged attacks.
+
+### Element Type Advantage Relationship
+
+The following graphic shows the advantage and disadvantage relationships between different types.  For material elements (air, earth, fire, and water) each type has an advantage over one other type (red arrow) and a disadvantage over another (blue arrow).  The light and dark types are different, as they have advantage over the opposite type but disadvateagd to themselves.
 
 ![Element Chart](./img/element-chart.png)
+
+This is also laid out in the table below that specifies when a particular attacking element  attacks with advantage or disadvantage.
+
+<div class="nosort-table nofilter-table" markdown>  
+
+| Attacker | Advantage<br>over | Disadvantage<br>to | Neutral<br>versus               |
+|:--------:|:-----------------:|:------------------:|:--------------------------------|
+| Fire     | Wind              | Water              | Fire (self), Earth Light, Dark  |
+| Water    | Fire              | Earth              | Water (self), Wind, Light, Dark |
+| Wind     | Earth             | Fire               | Wind (self), Water, Light, Dark |
+| Earth    | Water             | Wind               | Earth (self), Fire, Light, Dark |
+| Light    | Dark              | Light (self)       | Fire, Water, Wind, Earth        |
+| Dark     | Light             | Dark (self)        | Fire, Water, Wind, Earth        |
+
+</div>
+
+The following table summarizes attack advantage/disadvantage and stacking.
+
+<div class="nosort-table nofilter-table">
+
+<table style="text-align: center;">
+    <tr>
+        <th colspan=3>Attack Advantage?</th>
+        <th colspan=3>Stacked Effect?</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Attack Element vs Enemy</th>
+        <th>Type</th>
+        <th>Amount</th>
+        <th>Attacker Element vs Attack Element</th>        
+        <th>Type</th>
+        <th>Amount</th>
+        <th>NET ADVANTAGE</th>
+    </tr>
+    <tr>
+        <td>Strong</td>
+        <td>Advantage</td>
+        <td>+30%</td>
+        <td>Same as attack</td>
+        <td>Positive</td>
+        <td>+30%</td>
+        <td>+60%</td>
+    </tr>
+    <tr>
+        <td>Strong</td>
+        <td>Advantage</td>
+        <td>+30%</td>
+        <td>Weak to attack</td>
+        <td>Negative</td>
+        <td>-20%</td>
+        <td>+10%</td>
+    </tr>
+    <tr>
+        <td>Strong</td>
+        <td>Advantage</td>
+        <td>+30%</td>
+        <td>Other</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>+30%</td>
+    </tr>
+    <tr>
+        <td>Weak</td>
+        <td>Disadvantage</td>
+        <td>-30%</td>
+        <td>Any</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>0%</td>
+    </tr>
+    <tr>
+        <td>Neutral</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>Any</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>0%</td>
+    </tr>
+</table>
+
+</div>
 
 ## Status Affliction Modifiers
 There are two status afflictions that currently allow you to deal increased damage.
