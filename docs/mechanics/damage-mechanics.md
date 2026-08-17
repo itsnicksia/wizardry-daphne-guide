@@ -134,7 +134,7 @@ The following table summarizes attack advantage/disadvantage and stacking.
 
 <div class="nosort-table nofilter-table">
 
-<table>
+<table style="text-align: center;">
     <tr>
         <th colspan=2>Attack details</th>
         <th colspan=2>Advantage?</th>
