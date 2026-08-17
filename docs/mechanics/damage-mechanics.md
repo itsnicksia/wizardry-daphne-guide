@@ -147,7 +147,7 @@ The following table summarizes attack advantage/disadvantage and stacking.
         <th>Attacker Element vs Attack Element</th>        
         <th>Type</th>
         <th>Amount</th>
-        <th>Net Advantage</th>
+        <th>NET ADVANTAGE</th>
     </tr>
     <tr>
         <td>Strong</td>
