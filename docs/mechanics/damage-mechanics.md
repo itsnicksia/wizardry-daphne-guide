@@ -132,10 +132,82 @@ This is also laid out in the table below that specifies when a particular attack
 
 The following table summarizes the attack advantage/disadvantage stacking.
 
-
 <div class="nosort-table nofilter-table">
 
 
+<table>
+    <tr>
+        <th colspan=2>Attack details</th>
+        <th colspan=2>Advantage?</th>
+        <th colspan=2>Stacked Effect?</th>
+        <th></th>
+    </tr>
+    <tr>
+        <th>Attack element vs enemy</th>
+        <th>Attacker Element vs attack element</th>
+        <th>Type</th>
+        <th>Amount</th>
+        <th>Type</th>
+        <th>Amount</th>
+        <th>Net Advantage</th>
+    </tr>
+    <tr>
+        <td>Strong</td>
+        <td>Same as attack</td>
+        <td>Advantage</td>
+        <td>+30%</td>
+        <td>Positive</td>
+        <td>+30%</td>
+        <td>+60%</td>
+    </tr>
+    <tr>
+        <td>Strong</td>
+        <td>Weak to attack</td>
+        <td>Advantage</td>
+        <td>+30%</td>
+        <td>Negative</td>
+        <td>-20%</td>
+        <td>+10%</td>
+    </tr>
+    <tr>
+        <td>Strong</td>
+        <td>Other</td>
+        <td>Advantage</td>
+        <td>+30%</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>+30%</td>
+    </tr>
+    <tr>
+        <td>Weak</td>
+        <td>Any</td>
+        <td>Disadvantage</td>
+        <td>-30%</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>0%</td>
+    </tr>
+    <tr>
+        <td>Neutral</td>
+        <td>Any</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>None</td>
+        <td>0%</td>
+        <td>0%</td>
+    </tr>
+</table>
+
+
+
+| Attack details |  | Advantage? |  | Stacked Effect? |  |  |
+| Attack element vs enemy | Attacker Element vs attack element | Type | Amount | Type | Amount | Net Advantage |
+| ----------------------- | ---------------------------------- | ------------ | ------ | --------------- | ------ | ------------- |
+| Strong | Same as attack | Advantage | +30% | Positive | +30% | +60% |
+| Strong | Weak to attack | Advantage | +30% | Negative | -20% | +10% |
+| Strong | Other | Advantage | +30% | None | 0% | +30% |
+| Weak | Any | Disadvantage | -30% | None | 0% | 0% |
+| Neutral | Any | None | 0% | None | 0% | 0% |
 
 </div>
 
