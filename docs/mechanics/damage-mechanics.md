@@ -92,20 +92,20 @@ The final current skill that falls into this category is `Way of the Warrior`. L
 
 ## Type Advantage, Disadvantage, and Armor Modifiers
 
-Type (element) can have strong effects on increasing snd decreasing damage inflicted in the game.
+Type (element) can have strong effects on increasing and decreasing damage inflicted in the game.
 
 ### Attack Type Advantage/Disadvantage
-When you hit a type advantage on an enemy (with a spell or element type weapon), you deal 30% more damage (a modifier of 1.3).  Conversely, a type disadvantage will deal 30% less damage (a modifier of 0.7).  For example, if you deal `200` damage against a neutral enemy with an Earth spell, if that same enemy was Water type you would deal `200 * 1.3 = 260` damage instead.  If that same enemy was Air type, you would only deal `200 * 0.7 = 140` damage.  
+When your spell or element-type weapon attack has a type advantage against an enemy you deal 30% more damage (a modifier of 1.3).  Conversely, a type disadvantage will deal 30% less damage (a modifier of 0.7).  For example, if you deal `200` damage against a neutral enemy with an Earth spell, if that same enemy was Water type you would deal `200 * 1.3 = 260` damage instead.  If that same enemy was Air type, you would only deal `200 * 0.7 = 140` damage.  
 
-The same advantage/disadvantage damage modifiers apply when taking damage.  If an Earth-type attack is made against your Water-type ally, the damage taken will be multiplied by 1.3.  
+The same advantage/disadvantage modifiers apply when taking damage.  E.g., an Earth-type attack's damage will have a 1.3x multiplier against your Water-type ally, but a 0.7x multiplier  against your Air-type ally.
 
-Note that "Type-Formation" skills (e.g. Fire Formation) provide similar advantage effect, with the boost being ~10%.  
+Note that the "Type-Formation" skills (e.g. Fire Formation) mentioned previously provide similar type advantage effect, with the boost being ~10%.  
 
 ### Type Advantage/Disadvantage Stacking
 
-An adventurer's own type match or mismatch can increase or reduce an advantaged attack. If the advantaged attack is delivered by an adventurer with the same advantaged type, that advantage increases by an additional 30% (total multiplier of 1.6). In the above example, if the caster was also earth type you would now deal  `200 * 1.6 = 320` damage.
+An adventurer's own type match or mismatch can increase or reduce an advantaged attack. If the advantaged attack is delivered by an adventurer with the same advantaged type, that advantage increases by an additional 30% (total multiplier of 1.6). In the above example, an Earth-type caster of the Earth-spell would deal  `200 * 1.6 = 320` damage.
 
-If, however, the adventurer's type is disadvantaged _to the attack type_, the advantage is reduced by 20% to only 10% (total multiplier reduced to 1.1).  In the above example, if the caster of the earth spell was water type you only deal  `200 * 1.1 = 220` damage.  
+If, however, the adventurer's type is disadvantaged _to the attack type_, the advantage is reduced by 20% to only 10% (total multiplier reduced to 1.1).  In the above example, a Water-type caster of the Earth spell would only deal  `200 * 1.1 = 220` damage.  
 
 There is no stacking with disadvantaged attacks.
 
