@@ -95,7 +95,7 @@ The final current skill that falls into this category is `Way of the Warrior`. L
 Type (element) can have strong effects on increasing and decreasing damage inflicted in the game.
 
 ### Attack Type Advantage/Disadvantage
-When your spell or element-type weapon attack has a type advantage against an enemy you deal 30% more damage (a modifier of 1.3).  Conversely, a type disadvantage will deal 30% less damage (a modifier of 0.7).  For example, if you deal `200` damage against a neutral enemy with an Earth spell, if that same enemy was Water type you would deal `200 * 1.3 = 260` damage instead.  If that same enemy was Air type, you would only deal `200 * 0.7 = 140` damage.  
+When your spell or element-type weapon attack has a type advantage against an enemy you deal 30% more damage (a multiplier of 1.3).  Conversely, a type disadvantage will deal 30% less damage (a multiplier of 0.7).  For example, if you deal `200` damage against a neutral enemy with an Earth spell, if that same enemy was Water type you would deal `200 * 1.3 = 260` damage instead.  If that same enemy was Air type, you would only deal `200 * 0.7 = 140` damage.  
 
 The same advantage/disadvantage modifiers apply when taking damage.  E.g., an Earth-type attack's damage will have a 1.3x multiplier against your Water-type ally, but a 0.7x multiplier  against your Air-type ally.
 
@@ -130,7 +130,7 @@ This is also laid out in the table below that specifies when a particular attack
 
 </div>
 
-The following table summarizes the attack advantage/disadvantage stacking.
+The following table summarizes attack advantage/disadvantage and stacking.
 
 <div class="nosort-table nofilter-table">
 
