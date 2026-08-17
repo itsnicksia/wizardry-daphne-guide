@@ -117,7 +117,7 @@ The following graphic shows the advantage and disadvantage relationships between
 
 This is also laid out in the table below that specifies when a particular attacking element  attacks with advantage or disadvantage.
 
-<div class="nosort-table nofilter-table>
+<div class="nosort-table nofilter-table">
 
 | Attacker | Advantage<br>over | Disadvantage<br>to | Neutral<br>versus |
 |:---:|:---:|:---:|:----|
@@ -133,6 +133,11 @@ This is also laid out in the table below that specifies when a particular attack
 The following table summarizes the attack advantage/disadvantage stacking.
 
 
+<div class="nosort-table nofilter-table">
+
+
+
+</div>
 
 ## Status Affliction Modifiers
 There are two status afflictions that currently allow you to deal increased damage.
