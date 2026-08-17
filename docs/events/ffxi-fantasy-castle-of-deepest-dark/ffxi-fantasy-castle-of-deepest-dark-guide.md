@@ -45,7 +45,7 @@
             - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
             - In the Item shop you can now purchase a consumable item called the Northcleft Pickaxe. Northern Hollow is the only location in the game where these can be purchased. 
             - The Jeweler will now exchange 500 Gil for 1 Gold Northcleft Pickaxe. The gold version triples (3x) anything that you mine. As of the 8/13 update they also work on the event dispatches. 
-            - Mining nodes are scattered across each floor. Both types of pickaxes have a 50% chance to break per swing. 
+            - Mining nodes are scattered across each floor. Both types of pickaxes have a 50% chance to break per swing. Based on community data the long-term average is 2 swings per pickaxe. 
         - Zone 6 - Trading 
             - The Zone 6 Harken is right before the final event boss. 
             - Return to Northern Hollow and go to the Tavern. The Trader will give you a brief tutorial on how the process works. 
