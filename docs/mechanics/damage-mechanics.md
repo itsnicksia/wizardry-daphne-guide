@@ -117,16 +117,16 @@ The following graphic shows the advantage and disadvantage relationships between
 
 This is also laid out in the table below that specifies when a particular attacking element  attacks with advantage or disadvantage.
 
-<div class="nosort-table nofilter-table">
+<div class="nosort-table nofilter-table" markdown>  
 
-| Attacker | Advantage<br>over | Disadvantage<br>to | Neutral<br>versus |
-|:---:|:---:|:---:|:----|
-| Fire | Wind | Water | Fire (self), Earth Light, Dark |
-| Water | Fire | Earth | Water (self), Wind, Light, Dark |
-| Wind | Earth | Fire | Wind (self), Water, Light, Dark |
-| Earth | Water | Wind | Earth (self), Fire, Light, Dark |
-| Light | Dark | Light (self) | Fire, Water, Wind, Earth |
-| Dark | Light | Dark (self) | Fire, Water, Wind, Earth |
+| Attacker | Advantage<br>over | Disadvantage<br>to | Neutral<br>versus               |
+|:--------:|:-----------------:|:------------------:|:--------------------------------|
+| Fire     | Wind              | Water              | Fire (self), Earth Light, Dark  |
+| Water    | Fire              | Earth              | Water (self), Wind, Light, Dark |
+| Wind     | Earth             | Fire               | Wind (self), Water, Light, Dark |
+| Earth    | Water             | Wind               | Earth (self), Fire, Light, Dark |
+| Light    | Dark              | Light (self)       | Fire, Water, Wind, Earth        |
+| Dark     | Light             | Dark (self)        | Fire, Water, Wind, Earth        |
 
 </div>
 
