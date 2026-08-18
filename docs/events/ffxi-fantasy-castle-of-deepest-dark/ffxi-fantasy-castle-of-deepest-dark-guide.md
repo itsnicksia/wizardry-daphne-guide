@@ -270,7 +270,7 @@ Mission categories:
 
 !!! warning "Hidden mission preventing last reward completion"  
 
-    If you have completed the entire event and are 20 points short of being able to clear the missions, check if "Defeat Ulmia" listed. Most people do not.  
+    If you have completed the entire event and are 20 points short of being able to clear the missions, check if you have "Defeat Ulmia" listed. Most people do not.  
     
     It's unclear if this is by design or a bugged encounter, but the Ulmia fight is a gimmick fight that often ends without you actually defeating (killing) her. You Dan progress through the full story without this mission being "completed".  
     
