@@ -272,9 +272,11 @@ Mission categories:
 
     If you have completed the entire event and are 20 points short of being able to clear the missions, check if you have "Defeat Ulmia" listed. Most people do not.  
     
-    It's unclear if this is by design or a bugged encounter, but the Ulmia fight is a gimmick fight that often ends without you actually defeating (killing) her. You Dan progress through the full story without this mission being "completed".  
+    It's unclear if this is by design or a bugged encounter, but the Ulmia fight is a gimmick fight that often ends without you actually defeating (killing) her. You can successfully complete the full story without this mission being "completed".  
     
-    During the fight, it appears that the demons keep healing her.  In actuality you need to continue doing enough damage to her (10-20k for endgamers) while they heal her. Don't kill the demons too soon. Then you can kill all of the other monsters and she will actually die rather than ending the fight by playing music.  
+    During the fight, it appears that the demons keep healing her.  In actuality you need to continue doing enough damage to her (10-20k for endgamers) while they heal her. Don't kill the demons too soon. Then after doing enough damage you can kill all of the monsters then her and she will actually die rather than ending the fight by playing music.  
+
+    This should mark the mission as complete letting you reach 600 points.  
 
 ## Harken's Blessings
 Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
