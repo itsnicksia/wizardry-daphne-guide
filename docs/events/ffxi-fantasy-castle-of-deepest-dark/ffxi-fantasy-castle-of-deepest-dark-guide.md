@@ -165,7 +165,7 @@
 ??? note "3rd Run" 
 
     1. Cursed wheel again to the point where you can talk to Cait Sith at the Zone 1 castle entrance.  
-    2. Leave through the Harken and come back to talk to Cait Sith again. You'll learn that this time you need to find six ~~FFXI expansion advertisements~~ Crystals this time instead of three.  
+    2. Leave through the Harken and come back to talk to Cait Sith again. You'll learn that this time you need to find six ~~FFXI expansion advertisements~~ Crystals instead of three.  
     3. Continue through the request as normal.  (Meet and feed Prishe in Zone 2.)  
     4. There are crystals randomly located in both Zones 2 and 3 before Zeid now.  Get both of them before doing the Gorgon puzzle.  
     5. Continue through the request as before. (Hold up the Crystal like a sword, defeat Lion).  
