@@ -57,6 +57,7 @@
         - There are a total of 3 special dispatches that can be accepted in the Royal Capital. They are blue-colored and near the center of the dispatch list, so they are easy to miss if you are scrolling quickly. 
         - The dispatches are tied to having the Harkens unlocked on Zone 2, 3, and 5. The 8/13 patch fixed Harken's reverting back to being unlocked if you CW. If a dispatch disappears, you will have to manually go back to each floor and restore the Harken again. 
 
+
 ## Guide 
 
 ??? note "1st Run"
@@ -216,8 +217,8 @@
         - They can appear alone, in groups of three, or with other regular monsters.  
         - They have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack.
         - They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x).  By the end of the event you should expect the counterattack to 1-shot kill any ally of any level.  
-        -  They will always drop some [Necropsyche (lantern) relic materials](#relic-equipment-and-materials).  
-        -  There is a Tonberry King that can be fought once certain conditions are met. (more info pending).  
+        - They will always drop some [Necropsyche (lantern) relic materials](#relic-equipment-and-materials).  
+        - There is a Tonberry King that can be fought once certain conditions are met. (more info pending).  
   
 ### Notorious Monsters  
 
@@ -249,8 +250,30 @@
 
     ![](./img/Zone 5 - NM.png)
 
-## Harken's Blessings  
-The Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
+## Event Missions
+Just like most other events there is a special mission set that let's you earn points and rewards. There are a total of 600 points to earn to receive all rewards.  
+
+Rewards: Base rewards include 3 Moldy Scrolls (equivalent to Adventurers remains) and event currency (Gil). Buying thr Mission unlocks an additional "purple" Moldy Scrolls, Green Gems, some SP and MP elixirs, gold, and more Gil.  The mission pass also gives you extra mission points so you can get all rewards without completing every mission.  
+
+Unlike other events, most missions in this event start "hidden" as ??? to avoid spoiling many of the gradually revealed plots and features. Some are also secret, completely missing from the list until the requirements are completed.  
+
+Without going into every mission, general mission categories include:  
+- Reaching new floors of rhe castle  
+- Defeating mini and final bosses
+- Defeating unique event monsters, sometimes using special event items
+- Collecting and upgrading Relic items  
+- Completing procurement requests and delivery support at the Trader  
+- Mining for gems and ore in the castle
+- Typical battles, chests, dispatches, right hand usage counts
+
+### Not Enough Points - Defeating Ulmia
+
+!!! warning "Hidden mission preventing last reward completion"
+    One of the mini boss battles involves Defeating Ulmia.  If you have completed the entire event and appear to be 20 points short of being able to clear the event, check to see if you have "Defeat Ulmia" listed. Most people do not.  It's unclear if this is by design or a bugged encounter, but the Ulmia fight is a gimmick fight that often ends without you actually defeating (killing) her.   
+    During the fight, it appears that the demons keep healing her.  In actuality you need to continue doing enough damage to her (10-20k for endgamers) while they heal her. Don't kill the demons too soon. Then you can kill all of the other monsters and she will actually die rather than ending the fight by playing music.  
+
+## Harken's Blessings
+Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
 
 | Name                        | Description                                                                                                                             |  
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|  
