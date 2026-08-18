@@ -253,11 +253,11 @@
 ## Event Missions
 Just like most other events there is a special mission set that let's you earn points and rewards. There are a total of 600 points to earn to receive all rewards.  
 
-Rewards: Base rewards include 3 Moldy Scrolls (equivalent to Adventurers remains) and event currency (Gil). Buying thr Mission unlocks an additional "purple" Moldy Scrolls, Green Gems, some SP and MP elixirs, gold, and more Gil.  The mission pass also gives you extra mission points so you can get all rewards without completing every mission.  
-
 Unlike other events, most missions in this event start "hidden" as ??? to avoid spoiling many of the gradually revealed plots and features. Some are also secret, completely missing from the list until the requirements are completed.  
 
-Without going into every mission, general mission categories include:  
+Rewards: Base rewards include 3 Moldy Scrolls (equivalent to Adventurers remains) and event currency (Gil). Buying thr Mission unlocks an additional "purple" Moldy Scrolls, Green Gems, some SP and MP elixirs, gold, and more Gil.  The mission pass also gives you extra mission points so you can get all rewards without completing every mission.  
+
+Mssion categories include:  
 - Reaching new floors of rhe castle  
 - Defeating mini and final bosses
 - Defeating unique event monsters, sometimes using special event items
