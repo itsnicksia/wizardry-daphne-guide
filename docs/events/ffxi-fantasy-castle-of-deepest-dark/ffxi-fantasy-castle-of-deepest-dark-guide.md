@@ -251,13 +251,13 @@
     ![](./img/Zone 5 - NM.png)
 
 ## Event Missions.  
-Just like most other events there is a special mission set that let's you earn points and rewards. There are a total of 600 points to earn to receive all rewards.  
+Just like most other events special missions let you earn points and rewards. It takes 600 points for a full mission clear.  
 
-Unlike other events, most missions in this event start "hidden" as ??? to avoid spoiling many of the gradually revealed plots and features. Some are also secret, completely missing from the list until the requirements are completed.  
+Unlike other events, most missions in this event start "hidden" as ??? or are even completely missing from the list to avoid spoiling the gradually revealed event plot and features. The "secret" missions don't appear in the list until the requirements are completed.  
 
 Rewards: Base rewards include 3 Moldy Scrolls (equivalent to Adventurers remains) and event currency (Gil). Buying the Mission unlocks additional "purple" Moldy Scrolls, Green Gems, SP and MP elixirs, gold, and more Gil.  The mission pass also gives you extra mission points so you can get all rewards without completing every mission.  
 
-Mssion categories include:  
+Mission categories:  
 - Reaching new floors of rhe castle  
 - Defeating mini and final bosses
 - Defeating unique event monsters, sometimes using special event items
@@ -266,10 +266,14 @@ Mssion categories include:
 - Mining for gems and ore in the castle
 - Typical battles, chests, dispatches, right hand usage counts
 
-### Not Enough Points - Defeating Ulmia
+### Not Enough Points - Defeating Ulmia  
 
-!!! warning "Hidden mission preventing last reward completion". 
-    One of the mini boss battles involves Defeating Ulmia.  If you have completed the entire event and appear to be 20 points short of being able to clear the event, check to see if you have "Defeat Ulmia" listed. Most people do not.  It's unclear if this is by design or a bugged encounter, but the Ulmia fight is a gimmick fight that often ends without you actually defeating (killing) her.   
+!!! warning "Hidden mission preventing last reward completion"  
+
+    If you have completed the entire event and are 20 points short of being able to clear the missions, check if "Defeat Ulmia" listed. Most people do not.  
+    
+    It's unclear if this is by design or a bugged encounter, but the Ulmia fight is a gimmick fight that often ends without you actually defeating (killing) her. You Dan progress through the full story without this mission being "completed".  
+    
     During the fight, it appears that the demons keep healing her.  In actuality you need to continue doing enough damage to her (10-20k for endgamers) while they heal her. Don't kill the demons too soon. Then you can kill all of the other monsters and she will actually die rather than ending the fight by playing music.  
 
 ## Harken's Blessings
