@@ -181,4 +181,4 @@ Use the Cursed Wheel to reset the request after completion and then complete the
 
     ![](img/sword-of-the-forsaken-eagle.png)
 
-    - This silver tier sword is guaranteed to be a 3 Star Blue Rarity drop at 2/3 Strength Level
+    - This silver tier 1H sword with the Magical Beast-Slayer trait is guaranteed to be a 3 Star Blue Rarity drop at 2/3 Strength Level with randomized blessings.
