@@ -182,11 +182,15 @@
     - Behind the brothers on the altar there is a Bracelet of Hatred that an be farmed. Color and stars are random but can appear up to 5 star purple.  
     
     ??? map "Bracelet of Hatred detail and location"  
-        ![](./img/ffxi-bracelet-altar-1.jpg)  
-        ![](./img/ffxi-bracelet-altar-2.jpg)  
-        ![](./img/ffxi-bracelet-altar-3.jpg)  
-        ![](./img/ffxi-bracelet-altar-4.jpg)    
-        ![](./img/ffxi-bracelet-altar-5.jpg)  
+
+        === "Location"  
+            ![](./img/ffxi-bracelet-altar-1.jpg)   
+            ![](./img/ffxi-bracelet-altar-2.jpg)  
+        
+        === "Bracelet Details"  
+            ![](./img/ffxi-bracelet-altar-3.jpg)  
+            ![](./img/ffxi-bracelet-altar-4.jpg)    
+            ![](./img/ffxi-bracelet-altar-5.jpg)  
     
 ## Maps
 
