@@ -186,9 +186,9 @@
         === "Location"  
             ![](./img/ffxi-bracelet-altar-1.jpg)   
             ![](./img/ffxi-bracelet-altar-2.jpg)  
-        
+            ![](./img/ffxi-bracelet-altar-3.jpg)    
+            
         === "Bracelet Details"  
-            ![](./img/ffxi-bracelet-altar-3.jpg)  
             ![](./img/ffxi-bracelet-altar-4.jpg)    
             ![](./img/ffxi-bracelet-altar-5.jpg)  
     
