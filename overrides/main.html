@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <link rel="search" type="application/opensearchdescription+xml" title="WVD Community Guide" href="{{ 'opensearch.xml' | url }}">
+{% endblock %}
