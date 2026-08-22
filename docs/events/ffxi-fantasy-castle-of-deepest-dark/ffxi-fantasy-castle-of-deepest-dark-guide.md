@@ -175,23 +175,25 @@
     8. Meet and beat up Tenzen in zone 6.  
     9. Go to zone 7, confront the Arch Shadow Lord.  Same general fight, this time he'll cast a second implosion so avoid letting HP get too low especially for the MC.  
     10. You win.  
+    11. Completing the 3rd run with all crystals and having saved all three friends will reward you with [the same bondmates as before plus Cait Sith as an additional bondmate](#bondmates).  
 
-    Rewards:  
-    
-    - Completing the request with all six crystals and having saved all three friends will reward you with [the same bondmates as before plus Cait Sith as an additional bondmate](#bondmates).  
-    - Behind the brothers on the altar there is a Bracelet of Hatred that an be farmed. Color and stars are random but can appear up to 5 star purple.  
-    
-    ??? map "Bracelet of Hatred detail and location"  
+## Rewards
 
-        === "Location"  
-            ![](./img/ffxi-bracelet-altar-1.jpg)   
-            ![](./img/ffxi-bracelet-altar-2.jpg)  
-        
-        === "Bracelet Details"  
-            ![](./img/ffxi-bracelet-altar-3.jpg)  
-            ![](./img/ffxi-bracelet-altar-4.jpg)    
-            ![](./img/ffxi-bracelet-altar-5.jpg)  
+- Completing the 2nd and 3rd runs with all crystals and having saved all three friends will reward you with [bondmates](#bondmates).  
+- Behind the brothers on the altar there is a Bracelet of Hatred that can be farmed. This particular bracelet if fixed 3\* Blue, unlike those from random chest drops that can appear up to 5 star purple.  
     
+??? map "Bracelet of Hatred detail and location"  
+
+    === "Location"  
+        ![](./img/ffxi-bracelet-altar-1.jpg)   
+        ![](./img/ffxi-bracelet-altar-2.jpg)  
+        ![](./img/ffxi-bracelet-altar-3.jpg)    
+            
+    === "Bracelet Details"  
+        ![](./img/ffxi-bracelet-altar-4.jpg)    
+        ![](./img/ffxi-bracelet-altar-5.jpg)  
+    
+
 ## Maps
 
 ??? map "Zone 1"
