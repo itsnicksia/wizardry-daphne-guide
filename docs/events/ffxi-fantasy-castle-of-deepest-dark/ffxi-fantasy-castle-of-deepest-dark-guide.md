@@ -179,7 +179,7 @@
     Rewards:  
     
     - Completing the request with all six crystals and having saved all three friends will reward you with [the same bondmates as before plus Cait Sith as an additional bondmate](#bondmates).  
-    - Behind the brothers on the altar there is a Bracelet of Hatred that an be farmed. Color and stars are random but can appear up to 5 star purple.  
+    - Behind the brothers on the altar there is a Bracelet of Hatred that an be farmed. This particular bracelet if fixed 3\* Blue, unlike those from random chest drops that can appear up to 5 star purple.  
     
     ??? map "Bracelet of Hatred detail and location"  
 
