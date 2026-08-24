@@ -32,7 +32,7 @@
 
 === "Event Unlock Triggers"
 
-    === "Systems" 
+    === "Relics, Mining, Trading Systems" 
     
         - The event has several new systems that unlock based on progression. On your first run it is **critical that you exit back to Northern Hollow every time you unlock a new Harken** as the cutscenes can be missed and require CW-ing to fix. 
         - Zone 3 - Goblin Blacksmith and Relic Weapons
@@ -47,16 +47,17 @@
             - In the Item shop you can now purchase a consumable item called the Northcleft Pickaxe. Northern Hollow is the only location in the game where these can be purchased. 
             - The Jeweler will now exchange 500 Gil for 1 Gold Northcleft Pickaxe. The gold version triples (3x) anything that you mine. As of the 8/13 update they also work on the event dispatches. 
             - Mining nodes are scattered across each floor. Both types of pickaxes have a 50% chance to break per swing. Based on community data the long-term average is 2 swings per pickaxe. 
-        - Zone 6 - Trading 
+        - Zone 5/6 - Trading 
             - The Zone 6 Harken is right before the final event boss. 
             - Return to Northern Hollow and go to the Tavern. The Trader will give you a brief tutorial on how the process works. 
             - Trading is the primary way of upgrading your Relic weapons. 
+            - (there are some reports on this unlocking after the Zone 5 Harken. To be sure just return at each Harken.)  
 
     === "Dispatches"
 
         - There are a total of 3 special dispatches that can be accepted in the Royal Capital. They are blue-colored and near the center of the dispatch list, so they are easy to miss if you are scrolling quickly. 
         - The dispatches are tied to having the Harkens unlocked on Zone 2, 3, and 5. The 8/13 patch fixed Harken's reverting back to being unlocked if you CW. If a dispatch disappears, you will have to manually go back to each floor and restore the Harken again. 
-
+        - If you complete the final run of the event the Castle disappears and so do the Dispatches, so you cannot be 'Redispatch'.  To keep all the Dispatches available it's best to CW back to the second to last node.  
 
 ## Guide 
 
