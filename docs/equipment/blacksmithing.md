@@ -421,18 +421,18 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
     ![](img/fas-subject-2.jpg)
 
 #### Suggested FAS usage  
-    - Using a L/FAS is a RNG gamble on whether or not they will improve your item. Blessing Types could be perfect or useless for the item/intended character. The rerolls could all be at the lowest or highest in the available range. As always, gamble at your own risk.  
-    - It is highly suggested that FAS are saved only for your highest rarity items, for example certain extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
-    - Alternatively, a L/FAS can give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).  
-    - Much reroll risk is eliminated when used on items with unlocked Fixed Blessing Types:  
-        - Master Fighter Ring (or Thief, Mage, Knight / etc.). Relic Items from the Final Fantasy XI (FFXI) Event, Battlefront Arena Heavy Warblade of Honor (first two blessing slots), all have fixed blessing types with inital blessing values.  
-        - L/FAS use on these items has no risk of rolling bad blessing *types*, and just rerolling blessing values.  
-        - The re-roll is still RNG and can roll low.  
-        - An LFAS can be used to reroll low initial or milestone blessing rolls, potentially saving a low roll item.  
-        - A FAS always adds an extra blessing to each unlocked slot, so it will almost always provide some level of improvement.  
-        - You can L/FAS before or after enhancement. The totals achieveable are never decreased by this choice.  
-        - If you're willing to commit multiple FAS to maximize your blessings, the statistics of whether rerolling all stats with FAS after enhancement, or maximizing FAS first and then applying Milestone blessings separately is left as an exercise for the student.  
-        - If something like the FFXI Relic Item Remake option is available, and you have infinite resources available, your best statistical control is given by multiple FAS first then enhance/Remake/re-enhance.  It is unclear if this system will be applied to more item types in the future.  
+- Using a L/FAS is a RNG gamble on whether or not they will improve your item. Blessing Types could be perfect or useless for the item/intended character. The rerolls could all be at the lowest or highest in the available range. As always, gamble at your own risk.  
+- It is highly suggested that FAS are saved only for your highest rarity items, for example certain extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
+- Alternatively, a L/FAS can give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).  
+- Much reroll risk is eliminated when used on items with unlocked Fixed Blessing Types:  
+    - Master Fighter Ring (or Thief, Mage, Knight / etc.). Relic Items from the Final Fantasy XI (FFXI) Event, Battlefront Arena Heavy Warblade of Honor (first two blessing slots), all have fixed blessing types with inital blessing values.  
+    - L/FAS use on these items has no risk of rolling bad blessing *types*, and just rerolling blessing values.  
+    - The re-roll is still RNG and can roll low.  
+    - An LFAS can be used to reroll low initial or milestone blessing rolls, potentially saving a low roll item.  
+    - A FAS always adds an extra blessing to each unlocked slot, so it will almost always provide some level of improvement.  
+    - You can L/FAS before or after enhancement. The totals achieveable are never decreased by this choice.  
+    - If you're willing to commit multiple FAS to maximize your blessings, the statistics of whether rerolling all stats with FAS after enhancement, or maximizing FAS first and then applying Milestone blessings separately is left as an exercise for the student.  
+    - If something like the FFXI Relic Item Remake option is available, and you have infinite resources available, your best statistical control is given by multiple FAS first then enhance/Remake/re-enhance.  It is unclear if this system will be applied to more item types in the future.  
 
 ## Composite Reinforcement  
 
