@@ -13,4 +13,8 @@
     {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Inheritable Skill','Alternate Inheritable Skill','Potential Inherit']) | convert_to_md_table | add_indentation(spaces=4) }}
 
 === "Remains"
-    {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Unique Bone Name','Original Release Date','Alternate Unique Bone Name','Alternate Release Date']) | convert_to_md_table | add_indentation(spaces=4) }}
+    {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Unique Bone Name','Alternate Unique Bone Name']) | convert_to_md_table | add_indentation(spaces=4) }}
+
+=== "Release Date"
+    {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Original Release Date','Alternate Release Date']) | convert_to_md_table | add_indentation(spaces=4) }}
+
