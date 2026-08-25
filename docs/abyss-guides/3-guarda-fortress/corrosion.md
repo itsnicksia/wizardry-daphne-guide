@@ -388,7 +388,7 @@
             - Push the southern golem to the left > "Not Spotted" flag triggered
             - The golem only partially blocks the corrosion sentry's field of view and you can still be "Spotted"
             - To register defeat the Necrocore boss (Secret Path Keeper Vanquished) located at the end of Zone 3
-            - To exit use the the Zone 3 Harken 
+            - To exit use the Zone 3 Harken 
 
             Notes
             
