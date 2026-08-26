@@ -120,7 +120,7 @@
   "Dark Knight of Bastok","Abhorrent One of Tavnazia","Priestess of the Far East"]%}
         {{ populate_quicklist(filter_values=[chardata['Primary Class']], filter_column='Class', file='unique-class-skills.csv', return_columns=['Name','Level']) | complete_unique_skills_list | sort_mixed_values(sortcol="Level") | linkify_quicklist_skillnames(page.file.src_uri)| convert_to_md_table | add_indentation(spaces=8) }} 
 {% else %}
-        {{ populate_quicklist(filter_values=[chardata['Primary Class']], filter_column='Class', file='skills.csv', return_columns=['Level','Name','Type','Restriction']) | sort_mixed_values(sortcol="Level") | mage_element_trim(chardata['Primary Class'], chardata['Type']) | linkify_quicklist_skillnames(page.file.src_uri) | convert_to_md_table | add_indentation(spaces=8) }}
+        {{ populate_quicklist(filter_values=[chardata['Primary Class']], filter_column='Class', file='skills.csv', return_columns=['Level','Name','Type','Restriction']) | mage_element_trim(chardata['Primary Class'], chardata['Type']) | sort_mixed_values(sortcol="Level") | linkify_quicklist_skillnames(page.file.src_uri) | convert_to_md_table | add_indentation(spaces=8) }}
 {% endif %}
 
 
@@ -132,7 +132,7 @@
   "Dark Knight of Bastok","Abhorrent One of Tavnazia","Priestess of the Far East"]%}
         {{ populate_quicklist(filter_values=[chardata['Secondary Class']], filter_column='Class', file='unique-class-skills.csv', return_columns=['Name','Level']) | complete_unique_skills_list | sort_mixed_values(sortcol="Level") | linkify_quicklist_skillnames(page.file.src_uri)| convert_to_md_table | add_indentation(spaces=8) }} 
 {% else %}
-        {{ populate_quicklist(filter_values=[chardata['Secondary Class']], filter_column='Class', file='skills.csv', return_columns=['Level','Name','Type','Restriction']) | sort_mixed_values(sortcol="Level") | mage_element_trim(chardata['Secondary Class'], chardata['Type']) | linkify_quicklist_skillnames(page.file.src_uri) | convert_to_md_table | add_indentation(spaces=8) }}
+        {{ populate_quicklist(filter_values=[chardata['Secondary Class']], filter_column='Class', file='skills.csv', return_columns=['Level','Name','Type','Restriction']) |  mage_element_trim(chardata['Secondary Class'], chardata['Type']) | sort_mixed_values(sortcol="Level") | linkify_quicklist_skillnames(page.file.src_uri) | convert_to_md_table | add_indentation(spaces=8) }}
 {% endif %}
 {% endif %}  
 
