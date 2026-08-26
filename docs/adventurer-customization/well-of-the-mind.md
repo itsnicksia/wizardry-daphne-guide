@@ -119,9 +119,9 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | | |
 | FIGHTER SKILL PROF | Reduces SP cost of Fighter Skills |
 | KNIGHT SKILL PROF | Reduces SP cost of Knight Skills |
-| MAGE SPELL PROF | Reduces the MP cost of mage spells |
+| MAGE SPELL PROF | Reduces the MP cost of Mage Spells |
 | NINJA SKILL PROF | Reduces SP cost of Ninja Skills |
-| PRIEST SPELL PROF | Reduces the MP cost of priest spells |
+| PRIEST SPELL PROF | Reduces the MP cost of Priest Spells |
 | THIEF SKILL PROF | Reduces SP cost of Thief Skills |
 | | |
 | OHWP | One-Handed Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a dagger, one-handed sword, or one-handed axe |
