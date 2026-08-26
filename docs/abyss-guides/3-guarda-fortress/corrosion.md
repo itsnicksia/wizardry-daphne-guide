@@ -496,7 +496,7 @@
 
             Notes
             
-            - To the south is corrosion sentry [3] that can be registered in the same run"
+            - To the south is corrosion sentry [3] that can be registered in the same run
 
         === "Boss: Necrocore"
      
@@ -552,7 +552,7 @@
             
         - Push the bottom (1) golem to the right to block the Corrosion Sentry's field of view
         - Push the top (2) golem up to block the sentry's field of view 
-        - Danger! There is a sentry (blue ★) directly north of the corrosion sentry"
+        - Danger! There is a sentry (blue ★) directly north of the corrosion sentry
 
     ??? warning "Cursed Wheel Registration"
 
@@ -688,7 +688,7 @@
 
             Notes
             
-            - Danger! There are 3 sentries in the large room with the corrosion sentry"
+            - Danger! There are 3 sentries in the large room with the corrosion sentry
             - Alternative Doll kill method: 
                 - Fighting the Doll boss again is not mandatory
                 - It can be crushed with a golem for a hidden achievement

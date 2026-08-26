@@ -36,14 +36,18 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Disarm Trap  | 2 | 1 |	
 | Evade Trap  | 2 | 1 |	
 | | | |
-| Status Tolerance (All types) | 30% | 3-5% |   
+| Trait Boost       | 2  | ?  |
 | | | |
-|1H Weapon Prof.          |+4ATK, +4ACC | +2ATK, +2ACC |
-|2H Weapon Prof.          |+4ATK, +4ACC | +2ATK, +2ACC |
-| Ninja Weapon Prof.      | +4ATK, +4SUR| - | 
-|Blunt Weapon Prof.       |   |   |
-|Staff Weapon Prof.       | +4MAG, +4DIV | +2MAG, +2DIV |
-| Armor Prof. (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |
+| Status Tolerance (All types) | 30% | 3-5% |   
+| Class Skill/Spell Proficiency (SP/MP reduction) | 10% | |
+| | | |
+| 1H Weapon Prof.          |+4ATK, +4ACC | +2ATK, +2ACC |  
+| 2H Weapon Prof.          |+4ATK, +4ACC | +2ATK, +2ACC |  
+| Ninja Weapon Prof.      | +4ATK, +4SUR| - |  
+| Blunt Weapon Prof.       |   |   |  
+| Ranged Weapon Prof.       |   |   |  
+| Staff Weapon Prof.       | +4MAG, +4DIV | +2MAG, +2DIV |  
+| Armor Prof. (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |  
 
 ## Guiding Lights
 
@@ -119,9 +123,9 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | | |
 | FIGHTER SKILL PROF | Reduces SP cost of Fighter Skills |
 | KNIGHT SKILL PROF | Reduces SP cost of Knight Skills |
-| MAGE SPELL PROF | Reduces the MP cost of mage spells |
+| MAGE SPELL PROF | Reduces the MP cost of Mage Spells |
 | NINJA SKILL PROF | Reduces SP cost of Ninja Skills |
-| PRIEST SPELL PROF | Reduces the MP cost of priest spells |
+| PRIEST SPELL PROF | Reduces the MP cost of Priest Spells |
 | THIEF SKILL PROF | Reduces SP cost of Thief Skills |
 | | |
 | OHWP | One-Handed Weapon Proficiency - Increases Attack Power and Accuracy when equipped with a dagger, one-handed sword, or one-handed axe |
@@ -136,6 +140,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | LAP | Light Armor Proficiency - Increases Defense Power and Magic Defense when equipped with light armor |
 | HAP | Heavy Armor Proficiency - Increases Defense Power and Magic Defense when equipped with heavy armor |
 | | |
+| TRAIT BOOST | Increases MC traits (STR, DEX, SPD, etc.) by a fixed amount |
 | RACE CHANGE | Changes the MC's Race to one of the types listed (Human, Dwarf, Elf, or Beastfolk) |
 | TYPE CHANGE | Changes MC's Type (Element) to one of the types listed (E.g., Air, Earth, Fire, Dark, etc.) |
 | RACE SLAYER-RESISTANCE| MC gains increased damage versus, and reduced damage from, one of the monster races listed (E.g., entity, demon, demihuman, giant, adventurer, beast, etc.) |

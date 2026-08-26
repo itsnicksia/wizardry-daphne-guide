@@ -139,6 +139,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 - **Accuracy**: (X * (DEX * 0.7 + LUK * 0.3))
 - **Evasion**: (X * (SPD * 0.7 + LUK * 0.3))
 - **Resistance**: (X * (PIE * 0.65 + VIT * 0.35))
+- **Surety**: (X * DEX)
 
 Looking at the above charts, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not a direct 1:1 relationship due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be `70*1.2=84`, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of `60*1.2=72`, or a difference of `12`. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
 

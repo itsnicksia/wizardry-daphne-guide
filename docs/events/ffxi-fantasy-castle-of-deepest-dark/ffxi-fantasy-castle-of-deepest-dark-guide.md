@@ -32,7 +32,7 @@
 
 === "Event Unlock Triggers"
 
-    === "Systems" 
+    === "Relics, Mining, Trading Systems" 
     
         - The event has several new systems that unlock based on progression. On your first run it is **critical that you exit back to Northern Hollow every time you unlock a new Harken** as the cutscenes can be missed and require CW-ing to fix. 
         - Zone 3 - Goblin Blacksmith and Relic Weapons
@@ -47,16 +47,17 @@
             - In the Item shop you can now purchase a consumable item called the Northcleft Pickaxe. Northern Hollow is the only location in the game where these can be purchased. 
             - The Jeweler will now exchange 500 Gil for 1 Gold Northcleft Pickaxe. The gold version triples (3x) anything that you mine. As of the 8/13 update they also work on the event dispatches. 
             - Mining nodes are scattered across each floor. Both types of pickaxes have a 50% chance to break per swing. Based on community data the long-term average is 2 swings per pickaxe. 
-        - Zone 6 - Trading 
+        - Zone 5/6 - Trading 
             - The Zone 6 Harken is right before the final event boss. 
             - Return to Northern Hollow and go to the Tavern. The Trader will give you a brief tutorial on how the process works. 
             - Trading is the primary way of upgrading your Relic weapons. 
+            - (there are some reports on this unlocking after the Zone 5 Harken. To be sure just return at each Harken.)  
 
     === "Dispatches"
 
         - There are a total of 3 special dispatches that can be accepted in the Royal Capital. They are blue-colored and near the center of the dispatch list, so they are easy to miss if you are scrolling quickly. 
         - The dispatches are tied to having the Harkens unlocked on Zone 2, 3, and 5. The 8/13 patch fixed Harken's reverting back to being unlocked if you CW. If a dispatch disappears, you will have to manually go back to each floor and restore the Harken again. 
-
+        - If you complete the final run of the event the Castle disappears and so do the Dispatches, so you cannot be 'Redispatch'.  To keep all the Dispatches available it's best to CW back to the second to last node.  
 
 ## Guide 
 
@@ -687,3 +688,23 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 - After having saved each bondmate with a Crystal of Hope once, you can farm just by Cursed Wheel leaping to just before the final battle, defeating the Shadow Lord, and turning in the completed request.  
 
+## Dispatches  
+
+-  The Event offers three unique Dispatches that are only available during the event period.  They are available only in the Royal Capital and are Bright Blue in the dispatch list.  
+-  Each unlocks with further progress through the event, with a new one appearing after the Zone 2, 3, and 5 Harkens have been restored.  
+    - Cursed Wheeling to a time before reaching these floors will remove the dispatch from your list. Completing the 3rd run closes the Castle and removes all dispatches from the list.  
+    - Removed dispatches are allowed to complete but 'Redispatch' cannot be selected.  
+    - CW back to an event point after the Dispatch trigger to restore the dispatch. Do so before getting a Disptach report if you want to re-dispatch them.  
+- Disptach results are the same as can be obtained by the player in the dungeon, rarely including things like Relic materials.
+- As usual dispatched characters make use of items in their inventory to improve dispatch outcomes.  *This include Pickaxes for mining*.  Once unlocked you should fill any empty inventory slots with pickaxes.  
+    - Mining via dispatch has [the same potential results as doing it in person](#mining-for-ore).  
+    - Golden pickaxes still produce 3x the mining output and still break just as often as regular ones.  
+    - The number consumed on one run is very random.  
+    - Unlike all other consumables, *Pickaxes do not self-replenish* and are consumed during the dispatch. If out of pickaxes, you might see a note of one being bought for 100gp at the shop.  
+        - Redispatching does not allow you to refill pickaxe inventory, but since you can only buy them in the event town you can have a bunch in storage ready to add manually.  
+
+!!! tip "Refilling pickaxes on Dispatched Units"
+    - Without Re-dispatch: Exit dispatch, select the dispatch, select the characters again, go into one character's inventory, 'Item list', add the pickaxes.  
+    - With Re-dispatch (Likely an unpatched bug): Redispatch, Edit your team, add all 6 dispatched characters, long press/click any one, go to Inventory, click Item List, select the pickaxes in storage, click Transfer, fill all of their inventories, cancel out, exit the Edit menu without changing your team.  
+        - The inventory change to the dispatch characters takes effect.  
+        - The game apparently doesn't calculate Dispatch outcomes until it finishes and uses whatever items are present at that time. 
