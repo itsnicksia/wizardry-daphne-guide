@@ -1,6 +1,6 @@
 {% set chardata = pd_read_csv('../data/adventurers.csv', 
    index_col='Name').fillna("").loc[title] %}
-
+ 
 # {{title}}  ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Primary Class'].replace(" ","-") | lower}}.jpg){align=right width="350" height=auto}  
 [{{title}}'s Life Story](../life-stories/{{title.replace(" ","-")}}.md)  
 {%if chardata['Personal Request'] %}[{{title}}'s Personal Request](../legendary-requests/{{title.replace(" ","-") | lower}}/{{title.replace(" ","-") | lower}}-request.md)  {% endif %}  
