@@ -36,6 +36,8 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Disarm Trap  | 2 | 1 |	
 | Evade Trap  | 2 | 1 |	
 | | | |
+| Trait Boost       | 2  | ?  |
+| | | |
 | Status Tolerance (All types) | 30% | 3-5% |   
 | Class Skill/Spell Proficiency (SP/MP reduction) | 10% | |
 | | | |
@@ -138,6 +140,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | LAP | Light Armor Proficiency - Increases Defense Power and Magic Defense when equipped with light armor |
 | HAP | Heavy Armor Proficiency - Increases Defense Power and Magic Defense when equipped with heavy armor |
 | | |
+| TRAIT BOOST | Increases MC traits (STR, DEX, SPD, etc.) by a fixed amount |
 | RACE CHANGE | Changes the MC's Race to one of the types listed (Human, Dwarf, Elf, or Beastfolk) |
 | TYPE CHANGE | Changes MC's Type (Element) to one of the types listed (E.g., Air, Earth, Fire, Dark, etc.) |
 | RACE SLAYER-RESISTANCE| MC gains increased damage versus, and reduced damage from, one of the monster races listed (E.g., entity, demon, demihuman, giant, adventurer, beast, etc.) |
