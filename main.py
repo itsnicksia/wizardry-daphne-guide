@@ -257,6 +257,27 @@ def define_env(env):
 
             #remove all spells left in elementlist from df
             df = df[~df['Name'].isin(elementlist['Name'])]                    
+
+            # adjust levels for single and ma spells of weak type
+            # single is 10 not 1, ma is 20 not 9
+            match element.lower():
+                case 'air': #earth
+                    df.loc[df['Name'] == 'ERLIK', 'Level'] = '11'
+                    df.loc[df['Name'] == 'MAERLIK', 'Level'] = '20'                    
+                case 'earth': #water
+                    df.loc[df['Name'] == 'MIGAL', 'Level'] = '11'
+                    df.loc[df['Name'] == 'MAMIGAL', 'Level'] = '20'   
+                case 'fire': #air
+                    df.loc[df['Name'] == 'FERU', 'Level'] = '11'
+                    df.loc[df['Name'] == 'MAFERU', 'Level'] = '20'   
+                case 'water': #fire
+                    df.loc[df['Name'] == 'HALITO', 'Level'] = '11'
+                    df.loc[df['Name'] == 'MAHALITO', 'Level'] = '20'   
+                case 'light' | 'dark' | 'void':
+                    # no secondary element, nothing to do 
+                    pass
+                case _:
+                    raise ValueError("Unknown Mage element for spell list adjustment")
             return df
 
         else:
