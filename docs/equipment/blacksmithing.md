@@ -451,15 +451,27 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
     - If something like the [FFXI Relic Item Remake](/events/ffxi-fantasy-castle-of-deepest-dark/ffxi-fantasy-castle-of-deepest-dark-guide.md#relic-item-upgrade-strategy) feature is available for your item, and you have infinite resources available, your best statistical control is given by multiple FAS first, then any alteration, then a cycle of enhance/Remake/re-enhance until optimum is reached or you're out of resources.  It is unclear if this system will be applied to more item types in the future.  
 
 !!! tip "Typical FAS example: Master Figher's Ring"  
-    Master Fighter's Ring - Ebonsteel, 4* Red, fixed at DEF/ACC/ATK%/ATK
-    
-    1. FAS the item (Reroll and apply bonus to all four blessings)  
-    2. Re-FAS as desired until happy with rolls. [See Initial+FAS Tables](equipment/blacksmithing.md#__tabbed_4_3)
-    2. Alter one slot (Typically DEF->ATK or DEF->SUR)  
-    3. Enhance to +20 (Apply Milestone blessing to each slot)
-    4. If unsatisfied with altered ATK slot, optionally alter to SUR
-    5. Use maximum Refine stones until satisfied.  (can be repeated forever as better stones are found)
 
+    === "Procedures"
+        Master Fighter's Ring - Ebonsteel, 4* Red, fixed at DEF/ACC/ATK%/ATK
+        
+        1. FAS the item (Reroll and apply bonus to all four blessings)  
+        2. Re-FAS as desired until happy with rolls. [See Initial+FAS Tables](equipment/blacksmithing.md#__tabbed_4_3)
+        2. Alter one slot (Typically DEF->ATK or DEF->SUR)  
+        3. Enhance to +20 (Apply Milestone blessing to each slot). See [Enhancement Costs](/equipment/blacksmithing.md#gold-cost-for-enhancing)
+        4. If unsatisfied with altered ATK slot, optionally alter to SUR
+        5. Use maximum Refine stones until satisfied.  (can be repeated forever as better stones are found)
+    
+    === "Starting Ring"
+        ![](./img/MFR_base.jpg)
+    === "After FAS"
+        ![](./img/MFR_FAS.jpg)
+    === "After Alter"
+        ![](./img/MFR_FAS_Alter.jpg)
+    === "After +20 Enhancement"
+        ![](./img/MFR_FAS_ALter_Enh.jpg)
+    === "After Refinement (done)"
+        ![](./img/MFR_FAS_ALter_Enh_Refine.jpg)
 
 ## Composite Reinforcement  
 
