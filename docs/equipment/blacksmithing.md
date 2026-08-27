@@ -401,10 +401,12 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
 !!! note "Known Ways to Obtain"
     - Very VERY rare chance from extracting ANY grade/quality gear.
     - As of April 1st, 2025, can be purchased from the monthly pack: ^^Jeweler Curated Collection Set^^ for 74.99 USD.
-    - From Old Castle Ruins Event Shop for 10000 event tokens.
-    - Occasionally appear in Limited-Time Offers as an exclusive sale item in packs during events.
+     - Occasionally appear in Limited-Time Offers as an exclusive sale item in packs during events.
     - Can be bought from the Guild Shop for 12500 Tokens.
-
+    - Periodically from some Events/Event shops
+        - Old Castle Ruins Event Shop for 10,000 event tokens.
+        - FFXI Collaboration Event rare mining reward.
+    
 - A FAS re-rolls all blessings currently on an item, including any that had been previously altered or refined.  
 - The blessings types that can appear are subject to the same RNG as when generating the blessings Reversal from junk or on milestone enhancement.
 - If the item alteraion slot was 'locked' by being altered before, it is unlocked and any slot can be altered again.  
