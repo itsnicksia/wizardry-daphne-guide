@@ -47,8 +47,10 @@ There are several map variations, and are random upon entering. It is not necess
         - Turn 5: FPSx3
         - Turn 6: Smack the Vampire for 3k+ damage. Around the first or second hit, he'll yell at you in Japanese. As long as your party all acts before he does next (thus the conditional BATILGREF), you'll kill him before he can bat you.
 
-??? note "Master Fighter Ring"
-    ![](img/fighter-ring.jpg)
-    - The Fighter ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.
+??? note "Master Fighter Ring"  
+    ![](img/fighter-ring.jpg)  
+    
+    The Fighter ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.  
+    See [Blacksmithing FAS example](/equipment/blacksmithing.md)
 
 
