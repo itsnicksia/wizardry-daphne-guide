@@ -400,21 +400,26 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
 
 !!! note "Known Ways to Obtain"
     - Very VERY rare chance from extracting ANY grade/quality gear.
-    - As of April 1st, 2025, can be purchased from the monthly pack: ^^Jeweler Curated Collection Set^^ for 74.99 USD.
-     - Occasionally appear in Limited-Time Offers as an exclusive sale item in packs during events.
-    - Can be bought from the Guild Shop for 12500 Tokens.
-    - Periodically from some Events/Event shops
+    - Can be purchased from the monthly pack: ^^Jeweler Curated Collection Set^^ for 74.99 USD.
+    - Occasionally appear in Limited-Time Offers as an exclusive sale item in packs during events.
+    - Can be bought from the Guild Shop for 12,500 Tokens.
+    - Periodically available from Events/Event shops
         - Old Castle Ruins Event Shop for 10,000 event tokens.
         - FFXI Collaboration Event rare mining reward.
     
-- A FAS re-rolls all blessings currently on an item, including any that had been previously altered or refined.  
-- The blessings types that can appear are subject to the same RNG as when generating the blessings Reversal from junk or on milestone enhancement.
-- If the item alteraion slot was 'locked' by being altered before, it is unlocked and any slot can be altered again.  
-- The FAS also *applies a bonus amount to each blessing* that will be the same range as the enhancement bonus you get when enhancing an item to +5/10/15/20. This FAS Bonus Blessing allows gear to gain blessings significantly higher than otherwise possible.  These are tabulated in [the potential blessing ranges tables above](#blessing-range-tables).  
-    - As of Update 1.12.1, a FAS used on any already-enhanced items will also re-apply any already received Milestone Blessing bonuses.  The game will remember the item's initial Grade or Color and will re-roll the correct combination of Initial Blessing, Milestone Blessing, and FAS Bonus blessing on each unlocked blessing slot.  So it is now feasible to use FAS on items that are already enhanced, even to +20, without losing any 'potential blessing range'.  
-- Using a SECOND FAS on the same item repeats the process - it will re-roll all blessings and reset the available alteration slot using the blessing types available for that item and remembering which slots should get Initial and Milestone Blessings. The re-roll will only include one FAS Bonus Blessing, multiple FAS use does not keep adding more.
-- Also as of Update 1.12.1, Lesser Full Alteration Stones (LFAS) have been added.  LFAS act just the same as FAS except they do not apply a bonus blessing.  They drop more frequently than Full Alteration Stones, but are still quite rare.
-- Re-rolled blessing totals are typically the sum of multiple blessing rolls (e.g., Initial Blessing, Milestone Blessing, FAS Bonus) and so are weighted toward the middle of the ranges given in the [blessing ranges tables](#blessing-range-tables).   
+#### FAS effects:
+- A FAS re-rolls all blessings currently unlocked on an item.  
+    - Blessing types are re-rolled subject to the same RNG as when the item is first found or on milestone enhancement.  
+    - Any effects of previous alteration or refinement stones are removed.  
+        - If prior alteraion 'locked' the slot of any future alteration, it is unlocked and any slot can be altered again.  
+    - The values of any unlocked blessings are rerolled:  
+        - Any Initial Blessing values the item started with (for Green, Blue, and Red Grade items) are rerolled.  
+        - Any blessing [Milestone Enhancement](#enhance) that has already been received for enhancing an item to +5/10/15/20 is rerolled and included in the blessing total.  (There is no penalty or loss of 'potential blessing range' for using a FAS on already enhanced items.)  
+    - A FAS *also applies a bonus blessing amount to each unlocked blessing* whose value is in the same range as that received for Milestone enhancement. This FAS Bonus Blessing allows gear to gain blessings significantly higher than otherwise possible.  
+    - Range of possible blessing values for all of these blessing components are tabulated in [the potential blessing ranges tables above](#blessing-range-tables).  
+    - Re-rolled blessing totals are therefore typically the sum of multiple blessing rolls (e.g., Initial Blessing, Milestone Blessing, FAS Bonus) and so are statistically weighted toward the middle of the ranges given in the [blessing ranges tables](#blessing-range-tables).   
+- Using a SECOND FAS on the same item repeats the process - it re-rolls all blessings types using those available for that item, resets the available alteration slot, and (remembering which slots should get Initial and Milestone Blessings) re-rolls those values. The re-roll will only include one FAS Bonus Blessing, multiple FAS use does not continually add more.  
+- As of Update 1.12.1, Lesser Full Alteration Stones (LFAS) have been added.  LFAS act the same as FAS except they do not apply a bonus blessing.  They drop more frequently than Full Alteration Stones, but are still quite rare.  
  
 !!! note "Example 1: Using One Full Alter Stone"
     ![](img/fas-subject-1.jpg)
