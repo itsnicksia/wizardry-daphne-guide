@@ -22,7 +22,7 @@ There are a number of characters that wander the Abyss who you may encounter.  T
     - Interaction Options: Paying 2,000gp will give you one random but usually good quality Trade Waterways Junk. 
 
 ## Faction NPC   
-This wandering NPC will be a differnt character on each Faction route, but the interactions are the same. He will first greet you several times,then ask for aid, and eventually reward you with small items and treasures.  
+This wandering NPC will be a different character on each Faction route but the interactions are the same. He will first greet you several times, then ask for aid twice, and if you help him he will start rewarding you with small items and treasures.  
 
 === "Pontiff Route"  
     ![](./img/a2-cathedral-knight.jpg)  

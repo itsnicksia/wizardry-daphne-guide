@@ -115,7 +115,7 @@
             - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
             - Toggle 0 to 8 (recommended) corrosion sentries to "Spotted" in the Cursed Wheel. See the second tab for more detailed instructions.
             - For this ending you do not gain anything extra from defeating a more difficult version of the GWO. 
-        - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room, which should now have fewer corrosion tiles than before.  
+        - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixion's room, which should now have fewer corrosion tiles than before.  
         - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
         - Speak with everyone in the room for additional information about what is going on. Exit and head south. 
         - On your second run you do not need to examine the lever. Head directly to the outer balcony to reach the back of the golem. There is now only 1 forced encounter against the 2x Evil Eyes. 
@@ -129,13 +129,13 @@
         - For the remaining endings you must have a certain number of "Spotted" corrosion sentries toggled before leaping in order for the NPCs to still be alive. The lower the Abyss corrison level, the more survivors you can rescue. 
         - This ending only triggers when there are 0 to 8 corrosion sentries toggled to "Spotted." The GWO becomes progressively more difficult as you lower the number of "Spotted" toggles. That is, GWO 8 (8 "Spotted") is easier than GWO 6 (6 "Spotted"), which is easier than GWO 2 or GWO 0. 
         - Unless you are looking for a challenge, then set your CW to 8 "Spotted". Again, remember, that any not registered already count toward the "Spotted" total. For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).  
-        - Another way to double-check you have the correct number toggled is to observe the size of Ixion's room when you first jump to the Z10 Fountain. See [here](./corrosion.md#__tabbed_1_4). 
+        - Another way to double-check you have the correct number toggled is to observe the size of Ixion's room when you first jump to the Z10 Fountain. See [here](./corrosion.md#__tabbed_5_5). 
     
 === "Saving Liam" 
 
     - [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) is the primary request for the second run.
     - It is a Guild request, but requires Knowledge that Liam has been kidnapped. See the request page for details on how to unlock.        
-    - The request has multiple endings. To progress you only need to rescue Liam in "critical condition". The "rescued safely" endings gives Liam's bondmate (Stun Tolerance) if you speak to hear after defeating the GWO. It is fixed at Level 1. 
+    - The request has multiple endings. To progress you only need to rescue Liam in "critical condition". The "rescued safely" endings gives Liam's bondmate (Stun Tolerance) if you speak to her after defeating the GWO. It is fixed at Level 1. 
     - Only needs to be completed once. The outcome is saved as a toggle in the CW under Fortress 3rd Floor Arrival - Abducted Child sub-node. Make sure you speak with Graham and Remi at the front entrance (tent by the well entrance) after saving Liam. Next, return to the Guild and submit the request as completed to make sure it registers in the CW properly.  
     
 === "Key Knowledge and Items"
@@ -156,7 +156,7 @@
 
     === "Tale of Bordaon" 
 
-        - Tale of Bordaon 1 - Speak with the SE skelete in the central room. 
+        - Tale of Bordaon 1 - Speak with the SE skeleton in the central room. 
         - Tale of Bordaon 2 - Speak with NE skeleton in the central room after acquiring the Knowledge of Leto Paintings 1-3.
 
 === "Outcome"
@@ -197,7 +197,7 @@
             - Fortress 3rd Floor Arrival - Abducted Child is toggled to either "Rescued in critical condition" or "Rescued safely".  
             - Toggle 0 to 8 (recommended) corrosion sentries to "Spotted" in the Cursed Wheel. See the second tab for more detailed instructions.
             - For this ending you do not gain anything extra from defeating a more difficult version of the GWO. 
-        - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixon's room. 
+        - With everything toggled correctly jump to Fortress 3rd Floor Arrival, which places you at the Z10 Fountain. Make your way south to Ixion's room. 
         - Enter Ixion's room and speak with Liam's dad, Alan. Tell him that you rescued Liam safely and watch a short cutscene. 
         - Next, speak with Dalian and hand over the Blackmail Evidence. 
         - Head directly to the outer balcony to reach the back of the golem. Per usual there is only 1 forced encounter against the 2x Evil Eyes. 

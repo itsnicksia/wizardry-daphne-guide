@@ -52,7 +52,7 @@
 
 ### ^^Gold Cost for Enhancing^^
 
-<div class="nofilter-table nosort-table equipment-table" markdown>
+<div class="nofilter-table nosort-table not-equipment-table" markdown>
 
 === "Worn - Ebonsteel Rank Equipment"
 
@@ -131,10 +131,10 @@
     | Flat                                                | 1-2 | 2-5 | 2-8 | 3-10 | 3-12 |
     | Percent (%)                                         | 1   | 1-2 | 2-3 |  3   | 3-4  |
     | ASPD                                                | 1-2 | 1-2 | 1-3 | 1-4  | 1-5  |
-    | ASPD%                                               | 1   | 1-2 | 2-3 |   3  | 3-4  |
+    | ASPD%                                               | 1   | 1-2 | 2-3 |  3   | 3-4  |
     | SUR                                                 | 1   | 1-2 | 1-2 | 1-3  | 1-4  |
 
-=== "Initial + Enhance (or Init + FAS) Totals"
+=== "Initial + (Enhance or FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -154,6 +154,26 @@
     | ASPD%                                               | 3-4 | 4-8  | 8-12 | 12-15 | 15-19 |
     | SUR                                                 | 3-4 | 4-7  | 5-8  | 6-11  | 7-14  |
 
+=== "Initial + (Enhance or FAS) + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-12 | 6-17 | 8-22 | 12-27 | 15-32 |
+    | Percent (%)                                         | 3-10 | 5-14 | 8-18 | 13-22 | 16-26 |
+    | ASPD                                                | 3-10 | 4-12  | 6-15 | 8-18  | 10-21 |
+    | ASPD%                                               | 3-9 | 4-12  | 7-15 | 10-18 | 13-21 |
+    | SUR                                                 | 3-9 | 4-11  | 5-12  | 6-14  | 7-16  |
+
+=== "Initial + Enhance + FAS + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 5-14 | 8-22 | 10-30 | 15-37 | 18-44 |
+    | Percent (%)                                         | 4-11 | 6-16 | 10-21 | 16-25 | 19-30 |
+    | ASPD                                                | 4-12 | 5-14  | 7-18 | 9-22  | 11-26 |
+    | ASPD%                                               | 4-10 | 5-14  | 9-18 | 13-21 | 16-25 |
+    | SUR                                                 | 4-10 | 5-13  | 6-14  | 7-17  | 8-20  |
+    
 </div>
 
 
@@ -181,7 +201,7 @@
     | ASPD%                                               | 1   | 1-2 | 2-4 | 3-4   | 3-5  |
     | SUR                                                 | 1   | 1-2 | 1-2 | 1-4   | 1-5  |
 
-=== "Initial + Enhance (or Init + FAS) Totals"
+=== "Initial + (Enhance or FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -200,10 +220,30 @@
     | ASPD                                                | 3-6 | 4-9  | 6-15 | 8-20  | 10-24 |
     | ASPD%                                               | 3-4 | 4-9  | 8-15 | 12-19 | 15-23 |
     | SUR                                                 | 3-4 | 4-8  | 5-9  | 6-14  | 7-17  |
+
+=== "Initial + (Enhance or FAS) + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-13 | 6-19 | 8-25 | 12-31 | 15-37 |
+    | Percent (%)                                         | 3-11 | 5-15 | 8-21 | 13-26 | 16-30 |
+    | ASPD                                                | 3-10 | 4-13  | 6-17 | 8-21  | 10-24 |
+    | ASPD%                                               | 3-9 | 4-13  | 7-17 | 10-21 | 13-24 |
+    | SUR                                                 | 3-9 | 4-12  | 5-13  | 6-16  | 7-18  |
+
+=== "Initial + Enhance + FAS + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 5-15 | 8-25 | 10-35 | 15-43 | 18-51 |
+    | Percent (%)                                         | 4-12 | 6-17 | 10-25 | 16-30 | 19-35 |
+    | ASPD                                                | 4-12 | 5-15  | 7-21 | 9-26  | 11-30 |
+    | ASPD%                                               | 4-10 | 5-15  | 9-21 | 13-25 | 16-29 |
+    | SUR                                                 | 4-10 | 5-14  | 6-15  | 7-20  | 8-23 |
     
 </div>
 
-#### ^^Silver 2H Weapons^^  
+#### ^^Silver 2H Melee Weapons^^  
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -227,7 +267,7 @@
     | ASPD%                                               | 1   | 1-2 | 2-4  | 3-4  | 3-5  |
     | SUR                                                 | 1   | 1-2 | 1-2  | 1-4  | 1-5  |
 
-=== "Initial + Enhance (or Init + FAS) Totals"
+=== "Initial + (Enhance or FAS) Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
@@ -247,12 +287,29 @@
     | ASPD                                                | 3-6 | 4-9  | 6-16 | 8-21  | 10-27 |
     | ASPD%                                               | 3-4 | 4-9  | 8-16 | 12-20 | 15-24 |
     | SUR                                                 | 3-4 | 4-8  | 5-9  | 6-15  | 7-18  |
+
+=== "Initial + (Enhance or FAS) + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 4-13 | 6-21 | 8-27 | 12-33 | 15-39 |
+    | Percent (%)                                         | 3-11 | 5-16 | 8-22 | 13-27 | 16-32 |
+    | ASPD                                                | 3-10 | 4-13  | 6-18 | 8-22  | 10-26 |
+    | ASPD%                                               | 3-9 | 4-13  | 7-18 | 10-22 | 13-25 |
+    | SUR                                                 | 3-9 | 4-12  | 5-13  | 6-17  | 7-19  |
+
+=== "Initial + Enhance + FAS + Refine"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 5-15 | 8-28 | 10-38 | 15-46 | 18-54 |
+    | Percent (%)                                         | 4-12 | 6-18 | 10-26 | 16-31 | 19-37 |
+    | ASPD                                                | 4-12 | 5-15  | 7-22 | 9-27  | 11-33 |
+    | ASPD%                                               | 4-10 | 5-15  | 9-22 | 13-26 | 16-30 |
+    | SUR                                                 | 4-10 | 5-14  | 6-15  | 7-21  | 8-24 |
     
 </div>
 
-<!-- PREVIOUS Note
-!!! note "Silver gear appears to provide larger blessings than those shown above. Data is being collected and we will add information when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
--->
 
 ## Enhancement Inheritance
 
@@ -339,29 +396,43 @@ Only the star quality of an item being extracted determines the blessing magnitu
 
 ![](img/samurai-meme.jpg)
 
-A **Full Alteration Stone** allows you to reroll all unlocked substats on an item.
+A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on an item.
 
 !!! note "Known Ways to Obtain"
     - Very VERY rare chance from extracting ANY grade/quality gear.
     - As of April 1st, 2025, can be purchased from the monthly pack: ^^Jeweler Curated Collection Set^^ for 74.99 USD.
     - From Old Castle Ruins Event Shop for 10000 event tokens.
     - Occasionally appear in Limited-Time Offers as an exclusive sale item in packs during events.
+    - Can be bought from the Guild Shop for 12500 Tokens.
 
-It re-rolls all blessings currently on an item. This process is subject to the same RNG that all items are subject to when generating stats on Reversal from junk. It also applies a bonus amount to each blessing that will be the same range as the enhancement bonus you get when enhancing an item to +5/10/15/20. This allows you to "double-dip" on stats when enhancing a piece of gear altered with FAS if it hasn't been enhanced already. Using this method will allow gear to receive stats significantly higher than naturally possible, even in ideal circumstances.
-
-As of Update 1.12.1, Full Alteration Stones will now also re-apply Milestone Blessing bonuses on applicable items (The game will remember the item's Grade or Color), so it is now feasible to use these on items that are already +20. However, it only re-applies those blessings on rolls that are generated by the stone itself and not ones altered after.
-
-Using a SECOND FAS on the same item repeats the process - it will again re-roll all blessings while unlocking an alteration slot, even if you had altered previously.
-
+- A FAS re-rolls all blessings currently on an item, including any that had been previously altered or refined.  
+- The blessings types that can appear are subject to the same RNG as when generating the blessings Reversal from junk or on milestone enhancement.
+- If the item alteraion slot was 'locked' by being altered before, it is unlocked and any slot can be altered again.  
+- The FAS also *applies a bonus amount to each blessing* that will be the same range as the enhancement bonus you get when enhancing an item to +5/10/15/20. This FAS Bonus Blessing allows gear to gain blessings significantly higher than otherwise possible.  These are tabulated in [the potential blessing ranges tables above](#blessing-range-tables).  
+    - As of Update 1.12.1, a FAS used on any already-enhanced items will also re-apply any already received Milestone Blessing bonuses.  The game will remember the item's initial Grade or Color and will re-roll the correct combination of Initial Blessing, Milestone Blessing, and FAS Bonus blessing on each unlocked blessing slot.  So it is now feasible to use FAS on items that are already enhanced, even to +20, without losing any 'potential blessing range'.  
+- Using a SECOND FAS on the same item repeats the process - it will re-roll all blessings and reset the available alteration slot using the blessing types available for that item and remembering which slots should get Initial and Milestone Blessings. The re-roll will only include one FAS Bonus Blessing, multiple FAS use does not keep adding more.
+- Also as of Update 1.12.1, Lesser Full Alteration Stones (LFAS) have been added.  LFAS act just the same as FAS except they do not apply a bonus blessing.  They drop more frequently than Full Alteration Stones, but are still quite rare.
+- Re-rolled blessing totals are typically the sum of multiple blessing rolls (e.g., Initial Blessing, Milestone Blessing, FAS Bonus) and so are weighted toward the middle of the ranges given in the [blessing ranges tables](#blessing-range-tables).   
+ 
 !!! note "Example 1: Using One Full Alter Stone"
     ![](img/fas-subject-1.jpg)
 
 !!! note "Example 1: Using Two Full Alter Stones"
     ![](img/fas-subject-2.jpg)
 
-As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls the stats but does not apply re-apply Milestone Blessings. They drop more frequently than Full Alteration Stones, but are still quite rare. 
-
-It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring with <em>fixed blessing types</em>, so using a LFAS or FAS just rerolls the values - and FAS adds an bonus Blessing - but doesn't change the blessing types.) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
+#### Suggested FAS usage  
+- Using a L/FAS is a RNG gamble on whether or not they will improve your item. Blessing Types could be perfect or useless for the item/intended character. The rerolls could all be at the lowest or highest in the available range. As always, gamble at your own risk.  
+- It is highly suggested that FAS are saved only for your highest rarity items, for example certain extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
+- Alternatively, a L/FAS can give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).  
+- Much reroll risk is eliminated when used on items with unlocked Fixed Blessing Types:  
+    - Master Fighter Ring (or Thief, Mage, Knight / etc.). Relic Items from the Final Fantasy XI (FFXI) Event, Battlefront Arena Heavy Warblade of Honor (first two blessing slots), all have fixed blessing types with inital blessing values.  
+    - L/FAS use on these items has no risk of rolling bad blessing *types*, and just rerolling blessing values.  
+    - The re-roll is still RNG and can roll low.  
+    - An LFAS can be used to reroll low initial or milestone blessing rolls, potentially saving a low roll item.  
+    - A FAS always adds an extra blessing to each unlocked slot, so it will almost always provide some level of improvement.  
+    - You can L/FAS before or after enhancement. The totals achieveable are never decreased by this choice.  
+    - If you're willing to commit multiple FAS to maximize your blessings, the statistics of whether rerolling all stats with FAS after enhancement, or maximizing FAS first and then applying Milestone blessings separately is left as an exercise for the student.  
+    - If something like the FFXI Relic Item Remake option is available, and you have infinite resources available, your best statistical control is given by multiple FAS first then enhance/Remake/re-enhance.  It is unclear if this system will be applied to more item types in the future.  
 
 ## Composite Reinforcement  
 

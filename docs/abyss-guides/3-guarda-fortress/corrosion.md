@@ -388,7 +388,7 @@
             - Push the southern golem to the left > "Not Spotted" flag triggered
             - The golem only partially blocks the corrosion sentry's field of view and you can still be "Spotted"
             - To register defeat the Necrocore boss (Secret Path Keeper Vanquished) located at the end of Zone 3
-            - To exit use the the Zone 3 Harken 
+            - To exit use the Zone 3 Harken 
 
             Notes
             
@@ -496,7 +496,7 @@
 
             Notes
             
-            - To the south is corrosion sentry [3] that can be registered in the same run"
+            - To the south is corrosion sentry [3] that can be registered in the same run
 
         === "Boss: Necrocore"
      
@@ -552,7 +552,7 @@
             
         - Push the bottom (1) golem to the right to block the Corrosion Sentry's field of view
         - Push the top (2) golem up to block the sentry's field of view 
-        - Danger! There is a sentry (blue ★) directly north of the corrosion sentry"
+        - Danger! There is a sentry (blue ★) directly north of the corrosion sentry
 
     ??? warning "Cursed Wheel Registration"
 
@@ -688,7 +688,7 @@
 
             Notes
             
-            - Danger! There are 3 sentries in the large room with the corrosion sentry"
+            - Danger! There are 3 sentries in the large room with the corrosion sentry
             - Alternative Doll kill method: 
                 - Fighting the Doll boss again is not mandatory
                 - It can be crushed with a golem for a hidden achievement
@@ -875,7 +875,7 @@
         Cursed Wheel Settings
         
         - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending.
-        - See ["Greater Warped One Variations"](./corrosion.md#before-you-begin) for detailed instructions.
+        - See ["Greater Warped One Variations"](#greater-warped-one-variations) for detailed instructions.
         - Toggle Abducted Child to "Rescued Safely".
         - Leap to Fortress 2F Minor Harken (Zone 9 Harken).
         

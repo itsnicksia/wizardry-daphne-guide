@@ -158,8 +158,27 @@ Use the Cursed Wheel to reset the request after completion and then complete the
 #### Note about Event Shop
 1. You can only redeem the gold exchange 99 (9900 gold) at a time
 2. The Featherbronze Gauntlet Exchange gives you a Random Grade And Star Level
-3. Priortize the Skill EXP books 25exp per book sounds very little but it adds up over time and the only way to get these as F2P is through events.
+3. Prioritize the Skill EXP books 25exp per book sounds very little but it adds up over time and the only way to get these as F2P is through events.
 
+## Labyrinth of Fordraig Exploraion Follow-up Request
 
+### Quick Guide
 
+!!! warning "This guide will have a lot of coordinates as it's a tedious maze puzzle"
 
+1. Head to the Adventurer's Guild in the Royal Capital and accept the request in the Featured tab.
+2. Head to Fordraig via the World Map, and enter through the B1F Harken. Head to the room across and talk to the NPC (X:17, Y:23). Parts of the whole dungeon will change. You will have access to the Harken locations, but they will be blocked off.
+3. Take the stairs from B1F to B2F. Take the portal on (X:4, Y:25). Lulunarde will comment before you step in. You will be teleported to the top right of B2F. Take the portal at (X:21, Y:24) and end up in a different part of B2F.
+4. Take the (X:22, Y:5) portal, and then the (X:25, Y:18) portal. This will bring you to B1F. Take the (X:12, Y:13) portal which brings you to B2F. Take the (X:3, Y:14) portal which brings you to B1F. Head to (X:4, Y:7) and kill the enemy there. Flip the switch on the wall, which will remove some portals blocking the way in the whole map. Take the (X:6, Y:7) portal to teleport back to the starting room on B1F.
+5. Head back down the stairs from B1F to B2F. The initial portal will be gone, and Lulunarde will tell you that you can move forwards. Take the portal at (X:4, Y:18) to be teleported to B3F.
+6. Take the portal at (X:0, Y:26) to be on B2F. Take the portal at (X:22, Y:10) to be on B4F. Take the portal at (X:9, Y:22) to be on B2F. Take the portal at (X:19, Y:17) to be on B2F. Walk to (X:7, Y:5) and get a cutscene about a switch being on the door. Click on the door again to enable the door, and thus opening the B2F Harken path.
+7. Take the stairs down from B2F to B3F and take the (X:26, Y:13) portal to be on B4F. Take the (X:16, Y:26 portal) to be on B3F. Defeat the enemy on (X:6, Y:6) and flip the switch afterwards. This will unlock the B3F Harken path.
+8. Take the (X:5, Y:2 portal) on B3F near the harken to be on B4F. Take the (X:15, Y:12) portal to be on B2F. Head to (X:14, Y:14) and fight 2 Lizardman Champions. If you kill one, the other buffs itself with a very strong attack buff. They have relatively low hp, but its recommended to kill them together if possible. Afterwards, pick up the shiny object in the room and the request is complete. Take the portal to teleport back to the B1F starting room. Take the Harken out and return to the Royal Capital Adventurer's Guild to turn in the request.
+
+### Follow-up Request Reward
+
+??? note "Sword of the Forsaken Eagle" 
+
+    ![](img/sword-of-the-forsaken-eagle.png)
+
+    - This silver tier 1H sword with the Magical Beast-Slayer trait is guaranteed to be a 3 Star Blue Rarity drop at 2/3 Strength Level with randomized blessings.

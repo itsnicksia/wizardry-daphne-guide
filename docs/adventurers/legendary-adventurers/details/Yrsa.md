@@ -70,11 +70,7 @@
 
     From here, it can proceed to blues and purples, but I'm not entirely sure how many total tiers there are or the sequence after Green. This skill has some nice synergy with Ninja parties. Ninjas getting access to Shedding allow them to take actions very frequently, and while dual wielding, basic attack and skills like Covert Strike and Yuzu's Hue can provide a large volume of hits to ramp First Arrow up.
 
-    Here are the big downsides. First, it takes a lot of hits to increase the level. If you're looking to get to Green, for example, it'll take a total of 73 hits. That's a lot in two enemy turns, which means you also need to be using Delay Attack or Chronostasis to delay the enemy on top of likely stacking BATILGREF, as well. Why do we also need BATILGREF, you might ask? Well, remember how I alluded to there being a bug? Unfortunately, it appears as though the Attack Speed reduction portion of First Arrow does not work at all. This has been tested repeatedly and right now, it seems like applying First Arrow does not slow the enemy down the way it should. Hopefully this gets fixed, as it's a crucial element of this skill even being viable.
-
-    In addition, folks have reported (although I haven't tested it myself) that Blessing of Agora does not extend the duration of First Arrow at all.
-
-    Lastly, First Arrow really isn't a skill that you'd want to inherit to someone else. The inheritance damage loss will lead to a lower payoff for the large amount of work it takes to increase that damage tier.
+    The big downside is that it takes a lot of hits to increase the level. If you're looking to get to Green, for example, it'll take a total of 73 hits. That's a lot in two enemy turns, which means you also need to be using Delay Attack or Chronostasis to delay the enemy on top of likely stacking BATILGREF, as well.
 
     Her Discipline skill, Forest-Reading Huntcraft, boosts SP if you like that kind of thing.
 

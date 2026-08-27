@@ -207,7 +207,7 @@ Guild tags can be obtained by dismissing (retiring) adventurers from the guild. 
 | Legendary                         | 1 Iron Grade, 1 Ungraded (9 Ungraded equivalent) | 
 </div>
 
-At high grades, dismissing extra adventurers may be necessary or collecting enough Guild Tags to advance.  Using the numbers of regularly available adventurer remains as described above, the available tags are: 
+At high grades, dismissing extra adventurers may be necessary for collecting enough Guild Tags to advance.  Using the numbers of regularly available adventurer remains as described above, the available tags are: 
 
 <div class="nofilter-table nosort-table" markdown>
 | Remains                                           | Tags from dismissing 39 Ungraded Remains |

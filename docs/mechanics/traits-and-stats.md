@@ -74,9 +74,13 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Priest            | 0.9          | 0.9         | 1.2          | 0.9      | 0.2    |
     | Mage              | 0.5          | 1.2         | 1            | 0.7      | 0.2    |
     | Healer            | 0.4          | 1.1         | 1.1          | 0.6      | 0.2    |
-    | Black Rod         | 1.05         | 1           | 0.6          | 1        | 0.2    |
+    | Mage of the Black Rod         | 1.05         | 1           | 0.6          | 1        | 0.2    |
+    | Samurai of the Black Rod         | 1.1         | 0.95           | 0.6          | 1        | 0.2    |
     | Tall Mage         | 1            | 1           | 0.8          | 1.1      | 0.2    |
     | Silver-Haired Nun | 1            | 0.75        | 1.1          | 1        | 0.2    |
+    | Dark Knight | 1.35            | 0.9        | 0.3          | 1        | 0.2    |
+    | FFXI Priestess | 1            | 0.5        | 1          | 1.1        | 0.2    |
+    | Abhorrent One | 1.1            | 0.5        | 0.8          | 1.15        | 0.2    |
 
 === "Defensive Stats"
 
@@ -92,10 +96,14 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Priest            | 1       | 1.1           | 0.8     | 1          |
     | Mage              | 0.9     | 1.1           | 0.7     | 0.9        |
     | Healer            | 0.95    | 1.1           | 1       | 1.35       |    
-    | Black Rod         | 1       | 0.9           | 0.85    | 0.89       |
-    | Tall Mage         | 1       | 0.95          | 0.7     | 0.85       |
-    | Silver-Haired Nun | 1.15    | 1.15          | 0.7     | 1          |
-
+    | Mage of the Black Rod         | 0.98       | 0.9           | 0.85    | 1       |
+    | Samurai of the Black Rod         | 0.96       | 0.9           | 0.85    | 0.8       |
+    | Tall Mage         | 1       | 0.85          | 0.7     | 0.95       |
+    | Silver-Haired Nun | 1.15    | 1.15          | 0.7     | 1.1          |
+    | Dark Knight       | 0.95       | 1.3        | 0.7          | 0.8       | 
+    | FFXI Priestess | 0.95            | 0.95        | 0.9          | 0.8        | 
+    | Abhorrent One | 1            | 0.95        | 1          | 0.8        | 
+    
 === "Utility Stats"
 
     | Class             | Detect | Disarm Trap | Evade Trap | Action Speed |
@@ -110,9 +118,13 @@ The base trait points an adventurer starts with considers multiple factors, incl
     | Priest            | 1      | 0.9         | 0.9        | 0.9          |
     | Mage              | 1.15   | 0.85        | 0.85       | 0.85         |
     | Healer            | 0.5    | 0.5         | 0.5        | 0.95         |
-    | Black Rod         | 0.9    | 0.9         | 0.9        | 0.85         |
+    | Mage of the Black Rod         | 0.9    | 0.9         | 0.9        | 0.85         |
+    | Samurai of the Black Rod         | 0.9    | 0.9         | 0.9        | 0.85         |
     | Tall Mage         | 0.8    | 0.85        | 0.8        | 0.85         |
     | Silver-Haired Nun | 0.9    | 0.9         | 0.9        | 0.8          |
+    | Dark Knight       | 0.6       | 0.6        | 0.8          | 0.75       | 
+    | FFXI Priestess | 0.6            | 0.6        | 0.6          | 0.9        | 
+    | Abhorrent One | 0.9           | 0.6        | 0.6          | 0.95        | 
 
 #### Formulae
 - **Attack Power**: (X * STR)
@@ -127,6 +139,7 @@ The base trait points an adventurer starts with considers multiple factors, incl
 - **Accuracy**: (X * (DEX * 0.7 + LUK * 0.3))
 - **Evasion**: (X * (SPD * 0.7 + LUK * 0.3))
 - **Resistance**: (X * (PIE * 0.65 + VIT * 0.35))
+- **Surety**: (X * DEX)
 
 Looking at the above charts, we can see that while primary stats (STR, IQ, etc) have a direct impact on the substats (Attack Power, Magic Power, etc), it's not a direct 1:1 relationship due to the class multiplier. As a base example, if you have a Fighter with 70 STR and no other Attack Power bonuses, that Fighter's Attack Power will be `70*1.2=84`, while a Fighter with 60 STR and no other Attack Power bonuses would have an Attack Power of `60*1.2=72`, or a difference of `12`. This ultimately means that for a Fighter, a 10 point difference in STR results in only a 12 point difference in Attack Power.
 
@@ -344,9 +357,22 @@ Strength+ is a unique property that appears on 2h weapons that adds a portion of
 
 Resistance is a stat that contributes to resisting status effects (in the case of poison, it also reduces poison damage). There are two main sources of resistance, which is the RES stat itself and Tolerances that come from passive skills and gear.
 
-All info in this section credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
+Resistance increases primarily come from equipment with RES stats and spells that include RES buffs as primary or secondary effects.  The primary RES buff spellall priests learn is KINAPIC. Prayer of Rebellion (Red Beard inheritable) also increases RES along with ATK. Many status curing spells like LATUMOFIS, KUSFIS, DIADOR, etc., when cast at level 2 and higher also provide a temporary RES buff.  
 
-### Resistance Formula
+### RES Pre-buffing
+
+Any of the RES buffing spells that can be cast out of combat (e.g., curing poison with LATUMOFIS 2+, or paralysis with DIADOR 2+) will provide an out of combat RES boost. Up to 3 such separate spells can be stacked, and RES boost is a fixed amount plus a fraction of receiving character base RES, and the boost has increased effect at spell levels 2, 4, and 6. The boost persists whole walking in tbe dungeon, and is canceled by changing equipment, resting at an inn or camp, and maybe other actions as well (Note it has never been clear if pre-buffing was intentionally designed behavior.). 
+
+Additionally. while the exact amount of RES increase from any spells cast in combat is not shown to the player, any pre-buff RES increase can be seen in the character's stat page. From this Spell RES increases can be estimated as:  
+
+    For `N` prebuff spells of Spell Level `L`
+    +RES = ceil(N*(base_RES/2 + 10*(floor(L/2))))   
+
+It is unclear if this is the same RES increase when the same spells are cast in combat, or whether spells only castable in combat have the same effect.
+
+All info in this section below credited to: [名はある冒険犬柴丸](https://www.youtube.com/@名はある冒険犬柴丸)
+
+### Resistance Impact Formula
 
 ![](./img/res-formula.png)
 

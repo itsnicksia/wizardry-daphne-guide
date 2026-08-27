@@ -3,7 +3,8 @@
 !!! warning "**Warning: This guide contains spoilers.**"
 
 !!! warning "**Disclaimer:**"
-    Since this is a community-maintained site, there is only so much we are able to do during our free time. There may be out of date content on multiple pages here.We do our best to keep things up to date, but stuff does slip through the cracks. When in doubt, reach out to us in Discord or submit a pull request to update content as needed.
+    Since this is a community-maintained site, there is only so much we are able to do during our free time. There may be out of date content on multiple pages here.We do our best to keep things up to date, but stuff does slip through the cracks. When in doubt, reach out to us in Discord or submit a pull request to update content as needed.  
+    [Wizardry Variants: Daphne Discord Server](https://discord.gg/YjYmUCkBXK)  
 
 <div class="grid cards" markdown>
 
@@ -31,7 +32,7 @@
     - [Bondmates](./adventurer-customization/bondmates/bondmates-quicklist.md)  
     - [Well of the Mind](./adventurer-customization/well-of-the-mind.md)  
     - [Relicbrew Guide](./adventurer-customization/relicbrew.md)  
-    - Stat/Skill Enhancement: [Discipline](mechanics/discipline-and-inheritance.md#discipline), [Inheritance](mechanics/discipline-and-inheritance.md#Inheritance)  
+    - Stat/Skill Enhancement: [Discipline](mechanics/discipline-and-inheritance.md#discipline), [Inheritance](mechanics/discipline-and-inheritance.md#inheritance)  
     - [Merging Styles](mechanics/merging.md)  
     - [Class Change](./adventurer-customization/class-changes.md)  
     - **Raising Trust** - [Trust Guide](./mechanics/trust/trust.md), [Trust Dialogue Chart](./mechanics/trust/table.md)  

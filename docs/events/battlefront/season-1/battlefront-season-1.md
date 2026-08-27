@@ -53,7 +53,7 @@
 
 === "League Structure"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
     
     | League Name &emsp; &emsp;             | # of Combatants  | # of Rounds  | 
     |:-------------------------------------|:----------------:|:------------:|
@@ -142,7 +142,7 @@
 
     === "Table" 
 
-        <div class="nofilter-table nosort-table equipment-table" markdown>
+        <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
         | Requirement &emsp; &emsp; &emsp;    | Description          | Aspirant | Adept | Elite | Hero |
         |:----------------|:----------------------------------|--------- |-------|-------|------|
@@ -267,7 +267,7 @@
 
 === "Stat Gains per Level" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
     
     | Stat &emsp; &emsp; &emsp; | L1     | L2     | L3     | L4     | Totals  | 
     |:--------------------|--------|--------|--------|--------|---------|
@@ -282,7 +282,7 @@
 
 === "Max Level per League Entry Point"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | League Name &emsp; &emsp; &emsp;     | Aspirant | Adept | Elite | Hero | Max Level | Max # of Units | 
     |:-------------------------------------|:--------:|:-----:|:-----:|:----:|:---------:|:--------------:|
@@ -318,7 +318,7 @@
 
 === "League"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | League Name &emsp; &emsp; &emsp; &emsp;      | Rounds | Clear | Total | Cumulative |  
     |:-------------------------------------|--------|-------|-------|------------|
@@ -337,7 +337,7 @@
 
 === "Special" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | Requirement &emsp; &emsp; &emsp; &emsp;      | 1   | 2   | 3   | 4   | 5   | Total |  
     |:-------------------------------------|:---:|:---:|:---:|:---:|:---:|:-----:|
@@ -357,7 +357,7 @@
 
 === "Damage: One-Hit" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | Damage Required &emsp; &emsp; &emsp;          | Total   | Cumulative |  
     |:--------------------------------:|:-------:|:------------:|
@@ -383,7 +383,7 @@
 
 === "Damage: Total" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | Damage Required &emsp; &emsp; &emsp;                      | Total| Cumulative |  
     |:---------------------------------------:|:-------:|:------------:|
@@ -408,7 +408,7 @@
 
 === "Weekly" 
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | Requirement                             | Total| Cumulative |  
     |:----------------------------------------|:-------:|:------------:|
@@ -427,7 +427,7 @@
 
 === "All"
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | Major Achievement Category &emsp; &emsp; &emsp; &emsp; &emsp;                      | Total | 
     |:-----------------------------------|--------|
@@ -510,7 +510,7 @@
 
     === "How to Obtain"
 
-        <div class="nofilter-table nosort-table equipment-table" markdown>
+        <div class="nofilter-table nosort-table not-equipment-table" markdown>
     
         | Requirement                                     | #  | 
         |:------------------------------------|----|
@@ -548,7 +548,7 @@
 
 === "F2P Rewards"  
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
     
     | Category                            | Description                                                                    | 
     |:------------------------------------|--------------------------------------------------------------------------------|
@@ -573,7 +573,7 @@
 
 === "F2P Reward Milestones"  
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
 
     | Total Points Required &emsp; &emsp; &emsp;                      | F2P Reward | Mission Pass Reward | 
     |:--------------------------:|-------------------------------------|---------------------------------|
@@ -603,7 +603,7 @@
 
 === "Full rewards list"  
 
-    <div class="nofilter-table nosort-table equipment-table" markdown>
+    <div class="nofilter-table nosort-table not-equipment-table" markdown>
  
     | Total Points Required  &emsp; &emsp; &emsp; | F2P Reward                            | Mission Pass Reward                  |
     |:---------------------:| ------------------------------------- | ------------------------------------ |

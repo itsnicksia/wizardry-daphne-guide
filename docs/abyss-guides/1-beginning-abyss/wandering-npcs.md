@@ -58,8 +58,7 @@ This friendly little goblin wants to add to his shiny klink-klink collection.
 
 ## Ghreen Jelly  
 This non-hostile slime seems... hungry. What could go wrong?  
-<!-- FIXME: Get interaction photo from new player -->
-![](../../adventurer-customization/bondmates/beginning-abyss/img/image_68.jpg)  
+![](./img/a1-ghreen-jelly.jpg).
 ??? note "Details"  
     - Location: Mid-to-Lower Floors - B4F-B7F  
     - Interaction Options:  

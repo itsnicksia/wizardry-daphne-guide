@@ -21,6 +21,17 @@
     white-space: pre-line;
 }
 
+.md-typeset .not-equipment-table table th {
+    font-size: .70rem;
+    min-width: 0;
+    white-space: pre;
+}
+
+.md-typeset .not-equipment-table table td {
+    font-size: .70rem;
+    min-width: 0;
+    white-space: pre-line;
+}
 .md-typeset .char-traits-table table th,
 .md-typeset .char-traits-table table td {
     font-size: 0.85rem;

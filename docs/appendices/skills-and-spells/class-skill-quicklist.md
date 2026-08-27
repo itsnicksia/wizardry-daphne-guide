@@ -156,3 +156,35 @@
         | convert_to_md_table 
         | add_indentation(spaces=8) }}    
 
+    === "Dark Knight of Bastok"
+        {{ populate_quicklist(filter_values=['Dark Knight of Bastok'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Level'],
+        filter_column='Class')
+        | complete_unique_skills_list
+        | linkify_quicklist_skillnames(page.file.src_uri)
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }}    
+
+    === "Abhorrent One of Tavnazia"
+        {{ populate_quicklist(filter_values=['Abhorrent One of Tavnazia'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Level'],
+        filter_column='Class')
+        | complete_unique_skills_list
+        | linkify_quicklist_skillnames(page.file.src_uri)
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }}    
+
+    === "Priestess of the Far East"
+        {{ populate_quicklist(filter_values=['Priestess of the Far East'], 
+        file='unique-class-skills.csv',
+        return_columns=['Name','Level'],
+        filter_column='Class')
+        | complete_unique_skills_list
+        | linkify_quicklist_skillnames(page.file.src_uri)
+        | sort_mixed_values(sortcol="Level")
+        | convert_to_md_table 
+        | add_indentation(spaces=8) }}    
