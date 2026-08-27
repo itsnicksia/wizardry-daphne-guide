@@ -443,7 +443,9 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
         -  Low enhancement value blessings like SUR are sometimes altered later to replace a poorly rolled enhancement blessing because you're only losing a few points of SUR.
     - The [FFXI Relic Item Remake](/events/ffxi-fantasy-castle-of-deepest-dark/ffxi-fantasy-castle-of-deepest-dark-guide.md#relic-item-upgrade-strategy) feature alters tha statistics. If you have resources available, you maximize statistical control to maximize blessings with: multiple FAS first, alter any slot, then enhance/Remake/re-enhance until optimum is reached or you're out of resources.  It is unclear if this system will be applied to more item types in the future.  
 
-!!! tip "Typical FAS example: Master Figher's Ring"  
+#### Master Fighter's Ring Example  
+
+!!! tip "FAS example: Master Figher's Ring"  
 
     === "Procedures"
         Master Fighter's Ring - Ebonsteel, 4* Red, fixed at DEF/ACC/ATK%/ATK
@@ -457,7 +459,6 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
     
     === "Starting Ring"  
         ![](./img/MFR_base.jpg)  
-        credit: https://youtu.be/w8pNI4OCXT4  
     === "After FAS"  
         ![](./img/MFR_FAS.jpg)  
         credit: https://youtu.be/w8pNI4OCXT4  
