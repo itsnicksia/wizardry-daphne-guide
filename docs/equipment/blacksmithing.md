@@ -428,18 +428,38 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
     ![](img/fas-subject-2.jpg)
 
 #### Suggested FAS usage  
-- Using a L/FAS is a RNG gamble on whether or not they will improve your item. Blessing Types could be perfect or useless for the item/intended character. The rerolls could all be at the lowest or highest in the available range. As always, gamble at your own risk.  
-- It is highly suggested that FAS are saved only for your highest rarity items, for example certain extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
-- Alternatively, a L/FAS can give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).  
-- Much reroll risk is eliminated when used on items with unlocked Fixed Blessing Types:  
-    - Master Fighter Ring (or Thief, Mage, Knight / etc.). Relic Items from the Final Fantasy XI (FFXI) Event, Battlefront Arena Heavy Warblade of Honor (first two blessing slots), all have fixed blessing types with inital blessing values.  
-    - L/FAS use on these items has no risk of rolling bad blessing *types*, and just rerolling blessing values.  
-    - The re-roll is still RNG and can roll low.  
-    - An LFAS can be used to reroll low initial or milestone blessing rolls, potentially saving a low roll item.  
-    - A FAS always adds an extra blessing to each unlocked slot, so it will almost always provide some level of improvement.  
+
+!!! warning "Savor the Risk"  
+    - Using a L/FAS is a RNG gamble on whether or not they will improve your item.  
+    - Blessing Types could be perfect or useless for the item/intended character.  
+    - The rerolls could all be at the lowest or highest in the available range.  
+    - As always, only gamble with something you're comfortable losing.
+     
+- It is highly suggested that FAS are saved only for highest rarity items, for example extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
+- L/FAS can give another chance at better rolls on gear that has already been enhanced to +20 if the item has rolled poorly.  
+- Much reroll risk is eliminated when used on items with *unlocked Fixed Blessing Types*:  
+    - Master Fighter Ring (or Thief, Mage, Knight / etc.)
+    - Relic Items from the Final Fantasy XI (FFXI) Event
+    - Battlefront Arena Heavy Warblade of Honor (first two blessing slots)
+- L/FAS use on these items has zero risk of rolling bad blessing *types*, it just re-rolls values.
+    - The re-rolls are still RNG and can roll low.  
+    - An LFAS can reroll low initial or milestone blessing rolls, potentially saving a low roll item.  
+    - A FAS always adds a bonus blessing to each unlocked slot, and will almost always provide some level of improvement.  
     - You can L/FAS before or after enhancement. The totals achieveable are never decreased by this choice.  
-    - If you're willing to commit multiple FAS to maximize your blessings, the statistics of whether rerolling all stats with FAS after enhancement, or maximizing FAS first and then applying Milestone blessings separately is left as an exercise for the student.  
-    - If something like the FFXI Relic Item Remake option is available, and you have infinite resources available, your best statistical control is given by multiple FAS first then enhance/Remake/re-enhance.  It is unclear if this system will be applied to more item types in the future.  
+    - There is no statistical difference to rerolling all stats with one or multiple FAS either before or after enhancement.  
+    - If you must Alter a slot, then first FAS, then Alter, then Enhance so that the Milestone Blessing can be applied to the Altered slot. You can alter after enhancement, but the altered slot will not have a milestone blessing enhancement. (Low enhancemet value blessings like SUR are sometimes altered later to replace another poorly rolled blessing because you're only losing a few points of SUR.) 
+    - If something like the [FFXI Relic Item Remake](/events/ffxi-fantasy-castle-of-deepest-dark/ffxi-fantasy-castle-of-deepest-dark-guide.md#relic-item-upgrade-strategy) feature is available for your item, and you have infinite resources available, your best statistical control is given by multiple FAS first, then any alteration, then a cycle of enhance/Remake/re-enhance until optimum is reached or you're out of resources.  It is unclear if this system will be applied to more item types in the future.  
+
+!!! tip "Typical FAS example: Master Figher's Ring"  
+    Master Fighter's Ring - Ebonsteel, 4* Red, fixed at DEF/ACC/ATK%/ATK
+    
+    1. FAS the item (Reroll and apply bonus to all four blessings)  
+    2. Re-FAS as desired until happy with rolls. [See Initial+FAS Tables](equipment/blacksmithing.md#__tabbed_4_3)
+    2. Alter one slot (Typically DEF->ATK or DEF->SUR)  
+    3. Enhance to +20 (Apply Milestone blessing to each slot)
+    4. If unsatisfied with altered ATK slot, optionally alter to SUR
+    5. Use maximum Refine stones until satisfied.  (can be repeated forever as better stones are found)
+
 
 ## Composite Reinforcement  
 
