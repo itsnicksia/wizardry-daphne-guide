@@ -422,17 +422,12 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
 - A SECOND FAS used on the same item starts over on step 1. Multiple FAS use does not continually add additional FAS bonus blessings.
 - As of Update 1.12.1, Lesser Full Alteration Stones (LFAS) have been added.  LFAS act the same as FAS except they do not apply the FAS bonus blessing.  They drop more frequently than Full Alteration Stones, but are still quite rare.  They are useful for rerolling items with low base and enhancement rolls when a FAS isn't warranted.
  
-!!! note "Example 1: Using One Full Alter Stone"
-    ![](img/fas-subject-1.jpg)
+??? note "Visual Example - Full Alteration Stone Usage"
+    === Using One Full Alter Stone"
+        ![](img/fas-subject-1.jpg)
 
-!!! note "Example 1: Using Two Full Alter Stones"
-    ![](img/fas-subject-2.jpg)
-
-!!! warning "Savor the Risk"  
-    - Using a L/FAS is a RNG gamble on whether or not they will improve your item.  
-    - Blessing Types could be perfect or useless for the item/intended character.  
-    - The rerolls could all be at the lowest or highest in the available range.  
-    - As always, only gamble with something you're comfortable losing.
+    === "Using Two Full Alter Stones"
+        ![](img/fas-subject-2.jpg)
 
 #### Suggested FAS usage  
 - Save FAS for highest rarity items, for example extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
@@ -471,6 +466,12 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
     === "After Refinement (done)"
         ![](./img/MFR_FAS_Alter_Enh_Refine.jpg)
 
+!!! warning "Savor the Risk"  
+    - Using a L/FAS is a RNG gamble on whether or not they will improve your item.  
+    - Blessing Types could be perfect or useless for the item/intended character.  
+    - The rerolls could all be at the lowest or highest in the available range.  
+    - As always, only gamble with something you're comfortable losing.  
+    
 ## Composite Reinforcement  
 
 !!! warning "ABYSS 4 WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
