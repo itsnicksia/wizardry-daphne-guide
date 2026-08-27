@@ -398,7 +398,7 @@ Only the star quality of an item being extracted determines the blessing magnitu
 
 A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on an item.
 
-!!! note "Known Ways to Obtain"
+!!! note "How to Obtain"
     - Very VERY rare chance from extracting ANY grade/quality gear.
     - Can be purchased from the monthly pack: ^^Jeweler Curated Collection Set^^ for 74.99 USD.
     - Occasionally appear in Limited-Time Offers as an exclusive sale item in packs during events.
@@ -407,19 +407,20 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
         - Old Castle Ruins Event Shop for 10,000 event tokens.
         - FFXI Collaboration Event rare mining reward.
     
-#### FAS effects:
-- A FAS re-rolls all blessings currently unlocked on an item.  
-    - Blessing types are re-rolled subject to the same RNG as when the item is first found or on milestone enhancement.  
-    - Any effects of previous alteration or refinement stones are removed.  
-        - If prior alteraion 'locked' the slot of any future alteration, it is unlocked and any slot can be altered again.  
-    - The values of any unlocked blessings are rerolled:  
-        - Any Initial Blessing values the item started with (for Green, Blue, and Red Grade items) are rerolled.  
-        - Any blessing [Milestone Enhancement](#enhance) that has already been received for enhancing an item to +5/10/15/20 is rerolled and included in the blessing total.  (There is no penalty or loss of 'potential blessing range' for using a FAS on already enhanced items.)  
-    - A FAS *also applies a bonus blessing amount to each unlocked blessing* whose value is in the same range as that received for Milestone enhancement. This FAS Bonus Blessing allows gear to gain blessings significantly higher than otherwise possible.  
-    - Range of possible blessing values for all of these blessing components are tabulated in [the potential blessing ranges tables above](#blessing-range-tables).  
-    - Re-rolled blessing totals are therefore typically the sum of multiple blessing rolls (e.g., Initial Blessing, Milestone Blessing, FAS Bonus) and so are statistically weighted toward the middle of the ranges given in the [blessing ranges tables](#blessing-range-tables).   
-- Using a SECOND FAS on the same item repeats the process - it re-rolls all blessings types using those available for that item, resets the available alteration slot, and (remembering which slots should get Initial and Milestone Blessings) re-rolls those values. The re-roll will only include one FAS Bonus Blessing, multiple FAS use does not continually add more.  
-- As of Update 1.12.1, Lesser Full Alteration Stones (LFAS) have been added.  LFAS act the same as FAS except they do not apply a bonus blessing.  They drop more frequently than Full Alteration Stones, but are still quite rare.  
+#### FAS effects:  
+1. All unlocked blessing types are re-rolled (RNG from [item-type possibilities](#__tabbed_1_3)).  
+2. Any previous alteration or refinement stone effects are removed.  
+    - Any 'locked' alteration slot is unlocked.  
+3. Unlocked blessings are all rerolled:  
+    - Any blessings that had Initial Blessing values (for Green, Blue, and Red Grade items) are rerolled.  
+    - Any blessings increased through [Milestone Enhancement](#enhance) (received for enhancing an item to +5/10/15/20) are rerolled and included in the blessing total.  
+        - No loss of 'potential blessing range' for using a FAS on already enhanced items.  
+4. A FAS *applies a bonus blessing amount* to each unlocked blessing.  Bonus value is the same range as for Milestone enhancement. This FAS Bonus Blessing allows gear to gain blessings significantly higher than otherwise possible.  
+
+- Blessing value ranges are tabulated in [the potential blessing ranges tables above](#blessing-range-tables).  
+- Re-rolled blessing totals are sums of multiple blessing rolls and will average toward the middle of the ranges shown in the [blessing ranges tables](#blessing-range-tables).   
+- A SECOND FAS used on the same item starts over on step 1. Multiple FAS use does not continually add additional FAS bonus blessings.
+- As of Update 1.12.1, Lesser Full Alteration Stones (LFAS) have been added.  LFAS act the same as FAS except they do not apply the FAS bonus blessing.  They drop more frequently than Full Alteration Stones, but are still quite rare.  They are useful for rerolling items with low base and enhancement rolls when a FAS isn't warranted.
  
 !!! note "Example 1: Using One Full Alter Stone"
     ![](img/fas-subject-1.jpg)
@@ -427,28 +428,25 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
 !!! note "Example 1: Using Two Full Alter Stones"
     ![](img/fas-subject-2.jpg)
 
-#### Suggested FAS usage  
-
 !!! warning "Savor the Risk"  
     - Using a L/FAS is a RNG gamble on whether or not they will improve your item.  
     - Blessing Types could be perfect or useless for the item/intended character.  
     - The rerolls could all be at the lowest or highest in the available range.  
     - As always, only gamble with something you're comfortable losing.
-     
-- It is highly suggested that FAS are saved only for highest rarity items, for example extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
-- L/FAS can give another chance at better rolls on gear that has already been enhanced to +20 if the item has rolled poorly.  
-- Much reroll risk is eliminated when used on items with *unlocked Fixed Blessing Types*:  
-    - Master Fighter Ring (or Thief, Mage, Knight / etc.)
-    - Relic Items from the Final Fantasy XI (FFXI) Event
-    - Battlefront Arena Heavy Warblade of Honor (first two blessing slots)
-- L/FAS use on these items has zero risk of rolling bad blessing *types*, it just re-rolls values.
-    - The re-rolls are still RNG and can roll low.  
-    - An LFAS can reroll low initial or milestone blessing rolls, potentially saving a low roll item.  
-    - A FAS always adds a bonus blessing to each unlocked slot, and will almost always provide some level of improvement.  
+
+#### Suggested FAS usage  
+- Save FAS for highest rarity items, for example extremely strong gacha equipment like Blade Cuisinart and Silver hairpin.  
+- L/FAS can save gear that has already been enhanced to +20 but rolled poorly.  
+- Use on items with *unlocked Fixed Blessing Types* to eliminated belssing-type risk:  
+    - Master Rings (Fighter, Thief, Mage, Knight / etc.)  
+    - Relic Items from the Final Fantasy XI (FFXI) Event  
+    - Battlefront Arena Heavy Warblade of Honor (first two blessing slots)  
+- L/FAS use on these items just re-rolls values, a FAS almost always provides some level of improvement.  
+    - *The re-rolls are still RNG and can roll low*.  
     - You can L/FAS before or after enhancement. The totals achieveable are never decreased by this choice.  
-    - There is no statistical difference to rerolling all stats with one or multiple FAS either before or after enhancement.  
-    - If you must Alter a slot, then first FAS, then Alter, then Enhance so that the Milestone Blessing can be applied to the Altered slot. You can alter after enhancement, but the altered slot will not have a milestone blessing enhancement. (Low enhancemet value blessings like SUR are sometimes altered later to replace another poorly rolled blessing because you're only losing a few points of SUR.) 
-    - If something like the [FFXI Relic Item Remake](/events/ffxi-fantasy-castle-of-deepest-dark/ffxi-fantasy-castle-of-deepest-dark-guide.md#relic-item-upgrade-strategy) feature is available for your item, and you have infinite resources available, your best statistical control is given by multiple FAS first, then any alteration, then a cycle of enhance/Remake/re-enhance until optimum is reached or you're out of resources.  It is unclear if this system will be applied to more item types in the future.  
+    - If you must Alter a slot: First FAS, then Alter, then Enhance. This allows a Milestone Blessing to be applied to the Altered slot. Altering after enhancement will not benefit from milestone blessing enhancement.  
+        -  Low enhancement value blessings like SUR are sometimes altered later to replace a poorly rolled enhancement blessing because you're only losing a few points of SUR.
+    - The [FFXI Relic Item Remake](/events/ffxi-fantasy-castle-of-deepest-dark/ffxi-fantasy-castle-of-deepest-dark-guide.md#relic-item-upgrade-strategy) feature alters tha statistics. If you have resources available, you maximize statistical control to maximize blessings with: multiple FAS first, alter any slot, then enhance/Remake/re-enhance until optimum is reached or you're out of resources.  It is unclear if this system will be applied to more item types in the future.  
 
 !!! tip "Typical FAS example: Master Figher's Ring"  
 
@@ -469,9 +467,9 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
     === "After Alter"
         ![](./img/MFR_FAS_Alter.jpg)
     === "After +20 Enhancement"
-        ![](./img/MFR_FAS_ALter_Enh.jpg)
+        ![](./img/MFR_FAS_Alter_Enh.jpg)
     === "After Refinement (done)"
-        ![](./img/MFR_FAS_ALter_Enh_Refine.jpg)
+        ![](./img/MFR_FAS_Alter_Enh_Refine.jpg)
 
 ## Composite Reinforcement  
 
