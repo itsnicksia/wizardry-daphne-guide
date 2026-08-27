@@ -1,7 +1,8 @@
-!!! warning "4/28 Update"
+!!! warning "Trust Mechanics with 4/28 Update"
 
-    === "What is it?"
-        - The 4/28 update added an RNG element to the Trust system. When a unit is first pulled a RNG roll is made, which can add or substract Trust points from a unit's starting value. 
+    === "What was altered?"
+
+        - The 4/28 update added an RNG element to the Trust system. When a unit is first pulled, a RNG roll is made which can add or substract Trust points from a unit's starting value. 
         - The new system only applies to units pulled after the patch. Registered units are not affected.   
         - Example
             - Starting Trust: 50
@@ -28,9 +29,8 @@
 
 === "What is a Trait Bondmate?" 
 
-    - <span style="color: LimeGreen">All adventurers can become bondmates ("trait bondmates") if they are dismissed after reaching flaming-heart status</span>.
-    - Trait bondmates are -not- the same as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
-    - Trait bondmates help to augment your units since story bondmates are limited. 
+    - <span style="color: LimeGreen">Any adventurer can become a bondmate ("trait bondmates") if they are dismissed after reaching flaming-heart status.</span>.
+    - Trait bondmates differ from story bondmates. Trait Bondmates increase base traits while the Story Bondmates increase derived stats such as Attack Power, Accuracy, etc. Trait Bondmates offer general augmentation to the units while story bondmates have a more specified use.
     - Equipped from the Training Room - Bondmates menu. 
     
 === " Bondmate Levels" 
@@ -90,7 +90,7 @@
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip. Melgina is safer for low HP units.
             - The unit does not need to survive the fight, but it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing a GWO more than once does -not- give you extra trust</span>.
-        - Trust farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
+        - [Trust](../../mechanics/trust/trust.md) Farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
 
     === "Alternative Method" 
 
