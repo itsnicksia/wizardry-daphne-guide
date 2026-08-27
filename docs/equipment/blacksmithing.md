@@ -455,16 +455,21 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
         4. If unsatisfied with altered ATK slot, optionally alter to SUR
         5. Use maximum Refine stones until satisfied.  (can be repeated forever as better stones are found)
     
-    === "Starting Ring"
-        ![](./img/MFR_base.jpg)
-    === "After FAS"
-        ![](./img/MFR_FAS.jpg)
-    === "After Alter"
-        ![](./img/MFR_FAS_Alter.jpg)
-    === "After +20 Enhancement"
-        ![](./img/MFR_FAS_Alter_Enh.jpg)
-    === "After Refinement (done)"
-        ![](./img/MFR_FAS_Alter_Enh_Refine.jpg)
+    === "Starting Ring"  
+        ![](./img/MFR_base.jpg)  
+        credit: https://youtu.be/w8pNI4OCXT4  
+    === "After FAS"  
+        ![](./img/MFR_FAS.jpg)  
+        credit: https://youtu.be/w8pNI4OCXT4  
+    === "After Alter"  
+        ![](./img/MFR_FAS_Alter.jpg)  
+        credit: https://youtu.be/w8pNI4OCXT4  
+    === "After +20 Enhancement"  
+        ![](./img/MFR_FAS_Alter_Enh.jpg)  
+        credit: https://youtu.be/w8pNI4OCXT4  
+    === "After Refinement (done)"  
+        ![](./img/MFR_FAS_Alter_Enh_Refine.jpg)  
+        credit: https://youtu.be/w8pNI4OCXT4  
 
 !!! warning "Savor the Risk"  
     - Using a L/FAS is a RNG gamble on whether or not they will improve your item.  
