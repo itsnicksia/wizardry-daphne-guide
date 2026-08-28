@@ -253,12 +253,12 @@
 | Count Bifrons | |
 | Viscount Morax | Summons Water Entity |
 | Baronet Romwe | |
-| Duke Haborym | |
+| Duke Haborym | Debuff you, Self Buff |
 | Marquis Amon | |
-| Marquis Sabnock| |
-| Marquis Allocen | |
+| Marquis Sabnock| Melee attack "Quadstrike" |
+| Marquis Allocen | Self Buff and strong melee attack |
 | Grand Duke Batym | Summons Water and Light Entities |
-| Baron Vapula | |
+| Baron Vapula | Crit Poison, Sleep, and AOE spell |
 | Marquis Naberius | |
 </div>
 
