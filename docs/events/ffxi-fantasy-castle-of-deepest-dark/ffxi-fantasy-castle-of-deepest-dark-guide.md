@@ -240,6 +240,7 @@
   
 ### Notorious Monsters  
 ![](./img/notorious-monster.jpg) ![](./img/notorious-monster-fight.jpg)   
+
 - There are a number of unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
 - These Demons are much more powerful than the random wandering Kindred demons. They are individually named, and each has slightly different combat behaviors. (more details pending)  
     - All of them have high speed, a large HP pool, can start the combat with multiple attacks, and can cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
