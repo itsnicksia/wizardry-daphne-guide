@@ -207,7 +207,7 @@
     
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Skil<br>Level | Yekaterina<br>Rate | Other<br>rate|
+    | Skill<br>Level | Yekaterina<br>Rate | Other<br>rate|
     |:--:|:-----:|:----:|
     | 0  |  0%   |  0%  |
     | 1  |  33%  |  16% |
