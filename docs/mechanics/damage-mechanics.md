@@ -137,65 +137,65 @@ The following table summarizes attack advantage/disadvantage and stacking.
 
 <div class="nosort-table nofilter-table">
 
-<table style="text-align: center;">
+<table>
     <tr>
         <th colspan=3>Attack Advantage?</th>
         <th colspan=3>Stacked Effect?</th>
-        <th></th>
+        <th style="text-align: center;"></th>
     </tr>
     <tr>
-        <th>Attack Element vs Enemy</th>
-        <th>Type</th>
-        <th>Amount</th>
-        <th>Attacker Element vs Attack Element</th>        
-        <th>Type</th>
-        <th>Amount</th>
-        <th>NET ADVANTAGE</th>
+        <th style="text-align: center;">Attack Element vs Enemy</th>
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Amount</th>
+        <th style="text-align: center;">Attacker Element vs Attack Element</th>        
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Amount</th>
+        <th style="text-align: center;">NET ADVANTAGE</th>
     </tr>
     <tr>
-        <td>Strong</td>
-        <td>Advantage</td>
-        <td>+30%</td>
-        <td>Same as attack</td>
-        <td>Positive</td>
-        <td>+30%</td>
-        <td>+60%</td>
+        <td style="text-align: center;">Strong</td>
+        <td style="text-align: center;">Advantage</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">Same as attack</td>
+        <td style="text-align: center;">Positive</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">+60%</td>
     </tr>
     <tr>
-        <td>Strong</td>
-        <td>Advantage</td>
-        <td>+30%</td>
-        <td>Weak to attack</td>
-        <td>Negative</td>
-        <td>-20%</td>
-        <td>+10%</td>
+        <td style="text-align: center;">Strong</td>
+        <td style="text-align: center;">Advantage</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">Weak to attack</td>
+        <td style="text-align: center;">Negative</td>
+        <td style="text-align: center;">-20%</td>
+        <td style="text-align: center;">+10%</td>
     </tr>
     <tr>
-        <td>Strong</td>
-        <td>Advantage</td>
-        <td>+30%</td>
-        <td>Other</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>+30%</td>
+        <td style="text-align: center;">Strong</td>
+        <td style="text-align: center;">Advantage</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">Other</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">+30%</td>
     </tr>
     <tr>
-        <td>Weak</td>
-        <td>Disadvantage</td>
-        <td>-30%</td>
-        <td>Any</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>0%</td>
+        <td style="text-align: center;">Weak</td>
+        <td style="text-align: center;">Disadvantage</td>
+        <td style="text-align: center;">-30%</td>
+        <td style="text-align: center;">Any</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">0%</td>
     </tr>
     <tr>
-        <td>Neutral</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>Any</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>0%</td>
+        <td style="text-align: center;">Neutral</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">Any</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">0%</td>
     </tr>
 </table>
 
