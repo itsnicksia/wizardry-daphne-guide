@@ -199,13 +199,13 @@ The following table summarizes attack advantage/disadvantage and stacking.
 </div>
 
 ### Armor type effects
-Players can find armor that provide extra protection against certain element type attacks.  This will be noted in the item traits list as, for example, "Earth Type Reduction". Each piece of armor adds a 15% reduction in damage from that type of attack.  Equipping multiple pieces of the same type will stack. In most cases Head, Body, and Accessory pieces of particular types are available, allowing for up to 45% type damage reduction from the armor.  This will stack any ally type damage reduction effects, and can help offset any attack type damage increases.
+Some armor can provide extra protection against certain element type attacks.  This will be noted in the item traits list as, for example, "Earth Type Reduction". Each piece of armor adds a 15% reduction in damage from that type of attack.  Equipping multiple pieces of the same type will stack. In most cases Head, Body, and Accessory pieces of particular types are available, allowing for up to 45% type damage reduction from the armor.  
 
 Absent other damage effects, the net damage effect can be estimated as:
 
 `"Base damage" x "Attack advantage factor" x "Damage reduction factor"`
 
-Example 1: A water-type attack against an 
+Example - A water-type attack against an ally with different types and armor:
 
 | Attack Type | Ally Type | Element Armor? | Net Damage % |
 |---|---|---|---|
@@ -214,7 +214,7 @@ Example 1: A water-type attack against an
 | Water | Earth (strong) | 3 Earth | 100% x (100% - 30% - 3x15%) = 25% |
 | Water | Fire (weak) | 2 Earth | 100% x 130% x (100% - 2x15%) = 91% |
 
-As can be seen above, a few well-chosen armor pieces can significantly increase type-disadvantaged ally survivability. 
+As can be seen above, a few well-chosen armor pieces can significantly help type-disadvantaged ally survivability. 
 
 ## Status Affliction Modifiers
 There are two status afflictions that currently allow you to deal increased damage.
