@@ -241,11 +241,25 @@
 ### Notorious Monsters  
 ![](./img/notorious-monster.jpg) ![](./img/notorious-monster-fight.jpg)   
 
-- There are a number of unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
-- These Demons are much more powerful than the random wandering Kindred demons. They are individually named, and each has slightly different combat behaviors. (more details pending)  
-    - All of them have high speed, a large HP pool, can start the combat with multiple attacks, and can cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
-    - Some will be alone, others will start with several regular mobs, others can summon other monsters and entities throughout the fight.  
+- There are 10 unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
+- NM are much more powerful than the wandering Kindred demons. They are individually named (apparently they are royalty) and each has slightly different combat behaviors. 
+- All NM have a large HP pool, start the combat with multiple attacks, and can cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
+- Some will be alone, others will start with several regular mobs, others can summon other monsters and entities throughout the fight.  
 - Defeated NMs always leave a chest and have a high chance of dropping [Attestation or Fragment relic materials](#relic-equipment-and-materials).  
+
+| Notorious Monster| Details |
+|---|---|
+| Count Bifrons | |
+| Viscount Morax | |
+| Baronet Romwe | |
+| Duke Haborym | |
+| Marquis Amon | |
+| Marquis Sabnock| |
+| Marquis Allocen | |
+| Grand Duke Batym | |
+| Baron Vapula | |
+| Marquis Naberius | |
+
 
 #### Potential Spawning Locations 
 
