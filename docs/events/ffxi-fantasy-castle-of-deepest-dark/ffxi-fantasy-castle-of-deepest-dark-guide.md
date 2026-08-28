@@ -251,13 +251,13 @@
 | Notorious Monster| Details |
 |---|---|
 | Count Bifrons | |
-| Viscount Morax | |
+| Viscount Morax | Summons Water Entity |
 | Baronet Romwe | |
 | Duke Haborym | |
 | Marquis Amon | |
 | Marquis Sabnock| |
 | Marquis Allocen | |
-| Grand Duke Batym | |
+| Grand Duke Batym | Summons Water and Light Entities |
 | Baron Vapula | |
 | Marquis Naberius | |
 </div>
