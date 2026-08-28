@@ -238,7 +238,7 @@
         - They will always drop some [Necropsyche (lantern) relic materials](#relic-equipment-and-materials).  
         - There is a [Tonberry King](#tonberry-king) that can be fought once certain conditions are met.
 
-### Enemy behavior changes  
+### Event mob behavior changes  
 Mobs in this event behave differently than monsters elsewhere in the game. It is still unclear how much of this is intentional design behavior.  
 
 1. Always Visible: Unlike other areas, you don't need to 'Detect' monsters to see them in front of you. You do need to see them once for their Green/Red arrow to appear on your mini-map.
@@ -768,7 +768,7 @@ One notable thing is that while real players can fulfill your requests, there ar
     - Scroll of Instant Blizzaga: deals minor untyped damage to 1 enemy row with a chance to inflict Chill.
 - The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade and main story progress.  
 - Chests can spawn pretty much anywhere on each zone 1-5, here are no predictable enemy-free chest grab areas.
-- For farming chests from enemies, the most fights can predictably be found in the two big rooms at the bottom of Zone 5.  You can leverage the event's mob aggro behavior and the Conga line approach described above to quickly and safely dispatch the large number of enemies in both rooms.  This is best done using the long hallways leading north from each room.  
+- For farming chests from enemies, the most fights can predictably be found in the two big rooms at the bottom of Zone 5.  You can leverage the event's [mob aggro behavior and the Conga line approach described above](#event-mob-behavior-changes) to quickly and safely dispatch the large number of enemies in both rooms.  This is best done using the long hallways leading north from each room.  
   
 ### Bondmates  
 
