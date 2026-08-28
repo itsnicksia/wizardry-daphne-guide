@@ -247,6 +247,7 @@
 - Some will be alone, others will start with several regular mobs, others can summon other monsters and entities throughout the fight.  
 - Defeated NMs always leave a chest and have a high chance of dropping [Attestation or Fragment relic materials](#relic-equipment-and-materials).  
 
+<div class="nofilter-table nosort-table" markdown>
 | Notorious Monster| Details |
 |---|---|
 | Count Bifrons | |
@@ -259,7 +260,7 @@
 | Grand Duke Batym | |
 | Baron Vapula | |
 | Marquis Naberius | |
-
+</div>
 
 #### Potential Spawning Locations 
 
