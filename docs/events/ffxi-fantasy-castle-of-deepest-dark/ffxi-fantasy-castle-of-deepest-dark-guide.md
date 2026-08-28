@@ -233,10 +233,40 @@
     - Tonberry:
         - Tonberrys are small, light-type green creatures in robes carrying a knife and lantern.  
         - They can appear alone, in groups of three, or with other regular monsters.  
-        - They have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack.
-        - They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x).  By the end of the event you should expect the counterattack to 1-shot kill any ally of any level.  
+        - They have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating 'throat stab' attack that can Critical hit.
+        - They also have a counterattack called *Everyone's Grudge*.  It has a chance of reacting to any PHYSICAL MELEE attack.  Damage increases with the number of Tonberry's you have ever killed (~17x).  By the end of the event the counterattack can easily 1-shot kill any ally of any level.  
         - They will always drop some [Necropsyche (lantern) relic materials](#relic-equipment-and-materials).  
-        - There is a Tonberry King that can be fought once certain conditions are met. (more info pending).  
+        - There is a [Tonberry King](#tonberry-king) that can be fought once certain conditions are met.
+
+### Tonberry King  
+(added along with the update for the 3rd run)  
+
+![](./img/king-tonberry.jpg)  
+
+- After defeating a certain number of Tonberries (~10-15) the Tonberry King may come looking for you.  
+- You can first encounter him in the Top Right area of Zone 5 (reached by Left teleporter).  
+- The first 2-3 times you encounter him in this area, there will be a brief cut scene where Lulu warns you about dangerous enemies. (Cutscene can be re-triggered just by leaving/returning.)  
+- Then he will attack you.  
+    - Tonberry King has very high HP (~80-100k for Lev 70 players). It is not known if he is level scaled.  
+    - He will summon additional Tonberrys and demons with the standard range of attacks and behaviors.  
+    - He will also react to melee attacks with *Everyone's Grudge* counter.  
+    - He is more resistant to Sleep and Stun than regular Tonberries, but is not immune. He will remove Spellbind after one turn but it can be reapplied.  
+    - The battle ends as soon as you have killed the Tonberry King, you do not need to kill the summons.
+    - It is suggested not to fight him until just after you have [reset Everyone's Grudge](#everyones-grudge-reset) to make that attack a non-issue.  
+    - Reward:  Tonberry King will drop a chest with Junk, Necropsyche, and event ring items.  Unclear if any is of quality more noteworthy than other drops.  
+- After you have defeated him once, he will reappear randomly throughout the castle after a 24hr cooldown.  
+    - Cooldown is timed from your last battle.  
+    - He moves each day but his location is the same for everyone so you can use discord/forums to find his location.  
+
+#### Everyone's Grudge Reset
+(added along with the update for the 3rd run)  
+
+![](./img/stationary-tonberry.jpg)  
+- After killing a certain number of Tonberry, a fixed-location Tonberry NPC (just named Stationary Tonberry) appears in Zone 5 right next to the Zone 6 stairs.  
+- The Stationary Tonberry complains about untrustworthy people and offers to purge you of 'rancor'.  
+- He ask you for a variable amount of event currency (Gil), proportional to the number of tonberry you've killed.  
+- Paying the ransom will reset *Everyone's Grudge* to zero.  
+- The Stationary Tonberry leaves after payment. It is reported that he can return after you have killed a certain number of additional Tonberry.  
   
 ### Notorious Monsters  
 ![](./img/notorious-monster.jpg) ![](./img/notorious-monster-fight.jpg)   
@@ -283,6 +313,7 @@
 === "Zone 5" 
 
     ![](./img/Zone 5 - NM.png)
+
 
 ## Event Missions.  
 Just like most other events special missions let you earn points and rewards. It takes 600 points for a full mission clear.  
