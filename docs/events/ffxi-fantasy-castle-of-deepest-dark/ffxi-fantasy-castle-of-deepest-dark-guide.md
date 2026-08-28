@@ -254,7 +254,7 @@
 | Viscount Morax | Summons Water Entity |
 | Baronet Romwe | |
 | Duke Haborym | Debuff you, Self Buff |
-| Marquis Amon | |
+| Marquis Amon | Single target and AOE spells |
 | Marquis Sabnock| Melee attack "Quadstrike" |
 | Marquis Allocen | Self Buff and strong melee attack |
 | Grand Duke Batym | Summons Water and Light Entities |
