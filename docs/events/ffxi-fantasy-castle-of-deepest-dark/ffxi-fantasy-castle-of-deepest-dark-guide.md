@@ -674,24 +674,26 @@ One notable thing is that while real players can fulfill your requests, there ar
 ![](./img/bots.jpg)
 
 ## Farming
-(Work in Progress)
   
 ### Mining for Ore  
 
-- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items for 100gp.  There will also be Golden Pickaxes in the Jeweler Exchange for 500 Gil.  
-- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. Black formations are 'dead' and cannot be mined. See locations on the Maps below. You will almost always get one type of ore/stone and one type of sellable each mining attempt.  
-- After a certain number of mining attemptes, the rock formation will 'shatter' and be 'dead' for the rest of that time in the dungeon. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
-- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, and they do cost event currency (500 Gil), but they produce 3x the mining return per use.
-- Mining products:
+- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point the item shop in town will sell you pickaxes under Consumable items for 100gp.  There will also be Golden Pickaxes in the Jeweler Exchange for 500 Gil.  
+- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. Black formations are 'dead' and cannot be mined. See Mining Maps below.  
+- The rock formation will 'shatter' after a few mining attempts. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
+- Pickaxes break every 1-4 uses.  Golden pickaxes don't last any longer but they produce 3x the mining return per use.  
+- You will always get one type of ore/stone and one type of sellable each mining attempt:  
     - Enhancement ore: low, mid, high, fine, and silver grade  
     - Ouroboros Ore (see Relic Material list above)  
-    - Alteration and refinement stones (includig LFAS / FAS) ranging from 1-5 star quality.
-    - Sellables: mainly translucent gems
-- Tips:
-    - Mining products are not limited by player progress or rank. This is one of the few free-to-play ways in the game to get early access to higher levels of ore than you can normally find. This is especially valuable if you are trying to Reforge Relic items to material Ranks higher tha your current main story progress allows.  
-    - Keeping a supply of Mining Pickaxes in storage lets you quickly refill from the inventory screen outside the castle without heading back to town.
-    - At least at the start while you're still accumulating currency, it's probably best to just stick to loading up on as many regular pickaxes as you can carry.  Later, after you have cleared out the Exchnage shop, you can splurge on the Golden ones to triple your mining output.
-    - There are several locations with one or two mining spots and no mobs near entrances and Harkens (Zone 1 Main entrance , Zone 2-5 Harkens). If you want to do nothing but mine, you can repeatedly jump in and out of those locations to mine when they refresh.  
+    - Alteration and refinement stones (includig *very rare* LFAS / FAS) ranging from 1-5 star quality.  
+    - Sellables: mainly translucent gems  
+- Tips:  
+    - Mining products are not limited by player progress or rank.  
+        - This is *one of the few free-to-play ways in the game to get early access to higher levels of ore* than you can normally find.  
+        - This is especially valuable if you are Reforging Relic items to material Ranks higher than your current main story progress allows, and your high-level ore access is limited.  
+        - LFAS and FAS are very rare, but this is one of the only practical ways to farm them in the game.  
+    - Keep Mining Pickaxes in storage to quickly refill from the inventory screen outside the castle without heading back to town.  
+    - At the start it's probably best to stick to as many regular pickaxes as you can carry.  Later, after cleared out the Exchnage shop, switch to Golden ones to triple your mining output. (Farm Gil by [exchanging Relic materials back and forth at the Trader](#material-trading).)  
+    - You can jump between Zone 2, 4, an 5 for enemy-free mining spots by the Harkens. Set check marks next to the spots, and you can quickly auto-walk and auto-exit through the set.  
 
 ??? map "Mining Maps"
     Mining locations marked with checkmarks below.
