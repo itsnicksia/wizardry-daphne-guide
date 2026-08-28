@@ -180,8 +180,8 @@
 
 ## Rewards
 
-- Completing the 2nd and 3rd runs with any crystals and having saved any of the three friends will reward you with [bondmates](#bondmates).  
-- Behind the brothers on the altar there is a Bracelet of Hatred that can be farmed. This particular bracelet is fixed 3\* Blue, unlike those from random chest drops that can appear up to 5\* red.  
+1. Completing the 2nd and 3rd runs with any crystals and having saved any of the three friends will reward you with [bondmates](#bondmates).  
+2. Behind the brothers on the altar there is a Bracelet of Hatred that can be farmed. This particular bracelet is fixed 3\* Blue, unlike those from random chest drops that can appear up to 5\* red.  
     
 ??? map "Bracelet of Hatred detail and location"  
 
@@ -222,13 +222,14 @@
     ![](./img/goblins-abode.jpg)
 
 ## Enemies  
-- Enemies in the Castle to scale with player level/grade.  
-- A mix of traditional monsters include Goblins, Hobgoblins, Slimes, and Rabbits in rhe Entrance region.  Undead skeletons and specters also appear inside the castle.  
+- Enemies in the Castle do scale with player level/grade.  
+- A mix of traditional monsters include Goblins, Hobgoblins, Slimes, and Rabbits in the Entrance region.  Undead skeletons and wights also appear inside the castle.  
 - New enemies include Kindred Demons and Tonberry.  
     - Kindred Demons:  
-        - Considered a different race than traditional Demons, they are not affected by regular demon-slayer weapons or demon-resistant armor.  They are all dark-type and respond as expected to dark and light type attacks and allies. See Type Advantage, Disadvantage, and Armor Modifiers.  
+        - Considered a different race than traditional Demons, they are not affected by regular demon-slayer weapons or demon-resistant armor.
+        - They are all dark-type and respond as expected to dark and light type attacks and allies. See [Type Advantage, Disadvantage, and Armor Modifiers](/mechanics/damage-mechanics.md#type-advantage-disadvantage-and-armor-modifiers).  
         - There are several classes and varieties of Kindred demons.  The stronger types have glowing purple chests. Additionally the Warlocks carry staves while the others carry weapons.  
-        - Among the Kindred Demons there are special minibosses called [Notorious Monsters](#notorious-monsters) that appear as non moving demons in the dungeon.  
+        - Among the Kindred Demons are special minibosses called [Notorious Monsters](#notorious-monsters) that appear as non moving demons in the dungeon.  
     - Tonberry:
         - Tonberrys are small, light-type green creatures in robes carrying a knife and lantern.  
         - They can appear alone, in groups of three, or with other regular monsters.  
@@ -238,7 +239,7 @@
         - There is a Tonberry King that can be fought once certain conditions are met. (more info pending).  
   
 ### Notorious Monsters  
-
+![](./img/notorious-monster.jpg) ![](./img/notorious-monster-fight.jpg)   
 - There are a number of unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
 - These Demons are much more powerful than the random wandering Kindred demons. They are individually named, and each has slightly different combat behaviors. (more details pending)  
     - All of them have high speed, a large HP pool, can start the combat with multiple attacks, and can cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
