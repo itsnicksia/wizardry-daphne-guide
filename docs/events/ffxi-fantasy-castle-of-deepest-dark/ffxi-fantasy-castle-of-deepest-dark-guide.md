@@ -238,6 +238,38 @@
         - They will always drop some [Necropsyche (lantern) relic materials](#relic-equipment-and-materials).  
         - There is a [Tonberry King](#tonberry-king) that can be fought once certain conditions are met.
 
+### Enemy behavior changes  
+Mobs in this event behave differently than monsters elsewhere in the game. It is still unclear how much of this is intentional design behavior.  
+
+1. Always Visible: Unlike other areas, you don't need to 'Detect' monsters to see them in front of you. You do need to see them once for their Green/Red arrow to appear on your mini-map.
+3. Chain Aggro: Normally you need to be line of sight for any monster to go red.  Now if one monster sees you and goes red, others nearby may go red even if they cannot see you, and they will also pursue you.
+4. Extended Pursuit: Most monsters will pursue you far outside their spawn area as long as they can see you. This can continue if you break line of sight but are still close. You may need to get quite some distance from a monster to break aggro so they go green again. They will then return to their normal spawn area.
+5. Buddy System: Nearby aggro'd monsters will join in the combat.  Each will appear in the back of the enemy lines as red shadows, they will have their own turn in compat order, and they will hurls stones and fireballs at your party. A large number of assisting monsters can make an easy fight go very bad very quickly.
+
+??? tip "Conga line mob clearing"
+    Use the 'Chain Aggro' and 'Extended Pursuit' features to your advantage.  
+    
+    1. Find a big room leading from long hallway.  
+    2. Aggro a group of the monsters.  
+    3. Lead them single file down the hallway at their usual slow pace.  
+    4. At some point, run far enough ahead to break aggro. They will all go green, turn around, and walk back to their spawn area.  
+    5. Pick them off one by one from the back. You may get Initiative, and they won't help each other in the fights.  
+
+    Useful areas: Zone 1 by the Harken, Zone 2 big central room (use north room and door), Zone 5 big bottom left and right rooms (Use hallways leading north)
+   
+!!! warning "Off-grid mob ambushes"
+    It has been a known for some time that the monster and NPC spawn algorithms do not always place them on the same map grid the players are forced to stay on. The Always Visible feature has made this abundantly clear (this was sometimes noticeable in places like the Grasslands). Mobs will often spawn and follow paths slightly 'off-grid'.  
+    This can cause several issues:  
+
+    1. You may try attacking a mob but cannot. You will walk right by them, on both sides, without interacting.  
+    2. If you aggro the monster, you can watch them make a diagonal move back onto the correct grid. We have seen monsters 'stuck' next to a player because they have no room to make the diagonal step.  
+    3. Unexpected and undesirable Ambushes occur because they're affected by party-monster position and ignore orientation:  
+        - You can be in a 1-tile wide hallway walking directly toward an off-grid monster, but it may trigger an "Attacked from the Side" ambush.  
+        - You can attack a monster from behind, and if it is off-grid you may still trigger 'ambushed from the side'.  
+        - You can think you're stepping into a monster to attack, but step past them. Depending on how they aggro/step torward you, you can be ambushed from behind.  
+    
+    Best advise: (1) watch for off-grid enemies and try to aggro them back onto the grid before engaging. Nothing worse than dealing with a bugged "Attacked from the side" 8-pack of Kindred Demons.  (2) Try to take screenrecordings, [send Inquiry bug reports to the company](https://support.wizardry.info/en/inquiry), and ask them to fix their map gridding.
+
 ### Tonberry King  
 (added along with the update for the 3rd run)  
 
@@ -735,7 +767,8 @@ One notable thing is that while real players can fulfill your requests, there ar
     - Scroll of Instant Stonega: deals minor earth damage to 1 enemy row.
     - Scroll of Instant Blizzaga: deals minor untyped damage to 1 enemy row with a chance to inflict Chill.
 - The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade and main story progress.  
-- More details pending.
+- Chests can spawn pretty much anywhere on each zone 1-5, here are no predictable enemy-free chest grab areas.
+- For farming chests from enemies, the most fights can predictably be found in the two big rooms at the bottom of Zone 5.  You can leverage the event's mob aggro behavior and the Conga line approach described above to quickly and safely dispatch the large number of enemies in both rooms.  This is best done using the long hallways leading north from each room.  
   
 ### Bondmates  
 
