@@ -403,6 +403,8 @@ Mission categories:
 ## Harken's Blessings
 Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
 
+<div class="nofilter-table nosort-table" markdown>
+    
 | Name                        | Description                                                                                                                             |  
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|  
 | <span class="green">Blessing of Earthstrike</span>   | Harken's Blessing has increased your earth-type damage.                                                        |  
@@ -414,6 +416,8 @@ Harkens in the event can provide both the basic blessings and unique Event bless
 | <span class="blue">Blessing of Lightstrike II</span> | Harken's Blessing has increased your light-type damage.                                                        |  
 | <span class="blue">Blessing of Waterstrike II</span> | Harken's Blessing has increased your water-type damage.                                                        |  
 | <span class="blue">Kindred Demon Hunter</span>       | Harken's Blessing has increased the damage you do to Kindred demons and reduced the damage you take from them. |  
+
+</div> 
 
 ## Bondmates
 
