@@ -270,7 +270,8 @@ Mobs in this event behave differently than monsters elsewhere in the game. It is
     
     Best advise: (1) watch for off-grid enemies and try to aggro them back onto the grid before engaging. Nothing worse than dealing with a bugged "Attacked from the side" 8-pack of Kindred Demons.  (2) Try to take screenrecordings, [send Inquiry bug reports to the company](https://support.wizardry.info/en/inquiry), and ask them to fix their map gridding.
 
-### Tonberry King  
+### Special Enemies
+#### Tonberry King  
 (added along with the update for the 3rd run)  
 
 ![](./img/tonberry-king.jpg)  
@@ -301,7 +302,7 @@ Mobs in this event behave differently than monsters elsewhere in the game. It is
 - Paying the ransom will reset *Everyone's Grudge* to zero.  
 - The Stationary Tonberry leaves after payment. It is reported that he can return after you have killed a certain number of additional Tonberry.  
   
-### Notorious Monsters  
+#### Notorious Monsters  
 ![](./img/notorious-monster.jpg) ![](./img/notorious-monster-fight.jpg)   
 
 - There are 10 unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
