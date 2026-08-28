@@ -241,7 +241,7 @@
 ### Tonberry King  
 (added along with the update for the 3rd run)  
 
-![](./img/king-tonberry.jpg)  
+![](./img/tonberry-king.jpg)  
 
 - After defeating a certain number of Tonberries (~10-15) the Tonberry King may come looking for you.  
 - You can first encounter him in the Top Right area of Zone 5 (reached by Left teleporter).  
@@ -261,7 +261,8 @@
 #### Everyone's Grudge Reset
 (added along with the update for the 3rd run)  
 
-![](./img/stationary-tonberry.jpg)  
+![](./img/stationary-tonberry1.jpg) ![](./img/stationary-tonberry2.jpg)   .
+
 - After killing a certain number of Tonberry, a fixed-location Tonberry NPC (just named Stationary Tonberry) appears in Zone 5 right next to the Zone 6 stairs.  
 - The Stationary Tonberry complains about untrustworthy people and offers to purge you of 'rancor'.  
 - He ask you for a variable amount of event currency (Gil), proportional to the number of tonberry you've killed.  
