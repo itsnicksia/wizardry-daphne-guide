@@ -57,17 +57,19 @@ Openings work on all types of enemies, from basic mobs to bosses, although bosse
 ### Opening Damage
 We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers.
 
-### Way of the Thief Modifier
+### Way of the Thief Modifier  
+The odds of landing a Sure hit are affected by your Surety (SUR) stat. They extra damage done by a sure hit is normally 175% (1.75x).  That multiplier in increased by Way of the Thief 
 
-| Skill Level | Damage Modifier |
-|:-----------:|:---------------:|
-|      1      |        2        |
-|      2      |                 |
-|      3      |                 |
-|      4      |                 |
-|      5      |                 |
-|      6      |                 |
-|      7      |                 |
+
+| Skill Level | Modifier increase | Total after increase |
+|:-----------:|:---------------:|:---:|
+|      1      |        20%      | 195% |
+|      2      |        24%      | 199% |
+|      3      |        30%      | 205% |
+|      4      |        34%      | 209% |
+|      5      |        38%      | 213% |
+|      6      |        42%      | 217% |
+|      7      |        45%      | 220% |
 
 ## Passive Damage Modifiers
 There are multiple passive damage multipliers that can increase the damage you deal to enemies.
@@ -79,16 +81,17 @@ Skills like `Air Formation` and `Fire Formation` will also fall into this catego
 The final current skill that falls into this category is `Way of the Warrior`. Like `Way of the Thief`, this skill can be leveled up and appears to have an initial increase of 8%. One unique component of this skill is that it appears to only care about the enemy row, and will activate the multiplier if you're hitting something with a close or mid-range weapon regardless of the position the adventurer is in your party. For example, my Elise was hitting the enemy front row with a spear for the same damage when she was in my front row as when she was in my back row. One key thing to note is that `Way of the Warrior` does not increase damage done by spells, but `Way of the Thief` does increase the sure hit damage from spells.
 
 ### Way of the Warrior Modifier
+Way of the Warrior increases the damage done by melee (short / medium range) weapons using basic attacks and skills. The extra damage increases with skill level.
 
-| Skill Level | Damage Modifier |
+| Skill Level | Damage Increase |
 |:-----------:|:---------------:|
-|      1      |       1.08      |
-|      2      |                 |
-|      3      |                 |
-|      4      |                 |
-|      5      |                 |
-|      6      |                 |
-|      7      |                 |
+|      1      |       8%        |
+|      2      |       9%        |
+|      3      |       11%       |
+|      4      |       12%       |
+|      5      |       15%       |
+|      6      |       17%       |
+|      7      |       20%       |
 
 ## Type Advantage, Disadvantage, and Armor Modifiers
 
