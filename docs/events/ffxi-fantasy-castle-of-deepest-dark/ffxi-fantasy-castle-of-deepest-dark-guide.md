@@ -311,6 +311,8 @@ Mission categories:
 
     This should mark the mission as complete letting you reach 600 points.  
 
+    ** Update - in response to the non-obvousness and difficulty in completing this mission, an update was released adding a 20point mission just for completing the fight with Ulmia even if you didn't kill her in battle.  This makes it possible to get all rewards withuot "Defeating" Ulmia.  
+
 ## Harken's Blessings
 Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
 
