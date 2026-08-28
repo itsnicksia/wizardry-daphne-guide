@@ -242,7 +242,7 @@
 ![](./img/notorious-monster.jpg) ![](./img/notorious-monster-fight.jpg)   
 
 - There are 10 unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
-- NM are much more powerful than the wandering Kindred demons. They are individually named (apparently they are royalty) and each has slightly different combat behaviors. 
+- NM are much more powerful than the wandering Kindred demons. They are individually named (names taken from FFXI, which [borrowed them from the *Ars Goetia*](https://en.wikipedia.org/wiki/List_of_demons_in_the_Ars_Goetia)) and each has slightly different combat behaviors. 
 - All NM have a large HP pool, start the combat with multiple attacks, and can cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
 - Some will be alone, others will start with several regular mobs, others can summon other monsters and entities throughout the fight.  
 - Defeated NMs always leave a chest and have a high chance of dropping [Attestation or Fragment relic materials](#relic-equipment-and-materials).  
@@ -255,7 +255,7 @@
 | Baronet Romwe | |
 | Duke Haborym | Debuff you, Self Buff |
 | Marquis Amon | Single target and AOE spells |
-| Marquis Sabnock| Melee attack "Quadstrike" |
+| Marquis Sabnock| Strong melee attack "Quadstrike" |
 | Marquis Allocen | Self Buff and strong melee attack |
 | Grand Duke Batym | Summons Water and Light Entities |
 | Baron Vapula | Crit Poison, Sleep, and AOE spell |
