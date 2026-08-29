@@ -347,12 +347,12 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- |:-----------------:|
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | Gobber's Evil Eye                          | Acc Up, Surety Down                  | Neutral     | Goblin                 | Gobber Bloodwood                        | 4035              |
-| Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer          | Gobber Bowman Gleambright               | 4036              |
+| Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer          | Gobber Bowman Gleamblight               | 4036              |
 | Gobber's Magic-Resistant Lump              | Magic Def Up, Crit Tol Down          | Neutral     | Goblin Mage            | Gobber Sorcerer Rootcrystal             | 4037              |
 | Gobber Soothsayer's Hallowed Voice         | Divine Up, Def Down                  | Evil        | Goblin Cleric          | Gobber Soothsayer Cursefruit            | 4038              |
 | Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              | Hobber Bloodwood                        | 4039              |
 | Bony's Iron Ribs                           | Crit Tol Up, Disarm Trap Down        | Evil        | Skeleton               | Bony Spiritcoral                        | 4040              |
-| Bony Bowman's Cartilage                    | Evade Trap Up, Res Down              | Evil        | Skeleton Archer        | Bony Bowman's Gleambright               | 4041              |
+| Bony Bowman's Cartilage                    | Evade Trap Up, Res Down              | Evil        | Skeleton Archer        | Bony Bowman's Gleamblight               | 4041              |
 | Bony Sorcerer's Spectral Bones             | Magic Def Up, Evade Trap Down        | Good        | Skeleton Mage          | Bony Sorcerer Rootcrystal               | 4042              |
 | Bony Knight's Armored Bones                | Def Up, Acc Down                     | Evil        | Skeleton Knight        | Bony Knight Rootcrystal                 | 4043              |
 | Dissolving Ooze's Defensive Core           | Def Up, Evasion Down                 | Good        | Slime                  | Dissolving Ooze Rootcrystal             | 4044              |
@@ -366,7 +366,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          | Hellfire Warlord Cursefruit             | 4052              |
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Bloodwood            | 4053              |
 | Hexdoll's Fleeing Step                     | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       | Hexdoll Gleamblight                     | 4054              |
-| Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          | Restless Currency Gleambright           | 4055              |
+| Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          | Restless Currency Gleamblight           | 4055              |
 | Merfolk's Scaleskin                        | Water Res Up, Divine Power Down      | Good        | Sahuagin               | Merfolk Spiritcoral                     | 4056              |
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer        | Merfolk Bowman Bloodwood                | 4057              |
 | Merfolk Spellcaster's Spirit Flow          | Magic Up, Res Down                   | Neutral     | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4058              |
@@ -380,14 +380,14 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | One-Eyed Giant's Mighty Arm                | Attack Up, Acc Up, Evasion Down      | Neutral     | Cyclops                | One-Eyed Giant Bloodwood                | 4066              |
 | Sprite's Ghostlight Hair                   | Magic Up, Def Down                   | Good        | Pixie                  | Sprite Cursefruit                       | 4067              |
 | Wind Being Defensive Core                  | Def Up, Magic Def Down               | Neutral     | Entity                 | Wind Being Rootcrystal                  | 4068              |
-| Thrall of the Dark's Violet Glowing Eyes   | Evasion Up, Def Down                 | Evil        | Vampire                | Thrall of the Dark Gleambright          | 4069              |
-| Giant Bugwing's Compound Eyes              | Evade Trap Up, MP Down               | Neutral     | Dragon Fly             | Giant Bugwing Gleambright               | 4070              |
+| Thrall of the Dark's Violet Glowing Eyes   | Evasion Up, Def Down                 | Evil        | Vampire                | Thrall of the Dark Gleamblight          | 4069              |
+| Giant Bugwing's Compound Eyes              | Evade Trap Up, MP Down               | Neutral     | Dragon Fly             | Giant Bugwing Gleamblight               | 4070              |
 | Servant-of-the-Earth's Pauldrons           | Def Up, Crit Tol Down                | Good        | Golem                  | Servant-of-the-Earth Rootcrystal        | 4071              |
-| Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleambright                 | 4072              |
+| Chaos-Haunt's Mind's Eye                   | Detect Up, Attack Down               | Evil        | Poltergeist            | Chaos-Haunt Gleamblight                 | 4072              |
 | Shadowhoof Cavalier's Ghostsoul            | Magic Up, Dark Res Up, Divine Down   | Evil        | Necrocore              | Shadowhoof Cavalier Cursefruit          | 4073              |
 | Dead-Minder's Spirit Essence               | MP Up, Def Down                      | Evil        | Wight                  | Dead-Minder Cursefruit                  | 4074              |
 | Bone Colossus's Hardened Bones             | Def Up, MP Down                      | Neutral     | Skeleton Giant         | Bone Colossus Rootcrystal               | 4075              |
-| Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Gleambright                      | 4076              |
+| Foxear's Fingerhooks                       | Disarm Trap Up, Divine Down          | Good        | Footpad                | Foxear Gleamblight                      | 4076              |
 | Bonemaster's Cursemark                     | Magic Up, Def Down                   | Neutral     | Necromancer            | Bonemaster Cursefruit                   | 4077              |
 | Carnivorous Plant's Greenbark              | Magic Def Up, Res Up, Acc Down       | Evil        | Hydra Plant            | Carnivorous Plant Rootcrystal           | 4078              |
 | Laughing Bird's Divine Songcall            | Divine Up, Magic Up, Crit Tol down   | Good        | Laughing Bird          | Laughing Bird Cursefruit                | 4079              |
