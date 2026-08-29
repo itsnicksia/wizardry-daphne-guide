@@ -23,21 +23,21 @@
      
 {% block InheritFreetext %}
 
-    <div class = "nosort-table nofilter-table" markdown>  
+        <div class = "nosort-table nofilter-table" markdown>  
     
-    | Level | Ambush Prevention Rate (self) | Ambush Prevention Rate (inherited) | 
-    |:-----:|:-----------------------------:|:----------------------------------:|
-    |   1   |              33%              |              16%                   |
-    |   2   |              36%              |              19%                   |
-    |   3   |              41%              |              23%                   |
-    |   4   |              45%              |              26%                   |
-    |   5   |              50%              |              31%                   |
-    |   6   |              54%              |              35$                   |
-    |   7   |              60%              |               --                   |  
+        | Level | Ambush Prevention Rate (self) | Ambush Prevention Rate (inherited) | 
+        |:-----:|:-----------------------------:|:----------------------------------:|
+        |   1   |              33%              |              16%                   |
+        |   2   |              36%              |              19%                   |
+        |   3   |              41%              |              23%                   |
+        |   4   |              45%              |              26%                   |
+        |   5   |              50%              |              31%                   |
+        |   6   |              54%              |              35$                   |
+        |   7   |              60%              |               --                   |  
 
-    </div>  
+        </div>  
 
-    Each party member with Eye of Kalshum makes an individual roll to prevent ambushes.  Use the [Yekaterina Ambush Prevention Calculator](/tools/ambush-calculator.md) to calculate the ambush prevention rate for any party configuration.  
+        Each party member with Eye of Kalshum makes an individual roll to prevent ambushes.  Use the [Yekaterina Ambush Prevention Calculator](/tools/ambush-calculator.md) to calculate the ambush prevention rate for any party configuration.  
 
 {% endblock InheritFreetext %} 
 
