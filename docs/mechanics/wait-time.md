@@ -72,21 +72,25 @@ Input Definitions
 === "Porto Lv1"  
 
     Step 1: Organize your inputs
+    
     - Value = 68 (from the skill table)
     - Base WT = 400 
      
     Step 2: Calculate the Multiplier 
+    
     - Multiplier = 100 + Sum(Value - 100)
                  = 100 + Sum(68 - 100)
                  = 100 + -32
                  = 68
     
     Step 3: Calculate the Adjust WT 
+    
     - Adjusted WT = Base Wait x Multiplier x 0.01 
                   = 400 x 68 x 0.01 
                   = 272
     
     Step 4: Interpret 
+    
     - The unit's Base WT has decreased from 400 to 272. This is a 32% decrease.
     - This Adjusted WT will not go into effect until the unit's next turn.
     - The Adjusted WT (272) would replace the Base WT (400) in the count-down queue (Table Name X) 
@@ -94,21 +98,25 @@ Input Definitions
 === "Batilgref Lv1"  
 
     Step 1: Organize your inputs
+    
     - Value = 125 (from the skill table)
     - Base WT = 400 
      
     Step 2: Calculate the Multiplier 
+    
     - Multiplier = 100 + Sum(Value - 100)
                  = 100 + Sum(125 - 100)
                  = 100 + 25
                  = 125
     
     Step 3: Calculate the Adjust WT 
+    
     - Adjusted WT = Base Wait x Multiplier x 0.01 
                   = 400 x 125 x 0.01 
                   = 500
     
-    Step 4: Interpret 
+    Step 4: Interpretion 
+    
     - The unit's Base WT has increased from 400 to 500. This is a 25% increase. 
     - This Adjusted WT will not go into effect until the unit's next turn.
     - The Adjusted WT (500) would replace the Base WT (400) in the count-down queue (Table Name X) 
@@ -119,10 +127,12 @@ Input Definitions
     - Base WT = 400 like in the previous examples.
     
     Calculations
+    
     - Minimum WT = 40 (min clamp) x 400 (Base WT) x 0.01 = 160
     - Maximum WT = 160 (max clamp) x 400 (Base WT) x 0.01 = 640
     
     Interpretation
+    
     - A unit with 400 WT can never go lower than 160 WT or higher than 640 WT.
     - This represents a 60% swing in either direction.
     - Hitting the clamps is only possible by stacking multiple effects on the same unit, which will covered in the next section.  
