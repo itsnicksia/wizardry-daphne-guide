@@ -1,8 +1,6 @@
+# Wait Time System 
 
-
-
-
-
+## Core Mechanics
 
 | Unit    | Type        | ASPD | Base Wait       |
 |---------|-------------|------|-----------------|
@@ -12,7 +10,7 @@
 | Enemy 1 | Medium-Slow | 150  | 500 - 150 = 350 |
 | Enemy 2 | Medium-Fast | 250  | 500 - 250 = 250 |
 
-
+Table Name X
 
 | Tick  | Lowest WT | A       | B       | C       | E1      | E2      | Acts | 
 |-------|-----------|---------|---------|---------|---------|---------|------|
@@ -37,26 +35,8 @@ C = 1
 E1 = 2
 E2 = 3
 
-## Buffs and Debuffs 
-
-Formula
-
-
-| Tick  | Lowest WT | A       | B       | C       | E1      | E2      | Acts | 
-|-------|-----------|---------|---------|---------|---------|---------|------|
-| Start |           | 180     | 300     | 420     | 350     | 225     |      |
-| 1     | -180      | 0 > 180 | 120     | 240     | 170     | 45      | A    |
-| 2     | -45       | 135     | 75      | 195     | 125     | 0 > 225 | E2   |
-| 3     | -75       | 60      | 0 > 300 | 120     | 50      | 150     | B    |
-| 4     | -50       | 10      | 250     | 70      | 0 > 350 | 100     | E1   |
-| 5     | -10       | 0 > 180 | 240     | 60      | 340     | 90      | A    |
-| 6     | -60       | 120     | 180     | 0 > 420 | 280     | 30      | C    |
-| 7     | -30       | 90      | 150     | 390     | 250     | 0 > 225 | E2   |
-| 8     | -90       | 0 > 180 | 60      | 300     | 160     | 135     | A    |
-
-
-
 ## WT Buffs and Debuffs 
+
 
 - There are several skills and spells in the game that can reduce (buff) or extend (debuff) a unit's Base Wait value.
 - Porto and Batilgref are the spells you are likely most familiar with and we will be using those throughout this section to demonstrate how the formulas work. 
@@ -68,124 +48,92 @@ Formula
 - We will walk through the basic formula with only one effect active and then layer in the additional rules for extreme cases
 - Easiest to understand with the worked examples to follow the math 
 
-
-=== "Formula" 
+### Formula
 
 Adjusted WT = Base Wait x Multiplier x 0.01 
 Multiplier = clamp(100 + Sum(Value - 100), 40, 160)
 
+Input Definitions
+- Base Wait = 500 - ASPD. 
+- Value is read directly from the skill table(#xx).  
+- The clamp (40, 160) prevents the Multiplier value from going below 40 or above 160. 
 
-=== "Clamp Explanation" 
+### Simple Examples
 
+=== "Assumptions" 
 
+    - If you are not mathematically inclined this may seem confusing or overwhelming, but the math is relatively straight forward.
+    - This section will give step-by-step calculations for Porto and Batilgref Lv1. 
+    - We will use the same set of assumptions for both examples:
+        - Unit ASPD = 100
+        - Base WT = 500 - 100 (ASPD) = 400
+        - The clamp logic is removed so you can see the core calculation more easily  
 
-What does clamp mean?
-- Do not let the "clamp" part of the formula intimidate you if you are not mathematically inclined. 
-- It just means that the multiplier value can never go below 40 (min) or above 160 (max). 
-- If the value is outside this range (40 - 160), then it "clamps" it to either 40 or 160.
+=== "Porto Lv1"  
 
-Worked Example
+    Step 1: Organize your inputs
+    - Value = 68 (from the skill table)
+    - Base WT = 400 
+     
+    Step 2: Calculate the Multiplier 
+    - Multiplier = 100 + Sum(Value - 100)
+                 = 100 + Sum(68 - 100)
+                 = 100 + -32
+                 = 68
+    
+    Step 3: Calculate the Adjust WT 
+    - Adjusted WT = Base Wait x Multiplier x 0.01 
+                  = 400 x 68 x 0.01 
+                  = 272
+    
+    Step 4: Interpret 
+    - The unit's Base WT has decreased from 400 to 272. This is a 32% decrease.
+    - This Adjusted WT will not go into effect until the unit's next turn.
+    - The Adjusted WT (272) would replace the Base WT (400) in the count-down queue (Table Name X) 
 
-Assumptions
-- Unit ASPD = 100 
-- Unit Base Wait Time = 500 - 100 (ASPD) = 400 
+=== "Batilgref Lv1"  
 
+    Step 1: Organize your inputs
+    - Value = 125 (from the skill table)
+    - Base WT = 400 
+     
+    Step 2: Calculate the Multiplier 
+    - Multiplier = 100 + Sum(Value - 100)
+                 = 100 + Sum(125 - 100)
+                 = 100 + 25
+                 = 125
+    
+    Step 3: Calculate the Adjust WT 
+    - Adjusted WT = Base Wait x Multiplier x 0.01 
+                  = 400 x 125 x 0.01 
+                  = 500
+    
+    Step 4: Interpret 
+    - The unit's Base WT has increased from 400 to 500. This is a 25% increase. 
+    - This Adjusted WT will not go into effect until the unit's next turn.
+    - The Adjusted WT (500) would replace the Base WT (400) in the count-down queue (Table Name X) 
 
-____
+=== "Clamps"  
 
-Porto Lv1 
+- We are going to plug in the clamp values (40, 160) directly into the Adjusted WT formula so you can see the min-max range of values.
+- Base WT = 400 like in the previous examples.
 
-Multiplier = 100 + Sum(Value - 100)
-           = 100 + Sum(70 - 100)
-           = 100 + -30 
-           = 70 
+Calculations
+- Minimum WT = 40 (min clamp) x 400 (Base WT) x 0.01 = 160
+- Maximum WT = 160 (max clamp) x 400 (Base WT) x 0.01 = 640
 
-Adjusted WT = Base Wait x Multiplier x 0.01 
-            = 400 x 70 x 0.01 
-            = 280
+Interpretation
+- A unit with 400 WT can never go lower than 160 WT or higher than 640 WT.
+- This represents a 60% swing in either direction.
+- Hitting the clamps is only possible by stacking multiple effects on the same unit, which will covered in the next section.  
 
-____
-
-Batilgref Lv1 
-
-Multiplier = 100 + Sum(Value - 100)
-           = 100 + Sum(125 - 100)
-           = 100 + 25 
-           = 125 
-
-Adjusted WT = Base Wait x Multiplier x 0.01 
-            = 400 x 125 x 0.01 
-            = 500
-____
-
-
-clamp(100 + Sum(value - 100), 40, 160)%
-
-
-
-
-
-
-
-
-
-
-
-
-Adjusted WT = Multiplier x Base Wait 
-
-Multiplier = 
-
-
-
-
-Multiplier = clamp (100 + Sum (Effect 1 + Effect 2 - 100), 40, 160)
-Adjusted Wait Time = round (Multiplier x 0.01 x Base Wait)
-
-The 0.01 term is what takes the raw integer and transforms it into the actual multiplier
-
-Examples
-
-Porto Lv1
-
-- ASPD = 100
-- Base Wait = 500 - 100 = 400 
-
-Final Wait = round (0.68 x Base Wait) — a 32% speedup.
-Final Wait = round (0.68 x 400) = 272
-
-Batilgref Lv1
-
-- ASPD = 100
-- Base Wait = 500 - 100 = 400 
-
-Final Wait = round (1.25 x Base Wait) — a 25% slow down.
-Final Wait = round (1.25 x 400) = 500
-
-Clamps
-
-Porto = (40 x 0.01 x 400) = 160 < can never go lower than this
-Batilgref = (160 x 0.01 x 400) = 640 < can never go higher than this
-
-
-
-Effects stack additively 
-Takes effect on the next turn when Wait Time is recalculated
-
-
-Stacking Multiple Effects 
-
-2 WT up 
-
+### Stacking Multiple Effects 
 
 Multiplier = clamp (100 + Sum (Effect 1 + Effect 2 - 100), 40, 160)
 Adjusted Wait Time = round (Multiplier x 0.01 x Base Wait)
-
 
 Effect 1 = 68
 Effect 2 = 70
-
-
 
 clamp(100 + Sum(value - 100), 40, 160)%
 
@@ -210,10 +158,6 @@ WT Down
 - Milwa
 - Running Inferno
 - Wild Strike 
-
-
-
-
 
 - Likely due to a poor translation, these buffs and debuffs do not effect the ASPD stat all, but the Base Wait time value directly
 
