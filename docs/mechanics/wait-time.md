@@ -2,17 +2,17 @@
 
 ## Core Mechanics
 
-| Unit    | Type        | ASPD | Base Wait       |
+|         | Type        | ASPD | Base WT         |
 |---------|-------------|------|-----------------|
 | Unit A  | Fast        | 320  | 500 - 320 = 180 |
 | Unit B  | Medium      | 200  | 500 - 200 = 300 |
 | Unit C  | Slow        | 80   | 500 - 80  = 420 |
-| Enemy 1 | Medium-Slow | 150  | 500 - 150 = 350 |
-| Enemy 2 | Medium-Fast | 250  | 500 - 250 = 250 |
+| Enemy 1 | Med-Slow    | 150  | 500 - 150 = 350 |
+| Enemy 2 | Med-Fast    | 250  | 500 - 250 = 250 |
 
 Table Name X
 
-| Tick  | Lowest WT | A       | B       | C       | E1      | E2      | Acts | 
+| Tick  | Min WT    | A       | B       | C       | E1      | E2      | Acts | 
 |-------|-----------|---------|---------|---------|---------|---------|------|
 | Start |           | 180     | 300     | 420     | 350     | 225     |      |
 | 1     | -180      | 0 > 180 | 120     | 240     | 170     | 45      | A    |
@@ -115,17 +115,17 @@ Input Definitions
 
 === "Clamps"  
 
-- We are going to plug in the clamp values (40, 160) directly into the Adjusted WT formula so you can see the min-max range of values.
-- Base WT = 400 like in the previous examples.
-
-Calculations
-- Minimum WT = 40 (min clamp) x 400 (Base WT) x 0.01 = 160
-- Maximum WT = 160 (max clamp) x 400 (Base WT) x 0.01 = 640
-
-Interpretation
-- A unit with 400 WT can never go lower than 160 WT or higher than 640 WT.
-- This represents a 60% swing in either direction.
-- Hitting the clamps is only possible by stacking multiple effects on the same unit, which will covered in the next section.  
+    - We are going to plug in the clamp values (40, 160) directly into the Adjusted WT formula so you can see the min-max range of values.
+    - Base WT = 400 like in the previous examples.
+    
+    Calculations
+    - Minimum WT = 40 (min clamp) x 400 (Base WT) x 0.01 = 160
+    - Maximum WT = 160 (max clamp) x 400 (Base WT) x 0.01 = 640
+    
+    Interpretation
+    - A unit with 400 WT can never go lower than 160 WT or higher than 640 WT.
+    - This represents a 60% swing in either direction.
+    - Hitting the clamps is only possible by stacking multiple effects on the same unit, which will covered in the next section.  
 
 ### Stacking Multiple Effects 
 
