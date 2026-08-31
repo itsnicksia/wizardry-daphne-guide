@@ -163,7 +163,7 @@ def define_env(env):
         baselink = "https://rates.wizardry.info/daphne/gacha_rates/en/characters.html#:~:text="
         endlink = ",-Pattern"
         fixedname = fullname.replace('-','%2D').replace(' ','%20')
-        linkstring = '<a href ="' + baselink + fixedname + endlink + '">Adam IV table</a>'
+        linkstring = '<a href ="' + baselink + fixedname + endlink + '">' + fullname +' IV table</a>'
         return linkstring
         
 
