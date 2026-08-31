@@ -158,6 +158,15 @@ def define_env(env):
 
         return eqdata
 
+    @env.macro
+    def build_iv_table_link(fullname):
+        baselink = "https://rates.wizardry.info/daphne/gacha_rates/en/characters.html#:~:text="
+        endlink = ",-Pattern"
+        fixedname = fullname.replace('-','%2D').replace(' ','%20')
+        return baselink + fixedname + endlink
+        
+
+    
     @env.filter
     def make_skillnames_linkable(df):
         df['Name'] ='<span id = "' + df['Name'].str.replace(' ', '') + '">' + \
