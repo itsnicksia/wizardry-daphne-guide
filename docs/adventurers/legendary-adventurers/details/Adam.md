@@ -26,6 +26,7 @@
 {% endblock %} 
 
 {% block AltInheritFreetext %}
+        {{build_iv_table_link(title)}}  
 {% endblock %}
      
 {% block PotentialInheritFreetext %}
