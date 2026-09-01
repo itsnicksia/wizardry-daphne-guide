@@ -41,7 +41,7 @@
             - Note: Some people have reported needing to buy all 7 relics. Whether this is a bug or not, or if they changed things with the last update remains unclear. 
             - Go to the event dungeon for a cutscene. This plays while you are on the floor selection screen. 
             - Return to Northern Hollow and click on the Remote Blacksmith icon for a cutscene with your new goblin blacksmith! 
-            - Now you have access to the Reforge and Remake options for the Relic Weapons. Dedicated section [here](#relic-weapopns). 
+            - Now you have access to the Reforge and Remake options for the Relic Weapons. See dedicated section [here](#relic-equipment-and-materials). 
         -  Zone 4 - Mining 
             - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
             - In the Item shop you can now purchase a consumable item called the Northcleft Pickaxe. Northern Hollow is the only location in the game where these can be purchased. 
@@ -508,7 +508,7 @@ Harkens in the event can provide both the basic blessings and unique Event bless
     - FAS after enhancing - Milestone blessings are rerolled along with everything else and you don't know if that piece was high or low and whether a Remake will be worthwhile.  
 
 !!! tip "TL;DR: recommended Relic improvement process"  
-    *Use the [Blacksmithing Enhancement tables for Silver items](/equipment/blacksmithing/#silver) to determine how good your rolls are.*
+    *Use the [Blacksmithing Enhancement tables for Silver items](/equipment/blacksmithing.md#silver) to determine how good your rolls are.*
     
     1. Note the starting blessings from when you first got the item.  
     2. If you are going to L/FAS do it before enhancing to +5.  
