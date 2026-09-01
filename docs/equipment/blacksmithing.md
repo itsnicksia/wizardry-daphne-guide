@@ -451,7 +451,7 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
         Master Fighter's Ring - Ebonsteel, 4* Red, fixed at DEF/ACC/ATK%/ATK
         
         1. FAS the item (Reroll and apply bonus to all four blessings)  
-        2. Re-FAS as desired until happy with rolls. [See Initial+FAS Tables](equipment/blacksmithing.md#__tabbed_4_3)
+        2. Re-FAS as desired until happy with rolls. [See Initial+FAS Tables](blacksmithing.md#__tabbed_4_3)
         2. Alter one slot (Typically DEF->ATK or DEF->SUR)  
         3. Enhance to +20 (Apply Milestone blessing to each slot). See [Enhancement Costs](/equipment/blacksmithing.md#gold-cost-for-enhancing)
         4. If unsatisfied with altered ATK slot, optionally alter to SUR

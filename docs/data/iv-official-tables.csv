@@ -1,0 +1,729 @@
+Adventurer,Category,Pattern,Drop Rate,Strength,IQ,Piety,Vitality,Dexterity,Speed,Luck
+Gerulf,Legendary,1,12.5000%,19,9,12,17,16,7,8
+Gerulf,Legendary,2,12.5000%,18,9,12,17,16,7,8
+Gerulf,Legendary,3,12.5000%,18,9,12,17,16,7,8
+Gerulf,Legendary,4,12.5000%,18,9,12,18,16,7,8
+Gerulf,Legendary,5,12.5000%,18,9,12,17,17,7,8
+Gerulf,Legendary,6,12.5000%,18,9,12,17,16,7 (50.0%) | 8 (50.0%),8
+Gerulf,Legendary,7,12.5000%,18,9,12,17,16,7,9
+Gerulf,Legendary,8,12.5000%,18,9,12,17,16,7,8
+Debra,Legendary,1,12.5000%,11,13,10,13,14,17,10
+Debra,Legendary,2,12.5000%,10,13,10,13,14,17,10
+Debra,Legendary,3,12.5000%,10,13,10,13,14,17,10
+Debra,Legendary,4,12.5000%,10,13,10,14,14,17,10
+Debra,Legendary,5,12.5000%,10,13,10,13,15,17,10
+Debra,Legendary,6,12.5000%,10,13,10,13,14,18,10
+Debra,Legendary,7,12.5000%,10,13,10,13,14,17,11
+Debra,Legendary,8,12.5000%,10,13,10,13,14,17,10
+Alice,Legendary,1,12.5000%,10,18,14,9,13,13,11
+Alice,Legendary,2,12.5000%,9,19,14,9,13,13,11
+Alice,Legendary,3,12.5000%,9,18,15,9,13,13,11
+Alice,Legendary,4,12.5000%,9,18,14,10,13,13,11
+Alice,Legendary,5,12.5000%,9,18,14,9,14,13,11
+Alice,Legendary,6,12.5000%,9,18,14,9,13,13,11
+Alice,Legendary,7,12.5000%,9,18,14,9,13,13,12
+Alice,Legendary,8,12.5000%,9,18,14,9,13,13,11
+Adam,Legendary,1,12.5000%,10,16,12,10,15,13,11
+Adam,Legendary,2,12.5000%,10,17,12,10,15,13,11
+Adam,Legendary,3,12.5000%,10,16,13,10,15,13,11
+Adam,Legendary,4,12.5000%,10,16,12,10,15,13,11
+Adam,Legendary,5,12.5000%,10,16,12,10,16,13,11
+Adam,Legendary,6,12.5000%,10,16,12,10,15,14,11
+Adam,Legendary,7,12.5000%,10,16,12,10,15,13,12
+Adam,Legendary,8,12.5000%,10,16,12,10,15,13,11
+Yekaterina,Legendary,1,12.5000%,11,14,12,13,13,13,11
+Yekaterina,Legendary,2,12.5000%,11,15,12,13,13,13,11
+Yekaterina,Legendary,3,12.5000%,11,14,13,13,13,13,11
+Yekaterina,Legendary,4,12.5000%,11,14,12,14,13,13,11
+Yekaterina,Legendary,5,12.5000%,11,14,12,13,14,13,11
+Yekaterina,Legendary,6,12.5000%,11,14,12,13,13,14,11
+Yekaterina,Legendary,7,12.5000%,11,14,12,13,13,13,12
+Yekaterina,Legendary,8,12.5000%,11,14,12,13,13,13,11
+Lanavaille,Legendary,1,12.5000%,16,12,13,14,11,12,11
+Lanavaille,Legendary,2,12.5000%,15,12,13,14,11,12,11
+Lanavaille,Legendary,3,12.5000%,15,12,14,14,11,12,11
+Lanavaille,Legendary,4,12.5000%,15,12,13,15,11,12,11
+Lanavaille,Legendary,5,12.5000%,15,12,13,14,12,12,11
+Lanavaille,Legendary,6,12.5000%,15,12,13,14,11,12,11
+Lanavaille,Legendary,7,12.5000%,15,12,13,14,11,12,12
+Lanavaille,Legendary,8,12.5000%,15,12,13,14,11,12,11
+Elise,General,1,12.5000%,12,15,11,12,15,13,10
+Elise,General,2,12.5000%,11,15,11,12,15,13,10
+Elise,General,3,12.5000%,11,15,11,12,15,13,10
+Elise,General,4,12.5000%,11,15,11,13,15,13,10
+Elise,General,5,12.5000%,11,15,11,12,16,13,10
+Elise,General,6,12.5000%,11,15,11,12,15,14,10
+Elise,General,7,12.5000%,11,15,11,12,15,13,11
+Elise,General,8,12.5000%,11,15,11,12,15,13,10
+Elda,General,1,12.5000%,13,16,10,11,15,12,11
+Elda,General,2,12.5000%,12,16,10,11,15,12,11
+Elda,General,3,12.5000%,12,16,10,11,15,12,11
+Elda,General,4,12.5000%,12,16,10,12,15,12,11
+Elda,General,5,12.5000%,12,16,10,11,16,12,11
+Elda,General,6,12.5000%,12,16,10,11,15,13,11
+Elda,General,7,12.5000%,12,16,10,11,15,12,12
+Elda,General,8,12.5000%,12,16,10,11,15,12,11
+Ophelia,General,1,12.5000%,14,12,12,12,13,14,11
+Ophelia,General,2,12.5000%,13,12,12,12,13,14,11
+Ophelia,General,3,12.5000%,13,12,12,12,13,14,11
+Ophelia,General,4,12.5000%,13,12,12,13,13,14,11
+Ophelia,General,5,12.5000%,13,12,12,12,14,14,11
+Ophelia,General,6,12.5000%,13,12,12,12,13,15,11
+Ophelia,General,7,12.5000%,13,12,12,12,13,14,12
+Ophelia,General,8,12.5000%,13,12,12,12,13,14,11
+Olive,General,1,12.5000%,12,15,11,10,15,15,10
+Olive,General,2,12.5000%,11,15,11,10,15,15,10
+Olive,General,3,12.5000%,11,15,11,10,15,15,10
+Olive,General,4,12.5000%,11,15,11,11,15,15,10
+Olive,General,5,12.5000%,11,15,11,10,16,15,10
+Olive,General,6,12.5000%,11,15,11,10,15,16,10
+Olive,General,7,12.5000%,11,15,11,10,15,15,11
+Olive,General,8,12.5000%,11,15,11,10,15,15,10
+Gaston,General,1,12.5000%,15,11,11,15,14,11,11
+Gaston,General,2,12.5000%,14,11,11,15,14,11,11
+Gaston,General,3,12.5000%,14,11,11,15,14,11,11
+Gaston,General,4,12.5000%,14,11,11,16,14,11,11
+Gaston,General,5,12.5000%,14,11,11,15,15,11,11
+Gaston,General,6,12.5000%,14,11,11,15,14,12,11
+Gaston,General,7,12.5000%,14,11,11,15,14,11,12
+Gaston,General,8,12.5000%,14,11,11,15,14,11,11
+Gandolfo,General,1,12.5000%,15,13,11,13,13,11,12
+Gandolfo,General,2,12.5000%,14,13,11,13,13,11,12
+Gandolfo,General,3,12.5000%,14,13,11,13,13,11,12
+Gandolfo,General,4,12.5000%,14,13,11,14,13,11,12
+Gandolfo,General,5,12.5000%,14,13,11,13,14,11,12
+Gandolfo,General,6,12.5000%,14,13,11,13,13,12,12
+Gandolfo,General,7,12.5000%,14,13,11,13,13,11,13
+Gandolfo,General,8,12.5000%,14,13,11,13,13,11,12
+Chloe,General,1,12.5000%,15,13,8,15,14,15,8
+Chloe,General,2,12.5000%,14,13,8,15,14,15,8
+Chloe,General,3,12.5000%,14,13,8,15,14,15,8
+Chloe,General,4,12.5000%,14,13,8,16,14,15,8
+Chloe,General,5,12.5000%,14,13,8,15,15,15,8
+Chloe,General,6,12.5000%,14,13,8,15,14,16,8
+Chloe,General,7,12.5000%,14,13,8,15,14,15,9
+Chloe,General,8,12.5000%,14,13,8,15,14,15,8
+Benjamin,General,1,12.5000%,17,9,12,18,17,7,8
+Benjamin,General,2,12.5000%,16,9,12,18,17,7,8
+Benjamin,General,3,12.5000%,16,9,12,18,17,7,8
+Benjamin,General,4,12.5000%,16,9,12,19,17,7,8
+Benjamin,General,5,12.5000%,16,9,12,18,18,7,8
+Benjamin,General,6,12.5000%,16,9,12,18,17,7,8
+Benjamin,General,7,12.5000%,16,9,12,18,17,7,9
+Benjamin,General,8,12.5000%,16,9,12,18,17,7,8
+Amelia,General,1,12.5000%,13,13,8,14,14,17,9
+Amelia,General,2,12.5000%,12,13,8,14,14,17,9
+Amelia,General,3,12.5000%,12,13,8,14,14,17,9
+Amelia,General,4,12.5000%,12,13,8,15,14,17,9
+Amelia,General,5,12.5000%,12,13,8,14,15,17,9
+Amelia,General,6,12.5000%,12,13,8,14,14,18,9
+Amelia,General,7,12.5000%,12,13,8,14,14,17,10
+Amelia,General,8,12.5000%,12,13,8,14,14,17,9
+Jean,General,1,12.5000%,13,11,11,14,14,13,12
+Jean,General,2,12.5000%,12,11,11,14,14,13,12
+Jean,General,3,12.5000%,12,11,11,14,14,13,12
+Jean,General,4,12.5000%,12,11,11,15,14,13,12
+Jean,General,5,12.5000%,12,11,11,14,15,13,12
+Jean,General,6,12.5000%,12,11,11,14,14,14,12
+Jean,General,7,12.5000%,12,11,11,14,14,13,13
+Jean,General,8,12.5000%,12,11,11,14,14,13,12
+Bakesh,General,1,12.5000%,15,9,12,15,17,11,9
+Bakesh,General,2,12.5000%,14,9,12,15,17,11,9
+Bakesh,General,3,12.5000%,14,9,12,15,17,11,9
+Bakesh,General,4,12.5000%,14,9,12,16,17,11,9
+Bakesh,General,5,12.5000%,14,9,12,15,18,11,9
+Bakesh,General,6,12.5000%,14,9,12,15,17,12,9
+Bakesh,General,7,12.5000%,14,9,12,15,17,11,10
+Bakesh,General,8,12.5000%,14,9,12,15,17,11,9
+Viviana,General,1,12.5000%,12,14,13,11,12,14,12
+Viviana,General,2,12.5000%,11,14,13,11,12,14,12
+Viviana,General,3,12.5000%,11,14,13,11,12,14,12
+Viviana,General,4,12.5000%,11,14,13,12,12,14,12
+Viviana,General,5,12.5000%,11,14,13,11,13,14,12
+Viviana,General,6,12.5000%,11,14,13,11,12,15,12
+Viviana,General,7,12.5000%,11,14,13,11,12,14,13
+Viviana,General,8,12.5000%,11,14,13,11,12,14,12
+Philip,General,1,12.5000%,10 (75.0%) | 11 (25.0%),16,11,10,15,14,11
+Philip,General,2,12.5000%,10,17,11,10,15,14,11
+Philip,General,3,12.5000%,10,16,11,10,15,14,11
+Philip,General,4,12.5000%,10,16,11,11,15,14,11
+Philip,General,5,12.5000%,10,16,11,10,16,14,11
+Philip,General,6,12.5000%,10,16,11,10,15,15,11
+Philip,General,7,12.5000%,10,16,11,10,15,14,12
+Philip,General,8,12.5000%,10,16,11,10,15,14,11
+Milana,General,1,12.5000%,9 (25.0%) | 10 (75.0%),17,11,9,14,15,12
+Milana,General,2,12.5000%,9,18,11,9,14,15,12
+Milana,General,3,12.5000%,9,17,11,9,14,15,12
+Milana,General,4,12.5000%,9,17,11,9 (25.0%) | 10 (75.0%),14,15,12
+Milana,General,5,12.5000%,9,17,11,9,15,15,12
+Milana,General,6,12.5000%,9,17,11,9,14,16,12
+Milana,General,7,12.5000%,9,17,11,9,14,15,13
+Milana,General,8,12.5000%,9,17,11,9,14,15,12
+Valdor,General,1,12.5000%,15,10,16,15,15,7,10
+Valdor,General,2,12.5000%,14,11,16,15,15,7,10
+Valdor,General,3,12.5000%,14,10,17,15,15,7,10
+Valdor,General,4,12.5000%,14,10,16,16,15,7,10
+Valdor,General,5,12.5000%,14,10,16,15,16,7,10
+Valdor,General,6,12.5000%,14,10,16,15,15,7,10
+Valdor,General,7,12.5000%,14,10,16,15,15,7,11
+Valdor,General,8,12.5000%,14,10,16,15,15,7,10
+Emil,General,1,12.5000%,11,15,14,10,14,12,12
+Emil,General,2,12.5000%,10,16,14,10,14,12,12
+Emil,General,3,12.5000%,10,15,15,10,14,12,12
+Emil,General,4,12.5000%,10,15,14,11,14,12,12
+Emil,General,5,12.5000%,10,15,14,10,15,12,12
+Emil,General,6,12.5000%,10,15,14,10,14,12,12
+Emil,General,7,12.5000%,10,15,14,10,14,12,13
+Emil,General,8,12.5000%,10,15,14,10,14,12,12
+Galina,General,1,12.5000%,10,16,13,11,14,13,11
+Galina,General,2,12.5000%,9,17,13,11,14,13,11
+Galina,General,3,12.5000%,9,16,14,11,14,13,11
+Galina,General,4,12.5000%,9,16,13,12,14,13,11
+Galina,General,5,12.5000%,9,16,13,11,15,13,11
+Galina,General,6,12.5000%,9,16,13,11,14,13,11
+Galina,General,7,12.5000%,9,16,13,11,14,13,12
+Galina,General,8,12.5000%,9,16,13,11,14,13,11
+Daniel,General,1,12.5000%,13,12,13,14,13,11,12
+Daniel,General,2,12.5000%,12,13,13,14,13,11,12
+Daniel,General,3,12.5000%,12,12,14,14,13,11,12
+Daniel,General,4,12.5000%,12,12,13,15,13,11,12
+Daniel,General,5,12.5000%,12,12,13,14,14,11,12
+Daniel,General,6,12.5000%,12,12,13,14,13,11,12
+Daniel,General,7,12.5000%,12,12,13,14,13,11,13
+Daniel,General,8,12.5000%,12,12,13,14,13,11,12
+Marianne,General,1,12.5000%,12,13,14,11,12,14,12
+Marianne,General,2,12.5000%,11,14,14,11,12,14,12
+Marianne,General,3,12.5000%,11,13,15,11,12,14,12
+Marianne,General,4,12.5000%,11,13,14,12,12,14,12
+Marianne,General,5,12.5000%,11,13,14,11,13,14,12
+Marianne,General,6,12.5000%,11,13,14,11,12,14,12
+Marianne,General,7,12.5000%,11,13,14,11,12,14,13
+Marianne,General,8,12.5000%,11,13,14,11,12,14,12
+Asha,General,1,12.5000%,13,14,12,12,12,13,11
+Asha,General,2,12.5000%,13,15,12,12,12,13,11
+Asha,General,3,12.5000%,13,14,13,12,12,13,11
+Asha,General,4,12.5000%,13,14,12,12,12,13,11
+Asha,General,5,12.5000%,13,14,12,12,13,13,11
+Asha,General,6,12.5000%,13,14,12,12,12,14,11
+Asha,General,7,12.5000%,13,14,12,12,12,13,12
+Asha,General,8,12.5000%,13,14,12,12,12,13,11
+Dino,General,1,12.5000%,10,16,10,10,16,15,10
+Dino,General,2,12.5000%,10,17,10,10,16,15,10
+Dino,General,3,12.5000%,10,16,11,10,16,15,10
+Dino,General,4,12.5000%,10,16,10,10,16,15,10
+Dino,General,5,12.5000%,10,16,10,10,17,15,10
+Dino,General,6,12.5000%,10,16,10,10,16,16,10
+Dino,General,7,12.5000%,10,16,10,10,16,15,11
+Dino,General,8,12.5000%,10,16,10,10,16,15,10
+Flut,General,1,12.5000%,9,19,12,9,14,14,10
+Flut,General,2,12.5000%,9,20,12,9,14,14,10
+Flut,General,3,12.5000%,9,19,13,9,14,14,10
+Flut,General,4,12.5000%,9,19,12,9,14,14,10
+Flut,General,5,12.5000%,9,19,12,9,15,14,10
+Flut,General,6,12.5000%,9,19,12,9,14,15,10
+Flut,General,7,12.5000%,9,19,12,9,14,14,10 (25.0%) | 11 (75.0%)
+Flut,General,8,12.5000%,9,19,12,9,14,14,10
+Jarmil,General,1,12.5000%,12,13,11,12,14,14,11
+Jarmil,General,2,12.5000%,12,14,11,12,14,14,11
+Jarmil,General,3,12.5000%,12,13,12,12,14,14,11
+Jarmil,General,4,12.5000%,12,13,11,12,14,14,11
+Jarmil,General,5,12.5000%,12,13,11,12,15,14,11
+Jarmil,General,6,12.5000%,12,13,11,12,14,15,11
+Jarmil,General,7,12.5000%,12,13,11,12,14,14,12
+Jarmil,General,8,12.5000%,12,13,11,12,14,14,11
+Alex,General,1,12.5000%,17,11,12,15,12,11,11
+Alex,General,2,12.5000%,16,11,12,15,12,11,11
+Alex,General,3,12.5000%,16,11,13,15,12,11,11
+Alex,General,4,12.5000%,16,11,12,16,12,11,11
+Alex,General,5,12.5000%,16,11,12,15,13,11,11
+Alex,General,6,12.5000%,16,11,12,15,12,11,11
+Alex,General,7,12.5000%,16,11,12,15,12,11,12
+Alex,General,8,12.5000%,16,11,12,15,12,11,11
+Eulalia,General,1,12.5000%,12,17,13,11,13,13,10
+Eulalia,General,2,12.5000%,11,17,13,11,13,13,10
+Eulalia,General,3,12.5000%,11,17,14,11,13,13,10
+Eulalia,General,4,12.5000%,11,17,13,12,13,13,10
+Eulalia,General,5,12.5000%,11,17,13,11,14,13,10
+Eulalia,General,6,12.5000%,11,17,13,11,13,13,10
+Eulalia,General,7,12.5000%,11,17,13,11,13,13,11
+Eulalia,General,8,12.5000%,11,17,13,11,13,13,10
+Eckart,General,1,12.5000%,19,9,13,18,15,7,8
+Eckart,General,2,12.5000%,18,9,13,18,15,7,8
+Eckart,General,3,12.5000%,18,9,14,18,15,7,8
+Eckart,General,4,12.5000%,18,9,13,19,15,7,8
+Eckart,General,5,12.5000%,18,9,13,18,16,7,8
+Eckart,General,6,12.5000%,18,9,13,18,15,7,8
+Eckart,General,7,12.5000%,18,9,13,18,15,7,8 (50.0%) | 9 (50.0%)
+Eckart,General,8,12.5000%,18,9,13,18,15,7,8
+Eldorado,General,1,12.5000%,13,16,11,12,14,12,11
+Eldorado,General,2,12.5000%,12,16,11,12,14,12,11
+Eldorado,General,3,12.5000%,12,16,12,12,14,12,11
+Eldorado,General,4,12.5000%,12,16,11,13,14,12,11
+Eldorado,General,5,12.5000%,12,16,11,12,15,12,11
+Eldorado,General,6,12.5000%,12,16,11,12,14,12,11
+Eldorado,General,7,12.5000%,12,16,11,12,14,12,12
+Eldorado,General,8,12.5000%,12,16,11,12,14,12,11
+Clarissa,General,1,12.5000%,14,12,15,13,11,12,12
+Clarissa,General,2,12.5000%,13,12,15,13,11,12,12
+Clarissa,General,3,12.5000%,13,12,16,13,11,12,12
+Clarissa,General,4,12.5000%,13,12,15,14,11,12,12
+Clarissa,General,5,12.5000%,13,12,15,13,12,12,12
+Clarissa,General,6,12.5000%,13,12,15,13,11,12,12
+Clarissa,General,7,12.5000%,13,12,15,13,11,12,13
+Clarissa,General,8,12.5000%,13,12,15,13,11,12,12
+Barbara,General,1,12.5000%,13,13,9,15,14,17,8
+Barbara,General,2,12.5000%,12,13,9,15,14,17,8
+Barbara,General,3,12.5000%,12,13,10,15,14,17,8
+Barbara,General,4,12.5000%,12,13,9,16,14,17,8
+Barbara,General,5,12.5000%,12,13,9,15,15,17,8
+Barbara,General,6,12.5000%,12,13,9,15,14,17,8
+Barbara,General,7,12.5000%,12,13,9,15,14,17,9
+Barbara,General,8,12.5000%,12,13,9,15,14,17,8
+Kiriha,General,1,13.3333%,14,13,11,12,13,13,13
+Kiriha,General,2,6.6667%,13,14,11,12,13,13,13
+Kiriha,General,3,6.6667%,13,13,11,12,13,13,13
+Kiriha,General,4,10.0000%,13,13,11,13,13,13,13
+Kiriha,General,5,16.6667%,13,13,11,12,14,13,13
+Kiriha,General,6,16.6667%,13,13,11,12,13,14,13
+Kiriha,General,7,13.3333%,13,13,11,12,13,13,14
+Kiriha,General,8,16.6667%,13,13,11,12,13,13,13
+Bugen,General,1,19.2308%,17,10,12,18,17,7,8
+Bugen,General,2,11.5385%,16,11,12,18,17,7,8
+Bugen,General,3,7.6923%,16,10,13,18,17,7,8
+Bugen,General,4,15.3846%,16,10,12,19,17,7,8
+Bugen,General,5,15.3846%,16,10,12,18,18,7,8
+Bugen,General,6,7.6923%,16,10,12,18,17,7,8
+Bugen,General,7,11.5385%,16,10,12,18,17,7,9
+Bugen,General,8,11.5385%,16,10,12,18,17,7,8
+Heinrico,General,1,13.2075%,12,14,10,12,17,13,11
+Heinrico,General,2,11.3208%,11,15,10,12,17,13,11
+Heinrico,General,3,7.5472%,11,14,10,12,17,13,11
+Heinrico,General,4,7.5472%,11,14,10,13,17,13,11
+Heinrico,General,5,18.8679%,11,14,10,12,18,13,11
+Heinrico,General,6,15.0943%,11,14,10,12,17,14,11
+Heinrico,General,7,15.0943%,11,14,10,12,17,13,12
+Heinrico,General,8,11.3208%,11,14,10,12,17,13,11
+Camille,General,1,6.6667%,11,17,13,10,13,14,10
+Camille,General,2,17.7778%,11,18,13,10,13,14,10
+Camille,General,3,17.7778%,11,17,14,10,13,14,10
+Camille,General,4,8.8889%,11,17,13,10 (25.0%) | 11 (75.0%),13,14,10
+Camille,General,5,11.1111%,11,17,13,10,14,14,10
+Camille,General,6,15.5556%,11,17,13,10,13,15,10
+Camille,General,7,8.8889%,11,17,13,10,13,14,10
+Camille,General,8,13.3333%,11,17,13,10,13,14,10
+Human-Fig,Anonymous,1,12.5000%,15,13,12,13,13,11,11
+Human-Fig,Anonymous,2,12.5000%,14,13,12,13,13,11,11
+Human-Fig,Anonymous,3,12.5000%,14,13,12,13,13,11,11
+Human-Fig,Anonymous,4,12.5000%,14,13,12,14,13,11,11
+Human-Fig,Anonymous,5,12.5000%,14,13,12,13,14,11,11
+Human-Fig,Anonymous,6,12.5000%,14,13,12,13,13,12,11
+Human-Fig,Anonymous,7,12.5000%,14,13,12,13,13,11,12
+Human-Fig,Anonymous,8,12.5000%,14,13,12,13,13,11,11
+Beast-Thi,Anonymous,1,12.5000%,11,13,10,13,14,17,10
+Beast-Thi,Anonymous,2,12.5000%,10,13,10,13,14,17,10
+Beast-Thi,Anonymous,3,12.5000%,10,13,10,13,14,17,10
+Beast-Thi,Anonymous,4,12.5000%,10,13,10,14,14,17,10
+Beast-Thi,Anonymous,5,12.5000%,10,13,10,13,15,17,10
+Beast-Thi,Anonymous,6,12.5000%,10,13,10,13,14,18,10
+Beast-Thi,Anonymous,7,12.5000%,10,13,10,13,14,17,11
+Beast-Thi,Anonymous,8,12.5000%,10,13,10,13,14,17,10
+Elf-Pri,Anonymous,1,12.5000%,11,17,12,10,14,12,12
+Elf-Pri,Anonymous,2,12.5000%,10,18,12,10,14,12,12
+Elf-Pri,Anonymous,3,12.5000%,10,17,13,10,14,12,12
+Elf-Pri,Anonymous,4,12.5000%,10,17,12,11,14,12,12
+Elf-Pri,Anonymous,5,12.5000%,10,17,12,10,15,12,12
+Elf-Pri,Anonymous,6,12.5000%,10,17,12,10,14,12,12
+Elf-Pri,Anonymous,7,12.5000%,10,17,12,10,14,12,13
+Elf-Pri,Anonymous,8,12.5000%,10,17,12,10,14,12,12
+Human-Pri,Anonymous,1,12.5000%,14,13,14,12,11,12,12
+Human-Pri,Anonymous,2,12.5000%,13,14,14,12,11,12,12
+Human-Pri,Anonymous,3,12.5000%,13,13,15,12,11,12,12
+Human-Pri,Anonymous,4,12.5000%,13,13,14,13,11,12,12
+Human-Pri,Anonymous,5,12.5000%,13,13,14,12,12,12,12
+Human-Pri,Anonymous,6,12.5000%,13,13,14,12,11,12,12
+Human-Pri,Anonymous,7,12.5000%,13,13,14,12,11,12,13
+Human-Pri,Anonymous,8,12.5000%,13,13,14,12,11,12,12
+Elf-Mag,Anonymous,1,12.5000%,9,19,11,9,14,14,11
+Elf-Mag,Anonymous,2,12.5000%,9,20,11,9,14,14,11
+Elf-Mag,Anonymous,3,12.5000%,9,19,12,9,14,14,11
+Elf-Mag,Anonymous,4,12.5000%,9,19,11,9,14,14,11
+Elf-Mag,Anonymous,5,12.5000%,9,19,11,9,15,14,11
+Elf-Mag,Anonymous,6,12.5000%,9,19,11,9,14,15,11
+Elf-Mag,Anonymous,7,12.5000%,9,19,11,9,14,14,12
+Elf-Mag,Anonymous,8,12.5000%,9,19,11,9,14,14,11
+Dwarf-Kni,Anonymous,1,12.5000%,17,9,13,19,16,7,8
+Dwarf-Kni,Anonymous,2,12.5000%,16,9,13,19,16,7,8
+Dwarf-Kni,Anonymous,3,12.5000%,16,9,14,19,16,7,8
+Dwarf-Kni,Anonymous,4,12.5000%,16,9,13,20,16,7,8
+Dwarf-Kni,Anonymous,5,12.5000%,16,9,13,19,17,7,8
+Dwarf-Kni,Anonymous,6,12.5000%,16,9,13,19,16,7,8
+Dwarf-Kni,Anonymous,7,12.5000%,16,9,13,19,16,7,8 (50.0%) | 9 (50.0%)
+Dwarf-Kni,Anonymous,8,12.5000%,16,9,13,19,16,7,8
+Human-Nin,Anonymous,1,13.3333%,13,12,12,11,13,16,12
+Human-Nin,Anonymous,2,6.6667%,12,13,12,11,13,16,12
+Human-Nin,Anonymous,3,6.6667%,12,12,12,11,13,16,12
+Human-Nin,Anonymous,4,10.0000%,12,12,12,12,13,16,12
+Human-Nin,Anonymous,5,16.6667%,12,12,12,11,14,16,12
+Human-Nin,Anonymous,6,16.6667%,12,12,12,11,13,17,12
+Human-Nin,Anonymous,7,13.3333%,12,12,12,11,13,16,13
+Human-Nin,Anonymous,8,16.6667%,12,12,12,11,13,16,12
+Human-Sam,Anonymous,1,19.2308%,15,14,12,13,13,11,11
+Human-Sam,Anonymous,2,11.5385%,14,15,12,13,13,11,11
+Human-Sam,Anonymous,3,7.6923%,14,14,13,13,13,11,11
+Human-Sam,Anonymous,4,15.3846%,14,14,12,14,13,11,11
+Human-Sam,Anonymous,5,15.3846%,14,14,12,13,14,11,11
+Human-Sam,Anonymous,6,7.6923%,14,14,12,13,13,11 (75.0%) | 12 (25.0%),11
+Human-Sam,Anonymous,7,11.5385%,14,14,12,13,13,11,12
+Human-Sam,Anonymous,8,11.5385%,14,14,12,13,13,11,11
+Lanavaille - Alt,Legendary,1,12.5000%,16,12,13,14,11,12,11
+Lanavaille - Alt,Legendary,2,12.5000%,15,12,13,14,11,12,11
+Lanavaille - Alt,Legendary,3,12.5000%,15,12,14,14,11,12,11
+Lanavaille - Alt,Legendary,4,12.5000%,15,12,13,15,11,12,11
+Lanavaille - Alt,Legendary,5,12.5000%,15,12,13,14,12,12,11
+Lanavaille - Alt,Legendary,6,12.5000%,15,12,13,14,11,12,11
+Lanavaille - Alt,Legendary,7,12.5000%,15,12,13,14,11,12,12
+Lanavaille - Alt,Legendary,8,12.5000%,15,12,13,14,11,12,11
+Gerard,Legendary,1,12.5000%,15,13,12,14,12,11,12
+Gerard,Legendary,2,12.5000%,14,13,12,14,12,11,12
+Gerard,Legendary,3,12.5000%,14,13,13,14,12,11,12
+Gerard,Legendary,4,12.5000%,14,13,12,15,12,11,12
+Gerard,Legendary,5,12.5000%,14,13,12,14,13,11,12
+Gerard,Legendary,6,12.5000%,14,13,12,14,12,11,12
+Gerard,Legendary,7,12.5000%,14,13,12,14,12,11,13
+Gerard,Legendary,8,12.5000%,14,13,12,14,12,11,12
+Abenius,Legendary,1,12.5000%,14,12,14,12,12,12,12
+Abenius,Legendary,2,12.5000%,13,12,14,12,12,12,12
+Abenius,Legendary,3,12.5000%,13,12,14,12,12,12,12
+Abenius,Legendary,4,12.5000%,13,12,14,13,12,12,12
+Abenius,Legendary,5,12.5000%,13,12,14,12,13,12,12
+Abenius,Legendary,6,12.5000%,13,12,14,12,12,13,12
+Abenius,Legendary,7,12.5000%,13,12,14,12,12,12,13
+Abenius,Legendary,8,12.5000%,13,12,14,12,12,12,12
+Red Beard,Legendary,1,12.5000%,15,12,14,15,15,7,10
+Red Beard,Legendary,2,12.5000%,14,13,14,15,15,7,10
+Red Beard,Legendary,3,12.5000%,14,12,15,15,15,7,10
+Red Beard,Legendary,4,12.5000%,14,12,14,16,15,7,10
+Red Beard,Legendary,5,12.5000%,14,12,14,15,16,7,10
+Red Beard,Legendary,6,12.5000%,14,12,14,15,15,7,10
+Red Beard,Legendary,7,12.5000%,14,12,14,15,15,7,11
+Red Beard,Legendary,8,12.5000%,14,12,14,15,15,7,10
+Rinne,Legendary,1,13.3333%,11,17,11,9,14,15,12
+Rinne,Legendary,2,6.6667%,10,18,11,9,14,15,12
+Rinne,Legendary,3,6.6667%,10,17,11,9,14,15,12
+Rinne,Legendary,4,10.0000%,10,17,11,10,14,15,12
+Rinne,Legendary,5,16.6667%,10,17,11,9,15,15,12
+Rinne,Legendary,6,16.6667%,10,17,11,9,14,16,12
+Rinne,Legendary,7,13.3333%,10,17,11,9,14,15,13
+Rinne,Legendary,8,16.6667%,10,17,11,9,14,15,12
+Savia,Legendary,1,12.5000%,13,15,9,15,13,15,9
+Savia,Legendary,2,12.5000%,12,15,9,15,13,15,9
+Savia,Legendary,3,12.5000%,12,15,10,15,13,15,9
+Savia,Legendary,4,12.5000%,12,15,9,16,13,15,9
+Savia,Legendary,5,12.5000%,12,15,9,15,14,15,9
+Savia,Legendary,6,12.5000%,12,15,9,15,13,15,9
+Savia,Legendary,7,12.5000%,12,15,9,15,13,15,10
+Savia,Legendary,8,12.5000%,12,15,9,15,13,15,9
+Marianne - Alt,General,1,12.5000%,12,13,14,11,12,14,12
+Marianne - Alt,General,2,12.5000%,11,14,14,11,12,14,12
+Marianne - Alt,General,3,12.5000%,11,13,15,11,12,14,12
+Marianne - Alt,General,4,12.5000%,11,13,14,12,12,14,12
+Marianne - Alt,General,5,12.5000%,11,13,14,11,13,14,12
+Marianne - Alt,General,6,12.5000%,11,13,14,11,12,14,12
+Marianne - Alt,General,7,12.5000%,11,13,14,11,12,14,13
+Marianne - Alt,General,8,12.5000%,11,13,14,11,12,14,12
+Flut - Alt,General,1,12.5000%,9,19,12,9,14,14,10
+Flut - Alt,General,2,12.5000%,9,20,12,9,14,14,10
+Flut - Alt,General,3,12.5000%,9,19,13,9,14,14,10
+Flut - Alt,General,4,12.5000%,9,19,12,9,14,14,10
+Flut - Alt,General,5,12.5000%,9,19,12,9,15,14,10
+Flut - Alt,General,6,12.5000%,9,19,12,9,14,15,10
+Flut - Alt,General,7,12.5000%,9,19,12,9,14,14,10 (25.0%) | 11 (75.0%)
+Flut - Alt,General,8,12.5000%,9,19,12,9,14,14,10
+Arboris,Legendary,1,12.5000%,11,14,10,12,16,14,11
+Arboris,Legendary,2,12.5000%,10,15,10,12,16,14,11
+Arboris,Legendary,3,12.5000%,10,14,10,12,16,14,11
+Arboris,Legendary,4,12.5000%,10,14,10,13,16,14,11
+Arboris,Legendary,5,12.5000%,10,14,10,12,17,14,11
+Arboris,Legendary,6,12.5000%,10,14,10,12,16,15,11
+Arboris,Legendary,7,12.5000%,10,14,10,12,16,14,12
+Arboris,Legendary,8,12.5000%,10,14,10,12,16,14,11
+Iarumas,Legendary,1,17.3913%,16,13,12,14,14,12,13
+Iarumas,Legendary,2,17.3913%,15,14,12,14,14,12,13
+Iarumas,Legendary,3,4.3478%,15,13,12,14,14,12,13
+Iarumas,Legendary,4,17.3913%,15,13,12,15,14,12,13
+Iarumas,Legendary,5,4.3478%,15,13,12,14,15,12,13
+Iarumas,Legendary,6,8.6957%,15,13,12,14,14,13,13
+Iarumas,Legendary,7,13.0435%,15,13,12,14,14,12,14
+Iarumas,Legendary,8,17.3913%,15,13,12,14,14,12,13
+Berkanan,Legendary,1,17.3913%,15,13,12,12,12,12,11
+Berkanan,Legendary,2,17.3913%,14,14,12,12,12,12,11
+Berkanan,Legendary,3,4.3478%,14,13,12,12,12,12,11
+Berkanan,Legendary,4,17.3913%,14,13,12,13,12,12,11
+Berkanan,Legendary,5,4.3478%,14,13,12,12,13,12,11
+Berkanan,Legendary,6,8.6957%,14,13,12,12,12,12,11
+Berkanan,Legendary,7,13.0435%,14,13,12,12,12,12,12
+Berkanan,Legendary,8,17.3913%,14,13,12,12,12,12,11
+Shelirionach,Legendary,1,12.5000%,9,19,11,9,14,14,11
+Shelirionach,Legendary,2,12.5000%,9,20,11,9,14,14,11
+Shelirionach,Legendary,3,12.5000%,9,19,12,9,14,14,11
+Shelirionach,Legendary,4,12.5000%,9,19,11,9,14,14,11
+Shelirionach,Legendary,5,12.5000%,9,19,11,9,15,14,11
+Shelirionach,Legendary,6,12.5000%,9,19,11,9,14,15,11
+Shelirionach,Legendary,7,12.5000%,9,19,11,9,14,14,12
+Shelirionach,Legendary,8,12.5000%,9,19,11,9,14,14,11
+Livana,Legendary,1,12.5000%,14,14,13,12,12,12,11
+Livana,Legendary,2,12.5000%,13,14,13,12,12,12,11
+Livana,Legendary,3,12.5000%,13,14,13,12,12,12,11
+Livana,Legendary,4,12.5000%,13,14,13,13,12,12,11
+Livana,Legendary,5,12.5000%,13,14,13,12,13,12,11
+Livana,Legendary,6,12.5000%,13,14,13,12,12,13,11
+Livana,Legendary,7,12.5000%,13,14,13,12,12,12,12
+Livana,Legendary,8,12.5000%,13,14,13,12,12,12,11
+Aldric,Legendary,1,12.5000%,15,9,12,15,17,11,9
+Aldric,Legendary,2,12.5000%,14,9,12,15,17,11,9
+Aldric,Legendary,3,12.5000%,14,9,12,15,17,11,9
+Aldric,Legendary,4,12.5000%,14,9,12,16,17,11,9
+Aldric,Legendary,5,12.5000%,14,9,12,15,18,11,9
+Aldric,Legendary,6,12.5000%,14,9,12,15,17,12,9
+Aldric,Legendary,7,12.5000%,14,9,12,15,17,11,10
+Aldric,Legendary,8,12.5000%,14,9,12,15,17,11,9
+Adam - Alt,Legendary,1,12.5000%,10,16,12,10,15,13,11
+Adam - Alt,Legendary,2,12.5000%,10,17,12,10,15,13,11
+Adam - Alt,Legendary,3,12.5000%,10,16,13,10,15,13,11
+Adam - Alt,Legendary,4,12.5000%,10,16,12,10,15,13,11
+Adam - Alt,Legendary,5,12.5000%,10,16,12,10,16,13,11
+Adam - Alt,Legendary,6,12.5000%,10,16,12,10,15,14,11
+Adam - Alt,Legendary,7,12.5000%,10,16,12,10,15,13,12
+Adam - Alt,Legendary,8,12.5000%,10,16,12,10,15,13,11
+Shiou,Legendary,1,19.2308%,13,14,8,14,15,17,8
+Shiou,Legendary,2,11.5385%,12,15,8,14,15,17,8
+Shiou,Legendary,3,7.6923%,12,14,8 (75.0%) | 9 (25.0%),14,15,17,8
+Shiou,Legendary,4,15.3846%,12,14,8,15,15,17,8
+Shiou,Legendary,5,15.3846%,12,14,8,14,16,17,8
+Shiou,Legendary,6,7.6923%,12,14,8,14,15,18,8
+Shiou,Legendary,7,11.5385%,12,14,8,14,15,17,9
+Shiou,Legendary,8,11.5385%,12,14,8,14,15,17,8
+Yekaterina - Alt,Legendary,1,12.5000%,11,14,12,13,13,13,11
+Yekaterina - Alt,Legendary,2,12.5000%,11,15,12,13,13,13,11
+Yekaterina - Alt,Legendary,3,12.5000%,11,14,13,13,13,13,11
+Yekaterina - Alt,Legendary,4,12.5000%,11,14,12,14,13,13,11
+Yekaterina - Alt,Legendary,5,12.5000%,11,14,12,13,14,13,11
+Yekaterina - Alt,Legendary,6,12.5000%,11,14,12,13,13,14,11
+Yekaterina - Alt,Legendary,7,12.5000%,11,14,12,13,13,13,12
+Yekaterina - Alt,Legendary,8,12.5000%,11,14,12,13,13,13,11
+Chloe - Alt,General,1,12.5000%,15,13,8,15,14,15,8
+Chloe - Alt,General,2,12.5000%,14,13,8,15,14,15,8
+Chloe - Alt,General,3,12.5000%,14,13,8,15,14,15,8
+Chloe - Alt,General,4,12.5000%,14,13,8,16,14,15,8
+Chloe - Alt,General,5,12.5000%,14,13,8,15,15,15,8
+Chloe - Alt,General,6,12.5000%,14,13,8,15,14,16,8
+Chloe - Alt,General,7,12.5000%,14,13,8,15,14,15,9
+Chloe - Alt,General,8,12.5000%,14,13,8,15,14,15,8
+Galbadus,Legendary,1,12.5000%,14,14,8,16,14,14,9
+Galbadus,Legendary,2,12.5000%,13,14,8,16,14,14,9
+Galbadus,Legendary,3,12.5000%,13,14,9,16,14,14,9
+Galbadus,Legendary,4,12.5000%,13,14,8,17,14,14,9
+Galbadus,Legendary,5,12.5000%,13,14,8,16,15,14,9
+Galbadus,Legendary,6,12.5000%,13,14,8,16,14,14,9
+Galbadus,Legendary,7,12.5000%,13,14,8,16,14,14,10
+Galbadus,Legendary,8,12.5000%,13,14,8,16,14,14,9
+Raffaello,Legendary,1,12.5000%,15,12,13,13,12,11,12
+Raffaello,Legendary,2,12.5000%,14,13,13,13,12,11,12
+Raffaello,Legendary,3,12.5000%,14,12,14,13,12,11,12
+Raffaello,Legendary,4,12.5000%,14,12,13,14,12,11,12
+Raffaello,Legendary,5,12.5000%,14,12,13,13,13,11,12
+Raffaello,Legendary,6,12.5000%,14,12,13,13,12,11,12
+Raffaello,Legendary,7,12.5000%,14,12,13,13,12,11,13
+Raffaello,Legendary,8,12.5000%,14,12,13,13,12,11,12
+Debra - Alt,Legendary,1,12.5000%,11,13,10,13,14,17,10
+Debra - Alt,Legendary,2,12.5000%,10,13,10,13,14,17,10
+Debra - Alt,Legendary,3,12.5000%,10,13,10,13,14,17,10
+Debra - Alt,Legendary,4,12.5000%,10,13,10,14,14,17,10
+Debra - Alt,Legendary,5,12.5000%,10,13,10,13,15,17,10
+Debra - Alt,Legendary,6,12.5000%,10,13,10,13,14,18,10
+Debra - Alt,Legendary,7,12.5000%,10,13,10,13,14,17,11
+Debra - Alt,Legendary,8,12.5000%,10,13,10,13,14,17,10
+Yuzunamiki,Legendary,1,13.3333%,12,13,8,15,15,17,9
+Yuzunamiki,Legendary,2,6.6667%,11,14,8,15,15,17,9
+Yuzunamiki,Legendary,3,6.6667%,11,13,8,15,15,17,9
+Yuzunamiki,Legendary,4,10.0000%,11,13,8,16,15,17,9
+Yuzunamiki,Legendary,5,16.6667%,11,13,8,15,16,17,9
+Yuzunamiki,Legendary,6,16.6667%,11,13,8,15,15,18,9
+Yuzunamiki,Legendary,7,13.3333%,11,13,8,15,15,17,10
+Yuzunamiki,Legendary,8,16.6667%,11,13,8,15,15,17,9
+Asha - Alt,General,1,12.5000%,13,14,12,12,12,13,11
+Asha - Alt,General,2,12.5000%,13,15,12,12,12,13,11
+Asha - Alt,General,3,12.5000%,13,14,13,12,12,13,11
+Asha - Alt,General,4,12.5000%,13,14,12,12,12,13,11
+Asha - Alt,General,5,12.5000%,13,14,12,12,13,13,11
+Asha - Alt,General,6,12.5000%,13,14,12,12,12,14,11
+Asha - Alt,General,7,12.5000%,13,14,12,12,12,13,12
+Asha - Alt,General,8,12.5000%,13,14,12,12,12,13,11
+Gillion,Legendary,1,12.5000%,15,13,11,13,13,11,12
+Gillion,Legendary,2,12.5000%,14,13,11,13,13,11,12
+Gillion,Legendary,3,12.5000%,14,13,11,13,13,11,12
+Gillion,Legendary,4,12.5000%,14,13,11,14,13,11,12
+Gillion,Legendary,5,12.5000%,14,13,11,13,14,11,12
+Gillion,Legendary,6,12.5000%,14,13,11,13,13,12,12
+Gillion,Legendary,7,12.5000%,14,13,11,13,13,11,13
+Gillion,Legendary,8,12.5000%,14,13,11,13,13,11,12
+Erwin,Legendary,1,12.5000%,12,16,10,11,15,13,10
+Erwin,Legendary,2,12.5000%,12,17,10,11,15,13,10
+Erwin,Legendary,3,12.5000%,12,16,11,11,15,13,10
+Erwin,Legendary,4,12.5000%,12,16,10,11 (75.0%) | 12 (25.0%),15,13,10
+Erwin,Legendary,5,12.5000%,12,16,10,11,16,13,10
+Erwin,Legendary,6,12.5000%,12,16,10,11,15,14,10
+Erwin,Legendary,7,12.5000%,12,16,10,11,15,13,11
+Erwin,Legendary,8,12.5000%,12,16,10,11,15,13,10
+Milana - Alt,General,1,12.5000%,9 (25.0%) | 10 (75.0%),17,11,9,14,15,12
+Milana - Alt,General,2,12.5000%,9,18,11,9,14,15,12
+Milana - Alt,General,3,12.5000%,9,17,11,9,14,15,12
+Milana - Alt,General,4,12.5000%,9,17,11,9 (25.0%) | 10 (75.0%),14,15,12
+Milana - Alt,General,5,12.5000%,9,17,11,9,15,15,12
+Milana - Alt,General,6,12.5000%,9,17,11,9,14,16,12
+Milana - Alt,General,7,12.5000%,9,17,11,9,14,15,13
+Milana - Alt,General,8,12.5000%,9,17,11,9,14,15,12
+Yrsa,Legendary,1,13.2075%,15,12,14,14,16,9,9
+Yrsa,Legendary,2,11.3208%,14,13,14,14,16,9,9
+Yrsa,Legendary,3,7.5472%,14,12,14,14,16,9,9
+Yrsa,Legendary,4,7.5472%,14,12,14,15,16,9,9
+Yrsa,Legendary,5,18.8679%,14,12,14,14,17,9,9
+Yrsa,Legendary,6,15.0943%,14,12,14,14,16,10,9
+Yrsa,Legendary,7,15.0943%,14,12,14,14,16,9,10
+Yrsa,Legendary,8,11.3208%,14,12,14,14,16,9,9
+Alice - Alt,Legendary,1,12.5000%,10,18,14,9,13,13,11
+Alice - Alt,Legendary,2,12.5000%,9,19,14,9,13,13,11
+Alice - Alt,Legendary,3,12.5000%,9,18,15,9,13,13,11
+Alice - Alt,Legendary,4,12.5000%,9,18,14,10,13,13,11
+Alice - Alt,Legendary,5,12.5000%,9,18,14,9,14,13,11
+Alice - Alt,Legendary,6,12.5000%,9,18,14,9,13,13,11
+Alice - Alt,Legendary,7,12.5000%,9,18,14,9,13,13,12
+Alice - Alt,Legendary,8,12.5000%,9,18,14,9,13,13,11
+Yoizou,Legendary,1,19.2308%,15,15,10,12,15,12,10
+Yoizou,Legendary,2,11.5385%,14,16,10,12,15,12,10
+Yoizou,Legendary,3,7.6923%,14,15,11,12,15,12,10
+Yoizou,Legendary,4,15.3846%,14,15,10,13,15,12,10
+Yoizou,Legendary,5,15.3846%,14,15,10,12,16,12,10
+Yoizou,Legendary,6,7.6923%,14,15,10,12,15,13,10
+Yoizou,Legendary,7,11.5385%,14,15,10,12,15,12,11
+Yoizou,Legendary,8,11.5385%,14,15,10,12,15,12,10
+Berkanan - Alt,Legendary,1,17.3913%,15,13,12,12,12,12,11
+Berkanan - Alt,Legendary,2,17.3913%,14,14,12,12,12,12,11
+Berkanan - Alt,Legendary,3,4.3478%,14,13,12,12,12,12,11
+Berkanan - Alt,Legendary,4,17.3913%,14,13,12,13,12,12,11
+Berkanan - Alt,Legendary,5,4.3478%,14,13,12,12,13,12,11
+Berkanan - Alt,Legendary,6,8.6957%,14,13,12,12,12,12,11
+Berkanan - Alt,Legendary,7,13.0435%,14,13,12,12,12,12,12
+Berkanan - Alt,Legendary,8,17.3913%,14,13,12,12,12,12,11
+Ainikki,Legendary,1,12.9630%,13,16,13,12,14,13,11
+Ainikki,Legendary,2,12.9630%,12,17,13,12,14,13,11
+Ainikki,Legendary,3,18.5185%,12,16,14,12,14,13,11
+Ainikki,Legendary,4,14.8148%,12,16,13,13,14,13,11
+Ainikki,Legendary,5,9.2593%,12,16,13,12,15,13,11
+Ainikki,Legendary,6,9.2593%,12,16,13,12,14,13,11
+Ainikki,Legendary,7,9.2593%,12,16,13,12,14,13,12
+Ainikki,Legendary,8,12.9630%,12,16,13,12,14,13,11
+Gerard - Alt,Legendary,1,12.5000%,15,13,12,14,12,11,12
+Gerard - Alt,Legendary,2,12.5000%,14,13,12,14,12,11,12
+Gerard - Alt,Legendary,3,12.5000%,14,13,13,14,12,11,12
+Gerard - Alt,Legendary,4,12.5000%,14,13,12,15,12,11,12
+Gerard - Alt,Legendary,5,12.5000%,14,13,12,14,13,11,12
+Gerard - Alt,Legendary,6,12.5000%,14,13,12,14,12,11,12
+Gerard - Alt,Legendary,7,12.5000%,14,13,12,14,12,11,13
+Gerard - Alt,Legendary,8,12.5000%,14,13,12,14,12,11,12
+Linaria,Legendary,1,12.5000%,12,14,12,11,12,14,13
+Linaria,Legendary,2,12.5000%,11,15,12,11,12,14,13
+Linaria,Legendary,3,12.5000%,11,14,12,11,12,14,13
+Linaria,Legendary,4,12.5000%,11,14,12,12,12,14,13
+Linaria,Legendary,5,12.5000%,11,14,12,11,13,14,13
+Linaria,Legendary,6,12.5000%,11,14,12,11,12,15,13
+Linaria,Legendary,7,12.5000%,11,14,12,11,12,14,14
+Linaria,Legendary,8,12.5000%,11,14,12,11,12,14,13
+Abenius - Alt,Legendary,1,12.5000%,14,12,14,12,12,12,12
+Abenius - Alt,Legendary,2,12.5000%,13,12,14,12,12,12,12
+Abenius - Alt,Legendary,3,12.5000%,13,12,14,12,12,12,12
+Abenius - Alt,Legendary,4,12.5000%,13,12,14,13,12,12,12
+Abenius - Alt,Legendary,5,12.5000%,13,12,14,12,13,12,12
+Abenius - Alt,Legendary,6,12.5000%,13,12,14,12,12,13,12
+Abenius - Alt,Legendary,7,12.5000%,13,12,14,12,12,12,13
+Abenius - Alt,Legendary,8,12.5000%,13,12,14,12,12,12,12
+Anemone,Legendary,1,6.6667%,6,16,13,8,13,18,14
+Anemone,Legendary,2,17.7778%,6,17,13,8,13,18,14
+Anemone,Legendary,3,17.7778%,6,16,14,8,13,18,14
+Anemone,Legendary,4,8.8889%,6,16,13,8 (50.0%) | 9 (50.0%),13,18,14
+Anemone,Legendary,5,11.1111%,6,16,13,8,14,18,14
+Anemone,Legendary,6,15.5556%,6,16,13,8,13,19,14
+Anemone,Legendary,7,8.8889%,6,16,13,8,13,18,15
+Anemone,Legendary,8,13.3333%,6,16,13,8,13,18,14
+Savia - Alt,Legendary,1,12.5000%,13,15,9,15,13,15,9
+Savia - Alt,Legendary,2,12.5000%,12,15,9,15,13,15,9
+Savia - Alt,Legendary,3,12.5000%,12,15,10,15,13,15,9
+Savia - Alt,Legendary,4,12.5000%,12,15,9,16,13,15,9
+Savia - Alt,Legendary,5,12.5000%,12,15,9,15,14,15,9
+Savia - Alt,Legendary,6,12.5000%,12,15,9,15,13,15,9
+Savia - Alt,Legendary,7,12.5000%,12,15,9,15,13,15,10
+Savia - Alt,Legendary,8,12.5000%,12,15,9,15,13,15,9
+Shiou - Alt,Legendary,1,19.2308%,13,14,8,14,15,17,8
+Shiou - Alt,Legendary,2,11.5385%,12,15,8,14,15,17,8
+Shiou - Alt,Legendary,3,7.6923%,12,14,8 (75.0%) | 9 (25.0%),14,15,17,8
+Shiou - Alt,Legendary,4,15.3846%,12,14,8,15,15,17,8
+Shiou - Alt,Legendary,5,15.3846%,12,14,8,14,16,17,8
+Shiou - Alt,Legendary,6,7.6923%,12,14,8,14,15,18,8
+Shiou - Alt,Legendary,7,11.5385%,12,14,8,14,15,17,9
+Shiou - Alt,Legendary,8,11.5385%,12,14,8,14,15,17,8
+Kagero,Legendary,1,13.3333%,13,12,7,14,16,18,9
+Kagero,Legendary,2,6.6667%,12,13,7,14,16,18,9
+Kagero,Legendary,3,6.6667%,12,12,7,14,16,18,9
+Kagero,Legendary,4,10.0000%,12,12,7,15,16,18,9
+Kagero,Legendary,5,16.6667%,12,12,7,14,17,18,9
+Kagero,Legendary,6,16.6667%,12,12,7,14,16,19,9
+Kagero,Legendary,7,13.3333%,12,12,7,14,16,18,10
+Kagero,Legendary,8,16.6667%,12,12,7,14,16,18,9
+Livana - Alt,Legendary,1,12.5000%,14,14,13,12,12,12,11
+Livana - Alt,Legendary,2,12.5000%,13,14,13,12,12,12,11
+Livana - Alt,Legendary,3,12.5000%,13,14,13,12,12,12,11
+Livana - Alt,Legendary,4,12.5000%,13,14,13,13,12,12,11
+Livana - Alt,Legendary,5,12.5000%,13,14,13,12,13,12,11
+Livana - Alt,Legendary,6,12.5000%,13,14,13,12,12,13,11
+Livana - Alt,Legendary,7,12.5000%,13,14,13,12,12,12,12
+Livana - Alt,Legendary,8,12.5000%,13,14,13,12,12,12,11
+Rinne - Alt,Legendary,1,13.3333%,11,17,11,9,14,15,12
+Rinne - Alt,Legendary,2,6.6667%,10,18,11,9,14,15,12
+Rinne - Alt,Legendary,3,6.6667%,10,17,11,9,14,15,12
+Rinne - Alt,Legendary,4,10.0000%,10,17,11,10,14,15,12
+Rinne - Alt,Legendary,5,16.6667%,10,17,11,9,15,15,12
+Rinne - Alt,Legendary,6,16.6667%,10,17,11,9,14,16,12
+Rinne - Alt,Legendary,7,13.3333%,10,17,11,9,14,15,13
+Rinne - Alt,Legendary,8,16.6667%,10,17,11,9,14,15,12
+Zeid,Legendary,1,23.8095%,20,10,9,20,15,6,9
+Zeid,Legendary,2,9.5238%,19,11,9,20,15,6,9
+Zeid,Legendary,3,9.5238%,19,10,9,20,15,6,9
+Zeid,Legendary,4,19.0476%,19,10,9,21,15,6,9
+Zeid,Legendary,5,9.5238%,19,10,9,20,16,6,9
+Zeid,Legendary,6,9.5238%,19,10,9,20,15,6,9
+Zeid,Legendary,7,9.5238%,19,10,9,20,15,6,10
+Zeid,Legendary,8,9.5238%,19,10,9,20,15,6,9
+Prishe,Legendary,1,23.8095%,20,7,16,13,11,10,10
+Prishe,Legendary,2,9.5238%,19,7,16,13,11,10,10
+Prishe,Legendary,3,19.0476%,19,7,17,13,11,10,10
+Prishe,Legendary,4,9.5238%,19,7,16,14,11,10,10
+Prishe,Legendary,5,9.5238%,19,7,16,13,12,10,10
+Prishe,Legendary,6,9.5238%,19,7,16,13,11,10 (50.0%) | 11 (50.0%),10
+Prishe,Legendary,7,9.5238%,19,7,16,13,11,10,11
+Prishe,Legendary,8,9.5238%,19,7,16,13,11,10,10
+Iroha,Legendary,1,9.5238%,16,12,13,13,12,12,11
+Iroha,Legendary,2,9.5238%,15,12,13,13,12,12,11
+Iroha,Legendary,3,23.8095%,15,12,14,13,12,12,11
+Iroha,Legendary,4,19.0476%,15,12,13,14,12,12,11
+Iroha,Legendary,5,9.5238%,15,12,13,13,13,12,11
+Iroha,Legendary,6,9.5238%,15,12,13,13,12,13,11
+Iroha,Legendary,7,9.5238%,15,12,13,13,12,12,12
+Iroha,Legendary,8,9.5238%,15,12,13,13,12,12,11
+Elise - Alt,General,1,12.5000%,12,15,11,12,15,13,10
+Elise - Alt,General,2,12.5000%,11,15,11,12,15,13,10
+Elise - Alt,General,3,12.5000%,11,15,11,12,15,13,10
+Elise - Alt,General,4,12.5000%,11,15,11,13,15,13,10
+Elise - Alt,General,5,12.5000%,11,15,11,12,16,13,10
+Elise - Alt,General,6,12.5000%,11,15,11,12,15,14,10
+Elise - Alt,General,7,12.5000%,11,15,11,12,15,13,11
+Elise - Alt,General,8,12.5000%,11,15,11,12,15,13,10
