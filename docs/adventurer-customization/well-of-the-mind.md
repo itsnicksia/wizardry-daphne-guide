@@ -2,17 +2,16 @@
 
 ## Well of the Mind
 
-The Well of the Mind is a unique main character customization element accessible from the Ruins where you can unlock classes, skills, spells, and stat increases using "Mind Pearls".  
+The Well of the Mind is a *main character only* customization element accessible from the Ruins where you can unlock classes, skills, spells, and stat increases using "Mind Pearls".  
 
-You start with 4 Mind Pearls. More are obtained by using ["Guiding Lights" that can be collected through progressing in the main story](#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area. This will open those nodes for use and give you an additional 1-4 Mind Pearls.
+You start with 4 Mind Pearls. More are obtained by using ["Guiding Lights" that can be collected through progressing in the main story](#guiding-lights). Guiding lights are used by unlocking a color-matching clouded area of the Well after activating a node adjacent to that clouded area. This will open those nodes for use and also give you an additional 1-4 Mind Pearls.
 
 Node layout and Mind Pearl costs are noted on the node map below, with node border colors matching the Guiding Light needed for unlocking that area.  For the meaning of each node, see [the Acronym/Node label description table](#wotm-acronymsnode-labels-table).
 
-[Work In Progress](https://docs.google.com/drawings/d/1vpO4_4Z8DE4ba7NVDWpWgkeXaeyBkpAGcC0YTr0XzeQ/edit)  
 ![Well of the Mind](./img/well-of-the-mind.png)
 
 !!! warning
-    The Well can be reset every 24 hours for free. You can reset it sooner than that for 100 green or purple Gems of Org. The skill, spell, proficiency, and class nodes are always in the same location. However, the stat and type change nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on another reset.
+    The Well can be reset every 24 hours for free. You can reset it sooner than that for 100 green or purple Gems. The skill, spell, proficiency, and class nodes are always in the same location, however, stat, type change, race-slayer, etc., nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on the next, and one time you may have Dark, Earth, and Water Types available and the next time it's Air, Fire, and Earth.  
 
 ## Skill Improvement Values
 The table below shows the stat increase per node taken.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. 
@@ -51,6 +50,11 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 
 ## Guiding Lights
 
+The following table gives you details about the Lamps that unlock more of the Well and increase your Mind Pearls Total.  
+
+!!! tip "Inconsistent Mind Pearls from Lamps?"
+*Note the number of pearls unlocked by each Lamp is listed below based on inital tests, but has recently reported as inconsistent between players. It appears the total is fixed but the per-Lamp amount can vary depending on the order in which they are unlocked.*  
+
 | Guiding Light | Bonus Mind Pearls<sup>†</sup> | Method to Obtain  |
 |:------------- | :-----: |:---------------------------- |
 | <span style="color: #FF0000">STR 1</span>   |    4   | Abyss 1: Obtained after unlocking the Cursed Wheel |
@@ -76,14 +80,11 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | <span style="color: MediumOrchid">LUCK 9</span> |   1   | Abyss 4: Get all three best endings on [Witch Hunt in Elden Hill Village](../abyss-guides/4-isberg/faction-requests.md#witch-hunt-in-elden-hill-village-faction-1-requests) for details |
 | <span style="color: MediumOrchid">LUCK 10</span> |   1   | Abyss 4: Defeat the final version (4th fight) of the GWO |
 
-
-<sup>†</sup> <small>You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 50 Mind Pearls. (updated 4 Apr 2026)</small>
+<sup>†</sup> <small>You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 50 Mind Pearls. (updated 4 Apr 2026)</small>  
 
 ??? warning "Help, I'm Missing Guiding Lights!"
-    If you met the requirements to obtain a guiding light but don't have it actually available in the Well for use, try exiting and restarting the game. Some of them seem to need a reboot to show up properly.
+    If you met the requirements to obtain a guiding light but don't have it actually available in the Well for use, try exiting and restarting the game. Some of them seem to need a reboot to show up properly.  
 
-
- 
 ## WotM Acronyms/Node Labels Table
 
 | Acronym / Node Label | DESCRIPTION | 
