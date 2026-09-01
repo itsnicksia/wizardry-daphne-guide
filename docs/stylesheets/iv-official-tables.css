@@ -11,7 +11,7 @@
   border: none;
   cursor: pointer;
   font-family: inherit;
-  font-size: 17.19px;
+  font-size: 18.5px;
   color: inherit;
   padding: 8px 14px 10px;
   border-bottom: 2px solid transparent;
@@ -31,14 +31,14 @@
 }
 .iv-field-label {
   display: block;
-  font-size: 16.88px;
+  font-size: 17.25px;
 }
 
 .iv-search-input-wrap { position: relative; }
 .iv-search-input-wrap input[type="text"] {
   width: 100%;
   font-family: inherit;
-  font-size: 17.19px;
+  font-size: 18px;
   background: rgba(0,0,0,0.2);
   color: inherit;
   border: 1px solid currentColor;
@@ -72,7 +72,7 @@
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  font-size: 16.88px;
+  font-size: 17.25px;
   cursor: pointer;
 }
 .iv-mode-option input[type="radio"] {
@@ -138,7 +138,7 @@
 table.iv-table {
   width: 100%;
   border-collapse: collapse;
-  font-size: 16.56px;
+  font-size: 17px;
 }
 table.iv-table th, table.iv-table td {
   padding: 6px 8px;
