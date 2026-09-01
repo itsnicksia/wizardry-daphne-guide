@@ -2,7 +2,7 @@
 
 ### Directions
 
-Look up the IV drop rates for any Adventurer from Drecom's official tables.
+Look up the IV drop rates for any Adventurer from Drecom's [official tables](https://rates.wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=Stat%20Drop%20Rates%20by%20Adventurer).
 
 * Search by name, filter by category, or browse the full list.
 * IV values are highlighted for ease of reading.
