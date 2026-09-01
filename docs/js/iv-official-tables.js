@@ -135,7 +135,7 @@ document$.subscribe(() => {
         '<span class="iv-result-name">' + unit.name + '</span>' +
         '<span class="iv-pill iv-pill-' + unit.cat.toLowerCase() + '">' + unit.cat + '</span>' +
       '</div>' +
-      '<div class="iv-table-scroll"><table><thead><tr>' +
+      '<div class="iv-table-scroll"><table class="iv-table"><thead><tr>' +
         headerCells +
       '</tr></thead><tbody>' + rowsHtml + '</tbody></table></div>';
 
