@@ -1,11 +1,15 @@
 # IV Official Tables
 
+### Directions
+
 Look up the IV drop rates for any Adventurer from Drecom's official tables.
 
 * Search by name, filter by category, or browse the full list.
 * IV values are highlighted for ease of reading.
 * Drop rates can also be sorted by clicking on the column header text.
 * Note that some Adventurers have "hidden" IVs that can only be viewed at Level 1 in the Class Change screen in the Guild.
+
+### Look Up 
 
 <div class="iv-tabs" role="tablist" id="iv-tabs"></div>
 
