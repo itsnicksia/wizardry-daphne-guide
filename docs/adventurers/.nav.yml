@@ -1,6 +1,8 @@
 nav:
-  - Quicklist: './quicklist/adventurer-quicklist.md'
-  - Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
+  - Reference: 
+    - Quicklist: './quicklist/adventurer-quicklist.md'
+    - IV Official Tables: '../tools/iv-official-tables.md'
+    - Review Criteria: './legendary-adventurers/details/_adventurer-review-criteria.md'
   - Legendary:
     - Abenius: './legendary-adventurers/details/Abenius.md'
     - Adam: './legendary-adventurers/details/Adam.md'
