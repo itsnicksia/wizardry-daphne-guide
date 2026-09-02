@@ -6,7 +6,7 @@ theme:
     scheme: slate
     primary: black
   font:
-     text: Arimo
+     text: Roboto
   logo: img/logo_red.webp
   favicon: https://wizardry.fasterthoughts.io/img/favicon.ico
   features:
