@@ -16,3 +16,7 @@
 .md-typeset .admonition {
     font-size: .80rem;
 }
+
+html {
+    font-size: 115%;
+}
