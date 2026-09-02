@@ -53,7 +53,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 The following table gives you details about the Lamps that unlock more of the Well and increase your Mind Pearls Total.  
 
 !!! tip "Inconsistent Mind Pearls from Lamps?"
-*Note the number of pearls unlocked by each Lamp is listed below based on inital tests, but has recently reported as inconsistent between players. It appears the total is fixed but the per-Lamp amount can vary depending on the order in which they are unlocked.*  
+    *Note the number of pearls unlocked by each Lamp is listed below based on inital tests, but has recently reported as inconsistent between players. It appears the total is fixed but the per-Lamp amount can vary depending on the order in which they are unlocked.*  
 
 | Guiding Light | Bonus Mind Pearls<sup>†</sup> | Method to Obtain  |
 |:------------- | :-----: |:---------------------------- |
