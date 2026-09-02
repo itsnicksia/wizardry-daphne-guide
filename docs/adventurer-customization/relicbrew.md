@@ -345,7 +345,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Comp. # |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- |:-----------------:|
-| Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
+| Redripened Carapace                        | Crit Tol Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | Gobber's Evil Eye                          | Acc Up, Surety Down                  | Neutral     | Goblin                 | Gobber Bloodwood                        | 4035              |
 | Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer          | Gobber Bowman Gleamblight               | 4036              |
 | Gobber's Magic-Resistant Lump              | Magic Def Up, Crit Tol Down          | Neutral     | Goblin Mage            | Gobber Sorcerer Rootcrystal             | 4037              |
