@@ -88,7 +88,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 176,1H_Sword!A176,1H_Sword,187,Earthrend Sword,Silver,2,,1875,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Earth Type
 182,1H_Sword!A182,1H_Sword,188,Seafoam Sword,Silver,2,,1875,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Water Type
 188,1H_Sword!A188,1H_Sword,259,Sword of the Forsaken Eagle,Silver,2,,1600,58,0,0,0,0,0,12,0,2,0,76,0,0,0,0,0,12,0,2,0,94,0,0,0,0,0,12,0,2,0,112,0,0,0,0,0,12,0,2,0,130,0,0,0,0,0,12,0,2,0,Magical Beast-Slayer
-194,1H_Sword!A194,1H_Sword,260,Sword of Triple Slicing,Silver,2,,,62,0,0,0,0,0,10,0,2,0,80,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,1H_Sword!A194,1H_Sword,260,Sword of Triple Slicing,Silver,2,,,62,0,0,0,0,0,10,0,2,0,80,0,0,0,0,0,10,0,2,0,98,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,"Humanoid-Slayer, Restore HP on Enemy Kill"
 200,1H_Sword!A200,1H_Sword,Ex.,Stormbringer,Silver,2,,5520,75,0,0,0,0,2,10,0,1,0,97,0,0,0,0,4,10,0,1,0,115,0,0,0,0,5,10,0,1,0,128,0,0,0,0,6,10,0,1,0,134,0,0,0,0,7,10,0,1,0,"Air Type, Inflict Paralysis"
 206,1H_Sword!A206,1H_Sword,Ex.,Excalibur [XI],Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,118,0,0,0,0,0,10,0,2,0,136,0,0,0,0,0,10,0,2,0,"Always 4* Red with fixed type ATK/ACC/EVA/ATK%, Knights of Round, Power of Excalibur"
 212,1H_Sword!A212,1H_Sword,Ex.,Guardian Blade of Lacus,Silver,2,,5520,69,0,0,0,0,0,20,0,2,0,91,0,0,0,0,0,20,0,2,0,109,0,0,0,0,0,20,0,2,0,122,0,0,0,0,0,20,0,2,0,128,0,0,0,0,0,20,0,2,0,Sigil of Indomitability
