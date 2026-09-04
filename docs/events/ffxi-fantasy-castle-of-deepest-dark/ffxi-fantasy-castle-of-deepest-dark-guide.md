@@ -735,23 +735,26 @@ One notable thing is that while real players can fulfill your requests, there ar
   
 ### Mining for Ore  
 
-- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point the item shop in town will sell you pickaxes under Consumable items for 100gp.  There will also be Golden Pickaxes in the Jeweler Exchange for 500 Gil.  
-- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. Black formations are 'dead' and cannot be mined. See Mining Maps below.  
-- The rock formation will 'shatter' after a few mining attempts. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
-- Pickaxes break every 1-4 uses.  Golden pickaxes don't last any longer but they produce 3x the mining return per use.  
+!!! note "Unlocking"
+    After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  The item shop will now start selling  Pickaxes under Consumable items for 100gp and Golden Pickaxes will be in the Event Exchange at the Jeweler for 500 Gil.  
+
+- In the Castle with a pickaxe in your inventory (Digging Mattock doesn't count) clicking on any of the multi-colored rock formations in the walls will mine it for ore. See Mining Maps below.  
+- The rock formation will 'shatter' and turn into a 'dead' rock after a few mining attempts. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
+- All Pickaxes break every 1-4 uses.  Golden pickaxes don't last any longer.
+- Pickaxe type makes no difference in mining output types, but a Golden Pickaxe produces 3x the mining return per use. There is no other difference.
 - You will always get one type of ore/stone and one type of sellable each mining attempt:  
     - Enhancement ore: low, mid, high, fine, and silver grade  
     - Ouroboros Ore (see Relic Material list above)  
     - Alteration and refinement stones (includig *very rare* LFAS / FAS) ranging from 1-5 star quality.  
-    - Sellables: mainly translucent gems  
+    - Sellables: Translucent gems  
 - Tips:  
     - Mining products are not limited by player progress or rank.  
-        - This is *one of the few free-to-play ways in the game to get early access to higher levels of ore* than you can normally find.  
-        - This is especially valuable if you are Reforging Relic items to material Ranks higher than your current main story progress allows, and your high-level ore access is limited.  
-        - LFAS and FAS are very rare, but this is one of the only practical ways to farm them in the game.  
+        - You can get higher levels of ore than your main story progress allows.   
+        - LFAS and FAS are very rare mining rewards, but this is the first practical way to farm them in the game.  
     - Keep Mining Pickaxes in storage to quickly refill from the inventory screen outside the castle without heading back to town.  
-    - At the start it's probably best to stick to as many regular pickaxes as you can carry.  Later, after cleared out the Exchnage shop, switch to Golden ones to triple your mining output. (Farm Gil by [exchanging Relic materials back and forth at the Trader](#material-trading).)  
-    - You can jump between Zone 2, 4, an 5 for enemy-free mining spots by the Harkens. Set check marks next to the spots, and you can quickly auto-walk and auto-exit through the set.  
+    - At the start stick to regular pickaxes.  Later, after clearing out the Exchnage shop, switch to Golden ones to triple your mining output.
+        - Farm Gil by [exchanging Relic materials back and forth at the Trader](#material-trading).)  
+    - Enemy-free mining spots: Zone 2 (two spots), 4 (one spot), an 5 (two spots) from the Harkens. Set check marks next to the spots, then auto-walk, mine, auto-exit.  
 
 ??? map "Mining Maps"
     Mining locations marked with checkmarks below.
