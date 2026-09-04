@@ -6,14 +6,95 @@
 - y
 - z
 
-## Action Speed and Wait Time
+## Fundamentals
 
-### Basics 
+## Core Concept
 
 - Daphne uses a variant of a "wait-time" timeline where faster units get more frequent turns. It is the turn-based cousin of a real-time ATB gauge. 
 - The whole system runs on two numbers:
     - Action Speed (ASPD): From the unit's stat sheet. Higher is faster. This is what you build toward with your gear, passives, relics, bondmates, and so on.
     - Wait Time (WT): A hidden countdown timer that is derived from ASPD. This tells you "how long until this unit's next turn?" Lower is better. A low WT means the unit's turn comes back around faster.
+- Add clock metaphor
+
+## Base Wait Time
+
+### Formula 
+
+A unit's Base Wait Turn is a simple calculation: 
+
+Base WT = 500 - Action Speed 
+
+| ASPD | 500 - ASPD | Base WT |
+|------|------------|---------|
+| 0    | 500 - 0    | 500     |
+| 100  | 500 - 100  | 400     |
+| 200  | 500 - 200  | 300     |
+| 250  | 500 - 250  | 250     |
+
+- Think of `500` as the starting distance every unit has to cover before its turn. Action Speed is how much of that distance it skips.
+- A unit with 0 ASPD waits the full 500; a unit with 200 ASPD starts 200 closer at 300.
+- Lower Base WT means that your turn arrives sooner.
+- This clean 1:1 trade holds all the way up to **250 ASPD** at which point a soft cap sets in, which was added with the 9/3 update.
+
+### ASPD Soft Cap 
+
+- The new soft cap only goes into effect with when ASPD > 250. It is structured just like an income-tax bracket. You do not apply one rate to your whole ASPD stat. Instead, you fill each bracket in turn, and each pays out its own rate.
+- The 3 tabs 
+
+=== "Soft Cap Penalty Table" 
+
+    | Bracket | ASPD Range | Penalty | ASPD per point  |
+    |---------|:-----------|:--------|-----------------|
+    | 1       | 0-250      | None    | 1.0             |
+    | 2       | 250-300    | 0.50    | 0.50            | 
+    | 3       | 300-400    | 0.75    | 0.25            |
+    | 4       | 400+       | 0.90    | 0.10            |
+    
+    Explanation:
+    
+    - Bracket 1: The first 250 points of ASPD always count in full.
+    - Bracket 2: The next 50 (250-300) receive a 50% penalty. 
+    - Bracket 3: The next 100 (300-400) receives a 75% penalty.
+    - Bracket 4: Anything over 400+ ASPD receives a 90% penalty.
+    - Add up what each bracket contributes to the total to calculate a unit's Effective ASPD, which is the number the Wait Time formula actually uses. 
+
+    How this impacts the Base WT formula:
+    
+    - Base WT = 500 - Effective ASPD (not the ASPD number from your stat sheet)
+    - Rounding note: ASPD is rounded up to the nearest whole number. But, there is one small quirk. If you land exactly on 0.50 the game's formula will round that value down. 
+    - Example: 262.50 ASPD rounds down to 262, not up to 263.  
+
+=== "Soft Cap Example: 400 ASPD" 
+
+    | Bracket | ASPD Range | Value | Rate  | Effective ASPD |
+    |---------|------------|-------|-------|----------------|
+    | 1       | 0-250      | 250   | x1.0  | 250            |
+    | 2       | 250-300    | 50    | x0.5  | 25             |
+    | 3       | 300-400    | 100   | x0.25 | 25             |
+    | Total   |            | 400   |       | 300            |
+
+
+    - 400 ASPD is now only worth 300 Effective ASPD, which is the adjusted value used by the Base WT formula. 
+    - Base WT = (500 - 300) = 200.
+    - Prior to the 9/3 update the same 400 ASPD would have a Base WT = 500 - 400 = 100. 
+    - The new soft cap has now doubled the Base WT from 100 to 200! That is the entire purpose of the change.
+
+=== "Pre- and Post-Update Comparison" 
+
+    | ASPD | Effective ASPD | New WT | Old WT |
+    |------|----------------|--------|--------|
+    | 200  | 200            | 300    | 300    |
+    | 250  | 250            | 250    | 250    |
+    | 300  | 275            | 225    | 200    |
+    | 350  | 287            | 213    | 150    |
+    | 400  | 300            | 200    | 100    |
+    | 500  | 310            | 190    | 0      |
+
+    - The purpose of this table is to compare the old system against the new soft cap. 
+    - At or below 250 ASPD the two columns are identical — nothing changed for those units. 
+    - The further past 250 ASPD you push, the worse the exchange rate, as each additional points removes less Base WT than it did before. 
+    - You can no longer drive Base WT toward 0 as you could under the old system.
+
 
 ### Base WT Formulas
 
@@ -40,49 +121,7 @@
 - A heavily-geared unit could stack ASPD high enough to act many times ("lapping") before an enemy. In extreme cases it was possible to act 5-7x before an enemy could take an action, which trivialized many of the more difficult fights. 
 - The update added a penalty system that only triggers when a unit is above 250 ASPD. For the vast majority of players the new WT system operates just like the old one.  
 
-The soft cap works just like an income-tax bracket. You do not apply one rate to your whole ASPD stat. Instead, you fill each bracket in turn, and each pays out its own rate. 
 
-| Bracket | ASPD Range | Penalty | ASPD per point  |
-|---------|:-----------|:--------|-----------------|
-| 1       | 0-250      | None    | 1.0             |
-| 2       | 250-300    | 0.50    | 0.50            | 
-| 3       | 300-400    | 0.75    | 0.25            |
-| 4       | 400+       | 0.90    | 0.10            |
-
-- Bracket 1: The first 250 points of ASPD always count in full.
-- Bracket 2: The next 50 (250-300) receive a 50% penalty. 
-- Bracket 3: The next 100 (300-400) receives a 75% penalty.
-- Bracket 4: Anything over 400+ ASPD receives a 90% penalty.
-
-Add up what each bracket contributes to calculate a unit's Effective ASPD, which is the number the Wait Time formula actually uses. 
-
-Base WT = 500 - Effective ASPD
-
-Worked Example: 400 ASPD 
-
-| Bracket | ASPD points | Rate  | Effective |
-|---------|-------------|-------|-----------|
-| 1       | 250         | x1.0  | 250       |
-| 2       | 50          | x0.5  | 25        |
-| 3       | 100         | x0.25 | 25        |
-| Total   | 400         | -     | 300       |
-
-- 400 ASPD is now only worth 300 Effective ASPD. Base WT = (500 - 300) = 200.
-- For contrast, before the patch the same 400 ASPD would have a Base WT = 500 - 400 = 100. The new soft cap has now doubled the Base WT of a 400 ASPD unit from 100 to 200.
-- That is the entire purpose of the change. 
-
-Bigger Picture 
-
-| ASPD | Effective ASPD | New WT | Old WT |
-|------|----------------|--------|--------|
-| 200  | 200            | 300    | 300    |
-| 250  | 250            | 250    | 250    |
-| 300  | 275            | 225    | 200    |
-| 350  | 287            | 213    | 150    |
-| 400  | 300            | 200    | 100    |
-| 500  | 310            | 190    | 0      |
-
-At or below 250 the two columns are identical — nothing changed for those units. Above it, extra ASPD still helps, but each point buys less and less, and you can no longer drive Wait Turn toward zero the way raw speed once allowed.
 
 
 ## Core Mechanics
