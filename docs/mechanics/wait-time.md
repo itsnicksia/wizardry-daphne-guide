@@ -1,5 +1,90 @@
 # Wait Time System 
 
+## Guide Organization 
+
+- x
+- y
+- z
+
+## Action Speed and Wait Time
+
+### Basics 
+
+- Daphne uses a variant of a "wait-time" timeline where faster units get more frequent turns. It is the turn-based cousin of a real-time ATB gauge. 
+- The whole system runs on two numbers:
+    - Action Speed (ASPD): From the unit's stat sheet. Higher is faster. This is what you build toward with your gear, passives, relics, bondmates, and so on.
+    - Wait Time (WT): A hidden countdown timer that is derived from ASPD. This tells you "how long until this unit's next turn?" Lower is better. A low WT means the unit's turn comes back around faster.
+
+### Base WT Formulas
+
+=== "Player Base WT" 
+
+    The Base WT formula is straight forward:
+    `Base WT = 500 - ASPD`
+    
+    - Higher ASPD results in a lower Base WT.
+    - The ASPD value plugged into the formua is not the number from your stat sheet. It includes any active WT buffs or debuffs and is re-calculated each turn.  
+    - Changing weapons will also adjust the ASPD value used. 
+
+=== "Enemy Base WT"
+
+    Enemies use the same formula, but have one small modification:
+    `Enemy Base WT = (500 - ASPD) x Variance %`
+
+    - Each enemy rolls a random variance % before the fight starts. This does not re-roll per turn, ASPD and Base WT are locked in for the entire encounter.  
+    - Each enemy has its own variance %, but the vast majority range from 0-2%. There is no global constant and a handful of enemies have a broader range. 
+    
+### ASPD Soft Cap 
+
+- The 9/3 update added an ASPD soft cap to the WT system. Under the previous system, ASPD had an effectively unlimited pay-off. Each point of ASPD shaved off one point from a unit's Base WT.
+- A heavily-geared unit could stack ASPD high enough to act many times ("lapping") before an enemy. In extreme cases it was possible to act 5-7x before an enemy could take an action, which trivialized many of the more difficult fights. 
+- The update added a penalty system that only triggers when a unit is above 250 ASPD. For the vast majority of players the new WT system operates just like the old one.  
+
+The soft cap works just like an income-tax bracket. You do not apply one rate to your whole ASPD stat. Instead, you fill each bracket in turn, and each pays out its own rate. 
+
+| Bracket | ASPD Range | Penalty | ASPD per point  |
+|---------|:-----------|:--------|-----------------|
+| 1       | 0-250      | None    | 1.0             |
+| 2       | 250-300    | 0.50    | 0.50            | 
+| 3       | 300-400    | 0.75    | 0.25            |
+| 4       | 400+       | 0.90    | 0.10            |
+
+- Bracket 1: The first 250 points of ASPD always count in full.
+- Bracket 2: The next 50 (250-300) receive a 50% penalty. 
+- Bracket 3: The next 100 (300-400) receives a 75% penalty.
+- Bracket 4: Anything over 400+ ASPD receives a 90% penalty.
+
+Add up what each bracket contributes to calculate a unit's Effective ASPD, which is the number the Wait Time formula actually uses. 
+
+Base WT = 500 - Effective ASPD
+
+Worked Example: 400 ASPD 
+
+| Bracket | ASPD points | Rate  | Effective |
+|---------|-------------|-------|-----------|
+| 1       | 250         | x1.0  | 250       |
+| 2       | 50          | x0.5  | 25        |
+| 3       | 100         | x0.25 | 25        |
+| Total   | 400         | -     | 300       |
+
+- 400 ASPD is now only worth 300 Effective ASPD. Base WT = (500 - 300) = 200.
+- For contrast, before the patch the same 400 ASPD would have a Base WT = 500 - 400 = 100. The new soft cap has now doubled the Base WT of a 400 ASPD unit from 100 to 200.
+- That is the entire purpose of the change. 
+
+Bigger Picture 
+
+| ASPD | Effective ASPD | New WT | Old WT |
+|------|----------------|--------|--------|
+| 200  | 200            | 300    | 300    |
+| 250  | 250            | 250    | 250    |
+| 300  | 275            | 225    | 200    |
+| 350  | 287            | 213    | 150    |
+| 400  | 300            | 200    | 100    |
+| 500  | 310            | 190    | 0      |
+
+At or below 250 the two columns are identical — nothing changed for those units. Above it, extra ASPD still helps, but each point buys less and less, and you can no longer drive Wait Turn toward zero the way raw speed once allowed.
+
+
 ## Core Mechanics
 
 |         | Type        | ASPD | Base WT         |
