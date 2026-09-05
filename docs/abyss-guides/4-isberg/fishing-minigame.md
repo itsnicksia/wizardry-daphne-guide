@@ -74,7 +74,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
 
 ## Fish Details
 
-!!! "Rockhome Bass"
+!!! warning "Rockhome Bass"
 
     === "Small"
         - Depth Preference: 5m
@@ -90,7 +90,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Moves side to side, can Frenzy.
 
-!!! "Snowy Redfin"
+!!! warning "Snowy Redfin"
 
     === "Small"
         - Depth Preference: 5m
@@ -106,7 +106,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Nothing of note, can Frenzy.
 
-!!! "Chillbottom Catfish"
+!!! warning "Chillbottom Catfish"
 
     === "Small"
         - Depth Preference: 15m
@@ -122,7 +122,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Right
         - Fight Characteristics: Nothing of note, can Frenzy.
 
-!!! "Fatty Winter Salmon"
+!!! warning "Fatty Winter Salmon"
 
     === "Small"
         - Depth Preference: 13m
@@ -138,7 +138,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Moves side to side, occasionally Frenzies.
 
-!!! "Demon Eel"
+!!! warning "Demon Eel"
 
     === "Small"
         - Depth Preference: 15m
@@ -154,7 +154,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Occasionally Frenzies.
 
-!!! "Winter Trout"
+!!! warning "Winter Trout"
 
     === "Small"
         - Depth Preference: 9m
