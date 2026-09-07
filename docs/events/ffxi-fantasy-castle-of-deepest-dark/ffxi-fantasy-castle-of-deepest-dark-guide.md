@@ -181,7 +181,7 @@
 ## Rewards
 
 1. Completing the 2nd and 3rd runs with any crystals and having saved any of the three friends will reward you with [bondmates](#bondmates).  
-2. Behind the brothers on the altar there is a Bracelet of Hatred that can be farmed. This particular bracelet is fixed 3\* Blue, unlike those from random chest drops that can appear up to 5\* red.  
+2. After the 3rd run, behind the brothers on the altar there is a Bracelet of Hatred that can be farmed. This particular bracelet is fixed 3\* Blue, unlike those from random chest drops that can appear up to 5\* red.  
     
 ??? map "Bracelet of Hatred detail and location"  
 
