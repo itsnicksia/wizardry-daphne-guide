@@ -46,7 +46,7 @@
 {% endblock PotentialInheritFreetext %}
 
 {% block UniqueSkillFreetext %}
-        !!! note "This damage increase is approximately 8%."
+        !!! note "This damage increase is approximately 10%."
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}
