@@ -316,18 +316,20 @@ Mobs in this event behave differently than monsters elsewhere in the game. It is
 - Defeated NMs always leave a chest and have a high chance of dropping [Attestation or Fragment relic materials](#relic-equipment-and-materials).  
 
 <div class="nofilter-table nosort-table" markdown>
-| Notorious Monster| Details |
-|---|---|
-| Count Bifrons | AOE Poison attack |
-| Viscount Morax | Summons Water Entity and self buffs |
-| Baronet Romwe | "Mighty Strikes" |
-| Duke Haborym | Debuff you, Self Buff, "Blood Weapon" |
-| Marquis Amon | Single target and AOE spells |
-| Marquis Sabnock| Debuff and Strong melee attack "Quadstrike" |
-| Marquis Allocen | Debuff you, self buff, and strong melee attack |
-| Grand Duke Batym | Summons Water and Light Entities |
-| Baron Vapula | Poison, Sleep, and AOE spell |
-| Marquis Naberius | ? |
+
+| Notorious Monster| Details                                        |
+|------------------|------------------------------------------------|
+| Count Bifrons    | AOE Poison attack                              |
+| Viscount Morax   | Summons Water Entity and self buffs            |
+| Baronet Romwe    | "Mighty Strikes"                               |
+| Duke Haborym     | Debuff you, Self Buff, "Blood Weapon"          |
+| Marquis Amon     | Single target and AOE spells                   |
+| Marquis Sabnock  | Debuff and Strong melee attack "Quadstrike"    |
+| Marquis Allocen  | Debuff you, self buff, and strong melee attack |
+| Grand Duke Batym | Summons Water and Light Entities               |
+| Baron Vapula     | Poison, Sleep, and AOE spell                   |
+| Marquis Naberius | ?                                              |
+
 </div>
 
 #### Potential Spawning Locations 
