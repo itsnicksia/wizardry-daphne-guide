@@ -67,5 +67,5 @@ This non-hostile slime seems... hungry. What could go wrong?
             - Azure Ore  
             - Azure Ore Clump  
         - Feeding it gems will eventually trigger [gaining the slime as a Bondmate](../../adventurer-customization/bondmates/beginning-abyss/bondmates.md#ghreen-jelly), with higher value gems achieving this sooner.
-    - Note:  Gems do not need to be in party inventory. Gems in storage can be used as long as you didn't sell them all.  Once acquired as a bondmate, you can never run into the Ghreen Jelly again even using the Cursed Wheel.    
+    - Note:  Gems do not need to be in party inventory. Gems in storage can be used as long as you didn't sell them all.  Once acquired as a bondmate, you will only run into him again by using the Cursed Wheel. As of June 2026, he can now be met repeatedly and increased to Bondmate level 5
 
