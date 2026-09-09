@@ -14,7 +14,7 @@
 
 </div>
 
-** Note: All unique classes follow the Basic Class experience progression except for Samurai of the Black Rod, who follows the Samurai progression.
+** Note: All unique classes follow the Basic Class experience progression except for Samurai of the Black Rod, which follows the Samurai progression.
 
 ## Experience Gain Percentage
 
