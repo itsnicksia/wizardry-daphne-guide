@@ -2,7 +2,7 @@ nav:
   - Reference: 
     - Quicklist: './quicklist/adventurer-quicklist.md'
     - IV Official Tables: './iv-official-tables.md'   
-    - Experience Tables: '/adventurer-customization/adventurer-experience.md'
+    - Experience Tables: './adventurer-experience.md'
     - Analysis Criteria: './legendary-adventurers/details/_adventurer-analysis-criteria.md'
   - Legendary:
     - Abenius: './legendary-adventurers/details/Abenius.md'
