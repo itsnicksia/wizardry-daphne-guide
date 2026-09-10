@@ -307,7 +307,7 @@
         - The enemy composition is fixedly, progressively harder per fight.
         - The wolf packs at (X:1, Y:23) and (X:11, Y: 19) are in a reversible blizzard zone area and close to the Fountain. It is recommend to save either for the boss fight. The wolf pack in the bottom left at (X:4, Y:1) is the least recommenced to save for last as it will require fighting the boss in a blizzard.
         - After defeating three wolf packs, the fourth encounter will be a boss fight against the Snow Wolf Leader (Warg).
-        - Subsequent Runs: A new option will appear to spare the Snow Wolf Leader. This skips the boss fight and gives the bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
+        - Subsequent Runs: The Snow Wolf Leader. when encountered will present a dialog allowing him too be spared. Thereby, this skips the boss fight and gives the bondmate, Warg, Commander of the Deep Snow (Freeze Tolerance and Evasion). 
         - Exit and return to the Guild to submit the request.
 
             ??? warning "Rewards"
@@ -390,9 +390,8 @@
 
 ??? warning "Important Notes" 
 
-    - Pre-requisite request: 
-        - [Ore Mining](./requests.md#ore-mining) 
-        - If not completed the request will automatically fail  
+    - Pre-requisite: Request [Ore Mining](./requests.md#ore-mining) (request will fail otherwise).
+    - Note: Request must be done in a single attempt otherwise the fragments are removed from the map.
     - The 4 fights have Stonefolk with extremely high HP and Defense, particularly the final fight. There is a Fountain on the floor if you need to recover. 
     - Each fight begins with an unavoidable status ailment. We recommend bringing a Healer, Priest, or items to clear the ailments as quickly as possible. 
     
