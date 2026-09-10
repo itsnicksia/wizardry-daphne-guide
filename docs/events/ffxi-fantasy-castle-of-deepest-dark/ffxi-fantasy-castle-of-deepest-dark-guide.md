@@ -22,8 +22,8 @@
             - You may effectively be tier gated out of fully reforging items until you progress in the main story.  
             - It is unknown if specific materials can be farmed from specific "NMs" or locations. *More info pending*.  
     - Enemies - FFXI creatures replaced with regular monsters:  
-        - Kindred Demons --> Lesser Demons and Succubi.  
-        - Notorious Monsters --> Greater Demons  
+        - Kindred Demons --> Lesser Demons and Dark Succubi. (Demons are no longer Dark type / susceptible to Aurora weapons. Succubi are.)
+        - Notorious Monsters --> Greater Demons (also not Dark type).  
             - appearing at the same locations, apparently with very similar naming, combat behavior, and Relic drops.  
         - Tonberries have been replaced by Creeping coins (still give Necrophyche drops).  
         - Fixed event battle locations have been replaced with battles with demons, demi-humans, and undead.  
