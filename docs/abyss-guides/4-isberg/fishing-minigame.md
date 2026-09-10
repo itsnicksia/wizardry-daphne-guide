@@ -74,7 +74,23 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
 
 ## Fish Details
 
-!!! "Rockhome Bass"
+!!! warning "Whopper Spinefoot"
+
+    === "Small"
+        - Depth Preference: 4m
+        - Bait Preference: Paste Bait, Special Paste Bait, Garlic Infused Paste Bait
+        - Distance Preference: Any, but usually near
+        - Direction Preference: Any
+        - Fight Characteristics: Nothing of note.
+
+    === "Medium"
+        - Depth Preference: 10m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Any
+        - Direction Preference: Any
+        - Fight Characteristics: Can frenzy, but for very short durations.
+
+!!! warning "Rockhome Bass"
 
     === "Small"
         - Depth Preference: 5m
@@ -90,7 +106,14 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Moves side to side, can Frenzy.
 
-!!! "Snowy Redfin"
+    === "Large"
+        - Depth Preference: 5m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Any, but moreso Close or Middle
+        - Direction Preference: Any
+        - Fight Characteristics: Moves side to side, can Frenzy.
+
+!!! warning "Snowy Redfin"
 
     === "Small"
         - Depth Preference: 5m
@@ -106,7 +129,14 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Nothing of note, can Frenzy.
 
-!!! "Chillbottom Catfish"
+    === "Large"
+        - Depth Preference: 5m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Far
+        - Direction Preference: Any, but a little bit left.
+        - Fight Characteristics: Nothing of note, can Frenzy.
+
+!!! warning "Chillbottom Catfish"
 
     === "Small"
         - Depth Preference: 15m
@@ -121,8 +151,15 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Distance Preference: Any
         - Direction Preference: Right
         - Fight Characteristics: Nothing of note, can Frenzy.
+        
+    === "Large"
+        - Depth Preference: 15m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Any
+        - Direction Preference: Right
+        - Fight Characteristics: Just pulls straight, doesn't really frenzy
 
-!!! "Fatty Winter Salmon"
+!!! warning "Fatty Winter Salmon"
 
     === "Small"
         - Depth Preference: 13m
@@ -132,13 +169,20 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Fight Characteristics: Moves side to side, can Frenzy
 
     === "Medium"
-        - Depth Preference: 13
+        - Depth Preference: 13m
         - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
         - Distance Preference: Far
         - Direction Preference: Any
         - Fight Characteristics: Moves side to side, occasionally Frenzies.
 
-!!! "Demon Eel"
+    === "Large"
+        - Depth Preference: 13m
+        - Bait Preference: Light Groundbait, Chum Mix, Abyssal Insect Larva
+        - Distance Preference: Far
+        - Direction Preference: Any
+        - Fight Characteristics: Moves side to side, occasionally Frenzies.
+
+!!! warning "Demon Eel"
 
     === "Small"
         - Depth Preference: 15m
@@ -154,7 +198,14 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Occasionally Frenzies.
 
-!!! "Winter Trout"
+    === "Large"
+        - Depth Preference: 15m
+        - Bait Preference: Light Groundbait, Abyssal Insect Larva, Chum Mix
+        - Distance Preference: Any, but moreso Close or Middle
+        - Direction Preference: Any
+        - Fight Characteristics: Occasionally Frenzies.
+
+!!! warning "Winter Trout"
 
     === "Small"
         - Depth Preference: 9m
@@ -176,4 +227,12 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Distance Preference: Far
         - Direction Preference: Center or Left
         - Fight Characteristics: Almost always in Frenzy.
+
+!!! warning "Golden Catfish"
+
+        - Depth Preference: 15m
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Any
+        - Direction Preference: Any, but moreso to the left.    
+        - Fight Characteristics: Moves side to side, frenzies often.
 

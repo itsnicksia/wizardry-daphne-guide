@@ -57,17 +57,19 @@ Openings work on all types of enemies, from basic mobs to bosses, although bosse
 ### Opening Damage
 We're still in the process of figuring out exactly what this is, but our current data collection seems to indicate that Opening damage can be calculated as `OpeningDamage = AttackDamage + HP%Damage` where `AttackDamage` is the damage an adventurer would normally deal with a basic attack or skill, and `HP%Damage` is an additional amount that is based on the enemy's maximum HP. This `HP%Damage` appears to ignore any offensive or defensive modifiers.
 
-### Way of the Thief Modifier
+### Way of the Thief Modifier  
+The odds of landing a Sure hit are affected by your Surety (SUR) stat. They extra damage done by a sure hit is normally 175% (1.75x).  That multiplier in increased by Way of the Thief 
 
-| Skill Level | Damage Modifier |
-|:-----------:|:---------------:|
-|      1      |        2        |
-|      2      |                 |
-|      3      |                 |
-|      4      |                 |
-|      5      |                 |
-|      6      |                 |
-|      7      |                 |
+
+| Skill Level | Modifier increase | Total after increase |
+|:-----------:|:---------------:|:---:|
+|      1      |        20%      | 195% |
+|      2      |        24%      | 199% |
+|      3      |        30%      | 205% |
+|      4      |        34%      | 209% |
+|      5      |        38%      | 213% |
+|      6      |        42%      | 217% |
+|      7      |        45%      | 220% |
 
 ## Passive Damage Modifiers
 There are multiple passive damage multipliers that can increase the damage you deal to enemies.
@@ -79,16 +81,17 @@ Skills like `Air Formation` and `Fire Formation` will also fall into this catego
 The final current skill that falls into this category is `Way of the Warrior`. Like `Way of the Thief`, this skill can be leveled up and appears to have an initial increase of 8%. One unique component of this skill is that it appears to only care about the enemy row, and will activate the multiplier if you're hitting something with a close or mid-range weapon regardless of the position the adventurer is in your party. For example, my Elise was hitting the enemy front row with a spear for the same damage when she was in my front row as when she was in my back row. One key thing to note is that `Way of the Warrior` does not increase damage done by spells, but `Way of the Thief` does increase the sure hit damage from spells.
 
 ### Way of the Warrior Modifier
+Way of the Warrior increases the damage done by melee (short / medium range) weapons using basic attacks and skills. The extra damage increases with skill level.
 
-| Skill Level | Damage Modifier |
+| Skill Level | Damage Increase |
 |:-----------:|:---------------:|
-|      1      |       1.08      |
-|      2      |                 |
-|      3      |                 |
-|      4      |                 |
-|      5      |                 |
-|      6      |                 |
-|      7      |                 |
+|      1      |       8%        |
+|      2      |       9%        |
+|      3      |       11%       |
+|      4      |       12%       |
+|      5      |       15%       |
+|      6      |       17%       |
+|      7      |       20%       |
 
 ## Type Advantage, Disadvantage, and Armor Modifiers
 
@@ -134,78 +137,78 @@ The following table summarizes attack advantage/disadvantage and stacking.
 
 <div class="nosort-table nofilter-table">
 
-<table style="text-align: center;">
+<table>
     <tr>
         <th colspan=3>Attack Advantage?</th>
         <th colspan=3>Stacked Effect?</th>
-        <th></th>
+        <th style="text-align: center;"></th>
     </tr>
     <tr>
-        <th>Attack Element vs Enemy</th>
-        <th>Type</th>
-        <th>Amount</th>
-        <th>Attacker Element vs Attack Element</th>        
-        <th>Type</th>
-        <th>Amount</th>
-        <th>NET ADVANTAGE</th>
+        <th style="text-align: center;">Attack Element vs Enemy</th>
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Amount</th>
+        <th style="text-align: center;">Attacker Element vs Attack Element</th>        
+        <th style="text-align: center;">Type</th>
+        <th style="text-align: center;">Amount</th>
+        <th style="text-align: center;">NET ADVANTAGE</th>
     </tr>
     <tr>
-        <td>Strong</td>
-        <td>Advantage</td>
-        <td>+30%</td>
-        <td>Same as attack</td>
-        <td>Positive</td>
-        <td>+30%</td>
-        <td>+60%</td>
+        <td style="text-align: center;">Strong</td>
+        <td style="text-align: center;">Advantage</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">Same as attack</td>
+        <td style="text-align: center;">Positive</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">+60%</td>
     </tr>
     <tr>
-        <td>Strong</td>
-        <td>Advantage</td>
-        <td>+30%</td>
-        <td>Weak to attack</td>
-        <td>Negative</td>
-        <td>-20%</td>
-        <td>+10%</td>
+        <td style="text-align: center;">Strong</td>
+        <td style="text-align: center;">Advantage</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">Weak to attack</td>
+        <td style="text-align: center;">Negative</td>
+        <td style="text-align: center;">-20%</td>
+        <td style="text-align: center;">+10%</td>
     </tr>
     <tr>
-        <td>Strong</td>
-        <td>Advantage</td>
-        <td>+30%</td>
-        <td>Other</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>+30%</td>
+        <td style="text-align: center;">Strong</td>
+        <td style="text-align: center;">Advantage</td>
+        <td style="text-align: center;">+30%</td>
+        <td style="text-align: center;">Other</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">+30%</td>
     </tr>
     <tr>
-        <td>Weak</td>
-        <td>Disadvantage</td>
-        <td>-30%</td>
-        <td>Any</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>0%</td>
+        <td style="text-align: center;">Weak</td>
+        <td style="text-align: center;">Disadvantage</td>
+        <td style="text-align: center;">-30%</td>
+        <td style="text-align: center;">Any</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">0%</td>
     </tr>
     <tr>
-        <td>Neutral</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>Any</td>
-        <td>None</td>
-        <td>0%</td>
-        <td>0%</td>
+        <td style="text-align: center;">Neutral</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">Any</td>
+        <td style="text-align: center;">None</td>
+        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">0%</td>
     </tr>
 </table>
 
 </div>
 
 ### Armor type effects
-Players can find armor that provide extra protection against certain element type attacks.  This will be noted in the item traits list as, for example, "Earth Type Reduction". Each piece of armor adds a 15% reduction in damage from that type of attack.  Equipping multiple pieces of the same type will stack. In most cases Head, Body, and Accessory pieces of particular types are available, allowing for up to 45% type damage reduction from the armor.  This will stack any ally type damage reduction effects, and can help offset any attack type damage increases.
+Some armor can provide extra protection against certain element type attacks.  This will be noted in the item traits list as, for example, "Earth Type Reduction". Each piece of armor adds a 15% reduction in damage from that type of attack.  Equipping multiple pieces of the same type will stack. In most cases Head, Body, and Accessory pieces of particular types are available, allowing for up to 45% type damage reduction from the armor.  
 
 Absent other damage effects, the net damage effect can be estimated as:
 
 `"Base damage" x "Attack advantage factor" x "Damage reduction factor"`
 
-Example 1: A water-type attack against an 
+Example - A water-type attack against an ally with different types and armor:
 
 | Attack Type | Ally Type | Element Armor? | Net Damage % |
 |---|---|---|---|
@@ -214,7 +217,7 @@ Example 1: A water-type attack against an
 | Water | Earth (strong) | 3 Earth | 100% x (100% - 30% - 3x15%) = 25% |
 | Water | Fire (weak) | 2 Earth | 100% x 130% x (100% - 2x15%) = 91% |
 
-As can be seen above, a few well-chosen armor pieces can significantly increase type-disadvantaged ally survivability. 
+As can be seen above, a few well-chosen armor pieces can significantly help type-disadvantaged ally survivability. 
 
 ## Status Affliction Modifiers
 There are two status afflictions that currently allow you to deal increased damage.

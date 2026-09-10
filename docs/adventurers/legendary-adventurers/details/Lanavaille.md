@@ -31,7 +31,7 @@
         |   2   |             22            |               11               |
         |   3   |             34            |               17               |
         |   4   |             44            |               23               |
-        |   5   |             58            |               30?              |
+        |   5   |             58            |               30               |
         |   6   |             68            |               38               |
         |   7   |             85            |                -               |
 
@@ -46,7 +46,7 @@
 {% endblock PotentialInheritFreetext %}
 
 {% block UniqueSkillFreetext %}
-        !!! note "This damage increase is approximately 8%."
+        !!! note "This damage increase is approximately 10%."
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}

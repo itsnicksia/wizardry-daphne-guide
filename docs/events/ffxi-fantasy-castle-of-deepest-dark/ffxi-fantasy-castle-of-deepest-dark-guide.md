@@ -41,7 +41,7 @@
             - Note: Some people have reported needing to buy all 7 relics. Whether this is a bug or not, or if they changed things with the last update remains unclear. 
             - Go to the event dungeon for a cutscene. This plays while you are on the floor selection screen. 
             - Return to Northern Hollow and click on the Remote Blacksmith icon for a cutscene with your new goblin blacksmith! 
-            - Now you have access to the Reforge and Remake options for the Relic Weapons. Dedicated section [here](#relic-weapopns). 
+            - Now you have access to the Reforge and Remake options for the Relic Weapons. See dedicated section [here](#relic-equipment-and-materials). 
         -  Zone 4 - Mining 
             - Unlock the Zone 4 Harken and exit back to Northern Hollow. 
             - In the Item shop you can now purchase a consumable item called the Northcleft Pickaxe. Northern Hollow is the only location in the game where these can be purchased. 
@@ -180,8 +180,8 @@
 
 ## Rewards
 
-- Completing the 2nd and 3rd runs with any crystals and having saved any of the three friends will reward you with [bondmates](#bondmates).  
-- Behind the brothers on the altar there is a Bracelet of Hatred that can be farmed. This particular bracelet is fixed 3\* Blue, unlike those from random chest drops that can appear up to 5\* red.  
+1. Completing the 2nd and 3rd runs with any crystals and having saved any of the three friends will reward you with [bondmates](#bondmates).  
+2. After the 3rd run, behind the brothers on the altar there is a Bracelet of Hatred that can be farmed. This particular bracelet is fixed 3\* Blue, unlike those from random chest drops that can appear up to 5\* red.  
     
 ??? map "Bracelet of Hatred detail and location"  
 
@@ -222,28 +222,115 @@
     ![](./img/goblins-abode.jpg)
 
 ## Enemies  
-- Enemies in the Castle to scale with player level/grade.  
-- A mix of traditional monsters include Goblins, Hobgoblins, Slimes, and Rabbits in rhe Entrance region.  Undead skeletons and specters also appear inside the castle.  
+- Enemies in the Castle do scale with player level/grade.  
+- A mix of traditional monsters include Goblins, Hobgoblins, Slimes, and Rabbits in the Entrance region.  Undead skeletons and wights also appear inside the castle.  
 - New enemies include Kindred Demons and Tonberry.  
     - Kindred Demons:  
-        - Considered a different race than traditional Demons, they are not affected by regular demon-slayer weapons or demon-resistant armor.  They are all dark-type and respond as expected to dark and light type attacks and allies. See Type Advantage, Disadvantage, and Armor Modifiers.  
+        - Considered a different race than traditional Demons, they are not affected by regular demon-slayer weapons or demon-resistant armor.
+        - They are all dark-type and respond as expected to dark and light type attacks and allies. See [Type Advantage, Disadvantage, and Armor Modifiers](/mechanics/damage-mechanics.md#type-advantage-disadvantage-and-armor-modifiers).  
         - There are several classes and varieties of Kindred demons.  The stronger types have glowing purple chests. Additionally the Warlocks carry staves while the others carry weapons.  
-        - Among the Kindred Demons there are special minibosses called [Notorious Monsters](#notorious-monsters) that appear as non moving demons in the dungeon.  
+        - Among the Kindred Demons are special minibosses called [Notorious Monsters](#notorious-monsters) that appear as non moving demons in the dungeon.  
     - Tonberry:
         - Tonberrys are small, light-type green creatures in robes carrying a knife and lantern.  
         - They can appear alone, in groups of three, or with other regular monsters.  
-        - They have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack.
-        - They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x).  By the end of the event you should expect the counterattack to 1-shot kill any ally of any level.  
+        - They have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating 'throat stab' attack that can Critical hit.
+        - They also have a counterattack called *Everyone's Grudge*.  It has a chance of reacting to any PHYSICAL MELEE attack.  Damage increases with the number of Tonberry's you have ever killed (~17x).  By the end of the event the counterattack can easily 1-shot kill any ally of any level.  
         - They will always drop some [Necropsyche (lantern) relic materials](#relic-equipment-and-materials).  
-        - There is a Tonberry King that can be fought once certain conditions are met. (more info pending).  
-  
-### Notorious Monsters  
+        - There is a [Tonberry King](#tonberry-king) that can be fought once certain conditions are met.
 
-- There are a number of unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
-- These Demons are much more powerful than the random wandering Kindred demons. They are individually named, and each has slightly different combat behaviors. (more details pending)  
-    - All of them have high speed, a large HP pool, can start the combat with multiple attacks, and can cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
-    - Some will be alone, others will start with several regular mobs, others can summon other monsters and entities throughout the fight.  
+### Event mob behavior changes  
+Mobs in this event behave differently than monsters elsewhere in the game. It is still unclear how much of this is intentional design behavior.  
+
+1. Always Visible: Unlike other areas, you don't need to 'Detect' monsters to see them in front of you. You do need to see them once for their Green/Red arrow to appear on your mini-map.
+3. Chain Aggro: Normally you need to be line of sight for any monster to go red.  Now if one monster sees you and goes red, others nearby may go red even if they cannot see you, and they will also pursue you.
+4. Extended Pursuit: Most monsters will pursue you far outside their spawn area as long as they can see you. This can continue if you break line of sight but are still close. You may need to get quite some distance from a monster to break aggro so they go green again. They will then return to their normal spawn area.
+5. Buddy System: Nearby aggro'd monsters will join in the combat.  Each will appear in the back of the enemy lines as red shadows, they will have their own turn in compat order, and they will hurls stones and fireballs at your party. A large number of assisting monsters can make an easy fight go very bad very quickly.
+
+??? tip "Conga line mob clearing"
+    Use the 'Chain Aggro' and 'Extended Pursuit' features to your advantage.  
+    
+    1. Find a big room leading from long hallway.  
+    2. Aggro a group of the monsters.  
+    3. Lead them single file down the hallway at their usual slow pace.  
+    4. At some point, run far enough ahead to break aggro. They will all go green, turn around, and walk back to their spawn area.  
+    5. Pick them off one by one from the back. You may get Initiative, and they won't help each other in the fights.  
+
+    Useful areas: Zone 1 by the Harken, Zone 2 big central room (use north room and door), Zone 5 big bottom left and right rooms (Use hallways leading north)
+   
+!!! warning "Off-grid mob ambushes"
+    It has been a known for some time that the monster and NPC spawn algorithms do not always place them on the same map grid the players are forced to stay on. The Always Visible feature has made this abundantly clear (this was sometimes noticeable in places like the Grasslands). Mobs will often spawn and follow paths slightly 'off-grid'.  
+    This can cause several issues:  
+
+    1. You may try attacking a mob but cannot. You will walk right by them, on both sides, without interacting.  
+    2. If you aggro the monster, you can watch them make a diagonal move back onto the correct grid. We have seen monsters 'stuck' next to a player because they have no room to make the diagonal step.  
+    3. Unexpected and undesirable Ambushes occur because they're affected by party-monster position and ignore orientation:  
+        - You can be in a 1-tile wide hallway walking directly toward an off-grid monster, but it may trigger an "Attacked from the Side" ambush.  
+        - You can attack a monster from behind, and if it is off-grid you may still trigger 'ambushed from the side'.  
+        - You can think you're stepping into a monster to attack, but step past them. Depending on how they aggro/step torward you, you can be ambushed from behind.  
+    
+    Best advise: (1) watch for off-grid enemies and try to aggro them back onto the grid before engaging. Nothing worse than dealing with a bugged "Attacked from the side" 8-pack of Kindred Demons.  (2) Try to take screenrecordings, [send Inquiry bug reports to the company](https://support.wizardry.info/en/inquiry), and ask them to fix their map gridding.
+
+### Special Enemies
+#### Tonberry King  
+(added along with the update for the 3rd run)  
+
+![](./img/tonberry-king.jpg)  
+
+- After defeating a certain number of Tonberries (~10-15) the Tonberry King may come looking for you.  
+- You can first encounter him in the Top Right area of Zone 5 (reached by Left teleporter).  
+- The first 2-3 times you encounter him in this area, there will be a brief cut scene where Lulu warns you about dangerous enemies. (Cutscene can be re-triggered just by leaving/returning.)  
+- Then he will attack you.  
+    - Tonberry King has very high HP (~80-100k for Lev 70 players). It is not known if he is level scaled.  
+    - He will summon additional Tonberrys and demons with the standard range of attacks and behaviors.  
+    - He will also react to melee attacks with *Everyone's Grudge* counter.  
+    - He is more resistant to Sleep and Stun than regular Tonberries, but is not immune. He will remove Spellbind after one turn but it can be reapplied.  
+    - The battle ends as soon as you have killed the Tonberry King, you do not need to kill the summons.
+    - It is suggested not to fight him until just after you have [reset Everyone's Grudge](#everyones-grudge-reset) to make that attack a non-issue.  
+    - Reward:  Tonberry King will drop a chest with Junk, Necropsyche, and event ring items.  Unclear if any is of quality more noteworthy than other drops.  
+- After you have defeated him once, he will reappear randomly throughout the castle after a 24hr cooldown.  
+    - Cooldown is timed from your last battle.  
+    - He moves each day but his location is the same for everyone so you can use discord/forums to find his location.  
+
+#### Everyone's Grudge Reset
+(added along with the update for the 3rd run)  
+
+![](./img/stationary-tonberry1.jpg) ![](./img/stationary-tonberry2.jpg)   .
+
+- After killing a certain number of Tonberry, a fixed-location Tonberry NPC (just named Stationary Tonberry) appears in Zone 5 right next to the Zone 6 stairs.  
+- The Stationary Tonberry complains about untrustworthy people and offers to purge you of 'rancor'.  
+- He ask you for a variable amount of event currency (Gil), proportional to the number of tonberry you've killed.  
+- Paying the ransom will reset *Everyone's Grudge* to zero.  
+- The Stationary Tonberry leaves after payment. It is reported that he can return after you have killed a certain number of additional Tonberry.  
+  
+#### Notorious Monsters  
+![](./img/notorious-monster.jpg) ![](./img/notorious-monster-fight.jpg)   
+
+- There are 10 unique Kindred Demons called Notorious Monsters (NM) that randomly spawn in different locations throughout the castle.  See [maps of spawn locations below](#potential-spawning-locations).  
+- NM are much more powerful than the wandering Kindred demons.
+- They are individually named (names taken from FFXI, which [borrowed them from the *Ars Goetia*](https://en.wikipedia.org/wiki/List_of_demons_in_the_Ars_Goetia))
+- Each has slightly different combat behaviors:
+    - They will aways lead with the same set of actions (see table below), and will always get at least one first move.
+    - They all look identical before combat so you can't really prepare differently for different NM.
+    - All NM have a large HP pool (scales with player grade), and some cast multiple buffs and debuffs rendering their melee attacks able to one-shot any member of your team.  
+    - Some will be alone, others can summon other monsters and entities throughout the fight.  
 - Defeated NMs always leave a chest and have a high chance of dropping [Attestation or Fragment relic materials](#relic-equipment-and-materials).  
+
+<div class="nofilter-table nosort-table" markdown>
+
+| Notorious Monster| Weilds | Details                                        |
+|------------------|--------|------------------------------------------------|
+| Count Bifrons    | Sword  | AOE Poison attack                              |
+| Viscount Morax   | Staff  |Summons Water Entity and self buffs             |
+| Baronet Romwe    | Sword  | "Mighty Strikes"                               |
+| Duke Haborym     | Scythe | Debuff you, Self Buff, "Blood Weapon"          |
+| Marquis Amon     | Scythe | Single target and AOE spells                   |
+| Marquis Sabnock  | Sword  | Debuff and Strong melee attack "Quadstrike"    |
+| Marquis Allocen  | Sword  | Debuff you, self buff, and strong melee attack |
+| Grand Duke Batym | Scythe | Summons Water and Light Entities               |
+| Baron Vapula     | Staff  | Poison, Sleep, and AOE spell                   |
+| Marquis Naberius | ?      | ?                                              |
+
+</div>
 
 #### Potential Spawning Locations 
 
@@ -266,6 +353,7 @@
 === "Zone 5" 
 
     ![](./img/Zone 5 - NM.png)
+
 
 ## Event Missions.  
 Just like most other events special missions let you earn points and rewards. It takes 600 points for a full mission clear.  
@@ -295,9 +383,34 @@ Mission categories:
 
     This should mark the mission as complete letting you reach 600 points.  
 
+    ** Update - in response to the non-obvousness and difficulty in completing this mission, an update was released adding a 20point mission just for completing the fight with Ulmia even if you didn't kill her in battle.  This makes it possible to get all rewards withuot "Defeating" Ulmia.  
+
+## Dispatches  
+
+-  The Event offers three unique Dispatches that are only available during the event period.  They are available only in the Royal Capital and are Bright Blue in the dispatch list.  
+-  Each unlocks with further progress through the event, with a new one appearing after the Zone 2, 3, and 5 Harkens have been restored.  
+    - Cursed Wheeling to a time before reaching these floors will remove the dispatch from your list. Completing the 3rd run closes the Castle and removes all dispatches from the list.  
+    - Removed dispatches are allowed to complete but 'Redispatch' cannot be selected.  
+    - CW back to an event point after the Dispatch trigger to restore the dispatch. Do so before getting a Disptach report if you want to re-dispatch them.  
+- Disptach results are the same as can be obtained by the player in the dungeon, rarely including things like Relic materials.
+- As usual dispatched characters make use of items in their inventory to improve dispatch outcomes.  *This include Pickaxes for mining*.  Once unlocked you should fill any empty inventory slots with pickaxes.  
+    - Mining via dispatch has [the same potential results as doing it in person](#mining-for-ore).  
+    - Golden pickaxes still produce 3x the mining output and still break just as often as regular ones.  
+    - The number consumed on one run is very random.  
+    - Unlike all other consumables, *Pickaxes do not self-replenish* and are consumed during the dispatch. If out of pickaxes, you might see a note of one being bought for 100gp at the shop.  
+        - Redispatching does not allow you to refill pickaxe inventory, but since you can only buy them in the event town you can have a bunch in storage ready to add manually.  
+
+!!! tip "Refilling pickaxes on Dispatched Units"
+    - Without Re-dispatch: Exit dispatch, select the dispatch, select the characters again, go into one character's inventory, 'Item list', add the pickaxes.  
+    - With Re-dispatch (Likely an unpatched bug): Redispatch, Edit your team, add all 6 dispatched characters, long press/click any one, go to Inventory, click Item List, select the pickaxes in storage, click Transfer, fill all of their inventories, cancel out, exit the Edit menu without changing your team.  
+        - The inventory change to the dispatch characters takes effect.  
+        - The game apparently doesn't calculate Dispatch outcomes until it finishes and uses whatever items are present at that time. 
+
 ## Harken's Blessings
 Harkens in the event can provide both the basic blessings and unique Event blessings that will only be active in the Event dungeon. They still follow the 'only one blessing' per day rule, and you can reset through normal means if that feels important to you.  The Event unique blessings are:
 
+<div class="nofilter-table nosort-table" markdown>
+    
 | Name                        | Description                                                                                                                             |  
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|  
 | <span class="green">Blessing of Earthstrike</span>   | Harken's Blessing has increased your earth-type damage.                                                        |  
@@ -309,6 +422,8 @@ Harkens in the event can provide both the basic blessings and unique Event bless
 | <span class="blue">Blessing of Lightstrike II</span> | Harken's Blessing has increased your light-type damage.                                                        |  
 | <span class="blue">Blessing of Waterstrike II</span> | Harken's Blessing has increased your water-type damage.                                                        |  
 | <span class="blue">Kindred Demon Hunter</span>       | Harken's Blessing has increased the damage you do to Kindred demons and reduced the damage you take from them. |  
+
+</div> 
 
 ## Bondmates
 
@@ -399,7 +514,7 @@ Harkens in the event can provide both the basic blessings and unique Event bless
     - FAS after enhancing - Milestone blessings are rerolled along with everything else and you don't know if that piece was high or low and whether a Remake will be worthwhile.  
 
 !!! tip "TL;DR: recommended Relic improvement process"  
-    *Use the [Blacksmithing Enhancement tables for Silver items](/equipment/blacksmithing/#silver) to determine how good your rolls are.*
+    *Use the [Blacksmithing Enhancement tables for Silver items](/equipment/blacksmithing.md#silver) to determine how good your rolls are.*
     
     1. Note the starting blessings from when you first got the item.  
     2. If you are going to L/FAS do it before enhancing to +5.  
@@ -623,24 +738,29 @@ One notable thing is that while real players can fulfill your requests, there ar
 ![](./img/bots.jpg)
 
 ## Farming
-(Work in Progress)
   
 ### Mining for Ore  
 
-- After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  At this point you can go back to the town where the shop will sell you pickaxes under Consumable items for 100gp.  There will also be Golden Pickaxes in the Jeweler Exchange for 500 Gil.  
-- In the Castle if you have any type of pickaxe in your inventory (no, the Digging Mattock doesn't count), you can click on any of the multi-colored rock formations in the walls and attempt to mine it for ore. Black formations are 'dead' and cannot be mined. See locations on the Maps below. You will almost always get one type of ore/stone and one type of sellable each mining attempt.  
-- After a certain number of mining attemptes, the rock formation will 'shatter' and be 'dead' for the rest of that time in the dungeon. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
-- Pickaxes are consumable and they will break every 1-3 uses.  Golden pickaxes don't last any longer, and they do cost event currency (500 Gil), but they produce 3x the mining return per use.
-- Mining products:
+!!! note "Unlocking"
+    After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  The item shop will now start selling  Pickaxes under Consumable items for 100gp and Golden Pickaxes will be in the Event Exchange at the Jeweler for 500 Gil.  
+
+- In the Castle with a pickaxe in your inventory (Digging Mattock doesn't count) clicking on any of the multi-colored rock formations in the walls will mine it for ore. See Mining Maps below.  
+- The rock formation will 'shatter' and turn into a 'dead' rock after a few mining attempts. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
+- All Pickaxes break every 1-4 uses.  Golden pickaxes don't last any longer.
+- Pickaxe type makes no difference in mining output types, but a Golden Pickaxe produces 3x the mining return per use. There is no other difference.
+- You will always get one type of ore/stone and one type of sellable each mining attempt:  
     - Enhancement ore: low, mid, high, fine, and silver grade  
     - Ouroboros Ore (see Relic Material list above)  
-    - Alteration and refinement stones (includig LFAS / FAS) ranging from 1-5 star quality.
-    - Sellables: mainly translucent gems
-- Tips:
-    - Mining products are not limited by player progress or rank. This is one of the few free-to-play ways in the game to get early access to higher levels of ore than you can normally find. This is especially valuable if you are trying to Reforge Relic items to material Ranks higher tha your current main story progress allows.  
-    - Keeping a supply of Mining Pickaxes in storage lets you quickly refill from the inventory screen outside the castle without heading back to town.
-    - At least at the start while you're still accumulating currency, it's probably best to just stick to loading up on as many regular pickaxes as you can carry.  Later, after you have cleared out the Exchnage shop, you can splurge on the Golden ones to triple your mining output.
-    - There are several locations with one or two mining spots and no mobs near entrances and Harkens (Zone 1 Main entrance , Zone 2-5 Harkens). If you want to do nothing but mine, you can repeatedly jump in and out of those locations to mine when they refresh.  
+    - Alteration and refinement stones (includig *very rare* LFAS / FAS) ranging from 1-5 star quality.  
+    - Sellables: Translucent gems  
+- Tips:  
+    - Mining products are not limited by player progress or rank.  
+        - You can get higher levels of ore than your main story progress allows.   
+        - LFAS and FAS are very rare mining rewards, but this is the first practical way to farm them in the game.  
+    - Keep Mining Pickaxes in storage to quickly refill from the inventory screen outside the castle without heading back to town.  
+    - At the start stick to regular pickaxes.  Later, after clearing out the Exchnage shop, switch to Golden ones to triple your mining output.
+        - Farm Gil by [exchanging Relic materials back and forth at the Trader](#material-trading).)  
+    - Enemy-free mining spots: Zone 2 (two spots), 4 (one spot), an 5 (two spots) from the Harkens. Set check marks next to the spots, then auto-walk, mine, auto-exit.  
 
 ??? map "Mining Maps"
     Mining locations marked with checkmarks below.
@@ -662,12 +782,12 @@ One notable thing is that while real players can fulfill your requests, there ar
 
 
 ### Relic Materials
-- Note - as of Aug 14 some relic materials are available in the Exchange. Likely you will still need far more than are available.  
+- Note - some relic materials are available in the Exchange. Likely you will want far more than that.  
 - There are ~four general categories of relic items, each of which needs to be farmed in different ways:  
-    1. General relic materials: Byrne Bills, Shells, and Silver/Goldpieces needed to reforge items up to Steel rank. These materials drop from regular chests either spawed on entering the dungeon or from random mob chests. See Chest/Junk Drop section for farming details.  
-    2. Attestations (papers) and Fragments (boxes): Specific to each relic item, these are needed to Reforge items to Ebonsteel and Silver ranks, respectively and to Remake silver-rank items. These items only drop from two sources: encounters with Notorious monsters (non-wandering demons with a random chance at occurring at set spawn points on Zones 1-5), and roaming packs of 8 demons that spawn in the farthest southern corners of the big rooms on Zone 5 (only appearing on second and subsequent dungeon resets). Depending on your junk/level/progress tier all of these encounters have a chance of dropping 4-5 of each item.  The NMs are named, and each has set spawn locations and types of items dropped.  See [NM location maps](#potential-spawning-locations) above.  
-        - It has been noted that the 8-demon packs always spawn closest to the farthest southern corners of the big rooms. Additionally, while auto-walking you can bring up the map and all mobs stop moving (you can still run into them.) The west room has a generally mob-free straight path to the corner if you auto-walk from the floor entrance.  If you set an auto walk point to the corner, upon entering the floor you can immediately walk-to-check then bring up the map and you should walk there uninterrupted. Then on arrival you can quickly find and attack the closest mob, likely to be the 8-demon pack. Note this seems to also avoid aggro-ing as many other mobs on your way in. Doing both rooms with this method, the second room will likely have had mobs wandering decreasing effectiveness of the approach.  
-        - Certain NMs only spawn once daily. Others have a chance to repsawn once each time you enter the dungeon, and each time you re-enter the floor that chance of them appearing re-rolls. So you can clear the general mobs from a floor, if no NM switch floors, go back to that floor and see if the demon has spawned. (If he hasn't another random mob will be there instead.) E.g., this can be done on Zone 1 by clearing the northeast room, stepping through the gate into Zone 2, stepping back into Zone 1, checking that NE room again for the demon, repeating until he appears, after defeating him leaving the dungeon, and then repeating the process.  Other floors provide similar farming opportunities, such as the big rooms on Zone 5. (more details pending)  
+    1. General relic materials: Byrne Bills, Shells, and Silver/Goldpieces needed to reforge items up to Steel rank. These materials drop from regular chests either spawed on entering the dungeon or from random mob chests. See [Chest/Junk Drop section](#chest-junk-drops).  
+    2. Attestations (papers) and Fragments (boxes): Specific to each relic item, needed to Reforge items to Ebonsteel and Silver ranks and to Remake silver-rank items. These only drop from encounters with [Notorious monsters](#notorious-monsters), and roaming 8 demon packs that spawn in the bottom outside corners of the big rooms on Zone 5 (only appear after 1st run complete). These encounters have a chance of dropping 4-5 of each item.  Note that some of these drops may be gated to your junk/level/progress tier.  
+        - The 8-demon packs always spawn near to the farthest southern corners of the big rooms. Speed farm these by: (1) set an auto walk checkmark on the corner. (2) enter from the floor 4-5 stairs. (3) immediatley tap walk-to-check then bring up the map freezing all mobs while it walks. Most times you should walk there uninterrupted. Then on arrival you can quickly find and attack the closest mob, likely to be the 8-demon pack. If you try to do both rooms at once, the second room mobs will have wandered decreasing effectiveness of the approach.  
+        - Certain NMs spawn once daily. Others can repsawn each time you enter the dungeon, and some mobs respawn each time you re-enter the floor. So you can clear all mobs from a NM spawning room, switch floors, go back to that floor, and see if the NM has spawned. (If he hasn't another random mob will likely be there instead. kill it.). Repeat. This can be done on Zone 1 by clearing the three NM spawning rooms, stepping through the gate into Zone 2, stepping back into Zone 1, checking those rooms again, repeating until one appears, after defeating some leave the dungeon, and repeating the process.  Similarly floor 5 provide 4 rooms with similar farming opportunities, plus the 8-demon packs may respawn.  *Note: this castle sometimes respawns while you're still on the floor. Worth checking back after clearing before doing the floor switch.*  
     3. Necropsyche: lanterns carried by Tonberrys needed to Reforge items to silver rank and to Remake silver-rank items - Tonberrys randomly spawn throughout zones 2-5 as smaller enemies and can appear alone, with other random monsters, or as a group of three tonberries. Each battle will drop 4-5 Necropsyche, no matter how many Tonberrys in the battle. Tonberrys are light-type and have unique combat behavior. They start on far rows, 'approach' one row at a time, and then attempt a devastating stab attack. They also have a counterattack that has a chance of reacting to any PHYSICAL MELEE attack and increases in damage with the number of Tonberry's you have ever killed (~17x). MONTINO/Voice Theft can prevent the counterattack, but MONTINO can be removed. They are susceptible to sleep and stun. Encountering one? Terminate with extreme prejudice.  Encountering three? Flee.  Just not worth it.  You're gonna need to kill a lot of these guys to get all relics up to Silver.
     4. Ouroboros Ore: Special ore needed only for Remaking an item. Can be rarely obtained by [Mining for Ore (see above)](#mining-for-ore) in the castle. Also available in unlimited quantities in the Exchange Shop for 15,000 Gil (Each Remake requires 10 Ore, so 150,000 Gil each). If you're lucky with your enhancement rolls you may never need to Remake a Relic.  In the process of mining for other rare drops, you may get what you need.  But with the ease of farming Gil through the Trader, it may be easist to just plan to Exchange for whatever ore you need. 
   
@@ -682,29 +802,9 @@ One notable thing is that while real players can fulfill your requests, there ar
     - Scroll of Instant Stonega: deals minor earth damage to 1 enemy row.
     - Scroll of Instant Blizzaga: deals minor untyped damage to 1 enemy row with a chance to inflict Chill.
 - The event can drop everything from bronze to silver junk, but availability of higher tiers is locked behind a combination of MC Grade and main story progress.  
-- More details pending.
+- Chests can spawn pretty much anywhere on each zone 1-5, here are no predictable enemy-free chest grab areas.
+- For farming chests from enemies, the most fights can predictably be found in the two big rooms at the bottom of Zone 5.  You can leverage the event's [mob aggro behavior and the Conga line approach described above](#event-mob-behavior-changes) to quickly and safely dispatch the large number of enemies in both rooms.  This is best done using the long hallways leading north from each room.  
   
 ### Bondmates  
 
 - After having saved each bondmate with a Crystal of Hope once, you can farm just by Cursed Wheel leaping to just before the final battle, defeating the Shadow Lord, and turning in the completed request.  
-
-## Dispatches  
-
--  The Event offers three unique Dispatches that are only available during the event period.  They are available only in the Royal Capital and are Bright Blue in the dispatch list.  
--  Each unlocks with further progress through the event, with a new one appearing after the Zone 2, 3, and 5 Harkens have been restored.  
-    - Cursed Wheeling to a time before reaching these floors will remove the dispatch from your list. Completing the 3rd run closes the Castle and removes all dispatches from the list.  
-    - Removed dispatches are allowed to complete but 'Redispatch' cannot be selected.  
-    - CW back to an event point after the Dispatch trigger to restore the dispatch. Do so before getting a Disptach report if you want to re-dispatch them.  
-- Disptach results are the same as can be obtained by the player in the dungeon, rarely including things like Relic materials.
-- As usual dispatched characters make use of items in their inventory to improve dispatch outcomes.  *This include Pickaxes for mining*.  Once unlocked you should fill any empty inventory slots with pickaxes.  
-    - Mining via dispatch has [the same potential results as doing it in person](#mining-for-ore).  
-    - Golden pickaxes still produce 3x the mining output and still break just as often as regular ones.  
-    - The number consumed on one run is very random.  
-    - Unlike all other consumables, *Pickaxes do not self-replenish* and are consumed during the dispatch. If out of pickaxes, you might see a note of one being bought for 100gp at the shop.  
-        - Redispatching does not allow you to refill pickaxe inventory, but since you can only buy them in the event town you can have a bunch in storage ready to add manually.  
-
-!!! tip "Refilling pickaxes on Dispatched Units"
-    - Without Re-dispatch: Exit dispatch, select the dispatch, select the characters again, go into one character's inventory, 'Item list', add the pickaxes.  
-    - With Re-dispatch (Likely an unpatched bug): Redispatch, Edit your team, add all 6 dispatched characters, long press/click any one, go to Inventory, click Item List, select the pickaxes in storage, click Transfer, fill all of their inventories, cancel out, exit the Edit menu without changing your team.  
-        - The inventory change to the dispatch characters takes effect.  
-        - The game apparently doesn't calculate Dispatch outcomes until it finishes and uses whatever items are present at that time. 

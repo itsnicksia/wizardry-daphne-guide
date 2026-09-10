@@ -211,7 +211,7 @@
         - For the remaining endings you must have a certain number of "Spotted" corrosion sentries toggled before leaping in order for the NPCs to still be alive. The lower the Abyss corrison level, the more survivors you can rescue. 
         - This ending only triggers when there are 0 to 8 corrosion sentries toggled to "Spotted." The GWO becomes progressively more difficult as you lower the number of "Spotted" toggles. That is, GWO 8 (8 "Spotted") is easier than GWO 6 (6 "Spotted"), which is easier than GWO 2 or GWO 0. 
         - Unless you are looking for a challenge, then set your CW to 8 "Spotted". Again, remember, that any not registered already count toward the "Spotted" total. For an example of how to do the math see [here](./corrosion.md#__tabbed_5_3).  
-        - Another way to double-check you have the correct number toggled is to observe the size of Ixion's room when you first jump to the Z10 Fountain. See [here](./corrosion.md#__tabbed_1_4). 
+        - Another way to double-check you have the correct number toggled is to observe the size of Ixion's room when you first jump to the Z10 Fountain. See [here](./corrosion.md#__tabbed_5_5). 
 
 === "Outcome"
 

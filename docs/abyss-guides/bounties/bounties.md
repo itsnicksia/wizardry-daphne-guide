@@ -156,7 +156,7 @@
     | Dolan, the Long-Lost Sailor               | 6    | Port Town     | &emsp;&nbsp; A2       | D3     | 9       | 215    | 7,000  |          |
     | Peerless Scorpionesses                    | 7    | Royal Capital | &emsp;&nbsp; A1       | B2F    | 11      | 280    | 10,800 |          |
     | Timid Crimson Fang                        | 7    | Guarda        | &emsp;&nbsp; A3       | Z5     | 9       | 240    | 7,200  |          |
-    | Estatic Blazing Eye                       | 8    | Port Town     | &emsp;&nbsp; A2       | Ship 2 | 10      | 310    | 8,000  |          |
+    | Ecstatic Blazing Eye                       | 8    | Port Town     | &emsp;&nbsp; A2       | Ship 2 | 10      | 310    | 8,000  |          |
     | Insatiable Gorger                         | 8    | Guarda        | &emsp;&nbsp; A3       | Z8     | 12      | 360    | 12,000 |          |
     | Ross, the Twisted Knight                  | 8    | Guarda        | &emsp;&nbsp; A3       | Z10    | 9       | 400    | 12,000 | Req      |
     | Shadow-Lurking Operative                  | 9    | Guarda        | &emsp;&nbsp; A3       | Z7     | 12      | 400    | 9,000  | Yes      |
@@ -855,9 +855,12 @@
         - Appears at Bounty Rank 13
 
     === "Fight Details"
-        - HP: 25000 tops (can be captured after ~20k which is around the time he self buffs with Night Honey)
-        - Has 3 actions per his turn. Performs typical thief skills and can self buff with various tonics. Can also cast FERU and MAFERU.
-        - When he casts Night Honey, he will gain permanent massive ATK, CT and MAG up buffs to those with little armor/defense (his physical skills have the potential to do over a thousand damage). In addition, he will be available to be caught with Binding Rope.
+        - HP: ??? (can be captured after ~20k which is around the time he self buffs with Night Honey)
+        - Has 3 actions per his turn. Can self buff with various drugs and perform typical thief skills. Can also cast magic.
+	- High dex capture requirements (90+ for a guarantee.) 
+	- Has very low resistance
+        - When he casts Night Honey, will gain permanent massive ATK, CT and MAG up buffs. Essentially all his physical skills will do over a thousand damage. In addition, he will be available to be caught with Binding Rope.
+        - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one. This seems to require successfully completing the Octonarus Ending in A2.
         - After defeating him, you MUST give him the Tonic or else he will die and the bounty will fail.
         - Tonics (Honeys) may be bought from him (Snow, Moon, Flower, and Night) upon meeting him again. Their uses are of yet unknown. He will disappear after the purchase. Prerequisite: this seems to require successfully completing the Octonarus Ending in A2. Access: Travel Easiest: CW > 'Passed Through the Coal Mine'.
 

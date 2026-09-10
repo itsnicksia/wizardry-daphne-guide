@@ -75,6 +75,7 @@ extra_css:
   - stylesheets/admonition-info.css
   - stylesheets/table-extras.css
   - stylesheets/tracker.css
+  - stylesheets/iv-official-tables.css
 
 extra_javascript:
   - js/tablefilter.js
@@ -83,6 +84,7 @@ extra_javascript:
   - https://unpkg.com/tablesort@5.6.0/dist/sorts/tablesort.number.min.js
   - https://unpkg.com/papaparse@5.4.0/papaparse.min.js
   - js/render-gsheets.js
+  - js/iv-official-tables.js
 
 watch:
   - main.py

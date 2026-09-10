@@ -82,6 +82,9 @@ If the table does not display correctly, try the [embedded version](./equipment-
     === "Ninja Throwing Weapons"
        {{ get_equip_table_formatted("weapon", "Ninja_Throw") | convert_to_md_table | add_indentation(spaces=8) }}
 
+    === "Cesti"  
+       {{ get_equip_table_formatted("weapon", "Cesti") | convert_to_md_table | add_indentation(spaces=8) }}
+
     === "Tools"
        {{ get_equip_table_formatted("weapon", "Tool") | convert_to_md_table | add_indentation(spaces=8) }}
 
