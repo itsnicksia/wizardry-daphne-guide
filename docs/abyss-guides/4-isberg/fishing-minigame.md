@@ -90,6 +90,13 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Direction Preference: Any
         - Fight Characteristics: Moves side to side, can Frenzy.
 
+    === "Large"
+        - Depth Preference: 5m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly LArva
+        - Distance Preference: Any, but moreso Close or Middle
+        - Direction Preference: Any
+        - Fight Characteristics: Moves side to side, can Frenzy.
+
 !!! warning "Snowy Redfin"
 
     === "Small"
@@ -104,6 +111,13 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Bait Preference: Earthworm, Red Wiggler
         - Distance Preference: Far
         - Direction Preference: Any
+        - Fight Characteristics: Nothing of note, can Frenzy.
+
+    === "Large"
+        - Depth Preference: 5m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly LArva
+        - Distance Preference: Far
+        - Direction Preference: Any, but a little bit left.
         - Fight Characteristics: Nothing of note, can Frenzy.
 
 !!! warning "Chillbottom Catfish"
@@ -121,6 +135,13 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Distance Preference: Any
         - Direction Preference: Right
         - Fight Characteristics: Nothing of note, can Frenzy.
+        
+    === "Large"
+        - Depth Preference: 15m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly LArva
+        - Distance Preference: Any
+        - Direction Preference: Right
+        - Fight Characteristics: Just pulls straight, doesn't really frenzy
 
 !!! warning "Fatty Winter Salmon"
 
@@ -132,8 +153,15 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Fight Characteristics: Moves side to side, can Frenzy
 
     === "Medium"
-        - Depth Preference: 13
+        - Depth Preference: 13m
         - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Far
+        - Direction Preference: Any
+        - Fight Characteristics: Moves side to side, occasionally Frenzies.
+
+    === "Large"
+        - Depth Preference: 13m
+        - Bait Preference: Light Groundbait, Chum Mix, Abyssal Insect Larva
         - Distance Preference: Far
         - Direction Preference: Any
         - Fight Characteristics: Moves side to side, occasionally Frenzies.
@@ -151,6 +179,13 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Depth Preference: 15m
         - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
         - Distance Preference: Medium
+        - Direction Preference: Any
+        - Fight Characteristics: Occasionally Frenzies.
+
+    === "Large"
+        - Depth Preference: 15m
+        - Bait Preference: Light Groundbait, Abyssal Insect Larva, Chum Mix
+        - Distance Preference: Any, but moreso Close or Middle
         - Direction Preference: Any
         - Fight Characteristics: Occasionally Frenzies.
 
@@ -176,4 +211,12 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         - Distance Preference: Far
         - Direction Preference: Center or Left
         - Fight Characteristics: Almost always in Frenzy.
+
+!!! warning "Golden Catfish"
+
+        - Depth Preference: 15m
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Any
+        - Direction Preference: Any, but moreso to the left.    
+        - Fight Characteristics: Moves side to side, frenzies often.
 
