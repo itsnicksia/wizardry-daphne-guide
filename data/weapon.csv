@@ -502,7 +502,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 170,Bow!A170,Bow,Ex.,Winterthorn Bell Bow,Silver,1,,,120,0,0,0,0,0,12,0,0,0,159,0,0,0,0,0,17,0,0,0,186,0,0,0,0,0,21,0,0,0,199,0,0,0,0,0,23,0,0,0,203,0,0,0,0,0,25,0,0,0,"Strength-Based +, Attack Power Decrease"
 176,Bow!A176,Bow,Ex.,Mountain Huntsman's Trick Bow,Silver,1,,,80,0,0,0,0,0,50,0,0,0,119,0,0,0,0,0,55,0,0,0,146,0,0,0,0,0,59,0,0,0,159,0,0,0,0,0,61,0,0,0,163,0,0,0,0,0,63,0,0,0,"Strength-Based +, Area-of-Effect Attack Enhancement"
 182,Bow!A182,Bow,Ex.,Yoichinoyumi,Silver,1,,,113,0,0,0,0,0,4,0,0,0,146,0,0,0,0,0,4,0,0,0,172,0,0,0,0,0,4,0,0,0,195,0,0,0,0,0,4,0,0,0,212,0,0,0,0,0,4,0,0,0,"Always 4* Red with fixed type ATK/ACC/ASPD/ATK%, Strength-Based +, Namas Arrow, Power of Yoichinoyumi"
-188,Bow!A188,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+188,Bow!A188,Bow,Ex.,Giant Star's Fall,Silver,1,,,110,0,0,0,0,0,2,5,0,0,149,0,0,0,0,0,2,5,0,0,176,0,0,0,0,0,2,5,0,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Adjusted Fire"
 194,Bow!A194,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 200,Bow!A200,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,Bow!A206,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
