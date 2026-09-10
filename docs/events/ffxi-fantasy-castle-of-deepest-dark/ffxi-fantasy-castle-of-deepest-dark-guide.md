@@ -1,6 +1,6 @@
 # FFXI - Fantasy Castle of Deepest Dark
 
-!!! warning "This page is a WIP and frequently updated. Ctrl + F5 to refresh."
+!!! warning "This event has ended. The Castle is still available but all information below "Before You Begin" refers to details during the active event."
 
 ## Before You Begin
 
