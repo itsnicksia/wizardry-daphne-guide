@@ -1,6 +1,32 @@
 # FFXI - Fantasy Castle of Deepest Dark
 
-!!! warning "This event has ended. The Castle is still available but all information below "Before You Begin" refers to details during the active event."
+!!! warning "This FFXI Collaboration event has ended. All information below "Before You Begin" refers to details during the active event."  
+
+!!! note "Permanent Castle details"  
+    After the FFXI Collaboration event ended, the Village and Castle remain permanently(?) available on the World Map. There have been a number of changes summarized below:  
+
+    - At first the castle is unavailable, but talking through the dialog options with the new Blacksmith will make the Castle appear on the World Map.  
+        - Floors/Harkens unlocked during the event remain unlocked when you explore the 'new' castle, maps remain explored, and layout is mostly unchanged.
+        - The 6th/7th floor are no longer accessible (the bridge is collapsed like after event story 1st run).  
+            - A new Greater Demon 'superboss' has been added at the broken bridge.  (Warning: He has a 4-digit damage Lazelos that will TPK you if you don't kill him fast enough. Delay attack and similar WT debuffs are key.)  
+    - Castle Enemies: There are no more Kindred Demons, Tonberries, Notorious Monsters, Shadow Lord, or FFXI allies.   
+        - Kindred Demons have been replaced by Lesser Demons and Succubi.  
+        - Notorious Monsters have been replaced by Greater Demons, appearing at the same locations, apparently with very similar naming and combat behavior.  
+        - Tonberries have been replaced by Creeping coins.  
+        - Fixed battle locations from the event have been replaced with other battles with demons, demi-humans, and undead.  
+    - You can still use pickaxes on Mining spots.  
+        - Regular picks can still be bought from the Item Shop.   
+        - Golden pickaxes (for x3 rewards) are only available for a limited time until the original Event Jeweler exchange closes.  (1 week after event ended.)  
+    - Gil is no longer available.  A new event currency ""Worn-down Coin of Ghost Castle" is obtainable from every(?) chest.  
+        - New event currency can be spent in the "Trader" (Jeweler) exhange in the Village.  
+        - Trader carries one of each base Relic item (Sold Out if you already own them), Steadfast Ankhs, Ore, Junk apporpriate to your grade, and some Codexes of Learning.  
+    - Relic equipment upgrades can still be farmed in a much more limited way:  
+        - The Tavern Trader is no longer available (Drecom says any trades in progress at event end will supposedly have items returned at a later date.).  
+        - There is currently no way to trade between relic material types (e.g., Dagger Attestations for Katana Attestations or Shield Fragments).  
+        - You will need to collect exactly the items that you need for Relic upgrades.  
+            - This will take a lot longer.  It still appears that Attestation and Fragment types are still randomly dropped.
+            - It is still uncertain if certain item materials can be farmed from specific "NMs" or locations. *More info pending*.
+            
 
 ## Before You Begin
 
