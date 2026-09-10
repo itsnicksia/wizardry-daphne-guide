@@ -283,8 +283,7 @@ Upon stepping foot into Zone 5 and returning, you will receive a message from th
 ??? note "Requirements"
     [Stop the Blackmailer](important-request-gwo.md#stop-the-mastermind-and-save-the-duke)
 
-- Accept the request at the Tavern and head to **Zone 10 -Fortress 3F Lord's Room-**. Talk to the NPC on the map nearby the Greater Harken.
-- Warp to the Zone 7 Harken and walk upwards to Zone 10's Library and talk to the NPC. Choose the Investigate option.
+- Accept the request at the Tavern and warp to the Zone 7 Harken and talk to the soldier NPC on the map. Then walk upwards to Zone 10's Library and talk to the NPC. If you choose the Investigate option you will be given details on where find the intruder.
 - Head to Zone 4 Tunnel to find the mysterious man attacked by enemies after he opens the manhole cover at the middle.
 - You will have to fight 2 Skeleton Giants (front row) and 2 Vampires (back row). They are about the same strength as normal versions in Abyss 3.
 - Return to tavern to turn in the request. You now have access to a new area **Catacomb** from Zone 4.

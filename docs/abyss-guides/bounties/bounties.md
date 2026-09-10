@@ -862,6 +862,7 @@
         - When he casts Night Honey, will gain permanent massive ATK, CT and MAG up buffs. Essentially all his physical skills will do over a thousand damage. In addition, he will be available to be caught with Binding Rope.
         - After using certain drugs, you may buy them from him minus the Night Honey upon meeting him again via Cursed Wheel. He will disappear however after buying one. This seems to require successfully completing the Octonarus Ending in A2.
         - After defeating him, you MUST give him the Tonic or else he will die and the bounty will fail.
+        - Tonics (Honeys) may be bought from him (Snow, Moon, Flower, and Night) upon meeting him again. Their uses are of yet unknown. He will disappear after the purchase. Prerequisite: this seems to require successfully completing the Octonarus Ending in A2. Access: Travel Easiest: CW > 'Passed Through the Coal Mine'.
 
     === "Map R9"
         ![](./img/dutz-the-honey-tonic-savant-loc.png)

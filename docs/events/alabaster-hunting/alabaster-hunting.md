@@ -1,14 +1,12 @@
 # Alabaster Hunting
-    
-### Unlock Condition 
 
-- Step foot into Route 1 of Abyss 4, Deepsnow Hinterlands of Isberg. 
+- Unlock Condition: Abyss 4 (Deepsnow Hinterlands of Isberg) step into Route 1.
 
 ### Overview 
 
 ??? note "How to Accept the Request" 
-    - Go to the Royal Capital Guild. Under Requests - Featured select "Bring Me an Alabaster Pelt."
-    - Speak with Lady Matilda and read each of the options. If you have a Ranger in your party, you will receive slightly different text. 
+    - Go to the Royal Capital Guild > Under Requests - Featured > "Bring Me an Alabaster Pelt."
+    - Speak with Lady Matilda and read each of the options (the first option will exit the conversation); if you have a Ranger in your party, you will receive slightly different text. 
     - The Alabaster Wolf Den is located directly west of Isberg on the world map. 
 
 ??? warning "Before You Begin - Read Me"
