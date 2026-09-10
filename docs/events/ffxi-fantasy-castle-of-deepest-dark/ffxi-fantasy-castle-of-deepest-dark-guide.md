@@ -21,6 +21,7 @@
             - Collecting exactly the needed items *will take a lot longer*.  That is intentional.  
             - You may effectively be tier gated out of fully reforging items until you progress in the main story.  
             - It is unknown if specific materials can be farmed from specific "NMs" or locations. *More info pending*.  
+    - Event Dispatches are gone.
     - Enemies - FFXI creatures replaced with regular monsters:  
         - Kindred Demons --> Lesser Demons and Succubi.  
         - Notorious Monsters --> Greater Demons  
