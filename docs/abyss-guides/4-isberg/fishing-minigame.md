@@ -74,6 +74,22 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
 
 ## Fish Details
 
+!!! warning "Whopper Spinefoot"
+
+    === "Small"
+        - Depth Preference: 4m
+        - Bait Preference: Paste Bait, Special Paste Bait, Garlic Infused Paste Bait
+        - Distance Preference: Any, but usually near
+        - Direction Preference: Any
+        - Fight Characteristics: Nothing of note.
+
+    === "Medium"
+        - Depth Preference: 10m
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
+        - Distance Preference: Any
+        - Direction Preference: Any
+        - Fight Characteristics: Can frenzy, but for very short durations.
+
 !!! warning "Rockhome Bass"
 
     === "Small"
@@ -92,7 +108,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
 
     === "Large"
         - Depth Preference: 5m
-        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly LArva
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
         - Distance Preference: Any, but moreso Close or Middle
         - Direction Preference: Any
         - Fight Characteristics: Moves side to side, can Frenzy.
@@ -115,7 +131,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
 
     === "Large"
         - Depth Preference: 5m
-        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly LArva
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
         - Distance Preference: Far
         - Direction Preference: Any, but a little bit left.
         - Fight Characteristics: Nothing of note, can Frenzy.
@@ -138,7 +154,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
         
     === "Large"
         - Depth Preference: 15m
-        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly LArva
+        - Bait Preference: Deep Groundbait, Abyssal Insect Larva, Dragonfly Larva
         - Distance Preference: Any
         - Direction Preference: Right
         - Fight Characteristics: Just pulls straight, doesn't really frenzy
