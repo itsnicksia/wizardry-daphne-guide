@@ -30,7 +30,7 @@
         - "Sovereign Kindred Greater Demon" superboss added at the broken bridge.  
             - He has a 4-digit damage Lazelos that will TPK anyone who doesn't kill him fast enough.  
             - Delay attack and similar WT debuffs are key.  
-
+            - Drops 10x Relic material (fragments or attestations), a Bracelet of Hatred, Junk, and event currency.  
             
 
 ## Before You Begin
