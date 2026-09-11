@@ -3,34 +3,35 @@
 !!! warning "The FFXI Collaboration event has ended. All information below "Before You Begin" refers to details during the active event."   
 
 !!! note "Permanent Castle event changes"   
-    - The castle shows back up on the World Map after talking to the new Blacksmith.  
+    - The castle shows back up on the World Map *after talking to the new Blacksmith in town*.  
         - Floors/Harkens unlocked during the event remain unlocked, maps remain 'explored'.  
         - The 6th floor bridge is in the 'collapsed' state preventing harken and 7th floor access.   
     - You can still use pickaxes on Mining spots.   
         - Rewards seem unchanged.  
         - Regular picks can still be bought from the Item Shop.   
-        - Golden pickaxes (for x3 rewards) are only available for a limited time until the original Event Jeweler exchange closes.  (1 week after event ended.)   
+        - Golden pickaxes (for x3 rewards) are only available until the original Event Jeweler exchange closes.  (1 week after event ended.)   
     - Exchange:  
-        - Gil is no longer available.  "Worn-down Coin of Ghost Castle" is now acquired from chests.  
-        - New currency can be spent in the "Trader" (Jeweler) exhange in the Village.  
-        - Trader carries one of each base Relic item (Sold Out if you already own them), Steadfast Ankhs, Ore, Junk apporpriate to your grade, and some Codexes of Learning.  
+        - Gil are no longer available.  "Worn-down Coin of Ghost Castle" is now acquired from chests.  
+        - Village "Trader" (Jeweler) carries base Relic items (Sold Out if you already own them), Steadfast Ankhs, Ore, Junk apporpriate to your grade, and some Codexes of Learning.  
     - Relic equipment:  
         - Still upgradable at the Village blacksmith.   
         - Tavern Trader is gone.  
         - There's no way to trade between relic material types (e.g., Dagger materials for Katana materials, etc.)  
             - Collecting exactly the needed items *will take a lot longer*.  That is intentional.  
             - You may effectively be tier gated out of fully reforging items until you progress in the main story.  
-            - It is unknown if specific materials can be farmed from specific "NMs" or locations. *More info pending*.  
+            - It is unknown if specific materials are connected to specific "NMs" or locations. *More info pending*.  
     - Enemies - FFXI creatures replaced with regular monsters:  
-        - Kindred Demons --> Lesser Demons and Dark Succubi. (Demons are no longer Dark type / susceptible to Aurora weapons. Succubi are.)  
+        - Kindred Demons --> Lesser Demons and Dark Succubi. (Demons are no longer Dark type or susceptible to Aurora weapons. Succubi are.)  
         - Notorious Monsters --> Greater Demons (also not Dark type).  
             - appearing at the same locations, apparently with very similar naming, combat behavior, and Relic drops.  
         - Tonberries have been replaced by Creeping coins (still give Necrophyche drops).  
-        - Fixed event battle locations have been replaced with battles with demons, demi-humans, and undead.  
+        - The '8-pack' demon groups that dropped relic materials have been replaced with large groups of undead, demons, and/or slimes, and no longer reliably drop materials.
+        - Story battle locations have been replaced with battles with demons, demi-humans, and undead.  
         - "Sovereign Kindred Greater Demon" superboss added at the broken bridge.  
             - He has a 4-digit damage Lazelos that will TPK anyone who doesn't kill him fast enough.  
             - Delay attack and similar WT debuffs are key.  
             - Drops 10x Relic material (fragments or attestations), a Bracelet of Hatred, Junk, and event currency.  
+        - Story and superboss demon battles are 1 time battles, but can be reset using the main story Cursed Wheel. 
     - Event Dispatches are gone.  
     - FFXI Bondmates can no lonver be obtsined or leveled.  
 
