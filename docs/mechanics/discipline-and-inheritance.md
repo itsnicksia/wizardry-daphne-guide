@@ -5,6 +5,7 @@
 
 !!! warning "Character is lost"
     The adventurers used for Discipline and Inheritance are permanently consumed (lost) in the process.  Items and equipment for registered adventurers are returned to storage. But if a character is leveled, merged, has been graded up with guild tags, has themselves had been disciplined or taught skills via inheritance, or just cost you 18,000 gems to get, that character is gone and none of those investments are returned to you. The game does warn you first, but the game also leaves you free to make bad choices, and the developers won't reverse those choices for you.  
+    
     You can Lock any adventurer from their stat screen, and set auto-lock settings in the Settings (gear) menu. Do that any time you get a character you sant to keep.
 
 ## Discipline
