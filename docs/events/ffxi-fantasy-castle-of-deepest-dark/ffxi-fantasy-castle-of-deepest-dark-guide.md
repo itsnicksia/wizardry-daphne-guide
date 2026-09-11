@@ -25,7 +25,7 @@
         - Notorious Monsters --> Greater Demons (also not Dark type).  
             - appearing at the same locations, apparently with very similar naming, combat behavior, and Relic drops.  
         - Tonberries have been replaced by Creeping coins (still give Necrophyche drops).  
-        - The '8-pack' demon groups that dropped relic materials have been replaced with large groups of undead, demons, and/or slimes, and no longer reliably drop materials.
+        - The '8-pack' demon groups that dropped relic materials have been replaced with large groups of undead, demons, and/or slimes, and no longer reliably drop materials.  
         - Story battle locations have been replaced with battles with demons, demi-humans, and undead.  
         - "Sovereign Kindred Greater Demon" superboss added at the broken bridge.  
             - He has a 4-digit damage Lazelos that will TPK anyone who doesn't kill him fast enough.  
