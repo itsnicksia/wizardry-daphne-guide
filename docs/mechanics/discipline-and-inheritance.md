@@ -9,9 +9,9 @@
     You can Lock any adventurer from their stat screen, and set auto-lock settings in the Settings (gear) menu. Do that any time you get a character you sant to keep.
 
 ## Discipline
-Discipline boosts all of your stats by a set amount per duplicate (not per skill level) and can go up to a maximum skill level of 9 at 1500 Mastery. The amount each stat gets boosted is static, but it's not completely uniform. The below tables highlight the increase in stats at a particular Discipline level. The key thing to note is that most stats follow the same scaling, with `HP`, `Surety`, and `ASPD` being different. Also at most, a featured non-HP stat will only increase the total value by `36`, while a non-featured non-HP stat will only increase the value by `28`. The lower level you are, the more impactful it is, but since these are static increases, they will significantly lose their value as our overall stats increase due to higher levels and grades in the future.
+Discipline boosts all of your stats by a set amount per discipline skill level, which can go up to a maximum skill level of 9. The amount each stat gets boosted is static, but it's not completely uniform. The below tables highlight the cumulative (total) increase in stats at each Discipline level. The key thing to note is that most stats follow the same scaling, with `HP`, `Surety`, and `ASPD` being different. Also at most, a featured non-HP stat will only increase the total value by `36`, while a non-featured non-HP stat will only increase the value by `28`. (Featured stats are identified in the character's Discipline Skill description.)  The lower level you are, the more impactful it is, but since these are static increases, they will significantly lose their value as our overall stats increase due to higher class levels in the future.
 
-### Discipline Stat Gains
+### Discipline Cumulative Stat Gains
 
 === "Legendary Adventurer Stats"
 
@@ -101,52 +101,54 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     |    Evasion    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |   Resistance  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     
-### Copies Per Discipline Level
+### Copies Per Discipline Level  
+
+Increasing Discipline level requires increasing Discipline skill level byby sacrificing a certain number of duplicate characters or rare items that increase Discipline "Mastery" or Discipline Skill Experience Points. Every character, regardless of rarity, is equivalent to 100 points. Items can be worth different point values, such as "Doppel Quicksilver" with each piece worth 25 points.  Increasing Discipline requires a different number of Mastery points for each level and for different rarity adventurers, with Legendary Adventurers requiring the lowest number of Mastery Points and Anonymous Adventurers requiring the least. (From this, it is obvious that rare items providing Discipline Mastery points are best used for Legendary adventurers.)  The total number of character copies and Mastery points required for each Discipline level is shown in the tables below.  
 
 === "Legendary"
 
-    | Discipline Level | Number of Copies | Number of Cumulative Copies |
-    | ---------------- | ---------------- | --------------------------- |
-    | 0                | 1                | 1                           |
-    | 1                | 1                | 2                           |
-    | 2                | 1                | 3                           |
-    | 3                | 2                | 5                           |
-    | 4                | 1                | 6                           |
-    | 5                | 1                | 7                           |
-    | 6                | 2                | 9                           |
-    | 7                | 2                | 11                          |
-    | 8                | 2                | 13                          |
-    | 9                | 3                | 16                          |
+    | Discipline Level | Number of Copies | Discipline Mastery (Skill Exp.) | Number of Cumulative Copies | Cumulative Disc. Mastery (Skill Exp.) |
+    | ---------------- | ---------------- | --------------------- | --------------------------- | -------------------------- |
+    | 0                | 1                |  n/a                  | 1                           | 0                          |
+    | 1                | 1                |  100                  | 2                           | 100                        |
+    | 2                | 1                |  100                  | 3                           | 200                        |
+    | 3                | 2                |  200                  | 5                           | 400                        |
+    | 4                | 1                |  100                  | 6                           | 500                        |
+    | 5                | 1                |  100                  | 7                           | 600                        |
+    | 6                | 2                |  200                  | 9                           | 800                        |
+    | 7                | 2                |  200                  | 11                          | 1,000                      |
+    | 8                | 2                |  200                  | 13                          | 1,200                      |
+    | 9                | 3                |  300                  | 16                          | 1,500                      |
 
 === "General"
 
-    | Discipline Level | Number of Copies | Number of Cumulative Copies |
-    | ---------------- | ---------------- | --------------------------- |
-    | 0                | 1                | 1                           |
-    | 1                | 1                | 2                           |
-    | 2                | 1                | 3                           |
-    | 3                | 3                | 6                           |
-    | 4                | 3                | 9                           |
-    | 5                | 3                | 12                          |
-    | 6                | 6                | 18                          |
-    | 7                | 5                | 23                          |
-    | 8                | 5                | 28                          |
-    | 9                | 8                | 36                          |
-
+    | Discipline Level | Number of Copies | Discipline Mastery (Skill Exp.) | Number of Cumulative Copies | Cumulative Disc. Mastery (Skill Exp.) |
+    | ---------------- | ---------------- | --------------------- | --------------------------- | -------------------------- |
+    | 0                | 1                |  n/a                  | 1                           | 0                          |
+    | 1                | 1                |  100                  | 2                           | 100                        |
+    | 2                | 1                |  100                  | 3                           | 200                        |
+    | 3                | 3                |  300                  | 6                           | 500                        |
+    | 4                | 3                |  300                  | 9                           | 800                        |
+    | 5                | 3                |  300                  | 12                          | 1,100                      |
+    | 6                | 6                |  600                  | 18                          | 1,700                      |
+    | 7                | 5                |  500                  | 23                          | 2,200                      |
+    | 8                | 5                |  500                  | 28                          | 2,700                      |
+    | 9                | 8                |  800                  | 36                          | 3,500                      |
+    
 === "Anonymous"
 
-    | Discipline Level | Number of Copies | Number of Cumulative Copies |
-    | ---------------- | ---------------- | --------------------------- |
-    | 0                | 1                | 1                           |
-    | 1                | 4                | 5                           |
-    | 2                | 4                | 9                           |
-    | 3                | 7                | 16                          |
-    | 4                | 6                | 22                          |
-    | 5                | 6                | 28                          |
-    | 6                | 10               | 38                          |
-    | 7                | 9                | 47                          |
-    | 8                | 9                | 56                          |
-    | 9                | 15               | 71                          |
+    | Discipline Level | Number of Copies | Discipline Mastery (Skill Exp.) | Number of Cumulative Copies | Cumulative Disc. Mastery (Skill Exp.) |
+    | ---------------- | ---------------- | --------------------- | --------------------------- | -------------------------- |
+    | 0                | 1                |  n/a                  | 1                           | 0                          |
+    | 1                | 4                |  400                  | 5                           | 400                        |
+    | 2                | 4                |  400                  | 9                           | 800                        |
+    | 3                | 7                |  700                  | 16                          | 1,500                      |
+    | 4                | 6                |  600                  | 22                          | 2,100                      |
+    | 5                | 6                |  600                  | 28                          | 2.700                      |
+    | 6                | 10               |  1,000                | 38                          | 3,700                      |
+    | 7                | 9                |  900                  | 47                          | 4,600                      |
+    | 8                | 9                |  900                  | 56                          | 5,500                      |
+    | 9                | 15               |  1,500                | 71                          | 7,000                      |
     
 ### Discipline after Merging:  Shared Discipline
 Recent changes to the Adventurer Merge system have introduced other Discipline considerations that apply only to characters with Alternate Styles (e.g., Lanavaille and Wandering Princess Lanavaille) that have been Merged.  For full details, please see [the Shared Discipline section of the Merging page](./merging.md#shared-discipline). In short, the significant benefits of the Shared Discipline only activate once each Style hase been disciplined once (reached Discipline level 1) after which *both styles* continue to benefit from Disciplining *either style*, and additional benefits accrue in excess of Discipline level 9. In many cases this strongly encourages Disciplining any limited style at least once before considering other duplicate uses.
