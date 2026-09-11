@@ -2,7 +2,7 @@
 
 !!! warning "The FFXI Collaboration event has ended. All information below "Before You Begin" refers to details during the active event."   
 
-!!! note "Permanent Castle event changes"   
+!!! note "Permanent Castle event changes"  
     - The castle shows back up on the World Map *after talking to the new Blacksmith in town*.  
         - Floors/Harkens unlocked during the event remain unlocked, maps remain 'explored'.  
         - The 6th floor bridge is in the 'collapsed' state preventing harken and 7th floor access.   
