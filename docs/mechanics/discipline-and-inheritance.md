@@ -132,6 +132,21 @@ Discipline boosts all of your stats by a set amount per duplicate (not per skill
     | 8                | 5                | 28                          |
     | 9                | 8                | 36                          |
 
+=== "Anonymous"
+
+    | Discipline Level | Number of Copies | Number of Cumulative Copies |
+    | ---------------- | ---------------- | --------------------------- |
+    | 0                | 1                | 1                           |
+    | 1                | 4                | 5                           |
+    | 2                | 4                | 9                           |
+    | 3                | 7                | 16                          |
+    | 4                | 6                | 22                          |
+    | 5                | 6                | 28                          |
+    | 6                | 10               | 38                          |
+    | 7                | 9                | 47                          |
+    | 8                | 9                | 56                          |
+    | 9                | 15               | 71                          |
+    
 ### Discipline after Merging:  Shared Discipline
 Recent changes to the Adventurer Merge system have introduced other Discipline considerations that apply only to characters with Alternate Styles (e.g., Lanavaille and Wandering Princess Lanavaille) that have been Merged.  For full details, please see [the Shared Discipline section of the Merging page](./merging.md#shared-discipline). In short, the significant benefits of the Shared Discipline only activate once each Style hase been disciplined once (reached Discipline level 1) after which *both styles* continue to benefit from Disciplining *either style*, and additional benefits accrue in excess of Discipline level 9. In many cases this strongly encourages Disciplining any limited style at least once before considering other duplicate uses.
 
