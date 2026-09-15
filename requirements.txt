@@ -3,5 +3,5 @@ mkdocs-glightbox
 mkdocs-awesome-nav
 mkdocs-macros-plugin
 mkdocs-redirects
-mkdocs-table-reader-plugin
+mkdocs-table-reader-plugin==3.1.0
 mkdocs-git-revision-date-localized-plugin
