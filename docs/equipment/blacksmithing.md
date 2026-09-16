@@ -38,7 +38,8 @@
     </div>
 
 === "Potential Blessings Table" 
-
+    The chart below shows the type of blessings that can naturally appear on different items. Duplicate blessings will normally never appear. (An item that is found with +DEF will not roll +DEF on any other blessing slot. It can roll +DEF%, as that is considered a separate blessing type.) 
+    
     <div align="center">
     ![](img/potential-blessings-table.png)
     </div>
@@ -49,6 +50,8 @@
 - Enhancing an item to +5 and beyond requires different grades and quantities of iron ore to be used.   
 - Enhancing items beyond +5, +10, and +15 also requires unification (see below) to increase the Strength of the item.
 - At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectively, or a Blessing that already exists in that slot is improved.
+    - The blessings that can appear on an item can be found in the [Potential Blessings Table](#__tabbed_1_3) above.
+    - The new blessing will never duplicate an existing blessing, but [alteration](#alter) can create multiples of the same blessing on an item. Note that a blessing removed by alteration can reappear again in a later blessing slot.  
 
 ### ^^Gold Cost for Enhancing^^
 
