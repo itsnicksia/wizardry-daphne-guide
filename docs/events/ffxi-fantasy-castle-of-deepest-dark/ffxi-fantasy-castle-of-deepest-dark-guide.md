@@ -514,7 +514,7 @@ Harkens in the event can provide both the basic blessings and unique Event bless
     - Blessing types are fixed. L/FASing them keeps blessing types the same and just rerolls the values, similar to Master Rings from class trials.  
     - Enhancement:  
         - Limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-        - Costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).  
+        - Costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword and Bow, ~1M for the rest).  
         - Blessings and increases all follow the Silver level table ranges for 1H and 2H items (even if you enhance at lower relic level).  
         - Reforging has no affect on enhancement level or blessings.  
     - Remaking:  
