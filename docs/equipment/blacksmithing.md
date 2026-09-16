@@ -75,7 +75,7 @@
     | Special 2H Weapons<sup>\*</sup> | 750|	1,100|	1,920|	3,260|	5,200|	7,450	|10,770	|15,040	|20,370|	26,770	|40,090	|52,820	|69,040	|89,140	|113,570	|175,450|	226,690	|288,190|	430,720	|831,260	|2,409,600|  
 </div>  
 
-<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. Not all banner weapons and armor sort exactly by those descriptions. The 1st level enhancement cost will confirm for you what tier it falls into.
+<small><sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. Not all banner weapons and armor sort exactly by those descriptions. The 1st level enhancement cost will confirm for you what tier it falls into.</small>
 
 
 ### ^^Ore Cost^^
@@ -522,7 +522,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 
 </div>
 
-<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. 
+<small><sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. </small>
 
 ### Percent Success Rate
 
@@ -661,7 +661,7 @@ Since DEF and MDEF is ridiculously undervalued by the game mechanics, there's pr
 
 </div>
 
-<sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. 
+<small><sup>\*</sup> "Special" mostly refers to "Banner" or "gacha" gear. For example: Silver Special<sup>\*</sup> 1H - Blade Cuisinart, Silver Special<sup>\*</sup> 2H - Twin Moon Axe, Silver Special<sup>\*</sup> armor: Master's Armor. </small>
 
 #### Credits
 
