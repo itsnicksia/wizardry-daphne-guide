@@ -1,6 +1,6 @@
 # Lamp of Malice
 
-WIP - a new event has added a second chapter to this event.  *updates pending*
+!!! note "WIP - a new event has added a second chapter to this event.  Updates pending."
 
 !!! item "This event is now permanent."
 
