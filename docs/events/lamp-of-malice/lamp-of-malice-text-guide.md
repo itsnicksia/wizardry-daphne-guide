@@ -7,6 +7,12 @@
 ??? note "Video Tutorial"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4u6ZLLGSGf0?si=MH9-7KHUASNoN83h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Overview
+There are reports of monsters and undead in a nearby cave wherein an evil entity has been captured.  Go figure out what's going on.  
+
+!!! note "Difficultly selector"  
+    At the entrance to the cave there is an altar from which to select the difficulty mode: Trial of Simplicity, Moderation, and Impossible. Each difficulty increases the monster levels and even currency rewards (there is no change to story, enemy types, or equipment that can be found) . The default difficulty without interacting with the altar is *Moderation.*  
+
 ## How to enable
 
 The event will be enabled when one has reached Level B7 of the Beginning Abyss on the second run through.
@@ -15,11 +21,11 @@ The event will be enabled when one has reached Level B7 of the Beginning Abyss o
 
 Note: Like the main story more than one run will be needed to get the complete ending for this event.
 
-On the entrance to the cave there is an altar from which to select the difficulty mode: Trial of Simplicity, Moderation, and Impossible. Each difficulty increases the monster levels and rewards. The default difficulty without interacting with the altar is *Moderation.*  
-
-Maps (one check: crystal or peculiarity; three checks: elites):
+### Maps  
+(one check: crystal or peculiarity; three checks: entities):  
 
 ??? map "B1F Map"
+    (image missing entities located at x:12,y:26)  
     ![](img/b1f.png)
 
 ??? map "B2F Map"
@@ -29,6 +35,7 @@ Maps (one check: crystal or peculiarity; three checks: elites):
     ![](img/b3f.png)
 
 ??? map "B4F Map"
+    (image missing entities located at x:0,y:11)   
     ![](img/b4f.png)
 
 After reaching the locked doors on B4F and interacting with the 4 altars, you’ll receive 4 quests to gather materials. Bat Wings and Frog Tongues can be obtained in B2F. Rat Teeth and Lizard Tails can be obtained on B3F.
