@@ -235,16 +235,6 @@ Saved the Duke and apprehended the mastermind.
 3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
 4. Have a Maximum of 6 Corrosion Levels (Spotted 6 Times) 
 
-#### Outcome
-
-Saved the Duke and apprehended the mastermind.
-
-#### Requirements
-1. Successfully saved Duke Ixion in a previous run.
-2. Save Liam and notify Alan when meeting the Duke's party.
-3. Give "Mastermind Evidence" to Clemente when meeting the Duke's party.
-4. Have a Maximum of 6 Corrosion Levels (Spotted 6 Times) 
-
 #### Guide
 
 !!! warning "Proceeding With Caution" 

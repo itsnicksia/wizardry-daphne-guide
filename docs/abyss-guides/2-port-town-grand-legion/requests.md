@@ -507,20 +507,15 @@ Goetia -> Admiral Route
 - Complete [Temple Food Assistance](#temple-food-assistance) Request.  
 - Speak to Pickerel at Upper Deck \-Arena-.
 
-!!! info "Tip"
-    - An easy way to find rabbits is to enter the B4F Harken in Abyss 1. A group of 3 bunnies is guaranteed to spawn on the room next to it, which is a very fast way to fulfill the requirement.
-
 ### Temple Food Assistance
 
 ??? info "Request"
     ![](img/image_63.jpg)
 
-- Go to Beginning Abyss B4 and gather 5 Vorpal Bunny Meat from Vorpal Bunny enemies  
-
-??? info "Tip"
-    If you still have an incomplete Relentless Massacre Rabbit quest, you can repeatedly interact with the same body and fight the rabbit until you collect all the mats without needing to look for them.  
-
-- Go to Valeon Grasslands and gather 1 Wild Carrot, they grow near white flowers.  Your map isn't very useful here but it does show your coordinates. The flowers are usually near x:172, y:88.
+    - Gather 5 Vorpal Bunny Meat from Vorpal Bunny enemies. 
+    - Go to Valeon Grasslands and gather 1 Wild Carrot, they grow near white flowers.  Your map isn't very useful here but it does show your coordinates. The flowers are usually near x:172, y:88.
+    !!! tip "Finding Bunnies"  
+        - You can obviously hunt bunnies in the Grasslands, but an easier way to find rabbits is to enter the Abyss 1 B4F Harken. A 3 bunny group is guaranteed to spawn on the room to the west every time you exit and re-enter.  
 
 ??? info "White Flowers"
     ![](img/image_64.jpg)
