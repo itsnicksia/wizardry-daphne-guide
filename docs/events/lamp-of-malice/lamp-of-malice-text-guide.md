@@ -8,7 +8,7 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4u6ZLLGSGf0?si=MH9-7KHUASNoN83h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Overview
-There are reports of monsters and undead in a nearby cave wherein an evil entity has been captured.  Go figure out what's going on.  
+There are reports of monsters and undead in a nearby cave wherein an evil entity has was imprisoned long ago.  Go figure out what's going on.  
 
 !!! note "Difficultly selector"  
     At the entrance to the cave there is an altar from which to select the difficulty mode: Trial of Simplicity, Moderation, and Impossible. Each difficulty increases the monster levels and even currency rewards (there is no change to story, enemy types, or equipment that can be found) . The default difficulty without interacting with the altar is *Moderation.*  
