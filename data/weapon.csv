@@ -407,7 +407,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 116,1H_Staff!A116,1H_Staff,252,Fine Flower Petal Baton,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,"Faerie exclusive, Promise of Compassion"
 122,1H_Staff!A122,1H_Staff,Ex.,Librarian Rod,Silver,1,,,36,70,70,0,0,0,0,0,3,0,60,94,94,0,0,0,0,0,3,0,80,114,114,0,0,0,0,0,3,0,92,126,126,0,0,0,0,0,3,0,100,134,134,0,0,0,0,0,3,0,Memory Enhancement
 128,1H_Staff!A128,1H_Staff,Ex.,Drug-Stirrer,Silver,1,,,15,77,77,0,0,0,0,0,3,0,39,101,101,0,0,0,0,0,3,0,59,121,121,0,0,0,0,0,3,0,71,133,133,0,0,0,0,0,3,0,79,141,141,0,0,0,0,0,3,0,Efficient Compounding
-134,1H_Staff!A134,1H_Staff,Ex.,Staff of the Parasitic Tree,Silver,1,,,41,68,68,0,0,0,0,0,3,0,,,,,,,,,,,,,,,,,,,,,97,124,124,0,0,0,0,0,3,0,,,,,,,,,,,Magic Power/Divine Power Accumulation Upon MP Expenditure
+134,1H_Staff!A134,1H_Staff,Ex.,Staff of the Parasitic Tree,Silver,1,,,41,68,68,0,0,0,0,0,3,0,65,92,92,0,0,0,0,0,3,0,85,112,112,0,0,0,0,0,3,0,97,124,124,0,0,0,0,0,3,0,,,,,,,,,,,Magic Power/Divine Power Accumulation Upon MP Expenditure
 140,1H_Staff!A140,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,1H_Staff!A146,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,1H_Staff!A152,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -447,10 +447,10 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 104,2H_Staff!A104,2H_Staff,Ex.,Quicksilver Crosier,Ebonsteel,1,,,18,50,104,0,0,0,0,0,-4,0,41,73,127,0,0,0,0,0,-4,0,63,95,149,0,0,0,0,0,-4,0,86,118,172,0,0,0,0,0,-4,0,108,140,194,0,0,0,0,0,-4,0,"Strength-Based +, MP Absorption on Defeat"
 110,2H_Staff!A110,2H_Staff,Ex.,Thyrus,Ebonsteel,1,,,33,88,88,0,0,0,0,0,-4,0,56,111,111,0,0,0,0,0,-4,0,78,133,133,0,0,0,0,0,-4,0,101,156,156,0,0,0,0,0,-4,0,123,178,178,0,0,0,0,0,-4,0,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +"
 116,2H_Staff!A116,2H_Staff,219,Staff of Splendor,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,Strength-Based +
-122,2H_Staff!A122,2H_Staff,Ex.,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,135,212,200,0,0,0,0,0,-4,0,139,222,210,0,0,0,0,0,-4,0,"Strength-Based +, Status Affliction/Debuff Exploit"
-128,2H_Staff!A128,2H_Staff,Ex.,Ritual Staff of Effulgence,Silver,1,,,46,123,141,0,0,0,0,0,-4,0,85,156,174,0,0,0,0,0,-4,0,112,183,201,0,0,0,0,0,-4,0,125,202,220,0,0,0,0,0,-4,0,129,212,230,0,0,0,0,0,-4,0,"Strength-Based +, Searing Light of Purification"
-134,2H_Staff!A134,2H_Staff,Ex.,Claustrum,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +, Gate of Tartarus, Power of Claustrum"
-140,2H_Staff!A140,2H_Staff,,Two-Handed Staff of Malice,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Fire-Type Enhancement"
+122,2H_Staff!A122,2H_Staff,263,Two-Handed Staff of Malice,Silver,1,,,40,98,98,0,0,0,0,0,-4,0,73,126,126,0,0,0,0,0,-4,0,99,152,152,0,0,0,0,0,-4,0,122,180,180,0,0,0,0,0,-4,0,139,206,206,0,0,0,0,0,-4,0,"Strength-Based +, Fire-Type Enhancement"
+128,2H_Staff!A128,2H_Staff,Ex.,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,135,212,200,0,0,0,0,0,-4,0,139,222,210,0,0,0,0,0,-4,0,"Strength-Based +, Status Affliction/Debuff Exploit"
+134,2H_Staff!A134,2H_Staff,Ex.,Ritual Staff of Effulgence,Silver,1,,,46,123,141,0,0,0,0,0,-4,0,85,156,174,0,0,0,0,0,-4,0,112,183,201,0,0,0,0,0,-4,0,125,202,220,0,0,0,0,0,-4,0,129,212,230,0,0,0,0,0,-4,0,"Strength-Based +, Searing Light of Purification"
+140,2H_Staff!A140,2H_Staff,Ex.,Claustrum,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +, Gate of Tartarus, Power of Claustrum"
 146,2H_Staff!A146,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,2H_Staff!A152,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 158,2H_Staff!A158,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
