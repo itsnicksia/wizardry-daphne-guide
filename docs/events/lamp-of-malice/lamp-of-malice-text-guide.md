@@ -31,10 +31,10 @@ Maps (one check: crystal or peculiarity; three checks: elites):
 
 After reaching the locked doors on B4F and interacting with the 4 altars, you’ll receive 4 quests to gather materials. Bat Wings and Frog Tongues can be obtained in B2F. Rat Teeth and Lizard Tails can be obtained on B3F.
 
-???+ map "B2F Materials"
+??? map "B2F Materials"
     ![](img/b2f-materials.jpg)
-
-???+ map "B3F Materials"
+    
+??? map "B3F Materials"
     ![](img/b3f-materials.jpg)
 
 After gathering all materials, interact again with the altars on B4F. You’ll be able to progress to the fight with Isabella, the Seal. 
@@ -55,27 +55,28 @@ Gather Crystals: you need 4 Purification Crystals, but some of the crystals you 
 
 Interact with the 4 altars on B4F. Now, when the doors unlock, you can talk with Isabella and face the true boss.
 
-???+ map "B1F Crystals"
+??? map "B1F Crystals"
     ![](img/b1f-crystals.jpg)
 
-???+ map "B2F Crystals"
+??? map "B2F Crystals"
     ![](img/b2f-crystals.jpg)
 
-???+ map "B3F Full Map"
+??? map "B3F Full Map"
     ![](img/b3f-full-map.jpg)
 
-???+ map "Suggested Farming Route on B3F"
+??? map "Suggested Farming Route on B3F"
     ![](img/b3f-farming-route.jpg)
     !!! note 
          This farming route in B3F is an EXP / Currency farming route with 4-6 guaranteed combats adjacent to harken for ~fastest combats or chests per minute farming rate.
 
-???+ map "B4F Full Map"
+??? map "B4F Full Map"
     ![](img/b4f-full-map.jpg)
 
-???+ map "B5F Full Map"
+??? map "B5F Full Map"
     ![](img/b5f-full-map.jpg)
 
-???+ map "B5F Full Map"
+??? map "B4F no combat chest grab route"
+    *note chests cannot be reset with cursed wheel any more*  This is mainly still here just for nostalgia's sake.  
     ![](img/b4f-no-combat-farming-route.jpg)
 
 Credits for maps: Gamerch
