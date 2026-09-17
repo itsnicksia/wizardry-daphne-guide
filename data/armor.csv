@@ -444,22 +444,22 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 530,Body!A530,Body,Ex.,Blood-Gorging Garment,Silver,Cloth,,6477,0,0,0,18,-2,1,0,0,10,0,0,0,0,26,4,1,0,0,12,0,0,0,0,38,10,1,0,0,13,0,0,0,0,50,13,1,0,0,14,0,0,0,0,62,16,1,0,0,15,0,HP Absorption on Defeat
 536,Body!A536,Body,Ex.,Garment of the Waterways,Silver,Cloth,,6477,0,0,0,17,13,0,0,0,0,0,0,0,0,29,19,0,0,0,0,0,0,0,0,42,25,0,0,0,0,0,0,0,0,49,28,0,0,0,0,0,0,0,0,57,31,0,0,0,0,0,"Fire Type Reduction, Magic-Erosion Safeguard"
 542,Body!A542,Body,Ex.,Greatcoat of the Star Lord,Silver,Cloth,,,0,0,0,15,15,0,0,0,0,12,0,0,0,27,21,0,0,0,0,14,0,0,0,40,27,0,0,0,0,15,,,,,,,,,,,,,,,,,,,,,"Passive Detect Up, Passive Disarm Trap Up, Passive Attack Power Up"
-548,Body!A548,Body,3229,Silver Light Armor,Silver,Light,,1965,0,0,0,48,0,-1,-2,0,-2,0,0,0,0,62,9,-1,-2,0,-2,0,0,0,0,74,17,-1,-2,0,-2,0,0,0,0,89,26,-1,-2,0,-2,0,0,0,0,102,36,-1,-2,0,-2,0,
-554,Body!A554,Body,3230,Earthrend Mail,Silver,Light,,2460,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,Water Type Reduction
-560,Body!A560,Body,3231,Seafoam Mail,Silver,Light,,2460,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,Fire Type Reduction
-566,Body!A566,Body,3232,Chainmail,Silver,Light,,2460,0,0,0,30,0,-1,-2,5,-2,0,0,0,0,44,9,-1,-2,7,-2,0,0,0,0,56,17,-1,-2,8,-2,0,0,0,0,71,26,-1,-2,9,-2,0,0,0,0,84,36,-1,-2,10,-2,0,
-572,Body!A572,Body,3233,Giant Beast Ape Light Armor,Silver,Light,,2460,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,"Freeze Tolerance, Maximum Body Temperature Increase"
-578,Body!A578,Body,Ex.,Crimson Blossom Domaru Cuirass,Silver,Light,,9642,0,0,0,58,12,-1,-2,0,-2,0,0,0,0,70,23,-1,-2,0,-2,0,0,0,0,83,31,-1,-2,0,-2,0,0,0,0,90,36,-1,-2,0,-2,0,0,0,0,98,42,-1,-2,0,-2,0,Passive I.Q. Up
-584,Body!A584,Body,Ex.,Breastplate of Cardinal Hope,Silver,Light,,9642,0,0,5,62,6,-1,-2,0,-2,0,0,0,5,74,17,-1,-2,0,-2,0,0,0,5,87,25,-1,-2,0,-2,0,0,0,5,94,30,-1,-2,0,-2,0,0,0,5,102,36,-1,-2,0,-2,0,Piety Barrier
-590,Body!A590,Body,Ex.,Amatsu Togi,Silver,Light,,9642,0,0,0,41,20,-1,-2,0,-2,7,0,0,0,53,31,-1,-2,0,-2,7,0,0,0,66,39,-1,-2,0,-2,7,0,0,0,73,44,-1,-2,0,-2,7,0,0,0,81,50,-1,-2,0,-2,7,"Demon Resistance, Kindred Demon Resistance"
-596,Body!A596,Body,3234,Silver Heavy Armor,Silver,Heavy,,2490,0,0,0,79,0,-2,-2,0,-4,0,0,0,0,95,9,-2,-2,0,-4,0,0,0,0,107,17,-2,-2,0,-4,0,0,0,0,122,26,-2,-2,0,-4,0,0,0,0,135,36,-2,-2,0,-4,0,
-602,Body!A602,Body,3235,Earthrend Heavy Mail,Silver,Heavy,,3120,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,Water Type Reduction
-608,Body!A608,Body,3236,Seafoam Heavy Mail,Silver,Heavy,,3120,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,Fire Type Reduction
-614,Body!A614,Body,3237,Snow Beastfolk Fur Armor,Silver,Heavy,,3120,0,0,0,76,0,-2,-2,0,-8,0,0,0,0,92,9,-2,-2,0,-8,0,0,0,0,104,17,-2,-2,0,-8,0,0,0,0,119,26,-2,-2,0,-8,0,0,0,0,132,36,-2,-2,0,-8,0,"Passive HP Up, Maximum Body Temperature Increase"
-620,Body!A620,Body,3238,Giant Beast Ape Heavy Armor,Silver,Heavy,,6225,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,"Freeze Tolerance, Maximum Body Temperature Increase"
-626,Body!A626,Body,Ex.,Heavy Armor of Bloodrage,Silver,Heavy,,12218,0,0,0,93,0,-2,-2,0,-4,15,0,0,0,112,11,-2,-2,0,-4,20,0,0,0,125,19,-2,-2,0,-4,24,0,0,0,134,24,-2,-2,0,-4,26,0,0,0,139,30,-2,-2,0,-4,28,HP Absorption on Defeat
-632,Body!A632,Body,Ex.,Zeid's Cuirass,Silver,Heavy,,12218,0,0,0,100,0,-3,0,0,-6,0,0,0,0,119,11,-3,0,0,-6,0,0,0,0,132,19,-3,0,0,-6,0,0,0,0,141,24,-3,0,0,-6,0,0,0,0,146,30,-3,0,0,-6,0,Dark Type Reduction
-638,Body!A638,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+548,Body!A548,Body,Ex.,Sylphide Dress,Silver,Cloth,,,0,0,0,25,0,5,0,0,0,0,,,,,,,,,,,,,,,,,,,,,0,0,0,57,24,9,0,0,0,0,,,,,,,,,,,Intellectual Swiftness
+554,Body!A554,Body,3229,Silver Light Armor,Silver,Light,,1965,0,0,0,48,0,-1,-2,0,-2,0,0,0,0,62,9,-1,-2,0,-2,0,0,0,0,74,17,-1,-2,0,-2,0,0,0,0,89,26,-1,-2,0,-2,0,0,0,0,102,36,-1,-2,0,-2,0,
+560,Body!A560,Body,3230,Earthrend Mail,Silver,Light,,2460,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,Water Type Reduction
+566,Body!A566,Body,3231,Seafoam Mail,Silver,Light,,2460,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,Fire Type Reduction
+572,Body!A572,Body,3232,Chainmail,Silver,Light,,2460,0,0,0,30,0,-1,-2,5,-2,0,0,0,0,44,9,-1,-2,7,-2,0,0,0,0,56,17,-1,-2,8,-2,0,0,0,0,71,26,-1,-2,9,-2,0,0,0,0,84,36,-1,-2,10,-2,0,
+578,Body!A578,Body,3233,Giant Beast Ape Light Armor,Silver,Light,,2460,0,0,0,46,0,-1,-2,0,-2,0,0,0,0,60,9,-1,-2,0,-2,0,0,0,0,72,17,-1,-2,0,-2,0,0,0,0,87,26,-1,-2,0,-2,0,0,0,0,100,36,-1,-2,0,-2,0,"Freeze Tolerance, Maximum Body Temperature Increase"
+584,Body!A584,Body,Ex.,Crimson Blossom Domaru Cuirass,Silver,Light,,9642,0,0,0,58,12,-1,-2,0,-2,0,0,0,0,70,23,-1,-2,0,-2,0,0,0,0,83,31,-1,-2,0,-2,0,0,0,0,90,36,-1,-2,0,-2,0,0,0,0,98,42,-1,-2,0,-2,0,Passive I.Q. Up
+590,Body!A590,Body,Ex.,Breastplate of Cardinal Hope,Silver,Light,,9642,0,0,5,62,6,-1,-2,0,-2,0,0,0,5,74,17,-1,-2,0,-2,0,0,0,5,87,25,-1,-2,0,-2,0,0,0,5,94,30,-1,-2,0,-2,0,0,0,5,102,36,-1,-2,0,-2,0,Piety Barrier
+596,Body!A596,Body,Ex.,Amatsu Togi,Silver,Light,,9642,0,0,0,41,20,-1,-2,0,-2,7,0,0,0,53,31,-1,-2,0,-2,7,0,0,0,66,39,-1,-2,0,-2,7,0,0,0,73,44,-1,-2,0,-2,7,0,0,0,81,50,-1,-2,0,-2,7,"Demon Resistance, Kindred Demon Resistance"
+602,Body!A602,Body,3234,Silver Heavy Armor,Silver,Heavy,,2490,0,0,0,79,0,-2,-2,0,-4,0,0,0,0,95,9,-2,-2,0,-4,0,0,0,0,107,17,-2,-2,0,-4,0,0,0,0,122,26,-2,-2,0,-4,0,0,0,0,135,36,-2,-2,0,-4,0,
+608,Body!A608,Body,3235,Earthrend Heavy Mail,Silver,Heavy,,3120,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,Water Type Reduction
+614,Body!A614,Body,3236,Seafoam Heavy Mail,Silver,Heavy,,3120,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,Fire Type Reduction
+620,Body!A620,Body,3237,Snow Beastfolk Fur Armor,Silver,Heavy,,3120,0,0,0,76,0,-2,-2,0,-8,0,0,0,0,92,9,-2,-2,0,-8,0,0,0,0,104,17,-2,-2,0,-8,0,0,0,0,119,26,-2,-2,0,-8,0,0,0,0,132,36,-2,-2,0,-8,0,"Passive HP Up, Maximum Body Temperature Increase"
+626,Body!A626,Body,3238,Giant Beast Ape Heavy Armor,Silver,Heavy,,6225,0,0,0,76,0,-2,-2,0,-4,0,0,0,0,92,9,-2,-2,0,-4,0,0,0,0,104,17,-2,-2,0,-4,0,0,0,0,119,26,-2,-2,0,-4,0,0,0,0,132,36,-2,-2,0,-4,0,"Freeze Tolerance, Maximum Body Temperature Increase"
+632,Body!A632,Body,Ex.,Heavy Armor of Bloodrage,Silver,Heavy,,12218,0,0,0,93,0,-2,-2,0,-4,15,0,0,0,112,11,-2,-2,0,-4,20,0,0,0,125,19,-2,-2,0,-4,24,0,0,0,134,24,-2,-2,0,-4,26,0,0,0,139,30,-2,-2,0,-4,28,HP Absorption on Defeat
+638,Body!A638,Body,Ex.,Zeid's Cuirass,Silver,Heavy,,12218,0,0,0,100,0,-3,0,0,-6,0,0,0,0,119,11,-3,0,0,-6,0,0,0,0,132,19,-3,0,0,-6,0,0,0,0,141,24,-3,0,0,-6,0,0,0,0,146,30,-3,0,0,-6,0,Dark Type Reduction
 644,Body!A644,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 650,Body!A650,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 656,Body!A656,Body,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -564,7 +564,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 470,Accessories!A470,Accessories,Ex.,Crest of Ouka's Lineage,Silver,Accessory,,7213,0,0,0,9,20,0,0,0,8,0,0,0,0,21,20,0,0,0,10,0,0,0,0,29,20,0,0,0,11,0,0,0,0,36,20,0,0,0,12,0,0,0,0,39,20,0,0,0,13,0,Passive SP Up
 476,Accessories!A476,Accessories,Ex.,Lapis Crystal Earrings,Silver,Accessory,,7213,0,0,0,5,20,0,0,0,0,5,0,0,0,17,22,0,0,0,0,5,0,0,0,25,23,0,0,0,0,5,0,0,0,32,24,0,0,0,0,5,0,0,0,35,25,0,0,0,0,5,"Fire Type Reduction, Blessing of Insight (Two-Handed Axe)"
 482,Accessories!A482,Accessories,Ex.,Talisman of the Farthest Reaches,Silver,Accessory,,7213,0,0,0,20,23,0,0,0,0,12,0,0,0,32,23,0,0,0,0,12,0,0,0,40,23,0,0,0,0,12,0,0,0,47,23,0,0,0,0,12,0,0,0,50,23,0,0,0,0,12,Blessing of Fortification (Shield)
-488,Accessories!A488,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+488,Accessories!A488,Accessories,,,Brightflower Hair Ornament,Silver,Accessory,,,,,,,,,,,,0,0,8,4,25,0,0,0,0,12,,,,,,,,,,,,,,,,,,,,,0,0,12,31,25,0,0,0,0,12,", I.Q./Divine Power Conversion"
 494,Accessories!A494,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 500,Accessories!A500,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 506,Accessories!A506,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
