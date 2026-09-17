@@ -27,12 +27,13 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |                       |          |     |       |          |           |       |      |
 | Gender |          Male         |    +1    |     |       |    +1    |     +1    |       |      |
 |        |         Female        |          |  +1 |   +1  |          |           |   +1  |      |
+|        |         ---           |     0    |  0  |    0  |     0    |      0    |    0  |   0  |
 |        |                       |          |     |       |          |           |       |      |
 |  Race  |         Human         |          |     |       |          |           |       |      |
 |        |          Elf          |    -2    |  +3 |   -1  |    -2    |     +2    |   +1  |  -1  |
 |        |         Dwarf         |    +2    |  -2 |   +1  |    +3    |     +3    |   -4  |  -3  |
 |        |       Beastfolk       |    -1    |  +1 |   -4  |    +2    |     +2    |   +3  |  -3  |
-|        |         Fairy         |    -5    |  +3 |   -2  |    -3    |     +2    |   +6  |  +2  |
+|        |         Faerie        |    -5    |  +3 |   -2  |    -3    |     +2    |   +6  |  +2  |
 |        |                       |          |     |       |          |           |       |      |
 |  Type  |          Fire         |    +2    |     |       |    +1    |           |       |      |
 |        |          Air          |          |     |       |          |     +1    |   +2  |      |
@@ -49,10 +50,11 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |         Ninja         |    +1    |     |       |          |     +1    |   +2  |  +1  |
 |        |        Samurai        |    +2    |  +1 |       |    +1    |     +1    |       |      |
 |        |         Ranger        |    +1    |     |       |          |     +2    |   +1  |  +1  |
-|        |         Healer        |    +1    |  +3 |   +3  |    +1    |     +1    |   +2  |  +1  |
+|        |         Healer        |          |  +2 |   +2  |          |           |   +1  |      |
 |        |       Tall Mage       |    +1    |  +1 |       |          |     +1    |       |      |
 |        |   Silver-Haired Nun   |    +1    |  +1 |   +2  |    +2    |     +1    |       |  +1  |
 
+<small>Note: Until either another genderless race or a gendered Faerie is added to the game, it is impossible to separate the stat contributions of Gender: '---' and Race: 'Faerie'.</small>  
 
 ## Stats
 
