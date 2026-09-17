@@ -100,6 +100,40 @@ Discipline boosts all of your stats by a set amount per discipline skill level, 
     |    Accuracy   |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |    Evasion    |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
     |   Resistance  |   2 |   4 |   8 |  10 |  12 |  16 |  19 |  22 |  28 |
+
+=== "Anonymous Adventurer Stats"
+
+    |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
+    |:--------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |       HP      |   4 |  8  |  16 |  20 |  24 |  32 |  40 |  48 |  64 |
+    |       MP      |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |       SP      |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |  Attack Power |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |  Magic Power  |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |  Divine Power |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |    Defense    |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    | Magic Defense |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |     Surety    |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |  Sure Evasion |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |
+    |     Detect    |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |  Disarm Trap  |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |   Evade Trap  |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |    
+    |  Action Speed |   1 |   2 |   3 |   4 |   5 |  6  |   7 |   8 |  10 |
+    |    Accuracy   |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |    
+    |    Evasion    |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |
+    |   Resistance  |   1 |   2 |   4 |   5 |   6 |  9  |  11 |  13 |  18 |    
+
+=== "Anonymous Adventurer Featured Stats"
+
+    |      Stat     |  D1 |  D2 |  D3 |  D4 |  D5 |  D6 |  D7 |  D8 |  D9 |
+    |:--------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+    |       HP      |   6 |  12 |  20 |  28 |  36 |  50 |  64 |  78 | 100 |
+    |       MP      |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Attack Power |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Magic Power  |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Divine Power |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
+    |  Action Speed |   1 |   2 |   4 |   5 |   6 |   9 |  10 |  11 |  15 |
+    |    Accuracy   |   1 |   2 |   6 |   7 |   8 |  12 |  14 |  16 |  20 |
     
 ### Copies Per Discipline Level  
 
