@@ -1,5 +1,7 @@
 # Lamp of Malice
 
+WIP - a new event has added a second chapter to this event.  *updates pending*
+
 !!! item "This event is now permanent."
 
 ??? note "Video Tutorial"
