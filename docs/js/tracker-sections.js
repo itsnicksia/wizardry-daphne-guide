@@ -522,7 +522,7 @@ window.RESPAWN_SECTIONS = [
         {
           id: 'a4_goldmimic_r8_poisonpool',
           title: 'Golden Mimic - Route 8',
-          details: 'Guarded poison pool. (x:14, y:10). [30 Days]',
+          details: 'Guarded poison pool. (x:14, y:11). [30 Days]',
           image: '',
           clickable: false,
         },        
