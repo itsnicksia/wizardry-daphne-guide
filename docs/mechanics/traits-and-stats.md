@@ -274,7 +274,7 @@ Trait Points can vary across two copies of the same Adventurer, and this is due 
 
 What does that mean? Ultimately, the impact of trait points on stats is significantly smaller than the impact of equipment on stats.
 
-One popular myth to be aware of, "Lower Fortitude = Highter Trait Growth".  This is a popular theory on Social Media based on anecdotal observations but is not true. A lower Fortitude Adventurer does not benefit from extra Trait growth and is no more likely to have high Trait growth than a 100 Fortitude character.
+A lower Fortitude Adventurer does benefit from extra Trait growth, but the total amount of points is not very noticeable and are distributed randomly. It's entirely possible that a non-80 Fortitude adventurer has lower or equal total stats to that of a 100 Fortitude one, but generally the 80 and 90 Fortitude characters on average will have slightly more total stats.
 
 What about Legendary VS General VS Anonymous Adventurers, is there a difference?  Advanced Classes VS Normal Classes?  Yes, there is a difference on both counts.
 
