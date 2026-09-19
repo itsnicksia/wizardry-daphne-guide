@@ -1,13 +1,12 @@
 # Lamp of Malice
 
-!!! note "WIP - a new event has added a second chapter to this event.  Updates pending."
-
 !!! item "This event is now permanent."
 
 ??? note "Video Tutorial"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/4u6ZLLGSGf0?si=MH9-7KHUASNoN83h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Overview
+
 There are reports of monsters and undead in a nearby cave wherein an evil entity has was imprisoned long ago.  Go figure out what's going on.  
 
 !!! note "Difficultly selector"  
@@ -119,3 +118,29 @@ Farming Isabella's hammer requires resetting the event and repeating the 2nd run
 
 
 Credits for maps: Gamerch
+
+## Investigation of the Cave of Malice - Sequel
+
+### Quick Guide
+
+1. Head to the Royal Capital and accept the request in the Adventurer's Guild under the Featured tab. You will see a cutscene.
+2. Head to the Edge of Town and enter the Cave of Malice via B1F. Attempting to go to any other floor will have a cutscene with Lulunarde telling you that it isn't safe and bringing you back to town.
+3. Start on B1F and make your way down to B4F. While the maps are the same, they now have various areas that are completely obfuscated by purple fog. There are key enemies in the fog that need to be defeated in order to clear the fog. However, this is optional.
+4. Head straight to B4F and get a cutscene with Lulunarde telling you to probably deal with key enemies in the previous maps. They will be indicated by NPC icons. However, it is not necessary to and you can simply proceed down the top middle staircase on B4F to do the boss fight.
+5. Upon getting to the end of the hallway, there will be a cutscene and a fight will start. If you did not clear all the mobs before the boss fight, you will have to fight 5 Necromancers and 1 Isabella. The Necromancers will summon large amounts of skeleton mobs to assist in the fight, but they have very low HP. Isabella herself has around 20k HP, and the Necromancers have around 10k HP each (rough estimate).
+6. After defeating all the enemies, you will have completed the request and obtain Isabella as bondmate, who gives Freeze Tolerance.
+
+### Rewards
+
+After unlocking this request, the exchange shop will have more items in it, namely a purple codex and the ability to buy the updated Cave of Malice Junk + the new Cave of Malice items.
+
+??? note "Silver Helm of Malice"
+    ![](./img/silver-helm-of-malice.png)
+
+??? note "Two Handed Staff of Malice"
+    ![](./img/two-handed-staff-of-malice.png)
+
+??? note "Isabella the Sealer"
+    ![](./img/isabella-the-sealer.jpg)
+
+
