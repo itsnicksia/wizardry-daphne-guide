@@ -16,7 +16,7 @@
       <li>Transfer acquisition status between devices with the Export code.</li>
       <li>You can now create new tabs (based on the default tab template), rename tabs and any text element via edit mode using the edit icon, hide and restore hidden items with “Show Hidden” then re-enable them and collapse headers or subheaders using the down arrow on their far right.</li>
       <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
-      <li>Note: Abyss maps can vary sections shifted or swapped. Items shift as well but will remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
+      <li>Note: Abyss maps can vary with sections shifted or swapped. See <a href="../../mechanics/map-variations/" >Map Varations page</a> for details. Items shift as well but will remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
     </ul>
 
     <!-- Sync UI -->
