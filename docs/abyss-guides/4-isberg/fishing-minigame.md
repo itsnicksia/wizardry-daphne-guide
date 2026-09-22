@@ -72,6 +72,10 @@ Cursed wheel, farm some more of the Insect bait, and head to route 6 again after
 
 Capture three large trout. Upon doing so, Lulunarde will comment at the pier that you've completed the request with Large Trout. This doesn't need to be done all in one go. Return to the Adventurer's Guild to turn it in. Completing this will give you an additional 50k Gold. You will also obtain an achievement for impressing Hart.
 
+## Fishing Calculator
+
+The community has built a dedicated site that includes more in-depth information. The site can be accessed [here](https://wizardry.daphne-fishingcalc.workers.dev/).
+
 ## Fish Details
 
 !!! warning "Whopper Spinefoot"
