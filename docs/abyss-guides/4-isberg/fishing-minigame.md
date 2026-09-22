@@ -74,7 +74,7 @@ Capture three large trout. Upon doing so, Lulunarde will comment at the pier tha
 
 ## Fishing Calculator
 
-Community members have built a dedicated site that includes more in-depth information. The site can be accessed [here](https://wizardry.daphne-fishingcalc.workers.dev/).
+Community members have built a dedicated [site](https://wizardry.daphne-fishingcalc.workers.dev/) that includes more in-depth information and additional tools. 
 
 ## Fish Details
 
