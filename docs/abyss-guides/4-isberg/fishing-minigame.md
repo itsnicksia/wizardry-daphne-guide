@@ -234,9 +234,9 @@ Community members have built a dedicated [site](https://wizardry.daphne-fishingc
 
 !!! warning "Golden Catfish"
 
-        - Depth Preference: 15m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
-        - Distance Preference: Any
-        - Direction Preference: Any, but moreso to the left.    
-        - Fight Characteristics: Moves side to side, frenzies often.
+    - Depth Preference: 15m
+    - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+    - Distance Preference: Any
+    - Direction Preference: Any, but moreso to the left.    
+    - Fight Characteristics: Moves side to side, frenzies often.
 
