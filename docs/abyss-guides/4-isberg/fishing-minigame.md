@@ -78,6 +78,8 @@ Community members have built a dedicated [site](https://wizardry.daphne-fishingc
 
 ## Fish Details
 
+Below listed is a quick summary of each fish. It's preferable to check the fishing calculator linked before for all the details.
+
 !!! warning "Whopper Spinefoot"
 
     === "Small"
@@ -85,13 +87,17 @@ Community members have built a dedicated [site](https://wizardry.daphne-fishingc
         - Bait Preference: Paste Bait, Special Paste Bait, Garlic Infused Paste Bait
         - Distance Preference: Any, but usually near
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Nothing of note.
 
     === "Medium"
         - Depth Preference: 10m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Bait Preference: Earthworm, Frog, Golden Frog (farmed), Golden Frog
         - Distance Preference: Any
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Can frenzy, but for very short durations.
 
 !!! warning "Rockhome Bass"
@@ -101,20 +107,26 @@ Community members have built a dedicated [site](https://wizardry.daphne-fishingc
         - Bait Preference: Paste Bait
         - Distance Preference: Near
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Nothing of note.
 
     === "Medium"
         - Depth Preference: 5m
-        - Bait Preference: Earthworm, Red Wiggler
-        - Distance Preference: Any
+        - Bait Preference: Earthworm, Red Wiggler, Golden Frog, Golden Frog (farmed)
+        - Distance Preference: Near
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Moves side to side, can Frenzy.
 
     === "Large"
         - Depth Preference: 5m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Bait Preference: Frog, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Any, but moreso Close or Middle
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Moves side to side, can Frenzy.
 
 !!! warning "Snowy Redfin"
@@ -124,20 +136,26 @@ Community members have built a dedicated [site](https://wizardry.daphne-fishingc
         - Bait Preference: Paste Bait
         - Distance Preference: Any
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Nothing of note.
 
     === "Medium"
         - Depth Preference: 5m
-        - Bait Preference: Earthworm, Red Wiggler
+        - Bait Preference: Earthworm, Red Wiggler, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Far
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Nothing of note, can Frenzy.
 
     === "Large"
         - Depth Preference: 5m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Bait Preference: Frog, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Far
         - Direction Preference: Any, but a little bit left.
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Nothing of note, can Frenzy.
 
 !!! warning "Chillbottom Catfish"
@@ -147,66 +165,84 @@ Community members have built a dedicated [site](https://wizardry.daphne-fishingc
         - Bait Preference: Paste Bait
         - Distance Preference: Near
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Nothing of note.
 
     === "Medium"
         - Depth Preference: 15m
-        - Bait Preference: Earthworm, Red Wiggler
+        - Bait Preference: Earthworm, Red Wiggler, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Any
         - Direction Preference: Right
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Nothing of note, can Frenzy.
         
     === "Large"
         - Depth Preference: 15m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Bait Preference: Frog, Golden Frog, Golden Frog (Farmed)
         - Distance Preference: Any
         - Direction Preference: Right
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Just pulls straight, doesn't really frenzy
 
 !!! warning "Fatty Winter Salmon"
 
     === "Small"
         - Depth Preference: 13m
-        - Bait Preference: Garlic Infused Bait
+        - Bait Preference: Garlic Infused Bait, Golden Frog (farmed)
         - Distance Preference: Far
         - Direction Preference: Left or Right
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Moves side to side, can Frenzy
 
     === "Medium"
         - Depth Preference: 13m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Far
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Moves side to side, occasionally Frenzies.
 
     === "Large"
         - Depth Preference: 13m
-        - Bait Preference: Abyssal Insect Larva
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Far
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Moves side to side, occasionally Frenzies.
 
 !!! warning "Demon Eel"
 
     === "Small"
         - Depth Preference: 15m
-        - Bait Preference: Garlic Infused Bait
+        - Bait Preference: Garlic Infused Bait, Golden Frog (farmed)
         - Distance Preference: Medium or Far
         - Direction Preference: Middle
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Nothing of note.
 
     === "Medium"
         - Depth Preference: 15m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Medium
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Well-Used Rig
         - Fight Characteristics: Occasionally Frenzies.
 
     === "Large"
         - Depth Preference: 15m
-        - Bait Preference: Abyssal Insect Larva
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Any, but moreso Close or Middle
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Occasionally Frenzies.
 
 !!! warning "Winter Trout"
@@ -216,27 +252,35 @@ Community members have built a dedicated [site](https://wizardry.daphne-fishingc
         - Bait Preference: Special Paste Bait
         - Distance Preference: Close
         - Direction Preference: Any
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Fine Small-Hook Rig
         - Fight Characteristics: Moves side to side, can Frenzy
 
     === "Medium"
         - Depth Preference: 9m
-        - Bait Preference: Red Wiggler
+        - Bait Preference: Red Wiggler, Ice Wiggler, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Medium or Far
         - Direction Preference: Middle
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Moves side to side, occasionally Frenzies.
 
     === "Big"
         - Depth Preference: 8m
-        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+        - Bait Preference: Abyssal Insect Larva, Dragonfly Larva, Golden Frog, Golden Frog (farmed)
         - Distance Preference: Far
         - Direction Preference: Center or Left
+        - Rod Preference: Well-Used Fishing Rod
+        - Rig Preference: Heavy Large-Hook Rig
         - Fight Characteristics: Almost always in Frenzy.
 
 !!! warning "Golden Catfish"
 
     - Depth Preference: 15m
-    - Bait Preference: Abyssal Insect Larva, Dragonfly Larva
+    - Bait Preference: Golden Frog
     - Distance Preference: Any
-    - Direction Preference: Any, but moreso to the left.    
+    - Direction Preference: Any, but moreso to the left.
+    - Rod Preference: Well-Used Fishing Rod
+    - Rig Preference: Heavy Large-Hook Rig
     - Fight Characteristics: Moves side to side, frenzies often.
 
