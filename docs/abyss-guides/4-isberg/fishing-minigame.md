@@ -1,5 +1,9 @@
 # Fishing Minigame
 
+!!! map "Fishing Calculator"
+
+    Community members have built a dedicated [site](https://wizardry.daphne-fishingcalc.workers.dev/) that includes more in-depth information and additional tools. 
+
 This surprisingly in-depth minigame is only unlocked after defeating the boss in Route 6. The minigame itself involves, as the name suggests, fishing. 
 
 Currently, the only fishing location is in Route 6 of the 4th Abyss, more specifically South Lakeshore.
@@ -71,10 +75,6 @@ After turning in the medium fish, he will give you Abyssal Insect Larva and Drag
 Cursed wheel, farm some more of the Insect bait, and head to route 6 again after accepting the request.
 
 Capture three large trout. Upon doing so, Lulunarde will comment at the pier that you've completed the request with Large Trout. This doesn't need to be done all in one go. Return to the Adventurer's Guild to turn it in. Completing this will give you an additional 50k Gold. You will also obtain an achievement for impressing Hart.
-
-## Fishing Calculator
-
-Community members have built a dedicated [site](https://wizardry.daphne-fishingcalc.workers.dev/) that includes more in-depth information and additional tools. 
 
 ## Fish Details
 
