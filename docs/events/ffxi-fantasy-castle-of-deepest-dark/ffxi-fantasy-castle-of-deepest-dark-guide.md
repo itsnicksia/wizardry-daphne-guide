@@ -33,7 +33,7 @@
             - Drops 10x Relic material (fragments or attestations), a Bracelet of Hatred, Junk, and event currency.  
         - Story and superboss demon battles are 1 time battles, but can be reset using the main story Cursed Wheel. 
     - Event Dispatches are gone.  
-    - FFXI Bondmates can no lonver be obtsined or leveled.  
+    - FFXI Bondmates can no longer be obtained or leveled.  
 
 ## Before You Begin
 
