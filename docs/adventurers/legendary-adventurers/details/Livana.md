@@ -67,7 +67,7 @@
 
     === "Keeper of the Mirror-Mere"
 
-        There's not a ton to say here for alt Livana - she's still an extremely solid Fighter + Night combination. Her new active skill gives her a Penetrating Shot-like attack, which is situationally useful. The only real problem is column attacks are used significantly less often than row attacks. A great tool to add to her arsenal for select encounters.
+        There's not a ton to say here for alt Livana - she's still an extremely solid Fighter +Knight combination. Her new active skill gives her a Penetrating Shot-like attack, which is situationally useful. The only real problem is column attacks are used significantly less often than row attacks. A great tool to add to her arsenal for select encounters.
 
         Her new passive, similarly, has some interesting potential. Increasing Action Speed when using a 2h axe is excellent, and increasing Magic Defense is nothing to write home about. Increasing the Water weakness-based damage could have some excellent value on select fights such as the Oni or Fire Dragon, but a large majority of the game does not have strong Water-weak enemies so value here will of course be situational.
 
