@@ -1,6 +1,3 @@
-!!! warning "Work In Progress"
-    - Ctrl + F5 to refresh for updates 
-
 !!! tip "Before You Begin" 
 
     === "Basics" 

@@ -1,6 +1,39 @@
 # FFXI - Fantasy Castle of Deepest Dark
 
-!!! warning "This page is a WIP and frequently updated. Ctrl + F5 to refresh."
+!!! warning "The FFXI Collaboration event has ended. All information below "Before You Begin" refers to details during the active event."   
+
+!!! note "Permanent Castle event changes"  
+    - The castle shows back up on the World Map *after talking to the new Blacksmith in town*.  
+        - Floors/Harkens unlocked during the event remain unlocked, maps remain 'explored'.  
+        - The 6th floor bridge is in the 'collapsed' state preventing harken and 7th floor access.   
+    - You can still use pickaxes on Mining spots.   
+        - Rewards seem unchanged.  
+        - Regular picks can still be bought from the Item Shop.   
+        - Golden pickaxes (for x3 rewards) are only available until the original Event Jeweler exchange closes.  (1 week after event ended.)   
+    - Exchange:  
+        - Gil are no longer available.  "Worn-down Coin of Ghost Castle" is now acquired from chests.  
+        - Village "Trader" (Jeweler) carries base Relic items (Sold Out if you already own them), Steadfast Ankhs, Ore, Junk apporpriate to your grade, and some Codexes of Learning.  
+    - Relic equipment:  
+        - Still upgradable at the Village blacksmith.   
+        - Tavern Trader is gone.  
+        - There's no way to trade between relic material types (e.g., Dagger materials for Katana materials, etc.)  
+            - Collecting exactly the needed items *will take a lot longer*.  That is intentional.  
+            - You may effectively be tier gated out of fully reforging items until you progress in the main story.  
+            - It is unknown if specific materials are connected to specific "NMs" or locations. *More info pending*.  
+    - Enemies - FFXI creatures replaced with regular monsters:  
+        - Kindred Demons --> Lesser Demons and Dark Succubi. (Demons are no longer Dark type or susceptible to Aurora weapons. Succubi are.)  
+        - Notorious Monsters --> Greater Demons (also not Dark type).  
+            - appearing at the same locations, apparently with very similar naming, combat behavior, and Relic drops.  
+        - Tonberries have been replaced by Creeping coins (still give Necrophyche drops).  
+        - The '8-pack' demon groups that dropped relic materials have been replaced with large groups of undead, demons, and/or slimes, and no longer reliably drop materials.  
+        - Story battle locations have been replaced with battles with demons, demi-humans, and undead.  
+        - "Sovereign Kindred Greater Demon" superboss added at the broken bridge.  
+            - He has a 4-digit damage Lazelos that will TPK anyone who doesn't kill him fast enough.  
+            - Delay attack and similar WT debuffs are key.  
+            - Drops 10x Relic material (fragments or attestations), a Bracelet of Hatred, Junk, and event currency.  
+        - Story and superboss demon battles are 1 time battles, but can be reset using the main story Cursed Wheel. 
+    - Event Dispatches are gone.  
+    - FFXI Bondmates can no longer be obtained or leveled.  
 
 ## Before You Begin
 
@@ -481,7 +514,7 @@ Harkens in the event can provide both the basic blessings and unique Event bless
     - Blessing types are fixed. L/FASing them keeps blessing types the same and just rerolls the values, similar to Master Rings from class trials.  
     - Enhancement:  
         - Limited by item level:  Level 0 (Bronze) +5, Level 1 (Iron) +10, Level 2 (Steel) +15, Levels 3 and 4 (Ebon and Silver) +20.  
-        - Costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword, ~1M for the rest).  
+        - Costs for all levels follow the Silver (Special) item tables. (2.4M gp for 2H Sword and Bow, ~1M for the rest).  
         - Blessings and increases all follow the Silver level table ranges for 1H and 2H items (even if you enhance at lower relic level).  
         - Reforging has no affect on enhancement level or blessings.  
     - Remaking:  
@@ -744,6 +777,7 @@ One notable thing is that while real players can fulfill your requests, there ar
 !!! note "Unlocking"
     After unlocking Relics and the blacksmith, an interaction outside of the Castle will occur with people discussing mining for ore in the castle.  The item shop will now start selling  Pickaxes under Consumable items for 100gp and Golden Pickaxes will be in the Event Exchange at the Jeweler for 500 Gil.  
 
+![](./img/mine_spot.jpg){align=right width=350 height=auto}  
 - In the Castle with a pickaxe in your inventory (Digging Mattock doesn't count) clicking on any of the multi-colored rock formations in the walls will mine it for ore. See Mining Maps below.  
 - The rock formation will 'shatter' and turn into a 'dead' rock after a few mining attempts. Leaving and returning to the dungeon will randomly respawn fresh gems to mine.  
 - All Pickaxes break every 1-4 uses.  Golden pickaxes don't last any longer.

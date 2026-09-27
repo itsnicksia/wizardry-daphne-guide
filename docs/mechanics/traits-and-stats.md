@@ -27,12 +27,13 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |                       |          |     |       |          |           |       |      |
 | Gender |          Male         |    +1    |     |       |    +1    |     +1    |       |      |
 |        |         Female        |          |  +1 |   +1  |          |           |   +1  |      |
+|        |         ---           |     0    |  0  |    0  |     0    |      0    |    0  |   0  |
 |        |                       |          |     |       |          |           |       |      |
 |  Race  |         Human         |          |     |       |          |           |       |      |
 |        |          Elf          |    -2    |  +3 |   -1  |    -2    |     +2    |   +1  |  -1  |
 |        |         Dwarf         |    +2    |  -2 |   +1  |    +3    |     +3    |   -4  |  -3  |
 |        |       Beastfolk       |    -1    |  +1 |   -4  |    +2    |     +2    |   +3  |  -3  |
-|        |         Fairy         |    -5    |  +3 |   -2  |    -3    |     +2    |   +6  |  +2  |
+|        |         Faerie        |    -5    |  +3 |   -2  |    -3    |     +2    |   +6  |  +2  |
 |        |                       |          |     |       |          |           |       |      |
 |  Type  |          Fire         |    +2    |     |       |    +1    |           |       |      |
 |        |          Air          |          |     |       |          |     +1    |   +2  |      |
@@ -49,10 +50,11 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |         Ninja         |    +1    |     |       |          |     +1    |   +2  |  +1  |
 |        |        Samurai        |    +2    |  +1 |       |    +1    |     +1    |       |      |
 |        |         Ranger        |    +1    |     |       |          |     +2    |   +1  |  +1  |
-|        |         Healer        |    +1    |  +3 |   +3  |    +1    |     +1    |   +2  |  +1  |
+|        |         Healer        |          |  +2 |   +2  |          |           |   +1  |      |
 |        |       Tall Mage       |    +1    |  +1 |       |          |     +1    |       |      |
 |        |   Silver-Haired Nun   |    +1    |  +1 |   +2  |    +2    |     +1    |       |  +1  |
 
+<small>Note: Until either another genderless race or a gendered Faerie is added to the game, it is impossible to separate the stat contributions of Gender: '---' and Race: 'Faerie'.</small>  
 
 ## Stats
 
@@ -272,7 +274,7 @@ Trait Points can vary across two copies of the same Adventurer, and this is due 
 
 What does that mean? Ultimately, the impact of trait points on stats is significantly smaller than the impact of equipment on stats.
 
-One popular myth to be aware of, "Lower Fortitude = Highter Trait Growth".  This is a popular theory on Social Media based on anecdotal observations but is not true. A lower Fortitude Adventurer does not benefit from extra Trait growth and is no more likely to have high Trait growth than a 100 Fortitude character.
+A lower Fortitude Adventurer does benefit from extra Trait growth, but the total amount of points is not very noticeable and are distributed randomly. It's entirely possible that a non-80 Fortitude adventurer has lower or equal total stats to that of a 100 Fortitude one, but generally the 80 and 90 Fortitude characters on average will have slightly more total stats.
 
 What about Legendary VS General VS Anonymous Adventurers, is there a difference?  Advanced Classes VS Normal Classes?  Yes, there is a difference on both counts.
 

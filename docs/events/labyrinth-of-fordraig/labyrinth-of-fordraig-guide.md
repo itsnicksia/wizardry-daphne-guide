@@ -54,8 +54,8 @@
 
     ![](img/labyrinthB3.jpg)
 
-- First Run: The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger.
-- Second Run: The yellow arrow map icon (MC's location) is your next step. Note that on a first run you will encounter another fight. On your second run with the dagger in your inventory it will activate a portal that takes you to B4F.
+- First Run: The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger. Go to the room with the yellow arrow map icon (MC's location) to find what appears to be the armor youre searching for. Be ready for a fight approx twice as hard as the Minotaur.  
+- Second Run: On your second run after dusarming the traps you'll fight the Mino before he kills the other adventurers. Talk to them about the dagger, then with it in your inventory use it at the yellow arrow icon location to activate a portal to B4F.  
 
 ### B4F
 
@@ -65,11 +65,11 @@
 
     ![](img/labyrinthB4.jpg)
 
-- The blue "X" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located directly south of your starting location. 
-- Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).
-- After the boss fight collect all three chests (highlighted in yellow) in the area behind him, one of which has the event item needed to complete the request.
-- The portal below MC's location (yellow arrow icon on map) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.
-- There is no Harken on this floor and have to go back to the Blue X Portal to Exit.
+- The blue "X" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located  south of your starting location.  
+- Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).  
+- After the boss fight collect all three chests (highlighted in yellow) in the area behind him, one of which has the event item needed to complete the request.  
+- The portal below MC's location (yellow arrow icon on map) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.  
+- There is no Harken on this floor and you have to go back to the Blue X Portal to Exit.
 
 ## Farming
 
