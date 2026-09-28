@@ -822,9 +822,10 @@
             - After viewing the map item in the room on Zone 10, the locations of the 3 winding keys are marked on your Zone 8 and 9 maps with a yellow "!" symbol
             - There are 2 keys in Zone 8 and 1 key in Zone 9  
             - You must have explored those parts of the maps to see the "!" symbol  
-            - MAP VARIATIONS: Once again, [Abyss Maps have variations](/mechanics/map-variations.md). There are too many combinations to post them all. 
-                - THIS IS THE ONE TIME IN THE GAME A STORY FEATURE DOESN'T MOVE WITH THE MAP. 
-                - The keys are always at the same map coordinates (each noted below) no matter your Variation. 
+            - [Abyss Maps have variations](/mechanics/map-variations.md). There are too many combinations to show them all below. 
+                - The keys are always at the same map coordinates (each noted below) no matter your Variation.  
+
+            !!! warning "This is the only time in the game so far where a story feature does not move with map variations. Use the coordinates."
 
         === "Winding Key 1 - Zone 9"
         
