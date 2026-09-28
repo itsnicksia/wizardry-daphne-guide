@@ -819,7 +819,7 @@
     
         === "Overview"
         
-            - After viewing the map item in the room on Zone 10, the locations of the 3 winding keys are marked on your map with a yellow "!" symbol
+            - After viewing the map item in the room on Zone 10, the locations of the 3 winding keys are marked on your Zone 8 and 9 maps with a yellow "!" symbol
             - There are 2 keys in Zone 8 and 1 key in Zone 9  
             - You must have explored those parts of the maps to see the "!" symbol  
             - MAP VARIATIONS: Once again, [Abyss Maps have variations](/mechanics/map-variations.md). There are too many combinations to post them all. 
