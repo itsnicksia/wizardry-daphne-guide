@@ -591,6 +591,21 @@
     - Values are for 100% HP. The effect is roughly halfed at low HP. 
     - Testing shows that the passive also applies to Spell damage. It is likely coded as a universal damage modifier versus ATK Power per its description. 
 
+=== "Essence of the Ninjato" 
+
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Effect    | Lv1 | 
+    |-----|------|
+    | Attack Ratio (damage calc) |  1.0 | 
+    | Evasion Ratio (damage calc) | 0.5 | 
+    | Surety from Evasion Ratio |  0.1 | 
+    
+    </div>
+    
+    - Skill is capped at level 1
+
+
 ### Samurai 
 
 === "Back-Against-the-Water-Formation" 
