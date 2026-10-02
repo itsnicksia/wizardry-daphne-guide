@@ -50,8 +50,20 @@ One-Handed Swords are primarily multi-hit weapons with a moderate damage per hit
 #### Two-Handed Swords
 Two-Handed Swords are primarily single-hit weapons with a high damage per hit and their base stats provide a moderate increase to Accuracy and a minor decrease to Action Speed and Evasion. They have the property `Strength+` that adds `STR * 0.75 * ClassModifier` to an adventurer's Attack Power. They can hit a single row ahead at full strength, but hitting two or more rows ahead results in lower damage and Accuracy. They are extremely useful when facing high-defense enemies like slimes, clouds, and many bosses. They can be used by Fighters and Knights.
 
+### Cesti
+Cesti are a primarily three hit weapons with low damage per hit and their base stats provide a high increase to Accuracy and a minor increase to Evasion and Action speed. They can hit a single row ahead at full strength, but hitting two or more rows ahead results in lower damage and Accuracy. Cesti have a unique in-between space between 1 handed and 2 handed performance. They don’t receive the Strength+ property that all other 2 handed weapons do, but they have skill scaling as if they were a 2 handed weapon.They can be used by Abhorrent One of Tavnazia.
+
+## 1 handed vs 2 handed weapon skill scaling
+Since the balance on 9/18/25 2 handed weapons (and ninjato and cesti) have different skill damage scaling than 1 handed weapons.  Skills used by a 2 handed weapon have a 1.2x damage scaling such as heavy attack 1 which has a damage multiplier of 1.5 being increased to a damage multiplier of 1.8 when used by a 2 handed weapon. They also have skill attack soft caps that are 3 times the size of those 1 handed have. Again with heavy attack 1 one handed weapons have a soft cap of 100 and 2 handed weapons have a soft cap of 300. This allows for a 2 handed weapon at 300 attack to do 540 damage when a 1 handed weapon would do 300 dmg with heavy attack 1. 
+Thanks to Alain for testing and explaining to the community. Check out their video explanation for this and their document for skills. 
+https://www.youtube.com/watch?v=JnEtiwuVhf4
+
 ## One-Handed vs Two-Handed Weapons - TheAxolotl's Thoughts
 Prior to the latest 2h weapon changes in September 2025, this topic was fairly hotly-debated, and many people have the opinion that One-Handed Weapons are vastly superior to Two-Handed Weapons due to the fact you can use a shield for additional stats with the former and that the most commonly-used 1h Weapons (Daggers and Swords) have multiple hits. When facing an enemy with 0 or extremely low defense, or when your adventurer has a very high amount of Attack Power coming from non-weapon sources, this isn't necessarily a bad assumption, but there are a few things to keep in mind.
+
+
+
+
 
 1. A large majority of the player base is not at that gear level, and it's very rare to be facing enemies with next-to-zero defense. The Greater Demon that spawns as part of the Lingering Scent request has ~100 defense, enemies with 50-75 defense are extremely common. In addition, slimes and clouds seem to have 150+ defense.
 2. Multiple hits come with a few trade-offs. Each hit in a multiple-hit attack rolls its Accuracy and Surety independently. If you're not at the point where you are hitting 100% of the time missing one out of two hits is effectively a 50% damage loss. If you're not at the point where you're landing Sure Hits 100% of the time, only having one Sure Hit land is effectively only a ~38% to 50% damage increase instead of the expected 75% to 100% damage increase.
