@@ -413,13 +413,10 @@
         ![](./img/traces-shiny-locations.png)
         </div>
 
-        | Location    | Enemies     | Status Effect                          |
-        |-------------|-------------|----------------------------------------|
-        | (X:17, Y:9) | 1 Stonefolk | Whole team starts Cursed               |
-        | (X:7, Y:9)  | 3 Stonefolk | Whole team starts with Critical Poison |
-        | (X:13, Y:0) | 2 Stonefolk | Whole team starts with Paralysis       |
-        | (X:6, Y:24) | 4 Stonefolk | Whole team starts with Fear            |          
-
+        - The first battle will always be against 1 Stonefolk. The whole team starts Cursed.
+        - The second battle will always be against 2 Stonefolk. The whole team starts with Paralysis.
+        - The third battle will always be against 3 Stonefolk. The whole team starts with Critical Poison.
+        - The fourth battle will always be at (X:6, Y:24) against 4 Stonefolk. The whole team starts with Fear.
 
 ## Truth of the Beautiful Ore 
 
