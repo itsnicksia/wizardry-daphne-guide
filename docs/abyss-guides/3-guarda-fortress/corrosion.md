@@ -1,8 +1,5 @@
 # Corrosion Sentries 
 
-!!! warning "Work in Progress" 
-    - DM or ping @Lightbearer on the Discord for any corrections or feedback.
-
 ## Corrosion Sentry Guide
 
 !!! warning "Introduction" 
