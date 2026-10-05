@@ -994,15 +994,16 @@
         ![](./img/corrosion-golem/golem-corr-11-fortress-3rd-floor-arrival-1F-southwest.jpg)
         </div>
 
-        - Push the middle golem (1) down
-        - Push the left-hand golem (2) to the right, which will crush the corrosion sentry 
-        - Push the far right-hand golem (3) down, which will break a wall and allow access to the Zone 9 stairs
-        - Danger! There are 3 sentries (blue ★) in the area
+        - Push the middle golem (1) down, crushing the middle combat sentry  
+        - Push the left-hand golem (2) to the right, which will crush eastern combat sentry 
+        - Push the far right-hand golem (3) down, which will break a wall and create a path to the Zone 9 stairs that does not trigger the corrosion sentry
+        - Danger! There are 3 sentries (blue ★) in the area. Watch the fields of view that can change as you move the golems.
 
     ??? warning "Cursed Wheel Registration"
     
         === "Spotted"
-            - Automatically "Spotted" on first run 
+            - Must walk through the room and be "Spotted" to reach the stairs on first run. 
+            - Note: There are inconsistent reports that attacking the corrosion sentry from behind or the side can remove the sentry without triggering the "Spotted" condition.  In that case reaching the Fortress 3rd Floor Arrival (Zone 10 Fountain) may register a "Not Spotted" condition. A killed Corrosion sentry respawns on next dungeon entry, so this would make it possible to register both "Spotted" and "Not Spotted" on your first run before moving any golems.
             
         === "Not Spotted"
         
@@ -1016,14 +1017,14 @@
             
             - From the Zone 9 Harken go south and follow the path to Zone 8 
             - Proceed to the end of Zone 8. This room has a fixed location and will always be in the bottom-left corner
-            - See Golem Directions to crush the corrosion sentry > "Not Spotted" flag triggered
+            - See Golem Directions to open a safe path around the corrosion sentry > "Not Spotted" flag triggered
             - Exit the room through the newly created hole in the wall
             - To register continue through Zone 9 to the Zone 10 Fountain (Fortress 3rd Floor Arrival)
             - To exit use the southern teleport tile in Zone 10 to warp to the Zone 9 Harken
 
             Notes
 
-            - Danger! There are 3 sentries in the room with the corrosion sentry
+            - Danger! There are 3 sentries (blue ★) in the area. Watch the fields of view that can change as you move through the room.
 
     ??? note "Cursed Wheel Entry"
     
