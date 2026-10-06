@@ -76,7 +76,7 @@
 | Dispatch Name                        | Reward         | Stars    | Level | Duration | Dispatch Conditions | Availability                       |
 | ------------------------------------ | -------------- |:-----:|:-----:|:--------| ------------------- | --------------------------------------- |
 | Securing the Cave of Malice Entrance | Event Currency and Junk | 3     | 30    | 20 hours | 6 people            | Complete the [Lamp of Malice Event](/events/lamp-of-malice/lamp-of-malice-text-guide.md) once |
-| Cave of Separation Exploration Escort | Separation Junk, Including Aurora and Malevolent, plus sellables | 3     | 45    | 20 hours | 6 people            | Complete the [Arna's Past (Cave of Separatition)](/abyss-guides/request-from-an-ally/arnas-past.md) Event once |
+| Cave of Separation Exploration Escort | Separation Junk, Including Aurora and Malevolent, plus sellables | 3     | 45    | 20 hours | 6 people            | Complete the [Arna's Past (Cave of Separation)](/abyss-guides/request-from-an-ally/arnas-past.md) Event once |
 
 </div>
 
