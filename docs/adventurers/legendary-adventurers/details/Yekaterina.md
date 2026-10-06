@@ -51,8 +51,11 @@
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}
-{% endblock AltUniqueSkillFreetext %}
 
+    === "Secret Art of LAERLIK (All Styles)"
+        {{ get_skill_description("Secret Art of LAERLIK") }}
+
+{% endblock AltUniqueSkillFreetext %}
 {% block DisciplineFreetext %}
 {% endblock DisciplineFreetext %}
 
