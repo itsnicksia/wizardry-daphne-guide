@@ -37,8 +37,8 @@
 {% block AltUniqueSkillFreetext %}
         !!! note "This damage increase is two-part, with the light-type ally damage increase being approximately 15%, and the dark-type enemy damage increase being approximately 10%."
 
-    === "Secret Art of LABADIOS (All Styles)"
-        {{ get_skill_description("Secret Art of LABADIOS") }}
+    === "Secret Art of LAFOROS (All Styles)"
+        {{ get_skill_description("Secret Art of LAFOROS") }}
 
 {% endblock AltUniqueSkillFreetext %}
 
