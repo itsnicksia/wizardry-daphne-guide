@@ -56,6 +56,7 @@ You gain access to the Gaurda Fortress town once accepting one of those "Duke Ix
     ![](./img/entrance-impenetrable-fortress-gate.jpg)  
 
     ??? note "Meet the new GWO"  
+    
         -Welcome to Guarda Fortress. You see that big scary thing in the map background? Yeah, that's the Big Bad Guy of the Third Abyss.  We waste no time getting to know him.  In fact, you get to fight him with your faction ally at first meeting.  
             - His attacks are all physical, so defend and use MAKALTU while laughing at your ally's ineffective swipes. 
             - Keep playing defensive until you cover the soldiers' escape.
