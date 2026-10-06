@@ -33,7 +33,7 @@
     | Deepsnow Hinterlands Route 6 -South Lakeshore- Cleared  | Make it all the way through the Deepsnow Hinterlands Route 6 -South Lakeshore-.     |
     | Deepsnow Hinterlands Church Reached                 | Reach the church in the Deepsnow Hinterlands.                                           |
     | Deepsnow Hinterlands Greater Warped One Slain       | Slay the Greater Warped One of the Deepsnow Hinterlands and deliver the canary crystals.|
-    | They All Made it Out Alive                          | Successfully complete the mission without any of the knights dying.                |
+    | They All Made It Out Alive                          | Successfully complete the mission without any of the knights dying.                |
     | Reconciled with His Uncle                           | Albano and his uncle reconcile.                                                    |
     | Leave It to Me                                      | Take on and slay two Knight-Butcher Ents.                                          |
     | I Knew It Was a Traaa--!                            | Everyone was caught by the trap with live bait and all were killed.                |
@@ -261,13 +261,13 @@
     | Tread Upon a Thousand Corpses       | Slay 10,000 enemies.                                 |
     | Endless Trail of Blood              | Slay 100,000 enemies.                                |
     | Undying Valor                       | Slay 1,000,000 enemies.                              |
-    | Warped One-Hunter ★                 | Slay 100 warped ones.                                |
-    | Warped One-Hunter ★★                | Slay 300 warped ones.                               |
-    | Warped One-Hunter ★★★               | Slay 500 warped ones.                               |
+    | Warped One-Hunter ★                | Slay 100 warped ones.                                |
+    | Warped One-Hunter ★★               | Slay 300 warped ones.                               |
+    | Warped One-Hunter ★★★              | Slay 500 warped ones.                               |
     | Boss of the Poison Swamp            | Slay a giant monster bird.                           |
     | The Rare One Quick to Run           | Slay a cursed sack doll.                             |
     | Inescapable Consequences            | Slay a red spinner woman.                            |
-    | He'll Do You up a Treat, Mate.      | Slay a vorpal bunny.                                 |
+    | Get Them Before They Get You!       | Slay a vorpal bunny.                                 |
     | Money-Maker                         | Slay a creeping coin.                                |
     | Surprised?                          | Slay a mimic.                                        |
     | Playing with Hellfire               | Slay the greater demon sealed in the burial chamber. |
