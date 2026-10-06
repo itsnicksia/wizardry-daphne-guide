@@ -116,6 +116,10 @@
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}
+
+    === "Secret Art of LABADIOS (All Styles)"
+        {{ get_skill_description("Secret Art of LABADIOS") }}
+
 {% endblock AltUniqueSkillFreetext %}
 
 {% block DisciplineFreetext %}
