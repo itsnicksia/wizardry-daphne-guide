@@ -2,7 +2,7 @@
 
 !!! map "Fishing Calculator"
 
-    Community members have built a dedicated [site](https://wizardry.daphne-fishingcalc.workers.dev/) that includes more in-depth information and additional tools. 
+    Community members have built a dedicated [site](https://wiz-daphne-fishingcalc.com/) that includes more in-depth information and additional tools. 
 
 This surprisingly in-depth minigame is only unlocked after defeating the boss in Route 6. The minigame itself involves, as the name suggests, fishing. 
 
