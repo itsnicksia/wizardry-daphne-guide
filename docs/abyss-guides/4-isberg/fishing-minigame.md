@@ -76,6 +76,100 @@ Cursed wheel, farm some more of the Insect bait, and head to route 6 again after
 
 Capture three large trout. Upon doing so, Lulunarde will comment at the pier that you've completed the request with Large Trout. This doesn't need to be done all in one go. Return to the Adventurer's Guild to turn it in. Completing this will give you an additional 50k Gold. You will also obtain an achievement for impressing Hart.
 
+## Silverscale Count's Manor - Fish Delivery
+
+Upon accepting Fisherman of Rockhome's request again after completing all the tutorials and cursed wheeling, when talking to the Lord of Lakeshore, he will mention delivering fish to Count Skama. You will follow him, which unlocks a new area on the World Map to turn in "fish bounties". 
+
+### Fish Bounty Level Requirements
+
+??? note "Rank 1 -> 2:"
+
+    - Rockhome Bass Small or larger (2 total)
+    - Snowy Redfin Small or larger (2 total)
+
+??? note "Rank 2 -> 3:"
+
+    - Chillbottom Catfish Small or larger (2 total)
+    - Winter Trout Small or larger (2 total)
+    - Small fish or larger (5 total)
+
+??? note "Rank 3 -> 4:"
+
+    - Rockhome Bass Avg or larger (1 total)
+    - Snowy Redfin Avg or larger (1 total)
+    - Small fish or larger (5 total)
+
+??? note "Rank 4 -> 5:"
+
+    - Rockhome Bass Small or larger (2 total)
+    - Rockhome Bass Avg or larger (2 total)
+    - Winter Trout Small or larger (3 total)
+    - Chillbottom Catfish Avg or larger (1 total)
+
+??? note "Rank 5 -> 6:"
+
+    - Snowy Redfin Small or larger (2 total)
+    - Snowy Redfin Avg or larger (2 total)
+    - Avg fish or larger (2 total)
+    - Winter Trout Avg or larger (1 total)
+
+??? note "Rank 6 -> 7:"
+
+    - Demon Eel Small (1 total)
+    - Winter Salmon Small (1 total)
+    - Avg fish or larger (3 total)
+    - Chillbottom Catfish small or larger (3 total)
+    - Chillbottom Catfish average or larger (2 total)
+
+??? note "Rank 7 -> 8:"
+
+    - Rockhome Bass Avg or larger (2 total)
+    - Snowy Redfin Avg or larger (2 total)
+    - Fatty Winter Salmon Small or larger (2 total)
+    - Winter Trout Avg or larger (2 total)
+    - Demon Eel Small or larger (2 total)
+    - Chillbottom Catfish Avg or larger (2 total)
+    - Small fish or larger (5 total)
+    - Demon Eel Avg or larger (1 total)
+    - Fatty Winter Salmon Avg or larger (1 total)
+
+??? note "Rank 8 -> 9:"
+
+    - Rockhome Bass Large (1 total)
+    - Snowy Redfin Large (1 total)
+    - Chillbottom Catfish Large (1 total)
+    - Small fish or larger (10 total)
+    - Avg fish or larger (6 total)
+
+??? note "Rank 9 -> 10:"
+
+    - Demon Eel Avg or larger (3 total)
+    - Fatty Winter Salmon Avg or larger (3 total)
+    - Small fish or larger (10 total)
+    - Avg fish or larger (6 total)
+    - Large fish (3 total)
+
+??? note "Rank 10 -> 11:"
+
+    - Rockhome Bass (x6 Small, x4 Avg, x2 Large)
+    - Snowy Redfin (x6 Small, x4 Avg, x2 Large)
+    - Chillbottom Catfish (x6 Small, x4 Avg, x2 Large)
+    - Winter Trout Large (1 total)
+    - Winter Fatty Salmon Large (1 total)
+    - Demon Eel Large (1 total)
+
+??? note "Rank 11-> 12:"
+
+    - Winter Trout (x6 Small, x4 Avg, x2 Large)
+    - Fatty Winter Salmon (x6 Small, x4 Avg, x2 Large)
+    - Demon Eel (x6 Small, x4 Avg, x2 Large)
+    - Large Fish (10 total)
+
+??? note "Rank 12 -> 13:"
+
+    - Golden Catfish (1 Total)
+
+
 ## Fish Details
 
 Below listed is a quick summary of each fish. It's preferable to check the fishing calculator linked before for all the details.
