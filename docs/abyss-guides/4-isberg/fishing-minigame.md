@@ -10,7 +10,7 @@ Currently, the only fishing location is in Route 6 of the 4th Abyss, more specif
 
 ## Request Line
 
-There is a chain of requests that can be completed that essentially functions as a tutorial for the various fishing functions.
+!!! warning "There is a chain of requests that can be completed that essentially functions as a tutorial for the various fishing functions."
 
 The gist of it goes:
 
