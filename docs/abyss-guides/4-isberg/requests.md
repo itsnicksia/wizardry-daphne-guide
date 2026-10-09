@@ -178,10 +178,11 @@
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
     - Request Failure
-        - Pre-requisites requests not completed. 
+        - Pre-requisite requests not completed. 
         - Did not receive the Dried Fish Fragment from the little girl at the Guild. 
         - Exiting to the world map and returning.
         - Using all of your flames ("Rise again") and being forced to "Accept death". 
+        - See the Walkthrough for additional failure conditions.
     - Reset Request
         - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed.
 
@@ -190,10 +191,19 @@
     === "Walkthrough"
 
         - Accept the request. If both prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment. 
-        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search. Running away more than twice results in request failure. 
-        - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎.  The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
-        - Find the kitty once in each of the 3 blizzard zones. The first two times it will run away. On the third attempt you will be prompted to use the Dried Fish Fragment as bait and the request will be completed.
-        - The kitty is now permanently located at the Guild. It can also see Lulu!
+        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. The Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search. Be warned that if you attempt to exit the blizzard zone or try to despawn it by moving to a non-blizzard tile, it will teleport directly in front of or on top of you. 
+        - Mechanics
+            - Finding the kitty is a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎.  The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
+            - Find the kitty once in each of the 3 blizzard zones. The first two times it will run away. On the third attempt you will be prompted to use the Dried Fish Fragment as bait and the request will be completed.
+        - Recommended Approach
+            - Begin the request with 3 flames. This is required. 
+            - Let the nullshadow catch you in each area and die. When you revive it will despawn and you can search in peace. 
+            - Alternative: Flee -once- in the 1st or 2nd area (but not the 3rd!) and then die in the other 2 areas. This saves you 1 flame.
+        - Failure Conditions
+            - If you run away twice in the 1st and 2nd areas, the kitty will not appear in the 3rd area. 
+            - If you run away in the 3rd area, even if you found it in the first 2 areas, the request will automatically fail. 
+        - The kitty is now permanently located at the Guild. It can also see Lulu! 
+        - Unfortunately, the kitty will leave again if you ever CW outside of A4 or a node before Blizzard Blocking the Path. 
     
             ??? warning "Rewards"
         
