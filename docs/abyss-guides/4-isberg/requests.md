@@ -198,6 +198,7 @@
         - Recommended Approach
             - Begin the request with 3 flames. This is required. 
             - Let the nullshadow catch you in each area and die. When you revive it will despawn and you can search in peace. 
+            - Alternative: Flee -once- in the 1st or 2nd area (but not the 3rd!) and then die in the other 2 areas. This saves you 1 flame.
         - Failure Conditions
             - If you run away twice in the 1st and 2nd areas, the kitty will not appear in the 3rd area. 
             - If you run away in the 3rd area, even if you found it in the first 2 areas, the request will automatically fail. 
