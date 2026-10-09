@@ -199,9 +199,9 @@
             - Begin the request with 3 flames. This is required. 
             - Let the nullshadow catch you in each area and die. When you revive it will despawn and you can search in peace. 
         - Failure Conditions
-            - If you run away twice in the 1st and 2nd area, the kitty will not appear in the 3rd area. 
+            - If you run away twice in the 1st and 2nd areas, the kitty will not appear in the 3rd area. 
             - If you run away in the 3rd area, even if you found it in the first 2 areas, the request will automatically fail. 
-        - The kitty is now permanently located at the Guild. It can also see Lulu!
+        - The kitty is now permanently located at the Guild. It can also see Lulu! Unfortunately, the kitty will leave again if you ever CW outside of A4 or a node before Blizzard Blocking the Path. 
     
             ??? warning "Rewards"
         
