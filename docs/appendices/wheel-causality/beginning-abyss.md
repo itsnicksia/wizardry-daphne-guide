@@ -17,7 +17,7 @@
 
 * No one was killed or injured
 * The Skirmishers died
-* Thr Craftsmen died
+* The Craftsmen died
 * Elmon was wounded
 
 ## Major Harken Unlocked
