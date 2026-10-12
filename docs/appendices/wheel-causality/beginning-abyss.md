@@ -17,6 +17,7 @@
 
 * No one was killed or injured
 * The Defenders died
+* Thr Craftsmen died
 * Elmon was wounded
 
 ## Major Harken Unlocked
