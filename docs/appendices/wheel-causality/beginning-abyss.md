@@ -16,7 +16,7 @@
 ### First Battle with a Warped One
 
 * No one was killed or injured
-* The Defenders died
+* The Skirmishers died
 * Thr Craftsmen died
 * Elmon was wounded
 
