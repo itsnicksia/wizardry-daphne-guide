@@ -44,6 +44,9 @@
     ![](img/potential-blessings-table.png)
     </div>
 
+    <small><sup>1</sup>Bows and Cesti are weapon exceptions that can also have ASPD/ASPD%.</small>
+
+
 ## Enhance
 
 - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item. See [Equipment Tables](./equipment-tables.md) for catalogued stats and enhancement improvements.
