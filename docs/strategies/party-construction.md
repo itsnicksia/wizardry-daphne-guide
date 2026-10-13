@@ -309,6 +309,18 @@ These are some parties I have personally and successfully used to clear progress
             - Linaria (Thief)
             - Anemone (Healer)
 
+
+??? note "Phyllisia Release"
+
+    - Front Row
+        - Shiou (Samurai/Fighter)
+        - Linaria (Thief)
+        - Rinne (Ninja/Thief)
+    - Back Row
+        - MC (Priest)
+        - Yuzunamiki (Ranger/Ninja)
+        - Phyllisia (Healer)
+
 ### Additional Considerations
 
 Now that you've decided on your party formation, there are two other major components. Equipment and Skill Inheritance.

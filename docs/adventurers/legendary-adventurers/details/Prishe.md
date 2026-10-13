@@ -50,6 +50,8 @@
     
     Out of the three collab adventurers, Prishe is definitely the least Fighter-like. While she does have the single target damage focus that Fighters do, Prishe's mechanic is focused on combo punching and has very little utility. Prishe alternates skills and basic attacks to ramp up a skillchain. Other punchy skills become available at higher skillchains, then using those skills decrease the skillchain value. This is a fun mechanic that is 100% focused on single target damage. Due to her unique and powerful combination of passives, the higher skillchain punches can deal tremendous damage and she can move very fast! The big caveat with all of the ramp-up skills is whether or not fights will last long enough for her to get full value out of the ramp.
 
+    As of release, Prishe is capable of the single highest burst damage out of any adventurer, and due to how her combination of passives work and stack, once ramped up, her sustain can be very strong outside of her burst. She is a bit of a one trick pony - her role is to do single target damage and nothing more, but her damage ceiling is extremely high and is likely going to be a staple on many players' teams going forward for quite a while.
+
     One important consideration with Prishe is that she gets a new weapon type that is exclusive to her. Historically, exclusive weapon types have been a bit of a pain to deal with in this game, so if you want to use her, make sure you try to get something good from the event!
 
     Another important note is that her inheritable skill becomes utter garbage when inherited to someone that's not her, so just don't do it!

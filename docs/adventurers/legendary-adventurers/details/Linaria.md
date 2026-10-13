@@ -191,6 +191,19 @@
     Final Verdict
     A very solid, well designed support unit. Drecom made her strong without making her mandatory, and she’s nicely speedy for fast buffing. Great addition to the game.
 
+
+??? info "Monday's Analysis"
+
+    Linaria first graced us a little over six months ago as a charming thief who caused more disagreement in the community than any other character had before or since. Her class change to ranger has ended the conflict and united almost everyone in saying, “Excuse me but wtf?”
+
+    I'm not going to cover her mechanics. Other reviews have done a fantastic job of that, so read those if you haven't already. Encore procs frequently, and giving extra actions to a support character is really great! With some positioning and speed tuning, you can get your main damage dealers full up on three damage buffs with just two characters on turn one. For instance, I like to use Prayer of Rebellion on Alice, followed by Lin using Ballad, and then Astral Order (Alt Arboris) or Hero's Medicine (Anemone). Depending on your spending, there are plenty of neat inherits that can expand her abilities with a little creativity. 
+
+    Everyone wanted a healer or knight class change because of the combos that Encore could offer, but Drecom decided that we don’t get to have fun, and so they gave her ranger and disappointed a lot of people. That being said, I’m on the side that thought Linaria was already fantastic on release, and any class change just gives her more to work with. Is ranger ideal? Of course not, but it does help her with actually dealing some damage once the buffs have been applied. There’s nothing stopping you from doing Ballad and then Scatter Shot to have a little bit of hybrid action. Role compression is always welcomed on my teams, and I think ranger gives Linaria the damage she was missing. The biggest downside to ranger is that she can’t use a 1h staff anymore, so her backup healing is going to be significantly worse, but how often is that actually an issue?
+
+    Another consideration is that ranger was released after A4, and we have no idea what the next level cap will hold. Look at what happened with fighters and ninjas and knights at 70 cap. Who’s to say 80 cap won’t bring more support abilities or traps that, like, actually work? Ranger also gets more MP than thief, so inherited magic at higher levels won’t leave her as crippled in a long fight. 
+
+    Linaria has always been the queen of potential, and I think she remains in that position now with some caveats. If you’re f2p/low spending and you didn’t like Linaria before, then I don’t think you should bother building her up now. Ranger doesn’t fix her, it enhances one aspect of her (damage). Her usefulness increases significantly with more inherits on her that can trigger Encore, and many of those inherits are on legendaries that most people might not want to use. If you’re f2p/low spending and you already thought Linaria was interesting but people’s reactions to the ranger class change threw you off, then I say go for it. Ranger may not be as strong as fighter or ninja, but it’s still decently strong for most content, and it has the benefit of not competing with fighter or ninja for atk gear since they want accuracy.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
