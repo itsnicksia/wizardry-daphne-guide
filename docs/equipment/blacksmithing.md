@@ -41,7 +41,7 @@
     The chart below shows the type of blessings that can naturally appear on different items. Duplicate blessings will normally never appear. (An item that is found with +DEF will not roll +DEF on any other blessing slot. It can roll +DEF%, as that is considered a separate blessing type.) 
     
     <div align="center">
-    ![](img/potential-blessings-table.png)
+    ![](img/potential-blessings-table.jpg)
     </div>
 
     <small><sup>1</sup>Bows and Cesti are weapon exceptions that can also have ASPD/ASPD%.</small>
