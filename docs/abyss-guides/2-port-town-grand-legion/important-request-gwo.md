@@ -49,24 +49,24 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 
     1. The Round 2 enemy changes by talking to Bonnie and Clyde in the 7th District - Pier.  If you never talked to them, or you perfectly completed their story arc, you will face  a group of not-too-difficult Warped Ones.  Otherwise you will fight some combination of Bonnie and/or Clyde.  Simply defeating whichever enemy you face allows you to move on to Round 3. The Bonnie and Clyde side story is tedious but completely optional:  
         - To change this fight, wheel back to where B&C appear at the Pier (Arena 1 or earlier) and talk to them. Then wheel back to and refight Arena 1 for the dialog change to register for the Abyss 2 fight.  
-        - First time talkign to B&C, you choose one to encourage. You will fight that one in Arena 2 and gain knowledge about why the other died. Complete their story arc requires you to have encouraged each once to gain both pieces of knowledge.  
+        - First time talking to B&C, you choose one to encourage. You will fight that one in Arena 2 and gain knowledge about why the other died. Completing their story arc requires you to have encouraged each one once to gain both pieces of knowledge.  
         - After learning why each one died you can, one at a time, take requests from them to [get Clyde a better sword](./requests.md#pirates-cutlass-delivery) and [get Bonnie some wire for chain mail](./requests.md#steel-wire-delivery) so they (individually) survive. You will then again face each one separately (slightly buffed with better equipment) in the Arena, but you learn that only helping one still allows the other to die.  
-        - After having attempting to save each separately, you can try a new option to [equip both with Arena Survival Gear](./requests.md#battle-item-set-delivery). Then you will  finally face them both in the arena with better gear. **Warning, after winning the fight they attempt the Butch technique of blowing you all up in a damaging explosion. Do not end the fight low on HP or you could die anyway.**  
+        - After having attempted to save each separately, you can try a new option to [equip both with Arena Survival Gear](./requests.md#battle-item-set-delivery). Then you will finally face them both in the arena with better gear. **Warning, after winning the fight they attempt the Butch technique of blowing you all up in a damaging explosion. Do not end the fight low on HP or you could die anyway.**  
         - Last, after learning they both die no matter what you do, you can finally try to [convince them to leave town](./requests.md#delivering-chamomile-for-the-dead). If you succeed, they both live and leave, and you go back to fighting a group of not-too-difficult Warped Ones.  
         - After returning to town you will learn of their fate and gain both an Achievement and a Luck Lamp for the Well of the Mind.  
     2. After completing any version of the Round 2 fight, when asking about Round 3 the missing person you are looking for is blown up in a fight with Butch.  
     3. To keep him from getting blown up (and yourself from being murdered later) follow the steps below:
 
         #### "Saving the Missing Person and Not Being Murdered"  
-        A dead missing person results in a dead you even after defeating the GWO. (Your actual request WAS to retrieve him, after all.) You have two options to keep the missing person, and yourself, alive.  After winning your second arena battle and watching the missing person get blown up, either:  
+        A dead missing person results in a dead you even after defeating the GWO. (Your actual request WAS to retrieve him, after all.) You have two options to keep the missing person, and yourself, alive:  
         
         1. Disable Butch's explosives:  
             1. Use the Cursed Wheel to go back in time to before fighting the second battle.  
-            2. Find Butch and complete the [Obtaining KnightQuil request](./requests.md#obtaining-knightquil).  
+            2. Find Butch near thr Arena and complete the [Obtaining KnightQuil request](./requests.md#obtaining-knightquil).  
             3. After completing the request, beat up your second arena battle opponent again and re-watch the scene. Your missing person lives this time!   ("Defeated Butch" appears as an Arena 3 Cursed Wheel option.)  
-        2. Flood the Arena (Unconfirmed: you may need to have played through strategizing for the Arena 4 fight first.)  
+        2. Flood the Arena (Unconfirmed: you may need to have played through strategizing for the Arena 4 fight first to learn how to flood the arena.)  
             1. Use the Cursed Wheel to go back in time to before the second battle.  
-            2. Immediately after your Arena Round 2 fight, before talking to the goblin to ask about Round 3, head straight down to Lower Deck 1 where the guard is waiting in front of the switch. Either fight the guard or give him a food voucher. Flip the switch so that the arena floods for the next fight.  
+            2. Immediately after your Arena Round 2 fight, before talking to the goblin to ask about Round 3, head straight down to Lower Deck 1 where the guard is standing in front of the switch. Either fight the guard or give him a food voucher. Flip the switch so that the arena floods for the next fight.  
             3. Go back upstairs and talk to the arena goblin. Re-watch the scene. This time the arena floods and the fight ends in a draw. Your missing person lives this time! ("Ended in a Draw" appears as an Arena 3 Cursed Wheel option.)  
 
         If the missing person is alive, don't forget to go talk to him. 
