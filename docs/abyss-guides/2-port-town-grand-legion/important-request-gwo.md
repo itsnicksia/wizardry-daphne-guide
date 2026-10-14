@@ -74,10 +74,11 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
     ### Arena Round 3
 
     1. You may die depending on who it is. Shagtis is a scripted death, whereas Vernant is extremely difficult but killable (not recommended at this point). Pickerel is relatively straightforward. Go in with the main character only if you're sure you're going to lose.  
-2. To strategize for victory:  
-    - If Vernant or Shagtis: talk to Pickerel and complete [Temple Food Assistance Request](./requests.md#temple-food-assistance) for Pickerel's help in winning the fight.  
-    - If you want to avoid killing Pickerel, you have to complete a rather long [Monster Bird Soup Request](./requests.md#monster-bird-soup) that involves a relatively difficult boss fight (probably harder than the GWO of this abyss), after which he will agree to end the fight after five rounds.   
-    - If you want to avoid killing Vernant on the Admiral route, you must first complete tbe  [Monster Bird Soup Request](./requests.md#monster-bird-soup) mentioned above on the Pontiff Route. Then you can [Prevent Vernant from Entering the Arena](./requests.md#prevent-vernant-from-entering-the-arena).  
+    
+    2. To strategize for victory:  
+        - If Vernant or Shagtis: talk to Pickerel and complete [Temple Food Assistance Request](./requests.md#temple-food-assistance) for Pickerel's help in winning the fight.  
+        - If you want to avoid killing Pickerel, you have to complete a rather long [Monster Bird Soup Request](./requests.md#monster-bird-soup) that involves a relatively difficult boss fight (probably harder than the GWO of this abyss), after which he will agree to end the fight after five rounds.   
+        - If you want to avoid killing Vernant on the Admiral route, you must first complete tbe  [Monster Bird Soup Request](./requests.md#monster-bird-soup) mentioned above on the Pontiff Route. Then you can [Prevent Vernant from Entering the Arena](./requests.md#prevent-vernant-from-entering-the-arena).  
     3. Win the fight one way or another and continue.
 
     ### Arena Round 4
