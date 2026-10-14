@@ -141,7 +141,7 @@ Some reward choices will result in gaining an item or access to a new area after
 
 ## Epilogue
 
-After you beat Melgina, watch the scenes. 
+After you beat Melgina, watch the scenes, then be sure to talk to the Missing Person before leaving the pier, he gives you a key item for unlocking the true ending.  
 
 Congratulations \- you lived, completed your request, and more importantly, received the lexicon that allows you to read the 7 mermaid statues you encountered\!
 
