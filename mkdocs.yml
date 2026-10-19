@@ -36,7 +36,6 @@ markdown_extensions:
   - abbr
   - pymdownx.snippets:
       base_path: docs
-      restrict_base_path: false 
       auto_append:
         - include/abbreviations.md
   - pymdownx.caret
