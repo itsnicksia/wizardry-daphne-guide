@@ -12,19 +12,21 @@ Specifically for this trial, there are no wandering enemies. Upon failing any ch
 
 Chests are typically static throughout the map variations and difficulties (They are in the same spots at every same map chunk)
 
-If you fail rhe boss fight and Rise Again yiu will respawn on the chest and must step off snd on again to retry the fight.  You can step north through the door into the final room and talk to the Master Thief/use rhe teleporter, but without having killed the mimic yiu will fail the Trial.
+If you fail the boss fight and Rise Again you will respawn on the chest and must step off and on again to retry the fight.  You can step north through the door into the final room and talk to the Master Thief/use the teleporter, but without having killed the mimic you will fail the Trial.
+
+!!! note "All the maps here are the same as that of the Fighter/Mage Proving Grounds."
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.png)
+    ![](img/fighter-map-1.jpg)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.png)
+    ![](img/fighter-map-2.jpg)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-4.png)
+    ![](img/fighter-map-4.jpg)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-4.png)
+    ![](img/fighter-map-4.jpg)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
