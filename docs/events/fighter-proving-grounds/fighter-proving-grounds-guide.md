@@ -1,17 +1,15 @@
 # Fighter Trials
 
+## Requirement
+After sufficient story progress you will be invited to participate in various Class trials to prove your worth.  You will get a notification in the Royal Capital when a Class Trial becomes available to you.  Accept the request at the guild starting with the Beginner Trial in the Featured tab. This will mark the location on your World Map.  After completing Beginner, you accept Intermediate and Advanced the same way.
+
 ## Trials Introduction
-After progressing sufficiently, you will be invited to participate in various Class trials to prove your worth. These Trials are almost all the same, and require navigating a maze, defeating some enemies, and a floor boss. Each trial has Beginner, Intermediate, and Advanced levels. Enemies typically follow those found in the 1st, 2nd, and 3rd abysses accordingly.
 
-Trials can only be entered by a parties of up to three adventurers (including the MC), and they must be of the same class as the trial (the MC can be a Wanderer if either you have not unlocked that class change or simply prefer the MC go in with fighter-like stats). 
+- Trials can only be entered by a parties of up to three adventurers (including the MC), and they must be of the same class as the trial (the MC can be a Wanderer if either you have not unlocked that class change or simply prefer the MC go in with fighter-like stats). 
 
-You will get a notification in the Royal Capital when any Class Trials became available to you.  Accept the request at the guild starting with the Beginner Trial in the Featured tab. This will mark the location on your map.  After completing Beginner, you accept Intermediate and Advanced the same way.
+- These Trials are almost all the same, and require navigating a maze, defeating some enemies, and finally a floor boss. Each trial has Beginner, Intermediate, and Advanced levels. Enemies typically follow those found in the 1st, 2nd, and 3rd abysses accordingly.
 
-Each trial will have a separate Special Exchange of rewards available from the Jeweler.  Completing each Trial level gives a certain number of Seals (Exchange currency). You obtain a total of 600 Seals of the Fighter by completing all three levels, which will completely empty the Exchange. You cannot farm additional currency. 
-
-Trials all provide a unique Class-specific Ring.  See [Rewards](#rewards).
-
-There are no missions for Trial events.
+- Each trial will have a separate Special Exchange of rewards available from the Jeweler.  Completing each Trial level gives a certain amount of Exchange currency (Seals). Completing all three levels will earn 600 Seals which is enough to completely empty the Exchange. You cannot farm additional currency. Trials all provide a unique [Class-specific Ring](#rewards).
 
 ## Guide:
 
@@ -25,7 +23,7 @@ Finally *you must talk to the NPC in the room after the boss* to register comple
 
 ### Maps
 
-There are several map variations, 4 of which are shown below, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end and defeat the floor boss. Again, it only counts as a clear upon talking to the old man with the mask beside the portal. If you leave without talking to him you will have to repeat the trial. There is a fountain that is guarded by a Benjamin-NPC on each side.
+There are several map variations, 4 of which are shown below, and are random upon entering. It is not necessary to explore the whole map, you simply need to defeat the necessary enemies and the floor boss located in front of the door to the portal room. Again, if you leave without talking to him you will have to repeat the trial. There is a fountain that is guarded by a Benjamin-NPC on each side. It is recommended you clear all tasks except the boss and then rest for the boss fight.
 
 *Note in Variation #2, the only path to the Fountain is by going past the Boss, which requires going through the room to the southeast.*
 
