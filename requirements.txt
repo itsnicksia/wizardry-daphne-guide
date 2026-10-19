@@ -1,5 +1,6 @@
 mkdocs-material==9.5.44
-mkdocs-glightbox
+mkdocs-glightbox==0.5.2
+selectolax==0.4.13
 mkdocs-awesome-nav
 mkdocs-macros-plugin
 mkdocs-redirects
