@@ -321,6 +321,17 @@ These are some parties I have personally and successfully used to clear progress
         - Yuzunamiki (Ranger/Ninja)
         - Phyllisia (Healer)
 
+??? note "Alt Shelirionach Release"
+
+    - Front Row
+        - MC (Priest or Knight)
+        - Shiou (Samurai/Fighter)
+        - Phyllisia (Healer)
+    - Back Row
+        - Shelirionach (Mage/Priest)
+        - Linaria (Thief/Ranger)
+        - Yuzunamiki (Ranger/Ninja)
+
 ### Additional Considerations
 
 Now that you've decided on your party formation, there are two other major components. Equipment and Skill Inheritance.

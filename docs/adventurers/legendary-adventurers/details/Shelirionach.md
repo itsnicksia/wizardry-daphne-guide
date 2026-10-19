@@ -118,6 +118,28 @@
 
     To sum it up. While Sheli is best generalist caster doing an amazing job at farming/clearing abyss she falls on boss scenarios not bringing anything as important as Alice gamebreaking buff duration or Madam/Miliana buff for the team. On top of that her passive ability can sometimes be an issue and ruin harder fights with bosses if you run out of mana fast. She’s unarguably the best caster for general abyss and farming by breaking game mechanics with MP regen but it becomes unimportant/problematic in boss fights where it eats one turn for just 8MP and skill that comes nowhere close to what fighters can hit. In short, she’s falling behind the best caster we have - Alice and options like Madam or Miliana when we’re dealing with a really hard fight despite her min-maxed female-elf-dark setup. Going for knight “recovery” passive is some sort of way to deal with it but then it’s basically ruining the purpose of what Sheli is - QoL for general content that’s not made for bosses in main idea.
 
+??? info "Monday's Analysis"
+
+    Mages are BACK, baby! Well okay one mage is. Close enough.
+
+    Sheli’s base form has been thoroughly reviewed already. I have nothing to add. Mages suck right now and everyone knows it. It seems Drecom has finally caught up to that, and so they woke our mage queen up (against her will, surely) and put her back to work. We’re only talking Alt Sheli from here on out. 
+
+    Her discipline is magic attack and MP. Chef kiss. No notes.
+
+    Her unique passive skill Child of Dreambound Slumber provides some welcome sustain and occasional single-target damage that gets stronger the longer she’s asleep. You can also wake her up with DIALKO at any time to trigger it if you don’t want to wait. Something to do for those priests twiddling their thumbs, I guess?
+
+    Her inherit skill Witch’s Dream-Waking ALSO provides some welcome sustain! Not only does she gain MP back when she falls asleep through her unique passive, but she also gains some when the battle ends (provided she cast a spell)!
+
+    Her unique active skill Darkness of Unwaking is a massive LA-tier screen-clearing nuke and the main reason to use her. At 38 MP, this is not a cheap spell. However, with her unique passive and her inherit and Way of the Mage, this can come down to a very reasonable <20 MP. For example, with her gacha staff, Way of the Mage 3, and Witch’s Dream-Waking 2, I’m casting this spell for an effective 15 MP to do nearly 2000 damage to everything on screen. Even for f2p/low spenders without her gacha staff, you can easily push 1400+ damage on everything. It is far stronger than even rank 3 LA spells, will kill most enemies in most trash encounters, and whatever survives is easily mopped up by auto-attackers.
+
+    Oh, and this spell can be used when she’s a Priest as well so you can still screen-wipe and keep access to MAKALKI and a higher HP pool. It’ll be harder to get her to 600 mag as a Priest, but that’s a problem that can be solved by farming more like many others.
+
+    This places her firmly as the queen of farming for me. Yes, it is possible to have Threefold Mist and Unending Deaths on ninjas and fighters and Prishe (oh my!) with a bunch of Debra inherits and maybe some Flutters and some Oblivion Flashes for funsies and almost never need to go back to the inn. However, in my experience so far, Sheli’s encounter wipe speed is so fast that the extra trip to the inn isn’t actually slowing anything down. I could see this being a problem for the people that do respawn farming on some things, but I’m not one of those people.
+
+    If you get her gacha staff along the way, I think it’s her best option even at only +5. The MP reduction and the % increase to her unique spell is fantastic and the built-in ASPD is basically a free stat line. I don’t think it’s quite as worth chasing as Yuzunamiki’s hairpin, but if you get one, use it and enjoy!
+
+    It comes down to this at the end: Do you want to farm so quickly and easily that you get annoyed when Flutter procs because the extra 5 seconds slows you down? Roll for Alt Sheli. 
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
