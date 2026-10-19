@@ -31,16 +31,16 @@ There are several map variations, 4 of which are shown below, and are random upo
 
 ??? "Maps"  
     === "Map Variation 1"  
-        ![](img/fighter-map-1.jpg)  
+        ![](./img/fighter-map-1.jpg)  
 
     === "Map Variation 2"  
-        ![](img/fighter-map-2.jpg)  
+        ![](./img/fighter-map-2.jpg)  
 
     === "Map Variation 3"  
-        ![](img/fighter-map-3.jpg)  
+        ![](./img/fighter-map-3.jpg)  
 
     === "Map Variation 4"  
-        ![](img/fighter-map-4.jpg)  
+        ![](./img/fighter-map-4.jpg)  
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
@@ -71,7 +71,7 @@ There are several map variations, 4 of which are shown below, and are random upo
 
 ## Rewards
 ??? note "Master Fighter Ring"  
-    ![](img/fighter-ring.jpg)  
+    ![](./img/fighter-ring.jpg)  
     
     The Fighter ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.  
     See [Blacksmithing FAS example](/equipment/blacksmithing.md#master-fighters-ring-example)
