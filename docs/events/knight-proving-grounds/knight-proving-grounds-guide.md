@@ -13,7 +13,7 @@ After sufficient story progress you will be invited to participate in various Cl
 
 ## Guide:
 
-Each Knight Trial level requires you to complete three tasks:  
+Each Knight Trial level requires you to complete two tasks:  
 
 1. Defeat a number of wandering monsters (number increases for each level)
 2. Defeat the boss
