@@ -71,7 +71,7 @@ There are several map variations, 4 of which are shown below, and are random upo
 
 ## Rewards
 ??? note "Master Fighter Ring"  
-    ![](./img/fighter-ring.jpg)  
+    ![Master Fighter Ring](./img/fighter-ring.jpg)  
     
     The Fighter ring is always 4* Red and has fixed stats. Full Alter Stones can reroll the values but not the actual stat lines.  
     See [Blacksmithing FAS example](/equipment/blacksmithing.md#master-fighters-ring-example)
