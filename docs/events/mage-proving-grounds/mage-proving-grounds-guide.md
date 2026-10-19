@@ -26,6 +26,8 @@ There are several map variations, 4 of which are shown below, and are random upo
 
 *Note in Variation #2, the only path to the Fountain is by going past the Boss, which requires going through the room to the southeast.*
 
+!!! note "All the maps here are the same as that of the Fighter/Mage Proving Grounds."
+
 ??? "Maps"  
     === "Map Variation 1"  
         ![](img/fighter-map-1.jpg){width="450"}  
