@@ -1,24 +1,46 @@
 # Fighter Trials
 
+## Trials Introduction
+After progressing sufficiently, you will be invited to participate in various Class trials to prove your worth. These Trials are almost all the same, and require navigating a maze, defeating some enemies, and a floor boss. Each trial has Beginner, Intermediate, and Advanced levels. Enemies typically follow those found in the 1st, 2nd, and 3rd abysses accordingly.
+
+Trials can only be entered by a parties of up to three adventurers (including the MC), and they must be of the same class as the trial (the MC can be a Wanderer if either you have not unlocked that class change or simply prefer the MC go in with fighter-like stats). 
+
+You will get a notification in the Royal Capital when any Class Trials became available to you.  Accept the request at the guild starting with the Beginner Trial in the Featured tab. This will mark the location on your map.  After completing Beginner, you accept Intermediate and Advanced the same way.
+
+Each trial will have a separate Special Exchange of rewards available from the Jeweler.  Completing each Trial level gives a certain number of Seals (Exchange currency). You obtain a total of 600 Seals of the Fighter by completing all three levels, which will completely empty the Exchange. You cannot farm additional currency. 
+
+Trials all provide a unique Class-specific Ring.  See [Rewards](#rewards).
+
+There are no missions for Trial events.
+
 ## Guide:
 
-There is no introduction to this event. Simply start the event by heading to the Royal Capital and accepting Beginner Fighter Trial in the Featured tab. This will mark the location on your map.
+Each Fighter Trial level requires you to complete three tasks:  
 
-You can obtain up to 600 Seals of the Fighter by completing the trials up the Advanced. There are no missions for this event in particular.
+1. Defeat a number of wandering monsters (number increases for each level)
+2. Defeat a miniboss adventurer (located at the entrances to the fountain)
+3. Defeat the boss
 
-There are several map variations, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end and defeat the floor boss. Keep in mind, it only counts as a clear upon talking to the old man with the mask beside the portal. There is a fountain that is guarded by a Benjamin-NPC on each side.
+Finally *you must talk to the NPC in the room after the boss* to register completion and receive your completion reward.  Then you can teleport back to the start and leave.
 
-??? note "Map Variation 1"
-    ![](img/fighter-map-1.jpg)
+### Maps
 
-??? note "Map Variation 2"
-    ![](img/fighter-map-2.jpg)
+There are several map variations, 4 of which are shown below, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end and defeat the floor boss. Again, it only counts as a clear upon talking to the old man with the mask beside the portal. If you leave without talking to him you will have to repeat the trial. There is a fountain that is guarded by a Benjamin-NPC on each side.
 
-??? note "Map Variation 3"
-    ![](img/fighter-map-4.jpg)
+*Note in Variation #2, the only path to the Fountain is by going past the Boss, which requires going through the room to the southeast.*
 
-??? note "Map Variation 4"
-    ![](img/fighter-map-5.jpg)
+??? "Maps"  
+    === "Map Variation 1"  
+        ![](img/fighter-map-1.jpg)  
+
+    === "Map Variation 2"  
+        ![](img/fighter-map-2.jpg)  
+
+    === "Map Variation 3"  
+        ![](img/fighter-map-3.jpg)  
+
+    === "Map Variation 4"  
+        ![](img/fighter-map-4.jpg)  
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
@@ -47,6 +69,7 @@ There are several map variations, and are random upon entering. It is not necess
         - Turn 5: FPSx3
         - Turn 6: Smack the Vampire for 3k+ damage. Around the first or second hit, he'll yell at you in Japanese. As long as your party all acts before he does next (thus the conditional BATILGREF), you'll kill him before he can bat you.
 
+## Rewards
 ??? note "Master Fighter Ring"  
     ![](img/fighter-ring.jpg)  
     
