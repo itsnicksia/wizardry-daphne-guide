@@ -23,7 +23,7 @@ Finally *you must talk to the NPC in the room after the boss* to register comple
 
 ### Maps
 
-There are several map variations, 4 of which are shown below, and are random upon entering. It is not necessary to explore the whole map, you simply need to defeat the necessary enemies and the floor boss located in front of the door to the portal room. Again, if you leave without talking to him you will have to repeat the trial. There is a fountain that is guarded by a Benjamin-NPC on each side. It is recommended you clear all tasks except the boss and then rest for the boss fight.
+There are several map variations, 4 of which are shown below, and are random upon entering. It is not necessary to explore the whole map, you simply need to defeat the necessary enemies and the floor boss located in front of the door to the portal room. Again, if you leave without talking to the Master you will have to repeat the trial. There is a fountain that is guarded by a Benjamin-NPC on each side. It is recommended you clear all tasks except the boss and then rest for the boss fight.
 
 *Note in Variation #2, the only path to the Fountain is by going past the Boss, which requires going through the room to the southeast.*
 
