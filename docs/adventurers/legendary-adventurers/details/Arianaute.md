@@ -60,7 +60,7 @@
 
     Her Discipline gives HP and SP, which are both solid for Knights. The SP in particular is very welcome due to how low the Knight SP pool is.
 
-    One other important thing to note that isn't Arianaute-specific is a change in behavior for Knight's Defense. KD used to expire when the protected adventurer's turn passed, but not it expires when the Knight's turn passes. This means in general that you now want your Knights to go pretty slow, and if you have adventurers that start to lap your Knight, that effectively increases the efficiency of KD since it leads to more turns of protection for a given adventurer without increasing the Knight's SP usage.
+    One other important thing to note that isn't Arianaute-specific is a change in behavior for Knight's Defense. KD used to expire when the protected adventurer's turn passed, but now it expires when the Knight's turn passes. This means in general that you now want your Knights to go pretty slow, and if you have adventurers that start to lap your Knight, that effectively increases the efficiency of KD since it leads to more turns of protection for a given adventurer without increasing the Knight's SP usage.
 
 ## Adventurer Pull Plans
 
