@@ -1,11 +1,22 @@
-# Weapon Type Analysis
+# Weapon Types & Analysis
 
 Selecting the proper weapon for your characters is an important consideration when you're building an adventurer and constructing your party. A very common misconception is that the number of hits are the only thing that matters or a 1h hitting twice is always better than a 2h hitting once, and these statements are simply not true for a majority of the player base. There is a lot more nuance that can go into weapon selection, so I want to highlight the key advantages of the different weapon types we have available to us.
 
 !!! note "Disclaimer"
     This is largely based on the opinion of TheAxolotl and applies to the majority of the player base. Those that have spent a lot of time getting the best gear possible can, for the most part, ignore the nuances of each weapon type and focus mostly on the number of attacks, as that shines when you are able to greatly overcome enemy defenses constantly.
 
-## Weapon Types
+## Weapon Type Summary  
+Weapons can be primarily caregoized by range and whether they’re 1- or 2-handed. Number of hands used is fairly self explanatory.  Range refers to how far, measured in Rows, the weapon can attack at full power.  
+
+| Range | Distance | 1H | 2H |
+| Short/Close | 1 Row | Dagger, 1H Axe, 1H Sword, 1H Blunt Weapon, 1H Staff, Katana, Tool | 2H Axe, 2H Sword, 2H Blunt Weapon, 2H Staff, Odachi, Ninjato, Cesti | 
+| Medium | 2 Rows | — | Spear | 
+| Long | No limit | Ninja Throwing Tools (Kunai) | Bow | 
+
+## Range effects  
+The target range affects the damage done against the target.  Within the weapon’s range it will inflict full damage.  For every row beyond the weapon’s range the damage will be approximately halved.  Row count includes both ally and enemy rows. So a back-line ally with a Spear can hit the enemy front line at full power, while a frontline spear user can reach the enemy’s 2nd row at full power. Meanwhile an Axe user can only hit the row right in front of them at full power.  Note that some attack skills allow you to ignore weapon range.  
+
+## Weapon Type Descriptions
 
 ### Axes
 Axes have the property `Defense Penetration` which causes any attack to ignore 30% of the target's defense. They can hit a single row ahead at full strength, but hitting two or more rows ahead results in lower damage and Accuracy. They are extremely useful when facing high-defense enemies like slimes, clouds, and many bosses.
