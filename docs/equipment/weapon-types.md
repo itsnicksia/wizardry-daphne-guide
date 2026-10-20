@@ -9,6 +9,7 @@ Selecting the proper weapon for your characters is an important consideration wh
 Weapons can be primarily categorized by range and whether they’re 1- or 2-handed. Number of hands used is fairly self explanatory.  Range refers to how far, measured in Rows, the weapon can attack at full power.  
 
 | Range | Distance | 1H | 2H |
+| —- | —- | ——- | —— |
 | Short/Close | 1 Row | Dagger, 1H Axe, 1H Sword, 1H Blunt Weapon, 1H Staff, Katana, Tool | 2H Axe, 2H Sword, 2H Blunt Weapon, 2H Staff, Odachi, Ninjato, Cesti | 
 | Medium | 2 Rows | — | Spear | 
 | Long | No limit | Ninja Throwing Tools (Kunai) | Bow | 
