@@ -10,7 +10,7 @@ Weapons can be primarily categorized by range and whether they’re 1- or 2-hand
 
 | Range | Distance | 1H | 2H |   
 |:-:|:-:|:-:|:-:|    
-| Short/Close | 1 Row | Dagger, 1H Axe, 1H Sword, 1H Blunt Weapon, 1H Staff, Katana, Tool | 2H Axe, 2H Sword, 2H Blunt Weapon, 2H Staff, Odachi, Ninjato, Cesti |   
+| Short/Close | 1 Row | 1H Axe, 1H Sword, 1H Blunt Weapon, 1H Staff, Dagger, Katana, Tool | 2H Axe, 2H Sword, 2H Blunt Weapon, 2H Staff, Odachi, Ninjato, Cesti |   
 | Medium | 2 Rows | -- | Spear |   
 | Long | No limit | Ninja Throwing Tools (Kunai) | Bow |   
 
