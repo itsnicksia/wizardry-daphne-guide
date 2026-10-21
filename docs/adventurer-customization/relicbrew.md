@@ -248,7 +248,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     
         - Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 Fortitude). There does not appear to be any other negative side effects outside of combat.
         - The success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 51 and 20.
-        - The MC has a hidden Fortitude value. The current, but not maximum, Fortitude can be viewed by your friends in the Tavern under Friendships.
+        - The MC has a hidden Fortitude value. ~~The current, but not maximum, Fortitude can be viewed by your friends in the Tavern under Friendships.~~ This value is no longer viewable in the tavern as of version 2.0.0
         - Recommendations:
             - Remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
             - Use Anonymous units to consume less desirable relicbrews to register the Relic Power effects in the Drink Relicbrews menu.  
