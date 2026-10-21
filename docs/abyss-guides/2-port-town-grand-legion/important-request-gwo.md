@@ -117,12 +117,16 @@ Some reward choices will result in gaining an item or access to a new area after
     - Reward:  Treasurey chest key - unlocks trapdoor on Ship's deck.
  
 -  Battle with the Greater Warped One
-    - Reward:
-        - Melgina’s Choker (if you gave Melgina the sandwich)
-        - Octonarus' necklace (if you gave Melgina the knife)
+    - Reward: Melgina’s Choker (if you gave Melgina the sandwich)
     - Which side to reverse: Right
 
 #### 2nd Victory Rewards
+
+-  Battle with the Greater Warped One (after learning of Octonarus)
+    - Reward:
+        - Melgina’s Choker (if you gave Melgina the sandwich and called her name)
+        - Octonarus' necklace (if you gave Melgina the knife or if you gave her the sandwich and called his name)
+    - Which side to reverse: Right
 
 - Melgina’s liberation
     - Reward: Melgina Bondmate
@@ -136,7 +140,7 @@ Some reward choices will result in gaining an item or access to a new area after
 
 - Octonarus‘s Secret Room
     - Reward: Access Forgotten Pirate Harbor (via the underwater grate in the underwater section of the pier area, only accessible directly after the battle)
-    - Prerequisite: Gave Titanium knife to Melgina
+    - Prerequisite: Gave titanium knife to Melgina
     - Which side to reverse: Left, then go to grate before returning to town.
 
 ## Epilogue
