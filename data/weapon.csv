@@ -88,11 +88,11 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 176,1H_Sword!A176,1H_Sword,187,Earthrend Sword,Silver,2,,1875,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Earth Type
 182,1H_Sword!A182,1H_Sword,188,Seafoam Sword,Silver,2,,1875,60,0,0,0,0,0,10,0,2,0,78,0,0,0,0,0,10,0,2,0,96,0,0,0,0,0,10,0,2,0,114,0,0,0,0,0,10,0,2,0,132,0,0,0,0,0,10,0,2,0,Water Type
 188,1H_Sword!A188,1H_Sword,259,Sword of the Forsaken Eagle,Silver,2,,1600,58,0,0,0,0,0,12,0,2,0,76,0,0,0,0,0,12,0,2,0,94,0,0,0,0,0,12,0,2,0,112,0,0,0,0,0,12,0,2,0,130,0,0,0,0,0,12,0,2,0,Magical Beast-Slayer
-194,1H_Sword!A194,1H_Sword,260,Sword of Triple Slicing,Silver,2,,,62,0,0,0,0,0,10,0,2,0,80,0,0,0,0,0,10,0,2,0,98,0,0,0,0,0,10,0,2,0,,,,,,,,,,,,,,,,,,,,,"Humanoid-Slayer, Restore HP on Enemy Kill"
+194,1H_Sword!A194,1H_Sword,260,Sword of Triple Slicing,Silver,2,,,62,0,0,0,0,0,10,0,2,0,80,0,0,0,0,0,10,0,2,0,98,0,0,0,0,0,10,0,2,0,116,0,0,0,0,0,10,0,2,0,134,0,0,0,0,0,10,0,2,0,"Humanoid-Slayer, Restore HP on Enemy Kill"
 200,1H_Sword!A200,1H_Sword,Ex.,Stormbringer,Silver,2,,5520,75,0,0,0,0,2,10,0,1,0,97,0,0,0,0,4,10,0,1,0,115,0,0,0,0,5,10,0,1,0,128,0,0,0,0,6,10,0,1,0,134,0,0,0,0,7,10,0,1,0,"Air Type, Inflict Paralysis"
 206,1H_Sword!A206,1H_Sword,Ex.,Excalibur [XI],Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,118,0,0,0,0,0,10,0,2,0,136,0,0,0,0,0,10,0,2,0,"Always 4* Red with fixed type ATK/ACC/EVA/ATK%, Knights of Round, Power of Excalibur"
 212,1H_Sword!A212,1H_Sword,Ex.,Guardian Blade of Lacus,Silver,2,,5520,69,0,0,0,0,0,20,0,2,0,91,0,0,0,0,0,20,0,2,0,109,0,0,0,0,0,20,0,2,0,122,0,0,0,0,0,20,0,2,0,128,0,0,0,0,0,20,0,2,0,Sigil of Indomitability
-218,1H_Sword!A218,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+218,1H_Sword!A218,1H_Sword,Ex.,Noir Sword,Silver,2,,,46,0,0,7,0,0,10,0,2,0,68,0,0,12,0,0,10,0,2,0,86,0,0,16,0,0,10,0,2,0,99,0,0,18,0,0,10,0,2,0,,,,,,,,,,,Phalanx
 224,1H_Sword!A224,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 230,1H_Sword!A230,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 236,1H_Sword!A236,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -118,7 +118,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,2H_Sword!A2,2H_Sword,5,Worn-Out Greatsword,Worn,1,,27,13,0,0,0,0,-4,6,0,-2,0,21,0,0,0,0,-4,6,0,-2,0,28,0,0,0,0,-4,6,0,-2,0,36,0,0,0,0,-4,6,0,-2,0,43,0,0,0,0,-4,6,0,-2,0,Strength-Based +
 8,2H_Sword!A8,2H_Sword,16,Bronze Greatsword,Bronze,1,675,108,33,0,0,0,0,-4,6,0,-2,0,44,0,0,0,0,-4,6,0,-2,0,55,0,0,0,0,-4,6,0,-2,0,66,0,0,0,0,-4,6,0,-2,0,78,0,0,0,0,-4,6,0,-2,0,Strength-Based +
-14,2H_Sword!A14,2H_Sword,60,The Greatsword of Undead Bane,Bronze,1,,135,35,0,0,0,0,-4,6,0,-2,0,46,0,0,0,0,-4,6,0,-2,0,57,0,0,0,0,-4,6,0,-2,0,68,0,0,0,0,-4,6,0,-2,0,80,0,0,0,0,-4,6,0,-2,0,Strength-Based +
+14,2H_Sword!A14,2H_Sword,60,Greatsword of Undead Bane,Bronze,1,,135,35,0,0,0,0,-4,6,0,-2,0,46,0,0,0,0,-4,6,0,-2,0,57,0,0,0,0,-4,6,0,-2,0,68,0,0,0,0,-4,6,0,-2,0,80,0,0,0,0,-4,6,0,-2,0,Strength-Based +
 20,2H_Sword!A20,2H_Sword,Ex.,Relic Blade,Bronze,1,,,25,0,0,0,0,-4,6,-4,-10,0,36,0,0,0,0,-4,6,-4,-10,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Strength-Based +"
 26,2H_Sword!A26,2H_Sword,27,Iron Greatsword,Iron,1,2025,324,54,0,0,0,0,-4,6,0,-2,0,69,0,0,0,0,-4,6,0,-2,0,84,0,0,0,0,-4,6,0,-2,0,99,0,0,0,0,-4,6,0,-2,0,114,0,0,0,0,-4,6,0,-2,0,Strength-Based +
 32,2H_Sword!A32,2H_Sword,Ex.,Gilded Blade,Iron,1,,,48,0,0,0,0,-4,6,-3,-8,0,63,0,0,0,0,-4,6,-3,-8,0,78,0,0,0,0,-4,6,-3,-8,0,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,--,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Strength-Based +"
@@ -216,7 +216,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 26,2H_Axe!A26,2H_Axe,40,Steel Two-Handed Axe,Steel,1,,648,72,0,0,0,0,-8,0,0,-6,0,90,0,0,0,0,-8,0,0,-6,0,108,0,0,0,0,-8,0,0,-6,0,127,0,0,0,0,-8,0,0,-6,0,147,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
 32,2H_Axe!A32,2H_Axe,84,War Axe,Steel,,20250,3240,73,0,0,0,0,-8,0,0,-6,0,91,0,0,0,0,-8,0,0,-6,0,109,0,0,0,0,-8,0,0,-6,0,128,0,0,0,0,-8,0,0,-6,0,148,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
 38,2H_Axe!A38,2H_Axe,117,Two-Handed Axe of Flame,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Fire Type"
-44,2H_Axe!A44,2H_Axe,127,Two Handed Axe of the Water Drop,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
+44,2H_Axe!A44,2H_Axe,127,Two-Handed Axe of the Water Drop,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Water Type"
 50,2H_Axe!A50,2H_Axe,136,Two-Handed Axe of the Gale,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Air Type"
 56,2H_Axe!A56,2H_Axe,145,Two-Handed Axe of the Soil,Steel,1,,810,68,0,0,0,0,-8,0,0,-6,0,86,0,0,0,0,-8,0,0,-6,0,104,0,0,0,0,-8,0,0,-6,0,123,0,0,0,0,-8,0,0,-6,0,143,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +, Earth Type"
 62,2H_Axe!A62,2H_Axe,51,Ebonsteel Two-Handed Axe,Ebonsteel,1,,1350,114,0,0,0,0,-8,0,0,-6,0,137,0,0,0,0,-8,0,0,-6,0,159,0,0,0,0,-8,0,0,-6,0,182,0,0,0,0,-8,0,0,-6,0,204,0,0,0,0,-8,0,0,-6,0,"Defense Penetration, Strength-Based +"
@@ -262,7 +262,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 38,1H_Mace!A38,1H_Mace,114,Warmace of Flame,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Fire Type"
 44,1H_Mace!A44,1H_Mace,124,Warmace of the Water Drop,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Water Type"
 50,1H_Mace!A50,1H_Mace,133,Warmace of the Gale,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Air Type"
-56,1H_Mace!A56,1H_Mace,142,Mace of the Soil,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Earth Type"
+56,1H_Mace!A56,1H_Mace,142,Warmace of the Soil,Steel,1,,456,48,0,0,0,0,0,4,-4,2,0,62,0,0,0,0,0,4,-4,2,0,75,0,0,0,0,0,4,-4,2,0,89,0,0,0,0,0,4,-4,2,0,103,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Earth Type"
 62,1H_Mace!A62,1H_Mace,Ex.,Mace of Pounding,Steel,1,,,57,0,0,0,0,0,4,-4,2,0,71,0,0,0,0,0,4,-4,2,0,84,0,0,0,0,0,4,-4,2,0,98,0,0,0,0,0,4,-4,2,0,112,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage"
 68,1H_Mace!A68,1H_Mace,48,Ebonsteel Mace,Ebonsteel,1,,950,76,0,0,0,0,0,4,-4,2,0,92,0,0,0,0,0,4,-4,2,0,108,0,0,0,0,0,4,-4,2,0,124,0,0,0,0,0,4,-4,2,0,141,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage"
 74,1H_Mace!A74,1H_Mace,92,Mace of Expulsion,Ebonsteel,1,,1188,74,0,0,0,0,0,4,-4,2,0,90,0,0,0,0,0,4,-4,2,0,106,0,0,0,0,0,4,-4,2,0,122,0,0,0,0,0,4,-4,2,0,139,0,0,0,0,0,4,-4,2,0,"Inflict Stun, Evasion Damage, Vs Undead"
@@ -407,7 +407,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 116,1H_Staff!A116,1H_Staff,252,Fine Flower Petal Baton,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,"Faerie exclusive, Promise of Compassion"
 122,1H_Staff!A122,1H_Staff,Ex.,Librarian Rod,Silver,1,,,36,70,70,0,0,0,0,0,3,0,60,94,94,0,0,0,0,0,3,0,80,114,114,0,0,0,0,0,3,0,92,126,126,0,0,0,0,0,3,0,100,134,134,0,0,0,0,0,3,0,Memory Enhancement
 128,1H_Staff!A128,1H_Staff,Ex.,Drug-Stirrer,Silver,1,,,15,77,77,0,0,0,0,0,3,0,39,101,101,0,0,0,0,0,3,0,59,121,121,0,0,0,0,0,3,0,71,133,133,0,0,0,0,0,3,0,79,141,141,0,0,0,0,0,3,0,Efficient Compounding
-134,1H_Staff!A134,1H_Staff,Ex.,Staff of the Parasitic Tree,Silver,1,,,41,68,68,0,0,0,0,0,3,0,65,92,92,0,0,0,0,0,3,0,85,112,112,0,0,0,0,0,3,0,97,124,124,0,0,0,0,0,3,0,,,,,,,,,,,Magic Power/Divine Power Accumulation Upon MP Expenditure
+134,1H_Staff!A134,1H_Staff,Ex.,Staff of the Parasitic Tree,Silver,1,,,41,68,68,0,0,0,0,0,3,0,65,92,92,0,0,0,0,0,3,0,85,112,112,0,0,0,0,0,3,0,97,124,124,0,0,0,0,0,3,0,105,132,132,0,0,0,0,0,3,0,Magic Power/Divine Power Accumulation Upon MP Expenditure
 140,1H_Staff!A140,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,1H_Staff!A146,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,1H_Staff!A152,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -451,7 +451,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 128,2H_Staff!A128,2H_Staff,Ex.,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,135,212,200,0,0,0,0,0,-4,0,139,222,210,0,0,0,0,0,-4,0,"Strength-Based +, Status Affliction/Debuff Exploit"
 134,2H_Staff!A134,2H_Staff,Ex.,Ritual Staff of Effulgence,Silver,1,,,46,123,141,0,0,0,0,0,-4,0,85,156,174,0,0,0,0,0,-4,0,112,183,201,0,0,0,0,0,-4,0,125,202,220,0,0,0,0,0,-4,0,129,212,230,0,0,0,0,0,-4,0,"Strength-Based +, Searing Light of Purification"
 140,2H_Staff!A140,2H_Staff,Ex.,Claustrum,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +, Gate of Tartarus, Power of Claustrum"
-146,2H_Staff!A146,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,2H_Staff!A146,2H_Staff,Ex.,Staff of Yawns,Silver,1,,,18,126,92,0,0,7,0,0,-4,0,57,159,125,0,0,9,0,0,-4,0,84,186,152,0,0,10,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, AoE Spell Enhancement, Dark AoE Spell Enhancement, AoE Spell Comprehension"
 152,2H_Staff!A152,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 158,2H_Staff!A158,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 164,2H_Staff!A164,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -502,7 +502,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 170,Bow!A170,Bow,Ex.,Winterthorn Bell Bow,Silver,1,,,120,0,0,0,0,0,12,0,0,0,159,0,0,0,0,0,17,0,0,0,186,0,0,0,0,0,21,0,0,0,199,0,0,0,0,0,23,0,0,0,203,0,0,0,0,0,25,0,0,0,"Strength-Based +, Attack Power Decrease"
 176,Bow!A176,Bow,Ex.,Mountain Huntsman's Trick Bow,Silver,1,,,80,0,0,0,0,0,50,0,0,0,119,0,0,0,0,0,55,0,0,0,146,0,0,0,0,0,59,0,0,0,159,0,0,0,0,0,61,0,0,0,163,0,0,0,0,0,63,0,0,0,"Strength-Based +, Area-of-Effect Attack Enhancement"
 182,Bow!A182,Bow,Ex.,Yoichinoyumi,Silver,1,,,113,0,0,0,0,0,4,0,0,0,146,0,0,0,0,0,4,0,0,0,172,0,0,0,0,0,4,0,0,0,195,0,0,0,0,0,4,0,0,0,212,0,0,0,0,0,4,0,0,0,"Always 4* Red with fixed type ATK/ACC/ASPD/ATK%, Strength-Based +, Namas Arrow, Power of Yoichinoyumi"
-188,Bow!A188,Bow,Ex.,Giant Star's Fall,Silver,1,,,110,0,0,0,0,0,2,5,0,0,149,0,0,0,0,0,2,5,0,0,176,0,0,0,0,0,2,5,0,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Adjusted Fire"
+188,Bow!A188,Bow,Ex.,Giant Star's Fall,Silver,1,,,110,0,0,0,0,0,2,5,0,0,149,0,0,0,0,0,2,5,0,0,176,0,0,0,0,0,2,5,0,0,189,0,0,0,0,0,2,5,0,0,193,0,0,0,0,0,2,5,0,0,"Strength-Based +, Adjusted Fire"
 194,Bow!A194,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 200,Bow!A200,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,Bow!A206,Bow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
