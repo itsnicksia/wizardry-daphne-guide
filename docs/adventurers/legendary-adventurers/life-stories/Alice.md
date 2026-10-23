@@ -1,13 +1,11 @@
-### Page 1
-
+### Page 1  
 There are a number of hidden elven realms in the great northern mountain range. It was in one of these that Alice was born. From a young age, she had a keen sense of perception. From the time she could barely speak, she was able to predict avalanches and tell the location of people in distress. Everyone sensed the talent within Alice, and her parents had great expectations of her. But her parents never got to see her as an adult. Because by the time Alice finally learned to speak, she had killed her parents by poisoning them with her own hand.
 
 "Alice has done as you said, my God. Please come to me as you said you would."
 
 As Alice prayed over the bodies of her parents, almost as if in response to her plea, barbarians forced their way into her home. They made sure there were no other survivors other than Alice before spiriting her away.
 
-### Page 2
-
+### Page 2  
 These barbarians, a tribe that worshipped Agora the Dark One, said to be a heretical faith, plundered other tribes to steal offerings for Agora. By Agora's revelation, they had come for the elf girl who was to become Agora's Maiden.
 
 To them, the fact that Alice's parents were already dead, and that she went with them without resistance, were all the will of Agora. So sure were they that they took Alice back to their homeland and brought her before the altar of Agora.
@@ -18,36 +16,35 @@ Her natural talent was honed by the training and her magical strength grew as sh
 
 As she grew, so was her innate elven beauty refined, and the barbarians came to revere and attend Alice, with her power and beauty, as the embodiment of Agora.
 
-### Page 3
-
+### Page 3  
 Alice lived up to the expectations of the barbarians, sometimes harshly, sometimes gently, bidding them trust in Agora and guiding them.
 
 The barbarians became completely subservient to her. Alice, who heard the voice of Agora and remained beautiful and ageless, was the heart of the barbarians, and their happiness was to serve her.
 
 However, that happiness came to an abrupt end. It had been 400 years and none now remembered Alice had been abducted. That was because she slew them all, leaving only three faithful disciples.
 
-Praying at the altar, Alice spoke. You trained me that I would know you, restricted my diet, and raised me so that my flesh would be a vessel worth of you. From the tips of my toes to the ends of my hair, I am yours.
+Praying at the altar, Alice spoke.
+"Great Agora. It was for the sake of my flesh that Great Agora had me stolen away, was it not? You have disciplined me to harmonize with your spirit, tempering my body through fasting and toil, until I became a vessel worthy of your own. From the tips of my toes to the very crown of my head, I am yours."
 
-### Page 4
-
+### Page 4  
 Agora's altar trembled as if in affirmation. Alice smiled compassionately, reaching a hand toward the altar. Then, after a solemn, secret prayer of celebration, she removed a fiery core from within.
 
-As she held Agora's core in her hands, she whispered, "But you must know, Master Agora, that I love you and desire you as much as you desire me. I want you to be mine and mine alone..."
+As she held Agora's core in her hands, she whispered, "But you must know, Great Agora, that I love you and desire you as much as you desire me. I want you to be mine and mine alone..."
 
-And, with that, she muttered a polite apology, she put the core into her mouth and swallowed it whole."
+And, with that, she muttered a polite apology, she put the core into her mouth and swallowed it whole.
 
-After enduring a wave of surging emotions, as if her blood were boiling, Alice let out a rapturous sigh. "I am overjoyed. Agora's presence is so strong within me..."
+After enduring a wave of surging emotions, as if her blood were boiling, Alice let out a rapturous sigh. "I am overjoyed. Great Agora's presence is so strong within me..."
 
 And thus, Alice took Agora within her.
 
-### Page 5
+### Page 5  
+Agora's original plan was to devour Alice's mind and take over her body, but Alice's training had made her into an iron-willed mage, and she overpowered Agora instead.
 
-Agora's original plan was to devour Alice's mind and take over her body, but Alice's training had made her into an iron-willed mage and she overpowered Agora instead.
-
-"Now we can be together forever, Agora. Let us find a more suitable land for you and build a vast kingdom!"
+"Now we can be together forever, Great Agora. Let us find a more suitable land for you and build a vast kingdom!"
 
 Thus Alice left the temple with her three disciples in tow.
 
-They would travel to many lands and attack many towns and villages in order to amplify Agora's powers by sacrificing the residents' souls to him.
+They would travel to many lands and attack many towns and villages in order to amplify Agora's powers by sacrificing the residents' souls to Agora.
 
 Each time, Alice was hunted as a heretic, but she used her beautiful appearance as a weapon, positioning herself as a victim, and always disappeared before she could be caught.
+
