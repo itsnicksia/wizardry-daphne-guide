@@ -173,7 +173,8 @@
     | Chloroan King                                  | Complete the King's Trial with your ally.                          |
     | A Journey of Two Souls                         | See the ritual at the Shrine of Agora through to completion with your ally.|
     | Thundersmiter's Vow                            | Bear witness to the vow of Gerard's past with your ally.           |
-    | Sentiments of the Owen Family                  | Leqrn the true intentions of House Owen with your ally.            |
+    | Sentiments of the Owen Family                  | Learn the true intentions of House Owen with your ally.            |
+    | The Red Camellia Has Yet to Fall               | Find the Village of the Red Camellia's Scroll of Secret Teachings with your ally. |
 
 === "Equipment"
 
