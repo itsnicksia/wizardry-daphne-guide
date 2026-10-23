@@ -1,54 +1,101 @@
-### Page 1  
-"You've a gift bestowed upon you by the gods themselves."
-So said the dwarves, smiling down on him. Such was Aldric's oldest memory.
+---
+# Just change title to character's name, should match filename, and all data
+# fields will pull from adventurers.csv, skills.csv, and image folder. 
 
-He had been born with a most un-dwarf-like agility. That talent was one of a kind, even amongst the many dwarves who lived in close fellowship in the mines deep below.
+   title: Aldric
 
-He was not shunned for his peculiar talent. Dwarves of the mines bring their children up all together as a community. Every one of them is connected to every other by bonds of blood or obligation. And so, everyone rejoiced in his talent as if it were their own.
+# Note image files are all lowercase, and are expected as:
+# name-class.jpg, name-altform.jpg, name-class-personal-request.jpg
+#
+# Free text can still be added to any section in the relevant text block but
+# skill text still needs to be indented 8 spaces.
+#
+# Reviews can be added at end be removing comments around relevant sections
+# in free text block.  To not remove any block tags.  
 
-But a life spent in the mines provided little opportunity to put that agility to use. It wasn't until he had come of age that a major turning point came.
+# set debug parameter to true to save full markdown before HTML build
+# in a {project_dir}/debug_output folder (if that folder exists)
+   debug_render: false  
 
-An explorer, long gone on a journey, had come home. The explorer, impressed by Aldric's talent, invited him to join him on a journey to explore a labyrinth. Encouraged by the blessings of those around him, Aldric had a realization. The time had come for him to put his talent, bestowed by the gods, to use.
+---
+  
+{% extends "Adventurer_parent.md" %}   
+     
+{% block InheritFreetext %}
 
-### Page 2  
-Aldric became apprentice to the explorer and so set out from his homeland. The world beyond was vast, alluring, and fraught with danger. With his master's teachings, his talent grew, and he became a steadfast aid to his allies.
+        <div class = "nosort-table nofilter-table" markdown>
 
-During his adventures, he had a marvelous encounter. Rescuing a wounded crow, stranded and unable to move from its perch high in a tree, the creature took to him and refused to leave his side. Aldric named the crow Grimm and welcomed it as a new ally.
+        | Level | Detect/Disarm Trap/Evade Trap (self) | Detect/Disarm Trap/Evade Trap (inherited) |
+        |:-----:|:------------------------------------:|:-----------------------------------------:|
+        |   1   |                 2/5/2                |                   1/3/1                   |
+        |   2   |                                      |                   2/5/2                   |
+        |   3   |                                      |                   4/9/4                   |
+        |   4   |                                      |                   6/11/6                  |
+        |   5   |                                      |                   8/15/8                  |
+        |   6   |                                      |                  10/17/10                 |
+        |   7   |                                      |                     -                     |
 
-Soaring through the skies, Grimm was quick to spot peril and cry a warning. As Aldric found himself called upon more and more, he and Grimm became irreplaceable partners, living in support of each other.
+        </div>
 
-Aldric learned well from his master, going on to clear dungeon after dungeon. He made it a point to exchange information with any dwarves he met on his travels. The nimble dwarf who traveled with a crow grew steadily more famous, and his adventures continued on, even when his beard had gone completely white.
+{% endblock InheritFreetext%} 
 
-In time, his master grew old and passed away quietly. Aldric bore his remains back to their homeland. It was then that another turning point came.
+{% block AltInheritFreetext %}
+{% endblock %}
+     
+{% block PotentialInheritFreetext %}
+{% endblock PotentialInheritFreetext %}
 
-### Page 3  
-His master passed, leaving behind the words, "If only my eyes beheld the stone of home one last time." But when he returned to the mine, bearing the body of his master, he found not the warmth of home, but a gate locked tight. Adorned with symbols that roused a primal loathing, the gate stood fast against Aldric's pounding, refusing to let him in.
+{% block UniqueSkillFreetext %}
+{% endblock UniqueSkillFreetext %}
 
-Grimm circled high above, tracking every movement and cawing a warning at the first sign of danger. Aldric withdrew for the time being, gathering information through the connections and renown he had earned on his travels.
+{% block AltUniqueSkillFreetext %}
+{% endblock AltUniqueSkillFreetext %}
 
-It is said the tragedy of Aldric's homeland began when they delved too deep within the mine, unearthing a dark god slumbering within. Unable to seal the dark god back away in time, its cultists converged. They assailed the mines, poisoned the wells, and spread their maledictions.
+{% block DisciplineFreetext %}
+{% endblock DisciplineFreetext %}
 
-The weakened dwarves could offer no resistance and were overwhelmed. The dark god, fueled by their cultist's faith, feasted on the dwarves. Aldric's brothers, his nephews, his cousins, and even their children, his benefactors, and his friends-all had been devoured, leaving not even ash behind.
+{% block AltDisciplineFreetext %}
+{% endblock AltDisciplineFreetext %}
 
-### Page 4  
-When something is given, it must be paid in kind. Giving and helping one another with trusted allies-that was the way Aldric learned to live across his lifetime.
+{% block ReviewsAndAnalysis %}
 
-And so-those cultists who had destroyed his homeland would be destroyed in kind. As they had killed every last one of his people, so every last one of them would be killed. Aldric swore an oath to the dwarves who had died.
+## Adventurer Reviews
 
-He alone survived among the dwarves of the mine. He resolved to carry out his vow on his own. He expressed his gratitude to the neighboring dwarves who had sought to stop him, and taking only the crow that clung to him like an extension of his body, the long battle of vengeance began.
+??? info "TheAxolotl's Analysis"
 
-Aldric proceeded to exact his retribution on the cultists. First, he swiftly took down those who ventured outside the gate. Taking his time, he assessed the foes and looked for a way to get inside the gate. And Grimm soared above, gleaning secrets from the skies, aiding him in his many tactics.
+    Aldric has the potential to be a solid addition to our legendary adventurer lineup, despite the fact that so many people thought he was going to be a Samurai for some reason. Thank you devs for teasing everyone with your silhouettes. There are quite a few unknowns around his damage scaling, but in general, I personally think Aldric is the first legendary thief that actually looks like they're great at doing what thieves are supposed to do, which is opening chests.
 
-One by one, steadily, Aldric killed them off.
+    His damage skill, Blunt Combo Strike, is very unique, but it is also what we're currently least clear on. First, what we do know:
+    
+    * Regardless of weapon type used (Dagger, Sword, Bow), both the initial minor attack and the crow attacked are treated as a spear. This has some significant implications for its use, both positive and negative.
+    * Undead Slayer is the only weapon-based damage boost that works with the crow. This means other slayer properties as well as elemental type properties do not work with the crow portion, but they do work with the initial minor attack.
+    * The initial minor attack can trigger procs like Corrosion Dagger, Mace of Tumult, and Staff of Weakness, but the crow attack cannot.
+    * The initial minor attack is not forced to a single hit and instead uses the number of hits provided by the weapon, plus an additional hit for the crow. For example, using a 2-hit weapon, his skill hits a total of 3 times and using a 3-hit weapon, his skill hits a total of 4 times
+    * Despite the `Details` page of this skill indicating that there are efficacy increases with higher skill levels, since this is his non-inheritable skill, it is currently locked at level 1, so we can't actually increase its skill level.
 
-### Page 5  
-His innate agility, the skills and knowledge he had gained through his adventures, and his crow partner-using everything he had gained in his life, Aldric slew the cultists to the last.
+    The evade and counter component of this skill is also pretty negligible. While it is boosted by an Alice inherit, it's only actually going to provide damage if he evades something, which means he needs to be attacked by an attack that can be evaded and countered. If this does actually happen, it'll be crow damage, which is nice. Unfortunately, it's not going to be too reliable.
 
-The gate that had once shut him out of his homeland now stood wide open. Beyond it, the disciples who had once worshipped their dark god were nowhere to be seen. Those who tried to flee, too, were hunted down and killed, however many years it took.
+    As far as what we don't know, we really have no idea how the damage of either component scale at higher attack power levels. Since the initial attack on his skill is credited as a `Minor` attack, my suspicion is it'll see its power soft cap at around 300-350 attack power. The crow component on the other hand is different and I suspect behaves more like Sheli's sleepy nuke. More testing needs to be done here, though. I'll update this section as we learn more.
 
-Aldric buried his master in his homeland, now shrouded in silence. At long last, fulfilling his master's wish to see their homeland again, he let out a sigh of relief for the first time in a long while.
+    Moving on to his inheritable skill, Wisdom of the Crafty Old Dwarf is tailored towards being a thief, which is great. That being said, the actual increases are pretty small. On him at skill level 1, it increases his Detect and Evade Trap each by 2 and his Disarm Trap by 5. These are reduced to 1, 1, and 3 respectively when inherited to someone else. The table above will gradually get filled out as we see what the inherited value increases are. The downside of this skill is that it's a pretty low value - on him, it's roughly equivalent to a single Bakesh inherit and a bit over 2 Jean inherits. One someone else, it's roughly equivalent to 1/2 Bakesh and 1 Jean inherit.
+    
+    His Discipline skill, Adept's Rule of Thumb, is going to be very similar to his inherit in that it'll be improving his disarming abilities at a minor rate. Detect and Disarm Trap are definitely two of the stats that get better value out of Discipline, but it's still going to be a relatively low value per dupe in general.
 
-Time had laid its heavy hand upon Aldric. And in his vengeance, the maledictions hurled over and over by his enemies were eating him alive. The time had come to end his long, long adventure.
+    The biggest hurdles that Aldric needs to overcome are the fact that he's a thief and the fact that there's already a lot of competition for both rows within a party. Many veteran players stopped using thieves quite a long time ago and have instead made MC or a ninja their disarmer. As such, his value is going to be relatively low for parties with established disarmers. Given the uncertainty at this point around his damage longevity, it's hard to immediately recommend him as a long-term member in a party since thief damage drops off pretty significantly in the later content. That being said, if you want to run a thief, he's going to be the best thief in the game right now at doing a thief's job of disarming traps. If you use a ninja like Rinne as your disarmer instead, inheriting him to her definitely couldn't hurt, but he's also a fairly easy skip.
 
-In what time he had left to him, he spent his days quietly in his homeland, as if to watch over the rest of those who had passed on before him. It is said that, until the very end, a single crow stayed by his side.
+??? info "Frobro's Analysis"
 
+    Well, well, well; he’s a thief alright. If opening chests is what you need, this guy has the capacity to be the best in the game at it. Both a chest opening-based discipline focus and inherit; all function, no flash. It's not a particularly tempting offer given the alternative of “git gud” costs $0, but maybe future chests will be difficult for non-chest specialized thieves to open? Is this what the streets wanted; A chest opening legendary?
+
+    Now that unique is something; it’s kinda like Sheli’s if you squint. It's a decently strong attack that kinda costs 0sp to use, but has a prerequisite attached to it and you can’t cast it directly…mostly. I am of course referring to the Bird-counter part of the attack specifically. After the turn you use the skill, you need to be targeted by an attack that can be evaded & counter-attacked and you must evade the attack. A few things need to go your way to get more than 1 bird hit, but it is possible and you are guaranteed 1 on the turn you use the skill, so it can seem like an equivalent to Sheli’s at a glance. Defense penetration can be incredibly strong. The Bird’s damage is not subject to the range penalty, even if you don’t have a bow equipped and its damage doesn’t seem tied to ATK power. While I am unsure how it scales with DEX exactly but, at the current lvl cap, it is pretty strong but heavily reliant on getting surety. 
+
+    Beyond that, as a standalone skill…yikes. It’s Black Beast Feint that replaces the row aggro ailment with a minor attack + 1 bird hit for 5 more SP. You’d have to use high-leveled Attract Hit or Defensive Provoke separately to expect to get max value from this skill. So now you need to inherit an Alice to extend the buffs for maximum effect. Also, this skill cannot be leveled up with codexes. Compared to Slumbering Darkness’s easy prerequisite, direct MAG power scaling and negative MP cost, it really feels like the devs dropped some hot “mid” again.
+
+    Despite the rant, Aldric is probably the best thief in the game at max potential, but not so much so that many veteran players are replacing their invested thief over.
+
+## Adventurer Pull Plans
+
+??? note "TheAxolotl's Pull Plan"
+    I'm likely going to skip him. Maybe I'll get lucky with the free bones, but unless his damage proves to be somehow incredible at higher power levels, I don't see a good way to fit him into my current party. His inherit would be nice to throw on my Rinne, but I don't think the actual value increases are enough for me to want to spend my gems on.
+
+{% endblock ReviewsAndAnalysis %}
