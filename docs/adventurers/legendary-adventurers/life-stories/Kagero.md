@@ -21,18 +21,17 @@ Humiliated by Kagero's merciless defiance, the warlords burned with fury and bou
 Over the span of several years, these lords stealthily embedded infiltrators throughout Windcry Peak. These agents endured the severe training, feigned deep reverence for the peak, and seamlessly dissolved into the ranks of the ascetics.
 
 ### Page 3  
-— None could say precisely when it began. Insidious rumors regarding Kagero of Windcry Peak began to be whispered abroad: that the supreme head was accepting bribes from the warlords to line his own pockets.
+- None could say precisely when it began. Insidious rumors regarding Kagero of Windcry Peak began to be whispered abroad: that the supreme head was accepting bribes from the warlords to line his own pockets.
 
-“Never could our supreme head, who is harsher on himself than any other and pure of heart, commit such a deed,” some protested, dismissing the slander. Yet those ascetic monks who groaned under the severe training and, having been rebuked by Kagero for their indolence, harbored a latent resentment, readily believed the rumors.
+"Never could our supreme head, who is harsher on himself than any other and pure of heart, commit such a deed," some protested, dismissing the slander. Yet those ascetic monks who groaned under the severe training and, having been rebuked by Kagero for their indolence, harbored a latent resentment, readily believed the rumors.
 
 Those who believed the lies whispered that the supreme head kept others at a distance only to conceal his hoarded wealth, and that he had slaughtered the emissaries merely to mask his illicit ties to the warlords. Immersed in endless asceticism, listening only to the voice of the mountain, Kagero failed to perceive the rot of suspicion and mistrust spreading at his feet.
 
 Then came the day when the ascetic monks, poisoned by rebellion and doubt, rose in revolt under the cunning incitement of the infiltrators.
-
-”We strike down the leader who has steeped himself in defilement. By our very hands shall Windcry Peak be defended!”
+"We strike down the leader who has steeped himself in defilement. By our very hands shall Windcry Peak be defended!"
 
 ### Page 4  
-First to fall were the ascetic monks who remained loyal to Kagero. Helpless to resist, they all perished miserably—extinguished by paralyzing incense, poison laced into their rations, and assassination by hidden marksmen.
+First to fall were the ascetic monks who remained loyal to Kagero. Helpless to resist, they all perished miserably-extinguished by paralyzing incense, poison laced into their rations, and assassination by hidden marksmen.
 
 Kagero alone perceived the treachery the very instant it commenced, rising up to resist the onslaught. Yet, driven by traps toward the mountain's crest, he found himself surrounded by a horde of his own ascetic monks and the infiltrators who pulled their strings from the shadows.
 
@@ -49,6 +48,7 @@ Thus, the samurai households that had dispatched infiltrators to Windcry Peak we
 
 Those who had once betrayed Kagero: the warlords of neighboring lands, the ninja who had infiltrated Windcry Peak as spies... The heads of every single soul complicit in Kagero's demise stood lined along both sides of the path like macabre milestones.
 
-Choking back a scream, the warlord spun around—only to find that the heads of the retainers who had accompanied him were already gone.
+Choking back a scream, the warlord spun around-only to find that the heads of the retainers who had accompanied him were already gone.
 
 Since that day, headless corpses have never ceased to appear in the lands surrounding Windcry Peak. Whenever a head vanishes, the common folk can do naught but offer flowers toward the sacred peak, praying desperately that divine wrath will not fall upon them.
+

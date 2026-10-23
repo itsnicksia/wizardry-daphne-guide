@@ -1,6 +1,5 @@
-### Page 1
-
-There were beastfolk who lived on cliffs far from other lands. To hold their own against invaders, unlike other beastfolk in the world, they had crowned themselves a king and established their own kingdom. In the way of humans and elves.
+### Page 1  
+There were beastfolk who lived on cliffs far from other lands. To hold their own against invaders, unlike other beastfolk in the world, they had crowned themselves a king and established their own kingdom-in the way of humans and elves.
 
 In their kingdom, there were also knights who served the royal family. Soaring knights loyal to the royal family. Savia was born to a family bearing such a title.
 
@@ -12,8 +11,7 @@ Savia soon took to imitating her parents. She deftly wielded a dagger that shoul
 
 And so, everyone believed that she would become a great knight.
 
-### Page 2
-
+### Page 2  
 Like most beastfolk in the world, Savia was a free spirit. She did not want to be that great knight those around her expected her to become.
 
 She found it fun to carry on in the image of fighting she'd picked up from her parents. But the more Savia wielded her weapon as she wished, the more she clashed with her parents.
@@ -26,8 +24,7 @@ Her father was angry, her mother was dismayed, and Savia doggedly rebelled. Her 
 
 Her family couldn't handle her and Savia turned her back on them. She didn't care about being lonely. She came to hone her skills as she pleased, alone in the mountains.
 
-### Page 3
-
+### Page 3  
 An enemy scout invading the mountains that she slew was something she just happened upon and thought would be a good test of her skills. Sheathing her dagger, she turned to find a neatly dressed girl with starry eyes.
 
 "Your sword is wonderfully free. Please teach me."
@@ -40,11 +37,10 @@ They commiserated, both hating the formality of their homes. They boasted to eac
 
 But they knew that peace would not last.
 
-### Page 4
-
+### Page 4  
 One night, the invaders came in an all-out attack. Savia's mother, who had not spoken to her for some time, ordered her to guard the road to the castle with her father.
 
-She was to stake her life in a place that had been decided, in a way that had been decided. It was the role of one born in a family of proud knights. But Savia flew from her home and ran in the direction opposite of her orders. For whenever Kiki spoke of home, her eyes always drifted up to the castle.
+She was to stake her life in a place that had been decided, in a way that had been decided. It was the role of one born in a family of proud knights. But Savia flew from her home and ran in a direction opposite of her orders. For whenever Kiki spoke of home, her eyes always drifted up to the castle.
 
 She slipped her way through the fighting, ignoring the voices of her brothers, until she reached the castle. It was then that she heard Kiki's scream.
 
@@ -54,16 +50,16 @@ Looking up, she saw an enemy soldier riding a winged dragon grab Kiki, who was a
 
 Every part of her burned with rage. The only thing that mattered to her was about to be arbitrarily taken from her. Before she could even think about it, she was in motion.
 
-### Page 5
-
+### Page 5  
 Savia ran up a tree, jumped to the roof of the royal castle, and cut down the enemy soldier who was assailing Kiki on the balcony.
 
 "Kiki. It is you who I will protect."
 
-Not because she was a knight, but because Savia wanted to. It didn't matter who Kiki was, she was a friend. That was reason enough for her to risk her life.
+Not because she was a knight, but because Savia wanted to. It didn't matter who Kiki was; she was a friend. That was reason enough for her to risk her life.
 
 The sounds of battle rang throughout the castle. There would be no allies to reinforce them. But the door was held tightly and there was no worry of it being breached. Savia continued to stand as a shield for her friend, slaughtering one enemy after another as they came from the balcony, throwing away broken weapons and taking them up from enemies.
 
 Eventually the invaders were quelled, and when the king opened the chamber door, the princess was standing among the corpses of countless enemy soldiers, weeping and clutching at Savia's lifeless body.
 
 For protecting the princess, the royal family praised Savia as a true knight. Though it probably wasn't something that would matter to Savia herself.
+

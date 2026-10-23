@@ -1,5 +1,5 @@
 ### Page 1  
-Far, far away, in a world other than our own—Vana'diel. In the southern reaches of the Quon continent lies the Republic of Bastok. Bastok was an industrial nation, where a physically powerful race known as the Galka made up a third of the population.
+Far, far away, in a world other than our own-Vana'diel. In the southern reaches of the Quon continent lies the Republic of Bastok. Bastok was an industrial nation, where a physically powerful race known as the Galka made up a third of the population.
 
 In Bastok, there exists a legend of a Galkan Dark Knight. He was once known as War Cloud, the Number Two Mythril Musketeer, under the direct command of the president.
 
@@ -8,13 +8,15 @@ However, War Cloud was a name bestowed upon him by members of a different race, 
 His name was Zeid. Throughout Vana'diel, many tales are told of his exploits.
 
 ### Page 2  
-Far, far away, in a world other than our own—Vana'diel. In the southern reaches of the Quon continent lies the Republic of Bastok. Bastok was an industrial nation, where a physically powerful race known as the Galka made up a third of the population.
+One day, the talisman that sealed away the Shadow Lord was stolen from Bastok. The Kindred were seeking to resurrect their lord.
 
-In Bastok, there exists a legend of a Galkan Dark Knight. He was once known as War Cloud, the Number Two Mythril Musketeer, under the direct command of the president.
+The Shadow Lord was a terrifying being who once led the Beastman Confederate, bringing fear, destruction, and slaughter upon mankind. His resurrection had to be prevented at all costs.
 
-However, War Cloud was a name bestowed upon him by members of a different race, the Humes. Consequently, he despised the name War Cloud and insisted on going by his true name.
+By order of the President of Bastok, an adventurer journeyed to the cursed land to check on the seal. There, they encountered a Galka clad in black, who informed them that the seal was broken long ago.
 
-His name was Zeid. Throughout Vana'diel, many tales are told of his exploits."
+Volker, serving as Captain of the Mythril Musketeers, heard the adventurer's account of the black-clad Galka, and concluded that it was Zeid, revealing that he was the one who had once defeated the Shadow Lord.
+
+Following the battle with the Shadow Lord, Zeid had vanished without ever taking up the mantle of Captain of the Mythril Musketeers.
 
 ### Page 3  
 In Bastok, it is told that Zeid stood witness to the Shadow Lord's resurrection, and that together with the adventurer he prevented the Shadow Lord from once again bringing the ravages of war upon the people.
@@ -30,10 +32,10 @@ Furthermore, among the Mythril Musketeers, the battle between Zeid and their cap
 
 Zeid called Volker out in a head-on duel, confonting the heavy torment his old comrade harbored. In the end, Volker emerged victorious.
 
-Volker remarked that he had been victorious only because the adventurer was with him, and that alone he could not have defeated Zeid. But Zeid replied that therein lay the very answer he had sought to show him.  
+Volker remarked that he had been victorious only because the adventurer was with him, and that alone he could not have defeated Zeid. But Zeid replied that therein lay the very answer he had sought to show him.
 "You finally see... You do not need to fight alone. Others will always be there to..."
 
-And to Volker, standing amid his fellow Mythril Musketeers and the adventurer, Zeid entrusted Bastok's future.  
+And to Volker, standing amid his fellow Mythril Musketeers and the adventurer, Zeid entrusted Bastok's future.
 "I...I will now return to the shadows. I look forward to seeing how our country prospers under its leaders."
 
 Zeid then told a Galka who looked up to him to support the new Talekeeper, so that the conflict between the Galka and the Humes might at last be brought to an end. With those final words, he departed.
@@ -41,10 +43,11 @@ Zeid then told a Galka who looked up to him to support the new Talekeeper, so th
 ### Page 5  
 One day, rumors spread of a skilled Galkan Dark Knight lurking in the mines. Upon learning of this, a certain adventurer headed to the mines and there found Zeid.
 
-"The way of the dark knight is not one to be taken lightly."  
+"The way of the dark knight is not one to be taken lightly."
 With those words, Zeid handed the adventurer an ancient sword and instructed them to let it feed on their bloodlust and the blood of their enemies.
 
 Following Zeid's teachings, the adventurer in time became a Dark Knight.
 
-Having found an heir to the ways of darkness, Zeid continued to offer guidance, teaching the adventurer what must be done.  
+Having found an heir to the ways of darkness, Zeid continued to offer guidance, teaching the adventurer what must be done.
 "Should you ever doubt the path you have chosen, look at your blade and ask yourself this: does it glow with true darkness?"
+

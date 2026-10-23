@@ -14,9 +14,9 @@ There she collapsed upon the road and rose no more, and when at last she woke it
 
 The elderly healer of that village tended her, nursing the frail Phyllisia with untiring devotion, seeking to heal not her flesh alone, but the very spirit within her.
 
-"Give ear unto my words, Phyllisia. There is a power of healing harbored within leaf and stem. Most especially those that take root upon living beasts?such hold a mighty virtue. Which means, my brave child, that your very body overflows with a virtue of healing. Let thy heart be at ease, O child of blessing."
+"Give ear unto my words, Phyllisia. There is a power of healing harbored within leaf and stem. Most especially those that take root upon living beasts-such hold a mighty virtue. Which means, my brave child, that your very body overflows with a virtue of healing. Let thy heart be at ease, O child of blessing."
 
-And then did it seem to Phyllisia that she had come at last to a place where she belonged. And it was that, for want of lore concerning the elven-kind, the healers of that village paid little heed to her strange appearance. Far from it?following the manner of the aged healer who was now her foster father, they extolled her flesh as a 'wondrous virtue.'
+And then did it seem to Phyllisia that she had come at last to a place where she belonged. And it was that, for want of lore concerning the elven-kind, the healers of that village paid little heed to her strange appearance. Far from it-following the manner of the aged healer who was now her foster father, they extolled her flesh as a 'wondrous virtue.'
 
 Desiring also to repay the kindness she had received, Phyllisia resolved in her heart that she too would become a healer and bring deliverance unto others.
 
@@ -37,7 +37,7 @@ For she beheld folk ensnared by the parasitic tree, warped beyond all human semb
 All too well these dread flowers were known to her. For they were the selfsame blossoms, never absent from the draughts her foster father brewed for her and bade her drink.
 
 A cold and mirthless smile played upon her foster father's visage as he at last turned his gaze upon Phyllisia.
-"This tree of yours, you must know, bears fruit only when it hath taken root within a vessel attuned to its nature?fruit that is the very substance of a draught for ageless youth and length of days."
+"This tree of yours, you must know, bears fruit only when it hath taken root within a vessel attuned to its nature-fruit that is the very substance of a draught for ageless youth and length of days."
 And even as he spoke these words, tears flowed unbidden from the eyes of her foster father.
 "I am sore adread of death. You... You will grant me deliverance, will you not? O Phyllisia, my beloved daughter."
 
@@ -48,9 +48,10 @@ If it be the essence of a healer to deliver living souls from anguish, how then 
 
 Rending a spur of the parasitic blight-wood from a soul half-dead, she turned upon her aged foster father and plunged the sinister growth deep into his breast. Obeying the sovereign will of the mother-tree, the graft grew apace, as though drinking up the very life-essence of Phyllisia's foster father.
 
-"Stay?slay not that mortal man. Grant him length of days, even as his heart desired, and bind him fast unto this soil until his very life become a loathing to him."
+"Stay-slay not that mortal man. Grant him length of days, even as his heart desired, and bind him fast unto this soil until his very life become a loathing to him."
 And, so saying, Phyllisia caressed the young shoot. And thereafter she passed among the folk whom her foster father had fashioned into seed-beds, withering them each in turn as she walked. And upon the desiccated faces of those slain folk there lay a serene and unbroken peace.
 
-And in the quiet of her heart, Phyllisia understood at last. That to grant deliverance or to deal death are in truth but twin paths to a single end: peace. And that none save she alone?who bore the sovereign tree within her?held the doom to bestow either gift upon others.
+And in the quiet of her heart, Phyllisia understood at last. That to grant deliverance or to deal death are in truth but twin paths to a single end: peace. And that none save she alone-who bore the sovereign tree within her-held the doom to bestow either gift upon others.
 
 Thus did she become a calamity incarnate, holding in her hands the doom of both life and death. At whiles she brought deliverance unto a great multitude, and at whiles she dealt death to as many. And folk handed down in song and lore the tale of that healer who had become a grievous scourge, speaking ever of her with fearful awe.
+

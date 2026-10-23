@@ -7,7 +7,7 @@ The Nightwisp siblings, who had grown up without contact with other races, gathe
 
 At times, the brother's wisdom and determination led the way. At times, the sister's consideration and forbearance saved companions. The two overcame many dangers, traversed unexplored regions and dungeons, honed their magic, and accumulated new knowledge.
 
-"The world is so vast. However much we might know of it, there's no end to it!"  
+"The world is so vast. However much we might know of it, there's no end to it!"
 Erwin pressed on, driven by his curiosity. He truly felt he could go anywhere.
 
 And so, time-accounting for many generations had he been human-passed in the blink of an eye.
@@ -39,9 +39,8 @@ His sister wept, saying nothing. But Erwin sensed something akin to fate.
 In his hands he carried a book of spells that he had obtained at the end of his adventures. A spell of aging. It would pave the way, he was sure of it.
 
 ### Page 4  
-"Erwin, you mustn't. Not that spell."  
-As he took the spellbook in hand, his sister stopped him.  
-But calling out, "It is on this we will chance!" he rushed forward.
+"Erwin, you mustn't. Not that spell."
+As he took the spellbook in hand, his sister stopped him. But calling out, "It is on this we will chance!" he rushed forward.
 
 Leaving his sister and his allies on the overlook, he ran doggedly on legs no longer so limber as in his youth, toward the monsters encircling his homeland. Then, just before the monsters noticed him, he stopped and opened the spellbook that contained the spell of aging.
 
@@ -51,11 +50,10 @@ Any other person living within the forest would perish along with the monsters. 
 
 Great achievements come at a cost. Erwin had made his decision and invoked the spell of aging. All life around him advanced in decades.
 
-### Page 5
+### Page 5  
 Erwin's gamble paid off. The spell of aging laid waste to the monsters attacking his homeland-while aging all life within the forest.
 
 "Lo, it is done! What an incredible spell!"
-
 Turning to look at his sister, who had finally caught up to him, Erwin looked every inch the boy he was when he first sallied forth from his homeland. Riding high on the success of this rare and powerful spell, he did not notice the look on his sister's face.
 
 The price of survival was that half the forest had withered and the elves had grown older. Erwin, who had been made young again, was accused of encroaching upon the forbidden arts, and was never allowed to return to his homeland. But his mind was drawn to the many magical spells that had yet to be discovered.
@@ -63,3 +61,4 @@ The price of survival was that half the forest had withered and the elves had gr
 "There is still much unknown in this world. Let us venture where we will. We can--" he said, eager for new adventure. But the younger sister, back bent with age, quietly shook her head and refused.
 
 The siblings went their separate ways. The fate of the older brother remains unknown.
+
