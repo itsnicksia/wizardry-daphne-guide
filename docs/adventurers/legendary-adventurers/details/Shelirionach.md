@@ -34,6 +34,10 @@
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}
+
+    === "Darkness of Unwaking (Seer of the Waking Dream)"
+        {{ get_skill_description("Darkness of Unwaking") }}
+
 {% endblock AltUniqueSkillFreetext %}
 
 {% block DisciplineFreetext %}
