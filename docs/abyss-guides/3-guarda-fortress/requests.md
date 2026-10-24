@@ -65,10 +65,10 @@
 
 ??? note "Requirements"
     - Defeating the Gatekeeper after rescuing the child in any condition
-    - Tale of Bordaon 1 and Tale of Bordaon 2 knowledge from talking to the skeletons in Zone 4.
+    - Tale of Bordaon 1, Tale of Bordaon 2, knowledge from talking to the skeletons in Zone 4. and a name from the servant northwest of the Zone 9 Harken.   
 
 1. Talk to the maid at the Entrance to the Abyss
-2. Follow her to the temple and answer her questions correctly with the knowledge you have.
+2. Follow her to the temple and answer her questions correctly with the knowledge you have. (Ivo, Spear, Justina, Dalian)  
 3. Accept the request made by Dalian's wife. The conversation options with her are not important.
 4. Get more information at the Tavern, which leads you to the Royal Capital outskirts again. The Boss will be near the entrance. You must NOT take the harken around or the conversation will not trigger properly. You can choose to pay the adventurers off for 5k Gold or fight them (They are somewhat annoying as the thief can apply critical poison)
 5. Win or Lose the gambling event (it is rigged). You will engage in a fight afterwards. It is recommended to have Anti-Venom shields for this fight. If you lose the fight, you can resurrect and Lulunarde will tell you the trick to winning the gambling session. Obtain a mask and key.
