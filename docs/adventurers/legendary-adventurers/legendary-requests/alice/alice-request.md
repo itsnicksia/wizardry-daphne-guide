@@ -1,5 +1,8 @@
 # Preparation of an Offering to My God
 
+!!! note "New Adventurer Style Switching"
+    After completing the Personal Request, the Ally will get a new style. You can freely toggle between new and old styles by going to the Training Room and triple-clicking on their portrait.
+
 ## Request Requirements
 
 * Alice must in the party
