@@ -101,6 +101,7 @@
     | Condemn the Witch                                   | Burn the witch at the stake and put an end to the witch hunts.                     |
     | You Are Permitted to Call My Name, but Only Once    | Hand the witch over to Admiral Avare.                                              |
     | A Witch There Was                                   | Slay the witch and conclude the witch trial.                                       |
+    | Test of courage                                     | Willingly face down the white nullshadow and hold out against it until the very last moment. |
 
 === "Adventurer"
 
