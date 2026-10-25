@@ -5,7 +5,7 @@
 
 ## Request Requirements
 
-* Gerulf must be on the party
+* Gerulf must be in the party
 * Certain Trust Level must be achieved with Gerulf
 
 Once the requirements are met, the request will be available at the
