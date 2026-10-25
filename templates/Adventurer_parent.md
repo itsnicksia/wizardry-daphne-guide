@@ -57,8 +57,7 @@
 {% endif %}
 
 {% if chardata['Personal Request'] %}
-  
-!!! note "Personal Request Style Switching: After completing {{title}}'s Personal Request, you can freely toggle between new and old styles by going to the Training Room and triple-clicking on their portrait."
+    !!! note "Personal Request Style Switching: After completing {{title}}'s Personal Request, you can freely toggle between new and old styles by going to the Training Room and triple-clicking on their portrait."
 {% endif %}
 
 {% endblock PortraitSection %}
