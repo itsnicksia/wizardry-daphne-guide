@@ -241,7 +241,7 @@ Alternate Ending:
     ![](img/image_65.jpg)
 
 !!! note "Missing Request Fix"
-    Numerous users report this request not appearing.  If it is missing, cursed wheel to "Warped Scene", then <em>immediately</em> step back to go up to B7F without triggering the dialog giving the shield to Dylanhart. Step in the teleporter then Harken back to town.  The request should be there in the Guild.  Complete the quest then go beat Helmut before using the cursed wheel.
+    Numerous users report this request not appearing.  If it is missing, cursed wheel to "Warped Scene", then return to town before triggering the fight with the Ents just before the battle with Helmut.  (Users report that while on Floor 8 you can reverse the rock piles to make your return trip through floor 7 easier.)  You can head back up to floor 7, step in the teleporter, then Harken back to town and the request should be in the Guild. Complete the quest, then go beat Helmut before using the cursed wheel.
 <!-- --8<-- [end:cazula-root-delivery] -->
 
 ## The King’s Rescue
