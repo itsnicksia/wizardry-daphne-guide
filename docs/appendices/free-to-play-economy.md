@@ -51,7 +51,7 @@ Purple Gems must be purchased through one of the methods mentioned above.  Green
 | [Weekly Web Store one-time free gems](https://webstore.wizardry.info)| 800     | One time free gems at webstore after setting up a login with email and user ID              |
 | Tavern / Scrawny old man / Friend Invite activity | 25-100 each | When others use your code, you get gems as they progress throuh Beginning Abyss. Each milestone can be received 5x. | 
 | Abyss "Clearance Missions" completion       | ~1,000     | Each abyss has a no-time-limit mission set with gem completion reward.                                            |
-| [In-game Achievements](./achievements.md) | 20-50 each | Game progression and special milestones in combat successes, compendium/collection, etc.                            |
+| [In-game Achievements](./achievements.md) | 20-60 each | Game progression and special milestones in combat successes, compendium/collection, etc.                            |
 </div>
 
 ### Uses
