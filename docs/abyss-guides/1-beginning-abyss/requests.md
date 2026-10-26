@@ -35,13 +35,13 @@
     ![](img/image_5.jpg)
 
 - Go to Inn  
-- Go to B1 and find the herbs
+- Go to B1 and find the seeds
 
-??? map "Location"
+??? map "Possible Seed Locations"
     ![](img/image_6.jpg)
     
     !!! note
-        It's possible this is randomly in any small room
+        The seeds are found in one of the marked rooms at random
 <!-- --8<-- [end:fragrant-plant-seed-delivery] -->
 
 ### Scrap Sabaton Collection
