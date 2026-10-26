@@ -3,7 +3,7 @@
 === "Abyss"
 
     | Gems  | Name  | Description  | 
-    | :---: | :---- | :----------- | 
+    | :---- | :---- | :----------- | 
     | 20 | Beginning Abyss B1F Clear | Make it all the way through B1F of the Beginning Abyss. | 
     | 20 | Beginning Abyss B2F Clear | Make it all the way through B2F of the Beginning Abyss. | 
     | 20 | Beginning Abyss B3F Clear | Make it all the way through B3F of the Beginning Abyss. | 
@@ -113,7 +113,7 @@
 === "Adventurer"
 
     | Gems  | Name  | Description  | 
-    | :---: | :---- | :----------- | 
+    | :---- | :---- | :----------- | 
     | 20 | Quivering Slime | Ghreen Jelly becomes a Bondmate. | 
     | 20 | Water God Priestess Regia | Priestess Regia becomes a Bondmate. | 
     | 20 | Lucky Rabbit | Betrayer Bunny becomes a Bondmate. | 
@@ -191,7 +191,7 @@
 === "Equipment"
 
     | Gems  | Name  | Description  | 
-    | :---: | :---- | :----------- | 
+    | :---- | :---- | :----------- | 
     | 20 | Equipment Collector ★ | Acquire 30 types of equipment. | 
     | 20 | Equipment Collector ★★ | Acquire 50 types of equipment. | 
     | 20 | Equipment Collector ★★★ | Acquire 100 types of equipment. | 
@@ -264,7 +264,7 @@
 === "Battle"
 
     | Gems  | Name  | Description  | 
-    | :---: | :---- | :----------- | 
+    | :---- | :---- | :----------- | 
     | 20 | Battle-Hardened | Achieve 100 victories in battle. | 
     | 20 | Warrior of a Thousand Battles | Achieve 1,000 victories in battle. | 
     | 20 | Man Loved by the Goddess of Victory | Achieve 5,000 victories in battle. | 
@@ -297,7 +297,7 @@
 === "Explore"
 
     | Gems  | Name  | Description  | 
-    | :---: | :---- | :----------- | 
+    | :---- | :---- | :----------- | 
     | 20 | Acknowledged Fighter | Complete all fighter trials. | 
     | 20 | The Chosen Mage | Complete all mage trials. | 
     | 20 | Avowed Knight | Complete all knight trials. | 
@@ -320,7 +320,7 @@
 === "Other"
 
     | Gems  | Name  | Description  | 
-    | :---: | :---- | :----------- | 
+    | :---- | :---- | :----------- | 
     | 20 | Thief! | Have your money stolen at an inn. | 
     | 20 | It Itches! | Get an itch at an inn. | 
     | 20 | Living Large | Stay in a royal suite. | 
