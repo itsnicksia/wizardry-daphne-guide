@@ -7,7 +7,7 @@
 
 ## Request Requirements
 
-* Rinne (Standard style) must be in the party
+* Rinne must be in the party
 * Certain Trust Level must be achieved with Rinne.
 * Once the requirements are met, the request will appear in the Royal Capital Guild under the Featured Requests tab as "Secret Book Retrieval". (There is no cutscene to indicate the request has been added. She's a sneaky ninja.)  Accept the request and the Village of the Red Camellia will be added to the World Map.
 
