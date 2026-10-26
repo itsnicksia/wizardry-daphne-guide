@@ -22,7 +22,7 @@
      2. Breaths indicate weak enemies, quiet indicates enemies strong enough to high presense.  Answer:  Chose where she "can hear the breaths of more than one from beyond the door."
 - In the last room with a teleporter there is a chest with the real quest reward:  Dissipation Skill Scroll  
     
-!!! warning "DON'T LEAVE WITHOUT OPENING THE CHEST, YOU WON't BE ABLE TO GO BACK FOR IT"  
+!!! warning "DON'T LEAVE WITHOUT OPENING THE CHEST, YOU WON'T BE ABLE TO GO BACK FOR IT"  
 
 !!! note "According to game notes, certain items (likely indicating the Dissipation Scroll) can only ever be obtained once.  It is suspected this means performing the quest with multiple copies of Rinne would not result in the ability to get multiple scrolls, unlike objects obtained in other Legendary Requests."  
 
