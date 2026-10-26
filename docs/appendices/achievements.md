@@ -152,7 +152,7 @@
     | 20 | Those Who Attain Self-Discipline III | 5 allies have attained Discipline Level 6. | 
     | 20 | Those Who Attain Self-Discipline IV | 5 allies have attained Discipline Level 9. | 
     | 20 | Those Who Attain Self-Discipline V | 10 allies have attained Discipline Level 9. | 
-    | 20 | Meeting a Bondmate VI | 20 allies have attained Discipline Level 9. | 
+    | 20 | Those Who Attain Self-Discipline VI | 20 allies have attained Discipline Level 9. | 
     | 20 | Into the Well of the Mind | Unlock a Domain in the Well of the Mind. | 
     | 20 | Seeker of the Mind | Unlock Domains in the Well of the Mind 5 times. | 
     | 20 | Mind that Transcends All Deaths | Unlock Domains in the Well of the Mind 12 times. | 
@@ -333,7 +333,6 @@
     | 50 | 100th Login | Log in for a total of 100 days. | 
     | 50 | 300th Login | Log in for a total of 300 days. | 
     | 50 | 500th Login | Log in for a total of 500 days. | 
-    | 50 | 1,000th Login | Log in for a total of 1,000 days. | 
     | 20 | Character Aficionado | Record 10 characters in the Characters category of the Compendium. | 
     | 20 | Character Aficionado II | Record 30 characters in the Characters category of the Compendium. | 
     | 20 | Character Aficionado III | Record 50 characters in the Characters category of the Compendium. | 
