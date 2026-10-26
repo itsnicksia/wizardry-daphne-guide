@@ -5,5 +5,9 @@
 
 ## Request Requirements
 
-* Rinne must be on the party
+* Rinne must be in the party
 * Certain Trust Level must be achieved with Rinne.
+
+## Map
+
+![](img/rinne_request_map.jpg)
