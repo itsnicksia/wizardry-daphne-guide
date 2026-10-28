@@ -57,28 +57,28 @@ The following table gives you details about the Lamps that unlock more of the We
 
 | Guiding Light | Bonus Mind Pearls<sup>†</sup> | Abyss | Method to Obtain  | Approx. Unlock Order |
 |:------------- | :-----: | :-----: |:---------------------------- | :-----: |
-| <span style="color: #FF0000">STR 1</span>   |    4   | Abyss 1 | Obtained after unlocking the Cursed Wheel | 1 |
-| <span style="color: #FF0000">STR 2</span>   |  3     |Abyss 4 | Learn the first reversal power during the chase sequence in Route 5   | 18 |
-| <span style="color: DarkOrange">VIT 1</span>        |    4    | Abyss 1 |  Complete the Beginning Abyss and save the King | 2 |
-| <span style="color: DarkOrange">VIT 2</span>        |  1  | Abyss 3 |  Activate the Golem before the boss fight in Guarda Fortress Abyss | 13 |
-| <span style="color: LimeGreen">PIE</span>          |  4  | Abyss 2 |  Beat Melgina for the first time, regardless of missing person request taken | 6 |
-| <span style="color: DodgerBlue">IQ 1</span>          |  4   | Abyss 2 |  Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time. This must now be done on your second or later time defeating either Melgina or Octo. It cannot be obtained on your first attempt anymore | 7 |
-| <span style="color: DodgerBlue">IQ 2</span>          |  3   | Abyss 4 | Beat the Greater Warped One a second time (requires fixing the cabin) | 19 |
-| <span style="color: cyan">SPEED</span>       |  4   | Abyss 2 |  3rd District - Iron Gate Street. Complete the inspection on Guane territory (first time on any path) | 4 |
-| <span style="color: yellow">DEX 1</span>       | 4 | Abyss 2 |  4th District - Boulevard. After solving the drowning water god statue trap, go back to town and something will have changed in the Well of the Mind | 5 |
-| <span style="color: yellow">DEX 2</span>       | 1 | Abyss 3 |  Get the "Good" Ending in Guarda Fortress Abyss  | 15 |
-| <span style="color: #877698">SHADOW</span>      | 1 | Abyss 3 |  Complete the 2nd Part of the [Plot of the Sand Shadow Quest](../events/plot-of-the-sand-shadow/plot-of-the-sand-shadow.md#guide-for-2nd-part)  | 14 |
-| <span style="color: #990000">HONOR</span>   |    3   | Abyss 4 | Complete the 2nd Part of the [Vendetta on the Island of the Wailing Oni Quest](../events/vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni.md#guide-for-2nd-part) | 20 |
-| <span style="color: MediumOrchid">LUCK 1</span>  |   1   | Abyss 1 |  Get the perfect ending (+Albano quest) in Beginning Abyss  | 3 |
-| <span style="color: MediumOrchid">LUCK 2</span>  |   1   | Abyss 2 |  Save [Bonnie and Clyde](../abyss-guides/2-port-town-grand-legion/requests.md#delivering-chamomile-for-the-dead) | 8 |
-| <span style="color: MediumOrchid">LUCK 3</span>  |   1   | Abyss 2 | Get all three best endings on [Viscount Guane request](../abyss-guides/2-port-town-grand-legion/requests.md#viscount-guane) | 9 |
-| <span style="color: MediumOrchid">LUCK 4</span>  |   1   | Abyss 2 |  Defeat Octanarus | 10 |
-| <span style="color: MediumOrchid">LUCK 5</span>  |   1   | Abyss 2 |  Clear all 3 main Port Town requests | 11 |
-| <span style="color: MediumOrchid">LUCK 6</span>  |   1   | Abyss 2 |  Clear the Monster Soup quest for Pickerel | 12 |
-| <span style="color: MediumOrchid">LUCK 7</span>  |   1   | Abyss 3 |  [Stop the Mastermind and Save the Duke](../abyss-guides/3-guarda-fortress/important-request-gwo.md#stop-the-mastermind-and-save-the-duke) ending in Guarda Fortress Abyss | 17 |
-| <span style="color: MediumOrchid">LUCK 8</span>  |   1   | Abyss 3 |  Get the perfect ending for all three [Old District (Slum) Faction](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests) requests| 16 |
-| <span style="color: MediumOrchid">LUCK 9</span> |   1   | Abyss 4 | Get all three best endings on [Witch Hunt in Elden Hill Village](../abyss-guides/4-isberg/faction-requests.md#witch-hunt-in-elden-hill-village-faction-1-requests) for details | 21 |
-| <span style="color: MediumOrchid">LUCK 10</span> |   1   | Abyss 4 | Defeat the final version (4th fight) of the GWO | 21 |
+| <span style="color: #FF0000">STR 1</span>   |    4   | 1 | Obtained after unlocking the Cursed Wheel | 1 |
+| <span style="color: #FF0000">STR 2</span>   |  3     | 4 | Learn the first reversal power during the chase sequence in Route 5   | 18 |
+| <span style="color: DarkOrange">VIT 1</span>        |    4    |  1 |  Complete the Beginning Abyss and save the King | 2 |
+| <span style="color: DarkOrange">VIT 2</span>        |  1  |  3 |  Activate the Golem before the boss fight in Guarda Fortress Abyss | 13 |
+| <span style="color: LimeGreen">PIE</span>          |  4  |  2 |  Beat Melgina for the first time, regardless of missing person request taken | 6 |
+| <span style="color: DodgerBlue">IQ 1</span>          |  4   |  2 |  Save the missing person, including speaking to him on deck, prior to killing either Melgina or Octo for the second time. This must now be done on your second or later time defeating either Melgina or Octo. It cannot be obtained on your first attempt anymore | 7 |
+| <span style="color: DodgerBlue">IQ 2</span>          |  3   |  4 | Beat the Greater Warped One a second time (requires fixing the cabin) | 19 |
+| <span style="color: cyan">SPEED</span>       |  4   |  2 |  3rd District - Iron Gate Street. Complete the inspection on Guane territory (first time on any path) | 4 |
+| <span style="color: yellow">DEX 1</span>       | 4 |  2 |  4th District - Boulevard. After solving the drowning water god statue trap, go back to town and something will have changed in the Well of the Mind | 5 |
+| <span style="color: yellow">DEX 2</span>       | 1 |  3 |  Get the "Good" Ending in Guarda Fortress Abyss  | 15 |
+| <span style="color: #877698">SHADOW</span>      | 1 |  3 |  Complete the 2nd Part of the [Plot of the Sand Shadow Quest](../events/plot-of-the-sand-shadow/plot-of-the-sand-shadow.md#guide-for-2nd-part)  | 14 |
+| <span style="color: #990000">HONOR</span>   |    3   |  4 | Complete the 2nd Part of the [Vendetta on the Island of the Wailing Oni Quest](../events/vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni.md#guide-for-2nd-part) | 20 |
+| <span style="color: MediumOrchid">LUCK 1</span>  |   1   |  1 |  Get the perfect ending (+Albano quest) in Beginning Abyss  | 3 |
+| <span style="color: MediumOrchid">LUCK 2</span>  |   1   |  2 |  Save [Bonnie and Clyde](../abyss-guides/2-port-town-grand-legion/requests.md#delivering-chamomile-for-the-dead) | 8 |
+| <span style="color: MediumOrchid">LUCK 3</span>  |   1   |  2 | Get all three best endings on [Viscount Guane request](../abyss-guides/2-port-town-grand-legion/requests.md#viscount-guane) | 9 |
+| <span style="color: MediumOrchid">LUCK 4</span>  |   1   |  2 |  Defeat Octanarus | 10 |
+| <span style="color: MediumOrchid">LUCK 5</span>  |   1   |  2 |  Clear all 3 main Port Town requests | 11 |
+| <span style="color: MediumOrchid">LUCK 6</span>  |   1   |  2 |  Clear the Monster Soup quest for Pickerel | 12 |
+| <span style="color: MediumOrchid">LUCK 7</span>  |   1   |  3 |  [Stop the Mastermind and Save the Duke](../abyss-guides/3-guarda-fortress/important-request-gwo.md#stop-the-mastermind-and-save-the-duke) ending in Guarda Fortress Abyss | 17 |
+| <span style="color: MediumOrchid">LUCK 8</span>  |   1   |  3 |  Get the perfect ending for all three [Old District (Slum) Faction](../abyss-guides/3-guarda-fortress/requests.md#old-district-slum-faction-quests) requests| 16 |
+| <span style="color: MediumOrchid">LUCK 9</span> |   1   |  4 | Get all three best endings on [Witch Hunt in Elden Hill Village](../abyss-guides/4-isberg/faction-requests.md#witch-hunt-in-elden-hill-village-faction-1-requests) for details | 21 |
+| <span style="color: MediumOrchid">LUCK 10</span> |   1   |  4 | Defeat the final version (4th fight) of the GWO | 21 |
 
 <sup>†</sup> <small>You start with 4 Mind Pearls. Obtaining all currently available Lamps will give you a total of 50 Mind Pearls. (updated 4 Apr 2026)</small>  
 
