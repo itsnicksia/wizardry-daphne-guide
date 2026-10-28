@@ -44,27 +44,6 @@ Red -> Blue -> Green
 ![](img/route2.jpg)
 ![](img/route3.jpg)
 
-## Guide for 2nd Part:
-
-!!! Danger "There is a part in this where you will need to permanently delete an adventurer if your main character isn't EVIL alignment. Be sure to UNLOCK the adventurer beforehand. The adventurer that is sacrificed will return all their equipped gear/items."
-
-There are two parts for the Trial of the Heat Haze. 
-
-The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs. If you are Evil Alignment, you will receive the guiding light at this point. However, if you are not, there will be a 2nd part to the trial.
-
-!!! note "If you plan to bring a low level adventurer in here, keep in mind there is a mandatory spike trap at the end that will deal around 60-70 HP. It is recommended to accomodate for such."
-
-The 2nd part requires you to select only 1 adventurer to bring with you and walk through another dungeon with significantly easier enemies (singlar ninja). Upon reaching the end you MUST sacrifice the adventurer you bring with you (You will have to fight them. Select stand your ground.) They will be PERMANENTLY deleted if you confirm to do so. You will be warned multiple times before fully committing, so feel free to back out of this and bring a more disposable adventurer if possible. 
-
-### Maps:
-
-??? note "Maps:"
-    ![](img/trial-of-heat-haze-b1f.jpg)
-    ![](img/trial-of-heat-haze-b2f.jpg)
-
-### Reward:
-
-![](img/ninja-guiding-light.jpg)
 
 ### Farming Routes
 
@@ -102,6 +81,30 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
     9. Repeat.  
     (If sufficiently confident, turn on keep-on Auto-combat)
     
+
+
+
+## Guide for 2nd Part:
+
+!!! Danger "There is a part in this where you will need to permanently delete an adventurer if your main character isn't EVIL alignment. Be sure to UNLOCK the adventurer beforehand. The adventurer that is sacrificed will return all their equipped gear/items."
+
+There are two parts for the Trial of the Heat Haze. 
+
+The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs. If you are Evil Alignment, you will receive the guiding light at this point. However, if you are not, there will be a 2nd part to the trial.
+
+!!! note "If you plan to bring a low level adventurer in here, keep in mind there is a mandatory spike trap at the end that will deal around 60-70 HP. It is recommended to accomodate for such."
+
+The 2nd part requires you to select only 1 adventurer to bring with you and walk through another dungeon with significantly easier enemies (singlar ninja). Upon reaching the end you MUST sacrifice the adventurer you bring with you (You will have to fight them. Select stand your ground.) They will be PERMANENTLY deleted if you confirm to do so. You will be warned multiple times before fully committing, so feel free to back out of this and bring a more disposable adventurer if possible. 
+
+### Maps:
+
+??? note "Maps:"
+    ![](img/trial-of-heat-haze-b1f.jpg)
+    ![](img/trial-of-heat-haze-b2f.jpg)
+
+### Reward:
+
+![](img/ninja-guiding-light.jpg)
 
 ## Guide for Follow Up Request of the Same Name
 
