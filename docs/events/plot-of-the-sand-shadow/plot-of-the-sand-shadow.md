@@ -82,11 +82,26 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
     ![](img/farming/social-farm.jpg)
 
 === "No Boss Farming Route Full Clear - Zellwëger"
-    ![](img/ssc-farm-no-boss-1.png)
-    ![](img/ssc-farm-no-boss-2.png)
-    ![](img/ssc-farm-no-boss-3.png)
+    ![](img/farming/ssc-farm-no-boss-1.jpg)
+    ![](img/farming/ssc-farm-no-boss-2.jpg)
+    ![](img/farming/ssc-farm-no-boss-3.jpg)
 
     To do the farm, please follow the arrows from the entrance and the corresponding numbers
+
+=== "Nrjank braindead chest farm"  
+    ![](img/farming/nrjank-ssc1farm.jpg)  
+
+    1. Set two check marks as shown.  
+    2. Enter cave. Auto-to-check (lower left).  
+    3. Step forward down stairs.   
+    4. Auto-to-chest until no chests.  
+    5. Auto-exit.  
+    6. Auto-to-check (upper right), 100% combat no ambush.  
+    7. Auto-to-chest until no chests.  
+    8. Auto-to-exit.  
+    9. Repeat.  
+    (If sufficiently confident, turn on keep-on Auto-combat)
+    
 
 ## Guide for Follow Up Request of the Same Name
 
