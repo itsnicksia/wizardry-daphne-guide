@@ -56,7 +56,7 @@ The following table gives you details about the Lamps that unlock more of the We
     Note the number of pearls unlocked by each Lamp listed below is based on inital tests, but has recently been reported as inconsistent between players. It appears the total is fixed but the per-Lamp amount can vary depending on the order in which they are unlocked.  
 
 | Guiding Light | Bonus Mind Pearls<sup>†</sup> | Abyss | Method to Obtain  | Approx. Unlock Order |
-|:------------- | :-----: |:---------------------------- | :-----: |
+|:------------- | :-----: | :-----: |:---------------------------- | :-----: |
 | <span style="color: #FF0000">STR 1</span>   |    4   | Abyss 1 | Obtained after unlocking the Cursed Wheel | 1 |
 | <span style="color: #FF0000">STR 2</span>   |  3     |Abyss 4 | Learn the first reversal power during the chase sequence in Route 5   | 18 |
 | <span style="color: DarkOrange">VIT 1</span>        |    4    | Abyss 1 |  Complete the Beginning Abyss and save the King | 2 |
