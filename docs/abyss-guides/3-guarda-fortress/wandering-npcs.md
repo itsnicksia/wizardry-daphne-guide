@@ -18,6 +18,14 @@ Made a deal with Morgus, now making deals with you.
     - Personality Impact: None known.  
     - Notes: The cooldown timer on Remains and Tallow appear to be 7 days from the last time collected, not tied to the weekly game reset.  If you have insufficient gold, the interaction will be dismissed without affecting any cooldown timers.  
 
+## Master Tomb Raider
+"No, no relation. I know we look very similar. I get that all the time."
+![](./img/a3-master-tomb-raider.jpg)  
+??? note "Details"  
+    - Location: Zones 1 - ?
+    - The Master Tomb Raider will sell you some slightly higher quality Fortress junk for 2,000 gp.  
+    - Personality Impact: None known.  
+
 
 ## Lingering Memories
 The poster child for the need for work-life balance programs.  
