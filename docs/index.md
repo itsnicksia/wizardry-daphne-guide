@@ -126,6 +126,7 @@ While we love that you come to this site for your Wizardry Variants Daphne needs
     - Follow along with her in this commented directory of images and videos as she takes MC through as much content as possible solo
 - [CQ's Jeweler Price Evaluator](https://docs.google.com/spreadsheets/d/1ITOduyH5KIfmxcwUk7lXLROQUHE0v4iJXKY7bJ3MwIU/edit?gid=1551869307#gid=1551869307)
     - We'll also eventually absorb this one into the site, but for now, look at it here
+- [MAGOATO'S Video Beginner Guide](https://www.youtube.com/watch?v=4JzoLOzFH-Y&t=1013s)
 - [Shiro's Not So Short Guide Spreadsheet](https://docs.google.com/spreadsheets/d/1ft6ovj212BiTIBlWihbFX2robYwwevsi0jJzkzo6E3s/edit?gid=1465709314#gid=1465709314)
 
 !!! warning "Obligatory Disclaimer"
