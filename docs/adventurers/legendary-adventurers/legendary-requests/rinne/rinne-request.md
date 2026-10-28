@@ -15,11 +15,12 @@
 
 ## Guide
 
-- It's a fairly straightforward ~~dungeon~~ village.  
+- It's a fairly straightforward ~~dungeon~~ village.  Random encounters include different insects and some undead. 
 - You will have a series of interacitons throughtout the dungeon to expand on character lore  
-- Twice, you will be asked questions, and those questions will result in you going through one of two doors. Either answer will result in a fight, but the wrong answer will have a harder fight.   
+- Twice, you will be asked questions, and those questions will result in you going through one of two doors. Either answer will result in a fight, but the wrong answer will have a harder fight. Easier fights are equivalent to random wandering mobs.  
      1. When the path is lost due to snow, which should you follow? Right for dog, left for horse.  Answer: Horse  
      2. Breaths indicate weak enemies, quiet indicates enemies strong enough to high presense.  Answer:  Chose where she "can hear the breaths of more than one from beyond the door."
+- Before the last room shortly after encountering some 'ghosts', there will be a boss fight against a Necrocore and a a few other undead. 
 - In the last room with a teleporter there is a chest with the real quest reward:  Dissipation Skill Scroll  
     
 !!! warning "DON'T LEAVE WITHOUT OPENING THE CHEST, YOU WON'T BE ABLE TO GO BACK FOR IT"  
