@@ -367,7 +367,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Bloodwood            | 4053              |
 | Hexdoll's Fleeing Step                     | ASPD Up, HP Down                     | Good        | Cursed Sack Doll       | Hexdoll Gleamblight                     | 4054              |
 | Restless Currency's Tentacles              | Disarm Trap Up, Dark Res Down        | Neutral     | Creeping Coin          | Restless Currency Gleamblight           | 4055              |
-| Merfolk's Scaleskin                        | Water Res Up, Divine Power Down      | Good        | Sahuagin               | Merfolk Spiritcoral                     | 4056              |
+| Merfolk's Scaleskin                        | Water Res Up, Divine Down            | Good        | Sahuagin               | Merfolk Spiritcoral                     | 4056              |
 | Merfolk Bowman's Energy Flow               | SP Up, Res Down                      | Good        | Sahuagin Archer        | Merfolk Bowman Bloodwood                | 4057              |
 | Merfolk Spellcaster's Spirit Flow          | Magic Up, Res Down                   | Neutral     | Sahuagin Mage          | Merfolk Spellcaster Cursefruit          | 4058              |
 | Reptilian's Pupils                         | Acc Up, Air Res Down                 | Good        | Lizardman              | Reptilian Bloodwood                     | 4059              |
