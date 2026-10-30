@@ -1,52 +1,57 @@
 ### Page 1  
-Lanavaille was a queen who founded her own kingdom during an era of petty kingdoms. Her life was an epic tale of war and love.
+In the Age of Small Kingdoms, Lanavaille rose to become a founding queen. Her life has been handed down through the ages as an epic of war and love.
 
-She was born in the small frontier Kingdom of Chloroa, wedged between the kingdoms of Magill to the east and Sui to the west, both of similar size. The three kingdoms, which fought over borders, had long maintained maintaining a sort of balance, but at one point the eastern and western countries joined forces and invaded Chloroa together.
+She was born in Chloroa, a little kingdom on the frontier, nestled between two realms of much the same size: the Kingdom of Magill to the east and the Kingdom of Sui to the west. For many long years the three kingdoms quarreled over their borders yet kept a careful balance, until one day the eastern and western kingdoms joined hands and marched to war against Lanavaille's Chloroa.
 
-The king of Chloroa, Lanavaille's father, was a brave warrior who had conquered each of the barbarian tribes that had ravaged the country. Both the eastern and western kingdoms felt threatened by Chloroa's emergence under Lanavaille's father.
+Lanavaille's father, the King of Chloroa, was a wise ruler renowned for his valor, who had subdued, one after another, the barbarian tribes that plagued his land. Chloroa had grown strong under his reign, and the kingdoms to the east and west had come to fear it.
 
-The Chloroan king led an army against this unprecedented danger. Fifteen-year-old Lanavaille, the only daughter of the late queen, secluded herself in the temple to pray for victory in the war.
+Faced with a peril such as the kingdom had never known, the king marched forth to battle, taking even his page boys along with him. And fifteen-year-old Lanavaille, the only child the late queen had left behind, shut herself away in the temple to pray for victory.
 
 ### Page 2  
-The war raged for three months and Chloroa's forces held out against both armies all the way to the capital. But, frustrated with this tenacity, the rival kings led in reinforcements and brought down the Chloroan king who had fought so hard. The front line collapsed and the Chloroan forces scattered.
+For three months the war dragged on, and though the two armies drove them back almost to the royal capital, the Chloroans held firm. But at last the two kings, their patience worn thin, rode into battle themselves with fresh troops, and the King of Chloroa, who had fought so valiantly, was struck down. The front lines crumbled, and the Chloroan army was scattered to the winds.
 
-Their king lost, the panicked retainers gathered. The only royal left was Princess Lanavaille in the temple. They argued about which nation to align with, and whether to give the princess as a bride or to offer her head. A messenger rushed into this tumult bearing word that the princess herself joined battle on her own.
+Their king lost, the retainers hurriedly gathered in council. Only one of royal blood remained in the kingdom: Princess Lanavaille, in the temple. Which of the two advancing kingdoms should they side with? Should they give the princess away as a bride, or simply offer up her head? The council fell into an uproar. Into that clamor burst a messenger with urgent news: the princess had departed for the battlefield all on her own.
 
-Before leaving, Lanavaille had sent messages to each of the other kings. "The crown of Chloroa shall belong to the victor of Hoplier Plains."
+Before leaving the castle, she had sent a letter ahead to each of the two kings: 'The crown of Chloroa shall belong to the one who wins victory on the Plains of Hoplier.'
 
-If they wanted the only daughter of Chloroa's king, if they wanted the kingdom itself, they had to settle it there. Standing at Hoplier with only a handful guards, she was the image of a youthful and graceful princess, even if her face could not be seen from a distance.
+If they wanted the only daughter of Chloroa's king, and this kingdom with her, they must settle the matter there. The princess who alighted upon the Plains of Hoplier with only a few guards at her side was too far away for anyone to make out her face, yet she appeared every inch a young and graceful princess.
 
 ### Page 3  
-When the kings of Magill and Sui saw Lanavaille in the distance, they immediately turned their armies on each other and began attacking. The alliance between the two countries was easily broken.
+The moment the kings of Magill and Sui laid eyes on the princess, they turned their armies upon each other and began to attack. Just like that, their alliance was broken.
 
-The two countries are evenly matched. The armies fought fiercely, with even their kings drawing their blades and joining the fray. As the fought, a storm of arrows suddenly rained down on both armies.
+The two kingdoms were all but evenly matched. Their soldiers slew one another, and the battle grew so fierce that the kings themselves drew their swords. Then, in the thick of it, a great storm of arrows suddenly rained down upon both armies.
 
-The soldiers of the Magill and Sui kingdoms had come to find themselves surrounded by Chloroa's forces, which was believed to have been scattered. Standing at the forefront, sword held high and clad in armor, was the princess general, her golden hair whipping in the wind. It was the true Princess Lanavaille, who until then, had disguised herself as an attendant as her double stood in her place.
+Before they knew it, the soldiers of Magill and Sui found themselves surrounded by the Chloroan army, the very army that was thought to have been scattered. At its head, sword raised high, stood a princess general clad in armor, her long golden hair streaming in the wind. This was the true Princess Lanavaille, who until that day had hidden herself in the guise of a humble attendant.
 
-The soldiers, having already slain each other in great numbers, fell to arrows one-by-one. Staggered by their predicament, the two kings were cornered by Lanavaille who took both their heads.
+Their ranks already thinned from fighting one another, the enemy soldiers fell one by one to the arrows. As the two kings stood stunned at their plight, Lanavaille ran them down in the blink of an eye and struck off their heads.
 
 ### Page 4  
-The day the war began, Lanavaille's father had ordered her to join the battle while pretending to be in the temple. From the age of 12, she had been taken out to the front lines, disguised as a page boy, and trained by her father in the ways of life and death. Even now she was a greater warrior than the Chloroan king.
+On the day the war began, Lanavaille had been commanded by her father to feign seclusion in the temple and secretly follow him to the field of battle. Since the age of twelve she had been taken to the front lines dressed as a page boy, and there, between life and death, her father had trained her. By now she had become an even greater master of war than the King of Chloroa himself.
 
-Having them battle each other to weaken both sides, and then ambush them was the strategy Lanavaille and the late king had devised in response to the plight of their homeland.
+Let the enemies strike each other down and wear away each other's strength, then fall upon them by surprise: this was the plan the late king and Lanavaille had devised to save their homeland in its darkest hour.
 
-"Father taught me with his life that there is no royal who would not sacrifice themself to protect their country, and what is a king that cannot defend country or people?" With that, the princess raised her father's sword, and every last one of her soldiers prepared themself to fight to the death.
+"At the cost of his own life, my father taught me this: 'If you are of royal blood, be ready to lay down your life for your kingdom. For what is a king who cannot protect the land and its people?'"
+So saying, the princess raised her father's sword high, and every one of her soldiers resolved to fight on unto death.
 
-"I am the ruler of Chloroa!" It is said that as Lanavaille held forth the heads of the two kings and made this declaration, the Hoplier Plains resounded with the cheers of the Chloroan soldiers.
+"I am the King of Chloroa!"
+It is said that when Lanavaille made this declaration before the heads of the two kings, the Plains of Hoplier rang with the cheers of Chloroa's host.
 
 ### Page 5  
-She then led her army into the other two kingdoms, and within a year, had conquered them both. She has become the most beloved queen of the people of Chloroa, taking up the reign of her hot-blooded father.
+She then marched her army into the two kingdoms and, within a single year, brought them both to heel. Seeking to carry on the rule of her bold and fiery father, she became the most beloved queen the people of Chloroa had ever known.
 
-Soon after, however, Queen Lanavaille stopped appearing before her people. An announcement was made by the government that the queen had taken a serious illness.
+But then, one day, Queen Lanavaille suddenly vanished from the sight of her people. The crown proclaimed that the queen had fallen gravely ill.
 
-However, it was all so sudden that the people did not readily believe it. That the queen, the woman who had led her country in battle and had unified the three kingdoms, would be defeated by mere illness.
+Yet the news came so suddenly that the people would not easily believe it. This queen, who though a woman had led her armies from the very front and had even united the three kingdoms, struck down by an illness?
 
-When people began to whisper that the young queen had met with insurrection, or that she'd been locked away or worse, rumors began to spread in the city that the queen had been seen.
+Had the young queen met with treachery? Was she being secretly held in captivity? Just as such dark whispers began to stir through the streets, rumors arose among the common folk that someone had caught sight of the queen.
 
 ### Page 6  
-A beautiful woman with golden hair had been seen quietly leaving the castle and slipping into town, led by a man who seemed like a knight. Though she was dressed as a commoner, it was undoubtedly Queen Lanavaille. This rumor of unknown origin spread like wildfire among the people, spoken about as if someone had indeed seen them.
+On a bright moonlit night, a beautiful golden-haired woman, led by the hand of a man who seemed to be a knight, had slipped quietly away into the town below the castle. Though she was dressed like a commoner, there was no mistaking her: it was Queen Lanavaille. No one knew where the tale had begun, yet it passed from mouth to mouth as though someone had seen it with their own eyes.
 
-Lanavaille was adored by her people. "Queen Lanavaille has fallen in love with a scoundrel." "She's renounced her throne and run away for love." some said. But finally, perhaps wishing her well, despite the sadness of her flight, it was said "She left with a look of happiness."
+Lanavaille was dearly loved by her people.
+"Queen Lanavaille fell in love with someone she was forbidden to love."
+"And so she cast aside her crown and vanished, to live for love."
+The people wept and grieved over their queen's flight, yet perhaps out of a wish that it were true, the tale always ended the same way: "She went away with a happy look upon her face."
 
-And so, unknowingly, Lanavaille's life came to be told as a romantic tale.
+And so, in the course of time, Lanavaille's life came to be told as a tale of beauty.
 
