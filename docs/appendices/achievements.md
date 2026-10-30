@@ -187,6 +187,11 @@
     | 20 | Thundersmiter's Vow | Bear witness to the vow of Gerard's past with your ally. | 
     | 20 | Sentiments of the Owen Family | Learn the true intentions of House Owen with your ally. | 
     | 20 | The Red Camellia Has Yet to Fall | Find the Village of the Red Camellia's Scroll of Secret Teachings with your ally. | 
+    | 20 | Painting Collector I | Acquire 1 painting. | 
+    | 20 | Painting Collector II | Acquire 5 paintings. | 
+    | 20 | Painting Collector III | Acquire 10 paintings. | 
+    | 20 | Painting Collector IV | Acquire 20 paintings. | 
+
 
 === "Equipment"
 
