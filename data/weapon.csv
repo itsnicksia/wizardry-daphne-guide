@@ -92,7 +92,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 200,1H_Sword!A200,1H_Sword,Ex.,Stormbringer,Silver,2,,5520,75,0,0,0,0,2,10,0,1,0,97,0,0,0,0,4,10,0,1,0,115,0,0,0,0,5,10,0,1,0,128,0,0,0,0,6,10,0,1,0,134,0,0,0,0,7,10,0,1,0,"Air Type, Inflict Paralysis"
 206,1H_Sword!A206,1H_Sword,Ex.,Excalibur [XI],Silver,2,,,64,0,0,0,0,0,10,0,2,0,82,0,0,0,0,0,10,0,2,0,100,0,0,0,0,0,10,0,2,0,118,0,0,0,0,0,10,0,2,0,136,0,0,0,0,0,10,0,2,0,"Always 4* Red with fixed type ATK/ACC/EVA/ATK%, Knights of Round, Power of Excalibur"
 212,1H_Sword!A212,1H_Sword,Ex.,Guardian Blade of Lacus,Silver,2,,5520,69,0,0,0,0,0,20,0,2,0,91,0,0,0,0,0,20,0,2,0,109,0,0,0,0,0,20,0,2,0,122,0,0,0,0,0,20,0,2,0,128,0,0,0,0,0,20,0,2,0,Sigil of Indomitability
-218,1H_Sword!A218,1H_Sword,Ex.,Noir Sword,Silver,2,,,46,0,0,7,0,0,10,0,2,0,68,0,0,12,0,0,10,0,2,0,86,0,0,16,0,0,10,0,2,0,99,0,0,18,0,0,10,0,2,0,,,,,,,,,,,Phalanx
+218,1H_Sword!A218,1H_Sword,Ex.,Noir Sword,Silver,2,,,46,0,0,7,0,0,10,0,2,0,68,0,0,12,0,0,10,0,2,0,86,0,0,16,0,0,10,0,2,0,99,0,0,18,0,0,10,0,2,0,105,0,0,20,0,0,10,0,2,0,Phalanx
 224,1H_Sword!A224,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 230,1H_Sword!A230,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 236,1H_Sword!A236,1H_Sword,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -364,7 +364,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 122,2H_Spear!A122,2H_Spear,213,Seafoam Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Water Type"
 128,2H_Spear!A128,2H_Spear,Ex.,Whilring Tiger,Silver,1,,,115,0,0,0,0,0,10,3,7,0,138,0,0,0,0,0,10,3,7,0,160,0,0,0,0,0,10,3,7,0,183,0,0,0,0,0,10,3,7,0,205,0,0,0,0,0,10,3,7,0,"Strength-Based +, Evasive Heavy Strike"
 134,2H_Spear!A134,2H_Spear,Ex.,Mizukage Naginata,Silver,1,,,107,0,0,0,0,0,15,0,5,0,146,0,0,0,0,0,15,0,5,0,173,0,0,0,0,0,15,0,5,0,186,0,0,0,0,0,15,0,5,0,190,0,0,0,0,0,15,0,5,0,"Strength-Based +, Attack/Divine Power Conversion"
-140,2H_Spear!A140,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,2H_Spear!A140,2H_Spear,Ex.,Hunter's Spear,Silver,1,,,88,0,0,0,0,0,50,0,5,0,127,0,0,0,0,0,55,0,5,0,154,0,0,0,0,0,59,0,5,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Sleep, Swooning Thrust Learned"
 146,2H_Spear!A146,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,2H_Spear!A152,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 158,2H_Spear!A158,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -451,7 +451,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 128,2H_Staff!A128,2H_Staff,Ex.,Red Spinner Scissor Staff,Silver,1,,,56,133,121,0,0,0,0,0,-4,0,95,166,154,0,0,0,0,0,-4,0,122,193,181,0,0,0,0,0,-4,0,135,212,200,0,0,0,0,0,-4,0,139,222,210,0,0,0,0,0,-4,0,"Strength-Based +, Status Affliction/Debuff Exploit"
 134,2H_Staff!A134,2H_Staff,Ex.,Ritual Staff of Effulgence,Silver,1,,,46,123,141,0,0,0,0,0,-4,0,85,156,174,0,0,0,0,0,-4,0,112,183,201,0,0,0,0,0,-4,0,125,202,220,0,0,0,0,0,-4,0,129,212,230,0,0,0,0,0,-4,0,"Strength-Based +, Searing Light of Purification"
 140,2H_Staff!A140,2H_Staff,Ex.,Claustrum,Silver,1,,,40,108,108,0,0,0,0,0,-4,0,73,136,136,0,0,0,0,0,-4,0,99,162,162,0,0,0,0,0,-4,0,122,190,190,0,0,0,0,0,-4,0,139,216,216,0,0,0,0,0,-4,0,"Always 4* Red with fixed type MAG/DIV/MAG%/DIV%, Strength-Based +, Gate of Tartarus, Power of Claustrum"
-146,2H_Staff!A146,2H_Staff,Ex.,Staff of Yawns,Silver,1,,,18,126,92,0,0,7,0,0,-4,0,57,159,125,0,0,9,0,0,-4,0,84,186,152,0,0,10,0,0,-4,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, AoE Spell Enhancement, Dark AoE Spell Enhancement, AoE Spell Comprehension"
+146,2H_Staff!A146,2H_Staff,Ex.,Staff of Yawns,Silver,1,,,18,126,92,0,0,7,0,0,-4,0,57,159,125,0,0,9,0,0,-4,0,84,186,152,0,0,10,0,0,-4,0,97,205,171,0,0,11,0,0,-4,0,101,215,181,0,0,12,0,0,-4,0,"Strength-Based +, AoE Spell Enhancement, Dark AoE Spell Enhancement, AoE Spell Comprehension"
 152,2H_Staff!A152,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 158,2H_Staff!A158,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 164,2H_Staff!A164,2H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
