@@ -43,6 +43,7 @@
 
     - [Respawn Tracker](./tools/tracker.md)
     - [Loot Finder](./tools/loot-finder.md)
+    - [Yekaterina Ambush Prevention Calculator](./tools/ambush-calculator.md)  
     - [Equipment Enhancement (Beta)](./tools/equipment-enhancement.md)
 
 -   __Game Download__
