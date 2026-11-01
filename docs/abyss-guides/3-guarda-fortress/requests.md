@@ -221,7 +221,7 @@ Upon stepping foot into Zone 5 and returning, you will receive a message from th
         The map location shown is what the hallway looks like. It can be in different locations depending on the map variation. If the quest does not trigger at that spot, it will trigger in topmost room across from the hallway.
 
 ??? note "Rewards"
-    Returning the skeleton's friend will grant 2 random Abyss 3 junks and the bondmate "Singing Skeleton in the Tunnel", who is a dark element bondmate that gives defense power.
+    Winning within the turn limit and returning the skeleton's friend will grant 2 random Abyss 3 junks and the bondmate "Singing Skeleton in the Tunnel", who is a dark element bondmate that gives defense power.
 
 ## Portrait Gallery Minor Harken
 
