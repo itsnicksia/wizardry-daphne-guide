@@ -1,7 +1,5 @@
 # Retrieving the Scroll of Secret Teachings
 
-*Work in Progress*
-
 !!! note "New Adventurer Style Switching"
     After completing the Personal Request, the Ally will get a new style. You can freely toggle between new and old styles by going to the Training Room and triple-clicking on their portrait.  
 
@@ -16,16 +14,16 @@
 ## Guide
 
 - It's a fairly straightforward ~~dungeon~~ village.  Random encounters include different insects and some undead. 
-- You will have a series of interacitons throughtout the dungeon to expand on character lore  
+- You will have a series of interacitons throughtout the dungeon to expand on character lore. 
 - Twice, you will be asked questions, and those questions will result in you going through one of two doors. Either answer will result in a fight, but the wrong answer will have a harder fight. Easier fights are equivalent to random wandering mobs.  
      1. When the path is lost due to snow, which should you follow? Right for dog, left for horse.  Answer: Horse  
-     2. Breaths indicate weak enemies, quiet indicates enemies strong enough to high presense.  Answer:  Chose where she "can hear the breaths of more than one from beyond the door."
+     2. Breaths indicate weak enemies, quiet indicates enemies strong enough to hide their presense.  Answer:  Chose the door where she "can hear the breaths of more than one from beyond the door."
 - Before the last room shortly after encountering some 'ghosts', there will be a boss fight against a Necrocore and a a few other undead. 
-- In the last room with a teleporter there is a chest with the real quest reward:  Dissipation Skill Scroll  
+- In the last room with a teleporter there will be some dialog with Rinne, after which she will prompt you to reverse some junk that turns into her now outfit. There is also a chest with the real quest reward:  Dissipation Skill Scroll.  
     
 !!! warning "DON'T LEAVE WITHOUT OPENING THE CHEST, YOU WON'T BE ABLE TO GO BACK FOR IT"  
 
-!!! note "According to game notes, certain items (likely indicating the Dissipation Scroll) can only ever be obtained once.  It is suspected this means performing the quest with multiple copies of Rinne would not result in the ability to get multiple scrolls, unlike objects obtained in other Legendary Requests."  
+!!! note "According to game notes, certain items (likely indicating the Dissipation Scroll) can only ever be obtained once.  It is suspected this means performing the quest with multiple copies of Rinne will not result in the ability to get multiple scrolls, unlike objects obtained in some other Legendary Requests."  
 
 !!! map "Map"  
     ![](img/rinne_request_map.jpg)
