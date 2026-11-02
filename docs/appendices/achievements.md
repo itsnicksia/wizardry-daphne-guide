@@ -191,6 +191,7 @@
     | 20 | Painting Collector II | Acquire 5 paintings. | 
     | 20 | Painting Collector III | Acquire 10 paintings. | 
     | 20 | Painting Collector IV | Acquire 20 paintings. | 
+    | 20 | Painting Collector V | Acquire 40 paintings. | 
 
 
 === "Equipment"
