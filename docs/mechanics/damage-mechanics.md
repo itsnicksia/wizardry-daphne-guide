@@ -186,7 +186,7 @@ The following table summarizes attack advantage/disadvantage and stacking.
         <td style="text-align: center;">Any</td>
         <td style="text-align: center;">None</td>
         <td style="text-align: center;">0%</td>
-        <td style="text-align: center;">0%</td>
+        <td style="text-align: center;">-30%</td>
     </tr>
     <tr>
         <td style="text-align: center;">Neutral</td>
