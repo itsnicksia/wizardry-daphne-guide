@@ -47,7 +47,7 @@
     ![](img/labyrinthB2.jpg)
 
 - First Run: You end up on the bottom left half of the map from the portal trap on the first floor. You have to navigate the spike trap to the red "X" to open the next door. 
-- Second Run: The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off.
+- Second Run: The highlighted, yellow tile will disarm the spike traps. Click on the west wall for a dialogue option to turn it on or off.  Then you can walk straight through to the red "X" to open the door.  
 
 ### B3F
 
