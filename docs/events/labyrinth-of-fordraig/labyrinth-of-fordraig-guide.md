@@ -38,6 +38,7 @@
 
 - First Run: You will be forced through a portal trap, which is located above the cell highlighted in yellow. It teleports you to a separate zone on B2F. 
 - Second Run: The highlighted, yellow tile disarms the portal. Click on the East Wall for dialogue option.
+- (The red "X" used to be the location of a difficulty selection altar. This was removed when the event became permanent.)
 
 ### B2F
 
@@ -46,7 +47,7 @@
     ![](img/labyrinthB2.jpg)
 
 - First Run: You end up on the bottom left half of the map from the portal trap on the first floor. You have to navigate the spike trap to the red "X" to open the next door. 
-- Second Run: The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off .
+- Second Run: The highlighted, yellow tile will disarm the spike trap. Click on the west wall for a dialogue option to turn it on or off.
 
 ### B3F
 
@@ -54,8 +55,8 @@
 
     ![](img/labyrinthB3.jpg)
 
-- First Run: The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well the dagger. Go to the room with the yellow arrow map icon (MC's location) to find what appears to be the armor youre searching for. Be ready for a fight approx twice as hard as the Minotaur.  
-- Second Run: On your second run after dusarming the traps you'll fight the Mino before he kills the other adventurers. Talk to them about the dagger, then with it in your inventory use it at the yellow arrow icon location to activate a portal to B4F.  
+- First Run: The red "X" is a miniboss fight with a Minotaur. The adventurers you have met as you've been progressing will die. Interact with all three bodies to get the knowledge to disarm the traps as well a special dagger. Go to the room with the yellow arrow map icon (MC's location) to find what appears to be the armor you're searching for. Be ready for a fight approximately twice as hard as the Minotaur fight.  
+- Second Run: On your second run after disarming the traps you'll fight the Mino before he kills (all of) the other adventurers. Talk to them about the dagger, then with it in your inventory use it at the yellow arrow icon location to activate a portal to B4F.  
 
 ### B4F
 
@@ -65,10 +66,10 @@
 
     ![](img/labyrinthB4.jpg)
 
-- The blue "X" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located  south of your starting location.  
-- Head to the red "X" for the boss fight; he drops the Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification).  
-- After the boss fight collect all three chests (highlighted in yellow) in the area behind him, one of which has the event item needed to complete the request.  
-- The portal below MC's location (yellow arrow icon on map) leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.  
+- The blue "X" is your starting point. There is no Harken on this floor and it can be a long trek to the boss's room located southwest of your starting location.  
+- Head to the red "X" for the boss fight; he drops a Horned Eagle Sword that is always fixed at 3* blue and 2/3 strength-level (unification) with random blessings.  
+- After the boss fight collect all three chests (highlighted in yellow) in the room behind him. One chest contains the event armor needed to complete the request.  
+- The portal in the southeast part of the map leads to the upper-right area of B2F, which is self-contained. There are two fixed chests in this area.  
 - There is no Harken on this floor and you have to go back to the Blue X Portal to Exit.
 
 ## Farming
@@ -78,7 +79,7 @@
 Use the Cursed Wheel to reset the request after completion and then complete the second run (True Ending) of the request.
 
 - You farm junk from the miniboss and boss chests.
-- You get to farm up potentially perfect Horned Eagle Swords
+- You can farm up potentially perfect Horned Eagle Swords
 
 ![](img/good-horned-eagle-sword.jpg)
 
@@ -97,7 +98,7 @@ Use the Cursed Wheel to reset the request after completion and then complete the
     
     - This sword is guaranteed to be a 3 Star Blue Rarity drop at 2/3 Strength Level
     - This sword has elemental weapon base damage. 
-    - Magical Beasts are very common in the past Old Castle Event and the latter zones.
+    - Magical Beasts are very common in 2nd, 3rd, and 4th abysses, and many event dungeons.
 
 ??? note "Featherbronze Gauntlet" 
 
@@ -105,7 +106,7 @@ Use the Cursed Wheel to reset the request after completion and then complete the
 
     - Light Gauntlets
     - Bind Tolerance Up
-    - Comes from the Event Shop or from Junk Drops From the Event
+    - Comes from the Event Shop or from Junk Drops From the Event (junk drops can be up to 4* purple)
 
 
 ### High Rarity Junk
