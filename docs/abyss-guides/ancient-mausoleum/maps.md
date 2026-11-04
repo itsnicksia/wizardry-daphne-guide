@@ -1,5 +1,20 @@
 # Ancient Mausoleum  
 
+!!! note "Nov 2026 updates"
+
+    1. A new mausoleum "Tomb of Rarities" was added as a catch-all for the new classes without their own class mausoleum (Samurai, Ninja, Ranger, Healer).  
+    1. Any Mausoleum (except for the Mausoleum Guide tomb) from which you have collected all bones are now locked. You cannot progress through the first door, but can still access the guide and altar.  
+    1. The Mausoleum map no longer obscures tiles once they have been visited. Each mausoleum is treated as a separate (but identical) map.  Once you explore an area it will forever be visible. You no longer need to set intermediate checkmarks to auto walk to chest rooms, you can simply place a check in the desired room or just auto-walk-to-chest to go to the nearest one.   
+    1. In any Mausolum except the Mausoleum Guide tomb, chests that do not give you a bone now give you Bone Fragments instead of Junk. Bone Fragments can be traded at the Jeweler Ossuary at a rate of 10 Fragmets per General Adventurer. This means every 10 mausoleum runs that fail to give you a bone will give you <em>any adventurer of your choosing<em>.  Some people consider this as possibly more valuable than the random distribution of bi-weekly Crucible Mausoleum bones, and are devising strategies to maximize Fragment collection.  
+    
+    !!! "Fragment Optimization Current Thoughts:"  
+        - Presently, when using the 100 gem [God of Death's Favor](#mausoleum-optional-enhancements) blessing, you can open up to three chests with the penalty of significantly increased numbers of boss fights (it has been confirmed you can get up to 3 bones and no fragments in one visit, but this is being actively debated and may be specific to certain tombs).  
+            - So you can get 0 to 3 fragments per visit for as many visits as you can fit into 1 hour, at the cost of 100 gems and assuming you don't run out of available bones (otherwise the tomb will lock).  
+        - The [Morgus contract "Contract of Bone Reclamation"](/adventurer-customization/contracts.md#list-of-adventurer-contracts) also increases the number of chests that can be opened in a single visit by 1-3 depending on the number of allies you accept the rather sever stat penalties on.  
+        - Bone tallow becomes important for the keeping Mausoleums unlocked for fragment farming, and may be worth hoarding for this purpose.  If you collect the last available bone on a run, you can still open your full allotment of chests, but the mausoleum door will be locked on your next visit. Thus, it may be optimal to only use 1 tallow at a time so that you can never get more than 1 bone per visit and maximize fragments in all other chests.  
+        - Combining Death's Favor and Contracts you can get as many as 6 chests per visit, but there are only 2-4 on the different Mausoleum paths, and the time to switch paths isn't much more than just leaving and re-entering, so you could either limit to gems and 1 contracts to reduce ally penalties, or go gem-free with 5 contracts and no extra enemies if you can handle the contract penalties.  
+        - <strong>Early tests have shown >100 fragments collected in an hour using combinations of these methods. That's >10 general adventurers <em>of your choice</em> for 100 gems and an hour of furious Mausoleum farming.</strong>  Considering the rather tight gem/adventurer/tag economy in the game, that's a pretty significant feature.
+
 !!! note "As of Jan 2026 the Mausoluem map no longer forgets previous expoloration. It still obscures tiles until you enter them, but the revealed space remembers past progress. This lets you set checkmarks and can greatly speed bone collection."
 
 !!! note "As of Oct 2025 the Fortitude-reducing entry traps are no longer at Mausoleum entrances removing original concerns related to Fortitude-loss, visit rationing, and increased ally revival risk."
@@ -8,9 +23,9 @@
 The Mausoleum becomes available after defeating the Greater Warped One in the Beginning Abyss and returning to town. It can be accessed from the World Map. There is no level or grade requirement.
 
 ### Summary  
-The Ancient Mausoleum is a source of guaranteed general/anonymous Adventurer's Remains (bones). You are guaranteed at least one bone for every adventurer entombed in the Mausoleum (all anonymous and basic-class general adventurers). All anonymous adventurers are included together in one smaller floor called the Mausoleum of Guidance.  General adventurer bones have separate but identically laid out larger "floors" for each class.  See [Maps](./maps.md#maps) below.  Names of Adventurer bones available in each Mausoleum and the number remaining to be found can be seen by tapping the (i) icon at the floor selection screen.
+The Ancient Mausoleum is a source of guaranteed general/anonymous Adventurer's Remains (bones). You are guaranteed at least one bone for every adventurer entombed in the Mausoleum (all anonymous and basic-class general adventurers). All anonymous adventurers are included together in one smaller floor called the Mausoleum of Guidance.  General adventurer bones have separate but identically laid out larger "floors" for each class.  See [Maps](#maps) below.  Names of Adventurer bones available in each Mausoleum and the number remaining to be found can be seen by tapping the (i) icon at the floor selection screen.
 
-There is a Mausoleum Guide in the entry room who can provide instruction and [some protection](./maps.md#mausoleum-optional-enhancements) within the Mausoleum for a price.  Additionally, there is an Altar to Morgus, God of Death, that will [provide several options for increasing the number of available bones](./maps.md#mausoleum-optional-enhancements).  Most Mausoleum enemies are the same as encountered in the Beginning Abyss, but are significantly stronger and all undead have an Insta-kill physical attack. Enemy level will also scale with you, which can make battles very challenging if you are below level 30. 
+There is a Mausoleum Guide in the entry room who can provide instruction and [some protection](#mausoleum-optional-enhancements) within the Mausoleum for a price.  Additionally, there is an Altar to Morgus, God of Death, that will [provide several options for increasing the number of available bones](#mausoleum-optional-enhancements).  Most Mausoleum enemies are the same as encountered in the Beginning Abyss, but are significantly stronger and all undead have an Insta-kill physical attack. Enemy level will also scale with you, which can make battles very challenging if you are below level 30. 
 
 ### Mausoleum Overview
 - You must have 6 people in your party to enter. They don't all have to be alive.
@@ -36,7 +51,7 @@ The Crucible Mausoleum floor is unique in that it contains a random selection of
 
 ??? note "Altar of Morgus: God of Death's Favor"    
     ![](img/maus-god-of-deaths-favor.jpg)   
-    The one bone per visit limit can be increased by making a sacrifice of 100 Gems at the Altar of Morgus.  After paying the Gems, a one hour countdown will begin during which time you will be allowed to open up to three doors per visit to the Mausoleum before the remaining doors lock. You can leave and re-enter the mausoleum as many times as you want during that hour, opening up to three chests each time. Note the warning though, that the number of enemies, including wandering necrocores, is increased. Because there is no limitation on simply leaving and reentering the Mausoleum, this is considered a rather low-value use of Gems and is discouraged.
+    The one chest per visit limit can be increased by making a sacrifice of 100 Gems at the Altar of Morgus.  After paying the Gems, a one hour countdown will begin during which time you will be allowed to open up to three doors per visit to the Mausoleum before the remaining doors lock. You can leave and re-enter the mausoleum as many times as you want during that hour, opening up to three chests each time. Note the warning though, that the number of enemies, including wandering necrocores, is increased. Because there is no limitation on simply leaving and reentering the Mausoleum, this is considered a rather low-value use of Gems and is discouraged.
 
 ??? note "Mausoleum Guide Protection"  
     
