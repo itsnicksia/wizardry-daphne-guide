@@ -50,7 +50,7 @@ def define_env(env):
         results = pd_read_csv(f'./data/{file}', keep_default_na = False)
         if filter_column != None and filter_values:
             results = results.query(f'`{filter_column}` in {filter_values}')
-#        results = results.infer_objects().fillna('')
+#        results = results.infer_objects().fillna('')  # removed for fillna to str deprecation 
 
         # Only linkify names if file is adventurers.csv and required fields exist
         if file == 'adventurers.csv' and 'Name' in return_columns and 'Rarity' in results.columns:
@@ -70,7 +70,7 @@ def define_env(env):
                               usecols=equipcols, 
                               dtype='str',
                               skip_blank_lines=True)
-        eqdata = eqdata.fillna('')
+        eqdata = eqdata.
         results = eqdata
         return results
 
@@ -193,8 +193,8 @@ def define_env(env):
 
     @env.filter
     def complete_unique_skills_list(df):
-        allskills = pd_read_csv(f'./data/skills.csv')
-        df = pd.merge(df,allskills[['Name','Type','Restriction']], on="Name", how="left").fillna('')
+        allskills = pd_read_csv(f'./data/skills.csv', , keep_default_na = False)
+        df = pd.merge(df,allskills[['Name','Type','Restriction']], on="Name", how="left") # .fillna('')
         df = df[['Level', 'Name', 'Type', 'Restriction']]
         return df
 
