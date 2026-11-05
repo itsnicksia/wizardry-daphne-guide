@@ -151,7 +151,7 @@ def define_env(env):
                 blank_row = pd.DataFrame({col: None for col in eqdata.columns}, index=[n])
                 eqdata = pd.concat([eqdata.iloc[:n], blank_row, eqdata.iloc[n:]])
                
-            eqdata.reset_index(drop=True, inplace=True)
+            eqdata = eqdata.reset_index(drop=True)
 
         # blank any empty cells
         eqdata = eqdata.fillna('') 
