@@ -70,7 +70,7 @@ def define_env(env):
                               usecols=equipcols, 
                               dtype='str',
                               skip_blank_lines=True)
-        eqdata = eqdata.
+        eqdata = eqdata.fillna('')
         results = eqdata
         return results
 
