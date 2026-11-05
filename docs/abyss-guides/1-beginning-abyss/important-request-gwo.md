@@ -5,7 +5,7 @@
     - Specific requirements/activities are listed in order of the Cursed Wheel point needed to 'reset' the event.  
     - Rewards:  
         1. After saving the king, you receive a Royal Herald Amulet (Steel, 1* white Accessory, regular Steel Ring DEF, fixed +1 to every other Stat except SUREVA)  
-        2. A "Perfect" ending (no one dying and the Albano sidequest completed) will get you a [Luck Lamp for the Well of the Mind](/adventurer-customization/well-of-the-mind/#guiding-lights).
+        2. A "Perfect" ending (no one dying and the Albano sidequest completed) will get you a [Luck Lamp for the Well of the Mind](/adventurer-customization/well-of-the-mind.md#guiding-lights).
 
 ## Saving the King And Not Losing Your Head
 
