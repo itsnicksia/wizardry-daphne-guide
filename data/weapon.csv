@@ -318,7 +318,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 110,2H_Mace!A110,2H_Mace,222,Seafoam Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,181,0,0,0,0,-8,10,-2,-6,0,204,0,0,0,0,-8,10,-2,-6,0,221,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Water Type"
 116,2H_Mace!A116,2H_Mace,223,Tundra Club,Silver,1,75000,,116,0,0,0,0,-8,25,-2,-15,0,149,0,0,0,0,-8,25,-2,-15,0,175,0,0,0,0,-8,25,-2,-15,0,198,0,0,0,0,-8,25,-2,-15,0,215,0,0,0,0,-8,25,-2,-15,0,"Inflict Stun, Evasion Damage, Strength Based +"
 122,2H_Mace!A122,2H_Mace,224,Cyclops's Hammer,Silver,1,,,140,0,-50,0,0,-20,-20,-2,-6,0,173,0,-50,0,0,-20,-20,-2,-6,0,199,0,-50,0,0,-20,-20,-2,-6,0,222,0,-50,0,0,-20,-20,-2,-6,0,239,0,-50,0,0,-20,-20,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +"
-128,2H_Mace!A128,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,2H_Mace!A128,2H_Mace,Ex.,Devil Crusher,Silver,1,,,118,0,15,0,0,-8,10,6,-10,0,157,0,15,0,0,-8,10,6,-10,0,184,0,15,0,0,-8,10,6,-10,0,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Demon-Slayer"
 134,2H_Mace!A134,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Mace!A140,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Mace!A146,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -364,7 +364,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 122,2H_Spear!A122,2H_Spear,213,Seafoam Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Water Type"
 128,2H_Spear!A128,2H_Spear,Ex.,Whilring Tiger,Silver,1,,,115,0,0,0,0,0,10,3,7,0,138,0,0,0,0,0,10,3,7,0,160,0,0,0,0,0,10,3,7,0,183,0,0,0,0,0,10,3,7,0,205,0,0,0,0,0,10,3,7,0,"Strength-Based +, Evasive Heavy Strike"
 134,2H_Spear!A134,2H_Spear,Ex.,Mizukage Naginata,Silver,1,,,107,0,0,0,0,0,15,0,5,0,146,0,0,0,0,0,15,0,5,0,173,0,0,0,0,0,15,0,5,0,186,0,0,0,0,0,15,0,5,0,190,0,0,0,0,0,15,0,5,0,"Strength-Based +, Attack/Divine Power Conversion"
-140,2H_Spear!A140,2H_Spear,Ex.,Hunter's Spear,Silver,1,,,88,0,0,0,0,0,50,0,5,0,127,0,0,0,0,0,55,0,5,0,154,0,0,0,0,0,59,0,5,0,,,,,,,,,,,,,,,,,,,,,"Strength-Based +, Sleep, Swooning Thrust Learned"
+140,2H_Spear!A140,2H_Spear,Ex.,Hunter's Spear,Silver,1,,,88,0,0,0,0,0,50,0,5,0,127,0,0,0,0,0,55,0,5,0,154,0,0,0,0,0,59,0,5,0,167,0,0,0,0,0,61,0,5,0,171,0,0,0,0,0,63,0,5,0,"Strength-Based +, Sleep, Swooning Thrust Learned"
 146,2H_Spear!A146,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 152,2H_Spear!A152,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 158,2H_Spear!A158,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
