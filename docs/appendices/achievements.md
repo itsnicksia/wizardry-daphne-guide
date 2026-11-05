@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.2
+---
+
 # Achievements  
 
 === "Abyss"
