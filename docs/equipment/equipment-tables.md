@@ -1,3 +1,8 @@
+---
+search:
+  boost: 0.3
+---
+
 # Equipment Tables
 The tables below contain attributes for the weapons and armor found in the game as well as how those attributes improve with enhancement.  
 
