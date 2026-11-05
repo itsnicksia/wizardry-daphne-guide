@@ -61,6 +61,7 @@ There are several map variations, 4 of which are shown below, and are random upo
     - At a certain HP threshold, the Chimera will cast an attack that hits extremely hard (over 700) when it has the ATK UP buff.
     - At a certain HP threshold, the Chimera will buff again?
 
+## Rewards
 ??? note "Master Mage's Ring"
     ![](img/mage-ring.jpg)
     - The Mage ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines.
