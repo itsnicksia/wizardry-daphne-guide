@@ -47,10 +47,10 @@ def define_env(env):
     @env.macro
     def populate_quicklist(file,return_columns,filter_column=None,filter_values=[]):
 
-        results = pd_read_csv(f'./data/{file}')
+        results = pd_read_csv(f'./data/{file}', keep_default_na = False)
         if filter_column != None and filter_values:
             results = results.query(f'`{filter_column}` in {filter_values}')
-        results = results.infer_objects().fillna('')
+#        results = results.infer_objects().fillna('')
 
         # Only linkify names if file is adventurers.csv and required fields exist
         if file == 'adventurers.csv' and 'Name' in return_columns and 'Rarity' in results.columns:
