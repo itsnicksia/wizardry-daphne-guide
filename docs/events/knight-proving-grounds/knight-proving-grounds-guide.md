@@ -54,6 +54,7 @@ There are several map variations, 4 of which are shown below, and are random upo
 ??? danger "Advanced Boss Fight Tips"
     - This fight consists of three Minotaurs in a row. The middle one is very resistant to physical damage.
 
+## Rewards
 ??? note "Master Knight's Ring"
     ![](img/knight-ring.png)
     - The Knight's Ring is always 4* Red and has fixed stats when using a FAS. The values can be rerolled but not the type of stat lines.
