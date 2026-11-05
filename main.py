@@ -123,11 +123,11 @@ def define_env(env):
   
         attribnames = ['TEMP'] + attribnames
         
-        eqdata.reset_index(inplace=True)
+        eqdata = eqdata.reset_index
         eqdata = pd.wide_to_long(eqdata, attribnames, i='itemnumber', j='Enhance Level', suffix=r'\d+')
         itemrows = eqdata.index.get_level_values(1).nunique()
         eqdata = eqdata.sort_index(level ='itemnumber', sort_remaining = True)
-        eqdata.reset_index(inplace=True)
+        eqdata = eqdata.reset_index
         eqdata = eqdata[unstackedcols[:2] + attribnames[:1]+['Enhance Level'] + attribnames[1:] + unstackedcols[2:]]
 
         # blank the duplicate title and effects cells in unstackedcols
