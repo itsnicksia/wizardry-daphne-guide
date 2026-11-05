@@ -5,7 +5,7 @@ There are a number of characters that wander the Abyss who you may encounter.  T
 Work in progress.  [Contributions welcome](../../index.md#contributing).
 
 ## Corpse-Scavenging Skeleton
-Made a deal with Morgus, now making deals with you.  
+Made a deal with Morgus, now makes deals with you.  
 ![](./img/a3-corpse-scavenging-skeleton.jpg)  
 ??? note "Details"  
     - Location: Zones 1 - ?
@@ -28,7 +28,7 @@ Made a deal with Morgus, now making deals with you.
 
 
 ## Lingering Memories
-The poster child for the need for work-life balance programs.  
+The poster child for work-life balance programs.  
 ![](./img/a3-lingering-memories.jpg)  
 ??? note "Details"  
     - Location: Zones 1, 2, 3, 5, 6
