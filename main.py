@@ -123,7 +123,7 @@ def define_env(env):
   
         attribnames = ['TEMP'] + attribnames
         
-        eqdata = eqdata.reset_index
+        eqdata.reset_index(inplace=True)
         eqdata = pd.wide_to_long(eqdata, attribnames, i='itemnumber', j='Enhance Level', suffix=r'\d+')
         itemrows = eqdata.index.get_level_values(1).nunique()
         eqdata = eqdata.sort_index(level ='itemnumber', sort_remaining = True)
