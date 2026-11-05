@@ -87,16 +87,16 @@ def define_env(env):
                               index_col=False)
 
         # trim dataframe to only the type requested
-        eqdata.drop(eqdata[eqdata['Type'] != itemtype].index, inplace=True)
+        eqdata = eqdata.drop(eqdata[eqdata['Type'] != itemtype].index)
 
         # drop any lines from item section without an actual item
-        eqdata.dropna(subset = ['Item Name'], inplace = True)        
+        eqdata = eqdata.dropna(subset = ['Item Name'])        
         
         # blank any empty cells
-        eqdata.fillna('', inplace = True) 
+        eqdata = eqdata.fillna('') 
 
         # drop all but requested type
-        eqdata.drop(eqdata.iloc[:,0:1],axis=1, inplace = True) 
+        eqdata = eqdata.drop(eqdata.iloc[:,0:1],axis=1) 
 
         # name the id column for later use keeping things sorted
         eqdata.index.name = 'itemnumber'
@@ -119,14 +119,14 @@ def define_env(env):
 
         rename_cols = ['TEMP0', 'TEMP5', 'TEMP10', 'TEMP15']
 
-        eqdata.rename(columns=dict(zip(stackedcols, rename_cols)), inplace=True)
+        eqdata = eqdata.rename(columns=dict(zip(stackedcols, rename_cols)))
   
         attribnames = ['TEMP'] + attribnames
         
         eqdata.reset_index(inplace=True)
         eqdata = pd.wide_to_long(eqdata, attribnames, i='itemnumber', j='Enhance Level', suffix=r'\d+')
         itemrows = eqdata.index.get_level_values(1).nunique()
-        eqdata.sort_index(level ='itemnumber', sort_remaining = True, inplace=True)
+        eqdata = eqdata.sort_index(level ='itemnumber', sort_remaining = True)
         eqdata.reset_index(inplace=True)
         eqdata = eqdata[unstackedcols[:2] + attribnames[:1]+['Enhance Level'] + attribnames[1:] + unstackedcols[2:]]
 
@@ -137,13 +137,13 @@ def define_env(env):
         # change title of stacked column
         
         if armor_or_weapon == "weapon":
-           eqdata.rename(columns={'TEMP': 'Rank<br>#Attacks<br>Buy Price<br>Sell Price'}, inplace=True)
+           eqdata = eqdata.rename(columns={'TEMP': 'Rank<br>#Attacks<br>Buy Price<br>Sell Price'})
         else:
-           eqdata.rename(columns={'TEMP': 'Rank<br>ArmorType<br>Buy Price<br>Sell Price'}, inplace=True)
+           eqdata = eqdata.rename(columns={'TEMP': 'Rank<br>ArmorType<br>Buy Price<br>Sell Price'})
 
         # add linebreak to long title columns
-        eqdata.rename(columns={'Compendium Number': 'Compendium<br>Number'}, inplace=True)
-        eqdata.rename(columns={'Enhance Level': 'Enhance<br>Level'}, inplace=True)
+        eqdata = eqdata.rename(columns={'Compendium Number': 'Compendium<br>Number'})
+        eqdata = eqdata.rename(columns={'Enhance Level': 'Enhance<br>Level'})
 
         # insert blank spacer rows
         if itemcount > 1:
@@ -154,7 +154,7 @@ def define_env(env):
             eqdata.reset_index(drop=True, inplace=True)
 
         # blank any empty cells
-        eqdata.fillna('', inplace = True) 
+        eqdata = eqdata.fillna('') 
 
         return eqdata
 
