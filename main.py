@@ -193,7 +193,7 @@ def define_env(env):
 
     @env.filter
     def complete_unique_skills_list(df):
-        allskills = pd_read_csv(f'./data/skills.csv', , keep_default_na = False)
+        allskills = pd_read_csv(f'./data/skills.csv', keep_default_na = False)
         df = pd.merge(df,allskills[['Name','Type','Restriction']], on="Name", how="left") # .fillna('')
         df = df[['Level', 'Name', 'Type', 'Restriction']]
         return df
