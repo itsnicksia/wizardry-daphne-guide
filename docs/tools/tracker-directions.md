@@ -1,4 +1,4 @@
-## Respawning Item Overview 
+## Respawning Items Overview 
 
 ### Basics
 
