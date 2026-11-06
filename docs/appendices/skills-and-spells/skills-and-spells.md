@@ -27,7 +27,7 @@
 
 ### Discipline Skills
 
-{{ populate_quicklist(file='skills.csv',return_columns=['Source','Name','Effects','Detail'],filter_column='Type',filter_values=['Discipline']) | make_skillnames_linkable  | rename_columns(['Adventurer','Skill Name','Effects','Detail']) | sort_mixed_values(sortcol="Adventurer") | convert_to_md_table}}
+{{ populate_quicklist(file='skills.csv',return_columns=['Source','Name','Effects','Detail'],filter_column='Type',filter_values=['Discipline']).sort_values(by='Source') | make_skillnames_linkable  | rename_columns(['Adventurer','Skill Name','Effects','Detail']) | convert_to_md_table}}
 
 
 ## Spells:  
