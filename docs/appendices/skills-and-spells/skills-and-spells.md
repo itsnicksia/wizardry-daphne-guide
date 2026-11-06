@@ -27,7 +27,7 @@
 
 ### Discipline Skills
 
-{{ populate_quicklist(file='skills.csv',return_columns=['Name','Source','Effects','Detail'],filter_column='Type',filter_values=['Discipline']) | make_skillnames_linkable | convert_to_md_table | add_indentation(spaces=4) }}
+{{ populate_quicklist(file='skills.csv',return_columns=['Name','Source','Effects','Detail'],filter_column='Type',filter_values=['Discipline']) | make_skillnames_linkable | convert_to_md_table}}
 
 
 ## Spells:  
