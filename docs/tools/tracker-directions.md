@@ -1,7 +1,4 @@
-!!! warning "Work In Progress"
-    - Ctrl + F5 to refresh the page for new updates.
-
-## Overview 
+## Respawning Item Overview 
 
 ### Basics
 
