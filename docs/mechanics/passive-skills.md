@@ -485,7 +485,7 @@
         </div>
     
         - 10% reduction at Level 1. 
-        - All subsequent levels are an additional 4% and 5% at Level 1. 
+        - All subsequent levels are an additional 4% and 5% at Level 7. 
         - To calculate the exact value of a spell at different levels of the passive see the next tab. 
     
     === "Formula"
