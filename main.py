@@ -192,6 +192,11 @@ def define_env(env):
         return df
 
     @env.filter
+    def rename_columns(df, new_colnames):
+        df = df.set_axis(new_colnames, axis=1)
+        return df
+
+    @env.filter
     def complete_unique_skills_list(df):
         allskills = pd_read_csv(f'./data/skills.csv', keep_default_na = False)
         df = pd.merge(df,allskills[['Name','Type','Restriction']], on="Name", how="left") # .fillna('')
