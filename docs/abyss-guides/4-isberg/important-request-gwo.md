@@ -62,12 +62,13 @@
             - When the leader dies, all the remaining snow wolves will be greatly debuffed in attack and CT, the fight is effectively over and they become target dummies.
             - It is possible to reduce incoming damage by casting out [Kantios](../../appendices/skills-and-spells/skills-and-spells.md#active-skills) as the small wolves and the Snow Wolf Leader can be afflicted with confusion. The small dogs can also be afflicted with [Katino](../../appendices/skills-and-spells/skills-and-spells.md#active-skills). It is also possible to reduce incoming damage by being frozen, though, this is risky. Casting [Batilgrief](../../appendices/skills-and-spells/skills-and-spells.md#active-skills) on the Snow Wolf Leader can greatly help offset his evasion up and the ASPD characters lose from being frozen. 
         === "Battle Breakdown"
-            - HP: 25k (small wolves are ~800)
-            - Out-of-Turn-Action (OTA), Field Effect (FE)
-            - OTA 1: will occur at around 6-7k damage dealt. He will summon 3-4 small wolves. 
-            - OTA 2: will occur at around 12-14k damage dealt. He will force a FE snowstorm and freeze all units.
-            - OTA 3: will occur at around 16-18k damage dealt. He will force a FE snowstorm and freeze all units. 
-            - OTA 4: will occur at around 20k damage dealt. He will nearly fill the field with small wolves.
+            - HP: 25k (small wolves are ~800)  
+            - Out-of-Turn-Action (OTA), Field Effect (FE)  
+            - OTA 1: will occur at around 6-7k damage dealt. He will summon 3-4 small wolves.   
+            - OTA 2: will occur at around 12-14k damage dealt. He will force a FE snowstorm and freeze all units.  
+            - OTA 3: will occur at around 16-18k damage dealt. He will force a FE snowstorm and freeze all units.   
+            - OTA 4: will occur at around 20k damage dealt. He will nearly fill the field with small wolves.  
+            - OTA 5: will occur around 5% of remaining health. He will cast glacial storm which will likely wipe your entire party. It is recommended to utilize shatter mechanic to skip his last threshold.  
         === "Anecdotal Helpful Info" 
             - Bumping Acc on damaging units from ~130 to ~140 was really helpful. 
             - Clear the small wolves as first priority.
