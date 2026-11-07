@@ -4,7 +4,7 @@ There are a number of characters that wander the Abyss who you may encounter.  T
 
 ## Bone Picker  
 "Might I interest you in some slightly used body parts?" (again)  
-![](../1-beginning-abyss/img/a1-bone-picker.jpg)  
+![](./img/a2-bone-picker.jpg)  
 ??? note "Details"  
     - Location: Most floors (Districts 1-7 and Ship levels 1 & 2)  
     - Interaction Options:  
