@@ -15,8 +15,6 @@
     - Head to Port Town Grand Legion from the world map after accepting the request. Talk with the sailor in town and 'board the ship'.
     - You can leave and re-enter from the world map at any time. 'Island of the Fire Oni' is east of Port Town Grand Legion.
 
-!!! warning "MC Getting killed by the Fire Oni at the end of B3F within your first run will completely reset your request." 
-
 ## Guide for Island of the Wailing Oni (First Part)
 
 !!! note "1st Run"
@@ -27,6 +25,7 @@
         3. On B3F, head to the bottom left room to fight the Red Oni final boss. If you helped Kansouke he will slay the boss when its has low health. 
         4. Ignore the new Red Oni and pick up a key in the center of the boss room. Open the locked room in northern B3F and read the journal on the shelf for key knowledge. 
         5. The request cannot be completed any further so use the Cursed Wheel to reset the request.
+        !!! warning "MC Getting killed by the Fire Oni at the end of B3F within your first run will completely reset your request." 
         
     === "Red Oni Boss Fight Details"
     
@@ -39,7 +38,7 @@
             - Alternatively, put MC in back row and just reverse the occasional deaths.
         - Acts twice often, very high chance of using one action to summon a Red Hobgoblins if one is dead.
         - Can be Crit. Can be delayed. Batilgref recommended.
-        - Scripted end of fight at 20% boss health if Kanosuke was saved.
+        - Scripted end of fight at 20% boss health if Kanosuke was rescued.
         
 !!! note "2nd Run"
 
@@ -62,7 +61,7 @@
             - Healer/Knight/water resistance highly recommended. Alternatively, put MC in back row and just reverse the occasional deaths.
         - Acts twice often, very high chance of using one action to summon a Red Hobgoblins if one is dead.
         - Can be Crit. Can be delayed. Batilgref recommended.
-        - Scripted end of fight at 20% boss health if Kanosuke was saved.
+        - Scripted end of fight at 20% boss health if Kanosuke was rescued.
         
          
 
@@ -85,12 +84,12 @@
     
         1. Head to Rock-Heart Style Dojo from the world map. 
         2. You will be forced to choose a side amidst a power dispute. 
-            - Evil must side with the young man, good must side with the old man, and neutral may freely choose.
+            - Evil will side with the young man, good will side with the old man, and neutral may freely choose.
             - The old man path forces you into the samurai guiding light reward, whereas the young man path lets you choose between the guiding light or a white 1* silver-tier katana with humanoid-slayer. 
         3. You will be forced into a fight with the opposing side. 
-            - Either fight has enemies that wont die, however you need only survive 3 turns for a scripted end.
+            - Either fight has enemies that wont die, but you need only survive for 3 turns for a scripted end.
         4. You will now be tasked with going through three different trials.
-        (Optional) Each trial has one optional samurai standing in the hallway paths that gives your MC a *slightly* easier time with the final fight of each trial, via higher level for more stats. 
+        - (Optional) Each trial has one optional samurai fight on the map, that when beaten 1 on 1 with MC, gives your MC a *slightly* easier time with the final fight of each trial, via higher level for more stats. 
         
     === "First Trial"
      
