@@ -30,36 +30,36 @@
         
     === "Red Oni Boss Fight Details"
     
-    - ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
-    - Is Fire Element and uses fire elemental attacks.
-    - Has very high accuracy (over 300).
-    - Boss will summon new Fire Hobbers periodically out of turn, and the Fire Hobbers will build up out of turn.
-    - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, and ignores armor. Healer highly recommended for Life-Binding Tincture. Knights Defense with with fire resistance also works. Alternatively put MC in back row and just reverse the occasional deaths.
-    - Acts twice often, very high chance of using an action to summon a Hobber if one is dead.
-    - Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
-    - Scripted end of fight at 20% boss health.
+        - ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
+        - Is Fire Element and uses fire elemental attacks.
+        - Has very high accuracy (over 300).
+        - Boss will summon new Fire Hobbers periodically out of turn, and the Fire Hobbers will build up out of turn.
+        - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, and ignores armor. Healer highly recommended for Life-Binding Tincture. Knights Defense with with fire resistance also works. Alternatively put MC in back row and just reverse the occasional deaths.
+        - Acts twice often, very high chance of using an action to summon a Hobber if one is dead.
+        - Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
+        - Scripted end of fight at 20% boss health.
         
 !!! note "2nd Run"
 
-        === "Guide"
+    === "Guide"
     
-- Take the request from the guild once again and reach the island through Port Town. Save Kanosuke from hunger and give him the letter you previously obtained. Mention the growing of horns. He will now follow you and help you read foreign text throughout the dungeon.
-- On B1F Head to the Archive Room (top left locked room). It will be locked but Kanosuke tells you to search for a clue to the key. The clue will be on B2F at westernmost wall (X:1, Y:17). With clue obtained, Kanosuke will then mark the key's location on your map with an exclamation mark on the same floor (X:18, Y:13). 
-- Head back to the Archive Room and read all the texts on the shelves. You will find out you need to stop the Oni transformation through the shrine on the alternate section of B3F.
-- Take the northeast stairs on B1F and follow the path to the Shrine to northeastern B3F. 
-- After reaching interacting with the shrine, you need to repair it with paper seals (found in top left locked room in B1F), and salt from the Pantry (bottom left room in B2F). Head back to the shrine and let Kanosuke fix the shrine.
-- Head to the Oni and fight it again. Upon winning, head to the middle locked room on B3F and read the diary. Head back to the Oni boss room and go into the treasure room to receive Kansouke as a bondmate (Bind Tolerance), the gold statue for the request, as well as a recommendation from Kanosuke for his Samurai Dojo.
+        - Take the request from the guild once again and reach the island through Port Town. Save Kanosuke from hunger and give him the letter you previously obtained. Mention the growing of horns. He will now follow you and help you read foreign text throughout the dungeon.
+        - On B1F Head to the Archive Room (top left locked room). It will be locked but Kanosuke tells you to search for a clue to the key. The clue will be on B2F at westernmost wall (X:1, Y:17). With clue obtained, Kanosuke will then mark the key's location on your map with an exclamation mark on the same floor (X:18, Y:13). 
+        - Head back to the Archive Room and read all the texts on the shelves. You will find out you need to stop the Oni transformation through the shrine on the alternate section of B3F.
+        - Take the northeast stairs on B1F and follow the path to the Shrine to northeastern B3F. 
+        - After reaching interacting with the shrine, you need to repair it with paper seals (found in top left locked room in B1F), and salt from the Pantry (bottom left room in B2F). Head back to the shrine and let Kanosuke fix the shrine.
+        - Head to the Oni and fight it again. Upon winning, head to the middle locked room on B3F and read the diary. Head back to the Oni boss room and go into the treasure room to receive Kansouke as a bondmate (Bind Tolerance), the gold statue for the request, as well as a recommendation from Kanosuke for his Samurai Dojo.
         
-        === "Red Oni Boss Fight Details"
+    === "Red Oni Boss Fight Details"
     
-- ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
-- Is Fire Element and uses fire elemental attacks.
-- Has very high accuracy (over 300).
-- Boss will summon new Fire Hobbers periodically out of turn, and the Fire Hobbers will build up out of turn.
-- Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, and ignores armor. Healer highly recommended for Life-Binding Tincture. Knights Defense with with fire resistance also works. Alternatively put MC in back row and just reverse the occasional deaths.
-- Acts twice often, very high chance of using an action to summon a Hobber if one is dead.
-- Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
-- Scripted end of fight at 20% boss health.
+        - ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
+        - Is Fire Element and uses fire elemental attacks.
+        - Has very high accuracy (over 300).
+        - Boss will summon new Fire Hobbers periodically out of turn, and the Fire Hobbers will build up out of turn.
+        - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, and ignores armor. Healer highly recommended for Life-Binding Tincture. Knights Defense with with fire resistance also works. Alternatively put MC in back row and just reverse the occasional deaths.
+        - Acts twice often, very high chance of using an action to summon a Hobber if one is dead.
+        - Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
+        - Scripted end of fight at 20% boss health.
         
          
 
