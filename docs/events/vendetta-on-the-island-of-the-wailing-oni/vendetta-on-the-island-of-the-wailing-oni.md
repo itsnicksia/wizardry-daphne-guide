@@ -5,7 +5,7 @@
 ## Unlock Conditions
 
 - The first part requires reaching Route 5 of Abyss 4.
-- The second part requires having cleared a bad ending of Abyss 4 and completing the first part.
+- The second part requires the first part and having cleared a bad ending of Abyss 4.
 
 ## Overview
 
@@ -95,7 +95,7 @@
         3. You will be forced into a fight with the opposing side. 
             - Either fight has enemies that won't die, but you need only survive for 3 turns for a scripted end.
         4. You will now be tasked with going through three different trials.
-        5. (Optional) Each trial has an optional samurai fight on the map that you can fight 1-on-1 with the MC
+        5. (Optional) Each trial has an optional samurai fight on the map that you can fight 1-on-1 with the MC.
             - Gives your MC a higher level that gives you a *slightly* easier time with the final fight of each trial.
         
     === "First Trial"
