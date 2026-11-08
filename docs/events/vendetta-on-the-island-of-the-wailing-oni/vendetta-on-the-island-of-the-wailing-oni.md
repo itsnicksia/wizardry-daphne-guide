@@ -115,11 +115,12 @@
             - If all of it is spilled, you need to head back to the entrance for more.
         2. The main gimmick of this trial is that the final destination is located in a room that is only accessible via teleport pads scattered throughout the map.
             - See maps below for fastest route to the correct location.
-        3. Once again, you'll fight a deputy samurai 1-on-1. Return to the entrance to unlock the next trial.
+        3. Another deputy samurai is waiting for 1-on-1 fight but with slightly higher difficulty. 
+        4. Return to the entrance to unlock the next trial.
         
     === "Third Trial"
     
-        1. First you must defeat 4 different samurai disciples 1-on-1 with MC in 4 different rooms, spread throughout the map. 
+        1. First you must defeat 4 different samurai disciples 1-on-1 in 4 different rooms, spread throughout the map. 
             - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue.
             - They each have their own fighting patterns, but generally they can all be defeated using quickdraw stance if they don't have an evasion buff. 
             - If they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
