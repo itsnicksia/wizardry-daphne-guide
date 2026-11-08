@@ -22,11 +22,11 @@
 !!! note "1st Run"
 
     === "Guide"
-        - Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (It will pull from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take western stairs to the next floor.
-        - On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. There is a Minotuar and two Lesser Demon miniboss fight just before the stairs to B3F. 
-        - On B3F, head to the bottom left room to fight the Red Oni final boss. If you helped Kansouke he will slay the boss when its has low health. 
-        - Ignore the new Red Oni and pick up a key in the center of the boss room. Open the locked room in northern B3F and read the journal on the shelf for key knowledge. 
-        - The request cannot be completed any further so use the Cursed Wheel to reset the request.
+        1. Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (It will pull from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take western stairs to the next floor.
+        2. On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. There is a Minotuar and two Lesser Demon miniboss fight just before the stairs to B3F. 
+        3. On B3F, head to the bottom left room to fight the Red Oni final boss. If you helped Kansouke he will slay the boss when its has low health. 
+        4. Ignore the new Red Oni and pick up a key in the center of the boss room. Open the locked room in northern B3F and read the journal on the shelf for key knowledge. 
+        5. The request cannot be completed any further so use the Cursed Wheel to reset the request.
         
     === "Red Oni Boss Fight Details"
     
@@ -35,7 +35,8 @@
         - Has very high accuracy (over 300).
         - Boss periodically summons new Red Hobgoblin out of turn. Red Hobgoblin will charge an attack out of turn that, cleaving front row.
         - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, ignoring armor. 
-            - Healer/Knight/water resistance highly recommended. Alternatively, put MC in back row and just reverse the occasional deaths.
+            - Healer/Knight/water resistance highly recommended. 
+            - Alternatively, put MC in back row and just reverse the occasional deaths.
         - Acts twice often, very high chance of using one action to summon a Red Hobgoblins if one is dead.
         - Can be Crit. Can be delayed. Batilgref recommended.
         - Scripted end of fight at 20% boss health if Kanosuke was saved.
@@ -44,12 +45,12 @@
 
     === "Guide"
     
-        - Take the request from the guild once again and reach the island through Port Town. Save Kanosuke from hunger and give him the letter you previously obtained. Mention the growing of horns. He will now follow you and help you read foreign text throughout the dungeon.
-        - On B1F Head to the Archive Room (top left locked room). It will be locked but Kanosuke tells you to search for a hidden clue. The clue will be on B2F at westernmost wall (X:1, Y:17). With clue obtained, Kanosuke will then mark the key's location on your map with an exclamation mark on the same floor (X:18, Y:13). 
-        - Head back to the Archive Room and read all the texts on the shelves. You will find out you need to stop the Oni transformation through the shrine on the alternate section of B3F.
-        - Take the northeast stairs on B1F and follow the path to the Shrine to northeastern B3F. 
-        - After reaching interacting with the shrine, you learn you need to repair it with paper seals (found in top left locked room of B1F), and salt from the Pantry (bottom left room of B2F). Head back to the shrine and let Kanosuke fix the shrine.
-        - Head to the boss room and fight the Oni again. Upon winning, head to the middle locked room on B3F and read the diary. Head back to the Oni boss room and go into the treasure room to receive Kansouke as a bondmate (Bind Tolerance), a gold statue for the request, and a request to deliver a letter to his Samurai Dojo.
+        1. Take the request from the guild once again and reach the island through Port Town. Save Kanosuke from hunger and give him the letter you previously obtained. Mention the growing of horns. He will now follow you and help you read foreign text throughout the dungeon.
+        2. On B1F Head to the Archive Room (top left locked room). It will be locked but Kanosuke tells you to search for a hidden clue. The clue will be on B2F at westernmost wall (X:1, Y:17). With clue obtained, Kanosuke will then mark the key's location on your map with an exclamation mark on the same floor (X:18, Y:13). 
+        3. Head back to the Archive Room and read all the texts on the shelves. You will find out you need to stop the Oni transformation through the shrine on the alternate section of B3F.
+        4. Take the northeast stairs on B1F and follow the path to the Shrine to northeastern B3F. 
+        5. After reaching interacting with the shrine, you learn you need to repair it with paper seals (found in top left locked room of B1F), and salt from the Pantry (bottom left room of B2F). Head back to the shrine and let Kanosuke fix the shrine.
+        6. Head to the boss room and fight the Oni again. Upon winning, head to the middle locked room on B3F and read the diary. Head back to the Oni boss room and go into the treasure room to receive Kansouke as a bondmate (Bind Tolerance), a gold statue for the request, and a request to deliver a letter to his Samurai Dojo.
         
     === "Red Oni Boss Fight Details"
     
@@ -86,9 +87,9 @@
         2. You will be forced to choose a side amidst a power dispute. 
             - Evil must side with the young man, good must side with the old man, and neutral may freely choose.
             - The old man path forces you into the samurai guiding light reward, whereas the young man path lets you choose between the guiding light or a white 1* silver-tier katana with humanoid-slayer. 
-        3. After picking, you will be forced into a fight with the opposing side. 
+        3. You will be forced into a fight with the opposing side. 
             - Either fight has enemies that wont die, however you need only survive 3 turns for a scripted end.
-        4. You will now be tasked with going through three different trials
+        4. You will now be tasked with going through three different trials.
         (Optional) Each trial has one optional samurai standing in the hallway paths that gives your MC a *slightly* easier time with the final fight of each trial, via higher level for more stats. 
         
     === "First Trial"
@@ -114,7 +115,7 @@
         1. First must you defeat 4 different samurai disciples 1-on-1 in 4 different rooms, spread throughout the map. 
             - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue.
             - They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. 
-            - In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
+            - If they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
         2. The bottom left room will now be unlocked for you to face yet another deputy samurai.
         3. Head to the center room of the map to meet the old man, in which you will need to successfully pass three QTE events in a row. 
             - Failure has you take damage, and you can essentially fail twice before you are killed. However, you may select the withdraw option to heal up before trying again. 
@@ -123,22 +124,21 @@
             - Here you may need to pick a side again depending on your earlier choices and MC alignment. 
             - You MUST protect the old man(Seigen) if you want to receive the samurai guiding light. 
             - Siding with the young man(Touma) is only available if you sided with him at the beginning and awards a white 1* silver-tier katana with humanoid-slayer instead of the samurai guiding light.
-        5. You'll be thrown into a fight against your respective selection. Your MC will be a samurai with fixed equipment, and you have access to your full team of adventurers for these encounters.
-            - The old man will be by himself, and the young man will be with 5 samurai deputies with himself in the back. 
+        5. You'll be thrown into a fight against the opposite selection. Your MC will be a samurai with fixed equipment, fighting along side your usual party of six.
+            - The old man will be by himself for his fight, and the young man will be with 5 samurai deputies with himself in the back. 
 
         
 ## Maps
     
-??? map "Ascetic Grounds of the Body"
-
-        !!! warning "The map layout can be different, but the lamps are always in the same location"        
- ![](./img/ascetic-grounds-of-the-body.png)
+??? map "Ascetic Grounds of the Body" 
+ !!! warning "The map layout can be different, but the lamps are always in the same location"
+    ![](./img/ascetic-grounds-of-the-body.png)
 
 ??? map "Ascetic Grounds of Technique"
- ![](./img/ascetic-grounds-of-technique.png)
+    ![](./img/ascetic-grounds-of-technique.png)
 
 ??? map "Ascetic Grounds of the Mind"
- ![](./img/ascetic-grounds-of-the-mind.png)
+     ![](./img/ascetic-grounds-of-the-mind.png)
 
 ## Optional Boss Fight
 
