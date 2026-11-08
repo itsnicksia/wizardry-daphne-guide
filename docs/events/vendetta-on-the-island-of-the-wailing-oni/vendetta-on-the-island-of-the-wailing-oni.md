@@ -25,7 +25,7 @@
         3. On B3F, head to the bottom left room to fight the Red Oni final boss. If you helped Kansouke he will slay the boss when its has low health. 
         4. Ignore the new Red Oni and pick up a key in the center of the boss room. Open the locked room in northern B3F and read the journal on the shelf for key knowledge. 
         5. The request cannot be completed any further so use the Cursed Wheel to reset the request.
-        !!! warning "MC Getting killed by the Fire Oni at the end of B3F within your first run will completely reset your request." 
+        !!! warning "MC Getting killed by the Red Oni at the end of B3F within your first run will completely reset your request." 
         
     === "Red Oni Boss Fight Details"
     
@@ -89,7 +89,7 @@
         3. You will be forced into a fight with the opposing side. 
             - Either fight has enemies that wont die, but you need only survive for 3 turns for a scripted end.
         4. You will now be tasked with going through three different trials.
-        - (Optional) Each trial has one optional samurai fight on the map, that when beaten 1 on 1 with MC, gives your MC a *slightly* easier time with the final fight of each trial, via higher level for more stats. 
+        - (Optional) Each trial has one optional samurai fight on the map that you can fight 1 on 1 with the MC, that when beaten gives your MC a *slightly* easier time with the final fight of each trial, via higher level for more stats. 
         
     === "First Trial"
      
@@ -111,20 +111,23 @@
         
     === "Third Trial"
     
-        1. First must you defeat 4 different samurai disciples 1-on-1 in 4 different rooms, spread throughout the map. 
+        1. First must you defeat 4 different samurai disciples 1-on-1 with MC in 4 different rooms, spread throughout the map. 
             - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue.
-            - They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. 
+            - They each have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. 
             - If they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
-        2. The bottom left room will now be unlocked for you to face yet another deputy samurai.
-        3. Head to the center room of the map to meet the old man, in which you will need to successfully pass three QTE events in a row. 
-            - Failure has you take damage, and you can essentially fail twice before you are killed. However, you may select the withdraw option to heal up before trying again. 
-            - If you are evil the QTE will be slightly more difficult.
-        4. Upon succeeding, a final confrontation between the old man and young man will occur.
+        2. The bottom left room will now be unlocked for you to face yet a higher level deputy samurai.
+        3. Head to the center room of the map to meet the old man. The old man will test you by striking you and causing a QTE.
+            - If you sided with the young man earlier, failing the QTE once will cause him to to be unimpressed with the old man, skipping the QTE.
+            - If you sided with the old man earlier, you will need to successfully pass three QTE events in a row.
+                - Failure of QTE causes damage to MC, and you can fail twice before you are killed. However, 
+                - You may select the withdraw option to heal up before trying again.
+        4. A final confrontation between the old man and young man will occur.
             - Here you may need to pick a side again depending on your earlier choices and MC alignment. 
-            - You MUST protect the old man(Seigen) if you want to receive the samurai guiding light. 
+            - You MUST protect the old man(Seigen) if you want to receive the samurai guiding light.
             - Siding with the young man(Touma) is only available if you sided with him at the beginning and awards a white 1* silver-tier katana with humanoid-slayer instead of the samurai guiding light.
         5. You'll be thrown into a fight against the opposite selection. Your MC will be a samurai with fixed equipment, fighting along side your usual party of six.
-            - The old man will be by himself for his fight, and the young man will be with 5 samurai deputies with himself in the back. 
+            - The old man will be by himself for his fight, and the young man will be with 5 samurai deputies with himself in the back.
+        6. If you are evil and protected the old man, you will need to come back to this room and challenge the 3 QTE segment.
 
         
 ## Maps
