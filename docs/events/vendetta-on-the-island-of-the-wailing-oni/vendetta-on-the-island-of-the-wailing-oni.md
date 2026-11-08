@@ -85,9 +85,9 @@
         - The old man path will force you into the guiding light reward at the end. The young man path will allow you to choose between the guiding light reward, or a white 1* silver-tier katana with humanoid-slayer.
         - After picking, you will be forced into a fight with the opposing side. Either fight is unwinnable, however you need only survive 3 turns for a scripted end.
         - You will now be tasked with going through three different trials in order to unlock the Samurai class for the MC.
-        - (Optional)Each trial has an optional samurai NPC fight that gives you a *slightly* easier time with the final fight of each trial, via higher MC samurai level for more stats. 
+        - (Optional) Each trial has an optional samurai NPC fight that gives you a *slightly* easier time with the final fight of each trial, via higher MC samurai level for more stats. 
         
-     === "First Trial"
+    === "First Trial"
      
         - The gimmick of this floor is interactable torches that must be lit in a specific order. 
         - The torch by the entrance will always be the first torch in sequence. 
@@ -104,7 +104,7 @@
         
     === "Third Trial"
     
-        - In the third trial, first you must go to 4 different rooms throughout the map to defeat a samurai 1-on-1. These fights are similar to the previous final fights, except you'll have more resources. 
+        - In the third trial, first you defeat 4 different samurai 1-on-1 in 4 different rooms, spread throughout the map. These fights are similar to the previous final fights, except you'll have more resources. 
         - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue. They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
         - After defeating all 4, head to defeat the deputy samurai in the bottom left room that has been unlocked. 
         - You then head to the center room of the map to meet the old man, in which you will need to successfully pass three QTE events in a row. Failure has you take damage, and you can essentially fail twice before you are killed. However, you may select the withdraw option to heal up before trying again. If you are evil the QTE will be slightly more difficult.
