@@ -34,7 +34,8 @@
         - Is Fire Element and uses fire elemental attacks.
         - Has very high accuracy (over 300).
         - Boss periodically summons new Red Hobgoblin out of turn. Red Hobgoblin will charge an attack out of turn that, cleaving front row.
-        - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, ignoring armor. Healer/Knight/water resistance highly recommended. Alternatively, put MC in back row and just reverse the occasional deaths.
+        - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, ignoring armor. 
+            - Healer/Knight/water resistance highly recommended. Alternatively, put MC in back row and just reverse the occasional deaths.
         - Acts twice often, very high chance of using one action to summon a Red Hobgoblins if one is dead.
         - Can be Crit. Can be delayed. Batilgref recommended.
         - Scripted end of fight at 20% boss health if Kanosuke was saved.
@@ -56,7 +57,8 @@
         - Is Fire Element and uses fire elemental attacks.
         - Has very high accuracy (over 300).
         - Boss periodically summons new Red Hobgoblin out of turn. Red Hobgoblin will charge an attack out of turn that, cleaving front row.
-        - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, ignoring armor. Healer/Knight/water resistance highly recommended. Alternatively, put MC in back row and just reverse the occasional deaths.
+        - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, ignoring armor. 
+            - Healer/Knight/water resistance highly recommended. Alternatively, put MC in back row and just reverse the occasional deaths.
         - Acts twice often, very high chance of using one action to summon a Red Hobgoblins if one is dead.
         - Can be Crit. Can be delayed. Batilgref recommended.
         - Scripted end of fight at 20% boss health if Kanosuke was saved.
@@ -80,52 +82,63 @@
 
     === "Intro"
     
-        - Head to Rock-Heart Style Dojo from the world map. 
-        - You will be forced to choose a side amidst a power dispute. If you are good or evil you will be forced into a side, whereas if you are neutral you get to choose. Evil must side with the young man, where good must side with the old man. 
-        - The old man path will force you into the guiding light reward at the end. The young man path will allow you to choose between the guiding light reward, or a white 1* silver-tier katana with humanoid-slayer.
-        - After picking, you will be forced into a fight with the opposing side. Either fight is unwinnable, however you need only survive 3 turns for a scripted end.
-        - You will now be tasked with going through three different trials in order to unlock the Samurai class for the MC.
-        - (Optional) Each trial has an optional samurai NPC fight that gives you a *slightly* easier time with the final fight of each trial, via higher MC samurai level for more stats. 
+        1. Head to Rock-Heart Style Dojo from the world map. 
+        2. You will be forced to choose a side amidst a power dispute. 
+            - Evil must side with the young man, good must side with the old man, and neutral may freely choose.
+            - The old man path forces you into the samurai guiding light reward, whereas the young man path lets you choose between the guiding light or a white 1* silver-tier katana with humanoid-slayer. 
+        3. After picking, you will be forced into a fight with the opposing side. 
+            - Either fight has enemies that wont die, however you need only survive 3 turns for a scripted end.
+        4. You will now be tasked with going through three different trials
+        (Optional) Each trial has one optional samurai standing in the hallway paths that gives your MC a *slightly* easier time with the final fight of each trial, via higher level for more stats. 
         
     === "First Trial"
      
-        - The gimmick of this floor is interactable torches that must be lit in a specific order. 
-        - The torch by the entrance will always be the first torch in sequence. 
-        - Upon lighting a torch, it will indicate the direction you need to go for the next one. The next torch in sequence will always be on the exact same X or Y axis as the previous torch, and not simply just the closest torch in that general direction.
-        - If needed, You may interact with the last torch you've lit to have the instructions repeated. 
-        - After successfully completing the puzzle, the final room will unlock and you will fight a deputy samurai 1-on-1 as samurai MC. After winning the fight, head back to the entrance to unlock the next trial.
+        1. The gimmick of this floor is interactable torches that must be lit in a specific order. 
+            - The torch by the entrance will always be the first torch in sequence. 
+            - Upon lighting a torch, it will indicate the direction you need to go for the next one. 
+            - The next torch in sequence will always be on the exact same X or Y axis as the previous torch, and not simply just the closest torch in that general direction.
+            - If needed, You may interact with the last torch you've lit to have the instructions repeated. 
+        2. After successfully completing the puzzle, the final room will unlock and you will fight a deputy samurai 1-on-1 as samurai MC. After winning the fight, head back to the entrance to unlock the next trial.
         
     === "Second Trial"
     
-        - In this trial, you will need to carry bowl of water to a final location without spilling too much on the way there.  Every time upon getting hit in battle, some of the water will spill out.
-        - If you spill all the the water, you will need to head back to the entrance to get more. 
-        - The main gimmick of this trial however is that the destination is located in a room that is only accessible via teleport pads scattered throughout the map. See maps below for fastest route to the correct location.
-        - Once again, you'll fight a deputy samurai 1-on-1. Return to the entrance to unlock the next trial.
+        1. In this trial, you will need to carry bowl of water to a final location without spilling too much on the way there.  
+            - Some of the water will spill out every time you are hit in battle.
+            - If you spill all the the water you will need to head back to the entrance to get more. 
+        2. The main gimmick of this trial is that the final destination is located in a room that is only accessible via teleport pads scattered throughout the map.
+            - See maps below for fastest route to the correct location.
+        3. Once again, you'll fight a deputy samurai 1-on-1. Return to the entrance to unlock the next trial.
         
     === "Third Trial"
     
-        - In the third trial, first you defeat 4 different samurai 1-on-1 in 4 different rooms, spread throughout the map. These fights are similar to the previous final fights, except you'll have more resources. 
-        - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue. They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
-        - After defeating all 4, head to defeat the deputy samurai in the bottom left room that has been unlocked. 
-        - You then head to the center room of the map to meet the old man, in which you will need to successfully pass three QTE events in a row. Failure has you take damage, and you can essentially fail twice before you are killed. However, you may select the withdraw option to heal up before trying again. If you are evil the QTE will be slightly more difficult.
-        
-        - Upon succeeding, a final confrontation between the old man and young man will occur. Here you may need to pick a side again depending on your earlier choices and mc ailgment. 
-        - You MUST protect the old man(Seigen) if you want to receive the samurai guiding light. Siding with the young man(Touma) is only available if you sided with him at the beginning and awards a white 1* silver-tier katana with humanoid-slayer instead of the samurai guiding light.
-        - You'll be thrown into a fight against your respective selection. The Old man will be by himself and the young man will be with 5 deputies. Your MC will be a samurai with fixed equipment, and you have access to your full team of adventurers for these encounters.
+        1. First must you defeat 4 different samurai disciples 1-on-1 in 4 different rooms, spread throughout the map. 
+            - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue.
+            - They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. 
+            - In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
+        2. The bottom left room will now be unlocked for you to face yet another deputy samurai.
+        3. Head to the center room of the map to meet the old man, in which you will need to successfully pass three QTE events in a row. 
+            - Failure has you take damage, and you can essentially fail twice before you are killed. However, you may select the withdraw option to heal up before trying again. 
+            - If you are evil the QTE will be slightly more difficult.
+        4. Upon succeeding, a final confrontation between the old man and young man will occur.
+            - Here you may need to pick a side again depending on your earlier choices and MC alignment. 
+            - You MUST protect the old man(Seigen) if you want to receive the samurai guiding light. 
+            - Siding with the young man(Touma) is only available if you sided with him at the beginning and awards a white 1* silver-tier katana with humanoid-slayer instead of the samurai guiding light.
+        5. You'll be thrown into a fight against your respective selection. Your MC will be a samurai with fixed equipment, and you have access to your full team of adventurers for these encounters.
+            - The old man will be by himself, and the young man will be with 5 samurai deputies with himself in the back. 
 
         
 ## Maps
     
 ??? map "Ascetic Grounds of the Body"
-    ![](./img/ascetic-grounds-of-the-body.png)
 
-    !!! note "The map layout can be different, but the lamps are always in the same location"
+        !!! warning "The map layout can be different, but the lamps are always in the same location"        
+ ![](./img/ascetic-grounds-of-the-body.png)
 
 ??? map "Ascetic Grounds of Technique"
-    ![](./img/ascetic-grounds-of-technique.png)
+ ![](./img/ascetic-grounds-of-technique.png)
 
 ??? map "Ascetic Grounds of the Mind"
-    ![](./img/ascetic-grounds-of-the-mind.png)
+ ![](./img/ascetic-grounds-of-the-mind.png)
 
 ## Optional Boss Fight
 
