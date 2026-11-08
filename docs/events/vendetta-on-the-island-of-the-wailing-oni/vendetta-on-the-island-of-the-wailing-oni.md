@@ -69,13 +69,13 @@
 ## Maps
 
 ??? map "B1F"
-    ![](./img/island-of-the-wailing-oni-b1f.jpg)
+    ![](./img/island-of-the-wailing-oni-b1f.png)
 
 ??? map "B2F"
-    ![](./img/island-of-the-wailing-oni-b2f.jpg)
+    ![](./img/island-of-the-wailing-oni-b2f.png)
 
 ??? map "B3F"
-    ![](./img/island-of-the-wailing-oni-b3f.jpg)
+    ![](./img/island-of-the-wailing-oni-b3f.png)
 
 ## Guide for Rock-Heart Style Dojo (Second Part)
 !!! note "Guide"
