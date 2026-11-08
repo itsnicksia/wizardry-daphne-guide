@@ -21,24 +21,23 @@
 
 !!! note "1st Run"
 
-        === "Guide"
-    
-- Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (It will pull from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take western stairs to the next floor.
-- On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. There is a Minotuar and two Lesser Demon miniboss fight just before the stairs to B3F. 
-- On B3F head to the bottom left room to fight the Red Oni final boss. If you helped Kansouke he will slay the boss at 20%. The aftermath is key knowledge in saving Kansouke. 
-- Ignore the new Red Oni and pick up the key where the previous Oni used to be. Use the key on the locked room in north B3F and read the journal on the shelf for key knowledge. 
-- The request cannot be completed any further so use the Cursed Wheel to reset the request.
+    === "Guide"
+        - Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (It will pull from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take western stairs to the next floor.
+        - On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. There is a Minotuar and two Lesser Demon miniboss fight just before the stairs to B3F. 
+        - On B3F head to the bottom left room to fight the Red Oni final boss. If you helped Kansouke he will slay the boss at 20%. The aftermath is key knowledge in saving Kansouke. 
+        - Ignore the new Red Oni and pick up the key where the previous Oni used to be. Use the key on the locked room in north B3F and read the journal on the shelf for key knowledge. 
+        - The request cannot be completed any further so use the Cursed Wheel to reset the request.
         
-        === "Red Oni Boss Fight Details"
+    === "Red Oni Boss Fight Details"
     
-- ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
-- Is Fire Element and uses fire elemental attacks.
-- Has very high accuracy (over 300).
-- Boss will summon new Fire Hobbers periodically out of turn, and the Fire Hobbers will build up out of turn.
-- Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, and ignores armor. Healer highly recommended for Life-Binding Tincture. Knights Defense with with fire resistance also works. Alternatively put MC in back row and just reverse the occasional deaths.
-- Acts twice often, very high chance of using an action to summon a Hobber if one is dead.
-- Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
-- Scripted end of fight at 20% boss health.
+    - ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
+    - Is Fire Element and uses fire elemental attacks.
+    - Has very high accuracy (over 300).
+    - Boss will summon new Fire Hobbers periodically out of turn, and the Fire Hobbers will build up out of turn.
+    - Boss action Blazing Strike is a front-row single target attack that deals 1400-1700 Fire Damage, and ignores armor. Healer highly recommended for Life-Binding Tincture. Knights Defense with with fire resistance also works. Alternatively put MC in back row and just reverse the occasional deaths.
+    - Acts twice often, very high chance of using an action to summon a Hobber if one is dead.
+    - Can be Crit. Can be delayed. Recommended to cast Batilgref on him.
+    - Scripted end of fight at 20% boss health.
         
 !!! note "2nd Run"
 
