@@ -132,6 +132,7 @@
     
 ??? map "Ascetic Grounds of the Body" 
     ![](./img/ascetic-grounds-of-the-body.png)
+    
     !!! warning "The map layout can be different, but the lamps are always in the same location" 
 
 ??? map "Ascetic Grounds of Technique"
