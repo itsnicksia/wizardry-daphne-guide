@@ -79,24 +79,31 @@
 !!! note "Guide"
 
     === "Intro"
+    
         - Head to Rock-Heart Style Dojo from the world map. 
         - You will be forced to choose a side amidst a power dispute. If you are good or evil you will be forced into a side, whereas if you are neutral you get to choose. Evil must side with the young man, where good must side with the old man. 
         - The old man path will force you into the guiding light reward at the end. The young man path will allow you to choose between the guiding light reward, or a white 1* silver-tier katana with humanoid-slayer.
         - After picking, you will be forced into a fight with the opposing side. Either fight is unwinnable, however you need only survive 3 turns for a scripted end.
         - You will now be tasked with going through three different trials in order to unlock the Samurai class for the MC.
         - (Optional)Each trial has an optional samurai NPC fight that gives you a *slightly* easier time with the final fight of each trial, via higher MC samurai level for more stats. 
+        
      === "First Trial"
+     
         - The gimmick of this floor is interactable torches that must be lit in a specific order. 
         - The torch by the entrance will always be the first torch in sequence. 
         - Upon lighting a torch, it will indicate the direction you need to go for the next one. The next torch in sequence will always be on the exact same X or Y axis as the previous torch, and not simply just the closest torch in that general direction.
         - If needed, You may interact with the last torch you've lit to have the instructions repeated. 
         - After successfully completing the puzzle, the final room will unlock and you will fight a deputy samurai 1-on-1 as samurai MC. After winning the fight, head back to the entrance to unlock the next trial.
+        
     === "Second Trial"
+    
         - In this trial, you will need to carry bowl of water to a final location without spilling too much on the way there.  Every time upon getting hit in battle, some of the water will spill out.
         - If you spill all the the water, you will need to head back to the entrance to get more. 
         - The main gimmick of this trial however is that the destination is located in a room that is only accessible via teleport pads scattered throughout the map. See maps below for fastest route to the correct location.
         - Once again, you'll fight a deputy samurai 1-on-1. Return to the entrance to unlock the next trial.
+        
     === "Third Trial"
+    
         - In the third trial, first you must go to 4 different rooms throughout the map to defeat a samurai 1-on-1. These fights are similar to the previous final fights, except you'll have more resources. 
         - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue. They also have their own patterns of fighting but generally they can all be defeated using quickdraw stance provided they don't have an evasion buff. In addition, if they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
         - After defeating all 4, head to defeat the deputy samurai in the bottom left room that has been unlocked. 
