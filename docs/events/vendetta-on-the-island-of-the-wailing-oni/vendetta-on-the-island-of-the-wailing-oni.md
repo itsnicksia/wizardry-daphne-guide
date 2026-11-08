@@ -1,4 +1,4 @@
-# Vendetta on the Island of the Wailing Oni
+# Vendetta on the Island of the Wailing Oni 
 
 !!! item "This event is permanently available."
 
