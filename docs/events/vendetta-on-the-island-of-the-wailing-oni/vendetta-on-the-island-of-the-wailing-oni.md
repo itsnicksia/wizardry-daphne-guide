@@ -21,7 +21,7 @@
 
 !!! note "1st Run"
 
- === "Guide"
+        === "Guide"
     
 - Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (It will pull from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take western stairs to the next floor.
 - On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. There is a Minotuar and two Lesser Demon miniboss fight just before the stairs to B3F. 
@@ -29,7 +29,7 @@
 - Ignore the new Red Oni and pick up the key where the previous Oni used to be. Use the key on the locked room in north B3F and read the journal on the shelf for key knowledge. 
 - The request cannot be completed any further so use the Cursed Wheel to reset the request.
         
-=== "Red Oni Boss Fight Details"
+        === "Red Oni Boss Fight Details"
     
 - ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
 - Is Fire Element and uses fire elemental attacks.
@@ -42,7 +42,7 @@
         
 !!! note "2nd Run"
 
-=== "Guide"
+        === "Guide"
     
 - Take the request from the guild once again and reach the island through Port Town. Save Kanosuke from hunger and give him the letter you previously obtained. Mention the growing of horns. He will now follow you and help you read foreign text throughout the dungeon.
 - On B1F Head to the Archive Room (top left locked room). It will be locked but Kanosuke tells you to search for a clue to the key. The clue will be on B2F at westernmost wall (X:1, Y:17). With clue obtained, Kanosuke will then mark the key's location on your map with an exclamation mark on the same floor (X:18, Y:13). 
@@ -51,7 +51,7 @@
 - After reaching interacting with the shrine, you need to repair it with paper seals (found in top left locked room in B1F), and salt from the Pantry (bottom left room in B2F). Head back to the shrine and let Kanosuke fix the shrine.
 - Head to the Oni and fight it again. Upon winning, head to the middle locked room on B3F and read the diary. Head back to the Oni boss room and go into the treasure room to receive Kansouke as a bondmate (Bind Tolerance), the gold statue for the request, as well as a recommendation from Kanosuke for his Samurai Dojo.
         
-=== "Red Oni Boss Fight Details"
+        === "Red Oni Boss Fight Details"
     
 - ~35k health. Spawns with 2 Fire Hobbers with ~2k health in the same row. 
 - Is Fire Element and uses fire elemental attacks.
