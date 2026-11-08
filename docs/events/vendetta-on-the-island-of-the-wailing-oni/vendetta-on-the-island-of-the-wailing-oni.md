@@ -94,7 +94,7 @@
         
     === "First Trial"
      
-        1. The gimmick of this floor is interactable torches that must be lit in a specific order. 
+        1. The gimmick of this floor is to light interactable torches throughout the map in a specific order. 
             - The torch by the entrance will always be the first torch in sequence. 
             - Upon lighting a torch, it will indicate the direction you need to go for the next one. 
             - The next torch in sequence will always be on the exact same X or Y axis as the previous torch, and not simply just the closest torch in that general direction.
@@ -131,8 +131,8 @@
 ## Maps
     
 ??? map "Ascetic Grounds of the Body" 
- !!! warning "The map layout can be different, but the lamps are always in the same location"
     ![](./img/ascetic-grounds-of-the-body.png)
+    !!! warning "The map layout can be different, but the lamps are always in the same location" 
 
 ??? map "Ascetic Grounds of Technique"
     ![](./img/ascetic-grounds-of-technique.png)
