@@ -280,9 +280,14 @@
     ![](img/jelly-skill.jpg)
 
 - Can be randomly found in the Beginning Abyss (does not show on the map).
-- Feed it translucent stones or azure ore. The higher the value of ore given, the faster it will become a bondmate.
+- Feed it translucent stones, azure ore, or azure ore clumps.
+- The higher the value of ore given, the faster it will become a bondmate.  Totals required:
+    - Translucent Stones: 6
+    - Azure Ore: 3
+    - Azure Ore Clumps: 2  
 
-!!! note "Ghreen Jelly was previously limited to level 1. As of June 2026 he can now reach level 5."
+!!! note "Now a Level 5 Capable Bondmate"
+    Ghreen Jelly was previously limited to level 1. As of June 2026 he can now reach level 5.  He will reappear on Abyss resets to Awakening or Fresh Start, but it's not clear what the actual trigger point is and if a later point will also work.  
 
 ??? info "Appearance"
     ![](img/image_69.jpg)
