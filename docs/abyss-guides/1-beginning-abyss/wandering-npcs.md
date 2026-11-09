@@ -66,6 +66,6 @@ This non-hostile slime seems... hungry. What could go wrong?
             - Translucent Pebble  
             - Azure Ore  
             - Azure Ore Clump  
-        - Feeding it gems will eventually trigger [gaining the slime as a Bondmate](../../adventurer-customization/bondmates/beginning-abyss/bondmates.md#ghreen-jelly), with higher value gems achieving this sooner.
+        - Feeding it gems will eventually trigger [gaining the slime as a Bondmate](../../adventurer-customization/bondmates/beginning-abyss/bondmates.md#ghreen-jelly), with higher value gems achieving this sooner.  (Total gem required are approximately:  TP 6, AO: 3, AOC: 2)
     - Note:  Gems do not need to be in party inventory. Gems in storage can be used as long as you didn't sell them all.  Once acquired as a bondmate, you will only run into him again by using the Cursed Wheel. As of June 2026, he can now be met repeatedly and increased to Bondmate level 5
 
