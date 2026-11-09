@@ -355,9 +355,10 @@
 
 ## Extract
 
-- Equipment that has one or more Blessings can be "extracted". The extraction process <em>destroys the item</em> and can yield an Alteration Stone, Refinement Stone, Refinement Stone Fragments, or nothing.
-- The type of stone extracted is randomly selected from one of the Blessings on the piece of equipment. Current estimates put extraction liklihood at about 20% per Blessing.
-- Refinement stone fragments can be redeemed for Refinment Stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each for a 3* equivalent stone.
+- Equipment that has one or more Blessings can be "extracted". The extraction process <em>destroys the item</em> and has a chance of yielding an Alteration Stone, Refinement Stone, Refinement Stone Fragments, or nothing.
+- The type of stone extracted is randomly selected from one of the Blessings on the piece of equipment.  
+- Current estimates put extraction liklihood at about 20% per Blessing. E.g., a 'blue' item with two blessings has ~40% chance of producing a stone with one of those blessings.  
+- Refinement stone fragments can be redeemed for Refinment Stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each for a 3* equivalent stone.  
 
 ### ^^Alteration and Refinement Stone Values^^
 
@@ -371,10 +372,16 @@
 | ASPD%                                               | 1-2 | 1-3 | 2-4  | 3-5  | 3-6 |
 </div>
 
-- The equipment's Quality (★) determines the ★ value of the Alteration or Refinement Stone.
+- The equipment's Quality (★) determines the ★ value of the resulting Alteration or Refinement Stone.
 - Depending on RNG an extracted stone can roll up to 2 tiers higher than the extract piece of equipment. Examples:
     - Extracting a 2★ piece of equipment call roll a 2★ (common), 3★ (rare), or 4★ (very rare) Alteration or Refinment stone.
     - Extracting a 3★ piece of equipment call roll a 3★ (common), 4★ (rare), or 5★ (very rare) Alteration or Refinment stone.
+
+### ^^Advanced Extraction^^
+
+Again, only the star quality of the equipment being extracted determines the ★ value of the Refinement and Alteration stones produced from extraction. The magnitude of the item's Blessings values is not considered. Only **item quality** and **type of available substats** are considered when generating an extracted Stone.
+
+!!! tip "Alter a high ★ item with a low ★ alteration stone of a desired Blessing, extract that item, and if successful you will get a higher quality Alteration or Refinement Stone.  This can produce 'upgraded' high ★ stones from otherwise less-desired low ★ stones and equipment (albeit at a ~20% per blessing success rate)."
 
 ## Refine
 
@@ -394,11 +401,6 @@ Alteration has some nuanced behavior related to enhancement values of +5, +10, +
 
 ## Advanced Blacksmithing
 
-### ^^Advanced Extraction^^
-
-Only the star quality of an item being extracted determines the blessing magnitude of the Refinement and Alteration stones produced. 
-
-**Tip:** Altering a high quality item with undesired Blessings with a low-grade Stone of a desired Blessing, and then successfully extracting the resulting item will result in a higher quality Stone than was used for the alteration, as the game only considers **item quality** and **type of available substats** when generating a Stone. The magnitude of the item's Blessings values is not considered.  Despite the low rate of extraction success, this can produce useful stones from otherwise less-desired stones and equipment.
 
 ### ^^Full Alteration^^
 
@@ -486,7 +488,7 @@ A **Full Alteration Stone** (FAS) allows you to reroll all unlocked substats on 
     - The rerolls could all be at the lowest or highest in the available range.  
     - As always, only gamble with something you're comfortable losing.  
     
-## Composite Reinforcement  
+### Composite Reinforcement  
 
 !!! warning "ABYSS 4 WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
 
