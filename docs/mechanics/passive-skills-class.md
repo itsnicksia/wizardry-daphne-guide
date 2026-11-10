@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Passives Skills: Class
 
 !!! warning "Work in Progress"
