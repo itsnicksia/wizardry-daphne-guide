@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Wait Time System 
 
 ## Guide Organization 
