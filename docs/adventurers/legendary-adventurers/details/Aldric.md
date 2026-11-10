@@ -25,15 +25,28 @@
 
         <div class = "nosort-table nofilter-table" markdown>
 
-        | Level | Detect/Disarm Trap/Evade Trap (self) | Detect/Disarm Trap/Evade Trap (inherited) |
+        | Level | Total Detect/Disarm Trap/Evade Trap (self) | Total Detect/Disarm Trap/Evade Trap (inherited) |
         |:-----:|:------------------------------------:|:-----------------------------------------:|
-        |   1   |                 2/5/2                |                   1/3/1                   |
-        |   2   |                                      |                   2/5/2                   |
-        |   3   |                                      |                   4/9/4                   |
-        |   4   |                                      |                   6/11/6                  |
-        |   5   |                                      |                   8/15/8                  |
-        |   6   |                                      |                  10/17/10                 |
-        |   7   |                                      |                     -                     |
+        |   1   |                 2/4/2                |                   1/2/1                   |
+        |   2   |                 4/6/4                |                   2/4/2                   |
+        |   3   |                 8/10/8               |                   4/6/4                   |
+        |   4   |                 12/12/12             |                   6/8/6                   |
+        |   5   |                 16/14/16             |                   8/10/8                  |
+        |   6   |                 20/20/20             |                  10/12/10                 |
+        |   7   |                 25/24/25             |                     --                    |
+
+        | Level | Trapaphobia Tol (self) | Trapaphobia Tol (inherited) |
+        |:-----:|:----------------------:|:---------------------------:|
+        |   1   |                 15%    |              10%            |
+        |   2   |                 20%    |              13%            |
+        |   3   |                 25%    |              15%            |
+        |   4   |                 30%    |              18%            |
+        |   5   |                 35%    |              20%            |
+        |   6   |                 40%    |              25%            |
+        |   7   |                 45%    |              --             |
+
+
+
 
         </div>
 
