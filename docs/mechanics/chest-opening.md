@@ -1,5 +1,6 @@
 WIP, below is just an outline
 ([Contributions Welcome](/index.md#contributing))
+
 - Traits  
 - Find Trap calculation (from L'Montes)  
 - How chest mini-game works   
