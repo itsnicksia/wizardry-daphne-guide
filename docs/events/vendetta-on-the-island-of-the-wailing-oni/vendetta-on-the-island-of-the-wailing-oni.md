@@ -5,7 +5,7 @@
 ## Unlock Conditions
 
 - The first part requires reaching Route 5 of Abyss 4.
-- The second part requires the first part and having cleared a bad ending of Abyss 4.
+- The second part requires the first part, and a bad ending of Abyss 4.
 
 ## Overview
 
@@ -21,7 +21,7 @@
 
     === "Guide"
         1. Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (It will pull from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take the western stairs to the next floor.
-        2. On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. There is a Minotaur and two Lesser Demon miniboss fight just before the stairs to B3F. 
+        2. On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. A boss fight awaits before the stairs, a Minotaur and two Lesser Demons.
         3. On B3F, head to the bottom left room to fight the Red Oni final boss.
             - If you helped Kansouke, he will slay the boss when it's has low health. 
         4. Ignore the new Red Oni and pick up a key in the center of the boss room. Open the locked room in northern B3F and read the journal on the shelf for key knowledge. 
@@ -36,10 +36,10 @@
         - Boss periodically summons a new Red Hobgoblin out of turn. 
         - Red Hobgoblins will charge an attack out of turn.
         - Boss action Blazing Strike is a front-row single-target attack that deals 1400-1700 fire damage, ignoring armor. 
-            - Healer/Knight/water resistance highly recommended. 
+            - Healer/Knight/fire resistance highly recommended. 
             - Alternatively, put MC in the back row and just reverse the occasional deaths.
         - Acts twice often, with a very high chance of using one action to summon a Red Hobgoblin if one is dead.
-        - Can be Crit. Can be delayed. Batilgref recommended.
+        - Can be Crit and delayed. Batilgref recommended.
         - Scripted end of fight at 20% boss health if Kanosuke was rescued.
         
 !!! note "2nd Run"
@@ -63,10 +63,10 @@
         - Boss periodically summons a new Red Hobgoblin out of turn. 
         - Red Hobgoblins will charge an attack out of turn.
         - Boss action Blazing Strike is a front-row single-target attack that deals 1400-1700 fire damage, ignoring armor. 
-            - Healer/Knight/water resistance highly recommended. 
+            - Healer/Knight/fire resistance highly recommended. 
             - Alternatively, put MC in the back row and just reverse the occasional deaths.
         - Acts twice often, with a very high chance of using one action to summon a Red Hobgoblin if one is dead.
-        - Can be Crit. Can be delayed. Batilgref recommended.
+        - Can be Crit and delayed. Batilgref recommended.
         - Scripted end of fight at 20% boss health if Kanosuke was rescued.
          
 
@@ -93,10 +93,10 @@
                 - The old man's path forces you into the samurai guiding light.
                 - The young man's path lets you choose between two choices later. Guiding light, or a white 1* silver-tier katana with humanoid-slayer. 
         3. You will be forced into a fight with the opposing side. 
-            - Either fight has enemies that won't die, but you need only survive for 3 turns for a scripted end.
+            - Either fight consists of enemies that cannot die, but surviving for 3 turns for a scripted end.
         4. You will now be tasked with going through three different trials.
-        5. (Optional) Each trial has an optional samurai fight on the map that you can fight 1-on-1 with the MC.
-            - Gives your MC a higher level that gives you a *slightly* easier time with the final fight of each trial.
+        5. (Optional) Each trial has an optional samurai fight that you can fight 1-on-1 with the MC.
+            - Each victory gives MC samurai a slightly higher level for all the remaining 1-on-1 fights.
         
     === "First Trial"
      
@@ -115,28 +115,29 @@
             - If all of it is spilled, you need to head back to the entrance for more.
         2. The main gimmick of this trial is that the final destination is located in a room that is only accessible via teleport pads scattered throughout the map.
             - See maps below for fastest route to the correct location.
-        3. Another deputy samurai is waiting for 1-on-1 fight but with slightly higher difficulty. 
+        3. Another deputy samurai is waiting for another 1-on-1 fight but is slightly higher in difficulty. 
         4. Return to the entrance to unlock the next trial.
         
     === "Third Trial"
     
-        1. First you must defeat 4 different samurai disciples 1-on-1 in 4 different rooms, spread throughout the map. 
+        1. First you must defeat 4 different samurai disciples 1-on-1 in 4 different rooms spread throughout the map. 
             - Each disciple will imbue a certain element during the fight, and you can counter that element with your own imbue.
             - They each have their own fighting patterns, but generally they can all be defeated using quickdraw stance if they don't have an evasion buff. 
             - If they are known to use quickdraw stance, then only use your own quickdraw stance after they use theirs. 
-        2. The bottom left room will now be unlocked for you to face yet another deputy samurai of a higher level.
-        3. Head to the center room of the map to meet the old man. He will test you with QTE.
+        2. The bottom left room will now be unlocked for you to face yet another deputy samurai of a higher level
+        3. Return to the entrance to continue the trial. 
+        4. Head to the center room of the map to meet the old man. He will test you with QTE.
             - If you sided with the young man earlier, failing the QTE once will cause him to to be unimpressed with the old man, skipping the QTE.
             - If you sided with the old man earlier, you will need to successfully pass three QTE events in a row.
-                - Failure of QTE causes damage to MC, and you can fail twice before you are killed. However, 
+                - Failure of QTE causes damage to MC, and you can fail twice before you are killed.
                 - You may select the withdraw option to heal up before trying again.
-        4. A final confrontation between the old man and young man will occur.
+        5. A final confrontation between the old man and young man will occur.
             - Here you may need to pick a side again depending on your earlier choices and MC alignment. 
             - You MUST protect the old man(Seigen) if you want to receive the samurai guiding light.
             - Siding with the young man(Touma) is only available if you sided with him at the beginning and awards a white 1* silver-tier katana with humanoid-slayer instead of the samurai guiding light.
-        5. You'll be thrown into a fight against the opposite selection. Your MC will be a samurai with fixed equipment, fighting alongside your usual party of six.
+        6. You'll be thrown into a fight against the opposite selection. Your MC will be a samurai with fixed equipment, fighting alongside your usual party of six.
             - The old man will be by himself for his fight, and the young man will be with 5 samurai deputies with himself in the back.
-        6. If you are evil and protected the old man, you will need to come back after the cutscene to this room and challenge old man's 3 QTE.
+        7. If you are evil and protected the old man, you will need to come back after the cutscene to this final room and challenge the old man to obtain the samurai guiding light.
 
         
 ## Maps
@@ -161,7 +162,7 @@
     - Non elemental Humanoid type. Always has 3 actions per turn. Has around 40k HP. All of his attacks have a chance to apply confusion. He also has around 150 Surety Evasion. Has around 130-150 ASPD (varies)
     - His attacks can be entirely evaded but will need very high evasion (400+ total with buffs). 160 ASPD is enough to outspeed him turn 1 consistently.
     - On his first three actions he will always use an elemental-bearer skill, debuff a row with DEF and ATK down, and then give himself 40 turns of evasion up (Very high evasion boost). It's recommended to dispel this evasion buff ASAP.
-    - He will typically just use his turns to use normal samurai attacks (Decisive Torso Strike, normal attacks, Bamboo Splitter, Quickdraw Stance). The quickdraw stance does enough damage to instantly kill a unit even in the backrow that is defending, so it's recommended to cancel it with a magic damaging skill.
+    - He will typically just use his turns to use normal samurai attacks (Decisive Torso Strike, normal attacks, Bamboo Splitter, Quickdraw Stance). The quickdraw stance does enough damage to instantly kill a unit even in the back row that is defending, so it's recommended to cancel it with a magic damaging skill.
     - After he takes around 8k damage, he will apply 6 turns of Self-Healing on himself out of turn, which immediately recovers 1000 HP and 500 per his action. Whenever this Self-Healing buff is naturally over, he will re-apply it.
     - After taking around 20k damage, he will self-buff with 40 turns of DEF, MDEF, and CT UP. At this point, all of his attacks do significantly more damage. He will also gain a chance at evading magic damage (so be careful if relying on Malefic Wind to dispel his buffs).
-    - Upon being defeated, he will drop some Red Gourd currency, some gold-sell items, some Unusual level junk, and a small chance at obtaining a Oni Island Yoto, which is a unique Yoto Odachi that has a chance to inflict confusion per attack at the cost of reducing self DEF/MDEF.
+    - Upon being defeated, he will drop some Red Gourd currency, some gold-sell items, some Unusual level junk, and a small chance at obtaining an Oni Island Yoto, which is a unique Yoto Odachi that has a chance to inflict confusion per attack at the cost of reducing self DEF/MDEF.
