@@ -335,7 +335,7 @@
     
     </div> 
 
-    - Borderline usefulness in A3 if your primary chest opener is struggling and getting Traphophobia frequently. 
+    - Borderline usefulness in A3 if your primary chest opener is struggling and getting Trapophobia frequently. 
     - Based on testing through Level 4 it seems like a flat +5% per level. 
 
 === "Way of the Thief" 
@@ -766,7 +766,7 @@
     | Detect            | 2   | 2 (4)   | 4 (8)   | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     | Disarm Trap       | 4   | 2 (6)   | 4 (10)  | 2 (12)  | 2 (14)  | 6 (20)  | 4 (24)  |
     | Evade Trap        | 2   | 2 (4)   | 4 (8)   | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Traphobia Resist &emsp; &emsp; &emsp;  | 15  | 5 (20)  | 5 (25)  | 5 (30)  | 5 (35)  | 5 (40)  | 5 (45)  |
+    | Trapophobia Resist &emsp; &emsp; &emsp;  | 15  | 5 (20)  | 5 (25)  | 5 (30)  | 5 (35)  | 5 (40)  | 5 (45)  |
 
     </div>  
  
@@ -779,7 +779,7 @@
     | Detect            | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
     | Disarm Trap       | 2   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 2 (12)  | 
     | Evade Trap        | 1   | 1 (2)   | 2 (4)   | 2 (6)   | 2 (8)   | 2 (10)  | 
-    | Traphobia Resist &emsp; &emsp; &emsp;   | 10  | 3 (13)  | 2 (15)  | 3 (18)  | 2 (20)  | 5 (25)  | 
+    | Trapophobia Resist &emsp; &emsp; &emsp;   | 10  | 3 (13)  | 2 (15)  | 3 (18)  | 2 (20)  | 5 (25)  | 
 
     </div>  
 
