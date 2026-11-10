@@ -5,7 +5,7 @@
 ## Unlock Conditions
 
 - The first part requires reaching Route 5 of Abyss 4.
-- The second part requires the first part, and a bad ending of Abyss 4.
+- The second part requires the first part and a bad ending of Abyss 4.
 
 ## Overview
 
@@ -20,7 +20,7 @@
 !!! note "1st Run"
 
     === "Guide"
-        1. Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (It will pull from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take the western stairs to the next floor.
+        1. Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (it pulls from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take the western stairs to the next floor.
         2. On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. A boss fight awaits before the stairs, a Minotaur and two Lesser Demons.
         3. On B3F, head to the bottom left room to fight the Red Oni final boss.
             - If you helped Kansouke, he will slay the boss when it's has low health. 
@@ -93,9 +93,9 @@
                 - The old man's path forces you into the samurai guiding light.
                 - The young man's path lets you choose between two choices later. Guiding light, or a white 1* silver-tier katana with humanoid-slayer. 
         3. You will be forced into a fight with the opposing side. 
-            - Either fight consists of enemies that cannot die, but surviving for 3 turns for a scripted end.
+            - Either of the fights consist of enemies that cannot die, but surviving for 3 turns causes a scripted end.
         4. You will now be tasked with going through three different trials.
-        5. (Optional) Each trial has an optional samurai fight that you can fight 1-on-1 with the MC.
+        5. (Optional) Each trial has an optional samurai you can fight 1-on-1 with the MC.
             - Each victory gives MC samurai a slightly higher level for all the remaining 1-on-1 fights.
         
     === "First Trial"
@@ -137,7 +137,7 @@
             - Siding with the young man(Touma) is only available if you sided with him at the beginning and awards a white 1* silver-tier katana with humanoid-slayer instead of the samurai guiding light.
         6. You'll be thrown into a fight against the opposite selection. Your MC will be a samurai with fixed equipment, fighting alongside your usual party of six.
             - The old man will be by himself for his fight, and the young man will be with 5 samurai deputies with himself in the back.
-        7. If you are evil and protected the old man, you will need to come back after the cutscene to this final room and challenge the old man to obtain the samurai guiding light.
+        7. If you are evil and protected the old man, you must come back to the final room of this trial and challenge the old man's 3 QTE to obtain the samurai guiding light.
 
         
 ## Maps
