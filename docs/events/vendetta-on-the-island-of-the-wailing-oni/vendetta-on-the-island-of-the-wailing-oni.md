@@ -20,11 +20,11 @@
 !!! note "1st Run"
 
     === "Guide"
+        !!! warning "MC Getting killed by the Red Oni at the end of B3F within your first run will completely reset your request." 
         1. Enter B1F and interact with the Samurai. Help him, as he is necessary for progression. Give him a Medicinal Herb (it pulls from town storage) or Dried Abalone. It doesn't matter which. Afterwards, take the western stairs to the next floor.
         2. On B2F, head to the southern middle region and pick up the letter from a dead samurai. Have Kanosuke read it and ask for his help. Continue onwards east. A boss fight awaits before the stairs, a Minotaur and two Lesser Demons.
         3. On B3F, head to the bottom left room to fight the Red Oni final boss.
             - If you helped Kansouke, he will slay the boss when it's has low health. 
-        !!! warning "MC Getting killed by the Red Oni at the end of B3F within your first run will completely reset your request." 
         4. Ignore the new Red Oni and pick up a key in the center of the boss room. Open the locked room in northern B3F and read the journal on the shelf for key knowledge. 
         5. The request cannot be completed any further, so use the Cursed Wheel to reset the request.
         
