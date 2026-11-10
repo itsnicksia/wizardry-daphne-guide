@@ -25,7 +25,9 @@
 
         <div class = "nosort-table nofilter-table" markdown>
 
-        | Level | Total Detect/Disarm Trap/Evade Trap (self) | Total Detect/Disarm Trap/Evade Trap (inherited) |
+        Total Detect/Disarm Trap/Evade Trap:
+
+        | Level |  self | inherited |
         |:-----:|:------------------------------------:|:-----------------------------------------:|
         |   1   |                 2/4/2                |                   1/2/1                   |
         |   2   |                 4/6/4                |                   2/4/2                   |
@@ -35,7 +37,10 @@
         |   6   |                 20/20/20             |                  10/12/10                 |
         |   7   |                 25/24/25             |                     --                    |
 
-        | Level | Trapaphobia Tol (self) | Trapaphobia Tol (inherited) |
+
+        Trapophobia Tolerance
+        
+        | Level | self | inherited |
         |:-----:|:----------------------:|:---------------------------:|
         |   1   |                 15%    |              10%            |
         |   2   |                 20%    |              13%            |
