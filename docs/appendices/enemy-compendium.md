@@ -1,3 +1,10 @@
+---
+search:
+  exclude: true
+---
+
+!!! note "The Enemy Compendium has been taken offline. It may be replaced by a different Beastiary in the future.  [Contributions Welcome](/index.md#contributing)"
+
 # [Enemy Compendium (Click Here to Edit)](https://docs.google.com/spreadsheets/d/1PInwKaicXTZVvbG3RSA3YPPgbPDwlL99eJKRrAgjXzU/)
 
 !!! note
