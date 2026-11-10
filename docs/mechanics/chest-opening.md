@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 WIP, below is just an outline
 ([Contributions Welcome](/index.md#contributing))
 
