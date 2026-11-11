@@ -69,7 +69,9 @@ Promotional codes can be entered via the [Official Wizardry Store](https://store
 ![Promo Code Entry](img/promo-codes.png)
 
 ### Active Codes
-<div>
+
+<div class = "nosort-table nofilter-table" markdown>
+
 
 | Code       | Contents       | Source             |
 |------------|----------------|--------------------|
