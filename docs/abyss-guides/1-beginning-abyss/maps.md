@@ -66,7 +66,7 @@ The Beginning Abyss is an eight level dungeon that serves as both a game tutoria
         These dead men tell tales.  The first corpse tell you which door will have spikes behind it.  The next two will tell you the correct warp order matching the sun (north then west, like the setting sun). Statue room puzzle requires you to restore the statue heads that match your party members according to the clue on the nearby dead body. If none match, leave all heads broken. This clue can change every time you enter this level. [See answers in the FAQ](../../frequently-asked-questions.md#how-do-i-solve-the-statue-puzzle-on-b6f-of-the-beginning-abyss). Saint shield quest is also completed here; do the second warp wrong and fight the mob.
 
     === "Variation 1"
-        ![](./img/beginning-abyss-b6f-v1.jpg)
+        ![](./img/beginning-abyss-b6f-v1.png)
 
     === "Variation 2"
         ![](./img/beginning-abyss-b6f-v2.jpg)
