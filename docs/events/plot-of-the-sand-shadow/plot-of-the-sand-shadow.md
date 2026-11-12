@@ -92,6 +92,8 @@ There are two parts for the Trial of the Heat Haze.
 
 The 1st part is just a standard walk through a dungeon with some sentries. There are "whistle" sentries that if they spot you, will penalize you in the end by making you fight a few more trash mobs. It's not important to avoid them. The enemies in this dungeon are exclusively ninja mobs. If you are Evil Alignment, you will receive the guiding light at this point. However, if you are not, there will be a 2nd part to the trial.
 
+!!! note "There are two big rooms both with traps/alarms and poor-puzzle-design clues. See details below the map."
+
 !!! note "If you plan to bring a low level adventurer in here, keep in mind there is a mandatory spike trap at the end that will deal around 60-70 HP. It is recommended to accomodate for such."
 
 The 2nd part requires you to select only 1 adventurer to bring with you and walk through another dungeon with significantly easier enemies (singlar ninja). Upon reaching the end you MUST sacrifice the adventurer you bring with you (You will have to fight them. Select stand your ground.) They will be PERMANENTLY deleted if you confirm to do so. You will be warned multiple times before fully committing, so feel free to back out of this and bring a more disposable adventurer if possible. 
@@ -99,8 +101,34 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 ### Maps:
 
 ??? note "Maps:"
-    ![](img/trial-of-heat-haze-b1f.jpg)
-    ![](img/trial-of-heat-haze-b2f.jpg)
+    === "B1F"  
+        ![](img/trial-of-heat-haze-b1f.jpg)  
+
+        ??? tip "Trap room codes"
+            The two 7x7 rooms have Traps/Alarms with notes at the entrance to the rooms giving strings of numbers. The numbers are clues to guide you safely through the room. HOWEVER the codes require you to know the room size, which can't be seen from the entrance.
+
+            1. Trap room:  
+                - Code: `1126722356335423565 1266134567123`  
+                - The two lines of numbers are actually one long string.
+                - It tells you the safe squares to step in each of the 7 rows with `x,y=1,1` being in the top left corner.
+                - The string splits as `Row# Safe Column #s`  
+                - E.g., the first group is `1-1,2,6,7` meaning in row one, columns `1,2,6,7` are safe. Then it repeats with row 2, 3, etc. Result:
+                - `1 - 1,2,6,7`  
+                - `2 - 2,3,5,6`  
+                - `3 - 3,5`  
+                - `4 - 2,3,5,6`  
+                - `5 - 1,2,6`  
+                - `6 - 1,3,4,5,6`  
+                - `7 - 1,2,3`  
+                
+            2. Alarm room:  
+                - Code:`12 26 34 41 55 63 75`  
+                - They are xy pairs. e.g., 12 is x1,y2) of alarm locations measured from the far, upper-left corner.  
+
+            Credit: @Topbird
+            
+    === "B2F"  
+        ![](img/trial-of-heat-haze-b2f.jpg)
 
 ### Reward:
 
