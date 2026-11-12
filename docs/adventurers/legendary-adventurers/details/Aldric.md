@@ -27,7 +27,7 @@
 
         Total Detect/Disarm Trap/Evade Trap:
 
-        | Level |  self | inherited |
+        | Level |  Aldric | Inherited |
         |:-----:|:------------------------------------:|:-----------------------------------------:|
         |   1   |                 2/4/2                |                   1/2/1                   |
         |   2   |                 4/6/4                |                   2/4/2                   |
@@ -40,7 +40,7 @@
 
         Trapophobia Tolerance:
         
-        | Level | self | inherited |
+        | Level | Aldric | Inherited |
         |:-----:|:----------------------:|:---------------------------:|
         |   1   |                 15%    |              10%            |
         |   2   |                 20%    |              13%            |
