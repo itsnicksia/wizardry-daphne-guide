@@ -14,7 +14,8 @@
 **Bondmate Trait**: {{ chardata['Bondmate Trait'] }}  
 **Starting Class**: {{ chardata['Primary Class'] }}  
 {%if chardata['Secondary Class'] %}**Class Change**: {{ chardata['Secondary Class'] }}{% endif %}  
-{%if chardata['Alternate Style'] %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
+{%if chardata['Alternate Style'] %}{%if chardata['Alternate Style2'] %}**1st** {% endif %}**Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
+{%if chardata['Alternate Style2'] %}**2nd Alternate Style**: {{ chardata['Alternate Style'] }}{% endif %}  
 
 ## Base Traits  
 === "Class: {{chardata['Primary Class']}}"
