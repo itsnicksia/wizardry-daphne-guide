@@ -107,8 +107,25 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
         ??? tip "Trap room codes"
             The two 7x7 rooms have Traps/Alarms with notes at the entrance to the rooms giving strings of numbers. The numbers are clues to guide you safely through the room. HOWEVER the codes require you to know the room size, which can't be seen from the entrance.
 
-            1. Trap room:
-            2. Alarm room: `12 26 34 41 55 63 75`, xy pairs (e.g., 12 is x1,y2) of alarm locations measured from the far, upper-left corner.
+            1. Trap room:  
+                - Code: `1126722356335423565 1266134567123`  
+                - The two lines of numbers are actually one lone string.
+                - It tells you the safe squares to step in each of the 7 rows with `x,y=1,1` being in the top left corner.
+                - The string splits as `Row# Safe Column #s`  
+                - E.g., the first group is `1-1,2,6,7`meaning in row one, columns 1,2,6,7 are safe. Then it repeats with row 2, 3, etc. Result:
+                - `1 - 1,2,6,7`  
+                - `2 - 2,3,5,6`  
+                - `3 - 3,5`  
+                - `4 - 2,3,5,6`  
+                - `5 - 1,2,6`  
+                - `6 - 1,3,4,5,6`  
+                - `7 - 1,2,3`  
+                
+            2. Alarm room:  
+                - Code:`12 26 34 41 55 63 75`  
+                - They are xy pairs. e.g., 12 is x1,y2) of alarm locations measured from the far, upper-left corner.  
+
+            Credit: @Topbird
             
     === "B2F"  
         ![](img/trial-of-heat-haze-b2f.jpg)
