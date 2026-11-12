@@ -45,7 +45,7 @@
         
     <div class="nofilter-table nosort-table char-traits-table" markdown>
 {{ populate_quicklist(file='adventurers.csv', return_columns=['StrengthAlt1CC','IQAlt1CC','PietyAlt1CC','VitalityAlt1CC','DexterityAlt1CC','SpeedAlt1CC','LuckAlt1CC'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
-    </div> {% endif %}
+    </div> {% endif %}{% endif %}
 
 {% if chardata['StrengthAlt2'] %}
 
@@ -60,7 +60,7 @@
         
     <div class="nofilter-table nosort-table char-traits-table" markdown>
 {{ populate_quicklist(file='adventurers.csv', return_columns=['StrengthAlt2CC','IQAlt2CC','PietyAlt2CC','VitalityAlt2CC','DexterityAlt2CC','SpeedAlt2CC','LuckAlt2CC'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
-    </div> {% endif %}
+    </div> {% endif %}{% endif %}
 {{build_iv_table_link(title)}}  
 {% if chardata['Alternate Style'] %}{{build_iv_table_link(title + " - " + chardata['Alternate Style'])}}  {% endif %}  
 {% if chardata['Alternate Style2'] %}{{build_iv_table_link(title + " - " + chardata['Alternate Style2'])}}  {% endif %}  
@@ -87,6 +87,11 @@
 {% if chardata['Alternate Style'] %}
     === "{{chardata['Alternate Style']}}"
         ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Alternate Style'].replace(" ","-") | lower}}.jpg)
+{% endif %}
+
+{% if chardata['Alternate Style2'] %}
+    === "{{chardata['Alternate Style2']}}"
+        ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Alternate Style2'].replace(" ","-") | lower}}.jpg)
 {% endif %}
 
 {% if chardata['Personal Request'] %}
