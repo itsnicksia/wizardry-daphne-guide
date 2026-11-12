@@ -94,8 +94,8 @@
         ![](../img/{{title.replace(" ","-") | lower }}-{{chardata['Alternate Style2'].replace(" ","-") | lower}}.jpg)
 {% endif %}
 
-{% if chardata['Personal Request'] %}
-    !!! note "Personal Request Style Switching: After completing {{title}}'s Personal Request, you can freely toggle between new and old styles by going to the Training Room and triple-clicking on their portrait."
+{% if chardata['Personal Request'] or chardata['Alternate Style'] %}
+    !!! note "Style Switching: After {% if chardata['Personal Request'] %} completing {{title}}'s Personal Request{% endif %} {% if chardata['Personal Request'] or chardata['Alternate Style'] %} or {% endif %} {% if chardata['Alternate Style'] %} merging {{title}}'s Alternate Style{% endif %}, you can freely toggle between new and old styles by going to the Training Room and triple-clicking on their portrait."
 {% endif %}
 
 {% endblock PortraitSection %}
