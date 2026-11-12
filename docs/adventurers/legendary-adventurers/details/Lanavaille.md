@@ -65,15 +65,15 @@
 {% endblock PotentialInheritFreetext %}
 
 {% block UniqueSkillFreetext %}
-        !!! note "This damage increase is approximately 10%."
+        !!! note "The damage increase to enemies is approximately 10%."
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}
-        !!! note "This damage increase is approximately 10%."
+        !!! note "The damage increase to enemies is approximately 10%.  The increase in Action Speed is 2 points each for equipping a one-handed sword and light armor (body only), for a total potential increase of 4 ASPD."
 {% endblock AltUniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext2 %}
-        !!! note "This damage increase is approximately 10%."
+        !!! note "The damage increase to enemies is approximately 10%."
 {% endblock AltUniqueSkillFreetext2 %}
 
 {% block DisciplineFreetext %}
