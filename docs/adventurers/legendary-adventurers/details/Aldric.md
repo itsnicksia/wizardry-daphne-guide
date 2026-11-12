@@ -38,7 +38,7 @@
         |   7   |                 25/24/25             |                     --                    |
 
 
-        Trapophobia Tolerance
+        Trapophobia Tolerance:
         
         | Level | self | inherited |
         |:-----:|:----------------------:|:---------------------------:|
