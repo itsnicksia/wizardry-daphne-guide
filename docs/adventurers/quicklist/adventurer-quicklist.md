@@ -10,7 +10,7 @@
     {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Strength2','IQ2','Piety2','Vitality2','Dexterity2','Speed2','Luck2']) | convert_to_md_table | add_indentation(spaces=4) }}
 
 === "Skill Inherits" 
-    {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Rarity','Inheritable Skill','Alternate Inheritable Skill','Potential Inherit']) | convert_to_md_table | add_indentation(spaces=4) }}
+    {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Rarity','Inheritable Skill','Potential Inherit', 'Alternate Inheritable Skill', 'Alternate Inheritable Skill2']) | rename_columns(['Name','Rarity','Inheritable Skill','Potential Inherit', '1st Alternate Inheritable Skill', '2nd Alternate Inheritable Skill']) | convert_to_md_table | add_indentation(spaces=4) }}
 
 === "Remains"
     {{ populate_quicklist(file='adventurers.csv',return_columns=['Name','Rarity','Unique Bone Name','Alternate Unique Bone Name','Alternate Unique Bone Name2']) | rename_columns(['Name','Rarity','Unique Bone Name','1st Alternate Unique Bone Name','2nd Alternate Unique Bone Name']) | convert_to_md_table | add_indentation(spaces=4) }}
