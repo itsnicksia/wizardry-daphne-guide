@@ -210,10 +210,10 @@ Alternate Ending:
 ??? info "Request"
     ![](img/image_55.jpg)
 
-- Defeat the 3 groups of zealots
+- Defeat the 3 groups of zealots on B6F, each separately found within the 'wrong portal taken' rooms.
 
 ??? map "Locations"
-    ![](img/image_82.jpg)
+    ![](img/abyss-heretic-locations.jpg)
 
 ### March of the Undead
 
