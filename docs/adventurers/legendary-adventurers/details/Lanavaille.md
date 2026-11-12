@@ -43,6 +43,22 @@
 {% endblock AltInheritFreetext %}
 
 {% block AltInheritFreetext2 %}
+
+        <div class = "nosort-table nofilter-table" markdown>
+
+        HP Recovery Amount:  
+        
+        | Level | Lanavaille |  Inherited | 
+        |:-----:|:----------:|:----------:|
+        |     1 |         35 |         19 |
+        |     2 |         51 |         22 |
+        |     3 |         70 |         26 |
+        |     4 |         85 |         29 |
+        |     5 |        108 |         34 |
+        |     6 |        123 |         38 |
+        |     7 |        150 |         -- |
+
+        </div>
 {% endblock AltInheritFreetext2 %}
 
 {% block PotentialInheritFreetext %}
