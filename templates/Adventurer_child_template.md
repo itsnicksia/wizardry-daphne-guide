@@ -26,7 +26,10 @@
 
 {% block AltInheritFreetext %}
 {% endblock AltInheritFreetext %}
-     
+
+{% block AltInheritFreetext2 %}
+{% endblock AltInheritFreetext2 %}
+
 {% block PotentialInheritFreetext %}
 {% endblock PotentialInheritFreetext %}
 
@@ -36,11 +39,17 @@
 {% block AltUniqueSkillFreetext %}
 {% endblock AltUniqueSkillFreetext %}
 
+{% block AltUniqueSkillFreetext2 %}
+{% endblock AltUniqueSkillFreetext2 %}
+
 {% block DisciplineFreetext %}
 {% endblock DisciplineFreetext %}
 
 {% block AltDisciplineFreetext %}
 {% endblock AltDisciplineFreetext %}
+
+{% block AltDisciplineFreetext2 %}
+{% endblock AltDisciplineFreetext2 %}
 
 {% block ReviewsAndAnalysis %}
 
