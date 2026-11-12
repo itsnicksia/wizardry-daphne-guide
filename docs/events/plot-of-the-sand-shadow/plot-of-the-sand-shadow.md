@@ -109,10 +109,10 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 
             1. Trap room:  
                 - Code: `1126722356335423565 1266134567123`  
-                - The two lines of numbers are actually one lone string.
+                - The two lines of numbers are actually one long string.
                 - It tells you the safe squares to step in each of the 7 rows with `x,y=1,1` being in the top left corner.
                 - The string splits as `Row# Safe Column #s`  
-                - E.g., the first group is `1-1,2,6,7`meaning in row one, columns 1,2,6,7 are safe. Then it repeats with row 2, 3, etc. Result:
+                - E.g., the first group is `1-1,2,6,7` meaning in row one, columns `1,2,6,7` are safe. Then it repeats with row 2, 3, etc. Result:
                 - `1 - 1,2,6,7`  
                 - `2 - 2,3,5,6`  
                 - `3 - 3,5`  
