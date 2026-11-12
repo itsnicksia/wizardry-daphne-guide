@@ -69,6 +69,7 @@
 {% endblock UniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext %}
+        !!! note "This damage increase is approximately 10%."
 {% endblock AltUniqueSkillFreetext %}
 
 {% block AltUniqueSkillFreetext2 %}
