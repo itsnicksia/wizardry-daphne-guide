@@ -119,6 +119,13 @@
         {% endblock AltInheritFreetext %}
  {% endif %}
 
+ {% if chardata['Alternate Inheritable Skill2'] %}
+    === "{{chardata['Alternate Inheritable Skill2']}} ({{chardata['Alternate Style2']}})"
+        {{ get_skill_description(chardata['Alternate Inheritable Skill2']) }}
+        {% block AltInheritFreetext2 %}
+        {% endblock AltInheritFreetext2 %}
+ {% endif %}
+ 
 {% if chardata['Potential Inherit'] %}
 !!! info "Potential Inherit"
     === "{{chardata['Potential Inherit']}}"
@@ -141,6 +148,13 @@
         {% endblock AltUniqueSkillFreetext %}
  {% endif %}
 
+ {% if chardata['Alternate Unique Skill (Not Inheritable)2'] %}
+    === "{{chardata['Alternate Unique Skill (Not Inheritable)2']}} ({{chardata['Alternate Style2']}})"
+        {{ get_skill_description(chardata['Alternate Unique Skill (Not Inheritable)2']) }}
+        {% block AltUniqueSkillFreetext2 %}
+        {% endblock AltUniqueSkillFreetext2 %}
+ {% endif %}
+ 
 !!! info "Discipline Skill"
     === "{{chardata['Discipline']}} {% if chardata['Alternate Discipline'] %}(Standard){% endif %}"
         {{ get_skill_description(chardata['Discipline']) }}
@@ -150,9 +164,15 @@
 {% if chardata['Alternate Discipline'] %}
     === "{{chardata['Alternate Discipline']}} ({{chardata['Alternate Style']}})"
         {{ get_skill_description(chardata['Alternate Discipline']) }}
-
         {% block AltDisciplineFreetext %}
         {% endblock AltDisciplineFreetext %}
+{% endif %}
+
+{% if chardata['Alternate Discipline2'] %}
+    === "{{chardata['Alternate Discipline2']}} ({{chardata['Alternate Style2']}})"
+        {{ get_skill_description(chardata['Alternate Discipline2']) }}
+        {% block AltDisciplineFreetext2 %}
+        {% endblock AltDisciplineFreetext2 %}
 {% endif %}
 
 ??? info "Class-learned Skills List"
@@ -165,7 +185,6 @@
 {% else %}
         {{ populate_quicklist(filter_values=[chardata['Primary Class']], filter_column='Class', file='skills.csv', return_columns=['Level','Name','Type','Restriction']) | mage_element_trim(chardata['Primary Class'], chardata['Type']) | sort_mixed_values(sortcol="Level") | linkify_quicklist_skillnames(page.file.src_uri) | convert_to_md_table | add_indentation(spaces=8) }}
 {% endif %}
-
 
 {% if chardata['Secondary Class'] %}
     === "Class: {{chardata['Secondary Class']}}" 
