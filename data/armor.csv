@@ -93,7 +93,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 548,Head!A548,Head,3220,Seafoam Helm,Silver,Light,,1500,0,0,0,18,0,-1,-2,0,-2,4,0,0,0,25,0,-1,-2,0,-2,9,0,0,0,30,0,-1,-2,0,-2,14,0,0,0,37,0,-1,-2,0,-2,19,0,0,0,43,0,-1,-2,0,-2,24,Fire Type Reduction
 554,Head!A554,Head,3362,Heat-Haze Headguard,Silver,Light,,1500,0,0,0,13,0,-1,-2,0,-2,2,0,0,0,20,0,-1,-2,0,-2,7,0,0,0,25,0,-1,-2,0,-2,12,0,0,0,32,0,-1,-2,0,-2,17,0,0,0,38,0,-1,-2,0,-2,22,"Magical Beast Resistance, Stun Tolerance"
 560,Head!A560,Head,3366,Silver Helm of Malice,Silver,Light,,,0,0,0,19,0,-1,-2,0,-2,4,0,0,0,26,0,-1,-2,0,-2,9,0,0,0,31,0,-1,-2,0,-2,14,0,0,0,38,0,-1,-2,0,-2,19,0,0,0,44,0,-1,-2,0,-2,24,Insta-Kill Tolerance
-566,Head!A566,Head,Ex.,Light Helmet of Good Reward,Silver,Light,,,0,0,0,18,6,-1,-2,0,-5,6,0,0,0,27,6,-1,-2,0,-5,12,0,0,0,32,6,-1,-2,0,-5,18,,,,,,,,,,,,,,,,,,,,,Devoted Shield
+566,Head!A566,Head,Ex.,Light Helmet of Good Reward,Silver,Light,,,0,0,0,18,6,-1,-2,0,-5,6,0,0,0,27,6,-1,-2,0,-5,12,0,0,0,32,6,-1,-2,0,-5,18,0,0,0,37,6,-1,-2,0,-5,21,,,,,,,,,,,Devoted Shield
 572,Head!A572,Head,3221,Silver Heavy Helmet,Silver,Heavy,,1425,0,0,0,29,0,-2,-2,0,-4,4,0,0,0,38,0,-2,-2,0,-4,9,0,0,0,43,0,-2,-2,0,-4,14,0,0,0,50,0,-2,-2,0,-4,19,0,0,0,56,0,-2,-2,0,-4,24,
 578,Head!A578,Head,3222,Earthrend Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Water Type Reduction
 584,Head!A584,Head,3223,Seafoam Heavy Helm,Silver,Heavy,,1770,0,0,0,28,0,-2,-2,0,-4,4,0,0,0,37,0,-2,-2,0,-4,9,0,0,0,42,0,-2,-2,0,-4,14,0,0,0,49,0,-2,-2,0,-4,19,0,0,0,55,0,-2,-2,0,-4,24,Fire Type Reduction
@@ -167,7 +167,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 284,Shield!A284,Shield,3262,Large Shield of Sacred Life,Silver,Heavy,,3675,-20,0,0,35,0,-1,-2,0,-10,0,-20,0,0,44,5,-1,-2,0,-10,0,-20,0,0,50,10,-1,-2,0,-10,0,-20,0,0,56,15,-1,-2,0,-10,0,-20,0,0,62,20,-1,-2,0,-10,0,Vitality Barrier
 290,Shield!A290,Shield,Ex.,Aegis,Silver,Heavy,,3675,0,0,0,38,45,-1,-2,0,-1,0,0,0,0,47,50,-1,-2,0,-1,0,0,0,0,53,55,-1,-2,0,-1,0,0,0,0,59,60,-1,-2,0,-1,0,0,0,0,65,65,-1,-2,0,-1,0,"Always 4* Red with fixed type MDEF/MDEF%/EVA/DEF, Power of Aegis"
 296,Shield!A296,Shield,Ex.,Guardian Shield,Silver,Heavy,,4269,0,0,0,46,3,-2,-2,0,-5,0,0,0,0,51,8,-2,-2,0,-5,0,0,0,0,55,13,-2,-2,0,-5,0,0,0,0,60,18,-2,-2,0,-5,0,0,0,0,64,23,-2,-2,0,-5,0,Guardian's Resolve
-302,Shield!A302,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+302,Shield!A302,Shield,Ex.,Regalia Scutum,Silver,Heavy,,,0,0,0,40,6,1,-2,0,-5,0,0,0,0,51,12,3,-2,0,-5,0,0,0,0,57,18,6,-2,0,-5,0,0,0,0,61,21,8,-2,0,-5,0,,,,,,,,,,,"Vitality Barrier, All-Encompassing Guard"
 308,Shield!A308,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 314,Shield!A314,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 320,Shield!A320,Shield,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -242,7 +242,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 332,Feet!A332,Feet,3251,Deep-Snow Straw Sandals,Silver,Light,,1440,0,0,0,13,0,0,0,0,0,0,0,0,0,20,0,0,0,0,7,0,0,0,0,25,0,0,0,0,12,0,0,0,0,32,0,0,0,0,19,0,0,0,0,38,0,0,0,0,25,0,Maximum Body Temperature Increase
 338,Feet!A338,Feet,Ex.,Flame Demon Greaves,Silver,Light,,5446,0,0,0,17,8,0,0,0,2,0,0,0,0,26,8,0,0,0,11,0,0,0,0,31,8,0,0,0,16,0,0,0,0,36,8,0,0,0,21,0,0,0,0,38,8,0,0,0,23,0,Passive MP Up
 344,Feet!A344,Feet,Ex. ,Mountain-Runner's Gaiters,Silver,Light,,5446,0,0,0,15,0,0,0,0,3,0,0,0,0,24,0,0,0,0,12,0,0,0,0,29,0,0,0,0,17,0,0,0,0,34,0,0,0,0,22,0,0,0,0,36,0,0,0,0,24,0,Vitality Insight
-350,Feet!A350,Feet,Ex. ,Armor Boots of Good Reward,Silver,Light,,,0,0,0,19,0,0,0,0,-3,0,0,0,0,28,0,0,0,0,6,0,0,0,0,33,0,0,0,0,11,0,,,,,,,,,,,,,,,,,,,,,Devoted Ward
+350,Feet!A350,Feet,Ex. ,Armor Boots of Good Reward,Silver,Light,,,0,0,0,19,0,0,0,0,-3,0,0,0,0,28,0,0,0,0,6,0,0,0,0,33,0,0,0,0,11,0,0,0,0,38,0,0,0,0,16,0,,,,,,,,,,,Devoted Ward
 356,Feet!A356,Feet,3252,Silver Heavy Armor Boots,Silver,Heavy,,1290,0,0,0,21,0,0,0,0,-2,0,0,0,0,30,0,0,0,0,3,0,0,0,0,35,0,0,0,0,8,0,0,0,0,42,0,0,0,0,14,0,0,0,0,48,0,0,0,0,20,0,
 362,Feet!A362,Feet,3253,Hard Snow Heavy Armor Boots,Silver,Heavy,,1620,0,0,0,39,0,-10,0,0,-10,0,0,0,0,48,0,-10,0,0,-10,0,0,0,0,53,0,-10,0,0,-10,0,0,0,0,60,0,-10,0,0,-10,0,0,0,0,66,0,-10,0,0,-10,0,Ice-Break Damage Reduction
 368,Feet!A368,Feet,Ex.,Greaves of the Eclipse,Silver,Heavy,,,0,0,0,30,0,0,0,0,-4,0,0,0,0,41,0,0,0,0,2,0,0,0,0,46,0,0,0,0,8,0,0,0,0,51,0,0,0,0,12,0,0,0,0,53,0,0,0,0,15,0,"Master of Guardianship, Passive HP Up"
@@ -550,7 +550,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 386,Accessories!A386,Accessories,3354,Fine Flower Petal Bracelet,Silver,Accessory,,1470,0,0,0,3,25,0,0,0,0,0,0,0,0,13,25,0,0,0,0,0,0,0,0,21,25,0,0,0,0,0,0,0,0,31,25,0,0,0,0,0,0,0,0,39,25,0,0,0,0,0,"Faerie exclusive, Promise of Compassion"
 392,Accessories!A392,Accessories,3269,Bracelet of Spellcraft Infused with Power,Silver,Accessory,,3675,0,10,0,30,5,-10,-5,0,10,-10,0,12,0,30,13,-10,-5,0,12,-10,0,13,0,30,20,-10,-5,0,13,-10,0,14,0,30,28,-10,-5,0,14,-10,0,15,0,30,35,-10,-5,0,15,-10,
 398,Accessories!A398,Accessories,3270,Ring of Tactics Infused with Power,Silver,Accessory,,3675,0,-5,0,-20,30,0,10,5,10,-10,0,-5,0,-20,30,0,12,7,12,-10,0,-5,0,-20,30,0,13,8,13,-10,0,-5,0,-20,30,0,14,9,14,-10,0,-5,0,-20,30,0,15,10,15,-10,
-404,Accessories!A404,Accessories,3365,Mantle of the Ferryrman,Silver,Accessory,,,0,5,5,3,10,0,0,0,0,0,0,7,7,13,10,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tithe of Lingering Souls
+404,Accessories!A404,Accessories,3365,Mantle of the Ferryrman,Silver,Accessory,,,0,5,5,3,10,0,0,0,0,0,0,7,7,13,10,0,0,0,0,0,0,8,8,21,10,0,0,0,0,0,0,9,9,31,10,0,0,0,0,0,0,10,10,39,10,0,0,0,0,0,Tithe of Lingering Souls
 410,Accessories!A410,Accessories,?,Coal Miner's Bandana,Silver,Accessory,,,0,0,0,3,15,0,0,0,0,10,0,0,0,13,15,0,0,0,0,12,0,0,0,21,15,0,0,0,0,13,0,0,0,31,15,0,0,0,0,14,0,0,0,39,15,0,0,0,0,15,"Fire Type Reduction, Poison Tolerance"
 416,Accessories!A416,Accessories,Ex.,Dreamblossom Ornament,Silver,Accessory,,7213,0,0,0,0,26,5,0,0,0,0,0,0,0,12,26,7,0,0,0,0,0,0,0,20,26,8,0,0,0,0,0,0,0,27,26,9,0,0,0,0,0,0,0,30,26,10,0,0,0,0,Status Affliction/Debuff Exploit
 422,Accessories!A422,Accessories,Ex.,Dream-Cutting Scissors,Silver,Accessory,,7213,0,0,0,25,35,0,0,0,0,10,0,0,0,37,37,0,0,0,0,12,0,0,0,45,38,0,0,0,0,13,0,0,0,52,39,0,0,0,0,14,0,0,0,55,40,0,0,0,0,15,Sleep Tolerance
@@ -565,7 +565,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 476,Accessories!A476,Accessories,Ex.,Lapis Crystal Earrings,Silver,Accessory,,7213,0,0,0,5,20,0,0,0,0,5,0,0,0,17,22,0,0,0,0,5,0,0,0,25,23,0,0,0,0,5,0,0,0,32,24,0,0,0,0,5,0,0,0,35,25,0,0,0,0,5,"Fire Type Reduction, Blessing of Insight (Two-Handed Axe)"
 482,Accessories!A482,Accessories,Ex.,Talisman of the Farthest Reaches,Silver,Accessory,,7213,0,0,0,20,23,0,0,0,0,12,0,0,0,32,23,0,0,0,0,12,0,0,0,40,23,0,0,0,0,12,0,0,0,47,23,0,0,0,0,12,0,0,0,50,23,0,0,0,0,12,Blessing of Fortification (Shield)
 488,Accessories!A488,Accessories,,,Blightflower Hair Ornament,Silver,Accessory,,,,,,,,,,,,0,0,8,4,25,0,0,0,0,0,0,0,10,16,25,0,0,0,0,0,0,0,11,24,25,0,0,0,0,0,0,0,12,31,25,0,0,0,0,0,", I.Q./Divine Power Conversion"
-494,Accessories!A494,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+494,Accessories!A494,Accessories,,,Cape of Forbidden Hues,Silver,Accessory,,,,,,,,,,,,0,0,0,28,21,0,0,0,-4,0,0,0,0,40,21,0,0,0,-4,0,0,0,0,48,21,0,0,0,-4,0,0,0,0,55,21,0,0,0,-4,0,", Passive SP Up"
 500,Accessories!A500,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 506,Accessories!A506,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 512,Accessories!A512,Accessories,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

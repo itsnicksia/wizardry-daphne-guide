@@ -190,7 +190,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 86,1H_Axe!A86,1H_Axe,189,Silver One-Handed Axe,Silver,1,,,100,0,0,0,0,0,6,0,0,0,120,0,0,0,0,0,6,0,0,0,139,0,0,0,0,0,6,0,0,0,158,0,0,0,0,0,6,0,0,0,178,0,0,0,0,0,6,0,0,0,Defense Penetration
 92,1H_Axe!A92,1H_Axe,190,Earthrend One-Handed Axe,Silver,1,,,95,0,0,0,0,0,6,0,0,0,115,0,0,0,0,0,6,0,0,0,134,0,0,0,0,0,6,0,0,0,153,0,0,0,0,0,6,0,0,0,173,0,0,0,0,0,6,0,0,0,"Defense Penetration, Earth Type"
 98,1H_Axe!A98,1H_Axe,191,Seafoam One-Handed Axe,Silver,1,,,95,0,0,0,0,0,6,0,0,0,115,0,0,0,0,0,6,0,0,0,134,0,0,0,0,0,6,0,0,0,153,0,0,0,0,0,6,0,0,0,173,0,0,0,0,0,6,0,0,0,"Defense Penetration, Water Type"
-104,1H_Axe!A104,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,1H_Axe!A104,1H_Axe,Ex.,Sovereign Axe,Silver,1,,,120,0,0,0,0,0,6,0,0,0,144,0,0,0,0,0,6,0,0,0,164,0,0,0,0,0,6,0,0,0,176,0,0,0,0,0,6,0,0,0,,,,,,,,,,,"Defense Penetration, Vitality Barrier, Passive SP Up"
 110,1H_Axe!A110,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 116,1H_Axe!A116,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 122,1H_Axe!A122,1H_Axe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -318,7 +318,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 110,2H_Mace!A110,2H_Mace,222,Seafoam Two-Handed Mace,Silver,1,,,122,0,0,0,0,-8,10,-2,-6,0,155,0,0,0,0,-8,10,-2,-6,0,181,0,0,0,0,-8,10,-2,-6,0,204,0,0,0,0,-8,10,-2,-6,0,221,0,0,0,0,-8,10,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +, Water Type"
 116,2H_Mace!A116,2H_Mace,223,Tundra Club,Silver,1,75000,,116,0,0,0,0,-8,25,-2,-15,0,149,0,0,0,0,-8,25,-2,-15,0,175,0,0,0,0,-8,25,-2,-15,0,198,0,0,0,0,-8,25,-2,-15,0,215,0,0,0,0,-8,25,-2,-15,0,"Inflict Stun, Evasion Damage, Strength Based +"
 122,2H_Mace!A122,2H_Mace,224,Cyclops's Hammer,Silver,1,,,140,0,-50,0,0,-20,-20,-2,-6,0,173,0,-50,0,0,-20,-20,-2,-6,0,199,0,-50,0,0,-20,-20,-2,-6,0,222,0,-50,0,0,-20,-20,-2,-6,0,239,0,-50,0,0,-20,-20,-2,-6,0,"Inflict Stun, Evasion Damage, Strength Based +"
-128,2H_Mace!A128,2H_Mace,Ex.,Devil Crusher,Silver,1,,,118,0,15,0,0,-8,10,6,-10,0,157,0,15,0,0,-8,10,6,-10,0,184,0,15,0,0,-8,10,6,-10,0,,,,,,,,,,,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Demon-Slayer"
+128,2H_Mace!A128,2H_Mace,Ex.,Devil Crusher,Silver,1,,,118,0,15,0,0,-8,10,6,-10,0,157,0,15,0,0,-8,10,6,-10,0,184,0,15,0,0,-8,10,6,-10,0,197,0,15,0,0,-8,10,6,-10,0,,,,,,,,,,,"Inflict Stun, Evasion Damage, Strength Based +, Demon-Slayer"
 134,2H_Mace!A134,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 140,2H_Mace!A140,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 146,2H_Mace!A146,2H_Mace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
