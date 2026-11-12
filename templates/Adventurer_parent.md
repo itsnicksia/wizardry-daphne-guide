@@ -18,6 +18,7 @@
 {%if chardata['Alternate Style2'] %}**2nd Alternate Style**: {{ chardata['Alternate Style2'] }}{% endif %}  
 
 ## Base Traits  
+
 === "Class: {{chardata['Primary Class']}}"
 
     <div class="nofilter-table nosort-table char-traits-table" markdown>
@@ -28,7 +29,37 @@
 === "Class: {{chardata['Secondary Class']}}"
         
     <div class="nofilter-table nosort-table char-traits-table" markdown>
-    {{ populate_quicklist(file='adventurers.csv', return_columns=['Strength2','IQ2','Piety2','Vitality2','Dexterity2','Speed2','Luck2'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
+{{ populate_quicklist(file='adventurers.csv', return_columns=['Strength2','IQ2','Piety2','Vitality2','Dexterity2','Speed2','Luck2'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
+    </div> {% endif %}
+
+{% if chardata['StrengthAlt1'] %}
+
+=== "{{chardata['Alternate Style']}} Class: {{chardata['Primary Class']}}"
+
+    <div class="nofilter-table nosort-table char-traits-table" markdown>
+{{ populate_quicklist(file='adventurers.csv', return_columns=['StrengthAlt1','IQAlt1','PietyAlt1','VitalityAlt1','DexterityAlt1','SpeedAlt1','LuckAlt1'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
+    </div>
+
+{% if chardata['Secondary Class'] %}
+=== "{{chardata['Alternate Style']}} Class: {{chardata['Secondary Class']}}"
+        
+    <div class="nofilter-table nosort-table char-traits-table" markdown>
+{{ populate_quicklist(file='adventurers.csv', return_columns=['StrengthAlt1CC','IQAlt1CC','PietyAlt1CC','VitalityAlt1CC','DexterityAlt1CC','SpeedAlt1CC','LuckAlt1CC'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
+    </div> {% endif %}
+
+{% if chardata['StrengthAlt2'] %}
+
+=== "{{chardata['Alternate Style2']}} Class: {{chardata['Primary Class']}}"
+
+    <div class="nofilter-table nosort-table char-traits-table" markdown>
+{{ populate_quicklist(file='adventurers.csv', return_columns=['StrengthAlt2','IQAlt2','PietyAlt2','VitalityAlt2','DexterityAlt2','SpeedAlt2','LuckAlt2'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
+    </div>
+
+{% if chardata['Secondary Class'] %}
+=== "{{chardata['Alternate Style2']}} Class: {{chardata['Secondary Class']}}"
+        
+    <div class="nofilter-table nosort-table char-traits-table" markdown>
+{{ populate_quicklist(file='adventurers.csv', return_columns=['StrengthAlt2CC','IQAlt2CC','PietyAlt2CC','VitalityAlt2CC','DexterityAlt2CC','SpeedAlt2CC','LuckAlt2CC'], filter_column="Name",filter_values=[title]).set_axis(['Strength','IQ','Piety','Vitality','Dexterity','Speed','Luck'], axis=1) | convert_to_md_table | add_indentation(spaces=4) }}  
     </div> {% endif %}
 {{build_iv_table_link(title)}}  
 {% if chardata['Alternate Style'] %}{{build_iv_table_link(title + " - " + chardata['Alternate Style'])}}  {% endif %}  
