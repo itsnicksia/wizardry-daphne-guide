@@ -74,6 +74,10 @@
 
 {% block AltUniqueSkillFreetext2 %}
         !!! note "The damage increase to enemies is approximately 10%."
+
+    === "Secret Treatment: Water Temperament (Clearwater Bride)"
+        {{ get_skill_description("Secret Treatment: Water Temperament") }}
+        
 {% endblock AltUniqueSkillFreetext2 %}
 
 {% block DisciplineFreetext %}
