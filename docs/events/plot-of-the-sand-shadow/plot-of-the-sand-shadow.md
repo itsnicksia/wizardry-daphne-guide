@@ -99,8 +99,17 @@ The 2nd part requires you to select only 1 adventurer to bring with you and walk
 ### Maps:
 
 ??? note "Maps:"
-    ![](img/trial-of-heat-haze-b1f.jpg)
-    ![](img/trial-of-heat-haze-b2f.jpg)
+    === "B1F"  
+        ![](img/trial-of-heat-haze-b1f.jpg)  
+
+        ??? tip "Trap room codes"
+            The two 7x7 rooms have Traps/Alarms with notes at the entrance to the rooms giving strings of numbers. The numbers are clues to guide you safely through the room. HOWEVER the codes require you to know the room size, which can't be seen from the entrance.
+
+            1. Trap room:
+            2. Alarm room: `12 26 34 41 55 63 75`, xy pairs (e.g., 12 is x1,y2) of alarm locations measured from the far, upper-left corner.
+            
+    === "B2F"  
+        ![](img/trial-of-heat-haze-b2f.jpg)
 
 ### Reward:
 
