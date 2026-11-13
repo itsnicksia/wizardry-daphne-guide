@@ -1,8 +1,7 @@
 # Battlefront of Heroes - Season 1  
 
-!!! warning " Work In Progress"  
+!!! warning "For more detailed information on history"  
 
-    - The page will be heavily updated over the coming days with more details.  
     - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies.  
 
 ## Critical Warnings  
