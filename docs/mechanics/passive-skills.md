@@ -300,7 +300,7 @@
     - Only procs if an enemy is debuffed or has a status ailment. 
     - There is a risk that the translation is incorrect and it is only active when an enemy is debuffed. We have noticed inconsistencies with status ailments.
 
-=== "Nose for Treasure" 
+=== "Nose for Wealth" 
 
     <div class="nofilter-table nosort-table" markdown>
 
