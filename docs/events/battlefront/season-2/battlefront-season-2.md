@@ -1088,7 +1088,7 @@
         - Cyclops has around 90k HP and is immune to status effects and BATILGREF. 
         - Vorpal Bunnies have around 5k HP each.
         - Evil Eyes have around 12k HP each and have two actions per turn.
-        - There is referee intervention for Beastfolk.
+        - There is referee intervention for Beastfolk/Galka. Prioritize cleansing if necessary.
         - It's recommended to bring a Knight for this for Knight's Defense/cover as well as 3 Mages for this to blow up the Evil Eyes ASAP. The Cyclops can be dealt with last as it's just a giant sponge (that hurts if he high rolls his damage).
 
 === "Round 13"
@@ -1149,6 +1149,7 @@
         - Dragonflies have 9k HP each.
         - Forest Hawks have 18k HP each.
         - Giant Monster Bird has 178k HP. It is immune to all status effects, and extremely resistant to debuffs. It also cannot be evaded. It will typically cast either Stone Breath, Trample, or Wing Buffet. Stone Breath always does 1 dmg, Trample can hit upwards of a couple thousand damage, and Wing Buffet will deal minor damage while delaying all that is hit.
+        - There is Referee Intervention for Humans/Hume/Beastfolk/Galka. Prioritize cleansing if possible.
         - It's recommended to have mages deal with the Dragonflies and Forest Hawks ASAP with LA spells. Knight should constantly keep KD up if possible. It's a little bit more efficient if the Knight has low ASPD as Wing Buffet will keep pushing their turn back, thus making KD last longer. After that it's simply a DPS race between the Bird and your SP/MP pools.
         
 
