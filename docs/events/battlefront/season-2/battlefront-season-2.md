@@ -238,6 +238,7 @@
     
     === "Elite" 
         - Crow fee: 50,000 gp
+        - His assistance might not be available for all rounds, namely the final round.
         
     === "Hero" 
     
