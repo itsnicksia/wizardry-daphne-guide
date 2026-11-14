@@ -293,10 +293,10 @@
 
     Unit selection can be complicated, but here are some things to consider:
     
-    - Prioritize your core, long-term units for the incremental stat bonuses and Dark damage reduction. 
+    - Prioritize your core, long-term units for the incremental stat bonuses and Fire damage reduction. 
     - Maximize the 2x stat bonus for Fire units. 
     - Fire Knights gain +10 SP at L3, which is extremely helpful due to their low SP pools even with high Discipline levels. 
-    - Improve the survivability of Wind units by giving them at least L1 of the medal. Dark bosses and super bosses are very common. 
+    - Improve the survivability of Wind units by giving them at least L1 of the medal. 
 
 ## Hero's Reward Missions 
     
