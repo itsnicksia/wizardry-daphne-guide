@@ -143,9 +143,9 @@
         | Requirement &emsp; &emsp; &emsp;    | Description          | Aspirant | Adept | Elite | Hero |
         |:----------------|:----------------------------------|--------- |-------|-------|------|
         | Fire Type       | All stats increased               | 1.2x     | 1.3x  | 1.4x  | 1.5x |
-        | Elf/Elvaan      | Attack and Magic Power increased &emsp; &emsp; &emsp;  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
-        | 1H Rod          | Damage increased                  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
-        | Odachi          | Damage increased                  | 1.2x     | 1.3x  | 1.4x  | 1.5x |
+        | Elf/Elvaan      | Attack and Magic Power increased &emsp; &emsp; &emsp;  | 1.3x  | 1.4x  | 1.5x  | 1.6x |
+        | 1H Rod          | Damage increased                  | 1.4x     | 1.6x  | 2.2x  | 4.5x |
+        | Odachi          | Damage increased                  | 1.2x     | 1.3x  | 1.6x  | 2.5x |
 
         </div>
 
@@ -1094,7 +1094,7 @@
     === "Tips"
         - Cyclops has around 90k HP and is immune to status effects and BATILGREF. 
         - Vorpal Bunnies have around 5k HP each.
-        - Evil Eyes have 12k HP each and have two actions per turn.
+        - Evil Eyes have around 12k HP each and have two actions per turn.
         - It's recommended to bring a Knight for this for Knight's Defense/cover as well as 3 Mages for this to blow up the Evil Eyes ASAP. The Cyclops can be dealt with last as it's just a giant sponge (that hurts if he high rolls his damage).
 
 === "Round 13"
@@ -1107,7 +1107,9 @@
         - Backline: Bigfoot Child 3x
 
     === "Tips"
-
+        - Bigfoot Children have around 10k HP each. They're extremely fast (320 ASPD goes before), and can do a lot of damage.
+        - Bigfoot has 50k HP and typically just spams Horrendous Breath.
+        - It's recommended to have a very fast knight to All Around Cover immediately OR several very fast mages to immediately blow up the Bigfoot Children with LA spells. Healers can then just put down Stun/Paralysis Incenses to deal with the breath and then kill the Bigfoot.
 
 === "Round 14"
 
@@ -1119,6 +1121,9 @@
         - Backline: Snow Wolf 4x
 
     === "Tips"
+        - Snow Wolf Leader has around 69k HP. It is extremely fast (320 ASPD will go before). It also hits extremely hard.
+        - Snow Wolves have around 7k HP each. They will typically summon other wolves and/or buff all wolves.
+        - Bring magical beast resist gear if possible. It's recommended to simply kill all the Snow Wolves with LA spells before they go and then have a Knight reduce the Snow Wolf Leader's damage/cover for allies. A healer to cleanse chill/freeze is also recommended but not necessary.
 
 
 === "Round 15"
@@ -1132,7 +1137,10 @@
         - Backline: Lamenting Snowfolk 2x
 
     === "Tips"
-
+        - Ice Entities have around 10k HP each and are very fast (320 ASPD unit goes before). They just cast DALTO and MADALTO.
+        - Lamenting Snowfolk have around 23k HP each and also prioritize casting DALTO.
+        - Snowpeak Cyclops has around 54k HP. As expected, it hits extremely hard after concentration. It is also effectively immune to status effects. BATILGREF can apply at a very low chance.
+        - It's recomended to use LA-spells to deal with the entities ASAP and then focus on the Lamenting Snowfolk before attempting to kill the Snowpeak Cyclops in one turn before it concentrates with multiple defense buffs. If you're unable to do so, then bring multiple units that can cast Dissipation/Malefic Wind.
 
 === "Round 16"
 
@@ -1144,5 +1152,10 @@
         - Backline: Dragonfly 1x, Forest Hawk 2x
 
     === "Tips"
+        - Dragonflies have 9k HP each.
+        - Forest Hawks have 18k HP each.
+        - Giant Monster Bird has 178k HP. It is immune to all status effects, and extremely resistant to debuffs. It also cannot be evaded. It will typically cast either Stone Breath, Trample, or Wing Buffet. Stone Breath always does 1 dmg, Trample can hit upwards of a couple thousand damage, and Wing Buffet will deal minor damage while delaying all that is hit.
+        - It's recommended to have mages deal with the Dragonflies and Forest Hawks ASAP with LA spells. Knight should constantly keep KD up if possible. It's a little bit more efficient if the Knight has low ASPD as Wing Buffet will keep pushing their turn back, thus making KD last longer. After that it's simply a DPS race between the Bird and your SP/MP pools.
+        
 
 
