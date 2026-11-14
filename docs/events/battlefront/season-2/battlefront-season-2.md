@@ -1088,6 +1088,7 @@
         - Cyclops has around 90k HP and is immune to status effects and BATILGREF. 
         - Vorpal Bunnies have around 5k HP each.
         - Evil Eyes have around 12k HP each and have two actions per turn.
+        - There is referee intervention for Beastfolk.
         - It's recommended to bring a Knight for this for Knight's Defense/cover as well as 3 Mages for this to blow up the Evil Eyes ASAP. The Cyclops can be dealt with last as it's just a giant sponge (that hurts if he high rolls his damage).
 
 === "Round 13"
