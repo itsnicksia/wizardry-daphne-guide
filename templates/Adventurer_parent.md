@@ -95,7 +95,7 @@
 {% endif %}
 
 {% if chardata['Personal Request'] or chardata['Alternate Style'] %}
-    !!! note "Style Switching: After {% if chardata['Personal Request'] %} completing {{title}}'s Personal Request{% endif %} {% if chardata['Personal Request'] or chardata['Alternate Style'] %} or {% endif %} {% if chardata['Alternate Style'] %} merging {{title}}'s Alternate Style{% endif %}, you can freely change between styles by taking the character into the Training Room and triple-clicking on their portrait."
+    !!! note "Style Switching: After {% if chardata['Personal Request'] %} completing {{title}}'s Personal Request{% endif %} {% if chardata['Personal Request'] or chardata['Alternate Style'] %} or {% endif %} {% if chardata['Alternate Style'] %} merging {{title}}'s Alternate Style{% endif %}, you can freely change between style appearances by taking the character into the Training Room and triple-clicking on their portrait. This only changes appearance, skills stay as per the chosen style."
 {% endif %}
 
 {% endblock PortraitSection %}
