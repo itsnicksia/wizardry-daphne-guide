@@ -1,4 +1,4 @@
-# Battlefront of Heroes - Season 1  
+# Battlefront of Heroes - Season 2 
 
 !!! danger "This page is under construction"
 
@@ -13,7 +13,7 @@
         - Once a League has been cleared it cannot be reset. You are automatically advanced to the next one.  
         - The Hero League is a massive difficulty spike. It may not be possible for a normal player to survive the first round. Only a handful of players globally have cleared it to-date.  
         - These two constraints have serious implications on the event's other mechanics.  
-    - [Hero's Sigil: Dark](#heros-sigil-dark)   
+    - [Hero's Sigil: Fire](#heros-sigil-fire)   
         - The medal is a one-time only reward. It cannot be farmed, removed, or transferred to another unit. Every time you clear a League the units in your roster gain +1 Level to the passive.  
         - Operate on the assumption that L3 is the effective maximum and plan what units you want to register and in what League order.  
         - Only the first 8 units registered in the Aspirant League have the potential to reach L3 or L4.  
@@ -459,22 +459,13 @@
 
     === "+20"
 
-        ![](./img/hwoh/hwoh-20.png){ width="550" }
-
-    === "Traits" 
-
-        ![](./img/hwoh/hwoh-traits.png)
+        ![](./img/warstaff-of-honor-20.png){ width="550" }
 
 === "War Tachi of Honor" 
 
     === "+20"
 
-        ![](./img/hwoh/hwoh-20.png){ width="550" }
-
-    === "Traits" 
-
-        ![](./img/hwoh/hwoh-traits.png)
-
+        ![](./img/war-tachi-of-honor-20.png){ width="550" }
 
 
 === "Doppel Quicksilver" 
@@ -657,12 +648,14 @@
 
 ## League Battles
 
+!!! note "For this season in particular, it appears that the rounds are the same per league, simply the stats are adjusted."
+
 ### Aspirant League
 
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/aspirant/aspirant-round-1.png){ width="390" }
+        ![](./img/battlefront-2-round-1.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 2x, Hobgoblin 1x, Green Goblin 2x
@@ -672,7 +665,7 @@
 === "Round 2"
 
     === "Fight Preview"
-        ![](./img/aspirant/aspirant-round-2.png){ width="390" }
+        ![](./img/battlefront-2-round-2.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
@@ -682,7 +675,7 @@
 === "Round 3"
 
     === "Fight Preview"
-        ![](./img/aspirant/aspirant-round-3.png){ width="390" }
+        ![](./img/battlefront-2-round-3.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Knight Butcher Ent 2x
@@ -691,7 +684,7 @@
 === "Round 4"
 
     === "Fight Preview"
-        ![](./img/aspirant/aspirant-round-4.png){ width="390" }
+        ![](./img/battlefront-2-round-4.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 4x
@@ -702,7 +695,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-1.png){ width="400" }
+        ![](./img/battlefront-2-round-1.png){ width="400" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 2x, Hobgoblin 1x, Green Goblin 2x
@@ -712,7 +705,7 @@
 === "Round 2"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-2.png){ width="390" }
+        ![](./img/battlefront-2-round-2.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
@@ -722,7 +715,7 @@
 === "Round 3"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-3.png){ width="390" }
+        ![](./img/battlefront-2-round-3.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Knight Butcher Ent 2x
@@ -731,7 +724,7 @@
 === "Round 4"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-4.png){ width="390" }
+        ![](./img/battlefront-2-round-4.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 4x
@@ -740,7 +733,7 @@
 === "Round 5"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-5.png){ width="390" }
+        ![](./img/battlefront-2-round-5.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Earth Sahuagin 5x
@@ -749,7 +742,7 @@
 === "Round 6"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-6.png){ width="390" }
+        ![](./img/battlefront-2-round-6.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Pirate Berserker 2x
@@ -759,7 +752,7 @@
 === "Round 7"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-7.png){ width="390" }
+        ![](./img/battlefront-2-round-7.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Entity 2x, Cursed Sack Doll 2x
@@ -768,7 +761,7 @@
 === "Round 8"
 
     === "Fight Preview"
-        ![](./img/adept/adept-round-8.png){ width="390" }
+        ![](./img/battlefront-2-round-8.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Lizardman 3x
@@ -781,7 +774,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-1.png){ width="405" }
+        ![](./img/battlefront-2-round-1.png){ width="400" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 2x, Hobgoblin 1x, Green Goblin 2x
@@ -791,35 +784,35 @@
 === "Round 2"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-2.png){ width="390" }
+        ![](./img/battlefront-2-round-2.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
         - Midline: Air Entity 3x
         - Backline: Air Entity 3x
-
+        
 === "Round 3"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-3.png){ width="390" }
+        ![](./img/battlefront-2-round-3.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Knight Butcher Ent 2x
         - Backline: Skeleton Mage 2x, Skeleton Archer 2x
-
+        
 === "Round 4"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-4.png){ width="390" }
+        ![](./img/battlefront-2-round-4.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 4x
         - Backline: Air Entity 2x, Air Pixie 3x
-        
+
 === "Round 5"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-5.png){ width="390" }
+        ![](./img/battlefront-2-round-5.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Earth Sahuagin 5x
@@ -828,7 +821,7 @@
 === "Round 6"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-6.png){ width="390" }
+        ![](./img/battlefront-2-round-6.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Pirate Berserker 2x
@@ -838,7 +831,7 @@
 === "Round 7"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-7.png){ width="390" }
+        ![](./img/battlefront-2-round-7.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Entity 2x, Cursed Sack Doll 2x
@@ -847,7 +840,7 @@
 === "Round 8"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-8.png){ width="390" }
+        ![](./img/battlefront-2-round-8.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Air Lizardman 3x
@@ -857,7 +850,7 @@
 === "Round 9"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-9.png){ width="390" }
+        ![](./img/battlefront-2-round-9.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Wight 2x, Necrocore 1x
@@ -867,7 +860,7 @@
 === "Round 10"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-10.png){ width="390" }
+        ![](./img/battlefront-2-round-10.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Chimera 2x
@@ -877,7 +870,7 @@
 === "Round 11"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-11.png){ width="390" }
+        ![](./img/battlefront-2-round-11.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Vampire 2x
@@ -887,7 +880,7 @@
 === "Round 12"
 
     === "Fight Preview"
-        ![](./img/elite/elite-round-12.png){ width="390" }
+        ![](./img/battlefront-2-round-12.png){ width="390" }
 
     === "Enemy Formation"
         - Frontline: Cyclops 1x, Air Vorpal Bunny 2x
@@ -900,7 +893,7 @@
 === "Round 1"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-1.png){ width="425" }
+        ![](./img/battlefront-2-round-1.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 2x, Hobgoblin 1x, Green Goblin 2x
@@ -920,7 +913,7 @@
 === "Round 2"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-2.png){ width="410" }
+        ![](./img/battlefront-2-round-2.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Red Spinner Woman 1x, Scorpion Lady 1x
@@ -937,7 +930,7 @@
 === "Round 3"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-3.png){ width="410" }
+        ![](./img/battlefront-2-round-3.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Knight Butcher Ent 2x
@@ -954,7 +947,7 @@
 === "Round 4"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-4.png){ width="410" }
+        ![](./img/battlefront-2-round-4.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Air Vorpal Bunny 4x
@@ -970,7 +963,7 @@
 === "Round 5"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-5.png){ width="410" }
+        ![](./img/battlefront-2-round-5.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Earth Sahuagin 5x
@@ -985,7 +978,7 @@
 === "Round 6"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-6.png){ width="410" }
+        ![](./img/battlefront-2-round-6.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Pirate Berserker 2x
@@ -1002,7 +995,7 @@
 === "Round 7"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-7.png){ width="410" }
+        ![](./img/battlefront-2-round-7.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Air Entity 2x, Cursed Sack Doll 2x
@@ -1018,7 +1011,7 @@
 === "Round 8"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-8.png){ width="410" }
+        ![](./img/battlefront-2-round-8.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Air Lizardman 3x
@@ -1035,7 +1028,7 @@
 === "Round 9"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-9.png){ width="410" }
+        ![](./img/battlefront-2-round-9.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Wight 2x, Necrocore 1x
@@ -1051,7 +1044,7 @@
 === "Round 10"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-10.png){ width="410" }
+        ![](./img/battlefront-2-round-10.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Chimera 2x
@@ -1069,7 +1062,7 @@
 === "Round 11"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-11.png){ width="410" }
+        ![](./img/battlefront-2-round-11.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Vampire 2x
@@ -1085,7 +1078,7 @@
 === "Round 12"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-12.png){ width="410" }
+        ![](./img/battlefront-2-round-12.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Cyclops 1x, Air Vorpal Bunny 2x
@@ -1100,7 +1093,7 @@
 === "Round 13"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-13.png){ width="410" }
+        ![](./img/battlefront-2-round-13.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Bigfoot, Bigfoot Child 2x
@@ -1114,7 +1107,7 @@
 === "Round 14"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-14.png){ width="410" }
+        ![](./img/battlefront-2-round-14.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Snow Wolf Leader 1x, Snow Wolf 3x
@@ -1129,7 +1122,7 @@
 === "Round 15"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-15.png){ width="410" }
+        ![](./img/battlefront-2-round-15.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Ice Entity 3x
@@ -1145,7 +1138,7 @@
 === "Round 16"
 
     === "Fight Preview"
-        ![](./img/hero/hero-round-16.png){ width="410" }
+        ![](./img/battlefront-2-round-16.png){ width="410" }
 
     === "Enemy Formation"
         - Frontline: Giant Monster Bird 1x, Dragonfly 2x
