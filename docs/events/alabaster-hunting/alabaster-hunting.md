@@ -126,7 +126,7 @@
     
         - Ignore the B2F wolf.
         - Collect the B3F dead hunter's body and exit. Remove all Rangers from active party. 
-        - Revive at the Tempe and pick 2nd option to receive rabbit meat. 
+        - Revive at the Temple and pick 2nd option to receive rabbit meat. 
         - Distract B2F wolf. 
         - Go to B3F bottom-left room. Fight back-to-back wolf bosses. Cannot heal inbetween fights. 
         - Submit request for unique reward. 
