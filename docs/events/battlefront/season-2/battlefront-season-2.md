@@ -10,7 +10,7 @@
 
 !!! danger "Before You Begin - Read Me"  
     - Major Constraints  
-        - Once a League has been cleared it cannot be reset. You are automatically advanced to the next one.  
+        - Rewards from each League are only obtained on the first clear. Unlike Season 1 you can re-enter earlier leagues and refight those battles.  
         - The Hero League is a massive difficulty spike. It may not be possible for a normal player to survive the first round. Only a handful of players globally have cleared it to-date.  
         - These two constraints have serious implications on the event's other mechanics.  
     - [Hero's Sigil: Fire](#heros-sigil-fire)   
