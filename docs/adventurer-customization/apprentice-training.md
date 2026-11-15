@@ -16,7 +16,7 @@ Work in progress
 ### Single Inheritance
 Work in Progress
 
-!!! warning "Each Ally can be a mentor to only one other Ally, and separately a mentee to only one other Ally. Note this appears to mean, for example, only once with any Adam, alternate styles included, per account. Choose wisely."
+!!! warning "Each Ally can be a mentor to only one other Ally, and separately a mentee to only one other Ally. Note this appears to mean, for example, only once with any Adam, alternate styles included, as a mentor per account. Choose wisely."
 
 ### Beatrix Research
 Work in Progress
