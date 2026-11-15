@@ -2,9 +2,9 @@
 
 ## Overview
 
-The All of Apprenticentury Training has two primary functions:  
+The Hall of Apprenticentury Training has two primary functions:  
 
-1. [Class Guidance](#class-guidance): Passivly increasing your Adventurer's XP/Level.  
+1. [Class Guidance](#class-guidance): Passively increasing your Adventurer's XP/Level plus gaining a one time permanent +10 to max Fortitutde.
 2. [Single Inheritance](#single-inheritance): Passing certain skills from one adventurer to another.
 
 The levels obtainable and number of adventurers that can be trained at one time can be increased through [Beatrix Research](#beatrix-research).
