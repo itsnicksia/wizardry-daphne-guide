@@ -1,4 +1,5 @@
-# Hall of Apprentice Training
+# Hall of Apprentice training  ![](img/beatrix.jpg){align=right width="400" height=auto}  
+
 
 ## Overview
 
