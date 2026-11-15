@@ -1,5 +1,6 @@
 nav:
   - Alignment: './alignment.md'
+  - Apprentice Training: './apprentice-training.md'
   - Bondmates:
       - Story Bondmates:
         - Bondmates Quicklist: './bondmates/bondmates-quicklist.md'
