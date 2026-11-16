@@ -1,6 +1,5 @@
 # Hall of Apprentice training![](img/beatrix.jpg){align=right width="400" height=auto}  
 
-
 ## Overview
 
 The Hall of Apprenticentury Training has two primary functions:  
@@ -9,6 +8,10 @@ The Hall of Apprenticentury Training has two primary functions:
 2. [Single Inheritance](#single-inheritance): Passing certain skills from one adventurer to another.
 
 The levels obtainable and number of adventurers that can be trained at one time can be increased through [Beatrix Research](#beatrix-research).
+
+### Requirements
+Exact trigger unknown. (Abyss 2 completion suggestion by some).  It will appear as an event in the Royal Capital starting with an adventurer complaining about having been treated too roughly by someone (the trainer), after which a Guild cutscene will appear, then a new Apprentice Training button will be found in the Training room.  
+
 
 ### Class Guidance
 Work in progress
