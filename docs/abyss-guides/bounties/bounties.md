@@ -1074,28 +1074,43 @@
 | Hound Mask | 5 | 1,500 | 1  | 1,500   |  
 | Hound Mask | 5 | 3,000 | 2  | 6,000   | 
 | Hound Mask | 5 | 4,000 | 24 | 96,000  |
+| Hawk Mask  | ? | 3,000 | 1  | 3,000   |
+| Hawk Mask  | 17 | 4,000 | 2  | 8,000   |
+| Hawk Mask  | 17 | 6,000 | 24 | 144,000 |
 | Master Ring Unification Material | 15 | 4500 | 2 | 9000 | 
 
 ### Monthly Items
 
 - Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher Bounty Rank unlocks additional items and several of them can be purchased multiple times ("# Copies").
-- The total cost to clear the shop each month is 45,000 Bounty Medals. Excluding the High, Mid, and Low Iron Ore the total cost is 40,500.   
+- The total cost to clear the shop each month is 96,700 Bounty Medals. Excluding the High, Mid, and Low Iron Ore the total cost is 86,700 Bounty Medals  
 
 | Item | Rank | Bounty Medals | # Copies | Total Bounty Medals |
 |:-----|:----:|:-------------:|:--------:|:-------------------:|
+| Way of the Thief Skill Scroll   | 13 | 3,000 | 1  | 3,000   |  
+| Way of the Priest Skill Scroll  | 13 | 3,000 | 1  | 3,000   |
 | Way of the Warrior Skill Scroll | 13 | 3,000 | 1  | 3,000   |  
-| Way of the Mage Skill Scroll    | 13 | 3,000 | 1  | 3,000   | 
+| Way of the Mage Skill Scroll    | 13 | 3,000 | 1  | 3,000   |
+| Way of the Knight Skill Scroll  | 13 | 3,000 | 1  | 3,000   |
+| Divine Path Skill Scroll        | 13 | 3,000 | 1  | 4,500   |
+| Book of Honed Ability Secrets   | 10 | 4,500 | 1  | 4,500   | 
 | Book of Honed Ability Secrets   | 10 | 3,000 | 1  | 3,000   | 
-| Book of Passive Magic Defense Up Secrets                    | 3  | 1,500 | 5  | 7,500   |  
-| Book of Passive Defense Power Up Secrets                     | 3  | 1,500 | 5  | 7,500   | 
-| Legendary Adventurer's Remains  | 1  | 8,000 | 1  | 8,000   |  
-| Adventurer's Remains            | 1  | 800   | 5  | 4,000   |
+| Book of Hone Inborn Secrets     | 10 | 3,000 | 1  | 6,000   | 
+| Book of Passive Magic Defense Up Secrets | 3  | 1,500 | 5  | 7,500   |
+| Book of Passive Magic Defense Up Secrets | 3  | 4,500 | 2  | 9,000   | 
+| Book of Passive Defense Power Up Secrets | 3  | 1,500 | 5  | 7,500   |
+| Book of Passive Defense Power Up Secrets | 3  | 4,500 | 2  | 9,000   | 
+| Legendary Adventurer's Remains  | 1  | 8,000 | 1  | 8,000   |
+| Adventurer's Remains II         | 1  | 1,200 | 1  | 1,200   |
+| Adventurer's Remains I          | 1  | 800   | 5  | 4,000   |
 | Gem of Org x100                 | 1  | 400   | 5  | 2,000   | 
-| Codex of Learning               | 1  | 2,500 | 1  | 2,500   | 
+| Codex of Learning               | 1  | 2,500 | 1  | 2,500   |
+| Codex of Learning               | 1  | 3,000 | 1  | 3,000   |
+| Silver Ore                      | 1  | 300   | 5  | 1,500   |
+| Fine Grade Ore                  | 1  | 200   | 20 | 4,000   |
 | High Grade Iron Ore             | 1  | 100   | 20 | 2,000   | 
 | Mid Grade Iron Ore              | 1  | 75    | 20 | 1,500   | 
 | Low Grade Iron Ore              | 1  | 50    | 20 | 1,000   | 
-| Total                           |    |       |    | 45,000  | 
+| Total                           |    |       |    | 96,700  | 
 
 ## One-Time Bounty Rank Rewards
 
@@ -1115,6 +1130,8 @@
 | 13 |   | 500 | 1,000,000  | Master Ring   |
 | 14 |   | 100 | 1,200,000  | |
 | 15 |   | 300 | 1,450,000  | Grip Gloves |
+| 16 |   | 300 | 1,500,000  | |
+| 17 |   | 350 | 1,800,000  | |
 | Total  | 11  | 2,600  |  7,180,000  |    |
 
 ### Unique Rewards
@@ -1158,7 +1175,22 @@
         - Silver-Haired Nun: 5 DIV, 5 RES  
         - Dark Knight of Bastok: 10 HP, 5 ATK, 5 DEF  
         - Abhorrent One of Tavnazia: 5 ATK, 5 ASPD, 5 EVA   
-        - Priestess of the Far East: 5 DIV, 5 ATK, 5 ACC    
+        - Priestess of the Far East: 5 DIV, 5 ATK, 5 ACC
+
+??? note "Book of Hone Inborn Nature" 
+
+	- Stats vary by the unit's race.
+	- General Races:
+		- Human: +1 to all Base Stats.
+		- Beastfolk: +3 to SPD and DEX.
+		- Dwarf: +3 to STR and DEX.
+		- Elf: +3 to IQ and DEX.
+		- Fairy: +3 to IQ and SPD.
+	- Unique Races:
+		- Galka: +3 to STR and VIT.
+		- Hume: +1 to all Base Stats.
+		- Elvaan: +3 to STR and PIE.
+	
     
 ??? note "Grip Gloves"
 
