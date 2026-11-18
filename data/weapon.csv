@@ -29,7 +29,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 164,Dagger!A164,Dagger,184,Beast Killer,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Magical Beast-Slayer"
 170,Dagger!A170,Dagger,183,Seafoam Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Water Type"
 176,Dagger!A176,Dagger,182,Earthrend Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Earth Type"
-182,Dagger!A182,Dagger,185,Cyclop's Fang-Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,124,0,0,0,0,-5,0,9,2,0,142,0,0,0,0,-5,0,10,2,0,"Nimble Strike, Evasion Damage"
+182,Dagger!A182,Dagger,185,Cyclops's Fang-Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,124,0,0,0,0,-5,0,9,2,0,142,0,0,0,0,-5,0,10,2,0,"Nimble Strike, Evasion Damage"
 188,Dagger!A188,Dagger,Ex.,Sword Stealer,Silver,2,,,64,0,0,0,0,8,10,4,8,0,86,0,0,0,0,8,12,4,8,0,104,0,0,0,0,8,13,4,8,0,117,0,0,0,0,8,14,4,8,0,123,0,0,0,0,8,15,4,8,0,"Nimble Strike (Major), Passive Dexterity Up"
 194,Dagger!A194,Dagger,Ex.,Unenlightenment,Silver,2,,5520,69,0,0,0,0,4,15,0,2,0,91,0,0,0,0,4,17,0,2,0,109,0,0,0,0,4,18,0,2,0,122,0,0,0,0,4,19,0,2,0,128,0,0,0,0,4,20,0,2,0,"Nimble Strike, Humanoid-Slayer, Adventurer-Slayer"
 200,Dagger!A200,Dagger,Ex.,Mandau,Silver,2,,,53,0,0,0,0,4,20,0,2,0,71,0,0,0,0,4,20,0,2,0,89,0,0,0,0,4,20,0,2,0,107,0,0,0,0,4,20,0,2,0,125,0,0,0,0,4,20,0,2,0,"Always 4* Red with fixed type ATK/SUR/EVA/ATK%, Nimble Strike, Mercy Stroke, Power of Mandau"
@@ -362,7 +362,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 110,2H_Spear!A110,2H_Spear,214,Beast Penetrator,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Magical Beast-Slayer"
 116,2H_Spear!A116,2H_Spear,212,Earthrend Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Earth Type"
 122,2H_Spear!A122,2H_Spear,213,Seafoam Two-Handed Spear,Silver,1,,,110,0,0,0,0,0,10,0,5,0,143,0,0,0,0,0,10,0,5,0,169,0,0,0,0,0,10,0,5,0,192,0,0,0,0,0,10,0,5,0,209,0,0,0,0,0,10,0,5,0,"Strength-Based +, Water Type"
-128,2H_Spear!A128,2H_Spear,Ex.,Whilring Tiger,Silver,1,,,115,0,0,0,0,0,10,3,7,0,138,0,0,0,0,0,10,3,7,0,160,0,0,0,0,0,10,3,7,0,183,0,0,0,0,0,10,3,7,0,205,0,0,0,0,0,10,3,7,0,"Strength-Based +, Evasive Heavy Strike"
+128,2H_Spear!A128,2H_Spear,Ex.,Whirling Tiger,Silver,1,,,115,0,0,0,0,0,10,3,7,0,138,0,0,0,0,0,10,3,7,0,160,0,0,0,0,0,10,3,7,0,183,0,0,0,0,0,10,3,7,0,205,0,0,0,0,0,10,3,7,0,"Strength-Based +, Evasive Heavy Strike"
 134,2H_Spear!A134,2H_Spear,Ex.,Mizukage Naginata,Silver,1,,,107,0,0,0,0,0,15,0,5,0,146,0,0,0,0,0,15,0,5,0,173,0,0,0,0,0,15,0,5,0,186,0,0,0,0,0,15,0,5,0,190,0,0,0,0,0,15,0,5,0,"Strength-Based +, Attack/Divine Power Conversion"
 140,2H_Spear!A140,2H_Spear,Ex.,Hunter's Spear,Silver,1,,,88,0,0,0,0,0,50,0,5,0,127,0,0,0,0,0,55,0,5,0,154,0,0,0,0,0,59,0,5,0,167,0,0,0,0,0,61,0,5,0,171,0,0,0,0,0,63,0,5,0,"Strength-Based +, Sleep, Swooning Thrust Learned"
 146,2H_Spear!A146,2H_Spear,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -401,23 +401,23 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 80,1H_Staff!A80,1H_Staff,249,Fine Sacred Tree Baton,Steel,1,,,16,32,32,0,0,0,0,0,2,0,30,46,46,0,0,0,0,0,2,0,43,59,59,0,0,0,0,0,2,0,57,73,73,0,0,0,0,0,2,0,71,87,87,0,0,0,0,0,2,0,"Faerie exclusive, Promise of Inspiration"
 86,1H_Staff!A86,1H_Staff,53,Arcane Rod,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,
 92,1H_Staff!A92,1H_Staff,247,Arcane Wand,Ebonsteel,1,94500,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,Faerie Exclusive
-98,1H_Staff!A98,1H_Staff,,Bone Baton,Ebonsteel,1,,,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Gift of Soul-Soothing"
-104,1H_Staff!A104,1H_Staff,250,Fine Bone Baton,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Gift of Soul-Soothing"
-110,1H_Staff!A110,1H_Staff,251,Fine Tail Baton,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Promise of Perseverence"
-116,1H_Staff!A116,1H_Staff,,Greenleaf Baton,Ebonsteel,1,,,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,Faerie Exclusive
-122,1H_Staff!A122,1H_Staff,107,Staff of Weakness,Ebonsteel,1,,875,11,51,51,-1,-1,-1,0,0,3,0,27,67,67,-1,-1,-1,0,0,3,0,43,83,83,-1,-1,-1,0,0,3,0,59,99,99,-1,-1,-1,0,0,3,0,76,116,116,-1,-1,-1,0,0,3,0,Attack Power Decrease
-128,1H_Staff!A128,1H_Staff,261,Warstaff of Honor,Ebonsteel,1,,1688,22,20,20,0,0,0,0,0,2,0,38,35,35,0,0,0,0,0,2,0,54,62,62,0,0,0,0,0,2,0,70,104,104,0,0,0,0,0,2,0,87,126,126,0,0,0,0,0,2,0,"Passive Mp Up, Battlefront Attunement II, always starts 3* Blue MAG/DIV. other blessings random"
-134,1H_Staff!A134,1H_Staff,Ex.,Black Rod,Ebonsteel,1,,,80,53,0,0,0,0,0,0,2,0,96,69,0,0,0,0,0,0,2,0,112,85,0,0,0,0,0,0,2,0,128,101,0,0,0,0,0,0,2,0,145,118,0,0,0,0,0,0,2,0,
-140,1H_Staff!A140,1H_Staff,Ex.,Staff of Recurrence,Ebonsteel,1,,,11,50,50,0,0,0,0,0,2,0,27,66,66,0,0,0,0,0,2,0,43,82,82,0,0,0,0,0,2,0,59,98,98,0,0,0,0,0,2,0,76,115,115,0,0,0,0,0,2,0,Blessing of Reversal
-146,1H_Staff!A146,1H_Staff,192,Rod of Splendor,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,
-152,1H_Staff!A152,1H_Staff,244,Staff of the Long-Cherished Wish,Silver,1,,,20,60,60,0,0,0,0,0,-1,5,40,80,80,0,0,0,0,0,-1,7,59,99,99,0,0,0,0,0,-1,10,78,118,118,0,0,0,0,0,-1,12,98,138,138,0,0,0,0,0,-1,15,
-158,1H_Staff!A158,1H_Staff,252,Fine Flower Petal Baton,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,"Faerie exclusive, Promise of Compassion"
-164,1H_Staff!A164,1H_Staff,,Toadskin Baton,Silver,1,,,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,Faerie exclusive
-170,1H_Staff!A170,1H_Staff,,Windrider Feather Baton,Silver,1,,,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,Faerie exclusive
-176,1H_Staff!A176,1H_Staff,Ex.,Librarian Rod,Silver,1,,,36,70,70,0,0,0,0,0,3,0,60,94,94,0,0,0,0,0,3,0,80,114,114,0,0,0,0,0,3,0,92,126,126,0,0,0,0,0,3,0,100,134,134,0,0,0,0,0,3,0,Memory Enhancement
-182,1H_Staff!A182,1H_Staff,Ex.,Drug-Stirrer,Silver,1,,,15,77,77,0,0,0,0,0,3,0,39,101,101,0,0,0,0,0,3,0,59,121,121,0,0,0,0,0,3,0,71,133,133,0,0,0,0,0,3,0,79,141,141,0,0,0,0,0,3,0,Efficient Compounding
-188,1H_Staff!A188,1H_Staff,Ex.,Staff of the Parasitic Tree,Silver,1,,,41,68,68,0,0,0,0,0,3,0,65,92,92,0,0,0,0,0,3,0,85,112,112,0,0,0,0,0,3,0,97,124,124,0,0,0,0,0,3,0,105,132,132,0,0,0,0,0,3,0,Magic Power/Divine Power Accumulation Upon MP Expenditure
-194,1H_Staff!A194,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,1H_Staff!A98,1H_Staff,,Fur Baton,Ebonsteel,1,,,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,Faerie Exclusive
+104,1H_Staff!A104,1H_Staff,,Bone Baton,Ebonsteel,1,,,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Gift of Soul-Soothing"
+110,1H_Staff!A110,1H_Staff,250,Fine Bone Baton,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Gift of Soul-Soothing"
+116,1H_Staff!A116,1H_Staff,251,Fine Tail Baton,Ebonsteel,1,,700,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,"Faerie Exclusive, Promise of Perseverence"
+122,1H_Staff!A122,1H_Staff,,Greenleaf Baton,Ebonsteel,1,,,22,53,53,0,0,0,0,0,2,0,38,69,69,0,0,0,0,0,2,0,54,85,85,0,0,0,0,0,2,0,70,101,101,0,0,0,0,0,2,0,87,118,118,0,0,0,0,0,2,0,Faerie Exclusive
+128,1H_Staff!A128,1H_Staff,107,Staff of Weakness,Ebonsteel,1,,875,11,51,51,-1,-1,-1,0,0,3,0,27,67,67,-1,-1,-1,0,0,3,0,43,83,83,-1,-1,-1,0,0,3,0,59,99,99,-1,-1,-1,0,0,3,0,76,116,116,-1,-1,-1,0,0,3,0,Attack Power Decrease
+134,1H_Staff!A134,1H_Staff,261,Warstaff of Honor,Ebonsteel,1,,1688,22,20,20,0,0,0,0,0,2,0,38,35,35,0,0,0,0,0,2,0,54,62,62,0,0,0,0,0,2,0,70,104,104,0,0,0,0,0,2,0,87,126,126,0,0,0,0,0,2,0,"Passive Mp Up, Battlefront Attunement II, always starts 3* Blue MAG/DIV. other blessings random"
+140,1H_Staff!A140,1H_Staff,Ex.,Black Rod,Ebonsteel,1,,,80,53,0,0,0,0,0,0,2,0,96,69,0,0,0,0,0,0,2,0,112,85,0,0,0,0,0,0,2,0,128,101,0,0,0,0,0,0,2,0,145,118,0,0,0,0,0,0,2,0,
+146,1H_Staff!A146,1H_Staff,Ex.,Staff of Recurrence,Ebonsteel,1,,,11,50,50,0,0,0,0,0,2,0,27,66,66,0,0,0,0,0,2,0,43,82,82,0,0,0,0,0,2,0,59,98,98,0,0,0,0,0,2,0,76,115,115,0,0,0,0,0,2,0,Blessing of Reversal
+152,1H_Staff!A152,1H_Staff,192,Rod of Splendor,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,
+158,1H_Staff!A158,1H_Staff,244,Staff of the Long-Cherished Wish,Silver,1,,,20,60,60,0,0,0,0,0,-1,5,40,80,80,0,0,0,0,0,-1,7,59,99,99,0,0,0,0,0,-1,10,78,118,118,0,0,0,0,0,-1,12,98,138,138,0,0,0,0,0,-1,15,
+164,1H_Staff!A164,1H_Staff,252,Fine Flower Petal Baton,Silver,1,,1050,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,"Faerie exclusive, Promise of Compassion"
+170,1H_Staff!A170,1H_Staff,,Toadskin Baton,Silver,1,,,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,Faerie exclusive
+176,1H_Staff!A176,1H_Staff,,Windrider Feather Baton,Silver,1,,,27,64,64,0,0,0,0,0,3,0,47,84,84,0,0,0,0,0,3,0,66,103,103,0,0,0,0,0,3,0,85,122,122,0,0,0,0,0,3,0,105,142,142,0,0,0,0,0,3,0,Faerie exclusive
+182,1H_Staff!A182,1H_Staff,Ex.,Librarian Rod,Silver,1,,,36,70,70,0,0,0,0,0,3,0,60,94,94,0,0,0,0,0,3,0,80,114,114,0,0,0,0,0,3,0,92,126,126,0,0,0,0,0,3,0,100,134,134,0,0,0,0,0,3,0,Memory Enhancement
+188,1H_Staff!A188,1H_Staff,Ex.,Drug-Stirrer,Silver,1,,,15,77,77,0,0,0,0,0,3,0,39,101,101,0,0,0,0,0,3,0,59,121,121,0,0,0,0,0,3,0,71,133,133,0,0,0,0,0,3,0,79,141,141,0,0,0,0,0,3,0,Efficient Compounding
+194,1H_Staff!A194,1H_Staff,Ex.,Staff of the Parasitic Tree,Silver,1,,,41,68,68,0,0,0,0,0,3,0,65,92,92,0,0,0,0,0,3,0,85,112,112,0,0,0,0,0,3,0,97,124,124,0,0,0,0,0,3,0,105,132,132,0,0,0,0,0,3,0,Magic Power/Divine Power Accumulation Upon MP Expenditure
 200,1H_Staff!A200,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 206,1H_Staff!A206,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 212,1H_Staff!A212,1H_Staff,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
