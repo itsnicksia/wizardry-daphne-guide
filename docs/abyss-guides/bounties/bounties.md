@@ -911,6 +911,157 @@
     === "Map R3"
         ![](./img/wailing-twin-dolls-loc.png)
 
+??? danger "Beasts with No Master - R5 - 1930 Medals"
+
+    === "Wanted Poster" 
+        ![](./img/.png)
+
+    === "Bounty Details"
+		- Stationary, appears on minimap.
+		- 33750 Gold
+		- 1930 Bounty Medals
+		- 15 Bounty Markers
+
+    === "Fight Details"
+		- Begins fight with weak versions of actual monsters. Afterwards, the leader/adult/big versions of said monsters show up.
+		- Snow Wolf Leader always goes first, summoning 3 Snow Wolves. It also is extremely fast and goes first with double actions.
+		- Big Snow Hawk is also extremely fast and will typically go first to cast Acceleration. It has extremely high evasion.
+		- Frontline: Big Snow Hawk + Snow Wolves 2x. Backline: Bigfoot + Snow Wolf Leader + Snow Wolf.
+		- If Snow Wolves are killed, Snow Wolf Leader can re-summon all 3, and then also buff the entire team with a weak ACC/EVA/ATK buff.
+
+    === "Map R5"
+        ![](./img/.png)
+
+??? danger "Stench-Ridden Old Ape - R8 - 1800 Medals"
+
+    === "Wanted Poster" 
+        ![](./img/.png)
+
+    === "Bounty Details"
+		- Stationary, does not appear on minimap until you get close.
+		- 33750 Gold
+		- 1800 Bounty Medals
+		- 15 Bounty Markers
+
+    === "Fight Details"
+		- Frontline: Bigfoot + Creeping Crud 2x. Backline: Creeping Crud 4x.
+		- All are level 92. Creeping Cruds have low HP and high DEF. They all do moderate physical damage and apply Critical Poison on all attacks. The critical poison is extremely strong and will kill units in two actions.
+		- Bigfoot can summon more level 99 Creeping Cruds.
+		- Upon taking enough damage, it can self buff for 10 turns of ATK, DEF, MDEF
+		- Upon taking enough damage again, it can self buff for 5 turns of ATK, DEF, and WT Up.
+		- Extremely recommended to bring Priests with at least LATUMOFIS 5, Knight for All Around Cover, and a Mage(s) to defeat all the Creeping Cruds ASAP.
+
+    === "Map R8"
+        ![](./img/.png)
+
+??? danger "Those who Imperil Honor - R9 - 1755 Medals"
+
+    === "Wanted Poster" 
+        ![](./img/.png)
+
+    === "Bounty Details"
+		- Stationary, appears as an NPC on the map.
+		- 30000 Gold
+		- 1755 Bounty Medals
+		- 16 Bounty Markers
+
+    === "Fight Details"
+		- Frontline: Royal Light Knight Corpse 3x + Royal Knight Corpse 2x. Midline: Royal Light Knight Corpse 2x + Royal Knight Corpse 2x. Backline: Royal Light Knight Corpse 3x + Royal Knight Corpse 2x + 1 Necromancer.
+		- Light Knights have a chance to apply paralysis on hit. Heavy Corpses have a chance to apply stun on hit. All knights can surety on hit. They do minor/decent damage per attack. MAREIN does not work on them.
+		- Necromancer can summon 3 more knights (heavy). Can also cast KANTIOS. It has very low HP, but killing him before killing all the Knight Corpses will have him resurrect immediately.
+		- It's very recommended to bring multiple Mages to cast LA-spells to instantly wipe the entire field before they go. If not, it's recommended to bring a Knight with Line Cover and a Priest for MAKALKI.
+
+    === "Map R9"
+        ![](./img/.png)
+
+??? danger "Rock-Crushing Colossus - Bigfoot Cave - 2000 Medals"
+
+    === "Wanted Poster" 
+        ![](./img/.png)
+
+    === "Bounty Details"
+		- Stationary, appears on minimap.
+		- 35100 Gold
+		- 2000 Bounty Medals
+		- 20 Bounty Markers
+		- Available after a faction request involving the cave has been completed.
+
+    === "Fight Details"
+		- Frontline: Lamenting Snowfolk 2x. Midline: Lamenting Snowfolk 2x. Backline: Snowpeak Cyclops.
+		- Lamenting Snowfolk in the frontline will cast MADALTO, MAERLIK, or LAERLIK. The ones in the midline will always cast Eerie Feylight to buff the entire team.
+		- Snowpeak Cyclops acts normally but upon taking enough damage will buff ACC for 10 turns and DEF for 5 turns. It will then buff ACC for 10 turns again and DEF for 10 turns. Finally, it'll buff ASPD for 1 turn, then proceed to do an extremely powerful column attack that applies 5 chill if you somehow survive.
+		- It's recommended to kill the Lamenting Snowfolk asap before dealing with the Cyclops. High damage Bossing units are recommended, especially those that can deal damage through defense buffs. However, do also bring mages/ninjas with Malefic Wind/Dissipation respectively as well if possible.
+
+
+    === "Map Bigfoot Cave"
+        ![](./img/.png)
+
+??? danger "Dealer of Donabelle - Cave of Flowers B2F - 1380 Medals"
+
+    === "Wanted Poster" 
+        ![](./img/.png)
+
+    === "Bounty Details"
+		- Stationary, appears as an NPC on map.
+		- 30000 Gold
+		- 1255 Bounty Medals
+		- 16 Bounty Markers
+		- Available after Pixie and the Secret Garden has been completed.
+
+    === "Fight Details"
+		- Before the fight, select the third option (Ignore her and Attack) in order to gain initiative for the fight.
+		- Enemies are all slow, but extremely evasive. It's pretty much impossible to hit them conventionally.
+		- The beastfolk warrior is besides 4 Ninjas. She has a lot of HP compared to the ninjas.
+		- Ninjas have very low HP (~3k HP) and act similar to typical ninjas.
+		- After the beastfolk warrior takes enough damage, they will re-summon 3 ninjas. They can also self-buff with Warrior's Battle Cry out of turn when taking enough damage.
+		- It's recommended to bring a mage that can cast MADALTO in order to freeze these enemies to be able to hit them. 2H Maces/Magic/Rangers aren't necessary but can help clear out ninjas quickly.
+
+    === "Map Cave of Flowers B2F"
+        ![](./img/.png)
+
+??? danger "Raider Eater - Labyrinth of Fordraig B4F - 1900 Medals"
+
+    === "Wanted Poster" 
+        ![](./img/.png)
+
+    === "Bounty Details"
+		- Stationary-ish, appears as a random chest (gold chest) on the map.
+		- 33750 Gold
+		- 1900 Bounty Medals
+		- 18 Bounty Markers
+		- Appears at Bounty Rank 16
+		- Available after Labyrinth of Fordraig Exploration request (part 2) has been completed.
+
+    === "Fight Details"
+		- Appears randomly in a Gold Chest on B4F. You can reach the Left Half of B4F by taking the harken to B3F and then taking the portal directly to the right. Alternatively, you can reach the top right portion of B4F by taking the harken to B2F and walking down the stairs to B3F, and taking the portal on (X:26, Y:13). Incorrect gold chests will yield a fight against a normal mimic that summons two Sahuagin Archers.
+		- The Golden Mimic will summon a Minotaur alongside it at the start of combat. Both of them can be BATILGREF'd and Chilled.
+		- the Golden Mimic starts with 1 action a turn, but after taking enough damage will gain a permanent MAG buff and begin taking 2 actions a turn. Upon further taking damage will gain a permanent ATK buff and begin taking 3 actions a turn.
+		- Sadly, only drops a 3* relic if the applicable form shows up.
+
+    === "Map Labyrinth of Fordraig B4F"
+        ![](./img/.png)
+
+??? danger "Gettou, the Man-Slaying Raksha - Island of the Wailing Oni B3F - 2320 Medals"
+
+    === "Wanted Poster" 
+        ![](./img/.png)
+
+    === "Bounty Details"
+		- Stationary, appears as an NPC on the map.
+		- 38100 Gold
+		- 2320 Bounty Medals
+		- 25 Bounty Markers
+		- Available after Vendetta on the Island of the Wailing Oni is completed AND the Sword Fiend has been defeated.
+
+    === "Fight Details"
+		- Frontline: 4 Samurai. Backline: Gettou.
+		- The Samurai in the front have around 10k HP each and will attempt to use a bearer skill on their first turn. They all have 1 action each.
+		- Gettou is nearly identical to the Sword Fiend, but with higher ACC and SUR EVA.
+		- The fight is very similar to the Sword Fiend fight, except that this time it's very unfeasible to dodge Gettou. In addition, they have enhanced targetting and will attempt to target the last DPS that attacked.
+
+    === "Map Island of the Wailing Oni B3F"
+        ![](./img/.png)
+
 ## Bounty Medal Exchange Shop
 
 ### Permanent Items
