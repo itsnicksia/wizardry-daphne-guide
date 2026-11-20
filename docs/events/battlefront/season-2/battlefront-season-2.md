@@ -905,7 +905,7 @@
         - Straightforward, recommended to conserve resources.
         - Goblins and Goblin Archers have around 7k HP each.
         - Goblin Mage and Cleric have around 4.5k HP each.
-        - Air Vorpal Bunnies have around 5k HP each. They are extremely fast (300 ASPD goes before them).
+        - Air Vorpal Bunnies have around 5k HP each.
         - Gluttonous Maws have around 13k HP each.
         - Hobgoblin has around 17k HP.
         - The Goblin Archer will always go first.
@@ -923,10 +923,11 @@
 
     === "Tips"
         - Straightforward, recommended to conserve resources.
-        - The Red Spinner Woman has around 12k. It is very fast. (300 ASPD goes before them).
+        - The Red Spinner Woman has around 12k. It is very fast. 
         - Air Entities have around 5k HP each.
         - Scorpion Lady has 35k HP. Can be affected by Sleep, Confuse, Paralysis, Charm, WT Down, and Freeze if needed.
         - It's recommended to deal with the Air Entities first with magic, then use physical attacks/defend for openings for the rest.
+        - 240 ASPD is enough to outspeed everything here.
 
 === "Round 3"
 
@@ -943,6 +944,7 @@
         - Butchers have around 30k HP each.
         - Skeleton Archers are very fast and typically one of them will charge up an instant kill arrow. It's recommended to use MAREIN or magic to deal with the skeleton backrow ASAP.
         - Butchers hit very hard but can be affected by opening and are susceptible to status effects, so after dealing with the skeletons, just defend and fish for openings.
+        - 240 EVA on a fire unit/400 EVA on a non-fire unit is enough to evade physical here.
 
 
 === "Round 4"
@@ -972,7 +974,7 @@
 
     === "Tips"
         - Straightforward, recommended to conserve resources.
-        - Sahuagin Archers have around 5k HP each, cannot be reasonably evaded, and are extremely fast.
+        - Sahuagin Archers have around 5k HP each, cannot be reasonably evaded, and are extremely fast (384 ASPD can go before)
         - Sahuagins have around 11k HP each and can be evaded.
         - A fast knight here would be useful, especially with All Around Cover if possible. Alternatively, fast mages with LA or MA spells can clear the archers, and the sahuagins can be handled with defend/opening/basic attacks.
 
@@ -991,7 +993,7 @@
         - Pirate Berserkers have around 20k HP each.
         - Slimes and Entities have around 5k HP each.
         - Big Slime has 28k HP and is very resistant to physical attacks. It hits extremely hard.
-        - All the enemies here are relatively slow. It's recommended to simply deal with the entities and slimes first with magic, and then the rest of the enemies could be handled with defend/opening/single target magic/basic attacks.
+        - All the enemies here are relatively slow (72 ASPD is enough to outspeed all) It's recommended to simply deal with the entities and slimes first with magic, and then the rest of the enemies could be handled with defend/opening/single target magic/basic attacks.
 
 === "Round 7"
 
@@ -1005,7 +1007,7 @@
     === "Tips"
         - This is another relatively difficult stage.
         - Cursed Dolls have 15k HP each, are somewhat evasive, and cannot reasonably be evaded. They will always go first and are extremely fast (can continually lap you).
-        - Ninjas have 7k HP each and typically just cast row magic.
+        - Ninjas have 7k HP each and typically just cast row magic. 250 ASPD is enough to outspeed these.
         - Entities have 5k HP each.
         - It's recommended to bring at least one healer here, if not two, as it's possible to get unlucky and have to deal with cleansing Curse from your whole team, as well as setting up Curse incense. The Cursed Dolls can be BATILGREF'd and can be status'd but it is not consistent. It's recommended to cast LA spells to deal with everything else first, then focus on the Cursed Dolls. A knight with Line Cover/Knight's Defense can help protect the front row.
 
@@ -1022,7 +1024,7 @@
     === "Tips"
         - There is referee intervention here for Humans. It's recommended to cleanse the three debuffs ASAP or risk taking too much damage.
         - Lizardman Champion here is extremely fast and will cast Assault command repeatedly until at least 3 Lizardman die. It has around 69k HP. It cannot reasonably be evaded. It does extremely high damage frequently and typically use AOE attacks.
-        - Lizardman have around 21k HP each. They are susceptible to status effects and can be reasonably evaded.
+        - Lizardman have around 21k HP each. They are susceptible to status effects and can be reasonably evaded (210 EVA on fire, 340 EVA on non-fire).
         - Bring magical beast resist gear for this if possible. A recommended strategy is to sleep/freeze two rows of Lizardman, then kill two of them to move the Champion to the 2nd row. Magical Beast weapons such as spears/bows should be used to focus on killing the Champion before killing the rest.
 
 
@@ -1041,6 +1043,7 @@
         - Necrocore has around 39k HP. Can be opening'd. It is pretty weak and doesn't do much. Only real threat is the instant kill.
         - Sand Apparitions have around 16k HP each. These are the main threat of this stage due to Sandstorm possibly doing a lot of AOE damage. Otherwise, they mainly cast BATILGREF.
         - It's recommended to cast LA spells to get rid of the Wights ASAP, then deal with the Sand Apparitions after with ranged attacks/melee attacks when they move up/magic. The Necrocore is low priority to deal with.
+        - 278 ASPD is enough to outspeed all.
 
 === "Round 10"
 
@@ -1056,7 +1059,7 @@
         - Straightforward, recommended to conserve resources.
         - The Chimeras have around 23k HP each.
         - Our Heirlooms has around 53k HP.
-        - Succubus has around 5k HP.
+        - Succubus has around 5k HP and is extremely fast (382 ASPD goes before).
         - Gorgon has around 22k HP.
         - It's recommended to bring a healer to immediately put down manipulation incense. The succubus needs to be killed ASAP as it can potentially drain SP/MP. Petrification incense can be put down after. Rest of enemies can be dealt with normally/opening defended.
 
@@ -1071,7 +1074,7 @@
         - Backline: Greater Demon 2x
 
     === "Tips"
-        - Vampires have around 22k HP each. Not immune to status effects but very low chance.
+        - Vampires have around 22k HP each. Not immune to status effects but very low chance. 230 ASPD can outspeed vampires and 210 EVA is enough to avoid their physical attacks.
         - Lesser Demons have around 9k HP each. They only cast weak single target magic.
         - Greater Demons have 55k HP each. Their Powerful Arm attack does a lot of damage. They also can cast full team Confusion like the greater sealed demon. They can be frozen (low chance) and BATILGREF'd (not consistent). Otherwise immune to everything else.
         - Bring demon resist gear if possible. It's recommended to bring a healer to put down manipulation incense immediately, and then possibly sleep incense while dealing with the vampires. Vampires need to be dealt with first, but be careful not to bring their HP too low as Vampire Bats does a lot of damage. It might be favorable to keep the Greater Demons in the row behind lesser demons to reduce their damage.
@@ -1116,8 +1119,8 @@
         - Backline: Snow Wolf 4x
 
     === "Tips"
-        - Snow Wolf Leader has around 69k HP. It is extremely fast (300 ASPD will go before). It also hits extremely hard.
-        - Snow Wolves have around 7k HP each. They will typically summon other wolves and/or buff all wolves.
+        - Snow Wolf Leader has around 69k HP. It is extremely fast (300 ASPD will go before). It also hits extremely hard and cannot be reasonably evaded.
+        - Snow Wolves have around 7k HP each. They will typically summon other wolves and/or buff all wolves. (155 ASPD goes before)
         - Bring magical beast resist gear if possible. It's recommended to simply kill all the Snow Wolves with LA spells before they go and then have a Knight reduce the Snow Wolf Leader's damage/cover for allies. A healer to cleanse chill/freeze is also recommended but not necessary.
 
 
@@ -1136,6 +1139,7 @@
         - Lamenting Snowfolk have around 23k HP each and also prioritize casting DALTO.
         - Snowpeak Cyclops has around 54k HP. As expected, it hits extremely hard after concentration. It is also effectively immune to status effects. BATILGREF can apply at a very low chance.
         - It's recomended to use LA-spells to deal with the entities ASAP and then focus on the Lamenting Snowfolk before attempting to kill the Snowpeak Cyclops in one turn before it concentrates with multiple defense buffs. If you're unable to do so, then bring multiple units that can cast Dissipation/Malefic Wind.
+        - 240 ASPD can outspeed all.
 
 === "Round 16"
 
