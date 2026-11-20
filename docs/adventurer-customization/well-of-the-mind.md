@@ -158,9 +158,10 @@ The following table gives you details about the Lamps that unlock more of the We
 | POTO | Increases Poison Tolerance |
 | BITO | Increases Bind Tolerance |
 | | |
-| EMBERS | Embers of Resurgence increased by 1 |
 | PARALLEL BREAK | Chance to inflict multiple status afflictions (Sleep, Stun, Fear. Confusion) on 1 enemy row |
-| REVERSAL RESONANCE | Chance to resurrect an additional ally when using right hand of reversal on an ally who died in battle. |
-| DEEP LOOK BACK | Chance that time will feel slower when using the Right hand of reversal to resurrect an ally who died in battle |
 | CHRONOSTASIS | Minor physical attack that always hits 1 enemy. High chance of greatly slowing target's Action Order |
+| | |
+| EMBERS | Embers of Resurgence maximum number increased by 1 for each skill level obtained. |
+| REVERSAL RESONANCE | Chance to resurrect one additional ally when using right hand of reversal on an ally who died in battle. Chance increases with skill level. (Level 1 est.: 30%, Level 2: 50%) |
+| DEEP LOOK BACK | Chance that time will feel slower when using the Right hand of reversal to resurrect an ally who died in battle. Chance and amount of slowdown increases with skill level. (Level 1 est.: 50% chance of 50% slowdown. Level 2: 75% chance of 60% slowdown.) |
 
