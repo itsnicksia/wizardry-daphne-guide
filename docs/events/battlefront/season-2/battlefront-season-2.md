@@ -889,7 +889,7 @@
 
 ### Hero League
 
-!!! danger "This content is extremely difficult. It's essentially necessary for the player to have Fire Element or Elf Mages with 1H Rods for this content in particular. Due to the nature of magic attacks having very low softcaps especially on 1H weapons, it's not necessary to have very high Mag Power or Div Power. It's better to instead focus on having very high ASPD and possibly even high SUR if possible. It's essentially necessary to also bring Fire Element Knights in order to cover/Knight's Defense for certain rounds, especially with recent buffs to Knight's Defense. It is ideal to have a very high ASPD set specifically for a knight if possible. Samurais with Odachis are not particularly necessary but are more resource efficient due to having both an SP and MP pool. Evasion is not really necessary nor recommended for this league, and status effect spells are typically useless for the vast majority of fights minus a few strategies. For some stat milestones, having 320 ASPD AFTER Fire Element buffs is more than enough to outspeed most high aspd enemies. Aim for at least 650 ATK and 300 MAG on odachi users BEFORE Fire Element buffs. 180 Accuracy and 100 SUR BEFORE Fire Element buffs should be enough for most enemies."
+!!! danger "This content is extremely difficult. It's essentially necessary for the player to have Fire Element or Elf Mages with 1H Rods for this content in particular. Due to the nature of magic attacks having very low softcaps especially on 1H weapons, it's not necessary to have very high Mag Power or Div Power. It's better to instead focus on having very high ASPD and possibly even high SUR if possible. It's essentially necessary to also bring Fire Element Knights in order to cover/Knight's Defense for certain rounds, especially with recent buffs to Knight's Defense. It is ideal to have a very high ASPD set specifically for a knight if possible. Samurais with Odachis are not particularly necessary but are more resource efficient due to having both an SP and MP pool. Evasion is not really necessary nor recommended for this league, and status effect spells are typically useless for the vast majority of fights minus a few strategies. For some stat milestones, having 300 ASPD BEFORE Fire Element buffs is more than enough to outspeed most high aspd enemies. Aim for at least 650 ATK and 300 MAG on odachi users BEFORE Fire Element buffs. 180 Accuracy and 100 SUR BEFORE Fire Element buffs should be enough for most enemies."
 
 === "Round 1"
 
@@ -905,7 +905,7 @@
         - Straightforward, recommended to conserve resources.
         - Goblins and Goblin Archers have around 7k HP each.
         - Goblin Mage and Cleric have around 4.5k HP each.
-        - Air Vorpal Bunnies have around 5k HP each. They are extremely fast (320 ASPD goes before them).
+        - Air Vorpal Bunnies have around 5k HP each. They are extremely fast (300 ASPD goes before them).
         - Gluttonous Maws have around 13k HP each.
         - Hobgoblin has around 17k HP.
         - The Goblin Archer will always go first.
@@ -923,7 +923,7 @@
 
     === "Tips"
         - Straightforward, recommended to conserve resources.
-        - The Red Spinner Woman has around 12k. It is very fast. (320 ASPD goes before them).
+        - The Red Spinner Woman has around 12k. It is very fast. (300 ASPD goes before them).
         - Air Entities have around 5k HP each.
         - Scorpion Lady has 35k HP. Can be affected by Sleep, Confuse, Paralysis, Charm, WT Down, and Freeze if needed.
         - It's recommended to deal with the Air Entities first with magic, then use physical attacks/defend for openings for the rest.
@@ -955,10 +955,10 @@
         - Backline: Air Entity 2x, Air Pixie 3x
 
     === "Tips"
-        - Essentially mandatory to have magic users here. This is the first relatively difficult stage.
+        - Almost mandatory to have magic users here. This is the first relatively difficult stage.
         - Bunnies and Entities have around 5k HP each.
         - Air Pixies have around 26k HP each. They are immune to all status effects.
-        - The bunnies and pixies are extremely fast (320 ASPD goes before), and Pixies can hit extremely hard. If possible, it's recommended to either have fast mages to cast LA-spells to get rid of all the low HP enemies first OR have a knight to All Around Cover.
+        - The bunnies and pixies are extremely fast (300 ASPD goes before), and Pixies can hit extremely hard. If possible, it's recommended to either have fast mages to cast LA-spells to get rid of all the low HP enemies first OR have a knight to All Around Cover.
         - Pixies will typically cast Masolotu on their allies, and are effectively not hittable with physical attacks besides using Anticipated Attack or using Maces. Sleep Incense may help a bit here to prevent allies from getting sniped by Fairy Arrow. It's recommended to take care of the Pixies after all of the other enemies are defeated with LA-spells.
         
 === "Round 5"
@@ -1102,7 +1102,7 @@
         - Backline: Bigfoot Child 3x
 
     === "Tips"
-        - Bigfoot Children have around 10k HP each. They're extremely fast (320 ASPD goes before), and can do a lot of damage.
+        - Bigfoot Children have around 10k HP each. They're extremely fast (300 ASPD goes before), and can do a lot of damage.
         - Bigfoot has 50k HP and typically just spams Horrendous Breath.
         - It's recommended to have a very fast knight to All Around Cover immediately OR several very fast mages to immediately blow up the Bigfoot Children with LA spells. Healers can then just put down Stun/Paralysis Incenses to deal with the breath and then kill the Bigfoot.
 
@@ -1116,7 +1116,7 @@
         - Backline: Snow Wolf 4x
 
     === "Tips"
-        - Snow Wolf Leader has around 69k HP. It is extremely fast (320 ASPD will go before). It also hits extremely hard.
+        - Snow Wolf Leader has around 69k HP. It is extremely fast (300 ASPD will go before). It also hits extremely hard.
         - Snow Wolves have around 7k HP each. They will typically summon other wolves and/or buff all wolves.
         - Bring magical beast resist gear if possible. It's recommended to simply kill all the Snow Wolves with LA spells before they go and then have a Knight reduce the Snow Wolf Leader's damage/cover for allies. A healer to cleanse chill/freeze is also recommended but not necessary.
 
@@ -1132,7 +1132,7 @@
         - Backline: Lamenting Snowfolk 2x
 
     === "Tips"
-        - Ice Entities have around 10k HP each and are very fast (320 ASPD unit goes before). They just cast DALTO and MADALTO.
+        - Ice Entities have around 10k HP each and are very fast (300 ASPD unit goes before). They just cast DALTO and MADALTO.
         - Lamenting Snowfolk have around 23k HP each and also prioritize casting DALTO.
         - Snowpeak Cyclops has around 54k HP. As expected, it hits extremely hard after concentration. It is also effectively immune to status effects. BATILGREF can apply at a very low chance.
         - It's recomended to use LA-spells to deal with the entities ASAP and then focus on the Lamenting Snowfolk before attempting to kill the Snowpeak Cyclops in one turn before it concentrates with multiple defense buffs. If you're unable to do so, then bring multiple units that can cast Dissipation/Malefic Wind.
