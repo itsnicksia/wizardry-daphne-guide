@@ -231,13 +231,13 @@ There are two status afflictions that currently allow you to deal increased dama
 
 Calculating Skill and Spell damage has multiple key factors that go in to the damage, and it can be represented using the following formula.
 
-`ActiveDamage` = (LEAST(`EffectivePower`,`SoftCap`) + GREATEST(`EffectivePower` - `SoftCap`, 0) / 2) * `ScaleFactor` - `OpposingDefense` / 2
+`ActiveDamage = (LEAST(EffectivePower,SoftCap) + GREATEST(EffectivePower - SoftCap, 0) / 2) * ScaleFactor - OpposingDefense / 2`
 
-* `EffectivePower` is the character sheet power plus any modifications to it that distribute the power across multiple stats. Examples of this are Samurai having an effective power of `Atk + Mag` * 0.65 and Rangers having an effective power of `Acc` * 1.5 + `Atk` * 0.5
-* `SoftCap` is the active skill or spell's softcap at the given level
+* `EffectivePower` is the character sheet power plus any modifications to it that distribute the power across multiple stats. Examples of this are Samurai's Divine Path Level 1 giving an effective power of `Atk` + `Mag` * `0.65` and Ranger's Sniper Level 1 giving an effective power of `Acc` * `1.5` + `Atk` * `0.5` 
+* `SoftCap` SoftCap is the active skill or spell's softcap at the given level, which is the point above which additional EffectivePower is halved
 * `ScaleFactor` is the active skill or spell's rate or multiplier for the given level
-* LEAST(`EffectivePower`,`SoftCap`) is the lesser value between the adventurer's effective power and the softcap. This ultimately means that if the effective power is below the skill or spell's softcap, the softcap does not matter
-* GREATEST(`EffectivePower` - `Softcap`, 0) / 2 is the greater value between the portion of the adventurer's effective power that exceeds the softcap and 0 being being divided by 2. This ultimately means that any effective power that exceeds the softcap gets cut in half
+* `LEAST(EffectivePower,SoftCap)` is the lesser value between the adventurer's effective power and the softcap. This ultimately means that if the effective power is below the skill or spell's softcap, the softcap does not matter
+* `GREATEST(EffectivePower - Softcap, 0) / 2` is the greater value between the portion of the adventurer's effective power that exceeds the softcap and 0 being being divided by 2. This ultimately means that any effective power that exceeds the softcap gets cut in half
 
 There are a couple additional elements to active skill and spell damage that exist on some skills/spells and/or some skill/spell levels, but not on others. Examples of these are things like:
 
@@ -248,7 +248,7 @@ There are also a few skills or spells that have conditional additional elements 
 
 As an example, suppose you have 700 `EffectivePower` and are using a skill that has a `ScaleFactor` of 1.5, a `SoftCap` of 600, and are fighting an enemy with 300 `OpposingDefense`. The expected damage from this skill before other multipliers and damage variance kicks in would be:
 
-(LEAST(`700`,`600`) + GREATEST(`700` - `600`, 0) / 2) * `1.5` - `300` / 2 = `650` * `1.5` - `150` = `825`
+`(LEAST(700,600) + GREATEST(700 - 600, 0) / 2) * 1.5 - 300 / 2` = `650` * `1.5` - `150` = `825`
 
 The key thing in all of this is that when evaluating active skills and spells, it's important to keep in mind both the softcap as well as the scale factor. Both of which usually increase as the skill or spell gets leveled, and while the community at large seems to focus on softcaps, that's only relevant when your effective power exceeds it. Even then, effective power above the softcap does not mean it's wasted - it's just less effective. In many cases, it could be worth leveling a skill or spell even if you haven't reached the softcap just because the increase in damage rate leads to a more potent attack.
 
