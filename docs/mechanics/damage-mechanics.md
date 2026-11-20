@@ -237,7 +237,7 @@ Calculating Skill and Spell damage has multiple key factors that go in to the da
 * `SoftCap` SoftCap is the active skill or spell's softcap at the given level, which is the point above which additional EffectivePower is halved
 * `ScaleFactor` is the active skill or spell's rate or multiplier for the given level
 * `LEAST(EffectivePower,SoftCap)` is the lesser value between the adventurer's effective power and the softcap. This ultimately means that if the effective power is below the skill or spell's softcap, the softcap does not matter
-* `GREATEST(EffectivePower - Softcap, 0) / 2` is the greater value between the portion of the adventurer's effective power that exceeds the softcap and 0 being being divided by 2. This ultimately means that any effective power that exceeds the softcap gets cut in half
+* `GREATEST(EffectivePower - Softcap, 0) / 2` is the greater value between the portion of the adventurer's effective power that exceeds the softcap and 0 being being divided by 2. Again, this means that any effective power exceeding the softcap will increase damage, but the additional effect is cut in half.
 
 There are a couple additional elements to active skill and spell damage that exist on some skills/spells and/or some skill/spell levels, but not on others. Examples of these are things like:
 
