@@ -14,7 +14,7 @@ Node layout and Mind Pearl costs are noted on the node map below, with node bord
     The Well can be reset every 24 hours for free. You can reset it sooner than that for 100 green or purple Gems. The skill, spell, proficiency, and class nodes are always in the same location, however, stat, type change, race-slayer, etc., nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on the next, and one time you may have Dark, Earth, and Water Types available and the next time it's Air, Fire, and Earth.  
 
 ## Skill Improvement Values
-The table below shows the stat increase per node taken.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. 
+The table below shows the stat increase per node taken.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. For nodes that change your character (race, element/type) that can be obtained multiple times, only one will apply, usually the last one obtained.
 
 | Stat | 1st | Repeat |
 |:----|:---:|:---:|
