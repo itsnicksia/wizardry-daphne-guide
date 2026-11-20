@@ -18,24 +18,24 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 
 | Stat | 1st | Repeat |
 |:----|:---:|:---:|
-| HP | 4 | 4 |
-| SP | 2 | 2 |
-| MP | 2 | 2 |
-| ATK | 2 | 2 |
-| SUR | 2 | 1 |
-| ACC | 2 | 2 |
-| MAG | 2 | 2 |
-| DIV | 2 | 2 |
-| ASPD | 2 | 1 |
-| DEF | 3 | 3 |
-| MDEF | 3 | 3 |
-| RES | 2 | 2 |
-| EVA  | 2 | 2 |	
-| Detect | 2 | 1 |
-| Disarm Trap  | 2 | 1 |	
-| Evade Trap  | 2 | 1 |	
+| HP | +4 | +4 |
+| SP | +2 | +2 |
+| MP | +2 | +2 |
+| ATK | +2 | +2 |
+| SUR | +2 | +1 |
+| ACC | +2 | +2 |
+| MAG | +2 | +2 |
+| DIV | +2 | +2 |
+| ASPD | +2 | +1 |
+| DEF | +3 | +3 |
+| MDEF | +3 | +3 |
+| RES | +2 | +2 |
+| EVA  | +2 | +2 |	
+| Detect | +2 | +1 |
+| Disarm Trap  | +2 | +1 |	
+| Evade Trap  | +2 | +1 |	
 | | | |
-| Trait Boost       | 2  | ?  |
+| Trait Boost       | +2  | +2  |
 | | | |
 | Status Tolerance (All types) | 30% | 3-5% |   
 | Class Skill/Spell Proficiency (SP/MP reduction) | 10% | |
