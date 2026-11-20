@@ -37,8 +37,9 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | | | |
 | Trait Boost       | +2  | +2  |
 | | | |
-| Status Tolerance (All types) | 30% | +4-5% |   
+| Status Tolerance - All types | 30% | +4-5% |   
 | Class Skill/Spell Proficiency (SP/MP reduction) | -10% | - |
+| Slayer/Resistance - All Types (Dmg given up & dmg taken dwn) | 10% | 10% |
 | | | |
 | 1H Weapon Proficiency         |+4ATK, +4ACC | +2ATK, +2ACC |  
 | 2H Weapon Proficiency         |+4ATK, +4ACC | +2ATK, +2ACC |  
@@ -47,7 +48,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Blunt Weapon Proficiency      | +4ATK, +4ACC | - |
 | Ranged Weapon Proficiency     |+4ATK, +4ACC | +2ATK, +2ACC |  
 | Staff Weapon Proficiency      | +4MAG, +4DIV | +2MAG, +2DIV |  
-| Armor Proficiency (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |  
+| Armor Proficiency - All types | +4DEF, +4MDEF| +2DEF, +2MDEF |  
 
 ## Guiding Lights
 
