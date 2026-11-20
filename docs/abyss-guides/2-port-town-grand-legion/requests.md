@@ -474,12 +474,12 @@ Goetia -> Admiral Route
 - Get his goods back from the thieves that escaped to the north  
   
 ??? info "Thief Appearance"
-    There is no map in the grasslands but this is what the thieves look like on the overworld.
+    There is no useful map in the grasslands but this is what the first two thieves look like on the overworld.
 
     ![](img/image_59.jpg)
 
-    ??? info
-        For the last 2 thieves you’ll need to go between 2 trees and click the rubble. If it won’t let you interact with it then try circling around till you can. Then head west for the peddler’s goods.
+    ??? info "Final locations"
+        The second thief tells you to look for the last 2 thieves between 2 trees on a hill. You can't see anythnig on the map but you can get coordinates.  The trees/rubble should be located around X:172, Y:190. Reverse the rubble, it will tell you to head due west to find the last thief. If it won’t let you interact with the rubble then try circling around till you can. 
 
         ![](img/image_60.jpg)
 
