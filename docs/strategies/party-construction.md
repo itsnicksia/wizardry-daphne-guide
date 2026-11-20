@@ -332,6 +332,38 @@ These are some parties I have personally and successfully used to clear progress
         - Linaria (Thief/Ranger)
         - Yuzunamiki (Ranger/Ninja)
 
+??? note "Second Lana Alt Release"
+
+    - Party 1
+        - Front Row
+            - MC (Samurai)
+            - Shiou (Samurai/Fighter)
+            - Lana (Knight/Fighter)
+        - Back Row
+            - Shelirionach (Mage/Priest)
+            - Linaria (Thief/Ranger)
+            - Phyllisia (Healer)
+
+    - Party 2
+        - Front Row
+            - MC (Samurai)
+            - Shiou (Samurai/Fighter)
+            - Lana (Knight/Fighter)
+        - Back Row
+            - Shelirionach (Mage/Priest)
+            - Yuzunamiki (Ranger/Ninja)
+            - Phyllisia (Healer)
+
+    - Party 3
+        - Front Row
+            - Prishe (Prishe)
+            - Shiou (Samurai/Fighter)
+            - Lana (Knight/Fighter)
+        - Back Row
+            - Shelirionach (Mage/Priest)
+            - MC (Samurai or Priest or Mage)
+            - Phyllisia (Healer)
+
 ### Additional Considerations
 
 Now that you've decided on your party formation, there are two other major components. Equipment and Skill Inheritance.
