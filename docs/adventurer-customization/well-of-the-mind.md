@@ -43,8 +43,8 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | 1H Weapon Prof.          |+4ATK, +4ACC | +2ATK, +2ACC |  
 | 2H Weapon Prof.          |+4ATK, +4ACC | +2ATK, +2ACC |  
 | Ninja Weapon Prof.      | +4ATK, +4SUR| - |  
-| Blunt Weapon Prof.       |   |   |  
-| Ranged Weapon Prof.       |   |   |  
+| Blunt Weapon Prof.       | +4ATK, +4ACC | - |
+| Ranged Weapon Prof.       |+4ATK, +4ACC | +2ATK, +2ACC |  
 | Staff Weapon Prof.       | +4MAG, +4DIV | +2MAG, +2DIV |  
 | Armor Prof. (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |  
 
