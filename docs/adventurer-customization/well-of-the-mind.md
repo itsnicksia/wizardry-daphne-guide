@@ -158,7 +158,7 @@ The following table gives you details about the Lamps that unlock more of the We
 | POTO | Increases Poison Tolerance |
 | BITO | Increases Bind Tolerance |
 | | |
-| PARALLEL BREAK | Has a chance of inflicting Sleep/Stun/Confusion/Fear on 1 enemy row. |
+| PARALLEL BREAK | Has a chance of inflicting Sleep/Stun/Confusion/Fear on 1 enemy row. Individually, each effect is applied with lower liklihood than the equivelent level 1 spell/skill, but each status effect is rolled individually giving four rolls for one to take effect and disable each enemy. |
 | CHRONOSTASIS | Minor physical attack that always hits 1 enemy. High chance of greatly slowing target's Action Order |
 | | |
 | EMBERS | Embers of Resurgence maximum number increased by 1 for each skill level obtained. |
