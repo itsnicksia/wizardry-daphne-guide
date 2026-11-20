@@ -37,7 +37,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | | | |
 | Trait Boost       | +2  | +2  |
 | | | |
-| Status Tolerance (All types) | 30% | 3-5% |   
+| Status Tolerance (All types) | 30% | +3-5% |   
 | Class Skill/Spell Proficiency (SP/MP reduction) | 10% | |
 | | | |
 | 1H Weapon Proficiency         |+4ATK, +4ACC | +2ATK, +2ACC |  
