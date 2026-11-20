@@ -14,7 +14,7 @@ Node layout and Mind Pearl costs are noted on the node map below, with node bord
     The Well can be reset every 24 hours for free. You can reset it sooner than that for 100 green or purple Gems. The skill, spell, proficiency, and class nodes are always in the same location, however, stat, type change, race-slayer, etc., nodes reset randomly. For example, it is possible to have 3 Surety nodes on one reset and just 1 Surety node on the next, and one time you may have Dark, Earth, and Water Types available and the next time it's Air, Fire, and Earth.  
 
 ## Skill Improvement Values
-The table below shows the stat increase per node taken.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. 
+The table below shows the stat increase per node taken.  For nodes that can be obtained multiple times, repeats may give reduced improvement as noted. For nodes that change your character (race, element/type) that can be obtained multiple times, only one will apply, usually the last one obtained.
 
 | Stat | 1st | Repeat |
 |:----|:---:|:---:|
@@ -37,8 +37,9 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | | | |
 | Trait Boost       | +2  | +2  |
 | | | |
-| Status Tolerance (All types) | 30% | +4-5% |   
+| Status Tolerance - All types | 30% | +4-5% |   
 | Class Skill/Spell Proficiency (SP/MP reduction) | -10% | - |
+| Slayer/Resistance - All Types (Dmg given up & dmg taken dwn) | 10% | 10% |
 | | | |
 | 1H Weapon Proficiency         |+4ATK, +4ACC | +2ATK, +2ACC |  
 | 2H Weapon Proficiency         |+4ATK, +4ACC | +2ATK, +2ACC |  
@@ -47,7 +48,7 @@ The table below shows the stat increase per node taken.  For nodes that can be o
 | Blunt Weapon Proficiency      | +4ATK, +4ACC | - |
 | Ranged Weapon Proficiency     |+4ATK, +4ACC | +2ATK, +2ACC |  
 | Staff Weapon Proficiency      | +4MAG, +4DIV | +2MAG, +2DIV |  
-| Armor Proficiency (All types) | +4DEF, +4MDEF| +2DEF, +2MDEF |  
+| Armor Proficiency - All types | +4DEF, +4MDEF| +2DEF, +2MDEF |  
 
 ## Guiding Lights
 
