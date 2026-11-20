@@ -226,9 +226,31 @@ There are two status afflictions that currently allow you to deal increased dama
 * `Opening` is even more unique. It causes you to deal over 100% damage, but we're not entirely sure what the number is yet, as there are some nuances to it. For example, if you miss while attacking an enemy with the `Opening` affliction, the enemy will still take a large amount of damage. It's possible that a component of this damage is tied to the enemy's maximum or current HP.
 
 ## Active Skill and Spell Damage
-Active skills and spells are a very unique bunch. It's hard to figure out the exact formula for them, but latest testing shows some interesting behavior. It currently seems that rather than being perfectly linear or on a damage curve, the damage is linear up until a certain inflection point of attack or magic power, then there is a shift and the skill or spell remains linear but the slope of that line changes. This behavior is very bizarre, but it ultimately means that at a certain point, a skill or spell at a particular level stops increasing at the rate it used to increase at and tapers off to increase at a significantly slower rate.
 
-For active skills, this has a very unique side effect. After that skill level's inflection point (or soft cap if you want to think of it that way), a basic attack starts to deal more damage than the skill at that level.
+!!! warning "Warning: Contains math"
+
+Calculating Skill and Spell damage has multiple key factors that go in to the damage, and it can be represented using the following formula.
+
+`ActiveDamage` = (LEAST(`EffectivePower`,`SoftCap`) + GREATEST(`EffectivePower` - `SoftCap`, 0) / 2) * `ScaleFactor` - `OpposingDefense` / 2
+
+* `EffectivePower` is the character sheet power plus any modifications to it that distribute the power across multiple stats. Examples of this are Samurai having an effective power of `Atk + Mag` * 0.65 and Rangers having an effective power of `Acc` * 1.5 + `Atk` * 0.5
+* `SoftCap` is the active skill or spell's softcap at the given level
+* `ScaleFactor` is the active skill or spell's rate or multiplier for the given level
+* LEAST(`EffectivePower`,`SoftCap`) is the lesser value between the adventurer's effective power and the softcap. This ultimately means that if the effective power is below the skill or spell's softcap, the softcap does not matter
+* GREATEST(`EffectivePower` - `Softcap`, 0) / 2 is the greater value between the portion of the adventurer's effective power that exceeds the softcap and 0 being being divided by 2. This ultimately means that any effective power that exceeds the softcap gets cut in half
+
+There are a couple additional elements to active skill and spell damage that exist on some skills/spells and/or some skill/spell levels, but not on others. Examples of these are things like:
+
+* `FlatValue` which is simply a flat damage value that gets added to the above calculation
+* `EffectiveMinimum` which is a minimum `EffectivePower` needed for the full formula to apply. If that minimum is not met, the value gets cut in half
+
+There are also a few skills or spells that have conditional additional elements based on whether or not a 2h weapon is being used.
+
+As an example, suppose you have 700 `EffectivePower` and are using a skill that has a `ScaleFactor` of 1.5, a `SoftCap` of 600, and are fighting an enemy with 300 `OpposingDefense`. The expected damage from this skill before other multipliers and damage variance kicks in would be:
+
+(LEAST(`700`,`600`) + GREATEST(`700` - `600`, 0) / 2) * `1.5` - `300` / 2 = `650` * `1.5` - `150` = `825`
+
+The key thing in all of this is that when evaluating active skills and spells, it's important to keep in mind both the softcap as well as the scale factor. Both of which usually increase as the skill or spell gets leveled, and while the community at large seems to focus on softcaps, that's only relevant when your effective power exceeds it. Even then, effective power above the softcap does not mean it's wasted - it's just less effective. In many cases, it could be worth leveling a skill or spell even if you haven't reached the softcap just because the increase in damage rate leads to a more potent attack.
 
 ## Calculating Damage
 
@@ -246,7 +268,7 @@ This looks like a relatively simple formula, but there are some nuances that mak
 * `SureHitModifier` is factored in if you land a sure hit
 * `StatusAfflicitionModifier` is factored in if you're hitting a sleeping enemy or an Opening
 * `OffHandDamageReduction` appears to start out at a `0.5` multiplier when hitting with the off-hand weapon while Dual Wielding. This multiplier increases as the Dual Wield skill level increases
-* `BaseDamageFromPowerDefenseAndActiveSkills` is currently the big unknown. We're not entirely sure how the power listed on the stats page translates to the damage that you deal. We also don't entirely know how the active skills fit into the equation. We're still trying to determine if they're a damage multiplier, a multiplier on attack power, or something else. We do know that some component of this is involves taking your attack power, adding attack power boosts from `Warrior's Battle Cry`, subtracting half of your enemy's defense, subtracting (or adding) any additional defense values from spells and skills like `MORLIS`, `Armor Break`, `MAKALTU`, and factoring in the defense penetration on axes, `Precision Strike`, and `Sneak Attack`. This is the black box that we hope to decipher as we gather more data.
+* `BaseDamageFromPowerDefenseAndActiveSkills` is the base damage before multipliers but after defense reductions get applied. See the above section for details on how this is calculated.
 
 ### Example Damage Calculation
 As an example, suppose you meet the following criteria:
