@@ -47,7 +47,7 @@
                 - Each copy requires rerunning the entire 4th run and fighting the boss wolf (or both wolves on 3rd run if you're into pain). If you got good blessings on your runs 3 and 4 boes, *maybe* a third bow to unify to +10 makes sense for your team.  
                 - In the process of that 25 run farm, you're more likely to just find a regular silver bow with better stars and blessings plus the unify fodder from the junk chests in the cave.
                 - By the time that boss fight becomes easy enough to consider running it repeatedly for this item, you probably have better bows than this one.
-            - If you really want to anyway: reset the request, and repeat the full 4th run instructions.
+            - If you really want to anyway: reset the request, bring a ranger with you, you can bear trap the b2f wolf right away, then go beat the B3F wolf, then go free the B2F wolf and get led to the pelt, go turn in request. Reports are there is no need to leave and deal with dead ranger at all on subsequent runs. 
             
 
     === "How to Reset" 
@@ -145,7 +145,7 @@
     
         - Ignore the B2F wolf.
         - Collect the B3F dead hunter's body and exit. 
-        - L25 Ranger must be in your party. Revive at the Temple and pick 2nd option. Told to use a bear trap. (On subsequent runs you don't need the ranger with you *at the temple*, just don't buy the meat.)
+        - L25 Ranger must be in your party. Revive at the Temple and pick 2nd option. Told to use a bear trap.  
         - Trap B2F wolf with Ranger bear trap skill. 
         - Go to B3F bottom-left room and fight one wolf boss. Chose to "Let it go". 
         - Go to B2F wolf, Ranger will release it. Head to the Harken. 
@@ -253,7 +253,7 @@
             - Same steps as the 2nd Run. Ignore the wolf on B2F and do not draw its attention.   
         - B3F 
             - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
-            - <span style="color: #F2473A">Warning!</span> A Ranger (L25 minimum to set a bear trap) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run (Good ending). They are also required for the entire remainder of this run.  (*Note: After completing the 4th run once you don't need the ranger with you at the temple. Just don't buy the meat and remember to take him with you back to the cave.)
+            - <span style="color: #F2473A">Warning!</span> A Ranger (L25 minimum to set a bear trap) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run (Good ending). They are also required for the entire remainder of this run.  
             - Revive the dead hunter. Pick the second option that you want his help to "pin down" the Alabaster wolf. Since you have a Ranger in your party, he will tell you to use a bear trap.
         - B2F
             - Harken back to B2F.
@@ -267,6 +267,9 @@
             - Go to the Harken. Both wolves will reappear and lead you to a buried Alabaster Coat. Look for  a white glowing spot somewhere near the last place you see them.  Use your reversal power. 
             - Return to the Guild and submit the request. You will receive the Verdant Frost Branch Bow.  
             - The 3rd Run (Good ending) is optional unless you want all the compendium entries.
+
+        !!! tip "Reruns"
+            After completing the above once, you don't need to dealneoth three dead ranger anymore. Just bring a ranger with you, immediately trap the b2f wolf, head to TRD floor and finish the quest. no need to take the ranger back.)
             
     === "Boss: Alabaster Balewolf" 
     
