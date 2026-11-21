@@ -967,7 +967,7 @@
 
     === "Fight Details"
 		- Frontline: Royal Light Knight Corpse 3x + Royal Knight Corpse 2x. Midline: Royal Light Knight Corpse 2x + Royal Knight Corpse 2x. Backline: Royal Light Knight Corpse 3x + Royal Knight Corpse 2x + 1 Necromancer.
-		- Light Knights have a chance to apply paralysis on hit. Heavy Corpses have a chance to apply stun on hit. All knights can surety on hit. They do minor/decent damage per attack. MAREIN does not work on them.
+		- Light Knights have a chance to apply paralysis on hit. Heavy Corpses have a chance to apply stun on hit. All knights can surety on hit. They do minor/decent damage per attack. They are considered undead, so typical physical attacks will have reduced effectiveness.
 		- Necromancer can summon 3 more knights (heavy). Can also cast KANTIOS. It has very low HP, but killing him before killing all the Knight Corpses will have him resurrect immediately.
 		- It's very recommended to bring multiple Mages to cast LA-spells to instantly wipe the entire field before they go. If not, it's recommended to bring a Knight with Line Cover and a Priest for MAKALKI.
 
