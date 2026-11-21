@@ -57,7 +57,8 @@
     ![](./img/alabaster-wolf-reward.png)
     </div>
 
-    - Fixed at 3* Blue. 
+    - Fixed at 3* Blue, Strength (Unification) 0.
+    - Like a Longbow of Splendor with a bit more (fixed ACC).
     - Passive SP Up provides a flat 6 SP that does not increase upon enhancement.
     - Note that bows are the only weapons that can roll ASPD blessings. 
 
@@ -127,19 +128,19 @@
         - Ignore the B2F wolf.
         - Collect the B3F dead hunter's body and exit. Remove all Rangers from active party. 
         - Revive at the Temple and pick 2nd option to receive rabbit meat. 
-        - Distract B2F wolf. 
-        - Go to B3F bottom-left room. Fight back-to-back wolf bosses. Cannot heal inbetween fights. 
+        - Distract B2F wolf with meat. See map below.
+        - Go to B3F bottom-left room. Fight back-to-back wolf bosses. Cannot heal between fights. 
         - Submit request for unique reward. 
     
     === "4th Run"
     
         - Ignore the B2F wolf.
         - Collect the B3F dead hunter's body and exit. 
-        - L25 Ranger must be in your party. Revive at the Tempe and pick 2nd option. Told to use a bear trap. 
+        - L25 Ranger must be in your party. Revive at the Temple and pick 2nd option. Told to use a bear trap. 
         - Trap B2F wolf with Ranger bear trap skill. 
-        - Go to B3F bottom-left room and fight wolf boss. Chose to "Let it go". 
-        - Ranger will release the B2F wolf. Head to the Harken. 
-        - Follow the wolves to buried Alabaster Coat. Restore with reversal power.
+        - Go to B3F bottom-left room and fight one wolf boss. Chose to "Let it go". 
+        - Go to B2F wolf, Ranger will release it. Head to the Harken. 
+        - Follow the wolves to buried Alabaster Coat. White glowing spot on floor. Restore with reversal power.
         - Submit request for unique reward. 
     
     === "Note"
@@ -254,12 +255,12 @@
             - Return to the bottom-left room and engage the wolf.  
         - Post-Battle 
             - After defeating the wolf chose to "Let it go." Return to B2F and head to the area where you trapped the wolf. Walk around until you trigger a cutscene. Your Ranger will release the wolf from the trap. 
-            - Go to the Harken. Both wolfs will reappear and lead you to a buried Alabaster Coat. Use your reversal power. 
+            - Go to the Harken. Both wolves will reappear and lead you to a buried Alabaster Coat. Look for  a white glowing spot somewhere near the last place you see them.  Use your reversal power. 
             - Return to the Guild and submit the request. You will receive the Verdant Frost Branch Bow.  
             - The 3rd Run (Good ending) is optional unless you want all the compendium entries.
             
     === "Boss: Alabaster Balewolf" 
     
-        - Boss fight details to be added. 
+        - Boss fight is identical to the 1st run.
 
 
