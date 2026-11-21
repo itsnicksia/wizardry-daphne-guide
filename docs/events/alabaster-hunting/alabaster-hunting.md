@@ -47,8 +47,7 @@
                 - Each copy requires rerunning the entire 4th run and fighting the boss wolf (or both wolves on 3rd run if you're into pain). If you got good blessings on your runs 3 and 4 boes, *maybe* a third bow to unify to +10 makes sense for your team.  
                 - In the process of that 25 run farm, you're more likely to just find a regular silver bow with better stars and blessings plus the unify fodder from the junk chests in the cave.
                 - By the time that boss fight becomes easy enough to consider running it repeatedly for this item, you probably have better bows than this one.
-            - If you really want to anyway: reset the request, bring a ranger with you, you can bear trap the b2f wolf right away, then go beat the B3F wolf, then go free the B2F wolf and get led to the pelt, go turn in request. Reports are there is no need to leave and deal with dead ranger at all on subsequent runs. 
-            
+            - If you really want to anyway: Reset the request, bring a ranger, bear trap the b2f wolf right away, go right down and beat the B3F wolf, free the B2F wolf, get led to the coat, go turn in request. Reports are on repewt runs there is no need to deal with the dead ranger at all. 
 
     === "How to Reset" 
 
