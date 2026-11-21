@@ -67,7 +67,7 @@
     </div>
 
     - Fixed at 3* Blue, Strength (Unification) 0.
-    - Like a Longbow of Splendor with a bit more (fixed ACC).
+    - Like a Longbow of Splendor with a bit more (fixed) ACC.
     - Passive SP Up provides a flat 6 SP that does not increase upon enhancement.
     - Note that bows are the only weapons that can roll ASPD blessings. 
 
