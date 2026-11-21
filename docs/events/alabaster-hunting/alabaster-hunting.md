@@ -268,8 +268,8 @@
             - Return to the Guild and submit the request. You will receive the Verdant Frost Branch Bow.  
             - The 3rd Run (Good ending) is optional unless you want all the compendium entries.
 
-        !!! tip "Reruns"
-            After completing the above once, you don't need to dealneoth three dead ranger anymore. Just bring a ranger with you, immediately trap the b2f wolf, head to TRD floor and finish the quest. no need to take the ranger back.)
+        - Reruns  
+            - Repoets are that after completing the above process once, assuming no bugged behavior, you no longer need to deal with the dead ranger. Bring a ranger with you, immediately trap the b2f wolf, head to the 3rd floor, head right for the b3f wolf, than finish getting the coat. No need to run back to the temple. Be aware though that with the number of previous bugs for this request it may still be advisable to follow the full quest path.
             
     === "Boss: Alabaster Balewolf" 
     
