@@ -40,6 +40,15 @@
         - Optimal Routes
             - B1F only with auto-chest is one of the most efficient approaches. 
             - An alternative approach is to farm B1F but auto-path to one of the drop-down holes. The self-contained area on B2F has a high chest spawning rate.  
+        - Reward Item Farming
+            - The Verdant Frost Bow is generally not recommendatd for farming:  
+                - Other than the +10 SP, it's only advantage is +6ACC over a generic Silver bow.  
+                - It is Strength 0, and only 3 star blue. You'll need 27 copies to reach +20.   
+                - Each copy requires rerunning the entire 4th run and fighting the boss wolf (or both wolves on 3rd run if you're into pain). If you got good blessings on your runs 3 and 4 boes, *maybe* a third bow to unify to +10 makes sense for your team.  
+                - In the process of that 25 run farm, you're more likely to just find a regular silver bow with better stars and blessings plus the unify fodder from the junk chests in the cave.
+                - By the time that boss fight becomes easy enough to consider running it repeatedly for this item, you probably have better bows than this one.
+            - If you really want to anyway: reset the request, and repeat the full 4th run instructions.
+            
 
     === "How to Reset" 
 
@@ -136,7 +145,7 @@
     
         - Ignore the B2F wolf.
         - Collect the B3F dead hunter's body and exit. 
-        - L25 Ranger must be in your party. Revive at the Temple and pick 2nd option. Told to use a bear trap. 
+        - L25 Ranger must be in your party. Revive at the Temple and pick 2nd option. Told to use a bear trap. (On subsequent runs you don't need the ranger with you *at the temple*, just don't buy the meat.)
         - Trap B2F wolf with Ranger bear trap skill. 
         - Go to B3F bottom-left room and fight one wolf boss. Chose to "Let it go". 
         - Go to B2F wolf, Ranger will release it. Head to the Harken. 
@@ -244,7 +253,7 @@
             - Same steps as the 2nd Run. Ignore the wolf on B2F and do not draw its attention.   
         - B3F 
             - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
-            - <span style="color: #F2473A">Warning!</span> A Ranger (L25 minimum to set a bear trap) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run (Good ending). They are also required for the entire remainder of this run.  
+            - <span style="color: #F2473A">Warning!</span> A Ranger (L25 minimum to set a bear trap) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run (Good ending). They are also required for the entire remainder of this run.  (*Note: After completing the 4th run once you don't need the ranger with you at the temple. Just don't buy the meat and remember to take him with you back to the cave.)
             - Revive the dead hunter. Pick the second option that you want his help to "pin down" the Alabaster wolf. Since you have a Ranger in your party, he will tell you to use a bear trap.
         - B2F
             - Harken back to B2F.
