@@ -51,7 +51,7 @@ The Crucible Mausoleum floor is unique in that it contains a random selection of
 
 ??? note "Altar of Morgus: God of Death's Favor"    
     ![](img/maus-god-of-deaths-favor.jpg)   
-    The one chest per visit limit can be increased by making a sacrifice of 100 Gems at the Altar of Morgus.  After paying the Gems, a one hour countdown will begin during which time you will be allowed to open up to three doors per visit to the Mausoleum before the remaining doors lock. You can leave and re-enter the mausoleum as many times as you want during that hour, opening up to three chests each time. Note the warning though, that the number of enemies, including wandering necrocores, is increased. Because there is no limitation on simply leaving and reentering the Mausoleum, this is considered a rather low-value use of Gems and is discouraged.
+    The one chest per visit limit can be increased by making a sacrifice of 100 Gems at the Altar of Morgus.  After paying the Gems, a one hour countdown will begin during which time you will be allowed to open up to three chests per visit to the Mausoleum before the remaining doors lock. You can leave and re-enter the mausoleum as many times as you want during that hour, opening up to three chests each time. Note the warning though, that the number of enemies, including wandering necrocores, is significantly increased. Because there is no limitation on simply leaving and reentering the Mausoleum, this is considered a rather low-value use of Gems just for bone collection.  It can, however, significantly increase the number of bone fragments collected from the mausoleum, so may be useful for farming purposes.
 
 ??? note "Mausoleum Guide Protection"  
     
