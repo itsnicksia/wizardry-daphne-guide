@@ -36,9 +36,10 @@
 !!! warning "Read Me"
 
     === "Basics"
-        - The game does not consistently respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
-        - The "Fresh Start" CW node serves as a univeral reset button. It can respawn map chests, fix broken flags, or resolve minor bugs. 
-        - Be forewarned that if you CW outside of your current Abyss, then all of your maps will be reset and may re-roll a different floor variation.
+        - The game does not respawn items on its own after the cd = 0. To make them appear you need to do a "forced respawn". 
+        - The general process for this is to use the Cursed Wheel (CW) to Leap back to a node before the map level / request (reset the flags) then CW Leap forward again to a point when the item/request in available.  
+        - As the first "post-Awakening" point in the game, the Abyss 1 "Fresh Start" CW node serves as a univeral reset button. It can respawn all map chests/requsets for all Abysses in the game, fix broken flags, or sometimes resolve minor bugs related to request/event progress. 
+        - Warning: if you CW to a point before you arrived at your Abyss, then all of that Abyss's maps will be reset and may re-roll a different floor variation. (In Abyss 1, the reset node is "Awakening". "Fresh Start" will not reset Abyss 1 maps).
     
     === "Troubleshooting"
     
@@ -53,7 +54,8 @@
     
     === "Issues with A2"
         - Respawning items in A2 has been a long-running problem in the community and it is due to how the event flags are programmed. 
-        - Items will only appear on a timeline where Melgina is the GWO. The event flags used to turn "on" Octoranus likely disable or break the cd timers. 
+        - Many items will only appear on a timeline where Melgina is the GWO. The event flags used to turn "on" Octoranus likely disable or break the cd timers. 
+        - Unlike other Abysses, most requests are only available while at a timeline spot within that abyss. Jumping to a point beyond A2, most requests stop being available.
         - A2 has its own sub-section as it requires additional steps. 
        
 ## Respawning Guides
@@ -69,10 +71,11 @@
         - Go to the appropriate Abyss and collect your items.
 
     === "Technical Notes" 
-        - The steps work for A1 and A3-4. 
-        - A1, Floor 7 Platforms 
+        - As mentioned above, these steps work for A1 and A3-4, but not A2. 
+        - A1, Floor 7 Platforms (from floor 8 rubble) already filled in:
             - CW twice on "King's Arrival" or the final node of your most recently cleared Abyss. 
-            - You can also Harken to Floor 8 and reverse the two closest stones.  
+            - Should reset the events with right-hand related changes complete.  (Rubble in A1, Water statues in A2, etc.)
+            - You can also manually Harken to Floor 8 and reverse the two closest stones.  
         - Catacombs 
             - The Catacombs bugged appears to be fixed and the chests in the locked room should now show on the mini-map when you enter. 
 
@@ -181,7 +184,7 @@
 
 ??? note "Cooldown Formula" 
 
-    - We do not know the exact cd formula that Drecom uses. However, we do have 10 months of data that allows us to make some approximations. 
+    - We do not know the exact cd formula that Drecom uses. However, we do have 2 years of data that allows us to make some approximations. 
     - Minimum Number of Days
         - Items can respawn as early as 21 Days. No item in the dataset has ever spawned before that point.
         - 21 Days functions as a fixed value in the formula.
@@ -205,15 +208,15 @@
     === "Bone Picker" 
         - Every 7 Days. 
         - Sells 1x Bone and 1x Tallow. You have to encounter him twice per week for both items.  
-        - Costs Gold to purchase. Price increases based on Abyss progression. 
-        - Can appear on any floor in an Abyss. Will never appear in side dungeon. 
-        - Spamming the A2 Pier (Floor 7) is a fast way to get him to appear.  
+        - Costs Gold to purchase.
+        - Can appear on any floor in an Abyss. Will never appear in side dungeons. 
+        - Spamming the A2 Pier (Floor 7) is a fast way to get him to appear since there are no combats.  
         - Operates on a similar cd timer as the Ancient Mausoleum Tallow whose cd timer is visible.
 
     === "Enemy Chest Bone" 
         - Every 7 days. 
         - Can come from -any- enemy chest drop, including super bosses. 
-        - It it appears it can overwrite unique gear drops. This may have been recently patched. Under investigation. 
+        - It appears it can overwrite unique gear drops. This may have been recently patched. Under investigation. 
 
 ### Contact
 
