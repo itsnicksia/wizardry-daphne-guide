@@ -1,7 +1,7 @@
 <div id="tracker-page">
 
   <div id="tracker-readme-container">
-    <div id="tracker-readme-label">RESPAWN MECHANICS</div>
+    <div id="tracker-readme-label">README:<br>RESPAWN MECHANICS</div>
     <button id="tracker-readme-button" type="button" aria-label="READ ME">
     <span class="tracker-readme-art" aria-hidden="true"></span>
     </button>
