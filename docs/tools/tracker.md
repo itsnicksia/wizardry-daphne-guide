@@ -20,7 +20,7 @@
       <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
       <li><em>How to Respawn</em>:
             <ul> <li>Short version: Cursed Wheel to a point before the item to reset it. Cursed Wheel to a point after the item to make it available again. Go get the thing.</li>
-                 <li>Long version: see <a href="../tracker-directions/">Respawn Mechanics page for details and troubleshooting</a>.</li>
+                 <li>Long version: see <a href="../tracker-directions/">Respawn Mechanics page</a> for details and troubleshooting.</li>
             </ul></li>
       
       <li>Note: Abyss maps can vary with sections shifted or swapped. See <a href="../../mechanics/map-variations/" >Map Varations page</a> for details. Items shift as well but will remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
