@@ -1,7 +1,7 @@
 <div id="tracker-page">
 
   <div id="tracker-readme-container">
-    <div id="tracker-readme-label">READ ME</div>
+    <div id="tracker-readme-label">RESPAWN MECHANICS</div>
     <button id="tracker-readme-button" type="button" aria-label="READ ME">
     <span class="tracker-readme-art" aria-hidden="true"></span>
     </button>
@@ -10,13 +10,19 @@
   <!-- Instructions for users -->
   <div id="tracker-container">
     <ul>
-      <li>The tracker gets regular updates, for some browsers you need to hard-refresh (CTRL-F5) to ensure the underlying JavaScript gets refreshed.</li>
-      <li>Click an entry name to view its image (if it has one).</li>
+      <li>The tracker gets regular updates, please reload the page to ensure the underlying JavaScript gets refreshed.</li>
+      <li>Click an entry name to view its image or a map to the item/location (if it has one).</li>
       <li>Click “Collect” to record it, “Update” to overwrite, or “⟲” to undo.</li>
       <li>Transfer acquisition status between devices with the Export code.</li>
       <li>You can now create new tabs (based on the default tab template), rename tabs and any text element via edit mode using the edit icon, hide and restore hidden items with “Show Hidden” then re-enable them and collapse headers or subheaders using the down arrow on their far right.</li>
       <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
+      <li><em>How to Respawn</em> (short version): Cursed Wheel to a point before the item to reset it, then Cursed Wheel to a point after the item to make it available again. 
+            <ul> <li>Requests - Leap to any point before the request becomes available, then leap again to any ponit after it becomes available.</li>  
+                 <li>Map Chests/items - Leap to any point before floor was first entered, then to any point after the floor was first entered. These are the most buggy, so using the First and last Wheel noded in the Abyss in question is often the most reliable (e.g., Awakening/Fresh Start and King's Rescue in Abyss 1) </li>
+            </ul></li>
+      <li><em>How to Respawn</em> (long version): see <a href="../tracker-directions/">Respawn Mechanics page for details and troubleshooting</a>.</li>
       <li>Note: Abyss maps can vary with sections shifted or swapped. See <a href="../../mechanics/map-variations/" >Map Varations page</a> for details. Items shift as well but will remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
+      
     </ul>
 
     <!-- Sync UI -->
