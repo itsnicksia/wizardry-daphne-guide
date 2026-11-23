@@ -4,14 +4,15 @@
 
 === "What is it?" 
 
-    - Each Abyss has a small number of map chests and Guild request rewards that can respawn after a certain amount of real-world time has passed. The game uses a hidden cooldown timer. When it reaches zero ("cd = 0") the item will respawn and can be collected again.
-    - The cooldown timer starts when a map chest is opened or a Guild request is submitted. The game does -not- use a universal cooldown timer that resets items on the first of the month or on a specific day of the week. 
+    - Each Abyss has a small number of map chests & item and Guild request rewards that can respawn after a certain amount of real-world time has passed. The game uses a hidden individual cooldown timer for each item. When it reaches zero ("cd = 0") the item can respawn and be collected again.
+    - The cooldown timer starts when a map chest is opened, item is obtained, or a Guild request is submitted. For most things the game does -not- use a universal cooldown timer that resets items on the first of the month or on a specific day of the week. 
     
 === "Respawn Intervals" 
 
     - Most items respawn monthly [30 days]. They have a chance to appear starting at Day 21 with an increasing % chance on each subsequent day up to Day 30 (100%).
     - Weekly items generally respawn after [7 Days], but in some rare cases can take up to 9 days. 
     - We recommend picking a day each month to collect your targeted items. The alternative is to check on a daily basis after Day 21, but it can become time-intensive.
+    - There are reports that game updates sometimes trigger respawns sooner than expected (essentially set "cd = 0"). This seems to happen randomly and isn't something to rely upon, but you're always welcome to check.
 
 === "Abbreviations" 
 
