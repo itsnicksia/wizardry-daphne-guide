@@ -9,6 +9,7 @@
 
   <!-- Instructions for users -->
   <div id="tracker-container">
+    INSTRUCTIONS:
     <small>
     <ul>
       <li>The tracker gets regular updates, please reload the page to ensure the underlying JavaScript gets refreshed.</li>
@@ -18,7 +19,7 @@
       <li>You can now create new tabs (based on the default tab template), rename tabs and any text element via edit mode using the edit icon, hide and restore hidden items with “Show Hidden” then re-enable them and collapse headers or subheaders using the down arrow on their far right.</li>
       <li>Respawn interval noted in item text if known. <em>Times are approximate</em>. E.g., "monthly" items have reset as early as 24 days, and weekly items have taken as many as 10 days.</li>
       <li><em>How to Respawn</em>:
-            <ul> <li>Short version: Cursed Wheel to a point before the item to reset it, then Cursed Wheel to a point after the item to make it available again. Go get the thing</li>
+            <ul> <li>Short version: Cursed Wheel to a point before the item to reset it. Cursed Wheel to a point after the item to make it available again. Go get the thing.</li>
                  <li>Long version: see <a href="../tracker-directions/">Respawn Mechanics page for details and troubleshooting</a>.</li>
             </ul></li>
       
