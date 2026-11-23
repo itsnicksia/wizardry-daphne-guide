@@ -9,6 +9,7 @@
 
   <!-- Instructions for users -->
   <div id="tracker-container">
+    <small>
     <ul>
       <li>The tracker gets regular updates, please reload the page to ensure the underlying JavaScript gets refreshed.</li>
       <li>Click an entry name to view its image or a map to the item/location (if it has one).</li>
@@ -22,8 +23,8 @@
             </ul></li>
       <li><em>How to Respawn</em> (long version): see <a href="../tracker-directions/">Respawn Mechanics page for details and troubleshooting</a>.</li>
       <li>Note: Abyss maps can vary with sections shifted or swapped. See <a href="../../mechanics/map-variations/" >Map Varations page</a> for details. Items shift as well but will remain in the same relative location. If (x,y) location doesn't match your map, refer to the Abyss Dungeon Maps to see variations.</li>
-      
     </ul>
+    </small>
 
     <!-- Sync UI -->
     <div id="sync-container"></div>
