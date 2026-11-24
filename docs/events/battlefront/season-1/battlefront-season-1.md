@@ -486,7 +486,7 @@
 
     === "Reinforced"
 
-        ![](./img/hwoh/hwoh-20-reinforced.png){ width="550" }  
+        ![](./img/hwoh/hwoh-20-reinforced.jpg){ width="550" }  
         - Very expensive, but 7 more ATK than a Silver Greatsword, with more ACC and SUR.
 
     === "Traits" 
