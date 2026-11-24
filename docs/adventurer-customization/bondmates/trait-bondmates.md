@@ -24,7 +24,7 @@
         ![](img/starting-trust.png)
         </div>
 
-### Overview
+### Overview ![](img/adventurer-bondmate-example.jpg){align=right width="300" height=auto}  
 
 === "What is a Trait Bondmate?" 
 
