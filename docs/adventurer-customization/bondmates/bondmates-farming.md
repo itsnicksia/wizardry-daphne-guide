@@ -1,6 +1,6 @@
 # Bondmate Leveling
 
-The Cursed Wheel allows you to go back in time and reacquire bondmates.  Repeat acquisition increases Bond level for most Bondmates and the level of the associated skill.  
+The Cursed Wheel allows you to go back in time and reacquire bondmates.  Repeat acquisition increases Bond level and the level of the associated skill for most Bondmates.  
 
 ## Bondmate Levels
 
