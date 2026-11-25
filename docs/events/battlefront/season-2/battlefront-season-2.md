@@ -458,6 +458,8 @@
 
 === "Warstaff of Honor" 
 
+    !!! note "Faeries can use this weapon without any penalties"
+
     === "+20"
 
         ![](./img/warstaff-of-honor-20.png){ width="550" }
