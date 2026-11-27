@@ -1,0 +1,21 @@
+[data-md-color-scheme="slate"] {
+  --md-hue: 38;
+  --md-default-fg-color--light: #d4ad7a;
+  --md-primary-bg-color: #ddd1b7;
+}
+
+.red        { color: rgb(215, 25, 15);  } /* d7190f */
+.green      { color: rgb(16, 112, 41);  } /* 107029 */
+.blue       { color: rgb(51, 107, 204); } /* 336bcc */
+.purple     { color: rgb(124, 77, 255); } /* 7c4dff */
+.cyan       { color: rgb(39, 113, 132); } /* 277184 */
+.orange     { color: rgb(212, 128, 17); } /* d48011 */
+
+/* page header bar:
+background black:   1a1814
+searchbox black:    13120f
+text beige:         ddd1b7
+
+   body:
+headers orange:     d4ad7a
+main beige:         c6cb4e */
